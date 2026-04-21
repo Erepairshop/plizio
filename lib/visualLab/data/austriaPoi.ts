@@ -74,6 +74,206 @@ export const austriaRegions: POI[] = [
     image: "/geo-images/austria/vienna.webp",
     description: { de: "Wien, die pulsierende Hauptstadt Österreichs, ist zugleich das kleinste und bevölkerungsreichste Bundesland. Die Metropole an der Donau vereint kaiserliche Pracht mit zeitgenössischer Kultur und wird regelmäßig als die Stadt mit der weltweit höchsten Lebensqualität ausgezeichnet. Prunkbauten wie das Schloss Schönbrunn, die Hofburg und der Stephansdom zeugen von der glorreichen Vergangenheit als Residenzstadt der Habsburger. Wien ist auch die Welthauptstadt der klassischen Musik, untrennbar verbunden mit Genies wie Mozart, Beethoven und Strauß. Die einzigartige Wiener Kaffeehauskultur, die Heurigen am Stadtrand und moderne Kunstquartiere wie das MuseumsQuartier machen Wien zu einem unvergleichlichen Erlebnis für jeden Besucher.", hu: "Bécs, Ausztria lüktető fővárosa, egyben a legkisebb és legnépesebb szövetségi tartomány is. A Duna menti metropolisz a császári pompát a kortárs kultúrával ötvözi, és rendszeresen elnyeri a világ legélhetőbb városa címet. Az olyan pompás épületek, mint a Schönbrunni kastély, a Hofburg és a Szent István-dóm a Habsburgok rezidenciavárosaként eltöltött dicsőséges múltról tanúskodnak. Bécs a klasszikus zene világfővárosa is, elválaszthatatlanul összefonódott olyan zsenikkel, mint Mozart, Beethoven és Strauss. Az egyedülálló bécsi kávéházi kultúra, a város szélén található Heurigerek (borozók) és az olyan modern művészeti negyedek, mint a MuseumsQuartier, Bécset minden látogató számára páratlan élménnyé teszik.", ro: "Viena, capitala vibrantă a Austriei, este, de asemenea, cel mai mic și mai populat stat federal. Metropola de pe Dunăre combină splendoarea imperială cu cultura contemporană și este desemnată în mod regulat ca fiind orașul cu cea mai înaltă calitate a vieții din lume. Clădirile magnifice, cum ar fi Palatul Schönbrunn, Hofburg și Catedrala Sf. Ștefan, mărturisesc trecutul glorios ca reședință a Habsburgilor. Viena este și capitala mondială a muzicii clasice, indisolubil legată de genii precum Mozart, Beethoven și Strauss. Cultura unică a cafenelelor vieneze, tavernele Heurigen de la periferia orașului și cartierele de artă modernă precum MuseumsQuartier fac din Viena o experiență incomparabilă pentru fiecare vizitator.", en: "Vienna, the vibrant capital of Austria, is also the smallest and most populous federal state. The metropolis on the Danube combines imperial splendor with contemporary culture and is regularly ranked as the city with the highest quality of life worldwide. Magnificent buildings such as Schönbrunn Palace, the Hofburg, and St. Stephen's Cathedral bear witness to its glorious past as the residence city of the Habsburgs. Vienna is also the world capital of classical music, inextricably linked with geniuses like Mozart, Beethoven, and Strauss. The unique Viennese coffee house culture, the Heurigen (wine taverns) on the outskirts, and modern art districts like the MuseumsQuartier make Vienna an incomparable experience for every visitor." },
     facts: { de: ["Wien ist sowohl Stadt als auch ein eigenständiges Bundesland.","Fast ein Drittel der österreichischen Bevölkerung lebt im Großraum Wien.","Das historische Zentrum Wiens ist UNESCO-Weltkulturerbe.","Schloss Schönbrunn ist die meistbesuchte Sehenswürdigkeit Österreichs.","Die Spanische Hofreitschule pflegt die klassische Reitkunst.","Der Wiener Prater beherbergt das berühmte Riesenrad.","Wurde wiederholt zur lebenswertesten Stadt der Welt gewählt.","Die Wiener Kaffehauskultur ist immaterielles UNESCO-Kulturerbe.","Zentraler UN-Standort (Vienna International Centre).","Berühmt für kulinarische Ikonen wie Wiener Schnitzel und Sachertorte."], hu: ["Bécs egyaránt város és önálló szövetségi tartomány.","Az osztrák lakosság majdnem egyharmada Bécs vonzáskörzetében él.","Bécs történelmi központja az UNESCO Világörökség része.","A Schönbrunni kastély Ausztria leglátogatottabb nevezetessége.","A Spanyol Lovasiskola ápolja a klasszikus lovaglás művészetét.","A bécsi Práterben található a híres óriáskerék.","Többször is megválasztották a világ legélhetőbb városának.","A bécsi kávéházi kultúra az UNESCO szellemi kulturális öröksége.","Az ENSZ egyik központi székhelye (Vienna International Centre).","Híres kulináris ikonokról, mint a bécsi szelet és a Sacher-torta."], ro: ["Viena este atât un oraș, cât și un stat federal independent.","Aproape o treime din populația austriacă trăiește în zona metropolitană a Vienei.","Centrul istoric al Vienei face parte din Patrimoniul Mondial UNESCO.","Palatul Schönbrunn este cea mai vizitată atracție din Austria.","Școala Spaniolă de Călărie menține arta ecvestră clasică.","Praterul vienez găzduiește faimoasa Roată Mare.","A fost votată în mod repetat cel mai bun oraș pentru locuit din lume.","Cultura cafenelelor vieneze este un patrimoniu cultural imaterial UNESCO.","Locație centrală a ONU (Vienna International Centre).","Renumită pentru icoane culinare precum Șnițelul vienez și Torta Sacher."], en: ["Vienna is both a city and an independent federal state.","Almost a third of the Austrian population lives in the greater Vienna area.","The historical center of Vienna is a UNESCO World Heritage site.","Schönbrunn Palace is the most visited attraction in Austria.","The Spanish Riding School cultivates the classical art of riding.","The Viennese Prater is home to the famous Giant Ferris Wheel.","Has repeatedly been voted the most livable city in the world.","Viennese coffee house culture is an intangible UNESCO cultural heritage.","Central UN location (Vienna International Centre).","Famous for culinary icons like Wiener Schnitzel and Sachertorte."] }
+  },
+  {
+    id: "at-tulln-an-der-donau",
+    type: "city",
+    parent: "AT",
+    coords: [16.0589, 48.3284],
+    name: { de: "Tulln an der Donau", hu: "Tulln a Duna partján", ro: "Tulln pe Dunăre", en: "Tulln an der Danube" },
+    image: "/geo-images/austria/tulln-an-der-donau.webp",
+    description: {
+      de: "Tulln an der Donau ist eine lebendige Stadt in Niederösterreich mit starkem Bezug zum Fluss, zu Gärten und zur regionalen Landwirtschaft. Die Donaulage macht den Ort seit Jahrhunderten zu einem wichtigen Handels- und Verkehrspunkt. Heute verbindet Tulln eine gepflegte Altstadt mit modernen Messe-, Schul- und Freizeitangeboten. Für SEO rund um Donau-Radweg, Gartenstadt und Ausflüge ins Tullnerfeld ist der Name besonders stark.",
+      hu: "Tulln a Duna partján egy élénk alsó-ausztriai város, amely erősen kötődik a folyóhoz, a kertekhez és a helyi mezőgazdasághoz. A Duna menti fekvés évszázadok óta fontos kereskedelmi és közlekedési ponttá teszi. Ma Tulln rendezett óvárost, modern vásári és iskolai kínálatot, valamint sok szabadidős lehetőséget ötvöz. A Duna-kerékpárút, a kertváros és a Tullnerfeld kirándulásai szempontjából kifejezetten erős keresési célpont.",
+      ro: "Tulln pe Dunăre este un oraș viu din Austria Inferioară, legat puternic de fluviu, de grădini și de agricultura regională. Așezarea de pe Dunăre a făcut locul, de secole, un punct important de comerț și transport. Astăzi, Tulln combină un centru vechi îngrijit cu oferte moderne de târguri, școli și timp liber. Pentru căutări SEO despre pista de biciclete de pe Dunăre, orașul-grădină și excursiile în Tullnerfeld, numele are o putere mare.",
+      en: "Tulln an der Danube is a lively town in Lower Austria with a strong connection to the river, gardens, and regional agriculture. Its Danube location has made it an important trade and transport point for centuries. Today, Tulln combines a tidy old town with modern fair, school, and leisure offerings. It is a strong SEO target for Danube cycle routes, garden tourism, and day trips into the Tullnerfeld."
+    },
+    facts: {
+      de: ["Liegt direkt an der Donau in Niederösterreich.", "Gilt als Garten- und Messestadt mit starkem Freizeitprofil.", "Der Donauradweg führt durch das Stadtgebiet.", "Tulln ist ein wichtiges Zentrum des Tullnerfelds.", "Der Ort verbindet Landwirtschaft, Handel und Stadttourismus."],
+      hu: ["Közvetlenül a Dunánál fekszik Alsó-Ausztriában.", "Kert- és vásárvárosként ismert, erős szabadidős kínálattal.", "A Duna-kerékpárút áthalad a városon.", "Tulln a Tullnerfeld fontos központja.", "A település a mezőgazdaságot, a kereskedelmet és a városi turizmust köti össze."],
+      ro: ["Se află direct pe Dunăre, în Austria Inferioară.", "Este cunoscut ca oraș al grădinilor și al târgurilor.", "Ruta ciclistă de pe Dunăre trece prin oraș.", "Tulln este un centru important al Tullnerfeldului.", "Localitatea combină agricultura, comerțul și turismul urban."],
+      en: ["Located directly on the Danube in Lower Austria.", "Known as a garden and fair town with a strong leisure profile.", "The Danube cycle path runs through the city.", "Tulln is an important center of the Tullnerfeld region.", "The town links agriculture, trade, and city tourism."]
+    },
+  },
+  {
+    id: "at-neunkirchen-niederoesterreich",
+    type: "city",
+    parent: "AT",
+    coords: [16.0808, 47.7279],
+    name: { de: "Neunkirchen", hu: "Neunkirchen", ro: "Neunkirchen", en: "Neunkirchen" },
+    image: "/geo-images/austria/neunkirchen-niederoesterreich.webp",
+    description: {
+      de: "Neunkirchen ist ein traditionsreicher Bezirkshauptort am Rand der Buckligen Welt und nahe der Semmeringregion. Die Stadt verbindet das ruhige Leben im Wiener Becken mit kurzen Wegen in die alpinen Vorberge. Historische Plätze, Einkaufsmöglichkeiten und eine solide lokale Wirtschaft prägen das Stadtbild. Als Suchbegriff funktioniert Neunkirchen stark für Niederösterreich, Semmering und Ausflüge in die Südregion.",
+      hu: "Neunkirchen hagyományos járási székhely a Bucklige Welt peremén és a Semmering-régió közelében. A város a bécsi medence nyugodt életét az alpesi előhegyek közelségével ötvözi. A városképet történelmi terek, bevásárlási lehetőségek és stabil helyi gazdaság határozza meg. Keresési kifejezésként Neunkirchen jól működik Alsó-Ausztria, a Semmering és a déli kirándulások témájában.",
+      ro: "Neunkirchen este un centru districtual cu tradiție, aflat la marginea regiunii Bucklige Welt și aproape de zona Semmering. Orașul combină viața liniștită din bazinul Vienei cu acces rapid la poalele alpine. Piețe istorice, opțiuni de cumpărături și o economie locală solidă definesc imaginea orașului. Ca termen SEO, Neunkirchen funcționează bine pentru Austria Inferioară, Semmering și excursiile spre sud.",
+      en: "Neunkirchen is a traditional district town on the edge of the Bucklige Welt and close to the Semmering region. The town combines the calm life of the Vienna Basin with quick access to the Alpine foothills. Historic squares, shopping options, and a solid local economy shape the urban profile. As a search term, Neunkirchen works well for Lower Austria, Semmering, and southern day trips."
+    },
+    facts: {
+      de: ["Bezirkshauptstadt im südlichen Niederösterreich.", "Nahe an der Semmeringbahn und an alpinen Ausflugszielen.", "Wichtiger Standort für Handel und Dienstleistungen.", "Das Umland öffnet den Zugang zur Buckligen Welt.", "Die Stadt ist gut per Bahn und Straße angebunden."],
+      hu: ["Dél-alsó-ausztriai járási székhely.", "Közel van a Semmering-vasúthoz és az alpesi kirándulóhelyekhez.", "Fontos kereskedelmi és szolgáltató központ.", "A környék kaput nyit a Bucklige Welt felé.", "A város vasúton és közúton is jól elérhető."],
+      ro: ["Este reședința districtului din sudul Austriei Inferioare.", "Se află aproape de calea ferată Semmering și de destinații alpine.", "Un centru important pentru comerț și servicii.", "Împrejurimile deschid accesul spre Bucklige Welt.", "Orașul este bine conectat prin tren și șosea."],
+      en: ["District capital in southern Lower Austria.", "Close to the Semmering Railway and Alpine excursion areas.", "An important center for trade and services.", "The surrounding area opens access to the Bucklige Welt region.", "The town is well connected by rail and road."]
+    },
+  },
+  {
+    id: "at-hollabrunn",
+    type: "city",
+    parent: "AT",
+    coords: [16.0743, 48.5636],
+    name: { de: "Hollabrunn", hu: "Hollabrunn", ro: "Hollabrunn", en: "Hollabrunn" },
+    image: "/geo-images/austria/hollabrunn.webp",
+    description: {
+      de: "Hollabrunn liegt im Weinviertel und steht für Weinbau, offene Landschaften und ein ruhiges Kleinstadtgefühl. Die Stadt ist ein wichtiger regionaler Mittelpunkt für Schulen, Märkte und medizinische Versorgung. Rund um Hollabrunn prägen Kellergassen und Weingärten das typische nordöstliche Niederösterreich-Bild. Für Reisen, Genuss und Weinregion-SEO ist Hollabrunn ein klarer Treffer.",
+      hu: "Hollabrunn a Weinviertelben fekszik, és a borászatot, a nyílt tájat és a nyugodt kisvárosi hangulatot képviseli. A város fontos regionális központ az iskolák, a piacok és az egészségügyi ellátás számára. Hollabrunn körül pincesorok és szőlőskertek formálják Északkelet-Alsó-Ausztria jellegzetes arculatát. Utazási, gasztronómiai és borvidéki SEO-szempontból Hollabrunn nagyon erős név.",
+      ro: "Hollabrunn se află în Weinviertel și înseamnă viticultură, peisaje deschise și atmosfera liniștită a unui oraș mic. Orașul este un centru regional important pentru școli, piețe și servicii medicale. În jurul lui Hollabrunn, aleile de crame și viile conturează imaginea tipică a nord-estului Austriei Inferioare. Pentru turism, gastronomie și SEO despre regiuni viticole, Hollabrunn este o alegere foarte bună.",
+      en: "Hollabrunn sits in the Weinviertel and stands for wine growing, open landscapes, and a calm small-town feel. The town is an important regional hub for schools, markets, and medical care. Around Hollabrunn, cellar lanes and vineyards define the classic look of northeastern Lower Austria. For travel, food, and wine-region SEO, Hollabrunn is a strong match."
+    },
+    facts: {
+      de: ["Liegt im Weinviertel in Niederösterreich.", "Bekannt für Weinbau und Kellergassen.", "Ist ein regionales Schul- und Versorgungszentrum.", "Die Landschaft ist von Ackerbau und Reben geprägt.", "Guter Ausgangspunkt für Radtouren durch das Weinviertel."],
+      hu: ["A Weinviertelben, Alsó-Ausztriában található.", "A bortermelésről és a pincesorokról ismert.", "Regionális iskolai és ellátó központ.", "A tájat szántóföldek és szőlők határozzák meg.", "Jó kiindulópont a Weinviertel kerékpáros túráihoz."],
+      ro: ["Se află în Weinviertel, în Austria Inferioară.", "Este cunoscut pentru vinificație și cramele de tip Kellergasse.", "Este un centru regional pentru școli și servicii.", "Peisajul este dominat de câmpuri și viță-de-vie.", "Punct bun de plecare pentru tururi cu bicicleta în Weinviertel."],
+      en: ["Located in the Weinviertel of Lower Austria.", "Known for wine production and cellar lanes.", "A regional hub for schools and services.", "The landscape is shaped by fields and vineyards.", "A good starting point for cycling tours through the Weinviertel."]
+    },
+  },
+  {
+    id: "at-zwettl-niederoesterreich",
+    type: "city",
+    parent: "AT",
+    coords: [15.1671, 48.6048],
+    name: { de: "Zwettl", hu: "Zwettl", ro: "Zwettl", en: "Zwettl" },
+    image: "/geo-images/austria/zwettl.webp",
+    description: {
+      de: "Zwettl ist das Herz des Waldviertels und verbindet Klostertradition, Granitlandschaft und regionale Genusskultur. Die Stadt ist für ihre ruhige Lage am Flusslauf der Kamp und für ihre historischen Fassaden bekannt. Besucher entdecken hier ein authentisches Niederösterreich abseits der großen Touristenströme. Als SEO-Ort für Waldviertel, Kloster und Bierkultur hat Zwettl eine starke, klare Identität.",
+      hu: "Zwettl a Waldviertel központja, ahol a kolostori hagyomány, a gránittáj és a helyi gasztronómia találkozik. A város a Kamp folyó menti nyugodt fekvéséről és történelmi homlokzatairól ismert. A látogatók itt a nagy turistaforgalomtól távoli, hiteles Alsó-Ausztriát fedezhetik fel. Waldviertel, kolostor és sörkultúra SEO-szavakhoz Zwettl erős és jól felismerhető név.",
+      ro: "Zwettl este inima regiunii Waldviertel și combină tradiția monastică, peisajul de granit și cultura gustului local. Orașul este cunoscut pentru poziția liniștită de-a lungul râului Kamp și pentru fațadele sale istorice. Vizitatorii descoperă aici o Austria Inferioară autentică, departe de marile fluxuri turistice. Ca termen SEO pentru Waldviertel, mănăstire și cultura berii, Zwettl are o identitate puternică.",
+      en: "Zwettl is the heart of the Waldviertel and combines monastic tradition, granite landscapes, and local food culture. The town is known for its quiet setting along the Kamp River and for its historic facades. Visitors discover an authentic Lower Austria here, away from the big tourist crowds. For Waldviertel, monastery, and beer-culture SEO, Zwettl has a strong identity."
+    },
+    facts: {
+      de: ["Gilt als Zentrum des Waldviertels.", "Lage am Fluss Kamp prägt das Stadtbild.", "Historische Bausubstanz trifft auf ruhige Kleinstadtstruktur.", "Die Region ist bekannt für Granit und Wälder.", "Zwettl steht stark für Genuss, Kloster und Naturausflüge."],
+      hu: ["A Waldviertel központjának számít.", "A Kamp folyó fekvése meghatározza a városképet.", "A történelmi épületek nyugodt kisvárosi szerkezettel találkoznak.", "A régió gránitról és erdőkről ismert.", "Zwettl erősen kötődik a gasztronómiához, a kolostorokhoz és a természetjáráshoz."],
+      ro: ["Este considerat centrul regiunii Waldviertel.", "Așezarea pe râul Kamp definește imaginea orașului.", "Clădirile istorice se îmbină cu structura liniștită de oraș mic.", "Regiunea este cunoscută pentru granit și păduri.", "Zwettl este asociat cu gastronomia, mănăstirile și excursiile în natură."],
+      en: ["Considered the center of the Waldviertel.", "Its position on the Kamp River shapes the cityscape.", "Historic buildings meet a calm small-town structure.", "The region is known for granite and forests.", "Zwettl is strongly linked to food, monasteries, and nature trips."]
+    },
+  },
+  {
+    id: "at-bischofshofen",
+    type: "city",
+    parent: "AT",
+    coords: [13.2163, 47.4177],
+    name: { de: "Bischofshofen", hu: "Bischofshofen", ro: "Bischofshofen", en: "Bischofshofen" },
+    image: "/geo-images/austria/bischofshofen.webp",
+    description: {
+      de: "Bischofshofen ist ein bedeutender Ort im Pongau und steht für alpinen Verkehr, Wintersport und Salzach-Tal-Atmosphäre. Die Stadt ist als Etappe der Vierschanzentournee international bekannt und zieht jedes Jahr Wintersportfans an. Rund um den Ort treffen Bahn, Bundesstraße und Bergwelt aufeinander, was Bischofshofen auch wirtschaftlich wichtig macht. Für Reise-SEO in Salzburg und für Skisprung-Themen ist der Ort besonders stark.",
+      hu: "Bischofshofen a Pongau egyik fontos települése, amely az alpesi közlekedést, a téli sportokat és a Salzach-völgyi hangulatot képviseli. A város a Négysáncverseny egyik állomásaként nemzetközileg is ismert, és minden évben sok síugrásrajongót vonz. A település körül vasút, főút és hegyvidék találkozik, ami gazdaságilag is fontossá teszi. Salzburgi utazási SEO-ban és síugrás témában Bischofshofen különösen erős név.",
+      ro: "Bischofshofen este o localitate importantă din Pongau și reprezintă transportul alpin, sporturile de iarnă și atmosfera văii Salzach. Orașul este cunoscut internațional ca etapă a Turneului Celor Patru Trambuline și atrage în fiecare an fani ai săriturilor cu schiurile. În jurul localității se întâlnesc calea ferată, drumul principal și lumea montană, ceea ce îi conferă și importanță economică. Pentru SEO de călătorie în Salzburg și pentru subiecte de sărituri cu schiurile, Bischofshofen este foarte puternic.",
+      en: "Bischofshofen is an important town in the Pongau and stands for Alpine transport, winter sports, and the Salzach Valley atmosphere. The town is internationally known as a stop on the Four Hills Tournament and draws ski-jumping fans every year. Rail, road, and mountain scenery meet here, which also makes Bischofshofen economically important. For Salzburg travel SEO and ski-jumping topics, the town is especially strong."
+    },
+    facts: {
+      de: ["Liegt im Pongau im Bundesland Salzburg.", "Ist international als Station der Vierschanzentournee bekannt.", "Der Bahnhof ist ein wichtiger Knoten im Salzachtal.", "Die Lage verbindet Tourismus, Sport und Verkehr.", "Das Umland führt direkt in die Hohen Tauern."],
+      hu: ["A salzburgi Pongau régióban található.", "Nemzetközileg ismert a Négysáncverseny állomásaként.", "Az állomás fontos csomópont a Salzach-völgyben.", "A fekvése a turizmust, a sportot és a közlekedést köti össze.", "A környék közvetlenül a Hohe Tauern felé vezet."],
+      ro: ["Se află în Pongau, în landul Salzburg.", "Este cunoscut internațional ca etapă a Turneului Celor Patru Trambuline.", "Gara este un nod important în valea Salzach.", "Așezarea leagă turismul, sportul și transportul.", "Împrejurimile duc direct spre Hohe Tauern."],
+      en: ["Located in the Pongau region of Salzburg.", "Known internationally as a stop on the Four Hills Tournament.", "The station is an important hub in the Salzach Valley.", "Its location connects tourism, sport, and transport.", "The surrounding area leads directly into the Hohe Tauern."]
+    },
+  },
+  {
+    id: "at-gmunden",
+    type: "city",
+    parent: "AT",
+    coords: [13.8019, 47.9192],
+    name: { de: "Gmunden", hu: "Gmunden", ro: "Gmunden", en: "Gmunden" },
+    image: "/geo-images/austria/gmunden.webp",
+    description: {
+      de: "Gmunden am Traunsee ist eine der elegantesten Städte im Salzkammergut und ein Paradebeispiel für österreichische Seen-SEO. Der Ort verbindet kaiserliche Sommerfrische, Keramiktradition und eine spektakuläre Seelage mit Blick auf den Traunstein. Schlösser, Uferpromenade und Bootsverkehr geben Gmunden eine sehr fotogene, touristisch starke Identität. Wer nach Traunsee, Salzkammergut oder Seeurlaub in Oberösterreich sucht, landet schnell bei Gmunden.",
+      hu: "A Traunsee partján fekvő Gmunden a Salzkammergut egyik legelegánsabb városa, és az osztrák tóparti SEO mintapéldája. A település a császári nyaralóhangulatot, a kerámiatradíciót és a látványos tóparti fekvést ötvözi, a Traunsteinre nyíló kilátással. Kastélyok, sétány és hajóforgalom adják Gmunden nagyon fotogén és turisztikailag erős arculatát. Aki Traunsee, Salzkammergut vagy oberösterreichi tóparti pihenés után keres, gyorsan Gmundenhez jut.",
+      ro: "Gmunden, pe malul lacului Traunsee, este unul dintre cele mai elegante orașe din Salzkammergut și un exemplu perfect de SEO austriac pentru lacuri. Localitatea combină atmosfera de vară imperială, tradiția ceramicii și poziția spectaculoasă pe malul apei, cu vedere spre Traunstein. Castelele, promenada și traficul de bărci îi dau lui Gmunden o identitate foarte fotogenică și puternic turistică. Cine caută Traunsee, Salzkammergut sau vacanță la lac în Austria Superioară ajunge rapid la Gmunden.",
+      en: "Gmunden on Lake Traunsee is one of the most elegant towns in the Salzkammergut and a textbook case of Austrian lake SEO. The town combines imperial summer-resort flair, ceramics tradition, and a dramatic lakeside setting with views of the Traunstein. Castles, the promenade, and boat traffic give Gmunden a highly photogenic and tourist-friendly identity. Anyone searching for Traunsee, the Salzkammergut, or a lake holiday in Upper Austria quickly ends up at Gmunden."
+    },
+    facts: {
+      de: ["Liegt direkt am Traunsee im Salzkammergut.", "Bekannt für die Gmundner Keramik.", "Schloss Orth ist ein Wahrzeichen am Seeufer.", "Der Traunstein prägt die Silhouette der Stadt.", "Gmunden ist ein klassisches Ziel für Seen- und Kulturtourismus."],
+      hu: ["Közvetlenül a Traunsee partján fekszik, a Salzkammergutban.", "A Gmundner Keramikról ismert.", "A Schloss Orth a tópart egyik jelképe.", "A Traunstein meghatározza a város sziluettjét.", "Gmunden klasszikus célpont a tóparti és kulturális turizmushoz."],
+      ro: ["Se află direct pe lacul Traunsee, în Salzkammergut.", "Este cunoscut pentru ceramica Gmundner.", "Castelul Orth este un simbol de pe malul lacului.", "Traunstein domină silueta orașului.", "Gmunden este o destinație clasică pentru turism de lac și cultură."],
+      en: ["Located directly on Lake Traunsee in the Salzkammergut.", "Known for Gmunden ceramics.", "Schloss Orth is a landmark on the lakeshore.", "The Traunstein mountain shapes the town's skyline.", "Gmunden is a classic destination for lake and culture tourism."]
+    },
+  },
+  {
+    id: "at-amstetten",
+    type: "city",
+    parent: "AT",
+    coords: [14.8723, 48.1227],
+    name: { de: "Amstetten", hu: "Amstetten", ro: "Amstetten", en: "Amstetten" },
+    image: "/geo-images/austria/amstetten.webp",
+    description: {
+      de: "Amstetten ist ein wichtiger Knotenpunkt im Mostviertel und steht für Mobilität, Wirtschaft und kurze Wege zwischen Donau und Alpenrand. Die Stadt ist als Verkehrs- und Dienstleistungsstandort bekannt und hat eine starke regionale Ausstrahlung. Im Umfeld liegen Obstgärten, Hügelland und zahlreiche Ziele für Tagesausflüge. Für Niederösterreich-SEO, Mostviertel und Bahnverbindungen ist Amstetten ein sehr nützlicher Ort.",
+      hu: "Amstetten a Mostviertel fontos csomópontja, és a mobilitást, a gazdaságot valamint a Duna és az Alpok pereme közötti gyors kapcsolódást képviseli. A város közlekedési és szolgáltató központként ismert, erős regionális kisugárzással. A környéken gyümölcsösök, dombvidék és sok egynapos kirándulási célpont található. Alsó-Ausztria SEO, Mostviertel és vasúti kapcsolatok esetében Amstetten nagyon hasznos név.",
+      ro: "Amstetten este un nod important în Mostviertel și reprezintă mobilitatea, economia și legăturile scurte între Dunăre și poalele Alpilor. Orașul este cunoscut ca centru de transport și servicii, având o influență regională puternică. În jur se află livezi, zone colinare și numeroase destinații pentru excursii de o zi. Pentru SEO despre Austria Inferioară, Mostviertel și conexiuni feroviare, Amstetten este un nume foarte util.",
+      en: "Amstetten is an important hub in the Mostviertel and stands for mobility, business, and short links between the Danube and the Alpine foothills. The town is known as a transport and service center with strong regional influence. The surrounding area features orchards, rolling hills, and many day-trip destinations. For Lower Austria SEO, the Mostviertel, and rail connections, Amstetten is a very useful name."
+    },
+    facts: {
+      de: ["Wichtiger Verkehrsknoten im Mostviertel.", "Liegt zwischen Donau und Alpenvorland.", "Region ist stark von Obstbau und Landwirtschaft geprägt.", "Amstetten hat eine hohe Bedeutung für Pendler und Handel.", "Guter Ausgangspunkt für Ausflüge in das hügelige Mostviertel."],
+      hu: ["Fontos közlekedési csomópont a Mostviertelben.", "A Duna és az Alpok előtere között fekszik.", "A régiót erősen jellemzi a gyümölcstermesztés és a mezőgazdaság.", "Amstetten fontos a ingázók és a kereskedelem számára.", "Jó kiindulópont a dombos Mostviertelbe tett kirándulásokhoz."],
+      ro: ["Un nod de transport important în Mostviertel.", "Se află între Dunăre și poalele Alpilor.", "Regiunea este puternic influențată de pomicultură și agricultură.", "Amstetten are o importanță mare pentru navetiști și comerț.", "Punct bun de plecare pentru excursii în Mostviertelul colinar."],
+      en: ["A major transport hub in the Mostviertel.", "Located between the Danube and the Alpine foothills.", "The region is strongly shaped by fruit growing and agriculture.", "Amstetten matters greatly for commuters and trade.", "A good base for trips into the hilly Mostviertel."]
+    },
+  },
+  {
+    id: "at-spittal-an-der-drau",
+    type: "city",
+    parent: "AT",
+    coords: [13.4929, 46.7908],
+    name: { de: "Spittal an der Drau", hu: "Spittal an der Drau", ro: "Spittal an der Drau", en: "Spittal an der Drau" },
+    image: "/geo-images/austria/spittal-an-der-drau.webp",
+    description: {
+      de: "Spittal an der Drau ist das urbane Zentrum des Oberkärntner Lurngaus und ein beliebter Ausgangspunkt für Seen und Berge. Die Stadt liegt an der Drau und verbindet Handel, Tourismus und Alltagsleben in einer kompakten Form. Mit der Nähe zum Millstätter See und zu den Nockbergen besitzt sie eine starke Freizeit- und Urlaubsposition. Für Kärnten-SEO, Drau und Bergseen ist Spittal an der Drau ein sehr passender Ort.",
+      hu: "Spittal an der Drau Felső-Karintia városi központja és kedvelt kiindulópont a tavakhoz és a hegyekhez. A város a Drau folyó mentén fekszik, és a kereskedelmet, a turizmust és a mindennapi életet kompakt formában köti össze. A Millstätter See és a Nockberge közelsége erős szabadidős és üdülési pozíciót ad neki. Karintia SEO-ban, a Drau és a hegyi tavak témájában Spittal an der Drau nagyon jó választás.",
+      ro: "Spittal an der Drau este centrul urban al nordului Carintiei și un punct de plecare popular pentru lacuri și munți. Orașul se află pe râul Drau și combină comerțul, turismul și viața de zi cu zi într-o formă compactă. Prin apropierea de Millstätter See și Nockberge, are o poziție puternică pentru timp liber și vacanțe. Pentru SEO despre Carintia, Drau și lacuri montane, Spittal an der Drau este foarte potrivit.",
+      en: "Spittal an der Drau is the urban center of Upper Carinthia and a popular starting point for lakes and mountains. The town sits on the Drau River and combines trade, tourism, and daily life in a compact form. Its closeness to Lake Millstatt and the Nockberge gives it a strong leisure and holiday position. For Carinthia SEO, the Drau, and mountain lakes, Spittal an der Drau is a very good fit."
+    },
+    facts: {
+      de: ["Liegt an der Drau in Oberkärnten.", "Wichtiger Ausgangspunkt Richtung Millstätter See.", "Das Stadtleben verbindet Handel und Tourismus.", "Die Nockberge sind schnell erreichbar.", "Spittal ist ein regionaler Knoten im Drautal."],
+      hu: ["A karintiai Drau mentén fekszik.", "Fontos kiindulópont a Millstätter See felé.", "A városi élet a kereskedelmet és a turizmust ötvözi.", "A Nockberge gyorsan elérhető.", "Spittal regionális csomópont a Drau-völgyben."],
+      ro: ["Se află pe râul Drau, în Carintia de Sus.", "Este un punct de plecare important spre Millstätter See.", "Viața urbană combină comerțul și turismul.", "Nockberge este ușor accesibil.", "Spittal este un nod regional în valea Drau."],
+      en: ["Located on the Drau River in Upper Carinthia.", "An important starting point toward Lake Millstatt.", "Urban life combines trade and tourism.", "The Nockberge are quickly reachable.", "Spittal is a regional node in the Drau Valley."]
+    },
+  },
+  {
+    id: "at-telfs",
+    type: "city",
+    parent: "AT",
+    coords: [11.0661, 47.3070],
+    name: { de: "Telfs", hu: "Telfs", ro: "Telfs", en: "Telfs" },
+    image: "/geo-images/austria/telfs.webp",
+    description: {
+      de: "Telfs liegt im Tiroler Inntal und ist einer der wichtigsten Orte zwischen Innsbruck und dem Oberland. Die Marktgemeinde verbindet Wirtschaft, Verkehr und Wohnqualität mit einem klar alpinen Umfeld. Durch die Nähe zu Seefeld, der Mieminger Kette und dem Inntal ist Telfs für Freizeit und Reisen sehr attraktiv. Als Suchbegriff ist Telfs stark für Tirol, Inntal und alpines Alltagsleben.",
+      hu: "Telfs a tiroli Inn-völgyben fekszik, és Innsbruck és az Oberland között az egyik legfontosabb település. A mezőváros a gazdaságot, a közlekedést és a lakhatási minőséget ötvözi egyértelműen alpesi környezetben. Seefeld, a Miemingi-hegység és az Inn-völgy közelsége miatt Telfs a szabadidő és az utazás szempontjából is vonzó. Keresőkifejezésként Telfs erős Tirol, Inn-völgy és alpesi mindennapok témában.",
+      ro: "Telfs se află în valea Inn din Tirol și este una dintre cele mai importante localități între Innsbruck și Oberland. Comuna de piață combină economia, transportul și calitatea locuirii într-un cadru clar alpin. Datorită apropierii de Seefeld, lanțul Mieming și valea Inn, Telfs este foarte atractiv pentru timp liber și călătorii. Ca termen de căutare, Telfs este puternic pentru Tirol, valea Inn și viața alpină de zi cu zi.",
+      en: "Telfs sits in the Tyrolean Inn Valley and is one of the key places between Innsbruck and the Oberland. The market town combines business, transport, and quality of life in a distinctly Alpine setting. Because of its proximity to Seefeld, the Mieming Range, and the Inn Valley, Telfs is attractive for leisure and travel. As a search term, Telfs is strong for Tyrol, the Inn Valley, and Alpine everyday life."
+    },
+    facts: {
+      de: ["Liegt im Inntal westlich von Innsbruck.", "Marktgemeinde mit starkem Wirtschafts- und Wohnstandort.", "Nahe an Seefeld und den Tiroler Alpen.", "Der Ort profitiert von guter Straßen- und Bahnverbindung.", "Beliebt für Alltagsurlaub zwischen Berg und Tal."],
+      hu: ["Innsbrucktól nyugatra, az Inn-völgyben található.", "Mezőváros erős gazdasági és lakóövezeti szereppel.", "Közel van Seefeldhez és a tiroli Alpokhoz.", "A település jó közúti és vasúti kapcsolatokkal rendelkezik.", "Népszerű a hegy és völgy közti mindennapi pihenéshez."],
+      ro: ["Se află în valea Inn, la vest de Innsbruck.", "Comuna de piață are un rol puternic economic și rezidențial.", "Aproape de Seefeld și de Alpii tirolezi.", "Localitatea beneficiază de legături bune rutiere și feroviare.", "Populară pentru escapade între munte și vale."],
+      en: ["Located in the Inn Valley west of Innsbruck.", "A market town with a strong business and residential role.", "Close to Seefeld and the Tyrolean Alps.", "The town benefits from good road and rail links.", "Popular for everyday leisure between mountains and valley."]
+    },
+  },
+  {
+    id: "at-worgl",
+    type: "city",
+    parent: "AT",
+    coords: [12.0598, 47.4895],
+    name: { de: "Wörgl", hu: "Wörgl", ro: "Wörgl", en: "Wörgl" },
+    image: "/geo-images/austria/worgl.webp",
+    description: {
+      de: "Wörgl ist ein wichtiger Verkehrsknoten im Tiroler Unterland und verbindet das Inntal mit dem Brixental und dem Kaisergebirge. Die Stadt ist wirtschaftlich lebendig, von Handel und Pendlerverkehr geprägt und für ihre zentrale Lage bekannt. Gleichzeitig bietet Wörgl schnellen Zugang zu Bergen, Tälern und Wintersportorten. Für Tirol-SEO, Bahnverkehr und alpine Anreise ist Wörgl ein sehr starkes Stichwort.",
+      hu: "Wörgl a tiroli Unterland fontos közlekedési csomópontja, amely összeköti az Inn-völgyet a Brixentallel és a Kaisergebirgével. A város gazdaságilag élénk, a kereskedelem és az ingázó forgalom határozza meg, és központi fekvéséről ismert. Ugyanakkor Wörgl gyors hozzáférést ad a hegyekhez, völgyekhez és téli sporthelyekhez. Tirol SEO, vasúti közlekedés és alpesi érkezés témában Wörgl nagyon erős kulcsszó.",
+      ro: "Wörgl este un nod de transport important în Tirolul de Jos și leagă valea Inn de Brixental și de masivul Kaisergebirge. Orașul este economic dinamic, marcat de comerț și navetiști, și este cunoscut pentru poziția sa centrală. În același timp, Wörgl oferă acces rapid la munți, văi și stațiuni de iarnă. Pentru SEO despre Tirol, transport feroviar și sosire alpină, Wörgl este un termen foarte puternic.",
+      en: "Wörgl is a major transport hub in Lower Tyrol, linking the Inn Valley with the Brixental and the Kaiser Mountains. The town is economically lively, shaped by trade and commuter traffic, and is known for its central location. At the same time, Wörgl offers quick access to mountains, valleys, and winter sports resorts. For Tyrol SEO, rail travel, and Alpine arrivals, Wörgl is a very strong keyword."
+    },
+    facts: {
+      de: ["Wichtiger Verkehrsknoten im Tiroler Unterland.", "Verbindet das Inntal mit dem Brixental.", "Stark von Handel und Pendlerverkehr geprägt.", "Guter Ausgangspunkt für Ski- und Bergtouren.", "Zentrale Lage zwischen Kufstein und Kitzbühel."],
+      hu: ["Fontos közlekedési csomópont a tiroli Unterlandban.", "Összeköti az Inn-völgyet a Brixentallel.", "Erősen meghatározza a kereskedelem és az ingázó forgalom.", "Jó kiindulópont sí- és hegyi túrákhoz.", "Központi fekvés Kufstein és Kitzbühel között."],
+      ro: ["Un nod de transport important în Tirolul de Jos.", "Leagă valea Inn de Brixental.", "Puternic influențat de comerț și navetism.", "Punct bun de plecare pentru schi și drumeții montane.", "Poziție centrală între Kufstein și Kitzbühel."],
+      en: ["An important transport hub in Lower Tyrol.", "Connects the Inn Valley with the Brixental.", "Strongly shaped by trade and commuter traffic.", "A good starting point for ski and mountain trips.", "Central location between Kufstein and Kitzbühel."]
+    }
   }
 ];
 
@@ -412,7 +612,7 @@ export const austriaCities: POI[] = [
         "The nearby Landskron Castle ruins are a popular destination.",
         "Villach is an important hub in the Alps-Adriatic region."
       ]
-    }
+    },
   },
   {
     "id": "at-wiener-neustadt",
@@ -468,7 +668,7 @@ export const austriaCities: POI[] = [
         "The city was heavily destroyed by bombing during World War II.",
         "Today, Wiener Neustadt is an important center for aviation and technology."
       ]
-    }
+    },
   },
   {
     "id": "at-krems",
@@ -524,7 +724,7 @@ export const austriaCities: POI[] = [
         "The Caricature Museum Krems is the only museum of its kind in Austria.",
         "The Danube University Krems specializes in continuing education."
       ]
-    }
+    },
   },
   {
     "id": "at-wels",
@@ -580,7 +780,7 @@ export const austriaCities: POI[] = [
         "The historical architecture of the old town is a significant feature of Wels.",
         "Wels is an important location for the food and mechanical engineering industries."
       ]
-    }
+    },
   },
   {
     "id": "at-dornbirn",
@@ -636,7 +836,7 @@ export const austriaCities: POI[] = [
         "The Karren mountain is a popular destination with a panoramic restaurant.",
         "Dornbirn is home to the Vorarlberg University of Applied Sciences."
       ]
-    }
+    },
   },
   {
     "id": "at-steyr",
@@ -692,7 +892,7 @@ export const austriaCities: POI[] = [
         "The Christkindl post office answers around 2 million letters from children annually.",
         "The Steyr old town has over 100 historic buildings."
       ]
-    }
+    },
   },
   {
     "id": "at-feldkirch",
@@ -748,7 +948,7 @@ export const austriaCities: POI[] = [
         "The writer James Joyce spent some time in Feldkirch.",
         "The city is located on the river Ill, shortly before it flows into the Rhine."
       ]
-    }
+    },
   },
   {
     "id": "at-leoben",
@@ -804,7 +1004,7 @@ export const austriaCities: POI[] = [
         "The Preliminary Peace of Leoben was concluded here between Napoleon and Austria in 1797.",
         "The city is situated in a loop of the Mur river."
       ]
-    }
+    },
   },
   {
     "id": "at-wolfsberg",
@@ -860,7 +1060,7 @@ export const austriaCities: POI[] = [
         "The Koralpe mountain east of Wolfsberg is a popular hiking and skiing area.",
         "The river Lavant flows directly through the city center."
       ]
-    }
+    },
   },
   {
     "id": "at-lienz",
@@ -916,7 +1116,7 @@ export const austriaCities: POI[] = [
         "Lienz is an ideal starting point for tours into the Hohe Tauern National Park.",
         "The Lienz Dolomites are not geologically related to the South Tyrolean Dolomites."
       ]
-    }
+    },
   },
   {
     "id": "at-zell-am-see",
@@ -972,7 +1172,7 @@ export const austriaCities: POI[] = [
         "In summer, impressive water shows take place regularly on the lake.",
         "Zell am See has its own small airfield for gliders and motorized aircraft."
       ]
-    }
+    },
   },
   {
     "id": "at-worthersee",
@@ -1028,7 +1228,7 @@ export const austriaCities: POI[] = [
         "The largest GTI meeting in Europe took place annually at Lake Wörthersee (until 2022).",
         "Wörthersee passenger shipping has a long tradition and connects the coastal towns."
       ]
-    }
+    },
   },
   {
     "id": "at-kitzsteinhorn",
@@ -1084,7 +1284,7 @@ export const austriaCities: POI[] = [
         "In 1965, the first cable car to the Kitzsteinhorn was opened.",
         "The Ice Camp on the Kitzsteinhorn offers igloos made of ice and snow."
       ]
-    }
+    },
   },
   {
     "id": "at-nockberge",
@@ -1140,7 +1340,7 @@ export const austriaCities: POI[] = [
         "Thermal springs in the region, such as those in Bad Kleinkirchheim, have been popular for centuries.",
         "The Karlbad is the oldest traditional spa in Austria and is located in the Nockberge."
       ]
-    }
+    },
   },
   {
     "id": "at-kalkalpen-np",
@@ -1196,7 +1396,7 @@ export const austriaCities: POI[] = [
         "The lynx has been native here again since the late 1990s.",
         "The national park center is located in Molln."
       ]
-    }
+    },
   },
   {
     "id": "at-gesauze",
@@ -1252,7 +1452,7 @@ export const austriaCities: POI[] = [
         "The park has one of the highest densities of endemics in the Alps (species found only here).",
         "The Willow Dome (Weidendom) is the living visitor center of the national park."
       ]
-    }
+    },
   },
   {
     "id": "at-thayatal-np",
@@ -1308,7 +1508,7 @@ export const austriaCities: POI[] = [
         "The border between Austria and the Czech Republic often runs directly down the middle of the Thaya.",
         "The park was officially opened in the year 2000."
       ]
-    }
+    },
   },
   {
     "id": "at-oetztal",
@@ -1364,7 +1564,7 @@ export const austriaCities: POI[] = [
         "Sölden is one of the most famous and largest winter sports resorts in Europe.",
         "The highest mountain in Tyrol, the Wildspitze (3,768 m), is located in the Ötztal Alps."
       ]
-    }
+    },
   },
   {
     "id": "at-eisriesenwelt",
@@ -1420,7 +1620,7 @@ export const austriaCities: POI[] = [
         "Visitors climb 700 steps during the tour inside the cave.",
         "The cave is only open to the public from May to October."
       ]
-    }
+    },
   },
   {
     "id": "at-donau-auen-np",
@@ -1476,7 +1676,7 @@ export const austriaCities: POI[] = [
         "European pond turtles find one of their last refuges in Austria here.",
         "Orth Castle is the visitor center of the Donau-Auen."
       ]
-    }
+    },
   },
   {
     "id": "at-gottweig-abbey",
@@ -1532,7 +1732,7 @@ export const austriaCities: POI[] = [
         "The abbey library contains around 150,000 volumes.",
         "The monastery overlooks the Danube Valley and the eastern edge of the Wachau."
       ]
-    }
+    },
   },
   {
     "id": "at-stift-admont",
@@ -1588,7 +1788,7 @@ export const austriaCities: POI[] = [
         "Four larger-than-life wooden sculptures in the library represent the 'Four Last Things' (Death, Judgment, Hell, Heaven).",
         "A devastating fire in 1865 destroyed almost the entire monastery but spared the library."
       ]
-    }
+    },
   },
   {
     "id": "at-salzburg-festival",
@@ -1644,7 +1844,7 @@ export const austriaCities: POI[] = [
         "The festival usually lasts five weeks from mid-July to the end of August.",
         "Herbert von Karajan had a major influence on the festival as a conductor in the post-war period."
       ]
-    }
+    },
   },
   {
     "id": "at-minimundus",
@@ -1700,7 +1900,7 @@ export const austriaCities: POI[] = [
         "The largest model in the park is St. Peter's Basilica from Rome.",
         "Model trains also run on the grounds, covering around 5,000 kilometers annually."
       ]
-    }
+    },
   },
   {
     "id": "at-schladming-dachstein",
@@ -1756,7 +1956,7 @@ export const austriaCities: POI[] = [
         "The Hoher Dachstein is the highest mountain in Styria at 2,995 meters.",
         "The region also includes the 'Stairway to Nothingness' and the Ice Palace on the glacier."
       ]
-    }
+    },
   },
   {
     "id": "at-kitzbuhel-ski",
@@ -1812,7 +2012,7 @@ export const austriaCities: POI[] = [
         "The Kitzbüheler Horn is another well-known ski mountain in the region.",
         "In summer, the Generali Open, an ATP tennis tournament, takes place in Kitzbühel."
       ]
-    }
+    },
   },
   {
     "id": "at-mozarteum-salzburg",
@@ -1868,7 +2068,7 @@ export const austriaCities: POI[] = [
         "The foundation also publishes the 'New Mozart Edition', the scientifically based complete edition of his works.",
         "The Mozarteum Foundation building has two magnificent concert halls."
       ]
-    }
+    },
   },
   {
     "id": "at-riegersburg",
@@ -1924,7 +2124,7 @@ export const austriaCities: POI[] = [
         "Below the castle there is a bird of prey sanctuary that offers spectacular flight shows.",
         "The castle defied both the Turkish and the Kuruc invasions."
       ]
-    }
+    },
   },
   {
     "id": "at-kufstein-fortress",
@@ -1980,7 +2180,7 @@ export const austriaCities: POI[] = [
         "A modern panorama funicular allows for a comfortable ascent to the fortress.",
         "The roofed fortress arena is a popular venue for concerts and operettas."
       ]
-    }
+    },
   },
   {
     "id": "at-kreuzenstein",
@@ -2036,6 +2236,610 @@ export const austriaCities: POI[] = [
         "The Kreuzenstein eagle sanctuary offers spectacular free-flight demonstrations of birds of prey.",
         "Movies like 'The Three Musketeers' (1993) and 'Season of the Witch' starring Nicolas Cage were filmed here."
       ]
+    }
+  }
+  ,
+  {
+    id: "at-historic-centre-vienna",
+    type: "historical",
+    parent: "AT",
+    coords: [16.3738, 48.2082],
+    name: { de: "Historisches Zentrum von Wien", hu: "Bécs történelmi központja", ro: "Centrul istoric al Vienei", en: "Historic Centre of Vienna" },
+    image: "/geo-images/austria/historic-centre-vienna.webp",
+    description: {
+      de: "Das historische Zentrum von Wien bündelt Kaisertradition, Barockarchitektur und UNESCO-Flair auf engem Raum. Zwischen Stephansdom, Hofburg und Ringstraße zeigt sich die Stadt von ihrer repräsentativsten Seite. Jahrhunderte alter Handel, Musik und Hofkultur prägen hier bis heute die Atmosphäre. Für Suchanfragen zu Wien, UNESCO und Altstadt ist dieses Ziel besonders stark.",
+      hu: "Bécs történelmi központja egy szűk területen sűríti össze a császári hagyományt, a barokk építészetet és az UNESCO-hangulatot. A Stephansdom, a Hofburg és a Ringstraße között a város a legreprezentatívabb arcát mutatja. Az évszázados kereskedelem, zene és udvari kultúra ma is meghatározza a hangulatot. A Bécs, UNESCO és óváros keresésekhez ez a célpont különösen erős.",
+      ro: "Centrul istoric al Vienei reunește într-un spațiu compact tradiția imperială, arhitectura barocă și atmosfera UNESCO. Între Stephansdom, Hofburg și Ringstraße, orașul își arată cea mai reprezentativă față. Comerțul, muzica și cultura de curte veche de secole încă definesc atmosfera locului. Pentru căutări despre Viena, UNESCO și centrul vechi, această destinație este foarte puternică.",
+      en: "The Historic Centre of Vienna brings imperial tradition, Baroque architecture, and UNESCO atmosphere together in a compact area. Between St. Stephen's Cathedral, the Hofburg, and the Ringstrasse, the city shows its most representative side. Centuries of trade, music, and court culture still define the atmosphere today. For searches about Vienna, UNESCO, and the old town, this destination is especially strong."
+    },
+    facts: {
+      de: ["Teil des UNESCO-Welterbes Altstadt von Wien.", "Hier liegen Stephansdom, Hofburg und Ringstraße dicht beieinander.", "Die historische Innenstadt erzählt die Habsburger- und Musikgeschichte.", "Der Bereich ist ein Kerngebiet des Wiener Städtetourismus.", "Viele Besucher starten hier ihre Wien-Erkundung."],
+      hu: ["Az UNESCO-világörökség része, Bécs óvárosával együtt.", "Itt található egymáshoz közel a Stephansdom, a Hofburg és a Ringstraße.", "A történelmi belváros a Habsburgok és a zene történetét meséli el.", "A terület a bécsi városi turizmus egyik magterülete.", "Sok látogató innen kezdi Bécs felfedezését."],
+      ro: ["Face parte din patrimoniul UNESCO al centrului vechi al Vienei.", "Aici se află foarte aproape Stephansdom, Hofburg și Ringstraße.", "Centrul istoric povestește despre Habsburgi și istoria muzicii.", "Zona este un nucleu al turismului urban vienez.", "Mulți vizitatori își încep explorarea Vienei de aici."],
+      en: ["Part of the UNESCO World Heritage old town of Vienna.", "St. Stephen's Cathedral, the Hofburg, and the Ringstrasse lie close together here.", "The historic center tells the story of the Habsburgs and music history.", "The area is a core zone of Vienna's city tourism.", "Many visitors start exploring Vienna here."]
+    },
+  },
+  {
+    id: "at-aspern-essling-battlefield",
+    type: "historical",
+    parent: "AT",
+    coords: [16.4938, 48.2270],
+    name: { de: "Schlachtfeld Aspern-Essling", hu: "Aspern-Essling csatamező", ro: "Câmpul de luptă Aspern-Essling", en: "Aspern-Essling Battlefield" },
+    image: "/geo-images/austria/aspern-essling-battlefield.webp",
+    description: {
+      de: "Das Schlachtfeld Aspern-Essling erinnert an eine der berühmtesten Auseinandersetzungen der napoleonischen Zeit in Österreich. 1809 stoppte hier das österreichische Heer unter Erzherzog Karl erstmals Napoleons Vormarsch bei Wien. Die Donau-Inseln und das flache Gelände machen die militärische Dimension bis heute gut nachvollziehbar. Als historischer SEO-Ort verbindet Aspern-Essling Kriegsgeschichte, Wien-Nähe und Erinnerungskultur.",
+      hu: "Az Aspern-Essling csatamező Ausztria napóleoni korszakának egyik leghíresebb ütközetére emlékeztet. 1809-ben itt állította meg először az osztrák hadsereg Károly főherceg vezetésével Napóleon bécsi előrenyomulását. A Duna-szigetek és a sík terep ma is jól érzékeltetik a katonai helyzetet. Történelmi SEO-helyként Aspern-Essling a hadtörténelmet, Bécs közelségét és az emlékezetkultúrát köti össze.",
+      ro: "Câmpul de luptă Aspern-Essling amintește de una dintre cele mai cunoscute confruntări ale epocii napoleoniene din Austria. În 1809, armata austriacă condusă de arhiducele Karl a oprit aici pentru prima dată înaintarea lui Napoleon spre Viena. Insulele Dunării și terenul plat fac și astăzi ușor de înțeles dimensiunea militară a locului. Ca loc SEO istoric, Aspern-Essling leagă istoria războiului, apropierea de Viena și cultura memoriei.",
+      en: "The Aspern-Essling Battlefield recalls one of the most famous clashes of Austria's Napoleonic era. In 1809, the Austrian army under Archduke Charles stopped Napoleon's advance toward Vienna here for the first time. The Danube islands and flat terrain still make the military scale easy to understand today. As a historical SEO spot, Aspern-Essling connects war history, proximity to Vienna, and remembrance culture."
+    },
+    facts: {
+      de: ["Ort der Schlacht von Aspern und Essling 1809.", "Erster großer Rückschlag Napoleons gegen Österreich.", "Eng verbunden mit Erzherzog Karl und der Donauübergangsgeschichte.", "Das Gelände liegt heute nahe den Wiener Donau-Auen.", "Wichtig für militärgeschichtliche Bildungsangebote."],
+      hu: ["Az 1809-es aspern-esslingi csata helyszíne.", "Napóleon első nagy osztrák vereségeinek egyike.", "Szorosan kapcsolódik Károly főherceghez és a dunai átkelés történetéhez.", "A terület ma a bécsi Duna-ártér közelében fekszik.", "Fontos a hadtörténeti oktatási programok számára."],
+      ro: ["Locul bătăliei de la Aspern și Essling din 1809.", "Una dintre primele mari înfrângeri ale lui Napoleon în fața Austriei.", "Legat strâns de arhiducele Karl și de istoria trecerii Dunării.", "Zona se află astăzi aproape de luncile Dunării din Viena.", "Important pentru programe educaționale de istorie militară."],
+      en: ["Site of the 1809 Battle of Aspern and Essling.", "One of Napoleon's first major setbacks against Austria.", "Closely linked to Archduke Charles and the history of crossing the Danube.", "The area lies today near Vienna's Danube floodplains.", "Important for military history education programs."]
+    },
+  },
+  {
+    id: "at-mauthausen-memorial",
+    type: "historical",
+    parent: "AT",
+    coords: [14.5163, 48.2580],
+    name: { de: "Mauthausen-Gedenkstätte", hu: "Mauthausen-emlékhely", ro: "Memorialul Mauthausen", en: "Mauthausen Memorial" },
+    image: "/geo-images/austria/mauthausen-memorial.webp",
+    description: {
+      de: "Die Mauthausen-Gedenkstätte ist einer der wichtigsten Orte des Erinnerns in Österreich und Europa. Auf dem ehemaligen Lagergelände wird heute die Geschichte von Verfolgung, Zwangsarbeit und Befreiung eindringlich vermittelt. Der Ort liegt nahe der Donau und nutzt die historische Topografie für eine klare, respektvolle Vermittlung. Als historischer Suchbegriff steht Mauthausen für Gedenken, Bildung und Verantwortung.",
+      hu: "A Mauthausen-emlékhely Ausztria és Európa egyik legfontosabb emlékező helye. Az egykori tábor területén ma megrázó módon mutatják be az üldöztetés, a kényszermunka és a felszabadítás történetét. A hely a Duna közelében fekszik, és a történelmi topográfiát jól használja a tiszteletteljes bemutatásra. Történelmi keresőkifejezésként Mauthausen az emlékezetet, az oktatást és a felelősséget jelenti.",
+      ro: "Memorialul Mauthausen este unul dintre cele mai importante locuri ale memoriei din Austria și Europa. Pe fosta zonă a lagărului, istoria persecuției, a muncii forțate și a eliberării este transmisă astăzi într-un mod puternic și clar. Locul se află aproape de Dunăre și folosește topografia istorică pentru o prezentare respectuoasă. Ca termen de căutare istoric, Mauthausen înseamnă comemorare, educație și responsabilitate.",
+      en: "The Mauthausen Memorial is one of the most important places of remembrance in Austria and Europe. On the former camp grounds, the history of persecution, forced labor, and liberation is presented in a powerful and clear way today. The site lies near the Danube and uses its historic topography for respectful interpretation. As a historical search term, Mauthausen stands for remembrance, education, and responsibility."
+    },
+    facts: {
+      de: ["Gedenkstätte auf dem Gelände des ehemaligen KZ Mauthausen.", "Liegt nahe der Donau in Oberösterreich.", "Die Steinbruchgeschichte ist Teil der Dokumentation vor Ort.", "Internationaler Lernort für Erinnerungskultur.", "Ein zentraler Ort gegen das Vergessen."],
+      hu: ["Az egykori mauthauseni koncentrációs tábor területén áll.", "Felső-Ausztriában, a Duna közelében található.", "A kőbánya-történet a helyszíni bemutatás része.", "Nemzetközi tanulóhely az emlékezetkultúrához.", "Központi hely a feledés elleni emlékezésben."],
+      ro: ["Memorial pe terenul fostului lagăr de la Mauthausen.", "Se află în Austria Superioară, aproape de Dunăre.", "Istoria carierei face parte din prezentarea de la fața locului.", "Loc internațional de învățare pentru cultura memoriei.", "Un loc central în lupta împotriva uitării."],
+      en: ["Memorial on the grounds of the former Mauthausen concentration camp.", "Located in Upper Austria near the Danube.", "The quarry history is part of the on-site interpretation.", "An international learning site for remembrance culture.", "A central place against forgetting."]
+    },
+  },
+  {
+    id: "at-burg-seebenstein",
+    type: "historical",
+    parent: "AT",
+    coords: [16.1297, 47.6829],
+    name: { de: "Burg Seebenstein", hu: "Seebenstein vára", ro: "Castelul Seebenstein", en: "Seebenstein Castle" },
+    image: "/geo-images/austria/burg-seebenstein.webp",
+    description: {
+      de: "Die Burg Seebenstein erhebt sich markant über dem Wiener Alpenvorland und ist ein klassisches Ziel für Burgen-SEO in Niederösterreich. Die mittelalterliche Anlage wirkt durch ihre Lage auf dem Felsen besonders wehrhaft und fotogen. Heute begeistert sie mit Geschichte, Aussicht und einer typischen Burgatmosphäre im Süden des Landes. Für Suchanfragen zu Burgen, Ausflügen und Semmering-Nähe ist Seebenstein sehr geeignet.",
+      hu: "Seebenstein vára látványosan emelkedik a bécsi Alpok előtere fölé, és klasszikus osztrák vár-SEO célpont Alsó-Ausztriában. A középkori erőd a sziklára épített fekvésének köszönhetően különösen védett és fotogén. Ma történelmével, kilátásával és a dél-ausztriai várhangulattal vonzza a látogatókat. Várakra, kirándulásokra és Semmering-közeli keresésekre Seebenstein kiváló.",
+      ro: "Castelul Seebenstein se ridică spectaculos deasupra zonei alpine din jurul Vienei și este o destinație clasică pentru SEO despre castele în Austria Inferioară. Fortificația medievală pare deosebit de defensivă și fotogenică datorită poziției sale pe stâncă. Astăzi impresionează prin istorie, panoramă și atmosfera tipică de castel din sudul țării. Pentru căutări despre castele, excursii și apropierea de Semmering, Seebenstein este foarte potrivit.",
+      en: "Seebenstein Castle rises prominently above the Vienna Alpine foothills and is a classic castle SEO target in Lower Austria. The medieval fortress looks especially defensive and photogenic thanks to its rock-top position. Today it draws visitors with its history, views, and classic castle atmosphere in the south of the country. For searches about castles, day trips, and Semmering proximity, Seebenstein is very suitable."
+    },
+    facts: {
+      de: ["Liegt im südlichen Niederösterreich.", "Fotogen auf einem Felsen über dem Ort.", "Beliebtes Ziel für Burgen- und Wanderfans.", "Die Nähe zum Semmering erhöht den Ausflugswert.", "Typisches Beispiel für eine kleine, wehrhafte Höhenburg."],
+      hu: ["Dél-Alsó-Ausztriában található.", "A település fölötti sziklán nagyon fotogén.", "Népszerű célpont vár- és túrarajongóknak.", "A Semmering közelsége növeli a kirándulási értéket.", "Tipikus példája a kis, erős hegyi várnak."],
+      ro: ["Se află în sudul Austriei Inferioare.", "Foarte fotogenic pe o stâncă deasupra localității.", "Destinație populară pentru fani ai castelelor și drumețiilor.", "Apropierea de Semmering crește valoarea de excursie.", "Exemplu tipic de mic castel fortificat de înălțime."],
+      en: ["Located in southern Lower Austria.", "Highly photogenic on a rock above the town.", "A popular destination for castle and hiking fans.", "Its proximity to Semmering increases its day-trip appeal.", "A classic example of a small fortified hill castle."]
+    },
+  },
+  {
+    id: "at-burg-aggstein",
+    type: "historical",
+    parent: "AT",
+    coords: [15.4369, 48.3094],
+    name: { de: "Burg Aggstein", hu: "Aggstein vára", ro: "Castelul Aggstein", en: "Aggstein Castle" },
+    image: "/geo-images/austria/burg-aggstein.webp",
+    description: {
+      de: "Burg Aggstein ist eine der eindrucksvollsten Ruinen in der Wachau und ein Magnet für Mittelalter- und Donautourismus. Hoch über dem Fluss thront die Anlage auf einem Felsrücken und bietet ein starkes Panorama über das UNESCO-Land. Die Burg erzählt Geschichten von Rittertum, Kontrolle der Handelswege und spektakulärer Ruinenromantik. Für historische Suchbegriffe rund um Wachau und Donauschifffahrt ist Aggstein ein Top-Name.",
+      hu: "Aggstein vára a Wachau egyik leglátványosabb romja, és vonzza a középkor- és Duna-turizmust. Magasan a folyó fölött, egy sziklagerincen áll, és erős panorámát ad az UNESCO-tájra. A vár lovagokról, kereskedelmi útvonalak ellenőrzéséről és látványos romromantikáról mesél. A Wachau és a dunai hajózás történelmi kereséseiben Aggstein top név.",
+      ro: "Castelul Aggstein este una dintre cele mai impresionante ruine din Wachau și un magnet pentru turismul medieval și de pe Dunăre. Deasupra fluviului, fortăreața tronează pe o creastă stâncoasă și oferă o panoramă puternică asupra peisajului UNESCO. Castelul povestește despre cavalerism, controlul rutelor comerciale și romantismul spectaculos al ruinelor. Pentru căutări istorice despre Wachau și croaziere pe Dunăre, Aggstein este un nume de top.",
+      en: "Aggstein Castle is one of the most impressive ruins in the Wachau and a magnet for medieval and Danube tourism. High above the river, the fortress sits on a rocky ridge and offers a strong panorama over the UNESCO landscape. The castle tells stories of knighthood, control of trade routes, and dramatic ruin romance. For historical searches around the Wachau and Danube cruising, Aggstein is a top name."
+    },
+    facts: {
+      de: ["Liegt in der Wachau über der Donau.", "Eine der bekanntesten Burgruinen Niederösterreichs.", "Starker Bezug zu Handel, Kontrolle und Rittergeschichten.", "Beliebtes Fotomotiv für Donaureisen.", "Wichtig für Mittelalter- und Burgenmarketing."],
+      hu: ["A Wachau felett, a Duna fölött található.", "Alsó-Ausztria egyik legismertebb várromja.", "Erős kapcsolat a kereskedelemmel, az ellenőrzéssel és a lovag-történetekkel.", "Népszerű fotótéma a dunai utazásoknál.", "Fontos a középkor- és városmarketingben."],
+      ro: ["Se află în Wachau, deasupra Dunării.", "Una dintre cele mai cunoscute ruine de castel din Austria Inferioară.", "Legătură puternică cu comerțul, controlul și poveștile cavalerilor.", "Subiect foto popular pentru călătoriile pe Dunăre.", "Important pentru marketingul medieval și al castelelor."],
+      en: ["Located in the Wachau above the Danube.", "One of Lower Austria's best-known castle ruins.", "Strongly linked to trade, control, and knight stories.", "A popular photo motif for Danube trips.", "Important for medieval and castle-themed marketing."]
+    },
+  },
+  {
+    id: "at-burg-golling",
+    type: "historical",
+    parent: "AT",
+    coords: [13.1599, 47.6009],
+    name: { de: "Burg Golling", hu: "Golling vára", ro: "Castelul Golling", en: "Golling Castle" },
+    image: "/geo-images/austria/burg-golling.webp",
+    description: {
+      de: "Burg Golling bewacht das Tor zum Tennengau und ist ein schönes Beispiel für eine alpine Höhenburg in Salzburg. Die Anlage liegt markant über dem Ort Golling und gibt dem Tal einen historischen Mittelpunkt. Heute ist die Burg ein attraktives Ziel für Kultur, Aussicht und regionale Geschichtserzählung. Wer nach Salzburg, Burgen und Ausflugsideen im Tennengau sucht, findet hier ein starkes Ziel.",
+      hu: "Golling vára a Tennengau kapuját őrzi, és szép példája a salzburgi alpesi hegyi várnak. Az erőd látványosan emelkedik Golling fölé, és történelmi központot ad a völgynek. Ma a vár kulturális, kilátó- és helytörténeti célpontként vonzó. Aki Salzburg, várak és Tennengau-kirándulások után keres, itt erős találatot kap.",
+      ro: "Castelul Golling păzește poarta spre Tennengau și este un exemplu frumos de castel montan alpin din Salzburg. Fortificația se ridică spectaculos deasupra localității Golling și oferă văii un centru istoric. Astăzi, castelul este o destinație atractivă pentru cultură, panoramă și istorie regională. Pentru căutări despre Salzburg, castele și excursii în Tennengau, acesta este un punct foarte bun.",
+      en: "Golling Castle guards the gateway to the Tennengau and is a fine example of an Alpine hill castle in Salzburg. The fortress stands prominently above Golling and gives the valley a historic focal point. Today the castle is an attractive destination for culture, views, and regional history. For searches about Salzburg, castles, and Tennengau day trips, this is a strong spot."
+    },
+    facts: {
+      de: ["Wichtige Höhenburg im Tennengau.", "Liegt über dem Ort Golling an der Salzach.", "Starker Bezug zu alpiner Regionalgeschichte.", "Beliebtes Ziel für Aussicht und Kultur.", "Gut kombinierbar mit den Salzburger Ausflugsrouten."],
+      hu: ["Fontos hegyi vár a Tennengauban.", "Golling fölött, a Salzach felett fekszik.", "Erős kapcsolat az alpesi helytörténettel.", "Népszerű kilátó- és kulturális célpont.", "Jól kombinálható a salzburgi kirándulóútvonalakkal."],
+      ro: ["Castel important de înălțime în Tennengau.", "Se află deasupra localității Golling, pe Salzach.", "Legătură puternică cu istoria regională alpină.", "Destinație populară pentru panoramă și cultură.", "Ușor de combinat cu rutele de excursii din Salzburg."],
+      en: ["An important hill castle in the Tennengau.", "Located above Golling on the Salzach River.", "Strongly linked to Alpine regional history.", "A popular destination for views and culture.", "Easy to combine with Salzburg excursion routes."]
+    },
+  },
+  {
+    id: "at-burg-heidenreichstein",
+    type: "historical",
+    parent: "AT",
+    coords: [15.1228, 48.8641],
+    name: { de: "Burg Heidenreichstein", hu: "Heidenreichstein vára", ro: "Castelul Heidenreichstein", en: "Heidenreichstein Castle" },
+    image: "/geo-images/austria/burg-heidenreichstein.webp",
+    description: {
+      de: "Burg Heidenreichstein ist eine der bekanntesten Wasserburgen Österreichs und ein Musterbeispiel für das Waldviertel. Das Schloss und seine Gräben zeigen, wie eng Verteidigung, Wasser und regionale Baukunst zusammenhängen. Besucher erleben hier ein authentisches Burgenbild mit starkem Fotofaktor und viel Historie. Für Waldviertel-, Burg- und Niederösterreich-SEO ist Heidenreichstein ideal.",
+      hu: "Heidenreichstein vára Ausztria egyik legismertebb vízi vára és a Waldviertel mintapéldája. A kastély és az árkok jól mutatják, mennyire összefonódik a védelem, a víz és a helyi építészet. A látogatók itt hiteles várképet kapnak erős fotóértékkel és sok történelemmel. Waldviertel-, vár- és Alsó-Ausztria SEO-hoz Heidenreichstein ideális.",
+      ro: "Castelul Heidenreichstein este unul dintre cele mai cunoscute castele cu apă din Austria și un exemplu tipic pentru Waldviertel. Castelul și șanțurile sale arată cât de strâns sunt legate apărarea, apa și arhitectura regională. Vizitatorii primesc aici o imagine autentică de castel, cu mult potențial foto și multă istorie. Pentru SEO despre Waldviertel, castele și Austria Inferioară, Heidenreichstein este ideal.",
+      en: "Heidenreichstein Castle is one of Austria's best-known moated castles and a model example of the Waldviertel. The castle and its moats show how defense, water, and regional building tradition are tightly linked. Visitors get an authentic castle experience here with strong photo appeal and plenty of history. For Waldviertel, castle, and Lower Austria SEO, Heidenreichstein is ideal."
+    },
+    facts: {
+      de: ["Eine der bekanntesten Wasserburgen Österreichs.", "Liegt im nördlichen Waldviertel.", "Die Gräben sind ein markantes Teil des Ensembles.", "Das Schloss prägt den historischen Ortskern.", "Stark für Familien- und Kulturbesuche."],
+      hu: ["Ausztria egyik legismertebb vízi vára.", "Az északi Waldviertelben található.", "Az árkok az együttes meghatározó elemei.", "A kastély formálja a történelmi központot.", "Erős célpont családi és kulturális látogatásokhoz."],
+      ro: ["Unul dintre cele mai cunoscute castele cu apă din Austria.", "Se află în nordul regiunii Waldviertel.", "Șanțurile sunt o parte definitorie a ansamblului.", "Castelul marchează centrul istoric al localității.", "Puternic pentru vizite de familie și culturale."],
+      en: ["One of Austria's best-known moated castles.", "Located in the northern Waldviertel.", "The moats are a defining part of the ensemble.", "The castle shapes the historic center of the town.", "Strong for family and cultural visits."]
+    },
+  },
+  {
+    id: "at-burg-oberkapfenberg",
+    type: "historical",
+    parent: "AT",
+    coords: [15.2996, 47.4466],
+    name: { de: "Burg Oberkapfenberg", hu: "Oberkapfenberg vára", ro: "Castelul Oberkapfenberg", en: "Oberkapfenberg Castle" },
+    image: "/geo-images/austria/burg-oberkapfenberg.webp",
+    description: {
+      de: "Burg Oberkapfenberg wacht über das Mürztal und ist ein eindrucksvoller historischer Blickfang in der Steiermark. Die Höhenlage macht die Burg zu einem markanten Orientierungspunkt zwischen Stadt, Tal und Bergland. Heute ist die Anlage ein beliebtes Ziel für Mittelalter-Feeling, Veranstaltungen und Panoramablicke. Für historisches Tourismus-SEO in der Obersteiermark ist sie besonders attraktiv.",
+      hu: "Oberkapfenberg vára őrzi a Mürztalt, és lenyűgöző történelmi látványosság Stájerországban. A magas fekvés miatt a vár kiemelkedő tájékozódási pont a város, a völgy és a hegyvidék között. Ma a vár kedvelt helyszín középkori hangulathoz, rendezvényekhez és panorámához. Felső-stájerországi történelmi turizmus SEO-hoz különösen vonzó.",
+      ro: "Castelul Oberkapfenberg veghează asupra văii Mürz și este un punct de reper istoric impresionant în Stiria. Poziția înaltă face din castel un reper clar între oraș, vale și munți. Astăzi, ansamblul este o destinație populară pentru atmosferă medievală, evenimente și panorame. Pentru SEO despre turism istoric în Stiria Superioară, este deosebit de atractiv.",
+      en: "Oberkapfenberg Castle watches over the Mürz Valley and is an impressive historic landmark in Styria. Its elevated position makes it a clear reference point between town, valley, and mountains. Today the complex is a popular destination for medieval atmosphere, events, and panoramic views. For historical tourism SEO in Upper Styria, it is especially attractive."
+    },
+    facts: {
+      de: ["Liegt über Kapfenberg im Mürztal.", "Markanter historischer Punkt in der Obersteiermark.", "Beliebt für Mittelalter-Events und Aussichten.", "Verbindet Stadtgeschichte mit Burgromantik.", "Starkes Ausflugsziel für Kulturreisende."],
+      hu: ["Kapfenberg fölött, a Mürztalban fekszik.", "Jellegzetes történelmi pont Felső-Stájerországban.", "Népszerű középkori eseményekhez és kilátásokhoz.", "A várostörténetet várromantikával köti össze.", "Erős kirándulóhely kulturális utazóknak."],
+      ro: ["Se află deasupra orașului Kapfenberg, în valea Mürz.", "Un punct istoric marcant în Stiria Superioară.", "Popular pentru evenimente medievale și priveliști.", "Leagă istoria orașului de romantismul castelului.", "Destinație puternică pentru călătorii culturali."],
+      en: ["Located above Kapfenberg in the Mürz Valley.", "A striking historic point in Upper Styria.", "Popular for medieval events and views.", "Connects city history with castle romance.", "A strong excursion spot for cultural travelers."]
+    }
+  }
+  ,
+  {
+    id: "at-kahlenberg",
+    type: "mountain",
+    parent: "AT",
+    coords: [16.3119, 48.2739],
+    name: { de: "Kahlenberg", hu: "Kahlenberg", ro: "Kahlenberg", en: "Kahlenberg" },
+    image: "/geo-images/austria/kahlenberg.webp",
+    description: {
+      de: "Der Kahlenberg über Wien ist ein berühmter Aussichtspunkt und ein starkes Natur-SEO-Ziel in der Hauptstadtregion. Der Hügel verbindet Wald, Panorama und Stadtgeschichte auf engem Raum. Von hier aus öffnet sich ein weiter Blick über Wien, die Donau und den Wienerwald. Für Wien-Besuche, Aussichtspunkte und Donau-Panorama ist der Kahlenberg ein sehr bekannter Name.",
+      hu: "A Bécs fölé magasodó Kahlenberg híres kilátópont és erős természetes SEO-célpont a fővárosi régióban. A domb kis területen köti össze az erdőt, a panorámát és a várostörténetet. Innen széles kilátás nyílik Bécsre, a Dunára és a Bécsi-erdőre. Bécsi látogatásokhoz, kilátóhelyekhez és Duna-panorámához a Kahlenberg nagyon ismert név.",
+      ro: "Kahlenberg, deasupra Vienei, este un punct de belvedere celebru și un obiectiv SEO natural puternic în regiunea capitalei. Colina combină pădurea, panorama și istoria orașului într-un spațiu compact. De aici se deschide o vedere largă asupra Vienei, Dunării și Pădurii Vieneze. Pentru vizite la Viena, puncte panoramice și priveliști asupra Dunării, Kahlenberg este un nume foarte cunoscut.",
+      en: "The Kahlenberg above Vienna is a famous viewpoint and a strong natural SEO target in the capital region. The hill combines forest, panorama, and city history in one compact place. From here you get a wide view over Vienna, the Danube, and the Vienna Woods. For Vienna visits, viewpoints, and Danube panoramas, Kahlenberg is a very well-known name."
+    },
+    facts: {
+      de: ["Bekannter Aussichtspunkt über Wien.", "Liegt am Rand des Wienerwaldes.", "Wichtiger Ort für Panoramablicke auf Donau und Stadt.", "Beliebt bei Wanderern und Städtereisenden.", "Stark mit der Wiener Ausflugskultur verbunden."],
+      hu: ["Bécs egyik legismertebb kilátópontja.", "A Bécsi-erdő peremén található.", "Fontos hely a Duna és a város panorámájához.", "Népszerű a túrázók és városi utazók körében.", "Erősen kapcsolódik a bécsi kirándulókultúrához."],
+      ro: ["Punct de belvedere cunoscut deasupra Vienei.", "Se află la marginea Pădurii Vieneze.", "Loc important pentru panorama asupra Dunării și orașului.", "Popular printre drumeți și turiști urbani.", "Puternic legat de cultura excursiilor vieneze."],
+      en: ["A well-known viewpoint above Vienna.", "Located on the edge of the Vienna Woods.", "Important for panoramic views of the Danube and city.", "Popular with hikers and city travelers.", "Strongly tied to Vienna's excursion culture."]
+    },
+  },
+  {
+    id: "at-gerlitzen",
+    type: "mountain",
+    parent: "AT",
+    coords: [13.8327, 46.7161],
+    name: { de: "Gerlitzen", hu: "Gerlitzen", ro: "Gerlitzen", en: "Gerlitzen" },
+    image: "/geo-images/austria/gerlitzen.webp",
+    description: {
+      de: "Die Gerlitzen ist ein markanter Aussichts- und Skiberg über dem Ossiacher See in Kärnten. Der Berg verbindet Sommerwanderungen, Wintersport und weite Blicke über Seen und Alpen. Durch Seilbahnen und gepflegte Infrastruktur ist er für Familien wie Aktivurlauber attraktiv. Für Kärnten, Seeurlaub und Bergpanoramen ist die Gerlitzen ein starkes Suchziel.",
+      hu: "A Gerlitzen látványos kilátó- és síhegy a karintiai Ossiacher See fölött. A hegy a nyári túrákat, a téli sportokat és a tavakra és Alpokra nyíló széles kilátást köti össze. Felvonók és rendezett infrastruktúra miatt családok és aktív utazók számára is vonzó. Karintia, tóparti pihenés és hegyi panorámák keresésében a Gerlitzen erős célpont.",
+      ro: "Gerlitzen este un munte spectaculos de belvedere și schi deasupra lacului Ossiacher See, în Carintia. Muntele combină drumețiile de vară, sporturile de iarnă și priveliștile largi asupra lacurilor și Alpilor. Datorită telecabinelor și infrastructurii bine puse la punct, este atractiv pentru familii și turiști activi. Pentru Carintia, vacanțe la lac și panorame montane, Gerlitzen este un obiectiv de căutare puternic.",
+      en: "The Gerlitzen is a striking viewpoint and ski mountain above Lake Ossiach in Carinthia. The mountain combines summer hiking, winter sports, and wide views over lakes and the Alps. Cable cars and solid infrastructure make it attractive for families and active travelers alike. For Carinthia, lake holidays, and mountain panoramas, Gerlitzen is a strong search target."
+    },
+    facts: {
+      de: ["Liegt über dem Ossiacher See in Kärnten.", "Beliebt für Wandern, Paragleiten und Skifahren.", "Seilbahnen erschließen den Berg komfortabel.", "Bietet weite Blicke auf Seen und Gebirge.", "Starker Urlaubsberg für Sommer und Winter."],
+      hu: ["A karintiai Ossiacher See fölött fekszik.", "Népszerű túrázásra, siklóernyőzésre és síelésre.", "A felvonók kényelmesen feltárják a hegyet.", "Széles kilátást ad tavakra és hegyekre.", "Erős nyári és téli üdülőhegy."],
+      ro: ["Se află deasupra lacului Ossiacher See, în Carintia.", "Popular pentru drumeții, parapantă și schi.", "Telecabinele fac muntele ușor accesibil.", "Oferă priveliști largi asupra lacurilor și munților.", "Munte de vacanță puternic pentru vară și iarnă."],
+      en: ["Located above Lake Ossiach in Carinthia.", "Popular for hiking, paragliding, and skiing.", "Cable cars make the mountain easy to access.", "Offers wide views over lakes and mountains.", "A strong holiday mountain for both summer and winter."]
+    },
+  },
+  {
+    id: "at-rax",
+    type: "mountain",
+    parent: "AT",
+    coords: [15.7246, 47.7107],
+    name: { de: "Rax", hu: "Rax", ro: "Rax", en: "Rax" },
+    image: "/geo-images/austria/rax.webp",
+    description: {
+      de: "Die Rax ist ein klassisches alpines Plateau in Niederösterreich und eine Ikone für Wandern und Klettersteige. Ihr Hochplateau bietet weite, offene Landschaften und ein sehr eigenes Berggefühl. Seit den frühen Kur- und Bergtourismuszeiten gilt die Rax als beliebtes Ziel für Erholung und Sport. Für Natur-SEO in den Wiener Alpen ist die Rax ein besonders starker Name.",
+      hu: "A Rax klasszikus alpesi fennsík Alsó-Ausztriában, és a túrázás, valamint a via ferrata egyik ikonja. A magas fennsík tágas, nyílt tájat és nagyon sajátos hegyi hangulatot kínál. A korai üdülő- és hegymászóturizmus óta a Rax kedvelt pihenő- és sportcélpont. A Bécsi-Alpok természetes SEO-jában a Rax különösen erős név.",
+      ro: "Rax este un platou alpin clasic în Austria Inferioară și o icoană pentru drumeții și trasee de via ferrata. Platoul său înalt oferă peisaje largi, deschise și un sentiment montan aparte. Încă din primele vremuri ale turismului montan, Rax a fost o destinație preferată pentru relaxare și sport. Pentru SEO natural în Alpii Vienezi, Rax este un nume deosebit de puternic.",
+      en: "The Rax is a classic Alpine plateau in Lower Austria and an icon for hiking and via ferrata routes. Its high plateau offers wide, open landscapes and a very distinct mountain feeling. Since the early spa and mountain tourism days, the Rax has been a favorite for relaxation and sports. For natural SEO in the Vienna Alps, Rax is a particularly strong name."
+    },
+    facts: {
+      de: ["Bekanntes Hochplateau in den Wiener Alpen.", "Berühmt für Wanderwege und Berggasthöfe.", "Die Raxalpe ist ein Klassiker des alpinen Tourismus.", "Von Niederösterreich aus schnell erreichbar.", "Stark für Natur- und Bergsport-Suchen."],
+      hu: ["Ismert magas fennsík a Bécsi-Alpokban.", "Híres túraútvonalairól és hegyi fogadóiról.", "A Raxalpe az alpesi turizmus klasszikusa.", "Alsó-Ausztriából gyorsan elérhető.", "Erős kulcsszó természet- és hegyisport-keresésekhez."],
+      ro: ["Platou înalt cunoscut în Alpii Vienezi.", "Faimos pentru trasee și cabane montane.", "Raxalpe este un clasic al turismului alpin.", "Ușor de ajuns din Austria Inferioară.", "Termen puternic pentru căutări despre natură și sport montan."],
+      en: ["A well-known high plateau in the Vienna Alps.", "Famous for hiking trails and mountain inns.", "The Raxalpe is a classic of Alpine tourism.", "Quickly accessible from Lower Austria.", "A strong keyword for nature and mountain-sports searches."]
+    },
+  },
+  {
+    id: "at-stuhleck",
+    type: "mountain",
+    parent: "AT",
+    coords: [15.8596, 47.6062],
+    name: { de: "Stuhleck", hu: "Stuhleck", ro: "Stuhleck", en: "Stuhleck" },
+    image: "/geo-images/austria/stuhleck.webp",
+    description: {
+      de: "Das Stuhleck ist ein bekannter Wintersportberg in den Wiener Alpen und ein wichtiges Ziel für Ski-SEO in Österreich. Im Winter locken Pisten, Lifte und familienfreundliche Angebote, im Sommer Wanderrouten und Bergblicke. Die Lage zwischen Steiermark und Niederösterreich macht den Berg zusätzlich spannend für Tagesgäste. Wer nach Skigebieten, Wiener Alpen und winterlichen Ausflügen sucht, landet häufig beim Stuhleck.",
+      hu: "A Stuhleck a Bécsi-Alpok ismert téli sporthegye, és fontos osztrák sí-SEO célpont. Télen pályák, liftek és családbarát ajánlatok vonzzák a látogatókat, nyáron túraútvonalak és hegyi kilátások. A stájer és alsó-ausztriai határ közelsége külön érdekessé teszi egynapos vendégek számára. Aki síterepeket, Bécsi-Alpokat és téli kirándulásokat keres, gyakran a Stuhlecknél köt ki.",
+      ro: "Stuhleck este un munte de iarnă bine cunoscut în Alpii Vienezi și o destinație importantă pentru SEO despre schi în Austria. Iarna atrag pârtiile, instalațiile și ofertele pentru familii, iar vara traseele de drumeție și priveliștile montane. Poziția dintre Stiria și Austria Inferioară îl face și mai interesant pentru excursioniștii de o zi. Cine caută domenii schiabile, Alpii Vienezi și excursii de iarnă ajunge des la Stuhleck.",
+      en: "Stuhleck is a well-known winter sports mountain in the Vienna Alps and an important Austrian ski SEO target. In winter, slopes, lifts, and family-friendly offers attract visitors; in summer, hiking routes and mountain views do the job. Its location between Styria and Lower Austria makes it especially interesting for day-trippers. Anyone searching for ski areas, the Vienna Alps, and winter excursions often ends up at Stuhleck."
+    },
+    facts: {
+      de: ["Bekanntes Skigebiet in den Wiener Alpen.", "Gut für Familien und Tagesgäste.", "Im Sommer auch ein Wanderberg.", "Liegt an der Grenze zwischen Steiermark und Niederösterreich.", "Starkes Thema für Wintersport-SEO."],
+      hu: ["Ismert síterület a Bécsi-Alpokban.", "Jó családoknak és egynapos vendégeknek.", "Nyáron túrahegyként is működik.", "Stájerország és Alsó-Ausztria határán fekszik.", "Erős téli sport SEO-téma."],
+      ro: ["Domeniu schiabil cunoscut în Alpii Vienezi.", "Bun pentru familii și excursioniști de o zi.", "Vara funcționează și ca munte de drumeție.", "Se află la granița dintre Stiria și Austria Inferioară.", "Temă puternică pentru SEO de sporturi de iarnă."],
+      en: ["A well-known ski area in the Vienna Alps.", "Good for families and day visitors.", "Also a hiking mountain in summer.", "Located on the border between Styria and Lower Austria.", "A strong winter-sports SEO topic."]
+    },
+  },
+  {
+    id: "at-faaker-see",
+    type: "lake",
+    parent: "AT",
+    coords: [13.9069, 46.5714],
+    name: { de: "Faaker See", hu: "Faaki-tó", ro: "Lacul Faak", en: "Lake Faak" },
+    image: "/geo-images/austria/faaker-see.webp",
+    description: {
+      de: "Der Faaker See gehört zu den farbintensivsten Seen Kärntens und steht für türkisfarbenes Wasser, Sommerurlaub und Badequalität. Seine Lage im Süden des Landes macht ihn zu einem starken Ziel für Seeurlaub-SEO. Rundherum verbinden sich Radwege, Camping, Wassersport und Alpenkulisse zu einem sehr klaren Tourismusprofil. Der Faaker See ist besonders beliebt bei Familien, Aktivurlaubern und Badegästen.",
+      hu: "A Faaker See Karintia egyik legszínpompásabb tava, türkiz vízzel, nyári üdüléssel és kiváló fürdőminőséggel. Az ország déli részén fekvő helyzete miatt erős célpont a tóparti nyaralás SEO-jában. A környéken kerékpárutak, kempingek, vízi sportok és alpesi háttér alkotnak nagyon tiszta turisztikai profilt. A Faaki-tó különösen népszerű családok, aktív utazók és fürdővendégek körében.",
+      ro: "Lacul Faak este unul dintre cele mai colorate lacuri din Carintia și înseamnă apă turcoaz, vacanță de vară și calitate bună pentru înot. Poziția sa în sudul țării îl face o țintă puternică pentru SEO despre vacanțe la lac. În jurul lui se îmbină pistele de bicicletă, campingul, sporturile nautice și cadrul alpin într-un profil turistic foarte clar. Faaker See este deosebit de popular printre familii, turiști activi și iubitorii de înot.",
+      en: "Lake Faak is one of Carinthia's most colorful lakes and stands for turquoise water, summer holidays, and excellent bathing quality. Its position in the south of the country makes it a strong target for lake-holiday SEO. Around it, cycle paths, camping, water sports, and Alpine scenery create a very clear tourism profile. Lake Faak is especially popular with families, active travelers, and swimmers."
+    },
+    facts: {
+      de: ["Türkisfarbener See in Kärnten.", "Beliebt für Baden, SUP und Camping.", "Die Bergkulisse macht den See besonders fotogen.", "Starker Urlaubsort im südlichen Österreich.", "Gut kombinierbar mit Villach und dem Faaker Seefest."],
+      hu: ["Türkizszínű tó Karintiában.", "Népszerű fürdésre, SUP-ra és kempingezésre.", "A hegyi háttér különösen fotogénné teszi.", "Erős üdülőhely Dél-Ausztriában.", "Jól kombinálható Villachcsal és a Faaker See fesztivállal."],
+      ro: ["Lac turcoaz în Carintia.", "Popular pentru înot, SUP și camping.", "Cadrul montan îl face foarte fotogenic.", "Destinație puternică de vacanță în sudul Austriei.", "Ușor de combinat cu Villach și festivalul de la Faaker See."],
+      en: ["A turquoise lake in Carinthia.", "Popular for swimming, SUP, and camping.", "The mountain backdrop makes it especially photogenic.", "A strong holiday location in southern Austria.", "Easy to combine with Villach and the Faaker See festival."]
+    },
+  },
+  {
+    id: "at-klopeiner-see",
+    type: "lake",
+    parent: "AT",
+    coords: [14.5890, 46.6060],
+    name: { de: "Klopeiner See", hu: "Klopeini-tó", ro: "Lacul Klopein", en: "Lake Klopein" },
+    image: "/geo-images/austria/klopeiner-see.webp",
+    description: {
+      de: "Der Klopeiner See gilt als einer der wärmsten Badeseen Österreichs und ist ein Klassiker für Sommerurlaub in Kärnten. Das klare Wasser, die gute Infrastruktur und die sanfte Landschaft machen den Ort sehr familienfreundlich. Rund um den See spielen Wellness, Baden und leichte Freizeitaktivitäten die Hauptrolle. Für Suchanfragen zu Badeseen, Kärnten und warmem Wasser ist der Klopeiner See ideal.",
+      hu: "A Klopeiner See Ausztria egyik legmelegebb fürdőtava, és klasszikus karintiai nyári üdülőhely. A tiszta víz, a jó infrastruktúra és a lágy táj nagyon családbaráttá teszi. A tó körül a wellness, a fürdés és a könnyű szabadidős tevékenységek dominálnak. Fürdőtavakra, Karintiára és meleg vízre keresve a Klopeini-tó ideális.",
+      ro: "Lacul Klopeiner See este considerat unul dintre cele mai calde lacuri de înot din Austria și un clasic al vacanțelor de vară în Carintia. Apa limpede, infrastructura bună și peisajul blând îl fac foarte prietenos pentru familii. În jurul lacului domină wellness-ul, înotul și activitățile ușoare de recreere. Pentru căutări despre lacuri de baie, Carintia și apă caldă, Klopeiner See este ideal.",
+      en: "Lake Klopein is considered one of Austria's warmest bathing lakes and is a classic Carinthian summer holiday spot. Clear water, good infrastructure, and a gentle landscape make it very family-friendly. Around the lake, wellness, swimming, and easy leisure activities take the lead. For searches about bathing lakes, Carinthia, and warm water, Lake Klopein is ideal."
+    },
+    facts: {
+      de: ["Einer der wärmsten Badeseen Österreichs.", "Liegt in Südkärnten.", "Stark für Familienurlaub und Wellness.", "Das Wasser ist im Sommer besonders angenehm.", "Beliebtes Ziel für ruhige Seeferien."],
+      hu: ["Ausztria egyik legmelegebb fürdőtava.", "Dél-Karintiában található.", "Erős családi és wellness célpont.", "A víz nyáron különösen kellemes.", "Népszerű nyugodt tóparti nyaralásokhoz."],
+      ro: ["Unul dintre cele mai calde lacuri de baie din Austria.", "Se află în sudul Carintiei.", "Destinație puternică pentru vacanțe de familie și wellness.", "Apa este deosebit de plăcută vara.", "Popular pentru concedii liniștite la lac."],
+      en: ["One of Austria's warmest bathing lakes.", "Located in southern Carinthia.", "Strong for family holidays and wellness.", "The water is especially pleasant in summer.", "Popular for calm lake holidays."]
+    },
+  },
+  {
+    id: "at-pielach-river",
+    type: "river",
+    parent: "AT",
+    coords: [15.3968, 48.1547],
+    name: { de: "Pielach", hu: "Pielach", ro: "Pielach", en: "Pielach" },
+    image: "/geo-images/austria/pielach.webp",
+    description: {
+      de: "Die Pielach ist ein wichtiger Fluss in Niederösterreich und prägt das Pielachtal mit seinen ruhigen Landschaften und Ortskernen. Der Fluss ist eng mit Natur, Radwegen und dem regionalen Leben verbunden. Entlang der Pielach entstehen starke SEO-Themen für Talwanderungen, Ausflüge und Flusslandschaften. Für die Region Mostviertel ist die Pielach ein sehr passender geographischer Anker.",
+      hu: "A Pielach fontos folyó Alsó-Ausztriában, és meghatározza a Pielach-völgy nyugodt tájait és településmagjait. A folyó szorosan kapcsolódik a természethez, a kerékpárutakhoz és a helyi élethez. A Pielach mentén erős SEO-témák születnek völgyi túrákra, kirándulásokra és folyóparti tájakra. A Mostviertel régió számára a Pielach nagyon jó földrajzi kapaszkodó.",
+      ro: "Pielach este un râu important din Austria Inferioară și definește valea Pielach prin peisaje liniștite și centre locale. Râul este strâns legat de natură, piste de bicicletă și viața regională. De-a lungul Pielach apar teme SEO puternice pentru drumeții în vale, excursii și peisaje de râu. Pentru regiunea Mostviertel, Pielach este o ancoră geografică foarte potrivită.",
+      en: "The Pielach is an important river in Lower Austria and shapes the Pielach Valley with its calm landscapes and village centers. The river is closely tied to nature, cycle paths, and regional life. Along the Pielach, strong SEO themes emerge for valley hikes, excursions, and river landscapes. For the Mostviertel region, the Pielach is a very fitting geographic anchor."
+    },
+    facts: {
+      de: ["Fluss im Mostviertel von Niederösterreich.", "Prägt das Pielachtal mit seinen Ortschaften.", "Beliebt für Rad- und Wanderrouten.", "Wichtiger Teil der regionalen Landschaftsstruktur.", "Stark mit Naturtourismus verbunden."],
+      hu: ["A Mostviertelben, Alsó-Ausztriában folyik.", "Formálja a Pielach-völgy településeit.", "Népszerű kerékpár- és túraútvonalaknál.", "Fontos része a regionális tájszerkezetnek.", "Erősen kapcsolódik a természet turizmusához."],
+      ro: ["Râu din Mostviertel, în Austria Inferioară.", "Modelează valea Pielach și așezările ei.", "Popular pentru trasee de bicicletă și drumeție.", "Parte importantă a structurii regionale a peisajului.", "Strâns legat de turismul în natură."],
+      en: ["A river in the Mostviertel of Lower Austria.", "Shapes the Pielach Valley and its settlements.", "Popular for cycling and hiking routes.", "An important part of the regional landscape structure.", "Strongly linked to nature tourism."]
+    },
+  },
+  {
+    id: "at-moell-river",
+    type: "river",
+    parent: "AT",
+    coords: [12.8796, 46.9854],
+    name: { de: "Möll", hu: "Möll", ro: "Möll", en: "Möll River" },
+    image: "/geo-images/austria/moell-river.webp",
+    description: {
+      de: "Die Möll ist ein alpiner Fluss in Kärnten und steht für glasklares Wasser, enge Täler und Kraft der Bergnatur. Ihr Verlauf verbindet Gletscherregionen mit Siedlungsräumen und touristischen Tälern. Für Natur-SEO in Kärnten ist die Möll stark, weil sie Berge, Wasser und Bewegung zusammenbringt. Wanderer, Radfahrer und Naturreisende finden hier eine sehr klare Alpenlandschaft.",
+      hu: "A Möll karintiai alpesi folyó, amely kristálytiszta vizet, szűk völgyeket és a hegyi természet erejét képviseli. Folyása gleccservidékeket köt össze lakott területekkel és turisztikai völgyekkel. Karintiai természet SEO-ban a Möll erős, mert egyesíti a hegyet, a vizet és a mozgást. Túrázók, kerékpárosok és természetjárók nagyon tiszta alpesi tájat találnak itt.",
+      ro: "Möll este un râu alpin din Carintia și înseamnă apă limpede, văi înguste și forța naturii montane. Cursul său leagă zonele glaciare de spațiile locuite și de văile turistice. Pentru SEO despre natură în Carintia, Möll este puternic, fiindcă aduce împreună muntele, apa și mișcarea. Drumeții, bicicliștii și iubitorii de natură găsesc aici un peisaj alpin foarte clar.",
+      en: "The Möll is an Alpine river in Carinthia and stands for crystal-clear water, narrow valleys, and the power of mountain nature. Its course links glacier regions with settlements and tourist valleys. For Carinthia nature SEO, the Möll is strong because it brings mountain, water, and movement together. Hikers, cyclists, and nature travelers find a very clear Alpine landscape here."
+    },
+    facts: {
+      de: ["Alpiner Fluss in Kärnten.", "Verläuft durch enge Bergtäler.", "Wichtig für Natur- und Aktivtourismus.", "Starker Bezug zu Gletscher- und Alpenlandschaften.", "Typisch für das wasserreiche Kärnten."],
+      hu: ["Karintiai alpesi folyó.", "Szűk hegyi völgyeken halad át.", "Fontos a természet- és aktív turizmus számára.", "Erős kapcsolat a gleccser- és alpesi tájakkal.", "Jellemző a vízben gazdag Karintiára."],
+      ro: ["Râu alpin din Carintia.", "Curge prin văi montane înguste.", "Important pentru turismul activ și de natură.", "Legat puternic de peisaje glaciare și alpine.", "Tipic pentru Carintia bogată în apă."],
+      en: ["An Alpine river in Carinthia.", "Runs through narrow mountain valleys.", "Important for nature and active tourism.", "Strongly linked to glacier and Alpine landscapes.", "Typical of water-rich Carinthia."]
+    }
+  }
+  ,
+  {
+    id: "at-secession-building",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3604, 48.2008],
+    name: { de: "Wiener Secessionsgebäude", hu: "Bécsi Szecesszió Háza", ro: "Clădirea Secession din Viena", en: "Vienna Secession Building" },
+    image: "/geo-images/austria/secession-building.webp",
+    description: {
+      de: "Das Wiener Secessionsgebäude ist ein Ikonenbau der Moderne und ein starkes Ziel für Architektur-SEO in Österreich. Mit seiner goldenen Kuppel und der klaren Formensprache steht es für den künstlerischen Aufbruch um 1900. Das Gebäude zeigt, wie eng Wien mit Jugendstil, Design und Ausstellungskultur verbunden ist. Für Suchanfragen zu Kunst, Architektur und Wien ist die Secession ein sehr markanter Name.",
+      hu: "A bécsi Secession épülete a modernitás ikonikus alkotása és erős osztrák építészeti SEO-célpont. Arany kupolájával és tiszta formanyelvével az 1900 körüli művészeti megújulást képviseli. Az épület jól mutatja, mennyire szorosan kapcsolódik Bécs a szecesszióhoz, a dizájnhoz és a kiállításkultúrához. Művészetre, építészetre és Bécsre keresve a Secession nagyon jellegzetes név.",
+      ro: "Clădirea Secession din Viena este o icoană a modernității și un obiectiv puternic pentru SEO despre arhitectură în Austria. Cu cupola sa aurie și limbajul său formal clar, reprezintă avântul artistic din jurul anului 1900. Clădirea arată cât de strâns legată este Viena de Jugendstil, design și cultura expozițiilor. Pentru căutări despre artă, arhitectură și Viena, Secession este un nume foarte distinct.",
+      en: "The Vienna Secession Building is an icon of modernism and a strong architecture SEO target in Austria. With its golden dome and clear design language, it represents the artistic break around 1900. The building shows how closely Vienna is tied to Art Nouveau, design, and exhibition culture. For searches about art, architecture, and Vienna, the Secession is a very distinctive name."
+    },
+    facts: {
+      de: ["Ikonisches Jugendstilgebäude in Wien.", "Symbol der Secessionsbewegung um 1900.", "Berühmt für den goldenen Lorbeerkuppel-Entwurf.", "Beliebtes Fotomotiv nahe Karlsplatz.", "Wichtig für Architektur- und Kunsttourismus."],
+      hu: ["Ikonikus szecessziós épület Bécsben.", "A 1900 körüli szecessziós mozgalom jelképe.", "Híres az arany babérkupoláról.", "Népszerű fotótéma a Karlsplatz közelében.", "Fontos az építészeti és művészeti turizmus számára."],
+      ro: ["Clădire iconică Art Nouveau în Viena.", "Simbol al mișcării Secession de la 1900.", "Celebră pentru cupola aurie cu frunze de laur.", "Motiv foto popular lângă Karlsplatz.", "Importantă pentru turismul de arhitectură și artă."],
+      en: ["An iconic Art Nouveau building in Vienna.", "A symbol of the Secession movement around 1900.", "Famous for its golden laurel-dome design.", "A popular photo spot near Karlsplatz.", "Important for architecture and art tourism."]
+    },
+  },
+  {
+    id: "at-karlskirche",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3708, 48.1987],
+    name: { de: "Karlskirche", hu: "Károly-templom", ro: "Biserica Sfântul Carol", en: "Karlskirche" },
+    image: "/geo-images/austria/karlskirche.webp",
+    description: {
+      de: "Die Karlskirche zählt zu den berühmtesten Barockkirchen Europas und ist ein Kernmotiv für Wien-SEO. Ihre monumentale Kuppel, die Säulen und die Lage am Karlsplatz machen sie unverwechselbar. Die Kirche zeigt die spirituelle und architektonische Pracht des habsburgischen Wien. Für Besucher, die nach Kirchen, Barock und Wien suchen, ist sie ein starker Fixpunkt.",
+      hu: "A Karlskirche Európa egyik leghíresebb barokk temploma, és Bécs SEO-jának kulcseleme. Monumentális kupolája, oszlopai és a Karlsplatzon elfoglalt helye összetéveszthetetlenné teszik. A templom a Habsburg Bécs spirituális és építészeti pompáját mutatja meg. Aki templomokra, barokkra és Bécsre keres, ezt a helyet gyakran megtalálja.",
+      ro: "Karlskirche este una dintre cele mai faimoase biserici baroce din Europa și un element-cheie pentru SEO despre Viena. Cupola monumentală, coloanele și poziția de la Karlsplatz o fac inconfundabilă. Biserica arată splendoarea spirituală și arhitecturală a Vienei habsburgice. Pentru cei care caută biserici, baroc și Viena, este un reper foarte puternic.",
+      en: "Karlskirche is one of Europe's most famous Baroque churches and a core Vienna SEO landmark. Its monumental dome, columns, and Karlsplatz location make it unmistakable. The church shows the spiritual and architectural splendor of Habsburg Vienna. For visitors searching for churches, Baroque, and Vienna, it is a strong anchor point."
+    },
+    facts: {
+      de: ["Berühmte Barockkirche in Wien.", "Steht am Karlsplatz im Zentrum.", "Die Kuppel ist von weitem sichtbar.", "Beliebtes Motiv für Architektur-SEO.", "Gehört zu den ikonischen Wien-Symbolen."],
+      hu: ["Híres barokk templom Bécsben.", "A Karlsplatzon áll, a központban.", "Kupolája messziről látható.", "Népszerű építészeti SEO-téma.", "Bécs ikonikus szimbólumai közé tartozik."],
+      ro: ["Biserică barocă celebră în Viena.", "Se află în Karlsplatz, în centru.", "Cupola este vizibilă de departe.", "Motiv popular pentru SEO de arhitectură.", "Face parte dintre simbolurile iconice ale Vienei."],
+      en: ["A famous Baroque church in Vienna.", "Stands at Karlsplatz in the city center.", "The dome is visible from far away.", "A popular architecture SEO subject.", "One of Vienna's iconic symbols."]
+    },
+  },
+  {
+    id: "at-burgtheater",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3614, 48.2102],
+    name: { de: "Burgtheater", hu: "Burgtheater", ro: "Burgtheater", en: "Burgtheater" },
+    image: "/geo-images/austria/burgtheater.webp",
+    description: {
+      de: "Das Burgtheater ist das wichtigste deutschsprachige Sprechtheater und ein kulturelles Aushängeschild Wiens. Die prachtvolle Fassade am Ring macht das Gebäude zu einem der bekanntesten Landmarken der Stadt. Im Inneren treffen Bühnenkunst, Tradition und moderne Inszenierung aufeinander. Für Kultur-, Theater- und Wien-SEO ist das Burgtheater ein absoluter Schlüsselort.",
+      hu: "A Burgtheater a legfontosabb német nyelvű prózai színház, és Bécs kulturális névjegye. Pompás homlokzata a Ringen a város egyik legismertebb nevezetességévé teszi. Belül a színjátszás, a hagyomány és a modern rendezés találkozik. Kultúra-, színház- és Bécs-SEO szempontból a Burgtheater abszolút kulcshely.",
+      ro: "Burgtheater este cel mai important teatru de limbă germană și o carte de vizită culturală a Vienei. Fațada sa impunătoare de pe Ring îl face unul dintre cele mai cunoscute repere ale orașului. În interior se întâlnesc arta scenică, tradiția și montarea modernă. Pentru SEO despre cultură, teatru și Viena, Burgtheater este un loc-cheie absolut.",
+      en: "The Burgtheater is the most important German-language spoken theater and a cultural calling card of Vienna. Its grand facade on the Ring makes it one of the city's most recognizable landmarks. Inside, stagecraft, tradition, and modern productions meet. For culture, theater, and Vienna SEO, the Burgtheater is an absolute key site."
+    },
+    facts: {
+      de: ["Nationalbühne Österreichs mit langer Tradition.", "Liegt an der Wiener Ringstraße.", "Berühmt für Schauspiel und Ensemblekultur.", "Die Fassade ist ein klassischer Wiener Blickfang.", "Wichtig für Kultur- und Städtereisen."],
+      hu: ["Ausztria nemzeti színháza hosszú hagyománnyal.", "A bécsi Ringstraße mentén áll.", "Híres a prózai színházról és az ensemble-kultúráról.", "Homlokzata klasszikus bécsi látványosság.", "Fontos a kulturális és városi utazásokhoz."],
+      ro: ["Teatrul național al Austriei, cu tradiție îndelungată.", "Se află pe Ringstrasse din Viena.", "Celebru pentru teatru și cultura de ansamblu.", "Fațada este un magnet vizual vienez.", "Important pentru turismul cultural și urban."],
+      en: ["Austria's national theater with a long tradition.", "Located on Vienna's Ringstrasse.", "Famous for spoken theater and ensemble culture.", "The facade is a classic Vienna eye-catcher.", "Important for cultural and city travel."]
+    },
+  },
+  {
+    id: "at-austrian-parliament",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3583, 48.2084],
+    name: { de: "Österreichisches Parlament", hu: "Osztrák Parlament", ro: "Parlamentul Austriei", en: "Austrian Parliament" },
+    image: "/geo-images/austria/austrian-parliament.webp",
+    description: {
+      de: "Das österreichische Parlament am Ring steht für Demokratie, Geschichte und monumentale Staatsarchitektur. Das Gebäude ist einer der prägnantesten politischen Orte in Wien und ein starkes Landmark für Stadtbesuche. Die klassizistische Wirkung und die Lage am Zentrum der Hauptstadt machen es sehr sichtbar. Für Politik-, Wien- und Architektur-SEO ist das Parlament ein zentraler Begriff.",
+      hu: "A Ring menti osztrák parlament a demokráciát, a történelmet és a monumentális állami építészetet képviseli. Az épület Bécs egyik legjellegzetesebb politikai helyszíne és erős városi landmark. Klasszicista hatása és a főváros központi fekvése nagyon láthatóvá teszi. Politika-, Bécs- és építészeti SEO-ban a parlament központi kifejezés.",
+      ro: "Parlamentul austriac de pe Ring reprezintă democrația, istoria și arhitectura monumentală de stat. Clădirea este unul dintre cele mai pregnante locuri politice din Viena și un landmark puternic pentru vizitatori. Efectul clasicist și poziția centrală o fac foarte vizibilă. Pentru SEO despre politică, Viena și arhitectură, parlamentul este un termen central.",
+      en: "The Austrian Parliament on the Ring stands for democracy, history, and monumental state architecture. The building is one of Vienna's most distinctive political places and a strong city landmark. Its classical effect and central capital location make it highly visible. For politics, Vienna, and architecture SEO, the parliament is a core term."
+    },
+    facts: {
+      de: ["Wichtiger Parlamentsbau an der Ringstraße.", "Starkes Symbol der österreichischen Demokratie.", "Ein klassizistisches Wahrzeichen Wiens.", "Der Vorplatz ist ein beliebter Fotopunkt.", "Häufiges Suchziel für Politik- und Stadtinteresse."],
+      hu: ["Fontos parlamenti épület a Ringstraße mentén.", "Az osztrák demokrácia erős szimbóluma.", "Bécs klasszicista jelképei közé tartozik.", "Az előtér népszerű fotópont.", "Gyakori keresési cél a politika és város iránt érdeklődőknek."],
+      ro: ["Clădire parlamentară importantă pe Ringstrasse.", "Simbol puternic al democrației austriece.", "Un reper clasicist al Vienei.", "Esplanada este un punct foto popular.", "Țintă frecventă pentru cei interesați de politică și oraș."],
+      en: ["An important parliamentary building on the Ringstrasse.", "A strong symbol of Austrian democracy.", "A classical landmark of Vienna.", "The forecourt is a popular photo spot.", "A frequent search target for politics and city interest."]
+    },
+  },
+  {
+    id: "at-vienna-city-hall",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3578, 48.2109],
+    name: { de: "Wiener Rathaus", hu: "Bécsi Városháza", ro: "Primăria Vienei", en: "Vienna City Hall" },
+    image: "/geo-images/austria/vienna-city-hall.webp",
+    description: {
+      de: "Das Wiener Rathaus ist ein neugotisches Monument und ein starkes Stadtmarkenzeichen an der Ringstraße. Es dient nicht nur der Verwaltung, sondern auch großen Veranstaltungen und dem berühmten Christkindlmarkt. Mit seinen Türmen und dem weiten Vorplatz prägt es das Stadtbild der Hauptstadt massiv. Für Wien-SEO, Veranstaltungen und Architektur ist das Rathaus ein Top-Begriff.",
+      hu: "A bécsi városháza neogótikus monumentum és erős városi jelkép a Ringstraße mentén. Nemcsak hivatal, hanem nagy rendezvények és a híres karácsonyi vásár helyszíne is. Tornyaival és tágas előterével erősen meghatározza a főváros arculatát. Bécs-SEO-ban, rendezvényeknél és építészetnél a városháza top kifejezés.",
+      ro: "Primăria Vienei este un monument neogotic și un semn urban puternic pe Ringstrasse. Nu este doar sediu administrativ, ci și loc pentru evenimente mari și faimosul târg de Crăciun. Cu turnurile și piața largă, marchează puternic imaginea capitalei. Pentru SEO despre Viena, evenimente și arhitectură, primăria este un termen de top.",
+      en: "Vienna City Hall is a neo-Gothic monument and a strong city marker on the Ringstrasse. It is not only an administrative building but also a venue for major events and the famous Christmas market. With its towers and broad forecourt, it strongly shapes the capital's image. For Vienna SEO, events, and architecture, the City Hall is a top term."
+    },
+    facts: {
+      de: ["Neugotisches Wahrzeichen an der Ringstraße.", "Sitz der Wiener Stadtverwaltung.", "Berühmt für den Christkindlmarkt vor dem Haus.", "Großer Platz für Feste und Veranstaltungen.", "Ein Muss für Architektur- und Wien-Fans."],
+      hu: ["Neogótikus jelkép a Ringstraße mentén.", "A bécsi városháza székhelye.", "Híres az épület előtti karácsonyi vásárról.", "Nagy tér ünnepségekhez és rendezvényekhez.", "Kötelező látnivaló építészet- és Bécs-rajongóknak."],
+      ro: ["Reper neogotic pe Ringstrasse.", "Sediul administrației orașului Viena.", "Celebră pentru târgul de Crăciun din față.", "Piață mare pentru sărbători și evenimente.", "O oprire obligatorie pentru fanii arhitecturii și Vienei."],
+      en: ["A neo-Gothic landmark on the Ringstrasse.", "Seat of Vienna's city administration.", "Famous for the Christmas market in front.", "A large square for celebrations and events.", "A must-see for architecture and Vienna fans."]
+    },
+  },
+  {
+    id: "at-museumquartier",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3598, 48.2040],
+    name: { de: "MuseumsQuartier", hu: "Múzeumi Negyed", ro: "MuseumsQuartier", en: "MuseumsQuartier" },
+    image: "/geo-images/austria/museumquartier.webp",
+    description: {
+      de: "Das MuseumsQuartier gehört zu den größten Kulturarealen Europas und ist ein Magnet für moderne Wien-Besuche. Es verbindet Museen, Höfe, Cafés und öffentliche Räume zu einem lebendigen Kulturcampus. Die Mischung aus historischer Hülle und zeitgenössischer Nutzung macht das Areal besonders attraktiv. Für Kunst-, Museum- und Städtereise-SEO ist das MuseumsQuartier ein Top-Name.",
+      hu: "A MuseumsQuartier Európa egyik legnagyobb kulturális területe, és a modern bécsi látogatások mágneses pontja. Múzeumokat, udvarokat, kávézókat és köztereket köt össze egy élő kulturális campusszá. A történelmi keret és a kortárs használat keveréke különösen vonzóvá teszi. Művészet-, múzeum- és városlátogatási SEO-ban a MuseumsQuartier top név.",
+      ro: "MuseumsQuartier este una dintre cele mai mari zone culturale din Europa și un magnet pentru vizitele moderne în Viena. Leagă muzee, curți, cafenele și spații publice într-un campus cultural viu. Amestecul dintre învelișul istoric și utilizarea contemporană îl face deosebit de atractiv. Pentru SEO despre artă, muzee și city break, MuseumsQuartier este un nume de top.",
+      en: "The MuseumsQuartier is one of Europe's largest cultural areas and a magnet for modern Vienna visits. It combines museums, courtyards, cafes, and public spaces into a lively cultural campus. The mix of historic shell and contemporary use makes the area especially attractive. For art, museums, and city-break SEO, MuseumsQuartier is a top name."
+    },
+    facts: {
+      de: ["Eines der größten Kulturareale Europas.", "Liegt direkt im Zentrum von Wien.", "Verbindet Museen, Innenhöfe und Cafés.", "Beliebt für Kunst, Design und Urbanität.", "Starker Tourismusmagnet das ganze Jahr."],
+      hu: ["Európa egyik legnagyobb kulturális területe.", "Közvetlenül Bécs központjában található.", "Múzeumokat, udvarokat és kávézókat köt össze.", "Népszerű művészetre, dizájnra és városi hangulatra.", "Egész évben erős turisztikai vonzerő."],
+      ro: ["Una dintre cele mai mari zone culturale din Europa.", "Situată chiar în centrul Vienei.", "Leagă muzee, curți interioare și cafenele.", "Populară pentru artă, design și urbanitate.", "Magnet turistic puternic tot timpul anului."],
+      en: ["One of the largest cultural areas in Europe.", "Located right in central Vienna.", "Combines museums, courtyards, and cafes.", "Popular for art, design, and urban atmosphere.", "A strong tourism magnet all year round."]
+    },
+  },
+  {
+    id: "at-haus-der-musik",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3730, 48.2079],
+    name: { de: "Haus der Musik", hu: "A Zene Háza", ro: "Casa Muzicii", en: "House of Music" },
+    image: "/geo-images/austria/haus-der-musik.webp",
+    description: {
+      de: "Das Haus der Musik in Wien verbindet Museum, Klangexperiment und Musikgeschichte auf moderne Weise. Es ist ein beliebter Ort für Familien, Schulgruppen und alle, die Musik als Erlebnis suchen. Die zentrale Lage zwischen Altstadt und Ring macht es zusätzlich attraktiv. Für Wien-, Mozart- und Musik-SEO ist das Haus der Musik sehr stark.",
+      hu: "A bécsi Zene Háza modern módon kapcsolja össze a múzeumot, a hangkísérleteket és a zenetörténetet. Népszerű hely családok, iskolai csoportok és mindazok számára, akik élményként keresik a zenét. Az óváros és a Ring közötti központi fekvése tovább növeli vonzerejét. Bécs-, Mozart- és zene-SEO-ban a Zene Háza nagyon erős.",
+      ro: "Casa Muzicii din Viena combină muzeul, experimentele sonore și istoria muzicii într-un mod modern. Este un loc popular pentru familii, grupuri școlare și toți cei care caută muzica drept experiență. Poziția centrală între centrul vechi și Ring îi crește atractivitatea. Pentru SEO despre Viena, Mozart și muzică, Casa Muzicii este foarte puternică.",
+      en: "The House of Music in Vienna combines museum, sound experiments, and music history in a modern way. It is a popular place for families, school groups, and anyone looking to experience music. Its central location between the old town and the Ring adds to its appeal. For Vienna, Mozart, and music SEO, the House of Music is very strong."
+    },
+    facts: {
+      de: ["Interaktives Musikmuseum in Wien.", "Beliebt bei Familien und Schulklassen.", "Zentral zwischen Altstadt und Ring gelegen.", "Verknüpft Klang, Bildung und Erlebnis.", "Stark für Musik- und Mozart-Suchen."],
+      hu: ["Interaktív zenei múzeum Bécsben.", "Népszerű családok és iskolai osztályok körében.", "Központi fekvés az óváros és a Ring között.", "Összeköti a hangot, az oktatást és az élményt.", "Erős zene- és Mozart-keresésekhez."],
+      ro: ["Muzeu interactiv al muzicii în Viena.", "Popular printre familii și clase școlare.", "Situat central între centrul vechi și Ring.", "Leagă sunetul, educația și experiența.", "Puternic pentru căutări despre muzică și Mozart."],
+      en: ["An interactive music museum in Vienna.", "Popular with families and school groups.", "Centrally located between the old town and the Ring.", "Combines sound, education, and experience.", "Strong for music and Mozart searches."]
+    },
+  },
+  {
+    id: "at-ankeruhr",
+    type: "landmark",
+    parent: "AT",
+    coords: [16.3734, 48.2087],
+    name: { de: "Ankeruhr", hu: "Anker-óra", ro: "Ceasul Anker", en: "Anker Clock" },
+    image: "/geo-images/austria/ankeruhr.webp",
+    description: {
+      de: "Die Ankeruhr ist eine der bekanntesten Uhren Wiens und ein kleines, aber sehr markantes Stadtzeichen. Mit ihren historischen Figuren und dem täglichen Stundenspiel zieht sie Besucher aus aller Welt an. Die Uhr verbindet Jugendstil, Technik und erzählerische Stadtgeschichte auf engem Raum. Für Wien-SEO und historische Stadtrundgänge ist die Ankeruhr ein starker Begriff.",
+      hu: "Az Anker-óra Bécs egyik legismertebb órája és egy kicsi, de nagyon jellegzetes városi jel. Történelmi alakjaival és napi órajátékával a világ minden tájáról vonzza a látogatókat. Az óra kis területen köti össze a szecessziót, a technikát és a történetmesélő várostörténetet. Bécs-SEO-hoz és történelmi városi sétákhoz az Anker-óra erős kulcsszó.",
+      ro: "Ceasul Anker este unul dintre cele mai cunoscute ceasuri din Viena și un semn urban mic, dar foarte distinctiv. Cu figurile sale istorice și spectacolul zilnic al orei, atrage vizitatori din toată lumea. Ceasul combină Jugendstil, tehnologia și povestea orașului într-un spațiu compact. Pentru SEO despre Viena și plimbări istorice în oraș, ceasul Anker este un termen puternic.",
+      en: "The Anker Clock is one of Vienna's best-known clocks and a small but very distinctive city marker. With its historical figures and daily hour show, it attracts visitors from all over the world. The clock combines Art Nouveau, technology, and storytelling city history in one compact place. For Vienna SEO and historic city walks, the Anker Clock is a strong term."
+    },
+    facts: {
+      de: ["Berühmte Kunstuhr in Wien.", "Bekannt für das tägliche Stundenspiel.", "Liegt im Zentrum der Altstadt.", "Beliebter Treffpunkt für Stadtrundgänge.", "Starkes Motiv für Uhr- und Wien-Suchen."],
+      hu: ["Híres művészi óra Bécsben.", "A napi órajátékáról ismert.", "Az óváros központjában található.", "Népszerű találkozóhely városi sétákhoz.", "Erős téma óra- és Bécs-keresésekhez."],
+      ro: ["Ceas artistic celebru în Viena.", "Cunoscut pentru spectacolul zilnic al orei.", "Situat în centrul centrului vechi.", "Punct popular de întâlnire pentru tururi urbane.", "Motiv puternic pentru căutări despre ceasuri și Viena."],
+      en: ["A famous artistic clock in Vienna.", "Known for its daily hour show.", "Located in the center of the old town.", "A popular meeting point for city walks.", "A strong motif for clock and Vienna searches."]
+    }
+  }
+  ,
+  {
+    id: "at-port-of-vienna",
+    type: "port",
+    parent: "AT",
+    coords: [16.4600, 48.1605],
+    name: { de: "Hafen Wien", hu: "Bécsi kikötő", ro: "Portul Viena", en: "Port of Vienna" },
+    image: "/geo-images/austria/port-of-vienna.webp",
+    description: {
+      de: "Der Hafen Wien ist ein zentraler Logistikstandort an der Donau und verbindet Binnenverkehr mit internationalem Güteraustausch. Der Hafen zeigt, wie wichtig die Wasserstraße für moderne Versorgung und Wirtschaft in Österreich bleibt. Mit Containerumschlag, Lagerflächen und trimodaler Anbindung ist er ein starker Wirtschaftsanker. Für SEO zu Wien, Donauhafen und Logistik ist der Hafen Wien sehr relevant.",
+      hu: "A Bécsi kikötő a Duna egyik központi logisztikai helyszíne, amely a belföldi forgalmat a nemzetközi árucsereforgalommal köti össze. A kikötő megmutatja, mennyire fontos ma is a vízi út Ausztria ellátásában és gazdaságában. Konténerkezeléssel, raktárakkal és trimodális kapcsolattal erős gazdasági támaszpont. Bécs, dunai kikötő és logisztika SEO-ra a Hafen Wien nagyon releváns.",
+      ro: "Portul Viena este un nod logistic central pe Dunăre și leagă transportul intern de schimburile internaționale de mărfuri. Portul arată cât de importantă rămâne astăzi calea navigabilă pentru aprovizionarea și economia Austriei. Cu manipulare de containere, spații de depozitare și conexiune trimodală, este o ancoră economică puternică. Pentru SEO despre Viena, portul de pe Dunăre și logistică, Portul Viena este foarte relevant.",
+      en: "The Port of Vienna is a central logistics location on the Danube and connects inland traffic with international freight exchange. The port shows how important the waterway remains for modern supply and business in Austria. With container handling, storage space, and trimodal access, it is a strong economic anchor. For SEO about Vienna, Danube ports, and logistics, the Port of Vienna is highly relevant."
+    },
+    facts: {
+      de: ["Wichtiger Donauhafen in Wien.", "Verbindet Schiff, Bahn und Straße.", "Zentral für Warenumschlag und Lagerlogistik.", "Starker Standort für die Hauptstadtwirtschaft.", "Relevant für Binnenhafen- und Logistik-SEO."],
+      hu: ["Fontos dunai kikötő Bécsben.", "Összeköti a hajót, a vasutat és a közutat.", "Kulcsfontosságú az árumozgatás és a raktárlogisztika számára.", "Erős helyszín a fővárosi gazdaságban.", "Releváns belföldi kikötő és logisztikai SEO-ra."],
+      ro: ["Port important pe Dunăre în Viena.", "Leagă nava, trenul și șoseaua.", "Central pentru manipularea mărfurilor și depozitare.", "Loc puternic pentru economia capitalei.", "Relevant pentru SEO despre porturi interioare și logistică."],
+      en: ["An important Danube port in Vienna.", "Connects ship, rail, and road.", "Central for cargo handling and warehouse logistics.", "A strong site for the capital's economy.", "Relevant for inland port and logistics SEO."]
+    },
+  },
+  {
+    id: "at-port-of-linz",
+    type: "port",
+    parent: "AT",
+    coords: [14.3009, 48.3160],
+    name: { de: "Hafen Linz", hu: "Linz kikötő", ro: "Portul Linz", en: "Port of Linz" },
+    image: "/geo-images/austria/port-of-linz.webp",
+    description: {
+      de: "Der Hafen Linz ist ein bedeutender Donauhafen und ein zentrales Glied der oberösterreichischen Industrie- und Lieferketten. Seine Lage am Strom macht ihn zu einem idealen Standort für Umschlag, Lagerung und regionale Verteilung. Der Hafen passt hervorragend zu Linz als Stadt der Produktion, des Handels und der Technik. Für Donau-, Hafen- und Industrielogistik-SEO ist der Hafen Linz ein starker Begriff.",
+      hu: "A Linzi kikötő jelentős dunai kikötő és Felső-Ausztria ipari és ellátási láncának központi láncszeme. A folyóparti fekvés ideális helyszínt ad az átrakodáshoz, tároláshoz és regionális elosztáshoz. A kikötő kiválóan illik Linzhez, mint termelési, kereskedelmi és technológiai városhoz. Duna-, kikötő- és ipari logisztikai SEO-ban a Linz kikötő erős kifejezés.",
+      ro: "Portul Linz este un port important pe Dunăre și o verigă centrală a lanțurilor industriale și de aprovizionare din Austria Superioară. Poziția pe fluviu îl face ideal pentru transbordare, depozitare și distribuție regională. Portul se potrivește perfect cu Linz ca oraș al producției, comerțului și tehnologiei. Pentru SEO despre Dunăre, porturi și logistică industrială, Portul Linz este un termen puternic.",
+      en: "The Port of Linz is an important Danube port and a central link in Upper Austria's industrial and supply chains. Its position on the river makes it ideal for transshipment, storage, and regional distribution. The port fits Linz perfectly as a city of production, trade, and technology. For Danube, port, and industrial logistics SEO, the Port of Linz is a strong term."
+    },
+    facts: {
+      de: ["Wichtiger Donauhafen in Oberösterreich.", "Eng mit Industrie und Logistik verknüpft.", "Idealer Knoten für Binnenwasserstraße und Verteilung.", "Passt zur Wirtschaftskraft von Linz.", "Starkes Thema für Hafen- und Standort-SEO."],
+      hu: ["Fontos dunai kikötő Felső-Ausztriában.", "Szorosan kapcsolódik az iparhoz és a logisztikához.", "Ideális csomópont a belvízi út és az elosztás számára.", "Illik Linz gazdasági erejéhez.", "Erős téma kikötői és telephely SEO-hoz."],
+      ro: ["Port important pe Dunăre, în Austria Superioară.", "Legat strâns de industrie și logistică.", "Nod ideal pentru calea navigabilă interioară și distribuție.", "Se potrivește cu forța economică a orașului Linz.", "Temă puternică pentru SEO despre porturi și locații."],
+      en: ["An important Danube port in Upper Austria.", "Closely linked to industry and logistics.", "An ideal node for inland waterway and distribution.", "Fits Linz's economic strength.", "A strong topic for port and location SEO."]
+    },
+  },
+  {
+    id: "at-omv-schwechat-refinery",
+    type: "industry",
+    parent: "AT",
+    coords: [16.4735, 48.1186],
+    name: { de: "OMV Raffinerie Schwechat", hu: "OMV schwechati finomító", ro: "Rafinăria OMV Schwechat", en: "OMV Schwechat Refinery" },
+    image: "/geo-images/austria/omv-schwechat-refinery.webp",
+    description: {
+      de: "Die OMV Raffinerie in Schwechat ist eines der wichtigsten Industrie- und Energiezentren Österreichs. Der Standort bei Wien zeigt die Verbindung von Mobilität, Treibstoffversorgung und moderner Chemieproduktion. Durch die Nähe zum Hauptstadtgebiet hat er eine enorme strategische Bedeutung für den Wirtschaftsraum Ostösterreich. Für Industrie-, Energie- und Schwechat-SEO ist die Raffinerie ein sehr relevanter Begriff.",
+      hu: "A schwechati OMV finomító Ausztria egyik legfontosabb ipari és energetikai központja. A Bécs melletti telephely megmutatja a mobilitás, az üzemanyag-ellátás és a modern vegyipar kapcsolatát. A fővárosi térség közelsége miatt óriási stratégiai jelentősége van Kelet-Ausztria gazdaságában. Ipari, energetikai és Schwechat SEO-ban a finomító nagyon releváns kifejezés.",
+      ro: "Rafinăria OMV din Schwechat este unul dintre cele mai importante centre industriale și energetice ale Austriei. Locația de lângă Viena arată legătura dintre mobilitate, aprovizionarea cu combustibil și producția chimică modernă. Datorită apropierii de zona capitalei, are o importanță strategică enormă pentru economia Austriei de Est. Pentru SEO despre industrie, energie și Schwechat, rafinăria este un termen foarte relevant.",
+      en: "The OMV refinery in Schwechat is one of Austria's most important industrial and energy centers. The site near Vienna shows the connection between mobility, fuel supply, and modern chemical production. Because of its proximity to the capital region, it has enormous strategic importance for eastern Austria's economy. For industry, energy, and Schwechat SEO, the refinery is a very relevant term."
+    },
+    facts: {
+      de: ["Eines der wichtigsten Energiezentren Österreichs.", "Liegt bei Schwechat nahe Wien.", "Versorgt einen großen Teil des Landes mit Treibstoffen.", "Wichtiger Standort für Chemie und Raffinerietechnik.", "Starkes Thema für Energie- und Industrie-SEO."],
+      hu: ["Ausztria egyik legfontosabb energetikai központja.", "Schwechatan, Bécs közelében található.", "Az ország nagy részét üzemanyaggal látja el.", "Fontos helyszín a vegyipar és a finomítástechnika számára.", "Erős energia- és ipari SEO-téma."],
+      ro: ["Unul dintre cele mai importante centre energetice ale Austriei.", "Se află la Schwechat, lângă Viena.", "Aprovizionează cu combustibili o mare parte din țară.", "Loc important pentru chimie și tehnologia rafinării.", "Temă puternică pentru SEO despre energie și industrie."],
+      en: ["One of Austria's most important energy centers.", "Located in Schwechat near Vienna.", "Supplies a large share of the country with fuel.", "An important site for chemicals and refinery technology.", "A strong topic for energy and industrial SEO."]
+    },
+  },
+  {
+    id: "at-voestalpine-linz",
+    type: "industry",
+    parent: "AT",
+    coords: [14.3178, 48.2901],
+    name: { de: "voestalpine Linz", hu: "voestalpine Linz", ro: "voestalpine Linz", en: "voestalpine Linz" },
+    image: "/geo-images/austria/voestalpine-linz.webp",
+    description: {
+      de: "voestalpine in Linz ist das Symbol für österreichische Stahl- und Hochtechnologieproduktion. Der Standort steht für industrielle Stärke, internationale Lieferketten und moderne Werkstoffentwicklung. Als Teil des Linzer Wirtschaftsraums prägt er die Identität der Stadt weit über die Region hinaus. Für Industrie-, Stahl- und Linz-SEO ist voestalpine ein Schlüsselbegriff.",
+      hu: "A linzi voestalpine az osztrák acél- és csúcstechnológiai termelés szimbóluma. A telephely az ipari erőt, a nemzetközi ellátási láncokat és a modern anyagfejlesztést képviseli. A linzi gazdasági térség részeként a város identitását messze a régión túl is formálja. Ipari, acél- és Linz-SEO-ban a voestalpine kulcsszó.",
+      ro: "voestalpine din Linz este simbolul producției austriece de oțel și tehnologie avansată. Locația reprezintă puterea industrială, lanțurile internaționale de aprovizionare și dezvoltarea materialelor moderne. Ca parte a spațiului economic din Linz, modelează identitatea orașului mult dincolo de regiune. Pentru SEO despre industrie, oțel și Linz, voestalpine este un termen-cheie.",
+      en: "voestalpine in Linz is the symbol of Austrian steel and high-tech production. The site stands for industrial strength, international supply chains, and modern materials development. As part of Linz's economic area, it shapes the city's identity far beyond the region. For industry, steel, and Linz SEO, voestalpine is a key term."
+    },
+    facts: {
+      de: ["Steht für Stahl und Hightech in Österreich.", "Prägt den Wirtschaftsraum Linz stark.", "International eng in Lieferketten eingebunden.", "Wichtiger Arbeitgeber und Innovationsstandort.", "Starkes SEO-Thema für Industriegeschichte."],
+      hu: ["Az osztrák acél és high-tech jelképe.", "Erősen formálja a linzi gazdasági teret.", "Nemzetközileg szorosan be van kötve az ellátási láncokba.", "Fontos munkaadó és innovációs helyszín.", "Erős SEO-téma az ipartörténetben."],
+      ro: ["Simbol al oțelului și tehnologiei avansate în Austria.", "Modelează puternic spațiul economic din Linz.", "Foarte bine integrat în lanțurile internaționale de aprovizionare.", "Angajator important și loc de inovare.", "Temă SEO puternică pentru istoria industriei."],
+      en: ["A symbol of steel and high-tech in Austria.", "Strongly shapes Linz's economic area.", "Closely integrated into international supply chains.", "An important employer and innovation site.", "A strong SEO topic for industrial history."]
+    },
+  },
+  {
+    id: "at-wachau-vineyards",
+    type: "agriculture",
+    parent: "AT",
+    coords: [15.4560, 48.3660],
+    name: { de: "Wachauer Weingärten", hu: "Wachaui szőlőskertek", ro: "Vii din Wachau", en: "Wachau Vineyards" },
+    image: "/geo-images/austria/wachau-vineyards.webp",
+    description: {
+      de: "Die Wachauer Weingärten gehören zu den bekanntesten Agrarlandschaften Österreichs und prägen das UNESCO-Tal entlang der Donau. Terrassen, Trockenmauern und Rebsorten wie Grüner Veltliner und Riesling bestimmen das Bild. Die Kombination aus Weinbau, Kulturlandschaft und Flussurlaub macht die Region international attraktiv. Für Landwirtschafts-SEO, Wachau und Genussreisen ist dieses Thema besonders stark.",
+      hu: "A Wachau szőlőskertjei Ausztria legismertebb agrártájai közé tartoznak, és az UNESCO-völgyet formálják a Duna mentén. Teraszok, szárazkőfalak és olyan fajták, mint a Grüner Veltliner és a Riesling adják az arculatot. A borászat, a kultúrtáj és a folyóparti pihenés kombinációja nemzetközileg is vonzóvá teszi a régiót. Mezőgazdasági SEO, Wachau és gasztro-utazás témában ez különösen erős.",
+      ro: "Vilele din Wachau se numără printre cele mai cunoscute peisaje agricole ale Austriei și conturează valea UNESCO de-a lungul Dunării. Terasele, zidurile de piatră uscată și soiuri precum Grüner Veltliner și Riesling definesc imaginea. Combinația dintre viticultură, peisaj cultural și vacanțe pe malul fluviului face regiunea atractivă la nivel internațional. Pentru SEO despre agricultură, Wachau și călătorii gastronomice, tema este foarte puternică.",
+      en: "The Wachau vineyards are among Austria's best-known agricultural landscapes and shape the UNESCO valley along the Danube. Terraces, dry-stone walls, and grape varieties like Grüner Veltliner and Riesling define the scenery. The mix of winegrowing, cultural landscape, and river holidays makes the region internationally attractive. For agriculture SEO, the Wachau, and food travel, this topic is especially strong."
+    },
+    facts: {
+      de: ["Teil der UNESCO-Welterbelandschaft Wachau.", "Berühmt für Grüner Veltliner und Riesling.", "Terrassenweinbau prägt die Hänge an der Donau.", "Wichtiger Baustein der niederösterreichischen Genusskultur.", "Starkes Thema für Wein- und Agrartourismus."],
+      hu: ["A Wachau UNESCO-világörökségi tájának része.", "A Grüner Veltliner és a Riesling miatt híres.", "A teraszos szőlőművelés formálja a Duna menti lejtőket.", "Az alsó-ausztriai gasztronómiai kultúra fontos eleme.", "Erős téma a bor- és agrárturizmusban."],
+      ro: ["Parte a peisajului UNESCO Wachau.", "Celebru pentru Grüner Veltliner și Riesling.", "Viticultura pe terase modelează pantele de pe Dunăre.", "O piesă importantă a culturii gastronomice din Austria Inferioară.", "Temă puternică pentru turismul viticol și agricol."],
+      en: ["Part of the UNESCO landscape of the Wachau.", "Famous for Grüner Veltliner and Riesling.", "Terraced viticulture shapes the Danube slopes.", "An important part of Lower Austria's food culture.", "A strong topic for wine and agricultural tourism."]
+    },
+  },
+  {
+    id: "at-marchfeld-vegetables",
+    type: "agriculture",
+    parent: "AT",
+    coords: [16.7500, 48.2500],
+    name: { de: "Marchfeld Gemüse", hu: "Marchfeldi zöldségtermesztés", ro: "Legume din Marchfeld", en: "Marchfeld Vegetables" },
+    image: "/geo-images/austria/marchfeld-vegetables.webp",
+    description: {
+      de: "Das Marchfeld ist einer der wichtigsten Gemüse- und Ackerbauräume Österreichs und steht für landwirtschaftliche Produktivität auf hohem Niveau. Die weiten Felder östlich von Wien liefern ein starkes Bild für moderne Agrarlandschaft und regionale Versorgung. Spargel, Zwiebeln und andere Feldfrüchte prägen die Marke der Region. Für Landwirtschafts-, Wien- und Niederösterreich-SEO ist das Marchfeld ein sehr brauchbarer Begriff.",
+      hu: "A Marchfeld Ausztria egyik legfontosabb zöldség- és szántóföldi területe, amely magas szintű mezőgazdasági teljesítményt képvisel. A Bécstől keletre fekvő hatalmas mezők erős képet adnak a modern agrártájról és a regionális ellátásról. A spárga, a hagyma és más szántóföldi termények formálják a térség márkáját. Mezőgazdasági, bécsi és alsó-ausztriai SEO-hoz a Marchfeld nagyon hasznos kifejezés.",
+      ro: "Marchfeld este una dintre cele mai importante zone de legumicultură și culturi de câmp din Austria și reprezintă productivitate agricolă la nivel înalt. Câmpurile întinse la est de Viena oferă o imagine puternică a peisajului agricol modern și a aprovizionării regionale. Sparanghelul, ceapa și alte culturi de câmp definesc marca regiunii. Pentru SEO despre agricultură, Viena și Austria Inferioară, Marchfeld este un termen foarte util.",
+      en: "Marchfeld is one of Austria's most important vegetable and field-crop regions and stands for high-level agricultural productivity. The wide fields east of Vienna create a strong image of modern farm landscapes and regional supply. Asparagus, onions, and other field crops define the region's brand. For agriculture, Vienna, and Lower Austria SEO, Marchfeld is a very useful term."
+    },
+    facts: {
+      de: ["Wichtiges Gemüseanbaugebiet östlich von Wien.", "Bekannt für Spargel, Zwiebeln und Feldfrüchte.", "Starke Verbindung zwischen Landwirtschaft und Stadtversorgung.", "Die offene Ebene prägt das Landschaftsbild.", "Bedeutend für regionale Agrar-SEO."],
+      hu: ["Fontos zöldségtermesztő terület Bécstől keletre.", "Híres a spárgáról, a hagymáról és a szántóföldi terményekről.", "Erős kapcsolat a mezőgazdaság és a városi ellátás között.", "A nyílt síkság meghatározza a tájképet.", "Jelentős a regionális agrár SEO számára."],
+      ro: ["Zonă importantă de legumicultură la est de Viena.", "Cunoscută pentru sparanghel, ceapă și culturi de câmp.", "Legătură puternică între agricultură și aprovizionarea orașelor.", "Câmpia deschisă definește peisajul.", "Importantă pentru SEO agricol regional."],
+      en: ["An important vegetable-growing area east of Vienna.", "Known for asparagus, onions, and field crops.", "A strong link between agriculture and urban supply.", "The open plain defines the landscape.", "Important for regional agriculture SEO."]
     }
   }
 ];

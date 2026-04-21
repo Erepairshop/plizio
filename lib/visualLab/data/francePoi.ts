@@ -376,7 +376,7 @@ export const franceCities: POI[] = [
       hu: ["A 16. században épült egy régi malom alapjaira.", "A Cher folyó feletti galéria 60 méter hosszú.", "Diane de Poitiers és Medici Katalin gyönyörű kertjei veszik körül.", "Az első világháború alatt katonai kórházként működött.", "A második világháborúban menekülési útvonalként szolgált a demarkációs vonalon.", "Jelentős régi mesterek festménygyűjteményének ad otthont.", "1840 óta szerepel a történelmi műemlékek listáján."],
       ro: ["Construit în secolul al XVI-lea pe fundațiile unei vechi mori.", "Galeria de peste râul Cher are o lungime de 60 de metri.", "Dispune de grădini superbe create de Diana de Poitiers și Caterina de Medici.", "A servit ca spital militar în timpul Primului Război Mondial.", "În Al Doilea Război Mondial a fost o cale de evadare peste linia de demarcație.", "Găzduiește o colecție importantă de picturi ale vechilor maeștri.", "Este clasificat ca monument istoric din anul 1840."],
       en: ["Built in the 16th century on the foundations of an old mill.", "The gallery over the Cher river is 60 meters long.", "Features beautiful gardens designed by Diane de Poitiers and Catherine de' Medici.", "Served as a military hospital during World War I.", "Was an escape route across the demarcation line during World War II.", "Houses a significant collection of Old Master paintings.", "Classified as a Monument Historique since 1840."]
-    }
+    },
   },
   {
     id: "fr-chateau-chambord",
@@ -396,7 +396,7 @@ export const franceCities: POI[] = [
       hu: ["Az építkezés 1519-ben kezdődött I. Ferenc uralkodása alatt.", "440 szobával és 365 kéménnyel rendelkezik.", "A kettős csigalépcsőn két ember úgy haladhat el, hogy látják egymást, de nem találkoznak.", "A kastélypark területe akkora, mint Párizs városa.", "A kastélyt soha nem fejezték be teljesen.", "Leonardo da Vinci a közelben töltötte utolsó éveit és hatással volt a tervekre.", "1981 óta az UNESCO Világörökség része."],
       ro: ["Construcția a început în 1519 sub domnia lui Francisc I.", "Are 440 de camere și 365 de șeminee.", "Scara cu dublă elice permite ca două persoane să se vadă fără să se întâlnească.", "Parcul este la fel de mare ca orașul Paris.", "Castelul nu a fost niciodată finalizat complet.", "Leonardo da Vinci a locuit în apropiere și a influențat designul.", "Face parte din Patrimoniul Mondial UNESCO din 1981."],
       en: ["Construction began in 1519 under Francis I.", "Features 440 rooms and 365 chimneys.", "The double-helix staircase allows two people to ascend and descend without meeting.", "The park is as large as the city of Paris.", "The castle was never fully completed.", "Leonardo da Vinci spent his last years nearby and influenced the design.", "Inscribed as a UNESCO World Heritage site in 1981."]
-    }
+    },
   },
   {
     id: "fr-chateau-fontainebleau",
@@ -416,7 +416,7 @@ export const franceCities: POI[] = [
       hu: ["Napóleon Bonaparte 'a királyok igazi otthonának' nevezte.", "Itt található Franciaország egyetlen épségben maradt trónterme.", "A híres patkó alakú lépcső a 17. században épült.", "A kastélynak több mint 1500 szobája van.", "Egy 25 000 hektáros erdő veszi körül.", "Napóleon itt írta alá lemondását 1814-ben.", "1981 óta az UNESCO Világörökség része."],
       ro: ["Napoleon Bonaparte l-a numit 'adevărata casă a regilor'.", "Găzduiește singura sală a tronului păstrată intactă din Franța.", "Celebra scară în formă de potcoavă a fost construită în secolul al XVII-lea.", "Palatul are peste 1500 de camere.", "Este înconjurat de o pădure de 25.000 de hectare.", "Aici a semnat Napoleon actul de abdicare în 1814.", "Este inclus în Patrimoniul Mondial UNESCO din 1981."],
       en: ["Napoleon Bonaparte called it 'the true home of kings'.", "Houses the only throne room in France to have retained its original furniture.", "The famous horseshoe-shaped staircase was built in the 17th century.", "The palace contains over 1,500 rooms.", "Surrounded by a 25,000-hectare forest.", "Napoleon signed his abdication here in 1814.", "Designated a UNESCO World Heritage site in 1981."]
-    }
+    },
   },
   {
     id: "fr-pont-du-gard",
@@ -436,7 +436,7 @@ export const franceCities: POI[] = [
       hu: ["A vízvezeték majdnem 50 méter magas.", "Habarcs nélkül, több tonnás kőtömbökből építették.", "A teljes vezeték lejtése mindössze 12 méter 50 kilométeren.", "Naponta körülbelül 20 000 köbméter víz folyt át rajta.", "A középkorban közúti hídként is használták.", "Szerepel az 5 eurós bankjegyen.", "1985 óta az UNESCO Világörökség része."],
       ro: ["Apeductul are o înălțime de aproape 50 de metri.", "A fost construit fără mortar, din blocuri de piatră de câteva tone.", "Panta întregului apeduct este de doar 12 metri pe o distanță de 50 km.", "Zilnic transporta aproximativ 20.000 de metri cubi de apă.", "În Evul Mediu a fost folosit ca pod rutier.", "Este reprezentat pe bancnota de 5 euro.", "Patrimoniu Mondial UNESCO din 1985."],
       en: ["The aqueduct stands nearly 50 meters high.", "Built without mortar using stone blocks weighing several tons.", "The gradient of the entire aqueduct is only 12 meters over 50 kilometers.", "It carried about 20,000 cubic meters of water daily.", "Used as a road bridge during the Middle Ages.", "Depicted on the 5-euro banknote.", "UNESCO World Heritage site since 1985."]
-    }
+    },
   },
   {
     id: "fr-carnac",
@@ -456,7 +456,7 @@ export const franceCities: POI[] = [
       hu: ["A lelőhely körülbelül 4 kilométer hosszan terül el.", "Három fő kősor-csoport létezik: Ménec, Kermario és Kerlescan.", "Némelyik menhir magassága meghaladja a 4 métert.", "A legenda szerint a kövek egy kővé vált római légiót alkotnak.", "A tudósok csillagászati vagy vallási funkciót feltételeznek.", "A kövek helyi gránitból készültek.", "A területet a növényzet védelme érdekében részben bekerítették."],
       ro: ["Situl se întinde pe o lungime de aproximativ 4 kilometri.", "Există trei grupuri principale de aliniamente: Ménec, Kermario și Kerlescan.", "Unele menhire au o înălțime de peste 4 metri.", "Conform legendei, pietrele sunt o legiune romană pietrificată.", "Oamenii de știință suspectează funcții astronomice sau religioase.", "Pietrele sunt cioplite din granit local.", "Situl este parțial împrejmuit pentru a proteja vegetația."],
       en: ["The site stretches over a length of about 4 kilometers.", "There are three main groups of alignments: Ménec, Kermario, and Kerlescan.", "Some menhirs stand over 4 meters tall.", "According to legend, the stones are a petrified Roman legion.", "Scientists suggest astronomical or religious functions for the site.", "The stones are made of local granite.", "The area is partially fenced to protect the vegetation from erosion."]
-    }
+    },
   },
   {
     id: "fr-arenas-nimes",
@@ -476,7 +476,7 @@ export const franceCities: POI[] = [
       hu: ["Az aréna elliptikus alakú, 133-szor 101 méteres.", "A homlokzat két szintből áll, szintenként 60 boltívvel.", "A középkorban az arénát erődített településsé alakították át.", "Bonyolult folyosó- és lépcsőrendszer segítette a nézők mozgását.", "Az aréna rendelkezett napellenzővel (velum) a nézők védelmére.", "1840 óta védett történelmi műemlék.", "Minden évben itt rendezik meg a 'Nagy Római Játékokat'."],
       ro: ["Arena are o formă eliptică de 133 pe 101 metri.", "Fațada este compusă din două niveluri, fiecare cu 60 de arcade.", "În Evul Mediu, arena a fost transformată într-o așezare fortificată.", "Exista un sistem ingenios de galerii și scări pentru spectatori.", "Arena dispunea de un velum pentru protecție solară.", "Este protejată ca monument istoric din 1840.", "Anual găzduiește 'Marile Jocuri Romane'."],
       en: ["The arena has an elliptical shape measuring 133 by 101 meters.", "The facade consists of two levels, each with 60 arches.", "In the Middle Ages, the arena was transformed into a fortified village.", "It featured a sophisticated system of corridors and stairs for spectators.", "The arena had a velum to provide shade for the audience.", "Protected as a Monument Historique since 1840.", "Hosts the 'Great Roman Games' every year."]
-    }
+    },
   },
   {
     id: "fr-abbey-cluny",
@@ -496,7 +496,7 @@ export const franceCities: POI[] = [
       hu: ["I. Vilmos aquitániai herceg alapította.", "Az apátság közvetlenül a pápa fennhatósága alá tartozott.", "A Cluny III templom 187 méter hosszú volt.", "A clunyi reformmozgás az egész egyházi életre hatással volt.", "A forradalom után az apátságot kőbányaként használták.", "Ma a területen múzeum és főiskola működik.", "Digitális rekonstrukciók mutatják be a templom eredeti pompáját."],
       ro: ["Fondată de William I, Duce de Aquitania.", "Abația se afla sub autoritatea directă a Papei.", "Biserica Cluny III avea o lungime de 187 de metri.", "Mișcarea de reformă de la Cluny a influențat întreaga viață bisericească.", "După Revoluție, abația a fost folosită ca carieră de piatră.", "Astăzi, situl găzduiește un muzeu și o instituție de învățământ superior.", "Un tur digital prezintă biserica în splendoarea sa originală."],
       en: ["Founded by William I, Duke of Aquitaine.", "The abbey was directly subject to the Pope.", "Cluny III was 187 meters long.", "The Cluniac reform movement influenced all aspects of church life.", "After the Revolution, the abbey was used as a stone quarry.", "Today, the site houses a museum and a higher education institution.", "Digital reconstructions show the church in its original magnificence."]
-    }
+    },
   },
   {
     id: "fr-bayeux-tapestry",
@@ -516,7 +516,7 @@ export const franceCities: POI[] = [
       hu: ["A kárpit körülbelül 50 centiméter magas és 68 méter hosszú.", "Valószínűleg Angliában készült röviddel 1066 után.", "626 személyt, 202 lovat és 505 egyéb állatot ábrázol.", "A hímzés nyolcféle színű gyapjúfonallal készült.", "A Bayeux-i Kárpit Múzeumban látható.", "2007 óta az UNESCO Világemlékezet listáján szerepel.", "A kárpiton a Halley-üstökös ábrázolása is látható."],
       ro: ["Tapițeria are aproximativ 50 cm înălțime și 68 m lungime.", "A fost probabil realizată în Anglia la scurt timp după 1066.", "Sunt reprezentate 626 de persoane, 202 cai și 505 alte animale.", "Broderia este realizată din lână în opt culori diferite.", "Este expusă la Muzeul Tapițeriei din Bayeux.", "Face parte din registrul UNESCO 'Memoria Lumii' din 2007.", "Tapițeria include și o reprezentare a cometei Halley."],
       en: ["The tapestry is about 50 centimeters high and 68 meters long.", "It was likely commissioned by Bishop Odo and made in England.", "It features 626 people, 202 horses, and 505 other animals.", "The embroidery uses wool yarn in eight distinct colors.", "It is displayed at the Musée de la Tapisserie de Bayeux.", "Inscribed in UNESCO's Memory of the World Register in 2007.", "It contains one of the earliest known depictions of Halley's Comet."]
-    }
+    },
   },
   {
     id: "fr-omaha-beach",
@@ -536,7 +536,7 @@ export const franceCities: POI[] = [
       hu: ["A partraszállás reggel 6:30-kor kezdődött.", "Az Omaha-part körülbelül 8 kilométer hosszú.", "A szövetségesek több mint 2000 embert vesztettek itt az első napon.", "A meredek sziklák és az erős erődítmények miatt nehéz volt bevenni.", "A 'Ryan közlegény megmentése' című film élethűen mutatja be a partraszállást.", "Az amerikai temetőben közel 9400 katona nyugszik.", "Számos emlékmű és múzeum őrzi az események emlékét a parton."],
       ro: ["Debarcarea a început la ora 6:30 dimineața.", "Plaja Omaha are o lungime de aproximativ 8 kilometri.", "Aliații au suferit peste 2.000 de pierderi aici în prima zi.", "Plaja a fost greu de cucerit din cauza falezelor abrupte și a fortificațiilor.", "Filmul 'Salvați soldatul Ryan' oferă o reprezentare realistă a debarcării.", "Cimitirul american cuprinde aproape 9.400 de morminte.", "Numeroase monumente și muzee de-a lungul coastei comemorează evenimentele."],
       en: ["The landings began at 6:30 AM.", "The beach sector is approximately 8 kilometers long.", "Allied forces suffered over 2,000 casualties here on the first day.", "The terrain was difficult due to steep bluffs and strong German defenses.", "The film 'Saving Private Ryan' depicts the landing on Omaha Beach.", "The American Cemetery overlooks the beach and contains nearly 9,400 graves.", "Numerous monuments and museums along the coast honor the fallen."]
-    }
+    },
   },
   {
     id: "fr-chateau-vincennes",
@@ -556,7 +556,7 @@ export const franceCities: POI[] = [
       hu: ["A lakótorony a 14. században, V. Károly alatt készült el.", "Híres foglyai közé tartozott Sade márki és Diderot is.", "A kastélyt mély árok és egy 1,2 km hosszú fal veszi körül.", "Itt végezték ki 1917-ben Mata Harit, a híres kémnőt.", "Ma itt található a francia hadsereg történelmi archívuma.", "A Sainte-Chapelle a párizsi Île de la Cité-n található kápolna mintájára épült.", "A kastély könnyen megközelíthető a párizsi metróval."],
       ro: ["Donjonul a fost finalizat în secolul al XIV-lea sub Carol al V-lea.", "Printre prizonierii celebri s-au numărat Marchizul de Sade și Diderot.", "Castelul este înconjurat de un șanț adânc și un zid de 1,2 km lungime.", "Aici a fost executată spioana Mata Hari în 1917.", "Găzduiește în prezent arhivele istorice ale armatei franceze.", "Sainte-Chapelle a fost construită după modelul celei de pe Île de la Cité.", "Castelul este ușor accesibil cu metroul parizian."],
       en: ["The keep was completed in the 14th century under Charles V.", "Famous prisoners included the Marquis de Sade and Denis Diderot.", "The fortress is surrounded by a deep moat and a 1.2 km long curtain wall.", "The spy Mata Hari was executed here in 1917.", "It now houses the historical archives of the French Ministry of Defense.", "The Sainte-Chapelle was modeled after the one on the Île de la Cité.", "The castle is easily accessible via the Paris Metro."]
-    }
+    },
   },
   {
     id: "fr-mont-blanc",
@@ -576,7 +576,7 @@ export const franceCities: POI[] = [
       hu: ["Az első megmászás 1786-ban történt Jacques Balmat és Michel-Gabriel Paccard által.", "A hegy magassága a hóvastagságtól függően változik.", "A Mont Blanc-alagút a hegy alatt köti össze Franciaországot és Olaszországot.", "A hegy lábánál fekvő Chamonix adott otthont az első téli olimpiának.", "Számos klasszikus útvonal vezet a csúcsra.", "A masszívum számos gleccsernek ad otthont, köztük a Mer de Glace-nak.", "A hegy a Natura 2000 hálózat része a biológiai sokféleség védelme érdekében."],
       ro: ["Prima ascensiune a fost realizată în 1786 de Jacques Balmat și Michel-Gabriel Paccard.", "Înălțimea muntelui variază în funcție de grosimea stratului de zăpadă.", "Tunelul Mont Blanc leagă Franța de Italia pe sub munte.", "Chamonix, la poalele muntelui, a găzduit primele Jocuri Olimpice de iarnă.", "Există mai multe rute clasice către vârf.", "Masivul găzduiește numeroși ghețari, inclusiv Mer de Glace.", "Muntele face parte din rețeaua Natura 2000 pentru protejarea biodiversității."],
       en: ["The first ascent was made in 1786 by Jacques Balmat and Michel-Gabriel Paccard.", "The mountain's height varies depending on the snow cover.", "The Mont Blanc Tunnel connects France and Italy beneath the mountain.", "Chamonix, at the foot of the mountain, hosted the first Winter Olympics.", "There are several classic routes to reach the summit.", "The massif is home to numerous glaciers, including the Mer de Glace.", "The mountain is part of the Natura 2000 network for biodiversity protection."]
-    }
+    },
   },
   {
     id: "fr-gorges-verdon",
@@ -596,7 +596,7 @@ export const franceCities: POI[] = [
       hu: ["A szurdok a Lac de Sainte-Croix víztározónál ér véget.", "A kanyon legkeskenyebb pontja mindössze néhány méter széles.", "A panorámautak mentén számos kilátópont található.", "A területen ritka fakó keselyűk élnek, amelyeket sikeresen visszatelepítettek.", "A sziklamászás nagyon népszerű a 700 méter magas falakon.", "A vízibiciklizés a Verdon folyón az egyik legfőbb turisztikai vonzerő.", "A szurdokot csak a 20. század elején térképezték fel teljesen."],
       ro: ["Defileul se termină în lacul de acumulare Lac de Sainte-Croix.", "Cea mai îngustă porțiune a cheilor are doar câțiva metri lățime.", "Există numeroase puncte de belvedere de-a lungul drumurilor panoramice.", "Regiunea găzduiește vulturi pleșuvi suri, care au fost recolonizați acolo.", "Alpinismul este foarte popular pe pereții de până la 700 de metri înălțime.", "Plimbările cu hidrobicicleta pe Verdon sunt una dintre atracțiile principale.", "Cheile au fost explorate complet abia la începutul secolului al XX-lea."],
       en: ["The canyon ends in the man-made Lake of Sainte-Croix.", "The narrowest part of the gorge is only a few meters wide.", "Numerous viewpoints are located along the scenic rim roads.", "The area is home to rare griffon vultures, which were reintroduced there.", "Rock climbing is world-renowned on the 700-meter-high cliffs.", "Renting a pedal boat to enter the canyon is a popular activity.", "The gorge was only fully explored and mapped in the early 20th century."]
-    }
+    },
   },
   {
     id: "fr-calanques",
@@ -616,7 +616,7 @@ export const franceCities: POI[] = [
       hu: ["2012-ben alapították, ez az első park, amely szárazföldi, tengeri és városközeli területeket is magában foglal.", "A legmagasabb szikla, a Cap Canaille 394 méter magas.", "Sok öböl csak gyalogosan vagy hajóval közelíthető meg.", "A park több mint 140 védett állat- és növényfajnak ad otthont.", "Nyáron a tűzveszély miatt gyakran korlátozzák a belépést.", "A víz alatti Cosquer-barlang prehisztorikus barlangrajzokat rejt.", "Népszerű túracélpont látványos tengeri panorámával."],
       ro: ["Fondat în 2012, este primul parc național care include zone terestre, marine și periurbane.", "Cea mai înaltă faleză, Cap Canaille, are 394 de metri înălțime.", "Multe golfuri sunt accesibile doar pe jos sau cu barca.", "Parcul găzduiește peste 140 de specii protejate de animale și plante.", "Accesul este adesea restricționat vara din cauza riscului de incendii.", "Peștera submarină Cosquer conține picturi preistorice.", "Destinație populară pentru drumeții cu vederi spectaculoase."],
       en: ["Established in 2012, it's the first national park to include land, sea, and peri-urban areas.", "The highest cliff, Cap Canaille, rises 394 meters above the sea.", "Many inlets are only accessible by foot or by boat.", "The park is home to over 140 protected animal and plant species.", "Access is often restricted in summer due to forest fire risks.", "The underwater Cosquer Cave contains prehistoric paintings.", "A popular destination for hiking with breathtaking coastal views."]
-    }
+    },
   },
   {
     id: "fr-camargue",
@@ -636,7 +636,7 @@ export const franceCities: POI[] = [
       hu: ["A camargue-i ló a világ egyik legősibb lófajtájának számít.", "Ez az egyetlen hely Franciaországban, ahol a rózsaszín flamingók fészkelnek.", "A régió híres a tengeri só (Fleur de Sel) lepárlásáról.", "Saintes-Maries-de-la-Mer a vidék kulturális központja.", "A camargue-i bikákat vér nélküli bikajátékokhoz tenyésztik.", "A rizstermesztés fontos gazdasági ágazat a területen.", "A vidék több mint 140 000 hektáron terül el."],
       ro: ["Caii de Camargue sunt considerați una dintre cele mai vechi rase din lume.", "Este singurul loc de cuibărit pentru flamingo roz din Franța.", "Regiunea este cunoscută pentru producția de sare marină (Fleur de Sel).", "Saintes-Maries-de-la-Mer este centrul cultural al regiunii.", "Taurii de Camargue sunt crescuți pentru jocuri cu tauri fără vărsare de sânge.", "Cultivarea orezului este o ramură economică importantă în zonă.", "Teritoriul cuprinde peste 140.000 de hectare."],
       en: ["Camargue horses are considered one of the oldest breeds in the world.", "It is the only nesting ground for pink flamingos in France.", "The region is famous for its sea salt production (Fleur de Sel).", "Saintes-Maries-de-la-Mer is the cultural heart of the region.", "Camargue bulls are bred for non-lethal bullfighting games.", "Rice cultivation is a significant part of the local economy.", "The area covers over 140,000 hectares."]
-    }
+    },
   },
   {
     id: "fr-dune-pilat",
@@ -656,7 +656,7 @@ export const franceCities: POI[] = [
       hu: ["A dűne térfogata körülbelül 60 millió köbméter.", "Finom kvarchomokból áll.", "Nyáron lépcsőt helyeznek ki, hogy megkönnyítsék a feljutást.", "A dűne a siklóernyősök kedvelt helyszíne.", "Az Arcachon-öböl természetvédelmi területéhez tartozik.", "A homok alatt prehisztorikus települések nyomait találták meg.", "Évente több mint közel kétmillió ember látogatja meg a dűnét."],
       ro: ["Volumul dunei este de aproximativ 60 de milioane de metri cubi.", "Este formată din nisip fin de cuarț.", "Vara este instalată o scară pentru a facilita urcarea.", "Duna este un loc popular pentru parapantă.", "Face parte din rezervația naturală a Bazinului Arcachon.", "Sub nisip au fost găsite urme ale unor așezări preistorice.", "Peste două milioane de oameni vizitează duna în fiecare an."],
       en: ["The dune contains approximately 60 million cubic meters of sand.", "It is composed entirely of fine quartz sand.", "A staircase is installed during the summer to help visitors climb up.", "The dune is a world-famous spot for paragliding.", "It is part of the protected Bassin d'Arcachon area.", "Prehistoric remains have been discovered beneath the shifting sands.", "More than two million people visit the dune annually."]
-    }
+    },
   },
   {
     id: "fr-corsica-gr20",
@@ -676,7 +676,7 @@ export const franceCities: POI[] = [
       hu: ["Az útvonal 16 szakaszra van osztva.", "A legmagasabb pont a Monte Cinto, 2706 méterrel.", "A túrázók általában egyszerű hegyi menedékházakban szállnak meg.", "A legjobb időszak a túrázásra júniustól szeptemberig tart.", "Az utat piros-fehér jelzések mutatják.", "Az 1970-es években alakították ki.", "A teljes túra körülbelül 15 napot vesz igénybe."],
       ro: ["Traseul este împărțit în 16 etape.", "Cel mai înalt punct este Monte Cinto, la 2.706 metri.", "Drumeții înnoptează de obicei în refugii montane simple.", "Cea mai bună perioadă pentru parcurgere este din iunie până în septembrie.", "Traseul este marcat cu semne roșu-alb.", "A fost creat în anii 1970.", "Întregul traseu durează aproximativ 15 zile."],
       en: ["The trail is traditionally divided into 16 daily stages.", "The highest point reached is near Monte Cinto at 2,706 meters.", "Hikers usually stay in basic mountain huts called 'refuges'.", "The best time to hike is from June to September.", "The path is marked with red and white blazes.", "The trail was established in the early 1970s.", "Completing the entire trail takes about 15 days on average."]
-    }
+    },
   },
   {
     id: "fr-pyrenees-np",
@@ -696,7 +696,7 @@ export const franceCities: POI[] = [
       hu: ["1967-ben alapították.", "A park legmagasabb csúcsa a Vignemale (3298 m).", "Itt található a híres Gavarnie-sziklakatlan.", "Nincsenek utak, amelyek észak-déli irányban átszelnék a parkot.", "A park határos a spanyol Ordesa y Monte Perdido Nemzeti Parkkal.", "Több mint 2500 növényfaj honos a területen.", "Népszerű a hegymászás, a túrázás és a sífutás körében."],
       ro: ["Fondat în anul 1967.", "Cel mai înalt vârf din parc este Vignemale (3.298 m).", "Găzduiește celebrul circ glaciar Cirque de Gavarnie.", "Nu există drumuri care să traverseze parcul de la nord la sud.", "Se învecinează cu parcul național spaniol Ordesa y Monte Perdido.", "Peste 2.500 de specii de plante sunt native aici.", "Popular pentru alpinism, drumeții și schi fond."],
       en: ["Established in 1967.", "The highest peak within the park is Vignemale at 3,298 meters.", "Home to the famous Cirque de Gavarnie, a massive natural amphitheater.", "No roads cross the park from north to south.", "It borders the Ordesa y Monte Perdido National Park in Spain.", "Over 2,500 plant species are found within its boundaries.", "A prime location for mountaineering, hiking, and cross-country skiing."]
-    }
+    },
   },
   {
     id: "fr-vanoise",
@@ -716,7 +716,7 @@ export const franceCities: POI[] = [
       hu: ["1963-ban alapították a kőszáli kecskék védelmére.", "Legmagasabb csúcsa a Grande Casse (3855 m).", "Több mint 500 kilométernyi jelzett túraútvonal található itt.", "A park körülbelül 1200 növényfajnak ad otthont.", "A Gran Paradiso parkkal együtt Európa egyik legnagyobb védett területét alkotja.", "A park központi zónájába tilos kutyát bevinni.", "Számos hegyi menedékház várja a túrázókat."],
       ro: ["Fondat în 1963 pentru protejarea caprei ibex.", "Cel mai înalt vârf este Grande Casse (3.855 m).", "Există peste 500 de kilometri de trasee de drumeție marcate.", "Parcul găzduiește aproximativ 1.200 de specii de plante.", "Împreună cu Gran Paradiso, formează una dintre cele mai mari arii protejate din Europa.", "Accesul cu câini este interzis în zona centrală a parcului.", "Numeroase cabane montane oferă cazare pentru drumeți."],
       en: ["Founded in 1963 to save the Alpine ibex from extinction.", "The highest peak is Grande Casse, reaching 3,855 meters.", "Features over 500 kilometers of marked hiking trails.", "Home to approximately 1,200 different plant species.", "Together with Gran Paradiso, it forms one of the largest protected areas in Europe.", "Dogs are strictly prohibited in the core zone of the park.", "Numerous mountain huts (refuges) provide lodging for hikers."]
-    }
+    },
   },
   {
     id: "fr-lascaux",
@@ -736,7 +736,7 @@ export const franceCities: POI[] = [
       hu: ["A barlangot 1940-ben fedezte fel négy fiatal.", "Gyakran nevezik az 'őskor Sixtus-kápolnájának'.", "A festmények természetes pigmentekkel, például okkerrel készültek.", "Több mint 600 festmény és 1500 metszet díszíti a falakal.", "A barlangot 1963-ban zárták le a látogatók elől az állagmegóvás érdekében.", "A Lascaux IV egy ultramodern nemzetközi barlangművészeti központ.", "1979 óta az UNESCO Világörökség része."],
       ro: ["Peștera a fost descoperită în 1940 de patru adolescenți.", "Este adesea numită 'Capela Sixtină a preistoriei'.", "Picturile au fost realizate cu pigmenți naturali precum ocru și oxid de mangan.", "Peste 600 de picturi și 1.500 de gravuri decorează pereții.", "Peștera a fost închisă vizitatorilor în 1963 pentru a preveni degradarea.", "Lascaux IV este un centru internațional de artă rupestră ultramodern.", "Face parte din Patrimoniul Mondial UNESCO din 1979."],
       en: ["The cave was discovered in 1940 by four teenagers.", "It is often referred to as the 'Sistine Chapel of Prehistory'.", "The paintings were created using natural pigments like ochre and manganese oxide.", "Over 600 paintings and 1,500 engravings adorn the walls.", "The original cave was closed in 1963 to prevent damage from carbon dioxide and humidity.", "Lascaux IV is a state-of-the-art international center for cave art.", "Inscribed as a UNESCO World Heritage site in 1979."]
-    }
+    },
   },
   {
     id: "fr-mer-de-glace",
@@ -756,7 +756,7 @@ export const franceCities: POI[] = [
       hu: ["A gleccser helyenként akár 200 méter vastag is lehet.", "Évente körülbelül 120 métert mozog.", "A Montenvers fogaskerekű vasutat 1908-ban nyitották meg.", "A klímaváltozás miatt a gleccser jelentősen visszahúzódott.", "Több mint 400 lépcső vezet le a felvonótól a gleccserhez.", "A jégbarlangot minden évben újra ki kell vájni a jégbe.", "Egy múzeum (Glaciorium) mutatja be a gleccser történetét."],
       ro: ["Ghețarul are o grosime de până la 200 de metri în unele locuri.", "Se deplasează cu aproximativ 120 de metri pe an.", "Calea ferată cu cremalieră Montenvers a fost deschisă în 1908.", "Din cauza schimbărilor climatice, ghețarul se retrage rapid.", "Peste 400 de trepte duc de la stația de telecabină până la ghețar.", "Grota de gheață trebuie săpată din nou în fiecare an.", "Există un muzeu (Glaciorium) care explică istoria ghețarului."],
       en: ["The glacier is up to 200 meters thick in some places.", "It moves at a rate of about 120 meters per year.", "The Montenvers rack railway was opened in 1908.", "The glacier has been retreating significantly due to climate change.", "Over 400 steps lead down from the cable car station to the glacier surface.", "The ice cave must be re-carved every year as the glacier moves.", "A museum called the Glaciorium explains the history and science of the glacier."]
-    }
+    },
   },
   {
     id: "fr-reims-cathedral",
@@ -776,7 +776,7 @@ export const franceCities: POI[] = [
       hu: ["A mai székesegyház építése 1211-ben kezdődött.", "Összesen 33 francia királyt koronáztak meg itt.", "A katedrális több mint 2300 szoborral rendelkezik.", "Az üvegablakok egy részét Marc Chagall tervezte.", "Hossza 150 méter, tornyai pedig 81 méter magasak.", "1991 óta az UNESCO Világörökség része.", "I. Klodvig megkeresztelése ezen a helyen történt 496-ban."],
       ro: ["Construcția actualei catedrale a început în anul 1211.", "În total, 33 de regi ai Franței au fost încoronați aici.", "Catedrala are peste 2.300 de statui.", "Unele vitralii au fost realizate de Marc Chagall.", "Are o lungime de 150 de metri, iar turnurile au 81 de metri înălțime.", "Face parte din Patrimoniul Mondial UNESCO din 1991.", "Botezul lui Clovis I a avut loc pe acest loc în anul 496."],
       en: ["Construction of the current cathedral began in 1211.", "A total of 33 French kings were crowned here.", "The cathedral is adorned with over 2,300 statues.", "Some of the stained glass windows were designed by Marc Chagall.", "It is 150 meters long, with towers reaching 81 meters in height.", "Inscribed as a UNESCO World Heritage site in 1991.", "The site is where Clovis I was baptized in 496 AD."]
-    }
+    },
   },
   {
     id: "fr-avignon",
@@ -796,7 +796,7 @@ export const franceCities: POI[] = [
       hu: ["A Pápai Palota a középkor legnagyobb gótikus épülete.", "Az avignoni híd a 'Sur le pont d'Avignon' című népdal révén vált világhírűvé.", "A városfal több mint 4 kilométer hosszú és 39 toronnyal rendelkezik.", "Avignon 1309 és 1377 között volt pápai székhely.", "Az Avignoni Fesztivál a világ egyik legjelentősebb színházi eseménye.", "Az óváros 1995 óta az UNESCO Világörökség része.", "A város a Rhone folyó partján fekszik."],
       ro: ["Palatul Papilor este cea mai mare construcție gotică din Evul Mediu.", "Podul din Avignon este celebru datorită cântecului popular 'Sur le pont d'Avignon'.", "Zidurile orașului au peste 4 km lungime și 39 de turnuri.", "Avignon a fost sediul papal între 1309 și 1377.", "Festivalul de la Avignon este unul dintre cele mai importante festivaluri de teatru din lume.", "Centrul istoric este inclus în Patrimoniul Mondial UNESCO din 1995.", "Orașul este situat pe malul fluviului Ron."],
       en: ["The Palais des Papes is the largest Gothic palace in the world.", "The Pont d'Avignon is famous worldwide due to the song 'Sur le pont d'Avignon'.", "The city walls stretch for over 4 kilometers and feature 39 towers.", "Avignon was the seat of the Papacy from 1309 to 1377.", "The Festival d'Avignon is one of the world's greatest performing arts events.", "The historic center was designated a UNESCO World Heritage site in 1995.", "The city is located on the banks of the Rhône River."]
-    }
+    },
   },
   {
     id: "fr-annecy",
@@ -816,7 +816,7 @@ export const franceCities: POI[] = [
       hu: ["A Palais de l'Île a 12. századból származik.", "Az Annecy-i tó Franciaország második legnagyobb tava.", "Annecy az animációs filmek központja, jelentős fesztiválnak ad otthont.", "Az Annecy-i vár az óváros fölé magasodik.", "A város népszerű kiindulópont az alpesi szabadtéri sportokhoz.", "A 'Pont des Amours' (Szerelmesek hídja) gyönyörű kilátást nyújt a tóra.", "Annecy a 16. században a genfi püspök székhelye volt."],
       ro: ["Palais de l'Île datează din secolul al XII-lea.", "Lacul Annecy este al doilea ca mărime din Franța.", "Annecy este un centru al filmului de animație și găzduiește un festival important.", "Castelul Annecy domină orașul vechi de pe o colină.", "Orașul este un punct de plecare popular pentru activități în aer liber în Alpi.", "Podul 'Pont des Amours' oferă o priveliște superbă asupra lacului.", "Annecy a fost sediul episcopului de Geneva în secolul al XVI-lea."],
       en: ["The Palais de l'Île dates back to the 12th century.", "Lake Annecy is the second largest lake in France.", "Annecy is a global hub for animation and hosts a major international festival.", "The Château d'Annecy overlooks the old town from a hilltop.", "The city is a popular base for outdoor activities like paragliding and hiking.", "The 'Pont des Amours' (Lovers' Bridge) offers a romantic view of the lake.", "Annecy became the seat of the Bishop of Geneva in the 16th century."]
-    }
+    },
   },
   {
     id: "fr-dijon",
@@ -836,7 +836,7 @@ export const franceCities: POI[] = [
       hu: ["A burgundi hercegek palotája a város jelképe.", "Dijon rendelkezik Franciaország egyik legrégebbi művészeti gyűjteményével.", "A Notre-Dame templom falán található bagoly szerencsehozónak számít.", "A 'Bagoly-útvonal' vezeti végig a turistákat a főbb látnivalókon.", "Dijon a kapu a Côte d'Or híres borvidékeihez.", "A város fontos csomópont volt a történelmi selyemúton.", "A Kir koktélt (fehérbor és feketeribizli-likőr) itt találták fel."],
       ro: ["Palatul Ducilor de Burgundia este simbolul orașului.", "Dijon deține una dintre cele mai vechi colecții de artă din Franța.", "Bufnița de pe biserica Notre-Dame este considerată un talisman norocos.", "Traseul 'Parcours de la Chouette' ghidează turiștii către principalele atracții.", "Dijon este poarta de intrare către faimoasele podgorii din Côte d'Or.", "Orașul a fost un nod important pe drumul istoric al mătăsii.", "Aperitivul Kir (vin alb și lichior de coacăze) a fost inventat aici."],
       en: ["The Palace of the Dukes of Burgundy is the city's centerpiece.", "Dijon's Museum of Fine Arts is one of the oldest in France.", "A small stone owl on Notre-Dame Church is said to bring good luck.", "The 'Owl's Trail' (Parcours de la Chouette) marks a walking tour of the city.", "Dijon is the gateway to the world-famous Côte d'Or wine region.", "The city was a major hub on the historical trade routes between north and south.", "The Kir aperitif was created here by Canon Félix Kir."]
-    }
+    },
   },
   {
     id: "fr-aix-en-provence",
@@ -856,7 +856,7 @@ export const franceCities: POI[] = [
       hu: ["Aix-et gyakran az 'ezer szökőkút városának' nevezik.", "A várost a rómaiak alapították termálforrásai miatt.", "Paul Cézanne gyakran festette meg a közeli Montagne Sainte-Victoire hegyet.", "A Saint-Sauveur-székesegyház különböző stílusokat ötvöz az 5. és 18. század között.", "A Calisson (mandulás édesség) a város híres specialitása.", "Aix ad otthont Franciaország egyik legrégebbi egyetemének.", "A város számos művészeti galériájáról és múzeumáról ismert."],
       ro: ["Aix este adesea numit 'Orașul celor o mie de fântâni'.", "Orașul a fost fondat de romani datorită izvoarelor sale termale.", "Paul Cézanne a pictat adesea muntele din apropiere, Montagne Sainte-Victoire.", "Catedrala Saint-Sauveur îmbină stiluri arhitecturale din secolele V-XVIII.", "Calissons (dulciuri cu migdale) sunt o specialitate celebră a orașului.", "Aix găzduiește una dintre cele mai vechi universități din Franța.", "Orașul este renumit pentru numeroasele sale galerii de artă și muzee."],
       en: ["Aix is often called the 'City of a Thousand Fountains'.", "The city was founded by the Romans because of its thermal springs.", "Paul Cézanne frequently painted the nearby Montagne Sainte-Victoire.", "The Saint-Sauveur Cathedral features architectural styles from the 5th to the 18th century.", "Calissons, a traditional almond-based candy, are a local specialty.", "Aix is home to one of the oldest universities in France, founded in 1409.", "The city is a major center for law and arts in southern France."]
-    }
+    },
   },
   {
     id: "fr-bordeaux",
@@ -876,7 +876,7 @@ export const franceCities: POI[] = [
       hu: ["Párizs után Bordeaux-ban van a legtöbb műemléki védettségű épület Franciaországban.", "A bordeaux-i borvidék a világ legnagyobb összefüggő szőlőtermő területe.", "A Place de la Bourse a klasszikus építészet remekműve.", "A Cité du Vin egy ultramodern borkultúra-múzeum.", "A városban található Európa egyik leghosszabb sétálóutcája (Rue Sainte-Catherine).", "A világháborúk alatt Bordeaux ideiglenesen a francia kormány székhelye volt.", "A város területének majdnem fele az UNESCO Világörökség része."],
       ro: ["Bordeaux are cele mai multe clădiri protejate din Franța, după Paris.", "Regiunea Bordeaux este cea mai mare zonă viticolă din lume.", "Place de la Bourse este o capodoperă a arhitecturii clasice.", "Cité du Vin este un muzeu ultramodern dedicat culturii vinului.", "Orașul are una dintre cele mai lungi străzi pietonale din Europa (Rue Sainte-Catherine).", "Bordeaux a fost sediul temporar al guvernului francez în timpul războaielor mondiale.", "Aproape jumătate din suprafața orașului este inclusă în Patrimoniul UNESCO."],
       en: ["Bordeaux has the highest number of preserved historical buildings in France after Paris.", "The surrounding region is the largest fine wine-producing area in the world.", "The Place de la Bourse is a masterpiece of 18th-century French architecture.", "The Cité du Vin is a high-tech museum dedicated to the history of wine.", "The Rue Sainte-Catherine is one of the longest pedestrian shopping streets in Europe.", "Bordeaux served as the temporary capital of France during several wars.", "Nearly half of the city's area is designated as a UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "fr-rouen",
@@ -896,7 +896,7 @@ export const franceCities: POI[] = [
       hu: ["A roueni katedrális egy időben a világ legmagasabb épülete volt.", "A 'Gros-Horloge' egy 14. századi csillagászati óra.", "A várost gyakran a 'száz torony városának' nevezik.", "Jeanne d'Arcot a Régi Piactéren égették meg.", "Rouen jelentős folyami kikötő a Szajna partján.", "A Szépművészeti Múzeum jelentős impresszionista gyűjteménnyel rendelkezik.", "A várost a második világháborúban súlyos károk érték, de újjáépítették."],
       ro: ["Catedrala din Rouen a fost pentru o perioadă cea mai înaltă clădire din lume.", " 'Gros-Horloge' este un ceas astronomic din secolul al XIV-lea.", "Orașul este adesea numit 'Orașul celor o sută de clopotnițe'.", "Ioana d'Arc a fost arsă pe rug în Piața Veche a orașului.", "Rouen este un port fluvial important pe Sena.", "Muzeul de Arte Frumoase găzduiește o colecție importantă de impresioniști.", "Orașul a fost grav avariat în Al Doilea Război Mondial și ulterior reconstruit."],
       en: ["Rouen Cathedral was the tallest building in the world from 1876 to 1880.", "The 'Gros-Horloge' is a famous 14th-century astronomical clock.", "The city is often called the 'City of a Hundred Spires'.", "Joan of Arc was burned at the stake in the city's Old Market Square.", "Rouen is a major inland port on the Seine River.", "The Museum of Fine Arts houses one of France's most important collections.", "The city's historic center was carefully restored after World War II."]
-    }
+    },
   },
   {
     id: "fr-saint-tropez",
@@ -916,7 +916,7 @@ export const franceCities: POI[] = [
       hu: ["A Saint-Tropez-i citadella panorámás kilátást nyújt az öbölre.", "A Pampelonne-part a régió legismertebb strandja.", "A Musée de l'Annonciade jelentős modern művészeti alkotásokat mutat be.", "A helyi csendőrség Louis de Funès filmjei révén vált világhírűvé.", "A kikötőben a világ legdrágább jachtjai közül több is horgonyoz.", "A 'Tarte Tropézienne' a város híres helyi süteménykülönlegessége.", "Minden évben megrendezik a 'Les Voiles de Saint-Tropez' vitorlásversenyt."],
       ro: ["Citadela din Saint-Tropez oferă o vedere panoramică asupra golfului.", "Plaja Pampelonne este cea mai cunoscută plajă din regiune.", "Muzeul de l'Annonciade expune opere importante de artă modernă.", "Jandarmeria din Saint-Tropez a devenit celebră datorită filmelor cu Louis de Funès.", "În port sunt ancorate unele dintre cele mai scumpe iahturi din lume.", " 'Tarte Tropézienne' este o specialitate locală de prăjitură foarte faimoasă.", "Anual are loc regata 'Les Voiles de Saint-Tropez'."],
       en: ["The 17th-century citadel offers panoramic views of the Gulf of Saint-Tropez.", "Pampelonne Beach is the most famous stretch of sand in the area.", "The Musée de l'Annonciade houses a significant collection of modern art.", "The local gendarmerie became world-famous through the Louis de Funès films.", "The harbor is home to some of the most expensive superyachts in the world.", "The 'Tarte Tropézienne' is a famous local pastry created in the 1950s.", "The town hosts the prestigious 'Les Voiles de Saint-Tropez' sailing regatta annually."]
-    }
+    },
   },
   {
     id: "fr-le-mans",
@@ -936,7 +936,7 @@ export const franceCities: POI[] = [
       hu: ["A Le Mans-i 24 órás versenyt 1923 óta rendezik meg.", "A 3. századi római városfal szinte teljes egészében épségben maradt.", "A Saint-Julien-székesegyház a román és a gótikus stílust ötvözi.", "Le Mans volt II. Henrik angol király szülővárosa.", "A '24 órás verseny múzeuma' mutatja be az autóversenyzés történetét.", "Az óváros gyakran szolgál történelmi filmek díszleteként.", "Le Mans a Sarthe és a Huisne folyók találkozásánál fekszik."],
       ro: ["Cursa de 24 de ore de la Le Mans se desfășoară din 1923.", "Zidul roman din secolul al III-lea este păstrat aproape în întregime.", "Catedrala Saint-Julien îmbină stilul romanic cu cel gotic.", "Le Mans a fost locul de naștere al regelui Henric al II-lea al Angliei.", "Muzeul '24 Heures' prezintă istoria sportului cu motor.", "Orașul vechi este adesea folosit ca decor pentru filme istorice.", "Le Mans este situat la confluența râurilor Sarthe și Huisne."],
       en: ["The 24 Hours of Le Mans endurance race has been held annually since 1923.", "The 3rd-century Roman wall is one of the most complete in Europe.", "Saint-Julien Cathedral is famous for its unique blend of Romanesque and Gothic styles.", "Le Mans was the birthplace of Henry II, the first Plantagenet King of England.", "The Museum of the 24 Hours of Le Mans showcases the history of the race.", "The historic district is a popular filming location for period movies.", "The city is located at the confluence of the Sarthe and Huisne rivers."]
-    }
+    },
   },
   {
     id: "fr-montpellier",
@@ -956,7 +956,7 @@ export const franceCities: POI[] = [
       hu: ["A Montpellier-i Egyetemet 1289-ben alapították.", "Itt található Franciaország legrégebbi botanikus kertje (Jardin des Plantes).", "Az Antigone negyedet Ricardo Bofill építész tervezte neoklasszicista stílusban.", "Montpellier mindössze néhány kilométerre fekszik a Földközi-tengertől.", "A város híres a Christian Lacroix által tervezett modern villamoshálózatáról.", "A Musée Fabre Franciaország egyik legjelentősebb művészeti múzeuma.", "A város rendelkezik Európa egyik legnagyobb sétálóövezetével."],
       ro: ["Universitatea din Montpellier a fost fondată în anul 1289.", "Orașul deține cea mai veche grădină botanică din Franța (Jardin des Plantes).", "Cartierul Antigone a fost proiectat de arhitectul Ricardo Bofill în stil neoclasic.", "Montpellier se află la doar câțiva kilometri de Marea Mediterană.", "Orașul este cunoscut pentru rețeaua sa modernă de tramvaie, decorată de Christian Lacroix.", "Muzeul Fabre este unul dintre cele mai importante muzee de artă din Franța.", "Orașul are una dintre cele mai mari zone pietonale din Europa."],
       en: ["The University of Montpellier was officially founded in 1289.", "It is home to the Jardin des Plantes, the oldest botanical garden in France.", "The Antigone district was designed by architect Ricardo Bofill in a neo-classical style.", "Montpellier is located just a few kilometers from the Mediterranean coast.", "The city's tram system features colorful designs by fashion icon Christian Lacroix.", "The Musée Fabre is one of the most important art museums in France.", "The city boasts one of the largest pedestrianized areas in Europe."]
-    }
+    },
   },
   {
     id: "chateau-versailles",
@@ -976,7 +976,7 @@ export const franceCities: POI[] = [
       hu: ["A Tükörterem a kastély legismertebb helyisége.", "Az együttes 1979 óta az UNESCO világörökség része."],
       ro: ["Sala Oglinzilor este cea mai cunoscută încăpere a palatului.", "Ansamblul face parte din Patrimoniul Mondial UNESCO din 1979."],
       en: ["The Hall of Mirrors is the palace's best-known room.", "The estate has been a UNESCO World Heritage site since 1979."]
-    }
+    },
   },
   {
     id: "chateau-chenonceau",
@@ -996,7 +996,7 @@ export const franceCities: POI[] = [
       hu: ["Az épület a Cher folyó fölé épült.", "Chenonceau a Loire-menti kastélyok egyik legismertebb példája."],
       ro: ["Construcția a fost ridicată peste râul Cher.", "Chenonceau este unul dintre cele mai cunoscute castele de pe Loara."],
       en: ["The structure was built across the Cher River.", "Chenonceau is one of the best-known Loire castles."]
-    }
+    },
   },
   {
     id: "chateau-fontainebleau",
@@ -1016,7 +1016,7 @@ export const franceCities: POI[] = [
       hu: ["I. Napóleon is használta a kastélyt rezidenciaként.", "Az együttes az UNESCO világörökség része."],
       ro: ["Napoleon I a folosit castelul ca reședință.", "Ansamblul face parte din patrimoniul UNESCO."],
       en: ["Napoleon I used the palace as a residence.", "The estate is part of the UNESCO World Heritage."]
-    }
+    },
   },
   {
     id: "carcassonne-citadel",
@@ -1036,7 +1036,7 @@ export const franceCities: POI[] = [
       hu: ["Az erődítmény az UNESCO világörökség része.", "A citadella meghatározza Carcassonne arculatát."],
       ro: ["Fortificația face parte din patrimoniul UNESCO.", "Cetatea definește imaginea orașului Carcassonne."],
       en: ["The fortification is part of the UNESCO World Heritage.", "The citadel defines the cityscape of Carcassonne."]
-    }
+    },
   },
   {
     id: "chateau-chambord",
@@ -1056,7 +1056,7 @@ export const franceCities: POI[] = [
       hu: ["A kastély 1981 óta szerepel az UNESCO listáján.", "A híres kettős csigalépcső a legismertebb részlete."],
       ro: ["Castelul se află pe lista UNESCO din 1981.", "Scara dublă în spirală este cel mai celebru detaliu al său."],
       en: ["The castle has been on the UNESCO list since 1981.", "Its double-helix staircase is its most famous feature."]
-    }
+    },
   },
   {
     id: "chateau-vincennes",
@@ -1076,7 +1076,7 @@ export const franceCities: POI[] = [
       hu: ["A donjon Európa egyik legmagasabb ilyen tornya.", "Az épület királyi rezidenciaként is szolgált."],
       ro: ["Donjonul este unul dintre cele mai înalte din Europa.", "Ansamblul a servit și ca reședință regală."],
       en: ["The keep is among the tallest of its kind in Europe.", "The site also served as a royal residence."]
-    }
+    },
   },
   {
     id: "lavender-fields-provence",
@@ -1096,7 +1096,7 @@ export const franceCities: POI[] = [
       hu: ["A virágzás legtöbbször a nyár közepére esik.", "A levendula fontos a parfüm- és illóolajgyártásban."],
       ro: ["Perioada de înflorire este de obicei în mijlocul verii.", "Lavanda este importantă pentru parfumuri și uleiuri esențiale."],
       en: ["Peak bloom is usually in midsummer.", "Lavender is important for perfume and essential oils."]
-    }
+    },
   },
   {
     id: "calanques-de-cassis",
@@ -1116,7 +1116,7 @@ export const franceCities: POI[] = [
       hu: ["A Calanques Nemzeti Park peremén találhatók.", "Sok öböl csak hajóval vagy gyalog közelíthető meg."],
       ro: ["Se află la marginea Parcului Național Calanques.", "Multe golfuri pot fi atinse doar cu barca sau pe jos."],
       en: ["They sit at the edge of the Calanques National Park.", "Many inlets are accessible only by boat or on foot."]
-    }
+    },
   },
   {
     id: "gorges-du-verdon",
@@ -1136,7 +1136,7 @@ export const franceCities: POI[] = [
       hu: ["A szurdok nagyjából 25 kilométer hosszú.", "Népszerű célpont túrázásra és kajakozásra."],
       ro: ["Cheile au aproximativ 25 de kilometri lungime.", "Sunt o destinație populară pentru drumeții și caiac."],
       en: ["The gorge is about 25 kilometers long.", "It is a popular destination for hiking and kayaking."]
-    }
+    },
   },
   {
     id: "lake-annecy",
@@ -1156,7 +1156,7 @@ export const franceCities: POI[] = [
       hu: ["A tó Európa legtisztábbjai közé tartozik.", "Partján fekszik Annecy, az 'Alpok Velencéje'."],
       ro: ["Lacul este printre cele mai curate din Europa.", "Pe mal se află Annecy, 'Veneția Alpilor'."],
       en: ["The lake is among the cleanest in Europe.", "The city of Annecy, the 'Venice of the Alps', lies on its shore."]
-    }
+    },
   },
   {
     id: "camargue",
@@ -1176,7 +1176,7 @@ export const franceCities: POI[] = [
       hu: ["A vidék fontos madárparadicsom.", "A sótermelés itt hagyományosan jelentős."],
       ro: ["Regiunea este un paradis important pentru păsări.", "Producția de sare are aici o tradiție puternică."],
       en: ["The region is a major bird paradise.", "Salt production has long been important here."]
-    }
+    },
   },
   {
     id: "corsica-gr20",
@@ -1196,7 +1196,7 @@ export const franceCities: POI[] = [
       hu: ["Az útvonalat általában 16 szakaszra bontják.", "A túra kifejezetten tapasztalt túrázóknak való."],
       ro: ["Traseul este parcurs de obicei în 16 etape.", "Este destinat în special drumeților foarte experimentați."],
       en: ["The route is usually split into 16 stages.", "It is intended for very experienced hikers."]
-    }
+    },
   },
   {
     id: "musee-dorsay",
@@ -1216,7 +1216,7 @@ export const franceCities: POI[] = [
       hu: ["A múzeum 1986-ban nyílt meg.", "Különösen Monet, Van Gogh és Renoir műveiről ismert."],
       ro: ["Muzeul a fost deschis în 1986.", "Este cunoscut mai ales pentru Monet, Van Gogh și Renoir."],
       en: ["The museum opened in 1986.", "It is especially known for Monet, Van Gogh, and Renoir."]
-    }
+    },
   },
   {
     id: "palace-versailles-gardens",
@@ -1236,7 +1236,7 @@ export const franceCities: POI[] = [
       hu: ["A kertet André Le Nôtre tervezte.", "Szinte olyan híres, mint maga a kastély."],
       ro: ["Grădinile au fost proiectate de André Le Nôtre.", "Sunt aproape la fel de celebre ca palatul însuși."],
       en: ["The gardens were designed by André Le Nôtre.", "They are almost as famous as the palace itself."]
-    }
+    },
   },
   {
     id: "sainte-chapelle",
@@ -1256,7 +1256,7 @@ export const franceCities: POI[] = [
       hu: ["A kápolnát a 13. században építették.", "Ólomüveg ablakai Európa legszebbjai közé tartoznak."],
       ro: ["Capela a fost construită în secolul al XIII-lea.", "Vitraliile sale sunt printre cele mai frumoase din Europa."],
       en: ["The chapel was built in the 13th century.", "Its stained-glass windows are among the finest in Europe."]
-    }
+    },
   },
   {
     id: "notre-dame-de-paris",

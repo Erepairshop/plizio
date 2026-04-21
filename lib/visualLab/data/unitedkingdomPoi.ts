@@ -128,7 +128,7 @@ export const unitedkingdomRegions: POI[] = [
         "Major cities include Birmingham, Manchester, Liverpool, and Leeds.",
         "The Magna Carta, signed in 1215, is a foundational document for modern democracy."
       ]
-    }
+    },
   },
   {
     id: "GB-SCT",
@@ -192,7 +192,7 @@ export const unitedkingdomRegions: POI[] = [
         "Scotland has three officially recognized languages: English, Scots, and Scottish Gaelic.",
         "The Thistle is the floral emblem of Scotland, appearing in many national symbols."
       ]
-    }
+    },
   },
   {
     id: "GB-WLS",
@@ -256,7 +256,7 @@ export const unitedkingdomRegions: POI[] = [
         "The daffodil and the leek are both recognized as national floral emblems of Wales.",
         "Wales has a coastline of about 1,680 miles (2,700 km), including its many islands."
       ]
-    }
+    },
   },
   {
     id: "GB-NIR",
@@ -376,7 +376,7 @@ export const unitedkingdomCities: POI[] = [
         "British Museum adăpostește peste 8 milioane de obiecte de pe toate continentele."
       ],
       en: ["Seat of the government.", "Known for Big Ben.", "Over 8 million inhabitants.", "Has many famous museums."]
-    }
+    },
   },
   {
     id: "city-manchester",
@@ -429,7 +429,7 @@ export const unitedkingdomCities: POI[] = [
         "Primăria din Manchester este o capodoperă a arhitecturii gotice victoriene."
       ],
       en: ["Cradle of industry.", "Two famous football clubs.", "Rich musical history.", "Important transport hub."]
-    }
+    },
   },
   {
     id: "city-birmingham",
@@ -482,7 +482,7 @@ export const unitedkingdomCities: POI[] = [
         "Felul de mâncare Balti curry a fost inventat în Birmingham în anii 1970."
       ],
       en: ["Historical industrial center.", "Many canals.", "Known for jewelry making.", "Center of the automotive industry."]
-    }
+    },
   },
   {
     id: "city-liverpool",
@@ -546,7 +546,7 @@ export const unitedkingdomCities: POI[] = [
         "The Liver Building is topped by two mythical \"Liver Birds,\" the city's symbols.",
         "Liverpool's Chinatown is the oldest Chinese community in Europe."
       ]
-    }
+    },
   },
   {
     id: "city-edinburgh",
@@ -610,7 +610,7 @@ export const unitedkingdomCities: POI[] = [
         "Edinburgh was the world's first UNESCO City of Literature.",
         "The Scott Monument is the largest monument to a writer in the world."
       ]
-    }
+    },
   },
   {
     id: "city-glasgow",
@@ -674,7 +674,7 @@ export const unitedkingdomCities: POI[] = [
         "The Kelvingrove Art Gallery and Museum is one of Scotland's most popular free attractions.",
         "Glasgow hosted the Commonwealth Games in 2014."
       ]
-    }
+    },
   },
   {
     id: "city-cardiff",
@@ -694,7 +694,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Cardiffi vár.", "Millennium Stadion.", "Régen fontos szénexportáló kikötő.", "A walesi kultúra központja."],
       ro: ["Castelul Cardiff.", "Stadionul Millennium.", "Fost port important de export de cărbune.", "Centrul culturii galeze."],
       en: ["Cardiff Castle.", "Millennium Stadium.", "Important coal export port in the past.", "Center of Welsh culture."]
-    }
+    },
   },
   {
     id: "city-belfast",
@@ -714,7 +714,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Titanic-negyed.", "Nagy hajógyárak.", "Politikai falfestmények.", "Városháza rézkupolával."],
       ro: ["Cartierul Titanic.", "Șantiere navale mari.", "Picturi murale politice.", "Primăria cu cupolă de cupru."],
       en: ["Titanic Quarter.", "Large shipyards.", "Political murals.", "City Hall with a copper dome."]
-    }
+    },
   },
   {
     id: "city-oxford",
@@ -734,7 +734,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Az álmodó tornyok városa.", "Oxfordi Egyetem.", "Bodleian Könyvtár.", "Számos híres öregdiák."],
       ro: ["Orașul turnurilor visătoare.", "Universitatea Oxford.", "Biblioteca Bodleiană.", "Mulți absolvenți celebri."],
       en: ["City of dreaming spires.", "Oxford University.", "Bodleian Library.", "Many famous alumni."]
-    }
+    },
   },
   {
     id: "city-cambridge",
@@ -754,7 +754,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Történelmi kollégiumok.", "Punting (csónakázás) a Cam folyón.", "Fontos technológiai központ.", "King's College kápolna."],
       ro: ["Colegii istorice.", "Plimbări cu barca pe râul Cam.", "Centru tehnologic important.", "Capela King's College."],
       en: ["Historic colleges.", "Punting on the River Cam.", "Important technology hub.", "King's College Chapel."]
-    }
+    },
   },
   {
     id: "city-leeds",
@@ -774,7 +774,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["A Yorkshire régióban.", "Erős gazdaság.", "Jó vásárlási lehetőségek.", "Királyi Fegyvertár."],
       ro: ["În regiunea Yorkshire.", "Economie puternică.", "Opțiuni bune de cumpărături.", "Armuraria Regală."],
       en: ["In the Yorkshire region.", "Strong economy.", "Great shopping facilities.", "Royal Armouries."]
-    }
+    },
   },
   {
     id: "city-bath",
@@ -794,7 +794,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["UNESCO Világörökség.", "Hőforrások.", "Itt élt Jane Austen.", "Royal Crescent."],
       ro: ["Patrimoniul Mondial UNESCO.", "Izvoare termale.", "Jane Austen a locuit aici.", "Royal Crescent."],
       en: ["UNESCO World Heritage site.", "Hot springs.", "Jane Austen lived here.", "Royal Crescent."]
-    }
+    },
   },
   {
     id: "city-york",
@@ -814,7 +814,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["York Minster katedrális.", "A Shambles (régi utca).", "Viking Múzeum (Jorvik).", "Ép városfalak."],
       ro: ["Catedrala York Minster.", "The Shambles (stradă veche).", "Muzeul Vikingilor (Jorvik).", "Zidurile orașului intacte."],
       en: ["York Minster cathedral.", "The Shambles (old street).", "Viking Museum (Jorvik).", "Intact city walls."]
-    }
+    },
   },
   {
     id: "city-canterbury",
@@ -834,7 +834,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Az érsek székhelye.", "Canterbury-i katedrális.", "Canterbury mesék.", "Középkori központ."],
       ro: ["Sediul Arhiepiscopului.", "Catedrala din Canterbury.", "Povestirile din Canterbury.", "Centru medieval."],
       en: ["Seat of the Archbishop.", "Canterbury Cathedral.", "Canterbury Tales.", "Medieval center."]
-    }
+    },
   },
   {
     id: "city-stratford",
@@ -854,7 +854,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Shakespeare szülőháza.", "Royal Shakespeare Theatre.", "Az Avon folyó partján fekszik.", "Történelmi favázas házak."],
       ro: ["Casa natală a lui Shakespeare.", "Royal Shakespeare Theatre.", "Situat pe râul Avon.", "Case istorice cu structură din lemn."],
       en: ["Shakespeare's birthplace.", "Royal Shakespeare Theatre.", "Located on the River Avon.", "Historic half-timbered houses."]
-    }
+    },
   },
   {
     id: "city-brighton",
@@ -874,7 +874,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Kavicsos strandok.", "Brighton Pier.", "Királyi Pavilon.", "Nagyon nyitott és színes kultúra."],
       ro: ["Plaje cu pietriș.", "Brighton Pier.", "Pavilionul Regal.", "Cultură foarte deschisă și colorată."],
       en: ["Pebble beaches.", "Brighton Pier.", "Royal Pavilion.", "Very open and colorful culture."]
-    }
+    },
   },
   {
     id: "uk-bristol",
@@ -894,7 +894,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["A Clifton Függőhídról ismert.", "Banksy utcai művész hazája.", "Történelmi kikötő.", "Nagy repülőgépipar."],
       ro: ["Cunoscut pentru Podul Suspendat Clifton.", "Patria artistului stradal Banksy.", "Port istoric.", "Industrie aerospațială mare."],
       en: ["Known for the Clifton Suspension Bridge.", "Home of street artist Banksy.", "Historic harbor.", "Large aerospace industry."]
-    }
+    },
   },
   {
     id: "uk-nottingham",
@@ -914,7 +914,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Robin Hood Sherwoodi erdeje.", "Nottinghami vár.", "A csipkegyártás központja.", "Anglia (állítólag) legrégebbi pubja."],
       ro: ["Pădurea Sherwood a lui Robin Hood.", "Castelul Nottingham.", "Centrul producției de dantelă.", "Cel mai vechi pub din Anglia (se presupune)."],
       en: ["Robin Hood's Sherwood Forest.", "Nottingham Castle.", "Center of lace making.", "Oldest pub in England (allegedly)."]
-    }
+    },
   },
   {
     id: "uk-sheffield",
@@ -934,7 +934,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Az 'Acélváros'.", "Két nagy egyetem.", "Sok park és zöldterület.", "A Peak District közelében fekszik."],
       ro: ["'Orașul Oțelului'.", "Două universități mari.", "Multe parcuri și spații verzi.", "Situat aproape de Peak District."],
       en: ["The 'Steel City'.", "Two large universities.", "Many parks and green spaces.", "Located close to the Peak District."]
-    }
+    },
   },
   {
     id: "uk-newcastle",
@@ -954,7 +954,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["A Tyne-híd.", "A lakosokat 'Geordie'-knak hívják.", "Történelmi vár (Új Vár).", "Sikeres futballklub."],
       ro: ["Podul Tyne.", "Locuitorii sunt numiți 'Geordies'.", "Castel istoric (Noul Castel).", "Club de fotbal de succes."],
       en: ["The Tyne Bridge.", "Residents are called 'Geordies'.", "Historic castle (New Castle).", "Successful football club."]
-    }
+    },
   },
   {
     id: "uk-aberdeen",
@@ -974,7 +974,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Az északi-tengeri olajipar központja.", "A 'Gránitváros'.", "Két egyetem.", "Hosszú homokos strandja van."],
       ro: ["Centrul industriei petroliere din Marea Nordului.", "'Orașul de Granit'.", "Două universități.", "Are o plajă lungă cu nisip."],
       en: ["Center of the North Sea oil industry.", "The 'Granite City'.", "Two universities.", "Has a long sandy beach."]
-    }
+    },
   },
   {
     id: "uk-inverness",
@@ -994,7 +994,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["A Loch Ness közelében.", "Invernessi vár.", "A Ness folyó partján fekszik.", "Kapu a skót Felföldhöz."],
       ro: ["Aproape de Loch Ness.", "Castelul Inverness.", "Situat pe râul Ness.", "Poarta către Highlands-ul scoțian."],
       en: ["Near Loch Ness.", "Inverness Castle.", "Located on the River Ness.", "Gateway to the Scottish Highlands."]
-    }
+    },
   },
   {
     id: "uk-swansea",
@@ -1014,7 +1014,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Dylan Thomas szülővárosa.", "Swansea-öböl.", "Egykori rézipari központ.", "A Gower-félsziget a közelben van."],
       ro: ["Orașul natal al lui Dylan Thomas.", "Golful Swansea.", "Fost centru al industriei cuprului.", "Peninsula Gower este în apropiere."],
       en: ["Hometown of Dylan Thomas.", "Swansea Bay.", "Former copper industry center.", "The Gower Peninsula is nearby."]
-    }
+    },
   },
   {
     id: "uk-portsmouth",
@@ -1034,7 +1034,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Fontos haditengerészeti bázis.", "A HMS Victory otthona.", "Charles Dickens szülőhelye.", "Spinnaker-torony."],
       ro: ["Bază navală importantă.", "Casa navei HMS Victory.", "Locul de naștere al lui Charles Dickens.", "Turnul Spinnaker."],
       en: ["Important naval base.", "Home to HMS Victory.", "Birthplace of Charles Dickens.", "Spinnaker Tower."]
-    }
+    },
   },
   {
     id: "uk-brighton",
@@ -1054,7 +1054,7 @@ export const unitedkingdomCities: POI[] = [
       hu: ["Királyi Pavilon.", "Brighton Palace Pier.", "Ismert LMBT-központ.", "Kavicsos strand."],
       ro: ["Pavilionul Regal.", "Brighton Palace Pier.", "Centru LGBT cunoscut.", "Plajă cu pietriș."],
       en: ["Royal Pavilion.", "Brighton Palace Pier.", "Well-known LGBT center.", "Pebble beach."]
-    }
+    },
   },
   {
     id: "uk-derry",
@@ -1097,7 +1097,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Wiltshire megyében található.", "Az újkőkorban épült.", "Célja máig vitatott.", "A kövek rendkívül nehezek."],
       ro: ["Situat în Wiltshire.", "A apărut în perioada neolitică.", "Scopul său este încă dezbătut.", "Pietrele sunt extrem de grele."],
       en: ["Located in Wiltshire.", "Originated in the Neolithic period.", "Its purpose is still debated.", "The stones are extremely heavy."]
-    }
+    },
   },
   {
     id: "lm-buckingham-palace",
@@ -1117,7 +1117,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Híres az őrségváltásról.", "Több mint 700 szoba.", "London központjában található.", "A király fő lakhelye."],
       ro: ["Cunoscut pentru schimbarea gărzii.", "Peste 700 de camere.", "Situat central în Londra.", "Reședința principală a regelui."],
       en: ["Known for the changing of the guard.", "Over 700 rooms.", "Centrally located in London.", "Primary residence of the King."]
-    }
+    },
   },
   {
     id: "lm-big-ben",
@@ -1137,7 +1137,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A torony neve Elizabeth Tower.", "London egyik szimbóluma.", "A harang több mint 13 tonnát nyom.", "Minden órában üt."],
       ro: ["Turnul se numește Elizabeth Tower.", "Un simbol al Londrei.", "Clopotul cântărește peste 13 tone.", "Bate în fiecare oră."],
       en: ["The tower is named Elizabeth Tower.", "A symbol of London.", "The bell weighs over 13 tons.", "Chimes every hour."]
-    }
+    },
   },
   {
     id: "lm-tower-of-london",
@@ -1157,7 +1157,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Itt őrzik a koronaékszereket.", "Régen börtönként is szolgált.", "Hollók élnek itt.", "A 'Beefeater' őrök vigyázzák."],
       ro: ["Păstrează bijuteriile coroanei.", "Considerat o veche închisoare.", "Găzduiește corbi.", "Păzit de Beefeaters."],
       en: ["Houses the Crown Jewels.", "Served as a historic prison.", "Home to ravens.", "Guarded by Beefeaters."]
-    }
+    },
   },
   {
     id: "lm-windsor-castle",
@@ -1177,7 +1177,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A királyi család hétvégi rezidenciája.", "Szent György-kápolna.", "Berkshire megyében található.", "Gyönyörű kertek."],
       ro: ["Reședința de weekend a familiei regale.", "Capela St. George.", "În comitatul Berkshire.", "Grădini frumoase."],
       en: ["Weekend residence of the royals.", "St. George's Chapel.", "In the county of Berkshire.", "Beautiful gardens."]
-    }
+    },
   },
   {
     id: "lm-lake-district",
@@ -1197,7 +1197,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Anglia legmagasabb hegye: Scafell Pike.", "Sok mély tó.", "UNESCO Világörökség.", "Sok költőt megihletett."],
       ro: ["Cel mai înalt munte din Anglia: Scafell Pike.", "Multe lacuri adânci.", "Patrimoniul Mondial UNESCO.", "Inspirație pentru mulți poeți."],
       en: ["England's highest mountain: Scafell Pike.", "Many deep lakes.", "UNESCO World Heritage site.", "Inspiration for many poets."]
-    }
+    },
   },
   {
     id: "lm-snowdonia",
@@ -1217,7 +1217,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Népszerű a túrázók körében.", "Zord, hegyvidéki tájak.", "A Snowdon hegy 1085 m magas.", "Hegyi vasút visz a csúcsra."],
       ro: ["Popular printre drumeți.", "Peisaje aspre, muntoase.", "Muntele Snowdon are 1.085m înălțime.", "Un tren montan duce spre vârf."],
       en: ["Popular with hikers.", "Rugged, mountainous landscapes.", "Mount Snowdon is 1,085m high.", "Mountain railway leads to the summit."]
-    }
+    },
   },
   {
     id: "lm-loch-ness",
@@ -1237,7 +1237,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A szörnyet 'Nessie'-nek hívják.", "Skócia második legmélyebb tava.", "Nagyon sötét a vize.", "Az Urquhart-kastély a partján áll."],
       ro: ["Monstrul este numit 'Nessie'.", "Al doilea cel mai adânc lac din Scoția.", "Apă foarte întunecată.", "Castelul Urquhart pe mal."],
       en: ["The monster is called 'Nessie'.", "Second deepest loch in Scotland.", "Very dark water.", "Urquhart Castle on the shore."]
-    }
+    },
   },
   {
     id: "lm-giants-causeway",
@@ -1257,7 +1257,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Vulkánkitörések hozták létre.", "A legtöbb oszlop hatszögletű.", "UNESCO Világörökség része.", "Sok helyi monda szól óriásokról."],
       ro: ["Format prin erupții vulcanice.", "Majoritatea coloanelor sunt hexagonale.", "Considerat Patrimoniu Mondial UNESCO.", "Multe legende locale cu uriași."],
       en: ["Formed by volcanic eruptions.", "Most of the columns are hexagonal.", "A UNESCO World Heritage site.", "Many local legends of giants."]
-    }
+    },
   },
   {
     id: "lm-white-cliffs",
@@ -1277,7 +1277,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Krétából állnak.", "A brit védelem szimbóluma.", "Több mint 100 m magasak.", "Kilátás a La Manche csatornára."],
       ro: ["Compuse din cretă.", "Simbol al apărării britanice.", "Ating peste 100m înălțime.", "Vedere spre Canalul Mânecii."],
       en: ["Composed of chalk.", "Symbol of British defense.", "Reach over 100m in height.", "View over the English Channel."]
-    }
+    },
   },
   {
     id: "lm-hadrians-wall",
@@ -1297,7 +1297,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Hadrianus császár építtette.", "A Római Birodalom határát jelezte.", "Több mint 117 km hosszú volt.", "UNESCO Világörökség."],
       ro: ["Construit de împăratul Hadrian.", "Marca granița Imperiului Roman.", "Avea o lungime de peste 117 km.", "Patrimoniul Mondial UNESCO."],
       en: ["Built by Emperor Hadrian.", "Marked the boundary of the Roman Empire.", "Was over 117 km long.", "UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "lm-thames",
@@ -1317,7 +1317,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Az Északi-tengerbe ömlik.", "Több mint 340 km hosszú.", "A Tower Bridge ível át rajta.", "Sok történelmi esemény fűződik hozzá."],
       ro: ["Se varsă în Marea Nordului.", "Peste 340 km lungime.", "Tower Bridge trece peste ea.", "Multe evenimente istorice."],
       en: ["Flows into the North Sea.", "Over 340 km long.", "Tower Bridge crosses it.", "Many historical events."]
-    }
+    },
   },
   {
     id: "lm-british-museum",
@@ -1337,7 +1337,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Itt található a rosette-i kő.", "Parthenón-szobrok.", "A belépés ingyenes.", "1753-ban alapították."],
       ro: ["Găzduiește Piatra din Rosetta.", "Sculpturile din Partenon.", "Intrarea este liberă.", "Fondat în 1753."],
       en: ["Houses the Rosetta Stone.", "Parthenon sculptures.", "Admission is free.", "Founded in 1753."]
-    }
+    },
   },
   {
     id: "uk-westminster-abbey",
@@ -1357,7 +1357,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Gótikus építészet.", "Koronázótemplom 1066 óta.", "Sok uralkodó nyughelye.", "UNESCO Világörökség."],
       ro: ["Arhitectură gotică.", "Biserică de încoronare din 1066.", "Locul de odihnă al multor monarhi.", "Patrimoniul Mondial UNESCO."],
       en: ["Gothic architecture.", "Coronation church since 1066.", "Resting place of many monarchs.", "UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "uk-tower-bridge",
@@ -1377,7 +1377,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A londoni Tower mellett található.", "1894-ben nyitották meg.", "Két toronyból áll.", "Üvegpadló a felső sétányokon."],
       ro: ["Lângă Turnul Londrei.", "Deschis în anul 1894.", "Este format din două turnuri.", "Podea de sticlă pe pasarelele superioare."],
       en: ["Next to the Tower of London.", "Opened in 1894.", "Consists of two towers.", "Glass floor on the upper walkways."]
-    }
+    },
   },
   {
     id: "uk-hampton-court",
@@ -1397,7 +1397,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["VIII. Henrik kedvenc rezidenciája.", "Híres útvesztő.", "Tudor- és barokk építészet keveréke.", "Gyönyörű kertek."],
       ro: ["Reședința preferată a lui Henric al VIII-lea.", "Labirint faimos.", "Amestec de arhitectură Tudor și barocă.", "Grădini frumoase."],
       en: ["Favorite residence of Henry VIII.", "Famous maze.", "Mix of Tudor and Baroque architecture.", "Beautiful gardens."]
-    }
+    },
   },
   {
     id: "uk-st-pauls",
@@ -1417,7 +1417,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Sir Christopher Wren tervezte.", "Ismert nagy kupola.", "Túlélte a második világháborús bombázásokat.", "Suttogó Galéria."],
       ro: ["Proiectată de Sir Christopher Wren.", "Cupolă mare faimoasă.", "A supraviețuit bombardamentelor din Al Doilea Război Mondial.", "Galeria Șoaptelor."],
       en: ["Designed by Sir Christopher Wren.", "Famous large dome.", "Survived the Blitz in WWII.", "Whispering Gallery."]
-    }
+    },
   },
   {
     id: "uk-blenheim-palace",
@@ -1437,7 +1437,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["UNESCO Világörökség.", "Marlborough hercegeinek székhelye.", "Barokk építészet.", "Hatalmas park, Capability Brown tervezte."],
       ro: ["Patrimoniul Mondial UNESCO.", "Sediul Ducilor de Marlborough.", "Arhitectură barocă.", "Parc mare proiectat de Capability Brown."],
       en: ["UNESCO World Heritage site.", "Seat of the Dukes of Marlborough.", "Baroque architecture.", "Large park designed by Capability Brown."]
-    }
+    },
   },
   {
     id: "uk-durham-cathedral",
@@ -1457,7 +1457,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["11. században fejezték be.", "Itt nyugszik Szent Cuthbert.", "Az UNESCO Világörökség része.", "Használták Harry Potter filmek forgatásához."],
       ro: ["Finalizată în secolul 11.", "Conține rămășițele Sfântului Cuthbert.", "Parte a Patrimoniului Mondial UNESCO.", "A fost folosită pentru filmele Harry Potter."],
       en: ["Completed in the 11th century.", "Contains the remains of St Cuthbert.", "Part of a UNESCO World Heritage site.", "Used in Harry Potter films."]
-    }
+    },
   },
   {
     id: "uk-york-minster",
@@ -1477,7 +1477,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Hatalmas gótikus építészet.", "A yorki érsek székhelye.", "Híres ólomüveg ablakok.", "A Nagy Keleti Ablak hatalmas."],
       ro: ["Arhitectură gotică mare.", "Sediul Arhiepiscopului de York.", "Vitralii faimoase.", "Marea Fereastră de Est este uriașă."],
       en: ["Large Gothic architecture.", "Seat of the Archbishop of York.", "Famous stained glass windows.", "The Great East Window is massive."]
-    }
+    },
   },
   {
     id: "uk-canterbury-cathedral",
@@ -1497,7 +1497,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["597-ben alapították.", "Thomas Becket meggyilkolásának helyszíne.", "UNESCO Világörökség része.", "Jelentős zarándokhely."],
       ro: ["Fondată în anul 597.", "Locul asasinării lui Thomas Becket.", "Patrimoniul Mondial UNESCO.", "Importantă destinație de pelerinaj."],
       en: ["Founded in 597.", "Site of the murder of Thomas Becket.", "UNESCO World Heritage site.", "Important pilgrimage destination."]
-    }
+    },
   },
   {
     id: "uk-edinburgh-castle",
@@ -1517,7 +1517,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Itt őrzik a skót koronaékszereket.", "Az egyórás ágyú (One O'Clock Gun) naponta lő.", "A Szent Margit-kápolna a legrégebbi épület.", "Kilátás a városra."],
       ro: ["Găzduiește bijuteriile coroanei scoțiene.", "Tunul de la ora unu trage zilnic.", "Capela Sf. Margareta este cea mai veche clădire.", "Vedere asupra orașului."],
       en: ["Houses the Scottish Crown Jewels.", "The One O'Clock Gun fires daily.", "St Margaret's Chapel is the oldest building.", "View over the city."]
-    }
+    },
   },
   {
     id: "uk-stirling-castle",
@@ -1537,7 +1537,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Kulcsfontosságú erőd a skót történelemben.", "Sok skót király koronázási helyszíne.", "Stuart Mária gyermekkori lakhelye.", "Reneszánsz építészet."],
       ro: ["Fortăreață cheie în istoria scoțiană.", "Loc de încoronare a multor regi scoțieni.", "Reședința Mariei Stuart în copilărie.", "Arhitectură renascentistă."],
       en: ["Key fortress in Scottish history.", "Coronation site of many Scottish Kings.", "Childhood home of Mary Queen of Scots.", "Renaissance architecture."]
-    }
+    },
   },
   {
     id: "uk-peak-district",
@@ -1557,7 +1557,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Nagy-Britannia első nemzeti parkja.", "Két része: Dark Peak és White Peak.", "Népszerű túrázó- és mászóhely.", "Sok mészkőbarlang."],
       ro: ["Primul parc național din Marea Britanie.", "Împărțit în Dark Peak și White Peak.", "Popular pentru drumeții și alpinism.", "Multe peșteri de calcar."],
       en: ["The first national park in Britain.", "Divided into Dark Peak and White Peak.", "Popular for walking and climbing.", "Many limestone caves."]
-    }
+    },
   },
   {
     id: "uk-dartmoor",
@@ -1577,7 +1577,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A dartmoori pónikról ismert.", "Megalitikus emlékek.", "A 'Sátán kutyája' ihletője.", "Számos gránitszikla (tor)."],
       ro: ["Cunoscut pentru poneii Dartmoor.", "Așezăminte megalitice.", "Inspirație pentru 'Câinele din Baskerville'.", "Numeroase stânci de granit (tors)."],
       en: ["Known for Dartmoor ponies.", "Megalithic sites.", "Inspiration for 'The Hound of the Baskervilles'.", "Numerous granite tors."]
-    }
+    },
   },
   {
     id: "uk-cairngorms",
@@ -1597,7 +1597,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Az Egyesült Királyság legnagyobb nemzeti parkja.", "Számos ritka állatfaj otthona.", "Téli sportközpont.", "Öt a legmagasabb skót hegyek közül."],
       ro: ["Cel mai mare parc național din Marea Britanie.", "Casa multor animale rare.", "Zonă de sporturi de iarnă.", "Cinci dintre cei mai înalți munți din Scoția."],
       en: ["Largest national park in the UK.", "Home to many rare animals.", "Winter sports area.", "Five of the highest mountains in Scotland."]
-    }
+    },
   },
   {
     id: "uk-isle-of-skye",
@@ -1617,7 +1617,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Zord tájairól ismert.", "Az Old Man of Storr.", "A Cuillin-hegység.", "Sok tündérlegenda (Fairy Pools)."],
       ro: ["Cunoscută pentru peisajele aspre.", "Old Man of Storr.", "Munții Cuillin.", "Multe legende cu zâne (Fairy Pools)."],
       en: ["Known for rugged landscapes.", "The Old Man of Storr.", "Cuillin mountain range.", "Many fairy legends (Fairy Pools)."]
-    }
+    },
   },
   {
     id: "uk-scottish-highlands",
@@ -1637,7 +1637,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Ritkán lakott.", "A Ben Nevis a legmagasabb hegye.", "A klánokról és a tartánról híres.", "Látványos természet."],
       ro: ["Slab populată.", "Ben Nevis este cel mai înalt munte.", "Faimoasă pentru clanuri și tartan.", "Natură spectaculoasă."],
       en: ["Sparsely populated.", "Ben Nevis is the highest mountain.", "Famous for clans and tartan.", "Spectacular nature."]
-    }
+    },
   },
   {
     id: "uk-cliffs-of-moher",
@@ -1657,7 +1657,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Körülbelül 214 méter magasak.", "14 kilométeren át húzódnak.", "Népszerű turistacélpont.", "Sok tengeri madár."],
       ro: ["Aproximativ 214 metri înălțime.", "Se întind pe 14 kilometri.", "Destinație turistică populară.", "Multe păsări marine."],
       en: ["About 214 meters high.", "Stretch for 14 kilometers.", "Popular tourist destination.", "Many seabirds."]
-    }
+    },
   },
   {
     id: "uk-jurassic-coast",
@@ -1677,7 +1677,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["UNESCO Világörökség.", "Gazdag dinoszaurusz-kövületekben.", "185 millió évnyi földtörténetet ölel fel.", "A Durdle Door egy híres sziklaív."],
       ro: ["Patrimoniul Mondial UNESCO.", "Bogată în fosile de dinozauri.", "Acoperă 185 milioane de ani de istorie a Pământului.", "Durdle Door este un arc de stâncă faimos."],
       en: ["UNESCO World Heritage site.", "Rich in dinosaur fossils.", "Spans 185 million years of Earth's history.", "Durdle Door is a famous rock arch."]
-    }
+    },
   },
   {
     id: "uk-snowdonia-cader",
@@ -1697,7 +1697,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Népszerű a hegymászók körében.", "893 méter magas.", "Számos walesi legenda fűződik hozzá.", "Gleccsertó a lábánál."],
       ro: ["Popular printre alpiniști.", "893 metri înălțime.", "Multe legende galeze.", "Lac glaciar la poale."],
       en: ["Popular with mountaineers.", "893 meters high.", "Many Welsh legends.", "Glacial lake at the base."]
-    }
+    },
   },
   {
     id: "uk-pembrokeshire",
@@ -1717,7 +1717,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Az egyetlen brit nemzeti park, amely főleg partvidék.", "Pembrokeshire Coast Path (túraútvonal).", "Nagyszerű strandok.", "Gazdag vadvilág (lundák, fókák)."],
       ro: ["Singurul parc național britanic care este în principal coastă.", "Poteca de Coastă Pembrokeshire.", "Plaje grozave.", "Viață sălbatică bogată (pufini, foci)."],
       en: ["The only UK national park which is primarily coastal.", "Pembrokeshire Coast Path.", "Great beaches.", "Lots of wildlife (puffins, seals)."]
-    }
+    },
   },
   {
     id: "uk-giants-causeway",
@@ -1737,7 +1737,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Körülbelül 40 000 oszlop.", "Évmilliókkal ezelőtt vulkanizmus révén jött létre.", "UNESCO Világörökség része.", "Mítoszok az óriásokról (Finn MacCool)."],
       ro: ["Aproximativ 40.000 de coloane.", "Formată acum milioane de ani prin vulcanism.", "Patrimoniul Mondial UNESCO.", "Mituri despre uriași (Finn MacCool)."],
       en: ["Approximately 40,000 columns.", "Formed millions of years ago by volcanism.", "UNESCO World Heritage site.", "Myths of giants (Finn MacCool)."]
-    }
+    },
   },
   {
     id: "uk-extra-windsor-castle",
@@ -1756,7 +1756,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A világ egyik legrégebben lakott vára.", "Évszázadok óta a királyi történelem része.", "Híres a Szent György-kápolnáról."],
       ro: ["Unul dintre cele mai vechi castele locuite din lume.", "Face parte din istoria regală de secole.", "Celebru pentru Capela Sf. Gheorghe."],
       en: ["One of the oldest occupied castles in the world.", "Part of royal history for centuries.", "Famous for St George's Chapel."]
-    }
+    },
   },
   {
     id: "uk-extra-edinburgh-castle",
@@ -1775,7 +1775,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A skót főváros egyik jelképe.", "Uralkodik Edinburgh óvárosa felett.", "Itt őrzik a koronaékszereket."],
       ro: ["Un simbol al capitalei scoțiene.", "Domină Orașul Vechi din Edinburgh.", "Adăpostește bijuteriile coroanei."],
       en: ["A symbol of the Scottish capital.", "Overlooks Edinburgh's Old Town.", "Houses the Crown Jewels."]
-    }
+    },
   },
   {
     id: "uk-extra-caernarfon-castle",
@@ -1794,7 +1794,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["UNESCO világörökségi helyszín.", "Sokszögletű tornyairól és erős falairól ismert.", "A walesi királyi történelemhez kötődik."],
       ro: ["Sit UNESCO.", "Cunoscut pentru turnurile poligonale și zidurile groase.", "Legat de istoria regală galeză."],
       en: ["A UNESCO World Heritage site.", "Known for polygonal towers and thick walls.", "Linked to Welsh royal history."]
-    }
+    },
   },
   {
     id: "uk-extra-leeds-castle",
@@ -1813,7 +1813,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Gyakran Anglia legszebb kastélyának nevezik.", "Egykor királyi rezidencia volt.", "Vizesárkok és kertek veszik körül."],
       ro: ["Este adesea numit cel mai frumos castel din Anglia.", "A fost cândva reședință regală.", "Este înconjurat de apă și grădini."],
       en: ["Often called England's loveliest castle.", "Was once a royal residence.", "Surrounded by water and gardens."]
-    }
+    },
   },
   {
     id: "uk-extra-blenheim-palace",
@@ -1832,7 +1832,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["UNESCO világörökségi helyszín.", "Winston Churchill szülőhelye.", "Pompás kertjeiről híres."],
       ro: ["Sit UNESCO.", "Locul de naștere al lui Winston Churchill.", "Faimos pentru grădinile sale spectaculoase."],
       en: ["A UNESCO World Heritage site.", "Birthplace of Winston Churchill.", "Famous for its grand gardens."]
-    }
+    },
   },
   {
     id: "uk-extra-warwick-castle",
@@ -1851,7 +1851,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Hosszú katonai és főnemesi története van.", "Népszerű családi és turisztikai célpont.", "Sok történelmi terem és torony maradt fenn."],
       ro: ["Are o istorie militară și aristocratică lungă.", "Destinație populară pentru familii și turiști.", "Păstrează multe camere și turnuri istorice."],
       en: ["Has a long military and noble history.", "A popular family and visitor destination.", "Preserves many historic rooms and towers."]
-    }
+    },
   },
   {
     id: "uk-extra-ben-nevis",
@@ -1870,7 +1870,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A skót Felföldön emelkedik.", "Népszerű a hegymászók körében.", "Az időjárás nagyon gyorsan változhat."],
       ro: ["Se ridică în Highlands-ul scoțian.", "Popular printre alpiniști.", "Vremea se poate schimba foarte repede."],
       en: ["Rises in the Scottish Highlands.", "Popular with mountaineers.", "Weather can change very quickly."]
-    }
+    },
   },
   {
     id: "uk-extra-loch-ness",
@@ -1889,7 +1889,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A Nessie-legendáról híres.", "Nagyon hosszú és mély.", "A Great Glen völgyében fekszik."],
       ro: ["Faimos pentru legenda lui Nessie.", "Foarte lung și adânc.", "Se află pe Great Glen."],
       en: ["Famous for the Nessie legend.", "Very long and deep.", "Lies on the Great Glen."]
-    }
+    },
   },
   {
     id: "uk-extra-scottish-highlands",
@@ -1908,7 +1908,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Völgyekről, tavakról és hegyekről ismert.", "Meghatározza Skócia klasszikus arculatát.", "Nagyon ritkán lakott."],
       ro: ["Cunoscută pentru văi, lacuri și munți.", "Definește imaginea clasică a Scoției.", "Foarte slab populată."],
       en: ["Known for valleys, lochs, and mountains.", "Shapes the classic image of Scotland.", "Very sparsely populated."]
-    }
+    },
   },
   {
     id: "uk-extra-lake-district",
@@ -1927,7 +1927,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Sok angol költőt inspirált.", "Népszerű túrázásra és csónakázásra.", "Tartalmazza Anglia legmagasabb csúcsainak egy részét."],
       ro: ["A inspirat mulți poeți englezi.", "Popular pentru drumeții și plimbări cu barca.", "Include unele dintre cele mai înalte vârfuri ale Angliei."],
       en: ["Inspired many English poets.", "Popular for hiking and boating.", "Contains some of England's highest peaks."]
-    }
+    },
   },
   {
     id: "uk-extra-isle-of-skye",
@@ -1946,7 +1946,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Vad partjairól és hegyeiről híres.", "Klasszikus célpont a természet- és fotórajongóknak.", "Az Old Man of Storr sziklaalakzat jelképes hely."],
       ro: ["Faimoasă pentru coastele și munții săi aspri.", "O destinație clasică pentru natură și fotografie.", "Formațiunea Old Man of Storr este un simbol."],
       en: ["Famous for rugged coasts and mountains.", "A classic destination for nature and photography.", "The Old Man of Storr formation is a landmark."]
-    }
+    },
   },
   {
     id: "uk-extra-cliffs-of-moher",
@@ -1965,7 +1965,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Észak-ír szemszögből is ide sorolva.", "Szélről, hullámokról és tengeri madarakról híres.", "Írország egyik legismertebb partvidéke."],
       ro: ["Inclus aici ca punct de vedere din Irlanda de Nord.", "Faimoase pentru vânt, valuri și păsări marine.", "Unul dintre cele mai cunoscute locuri de coastă din Irlanda."],
       en: ["Included here as a Northern Ireland viewpoint.", "Known for wind, waves, and seabirds.", "One of Ireland's best-known coastal sights."]
-    }
+    },
   },
   {
     id: "uk-extra-british-museum",
@@ -1984,7 +1984,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Világhírű gyűjteménye sok korszakot ölel fel.", "A történelem és a régészet fontos helyszíne.", "Bloomsbury negyedben található."],
       ro: ["Celebru pentru colecția sa din multe epoci.", "Un loc important pentru istorie și arheologie.", "Se află în cartierul Bloomsbury."],
       en: ["World-famous for collections from many eras.", "An important site for history and archaeology.", "Located in Bloomsbury."]
-    }
+    },
   },
   {
     id: "uk-extra-tower-of-london",
@@ -2003,7 +2003,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Palotaként, börtönként és kincstárként is szolgált.", "A koronaékszerekről híres.", "UNESCO világörökségi helyszín."],
       ro: ["A servit drept palat, închisoare și tezaur.", "Faimos pentru bijuteriile coroanei.", "Sit UNESCO."],
       en: ["Used as palace, prison, and treasury.", "Famous for the Crown Jewels.", "A UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "uk-extra-buckingham-palace",
@@ -2022,7 +2022,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A brit királyi család egyik fő jelképe.", "A díszőrségváltásról híres.", "Westminster központjában található."],
       ro: ["Un simbol central al familiei regale britanice.", "Celebru pentru schimbarea gărzii.", "Se află în inima Westminsterului."],
       en: ["A central symbol of the British royal family.", "Known for the Changing of the Guard.", "Located in the heart of Westminster."]
-    }
+    },
   },
   {
     id: "uk-extra-stonehenge",
@@ -2041,7 +2041,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Európa egyik legismertebb emlékműve.", "A pontos rendeltetése ma sem teljesen tisztázott.", "UNESCO világörökségi helyszín."],
       ro: ["Unul dintre cele mai cunoscute monumente din Europa.", "Scopul său nu este încă pe deplin clar.", "Sit UNESCO."],
       en: ["One of Europe's most famous monuments.", "Its purpose is still not fully clear.", "A UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "uk-extra-westminster-abbey",
@@ -2060,7 +2060,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["Sok koronázás és állami ceremónia helyszíne.", "Szorosan kötődik a brit történelemhez.", "UNESCO világörökségi helyszín."],
       ro: ["Locul multor încoronări și ceremonii de stat.", "Strâns legată de istoria britanică.", "Sit UNESCO."],
       en: ["Site of many coronations and state ceremonies.", "Closely tied to British history.", "A UNESCO World Heritage site."]
-    }
+    },
   },
   {
     id: "uk-extra-tower-bridge",
@@ -2079,7 +2079,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["1894-ben nyitották meg.", "A Tower of London mellett áll.", "London egyik legismertebb jelképe."],
       ro: ["Deschis în 1894.", "Se află lângă Tower of London.", "Unul dintre cele mai cunoscute simboluri ale Londrei."],
       en: ["Opened in 1894.", "Stands next to the Tower of London.", "One of London's best-known landmarks."]
-    }
+    },
   },
   {
     id: "uk-extra-stirling-castle",
@@ -2098,7 +2098,7 @@ export const unitedkingdomLandmarks: POI[] = [
       hu: ["A skót történelem kulcsfontosságú helyszíne.", "Sokszor használták skót királyok.", "Kilátást nyújt a környező tájra."],
       ro: ["Un loc-cheie în istoria Scoției.", "A fost folosit frecvent de regii scoțieni.", "Oferă vedere asupra peisajului din jur."],
       en: ["A key site in Scottish history.", "Used often by Scottish kings.", "Offers views over the surrounding landscape."]
-    }
+    },
   },
   {
     id: "uk-extra-giants-causeway",

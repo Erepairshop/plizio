@@ -584,9 +584,14 @@ export const InteractiveMap = ({
                 const touchR = Math.max(r * 2.2, 14 / view.scale);
                 const color = poiColor(p.type);
                 const showLabel = (p.type === "state-capital" || p.type === "city" || isSel);
+                // Small-country scale: viewBox height < 700 → shrink labels (many POIs on tight map)
+                const vbHeight = parseFloat((deutschlandViewBox || "0 0 1000 1200").split(" ")[3] || "1200");
+                const smallCountry = vbHeight < 700;
                 const baseFont = isSimplified
                   ? (p.type === "state-capital" ? 18 : 14)
-                  : (p.type === "state-capital" ? 14 : 11);
+                  : smallCountry
+                    ? (p.type === "state-capital" ? 10 : 7)
+                    : (p.type === "state-capital" ? 14 : 11);
                 const fontSize = baseFont / view.scale;  // konstans pixel-méret minden zoom szinten
                 const label = p.name[lang as Lang] ?? p.name.de;
                 return (

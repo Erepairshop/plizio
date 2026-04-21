@@ -1453,7 +1453,7 @@ export const sloveniaMap: SloveniaRegionPath[] = [
     path: "M509.67,305.27L510.21,298.91L511,295.81L522.12,277.68L528.64,279.81L532.42,284.94L533.41,286.95L535.18,292.29L535.62,299.05L535.33,300.78L533.26,307.32L524.8,308.27L518.92,304.71L509.67,305.27Z"
   },
   {
-    id: "SI-054",
+    id: "SI-054b",
     name: { de: "Krsko", hu: "Krsko", ro: "Krsko", en: "Krsko" },
     capital: "",
     labelX: 703.58,
