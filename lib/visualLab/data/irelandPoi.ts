@@ -92,6 +92,109 @@ export const irelandRegions: POI[] = [
   }
 ];
 
+export const irelandCities: POI[] = [
+  {
+    id: "city-dublin",
+    type: "city",
+    parent: "ireland",
+    coords: [-6.2603, 53.3498],
+    name: { de: "Dublin", hu: "Dublin", ro: "Dublin", en: "Dublin" },
+    description: {
+      en: "Dublin is Ireland's capital and a compact city known for Trinity College, Temple Bar, and its literary heritage.",
+      de: "Dublin ist die Hauptstadt Irlands und eine kompakte Stadt, bekannt für Trinity College, Temple Bar und ihr literarisches Erbe.",
+      hu: "Dublin Írország fővárosa, egy kompakt város, amely a Trinity College-ról, a Temple Barról és irodalmi örökségéről ismert.",
+      ro: "Dublin este capitala Irlandei și un oraș compact, cunoscut pentru Trinity College, Temple Bar și moștenirea sa literară."
+    },
+    facts: {
+      en: ["It is the capital of Ireland.", "Trinity College is one of its main landmarks.", "Temple Bar is a famous cultural and nightlife district.", "The River Liffey runs through the city."],
+      de: ["Es ist die Hauptstadt Irlands.", "Das Trinity College ist eines der wichtigsten Wahrzeichen.", "Temple Bar ist ein berühmtes Kultur- und Ausgehviertel.", "Der Fluss Liffey fließt durch die Stadt."],
+      hu: ["Ez Írország fővárosa.", "A Trinity College az egyik fő nevezetessége.", "A Temple Bar híres kulturális és éjszakai negyed.", "A Liffey folyó átszeli a várost."],
+      ro: ["Este capitala Irlandei.", "Trinity College este unul dintre reperele sale principale.", "Temple Bar este un cartier celebru pentru cultură și viață de noapte.", "Râul Liffey traversează orașul."]
+    },
+    image: "/geo-images/ireland/city-dublin.webp",
+  },
+  {
+    id: "city-cork",
+    type: "city",
+    parent: "ireland",
+    coords: [-8.4756, 51.8985],
+    name: { de: "Cork", hu: "Cork", ro: "Cork", en: "Cork" },
+    description: {
+      en: "Cork is Ireland's second-largest city and a major center in the southwest, close to Blarney Castle.",
+      de: "Cork ist Irlands zweitgrößte Stadt und ein wichtiges Zentrum im Südwesten, nahe Blarney Castle.",
+      hu: "Cork Írország második legnagyobb városa és a délnyugat fontos központja, közel a Blarney Castle-höz.",
+      ro: "Cork este al doilea oraș ca mărime din Irlanda și un centru important în sud-vest, aproape de Blarney Castle."
+    },
+    facts: {
+      en: ["It is Ireland's second-largest city.", "The English Market is one of its best-known spots.", "The River Lee shapes the city.", "Blarney Castle is nearby."],
+      de: ["Es ist Irlands zweitgrößte Stadt.", "Der English Market ist einer der bekanntesten Orte.", "Der Fluss Lee prägt die Stadt.", "Blarney Castle liegt in der Nähe."],
+      hu: ["Írország második legnagyobb városa.", "Az English Market az egyik legismertebb helye.", "A Lee folyó formálja a várost.", "A Blarney Castle a közelben található."],
+      ro: ["Este al doilea oraș ca mărime din Irlanda.", "English Market este unul dintre cele mai cunoscute locuri.", "Râul Lee modelează orașul.", "Blarney Castle se află în apropiere."]
+    },
+    image: "/geo-images/ireland/city-cork.webp",
+  },
+  {
+    id: "city-galway",
+    type: "city",
+    parent: "ireland",
+    coords: [-9.0568, 53.2707],
+    name: { de: "Galway", hu: "Galway", ro: "Galway", en: "Galway" },
+    description: {
+      en: "Galway is a western Irish city with a lively arts scene and a strong link to Gaelic culture.",
+      de: "Galway ist eine westirische Stadt mit lebendiger Kunstszene und enger Verbindung zur gälischen Kultur.",
+      hu: "Galway nyugat-írországi város, élénk művészeti élettel és erős gael kulturális kapcsolattal.",
+      ro: "Galway este un oraș din vestul Irlandei, cu o scenă artistică vie și o legătură puternică cu cultura gaelică."
+    },
+    facts: {
+      en: ["It is a gateway to Connemara.", "It has a strong festival culture.", "Irish language is highly visible here.", "The city sits on the Atlantic coast."],
+      de: ["Es ist ein Tor nach Connemara.", "Es hat eine starke Festivalkultur.", "Die irische Sprache ist hier sehr präsent.", "Die Stadt liegt an der Atlantikküste."],
+      hu: ["Connemara kapuja.", "Erős fesztiválkultúrája van.", "Az ír nyelv nagyon jelen van itt.", "A város az Atlanti-óceán partján fekszik."],
+      ro: ["Este o poartă către Connemara.", "Are o cultură puternică a festivalurilor.", "Limba irlandeză este foarte vizibilă aici.", "Orașul se află pe coasta Atlanticului."]
+    },
+    image: "/geo-images/ireland/city-galway.webp",
+  },
+  {
+    id: "city-limerick",
+    type: "city",
+    parent: "ireland",
+    coords: [-8.6305, 52.6638],
+    name: { de: "Limerick", hu: "Limerick", ro: "Limerick", en: "Limerick" },
+    description: {
+      en: "Limerick sits on the River Shannon and is known for King John's Castle and a strong sporting identity.",
+      de: "Limerick liegt am Fluss Shannon und ist für King John's Castle und eine starke Sportkultur bekannt.",
+      hu: "Limerick a Shannon folyó partján fekszik, és a King John's Castle-ről, valamint erős sportéletéről ismert.",
+      ro: "Limerick se află pe râul Shannon și este cunoscut pentru King John's Castle și o identitate sportivă puternică."
+    },
+    facts: {
+      en: ["King John's Castle is a major landmark.", "The River Shannon runs through the city.", "It has a strong rugby tradition.", "It is one of Ireland's oldest cities."],
+      de: ["King John's Castle ist ein wichtiges Wahrzeichen.", "Der Fluss Shannon fließt durch die Stadt.", "Die Stadt hat eine starke Rugby-Tradition.", "Sie ist eine der ältesten Städte Irlands."],
+      hu: ["A King John's Castle fontos nevezetesség.", "A Shannon folyó áthalad a városon.", "Erős rögbihagyományai vannak.", "Írország egyik legrégebbi városa."],
+      ro: ["King John's Castle este un reper major.", "Râul Shannon trece prin oraș.", "Are o puternică tradiție în rugby.", "Este unul dintre cele mai vechi orașe din Irlanda."]
+    },
+    image: "/geo-images/ireland/city-limerick.webp",
+  },
+  {
+    id: "city-belfast",
+    type: "city",
+    parent: "ireland",
+    coords: [-5.9301, 54.5973],
+    name: { de: "Belfast", hu: "Belfast", ro: "Belfast", en: "Belfast" },
+    description: {
+      en: "Belfast is the capital of Northern Ireland and is closely linked to shipbuilding and the Titanic Quarter.",
+      de: "Belfast ist die Hauptstadt Nordirlands und eng mit dem Schiffbau sowie dem Titanic Quarter verbunden.",
+      hu: "Belfast Észak-Írország fővárosa, és szorosan kötődik a hajóépítéshez és a Titanic Quarterhöz.",
+      ro: "Belfast este capitala Irlandei de Nord și este strâns legat de construcțiile navale și Titanic Quarter."
+    },
+    facts: {
+      en: ["It is the capital of Northern Ireland.", "The Titanic was built here.", "The Titanic Quarter is a major redevelopment area.", "It has a strong industrial heritage."],
+      de: ["Es ist die Hauptstadt Nordirlands.", "Die Titanic wurde hier gebaut.", "Das Titanic Quarter ist ein großes Entwicklungsgebiet.", "Es hat ein starkes industrielles Erbe."],
+      hu: ["Észak-Írország fővárosa.", "A Titanic itt épült.", "A Titanic Quarter jelentős fejlesztési terület.", "Erős ipari örökséggel rendelkezik."],
+      ro: ["Este capitala Irlandei de Nord.", "Titanic a fost construit aici.", "Titanic Quarter este o zonă majoră de regenerare.", "Are o moștenire industrială puternică."]
+    },
+    image: "/geo-images/ireland/city-belfast.webp",
+  }
+];
+
 export const irelandNature: POI[] = [
   {
     id: "nat-cliffs-of-moher",
@@ -132,6 +235,106 @@ export const irelandNature: POI[] = [
       ro: ["Majoritatea coloanelor au formă hexagonală.","Cele mai înalte coloane au aproximativ 12 metri înălțime.","S-a format acum aproximativ 50 până la 60 de milioane de ani.","Situl este administrat de National Trust."]
     },
     image: "/geo-images/ireland/giants-causeway.webp",
+  },
+  {
+    id: "nat-cliffs-moher",
+    type: "nature",
+    parent: "ireland",
+    coords: [-9.4309, 52.9711],
+    name: { de: "Cliffs of Moher", hu: "Cliffs of Moher", ro: "Cliffs of Moher", en: "Cliffs of Moher" },
+    description: {
+      en: "The Cliffs of Moher are a spectacular Atlantic coastline in County Clare, rising steeply above the sea.",
+      de: "Die Cliffs of Moher sind eine spektakuläre Atlantikküste in County Clare, die steil über dem Meer aufragt.",
+      hu: "A Cliffs of Moher Clare megyében található látványos atlanti partszakasz, amely meredeken emelkedik a tenger fölé.",
+      ro: "Cliffs of Moher sunt o coastă atlantică spectaculoasă din comitatul Clare, ridicându-se abrupt deasupra mării."
+    },
+    facts: {
+      en: ["They rise to 214 meters above sea level.", "They stretch for about 8 kilometers.", "They are a UNESCO Global Geopark site.", "They are home to many seabirds."],
+      de: ["Sie ragen bis zu 214 Meter über den Meeresspiegel auf.", "Sie erstrecken sich über etwa 8 Kilometer.", "Sie sind ein UNESCO-Global-Geopark.", "Sie sind die Heimat vieler Seevögel."],
+      hu: ["Akár 214 méterre magasodnak a tengerszint fölé.", "Körülbelül 8 kilométer hosszan húzódnak.", "UNESCO Global Geopark helyszín.", "Sok tengeri madár él itt."],
+      ro: ["Se ridică până la 214 metri deasupra nivelului mării.", "Se întind pe aproximativ 8 kilometri.", "Sunt un sit UNESCO Global Geopark.", "Adăpostesc multe păsări marine."]
+    },
+    image: "/geo-images/ireland/cliffs-moher.webp",
+  },
+  {
+    id: "nat-giants-causeway",
+    type: "nature",
+    parent: "ireland",
+    coords: [-6.5112, 55.2408],
+    name: { de: "Giant's Causeway (UK!)", hu: "Giant's Causeway (UK!)", ro: "Giant's Causeway (UK!)", en: "Giant's Causeway (UK!)" },
+    description: {
+      en: "Giant's Causeway is a basalt column landscape in Northern Ireland shaped by ancient volcanic activity.",
+      de: "Der Giant's Causeway ist eine Basaltsäulenlandschaft in Nordirland, die durch uralte vulkanische Aktivität geformt wurde.",
+      hu: "A Giant's Causeway egy bazaltoszlopos táj Észak-Írországban, amelyet ősi vulkanikus tevékenység formált.",
+      ro: "Giant's Causeway este un peisaj de coloane bazaltice din Irlanda de Nord, modelat de activitate vulcanică antică."
+    },
+    facts: {
+      en: ["It has around 40,000 basalt columns.", "It is a UNESCO World Heritage Site.", "The columns are mostly hexagonal.", "Legend links it to Finn MacCool."],
+      de: ["Es hat rund 40.000 Basaltsäulen.", "Es ist ein UNESCO-Weltkulturerbe.", "Die Säulen sind meist sechseckig.", "Eine Legende verbindet es mit Finn MacCool."],
+      hu: ["Körülbelül 40 000 bazaltoszlopa van.", "UNESCO Világörökségi helyszín.", "Az oszlopok többnyire hatszögletűek.", "A legenda Finn MacCoolhoz köti."],
+      ro: ["Are aproximativ 40.000 de coloane bazaltice.", "Este sit al Patrimoniului Mondial UNESCO.", "Coloanele sunt în mare parte hexagonale.", "Legenda îl leagă de Finn MacCool."]
+    },
+    image: "/geo-images/ireland/giants-causeway.webp",
+  },
+  {
+    id: "nat-ring-kerry",
+    type: "nature",
+    parent: "ireland",
+    coords: [-9.8, 51.9],
+    name: { de: "Ring of Kerry", hu: "Ring of Kerry", ro: "Ring of Kerry", en: "Ring of Kerry" },
+    description: {
+      en: "The Ring of Kerry is a scenic coastal circuit around the Iveragh Peninsula in southwest Ireland.",
+      de: "Der Ring of Kerry ist eine landschaftlich reizvolle Küstenroute rund um die Iveragh-Halbinsel im Südwesten Irlands.",
+      hu: "A Ring of Kerry egy festői part menti körút az Iveragh-félsziget körül Írország délnyugati részén.",
+      ro: "Ring of Kerry este un traseu scenic de coastă în jurul Peninsulei Iveragh, în sud-vestul Irlandei."
+    },
+    facts: {
+      en: ["It is about 179 kilometers long.", "It passes Killarney National Park.", "It is one of Ireland's classic drives.", "It combines sea, mountains, and lakes."],
+      de: ["Er ist etwa 179 Kilometer lang.", "Er führt am Killarney National Park vorbei.", "Er ist eine klassische Irland-Rundfahrt.", "Er verbindet Meer, Berge und Seen."],
+      hu: ["Körülbelül 179 kilométer hosszú.", "Érinti a Killarney Nemzeti Parkot.", "Írország klasszikus körútjai közé tartozik.", "A tenger, a hegyek és a tavak keveréke."],
+      ro: ["Are aproximativ 179 de kilometri.", "Trece pe lângă Parcul Național Killarney.", "Este unul dintre drumurile clasice ale Irlandei.", "Combină marea, munții și lacurile."]
+    },
+    image: "/geo-images/ireland/ring-of-kerry.webp",
+  },
+  {
+    id: "nat-connemara",
+    type: "nature",
+    parent: "ireland",
+    coords: [-9.7, 53.5],
+    name: { de: "Connemara", hu: "Connemara", ro: "Connemara", en: "Connemara" },
+    description: {
+      en: "Connemara is a wild western region known for moorland, mountains, and a strong Gaelic identity.",
+      de: "Connemara ist eine wilde westliche Region, bekannt für Moorlandschaften, Berge und eine starke gälische Identität.",
+      hu: "Connemara egy vad nyugati régió, amely mocsárvidékeiről, hegyeiről és erős gael identitásáról ismert.",
+      ro: "Connemara este o regiune sălbatică din vest, cunoscută pentru mlaștini, munți și o identitate gaelică puternică."
+    },
+    facts: {
+      en: ["It is strongly associated with the Irish language.", "The landscape is rugged and remote.", "The Twelve Bens are a key mountain group.", "It is a major hiking area."],
+      de: ["Sie ist stark mit der irischen Sprache verbunden.", "Die Landschaft ist rau und abgelegen.", "Die Twelve Bens sind eine wichtige Berggruppe.", "Sie ist ein wichtiges Wandergebiet."],
+      hu: ["Erősen kötődik az ír nyelvhez.", "A táj vad és félreeső.", "A Twelve Bens fontos hegység.", "Népszerű túrahely."],
+      ro: ["Este puternic asociată cu limba irlandeză.", "Peisajul este aspru și izolat.", "Twelve Bens este un grup muntos important.", "Este o zonă majoră pentru drumeții."]
+    },
+    image: "/geo-images/ireland/connemara.webp",
+  },
+  {
+    id: "nat-burren",
+    type: "nature",
+    parent: "ireland",
+    coords: [-9.2, 53.0],
+    name: { de: "The Burren", hu: "The Burren", ro: "The Burren", en: "The Burren" },
+    description: {
+      en: "The Burren is a limestone karst landscape in County Clare known for its rocks, flowers, and archaeological remains.",
+      de: "The Burren ist eine Kalkstein-Karstlandschaft in County Clare, bekannt für ihre Felsen, Blumen und archäologischen Überreste.",
+      hu: "The Burren egy mészkőből álló karsztvidék Clare megyében, amely szikláiról, virágairól és régészeti maradványairól ismert.",
+      ro: "The Burren este un peisaj carstic calcaros din comitatul Clare, cunoscut pentru stânci, flori și vestigii arheologice."
+    },
+    facts: {
+      en: ["It has rare Arctic-Alpine plants.", "It is a karst landscape.", "Ancient tombs are found there.", "It lies near the Cliffs of Moher."],
+      de: ["Dort wachsen seltene arktisch-alpine Pflanzen.", "Es ist eine Karstlandschaft.", "Dort gibt es alte Gräber.", "Es liegt in der Nähe der Cliffs of Moher."],
+      hu: ["Ritka sarkvidéki-alpesi növények élnek itt.", "Karsztvidék.", "Ősi sírok találhatók ott.", "A Cliffs of Moher közelében fekszik."],
+      ro: ["Acolo cresc plante rare arctic-alpine.", "Este un peisaj carstic.", "Acolo se găsesc morminte antice.", "Se află lângă Cliffs of Moher."]
+    },
+    image: "/geo-images/ireland/burren.webp",
   }
 ];
 
@@ -155,7 +358,107 @@ export const irelandCulture: POI[] = [
       ro: ["Pentru a săruta piatra, trebuie să te apleci pe spate peste o prăpastie de pe creneluri.","Castelul actual este al treilea construit pe acest sit.","Grădinile prezintă multe formațiuni stâncoase mistice.","Piatra Blarney este un bloc de calcar carbonifer."]
     },
     image: "/geo-images/ireland/blarney-castle.webp",
+  },
+  {
+    id: "cult-trinity",
+    type: "culture",
+    parent: "city-dublin",
+    coords: [-6.2575, 53.3438],
+    name: { de: "Trinity College", hu: "Trinity College", ro: "Trinity College", en: "Trinity College" },
+    description: {
+      en: "Trinity College Dublin is Ireland's best-known university and home of the Book of Kells.",
+      de: "Das Trinity College Dublin ist Irlands bekannteste Universität und Heimat des Book of Kells.",
+      hu: "A dublini Trinity College Írország legismertebb egyeteme és a Book of Kells otthona.",
+      ro: "Trinity College Dublin este cea mai cunoscută universitate din Irlanda și găzduiește Book of Kells."
+    },
+    facts: {
+      en: ["Founded in 1592.", "The Old Library contains the Book of Kells.", "The Long Room is world-famous.", "It is a major Dublin landmark."],
+      de: ["1592 gegründet.", "Die Old Library beherbergt das Book of Kells.", "Der Long Room ist weltberühmt.", "Es ist ein wichtiges Wahrzeichen Dublins."],
+      hu: ["1592-ben alapították.", "Az Old Library őrzi a Book of Kells-t.", "A Long Room világhírű.", "Dublin egyik fő nevezetessége."],
+      ro: ["Fondat în 1592.", "Old Library găzduiește Book of Kells.", "Long Room este faimoasă în lume.", "Este un reper major din Dublin."]
+    },
+    image: "/geo-images/ireland/trinity-college.webp",
+  },
+  {
+    id: "cult-rock-cashel",
+    type: "culture",
+    parent: "city-cork",
+    coords: [-7.8906, 52.5199],
+    name: { de: "Rock of Cashel", hu: "Rock of Cashel", ro: "Rock of Cashel", en: "Rock of Cashel" },
+    description: {
+      en: "The Rock of Cashel is a dramatic medieval site on a limestone hill in Tipperary.",
+      de: "Der Rock of Cashel ist eine dramatische mittelalterliche Stätte auf einem Kalksteinhügel in Tipperary.",
+      hu: "A Rock of Cashel egy drámai középkori helyszín Tipperary mészkődombján.",
+      ro: "Rock of Cashel este un sit medieval dramatic pe un deal de calcar din Tipperary."
+    },
+    facts: {
+      en: ["It was the seat of the kings of Munster.", "It includes a round tower and cathedral.", "It is one of Ireland's iconic ruins.", "It overlooks the surrounding plains."],
+      de: ["Es war der Sitz der Könige von Munster.", "Es umfasst einen Rundturm und eine Kathedrale.", "Es ist eine der ikonischen Ruinen Irlands.", "Es überblickt die umliegenden Ebenen."],
+      hu: ["Munster királyainak székhelye volt.", "Kerek tornyot és katedrálist is magában foglal.", "Írország egyik ikonikus romja.", "A környező síkságra néz."],
+      ro: ["A fost sediul regilor din Munster.", "Include un turn rotund și o catedrală.", "Este una dintre ruinele emblematice ale Irlandei.", "Oferă vedere asupra câmpiilor din jur."]
+    },
+    image: "/geo-images/ireland/rock-of-cashel.webp",
+  },
+  {
+    id: "cult-newgrange",
+    type: "culture",
+    parent: "ireland",
+    coords: [-6.4756, 53.6947],
+    name: { de: "Newgrange", hu: "Newgrange", ro: "Newgrange", en: "Newgrange" },
+    description: {
+      en: "Newgrange is a prehistoric passage tomb older than Stonehenge and the Egyptian pyramids.",
+      de: "Newgrange ist ein prähistorisches Ganggrab, älter als Stonehenge und die ägyptischen Pyramiden.",
+      hu: "A Newgrange egy őskori átjárósír, amely idősebb Stonehenge-nél és az egyiptomi piramisoknál.",
+      ro: "Newgrange este un mormânt preistoric de tip pasaj, mai vechi decât Stonehenge și piramidele egiptene."
+    },
+    facts: {
+      en: ["Built around 3200 BC.", "It aligns with the winter solstice sunrise.", "It is a UNESCO World Heritage Site.", "It is one of Europe's oldest monuments."],
+      de: ["Um 3200 v. Chr. erbaut.", "Es ist auf den Sonnenaufgang der Wintersonnenwende ausgerichtet.", "Es ist UNESCO-Weltkulturerbe.", "Es ist eines der ältesten Monumente Europas."],
+      hu: ["Kr. e. 3200 körül épült.", "A téli napforduló napkeltéjére igazodik.", "UNESCO Világörökségi helyszín.", "Európa egyik legrégebbi emlékműve."],
+      ro: ["Construit în jurul anului 3200 î.Hr.", "Este aliniat cu răsăritul de la solstițiul de iarnă.", "Este sit UNESCO.", "Este unul dintre cele mai vechi monumente din Europa."]
+    },
+    image: "/geo-images/ireland/newgrange.webp",
+  },
+  {
+    id: "cult-blarney",
+    type: "culture",
+    parent: "city-cork",
+    coords: [-8.5706, 51.9297],
+    name: { de: "Blarney Castle", hu: "Blarney Castle", ro: "Blarney Castle", en: "Blarney Castle" },
+    description: {
+      en: "Blarney Castle is a medieval fortress near Cork, famous for the Blarney Stone and its gardens.",
+      de: "Blarney Castle ist eine mittelalterliche Festung nahe Cork, berühmt für den Blarney Stone und seine Gärten.",
+      hu: "A Blarney Castle egy középkori erőd Cork közelében, híres a Blarney-kőről és kertjeiről.",
+      ro: "Blarney Castle este o fortăreață medievală lângă Cork, faimoasă pentru Piatra Blarney și grădinile sale."
+    },
+    facts: {
+      en: ["The Blarney Stone is said to grant eloquence.", "The current castle dates from the 15th century.", "Visitors kiss the stone by leaning backward.", "The gardens are a major attraction."],
+      de: ["Dem Blarney Stone wird Beredsamkeit nachgesagt.", "Die heutige Burg stammt aus dem 15. Jahrhundert.", "Besucher küssen den Stein, indem sie sich zurücklehnen.", "Die Gärten sind eine Hauptattraktion."],
+      hu: ["A Blarney-kőnek ékesszólást tulajdonítanak.", "A jelenlegi vár a 15. századból származik.", "A követ hátradőlve csókolják meg.", "A kertek fő látványosságok."],
+      ro: ["Piatra Blarney este considerată aducătoare de elocvență.", "Castelul actual datează din secolul al XV-lea.", "Vizitatorii sărută piatra aplecându-se pe spate.", "Grădinile sunt o atracție majoră."]
+    },
+    image: "/geo-images/ireland/blarney.webp",
+  },
+  {
+    id: "cult-kilkenny",
+    type: "culture",
+    parent: "ireland",
+    coords: [-7.2449, 52.6485],
+    name: { de: "Kilkenny Castle", hu: "Kilkenny Castle", ro: "Castelul Kilkenny", en: "Kilkenny Castle" },
+    description: {
+      en: "Kilkenny Castle is a Norman castle and one of Ireland's most recognizable historic buildings.",
+      de: "Kilkenny Castle ist eine normannische Burg und eines der bekanntesten historischen Gebäude Irlands.",
+      hu: "A Kilkenny Castle egy normann vár és Írország egyik legismertebb történelmi épülete.",
+      ro: "Castelul Kilkenny este un castel normand și una dintre cele mai recognoscibile clădiri istorice ale Irlandei."
+    },
+    facts: {
+      en: ["It was founded in the 12th century.", "It once belonged to the Butler family.", "It overlooks the River Nore.", "It is a key symbol of Kilkenny."],
+      de: ["Es wurde im 12. Jahrhundert gegründet.", "Es gehörte einst der Familie Butler.", "Es überblickt den Fluss Nore.", "Es ist ein zentrales Symbol von Kilkenny."],
+      hu: ["A 12. században alapították.", "Valaha a Butler család birtoka volt.", "A Nore folyóra néz.", "Kilkenny egyik fő szimbóluma."],
+      ro: ["A fost fondat în secolul al XII-lea.", "A aparținut cândva familiei Butler.", "Oferă vedere spre râul Nore.", "Este un simbol important al orașului Kilkenny."]
+    },
+    image: "/geo-images/ireland/kilkenny-castle.webp",
   }
 ];
 
-export const irelandAllPoi: POI[] = [irelandCountry, ...irelandRegions, ...irelandNature, ...irelandCulture];
+export const irelandAllPoi: POI[] = [irelandCountry, ...irelandRegions, ...irelandCities, ...irelandCulture, ...irelandNature];
