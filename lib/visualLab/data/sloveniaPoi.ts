@@ -409,7 +409,694 @@ export const sloveniaRegions: POI[] = [
   }
 ];
 
+export const sloveniaCities: POI[] = [
+  {
+    id: "city-ljubljana",
+    type: "city",
+    parent: "country-slovenia",
+    coords: [14.5058, 46.0569],
+    name: {
+      de: "Ljubljana",
+      hu: "Ljubljana",
+      ro: "Ljubljana",
+      en: "Ljubljana"
+    },
+    description: {
+      de: "Die Hauptstadt Sloweniens verbindet eine kompakte Altstadt mit Flussufer, Brücken und einer entspannten Atmosphäre.",
+      hu: "Szlovénia fővárosa kompakt óvárost, folyópartot, hidakat és nyugodt hangulatot egyesít.",
+      ro: "Capitala Sloveniei îmbină un oraș vechi compact, maluri de râu, poduri și o atmosferă relaxată.",
+      en: "Slovenia's capital combines a compact old town, riverfront, bridges, and a relaxed atmosphere."
+    },
+    facts: {
+      de: [
+        "Tromostovje, die Drei Brücken, ist eines der bekanntesten Wahrzeichen der Stadt.",
+        "Die Burg von Ljubljana überragt die Altstadt vom Hügel aus.",
+        "Das Zentrum ist stark auf Fußgänger ausgerichtet.",
+        "Die Stadt gilt als eine der grünsten Hauptstädte Europas."
+      ],
+      hu: [
+        "A Tromostovje, vagyis a Hármas híd a város egyik legismertebb jelképe.",
+        "A ljubljanai vár a dombtetőről néz az óvárosra.",
+        "A belváros erősen gyalogosbarát.",
+        "A várost Európa egyik legzöldebb fővárosaként tartják számon."
+      ],
+      ro: [
+        "Tromostovje, adică Podurile Triple, este unul dintre cele mai cunoscute simboluri ale orașului.",
+        "Castelul Ljubljana domină orașul vechi de pe colină.",
+        "Centrul este puternic orientat către pietoni.",
+        "Orașul este considerat una dintre cele mai verzi capitale din Europa."
+      ],
+      en: [
+        "Tromostovje, the Triple Bridge, is one of the city's best-known landmarks.",
+        "Ljubljana Castle overlooks the old town from the hill.",
+        "The center is strongly pedestrian-oriented.",
+        "The city is regarded as one of Europe's greenest capitals."
+      ]
+    },
+    image: "/geo-images/slovenia/city-ljubljana.webp"
+  },
+  {
+    id: "city-maribor",
+    type: "city",
+    parent: "country-slovenia",
+    coords: [15.6467, 46.5547],
+    name: {
+      de: "Maribor",
+      hu: "Maribor",
+      ro: "Maribor",
+      en: "Maribor"
+    },
+    description: {
+      de: "Die zweitgrößte Stadt Sloweniens liegt an der Drau und ist für Wein, Kultur und ihren historischen Stadtkern bekannt.",
+      hu: "Szlovénia második legnagyobb városa a Dráva partján fekszik, és borairól, kultúrájáról és történelmi központjáról ismert.",
+      ro: "Al doilea oraș ca mărime din Slovenia se află pe Drava și este cunoscut pentru vin, cultură și centrul său istoric.",
+      en: "Slovenia's second-largest city lies on the Drava River and is known for wine, culture, and its historic center."
+    },
+    facts: {
+      de: [
+        "In Maribor wächst die älteste Weinrebe der Welt.",
+        "Die Stadt ist ein wichtiges Zentrum der steirischen Weinregion.",
+        "Pohorje liegt direkt vor der Stadt und ist ein beliebtes Skigebiet.",
+        "Lent ist der berühmte Uferbereich der Altstadt."
+      ],
+      hu: [
+        "Mariborban nő a világ legöregebb szőlőtőkéje.",
+        "A város a stájer borvidék egyik fontos központja.",
+        "A közeli Pohorje kedvelt síterület.",
+        "Lent az óváros híres folyóparti része."
+      ],
+      ro: [
+        "În Maribor crește cea mai veche viță de vie din lume.",
+        "Orașul este un centru important al regiunii viticole Štajerska.",
+        "Pohorje este chiar lângă oraș și este o stațiune de schi populară.",
+        "Lent este zona faimoasă de pe malul râului din centrul vechi."
+      ],
+      en: [
+        "The world's oldest grapevine grows in Maribor.",
+        "The city is an important center of the Styria wine region.",
+        "Pohorje sits right by the city and is a popular ski area.",
+        "Lent is the famous riverside district of the old town."
+      ]
+    },
+    image: "/geo-images/slovenia/city-maribor.webp"
+  },
+  {
+    id: "city-celje",
+    type: "city",
+    parent: "country-slovenia",
+    coords: [15.2675, 46.2311],
+    name: {
+      de: "Cilli",
+      hu: "Celje",
+      ro: "Celje",
+      en: "Celje"
+    },
+    description: {
+      de: "Celje ist eine historische Stadt an der Savinja und war einst Sitz mächtiger Grafenfamilien im mittelalterlichen Slowenien.",
+      hu: "Celje történelmi város a Savinja folyó mellett, és egykor a középkori Szlovénia egyik hatalmas grófi családjának székhelye volt.",
+      ro: "Celje este un oraș istoric de pe râul Savinja și a fost odinioară reședința unor puternice familii de conți în Slovenia medievală.",
+      en: "Celje is a historic city on the Savinja River and was once the seat of powerful comital families in medieval Slovenia."
+    },
+    facts: {
+      de: [
+        "Die Grafen von Cilli gehörten zu den mächtigsten Adelsfamilien der Region.",
+        "Die Alte Burg von Celje thront über der Stadt.",
+        "Der historische Kern verbindet römisches Erbe mit dem Mittelalter.",
+        "Celje ist ein regionales Verwaltungs- und Kulturzentrum."
+      ],
+      hu: [
+        "A Cillei grófok a térség egyik leghatalmasabb nemesi családjai közé tartoztak.",
+        "A celjei öreg vár a város fölé magasodik.",
+        "A történelmi központ római örökséget és középkori rétegeket is őriz.",
+        "Celje regionális közigazgatási és kulturális központ."
+      ],
+      ro: [
+        "Conții de Cilli au fost una dintre cele mai puternice familii nobiliare din regiune.",
+        "Castelul Vechi din Celje domină orașul.",
+        "Nucleul istoric combină moștenirea romană cu Evul Mediu.",
+        "Celje este un centru regional administrativ și cultural."
+      ],
+      en: [
+        "The Counts of Cilli were among the region's most powerful noble families.",
+        "Old Celje Castle towers above the city.",
+        "The historic core combines Roman heritage with the Middle Ages.",
+        "Celje is a regional administrative and cultural center."
+      ]
+    },
+    image: "/geo-images/slovenia/city-celje.webp"
+  },
+  {
+    id: "city-kranj",
+    type: "city",
+    parent: "country-slovenia",
+    coords: [14.3555, 46.2389],
+    name: {
+      de: "Krainburg",
+      hu: "Kranj",
+      ro: "Kranj",
+      en: "Kranj"
+    },
+    description: {
+      de: "Kranj ist die Hauptstadt der Region Gorenjska und eine historische Stadt oberhalb von Flussschluchten mit starkem kulturellem Erbe.",
+      hu: "Kranj Gorenjska régió központja, történelmi város folyószurdokok fölött, erős kulturális örökséggel.",
+      ro: "Kranj este centrul regiunii Gorenjska și un oraș istoric deasupra cheilor râurilor, cu o moștenire culturală puternică.",
+      en: "Kranj is the center of the Gorenjska region and a historic city above river gorges with a strong cultural heritage."
+    },
+    facts: {
+      de: [
+        "Kranj ist eng mit dem Dichter France Prešeren verbunden.",
+        "Die Altstadt liegt auf einem Felsrücken zwischen zwei Flüssen.",
+        "Die Stadt ist ein wichtiges Zentrum für die Region Gorenjska.",
+        "Unter der Stadt verlaufen historische Tunnel und Schutzanlagen."
+      ],
+      hu: [
+        "Kranj szorosan kapcsolódik France Prešeren költőhöz.",
+        "Az óváros két folyó közötti sziklagerincen fekszik.",
+        "A város Gorenjska régió fontos központja.",
+        "A város alatt történelmi alagutak és védelmi létesítmények húzódnak."
+      ],
+      ro: [
+        "Kranj este strâns legat de poetul France Prešeren.",
+        "Orașul vechi se află pe o creastă stâncoasă între două râuri.",
+        "Orașul este un centru important al regiunii Gorenjska.",
+        "Sub oraș există tuneluri istorice și structuri defensive."
+      ],
+      en: [
+        "Kranj is closely associated with the poet France Prešeren.",
+        "The old town sits on a rocky ridge between two rivers.",
+        "The city is an important center of the Gorenjska region.",
+        "Historical tunnels and defensive structures run beneath the city."
+      ]
+    },
+    image: "/geo-images/slovenia/city-kranj.webp"
+  },
+  {
+    id: "city-koper",
+    type: "city",
+    parent: "country-slovenia",
+    coords: [13.7294, 45.5469],
+    name: {
+      de: "Koper",
+      hu: "Koper",
+      ro: "Koper",
+      en: "Koper"
+    },
+    description: {
+      de: "Koper ist Sloweniens wichtigste Küstenstadt und ein bedeutender Hafen mit starker venezianischer Prägung.",
+      hu: "Koper Szlovénia legfontosabb tengerparti városa és jelentős kikötő, erős velencei hatással.",
+      ro: "Koper este cel mai important oraș de coastă al Sloveniei și un port major cu o puternică amprentă venețiană.",
+      en: "Koper is Slovenia's most important coastal city and a major port with a strong Venetian influence."
+    },
+    facts: {
+      de: [
+        "Die Altstadt zeigt viele venezianische Paläste und Plätze.",
+        "Koper ist der größte Hafen Sloweniens.",
+        "Der Tito-Platz ist das historische Herz der Stadt.",
+        "Die Küste verbindet hier mediterrane und mitteleuropäische Einflüsse."
+      ],
+      hu: [
+        "Az óvárosban sok velencei palota és tér látható.",
+        "Koper Szlovénia legnagyobb kikötője.",
+        "A Tito tér a város történelmi szíve.",
+        "A partvidéken mediterrán és közép-európai hatások keverednek."
+      ],
+      ro: [
+        "Centrul vechi are multe palate și piețe venețiene.",
+        "Koper este cel mai mare port al Sloveniei.",
+        "Piața Tito este inima istorică a orașului.",
+        "Coasta îmbină influențe mediteraneene și central-europene."
+      ],
+      en: [
+        "The old town features many Venetian palaces and squares.",
+        "Koper is Slovenia's largest port.",
+        "Tito Square is the historic heart of the city.",
+        "The coast here blends Mediterranean and Central European influences."
+      ]
+    },
+    image: "/geo-images/slovenia/city-koper.webp"
+  }
+];
+
+export const sloveniaCulture: POI[] = [
+  {
+    id: "cult-ljubljana-castle",
+    type: "culture",
+    parent: "country-slovenia",
+    coords: [14.5083, 46.0489],
+    name: {
+      de: "Burg Ljubljana",
+      hu: "Ljubljanai vár",
+      ro: "Castelul Ljubljana",
+      en: "Ljubljana Castle"
+    },
+    description: {
+      de: "Die Burg von Ljubljana ist die markante Festung über der Hauptstadt und prägt seit Jahrhunderten das Stadtbild.",
+      hu: "A ljubljanai vár a főváros fölé magasodó jellegzetes erődítmény, amely évszázadok óta meghatározza a városképét.",
+      ro: "Castelul Ljubljana este fortăreața emblematică de deasupra capitalei și definește de secole silueta orașului.",
+      en: "Ljubljana Castle is the signature fortress above the capital and has shaped the city skyline for centuries."
+    },
+    facts: {
+      de: [
+        "Die Anlage geht bis ins 11. Jahrhundert zurück.",
+        "Sie diente als Verteidigungsanlage und Residenz.",
+        "Vom Turm aus gibt es weite Blicke über die Stadt.",
+        "Heute ist sie ein Kultur- und Veranstaltungsort."
+      ],
+      hu: [
+        "Az épületegyüttes gyökerei a 11. századig nyúlnak vissza.",
+        "Védelmi erődítményként és rezidenciaként is szolgált.",
+        "A toronyból széles panoráma nyílik a városra.",
+        "Ma kulturális és rendezvényhelyszínként működik."
+      ],
+      ro: [
+        "Ansamblul datează din secolul al XI-lea.",
+        "A servit drept fortificație și reședință.",
+        "Din turn se deschide o panoramă amplă asupra orașului.",
+        "Astăzi este un loc cultural și de evenimente."
+      ],
+      en: [
+        "The complex dates back to the 11th century.",
+        "It served as both a defensive fortification and a residence.",
+        "The tower offers wide views over the city.",
+        "Today it functions as a cultural and event venue."
+      ]
+    },
+    image: "/geo-images/slovenia/cult-ljubljana-castle.webp"
+  },
+  {
+    id: "cult-piran",
+    type: "culture",
+    parent: "country-slovenia",
+    coords: [13.5683, 45.5281],
+    name: {
+      de: "Piran",
+      hu: "Piran",
+      ro: "Piran",
+      en: "Piran"
+    },
+    description: {
+      de: "Piran ist eine venezianisch geprägte Küstenstadt mit engem historischer Kern und mediterranem Charakter.",
+      hu: "Piran egy velencei hatású tengerparti város, szűk történelmi maggal és mediterrán karakterrel.",
+      ro: "Piran este un oraș de coastă cu puternice influențe venețiene, un nucleu istoric compact și caracter mediteranean.",
+      en: "Piran is a Venetian-influenced coastal town with a compact historic core and a Mediterranean character."
+    },
+    facts: {
+      de: [
+        "Die Stadt ist eine der schönsten Küstenorte an der slowenischen Adria.",
+        "Der Tartini-Platz ist das zentrale Stadthaus-Zentrum.",
+        "Die engen Gassen folgen dem mittelalterlichen Grundriss.",
+        "Piran ist stark von venezianischer Architektur geprägt."
+      ],
+      hu: [
+        "A város a szlovén Adria egyik legszebb települése.",
+        "A Tartini tér a város központi főtere.",
+        "A szűk utcák a középkori alaprajzot követik.",
+        "Piran erősen őrzi a velencei építészet jegyeit."
+      ],
+      ro: [
+        "Orașul este unul dintre cele mai frumoase de pe coasta slovenă a Adriaticii.",
+        "Piața Tartini este centrul orașului.",
+        "Străzile înguste urmează planul medieval.",
+        "Piran este puternic marcat de arhitectura venețiană."
+      ],
+      en: [
+        "The town is one of the most beautiful places on Slovenia's Adriatic coast.",
+        "Tartini Square is the central square of the town.",
+        "The narrow streets follow the medieval layout.",
+        "Piran is strongly shaped by Venetian architecture."
+      ]
+    },
+    image: "/geo-images/slovenia/cult-piran.webp"
+  },
+  {
+    id: "cult-skocjan",
+    type: "culture",
+    parent: "country-slovenia",
+    coords: [13.9897, 45.6628],
+    name: {
+      de: "Höhlen von Škocjan",
+      hu: "Škocjan-barlang",
+      ro: "Peșterile Škocjan",
+      en: "Škocjan Caves"
+    },
+    description: {
+      de: "Die Škocjan-Höhlen gehören zu den beeindruckendsten Karstsystemen Europas und sind für ihren unterirdischen Canyon berühmt.",
+      hu: "A Škocjan-barlangok Európa egyik leglenyűgözőbb karsztos rendszerei közé tartoznak, és földalatti kanyonjukról híresek.",
+      ro: "Peșterile Škocjan sunt printre cele mai impresionante sisteme carstice din Europa și sunt renumite pentru canionul lor subteran.",
+      en: "The Škocjan Caves are among Europe's most impressive karst systems and are famous for their underground canyon."
+    },
+    facts: {
+      de: [
+        "Das Höhlensystem ist UNESCO-Welterbe.",
+        "Der unterirdische Fluss hat einen spektakulären Canyon geformt.",
+        "Das System reicht über mehrere Kilometer ins Innere der Erde.",
+        "Es gehört zu den wichtigsten Karstgebieten der Welt."
+      ],
+      hu: [
+        "A barlangrendszer az UNESCO világörökség része.",
+        "Az földalatti folyó látványos kanyont vájt.",
+        "A rendszer több kilométeren át húzódik a föld alatt.",
+        "A világ egyik legfontosabb karsztvidékének része."
+      ],
+      ro: [
+        "Sistemul de peșteri face parte din Patrimoniul Mondial UNESCO.",
+        "Râul subteran a sculptat un canion spectaculos.",
+        "Sistemul se întinde pe mai mulți kilometri în interiorul pământului.",
+        "Face parte dintre cele mai importante zone carstice din lume."
+      ],
+      en: [
+        "The cave system is a UNESCO World Heritage site.",
+        "The underground river has carved a spectacular canyon.",
+        "The system extends several kilometers underground.",
+        "It is one of the world's most important karst regions."
+      ]
+    },
+    image: "/geo-images/slovenia/cult-skocjan.webp"
+  },
+  {
+    id: "cult-postojna",
+    type: "culture",
+    parent: "country-slovenia",
+    coords: [14.2036, 45.78],
+    name: {
+      de: "Postojna-Höhle und Predjama-Burg",
+      hu: "Postojnai-barlang + Predjamski grad",
+      ro: "Peștera Postojna + Castelul Predjama",
+      en: "Postojna Cave and Predjama Castle"
+    },
+    description: {
+      de: "Die Postojna-Höhle und die Predjama-Burg bilden eines der bekanntesten Natur- und Kulturerlebnisse Sloweniens.",
+      hu: "A Postojnai-barlang és a Predjamski grad Szlovénia egyik legismertebb természeti és kulturális látnivalója.",
+      ro: "Peștera Postojna și Castelul Predjama formează una dintre cele mai cunoscute experiențe naturale și culturale din Slovenia.",
+      en: "Postojna Cave and Predjama Castle make up one of Slovenia's best-known natural and cultural highlights."
+    },
+    facts: {
+      de: [
+        "Die Höhle ist für ihren großen Tropfsteinsaal und ihre Bahn bekannt.",
+        "Predjama ist ein spektakulärer Felsenbau in einer Höhlenöffnung.",
+        "Die Kombination aus Höhle und Burg ist weltweit einzigartig.",
+        "Beide Orte liegen nur eine kurze Strecke auseinander."
+      ],
+      hu: [
+        "A barlang híres nagy cseppkőteréről és barlangi vasútjáról.",
+        "Predjama egy sziklafalba épült, látványos vár.",
+        "A barlang és a vár együttese világszerte egyedülálló.",
+        "A két helyszín csak rövid távolságra van egymástól."
+      ],
+      ro: [
+        "Peștera este cunoscută pentru sala sa mare de stalactite și trenulețul subteran.",
+        "Predjama este un castel spectaculos construit într-o deschidere de stâncă.",
+        "Combinația dintre peșteră și castel este unică în lume.",
+        "Cele două locații se află la mică distanță una de alta."
+      ],
+      en: [
+        "The cave is known for its large chamber and cave railway.",
+        "Predjama is a dramatic castle built into a cliff opening.",
+        "The cave-and-castle combination is unique worldwide.",
+        "The two sites are only a short distance apart."
+      ]
+    },
+    image: "/geo-images/slovenia/cult-postojna.webp"
+  },
+  {
+    id: "cult-bled-castle",
+    type: "culture",
+    parent: "country-slovenia",
+    coords: [14.1053, 46.3631],
+    name: {
+      de: "Burg Bled und Insel",
+      hu: "Bledi-vár + sziget",
+      ro: "Castelul Bled + insula",
+      en: "Bled Castle and Island"
+    },
+    description: {
+      de: "Die Burg von Bled und die kleine Insel im See zählen zu den bekanntesten Bildern Sloweniens.",
+      hu: "A bledi vár és a tó közepén fekvő kis sziget Szlovénia legismertebb képei közé tartoznak.",
+      ro: "Castelul Bled și mica insulă din lac se numără printre cele mai cunoscute imagini ale Sloveniei.",
+      en: "Bled Castle and the small island in the lake are among Slovenia's most iconic sights."
+    },
+    facts: {
+      de: [
+        "Die Burg steht auf einem Felsen hoch über dem See.",
+        "Die Inselkirche ist das zentrale Motiv des Bleder Sees.",
+        "Das Ensemble gehört zu den meistfotografierten Orten des Landes.",
+        "Die Lage mit Alpenhintergrund macht den Ort besonders markant."
+      ],
+      hu: [
+        "A vár a tó fölötti sziklán áll.",
+        "A sziget temploma a Bledi-tó központi látványeleme.",
+        "Az együttes az ország egyik legtöbbet fényképezett helye.",
+        "Az alpesi háttér különösen karakteressé teszi a látványt."
+      ],
+      ro: [
+        "Castelul stă pe o stâncă deasupra lacului.",
+        "Biserica de pe insulă este motivul central al lacului Bled.",
+        "Ansamblul este unul dintre cele mai fotografiate locuri din țară.",
+        "Fundalul alpin face ca locul să fie deosebit de memorabil."
+      ],
+      en: [
+        "The castle stands on a cliff above the lake.",
+        "The island church is the central image of Lake Bled.",
+        "The ensemble is one of the most photographed places in the country.",
+        "The Alpine backdrop makes the site especially striking."
+      ]
+    },
+    image: "/geo-images/slovenia/cult-bled-castle.webp"
+  }
+];
+
+export const sloveniaNature: POI[] = [
+  {
+    id: "nat-triglav",
+    type: "nature",
+    parent: "country-slovenia",
+    coords: [13.8367, 46.3783],
+    name: {
+      de: "Triglav-Nationalpark und Gipfel",
+      hu: "Triglav NP + csúcs 2864m",
+      ro: "Parcul Național Triglav + vârf 2864m",
+      en: "Triglav National Park and Peak"
+    },
+    description: {
+      de: "Der Triglav-Nationalpark schützt den höchsten Berg Sloweniens und weite Teile der Julischen Alpen.",
+      hu: "A Triglav Nemzeti Park Szlovénia legmagasabb hegyét és a Júliai-Alpok nagy részét védi.",
+      ro: "Parcul Național Triglav protejează cel mai înalt munte al Sloveniei și mari părți ale Alpilor Iulieni.",
+      en: "Triglav National Park protects Slovenia's highest mountain and large parts of the Julian Alps."
+    },
+    facts: {
+      de: [
+        "Triglav ist 2864 Meter hoch.",
+        "Der Berg gilt als nationales Symbol Sloweniens.",
+        "Der Park ist das einzige Nationalparkgebiet des Landes.",
+        "Er ist ein Kerngebiet für Wandern und Bergsteigen."
+      ],
+      hu: [
+        "A Triglav 2864 méter magas.",
+        "A hegy Szlovénia nemzeti szimbóluma.",
+        "A park az ország egyetlen nemzeti parkja.",
+        "A térség a túrázás és hegymászás központja."
+      ],
+      ro: [
+        "Triglav are 2864 de metri.",
+        "Muntele este un simbol național al Sloveniei.",
+        "Parcul este singurul parc național al țării.",
+        "Zona este un centru major pentru drumeții și alpinism."
+      ],
+      en: [
+        "Triglav is 2,864 meters high.",
+        "The mountain is a national symbol of Slovenia.",
+        "The park is the country's only national park.",
+        "It is a major area for hiking and mountaineering."
+      ]
+    },
+    image: "/geo-images/slovenia/nat-triglav.webp"
+  },
+  {
+    id: "nat-lake-bled",
+    type: "nature",
+    parent: "country-slovenia",
+    coords: [14.1043, 46.3625],
+    name: {
+      de: "Bleder See",
+      hu: "Bled-tó",
+      ro: "Lacul Bled",
+      en: "Lake Bled"
+    },
+    description: {
+      de: "Der Bleder See ist ein smaragdgrüner Alpensee mit Inselkirche und einer der bekanntesten Naturorte des Landes.",
+      hu: "A Bled-tó egy smaragdzöld alpesi tó szigettemplommal, és az ország egyik legismertebb természeti helyszíne.",
+      ro: "Lacul Bled este un lac alpin de culoare smarald, cu o biserică pe insulă, și unul dintre cele mai cunoscute locuri naturale ale țării.",
+      en: "Lake Bled is an emerald Alpine lake with an island church and one of the country's most famous natural places."
+    },
+    facts: {
+      de: [
+        "Die Insel in der Mitte des Sees ist ein seltenes Naturbild in Slowenien.",
+        "Pletna-Boote bringen Besucher zur Insel.",
+        "Die Uferlage mit den Bergen macht den See besonders malerisch.",
+        "Der See ist ein Symbol des slowenischen Alpentourismus."
+      ],
+      hu: [
+        "A tó közepén lévő sziget ritka természeti látvány Szlovéniában.",
+        "A szigetre Pletna csónakok viszik a látogatókat.",
+        "A hegyekkel övezett part miatt a tó különösen festői.",
+        "A tó a szlovén alpesi turizmus egyik szimbóluma."
+      ],
+      ro: [
+        "Insula din mijlocul lacului este o imagine naturală rară în Slovenia.",
+        "Bărcile Pletna duc vizitatorii la insulă.",
+        "Așezarea la poalele munților face lacul deosebit de pitoresc.",
+        "Lacul este un simbol al turismului alpin sloven."
+      ],
+      en: [
+        "The island in the middle of the lake is a rare natural sight in Slovenia.",
+        "Pletna boats take visitors to the island.",
+        "The mountain setting makes the lake especially picturesque.",
+        "The lake is a symbol of Slovenian Alpine tourism."
+      ]
+    },
+    image: "/geo-images/slovenia/nat-lake-bled.webp"
+  },
+  {
+    id: "nat-soca",
+    type: "nature",
+    parent: "country-slovenia",
+    coords: [13.62, 46.34],
+    name: {
+      de: "Soča-Tal",
+      hu: "Soča-völgy",
+      ro: "Valea Soča",
+      en: "Soča Valley"
+    },
+    description: {
+      de: "Das Soča-Tal ist berühmt für seinen smaragdgrünen Fluss und die dramatische alpine Landschaft.",
+      hu: "A Soča-völgy smaragdzöld folyójáról és drámai alpesi tájáról híres.",
+      ro: "Valea Soča este renumită pentru râul său de culoare smarald și peisajul alpin dramatic.",
+      en: "The Soča Valley is famous for its emerald-green river and dramatic Alpine scenery."
+    },
+    facts: {
+      de: [
+        "Die Farbe des Flusses ist außergewöhnlich intensiv smaragdgrün.",
+        "Das Tal spielte im Ersten Weltkrieg eine wichtige Frontrolle.",
+        "Es ist ein Hotspot für Rafting, Kajak und Canyoning.",
+        "Die Landschaft kombiniert Fluss, Schluchten und Bergkulisse."
+      ],
+      hu: [
+        "A folyó színe különlegesen intenzív smaragdzöld.",
+        "A völgy az első világháborúban fontos frontszakasz volt.",
+        "Népszerű hely raftinghoz, kajakozáshoz és canyoninghoz.",
+        "A táj a folyót, szurdokokat és hegyeket egyszerre mutatja."
+      ],
+      ro: [
+        "Culoarea râului este un verde smarald deosebit de intens.",
+        "Valea a avut un rol important de front în Primul Război Mondial.",
+        "Este un punct de top pentru rafting, caiac și canyoning.",
+        "Peisajul combină râul, cheile și fundalul montan."
+      ],
+      en: [
+        "The river's color is an exceptionally intense emerald green.",
+        "The valley played an important front-line role in World War I.",
+        "It is a hotspot for rafting, kayaking, and canyoning.",
+        "The landscape combines river, gorges, and mountain scenery."
+      ]
+    },
+    image: "/geo-images/slovenia/nat-soca.webp"
+  },
+  {
+    id: "nat-kranjska-gora",
+    type: "nature",
+    parent: "country-slovenia",
+    coords: [13.7828, 46.4842],
+    name: {
+      de: "Kranjska Gora",
+      hu: "Kranjska Gora",
+      ro: "Kranjska Gora",
+      en: "Kranjska Gora"
+    },
+    description: {
+      de: "Kranjska Gora ist ein alpiner Ferienort in Nordwestslowenien, bekannt für Wintersport und Berglandschaften.",
+      hu: "Kranjska Gora egy alpesi üdülőhely Északnyugat-Szlovéniában, amely téli sportjairól és hegyi tájáról híres.",
+      ro: "Kranjska Gora este o stațiune alpină din nord-vestul Sloveniei, cunoscută pentru sporturile de iarnă și peisajele montane.",
+      en: "Kranjska Gora is an Alpine resort in northwestern Slovenia, known for winter sports and mountain scenery."
+    },
+    facts: {
+      de: [
+        "Der Ort ist ein Zentrum für Skifahren und Wintersport.",
+        "Planica liegt in der Nähe und ist berühmt für Skispringen.",
+        "Die Region öffnet den Zugang zu den Julischen Alpen.",
+        "Im Sommer ist sie ein Ausgangspunkt für Wanderungen."
+      ],
+      hu: [
+        "A település a síelés és a téli sportok központja.",
+        "A közeli Planica a síugrásáról híres.",
+        "A régió kaput nyit a Júliai-Alpok felé.",
+        "Nyáron túrák kiindulópontja."
+      ],
+      ro: [
+        "Localitatea este un centru pentru schi și sporturi de iarnă.",
+        "Planica se află în apropiere și este renumită pentru săriturile cu schiurile.",
+        "Regiunea oferă acces la Alpii Iulieni.",
+        "Vara este un punct de plecare pentru drumeții."
+      ],
+      en: [
+        "The place is a center for skiing and winter sports.",
+        "Nearby Planica is famous for ski jumping.",
+        "The region opens access to the Julian Alps.",
+        "In summer it is a starting point for hikes."
+      ]
+    },
+    image: "/geo-images/slovenia/nat-kranjska-gora.webp"
+  },
+  {
+    id: "nat-vintgar",
+    type: "nature",
+    parent: "country-slovenia",
+    coords: [14.0983, 46.3933],
+    name: {
+      de: "Vintgar-Klamm",
+      hu: "Vintgar-szurdok",
+      ro: "Canionul Vintgar",
+      en: "Vintgar Gorge"
+    },
+    description: {
+      de: "Die Vintgar-Klamm ist ein kurzer, aber spektakulärer Schluchtweg mit Holzstegen entlang des Flusses Radovna.",
+      hu: "A Vintgar-szurdok egy rövid, de látványos szurdokút, amely fa pallókon vezet a Radovna folyó mentén.",
+      ro: "Canionul Vintgar este o potecă de chei scurtă, dar spectaculoasă, cu pasarele de lemn de-a lungul râului Radovna.",
+      en: "Vintgar Gorge is a short but spectacular gorge walk with wooden boardwalks along the Radovna River."
+    },
+    facts: {
+      de: [
+        "Der Weg ist etwa 1,6 Kilometer lang.",
+        "Holzstege führen direkt durch die enge Schlucht.",
+        "Wasserfälle und Stromschnellen prägen den Pfad.",
+        "Die Klamm liegt nicht weit von Bled entfernt."
+      ],
+      hu: [
+        "Az út nagyjából 1,6 kilométer hosszú.",
+        "A fapallók közvetlenül a szűk szurdokon vezetnek át.",
+        "Vízesések és sebes szakaszok teszik látványossá.",
+        "A szurdok Bled közelében található."
+      ],
+      ro: [
+        "Traseul are aproximativ 1,6 kilometri.",
+        "Pasarelele de lemn traversează direct canionul îngust.",
+        "Cascada și repezișurile dau farmec traseului.",
+        "Cheile se află nu departe de Bled."
+      ],
+      en: [
+        "The trail is about 1.6 kilometers long.",
+        "Wooden boardwalks run directly through the narrow gorge.",
+        "Waterfalls and rapids define the route.",
+        "The gorge is not far from Bled."
+      ]
+    },
+    image: "/geo-images/slovenia/nat-vintgar.webp"
+  }
+];
+
 export const sloveniaAllPoi: POI[] = [
   sloveniaCountry,
-  ...sloveniaRegions
+  ...sloveniaRegions,
+  ...sloveniaCities,
+  ...sloveniaCulture,
+  ...sloveniaNature
 ];
