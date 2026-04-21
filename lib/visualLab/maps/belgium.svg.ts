@@ -34,10 +34,10 @@ export interface BelgiumRegionPath {
 export const belgiumMap: BelgiumRegionPath[] = [
   {
     id: "BE",
-    name: {"de":"Belgien","hu":"Belgium","ro":"Belgia","en":"Belgium"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Brüssel",
-    labelX: 351.3,
-    labelY: 356.4,
+    labelX: -9999,
+    labelY: -9999,
     path: "M336.846,345.347L347.068,347.101L360.011,342.454L368.849,352.22L376.524,357.393L374.938,372.215L371.298,373.036L369.785,385.171L357.57,375.318L350.405,377.007L340.661,366.735L334.169,357.909L327.679,357.545L325.657,349.748Z"
   }
 ];

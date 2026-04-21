@@ -32,10 +32,10 @@ export interface LuxembourgRegionPath {
 export const luxembourgMap: LuxembourgRegionPath[] = [
   {
     id: "LU",
-    name: {"de":"Luxemburg","hu":"Luxemburg","ro":"Luxemburg","en":"Luxembourg"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Luxemburg",
-    labelX: 376.2,
-    labelY: 383.4,
+    labelX: -9999,
+    labelY: -9999,
     path: "M374.938,372.215L377.726,377.122L376.938,386.583L372.909,387.037L369.785,385.171L371.298,373.036Z"
   }
 ];

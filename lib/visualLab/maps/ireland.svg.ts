@@ -33,10 +33,10 @@ export interface IrelandRegionPath {
 export const irelandMap: IrelandRegionPath[] = [
   {
     id: "IE",
-    name: {"de":"Irland","hu":"Írország","ro":"Irlanda","en":"Ireland"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Dublin",
-    labelX: 203.2,
-    labelY: 299.5,
+    labelX: -9999,
+    labelY: -9999,
     path: "M204.022,287.346L206.324,304.12L195.77,324.701L171.018,338.09L151.254,334.681L162.575,310.816L155.283,287.019L174.28,268.292L184.833,256.95L187.711,269.948L184.833,282.78L193.468,282.452Z"
   }
 ];

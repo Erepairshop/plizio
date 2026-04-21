@@ -32,10 +32,10 @@ export interface LithuaniaRegionPath {
 export const lithuaniaMap: LithuaniaRegionPath[] = [
   {
     id: "LT",
-    name: {"de":"Litauen","hu":"Litvánia","ro":"Lituania","en":"Lithuania"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Vilnius",
-    labelX: 643.5,
-    labelY: 267.7,
+    labelX: -9999,
+    labelY: -9999,
     path: "M607.947,276.393L606.829,270.264L608.319,263.644L602.147,259.786L587.524,255.511L584.555,234.73L600.547,227.034L623.964,228.648L637.681,226.159L639.639,231.389L647.069,232.998L660.491,245.069L661.803,256.081L650.356,263.877L647.115,277.473L631.956,286.442L618.461,286.281L615.108,278.951Z"
   }
 ];

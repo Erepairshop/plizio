@@ -32,10 +32,10 @@ export interface SloveniaRegionPath {
 export const sloveniaMap: SloveniaRegionPath[] = [
   {
     id: "SI",
-    name: {"de":"Slowenien","hu":"Szlovénia","ro":"Slovenia","en":"Slovenia"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Ljubljana",
-    labelX: 493.1,
-    labelY: 457.4,
+    labelX: -9999,
+    labelY: -9999,
     path: "M483.335,448.242L494.868,449.813L501.914,445.206L514.125,444.7L516.787,441.259L519.136,441.485L521.849,448.354L510.734,453.73L509.376,461.855L504.523,463.904L504.575,469.481L499.096,469.095L494.347,465.84L491.79,469.205L482.059,468.525L485.167,466.717L481.822,458.189Z"
   }
 ];

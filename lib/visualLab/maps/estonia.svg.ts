@@ -32,10 +32,10 @@ export interface EstoniaRegionPath {
 export const estoniaMap: EstoniaRegionPath[] = [
   {
     id: "EE",
-    name: {"de":"Estland","hu":"Észtország","ro":"Estonia","en":"Estonia"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Tallinn",
-    labelX: 636.2,
-    labelY: 145.6,
+    labelX: -9999,
+    labelY: -9999,
     path: "M630.032,189.645L631.653,174.061L626.518,177.412L617.657,167.933L616.446,152.403L634.1,144.777L651.693,140.777L666.841,145.328L681.251,144.515L683.353,149.302L673.418,164.93L677.558,189.685L671.575,197.963L660.061,197.915L648.043,188.227L641.925,185.004Z"
   }
 ];

@@ -32,10 +32,10 @@ export interface LatviaRegionPath {
 export const latviaMap: LatviaRegionPath[] = [
   {
     id: "LV",
-    name: {"de":"Lettland","hu":"Lettország","ro":"Letonia","en":"Latvia"},
+    name: { de: "", hu: "", ro: "", en: "" },
     capital: "Riga",
-    labelX: 627.1,
-    labelY: 211.5,
+    labelX: -9999,
+    labelY: -9999,
     path: "M584.555,234.73L585.038,215.731L591.9,199.589L605.06,190.694L616.148,210.047L627.349,209.548L630.032,189.645L641.925,185.004L648.043,188.227L660.061,197.915L671.575,197.963L678.303,203.924L679.494,216.357L683.982,231.274L668.982,240.901L660.491,245.069L647.069,232.998L639.639,231.389L637.681,226.159L623.964,228.648L600.547,227.034Z"
   }
 ];
