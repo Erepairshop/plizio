@@ -5,45 +5,61 @@ export const greeceCountry: POI = {
   type: "country",
   parent: "EU",
   coords: [23.7275, 37.9838],
-  name: { de: "Griechenland", hu: "GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g", ro: "Grecia", en: "Greece" },
+  name: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" },
   description: {
-    en: "Greece is a country in Southeastern Europe, known as the cradle of Western civilization. It is the birthplace of democracy, Western philosophy, the Olympic Games, and Western literature. The country is famous for its stunning islands, crystal-clear waters, and ancient archaeological sites. Greece's landscape is predominantly mountainous, with one of the longest coastlines in the world, featuring thousands of islands scattered across the Aegean and Ionian seas.",
-    de: "Griechenland ist ein Land in SÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼dosteuropa, das als Wiege der westlichen Zivilisation gilt. Es ist der Geburtsort der Demokratie, der westlichen Philosophie, der Olympischen Spiele und der westlichen Literatur. Das Land ist berÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hmt fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r seine atemberaubenden Inseln, das kristallklare Wasser und die antiken archÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ologischen StÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤tten. Die Landschaft Griechenlands ist ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼berwiegend gebirgig und verfÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼gt ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ber eine der lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ngsten KÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼stenlinien der Welt mit Tausenden von Inseln in der ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤is und im Ionischen Meer.",
-    hu: "GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lkelet-eurÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³pai orszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g, amelyet a nyugati civilizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lcsÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“jekÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt tartanak szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡mon. Itt szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼letett meg a demokrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡cia, a nyugati filozÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³fia, az olimpiai jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kok ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s a nyugati irodalom. Az orszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­res lenyÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â±gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ szigeteirÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l, kristÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡lytiszta vizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szeti lelÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“helyeirÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l. GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡jai tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂºlnyomÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szt hegyvidÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kiek, ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s a vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g egyik leghosszabb partvonalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡val rendelkezik, tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶bb ezer szigettel az ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â°gei- ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s a JÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n-tengeren.",
-    ro: "Grecia este o ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºarÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ din Europa de Sud-Est, cunoscutÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ca leagÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢nul civilizaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºiei occidentale. Este locul de naÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢tere al democraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºiei, al filosofiei occidentale, al Jocurilor Olimpice ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i al literaturii occidentale. ÃƒÆ’Ã‹â€ Ãƒâ€¦Ã‚Â¡ara este faimoasÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ pentru insulele sale uimitoare, apele cristaline ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i siturile arheologice antice. Peisajul Greciei este predominant muntos, avÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nd una dintre cele mai lungi linii de coastÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ din lume, cu mii de insule ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®mprÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢tiate ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n mÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢rile Egee ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i IonicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢."
+    en: "Greece, officially the Hellenic Republic, is a country located in Southeast Europe, situated at the southern tip of the Balkan Peninsula. It is strategically positioned at the crossroads of Europe, Asia, and Africa. Greece is widely regarded as the cradle of Western civilization, being the birthplace of democracy, Western philosophy, the Olympic Games, Western literature, historiography, political science, major scientific and mathematical principles, and Western drama. The country's rich historical legacy is reflected in part by its 19 UNESCO World Heritage Sites, among the most in Europe and the world. Greece consists of a mountainous mainland and thousands of islands, with the longest coastline in the Mediterranean Basin and the 11th longest in the world. Approximately 80% of the country is mountainous, with Mount Olympus being the highest peak at 2,917 meters, traditionally considered the home of the Greek gods. The nation's geography has deeply influenced its history, leading to the development of independent city-states in antiquity and a strong maritime tradition that continues today, as Greece maintains the world's largest merchant navy. Modern Greece is a developed country with a high-income economy and a very high standard of living, ranking high in the Human Development Index. It is a founding member of the United Nations, a member of the European Union since 1981, and part of the Eurozone since 2001. The Greek economy is primarily driven by the service sector, with tourism and shipping being major contributors. Millions of visitors are drawn annually to its iconic archaeological sites, such as the Acropolis of Athens, and its world-famous islands like Santorini, Mykonos, and Crete. The country's climate is primarily Mediterranean, featuring mild, wet winters and hot, dry summers, though the mountainous interior experiences more alpine conditions. Greek culture is a unique blend of ancient heritage, Byzantine influence, and modern European identity, expressed through its language—the oldest recorded living language—its Orthodox Christian traditions, and its world-renowned Mediterranean cuisine, which emphasizes olive oil, fresh vegetables, and seafood. Despite facing significant economic challenges in recent years, Greece remains a pivotal geopolitical actor in the Eastern Mediterranean and a symbol of cultural and historical endurance.",
+    de: "Griechenland, offiziell die Hellenische Republik, ist ein Staat in Südosteuropa am südlichen Ende der Balkanhalbinsel. Es liegt strategisch günstig am Schnittpunkt von Europa, Asien und Afrika. Griechenland gilt weithin als die Wiege der westlichen Zivilisation und ist der Geburtsort der Demokratie, der westlichen Philosophie, der Olympischen Spiele, der westlichen Literatur, der Geschichtsschreibung, der Politikwissenschaft, bedeutender wissenschaftlicher und mathematischer Prinzipien sowie des westlichen Dramas. Das reiche historische Erbe des Landes spiegelt sich unter anderem in seinen 19 UNESCO-Welterbestätten wider, die zu den zahlreichsten in Europa und der Welt gehören. Griechenland besteht aus einem gebirgigen Festland und Tausenden von Inseln und besitzt die längste Küstenlinie im Mittelmeerraum sowie die elftlängste der Welt. Etwa 80 % des Landes sind gebirgig, wobei der Olymp mit 2.917 Metern der höchste Gipfel ist und traditionell als Sitz der griechischen Götter gilt. Die Geografie des Landes hat seine Geschichte tiefgreifend beeinflusst und führte in der Antike zur Entwicklung unabhängiger Stadtstaaten sowie zu einer starken maritimen Tradition, die bis heute anhält, da Griechenland die größte Handelsflotte der Welt unterhält. Das moderne Griechenland ist ein entwickeltes Land mit einer hocheffizienten Wirtschaft und einem sehr hohen Lebensstandard, das im Index der menschlichen Entwicklung weit oben rangiert. Es ist Gründungsmitglied der Vereinten Nationen, seit 1981 Mitglied der Europäischen Union und seit 2001 Teil der Eurozone. Die griechische Wirtschaft wird primär vom Dienstleistungssektor angetrieben, wobei Tourismus und Schifffahrt wesentliche Beiträge leisten. Millionen von Besuchern werden jährlich von den ikonischen archäologischen Stätten wie der Akropolis von Athen und den weltberühmten Inseln wie Santorin, Mykonos und Kreta angezogen. Das Klima des Landes ist überwiegend mediterran mit milden, feuchten Wintern und heißen, trockenen Sommern, während im bergigen Landesinneren eher alpine Bedingungen herrschen. Die griechische Kultur ist eine einzigartige Mischung aus antikem Erbe, byzantinischem Einfluss und moderner europäischer Identität, die sich in ihrer Sprache – der ältesten aufgezeichneten lebenden Sprache –, ihren orthodox-christlichen Traditionen und ihrer weltberühmten mediterranen Küche ausdrückt, die Olivenöl, frisches Gemüse und Meeresfrüchte betont. Trotz erheblicher wirtschaftlicher Herausforderungen in den letzten Jahren bleibt Griechenland ein zentraler geopolitischer Akteur im östlichen Mittelmeerraum und ein Symbol für kulturelle und historische Beständigkeit.",
+    hu: "Görögország, hivatalos nevén a Hellen Köztársaság, Délkelet-Európában, a Balkán-félsziget déli csücskén elhelyezkedő ország. Stratégiai fekvése révén Európa, Ázsia és Afrika kereszteződésében található. Görögországot széles körben a nyugati civilizáció bölcsőjének tekintik, hiszen itt született meg a demokrácia, a nyugati filozófia, az olimpiai játékok, a nyugati irodalom, a történetírás, a politikatudomány, számos tudományos és matematikai alapelv, valamint a nyugati dráma. Az ország gazdag történelmi örökségét tükrözi a 19 UNESCO Világörökségi helyszín, ami az egyik legmagasabb szám Európában és a világon. Görögország egy hegyvidéki szárazföldből és több ezer szigetből áll, a Földközi-tenger medencéjének leghosszabb, a világ 11. leghosszabb partvonalával rendelkezik. Az ország területének körülbelül 80%-a hegyvidék, legmagasabb pontja a 2917 méter magas Olümposz-hegy, amelyet a hagyomány a görög istenek lakhelyének tart. Az ország földrajza mélyen befolyásolta történelmét, az antikvitásban független városállamok kialakulásához és egy erős tengeri hagyományhoz vezetett, amely ma is él: Görögország rendelkezik a világ legnagyobb kereskedelmi flottájával. A modern Görögország fejlett ország, magas jövedelmű gazdasággal és igen magas életszínvonallal, előkelő helyen szerepel az emberi fejlettségi indexen. Az ENSZ alapító tagja, 1981 óta az Európai Unió, 2001 óta pedig az eurózóna tagja. A görög gazdaságot elsősorban a szolgáltatási szektor hajtja, a turizmus és a hajózás a legfontosabb ágazatok. Évente látogatók millióit vonzzák az olyan ikonikus régészeti helyszínek, mint az athéni Akropolisz, valamint a világhírű szigetek, mint Szantorini, Mükonosz és Kréta. Az ország éghajlata túlnyomórészt mediterrán, enyhe, csapadékos telekkel és forró, száraz nyarakkal, bár a hegyvidéki belső területeken alpesi körülmények uralkodnak. A görög kultúra az ókori örökség, a bizánci hatás és a modern európai identitás egyedülálló ötvözete, amely megnyilvánul nyelvében – a legrégebbi feljegyzett élő nyelvben –, ortodox keresztény hagyományaiban és világhírű mediterrán konyhájában, amely az olívaolajra, a friss zöldségekre és a tenger gyümölcseire épül. Az elmúlt évek jelentős gazdasági kihívásai ellenére Görögország továbbra is kulcsfontosságú geopolitikai szereplő a Kelet-Mediterráneumban, valamint a kulturális és történelmi kitartás szimbóluma.",
+    ro: "Grecia, oficial Republica Elenă, este o țară situată în Europa de Sud-Est, în extremitatea sudică a Peninsulei Balcanice. Este poziționată strategic la intersecția dintre Europa, Asia și Africa. Grecia este considerată pe scară largă leagănul civilizației occidentale, fiind locul de naștere al democrației, al filosofiei occidentale, al Jocurilor Olimpice, al literaturii occidentale, al istoriografiei, al științelor politice, al principiilor științifice și matematice majore și al dramei occidentale. Moștenirea istorică bogată a țării este reflectată parțial de cele 19 situri din Patrimoniul Mondial UNESCO, printre cele mai numeroase din Europa și din lume. Grecia este formată dintr-o parte continentală muntoasă și mii de insule, având cea mai lungă linie de coastă din bazinul mediteranean și a 11-a ca lungime din lume. Aproximativ 80% din țară este muntoasă, Muntele Olimp fiind cel mai înalt vârf, la 2.917 metri, considerat tradițional casa zeilor greci. Geografia națiunii a influențat profund istoria sa, ducând la dezvoltarea orașelor-stat independente în antichitate și a unei puternice tradiții maritime care continuă și astăzi, Grecia menținând cea mai mare flotă comercială din lume. Grecia modernă este o țară dezvoltată, cu o economie cu venituri mari și un standard de viață foarte ridicat, ocupând un loc fruntaș în Indicele Dezvoltării Umane. Este membru fondator al Națiunilor Unite, membru al Uniunii Europene din 1981 și parte a zonei euro din 2001. Economia greacă este susținută în principal de sectorul serviciilor, turismul și transportul maritim fiind contribuitori majori. Milioane de vizitatori sunt atrași anual de siturile arheologice iconice, cum ar fi Acropola din Atena, și de insulele sale faimoase în întreaga lume, precum Santorini, Mykonos și Creta. Clima țării este predominant mediteraneană, cu ierni blânde și umede și veri calde și uscate, deși interiorul muntos experimentează condiții mai alpine. Cultura greacă este un amestec unic de moștenire antică, influență bizantină și identitate europeană modernă, exprimată prin limba sa – cea mai veche limbă vie atestată –, tradițiile sale creștine ortodoxe și bucătăria sa mediteraneană renumită, care pune accent pe uleiul de măsline, legumele proaspete și fructele de mare. În ciuda provocărilor economice semnificative din ultimii ani, Grecia rămâne un actor geopolitic pivot în Mediterana de Est și un simbol al rezilienței culturale și istorice."
   },
   facts: {
     en: [
-      "Greece has more than 2,000 islands, of which about 170 are inhabited.",
-      "No point in Greece is more than 137 kilometers away from the sea.",
-      "Athens is one of the world's oldest cities, with recorded history spanning over 3,400 years.",
-      "The first Olympic Games were held in 776 BC in Olympia.",
-      "Greece is the world's leading producer of sea sponges.",
-      "Mount Olympus is the highest point in Greece and was considered the home of the gods."
+      "Greece has approximately 6,000 islands and islets, but only about 227 are inhabited.",
+      "The Greek merchant navy is the largest in the world, accounting for about 20% of global shipping capacity.",
+      "Athens is one of the oldest cities in the world, with a recorded history spanning over 3,400 years.",
+      "Greece is the world's third-largest producer of edible olives and olive oil.",
+      "No point in Greece is more than 137 kilometers (85 miles) away from the sea.",
+      "The first Olympic Games were held in 776 BC in Olympia, dedicated to the god Zeus.",
+      "Greece has more archaeological museums than any other country in the world.",
+      "Mount Olympus, the highest peak at 2,917m, was the first National Park established in Greece (1938).",
+      "The Greek language has been spoken for more than 3,000 years, making it one of the oldest living languages.",
+      "Greece enjoys an average of more than 250 days of sunshine, or about 3,000 hours, per year."
     ],
     de: [
-      "Griechenland hat mehr als 2.000 Inseln, von denen etwa 170 bewohnt sind.",
+      "Griechenland hat etwa 6.000 Inseln und Inselchen, von denen jedoch nur etwa 227 bewohnt sind.",
+      "Die griechische Handelsflotte ist die größte der Welt und macht etwa 20 % der weltweiten Schifffahrtskapazität aus.",
+      "Athen ist eine der ältesten Städte der Welt mit einer dokumentierten Geschichte von über 3.400 Jahren.",
+      "Griechenland ist der weltweit drittgrößte Produzent von Speiseoliven und Olivenöl.",
       "Kein Punkt in Griechenland ist mehr als 137 Kilometer vom Meer entfernt.",
-      "Athen ist eine der ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ltesten StÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤dte der Welt mit einer dokumentierten Geschichte von ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ber 3.400 Jahren.",
-      "Die ersten Olympischen Spiele fanden 776 v. Chr. in Olympia statt.",
-      "Griechenland ist der weltweit fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hrende Produzent von NaturschwÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤mmen.",
-      "Der Olymp ist der hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶chste Punkt Griechenlands und galt als Sitz der GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tter."
+      "Die ersten Olympischen Spiele fanden 776 v. Chr. in Olympia statt und waren dem Gott Zeus gewidmet.",
+      "Griechenland hat mehr archäologische Museen als jedes andere Land der Welt.",
+      "Der Olymp, mit 2.917 m der höchste Gipfel, war der erste Nationalpark, der 1938 in Griechenland eingerichtet wurde.",
+      "Die griechische Sprache wird seit mehr als 3.000 Jahren gesprochen und ist damit eine der ältesten lebenden Sprachen.",
+      "Griechenland genießt durchschnittlich mehr als 250 Sonnentage oder etwa 3.000 Sonnenstunden pro Jahr."
     ],
     hu: [
-      "GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gnak tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶bb mint 2000 szigete van, amelyek kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lbelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l 170 lakott.",
-      "GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g egyetlen pontja sincs 137 kilomÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ternÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©l messzebb a tengertÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l.",
-      "AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n a vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g egyik legrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gebbi vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa, tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶bb mint 3400 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ves ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­rott tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelemmel.",
-      "Az elsÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ olimpiai jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kokat i. e. 776-ban tartottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mpiÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ban.",
-      "GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g a vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g vezetÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ tengeri szivacs termelÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“je.",
-      "Az OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mposz-hegy GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g legmagasabb pontja, ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az istenek lakhelyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nek tartottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k."
+      "Görögországnak körülbelül 6000 szigete és szigetecskéje van, de ezek közül csak mintegy 227 lakott.",
+      "A görög kereskedelmi flotta a legnagyobb a világon, a globális szállítási kapacitás mintegy 20%-át teszi ki.",
+      "Athén a világ egyik legrégebbi városa, több mint 3400 éves írott történelemmel rendelkezik.",
+      "Görögország a világ harmadik legnagyobb étkezési olajbogyó- és olívaolaj-termelője.",
+      "Görögország egyetlen pontja sincs 137 kilométernél messzebb a tengertől.",
+      "Az első olimpiai játékokat i. e. 776-ban tartották Olümpiában, Zeusz isten tiszteletére.",
+      "Görögországban több régészeti múzeum található, mint a világ bármely más országában.",
+      "A 2917 méter magas Olümposz-hegy volt az első nemzeti park, amelyet Görögországban alapítottak (1938).",
+      "A görög nyelvet több mint 3000 éve besvélik, így az egyik legrégebbi élő nyelv a világon.",
+      "Görögországban évente átlagosan több mint 250 napsütéses nap van, ami körülbelül 3000 órát jelent."
     ],
     ro: [
-      "Grecia are peste 2.000 de insule, dintre care aproximativ 170 sunt locuite.",
-      "Niciun punct din Grecia nu se aflÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ la mai mult de 137 de kilometri distanÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de mare.",
-      "Atena este unul dintre cele mai vechi oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢e din lume, cu o istorie documentatÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de peste 3.400 de ani.",
-      "Primele Jocuri Olimpice au avut loc ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n anul 776 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®.Hr. la Olimpia.",
-      "Grecia este cel mai mare producÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢tor mondial de bureÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºi de mare.",
-      "Muntele Olimp este cel mai ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®nalt punct din Grecia ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i a fost considerat casa zeilor."
+      "Grecia are aproximativ 6.000 de insule și insulițe, dar numai aproximativ 227 sunt locuite.",
+      "Marina comercială greacă este cea mai mare din lume, reprezentând aproximativ 20% din capacitatea globală de transport maritim.",
+      "Atena este unul dintre cele mai vechi orașe din lume, cu o istorie documentată de peste 3.400 de ani.",
+      "Grecia este al treilea producător mondial de măsline comestibile și ulei de măsline.",
+      "Niciun punct din Grecia nu se află la mai mult de 137 de kilometri de mare.",
+      "Primele Jocuri Olimpice au avut loc în 776 î.Hr. la Olimpia, fiind dedicate zeului Zeus.",
+      "Grecia are mai multe muzee arheologice decât orice altă țară din lume.",
+      "Muntele Olimp, cel mai înalt vârf la 2.917 m, a fost primul parc național înființat în Grecia (1938).",
+      "Limba greacă este vorbită de peste 3.000 de ani, fiind una dintre cele mai vechi limbi vii.",
+      "Grecia se bucură de o medie de peste 250 de zile însorite, sau aproximativ 3.000 de ore, pe an."
     ]
   },
   image: "/geo-images/greece/greece-main.webp",
@@ -55,19 +71,63 @@ export const greeceRegions: POI[] = [
     type: "city",
     parent: "greece",
     coords: [23.7275, 37.9838],
-    name: { de: "Athen", hu: "AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n", ro: "Atena", en: "Athens" },
+    name: { de: "Athen", hu: "Athén", ro: "Atena", en: "Athens" },
     description: {
-      en: "Athens is the capital and largest city of Greece, dominated by landmarks of the 5th century BC, including the Acropolis. It is a vibrant metropolis that seamlessly blends ancient history with modern life. The city is an open-air museum, where every corner reveals a piece of the past, from the Parthenon to the ancient Agora. Athens is also a cultural hub with world-class museums, theaters, and a lively culinary scene.",
-      de: "Athen ist die Hauptstadt und grÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸te Stadt Griechenlands, dominiert von Wahrzeichen aus dem 5. Jahrhundert v. Chr., darunter die Akropolis. Es ist eine pulsierende Metropole, die antike Geschichte nahtlos mit modernem Leben verbindet. Die Stadt ist ein Freilichtmuseum, in dem jede Ecke ein StÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ck Vergangenheit offenbart, vom Parthenon bis zur antiken Agora. Athen ist auch ein kulturelles Zentrum mit erstklassigen Museen, Theatern und einer lebendigen kulinarischen Szene.",
-      hu: "AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s legnagyobb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa, amelyet az i. e. 5. szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡zadi mÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â±emlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kek, kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ztÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼k az Akropolisz uralnak. VibrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ metropolisz, amely zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶kkenÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“mentesen ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zi az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelmet a modern ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lettel. A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ros egy szabadtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ri mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºzeum, ahol minden sarok a mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºlt egy darabjÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡t tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rja fel, a ParthenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ntÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori AgorÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ig. AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n kulturÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡lis kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpont is, vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nvonalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âº mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºzeumokkal, szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nhÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡zakkal ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nk gasztronÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³miÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡val.",
-      ro: "Atena este capitala ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i cel mai mare oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ al Greciei, dominat de monumente din secolul al V-lea ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®.Hr., inclusiv Acropola. Este o metropolÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ vibrantÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ care ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®mbinÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ perfect istoria anticÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ cu viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºa modernÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢. OraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ul este un muzeu ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n aer liber, unde fiecare colÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº dezvÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢luie o bucatÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ din trecut, de la Partenon la vechea Agora. Atena este, de asemenea, un centru cultural cu muzee de talie mondialÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢, teatre ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i o scenÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ culinarÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ plinÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢."
-    },
+        en: "Athens, the capital of Greece and the historical heart of Europe, is a city where the ancient and modern worlds collide in a spectacular display of cultural continuity. With a recorded history spanning over 3,400 years, it is one of the world's oldest cities and is widely recognized as the cradle of Western civilization and the birthplace of democracy. The city's skyline is dominated by the Acropolis, a rocky outcrop crowned by the Parthenon, an architectural masterpiece dedicated to the goddess Athena, the city's patron. This UNESCO World Heritage site serves as a constant reminder of the Golden Age of Pericles, when philosophy, art, and science flourished, laying the foundations for Western thought. Below the Acropolis lies the Plaka district, the oldest neighborhood in Athens, with its labyrinthine streets, neoclassical architecture, and vibrant atmosphere. Here, visitors can explore the Ancient Agora, once the center of political and social life, where Socrates and Plato debated. Modern Athens is a sprawling metropolis that has undergone significant transformation, especially since hosting the 2004 Summer Olympics. It is a bustling hub of economic activity, culture, and nightlife. The city offers a wealth of world-class museums, including the Acropolis Museum, which houses treasures from the citadel in a stunning contemporary setting, and the National Archaeological Museum, home to the world's most important collection of ancient Greek art. Beyond its historical sites, Athens is known for its lively street life, from the busy markets of Monastiraki to the upscale boutiques of Kolonaki. The city's culinary scene is equally diverse, ranging from traditional tavernas serving souvlaki and moussaka to innovative fine-dining establishments. Athens also serves as the gateway to the stunning Greek islands, with the port of Piraeus being one of the busiest in the Mediterranean. The city's climate is typically Mediterranean, with hot, dry summers and mild winters, making it a year-round destination. Despite the challenges of urbanization, Athens remains a city of immense charm and resilience, offering a unique journey through time. Whether walking through the ruins of the Temple of Olympian Zeus or enjoying a sunset from Lycabettus Hill, the highest point in the city, visitors are immersed in a narrative that has shaped the course of human history. Athens is not just a relic of the past; it is a living, breathing city that continues to inspire and captivate people from all over the world.",
+        de: "Athen, die Hauptstadt Griechenlands und das historische Herz Europas, ist eine Stadt, in der antike und moderne Welten in einer spektakulären Darstellung kultureller Kontinuität aufeinandertreffen. Mit einer dokumentierten Geschichte von über 3.400 Jahren ist sie eine der ältesten Städte der Welt und gilt weithin als Wiege der westlichen Zivilisation und Geburtsort der Demokratie. Die Skyline der Stadt wird von der Akropolis dominiert, einem felsigen Vorsprung, der vom Parthenon gekrönt wird – einem architektonischen Meisterwerk, das der Göttin Athene, der Schutzpatronin der Stadt, gewidmet ist. Dieses UNESCO-Weltkulturerbe erinnert ständig an das Goldene Zeitalter des Perikles, in dem Philosophie, Kunst und Wissenschaft blühten und die Grundlagen für das westliche Denken legten. Unterhalb der Akropolis liegt das Viertel Plaka, das älteste Viertel Athens, mit seinen labyrinthartigen Gassen, klassizistischer Architektur und lebendiger Atmosphäre. Hier können Besucher die Antike Agora erkunden, einst das Zentrum des politischen und sozialen Lebens, in dem Sokrates und Platon debattierten. Das moderne Athen ist eine weitläufige Metropole, die insbesondere seit der Ausrichtung der Olympischen Sommerspiele 2004 eine bedeutende Transformation durchlaufen hat. Es ist ein pulsierendes Zentrum für Wirtschaft, Kultur und Nachtleben. Die Stadt bietet eine Fülle von erstklassigen Museen, darunter das Akropolis-Museum, das Schätze der Zitadelle in einem beeindruckenden zeitgenössischen Rahmen beherbergt, und das Archäologische Nationalmuseum, das die weltweit bedeutendste Sammlung antiker griechischer Kunst beherbergt. Über seine historischen Stätten hinaus ist Athen für sein lebhaftes Straßenleben bekannt, von den geschäftigen Märkten von Monastiraki bis zu den exklusiven Boutiquen von Kolonaki. Die kulinarische Szene der Stadt ist ebenso vielfältig und reicht von traditionellen Tavernen, die Souvlaki und Moussaka servieren, bis hin zu innovativen Gourmetrestaurants. Athen dient auch als Tor zu den atemberaubenden griechischen Inseln, wobei der Hafen von Piräus einer der geschäftigsten im Mittelmeerraum ist. Das Klima der Stadt ist typisch mediterran mit heißen, trockenen Sommern und milden Wintern, was sie zu einem ganzjährigen Reiseziel macht. Trotz der Herausforderungen der Urbanisierung bleibt Athen eine Stadt von immensem Charme und Widerstandsfähigkeit, die eine einzigartige Reise durch die Zeit bietet. Ob man durch die Ruinen des Tempels des olympischen Zeus wandert oder einen Sonnenuntergang vom Lykabettus-Hügel, dem höchsten Punkt der Stadt, genießt – Besucher tauchen in eine Erzählung ein, die den Lauf der Menschheitsgeschichte geprägt hat. Athen ist nicht nur ein Relikt der Vergangenheit; es ist eine lebendige, atmende Stadt, die weiterhin Menschen aus aller Welt inspiriert und fesselt.",
+        hu: "Athén, Görögország fővárosa és Európa történelmi szíve, egy olyan város, ahol az ókori és a modern világ a kulturális folytonosság látványos megjelenítésében találkozik. Több mint 3400 éves írott történelmével a világ egyik legrégebbi városa, és széles körben a nyugati civilizáció bölcsőjeként, valamint a demokrácia szülőhelyeként ismerik el. A város látképét az Akropolisz uralja, egy sziklás magaslat, amelyet a Parthenón koronáz meg – egy építészeti remekmű, amelyet Athéné istennőnek, a város védelmezőjének szenteltek. Ez az UNESCO Világörökségi helyszín állandó emlékeztető Periklész aranykorára, amikor a filozófia, a művészet és a tudomány virágzott, lefektetve a nyugati gondolkodás alapjait. Az Akropolisz alatt fekszik a Plaka negyed, Athén legrégebbi városrésze, labirintusszerű utcáival, neoklasszicista építészetével és vibráló hangulatával. Itt a látogatók felfedezhetik az ókori Agorát, amely egykor a politikai és társadalmi élet központja volt, ahol Szókratész és Platón vitatkozott. A modern Athén egy kiterjedt metropolisz, amely jelentős átalakuláson ment keresztül, különösen a 2004-es nyári olimpiai játékok megrendezése óta. A gazdasági tevékenység, a kultúra és az éjszakai élet nyüzsgő központja. A város világszínvonalú múzeumok tárházát kínálja, köztük az Akropolisz Múzeumot, amely lenyűgöző kortárs környezetben őrzi a citadella kincseit, és a Nemzeti Régészeti Múzeumot, amely a világ legjelentősebb ókori görög művészeti gyűjteményének ad otthont. Történelmi helyszínein túl Athén híres élénk utcai életéről, a Monastiraki nyüzsgő piacaitól Kolonaki előkelő butikjaiig. A város gasztronómiai kínálata hasonlóan sokszínű, a hagyományos tavernák souvlakijától és moussakájától az innovatív fine-dining éttermekig terjed. Athén egyben kapuként is szolgál a lenyűgöző görög szigetekhez, Pireusz kikötője a Földközi-tenger egyik legforgalmasabbja. A város éghajlata tipikusan mediterrán, forró, száraz nyarakkal és enyhe telekkel, ami egész évben vonzó úti céllá teszi. Az urbanizáció kihívásai ellenére Athén továbbra is hatalmas bájjal és ellenálló képességgel rendelkező város, amely egyedülálló időutazást kínál. Legyen szó az olimpiai Zeusz-templom romjai közötti sétáról vagy a város legmagasabb pontjáról, a Lükabéttosz-hegyről élvezett naplementéről, a látogatók elmerülnek egy olyan történetben, amely meghatározta az emberi történelem menetét. Athén nem csupán a múlt emléke; ez egy élő, lélegző város, amely továbbra is inspirálja és lenyűgözi az embereket a világ minden tájáról.",
+        ro: "Atena, capitala Greciei și inima istorică a Europei, este un oraș în care lumile antică și modernă se ciocnesc într-o afișare spectaculoasă de continuitate culturală. Cu o istorie documentată de peste 3.400 de ani, este unul dintre cele mai vechi orașe din lume și este recunoscut pe scară largă ca leagănul civilizației occidentale și locul de naștere al democrației. Orizontul orașului este dominat de Acropolă, o proeminență stâncoasă încoronată de Partenon, o capodoperă arhitecturală dedicată zeiței Atena, patroana orașului. Acest sit al Patrimoniului Mondial UNESCO servește ca o reamintire constantă a Epocii de Aur a lui Pericle, când filosofia, arta și știința au înflorit, punând bazele gândirii occidentale. Sub Acropolă se află cartierul Plaka, cel mai vechi cartier din Atena, cu străzile sale labirintice, arhitectura neoclasică și atmosfera vibrantă. Aici, vizitatorii pot explora Agora Antică, odinioară centrul vieții politice și sociale, unde Socrate și Platon dezbăteau. Atena modernă este o metropolă întinsă care a suferit o transformare semnificativă, în special de la găzduirea Jocurilor Olimpice de vară din 2004. Esre un centru plin de activitate economică, cultură și viață de noapte. Orașul oferă o multitudine de muzee de talie mondială, inclusiv Muzeul Acropolei, care adăpostește comori din citadelă într-un cadru contemporan uimitor, și Muzeul Național de Arheologie, casa celei mai importante colecții de artă greacă antică din lume. Dincolo de siturile sale istorice, Atena este cunoscută pentru viața sa stradală plină de viață, de la piețele aglomerate din Monastiraki la buticurile de lux din Kolonaki. Scena culinară a orașului este la fel de diversă, variind de la taverne tradiționale care servesc souvlaki și moussaka până la restaurante inovatoare de tip fine-dining. Atena servește, de asemenea, ca poartă de acces către insulele grecești uimitoare, portul Pireu fiind unul dintre cele mai aglomerate din Mediterana. Clima orașului este tipic mediteraneană, cu veri calde și uscate și ierni blânde, ceea ce îl face o destinație pentru tot anul. În ciuda provocărilor urbanizării, Atena rămâne un oraș cu un farmec imens și reziliență, oferind o călătorie unică prin timp. Fie că vă plimbați prin ruinele Templului lui Zeus Olimpianul sau vă bucurați de un apus de soare de pe dealul Lycabettus, cel mai înalt punct din oraș, vizitatorii sunt cufundați într-o narativă care a modelat cursul istoriei umane. Atena nu este doar o relicvă a trecutului; este un oraș viu, care respiră și care continuă să inspire și să captiveze oameni din întreaga lume."
+      },
     facts: {
-      en: ["The Acropolis is a UNESCO World Heritage site.","Athens hosted the first modern Olympic Games in 1896.","The city is named after the goddess Athena.","The Parthenon was built as a temple for Athena."],
-      de: ["Die Akropolis ist ein UNESCO-Weltkulturerbe.","Athen war 1896 Gastgeber der ersten modernen Olympischen Spiele.","Die Stadt ist nach der GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ttin Athene benannt.","Der Parthenon wurde als Tempel fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r Athene erbaut."],
-      hu: ["Az Akropolisz az UNESCO VilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©sze.","AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n adott otthont az elsÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ modern olimpiai jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©koknak 1896-ban.","A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rost AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© istennÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l neveztÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k el.","A ParthenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³nt AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© templomakÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tettÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k."],
-      ro: ["Acropola este un sit al Patrimoniului Mondial UNESCO.","Atena a gÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢zduit primele Jocuri Olimpice moderne ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n 1896.","OraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ul poartÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ numele zeiÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºei Atena.","Partenonul a fost construit ca templu pentru Atena."]
-    },
+        en: [
+          "Athens is the oldest capital city in Europe, with continuous habitation for at least 5,000 years.",
+          "The city is named after Athena, the Greek goddess of wisdom and war, following a legendary contest with Poseidon.",
+          "Athens hosted the first modern Olympic Games in 1896 at the Panathenaic Stadium, the only stadium in the world built entirely of marble.",
+          "The Parthenon, although appearing perfectly straight, contains no straight lines; its columns lean slightly inward to create an optical illusion of perfection.",
+          "Athens has more theatrical stages than any other city in the world, including London's West End and New York's Broadway.",
+          "The city was the birthplace of the world's first known democracy, established around 508 BC.",
+          "The Acropolis Museum is built over an extensive archaeological site, with glass floors allowing visitors to see the ancient ruins below.",
+          "Athens is home to the Academy of Athens, the highest research establishment in the country, named after Plato's original Academy.",
+          "The city's metro system features 'museum stations' where archaeological finds discovered during construction are displayed.",
+          "Lycabettus Hill, standing at 277 meters, offers the best panoramic views of the entire city and the Saronic Gulf."
+        ],
+        de: [
+          "Athen ist die älteste Hauptstadt Europas mit einer kontinuierlichen Besiedlung seit mindestens 5.000 Jahren.",
+          "Die Stadt ist nach Athene, der griechischen Göttin der Weisheit und des Krieges, benannt, nach einem legendären Wettstreit mit Poseidon.",
+          "Athen war 1896 Gastgeber der ersten modernen Olympischen Spiele im Panathinaiko-Stadion, dem einzigen Stadion der Welt, das vollständig aus Marmor gebaut wurde.",
+          "Der Parthenon enthält, obwohl er perfekt gerade erscheint, keine geraden Linien; seine Säulen neigen sich leicht nach innen, um eine optische Täuschung der Perfektion zu erzeugen.",
+          "Athen hat mehr Theaterbühnen als jede andere Stadt der Welt, einschließlich des Londoner West End und des New Yorker Broadway.",
+          "Die Stadt war der Geburtsort der ersten bekannten Demokratie der Welt, die um 508 v. Chr. gegründet wurde.",
+          "Das Akropolis-Museum wurde über einer weitläufigen archäologischen Stätte errichtet, wobei Glasböden den Besuchern den Blick auf die antiken Ruinen darunter ermöglichen.",
+          "In Athen befindet sich die Akademie von Athen, die höchste Forschungseinrichtung des Landes, benannt nach Platons ursprünglicher Akademie.",
+          "Das Metrosystem der Stadt verfügt über 'Museumsstationen', in denen archäologische Funde ausgestellt werden, die während des Baus entdeckt wurden.",
+          "Der Lykabettus-Hügel bietet mit 277 Metern den besten Panoramablick über die gesamte Stadt und den Saronischen Golf."
+        ],
+        hu: [
+          "Athén Európa legrégebbi fővárosa, legalább 5000 éve folyamatosan lakott terület.",
+          "A várost Athénéről, a bölcsesség és a háború görög istennőjéről nevezték el, egy Poszeidónnal vívott legendás vetélkedés után.",
+          "Athén adott otthont az első modern olimpiai játékoknak 1896-ban a Panathinaiko Stadionban, amely a világ egyetlen, teljes egészében márványból épült stadionja.",
+          "A Parthenón, bár tökéletesen egyenesnek tűnik, nem tartalmaz egyenes vonalakat; oszlopai enyhén befelé dőlnek, hogy a tökéletesség optikai illúzióját keltsék.",
+          "Athénban több színházi színpad található, mint a világ bármely más városában, beleértve a londoni West Endet és a New York-i Broadway-t is.",
+          "A város volt a világ első ismert demokráciájának szülőhelye, amelyet i. e. 508 körül alapítottak.",
+          "Az Akropolisz Múzeum egy kiterjedt régészeti lelőhely fölé épült, üvegpadlója lehetővé teszi a látogatók számára az alatta lévő ókori romok megtekintését.",
+          "Athén ad otthont az Athéni Akadémiának, az ország legmagasabb kutatóintézetének, amelyet Platón eredeti Akadémiájáról neveztek el.",
+          "A város metróhálózatában 'múzeumállomások' találhatók, ahol az építkezés során feltárt régészeti leleteket állítják ki.",
+          "A 277 méter magas Lükabéttosz-hegy kínálja a legjobb panorámát az egész városra és a Szaroniki-öbölre."
+        ],
+        ro: [
+          "Atena este cea mai veche capitală din Europa, cu o locuire continuă de cel puțin 5.000 de ani.",
+          "Orașul poartă numele Atenei, zeița greacă a înțelepciunii și a războiului, în urma unei dispute legendare cu Poseidon.",
+          "Atena a găzduit primele Jocuri Olimpice moderne în 1896 pe Stadionul Panathenaic, singurul stadion din lume construit în întregime din marmură.",
+          "Partenonul, deși pare perfect drept, nu conține linii drepte; coloanele sale se înclină ușor spre interior pentru a crea o iluzie optică de perfecțiune.",
+          "Atena are mai multe scene de teatru decât orice alt oraș din lume, inclusiv West End din Londra și Broadway din New York.",
+          "Orașul a fost locul de naștere al primei democrații cunoscute din lume, stabilită în jurul anului 508 î.Hr.",
+          "Muzeul Acropolei este construit peste un sit arheologic extins, cu podele de sticlă care permit vizitatorilor să vadă ruinele antice de dedesubt.",
+          "Atena găzduiește Academia din Atena, cea mai înaltă instituție de cercetare din țară, numită după Academia originală a lui Platon.",
+          "Sistemul de metrou al orașului are 'stații-muzeu' unde sunt expuse descoperirile arheologice făcute în timpul construcției.",
+          "Dealul Lycabettus, situat la 277 de metri, oferă cele mai bune vederi panoramice asupra întregului oraș și a Golfului Saronic."
+        ]
+      },
     image: "/geo-images/greece/athens.webp",
   },
   {
@@ -77,17 +137,53 @@ export const greeceRegions: POI[] = [
     coords: [22.9444, 40.6401],
     name: { de: "Thessaloniki", hu: "Thesszaloniki", ro: "Salonic", en: "Thessaloniki" },
     description: {
-      en: "Thessaloniki is Greece's second-largest city and the capital of the Macedonia region. Known for its rich Byzantine history, vibrant waterfront, and diverse culture, it offers a unique blend of old and new. The city's landmarks include the White Tower, the Arch of Galerius, and numerous Byzantine churches. Thessaloniki is also famous for its gastronomy and lively nightlife.",
-      de: "Thessaloniki ist die zweitgrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸te Stadt Griechenlands und die Hauptstadt der Region Makedonien. Bekannt fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r ihre reiche byzantinische Geschichte, die lebhafte Uferpromenade und die vielfÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ltige Kultur, bietet sie eine einzigartige Mischung aus Alt und Neu. Zu den Wahrzeichen der Stadt gehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ren der WeiÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸e Turm, der Galeriusbogen und zahlreiche byzantinische Kirchen. Thessaloniki ist auch berÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hmt fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r seine Gastronomie und sein lebhaftes Nachtleben.",
-      hu: "Thesszaloniki GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sodik legnagyobb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s a MakedÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³nia rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©giÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa. Gazdag bizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nci tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelmÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l, vibrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­zpartjÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s sokszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â± kultÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂºrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l ismert, a rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gi ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºj egyedÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ keverÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©t kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡lja. A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ros nevezetessÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gei kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© tartozik a FehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r Torony, GalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©riusz diadalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ve ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡mos bizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nci templom. Thesszaloniki hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­res gasztronÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³miÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nk ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©jszakai ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©letÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l is.",
-      ro: "Salonic este al doilea oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ ca mÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢rime din Grecia ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i capitala regiunii Macedonia. Cunoscut pentru bogata sa istorie bizantinÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢, faleza vibrantÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i cultura diversÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢, oferÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ un amestec unic de vechi ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i nou. Monumentele oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ului includ Turnul Alb, Arcul lui Galerius ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i numeroase biserici bizantine. Salonic este, de asemenea, faimos pentru gastronomia sa ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºa de noapte plinÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢."
-    },
+        en: "Thessaloniki, Greece's second-largest city and the capital of the Macedonia region, is a vibrant port city that serves as a cultural and historical crossroads. Founded in 315 BC by Cassander, it was named after his wife, the half-sister of Alexander the Great. The city's rich history is evident in its diverse architectural landscape, which includes Roman, Byzantine, and Ottoman monuments. Thessaloniki is particularly famous for its UNESCO World Heritage-listed Early Christian and Byzantine monuments, such as the Rotunda and the Church of Saint Demetrius. The iconic White Tower, standing prominently on the waterfront, is the city's most recognizable landmark and houses a museum dedicated to its history. Thessaloniki is also known as Greece's cultural capital, hosting numerous festivals, including the Thessaloniki International Film Festival. The city's waterfront promenade is a popular spot for locals and visitors alike, offering stunning views of the Thermaic Gulf and Mount Olympus in the distance. Thessaloniki's culinary scene is legendary, often considered the best in Greece, with a unique blend of Balkan and Mediterranean influences. The city's lively atmosphere is fueled by its large student population, making it a center of youth culture and nightlife. From the bustling markets of Modiano and Kapani to the trendy cafes of Aristotelous Square, Thessaloniki offers a dynamic urban experience that honors its past while embracing the future.",
+        de: "Thessaloniki, die zweitgrößte Stadt Griechenlands und Hauptstadt der Region Makedonien, ist eine lebendige Hafenstadt, die als kultureller und historischer Knotenpunkt dient. Gegründet im Jahr 315 v. Chr. von Kassander, wurde sie nach seiner Frau, der Halbschwester Alexanders des Großen, benannt. Die reiche Geschichte der Stadt zeigt sich in ihrer vielfältigen Architektur, die römische, byzantinische und osmanische Denkmäler umfasst. Thessaloniki ist besonders bekannt für seine zum UNESCO-Weltkulturerbe gehörenden frühchristlichen und byzantinischen Denkmäler, wie die Rotunde und die Kirche des Heiligen Demetrios. Der ikonische Weiße Turm an der Uferpromenade ist das bekannteste Wahrzeichen der Stadt und beherbergt ein Museum zu ihrer Geschichte. Thessaloniki gilt auch als Kulturhauptstadt Griechenlands und ist Gastgeber zahlreicher Festivals, darunter das Thessaloniki International Film Festival. Die Uferpromenade ist ein beliebter Treffpunkt für Einheimische und Besucher und bietet einen herrlichen Blick auf den Thermaischen Golf und den in der Ferne sichtbaren Olymp. Die kulinarische Szene Thessalonikis ist legendär und gilt oft als die beste Griechenlands, mit einer einzigartigen Mischung aus balkanischen und mediterranen Einflüssen. Die lebendige Atmosphäre der Stadt wird durch die große Anzahl an Studenten geprägt, was sie zu einem Zentrum der Jugendkultur und des Nachtlebens macht. Von den geschäftigen Märkten Modiano und Kapani bis zu den trendigen Cafés am Aristoteles-Platz bietet Thessaloniki ein dynamisches urbanes Erlebnis, das seine Vergangenheit ehrt und gleichzeitig die Zukunft begrüßt.",
+        hu: "Thesszaloniki, Görögország második legnagyobb városa és Makedónia régió központja, egy vibráló kikötőváros, amely kulturális és történelmi válaszútként szolgál. I. e. 315-ben alapította Kasszandrosz, és feleségéről, Nagy Sándor féltestvéréről nevezte el. A város gazdag történelme tükröződik változatos építészeti örökségében, amely római, bizánci és oszmán műemlékeket egyaránt magában foglal. Thesszaloniki különösen híres az UNESCO Világörökség részét képező kora keresztény és bizánci emlékeiről, mint például a Rotunda és a Szent Demeter-templom. Az ikonikus Fehér Torony, amely a tengerparton áll, a város legismertebb jelképe, és ma helytörténeti múzeumnak ad otthont. Thesszalonikit Görögország kulturális fővárosaként is emlegetik, számos fesztiválnak ad otthont, köztük a Thesszaloniki Nemzetközi Filmfesztiválnak. A tengerparti sétány a helyiek és a turisták kedvelt találkozóhelye, ahonnan lenyűgöző kilátás nyílik a Thermai-öbölre és a távolban magasodó Olümposz-hegyre. A város gasztronómiája legendás, gyakran Görögország legjobbjának tartják, a balkáni és a mediterrán hatások egyedi ötvözetével. Thesszaloniki élénk hangulatát nagy létszámú egyetemi hallgatósága is táplálja, így az ifjúsági kultúra és az éjszakai élet központja. A Modiano és Kapani nyüzsgő piacaitól az Arisztotelész tér trendi kávézóiig Thesszaloniki olyan dinamikus városi élményt nyújt, amely tiszteli a múltat, miközben nyitott a jövőre.",
+        ro: "Salonic, al doilea oraș ca mărime din Grecia și capitala regiunii Macedonia, este un oraș portuar vibrant care servește ca o răscruce culturală și istorică. Fondat în 315 î.Hr. de Casandru, a fost numit după soția sa, sora vitregă a lui Alexandru cel Mare. Istoria bogată a orașului este evidentă în peisajul său arhitectural divers, care include monumente romane, bizantine și otomane. Salonic este faimos în special pentru monumentele sale paleocreștine și bizantine incluse în Patrimoniul Mondial UNESCO, cum ar fi Rotonda și Biserica Sfântul Dumitru. Iconicul Turn Alb, situat pe faleză, este cel mai recognoscibil simbol al orașului și găzduiește un muzeu dedicat istoriei sale. Salonic este cunoscut și ca capitala culturală a Greciei, găzduind numeroase festivaluri, inclusiv Festivalul Internațional de Film de la Salonic. Promenada de pe malul mării este un loc popular atât pentru localnici, cât și pentru vizitatori, oferind priveliști uimitoare asupra Golfului Thermaic și a Muntelui Olimp în depărtare. Scena culinară din Salonic este legendară, fiind adesea considerată cea mai bună din Grecia, cu un amestec unic de influențe balcanice și mediteraneene. Atmosfera plină de viață a orașului este susținută de populația sa mare de studenți, făcându-l un centru al culturii tineretului și al vieții de noapte. De la piețele aglomerate Modiano și Kapani până la cafenelele moderne din Piața Aristotelous, Salonic oferă o experiență urbană dinamică ce onorează trecutul său în timp ce îmbrățișează viitorul."
+      },
     facts: {
-      en: ["The White Tower is the symbol of the city.","The city was founded in 315 BC.","It is home to many UNESCO World Heritage Byzantine monuments.","Thessaloniki is known as the 'co-capital' of Greece."],
-      de: ["Der WeiÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸e Turm ist das Wahrzeichen der Stadt.","Die Stadt wurde 315 v. Chr. gegrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ndet.","Sie beherbergt viele byzantinische DenkmÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ler des UNESCO-Weltkulturerbes.","Thessaloniki ist als 'Mit-Hauptstadt' Griechenlands bekannt."],
-      hu: ["A FehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r Torony a vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ros szimbÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³luma.","A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rost i. e. 315-ben alapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k.","SzÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡mos UNESCO VilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©t kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pezÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ bizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nci mÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â±emlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©knek ad otthont.","Thesszalonikit GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g 'tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rsfÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosakÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt' is ismerik."],
-      ro: ["Turnul Alb este simbolul oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ului.","OraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ul a fost fondat ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n anul 315 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®.Hr.","GÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢zduieÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢te multe monumente bizantine din Patrimoniul Mondial UNESCO.","Salonic este cunoscut drept 'co-capitala' Greciei."]
-    },
+        en: [
+          "Thessaloniki was the second most important city of the Byzantine Empire after Constantinople.",
+          "The city's White Tower was originally part of the city's fortifications and was once known as the 'Tower of Blood'.",
+          "Thessaloniki is home to the Aristotle University, the largest university in Greece and the Balkans.",
+          "The city has more UNESCO World Heritage sites (15) than almost any other European city of its size.",
+          "Thessaloniki was the birthplace of Mustafa Kemal Atatürk, the founder of modern Turkey.",
+          "The Arch of Galerius and the Rotunda are among the best-preserved Roman monuments in the city.",
+          "The city's waterfront promenade is one of the longest in Europe, stretching for about 5 kilometers.",
+          "Thessaloniki is famous for its 'bougatsa', a traditional breakfast pastry filled with cream or cheese."
+        ],
+        de: [
+          "Thessaloniki war nach Konstantinopel die zweitwichtigste Stadt des Byzantinischen Reiches.",
+          "Der Weiße Turm war ursprünglich Teil der Stadtbefestigung und war einst als 'Blutturm' bekannt.",
+          "In Thessaloniki befindet sich die Aristoteles-Universität, die größte Universität Griechenlands und des Balkans.",
+          "Die Stadt hat mehr UNESCO-Welterbestätten (15) als fast jede andere europäische Stadt ihrer Größe.",
+          "Thessaloniki war der Geburtsort von Mustafa Kemal Atatürk, dem Gründer der modernen Türkei.",
+          "Der Galeriusbogen und die Rotunde gehören zu den am besten erhaltenen römischen Denkmälern der Stadt.",
+          "Die Uferpromenade der Stadt ist eine der längsten in Europa und erstreckt sich über etwa 5 Kilometer.",
+          "Thessaloniki ist berühmt für seine 'Bougatsa', ein traditionelles Frühstücksgebäck mit Creme- oder Käsefüllung."
+        ],
+        hu: [
+          "Thesszaloniki a Bizánci Birodalom második legfontosabb városa volt Konstantinápoly után.",
+          "A város Fehér Tornya eredetileg a város erődítményének része volt, és egykor 'Vértorony' néven ismerték.",
+          "Thesszaloniki ad otthont az Arisztotelész Egyetemnek, amely Görögország és a Balkán legnagyobb egyeteme.",
+          "A városban több UNESCO Világörökségi helyszín (15) található, mint szinte bármely más hasonló méretű európai városban.",
+          "Thesszaloniki volt Mustafa Kemal Atatürk, a modern Törökország alapítójának szülőhelye.",
+          "Galerius diadalíve és a Rotunda a város legjobb állapotban fennmaradt római kori műemlékei közé tartozik.",
+          "A város tengerparti sétánya az egyik leghosszabb Európában, körülbelül 5 kilométer hosszan nyúlik el.",
+          "Thesszaloniki híres a 'bougatsa'-ról, amely egy hagyományos, krémmel vagy sajttal töltött reggeli sütemény."
+        ],
+        ro: [
+          "Salonic a fost al doilea cel mai important oraș al Imperiului Bizantin, după Constantinopol.",
+          "Turnul Alb a fost inițial parte a fortificațiilor orașului și a fost cunoscut odată sub numele de 'Turnul Sângelui'.",
+          "Salonic găzduiește Universitatea Aristotel, cea mai mare universitate din Grecia și din Balcani.",
+          "Orașul are mai multe situri din Patrimoniul Mondial UNESCO (15) decât aproape orice alt oraș european de mărimea sa.",
+          "Salonic a fost locul de naștere al lui Mustafa Kemal Atatürk, fondatorul Turciei moderne.",
+          "Arcul lui Galerius și Rotonda se numără printre cele mai bine conservate monumente romane din oraș.",
+          "Promenada de pe malul mării este una dintre cele mai lungi din Europa, întinzându-se pe aproximativ 5 kilometri.",
+          "Salonic este faimos pentru 'bougatsa', un produs de patiserie tradițional pentru micul dejun, umplut cu cremă sau brânză."
+        ]
+      },
     image: "/geo-images/greece/thessaloniki.webp",
   },
   {
@@ -95,19 +191,63 @@ export const greeceRegions: POI[] = [
     type: "region",
     parent: "greece",
     coords: [24.8093, 35.2401],
-    name: { de: "Kreta", hu: "KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta", ro: "Creta", en: "Crete" },
+    name: { de: "Kreta", hu: "Kréta", ro: "Creta", en: "Crete" },
     description: {
-      en: "Crete is the largest and most populous of the Greek islands, known for its varied terrain and rich history. It was the center of the Minoan civilization, the earliest advanced civilization in Europe. The island offers everything from bustling cities and ancient ruins like Knossos to beautiful beaches and rugged mountains. Crete is also famous for its unique culture, music, and healthy Mediterranean diet.",
-      de: "Kreta ist die grÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸te und bevÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lkerungsreichste der griechischen Inseln, bekannt fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r ihr abwechslungsreiches GelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤nde und ihre reiche Geschichte. Sie war das Zentrum der minoischen Zivilisation, der frÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hesten Hochkultur in Europa. Die Insel bietet alles von geschÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ftigen StÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤dten und antiken Ruinen wie Knossos bis hin zu wunderschÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nen StrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤nden und schroffen Bergen. Kreta ist auch berÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hmt fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r seine einzigartige Kultur, Musik und die gesunde mediterrane ErnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤hrung.",
-      hu: "KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta a legnagyobb ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s legnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pesebb gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g sziget, amely vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ltozatos terepviszonyairÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s gazdag tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelmÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l ismert. Ez volt a minÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³szi civilizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³, EurÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³pa legkorÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡bbi fejlett civilizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nak kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja. A sziget a nyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼zsgÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosoktÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az olyan ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori romoktÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l kezdve, mint KnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³sszosz, a gyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â± strandokig ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s a zord hegyekig mindent kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡l. KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­res egyedi kultÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂºrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l, zenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s egÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szsÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ges mediterrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡n ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©trendjÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“l is.",
-      ro: "Creta este cea mai mare ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i mai populatÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ dintre insulele greceÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ti, cunoscutÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ pentru terenul sÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢u variat ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i istoria bogatÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢. A fost centrul civilizaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºiei minoice, cea mai timpurie civilizaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºie avansatÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ din Europa. Insula oferÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de toate, de la oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢e pline de viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i ruine antice precum Knossos, pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ la plaje frumoase ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i munÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºi accidentaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºi. Creta este, de asemenea, faimoasÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ pentru cultura sa unicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢, muzicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i dieta mediteraneanÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ sÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢nÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢toasÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢."
-    },
+        en: "Crete, the largest and most populous of the Greek islands, is a land of myth, history, and breathtaking natural beauty. Located in the southern part of the Aegean Sea, it is the fifth-largest island in the Mediterranean and serves as a bridge between Europe, Africa, and Asia. Crete is famously known as the birthplace of the Minoan civilization, the earliest advanced civilization in Europe, which flourished from approximately 2700 to 1420 BC. The Palace of Knossos, located near the capital city of Heraklion, is the most significant archaeological site of this era and is associated with the legend of the Minotaur and the Labyrinth. The island's landscape is incredibly diverse, featuring rugged mountains that stretch from west to east, fertile plateaus, and some of the most beautiful beaches in the world, such as Elafonisi and Balos. The White Mountains (Lefka Ori) in the west are home to the Samaria Gorge, one of the longest and most spectacular canyons in Europe. Crete's history is a tapestry of various influences, including Roman, Byzantine, Venetian, and Ottoman rule, all of which have left their mark on the island's architecture and culture. The Venetian harbors of Chania and Rethymno are among the most picturesque spots in Greece, reflecting the island's maritime importance. Cretan culture is distinct and deeply rooted in tradition, expressed through its unique music, characterized by the lyra and lute, and its spirited folk dances. The island is also world-renowned for its healthy and delicious cuisine, which is the foundation of the Mediterranean diet. Cretan olive oil, wild herbs, honey, and local cheeses are staples that contribute to the longevity of its inhabitants. The people of Crete are known for their exceptional hospitality (philoxenia) and strong sense of independence. Modern Crete is a major tourist destination, offering everything from luxury resorts to remote mountain villages where traditional ways of life are still preserved. Whether exploring ancient ruins, hiking through dramatic landscapes, or simply enjoying the crystal-clear waters of the Libyan Sea, visitors to Crete are immersed in an environment that is both timeless and vibrant. The island's strategic location and rich resources have made it a pivotal player in Mediterranean history for millennia, and it continues to be a symbol of cultural richness and natural splendor.",
+        de: "Kreta, die größte und bevölkerungsreichste der griechischen Inseln, ist ein Land der Mythen, der Geschichte und der atemberaubenden Naturschönheiten. Im südlichen Teil der Ägäis gelegen, ist sie die fünftgrößte Insel im Mittelmeer und dient als Brücke zwischen Europa, Afrika und Asien. Kreta ist bekannt als Geburtsort der minoischen Zivilisation, der frühesten Hochkultur Europas, die von etwa 2700 bis 1420 v. Chr. blühte. Der Palast von Knossos bei Iraklio ist die bedeutendste archäologische Stätte dieser Ära und wird mit der Legende des Minotaurus und des Labyrinths in Verbindung gebracht. Die Landschaft der Insel ist unglaublich vielfältig und geprägt von schroffen Gebirgszügen, die sich von West nach Ost erstrecken, fruchtbaren Hochebenen und einigen der schönsten Strände der Welt wie Elafonisi und Balos. Die Weißen Berge (Lefka Ori) im Westen beherbergen die Samaria-Schlucht, eine der längsten und spektakulärsten Schluchten Europas. Kretas Geschichte ist ein Mosaik aus verschiedenen Einflüssen, darunter römische, byzantinische, venezianische und osmanische Herrschaft, die alle ihre Spuren in der Architektur und Kultur der Insel hinterlassen haben. Die venezianischen Häfen von Chania und Rethymno gehören zu den malerischsten Orten Griechenlands. Die kretische Kultur ist eigenständig und tief in Traditionen verwurzelt, was sich in ihrer einzigartigen Musik mit Lyra und Laute sowie in temperamentvollen Volkstänzen ausdrückt. Die Insel ist zudem weltberühmt für ihre gesunde und köstliche Küche, die als Basis der Mittelmeerdiät gilt. Kretisches Olivenöl, Wildkräuter, Honig und lokaler Käse sind Grundnahrungsmittel, die zur Langlebigkeit der Bewohner beitragen. Die Menschen auf Kreta sind bekannt für ihre außergewöhnliche Gastfreundschaft (Philoxenia) und ihren starken Unabhängigkeitssinn. Das moderne Kreta ist ein bedeutendes Touristenziel, das alles von Luxusresorts bis hin zu abgelegenen Bergdörfern bietet. Ob man antike Ruinen erkundet, durch dramatische Landschaften wandert oder einfach das kristallklare Wasser des Libyschen Meeres genießt – Besucher Kretas tauchen in eine zeitlose und lebendige Welt ein.",
+        hu: "Kréta, a görög szigetek legnagyobbika és legnépesebbje, a mítoszok, a történelem és a lélegzetelállító természeti szépségek földje. Az Égei-tenger déli részén található, a Földközi-tenger ötödik legnagyobb szigete, amely hídként szolgál Európa, Afrika és Ázsia között. Kréta a minószi civilizáció, Európa első fejlett kultúrájának szülőhelyeként ismert, amely i. e. 2700 és 1420 között virágzott. A főváros, Iráklio közelében található knósszoszi palota e korszak legjelentősebb régészeti lelőhelye, amelyhez a Minótaurosz és a Labirintus legendája fűződik. A sziget tájai rendkívül változatosak: nyugatról keletre húzódó vad hegyvonulatok, termékeny fennsíkok és a világ legszebb strandjai közé tartozó partok, mint Elafoniszi és Balosz jellemzik. A nyugati Fehér-hegységben (Lefka Ori) található a Szamaria-szurdok, Európa egyik leghosszabb és leglátványosabb kanyonja. Kréta történelme különböző hatások – római, bizánci, velencei és oszmán uralom – szövevénye, amelyek mindegyike nyomot hagyott az építészeten és a kultúrán. Chania és Rethymno velencei kikötői Görögország legfestőibb helyei közé tartoznak. A krétai kultúra sajátos és mélyen gyökerezik a hagyományokban, amit az egyedi, lírán és lanton alapuló zene, valamint a tüzes néptáncok fejeznek ki. A sziget világhírű egészséges és ízletes konyhájáról is, amely a mediterrán étrend alapja. A krétai olívaolaj, a vadon termő gyógynövények, a méz és a helyi sajtok hozzájárulnak az itt élők hosszú életéhez. Kréta lakói kivételes vendégszeretetükről (philoxenia) és erős függetlenségi érzésükről ismertek. A modern Kréta jelentős turisztikai célpont, amely a luxusüdülőhelyektől a hagyományos életmódot őrző távoli hegyi falvakig mindent kínál. Legyen szó az ókori romok felfedezéséről, túrázásról a drámai tájakon vagy a Líbiai-tenger kristálytiszta vizének élvezetéről, a Krétára látogatók egy időtlen és vibráló környezetben merülhetnek el.",
+        ro: "Creta, cea mai mare și mai populată dintre insulele grecești, este un tărâm al mitului, istoriei și frumuseții naturale uluitoare. Situată în partea de sud a Mării Egee, este a cincea insulă ca mărime din Mediterana și servește ca o punte între Europa, Africa și Asia. Creta este faimoasă ca fiind locul de naștere al civilizației minoice, prima civilizație avansată din Europa, care a înflorit între aproximativ 2700 și 1420 î.Hr. Palatul din Knossos, situat lângă capitala Heraklion, este cel mai important sit arheologic al acestei ere și este asociat cu legenda Minotaurului și a Labirintului. Peisajul insulei este incredibil de divers, prezentând munți accidentați care se întind de la vest la est, platouri fertile și unele dintre cele mai frumoase plaje din lume, cum ar fi Elafonisi și Balos. Munții Albi (Lefka Ori) din vest găzduiesc Cheile Samariei, unul dintre cele mai lungi și spectaculoase canioane din Europa. Istoria Cretei este o tapiserie de diverse influențe, inclusiv stăpânirea romană, bizantină, venețiană și otomană, toate lăsându-și amprenta asupra arhitecturii și culturii insulei. Porturile venețiene din Chania și Rethymno sunt printre cele mai pitorești locuri din Grecia. Cultura cretană este distinctă și profund înrădăcinată în tradiție, exprimată prin muzica sa unică, caracterizată de liră și lăută, și prin dansurile sale populare pline de viață. Insula este, de asemenea, renumită în întreaga lume pentru bucătăria sa sănătoasă și delicioasă, care stă la baza dietei mediteraneene. Uleiul de măsline cretan, ierburile sălbatice, mierea și brânzeturile locale sunt alimente de bază care contribuie la longevitatea locuitorilor săi. Oamenii din Creta sunt cunoscuți pentru ospitalitatea lor excepțională (philoxenia) și simțul puternic al independenței. Creta modernă este o destinație turistică majoră, oferind de toate, de la stațiuni de lux până la sate montane îndepărtate unde modurile tradiționale de viață sunt încă păstrate. Indiferent dacă explorează ruinele antice, fac drumeții prin peisaje dramatice sau pur și simplu se bucură de apele cristaline ale Mării Libiei, vizitatorii Cretei sunt cufundați într-un mediu care este atât atemporal, cât și vibrant."
+      },
     facts: {
-      en: ["Knossos is the largest Bronze Age archaeological site on Crete.","The island is the birthplace of Zeus according to Greek mythology.","Crete has its own distinct dialect and musical tradition.","The Samaria Gorge is one of the longest canyons in Europe."],
-      de: ["Knossos ist die grÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸te archÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ologische StÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤tte der Bronzezeit auf Kreta.","Die Insel ist laut griechischer Mythologie der Geburtsort von Zeus.","Kreta hat seinen eigenen Dialekt und seine eigene Musiktradition.","Die Samaria-Schlucht ist einer der lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ngsten Canyons in Europa."],
-      hu: ["KnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³sszosz a legnagyobb bronzkori rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szeti lelÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“hely KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡n.","A gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g mitolÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³gia szerint a sziget Zeusz szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“helye.","KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nak sajÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tos nyelvjÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sa ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s zenei hagyomÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nya van.","A Szamaria-szurdok EurÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³pa egyik leghosszabb kanyonja."],
-      ro: ["Knossos este cel mai mare sit arheologic din epoca bronzului din Creta.","Insula este locul de naÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢tere al lui Zeus conform mitologiei greceÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ti.","Creta are propriul sÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢u dialect distinct ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i tradiÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºie muzicalÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢.","Cheile Samariei sunt unul dintre cele mai lungi canioane din Europa."]
-    },
+        en: [
+          "Crete is the birthplace of Zeus, the king of the Greek gods, according to Greek mythology.",
+          "The Minoan civilization on Crete was the first in Europe to use a written language (Linear A and Linear B).",
+          "The Samaria Gorge is a World Biosphere Reserve and one of the longest gorges in Europe at 16 kilometers.",
+          "Crete has been inhabited continuously since the Aceramic Neolithic period, around 7000 BC.",
+          "The island has over 30 million olive trees, and Cretans are among the highest consumers of olive oil in the world.",
+          "The Palace of Knossos had advanced features for its time, including a complex drainage system and multi-story buildings.",
+          "Crete was an independent state (Cretan State) from 1898 to 1913 before joining Greece.",
+          "Mount Ida (Psiloritis) is the highest point on the island, reaching an elevation of 2,456 meters.",
+          "The island features unique flora and fauna, including the Kri-Kri, a wild goat found only in Crete.",
+          "Crete is home to the oldest olive tree in the world, located in the village of Vouves, estimated to be over 3,000 years old."
+        ],
+        de: [
+          "Kreta ist laut griechischer Mythologie der Geburtsort von Zeus, dem König der griechischen Götter.",
+          "Die minoische Zivilisation auf Kreta war die erste in Europa, die eine Schriftsprache verwendete (Linear A und Linear B).",
+          "Die Samaria-Schlucht ist ein Weltbiosphärenreservat und mit 16 Kilometern eine der längsten Schluchten Europas.",
+          "Kreta ist seit dem akeramischen Neolithikum, etwa 7000 v. Chr., kontinuierlich bewohnt.",
+          "Auf der Insel gibt es über 30 Millionen Olivenbäume, und die Kreter gehören zu den weltweit größten Konsumenten von Olivenöl.",
+          "Der Palast von Knossos verfügte über für seine Zeit fortschrittliche Merkmale wie ein komplexes Entwässerungssystem.",
+          "Kreta war von 1898 bis 1913 ein unabhängiger Staat (Kretischer Staat), bevor es sich Griechenland anschloss.",
+          "Der Berg Ida (Psiloritis) ist mit 2.456 Metern der höchste Punkt der Insel.",
+          "Die Insel beherbergt eine einzigartige Flora und Fauna, darunter die Kri-Kri, eine Wildziege, die nur auf Kreta vorkommt.",
+          "Auf Kreta steht der älteste Olivenbaum der Welt im Dorf Vouves, dessen Alter auf über 3.000 Jahre geschätzt wird."
+        ],
+        hu: [
+          "A görög mitológia szerint Kréta Zeusz, a görög istenek királyának szülőhelye.",
+          "A krétai minószi civilizáció volt az első Európában, amely írásbeliséget használt (Lineáris A és Lineáris B).",
+          "A Szamaria-szurdok bioszféra-rezervátum, és 16 kilométeres hosszával Európa egyik leghosszabb szurdoka.",
+          "Kréta az i. e. 7000 körüli neolitikum óta folyamatosan lakott terület.",
+          "A szigeten több mint 30 millió olajfa található, és a krétaiak a világ legnagyobb olívaolaj-fogyasztói közé tartoznak.",
+          "A knósszoszi palota korát megelőző megoldásokkal rendelkezett, például összetett csatornarendszerrel.",
+          "Kréta 1898 és 1913 között független állam volt (Krétai Állam), mielőtt csatlakozott Görögországhoz.",
+          "Az Ida-hegy (Psziloritisz) a sziget legmagasabb pontja, 2456 méteres magassággal.",
+          "A sziget egyedülálló növény- és állatvilággal rendelkezik, ilyen például a kri-kri, egy csak itt élő vadkecske.",
+          "Krétán, Vouves faluban található a világ legöregebb olajfája, amelynek korát több mint 3000 évesre becsülik."
+        ],
+        ro: [
+          "Creta este locul de naștere al lui Zeus, regele zeilor greci, conform mitologiei grecești.",
+          "Civilizația minoică din Creta a fost prima din Europa care a folosit un limbaj scris (Liniar A și Liniar B).",
+          "Cheile Samariei sunt o Rezervație Mondială a Biosferei și una dintre cele mai lungi chei din Europa, având 16 kilometri.",
+          "Creta a fost locuită continuu încă din perioada neoliticului aceramic, în jurul anului 7000 î.Hr.",
+          "Insula are peste 30 de milioane de măslini, iar cretanii sunt printre cei mai mari consumatori de ulei de măsline din lume.",
+          "Palatul din Knossos avea dotări avansate pentru acea vreme, inclusiv un sistem complex de drenaj.",
+          "Creta a fost un stat independent (Statul Cretan) din 1898 până în 1913, înainte de a se uni cu Grecia.",
+          "Muntele Ida (Psiloritis) este cel mai înalt punct de pe insulă, atingând o altitudine de 2.456 de metri.",
+          "Insula prezintă o floră și faună unice, inclusiv Kri-Kri, o capră sălbatică care se găsește doar în Creta.",
+          "În Creta se află cel mai bătrân măslin din lume, situat în satul Vouves, estimat la o vechime de peste 3.000 de ani."
+        ]
+      },
     image: "/geo-images/greece/crete.webp",
   }
 ];
@@ -118,19 +258,55 @@ export const greeceCities: POI[] = [
     type: "city",
     parent: "greece",
     coords: [25.1442, 35.3387],
-    name: { de: "Heraklion", hu: "Iraklio", ro: "Heraklion", en: "Heraklion" },
+    name: { de: "Iraklio", hu: "Iráklio", ro: "Heraklion", en: "Heraklion" },
     description: {
-      de: "Heraklion KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta legnagyobb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s Knossos kapuja.",
-      hu: "Iraklio KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta legnagyobb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa, ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s KnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³sszosz felÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© vezetÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ kapu.",
-      ro: "Heraklion este cel mai mare oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ al Cretei ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i poarta spre Knossos.",
-      en: "Heraklion is Crete's largest city and the gateway to Knossos."
-    },
+        en: "Heraklion, the capital of Crete and the fourth-largest city in Greece, is a dynamic urban center that serves as the island's primary gateway. The city's history is a fascinating blend of Minoan, Byzantine, Arab, Venetian, and Ottoman influences, all of which have shaped its unique character. Heraklion is most famous for its proximity to the Palace of Knossos, the center of the ancient Minoan civilization and the legendary home of King Minos. Within the city itself, the massive Venetian walls, which are among the best-preserved in Europe, stand as a testament to its strategic importance during the Middle Ages. The Koules Fortress, located at the entrance of the old harbor, is another iconic landmark that offers stunning views of the Cretan Sea. Heraklion is also home to the Heraklion Archaeological Museum, one of the most important museums in the world, housing the finest collection of Minoan art and artifacts. The city's vibrant center is filled with lively squares, such as Lions Square (Morosini Fountain), where locals and visitors gather to enjoy traditional Cretan coffee and pastries. Modern Heraklion is a bustling commercial and academic hub, with a thriving culinary scene that highlights the best of Cretan gastronomy. From its busy markets to its trendy boutiques, the city offers a rich cultural experience that bridges the gap between its glorious past and its energetic present.",
+        de: "Iraklio, die Hauptstadt Kretas und die viertgrößte Stadt Griechenlands, ist ein dynamisches urbanes Zentrum, das als wichtigstes Tor zur Insel dient. Die Geschichte der Stadt ist eine faszinierende Mischung aus minoischen, byzantinischen, arabischen, venezianischen und osmanischen Einflüssen, die alle ihren einzigartigen Charakter geprägt haben. Iraklio ist vor allem für seine Nähe zum Palast von Knossos bekannt, dem Zentrum der antiken minoischen Zivilisation. In der Stadt selbst zeugen die gewaltigen venezianischen Mauern, die zu den am besten erhaltenen in Europa gehören, von ihrer strategischen Bedeutung im Mittelalter. Die Festung Koules am Eingang des alten Hafens ist ein weiteres ikonisches Wahrzeichen. Iraklio beherbergt zudem das Archäologische Museum von Iraklio, eines der bedeutendsten Museen der Welt, das die weltweit beste Sammlung minoischer Kunst beherbergt. Das lebendige Zentrum der Stadt ist geprägt von Plätzen wie dem Löwenplatz (Morosini-Brunnen), wo man traditionellen kretischen Kaffee und Gebäck genießen kann. Das moderne Iraklio ist ein geschäftiges Handels- und akademisches Zentrum mit einer blühenden kulinarischen Szene, die das Beste der kretischen Gastronomie hervorhebt. Von seinen belebten Märkten bis hin zu trendigen Boutiquen bietet die Stadt ein reiches kulturelles Erlebnis, das die Brücke zwischen seiner glorreichen Vergangenheit und seiner energetischen Gegenwart schlägt.",
+        hu: "Iráklio, Kréta fővárosa és Görögország negyedik legnagyobb városa, egy dinamikus városi központ, amely a sziget elsődleges kapujaként szolgál. A város történelme a minószi, bizánci, arab, velencei és oszmán hatások lenyűgöző keveréke, amelyek mindegyike hozzájárult egyedi karakterének kialakulásához. Iráklio leginkább a knósszoszi palota közelségéről híres, amely az ókori minószi civilizáció központja és Minósz király legendás otthona volt. Magában a városban a hatalmas velencei falak, amelyek Európa legjobb állapotban fennmaradt erődítményei közé tartoznak, a középkori stratégiai jelentőségéről tanúskodnak. A régi kikötő bejáratánál található Koules-erőd egy másik ikonikus jelkép, amely lenyűgöző kilátást nyújt a Krétai-tengerre. Iráklio ad otthont az Iráklioi Régészeti Múzeumnak is, amely a világ egyik legfontosabb múzeuma, és a minószi művészet és tárgyi emlékek legkiválóbb gyűjteményét őrzi. A város vibráló központja tele van élettel teli terekkel, mint például az Oroszlános tér (Morosini-kút), ahol a helyiek és a látogatók szívesen fogyasztanak hagyományos krétai kávét és süteményeket. A modern Iráklio nyüzsgő kereskedelmi és tudományos központ, virágzó gasztronómiai élettel, amely a krétai konyha legjavát mutatja be. Nyüzsgő piacaitól a trendi butikokig a város gazdag kulturális élményt kínál, amely áthidalja a dicső múlt és a lendületes jelen közötti szakadékot.",
+        ro: "Heraklion, capitala Cretei și al patrulea oraș ca mărime din Grecia, este un centru urban dinamic care servește ca poartă principală de acces către insulă. Istoria orașului este un amestec fascinant de influențe minoice, bizantine, arabe, venețiene și otomane, toate acestea modelându-i caracterul unic. Heraklion este cel mai faimos pentru proximitatea sa față de Palatul din Knossos, centrul anticei civilizații minoice. În interiorul orașului, zidurile venețiene masive, care sunt printre cele mai bine conservate din Europa, stau ca mărturie a importanței sale strategice în timpul Evului Mediu. Cetatea Koules, situată la intrarea în portul vechi, este un alt punct de reper iconic. Heraklion găzduiește, de asemenea, Muzeul Arheologic din Heraklion, unul dintre cele mai importante muzee din lume, care deține cea mai fină colecție de artă și artefacte minoice. Centrul vibrant al orașului este plin de piețe pline de viață, cum ar fi Piața Leilor (Fântâna Morosini), unde localnicii și vizitatorii se adună pentru a savura cafea și produse de patiserie tradiționale cretane. Heraklionul modern este un centru comercial și academic înfloritor, cu o scenă culinară care evidențiază tot ce este mai bun din gastronomia cretană. De la piețele sale aglomerate la buticurile moderne, orașul oferă o experiență culturală bogată care face legătura între trecutul său glorios și prezentul său energic."
+      },
     facts: {
-      de: ["A velencei kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ meghatÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rozÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ny.", "KÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zel van KnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³sszoszhoz.", "ErÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“s mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºzeumi ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szeti hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ttÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rrel bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­r.", "A sziget gazdasÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gi kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja."],
-      hu: ["A velencei kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ meghatÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rozÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ny.", "KÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zel van KnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³sszoszhoz.", "ErÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“s mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºzeumi ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szeti hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ttÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rrel bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­r.", "A sziget gazdasÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gi kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja."],
-      ro: ["Portul veneÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºian este foarte vizibil.", "Este aproape de Knossos.", "Are o bazÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ muzealÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i arheologicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ puternicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢.", "Este centrul economic al insulei."],
-      en: ["The Venetian harbor shapes the city.", "It is close to Knossos.", "It has a strong museum and archaeology scene.", "It is the island's economic center."]
-    },
+        en: [
+          "Heraklion was founded by the Saracens in 824 AD and was later heavily fortified by the Venetians.",
+          "The city's Venetian walls stretch for about 4.5 kilometers and were strong enough to withstand a 21-year siege by the Ottomans.",
+          "The Heraklion Archaeological Museum houses the famous Phaistos Disc, an enigmatic artifact from the Minoan era.",
+          "The famous Greek writer Nikos Kazantzakis, author of 'Zorba the Greek', is buried on the Martinengo Bastion of the city walls.",
+          "Heraklion's port is one of the busiest in Greece, serving as a major hub for ferries and cruise ships.",
+          "The Morosini Fountain in Lions Square was built in 1628 to provide the city with fresh water from Mount Juktas.",
+          "The city was known as 'Candia' during the Venetian period, a name that also applied to the entire island of Crete.",
+          "Heraklion is home to the University of Crete and several major research institutes, making it a center of innovation."
+        ],
+        de: [
+          "Iraklio wurde 824 n. Chr. von den Sarazenen gegründet und später von den Venezianern stark befestigt.",
+          "Die venezianischen Mauern der Stadt erstrecken sich über etwa 4,5 Kilometer und hielten einer 21-jährigen Belagerung durch die Osmanen stand.",
+          "Das Archäologische Museum von Iraklio beherbergt den berühmten Diskos von Phaistos, ein rätselhaftes Artefakt aus der minoischen Ära.",
+          "Der berühmte griechische Schriftsteller Nikos Kazantzakis, Autor von 'Alexis Sorbas', ist auf der Martinengo-Bastion der Stadtmauer begraben.",
+          "Der Hafen von Iraklio ist einer der geschäftigsten Griechenlands und ein wichtiger Knotenpunkt für Fähren und Kreuzfahrtschiffe.",
+          "Der Morosini-Brunnen auf dem Löwenplatz wurde 1628 erbaut, um die Stadt mit frischem Wasser vom Berg Juktas zu versorgen.",
+          "Während der venezianischen Zeit war die Stadt als 'Candia' bekannt, ein Name, der auch für die gesamte Insel Kreta galt.",
+          "Iraklio beherbergt die Universität von Kreta und mehrere bedeutende Forschungsinstitute."
+        ],
+        hu: [
+          "Irákliót a szaracénok alapították i. sz. 824-ben, majd később a velenceiek erősen megerősítették.",
+          "A város velencei falai körülbelül 4,5 kilométer hosszan nyúlnak el, és ellenálltak az oszmánok 21 éves ostromának.",
+          "Az Irákliói Régészeti Múzeumban található a híres phaisztoszi korong, a minószi korszak egyik legrejtélyesebb lelete.",
+          "A híres görög író, Nikosz Kazantzakisz, a 'Zorbász, a görög' szerzője a városfal Martinengo-bástyáján nyugszik.",
+          "Iráklio kikötője Görögország egyik legforgalmasabbja, a kompok és skandináv hajók fontos csomópontja.",
+          "Az Oroszlános téren található Morosini-kutat 1628-ban építették, hogy friss vízzel lássák el a várost a Juktas-hegyről.",
+          "A velencei uralom alatt a várost 'Candia' néven ismerték, amely nevet az egész szigetre is használták.",
+          "Iráklio ad otthont a Krétai Egyetemnek és számos jelentős kutatóintézetnek, így az innováció központja."
+        ],
+        ro: [
+          "Heraklion a fost fondat de saraceni în 824 d.Hr. și a fost ulterior fortificat puternic de venețieni.",
+          "Zidurile venețiene ale orașului se întind pe aproximativ 4,5 kilometri și au rezistat unui asediu de 21 de ani din partea otomanilor.",
+          "Muzeul Arheologic din Heraklion adăpostește celebrul Disc din Phaistos, un artefact enigmatic din epoca minoică.",
+          "Celebrul scriitor grec Nikos Kazantzakis, autorul cărții 'Zorba Grecul', este înmormântat pe bastionul Martinengo al zidurilor orașului.",
+          "Portul Heraklion este unul dintre cele mai aglomerate din Grecia, servind ca un hub major pentru feriboturi și nave de croazieră.",
+          "Fântâna Morosini din Piața Leilor a fost construită în 1628 pentru a furniza orașului apă proaspătă de pe muntele Juktas.",
+          "Orașul a fost cunoscut sub numele de 'Candia' în perioada venețiană, nume care se aplica și întregii insule Creta.",
+          "Heraklion găzduiește Universitatea din Creta și câteva institute de cercetare majore, fiind un centru de inovare."
+        ]
+      },
     image: "/geo-images/greece/city-heraklion.webp",
   },
   {
@@ -138,19 +314,55 @@ export const greeceCities: POI[] = [
     type: "city",
     parent: "greece",
     coords: [24.0156, 35.5138],
-    name: { de: "Chania", hu: "HaniÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡", ro: "Chania", en: "Chania" },
+    name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania" },
     description: {
-      de: "Chania KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta egyik legszebb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa, velencei ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rossal.",
-      hu: "HaniÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta egyik legszebb vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa, hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­res velencei ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³l.",
-      ro: "Chania este unul dintre cele mai frumoase oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢e din Creta, cu un centru vechi veneÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºian.",
-      en: "Chania is one of Crete's most beautiful cities, known for its Venetian old town."
-    },
+        en: "Chania, the second-largest city on the island of Crete, is widely regarded as one of the most beautiful and atmospheric cities in Greece. Its heart is the stunning Venetian Harbor, a picturesque waterfront lined with colorful buildings, traditional tavernas, and the iconic 16th-century lighthouse. The city's Old Town is a labyrinth of narrow, winding alleys that reveal a rich tapestry of history, blending Venetian, Ottoman, and Greek architectural styles. Visitors can explore the historic Jewish quarter, the Turkish district of Splantzia, and the bustling municipal market. Chania is also a gateway to some of Crete's most spectacular natural wonders, including the Samaria Gorge and the world-famous beaches of Elafonisi and Balos. The city's cultural life is vibrant, with numerous museums, art galleries, and festivals that celebrate its maritime heritage and local traditions. Chania's culinary scene is exceptional, offering a wealth of Cretan specialties made with fresh, local ingredients. Whether strolling along the harbor at sunset or discovering hidden gems in the Old Town, Chania offers an enchanting experience that captures the essence of Cretan charm.",
+        de: "Chania, die zweitgrößte Stadt der Insel Kreta, gilt weithin als eine der schönsten und atmosphärischsten Städte Griechenlands. Ihr Herzstück ist der beeindruckende venezianische Hafen, eine malerische Uferpromenade mit farbenfrohen Gebäuden, traditionellen Tavernen und dem ikonischen Leuchtturm aus dem 16. Jahrhundert. Die Altstadt ist ein Labyrinth aus engen, gewundenen Gassen, die eine reiche Geschichte widerspiegeln und venezianische, osmanische und griechische Architekturstile vereinen. Besucher können das historische jüdische Viertel, das türkische Viertel Splantzia und den geschäftigen städtischen Markt erkunden. Chania ist auch das Tor zu einigen der spektakulärsten Naturwunder Kretas, darunter die Samaria-Schlucht und die weltberühmten Strände von Elafonisi und Balos. Das kulturelle Leben der Stadt ist lebendig, mit zahlreichen Museen und Galerien. Die kulinarische Szene Chanias ist außergewöhnlich und bietet eine Fülle von kretischen Spezialitäten aus frischen, lokalen Zutaten. Ob bei einem Spaziergang am Hafen bei Sonnenuntergang oder beim Entdecken verborgener Schätze in der Altstadt – Chania bietet ein bezauberndes Erlebnis, das den Kern des kretischen Charmes einfängt.",
+        hu: "Haniá, Kréta szigetének második legnagyobb városa, Görögország egyik legszebb és leghangulatosabb településeként ismert. Szíve a lenyűgöző velencei kikötő, egy festői tengerparti sétány színes épületekkel, hagyományos tavernákkal és az ikonikus, 16. századi világítótoronnyal. Az óváros szűk, kanyargós sikátorok labirintusa, amely a történelem gazdag szövevényét tárja fel, ötvözve a velencei, oszmán és görög építészeti stílusokat. A látogatók felfedezhetik a történelmi zsidó negyedet, Splantzia török negyedét és a nyüzsgő városi piacot. Haniá kapuként is szolgál Kréta leglátványosabb természeti csodáihoz, köztük a Szamaria-szurdokhoz és Elafoniszi, valamint Balosz világhírű strandjaihoz. A város kulturális élete vibráló, számos múzeummal és galériával. Haniá gasztronómiája kiváló, a krétai specialitások széles választékát kínálja friss, helyi alapanyagokból. Legyen szó egy naplementi sétáról a kikötőben vagy az óváros rejtett kincseinek felfedezéséről, Haniá olyan varázslatos élményt nyújt, amely tökéletesen megragadja Kréta hangulatát.",
+        ro: "Chania, al doilea oraș ca mărime de pe insula Creta, este considerat pe scară largă unul dintre cele mai frumoase și atmosferice orașe din Grecia. Inima sa este uimitorul port venețian, o faleză pitorească mărginită de clădiri colorate, taverne tradiționale și iconicul far din secolul al XVI-lea. Orașul vechi este un labirint de alei înguste și șerpuite care dezvăluie o istorie bogată, îmbinând stilurile arhitecturale venețian, otoman și grec. Vizitatorii pot explora cartierul evreiesc istoric, districtul turcesc Splantzia și piața municipală aglomerată. Chania este, de asemenea, o poartă către unele dintre cele mai spectaculoase minuni naturale ale Cretei, inclusiv Cheile Samariei și plajele faimoase în întreaga lume Elafonisi și Balos. Viața culturală a orașului este vibrantă, cu numeroase muzee și galerii de artă. Scena culinară din Chania este excepțională, oferind o multitudine de specialități cretane făcute cu ingrediente locale proaspete. Fie că vă plimbați de-a lungul portului la apus sau descoperiți bijuterii ascunse în orașul vechi, Chania oferă o experiență fermecătoare care surprinde esența farmecului cretan."
+      },
     facts: {
-      de: ["A kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nleges hangulatÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âº.", "Az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosban velencei ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s oszmÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡n nyomok is vannak.", "A nyugati KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta egyik fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa.", "JÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ kiindulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³pont strandokhoz ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s szurdokokhoz."],
-      hu: ["A kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nleges hangulatÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âº.", "Az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosban velencei ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s oszmÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡n nyomok is vannak.", "A nyugati KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta egyik fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa.", "JÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ kiindulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³pont strandokhoz ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s szurdokokhoz."],
-      ro: ["Portul are o atmosferÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ aparte.", "Centrul vechi pÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢streazÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ urme veneÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºiene ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i otomane.", "Este unul dintre oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ele principale din vestul Cretei.", "Este o bazÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ bunÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ pentru plaje ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i chei."],
-      en: ["The harbor has a special atmosphere.", "The old town keeps Venetian and Ottoman traces.", "It is a major city in western Crete.", "It is a good base for beaches and gorges."]
-    },
+        en: [
+          "Chania's lighthouse is one of the oldest in the world and is often referred to as 'Egyptian' because it was restored by Egyptian troops in the 19th century.",
+          "The city was the capital of Crete until 1971, when the administration was moved to Heraklion.",
+          "Chania's Municipal Market (Agora) is built in the shape of a cross and was modeled after the market in Marseille.",
+          "The Etz Hayyim Synagogue in Chania is the only remaining Jewish monument on the island of Crete.",
+          "The city's Archaeological Museum is housed in the former Venetian Monastery of Saint Francis.",
+          "Chania is famous for its traditional leather boots, known as 'stivania', which are still handmade by local craftsmen.",
+          "The Firka Fortress at the harbor entrance is where the Greek flag was first raised in 1913 to mark Crete's union with Greece.",
+          "The nearby Akrotiri Peninsula is home to several historic monasteries and the tomb of the prominent Greek statesman Eleftherios Venizelos."
+        ],
+        de: [
+          "Der Leuchtturm von Chania ist einer der ältesten der Welt und wird oft als 'ägyptisch' bezeichnet, da er im 19. Jahrhundert von ägyptischen Truppen restauriert wurde.",
+          "Die Stadt war bis 1971 die Hauptstadt von Kreta, bevor die Verwaltung nach Iraklio verlegt wurde.",
+          "Die Markthalle von Chania (Agora) ist in Form eines Kreuzes gebaut und wurde nach dem Vorbild des Marktes in Marseille entworfen.",
+          "Die Etz-Hayyim-Synagoge in Chania ist das einzige erhaltene jüdische Denkmal auf der Insel Kreta.",
+          "Das Archäologische Museum der Stadt ist im ehemaligen venezianischen Franziskanerkloster untergebracht.",
+          "Chania ist berühmt für seine traditionellen Lederstiefel, die 'Stivania', die immer noch von lokalen Handwerkern handgefertigt werden.",
+          "In der Firka-Festung am Hafeneingang wurde 1913 zum ersten Mal die griechische Flagge gehisst, um die Vereinigung Kretas mit Griechenland zu markieren.",
+          "Die nahe gelegene Halbinsel Akrotiri beherbergt mehrere historische Klöster und das Grab des Staatsmannes Eleftherios Venizelos."
+        ],
+        hu: [
+          "Haniá világítótornya a világ egyik legrégebbi világítótornya, és gyakran 'egyiptominak' nevezik, mert a 19. században egyiptomi csapatok újították fel.",
+          "A város 1971-ig Kréta fővárosa volt, ekkor helyezték át a közigazgatást Iráklióba.",
+          "Haniá városi piaca (Agora) kereszt alakban épült, és a marseille-i piac mintájára készült.",
+          "A haniái Etz Hayyim zsinagóga az egyetlen fennmaradt zsidó műemlék Kréta szigetén.",
+          "A város Régészeti Múzeuma az egykori velencei Szent Ferenc-kolostorban kapott helyet.",
+          "Haniá híres hagyományos bőrcsizmáiról, a 'stivania'-ról, amelyeket ma is kézzel készítenek a helyi mesterek.",
+          "A kikötő bejáratánál lévő Firka-erődben vonták fel először a görög zászlót 1913-ban, Kréta és Görögország egyesülésének emlékére.",
+          "A közeli Akrotiri-félsziget számos történelmi kolostornak és a neves görög államférfi, Elefthériosz Venizélosz sírjának ad otthont."
+        ],
+        ro: [
+          "Farul din Chania este unul dintre cele mai vechi din lume și este adesea numit 'egiptean' deoarece a fost restaurat de trupele egiptene în secolul al XIX-lea.",
+          "Orașul a fost capitala Cretei până în 1971, când administrația a fost mutată la Heraklion.",
+          "Piața Municipală din Chania (Agora) este construită în formă de cruce și a fost modelată după piața din Marsilia.",
+          "Sinagoga Etz Hayyim din Chania este singurul monument evreiesc rămas pe insula Creta.",
+          "Muzeul Arheologic al orașului este găzduit în fosta mănăstire venețiană Sfântul Francisc.",
+          "Chania este faimoasă pentru cizmele sale tradiționale din piele, cunoscute sub numele de 'stivania', care sunt încă lucrate manual de meșteșugarii locali.",
+          "Cetatea Firka de la intrarea în port este locul unde steagul grecesc a fost arborat pentru prima dată în 1913 pentru a marca unirea Cretei cu Grecia.",
+          "Peninsula Akrotiri din apropiere găzduiește câteva mănăstiri istorice și mormântul proeminentului om de stat grec Eleftherios Venizelos."
+        ]
+      },
     image: "/geo-images/greece/city-chania.webp",
   },
   {
@@ -158,19 +370,55 @@ export const greeceCities: POI[] = [
     type: "city",
     parent: "greece",
     coords: [28.2278, 36.4412],
-    name: { de: "Rhodos", hu: "Rodosz", ro: "Rodos", en: "Rhodes" },
+    name: { de: "Rhodos", hu: "Rodosz", ro: "Rhodos", en: "Rhodes" },
     description: {
-      de: "Rhodos kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pkori ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g egyik legismertebb tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelmi vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa.",
-      hu: "Rodosz kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pkori ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa az orszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g egyik legfontosabb tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nelmi helyszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ne.",
-      ro: "Centrul vechi al oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ului Rodos este unul dintre cele mai cunoscute situri istorice din Grecia.",
-      en: "Rhodes Old Town is one of Greece's best-known historic cityscapes."
-    },
+        en: "Rhodes, the largest of the Dodecanese islands, is a place where medieval history meets sun-drenched beaches and vibrant modern life. The island's capital, Rhodes Town, is home to one of the best-preserved medieval cities in Europe, a UNESCO World Heritage site enclosed by impressive fortifications. Walking through its cobblestone streets, visitors are transported back to the era of the Knights of Saint John, with the Palace of the Grand Master and the Street of the Knights being the most prominent landmarks. Beyond the medieval walls, the city offers a lively atmosphere with bustling markets, elegant boutiques, and a wide range of dining options. Rhodes is also famous for its ancient history, most notably as the site of the Colossus of Rhodes, one of the Seven Wonders of the Ancient World. The island's diverse landscape includes lush green valleys, rugged mountains, and a coastline dotted with beautiful beaches and crystal-clear waters. The ancient city of Lindos, with its iconic Acropolis overlooking a picturesque bay, is another must-visit destination. Rhodes is a popular tourist hub, offering a perfect blend of cultural exploration, outdoor activities, and relaxation. Its strategic location in the southeastern Aegean has made it a crossroads of civilizations for millennia, leaving a rich legacy that continues to fascinate visitors from around the globe.",
+        de: "Rhodos, die größte der Dodekanes-Inseln, ist ein Ort, an dem mittelalterliche Geschichte auf sonnenverwöhnte Strände und lebendiges modernes Leben trifft. Die Inselhauptstadt Rhodos-Stadt beherbergt eine der am besten erhaltenen mittelalterlichen Städte Europas, ein UNESCO-Weltkulturerbe, das von beeindruckenden Befestigungsanlagen umschlossen ist. Beim Spaziergang durch die kopfsteingepflasterten Gassen werden Besucher in die Ära der Johanniter-Ritter zurückversetzt, wobei der Großmeisterpalast und die Ritterstraße die bekanntesten Wahrzeichen sind. Außerhalb der mittelalterlichen Mauern bietet die Stadt eine lebendige Atmosphäre mit geschäftigen Märkten und eleganten Boutiquen. Rhodos ist auch für seine antike Geschichte berühmt, insbesondere als Standort des Kolosses von Rhodos, eines der sieben Weltwunder der Antike. Die vielfältige Landschaft der Insel umfasst üppige grüne Täler, schroffe Berge und eine Küste mit wunderschönen Stränden. Die antike Stadt Lindos mit ihrer ikonischen Akropolis über einer malerischen Bucht ist ein weiteres unverzichtbares Ziel. Rhodos ist ein beliebtes Touristenzentrum, das eine perfekte Mischung aus kultureller Erkundung, Outdoor-Aktivitäten und Entspannung bietet. Seine strategische Lage in der südöstlichen Ägäis hat es seit Jahrtausenden zu einem Kreuzungspunkt der Zivilisationen gemacht.",
+        hu: "Rodosz, a Dodekanészosz-szigetcsoport legnagyobb tagja, ahol a középkori történelem találkozik a napsütötte tengerpartokkal és a vibráló modern élettel. A sziget fővárosa, Rodosz városa ad otthont Európa egyik legjobb állapotban fennmaradt középkori városának, amely az UNESCO Világörökség része, és lenyűgöző erődítmények veszik körül. A macskaköves utcákon sétálva a látogatók visszarepülnek a Szent János-lovagok korába; a Nagymesteri Palota és a Lovagok utcája a legjelentősebb látnivalók. A középkori falakon túl a város nyüzsgő piacokkal és elegáns butikokkal várja az utazókat. Rodosz az ókori történelméről is híres, leginkább a Rodoszi Kolosszusról, amely az ókori világ hét csodájának egyike volt. A sziget változatos tájai közé tartoznak a dús zöld völgyek, a vad hegyek és a gyönyörű strandokkal tarkított partvidék. Lindosz ókori városa, az ikonikus Akropolisszal, amely egy festői öbölre néz, szintén kihagyhatatlan úti cél. Rodosz népszerű turisztikai központ, amely a kulturális felfedezés, a szabadtéri tevékenységek és a pihenés tökéletes keverékét kínálja. Stratégiai elhelyezkedése a délkeleti Égei-tengeren évezredek óta a civilizációk kereszteződésévé tette.",
+        ro: "Rhodos, cea mai mare dintre insulele Dodecanezului, este un loc unde istoria medievală se întâlnește cu plajele însorite și viața modernă vibrantă. Capitala insulei, orașul Rhodos, găzduiește unul dintre cele mai bine conservate orașe medievale din Europa, un sit al Patrimoniului Mondial UNESCO înconjurat de fortificații impresionante. Mergând pe străzile sale pietruite, vizitatorii sunt transportați înapoi în epoca Cavalerilor Sfântului Ioan, Palatul Marelui Maestru și Strada Cavalerilor fiind cele mai proeminente repere. Dincolo de zidurile medievale, orașul oferă o atmosferă plină de viață, cu piețe aglomerate și buticuri elegante. Rhodos este, de asemenea, faimos pentru istoria sa antică, în special ca sit al Colosului din Rhodos, una dintre cele șapte minuni ale lumii antice. Peisajul divers al insulei include văi verzi luxuriante, munți accidentați și o coastă presărată cu plaje frumoase și ape cristaline. Orașul antic Lindos, cu iconica sa Acropolă care domină un golf pitoresc, este o altă destinație obligatorie. Rhodos este un centru turistic popular, oferind un amestec perfect de explorare culturală, activități în aer liber și relaxare. Locația sa strategică în sud-estul Mării Egee a făcut din acesta o răscruce de civilizații timp de milenii."
+      },
     facts: {
-      de: ["UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "A johannitÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k fontos erÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“dvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa volt.", "A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosfalak ma is ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡llnak.", "A Nagymesteri palota fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nyossÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g."],
-      hu: ["UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "A johannitÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k fontos erÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“dvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosa volt.", "A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosfalak ma is ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡llnak.", "A Nagymesteri palota fÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nyossÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g."],
-      ro: ["Este sit UNESCO.", "A fost o fortÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢reaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ importantÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ a Cavalerilor IoaniÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºi.", "Zidurile medievale sunt ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®ncÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n picioare.", "Palatul Marilor MaeÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢tri este atracÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºia principalÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢."],
-      en: ["It is a UNESCO World Heritage site.", "It was a major fortress of the Knights Hospitaller.", "The medieval walls still stand.", "The Palace of the Grand Master is the main sight."]
-    },
+        en: [
+          "The Medieval City of Rhodes is the oldest inhabited medieval town in Europe.",
+          "The Palace of the Grand Master was originally a Byzantine fortress and later served as the administrative center of the Knights of Saint John.",
+          "The Colossus of Rhodes, a giant bronze statue of the sun god Helios, stood at the entrance of Mandraki harbor for only 54 years before being destroyed by an earthquake.",
+          "Rhodes is often called the 'Island of the Knights' due to its long association with the Order of Saint John.",
+          "The island enjoys more than 300 days of sunshine per year, making it one of the sunniest places in Greece.",
+          "The Valley of the Butterflies (Petaloudes) is a unique nature reserve where thousands of butterflies gather during the summer months.",
+          "Rhodes was part of the Ottoman Empire for nearly 400 years before being occupied by Italy in 1912 and finally joining Greece in 1948.",
+          "The ancient city of Kamiros, often called the 'Pompeii of Rhodes', offers a fascinating glimpse into Hellenistic urban planning."
+        ],
+        de: [
+          "Die mittelalterliche Stadt Rhodos ist die älteste bewohnte mittelalterliche Stadt in Europa.",
+          "Der Großmeisterpalast war ursprünglich eine byzantinische Festung und diente später als Verwaltungszentrum der Johanniter-Ritter.",
+          "Der Koloss von Rhodos, eine riesige Bronzestatue des Sonnengottes Helios, stand nur 54 Jahre lang am Eingang des Mandraki-Hafens, bevor er durch ein Erdbeben zerstört wurde.",
+          "Rhodos wird aufgrund seiner langen Verbindung mit dem Johanniterorden oft als 'Insel der Ritter' bezeichnet.",
+          "Die Insel genießt mehr als 300 Sonnentage pro Jahr und ist damit einer der sonnigsten Orte Griechenlands.",
+          "Das Tal der Schmetterlinge (Petaloudes) ist ein einzigartiges Naturschutzgebiet, in dem sich in den Sommermonaten Tausende von Schmetterlingen versammeln.",
+          "Rhodos war fast 400 Jahre lang Teil des Osmanischen Reiches, bevor es 1912 von Italien besetzt wurde und schließlich 1948 zu Griechenland kam.",
+          "Die antike Stadt Kamiros, oft als 'Pompeji von Rhodos' bezeichnet, bietet einen faszinierenden Einblick in die hellenistische Stadtplanung."
+        ],
+        hu: [
+          "Rodosz középkori városa Európa legrégebbi lakott középkori települése.",
+          "A Nagymesteri Palota eredetileg bizánci erőd volt, később a Szent János-lovagok adminisztratív központjaként szolgált.",
+          "A Rodoszi Kolosszus, Héliosz napisten óriási bronzszobra, mindössze 54 évig állt a Mandraki kikötő bejáratánál, mielőtt egy földrengés elpusztította.",
+          "Rodoszt gyakran nevezik a 'lovagok szigetének' a Szent János-renddel való hosszú kapcsolata miatt.",
+          "A szigeten évente több mint 300 napsütéses nap van, így Görögország egyik legnaposabb helye.",
+          "A Pillangók Völgye (Petaloudes) egyedülálló természetvédelmi terület, ahol a nyári hónapokban pillangók ezrei gyűlnek össze.",
+          "Rodosz közel 400 évig az Oszmán Birodalom része volt, mielőtt 1912-ben Olaszország megszállta, majd 1948-ban végleg Görögországhoz csatlakozott.",
+          "Kamirosz ókori városa, amelyet gyakran 'Rodosz Pompeiijének' neveznek, lenyűgöző betekintést nyújt a hellenisztikus várostervezésbe."
+        ],
+        ro: [
+          "Orașul medieval Rhodos este cel mai vechi oraș medieval locuit din Europa.",
+          "Palatul Marelui Maestru a fost inițial o cetate bizantină și mai târziu a servit ca centru administrativ al Cavalerilor Sfântului Ioan.",
+          "Colosul din Rhodos, o statuie gigantică din bronz a zeului soarelui Helios, a stat la intrarea în portul Mandraki timp de doar 54 de ani înainte de a fi distrus de un cutremur.",
+          "Rhodos este adesea numită 'Insula Cavalerilor' datorită asocierii sale îndelungate cu Ordinul Sfântului Ioan.",
+          "Insula se bucură de peste 300 de zile însorite pe an, fiind unul dintre cele mai însorite locuri din Grecia.",
+          "Valea Fluturilor (Petaloudes) este o rezervație naturală unică unde mii de fluturi se adună în lunile de vară.",
+          "Rhodos a făcut parte din Imperiul Otoman timp de aproape 400 de ani înainte de a fi ocupat de Italia în 1912 și de a se uni în cele din urmă cu Grecia în 1948.",
+          "Orașul antic Kamiros, numit adesea 'Pompeiul Rhodosului', oferă o privire fascinantă asupra planificării urbane elenistice."
+        ]
+      },
     image: "/geo-images/greece/city-rhodes.webp",
   }
 ];
@@ -221,19 +469,63 @@ export const greeceCulture: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [23.7258, 37.9715],
-    name: { de: "Akropolis", hu: "Akropolisz", ro: "Acropola", en: "Acropolis" },
+    name: { de: "Akropolis von Athen", hu: "Akropolisz", ro: "Acropola din Atena", en: "Acropolis of Athens" },
     description: {
-      de: "Az Akropolisz AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n ikonikus sziklavÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ra ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g jelkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pe.",
-      hu: "Az Akropolisz AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n ikonikus sziklavÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ra ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g jelkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pe.",
-      ro: "Acropola este cetatea-simbol a Atenei ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i a Greciei antice.",
-      en: "The Acropolis is Athens' iconic hilltop citadel and a symbol of ancient Greece."
-    },
+        en: "The Acropolis of Athens, a rocky outcrop rising above the city, is the most iconic symbol of ancient Greek civilization and a masterpiece of world architecture. This ancient citadel contains the remains of several highly significant buildings, the most famous being the Parthenon, a temple dedicated to the goddess Athena. Built in the 5th century BC during the Golden Age of Pericles, the Acropolis represents the pinnacle of artistic and architectural achievement in classical Greece. The site also includes the Erechtheion, with its famous Porch of the Caryatids, the Temple of Athena Nike, and the monumental gateway known as the Propylaea. These structures were designed by renowned architects like Ictinus and Callicrates, with the sculptural decorations overseen by the great Phidias. The Acropolis was not only a religious center but also a symbol of the power and cultural dominance of Athens. Over the centuries, it has survived wars, explosions, and various transformations, serving as a fortress, a church, and a mosque. Today, it is a UNESCO World Heritage site and attracts millions of visitors who come to marvel at its enduring beauty and historical significance. The ongoing restoration efforts aim to preserve these ancient monuments for future generations, using original materials and techniques whenever possible. The Acropolis Museum, located nearby, houses the original sculptures and artifacts found on the site, providing a comprehensive understanding of its history and artistic legacy. Standing on the Acropolis, one can enjoy panoramic views of Athens and the surrounding landscape, feeling a profound connection to the origins of Western culture. It remains a powerful testament to human creativity and the enduring spirit of ancient Greece.",
+        de: "Die Akropolis von Athen, ein felsiger Vorsprung, der sich über die Stadt erhebt, ist das ikonischste Symbol der antiken griechischen Zivilisation und ein Meisterwerk der Weltarchitektur. Diese antike Zitadelle beherbergt die Überreste mehrerer hochbedeutender Gebäude, von denen das bekannteste der Parthenon ist, ein der Göttin Athene geweihter Tempel. Erbaut im 5. Jahrhundert v. Chr. während des Goldenen Zeitalters des Perikles, repräsentiert die Akropolis den Höhepunkt künstlerischer und architektonischer Leistungen im klassischen Griechenland. Die Stätte umfasst auch das Erechtheion mit seiner berühmten Vorhalle der Karyatiden, den Tempel der Athena Nike und das monumentale Tor, die Propyläen. Diese Bauwerke wurden von renommierten Architekten wie Iktinos und Kallikrates entworfen, wobei die skulpturalen Dekorationen vom großen Phidias überwacht wurden. Die Akropolis war nicht nur ein religiöses Zentrum, sondern auch ein Symbol für die Macht und kulturelle Dominanz Athens. Im Laufe der Jahrhunderte hat sie Kriege, Explosionen und verschiedene Umwandlungen überstanden und diente als Festung, Kirche und Moschee. Heute ist sie UNESCO-Weltkulturerbe und zieht Millionen von Besuchern an. Die Akropolis bleibt ein kraftvolles Zeugnis menschlicher Kreativität und des unvergänglichen Geistes des antiken Griechenlands.",
+        hu: "Az athéni Akropolisz, a város fölé magasodó sziklás domb, az ókori görög civilizáció legikonikusabb szimbóluma és a világépítészet remekműve. Ez az ókori citadella számos rendkívül jelentős épület maradványait őrzi, amelyek közül a leghíresebb a Parthenón, az Athéné istennőnek szentelt templom. Az i. e. 5. században, Periklész aranykorában épült Akropolisz a klasszikus Görögország művészeti és építészeti teljesítményének csúcsát képviseli. A helyszín magában foglalja az Erektheiont a híres Kariatidák csarnokával, Athéné Niké templomát és a monumentális bejáratot, a Propülaiát. Ezeket a szerkezeteket olyan neves építészek tervezték, mint Iktinosz és Kallikratész, a szobrászati díszítéseket pedig a nagy Phidiasz felügyelte. Az Akropolisz nemcsak vallási központ volt, hanem Athén hatalmának és kulturális dominanciájának szimbóluma is. Az évszázadok során háborúkat, robbanásokat és különféle átalakításokat élt túl, szolgált erődként, templomként és mecsetként is. Ma az UNESCO Világörökség része, és látogatók millióit vonzza, akik megcsodálják maradandó szépségét és történelmi jelentőségét. A közeli Akropolisz Múzeum őrzi a helyszínen talált eredeti szobrokat és tárgyakat. Az Akropoliszon állva panorámás kilátás nyílik Athénra, és mély kapcsolatot érezhetünk a nyugati kultúra eredetével. Az emberi kreativitás és az ókori Görögország örök szellemének hatalmas tanúbizonysága marad.",
+        ro: "Acropola din Atena, o proeminență stâncoasă care se ridică deasupra orașului, este cel mai iconic simbol al civilizației grecești antice și o capodoperă a arhitecturii mondiale. Această citadelă antică conține resturile mai multor clădiri extrem de semnificative, cea mai faimoasă fiind Partenonul, un templu dedicat zeiței Atena. Construită în secolul al V-lea î.Hr. în timpul Epocii de Aur a lui Pericle, Acropola reprezintă apogeul realizărilor artistice și arhitecturale din Grecia clasică. Situl include, de asemenea, Erechtheionul, cu faimoasa sa Prispă a Cariatidelor, Templul Atenei Nike și poarta monumentală cunoscută sub numele de Propylaea. Aceste structuri au fost proiectate de arhitecți renumiți precum Ictinus și Callicrates, decorațiunile sculpturale fiind supravegheate de marele Phidias. Acropola nu a fost doar un centru religios, ci și un simbol al puterii și dominanței culturale a Atenei. De-a lungul secolelor, a supraviețuit războaielor, exploziilor și diverselor transformări, servind drept fortăreață, biserică și moschee. Astăzi, este un sit al Patrimoniului Mondial UNESCO și atrage milioane de vizitatori. Acropola rămâne o mărturie puternică a creativității umane și a spiritului durabil al Greciei antice."
+      },
     facts: {
-      de: ["A ParthenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n a legismertebb ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lete.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "Az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n vallÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡si kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja volt.", "A sziklÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ra ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lt erÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“d ma is uralja a vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rost."],
-      hu: ["A ParthenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n a legismertebb ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lete.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "Az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori AthÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n vallÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡si kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja volt.", "A sziklÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ra ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lt erÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“d ma is uralja a vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rost."],
-      ro: ["Partenonul este cea mai cunoscutÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ clÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢dire.", "Este sit UNESCO.", "A fost centrul religios al Atenei antice.", "FortÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢reaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºa de pe stÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ncÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ dominÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i azi oraÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ul."],
-      en: ["The Parthenon is its best-known building.", "It is a UNESCO World Heritage site.", "It was the religious center of ancient Athens.", "The rock fortress still dominates the city."]
-    },
+        en: [
+          "The word 'Acropolis' comes from the Greek words 'akron' (highest point) and 'polis' (city).",
+          "The Parthenon was built in just 15 years, between 447 and 432 BC.",
+          "The Acropolis was originally painted in bright colors, including blue, red, and gold, which have faded over time.",
+          "The Erechtheion's Caryatids are six female figures that serve as architectural columns; five of the originals are in the Acropolis Museum, and one is in the British Museum.",
+          "The Temple of Athena Nike is the smallest temple on the Acropolis and was built to celebrate the Athenian victory over the Persians.",
+          "In 1687, a Venetian mortar shell hit the Parthenon, which was being used as a gunpowder magazine by the Ottomans, causing a massive explosion.",
+          "The Acropolis is home to the oldest weather station in the world, the Tower of the Winds, located just below the citadel.",
+          "The site has been inhabited since the 4th millennium BC, long before the famous classical buildings were constructed.",
+          "The Parthenon has served as a treasury, a temple, a Christian church, and a mosque throughout its history.",
+          "The entire Acropolis site is illuminated at night, creating one of the most beautiful sights in the world."
+        ],
+        de: [
+          "Das Wort 'Akropolis' kommt von den griechischen Wörtern 'akron' (höchster Punkt) und 'polis' (Stadt).",
+          "Der Parthenon wurde in nur 15 Jahren erbaut, zwischen 447 und 432 v. Chr.",
+          "Die Akropolis war ursprünglich in leuchtenden Farben bemalt, darunter Blau, Rot und Gold.",
+          "Die Karyatiden des Erechtheions sind sechs weibliche Figuren, die als Säulen dienen; fünf Originale befinden sich im Akropolis-Museum.",
+          "Der Tempel der Athena Nike ist der kleinste Tempel auf der Akropolis und feiert den Sieg über die Perser.",
+          "1687 traf eine venezianische Mörsergranate den Parthenon, der als Pulvermagazin genutzt wurde, und verursachte eine gewaltige Explosion.",
+          "Die Akropolis beherbergt die älteste Wetterstation der Welt, den Turm der Winde, der sich direkt unter der Zitadelle befindet.",
+          "Die Stätte ist seit dem 4. Jahrtausend v. Chr. bewohnt.",
+          "Der Parthenon diente als Schatzkammer, Tempel, christliche Kirche und Moschee.",
+          "Die gesamte Akropolis wird nachts beleuchtet und bietet einen der schönsten Anblicke der Welt."
+        ],
+        hu: [
+          "Az 'Akropolisz' szó a görög 'akron' (legmagasabb pont) és 'polisz' (város) szavakból származik.",
+          "A Parthenónt mindössze 15 év alatt építették fel, i. e. 447 és 432 között.",
+          "Az Akropoliszt eredetileg élénk színekre festették, többek között kékre, pirosra és aranyra.",
+          "Az Erektheion Kariatidái hat nőalak, amelyek oszlopként szolgálnak; az eredetiek közül öt az Akropolisz Múzeumban van.",
+          "Athéné Niké temploma a legkisebb templom az Akropoliszon, és a perzsák feletti győzelem emlékére épült.",
+          "1687-ben egy velencei mozsárágyú eltalálta a Parthenónt, amelyet az oszmánok lőporraktárként használtak, ami hatalmas robbanást okozott.",
+          "Az Akropolisz ad otthont a világ legrégebbi időjárási állomásának, a Szelek tornyának, amely közvetlenül a citadella alatt található.",
+          "A helyszín az i. e. 4. évezred óta lakott.",
+          "A Parthenón története során szolgált kincstárként, templomként, keresztény templomként és mecsetként is.",
+          "Az egész Akropoliszt éjszaka kivilágítják, ami a világ egyik legszebb látványát nyújtja."
+        ],
+        ro: [
+          "Cuvântul 'Acropolis' provine din cuvintele grecești 'akron' (cel mai înalt punct) și 'polis' (oraș).",
+          "Partenonul a fost construit în doar 15 ani, între 447 și 432 î.Hr.",
+          "Acropola a fost pictată inițial în culori strălucitoare, inclusiv albastru, roșu și auriu.",
+          "Cariatidele Erechtheionului sunt șase figuri feminine care servesc drept coloane; cinci dintre originale se află în Muzeul Acropolei.",
+          "Templul Atenei Nike este cel mai mic templu de pe Acropolă și a fost construit pentru a celebra victoria asupra perșilor.",
+          "În 1687, un proiectil venețian a lovit Partenonul, care era folosit ca depozit de praf de pușcă, provocând o explozie masivă.",
+          "Acropola găzduiește cea mai veche stație meteo din lume, Turnul Vânturilor, situat chiar sub citadelă.",
+          "Situl a fost locuit încă din mileniul al IV-lea î.Hr.",
+          "Partenonul a servit ca trezorerie, templu, biserică creștină și moschee de-a lungul istoriei sale.",
+          "Întregul sit al Acropolei este iluminat noaptea, creând una dintre cele mai frumoase priveliști din lume."
+        ]
+      },
     image: "/geo-images/greece/cult-acropolis.webp",
   },
   {
@@ -241,19 +533,63 @@ export const greeceCulture: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [21.6300, 37.6378],
-    name: { de: "Olympia", hu: "OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mpia", ro: "Olimpia", en: "Olympia" },
+    name: { de: "Olympia", hu: "Olümpia", ro: "Olympia", en: "Olympia" },
     description: {
-      de: "Olympia az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori olimpiai jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kok szent helyszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ne volt.",
-      hu: "OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mpia az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³kori olimpiai jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kok szent helyszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ne volt.",
-      ro: "Olimpia a fost locul sacru al Jocurilor Olimpice antice.",
-      en: "Olympia was the sacred site of the ancient Olympic Games."
-    },
+        en: "Olympia, located in the Peloponnese peninsula, is one of the most significant archaeological sites in Greece and the world, famously known as the birthplace of the Olympic Games. In antiquity, it was a major panhellenic religious sanctuary dedicated to Zeus, the king of the gods. The first Olympic Games were held here in 776 BC and continued every four years for over a millennium, serving as a symbol of unity and peace among the Greek city-states. The site is home to the Temple of Zeus, which once housed the colossal gold and ivory statue of Zeus, one of the Seven Wonders of the Ancient World, created by the great sculptor Phidias. Visitors can also explore the Temple of Hera, the oldest temple on the site, where the Olympic flame is still lit today before its journey to the host city of the modern games. The ancient stadium, where athletes competed in various events, remains a powerful reminder of the physical and spiritual ideals of the ancient Greeks. Other notable structures include the Philippeion, the Pelopion, and the workshop of Phidias, where the great statue was crafted. The Archaeological Museum of Olympia houses an extraordinary collection of artifacts found on the site, including the famous Hermes of Praxiteles and the pediments of the Temple of Zeus. The site's serene setting, surrounded by lush greenery and the Alpheios River, adds to its mystical and historical atmosphere. Olympia was not just a place for athletic competition; it was a sacred space where art, culture, and religion converged. Over the centuries, the site suffered from earthquakes, floods, and human destruction, but its legacy remains a cornerstone of Western civilization. Today, it is a UNESCO World Heritage site and a place of pilgrimage for sports enthusiasts and history lovers alike. The modern town of Olympia offers a range of facilities for visitors, while the International Olympic Academy continues to promote the values of Olympism. Standing in the ancient stadium, one can almost hear the cheers of the crowds and feel the enduring spirit of the games that continue to inspire the world. Olympia is a testament to the human pursuit of excellence and the enduring power of shared ideals.",
+        de: "Olympia auf der Peloponnes ist eine der bedeutendsten archäologischen Stätten der Welt und als Geburtsort der Olympischen Spiele bekannt. In der Antike war es ein panhellenisches Heiligtum, das Zeus gewidmet war. Die ersten Olympischen Spiele fanden hier 776 v. Chr. statt und wurden über ein Jahrtausend lang alle vier Jahre ausgetragen. Die Stätte beherbergt den Zeustempel, in dem einst die kolossale Gold-Elfenbein-Statue des Zeus stand, eines der sieben Weltwunder der Antike. Besucher können auch den Heratempel erkunden, wo noch heute das olympische Feuer entzündet wird. Das antike Stadion bleibt ein kraftvolles Zeugnis der Ideale der alten Griechen. Das Archäologische Museum von Olympia beherbergt eine außergewöhnliche Sammlung, darunter den Hermes von Praxiteles. Die friedliche Lage am Fluss Alpheios trägt zur mystischen Atmosphäre bei. Olympia war ein heiliger Ort, an dem Kunst, Kultur und Religion zusammenkamen. Heute ist es UNESCO-Weltkulturerbe und ein Ort der Inspiration für Menschen aus aller Welt. Olympia ist ein Zeugnis für das menschliche Streben nach Exzellenz und die beständige Kraft gemeinsamer Ideale.",
+        hu: "Olümpia, a Peloponnészoszi-félszigeten található régészeti lelőhely, a világ egyik legjelentősebb történelmi helyszíne, az olimpiai játékok szülőhelye. Az antikvitásban Zeusz tiszteletére szentelt vallási központ volt. Az első olimpiai játékokat i. e. 776-ban tartották itt, és több mint egy évezreden át négyévente megrendezték őket, a görög városállamok közötti egység és béke szimbólumaként. A helyszín legfontosabb épülete Zeusz temploma volt, amely egykor a világ hét csodájának egyikét, Phidiasz arany-elefántcsont Zeusz-szobrát őrizte. A látogatók megtekinthetik Héra templomát is, ahol ma is meggyújtják az olimpiai lángot a modern játékok előtt. Az ókori stadion, ahol a sportolók versenyeztek, ma is lenyűgöző látvány. Az Olümpiai Régészeti Múzeum rendkívüli gyűjteménynek ad otthont, többek között Praxitelész Hermészének. Olümpia nemcsak a sport, hanem a művészet és a vallás találkozóhelye is volt. Ma az UNESCO Világörökség része, és a világ minden tájáról vonzza a látogatókat. Olümpia az emberi kiválóságra való törekvés és a közös eszmék erejének örök mementója.",
+        ro: "Olympia, situată în peninsula Peloponez, este unul dintre cele mai importante situri arheologice din lume, fiind cunoscută ca locul de naștere al Jocurilor Olimpice. În antichitate, a fost un sanctuar religios panelenic dedicat lui Zeus. Primele Jocuri Olimpice au avut loc aici în 776 î.Hr. și au continuat la fiecare patru ani timp de peste un mileniu. Situl găzduiește Templul lui Zeus, care adăpostea odinioară statuia colosală din aur și fildeș a lui Zeus, una dintre cele șapte minuni ale lumii antice. Vizitatorii pot explora, de asemenea, Templul Herei, unde flacăra olimpică este aprinsă și astăzi. Stadionul antic rămâne o amintire puternică a idealurilor vechilor greci. Muzeul Arheologic din Olympia găzduiește o colecție extraordinară de artefacte, inclusiv celebrul Hermes al lui Praxiteles. Cadrul senin al sitului, înconjurat de verdeață și de râul Alpheios, adaugă la atmosfera sa mistică. Astăzi, este un sit al Patrimoniului Mondial UNESCO și un loc de pelerinaj pentru iubitorii de istorie și sport. Olympia este o mărturie a căutării umane a excelenței și a puterii durabile a idealurilor comune."
+      },
     facts: {
-      de: ["Itt tartottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k az elsÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kokat i. e. 776-ban.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "Zeusz temploma fontos maradvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ny.", "Az olimpiai lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ng hagyomÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nya innen ered."],
-      hu: ["Itt tartottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k az elsÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ jÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©kokat i. e. 776-ban.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "Zeusz temploma fontos maradvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ny.", "Az olimpiai lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ng hagyomÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nya innen ered."],
-      ro: ["Primele jocuri au avut loc ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®n 776 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®.Hr.", "Este sit UNESCO.", "Templul lui Zeus este o ruinÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ importantÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢.", "TradiÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºia flÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢cÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢rii olimpice porneÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢te de aici."],
-      en: ["The first games were held here in 776 BC.", "It is a UNESCO World Heritage site.", "The Temple of Zeus is a major ruin.", "The Olympic flame tradition comes from here."]
-    },
+        en: [
+          "The Olympic Games were held in honor of Zeus and were so important that a sacred truce was declared across Greece during the games.",
+          "The statue of Zeus in Olympia was about 12 meters tall and was made of ivory plates and gold panels over a wooden framework.",
+          "The Olympic flame is lit using a parabolic mirror that concentrates the sun's rays, a tradition that continues today.",
+          "Women were generally not allowed to compete in or even watch the ancient Olympic Games, with few exceptions.",
+          "The ancient stadium could accommodate up to 45,000 spectators, who sat on the grassy embankments.",
+          "Winners of the ancient games were awarded an olive wreath (kotinos) and were treated as heroes in their home cities.",
+          "The site was rediscovered in 1766 by the English antiquarian Richard Chandler.",
+          "The Philippeion was a circular memorial in the Altis of Olympia, built by Philip II of Macedon to celebrate his victory at Chaeronea.",
+          "The workshop of Phidias was identified by archaeologists through the discovery of tools and molds used for the statue of Zeus.",
+          "Olympia is home to the International Olympic Academy, which promotes the educational and social values of sport."
+        ],
+        de: [
+          "Die Olympischen Spiele wurden zu Ehren von Zeus abgehalten; während der Spiele herrschte in ganz Griechenland ein heiliger Waffenstillstand.",
+          "Die Zeus-Statue in Olympia war etwa 12 Meter hoch und bestand aus Elfenbein und Gold.",
+          "Das olympische Feuer wird mit einem Parabolspiegel entzündet, der die Sonnenstrahlen bündelt.",
+          "Frauen durften an den antiken Olympischen Spielen in der Regel weder teilnehmen noch zuschauen.",
+          "Das antike Stadion bot bis zu 45.000 Zuschauern Platz, die auf Grashügeln saßen.",
+          "Die Sieger der antiken Spiele erhielten einen Olivenkranz (Kotinos) und wurden als Helden gefeiert.",
+          "Die Stätte wurde 1766 von dem englischen Altertumsforscher Richard Chandler wiederentdeckt.",
+          "Das Philippeion war ein kreisförmiges Denkmal, das von Philipp II. von Makedonien errichtet wurde.",
+          "Die Werkstatt des Phidias wurde durch den Fund von Werkzeugen und Formen für die Zeus-Statue identifiziert.",
+          "Olympia ist Sitz der Internationalen Olympischen Akademie."
+        ],
+        hu: [
+          "Az olimpiai játékokat Zeusz tiszteletére tartották, és olyan fontosak voltak, hogy a játékok idejére szent fegyverszünetet hirdettek egész Görögországban.",
+          "Az olümpiai Zeusz-szobor körülbelül 12 méter magas volt, és elefántcsontból, valamint aranyból készült.",
+          "Az olimpiai lángot egy parabolatükör segítségével gyújtják meg, amely összegyűjti a nap sugarait.",
+          "A nőknek általában nem volt szabad részt venniük az ókori olimpiai játékokon, sőt, nézniük sem volt szabad őket.",
+          "Az ókori stadionban akár 45 000 néző is elférhetett, akik a füves rézsűkön ültek.",
+          "Az ókori játékok győztesei olajág-koszorút (kotinosz) kaptak, és hősökként tisztelték őket szülővárosukban.",
+          "A lelőhelyet 1766-ban fedezte fel Richard Chandler angol régiségbúvár.",
+          "A Philippeion egy kör alakú emlékmű volt, amelyet II. Philipposz makedón király építtetett.",
+          "Phidiasz műhelyét a Zeusz-szoborhoz használt szerszámok és öntőformák felfedezése révén azonosították.",
+          "Olümpiában található a Nemzetközi Olimpiai Akadémia."
+        ],
+        ro: [
+          "Jocurile Olimpice erau ținute în onoarea lui Zeus și erau atât de importante încât se declara un armistițiu sacru în toată Grecia.",
+          "Statuia lui Zeus din Olympia avea o înălțime de aproximativ 12 metri și era realizată din fildeș și aur.",
+          "Flacăra olimpică este aprinsă folosind o oglindă parabolică ce concentrează razele soarelui.",
+          "Femeilor nu li se permitea, în general, să concureze sau chiar să privească Jocurile Olimpice antice.",
+          "Stadionul antic putea găzdui până la 45.000 de spectatori, care stăteau pe taluzurile de iarbă.",
+          "Câștigătorii jocurilor antice primeau o cunună de măslin (kotinos) și erau tratați ca eroi în orașele lor natale.",
+          "Situl a fost redescoperit în 1766 de către anticarul englez Richard Chandler.",
+          "Philippeion a fost un memorial circular construit de Filip al II-lea al Macedoniei.",
+          "Atelierul lui Phidias a fost identificat prin descoperirea uneltelor și matrițelor folosite pentru statuia lui Zeus.",
+          "Olympia găzduiește Academia Olimpică Internațională."
+        ]
+      },
     image: "/geo-images/greece/cult-olympia.webp",
   },
   {
@@ -261,19 +597,63 @@ export const greeceCulture: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [22.7539, 37.7306],
-    name: { de: "Mykene", hu: "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©", ro: "Micene", en: "Mycenae" },
+    name: { de: "Mykene", hu: "Mükéné", ro: "Micene", en: "Mycenae" },
     description: {
-      de: "Mykene a bronzkori gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g civilizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ egyik legfontosabb kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja volt.",
-      hu: "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© a bronzkori gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g civilizÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ egyik legfontosabb kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zpontja volt.",
-      ro: "Micene a fost unul dintre cele mai importante centre ale Greciei din epoca bronzului.",
-      en: "Mycenae was one of the most important centers of Bronze Age Greece."
-    },
+        en: "Mycenae, located in the northeastern Peloponnese, is one of the most important archaeological sites in Greece, representing the peak of the Mycenaean civilization that dominated the eastern Mediterranean from the 15th to the 12th century BC. According to Greek mythology, it was the kingdom of the legendary King Agamemnon, who led the Greeks in the Trojan War. The site is famous for its massive 'Cyclopean' walls, built with enormous stone blocks that later Greeks believed could only have been moved by the one-eyed giants. The iconic Lion Gate, the main entrance to the citadel, is a masterpiece of Bronze Age sculpture, featuring two lions flanking a central column. Inside the walls, visitors can explore the Grave Circles, where extraordinary treasures, including the famous 'Mask of Agamemnon', were discovered by Heinrich Schliemann in the 19th century. The site also features the remains of the Royal Palace, which offered panoramic views of the Argive plain. Outside the citadel lies the Treasury of Atreus, also known as the Tomb of Agamemnon, a magnificent tholos (beehive) tomb with a massive corbelled dome that remained the largest dome in the world for over a thousand years. Mycenaean civilization was characterized by its military prowess, advanced engineering, and extensive trade networks. The site's strategic location allowed it to control the routes between the Peloponnese and mainland Greece. Mycenae's decline around 1200 BC remains a subject of historical debate, often linked to internal strife or external invasions. Today, Mycenae is a UNESCO World Heritage site and a symbol of the heroic age of Greece. The Archaeological Museum of Mycenae houses a wealth of artifacts that provide insight into the daily life, religion, and funerary practices of this ancient culture. Walking through the ruins of Mycenae, one is struck by the scale and sophistication of a civilization that inspired the epic poems of Homer. It remains a powerful testament to the origins of Greek culture and the enduring legacy of the Bronze Age. Mycenae is not just a collection of ruins; it is a place where myth and history converge, offering a profound connection to the ancient past.",
+        de: "Mykene auf der Peloponnes ist eine der wichtigsten archäologischen Stätten Griechenlands und repräsentiert den Höhepunkt der mykenischen Zivilisation. Laut Mythologie war es das Königreich von Agamemnon, dem Anführer der Griechen im Trojanischen Krieg. Die Stätte ist berühmt für ihre gewaltigen 'zyklopischen' Mauern und das ikonische Löwentor, ein Meisterwerk der bronzezeitlichen Bildhauerei. Im Inneren der Zitadelle entdeckte Heinrich Schliemann in den Schachtgräbern außergewöhnliche Schätze, darunter die 'Maske des Agamemnon'. Außerhalb der Zitadelle befindet sich das Schatzhaus des Atreus, ein prächtiges Kuppelgrab. Die mykenische Zivilisation war geprägt von militärischer Macht und fortschrittlicher Ingenieurskunst. Mykene ist heute UNESCO-Weltkulturerbe und ein Symbol für das heroische Zeitalter Griechenlands. Die Ruinen zeugen von der Größe einer Kultur, die Homers Epen inspirierte. Mykene ist ein Ort, an dem Mythos und Geschichte verschmelzen und eine tiefe Verbindung zur antiken Vergangenheit bieten.",
+        hu: "Mükéné, a Peloponnészosz északkeleti részén található régészeti lelőhely, a mükénéi civilizáció központja volt, amely az i. e. 15. és 12. század között uralta a Kelet-Mediterráneumot. A görög mitológia szerint ez volt a legendás Agamemnón király birodalma, aki a görögöket vezette a trójai háborúban. A helyszín híres hatalmas 'küklopszi' falairól és az ikonikus Oroszlános kapuról, amely a bronzkori szobrászat remekműve. A citadellán belül találhatók a sírkörök, ahol Heinrich Schliemann a 19. században rendkívüli kincseket, köztük az 'Agamemnón-maszkot' fedezte fel. A váron kívül található Atreusz kincstára, egy monumentális álsír (tholos), amely több mint ezer éven át a világ legnagyobb kupolája volt. A mükénéi kultúrát katonai erő és fejlett mérnöki tudás jellemezte. Mükéné ma az UNESCO Világörökség része és a görög hősök korának szimbóluma. A romok között sétálva megelevenedik Homérosz eposzainak világa. Mükéné az a hely, ahol a mítosz és a történelem találkozik, mély betekintést nyújtva az ókori múltba.",
+        ro: "Micene, situată în nord-estul Peloponezului, este unul dintre cele mai importante situri arheologice din Grecia, reprezentând apogeul civilizației miceniene. Conform mitologiei grecești, a fost regatul legendarului rege Agamemnon, care i-a condus pe greci în Războiul Troian. Situl este faimos pentru zidurile sale masive 'ciclopice' și pentru Poarta Leilor, intrarea principală în citadelă, o capodoperă a sculpturii din Epoca Bronzului. În interiorul zidurilor, Heinrich Schliemann a descoperit în secolul al XIX-lea comori extraordinare, inclusiv celebra 'Mască a lui Agamemnon'. În afara citadelei se află Tezaurul lui Atreus, un magnific mormânt de tip tholos. Civilizația miceniană s-a caracterizat prin pricepere militară și inginerie avansată. Astăzi, Micene este un sit al Patrimoniului Mondial UNESCO și un simbol al epocii eroice a Greciei. Micene nu este doar o colecție de ruine; este un loc unde mitul și istoria converg, oferind o conexiune profundă cu trecutul antic."
+      },
     facts: {
-      de: ["Az oroszlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nos kapu a legismertebb emlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "AgamemnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosakÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt is ismert.", "A kincseskamrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k a hatalmi mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºltat idÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©zik."],
-      hu: ["Az oroszlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nos kapu a legismertebb emlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k.", "UNESCO vilÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ksÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©g.", "AgamemnÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rosakÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt is ismert.", "A kincseskamrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k a hatalmi mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºltat idÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©zik."],
-      ro: ["Poarta Leilor este monumentul cel mai cunoscut.", "Este sit UNESCO.", "Este cunoscutÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i ca cetatea lui Agamemnon.", "Mormintele regale evocÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ trecutul sÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢u de putere."],
-      en: ["The Lion Gate is its best-known monument.", "It is a UNESCO World Heritage site.", "It is also known as Agamemnon's city.", "The royal tombs recall its powerful past."]
-    },
+        en: [
+          "The walls of Mycenae are called 'Cyclopean' because later Greeks believed only the Cyclopes could lift such massive stones.",
+          "The Lion Gate is the earliest known example of monumental sculpture in Europe.",
+          "Heinrich Schliemann, who excavated Mycenae in 1876, famously telegraphed the King of Greece saying, 'I have gazed upon the face of Agamemnon'.",
+          "The Treasury of Atreus features a massive lintel stone above the entrance that weighs approximately 120 tons.",
+          "Mycenaean Greek is the earliest attested form of the Greek language, written in the Linear B script.",
+          "The citadel of Mycenae was built on a hill 278 meters above sea level, providing a strategic defensive position.",
+          "The 'Mask of Agamemnon' is actually believed by modern archaeologists to predate Agamemnon by several centuries.",
+          "Mycenae was the center of a powerful palatial state that controlled much of southern Greece.",
+          "The site includes several shaft graves and tholos tombs that reflect the complex funerary customs of the Mycenaeans.",
+          "Mycenae is mentioned frequently in Homer's 'Iliad' and 'Odyssey' as 'rich in gold'."
+        ],
+        de: [
+          "Die Mauern von Mykene werden 'zyklopisch' genannt, weil man glaubte, nur Zyklopen könnten solche Steine heben.",
+          "Das Löwentor ist das früheste bekannte Beispiel monumentaler Bildhauerei in Europa.",
+          "Heinrich Schliemann telegraphierte 1876 dem griechischen König: 'Ich habe in das Antlitz Agamemnons geschaut'.",
+          "Das Schatzhaus des Atreus hat einen Türsturzstein, der etwa 120 Tonnen wiegt.",
+          "Das mykenische Griechisch ist die früheste bezeugte Form der griechischen Sprache (Linear B).",
+          "Die Zitadelle von Mykene liegt 278 Meter über dem Meeresspiegel.",
+          "Die 'Maske des Agamemnon' ist vermutlich einige Jahrhunderte älter als Agamemnon selbst.",
+          "Mykene war das Zentrum eines mächtigen Palaststaates.",
+          "Die Stätte umfasst Schachtgräber und Kuppelgräber (Tholoi).",
+          "Mykene wird in Homers Epen häufig als 'goldreich' beschrieben."
+        ],
+        hu: [
+          "Mükéné falait 'küklopszinak' nevezik, mert a későbbi görögök azt hitték, csak a küklopszok tudtak ilyen köveket megmozdítani.",
+          "Az Oroszlános kapu a monumentális szobrászat legkorábbi ismert példája Európában.",
+          "Heinrich Schliemann 1876-ban azt táviratozta a görög királynak: 'Szemébe néztem Agamemnónnak'.",
+          "Atreusz kincstárának bejárata felett egy körülbelül 120 tonnás áthidaló kő található.",
+          "A mükénéi görög a görög nyelv legkorábbi ismert formája, amelyet Lineáris B írással rögzítettek.",
+          "Mükéné citadellája 278 méterrel a tengerszint felett épült, stratégiai védelmi pozíciót biztosítva.",
+          "Az 'Agamemnón-maszkról' a modern régészek úgy vélik, hogy több évszázaddal megelőzi Agamemnónt.",
+          "Mükéné egy hatalmas palotaállam központja volt, amely Dél-Görögország nagy részét uralta.",
+          "A helyszín számos aknasírt és tholosz-sírt foglal magában.",
+          "Homérosz az Iliászban és az Odüsszeiában gyakran nevezi Mükénét 'aranyban gazdagnak'."
+        ],
+        ro: [
+          "Zidurile Micenei sunt numite 'ciclopice' deoarece grecii de mai târziu credeau că numai ciclopii pot ridica pietre atât de masive.",
+          "Poarta Leilor este cel mai vechi exemplu cunoscut de sculptură monumentală din Europa.",
+          "Heinrich Schliemann i-a telegrafiat regelui Greciei în 1876: 'Am privit chipul lui Agamemnon'.",
+          "Tezaurul lui Atreus are o piatră de buiandrug deasupra intrării care cântărește aproximativ 120 de tone.",
+          "Greaca miceniană este cea mai veche formă atestată a limbii grecești (scrierea Liniar B).",
+          "Citadela din Micene a fost construită pe un deal la 278 de metri deasupra nivelului mării.",
+          "Se crede că 'Masca lui Agamemnon' este de fapt cu câteva secole mai veche decât Agamemnon.",
+          "Micene a fost centrul unui stat palatial puternic.",
+          "Situl include mai multe morminte cu puț și morminte de tip tholos.",
+          "Micene este menționată frecvent în epopeile lui Homer ca fiind 'bogată în aur'."
+        ]
+      },
     image: "/geo-images/greece/cult-mycenae.webp",
   }
 ];
@@ -304,19 +684,55 @@ export const greeceNature: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [25.3289, 37.4467],
-    name: { de: "Mykonos", hu: "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼konosz", ro: "Mykonos", en: "Mykonos" },
+    name: { de: "Mykonos", hu: "Mükonosz", ro: "Mykonos", en: "Mykonos" },
     description: {
-      de: "Mykonos a Cikladok egyik ikonikus szigete, fehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡zakkal ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lmalmokkal.",
-      hu: "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼konosz a Cikladok ikonikus szigete, fehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡zakkal ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lmalmokkal.",
-      ro: "Mykonos este o insulÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ emblematicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ din Ciclade, cu case albe ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i mori de vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nt.",
-      en: "Mykonos is an iconic Cycladic island with white houses and windmills."
-    },
+        en: "Mykonos, part of the Cyclades island group in the Aegean Sea, is one of Greece's most famous and glamorous destinations, known for its vibrant nightlife, stunning beaches, and iconic whitewashed architecture. The island's main town, Mykonos Town (Chora), is a picturesque maze of narrow streets, blue-domed churches, and bougainvillea-draped houses. The iconic windmills, standing on a hill overlooking the town, are the island's most recognizable landmark and a reminder of its agricultural past. Little Venice, a charming neighborhood where colorful houses are built right at the water's edge, is a popular spot for enjoying sunsets and cocktails. Mykonos is world-renowned for its cosmopolitan atmosphere, attracting celebrities and travelers from all over the globe to its upscale boutiques, fine-dining restaurants, and legendary beach clubs. Despite its reputation as a party island, Mykonos also offers quiet corners and traditional charm, especially in the inland village of Ano Mera with its historic Panagia Tourliani monastery. The island's beaches, such as Paradise, Super Paradise, and Psarou, are famous for their golden sands and crystal-clear turquoise waters. Mykonos is also the gateway to the nearby sacred island of Delos, one of the most important archaeological sites in Greece. The island's unique landscape, characterized by granite rocks and a lack of high mountains, combined with the strong 'meltemi' winds, creates a distinct Aegean atmosphere. Whether seeking high-energy entertainment or serene Mediterranean beauty, Mykonos offers a captivating experience that continues to define the allure of the Greek islands.",
+        de: "Mykonos, Teil der Kykladen in der Ägäis, ist eines der berühmtesten und glamourösesten Reiseziele Griechenlands, bekannt für sein pulsierendes Nachtleben, atemberaubende Strände und die ikonische weißgetünchte Architektur. Der Hauptort Mykonos-Stadt (Chora) ist ein malerisches Labyrinth aus engen Gassen und blaugedeckten Kirchen. Die ikonischen Windmühlen auf einem Hügel über der Stadt sind das bekannteste Wahrzeichen der Insel. Klein-Venedig, ein charmantes Viertel direkt am Wasser, ist ein beliebter Ort für Sonnenuntergänge. Mykonos ist weltberühmt für seine kosmopolitische Atmosphäre und zieht Prominente und Reisende aus aller Welt an. Trotz seines Rufs als Partyinsel bietet Mykonos auch traditionellen Charme, besonders im Dorf Ano Mera. Die Strände der Insel wie Paradise und Psarou sind berühmt für ihr kristallklares Wasser. Mykonos ist auch das Tor zur nahe gelegenen heiligen Insel Delos. Ob hochenergetische Unterhaltung oder ruhige mediterrane Schönheit – Mykonos bietet ein fesselndes Erlebnis, das die Faszination der griechischen Inseln definiert.",
+        hu: "Mükonosz, az Égei-tengeri Kükládok szigetcsoportjának tagja, Görögország egyik leghíresebb és legcsillogóbb úti célja, amely vibráló éjszakai életéről, lenyűgöző strandjairól és ikonikus, fehérre meszelt építészetéről ismert. A sziget fővárosa, Mükonosz városa (Chora) szűk utcák, kék kupolás templomok és bougainvilleával díszített házak festői útvesztője. A város feletti dombon álló ikonikus szélmalmok a sziget legismertebb jelképei. Kis Velence, a bájos negyed, ahol a színes házak közvetlenül a vízpartra épültek, népszerű hely a naplemente élvezetéhez. Mükonosz világhírű kozmopolita hangulatáról, amely hírességeket és utazókat vonz a világ minden tájáról elegáns butikjaiba és legendás strandklubjaiba. A bulisziget hírneve ellenére Mükonosz csendes sarkokat és hagyományos bájt is kínál, különösen Ano Mera faluban. A sziget strandjai, mint a Paradise és a Psarou, híresek aranyhomokjukról és kristálytiszta vizükről. Mükonosz egyben kapu a közeli szent szigethez, Déloszhoz is. Legyen szó pörgős szórakozásról vagy nyugodt mediterrán szépségről, Mükonosz olyan magával ragadó élményt nyújt, amely továbbra is meghatározza a görög szigetek vonzerejét.",
+        ro: "Mykonos, parte a grupului de insule Ciclade din Marea Egee, este una dintre cele mai faimoase și strălucitoare destinații din Grecia, cunoscută pentru viața de noapte vibrantă, plajele uimitoare și arhitectura iconică cu case albe. Orașul principal al insulei, Mykonos Town (Chora), este un labirint pitoresc de străzi înguste și biserici cu cupole albastre. Morile de vânt iconice, situate pe un deal care domină orașul, sunt cel mai recognoscibil simbol al insulei. Mica Veneție, un cartier fermecător unde casele colorate sunt construite chiar la marginea apei, este un loc popular pentru apusuri de soare. Mykonos este renumit în întreaga lume pentru atmosfera sa cosmopolită, atrăgând celebrități și călători din întreaga lume. În ciuda reputației sale de insulă a petrecerilor, Mykonos oferă și farmec tradițional, în special în satul Ano Mera. Plajele insulei, cum ar fi Paradise și Psarou, sunt faimoase pentru apele lor turcoaz cristaline. Mykonos este, de asemenea, poarta de acces către insula sacră Delos. Indiferent dacă căutați divertisment sau frumusețe mediteraneană senină, Mykonos oferă o experiență captivantă care definește alura insulelor grecești."
+      },
     facts: {
-      de: ["Kis-Velence a legismertebb partszakasz.", "A szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lmalmok a sziget jelkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pei.", "A kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ nagyon ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nk nyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ron.", "A strandok ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©jszakai ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©let is hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­resek."],
-      hu: ["Kis-Velence a legismertebb partszakasz.", "A szÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lmalmok a sziget jelkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©pei.", "A kikÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶tÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ nagyon ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nk nyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ron.", "A strandok ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©jszakai ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©let is hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­resek."],
-      ro: ["Mica VeneÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºie este cea mai cunoscutÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ zonÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de pe mal.", "Moriile de vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nt sunt simbolul insulei.", "Portul este foarte animat vara.", "Plajele ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i viaÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºa de noapte sunt celebre."],
-      en: ["Little Venice is the best-known waterfront area.", "The windmills are the island's symbol.", "The harbor is very lively in summer.", "The beaches and nightlife are famous."]
-    },
+        en: [
+          "The windmills of Mykonos were built by the Venetians in the 16th century to mill wheat and remained in use until the early 20th century.",
+          "Petros the Pelican was the official mascot of Mykonos for over 30 years; today, several pelicans still roam the waterfront.",
+          "The church of Panagia Paraportiani is one of the most photographed churches in the world, consisting of five smaller churches built together.",
+          "Mykonos is known as the 'Island of the Winds' due to the strong northern winds called 'meltemi' that blow during the summer.",
+          "The island was a poor, quiet place until the 1950s, when it began to attract artists and later international jet-setters.",
+          "Little Venice was originally built by wealthy merchants who wanted direct access to the sea for quick loading and unloading of goods.",
+          "The nearby island of Delos, accessible from Mykonos, is the mythological birthplace of Apollo and Artemis.",
+          "Mykonos has a unique law that requires all buildings to be painted white with blue, red, or green doors and windows."
+        ],
+        de: [
+          "Die Windmühlen von Mykonos wurden im 16. Jahrhundert von den Venezianern zum Mahlen von Weizen errichtet.",
+          "Petros der Pelikan war über 30 Jahre lang das offizielle Maskottchen von Mykonos.",
+          "Die Kirche Panagia Paraportiani ist eine der meistfotografierten Kirchen der Welt.",
+          "Mykonos ist aufgrund der starken 'Meltemi'-Winde als 'Insel der Winde' bekannt.",
+          "Die Insel war bis in die 1950er Jahre ein armer, ruhiger Ort.",
+          "Klein-Venedig wurde ursprünglich von reichen Kaufleuten erbaut.",
+          "Die nahe gelegene Insel Delos ist der mythologische Geburtsort von Apollo und Artemis.",
+          "Ein Gesetz auf Mykonos schreibt vor, dass alle Gebäude weiß gestrichen sein müssen."
+        ],
+        hu: [
+          "Mükonosz szélmalmait a velenceiek építették a 16. században búzaőrlésre.",
+          "Petrosz, a pelikán több mint 30 éven át volt Mükonosz hivatalos kabalája.",
+          "A Panagia Paraportiani templom a világ egyik legtöbbet fényképezett temploma.",
+          "Mükonoszt a 'szelek szigeteként' ismerik az erős északi szél, a 'meltemi' miatt.",
+          "A sziget az 1950-es évekig szegény, csendes hely volt.",
+          "Kis Velencét eredetileg gazdag kereskedők építették.",
+          "A közeli Délosz szigete Apollón és Artemisz mitológiai szülőhelye.",
+          "Mükonoszon törvény írja elő, hogy minden épületet fehérre kell festeni."
+        ],
+        ro: [
+          "Morile de vânt din Mykonos au fost construite de venețieni în secolul al XVI-lea pentru a măcina grâul.",
+          "Pelicanul Petros a fost mascota oficială a insulei Mykonos timp de peste 30 de ani.",
+          "Biserica Panagia Paraportiani este una dintre cele mai fotografiate biserici din lume.",
+          "Mykonos este cunoscută sub numele de 'Insula Vânturilor' datorită vânturilor puternice numite 'meltemi'.",
+          "Insula a fost un loc sărac și liniștit până în anii 1950.",
+          "Mica Veneție a fost construită inițial de negustori bogați.",
+          "Insula Delos din apropiere este locul mitologic de naștere al lui Apollo și al Artemisei.",
+          "Mykonos are o lege care impune ca toate clădirile să fie vopsite în alb."
+        ]
+      },
     image: "/geo-images/greece/nat-mykonos.webp",
   },
   {
@@ -324,19 +740,47 @@ export const greeceNature: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [22.3584, 40.0858],
-    name: { de: "Olymp", hu: "OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mposz", ro: "Olimp", en: "Mount Olympus" },
+    name: { de: "Olymp", hu: "Olümposz", ro: "Muntele Olimp", en: "Mount Olympus" },
     description: {
-      de: "Der Olymp GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g legmagasabb hegye ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az istenek hegyekÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nt ismert.",
-      hu: "Az OlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mposz GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶gorszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡g legmagasabb hegye ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s az istenek hegye.",
-      ro: "Olimpul este cel mai ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®nalt munte al Greciei ÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢i muntele zeilor.",
-      en: "Mount Olympus is Greece's highest mountain and the mountain of the gods."
-    },
+        en: "Mount Olympus, the highest mountain in Greece, is a place of immense natural beauty and profound mythological significance. Rising to 2,917 meters at its highest peak, Mytikas, it was revered by the ancient Greeks as the home of the Twelve Olympian Gods. The mountain's diverse landscape includes deep gorges, lush forests, and alpine meadows, supporting a rich variety of flora and fauna, many of which are endemic to the region. In 1938, Mount Olympus became Greece's first National Park, and it was later designated as a UNESCO Biosphere Reserve. The mountain is a popular destination for hikers and climbers from around the world, offering a range of trails that lead to its various peaks and mountain refuges. The town of Litochoro, situated at the foot of the mountain, serves as the primary starting point for expeditions. Beyond its physical challenges, Mount Olympus continues to inspire with its mystical atmosphere and the enduring legends that have shaped Western culture. Whether exploring the Enipeas Gorge or standing on the 'Throne of Zeus', visitors are immersed in a landscape that bridges the gap between the earthly and the divine.",
+        de: "Der Olymp, der höchste Berg Griechenlands, ist ein Ort von immenser natürlicher Schönheit und tiefer mythologischer Bedeutung. Mit 2.917 Metern am höchsten Gipfel, Mytikas, wurde er von den alten Griechen als Sitz der zwölf olympischen Götter verehrt. Die vielfältige Landschaft des Berges umfasst tiefe Schluchten, üppige Wälder und alpine Wiesen. 1938 wurde der Olymp zum ersten Nationalpark Griechenlands erklärt und später als UNESCO-Biosphärenreservat ausgewiesen. Der Berg ist ein beliebtes Ziel für Wanderer und Bergsteiger weltweit. Die Stadt Litochoro am Fuße des Berges dient als Ausgangspunkt für Expeditionen. Ob man die Enipeas-Schlucht erkundet oder auf dem 'Thron des Zeus' steht – der Olymp bietet eine Landschaft, die die Kluft zwischen dem Irdischen und dem Göttlichen überbrückt.",
+        hu: "Az Olümposz, Görögország legmagasabb hegye, hatalmas természeti szépséggel és mély mitológiai jelentőséggel bíró hely. Legmagasabb csúcsa, a Mitikasz 2917 méter magasra nyúlik; az ókori görögök a tizenkét olümposzi isten lakhelyeként tisztelték. A hegy változatos tájai mély szurdokokat, dús erdőket és alpesi réteket foglalnak magukban, gazdag növény- és állatvilággal. 1938-ban az Olümposz lett Görögország első nemzeti parkja, később pedig UNESCO bioszféra-rezervátummá nyilvánították. A hegy a világ minden tájáról érkező túrázók és hegymászók népszerű úti célja. A hegy lábánál fekvő Litochoro városa szolgál az expedíciók elsődleges kiindulópontjaként. Az Olümposz misztikus hangulatával és a nyugati kultúrát meghatározó legendáival ma is inspirálja a látogatókat.",
+        ro: "Muntele Olimp, cel mai înalt munte din Grecia, este un loc de o frumusețe naturală imensă și de o semnificație mitologică profundă. Ridicându-se la 2.917 metri în cel mai înalt vârf al său, Mytikas, a fost venerat de vechii greci ca fiind casa celor doisprezece zei olimpieni. Peisajul divers al muntelui include chei adânci, păduri luxuriante și pajiști alpine. În 1938, Muntele Olimp a devenit primul parc național al Greciei, fiind ulterior desemnat Rezervație a Biosferei UNESCO. Muntele este o destinație populară pentru drumeți și alpiniști din întreaga lume. Orașul Litochoro, situat la poalele muntelui, servește ca punct principal de plecare pentru expediții. Muntele Olimp continuă să inspire prin atmosfera sa mistică și legendele durabile care au modelat cultura occidentală."
+      },
     facts: {
-      de: ["A mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tosz szerint itt ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ltek az istenek.", "Nemzeti park terÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼letÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n fekszik.", "A csÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºcsok lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nya ikonikus.", "A gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g termÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szet egyik szimbÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³luma."],
-      hu: ["A mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tosz szerint itt ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ltek az istenek.", "Nemzeti park terÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼letÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©n fekszik.", "A csÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºcsok lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nya ikonikus.", "A gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g termÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szet egyik szimbÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³luma."],
-      ro: ["ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â½n mitologie aici locuiau zeii.", "Se aflÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®ntr-un parc naÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºional.", "VÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢rfurile sale sunt iconice.", "Este un simbol al naturii greceÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ti."],
-      en: ["In myth, the gods lived here.", "It lies within a national park.", "Its peaks are iconic.", "It is a symbol of Greek nature."]
-    },
+        en: [
+          "Mount Olympus has 52 peaks, with Mytikas being the highest at 2,917 meters.",
+          "The first successful ascent of Mytikas was made in 1913 by Christos Kakkalos and two Swiss climbers.",
+          "The mountain is home to over 1,700 species of plants, representing about 25% of all Greek flora.",
+          "In Greek mythology, the peak of Stefani was considered the 'Throne of Zeus'.",
+          "Mount Olympus was the first area in Greece for which a special protection status was applied (1938).",
+          "The mountain features several mountain refuges that provide accommodation for hikers and climbers."
+        ],
+        de: [
+          "Der Olymp hat 52 Gipfel, wobei der Mytikas mit 2.917 Metern der höchste ist.",
+          "Die erste erfolgreiche Besteigung des Mytikas erfolgte 1913.",
+          "Der Berg beherbergt über 1.700 Pflanzenarten.",
+          "In der griechischen Mythologie galt der Gipfel Stefani als 'Thron des Zeus'.",
+          "Der Olymp war das erste Gebiet in Griechenland mit speziellem Schutzstatus (1938).",
+          "Es gibt mehrere Berghütten, die Wanderern Unterkunft bieten."
+        ],
+        hu: [
+          "Az Olümposznak 52 csúcsa van, a legmagasabb a 2917 méteres Mitikasz.",
+          "A Mitikasz első sikeres megmászása 1913-ban történt.",
+          "A hegyen több mint 1700 növényfaj található, ami a görög flóra mintegy 25%-a.",
+          "A görög mitológiában a Stefani-csúcsot tekintették 'Zeusz trónjának'.",
+          "Az Olümposz volt az első terület Görögországban, amely különleges védelmi státuszt kapott (1938).",
+          "A hegyen számos menedékház található, amelyek szállást biztosítanak a túrázóknak."
+        ],
+        ro: [
+          "Muntele Olimp are 52 de vârfuri, Mytikas fiind cel mai înalt, la 2.917 metri.",
+          "Prima ascensiune reușită pe Mytikas a fost făcută în 1913.",
+          "Muntele găzduiește peste 1.700 de specii de plante.",
+          "În mitologia greacă, vârful Stefani era considerat 'Tronul lui Zeus'.",
+          "Muntele Olimp a fost prima zonă din Grecia cu statut special de protecție (1938).",
+          "Muntele are mai multe refugii montane care oferă cazare pentru drumeți."
+        ]
+      },
     image: "/geo-images/greece/nat-olympus.webp",
   },
   {
@@ -344,19 +788,47 @@ export const greeceNature: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [23.9656, 35.2989],
-    name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Cheile Samaria", en: "Samaria Gorge" },
+    name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Cheile Samariei", en: "Samaria Gorge" },
     description: {
-      de: "A Szamaria-szurdok KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta leglÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nyosabb tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂºraÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºtvonalai kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© tartozik.",
-      hu: "A Szamaria-szurdok KrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ta egyik leglÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡tvÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡nyosabb termÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szeti helye.",
-      ro: "Cheile Samaria sunt unul dintre cele mai spectaculoase locuri naturale din Creta.",
-      en: "Samaria Gorge is one of Crete's most spectacular natural sites."
-    },
+        en: "The Samaria Gorge, located in the White Mountains of western Crete, is one of the longest and most spectacular canyons in Europe. Stretching for 16 kilometers, the gorge is a National Park and a UNESCO Biosphere Reserve, renowned for its dramatic cliffs, diverse flora, and unique wildlife. The hike through the gorge is a popular challenge for visitors, starting at the Xyloskalo trailhead at an altitude of 1,230 meters and ending at the coastal village of Agia Roumeli on the Libyan Sea. Along the way, hikers pass through the 'Iron Gates', the narrowest part of the gorge where the walls rise to 500 meters and are only 4 meters apart. The gorge is home to the rare Kri-Kri, a wild Cretan goat, and numerous endemic plant species. The abandoned village of Samaria, located halfway through the trek, offers a glimpse into the region's past. The gorge's stunning natural beauty and geological significance make it a must-visit destination for nature lovers and outdoor enthusiasts. The trail is typically open from May to October, depending on weather conditions, and provides an unforgettable journey through one of Crete's most iconic landscapes.",
+        de: "Die Samaria-Schlucht in den Weißen Bergen Westkretas ist eine der längsten und spektakulärsten Schluchten Europas. Mit einer Länge von 16 Kilometern ist sie ein Nationalpark und UNESCO-Biosphärenreservat, bekannt für ihre dramatischen Klippen und einzigartige Tierwelt. Die Wanderung beginnt in Xyloskalo auf 1.230 Metern Höhe und endet im Küstendorf Agia Roumeli am Libyschen Meer. Ein Höhepunkt sind die 'Eisernen Tore', die engste Stelle der Schlucht. Die Schlucht ist die Heimat der seltenen Kri-Kri-Wildziege. Die atemberaubende Naturschönheit macht sie zu einem Muss für Naturliebhaber. Der Weg ist normalerweise von Mai bis Oktober geöffnet und bietet eine unvergessliche Reise durch eine der ikonischsten Landschaften Kretas.",
+        hu: "A Szamaria-szurdok, amely a nyugat-krétai Fehér-hegységben található, Európa egyik leghosszabb és leglátványosabb kanyonja. A 16 kilométer hosszú szurdok nemzeti park és UNESCO bioszféra-rezervátum, amely drámai szikláiról, változatos flórájáról és egyedülálló állatvilágáról híres. A szurdokon átvezető túra népszerű kihívás, amely 1230 méteres magasságban, Xüloszkalónál kezdődik és a Líbiai-tenger partján fekvő Agia Roumeli falunál ér véget. Az út során a túrázók áthaladnak a 'Vaskapun', a szurdok legszűkebb részén, ahol a falak 500 méter magasak és mindössze 4 méterre vannak egymástól. A szurdok ad otthont a ritka kri-krinek, a krétai vadkecskének. A Szamaria-szurdok lenyűgöző természeti szépsége és geológiai jelentősége miatt a természetjárók kedvelt úti célja.",
+        ro: "Cheile Samariei, situate în Munții Albi din vestul Cretei, sunt unul dintre cele mai lungi și spectaculoase canioane din Europa. Întinzându-se pe 16 kilometri, cheile sunt un Parc Național și o Rezervație a Biosferei UNESCO, renumite pentru stâncile dramatice și fauna unică. Drumeția prin chei începe la Xyloskalo, la o altitudine de 1.230 de metri, și se termină în satul de coastă Agia Roumeli. Pe parcurs, drumeții trec prin 'Porțile de Fier', cea mai îngustă parte a cheilor. Cheile găzduiesc rara capră sălbatică cretană Kri-Kri. Frumusețea naturală uimitoare a cheilor le face o destinație obligatorie pentru iubitorii de natură. Traseul este de obicei deschis din mai până în octombrie și oferă o călătorie de neuitat printr-unul dintre cele mai iconice peisaje ale Cretei."
+      },
     facts: {
-      de: ["KÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lbelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l 16 km hosszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âº.", "A Nemzeti Park rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©sze.", "A tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºra Agia RoumelinÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©get.", "Ritka vadkecskÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lnek itt."],
-      hu: ["KÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lbelÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l 16 km hosszÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âº.", "A Nemzeti Park rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©sze.", "A tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºra Agia RoumelinÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©l ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©get.", "Ritka vadkecskÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©k ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©lnek itt."],
-      ro: ["Are aproximativ 16 km lungime.", "Face parte din parc naÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºional.", "DrumeÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âºia se terminÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ la Agia Roumeli.", "Aici trÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢iesc capre sÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢lbatice rare."],
-      en: ["It is about 16 km long.", "It is part of a national park.", "The hike ends at Agia Roumeli.", "Rare wild goats live here."]
-    },
+        en: [
+          "The Samaria Gorge is 16 kilometers long, making it one of the longest in Europe.",
+          "The 'Iron Gates' is the narrowest point, where the gorge is only 4 meters wide and 500 meters high.",
+          "The gorge was declared a National Park in 1962 to protect the endangered Kri-Kri goat.",
+          "The village of Samaria was inhabited until 1962, when it was evacuated to create the National Park.",
+          "The hike typically takes between 5 to 7 hours to complete, depending on the pace.",
+          "The gorge is only accessible during the day and is closed at night for safety reasons."
+        ],
+        de: [
+          "Die Samaria-Schlucht ist 16 Kilometer lang und damit eine der längsten in Europa.",
+          "Die 'Eisernen Tore' sind die engste Stelle, nur 4 Meter breit und 500 Meter hoch.",
+          "Die Schlucht wurde 1962 zum Nationalpark erklärt, um die Kri-Kri-Ziege zu schützen.",
+          "Das Dorf Samaria war bis 1962 bewohnt.",
+          "Die Wanderung dauert in der Regel zwischen 5 und 7 Stunden.",
+          "Die Schlucht ist nur tagsüber zugänglich."
+        ],
+        hu: [
+          "A Szamaria-szurdok 16 kilométer hosszú, amivel Európa egyik leghosszabb szurdoka.",
+          "A 'Vaskapu' a legszűkebb pont, ahol a szurdok mindössze 4 méter széles és 500 méter magas.",
+          "A szurdokot 1962-ben nyilvánították nemzeti parkká a veszélyeztetett kri-kri kecske védelmében.",
+          "Szamaria falu 1962-ig lakott volt, ekkor ürítették ki a nemzeti park létrehozása miatt.",
+          "A túra általában 5-7 órát vesz igénybe a tempótól függően.",
+          "A szurdok csak napközben látogatható, éjszakára biztonsági okokból lezárják."
+        ],
+        ro: [
+          "Cheile Samariei au o lungime de 16 kilometri, fiind printre cele mai lungi din Europa.",
+          " 'Porțile de Fier' reprezintă cel mai îngust punct, unde cheile au doar 4 metri lățime și 500 metri înălțime.",
+          "Cheile au fost declarate Parc Național în 1962 pentru a proteja capra Kri-Kri.",
+          "Satul Samaria a fost locuit până în 1962.",
+          "Drumeția durează de obicei între 5 și 7 ore.",
+          "Cheile sunt accesibile doar în timpul zilei."
+        ]
+      },
     image: "/geo-images/greece/nat-samaria.webp",
   },
   {
@@ -364,19 +836,47 @@ export const greeceNature: POI[] = [
     type: "landmark",
     parent: "greece",
     coords: [20.5367, 38.3390],
-    name: { de: "Myrtos", hu: "Myrtos strand", ro: "Plaja Myrtos", en: "Myrtos Beach" },
+    name: { de: "Myrtos-Strand", hu: "Mirtosz-part", ro: "Plaja Myrtos", en: "Myrtos Beach" },
     description: {
-      de: "Myrtos strandja KefalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³niÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡n a gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g tengerpart egyik ikonja.",
-      hu: "A kefalÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³niai Myrtos strand a gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶g tengerpart egyik ikonja.",
-      ro: "Plaja Myrtos din Kefalonia este o imagine iconicÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ a litoralului grecesc.",
-      en: "Myrtos Beach on Kefalonia is an icon of the Greek coastline."
-    },
+        en: "Myrtos Beach, located on the northwest coast of Kefalonia, is widely considered one of the most beautiful and iconic beaches in Greece and the entire Mediterranean. Nestled between the feet of two mountains, Agia Dynati and Kalon Oros, the beach is famous for its dazzling white pebbles and vibrant turquoise waters that create a stunning contrast against the steep limestone cliffs. The beach's unique semicircular shape and the dramatic landscape surrounding it make it a favorite subject for photographers and a must-visit destination for travelers. Myrtos has frequently been voted as the best beach in Greece and has received numerous international accolades for its natural beauty and cleanliness. Despite its popularity, the beach remains relatively undeveloped, preserving its wild and majestic character. Visitors can enjoy breathtaking views from the road above before descending to the shore to experience the crystal-clear sea. The sunset at Myrtos is particularly spectacular, as the sun dips below the horizon, casting a golden glow over the water and cliffs. Whether swimming in its refreshing waters or simply soaking in the scenery, Myrtos Beach offers an unforgettable experience that captures the essence of the Ionian Islands' allure.",
+        de: "Der Myrtos-Strand an der Nordwestküste von Kefalonia gilt als einer der schönsten und ikonischsten Strände Griechenlands und des gesamten Mittelmeerraums. Eingebettet zwischen zwei Bergen, ist der Strand berühmt für seine strahlend weißen Kieselsteine und das leuchtend türkisfarbene Wasser, das einen beeindruckenden Kontrast zu den steilen Kalksteinfelsen bildet. Myrtos wurde mehrfach zum besten Strand Griechenlands gewählt. Trotz seiner Beliebtheit ist der Strand weitgehend naturbelassen geblieben. Der Sonnenuntergang bei Myrtos ist besonders spektakulär. Ob man im kristallklaren Wasser schwimmt oder einfach die Szenerie genießt – der Myrtos-Strand bietet ein unvergessliches Erlebnis, das den Zauber der Ionischen Inseln einfängt.",
+        hu: "A Mirtosz-part, amely Kefalónia északnyugati partján található, Görögország és az egész Földközi-tenger egyik legszebb és legikonikusabb strandjaként ismert. Két hegy, az Agia Dynati és a Kalon Oros lábánál fekszik; a strand híres vakítóan fehér kavicsairól és vibráló türkizkék vizéről, amely lenyűgöző kontrasztot alkot a meredek mészkősziklákkal. Mirtoszt többször választották Görögország legjobb strandjának, és számos nemzetközi elismerést kapott természeti szépségéért. Népszerűsége ellenére a part viszonylag érintetlen maradt, megőrizve vad és fenséges karakterét. A naplemente Mirtosznál különösen látványos, ahogy a nap a horizont alá süllyed, arany fényt árasztva a vízre és a sziklákra. A Mirtosz-part felejthetetlen élményt nyújt, amely tökéletesen megragadja a Jón-szigetek vonzerejét.",
+        ro: "Plaja Myrtos, situată pe coasta de nord-vest a insulei Kefalonia, este considerată una dintre cele mai frumoase și iconice plaje din Grecia și din întreaga Mediterană. Cuibărită între picioarele a doi munți, plaja este faimoasă pentru pietricelele sale albe strălucitoare și apele turcoaz vibrante care creează un contrast uimitor cu stâncile abrupte de calcar. Myrtos a fost votată frecvent ca fiind cea mai bună plajă din Grecia. În ciuda popularității sale, plaja rămâne relativ nedezvoltată, păstrându-și caracterul sălbatic și maiestuos. Apusul de soare la Myrtos este deosebit de spectaculos. Fie că înoată în apele sale revigorante sau pur și simplu admiră peisajul, Plaja Myrtos oferă o experiență de neuitat care surprinde esența alurii Insulelor Ionice."
+      },
     facts: {
-      de: ["FehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r kavicsos ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶l.", "Meredek mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szkÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“sziklÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k veszik kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l.", "A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­z kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶sen tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiz.", "Naplementekor a legszebb."],
-      hu: ["FehÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r kavicsos ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶l.", "Meredek mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©szkÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“sziklÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡k veszik kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼l.", "A vÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­z kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶sen tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiz.", "Naplementekor a legszebb."],
-      ro: ["Golf cu pietriÃƒÆ’Ã‹â€ ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ alb.", "Este ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â®nconjuratÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ de stÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nci de calcar.", "Apa este foarte turcoaz.", "Este superbÃƒÆ’Ã¢â‚¬Å¾Ãƒâ€ Ã¢â‚¬â„¢ la apus."],
-      en: ["A white-pebble bay.", "It is framed by limestone cliffs.", "The water is especially turquoise.", "It is best at sunset."]
-    },
+        en: [
+          "Myrtos Beach has been voted the best beach in Greece 12 times.",
+          "The beach is composed of fine white pebbles and sand, which contribute to the water's intense blue color.",
+          "The water at Myrtos gets deep very quickly, so swimmers should be cautious.",
+          "There are no permanent structures on the beach to preserve its natural beauty, though sunbeds are available in summer.",
+          "The beach was used as a filming location for the movie 'Captain Corelli's Mandolin'.",
+          "The road leading down to the beach offers several viewpoints that are perfect for photography."
+        ],
+        de: [
+          "Der Myrtos-Strand wurde 12 Mal zum besten Strand Griechenlands gewählt.",
+          "Der Strand besteht aus feinen weißen Kieselsteinen und Sand.",
+          "Das Wasser bei Myrtos wird sehr schnell tief.",
+          "Es gibt keine dauerhaften Gebäude am Strand, um seine natürliche Schönheit zu bewahren.",
+          "Der Strand diente als Drehort für den Film 'Corellis Mandoline'.",
+          "Die Straße zum Strand bietet mehrere Aussichtspunkte, die ideal zum Fotografieren sind."
+        ],
+        hu: [
+          "A Mirtosz-partot 12 alkalommal választották Görögország legjobb strandjának.",
+          "A strand finom fehér kavicsokból és homokból áll, ami hozzájárul a víz intenzív kék színéhez.",
+          "A víz Mirtosznál nagyon gyorsan mélyül, ezért az úszóknak óvatosnak kell lenniük.",
+          "A strandon nincsenek állandó építmények a természeti szépség megőrzése érdekében.",
+          "A strand a 'Corelli kapitány mandolinja' című film egyik forgatási helyszíne volt.",
+          "A strandra vezető út mentén több kilátópont is található, amelyek tökéletesek fotózáshoz."
+        ],
+        ro: [
+          "Plaja Myrtos a fost votată de 12 ori drept cea mai bună plajă din Grecia.",
+          "Plaja este compusă din pietricele albe fine și nisip.",
+          "Apa de la Myrtos devine adâncă foarte repede.",
+          "Nu există structuri permanente pe plajă pentru a-i păstra frumusețea naturală.",
+          "Plaja a fost folosită ca locație de filmare pentru filmul 'Mandolina căpitanului Corelli'.",
+          "Drumul care coboară spre plajă oferă câteva puncte de belvedere perfecte pentru fotografii."
+        ]
+      },
     image: "/geo-images/greece/nat-myrtos.webp",
   }
   ,
