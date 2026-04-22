@@ -4,7 +4,7 @@ import {
   type PointerEvent as RPointerEvent,
   type WheelEvent as RWheelEvent,
 } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star } from "lucide-react";
 import { type BundeslandPath } from "../maps/deutschland.svg";
@@ -125,7 +125,11 @@ export const InteractiveMap = ({
   initialPoiId?: string | null;
 }) => {
   const router = useRouter();
-  const searchParams = useSearchParams();
+  // Static-export-safe URL param reader (avoids useSearchParams Suspense requirement)
+  const searchParams = useMemo(() => {
+    if (typeof window === "undefined") return null;
+    return new URLSearchParams(window.location.search);
+  }, []);
 
   // ---- Country map resolver (lang-based) ---------------------------------
   const countryData = useMemo(() => getCountryMap(lang as Lang), [lang]);
