@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight, Download } from "lucide-react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
+import { useLang } from "@/components/LanguageProvider";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
 import RewardReveal from "@/components/RewardReveal";
@@ -202,19 +203,22 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
 function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig }) {
   const avatarProps = useAvatarProps();
   const searchParams = useSearchParams();
+  const { lang: globalLang } = useLang();
   const { labels } = config;
+  // Főoldali nyelvválasztó → country mapping (UI country-picker tiltva)
+  const langToCountry: Record<string, string> = { de: "DE", hu: "HU", ro: "RO", en: "US" };
+  const countryFromLang = langToCountry[globalLang] ?? (config.countries[0]?.code ?? "DE");
   const g1Icons = config.g1Icons ?? G1_ICONS;
   const g1WordLabels = config.g1WordLabels ?? G1_WORD_LABELS;
-  // Check if country was already selected (persisted)
-  const savedCountry = typeof window !== "undefined"
-    ? localStorage.getItem(config.storageKey)
-    : null;
+  // Country auto-derived from global lang — UI country-picker átugorva
   // Check for ?grade=N query param — if present, skip grade-select and go to topics
   const gradeParam = searchParams?.get("grade");
   const parsedGradeParam = gradeParam ? parseInt(gradeParam, 10) : NaN;
   const hasGradeParam = Number.isFinite(parsedGradeParam) && parsedGradeParam >= 1 && parsedGradeParam <= 8;
-  const [screen, setScreen] = useState<Screen>(hasGradeParam ? "topics" : (savedCountry ? "grade" : "country"));
-  const [country, setCountry] = useState<string>(savedCountry ?? config.countries[0]?.code ?? "DE");
+  const [screen, setScreen] = useState<Screen>(hasGradeParam ? "topics" : "grade");
+  const [country, setCountry] = useState<string>(countryFromLang);
+  // Sync country if lang changes
+  useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
   const [grade, setGrade] = useState(hasGradeParam ? parsedGradeParam : 1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
