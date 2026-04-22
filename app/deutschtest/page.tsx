@@ -222,6 +222,12 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const [country, setCountry] = useState<string>(countryFromLang);
   // Sync country if lang changes
   useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
+  // Ha a lang betoltodik es multi-country (DE/EN), de meg a "grade" initial screenen vagyunk → country-ra
+  useEffect(() => {
+    if (hasCountryChoice && !hasGradeParam) {
+      setScreen((prev) => (prev === "grade" ? "country" : prev));
+    }
+  }, [hasCountryChoice, hasGradeParam]);
   const [grade, setGrade] = useState(hasGradeParam ? parsedGradeParam : 1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
