@@ -65,7 +65,7 @@ function extractTasks(json: any): RawTask[] {
 export const INFO_K1_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k1_alapok",
-    name: "Számítógép alapok",
+    name: { de: "Computer Grundlagen", hu: "Számítógép alapok", ro: "Bazele computerului", en: "Computer Basics" },
     icon: "💻",
     color: "#3B82F6",
     subtopics: [
@@ -78,7 +78,7 @@ export const INFO_K1_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k1_hasznalat",
-    name: "Használat",
+    name: { de: "Nutzung", hu: "Használat", ro: "Utilizare", en: "Usage" },
     icon: "🖱️",
     color: "#10B981",
     subtopics: [
@@ -91,7 +91,7 @@ export const INFO_K1_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k1_media",
-    name: "Média",
+    name: { de: "Medien", hu: "Média", ro: "Media", en: "Media" },
     icon: "🎬",
     color: "#F59E0B",
     subtopics: [
@@ -104,7 +104,7 @@ export const INFO_K1_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k1_egeszseg",
-    name: "Egészség",
+    name: { de: "Gesundheit", hu: "Egészség", ro: "Sănătate", en: "Health" },
     icon: "❤️",
     color: "#EF4444",
     subtopics: [
@@ -117,7 +117,7 @@ export const INFO_K1_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k1_biztonsag",
-    name: "Biztonság",
+    name: { de: "Sicherheit", hu: "Biztonság", ro: "Securitate", en: "Security" },
     icon: "🛡️",
     color: "#8B5CF6",
     subtopics: [

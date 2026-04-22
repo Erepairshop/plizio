@@ -3,7 +3,7 @@ import { getGeneratedQuestions, type KemiaGeneratorMap, type KemiaTheme } from "
 const K6: KemiaTheme[] = [
   {
     id: "atoms_elements",
-    name: "Atome und Elemente",
+    name: { de: "Atome und Elemente", hu: "Atomok és elemek", ro: "Atomi și elemente", en: "Atoms and Elements" },
     icon: "⚛️",
     color: "#EF4444",
     subtopics: [
@@ -16,7 +16,7 @@ const K6: KemiaTheme[] = [
   },
   {
     id: "compounds_particles",
-    name: "Verbindungen und Teilchen",
+    name: { de: "Verbindungen und Teilchen", hu: "Vegyületek és részecskék", ro: "Compuși și particule", en: "Compounds and Particles" },
     icon: "🔗",
     color: "#F59E0B",
     subtopics: [
@@ -29,7 +29,7 @@ const K6: KemiaTheme[] = [
   },
   {
     id: "reactions_equations",
-    name: "Reaktionen verstehen",
+    name: { de: "Reaktionen verstehen", hu: "Reakciók megértése", ro: "Înțelegerea reacțiilor", en: "Understanding Reactions" },
     icon: "💥",
     color: "#10B981",
     subtopics: [
@@ -42,7 +42,7 @@ const K6: KemiaTheme[] = [
   },
   {
     id: "acids_bases_intro",
-    name: "Säuren und Basen",
+    name: { de: "Säuren und Basen", hu: "Savak és bázisok", ro: "Acizi și baze", en: "Acids and Bases" },
     icon: "🧫",
     color: "#3B82F6",
     subtopics: [
@@ -55,7 +55,7 @@ const K6: KemiaTheme[] = [
   },
   {
     id: "solutions_separation",
-    name: "Lösungen und Trennmethoden",
+    name: { de: "Lösungen und Trennmethoden", hu: "Oldatok és elválasztási módszerek", ro: "Soluții și metode de separare", en: "Solutions and Separation Methods" },
     icon: "💧",
     color: "#8B5CF6",
     subtopics: [
@@ -68,7 +68,7 @@ const K6: KemiaTheme[] = [
   },
   {
     id: "environment_resources",
-    name: "Chemie und Umwelt",
+    name: { de: "Chemie und Umwelt", hu: "Kémia és környezet", ro: "Chimie și mediu", en: "Chemistry and Environment" },
     icon: "🌍",
     color: "#EC4899",
     subtopics: [

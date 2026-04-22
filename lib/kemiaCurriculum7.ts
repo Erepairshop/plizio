@@ -3,7 +3,7 @@ import { getGeneratedQuestions, type KemiaGeneratorMap, type KemiaTheme } from "
 const K7: KemiaTheme[] = [
   {
     id: "atomic_structure",
-    name: "Atombau",
+    name: { de: "Atombau", hu: "Atomszerkezet", ro: "Structura atomului", en: "Atomic Structure" },
     icon: "⚛️",
     color: "#EF4444",
     subtopics: [
@@ -16,7 +16,7 @@ const K7: KemiaTheme[] = [
   },
   {
     id: "periodic_table",
-    name: "Periodensystem",
+    name: { de: "Periodensystem", hu: "Periódusos rendszer", ro: "Tabelul periodic", en: "Periodic Table" },
     icon: "📋",
     color: "#F59E0B",
     subtopics: [
@@ -29,7 +29,7 @@ const K7: KemiaTheme[] = [
   },
   {
     id: "bonding",
-    name: "Bindungen",
+    name: { de: "Bindungen", hu: "Kötések", ro: "Legături", en: "Bonding" },
     icon: "🔗",
     color: "#10B981",
     subtopics: [
@@ -42,7 +42,7 @@ const K7: KemiaTheme[] = [
   },
   {
     id: "reactions_stoich",
-    name: "Reaktionen und Gleichungen",
+    name: { de: "Reaktionen und Gleichungen", hu: "Reakciók és egyenletek", ro: "Reacții și ecuații", en: "Reactions and Equations" },
     icon: "⚖️",
     color: "#3B82F6",
     subtopics: [
@@ -55,7 +55,7 @@ const K7: KemiaTheme[] = [
   },
   {
     id: "acids_bases_salts",
-    name: "Säuren, Basen, Salze",
+    name: { de: "Säuren, Basen, Salze", hu: "Savak, bázisok, sók", ro: "Acizi, baze, săruri", en: "Acids, Bases, Salts" },
     icon: "🧪",
     color: "#8B5CF6",
     subtopics: [
@@ -68,7 +68,7 @@ const K7: KemiaTheme[] = [
   },
   {
     id: "metals_resources",
-    name: "Metalle und Rohstoffe",
+    name: { de: "Metalle und Rohstoffe", hu: "Fémek és nyersanyagok", ro: "Metale și materii prime", en: "Metals and Resources" },
     icon: "⛏️",
     color: "#EC4899",
     subtopics: [

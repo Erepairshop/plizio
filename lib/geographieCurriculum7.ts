@@ -14,7 +14,7 @@ import {
 const K7: GeographieTheme[] = [
   {
     id: "geodynamics_internal",
-    name: "Endogene Prozesse",
+    name: { de: "Endogene Prozesse", hu: "Belső erők", ro: "Procese endogene", en: "Endogenic Processes" },
     icon: "🌋",
     color: "#EF4444",
     subtopics: [
@@ -26,7 +26,7 @@ const K7: GeographieTheme[] = [
   },
   {
     id: "weather_climate_dynamics",
-    name: "Wetter und Klima",
+    name: { de: "Wetter und Klima", hu: "Időjárás és éghajlat", ro: "Vreme și climă", en: "Weather and Climate" },
     icon: "⛈️",
     color: "#3B82F6",
     subtopics: [
@@ -38,7 +38,7 @@ const K7: GeographieTheme[] = [
   },
   {
     id: "population_migration",
-    name: "Bevölkerung und Migration",
+    name: { de: "Bevölkerung und Migration", hu: "Népesség és migráció", ro: "Populație și migrație", en: "Population and Migration" },
     icon: "👥",
     color: "#F59E0B",
     subtopics: [
@@ -50,7 +50,7 @@ const K7: GeographieTheme[] = [
   },
   {
     id: "north_america_focus",
-    name: "Nordamerika",
+    name: { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America" },
     icon: "🇺🇸",
     color: "#10B981",
     subtopics: [
@@ -62,7 +62,7 @@ const K7: GeographieTheme[] = [
   },
   {
     id: "asia_dynamics",
-    name: "Asien: Kontrastreicher Kontinent",
+    name: { de: "Asien: Kontrastreicher Kontinent", hu: "Ázsia: a kontrasztok kontinense", ro: "Asia: continentul contrastelor", en: "Asia: A Continent of Contrasts" },
     icon: "⛩️",
     color: "#8B5CF6",
     subtopics: [
@@ -74,7 +74,7 @@ const K7: GeographieTheme[] = [
   },
   {
     id: "environment_global_k7",
-    name: "Globale Umweltprobleme",
+    name: { de: "Globale Umweltprobleme", hu: "Globális környezeti problémák", ro: "Probleme de mediu globale", en: "Global Environmental Problems" },
     icon: "🌡️",
     color: "#EC4899",
     subtopics: [

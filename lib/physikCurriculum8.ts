@@ -27,7 +27,7 @@ export interface PhysikTheme {
 const K8: PhysikTheme[] = [
   {
     id: "electricity_advanced",
-    name: "Elektrizität",
+    name: { de: "Elektrizität", hu: "Elektromosság", ro: "Electricitate", en: "Electricity" },
     icon: "⚡",
     color: "#F59E0B",
     subtopics: [
@@ -40,7 +40,7 @@ const K8: PhysikTheme[] = [
   },
   {
     id: "electromagnetism",
-    name: "Elektromagnetismus",
+    name: { de: "Elektromagnetismus", hu: "Elektromágnesesség", ro: "Electromagnetism", en: "Electromagnetism" },
     icon: "🧲",
     color: "#3B82F6",
     subtopics: [
@@ -53,7 +53,7 @@ const K8: PhysikTheme[] = [
   },
   {
     id: "nuclear",
-    name: "Kernphysik",
+    name: { de: "Kernphysik", hu: "Magfizika", ro: "Fizică nucleară", en: "Nuclear Physics" },
     icon: "☢️",
     color: "#EF4444",
     subtopics: [
@@ -66,7 +66,7 @@ const K8: PhysikTheme[] = [
   },
   {
     id: "modern",
-    name: "Moderne Physik",
+    name: { de: "Moderne Physik", hu: "Modern fizika", ro: "Fizică modernă", en: "Modern Physics" },
     icon: "🔬",
     color: "#8B5CF6",
     subtopics: [
@@ -78,7 +78,7 @@ const K8: PhysikTheme[] = [
   },
   {
     id: "energy_environment",
-    name: "Energie & Umwelt",
+    name: { de: "Energie & Umwelt", hu: "Energia és környezet", ro: "Energie și mediu", en: "Energy & Environment" },
     icon: "🌱",
     color: "#10B981",
     subtopics: [
@@ -91,7 +91,7 @@ const K8: PhysikTheme[] = [
   },
   {
     id: "communication",
-    name: "Kommunikationstechnik",
+    name: { de: "Kommunikationstechnik", hu: "Kommunikációs technika", ro: "Tehnologia comunicațiilor", en: "Communication Technology" },
     icon: "📡",
     color: "#FF6B35",
     subtopics: [

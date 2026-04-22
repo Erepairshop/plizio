@@ -14,7 +14,7 @@ import {
 const K8: GeographieTheme[] = [
   {
     id: "exogenic_surface",
-    name: "Exogene Prozesse",
+    name: { de: "Exogene Prozesse", hu: "Külső erők", ro: "Procese exogene", en: "Exogenic Processes" },
     icon: "🏜️",
     color: "#F59E0B",
     subtopics: [
@@ -26,7 +26,7 @@ const K8: GeographieTheme[] = [
   },
   {
     id: "world_economy_sectors",
-    name: "Weltwirtschaft",
+    name: { de: "Weltwirtschaft", hu: "Világgazdaság", ro: "Economia mondială", en: "World Economy" },
     icon: "🏭",
     color: "#3B82F6",
     subtopics: [
@@ -38,7 +38,7 @@ const K8: GeographieTheme[] = [
   },
   {
     id: "latin_america_dynamics",
-    name: "Lateinamerika",
+    name: { de: "Lateinamerika", hu: "Latin-Amerika", ro: "America Latină", en: "Latin America" },
     icon: "💃",
     color: "#EF4444",
     subtopics: [
@@ -50,7 +50,7 @@ const K8: GeographieTheme[] = [
   },
   {
     id: "africa_challenges",
-    name: "Afrika südlich der Sahara",
+    name: { de: "Afrika südlich der Sahara", hu: "Fekete-Afrika", ro: "Africa subsahariană", en: "Sub-Saharan Africa" },
     icon: "🦒",
     color: "#10B981",
     subtopics: [
@@ -62,7 +62,7 @@ const K8: GeographieTheme[] = [
   },
   {
     id: "australia_oceania_focus",
-    name: "Australien und Ozeanien",
+    name: { de: "Australien und Ozeanien", hu: "Ausztrália és Óceánia", ro: "Australia și Oceania", en: "Australia and Oceania" },
     icon: "🦘",
     color: "#8B5CF6",
     subtopics: [
@@ -74,7 +74,7 @@ const K8: GeographieTheme[] = [
   },
   {
     id: "global_challenges_future",
-    name: "Herausforderungen der Zukunft",
+    name: { de: "Herausforderungen der Zukunft", hu: "A jövő kihívásai", ro: "Provocările viitorului", en: "Challenges of the Future" },
     icon: "🚀",
     color: "#EC4899",
     subtopics: [

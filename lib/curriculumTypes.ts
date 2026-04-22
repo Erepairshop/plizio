@@ -59,23 +59,23 @@ export interface CountryOption {
 // One config object per test (englishtest, deutschtest, frenchtest, etc.)
 
 export interface LanguageTestLabels {
-  selectCountry: string;   // "Select your country"
-  selectGrade: string;     // "Select your grade"
-  selectTopics: string;    // "Select topics"
-  startTest: string;       // "START TEST"
-  question: string;        // "Question"
-  correct: string;         // "Correct!"
-  answerBtn: string;       // "ANSWER"
-  again: string;           // "Try Again"
-  home: string;            // "Main Menu"
-  gradeMark: string;       // "Grade" | "Note"
-  review: string;          // "Review"
-  areas: string;           // "areas"
-  soon: string;            // "soon"
-  questions: string;       // "Qs" | "Fr."
-  all: string;             // "All"
-  allCheck: string;        // "All ✓"
-  placeholder: string;     // "Your answer..."
+  selectCountry: string | Record<string, string>;
+  selectGrade: string | Record<string, string>;
+  selectTopics: string | Record<string, string>;
+  startTest: string | Record<string, string>;
+  question: string | Record<string, string>;
+  correct: string | Record<string, string>;
+  answerBtn: string | Record<string, string>;
+  again: string | Record<string, string>;
+  home: string | Record<string, string>;
+  gradeMark: string | Record<string, string>;
+  review: string | Record<string, string>;
+  areas: string | Record<string, string>;
+  soon: string | Record<string, string>;
+  questions: string | Record<string, string>;
+  all: string | Record<string, string>;
+  allCheck: string | Record<string, string>;
+  placeholder: string | Record<string, string>;
 }
 
 export interface LanguageTestConfig {

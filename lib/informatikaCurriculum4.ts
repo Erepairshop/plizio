@@ -65,7 +65,7 @@ function extractTasks(json: any): RawTask[] {
 export const INFO_K4_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k4_programozas_alap",
-    name: "Programozás alap",
+    name: { de: "Programmierung Grundlagen", hu: "Programozás alap", ro: "Bazele programării", en: "Programming Basics" },
     icon: "💻",
     color: "#3B82F6",
     subtopics: [
@@ -78,7 +78,7 @@ export const INFO_K4_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k4_logika",
-    name: "Logika",
+    name: { de: "Logik", hu: "Logika", ro: "Logică", en: "Logic" },
     icon: "🧩",
     color: "#10B981",
     subtopics: [
@@ -91,7 +91,7 @@ export const INFO_K4_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k4_kreativ_alkalmazasok",
-    name: "Kreatív alkalmazások",
+    name: { de: "Kreative Anwendungen", hu: "Kreatív alkalmazások", ro: "Aplicații creative", en: "Creative Applications" },
     icon: "🎨",
     color: "#F59E0B",
     subtopics: [
@@ -104,7 +104,7 @@ export const INFO_K4_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k4_research_kommunikacio",
-    name: "Research + kommunikáció",
+    name: { de: "Recherche + Kommunikation", hu: "Research + kommunikáció", ro: "Cercetare + Comunicare", en: "Research + Communication" },
     icon: "📡",
     color: "#8B5CF6",
     subtopics: [
@@ -117,7 +117,7 @@ export const INFO_K4_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k4_biztonsag_jovo",
-    name: "Biztonság + jövő",
+    name: { de: "Sicherheit + Zukunft", hu: "Biztonság + jövő", ro: "Securitate + Viitor", en: "Security + Future" },
     icon: "🛡️",
     color: "#EC4899",
     subtopics: [

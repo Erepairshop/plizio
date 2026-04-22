@@ -14,7 +14,7 @@ import {
 const K6: GeographieTheme[] = [
   {
     id: "map_skills_advanced",
-    name: "Vertiefung Orientierung",
+    name: { de: "Vertiefung Orientierung", hu: "Tájékozódás elmélyítése", ro: "Aprofundarea orientării", en: "Advanced Orientation" },
     icon: "🧭",
     color: "#3B82F6",
     subtopics: [
@@ -26,7 +26,7 @@ const K6: GeographieTheme[] = [
   },
   {
     id: "climate_zones",
-    name: "Klima und Vegetationszonen",
+    name: { de: "Klima und Vegetationszonen", hu: "Éghajlati és növényzeti övezetek", ro: "Zone climatice și de vegetație", en: "Climate and Vegetation Zones" },
     icon: "☀️",
     color: "#10B981",
     subtopics: [
@@ -38,7 +38,7 @@ const K6: GeographieTheme[] = [
   },
   {
     id: "europe_regions",
-    name: "Europas Regionen",
+    name: { de: "Europas Regionen", hu: "Európa régiói", ro: "Regiunile Europei", en: "Europe's Regions" },
     icon: "🌍",
     color: "#F59E0B",
     subtopics: [
@@ -51,7 +51,7 @@ const K6: GeographieTheme[] = [
   },
   {
     id: "waters_oceans_k6",
-    name: "Wasser - Lebensader der Erde",
+    name: { de: "Wasser - Lebensader der Erde", hu: "Víz - a Föld éltető ereje", ro: "Apa - sursa de viață a Pământului", en: "Water - Lifeline of the Earth" },
     icon: "🌊",
     color: "#EF4444",
     subtopics: [
@@ -63,7 +63,7 @@ const K6: GeographieTheme[] = [
   },
   {
     id: "agriculture_europe",
-    name: "Landwirtschaft in Europa",
+    name: { de: "Landwirtschaft in Europa", hu: "Mezőgazdaság Európában", ro: "Agricultura în Europa", en: "Agriculture in Europe" },
     icon: "🚜",
     color: "#8B5CF6",
     subtopics: [
@@ -75,7 +75,7 @@ const K6: GeographieTheme[] = [
   },
   {
     id: "tourism_leisure",
-    name: "Tourismus und Freizeit",
+    name: { de: "Tourismus und Freizeit", hu: "Turizmus és szabadidő", ro: "Turism și timp liber", en: "Tourism and Leisure" },
     icon: "🏖️",
     color: "#EC4899",
     subtopics: [

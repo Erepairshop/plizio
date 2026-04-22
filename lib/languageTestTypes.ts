@@ -82,7 +82,7 @@ export interface TestGradeMark {
 export interface LanguageTestEngineConfig {
   // ── Identity ──
   gameId: string;                   // "deutschtest", "romaniantest"
-  title: string;                    // "DEUTSCH TEST", "TEST LIMBA ROMÂNĂ"
+  title: string | Record<string, string>; // "DEUTSCH TEST", "TEST LIMBA ROMÂNĂ"
   icon: string;                     // "✏️", "📝"
   color: string;                    // primary accent color hex
 
@@ -144,48 +144,48 @@ export interface LanguageTestEngineConfig {
   // ── Labels (all UI strings) ──
   labels: {
     // Country/Grade selection
-    selectCountry: string;           // "Wähle dein Land"
-    selectGrade: string;             // "Wähle deine Klassenstufe"
-    gradePrefix: string;             // "Kl." / "Cl."
-    gradeFull: string;               // "Klasse" / "Clasa"
+    selectCountry: string | Record<string, string>;           // "Wähle dein Land"
+    selectGrade: string | Record<string, string>;             // "Wähle deine Klassenstufe"
+    gradePrefix: string | Record<string, string>;             // "Kl." / "Cl."
+    gradeFull: string | Record<string, string>;               // "Klasse" / "Clasa"
 
     // Topic selection
-    selectTopics: string;            // "Themen für deinen Test auswählen"
-    all: string;                     // "Alle"
-    allCheck: string;                // "Alle ✓"
-    soon: string;                    // "bald" / "în curând"
-    questionsShort: string;          // "Fr." / "Într."
-    startTest: string;               // "TEST STARTEN →"
-    areas: string;                   // "Bereiche" / "domenii"
+    selectTopics: string | Record<string, string>;            // "Themen für deinen Test auswählen"
+    all: string | Record<string, string>;                     // "Alle"
+    allCheck: string | Record<string, string>;                // "Alle ✓"
+    soon: string | Record<string, string>;                    // "bald" / "în curând"
+    questionsShort: string | Record<string, string>;          // "Fr." / "Într."
+    startTest: string | Record<string, string>;               // "TEST STARTEN →"
+    areas: string | Record<string, string>;                   // "Bereiche" / "domenii"
 
     // Reading test
-    readingTest?: string;            // "📖 Lesetest" / "📖 Test de lectură"
-    readingTestDesc?: string;        // "Text lesen & Fragen beantworten · 3 Fr."
+    readingTest?: string | Record<string, string>;            // "📖 Lesetest" / "📖 Test de lectură"
+    readingTestDesc?: string | Record<string, string>;        // "Text lesen & Fragen beantworten · 3 Fr."
 
     // Test screen
-    task: string;                    // "Aufgabe" / "Exercițiul"
-    interactiveTask: string;         // "Interaktive Aufgabe" / "Exercițiu interactiv"
-    readAloud: string;               // "Vorlesen" / "Citește cu voce tare"
-    clickCorrectImage?: string;      // "🖼 Klicke auf das richtige Bild:"
-    whichLetterStarts?: string;      // "🔤 Mit welchem Buchstaben beginnt das Wort?"
-    answerPlaceholder: string;       // "Antwort..." / "Răspuns..."
-    submit: string;                  // "Abgeben ✓" / "Trimite ✓"
-    back: string;                    // "Zurück" / "Înapoi"
+    task: string | Record<string, string>;                    // "Aufgabe" / "Exercițiul"
+    interactiveTask: string | Record<string, string>;         // "Interaktive Aufgabe" / "Exercițiu interactiv"
+    readAloud: string | Record<string, string>;               // "Vorlesen" / "Citește cu voce tare"
+    clickCorrectImage?: string | Record<string, string>;      // "🖼 Klicke auf das richtige Bild:"
+    whichLetterStarts?: string | Record<string, string>;      // "🔤 Mit welchem Buchstaben beginnt das Wort?"
+    answerPlaceholder: string | Record<string, string>;       // "Antwort..." / "Răspuns..."
+    submit: string | Record<string, string>;                  // "Abgeben ✓" / "Trimite ✓"
+    back: string | Record<string, string>;                    // "Zurück" / "Înapoi"
 
     // Result screen
-    markLabel: string;               // "Note" / "Calificativ"
-    correct: string;                 // "richtig" / "corect"
-    review: string;                  // "Auswertung" / "Evaluare"
-    tryAgain: string;                // "Nochmal" / "Din nou"
-    mainMenu: string;                // "Hauptmenü" / "Meniu principal"
-    pdf: string;                     // "PDF"
+    markLabel: string | Record<string, string>;               // "Note" / "Calificativ"
+    correct: string | Record<string, string>;                 // "richtig" / "corect"
+    review: string | Record<string, string>;                  // "Auswertung" / "Evaluare"
+    tryAgain: string | Record<string, string>;                // "Nochmal" / "Din nou"
+    mainMenu: string | Record<string, string>;                // "Hauptmenü" / "Meniu principal"
+    pdf: string | Record<string, string>;                     // "PDF"
 
     // Print
-    points?: string;                 // "Punkte" / "Puncte"
-    pointsShort?: string;            // "Pkt." / "Pct."
-    name?: string;                   // "Name" / "Nume"
-    date?: string;                   // "Datum" / "Data"
-    wrongWordNr?: string;            // "Falsches Wort Nr.:" / "Cuvântul greșit nr.:"
-    root?: string;                   // "Stamm:" / "Rădăcină:"
+    points?: string | Record<string, string>;                 // "Punkte" / "Puncte"
+    pointsShort?: string | Record<string, string>;            // "Pkt." / "Pct."
+    name?: string | Record<string, string>;                   // "Name" / "Nume"
+    date?: string | Record<string, string>;                   // "Datum" / "Data"
+    wrongWordNr?: string | Record<string, string>;            // "Falsches Wort Nr.:" / "Cuvântul greșit nr.:"
+    root?: string | Record<string, string>;                   // "Stamm:" / "Rădăcină:"
   };
 }

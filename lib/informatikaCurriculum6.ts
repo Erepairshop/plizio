@@ -50,7 +50,7 @@ const e = (json: any): RawTask[] => (json.tasks ?? []) as RawTask[];
 export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k6_szoveg",
-    name: "Szöveg & Táblázat",
+    name: { de: "Text & Tabelle", hu: "Szöveg & Táblázat", ro: "Text & Tabel", en: "Text & Spreadsheet" },
     icon: "📊",
     color: "#3B82F6",
     subtopics: [
@@ -63,7 +63,7 @@ export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k6_media",
-    name: "Média & Grafika",
+    name: { de: "Medien & Grafik", hu: "Média & Grafika", ro: "Media & Grafică", en: "Media & Graphics" },
     icon: "🖼️",
     color: "#10B981",
     subtopics: [
@@ -76,7 +76,7 @@ export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k6_tablazat",
-    name: "Táblázat & Adatbázis",
+    name: { de: "Tabelle & Datenbank", hu: "Táblázat & Adatbázis", ro: "Tabel & Bază de date", en: "Spreadsheet & Database" },
     icon: "📋",
     color: "#F59E0B",
     subtopics: [
@@ -89,7 +89,7 @@ export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k6_programozas",
-    name: "Programozás alapjai",
+    name: { de: "Programmierung Grundlagen", hu: "Programozás alapjai", ro: "Bazele programării", en: "Programming Basics" },
     icon: "💡",
     color: "#8B5CF6",
     subtopics: [
@@ -102,7 +102,7 @@ export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k6_digitalbizt",
-    name: "Digitális biztonság",
+    name: { de: "Digitale Sicherheit", hu: "Digitális biztonság", ro: "Securitate digitală", en: "Digital Security" },
     icon: "🔐",
     color: "#EF4444",
     subtopics: [
@@ -115,7 +115,7 @@ export const INFO_K6_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k6_moderntech",
-    name: "Modern technológia",
+    name: { de: "Moderne Technologie", hu: "Modern technológia", ro: "Tehnologie modernă", en: "Modern Technology" },
     icon: "🤖",
     color: "#EC4899",
     subtopics: [

@@ -27,7 +27,7 @@ export interface PhysikTheme {
 const K7: PhysikTheme[] = [
   {
     id: "mechanics",
-    name: "Mechanik",
+    name: { de: "Mechanik", hu: "Mechanika", ro: "Mecanică", en: "Mechanics" },
     icon: "🚀",
     color: "#EF4444",
     subtopics: [
@@ -40,7 +40,7 @@ const K7: PhysikTheme[] = [
   },
   {
     id: "work_power",
-    name: "Arbeit & Leistung",
+    name: { de: "Arbeit & Leistung", hu: "Munka és teljesítmény", ro: "Lucru mecanic și putere", en: "Work & Power" },
     icon: "💪",
     color: "#F59E0B",
     subtopics: [
@@ -53,7 +53,7 @@ const K7: PhysikTheme[] = [
   },
   {
     id: "optics",
-    name: "Optik",
+    name: { de: "Optik", hu: "Optika", ro: "Optică", en: "Optics" },
     icon: "🔍",
     color: "#3B82F6",
     subtopics: [
@@ -66,7 +66,7 @@ const K7: PhysikTheme[] = [
   },
   {
     id: "thermal",
-    name: "Thermodynamik",
+    name: { de: "Thermodynamik", hu: "Termodinamika", ro: "Termodinamică", en: "Thermodynamics" },
     icon: "🌡️",
     color: "#FF6B35",
     subtopics: [
@@ -78,7 +78,7 @@ const K7: PhysikTheme[] = [
   },
   {
     id: "waves",
-    name: "Wellen",
+    name: { de: "Wellen", hu: "Hullámok", ro: "Unde", en: "Waves" },
     icon: "🌊",
     color: "#8B5CF6",
     subtopics: [
@@ -90,7 +90,7 @@ const K7: PhysikTheme[] = [
   },
   {
     id: "earth_space",
-    name: "Erde & Weltall",
+    name: { de: "Erde & Weltall", hu: "Föld és űr", ro: "Pământ și spațiu", en: "Earth & Space" },
     icon: "🌍",
     color: "#10B981",
     subtopics: [

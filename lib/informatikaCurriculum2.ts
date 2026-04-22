@@ -65,7 +65,7 @@ function extractTasks(json: any): RawTask[] {
 export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k2_desktop",
-    name: "Desktop alapok",
+    name: { de: "Desktop Grundlagen", hu: "Desktop alapok", ro: "Bazele desktop-ului", en: "Desktop Basics" },
     icon: "🖥️",
     color: "#3B82F6",
     subtopics: [
@@ -78,7 +78,7 @@ export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k2_interakcio",
-    name: "Interakció",
+    name: { de: "Interaktion", hu: "Interakció", ro: "Interacțiune", en: "Interaction" },
     icon: "🖱️",
     color: "#10B981",
     subtopics: [
@@ -91,7 +91,7 @@ export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k2_programok",
-    name: "Programok",
+    name: { de: "Programme", hu: "Programok", ro: "Programe", en: "Programs" },
     icon: "📝",
     color: "#F59E0B",
     subtopics: [
@@ -104,7 +104,7 @@ export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k2_funkciok",
-    name: "Funkciók",
+    name: { de: "Funktionen", hu: "Funkciók", ro: "Funcții", en: "Functions" },
     icon: "⚙️",
     color: "#8B5CF6",
     subtopics: [
@@ -117,7 +117,7 @@ export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k2_kreativ",
-    name: "Kreatív",
+    name: { de: "Kreativ", hu: "Kreatív", ro: "Creativ", en: "Creative" },
     icon: "🎨",
     color: "#EC4899",
     subtopics: [

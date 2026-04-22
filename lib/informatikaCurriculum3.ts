@@ -65,7 +65,7 @@ function extractTasks(json: any): RawTask[] {
 export const INFO_K3_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k3_internet",
-    name: "Internet",
+    name: { de: "Internet", hu: "Internet", ro: "Internet", en: "Internet" },
     icon: "🌐",
     color: "#3B82F6",
     subtopics: [
@@ -78,7 +78,7 @@ export const INFO_K3_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k3_kereses_media",
-    name: "Keresés & Média",
+    name: { de: "Suche & Medien", hu: "Keresés & Média", ro: "Căutare & Media", en: "Search & Media" },
     icon: "🔍",
     color: "#10B981",
     subtopics: [
@@ -91,7 +91,7 @@ export const INFO_K3_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k3_szovegszerkesztes",
-    name: "Szövegszerkesztés",
+    name: { de: "Textverarbeitung", hu: "Szövegszerkesztés", ro: "Procesare text", en: "Word Processing" },
     icon: "📝",
     color: "#F59E0B",
     subtopics: [
@@ -104,7 +104,7 @@ export const INFO_K3_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k3_tablazat_prezentacio",
-    name: "Táblázat & Prezentáció",
+    name: { de: "Tabelle & Präsentation", hu: "Táblázat & Prezentáció", ro: "Tabel & Prezentare", en: "Spreadsheet & Presentation" },
     icon: "📊",
     color: "#8B5CF6",
     subtopics: [
@@ -117,7 +117,7 @@ export const INFO_K3_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k3_halado",
-    name: "Haladó",
+    name: { de: "Fortgeschritten", hu: "Haladó", ro: "Avansat", en: "Advanced" },
     icon: "🚀",
     color: "#EC4899",
     subtopics: [

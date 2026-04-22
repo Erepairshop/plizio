@@ -27,7 +27,7 @@ export interface PhysikTheme {
 const K5: PhysikTheme[] = [
   {
     id: "forces",
-    name: "Kräfte & Bewegung",
+    name: { de: "Kräfte & Bewegung", hu: "Erők és mozgás", ro: "Forțe și mișcare", en: "Forces & Motion" },
     icon: "💪",
     color: "#EF4444",
     subtopics: [
@@ -41,7 +41,7 @@ const K5: PhysikTheme[] = [
   },
   {
     id: "energy",
-    name: "Energie",
+    name: { de: "Energie", hu: "Energia", ro: "Energie", en: "Energy" },
     icon: "⚡",
     color: "#F59E0B",
     subtopics: [
@@ -54,7 +54,7 @@ const K5: PhysikTheme[] = [
   },
   {
     id: "heat",
-    name: "Wärmelehre",
+    name: { de: "Wärmelehre", hu: "Hőtan", ro: "Termodinamică", en: "Heat" },
     icon: "🔥",
     color: "#FF6B35",
     subtopics: [
@@ -66,7 +66,7 @@ const K5: PhysikTheme[] = [
   },
   {
     id: "light",
-    name: "Optik",
+    name: { de: "Optik", hu: "Optika", ro: "Optică", en: "Optics" },
     icon: "💡",
     color: "#FBBF24",
     subtopics: [
@@ -79,7 +79,7 @@ const K5: PhysikTheme[] = [
   },
   {
     id: "sound",
-    name: "Akustik",
+    name: { de: "Akustik", hu: "Akusztika", ro: "Acustică", en: "Acoustics" },
     icon: "🔊",
     color: "#8B5CF6",
     subtopics: [
@@ -91,7 +91,7 @@ const K5: PhysikTheme[] = [
   },
   {
     id: "magnetism",
-    name: "Magnetismus & Elektrizität",
+    name: { de: "Magnetismus & Elektrizität", hu: "Mágnesesség és elektromosság", ro: "Magnetism și electricitate", en: "Magnetism & Electricity" },
     icon: "🧲",
     color: "#3B82F6",
     subtopics: [

@@ -10,74 +10,74 @@ export function setG8GeschichteGeneratorMap(map: any) {
 export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
     id: "imperialismus_them",
-    name: "Imperialismus und Erster Weltkrieg",
+    name: { de: "Imperialismus und Erster Weltkrieg", hu: "Imperializmus és első világháború", ro: "Imperialismul și Primul Război Mondial", en: "Imperialism and World War I" },
     subtopics: [
-      { id: "imperialismus", name: "Imperialismus", questions: [], hasGenerator: true },
-      { id: "erster_weltkrieg_beginn", name: "Kriegsausbruch 1914", questions: [], hasGenerator: true },
-      { id: "erster_weltkrieg_verlauf", name: "Verlauf und Ende", questions: [], hasGenerator: true },
+      { id: "imperialismus", name: { de: "Imperialismus", hu: "Imperializmus", ro: "Imperialism", en: "Imperialism" }, questions: [], hasGenerator: true },
+      { id: "erster_weltkrieg_beginn", name: { de: "Kriegsausbruch 1914", hu: "Háború kitörése 1914", ro: "Izbucnirea războiului 1914", en: "Outbreak of War 1914" }, questions: [], hasGenerator: true },
+      { id: "erster_weltkrieg_verlauf", name: { de: "Verlauf und Ende", hu: "Lefolyás és vég", ro: "Desfășurare și sfârșit", en: "Course and End" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "weimarer_republik_them",
-    name: "Die Weimarer Republik",
+    name: { de: "Die Weimarer Republik", hu: "A weimari köztársaság", ro: "Republica de la Weimar", en: "The Weimar Republic" },
     subtopics: [
-      { id: "weimarer_republik", name: "Entstehung und Krisen", questions: [], hasGenerator: true },
-      { id: "weltwirtschaftskrise", name: "Weltwirtschaftskrise", questions: [], hasGenerator: true },
+      { id: "weimarer_republik", name: { de: "Entstehung und Krisen", hu: "Kialakulás és válságok", ro: "Formare și crize", en: "Formation and Crises" }, questions: [], hasGenerator: true },
+      { id: "weltwirtschaftskrise", name: { de: "Weltwirtschaftskrise", hu: "Gazdasági világválság", ro: "Criza economică mondială", en: "Great Depression" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "ns_zeit_them",
-    name: "Nationalsozialismus",
+    name: { de: "Nationalsozialismus", hu: "Nemzetiszocializmus", ro: "Național-socialism", en: "National Socialism" },
     subtopics: [
-      { id: "ns_machtuebernahme", name: "Machtergreifung 1933", questions: [], hasGenerator: true },
-      { id: "ns_ideologie", name: "NS-Ideologie", questions: [], hasGenerator: true },
-      { id: "ns_propaganda", name: "Propaganda und Alltag", questions: [], hasGenerator: true },
+      { id: "ns_machtuebernahme", name: { de: "Machtergreifung 1933", hu: "Hatalomátvétel 1933", ro: "Preluarea puterii 1933", en: "Seizure of Power 1933" }, questions: [], hasGenerator: true },
+      { id: "ns_ideologie", name: { de: "NS-Ideologie", hu: "NS-ideológia", ro: "Ideologia NS", en: "Nazi Ideology" }, questions: [], hasGenerator: true },
+      { id: "ns_propaganda", name: { de: "Propaganda und Alltag", hu: "Propaganda és mindennapok", ro: "Propaganda și viața de zi cu zi", en: "Propaganda and Daily Life" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "holocaust_widerstand_them",
-    name: "Holocaust und Widerstand",
+    name: { de: "Holocaust und Widerstand", hu: "Holokauszt és ellenállás", ro: "Holocaust și rezistență", en: "Holocaust and Resistance" },
     subtopics: [
-      { id: "holocaust", name: "Judenverfolgung", questions: [], hasGenerator: true },
-      { id: "widerstand_ns", name: "Widerstand", questions: [], hasGenerator: true },
+      { id: "holocaust", name: { de: "Judenverfolgung", hu: "Zsidóüldözés", ro: "Persecuția evreilor", en: "Persecution of Jews" }, questions: [], hasGenerator: true },
+      { id: "widerstand_ns", name: { de: "Widerstand", hu: "Ellenállás", ro: "Rezistență", en: "Resistance" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "zweiter_weltkrieg_them",
-    name: "Der Zweite Weltkrieg",
+    name: { de: "Der Zweite Weltkrieg", hu: "A második világháború", ro: "Al Doilea Război Mondial", en: "World War II" },
     subtopics: [
-      { id: "zweiter_weltkrieg", name: "Kriegsverlauf", questions: [], hasGenerator: true },
+      { id: "zweiter_weltkrieg", name: { de: "Kriegsverlauf", hu: "A háború menete", ro: "Desfășurarea războiului", en: "Course of the War" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "nachkrieg_teilung_them",
-    name: "Nachkriegszeit und Teilung",
+    name: { de: "Nachkriegszeit und Teilung", hu: "A háború utáni időszak és megosztottság", ro: "Perioada postbelică și divizarea", en: "Post-War Era and Division" },
     subtopics: [
-      { id: "nachkriegszeit", name: "Besatzung 1945-49", questions: [], hasGenerator: true },
-      { id: "teilung_deutschlands", name: "BRD und DDR", questions: [], hasGenerator: true },
+      { id: "nachkriegszeit", name: { de: "Besatzung 1945-49", hu: "Megszállás 1945-49", ro: "Ocupația 1945-49", en: "Occupation 1945-49" }, questions: [], hasGenerator: true },
+      { id: "teilung_deutschlands", name: { de: "BRD und DDR", hu: "NSZK és NDK", ro: "RFG și RDG", en: "FRG and GDR" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "kalter_krieg_them",
-    name: "Der Kalte Krieg",
+    name: { de: "Der Kalte Krieg", hu: "A hidegháború", ro: "Războiul Rece", en: "The Cold War" },
     subtopics: [
-      { id: "kalter_krieg", name: "Konfrontation", questions: [], hasGenerator: true },
-      { id: "berliner_mauer", name: "Die Mauer", questions: [], hasGenerator: true },
+      { id: "kalter_krieg", name: { de: "Konfrontation", hu: "Konfrontáció", ro: "Confruntare", en: "Confrontation" }, questions: [], hasGenerator: true },
+      { id: "berliner_mauer", name: { de: "Die Mauer", hu: "A fal", ro: "Zidul", en: "The Wall" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "wende_einheit_them",
-    name: "Mauerfall und Einheit",
+    name: { de: "Mauerfall und Einheit", hu: "A fal leomlása és az egység", ro: "Căderea zidului și unitatea", en: "Fall of the Wall and Unity" },
     subtopics: [
-      { id: "wiedervereinigung", name: "Wiedervereinigung", questions: [], hasGenerator: true },
+      { id: "wiedervereinigung", name: { de: "Wiedervereinigung", hu: "Újraegyesítés", ro: "Reunificare", en: "Reunification" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "europa_heute_them",
-    name: "Europa und die Welt heute",
+    name: { de: "Europa und die Welt heute", hu: "Európa és a világ ma", ro: "Europa și lumea azi", en: "Europe and the World Today" },
     subtopics: [
-      { id: "europa_einigung", name: "Europäische Einigung", questions: [], hasGenerator: true },
-      { id: "moderne_welt", name: "Moderne Welt", questions: [], hasGenerator: true },
+      { id: "europa_einigung", name: { de: "Europäische Einigung", hu: "Európai egyesülés", ro: "Unificarea europeană", en: "European Unification" }, questions: [], hasGenerator: true },
+      { id: "moderne_welt", name: { de: "Moderne Welt", hu: "Modern világ", ro: "Lumea modernă", en: "Modern World" }, questions: [], hasGenerator: true },
     ]
   }
 ];

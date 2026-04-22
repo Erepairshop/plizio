@@ -14,7 +14,7 @@ import {
 const K5: GeographieTheme[] = [
   {
     id: "map_skills_basic",
-    name: "Orientierung auf der Erde",
+    name: { de: "Orientierung auf der Erde", hu: "Tájékozódás a Földön", ro: "Orientarea pe Pământ", en: "Orientation on Earth" },
     icon: "🗺️",
     color: "#3B82F6",
     subtopics: [
@@ -26,7 +26,7 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "earth_basics",
-    name: "Unser Planet Erde",
+    name: { de: "Unser Planet Erde", hu: "Bolygónk, a Föld", ro: "Planeta noastră Pământ", en: "Our Planet Earth" },
     icon: "🌍",
     color: "#10B981",
     subtopics: [
@@ -38,7 +38,7 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "germany_landscapes",
-    name: "Deutschland: Landschaften",
+    name: { de: "Deutschland: Landschaften", hu: "Németország tájai", ro: "Peisajele Germaniei", en: "Germany: Landscapes" },
     icon: "🇩🇪",
     color: "#F59E0B",
     subtopics: [
@@ -51,7 +51,7 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "living_spaces",
-    name: "Leben in Stadt und Land",
+    name: { de: "Leben in Stadt und Land", hu: "Élet városon és falun", ro: "Viața la oraș și la sat", en: "Life in City and Country" },
     icon: "🏘️",
     color: "#EF4444",
     subtopics: [
@@ -63,7 +63,7 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "europe_overview_k5",
-    name: "Europa im Überblick",
+    name: { de: "Europa im Überblick", hu: "Európa áttekintése", ro: "Prezentare generală a Europei", en: "Europe Overview" },
     icon: "🇪🇺",
     color: "#8B5CF6",
     subtopics: [
@@ -75,7 +75,7 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "nature_environment_k5",
-    name: "Natur und Umwelt",
+    name: { de: "Natur und Umwelt", hu: "Természet és környezet", ro: "Natură și mediu", en: "Nature and Environment" },
     icon: "🌿",
     color: "#EC4899",
     subtopics: [

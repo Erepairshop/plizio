@@ -10,51 +10,51 @@ export function setG5GeschichteGeneratorMap(map: any) {
 export const G5_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
     id: "fruehe_hochkulturen",
-    name: "Frühe Hochkulturen",
+    name: { de: "Frühe Hochkulturen", hu: "Korai magaskultúrák", ro: "Primele civilizații", en: "Early High Cultures" },
     subtopics: [
-      { id: "fruehe_hochkulturen", name: "Merkmale", questions: [], hasGenerator: true },
+      { id: "fruehe_hochkulturen", name: { de: "Merkmale", hu: "Jellemzők", ro: "Caracteristici", en: "Characteristics" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "aegypten",
-    name: "Altes Ägypten",
+    name: { de: "Altes Ägypten", hu: "Ókori Egyiptom", ro: "Egiptul Antic", en: "Ancient Egypt" },
     subtopics: [
-      { id: "aegypten", name: "Pharaonen und Pyramiden", questions: [], hasGenerator: true },
+      { id: "aegypten", name: { de: "Pharaonen und Pyramiden", hu: "Fáraók és piramisok", ro: "Faraoni și piramide", en: "Pharaohs and Pyramids" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "griechenland",
-    name: "Antikes Griechenland",
+    name: { de: "Antikes Griechenland", hu: "Ókori Görögország", ro: "Grecia Antică", en: "Ancient Greece" },
     subtopics: [
-      { id: "griechenland", name: "Polis und Demokratie", questions: [], hasGenerator: true },
+      { id: "griechenland", name: { de: "Polis und Demokratie", hu: "Polisz és demokrácia", ro: "Polis și democrație", en: "Polis and Democracy" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "rom_republik",
-    name: "Römische Republik",
+    name: { de: "Römische Republik", hu: "Római Köztársaság", ro: "Republica Romană", en: "Roman Republic" },
     subtopics: [
-      { id: "rom_republik", name: "Aufstieg und Ordnung", questions: [], hasGenerator: true },
+      { id: "rom_republik", name: { de: "Aufstieg und Ordnung", hu: "Felemelkedés és rend", ro: "Ascensiune și ordine", en: "Rise and Order" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "rom_kaiserreich",
-    name: "Römisches Kaiserreich",
+    name: { de: "Römisches Kaiserreich", hu: "Római Császárság", ro: "Imperiul Roman", en: "Roman Empire" },
     subtopics: [
-      { id: "rom_kaiserreich", name: "Kaiserzeit und Pax Romana", questions: [], hasGenerator: true },
+      { id: "rom_kaiserreich", name: { de: "Kaiserzeit und Pax Romana", hu: "Császárkor és Pax Romana", ro: "Epoca imperială și Pax Romana", en: "Imperial Era and Pax Romana" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "germanen",
-    name: "Die Germanen",
+    name: { de: "Die Germanen", hu: "A germánok", ro: "Popoarele germanice", en: "The Germanic Peoples" },
     subtopics: [
-      { id: "germanen", name: "Leben im Norden", questions: [], hasGenerator: true },
+      { id: "germanen", name: { de: "Leben im Norden", hu: "Élet északon", ro: "Viața în nord", en: "Life in the North" }, questions: [], hasGenerator: true },
     ]
   },
   {
     id: "voelkerwanderung",
-    name: "Völkerwanderung",
+    name: { de: "Völkerwanderung", hu: "Népvándorlás", ro: "Marea Migrație", en: "Migration Period" },
     subtopics: [
-      { id: "voelkerwanderung", name: "Ende der Antike", questions: [], hasGenerator: true },
+      { id: "voelkerwanderung", name: { de: "Ende der Antike", hu: "Az ókor vége", ro: "Sfârșitul Antichității", en: "End of Antiquity" }, questions: [], hasGenerator: true },
     ]
   }
 ];

@@ -14,7 +14,7 @@ import {
 const K5: KemiaTheme[] = [
   {
     id: "matter_basics",
-    name: "Stoffe im Alltag",
+    name: { de: "Stoffe im Alltag", hu: "Anyagok a mindennapokban", ro: "Substanțe în viața de zi cu zi", en: "Everyday Substances" },
     icon: "🧱",
     color: "#EF4444",
     subtopics: [
@@ -27,7 +27,7 @@ const K5: KemiaTheme[] = [
   },
   {
     id: "particle_intro",
-    name: "Teilchenmodell",
+    name: { de: "Teilchenmodell", hu: "Részecskemodell", ro: "Modelul particulelor", en: "Particle Model" },
     icon: "⚪",
     color: "#F59E0B",
     subtopics: [
@@ -40,7 +40,7 @@ const K5: KemiaTheme[] = [
   },
   {
     id: "mixtures",
-    name: "Gemische trennen",
+    name: { de: "Gemische trennen", hu: "Keverékek szétválasztása", ro: "Separarea amestecurilor", en: "Separating Mixtures" },
     icon: "🥣",
     color: "#10B981",
     subtopics: [
@@ -53,7 +53,7 @@ const K5: KemiaTheme[] = [
   },
   {
     id: "water_air",
-    name: "Wasser und Luft",
+    name: { de: "Wasser und Luft", hu: "Víz és levegő", ro: "Apă și aer", en: "Water and Air" },
     icon: "💧",
     color: "#3B82F6",
     subtopics: [
@@ -66,7 +66,7 @@ const K5: KemiaTheme[] = [
   },
   {
     id: "reactions_intro",
-    name: "Chemische Veränderungen",
+    name: { de: "Chemische Veränderungen", hu: "Kémiai változások", ro: "Schimbări chimice", en: "Chemical Changes" },
     icon: "✨",
     color: "#8B5CF6",
     subtopics: [
@@ -79,7 +79,7 @@ const K5: KemiaTheme[] = [
   },
   {
     id: "lab_safety",
-    name: "Labor und Messen",
+    name: { de: "Labor und Messen", hu: "Labor és mérések", ro: "Laborator și măsurători", en: "Lab and Measurements" },
     icon: "🧪",
     color: "#EC4899",
     subtopics: [

@@ -204,7 +204,17 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const avatarProps = useAvatarProps();
   const searchParams = useSearchParams();
   const { lang: globalLang } = useLang();
-  const { labels } = config;
+  const { labels: rawLabels } = config;
+  const titleStr = typeof config.title === "string" ? config.title : (config.title[globalLang] ?? config.title.en ?? config.title.de ?? "TEST");
+  const labels = useMemo(() => {
+    const out: Record<string, string> = {};
+    for (const [k, v] of Object.entries(rawLabels)) {
+      if (!v) out[k] = "";
+      else if (typeof v === "string") out[k] = v;
+      else out[k] = v[globalLang] ?? v.de ?? v.en ?? Object.values(v)[0] ?? "";
+    }
+    return out as Record<keyof typeof rawLabels, string>;
+  }, [rawLabels, globalLang]);
   // Lang-alapu country lista (kozos minden test-route-ban)
   const COUNTRIES_BY_LANG: Record<string, { code: string; flag: string; label: string; sub: string }[]> = {
     de: [
@@ -1360,7 +1370,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
 <html lang="${config.ttsLang.split("-")[0]}">
 <head>
   <meta charset="UTF-8">
-  <title>${config.title} – ${labels.gradeFull} ${grade}</title>
+  <title>${titleStr} – ${labels.gradeFull} ${grade}</title>
   <style>
     @page { size: A4; margin: 1.5cm 1.8cm 1.5cm 2.2cm; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1587,7 +1597,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   <div class="header">
     <div class="header-top">
       <div class="header-left">
-        <h1>${config.title}</h1>
+        <h1>${titleStr}</h1>
         <span class="grade-badge">${labels.gradeFull} ${grade}</span>
       </div>
       <div class="score-box">
@@ -1681,7 +1691,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                 className="text-4xl font-black tracking-wider text-white"
                 style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
               >
-                {config.title}
+                {titleStr}
               </h1>
               <p className="text-white/50 text-sm">{labels.selectCountry}</p>
             </motion.div>
@@ -1778,7 +1788,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                 className="text-4xl font-black tracking-wider text-white"
                 style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
               >
-                {config.title}
+                {titleStr}
               </h1>
               <p className="text-white/50 text-sm">
                 {hasCountryChoice ? `${effectiveCountries.find(cc => cc.code === country)?.flag ?? ""} ` : ""}{labels.selectGrade}
@@ -1849,7 +1859,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               >
                 <BookOpen size={18} className="text-[#00D4FF]" />
               </div>
-              <span className="font-black text-[#00D4FF] tracking-wide text-sm">{config.title}</span>
+              <span className="font-black text-[#00D4FF] tracking-wide text-sm">{titleStr}</span>
               <div className="ml-auto flex items-center gap-2">
                 {/* Country picker eltávolítva — főoldali nyelvválasztó vezeti */}
                 <span className="text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
@@ -2019,7 +2029,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         {/* ── TEST ──────────────────────────────────────────────────────────── */}
         {screen === "test" && questions.length > 0 && (
           <ModernPaperTest
-            title={config.title}
+            title={titleStr}
             icon={config.icon}
             gradeLabel={`${labels.gradeFull} ${grade}`}
             date={dateStr}
@@ -2579,7 +2589,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               {/* Title */}
               <div className="flex items-center justify-center gap-2 mb-6">
                 <BookOpen size={24} className="text-[#00D4FF]" />
-                <span className="text-[#00D4FF] font-black tracking-wide">{config.title} — {labels.gradeFull} {grade}</span>
+                <span className="text-[#00D4FF] font-black tracking-wide">{titleStr} — {labels.gradeFull} {grade}</span>
               </div>
 
               {/* Mark */}
@@ -2725,39 +2735,39 @@ const DEUTSCH_CONFIG: LanguageTestEngineConfig = {
   g1Icons: G1_ICONS,
   g1WordLabels: G1_WORD_LABELS,
   labels: {
-    selectCountry: "Wähle dein Land",
-    selectGrade: "Wähle deine Klassenstufe",
-    gradePrefix: "Kl.",
-    gradeFull: "Klasse",
-    selectTopics: "Themen für deinen Test auswählen",
-    all: "Alle",
-    allCheck: "Alle ✓",
-    soon: "bald",
-    questionsShort: "Fr.",
-    startTest: "TEST STARTEN →",
-    areas: "Bereiche",
-    readingTest: "📖 Lesetest",
-    readingTestDesc: "Text lesen & Fragen beantworten · 3 Fr.",
-    task: "Aufgabe",
-    interactiveTask: "Interaktive Aufgabe",
-    readAloud: "Vorlesen",
-    clickCorrectImage: "🖼 Klicke auf das richtige Bild:",
-    whichLetterStarts: "🔤 Mit welchem Buchstaben beginnt das Wort?",
-    answerPlaceholder: "Antwort...",
-    submit: "Abgeben ✓",
-    back: "Zurück",
-    markLabel: "Note",
-    correct: "richtig",
-    review: "Auswertung",
-    tryAgain: "Nochmal",
-    mainMenu: "Hauptmenü",
-    pdf: "PDF",
-    points: "Punkte",
-    pointsShort: "Pkt.",
-    name: "Name",
-    date: "Datum",
-    wrongWordNr: "Falsches Wort Nr.:",
-    root: "Stamm:",
+    selectCountry: { de: "Wähle dein Land", hu: "Válassz országot", ro: "Alege țara", en: "Select your country" },
+    selectGrade: { de: "Wähle deine Klassenstufe", hu: "Válassz osztályt", ro: "Alege clasa", en: "Select your grade" },
+    gradePrefix: { de: "Kl.", hu: "O.", ro: "Cl.", en: "Gr." },
+    gradeFull: { de: "Klasse", hu: "Osztály", ro: "Clasa", en: "Grade" },
+    selectTopics: { de: "Themen für deinen Test auswählen", hu: "Válassz témákat a teszthez", ro: "Alege temele pentru test", en: "Select topics for your test" },
+    all: { de: "Alle", hu: "Mind", ro: "Toate", en: "All" },
+    allCheck: { de: "Alle ✓", hu: "Mind ✓", ro: "Toate ✓", en: "All ✓" },
+    soon: { de: "bald", hu: "hamarosan", ro: "în curând", en: "soon" },
+    questionsShort: { de: "Fr.", hu: "Kérd.", ro: "Într.", en: "Qs" },
+    startTest: { de: "TEST STARTEN →", hu: "TESZT INDÍTÁSA →", ro: "ÎNCEPE TESTUL →", en: "START TEST →" },
+    areas: { de: "Bereiche", hu: "témakör", ro: "domenii", en: "areas" },
+    readingTest: { de: "📖 Lesetest", hu: "📖 Olvasás teszt", ro: "📖 Test de lectură", en: "📖 Reading test" },
+    readingTestDesc: { de: "Text lesen & Fragen beantworten · 3 Fr.", hu: "Szöveg olvasása és kérdések · 3 Kérd.", ro: "Citește textul și răspunde · 3 Într.", en: "Read text & answer questions · 3 Qs" },
+    task: { de: "Aufgabe", hu: "Feladat", ro: "Exercițiul", en: "Task" },
+    interactiveTask: { de: "Interaktive Aufgabe", hu: "Interaktív feladat", ro: "Exercițiu interactiv", en: "Interactive task" },
+    readAloud: { de: "Vorlesen", hu: "Felolvasás", ro: "Citește cu voce tare", en: "Read aloud" },
+    clickCorrectImage: { de: "🖼 Klicke auf das richtige Bild:", hu: "🖼 Kattints a helyes képre:", ro: "🖼 Fă clic pe imaginea corectă:", en: "🖼 Click the correct image:" },
+    whichLetterStarts: { de: "🔤 Mit welchem Buchstaben beginnt das Wort?", hu: "🔤 Milyen betűvel kezdődik a szó?", ro: "🔤 Cu ce literă începe cuvântul?", en: "🔤 What letter does the word start with?" },
+    answerPlaceholder: { de: "Antwort...", hu: "Válasz...", ro: "Răspuns...", en: "Answer..." },
+    submit: { de: "Abgeben ✓", hu: "Beküldés ✓", ro: "Trimite ✓", en: "Submit ✓" },
+    back: { de: "Zurück", hu: "Vissza", ro: "Înapoi", en: "Back" },
+    markLabel: { de: "Note", hu: "Jegy", ro: "Nota", en: "Grade" },
+    correct: { de: "richtig", hu: "helyes", ro: "corect", en: "correct" },
+    review: { de: "Auswertung", hu: "Értékelés", ro: "Evaluare", en: "Review" },
+    tryAgain: { de: "Nochmal", hu: "Újra", ro: "Din nou", en: "Try again" },
+    mainMenu: { de: "Hauptmenü", hu: "Főmenü", ro: "Meniu principal", en: "Main menu" },
+    pdf: { de: "PDF", hu: "PDF", ro: "PDF", en: "PDF" },
+    points: { de: "Punkte", hu: "Pontok", ro: "Puncte", en: "Points" },
+    pointsShort: { de: "Pkt.", hu: "P.", ro: "Pct.", en: "Pts." },
+    name: { de: "Name", hu: "Név", ro: "Nume", en: "Name" },
+    date: { de: "Datum", hu: "Dátum", ro: "Data", en: "Date" },
+    wrongWordNr: { de: "Falsches Wort Nr.:", hu: "Hibás szó száma:", ro: "Cuvântul greșit nr.:", en: "Wrong word no.:" },
+    root: { de: "Stamm:", hu: "Tő:", ro: "Rădăcină:", en: "Root:" },
   },
 };
 

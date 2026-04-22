@@ -70,7 +70,7 @@ function extractTasks(json: any): RawTask[] {
 export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k5_alapok",
-    name: "Számítógép alapok",
+    name: { de: "Computer Grundlagen", hu: "Számítógép alapok", ro: "Bazele computerului", en: "Computer Basics" },
     icon: "💻",
     color: "#3B82F6",
     subtopics: [
@@ -83,7 +83,7 @@ export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k5_eszkozok",
-    name: "Számítógép eszközök",
+    name: { de: "Computergeräte", hu: "Számítógép eszközök", ro: "Dispozitive computer", en: "Computer Devices" },
     icon: "⌨️",
     color: "#10B981",
     subtopics: [
@@ -96,7 +96,7 @@ export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k5_alkalmazasok",
-    name: "Alkalmazások",
+    name: { de: "Anwendungen", hu: "Alkalmazások", ro: "Aplicații", en: "Applications" },
     icon: "📝",
     color: "#F59E0B",
     subtopics: [
@@ -109,7 +109,7 @@ export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k5_internet",
-    name: "Internet",
+    name: { de: "Internet", hu: "Internet", ro: "Internet", en: "Internet" },
     icon: "🌐",
     color: "#8B5CF6",
     subtopics: [
@@ -122,7 +122,7 @@ export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k5_digitalpolgar",
-    name: "Digitális állampolgárság",
+    name: { de: "Digitale Bürgerschaft", hu: "Digitális állampolgárság", ro: "Cetățenie digitală", en: "Digital Citizenship" },
     icon: "🔒",
     color: "#EF4444",
     subtopics: [
@@ -135,7 +135,7 @@ export const INFO_K5_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k5_moderntech",
-    name: "Modern technológia",
+    name: { de: "Moderne Technologie", hu: "Modern technológia", ro: "Tehnologie modernă", en: "Modern Technology" },
     icon: "🤖",
     color: "#EC4899",
     subtopics: [

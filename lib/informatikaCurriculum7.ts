@@ -4,7 +4,7 @@ import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 export const INFO_K7_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k7_island1",
-    name: "Informatika K7 – 1. sziget",
+    name: { de: "Informatik K7 – Insel 1", hu: "Informatika K7 – 1. sziget", ro: "Informatica K7 – Insula 1", en: "Informatics K7 – Island 1" },
     icon: "💻",
     color: "#3B82F6",
     subtopics: Array.from({ length: 15 }, (_, i) => ({
@@ -16,7 +16,7 @@ export const INFO_K7_CURRICULUM: KemiaTheme[] = [
   },
   {
     id: "info_k7_island2",
-    name: "Informatika K7 – 2. sziget",
+    name: { de: "Informatik K7 – Insel 2", hu: "Informatika K7 – 2. sziget", ro: "Informatica K7 – Insula 2", en: "Informatics K7 – Island 2" },
     icon: "🌐",
     color: "#8B5CF6",
     subtopics: Array.from({ length: 15 }, (_, i) => ({

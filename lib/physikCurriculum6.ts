@@ -27,7 +27,7 @@ export interface PhysikTheme {
 const K6: PhysikTheme[] = [
   {
     id: "machines",
-    name: "Einfache Maschinen",
+    name: { de: "Einfache Maschinen", hu: "Egyszerű gépek", ro: "Mașini simple", en: "Simple Machines" },
     icon: "⚙️",
     color: "#EF4444",
     subtopics: [
@@ -40,7 +40,7 @@ const K6: PhysikTheme[] = [
   },
   {
     id: "pressure",
-    name: "Druck",
+    name: { de: "Druck", hu: "Nyomás", ro: "Presiune", en: "Pressure" },
     icon: "🫧",
     color: "#3B82F6",
     subtopics: [
@@ -53,7 +53,7 @@ const K6: PhysikTheme[] = [
   },
   {
     id: "electricity",
-    name: "Elektrizität",
+    name: { de: "Elektrizität", hu: "Elektromosság", ro: "Electricitate", en: "Electricity" },
     icon: "🔌",
     color: "#F59E0B",
     subtopics: [
@@ -66,7 +66,7 @@ const K6: PhysikTheme[] = [
   },
   {
     id: "density",
-    name: "Dichte & Schwimmen",
+    name: { de: "Dichte & Schwimmen", hu: "Sűrűség és úszás", ro: "Densitate și plutire", en: "Density & Floating" },
     icon: "🏊",
     color: "#10B981",
     subtopics: [
@@ -78,7 +78,7 @@ const K6: PhysikTheme[] = [
   },
   {
     id: "energy_transfer",
-    name: "Energieumwandlung",
+    name: { de: "Energieumwandlung", hu: "Energiaátalakulás", ro: "Conversia energiei", en: "Energy Conversion" },
     icon: "🔄",
     color: "#8B5CF6",
     subtopics: [
@@ -91,7 +91,7 @@ const K6: PhysikTheme[] = [
   },
   {
     id: "waves_sound",
-    name: "Wellen & Schall",
+    name: { de: "Wellen & Schall", hu: "Hullámok és hang", ro: "Unde și sunet", en: "Waves & Sound" },
     icon: "🌊",
     color: "#FF6B35",
     subtopics: [

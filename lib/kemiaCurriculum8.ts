@@ -3,7 +3,7 @@ import { getGeneratedQuestions, type KemiaGeneratorMap, type KemiaTheme } from "
 const K8: KemiaTheme[] = [
   {
     id: "organic_intro",
-    name: "Organische Chemie",
+    name: { de: "Organische Chemie", hu: "Szerves kémia", ro: "Chimie organică", en: "Organic Chemistry" },
     icon: "🧬",
     color: "#EF4444",
     subtopics: [
@@ -16,7 +16,7 @@ const K8: KemiaTheme[] = [
   },
   {
     id: "organic_groups",
-    name: "Stoffklassen",
+    name: { de: "Stoffklassen", hu: "Anyagosztályok", ro: "Clase de substanțe", en: "Substance Classes" },
     icon: "🧪",
     color: "#F59E0B",
     subtopics: [
@@ -29,7 +29,7 @@ const K8: KemiaTheme[] = [
   },
   {
     id: "rates_equilibrium",
-    name: "Reaktionsgeschwindigkeit",
+    name: { de: "Reaktionsgeschwindigkeit", hu: "Reakciósebesség", ro: "Viteza de reacție", en: "Reaction Rate" },
     icon: "⏱️",
     color: "#10B981",
     subtopics: [
@@ -42,7 +42,7 @@ const K8: KemiaTheme[] = [
   },
   {
     id: "electrochemistry",
-    name: "Elektrochemie",
+    name: { de: "Elektrochemie", hu: "Elektrokémia", ro: "Electrochimie", en: "Electrochemistry" },
     icon: "🔋",
     color: "#3B82F6",
     subtopics: [
@@ -55,7 +55,7 @@ const K8: KemiaTheme[] = [
   },
   {
     id: "quantitative_chem",
-    name: "Berechnungen",
+    name: { de: "Berechnungen", hu: "Számítások", ro: "Calcule", en: "Calculations" },
     icon: "📐",
     color: "#8B5CF6",
     subtopics: [
@@ -68,7 +68,7 @@ const K8: KemiaTheme[] = [
   },
   {
     id: "chemistry_society",
-    name: "Chemie in Umwelt und Technik",
+    name: { de: "Chemie in Umwelt und Technik", hu: "Kémia a környezetben és a technikában", ro: "Chimia în mediu și tehnologie", en: "Chemistry in Environment and Tech" },
     icon: "🌍",
     color: "#EC4899",
     subtopics: [

@@ -11,39 +11,39 @@ import { G8_Generators_Geschichte } from "./geschichteGenerators8";
 
 // ─── TOPIC NAMES ─────────────��──────────────────────────────────────────────
 
-const TOPIC_NAMES: Record<string, string> = {
+const TOPIC_NAMES: Record<string, Record<string, string>> = {
   // Grade 5 (7 Themen)
-  fruehe_hochkulturen: "Frühe Hochkulturen",
-  aegypten: "Das alte Ägypten",
-  griechenland: "Das antike Griechenland",
-  rom_republik: "Römische Republik",
-  rom_kaiserreich: "Römisches Kaiserreich",
-  germanen: "Die Germanen",
-  voelkerwanderung: "Völkerwanderung",
+  fruehe_hochkulturen: { de: "Frühe Hochkulturen", hu: "Korai civilizációk", ro: "Civilizații antice", en: "Early Civilizations" },
+  aegypten: { de: "Das alte Ägypten", hu: "Az ókori Egyiptom", ro: "Egiptul Antic", en: "Ancient Egypt" },
+  griechenland: { de: "Das antike Griechenland", hu: "Az ókori Görögország", ro: "Grecia Antică", en: "Ancient Greece" },
+  rom_republik: { de: "Römische Republik", hu: "Római Köztársaság", ro: "Republica Romană", en: "Roman Republic" },
+  rom_kaiserreich: { de: "Römisches Kaiserreich", hu: "Római Birodalom", ro: "Imperiul Roman", en: "Roman Empire" },
+  germanen: { de: "Die Germanen", hu: "Germánok", ro: "Germanii", en: "The Germanic Peoples" },
+  voelkerwanderung: { de: "Völkerwanderung", hu: "Népvándorlás", ro: "Migrația popoarelor", en: "Migration Period" },
   // Grade 6 (7 Themen)
-  fruehes_mittelalter: "Frühes Mittelalter",
-  karl_der_grosse: "Karl der Große",
-  lehnswesen: "Lehnswesen & Ständeordnung",
-  kreuzzuege: "Die Kreuzzüge",
-  stadtleben_mittelalter: "Stadtleben im Mittelalter",
-  islam_goldenes_zeitalter: "Islam & Goldenes Zeitalter",
-  reformation: "Reformation & Glaubenskriege",
+  fruehes_mittelalter: { de: "Frühes Mittelalter", hu: "Kora középkor", ro: "Evul Mediu Timpuriu", en: "Early Middle Ages" },
+  karl_der_grosse: { de: "Karl der Große", hu: "Nagy Károly", ro: "Carol cel Mare", en: "Charlemagne" },
+  lehnswesen: { de: "Lehnswesen & Ständeordnung", hu: "Hűbériség és rendek", ro: "Feudalism și ordine", en: "Feudalism & Estates" },
+  kreuzzuege: { de: "Die Kreuzzüge", hu: "Keresztes hadjáratok", ro: "Cruciadele", en: "The Crusades" },
+  stadtleben_mittelalter: { de: "Stadtleben im Mittelalter", hu: "Városi élet a középkorban", ro: "Viața urbană medievală", en: "City Life in the Middle Ages" },
+  islam_goldenes_zeitalter: { de: "Islam & Goldenes Zeitalter", hu: "Iszlám és aranykor", ro: "Islamul și Epoca de Aur", en: "Islam & Golden Age" },
+  reformation: { de: "Reformation & Glaubenskriege", hu: "Reformáció és vallásháborúk", ro: "Reforma și războaie religioase", en: "Reformation & Religious Wars" },
   // Grade 7 (7 Themen)
-  absolutismus: "Absolutismus",
-  aufklaerung: "Die Aufklärung",
-  amerikanische_revolution: "Amerikanische Revolution",
-  franzoesische_revolution: "Französische Revolution",
-  napoleon: "Napoleon & Europa",
-  wiener_kongress: "Wiener Kongress & Restauration",
-  industrialisierung: "Industrialisierung",
+  absolutismus: { de: "Absolutismus", hu: "Abszolutizmus", ro: "Absolutism", en: "Absolutism" },
+  aufklaerung: { de: "Die Aufklärung", hu: "A felvilágosodás", ro: "Iluminismul", en: "The Enlightenment" },
+  amerikanische_revolution: { de: "Amerikanische Revolution", hu: "Amerikai forradalom", ro: "Revoluția Americană", en: "American Revolution" },
+  franzoesische_revolution: { de: "Französische Revolution", hu: "Francia forradalom", ro: "Revoluția Franceză", en: "French Revolution" },
+  napoleon: { de: "Napoleon & Europa", hu: "Napóleon és Európa", ro: "Napoleon și Europa", en: "Napoleon & Europe" },
+  wiener_kongress: { de: "Wiener Kongress & Restauration", hu: "Bécsi kongresszus", ro: "Congresul de la Viena", en: "Congress of Vienna" },
+  industrialisierung: { de: "Industrialisierung", hu: "Ipari forradalom", ro: "Revoluția Industrială", en: "Industrialization" },
   // Grade 8 (7 Themen)
-  imperialismus: "Imperialismus & Kolonialismus",
-  erster_weltkrieg: "Erster Weltkrieg",
-  weimarer_republik: "Weimarer Republik",
-  nationalsozialismus: "Nationalsozialismus",
-  zweiter_weltkrieg: "Zweiter Weltkrieg & Holocaust",
-  kalter_krieg: "Kalter Krieg & Teilung Deutschlands",
-  wiedervereinigung: "Wiedervereinigung & EU",
+  imperialismus: { de: "Imperialismus & Kolonialismus", hu: "Imperializmus és gyarmatosítás", ro: "Imperialism și colonialism", en: "Imperialism & Colonialism" },
+  erster_weltkrieg: { de: "Erster Weltkrieg", hu: "Első világháború", ro: "Primul Război Mondial", en: "World War I" },
+  weimarer_republik: { de: "Weimarer Republik", hu: "Weimari köztársaság", ro: "Republica de la Weimar", en: "Weimar Republic" },
+  nationalsozialismus: { de: "Nationalsozialismus", hu: "Nemzetiszocializmus", ro: "Național-socialism", en: "National Socialism" },
+  zweiter_weltkrieg: { de: "Zweiter Weltkrieg & Holocaust", hu: "Második világháború és holokauszt", ro: "Al Doilea Război Mondial", en: "World War II & Holocaust" },
+  kalter_krieg: { de: "Kalter Krieg & Teilung Deutschlands", hu: "Hidegháború és Németország megosztása", ro: "Războiul Rece și divizarea Germaniei", en: "Cold War & Division of Germany" },
+  wiedervereinigung: { de: "Wiedervereinigung & EU", hu: "Újraegyesítés és EU", ro: "Reunificarea și UE", en: "Reunification & EU" },
 };
 
 // ─── BUILD HELPER ────────────────────────────────────────────────────────────
