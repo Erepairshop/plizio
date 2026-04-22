@@ -1807,25 +1807,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               </div>
               <span className="font-black text-[#00D4FF] tracking-wide text-sm">{config.title}</span>
               <div className="ml-auto flex items-center gap-2">
-                {/* Small country picker */}
-                <select
-                  value={country}
-                  onChange={(e) => {
-                    const c = e.target.value;
-                    setCountry(c);
-                    localStorage.setItem(config.storageKey, c);
-                  }}
-                  className="text-xs font-bold rounded-full px-2 py-1 border outline-none cursor-pointer"
-                  style={{
-                    background: "rgba(0,212,255,0.08)",
-                    borderColor: "rgba(0,212,255,0.25)",
-                    color: "rgba(255,255,255,0.7)",
-                  }}
-                >
-                  {config.countries.map(cc => (
-                    <option key={cc.code} value={cc.code}>{cc.flag} {cc.code}</option>
-                  ))}
-                </select>
+                {/* Country picker eltávolítva — főoldali nyelvválasztó vezeti */}
                 <span className="text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
                   {labels.gradePrefix} {grade}
                 </span>
