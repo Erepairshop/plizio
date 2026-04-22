@@ -78,13 +78,19 @@ import { northmacedoniaMap, northmacedoniaViewBox, projectCoordsMK } from "./nor
 import { northmacedoniaPois } from "../data/northmacedoniaPoi";
 import { kosovoMap, kosovoViewBox, projectCoordsXK } from "./kosovo.svg";
 import { kosovoAllPoi } from "../data/kosovoPoi";
+import { moldovaMap, moldovaViewBox, projectCoordsMD } from "./moldova.svg";
+import { moldovaAllPoi } from "../data/moldovaPoi";
+import { ukraineMap, ukraineViewBox, projectCoordsUA } from "./ukraine.svg";
+import { belarusMap, belarusViewBox, projectCoordsBY } from "./belarus.svg";
+import { ukrainePois } from "../data/ukrainePoi";
+import { belarusAllPoi } from "../data/belarusPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK" | "MD" | "BY"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -94,6 +100,33 @@ export interface CountryMapData {
 
 export function getCountryMap(lang: Lang): CountryMapData {
   switch (lang) {
+    case "ua":
+      return {
+        countryId: "UA",
+        map: ukraineMap as unknown as BundeslandPath[],
+        viewBox: ukraineViewBox,
+        projectCoords: projectCoordsUA,
+        pois: ukrainePois,
+        subregions: {},
+      };
+    case "by":
+      return {
+        countryId: "BY",
+        map: belarusMap as unknown as BundeslandPath[],
+        viewBox: belarusViewBox,
+        projectCoords: projectCoordsBY,
+        pois: belarusAllPoi,
+        subregions: {},
+      };
+    case "md":
+      return {
+        countryId: "MD",
+        map: moldovaMap as unknown as BundeslandPath[],
+        viewBox: moldovaViewBox,
+        projectCoords: projectCoordsMD,
+        pois: moldovaAllPoi,
+        subregions: {},
+      };
     case "xk":
       return {
         countryId: "XK",
