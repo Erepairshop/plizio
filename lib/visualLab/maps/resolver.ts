@@ -48,6 +48,8 @@ import { slovakiaMap, slovakiaViewBox, projectCoordsSK } from "./slovakia.svg";
 import { slovakiaAllPoi } from "../data/slovakiaPoi";
 import { sloveniaMap, sloveniaViewBox, projectCoordsSI } from "./slovenia.svg";
 import { sloveniaAllPoi } from "../data/sloveniaPoi";
+import { sanmarinoMap, sanmarinoViewBox, projectCoordsSM } from "./sanmarino.svg";
+import { sanmarinoAllPoi } from "../data/sanmarinoPoi";
 import { croatiaMap, croatiaViewBox, projectCoordsHR } from "./croatia.svg";
 import { croatiaAllPoi } from "../data/croatiaPoi";
 import { bulgariaMap, bulgariaViewBox, projectCoordsBG } from "./bulgaria.svg";
@@ -88,13 +90,15 @@ import { andorraMap, andorraViewBox, projectCoordsAD } from "./andorra.svg";
 import { andorraAllPoi } from "../data/andorraPoi";
 import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
+import { vaticanMap, vaticanViewBox, projectCoordsVA } from "./vatican.svg";
+import { vaticanPois } from "../data/vaticanPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK" | "MD" | "BY" | "AD" | "MC"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "SM" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK" | "MD" | "BY" | "AD" | "MC" | "VA"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -104,6 +108,15 @@ export interface CountryMapData {
 
 export function getCountryMap(lang: Lang): CountryMapData {
   switch (lang) {
+    case "va":
+      return {
+        countryId: "VA",
+        map: vaticanMap as unknown as BundeslandPath[],
+        viewBox: vaticanViewBox,
+        projectCoords: projectCoordsVA,
+        pois: vaticanPois,
+        subregions: {},
+      };
     case "ua":
       return {
         countryId: "UA",
@@ -373,6 +386,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: sloveniaViewBox,
         projectCoords: projectCoordsSI,
         pois: sloveniaAllPoi,
+        subregions: {},
+      };
+    case "sm":
+      return {
+        countryId: "SM",
+        map: sanmarinoMap as unknown as BundeslandPath[],
+        viewBox: sanmarinoViewBox,
+        projectCoords: projectCoordsSM,
+        pois: sanmarinoAllPoi,
         subregions: {},
       };
     case "hr":

@@ -61,6 +61,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/belarus-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/andorra-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/monaco-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/sanmarino-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/vatican-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/astro-ai`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/aitest`, lastModified, priority: 0.9 },
   ];
