@@ -4668,6 +4668,24 @@ export function calculateEnglishGrade(pct: number, countryCode = "US"): TestGrad
     if (pct >= 50) return { note: "D",  label: "Below Average",   color: "#FF6B00", emoji: "😅" };
     return              { note: "F",  label: "Failing",           color: "#FF4444", emoji: "😟" };
   }
+  // IE: Leaving Cert H1–H8 (Higher Level) — simplified scale for school tests
+  if (countryCode === "IE") {
+    if (pct >= 90) return { note: "H1", label: "Outstanding",       color: "#FFD700", emoji: "🌟" };
+    if (pct >= 80) return { note: "H2", label: "Excellent",         color: "#FFD700", emoji: "🏆" };
+    if (pct >= 70) return { note: "H3", label: "Very Good",         color: "#00FF88", emoji: "😊" };
+    if (pct >= 60) return { note: "H4", label: "Good",              color: "#00FF88", emoji: "😊" };
+    if (pct >= 50) return { note: "H5", label: "Satisfactory",      color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 40) return { note: "H6", label: "Sufficient",        color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 30) return { note: "H7", label: "Partial",           color: "#FF6B00", emoji: "😅" };
+    return              { note: "H8", label: "Fail",                color: "#FF4444", emoji: "😟" };
+  }
+  // NZ: NCEA — Not Achieved / Achieved / Merit / Excellence
+  if (countryCode === "NZ") {
+    if (pct >= 85) return { note: "E", label: "Excellence",         color: "#FFD700", emoji: "🌟" };
+    if (pct >= 70) return { note: "M", label: "Merit",              color: "#00FF88", emoji: "😊" };
+    if (pct >= 50) return { note: "A", label: "Achieved",           color: "#00D4FF", emoji: "🙂" };
+    return              { note: "N", label: "Not Achieved",         color: "#FF4444", emoji: "😟" };
+  }
   // US (default): A/B/C/D/F
   if (pct >= 90) return { note: "A", label: "Excellent",          color: "#FFD700", emoji: "🌟" };
   if (pct >= 80) return { note: "B", label: "Good",               color: "#00FF88", emoji: "😊" };

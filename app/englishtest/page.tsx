@@ -37,6 +37,8 @@ const EN_CONFIG: LanguageTestEngineConfig = {
     { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "Grade 9–1 (GCSE)" },
     { code: "AU", flag: "🇦🇺", label: "Australia", sub: "A / B / C / D / E" },
     { code: "CA", flag: "🇨🇦", label: "Canada", sub: "A+ / A / B+ / B / C+ / C / D / F" },
+    { code: "IE", flag: "🇮🇪", label: "Ireland", sub: "H1–H8 (Higher) / O1–O8" },
+    { code: "NZ", flag: "🇳🇿", label: "New Zealand", sub: "NCEA: N / A / M / E" },
   ],
   calculateMark: calculateEnglishGrade,
 

@@ -208,6 +208,9 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   // Főoldali nyelvválasztó → country mapping (UI country-picker tiltva)
   const langToCountry: Record<string, string> = { de: "DE", hu: "HU", ro: "RO", en: "US" };
   const countryFromLang = langToCountry[globalLang] ?? (config.countries[0]?.code ?? "DE");
+  // Multi-country nyelveknel (DE: DE/AT/CH, EN: US/UK/CA/AU/IE...) van country-picker
+  // egyebb eseten (HU, RO) auto-map, nincs UI valasztas
+  const hasCountryChoice = (globalLang === "de" || globalLang === "en") && config.countries.length > 1;
   const g1Icons = config.g1Icons ?? G1_ICONS;
   const g1WordLabels = config.g1WordLabels ?? G1_WORD_LABELS;
   // Country auto-derived from global lang — UI country-picker átugorva
@@ -215,7 +218,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const gradeParam = searchParams?.get("grade");
   const parsedGradeParam = gradeParam ? parseInt(gradeParam, 10) : NaN;
   const hasGradeParam = Number.isFinite(parsedGradeParam) && parsedGradeParam >= 1 && parsedGradeParam <= 8;
-  const [screen, setScreen] = useState<Screen>(hasGradeParam ? "topics" : "grade");
+  const [screen, setScreen] = useState<Screen>(hasGradeParam ? "topics" : (hasCountryChoice ? "country" : "grade"));
   const [country, setCountry] = useState<string>(countryFromLang);
   // Sync country if lang changes
   useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
@@ -1613,6 +1616,91 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
 
       <AnimatePresence mode="wait">
 
+        {/* ── LAND WÄHLEN ───────────────────────────────────────────────────── */}
+        {screen === "country" && hasCountryChoice && (
+          <motion.div
+            key="country"
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -20 }}
+            className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
+          >
+            <LanguageBackground chars={config.bgChars} colors={config.bgColors} />
+            <Link href="/" className="absolute top-5 left-5 z-10">
+              <motion.div
+                className="p-2 rounded-xl bg-white/5 border border-white/10"
+                whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+                whileTap={{ scale: 0.9 }}
+              >
+                <ArrowLeft size={20} className="text-white/60" />
+              </motion.div>
+            </Link>
+
+            <motion.div
+              className="relative z-10 flex flex-col items-center gap-3 mb-10"
+              initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}
+            >
+              <motion.div
+                className="p-4 rounded-2xl"
+                style={{ background: "rgba(0,212,255,0.1)", boxShadow: "0 0 30px rgba(0,212,255,0.2)" }}
+              >
+                <BookOpen
+                  size={42}
+                  className="text-[#00D4FF]"
+                  style={{ filter: "drop-shadow(0 0 12px rgba(0,212,255,0.6))" }}
+                />
+              </motion.div>
+              <h1
+                className="text-4xl font-black tracking-wider text-white"
+                style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
+              >
+                {config.title}
+              </h1>
+              <p className="text-white/50 text-sm">{labels.selectCountry}</p>
+            </motion.div>
+
+            <motion.div
+              className="relative z-10 flex flex-col gap-3 w-full max-w-xs"
+              initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
+            >
+              {config.countries.map((c, i) => (
+                <motion.button
+                  key={c.code}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.15 + i * 0.08 }}
+                  whileHover={{ scale: 1.03 }}
+                  whileTap={{ scale: 0.97 }}
+                  onClick={() => {
+                    setCountry(c.code);
+                    localStorage.setItem(config.storageKey, c.code);
+                    setScreen("grade");
+                  }}
+                  className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
+                  style={{
+                    background: "rgba(0,212,255,0.05)",
+                    borderColor: "rgba(0,212,255,0.2)",
+                  }}
+                  onMouseEnter={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.12)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.5)";
+                  }}
+                  onMouseLeave={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.05)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.2)";
+                  }}
+                >
+                  <span className="text-3xl">{c.flag}</span>
+                  <div>
+                    <div className="font-black text-white text-base">{c.label}</div>
+                    <div className="text-[11px] text-white/40">{c.sub}</div>
+                  </div>
+                  <ChevronRight size={18} className="ml-auto text-[#00D4FF]/50" />
+                </motion.button>
+              ))}
+            </motion.div>
+          </motion.div>
+        )}
+
         {/* ── KLASSE WÄHLEN ─────────────────────────────────────────────────── */}
         {screen === "grade" && (
           <motion.div
@@ -1622,15 +1710,26 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
             className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
           >
             <LanguageBackground chars={config.bgChars} colors={config.bgColors} />
-            <Link href="/learn" className="absolute top-5 left-5 z-10">
-              <motion.div
-                className="p-2 rounded-xl bg-white/5 border border-white/10"
+            {hasCountryChoice ? (
+              <motion.button
+                onClick={() => setScreen("country")}
+                className="absolute top-5 left-5 z-10 p-2 rounded-xl bg-white/5 border border-white/10"
                 whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
                 whileTap={{ scale: 0.9 }}
               >
                 <ArrowLeft size={20} className="text-white/60" />
-              </motion.div>
-            </Link>
+              </motion.button>
+            ) : (
+              <Link href="/learn" className="absolute top-5 left-5 z-10">
+                <motion.div
+                  className="p-2 rounded-xl bg-white/5 border border-white/10"
+                  whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+                  whileTap={{ scale: 0.9 }}
+                >
+                  <ArrowLeft size={20} className="text-white/60" />
+                </motion.div>
+              </Link>
+            )}
 
             <motion.div
               className="relative z-10 flex flex-col items-center gap-3 mb-8"
@@ -1652,7 +1751,9 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               >
                 {config.title}
               </h1>
-              <p className="text-white/50 text-sm">{labels.selectGrade}</p>
+              <p className="text-white/50 text-sm">
+                {hasCountryChoice ? `${config.countries.find(cc => cc.code === country)?.flag ?? ""} ` : ""}{labels.selectGrade}
+              </p>
             </motion.div>
 
             <motion.div
