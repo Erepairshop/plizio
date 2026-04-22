@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az AGI?",
+      "options": ["Általános AI", "Autó", "Gép", "Internet"],
+      "correct": 0
+    }
+  ]
+}

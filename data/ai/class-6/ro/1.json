@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este machine learning?",
+      "options": ["Învățarea din date", "Cititul", "Joaca", "Somnul"],
+      "correct": 0
+    }
+  ]
+}

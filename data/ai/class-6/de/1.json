@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist maschinelles Lernen?",
+      "options": ["Lernen aus Daten", "Bücher lesen", "Spielen", "Schlafen"],
+      "correct": 0
+    }
+  ]
+}

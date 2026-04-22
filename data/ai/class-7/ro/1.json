@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o rețea neuronală?",
+      "options": ["Model AI", "Plas", "Păianjen", "Cablu"],
+      "correct": 0
+    }
+  ]
+}

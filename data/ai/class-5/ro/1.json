@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este AI?",
+      "options": ["Inteligență Artificială", "Măr", "Masă", "Câine"],
+      "correct": 0
+    }
+  ]
+}

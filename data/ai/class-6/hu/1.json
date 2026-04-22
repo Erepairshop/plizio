@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a gépi tanulás?",
+      "options": ["Adatokból tanulás", "Könyvolvasás", "Játék", "Alvás"],
+      "correct": 0
+    }
+  ]
+}

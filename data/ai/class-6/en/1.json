@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is machine learning?",
+      "options": ["Learning from data", "Reading books", "Playing", "Sleeping"],
+      "correct": 0
+    }
+  ]
+}

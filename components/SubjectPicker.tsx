@@ -150,6 +150,15 @@ const SUBJECTS: SubjectDef[] = [
     testRoute: "/informatikatest",
     name: { de: "Informatik", hu: "Informatika", ro: "Informatică", en: "Informatics" },
   },
+  {
+    id: "ai",
+    icon: Sparkles,
+    color: "#EC4899",
+    grades: [5, 6, 7, 8],
+    astroRoute: "/astro-ai",
+    testRoute: "/aitest",
+    name: { de: "Künstliche Intelligenz", hu: "Mesterséges Intelligencia", ro: "Inteligență Artificială", en: "Artificial Intelligence" },
+  },
 ];
 
 const UI: Record<Lang, { pickGrade: string; astro: string; test: string; gradeLabel: string }> = {

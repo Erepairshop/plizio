@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este AGI?",
+      "options": ["AI General", "Mașină", "Aparat", "Internet"],
+      "correct": 0
+    }
+  ]
+}

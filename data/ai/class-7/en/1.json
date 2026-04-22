@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a neural network?",
+      "options": ["AI model", "Net", "Spider", "Cable"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az AI?",
+      "options": ["Mesterséges intelligencia", "Alma", "Asztal", "Kutya"],
+      "correct": 0
+    }
+  ]
+}

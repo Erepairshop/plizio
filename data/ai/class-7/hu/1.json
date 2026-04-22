@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a neurális hálózat?",
+      "options": ["AI modell", "Háló", "Pók", "Kábel"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist KI?",
+      "options": ["Künstliche Intelligenz", "Apfel", "Tisch", "Hund"],
+      "correct": 0
+    }
+  ]
+}

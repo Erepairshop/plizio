@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein neuronales Netz?",
+      "options": ["KI-Modell", "Netz", "Spinne", "Kabel"],
+      "correct": 0
+    }
+  ]
+}

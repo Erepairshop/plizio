@@ -1,0 +1,4 @@
+import type { PoolTopicDef } from "./types";
+const getLabels = (t: string) => { const l: any = { hu: {}, en: {}, de: {}, ro: {} }; for (const c of ["hu", "en", "de", "ro"] as const) { l[c]["explorer_title"] = `${t} Explorer`; for (let i = 1; i <= 15; i++) { l[c][`t${i}_title`] = `Téma ${i}`; l[c][`t${i}_text`] = `Text ${i}.`; l[c][`t${i}_q`] = `Q ${i}?`; l[c][`t${i}_qa`] = `A`; l[c][`t${i}_qb`] = `B`; l[c][`t${i}_qc`] = `C`; l[c][`t${i}_qd`] = `D`; } } return l; };
+export const AI_K6_I2_LABELS = getLabels("Adatok szerepe");
+export const AI_K6_I2_POOL: PoolTopicDef[] = Array.from({length: 15}, (_, i) => ({ infoTitle: `t${i+1}_title`, infoText: `t${i+1}_text`, svg: { type: "simple-icon", icon: "📊", color: "#3B82F6" }, quiz: { question: `t${i+1}_q`, choices: [`t${i+1}_qa`, `t${i+1}_qb`, `t${i+1}_qc`, `t${i+1}_qd`], answer: `t${i+1}_qa` } }));
