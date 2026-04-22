@@ -49,6 +49,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/iceland-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/malta-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/cyprus-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/albania-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/serbia-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/bosnia-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/astro-ai`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/aitest`, lastModified, priority: 0.9 },
   ];

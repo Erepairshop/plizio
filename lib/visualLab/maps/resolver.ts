@@ -66,13 +66,19 @@ import { maltaMap, maltaViewBox, projectCoordsMT } from "./malta.svg";
 import { maltaPoi } from "../data/maltaPoi";
 import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
 import { cyprusAllPoi } from "../data/cyprusPoi";
+import { albaniaMap, albaniaViewBox, projectCoordsAL } from "./albania.svg";
+import { albaniaAllPoi } from "../data/albaniaPoi";
+import { serbiaMap, serbiaViewBox, projectCoordsRS } from "./serbia.svg";
+import { serbiaAllPoi } from "../data/serbiaPoi";
+import { bosniaMap, bosniaViewBox, projectCoordsBA } from "./bosnia.svg";
+import { bosniaAllPoi } from "../data/bosniaPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -82,6 +88,33 @@ export interface CountryMapData {
 
 export function getCountryMap(lang: Lang): CountryMapData {
   switch (lang) {
+    case "ba":
+      return {
+        countryId: "BA",
+        map: bosniaMap as unknown as BundeslandPath[],
+        viewBox: bosniaViewBox,
+        projectCoords: projectCoordsBA,
+        pois: bosniaAllPoi,
+        subregions: {},
+      };
+    case "al":
+      return {
+        countryId: "AL",
+        map: albaniaMap as unknown as BundeslandPath[],
+        viewBox: albaniaViewBox,
+        projectCoords: projectCoordsAL,
+        pois: albaniaAllPoi,
+        subregions: {},
+      };
+    case "rs":
+      return {
+        countryId: "RS",
+        map: serbiaMap as unknown as BundeslandPath[],
+        viewBox: serbiaViewBox,
+        projectCoords: projectCoordsRS,
+        pois: serbiaAllPoi,
+        subregions: {},
+      };
     case "ro":
       return {
         countryId: "RO",
