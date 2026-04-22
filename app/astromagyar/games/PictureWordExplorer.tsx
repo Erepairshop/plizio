@@ -6,6 +6,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // LABELS with ALL 4 languages
 const LABELS = {
   en: {
@@ -93,7 +102,17 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
   const [showDiscovery, setShowDiscovery] = useState(false);
   const [finished, setFinished] = useState(false);
 
-  const currentRound = rounds[currentIndex];
+  const currentRound = useMemo(() => {
+    const r = rounds[currentIndex];
+    if (!r) return r;
+    const optionsWithOrig = r.options.map((opt, i) => ({ opt, orig: i }));
+    const shuffled = shuffle(optionsWithOrig);
+    return {
+      ...r,
+      options: shuffled.map(x => x.opt),
+      correctIndex: shuffled.findIndex(x => x.orig === r.correctIndex),
+    };
+  }, [currentIndex, rounds]);
   const isCorrectSelected = selectedIndex === currentRound.correctIndex;
 
   // Handle option click

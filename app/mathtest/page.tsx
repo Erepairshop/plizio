@@ -844,7 +844,7 @@ function MathTestPageInner() {
         return {
         question: task.question,
         correctAnswer: numOptions[task.correct], // The actual value, not the index
-        options: numOptions,
+        options: [...numOptions].sort(() => Math.random() - 0.5),
         topic: task.id,
         isWordProblem: false,
         };

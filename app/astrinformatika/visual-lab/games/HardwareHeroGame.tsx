@@ -1,8 +1,17 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const T: Record<Language, { correct: string; wrong: string; lives: string; done: string; score: string; next: string }> = {
   de: { correct: "Helyes! ✓", wrong: "Hibás!", lives: "Leben", done: "Fertig!", score: "Punkte", next: "Weiter" },

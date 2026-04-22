@@ -1,8 +1,17 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { WortWaechterRound, Language } from "@/lib/visualLab/languageTypes";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const T: Record<Language, { route: string; block: string; lives: string; done: string; score: string; correct: string; wrong: string }> = {
   de: { route: "✓ ROUTE", block: "✗ BLOCK", lives: "Leben", done: "Fertig!", score: "Punkte", correct: "Richtig!", wrong: "Falsch!" },
@@ -21,7 +30,7 @@ function buildQueue(round: WortWaechterRound): PacketItem[] {
     { label: round.targetWord, isTarget: true },
     ...round.wrongWords.map((w) => ({ label: w, isTarget: false })),
   ];
-  return items.sort(() => Math.random() - 0.5);
+  return shuffle(items);
 }
 
 export default function PacketPathGame({
@@ -38,7 +47,7 @@ export default function PacketPathGame({
   void grade;
   const t = T[lang] ?? T.de;
 
-  const [queue] = useState<PacketItem[]>(() => buildQueue(round));
+  const queue = useMemo(() => buildQueue(round), [round.id]);
   const [idx, setIdx] = useState(0);
   const [lives, setLives] = useState(3);
   const [score, setScore] = useState(0);

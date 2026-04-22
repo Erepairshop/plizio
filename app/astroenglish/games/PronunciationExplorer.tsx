@@ -6,6 +6,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // Types
 interface PronRound {
   word: string;
@@ -105,6 +114,14 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
   const TOTAL = rounds.length;
   const currentRound = rounds[currentIdx];
 
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!currentRound) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = currentRound.options[currentRound.correctIndex];
+    const shuffled = shuffle(currentRound.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [currentRound]);
+
   const questionLabel = useMemo(() => {
     if (!currentRound) return "";
     switch (currentRound.questionType) {
@@ -125,15 +142,15 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
     if (selectedIdx !== null) return;
     setSelectedIdx(idx);
 
-    const isCorrect = idx === currentRound.correctIndex;
+    const isCorrect = idx === shuffledCorrectIndex;
     setFeedbackType(isCorrect ? "correct" : "incorrect");
 
     if (!isCorrect) {
       wrongCountRef.current += 1;
       fireWrongAnswer({
         question: `${questionLabel}: "${currentRound.word}"`,
-        wrongAnswer: currentRound.options[idx],
-        correctAnswer: currentRound.options[currentRound.correctIndex],
+        wrongAnswer: shuffledOptions[idx],
+        correctAnswer: shuffledOptions[shuffledCorrectIndex],
         topic: "Pronunciation",
         lang: lang as string,
       });
@@ -144,7 +161,7 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
       setShowDiscovery(true);
       setTimeout(() => setShowDiscovery(false), 2500);
     }
-  }, [selectedIdx, currentRound]);
+  }, [selectedIdx, currentRound, questionLabel, lang, shuffledCorrectIndex, shuffledOptions]);
 
   const handleNext = useCallback(() => {
     if (currentIdx < TOTAL - 1) {
@@ -235,7 +252,7 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
 
         {/* Options */}
         <div className="space-y-2 mb-8">
-          {currentRound.options.map((option, idx) => (
+          {shuffledOptions.map((option, idx) => (
             <motion.button
               key={idx}
               onClick={() => handleSelectOption(idx)}
@@ -245,7 +262,7 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
                 borderColor:
                   selectedIdx === null
                     ? "rgba(255,255,255,0.2)"
-                    : idx === currentRound.correctIndex
+                    : idx === shuffledCorrectIndex
                       ? "#00FF88"
                       : idx === selectedIdx
                         ? "#FF2D78"
@@ -253,7 +270,7 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
                 backgroundColor:
                   selectedIdx === null
                     ? "rgba(255,255,255,0.05)"
-                    : idx === currentRound.correctIndex
+                    : idx === shuffledCorrectIndex
                       ? "rgba(0,255,136,0.15)"
                       : idx === selectedIdx
                         ? "rgba(255,45,120,0.15)"
@@ -267,7 +284,7 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
                 <AnimatePresence>
                   {selectedIdx === idx && (
                     <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} exit={{ scale: 0 }}>
-                      {idx === currentRound.correctIndex ? (
+                      {idx === shuffledCorrectIndex ? (
                         <Check size={20} className="text-green-400" />
                       ) : (
                         <X size={20} className="text-red-400" />

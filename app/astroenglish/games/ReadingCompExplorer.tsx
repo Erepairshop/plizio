@@ -5,6 +5,15 @@ import { Check, X, BookOpen } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // LABELS with ALL 4 languages (en, hu, de, ro)
 const LABELS = {
   en: {
@@ -83,20 +92,27 @@ const ReadingCompExplorer = memo(function ReadingCompExplorer({
   const wrongCountRef = useRef(0);
 
   const currentRound = useMemo(() => rounds[currentIdx], [currentIdx, rounds]);
-  const isCorrect = useMemo(() => selectedIdx === currentRound.correctIndex, [selectedIdx, currentRound.correctIndex]);
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!currentRound) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = currentRound.options[currentRound.correctIndex];
+    const shuffled = shuffle(currentRound.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [currentRound]);
+  const isCorrect = useMemo(() => selectedIdx === shuffledCorrectIndex, [selectedIdx, shuffledCorrectIndex]);
 
   const handleSelectOption = useCallback(
     (idx: number) => {
       if (selectedIdx !== null) return;
       setSelectedIdx(idx);
-      const correct = idx === currentRound.correctIndex;
+      const correct = idx === shuffledCorrectIndex;
       setFeedback(correct ? "correct" : "incorrect");
       if (!correct) {
         wrongCountRef.current += 1;
         fireWrongAnswer({
           question: currentRound.question,
-          wrongAnswer: currentRound.options[idx],
-          correctAnswer: currentRound.options[currentRound.correctIndex],
+          wrongAnswer: shuffledOptions[idx],
+          correctAnswer: shuffledOptions[shuffledCorrectIndex],
           topic: "Reading Comprehension",
           lang: lang as string,
         });
@@ -177,10 +193,10 @@ const ReadingCompExplorer = memo(function ReadingCompExplorer({
 
         {/* Answer Options */}
         <div className="space-y-2 mb-6">
-          {currentRound.options.map((option, idx) => {
+          {shuffledOptions.map((option, idx) => {
             const isSelected = selectedIdx === idx;
             const isAnswered = selectedIdx !== null;
-            const isCorrectOption = idx === currentRound.correctIndex;
+            const isCorrectOption = idx === shuffledCorrectIndex;
             let bgColor = "bg-white/5";
             let borderColor = "border-white/10";
             let textColor = "text-white/80";

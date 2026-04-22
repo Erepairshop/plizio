@@ -409,7 +409,8 @@ export const luxembourgAllPoi = [
       ]
     },
     image: "/images/visualLab/luxembourg/schengen.jpg"
-  },
+  }
+];
 
 export const luxembourgCities = [
   {

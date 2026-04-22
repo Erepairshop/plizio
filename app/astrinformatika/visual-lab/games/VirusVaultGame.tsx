@@ -1,8 +1,17 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { TippSturmRound, Language } from "@/lib/visualLab/languageTypes";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const T: Record<Language, { flash: string; select: string; done: string; score: string; memorize: string; pick: string }> = {
   de: { flash: "MERKE!", select: "Was sahst du?", done: "Fertig!", score: "Punkte", memorize: "Merke dir diese Dateien!", pick: "Wähle die gemerkten:" },
@@ -51,10 +60,10 @@ export default function VirusVaultGame({
   const [finalScore, setFinalScore] = useState(0);
 
   const originals = round.words;
-  const [allItems] = useState(() => {
+  const allItems = useMemo(() => {
     const decoys = generateDecoys(originals);
-    return [...originals, ...decoys].sort(() => Math.random() - 0.5);
-  });
+    return shuffle([...originals, ...decoys]);
+  }, [round.id]);
 
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 

@@ -1,8 +1,17 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const T: Record<Language, { correct: string; wrong: string; lives: string; done: string; score: string }> = {
   de: { correct: "Richtig!", wrong: "Falsch!", lives: "Leben", done: "Geschafft!", score: "Punkte" },
@@ -34,7 +43,7 @@ export default function BinaryBitStreamGame({
   const t = T[lang] ?? T.de;
   const fallSecs = FALL_SECS[Math.min(grade, 8)] ?? 4;
 
-  const [queue] = useState(() => [...round.words].sort(() => Math.random() - 0.5));
+  const queue = useMemo(() => shuffle([...round.words]), [round.id]);
   const [idx, setIdx] = useState(0);
   const [lives, setLives] = useState(3);
   const [score, setScore] = useState(0);

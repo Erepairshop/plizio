@@ -1,11 +1,20 @@
 "use client";
 
-import { memo, useState, useCallback, useRef } from "react";
+import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, Lightbulb } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 interface GapRound {
   sentence: string;
@@ -91,8 +100,15 @@ const FillGapExplorer = memo(function FillGapExplorer({
   const wrongCountRef = useRef(0);
 
   const round = rounds[roundIdx];
-  const correctAnswer = round.options[round.correctIndex];
-  const isCorrect = selected !== null && selected === round.correctIndex;
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!round) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = round.options[round.correctIndex];
+    const shuffled = shuffle(round.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [round]);
+  const correctAnswer = shuffledOptions[shuffledCorrectIndex];
+  const isCorrect = selected !== null && selected === shuffledCorrectIndex;
 
   const handleSelect = useCallback(
     (optIdx: number) => {
@@ -100,7 +116,7 @@ const FillGapExplorer = memo(function FillGapExplorer({
       setSelected(optIdx);
       setConfirmed(true);
 
-      if (optIdx === round.correctIndex) {
+      if (optIdx === shuffledCorrectIndex) {
         setFlashIdx(optIdx);
         setTimeout(() => setFlashIdx(null), 800);
       } else {
@@ -108,7 +124,7 @@ const FillGapExplorer = memo(function FillGapExplorer({
         setWrongAttempts((prev) => prev + 1);
         fireWrongAnswer({
           question: round.sentence,
-          wrongAnswer: round.options[optIdx],
+          wrongAnswer: shuffledOptions[optIdx],
           correctAnswer: correctAnswer,
           topic: "Fill in the Gap",
           lang: lang as string,
@@ -117,7 +133,7 @@ const FillGapExplorer = memo(function FillGapExplorer({
         setTimeout(() => setFlashIdx(null), 800);
       }
     },
-    [confirmed, round.correctIndex]
+    [confirmed, shuffledCorrectIndex, round.sentence, correctAnswer, lang, shuffledOptions]
   );
 
   const handleNext = useCallback(() => {
@@ -255,9 +271,9 @@ const FillGapExplorer = memo(function FillGapExplorer({
       {/* Options */}
       {!showAnswer && (
         <div className="grid grid-cols-2 gap-2.5">
-          {round.options.map((opt, i) => {
+          {shuffledOptions.map((opt, i) => {
             const isThis = selected === i;
-            const isRight = i === round.correctIndex;
+            const isRight = i === shuffledCorrectIndex;
             const isFlashing = flashIdx === i;
             let bg = "rgba(255,255,255,0.06)";
             let border = "rgba(255,255,255,0.12)";

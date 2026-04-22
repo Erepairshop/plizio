@@ -5,6 +5,15 @@ import { Check, X, BookOpen } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // LABELS with ALL 4 languages (en, hu, de, ro)
 const LABELS = {
   en: {
@@ -82,7 +91,16 @@ const ReadingCompExplorer = memo(function ReadingCompExplorer({
 
   const wrongCountRef = useRef(0);
 
-  const currentRound = useMemo(() => rounds[currentIdx], [currentIdx, rounds]);
+  const currentRound = useMemo(() => {
+    const r = rounds[currentIdx];
+    const optionsWithOrig = r.options.map((opt, i) => ({ opt, orig: i }));
+    const shuffled = shuffle(optionsWithOrig);
+    return {
+      ...r,
+      options: shuffled.map(x => x.opt),
+      correctIndex: shuffled.findIndex(x => x.orig === r.correctIndex),
+    };
+  }, [currentIdx, rounds]);
   const isCorrect = useMemo(() => selectedIdx === currentRound.correctIndex, [selectedIdx, currentRound.correctIndex]);
 
   const handleSelectOption = useCallback(

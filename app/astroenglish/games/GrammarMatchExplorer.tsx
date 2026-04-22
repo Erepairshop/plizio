@@ -5,6 +5,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { CheckCircle2 } from "lucide-react";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export interface MatchRound {
   pairs: { rule: string; example: string; explanation?: string }[];
   instruction?: string;
@@ -113,7 +122,7 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
   // Shuffle examples for the current round
   const shuffledExamples = useMemo(() => {
     const exs = pairs.map((p, i) => ({ example: p.example, originalIdx: i }));
-    return exs.sort(() => Math.random() - 0.5);
+    return shuffle(exs);
   }, [roundIdx, pairs]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const totalPairs = pairs.length;

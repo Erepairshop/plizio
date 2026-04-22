@@ -2,11 +2,20 @@
 // VerbExplorerK4 — Island i7: Verben & Futur (K4)
 // Teaches: separable verbs (trennbare Verben), Futur I formation & conjugation
 
-import { memo, useState, useCallback, useRef } from "react";
+import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -429,6 +438,7 @@ function Round5({
 
   const item = VERB_TYPE_QUIZ[idx];
   const isCorrect = selected === item.type;
+  const shuffledOptions = useMemo(() => shuffle([...item.options]), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -490,7 +500,7 @@ function Round5({
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {item.options.map(opt => {
+        {shuffledOptions.map(opt => {
           const correctOpt = opt === item.type;
           const shouldShowCorrect = selected && correctOpt;
           const shouldShowWrong = selected && selected === opt && !correctOpt;

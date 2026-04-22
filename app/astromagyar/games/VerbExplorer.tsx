@@ -2,10 +2,19 @@
 // VerbExplorer — Island i2: Verben (K2)
 // Teaches: verb recognition, ich/du/er conjugation, Imperativ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -288,6 +297,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = FILL_INS[idx];
+  const shuffledOptions = useMemo(() => shuffle(item.options), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -325,7 +335,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt} onClick={() => handleSelect(opt)}
             className="w-full py-3.5 rounded-2xl font-black text-lg"
             style={{
@@ -408,6 +418,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = VERB_QUIZ[idx];
+  const shuffledOptions = useMemo(() => shuffle(item.options), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -436,7 +447,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt} onClick={() => handleSelect(opt)}
             className="w-full py-3.5 rounded-2xl font-black text-lg"
             style={{

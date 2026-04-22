@@ -1,9 +1,18 @@
 "use client";
-import { memo, useState, useCallback, useRef } from "react";
+import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -346,12 +355,19 @@ function Round3({
 
   const q = ODD_ONE_OUT[qi];
 
+  const { shuffledWords, correctIndex } = useMemo(() => {
+    const origOdd = q.words[q.odd];
+    const shuffled = shuffle([...q.words]);
+    const newOddIdx = shuffled.indexOf(origOdd);
+    return { shuffledWords: shuffled, correctIndex: newOddIdx };
+  }, [qi]);
+
   const handleSelect = (idx: number) => {
     if (revealed) return;
-    const isCorrect = idx === q.odd;
+    const isCorrect = idx === correctIndex;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: String(idx), correctAnswer: String(q.odd), topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(idx), correctAnswer: String(correctIndex), topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
@@ -379,12 +395,12 @@ function Round3({
       </div>
 
       <div className="flex flex-wrap gap-2 justify-center px-2">
-        {q.words.map((w, i) => {
+        {shuffledWords.map((w, i) => {
           let bg = "rgba(255,255,255,0.08)";
           let border = "rgba(255,255,255,0.15)";
           let textColor = "rgba(255,255,255,0.85)";
           if (revealed) {
-            if (i === q.odd) { bg = "#ef444433"; border = "#ef4444"; textColor = "#ef4444"; }
+            if (i === correctIndex) { bg = "#ef444433"; border = "#ef4444"; textColor = "#ef4444"; }
             else { bg = `${color}22`; border = color; textColor = "#fff"; }
           } else if (selected === i) {
             bg = `${color}33`; border = color;
@@ -397,8 +413,8 @@ function Round3({
               onClick={() => handleSelect(i)}
             >
               {w}
-              {revealed && i === q.odd && " ✗"}
-              {revealed && i !== q.odd && " ✓"}
+              {revealed && i === correctIndex && " ✗"}
+              {revealed && i !== correctIndex && " ✓"}
             </motion.button>
           );
         })}
@@ -454,12 +470,19 @@ function Round4({
 
   const q = BELONGS_TO[qi];
 
+  const { shuffledOptions, correctIndex } = useMemo(() => {
+    const origCorrect = q.options[q.correct];
+    const shuffled = shuffle([...q.options]);
+    const newCorrectIdx = shuffled.indexOf(origCorrect);
+    return { shuffledOptions: shuffled, correctIndex: newCorrectIdx };
+  }, [qi]);
+
   const handleSelect = (idx: number) => {
     if (revealed) return;
-    const isCorrect = idx === q.correct;
+    const isCorrect = idx === correctIndex;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: String(idx), correctAnswer: String(q.correct), topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(idx), correctAnswer: String(correctIndex), topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
@@ -483,11 +506,11 @@ function Round4({
       </div>
 
       <div className="flex flex-col gap-2 w-full px-4">
-        {q.options.map((w, i) => {
+        {shuffledOptions.map((w, i) => {
           let bg = "rgba(255,255,255,0.08)";
           let border = "rgba(255,255,255,0.15)";
           if (revealed) {
-            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; }
+            if (i === correctIndex) { bg = "#22c55e33"; border = "#22c55e"; }
             else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; }
           } else if (selected === i) {
             bg = `${color}33`; border = color;
@@ -500,8 +523,8 @@ function Round4({
               onClick={() => handleSelect(i)}
             >
               {w}
-              {revealed && i === q.correct && " ✓"}
-              {revealed && selected === i && i !== q.correct && " ✗"}
+              {revealed && i === correctIndex && " ✓"}
+              {revealed && selected === i && i !== correctIndex && " ✗"}
             </motion.button>
           );
         })}
@@ -557,12 +580,19 @@ function Round5({
 
   const q = QUIZ5[qi];
 
+  const { shuffledOptions, correctIndex } = useMemo(() => {
+    const origCorrect = q.options[q.correct];
+    const shuffled = shuffle([...q.options]);
+    const newCorrectIdx = shuffled.indexOf(origCorrect);
+    return { shuffledOptions: shuffled, correctIndex: newCorrectIdx };
+  }, [qi]);
+
   const handleSelect = (idx: number) => {
     if (revealed) return;
-    const isCorrect = idx === q.correct;
+    const isCorrect = idx === correctIndex;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question, wrongAnswer: String(idx), correctAnswer: String(q.correct), topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(idx), correctAnswer: String(correctIndex), topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
@@ -586,11 +616,11 @@ function Round5({
       </div>
 
       <div className="flex flex-col gap-2 w-full px-4">
-        {q.options.map((w, i) => {
+        {shuffledOptions.map((w, i) => {
           let bg = "rgba(255,255,255,0.08)";
           let border = "rgba(255,255,255,0.15)";
           if (revealed) {
-            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; }
+            if (i === correctIndex) { bg = "#22c55e33"; border = "#22c55e"; }
             else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; }
           } else if (selected === i) {
             bg = `${color}33`; border = color;
@@ -603,8 +633,8 @@ function Round5({
               onClick={() => handleSelect(i)}
             >
               {w}
-              {revealed && i === q.correct && " ✓"}
-              {revealed && selected === i && i !== q.correct && " ✗"}
+              {revealed && i === correctIndex && " ✓"}
+              {revealed && selected === i && i !== correctIndex && " ✗"}
             </motion.button>
           );
         })}

@@ -2,11 +2,20 @@
 // SpellingExplorer2 — Island i7: Rechtschreibung II (K2)
 // Teaches: double consonants (mm/nn/ll/ss), Dehnungs-h (ah/eh/oh/uh), word families
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -443,6 +452,7 @@ function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<strin
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = SPELLING2_QUIZ[idx];
+  const shuffledOptions = useMemo(() => shuffle(item.options), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -474,7 +484,7 @@ function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<strin
       </div>
       <span className="text-5xl">{item.emoji}</span>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt} onClick={() => handleSelect(opt)}
             className="w-full py-4 rounded-2xl font-black text-xl"
             style={{

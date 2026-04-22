@@ -6,6 +6,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // LABELS with ALL 4 languages (en, hu, de, ro)
 const LABELS = {
   en: {
@@ -87,6 +96,13 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
   const wrongCountRef = useRef(0);
 
   const currentRound = useMemo(() => rounds[currentIndex], [rounds, currentIndex]);
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!currentRound) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = currentRound.options[currentRound.correctIndex];
+    const shuffled = shuffle(currentRound.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [currentRound]);
   const totalRounds = rounds.length;
   const isLastRound = currentIndex === totalRounds - 1;
 
@@ -96,7 +112,7 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
 
       setSelectedIndex(index);
 
-      if (index === currentRound.correctIndex) {
+      if (index === shuffledCorrectIndex) {
         setFeedbackType("correct");
         setShowDiscovery(true);
       } else {
@@ -104,8 +120,8 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
         wrongCountRef.current += 1;
         fireWrongAnswer({
           question: `${t.question} "${currentRound.targetWord}"?`,
-          wrongAnswer: currentRound.options[index],
-          correctAnswer: currentRound.options[currentRound.correctIndex],
+          wrongAnswer: shuffledOptions[index],
+          correctAnswer: shuffledOptions[shuffledCorrectIndex],
           topic: "Rhyme Match",
           lang: lang as string,
         });
@@ -130,7 +146,7 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
     const base =
       "w-full py-3 px-4 rounded-2xl font-bold text-lg border-2 transition-all cursor-pointer";
     const isSelected = index === selectedIndex;
-    const isCorrect = index === currentRound.correctIndex;
+    const isCorrect = index === shuffledCorrectIndex;
 
     if (!isSelected) {
       return `${base} bg-white/5 border-white/20 text-white/80 hover:bg-white/10 hover:border-white/30`;
@@ -187,7 +203,7 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
 
         {/* Options */}
         <div className="space-y-3 mb-6">
-          {currentRound.options.map((option, idx) => (
+          {shuffledOptions.map((option, idx) => (
             <motion.button
               key={idx}
               className={optionButtonClasses(idx)}

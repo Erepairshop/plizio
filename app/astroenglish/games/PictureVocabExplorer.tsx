@@ -6,6 +6,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // LABELS with ALL 4 languages
 const LABELS = {
   en: {
@@ -94,7 +103,14 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
   const [finished, setFinished] = useState(false);
 
   const currentRound = rounds[currentIndex];
-  const isCorrectSelected = selectedIndex === currentRound.correctIndex;
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!currentRound) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = currentRound.options[currentRound.correctIndex];
+    const shuffled = shuffle(currentRound.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [currentRound]);
+  const isCorrectSelected = selectedIndex === shuffledCorrectIndex;
 
   // Handle option click
   const handleOptionClick = useCallback(
@@ -102,7 +118,7 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
       if (selectedIndex !== null) return; // Already selected
       setSelectedIndex(index);
 
-      if (index === currentRound.correctIndex) {
+      if (index === shuffledCorrectIndex) {
         setFeedback("correct");
         // Show discovery card for 2.5s
         setTimeout(() => {
@@ -116,14 +132,14 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
         wrongCountRef.current++;
         fireWrongAnswer({
           question: `${t.description}: ${currentRound.emoji}`,
-          wrongAnswer: currentRound.options[index],
-          correctAnswer: currentRound.options[currentRound.correctIndex],
+          wrongAnswer: shuffledOptions[index],
+          correctAnswer: shuffledOptions[shuffledCorrectIndex],
           topic: "Picture Vocabulary",
           lang: lang as string,
         });
       }
     },
-    [selectedIndex, currentRound.correctIndex]
+    [selectedIndex, shuffledCorrectIndex, t.description, currentRound.emoji, lang, shuffledOptions]
   );
 
   // Handle next
@@ -273,9 +289,9 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
 
                 {/* Options */}
                 <div className="grid grid-cols-2 gap-3 mb-8">
-                  {currentRound.options.map((option, idx) => {
+                  {shuffledOptions.map((option, idx) => {
                     const isSelected = selectedIndex === idx;
-                    const isCorrect = idx === currentRound.correctIndex;
+                    const isCorrect = idx === shuffledCorrectIndex;
                     let bgColor = "bg-white/5 hover:bg-white/10";
                     let borderColor = "border-white/10";
 

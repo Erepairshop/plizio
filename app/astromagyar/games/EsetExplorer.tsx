@@ -2,10 +2,19 @@
 // KasusExplorer — Island i1: Nominativ & Akkusativ (K4)
 // Teaches: the 4 cases overview, Nominativ (subject), Akkusativ (object), article declension
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -262,6 +271,7 @@ function Round3({ color, lbl, lang, onNext }: { color: string; lbl: Record<strin
 
   const item = AKK_QUIZ[idx];
   const isCorrect = selected === item.correct;
+  const shuffledOptions = useMemo(() => shuffle(item.options), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -305,7 +315,7 @@ function Round3({ color, lbl, lang, onNext }: { color: string; lbl: Record<strin
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 w-full">
-        {item.options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt}
             onClick={() => handleSelect(opt)}
             className="flex-1 py-3 rounded-xl font-black text-lg"
@@ -378,6 +388,7 @@ function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<strin
 
   const item = MIXED_QUIZ[idx];
   const isCorrect = selected === item.correct;
+  const shuffledOptions = useMemo(() => shuffle(item.options), [idx]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -422,7 +433,7 @@ function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<strin
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 w-full">
-        {item.options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt}
             onClick={() => handleSelect(opt)}
             className="flex-1 py-3 rounded-xl font-black text-lg"

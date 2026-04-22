@@ -6,6 +6,15 @@ import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 // Props interface
 interface TenseRound {
   sentence: string;
@@ -80,6 +89,14 @@ const TenseExplorer = memo(function TenseExplorer({
 
   const totalRounds = rounds.length;
   const currentRound = rounds[currentIndex];
+
+  const { shuffledOptions, shuffledCorrectIndex } = useMemo(() => {
+    if (!currentRound) return { shuffledOptions: [], shuffledCorrectIndex: 0 };
+    const originalCorrect = currentRound.options[currentRound.correctIndex];
+    const shuffled = shuffle(currentRound.options);
+    const newCorrectIndex = shuffled.indexOf(originalCorrect);
+    return { shuffledOptions: shuffled, shuffledCorrectIndex: newCorrectIndex };
+  }, [currentRound]);
   const isAnswered = feedbackType !== null;
 
   // Handle option selection
@@ -88,7 +105,7 @@ const TenseExplorer = memo(function TenseExplorer({
       if (isAnswered) return;
       setSelectedIndex(index);
 
-      if (index === currentRound.correctIndex) {
+      if (index === shuffledCorrectIndex) {
         setFeedbackType("correct");
         setShowDiscovery(true);
       } else {
@@ -96,14 +113,14 @@ const TenseExplorer = memo(function TenseExplorer({
         setFeedbackType("wrong");
         fireWrongAnswer({
           question: `${currentRound.tenseLabel}: ${currentRound.sentence}`,
-          wrongAnswer: currentRound.options[index],
-          correctAnswer: currentRound.options[currentRound.correctIndex],
+          wrongAnswer: shuffledOptions[index],
+          correctAnswer: shuffledOptions[shuffledCorrectIndex],
           topic: "Tense Explorer",
           lang: lang as string,
         });
       }
     },
-    [currentRound.correctIndex, isAnswered]
+    [currentRound.correctIndex, isAnswered, shuffledCorrectIndex, currentRound.tenseLabel, currentRound.sentence, shuffledOptions, lang]
   );
 
   // Move to next round
@@ -221,7 +238,7 @@ const TenseExplorer = memo(function TenseExplorer({
         {/* Options grid */}
         <div className="grid grid-cols-2 gap-3">
           <AnimatePresence mode="wait">
-            {currentRound.options.map((option, index) => (
+            {shuffledOptions.map((option, index) => (
               <motion.button
                 key={index}
                 onClick={() => handleSelectOption(index)}

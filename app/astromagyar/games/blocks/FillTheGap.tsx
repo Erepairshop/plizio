@@ -1,9 +1,18 @@
 "use client";
 // FillTheGap — fill-in-the-blank with choice buttons
 // Shows sentence with "___" placeholder, user taps an option to fill it
-import { memo, useState } from "react";
+import { memo, useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 interface FillTheGapProps {
   sentence: string;   // sentence with "___" placeholder
@@ -17,6 +26,7 @@ const FillTheGap = memo(function FillTheGap({ sentence, options, correct, color,
   const [selected, setSelected] = useState<string | null>(null);
 
   const parts = sentence.split("___");
+  const shuffledOptions = useMemo(() => shuffle(options), [sentence]);
 
   const handleSelect = (opt: string) => {
     if (selected) return;
@@ -62,7 +72,7 @@ const FillTheGap = memo(function FillTheGap({ sentence, options, correct, color,
       </div>
       {/* Option buttons */}
       <div className="flex gap-2 w-full flex-wrap justify-center">
-        {options.map(opt => (
+        {shuffledOptions.map(opt => (
           <motion.button key={opt}
             onClick={() => handleSelect(opt)}
             className="flex-1 min-w-16 py-3 rounded-xl font-black text-base"

@@ -97,10 +97,37 @@ const DEF: ExplorerDef = {
   ],
 };
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
 
 export default function ModernExplorer({ color, lang: langProp, onDone, onClose }: Props) {
   const { lang: contextLang } = useLang();
   const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+
+  const shuffledDef = React.useMemo(() => {
+    const newDef = { ...DEF, rounds: [...DEF.rounds] };
+    newDef.rounds = newDef.rounds.map(r => {
+      if (r.type === "mcq" && r.questions) {
+        return {
+          ...r,
+          questions: r.questions.map(q => ({
+            ...q,
+            choices: shuffle([...q.choices])
+          }))
+        };
+      }
+      return r;
+    });
+    return newDef;
+  }, []);
+
+  return <ExplorerEngine def={shuffledDef} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
 }
