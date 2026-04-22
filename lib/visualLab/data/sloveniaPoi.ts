@@ -12,35 +12,65 @@ export const sloveniaCountry: POI = {
     en: "Slovenia"
   },
   description: {
-    de: "Slowenien ist ein Land in Mitteleuropa, das für seine Berge, Skigebiete und Seen bekannt ist. Es ist eines der grünsten Länder der Welt und bietet eine unglaubliche Vielfalt auf kleinem Raum – von den Alpen bis zur Adria.",
-    hu: "Szlovénia egy közép-európai ország, amely hegyeiről, síközpontjairól és tavairól ismert. A világ egyik legzöldebb országa, amely kis területen hihetetlen változatosságot kínál – az Alpoktól az Adriai-tengerig.",
-    ro: "Slovenia este o țară din Europa Centrală, cunoscută pentru munții, stațiunile de schi și lacurile sale. Este una dintre cele mai verzi țări din lume și oferă o diversitate incredibilă pe un spațiu restrâns – de la Alpi până la Marea Adriatică.",
-    en: "Slovenia is a country in Central Europe, known for its mountains, ski resorts, and lakes. It is one of the greenest countries in the world and offers incredible diversity in a small space – from the Alps to the Adriatic Sea."
+    de: "Slowenien ist ein Juwel in Mitteleuropa, bekannt für seine majestätischen Alpen, smaragdgrünen Flüsse und als eines der grünsten und nachhaltigsten Länder der Welt.",
+    hu: "Szlovénia egy közép-európai ékszerdoboz, amely fenséges Alpokjáról, smaragdzöld folyóiról, valamint a világ egyik legzöldebb és legfenntarthatóbb országaként ismert.",
+    ro: "Slovenia este o bijuterie din Europa Centrală, cunoscută pentru Alpii săi maiestuoși, râurile de smarald și ca fiind una dintre cele mai verzi și sustenabile țări din lume.",
+    en: "Slovenia is a jewel in Central Europe, known for its majestic Alps, emerald-green rivers, and as one of the greenest and most sustainable countries in the world."
+  },
+  descriptionAdvanced: {
+    de: "Slowenien, offiziell die Republik Slowenien, ist ein faszinierendes Land an der Schnittstelle zwischen Mitteleuropa, dem Balkan und dem Mittelmeer. Trotz seiner geringen Größe bietet es eine unglaubliche landschaftliche Vielfalt: von den schneebedeckten Gipfeln der Julischen Alpen im Norden über die smaragdgrüne Soča bis hin zur kurzen, aber malerischen Adriaküste im Südwesten. Slowenien gilt als eines der grünsten Länder der Welt; über 60 % der Landesfläche sind von Wald bedeckt, und das Land ist ein Vorreiter in Sachen nachhaltiger Tourismus. Die Hauptstadt Ljubljana besticht durch ihre entspannte Atmosphäre, ihre barocke und Jugendstil-Architektur sowie ihre lebendige Kulturszene am Ufer der Ljubljanica. Ein weiteres Wahrzeichen ist der Bleder See mit seiner märchenhaften Insel und der Burg auf dem Felsen. Slowenien ist zudem berühmt für seine unterirdische Welt, insbesondere die Höhlen von Postojna und Škocjan, die zum UNESCO-Welterbe gehören. Kulturell ist das Land tief in seinen slawischen Wurzeln verankert, hat aber auch starke Einflüsse aus der österreichisch-ungarischen und italienischen Geschichte aufgenommen. Kulinarisch bietet Slowenien eine köstliche Mischung aus alpinen, mediterranen und pannonischen Einflüssen, wobei erstklassige Weine und Olivenöl aus der Region Primorska besonders geschätzt werden. Heute präsentiert sich Slowenien als moderne, wohlhabende Nation innerhalb der Europäischen Union, die stolz auf ihre unberührte Natur und ihre hohe Lebensqualität ist. Ob man in den Alpen wandert, in den Thermalbädern entspannt oder die charmanten Küstenstädte wie Piran erkundet – Slowenien empfängt seine Besucher mit einer Herzlichkeit und einer landschaftlichen Schönheit, die verzaubert.",
+    hu: "Szlovénia, hivatalos nevén a Szlovén Köztársaság, egy lenyűgöző ország Közép-Európa, a Balkán és a Földközi-tenger találkozásánál. Kis mérete ellenére hihetetlen táji változatosságot kínál: az északi Júliai-Alpok hófödte csúcsaitól kezdve a smaragdzöld Soča-folyón át egészen a rövid, de festői adriai partvidékig. Szlovénia a világ egyik legzöldebb országa; területének több mint 60%-át erdő borítja, és az ország úttörő szerepet tölt be a fenntartható turizmus területén. A főváros, Ljubljana, nyugodt légkörével, barokk és szecessziós építészetével, valamint a Ljubljanica-folyó partján zajló vibráló kulturális életével bűvöli el a látogatókat. Egy másik ikonikus jelkép a Bledi-tó a mesebeli szigetével és a sziklán álló várral. Szlovénia híres földalatti világáról is, különösen a Postojnai-cseppkőbarlangról és a Škocjan-barlangokról, amelyek az UNESCO Világörökség részét képezik. Kulturális szempontból az ország mélyen gyökerezik szláv múltjában, de erős hatásokat fogadott be az osztrák-magyar és az olasz történelemből is. Kulinárisan Szlovákia az alpesi, a mediterrán és a pannon hatások ízletes keverékét kínálja, ahol a Primorska régió kiváló borai és olívaolaja különösen nagyra értékelt. Ma Szlovénia az Európai Unió modern, jóléti állama, amely büszke érintetlen természetére és magas életminőségére. Akár az Alpokban túrázik valaki, akár a termálfürdőkben pihen, vagy a bájos tengerparti városokat, például Pirant fedezi fel – Szlovénia olyan szívélyességgel és természeti szépséggel fogadja látogatóit, amely mindenkit elvarázsol.",
+    ro: "Slovenia, oficial Republica Slovenia, este o țară fascinantă situată la intersecția dintre Europa Centrală, Balcani și Marea Mediterană. În ciuda dimensiunilor sale reduse, oferă o diversitate peisagistică incredibilă: de la vârfurile înzăpezite ale Alpilor Iulieni în nord, prin râul de smarald Soča, până la scurta dar pitoreasca coastă adriatică în sud-vest. Slovenia este considerată una dintre cele mai verzi țări din lume; peste 60% din suprafața țării este acoperită de păduri, iar țara este un pionier în turismul sustenabil. Capitala Ljubljana impresionează prin atmosfera sa relaxată, arhitectura barocă și Art Nouveau, precum și prin viața culturală vibrantă de pe malurile râului Ljubljanica. Un alt simbol iconic este Lacul Bled, cu insula sa de poveste și castelul de pe stâncă. Slovenia este, de asemenea, faimoasă pentru lumea sa subterană, în special peștera Postojna și peșterile Škocjan, incluse în Patrimoniul Mondial UNESCO. Din punct de vedere cultural, țara este profund ancorată în rădăcinile sale slave, dar a absorbit și influențe puternice din istoria austro-ungară și italiană. Din punct de vedere culinar, Slovenia oferă un amestec delicios de influențe alpine, mediteraneene și pannonice, vinurile de primă clasă și uleiul de măsline din regiunea Primorska fiind deosebit de apreciate. Astăzi, Slovenia se prezintă ca o națiune modernă și prosperă în cadrul Uniunii Europene, mândră de natura sa virgină și de calitatea ridicată a vieții. Fie că faceți drumeții în Alpi, vă relaxați în stațiunile termale sau explorați orașele fermecătoare de pe coastă, precum Piran – Slovenia își întâmpină vizitatorii cu o ospitalitate și o frumusețe peisagistică ce vrăjește.",
+    en: "Slovenia, officially the Republic of Slovenia, is a fascinating country at the crossroads of Central Europe, the Balkans, and the Mediterranean. Despite its small size, it offers incredible scenic diversity: from the snow-capped peaks of the Julian Alps in the north, through the emerald-green Soča River, to the short but picturesque Adriatic coast in the southwest. Slovenia is considered one of the greenest countries in the world; over 60% of its land area is covered by forest, and the country is a pioneer in sustainable tourism. The capital, Ljubljana, charms visitors with its relaxed atmosphere, its Baroque and Art Nouveau architecture, and its vibrant cultural life along the banks of the Ljubljanica River. Another iconic landmark is Lake Bled with its fairytale island and the castle on the cliff. Slovenia is also famous for its underground world, particularly the Postojna Cave and the Škocjan Caves, which are a UNESCO World Heritage site. Culturally, the country is deeply rooted in its Slavic heritage but has also absorbed strong influences from Austro-Hungarian and Italian history. Culinarily, Slovenia offers a delicious blend of Alpine, Mediterranean, and Pannonian influences, with first-class wines and olive oil from the Primorska region being particularly prized. Today, Slovenia presents itself as a modern, prosperous nation within the European Union, proud of its untouched nature and high quality of life. Whether hiking in the Alps, relaxing in thermal spas, or exploring charming coastal towns like Piran—Slovenia welcomes its visitors with a warmth and scenic beauty that enchants."
   },
   facts: {
     de: [
       "Mehr als die Hälfte der Landesfläche ist mit Wald bedeckt.",
       "Slowenien hat eine der größten Braunbärenpopulationen in Europa.",
       "Das Land hat nur eine einzige Insel – im Bleder See.",
-      "Slowenien ist das einzige Land, das das Wort 'LOVE' in seinem Namen trägt."
+      "Slowenien ist das einzige Land, das das Wort 'LOVE' in seinem Namen trägt.",
+      "Die Höhle von Postojna beherbergt den Grottenolm, ein seltenes Amphibium.",
+      "Slowenien hat über 10.000 registrierte Höhlen.",
+      "Der Triglav ist mit 2.864 Metern der höchste Berg und Nationalsymbol.",
+      "In Maribor wächst die älteste Weinrebe der Welt (über 400 Jahre alt).",
+      "Slowenien war das erste Land, das als Ganzes zum 'Grünen Reiseziel der Welt' erklärt wurde.",
+      "Die Lipizzaner-Pferde stammen ursprünglich aus dem slowenischen Dorf Lipica."
     ],
     hu: [
       "Az ország területének több mint felét erdő borítja.",
       "Szlovéniában található Európa egyik legnagyobb barna medve populációja.",
       "Az országnak csak egyetlen szigete van – a Bledi-tavon.",
-      "Szlovénia az egyetlen ország, amelynek nevében szerepel a 'LOVE' (szeretet) szó."
+      "Szlovénia az egyetlen ország, amelynek nevében szerepel a 'LOVE' (szeretet) szó.",
+      "A Postojnai-barlang ad otthont a barlangi vakgőtének, amely egy ritka kétéltű.",
+      "Szlovéniában több mint 10 000 regisztrált barlang található.",
+      "A Triglav 2864 méterével az ország legmagasabb hegye és nemzeti jelképe.",
+      "Mariborban található a világ legöregebb termő szőlőtőkéje (több mint 400 éves).",
+      "Szlovénia volt az első ország, amelyet egységesen a világ 'Zöld Úticéljának' nyilvánítottak.",
+      "A lipicai lovak eredetileg a szlovéniai Lipica faluból származnak."
     ],
     ro: [
       "Mai mult de jumătate din suprafața țării este acoperită de păduri.",
       "Slovenia are una dintre cele mai mari populații de urși bruni din Europa.",
       "Țara are o singură insulă – pe lacul Bled.",
-      "Slovenia este singura țară care are cuvântul 'LOVE' în numele său."
+      "Slovenia este singura țară care are cuvântul 'LOVE' în numele său.",
+      "Peștera Postojna găzduiește proteul (olmul), un amfibian rar.",
+      "Slovenia are peste 10.000 de peșteri înregistrate.",
+      "Triglav este cel mai înalt munte (2.864 m) și simbolul național.",
+      "În Maribor crește cea mai bătrână viță de vie din lume (peste 400 de ani).",
+      "Slovenia a fost prima țară declarată în întregime „Destinație Verde a Lumii”.",
+      "Caii lipițani provin inițial din satul sloven Lipica."
     ],
     en: [
       "More than half of the country's area is covered by forest.",
       "Slovenia has one of the largest brown bear populations in Europe.",
       "The country has only one island – in Lake Bled.",
-      "Slovenia is the only country with the word 'LOVE' in its name."
+      "Slovenia is the only country with the word 'LOVE' in its name.",
+      "Postojna Cave is home to the olm, a rare aquatic salamander.",
+      "Slovenia has over 10,000 registered caves.",
+      "Mount Triglav is the highest peak (2,864 m) and a national symbol.",
+      "The world's oldest productive grapevine (over 400 years old) grows in Maribor.",
+      "Slovenia was the first country to be declared a 'Green Destination of the World' as a whole.",
+      "Lipizzaner horses originate from the Slovenian village of Lipica."
     ]
   },
   image: "/geo-images/slovenia/country-slovenia.webp"
@@ -59,6 +89,12 @@ export const sloveniaRegions: POI[] = [
       en: "Ljubljana"
     },
     description: {
+      de: "Ljubljana ist die Hauptstadt Sloweniens, eine grüne und entspannte Stadt, bekannt für ihre malerische Altstadt, die Drachenbrücke und die Burg über dem Fluss.",
+      hu: "Ljubljana Szlovénia fővárosa, egy zöld és nyugodt város, amely festői óvárosáról, a Sárkány-hídról és a folyó feletti várról ismert.",
+      ro: "Ljubljana este capitala Sloveniei, un oraș verde și relaxat, cunoscut pentru orașul său vechi pitoresc, Podul Dragonului și castelul de deasupra râului.",
+      en: "Ljubljana is the capital of Slovenia, a green and relaxed city known for its picturesque old town, the Dragon Bridge, and the castle above the river."
+    },
+    descriptionAdvanced: {
       de: "Ljubljana, die Hauptstadt Sloweniens, ist eine grüne Stadt mit einer entspannten Atmosphäre. Sie ist bekannt für ihre malerische Altstadt, die Drachenbrücke und die Burg, die über der Stadt thront.",
       hu: "Ljubljana, Szlovénia fővárosa egy zöld város, nyugodt légkörrel. Híres festői óvárosáról, a Sárkány-hídról és a város fölé magasodó várról.",
       ro: "Ljubljana, capitala Sloveniei, este un oraș verde cu o atmosferă relaxată. Este cunoscut pentru orașul său vechi pitoresc, Podul Dragonului și castelul care domină orașul.",

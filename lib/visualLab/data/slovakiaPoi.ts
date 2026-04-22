@@ -12,35 +12,65 @@ export const slovakiaCountry: POI = {
     en: "Slovakia"
   },
   description: {
-    de: "Die Slowakei ist ein Binnenstaat in Mitteleuropa, bekannt für seine dramatischen Berglandschaften und zahlreichen Burgen. Das Land bietet eine reiche Mischung aus Volkskultur, historischen Städten und unberührter Natur in den Karpaten.",
-    hu: "Szlovákia egy közép-európai ország, amely drámai hegyi tájairól és számos váráról ismert. Az ország a népi kultúra, a történelmi városok és a Kárpátok érintetlen természetének gazdag keverékét kínálja.",
-    ro: "Slovacia este o țară fără ieșire la mare din Europa Centrală, cunoscută pentru peisajele sale montane dramatice și numeroasele castele. Țara oferă un amestec bogat de cultură populară, orașe istorice și natură virgină în Carpați.",
-    en: "Slovakia is a landlocked country in Central Europe, known for its dramatic mountain landscapes and numerous castles. The country offers a rich mix of folk culture, historic towns, and untouched nature in the Carpathian Mountains."
+    de: "Die Slowakei ist ein Binnenstaat in Mitteleuropa, bekannt für seine dramatischen Berglandschaften der Hohen Tatra, zahlreiche mittelalterliche Burgen und reiche Volkskultur.",
+    hu: "Szlovákia egy közép-európai ország, amely a Magas-Tátra drámai hegyi tájairól, számos középkori váráról és gazdag népi kultúrájáról ismert.",
+    ro: "Slovacia este o țară din Europa Centrală, cunoscută pentru peisajele montane dramatice ale Munților Tatra Înaltă, numeroasele castele medievale și cultura populară bogată.",
+    en: "Slovakia is a Central European country known for its dramatic mountain landscapes of the High Tatras, numerous medieval castles, and rich folk culture."
+  },
+  descriptionAdvanced: {
+    de: "Die Slowakei, offiziell die Slowakische Republik, ist ein faszinierendes Land im Herzen Mitteleuropas, das für seine atemberaubende natürliche Schönheit, seine reiche Geschichte und seine beeindruckende Dichte an Burgen bekannt ist. Das Land grenzt an Tschechien, Polen, die Ukraine, Ungarn und Österreich. Die Geografie der Slowakei wird maßgeblich von den Karpaten geprägt, wobei die Hohe Tatra im Norden mit ihren schroffen Gipfeln und kristallklaren Bergseen ein Paradies für Wanderer und Wintersportler darstellt. Die Slowakei beherbergt über 100 Burgen und Schlösser, darunter die monumentale Zipser Burg (Spišský hrad), eine der größten Burganlagen Mitteleuropas und UNESCO-Welterbe. Die Hauptstadt Bratislava, malerisch an der Donau gelegen, besticht durch ihre charmante Altstadt und ihre strategische Lage im Dreiländereck. Kulturell ist das Land tief in seinen slawischen Wurzeln und einer lebendigen Folklore verankert, die sich in traditioneller Musik, Tanz und dem charakteristischen Holzhandwerk widerspiegelt. Kulinarisch bietet die Slowakei herzhafte Genüsse wie Bryndzové halušky (Kartoffelklöße mit Schafskäse). Heute präsentiert sich die Slowakei als moderne, dynamische Nation mit einer starken Automobilindustrie und einer wachsenden Wirtschaft innerhalb der Europäischen Union. Ob man die mystischen Höhlen des Slowakischen Karsts erkundet, in den historischen Kurorten wie Piešťany entspannt oder die unberührte Natur der Nationalparks genießt – die Slowakei empfängt ihre Besucher mit einer Mischung aus wilder Romantik und herzlicher Gastfreundschaft.",
+    hu: "Szlovákia, hivatalos nevén a Szlovák Köztársaság, egy lenyűgöző ország Közép-Európa szívében, amely lélegzetelállító természeti szépségéről, gazdag történelméről és a várak rendkívüli sűrűségéről ismert. Az ország Csehországgal, Lengyelországgal, Ukrajnával, Magyarországgal és Ausztriával határos. Szlovákia földrajzát meghatározzák a Kárpátok, északon a Magas-Tátra sziklás csúcsaival és kristálytiszta tengerszemeivel a túrázók és a téli sportok kedvelőinek paradicsoma. Szlovákiában több mint 100 vár és kastély található, köztük a monumentális Szepesi vár (Spišský hrad), amely Közép-Európa egyik legnagyobb váregyüttese és az UNESCO Világörökség része. A főváros, Pozsony, a Duna partján fekszik, és bájos óvárosával, valamint a hármashatárnál elfoglalt stratégiai helyzetével bűvöli el a látogatókat. Kulturális szempontból az ország mélyen gyökerezik szláv múltjában és vibráló folklórjában, amely a hagyományos zenében, táncban és a jellegzetes fafaragó művészetben mutatkozik meg. Kulinárisan Szlovákia olyan kiadós ételeket kínál, mint a sztrapacska (Bryndzové halušky). Ma Szlovákia modern, dinamikus nemzet, erős autóiparral és növekvő gazdasággal az Európai Unión belül. Akár a Szlovák-karszt misztikus barlangjait fedezi fel valaki, akár a történelmi fürdővárosokban, például Pöstyénben pihen, vagy a nemzeti parkok érintetlen természetét élvezi – Szlovákia a vadregényes romantika és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+    ro: "Slovacia, oficial Republica Slovacă, este o țară fascinantă situată în inima Europei Centrale, cunoscută pentru frumusețea sa naturală uluitoare, istoria sa bogată și densitatea impresionantă de castele. Țara se învecinează cu Cehia, Polonia, Ucraina, Ungaria și Austria. Geografia Slovaciei este dominată de Munții Carpați, Munții Tatra Înaltă din nord, cu vârfurile lor abrupte și lacurile glaciare cristaline, fiind un paradis pentru drumeți și pasionații de sporturi de iarnă. Slovacia găzduiește peste 100 de castele și cetăți, inclusiv monumentala Cetate Spiš (Spišský hrad), unul dintre cele mai mari ansambluri de fortificații din Europa Centrală și sit al Patrimoniului Mondial UNESCO. Capitala Bratislava, situată pitoresc pe Dunăre, impresionează prin orașul său vechi fermecător și locația sa strategică la granița a trei țări. Din punct de vedere cultural, țara este profund ancorată în rădăcinile sale slave și într-un folclor vibrant, reflectat în muzica tradițională, dans și meșteșugurile caracteristice în lemn. Din punct de vedere culinar, Slovacia oferă delicii consistente, cum ar fi Bryndzové halušky (găluște de cartofi cu brânză de oaie). Astăzi, Slovacia se prezintă ca o națiune modernă și dinamică, cu o industrie auto puternică și o economie în creștere în cadrul Uniunii Europene. Fie că explorați peșterile mistice din Carstul Slovac, vă relaxați în stațiuni balneare istorice precum Piešťany sau vă bucurați de natura neatinsă a parcurilor naționale – Slovacia își întâmpină vizitatorii cu un amestec de romantism sălbatic și ospitalitate caldă.",
+    en: "Slovakia, officially the Slovak Republic, is a fascinating country in the heart of Central Europe, known for its breathtaking natural beauty, rich history, and impressive density of castles. The country borders the Czech Republic, Poland, Ukraine, Hungary, and Austria. Slovakia's geography is significantly shaped by the Carpathian Mountains, with the High Tatras in the north, featuring rugged peaks and crystal-clear mountain lakes, serving as a paradise for hikers and winter sports enthusiasts. Slovakia is home to over 100 castles and chateaux, including the monumental Spiš Castle (Spišský hrad), one of the largest castle complexes in Central Europe and a UNESCO World Heritage site. The capital, Bratislava, scenerically located on the Danube, charms visitors with its delightful old town and strategic position at the border of three countries. Culturally, the country is deeply rooted in its Slavic heritage and a vibrant folklore, reflected in traditional music, dance, and characteristic woodcraft. Culinarily, Slovakia offers hearty delights such as Bryndzové halušky (potato dumplings with sheep cheese). Today, Slovakia presents itself as a modern, dynamic nation with a strong automotive industry and a growing economy within the European Union. Whether exploring the mystical caves of the Slovak Karst, relaxing in historic spa towns like Piešťany, or enjoying the untouched nature of the national parks—Slovakia welcomes its visitors with a blend of wild romance and warm hospitality."
   },
   facts: {
     de: [
       "Die Slowakei hat die höchste Dichte an Burgen und Schlössern pro Kopf weltweit.",
       "Mehr als 6.000 Höhlen wurden in der Slowakei entdeckt.",
       "Der geografische Mittelpunkt Europas soll in der Nähe des Dorfes Kremnické Bane liegen.",
-      "Das Land hat neun Nationalparks und 14 geschützte Landschaftsgebiete."
+      "Das Land hat neun Nationalparks und 14 geschützte Landschaftsgebiete.",
+      "Die Slowakei ist der weltweit größte Pro-Kopf-Produzent von Automobilen.",
+      "Die Zipser Burg ist eine der größten Burganlagen in Mitteleuropa.",
+      "Die slowakische Sprache wird oft als das 'Esperanto der slawischen Sprachen' bezeichnet.",
+      "Der Nationalpark Hohe Tatra ist das älteste Schutzgebiet des Landes.",
+      "Die Slowakei besitzt die weltweit höchste Anzahl an Holzkirchen pro Quadratkilometer.",
+      "Das Dorf Čičmany ist berühmt für seine traditionellen Häuser mit weißen Ornamenten."
     ],
     hu: [
       "Szlovákiában a legmagasabb az egy főre jutó várak és kastélyok száma a világon.",
       "Szlovákiában több mint 6000 barlangot fedeztek fel.",
       "Európa földrajzi középpontja állítólag Jánosrét (Kremnické Bane) falu közelében található.",
-      "Az országnak kilenc nemzeti parkja és 14 tájvédelmi körzete van."
+      "Az országnak kilenc nemzeti parkja és 14 tájvédelmi körzete van.",
+      "Szlovákia a világ legnagyobb egy főre jutó autógyártója.",
+      "A Szepesi vár Közép-Európa egyik legnagyobb váregyüttese.",
+      "A szlovák nyelvet gyakran a „szláv nyelvek eszperantójának” nevezik.",
+      "A Magas-Tátra Nemzeti Park az ország legrégebbi védett területe.",
+      "Szlovákiában található a világon a legtöbb fatemplom egy négyzetkilométerre vetítve.",
+      "Csicsmány (Čičmany) falu híres fehér díszítésű hagyományos házairól."
     ],
     ro: [
       "Slovacia are cea mai mare densitate de castele și palate pe cap de locuitor din lume.",
       "Peste 6.000 de peșteri au fost descoperite în Slovacia.",
       "Centrul geografic al Europei s-ar afla lângă satul Kremnické Bane.",
-      "Țara are nouă parcuri naționale și 14 zone peisajere protejate."
+      "Țara are nouă parcuri naționale și 14 zone peisajere protejate.",
+      "Slovacia este cel mai mare producător de automobile pe cap de locuitor din lume.",
+      "Cetatea Spiš este unul dintre cele mai mari ansambluri de castele din Europa Centrală.",
+      "Limba slovacă este adesea numită „esperanto a limbilor slave”.",
+      "Parcul Național Tatra Înaltă este cea mai veche zonă protejată din țară.",
+      "Slovacia deține cel mai mare număr de biserici de lemn pe kilometru pătrat din lume.",
+      "Satul Čičmany este faimos pentru casele sale tradiționale cu ornamente albe."
     ],
     en: [
       "Slovakia has the highest density of castles and chateaux per capita in the world.",
       "More than 6,000 caves have been discovered in Slovakia.",
       "The geographical center of Europe is said to be located near the village of Kremnické Bane.",
-      "The country has nine national parks and 14 protected landscape areas."
+      "The country has nine national parks and 14 protected landscape areas.",
+      "Slovakia is the world's largest producer of automobiles per capita.",
+      "Spiš Castle is one of the largest castle complexes in Central Europe.",
+      "The Slovak language is often called the 'Esperanto of Slavic languages'.",
+      "The High Tatras National Park is the oldest protected area in the country.",
+      "Slovakia has the world's highest number of wooden churches per square kilometer.",
+      "The village of Čičmany is famous for its traditional houses with white ornaments."
     ]
   },
   image: "/geo-images/slovakia/country-slovakia.webp"
@@ -59,6 +89,12 @@ export const slovakiaRegions: POI[] = [
       en: "Bratislava"
     },
     description: {
+      de: "Bratislava ist die Hauptstadt der Slowakei, eine charmante Stadt an der Donau, bekannt für ihre restaurierte Altstadt, die markante Burg und ihre Lage im Dreiländereck.",
+      hu: "Pozsony Szlovákia fővárosa, egy bájos város a Duna partján, amely felújított óvárosáról, jellegzetes váráról és a hármashatárnál fekvő elhelyezkedéséről ismert.",
+      ro: "Bratislava este capitala Slovaciei, un oraș fermecător pe Dunăre, cunoscut pentru orașul său vechi restaurat, castelul distinctiv și locația sa la granița a trei țări.",
+      en: "Bratislava is the capital of Slovakia, a charming city on the Danube, known for its restored old town, the distinctive castle, and its location at the border of three countries."
+    },
+    descriptionAdvanced: {
       de: "Bratislava, die Hauptstadt der Slowakei, liegt an der Donau nahe der Grenze zu Österreich und Ungarn. Die Stadt ist bekannt für ihre restaurierte Altstadt und die markante Burg auf einem Hügel über dem Fluss.",
       hu: "Pozsony, Szlovákia fővárosa a Duna partján fekszik, az osztrák és a magyar határ közelében. A város felújított óvárosáról és a folyó feletti dombon álló jellegzetes váráról ismert.",
       ro: "Bratislava, capitala Slovaciei, este situată pe Dunăre, lângă granița cu Austria și Ungaria. Orașul este cunoscut pentru orașul său vechi restaurat și castelul distinctiv de pe un deal deasupra fluviului.",

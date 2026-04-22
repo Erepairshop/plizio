@@ -8,8 +8,68 @@ export const spainCountry: POI[] = [
     coords: [-3.7, 40.4],
     name: {"de": "Spanien", "hu": "Spanyolország", "ro": "Spania", "en": "Spain"},
     image: "/geo-images/spain/spain.webp",
-    description: {"de": "Land in Südwesteuropa auf der Iberischen Halbinsel, bekannt für seine Kultur, Strände und Geschichte.", "hu": "Délnyugat-európai ország az Ibériai-félszigeten, amely kultúrájáról, strandjairól és történelméről ismert.", "ro": "Țară din sud-vestul Europei, în Peninsula Iberică, cunoscută pentru cultură, plaje și istorie.", "en": "Country in southwestern Europe on the Iberian Peninsula, known for its culture, beaches, and history."},
-    facts: {"de": ["Hauptstadt: Madrid.", "Einwohner: ca. 48 Millionen.", "Währung: Euro."], "hu": ["Főváros: Madrid.", "Népesség: kb. 48 millió.", "Pénznem: Euró."], "ro": ["Capitala: Madrid.", "Populație: aprox. 48 milioane.", "Monedă: Euro."], "en": ["Capital: Madrid.", "Population: approx. 48 million.", "Currency: Euro."]}
+    description: {
+      de: "Spanien ist ein Land auf der Iberischen Halbinsel, bekannt für seine vielfältige Kultur, sonnige Strände, leidenschaftlichen Flamenco und eine reiche imperiale Geschichte.",
+      hu: "Spanyolország az Ibériai-félszigeten fekvő ország, amely változatos kultúrájáról, napsütötte strandjairól, szenvedélyes flamencójáról és gazdag császári történelméről ismert.",
+      ro: "Spania este o țară din Peninsula Iberică, cunoscută pentru cultura sa diversă, plajele însorite, flamenco-ul pasional și o bogată istorie imperială.",
+      en: "Spain is a country on the Iberian Peninsula, known for its diverse culture, sunny beaches, passionate flamenco, and a rich imperial history."
+    },
+    descriptionAdvanced: {
+      de: "Spanien, offiziell das Königreich Spanien, ist ein faszinierendes Land im Südwesten Europas, das den größten Teil der Iberischen Halbinsel einnimmt. Es grenzt im Norden an Frankreich und Andorra, im Westen an Portugal und ist ansonsten vom Atlantik und dem Mittelmeer umgeben. Spanien ist weltberühmt für seine außergewöhnliche kulturelle Vielfalt, die sich in den verschiedenen autonomen Gemeinschaften wie Katalonien, dem Baskenland und Andalusien widerspiegelt. Die Hauptstadt Madrid ist ein pulsierendes Zentrum für Kunst und Politik, beherbergt erstklassige Museen wie den Prado und beeindruckt durch ihre monumentale Architektur. Barcelona hingegen besticht durch den einzigartigen Modernismus von Antoni Gaudí und seine lebendige Atmosphäre am Meer. Die spanische Geschichte ist geprägt von der römischen Antike, der maurischen Herrschaft im Mittelalter und dem Zeitalter der Entdeckungen, als Spanien zu einer globalen Weltmacht aufstieg. Kulturell hat das Land Giganten wie Cervantes, Velázquez, Goya und Picasso hervorgebracht. Kulinarisch ist Spanien eine Weltmacht; Tapas, Paella und erstklassige Weine aus Regionen wie La Rioja sind globale Botschafter der spanischen Lebensart. Die spanische Lebensfreude drückt sich in leidenschaftlichen Festen, dem Flamenco und einer ausgeprägten sozialen Kultur aus. Heute ist Spanien ein modernes EU-Mitglied mit einer starken Tourismusindustrie und einer wachsenden Wirtschaft in den Bereichen erneuerbare Energien und Technologie. Ob man durch die weißen Dörfer Andalusiens wandert, die majestätischen Gipfel der Pyrenäen erkundet oder die Sonne an den Stränden der Balearen und Kanaren genießt – Spanien empfängt seine Besucher mit einer Wärme und einer landschaftlichen Schönheit, die unvergesslich bleiben.",
+      hu: "Spanyolország, hivatalos nevén a Spanyol Királyság, egy lenyűgöző ország Délnyugat-Európában, amely az Ibériai-félsziget legnagyobb részét elfoglalja. Északon Franciaországgal és Andorrával, nyugaton Portugáliával határos, egyébként pedig az Atlanti-óceán és a Földközi-tenger veszi körül. Spanyolország világhírű rendkívüli kulturális sokszínűségéről, amely az olyan autonóm közösségekben tükröződik, mint Katalónia, Baszkföld vagy Andalúzia. A főváros, Madrid, a művészet és a politika lüktető központja, olyan világszínvonalú múzeumoknak ad otthont, mint a Prado, és monumentális építészetével nyűgözi le a látogatókat. Barcelona ezzel szemben Antoni Gaudí egyedülálló modernizmusával és vibráló tengerparti hangulatával bűvöli el az utazókat. A spanyol történelmet a római antikvitás, a középkori mór uralom és a felfedezések kora határozta meg, amikor Spanyolország globális világhatalommá vált. Kulturális szempontból az ország olyan óriásokat adott a világnak, mint Cervantes, Velázquez, Goya és Picasso. Kulinárisan Spanyolország világhatalom; a tapas, a paella és az olyan kiváló borok, mint a La Rioja-iak, a spanyol életmód globális nagykövetei. A spanyol életöröm a szenvedélyes ünnepekben, a flamencóban és az erős közösségi kultúrában nyilvánul meg. Ma Spanyolország az Európai Unió modern tagállama, erős turisztikai iparral, valamint növekvő gazdasággal a megújuló energia és a technológia területén. Akár Andalúzia fehér falvai között sétál valaki, akár a Pireneusok fenséges csúcsait fedezi fel, vagy a Baleár- és Kanári-szigetek strandjain élvezi a napsütést – Spanyolország olyan melegséggel és természeti szépséggel fogadja látogatóit, amely felejthetetlen marad.",
+      ro: "Spania, oficial Regatul Spaniei, este o țară fascinantă din sud-vestul Europei, care ocupă cea mai mare parte a Peninsulei Iberice. Se învecinează la nord cu Franța și Andorra, la vest cu Portugalia și este înconjurată în rest de Oceanul Atlantic și Marea Mediterană. Spania este renumită în întreaga lume pentru diversitatea sa culturală extraordinară, reflectată în diferitele comunități autonome precum Catalonia, Țara Bascilor și Andaluzia. Capitala Madrid este un centru vibrant pentru artă și politică, găzduind muzee de clasă mondială precum Prado și impresionând prin arhitectura sa monumentală. Barcelona, pe de altă parte, farmecă prin modernismul unic al lui Antoni Gaudí și atmosfera sa vibrantă de la malul mării. Istoria Spaniei este marcată de antichitatea romană, stăpânirea maură din Evul Mediu și Epoca Descoperirilor, când Spania a devenit o putere mondială globală. Din punct de vedere cultural, țara a dat naștere unor giganți precum Cervantes, Velázquez, Goya și Picasso. Din punct de vedere culinar, Spania este o putere mondială; tapas, paella și vinurile de primă clasă din regiuni precum La Rioja sunt ambasadori globali ai stilului de viață spaniol. Bucuria de a trăi a spaniolilor se exprimă prin festivaluri pasionale, flamenco și o cultură socială pronunțată. Astăzi, Spania este un membru modern al UE, cu o industrie turistică puternică și o economie în creștere în domeniile energiei regenerabile și tehnologiei. Fie că vă plimbați prin satele albe din Andaluzia, explorați vârfurile maiestuoase ale Pirineilor sau vă bucurați de soare pe plajele din Insulele Baleare și Canare – Spania își întâmpină vizitatorii cu o căldură și o frumusețe peisagistică de neuitat.",
+      en: "Spain, officially the Kingdom of Spain, is a fascinating country in southwestern Europe, occupying most of the Iberian Peninsula. It borders France and Andorra to the north, Portugal to the west, and is otherwise surrounded by the Atlantic Ocean and the Mediterranean Sea. Spain is world-renowned for its extraordinary cultural diversity, reflected in its various autonomous communities such as Catalonia, the Basque Country, and Andalusia. The capital, Madrid, is a vibrant hub for art and politics, home to world-class museums like the Prado and impressive for its monumental architecture. Barcelona, meanwhile, charms with the unique modernism of Antoni Gaudí and its vibrant seaside atmosphere. Spanish history is shaped by Roman antiquity, Moorish rule in the Middle Ages, and the Age of Discovery, when Spain rose to become a global superpower. Culturally, the country has produced giants such as Cervantes, Velázquez, Goya, and Picasso. Culinarily, Spain is a world power; tapas, paella, and first-class wines from regions like La Rioja are global ambassadors of the Spanish way of life. The Spanish zest for life is expressed in passionate festivals, flamenco, and a strong social culture. Today, Spain is a modern EU member with a strong tourism industry and a growing economy in the fields of renewable energy and technology. Whether strolling through the white villages of Andalusia, exploring the majestic peaks of the Pyrenees, or enjoying the sun on the beaches of the Balearic and Canary Islands—Spain welcomes its visitors with a warmth and scenic beauty that remain unforgettable."
+    },
+    facts: {
+      de: [
+        "Hauptstadt: Madrid",
+        "Währung: Euro",
+        "Bevölkerung: ca. 48 Millionen",
+        "UNESCO: Spanien hat eine der höchsten Anzahlen an Welterbestätten weltweit.",
+        "Sprache: Spanisch (Kastilisch) ist die zweithäufigste Muttersprache der Welt.",
+        "Kultur: Der Flamenco ist ein von der UNESCO anerkanntes immaterielles Kulturerbe.",
+        "Geografie: Spanien ist das einzige Land in Europa, das eine Landgrenze zu einem afrikanischen Land (Marokko) hat.",
+        "Kulinarik: Spanien ist der weltweit größte Produzent von Olivenöl.",
+        "Geschichte: Das erste moderne Buch, 'Don Quijote', wurde vom Spanier Miguel de Cervantes geschrieben.",
+        "Natur: Die Kanarischen Inseln beherbergen den Teide, den höchsten Berg Spaniens und einen der höchsten Vulkane der Welt."
+      ],
+      hu: [
+        "Főváros: Madrid",
+        "Pénznem: Euró",
+        "Népesség: kb. 48 millió",
+        "UNESCO: Spanyolország a világon az egyik legtöbb világörökségi helyszínnel rendelkező ország.",
+        "Nyelv: A spanyol (kasztíliai) a világ második leggyakoribb anyanyelve.",
+        "Kultúra: A flamenco az UNESCO által elismert szellemi kulturális örökség.",
+        "Földrajz: Spanyolország az egyetlen európai ország, amelynek szárazföldi határa van afrikai országgal (Marokkó).",
+        "Gasztronómia: Spanyolország a világ legnagyobb olívaolaj-termelője.",
+        "Történelem: Az első modern regényt, a 'Don Quijote'-t a spanyol Miguel de Cervantes írta.",
+        "Természet: A Kanári-szigeteken található a Teide, Spanyolország legmagasabb hegye és a világ egyik legmagasabb vulkánja."
+      ],
+      ro: [
+        "Capitala: Madrid",
+        "Moneda: Euro",
+        "Populație: aprox. 48 milioane",
+        "UNESCO: Spania are unul dintre cele mai mari numere de situri din Patrimoniul Mondial la nivel global.",
+        "Limbă: Spaniola (castiliana) este a doua cea mai vorbită limbă maternă din lume.",
+        "Cultură: Flamenco este un patrimoniu cultural imaterial recunoscut de UNESCO.",
+        "Geografie: Spania este singura țară din Europa care are o frontieră terestră cu o țară africană (Maroc).",
+        "Gastronomie: Spania este cel mai mare producător de ulei de măsline din lume.",
+        "Istorie: Prima carte modernă, „Don Quijote”, a fost scrisă de spaniolul Miguel de Cervantes.",
+        "Natură: Insulele Canare găzduiesc Teide, cel mai înalt munte din Spania și unul dintre cei mai înalți vulcani din lume."
+      ],
+      en: [
+        "Capital: Madrid",
+        "Currency: Euro",
+        "Population: approx. 48 million",
+        "UNESCO: Spain has one of the highest numbers of World Heritage Sites in the world.",
+        "Language: Spanish (Castilian) is the second most spoken native language in the world.",
+        "Culture: Flamenco is a UNESCO-recognized intangible cultural heritage.",
+        "Geography: Spain is the only country in Europe to have a land border with an African country (Morocco).",
+        "Cuisine: Spain is the world's largest producer of olive oil.",
+        "History: The first modern novel, 'Don Quixote', was written by the Spaniard Miguel de Cervantes.",
+        "Nature: The Canary Islands are home to Mount Teide, the highest peak in Spain and one of the highest volcanoes in the world."
+      ]
+    }
   }
 ];
 
@@ -173,9 +233,13 @@ export const spainCities: POI[] = [
   {
     id: "es-madrid", type: "city", parent: "ES-MD", coords: [-3.7038, 40.4168],
     name: {"de": "Madrid", "hu": "Madrid", "ro": "Madrid", "en": "Madrid"},
-    
     description: {
-          "de": "Madrid ist die pulsierende Hauptstadt Spaniens und liegt im Herzen der Iberischen Halbinsel. Die Stadt ist weltberühmt für ihre reiche Kunstgeschichte, insbesondere für den Paseo del Arte mit seinen erstklassigen Museen. Madrid bietet eine perfekte Mischung aus historischer Architektur, wie dem prachtvollen Königspalast, und modernem urbanen Leben. Die lebendigen Plätze, wie die Puerta del Sol und die Plaza Mayor, sind das Zentrum des gesellschaftlichen Lebens. Besucher lieben die Stadt auch für ihre authentische Tapas-Kultur und das aufregende Nachtleben.",
+      de: "Madrid ist die Hauptstadt Spaniens, eine pulsierende Metropole im Herzen des Landes, bekannt für ihre erstklassigen Kunstmuseen, den prachtvollen Königspalast und ihre lebendige Tapas-Kultur.",
+      hu: "Madrid Spanyolország fővárosa, az ország szívében fekvő lüktető metropolisz, amely világszínvonalú művészeti múzeumairól, pompás Királyi Palotájáról és élénk tapas-kultúrájáról ismert.",
+      ro: "Madrid este capitala Spaniei, o metropolă vibrantă în inima țării, cunoscută pentru muzeele sale de artă de primă clasă, magnificul Palat Regal și cultura sa vibrantă de tapas.",
+      en: "Madrid is the capital of Spain, a vibrant metropolis in the heart of the country, known for its world-class art museums, the magnificent Royal Palace, and its lively tapas culture."
+    },
+    descriptionAdvanced: {          "de": "Madrid ist die pulsierende Hauptstadt Spaniens und liegt im Herzen der Iberischen Halbinsel. Die Stadt ist weltberühmt für ihre reiche Kunstgeschichte, insbesondere für den Paseo del Arte mit seinen erstklassigen Museen. Madrid bietet eine perfekte Mischung aus historischer Architektur, wie dem prachtvollen Königspalast, und modernem urbanen Leben. Die lebendigen Plätze, wie die Puerta del Sol und die Plaza Mayor, sind das Zentrum des gesellschaftlichen Lebens. Besucher lieben die Stadt auch für ihre authentische Tapas-Kultur und das aufregende Nachtleben.",
           "hu": "Madrid Spanyolország lüktető fővárosa, amely az Ibériai-félsziget szívében fekszik. A város világszerte ismert gazdag művészettörténetéről, különösen a Paseo del Arte kiváló múzeumairól. Madrid a történelmi építészet, például a pompás Királyi Palota és a modern városi élet tökéletes keverékét kínálja. Az élénk terek, mint a Puerta del Sol és a Plaza Mayor, a társadalmi élet központjai. A látogatók a várost az autentikus tapas-kultúrája és az izgalmas éjszakai élete miatt is imádják.",
           "ro": "Madrid este capitala vibrantă a Spaniei, situată în inima Peninsulei Iberice. Orașul este renumit în întreaga lume pentru istoria sa bogată în artă, în special pentru Paseo del Arte cu muzeele sale de primă clasă. Madrid oferă un amestec perfect de arhitectură istorică, cum ar fi magnificul Palat Regal, și viață urbană modernă. Piețele pline de viață, cum ar fi Puerta del Sol și Plaza Mayor, sunt centrul vieții sociale. Vizitatorii iubesc orașul și pentru cultura sa autentică de tapas și viața de noapte interesantă.",
           "en": "Madrid is the vibrant capital of Spain, located in the heart of the Iberian Peninsula. The city is world-renowned for its rich art history, particularly the Paseo del Arte with its world-class museums. Madrid offers a perfect blend of historic architecture, such as the magnificent Royal Palace, and modern urban life. Lively squares like the Puerta del Sol and Plaza Mayor are the center of social life. Visitors also love the city for its authentic tapas culture and exciting nightlife."
@@ -228,9 +292,13 @@ export const spainCities: POI[] = [
   {
     id: "es-barcelona", type: "city", parent: "ES-CT", coords: [2.1686, 41.3874],
     name: {"de": "Barcelona", "hu": "Barcelona", "ro": "Barcelona", "en": "Barcelona"},
-    
     description: {
-          "de": "Barcelona ist die faszinierende Hauptstadt Kataloniens und liegt direkt an der sonnigen Mittelmeerküste. Die Stadt ist ein architektonisches Wunderwerk, maßgeblich geprägt durch die unverkennbaren Werke von Antoni Gaudí. Sie vereint geschickt mittelalterliche Viertel wie das Gotische Viertel mit moderner Stadtplanung. Barcelona bietet nicht nur Weltklasse-Kultur und Kunst, sondern auch lebhafte Stadtstrände und eine exzellente Gastronomie. Diese einzigartige Kombination aus Strandleben und Metropolenflair macht sie zu einem der beliebtesten Reiseziele Europas.",
+      de: "Barcelona ist die Hauptstadt Kataloniens, eine pulsierende Metropole am Mittelmeer, bekannt für die einzigartige Architektur von Antoni Gaudí, das Gotische Viertel und ihre lebendigen Stadtstrände.",
+      hu: "Barcelona Katalónia fővárosa, a Földközi-tenger partján fekvő lüktető metropolisz, amely Antoni Gaudí egyedülálló építészetéről, a Gótikus negyedről és nyüzsgő városi strandjairól ismert.",
+      ro: "Barcelona este capitala Cataloniei, o metropolă vibrantă la Marea Mediterană, cunoscută pentru arhitectura unică a lui Antoni Gaudí, Cartierul Gotic și plajele sale urbane pline de viață.",
+      en: "Barcelona is the capital of Catalonia, a vibrant metropolis on the Mediterranean, known for the unique architecture of Antoni Gaudí, the Gothic Quarter, and its lively urban beaches."
+    },
+    descriptionAdvanced: {          "de": "Barcelona ist die faszinierende Hauptstadt Kataloniens und liegt direkt an der sonnigen Mittelmeerküste. Die Stadt ist ein architektonisches Wunderwerk, maßgeblich geprägt durch die unverkennbaren Werke von Antoni Gaudí. Sie vereint geschickt mittelalterliche Viertel wie das Gotische Viertel mit moderner Stadtplanung. Barcelona bietet nicht nur Weltklasse-Kultur und Kunst, sondern auch lebhafte Stadtstrände und eine exzellente Gastronomie. Diese einzigartige Kombination aus Strandleben und Metropolenflair macht sie zu einem der beliebtesten Reiseziele Europas.",
           "hu": "Barcelona Katalónia lenyűgöző fővárosa, amely közvetlenül a napfényes Földközi-tenger partján fekszik. A város építészeti csoda, amelyet jelentősen meghatároznak Antoni Gaudí összetéveszthetetlen alkotásai. Ügyesen ötvözi a középkori negyedeket, mint a Gótikus negyed, a modern várostervezéssel. Barcelona nemcsak világklasszis kultúrát és művészetet kínál, hanem nyüzsgő városi strandokat és kiváló gasztronómiát is. A tengerparti élet és a metropolisz hangulatának ez az egyedülálló kombinációja Európa egyik legnépszerűbb úti céljává teszi.",
           "ro": "Barcelona este capitala fascinantă a Cataloniei, situată chiar pe coasta însorită a Mării Mediterane. Orașul este o minune arhitecturală, influențat semnificativ de lucrările inconfundabile ale lui Antoni Gaudí. Combină cu pricepere cartierele medievale, cum ar fi Cartierul Gotic, cu planificarea urbană modernă. Barcelona oferă nu doar cultură și artă de talie mondială, ci și plaje urbane pline de viață și o gastronomie excelentă. Această combinație unică de viață la plajă și fler metropolitan o face una dintre cele mai populare destinații din Europa.",
           "en": "Barcelona is the fascinating capital of Catalonia, located right on the sunny Mediterranean coast. The city is an architectural marvel, heavily influenced by the unmistakable works of Antoni Gaudí. It cleverly combines medieval neighborhoods like the Gothic Quarter with modern urban planning. Barcelona offers not only world-class culture and art but also lively city beaches and excellent gastronomy. This unique combination of beach life and metropolitan flair makes it one of the most popular destinations in Europe."
