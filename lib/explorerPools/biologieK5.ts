@@ -24,7 +24,12 @@ interface K5PracticeTopic {
   interactive: (prefix: string) => PoolTopicDef["interactive"];
 }
 
-function addK5PracticeTopics(labels: Record<string, Record<string, string>>, pool: PoolTopicDef[], theme: L10n): void {
+function addK5PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  theme: L10n,
+  summary?: { qa: L10n; qb: L10n; qc: L10n; qd: L10n }
+): void {
   const topics: K5PracticeTopic[] = [
     {
       title: L(`Wiederholung: ${theme.de}`, `Review: ${theme.en}`, `Ismétlés: ${theme.hu}`, `Recapitulare: ${theme.ro}`),
@@ -155,10 +160,10 @@ function addK5PracticeTopics(labels: Record<string, Record<string, string>>, poo
       h1: L("Denke an Körper, Funktion und Umwelt.", "Think of body, function, and environment.", "Gondolj a testre, működésre és környezetre.", "Gândește-te la corp, funcție și mediu."),
       h2: L("Nutze die wichtigsten Begriffe.", "Use the core terms.", "Használd a legfontosabb fogalmakat.", "Folosește termenii-cheie."),
       q: L(`Welche Zusammenfassung zu ${theme.de} ist korrekt?`, `Which summary about ${theme.en} is correct?`, `Melyik összefoglalás helyes a(z) ${theme.hu} témáról?`, `Care rezumat despre ${theme.ro} este corect?`),
-      qa: L("Zusammenfassung A", "Summary A", "A összefoglalás", "Rezumatul A"),
-      qb: L("Zusammenfassung B", "Summary B", "B összefoglalás", "Rezumatul B"),
-      qc: L("Zusammenfassung C", "Summary C", "C összefoglalás", "Rezumatul C"),
-      qd: L("Zusammenfassung D", "Summary D", "D összefoglalás", "Rezumatul D"),
+      qa: summary ? summary.qa : L("Zusammenfassung A", "Summary A", "A összefoglalás", "Rezumatul A"),
+      qb: summary ? summary.qb : L("Zusammenfassung B", "Summary B", "B összefoglalás", "Rezumatul B"),
+      qc: summary ? summary.qc : L("Zusammenfassung C", "Summary C", "C összefoglalás", "Rezumatul C"),
+      qd: summary ? summary.qd : L("Zusammenfassung D", "Summary D", "D összefoglalás", "Rezumatul D"),
       icon: "🏁",
       color: "#DC2626",
       interactive: (p) => ({
@@ -1375,6 +1380,11 @@ addK5PracticeTopics(BIO_I1_LABELS, BIO_I1_POOL, {
   en: "fishes and amphibians",
   hu: "halak és kétéltűek",
   ro: "pești și amfibieni",
+}, {
+  qa: L("Fische atmen mit Kiemen im Wasser, Amphibien haben ein Doppelleben (Wasser und Land).", "Fishes breathe with gills in water, amphibians have a dual life (water and land).", "A halak kopoltyúval lélegeznek vízben, a kétéltűek kettős életmódúak (víz és szárazföld).", "Peștii respiră prin branhii în apă, amfibienii au o viață dublă (apă și uscat)."),
+  qb: L("Alle Amphibien leben in der Wüste, Fische schwimmen in der Luft.", "All amphibians live in the desert, fishes swim in the air.", "Minden kétéltű a sivatagban él, a halak a levegőben úsznak.", "Toți amfibienii trăiesc în deșert, peștii înoată în aer."),
+  qc: L("Fische sind Säugetiere, Amphibien sind Insekten.", "Fishes are mammals, amphibians are insects.", "A halak emlősök, a kétéltűek rovarok.", "Peștii sunt mamifere, amfibienii sunt insecte."),
+  qd: L("Beide Gruppen atmen mit Lungen und leben auf dem Land.", "Both groups breathe with lungs and live on land.", "Mindkét csoport tüdővel lélegzik és szárazföldön él.", "Ambele grupuri respiră prin plămâni și trăiesc pe uscat.")
 });
 
 addK5PracticeTopics(BIO_I2_LABELS, BIO_I2_POOL, {
@@ -1382,6 +1392,11 @@ addK5PracticeTopics(BIO_I2_LABELS, BIO_I2_POOL, {
   en: "reptiles and birds",
   hu: "hüllők és madarak",
   ro: "reptile și păsări",
+}, {
+  qa: L("Reptilien haben Schuppen und sind wechselwarm, Vögel haben Federn und sind gleichwarm.", "Reptiles have scales and are cold-blooded, birds have feathers and are warm-blooded.", "A hüllők pikkelyesek és változó testhőmérsékletűek, a madarak tollasak és állandó testhőmérsékletűek.", "Reptilele au solzi și sânge rece, păsările au pene și sânge cald."),
+  qb: L("Vögel legen keine Eier, Reptilien können fliegen.", "Birds do not lay eggs, reptiles can fly.", "A madarak nem tojnak, a hüllők tudnak repülni.", "Păsările nu depun ouă, reptilele pot zbura."),
+  qc: L("Beide haben Fell und säugen ihre Jungen.", "Both have fur and nurse their young.", "Mindkettőnek szőre van és kicsinyeiket szoptatják.", "Ambele au blană și își alăptează puii."),
+  qd: L("Reptilien atmen durch Kiemen, Vögel durch die Haut.", "Reptiles breathe through gills, birds through their skin.", "A hüllők kopoltyúval, a madarak a bőrükön át lélegeznek.", "Reptilele respiră prin branhii, păsările prin piele.")
 });
 
 addK5PracticeTopics(BIO_I3_LABELS, BIO_I3_POOL, {
@@ -1389,6 +1404,11 @@ addK5PracticeTopics(BIO_I3_LABELS, BIO_I3_POOL, {
   en: "mammals",
   hu: "emlősök",
   ro: "mamifere",
+}, {
+  qa: L("Säugetiere haben Haare, sind gleichwarm und säugen ihre Jungen mit Milch.", "Mammals have hair, are warm-blooded and nurse their young with milk.", "Az emlősök szőrösek, állandó testhőmérsékletűek és tejjel táplálják kicsinyeiket.", "Mamiferele au păr, sânge cald și își alăptează puii cu lapte."),
+  qb: L("Säugetiere legen Eier ins Wasser und haben Schuppen.", "Mammals lay eggs in the water and have scales.", "Az emlősök vízbe rakják tojásaikat és pikkelyesek.", "Mamiferele depun ouă în apă și au solzi."),
+  qc: L("Alle Säugetiere atmen mit Kiemen.", "All mammals breathe with gills.", "Minden emlős kopoltyúval lélegzik.", "Toate mamiferele respiră prin branhii."),
+  qd: L("Sie sind wechselwarm und haben Federn.", "They are cold-blooded and have feathers.", "Változó testhőmérsékletűek és tollasak.", "Au sânge rece și pene.")
 });
 
 addK5PracticeTopics(BIO_I4_LABELS, BIO_I4_POOL, {
@@ -1396,6 +1416,11 @@ addK5PracticeTopics(BIO_I4_LABELS, BIO_I4_POOL, {
   en: "plant organs",
   hu: "növényi szervek",
   ro: "organele plantei",
+}, {
+  qa: L("Wurzeln nehmen Wasser auf, der Spross transportiert es, und Blätter betreiben Fotosynthese.", "Roots absorb water, the stem transports it, and leaves photosynthesize.", "A gyökér vizet szív fel, a szár szállítja, a levél pedig fotoszintetizál.", "Rădăcinile absorb apa, tulpina o transportă, iar frunzele fac fotosinteză."),
+  qb: L("Blätter nehmen Wasser auf, Wurzeln machen Fotosynthese.", "Leaves absorb water, roots photosynthesize.", "A levelek szívják fel a vizet, a gyökerek fotoszintetizálnak.", "Frunzele absorb apa, rădăcinile fac fotosinteză."),
+  qc: L("Der Spross atmet Kohlendioxid aus.", "The stem exhales carbon dioxide.", "A szár szén-dioxidot lélegez ki.", "Tulpina expiră dioxid de carbon."),
+  qd: L("Pflanzenorgane sind nur im Winter aktiv.", "Plant organs are only active in winter.", "A növényi szervek csak télen aktívak.", "Organele plantelor sunt active doar iarna.")
 });
 
 addK5PracticeTopics(BIO_I5_LABELS, BIO_I5_POOL, {
@@ -1403,6 +1428,11 @@ addK5PracticeTopics(BIO_I5_LABELS, BIO_I5_POOL, {
   en: "flower and reproduction",
   hu: "virág és szaporodás",
   ro: "floarea și reproducerea",
+}, {
+  qa: L("Insekten oder Wind bestäuben die Blüte, danach entwickelt sich aus dem Fruchtknoten die Frucht.", "Insects or wind pollinate the flower, then the fruit develops from the ovary.", "A rovarok vagy a szél beporozzák a virágot, majd a magházból termés fejlődik.", "Insectele sau vântul polenizează floarea, apoi fructul se dezvoltă din ovar."),
+  qb: L("Aus den Wurzeln wachsen direkt neue Früchte.", "New fruits grow directly from the roots.", "A gyökerekből közvetlenül új termések nőnek.", "Fructele noi cresc direct din rădăcini."),
+  qc: L("Die Blütenblätter machen Fotosynthese für die Samen.", "The petals photosynthesize for the seeds.", "A szirmok fotoszintetizálnak a magok számára.", "Petalele fac fotosinteză pentru semințe."),
+  qd: L("Pflanzen brauchen keine Bestäubung zur Fortpflanzung.", "Plants do not need pollination to reproduce.", "A növényeknek nincs szükségük beporzásra a szaporodáshoz.", "Plantele nu au nevoie de polenizare pentru a se reproduce.")
 });
 
 addK5PracticeTopics(BIO_I6_LABELS, BIO_I6_POOL, {
@@ -1410,6 +1440,11 @@ addK5PracticeTopics(BIO_I6_LABELS, BIO_I6_POOL, {
   en: "crop plants",
   hu: "haszonnövények",
   ro: "plante de cultură",
+}, {
+  qa: L("Nutzpflanzen wie Getreide oder Kartoffeln werden vom Menschen zur Ernährung oder als Rohstoff angebaut.", "Crops like grain or potatoes are grown by humans for food or as raw materials.", "A haszonnövényeket, például a gabonát vagy a burgonyát, az ember élelmiszerként vagy nyersanyagként termeszti.", "Plantele de cultură, cum ar fi cerealele sau cartofii, sunt cultivate de om pentru hrană sau ca materii prime."),
+  qb: L("Nutzpflanzen wachsen nur wild und können nicht angebaut werden.", "Crops only grow wild and cannot be cultivated.", "A haszonnövények csak vadon nőnek, és nem termeszthetők.", "Plantele de cultură cresc doar sălbatic și nu pot fi cultivate."),
+  qc: L("Man nutzt sie nur als Zierpflanzen im Garten.", "They are used only as ornamental plants in the garden.", "Csak dísznövényként használják őket a kertben.", "Sunt folosite doar ca plante ornamentale în grădină."),
+  qd: L("Alle Nutzpflanzen sind giftig für Tiere.", "All crops are poisonous to animals.", "Minden haszonnövény mérgező az állatokra.", "Toate plantele de cultură sunt otrăvitoare pentru animale.")
 });
 
 addK5PracticeTopics(BIO_I7_LABELS, BIO_I7_POOL, {
@@ -1417,6 +1452,11 @@ addK5PracticeTopics(BIO_I7_LABELS, BIO_I7_POOL, {
   en: "body systems and digestion",
   hu: "testrendszerek és emésztés",
   ro: "sistemele corpului și digestie",
+}, {
+  qa: L("Die Verdauung zerlegt Nahrung in Nährstoffe, die das Blut dann im ganzen Körper verteilt.", "Digestion breaks down food into nutrients, which the blood then distributes throughout the body.", "Az emésztés tápanyagokra bontja az ételt, amit aztán a vér szétoszt az egész testben.", "Digestia descompune hrana în nutrienți, pe care sângele îi distribuie în tot corpul."),
+  qb: L("Der Magen pumpt Blut durch den Körper.", "The stomach pumps blood through the body.", "A gyomor pumpálja a vért a testben.", "Stomacul pompează sângele prin corp."),
+  qc: L("Die Verdauung findet komplett im Mund statt.", "Digestion takes place entirely in the mouth.", "Az emésztés teljesen a szájban történik.", "Digestia are loc complet în gură."),
+  qd: L("Knochen verdauen das Essen.", "Bones digest the food.", "A csontok emésztik meg az ételt.", "Oasele digeră mâncarea.")
 });
 
 addK5PracticeTopics(BIO_I8_LABELS, BIO_I8_POOL, {
@@ -1424,6 +1464,11 @@ addK5PracticeTopics(BIO_I8_LABELS, BIO_I8_POOL, {
   en: "sense organs",
   hu: "érzékszervek",
   ro: "organe de simț",
+}, {
+  qa: L("Sinnesorgane wie Auge und Ohr nehmen Reize aus der Umwelt auf und leiten sie ans Gehirn.", "Sense organs like the eye and ear receive stimuli from the environment and send them to the brain.", "Az érzékszervek, mint a szem és a fül, felfogják a környezeti ingereket és továbbítják az agyba.", "Organele de simț precum ochiul și urechea captează stimuli din mediu și îi trimit la creier."),
+  qb: L("Die Muskeln sind die wichtigsten Sinnesorgane.", "The muscles are the most important sense organs.", "Az izmok a legfontosabb érzékszervek.", "Mușchii sunt cele mai importante organe de simț."),
+  qc: L("Sie produzieren Blut für den Körper.", "They produce blood for the body.", "Vért termelnek a test számára.", "Ele produc sânge pentru corp."),
+  qd: L("Sinnesorgane arbeiten völlig unabhängig vom Gehirn.", "Sense organs work completely independently of the brain.", "Az érzékszervek teljesen függetlenül működnek az agytól.", "Organele de simț funcționează complet independent de creier.")
 });
 
 addK5PracticeTopics(BIO_I9_LABELS, BIO_I9_POOL, {
@@ -1431,4 +1476,9 @@ addK5PracticeTopics(BIO_I9_LABELS, BIO_I9_POOL, {
   en: "nutrition and digestion",
   hu: "táplálkozás és emésztés",
   ro: "alimentație și digestie",
+}, {
+  qa: L("Eine gesunde Ernährung liefert Energie; Magen und Darm zerkleinern die Nahrung chemisch und mechanisch.", "A healthy diet provides energy; stomach and intestines break down food chemically and mechanically.", "Az egészséges táplálkozás energiát ad; a gyomor és a belek kémiailag és mechanikusan bontják a táplálékot.", "O dietă sănătoasă oferă energie; stomacul și intestinele descompun hrana chimic și mecanic."),
+  qb: L("Wir brauchen nur Zucker zum Leben, der im Herzen verdaut wird.", "We only need sugar to live, which is digested in the heart.", "Csak cukorra van szükségünk az élethez, ami a szívben emésztődik meg.", "Avem nevoie doar de zahăr pentru a trăi, care se digeră în inimă."),
+  qc: L("Die Lunge verdaut die meisten Fette.", "The lungs digest most fats.", "A tüdő emészti meg a legtöbb zsírt.", "Plămânii digeră majoritatea grăsimilor."),
+  qd: L("Wasser ist schädlich für die Verdauung.", "Water is harmful to digestion.", "A víz káros az emésztésre.", "Apa este dăunătoare digestiei.")
 });
