@@ -445,8 +445,31 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const topics = useMemo(() => {
     if (!def.topics) return [];
     return def.topics.map(t => {
-      if (!t.quiz || !t.quiz.choices) return t;
-      return { ...t, quiz: { ...t.quiz, choices: shuffle([...t.quiz.choices]) } };
+      let newQuiz = t.quiz;
+      if (t.quiz && t.quiz.choices) {
+        newQuiz = { ...t.quiz, choices: shuffle([...t.quiz.choices]) };
+      }
+      
+      let newInteractive = t.interactive;
+      if (newInteractive) {
+        if (newInteractive.type === "gap-fill" && newInteractive.choices) {
+          const originalChoices = [...newInteractive.choices];
+          const correctChoice = originalChoices[newInteractive.correctIndex];
+          const shuffledChoices = shuffle(originalChoices);
+          const newCorrectIndex = shuffledChoices.indexOf(correctChoice);
+          newInteractive = { ...newInteractive, choices: shuffledChoices, correctIndex: newCorrectIndex };
+        } else if (newInteractive.type === "drag-to-bucket" && newInteractive.items) {
+          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items]) };
+        } else if (newInteractive.type === "match-pairs" && newInteractive.pairs) {
+          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs]) };
+        } else if (newInteractive.type === "physics-bucket" && newInteractive.items) {
+          newInteractive = { ...newInteractive, items: shuffle([...newInteractive.items]) };
+        } else if (newInteractive.type === "physics-magnet" && newInteractive.pairs) {
+          newInteractive = { ...newInteractive, pairs: shuffle([...newInteractive.pairs]) };
+        }
+      }
+
+      return { ...t, quiz: newQuiz, interactive: newInteractive };
     });
   }, []);  // eslint-disable-line react-hooks/exhaustive-deps
   const totalTopics = topics.length;
