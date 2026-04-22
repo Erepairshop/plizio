@@ -2125,7 +2125,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                     {/* MCQ options — each row sits on one ruled line */}
                     {q.type === "mcq" && q.options && (
                       <div className="ml-7">
-                        {q.options.map((opt, oi) => {
+                        {Array.from(new Set(q.options)).map((opt, _indexInSet) => {
+                          const oi = q.options!.indexOf(opt);
                           const isSelected = userAnswerRaw === String(oi);
                           let rowCls = "text-slate-600 hover:bg-blue-50/50 cursor-pointer";
                           let labelCls = "text-slate-300";
@@ -2168,9 +2169,10 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                       <div className="ml-7 flex items-center" style={{ height: 28 }}>
                         <span className="text-xs text-slate-400 italic">{labels.clickCorrectImage ?? "🖼 Klicke auf das richtige Bild:"}</span>
                       </div>
-                      <div className="ml-7 py-1" style={{ height: 84 }}>
-                        <div className="flex gap-2 h-full">
-                          {q.options.map((imgKey, oi) => {
+                      <div className="ml-7 py-1" style={{ minHeight: 84 }}>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2 h-full">
+                          {Array.from(new Set(q.options)).map((imgKey, _indexInSet) => {
+                            const oi = q.options!.indexOf(imgKey);
                             const Icon = g1Icons[imgKey];
                             const isSelected = userAnswerRaw === String(oi);
                             const isRightAnswer = oi === q.correct;
@@ -2187,15 +2189,17 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                                 key={oi}
                                 onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
                                 disabled={submitted}
-                                className={`flex-1 rounded-lg border-2 flex flex-col items-center justify-center transition-all ${border}`}
-                                style={{ height: 76 }}
+                                className={`rounded-lg border-2 flex flex-col items-center justify-center transition-all ${border} aspect-square sm:aspect-auto`}
+                                style={{ minHeight: 76 }}
                               >
                                 {Icon ? (
-                                  <div style={{ width: 44, height: 44 }}><Icon /></div>
+                                  <div style={{ width: 44, height: 44 }} className="flex items-center justify-center">
+                                    <Icon style={{ width: '100%', height: 'auto', objectFit: 'contain', maxHeight: 120 }} />
+                                  </div>
                                 ) : (
                                   <span className="text-xs text-slate-400">{imgKey}</span>
                                 )}
-                                <span className="text-[9px] font-semibold text-slate-400 mt-0.5">
+                                <span className="text-[9px] font-semibold text-slate-400 mt-0.5 text-center">
                                   {g1WordLabels[imgKey] ?? imgKey}
                                 </span>
                               </button>
