@@ -146,12 +146,12 @@ export function calculateGeographieMark(pct: number): TestGradeMark {
 export function asCurriculumThemes(themes: GeographieTheme[], lang: string = "hu"): CurriculumTheme[] {
   return themes.map((theme) => ({
     id: theme.id,
-    name: theme.name,
+    name: typeof theme.name === 'string' ? { de: theme.name, en: theme.name, hu: theme.name, ro: theme.name } : theme.name,
     icon: theme.icon,
     color: theme.color,
     subtopics: theme.subtopics.map((subtopic) => ({
       id: subtopic.id,
-      name: subtopic.name[lang] ?? subtopic.name.de ?? subtopic.id,
+      name: typeof subtopic.name === 'string' ? { de: subtopic.name, en: subtopic.name, hu: subtopic.name, ro: subtopic.name } : subtopic.name,
       questions: subtopic.questions,
       hasGenerator: subtopic.hasGenerator,
     })),

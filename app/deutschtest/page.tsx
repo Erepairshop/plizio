@@ -233,6 +233,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const themes = (config.curriculum[grade] ?? []) as DeutschTheme[];
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
+  const langPrefix = country === "US" || country === "GB" ? "en" : country === "RO" ? "ro" : country === "HU" ? "hu" : "de";
 
   // ─── CONFIG VISUAL TYPES (pluggable per-language visual components) ────────
   const configVisualMap = useMemo(() => {
@@ -1860,7 +1861,9 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                       style={{ borderLeft: `3px solid ${theme.color}` }}
                     >
                       <span className="text-xl">{theme.icon}</span>
-                      <span className="font-bold text-sm flex-1" style={{ color: theme.color }}>{theme.name}</span>
+                      <span className="font-bold text-sm flex-1" style={{ color: theme.color }}>
+                        {typeof theme.name === 'object' && theme.name !== null ? (theme.name[langPrefix] ?? theme.name.en ?? theme.name.de ?? theme.name.hu ?? theme.name.ro ?? "...") : theme.name as React.ReactNode}
+                      </span>
                       {availSubs.length > 1 && (
                         <button
                           onClick={toggleAll}
@@ -1906,7 +1909,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
                             <span className="flex-1 flex items-center gap-1 flex-wrap">
-                              <span>{sub.name}</span>
+                              <span>{typeof sub.name === 'object' && sub.name !== null ? (sub.name[langPrefix] ?? sub.name.en ?? sub.name.de ?? sub.name.hu ?? sub.name.ro ?? "...") : sub.name as React.ReactNode}</span>
                               {(configVisualSubtopicMap.get(sub.id) ?? []).map(vt => {
                                 // Extract trailing emoji from label (e.g. "Sentence Builder ✏️" → "✏️")
                                 const emoji = vt.label.match(/[\p{Emoji}\p{Emoji_Presentation}\p{Extended_Pictographic}]\uFE0F?$/u)?.[0];
