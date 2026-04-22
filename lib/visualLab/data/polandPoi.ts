@@ -358,6 +358,12 @@ export const polandCities: POI[] = [
     coords: [21.0122, 52.2297],
     name: { de: "Warschau", hu: "Varsó", ro: "Varșovia", en: "Warsaw" },
     description: {
+      de: "Warschau ist die Hauptstadt Polens, eine dynamische Metropole an der Weichsel, bekannt für ihre akribisch rekonstruierte Altstadt und ihre moderne Skyline.",
+      hu: "Varsó Lengyelország fővárosa, a Visztula menti dinamikus metropolisz, amely aprólékosan újjáépített óvárosáról és modern felhőkarcolóiról ismert.",
+      ro: "Varșovia este capitala Poloniei, o metropolă dinamică pe râul Vistula, cunoscută pentru orașul său vechi reconstruit cu meticulozitate și orizontul său modern.",
+      en: "Warsaw is the capital of Poland, a dynamic metropolis on the Vistula River, known for its meticulously reconstructed Old Town and modern skyline."
+    },
+    descriptionAdvanced: {
       de: "Warschau ist die Hauptstadt und größte Stadt Polens. Die Metropole liegt an der Weichsel im östlichen Zentrum Polens. Die offizielle Einwohnerzahl beträgt 1,86 Millionen, im Großraum leben 3,1 Millionen Menschen, womit Warschau die siebtgrößte Stadt der Europäischen Union ist. Das Stadtgebiet umfasst 517,24 Quadratkilometer. Warschau ist eine Alpha-Weltstadt, ein wichtiges internationales Touristenziel und ein bedeutendes kulturelles, politisches und wirtschaftliches Zentrum.",
       hu: "Varsó Lengyelország fővárosa és legnagyobb városa. A metropolisz a Visztula folyó partján fekszik, Közép-Kelet-Lengyelországban. Lakossága hivatalosan 1,86 millió fő, a tágabb vonzáskörzetben pedig 3,1 millióan élnek, így az Európai Unió hetedik legnépesebb városa. A város területe 517,24 négyzetkilométer. Varsó egy alfa globális város, jelentős nemzetközi turisztikai célpont, valamint fontos kulturális, politikai és gazdasági központ.",
       ro: "Varșovia este capitala și cel mai mare oraș al Poloniei. Metropola este situată pe râul Vistula, în centrul-estul Poloniei. Populația sa este estimată oficial la 1,86 milioane de locuitori în oraș și 3,1 milioane în zona metropolitană, fiind al 7-lea cel mai populat oraș din Uniunea Europeană. Limitele orașului acoperă 517,24 kilometri pătrați. Varșovia este un oraș global alfa, o destinație turistică internațională majoră și un centru cultural, politic și economic semnificativ.",
@@ -378,6 +384,12 @@ export const polandCities: POI[] = [
     coords: [19.9450, 50.0647],
     name: { de: "Krakau", hu: "Krakkó", ro: "Cracovia", en: "Krakow" },
     description: {
+      de: "Krakau ist die ehemalige Königsstadt Polens, bekannt für ihre prächtige mittelalterliche Altstadt, das Wawel-Schloss und als kulturelles Herz des Landes.",
+      hu: "Krakkó Lengyelország egykori királyi székhelye, amely pompás középkori óvárosáról, a Wawel-várról és az ország kulturális szíveként ismert.",
+      ro: "Cracovia este fosta cetate de scaun regală a Poloniei, cunoscută pentru orașul său vechi medieval magnific, Castelul Wawel și ca inima culturală a țării.",
+      en: "Kraków is the former royal capital of Poland, known for its magnificent medieval Old Town, Wawel Castle, and as the cultural heart of the country."
+    },
+    descriptionAdvanced: {
       de: "Krakau ist die zweitgrößte und eine der ältesten Städte Polens. Die Stadt liegt an der Weichsel in der Woiwodschaft Kleinpolen und geht auf das siebte Jahrhundert zurück. Sie war bis 1596 die offizielle Hauptstadt Polens und ist traditionell eines der führenden Zentren des polnischen akademischen, wirtschaftlichen, kulturellen und künstlerischen Lebens. Sie gilt als eine der schönsten Städte Europas und ihre Altstadt ist ein UNESCO-Weltkulturerbe.",
       hu: "Krakkó Lengyelország második legnagyobb és egyik legrégebbi városa. A Kis-Lengyelország vajdaságban, a Visztula folyó partján fekvő város története a hetedik századig nyúlik vissza. 1596-ig Lengyelország hivatalos fővárosa volt, és hagyományosan a lengyel tudományos, gazdasági, kulturális és művészeti élet egyik vezető központja. Európa egyik legszebb városaként tartják számon, óvárosa pedig az UNESCO Világörökség része.",
       ro: "Cracovia este al doilea oraș ca mărime și unul dintre cele mai vechi din Polonia. Situat pe râul Vistula în Voievodatul Polonia Mică, orașul datează din secolul al VII-lea. A fost capitala oficială a Poloniei până în 1596 și a fost în mod tradițional unul dintre centrele principale ale vieții academice, economice, culturale și artistice poloneze. Considerat unul dintre cele mai frumoase orașe din Europa, centrul său vechi este un sit al Patrimoniului Mondial UNESCO.",
@@ -398,6 +410,12 @@ export const polandCities: POI[] = [
     coords: [17.0385, 51.1079],
     name: { de: "Breslau", hu: "Wrocław", ro: "Wrocław", en: "Wroclaw" },
     description: {
+      de: "Breslau ist eine charmante Stadt im Südwesten Polens, bekannt für ihre zahlreichen Brücken, den prächtigen Marktplatz und die über die ganze Stadt verteilten Zwergenfiguren.",
+      hu: "Wrocław egy bájos város Délnyugat-Lengyelországban, amely számos hídjáról, pompás piacteréről és a városban mindenfelé megtalálható törpeszobrairól ismert.",
+      ro: "Wrocław este un oraș fermecător din sud-vestul Poloniei, cunoscut pentru numeroasele sale poduri, piața centrală magnifică și figurinele de pitici răspândite prin tot orașul.",
+      en: "Wroclaw is a charming city in southwestern Poland, known for its numerous bridges, magnificent Market Square, and the dwarf figurines scattered throughout the city."
+    },
+    descriptionAdvanced: {
       de: "Wrocław (Breslau) ist eine Stadt im Südwesten Polens und die größte Stadt in der historischen Region Schlesien. Sie liegt an den Ufern der Oder im schlesischen Tiefland in Mitteleuropa. Mit einer offiziellen Bevölkerung von über 670.000 ist Wrocław die drittgrößte Stadt Polens. Die Stadt ist bekannt für ihre vielen Brücken, Inseln und den historischen Marktplatz. Breslau ist ein bedeutendes Studentenzentrum und ein wichtiges kulturelles und wirtschaftliches Zentrum.",
       hu: "Wrocław Délnyugat-Lengyelország városa, Szilézia történelmi régiójának legnagyobb települése. Az Odera folyó partján fekszik, a Közép-Európai Sziléziai-alföldön. Több mint 670 000 fős lakosságával Wrocław Lengyelország harmadik legnépesebb városa. A város híres nagyszámú hídjáról, szigeteiről és történelmi piacteréről. Wrocław jelentős diákváros, valamint fontos kulturális és gazdasági központ.",
       ro: "Wrocław este un oraș în sud-vestul Poloniei și cel mai mare oraș din regiunea istorică Silezia. Se află pe malurile râului Oder, în Câmpia Sileziei din Europa Centrală. Cu o populație oficială de peste 670.000 de locuitori, Wrocław este al treilea cel mai populat oraș din Polonia. Orașul este cunoscut pentru numărul său mare de poduri, insule și piața istorică. Wrocław este un centru studențesc major și un important pol cultural și economic.",
@@ -418,6 +436,12 @@ export const polandCities: POI[] = [
     coords: [18.6466, 54.3520],
     name: { de: "Danzig", hu: "Gdańsk", ro: "Gdańsk", en: "Gdansk" },
     description: {
+      de: "Danzig ist eine historische Hansestadt an der Ostsee, bekannt für ihre prächtige Architektur, den Bernsteinhandel und als Geburtsort der Solidarność-Bewegung.",
+      hu: "Gdańsk egy történelmi hanza-város a Balti-tenger partján, amely pompás építészetéről, borostyánkereskedelméről és a Szolidaritás mozgalom szülőhelyeként ismert.",
+      ro: "Gdańsk este un oraș hanseatic istoric la Marea Baltică, cunoscut pentru arhitectura sa magnifică, comerțul cu chihlimbar și ca locul de naștere al mișcării Solidaritatea.",
+      en: "Gdansk is a historic Hanseatic city on the Baltic Sea, known for its magnificent architecture, amber trade, and as the birthplace of the Solidarity movement."
+    },
+    descriptionAdvanced: {
       de: "Danzig ist eine große Hafenstadt an der Ostseeküste Polens. Mit fast 486.000 Einwohnern ist sie die Hauptstadt der Woiwodschaft Pommern und die bedeutendste Stadt in der geografischen Region Pommerellen. Es ist Polens wichtigster Seehafen und das Zentrum der viertgrößten Metropolregion des Landes. Die Stadt hat eine komplexe Geschichte mit polnischen, preußischen, deutschen Herrschaften und Autonomie. Die Solidarność-Bewegung, die das Ende des Kommunismus in Polen einleitete, entstand auf der Danziger Werft.",
       hu: "Gdańsk egy nagy kikötőváros Lengyelország balti partvidékén. Közel 486 000 fős lakosságával a Pomerániai vajdaság fővárosa és Pomerélia földrajzi régiójának legjelentősebb városa. Ez Lengyelország legfontosabb tengeri kikötője és az ország negyedik legnagyobb metropoliszövezetének központja. A város összetett történelemmel rendelkezik lengyel, porosz és német uralom, valamint autonómia korszakaival. A lengyelországi kommunista uralom megdöntésében kulcsszerepet játszó Szolidaritás mozgalom a gdański hajógyárban alakult ki.",
       ro: "Gdańsk este un oraș-port major pe coasta baltică a Poloniei. Cu o populație de aproape 486.000 de locuitori, este capitala Voievodatului Pomerania și cel mai proeminent oraș din regiunea Pomerelia. Este principalul port maritim al Poloniei și centrul celei de-a patra mari zone metropolitane a țării. Orașul are o istorie complexă cu perioade de dominație poloneză, prusacă și germană. Mișcarea Solidaritatea, care a contribuit la sfârșitul comunismului în Polonia, a apărut la Șantierul Naval din Gdańsk.",

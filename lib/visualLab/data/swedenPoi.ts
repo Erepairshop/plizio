@@ -7,10 +7,16 @@ export const swedenCountry: POI = {
   coords: [18.0686, 59.3293],
   name: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden" },
   description: {
-    en: "Sweden is a Scandinavian nation in Northern Europe, known for its vast forests, thousands of coastal islands, and inland lakes. It is a country of striking natural beauty, from the frozen landscapes of the Arctic North to the fertile plains of the South. Sweden is famous for its commitment to social welfare, innovation, and sustainability. Its rich history spans from the Viking Age to its role as a modern, peaceful, and technologically advanced society.",
-    de: "Schweden ist eine skandinavische Nation in Nordeuropa, bekannt für seine weiten Wälder, Tausende von Küsteninseln und Binnenseen. Es ist ein Land von beeindruckender natürlicher Schönheit, von den gefrorenen Landschaften des arktischen Nordens bis zu den fruchtbaren Ebenen des Südens. Schweden ist berühmt für sein Engagement für soziale Wohlfahrt, Innovation und Nachhaltigkeit. Seine reiche Geschichte reicht von der Wikingerzeit bis zu seiner Rolle als moderne, friedliche und technologisch fortgeschrittene Gesellschaft.",
-    hu: "Svédország egy skandináv nemzet Észak-Európában, amely hatalmas erdőiről, több ezer tengerparti szigetéről és belső tavairól ismert. Lenyűgöző természeti szépségű ország, az északi sarkvidék fagyos tájaitól a déli termékeny síkságokig. Svédország híres a jóléti állam, az innováció és a fenntarthatóság iránti elkötelezettségéről. Gazdag történelme a viking kortól a modern, békés és technológiailag fejlett társadalomig terjed.",
-    ro: "Suedia este o națiune scandinavă din Europa de Nord, cunoscută pentru pădurile sale vaste, mii de insule de coastă și lacuri interioare. Este o țară de o frumusețe naturală izbitoare, de la peisajele înghețate ale Nordului Arctic până la câmpiile fertile din Sud. Suedia este faimoasă pentru angajamentul său față de bunăstarea socială, inovație și sustenabilitate. Istoria sa bogată se întinde de la Epoca Vikingă până la rolul său de societate modernă, pașnică și avansată tehnologic."
+    de: "Schweden ist das größte skandinavische Land, bekannt für seine unberührte Natur, tausende Küsteninseln, innovatives Design und eine hohe Lebensqualität.",
+    hu: "Svédország a legnagyobb skandináv ország, amely érintetlen természetéről, több ezer tengerparti szigetéről, innovatív dizájnjáról és magas életminőségéről ismert.",
+    ro: "Suedia este cea mai mare țară scandinavă, cunoscută pentru natura sa virgină, mii de insule de coastă, designul inovator și calitatea ridicată a vieții.",
+    en: "Sweden is the largest Scandinavian country, known for its pristine nature, thousands of coastal islands, innovative design, and high quality of life."
+  },
+  descriptionAdvanced: {
+    de: "Schweden, offiziell das Königreich Schweden, ist ein faszinierendes Land im Norden Europas, das für seine atemberaubende natürliche Schönheit, seine progressive Gesellschaft und seine weltweit führende Rolle in Innovation und Nachhaltigkeit bekannt ist. Als flächenmäßig größtes Land Skandinaviens bietet Schweden eine beeindruckende landschaftliche Vielfalt: von den fruchtbaren Ebenen und sanften Hügeln des Südens über die dichten Nadelwälder und glitzernden Seen Mittelschwedens bis hin zur wilden, arktischen Tundra Lapplands im hohen Norden. Schweden grenzt an Norwegen und Finnland und ist durch die Öresundbrücke mit Dänemark verbunden. Die schwedische Identität ist tief in der Natur verwurzelt; das 'Allemansrätt' (Jedermannsrecht) erlaubt es jedem, sich frei in der Natur zu bewegen und deren Früchte zu genießen. Die Hauptstadt Stockholm, erbaut auf 14 Inseln, gilt als eine der schönsten Hauptstädte der Welt und verbindet historisches Erbe mit modernem urbanem Lifestyle. Kulturell hat Schweden die Welt mit Ikonen wie ABBA, Astrid Lindgren und Ingmar Bergman sowie mit globalen Marken wie IKEA, Spotify und Volvo geprägt. Ein zentraler Aspekt des sozialen Gefüges ist das Konzept von 'Lagom' – das Streben nach dem richtigen Maß, nicht zu viel und nicht zu wenig. Kulinarisch ist Schweden für seine Köttbullar, frischen Fisch und die gemütliche Kaffeepause 'Fika' bekannt. Heute ist Schweden ein Vorreiter in Sachen Umweltschutz und erneuerbare Energien und setzt weltweit Maßstäbe für soziale Gerechtigkeit und Gleichberechtigung. Ob man die magischen Polarlichter in Lappland bestaunt, durch den Stockholmer Schärengarten segelt oder die Ruhe an einem der über 100.000 Seen genießt – Schweden empfängt seine Besucher mit einer Mischung aus nordischer Gelassenheit, technologischer Brillanz und herzlicher Gastfreundschaft.",
+    hu: "Svédország, hivatalos nevén a Svéd Királyság, egy lenyűgöző ország Észak-Európában, amely lélegzetelállító természeti szépségéről, progresszív társadalmáról, valamint az innovációban és a fenntarthatóságban betöltött vezető szerepéről ismert. Skandinávia legnagyobb területű országaként Svédország lenyűgöző táji változatosságot kínál: a déli termékeny síkságoktól és lankás domboktól kezdve a közép-svédországi sűrű fenyőerdőkön és csillogó tavakon át egészen a távoli északon fekvő Lappföld vad, sarkvidéki tundrájáig. Svédország Norvégiával és Finnországgal határos, az Öresund hídon keresztül pedig Dániával áll összeköttetésben. A svéd identitás mélyen gyökerezik a természetben; a „mindenki joga” (allemansrätten) lehetővé teszi bárki számára, hogy szabadon mozogjon a természetben és élvezze annak gyümölcseit. A 14 szigetre épült főváros, Stockholm, a világ egyik legszebb fővárosaként ismert, ahol a történelmi örökség és a modern városi életstílus találkozik. Kulturális szempontból Svédország olyan ikonokkal gazdagította a világot, mint az ABBA, Astrid Lindgren és Ingmar Bergman, valamint olyan globális márkákkal, mint az IKEA, a Spotify és a Volvo. A társadalmi élet központi eleme a „Lagom” fogalma – a törekvés a helyes mértékre, se nem túl sokra, se nem túl kevésre. Kulinárisan Svédország a húsgombócairól (köttbullar), a friss halairól és a „Fika” néven ismert meghitt kávészüneteiről híres. Ma Svédország úttörő a környezetvédelem és a megújuló energiák területén, és világszerte mércét állít fel a társadalmi igazságosság és az egyenlőség terén. Akár a mágikus sarki fényt csodálja meg valaki Lappföldön, akár a stockholmi szigetvilágban vitorlázik, vagy a több mint 100 000 tó egyikének csendjét élvezi – Svédország az északi nyugalom, a technológiai zsenialitás és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+    ro: "Suedia, oficial Regatul Suediei, este o țară fascinantă din nordul Europei, cunoscută pentru frumusețea sa naturală uluitoare, societatea sa progresistă și rolul său de lider mondial în inovație și sustenabilitate. Fiind cea mai mare țară din Scandinavia ca suprafață, Suedia oferă o diversitate peisagistică impresionantă: de la câmpiile fertile și dealurile blânde din sud, prin pădurile dese de conifere și lacurile sclipitoare din centrul Suediei, până la tundra arctică sălbatică din Laponia, în nordul îndepărtat. Suedia se învecinează cu Norvegia și Finlanda și este conectată de Danemarca prin Podul Öresund. Identitatea suedeză este profund ancorată în natură; „Allemansrätt” (dreptul fiecărui om) permite oricui să se miște liber în natură și să se bucure de roadele acesteia. Capitala Stockholm, construită pe 14 insule, este considerată una dintre cele mai frumoase capitale din lume, îmbinând moștenirea istorică cu stilul de viață urban modern. Din punct de vedere cultural, Suedia a marcat lumea prin pictograme precum ABBA, Astrid Lindgren și Ingmar Bergman, precum și prin mărci globale ca IKEA, Spotify și Volvo. Un aspect central al structurii sociale este conceptul de „Lagom” – căutarea măsurii potrivite, nici prea mult, nici prea puțin. Din punct de vedere culinar, Suedia este cunoscută pentru chiftelele sale (köttbullar), peștele proaspăt și pauza de cafea primitoare numită „Fika”. Astăzi, Suedia este un pionier în protecția mediului și energiile regenerabile, stabilind standarde mondiale pentru justiție socială și egalitate. Fie că admirați magicele aurore boreale în Laponia, navigați prin arhipelagul Stockholmului sau vă bucurați de liniștea unuia dintre cele peste 100.000 de lacuri – Suedia își întâmpină vizitatorii cu un amestec de calm nordic, strălucire tehnologică și ospitalitate caldă.",
+    en: "Sweden, officially the Kingdom of Sweden, is a fascinating country in Northern Europe known for its breathtaking natural beauty, progressive society, and world-leading role in innovation and sustainability. As the largest country in Scandinavia by area, Sweden offers an impressive scenic diversity: from the fertile plains and rolling hills of the south, through the dense coniferous forests and sparkling lakes of central Sweden, to the wild, Arctic tundra of Lapland in the far north. Sweden borders Norway and Finland and is connected to Denmark by the Öresund Bridge. Swedish identity is deeply rooted in nature; the 'Allemansrätt' (Everyman's Right) allows anyone to roam freely in nature and enjoy its fruits. The capital, Stockholm, built on 14 islands, is considered one of the most beautiful capitals in the world, blending historical heritage with a modern urban lifestyle. Culturally, Sweden has shaped the world with icons like ABBA, Astrid Lindgren, and Ingmar Bergman, as well as global brands like IKEA, Spotify, and Volvo. A central aspect of the social fabric is the concept of 'Lagom'—the pursuit of the right balance, not too much and not too little. Culinarily, Sweden is known for its meatballs (köttbullar), fresh fish, and the cozy coffee break known as 'Fika.' Today, Sweden is a pioneer in environmental protection and renewable energy, setting global standards for social justice and equality. Whether marveling at the magical Northern Lights in Lapland, sailing through the Stockholm archipelago, or enjoying the silence at one of the over 100,000 lakes—Sweden welcomes its visitors with a blend of Nordic composure, technological brilliance, and warm hospitality."
   },
   facts: {
     en: [
@@ -19,7 +25,11 @@ export const swedenCountry: POI = {
       "Sweden was the first country in the world to ban corporal punishment of children in 1979.",
       "The Nobel Prize ceremonies are held annually in Stockholm (except for the Peace Prize).",
       "Sweden imports waste from other countries to fuel its waste-to-energy plants.",
-      "Abba, IKEA, and Spotify are some of Sweden's most famous global exports."
+      "Abba, IKEA, and Spotify are some of Sweden's most famous global exports.",
+      "Sweden has the world's highest number of McDonald's restaurants per capita in Europe.",
+      "The country has a unique law called 'Allemansrätt', giving everyone the right to roam freely in nature.",
+      "Sweden is home to the world's first ice hotel, located in Jukkasjärvi.",
+      "North Korea owes Sweden over 300 million euros for 1,000 Volvo cars delivered in the 1970s."
     ],
     de: [
       "Schweden ist flächenmäßig das größte Land Nordeuropas.",
@@ -27,7 +37,11 @@ export const swedenCountry: POI = {
       "Schweden war 1979 das erste Land der Welt, das die körperliche Züchtigung von Kindern verbot.",
       "Die Nobelpreisverleihungen finden jährlich in Stockholm statt (außer dem Friedensnobelpreis).",
       "Schweden importiert Abfälle aus anderen Ländern, um seine Müllverbrennungsanlagen zu befeuern.",
-      "Abba, IKEA und Spotify sind einige der bekanntesten globalen Exporte Schwedens."
+      "Abba, IKEA und Spotify sind einige der bekanntesten globalen Exporte Schwedens.",
+      "Schweden hat europaweit die höchste Anzahl an McDonald's-Restaurants pro Kopf.",
+      "Das Land hat ein einzigartiges Gesetz namens 'Allemansrätt', das jedem das Recht gibt, sich frei in der Natur zu bewegen.",
+      "Schweden ist die Heimat des weltweit ersten Eishotels in Jukkasjärvi.",
+      "Nordkorea schuldet Schweden über 300 Millionen Euro für 1.000 in den 1970er Jahren gelieferte Volvos."
     ],
     hu: [
       "Svédország területileg Észak-Európa legnagyobb országa.",
@@ -35,7 +49,11 @@ export const swedenCountry: POI = {
       "Svédország volt az első ország a világon, amely 1979-ben betiltotta a gyermekek testi fenyítését.",
       "A Nobel-díj átadási ünnepségeket évente Stockholmban tartják (a békedíj kivételével).",
       "Svédország hulladékot importál más országokból, hogy energiát termelő üzemeit fűtse.",
-      "Az Abba, az IKEA és a Spotify Svédország legismertebb globális exportcikkei közé tartoznak."
+      "Az Abba, az IKEA és a Spotify Svédország legismertebb globális exportcikkei közé tartoznak.",
+      "Svédországban található az egy főre jutó legtöbb McDonald's étterem Európában.",
+      "Az országban létezik a „mindenki joga” (allemansrätten), amely bárki számára lehetővé teszi a szabad mozgást a természetben.",
+      "Svédországban található a világ első jéghotele, Jukkasjärvi faluban.",
+      "Észak-Korea több mint 300 millió euróval tartozik Svédországnak 1000 darab, a 70-es években szállított Volvo autóért."
     ],
     ro: [
       "Suedia este cea mai mare țară din Europa de Nord ca suprafață.",
@@ -43,7 +61,11 @@ export const swedenCountry: POI = {
       "Suedia a fost prima țară din lume care a interzis pedeapsa corporală a copiilor în 1979.",
       "Ceremoniile Premiului Nobel au loc anual la Stockholm (cu excepția Premiului pentru Pace).",
       "Suedia importă deșeuri din alte țări pentru a-și alimenta centralele de transformare a deșeurilor în energie.",
-      "Abba, IKEA și Spotify sunt câteva dintre cele mai faimoase exporturi globale ale Suediei."
+      "Abba, IKEA și Spotify sunt câteva dintre cele mai faimoase exporturi globale ale Suediei.",
+      "Suedia are cel mai mare număr de restaurante McDonald's pe cap de locuitor din Europa.",
+      "Țara are o lege unică numită „Allemansrätt”, care oferă tuturor dreptul de a se plimba liber în natură.",
+      "Suedia găzduiește primul hotel de gheață din lume, situat în Jukkasjärvi.",
+      "Coreea de Nord datorează Suediei peste 300 de milioane de euro pentru 1.000 de mașini Volvo livrate în anii '70."
     ]
   },
   image: "/geo-images/sweden/sweden-main.webp",
@@ -57,6 +79,12 @@ export const swedenRegions: POI[] = [
     coords: [18.0686, 59.3293],
     name: { de: "Stockholm", hu: "Stockholm", ro: "Stockholm", en: "Stockholm" },
     description: {
+      de: "Stockholm ist die Hauptstadt Schwedens, eine elegante Stadt auf 14 Inseln, bekannt für ihre gut erhaltene Altstadt Gamla Stan, erstklassige Museen und viel Wasser.",
+      hu: "Stockholm Svédország fővárosa, egy elegáns város 14 szigeten, amely jól megőrzött óvárosáról (Gamla Stan), világszínvonalú múzeumairól és rengeteg vizéről ismert.",
+      ro: "Stockholm este capitala Suediei, un oraș elegant construit pe 14 insule, cunoscut pentru orașul său vechi bine conservat Gamla Stan, muzeele de talie mondială și abundența apei.",
+      en: "Stockholm is the capital of Sweden, an elegant city built on 14 islands, known for its well-preserved old town Gamla Stan, world-class museums, and abundant water."
+    },
+    descriptionAdvanced: {
       en: "Stockholm, the capital of Sweden, is built on 14 islands connected by over 50 bridges. Known as the 'Venice of the North', it is a city of stunning architecture, clean water, and abundant green spaces. The historic old town, Gamla Stan, features cobblestone streets and colorful buildings, while the city also boasts world-class museums like the Vasa Museum and the ABBA Museum. Stockholm is a global hub for technology, design, and fashion.",
       de: "Stockholm, die Hauptstadt Schwedens, ist auf 14 Inseln erbaut, die durch über 50 Brücken verbunden sind. Bekannt als 'Venedig des Nordens', ist es eine Stadt mit beeindruckender Architektur, sauberem Wasser und zahlreichen Grünflächen. Die historische Altstadt Gamla Stan besticht durch Kopfsteinpflasterstraßen und bunte Gebäude, während die Stadt auch erstklassige Museen wie das Vasa-Museum und das ABBA-Museum beherbergt. Stockholm ist ein globales Zentrum für Technologie, Design und Mode.",
       hu: "Stockholm, Svédország fővárosa, 14 szigetre épült, amelyeket több mint 50 híd köt össze. Az 'Észak Velencéjeként' ismert város lenyűgöző építészetéről, tiszta vizéről és bőséges zöldfelületeiről híres. A történelmi óváros, a Gamla Stan macskaköves utcákkal és színes épületekkel várja a látogatókat, miközben a város olyan világszínvonalú múzeumokkal is büszkélkedhet, mint a Vasa Múzeum és az ABBA Múzeum. Stockholm a technológia, a dizájn és a divat globális központja.",
@@ -77,6 +105,12 @@ export const swedenRegions: POI[] = [
     coords: [11.9746, 57.7089],
     name: { de: "Göteborg", hu: "Göteborg", ro: "Göteborg", en: "Gothenburg" },
     description: {
+      de: "Göteborg ist die zweitgrößte Stadt Schwedens, eine charmante Hafenstadt an der Westküste, bekannt für ihre Kanäle, erstklassige Meeresfrüchte und den Vergnügungspark Liseberg.",
+      hu: "Göteborg Svédország második legnagyobb városa, egy bájos kikötőváros a nyugati parton, amely csatornáiról, kiváló tengeri ételeiről és a Liseberg vidámparkról ismert.",
+      ro: "Göteborg este al doilea oraș ca mărime din Suedia, un oraș portuar fermecător pe coasta de vest, cunoscut pentru canalele sale, fructele de mare de primă clasă și parcul de distracții Liseberg.",
+      en: "Gothenburg is the second-largest city in Sweden, a charming port city on the west coast known for its canals, world-class seafood, and the Liseberg amusement park."
+    },
+    descriptionAdvanced: {
       en: "Gothenburg, located on Sweden's west coast, is the country's second-largest city and its most important port. It is known for its friendly atmosphere, beautiful canals, and vibrant culinary scene, particularly its fresh seafood. The city is home to Liseberg, Scandinavia's largest amusement park, and the Universeum science center. Gothenburg offers a mix of urban culture and easy access to the stunning southern archipelago.",
       de: "Göteborg an der Westküste Schwedens ist die zweitgrößte Stadt des Landes und sein wichtigster Hafen. Sie ist bekannt für ihre freundliche Atmosphäre, ihre schönen Kanäle und ihre lebendige kulinarische Szene, insbesondere für frische Meeresfrüchte. Die Stadt beherbergt Liseberg, den größten Vergnügungspark Skandinaviens, und das Wissenschaftszentrum Universeum. Göteborg bietet eine Mischung aus städtischer Kultur und einfachem Zugang zum beeindruckenden südlichen Schärengarten.",
       hu: "Göteborg, Svédország nyugati partján fekszik, az ország második legnagyobb városa és legfontosabb kikötője. Barátságos légköréről, gyönyörű csatornáiról és élénk gasztronómiájáról ismert, különösen a friss tengeri ételekről. Itt található a Liseberg, Skandinávia legnagyobb vidámparkja, és az Universeum tudományos központ. Göteborg a városi kultúra és a lenyűgöző déli szigetvilág könnyű elérhetőségének keverékét kínálja.",
@@ -97,6 +131,12 @@ export const swedenRegions: POI[] = [
     coords: [13.0038, 55.6050],
     name: { de: "Malmö", hu: "Malmö", ro: "Malmö", en: "Malmö" },
     description: {
+      de: "Malmö ist die drittgrößte Stadt Schwedens, eine multikulturelle Metropole im Süden, bekannt für den Turning Torso, die Öresundbrücke und ihre innovative Nachhaltigkeit.",
+      hu: "Malmö Svédország harmadik legnagyobb városa, egy multikulturális metropolisz délen, amely a Turning Torso felhőkarcolóról, az Öresund hídról és innovatív fenntarthatóságáról ismert.",
+      ro: "Malmö este al treilea oraș ca mărime din Suedia, o metropolă multiculturală în sud, cunoscută pentru zgârie-norul Turning Torso, Podul Øresund și sustenabilitatea sa inovatoare.",
+      en: "Malmö is the third-largest city in Sweden, a multicultural metropolis in the south known for the Turning Torso, the Øresund Bridge, and its innovative sustainability."
+    },
+    descriptionAdvanced: {
       en: "Malmö is Sweden's third-largest city, located in the southernmost province of Skåne. It is a diverse and multicultural city, connected to Copenhagen by the iconic Øresund Bridge. Malmö is known for its innovative architecture, such as the Turning Torso skyscraper, and its commitment to sustainability. The city offers beautiful parks, a lively waterfront area called Västra Hamnen, and a rich cultural life with many festivals and events.",
       de: "Malmö ist die drittgrößte Stadt Schwedens und liegt in der südlichsten Provinz Schonen. Es ist eine vielfältige und multikulturelle Stadt, die durch die ikonische Öresundbrücke mit Kopenhagen verbunden ist. Malmö ist bekannt für seine innovative Architektur, wie den Wolkenkratzer Turning Torso, und sein Engagement für Nachhaltigkeit. Die Stadt bietet schöne Parks, ein lebendiges Uferviertel namens Västra Hamnen und ein reiches Kulturleben mit vielen Festivals und Veranstaltungen.",
       hu: "Malmö Svédország harmadik legnagyobb városa, a legdélebbi tartományban, Skåne-ban található. Sokszínű és multikulturális város, amelyet az ikonikus Øresund híd köt össze Koppenhágával. Malmö innovatív építészetéről, például a Turning Torso felhőkarcolóról, és a fenntarthatóság iránti elkötelezettségéről ismert. A város gyönyörű parkokat, a Västra Hamnen nevű élénk vízparti negyedet és gazdag kulturális életet kínál számos fesztivállal és eseménnyel.",
@@ -156,10 +196,16 @@ export const swedenCities: POI[] = [
   {
     id: "city-kiruna",
     type: "city",
-    parent: "sweden",
+    parent: "SE",
     coords: [20.2234, 67.8558],
     name: { de: "Kiruna", hu: "Kiruna", ro: "Kiruna", en: "Kiruna" },
     description: {
+      de: "Kiruna ist die nördlichste Stadt Schwedens, bekannt für das weltgrößte Eisenerzbergwerk, das Eishotel und als Tor zum arktischen Lappland.",
+      hu: "Kiruna Svédország legészakibb városa, amely a világ legnagyobb vasércbányájáról, a Jéghotelről és az arktikus Lappföld kapujaként ismert.",
+      ro: "Kiruna este cel mai nordic oraș din Suedia, cunoscut pentru cea mai mare mină de minereu de fier din lume, Hotelul de Gheață și ca poartă către Laponia arctică.",
+      en: "Kiruna is the northernmost city in Sweden, known for the world's largest iron ore mine, the Icehotel, and as a gateway to Arctic Lapland."
+    },
+    descriptionAdvanced: {
       en: "Kiruna is the northernmost city in Sweden, located in the province of Lapland. It is famous for being home to the world's largest underground iron ore mine and for its proximity to the Abisko National Park and the Icehotel. The city is currently undergoing a massive relocation project to prevent it from being swallowed by the expanding mine.",
       de: "Kiruna ist die nördlichste Stadt Schwedens und liegt in der Provinz Lappland. Sie ist bekannt für das weltweit größte unterirdische Eisenerzbergwerk sowie für ihre Nähe zum Abisko-Nationalpark und zum Eishotel. Die Stadt wird derzeit im Rahmen eines massiven Umsiedlungsprojekts verlegt, um zu verhindern, dass sie vom expandierenden Bergwerk verschluckt wird.",
       hu: "Kiruna Svédország legészakibb városa, Lappföld tartományban található. Híres a világ legnagyobb földalatti vasércbányájáról, valamint az Abisko Nemzeti Park és a Jéghotel közelségéről. A várost jelenleg egy hatalmas költöztetési projekt keretében helyezik át, hogy megmentsék a táguló bánya okozta beomlástól.",
@@ -181,6 +227,12 @@ export const swedenCities: POI[] = [
     coords: [20.2630, 63.8258],
     name: { de: "Umea", hu: "Umea", ro: "Umea", en: "Umea" },
     description: {
+      de: "Umeå ist eine dynamische Universitätsstadt in Nordschweden, bekannt für ihre lebendige Kulturszene, ihre Birkenalleen und als Zentrum für Innovation.",
+      hu: "Umeå egy dinamikus egyetemi város Észak-Svédországban, amely vibráló kulturális életéről, nyírfasorairól és innovációs központjáról ismert.",
+      ro: "Umeå este un oraș universitar dinamic din nordul Suediei, cunoscut pentru scena sa culturală vibrantă, aleile sale de mesteacăn și ca centru de inovare.",
+      en: "Umeå is a dynamic university city in northern Sweden, known for its vibrant cultural scene, birch-lined avenues, and as a hub for innovation."
+    },
+    descriptionAdvanced: {
       en: "Umea is a fast-growing university city on the Ume River in northern Sweden. It is known for its creative energy, strong public services, and easy access to the forests and coastline of Vasterbotten. The city gained international attention as European Capital of Culture in 2014. Umea combines modern city life with a clear Arctic North Swedish identity.",
       de: "Umea ist eine schnell wachsende Universitatsstadt am Umealv in Nordschweden. Sie ist bekannt fur ihre kreative Energie, ihre starken offentliichen Dienste und den leichten Zugang zu Waldern und Kuste in Vasterbotten. Die Stadt erhielt 2014 als Europaische Kulturhauptstadt internationale Aufmerksamkeit. Umea verbindet modernes Stadtleben mit einer klaren nordschwedischen Identitat.",
       hu: "Umea egy gyorsan fejlodo egyetemi varos az Ume-folyonak partjan Eszak-Svedorszagban. Kreativ energiája, eros kozerdeku szolgaltatasai es Vasterbotten erdeinek, valamint partvonalanak közelsége miatt ismert. A varos 2014-ben nemzetkozi figyelmet kapott, amikor Europai Kulturfovaros lett. Umea a modern varosi eletet es az eszaki sarki hangulatot jol osszekapcsolja.",
@@ -201,6 +253,12 @@ export const swedenCities: POI[] = [
     coords: [13.1910, 55.7047],
     name: { de: "Lund", hu: "Lund", ro: "Lund", en: "Lund" },
     description: {
+      de: "Lund ist eine der ältesten Städte Schwedens, eine bedeutende Universitätsstadt im Süden, bekannt für ihren prächtigen romanischen Dom und ihre akademische Tradition.",
+      hu: "Lund Svédország egyik legrégebbi városa, egy jelentős egyetemi város délen, amely pompás román stílusú székesegyházáról és akadémiai hagyományairól ismert.",
+      ro: "Lund este unul dintre cele mai vechi orașe din Suedia, un oraș universitar important în sud, cunoscut pentru catedrala sa romanică magnifică și tradiția sa academică.",
+      en: "Lund is one of the oldest cities in Sweden, a major university city in the south known for its magnificent Romanesque cathedral and academic tradition."
+    },
+    descriptionAdvanced: {
       en: "Lund is one of Sweden's oldest and most intellectual cities, shaped by its cathedral and university. It sits in southern Scania and attracts students, researchers, and visitors all year round. The compact center is easy to explore on foot and is full of historic streets, cafes, and bike-friendly paths. Lund is also a strong base for business and innovation in the greater Oresund region.",
       de: "Lund ist eine der altesten und intellektuellsten Stadte Schwedens, gepragt von Kathedrale und Universitat. Sie liegt im sudlichen Skane und zieht das ganze Jahr uber Studierende, Forscher und Besucher an. Das kompakte Zentrum lasst sich leicht zu Fuss erkunden und ist voller historischer Strassen, Cafes und fahrradfreundlicher Wege. Lund ist auch ein wichtiger Standort fur Wirtschaft und Innovation in der grosseren Oresund-Region.",
       hu: "Lund Svedorszag egyik legoregebbi es legszellemi varosa, amelyet a katedralis es az egyetem formalt. Skane deli reszen fekszik, es egesz evben vonzza a diakokat, kutatokat es latogatokat. A kompakt varoskozpont gyalog is konnyen bejarhato, tele tortenelmi utcakkal, kavezokkal es biciklibarat utakkal. Lund a nagyobb Oresund-regio egyik fontos uzleti es innovacios bazisa is.",
@@ -221,6 +279,12 @@ export const swedenCities: POI[] = [
     coords: [15.6214, 58.4108],
     name: { de: "Linkoping", hu: "Linkoping", ro: "Linkoping", en: "Linkoping" },
     description: {
+      de: "Linköping ist eine bedeutende Stadt in Zentralschweden, bekannt für ihre Luftfahrtindustrie, die beeindruckende Kathedrale und ihre renommierte Universität.",
+      hu: "Linköping egy jelentős város Közép-Svédországban, amely repülőgépiparáról, lenyűgöző székesegyházáról és neves egyeteméről ismert.",
+      ro: "Linköping este un oraș important din centrul Suediei, cunoscut pentru industria sa aeronautică, catedrala impresionantă și universitatea sa renumită.",
+      en: "Linköping is a major city in central Sweden, known for its aviation industry, impressive cathedral, and renowned university."
+    },
+    descriptionAdvanced: {
       en: "Linkoping is a major city in east-central Sweden known for aviation, logistics, and technology. It combines a strong business profile with a historic center and a vibrant student atmosphere. The city is home to Sweden's famous Air Force Museum and the large Linkoping University campus. Visitors use Linkoping as a gateway to Ostergotland and the classic Swedish countryside.",
       de: "Linkoping ist eine wichtige Stadt in Ost-Zentralschwedens und bekannt fur Luftfahrt, Logistik und Technologie. Sie verbindet ein starkes Wirtschaftsprofil mit einer historischen Innenstadt und einer lebendigen Studentenatmosphare. In der Stadt befinden sich das bekannte Schwedische Luftwaffenmuseum und der grosse Campus der Universitat Linkoping. Besucher nutzen Linkoping als Tor nach Ostergotland und in die klassische schwedische Landschaft.",
       hu: "Linkoping az eszakkelet-svedorszagi elet egyik fontos varosa, amelyet a repules, a logisztika es a technologia hataroz meg. Az eros gazdasagi profil mellett tortenelmi belvarossal es elelkeno diakhangulattal rendelkezik. Itt talalhato a hires Sved Legiero Muzeum es a nagy Linkopingi Egyetem campusa is. A latogatok gyakran kapukent hasznaljak Ostergotland es a klasszikus sved videk fele.",
@@ -241,6 +305,12 @@ export const swedenCities: POI[] = [
     coords: [16.5448, 59.6114],
     name: { de: "Vasteras", hu: "Vasteras", ro: "Vasteras", en: "Vasteras" },
     description: {
+      de: "Västerås ist eine historische Stadt am Mälarensee, bekannt für ihr industrielles Erbe, den modernen Yachthafen und ihre Nähe zu Stockholm.",
+      hu: "Västerås egy történelmi város a Mälaren-tó partján, amely ipari örökségéről, modern jachtkikötőjéről és Stockholm közelségéről ismert.",
+      ro: "Västerås este un oraș istoric pe malul lacului Mälaren, cunoscut pentru moștenirea sa industrială, portul de agrement modern și proximitatea de Stockholm.",
+      en: "Västerås is a historic city on Lake Mälaren, known for its industrial heritage, modern marina, and proximity to Stockholm."
+    },
+    descriptionAdvanced: {
       en: "Vasteras is a historic Malaren city with a strong industrial base and a modern waterfront identity. It grew around trade, shipping, and later advanced engineering, which still shape the local economy. The city is easy to reach from Stockholm and works well as a regional hub for business and family travel. Vasteras also offers lakeside recreation, old churches, and a compact downtown.",
       de: "Vasteras ist eine historische Stadt am Malaren mit einer starken industriellen Basis und moderner Uferidentitat. Sie wuchs durch Handel, Schifffahrt und spater durch fortschrittlichen Maschinenbau, was die lokale Wirtschaft bis heute pragt. Die Stadt ist von Stockholm aus leicht erreichbar und eignet sich gut als regionales Zentrum fur Geschafts- und Familienreisen. Vasteras bietet ausserdem Erholung am See, alte Kirchen und eine kompakte Innenstadt.",
       hu: "Vasteras egy tortenelmi Malaren-parti varos, eros ipari hattal es modern partmenti hangulattal. A kereskedelem, a hajozas es kesobb a fejlett gepgyartas formalta, ami ma is meghatarozza a helyi gazdasagot. Stockholmbol konnyen elerheto, ezert jo regio-kozi kozpont uzleti es csaladi utazasokhoz is. Vasteras emellett toparti kikapcsolodast, regi templomokat es kompakt belvarost kinal.",
@@ -261,6 +331,12 @@ export const swedenCities: POI[] = [
     coords: [15.2066, 59.2753],
     name: { de: "Orebro", hu: "Orebro", ro: "Orebro", en: "Orebro" },
     description: {
+      de: "Örebro ist eine charmante Stadt in Zentralschweden, bekannt für ihr majestätisches mittelalterliches Schloss, ihre lebendige Universität und ihre Rolle als wichtiger Verkehrsknotenpunkt.",
+      hu: "Örebro egy bájos város Közép-Svédországban, amely fenséges középkori váráról, vibráló egyeteméről és fontos közlekedési csomópontként betöltött szerepéről ismert.",
+      ro: "Örebro este un oraș fermecător din centrul Suediei, cunoscut pentru castelul său medieval maiestuos, universitatea sa vibrantă și rolul său de nod important de transport.",
+      en: "Örebro is a charming city in central Sweden, known for its majestic medieval castle, vibrant university, and role as a major transport hub."
+    },
+    descriptionAdvanced: {
       en: "Orebro is a central Swedish city shaped by a castle, a major university, and a lively service economy. Its location makes it an important junction for rail and road travel across the country. The city center is walkable and combines shopping, restaurants, and riverside scenery. Orebro is also known for its mix of history, education, and practical regional functions.",
       de: "Orebro ist eine zentral schwedische Stadt, die von einer Burg, einer grossen Universitat und einer lebendigen Dienstleistungswirtschaft gepragt ist. Ihre Lage macht sie zu einem wichtigen Knotenpunkt fur Bahn- und Strassenreisen im ganzen Land. Das Stadtzentrum ist fusslaufig und verbindet Einkauf, Restaurants und Flusslandschaft. Orebro ist ausserdem fur die Mischung aus Geschichte, Bildung und praktischen Regionalfunktionen bekannt.",
       hu: "Orebro egy kozep-sved varos, amelyet vara, nagy egyeteme es elelkeny szolgaltatasi gazdasaga hataroz meg. Fekvese miatt fontos vasuti es kozuti csomopont az orszagon belul. A belvaros setalhato, es az uzleteket, ettermeket es a folyparti latvanyt jol otvozi. Orebro a tortenelem, az oktatas es a regiokozponti szerep jo kevereke miatt ismert.",
@@ -281,6 +357,12 @@ export const swedenCities: POI[] = [
     coords: [12.8578, 56.6745],
     name: { de: "Halmstad", hu: "Halmstad", ro: "Halmstad", en: "Halmstad" },
     description: {
+      de: "Halmstad ist eine beliebte Küstenstadt an der schwedischen Westküste, bekannt für ihre wunderschönen Sandstrände, erstklassige Golfplätze und ihre entspannte Urlaubsatmosphäre.",
+      hu: "Halmstad egy népszerű tengerparti város Svédország nyugati partján, amely gyönyörű homokos strandjairól, világszínvonalú golfpályáiról és laza nyaralóhangulatáról ismert.",
+      ro: "Halmstad este un oraș de coastă popular pe coasta de vest a Suediei, cunoscut pentru plajele sale frumoase de nisip, terenurile de golf de clasă mondială și atmosfera sa relaxată de vacană.",
+      en: "Halmstad is a popular coastal city on Sweden's west coast, known for its beautiful sandy beaches, world-class golf courses, and relaxed holiday atmosphere."
+    },
+    descriptionAdvanced: {
       en: "Halmstad is a coastal city on Sweden's west coast with a long history of trade and seaside tourism. It is especially popular in summer thanks to beaches, golf, and a relaxed harbor atmosphere. The city also serves as a regional center for administration, retail, and transport in Halland. Halmstad blends old-town character with a strong modern holiday feel.",
       de: "Halmstad ist eine Kustenstadt an der schwedischen Westkuste mit langer Geschichte im Handel und im Seetourismus. Sie ist besonders im Sommer beliebt dank Stranden, Golf und entspannter Hafenatmosphare. Die Stadt dient ausserdem als regionales Zentrum fur Verwaltung, Einzelhandel und Verkehr in Halland. Halmstad verbindet Altstadtcharakter mit einem starken modernen Urlaubsgefuhl.",
       hu: "Halmstad egy tengerparti varos Svedorszag nyugati partjan, amelynek hosszu kereskedelmi es balatoni turisztikai multja van. Kulonosen nyaron nepszeru a strandok, a golfozas es a laza kikotoi hangulat miatt. A varos Halland regioban kozigazgatasi, kiskereskedelmi es kozlekedesi kozpontkent is mukodik. Halmstad regi varosi karaktert es eros modern nyaralos hangulatot kapcsol ossze.",
@@ -301,6 +383,12 @@ export const swedenCities: POI[] = [
     coords: [17.3069, 62.3908],
     name: { de: "Sundsvall", hu: "Sundsvall", ro: "Sundsvall", en: "Sundsvall" },
     description: {
+      de: "Sundsvall ist eine beeindruckende Küstenstadt in Nordschweden, bekannt für ihre prächtige Steinarchitektur ('Stenstaden'), die nach einem großen Brand im 19. Jahrhundert entstand.",
+      hu: "Sundsvall egy lenyűgöző tengerparti város Észak-Svédországban, amely a 19. századi nagy tűzvész után épült pompás kőépítészetéről („Stenstaden”) ismert.",
+      ro: "Sundsvall este un oraș de coastă impresionant din nordul Suediei, cunoscut pentru arhitectura sa magnifică din piatră („Stenstaden”), apărută după un mare incendiu în secolul al XIX-lea.",
+      en: "Sundsvall is an impressive coastal city in northern Sweden, known for its magnificent stone architecture ('Stenstaden') that emerged after a great fire in the 19th century."
+    },
+    descriptionAdvanced: {
       en: "Sundsvall is a northern coastal city known for its stone architecture and industrial heritage. After the great fire of 1888, it was rebuilt in a monumental style that still defines the city center. Today it is a mix of regional administration, education, digital services, and old industrial character. Sundsvall is also a practical stop for travelers moving between central and northern Sweden.",
       de: "Sundsvall ist eine nordliche Kustenstadt, die fur ihre Steinarchitektur und ihr industrielles Erbe bekannt ist. Nach dem Grossbrand von 1888 wurde sie in einem monumentalen Stil neu aufgebaut, der das Stadtzentrum bis heute pragt. Heute ist sie eine Mischung aus Regionalverwaltung, Bildung, digitalen Diensten und altem Industriecharakter. Sundsvall ist auch ein praktischer Halt fur Reisende zwischen Mittel- und Nordschweden.",
       hu: "Sundsvall egy eszaki tengerparti varos, amely koepiteszeterol es ipari oroksegerol ismert. Az 1888-as nagy tuz utan monumentalis stilusban epult ujja, es ez ma is meghatarozza a belvarost. Ma a varos regioi kozigazgatas, oktatas, digitalis szolgaltatasok es regi ipari karakter kevereke. Sundsvall gyakorlati megallo az orszag kozepe es eszaki resze kozott utazoknak.",
@@ -321,6 +409,12 @@ export const swedenCities: POI[] = [
     coords: [22.1547, 65.5848],
     name: { de: "Lulea", hu: "Lulea", ro: "Lulea", en: "Lulea" },
     description: {
+      de: "Luleå ist die Hauptstadt von Schwedisch-Lappland, bekannt für ihren bedeutenden Hafen, das arktische Klima und die zum UNESCO-Welterbe gehörende Kirchendorf Gammelstad.",
+      hu: "Luleå Svéd Lappföld fővárosa, amely jelentős kikötőjéről, arktikus klímájáról és az UNESCO Világörökség részét képező Gammelstad templomvárosról ismert.",
+      ro: "Luleå este capitala Laponiei suedeze, cunoscută pentru portul său important, clima arctică și satul bisericesc Gammelstad, inclus în Patrimoniul Mondial UNESCO.",
+      en: "Luleå is the capital of Swedish Lapland, known for its major port, Arctic climate, and the UNESCO World Heritage-listed Gammelstad Church Town."
+    },
+    descriptionAdvanced: {
       en: "Lulea is the main city of Swedish Lapland on the Gulf of Bothnia. It combines northern port activity, Arctic climate, and growing tech infrastructure in a compact urban form. The city is famous for its UNESCO-listed church town, its university presence, and its role in the regional economy. Lulea is a strong base for winter tourism, coastal travel, and northern industry.",
       de: "Lulea ist die Hauptstadt von Schwedisch-Lappland am Bottnischen Meerbusen. Sie verbindet Hafenaktivitat im Norden, arktisches Klima und wachsende technische Infrastruktur in kompakter urbaner Form. Die Stadt ist beruhmt fur ihre UNESCO-geschutzte Kirchenstadt, ihre Universitatsprasenz und ihre Rolle in der regionalen Wirtschaft. Lulea ist ein starker Ausgangspunkt fur Wintertourismus, Kustenreisen und Nordindustrie.",
       hu: "Lulea a Sved Lappfold fo varosa a Botteni-obol partjan. Avarosi formajaban eszaki kikotoi elet, sarki klima es erosodo technologiai infrastruktura talalkozik. A varos hires UNESCO-védett templomvarosarol, egyetemi jelenleterol es regioi gazdasagi szereperol. Lulea eros bazis a teliturizmushoz, a partmenti utazasokhoz es az eszaki iparhoz.",
@@ -341,6 +435,12 @@ export const swedenCities: POI[] = [
     coords: [13.5036, 59.3793],
     name: { de: "Karlstad", hu: "Karlstad", ro: "Karlstad", en: "Karlstad" },
     description: {
+      de: "Karlstad ist eine freundliche Stadt am Nordufer des Vänernsees, bekannt für ihre sonnige Atmosphäre, ihre Lage am Klarälven-Delta und ihre hohe Lebensqualität.",
+      hu: "Karlstad egy barátságos város a Vänern-tó északi partján, amely napfényes hangulatáról, a Klarälven-deltában fekvő elhelyezkedéséről és magas életminőségéről ismert.",
+      ro: "Karlstad este un oraș prietenos pe malul nordic al lacului Vänern, cunoscut pentru atmosfera sa însorită, locația sa în delta Klarälven și calitatea ridicată a vieții.",
+      en: "Karlstad is a friendly city on the northern shore of Lake Vänern, known for its sunny atmosphere, its location at the Klarälven delta, and high quality of life."
+    },
+    descriptionAdvanced: {
       en: "Karlstad sits where the Klaralven river meets Lake Vattern and is one of western Sweden's most pleasant regional cities. It is known for its bright waterways, calm pace, and strong role in administration and commerce. The city has a reputation for sunshine, open squares, and easy access to inland nature. Karlstad works well as a travel base for Varmland and the lake country.",
       de: "Karlstad liegt dort, wo der Klaralven in den Vanernsee munden, und ist eine der angenehmsten Regionalstadte Westschwedens. Sie ist bekannt fur ihre hellen Wasserwege, ihr ruhiges Tempo und ihre starke Rolle in Verwaltung und Handel. Die Stadt hat den Ruf von viel Sonne, offenen Platzen und einfachem Zugang zur Binnenlandschaft. Karlstad eignet sich gut als Reisebasis fur Varmland und das Seenland.",
       hu: "Karlstad ott fekszik, ahol a Klaralven folyó a Venner toba torkollik, es Nyugat-Svedorszag egyik legkellemesebb regiokozpontja. Vilagos vizivilagara, nyugodt utemere es a kozigazgatasban, valamint kereskedelemben betoltott eros szerepere ismert. A varosnak sok napfenyrol, tágas tereiről es a belso videk konnyu elerhetosegerol van hire. Karlstad jo utazasbazis Varmland es a tovidek felfedezesere.",
@@ -361,6 +461,12 @@ export const swedenCities: POI[] = [
     coords: [14.1618, 57.7826],
     name: { de: "Jonkoping", hu: "Jonkoping", ro: "Jonkoping", en: "Jonkoping" },
     description: {
+      de: "Jönköping ist eine strategisch gelegene Stadt am Südufer des Vätternsees, bekannt für ihre Rolle als Logistikzentrum, ihre Messen und ihre schöne Lage am Wasser.",
+      hu: "Jönköping egy stratégiai fekvésű város a Vättern-tó déli partján, amely logisztikai központként betöltött szerepéről, vásárairól és gyönyörű vízparti fekvéséről ismert.",
+      ro: "Jönköping este un oraș situat strategic pe malul sudic al lacului Vättern, cunoscut pentru rolul său de centru logistic, târgurile sale și locația sa superbă pe malul apei.",
+      en: "Jönköping is a strategically located city on the southern shore of Lake Vättern, known for its role as a logistics hub, its trade fairs, and its beautiful waterfront setting."
+    },
+    descriptionAdvanced: {
       en: "Jonkoping is a strategic inland city on the southern shore of Lake Vattern. It developed as a trade, manufacturing, and transport center and still plays a strong regional role. The city is known for fairs, logistics, and easy links to the rest of southern Sweden. Jonkoping also gives visitors a good mix of lake views, city services, and nearby countryside.",
       de: "Jonkoping ist eine strategisch gelegene Binnenstadt am sudlichen Ufer des Vatternsees. Sie entwickelte sich zu einem Handels-, Produktions- und Verkehrszentrum und spielt bis heute eine starke regionale Rolle. Die Stadt ist bekannt fur Messen, Logistik und gute Verbindungen zum Rest Sudschwedens. Jonkoping bietet Besuchern ausserdem eine gute Mischung aus Seeblick, Stadtdiensten und naher Landschaft.",
       hu: "Jonkoping egy strategiai fekvesu belso varos a Vattern-to deli partjan. Kereskedelmi, gyartoi es kozlekedesi kozpontkent fejlodott, es ma is eros regioi szerepe van. A varos hires vasarairol, logisztikai szereperol es a deli Svedorszag fele vezeto jo kapcsolatairol. Jonkoping a tolatvany, a varosi szolgaltatasok es a közeli videk jo kevereket adja.",
@@ -384,6 +490,12 @@ export const swedenCulture: POI[] = [
     coords: [18.2948, 57.6348],
     name: { de: "Visby", hu: "Visby", ro: "Visby", en: "Visby" },
     description: {
+      de: "Visby ist eine bemerkenswert gut erhaltene mittelalterliche Hansestadt auf der Insel Gotland, bekannt für ihre beeindruckende Stadtmauer und ihre charmanten Rosenhäuser.",
+      hu: "Visby egy figyelemre méltóan jó állapotban fennmaradt középkori hanza-város Gotland szigetén, amely lenyűgöző városfaláról és bájos, rózsákkal borított házairól ismert.",
+      ro: "Visby este un oraș hanseatic medieval remarcabil de bine conservat pe insula Gotland, cunoscut pentru zidul său impresionant și căsuțele sale fermecătoare cu trandafiri.",
+      en: "Visby is a remarkably well-preserved medieval Hanseatic town on the island of Gotland, known for its impressive town wall and charming rose-covered cottages."
+    },
+    descriptionAdvanced: {
       en: "Visby, located on the island of Gotland, is a remarkably well-preserved medieval Hanseatic town and a UNESCO World Heritage site. It is famous for its impressive 13th-century town wall, cobblestone streets, and charming rose-covered cottages. Visby has a rich history as a major trading hub in the Baltic Sea and hosts an annual Medieval Week, where the town comes alive with markets, tournaments, and period costumes.",
       de: "Visby auf der Insel Gotland ist eine bemerkenswert gut erhaltene mittelalterliche Hansestadt und UNESCO-Weltkulturerbe. Sie ist berühmt für ihre beeindruckende Stadtmauer aus dem 13. Jahrhundert, ihre Kopfsteinpflasterstraßen und ihre charmanten, rosenumrankten Häuser. Visby hat eine reiche Geschichte als bedeutendes Handelszentrum in der Ostsee und ist Gastgeber der jährlichen Mittelalterwoche, in der die Stadt mit Märkten, Turnieren und historischen Kostümen zum Leben erwacht.",
       hu: "Visby, Gotland szigetén található, egy figyelemre méltóan jó állapotban fennmaradt középkori hanza-város és az UNESCO Világöröűgség része. Híres lenyűgöző, 13. századi városfaláról, macskaköves utcáiról és bájos, rózsákkal borított házikóiról. Visby gazdag múlttal rendelkezik, mint a Balti-tenger egyik jelentős kereskedelmi központja, és évente megrendezi a Középkori Hetet, ahol a város piacokkal, lovagi tornákkal és korhű jelmezekkel telik meg.",
@@ -404,6 +516,12 @@ export const swedenCulture: POI[] = [
     coords: [18.0914, 59.3281],
     name: { de: "Vasa-Museum", hu: "Vasa Múzeum", ro: "Muzeul Vasa", en: "Vasa Museum" },
     description: {
+      de: "Das Vasa-Museum in Stockholm beherbergt das weltweit einzige fast vollständig erhaltene Schiff aus dem 17. Jahrhundert, das 1628 auf seiner Jungfernfahrt sank.",
+      hu: "A stockholmi Vasa Múzeum a világ egyetlen szinte teljesen épen maradt 17. századi hadihajójának ad otthont, amely 1628-ban süllyedt el első útján.",
+      ro: "Muzeul Vasa din Stockholm găzduiește singura navă din secolul al XVII-lea din lume conservată aproape integral, care s-a scufundat în călătoria sa inaugurală în 1628.",
+      en: "The Vasa Museum in Stockholm houses the world's only almost fully intact 17th-century ship, which sank on its maiden voyage in 1628."
+    },
+    descriptionAdvanced: {
       en: "The Vasa Museum is a maritime museum in Stockholm, located on the island of Djurgården. It displays the almost fully intact 17th-century ship Vasa, which sank on its maiden voyage in 1628 and was salvaged in 1961. It is the most visited museum in Scandinavia, offering a unique glimpse into Swedish naval history and 17th-century craftsmanship.",
       de: "Das Vasa-Museum ist ein Schifffahrtsmuseum in Stockholm auf der Insel Djurgården. Es zeigt das fast vollständig intakte Schiff Vasa aus dem 17. Jahrhundert, das 1628 auf seiner Jungfernfahrt sank und 1961 geborgen wurde. Es ist das meistbesuchte Museum Skandinaviens und bietet einen einzigartigen Einblick in die schwedische Marinegeschichte und die Handwerkskunst des 17. Jahrhunderts.",
       hu: "A Vasa Múzeum egy tengerészeti múzeum Stockholmban, a Djurgården-szigeten. Itt látható a szinte teljesen ép 17. századi Vasa hadihajó, amely 1628-as első útján süllyedt el, és 1961-ben emelték ki. Ez Skandinávia leglátogatottabb múzeuma, amely egyedülálló betekintést nyújt a svéd tengerészeti történelembe és a 17. századi kézművességbe.",
@@ -424,6 +542,12 @@ export const swedenCulture: POI[] = [
     coords: [18.0715, 59.3259],
     name: { de: "Gamla Stan", hu: "Gamla Stan", ro: "Gamla Stan", en: "Gamla Stan" },
     description: {
+      de: "Gamla Stan ist die historische Altstadt von Stockholm, eines der am besten erhaltenen mittelalterlichen Stadtzentren Europas, bekannt für seine bunten Häuser und engen Gassen.",
+      hu: "Gamla Stan Stockholm történelmi óvárosa, Európa egyik legjobb állapotban fennmaradt középkori városközpontja, amely színes házairól és szűk utcáiról ismert.",
+      ro: "Gamla Stan este centrul istoric al orașului Stockholm, unul dintre cele mai bine conservate centre medievale din Europa, cunoscut pentru casele sale colorate și străzile înguste.",
+      en: "Gamla Stan is the historic old town of Stockholm, one of the best-preserved medieval city centers in Europe, known for its colorful buildings and narrow cobblestone streets."
+    },
+    descriptionAdvanced: {
       en: "Gamla Stan, the Old Town of Stockholm, is one of the largest and best-preserved medieval city centers in Europe. Founded in 1252, it features narrow winding cobblestone streets, colorful buildings, and historic sites like the Royal Palace and Stockholm Cathedral. It is a vibrant area filled with shops, restaurants, and museums, retaining its medieval character.",
       de: "Gamla Stan, die Altstadt von Stockholm, ist eines der größten und am besten erhaltenen mittelalterlichen Stadtzentren Europas. Sie wurde 1252 gegründet und zeichnet sich durch enge, gewundene Kopfsteinpflasterstraßen, bunte Gebäude und historische Stätten wie den Königspalast und den Stockholmer Dom aus. Es ist ein lebendiges Viertel voller Geschäfte, Restaurants und Museen, das seinen mittelalterlichen Charakter bewahrt hat.",
       hu: "Gamla Stan, Stockholm óvárosa, Európa egyik legnagyobb és legjobb állapotban fennmaradt középkori városközpontja. Az 1252-ben alapított negyed szűk, kanyargós macskaköves utcákkal, színes épületekkel és olyan történelmi helyszínekkel büszkélkedhet, mint a királyi palota és a stockholmi székesegyház. Ez egy élettel teli környék üzletekkel, éttermekkel és múzeumokkal, amely megőrizte középkori jellegét.",
@@ -444,6 +568,12 @@ export const swedenCulture: POI[] = [
     coords: [17.8857, 59.3219],
     name: { de: "Schloss Drottningholm", hu: "Drottningholm palota", ro: "Palatul Drottningholm", en: "Drottningholm Palace" },
     description: {
+      de: "Schloss Drottningholm ist die Privatresidenz der schwedischen Königsfamilie, ein prächtiges Barockschloss am Mälarensee und UNESCO-Weltkulturerbe.",
+      hu: "A Drottningholm palota a svéd királyi család magánrezidenciája, egy pompás barokk kastély a Mälaren-tó partján és az UNESCO Világörökség része.",
+      ro: "Palatul Drottningholm este reședința privată a familiei regale suedeze, un magnific palat baroc pe malul lacului Mälaren și sit al Patrimoniului Mondial UNESCO.",
+      en: "Drottningholm Palace is the private residence of the Swedish royal family, a magnificent Baroque palace on Lake Mälaren and a UNESCO World Heritage site."
+    },
+    descriptionAdvanced: {
       en: "Drottningholm Palace is the private residence of the Swedish royal family and a UNESCO World Heritage site. Built in the 17th century, it is inspired by French models like Versailles and features a magnificent palace theater and beautiful gardens. It represents the finest example of Northern European architecture from the Baroque period.",
       de: "Schloss Drottningholm ist die Privatresidenz der schwedischen Königsfamilie und gehört zum UNESCO-Weltkulturerbe. Das im 17. Jahrhundert erbaute Schloss wurde nach französischem Vorbild wie Versailles gestaltet und verfügt über ein prächtiges Schlosstheater und wunderschöne Gärten. Es ist das beste Beispiel nordeuropäischer Barockarchitektur.",
       hu: "A Drottningholm palota a svéd királyi család magánrezidenciája és az UNESCO Világörökség része. A 17. században épült, francia mintákra, például Versailles-ra alapozva, és lenyűgöző palotaszínházzal, valamint gyönyörű kertekkel rendelkezik. Ez az észak-európai barokk építészet egyik legszebb példája.",
@@ -464,6 +594,12 @@ export const swedenCulture: POI[] = [
     coords: [20.5956, 67.8508],
     name: { de: "Eishotel Jukkasjärvi", hu: "Icehotel Jukkasjärvi", ro: "Icehotel Jukkasjärvi", en: "Icehotel Jukkasjärvi" },
     description: {
+      de: "Das Eishotel in Jukkasjärvi war das weltweit erste Hotel aus Eis und Schnee, ein vergängliches Kunstwerk, das jedes Jahr von Künstlern neu erschaffen wird.",
+      hu: "A jukkasjärvi Jéghotel volt a világ első jégből és hóból készült szállodája, egy mulandó műalkotás, amelyet minden évben művészek építenek újjá.",
+      ro: "Icehotel din Jukkasjärvi a fost primul hotel din lume realizat din gheață și zăpadă, o operă de artă efemeră recreată în fiecare an de artiști.",
+      en: "The Icehotel in Jukkasjärvi was the world's first hotel made of ice and snow, an ephemeral work of art recreated every year by artists."
+    },
+    descriptionAdvanced: {
       en: "Located in Jukkasjärvi, the Icehotel was the world's first hotel made entirely of ice and snow. Each year, artists from around the world gather to sculpt the hotel's rooms and common areas using ice from the nearby Torne River. It offers a unique Arctic experience, with temperatures inside kept at a constant sub-zero level, complemented by the Icebar.",
       de: "Das in Jukkasjärvi gelegene Eishotel war das weltweit erste Hotel, das vollständig aus Eis und Schnee gebaut wurde. Jedes Jahr kommen Künstler aus aller Welt zusammen, um die Zimmer und Gemeinschaftsbereiche des Hotels mit Eis aus dem nahen Fluss Torne zu gestalten. Es bietet ein einzigartiges arktisches Erlebnis mit konstanten Minustemperaturen im Inneren, ergänzt durch die Icebar.",
       hu: "A Jukkasjärviben található Jéghotel volt a világ első, teljes egészében jégből és hóból készült szállodája. Minden évben a világ minden tájáról érkező művészek gyűlnek össze, hogy a közeli Torne-folyó jegéből kifaragják a szálloda szobáit és közösségi tereit. Egyedülálló sarkvidéki élményt kínál, ahol a belső hőmérsékletet folyamatosan fagypont alatt tartják, amit a Jégbár egészít ki.",
@@ -484,6 +620,12 @@ export const swedenCulture: POI[] = [
     coords: [14.5390, 60.9923],
     name: { de: "Dalarna (Dala-Pferd)", hu: "Dalarna (Dala-ló)", ro: "Dalarna (Calul Dala)", en: "Dalarna (Dala Horse)" },
     description: {
+      de: "Dalarna ist das kulturelle Herz Schwedens, bekannt für seine tief verwurzelte Folklore, die roten Holzhäuser und das ikonische Dala-Pferd.",
+      hu: "Dalarna Svédország kulturális szíve, amely mélyen gyökerező folklórjáról, vörös faházairól és az ikonikus dala-lóról ismert.",
+      ro: "Dalarna este inima culturală a Suediei, cunoscută pentru folclorul său profund înrădăcinat, casele de lemn roșii și emblematicul cal Dala.",
+      en: "Dalarna is the cultural heart of Sweden, known for its deep-rooted folklore, red wooden houses, and the iconic Dala horse."
+    },
+    descriptionAdvanced: {
       en: "Dalarna is a province in central Sweden known for its deep-rooted folklore, traditional red-painted cottages, and the iconic Dala horse. Mora is the center of Dala horse production, a hand-carved and painted wooden horse that has become a symbol of Sweden. The region is also famous for the Vasaloppet, the world's oldest and longest cross-country ski race.",
       de: "Dalarna ist eine Provinz in Mittelschweden, bekannt für ihre tief verwurzelte Folklore, traditionelle rot gestrichene Häuser und das ikonische Dala-Pferd. Mora ist das Zentrum der Dala-Pferd-Produktion, eines handgeschnitzten und bemalten Holzpferdes, das zum Symbol Schwedens geworden ist. Die Region ist auch berühmt für den Vasaloppet, das älteste und längste Skilanglaufrennen der Welt.",
       hu: "Dalarna egy közép-svédországi tartomány, amely mélyen gyökerező folklórjáról, hagyományos vörösre festett házikóiról és az ikonikus dalahästről (dala-lóról) ismert. Mora a dala-ló gyártás központja, amely egy kézzel faragott és festett faparipa, és Svédország szimbólumává vált. A régió híres a Vasaloppetről is, amely a világ legrégebbi és leghosszabb sífutó versenye.",
@@ -503,8 +645,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [17.5375, 59.3360],
-    name: { de: "Birka und Hovgarden", hu: "Birka es Hovgarden", ro: "Birka si Hovgarden", en: "Birka and Hovgarden" },
+    name: { de: "Birka und Hovgarden", hu: "Birka és Hovgården", ro: "Birka și Hovgården", en: "Birka and Hovgården" },
     description: {
+      de: "Birka und Hovgården sind bedeutende archäologische Stätten der Wikingerzeit auf der Insel Björkö, die Einblicke in den frühen Handel und das Leben im mittelalterlichen Skandinavien bieten.",
+      hu: "Birka és Hovgården a viking kor jelentős régészeti lelőhelyei Björkö szigetén, amelyek betekintést nyújtanak a középkori Skandinávia korai kereskedelmébe és életébe.",
+      ro: "Birka și Hovgården sunt situri arheologice importante din epoca vikingă pe insula Björkö, oferind perspective asupra comerțului timpuriu și vieții din Scandinavia medievală.",
+      en: "Birka and Hovgården are significant Viking Age archaeological sites on the island of Björkö, offering insights into early trade and life in medieval Scandinavia."
+    },
+    descriptionAdvanced: {
       en: "Birka and Hovgarden form one of Sweden's most important Viking Age heritage landscapes. Birka was a key trading town on Bjorko in Lake Malaren and helped connect Scandinavia with the wider world. Hovgarden on the nearby mainland was the royal estate that supported the settlement. Together they show the power, trade, and early urban life of medieval Sweden.",
       de: "Birka und Hovgarden bilden eine der wichtigsten Kulturlandschaften der Wikingerzeit in Schweden. Birka war eine wichtige Handelsstadt auf Bjorko im Malaren und verband Skandinavien mit der weiteren Welt. Hovgarden auf dem nahegelegenen Festland war der Koenigssitz, der die Siedlung unterstuetzte. Zusammen zeigen sie Macht, Handel und das fruhe Stadtleben des mittelalterlichen Schwedens.",
       hu: "Birka es Hovgarden Svedorszag egyik legfontosabb viking kori oroksegtaja. Birka a Malaren to Bjorko szigeten fekvo fontos kereskedovaros volt, amely Skandinaviat a szelesebb vilaggal kototte ossze. A kozeli Hovgarden a kiralyi birtok volt, amely tamogatta a telepulest. Egyutt mutatjak be a hatalmat, a kereskedelmet es a korai varosi eletet.",
@@ -523,8 +671,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [16.3633, 56.6616],
-    name: { de: "Kalmar Schloss", hu: "Kalmar var", ro: "Castelul Kalmar", en: "Kalmar Castle" },
+    name: { de: "Schloss Kalmar", hu: "Kalmari vár", ro: "Castelul Kalmar", en: "Kalmar Castle" },
     description: {
+      de: "Das Schloss Kalmar ist eine der am besten erhaltenen Renaissance-Festungen Nordeuropas, bekannt für seine strategische Bedeutung in der Geschichte der Kalmarer Union.",
+      hu: "A kalmari vár Észak-Európa egyik legjobb állapotban fennmaradt reneszánsz erődítménye, amely a Kalmari Unió történetében betöltött stratégiai szerepéről ismert.",
+      ro: "Castelul Kalmar este una dintre cele mai bine conservate fortărețe renascentiste din Europa de Nord, cunoscut pentru importanța sa strategică în istoria Uniunii de la Kalmar.",
+      en: "Kalmar Castle is one of the best-preserved Renaissance fortresses in Northern Europe, known for its strategic importance in the history of the Kalmar Union."
+    },
+    descriptionAdvanced: {
       en: "Kalmar Castle is one of Sweden's most famous Renaissance fortresses on the Baltic coast. It helped defend the kingdom and became closely linked to the Kalmar Union, one of the great political unions of Nordic history. The castle sits by the water and gives visitors a clear view of Sweden's eastern defensive past. Today it works as a major heritage attraction and museum site.",
       de: "Das Schloss Kalmar ist eine der bekanntesten Renaissancefestungen Schwedens an der Ostseekuste. Es half bei der Verteidigung des Reiches und wurde eng mit der Kalmarer Union verbunden, einer der grossen politischen Unionen der nordischen Geschichte. Das Schloss liegt direkt am Wasser und vermittelt Besuchern einen klaren Eindruck der ostschwedischen Verteidigungsgeschichte. Heute ist es eine bedeutende Sehenswurdigkeit und Museumsanlage.",
       hu: "A Kalmar var Svedorszag egyik legismertebb reneszansz eroditese a Balti-tenger partjan. Az orszag vedelmben fontos szerepet jatszott, es szorosan kotodik a Kalmari Uniotahoz, az eszaki tortenelem egyik legfontosabb politikai szovetsegehez. A var a viz mellett all, es jol megmutatja Svedorszag keleti vedelemtörténetet. Ma nagy oroksegi latvanyossag es muzeumi helyszin.",
@@ -543,8 +697,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [17.2057, 59.2487],
-    name: { de: "Gripsholm Schloss", hu: "Gripsholm var", ro: "Castelul Gripsholm", en: "Gripsholm Castle" },
+    name: { de: "Schloss Gripsholm", hu: "Gripsholmi vár", ro: "Castelul Gripsholm", en: "Gripsholm Castle" },
     description: {
+      de: "Das Schloss Gripsholm ist ein prächtiges königliches Schloss am Mälarensee, bekannt für seine beeindruckende Porträtsammlung und seine reiche Geschichte als Residenz der Vasa-Könige.",
+      hu: "A Gripsholmi vár egy pompás királyi kastély a Mälaren-tó partján, amely lenyűgöző portrégyűjteményéről és a Vasa-királyok rezidenciájaként ismert.",
+      ro: "Castelul Gripsholm este un magnific castel regal pe malul lacului Mälaren, cunoscut pentru colecția sa impresionantă de portrete și istoria sa bogată ca reședință a regilor Vasa.",
+      en: "Gripsholm Castle is a magnificent royal castle on Lake Mälaren, known for its impressive portrait collection and rich history as a residence of the Vasa kings."
+    },
+    descriptionAdvanced: {
       en: "Gripsholm Castle rises above Lake Malaren and is one of the great royal castles of Sweden. It grew from a medieval fortress into a Renaissance residence for the Vasa kings. The castle is famous for its portrait collection, thick towers, and scenic lakeside setting. It remains a strong symbol of royal power, art, and state history.",
       de: "Das Schloss Gripsholm erhebt sich uber dem Malaren und ist eines der grossen Koenigsschlosser Schwedens. Es entwickelte sich von einer mittelalterlichen Festung zu einer Renaissance-Residenz der Vasa-Koenige. Das Schloss ist beruhmt fur seine Portratssammlung, seine dicken Turme und seine malerische Lage am See. Es bleibt ein starkes Symbol fur Koenigsmacht, Kunst und Staatsgeschichte.",
       hu: "A Gripsholmi var a Malaren to partjan emelkedik, es Svedorszag egyik nagy kiralyi vara. Kozepkori eroditmenybol a Vasa kiralyok reneszansz rezidenciajava fejlodott. A var hires portregyujtemenyerol, vaskos tornyairol es festoi toparti fekveserol. Ma is eros szimboluma a kiralyi hatalomnak, a muveszetnek es az allamtortenetnek.",
@@ -563,8 +723,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [17.6328, 59.8731],
-    name: { de: "Gamla Uppsala", hu: "Regi Uppsala", ro: "Gamla Uppsala", en: "Gamla Uppsala" },
+    name: { de: "Gamla Uppsala", hu: "Régi Uppsala", ro: "Gamla Uppsala", en: "Gamla Uppsala" },
     description: {
+      de: "Gamla Uppsala ist eine der bedeutendsten historischen Stätten Schwedens, bekannt für ihre drei monumentalen königlichen Grabhügel aus der Eisenzeit und als religiöses Zentrum der Wikinger.",
+      hu: "Gamla Uppsala Svédország egyik legfontosabb történelmi helyszíne, amely három monumentális vaskori királyi sírhalmáról és a vikingek vallási központjaként ismert.",
+      ro: "Gamla Uppsala este unul dintre cele mai importante situri istorice din Suedia, cunoscut pentru cele trei movile funerare regale monumentale din epoca fierului și ca centru religios al vikingilor.",
+      en: "Gamla Uppsala is one of Sweden's most important historical sites, known for its three monumental royal burial mounds from the Iron Age and as a Viking religious center."
+    },
+    descriptionAdvanced: {
       en: "Gamla Uppsala is one of the most important historical sites in Sweden's early state formation. Its burial mounds, older church site, and landscape traditions point back to pre-Christian and Viking-era power centers. The area is strongly tied to kings, rituals, and the idea of a sacred royal landscape. It is a key place for understanding the deep roots of Swedish history.",
       de: "Gamla Uppsala ist eine der wichtigsten historischen Statten der fruhen schwedischen Staatsbildung. Seine Grabhugel, der alte Kirchenstandort und die Landschaftstraditionen weisen auf vorchristliche und wikingerzeitliche Machtzentren hin. Das Gebiet ist eng mit Konigen, Ritualen und der Idee einer heiligen koniglichen Landschaft verbunden. Es ist ein Schlupelort zum Verstandnis der tiefen Wurzeln der schwedischen Geschichte.",
       hu: "Gamla Uppsala Svedorszag korai allamalapitasanak egyik legfontosabb tortenelmi helyszine. Sirhalmai, a regi templomhely es a tajhagyomanyok a keresztseg elotti es viking kori hatalmi kozpontokra utalnak. A terulet szorosan kapcsolodik a kiralyokhoz, a szertartasokhoz es a szent kiralyi taj gondolatahoz. Kulcsfontossagu hely a sved tortenelem mely gyokerenek megerteseben.",
@@ -585,6 +751,12 @@ export const swedenCulture: POI[] = [
     coords: [14.2065, 55.5046],
     name: { de: "Glimmingehus", hu: "Glimmingehus", ro: "Glimmingehus", en: "Glimmingehus" },
     description: {
+      de: "Glimmingehus ist die am besten erhaltene mittelalterliche Burg Skandinaviens, ein beeindruckendes Beispiel für eine befestigte Adelsresidenz im Süden Schwedens.",
+      hu: "Glimmingehus Skandinávia legjobban megőrzött középkori vára, amely a dél-svédországi erődített nemesi rezidenciák lenyűgöző példája.",
+      ro: "Glimmingehus este cel mai bine conservat castel medieval din Scandinavia, un exemplu impresionant de reședință nobiliară fortificată din sudul Suediei.",
+      en: "Glimmingehus is the best-preserved medieval castle in Scandinavia, an impressive example of a fortified noble residence in southern Sweden."
+    },
+    descriptionAdvanced: {
       en: "Glimmingehus is the best-preserved medieval manor house in Scandinavia. Built in 1499, it shows how wealthy nobles fortified their homes in southern Sweden. Thick walls, defensive details, and a dramatic stone silhouette make it a standout historical attraction. The site is a strong draw for castle travelers and heritage tourism in Skane.",
       de: "Glimmingehus ist das am besten erhaltene mittelalterliche Herrenhaus Skandinaviens. Das 1499 erbaute Haus zeigt, wie wohlhabende Adlige ihre Wohnsitze in Sudschweden befestigten. Dicke Mauern, defensive Details und eine dramatische Silhouette aus Stein machen es zu einer herausragenden historischen Attraktion. Der Ort ist ein starker Anziehungspunkt fur Schlossreisende und Kulturtourismus in Skane.",
       hu: "Glimmingehus Skandinavia legjobban megorzott kozepkori udvarhaz-a. Az 1499-ben epitett epulet jol mutatja, hogyan erositettek meg a gazdag nemesek a deli svedorszagi otthonaikat. Vastag falai, vedelmi reszletei es dramai kovi sziluettje kulonleges tortenelmi latvannyá teszik. A hely eros vonzerot jelent a varakat kedvelo utazok es a skanei oroksegturizmus szamara.",
@@ -603,8 +775,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [11.9090, 57.6967],
-    name: { de: "Alvsborg Festung", hu: "Alvsborg erod", ro: "Fortareata Alvsborg", en: "Alvsborg Fortress" },
+    name: { de: "Festung Älvsborg", hu: "Älvsborg erőd", ro: "Fortăreața Älvsborg", en: "Älvsborg Fortress" },
     description: {
+      de: "Die Festung Älvsborg bewachte einst die Einfahrt nach Göteborg und war eine der wichtigsten Verteidigungsanlagen an der schwedischen Westküste.",
+      hu: "Az Älvsborg erőd egykor Göteborg bejáratát őrizte, és Svédország nyugati partjának egyik legfontosabb védelmi létesítménye volt.",
+      ro: "Fortăreața Älvsborg a păzit odinioară intrarea în Göteborg și a fost una dintre cele mai importante instalații de apărare de pe coasta de vest a Suediei.",
+      en: "Älvsborg Fortress once guarded the entrance to Gothenburg and was one of the most important defensive installations on the Swedish west coast."
+    },
+    descriptionAdvanced: {
       en: "Alvsborg Fortress guarded the entrance to Gothenburg and the Swedish west coast. Its role in defense made it one of the most important military positions in the region. The old fortress was tied to wars with Denmark and to the protection of trade routes into the North Sea. Today the location is remembered as a key chapter in Gothenburg's early security history.",
       de: "Die Festung Alvsborg bewachte die Einfahrt nach Gothenburg und die schwedische Westkuste. Ihre Verteidigungsrolle machte sie zu einer der wichtigsten Militarstellungen der Region. Die alte Festung war mit den Kriegen gegen Danemark und mit dem Schutz der Handelswege zur Nordsee verbunden. Heute erinnert der Ort an ein wichtiges Kapitel der fruhen Sicherheitsgeschichte Gothenburgs.",
       hu: "Az Alvsborgi erod Gothenburg bejaratat es Svedorszag nyugati partjat védte. Vedelmi szerepe miatt a regio egyik legfontosabb katonai pontja volt. A regi erod a Dania elleni haborukhoz es az Eszaki-tengerre nyilo kereskedelmi utak vedelmehez kotodott. Ma a hely Gothenburg korai biztonsagtortenetenek fontos fejezete.",
@@ -623,8 +801,14 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [13.1905, 55.7038],
-    name: { de: "Schlacht bei Lund", hu: "Lundi csata", ro: "Batalia de la Lund", en: "Battle of Lund" },
+    name: { de: "Schlacht bei Lund", hu: "Lundi csata", ro: "Bătălia de la Lund", en: "Battle of Lund" },
     description: {
+      de: "Die Schlacht bei Lund im Jahr 1676 war eine der blutigsten Auseinandersetzungen in der nordischen Geschichte und sicherte Schwedens Herrschaft über Schonen.",
+      hu: "Az 1676-os lundi csata az északi történelem egyik legvéresebb összecsapása volt, amely biztosította Svédország uralmát Skåne felett.",
+      ro: "Bătălia de la Lund din 1676 a fost una dintre cele mai sângeroase confruntări din istoria nordică și a asigurat stăpânirea Suediei asupra regiunii Skåne.",
+      en: "The Battle of Lund in 1676 was one of the bloodiest confrontations in Nordic history and secured Sweden's rule over Scania."
+    },
+    descriptionAdvanced: {
       en: "The Battle of Lund in 1676 was one of the bloodiest battles fought in the Nordic countries. It took place near Lund during the Scanian War between Sweden and Denmark. The outcome helped secure Swedish control over Scania and became a defining moment in regional history. Today the battlefield is remembered as a major historical landmark of southern Sweden.",
       de: "Die Schlacht bei Lund von 1676 war eine der blutigsten Schlachten, die in den nordischen Landern geschlagen wurden. Sie fand nahe Lund wahrend des Schonischen Krieges zwischen Schweden und Danemark statt. Das Ergebnis half, die schwedische Kontrolle uber Skane zu sichern, und wurde zu einem prageenden Moment der Regionalgeschichte. Heute gilt das Schlachtfeld als wichtiges historisches Wahrzeichen Sudschwedens.",
       hu: "Az 1676-os lundi csata az egyik legveresebb csata volt, amelyet az eszaki orszagokban vivtak. Lund kozeleben zajlott a Svedorszag es Dania kozotti Skanei haboruban. Az eredmeny segitett megszilarditani Svedorszag skanei uralmat, es meghatarozo pillanatta valt a regio torteneteben. Ma a csatatert deli Svedorszag fontos tortenelmi helyszineként tartjak szamon.",
@@ -826,8 +1010,14 @@ export const swedenCulture: POI[] = [
     type: "port",
     parent: "SE",
     coords: [11.8740, 57.7090],
-    name: { de: "Hafen von Gothenburg", hu: "Gothenburgi kikoto", ro: "Portul Gothenburg", en: "Port of Gothenburg" },
+    name: { de: "Hafen von Göteborg", hu: "Göteborgi kikötő", ro: "Portul Göteborg", en: "Port of Gothenburg" },
     description: {
+      de: "Der Hafen von Göteborg ist der größte Hafen Skandinaviens und ein entscheidendes Logistikdrehkreuz für den schwedischen Außenhandel.",
+      hu: "A göteborgi kikötő Skandinávia legnagyobb kikötője és a svéd külkereskedelem döntő fontosságú logisztikai csomópontja.",
+      ro: "Portul Göteborg este cel mai mare port din Scandinavia și un nod logistic crucial pentru comerțul exterior al Suediei.",
+      en: "The Port of Gothenburg is the largest port in Scandinavia and a crucial logistics hub for Sweden's foreign trade."
+    },
+    descriptionAdvanced: {
       en: "The Port of Gothenburg is the largest port in the Nordic countries and a critical logistics gateway for Sweden. It handles container traffic, vehicle exports, and large volumes of energy and bulk cargo. The port's west coast position connects Swedish industry to global shipping routes. It is one of the clearest examples of Sweden's modern trade infrastructure.",
       de: "Der Hafen von Gothenburg ist der grosste Hafen der nordischen Lander und ein entscheidendes Logistiktor fur Schweden. Er wickelt Containerverkehr, Autoexporte und grosse Mengen an Energie- und Schuttgut ab. Die Lage an der Westkuste verbindet die schwedische Industrie mit globalen Schifffahrtsrouten. Er ist eines der klarsten Beispiele fur Schwedens moderne Handelsinfrastruktur.",
       hu: "A Gothenburgi kikoto az eszaki orszagok legnagyobb kikotoje es Svedorszag egyik legfontosabb logisztikai kapuja. Kontenerforgalmat, autoexportot es nagy mennyisegu energia- es tomegarut kezel. Nyugati parti fekvese a sved ipart a nemzetkozi hajozasi utvonalakhoz kapcsolja. Ez az egyik legjobb pelda Svedorszag modern kereskedelmi infrastruktúrajara.",
@@ -846,8 +1036,14 @@ export const swedenCulture: POI[] = [
     type: "port",
     parent: "SE",
     coords: [18.1170, 59.3130],
-    name: { de: "Hafen von Stockholm", hu: "Stockholmi kikoto", ro: "Portul Stockholm", en: "Port of Stockholm" },
+    name: { de: "Hafen von Stockholm", hu: "Stockholmi kikötő", ro: "Portul Stockholm", en: "Port of Stockholm" },
     description: {
+      de: "Der Hafen von Stockholm ist ein wichtiges Tor für den Fähr- und Kreuzfahrtverkehr in der Ostsee und verbindet die Hauptstadt mit den Nachbarländern.",
+      hu: "A stockholmi kikötő a balti-tengeri komp- és kruzforgalom fontos kapuja, amely összeköti a fővárost a szomszédos országokkal.",
+      ro: "Portul Stockholm este o poartă importantă pentru traficul de feriboturi și croaziere în Marea Baltică, conectând capitala cu țările vecine.",
+      en: "The Port of Stockholm is a major gateway for ferry and cruise traffic in the Baltic Sea, connecting the capital with neighboring countries."
+    },
+    descriptionAdvanced: {
       en: "The Port of Stockholm serves cruise traffic, ferry links, and Baltic logistics in Sweden's capital region. It is a practical gateway for passengers and goods moving across the Baltic Sea. The port also supports tourism by connecting Stockholm with nearby islands and neighboring countries. Its role is both urban and international, making it a key infrastructure point for the capital.",
       de: "Der Hafen von Stockholm dient Kreuzfahrten, Fährverbindungen und der Ostsee-Logistik in der Hauptstadtregion Schwedens. Er ist ein praktisches Tor fur Passagiere und Waren, die uber die Ostsee reisen. Der Hafen unterstutzt ausserdem den Tourismus, indem er Stockholm mit nahen Inseln und Nachbarlandern verbindet. Seine Rolle ist sowohl stadtisch als auch international und macht ihn zu einem wichtigen Infrastrukturelement der Hauptstadt.",
       hu: "A Stockholmi kikoto kruzforgalmat, kompkapcsolatokat es balti logisztikat szolgal a sved fovaros regioban. Praktikus kapu az utasok es az aru szamara, akik a Balti-tengeren kozlekednek. A kikoto a turizmust is tamogatja, mert osszekoti Stockholmot a kozeli szigetekkel es a szomszedos orszagokkal. Szerepe egyszerre varosi es nemzetkozi, ezert kulcsfontossagu infrastrukturális pont.",
@@ -866,8 +1062,14 @@ export const swedenCulture: POI[] = [
     type: "port",
     parent: "SE",
     coords: [22.1540, 65.5760],
-    name: { de: "Hafen von Lulea", hu: "Luleai kikoto", ro: "Portul Lulea", en: "Port of Lulea" },
+    name: { de: "Hafen von Luleå", hu: "Luleåi kikötő", ro: "Portul Luleå", en: "Port of Lulea" },
     description: {
+      de: "Der Hafen von Luleå ist ein arktisches Logistikzentrum in Nordschweden, entscheidend für den Export von Eisenerz und Stahlprodukten.",
+      hu: "A luleåi kikötő egy arktikus logisztikai központ Észak-Svédországban, amely döntő fontosságú a vasérc és az acéltermékek exportja szempontjából.",
+      ro: "Portul Luleå este un centru logistic arctic din nordul Suediei, crucial pentru exportul de minereu de fier și produse siderurgice.",
+      en: "The Port of Luleå is an Arctic logistics hub in northern Sweden, crucial for the export of iron ore and steel products."
+    },
+    descriptionAdvanced: {
       en: "The Port of Lulea is an Arctic gateway for northern Sweden and a crucial point for bulk exports. It helps move iron ore, steel products, and other industrial cargo through the Gulf of Bothnia. The port's location supports winter logistics and year-round supply chains in the far north. It is one of the strongest examples of Sweden's northern export economy.",
       de: "Der Hafen von Lulea ist ein arktisches Tor fur Nordschweden und ein entscheidender Punkt fur Massengutexporte. Er hilft beim Transport von Eisenerz, Stahlprodukten und anderen Industriegutern uber den Bottnischen Meerbusen. Die Lage des Hafens unterstutzt Winterlogistik und ganzjahrige Lieferketten im hohen Norden. Er ist eines der starksten Beispiele fur Schwedens nordliche Exportwirtschaft.",
       hu: "A Luleai kikoto sarki kapu Eszak-Svedorszag szamara es kulcsfontossagu pont a tomegaru-exportban. A Botteni-obolon keresztul segit mozgatni a vasercet, aceltermekeket es mas ipari arukat. Fekvese tamogatja a telilogisztikat es az egesz eves ellatasi lancokat a tavoli eszakon. Ez Svedorszag eszaki exportgazdasaganak egyik legerosebb peldaja.",
@@ -887,8 +1089,14 @@ export const swedenCulture: POI[] = [
     type: "industry",
     parent: "SE",
     coords: [11.8810, 57.7080],
-    name: { de: "Volvo Werk Torslanda", hu: "Volvo Torslanda gyar", ro: "Uzina Volvo Torslanda", en: "Volvo Torslanda Plant" },
+    name: { de: "Volvo-Werk Torslanda", hu: "Volvo Torslanda gyár", ro: "Uzina Volvo Torslanda", en: "Volvo Torslanda Plant" },
     description: {
+      de: "Das Volvo-Werk Torslanda in Göteborg ist eine der größten Automobilfabriken Schwedens und ein Symbol für die starke industrielle Tradition des Landes.",
+      hu: "A göteborgi Volvo Torslanda gyár Svédország egyik legnagyobb autógyára és az ország erős ipari hagyományainak szimbóluma.",
+      ro: "Uzina Volvo Torslanda din Göteborg este una dintre cele mai mari fabrici de automobile din Suedia și un simbol al tradiției industriale puternice a țării.",
+      en: "The Volvo Torslanda Plant in Gothenburg is one of Sweden's largest car manufacturing facilities and a symbol of the country's strong industrial tradition."
+    },
+    descriptionAdvanced: {
       en: "The Volvo Torslanda Plant is one of Sweden's best known industrial sites and a major car manufacturing location. It represents the country's strong automotive tradition and export-oriented engineering. The plant has been central to the Volvo brand for decades and remains tied to Gothenburg's industrial identity. For SEO purposes, it is one of the clearest examples of modern Swedish industry.",
       de: "Das Volvo-Werk Torslanda ist eine der bekanntesten Industriestatten Schwedens und ein wichtiger Standort fur die Automobilproduktion. Es steht fur die starke Automobiltradition des Landes und exportorientierte Ingenieurskunst. Das Werk ist seit Jahrzehnten zentral fur die Marke Volvo und bleibt mit Gothenburgs industrieller Identitat verbunden. Fur SEO-Zwecke ist es eines der klarsten Beispiele fur moderne schwedische Industrie.",
       hu: "A Volvo Torslanda gyar Svedorszag egyik legismertebb ipari helyszine es fontos autogyartasi kozpont. Az orszag eros autopródusi hagyomanyat es exportorientalt mérnoki kultúrájat kepviseli. A gyar evtizedek ota a Volvo marka kozponti resze, es tovabbra is kapcsolodik Gothenburg ipari identitasahoz. SEO-szempontbol ez az egyik legtisztabb pelda a modern sved iparra.",
@@ -907,8 +1115,14 @@ export const swedenCulture: POI[] = [
     type: "industry",
     parent: "SE",
     coords: [20.2250, 67.8530],
-    name: { de: "LKAB Mine Kiruna", hu: "LKAB kirunai banyaja", ro: "Mina LKAB Kiruna", en: "LKAB Kiruna Mine" },
+    name: { de: "LKAB-Eisenerzgrube Kiruna", hu: "LKAB kirunai vasércbánya", ro: "Mina de fier LKAB Kiruna", en: "LKAB Kiruna Mine" },
     description: {
+      de: "Die LKAB-Grube in Kiruna ist das weltweit größte und modernste unterirdische Eisenerzbergwerk, ein Eckpfeiler der schwedischen Industrie im hohen Norden.",
+      hu: "A kirunai LKAB bánya a világ legnagyobb és legmodernebb földalatti vasércbányája, a svéd ipar egyik alappillére a távoli északon.",
+      ro: "Mina LKAB din Kiruna este cea mai mare și mai modernă mină subterană de minereu de fier din lume, o piatră de temelie a industriei suedeze în nordul îndepărtat.",
+      en: "The LKAB Kiruna Mine is the world's largest and most modern underground iron ore mine, a cornerstone of Swedish industry in the far north."
+    },
+    descriptionAdvanced: {
       en: "The LKAB Kiruna Mine is one of the world's most important iron ore mines and a cornerstone of Sweden's mining industry. It helped make Kiruna famous and continues to shape the city's relocation and economy. The mine sits in the far north and supports global steel supply chains with high-quality ore. It is a powerful example of how Swedish industry connects remote geography to international markets.",
       de: "Die LKAB-Mine in Kiruna ist eine der wichtigsten Eisenerzminen der Welt und ein Eckpfeiler der schwedischen Bergbauindustrie. Sie machte Kiruna beruehmt und pragt bis heute die Umsiedlung und Wirtschaft der Stadt. Die Mine liegt im hohen Norden und unterstutzt globale Stahl-Lieferketten mit hochwertigem Erz. Sie ist ein starkes Beispiel dafur, wie die schwedische Industrie entlegene Geografie mit internationalen Markten verbindet.",
       hu: "A kirunai LKAB banya a vilag egyik legfontosabb vasercbanyaja es a sved banyaszati ipar egyik alappillere. Hozzajarult Kiruna hiressegehez, es ma is formálja a varos attelepiteset es gazdasagat. A banyа az eszaki sarkhoz kozel helyezkedik el, es jo minosegu erccel tamogatja a globalis acellancokat. Ertelmes pelda arra, hogyan kapcsolja ossze a sved ipar a tavoli foldrajzot a nemzetkozi piacokkal.",
@@ -927,8 +1141,14 @@ export const swedenCulture: POI[] = [
     type: "agriculture",
     parent: "SE",
     coords: [16.6200, 56.7100],
-    name: { de: "Oland Alvar", hu: "Oland Alvar", ro: "Oland Alvar", en: "Oland Alvar" },
+    name: { de: "Stora Alvaret (Öland)", hu: "Stora Alvaret (Öland)", ro: "Stora Alvaret (Öland)", en: "Stora Alvaret (Öland)" },
     description: {
+      de: "Das Stora Alvaret auf der Insel Öland ist eine einzigartige Kalkstein-Heidelandschaft und UNESCO-Welterbe, geprägt von jahrtausendealter landwirtschaftlicher Nutzung.",
+      hu: "Az Öland szigetén található Stora Alvaret egy egyedülálló mészkő-fennsík és UNESCO Világörökség, amelyet évezredes mezőgazdasági használat formált.",
+      ro: "Stora Alvaret de pe insula Öland este un peisaj unic de stepă calcaroasă și sit UNESCO, marcat de milenii de utilizare agricolă.",
+      en: "Stora Alvaret on the island of Öland is a unique limestone plateau and UNESCO World Heritage site, shaped by millennia of agricultural use."
+    },
+    descriptionAdvanced: {
       en: "Oland Alvar is one of Sweden's most distinctive agricultural landscapes and a UNESCO-listed cultural landscape on the island of Oland. The open limestone plain has supported grazing, farming, and low-intensity land use for centuries. Windmills, stone walls, and wide horizons make the area highly recognizable and easy to market in travel search. It is a strong example of how agriculture can shape both scenery and identity.",
       de: "Oland Alvar ist eine der markantesten Agrarlandschaften Schwedens und eine UNESCO-geschutzte Kulturlandschaft auf der Insel Oland. Die offene Kalkebene wird seit Jahrhunderten fur Weidewirtschaft, Landwirtschaft und extensive Bodennutzung genutzt. Windmuhlen, Steinmauern und weite Horizonte machen die Gegend sehr wiedererkennbar und leicht in der Reisesuche zu vermarkten. Sie ist ein starkes Beispiel dafur, wie Landwirtschaft sowohl Landschaft als auch Identitat pragt.",
       hu: "Az Oland Alvar Svedorszag egyik legkulonlegesebb mezogazdasagi tajegysege es az Oland szigeten fekvo UNESCO-védett kulturális taj. A nyitott meszkosik évszazadok ota legeltetest, foldmuvelest es alacsony intenzitasu foldhasznalatot tamogat. A szelmalmok, kofalak es a tag horizontok miatt a terulet rendkivul felismerheto es utazas-keresesben is jol hasznalhato. Jól mutatja, hogyan formálja a mezogazdasag egyszerre a tajat es az identitast.",
@@ -952,6 +1172,12 @@ export const swedenNature: POI[] = [
     coords: [18.8312, 68.3495],
     name: { de: "Abisko Nationalpark", hu: "Abisko Nemzeti Park", ro: "Parcul Național Abisko", en: "Abisko National Park" },
     description: {
+      de: "Der Abisko-Nationalpark in Schwedisch-Lappland ist weltberühmt für seine spektakulären Polarlichter, den Kungsleden-Wanderweg und seine unberührte arktische Wildnis.",
+      hu: "A svéd Lappföldön található Abisko Nemzeti Park világhírű látványos sarki fényeiről, a Kungsleden túraútvonalról és érintetlen arktikus vadonjáról.",
+      ro: "Parcul Național Abisko din Laponia suedeză este renumit în întreaga lume pentru aurorele sale boreale spectaculoase, traseul de drumeție Kungsleden și sălbăticia sa arctică virgină.",
+      en: "Abisko National Park in Swedish Lapland is world-famous for its spectacular Northern Lights, the Kungsleden hiking trail, and its pristine Arctic wilderness."
+    },
+    descriptionAdvanced: {
       en: "Abisko National Park is located in the heart of Swedish Lapland, known for its stunning Arctic scenery and diverse wildlife. It is one of the best places in the world to see the Northern Lights due to its clear skies and minimal light pollution. The park offers excellent hiking trails, including the start of the famous Kungsleden (King's Trail), and features the beautiful Abisko Canyon and Lake Torneträsk.",
       de: "Der Abisko-Nationalpark liegt im Herzen von Schwedisch-Lappland und ist bekannt für seine beeindruckende arktische Landschaft und seine vielfältige Tierwelt. Aufgrund des klaren Himmels und der minimalen Lichtverschmutzung ist er einer der besten Orte der Welt, um Polarlichter zu sehen. Der Park bietet hervorragende Wanderwege, darunter den Beginn des berühmten Kungsleden (Königsweg), und beherbergt den wunderschönen Abisko-Canyon und den See Torneträsk.",
       hu: "Az Abisko Nemzeti Park a svéd Lappföld szívében található, lenyűgöző sarkvidéki tájairól és változatos élővilágáról ismert. A tiszta égbolt és a minimális fényszennyezés miatt a világ egyik legjobb helye az északi fény megfigyelésére. A park kiváló túraútvonalakat kínál, itt kezdődik a híres Kungsleden (Királyok útja), valamint itt található a gyönyörű Abisko-kanyon és a Torneträsk-tó.",
@@ -970,8 +1196,14 @@ export const swedenNature: POI[] = [
     type: "landmark",
     parent: "sweden",
     coords: [18.2948, 57.6348],
-    name: { de: "Gotland + Visby", hu: "Gotland + Visby", ro: "Gotland + Visby", en: "Gotland + Visby" },
+    name: { de: "Gotland und Visby", hu: "Gotland és Visby", ro: "Gotland și Visby", en: "Gotland and Visby" },
     description: {
+      de: "Gotland ist Schwedens größte Insel, bekannt für die mittelalterliche Hansestadt Visby, ihre einzigartigen Kalksteinfelsen ('Raukar') und ihre reiche Wikingergeschichte.",
+      hu: "Gotland Svédország legnagyobb szigete, amely a középkori hanza-városról, Visbyről, egyedülálló mészkőoszlopairól („raukar”) és gazdag viking történelméről ismert.",
+      ro: "Gotland este cea mai mare insulă a Suediei, cunoscută pentru orașul hanseatic medieval Visby, stâncile sale de calcar unice („raukar”) și istoria sa bogată a vikingilor.",
+      en: "Gotland is Sweden's largest island, known for the medieval Hanseatic town of Visby, its unique limestone stacks ('raukar'), and rich Viking history."
+    },
+    descriptionAdvanced: {
       en: "Gotland is Sweden's largest island, located in the Baltic Sea, with the medieval town of Visby as its main center. Visby is a UNESCO World Heritage site, famous for its 13th-century town wall and well-preserved medieval architecture. The island's landscape features unique limestone formations called 'raukar' and beautiful sandy beaches.",
       de: "Gotland ist die größte Insel Schwedens in der Ostsee, mit der mittelalterlichen Stadt Visby als Hauptzentrum. Visby gehört zum UNESCO-Weltkulturerbe und ist berühmt für seine Stadtmauer aus dem 13. Jahrhundert und die gut erhaltene mittelalterliche Architektur. Die Landschaft der Insel ist geprägt von einzigartigen Kalksteinformationen, den 'Raukar', und wunderschönen Sandstränden.",
       hu: "Gotland Svédország legnagyobb szigete a Balti-tengeren, fő központja a középkori Visby városa. Visby az UNESCO Világörökség része, híres 13. századi városfaláról és jó állapotban fennmaradt középkori építészetéről. A sziget tájképét egyedülálló mészkőképződmények, úgynevezett 'raukar'-ok és gyönyörű homokos strandok jellemzik.",
@@ -992,6 +1224,12 @@ export const swedenNature: POI[] = [
     coords: [18.7, 67.3],
     name: { de: "Laponia-Region", hu: "Laponia régió", ro: "Regiunea Laponia", en: "Laponia Region" },
     description: {
+      de: "Die Laponia-Region ist eine gewaltige arktische Wildnis und UNESCO-Welterbe, die Heimat des Volkes der Samen und ein Ort von außergewöhnlicher natürlicher Schönheit.",
+      hu: "Laponia vidéke egy hatalmas arktikus vadon és UNESCO Világörökség, a számi nép otthona és rendkívüli természeti szépségű terület.",
+      ro: "Regiunea Laponia este o vastă sălbăticie arctică și sit UNESCO, casa poporului Sámi și un loc de o frumusețe naturală extraordinară.",
+      en: "The Laponia region is a vast Arctic wilderness and UNESCO World Heritage site, home to the Sámi people and a place of extraordinary natural beauty."
+    },
+    descriptionAdvanced: {
       en: "The Laponia area in Swedish Lapland is a massive wilderness and a UNESCO World Heritage site, recognized for both its natural beauty and cultural significance. It is home to the Sámi people, who have practiced traditional reindeer herding here for centuries. The region includes four national parks and two nature reserves, featuring spectacular mountains, glaciers, and ancient forests.",
       de: "Das Gebiet Laponia in Schwedisch-Lappland ist eine gewaltige Wildnis und UNESCO-Weltkulturerbe, das sowohl für seine natürliche Schönheit als auch für seine kulturelle Bedeutung anerkannt ist. Es ist die Heimat der Samen, die hier seit Jahrhunderten traditionelle Rentierzucht betreiben. Die Region umfasst vier Nationalparks und zwei Naturschutzgebiete mit spektakulären Bergen, Gletschern und alten Wäldern.",
       hu: "A svéd Lappföldön található Laponia vidéke egy hatalmas vadon és az UNESCO Világörökség része, amelyet természeti szépsége és kulturális jelentősége miatt is elismertek. Itt élnek a számi emberek, akik évszázadok óta folytatják a hagyományos rénszarvaspásztorkodást. A régió négy nemzeti parkot és két természetvédelmi területet foglal magában, látványos hegyekkel, gleccserekkel és ősi erdőkkel.",
@@ -1010,8 +1248,14 @@ export const swedenNature: POI[] = [
     type: "landmark",
     parent: "sweden",
     coords: [18.5, 59.4],
-    name: { de: "Stockholmer Schärengarten", hu: "Stockholm-archipelagó", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago" },
+    name: { de: "Stockholmer Schärengarten", hu: "Stockholmi szigetvilág", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago" },
     description: {
+      de: "Der Stockholmer Schärengarten besteht aus etwa 30.000 Inseln und bietet eine atemberaubende Landschaft aus Granitfelsen, tiefblauen Gewässern und idyllischen Sommerhäusern.",
+      hu: "A stockholmi szigetvilág mintegy 30 000 szigetből áll, és lenyűgöző tájat kínál gránitsziklákkal, mélykék vizekkel és idilli nyaralókkal.",
+      ro: "Arhipelagul Stockholm este format din aproximativ 30.000 de insule și oferă un peisaj uluitor de stânci de granit, ape albastre adânci și case de vară idilice.",
+      en: "The Stockholm Archipelago consists of about 30,000 islands and offers a stunning landscape of granite rocks, deep blue waters, and idyllic summer houses."
+    },
+    descriptionAdvanced: {
       en: "The Stockholm Archipelago is the largest archipelago in Sweden and the second largest in the Baltic Sea, consisting of approximately 30,000 islands and islets. Stretching from the city center far into the Baltic, it offers a stunning landscape of rocky shores, sandy beaches, and traditional wooden summer houses. It is a popular destination for boating, fishing, and exploring the diverse nature of the islands.",
       de: "Der Stockholmer Schärengarten ist der größte Archipel Schwedens und der zweitgrößte in der Ostsee, bestehend aus etwa 30.000 Inseln und Schären. Er erstreckt sich vom Stadtzentrum weit in die Ostsee hinein und bietet eine beeindruckende Landschaft mit felsigen Ufern, Sandstränden und traditionellen Sommerhäusern aus Holz. Er ist ein beliebtes Ziel zum Bootfahren, Angeln und Erkunden der vielfältigen Natur der Inseln.",
       hu: "A stockholmi szigetvilág Svédország legnagyobb és a Balti-tenger második legnagyobb szigetcsoportja, amely körülbelül 30 000 szigetből és sziklazátonyból áll. A városközponttól távol a Balti-tengerbe nyúlva lenyűgöző tájat kínál sziklás partokkal, homokos strandokkal és hagyományos fából készült nyaralókkal. Népszerű úti cél hajózáshoz, horgászathoz és a szigetek változatos természetének felfedezéséhez.",

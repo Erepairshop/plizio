@@ -7,40 +7,70 @@ export const switzerlandCountry: POI = {
   coords: [8.2275, 46.8182],
   name: {
     de: "Schweiz",
-    hu: "SvÃ¡jc",
-    ro: "ElveÈ›ia",
+    hu: "Svájc",
+    ro: "Elveția",
     en: "Switzerland"
   },
   description: {
-    de: "Die Schweiz ist ein Binnenstaat in Mitteleuropa, bekannt fÃ¼r ihre Berge, Uhren und Schokolade. Sie hat vier offizielle Sprachen und eine lange Tradition der NeutralitÃ¤t. Die Hauptstadt ist Bern.",
-    hu: "SvÃ¡jc egy kÃ¶zÃ©p-eurÃ³pai orszÃ¡g, amely hegyeirÅ‘l, Ã³rÃ¡irÃ³l Ã©s csokolÃ¡dÃ©jÃ¡rÃ³l ismert. NÃ©gy hivatalos nyelve van, Ã©s hosszÃº semlegessÃ©gi hagyomÃ¡nnyal rendelkezik. FÅ‘vÃ¡rosa Bern.",
-    ro: "ElveÈ›ia este o È›arÄƒ fÄƒrÄƒ ieÈ™ire la mare din Europa CentralÄƒ, cunoscutÄƒ pentru munÈ›ii, ceasurile È™i ciocolata sa. Are patru limbi oficiale È™i o lungÄƒ tradiÈ›ie de neutralitate. Capitala este Berna.",
-    en: "Switzerland is a landlocked country in Central Europe, known for its mountains, watches, and chocolate. It has four official languages and a long tradition of neutrality. The capital is Bern."
+    de: "Die Schweiz ist ein Alpenland in Mitteleuropa, bekannt für ihre atemberaubenden Berglandschaften, erstklassige Uhren, köstliche Schokolade und ihre jahrhundertelange Tradition der Neutralität.",
+    hu: "Svájc egy közép-európai alpesi ország, amely lélegzetelállító hegyi tájairól, világszínvonalú óráiról, finom csokoládéjáról és évszázados semlegességi hagyományáról ismert.",
+    ro: "Elveția este o țară alpină din Europa Centrală, cunoscută pentru peisajele sale montane uluitoare, ceasurile de clasă mondială, ciocolata delicioasă și tradiția sa de secole de neutralitate.",
+    en: "Switzerland is an Alpine country in Central Europe, known for its breathtaking mountain landscapes, world-class watches, delicious chocolate, and its centuries-old tradition of neutrality."
+  },
+  descriptionAdvanced: {
+    de: "Die Schweiz, offiziell die Schweizerische Eidgenossenschaft, ist ein faszinierendes Binnenland im Herzen Europas, das für seine außergewöhnliche natürliche Schönheit, seine politische Stabilität und seine kulturelle Vielfalt bekannt ist. Das Land grenzt an Deutschland, Frankreich, Italien, Österreich und Liechtenstein. Die Geografie der Schweiz wird maßgeblich von den Alpen geprägt, die über 60 % der Landesfläche einnehmen und mit Ikonen wie dem Matterhorn und dem Jungfraujoch Bergsteiger und Wintersportler aus aller Welt anlocken. Neben den Bergen besticht die Schweiz durch ihre zahlreichen kristallklaren Seen wie den Genfersee, den Vierwaldstättersee und den Zürichsee. Einzigartig ist das politische System der Schweiz, das auf direkter Demokratie, Föderalismus und einer strikten Neutralität basiert, was das Land zum Sitz zahlreicher internationaler Organisationen wie dem Roten Kreuz und der UNO gemacht hat. Kulturell ist die Schweiz ein Schmelztiegel mit vier offiziellen Landessprachen (Deutsch, Französisch, Italienisch und Rätoromanisch), was sich in einer reichen regionalen Vielfalt an Traditionen, Architektur und Gastronomie widerspiegelt. Kulinarisch ist das Land weltberühmt für seinen Käse (Fondue, Raclette) und seine Schokolade, die als Inbegriff von Qualität gilt. Wirtschaftlich gehört die Schweiz zu den wohlhabendsten und innovativsten Nationen der Welt, mit einer führenden Rolle im Finanzsektor, in der Pharmaindustrie und in der Präzisionsmechanik, insbesondere der Uhrmacherkunst. Ob man mit den berühmten Panoramazügen wie dem Glacier Express durch die Alpen reist, die charmante Hauptstadt Bern erkundet oder die kosmopolitische Atmosphäre in Zürich und Genf genießt – die Schweiz empfängt ihre Besucher mit einer Mischung aus alpiner Idylle, technischer Perfektion und höchster Lebensqualität.",
+    hu: "Svájc, hivatalos nevén a Svájci Konföderáció, egy lenyűgöző szárazföldi ország Európa szívében, amely rendkívüli természeti szépségéről, politikai stabilitásáról és kulturális sokszínűségéről ismert. Az ország Németországgal, Franciaországgal, Olaszországgal, Ausztriával és Liechtensteinnel határos. Svájc földrajzát meghatározzák az Alpok, amelyek az ország területének több mint 60%-át foglalják el, és olyan ikonokkal, mint a Matterhorn és a Jungfraujoch, vonzzák a hegymászókat és a téli sportok kedvelőit a világ minden tájáról. A hegyek mellett Svájc számos kristálytiszta tavával is bűvöl, mint például a Genfi-tó, a Vierwaldstätti-tó és a Zürichi-tó. Egyedülálló Svájc politikai rendszere, amely a közvetlen demokrácián, a föderalizmuson és a szigorú semlegességen alapul, ami számos nemzetközi szervezet, például a Vöröskereszt és az ENSZ székhelyévé tette az országot. Kulturális szempontból Svájc egy olvasztótégely négy hivatalos nyelvvel (német, francia, olasz és romans), ami a hagyományok, az építészet és a gasztronómia gazdag regionális változatosságában tükröződik. Kulinárisan az ország világhírű sajtjairól (fondue, raclette) és csokoládéjáról, amely a minőség szinonimája. Gazdaságilag Svájc a világ egyik leggazdagabb és leginnovatívabb nemzete, vezető szerepet tölt be a pénzügyi szektorban, a gyógyszeriparban és a precíziós mechanikában, különösen az óragyártásban. Akár a híres panorámavonatokkal, például a Glacier Expresszel utazik valaki az Alpokon keresztül, akár a bájos fővárost, Bernt fedezi fel, vagy Zürich és Genf kozmopolita hangulatát élvezi – Svájc az alpesi idill, a technikai tökéletesség és a legmagasabb életminőség keverékével fogadja látogatóit.",
+    ro: "Elveția, oficial Confederația Elvețiană, este o țară fascinantă fără ieșire la mare, situată în inima Europei, cunoscută pentru frumusețea sa naturală extraordinară, stabilitatea politică și diversitatea culturală. Țara se învecinează cu Germania, Franța, Italia, Austria și Liechtenstein. Geografia Elveției este dominată de Alpi, care ocupă peste 60% din suprafața țării și atrag alpiniști și pasionați de sporturi de iarnă din întreaga lume cu simboluri precum Matterhorn și Jungfraujoch. Pe lângă munți, Elveția impresionează prin numeroasele sale lacuri cristaline, cum ar fi Lacul Leman, Lacul celor Patru Cantoane și Lacul Zürich. Sistemul politic al Elveției este unic, bazat pe democrație directă, federalism și o neutralitate strictă, fapt ce a transformat țara în sediul a numeroase organizații internaționale, precum Crucea Roșie și ONU. Din punct de vedere cultural, Elveția este un creuzet cu patru limbi oficiale (germană, franceză, italiană și retoromană), fapt reflectat într-o bogată diversitate regională de tradiții, arhitectură și gastronomie. Din punct de vedere culinar, țara este renumită în întreaga lume pentru brânzeturile sale (fondue, raclette) și ciocolata sa, considerată simbolul calității. Din punct de vedere economic, Elveția este una dintre cele mai prospere și inovatoare națiuni din lume, având un rol de lider în sectorul financiar, industria farmaceutică și mecanica de precizie, în special orologeria. Fie că călătoriți cu faimoasele trenuri panoramice precum Glacier Express prin Alpi, explorați fermecătoarea capitală Berna sau vă bucurați de atmosfera cosmopolită din Zürich și Geneva – Elveția își întâmpină vizitatorii cu un amestec de idilă alpină, perfecțiune tehnică și cea mai înaltă calitate a vieții.",
+    en: "Switzerland, officially the Swiss Confederation, is a fascinating landlocked country in the heart of Europe, known for its extraordinary natural beauty, political stability, and cultural diversity. The country borders Germany, France, Italy, Austria, and Liechtenstein. Switzerland's geography is significantly shaped by the Alps, which occupy over 60% of the land area and attract mountaineers and winter sports enthusiasts from around the world with icons like the Matterhorn and the Jungfraujoch. In addition to the mountains, Switzerland charms with its numerous crystal-clear lakes such as Lake Geneva, Lake Lucerne, and Lake Zurich. Switzerland's political system is unique, based on direct democracy, federalism, and strict neutrality, which has made the country the seat of numerous international organizations such as the Red Cross and the UN. Culturally, Switzerland is a melting pot with four official languages (German, French, Italian, and Romansh), reflected in a rich regional variety of traditions, architecture, and gastronomy. Culinarily, the country is world-famous for its cheese (fondue, raclette) and its chocolate, which is considered the epitome of quality. Economically, Switzerland is one of the wealthiest and most innovative nations in the world, with a leading role in the financial sector, the pharmaceutical industry, and precision mechanics, particularly watchmaking. Whether traveling through the Alps on famous panoramic trains like the Glacier Express, exploring the charming capital Bern, or enjoying the cosmopolitan atmosphere in Zurich and Geneva—Switzerland welcomes its visitors with a blend of Alpine idyll, technical perfection, and the highest quality of life."
   },
   facts: {
     de: [
-      "Die Schweiz hat vier Landessprachen: Deutsch, FranzÃ¶sisch, Italienisch und RÃ¤toromanisch.",
-      "Sie ist berÃ¼hmt fÃ¼r die Alpen und das Matterhorn.",
-      "Die Schweiz ist kein Mitglied der EuropÃ¤ischen Union.",
-      "Sie ist bekannt fÃ¼r ihre direkte Demokratie."
+      "Hauptstadt: Bern (de facto)",
+      "Währung: Schweizer Franken (CHF)",
+      "Sprachen: Deutsch, Französisch, Italienisch und Rätoromanisch sind offizielle Amtssprachen.",
+      "Geografie: Die Alpen bedecken etwa 60 % der Landesfläche.",
+      "Politik: Die Schweiz ist seit 1815 völkerrechtlich neutral.",
+      "Natur: Es gibt über 1.500 Seen in der Schweiz.",
+      "Wissenschaft: Das CERN bei Genf beherbergt den größten Teilchenbeschleuniger der Welt.",
+      "Kulinarik: Die Schweizer essen pro Kopf weltweit am meisten Schokolade.",
+      "Infrastruktur: Die Schweiz hat eines der dichtesten und pünktlichsten Schienennetze der Welt.",
+      "Glaube: Die Schweiz hat keine offizielle Staatsreligion, ist aber christlich geprägt."
     ],
     hu: [
-      "SvÃ¡jcnak nÃ©gy hivatalos nyelve van: nÃ©met, francia, olasz Ã©s romans.",
-      "HÃ­res az AlpokrÃ³l Ã©s a MatterhornrÃ³l.",
-      "SvÃ¡jc nem tagja az EurÃ³pai UniÃ³nak.",
-      "KÃ¶zvetlen demokrÃ¡ciÃ¡jÃ¡rÃ³l ismert."
+      "Főváros: Bern (de facto)",
+      "Pénznem: Svájci frank (CHF)",
+      "Nyelvek: A német, a francia, az olasz és a romans hivatalos államnyelvek.",
+      "Földrajz: Az Alpok az ország területének mintegy 60%-át borítják.",
+      "Politika: Svájc 1815 óta nemzetközileg elismerten semleges.",
+      "Természet: Svájcban több mint 1500 tó található.",
+      "Tudomány: A Genf melletti CERN ad otthont a világ legnagyobb részecskegyorsítójának.",
+      "Gasztronómia: A svájciak eszik az egy főre jutó legtöbb csokoládét a világon.",
+      "Infrastruktúra: Svájc rendelkezik a világ egyik legsűrűbb és legpontosabb vasúthálózatával.",
+      "Vallás: Svájcnak nincs hivatalos államvallása, de keresztény gyökerű."
     ],
     ro: [
-      "ElveÈ›ia are patru limbi oficiale: germanÄƒ, francezÄƒ, italianÄƒ È™i retoromanÄƒ.",
-      "Este renumitÄƒ pentru Alpi È™i Matterhorn.",
-      "ElveÈ›ia nu este membrÄƒ a Uniunii Europene.",
-      "Este cunoscutÄƒ pentru democraÈ›ia sa directÄƒ."
+      "Capitala: Berna (de facto)",
+      "Moneda: Franc elvețian (CHF)",
+      "Limbi: Germana, franceza, italiana și retoromana sunt limbi oficiale de stat.",
+      "Geografie: Alpii acoperă aproximativ 60% din suprafața țării.",
+      "Politică: Elveția este neutră din punct de vedere internațional din 1815.",
+      "Natură: Există peste 1.500 de lacuri în Elveția.",
+      "Știință: CERN de lângă Geneva găzduiește cel mai mare accelerator de particule din lume.",
+      "Gastronomie: Elvețienii consumă cea mai mare cantitate de ciocolată pe cap de locuitor din lume.",
+      "Infrastructură: Elveția are una dintre cele mai dense și punctuale rețele feroviare din lume.",
+      "Religie: Elveția nu are o religie oficială de stat, dar este marcată de tradiția creștină."
     ],
     en: [
-      "Switzerland has four official languages: German, French, Italian, and Romansh.",
-      "It is famous for the Alps and the Matterhorn.",
-      "Switzerland is not a member of the European Union.",
-      "It is known for its direct democracy."
+      "Capital: Bern (de facto)",
+      "Currency: Swiss Franc (CHF)",
+      "Languages: German, French, Italian, and Romansh are official state languages.",
+      "Geography: The Alps cover about 60% of the country's area.",
+      "Politics: Switzerland has been internationally neutral since 1815.",
+      "Nature: There are over 1,500 lakes in Switzerland.",
+      "Science: CERN near Geneva houses the world's largest particle accelerator.",
+      "Cuisine: The Swiss consume the most chocolate per capita in the world.",
+      "Infrastructure: Switzerland has one of the densest and most punctual rail networks in the world.",
+      "Religion: Switzerland has no official state religion but is predominantly Christian."
     ]
   },
   image: "/geo-images/switzerland/country-switzerland.webp"
@@ -53,41 +83,49 @@ export const switzerlandRegions: POI[] = [
     parent: "country-switzerland",
     coords: [8.5417, 47.3769],
     name: {
-      de: "ZÃ¼rich",
-      hu: "ZÃ¼rich",
-      ro: "ZÃ¼rich",
+      de: "Zürich",
+      hu: "Zürich",
+      ro: "Zürich",
       en: "Zurich"
     },
     description: {
-      de: "ZÃ¼rich ist die grÃ¶ÃŸte Stadt der Schweiz und ein globales Zentrum fÃ¼r Banken und Finanzen. Sie liegt am Nordende des ZÃ¼richsees. Die Stadt bietet eine hohe LebensqualitÃ¤t.",
-      hu: "ZÃ¼rich SvÃ¡jc legnagyobb vÃ¡rosa, valamint a bank- Ã©s pÃ©nzÃ¼gyi szektor globÃ¡lis kÃ¶zpontja. A ZÃ¼richi-tÃ³ Ã©szaki vÃ©gÃ©n fekszik. A vÃ¡ros magas Ã©letminÅ‘sÃ©get kÃ­nÃ¡l.",
-      ro: "ZÃ¼rich este cel mai mare oraÈ™ din ElveÈ›ia È™i un centru global pentru bÄƒnci È™i finanÈ›e. Este situat la capÄƒtul nordic al lacului ZÃ¼rich. OraÈ™ul oferÄƒ o Ã®naltÄƒ calitate a vieÈ›ii.",
+      de: "Zürich ist die größte Stadt der Schweiz, ein globales Zentrum für Finanzen und Innovation, bekannt für seine hohe Lebensqualität, den malerischen Zürichsee und die luxuriöse Bahnhofstrasse.",
+      hu: "Zürich Svájc legnagyobb városa, a pénzügy és az innováció globális központja, amely magas életminőségéről, a festői Zürichi-tóról és a luxus Bahnhofstrasse-ról ismert.",
+      ro: "Zürich este cel mai mare oraș din Elveția, un centru global pentru finanțe și inovare, cunoscut pentru calitatea ridicată a vieții, pitorescul lac Zürich și luxoasa Bahnhofstrasse.",
+      en: "Zurich is the largest city in Switzerland, a global hub for finance and innovation, known for its high quality of life, the picturesque Lake Zurich, and the luxurious Bahnhofstrasse."
+    },
+    descriptionAdvanced: {
+      de: "Zürich ist die größte Stadt der Schweiz und ein globales Zentrum für Banken und Finanzen. Sie liegt am Nordende des Zürichsees. Die Stadt bietet eine hohe Lebensqualität.",
+      hu: "Zürich Svájc legnagyobb városa, valamint a bank- és pénzügyi szektor globális központja. A Zürichi-tó északi végén fekszik. A város magas életminőséget kínál.",
+      ro: "Zürich este centrul economic al Elveției. Bahnhofstrasse este una dintre cele mai scumpe străzi comerciale din lume. Orașul are peste 1.200 de fântâni cu apă potabilă. Grossmünster este un punct de reper al orașului.",
       en: "Zurich is the largest city in Switzerland and a global center for banking and finance. It lies at the north end of Lake Zurich. The city offers a high quality of life."
     },
     facts: {
       de: [
-        "ZÃ¼rich ist das wirtschaftliche Zentrum der Schweiz.",
-        "Die Bahnhofstrasse ist eine der teuersten EinkaufsstraÃŸen der Welt.",
-        "Die Stadt hat Ã¼ber 1.200 Brunnen mit Trinkwasser.",
-        "Das GrossmÃ¼nster ist ein Wahrzeichen der Stadt."
+        "Zürich ist das wirtschaftliche Zentrum der Schweiz.",
+        "Die Bahnhofstrasse ist eine der teuersten Einkaufsstraßen der Welt.",
+        "Die Stadt hat über 1.200 Brunnen mit Trinkwasser.",
+        "Das Grossmünster ist ein Wahrzeichen der Stadt."
       ],
       hu: [
-        "ZÃ¼rich SvÃ¡jc gazdasÃ¡gi kÃ¶zpontja.",
-        "A Bahnhofstrasse a vilÃ¡g egyik legdrÃ¡gÃ¡bb bevÃ¡sÃ¡rlÃ³utcÃ¡ja.",
-        "A vÃ¡rosban tÃ¶bb mint 1200 ivÃ³vizes kÃºt talÃ¡lhatÃ³.",
-        "A GrossmÃ¼nster a vÃ¡ros egyik jelkÃ©pe."
+        "Zürich Svájc gazdasági központja.",
+        "A Bahnhofstrasse a világ egyik legdrágább bevásárlóutcája.",
+        "A városban több mint 1200 ivóvizes kút található.",
+        "A Grossmünster a város egyik jelképe."
       ],
       ro: [
-        "ZÃ¼rich este centrul economic al ElveÈ›iei.",
-        "Bahnhofstrasse este una dintre cele mai scumpe strÄƒzi comerciale din lume.",
-        "OraÈ™ul are peste 1.200 de fÃ¢ntÃ¢ni cu apÄƒ potabilÄƒ.",
-        "GrossmÃ¼nster este un punct de reper al oraÈ™ului."
+        "Zürich este centrul economic al Elveției.",
+        "Bahnhofstrasse este una dintre cele mai scumpe străzi comerciale din lume.",
+        "Orașul are peste 1.200 de fântâni cu apă potabilă.",
+        "Grossmünster este un punct de reper al orașului.",
+        "Zürich găzduiește una dintre cele mai mari universități tehnice din lume, ETH Zürich."
       ],
       en: [
         "Zurich is the economic center of Switzerland.",
         "Bahnhofstrasse is one of the world's most expensive shopping streets.",
         "The city has over 1,200 fountains with drinking water.",
-        "The GrossmÃ¼nster is a landmark of the city."
+        "The Grossmünster is a landmark of the city.",
+        "Zurich is home to ETH Zurich, one of the world's top technical universities."
       ]
     },
     image: "/geo-images/switzerland/city-zurich.webp"
@@ -104,6 +142,12 @@ export const switzerlandRegions: POI[] = [
       en: "Geneva"
     },
     description: {
+      de: "Genf ist eine weltoffene Stadt am Genfersee, bekannt als Sitz zahlreicher internationaler Organisationen, für den beeindruckenden Jet d'Eau und ihre humanitäre Tradition.",
+      hu: "Genf egy világpolgári város a Genfi-tó partján, amely számos nemzetközi szervezet székhelyeként, a lenyűgöző Jet d'Eau szökőkútról és humanitárius hagyományairól ismert.",
+      ro: "Geneva este un oraș cosmopolit pe malul lacului Leman, cunoscut ca sediu al numeroaselor organizații internaționale, pentru impresionanta fântână Jet d'Eau și tradiția sa umanitară.",
+      en: "Geneva is a cosmopolitan city on Lake Geneva, known as the seat of numerous international organizations, for the impressive Jet d'Eau fountain, and its humanitarian tradition."
+    },
+    descriptionAdvanced: {
       de: "Genf ist eine globale Stadt, ein Finanzzentrum und ein weltweites Zentrum fÃ¼r Diplomatie. Hier befinden sich der europÃ¤ische Hauptsitz der UNO und das Rote Kreuz. Die Stadt liegt am Genfersee.",
       hu: "Genf globÃ¡lis vÃ¡ros, pÃ©nzÃ¼gyi kÃ¶zpont Ã©s a diplomÃ¡cia vilÃ¡gkÃ¶zpontja. Itt talÃ¡lhatÃ³ az ENSZ eurÃ³pai kÃ¶zpontja Ã©s a VÃ¶rÃ¶skereszt. A vÃ¡ros a Genfi-tÃ³ partjÃ¡n fekszik.",
       ro: "Geneva este un oraÈ™ global, un centru financiar È™i un centru mondial pentru diplomaÈ›ie. GÄƒzduieÈ™te sediul european al ONU È™i Crucea RoÈ™ie. OraÈ™ul este situat pe malul Lacului Geneva.",
@@ -149,6 +193,12 @@ export const switzerlandRegions: POI[] = [
       en: "Bern"
     },
     description: {
+      de: "Bern ist die charmante Hauptstadt der Schweiz, bekannt für ihre zum UNESCO-Welterbe gehörende mittelalterliche Altstadt, die gemütlichen Arkaden und den berühmten Bärenpark.",
+      hu: "Bern Svájc bájos fővárosa, amely az UNESCO Világörökség részét képező középkori óvárosáról, hangulatos árkádjairól és a híres Medveparkról ismert.",
+      ro: "Berna este capitala fermecătoare a Elveției, cunoscută pentru orașul său vechi medieval inclus în UNESCO, arcadele primitoare și faimosul Parc al Urșilor.",
+      en: "Bern is the charming capital of Switzerland, known for its UNESCO World Heritage-listed medieval old town, cozy arcades, and the famous Bear Park."
+    },
+    descriptionAdvanced: {
       de: "Bern ist die Bundesstadt (Hauptstadt) der Schweiz. Die Altstadt von Bern gehÃ¶rt zum UNESCO-Welterbe. Die Stadt ist bekannt fÃ¼r ihre mittelalterliche Architektur und die Zytglogge.",
       hu: "Bern SvÃ¡jc szÃ¶vetsÃ©gi vÃ¡rosa (fÅ‘vÃ¡rosa). Bern Ã³vÃ¡rosa az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze. A vÃ¡ros kÃ¶zÃ©pkori Ã©pÃ­tÃ©szetÃ©rÅ‘l Ã©s a Zytglogge Ã³ratoronyrÃ³l ismert.",
       ro: "Berna este oraÈ™ul federal (capitala) al ElveÈ›iei. OraÈ™ul vechi din Berna este un sit al Patrimoniului Mondial UNESCO. OraÈ™ul este cunoscut pentru arhitectura sa medievalÄƒ È™i Zytglogge.",
@@ -189,11 +239,17 @@ export const switzerlandRegions: POI[] = [
     coords: [7.5886, 47.5596],
     name: {
       de: "Basel",
-      hu: "BÃ¡zel",
+      hu: "Bázel",
       ro: "Basel",
       en: "Basel"
     },
     description: {
+      de: "Basel liegt am Rheinknie im Dreiländereck, bekannt als Kulturhauptstadt der Schweiz mit erstklassigen Museen, einer lebendigen Kunstszene und der ältesten Universität des Landes.",
+      hu: "Bázel a Rajna-kanyarban, a hármashatárnál fekszik, Svájc kulturális fővárosaként ismert világszínvonalú múzeumaival, vibráló művészeti életével és az ország legrégebbi egyetemével.",
+      ro: "Basel este situat la cotul Rinului, la granița a trei țări, cunoscut drept capitala culturală a Elveției, cu muzee de primă clasă, o scenă artistică vibrantă și cea mai veche universitate din țară.",
+      en: "Basel is located at the Rhine knee at the border of three countries, known as the cultural capital of Switzerland with world-class museums, a vibrant art scene, and the country's oldest university."
+    },
+    descriptionAdvanced: {
       de: "Basel liegt im DreilÃ¤ndereck Schweiz-Deutschland-Frankreich. Die Stadt wird vom Rhein geteilt und ist ein wichtiges Zentrum fÃ¼r die Chemie- und Pharmaindustrie. Sie ist auch fÃ¼r ihre Kunstmuseen bekannt.",
       hu: "BÃ¡zel a svÃ¡jci-nÃ©met-francia hÃ¡rmashatÃ¡rnÃ¡l fekszik. A vÃ¡rost a Rajna osztja kettÃ©, Ã©s a vegy- Ã©s gyÃ³gyszeripar fontos kÃ¶zpontja. MÅ±vÃ©szeti mÃºzeumairÃ³l is ismert.",
       ro: "Basel este situat la graniÈ›a dintre ElveÈ›ia, Germania È™i FranÈ›a. OraÈ™ul este Ã®mpÄƒrÈ›it de rÃ¢ul Rin È™i este un centru important pentru industria chimicÄƒ È™i farmaceuticÄƒ. Este, de asemenea, cunoscut pentru muzeele sale de artÄƒ.",
@@ -239,6 +295,12 @@ export const switzerlandRegions: POI[] = [
       en: "Lausanne"
     },
     description: {
+      de: "Lausanne ist eine dynamische Stadt am Genfersee, bekannt als 'Olympische Hauptstadt', für ihre steilen Gassen, die beeindruckende Kathedrale und ihre lebendige studentische Atmosphäre.",
+      hu: "Lausanne egy dinamikus város a Genfi-tó partján, amely „olimpiai fővárosként”, meredek utcáiról, lenyűgöző székesegyházáról és vibráló diákéletéről ismert.",
+      ro: "Lausanne este un oraș dinamic pe malul lacului Leman, cunoscut drept „Capitala Olimpică”, pentru străzile sale abrupte, catedrala impresionantă și atmosfera sa studențească vibrantă.",
+      en: "Lausanne is a dynamic city on Lake Geneva, known as the 'Olympic Capital', for its steep streets, impressive cathedral, and vibrant student atmosphere."
+    },
+    descriptionAdvanced: {
       de: "Lausanne liegt am Genfersee und ist die Hauptstadt des Kantons Waadt. Sie ist als 'Olympische Hauptstadt' bekannt, da hier das Internationale Olympische Komitee (IOC) seinen Sitz hat. Die Stadt ist auf drei HÃ¼geln erbaut.",
       hu: "Lausanne a Genfi-tÃ³ partjÃ¡n fekszik, Ã©s Vaud kanton fÅ‘vÃ¡rosa. 'Olimpiai fÅ‘vÃ¡roskÃ©nt' ismert, mivel itt talÃ¡lhatÃ³ a NemzetkÃ¶zi Olimpiai BizottsÃ¡g (NOB) szÃ©khelye. A vÃ¡ros hÃ¡rom dombra Ã©pÃ¼lt.",
       ro: "Lausanne este situat pe Lacul Geneva È™i este capitala cantonului Vaud. Este cunoscutÄƒ drept 'Capitala OlimpicÄƒ', deoarece gÄƒzduieÈ™te Comitetul Olimpic InternaÈ›ional (CIO). OraÈ™ul este construit pe trei dealuri.",
@@ -284,6 +346,12 @@ export const switzerlandRegions: POI[] = [
       en: "Matterhorn"
     },
     description: {
+      de: "Das Matterhorn ist einer der bekanntesten Berge der Welt, ein Wahrzeichen der Schweiz mit seiner markanten Pyramidenform und ein Magnet für Bergsteiger und Fotografen.",
+      hu: "A Matterhorn a világ egyik legismertebb hegye, Svájc jelképe jellegzetes piramis alakjával, amely mágnesként vonzza a hegymászókat és a fotósokat.",
+      ro: "Matterhorn este unul dintre cei mai cunoscuți munți din lume, un simbol al Elveției cu forma sa piramidală distinctivă și un magnet pentru alpiniști și fotografi.",
+      en: "The Matterhorn is one of the most famous mountains in the world, a landmark of Switzerland with its distinctive pyramidal shape and a magnet for mountaineers and photographers."
+    },
+    descriptionAdvanced: {
       de: "Das Matterhorn ist einer der hÃ¶chsten Berge der Alpen und ein Wahrzeichen der Schweiz. Seine markante Pyramidenform macht ihn zu einem der meistfotografierten Berge der Welt. Er liegt an der Grenze zu Italien.",
       hu: "A Matterhorn az Alpok egyik legmagasabb hegye Ã©s SvÃ¡jc jelkÃ©pe. Jellegzetes piramis alakja a vilÃ¡g egyik legtÃ¶bbet fÃ©nykÃ©pezett hegyÃ©vÃ© teszi. Az olasz hatÃ¡ron fekszik.",
       ro: "Matterhorn este unul dintre cei mai Ã®nalÈ›i munÈ›i din Alpi È™i un punct de reper al ElveÈ›iei. Forma sa piramidalÄƒ distinctivÄƒ Ã®l face unul dintre cei mai fotografiaÈ›i munÈ›i din lume. Este situat la graniÈ›a cu Italia.",
@@ -329,6 +397,12 @@ export const switzerlandRegions: POI[] = [
       en: "Lucerne"
     },
     description: {
+      de: "Luzern ist das Tor zur Zentralschweiz, eine malerische Stadt am Vierwaldstättersee, bekannt für ihre mittelalterliche Kapellbrücke und die beeindruckende Bergkulisse von Pilatus und Rigi.",
+      hu: "Luzern Közép-Svájc kapuja, egy festői város a Vierwaldstätti-tó partján, amely középkori Kápolna-hídjáról, valamint a Pilatus és a Rigi lenyűgöző hegyi panorámájáról ismert.",
+      ro: "Lucerna este poarta către centrul Elveției, un oraș pitoresc pe malul lacului celor Patru Cantoane, cunoscut pentru Podul Capelei medieval și decorul montan impresionant al munților Pilatus și Rigi.",
+      en: "Lucerne is the gateway to central Switzerland, a picturesque city on Lake Lucerne, known for its medieval Chapel Bridge and the impressive mountain backdrop of Pilatus and Rigi."
+    },
+    descriptionAdvanced: {
       de: "Luzern ist eine Stadt in der Zentralschweiz, gelegen am VierwaldstÃ¤ttersee. Sie ist bekannt fÃ¼r ihre gut erhaltene mittelalterliche Architektur und die KapellbrÃ¼cke. Die Stadt ist von Bergen umgeben.",
       hu: "Luzern egy vÃ¡ros KÃ¶zÃ©p-SvÃ¡jcban, a VierwaldstÃ¤tti-tÃ³ partjÃ¡n. JÃ³l megÅ‘rzÃ¶tt kÃ¶zÃ©pkori Ã©pÃ­tÃ©szetÃ©rÅ‘l Ã©s a KÃ¡polna-hÃ­drÃ³l ismert. A vÃ¡rost hegyek veszik kÃ¶rÃ¼l.",
       ro: "Lucerna este un oraÈ™ din centrul ElveÈ›iei, situat pe Lacul Lucerna. Este cunoscut pentru arhitectura sa medievalÄƒ bine conservatÄƒ È™i Podul Capelei. OraÈ™ul este Ã®nconjurat de munÈ›i.",
@@ -374,6 +448,12 @@ export const switzerlandRegions: POI[] = [
       en: "Jungfraujoch"
     },
     description: {
+      de: "Das Jungfraujoch, bekannt als 'Top of Europe', beherbergt den höchstgelegenen Bahnhof Europas und bietet einen atemberaubenden Blick auf den Aletschgletscher und die Berner Alpen.",
+      hu: "A Jungfraujoch, az „Európa tetejeként” ismert helyszín ad otthont Európa legmagasabban fekvő vasútállomásának, és lenyűgöző kilátást nyújt az Aletsch-gleccserre és a Berni-Alpokra.",
+      ro: "Jungfraujoch, cunoscut sub numele de „Top of Europe”, găzduiește cea mai înaltă gară din Europa și oferă o vedere uluitoare asupra ghețarului Aletsch și a Alpilor Bernezi.",
+      en: "Jungfraujoch, known as the 'Top of Europe', is home to the highest railway station in Europe and offers breathtaking views of the Aletsch Glacier and the Bernese Alps."
+    },
+    descriptionAdvanced: {
       de: "Das Jungfraujoch ist ein Pass zwischen den Bergen MÃ¶nch und Jungfrau. Es wird oft als 'Top of Europe' bezeichnet, da sich hier der hÃ¶chste Bahnhof Europas befindet. Es bietet spektakulÃ¤re Ausblicke auf den Aletschgletscher.",
       hu: "A Jungfraujoch egy hÃ¡gÃ³ a MÃ¶nch Ã©s a Jungfrau hegyek kÃ¶zÃ¶tt. Gyakran 'EurÃ³pa tetejÃ©nek' nevezik, mivel itt talÃ¡lhatÃ³ EurÃ³pa legmagasabban fekvÅ‘ vasÃºtÃ¡llomÃ¡sa. LÃ¡tvÃ¡nyos kilÃ¡tÃ¡st nyÃºjt az Aletsch-gleccserre.",
       ro: "Jungfraujoch este o trecÄƒtoare Ã®ntre munÈ›ii MÃ¶nch È™i Jungfrau. Este adesea numit 'Top of Europe', deoarece aici se aflÄƒ cea mai Ã®naltÄƒ garÄƒ din Europa. OferÄƒ vederi spectaculoase ale gheÈ›arului Aletsch.",
@@ -414,7 +494,7 @@ export const switzerlandCities: POI[] = [
     id: "city-winterthur",
     type: "city",
     parent: "country-switzerland",
-    coords: [8.7237, 47.5004],
+    coords: [8.7297, 47.5008],
     name: {
       de: "Winterthur",
       hu: "Winterthur",
@@ -422,6 +502,12 @@ export const switzerlandCities: POI[] = [
       en: "Winterthur"
     },
     description: {
+      de: "Winterthur ist eine bedeutende Kultur- und Industriestadt im Kanton Zürich, bekannt für ihre erstklassigen Kunstsammlungen, ihre zahlreichen Parks und als Zentrum für Technik und Innovation.",
+      hu: "Winterthur jelentős kulturális és ipari város Zürich kantonban, amely világszínvonalú művészeti gyűjteményeiről, számos parkjáról, valamint technológiai és innovációs központként ismert.",
+      ro: "Winterthur este un oraș cultural și industrial important din cantonul Zürich, cunoscut pentru colecțiile sale de artă de primă clasă, numeroasele sale parcuri și ca centru pentru tehnologie și inovare.",
+      en: "Winterthur is a major cultural and industrial city in the canton of Zurich, known for its world-class art collections, numerous parks, and as a hub for technology and innovation."
+    },
+    descriptionAdvanced: {
       de: "Winterthur ist eine der grÃ¶ÃŸten StÃ¤dte der Schweiz und ein wichtiger Standort fÃ¼r Industrie, Bildung und Kultur. Die Stadt ist fÃ¼r ihre Museen, Parks und lebendige Altstadt bekannt. Als Wirtschaftsstandort im Kanton ZÃ¼rich bietet sie starken Anschluss an die Deutschschweiz. Winterthur verbindet urbane Dichte mit einer hohen LebensqualitÃ¤t.",
       hu: "Winterthur SvÃ¡jc egyik legnagyobb vÃ¡rosa, Ã©s fontos ipari, oktatÃ¡si Ã©s kulturÃ¡lis kÃ¶zpont. A vÃ¡ros mÃºzeumairÃ³l, parkjairÃ³l Ã©s Ã©lÅ‘ Ã³vÃ¡rosÃ¡rÃ³l ismert. A zÃ¼richi kantonban erÅ‘s gazdasÃ¡gi kapcsolatokkal rendelkezik a nÃ©met nyelvÅ± SvÃ¡jc felÃ©. Winterthur a vÃ¡rosi Ã©letet kiemelkedÅ‘ Ã©letminÅ‘sÃ©ggel Ã¶tvÃ¶zi.",
       ro: "Winterthur este unul dintre cele mai mari oraÈ™e din ElveÈ›ia È™i un centru important pentru industrie, educaÈ›ie È™i culturÄƒ. OraÈ™ul este cunoscut pentru muzeele, parcurile È™i centrul sÄƒu vechi animat. Ca nod economic din cantonul ZÃ¼rich, are legÄƒturi puternice cu ElveÈ›ia germanofonÄƒ. Winterthur combinÄƒ densitatea urbanÄƒ cu o calitate ridicatÄƒ a vieÈ›ii.",
@@ -471,6 +557,12 @@ export const switzerlandCities: POI[] = [
       en: "Chur"
     },
     description: {
+      de: "Chur ist die älteste Stadt der Schweiz, die Hauptstadt des Kantons Graubünden und ein wichtiges Tor zu den Alpen, bekannt für ihre autofreie Altstadt und die Kathedrale St. Mariä Himmelfahrt.",
+      hu: "Chur Svájc legrégebbi városa, Graubünden kanton fővárosa és az Alpok fontos kapuja, amely autómentes óvárosáról és a Szent Mária Mennybemenetele-székesegyházról ismert.",
+      ro: "Chur este cel mai vechi oraș din Elveția, capitala cantonului Graubünden și o poartă importantă către Alpi, cunoscut pentru centrul său vechi fără mașini și Catedrala Adormirea Maicii Domnului.",
+      en: "Chur is the oldest city in Switzerland, the capital of the canton of Graubünden, and an important gateway to the Alps, known for its car-free old town and the Cathedral of Saint Mary of the Assumption."
+    },
+    descriptionAdvanced: {
       de: "Chur ist die Hauptstadt des Kantons GraubÃ¼nden und gilt als die Ã¤lteste Stadt der Schweiz. Die Lage macht sie zu einem natÃ¼rlichen Tor zu den Alpen und zu bekannten Ferienregionen. Die Altstadt, die BahnanschlÃ¼sse und die Bergkulisse schaffen ein starkes Reiseziel in der SÃ¼dostschweiz. Chur ist zugleich urban, historisch und klar alpin geprÃ¤gt.",
       hu: "Chur GraubÃ¼nden kanton fÅ‘vÃ¡rosa, Ã©s SvÃ¡jc legÅ‘sibb vÃ¡rosÃ¡nak tartjÃ¡k. ElhelyezkedÃ©se miatt termÃ©szetes kapu az Alpok Ã©s a hÃ­res Ã¼dÃ¼lÅ‘rÃ©giÃ³k felÃ©. Az Ã³vÃ¡ros, a vasÃºti kapcsolatok Ã©s a hegyek lÃ¡tvÃ¡nya erÅ‘s turisztikai vonzerÅ‘t ad DÃ©lkelet-SvÃ¡jcban. Chur egyszerre vÃ¡rosi, tÃ¶rtÃ©nelmi Ã©s erÅ‘sen alpesi karakterÅ±.",
       ro: "Chur este capitala cantonului GraubÃ¼nden È™i este considerat cel mai vechi oraÈ™ din ElveÈ›ia. PoziÈ›ia sa Ã®l transformÄƒ Ã®ntr-o poartÄƒ naturalÄƒ cÄƒtre Alpi È™i cÄƒtre regiuni turistice celebre. Centrul vechi, legÄƒturile feroviare È™i decorul montan creeazÄƒ o destinaÈ›ie puternicÄƒ Ã®n sud-estul ElveÈ›iei. Chur este urban, istoric È™i profund alpin Ã®n acelaÈ™i timp.",
@@ -512,7 +604,7 @@ export const switzerlandCities: POI[] = [
     id: "city-lugano",
     type: "city",
     parent: "country-switzerland",
-    coords: [8.9511, 46.0037],
+    coords: [8.9536, 46.0037],
     name: {
       de: "Lugano",
       hu: "Lugano",
@@ -520,6 +612,12 @@ export const switzerlandCities: POI[] = [
       en: "Lugano"
     },
     description: {
+      de: "Lugano ist die größte Stadt im italienischsprachigen Kanton Tessin, eine elegante Stadt am Luganersee, bekannt für ihr mediterranes Flair, ihre Parks und als bedeutendes Finanzzentrum.",
+      hu: "Lugano az olasz nyelvű Ticino kanton legnagyobb városa, egy elegáns város a Luganói-tó partján, amely mediterrán hangulatáról, parkjairól és jelentős pénzügyi központként ismert.",
+      ro: "Lugano este cel mai mare oraș din cantonul de limbă italiană Ticino, un oraș elegant pe malul lacului Lugano, cunoscut pentru atmosfera sa mediteraneană, parcurile sale și ca centru financiar important.",
+      en: "Lugano is the largest city in the Italian-speaking canton of Ticino, an elegant city on Lake Lugano, known for its Mediterranean flair, its parks, and as a major financial center."
+    },
+    descriptionAdvanced: {
       de: "Lugano ist die grÃ¶ÃŸte Stadt im Tessin und verbindet Schweizer Struktur mit mediterranem Flair. Die Seepromenade, die Berge und die italienische Sprachkultur prÃ¤gen das Stadtbild. Als Finanz- und Messestandort ist Lugano auch wirtschaftlich stark. Die Stadt ist ein beliebtes Ziel fÃ¼r Besucher, die See, Sonne und Alpenblick kombinieren wollen.",
       hu: "Lugano Tessin legnagyobb vÃ¡rosa, Ã©s a svÃ¡jci szervezettsÃ©get mediterrÃ¡n hangulattal Ã¶tvÃ¶zi. A tÃ³parti sÃ©tÃ¡ny, a hegyek Ã©s az olasz nyelvi kultÃºra hatÃ¡rozza meg a vÃ¡roskÃ©pet. PÃ©nzÃ¼gyi Ã©s vÃ¡sÃ¡ri kÃ¶zpontkÃ©nt gazdasÃ¡gilag is erÅ‘s. Lugano nÃ©pszerÅ± cÃ©lpont azoknak, akik egyszerre keresnek tavat, napsÃ¼tÃ©st Ã©s alpesi kilÃ¡tÃ¡st.",
       ro: "Lugano este cel mai mare oraÈ™ din Ticino È™i combinÄƒ structura elveÈ›ianÄƒ cu o atmosferÄƒ mediteraneanÄƒ. Promenada de pe malul lacului, munÈ›ii È™i cultura de limbÄƒ italianÄƒ definesc peisajul urban. Ca centru financiar È™i expoziÈ›ional, Lugano este puternic È™i economic. OraÈ™ul este o destinaÈ›ie popularÄƒ pentru cei care vor lac, soare È™i priveliÈ™ti alpine.",
@@ -569,6 +667,12 @@ export const switzerlandCities: POI[] = [
       en: "St. Gallen"
     },
     description: {
+      de: "St. Gallen ist das Zentrum der Ostschweiz, bekannt für seinen prächtigen barocken Stiftsbezirk mit der weltberühmten Stiftsbibliothek, die zum UNESCO-Welterbe gehört.",
+      hu: "Szent Gallen Kelet-Svájc központja, amely pompás barokk kolostornegyedéről és a világhírű, UNESCO Világörökség részét képező kolostori könyvtáráról ismert.",
+      ro: "St. Gallen este centrul estului Elveției, cunoscut pentru complexul său baroc magnific al abației, cu biblioteca sa renumită în întreaga lume, inclusă în UNESCO.",
+      en: "St. Gallen is the center of eastern Switzerland, known for its magnificent Baroque abbey district with the world-famous Abbey Library, a UNESCO World Heritage site."
+    },
+    descriptionAdvanced: {
       de: "St. Gallen ist ein bedeutendes Zentrum in der Ostschweiz und bekannt fÃ¼r seine Klostertradition. Die Stadt verbindet Bildung, Textilgeschichte und eine starke urbane Kultur. Der barocke Stiftsbezirk ist international berÃ¼hmt und prÃ¤gt das Image der Stadt. St. Gallen ist ein attraktiver Standort fÃ¼r Reisen, Wirtschaft und Kultur im Nordosten der Schweiz.",
       hu: "Szent Gallen fontos kÃ¶zpont Kelet-SvÃ¡jcban, Ã©s kolostori hagyomÃ¡nyairÃ³l ismert. A vÃ¡ros az oktatÃ¡st, a textilipari mÃºltat Ã©s az erÅ‘s vÃ¡rosi kultÃºrÃ¡t Ã¶tvÃ¶zi. A barokk kolostornegyed nemzetkÃ¶zileg is hÃ­res, Ã©s meghatÃ¡rozza a vÃ¡ros arculatÃ¡t. Szent Gallen vonzÃ³ cÃ©lpont utazÃ¡shoz, Ã¼zleti Ã©lethez Ã©s kultÃºrÃ¡hoz Ã‰szakkelet-SvÃ¡jcban.",
       ro: "St. Gallen este un centru important din estul ElveÈ›iei È™i este cunoscut pentru tradiÈ›ia sa monasticÄƒ. OraÈ™ul combinÄƒ educaÈ›ia, istoria industriei textile È™i o culturÄƒ urbanÄƒ puternicÄƒ. Complexul baroc al mÄƒnÄƒstirii este celebru internaÈ›ional È™i defineÈ™te imaginea oraÈ™ului. St. Gallen este o destinaÈ›ie atractivÄƒ pentru cÄƒlÄƒtorii, afaceri È™i culturÄƒ Ã®n nord-estul ElveÈ›iei.",
@@ -618,6 +722,12 @@ export const switzerlandCities: POI[] = [
       en: "Biel/Bienne"
     },
     description: {
+      de: "Biel/Bienne ist die größte zweisprachige Stadt der Schweiz, ein bedeutendes Zentrum der Uhrenindustrie am Bielersee, wo Tradition auf moderne Präzision trifft.",
+      hu: "Biel/Bienne Svájc legnagyobb kétnyelvű városa, az óragyártás jelentős központja a Bieli-tó partján, ahol a hagyomány modern precizitással találkozik.",
+      ro: "Biel/Bienne este cel mai mare oraș bilingv din Elveția, un centru important al industriei ceasurilor pe malul lacului Biel, unde tradiția întâlnește precizia modernă.",
+      en: "Biel/Bienne is the largest bilingual city in Switzerland, a major center of the watchmaking industry on Lake Biel, where tradition meets modern precision."
+    },
+    descriptionAdvanced: {
       de: "Biel/Bienne ist eine zweisprachige Stadt am Bielersee und ein wichtiger Ort der Schweizer Uhrenindustrie. Die Stadt ist fÃ¼r ihre Balance aus Industrie, Wasserlage und urbanem Leben bekannt. Als grÃ¶ÃŸte zweisprachige Stadt des Landes ist sie kulturell besonders interessant. Biel/Bienne eignet sich gut fÃ¼r Besucher, die Technik, Design und Seestimmung verbinden wollen.",
       hu: "Biel/Bienne kÃ©tnyelvÅ± vÃ¡ros a Bieli-tÃ³ partjÃ¡n, Ã©s a svÃ¡jci Ã³ragyÃ¡rtÃ¡s fontos kÃ¶zpontja. A vÃ¡ros az ipar, a vÃ­zpart Ã©s a vÃ¡rosi Ã©let egyensÃºlyÃ¡rÃ³l ismert. Az orszÃ¡g legnagyobb kÃ©tnyelvÅ± vÃ¡rosakÃ©nt kulturÃ¡lisan kÃ¼lÃ¶nÃ¶sen Ã©rdekes. Biel/Bienne jÃ³ vÃ¡lasztÃ¡s azoknak, akik a technikÃ¡t, a dizÃ¡jnt Ã©s a tÃ³parti hangulatot egyszerre keresik.",
       ro: "Biel/Bienne este un oraÈ™ bilingv pe malul lacului Biel È™i un loc important al industriei elveÈ›iene de ceasuri. OraÈ™ul este cunoscut pentru echilibrul sÄƒu Ã®ntre industrie, malul apei È™i viaÈ›a urbanÄƒ. Ca cel mai mare oraÈ™ bilingv al È›Äƒrii, are un interes cultural deosebit. Biel/Bienne este potrivit pentru vizitatorii care vor sÄƒ combine tehnologia, designul È™i atmosfera de lac.",
@@ -667,6 +777,12 @@ export const switzerlandCities: POI[] = [
       en: "Thun"
     },
     description: {
+      de: "Thun ist das malerische Tor zum Berner Oberland, eine historische Stadt am Thunersee, bekannt für ihr markantes Schloss und die charmante Altstadt an der Aare.",
+      hu: "Thun a Berner Oberland festői kapuja, egy történelmi város a Thuni-tó partján, amely jellegzetes váráról és az Aare-folyó menti bájos óvárosáról ismert.",
+      ro: "Thun este poarta pitorească către Oberlandul Bernez, un oraș istoric pe malul lacului Thun, cunoscut pentru castelul său distinctiv și centrul vechi fermecător de pe râul Aare.",
+      en: "Thun is the picturesque gateway to the Bernese Oberland, a historic city on Lake Thun, known for its distinctive castle and charming old town on the Aare River."
+    },
+    descriptionAdvanced: {
       de: "Thun liegt am Ausfluss des Thunersees und ist das Tor zum Berner Oberland. Die Altstadt, der Fluss und das Schloss machen die Stadt besonders fotogen. Thun verbindet MilitÃ¤rgeschichte, Seenlandschaft und Bergblick auf engem Raum. FÃ¼r Reisen in die Berner Alpen ist Thun ein beliebter Ausgangspunkt.",
       hu: "Thun a Thuni-tÃ³ kifolyÃ¡sÃ¡nÃ¡l fekszik, Ã©s a Berner Oberland kapuja. Az Ã³vÃ¡ros, a folyÃ³ Ã©s a kastÃ©ly kÃ¼lÃ¶nÃ¶sen fotÃ³zhatÃ³vÃ¡ teszi a vÃ¡rost. Thun a katonai mÃºltat, a tÃ³vidÃ©ket Ã©s a hegyi panorÃ¡mÃ¡t kis terÃ¼leten Ã¶tvÃ¶zi. A Berni-Alpok felÃ© tartÃ³ utazÃ¡sok egyik kedvelt kiindulÃ³pontja.",
       ro: "Thun se aflÄƒ la ieÈ™irea din Lacul Thun È™i este poarta cÄƒtre Oberlandul Bernez. Centrul vechi, rÃ¢ul È™i castelul fac oraÈ™ul foarte fotogenic. Thun combinÄƒ istoria militarÄƒ, peisajul de lac È™i priveliÈ™tile montane Ã®ntr-un spaÈ›iu compact. Este un punct de plecare popular pentru excursiile Ã®n Alpii Bernezi.",
@@ -716,6 +832,12 @@ export const switzerlandCities: POI[] = [
       en: "Schaffhausen"
     },
     description: {
+      de: "Schaffhausen ist eine historische Stadt am Hochrhein, bekannt für ihre gut erhaltene mittelalterliche Altstadt, die Festung Munot und ihre unmittelbare Nähe zum spektakulären Rheinfall.",
+      hu: "Schaffhausen egy történelmi város a Felső-Rajna mentén, amely jól megőrzött középkori óvárosáról, a Munot-erődről és a látványos Rajna-vízesés közvetlen közelségéről ismert.",
+      ro: "Schaffhausen este un oraș istoric pe Rinul Superior, cunoscut pentru centrul său vechi medieval bine conservat, fortăreața Munot și proximitatea sa imediată de spectaculoasa Cascadă a Rinului.",
+      en: "Schaffhausen is a historic city on the High Rhine, known for its well-preserved medieval old town, the Munot fortress, and its immediate proximity to the spectacular Rhine Falls."
+    },
+    descriptionAdvanced: {
       de: "Schaffhausen ist bekannt fÃ¼r seine historische Altstadt, den Munot und die NÃ¤he zum Rheinfall. Die Stadt liegt nahe der deutschen Grenze und hat eine starke grenznahe Wirtschaft. Ihre Lage am Hochrhein macht sie landschaftlich und logistisch interessant. Schaffhausen ist ein attraktives Ziel fÃ¼r StadtspaziergÃ¤nge, Flussblicke und TagesausflÃ¼ge.",
       hu: "Schaffhausen tÃ¶rtÃ©nelmi Ã³vÃ¡rosÃ¡rÃ³l, a Munot erÅ‘drÅ‘l Ã©s a Rajna-vÃ­zesÃ©s kÃ¶zelsÃ©gÃ©rÅ‘l ismert. A vÃ¡ros kÃ¶zel fekszik a nÃ©met hatÃ¡rhoz, Ã©s erÅ‘s hatÃ¡r menti gazdasÃ¡ggal rendelkezik. A FelsÅ‘-Rajna melletti fekvÃ©se tÃ¡jkÃ©pi Ã©s logisztikai szempontbÃ³l is Ã©rdekessÃ© teszi. Schaffhausen jÃ³ cÃ©lpont vÃ¡rosi sÃ©tÃ¡khoz, folyÃ³parti Ã©lmÃ©nyekhez Ã©s egynapos kirÃ¡ndulÃ¡sokhoz.",
       ro: "Schaffhausen este cunoscut pentru centrul sÄƒu istoric, fortÄƒreaÈ›a Munot È™i apropierea de Cascada Rinului. OraÈ™ul se aflÄƒ aproape de graniÈ›a cu Germania È™i are o economie de frontierÄƒ puternicÄƒ. PoziÈ›ia sa pe Rinul Superior Ã®l face interesant atÃ¢t peisagistic, cÃ¢t È™i logistic. Schaffhausen este o destinaÈ›ie atractivÄƒ pentru plimbÄƒri urbane, priveliÈ™ti de rÃ¢u È™i excursii de o zi.",
@@ -757,14 +879,20 @@ export const switzerlandCities: POI[] = [
     id: "city-fribourg",
     type: "city",
     parent: "country-switzerland",
-    coords: [7.1618, 46.8065],
+    coords: [7.1619, 46.8064],
     name: {
-      de: "Fribourg",
+      de: "Freiburg",
       hu: "Fribourg",
       ro: "Fribourg",
       en: "Fribourg"
     },
     description: {
+      de: "Freiburg (Fribourg) ist eine zweisprachige Stadt an der Saane, bekannt für ihre beeindruckende mittelalterliche Altstadt auf einem Felsvorsprung, die gotische Kathedrale und ihre renommierte Universität.",
+      hu: "Fribourg (Freiburg) egy kétnyelvű város a Sarine-folyó mentén, amely egy sziklakiszögellésen fekvő lenyűgöző középkori óvárosáról, gótikus székesegyházáról és neves egyeteméről ismert.",
+      ro: "Fribourg (Freiburg) este un oraș bilingv pe râul Sarine, cunoscut pentru centrul său vechi medieval impresionant situat pe un promontoriu stâncos, catedrala gotică și universitatea sa renumită.",
+      en: "Fribourg (Freiburg) is a bilingual city on the Sarine River, known for its impressive medieval old town on a rocky promontory, the Gothic cathedral, and its renowned university."
+    },
+    descriptionAdvanced: {
       de: "Fribourg ist eine der bekanntesten zweisprachigen StÃ¤dte der Schweiz und liegt an einer spektakulÃ¤ren Flussschleife der Saane. Die mittelalterliche Altstadt, BrÃ¼cken und Kirchen schaffen eine starke historische AtmosphÃ¤re. Die Stadt ist administrativ, kulturell und akademisch wichtig. Fribourg ist ein typisches Ziel fÃ¼r Besucher, die urbane Geschichte mit Schweizer Alltag verbinden mÃ¶chten.",
       hu: "Fribourg SvÃ¡jc egyik legismertebb kÃ©tnyelvÅ± vÃ¡rosa, Ã©s a Saane egy lÃ¡tvÃ¡nyos folyÃ³kanyarulatÃ¡nÃ¡l fekszik. A kÃ¶zÃ©pkori Ã³vÃ¡ros, a hidak Ã©s a templomok erÅ‘s tÃ¶rtÃ©nelmi hangulatot teremtenek. A vÃ¡ros kÃ¶zigazgatÃ¡si, kulturÃ¡lis Ã©s egyetemi szempontbÃ³l is fontos. Fribourg ideÃ¡lis cÃ©lpont azoknak, akik a vÃ¡rosi tÃ¶rtÃ©nelmet a svÃ¡jci mindennapokkal szeretnÃ©k Ã¶tvÃ¶zni.",
       ro: "Fribourg este unul dintre cele mai cunoscute oraÈ™e bilingve din ElveÈ›ia È™i se aflÄƒ pe o buclÄƒ spectaculoasÄƒ a rÃ¢ului Saane. Centrul vechi medieval, podurile È™i bisericile creeazÄƒ o atmosferÄƒ istoricÄƒ puternicÄƒ. OraÈ™ul este important administrativ, cultural È™i universitar. Fribourg este o destinaÈ›ie potrivitÄƒ pentru cei care vor sÄƒ combine istoria urbanÄƒ cu viaÈ›a elveÈ›ianÄƒ cotidianÄƒ.",
@@ -806,14 +934,20 @@ export const switzerlandCities: POI[] = [
     id: "city-sion",
     type: "city",
     parent: "country-switzerland",
-    coords: [7.3606, 46.2332],
+    coords: [7.3589, 46.2331],
     name: {
-      de: "Sion",
+      de: "Sitten",
       hu: "Sion",
       ro: "Sion",
       en: "Sion"
     },
     description: {
+      de: "Sion (Sitten) ist die Hauptstadt des Kantons Wallis, eine sonnenverwöhnte Stadt im Rhonetal, bekannt für ihre zwei markanten Hügelburgen Valère und Tourbillon.",
+      hu: "Sion (Sitten) Wallis kanton fővárosa, a Rhone-völgy napsütötte városa, amely két jellegzetes dombtetőn álló váráról, Valère-ről és Tourbillonról ismert.",
+      ro: "Sion (Sitten) este capitala cantonului Valais, un oraș însorit în valea Ronului, cunoscut pentru cele două castele distinctive de pe dealuri, Valère și Tourbillon.",
+      en: "Sion (Sitten) is the capital of the canton of Valais, a sun-drenched city in the Rhone Valley, known for its two distinctive hilltop castles, Valère and Tourbillon."
+    },
+    descriptionAdvanced: {
       de: "Sion ist die Hauptstadt des Kantons Wallis und liegt in einem der sonnigsten TÃ¤ler der Schweiz. Die Stadt ist fÃ¼r ihre HÃ¼gel mit den Burgen Tourbillon und ValÃ¨re bekannt. Weinbau, Alpenzugang und Verwaltungsfunktionen machen Sion besonders vielseitig. Als regionales Zentrum verbindet die Stadt Geschichte, Landschaft und wirtschaftliche Bedeutung.",
       hu: "Sion Valais kanton fÅ‘vÃ¡rosa, Ã©s SvÃ¡jc egyik legnaposabb vÃ¶lgyÃ©ben fekszik. A vÃ¡ros hÃ­res a Tourbillon Ã©s ValÃ¨re vÃ¡raival koronÃ¡zott dombjairÃ³l. A szÅ‘lÅ‘termesztÃ©s, az alpesi kapcsolatok Ã©s a kÃ¶zigazgatÃ¡si szerep nagyon sokoldalÃºvÃ¡ teszik Siont. RegionÃ¡lis kÃ¶zpontkÃ©nt a tÃ¶rtÃ©nelem, a tÃ¡j Ã©s a gazdasÃ¡gi jelentÅ‘sÃ©g talÃ¡lkozik itt.",
       ro: "Sion este capitala cantonului Valais È™i se aflÄƒ Ã®ntr-una dintre cele mai Ã®nsorite vÄƒi din ElveÈ›ia. OraÈ™ul este cunoscut pentru colinele sale dominate de castelele Tourbillon È™i ValÃ¨re. Viticultura, accesul la Alpi È™i funcÈ›iile administrative fac din Sion un oraÈ™ foarte versatil. Ca centru regional, el combinÄƒ istoria, peisajul È™i importanÈ›a economicÄƒ.",

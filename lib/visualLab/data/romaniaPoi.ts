@@ -20,6 +20,12 @@ export const romaniaCountry: POI[] = [
     coords: [24.9668, 45.9432],
     name: { de: "Rumänien", hu: "Románia", ro: "România", en: "Romania" },
     description: {
+      de: "Rumänien ist ein Land in Südosteuropa, bekannt für die bewaldete Region Transsilvanien, die majestätischen Karpaten und das einzigartige Donaudelta.",
+      hu: "Románia egy délkelet-európai ország, amely Erdély erdős vidékeiről, a fenséges Kárpátokról és az egyedülálló Duna-deltáról ismert.",
+      ro: "România este o țară din sud-estul Europei, cunoscută pentru regiunea împădurită a Transilvaniei, maiestuoșii Munți Carpați și Delta Dunării unică.",
+      en: "Romania is a country in southeastern Europe, known for the forested region of Transylvania, the majestic Carpathian Mountains, and the unique Danube Delta."
+    },
+    descriptionAdvanced: {
       de: `Rumänien ist ein faszinierendes Land in Südosteuropa, das für die bewaldete Region Transsilvanien und die Karpaten bekannt ist. Es grenzt an das Schwarze Meer, Bulgarien, die Ukraine, Ungarn, Serbien und die Republik Moldau. Das Donaudelta ist ein wichtiges Biosphärenreservat und Lebensraum vieler Vogelarten. Mittelalterliche Städte wie Sighișoara und befestigte Kirchen prägen die kulturelle Landschaft. Die reiche Geschichte verbindet dakische, römische und osmanische Einflüsse zu einer einzigartigen Identität.`,
       hu: `Románia egy lenyűgöző délkelet-európai ország, amely a Kárpátokról és Erdély festői tájairól ismert. Határos a Fekete-tengerrel, Bulgáriával, Ukrajnával, Magyarországgal, Szerbiával és a Moldvai Köztársasággal. A Duna-delta fontos bioszféra-rezervátum, amely számos madárfajnak ad otthont. A középkori városok, mint Segesvár, és az erődtemplomok gazdagítják a kulturális tájat. Gazdag történelme a dák, római és oszmán hatásokat ötvözi egyedülálló identitássá.`,
       ro: `România este o țară fascinantă în sud-estul Europei, cunoscută pentru regiunea împădurită a Transilvaniei și Munții Carpați. Se învecinează cu Marea Neagră, Bulgaria, Ucraina, Ungaria, Serbia și Republica Moldova. Delta Dunării este o rezervație importantă a biosferei și habitat pentru multe specii de păsări. Orașe medievale precum Sighișoara și bisericile fortificate îmbogățesc peisajul cultural. Istoria bogată combină influențele dacice, romane și otomane într-o identitate unică.`,
@@ -274,6 +280,12 @@ export const romaniaRegions: POI[] = [
     id: "RO-B", type: "region", parent: "RO", coords: [26.1025, 44.4268],
     name: { de: "Bukarest", hu: "Bukarest", ro: "București", en: "Bucharest" },
     description: {
+      de: "Bukarest ist die Hauptstadt Rumäniens, eine pulsierende Metropole, bekannt für ihre eklektische Architektur, den monumentalen Parlamentspalast und das lebendige Altstadtviertel Lipscani.",
+      hu: "Bukarest Románia fővárosa, egy lüktető metropolisz, amely eklektikus építészetéről, a monumentális Parlamenti Palotáról és a nyüzsgő Lipscani óvárosi negyedről ismert.",
+      ro: "București este capitala României, o metropolă vibrantă, cunoscută pentru arhitectura sa eclectică, monumentalul Palat al Parlamentului și cartierul plin de viață al Centrului Vechi, Lipscani.",
+      en: "Bucharest is the capital of Romania, a vibrant metropolis known for its eclectic architecture, the monumental Palace of the Parliament, and the lively Old Town district of Lipscani."
+    },
+    descriptionAdvanced: {
       de: `Bukarest ist die Hauptstadt und das wirtschaftliche sowie kulturelle Zentrum Rumäniens. Oft als „Paris des Ostens“ bezeichnet, beeindruckt die Stadt durch ihre Mischung aus historischer, neoklassizistischer und kommunistischer Architektur. Das Leben pulsiert in den breiten Boulevards und dem lebhaften Altstadtviertel Lipscani. Bukarest bietet eine reiche Kulturszene mit zahlreichen Museen, Theatern und Parks wie dem Herăstrău. Die Stadt entwickelt sich stetig weiter und ist ein wichtiger Technologie-Hub in Osteuropa.`,
       hu: `Bukarest Románia fővárosa, valamint gazdasági és kulturális központja. A gyakran "Kelet Párizsaként" emlegetett város történelmi, neoklasszikus és kommunista építészetének keveredésével nyűgöz le. Az élet a széles sugárutakon és a nyüzsgő Lipscani óvárosi negyedben lüktet. Bukarest gazdag kulturális színtérrel rendelkezik, számos múzeummal, színházzal és parkkal, mint például a Herăstrău. A város folyamatosan fejlődik, és Kelet-Európa fontos technológiai központja.`,
       ro: `București este capitala și centrul economic și cultural al României. Adesea numit „Micul Paris”, orașul impresionează prin amestecul său de arhitectură istorică, neoclasică și comunistă. Viața pulsează pe bulevardele largi și în cartierul plin de viață al Centrului Vechi, Lipscani. Bucureștiul oferă o scenă culturală bogată, cu numeroase muzee, teatre și parcuri precum Herăstrău. Orașul se dezvoltă continuu și este un important hub tehnologic în Europa de Est.`,
@@ -673,6 +685,12 @@ export const romaniaRegions: POI[] = [
     id: "RO-CJ", type: "region", parent: "RO", coords: [23.6236, 46.7712],
     name: { de: "Klausenburg", hu: "Kolozs", ro: "Cluj", en: "Cluj" },
     description: {
+      de: "Der Kreis Cluj ist das Herz Siebenbürgens, bekannt für die dynamische Universitätsstadt Cluj-Napoca, seinen boomenden IT-Sektor und reiche kulturelle Traditionen.",
+      hu: "Kolozs megye Erdély szíve, amely a dinamikus egyetemi városáról, Kolozsvárról, virágzó IT-szektoráról és gazdag kulturális hagyományairól ismert.",
+      ro: "Județul Cluj este inima Transilvaniei, cunoscut pentru orașul universitar dinamic Cluj-Napoca, sectorul său IT în plină expansiune și tradițiile culturale bogate.",
+      en: "Cluj County is the heart of Transylvania, known for the dynamic university city of Cluj-Napoca, its booming IT sector, and rich cultural traditions."
+    },
+    descriptionAdvanced: {
       de: `Der Kreis Cluj ist ein pulsierender und wirtschaftlich fortgeschrittener Kreis im nordwestlichen Teil Rumäniens in Siebenbürgen. Seine Hauptstadt Cluj-Napoca ist eines der wichtigsten akademischen, kulturellen und industriellen Zentren des Landes. Der Kreis verfügt über eine vielfältige Landschaft, darunter das Apuseni-Gebirge und das Tal des Flusses Someșul Mic. Er ist bekannt für seinen schnell wachsenden IT-Sektor, der oft als "Silicon Valley von Siebenbürgen" bezeichnet wird. Die Region bietet auch zahlreiche historische Stätten, darunter das Bánffy-Schloss in Bonțida, Heimat des Electric Castle Festivals.`,
       hu: `Kolozs megye egy élénk és gazdaságilag fejlett megye Románia északnyugati részén, Erdélyben. Fővárosa, Kolozsvár az ország egyik legfontosabb egyetemi, kulturális és ipari központja. A megye változatos tájjal büszkélkedhet, beleértve az Erdélyi-középhegységet és a Kis-Szamos folyó völgyét. Híres gyorsan növekvő IT-szektoráról, amelyet gyakran "Erdély Szilícium-völgyének" neveznek. A régió számos történelmi helyszínnel is rendelkezik, köztük a bonchidai Bánffy-kastéllyal, amely az Electric Castle fesztiválnak ad otthont.`,
       ro: `Județul Cluj este un județ vibrant și avansat economic, situat în partea de nord-vest a României, în Transilvania. Capitala sa, Cluj-Napoca, este unul dintre cele mai importante centre academice, culturale și industriale din țară. Județul se mândrește cu un peisaj divers, incluzând Munții Apuseni și valea râului Someșul Mic. Este renumit pentru sectorul său IT în creștere rapidă, adesea numit "Silicon Valley al Transilvaniei". Regiunea prezintă, de asemenea, numeroase situri istorice, inclusiv Castelul Bánffy din Bonțida, gazda festivalului Electric Castle.`,
