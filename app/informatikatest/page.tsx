@@ -35,10 +35,9 @@ const INFO_CONFIG: LanguageTestEngineConfig = {
   bgColors: INFO_COLORS,
 
   countries: [
-    { code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" },
-    { code: "RO", flag: "🇷🇴", label: "România", sub: "1–10 notă" },
     { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
+    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
   calculateMark: (pct) => calculateKemiaMark(pct),
 

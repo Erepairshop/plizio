@@ -43,7 +43,6 @@ const BIO_CONFIG: LanguageTestEngineConfig = {
     { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
-    { code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" },
   ],
   calculateMark: (pct) => calculateBiologieMark(pct),
 
