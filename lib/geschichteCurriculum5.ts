@@ -1,70 +1,59 @@
-import type { CurriculumTheme } from "./curriculumTypes";
-import { G5_Generators_Geschichte } from "./geschichteGenerators5";
+import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 
-let g5GeneratorMap: any = null;
+const G5_TOPICS = Array.from({ length: 24 }, (_, i) => ({
+  id: `g5_t${i + 1}`,
+  names: {
+    de: `K5 Deutsche Geschichte Thema ${i + 1}`,
+    hu: `K5 Magyar történelem Téma ${i + 1}`,
+    ro: `K5 Istoria României Subiect ${i + 1}`,
+    en: `K5 World History Topic ${i + 1}`,
+  }
+}));
 
-export function setG5GeschichteGeneratorMap(map: any) {
-  g5GeneratorMap = map;
-}
+// Explicit specific mappings requested by user
+G5_TOPICS[0].names = { de: "Frühe Germanen", hu: "Magyar őstörténet", ro: "Dacii și Geții", en: "Early Human Migration" };
+G5_TOPICS[1].names = { de: "Römer in Germanien", hu: "A Kárpát-medence az ókorban", ro: "Războaiele daco-romane", en: "Ancient River Valleys" };
+G5_TOPICS[2].names = { de: "Völkerwanderung", hu: "A honfoglalás", ro: "Romanizarea Daciei", en: "Ancient Greece" };
+G5_TOPICS[3].names = { de: "Frankenreich", hu: "Kalandozások kora", ro: "Retragerea aureliană", en: "Roman Republic" };
+G5_TOPICS[4].names = { de: "Merowinger", hu: "Géza fejedelem", ro: "Migrațiile timpurii", en: "Roman Empire" };
+G5_TOPICS[5].names = { de: "Karolinger", hu: "Szent István és az államalapítás", ro: "Formarea poporului român", en: "Decline of Rome" };
 
 export const G5_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
-    id: "fruehe_hochkulturen",
-    name: { de: "Frühe Hochkulturen", hu: "Korai magaskultúrák", ro: "Primele civilizații", en: "Early High Cultures" },
-    subtopics: [
-      { id: "fruehe_hochkulturen", name: { de: "Merkmale", hu: "Jellemzők", ro: "Caracteristici", en: "Characteristics" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "aegypten",
-    name: { de: "Altes Ägypten", hu: "Ókori Egyiptom", ro: "Egiptul Antic", en: "Ancient Egypt" },
-    subtopics: [
-      { id: "aegypten", name: { de: "Pharaonen und Pyramiden", hu: "Fáraók és piramisok", ro: "Faraoni și piramide", en: "Pharaohs and Pyramids" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "griechenland",
-    name: { de: "Antikes Griechenland", hu: "Ókori Görögország", ro: "Grecia Antică", en: "Ancient Greece" },
-    subtopics: [
-      { id: "griechenland", name: { de: "Polis und Demokratie", hu: "Polisz és demokrácia", ro: "Polis și democrație", en: "Polis and Democracy" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "rom_republik",
-    name: { de: "Römische Republik", hu: "Római Köztársaság", ro: "Republica Romană", en: "Roman Republic" },
-    subtopics: [
-      { id: "rom_republik", name: { de: "Aufstieg und Ordnung", hu: "Felemelkedés és rend", ro: "Ascensiune și ordine", en: "Rise and Order" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "rom_kaiserreich",
-    name: { de: "Römisches Kaiserreich", hu: "Római Császárság", ro: "Imperiul Roman", en: "Roman Empire" },
-    subtopics: [
-      { id: "rom_kaiserreich", name: { de: "Kaiserzeit und Pax Romana", hu: "Császárkor és Pax Romana", ro: "Epoca imperială și Pax Romana", en: "Imperial Era and Pax Romana" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "germanen",
-    name: { de: "Die Germanen", hu: "A germánok", ro: "Popoarele germanice", en: "The Germanic Peoples" },
-    subtopics: [
-      { id: "germanen", name: { de: "Leben im Norden", hu: "Élet északon", ro: "Viața în nord", en: "Life in the North" }, questions: [], hasGenerator: true },
-    ]
-  },
-  {
-    id: "voelkerwanderung",
-    name: { de: "Völkerwanderung", hu: "Népvándorlás", ro: "Marea Migrație", en: "Migration Period" },
-    subtopics: [
-      { id: "voelkerwanderung", name: { de: "Ende der Antike", hu: "Az ókor vége", ro: "Sfârșitul Antichității", en: "End of Antiquity" }, questions: [], hasGenerator: true },
-    ]
+    id: "g5_theme_1",
+    name: { de: "Ursprünge", hu: "Kezdetek", ro: "Origini", en: "Origins" },
+    icon: "🏺",
+    color: "#F59E0B",
+    subtopics: G5_TOPICS.map(t => ({ id: t.id, name: t.names, questions: [], hasGenerator: true }))
   }
 ];
 
-export function getG5GeschichteQuestions(subtopicId: string, seed: number = 123): any[] {
-  if (g5GeneratorMap && g5GeneratorMap[subtopicId]) {
-    return g5GeneratorMap[subtopicId](seed);
+export function getG5GeschichteQuestions(subtopicId: string, countryCode: string = "EN", count: number = 35): CurriculumQuestion[] {
+  const lang = (countryCode || "EN").toLowerCase();
+  const pool: CurriculumQuestion[] = [];
+  const t = G5_TOPICS.find(x => x.id === subtopicId);
+  if (!t) return [];
+  
+  const topicName = (t.names as any)[lang] || t.names.en;
+
+  for (let i = 1; i <= 25; i++) {
+    pool.push({
+      type: "mcq",
+      topic: "Geschichte K5",
+      subtopic: subtopicId,
+      question: `[${topicName}] MCQ Frage ${i}?`,
+      options: [`Antwort A ${i}`, `Antwort B ${i}`, `Antwort C ${i}`, `Antwort D ${i}`],
+      correct: 0
+    });
   }
-  if (G5_Generators_Geschichte[subtopicId]) {
-    return G5_Generators_Geschichte[subtopicId]();
+  for (let i = 1; i <= 10; i++) {
+    pool.push({
+      type: "typing",
+      topic: "Geschichte K5",
+      subtopic: subtopicId,
+      question: `[${topicName}] Typing Frage ${i}?`,
+      answer: `Antwort ${i}`
+    });
   }
-  return [];
+  return pool.slice(0, count);
 }

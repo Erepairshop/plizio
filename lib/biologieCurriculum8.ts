@@ -78,6 +78,7 @@ const K8: BiologieTheme[] = [
       { id: "artbildung", name: { de: "Artbildung", hu: "Fajképződés", ro: "Speciație", en: "Speciation" }, questions: [], hasGenerator: true },
       { id: "phylogenie", name: { de: "Phylogenie", hu: "Törzsfejlődés", ro: "Filogenie", en: "Phylogeny" }, questions: [], hasGenerator: true },
       { id: "conservation_biology", name: { de: "Naturschutzbiologie", hu: "Természetvédelmi biológia", ro: "Biologia conservării", en: "Conservation biology" }, questions: [], hasGenerator: true },
+      { id: "human_evolution", name: { de: "Menschliche Evolution", hu: "Emberi evolúció", ro: "Evoluția umană", en: "Human evolution" }, questions: [], hasGenerator: true },
     ],
   },
 ];

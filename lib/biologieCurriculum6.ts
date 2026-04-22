@@ -76,6 +76,9 @@ const K6: BiologieTheme[] = [
       { id: "male_repro", name: { de: "Männliches System", hu: "Férfi szaporító szervrendszer", ro: "Sistem reproducător masculin", en: "Male reproductive system" }, questions: [], hasGenerator: true },
       { id: "female_repro", name: { de: "Weibliches System", hu: "Női szaporító szervrendszer", ro: "Sistem reproducător feminin", en: "Female reproductive system" }, questions: [], hasGenerator: true },
       { id: "hormones", name: { de: "Hormone", hu: "Hormonok", ro: "Hormoni", en: "Hormones" }, questions: [], hasGenerator: true },
+      { id: "hygiene", name: { de: "Hygiene", hu: "Higiénia", ro: "Igienă", en: "Hygiene" }, questions: [], hasGenerator: true },
+      { id: "growth", name: { de: "Wachstum", hu: "Növekedés", ro: "Creștere", en: "Growth" }, questions: [], hasGenerator: true },
+      { id: "changes", name: { de: "Körperliche Veränderungen", hu: "Testi változások", ro: "Schimbări fizice", en: "Physical changes" }, questions: [], hasGenerator: true },
     ],
   },
 ];
