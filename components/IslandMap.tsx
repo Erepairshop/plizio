@@ -704,8 +704,15 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     setAvatarJump({ reaction: "wave", timestamp: Date.now() });
     setInteracting(true);
     setTimeout(() => setInteracting(false), 2000);
-    if (targetIsland) setSelectedId(targetIsland.id);
-  }, [targetIsland]);
+    if (targetIsland) {
+      // Direct-navigate islands (brain/learn) honor href instead of opening panel
+      if (targetIsland.href) {
+        router.push(targetIsland.href);
+      } else {
+        setSelectedId(targetIsland.id);
+      }
+    }
+  }, [targetIsland, router]);
 
   // Track previous position for smooth movement
   useEffect(() => {
