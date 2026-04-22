@@ -182,15 +182,18 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     const gen = deutschGen || bioGen || physikGen || chemieGen || geoGen || magyarGen || sachkundeGen || geschichteGen;
     if (gen) {
       const seed = Math.floor(Math.random() * 1000000);
-      const result = chemieGen || geoGen
-        ? geoGen
-          ? gen(lang, seed)
-          : gen(seed)
-        : (magyarGen || sachkundeGen || geschichteGen)
-        ? gen(seed)
-        : PHYSIK_SEED_ONLY_KEYS.has(q.generate)
-        ? gen(seed)
-        : gen(lang, seed);
+      let result;
+      if (bioGen) {
+        result = gen(seed, lang);
+      } else if (chemieGen || geoGen || physikGen || deutschGen) {
+        if (PHYSIK_SEED_ONLY_KEYS.has(q.generate)) {
+          result = gen(seed);
+        } else {
+          result = gen(lang, seed);
+        }
+      } else {
+        result = gen(seed);
+      }
       const pool = Array.isArray(result) ? result : [result];
       const mcqs = pool.filter((item) => item && item.type === "mcq" && Array.isArray(item.options));
       const qObj = mcqs[Math.floor(Math.random() * Math.max(mcqs.length, 1))];

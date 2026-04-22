@@ -420,8 +420,8 @@ function deriveSubject(explorerId?: string): AISubject {
 
 function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, subject, grade }: Props) {
   const langCode = lang || "en";
-  const t = def.labels[langCode] || def.labels.ro || def.labels.en || {};
-  const tFallback = def.labels.ro || def.labels.en || def.labels.de || {};
+  const t = def.labels[langCode] ?? def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
+  const tFallback = def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
@@ -471,7 +471,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
       return { ...t, quiz: newQuiz, interactive: newInteractive };
     });
-  }, []);  // eslint-disable-line react-hooks/exhaustive-deps
+  }, [def.topics, lang]);
   const totalTopics = topics.length;
 
   const [round, setRound] = useState(0);
@@ -553,7 +553,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         ? shuffle([...r.orderSequence])
         : []
     );
-  }, []);  // eslint-disable-line react-hooks/exhaustive-deps
+  }, [rounds, lang]);
 
   // Shuffle MCQ pools for review rounds (rounds with multiple questions)
   // Also shuffle each question's choices so the correct answer isn't always first
@@ -562,7 +562,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       const pool = r.questions && r.questions.length > 1 ? shuffle(r.questions) : r.questions || [];
       return pool.map(q => ({ ...q, choices: shuffle([...q.choices]) }));
     });
-  }, []);  // eslint-disable-line react-hooks/exhaustive-deps
+  }, [rounds, lang]);
 
   // Get current MCQ question
   const getCurrentQuestion = useCallback((): MCQQuestion | null => {
@@ -699,7 +699,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     const topicLabels = currentTopic?.labels;
     if (topicLabels && topicLabels[key]) {
       const tl = topicLabels[key];
-      return tl[langCode as keyof typeof tl] || tl.en || key;
+      return tl[langCode as keyof typeof tl] ?? tl.en ?? tl.de ?? Object.values(tl)[0] ?? key;
     }
     // Fallback: config.labels (UI-wide)
     return t[key] || tFallback[key] || key;

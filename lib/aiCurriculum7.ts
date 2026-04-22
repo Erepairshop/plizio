@@ -1,28 +1,37 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
-import t01 from "@/data/ai/class-7/hu/1.json";
+import { generateAiPool } from "./explorerPools/ai_content_generator";
 
-type RawTask = { type: "mcq"; question: string; options: string[]; correct: number } | { type: "typing"; text: string };
-
-function jsonToQuestions(subtopicId: string, tasks: RawTask[]): KemiaQuestion[] {
-  return tasks.flatMap((task): KemiaQuestion[] => {
-    if (task.type === "mcq") {
-      return [{ type: "mcq", topic: "ai", subtopic: subtopicId, question: task.question, options: task.options, correct: task.correct }];
-    }
-    return [{ type: "typing", topic: "ai", subtopic: subtopicId, question: task.text, answer: task.text }];
-  });
-}
-
-const e = (json: any): RawTask[] => (json.tasks ?? []) as RawTask[];
-
-export const AI_K7_CURRICULUM: KemiaTheme[] = Array.from({length: 6}, (_, th) => ({
-  id: `ai_k7_th${th+1}`, name: `AI Téma ${th+1}`, icon: "💡", color: "#F59E0B",
-  subtopics: Array.from({length: 5}, (_, sub) => ({
-    id: `ai_k7_t${th*5 + sub + 1}`,
-    name: { de: `Thema ${th*5 + sub + 1}`, en: `Topic ${th*5 + sub + 1}`, hu: `Téma ${th*5 + sub + 1}`, ro: `Tema ${th*5 + sub + 1}` },
-    questions: jsonToQuestions(`ai_k7_t${th*5 + sub + 1}`, e(t01)),
-    hasGenerator: false
-  }))
-}));
+export const AI_K7_CURRICULUM: KemiaTheme[] = Array.from({length: 9}, (_, th) => {
+  const i = th + 1;
+  const poolData = generateAiPool(7, i);
+  return {
+    id: `ai_k7_th${i}`,
+    name: poolData.labels.hu.explorer_title,
+    icon: "💡",
+    color: "#F59E0B",
+    subtopics: Array.from({length: 15}, (_, sub) => {
+      const topicIndex = sub + 1;
+      return {
+        id: `ai_k7_t${i}_${topicIndex}`,
+        name: {
+          de: poolData.labels.de[`t${topicIndex}_title`],
+          en: poolData.labels.en[`t${topicIndex}_title`],
+          hu: poolData.labels.hu[`t${topicIndex}_title`],
+          ro: poolData.labels.ro[`t${topicIndex}_title`]
+        },
+        questions: poolData.pool[sub].quiz ? [{
+          type: "mcq",
+          topic: "ai",
+          subtopic: `ai_k7_t${i}_${topicIndex}`,
+          question: poolData.labels.hu[`t${topicIndex}_q`],
+          options: poolData.pool[sub].quiz!.choices.map((c: string) => poolData.labels.hu[c]),
+          correct: 0
+        }] : [],
+        hasGenerator: false
+      };
+    })
+  };
+});
 
 export function getAIK7Questions(subtopicIds: string[], count?: number): KemiaQuestion[] {
   const pool: KemiaQuestion[] = [];
