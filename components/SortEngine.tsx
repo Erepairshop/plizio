@@ -81,7 +81,7 @@ function SortEngine({ sortRange, color, onDone, generateRound, rounds: totalRoun
   return (
     <div className="flex flex-col gap-4 w-full max-w-md mx-auto items-center">
       {/* ── HUD ── */}
-      <div className="flex items-center justify-between w-full px-2">
+      <div className="flex flex-wrap items-center justify-between px-2 gap-2 w-full">
         <div className="flex items-center gap-2 px-3 py-1.5 rounded-full"
           style={{ background: `${color}15`, border: `1px solid ${color}30` }}>
           <Trophy size={14} style={{ color }} />

@@ -226,7 +226,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
       )}
 
       {/* ── Top HUD ── */}
-      <div className="flex items-center justify-between px-2">
+      <div className="flex flex-wrap items-center justify-between px-2 gap-2">
         {cfg.showScore && (
           <div className="relative flex items-center gap-2 px-3 py-1.5 rounded-full"
             style={{ background: `${color}15`, border: `1px solid ${color}30` }}>
@@ -297,7 +297,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
           }} />
 
           <div className="flex items-center gap-3 relative z-10 w-full">
-            <p className="text-xl font-black text-white leading-snug flex-1 text-center drop-shadow-sm">
+            <p className="text-xl font-black text-white leading-snug flex-1 text-center drop-shadow-sm text-balance break-words">
               {q.question}
             </p>
             <button onClick={() => speakText(q.question, lang)}
@@ -391,7 +391,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
                   style={{ background: letterBg, color: letterCol }}>
                   {letter}
                 </div>
-                <span className="relative z-10 flex-1">{optStr}</span>
+                <span className="relative z-10 flex-1 text-balance break-words">{optStr}</span>
 
                 {/* Correct checkmark */}
                 {locked && isRight && (

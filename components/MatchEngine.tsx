@@ -99,7 +99,7 @@ function MatchEngine({ pairs: initialPairs, color, onDone, regenerate, rounds: t
   return (
     <div className="flex flex-col gap-4 w-full max-w-md mx-auto">
       {/* ── HUD ── */}
-      <div className="flex items-center justify-between px-2">
+      <div className="flex flex-wrap items-center justify-between gap-2 px-2">
         <div className="flex items-center gap-2 px-3 py-1.5 rounded-full"
           style={{ background: `${color}15`, border: `1px solid ${color}30` }}>
           <Trophy size={14} style={{ color }} />
