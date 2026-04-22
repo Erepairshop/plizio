@@ -1,0 +1,31 @@
+Kép mezővel rendelkező, de hiányzó fájlok: 1362
+Kép mező nélküli vagy üres POI-k: 123
+Összesen: 1485
+
+Fájlonkénti hiányzó/üres képek:
+romaniaPoi.ts: 103
+estoniaPoi.ts: 100
+luxembourgPoi.ts: 90
+latviaPoi.ts: 89
+portugalPoi.ts: 89
+finlandPoi.ts: 85
+belgiumPoi.ts: 84
+czechRepublicPoi.ts: 83
+greecePoi.ts: 81
+irelandPoi.ts: 79
+poi.ts: 71
+lithuaniaPoi.ts: 62
+bulgariaPoi.ts: 53
+croatiaPoi.ts: 49
+norwayPoi.ts: 46
+sloveniaPoi.ts: 46
+swedenPoi.ts: 45
+austriaPoi.ts: 43
+slovakiaPoi.ts: 43
+switzerlandPoi.ts: 42
+denmarkPoi.ts: 40
+polandPoi.ts: 27
+unitedkingdomPoi.ts: 23
+italyPoi.ts: 6
+francePoi.ts: 5
+netherlandsPoi.ts: 1
