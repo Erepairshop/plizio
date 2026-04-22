@@ -72,13 +72,19 @@ import { serbiaMap, serbiaViewBox, projectCoordsRS } from "./serbia.svg";
 import { serbiaAllPoi } from "../data/serbiaPoi";
 import { bosniaMap, bosniaViewBox, projectCoordsBA } from "./bosnia.svg";
 import { bosniaAllPoi } from "../data/bosniaPoi";
+import { montenegroMap, montenegroViewBox, projectCoordsME } from "./montenegro.svg";
+import { montenegroAllPoi } from "../data/montenegroPoi";
+import { northmacedoniaMap, northmacedoniaViewBox, projectCoordsMK } from "./northmacedonia.svg";
+import { northmacedoniaPois } from "../data/northmacedoniaPoi";
+import { kosovoMap, kosovoViewBox, projectCoordsXK } from "./kosovo.svg";
+import { kosovoAllPoi } from "../data/kosovoPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -88,6 +94,33 @@ export interface CountryMapData {
 
 export function getCountryMap(lang: Lang): CountryMapData {
   switch (lang) {
+    case "xk":
+      return {
+        countryId: "XK",
+        map: kosovoMap as unknown as BundeslandPath[],
+        viewBox: kosovoViewBox,
+        projectCoords: projectCoordsXK,
+        pois: kosovoAllPoi,
+        subregions: {},
+      };
+    case "mk":
+      return {
+        countryId: "MK",
+        map: northmacedoniaMap as unknown as BundeslandPath[],
+        viewBox: northmacedoniaViewBox,
+        projectCoords: projectCoordsMK,
+        pois: northmacedoniaPois,
+        subregions: {},
+      };
+    case "me":
+      return {
+        countryId: "ME",
+        map: montenegroMap as unknown as BundeslandPath[],
+        viewBox: montenegroViewBox,
+        projectCoords: projectCoordsME,
+        pois: montenegroAllPoi,
+        subregions: {},
+      };
     case "ba":
       return {
         countryId: "BA",
