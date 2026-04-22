@@ -84,13 +84,17 @@ import { ukraineMap, ukraineViewBox, projectCoordsUA } from "./ukraine.svg";
 import { belarusMap, belarusViewBox, projectCoordsBY } from "./belarus.svg";
 import { ukrainePois } from "../data/ukrainePoi";
 import { belarusAllPoi } from "../data/belarusPoi";
+import { andorraMap, andorraViewBox, projectCoordsAD } from "./andorra.svg";
+import { andorraAllPoi } from "../data/andorraPoi";
+import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
+import { monacoAllPoi } from "../data/monacoPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK" | "MD" | "BY"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY" | "AL" | "BA" | "ME" | "MK" | "MD" | "BY" | "AD" | "MC"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -450,6 +454,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: cyprusViewBox,
         projectCoords: projectCoordsCY,
         pois: cyprusAllPoi,
+        subregions: {},
+      };
+    case "ad":
+      return {
+        countryId: "AD",
+        map: andorraMap as unknown as BundeslandPath[],
+        viewBox: andorraViewBox,
+        projectCoords: projectCoordsAD,
+        pois: andorraAllPoi,
+        subregions: {},
+      };
+    case "mc":
+      return {
+        countryId: "MC",
+        map: monacoMap as unknown as BundeslandPath[],
+        viewBox: monacoViewBox,
+        projectCoords: projectCoordsMC,
+        pois: monacoAllPoi,
         subregions: {},
       };
     case "de":

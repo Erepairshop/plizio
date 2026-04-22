@@ -55,9 +55,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/montenegro-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/northmacedonia-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/kosovo-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/liechtenstein-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/moldova-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/ukraine-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/belarus-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/andorra-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/monaco-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/astro-ai`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/aitest`, lastModified, priority: 0.9 },
   ];
