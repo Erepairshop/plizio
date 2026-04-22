@@ -205,12 +205,30 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const searchParams = useSearchParams();
   const { lang: globalLang } = useLang();
   const { labels } = config;
-  // Főoldali nyelvválasztó → country mapping (UI country-picker tiltva)
+  // Lang-alapu country lista (kozos minden test-route-ban)
+  const COUNTRIES_BY_LANG: Record<string, { code: string; flag: string; label: string; sub: string }[]> = {
+    de: [
+      { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
+      { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
+      { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
+    ],
+    en: [
+      { code: "US", flag: "🇺🇸", label: "United States", sub: "A / B / C / D / F" },
+      { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "Grade 9–1 (GCSE)" },
+      { code: "AU", flag: "🇦🇺", label: "Australia", sub: "A / B / C / D / E" },
+      { code: "CA", flag: "🇨🇦", label: "Canada", sub: "A+ / A / B+ / B / C+ / C / D / F" },
+      { code: "IE", flag: "🇮🇪", label: "Ireland", sub: "H1–H8 (Higher) / O1–O8" },
+      { code: "NZ", flag: "🇳🇿", label: "New Zealand", sub: "NCEA: N / A / M / E" },
+    ],
+    hu: [{ code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" }],
+    ro: [{ code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" }],
+  };
+  const effectiveCountries = COUNTRIES_BY_LANG[globalLang] ?? config.countries;
+  // Főoldali nyelvválasztó → country mapping
   const langToCountry: Record<string, string> = { de: "DE", hu: "HU", ro: "RO", en: "US" };
-  const countryFromLang = langToCountry[globalLang] ?? (config.countries[0]?.code ?? "DE");
-  // Multi-country nyelveknel (DE: DE/AT/CH, EN: US/UK/CA/AU/IE...) van country-picker
-  // egyebb eseten (HU, RO) auto-map, nincs UI valasztas
-  const hasCountryChoice = (globalLang === "de" || globalLang === "en") && config.countries.length > 1;
+  const countryFromLang = langToCountry[globalLang] ?? (effectiveCountries[0]?.code ?? "DE");
+  // Multi-country nyelveknel (DE/EN) van country-picker, egyebb esetben (HU/RO) nincs
+  const hasCountryChoice = effectiveCountries.length > 1;
   const g1Icons = config.g1Icons ?? G1_ICONS;
   const g1WordLabels = config.g1WordLabels ?? G1_WORD_LABELS;
   // Country auto-derived from global lang — UI country-picker átugorva
@@ -1672,7 +1690,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               className="relative z-10 flex flex-col gap-3 w-full max-w-xs"
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
             >
-              {config.countries.map((c, i) => (
+              {effectiveCountries.map((c, i) => (
                 <motion.button
                   key={c.code}
                   initial={{ opacity: 0, x: -20 }}
@@ -1763,7 +1781,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                 {config.title}
               </h1>
               <p className="text-white/50 text-sm">
-                {hasCountryChoice ? `${config.countries.find(cc => cc.code === country)?.flag ?? ""} ` : ""}{labels.selectGrade}
+                {hasCountryChoice ? `${effectiveCountries.find(cc => cc.code === country)?.flag ?? ""} ` : ""}{labels.selectGrade}
               </p>
             </motion.div>
 
