@@ -218,16 +218,20 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const gradeParam = searchParams?.get("grade");
   const parsedGradeParam = gradeParam ? parseInt(gradeParam, 10) : NaN;
   const hasGradeParam = Number.isFinite(parsedGradeParam) && parsedGradeParam >= 1 && parsedGradeParam <= 8;
-  const [screen, setScreen] = useState<Screen>(hasGradeParam ? "topics" : (hasCountryChoice ? "country" : "grade"));
+  // Initial screen: ha country-valasztos nyelv (DE/EN) → country elso; egyebkent ha van ?grade= → topics; fallback: grade
+  const [screen, setScreen] = useState<Screen>(
+    hasCountryChoice ? "country" : (hasGradeParam ? "topics" : "grade")
+  );
   const [country, setCountry] = useState<string>(countryFromLang);
   // Sync country if lang changes
   useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
-  // Ha a lang betoltodik es multi-country (DE/EN), de meg a "grade" initial screenen vagyunk → country-ra
+  // Ha a lang betoltodik es multi-country (DE/EN), de meg nem country screenen vagyunk → country-ra
+  // (LanguageProvider hu-default miatt initial useState nem mindig latja a valos lang-et)
   useEffect(() => {
-    if (hasCountryChoice && !hasGradeParam) {
-      setScreen((prev) => (prev === "grade" ? "country" : prev));
+    if (hasCountryChoice) {
+      setScreen((prev) => (prev === "grade" || prev === "topics" ? "country" : prev));
     }
-  }, [hasCountryChoice, hasGradeParam]);
+  }, [hasCountryChoice]);
   const [grade, setGrade] = useState(hasGradeParam ? parsedGradeParam : 1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
@@ -1679,7 +1683,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                   onClick={() => {
                     setCountry(c.code);
                     localStorage.setItem(config.storageKey, c.code);
-                    setScreen("grade");
+                    // /learn mindig kuld ?grade=N-t, igy grade-picker-t atugorjuk
+                    setScreen(hasGradeParam ? "topics" : "grade");
                   }}
                   className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
                   style={{
