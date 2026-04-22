@@ -60,13 +60,19 @@ import { latviaMap, latviaViewBox, projectCoordsLV } from "./latvia.svg";
 import { latviaAllPoi } from "../data/latviaPoi";
 import { estoniaMap, estoniaViewBox, projectCoordsEE } from "./estonia.svg";
 import { estoniaAllPoi } from "../data/estoniaPoi";
+import { icelandMap, icelandViewBox, projectCoordsIS } from "./iceland.svg";
+import { icelandPois } from "../data/icelandPoi";
+import { maltaMap, maltaViewBox, projectCoordsMT } from "./malta.svg";
+import { maltaPoi } from "../data/maltaPoi";
+import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
+import { cyprusAllPoi } from "../data/cyprusPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT" | "IS" | "MT" | "CY"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -318,6 +324,33 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: estoniaViewBox,
         projectCoords: projectCoordsEE,
         pois: estoniaAllPoi,
+        subregions: {},
+      };
+    case "is":
+      return {
+        countryId: "IS",
+        map: icelandMap as unknown as BundeslandPath[],
+        viewBox: icelandViewBox,
+        projectCoords: projectCoordsIS,
+        pois: icelandPois,
+        subregions: {},
+      };
+    case "mt":
+      return {
+        countryId: "MT",
+        map: maltaMap as unknown as BundeslandPath[],
+        viewBox: maltaViewBox,
+        projectCoords: projectCoordsMT,
+        pois: maltaPoi,
+        subregions: {},
+      };
+    case "cy":
+      return {
+        countryId: "CY",
+        map: cyprusMap as unknown as BundeslandPath[],
+        viewBox: cyprusViewBox,
+        projectCoords: projectCoordsCY,
+        pois: cyprusAllPoi,
         subregions: {},
       };
     case "de":
