@@ -5,8 +5,14 @@ export const italyCountry: POI = {
   type: "country",
   parent: "EU",
   coords: [12.5674, 41.8719],
-  name: { de: "Italien", hu: "OlaszorszÃ¡g", ro: "Italia", en: "Italy" },
+  name: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" },
   description: {
+    de: "Italien ist ein Land in Südeuropa, bekannt für seine jahrtausendealte Geschichte, weltberühmte Kunstschätze und die exzellente mediterrane Küche.",
+    hu: "Olaszország egy dél-európai ország, amely évezredes történelméről, világhírű művészeti kincseiről és kiváló mediterrán konyhájáról ismert.",
+    ro: "Italia este o țară din Europa de Sud, cunoscută pentru istoria sa de mii de ani, comorile artistice de renume mondial și excelenta bucătărie mediteraneană.",
+    en: "Italy is a country in Southern Europe, known for its millennia-old history, world-famous art treasures, and excellent Mediterranean cuisine."
+  },
+  descriptionAdvanced: {
       en: "Italy is a country located in Southern Europe, renowned for its rich history, diverse culture, and influential art. The Italian Peninsula is shaped like a boot and extends into the central Mediterranean Sea. It was the heart of the Roman Empire and the birthplace of the Renaissance, leaving an indelible mark on Western civilization. Today, Italy is famous for its culinary excellence, fashion, beautiful landscapes, and historic cities like Rome, Venice, and Florence. It remains a major cultural and economic power in modern Europe.",
       de: "Italien ist ein Land in SÃ¼deuropa, bekannt fÃ¼r seine reiche Geschichte, vielfÃ¤ltige Kultur und einflussreiche Kunst. Die italienische Halbinsel hat die Form eines Stiefels und erstreckt sich in das zentrale Mittelmeer. Es war das Herz des RÃ¶mischen Reiches und die GeburtsstÃ¤tte der Renaissance, was tiefe Spuren in der westlichen Zivilisation hinterlieÃŸ. Heute ist Italien berÃ¼hmt fÃ¼r seine kulinarische Exzellenz, Mode, wunderschÃ¶ne Landschaften und historische StÃ¤dte wie Rom, Venedig und Florenz. Es bleibt eine groÃŸe kulturelle und wirtschaftliche Macht in Europa.",
       hu: "OlaszorszÃ¡g DÃ©l-EurÃ³pÃ¡ban talÃ¡lhatÃ³, Ã©s gazdag tÃ¶rtÃ©nelmÃ©rÅ‘l, vÃ¡ltozatos kultÃºrÃ¡jÃ¡rÃ³l, valamint nagy hatÃ¡sÃº mÅ±vÃ©szetÃ©rÅ‘l ismert. Az olasz fÃ©lsziget csizma alakÃº, Ã©s a FÃ¶ldkÃ¶zi-tenger kÃ¶zÃ©psÅ‘ rÃ©szÃ©be nyÃºlik. A RÃ³mai Birodalom kÃ¶zpontja Ã©s a reneszÃ¡nsz szÃ¼lÅ‘hazÃ¡ja volt, amely letÃ¶rÃ¶lhetetlen nyomot hagyott a nyugati civilizÃ¡ciÃ³ban. Ma OlaszorszÃ¡g kulinÃ¡ris kivÃ¡lÃ³sÃ¡gÃ¡rÃ³l, divatjÃ¡rÃ³l, gyÃ¶nyÃ¶rÅ± tÃ¡jairÃ³l Ã©s olyan tÃ¶rtÃ©nelmi vÃ¡rosairÃ³l hÃ­res, mint RÃ³ma, Velence Ã©s Firenze. TovÃ¡bbra is jelentÅ‘s kulturÃ¡lis Ã©s gazdasÃ¡gi hatalom EurÃ³pÃ¡ban.",
@@ -130,8 +136,14 @@ export const italyCities: POI[] = [
     type: "city",
     parent: "reg-lazio",
     coords: [12.4964, 41.9028],
-    name: { de: "Rom", hu: "RÃ³ma", ro: "Roma", en: "Rome" },
+    name: { de: "Rom", hu: "Róma", ro: "Roma", en: "Rome" },
     description: {
+      de: "Rom, die 'Ewige Stadt', ist die Hauptstadt Italiens und ein lebendiges Museum der Weltgeschichte, bekannt für das Kolosseum, den Vatikan und seine antike Pracht.",
+      hu: "Róma, az „Örök Város”, Olaszország fővárosa és a világtörténelem élő múzeuma, amely a Kolosszeumról, a Vatikánról és ókori pompájáról ismert.",
+      ro: "Roma, „Orașul Etern”, este capitala Italiei și un muzeu viu al istoriei universale, cunoscut pentru Colosseum, Vatican și splendoarea sa antică.",
+      en: "Rome, the 'Eternal City', is the capital of Italy and a living museum of world history, known for the Colosseum, the Vatican, and its ancient splendor."
+    },
+    descriptionAdvanced: {
       en: "Rome, the capital city of Italy, is a sprawling, cosmopolitan metropolis with nearly 3,000 years of globally influential art, architecture, and culture on display. Ancient ruins such as the Forum and the Colosseum evoke the power of the former Roman Empire. Vatican City, headquarters of the Roman Catholic Church, has St. Peter's Basilica and the Vatican Museums, which house masterpieces such as Michelangelo's Sistine Chapel frescoes. Rome blends its historic monuments with a vibrant modern life, renowned cuisine, and bustling street culture.",
       de: "Rom, die Hauptstadt Italiens, ist eine weitlÃ¤ufige, kosmopolitische Metropole, in der fast 3.000 Jahre weltweit einflussreicher Kunst, Architektur und Kultur ausgestellt sind. Antike Ruinen wie das Forum und das Kolosseum zeugen von der Macht des ehemaligen RÃ¶mischen Reiches. Die Vatikanstadt, der Hauptsitz der rÃ¶misch-katholischen Kirche, beherbergt den Petersdom und die Vatikanischen Museen mit Meisterwerken wie Michelangelos Fresken in der Sixtinischen Kapelle. Rom verbindet seine historischen DenkmÃ¤ler mit einem pulsierenden modernen Leben, renommierter KÃ¼che und geschÃ¤ftiger StraÃŸenkultur.",
       hu: "RÃ³ma, OlaszorszÃ¡g fÅ‘vÃ¡rosa egy kiterjedt, kozmopolita metropolisz, ahol kÃ¶zel 3000 Ã©v globÃ¡lisan is jelentÅ‘s mÅ±vÃ©szete, Ã©pÃ­tÃ©szete Ã©s kultÃºrÃ¡ja tekinthetÅ‘ meg. Az Ã³kori romok, mint a Forum Ã©s a Colosseum a hajdani RÃ³mai Birodalom hatalmÃ¡t idÃ©zik. A VatikÃ¡nban, a rÃ³mai katolikus egyhÃ¡z kÃ¶zpontjÃ¡ban talÃ¡lhatÃ³ a Szent PÃ©ter-bazilika Ã©s a VatikÃ¡ni MÃºzeumok, amelyek olyan remekmÅ±veknek adnak otthont, mint Michelangelo Sixtus-kÃ¡polnai freskÃ³i. RÃ³ma tÃ¶rtÃ©nelmi emlÃ©keit vibrÃ¡lÃ³ modern Ã©lettel, hÃ­res konyhÃ¡val Ã©s nyÃ¼zsgÅ‘ utcai kultÃºrÃ¡val Ã¶tvÃ¶zi.",

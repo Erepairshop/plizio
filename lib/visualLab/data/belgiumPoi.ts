@@ -7,10 +7,16 @@ export const belgiumCountry: POI = {
   coords: [4.4699, 50.5039],
   name: { de: "Belgien", hu: "Belgium", ro: "Belgia", en: "Belgium" },
   description: {
-    en: "Belgium is a country in Western Europe known for medieval towns, Renaissance architecture, and as the headquarters of the European Union and NATO. The country has a rich history as a crossroads of Europe, blending Germanic and Latin cultures. It is famous for its culinary traditions, including world-class chocolate, waffles, and a vast variety of beers. Belgium's landscape varies from the sandy beaches of the North Sea to the rolling hills and forests of the Ardennes.",
-    de: "Belgien ist ein Land in Westeuropa, bekannt für seine mittelalterlichen Städte, Renaissance-Architektur und als Sitz der Europäischen Union und der NATO. Das Land hat eine reiche Geschichte als Kreuzungspunkt Europas, an dem germanische und lateinische Kulturen aufeinandertreffen. Es ist berühmt für seine kulinarischen Traditionen, darunter erstklassige Schokolade, Waffeln und eine enorme Vielfalt an Biersorten. Die Landschaft Belgiens reicht von den Sandstränden der Nordsee bis zu den sanften Hügeln und Wäldern der Ardennen.",
-    hu: "Belgium egy nyugat-európai ország, amelyet középkori városairól, reneszánsz építészetéről, valamint az Európai Unió és a NATO székhelyeként ismerünk. Az ország gazdag történelme során Európa kereszteződéseként szolgált, ötvözve a germán és a latin kultúrákat. Híres kulináris hagyományairól, többek között a világszínvonalú csokoládéról, gofriról és a sörök hatalmas választékáról. Belgium tájai az Északi-tenger homokos strandjaitól az Ardennek dombjaiig és erdőiig terjednek.",
-    ro: "Belgia este o țară din Europa de Vest cunoscută pentru orașele sale medievale, arhitectura renascentistă și ca sediu al Uniunii Europene și NATO. Țara are o istorie bogată ca punct de răscruce al Europei, îmbinând culturile germanice și latine. Este faimoasă pentru tradițiile sale culinare, inclusiv ciocolata de talie mondială, vafele și o varietate vastă de beri. Peisajul Belgiei variază de la plajele cu nisip ale Mării Nordului până la dealurile și pădurile din Ardeni."
+    de: "Belgien ist ein westeuropäisches Land, bekannt für seine mittelalterlichen Städte, Renaissance-Architektur und als Sitz der EU und der NATO.",
+    hu: "Belgium egy nyugat-európai ország, amely középkori városairól, reneszánsz építészetéről, valamint az EU és a NATO székhelyeként ismert.",
+    ro: "Belgia este o țară din Europa de Vest, cunoscută pentru orașele sale medievale, arhitectura renascentistă și ca sediu al UE și NATO.",
+    en: "Belgium is a Western European country known for its medieval towns, Renaissance architecture, and as the headquarters of the EU and NATO."
+  },
+  descriptionAdvanced: {
+    de: "Belgien, offiziell das Königreich Belgien, ist ein faszinierendes Land im Herzen Westeuropas, das trotz seiner geringen Größe eine enorme kulturelle und politische Bedeutung besitzt. Als Gründungsmitglied der Europäischen Union und Sitz zahlreicher internationaler Organisationen wie der NATO und der EU-Kommission fungiert die Hauptstadt Brüssel oft als das inoffizielle politische Zentrum des Kontinents. Geografisch ist Belgien in drei markante Regionen unterteilt: das niederländischsprachige Flandern im Norden, das französischsprachige Wallonien im Süden und die zweisprachige Hauptstadtregion Brüssel. Diese sprachliche und kulturelle Vielfalt prägt die Identität des Landes und spiegelt sich in seiner reichen Geschichte wider, die von der Römerzeit über das Mittelalter bis hin zur industriellen Revolution reicht. Die flämischen Städte wie Brügge, Gent und Antwerpen sind weltberühmt für ihre außergewöhnlich gut erhaltene mittelalterliche Architektur, ihre prächtigen Marktplätze und ihre bedeutende Kunstgeschichte, insbesondere die Werke der Flämischen Primitiven. Wallonien hingegen besticht durch seine malerischen Landschaften, die sanften Hügel der Ardennen, historische Zitadellen und eine tiefe industrielle Tradition. Kulinarisch ist Belgien eine Weltmacht; es ist die Heimat der besten Schokolade der Welt, knuspriger belgischer Waffeln und einer Bierkultur, die von der UNESCO zum immateriellen Kulturerbe erklärt wurde und über 800 verschiedene Sorten umfasst. Auch die Comic-Kultur ist tief in der belgischen Seele verwurzelt, mit legendären Figuren wie Tim und Struppi oder den Schlümpfen. Heute präsentiert sich Belgien als moderne, hochindustrialisierte Nation mit einer offenen Gesellschaft und einer erstklassigen Infrastruktur. Ob man durch die romantischen Kanäle von Brügge schippert, die futuristische Architektur des Atomiums in Brüssel bewundert oder die unberührte Natur der Ardennen erkundet – Belgien bietet eine einzigartige Mischung aus historischem Erbe und zeitgenössischer Dynamik, die Besucher aus aller Welt begeistert.",
+    hu: "Belgium, hivatalos nevén a Belga Királyság, egy lenyűgöző ország Nyugat-Európa szívében, amely kis mérete ellenére hatalmas kulturális és politikai jelentőséggel bír. Az Európai Unió alapító tagjaként és számos nemzetközi szervezet, például a NATO és az Európai Bizottság székhelyeként a főváros, Brüsszel, gyakran a kontinens nem hivatalos politikai központjaként funkcionál. Földrajzilag Belgium három jellegzetes régióra oszlik: az északi, holland nyelvű Flandriára, a déli, francia nyelvű Vallóniára és a kétnyelvű Brüsszeli Fővárosi Régióra. Ez a nyelvi és kulturális sokszínűség határozza meg az ország identitását, és tükröződik gazdag történelmében, amely a római kortól a középkoron át az ipari forradalomig ível. Az olyan flamand városok, mint Brugge, Gent és Antwerpen, világhírűek kivételesen jól megőrzött középkori építészetükről, pompás főtereikről és jelentős művészettörténetükről, különösen a flamand primitívek alkotásairól. Ezzel szemben Vallónia festői tájaival, az Ardennek szelíd dombjaival, történelmi citadelláival és mély ipari hagyományaival nyűgözi le a látogatókat. Kulináris szempontból Belgium világhatalom; itt található a világ legjobb csokoládéja, a ropogós belga gofri és egy olyan sörkultúra, amelyet az UNESCO a szellemi kulturális örökség részévé nyilvánított, és amely több mint 800 különböző fajtát foglal magában. A képregénykultúra is mélyen gyökerezik a belga lélekben, olyan legendás figurákkal, mint Tintin vagy a Hupikék törpikék. Ma Belgium modern, magasan iparosodott nemzet, nyitott társadalommal és első osztályú infrastruktúrával. Akár Brugge romantikus csatornáin hajókázik valaki, akár a brüsszeli Atomium futurista építészetét csodálja meg, vagy az Ardennek érintetlen természetét fedezi fel – Belgium a történelmi örökség és a kortárs dinamizmus egyedülálló keverékét kínálja, amely a világ minden tájáról vonzza a látogatókat.",
+    ro: "Belgia, oficial Regatul Belgiei, este o țară fascinantă situată în inima Europei de Vest, care, în ciuda dimensiunilor sale reduse, deține o importanță culturală și politică enormă. Ca membru fondator al Uniunii Europene și sediu al numeroaselor organizații internaționale, precum NATO și Comisia Europeană, capitala Bruxelles funcționează adesea ca centrul politic neoficial al continentului. Din punct de vedere geografic, Belgia este împărțită în trei regiuni distincte: Flandra vorbitoare de olandeză în nord, Valonia vorbitoare de franceză în sud și Regiunea Capitalei Bruxelles, care este bilingvă. Această diversitate lingvistică și culturală modelează identitatea țării și se reflectă în istoria sa bogată, care se întinde de la epoca romană, prin Evul Mediu, până la revoluția industrială. Orașele flamande precum Bruges, Gent și Anvers sunt renumite în întreaga lume pentru arhitectura lor medievală excepțional de bine conservată, piețele lor magnifice și istoria lor artistică semnificativă, în special lucrările Primitivilor Flamanzi. Pe de altă parte, Valonia impresionează prin peisajele sale pitorești, dealurile blânde ale Ardenilor, citadelele istorice și o tradiție industrială profundă. Din punct de vedere culinar, Belgia este o putere mondială; este patria celei mai bune ciocolate din lume, a vafelor belgiene crocante și a unei culturi a berii care a fost declarată de UNESCO patrimoniu cultural imaterial și care cuprinde peste 800 de soiuri diferite. De asemenea, cultura benzilor desenate este profund înrădăcinată în sufletul belgian, cu figuri legendare precum Tintin sau Ștrumpfii. Astăzi, Belgia se prezintă ca o națiune modernă, înalt industrializată, cu o societate deschisă și o infrastructură de primă clasă. Fie că navigați pe canalele romantice din Bruges, admirați arhitectura futuristă a Atomiumului din Bruxelles sau explorați natura neatinsă a Ardenilor – Belgia oferă un amestec unic de moștenire istorică și dinamism contemporan care încântă vizitatorii din întreaga lume.",
+    en: "Belgium, officially the Kingdom of Belgium, is a fascinating country in the heart of Western Europe that, despite its small size, holds enormous cultural and political significance. As a founding member of the European Union and headquarters to numerous international organizations such as NATO and the European Commission, the capital Brussels often functions as the unofficial political center of the continent. Geographically, Belgium is divided into three distinct regions: Dutch-speaking Flanders in the north, French-speaking Wallonia in the south, and the bilingual Brussels-Capital Region. This linguistic and cultural diversity shapes the country's identity and is reflected in its rich history, spanning from Roman times through the Middle Ages to the Industrial Revolution. Flemish cities like Bruges, Ghent, and Antwerp are world-renowned for their exceptionally well-preserved medieval architecture, magnificent market squares, and significant art history, particularly the works of the Flemish Primitives. Wallonia, on the other hand, impresses with its picturesque landscapes, the rolling hills of the Ardennes, historic citadels, and a deep industrial tradition. Culinarically, Belgium is a world power; it is home to the world's best chocolate, crispy Belgian waffles, and a beer culture that has been declared an intangible cultural heritage by UNESCO, encompassing over 800 different varieties. Comic book culture is also deeply rooted in the Belgian soul, with legendary figures like Tintin or the Smurfs. Today, Belgium presents itself as a modern, highly industrialized nation with an open society and first-class infrastructure. Whether cruising through the romantic canals of Bruges, admiring the futuristic architecture of the Atomium in Brussels, or exploring the untouched nature of the Ardennes—Belgium offers a unique blend of historical heritage and contemporary dynamism that delights visitors from all over the world."
   },
   facts: {
     en: [
@@ -21,7 +27,9 @@ export const belgiumCountry: POI = {
       "Belgian waffles and chocolates are world famous.",
       "Belgium has the highest density of castles in the world per square mile.",
       "The Big Bang theory was first proposed by a Belgian priest and physicist, Georges Lemaître.",
-      "Belgium produces over 220,000 tons of chocolate per year."
+      "Belgium produces over 220,000 tons of chocolate per year.",
+      "The Tomorrowland festival in Boom is one of the world's largest electronic dance music festivals.",
+      "Belgium has the world's highest number of comic book artists per square kilometer."
     ],
     de: [
       "Belgien hat drei Amtssprachen: Niederländisch, Französisch und Deutsch.",
@@ -31,7 +39,9 @@ export const belgiumCountry: POI = {
       "Belgische Waffeln und Pralinen sind weltberühmt.",
       "Belgien hat die höchste Dichte an Schlössern pro Quadratmeile weltweit.",
       "Die Urknalltheorie wurde zuerst von einem belgischen Priester und Physiker, Georges Lemaître, vorgeschlagen.",
-      "Belgien produziert jährlich über 220.000 Tonnen Schokolade."
+      "Belgien produziert jährlich über 220.000 Tonnen Schokolade.",
+      "Das Tomorrowland-Festival in Boom ist eines der weltweit größten Festivals für elektronische Tanzmusik.",
+      "Belgien hat weltweit die höchste Anzahl an Comic-Zeichnern pro Quadratkilometer."
     ],
     hu: [
       "Belgiumnak három hivatalos nyelve van: a holland, a francia és a német.",
@@ -41,7 +51,9 @@ export const belgiumCountry: POI = {
       "A belga gofri és csokoládé világhírű.",
       "Belgiumban a legmagasabb a kastélyok sűrűsége a világon négyzetmérföldenként.",
       "Az Ősrobbanás-elméletet először egy belga pap és fizikus, Georges Lemaître javasolta.",
-      "Belgium évente több mint 220 000 tonna csokoládét termel."
+      "Belgium évente több mint 220 000 tonna csokoládét termel.",
+      "A boomi Tomorrowland fesztivál a világ egyik legnagyobb elektronikus zenei fesztiválja.",
+      "Belgiumban a legmagasabb a képregényrajzolók száma egy négyzetkilométerre vetítve a világon."
     ],
     ro: [
       "Belgia are trei limbi oficiale: olandeza, franceza și germana.",
@@ -51,7 +63,9 @@ export const belgiumCountry: POI = {
       "Vafele și ciocolata belgiană sunt faimoase în întreaga lume.",
       "Belgia are cea mai mare densitate de castele din lume pe milă pătrată.",
       "Teoria Big Bang a fost propusă pentru prima dată de un preot și fizician belgian, Georges Lemaître.",
-      "Belgia produce peste 220.000 de tone de ciocolată pe an."
+      "Belgia produce peste 220.000 de tone de ciocolată pe an.",
+      "Festivalul Tomorrowland din Boom este unul dintre cele mai mari festivaluri de muzică electronică din lume.",
+      "Belgia are cel mai mare număr de artiști de benzi desenate pe kilometru pătrat din lume."
     ]
   },
   image: "/geo-images/belgium/belgium-main.webp",
@@ -65,16 +79,54 @@ export const belgiumRegions: POI[] = [
     coords: [4.3517, 50.8503],
     name: { de: "Brüssel", hu: "Brüsszel", ro: "Bruxelles", en: "Brussels" },
     description: {
-      en: "Brussels is the capital of Belgium and the administrative center of the European Union. It is a multicultural city known for its stunning Grand Place, historic architecture, and vibrant art scene. As a global hub for international politics, it hosts numerous embassies and international organizations. Visitors enjoy its diverse culinary offerings, from fine dining to street food like fries and waffles.",
-      de: "Brüssel ist die Hauptstadt Belgiens und das Verwaltungszentrum der Europäischen Union. Es ist eine multikulturelle Stadt, bekannt für ihren beeindruckenden Grand Place, historische Architektur und eine lebendige Kunstszene. Als globales Zentrum für internationale Politik beherbergt sie zahlreiche Botschaften und internationale Organisationen. Besucher genießen das vielfältige kulinarische Angebot, von gehobener Küche bis hin zu Street Food wie Pommes und Waffeln.",
-      hu: "Brüsszel Belgium fővárosa és az Európai Unió adminisztratív központja. Multikulturális város, amely lenyűgöző főteréről (Grand Place), történelmi építészetéről és vibráló művészeti életéről ismert. A nemzetközi politika globális csomópontjaként számos nagykövetségnek és nemzetközi szervezetnek ad otthont. A látogatók élvezik változatos kulináris kínálatát, a finom ételektől az utcai ételekig, mint a sült krumpli és a gofri.",
-      ro: "Bruxelles este capitala Belgiei și centrul administrativ al Uniunii Europene. Este un oraș multicultural cunoscut pentru uimitoarea sa Grand Place, arhitectura istorică și scena artistică vibrantă. Ca centru global pentru politica internațională, găzduiește numeroase ambasade și organizații internaționale. Vizitatorii se bucură de ofertele sale culinare diverse, de la restaurante rafinate la mâncare stradală, cum ar fi cartofii prăjiți și vafele."
+      de: "Brüssel ist die Hauptstadt Belgiens und das Herz der Europäischen Union, bekannt für den Grand Place, das Atomium und seine multikulturelle Atmosphäre.",
+      hu: "Brüsszel Belgium fővárosa és az Európai Unió szíve, amely a Grand Place-ről, az Atomiumról és multikulturális hangulatáról ismert.",
+      ro: "Bruxelles este capitala Belgiei și inima Uniunii Europene, cunoscut pentru Grand Place, Atomium și atmosfera sa multiculturală.",
+      en: "Brussels is the capital of Belgium and the heart of the European Union, known for the Grand Place, the Atomium, and its multicultural atmosphere."
+    },
+    descriptionAdvanced: {
+      de: "Brüssel, die pulsierende Hauptstadt Belgiens und das administrative Herz der Europäischen Union, ist eine Stadt der Kontraste und der kulturellen Vielfalt. Hier trifft imperiale Pracht auf moderne Glasfassaden und mittelalterliche Gassen auf futuristische Architektur. Das Herz der Stadt ist der Grand Place, einer der schönsten Marktplätze der Welt, umgeben von reich verzierten Zunfthäusern und dem majestätischen Rathaus. Ein weiteres Wahrzeichen ist das Atomium, ein Überbleibsel der Weltausstellung von 1958, das heute als Symbol für Fortschritt und Innovation steht. Brüssel ist ein Schmelztiegel der Kulturen, in dem über 100 Sprachen gesprochen werden und Menschen aus aller Welt zusammenkommen. Die Stadt ist zudem ein Paradies für Kunstliebhaber, mit erstklassigen Museen wie den Königlichen Museen der Schönen Künste und einer lebendigen Street-Art-Szene, die vor allem der Comic-Kultur gewidmet ist. Kulinarisch ist Brüssel weltberühmt für seine knusprigen Pommes Frites, die feinsten Pralinen und eine schier endlose Auswahl an handwerklich gebrauten Bieren. Ob man durch die eleganten Galeries Royales Saint-Hubert bummelt, den skurrilen Manneken Pis besucht oder die europäische Politik im EU-Viertel hautnah erlebt – Brüssel empfängt seine Besucher mit einer Mischung aus kosmopolitischem Flair und typisch belgischer Gelassenheit.",
+      hu: "Brüsszel, Belgium lüktető fővárosa és az Európai Unió adminisztratív szíve, a kontrasztok és a kulturális sokszínűség városa. Itt a császári ragyogás modern üvegpalotákkal, a középkori utcák pedig futurista építészettel találkoznak. A város szíve a Grand Place, a világ egyik legszebb főtere, amelyet gazdagon díszített céhházak és a fenséges városháza vesznek körül. Egy másik ikonikus jelkép az Atomium, az 1958-as világkiállítás öröksége, amely ma a haladás és az innováció szimbóluma. Brüsszel a kultúrák olvasztótégelye, ahol több mint 100 nyelvet beszélnek, és a világ minden tájáról érkező emberek találkoznak. A város a művészetkedvelők paradicsoma is, olyan világszínvonalú múzeumokkal, mint a Királyi Szépművészeti Múzeum, valamint vibráló street-art élettel, amely különösen a képregénykultúrának hódol. Kulináris szempontból Brüsszel világhírű ropogós sült krumplijáról, a legfinomabb pralinéiról és a kézműves sörök szinte végtelen választékáról. Akár az elegáns Galeries Royales Saint-Hubert passzázsban sétál valaki, akár a különc Manneken Pis szobrot látogatja meg, vagy az európai politikát tapasztalja meg testközelből az EU-negyedben – Brüsszel a kozmopolita hangulat és a tipikus belga nyugalom keverékével fogadja látogatóit.",
+      ro: "Bruxelles, capitala vibrantă a Belgiei și inima administrativă a Uniunii Europene, este un oraș al contrastelor și al diversității culturale. Aici, splendoarea imperială întâlnește fațadele moderne de sticlă, iar străzile medievale se îmbină cu arhitectura futuristă. Inima orașului este Grand Place, una dintre cele mai frumoase piețe din lume, înconjurată de case ale breslelor bogat ornamentate și de primăria maiestuoasă. Un alt simbol iconic este Atomium, o moștenire a Expoziției Mondiale din 1958, care astăzi reprezintă progresul și inovația. Bruxelles este un creuzet al culturilor, unde se vorbesc peste 100 de limbi și unde se întâlnesc oameni din întreaga lume. Orașul este, de asemenea, un paradis pentru iubitorii de artă, cu muzee de clasă mondială, cum ar fi Muzeele Regale de Arte Frumoase, și o scenă vibrantă de street-art, dedicată în special culturii benzilor desenate. Din punct de vedere culinar, Bruxelles este faimos în întreaga lume pentru cartofii prăjiți crocanți, cele mai fine praline și o selecție aproape infinită de beri artizanale. Fie că vă plimbați prin elegantele Galeries Royales Saint-Hubert, vizitați excentricul Manneken Pis sau experimentați politica europeană de aproape în cartierul UE – Bruxelles își întâmpină vizitatorii cu un amestec de fler cosmopolit și relaxare tipic belgiană.",
+      en: "Brussels, the vibrant capital of Belgium and the administrative heart of the European Union, is a city of contrasts and cultural diversity. Here, imperial splendor meets modern glass facades, and medieval alleys blend with futuristic architecture. The heart of the city is the Grand Place, one of the most beautiful market squares in the world, surrounded by richly decorated guildhalls and the majestic Town Hall. Another iconic landmark is the Atomium, a remnant of the 1958 World Expo, which today stands as a symbol of progress and innovation. Brussels is a melting pot of cultures, where over 100 languages are spoken and people from all over the world come together. The city is also a paradise for art lovers, with world-class museums like the Royal Museums of Fine Arts and a vibrant street art scene, largely dedicated to comic book culture. Culinarily, Brussels is world-famous for its crispy fries, the finest pralines, and an almost endless selection of craft beers. Whether strolling through the elegant Galeries Royales Saint-Hubert, visiting the quirky Manneken Pis, or experiencing European politics firsthand in the EU Quarter—Brussels welcomes its visitors with a blend of cosmopolitan flair and typical Belgian composure."
     },
     facts: {
-      en: ["The Grand Place is a UNESCO World Heritage site.","Brussels is home to the Atomium, built for the 1958 World Expo.","The city has over 80 museums.","Manneken Pis is a famous landmark statue in the city center."],
-      de: ["Der Grand Place ist ein UNESCO-Weltkulturerbe.","Brüssel beherbergt das Atomium, das für die Weltausstellung 1958 gebaut wurde.","Die Stadt hat über 80 Museen.","Manneken Pis ist eine berühmte Wahrzeichen-Statue im Stadtzentrum."],
-      hu: ["A Grand Place az UNESCO Világörökség része.","Brüsszelben található az Atomium, amely az 1958-as világkiállításra épült.","A városban több mint 80 múzeum található.","A Manneken Pis egy híres jelképes szobor a városközpontban."],
-      ro: ["Grand Place este un sit al Patrimoniului Mondial UNESCO.","Bruxelles găzduiește Atomium, construit pentru Expoziția Mondială din 1958.","Orașul are peste 80 de muzee.","Manneken Pis este o faimoasă statuie simbol din centrul orașului."]
+      en: [
+        "The Grand Place is a UNESCO World Heritage site.",
+        "Brussels is home to the Atomium, built for the 1958 World Expo.",
+        "The city has over 80 museums.",
+        "Manneken Pis is a famous landmark statue in the city center.",
+        "The city is the birthplace of the famous comic character Tintin.",
+        "Brussels has a dedicated Comic Strip Route featuring murals on city walls.",
+        "The Royal Palace of Brussels is the official palace of the King and Queen of the Belgians."
+      ],
+      de: [
+        "Der Grand Place ist ein UNESCO-Weltkulturerbe.",
+        "Brüssel beherbergt das Atomium, das für die Weltausstellung 1958 gebaut wurde.",
+        "Die Stadt hat über 80 Museen.",
+        "Manneken Pis ist eine berühmte Wahrzeichen-Statue im Stadtzentrum.",
+        "Die Stadt ist der Geburtsort der berühmten Comicfigur Tim (aus Tim und Struppi).",
+        "Brüssel hat eine eigene Comic-Route mit Wandgemälden an Häuserwänden.",
+        "Der Königliche Palast von Brüssel ist der offizielle Palast des belgischen Königspaares."
+      ],
+      hu: [
+        "A Grand Place az UNESCO Világörökség része.",
+        "Brüsszelben található az Atomium, amely az 1958-as világkiállításra épült.",
+        "A városban több mint 80 múzeum található.",
+        "A Manneken Pis egy híres jelképes szobor a városközpontban.",
+        "A város a híres képregényfigura, Tintin szülőhelye.",
+        "Brüsszelben külön képregény-útvonal található, falfestményekkel a város falain.",
+        "A brüsszeli királyi palota a belga király és királyné hivatalos palotája."
+      ],
+      ro: [
+        "Grand Place este un sit al Patrimoniului Mondial UNESCO.",
+        "Bruxelles găzduiește Atomium, construit pentru Expoziția Mondială din 1958.",
+        "Orașul are peste 80 de muzee.",
+        "Manneken Pis este o faimoasă statuie simbol din centrul orașului.",
+        "Orașul este locul de naștere al celebrului personaj de benzi desenate Tintin.",
+        "Bruxelles are un traseu dedicat benzilor desenate, cu picturi murale pe pereții orașului.",
+        "Palatul Regal din Bruxelles este palatul oficial al regelui și reginei belgienilor."
+      ]
     },
     image: "/geo-images/belgium/brussels.webp",
   },
@@ -85,6 +137,12 @@ export const belgiumRegions: POI[] = [
     coords: [3.73, 51.05],
     name: { de: "Flandern", hu: "Flandria", ro: "Flandra", en: "Flanders" },
     description: {
+      de: "Flandern ist die nördliche, niederländischsprachige Region Belgiens, bekannt für ihre mittelalterlichen Kunststädte und flache Küstenlandschaft.",
+      hu: "Flandria Belgium északi, holland nyelvű régiója, amely középkori művészeti városairól és sík tengerparti tájáról ismert.",
+      ro: "Flandra este regiunea nordică, vorbitoare de olandeză, a Belgiei, cunoscută pentru orașele sale de artă medievală și peisajul de coastă plat.",
+      en: "Flanders is the northern, Dutch-speaking region of Belgium, known for its medieval art cities and flat coastal landscape."
+    },
+    descriptionAdvanced: {
       en: "Flanders is the Dutch-speaking northern region of Belgium. It is characterized by its flat landscape, historic art cities like Antwerp, Ghent, and Bruges, and a strong economic presence. The region has a rich artistic heritage, being the home of the Flemish Primitives and masters like Rubens. Flanders is also famous for its cycling culture and world-class ports.",
       de: "Flandern ist die niederländischsprachige nördliche Region Belgiens. Sie zeichnet sich durch ihre flache Landschaft, historische Kunststädte wie Antwerpen, Gent und Brügge und eine starke wirtschaftliche Präsenz aus. Die Region hat ein reiches künstlerisches Erbe und war die Heimat der Flämischen Primitiven und Meister wie Rubens. Flandern ist auch berühmt für seine Radsportkultur und erstklassigen Häfen.",
       hu: "Flandria Belgium holland nyelvű északi régiója. Jellemzője a sík táj, az olyan történelmi művészeti városok, mint Antwerpen, Gent és Brugge, valamint az erős gazdasági jelenlét. A régió gazdag művészeti örökséggel rendelkezik, a flamand primitívek és olyan mesterek otthona, mint Rubens. Flandria híres kerékpáros kultúrájáról és világszínvonalú kikötőiről is.",
@@ -105,6 +163,12 @@ export const belgiumRegions: POI[] = [
     coords: [4.86, 50.46],
     name: { de: "Wallonien", hu: "Vallónia", ro: "Valonia", en: "Wallonia" },
     description: {
+      de: "Wallonien ist die südliche, französischsprachige Region Belgiens, bekannt für die hügeligen Ardennen, historische Zitadellen und reiche Industriegeschichte.",
+      hu: "Vallónia Belgium déli, francia nyelvű régiója, amely az Ardennek dombjairól, történelmi citadelláiról és gazdag ipari múltjáról ismert.",
+      ro: "Valonia este regiunea sudică, vorbitoare de franceză, a Belgiei, cunoscută pentru dealurile Ardenilor, citadelele istorice și istoria industrială bogată.",
+      en: "Wallonia is the southern, French-speaking region of Belgium, known for the rolling Ardennes hills, historic citadels, and rich industrial history."
+    },
+    descriptionAdvanced: {
       en: "Wallonia is the French-speaking southern region of Belgium. It is known for its picturesque landscapes, including the Ardennes mountains, historic castles, and industrial heritage. The region offers a mix of charming towns like Namur and Liège, and beautiful nature perfect for hiking and outdoor activities. Wallonia has a rich folklore and is famous for its hearty cuisine and local beers.",
       de: "Wallonien ist die französischsprachige südliche Region Belgiens. Sie ist bekannt für ihre malerischen Landschaften, einschließlich der Ardennen, historische Schlösser und ihr industrielles Erbe. Die Region bietet eine Mischung aus charmanten Städten wie Namur und Lüttich und wunderschöner Natur, die ideal zum Wandern und für Outdoor-Aktivitäten ist. Wallonien hat eine reiche Folklore und ist berühmt für seine herzhafte Küche und lokalen Biere.",
       hu: "Vallónia Belgium francia nyelvű déli régiója. Festői tájairól, többek között az Ardennek hegységéről, történelmi kastélyairól és ipari örökségéről ismert. A régió olyan bájos városok keverékét kínálja, mint Namur és Liège, valamint gyönyörű természetet, amely tökéletes túrázáshoz és szabadtéri tevékenységekhez. Vallónia gazdag folklórral rendelkezik, és híres kiadós konyhájáról és helyi söreiről.",
@@ -194,6 +258,12 @@ export const belgiumCities: POI[] = [
     coords: [4.4025, 51.2194],
     name: { de: "Antwerpen", hu: "Antwerpen", ro: "Anvers", en: "Antwerp" },
     description: {
+      de: "Antwerpen ist die zweitgrößte Stadt Belgiens, bekannt als Welthauptstadt der Diamanten und für seinen bedeutenden Seehafen.",
+      hu: "Antwerpen Belgium második legnagyobb városa, amely a gyémántkereskedelem világfővárosaként és jelentős tengeri kikötőjéről ismert.",
+      ro: "Anvers este al doilea oraș ca mărime din Belgia, cunoscut drept capitala mondială a diamantelor și pentru portul său maritim important.",
+      en: "Antwerp is the second-largest city in Belgium, known as the world capital of diamonds and for its major seaport."
+    },
+    descriptionAdvanced: {
       de: "Diamantenhauptstadt und Geburtsort von Rubens.",
       hu: "Gyémántfőváros és Rubens szülőhelye.",
       ro: "Capitala diamantelor și locul de naștere al lui Rubens.",
@@ -214,6 +284,12 @@ export const belgiumCities: POI[] = [
     coords: [3.7174, 51.0543],
     name: { de: "Gent", hu: "Gent", ro: "Gent", en: "Ghent" },
     description: {
+      de: "Gent ist eine lebendige Universitätsstadt in Flandern, bekannt für ihre gut erhaltene mittelalterliche Architektur und den Genter Altar.",
+      hu: "Gent egy vibráló egyetemi város Flandriában, amely jól megőrzött középkori építészetéről és a Genti oltárról ismert.",
+      ro: "Gent este un oraș universitar vibrant din Flandra, cunoscut pentru arhitectura sa medievală bine conservată și Altarul din Gent.",
+      en: "Ghent is a vibrant university city in Flanders, known for its well-preserved medieval architecture and the Ghent Altarpiece."
+    },
+    descriptionAdvanced: {
       de: "Mittelalterliche Altstadt und ihre 3 Türme.",
       hu: "Középkori óvárosa és 3 tornya.",
       ro: "Oraș vechi medieval și cele 3 turnuri ale sale.",
@@ -1943,6 +2019,12 @@ export const belgiumRound2: POI[] = [
     coords: [4.4037, 50.6797],
     name: { de: "Waterloo-Schlachtfeld", hu: "Waterloo csatatér", ro: "Câmpul de luptă Waterloo", en: "Waterloo Battlefield" },
     description: {
+      de: "Waterloo ist der Ort von Napoleons endgültiger Niederlage im Jahr 1815, markiert durch den beeindruckenden Löwenhügel.",
+      hu: "Waterloo Napóleon 1815-ös végső vereségének helyszíne, amelyet a lenyűgöző Oroszlándomb jelöl.",
+      ro: "Waterloo este locul înfrângerii finale a lui Napoleon în 1815, marcat de impresionantul deal Lion's Mound.",
+      en: "Waterloo is the site of Napoleon's final defeat in 1815, marked by the impressive Lion's Mound."
+    },
+    descriptionAdvanced: {
       de: "Waterloo ist der Ort von Napoleons endgültiger Niederlage im Jahr 1815. Der Lion's Mound markiert das Schlachtfeld und zieht bis heute Besucher an.",
       hu: "Waterloo Napóleon végső vereségének helyszíne 1815-ben. Az Oroszlándomb jelöli a csatatért, és ma is sok látogatót vonz.",
       ro: "Waterloo este locul înfrângerii finale a lui Napoleon în 1815. Lion's Mound marchează câmpul de luptă și atrage încă mulți vizitatori.",
@@ -1983,6 +2065,12 @@ export const belgiumRound2: POI[] = [
     coords: [5.8639, 50.4925],
     name: { de: "Spa", hu: "Spa", ro: "Spa", en: "Spa" },
     description: {
+      de: "Spa ist eine berühmte Kurstadt in den Ardennen und der Namensgeber für Heilbäder weltweit.",
+      hu: "Spa egy híres fürdőváros az Ardennekben, amely világszerte a gyógyfürdők névadójává vált.",
+      ro: "Spa este un oraș balnear faimos din Ardeni și eponimul pentru băile terapeutice din întreaga lume.",
+      en: "Spa is a famous spa town in the Ardennes and the namesake for thermal baths worldwide."
+    },
+    descriptionAdvanced: {
       de: "Spa ist eine berühmte Kurstadt in den Ardennen und Ursprung des Wortes 'Spa' für Heilbäder. Heute verbindet die Stadt Wellness-Tradition mit Motorsport und Natur.",
       hu: "Spa egy híres fürdőváros az Ardennekben, és a gyógyfürdő jelentésű 'spa' szó forrása. Ma a wellness-hagyományt motorsporttal és természettel köti össze.",
       ro: "Spa este un oraș balnear celebru din Ardeni și sursa cuvântului 'spa' pentru băi terapeutice. Astăzi combină tradiția wellness cu motorsportul și natura.",
@@ -2043,6 +2131,12 @@ export const belgiumRound2: POI[] = [
     coords: [3.2247, 51.2093],
     name: { de: "Bruegge", hu: "Brugge", ro: "Bruges", en: "Bruges" },
     description: {
+      de: "Brügge ist eine der am besten erhaltenen mittelalterlichen Städte Europas, bekannt für ihre romantischen Kanäle und das historische Zentrum.",
+      hu: "Brugge Európa egyik legjobban megőrzött középkori városa, amely romantikus csatornáiról és történelmi központjáról ismert.",
+      ro: "Bruges este unul dintre cele mai bine conservate orașe medievale din Europa, cunoscut pentru canalele sale romantice și centrul istoric.",
+      en: "Bruges is one of Europe's best-preserved medieval cities, known for its romantic canals and historic center."
+    },
+    descriptionAdvanced: {
       de: "Bruegge gehoert zu den bekanntesten Altstadtzielen in Europa. Die Stadt ist fuer ihre Grachten, Backsteingiebel und ihre fotogene mittelalterliche Skyline beruehmt. Viele Reisende suchen Bruegge wegen Romantik, Schokolade und UNESCO-Stadtbild. Als belgisches Top-Ziel passt Bruegge perfekt in SEO-Listen fuer Kulturreisen.",
       hu: "Brugge Europa egyik legismertebb regi belvarosi uticelja. A varos csatornairol, teglaepuleteirol es rendkivul fotogen kozepkori latvanyarol hires. Sok utazo romantika, csokolade es UNESCO hangulat miatt keresi. Belgium egyik top helyszinekent Brugge remekul illik a kulturutazasi tartalmakba.",
       ro: "Bruges este una dintre cele mai cunoscute destinatii de centru istoric din Europa. Orasul este faimos pentru canale, fatade din caramida si un peisaj medieval foarte fotogenic. Multi calatori vin aici pentru romantism, ciocolata si atmosfera UNESCO. Ca destinatie de top in Belgia, Bruges este excelenta pentru continut SEO de calatorie.",
@@ -2063,6 +2157,12 @@ export const belgiumRound2: POI[] = [
     coords: [4.8675, 50.4674],
     name: { de: "Namur", hu: "Namur", ro: "Namur", en: "Namur" },
     description: {
+      de: "Namur ist die Hauptstadt der Wallonie, malerisch gelegen am Zusammenfluss von Maas und Sambre und überragt von einer mächtigen Zitadelle.",
+      hu: "Namur Vallónia fővárosa, amely festői helyen, a Meuse és a Sambre összefolyásánál fekszik, egy hatalmas citadella árnyékában.",
+      ro: "Namur este capitala Valoniei, situată pitoresc la confluența fluviilor Meuse și Sambre și dominată de o citadelă impunătoare.",
+      en: "Namur is the capital of Wallonia, scenerically located at the confluence of the Meuse and Sambre rivers and overlooked by a mighty citadel."
+    },
+    descriptionAdvanced: {
       de: "Namur ist die Hauptstadt der Wallonie und liegt malerisch am Zusammenfluss von Maas und Sambre. Die Stadt ist fuer ihre Zitadelle, ihre Fluesslandschaft und ihr gemuetliches Zentrum bekannt. Namur verbindet Verwaltungsfunktion mit einem starken touristischen Profil. Deshalb taucht die Stadt oft in Belgien-Reisefuehrern auf.",
       hu: "Namur Vallonia fovarosa, amely festoi helyen fekszik a Meuse es a Sambre osszefolyasanal. A varos a citadellarol, a folyoparti tajrol es a hangulatos kozpontról ismert. Namur az igazgatasi szerepet eros turisztikai profillal kapcsolja ossze. Ezert gyakran szerepel Belgium-utazasi kalauzokban.",
       ro: "Namur este capitala Valoniei si se afla pitoresc la confluenta dintre Meuse si Sambre. Orasul este cunoscut pentru citadela sa, peisajul riveran si centrul sau placut. Namur combina rolul administrativ cu un profil turistic puternic. De aceea apare des in ghidurile de calatorie despre Belgia.",

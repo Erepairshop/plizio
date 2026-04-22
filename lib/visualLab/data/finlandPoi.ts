@@ -7,6 +7,12 @@ export const finlandCountry: POI = {
   coords: [24.9414, 60.1699],
   name: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland" },
   description: {
+    de: "Finnland ist das 'Land der tausend Seen', bekannt für seine unberührte Natur, die weltweit führende Bildung und die tief verwurzelte Saunakultur.",
+    hu: "Finnország az „ezer tó országa”, amely érintetlen természetéről, világszínvonalú oktatásáról és mélyen gyökerező szaunakultúrájáról ismert.",
+    ro: "Finlanda este „Țara celor o mie de lacuri”, cunoscută pentru natura sa virgină, educația de talie mondială și cultura sa profundă a saunei.",
+    en: "Finland is the 'Land of a Thousand Lakes', known for its pristine nature, world-leading education, and deep-rooted sauna culture."
+  },
+  descriptionAdvanced: {
     en: "Finland is a Northern European nation bordering Scandinavia, Russia, and the Baltic Sea. Known as the 'Land of a Thousand Lakes', it is famous for its vast forests, pristine nature, and high quality of life. Finland is a leader in education, technology, and sustainability. The country has a unique culture, blending Nordic traditions with its own distinct language and customs, including the world-famous sauna culture and a deep connection to the Arctic wilderness.",
     de: "Finnland ist eine nordeuropäische Nation, die an Skandinavien, Russland und die Ostsee grenzt. Bekannt als das 'Land der tausend Seen', ist es berühmt für seine weiten Wälder, unberührte Natur und hohe Lebensqualität. Finnland ist führend in den Bereichen Bildung, Technologie und Nachhaltigkeit. Das Land hat eine einzigartige Kultur, die nordische Traditionen mit seiner eigenen ausgeprägten Sprache und Bräuchen verbindet, darunter die weltberühmte Saunakultur und eine tiefe Verbindung zur arktischen Wildnis.",
     hu: "Finnország egy észak-európai nemzet, amely Skandináviával, Oroszországgal és a Balti-tengerrel határos. Az 'ezer tó országaként' ismert, híres hatalmas erdőiről, érintetlen természetéről és magas életszínvonaláról. Finnország vezető szerepet tölt be az oktatás, a technológia és a fenntarthatóság terén. Az ország egyedülálló kultúrával rendelkezik, amelyben a skandináv hagyományok ötvöződnek sajátos nyelvével és szokásaival, beleértve a világhírű szaunakultúrát és a sarkvidéki vadonhoz való mély kötődést.",
@@ -57,6 +63,12 @@ export const finlandRegions: POI[] = [
     coords: [24.9414, 60.1699],
     name: { de: "Helsinki", hu: "Helsinki", ro: "Helsinki", en: "Helsinki" },
     description: {
+      de: "Helsinki ist die Hauptstadt Finnlands, bekannt für ihre moderne Architektur, das innovative Design und die wunderschöne Lage am Finnischen Meerbusen.",
+      hu: "Helsinki Finnország fővárosa, amely modern építészetéről, innovatív dizájnjáról és a Finn-öböl partján fekvő gyönyörű fekvéséről ismert.",
+      ro: "Helsinki este capitala Finlandei, cunoscută pentru arhitectura sa modernă, designul inovator și locația sa frumoasă în Golful Finlandei.",
+      en: "Helsinki is the capital of Finland, known for its modern architecture, innovative design, and beautiful location on the Gulf of Finland."
+    },
+    descriptionAdvanced: {
       en: "Helsinki, the capital of Finland, is a vibrant seaside city known for its functionalist architecture, innovative design, and high quality of life. Situated on the Gulf of Finland, it features a beautiful harbour, historic landmarks like the Helsinki Cathedral and the Suomenlinna sea fortress, and numerous green spaces. Helsinki is a hub for technology, culture, and education, offering a unique blend of urban sophistication and easy access to nature.",
       de: "Helsinki, die Hauptstadt Finnlands, ist eine lebendige Küstenstadt, die für ihre funktionalistische Architektur, ihr innovatives Design und ihre hohe Lebensqualität bekannt ist. Am Finnischen Meerbusen gelegen, besticht sie durch einen schönen Hafen, historische Wahrzeichen wie den Dom von Helsinki und die Seefestung Suomenlinna sowie zahlreiche Grünflächen. Helsinki ist ein Zentrum für Technologie, Kultur und Bildung und bietet eine einzigartige Mischung aus städtischer Raffinesse und einfachem Zugang zur Natur.",
       hu: "Helsinki, Finnország fővárosa, egy vibráló tengerparti város, amely funkcionalista építészetéről, innovatív dizájnjáról és magas életszínvonaláról ismert. A Finn-öböl partján fekszik, gyönyörű kikötővel, olyan történelmi látnivalókkal, mint a helsinki székesegyház és Suomenlinna tengeri erődje, valamint számos zöldfelülettel rendelkezik. Helsinki a technológia, a kultúra és az oktatás központja, a városi kifinomultság és a természet közelségének egyedülálló keverékét kínálja.",

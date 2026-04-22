@@ -8,16 +8,66 @@ export const netherlandsCountry: POI = {
   name: { de: "Niederlande", hu: "Hollandia", ro: "Țările de Jos", en: "Netherlands" },
   image: "/geo-images/netherlands/netherlands.webp",
   description: {
-    de: "Die Niederlande sind ein dicht besiedeltes Land in Westeuropa, das für seine flache Landschaft, weite Tulpenfelder und historische Windmühlen berühmt ist. Ein großer Teil des Landes liegt unter dem Meeresspiegel und wird durch ein komplexes System von Deichen und Pumpen geschützt. Die Küstenlinie an der Nordsee bietet lange Sandstrände, während das Inland von einem dichten Netzwerk aus Kanälen und Flüssen durchzogen ist. Das Land hat eine reiche maritime Geschichte und ist bekannt für seine tolerante Kultur und fortschrittliche Gesellschaft.",
-    hu: "Hollandia egy sűrűn lakott nyugat-európai ország, amely híres sík tájairól, kiterjedt tulipánmezőiről és történelmi szélmalmairól. Az ország nagy része a tengerszint alatt fekszik, és gátak, valamint szivattyúk bonyolult rendszere védi. Az északi-tengeri partvidék hosszú homokos strandokat kínál, míg a szárazföldet csatornák és folyók sűrű hálózata szövi át. Az ország gazdag tengeri történelemmel rendelkezik, és ismert toleráns kultúrájáról és haladó társadalmáról.",
-    ro: "Țările de Jos reprezintă o țară dens populată din Europa de Vest, renumită pentru peisajul său plat, câmpurile întinse de lalele și morile de vânt istorice. O mare parte a țării se află sub nivelul mării și este protejată de un sistem complex de diguri și pompe. Coasta Mării Nordului oferă plaje lungi cu nisip, în timp ce interiorul este străbătut de o rețea densă de canale și râuri. Țara are o istorie maritimă bogată și este cunoscută pentru cultura sa tolerantă și societatea progresistă.",
-    en: "The Netherlands is a densely populated country in Western Europe, famous for its flat landscape, extensive tulip fields, and historic windmills. A large part of the country lies below sea level and is protected by a complex system of dikes and pumps. The North Sea coastline offers long sandy beaches, while the inland is crisscrossed by a dense network of canals and rivers. The country has a rich maritime history and is known for its tolerant culture and progressive society."
+    de: "Die Niederlande sind ein westeuropäisches Land, bekannt für seine flache Landschaft, historische Windmühlen, weite Tulpenfelder und ein innovatives System der Landgewinnung.",
+    hu: "Hollandia egy nyugat-európai ország, amely sík tájairól, történelmi szélmalmairól, kiterjedt tulipánmezőiről és innovatív területnyerési rendszeréről ismert.",
+    ro: "Țările de Jos reprezintă o țară din Europa de Vest, renumită pentru peisajul său plat, morile de vânt istorice, câmpurile întinse de lalele și un sistem inovator de recuperare a terenurilor.",
+    en: "The Netherlands is a Western European country known for its flat landscape, historic windmills, vast tulip fields, and an innovative system of land reclamation."
+  },
+  descriptionAdvanced: {
+    de: "Die Niederlande, oft fälschlicherweise als Holland bezeichnet, sind ein faszinierendes Land im Nordwesten Europas, das für seine außergewöhnliche Beziehung zum Wasser, seine flache Topografie und seine fortschrittliche Gesellschaft bekannt ist. Ein bedeutender Teil des Landes liegt unter dem Meeresspiegel und wurde durch ein jahrhundertelanges, weltweit einzigartiges System von Deichen, Kanälen und Windmühlen dem Meer abgerungen. Diese ständige Herausforderung hat die Niederländer zu Pionieren im Wasserbau und in der Landgewinnung gemacht, was sich in monumentalen Projekten wie den Deltawerken widerspiegelt. Geografisch grenzt das Land an Deutschland, Belgien und die Nordsee, wobei die Küstenlinie durch weite Sandstrände und malerische Dünenlandschaften besticht. Die Hauptstadt Amsterdam ist eine Weltmetropole, die für ihr historisches Grachtensystem, ihre erstklassigen Museen wie das Rijksmuseum und ihre liberale Atmosphäre berühmt ist. Doch die Niederlande bieten weit mehr als nur ihre Hauptstadt: Städte wie Rotterdam mit seinem gigantischen Seehafen, Den Haag als Sitz der Regierung und internationaler Gerichtshöfe sowie die charmante Universitätsstadt Utrecht zeigen die Vielfalt des Landes. Kulturell haben die Niederlande Giganten der Kunstgeschichte wie Rembrandt, Vermeer und Van Gogh hervorgebracht, deren Erbe in den zahlreichen Galerien des Landes lebendig bleibt. Kulinarisch ist das Land für seine Käsetradition (Gouda, Edamer), frischen Hering und die süßen Stroopwafels bekannt. Heute sind die Niederlande eine hochmoderne Industrienation, ein führender Agrarexporteur und ein Vorreiter in den Bereichen Nachhaltigkeit und Fahrradmobilität – es gibt im Land tatsächlich mehr Fahrräder als Einwohner. Ob man durch die blühenden Tulpenfelder des Keukenhofs spaziert, die historischen Windmühlen von Kinderdijk bewundert oder die innovative Architektur in den modernen Stadtvierteln erkundet – die Niederlande empfangen ihre Besucher mit einer Mischung aus historischem Charme, technologischer Brillanz und einer spürbaren Weltoffenheit.",
+    hu: "Hollandia, amelyet gyakran tévesen csak Hollandnak neveznek, egy lenyűgöző ország Északnyugat-Európában, amely a vízzel való különleges kapcsolatáról, sík domborzatáról és haladó társadalmáról ismert. Az ország jelentős része a tengerszint alatt fekszik, és az évszázadok során gátak, csatornák és szélmalmok világszerte egyedülálló rendszerével hódították el a tengertől. Ez a folyamatos kihívás a hollandokat a vízépítés és a területnyerés úttörőivé tette, ami olyan monumentális projektekben mutatkozik meg, mint a Delta-művek. Földrajzilag az ország Németországgal, Belgiummal és az Északi-tengerrel határos, partvonalát pedig tágas homokos strandok és festői dűnék jellemzik. A főváros, Amszterdam, egy világmetropolisz, amely történelmi csatornarendszeréről, világszínvonalú múzeumairól (például a Rijksmuseum) és liberális légköréről híres. Hollandia azonban sokkal többet kínál a fővárosánál: Rotterdam a hatalmas tengeri kikötőjével, Hága mint a kormány és a nemzetközi bíróságok székhelye, valamint a bájos egyetemi város, Utrecht, mind az ország sokszínűségét mutatják. Kulturális szempontból Hollandia olyan művészettörténeti óriásokat adott a világnak, mint Rembrandt, Vermeer és Van Gogh, akiknek öröksége ma is él az ország számos galériájában. Kulinárisan az ország sajtgyártási hagyományairól (Gouda, Edami), a friss heringről és az édes Stroopwafelről ismert. Ma Hollandia ultramodern ipari nemzet, vezető mezőgazdasági exportőr, valamint úttörő a fenntarthatóság és a kerékpáros közlekedés terén – az országban valójában több kerékpár van, mint lakos. Akár a Keukenhof virágzó tulipánmezői között sétál valaki, akár Kinderdijk történelmi szélmalmait csodálja meg, vagy a modern városnegyedek innovatív építészetét fedezi fel – Hollandia a történelmi báj, a technológiai zsenialitás és az érezhető nyitottság keverékével fogadja látogatóit.",
+    ro: "Țările de Jos, adesea numite în mod eronat Olanda, reprezintă o țară fascinantă din nord-vestul Europei, cunoscută pentru relația sa extraordinară cu apa, topografia sa plată și societatea sa progresistă. O parte semnificativă a țării se află sub nivelul mării și a fost recuperată din mare printr-un sistem de diguri, canale și mori de vânt unic în lume, dezvoltat de-a lungul secolelor. Această provocare constantă i-a transformat pe olandezi în pionieri ai ingineriei hidraulice și ai recuperării terenurilor, fapt reflectat în proiecte monumentale precum Planul Delta. Din punct de vedere geografic, țara se învecinează cu Germania, Belgia și Marea Nordului, linia de coastă impresionând prin plaje largi de nisip și peisaje dunare pitorești. Capitala Amsterdam este o metropolă mondială, faimoasă pentru sistemul său istoric de canale, muzeele sale de primă clasă, cum ar fi Rijksmuseum, și atmosfera sa liberală. Totuși, Țările de Jos oferă mult mai mult decât capitala sa: orașe precum Rotterdam, cu portul său maritim gigantic, Haga, ca sediu al guvernului și al curților internaționale de justiție, precum și fermecătorul oraș universitar Utrecht, demonstrează diversitatea țării. Din punct de vedere cultural, Țările de Jos au dat naștere unor giganți ai istoriei artei, precum Rembrandt, Vermeer și Van Gogh, a căror moștenire rămâne vie în numeroasele galerii ale țării. Din punct de vedere culinar, țara este cunoscută pentru tradiția sa în fabricarea brânzeturilor (Gouda, Edam), heringul proaspăt și dulcii Stroopwafels. Astăzi, Țările de Jos sunt o națiune industrială ultramodernă, un exportator agricol de top și un pionier în domeniile sustenabilității și mobilității pe bicicletă – în țară există, de fapt, mai multe biciclete decât locuitori. Fie că vă plimbați prin câmpurile de lalele înflorite de la Keukenhof, admirați morile de vânt istorice de la Kinderdijk sau explorați arhitectura inovatoare din cartierele moderne – Țările de Jos își întâmpină vizitatorii cu un amestec de farmec istoric, strălucire tehnologică și o deschidere cosmopolită evidentă.",
+    en: "The Netherlands, often incorrectly referred to as Holland, is a fascinating country in Northwestern Europe known for its extraordinary relationship with water, its flat topography, and its progressive society. A significant part of the country lies below sea level and was reclaimed from the sea through a centuries-old system of dikes, canals, and windmills that is unique in the world. This constant challenge has made the Dutch pioneers in hydraulic engineering and land reclamation, reflected in monumental projects like the Delta Works. Geographically, the country borders Germany, Belgium, and the North Sea, with the coastline boasting wide sandy beaches and picturesque dune landscapes. The capital, Amsterdam, is a global metropolis famous for its historic canal system, world-class museums like the Rijksmuseum, and its liberal atmosphere. Yet the Netherlands offers much more than just its capital: cities like Rotterdam with its gigantic seaport, The Hague as the seat of government and international courts of justice, and the charming university city of Utrecht demonstrate the country's diversity. Culturally, the Netherlands has produced giants of art history such as Rembrandt, Vermeer, and Van Gogh, whose legacy remains alive in the country's numerous galleries. Culinarily, the country is known for its cheese tradition (Gouda, Edam), fresh herring, and sweet stroopwafels. Today, the Netherlands is a state-of-the-art industrial nation, a leading agricultural exporter, and a pioneer in sustainability and bicycle mobility—there are actually more bicycles in the country than residents. Whether strolling through the blooming tulip fields of Keukenhof, admiring the historic windmills of Kinderdijk, or exploring the innovative architecture in modern urban districts—the Netherlands welcomes its visitors with a blend of historical charm, technological brilliance, and a palpable cosmopolitanism."
   },
   facts: {
-    de: ["Hauptstadt ist Amsterdam, Regierungssitz ist Den Haag.","Rund ein Drittel des Landes liegt unter dem Meeresspiegel.","Es gibt mehr Fahrräder im Land als Einwohner.","Bekannt für Käse wie Gouda und Edamer.","Der Rotterdamer Hafen ist der größte Europas.","Das Land ist ein bedeutender Agrarexporteur.","Besitzt ein hervorragendes Netzwerk an Radwegen.","Schiphol ist einer der größten europäischen Flughäfen.","Das Land ist Gründungsmitglied der EU und NATO."],
-    hu: ["Fővárosa Amszterdam, a kormány székhelye Hága.","Az ország mintegy harmada a tengerszint alatt fekszik.","Több kerékpár van az országban, mint lakos.","Híres sajtjairól, mint a Gouda és az Edámi.","A rotterdami kikötő a legnagyobb Európában.","Az ország jelentős mezőgazdasági exportőr.","Kiváló kerékpárút-hálózattal rendelkezik.","A Schiphol Európa egyik legnagyobb repülőtere.","Az ország az EU és a NATO alapító tagja."],
-    ro: ["Capitala este Amsterdam, sediul guvernului este Haga.","Aproximativ o treime din țară se află sub nivelul mării.","Există mai multe biciclete în țară decât locuitori.","Cunoscută pentru brânzeturi precum Gouda și Edam.","Portul Rotterdam este cel mai mare din Europa.","Țara este un important exportator agricol.","Are o rețea excelentă de piste pentru biciclete.","Schiphol este unul dintre cele mai mari aeroporturi europene.","Țara este membru fondator al UE și NATO."],
-    en: ["Capital is Amsterdam, seat of government is The Hague.","About a third of the country is below sea level.","There are more bicycles in the country than residents.","Famous for cheeses like Gouda and Edam.","The Port of Rotterdam is the largest in Europe.","The country is a major agricultural exporter.","Has an excellent network of cycling routes.","Schiphol is one of the largest European airports.","The country is a founding member of the EU and NATO."]
+    de: [
+      "Hauptstadt: Amsterdam, Regierungssitz: Den Haag.",
+      "Geografie: Rund ein Drittel des Landes liegt unter dem Meeresspiegel.",
+      "Mobilität: Es gibt mehr Fahrräder im Land als Einwohner.",
+      "Kulinarik: Weltberühmt für Käsesorten wie Gouda und Edamer.",
+      "Wirtschaft: Der Rotterdamer Hafen ist der größte Seehafen Europas.",
+      "Landwirtschaft: Die Niederlande sind der zweitgrößte Agrarexporteur der Welt.",
+      "Infrastruktur: Das Land besitzt eines der dichtesten Radwegenetze weltweit.",
+      "Luftfahrt: Schiphol ist einer der bedeutendsten internationalen Flughäfen.",
+      "Politik: Gründungsmitglied der EU und NATO sowie Sitz des Internationalen Gerichtshofs.",
+      "Natur: Der Keukenhof ist der größte Blumengarten der Welt."
+    ],
+    hu: [
+      "Főváros: Amszterdam, a kormány székhelye: Hága.",
+      "Földrajz: Az ország mintegy harmada a tengerszint alatt fekszik.",
+      "Mobilitás: Több kerékpár van az országban, mint lakos.",
+      "Gasztronómia: Világhírű sajtjairól, mint a Gouda és az Edámi.",
+      "Gazdaság: A rotterdami kikötő Európa legnagyobb tengeri kikötője.",
+      "Mezőgazdaság: Hollandia a világ második legnagyobb mezőgazdasági exportőre.",
+      "Infrastruktúra: Az ország a világ egyik legsűrűbb kerékpárút-hálózatával rendelkezik.",
+      "Légiközlekedés: Schiphol az egyik legjelentősebb nemzetközi repülőtér.",
+      "Politika: Az EU és a NATO alapító tagja, valamint a Nemzetközi Bíróság székhelye.",
+      "Természet: A Keukenhof a világ legnagyobb virágoskertje."
+    ],
+    ro: [
+      "Capitala: Amsterdam, sediul guvernului: Haga.",
+      "Geografie: Aproximativ o treime din țară se află sub nivelul mării.",
+      "Mobilitate: Există mai multe biciclete în țară decât locuitori.",
+      "Gastronomie: Renumită în întreaga lume pentru brânzeturi precum Gouda și Edam.",
+      "Economie: Portul Rotterdam este cel mai mare port maritim din Europa.",
+      "Agricultură: Țările de Jos sunt al doilea mare exportator agricol din lume.",
+      "Infrastructură: Țara are una dintre cele mai dense rețele de piste pentru biciclete din lume.",
+      "Aviație: Schiphol este unul dintre cele mai importante aeroporturi internaționale.",
+      "Politică: Membru fondator al UE și NATO, precum și sediul Curții Internaționale de Justiție.",
+      "Natură: Keukenhof este cea mai mare grădină de flori din lume."
+    ],
+    en: [
+      "Capital: Amsterdam, seat of government: The Hague.",
+      "Geography: About a third of the country lies below sea level.",
+      "Mobility: There are more bicycles in the country than residents.",
+      "Cuisine: World-famous for cheeses like Gouda and Edam.",
+      "Economy: The Port of Rotterdam is the largest seaport in Europe.",
+      "Agriculture: The Netherlands is the world's second-largest agricultural exporter.",
+      "Infrastructure: The country has one of the densest networks of cycle paths in the world.",
+      "Aviation: Schiphol is one of the most important international airports.",
+      "Politics: Founding member of the EU and NATO, and seat of the International Court of Justice.",
+      "Nature: Keukenhof is the largest flower garden in the world."
+    ]
   }
 };
 
@@ -26,7 +76,13 @@ export const netherlandsRegions: POI[] = [
     id: "NL-DR", type: "region", parent: "NL", coords: [6.56, 52.84],
     name: { de: "Drenthe", hu: "Drenthe", ro: "Drenthe", en: "Drenthe" },
     image: "/geo-images/netherlands/drenthe.webp",
-  description: {
+    description: {
+      de: "Drenthe ist eine ländliche Provinz im Nordosten der Niederlande, bekannt für ihre prähistorischen Hünengräber, weite Heideflächen und dichte Wälder.",
+      hu: "Drenthe egy vidéki tartomány Hollandia északkeleti részén, amely történelem előtti megalitikus sírjairól, kiterjedt fenyérjeiről és sűrű erdőiről ismert.",
+      ro: "Drenthe este o provincie rurală din nord-estul Olandei, cunoscută pentru mormintele sale megalitice preistorice, pajiștile întinse și pădurile dese.",
+      en: "Drenthe is a rural province in the northeast of the Netherlands, known for its prehistoric megalithic tombs, vast heathlands, and dense forests."
+    },
+    descriptionAdvanced: {
     de: "Drenthe ist eine ländliche, malerische Provinz im Nordosten der Niederlande. Sie ist vor allem für ihre prähistorischen Hünengräber (Hunebedden) bekannt, die ältesten Monumente des Landes. Die Landschaft wird geprägt von weiten Heideflächen, dichten Wäldern und gemütlichen Dörfern. Die Region bietet unzählige Rad- und Wanderwege und eignet sich perfekt für Naturliebhaber. Die Hauptstadt der Provinz ist Assen.",
     hu: "Drenthe egy vidéki, festői tartomány Hollandia északkeleti részén. Leginkább a történelem előtti megalitikus sírjairól (hunebedden) ismert, amelyek az ország legrégebbi műemlékei. A tájat kiterjedt fenyérek, sűrű erdők és hangulatos falvak jellemzik. A régió számtalan kerékpáros és túraútvonalat kínál, így tökéletes a természet kedvelőinek. A tartomány fővárosa Assen.",
     ro: "Drenthe este o provincie rurală pitorească din nord-estul Olandei. Este cel mai bine cunoscută pentru mormintele sale megalitice preistorice (hunebedden), cele mai vechi monumente din țară. Peisajul este caracterizat de pajiști întinse, păduri dese și sate confortabile. Regiunea oferă nenumărate trasee de ciclism și drumeții și este perfectă pentru iubitorii de natură. Capitala provinciei este Assen.",
@@ -43,7 +99,13 @@ export const netherlandsRegions: POI[] = [
     id: "NL-FL", type: "region", parent: "NL", coords: [5.55, 52.47],
     name: { de: "Flevoland", hu: "Flevoland", ro: "Flevoland", en: "Flevoland" },
     image: "/geo-images/netherlands/flevoland.webp",
-  description: {
+    description: {
+      de: "Flevoland ist die jüngste Provinz der Niederlande, ein Meisterwerk der Landgewinnung, das im 20. Jahrhundert vollständig dem Meer abgerungen wurde.",
+      hu: "Flevoland Hollandia legfiatalabb tartománya, a területnyerés remekműve, amelyet a 20. században teljes egészében a tengertől hódítottak el.",
+      ro: "Flevoland este cea mai tânără provincie a Olandei, o capodoperă a recuperării terenurilor, care a fost recuperată în întregime din mare în secolul al XX-lea.",
+      en: "Flevoland is the youngest province in the Netherlands, a masterpiece of land reclamation entirely reclaimed from the sea in the 20th century."
+    },
+    descriptionAdvanced: {
     de: "Flevoland ist die jüngste Provinz der Niederlande und ein Meisterwerk der Landgewinnung. Die gesamte Provinz wurde im 20. Jahrhundert durch Trockenlegung von Teilen der Zuiderzee dem Meer abgerungen. Die Landschaft zeichnet sich durch weite, offene Flächen, moderne Landwirtschaft und geradlinige Architektur aus. Lelystad und Almere sind die größten und wichtigsten Städte der Region. Flevoland beheimatet zudem große Naturschutzgebiete wie die Oostvaardersplassen.",
     hu: "Flevoland Hollandia legfiatalabb tartománya és a területnyerés remekműve. Az egész tartományt a 20. században hódították el a tengertől a Zuiderzee egy részének kiszárításával. A tájat tágas, nyílt területek, modern mezőgazdaság és egyenes vonalú építészet jellemzi. Lelystad és Almere a régió legnagyobb és legfontosabb városai. Flevoland nagy természetvédelmi területeknek is otthont ad, mint például az Oostvaardersplassen.",
     ro: "Flevoland este cea mai tânără provincie a Olandei și o capodoperă a recuperării terenurilor. Întreaga provincie a fost recuperată din mare în secolul al XX-lea prin secarea unor părți ale Zuiderzee. Peisajul se caracterizează prin spații largi, deschise, agricultură modernă și arhitectură rectilinie. Lelystad și Almere sunt cele mai mari și mai importante orașe din regiune. Flevoland găzduiește, de asemenea, mari rezervații naturale, cum ar fi Oostvaardersplassen.",
@@ -60,7 +122,13 @@ export const netherlandsRegions: POI[] = [
     id: "NL-FR", type: "region", parent: "NL", coords: [5.85, 53.11],
     name: { de: "Friesland", hu: "Frízföld", ro: "Frizia", en: "Friesland" },
     image: "/geo-images/netherlands/friesland.webp",
-  description: {
+    description: {
+      de: "Friesland ist eine einzigartige Provinz im Norden der Niederlande, bekannt für ihre eigene Sprache, zahlreiche Seen und die berühmte Elfstedentocht.",
+      hu: "Frízföld egy egyedülálló tartomány Hollandia északi részén, amely saját nyelvéről, számos taváról és a híres Elfstedentochtról ismert.",
+      ro: "Frizia este o provincie unică din nordul Olandei, cunoscută pentru propria limbă, numeroasele lacuri și faimosul Elfstedentocht.",
+      en: "Friesland is a unique province in the north of the Netherlands, known for its own language, numerous lakes, and the famous Elfstedentocht."
+    },
+    descriptionAdvanced: {
     de: "Friesland ist eine einzigartige Provinz im Norden der Niederlande, die für ihre starke kulturelle Identität und eigene Sprache, das Friesische, bekannt ist. Die Landschaft ist durchzogen von zahlreichen Seen und Kanälen, was sie zu einem Paradies für Wassersportler macht. Im Winter lockt bei ausreichend Frost die berühmte Elfstedentocht (Elf-Städte-Tour) auf Schlittschuhen. Zu Friesland gehören auch mehrere malerische Watteninseln wie Terschelling und Ameland.",
     hu: "Frízföld egy egyedülálló tartomány Hollandia északi részén, amely erős kulturális identitásáról és saját nyelvéről, a frízről ismert. A tájat számos tó és csatorna szeli át, ami a vízi sportok szerelmeseinek paradicsomává teszi. Télen megfelelő fagy esetén a híres Elfstedentocht (Tizenegy város túrája) vonzza a korcsolyázókat. Frízföldhöz számos festői Watt-sziget is tartozik, mint például Terschelling és Ameland.",
     ro: "Frizia este o provincie unică din nordul Olandei, cunoscută pentru identitatea sa culturală puternică și propria sa limbă, frizona. Peisajul este străbătut de numeroase lacuri și canale, ceea ce îl face un paradis pentru iubitorii de sporturi nautice. Iarna, când este suficient îngheț, faimosul Elfstedentocht (Turul celor unsprezece orașe) atrage patinatorii. Frizia include și mai multe insule pitorești Wadden, precum Terschelling și Ameland.",
@@ -77,7 +145,13 @@ export const netherlandsRegions: POI[] = [
     id: "NL-GE", type: "region", parent: "NL", coords: [5.92, 52.05],
     name: { de: "Gelderland", hu: "Gelderland", ro: "Gelderland", en: "Gelderland" },
     image: "/geo-images/netherlands/gelderland.webp",
-  description: {
+    description: {
+      de: "Gelderland ist die flächenmäßig größte Provinz der Niederlande, bekannt für den Nationalpark De Hoge Veluwe und die historische Stadt Nijmegen.",
+      hu: "Gelderland Hollandia legnagyobb területű tartománya, amely a De Hoge Veluwe Nemzeti Parkról és Nijmegen történelmi városáról ismert.",
+      ro: "Gelderland este cea mai mare provincie din Olanda ca suprafață, cunoscută pentru Parcul Național De Hoge Veluwe și orașul istoric Nijmegen.",
+      en: "Gelderland is the largest province in the Netherlands by area, known for the De Hoge Veluwe National Park and the historic city of Nijmegen."
+    },
+    descriptionAdvanced: {
     de: "Gelderland ist die flächenmäßig größte Provinz der Niederlande und befindet sich im zentralen Osten des Landes. Sie ist berühmt für den Nationalpark De Hoge Veluwe, das größte zusammenhängende Waldgebiet der Niederlande, das eine reiche Tierwelt beherbergt. Arnhem und Nijmegen, die beiden größten Städte, bieten viel Geschichte, darunter Erinnerungen an den Zweiten Weltkrieg und römische Ruinen. Die Region vereint unberührte Natur mit lebendigen historischen Städten.",
     hu: "Gelderland területét tekintve Hollandia legnagyobb tartománya, amely az ország középső keleti részén található. Híres a De Hoge Veluwe Nemzeti Parkról, Hollandia legnagyobb egybefüggő erdőterületéről, amely gazdag élővilágnak ad otthont. Arnhem és Nijmegen, a két legnagyobb város, sok történelmi látnivalót kínál, beleértve a második világháborús emlékeket és római romokat. A régió ötvözi az érintetlen természetet az élénk történelmi városokkal.",
     ro: "Gelderland este cea mai mare provincie din Țările de Jos ca suprafață și este situată în centrul-estul țării. Este renumită pentru Parcul Național De Hoge Veluwe, cea mai mare zonă forestieră continuă din Țările de Jos, care găzduiește o bogată faună sălbatică. Arnhem și Nijmegen, cele mai mari două orașe, oferă multă istorie, inclusiv amintiri din Al Doilea Război Mondial și ruine romane. Regiunea combină natura neatinsă cu orașe istorice pline de viață.",
@@ -94,7 +168,13 @@ export const netherlandsRegions: POI[] = [
     id: "NL-GR", type: "region", parent: "NL", coords: [6.66, 53.22],
     name: { de: "Groningen", hu: "Groningen", ro: "Groningen", en: "Groningen" },
     image: "/geo-images/netherlands/groningen.webp",
-  description: {
+    description: {
+      de: "Groningen ist die nordöstlichste Provinz der Niederlande, bekannt für ihre weiten Polderlandschaften und die lebendige Universitätsstadt Groningen.",
+      hu: "Groningen Hollandia legészakkeletibb tartománya, amely kiterjedt polderjeiről és vibráló egyetemi városáról, Groningenről ismert.",
+      ro: "Groningen este cea mai nord-estică provincie a Olandei, cunoscută pentru peisajele sale vaste de poldere și orașul universitar vibrant Groningen.",
+      en: "Groningen is the northeasternmost province of the Netherlands, known for its vast polder landscapes and the vibrant university city of Groningen."
+    },
+    descriptionAdvanced: {
     de: "Groningen ist die nordöstlichste Provinz der Niederlande, bekannt für ihre weiten Polder, alten Kirchen und die pulsierende gleichnamige Hauptstadt. Die Region hat eine reiche landwirtschaftliche Tradition und historische Bedeutung durch den Handel. Große Teile der Provinz wurden durch die Förderung von Erdgas geprägt, was jedoch auch zu seismischen Problemen führte. Groningen ist heute ein Zentrum für Innovation, Bildung und nachhaltige Energie.",
     hu: "Groningen Hollandia legészakkeletibb tartománya, amely híres kiterjedt poldereiről, régi templomairól és a lüktető azonos nevű fővárosáról. A régió gazdag mezőgazdasági hagyományokkal és történelmi kereskedelmi jelentőséggel bír. A tartomány nagy részére rányomta bélyegét a földgázkitermelés, ami azonban szeizmikus problémákat is okozott. Groningen ma az innováció, az oktatás és a fenntartható energia központja.",
     ro: "Groningen este cea mai nord-estică provincie a Olandei, cunoscută pentru polderele sale vaste, bisericile vechi și capitala vibrantă cu același nume. Regiunea are o bogată tradiție agricolă și o semnificație istorică prin comerț. Părți mari ale provinciei au fost modelate de extracția gazelor naturale, care a dus însă și la probleme seismice. Astăzi, Groningen este un centru de inovație, educație și energie durabilă.",
@@ -233,7 +313,13 @@ export const netherlandsCities: POI[] = [
     id: "NL-CT-AMS", type: "city", parent: "NL-NH", coords: [4.90, 52.37],
     name: { de: "Amsterdam", hu: "Amszterdam", ro: "Amsterdam", en: "Amsterdam" },
     image: "/geo-images/netherlands/amsterdam.webp",
-  description: {
+    description: {
+      de: "Amsterdam ist die Hauptstadt der Niederlande, weltberühmt für ihr historisches Grachtennetz, erstklassige Museen und ihre liberale Atmosphäre.",
+      hu: "Amszterdam Hollandia fővárosa, amely világhírű történelmi csatornahálózatáról, világszínvonalú múzeumairól és liberális légköréről ismert.",
+      ro: "Amsterdam este capitala Olandei, renumită în întreaga lume pentru rețeaua sa istorică de canale, muzeele de primă clasă și atmosfera sa liberală.",
+      en: "Amsterdam is the capital of the Netherlands, world-famous for its historic canal network, world-class museums, and its liberal atmosphere."
+    },
+    descriptionAdvanced: {
     de: "Amsterdam ist die Hauptstadt der Niederlande und weltberühmt für ihr ausgedehntes Netz an historischen Grachten, das zum UNESCO-Welterbe gehört. Die Stadt verbindet eine reiche Geschichte aus dem Goldenen Zeitalter mit einem toleranten, modernen Lebensstil. Amsterdam bietet eine unübertroffene Museumsdichte, darunter das Rijksmuseum und das Van-Gogh-Museum. Zudem ist es eine Fahrrad-Metropole, in der Millionen von Zweirädern das Stadtbild prägen.",
     hu: "Amszterdam Hollandia fővárosa, és világhírű a kiterjedt, történelmi csatornahálózatáról, amely az UNESCO világörökség része. A város az aranykor gazdag történelmét toleráns, modern életmóddal ötvözi. Amszterdam páratlan múzeumsűrűséggel rendelkezik, beleértve a Rijksmuseumot és a Van Gogh Múzeumot. Ezenkívül igazi kerékpáros metropolisz, ahol kerékpárok milliói határozzák meg a városképet.",
     ro: "Amsterdam este capitala Olandei și renumită în întreaga lume pentru rețeaua sa extinsă de canale istorice, care este inclusă în Patrimoniul Mondial UNESCO. Orașul combină o istorie bogată din Epoca de Aur cu un stil de viață tolerant și modern. Amsterdam oferă o densitate de neegalat de muzee, inclusiv Rijksmuseum și Muzeul Van Gogh. De asemenea, este o metropolă a bicicletelor, unde milioane de vehicule cu două roți domină peisajul orașului.",

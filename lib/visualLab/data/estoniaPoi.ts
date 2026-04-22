@@ -13,16 +13,66 @@ const estoniaAllPoiBase: POI[] = [
       en: "Estonia"
     },
     description: {
-      de: "Der nördlichste der baltischen Staaten, bekannt für seine digitale Gesellschaft, dichten Wälder und die mittelalterliche Hauptstadt Tallinn.",
-      hu: "A balti államok legészakibbika, amely digitális társadalmáról, sűrű erdeiről és középkori fővárosáról, Tallinnról ismert.",
-      ro: "Cel mai nordic dintre statele baltice, cunoscut pentru societatea sa digitală, pădurile dese și capitala medievală Tallinn.",
-      en: "The northernmost of the Baltic states, known for its digital society, dense forests, and medieval capital Tallinn."
+      de: "Estland ist der nördlichste der baltischen Staaten, bekannt für seine fortschrittliche digitale Gesellschaft, unberührte Natur und die mittelalterliche Hauptstadt Tallinn.",
+      hu: "Észtország a balti államok legészakibbika, amely fejlett digitális társadalmáról, érintetlen természetéről és középkori fővárosáról, Tallinnról ismert.",
+      ro: "Estonia este cel mai nordic dintre statele baltice, cunoscut pentru societatea sa digitală avansată, natura virgină și capitala medievală Tallinn.",
+      en: "Estonia is the northernmost of the Baltic states, known for its advanced digital society, untouched nature, and medieval capital Tallinn."
+    },
+    descriptionAdvanced: {
+      de: "Estland, offiziell die Republik Estland, ist ein faszinierendes Land im Nordosten Europas, das als nördlichster der drei baltischen Staaten eine einzigartige Brücke zwischen Skandinavien und Osteuropa schlägt. Das Land grenzt im Norden an den Finnischen Meerbusen, im Westen an die Ostsee, im Süden an Lettland und im Osten an Russland. Estland ist weltberühmt für seine Vorreiterrolle in der Digitalisierung; als 'e-Estonia' hat es eine der fortschrittlichsten digitalen Gesellschaften der Welt aufgebaut, in der fast alle Behördengänge online erledigt werden können. Die Hauptstadt Tallinn besticht durch eine der am besten erhaltenen mittelalterlichen Altstädte Europas, die zum UNESCO-Welterbe gehört und in der Kopfsteinpflastergassen auf moderne Start-up-Kultur treffen. Doch Estland ist weit mehr als nur Technologie. Über 50 % der Landesfläche sind von dichten Wäldern bedeckt, und das Land beherbergt über 2.000 Inseln sowie unzählige Moore und Seen, die eine Oase der Ruhe und unberührten Natur bieten. Die estnische Kultur ist tief in der Folklore und dem Gesang verwurzelt, was sich im beeindruckenden Sängerfest widerspiegelt, das alle fünf Jahre Zehntausende von Menschen zusammenbringt. Kulinarisch bietet Estland eine Mischung aus nordischen Einflüssen und traditionellen baltischen Gerichten, wobei Wert auf lokale und saisonale Zutaten gelegt wird. Heute präsentiert sich Estland als moderne, dynamische Nation mit einer starken Wirtschaft und einem hohen Bildungsniveau, die stolz auf ihr Erbe ist und gleichzeitig die Zukunft der digitalen Welt mitgestaltet. Ob man durch die historischen Gassen von Tallinn schlendert, die Stille in den Nationalparks wie Lahemaa genießt oder die lebendige Universitätsstadt Tartu erkundet – Estland empfängt seine Besucher mit einer Mischung aus nordischer Klarheit, technologischer Innovation und herzlicher Gastfreundschaft.",
+      hu: "Észtország, hivatalos nevén az Észt Köztársaság, egy lenyűgöző ország Északkelet-Európában, amely a három balti állam legészakibbika, és egyedülálló hidat képez Skandinávia és Kelet-Európa között. Az ország északon a Finn-öböllel, nyugaton a Balti-tengerrel, délen Lettországgal, keleten pedig Oroszországgal határos. Észtország világhírű a digitalizációban betöltött úttörő szerepéről; 'e-Estonia' néven a világ egyik legfejlettebb digitális társadalmát építette ki, ahol szinte minden közigazgatási ügy online intézhető. A főváros, Tallinn, Európa egyik legjobban megőrzött középkori óvárosával büszkélkedhet, amely az UNESCO Világörökség része, és ahol a macskaköves utcák modern start-up kultúrával találkoznak. Észtország azonban sokkal több, mint technológia. Az ország területének több mint 50%-át sűrű erdők borítják, és több mint 2000 sziget, valamint számtalan mocsár és tó található itt, amelyek a nyugalom és az érintetlen természet oázisát kínálják. Az észt kultúra mélyen gyökerezik a folklórban és az éneklésben, ami a lenyűgöző Dalünnepen mutatkozik meg, amely ötévente több tízezer embert hoz össze. Kulináris szempontból Észtország az északi hatások és a hagyományos balti ételek keverékét kínálja, hangsúlyt fektetve a helyi és szezonális alapanyagokra. Ma Észtország modern, dinamikus nemzet, erős gazdasággal és magas oktatási színvonallal, amely büszke örökségére, miközben aktívan alakítja a digitális világ jövőjét. Akár Tallinn történelmi utcáin sétál valaki, akár a Lahemaa Nemzeti Park csendjét élvezi, vagy a vibráló egyetemi várost, Tartut fedezi fel – Észtország az északi tisztaság, a technológiai innováció és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+      ro: "Estonia, oficial Republica Estonia, este o țară fascinantă situată în nord-estul Europei, care, fiind cea mai nordică dintre cele trei state baltice, reprezintă o punte unică între Scandinavia și Europa de Est. Țara se învecinează la nord cu Golful Finlandei, la vest cu Marea Baltică, la sud cu Letonia și la est cu Rusia. Estonia este renumită în întreaga lume pentru rolul său de pionier în digitalizare; sub numele de „e-Estonia”, a construit una dintre cele mai avansate societăți digitale din lume, unde aproape toate procedurile administrative pot fi efectuate online. Capitala Tallinn impresionează prin unul dintre cele mai bine conservate centre vechi medievale din Europa, inclus în Patrimoniul Mondial UNESCO, unde străzile pietruite se întâlnesc cu cultura modernă a start-up-urilor. Totuși, Estonia este mult mai mult decât tehnologie. Peste 50% din suprafața țării este acoperită de păduri dese, iar țara găzduiește peste 2.000 de insule, precum și nenumărate mlaștini și lacuri care oferă o oază de liniște și natură virgină. Cultura estonă este profund înrădăcinată în folclor și cântec, fapt reflectat în impresionantul Festival al Cântecului, care reunește zeci de mii de oameni la fiecare cinci ani. Din punct de vedere culinar, Estonia oferă un amestec de influențe nordice și mâncăruri tradiționale baltice, punând accent pe ingrediente locale și sezoniere. Astăzi, Estonia se prezintă ca o națiune modernă și dinamică, cu o economie puternică și un nivel ridicat de educație, fiind mândră de moștenirea sa și contribuind în același timp la modelarea viitorului lumii digitale. Fie că vă plimbați pe străzile istorice din Tallinn, vă bucurați de liniștea din parcurile naționale precum Lahemaa sau explorați orașul universitar vibrant Tartu – Estonia își întâmpină vizitatorii cu un amestec de claritate nordică, inovație tehnologică și ospitalitate caldă.",
+      en: "Estonia, officially the Republic of Estonia, is a fascinating country in Northeastern Europe that, as the northernmost of the three Baltic states, serves as a unique bridge between Scandinavia and Eastern Europe. The country borders the Gulf of Finland to the north, the Baltic Sea to the west, Latvia to the south, and Russia to the east. Estonia is world-renowned for its pioneering role in digitalization; as 'e-Estonia,' it has built one of the most advanced digital societies in the world, where almost all government services can be accessed online. The capital, Tallinn, boasts one of the best-preserved medieval old towns in Europe, a UNESCO World Heritage site where cobblestone streets meet modern startup culture. However, Estonia is much more than just technology. Over 50% of the country's land area is covered by dense forests, and the nation is home to over 2,000 islands as well as countless bogs and lakes that offer an oasis of peace and untouched nature. Estonian culture is deeply rooted in folklore and song, reflected in the impressive Song Festival that brings together tens of thousands of people every five years. Culinarily, Estonia offers a blend of Nordic influences and traditional Baltic dishes, with an emphasis on local and seasonal ingredients. Today, Estonia presents itself as a modern, dynamic nation with a strong economy and a high level of education, proud of its heritage while simultaneously helping to shape the future of the digital world. Whether strolling through the historic streets of Tallinn, enjoying the silence in national parks like Lahemaa, or exploring the vibrant university city of Tartu—Estonia welcomes its visitors with a blend of Nordic clarity, technological innovation, and warm hospitality."
     },
     facts: {
-      de: ["Hauptstadt: Tallinn", "Währung: Euro", "Bevölkerung: ~1,3 Millionen"],
-      hu: ["Főváros: Tallinn", "Pénznem: Euró", "Népesség: ~1,3 millió"],
-      ro: ["Capitala: Tallinn", "Moneda: Euro", "Populație: ~1,3 milioane"],
-      en: ["Capital: Tallinn", "Currency: Euro", "Population: ~1.3 million"]
+      de: [
+        "Hauptstadt: Tallinn",
+        "Währung: Euro",
+        "Bevölkerung: ca. 1,3 Millionen",
+        "Digitalisierung: Estland gilt als eine der fortschrittlichsten digitalen Gesellschaften weltweit ('e-Estonia').",
+        "Natur: Über 50 % der Landesfläche sind von Wäldern bedeckt.",
+        "Inseln: Estland hat über 2.000 Inseln in der Ostsee.",
+        "Bildung: Das Land hat eine der höchsten Alphabetisierungsraten der Welt (99,8 %).",
+        "Innovation: Skype wurde 2003 von estnischen Entwicklern mitbegründet.",
+        "Wirtschaft: Estland hat die höchste Anzahl an Start-ups pro Kopf in Europa.",
+        "Sprache: Estnisch ist eng mit dem Finnischen und entfernt mit dem Ungarischen verwandt."
+      ],
+      hu: [
+        "Főváros: Tallinn",
+        "Pénznem: Euró",
+        "Népesség: kb. 1,3 millió",
+        "Digitalizáció: Észtország a világ egyik legfejlettebb digitális társadalma ('e-Estonia').",
+        "Természet: Az ország területének több mint 50%-át erdők borítják.",
+        "Szigetek: Észtországnak több mint 2000 szigete van a Balti-tengeren.",
+        "Oktatás: Az országban a világ egyik legmagasabb az írástudók aránya (99,8%).",
+        "Innováció: A Skype-ot 2003-ban észt fejlesztők közreműködésével hozták létre.",
+        "Gazdaság: Észtországban a legmagasabb az egy főre jutó start-upok száma Európában.",
+        "Nyelv: Az észt nyelv közeli rokona a finnek, és távoli rokona a magyarnak."
+      ],
+      ro: [
+        "Capitala: Tallinn",
+        "Moneda: Euro",
+        "Populație: aprox. 1,3 milioane",
+        "Digitalizare: Estonia este considerată una dintre cele mai avansate societăți digitale din lume („e-Estonia”).",
+        "Natură: Peste 50% din suprafața țării este acoperită de păduri.",
+        "Insule: Estonia are peste 2.000 de insule în Marea Baltică.",
+        "Educație: Țara are una dintre cele mai ridicate rate de alfabetizare din lume (99,8%).",
+        "Inovație: Skype a fost co-fondat de dezvoltatori estonieni în 2003.",
+        "Economie: Estonia are cel mai mare număr de start-up-uri pe cap de locuitor din Europa.",
+        "Limbă: Limba estonă este strâns înrudită cu finlandeza și înrudită îndepărtat cu maghiara."
+      ],
+      en: [
+        "Capital: Tallinn",
+        "Currency: Euro",
+        "Population: approx. 1.3 million",
+        "Digitalization: Estonia is considered one of the most advanced digital societies in the world ('e-Estonia').",
+        "Nature: Over 50% of the country's land area is covered by forests.",
+        "Islands: Estonia has over 2,000 islands in the Baltic Sea.",
+        "Education: The country has one of the highest literacy rates in the world (99.8%).",
+        "Innovation: Skype was co-founded by Estonian developers in 2003.",
+        "Economy: Estonia has the highest number of startups per capita in Europe.",
+        "Language: Estonian is closely related to Finnish and distantly to Hungarian."
+      ]
     },
     image: "/images/visualLab/estonia/country.jpg"
   },
@@ -38,6 +88,12 @@ const estoniaAllPoiBase: POI[] = [
       en: "Tallinn"
     },
     description: {
+      de: "Tallinn ist die Hauptstadt Estlands, berühmt für ihre außergewöhnlich gut erhaltene mittelalterliche Altstadt, die zum UNESCO-Welterbe gehört.",
+      hu: "Tallinn Észtország fővárosa, amely kivételesen jól megőrzött, UNESCO világörökségi középkori óvárosáról híres.",
+      ro: "Tallinn este capitala Estoniei, faimoasă pentru orașul său vechi medieval excepțional de bine conservat, inclus în Patrimoniul Mondial UNESCO.",
+      en: "Tallinn is the capital of Estonia, famous for its exceptionally well-preserved medieval old town, a UNESCO World Heritage site."
+    },
+    descriptionAdvanced: {
       de: "Die Hauptstadt Estlands, berühmt für ihre außergewöhnlich gut erhaltene mittelalterliche Altstadt.",
       hu: "Észtország fővárosa, amely kivételesen jól megőrzött középkori óvárosáról híres.",
       ro: "Capitala Estoniei, faimoasă pentru orașul său vechi medieval excepțional de bine conservat.",

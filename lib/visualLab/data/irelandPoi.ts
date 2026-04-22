@@ -7,10 +7,16 @@ export const irelandCountry: POI = {
   coords: [-7.5023, 53.4129],
   name: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" },
   description: {
-    en: "Ireland, also known as the Emerald Isle, is an island in the North Atlantic known for its lush green landscapes, rich folklore, and friendly people. It has a long and complex history, from ancient Celtic roots to its modern status as a vibrant European nation. The country is famous for its stunning coastal scenery, historic castles, and vibrant cultural traditions, including music, dance, and literature. Ireland's capital, Dublin, is a bustling city with a rich literary heritage and a lively social scene.",
-    de: "Irland, auch bekannt als die Grüne Insel, ist eine Insel im Nordatlantik, die für ihre üppigen grünen Landschaften, ihre reiche Folklore und ihre freundlichen Menschen bekannt ist. Es hat eine lange und komplexe Geschichte, von den antiken keltischen Wurzeln bis zu seinem heutigen Status als pulsierende europäische Nation. Das Land ist berühmt für seine atemberaubende Küstenlandschaft, seine historischen Schlösser und seine lebendigen kulturellen Traditionen, einschließlich Musik, Tanz und Literatur. Irlands Hauptstadt Dublin ist eine geschäftige Stadt mit einem reichen literarischen Erbe und einer lebendigen sozialen Szene.",
-    hu: "Írország, más néven a Smaragd-sziget, egy sziget az Atlanti-óceán északi részén, amely buja zöld tájairól, gazdag folklórjáról és barátságos embereiről ismert. Hosszú és összetett történelemmel rendelkezik, az ősi kelta gyökerektől a modern, vibráló európai nemzetig. Az ország híres lenyűgöző tengerparti tájairól, történelmi kastélyairól és élénk kulturális hagyományairól, beleértve a zenét, a táncot és az irodalmat. Írország fővárosa, Dublin, egy nyüzsgő város gazdag irodalmi örökséggel és élénk társasági élettel.",
-    ro: "Irlanda, cunoscută și sub numele de Insula de Smarald, este o insulă din Atlanticul de Nord, cunoscută pentru peisajele sale verzi luxuriante, folclorul bogat și oamenii prietenoși. Are o istorie lungă și complexă, de la rădăcinile celtice antice până la statutul său modern de națiune europeană vibrantă. Țara este faimoasă pentru peisajele sale de coastă uimitoare, castelele istorice și tradițiile culturale vibrante, inclusiv muzica, dansul și literatura. Capitala Irlandei, Dublin, este un oraș plin de viață, cu o bogată moștenire literară și o scenă socială vibrantă."
+    de: "Irland, die 'Grüne Insel', ist bekannt für seine üppigen Landschaften, reiche Folklore und die herzliche Gastfreundschaft seiner Bewohner.",
+    hu: "Írország, a „Smaragd-sziget”, buja tájairól, gazdag folklórjáról és lakóinak szívélyes vendégszeretetéről ismert.",
+    ro: "Irlanda, „Insula de Smarald”, este cunoscută pentru peisajele sale luxuriante, folclorul bogat și ospitalitatea caldă a locuitorilor săi.",
+    en: "Ireland, the 'Emerald Isle', is known for its lush landscapes, rich folklore, and the warm hospitality of its people."
+  },
+  descriptionAdvanced: {
+    de: "Irland, offiziell die Republik Irland, ist ein faszinierendes Land am westlichen Rand Europas, das für seine atemberaubende natürliche Schönheit, seine tief verwurzelte Geschichte und seine weltweit geschätzte Kultur bekannt ist. Die Insel, die oft als 'Grüne Insel' bezeichnet wird, besticht durch ihre dramatischen Küstenlinien, wie die Cliffs of Moher, und ihre sanften, smaragdgrünen Hügellandschaften. Die irische Geschichte reicht von den antiken keltischen Stämmen über die christliche Missionierung durch den Heiligen Patrick bis hin zur modernen, dynamischen Republik. Die Hauptstadt Dublin ist ein lebendiges Zentrum für Literatur, Musik und Technologie, in dem historisches Erbe auf zeitgenössische Innovation trifft. Irland ist weltberühmt für seine literarischen Giganten wie James Joyce, Oscar Wilde und Samuel Beckett sowie für seine mitreißende traditionelle Musik und den Stepptanz. Ein zentraler Aspekt der irischen Identität ist die Gastfreundschaft und das Konzept von 'Craic' – ein Gefühl von Spaß, Unterhaltung und angenehmer Gesellschaft. Kulinarisch bietet Irland ehrliche Genüsse wie das Irish Stew, frische Meeresfrüchte und natürlich das weltbekannte Guinness-Bier. Heute ist Irland ein modernes EU-Mitglied mit einer der am schnellsten wachsenden Volkswirtschaften Europas, insbesondere im IT- und Pharmasektor. Ob man durch die mystischen Landschaften von Connemara wandert, die historischen Klöster wie Glendalough besichtigt oder die lebendige Pub-Kultur in Dublin genießt – Irland empfängt seine Besucher mit einer Herzlichkeit und einer landschaftlichen Pracht, die einen bleibenden Eindruck hinterlassen.",
+    hu: "Írország, hivatalos nevén az Ír Köztársaság, egy lenyűgöző ország Európa nyugati peremén, amely lélegzetelállító természeti szépségéről, mélyen gyökerező történelméről és világszerte elismert kultúrájáról ismert. A szigetet, amelyet gyakran „Smaragd-szigetnek” neveznek, drámai tengerpartok – mint például a Moher-sziklák – és szelíd, smaragdzöld dombvidékek jellemzik. Az ír történelem az ősi kelta törzsektől kezdve Szent Patrik keresztény misszióján át a modern, dinamikus köztársaságig ível. A főváros, Dublin, az irodalom, a zene és a technológia vibráló központja, ahol a történelmi örökség találkozik a kortárs innovációval. Írország világhírű olyan irodalmi óriásairól, mint James Joyce, Oscar Wilde és Samuel Beckett, valamint magával ragadó hagyományos zenéjéről és sztepptáncáról. Az ír identitás központi eleme a vendégszeretet és a „Craic” fogalma – ami a szórakozást, a jókedvet és a kellemes társaságot jelenti. Kulináris szempontból Írország olyan őszinte élvezeteket kínál, mint az ír gulyás (Irish Stew), a friss tenger gyümölcsei és természetesen a világhírű Guinness sör. Ma Írország modern EU-tagállam, Európa egyik leggyorsabban növekvő gazdaságával, különösen az informatikai és gyógyszerészeti szektorban. Akár Connemara misztikus tájain túrázik valaki, akár olyan történelmi kolostorokat látogat meg, mint Glendalough, vagy Dublin pezsgő pub-kultúráját élvezi – Írország olyan szívélyességgel és természeti pompával fogadja látogatóit, amely maradandó élményt nyújt.",
+    ro: "Irlanda, oficial Republica Irlanda, este o țară fascinantă situată la marginea vestică a Europei, cunoscută pentru frumusețea sa naturală uluitoare, istoria sa profundă și cultura sa apreciată la nivel mondial. Insula, numită adesea „Insula de Smarald”, impresionează prin liniile sale de coastă dramatice, cum ar fi Stâncile Moher, și peisajele sale deluroase de un verde smarald. Istoria Irlandei se întinde de la vechile triburi celtice, prin misiunea creștină a Sfântului Patrick, până la republica modernă și dinamică de astăzi. Capitala Dublin este un centru vibrant pentru literatură, muzică și tehnologie, unde moștenirea istorică se întâlnește cu inovația contemporană. Irlanda este renumită în întreaga lume pentru giganții săi literari, precum James Joyce, Oscar Wilde și Samuel Beckett, precum și pentru muzica sa tradițională antrenantă și dansul step. Un aspect central al identității irlandeze este ospitalitatea și conceptul de „Craic” – un sentiment de distracție, divertisment și companie plăcută. Din punct de vedere culinar, Irlanda oferă delicii oneste, cum ar fi tocană irlandeză (Irish Stew), fructe de mare proaspete și, desigur, faimoasa bere Guinness. Astăzi, Irlanda este un membru modern al UE, cu una dintre cele mai rapide creșteri economice din Europa, în special în sectoarele IT și farmaceutic. Fie că vă plimbați prin peisajele mistice din Connemara, vizitați mănăstirile istorice precum Glendalough sau vă bucurați de cultura vibrantă a pub-urilor din Dublin – Irlanda își întâmpină vizitatorii cu o căldură și o splendoare peisagistică ce lasă o impresie de durată.",
+    en: "Ireland, officially the Republic of Ireland, is a fascinating country on the western edge of Europe, known for its breathtaking natural beauty, deep-rooted history, and world-renowned culture. The island, often referred to as the 'Emerald Isle,' impresses with its dramatic coastlines, such as the Cliffs of Moher, and its rolling, emerald-green hills. Irish history spans from ancient Celtic tribes through the Christian mission of Saint Patrick to today's modern, dynamic republic. The capital, Dublin, is a vibrant hub for literature, music, and technology, where historical heritage meets contemporary innovation. Ireland is world-famous for its literary giants like James Joyce, Oscar Wilde, and Samuel Beckett, as well as for its infectious traditional music and step dance. A central aspect of Irish identity is hospitality and the concept of 'Craic'—a sense of fun, entertainment, and pleasant company. Culinarily, Ireland offers honest delights like Irish stew, fresh seafood, and of course the world-famous Guinness beer. Today, Ireland is a modern EU member with one of Europe's fastest-growing economies, particularly in the IT and pharmaceutical sectors. Whether strolling through the mystical landscapes of Connemara, visiting historic monasteries like Glendalough, or enjoying the vibrant pub culture in Dublin—Ireland welcomes its visitors with a warmth and scenic splendor that leaves a lasting impression."
   },
   facts: {
     en: [
@@ -19,7 +25,11 @@ export const irelandCountry: POI = {
       "The harp is the national symbol of Ireland.",
       "Ireland has won the Eurovision Song Contest a record seven times.",
       "Halloween has its origins in the ancient Celtic festival of Samhain celebrated in Ireland.",
-      "The longest place name in Ireland is Muckanaghederdauhaulia."
+      "The longest place name in Ireland is Muckanaghederdauhaulia.",
+      "Ireland is the only country in the world with a musical instrument (the harp) as its national symbol.",
+      "The White House in Washington D.C. was designed by Irish architect James Hoban.",
+      "There are no snakes in Ireland, according to legend because St. Patrick drove them out.",
+      "The guillotine was used in Ireland almost 500 years before it was used in France."
     ],
     de: [
       "Irland ist wegen seiner üppigen grünen Landschaft als 'Grüne Insel' bekannt.",
@@ -27,7 +37,11 @@ export const irelandCountry: POI = {
       "Die Harfe ist das Nationalsymbol Irlands.",
       "Irland hat den Eurovision Song Contest rekordverdächtige sieben Mal gewonnen.",
       "Halloween hat seinen Ursprung im antiken keltischen Samhain-Fest, das in Irland gefeiert wurde.",
-      "Der längste Ortsname in Irland ist Muckanaghederdauhaulia."
+      "Der längste Ortsname in Irland ist Muckanaghederdauhaulia.",
+      "Irland ist das einzige Land der Welt, das ein Musikinstrument (die Harfe) als Nationalsymbol hat.",
+      "Das Weiße Haus in Washington D.C. wurde vom irischen Architekten James Hoban entworfen.",
+      "In Irland gibt es keine Schlangen; der Legende nach hat St. Patrick sie vertrieben.",
+      "Die Guillotine wurde in Irland fast 500 Jahre vor ihrem Einsatz in Frankreich verwendet."
     ],
     hu: [
       "Írországot buja zöld tájai miatt 'Smaragd-szigetnek' is nevezik.",
@@ -35,7 +49,11 @@ export const irelandCountry: POI = {
       "A hárfa Írország nemzeti jelképe.",
       "Írország rekordnak számító hét alkalommal nyerte meg az Eurovíziós Dalfesztivált.",
       "A Halloween az ősi kelta Samhain fesztiválból ered, amelyet Írországban ünnepeltek.",
-      "Írország leghosszabb helyneve Muckanaghederdauhaulia."
+      "Írország leghosszabb helyneve Muckanaghederdauhaulia.",
+      "Írország az egyetlen ország a világon, amelynek nemzeti jelképe egy hangszer (a hárfa).",
+      "A washingtoni Fehér Házat az ír építész, James Hoban tervezte.",
+      "Írországban nincsenek kígyók; a legenda szerint Szent Patrik űzte ki őket.",
+      "A nyaktilót (guillotine) Írországban már majdnem 500 évvel azelőtt használták, hogy Franciaországban bevezették volna."
     ],
     ro: [
       "Irlanda este cunoscută sub numele de 'Insula de Smarald' datorită peisajului său verde luxuriant.",
@@ -43,7 +61,11 @@ export const irelandCountry: POI = {
       "Harpa este simbolul național al Irlandei.",
       "Irlanda a câștigat Eurovision Song Contest de șapte ori, un record.",
       "Halloween-ul își are originile în vechiul festival celtic Samhain, sărbătorit în Irlanda.",
-      "Cel mai lung nume de loc din Irlanda este Muckanaghederdauhaulia."
+      "Cel mai lung nume de loc din Irlanda este Muckanaghederdauhaulia.",
+      "Irlanda este singura țară din lume care are un instrument muzical (harpa) ca simbol național.",
+      "Casa Albă din Washington D.C. a fost proiectată de arhitectul irlandez James Hoban.",
+      "În Irlanda nu există șerpi; conform legendei, Sfântul Patrick i-a alungat.",
+      "Ghilotina a fost folosită în Irlanda cu aproape 500 de ani înainte de a fi folosită în Franța."
     ]
   },
   image: "/geo-images/ireland/ireland-main.webp",
@@ -57,6 +79,12 @@ export const irelandRegions: POI[] = [
     coords: [-6.2603, 53.3498],
     name: { de: "Dublin", hu: "Dublin", ro: "Dublin", en: "Dublin" },
     description: {
+      de: "Dublin ist die Hauptstadt Irlands, bekannt für ihr reiches literarisches Erbe, das Trinity College und die lebendige Pub-Kultur im Viertel Temple Bar.",
+      hu: "Dublin Írország fővárosa, amely gazdag irodalmi örökségéről, a Trinity College-ról és a Temple Bar negyed pezsgő pub-kultúrájáról ismert.",
+      ro: "Dublin este capitala Irlandei, cunoscută pentru bogata sa moștenire literară, Trinity College și cultura vibrantă a pub-urilor din cartierul Temple Bar.",
+      en: "Dublin is the capital of Ireland, known for its rich literary heritage, Trinity College, and the vibrant pub culture in the Temple Bar district."
+    },
+    descriptionAdvanced: {
       en: "Dublin is the capital and largest city of Ireland, situated at the mouth of the River Liffey. It is a city steeped in history, from its Viking origins to its Georgian architecture. Dublin is world-renowned for its literary heritage, being the home of famous writers like James Joyce and Oscar Wilde. The city offers a mix of historic landmarks, vibrant pubs, and beautiful parks like St. Stephen's Green.",
       de: "Dublin ist die Hauptstadt und größte Stadt Irlands und liegt an der Mündung des Flusses Liffey. Es ist eine geschichtsträchtige Stadt, von ihren Wikinger-Ursprüngen bis zu ihrer georgianischen Architektur. Dublin ist weltberühmt für sein literarisches Erbe und die Heimat berühmter Schriftsteller wie James Joyce und Oscar Wilde. Die Stadt bietet eine Mischung aus historischen Wahrzeichen, lebhaften Pubs und wunderschönen Parks wie St. Stephen's Green.",
       hu: "Dublin Írország fővárosa és legnagyobb városa, a Liffey-folyó torkolatánál fekszik. Történelemben gazdag város, a viking eredettől a georgiánus építészetig. Dublin világhírű irodalmi örökségéről, olyan híres írók otthona, mint James Joyce és Oscar Wilde. A város történelmi nevezetességek, vibráló pubok és gyönyörű parkok, például a St. Stephen's Green keverékét kínálja.",

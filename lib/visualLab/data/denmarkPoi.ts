@@ -7,10 +7,16 @@ export const denmarkCountry: POI = {
   coords: [12.5683, 55.6761],
   name: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
   description: {
-    en: "Denmark is a Scandinavian country in Northern Europe, consisting of the Jutland Peninsula and numerous islands. It is known for its high quality of life, progressive social policies, and iconic design. As the oldest kingdom in Europe, Denmark has a rich history of Vikings and maritime trade. The landscape is characterized by flat, fertile land, sandy coasts, and a strong connection to the sea, which has shaped its culture and economy for centuries.",
-    de: "Dänemark ist ein skandinavisches Land in Nordeuropa, das aus der Halbinsel Jütland und zahlreichen Inseln besteht. Es ist bekannt für seine hohe Lebensqualität, seine progressive Sozialpolitik und sein ikonisches Design. Als ältestes Königreich Europas hat Dänemark eine reiche Geschichte von Wikingern und Seehandel. Die Landschaft ist geprägt von flachem, fruchtbarem Land, Sandküsten und einer starken Verbindung zum Meer, die seine Kultur und Wirtschaft seit Jahrhunderten prägt.",
-    hu: "Dánia egy skandináv ország Észak-Európában, amely a Jütland-félszigetből és számos szigetből áll. Magas életminőségéről, progresszív szociális politikájáról és ikonikus dizájnjáról ismert. Európa legrégebbi királyságaként Dánia gazdag viking történelemmel és tengeri kereskedelmi múlttal rendelkezik. Tájait sík, termékeny földek, homokos tengerpartok és a tengerhez való szoros kötődés jellemzi, amely évszázadok óta meghatározza kultúráját és gazdaságát.",
-    ro: "Danemarca este o țară scandinavă din Europa de Nord, formată din Peninsula Iutlanda și numeroase insule. Este cunoscută pentru calitatea ridicată a vieții, politicile sociale progresiste și designul iconic. Fiind cel mai vechi regat din Europa, Danemarca are o istorie bogată de vikingi și comerț maritim. Peisajul este caracterizat de terenuri plane și fertile, coaste nisipoase și o legătură puternică cu marea, care i-a modelat cultura și economia timp de secole."
+    de: "Dänemark ist ein skandinavisches Land, bekannt für seine hohe Lebensqualität, ikonisches Design und als das älteste Königreich Europas.",
+    hu: "Dánia egy skandináv ország, amely magas életminőségéről, ikonikus dizájnjáról és Európa legrégebbi királyságaként ismert.",
+    ro: "Danemarca este o țară scandinavă, cunoscută pentru calitatea ridicată a vieții, designul iconic și ca fiind cel mai vechi regat din Europa.",
+    en: "Denmark is a Scandinavian country known for its high quality of life, iconic design, and as the oldest kingdom in Europe."
+  },
+  descriptionAdvanced: {
+    de: "Dänemark, offiziell das Königreich Dänemark, ist ein faszinierendes Land im Norden Europas, das als südlichstes der skandinavischen Länder eine Brücke zwischen Mitteleuropa und Skandinavien schlägt. Das Land besteht aus der Halbinsel Jütland und einem Archipel von über 400 Inseln, von denen Seeland und Fünen die bedeutendsten sind. Dänemark ist weltberühmt für seine außergewöhnlich hohe Lebensqualität, seine progressive Sozialpolitik und sein wegweisendes Design, das Funktionalität mit Ästhetik verbindet. Als eines der ältesten Königreiche der Welt blickt Dänemark auf eine reiche Geschichte zurück, die von den furchtlosen Wikingern über das mächtige dänische Weltreich bis hin zur modernen, friedliebenden Demokratie reicht. Die Hauptstadt Kopenhagen ist ein globales Vorbild für Nachhaltigkeit und Fahrradkultur, geprägt von malerischen Kanälen, königlichen Palästen und einer erstklassigen Gastronomieszene. Die dänische Landschaft ist geprägt von sanften Hügeln, fruchtbarem Ackerland und einer schier endlosen Küstenlinie mit weißen Sandstränden und dramatischen Klippen wie Møns Klint. Ein zentraler Aspekt der dänischen Identität ist das Konzept von 'Hygge' – ein Gefühl von Gemütlichkeit, Geborgenheit und dem Genuss der kleinen Dinge im Leben. Kulinarisch ist Dänemark die Heimat des Smørrebrød, erstklassiger Backwaren und einer innovativen 'New Nordic Cuisine', die weltweit Maßstäbe setzt. Auch als Geburtsland von Lego und den Märchen von Hans Christian Andersen hat Dänemark die globale Kultur maßgeblich beeinflusst. Heute ist Dänemark ein Vorreiter in den Bereichen erneuerbare Energien, insbesondere Windkraft, und setzt sich leidenschaftlich für den Umweltschutz ein. Ob man die pulsierende Atmosphäre Kopenhagens genießt, die historischen Wikingerstätten in Roskilde erkundet oder die Ruhe an den weiten Stränden Jütlands sucht – Dänemark empfängt seine Besucher mit einer Mischung aus nordischer Gelassenheit, modernem Fortschritt und herzlicher Gastfreundschaft.",
+    hu: "Dánia, hivatalos nevén a Dán Királyság, egy lenyűgöző ország Észak-Európában, amely a skandináv országok legdélibbikeként hidat képez Közép-Európa és Skandinávia között. Az ország a Jütland-félszigetből és egy több mint 400 szigetből álló szigetvilágból áll, amelyek közül Sjælland és Fünen a legjelentősebbek. Dánia világhírű kivételesen magas életminőségéről, progresszív szociális politikájáról és úttörő dizájnjáról, amely a funkcionalitást az esztétikával ötvözi. A világ egyik legrégebbi királyságaként Dánia gazdag történelmi múltra tekint vissza, a félelmet nem ismerő vikingektől kezdve a hatalmas dán birodalmon át a modern, békeszerető demokráciáig. A főváros, Koppenhága, a fenntarthatóság és a kerékpáros kultúra globális példaképe, amelyet festői csatornák, királyi paloták és világszínvonalú gasztronómia jellemez. A dán tájat szelíd dombok, termékeny szántóföldek és egy szinte végtelen tengerpart határozza meg, fehér homokos strandokkal és olyan drámai sziklákkal, mint a Møns Klint. A dán identitás központi eleme a 'Hygge' fogalma – a meghittség, a biztonság és az élet apró örömeinek élvezete. Kulináris szempontból Dánia a Smørrebrød, a kiváló péksütemények és az innovatív 'New Nordic Cuisine' hazája, amely világszerte mércét állít fel. A Lego és Hans Christian Andersen meséinek szülőhazájaként Dánia a globális kultúrára is meghatározó hatást gyakorolt. Ma Dánia úttörő a megújuló energiák, különösen a szélenergia területén, és szenvedélyesen elkötelezett a környezetvédelem mellett. Akár Koppenhága lüktető hangulatát élvezi valaki, akár Roskilde történelmi viking helyszíneit fedezi fel, vagy Jütland tágas strandjain keresi a nyugalmat – Dánia az északi nyugalom, a modern haladás és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+    ro: "Danemarca, oficial Regatul Danemarcei, este o țară fascinantă din nordul Europei, care, fiind cea mai sudică dintre țările scandinave, face legătura între Europa Centrală și Scandinavia. Țara este formată din Peninsula Iutlanda și un arhipelag de peste 400 de insule, dintre care Seeland și Funen sunt cele mai importante. Danemarca este renumită în întreaga lume pentru calitatea sa excepțional de ridicată a vieții, politicile sociale progresiste și designul său inovator, care îmbină funcționalitatea cu estetica. Fiind unul dintre cele mai vechi regate din lume, Danemarca are o istorie bogată, care se întinde de la vikingii neînfricați, prin puternicul imperiu danez, până la democrația modernă și iubitoare de pace de astăzi. Capitala Copenhaga este un model global de sustenabilitate și cultură a bicicletei, marcată de canale pitorești, palate regale și o scenă gastronomică de primă clasă. Peisajul danez este caracterizat de dealuri blânde, terenuri agricole fertile și o linie de coastă aproape nesfârșită, cu plaje cu nisip alb și stânci dramatice precum Møns Klint. Un aspect central al identității daneze este conceptul de 'Hygge' – un sentiment de confort, siguranță și bucurie de a trăi momentele mici ale vieții. Din punct de vedere culinar, Danemarca este patria Smørrebrød-ului, a produselor de patiserie excelente și a unei 'New Nordic Cuisine' inovatoare, care stabilește standarde la nivel mondial. De asemenea, ca țară de origine a Lego și a poveștilor lui Hans Christian Andersen, Danemarca a influențat semnificativ cultura globală. Astăzi, Danemarca este un pionier în domeniul energiilor regenerabile, în special al energiei eoliene, și este pasionată de protecția mediului. Fie că vă bucurați de atmosfera vibrantă a Copenhagăi, explorați siturile istorice ale vikingilor din Roskilde sau căutați liniștea pe plajele întinse ale Iutlandei – Danemarca își întâmpină vizitatorii cu un amestec de calm nordic, progres modern și ospitalitate caldă.",
+    en: "Denmark, officially the Kingdom of Denmark, is a fascinating country in Northern Europe that, as the southernmost of the Scandinavian nations, serves as a bridge between Central Europe and Scandinavia. The country consists of the Jutland Peninsula and an archipelago of over 400 islands, with Zealand and Funen being the most significant. Denmark is world-renowned for its exceptionally high quality of life, progressive social policies, and pioneering design that blends functionality with aesthetics. As one of the oldest kingdoms in the world, Denmark looks back on a rich history spanning from the fearless Vikings through the powerful Danish Empire to today's modern, peace-loving democracy. The capital, Copenhagen, is a global role model for sustainability and bicycle culture, characterized by picturesque canals, royal palaces, and a world-class culinary scene. The Danish landscape is defined by rolling hills, fertile farmland, and a seemingly endless coastline with white sandy beaches and dramatic cliffs like Møns Klint. A central aspect of Danish identity is the concept of 'Hygge'—a sense of coziness, security, and enjoying the small things in life. Culinarily, Denmark is the home of Smørrebrød, excellent pastries, and an innovative 'New Nordic Cuisine' that sets global standards. As the birthplace of Lego and the fairytales of Hans Christian Andersen, Denmark has also significantly influenced global culture. Today, Denmark is a leader in renewable energy, particularly wind power, and is passionately committed to environmental protection. Whether enjoying the vibrant atmosphere of Copenhagen, exploring the historic Viking sites in Roskilde, or seeking peace on the vast beaches of Jutland—Denmark welcomes its visitors with a blend of Nordic composure, modern progress, and warm hospitality."
   },
   facts: {
     en: [
@@ -19,7 +25,11 @@ export const denmarkCountry: POI = {
       "The Danish flag, the Dannebrog, is the oldest continuously used national flag in the world.",
       "Denmark has more bicycles than people in its capital, Copenhagen.",
       "The country is made up of over 400 named islands.",
-      "Lego was invented in Denmark in 1932."
+      "Lego was invented in Denmark in 1932.",
+      "The word 'hygge' is a central part of Danish culture, meaning a sense of coziness and well-being.",
+      "Denmark has the world's highest number of Michelin stars per capita.",
+      "The Little Mermaid statue in Copenhagen is one of the most photographed landmarks in the world.",
+      "Denmark is a world leader in wind energy, with wind turbines providing a large part of its electricity."
     ],
     de: [
       "Dänemark wird oft als eines der glücklichsten Länder der Welt eingestuft.",
@@ -27,7 +37,11 @@ export const denmarkCountry: POI = {
       "Die dänische Flagge, der Dannebrog, ist die älteste kontinuierlich verwendete Nationalflagge der Welt.",
       "In der Hauptstadt Kopenhagen gibt es mehr Fahrräder als Einwohner.",
       "Das Land besteht aus über 400 benannten Inseln.",
-      "Lego wurde 1932 in Dänemark erfunden."
+      "Lego wurde 1932 in Dänemark erfunden.",
+      "Das Wort 'Hygge' ist ein zentraler Bestandteil der dänischen Kultur und bedeutet Gemütlichkeit und Wohlbefinden.",
+      "Dänemark hat weltweit die höchste Anzahl an Michelin-Sternen pro Kopf.",
+      "Die Statue der Kleinen Meerjungfrau in Kopenhagen ist eines der meistfotografierten Wahrzeichen der Welt.",
+      "Dänemark ist weltweit führend bei der Windenergie; Windturbinen liefern einen Großteil des Stroms."
     ],
     hu: [
       "Dániát gyakran a világ egyik legboldogabb országaként tartják számon.",
@@ -35,7 +49,11 @@ export const denmarkCountry: POI = {
       "A dán zászló, a Dannebrog, a világ legrégebbi, folyamatosan használt nemzeti lobogója.",
       "A fővárosban, Koppenhágában több kerékpár van, mint ember.",
       "Az ország több mint 400 elnevezett szigetből áll.",
-      "A Legót Dániában találták fel 1932-ben."
+      "A Legót Dániában találták fel 1932-ben.",
+      "A 'hygge' szó a dán kultúra központi eleme, amely a meghittséget és a jólétet jelenti.",
+      "Dániában található az egy főre jutó legtöbb Michelin-csillagos étterem a világon.",
+      "A koppenhágai Kis hableány szobor a világ egyik legtöbbet fényképezett látványossága.",
+      "Dánia világelső a szélenergia területén, a szélturbinák biztosítják az áram jelentős részét."
     ],
     ro: [
       "Danemarca este adesea clasată ca fiind una dintre cele mai fericite țări din lume.",
@@ -43,7 +61,11 @@ export const denmarkCountry: POI = {
       "Steagul danez, Dannebrog, este cel mai vechi steag național utilizat continuu din lume.",
       "Danemarca are mai multe biciclete decât oameni în capitala sa, Copenhaga.",
       "Țara este formată din peste 400 de insule cu nume.",
-      "Lego a fost inventat în Danemarca în 1932."
+      "Lego a fost inventat în Danemarca în 1932.",
+      "Cuvântul 'hygge' este o parte centrală a culturii daneze, însemnând un sentiment de confort și bine.",
+      "Danemarca are cel mai mare număr de stele Michelin pe cap de locuitor din lume.",
+      "Statuia Mica Sirenă din Copenhaga este unul dintre cele mai fotografiate repere din lume.",
+      "Danemarca este un lider mondial în energia eoliană, turbinele eoliene furnizând o mare parte din electricitate."
     ]
   },
   image: "/geo-images/denmark/denmark-main.webp",
@@ -57,6 +79,12 @@ export const denmarkRegions: POI[] = [
     coords: [12.5683, 55.6761],
     name: { de: "Kopenhagen", hu: "Koppenhága", ro: "Copenhaga", en: "Copenhagen" },
     description: {
+      de: "Kopenhagen ist die Hauptstadt Dänemarks, bekannt für ihren malerischen Hafen Nyhavn, die Tivoli-Gärten und als eine der fahrradfreundlichsten Städte der Welt.",
+      hu: "Koppenhága Dánia fővárosa, amely festői Nyhavn kikötőjéről, a Tivoli kertekről és a világ egyik leginkább kerékpárosbarát városaként ismert.",
+      ro: "Copenhaga este capitala Danemarcei, cunoscută pentru portul său pitoresc Nyhavn, Grădinile Tivoli și ca fiind unul dintre cele mai prietenoase orașe pentru bicicliști din lume.",
+      en: "Copenhagen is the capital of Denmark, known for its picturesque Nyhavn harbor, Tivoli Gardens, and as one of the most bicycle-friendly cities in the world."
+    },
+    descriptionAdvanced: {
       en: "Copenhagen, the capital of Denmark, is a vibrant city known for its historic charm and modern innovation. It features the famous Nyhavn harbor with its colorful houses, the historic Tivoli Gardens amusement park, and the iconic Little Mermaid statue. The city is a global leader in sustainability and bicycle culture, offering a high quality of life and a rich culinary scene, including many Michelin-starred restaurants.",
       de: "Kopenhagen, die Hauptstadt Dänemarks, ist eine lebendige Stadt, die für ihren historischen Charme und ihre modernen Innovationen bekannt ist. Sie beherbergt den berühmten Hafen Nyhavn mit seinen bunten Häusern, den historischen Vergnügungspark Tivoli und die ikonische Statue der Kleinen Meerjungfrau. Die Stadt ist weltweit führend in Sachen Nachhaltigkeit und Fahrradkultur und bietet eine hohe Lebensqualität sowie eine reiche kulinarische Szene mit vielen Michelin-Stern-Restaurants.",
       hu: "Koppenhága, Dánia fővárosa, történelmi bájáról és modern innovációiról ismert vibráló város. Itt található a híres Nyhavn kikötő színes házaival, a történelmi Tivoli kertek vidámparkja és az ikonikus Kis hableány szobor. A város világelső a fenntarthatóság és a kerékpáros kultúra terén, magas életminőséget és gazdag gasztronómiai kínálatot nyújt, számos Michelin-csillagos étteremmel.",

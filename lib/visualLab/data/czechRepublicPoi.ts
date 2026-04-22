@@ -12,35 +12,65 @@ export const czechRepublicCountry: POI = {
     en: "Czech Republic"
   },
   description: {
-    de: "Tschechien ist ein Binnenstaat in Mitteleuropa, bekannt für seine reiche Geschichte, Architektur und Bierkultur. Die Hauptstadt Prag ist eine der meistbesuchten Städte Europas. Das Land hat viele Burgen und Schlösser.",
-    hu: "Csehország egy közép-európai ország, amely gazdag történelméről, építészetéről és sörkultúrájáról ismert. Fővárosa, Prága Európa egyik leglátogatottabb városa. Az ország számos várral és kastéllyal rendelkezik.",
-    ro: "Cehia este o țară fără ieșire la mare din Europa Centrală, cunoscută pentru istoria sa bogată, arhitectura și cultura berii. Capitala Praga este unul dintre cele mai vizitate orașe din Europa. Țara are multe castele și palate.",
-    en: "The Czech Republic is a landlocked country in Central Europe, known for its rich history, architecture, and beer culture. The capital Prague is one of the most visited cities in Europe. The country has many castles and chateaux."
+    de: "Tschechien ist ein Binnenstaat in Mitteleuropa, bekannt für seine reiche Geschichte, hunderte Burgen und Schlösser sowie seine weltberühmte Bierkultur.",
+    hu: "Csehország egy közép-európai ország, amely gazdag történelméről, több száz váráról és kastélyáról, valamint világhírű sörkultúrájáról ismert.",
+    ro: "Cehia este o țară din Europa Centrală, cunoscută pentru istoria sa bogată, sutele de castele și palate, precum și pentru cultura berii de renume mondial.",
+    en: "The Czech Republic is a Central European country known for its rich history, hundreds of castles and chateaux, and its world-famous beer culture."
+  },
+  descriptionAdvanced: {
+    de: "Tschechien, offiziell die Tschechische Republik, ist ein faszinierendes Land im Herzen Mitteleuropas, das für sein reiches kulturelles Erbe, seine beeindruckende Architektur und seine tief verwurzelte Geschichte bekannt ist. Das Land grenzt an Deutschland, Polen, die Slowakei und Österreich und fungiert seit Jahrhunderten als kulturelle Brücke zwischen Ost und West. Die Hauptstadt Prag, oft als 'Goldene Stadt' oder 'Stadt der hundert Türme' bezeichnet, ist ein architektonisches Juwel und eines der meistbesuchten Reiseziele der Welt. Hier verschmelzen Gotik, Barock und Jugendstil zu einem einzigartigen Stadtbild, das von der majestätischen Prager Burg überragt wird. Doch Tschechien bietet weit mehr als nur seine Hauptstadt. Das Land beherbergt eine außergewöhnliche Dichte an historischen Burgen und Schlössern, wie Karlštejn, Konopiště und Lednice-Valtice, die von der einstigen Macht und dem Reichtum der Region zeugen. Die tschechische Landschaft ist geprägt von sanften Hügeln, dichten Wäldern und markanten Gebirgszügen wie dem Riesengebirge und dem Böhmerwald, die ideale Bedingungen für Outdoor-Aktivitäten bieten. Weltberühmt ist Tschechien zudem für seine Bierbrautradition; Städte wie Pilsen und Budweis sind die Geburtsorte weltbekannter Biersorten. Auch das tschechische Kristallglas und die Porzellanherstellung genießen einen exzellenten Ruf. Kulturell hat das Land bedeutende Persönlichkeiten wie Franz Kafka, Antonín Dvořák und Václav Havel hervorgebracht, die das globale Denken und die Kunst maßgeblich beeinflusst haben. Heute präsentiert sich Tschechien als moderne, dynamische Nation mit einer starken Wirtschaft und einer hohen Lebensqualität, die stolz auf ihre Traditionen ist und gleichzeitig innovative Wege in die Zukunft beschreitet. Ob man durch die mittelalterlichen Gassen von Krumau schlendert, in den Kurorten wie Karlsbad entspannt oder die unberührte Natur der Nationalparks erkundet – Tschechien empfängt seine Besucher mit einer Mischung aus historischem Glanz und herzlicher Gastfreundschaft.",
+    hu: "Csehország, hivatalos nevén a Cseh Köztársaság, egy lenyűgöző ország Közép-Európa szívében, amely gazdag kulturális örökségéről, lenyűgöző építészetéről és mélyen gyökerező történelméről ismert. Az ország Németországgal, Lengyelországgal, Szlovákiával és Ausztriával határos, és évszázadok óta kulturális hídként szolgál Kelet és Nyugat között. A főváros, Prága, amelyet gyakran 'Aranyvárosnak' vagy a 'száz torony városának' neveznek, építészeti ékszerdoboz és a világ egyik leglátogatottabb turisztikai célpontja. Itt a gótika, a barokk és a szecesszió stílusjegyei egyedülálló városképet alkotnak, amelyet a fenséges prágai vár koronáz meg. Csehország azonban sokkal többet kínál a fővárosánál. Az országban rendkívül sűrűn találhatók történelmi várak és kastélyok, mint például Karlštejn, Konopiště vagy a Lednice-Valtice kultúrtáj, amelyek a régió egykori hatalmáról és gazdagságáról tanúskodnak. A cseh tájat szelíd dombok, sűrű erdők és olyan jellegzetes hegyláncok határozzák meg, mint az Óriás-hegység (Krkonoše) vagy a Cseh-erdő (Šumava), amelyek ideális feltételeket kínálnak a szabadtéri tevékenységekhez. Csehország világhírű sörfőzési hagyományairól is; olyan városok, mint Plzeň és České Budějovice, világszerte ismert sörfajták szülőhelyei. A cseh kristályüveg és a porcelángyártás szintén kiváló hírnévnek örvend. Kulturális szempontból az ország olyan jelentős személyiségeket adott a világnak, mint Franz Kafka, Antonín Dvořák vagy Václav Havel, akik meghatározó hatást gyakoroltak a globális gondolkodásra és művészetre. Ma Csehország modern, dinamikus nemzet, erős gazdasággal és magas életminőséggel, amely büszke hagyományaira, miközben innovatív utakat keres a jövő felé. Akár Český Krumlov középkori utcáin sétál valaki, akár a híres fürdővárosokban, például Karlovy Varyban pihen, vagy a nemzeti parkok érintetlen természetét fedezi fel – Csehország a történelmi ragyogás és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+    ro: "Cehia, oficial Republica Cehă, este o țară fascinantă situată în inima Europei Centrale, cunoscută pentru bogata sa moștenire culturală, arhitectura impresionantă și istoria sa profund înrădăcinată. Țara se învecinează cu Germania, Polonia, Slovacia și Austria, funcționând de secole ca o punte culturală între Est și Vest. Capitala Praga, numită adesea „Orașul de Aur” sau „Orașul celor o sută de turle”, este o bijuterie arhitecturală și una dintre cele mai vizitate destinații turistice din lume. Aici, stilurile gotic, baroc și Art Nouveau se îmbină într-un peisaj urban unic, dominat de maiestuosul Castel Praga. Totuși, Cehia oferă mult mai mult decât capitala sa. Țara găzduiește o densitate extraordinară de castele și palate istorice, precum Karlštejn, Konopiště și Lednice-Valtice, care atestă puterea și bogăția de odinioară a regiunii. Peisajul ceh este caracterizat de dealuri blânde, păduri dese și lanțuri muntoase proeminente, cum ar fi Munții Krkonoše și Šumava, care oferă condiții ideale pentru activități în aer liber. Cehia este, de asemenea, renumită în întreaga lume pentru tradiția sa în fabricarea berii; orașe precum Pilsen și Budweis sunt locurile de naștere ale unor mărci de bere celebre la nivel global. Cristalul de Boemia și producția de porțelan se bucură, de asemenea, de o reputație excelentă. Din punct de vedere cultural, țara a dat naștere unor personalități marcante precum Franz Kafka, Antonín Dvořák și Václav Havel, care au influențat decisiv gândirea și arta globală. Astăzi, Cehia se prezintă ca o națiune modernă și dinamică, cu o economie puternică și o calitate ridicată a vieții, fiind mândră de tradițiile sale și urmând în același timp căi inovatoare către viitor. Fie că vă plimbați pe străzile medievale din Český Krumlov, vă relaxați în stațiuni balneare precum Karlovy Vary sau explorați natura neatinsă a parcurilor naționale – Cehia își întâmpină vizitatorii cu un amestec de splendoare istorică și ospitalitate caldă.",
+    en: "The Czech Republic, officially Czechia, is a fascinating country in the heart of Central Europe, known for its rich cultural heritage, impressive architecture, and deep-rooted history. The country borders Germany, Poland, Slovakia, and Austria, and has served for centuries as a cultural bridge between East and West. The capital, Prague, often referred to as the 'Golden City' or the 'City of a Hundred Spires,' is an architectural jewel and one of the most visited destinations in the world. Here, Gothic, Baroque, and Art Nouveau styles blend into a unique cityscape, overlooked by the majestic Prague Castle. However, the Czech Republic offers much more than just its capital. The country is home to an extraordinary density of historic castles and chateaux, such as Karlštejn, Konopiště, and Lednice-Valtice, which bear witness to the former power and wealth of the region. The Czech landscape is characterized by rolling hills, dense forests, and prominent mountain ranges like the Giant Mountains (Krkonoše) and the Bohemian Forest (Šumava), providing ideal conditions for outdoor activities. The Czech Republic is also world-renowned for its beer brewing tradition; cities like Pilsen and Budweis are the birthplaces of globally famous beer styles. Bohemian crystal glass and porcelain production also enjoy an excellent reputation. Culturally, the country has produced significant figures such as Franz Kafka, Antonín Dvořák, and Václav Havel, who have significantly influenced global thought and art. Today, the Czech Republic presents itself as a modern, dynamic nation with a strong economy and a high quality of life, proud of its traditions while simultaneously pursuing innovative paths into the future. Whether strolling through the medieval streets of Český Krumlov, relaxing in spa towns like Karlovy Vary, or exploring the untouched nature of the national parks—the Czech Republic welcomes its visitors with a blend of historical brilliance and warm hospitality."
   },
   facts: {
     de: [
       "Tschechien hat den höchsten Bierkonsum pro Kopf weltweit.",
       "Prag wird oft als 'Stadt der hundert Türme' bezeichnet.",
       "Das Land ist bekannt für böhmisches Kristallglas.",
-      "Es gibt 16 UNESCO-Welterbestätten in Tschechien."
+      "Es gibt 16 UNESCO-Welterbestätten in Tschechien.",
+      "Tschechien hat die höchste Dichte an Burgen und Schlössern in Europa.",
+      "Das Wort 'Robot' wurde vom tschechischen Schriftsteller Karel Čapek geprägt.",
+      "Die weichen Kontaktlinsen wurden 1961 vom tschechischen Chemiker Otto Wichterle erfunden.",
+      "Die Karls-Universität in Prag (gegründet 1348) ist die älteste Universität Mitteleuropas.",
+      "Tschechien ist die Heimat des Pilsner Bieres, das ursprünglich aus Pilsen stammt.",
+      "Die tschechische Puppenspieltradition gehört zum immateriellen UNESCO-Kulturerbe."
     ],
     hu: [
       "Csehországban a legmagasabb az egy főre jutó sörfogyasztás a világon.",
       "Prágát gyakran a 'száz torony városának' nevezik.",
       "Az ország híres a cseh kristályüvegről.",
-      "Csehországban 16 UNESCO Világörökségi helyszín található."
+      "Csehországban 16 UNESCO Világörökségi helyszín található.",
+      "Csehországban található Európa legsűrűbb vár- és kastélyhálózata.",
+      "A 'robot' szót Karel Čapek cseh író alkotta meg R.U.R. című drámájában.",
+      "A lágy kontaktlencsét Otto Wichterle cseh kémikus találta fel 1961-ben.",
+      "A prágai Károly Egyetem (alapítva 1348) Közép-Európa legrégebbi egyeteme.",
+      "Csehország a Pilsner típusú sör hazája, amely Plzeň városából származik.",
+      "A cseh bábjátszás hagyománya az UNESCO szellemi kulturális örökségének része."
     ],
     ro: [
       "Cehia are cel mai mare consum de bere pe cap de locuitor din lume.",
       "Praga este adesea numită 'Orașul celor o sută de turle'.",
       "Țara este cunoscută pentru sticla de cristal de Boemia.",
-      "Există 16 situri ale Patrimoniului Mondial UNESCO în Cehia."
+      "Există 16 situri ale Patrimoniului Mondial UNESCO în Cehia.",
+      "Cehia are cea mai mare densitate de castele și palate din Europa.",
+      "Cuvântul 'robot' a fost inventat de scriitorul ceh Karel Čapek.",
+      "Lentilele de contact moi au fost inventate de chimistul ceh Otto Wichterle în 1961.",
+      "Universitatea Carolină din Praga (fondată în 1348) este cea mai veche din Europa Centrală.",
+      "Cehia este patria berii de tip Pilsner, originară din orașul Pilsen.",
+      "Tradiția marionetelor cehe face parte din patrimoniul imaterial UNESCO."
     ],
     en: [
       "The Czech Republic has the highest beer consumption per capita in the world.",
       "Prague is often called the 'City of a Hundred Spires'.",
       "The country is known for Bohemian crystal glass.",
-      "There are 16 UNESCO World Heritage sites in the Czech Republic."
+      "There are 16 UNESCO World Heritage sites in the Czech Republic.",
+      "The Czech Republic has the highest density of castles and chateaux in Europe.",
+      "The word 'robot' was coined by Czech writer Karel Čapek in his play R.U.R.",
+      "Soft contact lenses were invented by Czech chemist Otto Wichterle in 1961.",
+      "Charles University in Prague (founded 1348) is the oldest university in Central Europe.",
+      "Czechia is the birthplace of Pilsner beer, originating in the city of Pilsen.",
+      "The Czech tradition of puppetry is part of UNESCO's intangible cultural heritage."
     ]
   },
   image: "/geo-images/czech-republic/country-czech-republic.webp"
@@ -59,6 +89,12 @@ export const czechRepublicRegions: POI[] = [
       en: "Prague"
     },
     description: {
+      de: "Prag, die 'Goldene Stadt', ist die Hauptstadt Tschechiens und weltberühmt für ihre astronomische Uhr, die Karlsbrücke und die majestätische Prager Burg.",
+      hu: "Prága, az „Aranyváros”, Csehország fővárosa, amely világhírű csillagászati órájáról, a Károly-hídról és a fenséges prágai várról.",
+      ro: "Praga, „Orașul de Aur”, este capitala Cehiei și este renumită în întreaga lume pentru ceasul său astronomic, Podul Carol și maiestuosul Castel Praga.",
+      en: "Prague, the 'Golden City', is the capital of the Czech Republic and world-famous for its astronomical clock, Charles Bridge, and the majestic Prague Castle."
+    },
+    descriptionAdvanced: {
       de: "Prag ist die Hauptstadt und größte Stadt Tschechiens. Sie wird durch die Moldau geteilt und ist berühmt für ihren Altstädter Ring, die astronomische Uhr und die Karlsbrücke. Die Prager Burg thront über der Stadt.",
       hu: "Prága Csehország fővárosa és legnagyobb városa. A Moldva folyó szeli ketté, és híres az Óvárosi térről, az Orloj csillagászati óráról és a Károly-hídról. A prágai vár a város fölé magasodik.",
       ro: "Praga este capitala și cel mai mare oraș al Cehiei. Este împărțită de râul Vltava și este renumită pentru Piața Orașului Vechi, ceasul astronomic și Podul Carol. Castelul Praga domină orașul.",

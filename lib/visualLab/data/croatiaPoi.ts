@@ -12,16 +12,66 @@ export const croatiaAllPoi = [
       en: "Croatia"
     },
     description: {
-      de: "Ein Land an der Adria, bekannt für seine lange Küste und über tausend Inseln.",
-      hu: "Az Adriai-tenger partján fekvő ország, amely hosszú tengerpartjáról és több mint ezer szigetéről ismert.",
-      ro: "O țară la Marea Adriatică, cunoscută pentru coasta sa lungă și peste o mie de insule.",
-      en: "A country on the Adriatic Sea, known for its long coastline and over a thousand islands."
+      de: "Kroatien ist ein Land an der Adria, bekannt für seine über tausend Inseln, kristallklares Wasser und historische Städte wie Dubrovnik.",
+      hu: "Horvátország az Adriai-tenger partján fekvő ország, amely több mint ezer szigetéről, kristálytiszta vizéről és olyan történelmi városairól ismert, mint Dubrovnik.",
+      ro: "Croația este o țară la Marea Adriatică, cunoscută pentru cele peste o mie de insule ale sale, apa cristalină și orașele istorice precum Dubrovnik.",
+      en: "Croatia is a country on the Adriatic Sea, known for its over a thousand islands, crystal-clear water, and historic cities like Dubrovnik."
+    },
+    descriptionAdvanced: {
+      de: "Kroatien, offiziell die Republik Kroatien, ist ein Juwel an der Schnittstelle zwischen Mittel- und Südosteuropa, das vor allem für seine atemberaubende Adriaküste und seine über tausend Inseln weltberühmt ist. Das Land grenzt im Norden an Slowenien und Ungarn, im Osten an Serbien, im Südosten an Bosnien und Herzegowina sowie Montenegro und im Westen an das Adriatische Meer. Die geografische Vielfalt Kroatiens ist beeindruckend: von den fruchtbaren Ebenen Slawoniens im Osten über die bewaldeten Gebirgszüge des Gorski Kotar bis hin zur zerklüfteten Küstenlandschaft Dalmatiens und Istriens. Die Geschichte Kroatiens ist tief in der europäischen Antike verwurzelt, was sich in den römischen Ruinen von Split und Pula sowie in der mittelalterlichen Pracht von Dubrovnik, der 'Perle der Adria', widerspiegelt. Die Hauptstadt Zagreb im Landesinneren ist ein lebendiges kulturelles Zentrum mit einer Mischung aus österreichisch-ungarischer Architektur und modernem urbanem Leben. Kroatien ist zudem ein Paradies für Naturliebhaber; der Nationalpark Plitvicer Seen mit seinen kaskadenförmigen Wasserfällen und türkisfarbenen Seen gehört zum UNESCO-Weltnaturerbe. Kulturell ist das Land für seine reiche Folklore, seine traditionelle Klapa-Musik und seine bedeutende Rolle in der Erfindung der Krawatte bekannt. Kulinarisch bietet Kroatien eine köstliche Mischung aus mediterranen Einflüssen an der Küste, wie frischem Fisch und Olivenöl, und herzhaften Fleischgerichten im Landesinneren. Heute ist Kroatien ein modernes EU-Mitglied und eines der beliebtesten Reiseziele Europas, das erfolgreich Tradition mit modernem Tourismus verbindet. Ob man durch die engen Gassen historischer Küstenstädte schlendert, in versteckten Buchten segelt oder die unberührte Natur der Nationalparks erkundet – Kroatien empfängt seine Besucher mit einer Herzlichkeit und einer landschaftlichen Schönheit, die ihresgleichen sucht.",
+      hu: "Horvátország, hivatalos nevén a Horvát Köztársaság, Közép- és Délkelet-Európa találkozásánál fekvő ékszerdoboz, amely leginkább lélegzetelállító adriai partvidékéről és több mint ezer szigetéről világhírű. Az ország északon Szlovéniával és Magyarországgal, keleten Szerbiával, délkeleten Bosznia-Hercegovinával és Montenegróval, nyugaton pedig az Adriai-tengerrel határos. Horvátország földrajzi sokszínűsége lenyűgöző: a kelet-szlavóniai termékeny síkságoktól kezdve a Gorski Kotar erdős hegyvonulatain át Dalmácia és Isztria tagolt tengerpartjáig terjed. Az ország történelme mélyen gyökerezik az európai antikvitásban, ami visszatükröződik Split és Pula római kori romjaiban, valamint Dubrovnik, az 'Adria gyöngyszeme' középkori pompájában. A szárazföld belsejében fekvő főváros, Zágráb, vibráló kulturális központ, ahol az osztrák-magyar építészet és a modern városi élet keveredik. Horvátország a természetkedvelők paradicsoma is; a Plitvicei-tavak Nemzeti Park vízeséseivel és türkizkék tavaival az UNESCO világörökség része. Kulturális szempontból az ország gazdag folklórjáról, hagyományos klapa-zenéjéről és a nyakkendő (kravát) feltalálásában betöltött szerepéről ismert. Kulinárisan Horvátország a mediterrán hatások – mint a friss hal és az olívaolaj a parton – és a szárazföldi kiadós húsételek ízletes keverékét kínálja. Ma Horvátország modern EU-tagállam és Európa egyik legnépszerűbb turisztikai célpontja, amely sikeresen ötvözi a hagyományokat a modern vendéglátással. Akár a történelmi tengerparti városok szűk utcáin sétál valaki, akár eldugott öblökben vitorlázik, vagy a nemzeti parkok érintetlen természetét fedezi fel – Horvátország olyan vendégszeretettel és természeti szépséggel fogadja látogatóit, amely páratlan a világon.",
+      ro: "Croația, oficial Republica Croația, este o bijuterie situată la intersecția dintre Europa Centrală și de Sud-Est, fiind renumită în întreaga lume în special pentru coasta sa adriatică uluitoare și cele peste o mie de insule. Țara se învecinează la nord cu Slovenia și Ungaria, la est cu Serbia, la sud-est cu Bosnia și Herțegovina și Muntenegru, iar la vest cu Marea Adriatică. Diversitatea geografică a Croației este impresionantă: de la câmpiile fertile ale Slavoniei în est, prin lanțurile muntoase împădurite din Gorski Kotar, până la peisajul de coastă crestat al Dalmației și Istriei. Istoria Croației este profund înrădăcinată în antichitatea europeană, fapt reflectat în ruinele romane din Split și Pula, precum și în splendoarea medievală a Dubrovnikului, „Perla Adriaticii”. Capitala Zagreb, situată în interiorul țării, este un centru cultural vibrant, cu un amestec de arhitectură austro-ungară și viață urbană modernă. Croația este, de asemenea, un paradis pentru iubitorii de natură; Parcul Național Lacurile Plitvice, cu cascadele sale în trepte și lacurile turcoaz, face parte din Patrimoniul Mondial UNESCO. Din punct de vedere cultural, țara este cunoscută pentru folclorul său bogat, muzica tradițională klapa și rolul său semnificativ în inventarea cravatei. Culinar, Croația oferă un amestec delicios de influențe mediteraneene pe coastă, cum ar fi peștele proaspăt și uleiul de măsline, și mâncăruri consistente din carne în interiorul țării. Astăzi, Croația este un membru modern al UE și una dintre cele mai populare destinații turistice din Europa, îmbinând cu succes tradiția cu turismul modern. Fie că vă plimbați pe străzile înguste ale orașelor istorice de coastă, navigați în golfuri ascunse sau explorați natura neatinsă a parcurilor naționale – Croația își întâmpină vizitatorii cu o ospitalitate și o frumusețe peisagistică inegalabile.",
+      en: "Croatia, officially the Republic of Croatia, is a jewel at the crossroads of Central and Southeast Europe, world-renowned primarily for its stunning Adriatic coastline and over a thousand islands. The country borders Slovenia and Hungary to the north, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and the Adriatic Sea to the west. Croatia's geographical diversity is impressive: from the fertile plains of Slavonia in the east, through the forested mountain ranges of Gorski Kotar, to the rugged coastal landscapes of Dalmatia and Istria. Croatian history is deeply rooted in European antiquity, reflected in the Roman ruins of Split and Pula, as well as the medieval splendor of Dubrovnik, the 'Pearl of the Adriatic.' The capital, Zagreb, located inland, is a vibrant cultural hub with a blend of Austro-Hungarian architecture and modern urban life. Croatia is also a paradise for nature lovers; Plitvice Lakes National Park, with its cascading waterfalls and turquoise lakes, is a UNESCO World Natural Heritage site. Culturally, the country is known for its rich folklore, traditional klapa music, and its significant role in the invention of the necktie (cravat). Culinarily, Croatia offers a delicious blend of Mediterranean influences on the coast, such as fresh fish and olive oil, and hearty meat dishes inland. Today, Croatia is a modern EU member and one of Europe's most popular travel destinations, successfully combining tradition with modern tourism. Whether strolling through the narrow streets of historic coastal towns, sailing in hidden coves, or exploring the untouched nature of the national parks—Croatia welcomes its visitors with a warmth and scenic beauty that is second to none."
     },
     facts: {
-      de: ["Hauptstadt: Zagreb", "Währung: Euro", "Bevölkerung: ~3,8 Millionen"],
-      hu: ["Főváros: Zágráb", "Pénznem: Euró", "Népesség: ~3,8 millió"],
-      ro: ["Capitala: Zagreb", "Moneda: Euro", "Populație: ~3,8 milioane"],
-      en: ["Capital: Zagreb", "Currency: Euro", "Population: ~3.8 million"]
+      de: [
+        "Hauptstadt: Zagreb",
+        "Währung: Euro (seit 2023)",
+        "Bevölkerung: ca. 3,8 Millionen",
+        "Küste: Über 5.800 km Gesamtlänge (inklusive Inseln)",
+        "Inseln: Es gibt 1.244 Inseln, Klippen und Riffe",
+        "Nationalparks: Das Land besitzt 8 Nationalparks",
+        "Erfindung: Die Krawatte stammt ursprünglich aus Kroatien",
+        "Hunderasse: Der Dalmatiner ist nach der Region Dalmatien benannt",
+        "UNESCO: Die Altstadt von Dubrovnik ist Weltkulturerbe",
+        "Natur: Die Plitvicer Seen sind berühmt für ihre 16 Kaskadenseen"
+      ],
+      hu: [
+        "Főváros: Zágráb",
+        "Pénznem: Euró (2023 óta)",
+        "Népesség: kb. 3,8 millió",
+        "Tengerpart: Több mint 5800 km hosszú (szigetekkel együtt)",
+        "Szigetek: 1244 sziget, szikla és zátony található",
+        "Nemzeti parkok: Az országban 8 nemzeti park található",
+        "Találmány: A nyakkendő (kravát) Horvátországból származik",
+        "Kutyafajta: A dalmata kutya Dalmácia régióról kapta a nevét",
+        "UNESCO: Dubrovnik óvárosa a világörökség része",
+        "Természet: A Plitvicei-tavak 16 lépcsőzetes taváról híresek"
+      ],
+      ro: [
+        "Capitala: Zagreb",
+        "Moneda: Euro (din 2023)",
+        "Populație: aprox. 3,8 milioane",
+        "Coastă: Peste 5.800 km lungime totală (inclusiv insulele)",
+        "Insule: Există 1.244 de insule, stânci și recife",
+        "Parcuri naționale: Țara are 8 parcuri naționale",
+        "Invenție: Cravata provine inițial din Croația",
+        "Rasă de câini: Dalmatianul este numit după regiunea Dalmația",
+        "UNESCO: Orașul vechi din Dubrovnik este patrimoniu mondial",
+        "Natură: Lacurile Plitvice sunt faimoase pentru cele 16 lacuri în cascadă"
+      ],
+      en: [
+        "Capital: Zagreb",
+        "Currency: Euro (since 2023)",
+        "Population: approx. 3.8 million",
+        "Coastline: Over 5,800 km total length (including islands)",
+        "Islands: There are 1,244 islands, islets, and reefs",
+        "National Parks: The country has 8 national parks",
+        "Invention: The necktie (cravat) originated in Croatia",
+        "Dog Breed: The Dalmatian is named after the region of Dalmatia",
+        "UNESCO: The Old Town of Dubrovnik is a World Heritage site",
+        "Nature: Plitvice Lakes are famous for their 16 cascading lakes"
+      ]
     },
     image: "/images/visualLab/croatia/country.jpg"
   },
@@ -37,6 +87,12 @@ export const croatiaAllPoi = [
       en: "Zagreb"
     },
     description: {
+      de: "Zagreb ist die Hauptstadt Kroatiens, bekannt für ihre historische Oberstadt, die Kathedrale und das lebendige Treiben in der Unterstadt.",
+      hu: "Zágráb Horvátország fővárosa, amely történelmi Felsővárosáról, katedrálisáról és az Alsóváros pezsgő életéről ismert.",
+      ro: "Zagreb este capitala Croației, cunoscută pentru Orașul de Sus istoric, catedrala sa și viața vibrantă din Orașul de Jos.",
+      en: "Zagreb is the capital of Croatia, known for its historic Upper Town, the cathedral, and the vibrant life in the Lower Town."
+    },
+    descriptionAdvanced: {
       de: "Die Hauptstadt Kroatiens, bekannt für ihre historische Oberstadt (Gornji Grad) und die Unterstadt.",
       hu: "Horvátország fővárosa, amely történelmi Felsővárosáról (Gornji Grad) és Alsóvárosáról ismert.",
       ro: "Capitala Croației, cunoscută pentru Orașul de Sus istoric (Gornji Grad) și Orașul de Jos.",
@@ -62,6 +118,12 @@ export const croatiaAllPoi = [
       en: "Split"
     },
     description: {
+      de: "Split ist die zweitgrößte Stadt Kroatiens, berühmt für den Diokletianpalast, ein lebendiges UNESCO-Weltkulturerbe direkt an der Adria.",
+      hu: "Split Horvátország második legnagyobb városa, amely a Diocletianus-palotáról, az Adria partján fekvő élő UNESCO világörökségről híres.",
+      ro: "Split este al doilea oraș ca mărime din Croația, faimos pentru Palatul lui Dioclețian, un sit al Patrimoniului Mondial UNESCO situat chiar pe malul Adriaticii.",
+      en: "Split is the second-largest city in Croatia, famous for Diocletian's Palace, a living UNESCO World Heritage site right on the Adriatic."
+    },
+    descriptionAdvanced: {
       de: "Die zweitgrößte Stadt Kroatiens, berühmt für den Diokletianpalast, ein UNESCO-Weltkulturerbe.",
       hu: "Horvátország második legnagyobb városa, amely a Diocletianus-palotáról, az UNESCO világörökség részéről híres.",
       ro: "Al doilea oraș ca mărime din Croația, faimos pentru Palatul lui Dioclețian, un sit al Patrimoniului Mondial UNESCO.",
@@ -87,6 +149,12 @@ export const croatiaAllPoi = [
       en: "Dubrovnik"
     },
     description: {
+      de: "Dubrovnik, die 'Perle der Adria', ist weltberühmt für seine spektakuläre mittelalterliche Altstadt und die massiven Stadtmauern über dem Meer.",
+      hu: "Dubrovnik, az „Adria gyöngyszeme”, világhírű látványos középkori óvárosáról és a tenger fölé magasodó masszív városfalairól.",
+      ro: "Dubrovnik, „Perla Adriaticii”, este faimos în întreaga lume pentru orașul său vechi medieval spectaculos și zidurile masive ale orașului de deasupra mării.",
+      en: "Dubrovnik, the 'Pearl of the Adriatic', is world-famous for its spectacular medieval Old Town and the massive city walls above the sea."
+    },
+    descriptionAdvanced: {
       de: "Eine historische Stadt an der Adria, bekannt für ihre gut erhaltene Altstadt und die massiven Stadtmauern.",
       hu: "Történelmi város az Adriai-tenger partján, amely jól karbantartott óvárosáról és masszív városfalairól ismert.",
       ro: "Un oraș istoric la Marea Adriatică, cunoscut pentru orașul vechi bine conservat și zidurile masive ale orașului.",

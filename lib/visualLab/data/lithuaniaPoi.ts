@@ -12,16 +12,66 @@ export const lithuaniaAllPoi = [
       en: "Lithuania"
     },
     description: {
-      de: "Das südlichste der drei baltischen Länder, bekannt für seine reiche Geschichte und wunderschöne Natur.",
-      hu: "A három balti ország közül a legdélebbi, amely gazdag történelméről és gyönyörű természetéről ismert.",
-      ro: "Cea mai sudică dintre cele trei țări baltice, cunoscută pentru istoria sa bogată și natura frumoasă.",
-      en: "The southernmost of the three Baltic countries, known for its rich history and beautiful nature."
+      de: "Litauen ist der südlichste der baltischen Staaten, bekannt für seine reiche mittelalterliche Geschichte, die Kurische Nehrung und die barocke Pracht von Vilnius.",
+      hu: "Litvánia a balti államok legdélibbike, amely gazdag középkori történelméről, a Kur-földnyelvről és Vilnius barokk pompájáról ismert.",
+      ro: "Lituania este cel mai sudic dintre statele baltice, cunoscut pentru istoria sa medievală bogată, Grindul Curonian și splendoarea barocă a orașului Vilnius.",
+      en: "Lithuania is the southernmost of the Baltic states, known for its rich medieval history, the Curonian Spit, and the Baroque splendor of Vilnius."
+    },
+    descriptionAdvanced: {
+      de: "Litauen, offiziell die Republik Litauen, ist ein faszinierendes Land im Nordosten Europas, das als größter und südlichster der drei baltischen Staaten auf eine stolze und bewegte Geschichte zurückblickt. Das Land grenzt im Norden an Lettland, im Osten und Süden an Belarus, im Südwesten an Polen und die russische Exklave Kaliningrad sowie im Westen an die Ostsee. Litauen war im Mittelalter als Großfürstentum Litauen zeitweise der flächenmäßig größte Staat Europas, was sich noch heute im starken Nationalbewusstsein und den zahlreichen historischen Stätten widerspiegelt. Die Hauptstadt Vilnius besticht durch eine der größten und am besten erhaltenen barocken Altstädte Osteuropas, die zum UNESCO-Welterbe gehört und für ihre unzähligen Kirchtürme bekannt ist. Einzigartig ist die litauische Landschaft, die von dichten Wäldern, über 6.000 Seen und der spektakulären Kurischen Nehrung geprägt ist – einer schmalen Landzunge mit den höchsten Wanderdünen Europas. Die litauische Kultur ist tief in der Folklore und einer der ältesten lebenden indogermanischen Sprachen verwurzelt, die eine faszinierende Nähe zum Sanskrit aufweist. Ein Symbol des litauischen Widerstands und Glaubens ist der Berg der Kreuze bei Šiauliai, ein beeindruckender Ort mit Hunderttausenden von Kreuzen. Kulinarisch bietet Litauen herzhafte Spezialitäten wie Cepelinai (gefüllte Kartoffelklöße) und den berühmten Baumkuchen Šakotis. Heute präsentiert sich Litauen als moderne, dynamische Nation mit einer starken digitalen Wirtschaft und einer führenden Rolle im Bereich der Lasertechnologie und Fintech. Als Mitglied der Europäischen Union und der NATO ist das Land fest im Westen verankert, während es gleichzeitig seine einzigartigen Traditionen pflegt. Ob man die mittelalterliche Wasserburg Trakai besichtigt, die Ruhe in den Kurorten wie Druskininkai genießt oder die lebendige Kunstszene in Kaunas erkundet – Litauen empfängt seine Besucher mit einer Mischung aus historischer Tiefe, unberührter Natur und herzlicher Gastfreundschaft.",
+      hu: "Litvánia, hivatalos nevén a Litván Köztársaság, egy lenyűgöző ország Északkelet-Európában, amely a három balti állam közül a legnagyobb és a legdélibbik, büszke és eseménydús történelemmel rendelkezik. Az ország északon Lettországgal, keleten és délen Fehéroroszországgal, délnyugaton Lengyelországgal és az orosz Kalinyingrádi exklávéval, nyugaton pedig a Balti-tengerrel határos. A középkorban a Litván Nagyfejedelemség idején Litvánia egy időben Európa legnagyobb területű állama volt, ami a mai napig tükröződik az erős nemzeti öntudatban és a számos történelmi helyszínben. A főváros, Vilnius, Kelet-Európa egyik legnagyobb és legjobban megőrzött barokk óvárosával büszkélkedhet, amely az UNESCO Világörökség része, és számtalan templomtornyáról ismert. Litvánia tájai egyedülállóak: sűrű erdők, több mint 6000 tó és a látványos Kur-földnyelv jellemzi – ez utóbbi egy keskeny földsáv Európa legmagasabb vándorló homokdűnéivel. A litván kultúra mélyen gyökerezik a folklórban és az egyik legrégebbi élő indoeurópai nyelvben, amely lenyűgöző hasonlóságot mutat a szanszkrittal. A litván ellenállás és hit jelképe a Šiauliai közelében található Keresztek hegye, ahol több százezer kereszt látható egy helyen. Kulináris szempontból Litvánia olyan kiadós különlegességeket kínál, mint a Cepelinai (töltött burgonyagombóc) és a híres Šakotis (kürtőskalácshoz hasonló sütemény). Ma Litvánia modern, dinamikus nemzet, erős digitális gazdasággal, vezető szerepet betöltve a lézertechnológia és a fintech területén. Az Európai Unió és a NATO tagjaként az ország szilárdan a Nyugathoz kötődik, miközben hűen őrzi egyedi hagyományait. Akár a középkori Trakai várát látogatja meg valaki, akár Druskininkai gyógyfürdőiben pihen, vagy Kaunas vibráló művészeti életét fedezi fel – Litvánia a történelmi mélység, az érintetlen természet és a szívélyes vendégszeretet keverékével fogadja látogatóit.",
+      ro: "Lituania, oficial Republica Lituania, este o țară fascinantă situată în nord-estul Europei, fiind cea mai mare și mai sudică dintre cele trei state baltice, cu o istorie mândră și zbuciumată. Țara se învecinează la nord cu Letonia, la est și sud cu Belarus, la sud-vest cu Polonia și exclava rusă Kaliningrad, iar la vest cu Marea Baltică. În Evul Mediu, sub Marele Ducat al Lituaniei, țara a fost pentru o perioadă cel mai mare stat din Europa ca suprafață, fapt ce se reflectă și astăzi în conștiința națională puternică și în numeroasele situri istorice. Capitala Vilnius impresionează prin unul dintre cele mai mari și mai bine conservate centre vechi baroce din Europa de Est, inclus în Patrimoniul Mondial UNESCO și renumit pentru nenumăratele sale turle de biserici. Peisajul lituanian este unic, fiind marcat de păduri dese, peste 6.000 de lacuri și spectaculosul Grind Curonian – o limbă îngustă de pământ cu cele mai înalte dune de nisip mișcătoare din Europa. Cultura lituaniană este profund înrădăcinată în folclor și într-una dintre cele mai vechi limbi indoeuropene vii, care prezintă o asemănare fascinantă cu sanscrita. Un simbol al rezistenței și credinței lituaniene este Dealul Crucilor de lângă Šiauliai, un loc impresionant cu sute de mii de cruci. Din punct de vedere culinar, Lituania oferă specialități consistente, cum ar fi Cepelinai (găluște de cartofi umplute) și celebrul cozonac Šakotis. Astăzi, Lituania se prezintă ca o națiune modernă și dinamică, cu o economie digitală puternică și un rol de lider în domeniul tehnologiei laser și fintech. Ca membră a Uniunii Europene și a NATO, țara este ferm ancorată în Occident, păstrându-și în același timp tradițiile unice. Fie că vizitați castelul medieval Trakai, vă bucurați de liniștea din stațiunile balneare precum Druskininkai sau explorați scena artistică vibrantă din Kaunas – Lituania își întâmpină vizitatorii cu un amestec de profunzime istorică, natură virgină și ospitalitate caldă.",
+      en: "Lithuania, officially the Republic of Lithuania, is a fascinating country in Northeastern Europe that, as the largest and southernmost of the three Baltic states, looks back on a proud and eventful history. The country borders Latvia to the north, Belarus to the east and south, Poland and the Russian exclave of Kaliningrad to the southwest, and the Baltic Sea to the west. During the Middle Ages, as the Grand Duchy of Lithuania, the country was at one time the largest state in Europe by area, which is still reflected today in a strong national consciousness and numerous historical sites. The capital, Vilnius, boasts one of the largest and best-preserved Baroque old towns in Eastern Europe, a UNESCO World Heritage site known for its countless church spires. The Lithuanian landscape is unique, characterized by dense forests, over 6,000 lakes, and the spectacular Curonian Spit—a narrow tongue of land featuring the highest shifting sand dunes in Europe. Lithuanian culture is deeply rooted in folklore and one of the oldest living Indo-European languages, which bears a fascinating resemblance to Sanskrit. A symbol of Lithuanian resistance and faith is the Hill of Crosses near Šiauliai, an impressive site with hundreds of thousands of crosses. Culinarily, Lithuania offers hearty specialties such as Cepelinai (stuffed potato dumplings) and the famous spit cake Šakotis. Today, Lithuania presents itself as a modern, dynamic nation with a strong digital economy and a leading role in laser technology and fintech. As a member of the European Union and NATO, the country is firmly anchored in the West while simultaneously cherishing its unique traditions. Whether visiting the medieval water castle of Trakai, enjoying the peace in spa towns like Druskininkai, or exploring the vibrant art scene in Kaunas—Lithuania welcomes its visitors with a blend of historical depth, untouched nature, and warm hospitality."
     },
     facts: {
-      de: ["Hauptstadt: Vilnius", "Währung: Euro", "Bevölkerung: ~2,8 Millionen"],
-      hu: ["Főváros: Vilnius", "Pénznem: Euró", "Népesség: ~2,8 millió"],
-      ro: ["Capitala: Vilnius", "Moneda: Euro", "Populație: ~2,8 milioane"],
-      en: ["Capital: Vilnius", "Currency: Euro", "Population: ~2.8 million"]
+      de: [
+        "Hauptstadt: Vilnius",
+        "Währung: Euro",
+        "Bevölkerung: ca. 2,8 Millionen",
+        "Geschichte: Litauen war im 14. Jahrhundert das größte Land Europas.",
+        "Sprache: Litauisch ist eine der ältesten lebenden Sprachen der Welt und ähnelt dem Sanskrit.",
+        "Natur: Die Kurische Nehrung beherbergt die höchsten Wanderdünen Europas.",
+        "Glaube: Der Berg der Kreuze ist ein weltweit einzigartiger Wallfahrtsort mit über 200.000 Kreuzen.",
+        "Sport: Basketball gilt in Litauen als 'zweite Religion' und ist Nationalsport.",
+        "Wirtschaft: Litauen ist ein weltweit führender Exporteur von Lasertechnologie.",
+        "Geografie: Der geografische Mittelpunkt Europas liegt laut französischen Wissenschaftlern in der Nähe von Vilnius."
+      ],
+      hu: [
+        "Főváros: Vilnius",
+        "Pénznem: Euró",
+        "Népesség: kb. 2,8 millió",
+        "Történelem: Litvánia a 14. században Európa legnagyobb országa volt.",
+        "Nyelv: A litván a világ egyik legrégebbi élő nyelve, amely hasonlít a szanszkrithoz.",
+        "Természet: A Kur-földnyelven találhatók Európa legmagasabb vándorló homokdűnéi.",
+        "Hit: A Keresztek hegye egyedülálló zarándokhely a világon, több mint 200 000 kereszttel.",
+        "Sport: A kosárlabdát Litvániában „második vallásként” tisztelik, és ez a nemzeti sport.",
+        "Gazdaság: Litvánia a lézertechnológia egyik vezető exportőre a világon.",
+        "Földrajz: Európa földrajzi középpontja francia tudósok szerint Vilnius közelében található."
+      ],
+      ro: [
+        "Capitala: Vilnius",
+        "Moneda: Euro",
+        "Populație: aprox. 2,8 milioane",
+        "Istorie: Lituania a fost cea mai mare țară din Europa în secolul al XIV-lea.",
+        "Limbă: Lituaniana este una dintre cele mai vechi limbi vii din lume și seamănă cu sanscrita.",
+        "Natură: Grindul Curonian găzduiește cele mai înalte dune de nisip mișcătoare din Europa.",
+        "Credință: Dealul Crucilor este un loc de pelerinaj unic în lume, cu peste 200.000 de cruci.",
+        "Sport: Baschetul este considerat o „a doua religie” în Lituania și este sportul național.",
+        "Economie: Lituania este un exportator de top la nivel mondial în tehnologia laser.",
+        "Geografie: Centrul geografic al Europei se află, conform oamenilor de știință francezi, lângă Vilnius."
+      ],
+      en: [
+        "Capital: Vilnius",
+        "Currency: Euro",
+        "Population: approx. 2.8 million",
+        "History: Lithuania was the largest country in Europe in the 14th century.",
+        "Language: Lithuanian is one of the oldest living languages in the world, resembling Sanskrit.",
+        "Nature: The Curonian Spit is home to the highest shifting sand dunes in Europe.",
+        "Faith: The Hill of Crosses is a unique pilgrimage site with over 200,000 crosses.",
+        "Sport: Basketball is considered a 'second religion' in Lithuania and is the national sport.",
+        "Economy: Lithuania is a world-leading exporter of laser technology.",
+        "Geography: The geographical center of Europe is located near Vilnius, according to French scientists."
+      ]
     },
     image: "/images/visualLab/lithuania/country.jpg"
   },
@@ -37,6 +87,12 @@ export const lithuaniaAllPoi = [
       en: "Vilnius"
     },
     description: {
+      de: "Vilnius ist die Hauptstadt Litauens, bekannt für ihre beeindruckende barocke Architektur, die charmante Altstadt und das kreative Künstlerviertel Užupis.",
+      hu: "Vilnius Litvánia fővárosa, amely lenyűgöző barokk építészetéről, bájos óvárosáról és az Užupis nevű kreatív művésznegyedéről ismert.",
+      ro: "Vilnius este capitala Lituaniei, cunoscută pentru arhitectura sa barocă impresionantă, orașul vechi fermecător și cartierul creativ al artiștilor, Užupis.",
+      en: "Vilnius is the capital of Lithuania, known for its impressive Baroque architecture, charming old town, and the creative artists' district of Užupis."
+    },
+    descriptionAdvanced: {
       de: "Die Hauptstadt Litauens, bekannt für ihre barocke Architektur und die charmante Altstadt.",
       hu: "Litvánia fővárosa, amely barokk építészetéről és bájos óvárosáról ismert.",
       ro: "Capitala Lituaniei, cunoscută pentru arhitectura sa barocă și orașul vechi fermecător.",

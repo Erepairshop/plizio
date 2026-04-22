@@ -7,6 +7,12 @@ export const polandCountry: POI = {
   coords: [19.1451, 51.9194],
   name: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" },
   description: {
+    de: "Polen ist ein Land in Mitteleuropa, bekannt für seine bewegte Geschichte, beeindruckende mittelalterliche Städte und eine vielfältige Landschaft von der Ostsee bis zur Tatra.",
+    hu: "Lengyelország egy közép-európai ország, amely eseménydús történelméről, lenyűgöző középkori városairól és a Balti-tengerrefől a Tátráig terjedő változatos tájairól ismert.",
+    ro: "Polonia este o țară din Europa Centrală, cunoscută pentru istoria sa zbuciumată, orașele medievale impresionante și un peisaj divers, de la Marea Baltică până la Munții Tatra.",
+    en: "Poland is a country in Central Europe, known for its eventful history, impressive medieval cities, and a diverse landscape ranging from the Baltic Sea to the Tatra Mountains."
+  },
+  descriptionAdvanced: {
       de: "Polen ist ein Land in Mitteleuropa, das an die Ostsee und sieben weitere Staaten grenzt. Es hat eine über tausendjährige Geschichte mit bedeutenden kulturellen und wissenschaftlichen Beiträgen. Die Hauptstadt und größte Stadt ist Warschau, gefolgt von Großstädten wie Krakau und Breslau. Polen ist eine entwickelte Marktwirtschaft und Mitglied der EU sowie der NATO.",
       hu: "Lengyelország egy közép-európai ország, amely a Balti-tengerrel és hét másik országgal határos. Több mint ezeréves történelemmel rendelkezik, jelentős kulturális és tudományos eredményekkel. Fővárosa és legnagyobb városa Varsó, amelyet olyan városok követnek, mint Krakkó és Wrocław. Lengyelország fejlett piacgazdaság, az EU és a NATO tagja.",
       ro: "Polonia este o țară din Europa Centrală, mărginită de Marea Baltică și de alte șapte națiuni. Are o istorie de peste o mie de ani, cu contribuții culturale și științifice semnificative. Capitala și cel mai mare oraș este Varșovia, urmată de alte orașe majore precum Cracovia și Wrocław. Polonia este o economie de piață dezvoltată și membră a UE și NATO.",
