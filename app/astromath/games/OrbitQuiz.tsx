@@ -8,7 +8,7 @@ import type { MathQuestion } from "@/lib/mathCurriculum";
 function toQuizQuestions(mqs: MathQuestion[]): QuizQuestion[] {
   return mqs.map(q => ({
     question: q.question,
-    options: q.options ?? [],
+    options: [...(q.options ?? [])].sort(() => Math.random() - 0.5),
     correctAnswer: q.correctAnswer,
   }));
 }

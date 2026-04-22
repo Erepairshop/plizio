@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -10,6 +10,15 @@ export type CountCatchRound = {
   itemsToCount: { id: string; emoji: string; x: number; y: number }[]; // x, y percentages
   options: { id: string; number: number; isCorrect: boolean }[];
 };
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 export default function CountCatchView({
   rounds,
@@ -25,6 +34,11 @@ export default function CountCatchView({
   const [isRevealing, setIsRevealing] = useState(false);
 
   const round = rounds[currentIdx];
+
+  const shuffledOptions = useMemo(() => {
+    if (!round) return [];
+    return shuffle(round.options);
+  }, [round?.id]);
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
     if (isRevealing) return;
@@ -119,7 +133,7 @@ export default function CountCatchView({
 
       {/* Options */}
       <div className="flex flex-wrap justify-center gap-4 w-full">
-        {round.options.map((opt, idx) => {
+        {shuffledOptions.map((opt, idx) => {
           const isSelected = selectedId === opt.id;
           const isCorrect = opt.isCorrect;
           

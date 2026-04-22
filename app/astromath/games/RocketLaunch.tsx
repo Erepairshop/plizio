@@ -34,7 +34,7 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
     const wrongs = all.filter(o => o !== correct);
     if (!all.length) return [];
     const wrong = wrongs[0] ?? String(Number(correct) + 1);
-    return idx % 2 === 0 ? [correct, wrong] : [wrong, correct];
+    return Math.random() > 0.5 ? [correct, wrong] : [wrong, correct];
   }, [idx, q]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Timer

@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -11,13 +11,33 @@ export type CategoryRushRound = {
   durationMs?: number;
 };
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export default function CategoryRushView({ rounds, color, lang, mode, onDone, onCorrect, onWrong }: AstroGameProps<CategoryRushRound>) {
    const [roundIdx, setRoundIdx] = useState(0);
    const [score, setScore] = useState(0);
    const [itemIdx, setItemIdx] = useState(0);
 
    const currentRound = rounds[roundIdx];
-   const currentItem = currentRound?.items[itemIdx];
+
+   const shuffledItems = useMemo(() => {
+     if (!currentRound) return [];
+     return shuffle(currentRound.items);
+   }, [currentRound?.id]);
+
+   const shuffledCategories = useMemo(() => {
+     if (!currentRound) return [];
+     return shuffle(currentRound.categories);
+   }, [currentRound?.id]);
+
+   const currentItem = shuffledItems[itemIdx];
 
    const handleNextRound = () => {
       if (roundIdx + 1 < rounds.length) {
@@ -82,7 +102,7 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
          </motion.div>
 
          <div className="grid grid-cols-2 gap-4 w-full">
-            {currentRound.categories.map(cat => (
+            {shuffledCategories.map(cat => (
                <motion.button
                   key={cat.id}
                   onClick={() => handleCategoryClick(cat.id)}

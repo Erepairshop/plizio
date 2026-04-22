@@ -12,7 +12,8 @@ const StarMatch = memo(function StarMatch({ questions, color, onDone }: {
   const { lang } = useLang();
 
   const initialPairs = useMemo((): MatchPair[] => {
-    return generateMatchPairs(questions);
+    const shuffled = [...questions].sort(() => Math.random() - 0.5);
+    return generateMatchPairs(shuffled);
   }, [questions]);
 
   const regenerate = useMemo(() => {

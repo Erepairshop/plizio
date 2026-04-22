@@ -17,6 +17,15 @@ export type GapFillStoryRound = {
   }[];
 };
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export default function GapFillStoryView({
   rounds,
   color,
@@ -65,6 +74,15 @@ export default function GapFillStoryView({
     }
     return parts;
   }, [currentRound, lang]);
+
+  const shuffledOptionsPerBlank = useMemo(() => {
+    if (!currentRound) return {};
+    const map: Record<number, any[]> = {};
+    currentRound.blanks.forEach(b => {
+      map[b.index] = shuffle(b.options);
+    });
+    return map;
+  }, [currentRound?.id]);
 
   const handleBlankClick = (idx: number) => {
     if (isChecking) return;
@@ -205,7 +223,7 @@ export default function GapFillStoryView({
               exit={{ opacity: 0, y: -20 }}
               className="flex flex-wrap justify-center gap-3 w-full"
             >
-              {activeBlankDef.options.map(opt => (
+              {(shuffledOptionsPerBlank[activeBlankDef.index] || []).map(opt => (
                 <motion.button
                   key={opt.id}
                   onClick={() => handleOptionSelect(opt.id)}

@@ -17,6 +17,15 @@ export type QuickTapRound = {
   items: QuickTapItem[];
 };
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export default function QuickTapView({
   rounds,
   color,
@@ -32,10 +41,16 @@ export default function QuickTapView({
 
   const currentRound = rounds[roundIdx];
 
+  const shuffledItems = useMemo(() => {
+    if (!currentRound) return [];
+    return shuffle(currentRound.items);
+  }, [currentRound?.id]);
+
   const targetCount = useMemo(() => {
     if (!currentRound) return 0;
     return currentRound.items.filter((item) => item.isTarget).length;
   }, [currentRound]);
+
 
   useEffect(() => {
     setTappedIds(new Set());
@@ -129,7 +144,7 @@ export default function QuickTapView({
           transition={{ duration: 0.3 }}
           className={`grid ${gridColsClass} gap-3 md:gap-4 w-full max-w-md aspect-square`}
         >
-          {currentRound.items.map((item) => {
+          {shuffledItems.map((item) => {
             const isTapped = tappedIds.has(item.id);
             const isError = errorIds.has(item.id);
 
