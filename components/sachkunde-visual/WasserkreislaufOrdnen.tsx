@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { K3K4SvgsA } from '@/components/testpapier-visual/svg/K3K4SvgsA';
+import * as K3K4SvgsB from '@/components/testpapier-visual/svg/K3K4SvgsB';
 
 interface Props {
   stages: string[];
@@ -69,7 +69,7 @@ export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs,
         {shuffled.map((item) => {
           const inChain = selected.includes(item);
           const svgName = stageSvgs[item];
-          const SvgComponent = svgName ? (K3K4SvgsA as any)[svgName] : null;
+          const SvgComponent = svgName ? (K3K4SvgsB as any)[`${svgName}NoBorder`] : null;
           const orderIndex = selected.indexOf(item);
 
           return (

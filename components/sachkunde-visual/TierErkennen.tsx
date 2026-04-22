@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { KatzeSvg, HundSvg, VogelSvg, FischSvg, PferdSvg } from "@/components/testpapier-visual/svg/K1K2SvgsA";
+import { KatzeSvgNoBorder, HundSvgNoBorder, VogelSvgNoBorder, FischSvgNoBorder, PferdSvgNoBorder } from "@/components/testpapier-visual/svg/K1K2SvgsB";
 
 interface TierErkennenProps {
   svgName: string;
@@ -22,11 +22,11 @@ export default function TierErkennen({
   const renderSvg = () => {
     const props = { className: "w-full max-w-[120px] h-auto max-h-20 mx-auto" };
     switch (svgName) {
-      case "KatzeSvg": return <KatzeSvg {...props} />;
-      case "HundSvg": return <HundSvg {...props} />;
-      case "VogelSvg": return <VogelSvg {...props} />;
-      case "FischSvg": return <FischSvg {...props} />;
-      case "PferdSvg": return <PferdSvg {...props} />;
+      case "KatzeSvg": return <KatzeSvgNoBorder {...props} />;
+      case "HundSvg": return <HundSvgNoBorder {...props} />;
+      case "VogelSvg": return <VogelSvgNoBorder {...props} />;
+      case "FischSvg": return <FischSvgNoBorder {...props} />;
+      case "PferdSvg": return <PferdSvgNoBorder {...props} />;
       default: return null;
     }
   };

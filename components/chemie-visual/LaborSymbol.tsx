@@ -1,5 +1,5 @@
 'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
 
 interface Props {
   prompt: string;
@@ -40,10 +40,10 @@ export default function LaborSymbol({
             Symbol
           </div>
           <div className="flex items-center gap-3">
-            {svgName && K7[svgName as keyof typeof K7] ? (
+            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
               <div className="flex items-center justify-center border border-rose-200 bg-rose-50 rounded-2xl p-2 min-w-[100px]">
                 {(() => {
-                  const SvgComponent = K7[svgName as keyof typeof K7];
+                  const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
                   return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
                 })()}
               </div>

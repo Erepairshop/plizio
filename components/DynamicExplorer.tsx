@@ -195,9 +195,10 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
       const mcqs = pool.filter((item) => item && item.type === "mcq" && Array.isArray(item.options));
       const qObj = mcqs[Math.floor(Math.random() * Math.max(mcqs.length, 1))];
       if (qObj) {
+        const shuffledChoices = [...qObj.options].sort(() => Math.random() - 0.5);
         return {
           question: qObj.question,
-          choices:  qObj.options,
+          choices:  shuffledChoices,
           answer:   qObj.options[qObj.correct],
         };
       }

@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { WinterSvg, FruehlingSvg, SommerSvg, HerbstSvg } from "@/components/testpapier-visual/svg/K1K2SvgsA";
+import { WinterSvgNoBorder, FruehlingSvgNoBorder, SommerSvgNoBorder, HerbstSvgNoBorder } from "@/components/testpapier-visual/svg/K1K2SvgsB";
 
 interface JahreszeitenBildProps {
   svgName: string;
@@ -22,10 +22,10 @@ export default function JahreszeitenBild({
   const renderSvg = () => {
     const props = { className: "w-full max-w-[120px] h-auto max-h-20 mx-auto" };
     switch (svgName) {
-      case "WinterSvg": return <WinterSvg {...props} />;
-      case "FruehlingSvg": return <FruehlingSvg {...props} />;
-      case "SommerSvg": return <SommerSvg {...props} />;
-      case "HerbstSvg": return <HerbstSvg {...props} />;
+      case "WinterSvg": return <WinterSvgNoBorder {...props} />;
+      case "FruehlingSvg": return <FruehlingSvgNoBorder {...props} />;
+      case "SommerSvg": return <SommerSvgNoBorder {...props} />;
+      case "HerbstSvg": return <HerbstSvgNoBorder {...props} />;
       default: return null;
     }
   };

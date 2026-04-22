@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import * as K5K6 from "@/components/testpapier-visual/svg/K5K6SvgsA";
+import * as K5K6 from "@/components/testpapier-visual/svg/K5K6SvgsC";
 
 /**
  * PflanzenAnatomie — Identify plant part by emoji + hint
@@ -34,9 +34,9 @@ export default function PflanzenAnatomie({ partEmoji, partHint, svgName, options
 
       {/* Plant part hint */}
       <div className="flex items-center gap-2 mb-1.5 pl-6">
-        {svgName && (K5K6 as any)[svgName] ? (
+        {svgName && (K5K6 as any)[`${svgName}NoBorder`] ? (
           <div className="mx-auto my-2 w-full max-w-[120px]">
-            {React.createElement((K5K6 as any)[svgName], { className: "w-full h-auto max-h-20" })}
+            {React.createElement((K5K6 as any)[`${svgName}NoBorder`], { className: "w-full h-auto max-h-20" })}
           </div>
         ) : (
           <div className="w-10 h-10 rounded-xl bg-green-50 border-2 border-green-100 flex items-center justify-center text-xl shrink-0">

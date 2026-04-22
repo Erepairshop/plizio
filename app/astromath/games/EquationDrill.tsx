@@ -31,7 +31,17 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
   const [score, setScore] = useState(0);
 
   const q = questions[idx];
-  const opts = q?.options ?? [];
+
+  const shuffledOpts = useMemo(() => {
+    if (!q?.options) return [];
+    const a = [...q.options];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }, [q]);
+
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);
 
   const confirm = useCallback((opt: string | number) => {
@@ -100,7 +110,7 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
 
       {/* Answer cards — 2×2 */}
       <div className="grid grid-cols-2 gap-3">
-        {opts.map((opt, i) => {
+        {shuffledOpts.map((opt, i) => {
           const s = String(opt);
           const isThis = s === selected;
           const isRight = s === String(q.correctAnswer);

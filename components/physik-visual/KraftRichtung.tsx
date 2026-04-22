@@ -1,5 +1,5 @@
 'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
 
 interface Props {
   scenario: string;
@@ -48,10 +48,10 @@ export default function KraftRichtung({
           </div>
           <div className="flex items-center justify-between gap-3">
             <div className="text-sm font-semibold text-slate-700">{scenario}</div>
-            {svgName && K7[svgName as keyof typeof K7] ? (
+            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
               <div className="rounded-2xl bg-white border border-slate-200 flex items-center justify-center shadow-sm p-2 min-w-[100px]">
                 {(() => {
-                  const SvgComponent = K7[svgName as keyof typeof K7];
+                  const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
                   return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
                 })()}
               </div>

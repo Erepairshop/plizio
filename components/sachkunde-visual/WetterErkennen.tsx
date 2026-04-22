@@ -1,6 +1,6 @@
 'use client';
 
-import { K3K4SvgsA } from '@/components/testpapier-visual/svg/K3K4SvgsA';
+import * as K3K4SvgsB from '@/components/testpapier-visual/svg/K3K4SvgsB';
 
 interface Props {
   svgName: string;
@@ -12,7 +12,7 @@ interface Props {
 }
 
 export default function WetterErkennen({ svgName, options, correctIndex, userAnswer, submitted, onAnswer }: Props) {
-  const SvgComponent = (K3K4SvgsA as any)[svgName];
+  const SvgComponent = (K3K4SvgsB as any)[`${svgName}NoBorder`];
 
   return (
     <div className="flex flex-col items-center gap-3 w-full">

@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import * as K8 from "@/components/testpapier-visual/svg/K8SvgsA";
+import * as K8 from "@/components/testpapier-visual/svg/K8SvgsB";
 
 interface Props {
   svgName: string;
@@ -23,9 +23,9 @@ export default function GeographieIcon({ svgName, options, correctIndex, userAns
       </div>
 
       <div className="flex items-center gap-2 mb-1.5 pl-6">
-        {svgName && (K8 as any)[svgName] ? (
+        {svgName && (K8 as any)[`${svgName}NoBorder`] ? (
           <div className="mx-auto my-2 w-full max-w-[120px]">
-            {React.createElement((K8 as any)[svgName], { className: "w-full h-auto max-h-20" })}
+            {React.createElement((K8 as any)[`${svgName}NoBorder`], { className: "w-full h-auto max-h-20" })}
           </div>
         ) : null}
       </div>

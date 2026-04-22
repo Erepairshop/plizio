@@ -69,19 +69,28 @@ export function ChooseActivity({ round, color, lang, onCorrect }: {
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const feedbackTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
+  const shuffledOptions = useMemo(() => {
+    const a = [...round.options];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }, [round.options]);
+
   const handlePick = useCallback((idx: number) => {
     if (feedback === "correct") return;
     setSelected(idx);
-    if (round.options[idx].correct) {
+    if (shuffledOptions[idx].correct) {
       setFeedback("correct");
       feedbackTimer.current = setTimeout(onCorrect, 900);
     } else {
       setFeedback("wrong");
-      const correctOpt = round.options.find(o => o.correct);
-      fireWrongAnswer({ question: round.question[lang] ?? round.question.en, wrongAnswer: round.options[idx].label, correctAnswer: correctOpt?.label ?? "", topic: "Teaching Activity", lang });
+      const correctOpt = shuffledOptions.find(o => o.correct);
+      fireWrongAnswer({ question: round.question[lang] ?? round.question.en, wrongAnswer: shuffledOptions[idx].label, correctAnswer: correctOpt?.label ?? "", topic: "Teaching Activity", lang });
       feedbackTimer.current = setTimeout(() => { setFeedback(null); setSelected(null); }, 700);
     }
-  }, [round.options, round.question, feedback, onCorrect, lang]);
+  }, [shuffledOptions, round.question, feedback, onCorrect, lang]);
 
   useEffect(() => () => { if (feedbackTimer.current) clearTimeout(feedbackTimer.current); }, []);
 
@@ -104,7 +113,7 @@ export function ChooseActivity({ round, color, lang, onCorrect }: {
       )}
 
       <div className="grid grid-cols-2 gap-3 w-full max-w-xs">
-        {round.options.map((opt, i) => {
+        {shuffledOptions.map((opt, i) => {
           const isSelected = selected === i;
           const showCorrect = isSelected && feedback === "correct";
           const showWrong = isSelected && feedback === "wrong";
@@ -317,6 +326,15 @@ export function CountTapActivity({ round, color, lang, onCorrect }: {
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const feedbackTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
+  const shuffledOptions = useMemo(() => {
+    const a = [...round.options];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }, [round.options]);
+
   const handlePick = useCallback((val: number) => {
     if (feedback === "correct") return;
     setSelected(val);
@@ -355,7 +373,7 @@ export function CountTapActivity({ round, color, lang, onCorrect }: {
       </motion.div>
 
       <div className="flex gap-3">
-        {round.options.map((opt) => {
+        {shuffledOptions.map((opt) => {
           const isSelected = selected === opt;
           const showCorrect = isSelected && feedback === "correct";
           const showWrong = isSelected && feedback === "wrong";

@@ -138,8 +138,19 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
 
   function startTest() {
     if (selectedIds.length === 0) return;
-    const qs = config.getQuestions(grade, selectedIds, 15);
-    if (qs.length === 0) return;
+    const rawQs = config.getQuestions(grade, selectedIds, 15);
+    if (rawQs.length === 0) return;
+
+    const qs = rawQs.map(q => {
+      if (q.type === "mcq" && q.options && typeof q.correct === "number") {
+        const correctStr = q.options[q.correct];
+        const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
+        const newCorrect = shuffledOptions.indexOf(correctStr);
+        return { ...q, options: shuffledOptions, correct: newCorrect };
+      }
+      return q;
+    });
+
     setQuestions(qs);
     setIdx(0);
     setAnswers([]);
