@@ -5,6 +5,8 @@ import { LanguageProvider } from "@/components/LanguageProvider";
 import ChallengeOverlay from "@/components/ChallengeOverlay";
 import AITutorOverlay from "@/components/AITutorOverlay";
 import CookieConsent from "@/components/CookieConsent";
+import JsonLd from "@/components/JsonLd";
+import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -90,20 +92,6 @@ export const viewport: Viewport = {
   userScalable: false,
 };
 
-const websiteJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "PLIZIO",
-  url: "https://plizio.com",
-  description:
-    "Free online browser games - play instantly, no download needed. Brain games, educational games, school tests, and more.",
-  potentialAction: {
-    "@type": "SearchAction",
-    target: "https://plizio.com/?q={search_term_string}",
-    "query-input": "required name=search_term_string",
-  },
-};
-
 export default function RootLayout({
   children,
 }: {
@@ -120,11 +108,12 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap" rel="stylesheet" />
+        {/* Preconnect/DNS-prefetch GTM so that the deferred GA load is DNS-warm when it fires */}
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
         <meta name="mobile-web-app-capable" content="yes" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
-        />
+        <JsonLd data={buildOrganizationSchema()} />
+        <JsonLd data={buildWebsiteSchema()} />
       </head>
       <body className="min-h-screen bg-bg antialiased">
         <LanguageProvider>
