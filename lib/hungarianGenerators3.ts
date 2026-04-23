@@ -3,9 +3,10 @@
 // 18 subtopics covering verb tenses, noun declension, compound words, text comprehension, idioms, spelling, composition, sentence analysis
 // All in Hungarian, appropriate for 8-9 year olds
 
-import type { CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumMCQ, CurriculumTyping, CurriculumQuestion } from "./curriculumTypes";
 
 type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+type MagyarTyping = CurriculumTyping & { type: "typing" };
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
@@ -30,6 +31,21 @@ function shuffle<T>(arr: T[], rng: () => number): T[] {
 
 function pick<T>(arr: T[], rng: () => number): T {
   return arr[Math.floor(rng() * arr.length)];
+}
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): MagyarTyping {
+  return {
+    type: "typing",
+    topic,
+    subtopic,
+    question,
+    answer,
+  } as MagyarTyping;
 }
 
 function createMCQ(topic: string, subtopic: string, question: string, correct: string, wrongOptions: string[]): CurriculumMCQ {
@@ -267,9 +283,9 @@ const ADJECTIVE_ROLE = [
 
 // ─── GENERATOR FUNCTIONS ───────────────────────────────────────────────────
 
-export function generateTensePresent(seed?: number): MagyarMCQ[] {
+export function generateTensePresent(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -296,13 +312,25 @@ export function generateTensePresent(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("igeidok", "jelen", `A gyerek... a játékkal. (${verb.inf})`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a jelen idő?", "most folyó cselekvést jelöl"],
+    ["'ír' jelen ideje, én?", "írok"],
+    ["'fut' jelen ideje, ő?", "fut"],
+    ["'olvas' jelen ideje, mi?", "olvasunk"],
+    ["'tanít' jelen ideje, te?", "tanítasz"],
+    ["'kérdez' jelen ideje, ők?", "kérdeznek"],
+    ["Mire kérdez a jelen idő?", "most mit csinál?"],
+    ["'felel' jelen ideje, én?", "felelek"],
+    ["'száll' jelen ideje, ő?", "száll"],
+    ["Jelen idejű ige: 'A gyerek ... az iskolában.'", "tanul"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("igeidok", "jelen", t[0], t[1])));
   return q;
 }
 
-export function generateTensePast(seed?: number): MagyarMCQ[] {
+export function generateTensePast(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -326,13 +354,25 @@ export function generateTensePast(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("igeidok", "mult", `Az előző nap... a házat. (${verb.inf})`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a múlt idő?", "korábban végbement cselekvést jelöl"],
+    ["'ír' múlt ideje?", "írt"],
+    ["'fut' múlt ideje?", "futott"],
+    ["'olvas' múlt ideje?", "olvasott"],
+    ["'játszik' múlt ideje?", "játszott"],
+    ["'eszik' múlt ideje?", "evett"],
+    ["'iszik' múlt ideje?", "ivott"],
+    ["Mire kérdez a múlt idő?", "mit csinált?"],
+    ["'tanít' múlt ideje?", "tanított"],
+    ["Múlt idejű ige: 'Tegnap a gyerek ...'", ["futott", "olvasott", "tanult"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("igeidok", "mult", t[0], t[1])));
   return q;
 }
 
-export function generateTenseFuture(seed?: number): MagyarMCQ[] {
+export function generateTenseFuture(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -356,13 +396,25 @@ export function generateTenseFuture(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("igeidok", "jovo", `A gyerek... majd otthon. (${verb.inf})`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a jövő idő?", "ezután bekövetkező cselekvést jelöl"],
+    ["'ír' jövő ideje?", "fog írni"],
+    ["'fut' jövő ideje?", "fog futni"],
+    ["'olvas' jövő ideje?", "fog olvasni"],
+    ["'játszik' jövő ideje?", "fog játszani"],
+    ["'eszik' jövő ideje?", "fog enni"],
+    ["Mire kérdez a jövő idő?", "majd mit fog csinálni?"],
+    ["'tanít' jövő ideje?", "fog tanítani"],
+    ["Jövő idő jele?", "fog"],
+    ["Jövő idejű mondat: 'Holnap ...'", ["fog futni", "fog olvasni", "fog tanulni"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("igeidok", "jovo", t[0], t[1])));
   return q;
 }
 
-export function generateNounDeclension(seed?: number): MagyarMCQ[] {
+export function generateNounDeclension(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -382,13 +434,25 @@ export function generateNounDeclension(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("nevszok", "fonevragozas", `"${noun.nom}" eszközrag:`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["'kutya' tárgyesete?", "kutyát"],
+    ["'macska' tárgyesete?", "macskát"],
+    ["'ház' tárgyesete?", "házat"],
+    ["'könyv' tárgyesete?", "könyvet"],
+    ["'lány' eszközragos alakja?", "lánnyal"],
+    ["'fiú' eszközragos alakja?", "fiúval"],
+    ["Mi a tárgyrag?", "-t"],
+    ["'szék' helyragos alakja?", "székben"],
+    ["'asztal' eszközragos alakja?", "asztallal"],
+    ["'ház' részeshatározója?", "háznak"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nevszok", "fonevragozas", t[0], t[1])));
   return q;
 }
 
-export function generateAdjectiveDegree(seed?: number): MagyarMCQ[] {
+export function generateAdjectiveDegree(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -408,13 +472,25 @@ export function generateAdjectiveDegree(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("nevszok", "melleknevfokozas", `Melyik az alapfok? "${adj.comp}"-ből:`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["'szép' középfoka?", "szebb"],
+    ["'szép' felsőfoka?", "legszebb"],
+    ["'nagy' középfoka?", "nagyobb"],
+    ["'nagy' felsőfoka?", "legnagyobb"],
+    ["'kicsi' középfoka?", "kisebb"],
+    ["'gyors' felsőfoka?", "leggyorsabb"],
+    ["'magas' középfoka?", "magasabb"],
+    ["'hideg' középfoka?", "hidegebb"],
+    ["Melléknév felsőfoka milyen előtaggal kezdődik?", "leg-"],
+    ["'lassú' középfoka?", "lassabb"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nevszok", "melleknevfokozas", t[0], t[1])));
   return q;
 }
 
-export function generateCompoundWordsAdvanced(seed?: number): MagyarMCQ[] {
+export function generateCompoundWordsAdvanced(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const comp = pick(COMPOUND_WORDS, rng);
@@ -434,13 +510,25 @@ export function generateCompoundWordsAdvanced(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("szo", "osszetett_haladó", `"${comp.comp}" első része:`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Hány részből áll az összetett szó?", "kettő"],
+    ["'osztályterem' első tagja?", "osztály"],
+    ["'szövegértés' második tagja?", "értés"],
+    ["Írj egy összetett szót!", ["osztályterem", "szövegértés", "mondatalkotás"]],
+    ["Mi az összetett szó?", "két szóból álló szó"],
+    ["'önálló' tagjai?", ["ön", "álló"]],
+    ["'közös' összetett szó?", "nem"],
+    ["Milyen szó a 'nappal'?", "összetett szó"],
+    ["'gondolkodás' első tagja?", "gondol"],
+    ["Miért hasznos az összetett szó?", "új fogalmak jelölésére"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szo", "osszetett_haladó", t[0], t[1])));
   return q;
 }
 
-export function generateWordFamilies(seed?: number): MagyarMCQ[] {
+export function generateWordFamilies(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const fam = pick(WORD_FAMILIES, rng);
@@ -460,13 +548,25 @@ export function generateWordFamilies(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("szo", "szocsaladok", `"${pick(fam.words, rng)}" szócsaládjának gyöke:`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szócsalád?", "azonos gyökből származó szavak"],
+    ["'fut' szócsaládjába tartozik?", ["futás", "futó", "futball"]],
+    ["'ír' szócsaládjába tartozik?", ["írás", "író", "írott"]],
+    ["'olvas' szócsaládjának gyöke?", "olvas"],
+    ["'tanul' szócsaládjából írj egyet!", ["tanulás", "tanuló", "tanult"]],
+    ["Mi a szócsalád gyöke?", "az alap szótő"],
+    ["'futás' gyöke?", "fut"],
+    ["'olvasás' gyöke?", "olvas"],
+    ["'tanulás' gyöke?", "tanul"],
+    ["Miért fontos a szócsalád ismerete?", "segít a szavak megértésében"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szo", "szocsaladok", t[0], t[1])));
   return q;
 }
 
-export function generateTextComprehension(seed?: number): MagyarMCQ[] {
+export function generateTextComprehension(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -483,13 +583,25 @@ export function generateTextComprehension(seed?: number): MagyarMCQ[] {
         "boldog", ["szomorú", "mérges", "ijedt"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Hol játszott a fiú?", "a parkban"],
+    ["Mit dobott a fiú?", "labdát"],
+    ["Milyen volt a fiú hangulata?", "boldog"],
+    ["Hova landolt a labda?", "a fák között"],
+    ["Mit csinált a fiú újra?", "dobott"],
+    ["Mi a szövegértés?", "a szöveg megértése"],
+    ["Mi a fő esemény a szövegben?", ["labdadobás", "játék a parkban"]],
+    ["Ki nevethett a szövegben?", "a fiú"],
+    ["Hány szót kell odafigyelni olvasásnál?", "minden szóra"],
+    ["Mit csinált a fiú a parkban?", "játszott"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szoveg", "megertés", t[0], t[1])));
   return q;
 }
 
-export function generateTextSummary(seed?: number): MagyarMCQ[] {
+export function generateTextSummary(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -508,13 +620,25 @@ export function generateTextSummary(seed?: number): MagyarMCQ[] {
         ["Sok gyerek volt ott", "Szivárvány volt az égen", "Eső volt"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szöveg lényege?", "a fiú jól szórakozott"],
+    ["Mit tanulunk a szöveg összefoglalásánál?", "a fő esemény kiemelése"],
+    ["Mivel lehet összefoglalni egy szöveget?", "1-2 mondattal"],
+    ["Mire figyelünk szöveg összefoglalásnál?", "a fő eseményre"],
+    ["Hogyan kezdjük az összefoglalást?", ["A szöveg arról szól...", "A főszereplő..."]],
+    ["Mi a szöveg főmondanivalója?", "A fiú jól szórakozott"],
+    ["Ki volt a szöveg főszereplője?", "a fiú"],
+    ["Hol játszódott a szöveg?", "parkban"],
+    ["Mikor játszódott?", ["nappal", "valószínűleg nappal"]],
+    ["Mit tanulsz szöveg összefoglalásából?", "lényeglátást"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szoveg", "osszefoglalas", t[0], t[1])));
   return q;
 }
 
-export function generateIdioms(seed?: number): MagyarMCQ[] {
+export function generateIdioms(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const idiom = pick(IDIOMS, rng);
@@ -534,13 +658,25 @@ export function generateIdioms(seed?: number): MagyarMCQ[] {
         ["szó szerintiek", "mindig igaz", "archaikusak"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szólás?", "átvitt értelmű kifejezés"],
+    ["'éhes mint a farkas' jelentése?", "nagyon éhes"],
+    ["'lóvá tette' jelentése?", "megtévesztette"],
+    ["'a szívébe zárta' jelentése?", "nagyon megszerette"],
+    ["'majd kiugrik a bőréből' jelentése?", "nagyon boldog vagy izgatott"],
+    ["'sűrű lett a levegő' jelentése?", "feszült lett a helyzet"],
+    ["Szólások szó szerint értendők?", "nem"],
+    ["Mi a szólás és a közmondás különbsége?", "a közmondás tanulságot is tartalmaz"],
+    ["Írj egy szólást!", ["éhes mint a farkas", "lóvá tette", "a szívébe zárta"]],
+    ["Miért nehéz a szólásokat érteni?", "átvitt értelmük van"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szokincs", "szolasok", t[0], t[1])));
   return q;
 }
 
-export function generateProverbs(seed?: number): MagyarMCQ[] {
+export function generateProverbs(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const prov = pick(PROVERBS, rng);
@@ -560,13 +696,25 @@ export function generateProverbs(seed?: number): MagyarMCQ[] {
         ["a történelmet", "a földrajzot", "a matekot"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a közmondás?", "népi bölcsesség rövid mondatban"],
+    ["'Ki korán kel, aranyat lel' jelentése?", "a szorgalom hasznos"],
+    ["'Sok kicsi sokra megy' jelentése?", "a kicsi dolgok összeadódnak"],
+    ["'Nem minden arany, ami fénylik' jelentése?", "nem minden olyan jó, ahogy néz ki"],
+    ["Írj egy közmondást!", ["Ki korán kel aranyat lel", "Sok kicsi sokra megy"]],
+    ["Mire tanítanak a közmondások?", "az élet bölcsességére"],
+    ["Ki alkotja a közmondásokat?", "a nép"],
+    ["Hány részből áll egy közmondás?", "általában egy mondatból"],
+    ["Mi a különbség a szólás és a közmondás között?", "a közmondás tanulságot tartalmaz"],
+    ["Közmondásokat mikor szoktuk mondani?", "bölcs tanácsként"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szokincs", "kozmondasok", t[0], t[1])));
   return q;
 }
 
-export function generateSpellingTogether(seed?: number): MagyarMCQ[] {
+export function generateSpellingTogether(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const word = pick(SPELLING_TOGETHER, rng);
@@ -586,13 +734,25 @@ export function generateSpellingTogether(seed?: number): MagyarMCQ[] {
         ["más mint", "talán", "vagy"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Egybe vagy külön: 'mindenhol'?", "egybe"],
+    ["Egybe vagy külön: 'végig'?", "egybe"],
+    ["Egybe vagy külön: 'össze'?", "egybe"],
+    ["Egybe vagy külön: 'visszaír'?", "egybe"],
+    ["Mi az egybeírás szabálya igekötős szavaknál?", "az igekötő az igéhez kapcsolódik"],
+    ["Egybe vagy külön: 'ki-visszatart'?", "kötőjellel"],
+    ["Mikor írunk egybe igekötős szavakat?", "ha nem hangsúlyos az igekötő"],
+    ["Írj egy egybeírt szót!", ["mindenhol", "végig", "visszaír", "össze"]],
+    ["Egybe vagy külön: 'fel-felkapcsolódik'?", "kötőjellel"],
+    ["Mikor írunk egybe?", "ha szorosan összetartoznak"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("helyesiras", "egybeíras", t[0], t[1])));
   return q;
 }
 
-export function generateSpellingApart(seed?: number): MagyarMCQ[] {
+export function generateSpellingApart(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const word = pick(SPELLING_APART, rng);
@@ -612,13 +772,25 @@ export function generateSpellingApart(seed?: number): MagyarMCQ[] {
         ["mindig összefüggnek", "kitalálható", "nem írható"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Külön vagy egybe: 'más és más'?", "külön"],
+    ["Külön vagy egybe: 'olyan és olyan'?", "külön"],
+    ["Külön vagy egybe: 'így és úgy'?", "külön"],
+    ["Mi az elkülönített írás?", "szavak külön írása"],
+    ["Mikor írunk külön?", "ha szavak önállóak"],
+    ["Külön vagy egybe: 'és'?", "külön szó"],
+    ["Írj egy külön írandó szókapcsolatot!", ["más és más", "így és úgy"]],
+    ["Miért írunk külön?", "ha a szavak önálló fogalmak"],
+    ["'Így és úgy' összesen hány szó?", "három"],
+    ["Külön vagy egybe: 'valami más'?", "külön"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("helyesiras", "kuloniras", t[0], t[1])));
   return q;
 }
 
-export function generateCompositionNarrative(seed?: number): MagyarMCQ[] {
+export function generateCompositionNarrative(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -637,13 +809,25 @@ export function generateCompositionNarrative(seed?: number): MagyarMCQ[] {
         ["az első mondat", "a közepső rész", "az előszó"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az elbeszélés első része?", "kezdet"],
+    ["Mi az elbeszélés fejlesztő része?", "cselekmény"],
+    ["Mi az elbeszélés vége?", "befejezés"],
+    ["Hogyan kezdődik sok mese?", "Egyszer volt, hol nem volt..."],
+    ["Mi a fordulópont az elbeszélésben?", "váratlan esemény"],
+    ["Miből áll egy elbeszélés?", "kezdet, cselekmény, befejezés"],
+    ["Mire kell figyelni elbeszélésnél?", "az eseményekre és az időrendre"],
+    ["Mi a cselekmény?", "a fő esemény a történetben"],
+    ["Mire utal a 'kezdet' az elbeszélésben?", "a történet indulása"],
+    ["Hogyan végzik a jó mesék?", "boldogan"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("fogalmazas", "elbeszeles", t[0], t[1])));
   return q;
 }
 
-export function generateCompositionDescription(seed?: number): MagyarMCQ[] {
+export function generateCompositionDescription(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
@@ -662,13 +846,25 @@ export function generateCompositionDescription(seed?: number): MagyarMCQ[] {
         ["a szeme színét", "a ruháját", "a hajának hosszát"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mire figyelünk személyleírásnál?", "külső és személyiség"],
+    ["Mi a leírás első eleme?", "a külső megjelenés"],
+    ["Mire figyelünk tárgy leírásakor?", "szín, alak, méret"],
+    ["Milyen szófajokat használunk leírásnál?", "mellékneveket"],
+    ["Hogyan írunk le egy személyt?", "külső, személyiség, viselkedés"],
+    ["Mi a leírás célja?", "hogy az olvasó el tudja képzelni"],
+    ["Mit írunk le egy helyszínnél?", "mi látható ott"],
+    ["Írj egy leírást az iskoládról!", ["Az iskola szép épület...", "Sok ablaka van..."]],
+    ["Miért fontos a részletes leírás?", "hogy pontosabb képet adjon"],
+    ["Mit szoktunk leírni egy személyről?", ["szeme színét", "ruháját", "hajának hosszát"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("fogalmazas", "leiras", t[0], t[1])));
   return q;
 }
 
-export function generateObjectRole(seed?: number): MagyarMCQ[] {
+export function generateObjectRole(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const obj = pick(OBJECT_ROLE, rng);
@@ -688,13 +884,25 @@ export function generateObjectRole(seed?: number): MagyarMCQ[] {
         ["leír", "jelent", "mutat"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a tárgy a mondatban?", "amit az ige jelöl"],
+    ["Mi a tárgyrag?", "-t"],
+    ["'Péter egy könyvet olvas.' - mi a tárgy?", "egy könyvet"],
+    ["'A lány az asztalt tolta.' - mi a tárgy?", "az asztalt"],
+    ["'Mari megtalálta a ceruzáját.' - mi a tárgy?", "a ceruzáját"],
+    ["Mire kérdezünk a tárgyra?", "kit? mit?"],
+    ["A tárgy milyen esetben áll?", "tárgyesetben"],
+    ["Írd tárgyesetbe: 'könyv'", "könyvet"],
+    ["Írd tárgyesetbe: 'labda'", "labdát"],
+    ["Tárgy a mondatban: 'A gyerek almát eszik.' - mi a tárgy?", "almát"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("mondat", "targy", t[0], t[1])));
   return q;
 }
 
-export function generateAdverbialRole(seed?: number): MagyarMCQ[] {
+export function generateAdverbialRole(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const adv = pick(ADVERBIAL_ROLE, rng);
@@ -714,13 +922,25 @@ export function generateAdverbialRole(seed?: number): MagyarMCQ[] {
         ["egyedül", "kettős", "virtuális"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a határozó a mondatban?", "az ige körülményét jelöli"],
+    ["Mi a helyhatározó?", "ahol valami történik"],
+    ["Mi az időhatározó?", "mikor történik valami"],
+    ["Mi a módhatározó?", "hogyan történik valami"],
+    ["'A gyerek az iskolában játszik.' - mi a határozó?", "az iskolában"],
+    ["'Reggel elindultunk.' - mi a határozó?", "Reggel"],
+    ["'Gyorsan futottak.' - mi a határozó?", "Gyorsan"],
+    ["Mire kérdez a helyhatározó?", "hol?"],
+    ["Mire kérdez az időhatározó?", "mikor?"],
+    ["Mire kérdez a módhatározó?", "hogyan?"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("mondat", "hatarozo", t[0], t[1])));
   return q;
 }
 
-export function generateAdjectiveRole(seed?: number): MagyarMCQ[] {
+export function generateAdjectiveRole(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const adj = pick(ADJECTIVE_ROLE, rng);
@@ -740,13 +960,25 @@ export function generateAdjectiveRole(seed?: number): MagyarMCQ[] {
         ["az ige módját", "az alanyt", "a tárgyat"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a jelző a mondatban?", "a főnév minőségét jelöli"],
+    ["'A piros virág szép.' - mi a jelző?", "piros"],
+    ["'Az okos fiú tanul.' - mi a jelző?", "okos"],
+    ["'A nagy ház áll az úton.' - mi a jelző?", "nagy"],
+    ["Mire kérdez a jelzőre?", "milyen?"],
+    ["A jelző általában milyen szófaj?", "melléknév"],
+    ["Hova kerül a jelző?", "a főnév elé"],
+    ["'A szép alma piros.' - mi a jelző?", "szép"],
+    ["Adj jelzőt: 'A ___ kutya fut.'", ["gyors", "kicsi", "fekete"]],
+    ["Jelző: 'Az ___ gyerek játszik.'", ["vidám", "okos", "kisebb"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("mondat", "jelzo", t[0], t[1])));
   return q;
 }
 
-export function generateImperativeMood(seed?: number): MagyarMCQ[] {
+export function generateImperativeMood(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const verb = pick(VERBS_IMPERATIVE, rng);
@@ -769,13 +1001,25 @@ export function generateImperativeMood(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("igeidok", "felszolito", `"Gyerekek, ... össze!" (${verb.inf})`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a felszólító mód?", "parancsot, kérést fejez ki"],
+    ["'írni' felszólító módja (te)?", "írj"],
+    ["'futni' felszólító módja (te)?", "fuss"],
+    ["'olvasni' felszólító módja (te)?", "olvass"],
+    ["'enni' felszólító módja (te)?", "egyél"],
+    ["'játszani' felszólító módja (ő)?", "játsszon"],
+    ["Felszólító módú mondat jellemzője?", "felkiáltójel"],
+    ["'inni' felszólító módja (mi)?", "igyunk"],
+    ["Mikor használjuk a felszólító módot?", "parancs, kérés esetén"],
+    ["'futni' felszólító módja (ők)?", "fussanak"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("igeidok", "felszolito", t[0], t[1])));
   return q;
 }
 
-export function generateConditionalMood(seed?: number): MagyarMCQ[] {
+export function generateConditionalMood(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const verb = pick(VERBS_CONDITIONAL, rng);
@@ -798,13 +1042,25 @@ export function generateConditionalMood(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("igeidok", "felteteles", `"Ha lenne pénzem, ..." (${verb.inf})`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a feltételes mód?", "feltételes cselekvést jelöl"],
+    ["'írni' feltételes módja (jelen)?", "írnék"],
+    ["'futni' feltételes módja (jelen)?", "futnék"],
+    ["'olvasni' feltételes módja (jelen)?", "olvasnék"],
+    ["Feltételes módú mondat jellemzője?", "ha... akkor..."],
+    ["'enni' feltételes módja (jelen)?", "ennék"],
+    ["'inni' feltételes módja (jelen)?", "innék"],
+    ["Mikor használjuk a feltételes módot?", "ha valami nem biztos"],
+    ["'játszani' feltételes módja (jelen)?", "játszanék"],
+    ["Feltételes mód jele?", "-na/-ne/-ná/-né"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("igeidok", "felteteles", t[0], t[1])));
   return q;
 }
 
-export function generatePossessivePersonal(seed?: number): MagyarMCQ[] {
+export function generatePossessivePersonal(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const noun = pick(NOUNS_POSSESSIVE, rng);
@@ -827,13 +1083,25 @@ export function generatePossessivePersonal(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("nevszok", "birtokos", `"${noun.nom}" - mienk (1. sz. plur.):`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a birtok jele?", "-m, -d, -ja/je..."],
+    ["'ház' - enyém (1. sz.)?", "házam"],
+    ["'könyv' - enyém (1. sz.)?", "könyvem"],
+    ["'macska' - övé (3. sz.)?", "macskája"],
+    ["'ceruza' - övé (3. sz.)?", "ceruzája"],
+    ["'játék' - miénk (1. sz. plur.)?", "játékunk"],
+    ["'ház' - tiétek (2. sz. plur.)?", "házatok"],
+    ["Mire utal a birtok?", "kié a dolog"],
+    ["'könyv' - övék (3. sz. plur.)?", "könyvük"],
+    ["'macska' - tiéd (2. sz.)?", "macskád"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nevszok", "birtokos", t[0], t[1])));
   return q;
 }
 
-export function generateAdverbialCasesAdvanced(seed?: number): MagyarMCQ[] {
+export function generateAdverbialCasesAdvanced(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const noun = pick(ADVERBIAL_CASE_ADVANCED, rng);
@@ -856,13 +1124,25 @@ export function generateAdverbialCasesAdvanced(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("nevszok", "hatarozaragu", `"${noun.nom}" delativus (-ról/-ről):`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["'ház' eszközragos alakja (-val/-vel)?", "házzal"],
+    ["'iskola' eszközragos alakja?", "iskolával"],
+    ["'szék' eszközragos alakja?", "székkel"],
+    ["'asztal' kiindulási esete (-ból/-ből)?", "asztalból"],
+    ["'toll' kiindulási esete?", "tollból"],
+    ["'ház' felőle eseté (-ról/-ről)?", "házról"],
+    ["Mi az eszközrag?", "-val/-vel"],
+    ["Mi a kiindulási rag?", "-ból/-ből"],
+    ["Mi a felőle rag?", "-ról/-ről"],
+    ["'iskola' felőle eseté?", "iskoláról"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nevszok", "hatarozaragu", t[0], t[1])));
   return q;
 }
 
-export function generateEmotionsVocabulary(seed?: number): MagyarMCQ[] {
+export function generateEmotionsVocabulary(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const emot = pick(EMOTIONS_VOCABULARY, rng);
@@ -886,13 +1166,25 @@ export function generateEmotionsVocabulary(seed?: number): MagyarMCQ[] {
         ["az időt mutatja", "egy szín", "egy tárgy"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az ellentéte a 'boldog' szónak?", "szomorú"],
+    ["Mi az ellentéte a 'mérges' szónak?", "vidám"],
+    ["Mi az ellentéte a 'félénk' szónak?", "bátor"],
+    ["Mi az ellentéte a 'szorongó' szónak?", "nyugodt"],
+    ["Milyen érzelem: 'Nagyon éhes vagyok!'?", "éhség"],
+    ["Milyen érzelem: 'Nagyon boldog vagyok!'?", "boldogság"],
+    ["Milyen érzelem: 'Elveszett a játékom.'?", "szomorúság"],
+    ["Írj egy pozitív érzelem szót!", ["boldog", "vidám", "örömteli"]],
+    ["Írj egy negatív érzelem szót!", ["szomorú", "mérges", "félénk"]],
+    ["Mi az ellentéte a 'vidám' szónak?", "szomorú"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szokincs", "erzelmek", t[0], t[1])));
   return q;
 }
 
-export function generateTimeExpressions(seed?: number): MagyarMCQ[] {
+export function generateTimeExpressions(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const time = pick(TIME_EXPRESSIONS, rng);
@@ -916,13 +1208,25 @@ export function generateTimeExpressions(seed?: number): MagyarMCQ[] {
         ["valami más időpontot", "helyet jelent", "érzelmeket"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a 'tegnap' szó?", "időkifejezés"],
+    ["'tegnap' mikor volt?", "az előző napon"],
+    ["'holnap' mikor lesz?", "a következő napon"],
+    ["'ma' mikor van?", "az aktuális napon"],
+    ["'reggel' mikor van?", "napkelte és dél között"],
+    ["'éjjel' mikor van?", "sötét van, mindenki alszik"],
+    ["'délután' mikor van?", "déltől alkonyig"],
+    ["'este' mikor van?", "a nap vége előtt"],
+    ["Írj egy időkifejezést!", ["tegnap", "ma", "holnap", "reggel", "este"]],
+    ["Mi a különbség 'ma' és 'tegnap' között?", "egy nap"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szokincs", "idokifejezesek", t[0], t[1])));
   return q;
 }
 
-export function generateIkesVerbs(seed?: number): MagyarMCQ[] {
+export function generateIkesVerbs(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const verb = pick(IKES_VERBS, rng);
@@ -945,13 +1249,25 @@ export function generateIkesVerbs(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("helyesiras", "ikes_igek", `"${verb.inf}" múlt ideje:`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az ikes ige?", "ik-re végződő ige"],
+    ["'eszik' ikes ige?", "igen"],
+    ["'iszik' jelen ideje (1. sz.)?", "iszom"],
+    ["'alszik' múlt ideje?", "aludt"],
+    ["'játszik' jelen ideje (1. sz.)?", "játszom"],
+    ["'fekszik' ikes ige?", "igen"],
+    ["'születik' múlt ideje?", "született"],
+    ["Ikes igék jellemzője?", "ik végű"],
+    ["'eszik' múlt ideje?", "evett"],
+    ["'iszik' múlt ideje?", "ivott"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("helyesiras", "ikes_igek", t[0], t[1])));
   return q;
 }
 
-export function generateConsonantHarmony(seed?: number): MagyarMCQ[] {
+export function generateConsonantHarmony(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const rule = pick(CONSONANT_HARMONY_RULES, rng);
@@ -974,13 +1290,25 @@ export function generateConsonantHarmony(seed?: number): MagyarMCQ[] {
         ["boldog", "játszik", "írás"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a mássalhangzó-törvény?", "hangváltozás toldalékoláskor"],
+    ["'szép' + '-ség' = ?", "szépség"],
+    ["'boldog' + '-ság' = ?", "boldogság"],
+    ["'könnyű' + '-ség' = ?", "könnyűség"],
+    ["Mikor változik a mássalhangzó?", "toldalékoláskor"],
+    ["'egészség' milyen mássalhangzó-változást mutat?", "z → s váltakozás"],
+    ["Miért fontos a mássalhangzó-törvény?", "a helyes kiejtés és írás miatt"],
+    ["'szép' szócsaládjából egy példa?", ["szépség", "szépen", "szebb"]],
+    ["'könnyű' szócsaládjából egy példa?", ["könnyűség", "könnyebb", "könnyedén"]],
+    ["'boldog' + '-talan' = ?", "boldogtalan"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("helyesiras", "masshangzo_torveny", t[0], t[1])));
   return q;
 }
 
-export function generateCompoundSentenceBasics(seed?: number): MagyarMCQ[] {
+export function generateCompoundSentenceBasics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const sent = pick(COMPOUND_SENTENCE_BASICS, rng);
@@ -1004,13 +1332,25 @@ export function generateCompoundSentenceBasics(seed?: number): MagyarMCQ[] {
         ["szóból", "szócsoportból", "szótagból"]));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az összetett mondat?", "két vagy több egyszerű mondatból áll"],
+    ["Milyen kötőszó jelöl összeadást?", "és"],
+    ["Milyen kötőszó jelöl ellentétet?", "de"],
+    ["Milyen kötőszó jelöl okot?", "mert"],
+    ["Milyen kötőszó jelöl választást?", "vagy"],
+    ["Milyen kötőszó jelöl célzást?", "hogy"],
+    ["'Péter olvas és Mari ír.' - hány mondat?", "kettő"],
+    ["Megjelöld az 'és' kötőszót ebben: 'Péter és Mari ír.'", "és"],
+    ["Mi az alárendelt mondat?", "a főmondathoz kapcsolódó mellékmondat"],
+    ["Mire utal a 'mert'?", "ok-okozati kapcsolatra"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("mondat", "osszetett_alap", t[0], t[1])));
   return q;
 }
 
-export function generateDialogueVerbs(seed?: number): MagyarMCQ[] {
+export function generateDialogueVerbs(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: MagyarMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 45; i++) {
     const dverb = pick(DIALOGUE_VERBS, rng);
@@ -1034,7 +1374,19 @@ export function generateDialogueVerbs(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("fogalmazas", "parbeszed", `„Játszunk!" – ___ a tanár. (Melyik párbeszéd-ige illik ide?)`, correct, wrongs));
     }
   }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a párbeszéd?", "két személy közötti beszélgetés"],
+    ["Milyen igét használunk, ha valaki mond valamit?", "mondta"],
+    ["Milyen igét használunk, ha valaki kérdez?", "kérdezte"],
+    ["Milyen igét használunk, ha valaki kiált?", "felkiáltott"],
+    ["Milyen igét használunk, ha valaki suttog?", "suttogta"],
+    ["Párbeszédben az idézet elé mit teszünk?", "idézőjelet"],
+    ["Milyen igét használunk, ha valaki mosolyogva mond valamit?", "mosolygott"],
+    ["Mi a párbeszéd jelölője?", "idézőjel vagy gondolatjel"],
+    ["Milyen igét használunk, ha valaki visít?", "visított"],
+    ["Írj egy párbeszéd-igét!", ["mondta", "kérdezte", "felkiáltott", "suttogta"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("fogalmazas", "parbeszed", t[0], t[1])));
   return q;
 }
 

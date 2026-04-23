@@ -4,11 +4,36 @@
 // Generates ~30 questions per subtopic for orbit-quiz and star-match
 // Grade-appropriate for 9-10 year old students
 
-import type { CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumMCQ, CurriculumTyping, CurriculumQuestion } from "./curriculumTypes";
 
 type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+type MagyarTyping = CurriculumTyping & { type: "typing" };
 
 // ─── HELPER FUNCTIONS ───────────────────────────────────────────────────────
+
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): MagyarTyping {
+  return {
+    type: "typing",
+    topic,
+    subtopic,
+    question,
+    answer,
+  } as MagyarTyping;
+}
 
 function createMCQ(
   topic: string,
@@ -104,8 +129,8 @@ const COMMON_WORDS = [
 // ─── GENERATOR FUNCTIONS ────────────────────────────────────────────────────
 
 // 1. ige/alanyi — Subjective verb conjugation (Present tense, "van"-family verbs)
-export const alanyi_ragozas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const alanyi_ragozas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const verbs = ["futon", "játszom", "olvasok", "írok", "rajzolok"];
   const persons = ["én", "te", "ő", "mi", "ti", "ők"];
 
@@ -134,13 +159,25 @@ export const alanyi_ragozas = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp1: [string, string | string[]][] = [
+    ["Mi az alanyi ragozás?", "az igét az alanyhoz igazítjuk"],
+    ["'olvas' - én alanyi?", "olvasok"],
+    ["'fut' - mi alanyi?", "futunk"],
+    ["'ír' - ők alanyi?", "írnak"],
+    ["'játszik' - én alanyi?", "játszom"],
+    ["'rajzol' - te alanyi?", "rajzolsz"],
+    ["'énekel' - ő alanyi?", "énekel"],
+    ["Mikor szükséges az alanyi ragozás?", "meghatározatlan tárgy esetén"],
+    ["'tanul' - mi alanyi?", "tanulunk"],
+    ["'olvas' - ők alanyi?", "olvasnak"],
+  ];
+  shuffle(tp1).forEach(t => questions.push(createTyping("ige", "alanyi", t[0], t[1])));
   return questions;
 };
 
 // 2. ige/targyas — Objective verb conjugation
-export const targyas_ragozas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const targyas_ragozas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const verbs = ["olvasom", "írom", "rajzolom", "csinálom", "szerettem"];
   const tenses = ["olvasom", "olvastad", "olvassa", "olvassuk", "olvassátok", "olvassák"];
 
@@ -156,13 +193,25 @@ export const targyas_ragozas = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp2: [string, string | string[]][] = [
+    ["Mi a tárgyas ragozás?", "határozott tárgy esetén"],
+    ["'olvas' - én tárgyas?", "olvasom"],
+    ["'ír' - te tárgyas?", "írod"],
+    ["'rajzol' - ő tárgyas?", "rajzolja"],
+    ["'néz' - mi tárgyas?", "nézzük"],
+    ["'olvas' - ti tárgyas?", "olvassátok"],
+    ["'ír' - ők tárgyas?", "írják"],
+    ["Mikor szükséges a tárgyas ragozás?", "határozott tárgy esetén"],
+    ["'készít' - én tárgyas?", "készítem"],
+    ["'szeret' - ő tárgyas?", "szereti"],
+  ];
+  shuffle(tp2).forEach(t => questions.push(createTyping("ige", "targyas", t[0], t[1])));
   return questions;
 };
 
 // 3. nevmas/szemelyes — Personal pronouns (different cases)
-export const szemelyes_nevmas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const szemelyes_nevmas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
 
   for (const pronoun of PRONOUNS_PERSONAL) {
     questions.push(
@@ -193,13 +242,25 @@ export const szemelyes_nevmas = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp3: [string, string | string[]][] = [
+    ["Mi a személyes névmás?", "személyeket helyettesítő szó"],
+    ["'én' tárgyesete?", "engem"],
+    ["'te' részeshatározója?", "neked"],
+    ["'ő' tárgyesete?", "őt"],
+    ["'mi' tárgyesete?", "minket"],
+    ["'ti' részeshatározója?", "nektek"],
+    ["'ők' tárgyesete?", "őket"],
+    ["'én' részeshatározója?", "nekem"],
+    ["Személyes névmás egyes szám első személye?", "én"],
+    ["Személyes névmás többes szám harmadik személye?", "ők"],
+  ];
+  shuffle(tp3).forEach(t => questions.push(createTyping("nevmas", "szemelyes", t[0], t[1])));
   return questions;
 };
 
 // 4. nevmas/mutato — Demonstrative pronouns
-export const mutato_nevmas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const mutato_nevmas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const pronouns = ["ez", "az"];
   const contexts = ["a könyv", "az asztal", "a szék", "az ablak"];
 
@@ -217,12 +278,25 @@ export const mutato_nevmas = (): CurriculumMCQ[] => {
     }
   }
 
+  const tp4: [string, string | string[]][] = [
+    ["Mi a mutató névmás?", "közel vagy távolra mutató szó"],
+    ["'ez' közeli vagy távolra mutat?", "közeli"],
+    ["'az' közeli vagy távolra mutat?", "távolra"],
+    ["'ezek' többes száma mire vonatkozik?", "közel lévő dolgokra"],
+    ["'azok' többes száma mire vonatkozik?", "távolabb lévő dolgokra"],
+    ["Mutató névmás egyes számban?", ["ez", "az"]],
+    ["Mutató névmás többes számban?", ["ezek", "azok"]],
+    ["'ilyen' milyen névmás?", "mutató"],
+    ["'olyan' milyen névmás?", "mutató"],
+    ["Mi az alapfunkciója a mutató névmásnak?", "rámutatás"],
+  ];
+  shuffle(tp4).forEach(t => questions.push(createTyping("nevmas", "mutato", t[0], t[1])));
   return questions;
 };
 
 // 5. nevmas/kerdo — Question pronouns
-export const kerdo_nevmas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const kerdo_nevmas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const qwords = ["ki", "mi", "melyik", "milyen"];
   const sentences = [
     { q: "___ van az asztalon?", a: "mi" },
@@ -243,13 +317,25 @@ export const kerdo_nevmas = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp5: [string, string | string[]][] = [
+    ["Mi a kérdő névmás?", "kérdést kifejező szó"],
+    ["Személyre kérdező névmás?", "ki"],
+    ["Dologra kérdező névmás?", "mi"],
+    ["Mire kérdez a 'milyen'?", "tulajdonságra"],
+    ["Mire kérdez a 'melyik'?", "kiválasztásra"],
+    ["Hány főbb kérdő névmás van?", "négy: ki, mi, melyik, milyen"],
+    ["'___ van az asztalon?' - kérdő névmás?", "mi"],
+    ["'___ az a személy?' - kérdő névmás?", "ki"],
+    ["'___ könyvet szeretsz?' - kérdő névmás?", "melyik"],
+    ["'___ színű a ceruza?' - kérdő névmás?", "milyen"],
+  ];
+  shuffle(tp5).forEach(t => questions.push(createTyping("nevmas", "kerdo", t[0], t[1])));
   return questions;
 };
 
 // 6. hatarozo/hely — Locative adverbials (where?)
-export const helyhataroza = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const helyhataroza = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const places = [
     "az iskolában", "a szobában", "a parkban", "az erdőben", "a konyhában",
   ];
@@ -268,13 +354,25 @@ export const helyhataroza = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp6: [string, string | string[]][] = [
+    ["Mi a helyhatározó?", "hely körülményt jelöl"],
+    ["Helyhatározóra kérdező szó?", "hol?"],
+    ["'az iskolában' milyen határozó?", "helyhatározó"],
+    ["'a szobában' milyen határozó?", "helyhatározó"],
+    ["'a parkban' - mire kérdezünk?", "hol?"],
+    ["'az erdőben' - milyen toldalék?", "-ban/-ben"],
+    ["Helyes alakja: iskola + -ban?", "iskolában"],
+    ["Helyes alakja: erdő + -ben?", "erdőben"],
+    ["Helyes alakja: konyha + -ban?", "konyhában"],
+    ["Írj egy helyhatározót!", ["az iskolában", "a parkban", "az erdőben"]],
+  ];
+  shuffle(tp6).forEach(t => questions.push(createTyping("hatarozo", "hely", t[0], t[1])));
   return questions;
 };
 
 // 7. hatarozo/ido — Temporal adverbials (when?)
-export const idohataroza = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const idohataroza = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const times = ["tegnap", "ma", "holnap", "jövő héten", "nyáron"];
   const wrongs = ["reggel", "délután", "este", "éjjel"];
 
@@ -289,13 +387,25 @@ export const idohataroza = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp7: [string, string | string[]][] = [
+    ["Mi az időhatározó?", "mikor történik valami"],
+    ["Időhatározóra kérdező szó?", "mikor?"],
+    ["'tegnap' milyen határozó?", "időhatározó"],
+    ["'holnap' milyen határozó?", "időhatározó"],
+    ["'jövő héten' milyen határozó?", "időhatározó"],
+    ["'nyáron' mire kérdezünk?", "mikor?"],
+    ["Írj egy időhatározót!", ["tegnap", "ma", "holnap", "nyáron"]],
+    ["'reggel' - milyen határozó?", "időhatározó"],
+    ["'este' - milyen határozó?", "időhatározó"],
+    ["Mi a különbség hely- és időhatározó közt?", "hol vs mikor"],
+  ];
+  shuffle(tp7).forEach(t => questions.push(createTyping("hatarozo", "ido", t[0], t[1])));
   return questions;
 };
 
 // 8. hatarozo/mod — Modal adverbials (how?)
-export const modhataroza = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const modhataroza = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const modes = ["gyorsan", "lassan", "óvatosan", "vidáman", "szomorúan"];
   const wrongs = ["felülről", "lentről", "előről", "mögött"];
 
@@ -310,13 +420,25 @@ export const modhataroza = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp8: [string, string | string[]][] = [
+    ["Mi a módhatározó?", "hogyan történik valami"],
+    ["Módhatározóra kérdező szó?", "hogyan?"],
+    ["'gyorsan' milyen határozó?", "módhatározó"],
+    ["'lassan' milyen határozó?", "módhatározó"],
+    ["'óvatosan' mire kérdezünk?", "hogyan?"],
+    ["Módhatározó végződése?", "-an/-en"],
+    ["'vidáman' módhatározó?", "igen"],
+    ["'szomorúan' módhatározó?", "igen"],
+    ["Írj egy módhatározót!", ["gyorsan", "lassan", "óvatosan", "vidáman"]],
+    ["'A kutya gyorsan fut.' - mi a módhatározó?", "gyorsan"],
+  ];
+  shuffle(tp8).forEach(t => questions.push(createTyping("hatarozo", "mod", t[0], t[1])));
   return questions;
 };
 
 // 9. mondat/mellerendelo — Coordinate conjunctions
-export const mellerendelés = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const mellerendelés = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const coords = ["és", "vagy", "de", "illetve"];
   const sentences = [
     { s1: "Péter szeret focizni", s2: "Márta szeret olvasni", conj: "és" },
@@ -336,13 +458,25 @@ export const mellerendelés = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp9: [string, string | string[]][] = [
+    ["Mi a mellérendelő kötőszó?", "egyenrangú mondatokat köt össze"],
+    ["Milyen kötőszó az 'és'?", "mellérendelő"],
+    ["Milyen kötőszó a 'de'?", "mellérendelő, ellentétes"],
+    ["Milyen kötőszó a 'vagy'?", "mellérendelő, választó"],
+    ["'Péter olvas és Mari ír.' - kötőszó?", "és"],
+    ["'Szép az idő, de hideg van.' - kötőszó?", "de"],
+    ["'Almát vagy körtet kérsz?' - kötőszó?", "vagy"],
+    ["Mellérendelő kötőszavak?", ["és", "de", "vagy", "illetve"]],
+    ["'és' milyen kapcsolatot jelöl?", "összeadó"],
+    ["'de' milyen kapcsolatot jelöl?", "ellentétes"],
+  ];
+  shuffle(tp9).forEach(t => questions.push(createTyping("mondat", "mellerendelo", t[0], t[1])));
   return questions;
 };
 
 // 10. mondat/alarendelo — Subordinate conjunctions
-export const alárendelés = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const alárendelés = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const subords = ["hogy", "mert", "ha", "amikor"];
   const sentences = [
     { s1: "Tudom", s2: "te szeretsz sétálni", conj: "hogy" },
@@ -363,13 +497,25 @@ export const alárendelés = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp10: [string, string | string[]][] = [
+    ["Mi az alárendelő kötőszó?", "főmondathoz mellékmondatot kapcsol"],
+    ["Milyen kötőszó a 'mert'?", "alárendelő, ok"],
+    ["Milyen kötőszó a 'hogy'?", "alárendelő, célzó"],
+    ["Milyen kötőszó a 'ha'?", "alárendelő, feltételes"],
+    ["Milyen kötőszó az 'amikor'?", "alárendelő, idő"],
+    ["'Tudom, hogy te jó vagy.' - kötőszó?", "hogy"],
+    ["'Otthon maradtam, mert esett az eső.' - kötőszó?", "mert"],
+    ["'Jól játszunk, ha szép az idő.' - kötőszó?", "ha"],
+    ["'Hazamentem, amikor végzett az iskola.' - kötőszó?", "amikor"],
+    ["Alárendelő kötőszavak?", ["hogy", "mert", "ha", "amikor"]],
+  ];
+  shuffle(tp10).forEach(t => questions.push(createTyping("mondat", "alarendelo", t[0], t[1])));
   return questions;
 };
 
 // 11. szoalkot/kepzes — Word formation (suffixes)
-export const szoalkotás_kepzes = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const szoalkotás_kepzes = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const formations = [
     { base: "szép", derived: "szépség", suffix: "-ség" },
     { base: "olvas", derived: "olvasás", suffix: "-ás" },
@@ -388,13 +534,25 @@ export const szoalkotás_kepzes = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp11: [string, string | string[]][] = [
+    ["Mi a képző?", "új szót alkotó toldalék"],
+    ["'szép' + '-ség' = ?", "szépség"],
+    ["'olvas' + '-ás' = ?", "olvasás"],
+    ["'ír' + '-ás' = ?", "írás"],
+    ["'rajzol' + '-ás' = ?", "rajzolás"],
+    ["Képzővel új ... keletkezik.", "szó"],
+    ["'-ság/-ség' képző mit képez?", "elvont főnevet"],
+    ["'-ás/-és' képző mit képez?", "cselekvő főnevet"],
+    ["'boldog' + '-ság' = ?", "boldogság"],
+    ["'szomorú' + '-ság' = ?", "szomorúság"],
+  ];
+  shuffle(tp11).forEach(t => questions.push(createTyping("szoalkot", "kepzes", t[0], t[1])));
   return questions;
 };
 
 // 12. szoalkot/ragozas — Inflection (conjugation and declension)
-export const szoalkotás_ragozas = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const szoalkotás_ragozas = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const inflections = [
     { singular: "könyv", plural: "könyvek" },
     { singular: "ceruza", plural: "ceruzák" },
@@ -412,13 +570,25 @@ export const szoalkotás_ragozas = (): CurriculumMCQ[] => {
       )
     );
   }
-
+  const tp12: [string, string | string[]][] = [
+    ["Mi a rag?", "szóalakot módosító toldalék"],
+    ["'könyv' többes száma?", "könyvek"],
+    ["'ceruza' többes száma?", "ceruzák"],
+    ["'asztal' többes száma?", "asztalok"],
+    ["Mi a jel?", "szótő és rag közé kerülő toldalék"],
+    ["'-k' milyen toldalék?", "többes szám jele"],
+    ["'ház' tárgyragos alakja?", "házat"],
+    ["'iskola' tárgyragos alakja?", "iskolát"],
+    ["'kutya' tárgyragos alakja?", "kutyát"],
+    ["Mi a ragozás célja?", "különböző viszonyok kifejezése"],
+  ];
+  shuffle(tp12).forEach(t => questions.push(createTyping("szoalkot", "ragozas", t[0], t[1])));
   return questions;
 };
 
 // 13. szoalkot/jelezés — Marking (possessive, plural markers)
-export const szoalkotás_jelezés = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const szoalkotás_jelezés = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const markings = [
     { singular: "a könyv", plural: "a könyvek", marker: "-ek" },
     { singular: "a szék", plural: "a székek", marker: "-ek" },
@@ -437,12 +607,25 @@ export const szoalkotás_jelezés = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp13: [string, string | string[]][] = [
+    ["'alma' többesszáma?", "almák"],
+    ["'ház' többesszáma?", "házak"],
+    ["'könyv' többesszáma?", "könyvek"],
+    ["'barát' többesszáma?", "barátok"],
+    ["'szék' többesszáma?", "székek"],
+    ["Mi a többesjel?", "-k"],
+    ["'kép' többesszáma?", "képek"],
+    ["'fa' többesszáma?", "fák"],
+    ["'cipő' többesszáma?", "cipők"],
+    ["Mi a jel szerepe?", ["szám kifejezése", "a szám jelölése"]],
+  ];
+  shuffle(tp13).forEach(t => questions.push(createTyping("szoalkot", "jelezés", t[0], t[1])));
   return questions;
 };
 
 // 14. helyesiras/igekoveto — Verb particle spelling
-export const helyesiras_igekoveto = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const helyesiras_igekoveto = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const particles = [
     { verb: "meg", example: "megállni", correct: "egybeírva az igével" },
     { verb: "el", example: "elmenni", correct: "egybeírva az igével" },
@@ -462,12 +645,25 @@ export const helyesiras_igekoveto = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp14: [string, string | string[]][] = [
+    ["Hogyan írjuk az igekötőt az igével?", "egybeírva"],
+    ["'megállni' igekötője?", "meg"],
+    ["'elmenni' igekötője?", "el"],
+    ["'kijönni' igekötője?", "ki"],
+    ["'belépni' igekötője?", "be"],
+    ["'visszajönni' igekötője?", "vissza"],
+    ["'felírni' igekötője?", "fel"],
+    ["'leírni' igekötője?", "le"],
+    ["Az igekötő különírva mikor helyes?", "soha nem helyes"],
+    ["'átkelni' igekötője?", "át"],
+  ];
+  shuffle(tp14).forEach(t => questions.push(createTyping("helyesiras", "igekoveto", t[0], t[1])));
   return questions;
 };
 
 // 15. helyesiras/kuloniro_haladó — Advanced separation spelling
-export const helyesiras_kuloniro = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const helyesiras_kuloniro = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const separations = [
     { phrase: "képen vagy", correct: "képen vagy", wrong1: "képenyvagyis", wrong2: "képeny vagy" },
     { phrase: "azonban ma", correct: "azonban ma", wrong1: "azonban-ma", wrong2: "azonbanma" },
@@ -485,12 +681,25 @@ export const helyesiras_kuloniro = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp15: [string, string | string[]][] = [
+    ["Írj egy szét kell írni mondatkötőszót!", ["azonban", "mert", "hogy", "mivel"]],
+    ["'képen vagy' - hogyan írjuk?", "külön"],
+    ["'azonban' - hány szóba írjuk?", "egy"],
+    ["Miért írjuk külön a névelőt és a főnevet?", "külön szavak"],
+    ["'az iskola' hány szó?", "kettő"],
+    ["'mégis' - egy vagy két szóba?", "egy"],
+    ["'azonban ma' - hogyan írjuk?", "külön"],
+    ["Mi a különírás szabálya?", ["külön szavakra bontjuk", "külön írjuk"]],
+    ["'vagy inkább' - hány szó?", "kettő"],
+    ["'mindegyik' - egy vagy két szóba?", "egy"],
+  ];
+  shuffle(tp15).forEach(t => questions.push(createTyping("helyesiras", "kuloniro_haladó", t[0], t[1])));
   return questions;
 };
 
 // 16. fogalmazas/erveles — Argumentation (identifying claims)
-export const fogalmazas_erveles = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const fogalmazas_erveles = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const claimsReasons = [
     { claim: "A sport fontos", reason: "mert egészséges maradhatunk tőle" },
     { claim: "Az olvasás jó", reason: "mert fejleszti a képzelőerőt" },
@@ -509,12 +718,25 @@ export const fogalmazas_erveles = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp16: [string, string | string[]][] = [
+    ["Mi az érvelés?", ["vélemény alátámasztása", "indoklás"]],
+    ["Érvelésben melyik kötőszó szerepel?", "mert"],
+    ["Az állítás után mi következik?", ["az érv", "indoklás"]],
+    ["'A sport fontos, mert...' - mi ez?", "érvelés"],
+    ["Fogalmazásban mi az érv?", ["bizonyíték", "indok"]],
+    ["Az érvelésben mi az állítás?", ["a vélemény", "a főmondat"]],
+    ["Írj egy érvelős kötőszót!", ["mert", "mivel", "hiszen"]],
+    ["Mi az ellenérv?", ["cáfolat", "az ellentétes vélemény"]],
+    ["Hogyan kezdjük az érvelést?", ["állítással", "véleménnyel"]],
+    ["Érvelés zárlata mire utal?", ["összefoglalásra", "következtetésre"]],
+  ];
+  shuffle(tp16).forEach(t => questions.push(createTyping("fogalmazas", "erveles", t[0], t[1])));
   return questions;
 };
 
 // 17. fogalmazas/level — Letter writing (salutation, format)
-export const fogalmazas_level = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const fogalmazas_level = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const greetings = ["Kedves Peti!", "Kedves Ágnes!", "Tisztelt tanár úr!"];
 
   for (const greeting of greetings) {
@@ -529,12 +751,25 @@ export const fogalmazas_level = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp17: [string, string | string[]][] = [
+    ["Levél megszólítása formálisan?", ["Tisztelt", "Kedves"]],
+    ["Levél végén a búcsúzás?", ["Üdvözlettel", "Tisztelettel"]],
+    ["Mi kerül a levél elejére?", ["dátum", "hely és dátum"]],
+    ["Levélben mi a megszólítás?", "Kedves ...!"],
+    ["Baráti levél aláírása?", ["a nevem", "nevem"]],
+    ["Levél fő részeinek száma?", "három"],
+    ["Hivatalos levél megszólítása?", "Tisztelt"],
+    ["Levélben az 'Üdvözlettel' mikor áll?", "a levél végén"],
+    ["A borítékon mi szükséges?", ["cím", "postacím"]],
+    ["Levél aláírása mire utal?", ["a feladóra", "a küldőre"]],
+  ];
+  shuffle(tp17).forEach(t => questions.push(createTyping("fogalmazas", "level", t[0], t[1])));
   return questions;
 };
 
 // 18. nyelvtan/szoelem — Word analysis (morpheme breakdown)
-export const nyelvtan_szoelem = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const nyelvtan_szoelem = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const morphemes = [
     { word: "játszom", root: "játsz", suffix: "-om" },
     { word: "olvasás", root: "olvas", suffix: "-ás" },
@@ -553,12 +788,25 @@ export const nyelvtan_szoelem = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp18: [string, string | string[]][] = [
+    ["Mi a szótő?", ["a szó alapalakja", "a toldalékok nélküli rész"]],
+    ["'szép' + '-ség' = ?", "szépség"],
+    ["'olvas' + '-ás' = ?", "olvasás"],
+    ["'játszik' töve?", "játsz"],
+    ["Mi a toldalék?", ["képző, jel vagy rag", "a szóhoz járuló elem"]],
+    ["'olvasok' ragja?", "-ok"],
+    ["'könyv' + '-ek' = ?", "könyvek"],
+    ["'fut' + '-ás' = ?", "futás"],
+    ["Szóelemzésnél mit keresünk?", ["szótőt és toldalékot", "tövet és ragot"]],
+    ["'tanár' + '-ok' = ?", "tanárok"],
+  ];
+  shuffle(tp18).forEach(t => questions.push(createTyping("nyelvtan", "szoelem", t[0], t[1])));
   return questions;
 };
 
 // 19. nyelvtan/mondatelemzes — Sentence analysis (syntax)
-export const nyelvtan_mondatelemzes = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const nyelvtan_mondatelemzes = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const analyses = [
     { sentence: "A gyerek fut", subject: "A gyerek" },
     { sentence: "Az anya főz", subject: "Az anya" },
@@ -577,12 +825,25 @@ export const nyelvtan_mondatelemzes = (): CurriculumMCQ[] => {
     );
   }
 
+  const tp19: [string, string | string[]][] = [
+    ["Mi az alany a mondatban?", ["aki vagy ami cselekszik", "a cselekvő"]],
+    ["Mi az állítmány?", ["amit az alanyról mondunk", "a cselekvés"]],
+    ["'A madár énekel' - alany?", "a madár"],
+    ["'A madár énekel' - állítmány?", "énekel"],
+    ["'Péter futott' - alany?", "Péter"],
+    ["Mi a tárgy a mondatban?", ["amire a cselekvés irányul", "az ige tárgya"]],
+    ["'Peti levelet ír' - tárgy?", "levelet"],
+    ["Mondatelemzésnél mit keresünk először?", ["állítmányt", "az igét"]],
+    ["'Az okos gyerek olvas' - jelző?", "okos"],
+    ["Mi a határozó?", ["a hely, idő vagy mód kifejezése", "körülmény"]],
+  ];
+  shuffle(tp19).forEach(t => questions.push(createTyping("nyelvtan", "mondatelemzes", t[0], t[1])));
   return questions;
 };
 
 // 20. ige/igemódok — Verb moods summary (indicative, conditional, imperative)
-export const ige_igemódok = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const ige_igemódok = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const moods = [
     { mood: "kijelentő", example: "Játszom", meaning: "indicative" },
     { mood: "feltételes", example: "Játszanék", meaning: "conditional" },
@@ -622,12 +883,25 @@ export const ige_igemódok = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp20: [string, string | string[]][] = [
+    ["Hány igemód van a magyarban?", "három"],
+    ["Kijelentő mód mire utal?", ["valós cselekvésre", "tényállításra"]],
+    ["Feltételes mód jele?", "-na/-ne"],
+    ["Felszólító mód mire szolgál?", ["parancsra", "kérésre vagy parancsra"]],
+    ["'Játszanék' - melyik igemód?", "feltételes"],
+    ["'Játssz!' - melyik igemód?", "felszólító"],
+    ["'Játszom' - melyik igemód?", "kijelentő"],
+    ["Feltételes módban mi a segédige?", ["volna", "-na/-ne toldalék"]],
+    ["Felszólítóban az ige végén mi áll?", ["felkiáltójel", "!"]],
+    ["'Ha eljönnél' - melyik mód?", "feltételes"],
+  ];
+  shuffle(tp20).forEach(t => questions.push(createTyping("ige", "igemódok", t[0], t[1])));
   return questions;
 };
 
 // 21. ige/igeidők_összef — Verb tenses summary (present, past, future + conjugation)
-export const ige_igeidők_összef = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const ige_igeidők_összef = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const tenses = [
     { name: "jelen", form: "játszom", eng: "present" },
     { name: "múlt", form: "játszottam", eng: "past" },
@@ -672,12 +946,25 @@ export const ige_igeidők_összef = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp21: [string, string | string[]][] = [
+    ["Hány igeidő van a magyarban?", "három"],
+    ["Múlt idő jele?", "-t/-tt"],
+    ["Jövő idő hogyan képzendő?", ["fog + főnévi igenév", "fogok menni"]],
+    ["'írt' - melyik igeidő?", "múlt"],
+    ["'ír' - melyik igeidő?", "jelen"],
+    ["'írni fog' - melyik igeidő?", "jövő"],
+    ["Jelen időben mit fejez ki az ige?", ["most folyó cselekvést", "jelenbeli cselekvést"]],
+    ["Múlt idő képzése?", ["-t vagy -tt toldalékkal", "-t/-tt"]],
+    ["'olvasol' - melyik igeidő?", "jelen"],
+    ["'olvasni fogsz' - melyik igeidő?", "jövő"],
+  ];
+  shuffle(tp21).forEach(t => questions.push(createTyping("ige", "igeidők_összef", t[0], t[1])));
   return questions;
 };
 
 // 22. nevmas/visszaható — Reflexive pronouns (magam, magad, maga)
-export const nevmas_visszaható = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const nevmas_visszaható = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const reflexives = [
     { pron: "magam", person: "én", meaning: "myself" },
     { pron: "magad", person: "te", meaning: "yourself" },
@@ -710,12 +997,25 @@ export const nevmas_visszaható = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp22: [string, string | string[]][] = [
+    ["'én' visszaható névmása?", "magam"],
+    ["'te' visszaható névmása?", "magad"],
+    ["'ő' visszaható névmása?", "maga"],
+    ["'mi' visszaható névmása?", "magunk"],
+    ["'ti' visszaható névmása?", "magatokat"],
+    ["'ők' visszaható névmása?", "magukat"],
+    ["Mi a visszaható névmás?", ["a cselekvő önmagára utal", "magam, magad stb."]],
+    ["'Egyedül öltözik' - visszaható névmás?", "maga"],
+    ["Visszaható névmás alapszava?", "maga"],
+    ["'Ő maga csinálta' - ez milyen névmás?", "visszaható"],
+  ];
+  shuffle(tp22).forEach(t => questions.push(createTyping("nevmas", "visszaható", t[0], t[1])));
   return questions;
 };
 
 // 23. nevmas/határozatlan — Indefinite pronouns (valaki, valami, néhány)
-export const nevmas_határozatlan = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const nevmas_határozatlan = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const indefinites = [
     { pron: "valaki", meaning: "someone" },
     { pron: "valami", meaning: "something" },
@@ -753,12 +1053,25 @@ export const nevmas_határozatlan = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp23: [string, string | string[]][] = [
+    ["Mi a határozatlan névmás?", ["nem pontosan megnevezett személy/dolog", "valaki, valami stb."]],
+    ["Személyre utaló határozatlan névmás?", "valaki"],
+    ["Dologra utaló határozatlan névmás?", "valami"],
+    ["'Néhány' mire utal?", ["kis számra", "némi mennyiségre"]],
+    ["'Senki' - milyen névmás?", "határozatlan"],
+    ["'Semmi' - mire utal?", ["semmire", "tagadó határozatlan névmás"]],
+    ["'Mindenki' mit jelent?", "minden személy"],
+    ["'Valahol' mire utal?", ["ismeretlen helyre", "bizonytalan helyre"]],
+    ["'Akárki' típusa?", "határozatlan névmás"],
+    ["'Valaki kopogt' - valaki itt?", "határozatlan személy"],
+  ];
+  shuffle(tp23).forEach(t => questions.push(createTyping("nevmas", "határozatlan", t[0], t[1])));
   return questions;
 };
 
 // 24. hatarozo/cel — Purpose adverbial (why? for what purpose?)
-export const hatarozo_cel = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const hatarozo_cel = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const purposes = [
     { sent: "Az iskolába ___ megy", correct: "tanulni", purpose: "to study" },
     { sent: "A boltba ___ megy", correct: "kenyeret venni", purpose: "to buy bread" },
@@ -788,12 +1101,25 @@ export const hatarozo_cel = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp24: [string, string | string[]][] = [
+    ["Célhatározó kérdőszava?", ["miért", "minek"]],
+    ["'Tanulni megy' - célhatározó?", "tanulni"],
+    ["Célhatározós kötőszó?", ["azért hogy", "hogy"]],
+    ["'Azért futok, hogy erős legyek' - cél?", "hogy erős legyek"],
+    ["Mi a célhatározó?", ["a cselekvés célja", "miért történik"]],
+    ["'Elment enni' - célhatározó?", "enni"],
+    ["Célhatározóban az ige alakja?", ["főnévi igenév", "-ni végű alak"]],
+    ["'Pihenni ment a parkba' - cél?", "pihenni"],
+    ["Célhatározó módosítja?", ["az állítmányt", "az igét"]],
+    ["'Hogy' kötőszó célmondatban mire utal?", ["célra", "szándékra"]],
+  ];
+  shuffle(tp24).forEach(t => questions.push(createTyping("hatarozo", "cel", t[0], t[1])));
   return questions;
 };
 
 // 25. hatarozo/ok — Cause adverbial (why? for what reason?)
-export const hatarozo_ok = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const hatarozo_ok = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const causes = [
     { sent: "Siettem, ___ késő volt", correct: "mert", reason: "because" },
     { sent: "Nem jött el, ___ beteg volt", correct: "mert", reason: "because ill" },
@@ -823,12 +1149,25 @@ export const hatarozo_ok = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp25: [string, string | string[]][] = [
+    ["Okhatározó kérdőszava?", ["miért", "mi okból"]],
+    ["Okhatározós kötőszó?", ["mert", "mivel"]],
+    ["'Mert' kötőszó mire utal?", ["okra", "okhatározóra"]],
+    ["'Mivel beteg volt, maradt' - ok?", "beteg volt"],
+    ["Mi az okhatározó?", ["a cselekvés oka", "ami miatt történik valami"]],
+    ["'Késett, mert lekéste a buszt' - ok?", "lekéste a buszt"],
+    ["Okhatározói mellékmondat kötőszava?", ["mert", "mivel", "hiszen"]],
+    ["'Nem ment el, mert esett az eső' - ok?", "esett az eső"],
+    ["Okhatározó megfelel minek?", ["oksági összefüggésnek", "az ok-okozatnak"]],
+    ["'Félt, ezért nem ment' - ok?", "félt"],
+  ];
+  shuffle(tp25).forEach(t => questions.push(createTyping("hatarozo", "ok", t[0], t[1])));
   return questions;
 };
 
 // 26. szoalkot/igekötő_haladó — Advanced verb particles (össze-, szét-, félre-, hozzá-)
-export const szoalkot_igekötő_haladó = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const szoalkot_igekötő_haladó = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const particles = [
     { part: "össze-", meaning: "together", ex: "összejátszani" },
     { part: "szét-", meaning: "apart", ex: "szétszakadni" },
@@ -860,12 +1199,25 @@ export const szoalkot_igekötő_haladó = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp26: [string, string | string[]][] = [
+    ["'össze-' mit jelent?", "együtt"],
+    ["'szét-' mit jelent?", "szétválik"],
+    ["'félre-' mit jelent?", ["tévesen", "rossz irányba"]],
+    ["'hozzá-' mit jelent?", ["hoz valamihez", "közelít"]],
+    ["'összejön' igekötője?", "össze"],
+    ["'szétszakad' igekötője?", "szét"],
+    ["'félreért' igekötője?", "félre"],
+    ["'hozzáad' igekötője?", "hozzá"],
+    ["Mi az igekötő?", ["az ige elé járuló elem", "az igét módosító előtag"]],
+    ["'leír' igekötője?", "le"],
+  ];
+  shuffle(tp26).forEach(t => questions.push(createTyping("szoalkot", "igekötő_haladó", t[0], t[1])));
   return questions;
 };
 
 // 27. helyesiras/vesszőhasználat — Comma usage in complex sentences
-export const helyesiras_vesszőhasználat = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const helyesiras_vesszőhasználat = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const commaRules = [
     { sent: "Péter és János játszik", correct: "Péter és János játszik", hasComma: false },
     { sent: "Ha szép az idő játszunk", correct: "Ha szép az idő, játszunk", hasComma: true },
@@ -899,12 +1251,25 @@ export const helyesiras_vesszőhasználat = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp27: [string, string | string[]][] = [
+    ["Alárendelő összetett mondatban van-e vessző?", "igen"],
+    ["'Ha esik az eső, nem megyek ki' - van-e vessző?", "igen"],
+    ["'Péter és János játszik' - kell-e vessző?", "nem"],
+    ["'Tudom, hogy szeretsz' - vesszőhely?", "tudom után"],
+    ["Mikor nem kell vessző?", "mellérendelő 'és' előtt"],
+    ["'Mivel fáradt volt, lefeküdt' - van-e vessző?", "igen"],
+    ["Alárendelt mondat elé mikor teszünk vesszőt?", ["mindig", "ha előtaggal kezdődik"]],
+    ["'Bár esett, kimentünk' - van-e vessző?", "igen"],
+    ["'Amikor hazaért, evett' - vesszőhely?", "hazaért után"],
+    ["'Olvasok és írök' - kell-e vessző?", "nem"],
+  ];
+  shuffle(tp27).forEach(t => questions.push(createTyping("helyesiras", "vesszőhasználat", t[0], t[1])));
   return questions;
 };
 
 // 28. fogalmazas/napló — Diary writing (personal, continuous)
-export const fogalmazas_napló = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const fogalmazas_napló = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const diaryStructures = [
     { part: "dátum", example: "2024. március 15.", meaning: "date" },
     { part: "megszólítás", example: "Kedves napló!", meaning: "greeting" },
@@ -944,12 +1309,25 @@ export const fogalmazas_napló = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp28: [string, string | string[]][] = [
+    ["Napló megszólítása?", "Kedves napló!"],
+    ["Napló első sora általában mi?", ["dátum", "hely és dátum"]],
+    ["Naplóban milyen stílus jellemző?", ["személyes", "érzelmi"]],
+    ["Mi kerül a napló végére?", ["aláírás", "a nevem"]],
+    ["A napló kinek szól?", ["önmagunknak", "a naplónak"]],
+    ["Naplóírásban melyik személy dominál?", ["első személy", "én"]],
+    ["Napló hány fő részre tagolható?", "három"],
+    ["Naplóban mit írunk az érzelmekről?", ["hogyan éreztük magunkat", "érzelmeinkről"]],
+    ["Naplóban jellemző igeidő?", ["múlt idő", "jelen és múlt"]],
+    ["Napló és levél közt mi a különbség?", ["napló magunknak szól", "napló nem postázható"]],
+  ];
+  shuffle(tp28).forEach(t => questions.push(createTyping("fogalmazas", "napló", t[0], t[1])));
   return questions;
 };
 
 // 29. nyelvtan/szószerkezet — Syntactic structures (subject, object, adverbial, attribute)
-export const nyelvtan_szószerkezet = (): CurriculumMCQ[] => {
-  const questions: CurriculumMCQ[] = [];
+export const nyelvtan_szószerkezet = (): CurriculumQuestion[] => {
+  const questions: CurriculumQuestion[] = [];
   const structures = [
     { type: "alanyi", ex: "A gyerek fut", part: "A gyerek" },
     { type: "tárgyas", ex: "Péter levelet ír", part: "levelet" },
@@ -989,6 +1367,19 @@ export const nyelvtan_szószerkezet = (): CurriculumMCQ[] => {
     )
   );
 
+  const tp29: [string, string | string[]][] = [
+    ["Mi az alanyi szószerkezet?", ["az alany és jelzői", "alany + jelzők"]],
+    ["Mi a tárgyas szószerkezet?", ["az ige és tárgya", "ige + tárgy"]],
+    ["Mi a határozós szószerkezet?", ["ige + határozó", "határozó az igével"]],
+    ["Mi a jelzős szószerkezet?", ["jelző + főnév", "melléknév + főnév"]],
+    ["'piros labda' - melyik szószerkezet?", "jelzős"],
+    ["'futok az utcán' - melyik szószerkezet?", "határozós"],
+    ["'könyvet olvas' - melyik szószerkezet?", "tárgyas"],
+    ["'a gyerek fut' - melyik szószerkezet?", "alanyi"],
+    ["Szószerkezetben hány tag van minimum?", "kettő"],
+    ["Mi az alaptagja a szószerkezetnek?", ["a főbb szó", "amelyhez a másik kapcsolódik"]],
+  ];
+  shuffle(tp29).forEach(t => questions.push(createTyping("nyelvtan", "szószerkezet", t[0], t[1])));
   return questions;
 };
 
@@ -1026,8 +1417,8 @@ export const G4_Generators_Hungarian = {
 };
 
 // Correcting the first function name
-function alanyi(): CurriculumMCQ[] {
-  const questions: CurriculumMCQ[] = [];
+function alanyi(): CurriculumQuestion[] {
+  const questions: CurriculumQuestion[] = [];
   const verbs = ["futon", "játszom", "olvasok", "írok", "rajzolok"];
   const persons = ["én", "te", "ő", "mi", "ti", "ők"];
 
@@ -1056,5 +1447,18 @@ function alanyi(): CurriculumMCQ[] {
     );
   }
 
+  const tpAlanyi: [string, string | string[]][] = [
+    ["Mi az alanyi ragozás?", ["határozatlan tárgyú", "általános ragozás"]],
+    ["'én olvasok' - melyik ragozás?", "alanyi"],
+    ["'te olvasol' - melyik ragozás?", "alanyi"],
+    ["Alanyi ragozásban ki a tárgy?", ["határozatlan tárgy", "valami általában"]],
+    ["'én futok' - rag?", "-ok"],
+    ["'te futs_z' - alanyi rag?", "-sz"],
+    ["'ő fut' - ragja?", "nincs rag"],
+    ["'mi futunk' - rag?", "-unk"],
+    ["Alanyi vs tárgyas ragozás különbsége?", ["tárgy határozottságán múlik", "határozatlan/határozott tárgy"]],
+    ["'ti futtok' - alanyi rag?", "-tok"],
+  ];
+  shuffle(tpAlanyi).forEach(t => questions.push(createTyping("ige", "alanyi", t[0], t[1])));
   return questions;
 }
