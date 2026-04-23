@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Papierkorb",
+  "theme": "Ton und Video",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 1)",
+      "question": "Wie hören wir Ton am Computer?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 2)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 3)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Über Lautsprecher oder Kopfhörer",
+        "Über den Monitor",
+        "Über die Maus",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 4)",
+      "question": "Was ist ein Mikrofon?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 5)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 6)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Ein Gerät zum Aufnehmen von Ton",
+        "Ein Gerät zum Hören",
+        "Ein Teil vom Monitor",
+        "Ein Kabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 7)",
+      "question": "Wie macht man den Ton lauter?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 8)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 9)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Mit dem Lautstärkeregler",
+        "Durch Schreien",
+        "Indem man den PC schüttelt",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 10)",
+      "question": "Was ist ein Video?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 11)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 12)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Bilder, die sich bewegen, meist mit Ton",
+        "Ein Standbild",
+        "Ein Buch",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 13)",
+      "question": "Wie heißt der Knopf zum Starten?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 14)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 15)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Play (Dreieck)",
+        "Stop (Viereck)",
+        "Pause",
+        "Rec"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 16)",
+      "question": "Wofür ist der rote Punkt oft?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 17)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 18)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Aufnahme (Record)",
+        "Stoppen",
+        "Löschen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 19)",
+      "question": "Was macht man mit Kopfhörern?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 20)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 21)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Man hört allein, ohne andere zu stören",
+        "Man kann besser sehen",
+        "Man macht den PC warm",
+        "Nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 22)",
+      "question": "Kann man am PC Musik aufnehmen?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 23)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 24)",
-      "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Ja, mit einem Mikrofon",
+        "Nein, nur kaufen",
+        "Nur wenn man im Radio ist",
+        "Nur mit einem Pinsel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Papierkorb? (Frage 25)",
+      "question": "Was ist YouTube?",
       "options": [
-        "Option A für Papierkorb",
-        "Option B für Papierkorb",
-        "Option C für Papierkorb"
+        "Eine Webseite für Videos",
+        "Ein Malprogramm",
+        "Ein Browser",
+        "Ein Spiel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ton auch ganz ausschalten?",
+      "options": [
+        "Ja, das nennt man 'Stummschalten' oder 'Mute'",
+        "Nein, er läuft immer",
+        "Nur wenn man den Stecker zieht",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein MP3?",
+      "options": [
+        "Eine Datei für Musik",
+        "Ein Film",
+        "Ein Bild",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein MP4?",
+      "options": [
+        "Eine Datei für Videos",
+        "Ein Lied",
+        "Ein Buch",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Videos am Computer schneiden?",
+      "options": [
+        "Ja, mit speziellen Programmen",
+        "Nein, die bleiben immer so",
+        "Nur mit einer Schere am Monitor",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man Kopfhörer nicht zu laut stellen?",
+      "options": [
+        "Es ist schlecht für die Ohren",
+        "Die Batterie geht leer",
+        "Der PC explodiert",
+        "Man hört dann zu viel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Podcast?",
+      "options": [
+        "Ein Gespräch zum Anhören im Internet",
+        "Ein Film",
+        "Ein Bild",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Playlist?",
+      "options": [
+        "Eine Liste mit vielen Liedern oder Videos",
+        "Ein Spielzeug",
+        "Ein Buch",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf 'Stop' drückt?",
+      "options": [
+        "Das Video oder Lied endet",
+        "Es wird lauter",
+        "Es wird gelöscht",
+        "Es beginnt von vorn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet Filme schauen?",
+      "options": [
+        "Ja, das geht sehr gut",
+        "Nein, nur am PC",
+        "Nur mit einem Kabel",
+        "Nur im Weltraum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu nutzt man Ton in Spielen?",
+      "options": [
+        "Damit es spannender ist und man Dinge hört",
+        "Nur zur Deko",
+        "Gar nicht",
+        "Damit der PC nicht einschläft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Aufnehmen von Sprache?",
+      "options": [
+        "Sprachaufnahme",
+        "Tippen",
+        "Malen",
+        "Lesen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch Instrumente spielen?",
+      "options": [
+        "Ja, mit virtuellen Klavieren oder Keyboards",
+        "Nein, das geht nicht",
+        "Nur wenn man ein echtes hat",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Klick' bei einem Lied?",
+      "options": [
+        "Ein kurzer Ton oder Taktgeber",
+        "Ein Fehler",
+        "Ein Bild",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Stummfilm?",
+      "options": [
+        "Ein Film ohne Ton",
+        "Ein kaputtes Video",
+        "Ein Malprogramm",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht man für Ton eine Soundkarte?",
+      "options": [
+        "Ja, sie ist im Computer eingebaut",
+        "Nein, das geht mit Luft",
+        "Nur wenn es regnet",
+        "Nur für Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Musik am Computer Spaß?",
+      "options": [
+        "Ja, sehr viel!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 1"
+      "question": "Tippe ein: Ton",
+      "answer": "Ton"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 2"
+      "question": "Tippe ein: Musik",
+      "answer": "Musik"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 3"
+      "question": "Tippe ein: Lied",
+      "answer": "Lied"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 4"
+      "question": "Tippe ein: Hören",
+      "answer": "Hören"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 5"
+      "question": "Tippe ein: Laut",
+      "answer": "Laut"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 6"
+      "question": "Tippe ein: Leise",
+      "answer": "Leise"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 7"
+      "question": "Tippe ein: Hörer",
+      "answer": "Hörer"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 8"
+      "question": "Tippe ein: Box",
+      "answer": "Box"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 9"
+      "question": "Tippe ein: Gesang",
+      "answer": "Gesang"
     },
     {
       "type": "typing",
-      "text": "Papierkorb ist toll 10"
+      "question": "Tippe ein: Klang",
+      "answer": "Klang"
     }
   ]
 }

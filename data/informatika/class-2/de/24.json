@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Form / Größe im Bild",
+  "theme": "Netiquette",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 1)",
+      "question": "Was ist Netiquette?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 2)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 3)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Gutes Benehmen im Internet",
+        "Ein neues Spielzeug",
+        "Ein kleiner Roboter",
+        "Ein Malprogramm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 4)",
+      "question": "Sollte man im Internet höflich sein?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 5)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 6)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Ja, genau wie im echten Leben",
+        "Nein, dort sieht mich keiner",
+        "Nur wenn man Lust hat",
+        "Nur zu Lehrern"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 7)",
+      "question": "Darf man andere im Internet beleidigen?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 8)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 9)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Nein, das ist gemein und verboten",
+        "Ja, wenn man sauer ist",
+        "Nur wenn sie es auch tun",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 10)",
+      "question": "Was bedeutet es, wenn man alles GROSS SCHREIBT?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 11)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 12)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Es wirkt wie SCHREIEN",
+        "Es sieht schöner aus",
+        "Es ist leichter zu lesen",
+        "Es spart Strom"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 13)",
+      "question": "Sollte man erst nachdenken, bevor man etwas schreibt?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 14)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 15)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Ja, unbedingt",
+        "Nein, einfach losschicken",
+        "Nur wenn es lang ist",
+        "Zufall"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 16)",
+      "question": "Was tust du, wenn dich jemand im Internet ärgert?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 17)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 18)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Es einem Erwachsenen sagen",
+        "Zurück ärgern",
+        "Sich unter dem Tisch verstecken",
+        "Den PC ausschalten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 19)",
+      "question": "Darf man Lügen über andere verbreiten?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 20)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 21)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Nein, niemals",
+        "Ja, wenn es lustig ist",
+        "Nur wenn man sie nicht kennt",
+        "Nur am Handy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 22)",
+      "question": "Sollte man Privatnachrichten von anderen weiterzeigen?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 23)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 24)",
-      "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Nein, das ist geheim und unhöflich",
+        "Ja, jedem zeigen",
+        "Nur wenn sie spannend sind",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Form / Größe im Bild? (Frage 25)",
+      "question": "Was ist ein 'Emoticon' oder 'Emoji'?",
       "options": [
-        "Option A für Form / Größe im Bild",
-        "Option B für Form / Größe im Bild",
-        "Option C für Form / Größe im Bild"
+        "Ein Bildchen, das Gefühle zeigt (z.B. Smiley)",
+        "Ein kleiner PC",
+        "Ein Fehler",
+        "Ein Buch"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Emojis nützlich?",
+      "options": [
+        "Sie helfen, Gefühle besser zu verstehen",
+        "Sie machen den PC schneller",
+        "Sie kosten Geld",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fotos von Freunden ohne Erlaubnis teilen?",
+      "options": [
+        "Nein, immer erst fragen",
+        "Ja, natürlich",
+        "Nur wenn sie gut aussehen",
+        "Nur für die Familie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man 'Danke' und 'Bitte' auch im Internet sagen?",
+      "options": [
+        "Ja, das gehört dazu",
+        "Nein, das dauert zu lange",
+        "Nur wenn man etwas bekommt",
+        "Nur am PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Troll' im Internet?",
+      "options": [
+        "Jemand, der extra Streit sucht und nervt",
+        "Ein Fabelwesen aus dem Wald",
+        "Ein neues Spiel",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Internet schummeln?",
+      "options": [
+        "Nein, man sollte fair bleiben",
+        "Ja, wenn es hilft",
+        "Nur in Spielen",
+        "Immer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Respekt'?",
+      "options": [
+        "Andere so behandeln, wie man selbst behandelt werden möchte",
+        "Angst haben",
+        "Viel Geld haben",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Fremden seine Adresse geben?",
+      "options": [
+        "Nein, auf keinen Fall",
+        "Ja, wenn sie fragen",
+        "Nur wenn sie nett sind",
+        "Nur am Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was tust du, wenn ein Kettenbrief sagt: 'Schicke das an 10 Freunde'?",
+      "options": [
+        "Ignorieren und nicht weiterschicken",
+        "Sofort allen schicken",
+        "Meinen Eltern Geld geben",
+        "Sich fürchten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Regeln im Internet wichtig?",
+      "options": [
+        "Ja, damit sich alle wohlfühlen",
+        "Nein, dort gibt es keine Regeln",
+        "Nur für Kinder",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Hausaufgaben aus dem Internet kopieren?",
+      "options": [
+        "Nein, man sollte selbst lernen und schreiben",
+        "Ja, das spart Zeit",
+        "Nur wenn der Lehrer es nicht merkt",
+        "Nur am Sonntag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Nickname'?",
+      "options": [
+        "Ein Spitzname für das Internet",
+        "Ein echter Name",
+        "Ein Fehler",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man einen höflichen Nickname wählen?",
+      "options": [
+        "Ja, am besten einen netten",
+        "Nein, einen bösen",
+        "Das ist egal",
+        "Gar keinen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man in Foren oder Chats stören?",
+      "options": [
+        "Nein, man sollte beim Thema bleiben",
+        "Ja, das ist lustig",
+        "Nur wenn es langweilig ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was tust du, wenn du einen Fehler gemacht hast?",
+      "options": [
+        "Sich entschuldigen",
+        "Es abstreiten",
+        "Den PC ausschalten",
+        "Weglaufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein freundliches Internet besser?",
+      "options": [
+        "Weil es dann allen mehr Spaß macht!",
+        "Weil es schneller ist",
+        "Weil es bunter ist",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gilt die Netiquette auch in der Schule?",
+      "options": [
+        "Ja, überall, wo man online ist",
+        "Nein, nur zu Hause",
+        "Nur im Urlaub",
+        "Keine Ahnung"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 1"
+      "question": "Tippe ein: Nett",
+      "answer": "Nett"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 2"
+      "question": "Tippe ein: Höflich",
+      "answer": "Höflich"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 3"
+      "question": "Tippe ein: Hallo",
+      "answer": "Hallo"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 4"
+      "question": "Tippe ein: Bitte",
+      "answer": "Bitte"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 5"
+      "question": "Tippe ein: Danke",
+      "answer": "Danke"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 6"
+      "question": "Tippe ein: Respekt",
+      "answer": "Respekt"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 7"
+      "question": "Tippe ein: Regel",
+      "answer": "Regel"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 8"
+      "question": "Tippe ein: Helfen",
+      "answer": "Helfen"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 9"
+      "question": "Tippe ein: Teilen",
+      "answer": "Teilen"
     },
     {
       "type": "typing",
-      "text": "Form / Größe im Bild ist toll 10"
+      "question": "Tippe ein: Freunde",
+      "answer": "Freunde"
     }
   ]
 }

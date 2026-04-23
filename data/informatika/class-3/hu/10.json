@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Letöltés biztonságosan",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a letöltés?",
+      "options": [
+        "Fájl másolása az internetről",
+        "A gép kidobása",
+        "A szoba takarítása",
+        "Ebédelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad bármit letölteni?",
+      "options": [
+        "Nem, csak megbízható helyről",
+        "Igen, mindent",
+        "Csak ha színes",
+        "Csak ha éjszaka van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a vírus?",
+      "options": [
+        "Rosszindulatú program",
+        "Egy beteg ember",
+        "Egy kis bogár a gépben",
+        "A monitor kosza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan védekezünk?",
+      "options": [
+        "Vírusirtóval",
+        "Szappannal",
+        "Keszlyűvel",
+        "Ollóval"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálj, ha ablak ugrik fel?",
+      "options": [
+        "Kérdezd meg a szüleidet",
+        "Kattints rá gyorsan",
+        "Üsd meg a monitort",
+        "Zárd be a szemed"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan biztonságos tölteni?",
+      "options": [
+        "Hivatalos oldalakról",
+        "Bárhonnan",
+        "Egy titkos linkről",
+        "A szomszédtól"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Free Download'?",
+      "options": [
+        "Ingyenes letöltés",
+        "Ingyen fagyi",
+        "Szabad futás",
+        "Üres doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az .exe fájl?",
+      "options": [
+        "Futtatható program",
+        "Egy kép",
+        "Egy zene",
+        "Egy levél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegen linkre kattintani?",
+      "options": [
+        "Soha",
+        "Igen, mindig",
+        "Csak ha kék",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Malware'?",
+      "options": [
+        "Kártékony szoftver",
+        "Egy fajta csoki",
+        "Egy játék",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látod, hogy kész a letöltés?",
+      "options": [
+        "A böngésző jelzi",
+        "Megszólal a csengő",
+        "Kikapcsol a gép",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Phishing'?",
+      "options": [
+        "Adathalászat",
+        "Horgászat",
+        "Úszás",
+        "Olvasás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad megadni a jelszavadat letöltéshez?",
+      "options": [
+        "Nem",
+        "Igen",
+        "Csak ha kérik",
+        "Csak ha piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Safe' szó?",
+      "options": [
+        "Biztonságos",
+        "Sárga",
+        "Gyors",
+        "Üres"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segíthet, ha félsz egy fájltól?",
+      "options": [
+        "Szülő vagy tanár",
+        "A macska",
+        "A monitor",
+        "Senki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a frissítés?",
+      "options": [
+        "Újabb verzió telepítése",
+        "Víz ivás",
+        "A gép mosása",
+        "Új egér vétele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az adatvédelem?",
+      "options": [
+        "Személyes adatok védelme",
+        "A gép elzárása",
+        "Egy doboz",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e játékot letölteni?",
+      "options": [
+        "Igen, ha legális",
+        "Soha",
+        "Csak éjjel",
+        "Csak ha ingyen van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Terms of Service'?",
+      "options": [
+        "Felhasználási feltételek",
+        "Egy fajta étel",
+        "Egy játék",
+        "A gép kábele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Legális'?",
+      "options": [
+        "Törvényes",
+        "Nagyon jó",
+        "Gyors",
+        "Kicsi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kerülheted el a vírusokat?",
+      "options": [
+        "Vigyázol mire kattintasz",
+        "Nem kapcsolod be a gépet",
+        "Betakarod a monitort",
+        "Vársz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Antivirus'?",
+      "options": [
+        "Vírusirtó",
+        "Vírus barát",
+        "Ellenség",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e filmet letölteni?",
+      "options": [
+        "Igen, ha megvettük vagy legális",
+        "Csak titokban",
+        "Soha",
+        "Csak ha esik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Cloud storage'?",
+      "options": [
+        "Felhő alapú tárhely",
+        "Egy felhő az égen",
+        "Egy sötét szoba",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a biztonságos letöltés?",
+      "options": [
+        "Hogy a gépünk épségben maradjon",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vírus",
+      "answer": "vírus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: védelem",
+      "answer": "védelem"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: biztonság",
+      "answer": "biztonság"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mentés",
+      "answer": "mentés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: forrás",
+      "answer": "forrás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: megbízható",
+      "answer": "megbízható"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: fájl",
+      "answer": "fájl"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: telepítés",
+      "answer": "telepítés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: figyelmeztetés",
+      "answer": "figyelmeztetés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szülő",
+      "answer": "szülő"
+    }
+  ]
+}

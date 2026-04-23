@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Step-by-Step Drawing",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is step-by-step drawing?",
+      "options": [
+        "Drawing in simple parts",
+        "Drawing everything at once",
+        "Drawing with eyes closed",
+        "Not drawing at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the first step usually?",
+      "options": [
+        "Drawing simple shapes",
+        "Adding tiny details",
+        "Coloring everything",
+        "Signing your name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you draw a house?",
+      "options": [
+        "Square for walls, triangle for roof",
+        "One big circle",
+        "A lot of dots",
+        "Start with the chimney"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape is good for a tree top?",
+      "options": [
+        "A cloud shape or circle",
+        "A triangle only",
+        "A square",
+        "A line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape is a tree trunk?",
+      "options": [
+        "A rectangle",
+        "A circle",
+        "A star",
+        "A dot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you draw a cat's face?",
+      "options": [
+        "Circle with triangles for ears",
+        "Square with a tail",
+        "A big line",
+        "Two dots only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'details'?",
+      "options": [
+        "Small things like eyes and buttons",
+        "The big main shapes",
+        "The colors only",
+        "The white paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you hurry when drawing?",
+      "options": [
+        "No, take your time",
+        "Yes, as fast as possible",
+        "Only if you are 10",
+        "Only if it is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'outlining'?",
+      "options": [
+        "Drawing the edges clearly",
+        "Coloring the inside",
+        "Erasing everything",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a computer to learn drawing?",
+      "options": [
+        "Yes, with tutorials",
+        "No, only on paper",
+        "Only if you are a robot",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape is a car's wheel?",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Star"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you draw a flower?",
+      "options": [
+        "Circle in middle, petals around",
+        "A lot of lines",
+        "One big square",
+        "A squiggle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color is the sun usually drawn as?",
+      "options": [
+        "Yellow or Orange",
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape is a fish body often?",
+      "options": [
+        "Oval or football shape",
+        "A perfect circle",
+        "A square",
+        "A line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you follow the steps in order?",
+      "options": [
+        "Yes, it helps",
+        "No, do whatever",
+        "Only if you want",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you erase mistakes in digital drawing?",
+      "options": [
+        "Yes, very easily",
+        "No, never",
+        "Only if you start over",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'brush' in a drawing app?",
+      "options": [
+        "The tool you paint with",
+        "Something for your hair",
+        "A computer part",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw a robot using squares?",
+      "options": [
+        "Yes, squares and rectangles",
+        "No, only circles",
+        "Only if it's blue",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'symmetry'?",
+      "options": [
+        "Both sides looking the same",
+        "One side bigger",
+        "A type of color",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw with a friend?",
+      "options": [
+        "Yes, taking turns",
+        "No, drawing is solo",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'palette'?",
+      "options": [
+        "A set of colors",
+        "A type of food",
+        "A drawing tool",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you copy a drawing step-by-step?",
+      "options": [
+        "Yes, to practice",
+        "No, it's cheating",
+        "Only if you ask",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best part of drawing?",
+      "options": [
+        "Having fun!",
+        "Being perfect",
+        "Finishing fast",
+        "Using all the ink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw a person with shapes?",
+      "options": [
+        "Yes, circle for head etc.",
+        "No, too hard",
+        "Only if they are tall",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is digital art real art?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Line",
+      "answer": "Line"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: House",
+      "answer": "House"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tree",
+      "answer": "Tree"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sun",
+      "answer": "Sun"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Star",
+      "answer": "Star"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Face",
+      "answer": "Face"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Car",
+      "answer": "Car"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Dog",
+      "answer": "Dog"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Cat",
+      "answer": "Cat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Bird",
+      "answer": "Bird"
+    }
+  ]
+}

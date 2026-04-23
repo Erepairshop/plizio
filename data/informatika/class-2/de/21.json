@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Spielend lernen",
+  "theme": "Eine Geschichte schreiben",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 1)",
+      "question": "Wie heißt ein Programm zum Schreiben?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 2)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 3)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Word oder Editor",
+        "Paint",
+        "Excel",
+        "Chrome"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 4)",
+      "question": "Was braucht eine Geschichte zuerst?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 5)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 6)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Einen Titel (Überschrift)",
+        "Ein Ende",
+        "Ein Bild",
+        "Einen Drucker"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 7)",
+      "question": "Wie macht man Text fett?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 8)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 9)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Mit dem 'B' oder 'F' Knopf",
+        "Man muss fester tippen",
+        "Durch Pusten",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 10)",
+      "question": "Wie nennt man die verschiedenen Schriftarten?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 11)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 12)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Fonts",
+        "Bilder",
+        "Codes",
+        "Zahlen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 13)",
+      "question": "Kann man in eine Geschichte Bilder einfügen?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 14)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 15)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Ja, das macht sie schöner",
+        "Nein, nur Text erlaubt",
+        "Nur wenn man sie abmalt",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 16)",
+      "question": "Was macht die 'Enter'-Taste beim Schreiben?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 17)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 18)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Sie beginnt einen neuen Absatz",
+        "Sie löscht das Wort",
+        "Sie speichert alles",
+        "Sie schaltet den PC aus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 19)",
+      "question": "Wofür ist die Rechtschreibprüfung gut?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 20)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 21)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Sie zeigt Fehler mit roten Linien an",
+        "Sie schreibt die Geschichte von allein",
+        "Sie macht Musik",
+        "Sie sucht Bilder"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 22)",
+      "question": "Wie speichert man seine Geschichte?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 23)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 24)",
-      "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Datei -> Speichern",
+        "Das Programm einfach schließen",
+        "Den Monitor fotografieren",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Spielend lernen? (Frage 25)",
+      "question": "Was ist ein 'Dokument'?",
       "options": [
-        "Option A für Spielend lernen",
-        "Option B für Spielend lernen",
-        "Option C für Spielend lernen"
+        "Eine Datei mit Text oder Infos",
+        "Ein Spiel",
+        "Ein Monitor",
+        "Ein Kabel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man die Schrift größer?",
+      "options": [
+        "In den Einstellungen für die Schriftgröße",
+        "Mit einer Lupe am Monitor",
+        "Durch Schreien",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text auch bunt machen?",
+      "options": [
+        "Ja, man kann die Schriftfarbe wählen",
+        "Nein, immer Schwarz",
+        "Nur wenn man den PC anmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Kopieren' (Copy)?",
+      "options": [
+        "Text merken, um ihn woanders einzufügen",
+        "Text löschen",
+        "Den PC ausschalten",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Einfügen' (Paste)?",
+      "options": [
+        "Den gemerkten Text an eine neue Stelle setzen",
+        "Ein neues Programm kaufen",
+        "Ein Bild malen",
+        "Das Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man eine Geschichte planen?",
+      "options": [
+        "Damit man weiß, was passieren soll",
+        "Muss man nicht",
+        "Wegen der Noten",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Bewegen von Text?",
+      "options": [
+        "Ausschneiden und Einfügen",
+        "Wegwerfen",
+        "Hüpfen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Absatz'?",
+      "options": [
+        "Ein Block aus mehreren Sätzen",
+        "Ein Teil vom Schuh",
+        "Ein Fehler",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie rückt man Text in die Mitte?",
+      "options": [
+        "Mit dem Knopf 'Zentriert'",
+        "Mit ganz vielen Leerzeichen",
+        "Man schiebt den Monitor",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man seine Geschichte ausdrucken?",
+      "options": [
+        "Ja, mit einem Drucker",
+        "Nein, sie bleibt immer im PC",
+        "Nur wenn man sie abmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Schreibprogramme auf dem Tablet?",
+      "options": [
+        "Ja, zum Beispiel 'Pages' oder 'Word'",
+        "Nein, nur am PC",
+        "Nur zum Spielen",
+        "Nur im Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Cursor beim Schreiben?",
+      "options": [
+        "Der blinkende Strich, wo man gerade tippt",
+        "Die Maus",
+        "Ein Fehler",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man ein ganzes Wort?",
+      "options": [
+        "Markieren und 'Entf' oder Backspace drücken",
+        "Mit dem Radiergummi am Monitor",
+        "Den PC ausschalten",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Überschrift?",
+      "options": [
+        "Der Name der Geschichte ganz oben",
+        "Ein Text unter dem Bild",
+        "Der Name des Autors",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch Tagebuch schreiben?",
+      "options": [
+        "Ja, das ist sehr praktisch",
+        "Nein, nur für die Schule",
+        "Nur wenn es geheim ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Autor?",
+      "options": [
+        "Jemand, der eine Geschichte schreibt",
+        "Ein schnelles Auto",
+        "Ein PC-Verkäufer",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Geschichten schreiben am PC Spaß?",
+      "options": [
+        "Ja, man kann toller Erfinder sein!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 1"
+      "question": "Tippe ein: Text",
+      "answer": "Text"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 2"
+      "question": "Tippe ein: Titel",
+      "answer": "Titel"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 3"
+      "question": "Tippe ein: Satz",
+      "answer": "Satz"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 4"
+      "question": "Tippe ein: Ende",
+      "answer": "Ende"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 5"
+      "question": "Tippe ein: Buch",
+      "answer": "Buch"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 6"
+      "question": "Tippe ein: Idee",
+      "answer": "Idee"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 7"
+      "question": "Tippe ein: Seite",
+      "answer": "Seite"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 8"
+      "question": "Tippe ein: Wort",
+      "answer": "Wort"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 9"
+      "question": "Tippe ein: Autor",
+      "answer": "Autor"
     },
     {
       "type": "typing",
-      "text": "Spielend lernen ist toll 10"
+      "question": "Tippe ein: Lesen",
+      "answer": "Lesen"
     }
   ]
 }

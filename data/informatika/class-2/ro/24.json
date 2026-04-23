@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Netichetă",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este 'Neticheta'?",
+      "options": [
+        "Codul bunelor maniere pe internet",
+        "O etichetă de pe haine",
+        "Un joc nou",
+        "Un tip de cablu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să scriem totul cu LITERE MARI?",
+      "options": [
+        "Nu, pe net pare că strigăm",
+        "Da, se vede mai bine",
+        "Doar dacă suntem supărați",
+        "Doar titlurile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trebuie să vorbim cu ceilalți pe net?",
+      "options": [
+        "Politicos și cu respect",
+        "Urât și cu jigniri",
+        "Doar prin semne",
+        "Nu trebuie să vorbim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă cineva este rău cu noi pe net?",
+      "options": [
+        "Nu îi răspundem și spunem unui adult",
+        "Îi răspundem și mai urât",
+        "Plângem singuri",
+        "Aruncăm tableta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem posta poze cu prietenii fără voie?",
+      "options": [
+        "Nu, trebuie să îi întrebăm mereu",
+        "Da, dacă ne plac",
+        "Doar dacă sunt amuzante",
+        "Doar pe ascuns"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să fii un 'cetățean digital' bun?",
+      "options": [
+        "Să folosești internetul responsabil și corect",
+        "Să fii un robot",
+        "Să stai 10 ore pe zi pe net",
+        "Să știi toate jocurile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să spunem 'Te rog' și 'Mulțumesc' și pe net?",
+      "options": [
+        "Da, manierele contează mereu",
+        "Nu, e pierdere de timp",
+        "Doar dacă ne vede mama",
+        "Doar profesorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem crede tot ce citim pe internet?",
+      "options": [
+        "Nu, trebuie să verificăm",
+        "Da, totul e adevărat",
+        "Doar ce are poze",
+        "Doar ce ne zice un prieten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă primim un mesaj de la un străin?",
+      "options": [
+        "Nu răspundem și arătăm părinților",
+        "Răspundem politicos",
+        "Îi dăm adresa noastră",
+        "Îl întrebăm ce face"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E frumos să trișăm în jocurile online?",
+      "options": [
+        "Nu, trișatul strică distracția tuturor",
+        "Da, dacă vrem să câștigăm",
+        "Doar dacă nu ne prind",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă am greșit ceva online?",
+      "options": [
+        "Ne cerem scuze",
+        "Ne ascundem",
+        "Ștergem tot și mințim",
+        "Dăm vina pe altcineva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne comportăm într-o oră online?",
+      "options": [
+        "Suntem atenți și nu deranjăm",
+        "Ne jucăm în altă fereastră",
+        "Mâncăm cu camera pornită",
+        "Dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să respectăm timpul celorlalți?",
+      "options": [
+        "Da, nu trimitem mesaje la ore nepotrivite",
+        "Nu, netul e deschis mereu",
+        "Doar dacă ne spun ei",
+        "Doar prietenilor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Emoticon'?",
+      "options": [
+        "Un simbol care arată cum ne simțim",
+        "Un tip de mâncare",
+        "Un virus",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem copia munca altcuiva de pe net și să zicem că e a noastră?",
+      "options": [
+        "Nu, se numește plagiat și e greșit",
+        "Da, e voie orice",
+        "Doar dacă e frumoasă",
+        "Doar dacă o schimbăm puțin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă găsim o informație utilă, e bine să spunem sursa?",
+      "options": [
+        "Da, e corect față de autor",
+        "Nu, nu contează",
+        "Doar dacă e lungă",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul uită lucrurile?",
+      "options": [
+        "Nu prea, ce punem pe net poate rămâne acolo mult timp",
+        "Da, uită tot după o oră",
+        "Uită doar dacă îl oprim",
+        "Uită doar pozele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este politicos să întrerupem pe cineva într-o conferință video?",
+      "options": [
+        "Nu, așteptăm să ne vină rândul",
+        "Da, dacă avem ceva important",
+        "Doar dacă strigăm mai tare",
+        "Doar dacă avem camera stinsă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne simțim când cineva ne vorbește urât pe net?",
+      "options": [
+        "Triste sau supărați",
+        "Bucuroși",
+        "Energici",
+        "Nu simțim nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e bine să fim buni și online?",
+      "options": [
+        "Pentru a face internetul un loc mai plăcut",
+        "Să primim premii",
+        "Să ne dea voie părinții mai mult",
+        "Să nu se strice calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face glume pe net?",
+      "options": [
+        "Da, dar să nu fie răutăcioase",
+        "Nu, totul e serios",
+        "Doar glume proaste",
+        "Doar cu roboții"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să 'raportezi' ceva?",
+      "options": [
+        "Să anunți administratorii despre un comportament rău",
+        "Să faci un desen",
+        "Să scrii o poveste",
+        "Să închizi netul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Neticheta se învață?",
+      "options": [
+        "Da, ca orice alt set de reguli",
+        "Nu, te naști cu ea",
+        "E doar pentru adulți",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vei fi un prieten bun pe internet?",
+      "options": [
+        "Da, mereu!",
+        "Nu",
+        "Voi încerca",
+        "Dacă sunt și ceilalți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești mândru de comportamentul tău?",
+      "options": [
+        "Da",
+        "Nu",
+        "Se poate mai bine",
+        "Lucrez la asta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salut",
+      "answer": "salut"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mersi",
+      "answer": "mersi"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: te rog",
+      "answer": "te rog"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pa",
+      "answer": "pa"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bine",
+      "answer": "bine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scuze",
+      "answer": "scuze"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: prieten",
+      "answer": "prieten"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: frumos",
+      "answer": "frumos"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: om",
+      "answer": "om"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: vorbesc",
+      "answer": "vorbesc"
+    }
+  ]
+}

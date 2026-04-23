@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Einfacher Texteditor",
+  "theme": "Das Internet",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 1)",
+      "question": "Was ist das Internet?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 2)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 3)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Ein riesiges weltweites Netz von Computern",
+        "Ein kleines Kabel im Zimmer",
+        "Ein Programm zum Malen",
+        "Ein Buch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 4)",
+      "question": "Womit geht man meistens ins Internet?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 5)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 6)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Mit einem Browser (z.B. Chrome, Edge)",
+        "Mit dem Taschenrechner",
+        "Mit dem Papierkorb",
+        "Mit der Lampe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 7)",
+      "question": "Was ist eine Webseite?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 8)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 9)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Eine Seite mit Infos im Internet",
+        "Ein Blatt Papier",
+        "Ein Teil der Tastatur",
+        "Ein Film im Kino"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 10)",
+      "question": "Wozu nutzt man das Internet?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Informationen suchen, Spielen, Lernen",
+        "Nur zum Schlafen",
+        "Zum Essen bestellen (manchmal)",
+        "1 und 3 sind richtig"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 11)",
+      "question": "Was ist WLAN (Wi-Fi)?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 12)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Internet ohne Kabel durch die Luft",
+        "Eine neue Sorte Obst",
+        "Ein kaputtes Kabel",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 13)",
+      "question": "Was ist Google?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 14)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 15)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Eine Suchmaschine im Internet",
+        "Ein kleiner Roboter",
+        "Ein Land",
+        "Ein Computerhersteller"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 16)",
+      "question": "Braucht man für das Internet Strom?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 17)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 18)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Ja, natürlich",
+        "Nein, das geht mit Luft",
+        "Nur wenn es regnet",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 19)",
+      "question": "Was ist eine E-Mail?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 20)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 21)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Ein elektronischer Brief",
+        "Ein echtes Paket",
+        "Ein Telefonat",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 22)",
+      "question": "Kann man im Internet Filme schauen?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 23)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 24)",
-      "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Ja, zum Beispiel auf YouTube",
+        "Nein, nur Bilder sehen",
+        "Nur wenn man ein Fernsehkabel hat",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Einfacher Texteditor? (Frage 25)",
+      "question": "Ist alles im Internet wahr?",
       "options": [
-        "Option A für Einfacher Texteditor",
-        "Option B für Einfacher Texteditor",
-        "Option C für Einfacher Texteditor"
+        "Nein, man muss vorsichtig sein und prüfen",
+        "Ja, immer",
+        "Nur was Lehrer schreiben",
+        "Nur die Bilder"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Link?",
+      "options": [
+        "Eine Verbindung, die zu einer anderen Seite führt",
+        "Eine Kette aus Metall",
+        "Ein kleiner Computer",
+        "Ein Geräusch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Suchen im Internet auch?",
+      "options": [
+        "Surfen",
+        "Tauchen",
+        "Fliegen",
+        "Klettern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine URL?",
+      "options": [
+        "Die Adresse einer Webseite (z.B. www.google.de)",
+        "Ein Name für einen PC",
+        "Ein Spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Internet mit jedem sprechen?",
+      "options": [
+        "Nein, nur mit Leuten, die man kennt",
+        "Ja, mit allen",
+        "Nur mit Kindern",
+        "Nur wenn man nett ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Router?",
+      "options": [
+        "Das Gerät, das das Internet ins Haus bringt",
+        "Ein schnelles Auto",
+        "Ein Werkzeug zum Bohren",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man im Internet Spiele spielen?",
+      "options": [
+        "Ja, viele!",
+        "Nein, nie",
+        "Nur wenn man sie kauft",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Cloud?",
+      "options": [
+        "Speicherplatz im Internet",
+        "Eine echte Wolke am Himmel",
+        "Ein weißes Schaf",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kostet das Internet Geld?",
+      "options": [
+        "Meistens ja, man zahlt für den Anschluss",
+        "Nein, es ist immer kostenlos",
+        "Nur wenn man viel sucht",
+        "Nur für Google"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Download?",
+      "options": [
+        "Etwas aus dem Internet auf den PC laden",
+        "Etwas in den Müll werfen",
+        "Den PC ausschalten",
+        "Ein Spiel spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Upload?",
+      "options": [
+        "Etwas vom PC ins Internet schicken",
+        "Den PC hochheben",
+        "Ein neues Programm kaufen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das World Wide Web (WWW)?",
+      "options": [
+        "Ein großer Teil des Internets",
+        "Ein Spiel über Spinnen",
+        "Eine Weltkarte",
+        "Ein Computername"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man im Internet einkaufen?",
+      "options": [
+        "Ja, in Online-Shops",
+        "Nein, das geht nur im Laden",
+        "Nur mit echten Münzen am PC",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser-Tab?",
+      "options": [
+        "Ein Register für mehrere offene Seiten",
+        "Ein kleiner Keks",
+        "Ein Knopf an der Maus",
+        "Ein Lautsprecher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Bilder aus dem Internet einfach benutzen?",
+      "options": [
+        "Nein, man muss oft fragen (Urheberrecht)",
+        "Ja, alles gehört jedem",
+        "Nur wenn sie schön sind",
+        "Nur für die Schule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das Internet jemals fertig?",
+      "options": [
+        "Nein, es kommen ständig neue Sachen dazu",
+        "Ja, bald",
+        "Es war 2010 fertig",
+        "Niemand weiß es"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 1"
+      "question": "Tippe ein: Internet",
+      "answer": "Internet"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 2"
+      "question": "Tippe ein: Webseite",
+      "answer": "Webseite"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 3"
+      "question": "Tippe ein: Link",
+      "answer": "Link"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 4"
+      "question": "Tippe ein: Browser",
+      "answer": "Browser"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 5"
+      "question": "Tippe ein: Surfen",
+      "answer": "Surfen"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 6"
+      "question": "Tippe ein: Suchen",
+      "answer": "Suchen"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 7"
+      "question": "Tippe ein: WLAN",
+      "answer": "WLAN"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 8"
+      "question": "Tippe ein: Online",
+      "answer": "Online"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 9"
+      "question": "Tippe ein: Welt",
+      "answer": "Welt"
     },
     {
       "type": "typing",
-      "text": "Einfacher Texteditor ist toll 10"
+      "question": "Tippe ein: Netz",
+      "answer": "Netz"
     }
   ]
 }

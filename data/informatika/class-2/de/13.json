@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Malprogramm (Paint)",
+  "theme": "Was ist ein Roboter?",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 1)",
+      "question": "Was ist ein Roboter?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 2)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 3)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Eine Maschine, die Aufgaben allein ausführt",
+        "Ein echter Mensch aus Metall",
+        "Ein Spielzeugauto",
+        "Ein Toaster"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 4)",
+      "question": "Kann ein Roboter denken wie ein Mensch?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 5)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 6)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Nein, er folgt nur seinen Programmen",
+        "Ja, ganz genau so",
+        "Nur wenn er Batterien hat",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 7)",
+      "question": "Wo findet man oft Roboter?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 8)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 9)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "In Fabriken oder im Haushalt (z.B. Staubsauger)",
+        "Im Wald",
+        "In der Suppe",
+        "Nur im Kino"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 10)",
+      "question": "Braucht ein Roboter Energie?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 11)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 12)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Ja, meistens Strom oder Batterien",
+        "Nein, er arbeitet mit Luft",
+        "Er isst Äpfel",
+        "Er braucht gar nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 13)",
+      "question": "Was sind die 'Sinne' eines Roboters?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 14)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 15)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Sensoren (z.B. für Licht oder Berührung)",
+        "Augen und Ohren aus Fleisch",
+        "Gibt es nicht",
+        "Er fühlt mit dem Herzen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 16)",
+      "question": "Können Roboter gefährliche Aufgaben machen?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 17)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 18)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Ja, zum Beispiel für Menschen zu gefährliche Orte erkunden",
+        "Nein, sie haben zu viel Angst",
+        "Nur wenn sie groß sind",
+        "Nur im Weltraum"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 19)",
+      "question": "Wer sagt dem Roboter, was er tun soll?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 20)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 21)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Ein Programmierer",
+        "Er weiß es von allein",
+        "Der Fernseher",
+        "Der Wind"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 22)",
+      "question": "Können Roboter wie Tiere aussehen?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 23)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 24)",
-      "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Ja, es gibt Roboter-Hunde oder Vögel",
+        "Nein, sie sind immer eckig",
+        "Nur im Comic",
+        "Nur wenn sie verkleidet sind"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Malprogramm (Paint)? (Frage 25)",
+      "question": "Was ist ein Saugroboter?",
       "options": [
-        "Option A für Malprogramm (Paint)",
-        "Option B für Malprogramm (Paint)",
-        "Option C für Malprogramm (Paint)"
+        "Ein Roboter, der den Boden putzt",
+        "Ein Roboter zum Trinken",
+        "Ein Roboter für die Haare",
+        "Ein Spielzeug"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Haben Roboter Gefühle?",
+      "options": [
+        "Nein, sie sind Maschinen",
+        "Ja, sie sind oft traurig",
+        "Nur wenn man sie streichelt",
+        "Nur am Geburtstag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Mars-Rover?",
+      "options": [
+        "Ein Roboter, der einen anderen Planeten erkundet",
+        "Ein schnelles Fahrrad",
+        "Ein kleiner Hund",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter sprechen?",
+      "options": [
+        "Manche können Sätze abspielen oder antworten",
+        "Nein, sie piepen nur",
+        "Nur wenn man sie kitzelt",
+        "Nur auf Roboterisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woraus bestehen Roboter meistens?",
+      "options": [
+        "Metall, Kunststoff und Elektronik",
+        "Holz und Stein",
+        "Papier und Kleber",
+        "Obst und Gemüse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Industrieroboter?",
+      "options": [
+        "Ein großer Arm, der z.B. Autos baut",
+        "Ein kleiner Roboter für den Garten",
+        "Ein Spielzeug",
+        "Ein Koch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter lernen?",
+      "options": [
+        "Manche können durch 'KI' klüger werden",
+        "Nein, sie bleiben immer gleich",
+        "Nur wenn sie zur Schule gehen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das 'Gehirn' eines Roboters?",
+      "options": [
+        "Computer oder Mikrocontroller",
+        "Echter Kopf",
+        "Batterie",
+        "Zahnrad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter schwimmen?",
+      "options": [
+        "Ja, es gibt Unterwasser-Roboter",
+        "Nein, sie rosten sofort",
+        "Nur mit Schwimmflügeln",
+        "Nur im Schwimmbad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum baut man Roboter?",
+      "options": [
+        "Um uns bei schwerer oder langweiliger Arbeit zu helfen",
+        "Weil es lustig aussieht",
+        "Weil wir keine Menschen mehr wollen",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter fliegen?",
+      "options": [
+        "Ja, zum Beispiel Drohnen",
+        "Nein, sie sind zu schwer",
+        "Nur mit Luftballons",
+        "Nur im Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Humanoid?",
+      "options": [
+        "Ein Roboter, der wie ein Mensch aussieht",
+        "Ein Alien",
+        "Ein neues Wort für PC",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Brauchen Roboter Pausen?",
+      "options": [
+        "Nur wenn der Akku leer ist",
+        "Ja, sie schlafen nachts",
+        "Jede Stunde",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter kochen?",
+      "options": [
+        "Es gibt schon Roboter, die einfache Dinge zubereiten",
+        "Nein, sie schmecken nichts",
+        "Nur wenn man sie füttert",
+        "Nur Pizza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sensor?",
+      "options": [
+        "Ein Teil, das z.B. Hindernisse erkennt",
+        "Ein Knopf zum Drücken",
+        "Ein Lautsprecher",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie programmiert man einen Roboter?",
+      "options": [
+        "Mit einem Computer und Befehlen",
+        "Man muss es ihm vorsingen",
+        "Man schreibt es auf einen Zettel",
+        "Durch Schütteln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Roboter unsere Freunde?",
+      "options": [
+        "Sie sind hilfreiche Werkzeuge",
+        "Ja, sie lieben uns",
+        "Nein, sie sind böse",
+        "Vielleicht"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 1"
+      "question": "Tippe ein: Robot",
+      "answer": "Robot"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 2"
+      "question": "Tippe ein: Maschine",
+      "answer": "Maschine"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 3"
+      "question": "Tippe ein: Schlau",
+      "answer": "Schlau"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 4"
+      "question": "Tippe ein: Hilfe",
+      "answer": "Hilfe"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 5"
+      "question": "Tippe ein: Sensor",
+      "answer": "Sensor"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 6"
+      "question": "Tippe ein: Motor",
+      "answer": "Motor"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 7"
+      "question": "Tippe ein: Metall",
+      "answer": "Metall"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 8"
+      "question": "Tippe ein: Bau",
+      "answer": "Bau"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 9"
+      "question": "Tippe ein: Plan",
+      "answer": "Plan"
     },
     {
       "type": "typing",
-      "text": "Malprogramm (Paint) ist toll 10"
+      "question": "Tippe ein: Aktion",
+      "answer": "Aktion"
     }
   ]
 }

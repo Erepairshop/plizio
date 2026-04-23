@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Scratch Jr.",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is Scratch Jr.?",
+      "options": [
+        "A coding app for kids",
+        "A type of cat food",
+        "A scratch on the screen",
+        "A game about bugs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'sprite'?",
+      "options": [
+        "A character or object",
+        "A type of soda",
+        "A fast bird",
+        "A computer stand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite move?",
+      "options": [
+        "Snap blocks together",
+        "Shout at it",
+        "Turn the tablet",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Green Flag' do?",
+      "options": [
+        "Starts the program",
+        "Ends the program",
+        "Saves work",
+        "Changes color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do blocks go?",
+      "options": [
+        "In the scripting area",
+        "In the trash",
+        "On the screen edge",
+        "Nowhere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are 'Motion' blocks?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Yellow' block often do?",
+      "options": [
+        "Starts an action (Trigger)",
+        "Moves character",
+        "Makes a sound",
+        "Ends program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the background?",
+      "options": [
+        "Yes, pick a scene",
+        "No, always white",
+        "Only to black",
+        "Only if it is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have more than one sprite?",
+      "options": [
+        "Yes",
+        "No",
+        "Only two",
+        "Only five"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Say' block do?",
+      "options": [
+        "Shows a speech bubble",
+        "Makes a loud sound",
+        "Types a letter",
+        "Moves character"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw your own sprite?",
+      "options": [
+        "Yes, in the paint tool",
+        "No, only use theirs",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Stage'?",
+      "options": [
+        "Where the sprites move",
+        "The tablet screen",
+        "A type of box",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a sprite?",
+      "options": [
+        "Long press and click X",
+        "Shout 'go away'",
+        "Throw the tablet",
+        "Turn it off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Repeat' block do?",
+      "options": [
+        "Does the same thing again",
+        "Stops everything",
+        "Changes colors",
+        "Plays music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Red' block usually do?",
+      "options": [
+        "Ends the script",
+        "Starts the script",
+        "Makes it loud",
+        "Makes it fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record your own sound?",
+      "options": [
+        "Yes, with the microphone",
+        "No, never",
+        "Only if you sing",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you click a sprite?",
+      "options": [
+        "It can start a script",
+        "It disappears",
+        "It explodes",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can sprites jump?",
+      "options": [
+        "Yes, with a hop block",
+        "No, never",
+        "Only if they have legs",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is Scratch Jr. fun?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the cat's name in Scratch?",
+      "options": [
+        "Scratchy or Scratch Cat",
+        "Tom",
+        "Felix",
+        "Whiskers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make a game in Scratch Jr.?",
+      "options": [
+        "Yes, simple ones",
+        "No, only stories",
+        "Only racing games",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you save your project?",
+      "options": [
+        "It saves automatically or click Home",
+        "It never saves",
+        "You must print it",
+        "Turn it off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you send sprites to another page?",
+      "options": [
+        "Yes, with page blocks",
+        "No, only one page",
+        "Only if they fly",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Grid' help with?",
+      "options": [
+        "Seeing where sprites are",
+        "Drawing lines",
+        "Making it pretty",
+        "Playing tic-tac-toe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is Scratch Jr. for adults?",
+      "options": [
+        "It's for kids, but adults like it too",
+        "No, adults are banned",
+        "Only for teachers",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Jump",
+      "answer": "Jump"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Flag",
+      "answer": "Flag"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Cat",
+      "answer": "Cat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Blue",
+      "answer": "Blue"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Green",
+      "answer": "Green"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Turn",
+      "answer": "Turn"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sound",
+      "answer": "Sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Play",
+      "answer": "Play"
+    }
+  ]
+}

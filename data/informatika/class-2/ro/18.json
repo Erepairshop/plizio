@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Camera foto",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce face o cameră foto?",
+      "options": [
+        "Captează imagini",
+        "Cântă muzică",
+        "Face mâncare",
+        "Spală haine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim camere foto azi?",
+      "options": [
+        "În telefoane, tablete, laptopuri",
+        "Doar în cutii negre",
+        "Doar în pădure",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește o imagine făcută cu camera?",
+      "options": [
+        "Fotografie (Poză)",
+        "Desen",
+        "Povește",
+        "Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Flash-ul' (Blițul)?",
+      "options": [
+        "O lumină puternică pentru poze în întuneric",
+        "Un super-erou",
+        "O tastă",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem pentru a face o poză?",
+      "options": [
+        "Apăsăm pe butonul declanșator",
+        "Suflăm în lentilă",
+        "Strigăm la cameră",
+        "O scuturăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Lentila'?",
+      "options": [
+        "Ochiul camerei prin care intră lumina",
+        "O bucată de gumă",
+        "O tastă",
+        "Un ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem filma cu camera foto?",
+      "options": [
+        "Multe camere pot face și video",
+        "Nu, e doar pentru poze",
+        "Doar dacă avem bandă",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Zoom'?",
+      "options": [
+        "Apropim sau depărtăm imaginea",
+        "A merge repede",
+        "A face o poză mare",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se salvează pozele digital?",
+      "options": [
+        "În memoria calculatorului sau pe card",
+        "Pe hârtie imediat",
+        "În aer",
+        "Nu se salvează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Selfie'?",
+      "options": [
+        "O poză făcută propriei persoane",
+        "O poză cu o pisică",
+        "O poză cu marea",
+        "Un tip de mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să cerem voie înainte de a poza pe cineva?",
+      "options": [
+        "Da, e politicos",
+        "Nu, e secret",
+        "Doar dacă e adult",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Focus'?",
+      "options": [
+        "Claritatea subiectului din poză",
+        "O tastă",
+        "Culoarea pozei",
+        "Numele camerei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem edita pozele după ce le facem?",
+      "options": [
+        "Da, cu programe speciale",
+        "Nu, rămân așa mereu",
+        "Doar dacă le pictăm",
+        "Doar dacă sunt urâte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Filtru' foto?",
+      "options": [
+        "Efecte care schimbă aspectul pozei",
+        "O sită pentru apă",
+        "O tastă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Camerele vechi foloseau...",
+      "options": [
+        "Film (rolă de film)",
+        "Baterii de mașină",
+        "Apă",
+        "Pietre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Tripod' (Stativ)?",
+      "options": [
+        "Un suport cu 3 picioare pentru stabilitate",
+        "Un robot",
+        "O tastă",
+        "Un pantof"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea pozele imediat pe ecran?",
+      "options": [
+        "Da, la camerele digitale",
+        "Nu, trebuie să așteptăm o săptămână",
+        "Doar dacă le printăm",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Megapixeli'?",
+      "options": [
+        "Măsura detaliilor pe care le poate capta camera",
+        "Mărimea camerei",
+        "Viteza de pornire",
+        "Numărul de butoane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Camera de la laptop se numește...",
+      "options": [
+        "Webcam",
+        "Lentilă",
+        "Ochi",
+        "Ecran mic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite poze prin internet?",
+      "options": [
+        "Da, foarte ușor",
+        "Nu, sunt prea grele",
+        "Doar prin poștă",
+        "Doar dacă le desenăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Albumul foto' digital?",
+      "options": [
+        "Un dosar cu mai multe poze",
+        "O carte reală",
+        "Un joc",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e bine să nu atingem lentila cu degetele?",
+      "options": [
+        "Lăsăm urme de grăsime și pozele ies neclare",
+        "Se sparge imediat",
+        "Ne curentăm",
+        "Nu se întâmplă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există camere care printează poza imediat?",
+      "options": [
+        "Da (ex: Instax, Polaroid)",
+        "Nu, e imposibil",
+        "Doar în desene",
+        "Doar cele din lemn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fotografia este un hobby frumos?",
+      "options": [
+        "Da, foarte",
+        "Nu deloc",
+        "Uneori",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să devii fotograf?",
+      "options": [
+        "Da",
+        "Nu",
+        "Poate",
+        "Îmi place să fac poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poza",
+      "answer": "poza"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: camera",
+      "answer": "camera"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: flash",
+      "answer": "flash"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: zoom",
+      "answer": "zoom"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: selfie",
+      "answer": "selfie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: album",
+      "answer": "album"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: filmez",
+      "answer": "filmez"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: focal",
+      "answer": "focal"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: imagine",
+      "answer": "imagine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: amintire",
+      "answer": "amintire"
+    }
+  ]
+}

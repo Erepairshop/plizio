@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Projektmunka K3",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a projektmunka?",
+      "options": [
+        "Egy összetett feladat megoldása",
+        "Csak egy kis rajz",
+        "Alvás",
+        "Ebédelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kezdünk egy projektet?",
+      "options": [
+        "Tervezéssel",
+        "Azonnali befejezéssel",
+        "Szaladgálással",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a cél?",
+      "options": [
+        "Valami új létrehozása vagy bemutatása",
+        "A gép elrontása",
+        "A monitor összekenése",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki vehet részt benne?",
+      "options": [
+        "Egyedül vagy csapatban",
+        "Csak a tanár",
+        "Csak a robotok",
+        "Senki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a munkamegosztás?",
+      "options": [
+        "Mindenki mást csinál a cél érdekében",
+        "Kettévágjuk a gépet",
+        "Osztozkodunk a csokin",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az ütemterv?",
+      "options": [
+        "Mikor mit csinálunk",
+        "Egy fajta óra",
+        "A monitor sarka",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan gyűjtünk adatot?",
+      "options": [
+        "Kereséssel, olvasással",
+        "Kitaláljuk",
+        "Álmodunk róla",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a prezentálás?",
+      "options": [
+        "A munka bemutatása másoknak",
+        "Ajándék csomagolás",
+        "Alvás",
+        "Gépelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a projektvezető?",
+      "options": [
+        "Összefogja a munkát",
+        "Csak néz",
+        "Főzik az ebédet",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a visszajelzés?",
+      "options": [
+        "Hogy tanuljunk és javítsunk",
+        "Mert szép",
+        "Mert kötelező",
+        "Főzéshez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e digitális a projekt?",
+      "options": [
+        "Igen, pl. egy Scratch játék",
+        "Csak papíron",
+        "Soha",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a forrásmegjelölés?",
+      "options": [
+        "Honnan vettük az információt",
+        "Hova tettük a tollat",
+        "A nevünk leírása",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az együttműködés?",
+      "options": [
+        "Közös munka segítve egymást",
+        "Veszekedés",
+        "Egymás nézése",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a vázlat a projektben?",
+      "options": [
+        "A munka rövid alapja",
+        "Egy rajzolt kép",
+        "A gép lába",
+        "Víz ivás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan zárjuk le a projektet?",
+      "options": [
+        "Összegzéssel és értékeléssel",
+        "Eltoljuk a gépet",
+        "Kiszaladunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az önértékelés?",
+      "options": [
+        "Saját munkánk átgondolása",
+        "Magunk nézése a tükörben",
+        "Saját név leírása",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e hibázni?",
+      "options": [
+        "Igen, a hibákból tanulunk",
+        "Soha",
+        "Csak ha esik",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kreatív?",
+      "options": [
+        "Ötletes, újító",
+        "Nagyon régi",
+        "Rossz",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a projekt dosszié?",
+      "options": [
+        "A munkához tartozó fájlok gyűjteménye",
+        "Egy táska",
+        "A monitor hátulja",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a határidő?",
+      "options": [
+        "Segít beosztani az időt",
+        "Fáj tőle a fejünk",
+        "Semmire",
+        "Ebédhez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehetsz büszke a munkádra?",
+      "options": [
+        "Ha beleadtad a legjobbat",
+        "Ha gyorsan végeztél",
+        "Ha elloptad másét",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a vizuális segédlet?",
+      "options": [
+        "Képek, ábrák amik segítenek",
+        "Egy szemüveg",
+        "A monitor fénye",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a prezentációs készség?",
+      "options": [
+        "Hogy tudsz beszélni a munkádról",
+        "Hogy tudsz futni",
+        "Hogy tudsz gépelni",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik tantárgyhoz kapcsolódhat?",
+      "options": [
+        "Bármelyikhez (IT, Matek, Magyar stb.)",
+        "Csak a sporthoz",
+        "Csak az ebédhez",
+        "Semmihez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a projektmunka K3 szinten?",
+      "options": [
+        "Önálló és közös alkotásra az IT segítségével",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: projekt",
+      "answer": "projekt"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: csapat",
+      "answer": "csapat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: feladat",
+      "answer": "feladat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: bemutató",
+      "answer": "bemutató"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: munka",
+      "answer": "munka"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: zárás",
+      "answer": "zárás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: értékelés",
+      "answer": "értékelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: eredmény",
+      "answer": "eredmény"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: együtt",
+      "answer": "együtt"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: cél",
+      "answer": "cél"
+    }
+  ]
+}

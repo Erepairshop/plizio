@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online kereső",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az online kereső?",
+      "options": [
+        "Program információk megtalálásához",
+        "Egy fajta szemüveg",
+        "A monitor gombja",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legnépszerűbb kereső?",
+      "options": [
+        "Google",
+        "Minecraft",
+        "Paint",
+        "Excel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit írunk a keresőbe?",
+      "options": [
+        "Kulcsszavakat",
+        "Egy egész könyvet",
+        "Semmit",
+        "Titkos kódokat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a találati lista?",
+      "options": [
+        "A keresés eredményei",
+        "A bevásárlólista",
+        "A tanár névsora",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Minden találat igaz?",
+      "options": [
+        "Nem, ellenőrizni kell az információt",
+        "Igen, mind az",
+        "Csak az első",
+        "Csak a színesek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Rank' (helyezés)?",
+      "options": [
+        "Milyen elöl van a listában",
+        "Milyen szép az oldal",
+        "Milyen drága",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Safe Search'?",
+      "options": [
+        "Biztonságos keresés (szűri a rossz dolgokat)",
+        "Keresés páncélban",
+        "Titkos keresés",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e hanggal keresni?",
+      "options": [
+        "Igen, a mikrofon ikonnal",
+        "Nem",
+        "Csak ha kiabálunk",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Wikipedia'?",
+      "options": [
+        "Online enciklopédia",
+        "Egy játék",
+        "Egy fajta étel",
+        "A monitor neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan pontosítjuk a keresést?",
+      "options": [
+        "Több kulcsszó megadásával",
+        "Az egér rázásával",
+        "Várással",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a hirdetés (Ad) a keresőben?",
+      "options": [
+        "Fizetett találat felül",
+        "A legjobb találat",
+        "Egy hiba",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a kereső?",
+      "options": [
+        "Tanuláshoz, kérdések megválaszolásához",
+        "Alvásra",
+        "Főzésre",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Browser' (böngésző)?",
+      "options": [
+        "A program amiben a kereső fut",
+        "A gép kábele",
+        "Egy játék",
+        "A monitor sarka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e térképen keresni?",
+      "options": [
+        "Igen, pl. Google Maps",
+        "Nem",
+        "Csak iránytűvel",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Keyword'?",
+      "options": [
+        "Kulcsszó",
+        "Egy kulcs",
+        "Egy titkos szó",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ismered fel a megbízható oldalt?",
+      "options": [
+        "Ismert név, jó források",
+        "Sok rajz van rajta",
+        "Szép a színe",
+        "Villog"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Fact checking'?",
+      "options": [
+        "Tényellenőrzés",
+        "Számolás",
+        "Rajzolás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad másolni a talált szöveget?",
+      "options": [
+        "Csak forrásmegjelöléssel",
+        "Igen, bárhova",
+        "Soha",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Search engine'?",
+      "options": [
+        "Keresőmotor",
+        "Egy igazi motor",
+        "A gép hűtője",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány találat lehet?",
+      "options": [
+        "Akár több millió",
+        "Csak tíz",
+        "Csak egy",
+        "Csak ezer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Next page'?",
+      "options": [
+        "Következő oldal a listában",
+        "Új könyv",
+        "Kikapcsolás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e dátum szerint keresni?",
+      "options": [
+        "Igen, a szűrőkkel",
+        "Nem",
+        "Csak ha kedd van",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az idézőjel szerepe?",
+      "options": [
+        "Pontos kifejezésre keresés",
+        "Díszítés",
+        "Törlés",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a legfontosabb kereséskor?",
+      "options": [
+        "A jó kulcsszó kiválasztása",
+        "A gyors gépelés",
+        "A szép monitor",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való az online kereső?",
+      "options": [
+        "A világ információinak elérésére",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kulcsszó",
+      "answer": "kulcsszó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: keresés",
+      "answer": "keresés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szűrés",
+      "answer": "szűrés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: találat",
+      "answer": "találat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: információ",
+      "answer": "információ"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: forrás",
+      "answer": "forrás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: igazság",
+      "answer": "igazság"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ellenőrzés",
+      "answer": "ellenőrzés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: böngésző",
+      "answer": "böngésző"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: motor",
+      "answer": "motor"
+    }
+  ]
+}

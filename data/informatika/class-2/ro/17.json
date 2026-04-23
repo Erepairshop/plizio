@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Tableta",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o tabletă?",
+      "options": [
+        "Un calculator portabil cu ecran tactil",
+        "O farfurie",
+        "O carte de lemn",
+        "Un telefon uriaș fix"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum controlăm tableta?",
+      "options": [
+        "Cu degetele (touch)",
+        "Cu o lingură",
+        "Cu picioarele",
+        "Doar prin voce"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are nevoie de tastatură separată?",
+      "options": [
+        "De obicei nu, are tastatură pe ecran",
+        "Da, obligatoriu",
+        "Nu are deloc tastatură",
+        "Se scrie cu creta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce putem face pe tabletă?",
+      "options": [
+        "Jocuri, lecții, filme",
+        "Să tăiem legume",
+        "Să batem cuie",
+        "Să dormim pe ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum încărcăm tableta?",
+      "options": [
+        "Cu un încărcător la priză",
+        "Cu baterii de ceas",
+        "Cu apă",
+        "Cu soare mereu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta este mai ușoară decât un laptop?",
+      "options": [
+        "Da, de obicei",
+        "Nu, e mult mai grea",
+        "Au aceeași greutate",
+        "Plutește"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'iPad'?",
+      "options": [
+        "Un tip de tabletă făcută de Apple",
+        "O mâncare",
+        "Un joc",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face poze cu tableta?",
+      "options": [
+        "Da, are cameră foto",
+        "Nu, e doar pentru citit",
+        "Doar dacă îi punem film",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum mărim o poză pe tabletă?",
+      "options": [
+        "Depărtăm două degete pe ecran (pinch)",
+        "Strigăm la ea",
+        "O scuturăm",
+        "Apăsăm butonul Power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are nevoie de internet pentru orice?",
+      "options": [
+        "Nu, unele jocuri merg și fără (offline)",
+        "Da, mereu",
+        "Nu are deloc internet",
+        "Doar dacă e albastră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim aplicații noi?",
+      "options": [
+        "În App Store sau Play Store",
+        "La magazinul de pâine",
+        "Sub masă",
+        "În coșul de gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Stylus'?",
+      "options": [
+        "Un creion special pentru ecran",
+        "O perie",
+        "Un tip de joc",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să stăm mult pe tabletă înainte de culcare?",
+      "options": [
+        "Nu, lumina ne poate alunga somnul",
+        "Da, ne ajută să visăm",
+        "Nu contează",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum protejăm ecranul tabletei?",
+      "options": [
+        "Cu o folie și o husă",
+        "Îl spălăm cu apă",
+        "Îl acoperim cu nisip",
+        "Nu îl protejăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem citi cărți pe tabletă?",
+      "options": [
+        "Da (E-books)",
+        "Nu, cărțile sunt doar pe hârtie",
+        "Doar dacă le pictăm",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are butoane de volum?",
+      "options": [
+        "Da, pe lateral de obicei",
+        "Nu, se reglează cu vocea",
+        "Sunt în interior",
+        "Sunt invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă tableta se blochează?",
+      "options": [
+        "Încercăm un restart (repornire)",
+        "O aruncăm",
+        "Plângem",
+        "O lăsăm în pace un an"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena pe tabletă?",
+      "options": [
+        "Da, există aplicații de desen",
+        "Nu, se zgârie ecranul",
+        "Doar cu creionul real",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta este bună pentru școală?",
+      "options": [
+        "Da, pentru manuale digitale",
+        "Nu, ne încurcă",
+        "Doar pentru recreație",
+        "Doar pentru adulți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există tablete pentru copii?",
+      "options": [
+        "Da, sunt mai rezistente",
+        "Nu, toate sunt la fel",
+        "Doar cele din plastic",
+        "Doar cele roz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este modul 'Avion'?",
+      "options": [
+        "Oprește conexiunile wireless",
+        "Face tableta să zboare",
+        "Schimbă fundalul cu nori",
+        "Un tip de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme în călătorii?",
+      "options": [
+        "Da, e foarte utilă",
+        "Nu, se strică în mașină",
+        "Doar dacă avem televizor",
+        "Doar dacă e zi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are memorie?",
+      "options": [
+        "Da, acolo se păstrează pozele și jocurile",
+        "Nu, uită tot imediat",
+        "Are memorie de elefant",
+        "Nu are nevoie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem mâinile curate când o folosim?",
+      "options": [
+        "Da, să nu murdărim ecranul",
+        "Nu contează",
+        "Doar dacă mâncăm",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place tableta ta?",
+      "options": [
+        "Da",
+        "Nu am una",
+        "Poate",
+        "O iubesc!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tableta",
+      "answer": "tableta"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ecran",
+      "answer": "ecran"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: deget",
+      "answer": "deget"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poze",
+      "answer": "poze"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stylus",
+      "answer": "stylus"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: husa",
+      "answer": "husa"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bateria",
+      "answer": "bateria"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tactil",
+      "answer": "tactil"
+    }
+  ]
+}

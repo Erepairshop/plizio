@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Turning On and Off",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "How do you start a computer?",
+      "options": [
+        "Press the power button",
+        "Clap your hands",
+        "Say 'hello'",
+        "Kick it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is it called when a computer starts up?",
+      "options": [
+        "Booting",
+        "Running",
+        "Waking",
+        "Eating"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How should you turn off a computer?",
+      "options": [
+        "Use the 'Shut Down' menu",
+        "Pull the plug",
+        "Press power button hard",
+        "Wait for it to die"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sleep' mode?",
+      "options": [
+        "Low power state",
+        "Computer is snoring",
+        "Computer is broken",
+        "Computer is dreaming"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should we shut down properly?",
+      "options": [
+        "To save work and computer",
+        "To make it louder",
+        "To hide it",
+        "To make it fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you pull the plug?",
+      "options": [
+        "You might lose work",
+        "The computer gets stronger",
+        "It turns green",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Restart'?",
+      "options": [
+        "Off and back on",
+        "Starting a game again",
+        "Deleting everything",
+        "Changing the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does a computer need to rest?",
+      "options": [
+        "Yes, turn it off at night",
+        "No, never",
+        "Only if it is hot",
+        "Only on Sundays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the power button usually?",
+      "options": [
+        "On the case or keyboard",
+        "On the mouse",
+        "On the floor",
+        "Inside the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do before shutting down?",
+      "options": [
+        "Save your work",
+        "Eat a snack",
+        "Close your eyes",
+        "Say goodbye"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'laptop battery'?",
+      "options": [
+        "Stores power for later",
+        "A type of food",
+        "A part of the mouse",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Log Out' mean?",
+      "options": [
+        "Closing your account",
+        "Going outside",
+        "Turning off power",
+        "Restarting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you leave a computer on forever?",
+      "options": [
+        "No, it's not good",
+        "Yes, it is fine",
+        "Only in space",
+        "Only if it is cold"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Hibernate'?",
+      "options": [
+        "Deep sleep for computer",
+        "A winter game",
+        "A broken screen",
+        "Eating a lot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the power symbol look like?",
+      "options": [
+        "A circle with a line",
+        "A square",
+        "A star",
+        "A smiley face"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you touch the power cables?",
+      "options": [
+        "No, it is dangerous",
+        "Yes, always",
+        "Only with wet hands",
+        "Only if they are red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'surge protector'?",
+      "options": [
+        "Protects from electricity spikes",
+        "Protects from water",
+        "A type of game",
+        "A screen cleaner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sign In'?",
+      "options": [
+        "Entering your password",
+        "Writing your name on screen",
+        "Turning it on",
+        "Waving"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How long does it take to boot up?",
+      "options": [
+        "A few seconds or minutes",
+        "An hour",
+        "A second",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Standby'?",
+      "options": [
+        "Same as Sleep mode",
+        "Standing near computer",
+        "A game",
+        "Waiting for help"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer turn itself off?",
+      "options": [
+        "Yes, if programmed",
+        "No, never",
+        "Only if it's angry",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color is the power light usually?",
+      "options": [
+        "Green or Blue",
+        "Red",
+        "Black",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if it won't turn on?",
+      "options": [
+        "Check the plug and ask adult",
+        "Hit it",
+        "Cry",
+        "Throw water on it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to turn off by the wall switch?",
+      "options": [
+        "No, use the menu first",
+        "Yes, always",
+        "Only if fast",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does turning off save electricity?",
+      "options": [
+        "Yes",
+        "No",
+        "Only a little",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Power",
+      "answer": "Power"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Off",
+      "answer": "Off"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wait",
+      "answer": "Wait"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Ready",
+      "answer": "Ready"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Button",
+      "answer": "Button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Light",
+      "answer": "Light"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: On",
+      "answer": "On"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Go",
+      "answer": "Go"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stop",
+      "answer": "Stop"
+    }
+  ]
+}

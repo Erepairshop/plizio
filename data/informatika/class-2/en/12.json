@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Digital Stories",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a digital story?",
+      "options": [
+        "A story told on a computer",
+        "A story about a finger",
+        "A story you eat",
+        "A story made of rocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'character'?",
+      "options": [
+        "A person or animal in a story",
+        "A keyboard key only",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'setting'?",
+      "options": [
+        "Where the story happens",
+        "Turning off the computer",
+        "The computer stand",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a digital story have pictures?",
+      "options": [
+        "Yes, many",
+        "No, only words",
+        "Only black and white",
+        "Only one"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a digital story have sound?",
+      "options": [
+        "Yes, music and voices",
+        "No, always silent",
+        "Only if it is loud",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'E-book'?",
+      "options": [
+        "An electronic book",
+        "An empty book",
+        "An egg book",
+        "An easy book"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make your own digital story?",
+      "options": [
+        "Yes, with apps",
+        "No, only adults can",
+        "Only if you are a robot",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'animation'?",
+      "options": [
+        "Moving pictures",
+        "A type of food",
+        "A loud sound",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'plot'?",
+      "options": [
+        "What happens in the story",
+        "A small garden",
+        "A secret plan only",
+        "A type of mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a tablet to read stories?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'narrator'?",
+      "options": [
+        "The person telling the story",
+        "A type of enemy",
+        "A computer part",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can digital stories be interactive?",
+      "options": [
+        "Yes, you can click things",
+        "No, never",
+        "Only if they are boring",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'fairy tale'?",
+      "options": [
+        "A story with magic",
+        "A story about a tail",
+        "A true story",
+        "A broken book"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record your voice for a story?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you sing",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'storyboarding'?",
+      "options": [
+        "Planning the story with drawings",
+        "Sitting on a board",
+        "A type of game",
+        "Breaking a screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the ending of some digital stories?",
+      "options": [
+        "Yes, in some games/books",
+        "No, never",
+        "Only if it's bad",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'comic'?",
+      "options": [
+        "A story with panels and bubbles",
+        "A person who is funny",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can stories teach us things?",
+      "options": [
+        "Yes, lessons and facts",
+        "No, stories are for fun",
+        "Only if they are long",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'creativity'?",
+      "options": [
+        "Using your imagination",
+        "Being very fast",
+        "Being very loud",
+        "Following every rule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share your stories with family?",
+      "options": [
+        "Yes, online or showing them",
+        "No, stories are secret",
+        "Only if they are short",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'title'?",
+      "options": [
+        "The name of the story",
+        "The end of the story",
+        "A character's name only",
+        "A type of box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'author'?",
+      "options": [
+        "The person who wrote it",
+        "The person who read it",
+        "A type of bird",
+        "A computer part"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'illustrator'?",
+      "options": [
+        "The person who drew pictures",
+        "A type of car",
+        "A computer monitor",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can digital stories save paper?",
+      "options": [
+        "Yes, they don't use it",
+        "No, they use more",
+        "Only if they are short",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are digital stories fun to make?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Story",
+      "answer": "Story"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Book",
+      "answer": "Book"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tale",
+      "answer": "Tale"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Read",
+      "answer": "Read"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hero",
+      "answer": "Hero"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Page",
+      "answer": "Page"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: End",
+      "answer": "End"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Idea",
+      "answer": "Idea"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Once",
+      "answer": "Once"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Time",
+      "answer": "Time"
+    }
+  ]
+}

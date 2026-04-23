@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Weboldal",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a weboldal?",
+      "options": [
+        "Internet dokumentum",
+        "Papírlap",
+        "A billentyűzet",
+        "A szék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel nyitunk meg egy weboldalt?",
+      "options": [
+        "Böngészővel",
+        "Kalapáccsal",
+        "Tollal",
+        "Lámpával"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a weboldal címe?",
+      "options": [
+        "URL",
+        "ABC",
+        "123",
+        "SOS"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol található a menü?",
+      "options": [
+        "Általában felül",
+        "A billentyűzeten",
+        "A falon",
+        "Az egér alatt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha rákattintasz egy linkre?",
+      "options": [
+        "Új oldal nyílik meg",
+        "Kikapcsol a gép",
+        "Megszólal a zene",
+        "Kiesik az egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a keresőmező?",
+      "options": [
+        "Keresni az oldalon",
+        "Rajzolni",
+        "Aludni",
+        "Enni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fejléc?",
+      "options": [
+        "Az oldal felső része",
+        "A monitor széle",
+        "Az egér gombja",
+        "A szék támlája"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a lábléc?",
+      "options": [
+        "Az oldal alsó része",
+        "A gép lába",
+        "A cipőd",
+        "A szőnyeg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a tartalom?",
+      "options": [
+        "Az oldalon lévő információ",
+        "A doboz belseje",
+        "A táskád",
+        "Az uzsonnád"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy ismert kereső?",
+      "options": [
+        "Google",
+        "Alma",
+        "Répa",
+        "Kő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a kattintható képeket?",
+      "options": [
+        "Ikonok",
+        "Függönyök",
+        "Kavicsok",
+        "Felhők"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a görgetősáv?",
+      "options": [
+        "Az oldal mozgatására való",
+        "Egy fajta csokoládé",
+        "A billentyűzet része",
+        "Egy út"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan frissítjük az oldalt?",
+      "options": [
+        "F5 gombbal",
+        "Megütjük a gépet",
+        "Kinyitjuk az ablakot",
+        "Leöntjük vízzel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a weboldal nyelve?",
+      "options": [
+        "Gyakran HTML",
+        "Magyar és Angol",
+        "Kutya nyelv",
+        "Titkosírás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a betöltés?",
+      "options": [
+        "Az adatok megjelenése",
+        "A gép etetése",
+        "A tinta töltése",
+        "A szék emelése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Vissza' gomb?",
+      "options": [
+        "Az előző oldalra visz",
+        "Kikapcsolja a gépet",
+        "Törli a memóriát",
+        "Megfordítja a monitort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'Előre' gomb?",
+      "options": [
+        "A következő oldalra visz",
+        "Gyorsítja a gépet",
+        "Kinyitja a tálcát",
+        "A holnapba repít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kezdőlap?",
+      "options": [
+        "Az oldal főoldala",
+        "A házunk bejárata",
+        "A billentyűzet első gombja",
+        "A monitor sarka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jelöli a linket?",
+      "options": [
+        "Kék és aláhúzott",
+        "Piros és kör alakú",
+        "Láthatatlan",
+        "Barna"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az ikon?",
+      "options": [
+        "Kicsi kép",
+        "Nagy szobor",
+        "Egy dal",
+        "Egy gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelöljük a linket az egérrel?",
+      "options": [
+        "Kéz alakú lesz a mutató",
+        "Eltűnik a mutató",
+        "Villog a monitor",
+        "Megáll az egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hirdetés?",
+      "options": [
+        "Reklám az oldalon",
+        "Egy hír",
+        "A tanár szava",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a cookie (süti)?",
+      "options": [
+        "Kis adatfájl",
+        "Ehető édesség",
+        "A gép hűtője",
+        "Egy egérpad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a reszponzív oldal?",
+      "options": [
+        "Mobilra is jól illeszkedik",
+        "Nagyon okos",
+        "Gyorsan beszél",
+        "Sokat mozog"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a webdesign?",
+      "options": [
+        "Az oldal kinézete",
+        "A gép belseje",
+        "A kódolás",
+        "A táska színe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: oldal",
+      "answer": "oldal"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: link",
+      "answer": "link"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kattint",
+      "answer": "kattint"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: görget",
+      "answer": "görget"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: címsor",
+      "answer": "címsor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ikon",
+      "answer": "ikon"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: menü",
+      "answer": "menü"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kezdőlap",
+      "answer": "kezdőlap"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tartalom",
+      "answer": "tartalom"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: navigáció",
+      "answer": "navigáció"
+    }
+  ]
+}

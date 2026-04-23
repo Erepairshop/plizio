@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Rajzolás pontosabban",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Hogyan rajzolunk pontos kört?",
+      "options": [
+        "A Shift gombot nyomva tartva",
+        "Lassan mozgatva az egeret",
+        "Odafigyelve",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan rajzolunk egyenes vonalat?",
+      "options": [
+        "A Shift gombot nyomva tartva",
+        "Vonalzóval a monitoron",
+        "Csukott szemmel",
+        "Várva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Grid' (rács)?",
+      "options": [
+        "Segédvonalak a rajzoláshoz",
+        "Egy ablak",
+        "A monitor kosza",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Snap to grid'?",
+      "options": [
+        "Rácshoz illesztés",
+        "Rácson ugrálás",
+        "Rács törlése",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Zoom in'?",
+      "options": [
+        "Nagyítás",
+        "Kicsinyítés",
+        "Futás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk egy alakzatot?",
+      "options": [
+        "Ctrl+C és Ctrl+V",
+        "Újrarajzoljuk",
+        "Megkérjük a gépet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Fill color'?",
+      "options": [
+        "Kitöltő szín",
+        "Ceruza szín",
+        "Monitor szín",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Border weight'?",
+      "options": [
+        "Vonalvastagság",
+        "A gép súlya",
+        "A ceruza hossza",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e forgatni az alakzatot?",
+      "options": [
+        "Igen, a kör jelzésnél fogva",
+        "Nem",
+        "Csak a monitort fordítva",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Undo' a rajzban?",
+      "options": [
+        "Az utolsó vonal törlése",
+        "A monitor letörlése",
+        "Új lap",
+        "Kilépés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Group' (csoportosítás)?",
+      "options": [
+        "Alakzatok összekapcsolása",
+        "Barátkozás",
+        "Rajzolás többen",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan méretezünk arányosan?",
+      "options": [
+        "A sarokpontnál Shift-tel",
+        "Az oldalát húzva",
+        "Rázva az egeret",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Transparent'?",
+      "options": [
+        "Átlátszó",
+        "Nagyon fényes",
+        "Sötét kék",
+        "Üres"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Layer' (réteg)?",
+      "options": [
+        "Egymás feletti rajzlapok",
+        "A torta része",
+        "A gép háza",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan hozunk előre egy elemet?",
+      "options": [
+        "'Bring to front' parancsal",
+        "Kiabálunk neki",
+        "Sehogy",
+        "Újrarajzoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az ecset?",
+      "options": [
+        "Szabadkézi rajzhoz",
+        "Falfestéshez",
+        "Fogmosáshoz",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a radír?",
+      "options": [
+        "Hibák törlésére",
+        "Papír radírozására",
+        "A monitor karcolására",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Picker' (pipetta)?",
+      "options": [
+        "Szín kiválasztása a rajzról",
+        "Egy gyógyszer",
+        "Egy madár",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e szöveget írni a rajzba?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak tollal",
+        "Csak ha fekete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Gradient'?",
+      "options": [
+        "Színátmenet",
+        "Egy lépcső",
+        "Egy fajta ruha",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy ismert rajzprogram?",
+      "options": [
+        "Paint",
+        "Notepad",
+        "Calculator",
+        "Chrome"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentünk egy kész rajzot?",
+      "options": [
+        "Fájl -> Mentés",
+        "Kidobjuk a gépet",
+        "Lefényképezzük",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Outline'?",
+      "options": [
+        "Körvonal",
+        "Külvilág",
+        "Rajzlap",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan csinálunk tükörképet?",
+      "options": [
+        "'Flip' parancsal",
+        "Tükröt teszünk elé",
+        "Megfordítjuk a monitort",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a pontos rajzolás?",
+      "options": [
+        "Szép és szabályos ábrák készítésére",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vonal",
+      "answer": "vonal"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: alakzat",
+      "answer": "alakzat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szín",
+      "answer": "szín"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kör",
+      "answer": "kör"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: négyzet",
+      "answer": "négyzet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ecset",
+      "answer": "ecset"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: radír",
+      "answer": "radír"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kitöltés",
+      "answer": "kitöltés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vastagság",
+      "answer": "vastagság"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: geometria",
+      "answer": "geometria"
+    }
+  ]
+}

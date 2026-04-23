@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "What is a computer?",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Is a computer a living thing?",
+      "options": [
+        "No",
+        "Yes",
+        "Only when on",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a computer need to turn on?",
+      "options": [
+        "Electricity",
+        "Water",
+        "Food",
+        "Air"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part is the 'brain' of the computer?",
+      "options": [
+        "CPU",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you find a computer?",
+      "options": [
+        "Schools and homes",
+        "Only in space",
+        "Only in the ocean",
+        "Nowhere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can you do on a computer?",
+      "options": [
+        "Learn and play",
+        "Bake bread",
+        "Wash dishes",
+        "Sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "A laptop is a type of...",
+      "options": [
+        "Computer",
+        "Book",
+        "Car",
+        "Tree"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to see pictures on a computer?",
+      "options": [
+        "Screen",
+        "Keyboard",
+        "Cables",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer solve math problems?",
+      "options": [
+        "Yes, very fast",
+        "No, never",
+        "Only if it is raining",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a computer?",
+      "options": [
+        "Tablet",
+        "Pencil",
+        "Desk",
+        "Shoe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a smartphone a small computer?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for calls",
+        "No, it is a toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the physical part of the computer called?",
+      "options": [
+        "Hardware",
+        "Software",
+        "Tupperware",
+        "Glassware"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are the programs on a computer called?",
+      "options": [
+        "Software",
+        "Hardware",
+        "Storybooks",
+        "Music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part do we use to type letters?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Speaker",
+        "Webcam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we move the arrow on the screen?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Monitor",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to hear sound?",
+      "options": [
+        "Speakers",
+        "Screen",
+        "Mouse",
+        "Keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a computer faster than a person at math?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if the computer is broken?",
+      "options": [
+        "Ask an adult",
+        "Try to fix it with a hammer",
+        "Cry",
+        "Throw it away"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a computer to write a story?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you have a pen",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a small, portable computer called?",
+      "options": [
+        "Laptop",
+        "Tower",
+        "Big Box",
+        "Desk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does a computer have feelings?",
+      "options": [
+        "No",
+        "Yes",
+        "Only when it's happy",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call a computer you can carry in your hand?",
+      "options": [
+        "Smartphone",
+        "Desktop",
+        "TV",
+        "Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part stores your work?",
+      "options": [
+        "Hard drive",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What helps a computer stay cool?",
+      "options": [
+        "A fan",
+        "Water",
+        "Ice",
+        "A blanket"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you play games on a computer?",
+      "options": [
+        "Yes",
+        "No",
+        "Only once",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to talk to a computer?",
+      "options": [
+        "Microphone",
+        "Speaker",
+        "Monitor",
+        "Cables"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Computer",
+      "answer": "Computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Screen",
+      "answer": "Screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Brain",
+      "answer": "Brain"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Power",
+      "answer": "Power"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Work",
+      "answer": "Work"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Machine",
+      "answer": "Machine"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tech",
+      "answer": "Tech"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Laptop",
+      "answer": "Laptop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smart",
+      "answer": "Smart"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    }
+  ]
+}

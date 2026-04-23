@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Using a Tablet",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a tablet?",
+      "options": [
+        "A portable touch computer",
+        "A type of medicine only",
+        "A heavy desk",
+        "A big TV"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you click on a tablet?",
+      "options": [
+        "Tap with your finger",
+        "Click a mouse",
+        "Type a key",
+        "Blow on it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'swiping'?",
+      "options": [
+        "Moving finger across screen",
+        "Hitting the tablet",
+        "Cleaning it",
+        "Turning it off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'apps'?",
+      "options": [
+        "Programs on the tablet",
+        "Types of apples",
+        "Loud sounds",
+        "Broken screens"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does a tablet have a keyboard?",
+      "options": [
+        "Usually on-screen",
+        "No, never",
+        "Only in space",
+        "Only if it is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a tablet louder?",
+      "options": [
+        "Volume buttons",
+        "Shout at it",
+        "Tap faster",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a tablet take photos?",
+      "options": [
+        "Yes, with the camera",
+        "No, never",
+        "Only if it is big",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'charging' a tablet?",
+      "options": [
+        "Giving it power",
+        "Running with it",
+        "Cleaning it",
+        "Eating it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you play games on a tablet?",
+      "options": [
+        "Yes, many apps",
+        "No, only on TVs",
+        "Only if you are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Home' button for?",
+      "options": [
+        "Going to the main screen",
+        "Going to your house",
+        "Turning off power",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a tablet lighter than a laptop?",
+      "options": [
+        "Usually, yes",
+        "No, always heavier",
+        "They are the same",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'case' for?",
+      "options": [
+        "To protect the tablet",
+        "To hide it",
+        "To make it heavier",
+        "To store food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you watch movies on a tablet?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'pinching' on the screen?",
+      "options": [
+        "Zooming in or out",
+        "Hurting the tablet",
+        "Closing an app",
+        "Typing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you drop a tablet?",
+      "options": [
+        "No, it might break",
+        "Yes, it is fun",
+        "Only on the bed",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a tablet without internet?",
+      "options": [
+        "Yes, for some apps",
+        "No, never",
+        "Only in space",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'tilt' control in games?",
+      "options": [
+        "Moving the tablet itself",
+        "Clicking a button",
+        "Shouting",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw on a tablet?",
+      "options": [
+        "Yes, with your finger/pen",
+        "No, never",
+        "Only if it is grey",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a tablet a computer?",
+      "options": [
+        "Yes, a small one",
+        "No, it's a toy",
+        "Only if it has a mouse",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if it gets wet?",
+      "options": [
+        "Tell an adult immediately",
+        "Dry it with a hair dryer",
+        "Put it in water",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you read books on a tablet?",
+      "options": [
+        "Yes, e-books",
+        "No, only paper",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bluetooth'?",
+      "options": [
+        "Wireless connection to things",
+        "A blue tooth",
+        "A type of soda",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share a tablet with friends?",
+      "options": [
+        "Yes, take turns",
+        "No, it's mine",
+        "Only if they pay",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you turn it off completely?",
+      "options": [
+        "Hold the power button",
+        "Wait for it to die",
+        "Press Home ten times",
+        "Close eyes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are tablets great for learning?",
+      "options": [
+        "Yes, definitely!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tablet",
+      "answer": "Tablet"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Touch",
+      "answer": "Touch"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Swipe",
+      "answer": "Swipe"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: App",
+      "answer": "App"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pad",
+      "answer": "Pad"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Flat",
+      "answer": "Flat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Easy",
+      "answer": "Easy"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hand",
+      "answer": "Hand"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hold",
+      "answer": "Hold"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Glass",
+      "answer": "Glass"
+    }
+  ]
+}

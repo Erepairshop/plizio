@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Emailek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az e-mail?",
+      "options": [
+        "Elektronikus levél",
+        "Egy gyors autó",
+        "Egy fajta étel",
+        "A monitor neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi kell az e-mail küldéshez?",
+      "options": [
+        "E-mail cím",
+        "Bélyeg",
+        "Papír",
+        "Postás bácsi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy néz ki egy e-mail cím?",
+      "options": [
+        "név@példa.hu",
+        "név.példa.hu",
+        "www.név.hu",
+        "név-példa-hu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'kukac' jel?",
+      "options": [
+        "Elválasztja a nevet a tárhelytől",
+        "Egy állat",
+        "A billentyűzet hibája",
+        "Egy kanyar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Tárgy' mező?",
+      "options": [
+        "A levél rövid címe",
+        "Egy fizikai tárgy",
+        "A tanár kedvence",
+        "Egy doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Küldés'?",
+      "options": [
+        "A levél elindítása",
+        "A gép leállítása",
+        "A levél törlése",
+        "A monitor kikapcsolása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Beérkező levelek'?",
+      "options": [
+        "Ahol az új levelek vannak",
+        "Egy postaláda az utcán",
+        "A szemetes",
+        "A gép asztala"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Csatolmány'?",
+      "options": [
+        "Hozzáadott fájl (pl. kép)",
+        "A billentyűzet kábele",
+        "Egy lánc",
+        "A gép papírja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Spam'?",
+      "options": [
+        "Levélszemét",
+        "Egy finom sonka",
+        "Egy játék",
+        "Egy kód"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Válasz' gomb?",
+      "options": [
+        "Válaszolunk a levélre",
+        "Kérdezünk valamit",
+        "Töröljük a levelet",
+        "Bezárjuk az ablakot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Továbbítás'?",
+      "options": [
+        "Levél elküldése másnak is",
+        "A gép eltolása",
+        "Gyorsabb gépelés",
+        "A szék gurítása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Piszkozatok'?",
+      "options": [
+        "Még nem befejezett levelek",
+        "Szemét",
+        "Rajzok",
+        "Titkos levelek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki a címzett?",
+      "options": [
+        "Aki kapja a levelet",
+        "Aki írja a levelet",
+        "A postás",
+        "A gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Feladó'?",
+      "options": [
+        "Aki a levelet írta",
+        "Aki elolvasta",
+        "A számítógép",
+        "A monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad idegennek e-mailt írni?",
+      "options": [
+        "Csak felnőttel",
+        "Igen, bárkinek",
+        "Soha",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha furcsa e-mailt kapsz?",
+      "options": [
+        "Mutasd meg szüleidnek",
+        "Nyisd meg azonnal",
+        "Töröld le és sírj",
+        "Válaszolj csúnyán"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az e-mail jelszó?",
+      "options": [
+        "Titkos kód a belépéshez",
+        "A neved",
+        "A születésnapod",
+        "1234"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e képet küldeni e-mailben?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak fekete-fehéret",
+        "Csak ha süt a nap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a postafiók?",
+      "options": [
+        "Az e-mail tárolóhelye",
+        "Egy fadoboz",
+        "A gép memóriája",
+        "A monitor sarka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy e-mail szolgáltató?",
+      "options": [
+        "Gmail",
+        "Lego",
+        "Minecraft",
+        "Netflix"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Kuka' az e-mailben?",
+      "options": [
+        "Törölt levelek helye",
+        "Egy igazi kuka",
+        "A monitor alja",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan köszönünk el egy e-mailben?",
+      "options": [
+        "Üdvözlettel",
+        "Szia és puszi",
+        "Semmit nem írunk",
+        "Kikapcsoljuk a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vírust kapni e-mailben?",
+      "options": [
+        "Igen, ha rossz linkre kattintunk",
+        "Nem, soha",
+        "Csak ha beteg a gép",
+        "Csak télen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a CC (másolat)?",
+      "options": [
+        "Másnak is elmegy a levél",
+        "Egy fajta csoki",
+        "A gép neve",
+        "Másolás-beillesztés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való az e-mail?",
+      "options": [
+        "Üzenetküldésre",
+        "Játékra",
+        "Alvásra",
+        "Főzésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: levél",
+      "answer": "levél"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: üzenet",
+      "answer": "üzenet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: küldés",
+      "answer": "küldés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tárgy",
+      "answer": "tárgy"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: csatolmány",
+      "answer": "csatolmány"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: válasz",
+      "answer": "válasz"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kukac",
+      "answer": "kukac"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: címzett",
+      "answer": "címzett"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: postaláda",
+      "answer": "postaláda"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: spam",
+      "answer": "spam"
+    }
+  ]
+}

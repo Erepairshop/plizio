@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Sunet și video",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Unde auzim sunetul de la calculator?",
+      "options": [
+        "În boxe sau căști",
+        "Din monitor",
+        "Din mouse",
+        "Din tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum reglăm volumul?",
+      "options": [
+        "Din butoanele de volum sau din setări",
+        "Strigând 'Mai tare!'",
+        "Acoperind boxele",
+        "Scuturând mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Video'?",
+      "options": [
+        "O succesiune de imagini cu sunet",
+        "O singură poză",
+        "Un text lung",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum oprim un video pentru un moment?",
+      "options": [
+        "Apăsăm Pause",
+        "Închidem monitorul",
+        "Scoatem din priză",
+        "Așteptăm să se termine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a vorbi pe internet?",
+      "options": [
+        "Microfonul",
+        "Boxele",
+        "Mouse-ul",
+        "Imprimanta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde putem vedea clipuri video?",
+      "options": [
+        "Pe YouTube sau alte site-uri",
+        "Doar la televizor",
+        "Doar la cinema",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Mute'?",
+      "options": [
+        "Fără sunet (liniște)",
+        "Sunet foarte tare",
+        "Sunet de robot",
+        "O tastă de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Căștile sunt bune pentru că...",
+      "options": [
+        "Nu îi deranjăm pe alții",
+        "Se aude mai rău",
+        "Sunt colorate",
+        "Sunt grele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim un video?",
+      "options": [
+        "Apăsăm butonul Play",
+        "Îl privim fix",
+        "Suflăm în ecran",
+        "Așteptăm soarele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem asculta muzică la calculator?",
+      "options": [
+        "Da, prin diverse programe sau site-uri",
+        "Nu, doar radio există",
+        "Doar dacă cântăm noi",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Full Screen'?",
+      "options": [
+        "Video-ul ocupă tot ecranul",
+        "Ecranul se umple de apă",
+        "O tastă specială",
+        "Un tip de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Video-urile consumă mai mult internet?",
+      "options": [
+        "Da, decât pozele sau textul",
+        "Nu, deloc",
+        "Sunt gratuite mereu",
+        "Nu au nevoie de internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum sărim la o altă parte din video?",
+      "options": [
+        "Tragem de bara de progres",
+        "Strigăm la el",
+        "Închidem și deschidem",
+        "Nu se poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Podcast'?",
+      "options": [
+        "O emisiune audio pe care o asculți când vrei",
+        "Un tip de joc",
+        "O tastă",
+        "O prăjitură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem înregistra propriul video?",
+      "options": [
+        "Da, cu camera și microfonul",
+        "Nu, doar adulții au voie",
+        "Doar dacă suntem la TV",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt 'Subtitrările'?",
+      "options": [
+        "Textul tradus care apare jos",
+        "Numele filmului",
+        "Muzica de fundal",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e bine să nu ascultăm muzică prea tare în căști?",
+      "options": [
+        "Ne putem strica auzul",
+        "Se strică căștile",
+        "Se termină bateria",
+        "Nu se aude bine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite un video unui prieten?",
+      "options": [
+        "Da",
+        "Nu, e prea lung",
+        "Doar prin poștă",
+        "Doar prin vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Streaming'?",
+      "options": [
+        "Vizionarea video-ului în timp ce se descarcă",
+        "O apă curgătoare",
+        "Un robot",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunetul poate fi stereo?",
+      "options": [
+        "Da, se aude din două direcții",
+        "Nu, doar dintr-o parte",
+        "Doar în filme",
+        "Doar dacă avem boxe mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există boxe fără fir?",
+      "options": [
+        "Da (Bluetooth)",
+        "Nu, toate au fire",
+        "Doar cele magice",
+        "Doar cele din lemn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu se aude nimic?",
+      "options": [
+        "Verificăm volumul și conexiunile",
+        "Lovit boxele",
+        "Plângem",
+        "Închidem ochii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba viteza unui video?",
+      "options": [
+        "Da, mai lent sau mai rapid",
+        "Nu, e fixă",
+        "Doar dacă avem noroc",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place să asculți povești audio?",
+      "options": [
+        "Da",
+        "Nu",
+        "Uneori",
+        "Mai mult video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești pregătit pentru un film?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Aștept popcornul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: volum",
+      "answer": "volum"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: boxe",
+      "answer": "boxe"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: casti",
+      "answer": "casti"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: play",
+      "answer": "play"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: muzica",
+      "answer": "muzica"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: voce",
+      "answer": "voce"
+    }
+  ]
+}

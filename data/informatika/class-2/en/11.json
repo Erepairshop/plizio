@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Online Safety",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Should you share your password?",
+      "options": [
+        "No, keep it secret",
+        "Yes, with everyone",
+        "Only with friends",
+        "Only on your birthday"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who is it okay to share passwords with?",
+      "options": [
+        "Parents or teachers",
+        "Strangers",
+        "Anyone online",
+        "Nobody"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you see something scary?",
+      "options": [
+        "Tell a parent or teacher",
+        "Close your eyes",
+        "Cry",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you talk to strangers online?",
+      "options": [
+        "No, never",
+        "Yes, they are nice",
+        "Only if they have a cool avatar",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is your real name private?",
+      "options": [
+        "Yes, don't tell strangers",
+        "No, tell everyone",
+        "Only if you want",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'safe website'?",
+      "options": [
+        "One approved by parents",
+        "One that looks cool",
+        "Any website",
+        "A secret one"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share your address online?",
+      "options": [
+        "No, never",
+        "Yes, to get mail",
+        "Only if they ask",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'cyberbullying'?",
+      "options": [
+        "Being mean to others online",
+        "A type of robot",
+        "A game about bullying",
+        "A broken computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you be kind to others online?",
+      "options": [
+        "Yes, always",
+        "No, it doesn't matter",
+        "Only if they are kind",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'nickname' online?",
+      "options": [
+        "A made-up name to stay safe",
+        "A bad name",
+        "Your real name",
+        "A type of food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can people pretend to be someone else online?",
+      "options": [
+        "Yes, they can",
+        "No, never",
+        "Only in movies",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share your school name online?",
+      "options": [
+        "No, it's private",
+        "Yes, why not?",
+        "Only if you are proud",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do before clicking 'Buy'?",
+      "options": [
+        "Ask a parent",
+        "Just click it",
+        "Close the page",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'pop-up'?",
+      "options": [
+        "A window that appears suddenly",
+        "A type of toy",
+        "A loud sound",
+        "A broken mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you click on weird pop-ups?",
+      "options": [
+        "No, close them",
+        "Yes, click them",
+        "Only if they are shiny",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to share photos of yourself with strangers?",
+      "options": [
+        "No, be careful",
+        "Yes, if you look good",
+        "Only if they ask",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'privacy settings'?",
+      "options": [
+        "Tools to keep info safe",
+        "A game about secrets",
+        "A type of screen",
+        "Broken buttons"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who helps you stay safe online?",
+      "options": [
+        "Grown-ups you trust",
+        "The computer alone",
+        "A random kid",
+        "Nobody"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you meet an online stranger in real life?",
+      "options": [
+        "No, never",
+        "Yes, in a park",
+        "Only if they are nice",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'report' button?",
+      "options": [
+        "Used to tell on bad behavior",
+        "Used to print work",
+        "Used to start a game",
+        "Used to save"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet always safe?",
+      "options": [
+        "No, you must be careful",
+        "Yes, always",
+        "Only for kids",
+        "Only in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'digital footprint'?",
+      "options": [
+        "The trail you leave online",
+        "A shoe on the screen",
+        "A type of mouse",
+        "A broken file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you take back something you said online?",
+      "options": [
+        "Not really, it might stay",
+        "Yes, easily",
+        "Only with a teacher",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'think before you post'?",
+      "options": [
+        "Checking if it is kind and safe",
+        "Thinking about what to eat",
+        "Thinking about games",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is online safety important?",
+      "options": [
+        "Yes, very much",
+        "No",
+        "Only for adults",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Safe",
+      "answer": "Safe"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Rules",
+      "answer": "Rules"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stop",
+      "answer": "Stop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hide",
+      "answer": "Hide"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Secret",
+      "answer": "Secret"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tell",
+      "answer": "Tell"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Ask",
+      "answer": "Ask"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Guard",
+      "answer": "Guard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Safe",
+      "answer": "Safe"
+    }
+  ]
+}

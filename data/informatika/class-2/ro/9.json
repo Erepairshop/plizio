@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Pornirea și oprirea",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul?",
+      "options": [
+        "Apăsăm butonul de pornire (Power)",
+        "Strigăm la el",
+        "Îl scuturăm",
+        "Batem din palme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află butonul Power de obicei?",
+      "options": [
+        "Pe carcasă sau tastatură",
+        "Sub monitor",
+        "În interiorul mouse-ului",
+        "Pe cablu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă când pornim calculatorul?",
+      "options": [
+        "Se încarcă sistemul (Windows, etc)",
+        "Se face cafea",
+        "Se stinge lumina în casă",
+        "Apare un robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum oprim corect calculatorul?",
+      "options": [
+        "Start -> Shut down",
+        "Îl scoatem din priză direct",
+        "Ținem butonul Power apăsat lung (nu e bine mereu)",
+        "Îi punem o pătură pe el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce nu e bine să-l scoatem din priză brusc?",
+      "options": [
+        "Putem pierde date sau strica programe",
+        "Consumă mai mult curent",
+        "Se supără mouse-ul",
+        "Nu se întâmplă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Restart'?",
+      "options": [
+        "Calculatorul se oprește și pornește singur",
+        "Se șterge tot",
+        "Se schimbă ora",
+        "Se joacă un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Sleep' (Somn)?",
+      "options": [
+        "Calculatorul stă aprins, dar consumă puțin",
+        "Calculatorul sforăie",
+        "Calculatorul se închide de tot",
+        "Calculatorul visează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem lăsa calculatorul pornit mereu?",
+      "options": [
+        "E mai bine să-l oprim noaptea",
+        "Da, nu are nimic",
+        "Doar dacă avem internet",
+        "Doar dacă e nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Când calculatorul se încarcă, vedem de obicei...",
+      "options": [
+        "O animație sau o bară de progres",
+        "Doar negru",
+        "Un film",
+        "O poză cu noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă un program se blochează, ce facem?",
+      "options": [
+        "Încercăm să-l închidem sau dăm Restart",
+        "Lovit tastatura",
+        "Plângem",
+        "Aruncăm calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Log in'?",
+      "options": [
+        "Intrarea în contul nostru cu parolă",
+        "A tăia un lemn",
+        "A desena un cerc",
+        "A cânta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Avem nevoie de parolă la pornire?",
+      "options": [
+        "Uneori, pentru siguranță",
+        "Niciodată",
+        "Doar dacă e albastru",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu pornește?",
+      "options": [
+        "Verificăm dacă e în priză și cerem ajutor",
+        "Îl batem",
+        "Îl lăsăm așa un an",
+        "Îl aruncăm la gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp îi ia să pornească?",
+      "options": [
+        "Câteva secunde sau minute",
+        "O oră",
+        "O zi",
+        "O secundă fix"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim butonul Start în Windows?",
+      "options": [
+        "În colțul din stânga jos",
+        "În mijloc",
+        "În dreapta sus",
+        "Nu există"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Butonul de pornire are un simbol special?",
+      "options": [
+        "Un cerc cu o liniuță",
+        "O steluță",
+        "Un pătrat",
+        "O inimă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul are butonul lui de pornire?",
+      "options": [
+        "Da, de obicei separat",
+        "Nu, pornește singur mereu",
+        "Doar prin mouse",
+        "Doar prin voce"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Booting'?",
+      "options": [
+        "Procesul de pornire a calculatorului",
+        "A merge cu ghete",
+        "A juca fotbal",
+        "A mânca"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem opri calculatorul prin voce?",
+      "options": [
+        "Unele calculatoare moderne pot",
+        "Doar dacă strigăm tare",
+        "Nu, e imposibil",
+        "Doar în filme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să salvăm lucrul înainte de oprire?",
+      "options": [
+        "Da, obligatoriu!",
+        "Nu, se salvează singur mereu",
+        "Doar dacă vrem",
+        "Doar dacă e mult"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Update and Restart'?",
+      "options": [
+        "Se actualizează și se repornește",
+        "Se șterge tot și se pornește",
+        "Se face mai rapid",
+        "Se schimbă culoarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce se încălzește calculatorul?",
+      "options": [
+        "Piesele din interior muncesc",
+        "E soare afară",
+        "E bolnav",
+        "Are febră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem opri doar monitorul?",
+      "options": [
+        "Da, calculatorul rămâne pornit",
+        "Nu, se opresc amândouă",
+        "Doar dacă scoatem cablul",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă apare un mesaj de eroare la pornire?",
+      "options": [
+        "Chemăm un adult să ne ajute",
+        "Închidem monitorul",
+        "Apăsăm toate tastele",
+        "Îl lăsăm așa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Știi unde e butonul de pornire?",
+      "options": [
+        "Da",
+        "Nu",
+        "Poate",
+        "Nu sunt sigur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pornire",
+      "answer": "pornire"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: oprire",
+      "answer": "oprire"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: buton",
+      "answer": "buton"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: parola",
+      "answer": "parola"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cont",
+      "answer": "cont"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ecran",
+      "answer": "ecran"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: priza",
+      "answer": "priza"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: curent",
+      "answer": "curent"
+    }
+  ]
+}

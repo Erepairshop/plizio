@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Google Dokumentumok",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a Google Dokumentumok?",
+      "options": [
+        "Online szövegszerkesztő",
+        "Egy rajzprogram",
+        "Egy fajta étel",
+        "A monitor neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó ez a program?",
+      "options": [
+        "Írásra és szerkesztésre",
+        "Alvásra",
+        "Főzésre",
+        "Futásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kell-e mentés gombot nyomni?",
+      "options": [
+        "Nem, automatikusan ment",
+        "Igen, percenként",
+        "Csak ha kész vagyunk",
+        "Soha nem ment"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan hívunk meg másokat?",
+      "options": [
+        "A 'Megosztás' gombbal",
+        "Kiabálunk nekik",
+        "Levelet írunk papíron",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Kurzor'?",
+      "options": [
+        "A villogó jel, ahol írunk",
+        "Egy fajta állat",
+        "A monitor sarka",
+        "A billentyűzet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e képet betenni?",
+      "options": [
+        "Igen, az 'Beszúrás' menüvel",
+        "Nem",
+        "Csak ha fekete",
+        "Csak ha kicsi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Betűtípus'?",
+      "options": [
+        "A betűk stílusa",
+        "Egy fajta írógép",
+        "A monitor színe",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Félkövér' (B) gomb?",
+      "options": [
+        "Vastagabbá teszi a betűt",
+        "Kikerekíti a betűt",
+        "Törli a betűt",
+        "Kicsinyíti"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Dőlt' (I) gomb?",
+      "options": [
+        "Megdönti a betűket",
+        "Eldönti a monitort",
+        "Leállítja a gépet",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan változtatunk színt?",
+      "options": [
+        "A betűszín ikonnal (A)",
+        "Filctollal a monitoron",
+        "Sehogy",
+        "Vízfestékkel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Címsor'?",
+      "options": [
+        "Fontosabb, nagyobb szöveg",
+        "A monitor teteje",
+        "A billentyűzet neve",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Felsorolás'?",
+      "options": [
+        "Pontokba szedett lista",
+        "Számolás",
+        "Kiabálás",
+        "Üres lap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e táblázatot beszúrni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak papíron",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Középre igazítás'?",
+      "options": [
+        "A szöveg az oldal közepén lesz",
+        "A monitor eltolása",
+        "Az asztal középe",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Visszavonás' (Ctrl+Z)?",
+      "options": [
+        "Törli az utolsó hibát",
+        "Bezárja a gépet",
+        "Új lapot nyit",
+        "Rajzol egy kört"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a másolást?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a beillesztést?",
+      "options": [
+        "Ctrl+V",
+        "Ctrl+C",
+        "Ctrl+Z",
+        "Ctrl+S"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Megjegyzés'?",
+      "options": [
+        "Kis üzenet a szöveg mellett",
+        "Egy titok",
+        "A tanár jegye",
+        "A monitor kosza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet kinyomtatni?",
+      "options": [
+        "A nyomtató ikonnal",
+        "Ollóval",
+        "Lerajzolva",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Névtelen dokumentum'?",
+      "options": [
+        "Még nem adtunk neki címet",
+        "Titkos irat",
+        "Rossz irat",
+        "Üres lap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a Google Doksi?",
+      "options": [
+        "Kék lap ikon",
+        "Sárga kör",
+        "Zöld kocka",
+        "Piros szív"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e PDF-be menteni?",
+      "options": [
+        "Igen, a letöltésnél",
+        "Nem",
+        "Csak ha piros",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látszanak a többiek?",
+      "options": [
+        "Kis színes körökkel felül",
+        "Sehogy",
+        "Halljuk a hangjukat",
+        "Villog a monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Oldalszám'?",
+      "options": [
+        "A lapok számozása",
+        "A házszámunk",
+        "A korunk",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a Google Dokumentumok?",
+      "options": [
+        "Szövegek írására és megosztására",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: dokumentum",
+      "answer": "dokumentum"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: írás",
+      "answer": "írás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: gépelés",
+      "answer": "gépelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szerkesztés",
+      "answer": "szerkesztés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: megosztás",
+      "answer": "megosztás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: közös",
+      "answer": "közös"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mentés",
+      "answer": "mentés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: betűtípus",
+      "answer": "betűtípus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: címsor",
+      "answer": "címsor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vázlat",
+      "answer": "vázlat"
+    }
+  ]
+}

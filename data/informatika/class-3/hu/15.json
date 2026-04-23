@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Szöveg formázása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a formázás?",
+      "options": [
+        "A szöveg kinézetének módosítása",
+        "A gép darabolása",
+        "A szoba takarítása",
+        "Ebédelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikonnal vastagítunk?",
+      "options": [
+        "B",
+        "I",
+        "U",
+        "A"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikonnal döntünk?",
+      "options": [
+        "I",
+        "B",
+        "U",
+        "S"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikonnal húzunk alá?",
+      "options": [
+        "U",
+        "B",
+        "I",
+        "A"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan változtatunk betűméretet?",
+      "options": [
+        "A számok átírásával",
+        "Az egér rázásával",
+        "Kiabálással",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Font color'?",
+      "options": [
+        "Betűszín",
+        "Betű illat",
+        "Betű súly",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelölünk ki szöveget?",
+      "options": [
+        "Az egér bal gombját nyomva tartva",
+        "Ránézünk",
+        "Megütjük",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Highlight'?",
+      "options": [
+        "Kiemeli (színezi) a hátteret",
+        "Kikapcsolja a fényt",
+        "Magasra teszi a szöveget",
+        "Töröl"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a balra igazítás?",
+      "options": [
+        "A szöveg bal oldalon kezdődik",
+        "Eltoljuk a gépet balra",
+        "Balra nézünk",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a sorkizárás?",
+      "options": [
+        "A szöveg szélei egyenesek",
+        "Kizárjuk a sort a szobából",
+        "Becsukjuk az ablakot",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Bullet point'?",
+      "options": [
+        "Felsorolásjel (pont)",
+        "Egy golyó",
+        "Egy játék",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e sorszámozni?",
+      "options": [
+        "Igen, 1, 2, 3...",
+        "Nem",
+        "Csak betűvel",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Undo'?",
+      "options": [
+        "Visszavonás",
+        "Beillesztés",
+        "Másolás",
+        "Törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Redo'?",
+      "options": [
+        "Mégis végrehajtás",
+        "Újraírás",
+        "Kikapcsolás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a betűk stílusát?",
+      "options": [
+        "Betűtípus (Font family)",
+        "Betű jelmez",
+        "Betű álarc",
+        "Betű név"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'Indent'?",
+      "options": [
+        "Bekezdés behúzása",
+        "A monitor behorpadása",
+        "Fogtömés",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a sortávolság?",
+      "options": [
+        "A sorok közötti hely",
+        "A két gép közötti út",
+        "A tanár távolsága",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e nagybetűvé tenni mindent?",
+      "options": [
+        "Igen, külön funkcióval",
+        "Nem",
+        "Csak ha újraírjuk",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Clear formatting'?",
+      "options": [
+        "Alaphelyzetbe állítja a szöveget",
+        "Törli a szöveget",
+        "Kitisztítja a monitort",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a másolás?",
+      "options": [
+        "Másolás ikon vagy Ctrl+C",
+        "Törlés",
+        "X",
+        "V"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a beillesztés?",
+      "options": [
+        "Beillesztés ikon vagy Ctrl+V",
+        "C",
+        "Z",
+        "X"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e árnyékot adni a betűnek?",
+      "options": [
+        "Igen, prezentációban",
+        "Nem",
+        "Csak lámpával",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látszik a változás?",
+      "options": [
+        "Azonnal a monitoron",
+        "Csak nyomtatás után",
+        "Sehogy",
+        "Várni kell"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Strikethrough'?",
+      "options": [
+        "Áthúzott szöveg",
+        "Gyors szöveg",
+        "Erős szöveg",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a szöveg formázása?",
+      "options": [
+        "Hogy olvashatóbb és szebb legyen",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: félkövér",
+      "answer": "félkövér"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: dőlt",
+      "answer": "dőlt"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szín",
+      "answer": "szín"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: méret",
+      "answer": "méret"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: igazítás",
+      "answer": "igazítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: felsorolás",
+      "answer": "felsorolás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: bekezdés",
+      "answer": "bekezdés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kiemelés",
+      "answer": "kiemelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: aláhúzás",
+      "answer": "aláhúzás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: betű",
+      "answer": "betű"
+    }
+  ]
+}

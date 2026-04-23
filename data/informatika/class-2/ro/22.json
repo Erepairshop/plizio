@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Compunem muzică",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Poate un calculator să cânte?",
+      "options": [
+        "Da, prin programe și boxe",
+        "Nu, nu are voce",
+        "Doar dacă îi punem un radio înăuntru",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a auzi muzica?",
+      "options": [
+        "Boxe sau căști",
+        "Monitorul",
+        "Mouse-ul",
+        "Imprimanta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem compune muzică și dacă nu avem instrumente reale?",
+      "options": [
+        "Da, folosind instrumente virtuale",
+        "Nu, e imposibil",
+        "Doar dacă fluierăm",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește o notă muzicală pe calculator?",
+      "options": [
+        "Sunet (Sound/Note)",
+        "Cifră",
+        "Literă",
+        "Poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba instrumentul (pian, tobă, chitară)?",
+      "options": [
+        "Da, din setările programului",
+        "Nu, e mereu același sunet",
+        "Doar dacă cumpărăm alt calculator",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Ritm'?",
+      "options": [
+        "Bătăile regulate ale muzicii",
+        "O tastă",
+        "O culoare",
+        "Un tip de monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem înregistra vocea noastră peste muzică?",
+      "options": [
+        "Da, folosind microfonul",
+        "Nu, se strică muzica",
+        "Doar dacă strigăm tare",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Compozitor'?",
+      "options": [
+        "Persoana care creează muzica",
+        "O tastă",
+        "Un tip de mouse",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există jocuri unde compunem muzică?",
+      "options": [
+        "Da, sunt multe aplicații distractive",
+        "Nu, muzica nu e un joc",
+        "Doar pentru adulți",
+        "Doar în engleză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face muzică doar din 'blocuri' de cod?",
+      "options": [
+        "Da (ex: în Scratch)",
+        "Nu, codul e doar pentru roboți",
+        "Doar dacă suntem genii",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Volum'?",
+      "options": [
+        "Cât de tare sau încet se aude",
+        "Cât de mare e calculatorul",
+        "Câte melodii avem",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva melodia noastră?",
+      "options": [
+        "Da, ca un fișier audio (ex: mp3)",
+        "Nu, dispare când închidem",
+        "Doar dacă o filmăm",
+        "Doar dacă o scriem pe hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Tempo'?",
+      "options": [
+        "Viteza cu care se cântă muzica",
+        "O marcă de mașină",
+        "O tastă",
+        "Vremea de afară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea sunetul pe ecran?",
+      "options": [
+        "Da, ca niște valuri sau bare colorate",
+        "Nu, sunetul e invizibil mereu",
+        "Doar dacă punem ochelari",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pianul virtual se poate cânta la tastatură?",
+      "options": [
+        "Da, fiecare tastă poate fi o notă",
+        "Nu, trebuie să atingem monitorul",
+        "Doar cu mouse-ul",
+        "Doar dacă strigăm numele notei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Play'?",
+      "options": [
+        "Pornește muzica",
+        "O oprește",
+        "O șterge",
+        "O schimbă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dar butonul 'Stop'?",
+      "options": [
+        "Oprește muzica",
+        "O pornește",
+        "O face mai tare",
+        "O trimite la bunica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune muzica noastră într-un joc făcut de noi?",
+      "options": [
+        "Da",
+        "Nu, e prea greu",
+        "Doar dacă e scurtă",
+        "Doar dacă e rock"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muzica digitală este peste tot?",
+      "options": [
+        "Da, în filme, jocuri, reclame",
+        "Nu, doar la radio",
+        "Doar la școală",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numesc 'zgomotele' din muzică (ex: ploaie, pași)?",
+      "options": [
+        "Efecte sonore",
+        "Greșeli",
+        "Gălăgie",
+        "Tastări"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba înălțimea sunetului?",
+      "options": [
+        "Da, mai subțire sau mai gros",
+        "Nu, e fixă",
+        "Doar dacă suflăm în boxe",
+        "Doar dacă e mică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte note muzicale de bază sunt?",
+      "options": [
+        "7 (Do, Re, Mi...)",
+        "10",
+        "100",
+        "Milioane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muzica ne poate schimba starea de spirit?",
+      "options": [
+        "Da, ne poate face veseli sau liniștiți",
+        "Nu, e doar zgomot",
+        "Doar dacă e tare",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să compui un hit?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt gata să încep!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muzica la calculator este distractivă?",
+      "options": [
+        "Da, foarte!",
+        "Nu",
+        "Uneori",
+        "E grea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: muzica",
+      "answer": "muzica"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nota",
+      "answer": "nota"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pian",
+      "answer": "pian"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tobă",
+      "answer": "tobă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cant",
+      "answer": "cant"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ritm",
+      "answer": "ritm"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tare",
+      "answer": "tare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: incet",
+      "answer": "incet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: artist",
+      "answer": "artist"
+    }
+  ]
+}

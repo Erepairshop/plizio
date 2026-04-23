@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Scratch projektek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a Scratch?",
+      "options": [
+        "Programozási nyelv gyerekeknek",
+        "Egy fajta csoki",
+        "Egy macska neve",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a Scratch főszereplője?",
+      "options": [
+        "Egy narancssárga macska",
+        "Egy kutya",
+        "Egy robot",
+        "Egy alma"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan programozunk Scratch-ben?",
+      "options": [
+        "Blokkok összeillesztésével",
+        "Írással",
+        "Rajzolással",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Sprite'?",
+      "options": [
+        "Szereplő a projektben",
+        "Egy üdítő",
+        "A monitor pora",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Stage'?",
+      "options": [
+        "A színpad, ahol a szereplők mozognak",
+        "Egy buszmegálló",
+        "A konyha",
+        "A gép háza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a zöld zászló?",
+      "options": [
+        "Elindítja a programot",
+        "Kikapcsolja a gépet",
+        "Rajzol egy zászlót",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a piros nyolcszög?",
+      "options": [
+        "Megállítja a programot",
+        "Újraindítja",
+        "Töröl mindent",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozgatunk egy szereplőt?",
+      "options": [
+        "'Mozogj 10 lépést' blokkal",
+        "Kiabálunk neki",
+        "Megrázzuk az egeret",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Costume' (jelmez)?",
+      "options": [
+        "A szereplő kinézete",
+        "Egy farsangi ruha",
+        "A gép színe",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan adunk hangot a projekthez?",
+      "options": [
+        "'Hang lejátszása' blokkal",
+        "Mi énekelünk bele",
+        "Kihúzzuk a hangszórót",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Backdrop'?",
+      "options": [
+        "Háttér a színpadon",
+        "Egy függöny",
+        "A monitor sarka",
+        "Egy doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e saját szereplőt rajzolni?",
+      "options": [
+        "Igen, a rajzeszközzel",
+        "Nem",
+        "Csak papíron",
+        "Csak ha a tanár megengedi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Go to x:0 y:0'?",
+      "options": [
+        "A középpontba megy a szereplő",
+        "Elmegy a boltba",
+        "Eltűnik",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a blokkok színe?",
+      "options": [
+        "Különböző (kék: mozgás, sárga: esemény stb.)",
+        "Csak szürke",
+        "Csak fekete",
+        "Láthatatlan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy blokkot?",
+      "options": [
+        "Visszahúzzuk a menübe vagy Delete",
+        "Kidobjuk a monitort",
+        "Letöröljük vízzel",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Say Hello' blokk?",
+      "options": [
+        "Szövegbuborék jelenik meg",
+        "Megszólal a gép",
+        "Leírja a füzetbe",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e játékot készíteni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha felnőttek vagyunk",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Wait 1 second' blokk?",
+      "options": [
+        "Szünetet tart a program",
+        "Lassítja a netet",
+        "Kikapcsolja a gépet",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet megosztani a projektet?",
+      "options": [
+        "A 'Share' gombbal online",
+        "Postán küldve",
+        "Sehogy",
+        "Álomban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Project page'?",
+      "options": [
+        "A projekt oldala leírással",
+        "Egy könyv lapja",
+        "A monitor hátulja",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a Scratch alkotóit?",
+      "options": [
+        "Scratcherek",
+        "Programozók",
+        "Gyerekek",
+        "Mindenki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Turn 15 degrees'?",
+      "options": [
+        "Elforgatja a szereplőt",
+        "Megdönti a monitort",
+        "Körbefut",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Hide' blokk?",
+      "options": [
+        "Eltünteti a szereplőt",
+        "Bújócskát indít",
+        "Kikapcsolja a lámpát",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Show' blokk?",
+      "options": [
+        "Megjeleníti a szereplőt",
+        "Filmet vetít",
+        "Világít",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a Scratch?",
+      "options": [
+        "Kreatív programozásra és történetmesélésre",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szereplő",
+      "answer": "szereplő"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: háttér",
+      "answer": "háttér"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: blokk",
+      "answer": "blokk"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mozgás",
+      "answer": "mozgás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: indítás",
+      "answer": "indítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kód",
+      "answer": "kód"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: hang",
+      "answer": "hang"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: jelmez",
+      "answer": "jelmez"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: változó",
+      "answer": "változó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: interaktív",
+      "answer": "interaktív"
+    }
+  ]
+}

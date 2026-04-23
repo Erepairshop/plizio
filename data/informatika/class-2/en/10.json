@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Internet Basics",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the Internet?",
+      "options": [
+        "A huge network of computers",
+        "A type of food",
+        "A small box",
+        "A single wire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to go on the internet?",
+      "options": [
+        "A browser",
+        "A toaster",
+        "A pencil",
+        "A mirror"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'website'?",
+      "options": [
+        "A place on the internet",
+        "A spider's home",
+        "A type of paper",
+        "A monitor sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'WWW' stand for?",
+      "options": [
+        "World Wide Web",
+        "Who What Where",
+        "Wild Wet Water",
+        "Walk Wait Win"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'link'?",
+      "options": [
+        "Something you click to go to a page",
+        "A type of chain",
+        "A secret code",
+        "A broken computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'online'?",
+      "options": [
+        "Connected to the internet",
+        "Standing in a line",
+        "On top of a box",
+        "Drawing a line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Wi-Fi'?",
+      "options": [
+        "Wireless internet connection",
+        "A type of fruit",
+        "A high five",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'URL'?",
+      "options": [
+        "A website address",
+        "A person's name",
+        "A type of cat",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Google'?",
+      "options": [
+        "A search engine",
+        "A pair of glasses",
+        "A number only",
+        "A planet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you learn things on the internet?",
+      "options": [
+        "Yes, many things",
+        "No, only play",
+        "Only in space",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'email'?",
+      "options": [
+        "A digital letter",
+        "A fast bird",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'modem'?",
+      "options": [
+        "A device for internet",
+        "A type of car",
+        "A toy",
+        "A keyboard key"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'surfing' the web?",
+      "options": [
+        "Looking at websites",
+        "Swimming in the ocean",
+        "Cleaning the monitor",
+        "Jumping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet everywhere?",
+      "options": [
+        "In many places, yes",
+        "Only in one city",
+        "Only in the sky",
+        "No"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'password'?",
+      "options": [
+        "A secret word to stay safe",
+        "A word everyone knows",
+        "Your name",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you talk to friends on the internet?",
+      "options": [
+        "Yes, with messages",
+        "No, never",
+        "Only if they are near",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'browser' example?",
+      "options": [
+        "Chrome or Safari",
+        "Microsoft Word",
+        "Paint",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'downloading'?",
+      "options": [
+        "Getting files from internet",
+        "Turning off computer",
+        "Deleting work",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'uploading'?",
+      "options": [
+        "Sending files to internet",
+        "Lifting the monitor",
+        "Going upstairs",
+        "Saving"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet fast?",
+      "options": [
+        "Usually, yes",
+        "No, always slow",
+        "Only on Sundays",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'homepage'?",
+      "options": [
+        "The first page of a site",
+        "Your house",
+        "A game",
+        "The trash"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'tab' in a browser?",
+      "options": [
+        "A way to have multiple pages open",
+        "A type of soda",
+        "A keyboard key only",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'loading' a page mean?",
+      "options": [
+        "The computer is getting it",
+        "The page is broken",
+        "The computer is full",
+        "The mouse is stuck"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask before going online?",
+      "options": [
+        "Yes, always ask parents",
+        "No, just go",
+        "Only if it is night",
+        "Only if you are fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet magic?",
+      "options": [
+        "No, it's technology",
+        "Yes, pure magic",
+        "Only on birthdays",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Web",
+      "answer": "Web"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Link",
+      "answer": "Link"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Online",
+      "answer": "Online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Search",
+      "answer": "Search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Site",
+      "answer": "Site"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Net",
+      "answer": "Net"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: World",
+      "answer": "World"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Page",
+      "answer": "Page"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Find",
+      "answer": "Find"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Go",
+      "answer": "Go"
+    }
+  ]
+}

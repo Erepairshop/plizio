@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Feltétel és esemény",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az esemény?",
+      "options": [
+        "Valami, ami történik (pl. kattintás)",
+        "Egy buli",
+        "Egy rajz",
+        "A monitor fénye"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy esemény blokk?",
+      "options": [
+        "'When Green Flag clicked'",
+        "'Move 10 steps'",
+        "'Wait'",
+        "'Repeat'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a feltétel?",
+      "options": [
+        "Egy döntés (ha...)",
+        "Egy ígéret",
+        "A szoba fala",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a feltétel blokk?",
+      "options": [
+        "'If... then'",
+        "'Move'",
+        "'Sound'",
+        "'Say'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'If... then'?",
+      "options": [
+        "Ha igaz, akkor csináld",
+        "Ha esik, aludj",
+        "Nem tudom",
+        "Csináld mindig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'If... then... else'?",
+      "options": [
+        "Ha igaz csináld ezt, különben azt",
+        "Csak akkor csináld",
+        "Soha ne csináld",
+        "Aludj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az érzékelés (Sensing)?",
+      "options": [
+        "A gép észleli a környezetet (pl. érintést)",
+        "Szaglás",
+        "Látás a szemünkkel",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Példa feltételre a valóságban?",
+      "options": [
+        "Ha esik az eső, viszek esernyőt",
+        "Eszem",
+        "Alszom",
+        "Futok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'Edge' érintése?",
+      "options": [
+        "Észleli ha a szélhez ér a szereplő",
+        "Kiszakad a monitor",
+        "Megáll a gép",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Broadcast' (üzenet küldés)?",
+      "options": [
+        "Jelzés küldése másik szereplőnek",
+        "Rádiózás",
+        "TV nézés",
+        "Kiabálás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Wait until'?",
+      "options": [
+        "Vár, amíg valami nem teljesül",
+        "Vár egy percet",
+        "Soha nem vár",
+        "Kikapcsol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan irányítjuk billentyűvel?",
+      "options": [
+        "'When key pressed' eseménnyel",
+        "Ráütünk a gombra",
+        "Sehogy",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Boolean'?",
+      "options": [
+        "Igaz vagy hamis érték",
+        "Egy fajta gyümölcs",
+        "Egy játék",
+        "A gép kábele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik blokk hatszögletű?",
+      "options": [
+        "A feltétel (igaz/hamis)",
+        "A mozgás",
+        "A hang",
+        "A jelmez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Touching color'?",
+      "options": [
+        "Egy szín érintésének észlelése",
+        "Színfestés",
+        "Szemüveg",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több esemény egyszerre?",
+      "options": [
+        "Igen, pl. két gombnyomás",
+        "Nem",
+        "Csak ha nagy a gép",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítünk gombot?",
+      "options": [
+        "'When this sprite clicked' eseménnyel",
+        "Rajzolunk egy gombot a falra",
+        "Sehogy",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Ask and wait'?",
+      "options": [
+        "Kérdez valamit a gép",
+        "Vár a válaszra",
+        "Mindkettő",
+        "Egyik sem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'Answer' blokk?",
+      "options": [
+        "A megadott választ tárolja",
+        "A tanár válasza",
+        "A gép neve",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Distance to'?",
+      "options": [
+        "Távolság mérése",
+        "Súly mérése",
+        "Idő mérése",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a logikai operátor?",
+      "options": [
+        "És, Vagy, Nem",
+        "Összeadás",
+        "Osztás",
+        "Rajzolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'And' (És)?",
+      "options": [
+        "Mindkét dolognak igaznak kell lennie",
+        "Bármelyik lehet igaz",
+        "Semmi",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'Or' (Vagy)?",
+      "options": [
+        "Legalább az egyik legyen igaz",
+        "Mindkettő legyen igaz",
+        "Egyik se legyen igaz",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Not' (Nem)?",
+      "options": [
+        "Megfordítja az értéket",
+        "Törli az értéket",
+        "Nem csinál semmit",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a feltétel és esemény?",
+      "options": [
+        "Interaktív és okos programokhoz",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ha",
+      "answer": "ha"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: akkor",
+      "answer": "akkor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: érzékelés",
+      "answer": "érzékelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: érintés",
+      "answer": "érintés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: billentyű",
+      "answer": "billentyű"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: üzenet",
+      "answer": "üzenet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: esemény",
+      "answer": "esemény"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: válasz",
+      "answer": "válasz"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vezérlés",
+      "answer": "vezérlés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: logika",
+      "answer": "logika"
+    }
+  ]
+}

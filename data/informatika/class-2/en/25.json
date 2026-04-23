@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Final Summary",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a computer?",
+      "options": [
+        "A powerful electronic tool",
+        "A type of book only",
+        "A magic box",
+        "A toy only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What moves the arrow on screen?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Speaker",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Webcam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the 'brain' of the computer?",
+      "options": [
+        "CPU",
+        "Screen",
+        "Key",
+        "Cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet a big network?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for games",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you stay safe online?",
+      "options": [
+        "Yes, always",
+        "No, it's boring",
+        "Only at night",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'code'?",
+      "options": [
+        "Instructions for computer",
+        "A secret language only",
+        "A type of food",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw on a computer?",
+      "options": [
+        "Yes, with apps",
+        "No, never",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'robot'?",
+      "options": [
+        "A machine that follows code",
+        "A living person",
+        "A type of fruit",
+        "A magic toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you be kind online?",
+      "options": [
+        "Yes, use netiquette",
+        "No, be mean",
+        "Only if you win",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'saving'?",
+      "options": [
+        "Keeping your work for later",
+        "Spending money",
+        "Running fast",
+        "Deleting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'tablet'?",
+      "options": [
+        "A touch-screen computer",
+        "A type of paper",
+        "A monitor only",
+        "A broken game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make music on a computer?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you sing",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'apps'?",
+      "options": [
+        "Small programs",
+        "Types of apples",
+        "Loud noises",
+        "Broken keys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'animation'?",
+      "options": [
+        "Moving pictures",
+        "A static drawing",
+        "A loud shout",
+        "A type of food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask for help with computers?",
+      "options": [
+        "Yes, teachers and parents",
+        "No, do everything alone",
+        "Only if you cry",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'password'?",
+      "options": [
+        "A secret to stay safe",
+        "A public word",
+        "Your real name",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'typing'?",
+      "options": [
+        "Writing with a keyboard",
+        "Drawing with a mouse",
+        "Singing",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the computer a useful tool?",
+      "options": [
+        "Yes, very!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'cursor'?",
+      "options": [
+        "The pointer on screen",
+        "A type of bird",
+        "A game enemy",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you learn to code?",
+      "options": [
+        "Yes, definitely!",
+        "No, too young",
+        "Only if you are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'link'?",
+      "options": [
+        "Clickable part of website",
+        "A type of chain",
+        "A broken computer",
+        "A secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you take breaks from screen?",
+      "options": [
+        "Yes, rest your eyes",
+        "No, play forever",
+        "Only if it is dark",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'folder' used for?",
+      "options": [
+        "Organizing files",
+        "Playing music",
+        "Drawing",
+        "Eating"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are you an IT expert now?",
+      "options": [
+        "I am learning fast!",
+        "No",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: IT",
+      "answer": "IT"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Done",
+      "answer": "Done"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Great",
+      "answer": "Great"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Super",
+      "answer": "Super"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Final",
+      "answer": "Final"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Best",
+      "answer": "Best"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Win",
+      "answer": "Win"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Learn",
+      "answer": "Learn"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wow",
+      "answer": "Wow"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: End",
+      "answer": "End"
+    }
+  ]
+}

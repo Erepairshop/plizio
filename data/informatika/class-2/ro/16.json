@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Culori și forme",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Care sunt culorile primare pe ecran?",
+      "options": [
+        "Roșu, Verde, Albastru (RGB)",
+        "Galben, Roșu, Albastru",
+        "Alb și Negru",
+        "Toate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are un pixel?",
+      "options": [
+        "De obicei un pătrat foarte mic",
+        "Un cerc",
+        "Un triunghi",
+        "O inimă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem culoarea gri?",
+      "options": [
+        "Amestecăm alb și negru",
+        "Amestecăm roșu și verde",
+        "Punem mult albastru",
+        "Nu se poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are ecranul tabletei?",
+      "options": [
+        "Dreptunghiulară",
+        "Rotundă",
+        "Ovală",
+        "Triunghiulară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte culori poate arăta un calculator modern?",
+      "options": [
+        "Milioane",
+        "Doar 10",
+        "Fix 256",
+        "O sută"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'cerc' pe ecran?",
+      "options": [
+        "O formă rotundă",
+        "O formă cu 4 colțuri",
+        "O linie dreaptă",
+        "Un punct"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea fundalului?",
+      "options": [
+        "Da, aproape în orice program",
+        "Nu, e mereu alb",
+        "Doar dacă vopsim monitorul",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'pătrat'?",
+      "options": [
+        "O formă cu 4 laturi egale",
+        "O formă rotundă",
+        "O stea",
+        "O linie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește culoarea 'mov' în engleză (deseori pe calculator)?",
+      "options": [
+        "Purple",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena forme transparente?",
+      "options": [
+        "Da, dacă programul permite",
+        "Nu, totul e plin",
+        "Doar dacă sunt albe",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are de obicei pictograma unui folder?",
+      "options": [
+        "Dreptunghiulară (ca un dosar)",
+        "Rotundă",
+        "Stea",
+        "Inimă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem o culoare mai deschisă?",
+      "options": [
+        "Adăugăm alb (sau mărim luminozitatea)",
+        "Adăugăm negru",
+        "O ștergem",
+        "Suflăm în ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există monitoare alb-negru?",
+      "options": [
+        "Au existat demult, acum sunt rare",
+        "Nu au existat niciodată",
+        "Toate sunt așa",
+        "Doar cele din lemn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'triunghi'?",
+      "options": [
+        "O formă cu 3 laturi",
+        "O formă cu 5 colțuri",
+        "Un cerc tăiat",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se simte o culoare 'caldă' (ex: roșu, galben)?",
+      "options": [
+        "Veselă și energică",
+        "Tristă și rece",
+        "Plictisitoare",
+        "Nu se simte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dar o culoare 'rece' (ex: albastru)?",
+      "options": [
+        "Liniștită și calmă",
+        "Foarte caldă",
+        "Gălăgioasă",
+        "Invizibilă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'contrastul'?",
+      "options": [
+        "Diferența dintre culori (ex: alb pe negru)",
+        "Un tip de joc",
+        "O tastă",
+        "Mărimea monitorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena o stea?",
+      "options": [
+        "Da, există instrumente pentru poligoane",
+        "Nu, e prea greu",
+        "Doar pe cer",
+        "Doar cu creionul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare are butonul 'Close' (Închide) de obicei?",
+      "options": [
+        "Roșu",
+        "Verde",
+        "Albastru",
+        "Galben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dar butonul 'OK'?",
+      "options": [
+        "Adesea verde sau albastru",
+        "Mereu negru",
+        "Invizibil",
+        "Roz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem amesteca culorile digital?",
+      "options": [
+        "Da, în paleta de culori",
+        "Nu, sunt fixe",
+        "Doar dacă le pictăm real",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'opac'?",
+      "options": [
+        "Culoare plină, prin care nu se vede",
+        "Culoare transparentă",
+        "Ceva stricat",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'gradient'?",
+      "options": [
+        "Trecerea lină de la o culoare la alta",
+        "O pantă reală",
+        "Un robot",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este culoarea ta preferată pe ecran?",
+      "options": [
+        "Toate!",
+        "Albastru",
+        "Verde",
+        "Roșu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Culorile ne fac viața mai frumoasă?",
+      "options": [
+        "Da, absolut!",
+        "Nu contează",
+        "Uneori",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rosu",
+      "answer": "rosu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: verde",
+      "answer": "verde"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mov",
+      "answer": "mov"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: roz",
+      "answer": "roz"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: gri",
+      "answer": "gri"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: albastru",
+      "answer": "albastru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: galben",
+      "answer": "galben"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stea",
+      "answer": "stea"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cerc",
+      "answer": "cerc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: patrat",
+      "answer": "patrat"
+    }
+  ]
+}

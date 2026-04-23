@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Digitális eszközök összehasonlítása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Melyik a legnagyobb eszköz?",
+      "options": [
+        "Asztali gép",
+        "Mobiltelefon",
+        "Tablet",
+        "Okosóra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik hordozható?",
+      "options": [
+        "Laptop",
+        "Asztali gép",
+        "Hűtőszekrény",
+        "Zongora"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel írunk?",
+      "options": [
+        "Billentyűzettel",
+        "Egérrel",
+        "Monitorral",
+        "Hangszóróval"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyiknek van érintőképernyője?",
+      "options": [
+        "Tablet",
+        "Régi monitor",
+        "Billentyűzet",
+        "Egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a monitor?",
+      "options": [
+        "Hogy lássuk a képet",
+        "Hogy gépeljünk",
+        "Hogy halljuk a hangot",
+        "Hogy kattintsunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az egér?",
+      "options": [
+        "Kattintásra és mozgatásra",
+        "Gépelésre",
+        "Hallgatásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a laptop?",
+      "options": [
+        "Összecsukható gép",
+        "Egy fajta asztal",
+        "Egy táska",
+        "Egy könyv"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kicsi és elfér a zsebben?",
+      "options": [
+        "Okostelefon",
+        "Laptop",
+        "Monitor",
+        "Nyomtató"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a nyomtató?",
+      "options": [
+        "Papírra írni a gépről",
+        "Rajzolni a monitorra",
+        "Zenét hallgatni",
+        "Főzni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hangszóró feladata?",
+      "options": [
+        "Hangot ad ki",
+        "Képet mutat",
+        "Betűket ír",
+        "Szelet fúj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a mikrofon feladata?",
+      "options": [
+        "Hangot vesz fel",
+        "Hangot ad ki",
+        "Képet mutat",
+        "Világít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a webkamera?",
+      "options": [
+        "Képet készít rólunk",
+        "Oldalakat néz",
+        "Egeret mozgat",
+        "Gépel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gépnek nincs akkumulátora?",
+      "options": [
+        "Asztali gép",
+        "Laptop",
+        "Tablet",
+        "Telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a pendrive?",
+      "options": [
+        "Adattároló eszköz",
+        "Egy fajta toll",
+        "Egy játék",
+        "A monitor gombja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközön lehet játszani?",
+      "options": [
+        "Mindegyiken",
+        "Csak az órán",
+        "Csak a hűtőn",
+        "Sehol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a touchpad?",
+      "options": [
+        "Laptopon lévő egérhelyettesítő",
+        "Egy fajta párna",
+        "A monitor sarka",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyiknek van legnagyobb memóriája?",
+      "options": [
+        "Asztali gép általában",
+        "Okosóra",
+        "Számológép",
+        "Távirányító"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a processzor?",
+      "options": [
+        "A gép agya",
+        "A gép lába",
+        "A gép szeme",
+        "A gép színe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a tablet?",
+      "options": [
+        "Tanulásra és játékra kézben",
+        "Kalapálásra",
+        "Vágódeszkának",
+        "Tükörnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gép bírja legtovább töltés nélkül?",
+      "options": [
+        "Változó, de gyakran a tablet",
+        "Asztali gép",
+        "Lámpa",
+        "Hajszárító"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hardver?",
+      "options": [
+        "A gép fizikai részei",
+        "A gép programjai",
+        "A gép neve",
+        "A gép ára"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a szoftver?",
+      "options": [
+        "A gép programjai",
+        "A gép háza",
+        "A billentyűzet",
+        "Az egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközön van billentyűzet?",
+      "options": [
+        "Laptop és asztali gép",
+        "Csak a monitoron",
+        "Csak a székben",
+        "Sehol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az okosóra?",
+      "options": [
+        "Csuklón hordható gép",
+        "Egy nagyon okos ember",
+        "Egy beszélő óra",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a digitális eszköz?",
+      "options": [
+        "Sokféle feladatra",
+        "Csak dísznek",
+        "Csak alváshoz",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: laptop",
+      "answer": "laptop"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tablet",
+      "answer": "tablet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mobil",
+      "answer": "mobil"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: monitor",
+      "answer": "monitor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: egér",
+      "answer": "egér"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: billentyűzet",
+      "answer": "billentyűzet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: akku",
+      "answer": "akku"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: processzor",
+      "answer": "processzor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: memória",
+      "answer": "memória"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: eszköz",
+      "answer": "eszköz"
+    }
+  ]
+}

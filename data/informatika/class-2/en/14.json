@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Introduction to Programming",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is programming?",
+      "options": [
+        "Giving instructions to computer",
+        "Watching a movie",
+        "Playing a song",
+        "Drawing a picture"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the instructions?",
+      "options": [
+        "Code",
+        "Stories",
+        "Songs",
+        "Letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'sequence'?",
+      "options": [
+        "Steps in a certain order",
+        "A type of bug",
+        "A loud sound",
+        "A color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'bug' in code?",
+      "options": [
+        "A mistake",
+        "A real insect",
+        "A computer part",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'debugging'?",
+      "options": [
+        "Fixing mistakes",
+        "Finding spiders",
+        "Starting over",
+        "Turning off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'loop'?",
+      "options": [
+        "Something that repeats",
+        "A circle drawing",
+        "A broken instruction",
+        "A jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can computers think for themselves?",
+      "options": [
+        "No, they follow code",
+        "Yes, always",
+        "Only on birthdays",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'command'?",
+      "options": [
+        "A single instruction",
+        "A type of robot",
+        "A game score",
+        "A button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'algorithm'?",
+      "options": [
+        "A step-by-step plan",
+        "A type of math only",
+        "A computer name",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is programming hard?",
+      "options": [
+        "It can be learned",
+        "Yes, impossible",
+        "Only for robots",
+        "No, it's a joke"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'programmer'?",
+      "options": [
+        "A person who writes code",
+        "A computer monitor",
+        "A type of mouse",
+        "A game player"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you code with blocks?",
+      "options": [
+        "Yes, block-based coding",
+        "No, only words",
+        "Only if you are a baby",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Move Forward' block do?",
+      "options": [
+        "Moves character ahead",
+        "Moves character back",
+        "Makes character jump",
+        "Does nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'condition' (If-Then)?",
+      "options": [
+        "Do something if true",
+        "A type of weather",
+        "A broken code",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is order important in code?",
+      "options": [
+        "To get the right result",
+        "It isn't important",
+        "To make it pretty",
+        "To save time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can programming make games?",
+      "options": [
+        "Yes, definitely",
+        "No, only math",
+        "Only if you are rich",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'variable'?",
+      "options": [
+        "A place to store information",
+        "A type of weather",
+        "A keyboard key",
+        "A broken mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'language' in coding?",
+      "options": [
+        "A way to talk to computers",
+        "English or French",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can kids learn to code?",
+      "options": [
+        "Yes, definitely!",
+        "No, too young",
+        "Only if they are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'logic'?",
+      "options": [
+        "Thinking in a clear way",
+        "A type of music",
+        "A computer part",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if code is wrong?",
+      "options": [
+        "It doesn't work right",
+        "The computer explodes",
+        "It turns green",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'syntax error'?",
+      "options": [
+        "A mistake in the 'writing'",
+        "A loud sound",
+        "A broken screen",
+        "A game win"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you code a robot?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the goal of a program?",
+      "options": [
+        "To solve a problem",
+        "To look pretty",
+        "To make noise",
+        "To use power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is coding a superpower?",
+      "options": [
+        "Kind of, yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Code",
+      "answer": "Code"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Step",
+      "answer": "Step"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Plan",
+      "answer": "Plan"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Path",
+      "answer": "Path"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Goal",
+      "answer": "Goal"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Run",
+      "answer": "Run"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Done",
+      "answer": "Done"
+    }
+  ]
+}

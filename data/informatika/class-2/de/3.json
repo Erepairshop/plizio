@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Ordner und Dateien",
+  "theme": "Monitor",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 1)",
+      "question": "Was macht der Monitor?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 2)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 3)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Er zeigt uns Bilder und Texte",
+        "Er druckt Papier",
+        "Er macht Musik",
+        "Er kocht Kaffee"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 4)",
+      "question": "Wie nennt man den Monitor noch?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 5)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 6)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Bildschirm",
+        "Fenster",
+        "Spiegel",
+        "Glasplatte"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 7)",
+      "question": "Darf man fest auf den Monitor drücken?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 8)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 9)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Nein, er kann kaputt gehen",
+        "Ja, das macht Spaß",
+        "Nur mit dem Stift",
+        "Nur wenn er aus ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 10)",
+      "question": "Was sind Pixel?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 11)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 12)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Winzige Punkte, aus denen das Bild besteht",
+        "Kleine Käfer im PC",
+        "Die Tasten an der Maus",
+        "Süßigkeiten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 13)",
+      "question": "Warum sollte man nicht zu nah am Monitor sitzen?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 14)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 15)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Es ist schlecht für die Augen",
+        "Man sieht dann nichts",
+        "Der Monitor wird schmutzig",
+        "Er beißt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 16)",
+      "question": "Wie schaltet man den Monitor aus?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 17)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 18)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Mit seinem eigenen Knopf",
+        "Durch Pusten",
+        "Durch Klatschen",
+        "Mit der Maus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 19)",
+      "question": "Was bedeutet 'Auflösung'?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 20)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 21)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Wie scharf das Bild ist",
+        "Wie laut der Ton ist",
+        "Wie schwer der Monitor ist",
+        "Wie alt er ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 22)",
+      "question": "Kann ein Monitor Farben zeigen?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 23)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 24)",
-      "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Ja, Millionen Farben",
+        "Nein, nur Schwarz-Weiß",
+        "Nur Rot und Blau",
+        "Nur am Wochenende"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Ordner und Dateien? (Frage 25)",
+      "question": "Was ist ein Touchscreen?",
       "options": [
-        "Option A für Ordner und Dateien",
-        "Option B für Ordner und Dateien",
-        "Option C für Ordner und Dateien"
+        "Ein Monitor, den man berühren kann",
+        "Ein Monitor zum Kuscheln",
+        "Ein kaputter Schirm",
+        "Ein Spiegel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo stehen meistens die Knöpfe am Monitor?",
+      "options": [
+        "Unten oder an der Seite",
+        "Oben auf dem Dach",
+        "Hinten am Kabel",
+        "Gibt keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht der Monitor Strom?",
+      "options": [
+        "Ja, er hat ein Kabel",
+        "Nein, er leuchtet von allein",
+        "Er braucht Batterien",
+        "Er braucht Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Gehäuse des Monitors?",
+      "options": [
+        "Der Rahmen außen herum",
+        "Das Bild innen",
+        "Das Glas",
+        "Der Standfuß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum spiegelt manche Monitore?",
+      "options": [
+        "Wegen der Glasoberfläche",
+        "Weil ein Geist drin wohnt",
+        "Weil sie sauber sind",
+        "Weil sie neu sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie putzt man einen Monitor?",
+      "options": [
+        "Mit einem weichen Tuch",
+        "Mit viel Wasser",
+        "Mit Seife",
+        "Mit Sand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Standfuß?",
+      "options": [
+        "Hält den Monitor fest auf dem Tisch",
+        "Ein Schuh für den PC",
+        "Ein Kabel",
+        "Ein Lautsprecher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Monitore flach sein?",
+      "options": [
+        "Ja, fast alle modernen Monitore sind flach",
+        "Nein, sie sind immer rund",
+        "Nur im Fernsehen",
+        "Nur in der Zukunft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum leuchtet der Monitor?",
+      "options": [
+        "Er hat ein Licht eingebaut",
+        "Weil er Sonne tankt",
+        "Weil er heiß ist",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn der Monitor aus ist?",
+      "options": [
+        "Alles wird schwarz",
+        "Er zeigt ein Standbild",
+        "Er spielt Musik",
+        "Er wird unsichtbar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man zwei Monitore an einen PC anschließen?",
+      "options": [
+        "Ja, das geht oft",
+        "Nein, immer nur einer",
+        "Nur bei Laptops",
+        "Nur bei Tablets"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie groß ist ein Monitor?",
+      "options": [
+        "Unterschiedlich, meistens wie ein kleiner Fernseher",
+        "Immer gleich groß",
+        "So groß wie ein Haus",
+        "So klein wie eine Ameise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo schließt man den Monitor an?",
+      "options": [
+        "An der Grafikkarte des Computers",
+        "An der Maus",
+        "An der Tastatur",
+        "An der Lampe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Bildschirmschoner?",
+      "options": [
+        "Ein Bild, das erscheint, wenn man nichts tut",
+        "Eine Schutzhülle aus Plastik",
+        "Ein Putzmittel",
+        "Ein Helm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auf dem Monitor Filme sehen?",
+      "options": [
+        "Ja, natürlich",
+        "Nein, nur Texte",
+        "Nur Standbilder",
+        "Nur wenn man bezahlt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein LCD?",
+      "options": [
+        "Eine Art von Bildschirm",
+        "Ein Getränk",
+        "Ein Spiel",
+        "Ein Buchstabe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist der Monitor wichtig?",
+      "options": [
+        "Ohne ihn wüssten wir nicht, was der PC macht",
+        "Er ist nur Deko",
+        "Er hält den Tisch fest",
+        "Er wärmt das Zimmer"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 1"
+      "question": "Tippe ein: Monitor",
+      "answer": "Monitor"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 2"
+      "question": "Tippe ein: Bildschirm",
+      "answer": "Bildschirm"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 3"
+      "question": "Tippe ein: Pixel",
+      "answer": "Pixel"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 4"
+      "question": "Tippe ein: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 5"
+      "question": "Tippe ein: Licht",
+      "answer": "Licht"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 6"
+      "question": "Tippe ein: Scharf",
+      "answer": "Scharf"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 7"
+      "question": "Tippe ein: Flach",
+      "answer": "Flach"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 8"
+      "question": "Tippe ein: Rahmen",
+      "answer": "Rahmen"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 9"
+      "question": "Tippe ein: Glas",
+      "answer": "Glas"
     },
     {
       "type": "typing",
-      "text": "Ordner und Dateien ist toll 10"
+      "question": "Tippe ein: An",
+      "answer": "An"
     }
   ]
 }

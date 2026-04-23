@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Zahlen-Tasten",
+  "theme": "Buchstaben tippen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 1)",
+      "question": "Wie nennt man das Schreiben am Computer?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 2)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 3)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Tippen",
+        "Hämmern",
+        "Malen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 4)",
+      "question": "Wo liegen die Buchstaben auf der Tastatur?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 5)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 6)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Im großen Mittelfeld",
+        "Ganz oben bei den Zahlen",
+        "Nur auf der Maus",
+        "Unten links"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 7)",
+      "question": "Mit welcher Taste macht man eine Lücke zwischen Wörtern?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 8)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 9)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Leertaste (Space)",
+        "Enter",
+        "Shift",
+        "Backspace"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 10)",
+      "question": "Wie schreibt man ein großes 'A'?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 11)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 12)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Shift + a",
+        "Einfach fest drücken",
+        "Enter + a",
+        "Rechtsklick"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 13)",
+      "question": "Welche Taste löscht einen falschen Buchstaben?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 14)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 15)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Backspace (Rücktaste)",
+        "Leertaste",
+        "Enter",
+        "Shift"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 16)",
+      "question": "Was passiert, wenn man Enter drückt?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 17)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 18)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Man springt in eine neue Zeile",
+        "Der PC geht aus",
+        "Man macht eine Lücke",
+        "Alles wird gelöscht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 19)",
+      "question": "Wie schreibt man Zahlen?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 20)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 21)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "In der obersten Zeile oder am Nummernblock",
+        "Mit der Maus",
+        "Man muss sie malen",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 22)",
+      "question": "Welcher Finger ist für die Leertaste am besten?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 23)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 24)",
-      "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Der Daumen",
+        "Der kleine Finger",
+        "Der Zeigefinger",
+        "Die Nase"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zahlen-Tasten? (Frage 25)",
+      "question": "Was ist die Caps Lock Taste?",
       "options": [
-        "Option A für Zahlen-Tasten",
-        "Option B für Zahlen-Tasten",
-        "Option C für Zahlen-Tasten"
+        "Feststelltaste für alles groß",
+        "Taste zum Löschen",
+        "Taste für Musik",
+        "Schlaf-Modus"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woher weiß man, wo man gerade schreibt?",
+      "options": [
+        "Am blinkenden Strich (Cursor)",
+        "Die Tastatur leuchtet dort",
+        "Man muss raten",
+        "Der Monitor wackelt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Finger sollte man eigentlich benutzen?",
+      "options": [
+        "Alle zehn",
+        "Nur zwei",
+        "Nur einen",
+        "Die ganze Hand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch 'Ä', 'Ö' und 'Ü' schreiben?",
+      "options": [
+        "Ja, sie haben eigene Tasten",
+        "Nein, das gibt es nicht",
+        "Nur mit dem Pinsel",
+        "Nur auf Englisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'QWERTZ'-Layout?",
+      "options": [
+        "Die Anordnung der Buchstaben auf Deutsch",
+        "Ein Geheimcode",
+        "Ein Spiel",
+        "Ein Name für einen PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man zu fest auf die Tasten haut?",
+      "options": [
+        "Sie können kaputt gehen",
+        "Man schreibt schneller",
+        "Es wird lauter im PC",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man einen Punkt am Ende vom Satz?",
+      "options": [
+        "Mit der Punkt-Taste (rechts unten)",
+        "Mit der Leertaste",
+        "Mit dem Cursor",
+        "Durch Rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Tasten für Satzzeichen wie Komma?",
+      "options": [
+        "Ja, meistens neben dem Punkt",
+        "Nein, nur Buchstaben",
+        "Nur im Internet",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man ein '!'?",
+      "options": [
+        "Shift + 1",
+        "Nur die 1",
+        "Leertaste + 1",
+        "Rechtsklick"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Schriftart ändern?",
+      "options": [
+        "Ja, in Schreibprogrammen",
+        "Nein, die ist immer gleich",
+        "Nur wenn man sie anmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu übt man schnelles Tippen?",
+      "options": [
+        "Damit man Hausaufgaben schneller fertig hat",
+        "Damit die Tastatur warm wird",
+        "Weil es laut Spaß macht",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Schreibtrainer'?",
+      "options": [
+        "Ein Programm zum Üben von Tippen",
+        "Ein Lehrer für Sport",
+        "Ein neues Auto",
+        "Ein Stift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Tab-Taste?",
+      "options": [
+        "Sie macht einen großen Sprung nach rechts",
+        "Sie löscht alles",
+        "Sie schaltet den PC aus",
+        "Sie singt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man die Tastatur mit klebrigen Fingern anfassen?",
+      "options": [
+        "Nein, sie wird sonst klebrig und geht kaputt",
+        "Ja, das ist egal",
+        "Nur wenn man sie danach ableckt",
+        "Nur am Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist die 'Enter'-Taste meistens?",
+      "options": [
+        "Rechts in der Mitte",
+        "Oben links",
+        "Ganz unten",
+        "Auf der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet auch tippen?",
+      "options": [
+        "Ja, auf einer Tastatur auf dem Bildschirm",
+        "Nein, nur am PC",
+        "Nur mit einem Stift",
+        "Nur wenn man schreit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Wichtigste beim Tippen-Lernen?",
+      "options": [
+        "Viel Übung und Geduld",
+        "Ganz schnell sein",
+        "Sich ärgern",
+        "Keine Fehler machen"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 1"
+      "question": "Tippe ein: Tippen",
+      "answer": "Tippen"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 2"
+      "question": "Tippe ein: Buchstabe",
+      "answer": "Buchstabe"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 3"
+      "question": "Tippe ein: Wort",
+      "answer": "Wort"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 4"
+      "question": "Tippe ein: Satz",
+      "answer": "Satz"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 5"
+      "question": "Tippe ein: Punkt",
+      "answer": "Punkt"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 6"
+      "question": "Tippe ein: Komma",
+      "answer": "Komma"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 7"
+      "question": "Tippe ein: Zahl",
+      "answer": "Zahl"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 8"
+      "question": "Tippe ein: Text",
+      "answer": "Text"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 9"
+      "question": "Tippe ein: Übung",
+      "answer": "Übung"
     },
     {
       "type": "typing",
-      "text": "Zahlen-Tasten ist toll 10"
+      "question": "Tippe ein: Schnell",
+      "answer": "Schnell"
     }
   ]
 }

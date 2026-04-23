@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Doppelklick",
+  "theme": "Icons (Symbole)",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 1)",
+      "question": "Was ist ein Icon?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 2)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 3)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Ein kleines Bild für ein Programm",
+        "Ein echtes Foto",
+        "Ein Geräusch",
+        "Ein langer Text"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 4)",
+      "question": "Wie öffnet man ein Icon auf dem Desktop?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Mit einem Doppelklick",
+        "Durch Anschauen",
+        "Mit der Enter-Taste (nach Auswahl)",
+        "1 und 3 sind richtig"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 5)",
+      "question": "Wo findet man die meisten Icons nach dem Start?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 6)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Auf dem Desktop (Schreibtisch)",
+        "Im Papierkorb",
+        "Hinter dem Monitor",
+        "Unter der Maus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 7)",
+      "question": "Was bedeutet das Icon mit dem Haus?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 8)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 9)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Oft 'Start' oder 'Home'",
+        "Hier wohnt der PC",
+        "Ein Spiel über Häuser",
+        "Gar nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 10)",
+      "question": "Wie sieht das Icon für den Internet-Browser oft aus?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 11)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 12)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Ein blauer Buchstabe oder ein bunter Kreis",
+        "Ein Apfel",
+        "Ein Auto",
+        "Ein Hund"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 13)",
+      "question": "Was ist das Papierkorb-Icon?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 14)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 15)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Dort landen gelöschte Dinge",
+        "Ein Ort für echte Abfälle",
+        "Ein Malprogramm",
+        "Ein Musikplayer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 16)",
+      "question": "Kann man Icons verschieben?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 17)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 18)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Ja, mit der Maus ziehen",
+        "Nein, sie sitzen fest",
+        "Nur wenn man sie löscht",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 19)",
+      "question": "Was zeigt ein Icon für Musik oft?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 20)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 21)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Eine Note",
+        "Einen Pinsel",
+        "Einen Brief",
+        "Einen Apfel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 22)",
+      "question": "Wie sieht ein Icon für ein Schreibprogramm aus?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 23)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 24)",
-      "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Oft ein Blatt Papier oder ein 'W'",
+        "Eine Schere",
+        "Ein Schuh",
+        "Ein Baum"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Doppelklick? (Frage 25)",
+      "question": "Warum gibt es Icons?",
       "options": [
-        "Option A für Doppelklick",
-        "Option B für Doppelklick",
-        "Option C für Doppelklick"
+        "Damit wir Programme schneller finden",
+        "Weil es bunt schöner ist",
+        "Weil der Computer nicht lesen kann",
+        "Zufall"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man ein Icon löscht?",
+      "options": [
+        "Das Programm wird vom Desktop entfernt",
+        "Der Computer explodiert",
+        "Nichts",
+        "Die Maus geht kaputt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Icons selbst gestalten?",
+      "options": [
+        "Ja, in manchen Programmen",
+        "Nein, nie",
+        "Nur am Sonntag",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Leiste mit Icons unten?",
+      "options": [
+        "Taskleiste",
+        "Bodenleiste",
+        "Icon-Regal",
+        "Fußboden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Icon mit der Lupe?",
+      "options": [
+        "Suchen",
+        "Vergrößern",
+        "Löschen",
+        "Drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht das Icon für ein Malprogramm oft aus?",
+      "options": [
+        "Ein Pinsel oder eine Palette",
+        "Ein Hammer",
+        "Ein Lenkrad",
+        "Ein Koffer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Ordner-Icon meistens?",
+      "options": [
+        "Einen gelben Aktenordner",
+        "Einen grünen Baum",
+        "Ein blaues Wasserglas",
+        "Ein rotes Herz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Shortcut (Verknüpfung)?",
+      "options": [
+        "Ein Icon, das schnell zu einem Programm führt",
+        "Ein kurzes Spiel",
+        "Ein kleiner Monitor",
+        "Ein flinkes Tier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Zahnrad-Icon?",
+      "options": [
+        "Einstellungen",
+        "Reparatur",
+        "Uhrzeit",
+        "Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man Icons auf Deutsch?",
+      "options": [
+        "Symbole",
+        "Bildchen",
+        "Knöpfe",
+        "Zeichen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woher kommen die Icons?",
+      "options": [
+        "Sie sind Teil der Programme",
+        "Sie wachsen auf dem Monitor",
+        "Man muss sie malen",
+        "Vom Strom"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei einem Rechtsklick auf ein Icon?",
+      "options": [
+        "Ein Menü öffnet sich",
+        "Das Programm startet",
+        "Der Computer piept",
+        "Es wird gelöscht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht das Icon zum Speichern oft aus?",
+      "options": [
+        "Eine alte Diskette",
+        "Ein Sparschwein",
+        "Ein Tresor",
+        "Ein Beutel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Icons auf dem Handy?",
+      "options": [
+        "Ja, dort nennt man sie oft Apps",
+        "Nein, nur am PC",
+        "Nur wenn man Internet hat",
+        "Nur für Spiele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Icon mit einem roten X?",
+      "options": [
+        "Schließen oder Abbrechen",
+        "Starten",
+        "Pause",
+        "Hilfe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Start-Icon?",
+      "options": [
+        "Das Logo unten links für das Hauptmenü",
+        "Ein Bild von einem Läufer",
+        "Ein grüner Punkt",
+        "Ein gelber Stern"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 1"
+      "question": "Tippe ein: Icon",
+      "answer": "Icon"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 2"
+      "question": "Tippe ein: Symbol",
+      "answer": "Symbol"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 3"
+      "question": "Tippe ein: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 4"
+      "question": "Tippe ein: Papierkorb",
+      "answer": "Papierkorb"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 5"
+      "question": "Tippe ein: Desktop",
+      "answer": "Desktop"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 6"
+      "question": "Tippe ein: Programm",
+      "answer": "Programm"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 7"
+      "question": "Tippe ein: Suche",
+      "answer": "Suche"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 8"
+      "question": "Tippe ein: Lupe",
+      "answer": "Lupe"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 9"
+      "question": "Tippe ein: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Doppelklick ist toll 10"
+      "question": "Tippe ein: Bild",
+      "answer": "Bild"
     }
   ]
 }

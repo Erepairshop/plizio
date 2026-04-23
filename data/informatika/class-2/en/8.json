@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Typing Letters",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we call pressing keys to make words?",
+      "options": [
+        "Typing",
+        "Drawing",
+        "Singing",
+        "Cooking"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which key makes a space?",
+      "options": [
+        "Space bar",
+        "Enter key",
+        "Esc key",
+        "Shift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you type a big letter 'A'?",
+      "options": [
+        "Hold Shift and press A",
+        "Press A twice",
+        "Shout A",
+        "Click the mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Home Row' keys?",
+      "options": [
+        "Where your fingers rest",
+        "Keys on the roof",
+        "Keys at home only",
+        "Broken keys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Alphabet'?",
+      "options": [
+        "The set of letters",
+        "A type of soup",
+        "A number set",
+        "A computer game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many letters are in the English alphabet?",
+      "options": [
+        "26",
+        "10",
+        "100",
+        "50"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Enter' key do?",
+      "options": [
+        "Starts a new line",
+        "Makes a space",
+        "Erases a letter",
+        "Turns off power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Backspace' do?",
+      "options": [
+        "Deletes the letter before",
+        "Makes it bigger",
+        "Prints it",
+        "Saves it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where are the number keys?",
+      "options": [
+        "Top row or side",
+        "Bottom row",
+        "Inside the mouse",
+        "Nowhere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you look at the keys while typing?",
+      "options": [
+        "Try not to, it's called touch typing",
+        "Yes, always",
+        "Only with one eye",
+        "Only in the dark"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'word'?",
+      "options": [
+        "Letters put together",
+        "A type of food",
+        "A mouse click",
+        "A monitor sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you type a question mark?",
+      "options": [
+        "Shift and the / key",
+        "Press ? three times",
+        "Click the screen",
+        "Type 'help'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'WPM'?",
+      "options": [
+        "Words per minute",
+        "Walk per mile",
+        "Water per mug",
+        "Wash per month"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you type with your thumbs?",
+      "options": [
+        "Yes, usually the space bar",
+        "No, never",
+        "Only if you are small",
+        "Only on Tuesdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are the vowels?",
+      "options": [
+        "A, E, I, O, U",
+        "B, C, D, F",
+        "1, 2, 3, 4",
+        "Red, Blue, Green"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is typing faster than writing by hand?",
+      "options": [
+        "Often, with practice",
+        "No, never",
+        "Only for giants",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'keyboard' named after?",
+      "options": [
+        "A board of keys",
+        "A musical instrument",
+        "A key to a door",
+        "A surfboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'QWERTY' layout?",
+      "options": [
+        "The standard key arrangement",
+        "A secret code",
+        "A type of cat",
+        "A game name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you type on a phone?",
+      "options": [
+        "Yes, with a digital keyboard",
+        "No, only calls",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call typing without looking?",
+      "options": [
+        "Touch typing",
+        "Blind typing",
+        "Fast typing",
+        "Magic typing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you keep your wrists flat?",
+      "options": [
+        "Yes, for comfort",
+        "No, keep them high",
+        "No, keep them low",
+        "Doesn't matter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you hold a key down?",
+      "options": [
+        "It repeats the letter",
+        "The computer breaks",
+        "It turns off",
+        "It sings"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'sentence'?",
+      "options": [
+        "A group of words",
+        "One letter",
+        "A click",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you type numbers?",
+      "options": [
+        "Yes, 0 to 9",
+        "No, only letters",
+        "Only if you have a calculator",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is typing a useful skill?",
+      "options": [
+        "Yes, very much",
+        "No",
+        "Only for robots",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Letter",
+      "answer": "Letter"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Word",
+      "answer": "Word"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Type",
+      "answer": "Type"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: ABC",
+      "answer": "ABC"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hello",
+      "answer": "Hello"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Name",
+      "answer": "Name"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Key",
+      "answer": "Key"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Text",
+      "answer": "Text"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Write",
+      "answer": "Write"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Easy",
+      "answer": "Easy"
+    }
+  ]
+}

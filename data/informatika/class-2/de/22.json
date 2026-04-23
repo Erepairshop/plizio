@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Audioprogramm",
+  "theme": "Musik machen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 1)",
+      "question": "Kann ein Computer Musik erzeugen?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 2)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 3)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ja, mit speziellen Programmen",
+        "Nein, nur echte Instrumente",
+        "Nur wenn man singt",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 4)",
+      "question": "Wie hört man die Musik am besten?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 5)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 6)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Über Lautsprecher oder Kopfhörer",
+        "Über die Tastatur",
+        "Über die Maus",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 7)",
+      "question": "Was ist ein virtuelles Klavier?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 8)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 9)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ein Klavier auf dem Bildschirm zum Spielen",
+        "Ein unsichtbares Instrument",
+        "Ein kaputtes Radio",
+        "Ein Buch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 10)",
+      "question": "Wie nennt man die digitalen Töne?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 11)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 12)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Sounds",
+        "Farben",
+        "Bilder",
+        "Texte"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 13)",
+      "question": "Kann man Töne im Programm aneinanderreihen?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 14)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 15)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ja, um eine Melodie zu bauen",
+        "Nein, immer nur einer",
+        "Nur wenn man Noten kennt",
+        "Nur für Lehrer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 16)",
+      "question": "Was ist ein 'Beat'?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 17)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 18)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ein regelmäßiger Rhythmus (wie ein Herzschlag)",
+        "Ein Bild",
+        "Ein Wort",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 19)",
+      "question": "Kann man seine eigene Stimme aufnehmen?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 20)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 21)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ja, mit einem Mikrofon",
+        "Nein, nur Instrumente",
+        "Nur wenn man laut schreit",
+        "Nur am Handy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 22)",
+      "question": "Wie nennt man jemanden, der Musik am PC macht?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 23)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 24)",
-      "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Produzent oder Musiker",
+        "Maler",
+        "Programmierer",
+        "Spieler"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Audioprogramm? (Frage 25)",
+      "question": "Was ist ein Synthesizer?",
       "options": [
-        "Option A für Audioprogramm",
-        "Option B für Audioprogramm",
-        "Option C für Audioprogramm"
+        "Ein Gerät oder Programm für neue Klänge",
+        "Eine neue Sorte Obst",
+        "Ein kaputtes Kabel",
+        "Ein Spiel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Musik am Computer speichern?",
+      "options": [
+        "Ja, meistens als MP3-Datei",
+        "Nein, sie ist weg, wenn man fertig ist",
+        "Nur auf Papier",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Musik-Apps für das Tablet?",
+      "options": [
+        "Ja, sehr viele einfache Apps",
+        "Nein, nur am PC",
+        "Nur für Profis",
+        "Keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Schlagzeug am Computer?",
+      "options": [
+        "Ein Programm mit Trommel-Geräuschen",
+        "Ein echter Hammer",
+        "Ein Bild von einer Trommel",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man in Scratch auch Musik machen?",
+      "options": [
+        "Ja, es gibt Musik-Blöcke",
+        "Nein, nur für Bewegung",
+        "Nur für die Katze",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Lautstärke'?",
+      "options": [
+        "Wie laut oder leise die Musik ist",
+        "Die Farbe der Musik",
+        "Die Länge der Musik",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Tempo'?",
+      "options": [
+        "Wie schnell oder langsam die Musik ist",
+        "Ein Taschentuch",
+        "Ein neues Auto",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC ein ganzes Orchester spielen lassen?",
+      "options": [
+        "Ja, mit den richtigen Programmen",
+        "Nein, das passt nicht in den PC",
+        "Nur im Fernsehen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Loop in der Musik?",
+      "options": [
+        "Ein Teil, der sich immer wiederholt",
+        "Ein Knoten im Kabel",
+        "Ein kaputter Ton",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu nutzt man Musik in Videospielen?",
+      "options": [
+        "Damit es mehr Spaß macht und spannend ist",
+        "Nur zur Deko",
+        "Gar nicht",
+        "Damit der PC nicht einschläft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Musik auch ausdrucken?",
+      "options": [
+        "Man kann Noten ausdrucken",
+        "Nein, Musik ist nur zum Hören",
+        "Nur wenn man sie abmalt",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Note?",
+      "options": [
+        "Ein Zeichen für einen Ton",
+        "Ein kleiner Zettel",
+        "Ein Fehler",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man Instrumente spielen können für PC-Musik?",
+      "options": [
+        "Es hilft, aber man kann es auch so lernen",
+        "Ja, man muss Profi sein",
+        "Nein, gar nicht",
+        "Nur am Sonntag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein DJ?",
+      "options": [
+        "Jemand, der Musik auflegt und mischt",
+        "Ein Computerverkäufer",
+        "Ein Maler",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch singen?",
+      "options": [
+        "Ja, wenn man ein Mikrofon hat",
+        "Nein, der PC mag keinen Gesang",
+        "Nur wenn man laut ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Musik machen toll?",
+      "options": [
+        "Weil man seine eigenen Lieder erfinden kann!",
+        "Weil es laut ist",
+        "Wegen der Noten",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist Musik am Computer Kunst?",
+      "options": [
+        "Ja, genau wie Malen oder Schreiben",
+        "Nein, nur Technik",
+        "Nur wenn man sie verkauft",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 1"
+      "question": "Tippe ein: Musik",
+      "answer": "Musik"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 2"
+      "question": "Tippe ein: Takt",
+      "answer": "Takt"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 3"
+      "question": "Tippe ein: Ton",
+      "answer": "Ton"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 4"
+      "question": "Tippe ein: Lied",
+      "answer": "Lied"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 5"
+      "question": "Tippe ein: Beat",
+      "answer": "Beat"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 6"
+      "question": "Tippe ein: Klavier",
+      "answer": "Klavier"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 7"
+      "question": "Tippe ein: Singen",
+      "answer": "Singen"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 8"
+      "question": "Tippe ein: Hören",
+      "answer": "Hören"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 9"
+      "question": "Tippe ein: Spaß",
+      "answer": "Spaß"
     },
     {
       "type": "typing",
-      "text": "Audioprogramm ist toll 10"
+      "question": "Tippe ein: Band",
+      "answer": "Band"
     }
   ]
 }

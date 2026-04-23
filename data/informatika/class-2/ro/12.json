@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Desene animate digitale",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum sunt făcute desenele animate azi?",
+      "options": [
+        "Pe calculator",
+        "Cu magia",
+        "Doar cu creionul pe hârtie",
+        "Nu se mai fac"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Animație'?",
+      "options": [
+        "Imagini care se mișcă repede",
+        "O poză fixă",
+        "Un tip de sunet",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește o singură imagine dintr-un desen?",
+      "options": [
+        "Cadru (Frame)",
+        "Ușă",
+        "Fereastră",
+        "Masă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte cadre are de obicei o secundă de animație?",
+      "options": [
+        "24 de cadre",
+        "Doar unul",
+        "O mie",
+        "Milioane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face și noi animații simple?",
+      "options": [
+        "Da, cu programe speciale",
+        "Nu, e imposibil",
+        "Doar dacă suntem adulți",
+        "Doar cu creta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Storyboard'?",
+      "options": [
+        "Povestea desenată în pătrățele",
+        "O placă de lemn",
+        "O tastă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Personajele 3D par...",
+      "options": [
+        "Că au volum (ca niște păpuși)",
+        "Plane ca hârtia",
+        "Invizibile",
+        "Colorate doar în gri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine dă voce personajelor?",
+      "options": [
+        "Actorii",
+        "Calculatorul singur mereu",
+        "Nimeni, sunt mute",
+        "Oamenii care le privesc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anima un obiect real?",
+      "options": [
+        "Da, se numește Stop Motion",
+        "Nu, obiectele nu se mișcă",
+        "Doar dacă le împingem",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Animația necesită mult timp?",
+      "options": [
+        "Da, este o muncă de răbdare",
+        "Nu, se face într-o secundă",
+        "E foarte ușor",
+        "Se face singură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Background' în desene?",
+      "options": [
+        "Decorul din spatele personajelor",
+        "Numele desenului",
+        "O tastă",
+        "Mâncarea animatorilor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi tableta pentru a desena?",
+      "options": [
+        "Da, e foarte utilă",
+        "Nu, e doar pentru jocuri",
+        "Doar dacă are creion",
+        "Doar dacă e mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenele animate au muzică?",
+      "options": [
+        "Da, foarte multă",
+        "Nu, sunt silențioase",
+        "Doar dacă cântăm noi",
+        "Doar la final"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'CGI'?",
+      "options": [
+        "Imagini generate pe calculator",
+        "Un tip de suc",
+        "O mașină",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se simte un animator când termină?",
+      "options": [
+        "Bucuros că a creat ceva frumos",
+        "Supărat că a muncit",
+        "Plictisit",
+        "Nu simte nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Poate un robot să facă desene animate?",
+      "options": [
+        "Poate ajuta, dar omul decide",
+        "Da, face totul singur",
+        "Nu, roboții nu desenează",
+        "Doar dacă are baterii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este primul pas în a face un desen?",
+      "options": [
+        "Ideea și povestea",
+        "Vânzarea lui",
+        "Vizionarea la TV",
+        "Închiderea ochilor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Culorile sunt importante în animație?",
+      "options": [
+        "Da, dau viață desenului",
+        "Nu, pot fi oricum",
+        "Doar roșul e important",
+        "Sunt opționale"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'loop' (buclă)?",
+      "options": [
+        "O mișcare care se repetă",
+        "Un nod la șireturi",
+        "O tastă",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anima desenele noastre din Paint?",
+      "options": [
+        "Da, dacă salvăm mai multe faze",
+        "Nu, Paint e doar pentru poze",
+        "Doar dacă le printăm",
+        "Doar dacă avem noroc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Scratch' pentru animație?",
+      "options": [
+        "Un program unde putem anima personaje",
+        "O prăjitură",
+        "Un sunet de zgârietură",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ecranele mari sunt mai bune pentru desene?",
+      "options": [
+        "Vedem detaliile mai bine",
+        "Nu, nu contează",
+        "Sunt mai rele",
+        "Se vede mai urât"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face un personaj să sară?",
+      "options": [
+        "Da, schimbându-i poziția în sus",
+        "Nu, personajele stau jos",
+        "Doar dacă îl tragem de picioare",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Animația este o artă?",
+      "options": [
+        "Da, o artă digitală",
+        "Nu, e doar tehnică",
+        "E o joacă",
+        "E ceva vechi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să înveți să faci animații?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Mai târziu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: miscare",
+      "answer": "miscare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: personaj",
+      "answer": "personaj"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cadru",
+      "answer": "cadru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: culoare",
+      "answer": "culoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poveste",
+      "answer": "poveste"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ecran",
+      "answer": "ecran"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: actor",
+      "answer": "actor"
+    }
+  ]
+}

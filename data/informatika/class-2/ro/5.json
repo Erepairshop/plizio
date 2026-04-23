@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Dosare și foldere",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "La ce folosesc dosarele?",
+      "options": [
+        "Să punem fișiere în ele",
+        "Să punem haine",
+        "Să punem jucării",
+        "Să punem mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare au de obicei dosarele pe calculator?",
+      "options": [
+        "Galben",
+        "Roșu",
+        "Negru",
+        "Transparent"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune un dosar în alt dosar?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt goale"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem da nume dosarelor?",
+      "options": [
+        "Da, orice nume",
+        "Nu, au nume de cifre",
+        "Doar numele nostru",
+        "Doar numele calculatorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un dosar poate fi gol?",
+      "options": [
+        "Da",
+        "Nu, trebuie să aibă ceva",
+        "Doar dacă e nou",
+        "Nu există dosare goale"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum creăm un dosar nou?",
+      "options": [
+        "Click dreapta -> New -> Folder",
+        "Batem din palme",
+        "Repornim calculatorul",
+        "Scriem pe ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dosarele ne ajută să fim?",
+      "options": [
+        "Organizați",
+        "Murdari",
+        "Obosiți",
+        "Supărați"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un dosar?",
+      "options": [
+        "Da",
+        "Nu, e interzis",
+        "Doar dacă e galben",
+        "Doar dacă e vechi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde dispar dosarele șterse?",
+      "options": [
+        "În Recycle Bin (Coșul de gunoi)",
+        "În spațiu",
+        "Sub masă",
+        "În tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune poze într-un dosar?",
+      "options": [
+        "Da",
+        "Nu, doar litere",
+        "Doar dacă sunt alb-negru",
+        "Nu avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un fișier?",
+      "options": [
+        "O unitate de informație (poză, text, etc)",
+        "Un tip de mouse",
+        "O tastă",
+        "O masă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem copia un dosar?",
+      "options": [
+        "Da, folosind Copy și Paste",
+        "Nu, e unic",
+        "Doar dacă e mic",
+        "Doar cu xerox-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem muta un dosar?",
+      "options": [
+        "Da, prin Cut și Paste sau glisare",
+        "Nu, e lipit pe ecran",
+        "Doar dacă e gol",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește 'interiorul' unui dosar?",
+      "options": [
+        "Conținutul dosarului",
+        "Burta dosarului",
+        "Camera dosarului",
+        "Dulapul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune muzică într-un dosar?",
+      "options": [
+        "Da",
+        "Nu, muzica e în aer",
+        "Doar dacă e încet",
+        "Nu avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dosarele au mărime?",
+      "options": [
+        "Da, depinde de ce e în ele",
+        "Nu, toate sunt la fel",
+        "Sunt infinte",
+        "Au 1 metru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem proteja un dosar?",
+      "options": [
+        "Da, uneori cu parolă",
+        "Nu, e liber",
+        "Doar dacă îl vopsim",
+        "Doar cu un lacăt real"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă redenumim un dosar?",
+      "options": [
+        "Își schimbă numele, dar conținutul rămâne",
+        "Se șterge tot",
+        "Se schimbă culoarea",
+        "Calculatorul plânge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea două dosare cu același nume în același loc?",
+      "options": [
+        "De obicei nu",
+        "Da, oricâte",
+        "Doar dacă sunt goale",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dosarele ne ajută la școală?",
+      "options": [
+        "Da, să ne găsim temele",
+        "Nu, ne încurcă",
+        "Sunt doar pentru jocuri",
+        "Sunt pentru pauză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma dosarului arată ca...",
+      "options": [
+        "O mapă deschisă",
+        "O minge",
+        "Un copac",
+        "O mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'File Explorer'?",
+      "options": [
+        "Programul cu care vedem dosarele",
+        "Un robot care explorează spațiul",
+        "Un tip de joc",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune jocuri într-un dosar?",
+      "options": [
+        "Da",
+        "Nu, jocurile stau pe afară",
+        "Doar dacă sunt mici",
+        "Doar dacă avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte fișiere pot intra într-un dosar?",
+      "options": [
+        "Foarte multe, mii sau mai multe",
+        "Doar zece",
+        "Exact o sută",
+        "Niciunul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place să fii organizat?",
+      "options": [
+        "Da",
+        "Nu",
+        "Uneori",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: dosar",
+      "answer": "dosar"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: acte",
+      "answer": "acte"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nume",
+      "answer": "nume"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: grup",
+      "answer": "grup"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pun",
+      "answer": "pun"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scot",
+      "answer": "scot"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mut",
+      "answer": "mut"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: copiez",
+      "answer": "copiez"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sterg",
+      "answer": "sterg"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvez",
+      "answer": "salvez"
+    }
+  ]
+}

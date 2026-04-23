@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Roboți",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un robot?",
+      "options": [
+        "O mașină care face sarcini",
+        "Un om din metal",
+        "O jucărie vie",
+        "Un extraterestru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții au nevoie de instrucțiuni?",
+      "options": [
+        "Da",
+        "Nu, știu tot",
+        "Doar când dorm",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot roboții să ne ajute?",
+      "options": [
+        "Da",
+        "Nu, sunt răi",
+        "Doar la teme",
+        "Nu au voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde vedem roboți?",
+      "options": [
+        "În fabrici, acasă, în spațiu",
+        "Doar în filme",
+        "Doar sub pământ",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un aspirator inteligent este un robot?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o pisică",
+        "Este o mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții au creier?",
+      "options": [
+        "Au un calculator (procesor) în interior",
+        "Au creier ca oamenii",
+        "Nu au nimic în cap",
+        "Au baterii în loc de creier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt senzorii unui robot?",
+      "options": [
+        "Părțile cu care simte (vede, aude, atinge)",
+        "Hainele lui",
+        "Butoanele de pornit",
+        "O roată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot vorbi?",
+      "options": [
+        "Unii pot, dacă sunt programați",
+        "Toți vorbesc perfect",
+        "Niciunul nu scoate un sunet",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine programează roboții?",
+      "options": [
+        "Oamenii",
+        "Alți roboți singuri",
+        "Zânele",
+        "Calculatorul singur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot roboții să simtă emoții (să fie triști)?",
+      "options": [
+        "Nu, ei nu au sentimente",
+        "Da, plâng uneori",
+        "Sunt mereu fericiți",
+        "Doar în povești"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un robot umanoid?",
+      "options": [
+        "Un robot care seamănă cu un om",
+        "Un robot mic cât o furnică",
+        "Un robot mașină",
+        "Un robot zburător"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții ne pot înlocui în munci grele?",
+      "options": [
+        "Da, sunt foarte buni la asta",
+        "Nu, nu au putere",
+        "Doar dacă vor",
+        "Doar la joacă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se mișcă un robot?",
+      "options": [
+        "Cu motoare și roți sau picioare",
+        "Prin magie",
+        "Dacă îl împingem",
+        "Nu se mișcă deloc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un braț robotizat este folosit în...",
+      "options": [
+        "Fabricile de mașini",
+        "Grădiniță",
+        "Bucătărie",
+        "Parcuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții au nevoie de energie?",
+      "options": [
+        "Da, curent sau baterii",
+        "Nu, merg cu aer",
+        "Se hrănesc cu fructe",
+        "Nu au nevoie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un robot de bucătărie?",
+      "options": [
+        "Ajută la tăiat sau amestecat mâncarea",
+        "Gătește tot singur",
+        "Spală vasele mereu",
+        "Mănâncă tot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot merge pe Marte?",
+      "options": [
+        "Da, există roveri trimiși acolo",
+        "Nu, e prea departe",
+        "Doar în filme",
+        "Doar dacă au aripi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunt roboții periculosi?",
+      "options": [
+        "Doar dacă nu sunt folosiți corect",
+        "Toți sunt răi",
+        "Sunt ca niște cățeluși",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum arată un robot de obicei?",
+      "options": [
+        "Pot avea orice formă",
+        "Trebuie să aibă cap și mâini",
+        "Sunt doar cutii gri",
+        "Sunt invizibili"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot învăța?",
+      "options": [
+        "Da, prin Inteligență Artificială",
+        "Nu, fac doar ce li se zice prima dată",
+        "Doar la școală",
+        "Doar dacă le citim cărți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Robotica'?",
+      "options": [
+        "Știința care se ocupă cu roboții",
+        "Un tip de dans",
+        "O mâncare",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot juca fotbal?",
+      "options": [
+        "Da, există competiții de acest fel",
+        "Nu, se strică mingea",
+        "Doar dacă au picioare de om",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un drone este un robot?",
+      "options": [
+        "Da, un robot zburător",
+        "Nu, e doar o jucărie",
+        "Este o pasăre",
+        "Este un avion mic fără pilot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem construi roboți din piese de Lego?",
+      "options": [
+        "Da (Lego Mindstorms/Spike)",
+        "Nu, Lego e doar plastic",
+        "Doar dacă punem baterii",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ți-ar plăcea să ai un robot prieten?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt deja prieten cu unul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: robot",
+      "answer": "robot"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: metal",
+      "answer": "metal"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: brat",
+      "answer": "brat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: senzor",
+      "answer": "senzor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: motor",
+      "answer": "motor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: baterie",
+      "answer": "baterie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: smart",
+      "answer": "smart"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mers",
+      "answer": "mers"
+    }
+  ]
+}

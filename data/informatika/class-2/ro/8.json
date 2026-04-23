@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Tastarea literelor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Unde găsim literele pentru scris?",
+      "options": [
+        "Pe tastatură",
+        "Pe mouse",
+        "În interiorul monitorului",
+        "Sub masă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum scriem litera 'A'?",
+      "options": [
+        "Apăsăm tasta cu litera A",
+        "O desenăm cu mouse-ul",
+        "Strigăm la ecran",
+        "O căutăm pe net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte degete e bine să folosim la scris?",
+      "options": [
+        "Toate zece (cu timpul)",
+        "Doar unul",
+        "Doar două",
+        "Niciunul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum punem spațiu între cuvinte?",
+      "options": [
+        "Apasăm tasta lungă (Space)",
+        "Apasăm Enter",
+        "Apasăm Shift",
+        "Suflăm în tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum scriem cu litere mari tot timpul?",
+      "options": [
+        "Apasăm Caps Lock",
+        "Ținem apăsat Enter",
+        "Apăsăm tare pe taste",
+        "Închidem un ochi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta Shift?",
+      "options": [
+        "Ajută la scrierea unei litere mari",
+        "Șterge tot",
+        "Închide calculatorul",
+        "Cântă o notă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt cifrele pe o tastatură normală?",
+      "options": [
+        "Deasupra literelor și în dreapta",
+        "Sub litere",
+        "În interiorul mouse-ului",
+        "Nu există cifre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trecem la un rând nou?",
+      "options": [
+        "Apasăm tasta Enter",
+        "Apasăm Space de multe ori",
+        "Tragem de monitor",
+        "Repornim programul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă am scris o literă greșită?",
+      "options": [
+        "O ștergem cu Backspace",
+        "Punem scoci pe ecran",
+        "O lăsăm așa",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie cuvinte fără să ne uităm la taste?",
+      "options": [
+        "Da, se numește dactilografie",
+        "Nu, e imposibil",
+        "Doar dacă avem super-puteri",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Literele de pe taste sunt în ordine alfabetică (A, B, C...)?",
+      "options": [
+        "Nu, ordinea se numește QWERTY",
+        "Da, exact în ordine",
+        "Sunt puse la întâmplare",
+        "Depinde de calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde stau degetele 'acasă' pe tastatură?",
+      "options": [
+        "Pe rândul din mijloc (A, S, D, F...)",
+        "Pe cifre",
+        "Pe mouse",
+        "În aer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum scriem semnul întrebării (?)?",
+      "options": [
+        "Shift + tasta cu ?",
+        "Doar apăsăm tasta",
+        "Îl desenăm",
+        "Nu putem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'tastare'?",
+      "options": [
+        "Acțiunea de a scrie la tastatură",
+        "A mânca o tarta",
+        "A repara o tastă",
+        "A privi tastele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie cifre folosind tastele de sus?",
+      "options": [
+        "Da",
+        "Nu, acelea sunt doar simboluri",
+        "Doar dacă avem Caps Lock",
+        "Doar dacă e duminică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tastatura are și semne de punctuație?",
+      "options": [
+        "Da (punct, virgulă, etc)",
+        "Nu, doar litere",
+        "Doar dacă le instalăm",
+        "Doar pentru adulți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Home Row'?",
+      "options": [
+        "Rândul de bază unde stau degetele",
+        "O casă pentru taste",
+        "O tastă specială",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scrisul la tastatură necesită exercițiu?",
+      "options": [
+        "Da, cu cât scriem mai mult, cu atât suntem mai rapizi",
+        "Nu, știm din nastere",
+        "E doar noroc",
+        "Nu se învață"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie mesaje prietenilor?",
+      "options": [
+        "Da",
+        "Nu, e interzis",
+        "Doar dacă le pictăm",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta Tab?",
+      "options": [
+        "Sare mai multe spații odată",
+        "Închide calculatorul",
+        "Mărește literele",
+        "Șterge rândul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem o poziție corectă la scris?",
+      "options": [
+        "Da, să nu ne doară spatele",
+        "Nu contează",
+        "Putem sta întinși",
+        "Doar dacă ne vede cineva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există taste speciale pentru volum?",
+      "options": [
+        "Unele tastaturi au",
+        "Niciuna",
+        "Toate au butoane rotunde",
+        "Doar cele din lemn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie în alte limbi?",
+      "options": [
+        "Da, schimbând limba tastaturii",
+        "Nu, doar în română",
+        "Doar dacă cumpărăm altă tastatură",
+        "Doar în engleză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte litere are alfabetul pe care îl folosim?",
+      "options": [
+        "26 de litere de bază",
+        "Doar 10",
+        "100",
+        "Milioane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești gata să devii un scriitor rapid?",
+      "options": [
+        "Da",
+        "Nu",
+        "Sunt deja",
+        "Poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mama",
+      "answer": "mama"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tata",
+      "answer": "tata"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scoala",
+      "answer": "scoala"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: carte",
+      "answer": "carte"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: caiet",
+      "answer": "caiet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: elev",
+      "answer": "elev"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: litera",
+      "answer": "litera"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cifra",
+      "answer": "cifra"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cuvant",
+      "answer": "cuvant"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scris",
+      "answer": "scris"
+    }
+  ]
+}

@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Werkzeuge (Pinsel, Radiergummi)",
+  "theme": "Programmieren lernen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 1)",
+      "question": "Was bedeutet Programmieren?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 2)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 3)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Dem Computer Befehle geben",
+        "Ein Programm anschauen",
+        "Den Computer putzen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 4)",
+      "question": "Wie nennt man die Befehle für den Computer?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 5)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 6)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Code",
+        "Geheimschrift",
+        "Brief",
+        "Zahlenrätsel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 7)",
+      "question": "Wer schreibt Programme?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 8)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 9)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Ein Programmierer",
+        "Der Computer selbst",
+        "Der Monitor",
+        "Die Maus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 10)",
+      "question": "Was ist ein Algorithmus?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 11)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 12)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Eine genaue Schritt-für-Schritt-Anleitung",
+        "Ein neues Tier",
+        "Ein Name für einen PC",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 13)",
+      "question": "Warum muss man sehr genau sein beim Programmieren?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 14)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 15)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Weil der Computer alles ganz wörtlich nimmt",
+        "Weil es sonst unordentlich aussieht",
+        "Muss man nicht",
+        "Wegen der Noten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 16)",
+      "question": "Was ist eine Programmiersprache?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 17)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 18)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Eine Sprache, die der Computer versteht",
+        "Englisch",
+        "Roboter-Sprache",
+        "Gar nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 19)",
+      "question": "Wie sieht Programmieren für Kinder oft aus?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 20)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 21)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Mit bunten Blöcken zum Zusammenstecken",
+        "Nur mit vielen Zahlen",
+        "Man muss es malen",
+        "Man muss es rufen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 22)",
+      "question": "Was ist eine 'Schleife' (Loop)?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 23)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 24)",
-      "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Ein Befehl, der sich mehrmals wiederholt",
+        "Ein Knoten im Kabel",
+        "Ein Kreis am Monitor",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Werkzeuge (Pinsel, Radiergummi)? (Frage 25)",
+      "question": "Was ist eine 'Bedingung' (If)?",
       "options": [
-        "Option A für Werkzeuge (Pinsel, Radiergummi)",
-        "Option B für Werkzeuge (Pinsel, Radiergummi)",
-        "Option C für Werkzeuge (Pinsel, Radiergummi)"
+        "Eine Entscheidung: Wenn das passiert, dann tu das",
+        "Ein Wunsch",
+        "Ein Fehler",
+        "Ein Malprogramm"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man einen Fehler im Programm?",
+      "options": [
+        "Bug (Käfer)",
+        "Loch",
+        "Riss",
+        "Pech"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Scratch?",
+      "options": [
+        "Ein Programm, um Programmieren mit Blöcken zu lernen",
+        "Ein Spiel mit Katzen",
+        "Ein Malprogramm",
+        "Ein Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit Programmieren Spiele erfinden?",
+      "options": [
+        "Ja, fast alle Spiele sind programmiert",
+        "Nein, nur Text erlaubt",
+        "Nur wenn man schlau ist",
+        "Nur für Handys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Befehl'?",
+      "options": [
+        "Eine einzelne Anweisung an den Computer",
+        "Ein lautes Rufen",
+        "Ein Drücken auf die Maus",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum lernt man Programmieren?",
+      "options": [
+        "Um zu verstehen, wie Computer funktionieren",
+        "Weil es cool aussieht",
+        "Damit man nicht mehr lesen muss",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann jeder Programmieren lernen?",
+      "options": [
+        "Ja, mit ein bisschen Übung",
+        "Nein, nur Genies",
+        "Nur Jungen",
+        "Nur Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Debugging'?",
+      "options": [
+        "Fehler im Programm suchen und finden",
+        "Den PC staubsaugen",
+        "Käfer fangen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn ein Befehl fehlt?",
+      "options": [
+        "Das Programm macht nicht, was es soll",
+        "Der PC geht kaputt",
+        "Nichts",
+        "Der PC weiß es von allein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Roboter programmieren?",
+      "options": [
+        "Ja, damit sie sich bewegen",
+        "Nein, die machen was sie wollen",
+        "Nur wenn sie groß sind",
+        "Nur im Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Event' (Ereignis)?",
+      "options": [
+        "Etwas, das einen Befehl startet (z.B. Klick)",
+        "Eine Party",
+        "Ein Bild",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit Programmieren auch Musik machen?",
+      "options": [
+        "Ja, man kann Töne programmieren",
+        "Nein, nur Bilder",
+        "Nur mit einem Radio",
+        "Sollte man nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Ergebnis vom Programmieren?",
+      "options": [
+        "Software",
+        "Hardware",
+        "Monitor",
+        "Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist logisches Denken?",
+      "options": [
+        "Schritt für Schritt richtig überlegen",
+        "Ganz schnell raten",
+        "Nichts denken",
+        "Viel Schokolade essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Variablen?",
+      "options": [
+        "Platzhalter für Informationen (wie eine Box)",
+        "Verschiedene Computer",
+        "Bunte Farben",
+        "Süßigkeiten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Programmieren im Team machen?",
+      "options": [
+        "Ja, viele Programmierer arbeiten zusammen",
+        "Nein, immer allein",
+        "Nur zu zweit",
+        "Nur online"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Programmieren kreativ?",
+      "options": [
+        "Ja, man kann eigene Ideen umsetzen!",
+        "Nein, es ist nur Arbeit",
+        "Nur wenn man malt",
+        "Gar nicht"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 1"
+      "question": "Tippe ein: Code",
+      "answer": "Code"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 2"
+      "question": "Tippe ein: Befehl",
+      "answer": "Befehl"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 3"
+      "question": "Tippe ein: Schritt",
+      "answer": "Schritt"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 4"
+      "question": "Tippe ein: Regel",
+      "answer": "Regel"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 5"
+      "question": "Tippe ein: Fehler",
+      "answer": "Fehler"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 6"
+      "question": "Tippe ein: Logik",
+      "answer": "Logik"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 7"
+      "question": "Tippe ein: Lernen",
+      "answer": "Lernen"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 8"
+      "question": "Tippe ein: Plan",
+      "answer": "Plan"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 9"
+      "question": "Tippe ein: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Werkzeuge (Pinsel, Radiergummi) ist toll 10"
+      "question": "Tippe ein: Ziel",
+      "answer": "Ziel"
     }
   ]
 }

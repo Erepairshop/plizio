@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Writing a Story",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'sentence'?",
+      "options": [
+        "A group of words that make sense",
+        "A single letter",
+        "A loud shout",
+        "A type of food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should be at the start of a sentence?",
+      "options": [
+        "Capital letter",
+        "Lowercase letter",
+        "A number",
+        "A smiley face"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What usually goes at the end of a sentence?",
+      "options": [
+        "A period (dot)",
+        "A space",
+        "A comma",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'paragraph'?",
+      "options": [
+        "A group of sentences",
+        "One word",
+        "A computer part",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you write stories on a computer?",
+      "options": [
+        "Yes, with Word or Docs",
+        "No, only on paper",
+        "Only if you are 12",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'title'?",
+      "options": [
+        "The name of your story",
+        "The end",
+        "Your name only",
+        "A type of box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'author'?",
+      "options": [
+        "The person who writes the story",
+        "The reader",
+        "A character",
+        "A computer monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'editing'?",
+      "options": [
+        "Checking and fixing mistakes",
+        "Printing the story",
+        "Deleting everything",
+        "Eating"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'spell check'?",
+      "options": [
+        "A tool that finds wrong words",
+        "A magic spell",
+        "A type of game",
+        "A broken key"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you save your story?",
+      "options": [
+        "Yes, so you don't lose it",
+        "No, just keep it open",
+        "Only if it is long",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'draft'?",
+      "options": [
+        "A first version of your story",
+        "A type of wind",
+        "A broken screen",
+        "A game win"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you add pictures to your writing?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'bold' text?",
+      "options": [
+        "Thicker and darker letters",
+        "Letters that shout",
+        "Small letters",
+        "Invisible letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'italic' text?",
+      "options": [
+        "Slanted letters",
+        "Big letters",
+        "Red letters",
+        "Broken letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the font (style)?",
+      "options": [
+        "Yes, to many looks",
+        "No, always same",
+        "Only if it's blue",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'typing'?",
+      "options": [
+        "Writing with a keyboard",
+        "Drawing with a mouse",
+        "Singing",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to copy someone else's story?",
+      "options": [
+        "No, use your imagination",
+        "Yes, it's fine",
+        "Only if you ask",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'keyboard'?",
+      "options": [
+        "A board of keys for writing",
+        "A musical instrument only",
+        "A type of surfboard",
+        "A toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'word processor'?",
+      "options": [
+        "App for writing text",
+        "A type of food",
+        "A computer case",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you print your story?",
+      "options": [
+        "Yes, on paper",
+        "No, never",
+        "Only if it is short",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'story'?",
+      "options": [
+        "A sequence of events",
+        "A single word",
+        "A click",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you write a letter to a friend?",
+      "options": [
+        "Yes, an email or letter",
+        "No, only stories",
+        "Only if you are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'creative writing'?",
+      "options": [
+        "Writing from your imagination",
+        "Writing only facts",
+        "Writing only numbers",
+        "Not writing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is writing fun?",
+      "options": [
+        "Yes, very much!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'end' of a story?",
+      "options": [
+        "The last part",
+        "The title",
+        "The middle",
+        "The start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Write",
+      "answer": "Write"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Text",
+      "answer": "Text"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Idea",
+      "answer": "Idea"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Title",
+      "answer": "Title"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Page",
+      "answer": "Page"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Book",
+      "answer": "Book"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Word",
+      "answer": "Word"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sent",
+      "answer": "Sent"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: End",
+      "answer": "End"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tell",
+      "answer": "Tell"
+    }
+  ]
+}

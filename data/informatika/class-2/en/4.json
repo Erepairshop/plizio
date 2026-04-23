@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Icons",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is an icon?",
+      "options": [
+        "A small picture",
+        "A big sound",
+        "A long wire",
+        "A heavy box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you click an icon?",
+      "options": [
+        "It opens something",
+        "It disappears",
+        "It makes a song",
+        "It turns off screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Trash' icon usually look like?",
+      "options": [
+        "A bin",
+        "A flower",
+        "A car",
+        "A house"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do we usually find icons?",
+      "options": [
+        "On the desktop",
+        "On the floor",
+        "Inside the mouse",
+        "Behind the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is an icon a symbol?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's blue",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a folder icon look like?",
+      "options": [
+        "A yellow folder",
+        "A green leaf",
+        "A red ball",
+        "A white cloud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use icons?",
+      "options": [
+        "To find things easily",
+        "To make it look messy",
+        "To hide things",
+        "To use more power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you move icons on the screen?",
+      "options": [
+        "Yes, by dragging",
+        "No, never",
+        "Only on Sundays",
+        "Only with a pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'X' icon usually do?",
+      "options": [
+        "Closes a window",
+        "Opens a game",
+        "Saves a file",
+        "Turns off power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a printer icon mean?",
+      "options": [
+        "Print your work",
+        "Play a song",
+        "Draw a picture",
+        "Go home"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can icons be different sizes?",
+      "options": [
+        "Yes",
+        "No",
+        "Only small",
+        "Only big"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the icon for a game often?",
+      "options": [
+        "A controller or logo",
+        "A banana",
+        "A shoe",
+        "A cloud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do apps have their own icons?",
+      "options": [
+        "Yes, to recognize them",
+        "No, they share one",
+        "Only if they are free",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a gear icon often mean?",
+      "options": [
+        "Settings",
+        "Music",
+        "Drawing",
+        "Games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does an envelope icon mean?",
+      "options": [
+        "Email or messages",
+        "Food",
+        "Cleaning",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you delete an icon?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with magic",
+        "Only if it's red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you double-click an icon?",
+      "options": [
+        "It opens the program",
+        "It changes color",
+        "It flies away",
+        "It shouts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the 'Start' button an icon?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on laptops",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a magnifying glass icon mean?",
+      "options": [
+        "Search",
+        "Zoom in",
+        "Burn",
+        "Look closer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a house icon usually mean?",
+      "options": [
+        "Home or main page",
+        "Go to bed",
+        "Build a house",
+        "Exit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can icons have labels (names)?",
+      "options": [
+        "Yes, underneath",
+        "No, never",
+        "Only in English",
+        "Only if they are big"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a camera icon do?",
+      "options": [
+        "Opens the camera",
+        "Takes a nap",
+        "Plays music",
+        "Prints"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a music note icon mean?",
+      "options": [
+        "Music player",
+        "Writing",
+        "Drawing",
+        "Math"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a floppy disk icon often mean?",
+      "options": [
+        "Save",
+        "Delete",
+        "Print",
+        "New"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are icons helpful?",
+      "options": [
+        "Yes, very",
+        "No",
+        "Sometimes",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Icon",
+      "answer": "Icon"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: App",
+      "answer": "App"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Open",
+      "answer": "Open"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Trash",
+      "answer": "Trash"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Small",
+      "answer": "Small"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Click",
+      "answer": "Click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Find",
+      "answer": "Find"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pic",
+      "answer": "Pic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Game",
+      "answer": "Game"
+    }
+  ]
+}

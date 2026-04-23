@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online tanulás",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az online tanulás?",
+      "options": [
+        "Tanulás az interneten",
+        "Tanulás az udvaron",
+        "Alvás",
+        "Játék a parkban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen eszköz kell hozzá?",
+      "options": [
+        "Számítógép vagy tablet",
+        "Foci labda",
+        "Bicikli",
+        "Lego"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kapod meg a feladatot?",
+      "options": [
+        "E-mailben vagy platformon",
+        "A postástól",
+        "Sehogy",
+        "Álmodban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a digitális tanterem?",
+      "options": [
+        "Egy weboldal a tanuláshoz",
+        "Egy szoba tele robottal",
+        "A konyha",
+        "A hűtő belseje"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a feltöltés?",
+      "options": [
+        "Kész lecke beküldése",
+        "Az akku töltése",
+        "Víz ivás",
+        "A szoba takarítása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a videólecké?",
+      "options": [
+        "Megnézni a magyarázatot",
+        "Filmnézésre",
+        "Alvásra",
+        "Játékra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálj, ha nem értesz valamit?",
+      "options": [
+        "Kérdezz a tanártól online",
+        "Dobd el a gépet",
+        "Sírj",
+        "Ne csinálj semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kvíz?",
+      "options": [
+        "Kérdéssorozat",
+        "Egy fajta étel",
+        "Egy játék neve",
+        "A gép kábele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a határidő?",
+      "options": [
+        "Amikorra kész kell lenni",
+        "A szoba fala",
+        "Egy vonal a földön",
+        "A szünet kezdete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehetsz sikeres?",
+      "options": [
+        "Gyakorlással",
+        "Sok alvással",
+        "Csak játékkal",
+        "A gép nézésével"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy tanulási platform?",
+      "options": [
+        "Google Classroom",
+        "Minecraft",
+        "Netflix",
+        "Facebook"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az interaktív?",
+      "options": [
+        "Visszajelez a gép",
+        "Nagyon lassú",
+        "Kikapcsolt",
+        "Üres"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó otthon tanulni?",
+      "options": [
+        "Kényelmes és rugalmas",
+        "Mert lehet aludni közben",
+        "Mert nem kell mosakodni",
+        "Mert lehet enni végig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire kell figyelni?",
+      "options": [
+        "A tanár magyarázatára",
+        "A falra",
+        "A macskára",
+        "A tévére"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írsz a tanárnak?",
+      "options": [
+        "Üzenetben vagy e-mailben",
+        "Kiabálsz a szobában",
+        "Papírrepülővel",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a digitális tananyag?",
+      "options": [
+        "Számítógépes lecke",
+        "Egy nehéz könyv",
+        "A billentyűzet",
+        "Egy robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e együtt dolgozni másokkal?",
+      "options": [
+        "Igen, online csoportban",
+        "Nem",
+        "Csak ha átmész hozzájuk",
+        "Csak telefonon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a visszajelzés?",
+      "options": [
+        "A tanár véleménye a munkádról",
+        "Egy furcsa hang",
+        "A gép zúgása",
+        "Visszafelé beszéd"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálsz szünetben?",
+      "options": [
+        "Pihenteted a szemed",
+        "Még többet gépezel",
+        "Belenézel a napba",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ülj a gép előtt?",
+      "options": [
+        "Egyenes háttal",
+        "Fekve",
+        "Fejen állva",
+        "Görnyedten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a digitális írástudás?",
+      "options": [
+        "A gép használatának tudása",
+        "Gépelés",
+        "Rajzolás az egérrel",
+        "Kódolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a naptár?",
+      "options": [
+        "Beosztani az időt",
+        "Rajzolni bele",
+        "Letépni a lapokat",
+        "Enni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a szinkron tanulás?",
+      "options": [
+        "Mindenki egyszerre van jelen",
+        "Mindenki alszik",
+        "Csak a tanár van ott",
+        "Senki sincs ott"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az aszinkron tanulás?",
+      "options": [
+        "Bármikor megnézheted a leckét",
+        "Nincs lecke",
+        "Csak éjjel lehet tanulni",
+        "Nagyon gyors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való az online tanulás?",
+      "options": [
+        "Tudásszerzésre a neten",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kurzus",
+      "answer": "kurzus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tanár",
+      "answer": "tanár"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: lecke",
+      "answer": "lecke"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: feltöltés",
+      "answer": "feltöltés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: videó",
+      "answer": "videó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kvíz",
+      "answer": "kvíz"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: házi",
+      "answer": "házi"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tudás",
+      "answer": "tudás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: iskola",
+      "answer": "iskola"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: platform",
+      "answer": "platform"
+    }
+  ]
+}

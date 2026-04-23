@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Sound and Video",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we use to hear sound from a computer?",
+      "options": [
+        "Speakers or headphones",
+        "The monitor",
+        "The mouse",
+        "The keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to record our voice?",
+      "options": [
+        "Microphone",
+        "Speaker",
+        "Monitor",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'volume'?",
+      "options": [
+        "How loud or quiet it is",
+        "How heavy it is",
+        "How fast it is",
+        "How many colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Mute' do?",
+      "options": [
+        "Turns off all sound",
+        "Makes it louder",
+        "Starts a video",
+        "Changes the song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'video'?",
+      "options": [
+        "Moving pictures with sound",
+        "A static drawing",
+        "A type of food",
+        "A loud noise only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Play' mean?",
+      "options": [
+        "Start the video or song",
+        "Stop it",
+        "Delete it",
+        "Save it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Pause' mean?",
+      "options": [
+        "Stop for a moment",
+        "Make it fast",
+        "Make it loud",
+        "Close it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you watch videos on YouTube?",
+      "options": [
+        "Yes, many for kids",
+        "No, never",
+        "Only if you are 20",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'headphones' for?",
+      "options": [
+        "Listening without others hearing",
+        "Keeping ears warm",
+        "Taking photos",
+        "Typing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you listen to very loud music?",
+      "options": [
+        "No, it's bad for ears",
+        "Yes, as loud as possible",
+        "Only if it's good",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'music file'?",
+      "options": [
+        "A song saved on computer",
+        "A type of paper",
+        "A monitor sound",
+        "A broken game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'streaming'?",
+      "options": [
+        "Watching/listening online without downloading",
+        "Swimming in a river",
+        "Cleaning the screen",
+        "Singing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make a video on a computer?",
+      "options": [
+        "Yes, with a camera and tools",
+        "No, only movies can",
+        "Only if you are 12",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'fast forward'?",
+      "options": [
+        "Skipping ahead",
+        "Going back",
+        "Stopping",
+        "Making it loud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'rewind'?",
+      "options": [
+        "Going back to the start",
+        "Going fast",
+        "Stopping",
+        "Saving"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'media player'?",
+      "options": [
+        "App that plays sound/video",
+        "A type of toy",
+        "A monitor stand",
+        "A loud speaker only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a computer to sing karaoke?",
+      "options": [
+        "Yes, with lyrics on screen",
+        "No, never",
+        "Only if you are good",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'sound effect'?",
+      "options": [
+        "A special sound like a beep",
+        "A type of music",
+        "A loud shout",
+        "A broken file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'voice chat'?",
+      "options": [
+        "Talking over the internet",
+        "A type of robot",
+        "A loud sound",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you be quiet in a library?",
+      "options": [
+        "Yes, use headphones",
+        "No, shout",
+        "Only if they tell you",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'podcast'?",
+      "options": [
+        "A digital radio show",
+        "A type of food",
+        "A small bird",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can computers talk to you?",
+      "options": [
+        "Yes, text-to-speech",
+        "No, never",
+        "Only if they are red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'video call'?",
+      "options": [
+        "Seeing and talking to someone far away",
+        "A type of phone",
+        "A loud sound",
+        "A broken monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to watch videos in class?",
+      "options": [
+        "Only if the teacher says so",
+        "Yes, always",
+        "Only if quiet",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do you like listening to stories?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sound",
+      "answer": "Sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Music",
+      "answer": "Music"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hear",
+      "answer": "Hear"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Loud",
+      "answer": "Loud"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Song",
+      "answer": "Song"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sing",
+      "answer": "Sing"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Beat",
+      "answer": "Beat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Play",
+      "answer": "Play"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stop",
+      "answer": "Stop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Voice",
+      "answer": "Voice"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "The Monitor",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is another name for the monitor?",
+      "options": [
+        "Screen",
+        "Printer",
+        "Case",
+        "Speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do with a monitor?",
+      "options": [
+        "Look at it",
+        "Sit on it",
+        "Type on it",
+        "Eat on it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If the monitor is black, what is likely wrong?",
+      "options": [
+        "It is off",
+        "It is hungry",
+        "It is happy",
+        "It is sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are the tiny dots on a screen called?",
+      "options": [
+        "Pixels",
+        "Ants",
+        "Dust",
+        "Spots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you touch every monitor to click?",
+      "options": [
+        "No, only touchscreens",
+        "Yes, always",
+        "Only if it is new",
+        "Only with a pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we need a monitor?",
+      "options": [
+        "To see our work",
+        "To hear music",
+        "To keep desk heavy",
+        "To cool the room"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you use to clean a screen?",
+      "options": [
+        "Soft cloth",
+        "Wet sponge",
+        "Brush",
+        "Soap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the monitor an input or output device?",
+      "options": [
+        "Output",
+        "Input",
+        "Both",
+        "Neither"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where does the monitor plug in?",
+      "options": [
+        "Computer case",
+        "Mouse",
+        "Keyboard",
+        "Chair"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you turn it off?",
+      "options": [
+        "Screen goes black",
+        "Computer explodes",
+        "Music stops",
+        "Mouse dies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'desktop'?",
+      "options": [
+        "The main screen area",
+        "The actual desk",
+        "The floor",
+        "A type of paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can monitors show colors?",
+      "options": [
+        "Yes, millions",
+        "No, only grey",
+        "Only red",
+        "Only when sunny"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'brightness'?",
+      "options": [
+        "How much light it gives",
+        "How heavy it is",
+        "How loud it is",
+        "How fast it is"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you sit very close to the monitor?",
+      "options": [
+        "No, it's bad for eyes",
+        "Yes, very close",
+        "Only if it's small",
+        "Only if you wear a hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows up when we move the mouse?",
+      "options": [
+        "Cursor",
+        "Picture",
+        "Sound",
+        "Light"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a monitor be flat?",
+      "options": [
+        "Yes, most are",
+        "No, always round",
+        "No, always a cube",
+        "Only if it's broken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do all monitors have buttons?",
+      "options": [
+        "Yes, usually for power",
+        "No, never",
+        "Only in space",
+        "Only if they are old"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can you watch on a monitor?",
+      "options": [
+        "Videos and games",
+        "The weather outside",
+        "Your dreams",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the monitor important for learning?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for games",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call a screen that we can touch?",
+      "options": [
+        "Touchscreen",
+        "Softscreen",
+        "Pussyscreen",
+        "Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color is the screen when turned off?",
+      "options": [
+        "Black",
+        "White",
+        "Blue",
+        "Rainbow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a TV be used as a monitor?",
+      "options": [
+        "Yes, often",
+        "No, never",
+        "Only if it is small",
+        "Only if it is broken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the glass part of the monitor?",
+      "options": [
+        "The screen",
+        "The frame",
+        "The cable",
+        "The stand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you not do to a monitor?",
+      "options": [
+        "Hit it",
+        "Look at it",
+        "Turn it on",
+        "Clean it with a dry cloth"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do some people have two monitors?",
+      "options": [
+        "To see more things",
+        "Because they are rich",
+        "To make more noise",
+        "To keep warm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Screen",
+      "answer": "Screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Monitor",
+      "answer": "Monitor"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Watch",
+      "answer": "Watch"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Light",
+      "answer": "Light"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Color",
+      "answer": "Color"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pixel",
+      "answer": "Pixel"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Show",
+      "answer": "Show"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Bright",
+      "answer": "Bright"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Clear",
+      "answer": "Clear"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Look",
+      "answer": "Look"
+    }
+  ]
+}

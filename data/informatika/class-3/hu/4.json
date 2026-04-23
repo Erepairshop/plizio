@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Videohívás Zoom",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a Zoom?",
+      "options": [
+        "Videohívó program",
+        "Egy fajta nagyító",
+        "Egy gyors autó",
+        "Egy állatkert"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi kell a videohíváshoz?",
+      "options": [
+        "Kamera és mikrofon",
+        "Egy kanál",
+        "Egy plüssmaci",
+        "Csak egy asztal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy látod a többieket?",
+      "options": [
+        "A képernyőn",
+        "A szemeddel a szobában",
+        "Sehogy",
+        "A falon keresztül"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a némítás?",
+      "options": [
+        "Kikapcsolja a mikrofonod",
+        "Kikapcsolja a képet",
+        "Kikapcsolja a gépet",
+        "Megállítja az időt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Start Video'?",
+      "options": [
+        "Bekapcsolja a kamerát",
+        "Elindít egy filmet",
+        "Kinyitja az ablakot",
+        "Rajzol egy képet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Chat' funkció?",
+      "options": [
+        "Szöveges üzenetküldés",
+        "Macska etetés",
+        "Alvás",
+        "Gépelés gyakorlás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelentkezel a Zoomon?",
+      "options": [
+        "Kézfeltartás ikonnal",
+        "Kiabálsz",
+        "Ugrálsz",
+        "Kikapcsolod a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Share Screen'?",
+      "options": [
+        "Képernyőmegosztás",
+        "A monitor kettévágása",
+        "Osztozkodás a billentyűzeten",
+        "Kép küldése postán"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Meeting'?",
+      "options": [
+        "Találkozó",
+        "Egy fajta étel",
+        "A tanár neve",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Leave' gomb?",
+      "options": [
+        "Kilépés a hívásból",
+        "Levélírás",
+        "A gép leállítása",
+        "Maradás a hívásban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova kell kattintani a belépéshez?",
+      "options": [
+        "A hívás linkjére",
+        "A monitor szélére",
+        "A billentyűzetre",
+        "Az egér padra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Waiting Room'?",
+      "options": [
+        "Váróterem",
+        "A nappalink",
+        "A hálószoba",
+        "Egy sötét doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan hívjuk a hívás vezetőjét?",
+      "options": [
+        "Host (Házigazda)",
+        "Szakács",
+        "Kapitány",
+        "Király"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e virtuális hátteret beállítani?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha kifestjük a szobát",
+        "Csak papírból"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Gallery View'?",
+      "options": [
+        "Mindenkit látsz egyszerre",
+        "Egy festmény",
+        "A konyha",
+        "A monitor sarka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a mikrofon?",
+      "options": [
+        "Hogy halljanak téged",
+        "Hogy lássanak téged",
+        "Hogy hallj másokat",
+        "Hogy rajzolj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a hangszóró?",
+      "options": [
+        "Hogy hallj másokat",
+        "Hogy halljanak téged",
+        "Hogy lássanak",
+        "Hogy gépelj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha szakadozik a hang?",
+      "options": [
+        "Ellenőrizd az internetet",
+        "Dobd el a gépet",
+        "Kiabálj hangosabban",
+        "Zárd be a szemed"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e hívás közben fájlt küldeni?",
+      "options": [
+        "Igen, a chaten",
+        "Nem",
+        "Csak postagalambbal",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Mute All'?",
+      "options": [
+        "Mindenki némítása",
+        "Mindenki kikapcsolása",
+        "Mindenki ugráltatása",
+        "Zene bekapcsolása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a mikrofon?",
+      "options": [
+        "Kicsi mikrofon rajz",
+        "Egy fa",
+        "Egy autó",
+        "Egy napocska"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a kamera?",
+      "options": [
+        "Kicsi videokamera rajz",
+        "Egy ház",
+        "Egy labda",
+        "Egy ceruza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit illik csinálni hívás közben?",
+      "options": [
+        "Figyelni a beszélőre",
+        "Enni hangosan",
+        "Rohangálni",
+        "Aludni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Breakout Room'?",
+      "options": [
+        "Csoportszoba",
+        "A konyha",
+        "A kijárat",
+        "A gép belseje"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a Zoom?",
+      "options": [
+        "Online tanulásra és beszélgetésre",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kamera",
+      "answer": "kamera"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mikrofon",
+      "answer": "mikrofon"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: hang",
+      "answer": "hang"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kép",
+      "answer": "kép"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: belépés",
+      "answer": "belépés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: beszélgetés",
+      "answer": "beszélgetés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: képernyőmegosztás",
+      "answer": "képernyőmegosztás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: némítás",
+      "answer": "némítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: galéria",
+      "answer": "galéria"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: virtuális",
+      "answer": "virtuális"
+    }
+  ]
+}

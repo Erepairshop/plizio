@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Making Music",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Can you make music on a computer?",
+      "options": [
+        "Yes, with apps and tools",
+        "No, only with real drums",
+        "Only if you are 15",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'note' in music?",
+      "options": [
+        "A single sound",
+        "A written letter only",
+        "A mouse click",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'rhythm'?",
+      "options": [
+        "The beat of the music",
+        "The volume",
+        "The color",
+        "A type of food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'composer'?",
+      "options": [
+        "Someone who writes music",
+        "Someone who reads books",
+        "A computer part",
+        "A game score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record yourself singing?",
+      "options": [
+        "Yes, with a microphone",
+        "No, never",
+        "Only if you are good",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'digital piano'?",
+      "options": [
+        "A piano on the screen",
+        "A real heavy piano",
+        "A type of toy",
+        "A broken keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the instrument sound?",
+      "options": [
+        "Yes, e.g. piano to guitar",
+        "No, always the same",
+        "Only if it's loud",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'volume' in music?",
+      "options": [
+        "How loud or quiet",
+        "How fast",
+        "How heavy",
+        "A color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'tempo'?",
+      "options": [
+        "The speed of the music",
+        "A type of drum",
+        "A secret code",
+        "A broken file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'headphones' for in music?",
+      "options": [
+        "Listening without disturbing others",
+        "Making it louder for everyone",
+        "Typing",
+        "Singing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make a song with a friend?",
+      "options": [
+        "Yes, collaborating",
+        "No, music is solo",
+        "Only if you are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'electronic music'?",
+      "options": [
+        "Music made using computers",
+        "Music made by robots only",
+        "Music from a toaster",
+        "Broken music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'beat'?",
+      "options": [
+        "The steady pulse of music",
+        "Hitting the computer",
+        "A type of food",
+        "A game level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'mixing'?",
+      "options": [
+        "Putting sounds together",
+        "Stirring a cake",
+        "Deleting music",
+        "Printing music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share your song?",
+      "options": [
+        "Yes, as an audio file",
+        "No, music stays in computer",
+        "Only if it is short",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'playlist'?",
+      "options": [
+        "A list of songs to play",
+        "A place to play games",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you learn to play an instrument online?",
+      "options": [
+        "Yes, with videos and apps",
+        "No, impossible",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'microphone' used for?",
+      "options": [
+        "To catch sound",
+        "To make sound",
+        "To see things",
+        "To type"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'loop' in music?",
+      "options": [
+        "A part that repeats",
+        "A circle drawing",
+        "A broken note",
+        "A jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'synthesizer'?",
+      "options": [
+        "A tool to make new sounds",
+        "A type of computer",
+        "A loud speaker",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is making music fun?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you write lyrics on a computer?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you sing",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'chord'?",
+      "options": [
+        "Many notes played at once",
+        "A single note",
+        "A type of string",
+        "A loud shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can music make you feel happy?",
+      "options": [
+        "Yes, often",
+        "No, never",
+        "Only if it's loud",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are you a rockstar?",
+      "options": [
+        "Maybe one day!",
+        "No",
+        "Yes",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Song",
+      "answer": "Song"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Note",
+      "answer": "Note"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Beat",
+      "answer": "Beat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Drum",
+      "answer": "Drum"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tune",
+      "answer": "Tune"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sing",
+      "answer": "Sing"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Play",
+      "answer": "Play"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Rock",
+      "answer": "Rock"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pop",
+      "answer": "Pop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Band",
+      "answer": "Band"
+    }
+  ]
+}

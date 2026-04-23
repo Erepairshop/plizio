@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Böngésző fülek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mik azok a böngésző fülek?",
+      "options": [
+        "Több megnyitott oldal egyszerre",
+        "A gép fülei",
+        "A monitor sarka",
+        "Az egér gombjai"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nyitsz új fület?",
+      "options": [
+        "A + gombra kattintva",
+        "Kikapcsolod a gépet",
+        "Megütöd a monitort",
+        "Vársz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan váltasz a fülek között?",
+      "options": [
+        "Rákattintasz a fülre",
+        "Kiabálsz neki",
+        "Megrázzuk az egeret",
+        "Semmit nem teszel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan zársz be egy fület?",
+      "options": [
+        "Az X-re kattintva a fülön",
+        "Kihúzod a gépet",
+        "Betakarod a monitort",
+        "Odaadsz egy almát"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó a sok fül?",
+      "options": [
+        "Több dolgot látsz egyszerre",
+        "Mert színes",
+        "Mert ettől gyorsabb a gép",
+        "Nem jó"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e túl sok fül nyitva?",
+      "options": [
+        "Igen, lelassíthatja a gépet",
+        "Nem, végtelen lehet",
+        "Csak ha süt a nap",
+        "Csak kettő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha bezárod a böngészőt?",
+      "options": [
+        "Minden fül bezárul",
+        "Minden fül megmarad az égen",
+        "A gép elromlik",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet visszaállítani egy fület?",
+      "options": [
+        "Előzményekből vagy Ctrl+Shift+T",
+        "Sírni kell",
+        "Új gépet kell venni",
+        "Várni holnapig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Pin tab' (rögzítés)?",
+      "options": [
+        "A fül fixálása bal oldalon",
+        "A fül kiszínezése",
+        "A fül letörlése",
+        "A monitor kilyukasztása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e csoportosítani a füleket?",
+      "options": [
+        "Igen, egyes böngészőkben",
+        "Nem, soha",
+        "Csak papíron",
+        "Csak ha a tanár megengedi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség ablak és fül között?",
+      "options": [
+        "Az ablakban több fül lehet",
+        "Nincs különbség",
+        "Az ablak kerek",
+        "A fül piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az inkognitó fül?",
+      "options": [
+        "Nem menti az előzményeket",
+        "Láthatatlan lesz a monitor",
+        "Kikapcsol a net",
+        "Egy titkos játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látszik, melyik fülön van hang?",
+      "options": [
+        "Egy kis hangszóró ikonnal",
+        "Villog a fül",
+        "Zúg a gép",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e áthúzni egy fület másik ablakba?",
+      "options": [
+        "Igen, az egérrel",
+        "Nem",
+        "Csak varázslattal",
+        "Csak ollóval"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó rögzíteni a füleket?",
+      "options": [
+        "Hogy mindig ott legyenek",
+        "Hogy elrejtse őket",
+        "Hogy törölje őket",
+        "Hogy gyorsabb legyen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet bezárni az összes fület egyszerre?",
+      "options": [
+        "A böngésző bezárásával",
+        "Egyenként kattintva",
+        "Kikapcsolva a falon",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb frissíti a fület?",
+      "options": [
+        "A környíl ikon",
+        "A háromszög",
+        "A négyzet",
+        "Az X"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha sok fül van?",
+      "options": [
+        "Kisebbek lesznek a fülek",
+        "Nagyobbak lesznek",
+        "Eltűnek",
+        "Megváltozik a színük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kereshetsz a fülek között?",
+      "options": [
+        "Néhány böngészőben van kereső",
+        "Nézni kell őket",
+        "Meg kell kérdezni a gépet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'favicon'?",
+      "options": [
+        "A fülön lévő kis ikon",
+        "Egy fagyi",
+        "Egy kutya",
+        "A monitor gombja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a fül?",
+      "options": [
+        "Könnyebb váltásra oldalak között",
+        "Hallgatásra",
+        "Rajzolásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Ctrl+T?",
+      "options": [
+        "Új fület nyit",
+        "Bezárja a gépet",
+        "Törli a memóriát",
+        "Rajzol egy T betűt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Ctrl+W?",
+      "options": [
+        "Bezárja az aktuális fület",
+        "Kinyitja az ablakot",
+        "Vízszintes lesz a kép",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e színezni a fülcsoportokat?",
+      "options": [
+        "Igen, némelyik böngészőben",
+        "Nem",
+        "Csak filctollal",
+        "Csak ha esik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a böngésző fül?",
+      "options": [
+        "Rendezett netezésre",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: fül",
+      "answer": "fül"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ablak",
+      "answer": "ablak"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: váltás",
+      "answer": "váltás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: bezárás",
+      "answer": "bezárás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: új",
+      "answer": "új"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: nyitás",
+      "answer": "nyitás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: csoport",
+      "answer": "csoport"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: rendezés",
+      "answer": "rendezés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: böngészés",
+      "answer": "böngészés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: gyors",
+      "answer": "gyors"
+    }
+  ]
+}

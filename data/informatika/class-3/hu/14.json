@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Prezentáció",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a prezentáció?",
+      "options": [
+        "Bemutató",
+        "Egy fajta ajándék",
+        "Egy rajz",
+        "Egy film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a prezentáció?",
+      "options": [
+        "Előadások tartására",
+        "Alvásra",
+        "Főzésre",
+        "Sportolásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a prezentáció lapjait?",
+      "options": [
+        "Diák",
+        "Tanulók",
+        "Füzetek",
+        "Kavicsok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a Google prezentációkészítője?",
+      "options": [
+        "Google Slides",
+        "Google Docs",
+        "Google Sheets",
+        "Google Maps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tehetünk egy diára?",
+      "options": [
+        "Szöveget, képet, videót",
+        "Csak vizet",
+        "Semmit",
+        "Egy egész házat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az animáció?",
+      "options": [
+        "Elemek mozgása a dián",
+        "Egy fajta állat",
+        "A monitor pora",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az átmenet?",
+      "options": [
+        "A diák közötti váltás stílusa",
+        "Egy híd",
+        "A folyosó",
+        "A szünet kezdete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan indítjuk el a vetítést?",
+      "options": [
+        "A 'Present' gombbal",
+        "Kiabálunk neki",
+        "Kikapcsoljuk a gépet",
+        "Megütjük a monitort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Layout' (elrendezés)?",
+      "options": [
+        "Hogyan helyezkednek el az elemek",
+        "Egy fajta ágy",
+        "A monitor sarka",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e zenét tenni alá?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha énekelünk",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Theme' (téma)?",
+      "options": [
+        "A bemutató stílusa és színei",
+        "A tanár kedvence",
+        "Egy játék",
+        "A gép kábele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan váltunk a következő diára?",
+      "options": [
+        "Kattintással vagy nyíllal",
+        "Ugrálással",
+        "Sehogy",
+        "Várni kell sokat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen a jó prezentáció?",
+      "options": [
+        "Lényegre törő és szép",
+        "Tele van szöveggel",
+        "Csak fekete",
+        "Láthatatlan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Insert'?",
+      "options": [
+        "Beszúrás (pl. képé)",
+        "Kivágás",
+        "Törlés",
+        "Másolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy diát?",
+      "options": [
+        "Jobb klikk és törlés vagy Delete",
+        "Kidobjuk a monitort",
+        "Letöröljük vízzel",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Speaker notes'?",
+      "options": [
+        "Előadói jegyzetek",
+        "Egy hangszóró",
+        "Zene",
+        "A tanár szava"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videót beszúrni?",
+      "options": [
+        "Igen, pl. YouTube-ról",
+        "Nem",
+        "Csak ha rövid",
+        "Csak ha hangos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozgathatjuk a diákat?",
+      "options": [
+        "Húzással bal oldalon",
+        "Sehogy",
+        "Kiabálva",
+        "Kéréssel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Background' (háttér)?",
+      "options": [
+        "A dia mögötti kép vagy szín",
+        "A kertünk",
+        "A gép háta",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a szövegdoboz?",
+      "options": [
+        "Hogy írhassunk a diára",
+        "Egy doboz papírral",
+        "A gép asztala",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a Google Slides?",
+      "options": [
+        "Sárga lap ikon",
+        "Kék kocka",
+        "Zöld kör",
+        "Piros szív"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e közösen készíteni?",
+      "options": [
+        "Igen, a megosztással",
+        "Nem",
+        "Csak papíron",
+        "Csak ha egy gépnél vagytok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Full screen'?",
+      "options": [
+        "Teljes képernyő",
+        "Nagy monitor",
+        "Teli táska",
+        "Sötét szoba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan fejezzük be a vetítést?",
+      "options": [
+        "Esc gombbal",
+        "Kikapcsoljuk a falon",
+        "Szaladunk egy kört",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a prezentáció?",
+      "options": [
+        "Gondolataink szemléletes bemutatására",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: dia",
+      "answer": "dia"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: bemutató",
+      "answer": "bemutató"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: animáció",
+      "answer": "animáció"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: átmenet",
+      "answer": "átmenet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szöveg",
+      "answer": "szöveg"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kép",
+      "answer": "kép"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: előadás",
+      "answer": "előadás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: stílus",
+      "answer": "stílus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: sablon",
+      "answer": "sablon"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vetítés",
+      "answer": "vetítés"
+    }
+  ]
+}

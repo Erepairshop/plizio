@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Symbole",
+  "theme": "Was ist ein Computer?",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 1)",
+      "question": "Was ist ein Computer?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 2)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 3)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Ein Gerät zum Arbeiten und Spielen",
+        "Ein elektronisches Buch",
+        "Ein Fernseher ohne Kanäle",
+        "Ein Taschenrechner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 4)",
+      "question": "Womit steuern wir den Computer?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 5)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 6)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Mit Maus und Tastatur",
+        "Mit einer Fernbedienung",
+        "Mit den Füßen",
+        "Nur mit der Stimme"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 7)",
+      "question": "Was braucht ein Computer zum Arbeiten?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 8)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 9)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Strom",
+        "Wasser",
+        "Saft",
+        "Luft"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 10)",
+      "question": "Wo sehen wir die Bilder?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 11)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 12)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Auf dem Monitor",
+        "Auf der Tastatur",
+        "In der Maus",
+        "Am Drucker"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 13)",
+      "question": "Was kann ein Computer nicht?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 14)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 15)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Eis essen",
+        "Rechnen",
+        "Bilder zeigen",
+        "Schreiben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 16)",
+      "question": "Wie nennt man einen tragbaren Computer?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 17)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 18)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Laptop",
+        "Kühlschrank",
+        "Auto",
+        "Schrank"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 19)",
+      "question": "Was ist ein Tablet?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 20)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 21)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Ein flacher Computer zum Anfassen",
+        "Ein Brettspiel",
+        "Ein Teller",
+        "Ein Buch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 22)",
+      "question": "Kann ein Computer Musik abspielen?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 23)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 24)",
-      "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Ja, er hat Lautsprecher",
+        "Nein, nur Radios können das",
+        "Nur wenn man singt",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Symbole? (Frage 25)",
+      "question": "Was ist ein Smartphone?",
       "options": [
-        "Option A für Symbole",
-        "Option B für Symbole",
-        "Option C für Symbole"
+        "Ein kleiner Computer zum Telefonieren",
+        "Ein kluges Buch",
+        "Ein schnelles Auto",
+        "Ein Spielzeug"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht ein Computer ein Gehirn?",
+      "options": [
+        "Ja, den Prozessor",
+        "Nein, er denkt nicht",
+        "Er braucht ein echtes Herz",
+        "Er braucht Vitamine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schaltet man einen Computer ein?",
+      "options": [
+        "Mit dem Einschaltknopf",
+        "Durch Klatschen",
+        "Durch Rufen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo speichert der Computer Daten?",
+      "options": [
+        "Auf der Festplatte",
+        "Im Papierkorb",
+        "Auf dem Tisch",
+        "Im Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Hardware?",
+      "options": [
+        "Alles, was man anfassen kann",
+        "Nur schwere Dinge",
+        "Die Programme",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Software?",
+      "options": [
+        "Die Programme auf dem Computer",
+        "Weiche Teile vom Computer",
+        "Das Gehäuse",
+        "Die Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Computer schlau?",
+      "options": [
+        "Er macht nur, was wir ihm sagen",
+        "Ja, er weiß alles von allein",
+        "Nein, er ist dumm",
+        "Manchmal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu nutzen wir Computer in der Schule?",
+      "options": [
+        "Zum Lernen und Üben",
+        "Nur zum Schlafen",
+        "Zum Essen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Computer rechnen?",
+      "options": [
+        "Ja, sehr schnell",
+        "Nein, er kann nur malen",
+        "Nur kleine Zahlen",
+        "Nur wenn er Lust hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Drucker?",
+      "options": [
+        "Ein Gerät, das Bilder auf Papier bringt",
+        "Ein Gerät zum Drücken",
+        "Ein Staubsauger",
+        "Ein Telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Haben Computer Kabel?",
+      "options": [
+        "Ja, oft für Strom oder Internet",
+        "Nein, nie",
+        "Nur wenn sie alt sind",
+        "Nur im Winter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein USB-Stick?",
+      "options": [
+        "Ein kleiner Speicher",
+        "Ein Kaugummi",
+        "Ein Stift zum Schreiben",
+        "Ein Schlüssel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Hauptplatine?",
+      "options": [
+        "Mainboard",
+        "Spielbrett",
+        "Landkarte",
+        "Brotbrett"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Scanner?",
+      "options": [
+        "Er macht aus Papierbildern Computerbilder",
+        "Ein Gerät zum Putzen",
+        "Ein Radio",
+        "Ein Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Computer ein Spielzeug?",
+      "options": [
+        "Es ist ein Werkzeug, kann aber Spiele abspielen",
+        "Ja, nur ein Spielzeug",
+        "Nein, nie",
+        "Nur für Babys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht man mit einer Webcam?",
+      "options": [
+        "Man kann sich beim Filmen sehen",
+        "Man kann das Wetter messen",
+        "Man kann damit kochen",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein Computer nützlich?",
+      "options": [
+        "Er hilft uns bei vielen Aufgaben",
+        "Er ist nur schwer",
+        "Er braucht Strom",
+        "Er leuchtet schön"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 1"
+      "question": "Tippe ein: Computer",
+      "answer": "Computer"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 2"
+      "question": "Tippe ein: Strom",
+      "answer": "Strom"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 3"
+      "question": "Tippe ein: Laptop",
+      "answer": "Laptop"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 4"
+      "question": "Tippe ein: Tablet",
+      "answer": "Tablet"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 5"
+      "question": "Tippe ein: Maus",
+      "answer": "Maus"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 6"
+      "question": "Tippe ein: Tasten",
+      "answer": "Tasten"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 7"
+      "question": "Tippe ein: Monitor",
+      "answer": "Monitor"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 8"
+      "question": "Tippe ein: Drucker",
+      "answer": "Drucker"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 9"
+      "question": "Tippe ein: Lernen",
+      "answer": "Lernen"
     },
     {
       "type": "typing",
-      "text": "Symbole ist toll 10"
+      "question": "Tippe ein: Arbeit",
+      "answer": "Arbeit"
     }
   ]
 }

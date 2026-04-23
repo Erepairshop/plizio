@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Rechtsklick",
+  "theme": "Malen am Computer",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 1)",
+      "question": "Wie heißt ein bekanntes Malprogramm?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 2)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 3)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Paint",
+        "Word",
+        "Excel",
+        "Chrome"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 4)",
+      "question": "Womit zeichnet man am PC meistens?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 5)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 6)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Mit der Maus",
+        "Mit einem echten Pinsel",
+        "Mit dem Finger am Monitor",
+        "Mit den Füßen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 7)",
+      "question": "Welches Werkzeug nutzt man für freies Zeichnen?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 8)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 9)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Stift oder Pinsel",
+        "Radiergummi",
+        "Eimer",
+        "Lupe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 10)",
+      "question": "Wie füllt man eine Fläche mit Farbe?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 11)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 12)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Mit dem Farbeimer-Werkzeug",
+        "Mit dem Stift ganz lange malen",
+        "Durch Pusten",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 13)",
+      "question": "Wie macht man einen Fehler rückgängig?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 14)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 15)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Mit dem 'Rückgängig'-Pfeil (Strg+Z)",
+        "Den Computer neu kaufen",
+        "Drübermalen",
+        "Sich ärgern"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 16)",
+      "question": "Welche Form kann man oft direkt auswählen?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 17)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 18)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Kreis, Rechteck, Stern",
+        "Zebra",
+        "Haus",
+        "Auto"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 19)",
+      "question": "Wie wählt man eine Farbe aus?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 20)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 21)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Man klickt sie in der Palette an",
+        "Man schreibt den Namen",
+        "Man zeigt mit dem Finger drauf",
+        "Zufall"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 22)",
+      "question": "Womit löscht man Teile vom Bild?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 23)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 24)",
-      "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Mit dem Radiergummi",
+        "Mit dem Farbeimer",
+        "Mit Wasser",
+        "Mit der Tastatur"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Rechtsklick? (Frage 25)",
+      "question": "Was macht die Lupe beim Malen?",
       "options": [
-        "Option A für Rechtsklick",
-        "Option B für Rechtsklick",
-        "Option C für Rechtsklick"
+        "Sie vergrößert einen Teil zum genauen Malen",
+        "Sie macht das Papier heiß",
+        "Sie sucht nach Fehlern",
+        "Gar nichts"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man sein Bild?",
+      "options": [
+        "Datei -> Speichern",
+        "Das Programm einfach schließen",
+        "Den Monitor fotografieren",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch bunte Farben mischen?",
+      "options": [
+        "Ja, oft gibt es ein Farbrad",
+        "Nein, nur die, die da sind",
+        "Nur Schwarz und Weiß",
+        "Nur am Sonntag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie zeichnet man eine gerade Linie?",
+      "options": [
+        "Mit dem Linien-Werkzeug",
+        "Ganz vorsichtig mit der Maus",
+        "Mit einem Lineal am Monitor",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Leinwand' im Programm?",
+      "options": [
+        "Die weiße Fläche, auf der man malt",
+        "Das Gehäuse vom PC",
+        "Die Tastatur",
+        "Der Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auch Text in ein Bild schreiben?",
+      "options": [
+        "Ja, mit dem Text-Werkzeug (A)",
+        "Nein, nur malen",
+        "Nur mit dem Pinsel",
+        "Nur ganz klein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man ein Bild am Computer oft?",
+      "options": [
+        "Bilddatei (z.B. .jpg)",
+        "Malheft",
+        "Zettel",
+        "Fotoalbum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Bild am Computer ausdrucken?",
+      "options": [
+        "Ja, mit einem Drucker",
+        "Nein, es bleibt immer im PC",
+        "Nur wenn man es abmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Grafiktablet?",
+      "options": [
+        "Ein Gerät zum Zeichnen mit einem Stift",
+        "Ein Esstisch",
+        "Ein Spielzeug",
+        "Ein Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC 'Sprühen'?",
+      "options": [
+        "Ja, mit dem Sprühdosen-Werkzeug",
+        "Nein, das wäre eine Sauerei",
+        "Nur wenn man Wasser benutzt",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Dicke des Pinsels?",
+      "options": [
+        "In den Einstellungen für die Stärke",
+        "Fester auf die Maus drücken",
+        "Sich mehr anstrengen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man eine Fläche füllt, die eine Lücke hat?",
+      "options": [
+        "Die Farbe läuft über das ganze Bild",
+        "Nichts passiert",
+        "Der PC piept",
+        "Das Bild wird schwarz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Fotos im Malprogramm bearbeiten?",
+      "options": [
+        "Ja, man kann sie öffnen und bemalen",
+        "Nein, nur selbst Gemaltes",
+        "Nur Schwarz-Weiß-Fotos",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schließt man das Malprogramm?",
+      "options": [
+        "Mit dem X oben rechts",
+        "Den Stecker ziehen",
+        "Den PC ausschalten",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Stempel' in manchen Programmen?",
+      "options": [
+        "Ein fertiges Bild, das man hinstellen kann",
+        "Ein echter Poststempel",
+        "Ein Loch im Monitor",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug ist zum genauen Malen am besten?",
+      "options": [
+        "Der Bleistift",
+        "Der dicke Eimer",
+        "Der Radierer",
+        "Die Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Malen am PC Spaß?",
+      "options": [
+        "Ja, man kann viel ausprobieren!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 1"
+      "question": "Tippe ein: Malen",
+      "answer": "Malen"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 2"
+      "question": "Tippe ein: Pinsel",
+      "answer": "Pinsel"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 3"
+      "question": "Tippe ein: Stift",
+      "answer": "Stift"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 4"
+      "question": "Tippe ein: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 5"
+      "question": "Tippe ein: Radierer",
+      "answer": "Radierer"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 6"
+      "question": "Tippe ein: Kreis",
+      "answer": "Kreis"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 7"
+      "question": "Tippe ein: Linie",
+      "answer": "Linie"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 8"
+      "question": "Tippe ein: Eimer",
+      "answer": "Eimer"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 9"
+      "question": "Tippe ein: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Rechtsklick ist toll 10"
+      "question": "Tippe ein: Kunst",
+      "answer": "Kunst"
     }
   ]
 }

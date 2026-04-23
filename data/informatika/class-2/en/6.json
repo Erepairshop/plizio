@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Drawing on Computer",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What tool do we use to draw on a computer?",
+      "options": [
+        "Paint or drawing app",
+        "The keyboard only",
+        "The printer",
+        "A hammer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'brush' tool do?",
+      "options": [
+        "Paints lines",
+        "Erases mistakes",
+        "Changes volume",
+        "Turns off screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you erase a part of your drawing?",
+      "options": [
+        "Eraser tool",
+        "Brush tool",
+        "Speaker",
+        "Closing the app"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the color of your digital pen?",
+      "options": [
+        "Yes",
+        "No",
+        "Only to black",
+        "Only to red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'fill' tool (bucket) do?",
+      "options": [
+        "Fills a shape with color",
+        "Empties the screen",
+        "Draws a line",
+        "Prints the picture"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape can you draw with a shape tool?",
+      "options": [
+        "Circles and squares",
+        "Only squiggles",
+        "Only dots",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you undo a mistake in drawing?",
+      "options": [
+        "Yes, with Undo",
+        "No, never",
+        "Only if you start over",
+        "Only with magic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'digital art'?",
+      "options": [
+        "Art made on a computer",
+        "Art made with mud",
+        "Art made with food",
+        "Art made in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save your drawing to look at it later?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for a minute",
+        "Only if it is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tool draws a perfectly straight line?",
+      "options": [
+        "Line tool",
+        "Pencil tool",
+        "Eraser tool",
+        "Bucket tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you add text to your drawing?",
+      "options": [
+        "Yes, with Text tool",
+        "No, never",
+        "Only if you write it",
+        "Only in blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'canvas' on the screen?",
+      "options": [
+        "The area where you draw",
+        "A type of shoe",
+        "A type of food",
+        "The computer case"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a brush bigger?",
+      "options": [
+        "Change the brush size",
+        "Shout at it",
+        "Click the mouse harder",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use different colors at once?",
+      "options": [
+        "Yes",
+        "No",
+        "Only two",
+        "Only rainbow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Zoom' do in drawing?",
+      "options": [
+        "Makes it look closer",
+        "Makes it go fast",
+        "Makes it loud",
+        "Makes it disappear"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw with a mouse?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's alive",
+        "Only on the floor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'stylus'?",
+      "options": [
+        "A pen for a tablet",
+        "A type of brush",
+        "A part of the keyboard",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you print your digital drawing?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is small",
+        "Only if it is grey"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'copy and paste' in drawing?",
+      "options": [
+        "Making a copy of a part",
+        "Glueing paper to screen",
+        "Eating the drawing",
+        "Printing it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the background color?",
+      "options": [
+        "Yes",
+        "No",
+        "Only to white",
+        "Only to black"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'pencil' tool usually do?",
+      "options": [
+        "Draws thin lines",
+        "Draws thick lines",
+        "Erases",
+        "Saves"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw animals on the computer?",
+      "options": [
+        "Yes, anything you want",
+        "No, only shapes",
+        "Only if you have a cat",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is digital drawing messy like real paint?",
+      "options": [
+        "No, it's clean",
+        "Yes, very messy",
+        "Only if you spill juice",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you click 'Clear'?",
+      "options": [
+        "The whole drawing goes away",
+        "The colors change",
+        "The brush gets bigger",
+        "It prints"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a computer to color in pictures?",
+      "options": [
+        "Yes, digital coloring",
+        "No, never",
+        "Only if they are old",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Draw",
+      "answer": "Draw"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Paint",
+      "answer": "Paint"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Brush",
+      "answer": "Brush"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Art",
+      "answer": "Art"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Color",
+      "answer": "Color"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Line",
+      "answer": "Line"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Shape",
+      "answer": "Shape"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fill",
+      "answer": "Fill"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tool",
+      "answer": "Tool"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Cool",
+      "answer": "Cool"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Az Internet",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az internet?",
+      "options": [
+        "Számítógépek hálózata",
+        "Egy fajta sütemény",
+        "A monitor gombja",
+        "Egy könyv címe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan csatlakozunk leggyakrabban?",
+      "options": [
+        "Wifi",
+        "Vízvezeték",
+        "Rádió",
+        "Újság"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az internet?",
+      "options": [
+        "Információ keresésre",
+        "Alvásra",
+        "Ebéd főzésre",
+        "Zokni mosásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a router?",
+      "options": [
+        "Hálózati eszköz",
+        "Egy egér típus",
+        "A billentyűzet része",
+        "A képernyő üvege"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy böngésző?",
+      "options": [
+        "Chrome",
+        "Kalapács",
+        "Alma",
+        "Ceruza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az online?",
+      "options": [
+        "Csatlakozva a hálózathoz",
+        "Kikapcsolt állapot",
+        "Rossz kedv",
+        "Üres mappa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki láthatja, amit keresel?",
+      "options": [
+        "A hálózati szolgáltató",
+        "Senki a világon",
+        "Csak a macskád",
+        "A monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a webhely?",
+      "options": [
+        "Internetoldalak gyűjteménye",
+        "Egy fizikai épület",
+        "A számítógép asztala",
+        "Egy doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a WWW?",
+      "options": [
+        "World Wide Web",
+        "World Wild West",
+        "Water White Wind",
+        "Wait Work Win"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kábel hálózati?",
+      "options": [
+        "Ethernet",
+        "Vasaló kábel",
+        "Lámpa kábel",
+        "Cipőfűző"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a modem?",
+      "options": [
+        "Jeleket átalakító eszköz",
+        "Egy játék neve",
+        "A billentyűzet neve",
+        "Egy zenei stílus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a hálózat sebességét?",
+      "options": [
+        "Sávszélesség",
+        "Hosszúság",
+        "Magasság",
+        "Súly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tesz a tűzfal?",
+      "options": [
+        "Védi a számítógépet",
+        "Melegíti a szobát",
+        "Kikapcsolja a gépet",
+        "Rajzol egy falat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem internetes szolgáltatás?",
+      "options": [
+        "Fizikai futás az utcán",
+        "E-mail",
+        "Böngészés",
+        "Streaming"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a letöltés?",
+      "options": [
+        "Adat másolása a netről",
+        "A gép kidobása",
+        "A monitor tisztítása",
+        "Új egér vétele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a feltöltés?",
+      "options": [
+        "Adat küldése a netre",
+        "Az akkumulátor töltése",
+        "A pohár megtöltése",
+        "A szoba takarítása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy közösségi oldal?",
+      "options": [
+        "Facebook",
+        "Jegyzettömb",
+        "Számológép",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a link?",
+      "options": [
+        "Hivatkozás egy oldalra",
+        "Egy láncszem",
+        "A gép kábele",
+        "Egy titkos kód"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a 'kukac' jel?",
+      "options": [
+        "@",
+        "#",
+        "$",
+        "&"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a szörfözés a neten?",
+      "options": [
+        "Oldalak nézegetése",
+        "Valódi hullámlovaglás",
+        "A gép mosása",
+        "Gépelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a domain név?",
+      "options": [
+        "Weboldal neve",
+        "A tulajdonos neve",
+        "A gép színe",
+        "A képernyő mérete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az IP cím?",
+      "options": [
+        "Egyedi azonosító a neten",
+        "Lakcím",
+        "Telefonszám",
+        "Iskolai jegy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hotspot?",
+      "options": [
+        "Vezeték nélküli pont",
+        "Egy forró pont a falon",
+        "A gép hűtője",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a böngésző?",
+      "options": [
+        "Weboldalak megnyitására",
+        "Rajzolásra",
+        "Zenehallgatásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a felhő?",
+      "options": [
+        "Online tárhely",
+        "Az égen lévő felhő",
+        "A gép pora",
+        "Egy fehér gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: hálózat",
+      "answer": "hálózat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: webhely",
+      "answer": "webhely"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: router",
+      "answer": "router"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kábel",
+      "answer": "kábel"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kapcsolat",
+      "answer": "kapcsolat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: világháló",
+      "answer": "világháló"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: böngésző",
+      "answer": "böngésző"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: wifi",
+      "answer": "wifi"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szörfözés",
+      "answer": "szörfözés"
+    }
+  ]
+}

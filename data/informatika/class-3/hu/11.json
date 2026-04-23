@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Tárhely és felhő",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a felhő tárhely?",
+      "options": [
+        "Online adattárolás",
+        "Egy felhő az égen",
+        "A monitor pora",
+        "Egy fehér doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a felhő?",
+      "options": [
+        "Bárhonnan elérhetjük a fájljainkat",
+        "Eső csinálásra",
+        "Alvásra",
+        "Főzésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a Google Drive?",
+      "options": [
+        "Egy felhő alapú tárhely",
+        "Egy autó",
+        "Egy játék",
+        "A monitor neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a szinkronizálás?",
+      "options": [
+        "Az adatok frissítése minden eszközön",
+        "Zenehallgatás",
+        "Alvás",
+        "Rajzolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kell-e internet a felhőhöz?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha süt a nap",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség a pendrive és a felhő között?",
+      "options": [
+        "A felhőhöz nem kell fizikai eszköz",
+        "Nincs különbség",
+        "A pendrive felhő alakú",
+        "A felhő piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a megosztás?",
+      "options": [
+        "Mások is láthatják a fájlt",
+        "Kettévágjuk a gépet",
+        "Odaadjuk az uzsonnát",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Biztonságos a felhő?",
+      "options": [
+        "Igen, ha jó a jelszavunk",
+        "Soha",
+        "Csak ha esik",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a Gigabyte (GB)?",
+      "options": [
+        "A tárhely mértékegysége",
+        "Egy fajta süti",
+        "A gép súlya",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e képeket tárolni a felhőben?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak feketét",
+        "Csak kicsit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'OneDrive'?",
+      "options": [
+        "A Microsoft felhője",
+        "Egy autó",
+        "Egy játék",
+        "Egy szám"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Download' a felhőből?",
+      "options": [
+        "A fájlt a gépünkre másolja",
+        "Törli a fájlt",
+        "Megszínezi",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az 'Upload' a felhőbe?",
+      "options": [
+        "A fájlt a felhőbe küldi",
+        "Kikapcsolja a netet",
+        "Rajzol egy felhőt",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha betelik a tárhely?",
+      "options": [
+        "Nem tudunk többet menteni",
+        "Kirobban a gép",
+        "Eltűnik a monitor",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ingyenes a felhő?",
+      "options": [
+        "Gyakran van ingyenes rész",
+        "Soha",
+        "Mindig",
+        "Csak ha kéred"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Link megosztás'?",
+      "options": [
+        "Egy címet küldünk a fájlhoz",
+        "Láncot küldünk",
+        "Kettévágjuk a linket",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e közösen szerkeszteni fájlt?",
+      "options": [
+        "Igen, a felhőben",
+        "Nem",
+        "Csak papíron",
+        "Csak ha a tanár ott van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az iCloud?",
+      "options": [
+        "Az Apple felhője",
+        "Egy fajta jég",
+        "Egy felhő",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lépünk be a felhőbe?",
+      "options": [
+        "Felhasználónévvel és jelszóval",
+        "Az ablakon át",
+        "Sehogy",
+        "Kiabálva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a biztonsági mentés?",
+      "options": [
+        "Hogy megmaradjanak az adatok",
+        "Mert szép",
+        "Mert kötelező",
+        "Főzéshez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Trash' vagy 'Bin' a felhőben?",
+      "options": [
+        "A törölt fájlok helye",
+        "Egy igazi kuka",
+        "A monitor sarka",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videót nézni a felhőből?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha rövid",
+        "Csak ha hangos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Offline elérés'?",
+      "options": [
+        "Internet nélkül is látjuk a fájlt",
+        "Nem látunk semmit",
+        "Kikapcsolt gép",
+        "Vak sötét"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a tárhely kapacitás?",
+      "options": [
+        "Mennyi adat fér el rajta",
+        "A gép ereje",
+        "A monitor fénye",
+        "A billentyűk száma"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a felhő tárhely?",
+      "options": [
+        "Biztonságos és rugalmas tárolásra",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: felhő",
+      "answer": "felhő"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tárhely",
+      "answer": "tárhely"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: meghajtó",
+      "answer": "meghajtó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: megosztás",
+      "answer": "megosztás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mentés",
+      "answer": "mentés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: távoli",
+      "answer": " távoli"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: adat",
+      "answer": "adat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: fájl",
+      "answer": "fájl"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szinkron",
+      "answer": "szinkron"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kapacitás",
+      "answer": "kapacitás"
+    }
+  ]
+}

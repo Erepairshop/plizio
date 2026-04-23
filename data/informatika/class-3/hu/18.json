@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bevezetés az algoritmusokba",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az algoritmus?",
+      "options": [
+        "Lépések sorozata egy cél eléréséhez",
+        "Egy fajta robot",
+        "Egy nehéz könyv",
+        "A gép neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy algoritmus a valóságban?",
+      "options": [
+        "Egy recept követése",
+        "Alvás",
+        "Nézés",
+        "Eső"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell adni az utasításokat?",
+      "options": [
+        "Pontosan és sorrendben",
+        "Ahogy eszünkbe jut",
+        "Kiabálva",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha kimarad egy lépés?",
+      "options": [
+        "Rossz lesz az eredmény",
+        "Semmi nem történik",
+        "A gép megjavítja",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a sorrendiség?",
+      "options": [
+        "A lépések egymásutánja",
+        "A szoba rendje",
+        "A gép színe",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a probléma megoldás?",
+      "options": [
+        "A feladat darabokra bontása",
+        "Sírás",
+        "Futás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik állat tud algoritmust követni?",
+      "options": [
+        "Bármelyik, ha betanítják (de a robot a legjobb)",
+        "Csak a macska",
+        "Csak a hangya",
+        "Senki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a tervezés?",
+      "options": [
+        "A lépések átgondolása előre",
+        "Rajzolás",
+        "Gépelés",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a logikai gondolkodás?",
+      "options": [
+        "Az ok-okozat megértése",
+        "Sok olvasás",
+        "Gyors futás",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Input'?",
+      "options": [
+        "Bemeneti adat",
+        "Kimenet",
+        "Gép kábele",
+        "Egy doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Output'?",
+      "options": [
+        "Kimeneti eredmény",
+        "Bemenet",
+        "A gép lába",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több út egy célhoz?",
+      "options": [
+        "Igen, többféle algoritmus létezik",
+        "Nem, csak egy",
+        "Csak ha süt a nap",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hatékonyság?",
+      "options": [
+        "A leggyorsabb/legjobb megoldás",
+        "A gép ereje",
+        "A monitor fénye",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy programozó?",
+      "options": [
+        "Algoritmusokat ír a gépnek",
+        "Javítja a széket",
+        "Főzi az ebédet",
+        "Alszik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hiba (Bug)?",
+      "options": [
+        "Rossz lépés az algoritmusban",
+        "Egy igazi bogár",
+        "A monitor kosza",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hibakeresés (Debugging)?",
+      "options": [
+        "A hiba megtalálása és javítása",
+        "Bogárgyűjtés",
+        "A gép mosása",
+        "Várni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e rajzolni az algoritmust?",
+      "options": [
+        "Igen, folyamatábrával",
+        "Nem",
+        "Csak tollal",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az ismétlés?",
+      "options": [
+        "Ugyanazon lépés többszöri elvégzése",
+        "Újraírás",
+        "Kikapcsolás",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a feltétel?",
+      "options": [
+        "Döntés egy helyzet alapján (ha...)",
+        "Egy ígéret",
+        "A szoba fala",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a gép feladata az algoritmusban?",
+      "options": [
+        "Végrehajtja az utasításokat",
+        "Kitalálja mit akarunk",
+        "Semmi",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Lépésről lépésre'?",
+      "options": [
+        "Fokozatos haladás",
+        "Ugrálás",
+        "Rohangálás",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az elágazás?",
+      "options": [
+        "Választás két lehetőség között",
+        "Egy fa ága",
+        "Útelágazás a parkban",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a folyamat?",
+      "options": [
+        "A lépések összessége",
+        "Egy folyó",
+        "A gép hangja",
+        "Víz ivás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az algoritmus?",
+      "options": [
+        "Segít megoldani a feladatokat",
+        "Hallgatásra",
+        "Rajzolásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki készíti az algoritmusokat?",
+      "options": [
+        "Az emberek (mi)",
+        "A robotok maguktól",
+        "A monitor",
+        "A billentyűzet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: lépés",
+      "answer": "lépés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: sorrend",
+      "answer": "sorrend"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: utasítás",
+      "answer": "utasítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: probléma",
+      "answer": "probléma"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: megoldás",
+      "answer": "megoldás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: terv",
+      "answer": "terv"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: logika",
+      "answer": "logika"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: elágazás",
+      "answer": "elágazás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ismétlés",
+      "answer": "ismétlés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: folyamat",
+      "answer": "folyamat"
+    }
+  ]
+}

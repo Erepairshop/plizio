@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Saving Your Work",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Why should you save your work?",
+      "options": [
+        "So you don't lose it when closing",
+        "To make it louder",
+        "To hide it",
+        "To delete it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the save icon often look like?",
+      "options": [
+        "A floppy disk",
+        "A flower",
+        "A car",
+        "A house"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'file name'?",
+      "options": [
+        "The name you give your work",
+        "Your real name",
+        "A type of food",
+        "A computer monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you save work?",
+      "options": [
+        "In folders or the cloud",
+        "On the floor",
+        "Inside the mouse",
+        "In the trash"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you don't save?",
+      "options": [
+        "Your work might disappear",
+        "The computer gets stronger",
+        "It turns green",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Auto-save'?",
+      "options": [
+        "The computer saves for you",
+        "A fast car",
+        "A type of game",
+        "A broken button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Save As'?",
+      "options": [
+        "Saving with a new name",
+        "Saving as a bird",
+        "Saving as a food",
+        "Not saving"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save work on a USB stick?",
+      "options": [
+        "Yes, it's portable",
+        "No, never",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'The Cloud'?",
+      "options": [
+        "Saving on the internet",
+        "A white thing in sky",
+        "A type of ice cream",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you name your file 'asdfgh'?",
+      "options": [
+        "No, use a good name",
+        "Yes, it's fast",
+        "Only if you are 8",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'backup'?",
+      "options": [
+        "A second copy of your work",
+        "Going backwards",
+        "A broken computer",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save a drawing?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is colorful",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save a story?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is long",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you find your saved work?",
+      "options": [
+        "Look in the folder you used",
+        "Look under the desk",
+        "Ask the monitor",
+        "Shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'overwriting' a file?",
+      "options": [
+        "Saving over the old version",
+        "Writing on the screen",
+        "Eating the file",
+        "Printing it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it good to save often?",
+      "options": [
+        "Yes, every few minutes",
+        "No, only at the end",
+        "Only if you are scared",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'hard drive'?",
+      "options": [
+        "Where work is saved inside",
+        "A difficult road",
+        "A type of game",
+        "A loud speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save a game score?",
+      "options": [
+        "Yes, in many games",
+        "No, always restart",
+        "Only if you win",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'folder'?",
+      "options": [
+        "A place to group files",
+        "A type of paper",
+        "A monitor sound",
+        "A broken mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you tell an adult if you can't save?",
+      "options": [
+        "Yes, they can help",
+        "No, just give up",
+        "Only if you cry",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'downloading'?",
+      "options": [
+        "Saving from internet to computer",
+        "Saving from computer to internet",
+        "Deleting",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is saving important for school?",
+      "options": [
+        "Yes, very",
+        "No",
+        "Only for teachers",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'desktop' save?",
+      "options": [
+        "Saving directly on main screen",
+        "Saving on the actual desk",
+        "Saving in space",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save music?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is loud",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Did you save this task?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Save",
+      "answer": "Save"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Keep",
+      "answer": "Keep"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: File",
+      "answer": "File"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Disk",
+      "answer": "Disk"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stick",
+      "answer": "Stick"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hold",
+      "answer": "Hold"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Copy",
+      "answer": "Copy"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Safe",
+      "answer": "Safe"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Last",
+      "answer": "Last"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Work",
+      "answer": "Work"
+    }
+  ]
+}

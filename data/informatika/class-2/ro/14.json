@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Introducere în programare",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este programarea?",
+      "options": [
+        "A da instrucțiuni calculatorului",
+        "A desena pe ecran",
+        "A te juca",
+        "A scrie scrisori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește setul de instrucțiuni?",
+      "options": [
+        "Algoritm",
+        "Desen",
+        "Povește",
+        "Muzică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un programator este persoana care...",
+      "options": [
+        "Scrie cod/instrucțiuni",
+        "Repară mouse-ul",
+        "Șterge monitorul",
+        "Vinde calculatoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul înțelege limba română direct?",
+      "options": [
+        "Nu, are limbaje speciale",
+        "Da, perfect",
+        "Doar dacă vorbim tare",
+        "Doar uneori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă greșim o instrucțiune, programul...",
+      "options": [
+        "Nu va funcționa corect",
+        "Se va repara singur",
+        "Va râde de noi",
+        "Va exploda"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Bug'?",
+      "options": [
+        "O greșeală în program",
+        "O insectă reală în tastatură",
+        "Un joc nou",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "A programa înseamnă a gândi?",
+      "options": [
+        "Da, trebuie să gândim pașii logic",
+        "Nu, e doar scris",
+        "Doar dacă suntem la școală",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa un personaj să meargă?",
+      "options": [
+        "Da, pas cu pas",
+        "Nu, personajele nu se mișcă",
+        "Doar dacă îl împingem cu mouse-ul",
+        "Doar prin magie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un limbaj de programare?",
+      "options": [
+        "Un mod de a vorbi cu calculatorul",
+        "O limbă străină reală",
+        "Un tip de muzică",
+        "O tastă specială"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Programarea este utilă?",
+      "options": [
+        "Da, creează toate aplicațiile",
+        "Nu, e doar o pierdere de timp",
+        "Doar pentru roboți",
+        "Doar pentru matematicieni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Loop' (Buclă) în cod?",
+      "options": [
+        "Ceva care se repetă de mai multe ori",
+        "Ceva care se strică",
+        "Ceva colorat",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'If' (Dacă) în cod?",
+      "options": [
+        "O condiție (dacă se întâmplă ceva, fă asta)",
+        "O întrebare",
+        "O tastă",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face jocuri prin programare?",
+      "options": [
+        "Da, așa sunt făcute toate",
+        "Nu, jocurile sunt magice",
+        "Doar dacă avem noroc",
+        "Doar în engleză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este greu să înveți programare?",
+      "options": [
+        "E ca o limbă nouă, se învață prin joacă",
+        "E imposibil pentru copii",
+        "E plictisitor",
+        "E doar pentru genii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Code' (Cod)?",
+      "options": [
+        "Textul scris de programator",
+        "O cifră secretă",
+        "O tastă",
+        "Un desen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa roboți?",
+      "options": [
+        "Da, roboții ascultă codul",
+        "Nu, roboții fac ce vor",
+        "Doar dacă sunt mici",
+        "Doar cu vocea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Block' (Bloc) în programarea pentru copii?",
+      "options": [
+        "O piesă vizuală care conține o comandă",
+        "O piatră",
+        "O casă",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e bine să știi programare?",
+      "options": [
+        "Să înțelegi cum funcționează lumea digitală",
+        "Să poți repara monitorul",
+        "Să scrii mai repede",
+        "Să nu mai ai teme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul face greșeli singur?",
+      "options": [
+        "De obicei face exact ce îi spunem noi (chiar dacă îi spunem greșit)",
+        "Da, e neatent",
+        "Doar dacă e obosit",
+        "Doar dacă nu e în priză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Sequence' (Secvență)?",
+      "options": [
+        "Ordinea corectă a pașilor",
+        "Un tip de dans",
+        "O muzică",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa muzică?",
+      "options": [
+        "Da, putem spune calculatorului ce note să cânte",
+        "Nu, muzica e doar la radio",
+        "Doar dacă avem pian",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Debug'?",
+      "options": [
+        "A găsi și a repara greșelile",
+        "A pune insecte în calculator",
+        "A șterge tot",
+        "A închide codul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Programarea ne ajută să rezolvăm probleme?",
+      "options": [
+        "Da, ne antrenează mintea",
+        "Nu, ne face probleme",
+        "Doar la matematică",
+        "Doar în jocuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine poate învăța programare?",
+      "options": [
+        "Oricine este curios și exersează",
+        "Doar adulții",
+        "Doar roboții",
+        "Doar copiii de 10 ani"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să încerci să scrii primul tău cod?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt gata!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bloc",
+      "answer": "bloc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: loop",
+      "answer": "loop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bug",
+      "answer": "bug"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: logic",
+      "answer": "logic"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scrie",
+      "answer": "scrie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: program",
+      "answer": "program"
+    }
+  ]
+}

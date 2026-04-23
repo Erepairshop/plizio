@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Salvarea fișierelor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "De ce trebuie să salvăm munca noastră?",
+      "options": [
+        "Să nu o pierdem când închidem calculatorul",
+        "Să o vadă robotul",
+        "Să facem loc",
+        "Să se odihnească"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce buton folosim de obicei pentru salvare?",
+      "options": [
+        "Save (Salvează)",
+        "Delete",
+        "Exit",
+        "Help"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru salvare seamănă adesea cu...",
+      "options": [
+        "O dischetă veche",
+        "Un măr",
+        "O mașină",
+        "O floare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem da un nume fișierului salvat?",
+      "options": [
+        "Da, e bine să fie un nume sugestiv",
+        "Nu, are nume de cifre mereu",
+        "Doar numele nostru",
+        "Doar 'proiect'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se salvează fișierele în mod normal?",
+      "options": [
+        "În hard disk (sau SSD)",
+        "În monitor",
+        "În tastatură",
+        "În priză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Save As'?",
+      "options": [
+        "Salvarea cu un nume nou sau în alt loc",
+        "Ștergerea fișierului",
+        "Trimiterea la imprimantă",
+        "Închiderea programului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva pe un stick USB?",
+      "options": [
+        "Da, e un dispozitiv portabil",
+        "Nu, e prea mic",
+        "Doar dacă e roșu",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă am uitat să salvăm și s-a oprit curentul?",
+      "options": [
+        "E posibil să pierdem ce am lucrat",
+        "Nu are nimic, se salvează singur",
+        "Apasăm Space repede",
+        "Plângem și pornește singur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim fișierele salvate mai târziu?",
+      "options": [
+        "În dosarul unde le-am pus (ex: Documents)",
+        "Sub tastatură",
+        "În spatele ecranului",
+        "În coșul de gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să salvăm des în timp ce lucrăm?",
+      "options": [
+        "Da, la fiecare câteva minute",
+        "Nu, doar la final",
+        "Doar dacă ne amintim",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva poze de pe internet?",
+      "options": [
+        "Da, click dreapta -> Save image as",
+        "Nu, sunt blocate acolo",
+        "Doar dacă le pictăm",
+        "Doar dacă sunt mici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Cloud'?",
+      "options": [
+        "Salvarea fișierelor pe internet",
+        "Un nor adevărat",
+        "O tastă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva muzică?",
+      "options": [
+        "Da",
+        "Nu, muzica zboară",
+        "Doar dacă o prindem în boxe",
+        "Doar dacă e încet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum știm că un fișier s-a salvat?",
+      "options": [
+        "De obicei apare numele lui sus",
+        "Calculatorul zice 'Mulțumesc'",
+        "Se stinge ecranul",
+        "Nu știm niciodată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un fișier salvat?",
+      "options": [
+        "Da, dacă nu mai avem nevoie",
+        "Nu, e acolo pe viață",
+        "Doar dacă ne dă voie poliția",
+        "Doar dacă e vechi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Overwrite'?",
+      "options": [
+        "Salvarea peste un fișier vechi (îl înlocuiește)",
+        "Scrierea pe monitor",
+        "Ștergerea tuturor datelor",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se duc fișierele șterse?",
+      "options": [
+        "În Recycle Bin (Coșul de gunoi)",
+        "În spațiu",
+        "Sub masă",
+        "În tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem recupera un fișier din Recycle Bin?",
+      "options": [
+        "Da, dacă nu l-am golit de tot",
+        "Nu, odată șters e dus",
+        "Doar dacă strigăm la el",
+        "Doar cu un magnet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem copii de rezervă (Backup)?",
+      "options": [
+        "Da, e foarte sigur așa",
+        "Nu, e pierdere de timp",
+        "Doar pentru adulți",
+        "Doar pentru firme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fișierele ocupă spațiu?",
+      "options": [
+        "Da, spațiu de stocare (Megabytes, Gigabytes)",
+        "Nu, sunt imateriale",
+        "Ocupă spațiu pe masă",
+        "Doar dacă sunt grele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un fișier mare se salvează mai greu?",
+      "options": [
+        "Da, durează puțin mai mult",
+        "Nu, e la fel",
+        "Se salvează mai repede",
+        "Nu se poate salva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite un fișier salvat prin email?",
+      "options": [
+        "Da",
+        "Nu, trebuie să trimitem calculatorul",
+        "Doar prin poștă",
+        "Doar dacă îl printăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă primim mesajul 'Disk full'?",
+      "options": [
+        "Trebuie să mai ștergem din fișierele vechi",
+        "Aruncăm calculatorul",
+        "Cumpărăm alt birou",
+        "Punem apă în el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești atent unde salvezi?",
+      "options": [
+        "Da, am dosarele mele",
+        "Nu, le pun oriunde",
+        "Le pierd mereu",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vei salva mereu munca ta?",
+      "options": [
+        "Da, sigur!",
+        "Nu",
+        "Dacă îmi amintesc",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: save",
+      "answer": "save"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvat",
+      "answer": "salvat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nume",
+      "answer": "nume"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: dosar",
+      "answer": "dosar"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stick",
+      "answer": "stick"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sterg",
+      "answer": "sterg"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: memorie",
+      "answer": "memorie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: proiect",
+      "answer": "proiect"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: spatiu",
+      "answer": "spatiu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: document",
+      "answer": "document"
+    }
+  ]
+}

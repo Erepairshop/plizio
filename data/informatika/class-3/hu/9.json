@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Képek keresése",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Hogyan keresünk képeket?",
+      "options": [
+        "A kereső Képek fülén",
+        "A monitorra rajzolva",
+        "Az egérrel hadonászva",
+        "Kiabálva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit írunk a keresőbe?",
+      "options": [
+        "Kulcsszót",
+        "A nevünket",
+        "Semmit",
+        "Titkos kódot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentünk le egy képet?",
+      "options": [
+        "Jobb klikk és Mentés másként",
+        "Megütjük a gépet",
+        "Lerajzoljuk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Thumbnail'?",
+      "options": [
+        "Kicsinyített kép",
+        "Egy köröm",
+        "Egy játék",
+        "A monitor gombja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad minden képet használni?",
+      "options": [
+        "Nem, vannak szerzői jogok",
+        "Igen, bármit",
+        "Csak ha fekete",
+        "Csak ha kicsi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a képkeresés?",
+      "options": [
+        "Projektmunkához, tanuláshoz",
+        "Alvásra",
+        "Ebédhez",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a felbontás?",
+      "options": [
+        "A kép élessége és mérete",
+        "A gép súlya",
+        "A monitor színe",
+        "Egy döntés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy képformátum?",
+      "options": [
+        "JPG",
+        "MP3",
+        "TXT",
+        "EXE"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a PNG különlegessége?",
+      "options": [
+        "Lehet átlátszó háttere",
+        "Nagyon hangos",
+        "Piros",
+        "Kicsi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nagyítunk ki egy képet?",
+      "options": [
+        "Rákattintunk",
+        "Megrázzuk a monitort",
+        "Nagyítót veszünk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a Google Lens?",
+      "options": [
+        "Képalapú kereső",
+        "Egy szemüveg",
+        "Egy játék",
+        "Egy lámpa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Copyright'?",
+      "options": [
+        "Szerzői jog",
+        "Másolás",
+        "Jó kedv",
+        "Üres lap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e szín szerint keresni?",
+      "options": [
+        "Igen, a szűrőkkel",
+        "Nem",
+        "Csak ha kék",
+        "Csak ha esik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Clip Art'?",
+      "options": [
+        "Rajzolt illusztráció",
+        "Egy hajcsat",
+        "Egy film",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látszik a kép mérete?",
+      "options": [
+        "Rámutatva vagy kattintva",
+        "Mérőszalaggal",
+        "Sehogy",
+        "Súlya alapján"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a GIF?",
+      "options": [
+        "Mozgó kép",
+        "Egy ajándék",
+        "Egy fajta csoki",
+        "A monitor neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan keresünk hasonló képeket?",
+      "options": [
+        "Képkeresés funkcióval",
+        "Nézzük őket hosszan",
+        "Megkérjük a gépet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'HD'?",
+      "options": [
+        "Nagy felbontás",
+        "Hatalmas Doboz",
+        "Hideg Dal",
+        "Hosszú út"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal mentünk képet?",
+      "options": [
+        "Mentés másként",
+        "Törlés",
+        "Másolás",
+        "Kivágás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova mentődik a kép?",
+      "options": [
+        "A Letöltések mappába általában",
+        "A kukába",
+        "A felhőbe az égen",
+        "A monitor alá"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a képkereső?",
+      "options": [
+        "Képek megtalálására",
+        "Hallgatásra",
+        "Rajzolásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Pixabay'?",
+      "options": [
+        "Ingyenes képgyűjtemény",
+        "Egy játék",
+        "Egy kutya",
+        "A monitor sarka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kerülheted el a rossz képeket?",
+      "options": [
+        "Biztonságos keresés bekapcsolásával",
+        "Zárd be a szemed",
+        "Ne keress",
+        "Fuss el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e méret szerint szűrni?",
+      "options": [
+        "Igen (kicsi, közepes, nagy)",
+        "Nem",
+        "Csak ha barna",
+        "Csak ha nehéz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a képek keresése?",
+      "options": [
+        "Vizuális információ gyűjtésre",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kép",
+      "answer": "kép"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: fotó",
+      "answer": "fotó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: letöltés",
+      "answer": "letöltés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: keresés",
+      "answer": "keresés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: találat",
+      "answer": "találat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: méret",
+      "answer": "méret"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: típus",
+      "answer": "típus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szín",
+      "answer": "szín"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: háttér",
+      "answer": "háttér"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: licenc",
+      "answer": "licenc"
+    }
+  ]
+}

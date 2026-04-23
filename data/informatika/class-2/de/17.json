@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Drucken Grundlagen",
+  "theme": "Das Tablet",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 1)",
+      "question": "Was ist ein Tablet?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 2)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 3)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Ein flacher, tragbarer Computer mit Touchscreen",
+        "Ein Esstisch",
+        "Ein Buch",
+        "Ein Telefon ohne Akku"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 4)",
+      "question": "Womit steuert man ein Tablet?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 5)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 6)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Mit den Fingern oder einem Stift",
+        "Mit der Maus am Kabel",
+        "Nur mit der Stimme",
+        "Mit den Füßen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 7)",
+      "question": "Braucht ein Tablet eine feste Tastatur?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 8)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 9)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Nein, sie erscheint auf dem Bildschirm",
+        "Ja, immer",
+        "Nur wenn es groß ist",
+        "Nur zum Spielen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 10)",
+      "question": "Wie nennt man Programme auf dem Tablet?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 11)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 12)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Apps",
+        "Icons",
+        "Zettel",
+        "Spiele"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 13)",
+      "question": "Wie schaltet man ein Tablet ein?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 14)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 15)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Mit einem kleinen Knopf an der Seite",
+        "Durch Streicheln",
+        "Durch Klatschen",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 16)",
+      "question": "Hat ein Tablet einen Akku?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 17)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 18)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Ja, man kann es ohne Kabel benutzen",
+        "Nein, es braucht immer Strom",
+        "Nur wenn es neu ist",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 19)",
+      "question": "Was ist ein iPad?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 20)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 21)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Ein bekanntes Tablet von Apple",
+        "Ein kleines Auge",
+        "Ein neues Spielzeug",
+        "Ein Buch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 22)",
+      "question": "Kann man mit einem Tablet fotografieren?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 23)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 24)",
-      "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Ja, die meisten haben Kameras",
+        "Nein, dafür braucht man einen Film",
+        "Nur wenn es hell ist",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drucken Grundlagen? (Frage 25)",
+      "question": "Was passiert, wenn man das Tablet dreht?",
       "options": [
-        "Option A für Drucken Grundlagen",
-        "Option B für Drucken Grundlagen",
-        "Option C für Drucken Grundlagen"
+        "Das Bild dreht sich oft mit",
+        "Der Strom geht aus",
+        "Die Apps fallen runter",
+        "Nichts"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man das Tablet lauter?",
+      "options": [
+        "Mit den Tasten an der Seite",
+        "Indem man es anschreit",
+        "Durch Schütteln",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Touchscreen?",
+      "options": [
+        "Ein Bildschirm, den man berühren kann",
+        "Ein Monitor zum Kuscheln",
+        "Ein kaputter Schirm",
+        "Ein Spiegel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man mit schmutzigen Fingern auf das Tablet?",
+      "options": [
+        "Nein, das macht den Bildschirm dreckig",
+        "Ja, das ist egal",
+        "Nur wenn es Spaß macht",
+        "Nur im Garten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schützt man ein Tablet?",
+      "options": [
+        "Mit einer Schutzhülle",
+        "In den Kühlschrank legen",
+        "Mit Papier einwickeln",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auf dem Tablet malen?",
+      "options": [
+        "Ja, es gibt tolle Mal-Apps",
+        "Nein, nur tippen",
+        "Nur mit echtem Wasser",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woher bekommt man neue Apps?",
+      "options": [
+        "Aus dem App Store oder Play Store",
+        "Vom Bäcker",
+        "Aus der Schule",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auf dem Tablet Filme schauen?",
+      "options": [
+        "Ja, sehr gut sogar",
+        "Nein, nur am Fernseher",
+        "Nur mit einem Kabel",
+        "Nur am PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Wischen' (Swipe)?",
+      "options": [
+        "Mit dem Finger über den Schirm gleiten",
+        "Den Staub wegputzen",
+        "Das Tablet wegwerfen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit dem Tablet ins Internet?",
+      "options": [
+        "Ja, über WLAN",
+        "Nein, nie",
+        "Nur mit einem langen Kabel",
+        "Nur im Weltraum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den Startbildschirm beim Tablet?",
+      "options": [
+        "Home-Bildschirm",
+        "Fußboden",
+        "Wolke",
+        "Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auf dem Tablet Spiele spielen?",
+      "options": [
+        "Ja, sehr viele!",
+        "Nein, nur arbeiten",
+        "Nur wenn es am Strom hängt",
+        "Keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein Tablet gut für die Schule?",
+      "options": [
+        "Man kann leicht darauf lernen und üben",
+        "Weil es so schön leuchtet",
+        "Damit man keine Bücher mehr braucht",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man das Tablet mit ins Bett nehmen?",
+      "options": [
+        "Lieber nicht, man sollte vor dem Schlafen Pause machen",
+        "Ja, die ganze Nacht",
+        "Nur zum Essen",
+        "Nur am Wochenende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ladegerät?",
+      "options": [
+        "Das Kabel, das den Akku voll macht",
+        "Ein Spielzeug",
+        "Ein Koffer",
+        "Ein Schuh"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Tablet kaputt gehen, wenn es runterfällt?",
+      "options": [
+        "Ja, der Bildschirm kann reißen",
+        "Nein, es ist unkaputtbar",
+        "Nur wenn es aus ist",
+        "Nur auf Teppich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Arbeiten am Tablet Spaß?",
+      "options": [
+        "Ja, wenn man es richtig nutzt!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 1"
+      "question": "Tippe ein: Tablet",
+      "answer": "Tablet"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 2"
+      "question": "Tippe ein: Flach",
+      "answer": "Flach"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 3"
+      "question": "Tippe ein: Mobil",
+      "answer": "Mobil"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 4"
+      "question": "Tippe ein: Touch",
+      "answer": "Touch"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 5"
+      "question": "Tippe ein: App",
+      "answer": "App"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 6"
+      "question": "Tippe ein: Spiel",
+      "answer": "Spiel"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 7"
+      "question": "Tippe ein: Lernen",
+      "answer": "Lernen"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 8"
+      "question": "Tippe ein: Akku",
+      "answer": "Akku"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 9"
+      "question": "Tippe ein: Tippen",
+      "answer": "Tippen"
     },
     {
       "type": "typing",
-      "text": "Drucken Grundlagen ist toll 10"
+      "question": "Tippe ein: Hülle",
+      "answer": "Hülle"
     }
   ]
 }

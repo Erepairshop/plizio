@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Jocuri simple",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Jocurile pe calculator sunt doar pentru distracție?",
+      "options": [
+        "Pot fi și educative",
+        "Da, doar pentru joacă",
+        "Sunt doar pentru adulți",
+        "Sunt interzise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim cel mai des în jocuri?",
+      "options": [
+        "Mouse-ul și tastele săgeți",
+        "Doar monitorul",
+        "Microfonul",
+        "Imprimanta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să ne jucăm toată ziua?",
+      "options": [
+        "Nu, trebuie să avem limită",
+        "Da, e foarte bine",
+        "Doar dacă e soare",
+        "Doar dacă nu avem teme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'scor'?",
+      "options": [
+        "Punctele câștigate în joc",
+        "Numele jucătorului",
+        "O tastă",
+        "Un fel de mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește persoana care se joacă?",
+      "options": [
+        "Gamer (Jucător)",
+        "Profesor",
+        "Robot",
+        "Spectator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există jocuri care ne învață matematică?",
+      "options": [
+        "Da, multe",
+        "Nu, matematica e doar în cărți",
+        "Doar dacă sunt plictisitoare",
+        "Doar în limba engleză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem juca jocuri cu prietenii pe net?",
+      "options": [
+        "Da (Multiplayer)",
+        "Nu, jocurile sunt doar singur",
+        "Doar dacă stau lângă noi",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Level' (Nivel)?",
+      "options": [
+        "O etapă a jocului",
+        "Viteza calculatorului",
+        "Mărimea monitorului",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă pierdem la un joc, ce facem?",
+      "options": [
+        "Încercăm din nou și învățăm",
+        "Ne supărăm și lovim mouse-ul",
+        "Plângem",
+        "Aruncăm calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Jocurile pot fi pe?",
+      "options": [
+        "Calculator, tabletă, consolă",
+        "Doar pe televizor",
+        "Doar pe hârtie",
+        "Doar în mintea noastră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt jocurile de tip 'Puzzle'?",
+      "options": [
+        "Jocuri de gândire și potrivire",
+        "Jocuri de alergat",
+        "Jocuri de luptă",
+        "Jocuri de gătit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să respectăm regulile jocului?",
+      "options": [
+        "Da, mereu",
+        "Nu, trișăm",
+        "Doar dacă ne vede cineva",
+        "Doar dacă pierdem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Avatar'?",
+      "options": [
+        "Personajul care ne reprezintă în joc",
+        "Un fruct albastru",
+        "O tastă specială",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să cerem voie părinților înainte de a juca?",
+      "options": [
+        "Da, obligatoriu",
+        "Nu, e secret",
+        "Doar dacă e târziu",
+        "Doar dacă e joc nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă un joc pare prea greu?",
+      "options": [
+        "Căutăm ajutor sau exersăm",
+        "Îl ștergem imediat",
+        "Ne supărăm",
+        "Lăsăm calculatorul pornit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unele jocuri se joacă în browser?",
+      "options": [
+        "Da, direct pe internet",
+        "Nu, toate trebuie instalate",
+        "Doar cele vechi",
+        "Doar cele cu mașini"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Joystick'?",
+      "options": [
+        "Un dispozitiv special pentru controlul jocurilor",
+        "Un băț de lemn",
+        "O tastă",
+        "Un tip de mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Jocurile ne pot ajuta să fim mai rapizi?",
+      "options": [
+        "Da, antrenează reflexele",
+        "Nu, ne fac mai lenți",
+        "Doar dacă dormim",
+        "Doar dacă mâncăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Game Over'?",
+      "options": [
+        "S-a terminat jocul",
+        "A început jocul",
+        "Jocul a explodat",
+        "E ora mesei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța limbi străine prin jocuri?",
+      "options": [
+        "Da",
+        "Nu, e imposibil",
+        "Doar dacă suntem mari",
+        "Doar cu profesor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există jocuri de construit?",
+      "options": [
+        "Da (ex: Minecraft)",
+        "Nu, construcția e doar afară",
+        "Doar cu piese de lemn",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne simțim când câștigăm?",
+      "options": [
+        "Bucuroși și mândri",
+        "Triste și supărați",
+        "Obosiți",
+        "Supărați pe ceilalți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Jocurile pot avea muzică?",
+      "options": [
+        "Da, coloană sonoră",
+        "Nu, jocurile sunt mute",
+        "Doar dacă cântăm noi",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să facem pauză pentru mișcare?",
+      "options": [
+        "Da, corpul are nevoie de sport",
+        "Nu, stăm doar pe scaun",
+        "Doar dacă ne doare spatele",
+        "Doar dacă ne zice mama"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este jocul tău preferat?",
+      "options": [
+        "Unul educativ",
+        "Unul cu mașini",
+        "Unul cu animale",
+        "Toate!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scor",
+      "answer": "scor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nivel",
+      "answer": "nivel"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: castig",
+      "answer": "castig"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pierd",
+      "answer": "pierd"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: punct",
+      "answer": "punct"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cursa",
+      "answer": "cursa"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: minge",
+      "answer": "minge"
+    }
+  ]
+}

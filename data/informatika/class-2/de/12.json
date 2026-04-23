@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Datei öffnen",
+  "theme": "Digitale Filme",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 1)",
+      "question": "Was ist ein digitales Video?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 2)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 3)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Ein Film, den man am Computer sieht",
+        "Ein echtes Foto",
+        "Ein Buch",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 4)",
+      "question": "Wo kann man viele Videos im Internet sehen?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 5)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 6)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "YouTube",
+        "Google Maps",
+        "An der Maus",
+        "Im Taschenrechner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 7)",
+      "question": "Wie startet man ein Video?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 8)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 9)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Mit dem Play-Knopf (Dreieck)",
+        "Mit dem Stop-Knopf (Viereck)",
+        "Durch Pusten",
+        "Durch Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 10)",
+      "question": "Was macht der Pause-Knopf?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 11)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 12)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Er hält das Video kurz an",
+        "Er löscht das Video",
+        "Er macht es lauter",
+        "Er beendet es"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 13)",
+      "question": "Kann man am Computer selbst Filme machen?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 14)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 15)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Ja, mit einer Kamera und Programmen",
+        "Nein, das können nur Profis",
+        "Nur wenn man im Fernsehen ist",
+        "Nur mit einem Pinsel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 16)",
+      "question": "Was ist eine Webcam?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 17)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 18)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Eine kleine Kamera am Computer",
+        "Ein Spinnennetz",
+        "Ein Teil vom Drucker",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 19)",
+      "question": "Was bedeutet 'Vollbild'?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 20)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 21)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Das Video füllt den ganzen Monitor aus",
+        "Das Video ist sehr schwer",
+        "Der Monitor ist voll mit Wasser",
+        "Nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 22)",
+      "question": "Wie nennt man das Bewegen zu einer Stelle im Film?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 23)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 24)",
-      "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Spulen",
+        "Laufen",
+        "Hüpfen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Datei öffnen? (Frage 25)",
+      "question": "Braucht man für Videos Ton?",
       "options": [
-        "Option A für Datei öffnen",
-        "Option B für Datei öffnen",
-        "Option C für Datei öffnen"
+        "Meistens ja, mit Lautsprechern",
+        "Nein, nie",
+        "Nur wenn es regnet",
+        "Nur für Musik"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Trickfilm?",
+      "options": [
+        "Ein Film aus vielen gezeichneten Bildern",
+        "Ein Film mit Zauberern",
+        "Ein kaputter Film",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Streaming'?",
+      "options": [
+        "Filme direkt aus dem Internet schauen",
+        "Im Fluss schwimmen",
+        "Bilder malen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Videos sehr viel Platz verbrauchen?",
+      "options": [
+        "Ja, sie sind meistens große Dateien",
+        "Nein, sie sind ganz klein",
+        "Nur wenn sie bunt sind",
+        "Nur am Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Zeit-Leiste unten im Video?",
+      "options": [
+        "Timeline (Zeitstrahl)",
+        "Lineal",
+        "Uhr",
+        "Wegweiser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein kurzes Video im Internet oft?",
+      "options": [
+        "Ein Clip",
+        "Ein Buch",
+        "Ein Satz",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man jeden Film im Internet schauen?",
+      "options": [
+        "Nein, manche sind nicht für Kinder",
+        "Ja, alle",
+        "Nur wenn man allein ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Videotelefongespräch?",
+      "options": [
+        "Man telefoniert und sieht sich dabei (z.B. FaceTime)",
+        "Ein Film über Telefone",
+        "Ein kaputtes Radio",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Videos leiser machen?",
+      "options": [
+        "Ja, mit dem Lautstärke-Regler",
+        "Nein, man muss sich die Ohren zuhalten",
+        "Nur wenn man den PC ausschaltet",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Abonnement' bei YouTube?",
+      "options": [
+        "Man bekommt Info, wenn es ein neues Video gibt",
+        "Man kauft den Computer",
+        "Man wird selbst zum Video",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Videos auch auf dem Tablet laufen?",
+      "options": [
+        "Ja, sehr gut sogar",
+        "Nein, nur am Fernseher",
+        "Nur mit einem Kabel",
+        "Nur am PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den Text unten im Video?",
+      "options": [
+        "Untertitel",
+        "Fußnote",
+        "Kellertext",
+        "Nachricht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Zeitlupe?",
+      "options": [
+        "Das Video läuft ganz langsam ab",
+        "Eine Schnecke im PC",
+        "Ein kaputter Film",
+        "Ein langes Level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Zeitraffer?",
+      "options": [
+        "Das Video läuft ganz schnell ab",
+        "Ein flinkes Tier",
+        "Ein neues Programm",
+        "Das Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu nutzt man Videos in der Schule?",
+      "options": [
+        "Zum Erklären von schwierigen Dingen",
+        "Nur zum Schlafen",
+        "Zum Essen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kinofilm?",
+      "options": [
+        "Ein langer Film für die Leinwand",
+        "Ein sehr kleiner Film",
+        "Ein Malprogramm",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Filme schauen Spaß?",
+      "options": [
+        "Ja, aber nicht zu lange!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 1"
+      "question": "Tippe ein: Film",
+      "answer": "Film"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 2"
+      "question": "Tippe ein: Video",
+      "answer": "Video"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 3"
+      "question": "Tippe ein: Kamera",
+      "answer": "Kamera"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 4"
+      "question": "Tippe ein: Play",
+      "answer": "Play"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 5"
+      "question": "Tippe ein: Stopp",
+      "answer": "Stopp"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 6"
+      "question": "Tippe ein: Pause",
+      "answer": "Pause"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 7"
+      "question": "Tippe ein: Kino",
+      "answer": "Kino"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 8"
+      "question": "Tippe ein: Clip",
+      "answer": "Clip"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 9"
+      "question": "Tippe ein: Ton",
+      "answer": "Ton"
     },
     {
       "type": "typing",
-      "text": "Datei öffnen ist toll 10"
+      "question": "Tippe ein: Sehen",
+      "answer": "Sehen"
     }
   ]
 }

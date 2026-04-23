@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Képszerkesztés",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a képszerkesztés?",
+      "options": [
+        "Fotók módosítása",
+        "Képek festése falra",
+        "A monitor tisztítása",
+        "Ebédelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Crop'?",
+      "options": [
+        "Körülvágás",
+        "Kiszínezés",
+        "Törlés",
+        "Nagyítás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a szűrő (Filter)?",
+      "options": [
+        "A kép hangulatának változtatása",
+        "Egy kávéfőző",
+        "Egy maszk",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit állít a fényerő?",
+      "options": [
+        "Hogy mennyire világos a kép",
+        "Hogy mennyire nehéz a gép",
+        "Hogy meleg-e a monitor",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kontraszt?",
+      "options": [
+        "A sötét és világos részek különbsége",
+        "Egy fajta tánc",
+        "A monitor színe",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az átméretezés?",
+      "options": [
+        "A kép szélességének/magasságának módosítása",
+        "A gép cseréje",
+        "A szoba takarítása",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e szöveget tenni a fotóra?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha filccel írunk",
+        "Csak ha fekete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a forgatás?",
+      "options": [
+        "A kép elfordítása",
+        "Körbefutás a gép körül",
+        "Az egér pörgetése",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Red-eye removal'?",
+      "options": [
+        "Eltünteti a piros szemet a fotón",
+        "Kiveszi a szemünket",
+        "Kikapcsolja a gépet",
+        "Pirosat rajzol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Saturation' (telítettség)?",
+      "options": [
+        "Színek erőssége",
+        "A gép súlya",
+        "A monitor kora",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy képszerkesztő program?",
+      "options": [
+        "Photoshop vagy online szerkesztők",
+        "Excel",
+        "Word",
+        "YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Export'?",
+      "options": [
+        "A kész kép mentése fájlba",
+        "Kivágás",
+        "Törlés",
+        "Másolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e hátteret cserélni?",
+      "options": [
+        "Igen, ügyes szerkesztéssel",
+        "Nem",
+        "Csak ha kifestjük",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a pixel?",
+      "options": [
+        "A kép legkisebb pontja",
+        "Egy fajta süti",
+        "A gép gombja",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan javíthatunk egy sötét képen?",
+      "options": [
+        "Fényerő növelésével",
+        "Lámpa elé tesszük a monitort",
+        "Sehogy",
+        "Kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Collage' (kollázs)?",
+      "options": [
+        "Több kép egyben",
+        "Egy fajta iskola",
+        "Egy játék",
+        "Egy dal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a matrica (Sticker)?",
+      "options": [
+        "Díszítésre a képen",
+        "Beragasztani a monitort",
+        "Odaadni a barátunknak",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség fekete-fehér és színes között?",
+      "options": [
+        "A színek hiánya",
+        "A súly",
+        "A méret",
+        "Nincs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Aspect ratio'?",
+      "options": [
+        "Képarány (szélesség : magasság)",
+        "A gép neve",
+        "A tanár kedvence",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan menthetjük el a munkát?",
+      "options": [
+        "Mentés vagy Exportálás",
+        "Kikapcsoljuk a gépet",
+        "Lerajzoljuk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e arcokat szépíteni?",
+      "options": [
+        "Igen, retusálással",
+        "Nem",
+        "Csak sminkkel",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Blur' (elmosás)?",
+      "options": [
+        "A kép életlenné tétele",
+        "A monitor koszolása",
+        "Szemtakarás",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz élesebb a kép?",
+      "options": [
+        "'Sharpen' funkcióval",
+        "Megtöröljük a monitort",
+        "Szemüveget veszünk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Watermark' (vízjel)?",
+      "options": [
+        "Tulajdonos jelzése a képen",
+        "Egy vízcsepp",
+        "A gép hűtője",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a képszerkesztés?",
+      "options": [
+        "Fotóink szebbé tételére",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: vágás",
+      "answer": "vágás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szűrő",
+      "answer": "szűrő"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: fényerő",
+      "answer": "fényerő"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kontraszt",
+      "answer": "kontraszt"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: átméretezés",
+      "answer": "átméretezés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: forgatás",
+      "answer": "forgatás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: javítás",
+      "answer": "javítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: effekt",
+      "answer": "effekt"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: réteg",
+      "answer": "réteg"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: export",
+      "answer": "export"
+    }
+  ]
+}

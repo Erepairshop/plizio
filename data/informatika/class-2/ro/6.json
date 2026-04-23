@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Desenăm pe calculator",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce program folosim pentru desenat?",
+      "options": [
+        "Paint",
+        "Word",
+        "Calculator",
+        "Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce putem desena în Paint?",
+      "options": [
+        "Creion, pensulă",
+        "Cu degetul pe mouse",
+        "Cu un creion real",
+        "Cu vocea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ștergem o greșeală?",
+      "options": [
+        "Cu guma de șters din program",
+        "Cu apă pe monitor",
+        "Cu un șervețel",
+        "Închidem monitorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi culori?",
+      "options": [
+        "Da, multe",
+        "Nu, doar negru",
+        "Doar gri",
+        "Doar alb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă putem desena automat?",
+      "options": [
+        "Cerc, pătrat, triunghi",
+        "Doar nori",
+        "Doar flori",
+        "Nicio formă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum umplem o formă cu culoare?",
+      "options": [
+        "Folosind găletușa (Fill with color)",
+        "Suflând în ecran",
+        "Așteptând să se coloreze",
+        "Scriind numele culorii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie text în desen?",
+      "options": [
+        "Da, cu instrumentul Text (A)",
+        "Nu, e doar pentru desen",
+        "Doar dacă îl pictăm",
+        "Doar cu creionul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem linia mai groasă?",
+      "options": [
+        "Schimbăm mărimea (Size)",
+        "Apăsăm mai tare pe mouse",
+        "Apropiem ochii de ecran",
+        "Nu se poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem mări imaginea să vedem detalii?",
+      "options": [
+        "Da, cu lupa (Magnifier)",
+        "Nu, e fixă",
+        "Doar cu ochelari",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim culorile în Paint?",
+      "options": [
+        "În paleta de culori",
+        "Sub tastatură",
+        "În meniul File",
+        "În coșul de gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă vrem să luăm o culoare deja folosită?",
+      "options": [
+        "Folosim pipeta (Color picker)",
+        "O ghicim",
+        "O căutăm pe net",
+        "Nu se poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena linii drepte perfecte?",
+      "options": [
+        "Da, ținând apăsat Shift",
+        "Nu, ies mereu strâmbe",
+        "Doar cu rigla pe monitor",
+        "Doar roboții pot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum salvăm desenul?",
+      "options": [
+        "File -> Save",
+        "Îl fotografiem cu telefonul",
+        "Îl lăsăm așa",
+        "Închidem calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Spray-ul' (Airbrush)?",
+      "options": [
+        "O pensulă care stropește",
+        "Un parfum",
+        "O tastă",
+        "Un virus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem roti imaginea?",
+      "options": [
+        "Da",
+        "Nu, stă doar drept",
+        "Doar dacă întoarcem monitorul",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenul pe calculator consumă hârtie?",
+      "options": [
+        "Nu, e digital",
+        "Da, multă",
+        "Doar dacă îl printăm",
+        "Doar dacă e mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anula ultima acțiune greșită?",
+      "options": [
+        "Da, cu Undo (Ctrl+Z)",
+        "Nu, rămâne așa",
+        "Trebuie să ștergem tot",
+        "Trebuie să plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde stau instrumentele în Paint?",
+      "options": [
+        "În bara de instrumente (Ribbon)",
+        "În spatele ecranului",
+        "Sub mouse",
+        "În ghiozdan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena o inimă?",
+      "options": [
+        "Da, există forma de inimă",
+        "Nu, e prea greu",
+        "Doar cu creionul",
+        "Doar roșie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește spațiul alb pe care desenăm?",
+      "options": [
+        "Pânză (Canvas)",
+        "Masă",
+        "Cearșaf",
+        "Hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem mări sau micșora pânza?",
+      "options": [
+        "Da, trăgând de colțuri",
+        "Nu, e fixă",
+        "Doar cu foarfeca",
+        "Doar dacă o pictăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune o poză reală în Paint?",
+      "options": [
+        "Da, prin Paste From",
+        "Nu, Paint e doar pentru desen",
+        "Doar dacă o lipim pe monitor",
+        "Doar dacă e alb-negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există mai multe feluri de pensule?",
+      "options": [
+        "Da (acuarelă, marker, etc)",
+        "Nu, e doar una",
+        "Sunt doar două",
+        "Sunt invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenul pe calculator este distractiv?",
+      "options": [
+        "Da, foarte!",
+        "Nu, e plictisitor",
+        "Uneori",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să devii artist digital?",
+      "options": [
+        "Da",
+        "Nu",
+        "Poate",
+        "Sunt deja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: paint",
+      "answer": "paint"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pensula",
+      "answer": "pensula"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: guma",
+      "answer": "guma"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: linie",
+      "answer": "linie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cerc",
+      "answer": "cerc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: casa",
+      "answer": "casa"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: soare",
+      "answer": "soare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pom",
+      "answer": "pom"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: floare",
+      "answer": "floare"
+    }
+  ]
+}

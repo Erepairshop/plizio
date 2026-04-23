@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Zeichnung speichern",
+  "theme": "Scratch Jr.",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 1)",
+      "question": "Was ist Scratch Jr.?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 2)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 3)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Eine einfache Programmier-App für Kinder",
+        "Ein Spiel mit Katzen",
+        "Ein Malbuch",
+        "Ein Browser"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 4)",
+      "question": "Wie gibt man Befehle in Scratch Jr.?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 5)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 6)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Mit bunten Blöcken",
+        "Durch Tippen",
+        "Durch Rufen",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 7)",
+      "question": "Wer ist die Hauptfigur in Scratch?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 8)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 9)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Die Scratch-Katze",
+        "Ein Hund",
+        "Ein Elefant",
+        "Ein Käfer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 10)",
+      "question": "Was kann man mit Scratch Jr. machen?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 11)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 12)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Kleine Geschichten und Spiele erfinden",
+        "Hausaufgaben schreiben",
+        "Echte Autos bauen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 13)",
+      "question": "Welcher Block startet ein Programm meistens?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 14)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 15)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Die grüne Flagge",
+        "Der rote Punkt",
+        "Der blaue Pfeil",
+        "Das gelbe Haus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 16)",
+      "question": "Wie lässt man eine Figur laufen?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 17)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 18)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Mit dem blauen Bewegungs-Block",
+        "Mit dem gelben Block",
+        "Durch Schütteln",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 19)",
+      "question": "Was macht der pinke Block?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 20)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 21)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Er ändert das Aussehen oder lässt die Figur sprechen",
+        "Er macht Musik",
+        "Er löscht alles",
+        "Er lässt die Figur hüpfen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 22)",
+      "question": "Wie bekommt man eine neue Figur?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 23)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 24)",
-      "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Über das Plus-Zeichen bei den Figuren",
+        "Man muss sie rufen",
+        "Durch Warten",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Zeichnung speichern? (Frage 25)",
+      "question": "Kann man den Hintergrund ändern?",
       "options": [
-        "Option A für Zeichnung speichern",
-        "Option B für Zeichnung speichern",
-        "Option C für Zeichnung speichern"
+        "Ja, es gibt eine Auswahl an Landschaften",
+        "Nein, er ist immer weiß",
+        "Nur wenn man ihn malt",
+        "Nur am Sonntag"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man eine Figur oder einen Block?",
+      "options": [
+        "Lange gedrückt halten und auf das 'X' klicken",
+        "Den PC ausschalten",
+        "Anschreien",
+        "Mit Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Blöcke für Geräusche?",
+      "options": [
+        "Ja, man kann Töne abspielen oder aufnehmen",
+        "Nein, nur Bilder",
+        "Nur für Musik",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der Block mit der Zahl?",
+      "options": [
+        "Wie oft oder wie weit etwas gemacht wird",
+        "Das Alter des Programms",
+        "Das Datum",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man seine eigene Figur malen?",
+      "options": [
+        "Ja, mit dem Malwerkzeug",
+        "Nein, nur fertige Figuren",
+        "Nur wenn man Künstler ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lässt man eine Figur 'hüpfen'?",
+      "options": [
+        "Mit dem Hüpf-Block (Pfeil nach oben und unten)",
+        "Mit dem Lauf-Block",
+        "Durch Pusten",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Bühne'?",
+      "options": [
+        "Der Bereich, wo sich die Figuren bewegen",
+        "Ein echtes Theater",
+        "Die Tastatur",
+        "Der Schrank"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie startet man alle Figuren gleichzeitig?",
+      "options": [
+        "Mit der grünen Flagge oben",
+        "Man muss alle einzeln anklicken",
+        "Durch Klatschen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Geschichte mit mehreren Seiten machen?",
+      "options": [
+        "Ja, man kann neue Seiten hinzufügen",
+        "Nein, nur eine",
+        "Nur zwei",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie beendet man ein Programm?",
+      "options": [
+        "Mit dem roten Stopp-Block",
+        "Den Stecker ziehen",
+        "Das Tablet wegwerfen",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was lernt man bei Scratch Jr.?",
+      "options": [
+        "Logisches Denken und Kreativität",
+        "Nur Malen",
+        "Nur Lesen",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Verbinden der Blöcke?",
+      "options": [
+        "Zusammenstecken",
+        "Kleben",
+        "Schrauben",
+        "Nähen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das gelbe Ende-Symbol?",
+      "options": [
+        "Es zeigt, dass das Programm dort stoppt",
+        "Ein Bild von der Sonne",
+        "Ein Keks",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Größe einer Figur ändern?",
+      "options": [
+        "Ja, mit den lila Blöcken zum Wachsen oder Schrumpfen",
+        "Nein, sie bleiben immer gleich",
+        "Nur wenn man sie zieht",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Scratch Jr. Spaß?",
+      "options": [
+        "Ja, man kann viel ausprobieren!",
+        "Nein, es ist langweilig",
+        "Nur wenn es klappt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht man Internet zum Programmieren mit Scratch Jr.?",
+      "options": [
+        "Meistens nein, wenn die App installiert ist",
+        "Ja, immer",
+        "Nur zum Speichern",
+        "Nur am Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man seine Programme anderen zeigen?",
+      "options": [
+        "Ja, man kann sie vorspielen",
+        "Nein, sie sind geheim",
+        "Nur dem Lehrer",
+        "Nur nachts"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 1"
+      "question": "Tippe ein: Scratch",
+      "answer": "Scratch"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 2"
+      "question": "Tippe ein: Katze",
+      "answer": "Katze"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 3"
+      "question": "Tippe ein: Block",
+      "answer": "Block"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 4"
+      "question": "Tippe ein: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 5"
+      "question": "Tippe ein: Spiel",
+      "answer": "Spiel"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 6"
+      "question": "Tippe ein: Bau",
+      "answer": "Bau"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 7"
+      "question": "Tippe ein: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 8"
+      "question": "Tippe ein: Flagge",
+      "answer": "Flagge"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 9"
+      "question": "Tippe ein: Bühne",
+      "answer": "Bühne"
     },
     {
       "type": "typing",
-      "text": "Zeichnung speichern ist toll 10"
+      "question": "Tippe ein: Figur",
+      "answer": "Figur"
     }
   ]
 }

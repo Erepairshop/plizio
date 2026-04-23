@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Digitális identitás",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a digitális identitás?",
+      "options": [
+        "Ki vagy te az interneten",
+        "A gép neve",
+        "A monitor színe",
+        "Egy titkos kód"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az avatar?",
+      "options": [
+        "Kép vagy alak, ami téged jelöl",
+        "Egy fajta étel",
+        "Egy igazi állat",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad a valódi nevedet használni mindenhol?",
+      "options": [
+        "Nem, érdemes becenevet használni",
+        "Igen, mindenhova írd le",
+        "Csak ha nagy vagy",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a jelszó?",
+      "options": [
+        "Titkos kód a védelmedre",
+        "A neved",
+        "1234",
+        "A kedvenc színed"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen a jó jelszó?",
+      "options": [
+        "Hosszú, betűkkel és számokkal",
+        "Rövid",
+        "A születésnapod",
+        "A kutyád neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e megadni a címedet idegennek?",
+      "options": [
+        "Soha",
+        "Igen, bárkinek",
+        "Csak ha kérik",
+        "Csak ha kedvesek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a digitális lábnyom?",
+      "options": [
+        "Amit magad után hagysz a neten",
+        "Egy igazi lábnyom a monitoron",
+        "Sár a billentyűzeten",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi marad meg az interneten?",
+      "options": [
+        "Szinte minden örökre",
+        "Semmi",
+        "Csak amit ma írtál",
+        "Csak a képek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan viselkedjünk online?",
+      "options": [
+        "Kedvesen és tisztelettel",
+        "Csúnyán",
+        "Sehogy",
+        "Kiabálva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a profil?",
+      "options": [
+        "Az adataid gyűjteménye egy oldalon",
+        "A monitor sarka",
+        "Egy doboz",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a privát?",
+      "options": [
+        "Csak te vagy barátaid látják",
+        "Mindenki látja",
+        "Sötét",
+        "Üres"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a nyilvános (Public)?",
+      "options": [
+        "Bárki láthatja az interneten",
+        "Zárt csoport",
+        "Titkos",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha bántanak online?",
+      "options": [
+        "Mondd el felnőttnek",
+        "Vágj vissza csúnyán",
+        "Sírj egyedül",
+        "Ne csinálj semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a netikett?",
+      "options": [
+        "Internetes illemszabályok",
+        "Egy fajta ruha",
+        "Egy játék",
+        "Gépelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad más fotóját megosztani?",
+      "options": [
+        "Csak ha engedélyt adott",
+        "Igen, bármit",
+        "Soha",
+        "Csak ha vicces"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Cyberbullying'?",
+      "options": [
+        "Internetes zaklatás",
+        "Egy fajta sport",
+        "Egy játék",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a biztonság?",
+      "options": [
+        "Hogy ne éljenek vissza az adatainkkal",
+        "Hogy gyorsabb legyen a gép",
+        "Mert szép",
+        "Főzéshez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan védheted a profilodat?",
+      "options": [
+        "Erős jelszóval és beállításokkal",
+        "Lakatot teszel a gépre",
+        "Letakarod",
+        "Vársz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Report' (jelentés)?",
+      "options": [
+        "Szólni az oldalnak ha baj van",
+        "Rajzolás",
+        "Éneklés",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Block' (tiltás)?",
+      "options": [
+        "Megakadályozod, hogy valaki keressen",
+        "Egy építőelem",
+        "Egy rajz",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki láthatja a jelszavadat?",
+      "options": [
+        "Csak te (és esetleg szüleid)",
+        "Bárki",
+        "A tanár",
+        "A barátod"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a digitális polgár?",
+      "options": [
+        "Aki okosan és jól használja a netet",
+        "Aki a neten lakik",
+        "Egy robot",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ellenőrzöd magad?",
+      "options": [
+        "Gondolkodsz mielőtt posztolsz",
+        "Nézel a tükörbe",
+        "Megkérdezed a gépet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több profilod?",
+      "options": [
+        "Igen, de érdemes vigyázni",
+        "Soha",
+        "Csak ha felnőtt vagy",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a digitális identitás?",
+      "options": [
+        "Önkifejezésre és kapcsolattartásra",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: profil",
+      "answer": "profil"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: adat",
+      "answer": "adat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: jelszó",
+      "answer": "jelszó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: nyom",
+      "answer": "nyom"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: közösség",
+      "answer": "közösség"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: viselkedés",
+      "answer": "viselkedés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szabály",
+      "answer": "szabály"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: védelem",
+      "answer": "védelem"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: titok",
+      "answer": "titok"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: becenév",
+      "answer": "becenév"
+    }
+  ]
+}

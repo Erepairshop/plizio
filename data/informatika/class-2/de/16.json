@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Farben beim Zeichnen",
+  "theme": "Farben und Formen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 1)",
+      "question": "Welche Farben nutzt ein Computer-Monitor?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 2)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 3)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "RGB (Rot, Grün, Blau)",
+        "Buntstifte",
+        "Wasserfarben",
+        "Keine"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 4)",
+      "question": "Wie viele Grundfarben mischt der PC?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 5)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 6)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Drei",
+        "Zehn",
+        "Hundert",
+        "Eine"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 7)",
+      "question": "Was ist ein Pixel?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 8)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 9)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Ein winziger Farbpunkt auf dem Bildschirm",
+        "Ein großes Quadrat",
+        "Ein Kreis",
+        "Ein Geräusch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 10)",
+      "question": "Welche Form hat ein normaler Monitor?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 11)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 12)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Rechteckig",
+        "Kreisrund",
+        "Dreieckig",
+        "Herzförmig"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 13)",
+      "question": "Wie nennt man eine Form mit vier gleichen Seiten?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 14)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 15)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Quadrat",
+        "Kreis",
+        "Stern",
+        "Linie"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 16)",
+      "question": "Kann der Computer einen perfekten Kreis zeichnen?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 17)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 18)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Ja, mit dem richtigen Werkzeug",
+        "Nein, nur Ecken",
+        "Nur wenn man eine Vorlage hat",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 19)",
+      "question": "Was ist die Hintergrundfarbe?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 20)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 21)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Die Farbe der Fläche hinter allem",
+        "Die Farbe der Maus",
+        "Die Farbe der Tastatur",
+        "Immer Weiß"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 22)",
+      "question": "Wie wählt man eine Farbe im Malprogramm?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 23)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 24)",
-      "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "In der Farbpalette anklicken",
+        "Man muss den Namen rufen",
+        "Man zeigt mit dem Finger drauf",
+        "Zufall"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Farben beim Zeichnen? (Frage 25)",
+      "question": "Gibt es am Computer auch durchsichtige Farben?",
       "options": [
-        "Option A für Farben beim Zeichnen",
-        "Option B für Farben beim Zeichnen",
-        "Option C für Farben beim Zeichnen"
+        "Ja, das nennt man Transparenz",
+        "Nein, alles ist fest",
+        "Nur wenn der Monitor aus ist",
+        "Nur für Profis"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Muster?",
+      "options": [
+        "Eine sich wiederholende Form oder Farbe",
+        "Ein kaputtes Bild",
+        "Ein Name für ein Programm",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie zeichnet man ein Dreieck am PC?",
+      "options": [
+        "Mit drei Linien, die sich treffen",
+        "Mit einem runden Pinsel",
+        "Man muss es aus einem Kreis schneiden",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man alle Farben (Licht) mischt?",
+      "options": [
+        "Es wird Weiß",
+        "Es wird Schwarz",
+        "Es wird Grau",
+        "Es wird Braun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn kein Licht da ist?",
+      "options": [
+        "Es wird Schwarz",
+        "Es wird Weiß",
+        "Es wird Bunt",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Formen vergrößern?",
+      "options": [
+        "Ja, indem man an den Ecken zieht",
+        "Nein, sie bleiben immer gleich",
+        "Nur wenn man sie neu malt",
+        "Nur am PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Kontur?",
+      "options": [
+        "Der Rand einer Form",
+        "Das Innere einer Form",
+        "Die Farbe",
+        "Ein Schatten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Füllung?",
+      "options": [
+        "Die Farbe im Inneren einer Form",
+        "Der Rahmen",
+        "Ein Loch",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Formen am PC drehen?",
+      "options": [
+        "Ja, mit dem Dreh-Werkzeug",
+        "Nein, sie stehen immer gerade",
+        "Nur wenn man den Monitor dreht",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein Stern-Icon oft aus?",
+      "options": [
+        "Fünf Zacken und Gelb",
+        "Rund und Blau",
+        "Eckig und Grün",
+        "Flach und Schwarz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Icons oft bunt?",
+      "options": [
+        "Damit wir sie besser unterscheiden können",
+        "Weil Farbe billig ist",
+        "Weil der PC sonst traurig ist",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 3D?",
+      "options": [
+        "Formen, die wie echt im Raum aussehen",
+        "Drei dicke Bilder",
+        "Eine Abkürzung für Computer",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 2D?",
+      "options": [
+        "Flache Formen wie auf einem Blatt Papier",
+        "Zwei dicke Bilder",
+        "Ein alter PC",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Farben am PC blasser werden?",
+      "options": [
+        "Ja, wenn man die Helligkeit ändert",
+        "Nein, sie sind immer gleich",
+        "Nur wenn sie alt sind",
+        "Nur im Winter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Farbrad?",
+      "options": [
+        "Ein Kreis mit allen Farben zum Auswählen",
+        "Ein Reifen am PC",
+        "Ein Spielzeug",
+        "Ein bunter Keks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Formen Schatten haben am PC?",
+      "options": [
+        "Ja, das sieht dann echter aus",
+        "Nein, Schatten gibt es nur draußen",
+        "Nur wenn die Sonne scheint",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spielen mit Farben Spaß?",
+      "options": [
+        "Ja, man kann sehr kreativ sein!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 1"
+      "question": "Tippe ein: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 2"
+      "question": "Tippe ein: Form",
+      "answer": "Form"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 3"
+      "question": "Tippe ein: Kreis",
+      "answer": "Kreis"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 4"
+      "question": "Tippe ein: Eckig",
+      "answer": "Eckig"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 5"
+      "question": "Tippe ein: Blau",
+      "answer": "Blau"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 6"
+      "question": "Tippe ein: Rot",
+      "answer": "Rot"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 7"
+      "question": "Tippe ein: Grün",
+      "answer": "Grün"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 8"
+      "question": "Tippe ein: Gelb",
+      "answer": "Gelb"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 9"
+      "question": "Tippe ein: Bunt",
+      "answer": "Bunt"
     },
     {
       "type": "typing",
-      "text": "Farben beim Zeichnen ist toll 10"
+      "question": "Tippe ein: Muster",
+      "answer": "Muster"
     }
   ]
 }

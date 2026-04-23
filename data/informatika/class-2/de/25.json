@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Gruppieren",
+  "theme": "Zusammenfassung",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 1)",
+      "question": "Was ist das wichtigste Steuergerät?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 2)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 3)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Maus und Tastatur",
+        "Fernbedienung",
+        "Drucker",
+        "Scanner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 4)",
+      "question": "Wo sehen wir alles?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 5)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 6)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Auf dem Monitor",
+        "In der Maus",
+        "An der Tastatur",
+        "Im Gehäuse"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 7)",
+      "question": "Was schützt unsere Daten?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 8)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 9)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Ein sicheres Passwort",
+        "Ein bunter Aufkleber",
+        "Viel Wasser",
+        "Dunkelheit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 10)",
+      "question": "Wozu nutzen wir Ordner?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 11)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 12)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Um Ordnung zu halten",
+        "Zum Spielen",
+        "Zum Malen",
+        "Zum Schlafen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 13)",
+      "question": "Wie heißt ein Malprogramm?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 14)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 15)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Paint",
+        "Word",
+        "Excel",
+        "Chrome"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 16)",
+      "question": "Was ist das Internet?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 17)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 18)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Ein weltweites Netz von Computern",
+        "Ein kleines Buch",
+        "Ein Spiel",
+        "Ein Kabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 19)",
+      "question": "Was ist eine E-Mail?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 20)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 21)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Ein elektronischer Brief",
+        "Ein echtes Paket",
+        "Ein Telefonat",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 22)",
+      "question": "Darf man Passwörter verraten?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 23)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 24)",
-      "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Nein, niemals",
+        "Ja, jedem",
+        "Nur Freunden",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Gruppieren? (Frage 25)",
+      "question": "Was ist ein Roboter?",
       "options": [
-        "Option A für Gruppieren",
-        "Option B für Gruppieren",
-        "Option C für Gruppieren"
+        "Eine Maschine, die Aufgaben ausführt",
+        "Ein Mensch aus Metall",
+        "Ein Spielzeug",
+        "Ein Auto"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Programmieren?",
+      "options": [
+        "Dem Computer Befehle geben",
+        "Filme schauen",
+        "Tippen üben",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Scratch Jr.?",
+      "options": [
+        "Eine App zum Programmieren lernen",
+        "Ein Spiel mit Katzen",
+        "Ein Browser",
+        "Ein Malbuch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Pixel?",
+      "options": [
+        "Kleine Farbpunkte auf dem Monitor",
+        "Kleine Käfer",
+        "Tasten",
+        "Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Womit wischen wir auf dem Tablet?",
+      "options": [
+        "Mit dem Finger",
+        "Mit der Maus",
+        "Mit dem Pinsel",
+        "Mit dem Fuß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht eine Webcam?",
+      "options": [
+        "Sie filmt uns am Computer",
+        "Sie fängt Spinnen",
+        "Sie druckt Bilder",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man den Ton leiser?",
+      "options": [
+        "Mit dem Lautstärkeregler",
+        "Durch Pusten",
+        "Durch Rufen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Datei?",
+      "options": [
+        "Eine gespeicherte Information (Bild, Text...)",
+        "Ein echtes Heft",
+        "Ein Spielzeug",
+        "Ein Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Desktop?",
+      "options": [
+        "Der Hauptbildschirm mit den Icons",
+        "Ein Tisch aus Holz",
+        "Die Tastatur",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Papierkorb?",
+      "options": [
+        "Dort landen gelöschte Dinge",
+        "Ein echter Eimer",
+        "Ein Spiel",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum machen wir Pausen am Computer?",
+      "options": [
+        "Um die Augen zu schonen",
+        "Damit der PC nicht schwer wird",
+        "Weil die Maus müde ist",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fremden im Netz alles sagen?",
+      "options": [
+        "Nein, lieber vorsichtig sein",
+        "Ja, immer",
+        "Nur wenn sie nett sind",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Laptop?",
+      "options": [
+        "Ein tragbarer Computer",
+        "Ein kleiner Monitor",
+        "Ein Spielzeug",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu ist die Enter-Taste da?",
+      "options": [
+        "Zum Bestätigen oder für neue Zeilen",
+        "Zum Löschen",
+        "Zum Schlafen",
+        "Zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist WLAN?",
+      "options": [
+        "Kabelloses Internet",
+        "Ein kaputtes Kabel",
+        "Ein Spiel",
+        "Ein Keks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser?",
+      "options": [
+        "Ein Programm für das Internet",
+        "Ein Malprogramm",
+        "Ein Spiel",
+        "Ein Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Bist du jetzt ein Computer-Experte?",
+      "options": [
+        "Ja, ich habe viel gelernt!",
+        "Nein, gar nicht",
+        "Vielleicht ein bisschen",
+        "Ich weiß alles!"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 1"
+      "question": "Tippe ein: Wissen",
+      "answer": "Wissen"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 2"
+      "question": "Tippe ein: Können",
+      "answer": "Können"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 3"
+      "question": "Tippe ein: Fertig",
+      "answer": "Fertig"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 4"
+      "question": "Tippe ein: Üben",
+      "answer": "Üben"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 5"
+      "question": "Tippe ein: Check",
+      "answer": "Check"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 6"
+      "question": "Tippe ein: Alles",
+      "answer": "Alles"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 7"
+      "question": "Tippe ein: Richtig",
+      "answer": "Richtig"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 8"
+      "question": "Tippe ein: Prima",
+      "answer": "Prima"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 9"
+      "question": "Tippe ein: Ende",
+      "answer": "Ende"
     },
     {
       "type": "typing",
-      "text": "Gruppieren ist toll 10"
+      "question": "Tippe ein: Zukunft",
+      "answer": "Zukunft"
     }
   ]
 }

@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Drag & Drop",
+  "theme": "Ordner",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 1)",
+      "question": "Was ist ein Ordner am Computer?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 2)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 3)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Ein digitaler Behälter für Dateien",
+        "Ein echtes Heft aus Papier",
+        "Ein Teil der Tastatur",
+        "Ein Spielzeug"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 4)",
+      "question": "Wie sieht ein Ordner-Icon meistens aus?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 5)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 6)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Gelb und wie eine Mappe",
+        "Blau und rund",
+        "Rot und eckig",
+        "Grün und flach"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 7)",
+      "question": "Warum benutzt man Ordner?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 8)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 9)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Um Ordnung zu halten",
+        "Weil es bunter aussieht",
+        "Weil der PC sonst zu leicht ist",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 10)",
+      "question": "Wie erstellt man einen neuen Ordner?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 11)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 12)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Rechtsklick -> Neu -> Ordner",
+        "Man muss ihn malen",
+        "Laut rufen",
+        "Den Monitor schütteln"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 13)",
+      "question": "Kann man Ordner benennen?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 14)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 15)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Ja, man kann ihnen eigene Namen geben",
+        "Nein, sie heißen alle 'Ordner'",
+        "Nur mit Nummern",
+        "Nur auf Englisch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 16)",
+      "question": "Kann ein Ordner andere Ordner enthalten?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 17)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 18)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Ja, das nennt man Unterordner",
+        "Nein, immer nur Dateien",
+        "Nur zwei Stück",
+        "Nur am Wochenende"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 19)",
+      "question": "Wie löscht man einen Ordner?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 20)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 21)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Anklicken und 'Entf' drücken oder in den Papierkorb ziehen",
+        "Mit Wasser übergießen",
+        "Den PC ausschalten",
+        "Anschreien"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 22)",
+      "question": "Wie öffnet man einen Ordner?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 23)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 24)",
-      "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Mit einem Doppelklick",
+        "Mit einem Pinsel",
+        "Durch Warten",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Drag & Drop? (Frage 25)",
+      "question": "Was kann man in einen Ordner legen?",
       "options": [
-        "Option A für Drag & Drop",
-        "Option B für Drag & Drop",
-        "Option C für Drag & Drop"
+        "Bilder, Musik, Texte und mehr",
+        "Nur Wasser",
+        "Echtes Spielzeug",
+        "Süßigkeiten"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie verschiebt man eine Datei in einen Ordner?",
+      "options": [
+        "Mit der Maus hineinziehen",
+        "Mit dem Finger draufzeigen",
+        "Pusten",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Ordner leer sein?",
+      "options": [
+        "Ja, natürlich",
+        "Nein, dann verschwindet er",
+        "Nur wenn er neu ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man seine eigenen Ordner oft?",
+      "options": [
+        "Im Datei-Explorer",
+        "Hinter dem Schrank",
+        "Im Internet",
+        "Auf dem Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Desktop-Ordner?",
+      "options": [
+        "Alles, was man direkt auf dem Bildschirm sieht",
+        "Ein Ordner auf dem Schreibtisch",
+        "Ein alter Computer",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Ändern des Namens?",
+      "options": [
+        "Umbenennen",
+        "Neumalen",
+        "Umschreiben",
+        "Rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ordner kopieren?",
+      "options": [
+        "Ja, dann hat man zwei gleiche",
+        "Nein, das geht nicht",
+        "Nur wenn sie leer sind",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man einen vollen Ordner löscht?",
+      "options": [
+        "Alles darin wird mit gelöscht",
+        "Nur der Ordner verschwindet",
+        "Die Dateien fliegen weg",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man Ordner sinnvoll benennen?",
+      "options": [
+        "Damit man die Sachen schnell wiederfindet",
+        "Damit es schöner aussieht",
+        "Für die Hausaufgaben",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Ordner auch auf Tablets?",
+      "options": [
+        "Ja, auch dort gibt es sie",
+        "Nein, nur am PC",
+        "Nur für Fotos",
+        "Nur wenn man groß ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein geschlossener Ordner aus?",
+      "options": [
+        "Wie eine Mappe",
+        "Wie ein Buch",
+        "Wie ein Ball",
+        "Wie ein Haus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Farbe von Ordnern ändern?",
+      "options": [
+        "In manchen Systemen geht das",
+        "Nein, immer gelb",
+        "Nur wenn man sie bemalt",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Pfad'?",
+      "options": [
+        "Der Weg zu einem Ordner (z.B. C:/Bilder)",
+        "Ein echter Waldweg",
+        "Ein Kabel",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sucht man einen Ordner?",
+      "options": [
+        "Mit der Suchfunktion (Lupe)",
+        "Man muss überall nachsehen",
+        "Man ruft den Namen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Ordner sehr groß werden?",
+      "options": [
+        "Ja, wenn viele Dateien drin sind",
+        "Nein, sie haben eine feste Größe",
+        "Nur wenn man sie dehnt",
+        "Nur am PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Download'-Ordner?",
+      "options": [
+        "Dort landen Sachen aus dem Internet",
+        "Ein Ordner zum Herunterfallen",
+        "Ein Spiel",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Bilder'-Ordner?",
+      "options": [
+        "Ein Ort zum Sammeln von Fotos",
+        "Ein Ordner aus Glas",
+        "Ein Fernseher",
+        "Ein Buch"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 1"
+      "question": "Tippe ein: Ordner",
+      "answer": "Ordner"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 2"
+      "question": "Tippe ein: Datei",
+      "answer": "Datei"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 3"
+      "question": "Tippe ein: Name",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 4"
+      "question": "Tippe ein: Speichern",
+      "answer": "Speichern"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 5"
+      "question": "Tippe ein: Neu",
+      "answer": "Neu"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 6"
+      "question": "Tippe ein: Löschen",
+      "answer": "Löschen"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 7"
+      "question": "Tippe ein: Suchen",
+      "answer": "Suchen"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 8"
+      "question": "Tippe ein: Mappe",
+      "answer": "Mappe"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 9"
+      "question": "Tippe ein: Pfad",
+      "answer": "Pfad"
     },
     {
       "type": "typing",
-      "text": "Drag & Drop ist toll 10"
+      "question": "Tippe ein: Ordnung",
+      "answer": "Ordnung"
     }
   ]
 }

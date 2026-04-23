@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Bilder aus dem Internet",
+  "theme": "Dateien speichern",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 1)",
+      "question": "Warum speichert man Dateien?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 2)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 3)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Damit die Arbeit nicht verloren geht",
+        "Damit der PC schwerer wird",
+        "Weil es so Gesetz ist",
+        "Zufall"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 4)",
+      "question": "Wo werden Dateien meistens gespeichert?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 5)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 6)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Auf der Festplatte oder SSD",
+        "In der Tastatur",
+        "In der Maus",
+        "Unter dem Tisch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 7)",
+      "question": "Wie heißt der Befehl zum Speichern meistens?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 8)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 9)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Save oder Speichern",
+        "Löschen",
+        "Suchen",
+        "Hüpfen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 10)",
+      "question": "Was ist ein Dateiname?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 11)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 12)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Der Name, den man seiner Datei gibt",
+        "Der Name des Computers",
+        "Der Vorname des Benutzers",
+        "Ein Geheimcode"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 13)",
+      "question": "Kann man Dateinamen frei wählen?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 14)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 15)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Ja, meistens schon",
+        "Nein, der PC bestimmt sie",
+        "Nur mit Zahlen",
+        "Nur auf Englisch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 16)",
+      "question": "Was passiert, wenn man nicht speichert und den PC ausmacht?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 17)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 18)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Die Arbeit ist meistens weg",
+        "Sie wird von allein gespeichert",
+        "Der PC piept ganz laut",
+        "Nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 19)",
+      "question": "Was ist ein USB-Stick?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 20)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 21)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Ein kleiner Speicher für unterwegs",
+        "Ein Kaugummi",
+        "Ein Teil vom Monitor",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 22)",
+      "question": "Was bedeutet 'Speichern unter'?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 23)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 24)",
-      "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Einen Ort und Namen für eine neue Datei wählen",
+        "Die Datei unter den Tisch legen",
+        "Die Datei ganz klein machen",
+        "Ein Bild malen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Bilder aus dem Internet? (Frage 25)",
+      "question": "Wie sieht das Speicher-Icon oft aus?",
       "options": [
-        "Option A für Bilder aus dem Internet",
-        "Option B für Bilder aus dem Internet",
-        "Option C für Bilder aus dem Internet"
+        "Wie eine alte Diskette",
+        "Wie ein Tresor",
+        "Wie ein Sparschwein",
+        "Wie ein Beutel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien in Ordner speichern?",
+      "options": [
+        "Ja, um sie besser zu finden",
+        "Nein, immer nur auf den Desktop",
+        "Nur drei Stück",
+        "Nur am Sonntag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Cloud?",
+      "options": [
+        "Speicherplatz im Internet",
+        "Eine echte Wolke",
+        "Ein weißes Schaf",
+        "Ein Malprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man wichtige Dateien zweimal speichern?",
+      "options": [
+        "Als Sicherheit (Backup)",
+        "Damit man doppelt so viel hat",
+        "Weil der PC das mag",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Dateiendung (z.B. .jpg)?",
+      "options": [
+        "Sie zeigt, was für eine Datei es ist",
+        "Das Ende einer Geschichte",
+        "Ein Fehler",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Datei löschen, wenn man sie nicht mehr braucht?",
+      "options": [
+        "Ja, ab in den Papierkorb",
+        "Nein, sie muss für immer bleiben",
+        "Nur wenn sie klein ist",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man seine gespeicherten Sachen wieder?",
+      "options": [
+        "Im Datei-Explorer",
+        "Hinter dem Schrank",
+        "Im Internet",
+        "Auf dem Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Überschreiben'?",
+      "options": [
+        "Eine alte Datei mit einer neuen ersetzen",
+        "Über den Monitor malen",
+        "Die Datei ganz groß machen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Dateien zu groß für einen USB-Stick sein?",
+      "options": [
+        "Ja, wenn der Stick voll ist",
+        "Nein, alles passt immer",
+        "Nur wenn sie bunt sind",
+        "Nur im Winter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine externe Festplatte?",
+      "options": [
+        "Ein großes Speichergerät für draußen",
+        "Ein Teil vom Auto",
+        "Ein Speicher, den man ansteckt",
+        "Ein Spiel"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist es gut, viele Dateien auf dem Desktop zu haben?",
+      "options": [
+        "Nein, das wird schnell unordentlich",
+        "Ja, das sieht super aus",
+        "Der PC wird dann schneller",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Sichern von Daten?",
+      "options": [
+        "Backup",
+        "Kopie",
+        "Schutz",
+        "Sperre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien umbenennen?",
+      "options": [
+        "Ja, wenn sie geschlossen sind",
+        "Nein, nie",
+        "Nur wenn sie neu sind",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Papierkorb?",
+      "options": [
+        "Ein Ort für gelöschte Dateien, bevor sie ganz weg sind",
+        "Ein echter Mülleimer",
+        "Ein Malprogramm",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viel Speicherplatz hat ein PC?",
+      "options": [
+        "Sehr viel, meistens Gigabyte oder Terabyte",
+        "Nur ganz wenig",
+        "So viel wie ein Buch",
+        "Keinen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Dateien von anderen einfach löschen?",
+      "options": [
+        "Nein, das ist sehr unhöflich und verboten",
+        "Ja, wenn sie stören",
+        "Nur wenn man sie nicht mag",
+        "Nur am Sonntag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Speichern wichtig?",
+      "options": [
+        "Damit wir unsere Werke behalten können!",
+        "Damit der PC Strom spart",
+        "Weil es Spaß macht",
+        "Nichts"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 1"
+      "question": "Tippe ein: Datei",
+      "answer": "Datei"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 2"
+      "question": "Tippe ein: Speichern",
+      "answer": "Speichern"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 3"
+      "question": "Tippe ein: Name",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 4"
+      "question": "Tippe ein: Ort",
+      "answer": "Ort"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 5"
+      "question": "Tippe ein: Stick",
+      "answer": "Stick"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 6"
+      "question": "Tippe ein: Festplatte",
+      "answer": "Festplatte"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 7"
+      "question": "Tippe ein: Sicher",
+      "answer": "Sicher"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 8"
+      "question": "Tippe ein: Backup",
+      "answer": "Backup"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 9"
+      "question": "Tippe ein: Neu",
+      "answer": "Neu"
     },
     {
       "type": "typing",
-      "text": "Bilder aus dem Internet ist toll 10"
+      "question": "Tippe ein: Kopie",
+      "answer": "Kopie"
     }
   ]
 }

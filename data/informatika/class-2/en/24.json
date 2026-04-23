@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Netiquette",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is netiquette?",
+      "options": [
+        "Good manners on the internet",
+        "A type of internet net",
+        "A game about nets",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you be kind online?",
+      "options": [
+        "Yes, always",
+        "No, never",
+        "Only if you want",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use mean words?",
+      "options": [
+        "No, it's bullying",
+        "Yes, it's fun",
+        "Only if you are angry",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you use ALL CAPS when typing?",
+      "options": [
+        "No, it's like shouting",
+        "Yes, it looks cool",
+        "Only if you are happy",
+        "Always"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you say 'Please' and 'Thank you'?",
+      "options": [
+        "Yes, be polite",
+        "No, it takes too long",
+        "Only to adults",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if someone is mean?",
+      "options": [
+        "Don't be mean back, tell adult",
+        "Be meaner",
+        "Cry",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to share secrets online?",
+      "options": [
+        "No, keep things private",
+        "Yes, with everyone",
+        "Only with friends",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask before sharing a photo of a friend?",
+      "options": [
+        "Yes, it's respectful",
+        "No, just do it",
+        "Only if they look bad",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'spam'?",
+      "options": [
+        "Unwanted junk messages",
+        "A type of food only",
+        "A lucky message",
+        "A broken mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you send spam?",
+      "options": [
+        "No, it's annoying",
+        "Yes, to everyone",
+        "Only on birthdays",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'cyber-respect'?",
+      "options": [
+        "Being nice to others online",
+        "A type of robot",
+        "A secret code",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to interrupt others in a chat?",
+      "options": [
+        "No, wait your turn",
+        "Yes, always",
+        "Only if you are fast",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you help others online?",
+      "options": [
+        "Yes, if you can",
+        "No, let them figure it out",
+        "Only if they pay",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'troll' online?",
+      "options": [
+        "Someone who is mean for fun",
+        "A magical creature only",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you be a troll?",
+      "options": [
+        "No, be a good friend",
+        "Yes, it's funny",
+        "Only if you are 8",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'honesty' online?",
+      "options": [
+        "Telling the truth",
+        "Lying to stay safe",
+        "A secret name",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use someone else's account?",
+      "options": [
+        "No, that's not right",
+        "Yes, if they are friends",
+        "Only if you know password",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'polite' greeting?",
+      "options": [
+        "Hello or Hi",
+        "HEY YOU!",
+        "Go away",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you listen to others' ideas?",
+      "options": [
+        "Yes, everyone has them",
+        "No, only mine",
+        "Only if they are good",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'empathy'?",
+      "options": [
+        "Understanding how others feel",
+        "A type of game",
+        "A computer part",
+        "A loud noise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you follow the rules of a website?",
+      "options": [
+        "Yes, they are there for safety",
+        "No, rules are boring",
+        "Only if you want",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is netiquette just for kids?",
+      "options": [
+        "No, for everyone!",
+        "Only for school",
+        "Only for babies",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'sharing' nicely?",
+      "options": [
+        "Giving credit to others",
+        "Taking everything",
+        "Hiding things",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can your words hurt others online?",
+      "options": [
+        "Yes, they can",
+        "No, it's just screen",
+        "Only if they read it",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are you a kind digital citizen?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Kind",
+      "answer": "Kind"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Nice",
+      "answer": "Nice"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hello",
+      "answer": "Hello"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Share",
+      "answer": "Share"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Good",
+      "answer": "Good"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smile",
+      "answer": "Smile"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Talk",
+      "answer": "Talk"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Friend",
+      "answer": "Friend"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Great",
+      "answer": "Great"
+    }
+  ]
+}

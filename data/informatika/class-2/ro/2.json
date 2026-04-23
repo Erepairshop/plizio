@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Mouse și tastatură",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce facem cu mouse-ul?",
+      "options": [
+        "Controlăm cursorul pe ecran",
+        "Scriem cifre",
+        "Pornim lumina",
+        "Cântăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care deget este pentru click stânga?",
+      "options": [
+        "Arătătorul",
+        "Degetul mare",
+        "Degetul mic",
+        "Toate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face dublu-click-ul?",
+      "options": [
+        "Deschide un program",
+        "Închide calculatorul",
+        "Șterge o poză",
+        "Mărește sunetul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tasta 'Enter' este folosită pentru...",
+      "options": [
+        "Confirmare sau rând nou",
+        "Ștergere",
+        "A scrie spațiu",
+        "A ieși"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cea mai lungă tastă este...",
+      "options": [
+        "Space (Spațiu)",
+        "Shift",
+        "Alt",
+        "Enter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem cu tasta 'Backspace'?",
+      "options": [
+        "Ștergem literele greșite",
+        "Scriem cu litere mari",
+        "Punem punct",
+        "Mergem la rândul nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum scriem o literă mare?",
+      "options": [
+        "Ținem apăsat Shift",
+        "Apăsăm tare",
+        "Suflăm în monitor",
+        "Închidem ochii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face rotița de la mouse?",
+      "options": [
+        "Derulează pagina",
+        "Schimbă volumul",
+        "Oprește ecranul",
+        "Schimbă culoarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt așezate cifrele pe tastatură?",
+      "options": [
+        "Sus și uneori în dreapta",
+        "Doar în stânga",
+        "Sub tastatură",
+        "În mijloc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un cursor?",
+      "options": [
+        "Săgeata de pe ecran",
+        "Un personaj",
+        "Un buton",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mouse-ul are butoane?",
+      "options": [
+        "Da, de obicei două",
+        "Nu are",
+        "Are zece",
+        "Are unul singur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'click dreapta'?",
+      "options": [
+        "Deschide un meniu de opțiuni",
+        "Șterge tot",
+        "Închide Windows",
+        "Mărește imaginea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tastatura este un dispozitiv de...",
+      "options": [
+        "Intrare",
+        "Ieșire",
+        "Stocare",
+        "Cântat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tasta 'Caps Lock' servește la...",
+      "options": [
+        "Scrisul doar cu litere mari",
+        "Blocarea calculatorului",
+        "Schimbarea limbii",
+        "Pornirea muzicii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De unde vine numele de 'mouse'?",
+      "options": [
+        "Seamănă cu un șoarece",
+        "Sună ca un șoarece",
+        "Fuge repede",
+        "E gri mereu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie cuvinte fără tastatură?",
+      "options": [
+        "E foarte greu",
+        "Da, cu gândul",
+        "Nu se poate",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un touchpad?",
+      "options": [
+        "Un mouse pe laptop",
+        "O tastă",
+        "Un ecran",
+        "Un cablu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care tastă șterge caracterul din dreapta cursorului?",
+      "options": [
+        "Delete",
+        "Backspace",
+        "Enter",
+        "Shift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află tasta Escape (Esc)?",
+      "options": [
+        "În colțul din stânga sus",
+        "În mijloc",
+        "Sub tastatură",
+        "În dreapta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta Space?",
+      "options": [
+        "Pune spațiu între cuvinte",
+        "Șterge tot",
+        "Pornește muzica",
+        "Schimbă culoarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte taste are aproximativ o tastatură?",
+      "options": [
+        "Peste 100",
+        "Doar 10",
+        "Fix 50",
+        "Milioane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi tastatura pentru a ne juca?",
+      "options": [
+        "Da, folosind săgețile",
+        "Nu, e doar pentru scris",
+        "Doar dacă avem voie",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'drag and drop'?",
+      "options": [
+        "Glisare și fixare",
+        "A tăia și a lipi",
+        "A scrie și a șterge",
+        "A porni și a opri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mouse-ul fără fir are nevoie de?",
+      "options": [
+        "Baterii",
+        "Apă",
+        "Mâncare",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să nu lovim tastatura?",
+      "options": [
+        "Da, se poate strica",
+        "Nu, e rezistentă",
+        "Doar dacă e nouă",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tasta",
+      "answer": "tasta"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scrie",
+      "answer": "scrie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: apas",
+      "answer": "apas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: enter",
+      "answer": "enter"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: shift",
+      "answer": "shift"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: space",
+      "answer": "space"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: jos",
+      "answer": "jos"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sus",
+      "answer": "sus"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Táblázat alapok",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a táblázat?",
+      "options": [
+        "Sorokból és oszlopokból álló rács",
+        "Egy fajta asztal",
+        "Egy rajz",
+        "Egy könyv"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a cella?",
+      "options": [
+        "Egy kis téglalap a táblázatban",
+        "Egy börtön",
+        "A monitor sarka",
+        "A gép gombja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a Google táblázatkezelője?",
+      "options": [
+        "Google Sheets",
+        "Google Docs",
+        "Google Play",
+        "Google Maps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a táblázat?",
+      "options": [
+        "Adatok rendszerezésére és számolásra",
+        "Alvásra",
+        "Főzésre",
+        "Futásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a vízszintes részeket?",
+      "options": [
+        "Sorok",
+        "Oszlopok",
+        "Falak",
+        "Utak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a függőleges részeket?",
+      "options": [
+        "Oszlopok",
+        "Sorok",
+        "Létrák",
+        "Kémények"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan azonosítunk egy cellát?",
+      "options": [
+        "Betűvel és számmal (pl. A1)",
+        "Színével",
+        "Súlyával",
+        "Nevével"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud a táblázat számolni?",
+      "options": [
+        "Igen, függvényekkel",
+        "Nem, csak írni lehet bele",
+        "Csak ha van benne elem",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Formula'?",
+      "options": [
+        "Számítási képlet",
+        "Egy gyors autó",
+        "Egy fajta étel",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kezdődik minden képlet?",
+      "options": [
+        "Egyenlőségjellel (=)",
+        "Kérdőjellel (?)",
+        "Ponttal (.)",
+        "Betűvel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'SUM'?",
+      "options": [
+        "Összeadás",
+        "Kivonás",
+        "Alvás",
+        "Zene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e színezni a cellákat?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha fekete",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a diagram?",
+      "options": [
+        "Adatok vizuális ábrázolása",
+        "Egy rajzolt kutya",
+        "A gép kábele",
+        "Egy titok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan változtatod az oszlop szélességét?",
+      "options": [
+        "Az oszlopok közötti vonal húzásával",
+        "Kiabálsz neki",
+        "Sehogy",
+        "Új géppel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Rendezés'?",
+      "options": [
+        "ABC vagy szám szerinti sorrend",
+        "A gép takarítása",
+        "A szoba rendje",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Filter' (szűrő)?",
+      "options": [
+        "Adatok kiválogatása",
+        "Egy kávéfőző",
+        "Egy maszk",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több munkalap egy fájlban?",
+      "options": [
+        "Igen, alul látszanak a fülek",
+        "Nem",
+        "Csak ha kék",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Border' (szegély)?",
+      "options": [
+        "A cellák körüli vonal",
+        "Egy ország határa",
+        "A gép széle",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk egy cellát?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+Z",
+        "Ctrl+P"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Autofill'?",
+      "options": [
+        "Automatikus kitöltés húzással",
+        "Autó megtöltése",
+        "Gép etetése",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a Google Táblázat?",
+      "options": [
+        "Zöld lap ikon",
+        "Kék kocka",
+        "Sárga kör",
+        "Piros szív"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e benne grafikont rajzolni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak papíron",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Cella egyesítés'?",
+      "options": [
+        "Több cellából egy lesz",
+        "A gép darabolása",
+        "Csoportos munka",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentjük a táblázatot?",
+      "options": [
+        "Automatikusan mentődik",
+        "Ctrl+S",
+        "Soha nem ment",
+        "Várni kell"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a táblázat?",
+      "options": [
+        "Rendezett adatok kezelésére és számolásra",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: táblázat",
+      "answer": "táblázat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: cella",
+      "answer": "cella"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: oszlop",
+      "answer": "oszlop"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: sor",
+      "answer": "sor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: adat",
+      "answer": "adat"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: függvény",
+      "answer": "függvény"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: számolás",
+      "answer": "számolás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: diagram",
+      "answer": "diagram"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: érték",
+      "answer": "érték"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: rács",
+      "answer": "rács"
+    }
+  ]
+}

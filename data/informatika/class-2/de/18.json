@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Kopieren / Einfügen",
+  "theme": "Die Kamera",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 1)",
+      "question": "Was macht eine Kamera?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 2)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 3)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Sie macht Fotos oder Videos",
+        "Sie macht Musik",
+        "Sie druckt Papier",
+        "Sie kocht Kaffee"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 4)",
+      "question": "Wo sind heute oft Kameras eingebaut?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 5)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 6)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "In Smartphones und Tablets",
+        "In der Kaffeemaschine",
+        "Im Schuh",
+        "In der Gabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 7)",
+      "question": "Was ist eine Webcam?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 8)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 9)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Eine Kamera für den Computer",
+        "Ein Spinnennetz",
+        "Ein Teil vom Drucker",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 10)",
+      "question": "Wie nennt man ein Foto von sich selbst?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 11)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 12)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Selfie",
+        "Ich-Bild",
+        "Spiegelung",
+        "Ego-Foto"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 13)",
+      "question": "Was braucht eine Kamera, um ein Bild zu machen?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 14)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 15)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Licht",
+        "Wasser",
+        "Luft",
+        "Musik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 16)",
+      "question": "Wie löst man die Kamera aus?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 17)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 18)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Mit einem Knopf oder Klick",
+        "Durch Pusten",
+        "Durch Rufen",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 19)",
+      "question": "Was ist der Blitz?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 20)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 21)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Ein helles Licht für dunkle Räume",
+        "Ein Wetterereignis im PC",
+        "Ein schnelles Programm",
+        "Ein Geräusch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 22)",
+      "question": "Wie sieht man das Bild sofort?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 23)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 24)",
-      "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Auf dem Display (Bildschirm)",
+        "In der Tastatur",
+        "An der Maus",
+        "Man muss es drucken"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Kopieren / Einfügen? (Frage 25)",
+      "question": "Was ist 'Zoom'?",
       "options": [
-        "Option A für Kopieren / Einfügen",
-        "Option B für Kopieren / Einfügen",
-        "Option C für Kopieren / Einfügen"
+        "Man kann Dinge näher herantragen",
+        "Das Geräusch der Kamera",
+        "Ein schnelles Auto",
+        "Gar nichts"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man jeden einfach so fotografieren?",
+      "options": [
+        "Nein, man sollte immer erst fragen",
+        "Ja, immer",
+        "Nur wenn sie lustig sind",
+        "Nur heimlich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Video?",
+      "options": [
+        "Viele Bilder hintereinander, die sich bewegen",
+        "Ein Standbild",
+        "Ein Buch",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden die Bilder gespeichert?",
+      "options": [
+        "Auf einer Speicherkarte oder im Speicher",
+        "Auf dem Papier",
+        "In der Linse",
+        "Im Blitz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Objektiv?",
+      "options": [
+        "Das 'Auge' der Kamera",
+        "Der Akku",
+        "Der Knopf",
+        "Das Gehäuse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum werden Bilder manchmal unscharf?",
+      "options": [
+        "Weil die Kamera gewackelt hat",
+        "Weil es zu hell war",
+        "Weil der PC müde ist",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder am Computer schöner machen?",
+      "options": [
+        "Ja, mit Bildbearbeitung",
+        "Nein, sie bleiben immer so",
+        "Nur wenn man sie abmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Stativ?",
+      "options": [
+        "Ein Halter, damit die Kamera nicht wackelt",
+        "Ein neues Programm",
+        "Ein Teil vom Monitor",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit der Webcam telefonieren?",
+      "options": [
+        "Ja, man kann sich dabei sehen",
+        "Nein, nur Fotos machen",
+        "Nur wenn es regnet",
+        "Nur für Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Filter?",
+      "options": [
+        "Er macht das Bild bunter oder anders",
+        "Ein Kaffeefilter",
+        "Ein Schutz vor Staub",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht eine Kamera Strom?",
+      "options": [
+        "Ja, einen Akku oder Batterien",
+        "Nein, sie geht mit Licht",
+        "Sie braucht Benzin",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man einen Profi-Fotografen?",
+      "options": [
+        "Fotograf",
+        "Kameramann",
+        "Bildmeister",
+        "Lichtkünstler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein digitales Foto?",
+      "options": [
+        "Ein Foto aus Daten (Pixeln)",
+        "Ein Foto aus Papier",
+        "Ein gemaltes Bild",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Fotogalerie?",
+      "options": [
+        "Ein Ort am PC oder Handy zum Anschauen von Bildern",
+        "Ein Museum",
+        "Ein Malprogramm",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Museum immer fotografieren?",
+      "options": [
+        "Nein, oft ist es verboten",
+        "Ja, immer",
+        "Nur mit Blitz",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fotoalbum?",
+      "options": [
+        "Eine Sammlung von vielen Bildern",
+        "Ein Buch zum Lesen",
+        "Ein Musikplayer",
+        "Ein Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Fotografieren Spaß?",
+      "options": [
+        "Ja, man kann Erinnerungen festhalten!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 1"
+      "question": "Tippe ein: Kamera",
+      "answer": "Kamera"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 2"
+      "question": "Tippe ein: Foto",
+      "answer": "Foto"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 3"
+      "question": "Tippe ein: Blitz",
+      "answer": "Blitz"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 4"
+      "question": "Tippe ein: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 5"
+      "question": "Tippe ein: Linse",
+      "answer": "Linse"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 6"
+      "question": "Tippe ein: Lächeln",
+      "answer": "Lächeln"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 7"
+      "question": "Tippe ein: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 8"
+      "question": "Tippe ein: Zoom",
+      "answer": "Zoom"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 9"
+      "question": "Tippe ein: Scharf",
+      "answer": "Scharf"
     },
     {
       "type": "typing",
-      "text": "Kopieren / Einfügen ist toll 10"
+      "question": "Tippe ein: Licht",
+      "answer": "Licht"
     }
   ]
 }

@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Desen pas cu pas",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să desenezi 'pas cu pas'?",
+      "options": [
+        "Să urmezi instrucțiuni simple una după alta",
+        "Să desenezi totul deodată",
+        "Să mergi în timp ce desenezi",
+        "Să nu folosești culori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este primul pas pentru a desena o casă?",
+      "options": [
+        "Un pătrat sau dreptunghi",
+        "Acoperișul direct",
+        "Ferestrele",
+        "Perdeaua"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum desenăm un soare simplu?",
+      "options": [
+        "Un cerc și linii în jur",
+        "Un pătrat galben",
+        "O linie dreaptă",
+        "Un triunghi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă folosim ca bază pentru un cap de animal?",
+      "options": [
+        "Un cerc sau oval",
+        "Un triunghi ascuțit",
+        "O stea",
+        "Un nor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "În Paint, ce instrument ajută la forme perfecte?",
+      "options": [
+        "Shapes (Forme)",
+        "Creionul liber",
+        "Guma",
+        "Spray-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum desenăm un brad de Crăciun?",
+      "options": [
+        "Mai multe triunghiuri suprapuse",
+        "Un cerc mare",
+        "O linie lungă",
+        "Un pătrat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să începem cu forme mari?",
+      "options": [
+        "Da, apoi adăugăm detaliile mici",
+        "Nu, începem cu ochii",
+        "Nu contează",
+        "Doar dacă e greu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce adăugăm la finalul unui desen?",
+      "options": [
+        "Culorile și micile detalii",
+        "Nimic, e gata",
+        "Îl ștergem",
+        "Punem punct"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem o floare?",
+      "options": [
+        "Un cerc mic în mijloc și petale în jur",
+        "O linie strâmbă",
+        "Un pătrat roșu",
+        "Un triunghi verde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi lupa pentru detalii?",
+      "options": [
+        "Da, să vedem mai bine unde colorăm",
+        "Nu, e doar pentru citit",
+        "Doar dacă suntem bătrâni",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are un nor?",
+      "options": [
+        "Mai multe cercuri pufoase lipite",
+        "Un pătrat alb",
+        "O linie dreaptă",
+        "O stea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem o mașină simplă?",
+      "options": [
+        "Un dreptunghi cu două cercuri (roți) jos",
+        "Un triunghi",
+        "O stea",
+        "Un cerc mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem copia o parte a desenului?",
+      "options": [
+        "Da, cu Copy și Paste",
+        "Nu, trebuie să desenăm tot",
+        "Doar dacă e mică",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem un omuleț?",
+      "options": [
+        "Un cerc (cap) și linii pentru corp",
+        "Un pătrat mare",
+        "O stea",
+        "Un triunghi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este importantă răbdarea la desenat?",
+      "options": [
+        "Da, foarte importantă",
+        "Nu, trebuie să terminăm repede",
+        "Doar dacă desenăm ceva greu",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva fazele desenului?",
+      "options": [
+        "Da, salvăm de mai multe ori cu nume diferite",
+        "Nu, doar la final",
+        "Se salvează singur",
+        "Nu e nevoie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă greșim un pas?",
+      "options": [
+        "Dăm Undo sau folosim guma",
+        "Aruncăm mouse-ul",
+        "Plângem",
+        "Închidem calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena după un model de pe net?",
+      "options": [
+        "Da, ne uităm la el și încercăm",
+        "Nu, e trișat",
+        "Doar dacă e alb-negru",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem o pisică?",
+      "options": [
+        "Un cerc cu urechi triunghiulare",
+        "Un pătrat cu aripi",
+        "O stea cu coadă",
+        "Un nor cu picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Culorile trebuie să respecte realitatea?",
+      "options": [
+        "Nu, putem fi creativi (ex: soare albastru)",
+        "Da, obligatoriu",
+        "Doar la școală",
+        "Doar dacă ne place"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Schița'?",
+      "options": [
+        "Primul desen, făcut ușor",
+        "Desenul final",
+        "O tastă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi rigla în Paint?",
+      "options": [
+        "Există linii de ghidaj (Grid)",
+        "Nu, e interzis",
+        "Doar rigla reală pe monitor",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum desenăm un pește?",
+      "options": [
+        "Un oval cu un triunghi la coadă",
+        "Un pătrat cu ochi",
+        "O stea cu gură",
+        "O linie curbă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place să vezi cum prinde viață desenul?",
+      "options": [
+        "Da, e magic!",
+        "Nu",
+        "Uneori",
+        "E greu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să mai încerci un desen?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Mai târziu",
+        "Sunt obosit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cerc",
+      "answer": "cerc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: linie",
+      "answer": "linie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: forma",
+      "answer": "forma"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: casa",
+      "answer": "casa"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: soare",
+      "answer": "soare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: floare",
+      "answer": "floare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: creion",
+      "answer": "creion"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: guma",
+      "answer": "guma"
+    }
+  ]
+}

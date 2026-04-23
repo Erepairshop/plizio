@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Robots",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a robot?",
+      "options": [
+        "A machine that follows commands",
+        "A living animal",
+        "A type of food",
+        "A magic toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do robots need to work?",
+      "options": [
+        "Power and instructions",
+        "Food and water",
+        "Sleep and dreams",
+        "A big hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part is the robot's brain?",
+      "options": [
+        "Computer or chip",
+        "The wheels",
+        "The metal shell",
+        "The paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'sensors' for?",
+      "options": [
+        "To see and feel things",
+        "To make music",
+        "To eat",
+        "To sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can a robot move with?",
+      "options": [
+        "Motors and wheels",
+        "Magic",
+        "Thoughts only",
+        "A keyboard only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are all robots shaped like people?",
+      "options": [
+        "No, many shapes",
+        "Yes, always",
+        "Only in movies",
+        "Only in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can robots help in factories?",
+      "options": [
+        "Yes, doing hard work",
+        "No, they are too small",
+        "Only if they are green",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'programming' a robot?",
+      "options": [
+        "Giving it instructions",
+        "Giving it a bath",
+        "Giving it food",
+        "Giving it a name only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a robot think for itself?",
+      "options": [
+        "No, it follows code",
+        "Yes, just like us",
+        "Only if it is big",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can we find robots?",
+      "options": [
+        "Space, factories, homes",
+        "Only in the ocean",
+        "Only in forests",
+        "Nowhere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'vacuum robot'?",
+      "options": [
+        "A robot that cleans floors",
+        "A robot that makes food",
+        "A robot that flies",
+        "A broken toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can robots go to space?",
+      "options": [
+        "Yes, to explore planets",
+        "No, they get scared",
+        "Only if they are round",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'remote control'?",
+      "options": [
+        "Controlling from far away",
+        "A type of robot",
+        "A secret code",
+        "A broken screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do robots have feelings?",
+      "options": [
+        "No",
+        "Yes",
+        "Only when on",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are robot 'arms' called?",
+      "options": [
+        "Manipulators",
+        "Fingers",
+        "Sticks",
+        "Wires"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you build a simple robot?",
+      "options": [
+        "Yes, with kits",
+        "No, it's impossible",
+        "Only if you are a genius",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'AI'?",
+      "options": [
+        "Artificial Intelligence",
+        "A big eye",
+        "An apple",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What makes a robot move its arm?",
+      "options": [
+        "A motor",
+        "A string",
+        "A magnet only",
+        "Luck"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can robots talk?",
+      "options": [
+        "Yes, some can",
+        "No, never",
+        "Only if they are red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'drone'?",
+      "options": [
+        "A flying robot",
+        "A swimming robot",
+        "A robot that walks",
+        "A robot dog"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do robots eat electricity?",
+      "options": [
+        "Yes, they use it for energy",
+        "No, they eat chips",
+        "Only when hungry",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a robot be a pet?",
+      "options": [
+        "Yes, toy robot pets",
+        "No, too dangerous",
+        "Only in the future",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'robotics'?",
+      "options": [
+        "The study of robots",
+        "A type of dance",
+        "A robot game",
+        "A broken machine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can robots help doctors?",
+      "options": [
+        "Yes, in surgery",
+        "No, they are too messy",
+        "Only if they are small",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are robots cool?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Robot",
+      "answer": "Robot"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Bot",
+      "answer": "Bot"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Metal",
+      "answer": "Metal"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Code",
+      "answer": "Code"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smart",
+      "answer": "Smart"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Auto",
+      "answer": "Auto"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Arm",
+      "answer": "Arm"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wheel",
+      "answer": "Wheel"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Iron",
+      "answer": "Iron"
+    }
+  ]
+}

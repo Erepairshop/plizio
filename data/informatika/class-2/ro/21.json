@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Scriem o poveste",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce program putem folosi pentru a scrie o poveste?",
+      "options": [
+        "Word sau Notepad",
+        "Paint",
+        "Calculator",
+        "Internet Explorer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum începem o poveste?",
+      "options": [
+        "Cu un titlu frumos",
+        "Cu sfârșitul",
+        "Cu o poză cu noi",
+        "Cu un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem litera mare la începutul propoziției?",
+      "options": [
+        "Ținem Shift apăsat",
+        "Apăsăm tare pe tastă",
+        "Închidem ochii",
+        "Strigăm la ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce punem la finalul propoziției?",
+      "options": [
+        "Punct (.)",
+        "Virgulă (,)",
+        "Semnul plus (+)",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum punem spațiu între cuvinte?",
+      "options": [
+        "Tasta Space",
+        "Tasta Enter",
+        "Tasta Backspace",
+        "Tasta Shift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem adăuga imagini în poveste?",
+      "options": [
+        "Da, în programe ca Word",
+        "Nu, poveștile sunt doar text",
+        "Doar dacă le lipim pe ecran",
+        "Doar cu creionul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trecem la un rând nou?",
+      "options": [
+        "Apasăm Enter",
+        "Apasăm Space de 100 de ori",
+        "Scuturăm tastatura",
+        "Suflăm în monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea literelor?",
+      "options": [
+        "Da, din setările de font",
+        "Nu, sunt mereu negre",
+        "Doar dacă le pictăm cu pensula",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Font'?",
+      "options": [
+        "Stilul sau aspectul literelor",
+        "O fântână",
+        "O tastă",
+        "Un tip de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ștergem un cuvânt greșit?",
+      "options": [
+        "Folosim Backspace",
+        "Punem degetul pe el",
+        "Tragem de cablu",
+        "Îl lăsăm acolo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să salvăm povestea?",
+      "options": [
+        "Da, să nu o pierdem",
+        "Nu, calculatorul o ține minte oricum",
+        "Doar dacă e lungă",
+        "Doar dacă e frumoasă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem mări literele titlului?",
+      "options": [
+        "Da, schimbăm dimensiunea fontului",
+        "Nu, toate literele sunt egale",
+        "Doar dacă apropiem ochii",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'paragraf'?",
+      "options": [
+        "Un grup de propoziții despre aceeași idee",
+        "O tastă",
+        "Un desen",
+        "Un tip de sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem verifica dacă am scris corect?",
+      "options": [
+        "Da, există programe care ne arată greșelile",
+        "Nu, trebuie să știm tot",
+        "Doar profesorul poate",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește persoana care scrie povești?",
+      "options": [
+        "Scriitor (Autor)",
+        "Pictor",
+        "Gamer",
+        "Inginer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem printa povestea pe hârtie?",
+      "options": [
+        "Da, folosind o imprimantă",
+        "Nu, rămâne doar pe ecran",
+        "Doar dacă o copiem cu mâna",
+        "Doar dacă e mică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie o poveste împreună cu un prieten?",
+      "options": [
+        "Da, pe internet sau la același calculator",
+        "Nu, e interzis",
+        "Doar dacă avem două tastaturi",
+        "Doar prin vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Notepad'?",
+      "options": [
+        "Un program simplu pentru scris text",
+        "Un caiet real",
+        "O tastă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi emoticoane în poveste?",
+      "options": [
+        "Da, dacă programul permite",
+        "Nu, sunt doar pentru telefon",
+        "Doar dacă le desenăm",
+        "Doar roșii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum numărăm cuvintele dintr-o poveste?",
+      "options": [
+        "Calculatorul le poate număra automat",
+        "Le numărăm cu degetul pe ecran",
+        "Nu se poate",
+        "Ghicim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu avem idei?",
+      "options": [
+        "Ne uităm la o poză sau cerem un sfat",
+        "Închidem calculatorul și plângem",
+        "Așteptăm un an",
+        "Scriem cifre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite povestea bunicii prin email?",
+      "options": [
+        "Da",
+        "Nu, bunicii nu citesc pe net",
+        "Doar prin porumbei",
+        "Doar dacă o printăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scrisul pe calculator e mai rapid decât cel de mână?",
+      "options": [
+        "După ce exersăm, da",
+        "Nu, niciodată",
+        "E la fel",
+        "Depinde de vreme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place să inventezi personaje?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Uneori",
+        "E greu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Despre ce va fi prima ta poveste?",
+      "options": [
+        "Despre un robot",
+        "Despre o pisică",
+        "Despre spațiu",
+        "Toate deodată!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poveste",
+      "answer": "poveste"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scriu",
+      "answer": "scriu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: titlu",
+      "answer": "titlu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: autor",
+      "answer": "autor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: text",
+      "answer": "text"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: litera",
+      "answer": "litera"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: punct",
+      "answer": "punct"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mare",
+      "answer": "mare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: carte",
+      "answer": "carte"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: amuzant",
+      "answer": "amuzant"
+    }
+  ]
+}

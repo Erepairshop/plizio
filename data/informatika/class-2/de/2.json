@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Schreibtisch",
+  "theme": "Maus und Tastatur",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 1)",
+      "question": "Wie viele Tasten hat eine normale Maus?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 2)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 3)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Zwei Tasten und ein Rad",
+        "Zehn Tasten",
+        "Keine",
+        "Einhundert"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 4)",
+      "question": "Welchen Finger nutzt man für die linke Taste?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 5)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 6)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Zeigefinger",
+        "Daumen",
+        "Kleiner Finger",
+        "Mittelfinger"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 7)",
+      "question": "Was passiert bei einem Linksklick?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 8)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 9)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Man wählt etwas aus",
+        "Man löscht alles",
+        "Der Computer geht aus",
+        "Man tippt einen Buchstaben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 10)",
+      "question": "Wofür ist der Rechtsklick gut?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 11)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 12)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Er öffnet ein Menü",
+        "Er löscht Dateien",
+        "Er schaltet den Ton aus",
+        "Er ist nur Deko"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 13)",
+      "question": "Was macht das Rad an der Maus?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 14)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 15)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Scrollen (hoch und runter)",
+        "Die Lautstärke ändern",
+        "Malen",
+        "Löschen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 16)",
+      "question": "Wie nennt man das Bewegen mit gedrückter Taste?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 17)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 18)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Drag and Drop (Ziehen und Ablegen)",
+        "Hüpfen",
+        "Laufen",
+        "Klicken"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 19)",
+      "question": "Wo legt man die Maus am besten ab?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 20)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 21)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Auf ein Mauspad",
+        "Auf die Tastatur",
+        "Auf den Boden",
+        "In den Schrank"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 22)",
+      "question": "Was ist die Leertaste (Space)?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 23)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 24)",
-      "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Die längste Taste für Lücken",
+        "Die Taste zum Löschen",
+        "Die Taste zum Starten",
+        "Ein kleiner Knopf"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Schreibtisch? (Frage 25)",
+      "question": "Wofür ist die Enter-Taste?",
       "options": [
-        "Option A für Schreibtisch",
-        "Option B für Schreibtisch",
-        "Option C für Schreibtisch"
+        "Um einen Befehl zu bestätigen",
+        "Um Musik zu hören",
+        "Um den PC zu sperren",
+        "Zum Schlafen"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man große Buchstaben?",
+      "options": [
+        "Shift-Taste + Buchstabe",
+        "Enter-Taste",
+        "Leertaste",
+        "Rechtsklick"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Taste löscht nach links?",
+      "options": [
+        "Backspace (Rücktaste)",
+        "Enter",
+        "Space",
+        "Shift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Caps Lock Taste?",
+      "options": [
+        "Schreibt alles groß",
+        "Schaltet den PC aus",
+        "Macht den Ton laut",
+        "Löscht Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Hände nutzt man beim Tippen?",
+      "options": [
+        "Beide Hände",
+        "Nur die rechte Hand",
+        "Nur die linke Hand",
+        "Die Füße"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo sind die Buchstaben auf der Tastatur?",
+      "options": [
+        "In der Mitte",
+        "Nur oben",
+        "Auf der Maus",
+        "Am Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die Pfeiltasten?",
+      "options": [
+        "Tasten zum Bewegen",
+        "Tasten zum Malen",
+        "Tasten zum Rechnen",
+        "Deko"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Esc-Taste?",
+      "options": [
+        "Abbrechen oder Schließen",
+        "Speichern",
+        "Drucken",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Schreiben auf dem Computer?",
+      "options": [
+        "Tippen",
+        "Hämmern",
+        "Klopfen",
+        "Rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Touchpad?",
+      "options": [
+        "Eine Fläche zum Steuern am Laptop",
+        "Ein echtes Kissen",
+        "Ein Bildschirm",
+        "Ein Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Maus ohne Kabel haben?",
+      "options": [
+        "Ja, mit Funk oder Bluetooth",
+        "Nein, das geht nicht",
+        "Nur am Handy",
+        "Nur im Weltraum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Cursor?",
+      "options": [
+        "Der kleine Pfeil auf dem Bildschirm",
+        "Ein Rad",
+        "Eine Taste",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist die Entf-Taste?",
+      "options": [
+        "Zum Löschen von Dingen",
+        "Zum Speichern",
+        "Zum Suchen",
+        "Zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie hält man die Maus richtig?",
+      "options": [
+        "Locker mit der ganzen Hand",
+        "Nur mit zwei Fingern",
+        "Mit beiden Händen",
+        "Mit der Faust"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man die Maus anhebt?",
+      "options": [
+        "Der Pfeil bewegt sich nicht",
+        "Der Computer fliegt",
+        "Alles wird gelöscht",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Buchstaben hat das Alphabet auf der Tastatur?",
+      "options": [
+        "26 (A bis Z)",
+        "10",
+        "100",
+        "Keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum gibt es so viele Tasten?",
+      "options": [
+        "Um viele verschiedene Dinge zu tun",
+        "Damit es schön aussieht",
+        "Weil sie billig sind",
+        "Zufall"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 1"
+      "question": "Tippe ein: Maus",
+      "answer": "Maus"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 2"
+      "question": "Tippe ein: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 3"
+      "question": "Tippe ein: Tastatur",
+      "answer": "Tastatur"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 4"
+      "question": "Tippe ein: Enter",
+      "answer": "Enter"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 5"
+      "question": "Tippe ein: Shift",
+      "answer": "Shift"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 6"
+      "question": "Tippe ein: Leertaste",
+      "answer": "Leertaste"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 7"
+      "question": "Tippe ein: Scrollen",
+      "answer": "Scrollen"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 8"
+      "question": "Tippe ein: Finger",
+      "answer": "Finger"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 9"
+      "question": "Tippe ein: Rechts",
+      "answer": "Rechts"
     },
     {
       "type": "typing",
-      "text": "Schreibtisch ist toll 10"
+      "question": "Tippe ein: Links",
+      "answer": "Links"
     }
   ]
 }

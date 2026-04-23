@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Mérnöki gondolkodás",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a mérnöki gondolkodás?",
+      "options": [
+        "Problémák megoldása tervezéssel",
+        "Csak építkezés",
+        "Sok rajzolás",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az első lépés?",
+      "options": [
+        "A probléma meghatározása",
+        "Azonnali építés",
+        "Futás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a tervezés?",
+      "options": [
+        "Ötletek és rajzok készítése",
+        "Gépelés",
+        "Játék",
+        "Várni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a prototípus?",
+      "options": [
+        "Az első, kísérleti modell",
+        "Egy fajta robot",
+        "Egy kész termék",
+        "A gép neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a tesztelés?",
+      "options": [
+        "Hogy megtaláljuk a hibákat",
+        "Mert szórakoztató",
+        "Mert kötelező",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit teszünk, ha nem működik?",
+      "options": [
+        "Javítjuk és újratervezzük",
+        "Kidobjuk",
+        "Sírunk",
+        "Ne csinálunk semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fejlesztés?",
+      "options": [
+        "A megoldás jobbá tétele",
+        "Valami új vétele",
+        "A monitor tisztítása",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a csapatmunka?",
+      "options": [
+        "Több szem többet lát",
+        "Több a zaj",
+        "Lassabb a munka",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a korlátok?",
+      "options": [
+        "Amik meghatározzák mit lehet (idő, pénz stb.)",
+        "Falak",
+        "Kerítések",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kreativitás?",
+      "options": [
+        "Új és ötletes megoldások",
+        "Sok rajzolás",
+        "Gépelés",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Példa mérnöki feladatra?",
+      "options": [
+        "Híd építés vagy szoftver írás",
+        "Evés",
+        "Alvás",
+        "Séta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a technológia?",
+      "options": [
+        "Eszközök amik segítenek nekünk",
+        "Csak a számítógép",
+        "Egy tantárgy",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy mérnök?",
+      "options": [
+        "Dolgokat alkot és javít",
+        "Csak néz",
+        "Alszik",
+        "Főzik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a biztonság a tervezésben?",
+      "options": [
+        "Hogy ne legyen baj használat közben",
+        "Egy doboz",
+        "Egy lakat",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az újrahasznosítás?",
+      "options": [
+        "Régi dolgok újrafelhasználása",
+        "Szemét",
+        "Takarítás",
+        "Víz ivás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a dokumentáció?",
+      "options": [
+        "A munka leírása és rajzai",
+        "Egy könyv",
+        "A monitor sarka",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hatékonyság?",
+      "options": [
+        "Minél kevesebb erőforrás használata",
+        "Nagyon gyors gép",
+        "Sok pénz",
+        "Üres táska"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan választunk alapanyagot?",
+      "options": [
+        "A feladatnak megfelelően",
+        "Amelyik szép",
+        "Amelyik olcsó",
+        "Amelyik ott van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kísérletezés?",
+      "options": [
+        "Próbálgatás és tanulás",
+        "Játék",
+        "Rosszalkodás",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a precizitás?",
+      "options": [
+        "Pontosság",
+        "Gyorsaság",
+        "Szépség",
+        "Erő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a vázlat?",
+      "options": [
+        "Gyors ötleteléshez",
+        "Hogy koszos legyen a lap",
+        "Semmire",
+        "Ebédhez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az innováció?",
+      "options": [
+        "Újítás",
+        "Valami régi",
+        "Valami rossz",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a hibák javítását?",
+      "options": [
+        "Optimalizálás",
+        "Törlés",
+        "Másolás",
+        "Várás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a mérnöki gondolkodás?",
+      "options": [
+        "Segít okosan megoldani bármit",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki lehet mérnök?",
+      "options": [
+        "Bárki, aki szeret alkotni és gondolkodni",
+        "Csak aki okos",
+        "Csak a felnőttek",
+        "Senki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tervezés",
+      "answer": "tervezés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: építés",
+      "answer": "építés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tesztelés",
+      "answer": "tesztelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: javítás",
+      "answer": "javítás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ötlet",
+      "answer": "ötlet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: modell",
+      "answer": "modell"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: szerkezet",
+      "answer": "szerkezet"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: működés",
+      "answer": "működés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: hatékonyság",
+      "answer": "hatékonyság"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: alkotás",
+      "answer": "alkotás"
+    }
+  ]
+}

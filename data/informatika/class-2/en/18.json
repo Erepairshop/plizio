@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "The Camera",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does a camera do?",
+      "options": [
+        "Takes photos and videos",
+        "Makes food",
+        "Plays games",
+        "Cleans the room"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'selfie'?",
+      "options": [
+        "A photo of yourself",
+        "A photo of a shelf",
+        "A type of fish",
+        "A broken camera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'lens'?",
+      "options": [
+        "The eye of the camera",
+        "The battery",
+        "The screen",
+        "The flash"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'flash' do?",
+      "options": [
+        "Adds light to a photo",
+        "Makes the camera fast",
+        "Makes a loud sound",
+        "Turns it off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'zoom'?",
+      "options": [
+        "Making things look closer",
+        "Making things go fast",
+        "Making things loud",
+        "Saving work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer have a camera?",
+      "options": [
+        "Yes, a webcam",
+        "No, never",
+        "Only if it's big",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you say when taking a photo?",
+      "options": [
+        "Cheese!",
+        "Wait!",
+        "No!",
+        "Go!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record a video?",
+      "options": [
+        "Yes, moving pictures",
+        "No, only one photo",
+        "Only if it is short",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'gallery' on a tablet?",
+      "options": [
+        "Where photos are stored",
+        "A type of game",
+        "A place for food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask before taking a photo of someone?",
+      "options": [
+        "Yes, always ask",
+        "No, just do it",
+        "Only if they are old",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'shutter'?",
+      "options": [
+        "The part that clicks to take photo",
+        "A type of window",
+        "A camera stand",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you edit photos on a computer?",
+      "options": [
+        "Yes, change colors/size",
+        "No, never",
+        "Only if they are bad",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'focus'?",
+      "options": [
+        "Making the picture clear",
+        "Being very quiet",
+        "Looking at the sun",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'digital camera'?",
+      "options": [
+        "One that saves to a chip",
+        "One that uses film",
+        "A toy camera",
+        "A broken one"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you take a photo of a drawing?",
+      "options": [
+        "Yes, it's called digitizing",
+        "No, only real things",
+        "Only if it's colorful",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'portrait' mode?",
+      "options": [
+        "For photos of people",
+        "For photos of mountains",
+        "A type of food",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'landscape' mode?",
+      "options": [
+        "For wide photos like views",
+        "For photos of ants",
+        "For eating",
+        "For sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you move while taking a photo?",
+      "options": [
+        "It gets blurry",
+        "It disappears",
+        "It turns green",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a camera for a video call?",
+      "options": [
+        "Yes, like on Skype/Zoom",
+        "No, only for photos",
+        "Only if you are 10",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'storage full' mean?",
+      "options": [
+        "No more room for photos",
+        "The camera is heavy",
+        "The camera is hot",
+        "The camera is happy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'tripod'?",
+      "options": [
+        "A stand for the camera",
+        "A type of fish",
+        "A three-legged robot",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you delete a bad photo?",
+      "options": [
+        "Yes, easily",
+        "No, once taken it stays",
+        "Only with a teacher",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you put your finger over the lens?",
+      "options": [
+        "No, it blocks the view",
+        "Yes, to keep it warm",
+        "Only if it is dirty",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'filter' in photos?",
+      "options": [
+        "Changes the look/color",
+        "Cleans the water",
+        "A type of food",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are cameras fun to use?",
+      "options": [
+        "Yes!",
+        "No",
+        "Maybe",
+        "I don't know"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Photo",
+      "answer": "Photo"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smile",
+      "answer": "Smile"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Lens",
+      "answer": "Lens"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Flash",
+      "answer": "Flash"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Snap",
+      "answer": "Snap"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pic",
+      "answer": "Pic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Look",
+      "answer": "Look"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: See",
+      "answer": "See"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Click",
+      "answer": "Click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Take",
+      "answer": "Take"
+    }
+  ]
+}

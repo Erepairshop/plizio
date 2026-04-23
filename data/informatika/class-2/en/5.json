@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Folders",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a folder used for?",
+      "options": [
+        "To organize files",
+        "To play games",
+        "To hear music",
+        "To cook food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are most folders on a computer?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a folder inside another folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only once",
+        "Only if they are empty"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you give a folder a name?",
+      "options": [
+        "Yes",
+        "No",
+        "Only numbers",
+        "Only letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is inside a folder?",
+      "options": [
+        "Files and other folders",
+        "Toys",
+        "Food",
+        "Water"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you open a folder?",
+      "options": [
+        "Double-click it",
+        "Shout at it",
+        "Turn off the screen",
+        "Move the mouse away"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we name folders?",
+      "options": [
+        "To find them easily",
+        "To make them pretty",
+        "To hide them",
+        "To make computer faster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you delete a folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is blue",
+        "Only with a teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you create a new folder?",
+      "options": [
+        "On the desktop or in folders",
+        "Only on the floor",
+        "Inside the mouse",
+        "In the trash only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to files inside when you delete a folder?",
+      "options": [
+        "They are deleted too",
+        "They move to the screen",
+        "They turn into music",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a folder be empty?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for a minute",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change a folder's name later?",
+      "options": [
+        "Yes, it's called renaming",
+        "No, never",
+        "Only if you ask nicely",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'subfolder'?",
+      "options": [
+        "A folder inside another",
+        "A tiny folder",
+        "A folder for sandwiches",
+        "A broken folder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have two folders with the same name in one place?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if they are empty",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Documents' folder usually hold?",
+      "options": [
+        "Writing and files",
+        "Games only",
+        "Music only",
+        "Pictures only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a folder like a physical drawer?",
+      "options": [
+        "Yes, for digital stuff",
+        "No, it's a bird",
+        "No, it's a car",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you drag a file into a folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with a keyboard",
+        "Only with a pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What icon represents a folder?",
+      "options": [
+        "A yellow file holder",
+        "A blue bird",
+        "A red circle",
+        "A white star"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put pictures in a folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only drawings",
+        "Only if small"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put music in a folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's loud",
+        "Only if short"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best name for a folder with homework?",
+      "options": [
+        "Homework",
+        "Stuff",
+        "Untitled",
+        "AABBCC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can folders help you stay organized?",
+      "options": [
+        "Yes, definitely",
+        "No",
+        "Sometimes",
+        "Only for adults"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you 'rename' a folder?",
+      "options": [
+        "Right-click and choose Rename",
+        "Type on it",
+        "Delete and start over",
+        "Move it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'root' folder?",
+      "options": [
+        "The very first folder",
+        "A folder for plants",
+        "A folder with a tail",
+        "A broken folder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do folders use a lot of space?",
+      "options": [
+        "No, they are just containers",
+        "Yes, a lot",
+        "Only if they are yellow",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Folder",
+      "answer": "Folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: File",
+      "answer": "File"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Name",
+      "answer": "Name"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Save",
+      "answer": "Save"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Keep",
+      "answer": "Keep"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: New",
+      "answer": "New"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Box",
+      "answer": "Box"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Place",
+      "answer": "Place"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Work",
+      "answer": "Work"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sort",
+      "answer": "Sort"
+    }
+  ]
+}

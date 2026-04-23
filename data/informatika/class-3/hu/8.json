@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Kedvencek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mik a kedvencek a böngészőben?",
+      "options": [
+        "Elmentett fontos oldalak",
+        "Kedvenc ételeim",
+        "A legjobb barátaim",
+        "Színes képek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon jelöli a kedvenceket?",
+      "options": [
+        "Csillag",
+        "Kör",
+        "Négyzet",
+        "Háromszög"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan adsz hozzá egy oldalt?",
+      "options": [
+        "A csillagra kattintva",
+        "Megütöd a gépet",
+        "Kihúzod a kábelt",
+        "Vársz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol látszanak a kedvencek?",
+      "options": [
+        "A könyvjelző sávon",
+        "A monitor hátulján",
+        "A billentyűzeten",
+        "Az egér alatt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó a könyvjelző?",
+      "options": [
+        "Nem kell újra begépelni a címet",
+        "Mert szép",
+        "Mert ettől több lesz a pénzünk",
+        "Mert világít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e mappákba rendezni őket?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak papíron",
+        "Csak ha a tanár mondja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törölsz egy kedvencet?",
+      "options": [
+        "Jobb klikk és törlés",
+        "Kidobod a gépet",
+        "Letörlöd a monitort",
+        "Áthúzod a székre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Könyvjelző sáv'?",
+      "options": [
+        "A böngésző felső sávja",
+        "Egy polc a szobában",
+        "Egy csík a földön",
+        "A gép kábele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e szinkronizálni a kedvenceket?",
+      "options": [
+        "Igen, több eszköz között",
+        "Nem",
+        "Csak postán",
+        "Csak telefonon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nevezheted át a kedvencet?",
+      "options": [
+        "Szerkesztés gombbal",
+        "Kiabálsz neki új nevet",
+        "Átragasztod",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal mentünk gyorsan?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+C"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha rákattintasz egyre?",
+      "options": [
+        "Azonnal megnyílik az oldal",
+        "Kikapcsol a gép",
+        "Törlődik az oldal",
+        "Változik a színe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány kedvencünk lehet?",
+      "options": [
+        "Nagyon sok",
+        "Csak öt",
+        "Csak tíz",
+        "Csak egy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Bookmark manager'?",
+      "options": [
+        "Könyvjelző kezelő",
+        "Egy könyvtáros",
+        "Egy játék",
+        "A monitor gombja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e másnak elküldeni a kedvenceket?",
+      "options": [
+        "Igen, exportálással",
+        "Nem",
+        "Csak dobozban",
+        "Csak álomban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó mappákat használni?",
+      "options": [
+        "Hogy rendszerezzük az oldalakat",
+        "Hogy elrejtsük őket",
+        "Hogy töröljük őket",
+        "Hogy nehezebb legyen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Reading list'?",
+      "options": [
+        "Olvasólista későbbre",
+        "Egy könyv",
+        "A bevásárlólista",
+        "A házi feladat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e ikonokat hagyni név nélkül?",
+      "options": [
+        "Igen, így több fér el",
+        "Nem",
+        "Csak ha fekete",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik böngészőben vannak kedvencek?",
+      "options": [
+        "Mindegyikben",
+        "Csak a Chrome-ban",
+        "Csak a Paintben",
+        "Sehol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozgathatod őket?",
+      "options": [
+        "Húzással (Drag and drop)",
+        "Sehogy",
+        "Parancsokkal",
+        "Kéréssel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a kedvenc?",
+      "options": [
+        "Gyorsabb eléréshez",
+        "Hallgatásra",
+        "Rajzolásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a csillag ikon jelentése?",
+      "options": [
+        "Oldal mentése kedvencnek",
+        "Sötét van",
+        "Kikapcsolás",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják angolul?",
+      "options": [
+        "Favorites vagy Bookmarks",
+        "Stars",
+        "Likers",
+        "Winners"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e jelszóval védeni a kedvenceket?",
+      "options": [
+        "Általában nem közvetlenül",
+        "Igen, mindig",
+        "Csak ha piros",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a kedvencek menü?",
+      "options": [
+        "Fontos oldalak gyűjtésére",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: mentés",
+      "answer": "mentés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: könyvjelző",
+      "answer": "könyvjelző"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: csillag",
+      "answer": "csillag"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: gyorselérés",
+      "answer": "gyorselérés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: lista",
+      "answer": "lista"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kedvenc",
+      "answer": "kedvenc"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: oldal",
+      "answer": "oldal"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: tárolás",
+      "answer": "tárolás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: kezelés",
+      "answer": "kezelés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ikon",
+      "answer": "ikon"
+    }
+  ]
+}

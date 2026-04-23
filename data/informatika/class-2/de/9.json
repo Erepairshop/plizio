@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Backspace / Delete",
+  "theme": "Ein- und Ausschalten",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 1)",
+      "question": "Wie schaltet man einen Computer ein?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 2)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 3)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Mit dem Power-Knopf am Gehäuse",
+        "Durch Klatschen",
+        "Durch Schütteln",
+        "Er geht von allein an"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 4)",
+      "question": "Darf man einfach den Stecker ziehen zum Ausschalten?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 5)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 6)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Nein, der Computer kann Daten verlieren",
+        "Ja, das geht am schnellsten",
+        "Nur wenn es regnet",
+        "Nur am Wochenende"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 7)",
+      "question": "Wie schaltet man Windows richtig aus?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 8)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 9)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Start -> Ein/Aus -> Herunterfahren",
+        "Monitor ausschalten",
+        "Maus wegwerfen",
+        "Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 10)",
+      "question": "Was passiert beim 'Herunterfahren'?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 11)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 12)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Der Computer räumt auf und geht dann aus",
+        "Er fällt vom Tisch",
+        "Er wird ganz klein",
+        "Er fängt an zu singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 13)",
+      "question": "Was bedeutet 'Neu starten'?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 14)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 15)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Der PC geht aus und sofort wieder an",
+        "Man kauft einen neuen PC",
+        "Man beginnt ein Spiel von vorn",
+        "Man löscht alles"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 16)",
+      "question": "Was ist der 'Energiesparmodus' oder 'Standby'?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 17)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 18)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Der PC schläft ein bisschen, ist aber schnell wieder da",
+        "Der PC macht Sport",
+        "Der PC braucht gar keinen Strom mehr",
+        "Der PC wird blau"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 19)",
+      "question": "Woran erkennt man, dass der PC an ist?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 20)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 21)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Lichter leuchten und man hört oft den Lüfter",
+        "Er wackelt",
+        "Er wird warm",
+        "Er spricht zu uns"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 22)",
+      "question": "Warum dauert das Starten manchmal lange?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 23)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 24)",
-      "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Er muss viele Programme vorbereiten",
+        "Er ist müde",
+        "Er hat keine Lust",
+        "Er ist zu schwer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Backspace / Delete? (Frage 25)",
+      "question": "Muss man den Monitor extra einschalten?",
       "options": [
-        "Option A für Backspace / Delete",
-        "Option B für Backspace / Delete",
-        "Option C für Backspace / Delete"
+        "Manchmal ja, er hat oft einen eigenen Knopf",
+        "Nein, nie",
+        "Nur wenn er neu ist",
+        "Nur nachts"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Akku bei einem Laptop?",
+      "options": [
+        "Ein Speicher für Strom, damit er ohne Kabel geht",
+        "Ein Speicher für Spiele",
+        "Ein Teil vom Monitor",
+        "Ein Ersatzrad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn der Computer 'eingefroren' ist?",
+      "options": [
+        "Lange auf den Aus-Knopf drücken (Notfall)",
+        "In die Mikrowelle stellen",
+        "Mit einer Decke wärmen",
+        "Sich ärgern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wann sollte man den Computer ausschalten?",
+      "options": [
+        "Wenn man fertig ist und länger nicht mehr arbeitet",
+        "Niemals",
+        "Jede Stunde",
+        "Nur im Urlaub"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn der Strom ausfällt?",
+      "options": [
+        "Der Computer geht sofort aus (außer Laptops)",
+        "Er arbeitet mit Luft weiter",
+        "Er speichert alles von allein",
+        "Er leuchtet im Dunkeln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man beim Gewitter den PC ausstecken?",
+      "options": [
+        "Wegen der Gefahr von Blitzeinschlägen",
+        "Weil er Angst vor Donner hat",
+        "Damit er nicht nass wird",
+        "Nur zum Spaß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man einen Computer mit der Stimme einschalten?",
+      "options": [
+        "Manche modernen Geräte können das",
+        "Nein, nie",
+        "Nur wenn man schreit",
+        "Nur auf Englisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist der Einschaltknopf meistens?",
+      "options": [
+        "Vorne am Gehäuse oder oben",
+        "Unter dem PC",
+        "Hinten am Kabel",
+        "An der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Betriebssystem?",
+      "options": [
+        "Das Hauptprogramm, wie Windows oder macOS",
+        "Die Tastatur",
+        "Der Strom",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man den PC beim Herunterfahren stören?",
+      "options": [
+        "Nein, man sollte warten, bis er ganz aus ist",
+        "Ja, man kann ruhig Knöpfe drücken",
+        "Man sollte ihn schütteln",
+        "Man sollte den Stecker ziehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Reset'-Knopf?",
+      "options": [
+        "Ein Knopf zum sofortigen Neustart (bei Problemen)",
+        "Ein Knopf zum Malen",
+        "Ein Knopf für Musik",
+        "Gibt es nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum wird der PC warm beim Arbeiten?",
+      "options": [
+        "Die Teile darin verbrauchen Strom und erzeugen Hitze",
+        "Weil die Sonne drauf scheint",
+        "Weil er Fieber hat",
+        "Zufall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Lüfter im PC?",
+      "options": [
+        "Er kühlt die Teile ab",
+        "Er macht Wind zum Spielen",
+        "Er staubsaugt",
+        "Er singt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man den PC automatisch ausschalten lassen?",
+      "options": [
+        "Ja, in den Einstellungen",
+        "Nein, das geht nicht",
+        "Nur mit einer Zeitschaltuhr",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Sperrbildschirm?",
+      "options": [
+        "Dort gibt man oft sein Passwort ein",
+        "Ein kaputter Schirm",
+        "Ein Bildschirmschoner",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Abmelden'?",
+      "options": [
+        "Man verlässt seinen Benutzer, aber der PC bleibt an",
+        "Man geht aus der Schule",
+        "Man löscht seinen Namen",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist es gut für den PC, immer an zu sein?",
+      "options": [
+        "Nein, ab und zu braucht er eine Pause",
+        "Ja, das ist super",
+        "Er wird dann schneller",
+        "Er schläft nie"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 1"
+      "question": "Tippe ein: Starten",
+      "answer": "Starten"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 2"
+      "question": "Tippe ein: Ausschalten",
+      "answer": "Ausschalten"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 3"
+      "question": "Tippe ein: Strom",
+      "answer": "Strom"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 4"
+      "question": "Tippe ein: Knopf",
+      "answer": "Knopf"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 5"
+      "question": "Tippe ein: Akku",
+      "answer": "Akku"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 6"
+      "question": "Tippe ein: Pause",
+      "answer": "Pause"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 7"
+      "question": "Tippe ein: Warten",
+      "answer": "Warten"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 8"
+      "question": "Tippe ein: Fertig",
+      "answer": "Fertig"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 9"
+      "question": "Tippe ein: Licht",
+      "answer": "Licht"
     },
     {
       "type": "typing",
-      "text": "Backspace / Delete ist toll 10"
+      "question": "Tippe ein: Lüfter",
+      "answer": "Lüfter"
     }
   ]
 }

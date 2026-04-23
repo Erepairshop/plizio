@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Ce este calculatorul?",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator?",
+      "options": [
+        "O mașină care procesează informații",
+        "O cutie cu jucării",
+        "Un televizor vechi",
+        "O carte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este 'creierul' calculatorului?",
+      "options": [
+        "Unitatea centrală",
+        "Monitorul",
+        "Mouse-ul",
+        "Tastatura"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul ne ajută să...",
+      "options": [
+        "Învățăm și ne jucăm",
+        "Mâncăm supa",
+        "Facem curat în cameră",
+        "Dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce tip de dispozitiv este un laptop?",
+      "options": [
+        "Un calculator portabil",
+        "Un telefon fix",
+        "O tabletă uriașă",
+        "O consolă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatoarele funcționează cu...",
+      "options": [
+        "Energie electrică",
+        "Apă",
+        "Suc de mere",
+        "Vânt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim calculatoare?",
+      "options": [
+        "În școli, birouri, magazine",
+        "Doar în pădure",
+        "Doar sub apă",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce putem face pe calculator?",
+      "options": [
+        "Să desenăm",
+        "Să spălăm vase",
+        "Să gătim",
+        "Să udăm florile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un calculator este...",
+      "options": [
+        "O unealtă utilă",
+        "O ființă vie",
+        "Un animal de companie",
+        "O plantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care parte ne arată imaginile?",
+      "options": [
+        "Monitorul",
+        "Mouse-ul",
+        "Cablul",
+        "Priza"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem comunica prin calculator?",
+      "options": [
+        "Da, prin mesaje",
+        "Nu, niciodată",
+        "Doar prin semne",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un desktop?",
+      "options": [
+        "Un calculator de birou",
+        "Un tip de masă",
+        "Un ecran mic",
+        "Un mouse fără fir"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul uită lucrurile dacă îl oprim?",
+      "options": [
+        "Nu, le salvează în memorie",
+        "Da, uită tot",
+        "Doar dacă e vechi",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este hardware-ul?",
+      "options": [
+        "Părțile fizice ale calculatorului",
+        "Părțile moi",
+        "Jocurile",
+        "Internetul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un calculator poate gândi singur?",
+      "options": [
+        "Nu, face ce îi spunem noi",
+        "Da, are idei proprii",
+        "Doar când doarme",
+        "Când e pornit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un smartphone?",
+      "options": [
+        "Un calculator mic de buzunar",
+        "O oglindă",
+        "Un ceas de perete",
+        "O jucărie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta este un calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o carte",
+        "Este un caiet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme pe calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă suntem la cinema",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află butoanele de control?",
+      "options": [
+        "Pe carcasă sau tastatură",
+        "În interiorul mouse-ului",
+        "Sub masă",
+        "Pe tavan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă PC?",
+      "options": [
+        "Personal Computer",
+        "Pisică Caldă",
+        "Pâine Cu unt",
+        "Poveste Clasică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine a inventat primul calculator?",
+      "options": [
+        "Oamenii de știință",
+        "Un robot",
+        "O zână",
+        "Un magician"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatoarele sunt de mai multe feluri?",
+      "options": [
+        "Da, de diverse mărimi și puteri",
+        "Nu, toate sunt la fel",
+        "Sunt doar două în lume",
+        "Sunt doar albastre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Poate un calculator să ne ajute la teme?",
+      "options": [
+        "Da, pentru cercetare",
+        "Nu, e interzis",
+        "Doar dacă doarme",
+        "Doar la sport"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul are nevoie de odihnă?",
+      "options": [
+        "E bine să îl oprim când nu îl folosim",
+        "Nu, merge 100 de ani",
+        "Se hrănește singur",
+        "Nu are nevoie de nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o consolă de jocuri?",
+      "options": [
+        "Un calculator special pentru jocuri",
+        "Un tip de fotoliu",
+        "O masă",
+        "Un dulap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești pregătit să înveți despre ele?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: unu",
+      "answer": "unu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: doi",
+      "answer": "doi"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: trei",
+      "answer": "trei"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: patru",
+      "answer": "patru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cinci",
+      "answer": "cinci"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: șase",
+      "answer": "șase"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: șapte",
+      "answer": "șapte"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: opt",
+      "answer": "opt"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nouă",
+      "answer": "nouă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: zece",
+      "answer": "zece"
+    }
+  ]
+}

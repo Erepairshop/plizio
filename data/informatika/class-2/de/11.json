@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Text speichern",
+  "theme": "Sicherheit im Internet",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 1)",
+      "question": "Was ist ein Passwort?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 2)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 3)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Ein geheimes Wort zum Schutz",
+        "Ein Name für einen Hund",
+        "Ein Wort zum Hallo-Sagen",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 4)",
+      "question": "Sollte man sein Passwort verraten?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 5)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 6)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Nein, niemals (außer den Eltern)",
+        "Ja, allen Freunden",
+        "Nur dem Lehrer",
+        "Nur wenn jemand fragt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 7)",
+      "question": "Was ist ein 'gutes' Passwort?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 8)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 9)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Lange Wörter mit Zahlen und Zeichen",
+        "12345",
+        "Mein Name",
+        "Passwort"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 10)",
+      "question": "Darf man seinen echten Namen Fremden im Internet sagen?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 11)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 12)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Nein, lieber vorsichtig sein",
+        "Ja, natürlich",
+        "Nur wenn sie nett fragen",
+        "Nur in Spielen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 13)",
+      "question": "Was ist ein Computervirus?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 14)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 15)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Ein schädliches Programm",
+        "Eine echte Krankheit",
+        "Ein kleiner Käfer im Gehäuse",
+        "Ein Malprogramm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 16)",
+      "question": "Was macht ein Virenscanner?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 17)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 18)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Er sucht und löscht böse Programme",
+        "Er putzt den Monitor",
+        "Er macht den PC schneller",
+        "Er spielt Musik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 19)",
+      "question": "Sollte man auf jede Werbung klicken?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 20)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 21)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Nein, das kann gefährlich sein",
+        "Ja, man kann was gewinnen",
+        "Nur wenn sie bunt ist",
+        "Nur am Handy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 22)",
+      "question": "Was tust du, wenn dir etwas im Internet Angst macht?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 23)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 24)",
-      "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Sofort den Eltern oder Lehrern sagen",
+        "Nichts tun",
+        "Sich unter dem Tisch verstecken",
+        "Den PC kaputt machen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Text speichern? (Frage 25)",
+      "question": "Darf man Fotos von anderen ohne Erlaubnis hochladen?",
       "options": [
-        "Option A für Text speichern",
-        "Option B für Text speichern",
-        "Option C für Text speichern"
+        "Nein, das ist verboten",
+        "Ja, wenn sie lustig sind",
+        "Nur bei Freunden",
+        "Nur auf Facebook"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Cybermobbing?",
+      "options": [
+        "Wenn jemand im Internet geärgert oder beleidigt wird",
+        "Ein Spiel mit Robotern",
+        "Ein neues Handy",
+        "Ein Sport"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man sich mit Fremden aus dem Internet treffen?",
+      "options": [
+        "Nein, auf keinen Fall!",
+        "Ja, im Park",
+        "Nur wenn man ein Geschenk bekommt",
+        "Nur mit dem Fahrrad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Spam'-E-Mail?",
+      "options": [
+        "Eine unerwünschte Werbe-Mail (Müll)",
+        "Eine wichtige Nachricht",
+        "Ein Brief von Oma",
+        "Ein lustiges Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Privatsphäre'?",
+      "options": [
+        "Dass persönliche Dinge geheim bleiben",
+        "Ein großer Garten",
+        "Ein Zimmer für den PC",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woran erkennt man eine sichere Webseite oft?",
+      "options": [
+        "An einem kleinen Schloss-Symbol",
+        "An der Farbe Rot",
+        "Daran, dass sie laut ist",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Passwörter auf den Monitor kleben?",
+      "options": [
+        "Nein, dann kann sie jeder sehen",
+        "Ja, damit man sie nicht vergisst",
+        "Nur wenn sie kurz sind",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Hacker?",
+      "options": [
+        "Jemand, der sich heimlich in fremde PCs schleicht",
+        "Ein Koch",
+        "Ein Gärtner",
+        "Ein Bauarbeiter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Apps Berechtigungen für alles geben?",
+      "options": [
+        "Nein, nur was sie wirklich brauchen",
+        "Ja, immer auf 'Ja' klicken",
+        "Apps brauchen nichts",
+        "Nur wenn sie kostenlos sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Benutzerkonto?",
+      "options": [
+        "Ein eigener Bereich für eine Person am PC",
+        "Ein Konto bei der Bank",
+        "Ein Spielplatz",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man sich nach dem Arbeiten abmelden?",
+      "options": [
+        "Damit niemand anderes an die eigenen Sachen kann",
+        "Weil der PC sonst heiß wird",
+        "Weil es so Gesetz ist",
+        "Damit der PC schlafen kann"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Kettenbriefe im Internet wahr?",
+      "options": [
+        "Meistens nicht, man sollte sie ignorieren",
+        "Ja, immer",
+        "Nur wenn sie Glück bringen",
+        "Nur für Kinder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Firewall?",
+      "options": [
+        "Ein Schutzprogramm gegen Angriffe von außen",
+        "Eine Mauer aus echtem Feuer",
+        "Ein heißer Computer",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Internet alles glauben, was man liest?",
+      "options": [
+        "Nein, man sollte immer nachdenken und prüfen",
+        "Ja, das Internet weiß alles",
+        "Nur was bei Google steht",
+        "Nur die Videos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was tust du, wenn ein Pop-up-Fenster sagt, du hast gewonnen?",
+      "options": [
+        "Ignorieren und schließen",
+        "Sofort draufklicken",
+        "Meinen Namen eingeben",
+        "Meinen Eltern Geld geben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Kindersuchmaschine?",
+      "options": [
+        "Eine Suchmaschine nur für Kinder (z.B. FragFinn)",
+        "Eine Maschine, die Kinder sucht",
+        "Ein Spielzeug",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Sicherheit wichtig?",
+      "options": [
+        "Um uns und unsere Daten zu schützen",
+        "Weil es Spaß macht",
+        "Weil der PC sonst explodiert",
+        "Nichts"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 1"
+      "question": "Tippe ein: Sicher",
+      "answer": "Sicher"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 2"
+      "question": "Tippe ein: Passwort",
+      "answer": "Passwort"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 3"
+      "question": "Tippe ein: Geheim",
+      "answer": "Geheim"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 4"
+      "question": "Tippe ein: Schutz",
+      "answer": "Schutz"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 5"
+      "question": "Tippe ein: Virus",
+      "answer": "Virus"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 6"
+      "question": "Tippe ein: Gefahr",
+      "answer": "Gefahr"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 7"
+      "question": "Tippe ein: Eltern",
+      "answer": "Eltern"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 8"
+      "question": "Tippe ein: Hilfe",
+      "answer": "Hilfe"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 9"
+      "question": "Tippe ein: Regel",
+      "answer": "Regel"
     },
     {
       "type": "typing",
-      "text": "Text speichern ist toll 10"
+      "question": "Tippe ein: Vorsicht",
+      "answer": "Vorsicht"
     }
   ]
 }

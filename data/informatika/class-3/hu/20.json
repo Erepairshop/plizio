@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Ciklusok Scratch-ben",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a ciklus?",
+      "options": [
+        "Utasítások ismétlése",
+        "Egy kör alakú rajz",
+        "A gép leállítása",
+        "Egy kerék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik blokk ismétel?",
+      "options": [
+        "'Repeat' (Ismételd)",
+        "'Move' (Mozogj)",
+        "'Wait' (Várj)",
+        "'Say' (Mondd)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Forever' (Örökké)?",
+      "options": [
+        "Végtelenül ismétel",
+        "Soha nem áll meg",
+        "Kikapcsolja a gépet",
+        "Megszünteti a programot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a ciklus?",
+      "options": [
+        "Rövidebb és okosabb lesz a kód",
+        "Mert színes",
+        "Mert ettől több lesz a pont",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan néz ki a ciklus blokk?",
+      "options": [
+        "C-alakú, amibe más blokkokat teszünk",
+        "Kör alakú",
+        "Vonal alakú",
+        "Pöttyös"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Repeat 10'?",
+      "options": [
+        "Tízszer hajtja végre a benne lévő kódot",
+        "Tíz percet vár",
+        "Tíz fokot fordul",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e ciklust tenni a ciklusba?",
+      "options": [
+        "Igen, ez a beágyazott ciklus",
+        "Nem",
+        "Csak ha nagy a gép",
+        "Csak éjjel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha üres a ciklus?",
+      "options": [
+        "Semmi nem történik",
+        "Kirobban a gép",
+        "Eltűnik a macska",
+        "Vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan állítjuk meg az örökké ciklust?",
+      "options": [
+        "A piros gombbal",
+        "Sehogy",
+        "Kihúzzuk a gépet",
+        "Kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Repeat until'?",
+      "options": [
+        "Ismételd amíg valami nem történik",
+        "Soha ne ismételd",
+        "Ismételd tízszer",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Példa ciklusra a valóságban?",
+      "options": [
+        "Fogmosás vagy pedálozás",
+        "Alvás egyszer",
+        "Esés",
+        "Nézés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a mozgás ismétlése?",
+      "options": [
+        "Hogy a szereplő folyamatosan menjen",
+        "Hogy elfáradjon",
+        "Hogy megálljon",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha 'Repeat 0'-t írunk?",
+      "options": [
+        "Egyszer sem fut le",
+        "Egyszer lefut",
+        "Végtelenül fut",
+        "Kikapcsol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tehetünk a ciklus belsejébe?",
+      "options": [
+        "Bármilyen más blokkot",
+        "Csak mozgást",
+        "Csak hangot",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a ciklusmag?",
+      "options": [
+        "A blokk belsejében lévő utasítások",
+        "Egy alma magja",
+        "A monitor közepe",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz a járás animáció?",
+      "options": [
+        "Jelmezváltás ciklusban",
+        "Egy kép nézése",
+        "Gyors futás",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Next costume' a ciklusban?",
+      "options": [
+        "Váltogatja a jelmezeket",
+        "Törli a jelmezt",
+        "Ugyanazt hagyja",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kategóriában vannak a ciklusok?",
+      "options": [
+        "Control (Vezérlés)",
+        "Motion (Mozgás)",
+        "Sound (Hang)",
+        "Events (Események)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a végtelen ciklus hiba?",
+      "options": [
+        "A program nem tud továbblépni",
+        "Nagyon jó a program",
+        "Kikapcsol a gép",
+        "Gyorsabb lesz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a ciklus sebességét állítani?",
+      "options": [
+        "Igen, 'Wait' blokkal",
+        "Nem",
+        "Csak az egérrel",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség 'Repeat' és 'Forever' között?",
+      "options": [
+        "Az egyiknek van vége, a másiknak nincs",
+        "Nincs különbség",
+        "A színe",
+        "A mérete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítünk villogást?",
+      "options": [
+        "Mutat-Vár-Elrejt-Vár ciklusban",
+        "Rázzuk a monitort",
+        "Ki-be kapcsoljuk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az iteráció?",
+      "options": [
+        "Egy ismétlés a ciklusban",
+        "Egy fajta étel",
+        "Egy játék",
+        "Gépelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért nem jó a 'Forever' mindenre?",
+      "options": [
+        "Mert megállíthatatlan lehet",
+        "Mert túl szép",
+        "Mert lassú",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a ciklus Scratch-ben?",
+      "options": [
+        "Hatékony és ismétlődő feladatokhoz",
+        "Főzésre",
+        "Zokni mosásra",
+        "Autó vezetésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ciklus",
+      "answer": "ciklus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ismétlés",
+      "answer": "ismétlés"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: örökké",
+      "answer": "örökké"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: számszor",
+      "answer": "számszor"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: beágyazott",
+      "answer": "beágyazott"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: feltétel",
+      "answer": "feltétel"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: megállás",
+      "answer": "megállás"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: folyamatos",
+      "answer": "folyamatos"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: ritmus",
+      "answer": "ritmus"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be a szót: minta",
+      "answer": "minta"
+    }
+  ]
+}

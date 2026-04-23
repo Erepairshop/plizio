@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Scratch Jr.",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este Scratch Jr.?",
+      "options": [
+        "Un program de programare pentru copii",
+        "Un joc de fotbal",
+        "O aplicație de desenat",
+        "Un browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim un program în Scratch Jr.?",
+      "options": [
+        "Apasăm pe steagul verde",
+        "Apasăm pe cerc",
+        "Scuturăm tableta",
+        "Strigăm Start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt blocurile în Scratch Jr.?",
+      "options": [
+        "Instrucțiuni colorate",
+        "Cuburi de gheață",
+        "Lego real",
+        "Piese de puzzle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem un personaj să vorbească?",
+      "options": [
+        "Folosim blocul de tip 'bulă de text'",
+        "Îi vorbim noi",
+        "Punem un difuzor",
+        "Nu se poate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba fundalul?",
+      "options": [
+        "Da, avem o bibliotecă de imagini",
+        "Nu, e mereu alb",
+        "Doar dacă îl desenăm noi",
+        "Doar în negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește personajul principal implicit?",
+      "options": [
+        "Pisica (Scratch Cat)",
+        "Câinele",
+        "Maimuța",
+        "Robotul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul albastru cu săgeată?",
+      "options": [
+        "Mută personajul în direcția săgeții",
+        "Schimbă culoarea",
+        "Șterge personajul",
+        "Pune muzică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea mai multe personaje?",
+      "options": [
+        "Da, oricâte vrem",
+        "Nu, doar unul",
+        "Doar două",
+        "Doar zece"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ștergem un bloc?",
+      "options": [
+        "Îl tragem în afara zonei de lucru",
+        "Apasăm Space",
+        "Suflăm în el",
+        "Îl colorăm în negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul galben cu steag verde?",
+      "options": [
+        "Spune 'începe când apăs steagul'",
+        "Închide programul",
+        "Face personajul galben",
+        "Nu face nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem înregistra vocea noastră?",
+      "options": [
+        "Da, cu blocul de sunet (microfon)",
+        "Nu, e interzis",
+        "Doar dacă strigăm",
+        "Doar pe calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul roșu?",
+      "options": [
+        "Oprește sau repetă programul",
+        "Schimbă personajul în roșu",
+        "Face foc",
+        "Șterge tot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem mări un personaj?",
+      "options": [
+        "Da, cu blocurile mov de mărime",
+        "Nu, rămâne fix",
+        "Doar dacă tragem de el",
+        "Doar dacă îi dăm mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'scenă' în Scratch Jr.?",
+      "options": [
+        "O pagină nouă a poveștii noastre",
+        "Un loc unde dansăm",
+        "O tastă",
+        "O poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena propriul personaj?",
+      "options": [
+        "Da, cu editorul de pictură",
+        "Nu, trebuie să le folosim pe cele gata făcute",
+        "Doar pe hârtie",
+        "Doar dacă avem mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Blocurile se leagă între ele ca?",
+      "options": [
+        "Piesele de puzzle",
+        "Magneti rotunzi",
+        "Hârtia lipită",
+        "Nu se leagă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul cu 'repetă'?",
+      "options": [
+        "Face acțiunile de mai multe ori",
+        "Oprește tot",
+        "Schimbă muzica",
+        "Face o poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scratch Jr. este pentru?",
+      "options": [
+        "Copii între 5 și 7 ani",
+        "Adulți",
+        "Roboți industriali",
+        "Pisici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face un personaj să sară?",
+      "options": [
+        "Da, cu blocul de sărit",
+        "Nu, personajele nu sar",
+        "Doar dacă scuturăm tableta",
+        "Doar în vis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim proiectele noastre?",
+      "options": [
+        "Pe ecranul principal (Home)",
+        "În coșul de gunoi",
+        "Sub masă",
+        "Pe net mereu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face o cursă între două personaje?",
+      "options": [
+        "Da, programându-le pe amândouă",
+        "Nu, se bat",
+        "Doar dacă au roți",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul cu bifa din editor?",
+      "options": [
+        "Salvează și iese",
+        "Șterge tot",
+        "Schimbă culoarea",
+        "Închide tableta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite mesaje între personaje?",
+      "options": [
+        "Da, cu blocurile de scrisori colorate",
+        "Nu, nu știu să scrie",
+        "Doar dacă strigă",
+        "Doar cu porumbei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scratch Jr. ne ajută să fim creativi?",
+      "options": [
+        "Da, foarte mult!",
+        "Nu, e doar tehnic",
+        "E plictisitor",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ai creat prima ta poveste?",
+      "options": [
+        "Da!",
+        "Nu încă",
+        "Sunt la jumătate",
+        "Vreau acum!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bloc",
+      "answer": "bloc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pisica",
+      "answer": "pisica"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: merg",
+      "answer": "merg"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sar",
+      "answer": "sar"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fundal",
+      "answer": "fundal"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
+    }
+  ]
+}

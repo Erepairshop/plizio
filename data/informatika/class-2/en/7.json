@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Simple Games",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Why do we play games on computers?",
+      "options": [
+        "For fun and learning",
+        "To get tired",
+        "To break the mouse",
+        "To waste time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'level' in a game?",
+      "options": [
+        "A part of the game",
+        "A type of food",
+        "A tool for builders",
+        "A flat floor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you usually move in a simple game?",
+      "options": [
+        "Arrow keys or mouse",
+        "Shouting",
+        "Moving the chair",
+        "Closing eyes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'score'?",
+      "options": [
+        "Points you earn",
+        "A type of music",
+        "A mistake",
+        "A quiet time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a game is too hard?",
+      "options": [
+        "Keep practicing or ask help",
+        "Throw the mouse",
+        "Give up forever",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can games help you learn math?",
+      "options": [
+        "Yes, educational games",
+        "No, never",
+        "Only if they are boring",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Game Over' mean?",
+      "options": [
+        "The game ended",
+        "The game is starting",
+        "You won a million",
+        "The computer is off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'player'?",
+      "options": [
+        "The person playing",
+        "The computer case",
+        "A type of ball",
+        "A toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you play games all day?",
+      "options": [
+        "No, take breaks",
+        "Yes, if you want",
+        "Only if it's raining",
+        "Only if you are fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'joystick'?",
+      "options": [
+        "A tool for games",
+        "A stick of wood",
+        "A type of candy",
+        "A part of keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you play games with friends?",
+      "options": [
+        "Yes, multiplayer",
+        "No, always alone",
+        "Only with robots",
+        "Only in dreams"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'start button' in a game?",
+      "options": [
+        "Starts the fun",
+        "Ends the game",
+        "Saves the world",
+        "Turns off power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'winning'?",
+      "options": [
+        "Reaching the goal",
+        "Losing all points",
+        "Stopping the game",
+        "Breaking a key"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you learn to control the mouse by playing?",
+      "options": [
+        "Yes, it helps",
+        "No, it makes it worse",
+        "Only if you use two",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'puzzle game'?",
+      "options": [
+        "A game that makes you think",
+        "A game about eating",
+        "A game with only racing",
+        "A broken game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'avatar'?",
+      "options": [
+        "Your character in a game",
+        "A type of bird",
+        "A movie only",
+        "A computer monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to be a 'sore loser'?",
+      "options": [
+        "No, be a good sport",
+        "Yes, it's fine",
+        "Only if you lose big",
+        "Sometimes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'pause' do?",
+      "options": [
+        "Stops the game for a break",
+        "Makes it go faster",
+        "Ends the game",
+        "Saves it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can games teach you to follow rules?",
+      "options": [
+        "Yes, games have rules",
+        "No, games have no rules",
+        "Only if they are boring",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'high score'?",
+      "options": [
+        "The best score ever",
+        "A score in the sky",
+        "A bad score",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you play games on a tablet?",
+      "options": [
+        "Yes, by touching",
+        "No, only on TVs",
+        "Only if it is red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'tutorial'?",
+      "options": [
+        "A part that teaches you",
+        "A type of enemy",
+        "A secret code",
+        "A broken level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'loading'?",
+      "options": [
+        "The computer preparing game",
+        "The game is over",
+        "The computer is sleeping",
+        "The mouse is charging"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask before downloading a game?",
+      "options": [
+        "Yes, always ask parents",
+        "No, just do it",
+        "Only if it costs money",
+        "Only if it's big"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are computer games fun?",
+      "options": [
+        "Yes, for most kids",
+        "No, never",
+        "Only for adults",
+        "Only on birthdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Game",
+      "answer": "Game"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fun",
+      "answer": "Fun"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Play",
+      "answer": "Play"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Win",
+      "answer": "Win"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Score",
+      "answer": "Score"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Level",
+      "answer": "Level"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Jump",
+      "answer": "Jump"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fast",
+      "answer": "Fast"
+    }
+  ]
+}

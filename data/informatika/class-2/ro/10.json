@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Bazele internetului",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este internetul?",
+      "options": [
+        "O rețea globală de calculatoare",
+        "Un cablu lung",
+        "Un joc",
+        "O emisiune TV"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum căutăm informații pe net?",
+      "options": [
+        "Folosind un motor de căutare (ex: Google)",
+        "Strigând la ecran",
+        "Bătând în tastatură",
+        "Așteptând"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un browser?",
+      "options": [
+        "Un program pentru a vedea pagini web",
+        "Un tip de mouse",
+        "O tastă",
+        "Un virus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un exemplu de browser este...",
+      "options": [
+        "Google Chrome",
+        "Paint",
+        "Calculator",
+        "Word"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă WWW?",
+      "options": [
+        "World Wide Web",
+        "World War Win",
+        "Web Web Web",
+        "Nu înseamnă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul are nevoie de?",
+      "options": [
+        "O conexiune (Wi-Fi sau cablu)",
+        "Apă",
+        "Mâncare",
+        "Hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Link'?",
+      "options": [
+        "O adresă care ne trimite la altă pagină",
+        "Un tip de joc",
+        "O tastă",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea poze cu animale pe net?",
+      "options": [
+        "Da, oricâte",
+        "Nu, sunt interzise",
+        "Doar dacă le pictăm",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o adresă web (URL)?",
+      "options": [
+        "Numele paginii (ex: google.ro)",
+        "Numele nostru",
+        "O stradă reală",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul este gratuit mereu?",
+      "options": [
+        "Nu, trebuie plătit un abonament",
+        "Da, e de la soare",
+        "Da, e cadou",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este Wi-Fi?",
+      "options": [
+        "Internet fără fir",
+        "Un tip de mâncare",
+        "Un joc",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța lucruri noi pe internet?",
+      "options": [
+        "Da, este o bibliotecă uriașă",
+        "Nu, sunt doar jocuri",
+        "Doar dacă suntem mari",
+        "Doar cu robotul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'site'?",
+      "options": [
+        "O pagină sau un grup de pagini pe net",
+        "O locație reală",
+        "Un tip de monitor",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite mesaje prin internet?",
+      "options": [
+        "Da (Email, Chat)",
+        "Nu, doar prin poștă",
+        "Doar prin telefon fix",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul funcționează și pe telefon?",
+      "options": [
+        "Da",
+        "Nu, doar pe calculator",
+        "Doar dacă are fir",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Download'?",
+      "options": [
+        "Să luăm ceva de pe net în calculator",
+        "Să ștergem tot",
+        "Să închidem netul",
+        "Să urcăm ceva pe net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Upload'?",
+      "options": [
+        "Să punem ceva din calculator pe net",
+        "Să coborâm ceva",
+        "Să stricăm ceva",
+        "Să dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunt toate informațiile de pe net adevărate?",
+      "options": [
+        "Nu, trebuie să fim atenți",
+        "Da, absolut toate",
+        "Doar cele cu poze",
+        "Doar cele scrise mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine a creat internetul?",
+      "options": [
+        "Mulți oameni de știință împreună",
+        "Un singur copil",
+        "Un robot din viitor",
+        "O firmă de jucării"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem cumpăra lucruri de pe net?",
+      "options": [
+        "Da, dar doar cu părinții",
+        "Da, oricine",
+        "Nu, e interzis",
+        "Doar mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Refresh'?",
+      "options": [
+        "Reîncărcarea paginii",
+        "O băutură rece",
+        "Schimbarea culorii",
+        "Închiderea browserului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul este peste tot în lume?",
+      "options": [
+        "Aproape peste tot",
+        "Doar în România",
+        "Doar în America",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme pe YouTube?",
+      "options": [
+        "Da",
+        "Nu, acolo sunt doar poze",
+        "Doar dacă avem televizor",
+        "Doar dacă plouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să fim politicoși pe net?",
+      "options": [
+        "Da, mereu!",
+        "Nu, nu ne vede nimeni",
+        "Doar dacă vrem",
+        "Doar cu profesorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Îți place să explorezi internetul?",
+      "options": [
+        "Da, cu grijă",
+        "Nu",
+        "Uneori",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: net",
+      "answer": "net"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: web",
+      "answer": "web"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: caut",
+      "answer": "caut"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: site",
+      "answer": "site"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: link",
+      "answer": "link"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poza",
+      "answer": "poza"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cauta",
+      "answer": "cauta"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pagina",
+      "answer": "pagina"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: adresa",
+      "answer": "adresa"
+    }
+  ]
+}

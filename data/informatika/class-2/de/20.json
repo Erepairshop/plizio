@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Suchen (Strg+F)",
+  "theme": "Zeichnen Schritt für Schritt",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 1)",
+      "question": "Wie nennt man ein Bild am Computer?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 2)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 3)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Grafik oder Bilddatei",
+        "Zettel",
+        "Malbuch",
+        "Fenster"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 4)",
+      "question": "Wie fängt man eine Zeichnung meistens an?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 5)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 6)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Mit einer einfachen Form wie einem Kreis",
+        "Mit ganz vielen Farben",
+        "Mit dem Radiergummi",
+        "Mit dem Ende"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 7)",
+      "question": "Was macht man nach den ersten Formen?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 8)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 9)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Details hinzufügen (Augen, Nase...)",
+        "Das Bild sofort löschen",
+        "Den Monitor ausschalten",
+        "Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 10)",
+      "question": "Welches Werkzeug ist gut für feine Linien?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 11)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 12)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Der dünne Bleistift",
+        "Der dicke Farbeimer",
+        "Der Radierer",
+        "Die Lupe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 13)",
+      "question": "Wie nennt man das Ausfüllen einer Form?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 14)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 15)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Einfärben",
+        "Auswaschen",
+        "Löschen",
+        "Tippen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 16)",
+      "question": "Warum ist 'Rückgängig' beim Zeichnen toll?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 17)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 18)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Weil man Fehler sofort wegmachen kann",
+        "Weil es den PC kühlt",
+        "Weil es Punkte gibt",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 19)",
+      "question": "Kann man Formen übereinander legen?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 20)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 21)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Ja, wie bei echtem Papier",
+        "Nein, sie stoßen sich ab",
+        "Nur zwei Stück",
+        "Nur am Sonntag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 22)",
+      "question": "Wie zeichnet man ein Haus Schritt für Schritt?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 23)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 24)",
-      "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Viereck, dann Dreieck oben drauf",
+        "Kreis, dann Punkte",
+        "Nur Linien",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Suchen (Strg+F)? (Frage 25)",
+      "question": "Was ist Symmetrie?",
       "options": [
-        "Option A für Suchen (Strg+F)",
-        "Option B für Suchen (Strg+F)",
-        "Option C für Suchen (Strg+F)"
+        "Wenn beide Seiten genau gleich aussehen",
+        "Wenn alles bunt ist",
+        "Wenn das Bild schief ist",
+        "Ein Name für einen PC"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Computer 'Spiegeln'?",
+      "options": [
+        "Ja, man kann eine Seite auf die andere kopieren",
+        "Nein, das geht nicht",
+        "Nur mit einem echten Spiegel",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Taste hilft beim Zeichnen von geraden Linien?",
+      "options": [
+        "Oft die Shift-Taste",
+        "Enter",
+        "Space",
+        "Esc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man eine Sonne?",
+      "options": [
+        "Gelber Kreis mit gelben Linien (Strahlen)",
+        "Blaues Viereck",
+        "Roter Punkt",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Kopieren und Einfügen' beim Malen?",
+      "options": [
+        "Ein Teil zweimal im Bild haben",
+        "Das Bild löschen",
+        "Den PC ausschalten",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man sein Bild zwischendurch speichern?",
+      "options": [
+        "Damit es bei einem Fehler nicht weg ist",
+        "Damit der PC nicht schwer wird",
+        "Weil der Lehrer es sagt",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Hintergrund'?",
+      "options": [
+        "Der Teil des Bildes, der ganz hinten ist",
+        "Die Maus",
+        "Die Tastatur",
+        "Immer Schwarz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Vordergrund'?",
+      "options": [
+        "Die Dinge, die ganz vorne im Bild stehen",
+        "Die Rückseite vom PC",
+        "Ein Kabel",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC auch mit Wasserfarben-Effekt malen?",
+      "options": [
+        "Ja, in manchen Programmen",
+        "Nein, das wird nass",
+        "Nur wenn man Wasser benutzt",
+        "Nur für Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Radiergummi?",
+      "options": [
+        "Er entfernt Teile des Bildes",
+        "Er macht alles bunt",
+        "Er speichert das Bild",
+        "Er singt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Farbe eines fertigen Kreises?",
+      "options": [
+        "Mit dem Farbeimer-Werkzeug",
+        "Man muss ihn neu malen",
+        "Durch Pusten",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Palette?",
+      "options": [
+        "Die Auswahl an Farben im Programm",
+        "Ein Brett aus Holz",
+        "Ein Teil vom Monitor",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Bild am Computer auch drehen?",
+      "options": [
+        "Ja, das ganze Bild oder Teile davon",
+        "Nein, es steht fest",
+        "Nur wenn man den Monitor dreht",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man ein digitales Gemälde?",
+      "options": [
+        "Digital Art",
+        "Echter Müll",
+        "Malerei",
+        "Foto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Wichtigste beim Zeichnen-Lernen?",
+      "options": [
+        "Viel Üben und Ausprobieren",
+        "Ganz schnell sein",
+        "Sich ärgern",
+        "Keine Fehler machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder auch ausdrucken und dann ausmalen?",
+      "options": [
+        "Ja, das geht super",
+        "Nein, nur am PC malen",
+        "Nur wenn man sie abmalt",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Zeichnen am Computer kreativ?",
+      "options": [
+        "Ja, man kann wunderbare Dinge erschaffen!",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur in der Schule"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 1"
+      "question": "Tippe ein: Malen",
+      "answer": "Malen"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 2"
+      "question": "Tippe ein: Form",
+      "answer": "Form"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 3"
+      "question": "Tippe ein: Haus",
+      "answer": "Haus"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 4"
+      "question": "Tippe ein: Baum",
+      "answer": "Baum"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 5"
+      "question": "Tippe ein: Sonne",
+      "answer": "Sonne"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 6"
+      "question": "Tippe ein: Plan",
+      "answer": "Plan"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 7"
+      "question": "Tippe ein: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 8"
+      "question": "Tippe ein: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 9"
+      "question": "Tippe ein: Fertig",
+      "answer": "Fertig"
     },
     {
       "type": "typing",
-      "text": "Suchen (Strg+F) ist toll 10"
+      "question": "Tippe ein: Schritt",
+      "answer": "Schritt"
     }
   ]
 }

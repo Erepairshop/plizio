@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Großbuchstaben / Kleinbuchstaben",
+  "theme": "Einfache Spiele",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 1)",
+      "question": "Was sind Computerspiele?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 2)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 3)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Programme zum Unterhalten und Spielen",
+        "Echte Brettspiele auf dem Tisch",
+        "Bücher",
+        "Sportgeräte"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 4)",
+      "question": "Womit steuert man viele einfache Spiele?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 5)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 6)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Maus oder Pfeiltasten",
+        "Nur mit der Nase",
+        "Mit der Kaffeetasse",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 7)",
+      "question": "Was ist ein 'Level'?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 8)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 9)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Ein Abschnitt oder eine Stufe im Spiel",
+        "Ein anderes Wort für Spieler",
+        "Eine Farbe",
+        "Ein Preis"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 10)",
+      "question": "Was passiert, wenn man in einem Spiel 'verliert'?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 11)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 12)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Man kann es meistens nochmal versuchen",
+        "Der PC geht kaputt",
+        "Man muss bezahlen",
+        "Man darf nie wieder spielen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 13)",
+      "question": "Was ist ein Highscore?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 14)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 15)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Die höchste Punktzahl",
+        "Ein großer Berg",
+        "Ein schneller Läufer",
+        "Ein teures Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 16)",
+      "question": "Kann man am Computer auch etwas lernen beim Spielen?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 17)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 18)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Ja, es gibt Lernspiele",
+        "Nein, Spiele sind nur Quatsch",
+        "Nur wenn man schummelt",
+        "Nur am PC"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 19)",
+      "question": "Was ist ein 'Charakter' oder 'Avatar'?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 20)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 21)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Die Figur, die man im Spiel steuert",
+        "Der Name des Computers",
+        "Ein Level",
+        "Ein Bild am Monitor"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 22)",
+      "question": "Wofür ist die Leertaste oft in Spielen?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 23)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 24)",
-      "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Zum Springen",
+        "Zum Ausschalten",
+        "Zum Essen",
+        "Zum Schlafen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Was ist wichtig bei: Großbuchstaben / Kleinbuchstaben? (Frage 25)",
+      "question": "Was ist ein 'Multiplayer'?",
       "options": [
-        "Option A für Großbuchstaben / Kleinbuchstaben",
-        "Option B für Großbuchstaben / Kleinbuchstaben",
-        "Option C für Großbuchstaben / Kleinbuchstaben"
+        "Ein Spiel für mehrere Spieler",
+        "Ein sehr großer Spieler",
+        "Ein kaputtes Spiel",
+        "Ein Film"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man den ganzen Tag spielen?",
+      "options": [
+        "Nein, Pausen sind wichtig für die Augen",
+        "Ja, so lange man will",
+        "Nur wenn es regnet",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Puzzle am PC?",
+      "options": [
+        "Ein Spiel, bei dem man Teile zusammensetzt",
+        "Ein Rennspiel",
+        "Ein Schießspiel",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie startet man ein Spiel?",
+      "options": [
+        "Doppelklick auf das Icon",
+        "Den Monitor streicheln",
+        "Den PC schütteln",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Joystick?",
+      "options": [
+        "Ein Gerät zum Steuern von Spielen",
+        "Ein lustiger Stock",
+        "Ein Teil vom Drucker",
+        "Ein Kaugummi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man auf dem Tablet spielen?",
+      "options": [
+        "Ja, mit dem Finger auf dem Bildschirm",
+        "Nein, nur am PC",
+        "Nur mit einer Maus",
+        "Nur im Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Game Over'?",
+      "options": [
+        "Das Ende des Spiels (meistens verloren)",
+        "Ein neues Level",
+        "Ein Gewinn",
+        "Ein Neustart"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man nach dem Spielen den PC aufräumen?",
+      "options": [
+        "Damit er schnell bleibt und Ordnung herrscht",
+        "Weil die Spiele sonst weglaufen",
+        "Damit er nicht schwer wird",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Spiele im Internet?",
+      "options": [
+        "Ja, viele kleine Browser-Spiele",
+        "Nein, nur auf CDs",
+        "Nur für Handys",
+        "Nur in Amerika"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Spielekonsole?",
+      "options": [
+        "Ein Gerät nur zum Spielen (z.B. Nintendo)",
+        "Ein Schrank",
+        "Ein Radio",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Spiele ohne Erlaubnis kaufen?",
+      "options": [
+        "Nein, man sollte immer die Eltern fragen",
+        "Ja, wenn man Geld hat",
+        "Nur wenn sie billig sind",
+        "Ja, immer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ladebildschirm?",
+      "options": [
+        "Ein Bild, während das Spiel vorbereitet wird",
+        "Ein kaputter Monitor",
+        "Ein Bild zum Malen",
+        "Das Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man in Spielen Punkte sammeln?",
+      "options": [
+        "Ja, meistens für gute Taten oder Erfolge",
+        "Nein, nur Geld",
+        "Nur im Level 1",
+        "Sollte man nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Controller?",
+      "options": [
+        "Ein Steuergerät für Konsolen",
+        "Ein Chef im Spiel",
+        "Ein kleiner PC",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind alle Spiele für Kinder?",
+      "options": [
+        "Nein, manche sind nur für Erwachsene",
+        "Ja, alle",
+        "Nur die am Tablet",
+        "Keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man ein Spiel leiser?",
+      "options": [
+        "In den Einstellungen oder am Lautsprecher",
+        "Den Monitor zudecken",
+        "Leiser atmen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ziel in den meisten Spielen?",
+      "options": [
+        "Spaß haben und eine Aufgabe lösen",
+        "Den PC kaputt machen",
+        "Geld ausgeben",
+        "Nichts"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 1"
+      "question": "Tippe ein: Spiel",
+      "answer": "Spiel"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 2"
+      "question": "Tippe ein: Level",
+      "answer": "Level"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 3"
+      "question": "Tippe ein: Sieg",
+      "answer": "Sieg"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 4"
+      "question": "Tippe ein: Punkte",
+      "answer": "Punkte"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 5"
+      "question": "Tippe ein: Pause",
+      "answer": "Pause"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 6"
+      "question": "Tippe ein: Avatar",
+      "answer": "Avatar"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 7"
+      "question": "Tippe ein: Sprung",
+      "answer": "Sprung"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 8"
+      "question": "Tippe ein: Spaß",
+      "answer": "Spaß"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 9"
+      "question": "Tippe ein: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Großbuchstaben / Kleinbuchstaben ist toll 10"
+      "question": "Tippe ein: Ende",
+      "answer": "Ende"
     }
   ]
 }

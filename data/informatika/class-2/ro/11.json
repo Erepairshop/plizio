@@ -1,0 +1,332 @@
+{
+  "class": 2,
+  "theme": "Siguranța online",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "E bine să dăm parola noastră străinilor?",
+      "options": [
+        "Nu, niciodată",
+        "Da, oricui",
+        "Doar prietenilor de pe net",
+        "Doar dacă ne cer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă vedem ceva urât pe net?",
+      "options": [
+        "Îi spunem unui adult",
+        "Închidem ochii",
+        "Plângem",
+        "Trimitem mai departe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Parola trebuie să fie...",
+      "options": [
+        "Secretă și greu de ghicit",
+        "Numele nostru",
+        "1234",
+        "Ușoară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vorbi cu persoane necunoscute pe net?",
+      "options": [
+        "Doar cu acordul părinților",
+        "Da, oricând",
+        "Doar noaptea",
+        "Doar dacă au poze frumoase"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul poate fi periculos?",
+      "options": [
+        "Da, dacă nu suntem atenți",
+        "Nu, e doar un joc",
+        "Doar pentru adulți",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să punem poze cu noi pe net fără să întrebăm?",
+      "options": [
+        "Nu, întrebăm părinții",
+        "Da, oricâte",
+        "Doar dacă suntem frumoși",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Virus' de calculator?",
+      "options": [
+        "Un program care strică lucruri",
+        "O boală reală",
+        "O insectă",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne protejăm de viruși?",
+      "options": [
+        "Folosim un Antivirus",
+        "Spălăm monitorul cu spirt",
+        "Nu pornim calculatorul",
+        "Punem mască pe tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să dăm adresa noastră de acasă pe net?",
+      "options": [
+        "Nu, niciodată",
+        "Da, oricui",
+        "Doar la jocuri",
+        "Doar dacă ne cer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Cyberbullying'?",
+      "options": [
+        "Când cineva este rău cu alții pe net",
+        "Un tip de sport",
+        "Un robot",
+        "Un joc nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă cineva ne cere parola, ce facem?",
+      "options": [
+        "Nu o dăm și spunem părinților",
+        "O dăm repede",
+        "O schimbăm în 1111",
+        "Îi dăm parola altcuiva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Site-urile sigure au adesea...",
+      "options": [
+        "Un lacăt mic lângă adresă",
+        "O poză cu un câine",
+        "Muzică tare",
+        "Culoarea roșie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E bine să descărcăm jocuri de oriunde?",
+      "options": [
+        "Nu, doar de pe site-uri sigure",
+        "Da, dacă sunt gratis",
+        "Da, oricând",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă un străin vrea să se întâlnească cu noi, ce facem?",
+      "options": [
+        "Spunem imediat părinților și nu mergem",
+        "Mergem repede",
+        "Mergem cu un prieten",
+        "Nu facem nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Private' (Privat)?",
+      "options": [
+        "Ceva ce nu este pentru toată lumea",
+        "Ceva public",
+        "Ceva stricat",
+        "Ceva nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Trebuie să credem tot ce ne spun străinii pe net?",
+      "options": [
+        "Nu, pot minți",
+        "Da, pe net toți spun adevărul",
+        "Doar dacă au poze",
+        "Doar dacă par copii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi numele real ca nume de utilizator?",
+      "options": [
+        "E mai bine să folosim un pseudonim (poreclă)",
+        "Da, mereu",
+        "Doar dacă ne place",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă primim un email ciudat?",
+      "options": [
+        "Nu îl deschidem și îl ștergem",
+        "Îl trimitem tuturor",
+        "Îl citim de zece ori",
+        "Răspundem cu 'Bună'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul este o lume?",
+      "options": [
+        "O lume digitală în care trebuie să fim atenți",
+        "O lume de vis",
+        "O lume plină de monștri",
+        "Nu este o lume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem fi prieteni cu oricine pe net?",
+      "options": [
+        "Doar cu cei pe care îi cunoaștem real",
+        "Da, oricine e binevenit",
+        "Doar cu roboții",
+        "Doar cu cei care au jocuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Regulile de siguranță se aplică și pe tabletă?",
+      "options": [
+        "Da, peste tot",
+        "Nu, tableta e sigură",
+        "Doar pe calculator",
+        "Doar dacă are internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă greșim și dăm o informație, ce facem?",
+      "options": [
+        "Spunem repede părinților",
+        "O lăsăm așa",
+        "Închidem calculatorul un an",
+        "Plângem sub pat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine ne protejează pe internet?",
+      "options": [
+        "Noi, prin atenție, și părinții",
+        "Poliția de jucărie",
+        "Niciun om",
+        "Calculatorul singur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem parole diferite la conturi?",
+      "options": [
+        "Da, e mai sigur",
+        "Nu, e mai greu de reținut",
+        "Doar dacă avem multe",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vei fi un copil atent pe internet?",
+      "options": [
+        "Da, promit!",
+        "Nu",
+        "Poate",
+        "Voi încerca"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: parola",
+      "answer": "parola"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sigur",
+      "answer": "sigur"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: adult",
+      "answer": "adult"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ajutor",
+      "answer": "ajutor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: secret",
+      "answer": "secret"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rau",
+      "answer": "rau"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bine",
+      "answer": "bine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: atent",
+      "answer": "atent"
+    }
+  ]
+}
