@@ -1,14 +1,15 @@
+// AUTO-GENERATED from ne_admin1_10m.geojson (admin-1 for VA)
 import type { POI } from "../data/poi";
 
-export const vaticanViewBox = "0 0 1000 1000";
+export const vaticanViewBox = "0 0 1000 1183";
 
 export const VA_PROJECTION = {
-  minLon: 12.445,
-  maxLon: 12.459,
-  minLat: 41.899,
-  maxLat: 41.908,
+  minLon: 12.452647950000001,
+  maxLon: 12.454101049999998,
+  minLat: 41.90269385,
+  maxLat: 41.90397315,
   width: 1000,
-  height: 1000,
+  height: 1183,
 };
 
 export function projectCoordsVA(lon: number, lat: number): [number, number] {
@@ -26,14 +27,18 @@ export interface VaticanRegionPath {
   path: string;
 }
 
-// Simplified Vatican City outline
 export const vaticanMap: VaticanRegionPath[] = [
   {
-    id: "VA",
-    name: { de: "Vatikanstadt", hu: "Vatikán", ro: "Vatican", en: "Vatican City" },
-    capital: "Vatican City",
-    labelX: 500,
-    labelY: 500,
-    path: "M434,957 L216,913 L135,765 L76,647 L43,456 L65,302 L147,156 L289,65 L500,43 L711,65 L853,156 L935,302 L957,456 L924,647 L865,765 L784,913 Z"
+    "id": "VA-001",
+    "name": {
+      "de": "Vatican",
+      "hu": "Vatican",
+      "ro": "Vatican",
+      "en": "Vatican"
+    },
+    "capital": "",
+    "labelX": 409.21,
+    "labelY": 549.69,
+    "path": "M263.61,53.77L918.76,102.78L954.55,1129.23L336.56,1129.23L45.45,885.1L81.93,493.94L263.61,53.77Z"
   }
 ];
