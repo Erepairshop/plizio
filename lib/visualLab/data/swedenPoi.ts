@@ -775,12 +775,12 @@ export const swedenCulture: POI[] = [
     type: "historical",
     parent: "SE",
     coords: [11.9090, 57.6967],
-    name: { de: "Festung Älvsborg", hu: "Älvsborg erőd", ro: "Fortăreața Älvsborg", en: "Älvsborg Fortress" },
+    name: { de: "Festung Člvsborg", hu: "Člvsborg erőd", ro: "Fortăreața Člvsborg", en: "Člvsborg Fortress" },
     description: {
-      de: "Die Festung Älvsborg bewachte einst die Einfahrt nach Göteborg und war eine der wichtigsten Verteidigungsanlagen an der schwedischen Westküste.",
-      hu: "Az Älvsborg erőd egykor Göteborg bejáratát őrizte, és Svédország nyugati partjának egyik legfontosabb védelmi létesítménye volt.",
-      ro: "Fortăreața Älvsborg a păzit odinioară intrarea în Göteborg și a fost una dintre cele mai importante instalații de apărare de pe coasta de vest a Suediei.",
-      en: "Älvsborg Fortress once guarded the entrance to Gothenburg and was one of the most important defensive installations on the Swedish west coast."
+      de: "Die Festung Člvsborg bewachte einst die Einfahrt nach Göteborg und war eine der wichtigsten Verteidigungsanlagen an der schwedischen Westküste.",
+      hu: "Az Člvsborg erőd egykor Göteborg bejáratát őrizte, és Svédország nyugati partjának egyik legfontosabb védelmi létesítménye volt.",
+      ro: "Fortăreața Člvsborg a păzit odinioară intrarea în Göteborg și a fost una dintre cele mai importante instalații de apărare de pe coasta de vest a Suediei.",
+      en: "Člvsborg Fortress once guarded the entrance to Gothenburg and was one of the most important defensive installations on the Swedish west coast."
     },
     descriptionAdvanced: {
       en: "Alvsborg Fortress guarded the entrance to Gothenburg and the Swedish west coast. Its role in defense made it one of the most important military positions in the region. The old fortress was tied to wars with Denmark and to the protection of trade routes into the North Sea. Today the location is remembered as a key chapter in Gothenburg's early security history.",

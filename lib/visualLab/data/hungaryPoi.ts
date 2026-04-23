@@ -3144,7 +3144,7 @@ export const hungaryCities: POI[] = [
         "Die Stadt hat eine bedeutende Universität und mehrere Forschungsinstitute.",
         "Bekannt für den großen Marktplatz und die evangelische Kirche.",
         "Wichtiger Knotenpunkt für den Handel mit der Ukraine und Rumänien.",
-        "Die Region ist berühmt für den Anbau von Äpfeln und Pflaumen."
+        "Die Region ist berühmt für den Anbau von Čpfeln und Pflaumen."
       ],
       "hu": [
         "Magyarország hetedik legnagyobb városa és Szabolcs-Szatmár-Bereg vármegye székhelye.",
@@ -3243,7 +3243,7 @@ export const hungaryCities: POI[] = [
     },
     facts: {
       "de": [
-        "Älteste Stadt Ungarns mit römischen Wurzeln (Savaria).",
+        "Člteste Stadt Ungarns mit römischen Wurzeln (Savaria).",
         "Geburtsort des Heiligen Martin von Tours (316 n. Chr.).",
         "Das Iseum ist eines der bedeutendsten Isis-Heiligtümer in Europa.",
         "Der Savaria Historische Karneval ist das größte Kostümfest der Region.",
@@ -3948,7 +3948,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Zitadelle von Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea din Visegrád", "en": "Visegrád Citadel"},
     image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Die Fellegvár in Visegrád thront majestätisch über dem Donauknie und bietet atemberaubende Blicke.", "hu": "A visegrádi Fellegvár fenségesen magasodik a Dunakanyar fölé, lenyűgöző panorámát nyújtva.", "ro": "Cetatea din Visegrád domină maiestuos Cotul Dunării, oferind vederi panoramice uluitoare.", "en": "The Visegrád Citadel towers majestically over the Danube Bend, offering breathtaking views."},
-    facts: {"de": ["Diente im Mittelalter als Aufbewahrungsort der heiligen ungarischen Krönungsinsignien.", "Die Burg ist ein wichtiges Zeugnis der glanzvollen Ära der Anjou-Könige."], "hu": ["A középkorban itt őrizték a magyar koronázási jelvényeket és a Szent Koronát.", "A vár az Anjou-királyok fénykorának egyik legfontosabb történelmi emléke."], "ro": ["A servit în Evul Mediu ca loc de păstrare a însemnelor coroanei maghiare.", "Cetatea este o dovadă importantă a epocii strălucite a regilor Anjou."], "en": ["Served as the storage place for the holy Hungarian coronation regalia in the Middle Ages.", "The castle is an important testament to the brilliant era of the Anjou kings."]},
+    facts: {"de": ["Diente im Mittelalter als Aufbewahrungsort der heiligen ungarischen Krönungsinsignien.", "Die Burg ist ein wichtiges Zeugnis der glanzvollen Čra der Anjou-Könige."], "hu": ["A középkorban itt őrizték a magyar koronázási jelvényeket és a Szent Koronát.", "A vár az Anjou-királyok fénykorának egyik legfontosabb történelmi emléke."], "ro": ["A servit în Evul Mediu ca loc de păstrare a însemnelor coroanei maghiare.", "Cetatea este o dovadă importantă a epocii strălucite a regilor Anjou."], "en": ["Served as the storage place for the holy Hungarian coronation regalia in the Middle Ages.", "The castle is an important testament to the brilliant era of the Anjou kings."]},
     },
     {
     id: "szigetvari-var-poi",

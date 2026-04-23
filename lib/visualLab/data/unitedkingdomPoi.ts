@@ -74,7 +74,7 @@ export const unitedkingdomRegions: POI[] = [
     name: { de: "England", hu: "Anglia", ro: "Anglia", en: "England" },
     image: "/geo-images/united-kingdom/england.webp",
     description: {
-      de: "England ist das größte und bevölkerungsreichste Land des Vereinigten Königreichs und nimmt den zentralen und südlichen Teil der Insel Großbritannien ein. Es grenzt im Norden an Schottland und im Westen an Wales, während es von der Irischen See, der Nordsee und dem Ärmelkanal umgeben ist. Das Land ist bekannt für seine reiche Geschichte, die von der Römerzeit und dem Mittelalter bis zu seiner Rolle als Geburtsort der Industriellen Revolution reicht. Englands Landschaft ist überwiegend von sanften Ebenen und Hügeln geprägt, weist aber im Norden und Westen auch bergiges Gelände auf. Sein kultureller Einfluss ist enorm, insbesondere in der Literatur, Musik und im Sport, was es zu einem der beliebtesten Reiseziele weltweit macht.",
+      de: "England ist das größte und bevölkerungsreichste Land des Vereinigten Königreichs und nimmt den zentralen und südlichen Teil der Insel Großbritannien ein. Es grenzt im Norden an Schottland und im Westen an Wales, während es von der Irischen See, der Nordsee und dem Črmelkanal umgeben ist. Das Land ist bekannt für seine reiche Geschichte, die von der Römerzeit und dem Mittelalter bis zu seiner Rolle als Geburtsort der Industriellen Revolution reicht. Englands Landschaft ist überwiegend von sanften Ebenen und Hügeln geprägt, weist aber im Norden und Westen auch bergiges Gelände auf. Sein kultureller Einfluss ist enorm, insbesondere in der Literatur, Musik und im Sport, was es zu einem der beliebtesten Reiseziele weltweit macht.",
       hu: "Anglia az Egyesült Királyság legnagyobb és legnépesebb országa, amely Nagy-Britannia szigetének középső és déli részét foglalja el. Északon Skóciával, nyugaton pedig Walesszel határos, miközben az Ír-tenger, az Északi-tenger és a La Manche csatorna veszi körül. Az ország gazdag történelméről híres, amely a római kortól és a középkortól kezdve az ipari forradalom szülőhelyeként betöltött szerepéig tart. Anglia tájképét leginkább lankás síkságok és dombok jellemzik, bár északon és nyugaton hegyvidéki területek is találhatók. Kulturális befolyása hatalmas, különösen az irodalom, a zene és a sport területén, így a világ egyik legnépszerűbb úti célja.",
       ro: "Anglia este cea mai mare și mai populată țară din Regatul Unit, ocupând părțile centrale și sudice ale insulei Marea Britanie. Se învecinează cu Scoția la nord și cu Țara Galilor la vest, fiind înconjurată de Marea Irlandei, Marea Nordului și Canalul Mânecii. Țara este renumită pentru istoria sa bogată, care se întinde de la epoca romană și Evul Mediu până la rolul său de loc de naștere al Revoluției Industriale. Peisajul Angliei este caracterizat în principal de câmpii și dealuri domoale, deși prezintă teren muntos în nord și vest. Influența sa culturală este vastă, în special în literatură, muzică și sport, făcând-o o destinație globală de top.",
       en: "England is the largest and most populous country of the United Kingdom, occupying the central and southern parts of the island of Great Britain. It shares land borders with Scotland to the north and Wales to the west, while being surrounded by the Irish Sea, North Sea, and the English Channel. The country is renowned for its rich history, spanning from Roman times and the Middle Ages to its role as the birthplace of the Industrial Revolution. England's landscape is mostly characterized by rolling plains and hills, though it features mountainous terrain in the north and west. Its cultural influence is vast, particularly in literature, music, and sports, making it a top global destination."
@@ -910,7 +910,7 @@ export const unitedkingdomCities: POI[] = [
       en: "City in the East Midlands of England. Known for the legend of Robin Hood."
     },
     facts: {
-      de: ["Robin Hoods Sherwood Forest.", "Nottingham Castle.", "Zentrum der Spitzenherstellung.", "Ältester Pub Englands (angeblich)."],
+      de: ["Robin Hoods Sherwood Forest.", "Nottingham Castle.", "Zentrum der Spitzenherstellung.", "Čltester Pub Englands (angeblich)."],
       hu: ["Robin Hood Sherwoodi erdeje.", "Nottinghami vár.", "A csipkegyártás központja.", "Anglia (állítólag) legrégebbi pubja."],
       ro: ["Pădurea Sherwood a lui Robin Hood.", "Castelul Nottingham.", "Centrul producției de dantelă.", "Cel mai vechi pub din Anglia (se presupune)."],
       en: ["Robin Hood's Sherwood Forest.", "Nottingham Castle.", "Center of lace making.", "Oldest pub in England (allegedly)."]
@@ -1273,7 +1273,7 @@ export const unitedkingdomLandmarks: POI[] = [
       en: "Part of the British coastline facing France, known for their white chalk."
     },
     facts: {
-      de: ["Aus Kreide bestehend.", "Symbol der britischen Verteidigung.", "Erreichen über 100m Höhe.", "Blick auf den Ärmelkanal."],
+      de: ["Aus Kreide bestehend.", "Symbol der britischen Verteidigung.", "Erreichen über 100m Höhe.", "Blick auf den Črmelkanal."],
       hu: ["Krétából állnak.", "A brit védelem szimbóluma.", "Több mint 100 m magasak.", "Kilátás a La Manche csatornára."],
       ro: ["Compuse din cretă.", "Simbol al apărării britanice.", "Ating peste 100m înălțime.", "Vedere spre Canalul Mânecii."],
       en: ["Composed of chalk.", "Symbol of British defense.", "Reach over 100m in height.", "View over the English Channel."]
@@ -1667,7 +1667,7 @@ export const unitedkingdomLandmarks: POI[] = [
     name: { de: "Jurassic Coast", hu: "Jurassic Coast", ro: "Coasta Jurasică", en: "Jurassic Coast" },
     image: "/geo-images/united-kingdom/jurassic-coast.webp",
     description: {
-      de: "Ein Küstenabschnitt am Ärmelkanal in Südengland, berühmt für Fossilien.",
+      de: "Ein Küstenabschnitt am Črmelkanal in Südengland, berühmt für Fossilien.",
       hu: "A La Manche csatorna menti partszakasz Dél-Angliában, amely kövületeiről híres.",
       ro: "O secțiune de coastă la Canalul Mânecii în sudul Angliei, faimoasă pentru fosile.",
       en: "A stretch of coastline on the English Channel in southern England, famous for fossils."

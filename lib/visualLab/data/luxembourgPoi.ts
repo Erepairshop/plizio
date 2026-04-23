@@ -238,7 +238,7 @@ export const luxembourgAllPoi = [
     },
     facts: {
       de: [
-        "Älteste Stadt Luxemburgs (gegründet 698)",
+        "Člteste Stadt Luxemburgs (gegründet 698)",
         "UNESCO Immaterielles Kulturerbe: Springprozession",
         "St.-Willibrord-Basilika mit der Krypta des Heiligen",
         "Ehemalige Benediktinerabtei war ein Zentrum der Buchmalerei",
@@ -667,7 +667,7 @@ export const luxembourgCulture = [
       en: "A basilica in Luxembourg's oldest town, closely tied to its long monastic history."
     },
     facts: {
-      de: ["Älteste Stadt des Landes", "Starke Klostertradition", "Wichtiger Pilgerort"],
+      de: ["Člteste Stadt des Landes", "Starke Klostertradition", "Wichtiger Pilgerort"],
       hu: ["Az ország legrégebbi városa", "Erős kolostori hagyomány", "Fontos zarándokhely"],
       ro: ["Cel mai vechi oraș al țării", "Tradiție monastică puternică", "Loc important de pelerinaj"],
       en: ["Oldest town in the country", "Strong monastic tradition", "Important pilgrimage site"]

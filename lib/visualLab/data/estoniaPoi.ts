@@ -1361,13 +1361,13 @@ export const estoniaNature: POI[] = [
       en: "Vilsandi National Park"
     },
     description: {
-      de: "Ältester estnischer Nationalpark, Vogelinsel.",
+      de: "Čltester estnischer Nationalpark, Vogelinsel.",
       hu: "Észtország legrégebbi NP-je, madársziget.",
       ro: "Cel mai vechi parc național estonian, insulă a păsărilor.",
       en: "Estonia's oldest national park, a bird island."
     },
     facts: {
-      de: ["Ältester Nationalpark Estlands", "Vogelinsel"],
+      de: ["Čltester Nationalpark Estlands", "Vogelinsel"],
       hu: ["Észtország legrégebbi NP-je", "Madársziget"],
       ro: ["Cel mai vechi parc național estonian", "Insulă a păsărilor"],
       en: ["Estonia's oldest national park", "Bird island"]

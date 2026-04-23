@@ -210,7 +210,7 @@ export const maltaPoi: POI[] = [
     coords: [36.0475, 14.2692],
     parent: "MT",
     shortDesc: {
-      de: "Ein megalithischer Tempelkomplex auf Gozo, älter als die Pyramiden von Ägypten.",
+      de: "Ein megalithischer Tempelkomplex auf Gozo, älter als die Pyramiden von Čgypten.",
       hu: "Megalitikus templomkomplexum Gozón, régebbi, mint az egyiptomi piramisok.",
       ro: "Complex de temple megalitice pe Gozo, mai vechi decât piramidele din Egipt.",
       en: "A megalithic temple complex on Gozo, older than the pyramids of Egypt."

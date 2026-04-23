@@ -1515,7 +1515,7 @@ export const sloveniaCulture: POI[] = [
       en: "Dragon Bridge is one of Ljubljana's most iconic landmarks and a must-have city image. The green dragons on its corners made the bridge world-famous. For tourism, architecture, and Ljubljana SEO, it is a powerful anchor. The bridge ties river, city, and symbolism into one image."
     },
     facts: {
-      de: ["Berühmtes Drachenmotiv", "Wahrzeichen von Ljubljana", "Über die Ljubljanica", "Beliebter Fotostopp", "Sehenswürdigkeit der Jugendstil-Ära"],
+      de: ["Berühmtes Drachenmotiv", "Wahrzeichen von Ljubljana", "Über die Ljubljanica", "Beliebter Fotostopp", "Sehenswürdigkeit der Jugendstil-Čra"],
       hu: ["Híres sárkánymotívum", "Ljubljana jelképe", "A Ljubljanica fölött áll", "Népszerű fotómegálló", "Szecessziós korszak emléke"],
       ro: ["Motiv celebru cu dragoni", "Simbol al Ljubljanei", "Traversează Ljubljanica", "Oprire populară pentru fotografii", "Reper al erei Art Nouveau"],
       en: ["Famous dragon motif", "A Ljubljana symbol", "Crosses the Ljubljanica", "Popular photo stop", "An Art Nouveau landmark"]

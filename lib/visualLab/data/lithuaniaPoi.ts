@@ -493,13 +493,13 @@ export const lithuaniaAllPoi = [
       en: "Aukštaitija NP"
     },
     description: {
-      de: "Ältester Nationalpark, 126 Seen",
+      de: "Čltester Nationalpark, 126 Seen",
       hu: "Legrégebbi NP, 126 tó",
       ro: "Cel mai vechi parc național, 126 de lacuri",
       en: "Oldest national park, 126 lakes"
     },
     facts: {
-      de: ["Ältester Nationalpark", "126 Seen"],
+      de: ["Čltester Nationalpark", "126 Seen"],
       hu: ["Legrégebbi nemzeti park", "126 tó"],
       ro: ["Cel mai vechi parc național", "126 de lacuri"],
       en: ["Oldest national park", "126 lakes"]

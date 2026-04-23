@@ -330,7 +330,7 @@ export const belgiumCities: POI[] = [
     coords: [4.7005, 50.8798],
     name: { de: "Löwen", hu: "Leuven", ro: "Leuven", en: "Leuven" },
     description: {
-      de: "Älteste Universität Belgiens.",
+      de: "Člteste Universität Belgiens.",
       hu: "Belgium legrégibb egyeteme.",
       ro: "Cea mai veche universitate din Belgia.",
       en: "Oldest university in Belgium."

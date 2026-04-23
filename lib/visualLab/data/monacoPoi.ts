@@ -64,7 +64,7 @@ export const monacoDistricts: POI[] = [
       en: "Monaco's old town, also known as 'The Rock', home to the Prince's Palace and the Cathedral."
     },
     facts: {
-      de: ["Ältester Teil von Monaco", "Sitz der Regierung", "Blick auf Port Hercules", "Autofreie mittelalterliche Gassen"],
+      de: ["Čltester Teil von Monaco", "Sitz der Regierung", "Blick auf Port Hercules", "Autofreie mittelalterliche Gassen"],
       hu: ["Monaco legrégebbi része", "A kormány székhelye", "Kilátás a Port Herculesre", "Autómentes középkori utcák"],
       ro: ["Cea mai veche parte a Monaco", "Sediul guvernului", "Vedere spre Port Hercules", "Străzi medievale pietonale"],
       en: ["Oldest part of Monaco", "Seat of the government", "Overlooks Port Hercules", "Pedestrianized medieval streets"]
@@ -542,7 +542,7 @@ export const monacoLandmarks: POI[] = [
       en: "A museum documenting the prehistoric history of the region."
     },
     facts: {
-      de: ["Gegründet 1902", "Beinhaltet Funde aus lokalen Höhlen", "Ältestes Forschungsinstitut des Fürstentums", "Befindet sich im Exotischen Garten"],
+      de: ["Gegründet 1902", "Beinhaltet Funde aus lokalen Höhlen", "Čltestes Forschungsinstitut des Fürstentums", "Befindet sich im Exotischen Garten"],
       hu: ["1902-ben alapították", "Helyi barlangokból származó leletek", "A hercegség legrégebbi kutatóintézete", "Az Egzotikus kertben található"],
       ro: ["Fondat în 1902", "Conține descoperiri din peșterile locale", "Cea mai veche instituție de cercetare a principatului", "Situat în Grădina Exotică"],
       en: ["Founded in 1902", "Includes finds from local caves", "Principality's oldest research institute", "Located in the Exotic Garden"]
