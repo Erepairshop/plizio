@@ -103,6 +103,8 @@ export interface LanguageTestEngineConfig {
 
   // ── Curriculum ──
   curriculum: Record<number, CurriculumTheme[]>;
+  /** Optional: returns country-aware curriculum themes for grade+country. Overrides static `curriculum[grade]` when present. */
+  getCurriculumForCountry?: (grade: number, country: string) => CurriculumTheme[];
   getQuestions: (grade: number, subtopicIds: string[], count: number, countryCode?: string) => CurriculumQuestion[];
   generateForSubtopics?: (subtopicIds: string[], count: number) => CurriculumQuestion[];
   checkAnswer?: (given: string, expected: string | string[], grade: number) => boolean;

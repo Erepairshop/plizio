@@ -44,11 +44,12 @@ export function shuffleArr<T>(arr: T[]): T[] {
 
 // ─── Question fetcher by grade ────────────────────────────────────────────────
 function getQuestionsForGrade(grade: number, subtopicId: string, seed: number): CurriculumQuestion[] {
+  void seed; // currently unused; kept for API compatibility
   switch (grade) {
-    case 5: return getG5GeschichteQuestions(subtopicId, seed);
-    case 6: return getG6GeschichteQuestions(subtopicId, seed);
-    case 7: return getG7GeschichteQuestions(subtopicId, seed);
-    case 8: return getG8GeschichteQuestions(subtopicId, seed);
+    case 5: return getG5GeschichteQuestions(subtopicId, "de");
+    case 6: return getG6GeschichteQuestions(subtopicId, "de");
+    case 7: return getG7GeschichteQuestions(subtopicId, "de");
+    case 8: return getG8GeschichteQuestions(subtopicId, "de");
     default: return [];
   }
 }

@@ -3,6 +3,7 @@ import { getG5GeschichteQuestions, G5_GESCHICHTE_CURRICULUM } from "./geschichte
 import { getG6GeschichteQuestions, G6_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum6";
 import { getG7GeschichteQuestions, G7_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum7";
 import { getG8GeschichteQuestions, G8_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum8";
+import { getCountrySubtopics, getCountryQuestions } from "./geschichteCountryContent";
 import { G5_Generators_Geschichte } from "./geschichteGenerators5";
 import { G6_Generators_Geschichte } from "./geschichteGenerators6";
 import { G7_Generators_Geschichte } from "./geschichteGenerators7";
@@ -84,6 +85,43 @@ export const GESCHICHTE_CURRICULUM: Record<number, CurriculumTheme[]> = {
 
 export const GESCHICHTE_SUBTOPIC_HINTS: Record<string, string> = {};
 
+// Country-aware curriculum: returns themes with country-specific subtopics
+// when a supported country (US/GB/HU/RO) is selected. Falls back to the
+// grade's default curriculum (DE generator-backed).
+const COUNTRY_THEME_META: Record<string, { icon: string; color: string; name: Record<string, string> }> = {
+  us: { icon: "🇺🇸", color: "#3B82F6", name: { de: "US-Geschichte", hu: "USA történelem", ro: "Istoria SUA", en: "US History" } },
+  gb: { icon: "🇬🇧", color: "#6366F1", name: { de: "UK-Geschichte", hu: "UK történelem", ro: "Istoria UK", en: "UK History" } },
+  uk: { icon: "🇬🇧", color: "#6366F1", name: { de: "UK-Geschichte", hu: "UK történelem", ro: "Istoria UK", en: "UK History" } },
+  hu: { icon: "🇭🇺", color: "#EF4444", name: { de: "Ungarische Geschichte", hu: "Magyar történelem", ro: "Istoria Ungariei", en: "Hungarian History" } },
+  ro: { icon: "🇷🇴", color: "#F59E0B", name: { de: "Rumänische Geschichte", hu: "Román történelem", ro: "Istoria României", en: "Romanian History" } },
+};
+
+export function getCurriculumForCountry(grade: number, countryCode?: string): CurriculumTheme[] {
+  const defaultTheme = GESCHICHTE_CURRICULUM[grade] || [];
+  const cc = (countryCode || "").toLowerCase();
+  const meta = COUNTRY_THEME_META[cc];
+  const countrySubs = getCountrySubtopics(cc, grade);
+  if (!meta || countrySubs.length === 0) {
+    // No country override — return default (DE generator content)
+    return defaultTheme;
+  }
+  // Country theme with country-specific subtopics
+  return [
+    {
+      id: `g${grade}_country_${cc}`,
+      name: meta.name,
+      icon: meta.icon,
+      color: meta.color,
+      subtopics: countrySubs.map(s => ({
+        id: s.id,
+        name: s.names,
+        questions: [],
+        hasGenerator: true,
+      })),
+    },
+  ];
+}
+
 export function getGeschichteQuestions(
   grade: number,
   subtopicIds: string[],
@@ -102,8 +140,16 @@ export function getGeschichteQuestions(
   const fn = fetch[grade];
   if (!fn) return [];
 
+  const cc = (countryCode || "").toLowerCase();
+  const hasCountrySpecific = cc === "us" || cc === "gb" || cc === "uk" || cc === "hu" || cc === "ro";
+
   for (const id of subtopicIds) {
-    // Translate g{grade}_t{n} → real generator key if needed
+    // If user selected a supported country AND subtopic ID is a country-specific one, use country data
+    if (hasCountrySpecific && id.startsWith(cc === "uk" ? "gb_" : `${cc}_`) || (hasCountrySpecific && /^(us|gb|uk|hu|ro)_/.test(id))) {
+      const qs = getCountryQuestions(cc, grade, id, 35);
+      if (qs.length > 0) { pool.push(...qs); continue; }
+    }
+    // Fallback: default DE-generator curriculum
     const realId = mapToGeneratorKey(grade, id) || id;
     const qs = fn(realId, lang, 35);
     pool.push(...qs);

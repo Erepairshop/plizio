@@ -275,7 +275,13 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     setDateStr(new Date().toLocaleDateString(config.dateLocale, { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
   }, []);
 
-  const themes = (config.curriculum[grade] ?? []) as DeutschTheme[];
+  // Country-aware curriculum: if config exposes getCurriculumForCountry,
+  // call it so subtopic lists can vary by selected country (e.g. geschichte
+  // US/GB/HU/RO-specific topics). Fallback to static curriculum[grade].
+  const themes = ((config as any).getCurriculumForCountry
+    ? (config as any).getCurriculumForCountry(grade, country)
+    : (config.curriculum[grade] ?? [])
+  ) as DeutschTheme[];
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
   const langPrefix = country === "US" || country === "GB" ? "en" : country === "RO" ? "ro" : country === "HU" ? "hu" : "de";

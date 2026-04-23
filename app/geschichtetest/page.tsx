@@ -6,6 +6,7 @@ import {
   getGeschichteQuestions,
   calculateGeschichteMark,
   GESCHICHTE_SUBTOPIC_HINTS,
+  getCurriculumForCountry,
 } from "@/lib/geschichteCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
@@ -45,6 +46,7 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
   },
 
   curriculum: GESCHICHTE_CURRICULUM as any,
+  getCurriculumForCountry: getCurriculumForCountry as any,
   getQuestions: getGeschichteQuestions as any,
   subtopicHints: GESCHICHTE_SUBTOPIC_HINTS,
 
