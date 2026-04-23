@@ -619,7 +619,571 @@ export const belarusRegions: POI[] = [
   }
 ];
 
+export const belarusLocalPois: POI[] = [
+  {
+    id: "BY-001-gomel-palace",
+    type: "landmark",
+    parent: "BY-001",
+    coords: [31.0211, 52.4222],
+    name: {
+      de: "Schloss Homel",
+      hu: "Homeli palota",
+      ro: "Palatul din Gomel",
+      en: "Gomel Palace"
+    },
+    description: {
+      de: "Ein prächtiger Palastkomplex am Ufer des Flusses Sosch, ein Meisterwerk des Klassizismus.",
+      hu: "Pompás palotaegyüttes a Szozs folyó partján, a klasszicizmus egyik remekműve.",
+      ro: "Un complex magnific de palate pe malul râului Sozh, o capodoperă a clasicismului.",
+      en: "A magnificent palace complex on the banks of the Sozh River, a masterpiece of Classicism."
+    },
+    facts: {
+      de: [
+        "Erbaut im 18. und 19. Jahrhundert für russische Adlige.",
+        "Früher im Besitz des Feldmarschalls Iwan Paskewitsch.",
+        "Umgeben von einem weitläufigen Landschaftspark mit seltenen Baumarten."
+      ],
+      hu: [
+        "A 18. és 19. században épült orosz nemesi családok számára.",
+        "Korábban Ivan Paszkievics tábornagy tulajdonában volt.",
+        "Hatalmas tájképi kert veszi körül, ritka fafajtákkal."
+      ],
+      ro: [
+        "Construit în secolele XVIII și XIX pentru nobilii ruși.",
+        "Aparținea anterior feldmareșalului Ivan Paskevich.",
+        "Înconjurat de un parc peisagistic vast cu specii de arbori rare."
+      ],
+      en: [
+        "Built in the 18th and 19th centuries for Russian nobles.",
+        "Formerly owned by Field Marshal Ivan Paskevich.",
+        "Surrounded by a vast landscape park with rare tree species."
+      ]
+    }
+  },
+  {
+    id: "BY-001-mozyr-castle",
+    type: "historical",
+    parent: "BY-001",
+    coords: [29.2736, 52.0478],
+    name: {
+      de: "Burg Masyr",
+      hu: "Maziri vár",
+      ro: "Castelul Mazyr",
+      en: "Mozyr Castle"
+    },
+    description: {
+      de: "Eine rekonstruierte Holzfestung auf einem Hügel mit Blick auf den Fluss Pripjat.",
+      hu: "Rekonstruált faerőd egy dombon, ahonnan kilátás nyílik a Pripjaty folyóra.",
+      ro: "O cetate de lemn reconstruită pe un deal cu vedere la râul Pripyat.",
+      en: "A reconstructed wooden fortress on a hill overlooking the Pripyat River."
+    },
+    facts: {
+      de: [
+        "Die ursprüngliche Burg stammt aus dem 15. Jahrhundert.",
+        "Befindet sich auf dem historischen 'Gomelskaja'-Hügel.",
+        "Bietet einen Panoramablick auf den sogenannten 'belarussischen Amazonas'."
+      ],
+      hu: [
+        "Az eredeti vár a 15. századból származik.",
+        "A történelmi 'Gomelszkaja' dombon található.",
+        "Panorámás kilátást nyújt az úgynevezett 'fehérorosz Amazonaszra'."
+      ],
+      ro: [
+        "Castelul original datează din secolul al XV-lea.",
+        "Situat pe dealul istoric „Gomelskaya”.",
+        "Oferă o vedere panoramică asupra așa-numitului „Amazon belarus”."
+      ],
+      en: [
+        "The original castle dates back to the 15th century.",
+        "Located on the historic 'Gomelskaya' hill.",
+        "Offers panoramic views of the so-called 'Belarusian Amazon'."
+      ]
+    }
+  },
+  {
+    id: "BY-002-brest-fortress",
+    type: "landmark",
+    parent: "BY-002",
+    coords: [23.6550, 52.0828],
+    name: {
+      de: "Festung Brest",
+      hu: "Breszti erőd",
+      ro: "Cetatea Brest",
+      en: "Brest Fortress"
+    },
+    description: {
+      de: "Eine Heldenfestung, bekannt für ihre heldenhafte Verteidigung im Jahr 1941.",
+      hu: "Hős-erőd, amely az 1941-es hősies védelméről ismert.",
+      ro: "O cetate-erou, cunoscută pentru apărarea sa eroică din 1941.",
+      en: "A hero-fortress known for its heroic defense in 1941."
+    },
+    facts: {
+      de: [
+        "Beherbergt das monumentale 'Mut'-Denkmal.",
+        "Liegt am Zusammenfluss der Flüsse Muchawez und Bug.",
+        "Ein wichtiges Symbol des sowjetischen Widerstands im Zweiten Weltkrieg."
+      ],
+      hu: [
+        "Itt található a monumentális 'Bátorság' emlékmű.",
+        "A Muhavec és a Bug folyók összefolyásánál fekszik.",
+        "A szovjet ellenállás egyik legfontosabb szimbóluma a második világháborúban."
+      ],
+      ro: [
+        "Găzduiește monumentul monumental „Curaj”.",
+        "Situată la confluența râurilor Mukhavets și Bug.",
+        "Un simbol important al rezistenței sovietice în cel de-al Doilea Război Mondial."
+      ],
+      en: [
+        "Houses the monumental 'Courage' memorial.",
+        "Located at the confluence of the Mukhavets and Bug rivers.",
+        "A key symbol of Soviet resistance in World War II."
+      ]
+    }
+  },
+  {
+    id: "BY-002-kamenets-tower",
+    type: "historical",
+    parent: "BY-002",
+    coords: [23.8200, 52.4047],
+    name: {
+      de: "Kamenez-Turm",
+      hu: "Kamanyeci torony",
+      ro: "Turnul din Kameneț",
+      en: "Kamenets Tower"
+    },
+    description: {
+      de: "Ein Backsteinturm aus dem 13. Jahrhundert, ein seltenes Beispiel mittelalterlicher Verteidigungsarchitektur.",
+      hu: "13. századi téglatorony, a középkori védelmi építészet ritka példája.",
+      ro: "Un turn de cărămidă din secolul al XIII-lea, un exemplu rar de arhitectură defensivă medievală.",
+      en: "A 13th-century brick tower, a rare example of medieval defensive architecture."
+    },
+    facts: {
+      de: [
+        "Wird oft als 'Weißer Turm' (Belaja Wescha) bezeichnet.",
+        "Erbaut zwischen 1271 und 1289.",
+        "Erreicht eine Höhe von 30 Metern mit 2,5 Meter dicken Mauern."
+      ],
+      hu: [
+        "Gyakran 'Fehér toronynak' (Belaja Vezsa) nevezik.",
+        "1271 és 1289 között épült.",
+        "30 méter magas, falai 2,5 méter vastagok."
+      ],
+      ro: [
+        "Adesea numit „Turnul Alb” (Belaya Vezha).",
+        "Construit între 1271 și 1289.",
+        "Atinge o înălțime de 30 de metri, cu ziduri groase de 2,5 metri."
+      ],
+      en: [
+        "Often called the 'White Tower' (Belaya Vezha).",
+        "Built between 1271 and 1289.",
+        "Reaches a height of 30 meters with walls 2.5 meters thick."
+      ]
+    }
+  },
+  {
+    id: "BY-003-polotsk-cathedral",
+    type: "landmark",
+    parent: "BY-003",
+    coords: [28.7583, 55.4858],
+    name: {
+      de: "Sophienkathedrale Polozk",
+      hu: "Polocki Szófia-székesegyház",
+      ro: "Catedrala Sfânta Sofia din Polotsk",
+      en: "Saint Sophia Cathedral"
+    },
+    description: {
+      de: "Eine der ältesten Kirchen Osteuropas, ursprünglich im 11. Jahrhundert erbaut.",
+      hu: "Kelet-Európa egyik legrégebbi temploma, eredetileg a 11. században épült.",
+      ro: "Una dintre cele mai vechi biserici din Europa de Est, construită inițial în secolul al XI-lea.",
+      en: "One of the oldest churches in Eastern Europe, originally built in the 11th century."
+    },
+    facts: {
+      de: [
+        "Eine von drei Sophienkathedralen in der Kiewer Rus.",
+        "Im 18. Jahrhundert im Stil des Wilnaer Barocks umgebaut.",
+        "Bekannt für ihre hervorragende Akustik und regelmäßige Orgelkonzerte."
+      ],
+      hu: [
+        "A Kijevi Rusz három Szófia-székesegyházának egyike.",
+        "A 18. században vilniusi barokk stílusban építették át.",
+        "Kiváló akusztikájáról és rendszeres orgonakoncertjeiről ismert."
+      ],
+      ro: [
+        "Una dintre cele trei catedrale Sfânta Sofia din Rusia Kieveană.",
+        "Reconstruită în stil baroc de Vilnius în secolul al XVIII-lea.",
+        "Cunoscută pentru acustica sa excelentă și concertele regulate de orgă."
+      ],
+      en: [
+        "One of the three Saint Sophia cathedrals in Kievan Rus.",
+        "Rebuilt in Vilnius Baroque style in the 18th century.",
+        "Known for its excellent acoustics and regular organ concerts."
+      ]
+    }
+  },
+  {
+    id: "BY-003-braslav-lakes",
+    type: "nature",
+    parent: "BY-003",
+    coords: [27.0306, 55.5986],
+    name: {
+      de: "Nationalpark Braslawer Seen",
+      hu: "Braszlavi-tavak Nemzeti Park",
+      ro: "Parcul Național Lacurile Braslav",
+      en: "Braslav Lakes National Park"
+    },
+    description: {
+      de: "Ein malerisches Seengebiet im Norden von Belarus mit einzigartiger Flora und Fauna.",
+      hu: "Festői tóvidék Fehéroroszország északi részén, egyedülálló növény- és állatvilággal.",
+      ro: "O zonă pitorească de lacuri în nordul Belarusului, cu o floră și faună unică.",
+      en: "A picturesque lake district in northern Belarus with unique flora and fauna."
+    },
+    facts: {
+      de: [
+        "Umfasst mehr als 30 miteinander verbundene Seen.",
+        "Heimat vieler seltener Vogelarten wie dem Schwarzstorch.",
+        "Geprägt durch eine markante eiszeitliche Hügellandschaft."
+      ],
+      hu: [
+        "Több mint 30 egymással összeköttetésben álló tavat foglal magában.",
+        "Számos ritka madárfaj, például a fekete gólya otthona.",
+        "Jellegzetes eljegesedés utáni dombos táj jellemzi."
+      ],
+      ro: [
+        "Cuprinde peste 30 de lacuri interconectate.",
+        "Adăpostește multe specii de păsări rare, cum ar fi barza neagră.",
+        "Caracterizat printr-un peisaj deluros glaciar distinctiv."
+      ],
+      en: [
+        "Includes more than 30 interconnected lakes.",
+        "Home to many rare bird species such as the black stork.",
+        "Characterized by a distinctive post-glacial hilly landscape."
+      ]
+    }
+  },
+  {
+    id: "BY-004-mir-castle",
+    type: "landmark",
+    parent: "BY-004",
+    coords: [26.4731, 53.4511],
+    name: {
+      de: "Schloss Mir",
+      hu: "Miri várkastély",
+      ro: "Castelul Mir",
+      en: "Mir Castle"
+    },
+    description: {
+      de: "Ein UNESCO-Welterbe und eines der beeindruckendsten Schlösser Osteuropas.",
+      hu: "UNESCO Világörökség része, Kelet-Európa egyik leglenyűgözőbb kastélya.",
+      ro: "Un sit al Patrimoniului Mondial UNESCO și unul dintre cele mai impresionante castele din Europa de Est.",
+      en: "A UNESCO World Heritage site and one of the most impressive castles in Eastern Europe."
+    },
+    facts: {
+      de: [
+        "Vereint Architekturstile der Gotik, Renaissance und des Barocks.",
+        "War jahrhundertelang im Besitz der mächtigen Familie Radziwill.",
+        "Verfügt über ein ausgeklügeltes System von Befestigungsanlagen und Wassergräben."
+      ],
+      hu: [
+        "Gótikus, reneszánsz és barokk építészeti stílusokat ötvöz.",
+        "Évszázadokon át a hatalmas Radziwill család tulajdonában volt.",
+        "Kifinomult erődítményrendszerrel és vizesárkokkal rendelkezik."
+      ],
+      ro: [
+        "Combină stilurile arhitecturale gotic, renascentist și baroc.",
+        "A fost deținut timp de secole de puternica familie Radziwill.",
+        "Dispune de un sistem sofisticat de fortificații și șanțuri cu apă."
+      ],
+      en: [
+        "Combines Gothic, Renaissance, and Baroque architectural styles.",
+        "Owned for centuries by the powerful Radziwill family.",
+        "Features a sophisticated system of fortifications and moats."
+      ]
+    }
+  },
+  {
+    id: "BY-004-lida-castle",
+    type: "historical",
+    parent: "BY-004",
+    coords: [25.3025, 53.8872],
+    name: {
+      de: "Schloss Lida",
+      hu: "Lidai vár",
+      ro: "Castelul Lida",
+      en: "Lida Castle"
+    },
+    description: {
+      de: "Eine mittelalterliche Festung, die im 14. Jahrhundert zum Schutz gegen Kreuzritter errichtet wurde.",
+      hu: "Középkori erőd, amelyet a 14. században emeltek a keresztes lovagok elleni védelemül.",
+      ro: "O cetate medievală construită în secolul al XIV-lea pentru protecție împotriva cruciaților.",
+      en: "A medieval fortress built in the 14th century for protection against crusaders."
+    },
+    facts: {
+      de: [
+        "Erbaut auf Befehl des Großfürsten Gediminas von Litauen.",
+        "Hat eine charakteristische viereckige Form mit zwei Ecktürmen.",
+        "Häufiger Austragungsort für Ritterturniere und Mittelalterfeste."
+      ],
+      hu: [
+        "Gediminas litván nagyfejedelem parancsára épült.",
+        "Jellegzetes négyszögletes alaprajzú, két saroktoronnyal.",
+        "Gyakran ad otthont lovagi tornáknak és középkori fesztiváloknak."
+      ],
+      ro: [
+        "Construit la ordinul Marelui Duce Gediminas al Lituaniei.",
+        "Are o formă patrulateră caracteristică, cu două turnuri de colț.",
+        "Locație frecventă pentru turnee de cavalerie și festivaluri medievale."
+      ],
+      en: [
+        "Built by order of Grand Duke Gediminas of Lithuania.",
+        "Has a characteristic quadrilateral shape with two corner towers.",
+        "Frequent venue for knight tournaments and medieval festivals."
+      ]
+    }
+  },
+  {
+    id: "BY-005-mogilev-town-hall",
+    type: "landmark",
+    parent: "BY-005",
+    coords: [30.3311, 53.8944],
+    name: {
+      de: "Rathaus von Mogilev",
+      hu: "Mahiljovi városháza",
+      ro: "Primăria din Moghilău",
+      en: "Mogilev Town Hall"
+    },
+    description: {
+      de: "Ein rekonstruiertes Wahrzeichen der Stadt, das die Geschichte der Selbstverwaltung widerspiegelt.",
+      hu: "A város rekonstruált jelképe, amely az önkormányzatiság történetét tükrözi.",
+      ro: "Un simbol reconstruit al orașului, reflectând istoria autoguvernării.",
+      en: "A reconstructed landmark of the city, reflecting the history of self-government."
+    },
+    facts: {
+      de: [
+        "Das ursprüngliche Gebäude stammte aus dem 17. Jahrhundert.",
+        "Wurde 2008 originalgetreu an seinem historischen Platz wiederaufgebaut.",
+        "Ein mechanischer Trompeter spielt dreimal täglich vom Turm aus."
+      ],
+      hu: [
+        "Az eredeti épület a 17. századból származott.",
+        "2008-ban építették újjá hűen az eredeti formájában a történelmi helyén.",
+        "Egy mechanikus trombitás naponta háromszor játszik a toronyból."
+      ],
+      ro: [
+        "Clădirea originală data din secolul al XVII-lea.",
+        "Reconstruită fidel în 2008 pe locul său istoric.",
+        "Un trompetist mecanic cântă din turn de trei ori pe zi."
+      ],
+      en: [
+        "The original building dated back to the 17th century.",
+        "Rebuilt faithfully in 2008 at its historic location.",
+        "A mechanical trumpeter plays from the tower three times a day."
+      ]
+    }
+  },
+  {
+    id: "BY-005-bobruisk-fortress",
+    type: "historical",
+    parent: "BY-005",
+    coords: [29.2386, 53.1394],
+    name: {
+      de: "Festung Bobruisk",
+      hu: "Babrujszki erőd",
+      ro: "Cetatea Bobruisk",
+      en: "Bobruisk Fortress"
+    },
+    description: {
+      de: "Eine riesige Festungsanlage aus dem 19. Jahrhundert, die Napoleon widerstand.",
+      hu: "Hatalmas 19. századi erődrendszer, amely ellenállt Napóleonnak.",
+      ro: "Un sistem masiv de fortificații din secolul al XIX-lea care a rezistat lui Napoleon.",
+      en: "A massive 19th-century fortress system that withstood Napoleon."
+    },
+    facts: {
+      de: [
+        "War einst eine der stärksten Festungen des Russischen Reiches.",
+        "Überlebte eine viermonatige Belagerung durch napoleonische Truppen im Jahr 1812.",
+        "Heute sind viele der markanten roten Backsteinbauten noch erhalten."
+      ],
+      hu: [
+        "Egykor az Orosz Birodalom egyik legerősebb erődje volt.",
+        "1812-ben túlélte a napóleoni csapatok négy hónapos ostromát.",
+        "Ma is számos jellegzetes vörös téglás épülete látható."
+      ],
+      ro: [
+        "A fost odată una dintre cele mai puternice cetăți ale Imperiului Rus.",
+        "A supraviețuit unui asediu de patru luni al trupelor napoleoniene în 1812.",
+        "Astăzi, multe dintre clădirile sale distinctive din cărămidă roșie sunt încă păstrate."
+      ],
+      en: [
+        "Was once one of the strongest fortresses of the Russian Empire.",
+        "Survived a four-month siege by Napoleonic troops in 1812.",
+        "Today, many of its distinctive red-brick buildings are still preserved."
+      ]
+    }
+  },
+  {
+    id: "BY-006-nesvizh-castle",
+    type: "landmark",
+    parent: "BY-006",
+    coords: [26.6914, 53.2228],
+    name: {
+      de: "Schloss Nesvizh",
+      hu: "Nyeszvizsi kastély",
+      ro: "Castelul Nesvizh",
+      en: "Nesvizh Castle"
+    },
+    description: {
+      de: "Die prachtvolle Residenz der Familie Radziwill, umgeben von weitläufigen Gärten.",
+      hu: "A Radziwill család pompás rezidenciája, kiterjedt kertekkel körülvéve.",
+      ro: "Splendida reședință a familiei Radziwill, înconjurată de grădini vaste.",
+      en: "The magnificent residence of the Radziwill family, surrounded by expansive gardens."
+    },
+    facts: {
+      de: [
+        "UNESCO-Welterbe und Zentrum des belarussischen Barocks.",
+        "Beherbergt eine wertvolle Sammlung von Kunstwerken und Archiven.",
+        "Die nahegelegene Fronleichnamskirche ist der erste Barockbau der Region."
+      ],
+      hu: [
+        "UNESCO Világörökség része és a fehérorosz barokk központja.",
+        "Értékes műalkotás- és archívumgyűjteménynek ad otthont.",
+        "A közeli Úrnapja-templom a régió első barokk épülete."
+      ],
+      ro: [
+        "Patrimoniu Mondial UNESCO și centrul barocului belarus.",
+        "Găzduiește o colecție valoroasă de opere de artă și arhive.",
+        "Biserica Corpus Christi din apropiere este prima clădire barocă din regiune."
+      ],
+      en: [
+        "UNESCO World Heritage site and a center of Belarusian Baroque.",
+        "Houses a valuable collection of artworks and archives.",
+        "The nearby Corpus Christi Church is the first Baroque building in the region."
+      ]
+    }
+  },
+  {
+    id: "BY-006-khatyn-memorial",
+    type: "historical",
+    parent: "BY-006",
+    coords: [27.9400, 54.3350],
+    name: {
+      de: "Gedenkstätte Chatyn",
+      hu: "Hatinyi emlékmű",
+      ro: "Memorialul Khatyn",
+      en: "Khatyn Memorial"
+    },
+    description: {
+      de: "Ein ergreifendes Denkmal für die während des Zweiten Weltkriegs zerstörten belarussischen Dörfer.",
+      hu: "Megható emlékmű a második világháború alatt elpusztított fehérorosz falvak emlékére.",
+      ro: "Un monument emoționant dedicat satelor belaruse distruse în timpul celui de-al Doilea Război Mondial.",
+      en: "A moving memorial to the Belarusian villages destroyed during World War II."
+    },
+    facts: {
+      de: [
+        "Alle 30 Sekunden läutet eine Glocke zum Gedenken an die Opfer.",
+        "Die Statue des 'unbeugsamen Mannes' bildet das Zentrum der Anlage.",
+        "Der 'Friedhof der Dörfer' listet 186 Orte auf, die nie wieder aufgebaut wurden."
+      ],
+      hu: [
+        "30 másodpercenként megszólal egy harang az áldozatok emlékére.",
+        "A 'meg nem tört ember' szobra alkotja a komplexum központját.",
+        "A 'falvak temetője' 186 olyan helyet sorol fel, amelyeket soha nem építettek újjá."
+      ],
+      ro: [
+        "La fiecare 30 de secunde, un clopot bate în memoria victimelor.",
+        "Statuia „omului neîfrânt” formează centrul complexului.",
+        "„Cimitirul satelor” enumeră 186 de locuri care nu au mai fost reconstruite niciodată."
+      ],
+      en: [
+        "Every 30 seconds, a bell tolls in memory of the victims.",
+        "The statue of the 'unconquered man' forms the center of the complex.",
+        "The 'Cemetery of Villages' lists 186 places that were never rebuilt."
+      ]
+    }
+  },
+  {
+    id: "BY-007-national-library",
+    type: "landmark",
+    parent: "BY-007",
+    coords: [27.6461, 53.9314],
+    name: {
+      de: "Nationalbibliothek von Belarus",
+      hu: "Fehérorosz Nemzeti Könyvtár",
+      ro: "Biblioteca Națională a Belarusului",
+      en: "National Library of Belarus"
+    },
+    description: {
+      de: "Ein futuristisches Gebäude in Minsk, bekannt für seine einzigartige geometrische Form.",
+      hu: "Futurisztikus épület Minszkben, amely egyedülálló geometriai formájáról ismert.",
+      ro: "O clădire futuristă din Minsk, cunoscută pentru forma sa geometrică unică.",
+      en: "A futuristic building in Minsk, known for its unique geometric shape."
+    },
+    facts: {
+      de: [
+        "Hat die Form eines Rhombenkuboktaeders.",
+        "Die Glasfassade wird nachts durch tausende LEDs beleuchtet.",
+        "Beherbergt über 10 Millionen Medieneinheiten."
+      ],
+      hu: [
+        "Rombikuboktaéder alakú építmény.",
+        "Üveg homlokzatát éjszaka LED-ek ezrei világítják meg.",
+        "Több mint 10 millió dokumentumot őriz."
+      ],
+      ro: [
+        "Are forma unui rombicuboctaedru.",
+        "Fațada de sticlă este iluminată noaptea de mii de LED-uri.",
+        "Găzduiește peste 10 milioane de unități media."
+      ],
+      en: [
+        "Shaped like a rhombicuboctahedron.",
+        "The glass facade is illuminated at night by thousands of LEDs.",
+        "Houses over 10 million media items."
+      ]
+    }
+  },
+  {
+    id: "BY-007-victory-square",
+    type: "landmark",
+    parent: "BY-007",
+    coords: [27.5750, 53.9086],
+    name: {
+      de: "Siegesplatz (Minsk)",
+      hu: "Győzelem tere (Minszk)",
+      ro: "Piața Victoriei (Minsk)",
+      en: "Victory Square"
+    },
+    description: {
+      de: "Ein zentraler Platz in Minsk mit einem monumentalen Obelisken zum Gedenken an den Sieg im Zweiten Weltkrieg.",
+      hu: "Központi tér Minszkben, monumentális obeliszkkel a második világháborús győzelem emlékére.",
+      ro: "O piață centrală din Minsk, cu un obelisc monumental în memoria victoriei din cel de-al Doilea Război Mondial.",
+      en: "A central square in Minsk with a monumental obelisk commemorating victory in WWII."
+    },
+    facts: {
+      de: [
+        "Der Obelisk ist 38 Meter hoch und wird von vier Reliefs geschmückt.",
+        "Am Fuße des Denkmals brennt eine ewige Flamme.",
+        "Ein wichtiger Ort für nationale Feiertage und Paraden."
+      ],
+      hu: [
+        "Az obeliszk 38 méter magas, és négy dombormű díszíti.",
+        "Az emlékmű lábánál örökláng ég.",
+        "Nemzeti ünnepek és parádék fontos helyszíne."
+      ],
+      ro: [
+        "Obeliscul are 38 de metri înălțime și este decorat cu patru reliefuri.",
+        "O flacără eternă arde la baza monumentului.",
+        "Un loc important pentru sărbătorile naționale și parade."
+      ],
+      en: [
+        "The obelisk is 38 meters tall and decorated with four reliefs.",
+        "An eternal flame burns at the base of the monument.",
+        "An important site for national holidays and parades."
+      ]
+    }
+  }
+];
+
 export const belarusAllPoi: POI[] = [
   belarusCountry,
-  ...belarusRegions
+  ...belarusRegions,
+  ...belarusLocalPois
 ];
