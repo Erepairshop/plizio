@@ -43,13 +43,13 @@ export function getG8GeschichteQuestions(subtopicId: string, countryCode: string
   const topic = G8_SUBTOPICS.find(x => x.id === subtopicId);
   if (!topic) return [];
 
-  if (lang === "de") {
-    const gen = G8_Generators_Geschichte[subtopicId];
-    if (gen) {
-      const all = gen(Math.floor(Math.random() * 10000));
-      return [...all].sort(() => Math.random() - 0.5).slice(0, count);
-    }
+  // TEMP: serve DE content for all languages until HU/RO/EN content is generated
+  const gen = G8_Generators_Geschichte[subtopicId];
+  if (gen) {
+    const all = gen(Math.floor(Math.random() * 10000));
+    return [...all].sort(() => Math.random() - 0.5).slice(0, count);
   }
+  void lang;
 
   const topicName = (topic.names as any)[lang] || topic.names.en;
   const pool: CurriculumQuestion[] = [];

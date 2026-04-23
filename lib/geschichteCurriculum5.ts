@@ -45,16 +45,16 @@ export function getG5GeschichteQuestions(subtopicId: string, countryCode: string
   const topic = G5_SUBTOPICS.find(x => x.id === subtopicId);
   if (!topic) return [];
 
-  // DE: use real hand-written generator content
-  if (lang === "de") {
-    const gen = G5_Generators_Geschichte[subtopicId];
-    if (gen) {
-      const all = gen();
-      // shuffle + slice up to `count`
-      const shuffled = [...all].sort(() => Math.random() - 0.5);
-      return shuffled.slice(0, count);
-    }
+  // Real hand-written generator content (currently DE-only)
+  // TEMP: serve DE content for all languages until HU/RO/EN content is generated
+  // (prior behavior was placeholder '[Topic] MCQ N?' for non-DE)
+  const gen = G5_Generators_Geschichte[subtopicId];
+  if (gen) {
+    const all = gen();
+    const shuffled = [...all].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, count);
   }
+  void lang;
 
   // HU/RO/EN fallback — until lang-specific content is generated
   const topicName = (topic.names as any)[lang] || topic.names.en;
