@@ -9,26 +9,50 @@ export const albaniaCountry: POI = {
     en: "Albania"
   },
   shortDesc: {
-    de: "Albanien ist ein Land auf der Balkanhalbinsel in Südosteuropa.",
-    hu: "Albánia a Balkán-félszigeten, Délkelet-Európában található.",
-    ro: "Albania este o țară din Peninsula Balcanică, în Europa de Sud-Est.",
-    en: "Albania is a country on the Balkan Peninsula in Southeastern Europe."
+    de: "Land der Adler",
+    hu: "A sasok földje",
+    ro: "Țara Vulturilor",
+    en: "Land of the Eagles"
   },
   longDesc: {
-    de: "Albanien ist reich an Geschichte und Naturschönheiten, mit malerischen Stränden, schroffen Bergen und einer einzigartigen Kultur.",
-    hu: "Albánia gazdag történelemmel és természeti csodákkal rendelkezik, festői tengerpartokkal és lenyűgöző hegyekkel.",
-    ro: "Albania este bogată în istorie și frumuseți naturale, având plaje pitorești, munți accidentați și o cultură unică.",
-    en: "Albania is rich in history and natural beauty, featuring picturesque beaches, rugged mountains, and a unique culture."
+    de: "Ein faszinierendes Land auf der Balkanhalbinsel mit einer reichen Geschichte, beeindruckenden Berglandschaften und einer wunderschönen Adriaküste.",
+    hu: "Lenyűgöző ország a Balkán-félszigeten, gazdag történelemmel, lenyűgöző hegyi tájakkal és gyönyörű adriai partvidékkel.",
+    ro: "O țară fascinantă din Peninsula Balcanică, cu o istorie bogată, peisaje montane impresionante și o coastă adriatică superbă.",
+    en: "A fascinating country on the Balkan Peninsula with a rich history, impressive mountain landscapes, and a beautiful Adriatic coast."
   },
   type: "country",
   coords: [41.1533, 20.1683],
   parent: "europe",
-  facts: [
-    "Tirana is the capital.",
-    "Known for its thousands of bunkers.",
-    "Mother Teresa is of Albanian descent."
-  ],
-  image: "/geo-images/albania/country-albania.webp"
+  facts: {
+    de: [
+      "Albanien hat über 300 Sonnentage im Jahr.",
+      "Die albanische Sprache ist ein eigener Zweig der indogermanischen Sprachen.",
+      "Es gibt mehr Albaner, die außerhalb des Landes leben als innerhalb.",
+      "Mutter Teresa war albanischer Herkunft.",
+      "Das Land hat eine der gastfreundlichsten Kulturen der Welt."
+    ],
+    hu: [
+      "Albániában évente több mint 300 napsütéses nap van.",
+      "Az albán nyelv az indoeurópai nyelvcsalád különálló ága.",
+      "Több albán él az országon kívül, mint azon belül.",
+      "Teréz anya albán származású volt.",
+      "Az ország a világ egyik legvendégszeretőbb kultúrájával rendelkezik."
+    ],
+    ro: [
+      "Albania are peste 300 de zile însorite pe an.",
+      "Limba albaneză este o ramură distinctă a limbilor indoeuropene.",
+      "Există mai mulți albanezi care trăiesc în afara țării decât în interiorul ei.",
+      "Maica Tereza a fost de origine albaneză.",
+      "Țara are una dintre cele mai ospitaliere culturi din lume."
+    ],
+    en: [
+      "Albania has over 300 sunny days a year.",
+      "The Albanian language is a distinct branch of the Indo-European languages.",
+      "There are more Albanians living outside the country than inside.",
+      "Mother Teresa was of Albanian descent.",
+      "The country has one of the most hospitable cultures in the world."
+    ]
+  }
 };
 
 export const albaniaCities: POI[] = [
@@ -39,88 +63,193 @@ export const albaniaCities: POI[] = [
     longDesc: { de: "Die pulsierende Hauptstadt Albaniens.", hu: "Albánia lüktető fővárosa.", ro: "Capitala vibrantă a Albaniei.", en: "The vibrant capital of Albania." },
     type: "city",
     coords: [41.3275, 19.8187],
-    parent: "country-albania"
+    parent: "AL-009",
+    facts: {
+      de: ["Hauptstadt seit 1920.", "Bekannt für bunte Gebäude.", "Zentrum der albanischen Kultur."],
+      hu: ["1920 óta főváros.", "Színes épületeiről ismert.", "Az albán kultúra központja."],
+      ro: ["Capitală din 1920.", "Cunoscută pentru clădirile colorate.", "Centrul culturii albaneze."],
+      en: ["Capital since 1920.", "Known for colorful buildings.", "Center of Albanian culture."]
+    }
   },
   {
     id: "city-durres",
     name: { de: "Durrës", hu: "Durrës", ro: "Durrës", en: "Durrës" },
-    shortDesc: { de: "Historische Hafenstadt", hu: "Történelmi kikötőváros", ro: "Oraș port istoric", en: "Historic port city" },
-    longDesc: { de: "Wichtige Hafenstadt mit römischem Amphitheater.", hu: "Fontos kikötőváros római amfiteátrummal.", ro: "Port important cu amfiteatru roman.", en: "Important port city with a Roman amphitheater." },
+    shortDesc: { de: "Hafenstadt", hu: "Kikötőváros", ro: "Oraș portuar", en: "Port city" },
+    longDesc: { de: "Eine der ältesten Städte Albaniens mit einem großen römischen Amphitheater.", hu: "Albánia egyik legrégebbi városa egy hatalmas római amfiteátrummal.", ro: "Unul dintre cele mai vechi orașe din Albania, cu un mare amfiteatru roman.", en: "One of Albania's oldest cities with a large Roman amphitheater." },
     type: "city",
     coords: [41.3246, 19.4558],
-    parent: "country-albania"
+    parent: "AL-010",
+    facts: {
+      de: ["Größter Hafen des Landes.", "Antikes Amphitheater.", "Beliebter Strandort."],
+      hu: ["Az ország legnagyobb kikötője.", "Ókori amfiteátrum.", "Népszerű tengerparti hely."],
+      ro: ["Cel mai mare port al țării.", "Amfiteatru antic.", "Stațiune populară."],
+      en: ["Largest port in the country.", "Ancient amphitheater.", "Popular beach destination."]
+    }
   },
   {
     id: "city-vlore",
-    name: { de: "Vlora", hu: "Vlora", ro: "Vlora", en: "Vlorë" },
-    shortDesc: { de: "Stadt der Unabhängigkeit", hu: "A függetlenség városa", ro: "Orașul independenței", en: "City of Independence" },
-    longDesc: { de: "Küstenstadt, in der die albanische Unabhängigkeit erklärt wurde.", hu: "Tengerparti város, ahol kikiáltották az albán függetlenséget.", ro: "Oraș de coastă unde a fost declarată independența.", en: "Coastal city where independence was declared." },
+    name: { de: "Vlorë", hu: "Vlorë", ro: "Vlorë", en: "Vlorë" },
+    shortDesc: { de: "Stadt der Unabhängigkeit", hu: "A függetlenség városa", ro: "Orașul independenței", en: "City of independence" },
+    longDesc: { de: "Hier wurde 1912 die Unabhängigkeit Albaniens ausgerufen.", hu: "Itt kikiáltották ki Albánia függetlenségét 1912-ben.", ro: "Aici a fost proclamată independența Albaniei în 1912.", en: "Albania's independence was proclaimed here in 1912." },
     type: "city",
-    coords: [41.4653, 19.4927],
-    parent: "country-albania"
+    coords: [40.4667, 19.4897],
+    parent: "AL-006",
+    facts: {
+      de: ["Wo Adria und Ionisches Meer aufeinandertreffen.", "Erste Hauptstadt Albaniens.", "Wichtige Hafenstadt."],
+      hu: ["Ahol az Adria és a Jón-tenger találkozik.", "Albánia első fővárosa.", "Fontos kikötőváros."],
+      ro: ["Unde se întâlnesc Mările Adriatică și Ionică.", "Prima capitală a Albaniei.", "Important oraș port."],
+      en: ["Where the Adriatic and Ionian seas meet.", "First capital of Albania.", "Important port city."]
+    }
   },
   {
     id: "city-shkoder",
-    name: { de: "Shkodra", hu: "Shkodra", ro: "Shkodër", en: "Shkodër" },
-    shortDesc: { de: "Kulturzentrum im Norden", hu: "Észak kulturális központja", ro: "Centru cultural în nord", en: "Cultural center in the north" },
-    longDesc: { de: "Alte Stadt am Skutarisee mit der Festung Rozafa.", hu: "Ősi város a Shkodrai-tó partján a Rozafa várával.", ro: "Oraș vechi pe lacul Skadar, cu castelul Rozafa.", en: "Ancient city on Lake Skadar with Rozafa Castle." },
+    name: { de: "Shkodra", hu: "Shkodra", ro: "Shkodra", en: "Shkodra" },
+    shortDesc: { de: "Kulturstadt des Nordens", hu: "Az észak kulturális városa", ro: "Orașul cultural al nordului", en: "Cultural city of the north" },
+    longDesc: { de: "Ein historisches Zentrum am Shkodrasee.", hu: "Történelmi központ a Shkodrai-tónál.", ro: "Un centru istoric de pe malul lacului Shkodra.", en: "A historical center by Lake Shkodra." },
     type: "city",
     coords: [42.0683, 19.5126],
-    parent: "country-albania"
-  },
-  {
-    id: "city-berat",
-    name: { de: "Berat", hu: "Berat", ro: "Berat", en: "Berat" },
-    shortDesc: { de: "Stadt der 1000 Fenster", hu: "Az 1000 ablak városa", ro: "Orașul celor 1000 de ferestre", en: "City of 1000 windows" },
-    longDesc: { de: "UNESCO-Weltkulturerbe mit osmanischer Architektur.", hu: "UNESCO Világörökség oszmán építészettel.", ro: "Patrimoniu UNESCO cu arhitectură otomană.", en: "UNESCO World Heritage site with Ottoman architecture." },
-    type: "city",
-    coords: [40.7049, 19.9497],
-    parent: "country-albania"
-  },
-  {
-    id: "city-gjirokaster",
-    name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastër", en: "Gjirokastër" },
-    shortDesc: { de: "Stadt aus Stein", hu: "A kőből épült város", ro: "Orașul de piatră", en: "City of stone" },
-    longDesc: { de: "Historische Stadt mit steilen Kopfsteinpflasterstraßen.", hu: "Történelmi város meredek macskaköves utcákkal.", ro: "Oraș istoric cu străzi abrupte pietruite.", en: "Historical city with steep cobblestone streets." },
-    type: "city",
-    coords: [40.0758, 20.1388],
-    parent: "country-albania"
+    parent: "AL-007",
+    facts: {
+      de: ["Einer der ältesten Orte des Balkans.", "Heimat der Marubi-Fotothek.", "Tor zu den albanischen Alpen."],
+      hu: ["A Balkán egyik legrégebbi helye.", "A Marubi fotótár otthona.", "Kapu az albán Alpokhoz."],
+      ro: ["Una dintre cele mai vechi așezări din Balcani.", "Găzduiește Fototeca Marubi.", "Poarta către Alpii Albanezi."],
+      en: ["One of the oldest sites in the Balkans.", "Home of the Marubi National Museum of Photography.", "Gateway to the Albanian Alps."]
+    }
   },
   {
     id: "city-korce",
-    name: { de: "Korça", hu: "Korça", ro: "Korcea", en: "Korçë" },
-    shortDesc: { de: "Paris von Albanien", hu: "Albánia Párizsa", ro: "Parisul Albaniei", en: "Paris of Albania" },
-    longDesc: { de: "Bekannt für Kultur, das erste albanische Schulhaus und Bier.", hu: "Híres kultúrájáról, az első iskoláról és a sörről.", ro: "Cunoscut pentru cultură, prima școală și bere.", en: "Known for culture, the first school, and beer." },
+    name: { de: "Korçë", hu: "Korçë", ro: "Korçë", en: "Korçë" },
+    shortDesc: { de: "Stadt der Serenaden", hu: "A szerenádok városa", ro: "Orașul serenadelor", en: "City of serenades" },
+    longDesc: { de: "Bekannt für seine Kultur, Museen und Architektur.", hu: "Kultúrájáról, múzeumairól és építészetéről ismert.", ro: "Cunoscut pentru cultură, muzee și arhitectură.", en: "Known for its culture, museums, and architecture." },
     type: "city",
     coords: [40.6141, 20.7778],
-    parent: "country-albania"
-  },
-  {
-    id: "city-elbasan",
-    name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan" },
-    shortDesc: { de: "Stadt im Zentrum", hu: "Központi város", ro: "Oraș central", en: "Central city" },
-    longDesc: { de: "Eine der größten Städte Albaniens, bekannt für ihre Burgmauer.", hu: "Albánia egyik legnagyobb városa, várfaláról ismert.", ro: "Unul dintre cele mai mari orașe, cunoscut pentru zidurile cetății.", en: "One of the largest cities, known for its castle walls." },
-    type: "city",
-    coords: [41.1125, 20.0822],
-    parent: "country-albania"
+    parent: "AL-003",
+    facts: {
+      de: ["Erste albanische Schule.", "Bekanntes Bierfest.", "Architektur im französischen Stil."],
+      hu: ["Az első albán iskola.", "Híres sörfesztivál.", "Francia stílusú építészet."],
+      ro: ["Prima școală albaneză.", "Faimos festival al berii.", "Arhitectură în stil francez."],
+      en: ["First Albanian school.", "Famous beer festival.", "French-style architecture."]
+    }
   },
   {
     id: "city-fier",
     name: { de: "Fier", hu: "Fier", ro: "Fier", en: "Fier" },
-    shortDesc: { de: "Industriestadt", hu: "Ipari város", ro: "Oraș industrial", en: "Industrial city" },
-    longDesc: { de: "Wichtige Stadt für die Ölindustrie in der Nähe der Ruinen von Apollonia.", hu: "Fontos olajipari város Apollonia romjai közelében.", ro: "Oraș important pentru industria petrolieră, aproape de Apollonia.", en: "Important city for the oil industry near Apollonia." },
+    shortDesc: { de: "Industrie- und Kulturzentrum", hu: "Ipari és kulturális központ", ro: "Centru industrial și cultural", en: "Industrial and cultural center" },
+    longDesc: { de: "Wichtige Stadt in der Nähe der antiken Stätte Apollonia.", hu: "Jelentős város az ókori Apollónia közelében.", ro: "Oraș important în apropierea sitului antic Apollonia.", en: "Important city near the ancient site of Apollonia." },
     type: "city",
     coords: [40.7239, 19.5561],
-    parent: "country-albania"
+    parent: "AL-008",
+    facts: {
+      de: ["Wirtschaftlicher Knotenpunkt.", "Nahe Apollonia.", "Landwirtschaftliches Zentrum."],
+      hu: ["Gazdasági csomópont.", "Apollónia közelében.", "Mezőgazdasági központ."],
+      ro: ["Nod economic.", "Lângă Apollonia.", "Centru agricol."],
+      en: ["Economic hub.", "Near Apollonia.", "Agricultural center."]
+    }
+  },
+  {
+    id: "city-berat",
+    name: { de: "Berat", hu: "Berat", ro: "Berat", en: "Berat" },
+    shortDesc: { de: "Stadt der tausend Fenster", hu: "Az ezer ablak városa", ro: "Orașul celor o mie de ferestre", en: "City of a thousand windows" },
+    longDesc: { de: "UNESCO-Welterbe, bekannt für seine osmanische Architektur.", hu: "UNESCO világörökség, oszmán építészetéről ismert.", ro: "Patrimoniu UNESCO, cunoscut pentru arhitectura otomană.", en: "UNESCO World Heritage site, known for its Ottoman architecture." },
+    type: "city",
+    coords: [40.7049, 19.9497],
+    parent: "AL-012",
+    facts: {
+      de: ["UNESCO-Weltkulturerbe.", "Einzigartige osmanische Häuser.", "Bewohnte Burg."],
+      hu: ["UNESCO világörökség.", "Egyedülálló oszmán házak.", "Lakott vár."],
+      ro: ["Patrimoniu mondial UNESCO.", "Case otomane unice.", "Cetate locuită."],
+      en: ["UNESCO World Heritage site.", "Unique Ottoman houses.", "Inhabited castle."]
+    }
+  },
+  {
+    id: "city-gjirokaster",
+    name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastra", en: "Gjirokastra" },
+    shortDesc: { de: "Stadt der Steine", hu: "A kövek városa", ro: "Orașul de piatră", en: "City of stone" },
+    longDesc: { de: "Eine gut erhaltene osmanische Stadt, Geburtsort von Ismail Kadare und Enver Hoxha.", hu: "Jól megőrzött oszmán város, Ismail Kadare és Enver Hoxha szülőhelye.", ro: "Un oraș otoman bine conservat, locul de naștere al lui Ismail Kadare și Enver Hoxha.", en: "A well-preserved Ottoman town, birthplace of Ismail Kadare and Enver Hoxha." },
+    type: "city",
+    coords: [40.0758, 20.1388],
+    parent: "AL-005",
+    facts: {
+      de: ["Steildächer aus Schiefer.", "Große Festung.", "UNESCO-Weltkulturerbe."],
+      hu: ["Pala tetős házak.", "Hatalmas erőd.", "UNESCO világörökség."],
+      ro: ["Acoperișuri de ardezie.", "Fortăreață mare.", "Patrimoniu mondial UNESCO."],
+      en: ["Slate-roofed houses.", "Massive fortress.", "UNESCO World Heritage site."]
+    }
   },
   {
     id: "city-sarande",
-    name: { de: "Saranda", hu: "Saranda", ro: "Sarandë", en: "Sarandë" },
-    shortDesc: { de: "Perle der Riviera", hu: "A Riviéra gyöngye", ro: "Perla Rivierei", en: "Pearl of the Riviera" },
-    longDesc: { de: "Beliebter Badeort im Süden gegenüber von Korfu.", hu: "Népszerű déli üdülőhely Korfuval szemben.", ro: "Stațiune populară în sud, vizavi de Corfu.", en: "Popular southern resort town opposite Corfu." },
+    name: { de: "Saranda", hu: "Saranda", ro: "Saranda", en: "Saranda" },
+    shortDesc: { de: "Badeort im Süden", hu: "Tengerparti üdülőhely délen", ro: "Stațiune litorală în sud", en: "Southern coastal resort" },
+    longDesc: { de: "Wichtiges Touristenzentrum an der Ionischen Küste gegenüber von Korfu.", hu: "Fontos turisztikai központ a Jón-tenger partján, Korfuval szemben.", ro: "Important centru turistic pe coasta Ionică, vizavi de Corfu.", en: "Important tourist center on the Ionian coast across from Corfu." },
     type: "city",
-    coords: [39.8730, 20.0053],
-    parent: "country-albania"
+    coords: [39.8739, 20.0049],
+    parent: "AL-006",
+    facts: {
+      de: ["Tor zu Butrint.", "Wunderschöne Buchten.", "Ganzjähriger Sonnenschein."],
+      hu: ["Kapu Butrint felé.", "Gyönyörű öblök.", "Egész évben napsütés."],
+      ro: ["Poarta către Butrint.", "Golfuri superbe.", "Soare tot anul."],
+      en: ["Gateway to Butrint.", "Beautiful bays.", "Year-round sunshine."]
+    }
+  },
+  {
+    id: "city-elbasan",
+    name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan" },
+    shortDesc: { de: "Historische Festungsstadt", hu: "Történelmi erődváros", ro: "Oraș fortăreață istoric", en: "Historical fortress city" },
+    longDesc: { de: "Zentralalbanische Stadt mit einer gut erhaltenen Burg.", hu: "Közép-albániai város jól megőrzött várral.", ro: "Oraș din centrul Albaniei cu o cetate bine conservată.", en: "Central Albanian city with a well-preserved castle." },
+    type: "city",
+    coords: [41.1125, 20.0822],
+    parent: "AL-004",
+    facts: {
+      de: ["Via Egnatia verlief hier.", "Berühmt für 'Ballokume'.", "Osmanische Einflüsse."],
+      hu: ["A Via Egnatia itt haladt át.", "Híres a 'Ballokume' süteményéről.", "Oszmán hatások."],
+      ro: ["Via Egnatia trecea pe aici.", "Faimos pentru 'Ballokume'.", "Influențe otomane."],
+      en: ["Via Egnatia passed through here.", "Famous for 'Ballokume' sweets.", "Ottoman influences."]
+    }
+  },
+  {
+    id: "city-peshkopi",
+    name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi" },
+    shortDesc: { de: "Stadt in den Bergen", hu: "Város a hegyekben", ro: "Oraș în munți", en: "City in the mountains" },
+    longDesc: { de: "Hauptstadt der Region Dibër, bekannt für ihre Thermalbäder und die Nähe zum Korab-Gebirge.", hu: "Dibër régió központja, híres termálfürdőiről és a Korab-hegység közelségéről.", ro: "Capitala regiunii Dibër, cunoscută pentru băile sale termale și proximitatea față de Munții Korab.", en: "Capital of the Dibër region, known for its thermal baths and proximity to the Korab mountains." },
+    type: "city",
+    coords: [41.6850, 20.4289],
+    parent: "AL-001",
+    facts: {
+      de: ["Heilende Thermalquellen.", "Tor zum Berg Korab.", "Traditionelle osmanische Architektur."],
+      hu: ["Gyógyító termálforrások.", "Kapu a Korab-hegyhez.", "Hagyományos oszmán építészet."],
+      ro: ["Izvoare termale curative.", "Poarta către muntele Korab.", "Arhitectură tradițională otomană."],
+      en: ["Healing thermal springs.", "Gateway to Mount Korab.", "Traditional Ottoman architecture."]
+    }
+  },
+  {
+    id: "city-kukes",
+    name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës" },
+    shortDesc: { de: "Stadt im Nordosten", hu: "Város az északkeleten", ro: "Oraș în nord-est", en: "City in the northeast" },
+    longDesc: { de: "Eine Stadt in den albanischen Alpen, die für den Friedensnobelpreis nominiert wurde.", hu: "Város az albán Alpokban, amelyet Nobel-békedíjra jelöltek.", ro: "Un oraș din Alpii Albanezi, nominalizat la Premiul Nobel pentru Pace.", en: "A city in the Albanian Alps that was nominated for the Nobel Peace Prize." },
+    type: "city",
+    coords: [42.0767, 20.4217],
+    parent: "AL-002",
+    facts: {
+      de: ["Wurde 1970 neu erbaut.", "Hilfe für Flüchtlinge 1999.", "Wunderschöne Bergkulisse."],
+      hu: ["1970-ben épült újjá.", "Segítség a menekülteknek 1999-ben.", "Gyönyörű hegyi panoráma."],
+      ro: ["Reconstruit în 1970.", "Ajutor pentru refugiați în 1999.", "Peisaj montan superb."],
+      en: ["Rebuilt in 1970.", "Aid for refugees in 1999.", "Beautiful mountain scenery."]
+    }
+  },
+  {
+    id: "city-lezhe",
+    name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë" },
+    shortDesc: { de: "Historische Küstenstadt", hu: "Történelmi parti város", ro: "Oraș de coastă istoric", en: "Historical coastal city" },
+    longDesc: { de: "Eine Stadt mit großer Bedeutung für die albanische Geschichte und das Grab von Skanderbeg.", hu: "Az albán történelem szempontjából kiemelkedő jelentőségű város, Szkander bég sírhelye.", ro: "Un oraș cu o mare importanță pentru istoria albaneză și locul de înmormântare al lui Skanderbeg.", en: "A city of great significance for Albanian history and the burial place of Skanderbeg." },
+    type: "city",
+    coords: [41.7833, 19.6500],
+    parent: "AL-011",
+    facts: {
+      de: ["Gründungsort der Liga von Lezhë.", "Sitz des Skanderbeg-Memorials.", "Antiker Name: Lissus."],
+      hu: ["A Lezhëi Liga alapítási helye.", "Itt található Szkander bég emlékhelye.", "Ókori neve: Lissus."],
+      ro: ["Locul de fondare al Ligii de la Lezhë.", "Găzduiește Memorialul lui Skanderbeg.", "Nume antic: Lissus."],
+      en: ["Founding place of the League of Lezhë.", "Site of the Skanderbeg Memorial.", "Ancient name: Lissus."]
+    }
   }
 ];
 
@@ -128,194 +257,305 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-butrint",
     name: { de: "Butrint", hu: "Butrint", ro: "Butrint", en: "Butrint" },
-    shortDesc: { de: "Antike Ruinen", hu: "Ősi romok", ro: "Ruine antice", en: "Ancient ruins" },
-    longDesc: { de: "UNESCO-geschützte antike griechische und römische Stadt.", hu: "UNESCO által védett ősi görög és római város.", ro: "Oraș antic protejat de UNESCO.", en: "UNESCO-protected ancient Greek and Roman city." },
+    shortDesc: { de: "Antike Ruinenstadt", hu: "Ókori romváros", ro: "Oraș antic în ruine", en: "Ancient ruined city" },
+    longDesc: { de: "Eine der bedeutendsten archäologischen Stätten des Balkans, UNESCO-Weltkulturerbe.", hu: "A Balkán egyik legjelentősebb régészeti lelőhelye, UNESCO világörökség.", ro: "Unul dintre cele mai importante situri arheologice din Balcani, patrimoniu UNESCO.", en: "One of the most important archaeological sites in the Balkans, UNESCO World Heritage." },
     type: "historical",
     coords: [39.7431, 20.0195],
-    parent: "country-albania"
+    parent: "AL-006",
+    facts: {
+      de: ["Römische und griechische Ruinen.", "Inmitten eines Nationalparks.", "Venedig hat hier Spuren hinterlassen."],
+      hu: ["Római és görög romok.", "Egy nemzeti park közepén.", "Velence is nyomot hagyott itt."],
+      ro: ["Ruine romane și grecești.", "În mijlocul unui parc național.", "Veneția a lăsat urme aici."],
+      en: ["Roman and Greek ruins.", "In the middle of a national park.", "Venice left traces here."]
+    }
   },
   {
     id: "hist-apollonia",
-    name: { de: "Apollonia", hu: "Apollonia", ro: "Apollonia", en: "Apollonia" },
-    shortDesc: { de: "Griechische Kolonie", hu: "Görög kolónia", ro: "Colonie grecească", en: "Greek colony" },
-    longDesc: { de: "Beeindruckende Ruinen einer alten Stadt nahe Fier.", hu: "Egy ősi város lenyűgöző romjai Fier közelében.", ro: "Ruine impresionante ale unui oraș antic.", en: "Impressive ruins of an ancient city near Fier." },
+    name: { de: "Apollonia", hu: "Apollónia", ro: "Apollonia", en: "Apollonia" },
+    shortDesc: { de: "Antike griechische Stadt", hu: "Ókori görög város", ro: "Oraș antic grec", en: "Ancient Greek city" },
+    longDesc: { de: "Eine bedeutende antike Siedlung, die einst ein wichtiges Bildungszentrum war.", hu: "Jelentős ókori település, amely egykor fontos oktatási központ volt.", ro: "O așezare antică importantă, care a fost odată un centru educațional major.", en: "An important ancient settlement that was once a major educational center." },
     type: "historical",
     coords: [40.7226, 19.4678],
-    parent: "country-albania"
+    parent: "AL-008",
+    facts: {
+      de: ["Gegründet im 6. Jh. v. Chr.", "Besucht von Kaiser Augustus.", "Bedeutendes Kloster vor Ort."],
+      hu: ["Kr. e. 6. században alapították.", "Augustus császár is megfordult itt.", "Jelentős kolostor található a területén."],
+      ro: ["Fondat în secolul VI î.Hr.", "Vizitat de împăratul Augustus.", "Mănăstire importantă la fața locului."],
+      en: ["Founded in the 6th century BC.", "Visited by Emperor Augustus.", "Important monastery on site."]
+    }
   },
   {
     id: "hist-rozafa",
-    name: { de: "Burg Rozafa", hu: "Rozafa vára", ro: "Castelul Rozafa", en: "Rozafa Castle" },
-    shortDesc: { de: "Festung von Shkodra", hu: "Shkodra erődje", ro: "Cetatea Shkodër", en: "Fortress of Shkodër" },
-    longDesc: { de: "Burg mit Panoramablick und faszinierender Legende.", hu: "Panorámás kilátást nyújtó vár lenyűgöző legendával.", ro: "Castel cu vedere panoramică și legendă fascinantă.", en: "Castle with panoramic views and a fascinating legend." },
+    name: { de: "Burg Rozafa", hu: "Rozafa vára", ro: "Cetatea Rozafa", en: "Rozafa Castle" },
+    shortDesc: { de: "Mächtige Festung", hu: "Hatalmas erőd", ro: "Fortăreață impunătoare", en: "Massive fortress" },
+    longDesc: { de: "Eine alte illyrische Burg mit Blick auf Shkodra.", hu: "Régi illír vár, kilátással Shkodrára.", ro: "O veche cetate iliră cu vedere spre Shkodra.", en: "An ancient Illyrian castle overlooking Shkodra." },
     type: "historical",
     coords: [42.0463, 19.4939],
-    parent: "country-albania"
-  },
-  {
-    id: "hist-kruje",
-    name: { de: "Burg Kruja", hu: "Kruja vára", ro: "Castelul Krujë", en: "Krujë Castle" },
-    shortDesc: { de: "Skanderbegs Festung", hu: "Szkanderbég erődje", ro: "Cetatea lui Skanderbeg", en: "Skanderbeg's Fortress" },
-    longDesc: { de: "Historische Festung, die der osmanischen Belagerung widerstand.", hu: "Történelmi erőd, amely ellenállt az oszmán ostromnak.", ro: "Cetate istorică ce a rezistat asediului otoman.", en: "Historical fortress that withstood Ottoman siege." },
-    type: "historical",
-    coords: [41.5100, 19.7925],
-    parent: "country-albania"
-  },
-  {
-    id: "hist-gjirokaster-castle",
-    name: { de: "Burg Gjirokastra", hu: "Gjirokastra vára", ro: "Castelul Gjirokastër", en: "Gjirokastër Castle" },
-    shortDesc: { de: "Mächtige Zitadelle", hu: "Hatalmas fellegvár", ro: "Citadelă impunătoare", en: "Mighty citadel" },
-    longDesc: { de: "Große Festung, die die Stadt überragt und ein Waffenmuseum beherbergt.", hu: "A város fölé magasodó nagy erőd, benne egy fegyvermúzeummal.", ro: "Fortăreață mare care domină orașul.", en: "Large fortress dominating the city, housing a weapons museum." },
-    type: "historical",
-    coords: [40.0736, 20.1352],
-    parent: "country-albania"
+    parent: "AL-007",
+    facts: {
+      de: ["Legende der eingemauerten Frau.", "Blick auf drei Flüsse.", "Strategische Lage."],
+      hu: ["A befalazott asszony legendája.", "Kilátás három folyóra.", "Stratégiai elhelyezkedés."],
+      ro: ["Legenda femeii zidite.", "Vedere spre trei râuri.", "Locație strategică."],
+      en: ["Legend of the walled-in woman.", "View of three rivers.", "Strategic location."]
+    }
   },
   {
     id: "hist-berat-castle",
-    name: { de: "Burg Berat", hu: "Berat vára", ro: "Castelul Berat", en: "Berat Castle" },
-    shortDesc: { de: "Bewohnte Burg", hu: "Lakott vár", ro: "Castel locuit", en: "Inhabited castle" },
-    longDesc: { de: "Einzigartige Festung mit noch heute bewohnten Häusern und alten Kirchen.", hu: "Egyedülálló erőd a mai napig lakott házakkal és régi templomokkal.", ro: "Fortăreață unică cu case încă locuite.", en: "Unique fortress with still-inhabited houses and old churches." },
+    name: { de: "Burg von Berat", hu: "Berati vár", ro: "Cetatea Berat", en: "Berat Castle" },
+    shortDesc: { de: "Bewohnte Zitadelle", hu: "Lakott citadella", ro: "Citadelă locuită", en: "Inhabited citadel" },
+    longDesc: { de: "Eine der größten Festungsanlagen Albaniens, die noch bewohnt ist.", hu: "Albánia egyik legnagyobb erődrendszere, amely még ma is lakott.", ro: "Una dintre cele mai mari fortificații din Albania, care este încă locuită.", en: "One of the largest fortifications in Albania that is still inhabited." },
     type: "historical",
     coords: [40.7081, 19.9452],
-    parent: "country-albania"
+    parent: "AL-012",
+    facts: {
+      de: ["Viele alte Kirchen im Inneren.", "Blick über den Osum.", "Bilderbuch-Architektur."],
+      hu: ["Sok régi templom a falakon belül.", "Kilátás az Osum folyóra.", "Mesébe illő építészet."],
+      ro: ["Multe biserici vechi în interior.", "Vedere peste râul Osum.", "Arhitectură de poveste."],
+      en: ["Many old churches inside.", "View over the Osum river.", "Picture-perfect architecture."]
+    }
   },
   {
-    id: "hist-ali-pasha-castle",
-    name: { de: "Ali Pascha Burg", hu: "Ali Pasa vára", ro: "Castelul lui Ali Pașa", en: "Ali Pasha Castle" },
-    shortDesc: { de: "Festung am Meer", hu: "Tengerparti erőd", ro: "Cetate la mare", en: "Fortress by the sea" },
-    longDesc: { de: "Eindrucksvolle Festung auf einer kleinen Insel bei Butrint.", hu: "Lenyűgöző erőd egy kis szigeten Butrint közelében.", ro: "Fortăreață impresionantă pe o mică insulă lângă Butrint.", en: "Impressive fortress on a small island near Butrint." },
+    id: "hist-gjirokaster-castle",
+    name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastra Castle" },
+    shortDesc: { de: "Dominante Festung", hu: "Domináns erőd", ro: "Fortăreață dominantă", en: "Dominant fortress" },
+    longDesc: { de: "Eine massive Burg, die das Stadtbild von Gjirokastra beherrscht.", hu: "Hatalmas vár, amely uralja Gjirokastra városképét.", ro: "O cetate masivă care domină peisajul urban al Gjirokastrei.", en: "A massive castle that dominates the cityscape of Gjirokastra." },
     type: "historical",
-    coords: [39.7430, 19.9926],
-    parent: "country-albania"
+    coords: [40.0735, 20.1415],
+    parent: "AL-005",
+    facts: {
+      de: ["Uhrturm aus dem 19. Jh.", "Flugzeugwrack im Innenhof.", "Historisches Gefängnis."],
+      hu: ["19. századi óratorony.", "Repülőgép-roncs az udvaron.", "Történelmi börtön."],
+      ro: ["Turn cu ceas din sec. XIX.", "Epavă de avion în curte.", "Închisoare istorică."],
+      en: ["19th-century clock tower.", "Airplane wreck in the courtyard.", "Historical prison."]
+    }
   },
   {
-    id: "hist-skanderbeg-square",
-    name: { de: "Skanderbeg-Platz", hu: "Szkanderbég tér", ro: "Piața Skanderbeg", en: "Skanderbeg Square" },
-    shortDesc: { de: "Zentraler Platz", hu: "Központi tér", ro: "Piața centrală", en: "Central square" },
-    longDesc: { de: "Der Hauptplatz von Tirana, benannt nach dem Nationalhelden.", hu: "Tirana főtere, a nemzeti hősről elnevezve.", ro: "Piața principală din Tirana.", en: "The main plaza of Tirana, named after the national hero." },
+    id: "hist-kruje",
+    name: { de: "Burg Kruja", hu: "Krujai vár", ro: "Cetatea Kruja", en: "Kruja Castle" },
+    shortDesc: { de: "Symbol des Widerstands", hu: "Az ellenállás szimbóluma", ro: "Simbolul rezistenței", en: "Symbol of resistance" },
+    longDesc: { de: "Das Zentrum von Skanderbegs Kampf gegen das Osmanische Reich.", hu: "Szkander bég Oszmán Birodalom elleni harcának központja.", ro: "Centrul luptei lui Skanderbeg împotriva Imperiului Otoman.", en: "The center of Skanderbeg's struggle against the Ottoman Empire." },
     type: "historical",
-    coords: [41.3278, 19.8183],
-    parent: "country-albania"
+    coords: [41.5100, 19.7925],
+    parent: "AL-010",
+    facts: {
+      de: ["Skanderbeg-Museum.", "Alter Basar am Fuße.", "Wichtiger Wallfahrtsort."],
+      hu: ["Szkander bég múzeum.", "Régi bazár a vár tövében.", "Fontos zarándokhely."],
+      ro: ["Muzeul Skanderbeg.", "Bazar vechi la poale.", "Important loc de pelerinaj."],
+      en: ["Skanderbeg Museum.", "Old bazaar at the foot.", "Important pilgrimage site."]
+    }
   },
   {
-    id: "hist-ethem-bey",
-    name: { de: "Et'hem-Bey-Moschee", hu: "Ethem Bey mecset", ro: "Moscheea Et'hem Bey", en: "Et'hem Bey Mosque" },
-    shortDesc: { de: "Historische Moschee", hu: "Történelmi mecset", ro: "Moschee istorică", en: "Historic mosque" },
-    longDesc: { de: "Eine der ältesten und schönsten Moscheen in Tirana.", hu: "Tirana egyik legrégebbi és legszebb mecsete.", ro: "Una dintre cele mai vechi și frumoase moschei din Tirana.", en: "One of the oldest and most beautiful mosques in Tirana." },
+    id: "hist-lezhe-castle",
+    name: { de: "Burg von Lezhë", hu: "Lezhëi vár", ro: "Cetatea Lezhë", en: "Lezhë Castle" },
+    shortDesc: { de: "Mittelalterliche Akropolis", hu: "Középkori akropolisz", ro: "Acropolă medievală", en: "Medieval acropolis" },
+    longDesc: { de: "Eine strategische Festung mit Blick auf die Adria und die Stadt Lezhë.", hu: "Stratégiai erőd kilátással az Adriára és Lezhë városára.", ro: "O fortăreață strategică cu vedere la Marea Adriatică și la orașul Lezhë.", en: "A strategic fortress overlooking the Adriatic Sea and the city of Lezhë." },
     type: "historical",
-    coords: [41.3277, 19.8194],
-    parent: "country-albania"
+    coords: [41.7820, 19.6510],
+    parent: "AL-011",
+    facts: {
+      de: ["Illyrische Fundamente.", "Osmanische Moschee-Ruinen.", "Panoramablick auf die Küste."],
+      hu: ["Illír alapok.", "Oszmán mecsetromok.", "Panorámás kilátás a partra."],
+      ro: ["Fundații ilire.", "Ruinele unei moschei otomane.", "Vedere panoramică a coastei."],
+      en: ["Illyrian foundations.", "Ottoman mosque ruins.", "Panoramic view of the coast."]
+    }
+  },
+  {
+    id: "hist-elbasan-castle",
+    name: { de: "Burg von Elbasan", hu: "Elbasani vár", ro: "Cetatea Elbasan", en: "Elbasan Castle" },
+    shortDesc: { de: "Osmanische Stadtburg", hu: "Oszmán városi vár", ro: "Cetate otomană în oraș", en: "Ottoman city castle" },
+    longDesc: { de: "Eine flache Festungsanlage mitten im Stadtzentrum von Elbasan.", hu: "Alföldi erődítmény Elbasan városközpontjában.", ro: "O fortificație joasă aflată chiar în centrul orașului Elbasan.", en: "A flat fortification right in the center of Elbasan." },
+    type: "historical",
+    coords: [41.1125, 20.0822],
+    parent: "AL-004",
+    facts: {
+      de: ["Erbaut von Sultan Mehmet II.", "Wohnviertel im Inneren.", "Alte Kirchen und Moscheen."],
+      hu: ["II. Mehmed szultán építtette.", "Lakónegyed a falakon belül.", "Régi templomok és mecsetek."],
+      ro: ["Construită de Sultanul Mehmet II.", "Cartier rezidențial în interior.", "Biserici și moschei vechi."],
+      en: ["Built by Sultan Mehmet II.", "Residential neighborhood inside.", "Old churches and mosques."]
+    }
   }
 ];
 
 export const albaniaNature: POI[] = [
   {
-    id: "nat-blue-eye",
-    name: { de: "Blaues Auge", hu: "Kék Szem", ro: "Ochiul Albastru", en: "Blue Eye" },
-    shortDesc: { de: "Tiefe Wasserquelle", hu: "Mély vízforrás", ro: "Izvor adânc", en: "Deep water spring" },
-    longDesc: { de: "Naturphänomen mit faszinierendem blauen Wasser.", hu: "Természeti jelenség lenyűgöző kék vízzel.", ro: "Fenomen natural cu apă albastră fascinantă.", en: "Natural phenomenon with fascinating blue water." },
+    id: "nat-lake-skadar",
+    name: { de: "Shkodrasee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Skadar" },
+    shortDesc: { de: "Größter See des Balkans", hu: "A Balkán legnagyobb tava", ro: "Cel mai mare lac din Balcani", en: "Largest lake in the Balkans" },
+    longDesc: { de: "Ein bedeutendes Naturreservat an der Grenze zwischen Albanien und Montenegro.", hu: "Jelentős természetvédelmi terület Albánia és Montenegró határán.", ro: "O rezervație naturală importantă la granița dintre Albania și Muntenegru.", en: "An important nature reserve on the border between Albania and Montenegro." },
     type: "nature",
-    coords: [39.9234, 20.1923],
-    parent: "country-albania"
+    coords: [42.1794, 19.2974],
+    parent: "AL-007",
+    facts: {
+      de: ["Reiche Vogelwelt.", "Seltene Pelikane.", "Teilweise Nationalpark."],
+      hu: ["Gazdag madárvilág.", "Ritka pelikánok.", "Részben nemzeti park."],
+      ro: ["Faună aviară bogată.", "Pelicani rari.", "Parțial parc național."],
+      en: ["Rich birdlife.", "Rare pelicans.", "Partially a national park."]
+    }
   },
   {
     id: "nat-lake-ohrid",
     name: { de: "Ohridsee", hu: "Ohridi-tó", ro: "Lacul Ohrid", en: "Lake Ohrid" },
-    shortDesc: { de: "Tiefster See des Balkans", hu: "A Balkán legmélyebb tava", ro: "Cel mai adânc lac din Balcani", en: "Deepest lake in the Balkans" },
-    longDesc: { de: "Wunderschöner See, der Albanien und Nordmazedonien trennt.", hu: "Gyönyörű tó, amely elválasztja Albániát és Észak-Macedóniát.", ro: "Lac superb care separă Albania și Macedonia de Nord.", en: "Beautiful lake separating Albania and North Macedonia." },
+    shortDesc: { de: "UNESCO-Naturerbe", hu: "UNESCO természeti örökség", ro: "Patrimoniu natural UNESCO", en: "UNESCO Natural Heritage" },
+    longDesc: { de: "Einer der ältesten und tiefsten Seen Europas.", hu: "Európa egyik legrégebbi és legmélyebb tava.", ro: "Unul dintre cele mai vechi și mai adânci lacuri din Europa.", en: "One of Europe's oldest and deepest lakes." },
     type: "nature",
     coords: [41.0366, 20.7161],
-    parent: "country-albania"
+    parent: "AL-003",
+    facts: {
+      de: ["Einzigartige Fischarten.", "Kristallklares Wasser.", "UNESCO-Schutz."],
+      hu: ["Egyedülálló halfajok.", "Kristálytiszta víz.", "UNESCO védelem."],
+      ro: ["Specii de pești unice.", "Apă de cristal.", "Protecție UNESCO."],
+      en: ["Unique fish species.", "Crystal clear water.", "UNESCO protection."]
+    }
   },
   {
     id: "nat-valbone",
-    name: { de: "Valbonatal", hu: "Valbona-völgy", ro: "Valea Valbonei", en: "Valbonë Valley" },
-    shortDesc: { de: "Albanische Alpen", hu: "Albán-Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" },
-    longDesc: { de: "Atemberaubender Nationalpark mit spektakulären Berglandschaften.", hu: "Lélegzetelállító nemzeti park látványos hegyvidéki tájakkal.", ro: "Parc național uimitor cu peisaje montane spectaculoase.", en: "Stunning national park with spectacular mountain scenery." },
+    name: { de: "Valbona-Tal", hu: "Valbona-völgy", ro: "Valea Valbone", en: "Valbona Valley" },
+    shortDesc: { de: "Albanische Alpen", hu: "Albán Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" },
+    longDesc: { de: "Ein spektakuläres Hochtal im Norden Albaniens.", hu: "Látványos magashegyi völgy Észak-Albániában.", ro: "O vale montană spectaculoasă în nordul Albaniei.", en: "A spectacular high valley in northern Albania." },
     type: "nature",
     coords: [42.4410, 19.8920],
-    parent: "country-albania"
+    parent: "AL-002",
+    facts: {
+      de: ["Wandermeldorado.", "Wilde Flusslandschaften.", "Traditionelle Berggasthöfe."],
+      hu: ["Túrázók paradicsoma.", "Vadvízi tájak.", "Hagyományos hegyi vendégházak."],
+      ro: ["Paradisul drumețiilor.", "Peisaje fluviale sălbatice.", "Pensiuni montane tradiționale."],
+      en: ["Hiking paradise.", "Wild river landscapes.", "Traditional mountain guesthouses."]
+    }
   },
   {
-    id: "nat-theth",
-    name: { de: "Theth-Nationalpark", hu: "Theth Nemzeti Park", ro: "Parcul Național Theth", en: "Theth National Park" },
-    shortDesc: { de: "Bergparadies", hu: "Hegyvidéki paradicsom", ro: "Paradis montan", en: "Mountain paradise" },
-    longDesc: { de: "Abgelegenes Tal in den Alpen mit Wasserfällen und Wanderwegen.", hu: "Elszigetelt völgy az Alpokban vízesésekkel és túraútvonalakkal.", ro: "Vale izolată în Alpi cu cascade și trasee montane.", en: "Remote valley in the Alps with waterfalls and hiking trails." },
+    id: "nat-blue-eye",
+    name: { de: "Das Blaue Auge", hu: "Kék Szem-forrás", ro: "Ochiul Albastru", en: "The Blue Eye" },
+    shortDesc: { de: "Karstquelle", hu: "Karsztforrás", ro: "Izvor carstic", en: "Karst spring" },
+    longDesc: { de: "Eine faszinierende tiefblaue Wasserquelle in der Nähe von Saranda.", hu: "Lenyűgöző mélykék vízforrás Saranda közelében.", ro: "Un izvor de apă de un albastru profund, fascinant, lângă Saranda.", en: "A fascinating deep blue water spring near Saranda." },
     type: "nature",
-    coords: [42.3986, 19.7822],
-    parent: "country-albania"
-  },
-  {
-    id: "nat-lake-skadar",
-    name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Skadar", en: "Lake Skadar" },
-    shortDesc: { de: "Größter See im Balkan", hu: "A Balkán legnagyobb tava", ro: "Cel mai mare lac din Balcani", en: "Largest lake in the Balkans" },
-    longDesc: { de: "Wichtiger See für Zugvögel und die lokale Fischerei.", hu: "Fontos tó a vándormadarak és a helyi halászat számára.", ro: "Lac important pentru păsările migratoare și pescuitul local.", en: "Important lake for migratory birds and local fishing." },
-    type: "nature",
-    coords: [42.1794, 19.2974],
-    parent: "country-albania"
+    coords: [39.9234, 20.1923],
+    parent: "AL-006",
+    facts: {
+      de: ["Über 50 Meter tief.", "Konstante 10 Grad Celsius.", "Saphirblaue Farbe."],
+      hu: ["Több mint 50 méter mély.", "Állandó 10 Celsius-fok.", "Zafírkék szín."],
+      ro: ["Peste 50 de metri adâncime.", "Constant 10 grade Celsius.", "Culoare de safir."],
+      en: ["Over 50 meters deep.", "Constant 10 degrees Celsius.", "Sapphire blue color."]
+    }
   },
   {
     id: "nat-llogara",
     name: { de: "Llogara-Pass", hu: "Llogara-hágó", ro: "Pasul Llogara", en: "Llogara Pass" },
-    shortDesc: { de: "Aussichtspunkt an der Küste", hu: "Tengerparti kilátópont", ro: "Punct de belvedere pe coastă", en: "Coastal viewpoint" },
-    longDesc: { de: "Hoher Gebirgspass mit spektakulärem Blick auf das Ionische Meer.", hu: "Magas hegyi hágó látványos kilátással a Jón-tengerre.", ro: "Trecătoare înaltă cu o vedere spectaculoasă la Marea Ionică.", en: "High mountain pass with spectacular views of the Ionian Sea." },
+    shortDesc: { de: "Gebirgspass zur Riviera", hu: "Hágó a riviérára", ro: "Pas montan spre rivieră", en: "Mountain pass to the Riviera" },
+    longDesc: { de: "Ein Nationalpark mit atemberaubendem Blick auf das Ionische Meer.", hu: "Nemzeti park lélegzetelállító kilátással a Jón-tengerre.", ro: "Un parc național cu o vedere uluitoare spre Marea Ionică.", en: "A national park with breathtaking views of the Ionian Sea." },
     type: "nature",
     coords: [40.1983, 19.5854],
-    parent: "country-albania"
+    parent: "AL-006",
+    facts: {
+      de: ["Über 1000 Meter Höhe.", "Blick auf Korfu.", "Gleitschirmflieger-Hotspot."],
+      hu: ["Több mint 1000 méter magasan.", "Kilátás Korfura.", "Siklóernyős központ."],
+      ro: ["Peste 1000 de metri altitudine.", "Vedere spre Corfu.", "Loc preferat de parapantiști."],
+      en: ["Over 1000 meters high.", "View of Corfu.", "Paragliding hotspot."]
+    }
   },
   {
-    id: "nat-karavasta",
-    name: { de: "Lagune von Karavasta", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon" },
-    shortDesc: { de: "Größte Lagune", hu: "A legnagyobb lagúna", ro: "Cea mai mare lagună", en: "Largest lagoon" },
-    longDesc: { de: "Die größte Lagune in Albanien, bekannt für Pelikane.", hu: "Albánia legnagyobb lagúnája, a pelikánokról ismert.", ro: "Cea mai mare lagună din Albania, cunoscută pentru pelicani.", en: "The largest lagoon in Albania, known for pelicans." },
+    id: "nat-osum-canyon",
+    name: { de: "Osum-Canyon", hu: "Osum-kanyon", ro: "Canionul Osum", en: "Osum Canyon" },
+    shortDesc: { de: "Albaniens Grand Canyon", hu: "Albánia Grand Canyonja", ro: "Grand Canyon al Albaniei", en: "Albania's Grand Canyon" },
+    longDesc: { de: "Eine spektakuläre Schlucht im Süden Albaniens.", hu: "Látványos szurdokvölgy Dél-Albániában.", ro: "Un canion spectaculos în sudul Albaniei.", en: "A spectacular gorge in southern Albania." },
     type: "nature",
-    coords: [40.9231, 19.4975],
-    parent: "country-albania"
-  },
-  {
-    id: "nat-koman",
-    name: { de: "Koman-Stausee", hu: "Koman-tó", ro: "Lacul Koman", en: "Lake Koman" },
-    shortDesc: { de: "Malerischer Stausee", hu: "Festői víztározó", ro: "Lac de acumulare pitoresc", en: "Scenic reservoir" },
-    longDesc: { de: "Stausee im Drin-Flusstal, oft mit norwegischen Fjorden verglichen.", hu: "A Drin folyó völgyében fekvő víztározó, gyakran a norvég fjordokhoz hasonlítják.", ro: "Lac de acumulare în valea râului Drin, adesea comparat cu fiordurile norvegiene.", en: "Reservoir in the Drin river valley, often compared to Norwegian fjords." },
-    type: "nature",
-    coords: [42.1075, 19.8272],
-    parent: "country-albania"
-  },
-  {
-    id: "nat-dajti",
-    name: { de: "Berg Dajti", hu: "Dajti-hegy", ro: "Muntele Dajti", en: "Mount Dajti" },
-    shortDesc: { de: "Hausberg von Tirana", hu: "Tirana házi hegye", ro: "Muntele din Tirana", en: "House mountain of Tirana" },
-    longDesc: { de: "Beliebtes Ausflugsziel, erreichbar mit der längsten Seilbahn des Balkans.", hu: "Népszerű kirándulóhely, amely a Balkán leghosszabb felvonójával érhető el.", ro: "Destinație populară, accesibilă cu cea mai lungă telecabină din Balcani.", en: "Popular destination accessible by the longest cable car in the Balkans." },
-    type: "nature",
-    coords: [41.3653, 19.9294],
-    parent: "country-albania"
+    coords: [40.4851, 20.2520],
+    parent: "AL-012",
+    facts: {
+      de: ["Rafting-Möglichkeit.", "Hohe Felswände.", "Zahlreiche Wasserfälle."],
+      hu: ["Rafting lehetőség.", "Magas sziklafalak.", "Számos vízesés."],
+      ro: ["Posibilitate de rafting.", "Pereți de stâncă înalți.", "Numeroase cascade."],
+      en: ["Rafting opportunity.", "High rock walls.", "Numerous waterfalls."]
+    }
   },
   {
     id: "nat-korab",
     name: { de: "Berg Korab", hu: "Korab-hegy", ro: "Muntele Korab", en: "Mount Korab" },
     shortDesc: { de: "Höchster Berg", hu: "Legmagasabb hegy", ro: "Cel mai înalt munte", en: "Highest mountain" },
-    longDesc: { de: "Der höchste Gipfel Albaniens und Nordmazedoniens.", hu: "Albánia és Észak-Macedónia legmagasabb csúcsa.", ro: "Cel mai înalt vârf din Albania și Macedonia de Nord.", en: "The highest peak in Albania and North Macedonia." },
-    type: "nature",
+    longDesc: { de: "Der höchste Punkt Albaniens an der Grenze zu Nordmazedonien.", hu: "Albánia legmagasabb pontja az észak-macedón határon.", ro: "Cel mai înalt punct din Albania la granița cu Macedonia de Nord.", en: "The highest point of Albania on the border with North Macedonia." },
+    type: "mountain",
     coords: [41.7903, 20.5469],
-    parent: "country-albania"
+    parent: "AL-001",
+    facts: {
+      de: ["2764 Meter hoch.", "Grenzberg.", "Herausfordernde Wanderung."],
+      hu: ["2764 méter magas.", "Határhegy.", "Kihívást jelentő túra."],
+      ro: ["2764 metri înălțime.", "Munte de graniță.", "Drumeție solicitantă."],
+      en: ["2764 meters high.", "Border mountain.", "Challenging hike."]
+    }
   },
   {
-    id: "nat-osumi",
-    name: { de: "Osum-Schlucht", hu: "Osum-kanyon", ro: "Canionul Osum", en: "Osum Canyon" },
-    shortDesc: { de: "Spektakuläre Schlucht", hu: "Látványos kanyon", ro: "Canion spectaculos", en: "Spectacular canyon" },
-    longDesc: { de: "Atemberaubende Flussschlucht mit steilen Felswänden, ideal für Rafting.", hu: "Lélegzetelállító folyami kanyon meredek sziklafalakkal, ideális raftinghoz.", ro: "Canion uimitor cu pereți abrupți de stâncă, ideal pentru rafting.", en: "Stunning river canyon with steep rock walls, ideal for rafting." },
+    id: "nat-theth",
+    name: { de: "Theth Nationalpark", hu: "Thethi Nemzeti Park", ro: "Parcul Național Theth", en: "Theth National Park" },
+    shortDesc: { de: "Herz der Alpen", hu: "Az Alpok szíve", ro: "Inima Alpilor", en: "Heart of the Alps" },
+    longDesc: { de: "Ein unberührtes Bergdorf und Nationalpark im Norden.", hu: "Érintetlen hegyi falu és nemzeti park északon.", ro: "Un sat montan virgin și parc național în nord.", en: "An untouched mountain village and national park in the north." },
     type: "nature",
-    coords: [40.4851, 20.2520],
-    parent: "country-albania"
+    coords: [42.3986, 19.7822],
+    parent: "AL-007",
+    facts: {
+      de: ["Traditionelle Steinhäuser.", "Wasserfall von Grunas.", "Isolation in den Bergen."],
+      hu: ["Hagyományos kőházak.", "Grunas-vízesés.", "Hegyi elszigeteltség."],
+      ro: ["Case tradiționale de piatră.", "Cascada Grunas.", "Izolare în munți."],
+      en: ["Traditional stone houses.", "Grunas Waterfall.", "Mountain isolation."]
+    }
+  },
+  {
+    id: "nat-dajti",
+    name: { de: "Berg Dajti", hu: "Dajti-hegy", ro: "Muntele Dajti", en: "Mount Dajti" },
+    shortDesc: { de: "Hausberg von Tirana", hu: "Tirana házhegye", ro: "Muntele local al Tiranei", en: "Tirana's backyard mountain" },
+    longDesc: { de: "Ein beliebtes Ausflugsziel mit Seilbahn in der Nähe der Hauptstadt.", hu: "Népszerű kirándulóhely felvonóval a főváros közelében.", ro: "O destinație de excursie populară cu telecabină lângă capitală.", en: "A popular excursion destination with a cable car near the capital." },
+    type: "mountain",
+    coords: [41.3653, 19.9294],
+    parent: "AL-009",
+    facts: {
+      de: ["Dajti Ekspres Seilbahn.", "Blick auf Tirana.", "Nationalpark-Status."],
+      hu: ["Dajti Ekspres felvonó.", "Kilátás Tiranára.", "Nemzeti parki státusz."],
+      ro: ["Telecabina Dajti Ekspres.", "Vedere asupra Tiranei.", "Statut de parc național."],
+      en: ["Dajti Ekspres cable car.", "View of Tirana.", "National park status."]
+    }
+  },
+  {
+    id: "nat-koman",
+    name: { de: "Koman-Stausee", hu: "Komani-tó", ro: "Lacul Koman", en: "Lake Koman" },
+    shortDesc: { de: "Fjordähnliche Landschaft", hu: "Fjordhoz hasonló táj", ro: "Peisaj asemănător fiordurilor", en: "Fjord-like landscape" },
+    longDesc: { de: "Ein Stausee mit einer der spektakulärsten Fährfahrten Europas.", hu: "Víztározó Európa egyik leglátványosabb kompútvonalával.", ro: "Un lac de acumulare cu una dintre cele mai spectaculoase călătorii cu feribotul din Europa.", en: "A reservoir with one of the most spectacular ferry rides in Europe." },
+    type: "nature",
+    coords: [42.1075, 19.8272],
+    parent: "AL-002",
+    facts: {
+      de: ["Steile Felswände.", "Wichtig für Wasserkraft.", "Bootstouren."],
+      hu: ["Meredek sziklafalak.", "Fontos a vízerőművek számára.", "Hajótúrák."],
+      ro: ["Pereți de stâncă abrupți.", "Important pentru hidroenergie.", "Excursii cu barca."],
+      en: ["Steep rock walls.", "Important for hydropower.", "Boat tours."]
+    }
+  },
+  {
+    id: "nat-karavasta",
+    name: { de: "Karavasta-Lagune", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon" },
+    shortDesc: { de: "Größte Lagune", hu: "A legnagyobb lagúna", ro: "Cea mai mare lagună", en: "Largest lagoon" },
+    longDesc: { de: "Ein bedeutendes Feuchtgebiet an der Adriaküste.", hu: "Jelentős vizes élőhely az Adria partján.", ro: "O zonă umedă importantă de pe coasta Adriaticii.", en: "An important wetland on the Adriatic coast." },
+    type: "nature",
+    coords: [40.9231, 19.4975],
+    parent: "AL-008",
+    facts: {
+      de: ["Heimat krausköpfiger Pelikane.", "Nationalpark Divjaka-Karavasta.", "Große Artenvielfalt."],
+      hu: ["Borzas pelikánok otthona.", "Divjaka-Karavasta Nemzeti Park.", "Nagy biológiai sokféleség."],
+      ro: ["Habitat al pelicanilor creți.", "Parcul Național Divjaka-Karavasta.", "Biodiversitate mare."],
+      en: ["Home to Dalmatian pelicans.", "Divjaka-Karavasta National Park.", "Great biodiversity."]
+    }
   },
   {
     id: "nat-tomorr",
     name: { de: "Berg Tomorr", hu: "Tomorr-hegy", ro: "Muntele Tomorr", en: "Mount Tomorr" },
-    shortDesc: { de: "Heiliger Berg", hu: "Szent hegy", ro: "Munte sacru", en: "Sacred mountain" },
-    longDesc: { de: "Nationalpark und heiliger Berg für die Bektaschi.", hu: "Nemzeti park és szent hegy a bektasi rend számára.", ro: "Parc național și munte sacru pentru Bektashi.", en: "National park and sacred mountain for the Bektashi." },
-    type: "nature",
+    shortDesc: { de: "Heiliger Berg", hu: "Szent hegy", ro: "Muntele sfânt", en: "Holy mountain" },
+    longDesc: { de: "Ein imposanter Bergmassiv in der Nähe von Berat, ein heiliger Ort für Bektaschi.", hu: "Impozáns hegytömb Berat közelében, a bektasik szent helye.", ro: "Un masiv muntos impunător lângă Berat, un loc sfânt pentru bectași.", en: "An imposing mountain massif near Berat, a holy site for Bektashi." },
+    type: "mountain",
     coords: [40.6319, 20.1558],
-    parent: "country-albania"
+    parent: "AL-012",
+    facts: {
+      de: ["Wallfahrtsort.", "Nationalpark.", "Blick über ganz Albanien."],
+      hu: ["Zarándokhely.", "Nemzeti park.", "Kilátás egész Albániára."],
+      ro: ["Loc de pelerinaj.", "Parc național.", "Vedere peste toată Albania."],
+      en: ["Pilgrimage site.", "National park.", "View over all of Albania."]
+    }
   }
 ];
 
