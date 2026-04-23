@@ -77,7 +77,7 @@ export default function SachaufgabeTask({
               )}
               <div
                 className="flex-1 text-sm text-slate-800 leading-relaxed pl-3 border-l-4 border-blue-300 bg-blue-50/50 py-2 pr-2 rounded-r"
-                style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}
+                style={{ fontFamily: "var(--font-caveat), cursive, sans-serif", fontSize: '15px' }}
               >
                 {data.items.length > 1 && (
                   <span className="font-bold text-slate-500 mr-2">{idx + 1}.</span>
@@ -125,7 +125,7 @@ export default function SachaufgabeTask({
                   ${isWrong || isEmpty ? 'border-red-400 text-red-500 line-through' : ''}
                   ${!isGrading ? 'border-slate-700 text-indigo-600 focus:border-indigo-500' : ''}
                 `}
-                style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+                style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
               />
               <span className="text-sm text-slate-500 whitespace-nowrap">{item.answerUnit}</span>
               {(isWrong || isEmpty) && (

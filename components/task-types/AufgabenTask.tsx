@@ -66,7 +66,7 @@ export default function AufgabenTask({
                     className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-xs transition-colors self-center"
                     title="Vorlesen">🔊</button>
                 )}
-                <span className="text-sm text-slate-800" style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}>{item.question}</span>
+                <span className="text-sm text-slate-800" style={{ fontFamily: "var(--font-caveat), cursive, sans-serif", fontSize: '15px' }}>{item.question}</span>
               </div>
               <div className="flex flex-wrap gap-2 pl-5">
                 {item.options.map((opt) => {
@@ -130,7 +130,7 @@ export default function AufgabenTask({
                       ${isWrong || isEmpty ? 'border-red-400 text-red-500 line-through' : ''}
                       ${!isGrading ? 'border-slate-700 text-indigo-600 focus:border-indigo-500' : ''}
                     `}
-                    style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+                    style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
                   />
                   {(isWrong || isEmpty) && (
                     <span className="text-green-600 text-[10px] font-bold">{correct}</span>
@@ -145,7 +145,7 @@ export default function AufgabenTask({
               <>
                 <span
                   className="text-sm text-slate-800 flex-1"
-                  style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}
+                  style={{ fontFamily: "var(--font-caveat), cursive, sans-serif", fontSize: '15px' }}
                 >
                   {item.question}
                 </span>
@@ -166,7 +166,7 @@ export default function AufgabenTask({
                       ${isWrong || isEmpty ? 'border-red-400 text-red-500 line-through' : ''}
                       ${!isGrading ? 'border-slate-700 text-indigo-600 focus:border-indigo-500' : ''}
                     `}
-                    style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+                    style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
                   />
                   {(isWrong || isEmpty) && (
                     <span className="text-green-600 text-[10px] font-bold">{correct}</span>

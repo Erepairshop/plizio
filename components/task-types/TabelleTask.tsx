@@ -87,7 +87,7 @@ export default function TabelleTask({
                             ${isWrong || isEmpty ? 'text-red-500 line-through' : ''}
                             ${!isGrading ? 'text-indigo-600 focus:bg-indigo-50' : ''}
                           `}
-                          style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+                          style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
                         />
                         {(isWrong || isEmpty) && (
                           <span className="text-green-600 text-[10px] font-bold leading-none pb-0.5">

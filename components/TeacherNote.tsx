@@ -354,7 +354,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
             </motion.div>
             <motion.span
               className="text-xs font-bold text-amber-700"
-              style={{ fontFamily: "'Caveat', cursive" }}
+              style={{ fontFamily: "var(--font-caveat), cursive" }}
               animate={{ opacity: [1, 0.4, 1] }}
               transition={{ duration: 1.4, repeat: Infinity }}
             >
@@ -403,7 +403,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                     width: 36, height: 36, borderRadius: '50%',
                     background: noteColor, color: 'white',
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    fontFamily: "'Caveat', cursive", fontSize: 20, fontWeight: 800,
+                    fontFamily: "var(--font-caveat), cursive", fontSize: 20, fontWeight: 800,
                     boxShadow: `0 0 12px ${noteColor}60`,
                   }}
                 >
@@ -417,7 +417,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.1 }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 12, color: '#9ca3af', marginBottom: 3, letterSpacing: 1 }}
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 12, color: '#9ca3af', marginBottom: 3, letterSpacing: 1 }}
                 >
                   {TEACHER_LABEL[lang]}:
                 </motion.p>
@@ -426,7 +426,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                   initial={{ clipPath: 'inset(0 100% 0 0)', opacity: 0 }}
                   animate={{ clipPath: 'inset(0 0% 0 0)', opacity: 1 }}
                   transition={{ delay: 0.3, duration: 0.7, ease: 'easeOut' }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: noteColor, fontWeight: 700, marginBottom: 2 }}
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 14, color: noteColor, fontWeight: 700, marginBottom: 2 }}
                 >
                   {NOTE_WORD[lang]}: {noteValue} – {noteLabel}
                 </motion.p>
@@ -436,7 +436,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                   animate={{ clipPath: 'inset(0 0% 0 0)' }}
                   transition={{ delay: 0.7, duration: firstDuration, ease: 'linear' }}
                   style={{
-                    fontFamily: "'Caveat', cursive", fontSize: 20, fontWeight: 700,
+                    fontFamily: "var(--font-caveat), cursive", fontSize: 20, fontWeight: 700,
                     color: isExcellent ? '#92400e' : isGood ? '#1e40af' : '#374151',
                     lineHeight: 1.3,
                   }}
@@ -450,7 +450,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                     animate={{ clipPath: 'inset(0 0% 0 0)' }}
                     transition={{ delay: 0.7 + firstDuration + 0.3, duration: secondDuration, ease: 'linear' }}
                     style={{
-                      fontFamily: "'Caveat', cursive", fontSize: 17,
+                      fontFamily: "var(--font-caveat), cursive", fontSize: 17,
                       color: isExcellent ? '#b45309' : isGood ? '#1d4ed8' : '#4b5563',
                       lineHeight: 1.3,
                     }}
@@ -463,7 +463,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.7 + firstDuration + secondDuration + 0.6 }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#6b7280', marginTop: 5 }}
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 13, color: '#6b7280', marginTop: 5 }}
                 >
                   {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
@@ -473,10 +473,10 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                   transition={{ delay: 0.7 + firstDuration + secondDuration + 0.85, duration: 0.35 }}
                   style={{ marginTop: 10, paddingTop: 8, borderTop: '1px dashed rgba(148, 163, 184, 0.45)' }}
                 >
-                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#475569', marginBottom: 2 }}>
+                  <p style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 13, color: '#475569', marginBottom: 2 }}>
                     <strong>{DIAGNOSIS_LABEL[lang]}:</strong> {diagnosis.summary}
                   </p>
-                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#475569' }}>
+                  <p style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 13, color: '#475569' }}>
                     <strong>{NEXT_STEP_LABEL[lang]}:</strong> {diagnosis.next}
                   </p>
                 </motion.div>
@@ -538,14 +538,14 @@ export default function TeacherNote({ visible, playerName, percentage, countryCo
               </motion.div>
               <div style={{ flex: 1 }}>
                 <motion.p initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.2 }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#9ca3af', marginBottom: 4, letterSpacing: 1 }}>
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 13, color: '#9ca3af', marginBottom: 4, letterSpacing: 1 }}>
                   {TEACHER_LABEL[lang]}:
                 </motion.p>
                 <motion.p
                   initial={{ opacity: 0, clipPath: 'inset(0 100% 0 0)' }}
                   animate={{ opacity: 1, clipPath: 'inset(0 0% 0 0)' }}
                   transition={{ delay: 0.4, duration: 0.9, ease: 'easeOut' }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 22, fontWeight: 700, color: isExcellent ? '#92400e' : isGood ? '#1e40af' : '#374151', lineHeight: 1.3, whiteSpace: 'nowrap' }}>
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 22, fontWeight: 700, color: isExcellent ? '#92400e' : isGood ? '#1e40af' : '#374151', lineHeight: 1.3, whiteSpace: 'nowrap' }}>
                   {firstPart}!
                 </motion.p>
                 {secondPart && (
@@ -553,12 +553,12 @@ export default function TeacherNote({ visible, playerName, percentage, countryCo
                     initial={{ opacity: 0, clipPath: 'inset(0 100% 0 0)' }}
                     animate={{ opacity: 1, clipPath: 'inset(0 0% 0 0)' }}
                     transition={{ delay: 1.1, duration: 0.7, ease: 'easeOut' }}
-                    style={{ fontFamily: "'Caveat', cursive", fontSize: 19, color: isExcellent ? '#b45309' : isGood ? '#1d4ed8' : '#4b5563', lineHeight: 1.3 }}>
+                    style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 19, color: isExcellent ? '#b45309' : isGood ? '#1d4ed8' : '#4b5563', lineHeight: 1.3 }}>
                     {secondPart}
                   </motion.p>
                 )}
                 <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.7 }}
-                  style={{ fontFamily: "'Caveat', cursive", fontSize: 15, color: '#6b7280', marginTop: 6 }}>
+                  style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 15, color: '#6b7280', marginTop: 6 }}>
                   {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
                 <motion.div
@@ -567,10 +567,10 @@ export default function TeacherNote({ visible, playerName, percentage, countryCo
                   transition={{ delay: 1.9, duration: 0.35 }}
                   style={{ marginTop: 10, paddingTop: 8, borderTop: '1px dashed rgba(148, 163, 184, 0.45)' }}
                 >
-                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: '#475569', marginBottom: 2 }}>
+                  <p style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 14, color: '#475569', marginBottom: 2 }}>
                     <strong>{DIAGNOSIS_LABEL[lang]}:</strong> {diagnosis.summary}
                   </p>
-                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: '#475569' }}>
+                  <p style={{ fontFamily: "var(--font-caveat), cursive", fontSize: 14, color: '#475569' }}>
                     <strong>{NEXT_STEP_LABEL[lang]}:</strong> {diagnosis.next}
                   </p>
                 </motion.div>

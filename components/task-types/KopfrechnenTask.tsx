@@ -68,7 +68,7 @@ export default function KopfrechnenTask({
                 ${isWrong || isEmpty ? 'border-red-400 text-red-500 line-through' : ''}
                 ${!isGrading ? 'border-slate-700 text-indigo-600 focus:border-indigo-500' : ''}
               `}
-              style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+              style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
             />
             {isWrong && (
               <span className="text-green-600 text-xs font-bold ml-1">{correct}</span>

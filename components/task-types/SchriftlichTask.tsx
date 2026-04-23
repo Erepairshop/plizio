@@ -103,7 +103,7 @@ export default function SchriftlichTask({
                   ${isWrong || isEmpty ? 'border-red-400 text-red-500 line-through' : ''}
                   ${!isGrading ? 'border-slate-700 text-indigo-600 focus:border-indigo-500' : ''}
                 `}
-                style={{ fontFamily: "'Caveat', cursive, sans-serif" }}
+                style={{ fontFamily: "var(--font-caveat), cursive, sans-serif" }}
               />
             </div>
 

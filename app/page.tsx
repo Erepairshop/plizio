@@ -1,10 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
-import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, type LucideIcon } from "lucide-react";
-import { AnimatePresence } from "framer-motion";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -14,8 +13,6 @@ import { getStats } from "@/lib/milestones";
 import { claimDailyReward, awardPendingDailyStars, type DailyRewardResult } from "@/lib/dailyReward";
 import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
-import AuthModal from "@/components/AuthModal";
-import UsernameModal from "@/components/UsernameModal";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -23,6 +20,9 @@ import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+
+const AuthModal = dynamic(() => import("@/components/AuthModal"), { ssr: false });
+const UsernameModal = dynamic(() => import("@/components/UsernameModal"), { ssr: false });
 
 interface GameDef {
   id: string;
@@ -1053,20 +1053,18 @@ export default function Home() {
       <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
         {/* Language switcher + menu — left */}
         <div className="flex items-center gap-2 pointer-events-auto">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.4 }}
+          <div
+            className="animate-enter-left opacity-0"
+            style={{ animationDelay: "0.4s" }}
           >
             <HamburgerMenu />
-          </motion.div>
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.45 }}
+          </div>
+          <div
+            className="animate-enter-left opacity-0"
+            style={{ animationDelay: "0.45s" }}
           >
             <LanguageSwitcher />
-          </motion.div>
+          </div>
         </div>
 
         {/* Nav buttons — right */}
@@ -1080,22 +1078,19 @@ export default function Home() {
           ] as const).map((btn) => {
             const Icon = btn.icon;
             return (
-              <motion.div
+              <div
                 key={btn.href}
-                initial={{ opacity: 0, scale: 0 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: btn.delay, type: "spring" }}
+                className="animate-enter-pop opacity-0"
+                style={{ animationDelay: `${btn.delay}s` }}
               >
-                <motion.button
+                <button
                   onClick={() => router.push(btn.href)}
-                  className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-2.5 rounded-full`}
+                  className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-2.5 rounded-full transition-transform duration-200 hover:scale-110 active:scale-90`}
                   style={btn.glow ? { boxShadow: btn.glow } : undefined}
-                  whileHover={{ scale: 1.15 }}
-                  whileTap={{ scale: 0.9 }}
                 >
                   <Icon size={18} style={{ color: btn.color, filter: `drop-shadow(0 0 4px ${btn.color}80)` }} />
-                </motion.button>
-              </motion.div>
+                </button>
+              </div>
             );
           })}
         </div>
@@ -1130,63 +1125,58 @@ export default function Home() {
       )}
 
       {/* Daily reward popup */}
-      <AnimatePresence>
-        {dailyReward && !dailyReward.alreadyClaimed && (
-          <motion.div
-            initial={{ opacity: 0, scale: 0.85, y: 40 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            exit={{ opacity: 0, scale: 0.85, y: 40 }}
-            className="fixed inset-0 z-50 flex items-center justify-center p-4"
-            onClick={() => setDailyReward(null)}
+      {dailyReward && !dailyReward.alreadyClaimed && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-fade-in"
+          onClick={() => setDailyReward(null)}
+        >
+          <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
+          <div
+            className="relative bg-[#12122A] border border-white/10 rounded-2xl p-6 max-w-xs w-full text-center shadow-2xl animate-enter-up"
+            onClick={(e) => e.stopPropagation()}
           >
-            <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
-            <motion.div
-              className="relative bg-[#12122A] border border-white/10 rounded-2xl p-6 max-w-xs w-full text-center shadow-2xl"
-              onClick={(e) => e.stopPropagation()}
-            >
-              {/* Streak flame */}
-              <div className="text-5xl mb-2">
-                {dailyReward.streakCount >= 30 ? "🏆" : dailyReward.streakCount >= 14 ? "💎" : dailyReward.streakCount >= 7 ? "🔥" : "⭐"}
-              </div>
-              <h2 className="text-white font-bold text-xl mb-1">
-                {dailyReward.streakBroken ? "Welcome back!" : "Daily Reward!"}
-              </h2>
-              <p className="text-white/50 text-sm mb-4">
-                {dailyReward.streakCount} day streak 🔥
-              </p>
+            {/* Streak flame */}
+            <div className="text-5xl mb-2">
+              {dailyReward.streakCount >= 30 ? "🏆" : dailyReward.streakCount >= 14 ? "💎" : dailyReward.streakCount >= 7 ? "🔥" : "⭐"}
+            </div>
+            <h2 className="text-white font-bold text-xl mb-1">
+              {dailyReward.streakBroken ? "Welcome back!" : "Daily Reward!"}
+            </h2>
+            <p className="text-white/50 text-sm mb-4">
+              {dailyReward.streakCount} day streak 🔥
+            </p>
 
-              {/* Reward breakdown */}
-              <div className="bg-white/5 rounded-xl p-3 mb-3 space-y-1">
+            {/* Reward breakdown */}
+            <div className="bg-white/5 rounded-xl p-3 mb-3 space-y-1">
+              <div className="flex justify-between text-sm">
+                <span className="text-white/70">Daily reward</span>
+                <span className="text-yellow-400 font-bold">+1 ⭐</span>
+              </div>
+              {dailyReward.streakBonus > 0 && (
                 <div className="flex justify-between text-sm">
-                  <span className="text-white/70">Daily reward</span>
-                  <span className="text-yellow-400 font-bold">+1 ⭐</span>
+                  <span className="text-orange-400">
+                    {dailyReward.streakCount}d streak bonus!
+                  </span>
+                  <span className="text-orange-400 font-bold">+{dailyReward.streakBonus} ⭐</span>
                 </div>
-                {dailyReward.streakBonus > 0 && (
-                  <div className="flex justify-between text-sm">
-                    <span className="text-orange-400">
-                      {dailyReward.streakCount}d streak bonus!
-                    </span>
-                    <span className="text-orange-400 font-bold">+{dailyReward.streakBonus} ⭐</span>
-                  </div>
-                )}
-                <div className="border-t border-white/10 pt-1 flex justify-between text-sm font-bold">
-                  <span className="text-white">Total</span>
-                  <span className="text-yellow-400">+{1 + dailyReward.streakBonus} ⭐</span>
-                </div>
+              )}
+              <div className="border-t border-white/10 pt-1 flex justify-between text-sm font-bold">
+                <span className="text-white">Total</span>
+                <span className="text-yellow-400">+{1 + dailyReward.streakBonus} ⭐</span>
               </div>
+            </div>
 
-              <p className="text-white/40 text-xs mb-3">Play a game to claim your reward!</p>
+            <p className="text-white/40 text-xs mb-3">Play a game to claim your reward!</p>
 
-              <button
-                onClick={() => setDailyReward(null)}
-                className="w-full py-2.5 bg-neon-blue/20 hover:bg-neon-blue/30 border border-neon-blue/40 text-neon-blue rounded-xl font-bold transition-colors"
-              >
-                Let&apos;s Play!
-              </button>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+            <button
+              onClick={() => setDailyReward(null)}
+              className="w-full py-2.5 bg-neon-blue/20 hover:bg-neon-blue/30 border border-neon-blue/40 text-neon-blue rounded-xl font-bold transition-colors"
+            >
+              Let&apos;s Play!
+            </button>
+          </div>
+        </div>
+      )}
     </main>
   );
 }

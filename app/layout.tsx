@@ -1,12 +1,19 @@
 import type { Metadata, Viewport } from "next";
+import { Caveat } from "next/font/google";
 import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import { LanguageProvider } from "@/components/LanguageProvider";
-import ChallengeOverlay from "@/components/ChallengeOverlay";
-import AITutorOverlay from "@/components/AITutorOverlay";
 import CookieConsent from "@/components/CookieConsent";
 import JsonLd from "@/components/JsonLd";
+import GlobalOverlays from "@/components/GlobalOverlays";
 import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/schema";
+
+const caveat = Caveat({
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
+  display: "swap",
+  variable: "--font-caveat",
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -101,13 +108,14 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* Google Analytics loaded conditionally via CookieConsent component */}
+        <link rel="preload" as="image" href="/apple-touch-icon.png" />
+        <link rel="preload" as="image" href="/favicon-32x32.png" />
+        <link rel="preload" as="image" href="/favicon-16x16.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        {/* Font: self-host Caveat for performance – files served from /public/fonts */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        {/* next/font preloads Caveat without a blocking Google Fonts stylesheet */}
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap" rel="stylesheet" />
         {/* Preconnect/DNS-prefetch GTM so that the deferred GA load is DNS-warm when it fires */}
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
@@ -115,11 +123,10 @@ export default function RootLayout({
         <JsonLd data={buildOrganizationSchema()} />
         <JsonLd data={buildWebsiteSchema()} />
       </head>
-      <body className="min-h-screen bg-bg antialiased">
+      <body className={`${caveat.variable} min-h-screen bg-bg antialiased`}>
         <LanguageProvider>
           {children}
-          <ChallengeOverlay />
-          <AITutorOverlay />
+          <GlobalOverlays />
         </LanguageProvider>
         <CookieConsent />
         <ServiceWorkerRegister />

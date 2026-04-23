@@ -367,7 +367,7 @@ export default function MathQuestionDisplay({
             >
               {isCorrect ? (
                 <span style={{
-                  fontFamily: "'Caveat', cursive",
+                  fontFamily: "var(--font-caveat), cursive",
                   fontSize: 24,
                   color: '#16a34a',
                   fontWeight: 700,
@@ -396,7 +396,7 @@ export default function MathQuestionDisplay({
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ delay: 0.25, type: 'spring', stiffness: 300 }}
                     style={{
-                      fontFamily: "'Caveat', cursive",
+                      fontFamily: "var(--font-caveat), cursive",
                       fontSize: 26,
                       color: '#dc2626',
                       fontWeight: 700,
