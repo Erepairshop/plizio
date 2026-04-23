@@ -2,9 +2,25 @@
 // Grade 8 (8. osztály) Hungarian language generators
 // 10 topics for advanced secondary school: language history, style, text analysis, debate
 
-import type { CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumMCQ, CurriculumTyping, CurriculumQuestion } from "./curriculumTypes";
 
 type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+type MagyarTyping = CurriculumTyping & { type: "typing" };
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): MagyarTyping {
+  return {
+    type: "typing",
+    topic,
+    subtopic,
+    question,
+    answer,
+  } as MagyarTyping;
+}
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
@@ -135,9 +151,9 @@ const REFUTATION = [
 
 // ─── GENERATOR FUNCTIONS ────────────────────────────────────────────────────
 
-export function generateOmagyarNyelvemlekek(seed?: number): CurriculumMCQ[] {
+export function generateOmagyarNyelvemlekek(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -166,24 +182,25 @@ export function generateOmagyarNyelvemlekek(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  // Typing questions
-  for (let i = 0; i < 15; i++) {
-    const text = pick(TEXTS_OMAGYR, rng);
-    q.push({
-      type: "typing",
-      topic: "nyelvtort",
-      subtopic: "omagyr",
-      question: `Nevezz meg egy ómagyar nyelvemléket a ${text.time}-ból!`,
-      correctAnswers: [text.title],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Melyik a legrégebbi ismert magyar szövegemlék?", "Halotti beszéd"],
+    ["Mi az Ómagyar Mária-siralom?", ["ómagyar nyelvemléke", "lírai szöveg", "vallásos szöveg"]],
+    ["Melyik korszakból való a Halotti Beszéd?", "1100-as évek"],
+    ["Mit bizonyítanak az ómagyar szövegemlékek?", ["a magyar nyelv régiségét", "a magyar írásbeliség kezdetét"]],
+    ["Melyik ómagyar szöveg vallásos lírai alkotás?", "Ómagyar Mária-siralom"],
+    ["Milyen nyelven íródtak az első magyar szövegemlékek?", ["latinul és magyarul", "latin és magyar"]],
+    ["Mi a Königsberg-töredék?", ["ómagyar szöveg", "töredékes szövegemlék"]],
+    ["Melyik évszázadból való az Ómagyar Mária-siralom?", "1100-as évek"],
+    ["Mit jelent az 'ómagyar' szó a nyelvtörténetben?", ["korai magyar", "régi magyar"]],
+    ["Milyen műfajú a Halotti Beszéd?", ["halotti prédikáció", "egyházi szöveg"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nyelvtort", "omagyr", t[0], t[1])));
   return q;
 }
 
-export function generateKodexekFejlodese(seed?: number): CurriculumMCQ[] {
+export function generateKodexekFejlodese(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -212,23 +229,25 @@ export function generateKodexekFejlodese(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const codex = pick(CODICES, rng);
-    q.push({
-      type: "typing",
-      topic: "nyelvtort",
-      subtopic: "kodexek",
-      question: `Melyik kódexet írták a ${codex.date} körül?`,
-      correctAnswers: [codex.name],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Melyik a legrégebbi teljes magyar szöveget tartalmazó kódex?", "Winkler kódex"],
+    ["Mi a Jókai kódex tartalma?", ["Szentférenc-legenda", "ferences legenda"]],
+    ["Milyen szövegeket tartalmaztak a középkori kódexek?", ["egyházi szövegek", "imádságok és legendák"]],
+    ["Melyik kódex tartalmaz protestáns reformáció nyomait?", "Érdy kódex"],
+    ["Mi a Müncheni kódex?", ["ómagyar nyelvemlék", "középkori kódex"]],
+    ["Mikor írták a Jókai kódexet?", "1372-1382"],
+    ["Milyen anyagra írták a középkori kódexeket?", ["pergamenre", "bőrre"]],
+    ["Ki készítette a középkori kódexeket?", ["szerzetesek", "apácák", "kolostori másolók"]],
+    ["Mit jelent a kódex szó?", ["könyv", "kéziratos könyv"]],
+    ["Melyik kódex tartalmaz bibliai történeteket?", "Winkler kódex"],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("nyelvtort", "kodexek", t[0], t[1])));
   return q;
 }
 
-export function generateAlliteracioRitmika(seed?: number): CurriculumMCQ[] {
+export function generateAlliteracioRitmika(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -256,23 +275,25 @@ export function generateAlliteracioRitmika(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const type = i % 2;
-    q.push({
-      type: "typing",
-      topic: "stilus",
-      subtopic: "alliteracio_ritmika",
-      question: type === 0 ? "Mondj egy szövegrészt, amely alliterációval rendelkezik!" : "Milyen hatást ér el az alliteráció?",
-      correctAnswers: type === 0 ? ["sóhaj, sóvárgás", "zöld, zengő"] : ["Szépséget, harmóniát", "Hangsúlyos hatást"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az alliteráció?", ["azonos kezdőhang ismétlése", "szavak azonos betűvel kezdődnek"]],
+    ["Adj példát alliterációra!", ["sóhaj sóvárgás", "szél szikra szándék"]],
+    ["Mit jelent a ritmika a szövegben?", ["hangsor rendszeres ismétlődése", "szavak ritmusos elrendezése"]],
+    ["Milyen hatást kelt az alliteráció?", ["zenei hatást", "ritmust", "nyomatékot"]],
+    ["Hol fordul elő leggyakrabban az alliteráció?", ["versekben", "költeményekben"]],
+    ["Mi a különbség az alliteráció és a rím között?", ["alliteráció elején, rím végén", "más helyzetű hangismétlés"]],
+    ["Melyik stilisztikai eszköz a 'szép szó, szívből szól'?", "alliteráció"],
+    ["Mi az asonánc?", ["azonos magánhangzók ismétlése", "magánhangzó-alliteráció"]],
+    ["Mit fejez ki a ritmus a szövegben?", ["tempót és dallamot", "hangzásbeli rendszert"]],
+    ["Adj példát ritmikus mondatra!", ["Taka-taka megy a szekér", "Jön a tavasz, virít a rét"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("stilus", "alliteracio_ritmika", t[0], t[1])));
   return q;
 }
 
-export function generateIronjaSzatira(seed?: number): CurriculumMCQ[] {
+export function generateIronjaSzatira(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -298,22 +319,25 @@ export function generateIronjaSzatira(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "stilus",
-      subtopic: "irónia_szatira",
-      question: "Adj egy példát ironikus kijelentésre!",
-      correctAnswers: ["Milyen szép az idő!", "Mennyire talpraesett a viselkedésed!", "Remek ötlet!"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az irónia?", ["ellentétes értelmezéssel mondott kijelentés", "gúnyos megjegyzés"]],
+    ["Adj példát ironikus kijelentésre!", ["Milyen szép az idő!", "Remek ötlet!"]],
+    ["Mi a szatíra célja?", ["társadalmi kritika", "gúnyos társadalomkritika"]],
+    ["Mi a paródia?", ["mű gúnyos utánzása", "tréfás utánzás"]],
+    ["Melyik irodalmi eszköz az 'éles gúny a politikusokra'?", "szatíra"],
+    ["Miben különbözik az irónia a szarkazmustól?", ["szarkazmus erősebb és kegyetlenebb", "szarkazmus sértőbb"]],
+    ["Ki a szatíra legismertebb magyar mestere?", ["Mikszáth Kálmán", "Karinthy Frigyes"]],
+    ["Milyen szándékkal él a szerző iróniával?", ["humoros hatásra", "kritikára", "meglepetésre"]],
+    ["Mi a groteszk?", ["komikus és rémisztő keveréke", "torz ábrázolás"]],
+    ["Mit jelent az önirónia?", ["önmagán való gúnyolódás", "saját hibák ironikus emlegetése"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("stilus", "irónia_szatira", t[0], t[1])));
   return q;
 }
 
-export function generateIrodalmielemzes(seed?: number): CurriculumMCQ[] {
+export function generateIrodalmielemzes(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -339,22 +363,25 @@ export function generateIrodalmielemzes(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "szoveg",
-      subtopic: "irodalmi_elemzes",
-      question: "Adj meg egy motívumot a magyar irodalomból!",
-      correctAnswers: ["halál", "szerelem", "szabadság", "természet"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a metafora?", ["szó átvitt értelmű használata", "képes kifejezés"]],
+    ["Mi az allegória?", ["szimbolikus történet elvont értelemmel", "elvont gondolat képes ábrázolása"]],
+    ["Mi a szimbólum az irodalomban?", ["valóság és elvont gondolat egysége", "jelkép"]],
+    ["Mi a motívum a szövegelemzésben?", ["ismétlődő tartalmi egység", "visszatérő elem"]],
+    ["Nevezz meg egy motívumot a magyar irodalomból!", ["halál", "szabadság", "szerelem", "természet"]],
+    ["Mi a hasonlat?", ["két dolog hasonlóságát fejezi ki", "összehasonlítás 'mint' szóval"]],
+    ["Mi a metonímia?", ["dolog neve helyett kapcsolódó szó áll", "névcsere"]],
+    ["Mit jelent a szinekdoché?", ["rész az egész helyett", "egész a rész helyett"]],
+    ["Mi a hiperbola?", ["szándékos túlzás", "erősen nagyított kifejezés"]],
+    ["Mi a personifikáció?", ["élettelen dolog emberi tulajdonságot kap", "megszemélyesítés"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szoveg", "irodalmi_elemzes", t[0], t[1])));
   return q;
 }
 
-export function generateKritikaiGondolkodas(seed?: number): CurriculumMCQ[] {
+export function generateKritikaiGondolkodas(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -380,22 +407,25 @@ export function generateKritikaiGondolkodas(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "szoveg",
-      subtopic: "kritikai_gondolkodas",
-      question: "Milyen kérdéseket teszel fel egy szöveg kritikai elemzésekor?",
-      correctAnswers: ["Ki az írója?", "Mi a célja?", "Igaz-e az, amit mond?"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az első lépés a szöveg kritikai elemzésekor?", ["a fő mondanivaló azonosítása", "téma meghatározása"]],
+    ["Milyen kérdést teszel fel kritikai olvasáskor a szerzőről?", ["Mi a szerző célja?", "Ki írta?"]],
+    ["Mit vizsgálsz egy érv elemzésekor?", ["van-e bizonyítéka", "mire épül az érv"]],
+    ["Mi az elfogultság (bias) egy szövegben?", ["egyoldalú nézőpont", "részrehajló vélemény"]],
+    ["Hogyan ellenőrzöd egy állítás igazságát?", ["forrásból", "más forrással összevetve"]],
+    ["Mit jelent a forrás megbízhatósága?", ["mennyire hiteles az információforrás", "a forrás hitelessége"]],
+    ["Mi a propaganda?", ["manipulatív, egyoldalú meggyőzés", "politikai manipuláció"]],
+    ["Mit jelent a tényszerű állítás?", ["igazolható, ellenőrizhető kijelentés", "tény"]],
+    ["Mit jelent a véleményes állítás?", ["szubjektív nézőpont", "szubjektív kijelentés"]],
+    ["Miért fontos a kritikai gondolkodás az olvasásban?", ["hogy ne legyünk manipulálhatók", "a valóság megismeréséhez"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szoveg", "kritikai_gondolkodas", t[0], t[1])));
   return q;
 }
 
-export function generateHelyesirasOsszefoglalo(seed?: number): CurriculumMCQ[] {
+export function generateHelyesirasOsszefoglalo(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -421,22 +451,25 @@ export function generateHelyesirasOsszefoglalo(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "helyesiras",
-      subtopic: "osszefoglalo",
-      question: "Helyesen írj egy mondatot nagybetűs szavakkal!",
-      correctAnswers: ["Budapest szép város.", "Péter és Anna összebarátkoztak.", "Hétfőn mentem az iskolába."],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Milyen szavakat írunk nagybetűvel?", ["tulajdonneveket", "tulajdonnév"]],
+    ["Hogyan írjuk az összetett szavakat?", ["egybeírva vagy kötőjellel", "összetételi határon választva el"]],
+    ["Mi a helyes: 'barátom' vagy 'baratom'?", "barátom"],
+    ["Hogyan jelöljük a hosszú magánhangzókat?", ["ékezet", "kettős ékezet"]],
+    ["Milyen jelet tesz kérdő mondat végére?", "kérdőjelet"],
+    ["Hogyan írjuk a 'ly' hangot az 'újság' szóban?", "j-vel"],
+    ["Mi a helyes elválasztás: 'ba-rát' vagy 'bar-át'?", "ba-rát"],
+    ["Mikor nem tesszük ki a hosszú mássalhangzót?", ["szóhatáron", "összetett szavak határán"]],
+    ["Hogyan írjuk: 'különben' vagy 'külömben'?", "különben"],
+    ["Hány szótagra bontható a 'magyarország' szó?", ["öt", "5"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("helyesiras", "osszefoglalo", t[0], t[1])));
   return q;
 }
 
-export function generateKozmaGyar(seed?: number): CurriculumMCQ[] {
+export function generateKozmaGyar(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -462,22 +495,25 @@ export function generateKozmaGyar(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "norma",
-      subtopic: "kozmagyar",
-      question: "Adj egy példát az eltérő nyelvhasználatra!",
-      correctAnswers: ["Formális vs. informális", "Tudományos vs. köznyelvi", "Archaikus vs. modern"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a közmagyar?", ["az egész magyar közösség által értett nyelvváltozat", "sztenderd magyar"]],
+    ["Hol használják leggyakrabban a közmagyart?", ["médiában és oktatásban", "közmédiában"]],
+    ["Mi a különbség a formális és informális stílus között?", ["formális szabályosabb, informális kötöttebb", "helyzethez igazított nyelvhasználat"]],
+    ["Mi a regiszter a nyelvhasználatban?", ["a formális vagy informális szint", "stílusszint"]],
+    ["Mit jelent a nyelvhasználat?", ["hogyan és milyen szavakkal fejezzük ki magunkat", "a szavak megválasztása"]],
+    ["Adj példát formális nyelvhasználatra!", ["Tisztelt igazgató úr!", "Kérem szépen engedje meg"]],
+    ["Adj példát informális nyelvhasználatra!", ["szia!", "Hogy vagy?"]],
+    ["Mi a szleng?", ["informális, csoportspecifikus szókincs", "argó"]],
+    ["Mi az irodalmi nyelv?", ["normatív írott nyelvváltozat", "gondosan megformált írott nyelv"]],
+    ["Mi a különbség a táj- és irodalmi nyelv között?", ["tájnyelv regionális, irodalmi normatív", "területi különbség"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("norma", "kozmagyar", t[0], t[1])));
   return q;
 }
 
-export function generateTudomanyosSzoveg(seed?: number): CurriculumMCQ[] {
+export function generateTudomanyosSzoveg(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -503,22 +539,25 @@ export function generateTudomanyosSzoveg(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "szoveg",
-      subtopic: "tudomanyos",
-      question: "Nézz meg egy tudományos cikket! Mely részeket tartalmaz?",
-      correctAnswers: ["absztrakt", "bevezetés", "konklúzió", "irodalomjegyzék"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az absztrakt egy tudományos cikkben?", ["rövid összefoglalás", "kutatás rövid kivonata"]],
+    ["Mi a hipotézis?", ["igazolatlan feltételezés", "tesztelendő feltevés"]],
+    ["Mi a konklúzió?", ["következtetés", "kutatás végeredménye"]],
+    ["Milyen fő részekből áll egy tudományos cikk?", ["bevezetés, módszertan, eredmények, konklúzió", "absztrakt és irodalomjegyzék"]],
+    ["Mi a módszertani rész?", ["hogyan végezték a kutatást", "a kutatás módszere"]],
+    ["Mi jellemzi a tudományos stílust?", ["objektív, pontos, szakszókincs", "tárgyilagos és pontos"]],
+    ["Mit jelent a forráshivatkozás?", ["felhasznált irodalom jelölése", "forrás megjelölése"]],
+    ["Mi az irodalomjegyzék?", ["felhasznált források listája", "bibliográfia"]],
+    ["Miért fontos az objektivitás a tudományban?", ["hogy az eredmények ellenőrizhetők legyenek", "hitelesség miatt"]],
+    ["Mit jelent a replikálhatóság?", ["a kutatás megismételhető és ellenőrizhető", "reprodukálhatóság"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szoveg", "tudomanyos", t[0], t[1])));
   return q;
 }
 
-export function generateErvelesTechnika(seed?: number): CurriculumMCQ[] {
+export function generateErvelesTechnika(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -544,22 +583,25 @@ export function generateErvelesTechnika(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "vita",
-      subtopic: "erveles_technika",
-      question: "Adj egy példát jó érvelésre egy vitában!",
-      correctAnswers: ["Bizonyítékokkal támogatott érv", "Logikus gondolatsor", "Hitelesítés"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az analógia az érvelésben?", ["két hasonló dolog összehasonlítása", "hasonlatosságra épülő érv"]],
+    ["Mi a logikai érvelés alapja?", ["premisszák és következtetés", "logikus gondolatsor"]],
+    ["Mit jelent az etikai érv?", ["morális értékekre épülő érv", "értékekre hivatkozó érv"]],
+    ["Mi az érzelmi érv (patosz)?", ["érzelmekre ható meggyőzés", "érzelmi meggyőzés"]],
+    ["Adj példát jó érvelésre!", ["bizonyítékokkal támasztja alá", "logikus és tényeken alapuló"]],
+    ["Mi az ellentmondás az érvelésben?", ["egymásnak ellentmondó állítások", "logikai ellentét"]],
+    ["Mi a deduktív következtetés?", ["általánosból jutunk a különösre", "általánostól az egyediig"]],
+    ["Mi az induktív következtetés?", ["egyediből jutunk az általánosra", "egyeditől az általánosig"]],
+    ["Mit jelent az érvrendszer?", ["összefüggő érvek hálózata", "egymást erősítő érvek"]],
+    ["Miért kell bizonyíték az érvhez?", ["hogy az állítás hiteles legyen", "az érv alátámasztásához"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("vita", "erveles_technika", t[0], t[1])));
   return q;
 }
 
-export function generateCafolasModszer(seed?: number): CurriculumMCQ[] {
+export function generateCafolasModszer(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -585,24 +627,27 @@ export function generateCafolasModszer(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    q.push({
-      type: "typing",
-      topic: "vita",
-      subtopic: "cáfolás",
-      question: "Hogyan cáfolnál meg egy hamis általánosítást?",
-      correctAnswers: ["Ellenpéldával", "Logikai bizonyítással", "Forrás megkérdőjelezésével"],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Hogyan cáfolsz meg egy általánosítást?", ["ellenpéldával", "konkrét ellenpéldát mutatva"]],
+    ["Mi a petitio principii?", ["a tézist bizonyítékként használják", "körben forgó érvelés"]],
+    ["Mit jelent az ad hominem?", ["az érvelő személy támadása", "személyeskedő érv"]],
+    ["Hogyan kérdőjelezed meg egy forrás hitelességét?", ["megvizsgálom a forrást", "ki és mikor írta"]],
+    ["Mi a szalmabáb-érv?", ["torzított változat cáfolása", "félreértelmezett nézet megdöntése"]],
+    ["Mi a hamis dilemma?", ["csak két lehetőséget kínál fel", "mesterséges kétválasztás"]],
+    ["Miért fontos a logikai hibák felismerése?", ["hogy ne legyünk megtévesztve", "az érvelés minőségéhez"]],
+    ["Adj példát sikeres cáfolatra!", ["ellenpéldával bizonyítva", "logikával lebontva"]],
+    ["Mi a túlzott általánosítás hibája?", ["egy esetből általános következtetés", "egy esetből általánosít"]],
+    ["Hogyan cáfolod a hamis adatot?", ["megbízható forrásból ellenőrzöm", "más forrással ütköztetem"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("vita", "cáfolás", t[0], t[1])));
   return q;
 }
 
 // ─── 14 NEW ADVANCED GENERATORS (G8) ──────────────────────────────────────────
 
-export function generateDiscourseAnalysis(seed?: number): CurriculumMCQ[] {
+export function generateDiscourseAnalysis(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -621,28 +666,25 @@ export function generateDiscourseAnalysis(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Milyen szerep a nyelvben a hatalom?", a: "A szavak választása kifejezi a hatalmi viszonyokat" },
-      { q: "Mi az intertextualitás?", a: "Szövegek közötti párbeszéd és hivatkozások" },
-      { q: "Mit jelent a háttérismeretnek a diskurzusban?", a: "Az olvasó/hallgató által már ismert információk" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "diskurzus",
-      subtopic: "elemzés",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mit jelent a diskurzuselemzés?", ["szöveg társadalmi kontextusának vizsgálata", "szöveg és kontextus összefüggése"]],
+    ["Mi az intertextualitás?", ["szövegek közötti párbeszéd és hivatkozások", "szövegek egymásra utalása"]],
+    ["Milyen szerepe van a hatalomnak a nyelvben?", ["szavak választása kifejezi a hatalmi viszonyokat", "hatalom és tudás összefonódik"]],
+    ["Mi a diskurzus szerkezete?", ["ki beszél, kinek szól, milyen kontextusban", "résztvevők és kontextus"]],
+    ["Mit jelent a háttérismeret a diskurzusban?", ["az olvasó által már ismert információ", "előzetes tudás"]],
+    ["Mi a szövegkörnyezet (kontextus)?", ["az értelmezéshez szükséges körülmények", "a szöveg környezeti háttere"]],
+    ["Ki Foucault és mit mondott a diskurzusról?", ["hatalom és tudás összefonódásáról írt", "diskurzuselmélet kidolgozója"]],
+    ["Mi a kohézió a szövegben?", ["szövegrészek grammatikai összekapcsolódása", "szöveg belső kapcsolódása"]],
+    ["Mit jelent az implikáció?", ["ki nem mondott, de közvetített tartalom", "szövegen túlmutató jelentés"]],
+    ["Mi a metadiskurzus?", ["a szövegről szóló szöveg", "önreflexív szöveg"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("diskurzus", "elemzés", t[0], t[1])));
   return q;
 }
 
-export function generateSemantics(seed?: number): CurriculumMCQ[] {
+export function generateSemantics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -661,28 +703,25 @@ export function generateSemantics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a lexikai jelentés?", a: "Szó szótárban megtalálható alapjelentése" },
-      { q: "Mi a figuratív jelentés?", a: "Átvitt, szószerinti értelmezéstől eltérő jelentés" },
-      { q: "Mi a homonímia?", a: "Különböző jelentésű, azonos alakú szavak" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "szemantika",
-      subtopic: "szomantika",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szemantika?", ["szavak és kifejezések jelentésének tudománya", "jelentéstan"]],
+    ["Mi a lexikai jelentés?", ["szó szótárban megtalálható alapjelentése", "szótári jelentés"]],
+    ["Mi a figuratív jelentés?", ["átvitt, szószerinti értelmezéstől eltérő jelentés", "képes értelem"]],
+    ["Mi a homonímia?", ["különböző jelentésű, azonos alakú szavak", "azonos alak, különböző jelentés"]],
+    ["Mi a poliszémia?", ["egy szónak több jelentése van", "többjelentésűség"]],
+    ["Mi a szinonima?", ["azonos vagy hasonló jelentésű szavak", "rokon értelmű szó"]],
+    ["Mi az antonima?", ["ellentétes jelentésű szavak", "ellentétes értelmű szó"]],
+    ["Mi a konnotatív jelentés?", ["szóhoz kapcsolódó mellékjelentés, érzelmi tartalom", "asszociatív jelentés"]],
+    ["Mi a denotatív jelentés?", ["szó objektív, elsődleges szótári jelentése", "alapjelentés"]],
+    ["Mit jelent a szemantikai mezők fogalma?", ["azonos témakörbe tartozó szavak csoportja", "szócsalád"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szemantika", "szomantika", t[0], t[1])));
   return q;
 }
 
-export function generateNarratology(seed?: number): CurriculumMCQ[] {
+export function generateNarratology(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -701,28 +740,25 @@ export function generateNarratology(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi az első személyű narráció?", a: "Az elbeszélő az 'én' formában beszél" },
-      { q: "Mi a harmadik személyű narráció?", a: "Az elbeszélő külső szempontból beszél" },
-      { q: "Mi a megbízhatatlan narrátor?", a: "Az elbeszélő szándékosan vagy véletlenül félrevezet" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "narratologia",
-      subtopic: "narracio",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a narratológia?", ["az elbeszélés szerkezetének tudománya", "elbeszéléselmélet"]],
+    ["Mi az első személyű narráció?", ["az elbeszélő 'én' formában szól", "én-elbeszélés"]],
+    ["Mi a harmadik személyű narráció?", ["az elbeszélő külső szempontból mesél", "külső narrátor"]],
+    ["Mi a megbízhatatlan narrátor?", ["szándékosan vagy véletlenül félrevezet", "nem hihető narrátor"]],
+    ["Mi a narrátori perspektíva?", ["az elbeszélő személye és nézőpontja", "elbeszélői látószög"]],
+    ["Mi az omniszciens narrátor?", ["mindentudó elbeszélő", "mindent tud a szereplőkről"]],
+    ["Mi a belső monológ?", ["szereplő gondolatainak közvetlen megjelenítése", "tudatfolyam"]],
+    ["Mi az autobiografikus narratíva?", ["saját élményből merítő, első személyű elbeszélés", "önéletrajzi elbeszélés"]],
+    ["Mit jelent a nézőpont az irodalomban?", ["honnan és kinek a szemével látjuk a történetet", "elbeszélői szempont"]],
+    ["Mi a kerettörténet?", ["egy történeten belüli másik történet kerete", "beágyazott elbeszélés"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("narratologia", "narracio", t[0], t[1])));
   return q;
 }
 
-export function generatePragmatics(seed?: number): CurriculumMCQ[] {
+export function generatePragmatics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -741,28 +777,25 @@ export function generatePragmatics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi az előfeltevés a beszédben?", a: "Amit a hallgatónak már ismernie kell az értelmezéshez" },
-      { q: "Mi az implikatúra?", a: "Az elhangzottakon túlmutató, következtetett jelentés" },
-      { q: "Mi a beszédaktus?", a: "Szavakkal való cselekvés (kérés, parancs, ígéret stb.)" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "pragmatika",
-      subtopic: "pragmatika",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a pragmatika?", ["szavak használata konkrét helyzetekben és célokkal", "nyelvhasználat és szándék tudománya"]],
+    ["Mi az előfeltevés a beszédben?", ["amit a hallgatónak már ismernie kell", "közös háttértudás"]],
+    ["Mi az implikatúra?", ["az elhangzottakon túlmutató következtetett jelentés", "ki nem mondott üzenet"]],
+    ["Mi a beszédaktus?", ["szavakkal való cselekvés", "kérés, parancs, ígéret stb."]],
+    ["Mit jelent az udvariassági elv a kommunikációban?", ["a partnernek kellemetlenséget nem okozunk", "udvarias nyelvhasználat szabályai"]],
+    ["Mi az implicit kommunikáció?", ["ki nem mondott, de közvetített szándék", "közvetett üzenet"]],
+    ["Mi a társalgási implikatúra (Grice)?", ["többlettartalom, amit következtetünk", "következtetett, ki nem mondott tartalom"]],
+    ["Mit jelent a relevancia a kommunikációban?", ["az üzenet kapcsolódik a helyzethez", "témába vágó közlés"]],
+    ["Mi a direktív beszédaktus?", ["cselekvésre szólítja fel a hallgatót", "kérés vagy parancs típusú aktus"]],
+    ["Mi a kontextus szerepe a pragmatikában?", ["az értelmezés a helyzethez kötött", "a szövegkörnyezet befolyásolja a jelentést"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("pragmatika", "pragmatika", t[0], t[1])));
   return q;
 }
 
-export function generateStyleVariable(seed?: number): CurriculumMCQ[] {
+export function generateStyleVariable(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -781,28 +814,25 @@ export function generateStyleVariable(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a regiszter?", a: "A formális vagy informális beszéd szintje" },
-      { q: "Mi az archaizmus?", a: "Szó vagy kifejezés, amely már nem használatos" },
-      { q: "Mi a neologizmus?", a: "Újabban keletkezett szó vagy kifejezés" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "stílus",
-      subtopic: "variacio",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az idiolektus?", ["egy személy egyedi nyelvhasználata", "egyéni stílus"]],
+    ["Mi a szociolektus?", ["egy társadalmi csoport nyelvhasználata", "csoportnyelv"]],
+    ["Mi a dialektus?", ["egy területre jellemző nyelvváltozat", "tájnyelv"]],
+    ["Mi a regiszter?", ["a formális vagy informális szint", "stílusszint"]],
+    ["Mi az archaizmus?", ["elavult, már nem használatos szó", "régi szó"]],
+    ["Mi a neologizmus?", ["újonnan keletkezett szó", "új szó"]],
+    ["Mi a zsargon?", ["szakmai vagy csoport-specifikus szókincs", "szaknyelv"]],
+    ["Mi az eufemizmus?", ["kellemetlen dolog szépítő megnevezése", "szépítő kifejezés"]],
+    ["Mi a stilisztikai variáció?", ["ugyanaz a tartalom különböző stílusban", "stílusváltozat"]],
+    ["Adj példát neologizmusra!", ["internet", "szelfizik", "okostelefon"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("stílus", "variacio", t[0], t[1])));
   return q;
 }
 
-export function generateCognitiveLanguage(seed?: number): CurriculumMCQ[] {
+export function generateCognitiveLanguage(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -821,28 +851,25 @@ export function generateCognitiveLanguage(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mit jelent a konceptualizáció?", a: "A valóság fogalmi megjelenítése az elmében" },
-      { q: "Mi a metaforikus gondolkodás?", a: "Az egyik terület megértése másik terület fogalmaival" },
-      { q: "Mit jelent a prototípus-elmélet?", a: "A legtipikusabb példányok szerepe a fogalmi kategorizálásban" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "kognitív",
-      subtopic: "nyelv",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a kognitív nyelvészet?", ["az elme és a nyelv kapcsolatának tudománya", "gondolkodás és nyelv kapcsolata"]],
+    ["Mit jelent a konceptualizáció?", ["a valóság fogalmi megjelenítése az elmében", "fogalmi ábrázolás"]],
+    ["Mi a metaforikus gondolkodás?", ["egyik terület megértése másik fogalmaival", "fogalmi metafora"]],
+    ["Mi a prototípus-elmélet?", ["legtipikusabb példányok szerepe a kategorizálásban", "típuspélda-elmélet"]],
+    ["Hogyan hat a nyelv a gondolkodásra?", ["a szavak befolyásolják a fogalmi kategóriákat", "a nyelv keretezi a valóságot"]],
+    ["Mi a Sapir-Whorf hipotézis?", ["a nyelv meghatározza a gondolkodást", "nyelvi relativizmus"]],
+    ["Mi a fogalmi keret (frame)?", ["mentális séma az értelmezéshez", "gondolati keret"]],
+    ["Mit jelent a testesültség (embodiment)?", ["a nyelv a testi tapasztalaton alapul", "testből kiinduló megismerés"]],
+    ["Mi a kategorizáció szerepe a nyelvben?", ["a világ jelenségeinek csoportosítása", "fogalmi osztályozás"]],
+    ["Adj példát fogalmi metaforára!", ["az élet utazás", "az idő pénz", "a vita háború"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("kognitív", "nyelv", t[0], t[1])));
   return q;
 }
 
-export function generateSociolinguistics(seed?: number): CurriculumMCQ[] {
+export function generateSociolinguistics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -861,28 +888,25 @@ export function generateSociolinguistics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a társadalmi rétegződés?", a: "A társadalom különböző csoportokra való felosztása" },
-      { q: "Mi a diszkriminatív nyelvhasználat?", a: "Egy csoport negatív megjelölése vagy leértékelése a nyelvben" },
-      { q: "Mit jelent az inkluzív nyelvhasználat?", a: "Mindenki számára befogadó, semleges nyelvi forma" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "szociolingvisztika",
-      subtopic: "szocio",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szociolingvisztika?", ["társadalom és nyelv kapcsolatának tudománya", "társadalmi nyelvészet"]],
+    ["Mi a korlátozott kód (Bernstein)?", ["egyszerűbb, kevésbé elaborált nyelvhasználat", "szűkebb szókészletű stílus"]],
+    ["Mi a kidolgozott kód (Bernstein)?", ["gazdag, részletező, kontextustól független stílus", "részletező nyelvhasználat"]],
+    ["Mi a diszkriminatív nyelvhasználat?", ["csoport negatív megjelölése a nyelvben", "kirekesztő nyelv"]],
+    ["Mi az inkluzív nyelvhasználat?", ["mindenki számára befogadó, semleges forma", "befogadó nyelv"]],
+    ["Mi a nemi nyelvhasználat?", ["nők és férfiak eltérő kommunikációs stílusa", "genderlektus"]],
+    ["Mi a kódváltás?", ["két nyelv vagy stílus váltakozása egy beszélgetésen belül", "kódváltogatás"]],
+    ["Hogyan hat a társadalmi osztály a nyelvhasználatra?", ["magasabb osztály általában elaborált kódot használ", "iskolázottság és stílus összefügg"]],
+    ["Mi a stigmatizált nyelvváltozat?", ["negatívan megítélt, alacsony presztízsű változat", "megbélyegzett nyelvhasználat"]],
+    ["Mi a presztízsváltozat?", ["magas társadalmi megítélésű nyelvváltozat", "elismert, normatív forma"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szociolingvisztika", "szocio", t[0], t[1])));
   return q;
 }
 
-export function generateHistoricalLinguistics(seed?: number): CurriculumMCQ[] {
+export function generateHistoricalLinguistics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -901,28 +925,25 @@ export function generateHistoricalLinguistics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a hangtörvény?", a: "A hangtani változások szabályszerűsége" },
-      { q: "Mit jelent a Lautverschiebung?", a: "A germán nyelvek jellegzetes hangeltolódása az indoeurópai alapnyelvhez képest" },
-      { q: "Mi a nyelvrokonság?", a: "Közös ősnyelvre visszavezethető leszármazás" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "történeti",
-      subtopic: "nyelvészet",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a történeti nyelvészet?", ["nyelvek időbeli fejlődésének tudománya", "diakrón nyelvészet"]],
+    ["Mi az etimológia?", ["szavak eredetének és fejlődésének tanulmányozása", "szóeredet-tan"]],
+    ["Mi a komparatív nyelvészet?", ["nyelvek genetikai kapcsolatainak vizsgálata", "összehasonlító nyelvészet"]],
+    ["Mi a hangtörvény?", ["hangtani változások szabályszerűsége", "hangváltozás törvénye"]],
+    ["Mi a nyelvrokonság?", ["közös ősnyelvre visszavezethető leszármazás", "rokon nyelvek"]],
+    ["Mi a finnugor alapnyelv?", ["a magyar és rokon nyelvek közös őse", "ős-finnugor"]],
+    ["Mi a nyelvújítás?", ["tudatos szóalkotás a szókincs bővítésére", "18-19. sz.-i magyar szóalkotás"]],
+    ["Ki volt Kazinczy Ferenc?", ["a magyar nyelvújítás vezéralakja", "nyelvújítás vezéralakja"]],
+    ["Mi a jövevényszó?", ["más nyelvből átvett szó", "idegen eredetű szó"]],
+    ["Melyik nyelvcsaládhoz tartozik a magyar?", ["finnugor", "uráli"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("történeti", "nyelvészet", t[0], t[1])));
   return q;
 }
 
-export function generateTextLinguistics(seed?: number): CurriculumMCQ[] {
+export function generateTextLinguistics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -941,28 +962,25 @@ export function generateTextLinguistics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mit jelent a referencia a szövegben?", a: "A szövegbeli elemek valóságban lévő megfelelőjére való utalás" },
-      { q: "Mi az anafora?", a: "Amikor egy szó egy korábban említett szóra utal vissza" },
-      { q: "Mit jelent a szöveg témája?", a: "Az a dolog, amiről a szöveg szól" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "szöveglingu",
-      subtopic: "szöveg",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a szöveglinguisztika?", ["szöveg egészének összekapcsolódásával foglalkozó tudomány", "szövegelemzés tudománya"]],
+    ["Mi a koherencia?", ["szövegrészek logikus összekapcsolódása", "szöveg tartalmi egysége"]],
+    ["Mi a kohézió?", ["szövegrészek grammatikai összekapcsolódása", "szöveg grammatikai egysége"]],
+    ["Mi az anafora a szövegtanban?", ["korábbi szóra visszautaló elem", "visszautalás"]],
+    ["Mi a kataforás utalás?", ["előre mutató szövegbeli utalás", "előre mutató utalás"]],
+    ["Mi a téma-réma struktúra?", ["ismert (téma) és új (réma) információ rendezettsége", "mondatinformáció felépítése"]],
+    ["Mit jelent a referencia a szövegben?", ["szövegbeli elem valóságra való utalása", "valóságra utalás"]],
+    ["Mi a szöveg mikrostruktúrája?", ["mondatszintű összekapcsoltság", "mondatok közötti kapcsolat"]],
+    ["Mi a szöveg makrostruktúrája?", ["szöveg egészének globális tartalmi szervezettsége", "szöveg átfogó szerkezete"]],
+    ["Mi a szövegtípus?", ["azonos funkcióval bíró szövegek csoportja", "szövegfajta"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("szöveglingu", "szöveg", t[0], t[1])));
   return q;
 }
 
-export function generateInterlanguage(seed?: number): CurriculumMCQ[] {
+export function generateInterlanguage(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -981,28 +999,25 @@ export function generateInterlanguage(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a túlgeneralizáció a nyelvtanulásban?", a: "Egy szabályt olyan esetekre is alkalmazni, amelyekre nem vonatkozik" },
-      { q: "Mit jelent az L1 transzfer?", a: "Az anyanyelv hatása az idegen nyelv elsajátítására" },
-      { q: "Mi a fosszilizáció?", a: "A köztesnyelv egyes elemeinek tartós rögzülése a tanuló nyelvhasználatában" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "interlingva",
-      subtopic: "interfész",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi az interlanguage (köztesnyelv)?", ["a tanuló által kialakított köztes nyelvi rendszer", "tanuló saját nyelvrendszere"]],
+    ["Mi a nyelvi transzfer?", ["anyanyelv szabályainak alkalmazása idegen nyelvre", "L1 hatása L2-re"]],
+    ["Mi a túlgeneralizáció a nyelvtanulásban?", ["szabályt nem odaillő esetekre is alkalmaz", "szabály túlhasználata"]],
+    ["Mi a fosszilizáció?", ["hibák tartós rögzülése a tanuló nyelvében", "tanuló nyelvi hibái megmerevednek"]],
+    ["Mi az L1 transzfer?", ["anyanyelv hatása az idegen nyelv elsajátítására", "anyanyelvből átvett minta"]],
+    ["Miért értékesek a tanuló hibái?", ["megmutatják az aktuális tudásszintet", "a köztesnyelvi állapotot tükrözik"]],
+    ["Mi a pozitív transzfer?", ["anyanyelv segíti az idegen nyelv tanulását", "hasznos anyanyelvi hatás"]],
+    ["Mi a negatív transzfer (interferencia)?", ["anyanyelv gátolja az idegen nyelv tanulását", "zavaró anyanyelvi hatás"]],
+    ["Mi az implicit nyelvtudás?", ["öntudatlanul elsajátított, automatizált tudás", "nem tudatos nyelvismeret"]],
+    ["Mi az explicit nyelvtudás?", ["tudatosan tanult nyelvtani szabályok ismerete", "szabálytudás"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("interlingva", "interfész", t[0], t[1])));
   return q;
 }
 
-export function generatePoeticsAdvanced(seed?: number): CurriculumMCQ[] {
+export function generatePoeticsAdvanced(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -1021,28 +1036,25 @@ export function generatePoeticsAdvanced(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a daktilus?", a: "Egy hosszú és két rövid szótagból álló versláb" },
-      { q: "Mi a jambus?", a: "Egy rövid és egy hosszú szótagból álló versláb" },
-      { q: "Mit jelent a szabadvers?", a: "Kötött metrikai és rímelési szabályokat nem követő vers" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "poétika",
-      subtopic: "haladó",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a poétika?", ["a költészet formájának és szerkezetének tudománya", "verstan"]],
+    ["Mi a versláb?", ["szótagok meghatározott ritmikai mintája", "ritmikai egység"]],
+    ["Mi a jambus?", ["rövid + hosszú szótagból álló versláb", "rövid-hosszú"]],
+    ["Mi a trocheus?", ["hosszú + rövid szótagból álló versláb", "hosszú-rövid"]],
+    ["Mi a daktilus?", ["egy hosszú + két rövid szótagból álló versláb", "hosszú-rövid-rövid"]],
+    ["Mi a spondeusz?", ["két hosszú szótagból álló versláb", "hosszú-hosszú"]],
+    ["Mit jelent a szabadvers?", ["kötött metrikai szabályokat nem követő vers", "szabad ritmusú vers"]],
+    ["Mi az alexandrinus?", ["12 szótagos, cezúrás verssor", "6+6 szótagos verssor"]],
+    ["Mi a szonett?", ["14 soros, kötött rímképletű vers", "14 soros verses forma"]],
+    ["Mi az enjambement?", ["a mondat átlép a következő verssorba", "áthajlás"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("poétika", "haladó", t[0], t[1])));
   return q;
 }
 
-export function generateGenreStudies(seed?: number): CurriculumMCQ[] {
+export function generateGenreStudies(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -1061,28 +1073,25 @@ export function generateGenreStudies(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi a hibrid műfaj?", a: "Több műfaj jellegzetes elemeinek egyesítése" },
-      { q: "Mit jelent a kisregény?", a: "A novella és a regény közé eső terjedelmű elbeszélő mű" },
-      { q: "Mi a flash fiction (villanypróza)?", a: "Nagyon rövid, néhány soros vagy egy oldalas elbeszélés" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "műfajok",
-      subtopic: "elméleti",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a ballada?", ["verses epikai-lírai műfaj drámai fordulatokkal", "epikai-lírai-drámai versforma"]],
+    ["Mi az óda?", ["magasztaló, emelkedett hangvételű lírai vers", "magasztaló vers"]],
+    ["Mi az elégia?", ["szomorú, veszteséget sirató lírai vers", "gyászoló lírai vers"]],
+    ["Mi a novella?", ["rövid, tömör elbeszélő prózai mű", "rövid próza"]],
+    ["Mi a regény?", ["hosszabb, összetett elbeszélő prózai műfaj", "hosszú elbeszélő mű"]],
+    ["Mi a dráma műfaja?", ["párbeszédes, előadásra szánt irodalmi mű", "színpadi mű"]],
+    ["Mi a szonett?", ["14 soros kötött rímképletű vers", "14 soros vers"]],
+    ["Mi a kisregény?", ["novella és regény közötti terjedelmű mű", "kisebb terjedelmű regény"]],
+    ["Mi a líra?", ["az érzelmeket és gondolatokat kifejező költészet", "érzelmeket kifejező vers"]],
+    ["Mi az epika?", ["történetmondó irodalmi nem", "eseményeket elbeszélő irodalom"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("műfajok", "elméleti", t[0], t[1])));
   return q;
 }
 
-export function generateReceptionAesthetics(seed?: number): CurriculumMCQ[] {
+export function generateReceptionAesthetics(seed?: number): CurriculumQuestion[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-  const q: CurriculumMCQ[] = [];
+  const q: CurriculumQuestion[] = [];
 
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
@@ -1101,22 +1110,19 @@ export function generateReceptionAesthetics(seed?: number): CurriculumMCQ[] {
     }
   }
 
-  for (let i = 0; i < 15; i++) {
-    const questions = [
-      { q: "Mi az elvárási horizont?", a: "Az olvasó által a szövegtől elvárt tapasztalat- és értékrendszer" },
-      { q: "Mit jelent a horizont-kiszélesítés?", a: "A szöveg felülírja vagy megújítja az olvasó elvárásait" },
-      { q: "Mi a hermeneutikai kör?", a: "Az olvasó és a szöveg közötti körkörös megértési folyamat" },
-    ];
-    const item = pick(questions, rng);
-    q.push({
-      type: "typing",
-      topic: "recepció",
-      subtopic: "esztétika",
-      question: item.q,
-      correctAnswers: [item.a],
-    } as any);
-  }
-
+  const typingPool: [string, string | string[]][] = [
+    ["Mi a recepcióesztétika?", ["szöveg és olvasó kölcsönhatásának vizsgálata", "befogadásközpontú irodalomelmélet"]],
+    ["Mi az elvárási horizont?", ["olvasó szövegtől elvárt tapasztalat- és értékrendszere", "olvasói elvárás"]],
+    ["Mit jelent a horizont-kiszélesítés?", ["szöveg felülírja az olvasó elvárásait", "elvárások meghaladása"]],
+    ["Mi a hermeneutikai kör?", ["olvasó és szöveg körkörös megértési folyamata", "értelmezési kör"]],
+    ["Mi az olvasói értelmezés?", ["amit az olvasó a szövegből megért", "befogadói megértés"]],
+    ["Mi a nyitott szöveg (Eco)?", ["értelmezése nem lezárt, az olvasóban születik meg", "többféleképpen értelmezhető szöveg"]],
+    ["Ki Jauss és mit dolgozott ki?", ["a recepcióesztétika egyik kidolgozója", "befogadáselmélet"]],
+    ["Mi a hermeneutika?", ["szövegek értelmezésének tudománya", "értelmezéstan"]],
+    ["Miért változik egy mű értelmezése koronként?", ["az olvasói elvárások és kontextus változnak", "kulturális kontextus változása"]],
+    ["Mi az implicit olvasó (Iser)?", ["a szövegbe kódolt elvárt befogadó", "szöveg által feltételezett olvasó"]],
+  ];
+  shuffle(typingPool, rng).forEach(t => q.push(createTyping("recepció", "esztétika", t[0], t[1])));
   return q;
 }
 
