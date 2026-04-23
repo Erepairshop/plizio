@@ -8,8 +8,7 @@ const HOST = 'plizio.com';
 const KEY = 'f917447fb329af2cf60b5fb96bde8c36';
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 
-function extractUrlsFromSitemap(xmlPath) {
-  const xml = fs.readFileSync(xmlPath, 'utf8');
+function extractUrlsFromXml(xml) {
   const urls = [];
   const regex = /<loc>([^<]+)<\/loc>/g;
   let m;
@@ -17,15 +16,49 @@ function extractUrlsFromSitemap(xmlPath) {
   return urls;
 }
 
-function loadAllSitemaps(dir) {
+async function fetchText(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, res => {
+      let chunks = '';
+      res.on('data', c => chunks += c);
+      res.on('end', () => resolve(chunks));
+    }).on('error', reject);
+  });
+}
+
+async function loadAllSitemapsLive() {
   const all = new Set();
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.xml'));
-  for (const f of files) {
-    try {
-      const urls = extractUrlsFromSitemap(path.join(dir, f));
-      urls.forEach(u => all.add(u));
-    } catch (e) { console.error(`failed ${f}: ${e.message}`); }
+  const rootSitemap = `https://${HOST}/sitemap.xml`;
+  const rootXml = await fetchText(rootSitemap);
+  const firstLevel = extractUrlsFromXml(rootXml);
+
+  // Root sitemap may be an index (pointing to sub-sitemaps) OR contain URLs directly
+  // Check if root contains <sitemap> tags
+  const isIndex = rootXml.includes('<sitemap>') || rootXml.includes('<sitemapindex');
+  if (isIndex) {
+    for (const sm of firstLevel) {
+      try {
+        const xml = await fetchText(sm);
+        extractUrlsFromXml(xml).forEach(u => all.add(u));
+      } catch (e) { console.error(`failed ${sm}: ${e.message}`); }
+    }
+  } else {
+    firstLevel.forEach(u => all.add(u));
   }
+
+  // Also try known sub-sitemaps
+  const subSitemaps = [
+    'sitemap-blog.xml', 'sitemap-categories.xml', 'sitemap-deutsch-test.xml',
+    'sitemap-education.xml', 'sitemap-english-test.xml', 'sitemap-games.xml',
+    'sitemap-math-test-en.xml',
+  ];
+  for (const sub of subSitemaps) {
+    try {
+      const xml = await fetchText(`https://${HOST}/${sub}`);
+      extractUrlsFromXml(xml).forEach(u => all.add(u));
+    } catch (e) { /* ok if 404 */ }
+  }
+
   return [...all].filter(u => u.startsWith(`https://${HOST}`));
 }
 
@@ -49,9 +82,8 @@ async function post(payload) {
 }
 
 (async () => {
-  const publicDir = path.resolve(process.cwd(), 'public');
-  const urls = loadAllSitemaps(publicDir);
-  console.log(`Found ${urls.length} URLs across sitemaps`);
+  const urls = await loadAllSitemapsLive();
+  console.log(`Found ${urls.length} URLs across live sitemaps (plizio.com)`);
 
   if (urls.length === 0) { console.error('No URLs'); process.exit(1); }
 

@@ -54,10 +54,13 @@ const SITEMAP_NAMES = [
   "sitemap-blog.xml",
 ];
 
-// Automatikus útvonal felderítés: dev vs szerver
+// Automatikus útvonal felderítés: out/ (post-build, teljes 3600+ URL), majd public/ (legacy 150), majd szerver
+const outBase   = path.join(__dirname, "../out");
 const devBase   = path.join(__dirname, "../public");
 const srvBase   = path.join(__dirname, "..");
-const SITEMAP_BASE = existsSync(path.join(devBase, "sitemap.xml")) ? devBase : srvBase;
+const SITEMAP_BASE = existsSync(path.join(outBase, "sitemap.xml")) ? outBase
+                    : existsSync(path.join(devBase, "sitemap.xml")) ? devBase
+                    : srvBase;
 const SITEMAP_FILES = SITEMAP_NAMES.map((n) => path.join(SITEMAP_BASE, n));
 
 // ── Ellenőrzés ────────────────────────────────────────────────────────────────
