@@ -1,0 +1,2262 @@
+{
+  "ro_razboi_independenta": {
+    "mcq": [
+      {
+        "question": "În ce an a avut loc Războiul de Independență al României?",
+        "correct": "1877-1878",
+        "wrong": [
+          "1859",
+          "1914",
+          "1944"
+        ]
+      },
+      {
+        "question": "Cine a citit Declarația de Independență în Parlament pe 9 mai 1877?",
+        "correct": "Mihail Kogălniceanu",
+        "wrong": [
+          "Carol I",
+          "Ion Brătianu",
+          "Alexandru Ioan Cuza"
+        ]
+      },
+      {
+        "question": "Împotriva cărui imperiu a luptat România pentru independență?",
+        "correct": "Imperiul Otoman",
+        "wrong": [
+          "Imperiul Rus",
+          "Austro-Ungaria",
+          "Franța"
+        ]
+      },
+      {
+        "question": "Care a fost principalul aliat al României în acest război?",
+        "correct": "Imperiul Rus",
+        "wrong": [
+          "Germania",
+          "Anglia",
+          "Italia"
+        ]
+      },
+      {
+        "question": "Ce cetate turcească a fost asediată și cucerită cu greu de români și ruși?",
+        "correct": "Plevna",
+        "wrong": [
+          "Vidin",
+          "Grivița",
+          "Smârdan"
+        ]
+      },
+      {
+        "question": "Cine a condus trupele române pe câmpul de luptă?",
+        "correct": "Domnitorul Carol I",
+        "wrong": [
+          "Alexandru Ioan Cuza",
+          "Mihai Viteazul",
+          "Ion Antonescu"
+        ]
+      },
+      {
+        "question": "Cum se numea reduta cucerită de români la Plevna?",
+        "correct": "Grivița",
+        "wrong": [
+          "Smârdan",
+          "Rahova",
+          "Vidin"
+        ]
+      },
+      {
+        "question": "Cine a fost eroul de la Plevna care a murit la datorie?",
+        "correct": "Maior Gheorghe Șonțu (sau Valter Mărăcineanu)",
+        "wrong": [
+          "Mihai Eminescu",
+          "Ion Creangă",
+          "Nicolae Iorga"
+        ]
+      },
+      {
+        "question": "Unde s-a semnat tratatul care recunoștea independența României?",
+        "correct": "Congresul de la Berlin",
+        "wrong": [
+          "Conferința de la Paris",
+          "Pacea de la București",
+          "Tratatul de la Trianon"
+        ]
+      },
+      {
+        "question": "Ce regiune a revenit României după războiul din 1877-1878?",
+        "correct": "Dobrogea",
+        "wrong": [
+          "Transilvania",
+          "Bucovina",
+          "Banatul"
+        ]
+      },
+      {
+        "question": "Ce județe din sudul Basarabiei a pierdut România în favoarea Rusiei?",
+        "correct": "Cahul, Bolgrad și Ismail",
+        "wrong": [
+          "Constanța și Tulcea",
+          "Iași și Vaslui",
+          "Cluj și Oradea"
+        ]
+      },
+      {
+        "question": "Bătălia de la Smârdan a avut loc în luna:",
+        "correct": "Ianuarie 1878",
+        "wrong": [
+          "Mai 1877",
+          "August 1914",
+          "Decembrie 1989"
+        ]
+      },
+      {
+        "question": "Independența României a fost proclamată oficial pe data de:",
+        "correct": "10 mai 1877 (semnată de Carol I)",
+        "wrong": [
+          "24 ianuarie 1859",
+          "1 decembrie 1918",
+          "30 decembrie 1947"
+        ]
+      },
+      {
+        "question": "Cum se numeau soldații români din infanterie în acest război?",
+        "correct": "Dorobanți",
+        "wrong": [
+          "Panduri",
+          "Legionari",
+          "Vânători de munte"
+        ]
+      },
+      {
+        "question": "Care a fost deviza soldaților români?",
+        "correct": "Treceți batalioane române Carpații (mai târziu, dar spiritul era similar)",
+        "wrong": [
+          "Vrem pace",
+          "Nu treceți",
+          "Independență sau moarte"
+        ]
+      },
+      {
+        "question": "Cine a fost comandantul trupelor turcești la Plevna?",
+        "correct": "Osman Pașa",
+        "wrong": [
+          "Sinan Pașa",
+          "Baiazid",
+          "Suleiman"
+        ]
+      },
+      {
+        "question": "Osman Pașa și-a predat sabia:",
+        "correct": "Colonelului român Mihail Cerchez",
+        "wrong": [
+          "Țarului Rusiei",
+          "Reginei Angliei",
+          "Lui Cuza"
+        ]
+      },
+      {
+        "question": "Războiul a demonstrat că armata română este:",
+        "correct": "Modernă și vitează",
+        "wrong": [
+          "Slaba și nepregătită",
+          "Inexistentă",
+          "Doar de decor"
+        ]
+      },
+      {
+        "question": "Podul de vase peste Dunăre a fost construit la:",
+        "correct": "Corabia (Siliștioara)",
+        "wrong": [
+          "Cernavodă",
+          "Drobeta",
+          "Giurgiu"
+        ]
+      },
+      {
+        "question": "Urmarea războiului a fost creșterea prestigiului României, care a devenit:",
+        "correct": "Regat în 1881",
+        "wrong": [
+          "Republiă",
+          "Colonie",
+          "Imperiu"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "În ce an a început războiul?",
+        "answer": "1877"
+      },
+      {
+        "question": "Cine a citit Declarația?",
+        "answer": "Kogălniceanu"
+      },
+      {
+        "question": "Ce cetate a fost asediată?",
+        "answer": "Plevna"
+      },
+      {
+        "question": "Contra cărui imperiu?",
+        "answer": "Otoman"
+      },
+      {
+        "question": "Cine a condus armata?",
+        "answer": "Carol I"
+      },
+      {
+        "question": "Ce regiune am primit?",
+        "answer": "Dobrogea"
+      },
+      {
+        "question": "Unde s-a semnat pacea?",
+        "answer": "Berlin"
+      },
+      {
+        "question": "Cum se numeau infanteriștii?",
+        "answer": "Dorobanți"
+      },
+      {
+        "question": "În ce zi e Ziua Independenței?",
+        "answer": "10 mai"
+      },
+      {
+        "question": "Cine era generalul turc?",
+        "answer": "Osman Pașa"
+      }
+    ]
+  },
+  "ro_regatul_romaniei": {
+    "mcq": [
+      {
+        "question": "În ce an a fost proclamat Regatul României?",
+        "correct": "1881",
+        "wrong": [
+          "1866",
+          "1877",
+          "1918"
+        ]
+      },
+      {
+        "question": "Cine a fost primul rege al României?",
+        "correct": "Carol I",
+        "wrong": [
+          "Ferdinand I",
+          "Carol al II-lea",
+          "Mihai I"
+        ]
+      },
+      {
+        "question": "Din ce coroană a fost făcută coroana lui Carol I?",
+        "correct": "Oțelul unui tun turcesc capturat la Plevna",
+        "wrong": [
+          "Aur pur",
+          "Argint rusesc",
+          "Platină franceză"
+        ]
+      },
+      {
+        "question": "Care a fost perioada de domnie a lui Carol I ca rege?",
+        "correct": "1881-1914",
+        "wrong": [
+          "1866-1881",
+          "1914-1927",
+          "1930-1940"
+        ]
+      },
+      {
+        "question": "Ce partide politice au alternat la putere în timpul domniei sale?",
+        "correct": "Liberalii și Conservatorii",
+        "wrong": [
+          "Comuniștii și Fasciștii",
+          " Verzii și Socialiștii",
+          "Nu au existat partide"
+        ]
+      },
+      {
+        "question": "Cine a fost marele lider liberal din această perioadă?",
+        "correct": "Ion C. Brătianu",
+        "wrong": [
+          "Lascăr Catargiu",
+          "Nicolae Iorga",
+          "Corneliu Coposu"
+        ]
+      },
+      {
+        "question": "Cine a fost marele lider conservator?",
+        "correct": "Lascăr Catargiu (sau P.P. Carp)",
+        "wrong": [
+          "Ion Brătianu",
+          "Mihail Kogălniceanu",
+          "Nicolae Bălcescu"
+        ]
+      },
+      {
+        "question": "În 1883, România a aderat în secret la:",
+        "correct": "Tripla Alianță (Puterile Centrale)",
+        "wrong": [
+          "Antanta",
+          "NATO",
+          "ONU"
+        ]
+      },
+      {
+        "question": "De ce a fost ținută secretă alianța cu Puterile Centrale?",
+        "correct": "Din cauza sentimentelor anti-austriece ale românilor",
+        "wrong": [
+          "De frică de turci",
+          "Pentru că nu era importantă",
+          "Regele nu știa"
+        ]
+      },
+      {
+        "question": "Ce mare răscoală țărănească a avut loc în 1907?",
+        "correct": "Răscoala din 1907",
+        "wrong": [
+          "Revoluția de la 1848",
+          "Marea Unire",
+          "Răscoala lui Horea"
+        ]
+      },
+      {
+        "question": "Care a fost cauza principală a răscoalei din 1907?",
+        "correct": "Lipsa pământului și exploatarea prin arendași",
+        "wrong": [
+          "Interzicerea religiei",
+          "Dorința de a zbura",
+          "Taxele pe sare"
+        ]
+      },
+      {
+        "question": "Cine a fost al doilea rege al României?",
+        "correct": "Ferdinand I",
+        "wrong": [
+          "Carol I",
+          "Carol al II-lea",
+          "Mihai I"
+        ]
+      },
+      {
+        "question": "Ferdinand I a fost supranumit:",
+        "correct": "Întregitorul",
+        "wrong": [
+          "Cel Rău",
+          "Cuceritorul",
+          "Cel Bun"
+        ]
+      },
+      {
+        "question": "Care a fost soția regelui Ferdinand, foarte iubită de popor?",
+        "correct": "Regina Maria",
+        "wrong": [
+          "Regina Elisabeta",
+          "Elena Cuza",
+          "Regina Ana"
+        ]
+      },
+      {
+        "question": "În timpul cărui rege s-a realizat Marea Unire din 1918?",
+        "correct": "Ferdinand I",
+        "wrong": [
+          "Carol I",
+          "Carol al II-lea",
+          "Mihai I"
+        ]
+      },
+      {
+        "question": "Cum se numea reședința de vară a regilor României?",
+        "correct": "Castelul Peleș",
+        "wrong": [
+          "Castelul Bran",
+          "Cotroceni",
+          "Palatul Mogoșoaia"
+        ]
+      },
+      {
+        "question": "România a participat la Al Doilea Război Balcanic în:",
+        "correct": "1913",
+        "wrong": [
+          "1877",
+          "1914",
+          "1940"
+        ]
+      },
+      {
+        "question": "Ce teritoriu a obținut România în 1913?",
+        "correct": "Cadrilaterul (Sudul Dobrogei)",
+        "wrong": [
+          "Transilvania",
+          "Bucovina",
+          "Basarabia"
+        ]
+      },
+      {
+        "question": "Monarhia a asigurat României timp de decenii:",
+        "correct": "Stabilitate și prestigiu european",
+        "wrong": [
+          "Haos",
+          "Sărăcie lucie",
+          "Ocupație străină"
+        ]
+      },
+      {
+        "question": "Până în ce an a fost România regat?",
+        "correct": "1947",
+        "wrong": [
+          "1918",
+          "1989",
+          "1914"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "În ce an a devenit regat?",
+        "answer": "1881"
+      },
+      {
+        "question": "Cine a fost primul rege?",
+        "answer": "Carol I"
+      },
+      {
+        "question": "Din ce e făcută coroana?",
+        "answer": "Oțel"
+      },
+      {
+        "question": "Cine i-a urmat lui Carol?",
+        "answer": "Ferdinand I"
+      },
+      {
+        "question": "În ce an a fost răscoala?",
+        "answer": "1907"
+      },
+      {
+        "question": "Cum o chema pe soția lui Ferdinand?",
+        "answer": "Maria"
+      },
+      {
+        "question": "Ce castel celebru există?",
+        "answer": "Peleș"
+      },
+      {
+        "question": "Când a murit Carol I?",
+        "answer": "1914"
+      },
+      {
+        "question": "Cine a fost liderul liberal?",
+        "answer": "Brătianu"
+      },
+      {
+        "question": "Era regatul o democrație?",
+        "answer": "Da"
+      }
+    ]
+  },
+  "ro_primul_razboi_mondial_ro": {
+    "mcq": [
+      {
+        "question": "În ce an a intrat România în Primul Război Mondial?",
+        "correct": "1916",
+        "wrong": [
+          "1914",
+          "1918",
+          "1939"
+        ]
+      },
+      {
+        "question": "De partea cărei alianțe a luptat România?",
+        "correct": "Antanta",
+        "wrong": [
+          "Puterile Centrale",
+          "Axa",
+          "NATO"
+        ]
+      },
+      {
+        "question": "Cine era regele României în 1916?",
+        "correct": "Ferdinand I",
+        "wrong": [
+          "Carol I",
+          "Carol al II-lea",
+          "Mihai I"
+        ]
+      },
+      {
+        "question": "Care au fost cele trei mari victorii românești din vara anului 1917?",
+        "correct": "Mărăști, Mărășești, Oituz",
+        "wrong": [
+          "Plevna, Smârdan, Rahova",
+          "Vaslui, Podul Înalt, Baia",
+          "Stalingrad, Odessa, Cotul Donului"
+        ]
+      },
+      {
+        "question": "Care era deviza luptelor de la Mărășești?",
+        "correct": "Pe aici nu se trece!",
+        "wrong": [
+          "Nihil sine Deo",
+          "Dreptate și frăție",
+          "Unirea face puterea"
+        ]
+      },
+      {
+        "question": "Cine a fost 'Eroina de la Jiu'?",
+        "correct": "Ecaterina Teodoroiu",
+        "wrong": [
+          "Regina Maria",
+          "Ana Ipătescu",
+          "Smaranda Brăescu"
+        ]
+      },
+      {
+        "question": "Unde s-a retras guvernul și familia regală după ocuparea Bucureștiului?",
+        "correct": "La Iași",
+        "wrong": [
+          "La Paris",
+          "La Londra",
+          "La Cluj"
+        ]
+      },
+      {
+        "question": "Ce general francez a ajutat la reorganizarea armatei române?",
+        "correct": "Henri Berthelot",
+        "wrong": [
+          "Napoleon",
+          "De Gaulle",
+          "Foch"
+        ]
+      },
+      {
+        "question": "Regina Maria a fost supranumită în timpul războiului:",
+        "correct": "Mama răniților",
+        "wrong": [
+          "Regina de fier",
+          "Regina muzicii",
+          "Regina modei"
+        ]
+      },
+      {
+        "question": "Ce țară a ieșit din război în 1917, lăsând România singură pe frontul de est?",
+        "correct": "Rusia (din cauza revoluției)",
+        "wrong": [
+          "Franța",
+          "Anglia",
+          "Italia"
+        ]
+      },
+      {
+        "question": "Cum se numea tratatul de pace forțat cu Puterile Centrale (1918)?",
+        "correct": "Pacea de la București (Buftea)",
+        "wrong": [
+          "Pacea de la Paris",
+          "Tratatul de la Trianon",
+          "Dictatul de la Viena"
+        ]
+      },
+      {
+        "question": "România a reintrat în război la sfârșitul anului:",
+        "correct": "1918",
+        "wrong": [
+          "1917",
+          "1920",
+          "1914"
+        ]
+      },
+      {
+        "question": "Principalul scop al intrării în război a fost:",
+        "correct": "Eliberarea Transilvaniei și unirea",
+        "wrong": [
+          "Cucerirea Bulgariei",
+          "Banii",
+          "Vacanța în Germania"
+        ]
+      },
+      {
+        "question": "Bătălia de la Mărășești a durat:",
+        "correct": "Aproape o lună (august 1917)",
+        "wrong": [
+          "O zi",
+          "Un an",
+          "10 minute"
+        ]
+      },
+      {
+        "question": "Cine a condus armata română la Mărășești?",
+        "correct": "Generalul Eremia Grigorescu",
+        "wrong": [
+          "Ion Antonescu",
+          "Carol I",
+          "Generalul Averescu"
+        ]
+      },
+      {
+        "question": "Mausoleul de la Mărășești este un monument dedicat:",
+        "correct": "Eroilor neamului",
+        "wrong": [
+          "Regilor",
+          "Comuniștilor",
+          "Scriitorilor"
+        ]
+      },
+      {
+        "question": "Ce condiții climatice au îngreunat retragerea în Moldova?",
+        "correct": "Iarna geroasă și epidemiile (tifosul)",
+        "wrong": [
+          "Canicula",
+          "Uraganele",
+          "Inundațiile"
+        ]
+      },
+      {
+        "question": "Aviația română a avut un rol în acest război?",
+        "correct": "Da, a fost începutul utilizării avionului în luptă",
+        "wrong": [
+          "Nu existau avioane",
+          "Doar baloane de săpun",
+          "Nu"
+        ]
+      },
+      {
+        "question": "Primul Război Mondial s-a încheiat pentru România cu:",
+        "correct": "Victoria Antantei și Marea Unire",
+        "wrong": [
+          "Dispariția statului",
+          "Transformarea în colonie",
+          "Nicio schimbare"
+        ]
+      },
+      {
+        "question": "Câți soldați români au murit în acest război?",
+        "correct": "Peste 300.000",
+        "wrong": [
+          "10",
+          "Un milion",
+          "Niciunul"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "În ce an a intrat România?",
+        "answer": "1916"
+      },
+      {
+        "question": "De partea cui am luptat?",
+        "answer": "Antanta"
+      },
+      {
+        "question": "Unde a fost marea victorie?",
+        "answer": "Mărășești"
+      },
+      {
+        "question": "Ce strigau la Mărășești?",
+        "answer": "Pe aici nu se trece"
+      },
+      {
+        "question": "Cine era regele?",
+        "answer": "Ferdinand I"
+      },
+      {
+        "question": "Cine era regina?",
+        "answer": "Maria"
+      },
+      {
+        "question": "Unde s-a retras guvernul?",
+        "answer": "Iași"
+      },
+      {
+        "question": "Cum o chema pe eroina de pe Jiu?",
+        "answer": "Ecaterina Teodoroiu"
+      },
+      {
+        "question": "Generalul francez era?",
+        "answer": "Berthelot"
+      },
+      {
+        "question": "Când s-a terminat războiul?",
+        "answer": "1918"
+      }
+    ]
+  },
+  "ro_marea_unire_1918": {
+    "mcq": [
+      {
+        "question": "Unde s-a proclamat Unirea Transilvaniei cu România?",
+        "correct": "La Alba Iulia",
+        "wrong": [
+          "La București",
+          "La Iași",
+          "La Cluj"
+        ]
+      },
+      {
+        "question": "Când a avut loc Marea Adunare Națională de la Alba Iulia?",
+        "correct": "1 decembrie 1918",
+        "wrong": [
+          "24 ianuarie 1859",
+          "10 mai 1877",
+          "30 decembrie 1947"
+        ]
+      },
+      {
+        "question": "Care a fost prima regiune care s-a unit cu România în 1918 (27 martie)?",
+        "correct": "Basarabia",
+        "wrong": [
+          "Bucovina",
+          "Transilvania",
+          "Banatul"
+        ]
+      },
+      {
+        "question": "Care a fost a doua regiune care s-a unit (28 noiembrie)?",
+        "correct": "Bucovina",
+        "wrong": [
+          "Basarabia",
+          "Banatul",
+          "Transilvania"
+        ]
+      },
+      {
+        "question": "Cine a citit Rezoluția Unirii la Alba Iulia?",
+        "correct": "Vasile Goldiș",
+        "wrong": [
+          "Iuliu Maniu",
+          "Ion Brătianu",
+          "Nicolae Iorga"
+        ]
+      },
+      {
+        "question": "Câți delegați au votat unirea la Alba Iulia?",
+        "correct": "1228",
+        "wrong": [
+          "10",
+          "100.000",
+          "5"
+        ]
+      },
+      {
+        "question": "Câți oameni au participat pe Câmpia lui Horea la Alba Iulia?",
+        "correct": "Peste 100.000",
+        "wrong": [
+          "100",
+          "Un milion",
+          "Niciunul"
+        ]
+      },
+      {
+        "question": "Cine a condus Consiliul Dirigent al Transilvaniei?",
+        "correct": "Iuliu Maniu",
+        "wrong": [
+          "Vasile Goldiș",
+          "Ionel Brătianu",
+          "Avram Iancu"
+        ]
+      },
+      {
+        "question": "Regina Maria a avut un rol în recunoașterea unirii la:",
+        "correct": "Conferința de Pace de la Paris",
+        "wrong": [
+          "Congresul de la Berlin",
+          "Vatican",
+          "Washington"
+        ]
+      },
+      {
+        "question": "Ce tratat a recunoscut oficial unirea Transilvaniei cu România (1920)?",
+        "correct": "Tratatul de la Trianon",
+        "wrong": [
+          "Tratatul de la Versailles",
+          "Pacea de la București",
+          "Dictatul de la Viena"
+        ]
+      },
+      {
+        "question": "Cum se numea statul rezultat după 1918?",
+        "correct": "România Mare",
+        "wrong": [
+          "Regatul Daciei",
+          "Principatele Unite",
+          "Republica Socialistă România"
+        ]
+      },
+      {
+        "question": "Unde au fost încoronați Ferdinand și Maria ca regi ai României Mari (1922)?",
+        "correct": "Catedrala Încoronării din Alba Iulia",
+        "wrong": [
+          "Curtea de Argeș",
+          "București",
+          "Iași"
+        ]
+      },
+      {
+        "question": "Basarabia a fost prima pentru că:",
+        "correct": "S-a eliberat de sub Imperiul Rus",
+        "wrong": [
+          "A fost cucerită prin război",
+          "A fost cumpărată",
+          "A fost o greșeală"
+        ]
+      },
+      {
+        "question": "Bucovina s-a unit la Cernăuți prin votul:",
+        "correct": "Congresului General al Bucovinei",
+        "wrong": [
+          "Sultanului",
+          "Împăratului Austriei",
+          "Ziarului local"
+        ]
+      },
+      {
+        "question": "Unirea a fost rezultatul:",
+        "correct": "Luptei de secole și a dreptului la autodeterminare",
+        "wrong": [
+          "Unei trageri la sorți",
+          "Unui cadou de la vecini",
+          "Unei invazii ruse"
+        ]
+      },
+      {
+        "question": "Ce partid a avut un rol major în politica Transilvaniei?",
+        "correct": "Partidul Național Român",
+        "wrong": [
+          "Partidul Comunist",
+          "Partidul Conservator",
+          "Niciunul"
+        ]
+      },
+      {
+        "question": "Care este semnificația zilei de 1 Decembrie astăzi?",
+        "correct": "Ziua Națională a României",
+        "wrong": [
+          "Ziua de Paște",
+          "Ziua Independenței",
+          "Ziua Școlii"
+        ]
+      },
+      {
+        "question": "Transilvania era sub stăpânire:",
+        "correct": "Austro-Ungară",
+        "wrong": [
+          "Turcească",
+          "Rusă",
+          "Bulgară"
+        ]
+      },
+      {
+        "question": "După 1918, suprafața României:",
+        "correct": "S-a dublat aproximativ",
+        "wrong": [
+          "A rămas la fel",
+          "S-a micșorat",
+          "A dispărut"
+        ]
+      },
+      {
+        "question": "Populația României Mari era de aproximativ:",
+        "correct": "18 milioane de locuitori",
+        "wrong": [
+          "1 milion",
+          "100 de milioane",
+          "5 milioane"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "Unde a fost marea adunare?",
+        "answer": "Alba Iulia"
+      },
+      {
+        "question": "În ce an a fost Marea Unire?",
+        "answer": "1918"
+      },
+      {
+        "question": "În ce zi e Ziua Națională?",
+        "answer": "1 decembrie"
+      },
+      {
+        "question": "Ce regiune s-a unit prima?",
+        "answer": "Basarabia"
+      },
+      {
+        "question": "Unde s-a unit Bucovina?",
+        "answer": "Cernăuți"
+      },
+      {
+        "question": "Cine a citit rezoluția?",
+        "answer": "Vasile Goldiș"
+      },
+      {
+        "question": "Cine a condus Ardealul?",
+        "answer": "Iuliu Maniu"
+      },
+      {
+        "question": "Cum se numea noul stat?",
+        "answer": "România Mare"
+      },
+      {
+        "question": "În ce an a fost încoronarea?",
+        "answer": "1922"
+      },
+      {
+        "question": "Ce tratat a dat Ardealul?",
+        "answer": "Trianon"
+      }
+    ]
+  },
+  "ro_romania_interbelica": {
+    "mcq": [
+      {
+        "question": "Ce înseamnă perioada 'interbelică'?",
+        "correct": "Între cele două războaie mondiale",
+        "wrong": [
+          "Înainte de războaie",
+          "În timpul războiului",
+          "După 1989"
+        ]
+      },
+      {
+        "question": "Ce rege a domnit în cea mai mare parte a anilor '30?",
+        "correct": "Carol al II-lea",
+        "wrong": [
+          "Ferdinand I",
+          "Carol I",
+          "Mihai I"
+        ]
+      },
+      {
+        "question": "Ce constituție modernă a fost adoptată în 1923?",
+        "correct": "Constituția României Mari",
+        "wrong": [
+          "Constituția lui Cuza",
+          "Regulamentele Organice",
+          "Constituția de azi"
+        ]
+      },
+      {
+        "question": "Cum a fost numit Bucureștiul în perioada interbelică?",
+        "correct": "Micul Paris",
+        "wrong": [
+          "Mica Romă",
+          "Micul Londra",
+          "Orașul de Aur"
+        ]
+      },
+      {
+        "question": "Cine a fost un mare diplomat român, președinte al Ligii Națiunilor?",
+        "correct": "Nicolae Titulescu",
+        "wrong": [
+          "Ion Brătianu",
+          "Nicolae Iorga",
+          "Corneliu Zelea Codreanu"
+        ]
+      },
+      {
+        "question": "Ce reformă majoră a avut loc în 1921?",
+        "correct": "Reforma agrară (cea mai mare din Europa)",
+        "wrong": [
+          "Reforma militară",
+          "Reforma bisericii",
+          "Nicio reformă"
+        ]
+      },
+      {
+        "question": "Care a fost principalul produs de export al României?",
+        "correct": "Petrolul și cerealele",
+        "wrong": [
+          "Calculatoarele",
+          "Mașinile electrice",
+          "Bumbacul"
+        ]
+      },
+      {
+        "question": "Cine a fost marele istoric și om politic, prim-ministru ucis în 1940?",
+        "correct": "Nicolae Iorga",
+        "wrong": [
+          "Iuliu Maniu",
+          "Ion Brătianu",
+          "Armand Călinescu"
+        ]
+      },
+      {
+        "question": "Ce mișcare de extremă dreaptă a apărut în această perioadă?",
+        "correct": "Legiunea Arhanghelul Mihail (Garda de Fier)",
+        "wrong": [
+          "Partidul Comunist",
+          "Partidul Liberal",
+          "Cercetașii"
+        ]
+      },
+      {
+        "question": "În 1938, Carol al II-lea a instaurat:",
+        "correct": "Dictatura regală",
+        "wrong": [
+          "Democrația pură",
+          "Comunismul",
+          "Republica"
+        ]
+      },
+      {
+        "question": "Ce mare sculptor român a creat Coloana Infinitului în 1937?",
+        "correct": "Constantin Brâncuși",
+        "wrong": [
+          "Nicolae Grigorescu",
+          "Ștefan Luchian",
+          "George Enescu"
+        ]
+      },
+      {
+        "question": "Ce mare compozitor și violonist a trăit în această perioadă?",
+        "correct": "George Enescu",
+        "wrong": [
+          "Ciprian Porumbescu",
+          "Ludwig van Beethoven",
+          "Mozart"
+        ]
+      },
+      {
+        "question": "Votul universal (pentru bărbați) a fost introdus în:",
+        "correct": "1918/1919",
+        "wrong": [
+          "1859",
+          "1990",
+          "1945"
+        ]
+      },
+      {
+        "question": "România interbelică era o țară predominant:",
+        "correct": "Agrară",
+        "wrong": [
+          "Industrializată",
+          "Robotizată",
+          "Fără oameni"
+        ]
+      },
+      {
+        "question": "Ce s-a întâmplat cu educația în această perioadă?",
+        "correct": "A crescut alfabetizarea și numărul școlilor",
+        "wrong": [
+          "S-au închis toate școlile",
+          "A rămas la fel",
+          "S-a învățat doar chineza"
+        ]
+      },
+      {
+        "question": "Arcul de Triumf din București a fost finalizat în:",
+        "correct": "1936",
+        "wrong": [
+          "1877",
+          "1918",
+          "2000"
+        ]
+      },
+      {
+        "question": "Cine a fost regele copil (1927-1930)?",
+        "correct": "Mihai I",
+        "wrong": [
+          "Carol al II-lea",
+          "Ferdinand",
+          "Carol I"
+        ]
+      },
+      {
+        "question": "Ce este 'Restaurația' din 1930?",
+        "correct": "Revenirea lui Carol al II-lea pe tron",
+        "wrong": [
+          "Repararea unei biserici",
+          "Unirea cu Moldova",
+          "Cucerirea Ungariei"
+        ]
+      },
+      {
+        "question": "Perioada interbelică a fost considerată:",
+        "correct": "Vârsta de aur a culturii și democrației românești",
+        "wrong": [
+          "Cea mai neagră perioadă",
+          "O perioadă plictisitoare",
+          "Epoca de piatră"
+        ]
+      },
+      {
+        "question": "În 1940, România a pierdut teritorii mari fără luptă. Care?",
+        "correct": "Basarabia, Bucovina de Nord și Nord-Vestul Transilvaniei",
+        "wrong": [
+          "Dobrogea și Banatul",
+          "Bucureștiul",
+          "Oltenia"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "Cum i se spunea Bucureștiului?",
+        "answer": "Micul Paris"
+      },
+      {
+        "question": "Cine a fost diplomatul celebru?",
+        "answer": "Nicolae Titulescu"
+      },
+      {
+        "question": "Cine a fost istoricul celebru?",
+        "answer": "Nicolae Iorga"
+      },
+      {
+        "question": "Cine a făcut Coloana Infinitului?",
+        "answer": "Brâncuși"
+      },
+      {
+        "question": "Cine a fost rege în anii '30?",
+        "answer": "Carol II"
+      },
+      {
+        "question": "Ce reformă a dat pământ în 1921?",
+        "answer": "Agrară"
+      },
+      {
+        "question": "Ce s-a extras mult atunci?",
+        "answer": "Petrol"
+      },
+      {
+        "question": "Era România o țară mare?",
+        "answer": "Da"
+      },
+      {
+        "question": "Cine a fost compozitorul?",
+        "answer": "George Enescu"
+      },
+      {
+        "question": "Când s-a terminat perioada?",
+        "answer": "1939"
+      }
+    ]
+  },
+  "ro_al_doilea_razboi_mondial_ro": {
+    "mcq": [
+      {
+        "question": "În ce an a intrat România în Al Doilea Război Mondial?",
+        "correct": "1941",
+        "wrong": [
+          "1939",
+          "1945",
+          "1916"
+        ]
+      },
+      {
+        "question": "Cine a condus România în timpul războiului (ca mareșal)?",
+        "correct": "Ion Antonescu",
+        "wrong": [
+          "Carol al II-lea",
+          "Mihai I",
+          "Nicolae Ceaușescu"
+        ]
+      },
+      {
+        "question": "Alături de cine a luptat România la început (1941-1944)?",
+        "correct": "Axa (Germania, Italia, Japonia)",
+        "wrong": [
+          "Antanta",
+          "Aliații (Anglia, SUA, URSS)",
+          "NATO"
+        ]
+      },
+      {
+        "question": "Care a fost ordinul celebru pentru eliberarea Basarabiei?",
+        "correct": "Ostași, vă ordon: treceți Prutul!",
+        "wrong": [
+          "Pe aici nu se trece!",
+          "Independență sau moarte",
+          "Fugiți!"
+        ]
+      },
+      {
+        "question": "Ce eveniment a avut loc pe 23 august 1944?",
+        "correct": "Întoarcerea armelor împotriva Germaniei",
+        "wrong": [
+          "Intrarea în război",
+          "Unirea cu Transilvania",
+          "Moartea lui Antonescu"
+        ]
+      },
+      {
+        "question": "Cine a coordonat actul de la 23 august 1944?",
+        "correct": "Regele Mihai I",
+        "wrong": [
+          "Ion Antonescu",
+          "Stalin",
+          "Hitler"
+        ]
+      },
+      {
+        "question": "Unde a suferit armata română pierderi uriașe pe frontul de est?",
+        "correct": "Bătălia de la Stalingrad (Cotul Donului)",
+        "wrong": [
+          "Mărășești",
+          "Plevna",
+          "Vaslui"
+        ]
+      },
+      {
+        "question": "Ce teritoriu a eliberat România luptând alături de Aliați?",
+        "correct": "Nord-Vestul Transilvaniei",
+        "wrong": [
+          "Basarabia",
+          "Bucovina",
+          "Dobrogea"
+        ]
+      },
+      {
+        "question": "După 23 august 1944, România a luptat împotriva:",
+        "correct": "Germaniei naziste și Ungariei horthyste",
+        "wrong": [
+          "Rusiei",
+          "Angliei",
+          "Americii"
+        ]
+      },
+      {
+        "question": "Până unde a ajuns armata română luptând spre vest?",
+        "correct": "Cehoslovacia și Austria",
+        "wrong": [
+          "Berlin",
+          "Paris",
+          "Londra"
+        ]
+      },
+      {
+        "question": "Ce dictat din 1940 a cedat Nordul Transilvaniei Ungariei?",
+        "correct": "Dictatul de la Viena",
+        "wrong": [
+          "Tratatul de la Trianon",
+          "Pacea de la Berlin",
+          "Pactul Ribbentrop-Molotov"
+        ]
+      },
+      {
+        "question": "Ce pact secret între Germania și URSS a dus la pierderea Basarabiei?",
+        "correct": "Pactul Ribbentrop-Molotov",
+        "wrong": [
+          "Antanta",
+          "Tripla Alianță",
+          "NATO"
+        ]
+      },
+      {
+        "question": "Bucureștiul a fost bombardat în timpul războiului de:",
+        "correct": "Aviația americană și engleză (apoi germană)",
+        "wrong": [
+          "Aviația chineză",
+          "Niciun bombardament",
+          "Egipteni"
+        ]
+      },
+      {
+        "question": "Care a fost soarta lui Ion Antonescu după război?",
+        "correct": "A fost judecat și executat",
+        "wrong": [
+          "A rămas conducător",
+          "A plecat în exil",
+          "A devenit rege"
+        ]
+      },
+      {
+        "question": "Ce s-a întâmplat cu regele Mihai I la sfârșitul războiului?",
+        "correct": "A fost decorat de americani și ruși, dar apoi forțat să abdice",
+        "wrong": [
+          "A fost ucis",
+          "A devenit președinte",
+          "A cucerit Rusia"
+        ]
+      },
+      {
+        "question": "Tratatul de Pace de la Paris (1947) a stabilit că:",
+        "correct": "Transilvania revine României, dar Basarabia rămâne la URSS",
+        "wrong": [
+          "România primește tot",
+          "România dispare",
+          "Granițele rămân neschimbate"
+        ]
+      },
+      {
+        "question": "Câți soldați români au luptat în acest război?",
+        "correct": "Peste un milion",
+        "wrong": [
+          "100",
+          "500.000",
+          "Două milioane"
+        ]
+      },
+      {
+        "question": "Care a fost rolul petrolului românesc (Ploiești)?",
+        "correct": "Sursă vitală de combustibil pentru mașina de război germană",
+        "wrong": [
+          "Nu a fost folosit",
+          "A fost vândut Americii",
+          "A fost ars tot"
+        ]
+      },
+      {
+        "question": "Luptele din Munții Tatra au fost purtate de români pentru:",
+        "correct": "Eliberarea Cehoslovaciei",
+        "wrong": [
+          "Cucerirea Italiei",
+          "Apărarea mării",
+          "Niciun motiv"
+        ]
+      },
+      {
+        "question": "În ce an s-a încheiat oficial războiul pentru România?",
+        "correct": "1945",
+        "wrong": [
+          "1944",
+          "1947",
+          "1950"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "În ce an am intrat în război?",
+        "answer": "1941"
+      },
+      {
+        "question": "Cine era mareșalul?",
+        "answer": "Ion Antonescu"
+      },
+      {
+        "question": "Ce teritoriu am vrut înapoi?",
+        "answer": "Basarabia"
+      },
+      {
+        "question": "Ce râu a ordonat să fie trecut?",
+        "answer": "Prutul"
+      },
+      {
+        "question": "Ce s-a întâmplat pe 23 august?",
+        "answer": "Întoarcerea armelor"
+      },
+      {
+        "question": "Cine era regele?",
+        "answer": "Mihai I"
+      },
+      {
+        "question": "Unde am pierdut mulți oameni?",
+        "answer": "Stalingrad"
+      },
+      {
+        "question": "De ce parte am fost prima dată?",
+        "answer": "Axa"
+      },
+      {
+        "question": "De ce parte am fost la final?",
+        "answer": "Aliații"
+      },
+      {
+        "question": "Transilvania a revenit?",
+        "answer": "Da"
+      }
+    ]
+  },
+  "ro_holocaustul_romania": {
+    "mcq": [
+      {
+        "question": "Ce este Holocaustul?",
+        "correct": "Sistemul de persecuție și exterminare a evreilor",
+        "wrong": [
+          "Un tip de avion",
+          "Un oraș",
+          "O sărbătoare"
+        ]
+      },
+      {
+        "question": "Cine au fost victimele Holocaustului în România?",
+        "correct": "Evreii și romii",
+        "wrong": [
+          "Doar soldații",
+          "Doar politicienii",
+          "Doar turiștii"
+        ]
+      },
+      {
+        "question": "Ce regim a pus în aplicare politici antisemite în România?",
+        "correct": "Regimul Ion Antonescu",
+        "wrong": [
+          "Regimul Cuza",
+          "Regimul Carol I",
+          "Regimul de azi"
+        ]
+      },
+      {
+        "question": "Unde au fost deportați mulți evrei din Basarabia și Bucovina?",
+        "correct": "În Transnistria",
+        "wrong": [
+          "În Germania",
+          "În America",
+          "În Dobrogea"
+        ]
+      },
+      {
+        "question": "Ce s-a întâmplat la Iași în iunie 1941?",
+        "correct": "Un pogrom (masacru) violent",
+        "wrong": [
+          "O nuntă mare",
+          "O paradă militară",
+          "O conferință de pace"
+        ]
+      },
+      {
+        "question": "Cum au fost transportați evreii în timpul pogromului de la Iași?",
+        "correct": "În 'Trenurile morții'",
+        "wrong": [
+          "Cu mașini de lux",
+          "Cu avioane",
+          "Pe jos în excursie"
+        ]
+      },
+      {
+        "question": "Cine a fost un supraviețuitor celebru al Holocaustului, născut în Sighet, laureat al Premiului Nobel?",
+        "correct": "Elie Wiesel",
+        "wrong": [
+          "Nicolae Iorga",
+          "Mircea Eliade",
+          "Emil Cioran"
+        ]
+      },
+      {
+        "question": "Evreii din Nordul Transilvaniei (ocupat de Ungaria) au fost trimiși la:",
+        "correct": "Auschwitz",
+        "wrong": [
+          "Transnistria",
+          "București",
+          "Roma"
+        ]
+      },
+      {
+        "question": "Ce însemna 'steaua galbenă'?",
+        "correct": "Semn distinctiv obligatoriu pentru evrei",
+        "wrong": [
+          "O decorație militară",
+          "Un simbol al norocului",
+          "O jucărie"
+        ]
+      },
+      {
+        "question": "Cine a încercat să ajute evreii, fiind numită 'Drept între popoare'?",
+        "correct": "Regina Mamă Elena (sau Viorica Agarici)",
+        "wrong": [
+          "Elena Ceaușescu",
+          "Doamna Stanca",
+          "Elena Cuza"
+        ]
+      },
+      {
+        "question": "Holocaustul în România este recunoscut oficial azi?",
+        "correct": "Da, prin raportul comisiei Elie Wiesel",
+        "wrong": [
+          "Nu, este secret",
+          "Este interzis să vorbești",
+          "Nu a existat"
+        ]
+      },
+      {
+        "question": "Ce este Memorialul Victimelor Holocaustului din București?",
+        "correct": "Un monument dedicat victimelor",
+        "wrong": [
+          "Un magazin",
+          "Un stadion",
+          "Un teatru"
+        ]
+      },
+      {
+        "question": "În ce perioadă au fost cele mai dure măsuri antisemite?",
+        "correct": "1940-1944",
+        "wrong": [
+          "1877-1878",
+          "1914-1918",
+          "1989-1990"
+        ]
+      },
+      {
+        "question": "Ce profesii le erau interzise evreilor prin legile rasiale?",
+        "correct": "Medic, avocat, profesor, militar etc.",
+        "wrong": [
+          "Niciuna",
+          "Toate erau permise",
+          "Doar sportiv"
+        ]
+      },
+      {
+        "question": "Unde se aflau lagărele din Transnistria?",
+        "correct": "Bogdanovka, Vapniarka, Wapniarka etc.",
+        "wrong": [
+          "La munte",
+          "La mare",
+          "În București"
+        ]
+      },
+      {
+        "question": "Ce s-a întâmplat cu bunurile evreilor?",
+        "correct": "Au fost confiscate (românizarea bunurilor)",
+        "wrong": [
+          "Au fost păstrate în bănci",
+          "Au fost dublate",
+          "Au fost date la săraci"
+        ]
+      },
+      {
+        "question": "Pogromul de la București (1941) a fost organizat de:",
+        "correct": "Legionari",
+        "wrong": [
+          "Pescari",
+          "Elevi",
+          "Muncitori"
+        ]
+      },
+      {
+        "question": "Câți evrei se estimează că au murit sub autoritatea română?",
+        "correct": "Între 280.000 și 380.000",
+        "wrong": [
+          "10",
+          "10 milioane",
+          "Niciunul"
+        ]
+      },
+      {
+        "question": "Ziua Națională de Comemorare a Holocaustului în România este:",
+        "correct": "9 octombrie",
+        "wrong": [
+          "1 decembrie",
+          "1 ianuarie",
+          "1 mai"
+        ]
+      },
+      {
+        "question": "De ce este important să învățăm despre Holocaust?",
+        "correct": "Pentru a preveni repetarea unor astfel de orori",
+        "wrong": [
+          "Pentru a ne plictisi",
+          "Nu este important",
+          "Pentru a învăța matematică"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "Cine a fost victima principală?",
+        "answer": "Evreii"
+      },
+      {
+        "question": "Unde au fost deportați?",
+        "answer": "Transnistria"
+      },
+      {
+        "question": "Unde a fost un pogrom mare?",
+        "answer": "Iași"
+      },
+      {
+        "question": "Cum se numeau trenurile?",
+        "answer": "Trenurile morții"
+      },
+      {
+        "question": "Cine a luat premiul Nobel?",
+        "answer": "Elie Wiesel"
+      },
+      {
+        "question": "Ce stea purtau evreii?",
+        "answer": "Steaua galbenă"
+      },
+      {
+        "question": "Cine a fost Regina ajutătoare?",
+        "answer": "Elena"
+      },
+      {
+        "question": "Au fost și romi uciși?",
+        "answer": "Da"
+      },
+      {
+        "question": "Sub ce regim a fost?",
+        "answer": "Ion Antonescu"
+      },
+      {
+        "question": "În ce an a început masiv?",
+        "answer": "1941"
+      }
+    ]
+  },
+  "ro_comunismul_romania": {
+    "mcq": [
+      {
+        "question": "În ce perioadă a fost România sub regim comunist?",
+        "correct": "1945/1947 - 1989",
+        "wrong": [
+          "1866-1914",
+          "1918-1939",
+          "După 2000"
+        ]
+      },
+      {
+        "question": "Cine a fost primul lider comunist al României (până în 1965)?",
+        "correct": "Gheorghe Gheorghiu-Dej",
+        "wrong": [
+          "Nicolae Ceaușescu",
+          "Ion Iliescu",
+          "Iuliu Maniu"
+        ]
+      },
+      {
+        "question": "Ce eveniment din 30 decembrie 1947 a marcat începutul totalitarismului?",
+        "correct": "Abdicarea forțată a regelui Mihai I și proclamarea Republicii",
+        "wrong": [
+          "Marea Unire",
+          "Revoluția",
+          "Războiul"
+        ]
+      },
+      {
+        "question": "Cum se numea poliția politică temută din timpul comunismului?",
+        "correct": "Securitatea",
+        "wrong": [
+          "Poliția",
+          "Jandarmeria",
+          "FBI"
+        ]
+      },
+      {
+        "question": "Ce proces a dus la trecerea pământurilor țăranilor în proprietatea statului?",
+        "correct": "Colectivizarea agriculturii",
+        "wrong": [
+          "Reforma agrară",
+          "Vânzarea pământului",
+          "Niciunul"
+        ]
+      },
+      {
+        "question": "Unde au fost închiși mulți intelectuali și politicieni democrați?",
+        "correct": "În închisori politice (Sighet, Gherla, Aiud, Pitești)",
+        "wrong": [
+          "În hoteluri",
+          "La mare",
+          "În școli"
+        ]
+      },
+      {
+        "question": "Ce mare proiect de construcție a folosit munca forțată a deținuților?",
+        "correct": "Canalul Dunăre-Marea Neagră",
+        "wrong": [
+          "Metroul",
+          "Autostrada Soarelui",
+          "Podul Grant"
+        ]
+      },
+      {
+        "question": "Cine a devenit liderul României în 1965?",
+        "correct": "Nicolae Ceaușescu",
+        "wrong": [
+          "Gheorghe Gheorghiu-Dej",
+          "Petru Groza",
+          "Ion Gheorghe Maurer"
+        ]
+      },
+      {
+        "question": "În 1968, Ceaușescu a câștigat popularitate refuzând să:",
+        "correct": "Invadă Cehoslovacia alături de trupele Pactului de la Varșovia",
+        "wrong": [
+          "Plătească datoriile",
+          "Construiască blocuri",
+          "Mănânce ciocolată"
+        ]
+      },
+      {
+        "question": "Cum se numea programul de raționalizare a alimentelor din anii '80?",
+        "correct": "Cartela (alimentația rațională)",
+        "wrong": [
+          "Bufetul suedez",
+          "Meniul zilei",
+          "Masa gratuită"
+        ]
+      },
+      {
+        "question": "Ce se întâmpla cu curentul electric și căldura în anii '80?",
+        "correct": "Erau întrerupte frecvent pentru economie",
+        "wrong": [
+          "Erau gratis și nelimitate",
+          "Nu existau deloc",
+          "Erau doar pentru televizoare"
+        ]
+      },
+      {
+        "question": "Cultul personalității însemna că:",
+        "correct": "Ceaușescu era lăudat excesiv în presă și cântece",
+        "wrong": [
+          "Oamenii aveau voie să-l critice",
+          "Nu se vorbea despre el",
+          "Era un actor celebru"
+        ]
+      },
+      {
+        "question": "Cum se numea soția dictatorului, care avea multă putere?",
+        "correct": "Elena Ceaușescu",
+        "wrong": [
+          "Regina Maria",
+          "Elena Cuza",
+          "Ana Pauker"
+        ]
+      },
+      {
+        "question": "În timpul comunismului, proprietatea privată a fost:",
+        "correct": "Aproape total desființată",
+        "wrong": [
+          "Încurajată",
+          "Dublată",
+          "Lăsată la fel"
+        ]
+      },
+      {
+        "question": "România a făcut parte din alianța militară numită:",
+        "correct": "Pactul de la Varșovia",
+        "wrong": [
+          "NATO",
+          "ONU",
+          "Antanta"
+        ]
+      },
+      {
+        "question": "Cum se numeau copiii de școală în regimul comunist?",
+        "correct": "Pionieri și Șoimii Patriei",
+        "wrong": [
+          "Cercetași",
+          "Elevi liberi",
+          "Micii daci"
+        ]
+      },
+      {
+        "question": "Ce mare clădire din București a fost construită prin dărâmarea unor cartiere vechi?",
+        "correct": "Casa Poporului (Palatul Parlamentului)",
+        "wrong": [
+          "Ateneul Român",
+          "Muzeul de Istorie",
+          "Gara de Nord"
+        ]
+      },
+      {
+        "question": "Libertatea de exprimare în comunism era:",
+        "correct": "Inexistentă (cenzură strictă)",
+        "wrong": [
+          "Totală",
+          "Doar la radio",
+          "Doar în vacanță"
+        ]
+      },
+      {
+        "question": "Datoria externă a României a fost plătită total în 1989 prin:",
+        "correct": "Exporturi masive și înfometarea populației",
+        "wrong": [
+          "Descoperirea de aur",
+          "Un împrumut nou",
+          "O donație"
+        ]
+      },
+      {
+        "question": "Regimul comunist a căzut în urma:",
+        "correct": "Revoluției din decembrie 1989",
+        "wrong": [
+          "Unei alegeri libere",
+          "Unei invazii străine",
+          "Demisiei de bunăvoie"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "Cine a fost primul lider?",
+        "answer": "Gheorghiu-Dej"
+      },
+      {
+        "question": "Cine a condus după 1965?",
+        "answer": "Ceaușescu"
+      },
+      {
+        "question": "Cum se numea poliția politică?",
+        "answer": "Securitatea"
+      },
+      {
+        "question": "Ce abdicare a fost în 1947?",
+        "answer": "Mihai I"
+      },
+      {
+        "question": "Cum se numea statul?",
+        "answer": "Republică"
+      },
+      {
+        "question": "Statul a luat pământul?",
+        "answer": "Colectivizare"
+      },
+      {
+        "question": "Ce canal s-a construit?",
+        "answer": "Dunăre-Marea Neagră"
+      },
+      {
+        "question": "Erau alimentele pe cartelă?",
+        "answer": "Da"
+      },
+      {
+        "question": "Cum o chema pe soția lui?",
+        "answer": "Elena"
+      },
+      {
+        "question": "În ce an a căzut?",
+        "answer": "1989"
+      }
+    ]
+  },
+  "ro_ceausescu_revolutia_1989": {
+    "mcq": [
+      {
+        "question": "Unde a început Revoluția din 1989?",
+        "correct": "La Timișoara",
+        "wrong": [
+          "La București",
+          "La Iași",
+          "La Cluj"
+        ]
+      },
+      {
+        "question": "Pe ce dată a început revolta la Timișoara?",
+        "correct": "16 decembrie 1989",
+        "wrong": [
+          "1 decembrie",
+          "25 decembrie",
+          "1 ianuarie"
+        ]
+      },
+      {
+        "question": "Cine a fost pastorul a cărui evacuare a declanșat protestele?",
+        "correct": "László Tőkés",
+        "wrong": [
+          "Nicolae Ceaușescu",
+          "Ion Iliescu",
+          "Petre Roman"
+        ]
+      },
+      {
+        "question": "Când s-a extins Revoluția la București?",
+        "correct": "21 decembrie 1989",
+        "wrong": [
+          "16 decembrie",
+          "30 decembrie",
+          "1 mai"
+        ]
+      },
+      {
+        "question": "Ce s-a întâmplat în timpul ultimului discurs al lui Ceaușescu?",
+        "correct": "Mulțimea a început să-l huiduie",
+        "wrong": [
+          "Toată lumea a aplaudat",
+          "A plouat",
+          "S-a tăiat curentul"
+        ]
+      },
+      {
+        "question": "Cum au încercat soții Ceaușescu să fugă din București?",
+        "correct": "Cu un elicopter de pe acoperișul CC",
+        "wrong": [
+          "Cu metroul",
+          "Cu bicicleta",
+          "Cu o barcă"
+        ]
+      },
+      {
+        "question": "Pe ce dată au fost executați soții Ceaușescu?",
+        "correct": "25 decembrie 1989",
+        "wrong": [
+          "22 decembrie",
+          "30 decembrie",
+          "1 ianuarie"
+        ]
+      },
+      {
+        "question": "Unde a avut loc procesul și execuția soților Ceaușescu?",
+        "correct": "La Târgoviște",
+        "wrong": [
+          "La București",
+          "La Timișoara",
+          "La Paris"
+        ]
+      },
+      {
+        "question": "Cine a preluat puterea imediat după fuga lui Ceaușescu?",
+        "correct": "Frontul Salvării Naționale (FSN)",
+        "wrong": [
+          "Partidul Liberal",
+          "Armata rusă",
+          "NATO"
+        ]
+      },
+      {
+        "question": "Cine a fost liderul FSN, devenit ulterior președinte?",
+        "correct": "Ion Iliescu",
+        "wrong": [
+          "Petre Roman",
+          "Emil Constantinescu",
+          "Traian Băsescu"
+        ]
+      },
+      {
+        "question": "Revoluția română a fost singura din Europa de Est care a fost:",
+        "correct": "Violentă (cu morți și răniți)",
+        "wrong": [
+          "Pașnică",
+          "Anulată",
+          "Fără importanță"
+        ]
+      },
+      {
+        "question": "Care a fost strigătul principal al revoluționarilor?",
+        "correct": "Jos comunismul! / Libertate!",
+        "wrong": [
+          "Vrem mâncare!",
+          "Vrem vacanță!",
+          "Nu plecăm!"
+        ]
+      },
+      {
+        "question": "Unde au murit cei mai mulți oameni în timpul revoluției?",
+        "correct": "După fuga lui Ceaușescu, în confuzia creată",
+        "wrong": [
+          "Înainte de proteste",
+          "În somn",
+          "În alte țări"
+        ]
+      },
+      {
+        "question": "Televiziunea Română a devenit în acele zile:",
+        "correct": "Televiziunea Română Liberă",
+        "wrong": [
+          "Televiziunea lui Ceaușescu",
+          "Închisă",
+          "Un post de radio"
+        ]
+      },
+      {
+        "question": "Ce simbol avea steagul decupat al revoluționarilor?",
+        "correct": "Lipseau însemnele comuniste (gaură în mijloc)",
+        "wrong": [
+          "O stea mare",
+          "Un soare",
+          "O inimă"
+        ]
+      },
+      {
+        "question": "Care a fost soarta Partidului Comunist Român după 1989?",
+        "correct": "A dispărut oficial de pe scena politică",
+        "wrong": [
+          "A rămas la putere",
+          "S-a mutat în Rusia",
+          "A devenit partid ecologist"
+        ]
+      },
+      {
+        "question": "Revoluția a marcat trecerea la:",
+        "correct": "Democrație și economie de piață",
+        "wrong": [
+          "Alt tip de comunism",
+          "Regat",
+          "Dictatură militară"
+        ]
+      },
+      {
+        "question": "Câte victime s-au înregistrat la Revoluție?",
+        "correct": "Peste 1100 de morți",
+        "wrong": [
+          "Niciuna",
+          "10",
+          "Un milion"
+        ]
+      },
+      {
+        "question": "Ceaușescu a fost acuzat la proces de:",
+        "correct": "Genocid și subminarea economiei naționale",
+        "wrong": [
+          "Furt de biciclete",
+          "Lipsă de politețe",
+          "Nu a fost acuzat"
+        ]
+      },
+      {
+        "question": "Crăciunul din 1989 a fost primul după mulți ani în care:",
+        "correct": "S-a putut sărbători liber și s-au colindat la TV",
+        "wrong": [
+          "A fost interzis",
+          "Nu s-a întâmplat nimic",
+          "A fost zi de lucru obligatorie"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "Unde a început Revoluția?",
+        "answer": "Timișoara"
+      },
+      {
+        "question": "În ce an a fost?",
+        "answer": "1989"
+      },
+      {
+        "question": "În ce lună a fost?",
+        "answer": "Decembrie"
+      },
+      {
+        "question": "Cine a fost dictatorul ucis?",
+        "answer": "Ceaușescu"
+      },
+      {
+        "question": "În ce zi a fost executat?",
+        "answer": "25 decembrie"
+      },
+      {
+        "question": "Cine a preluat puterea?",
+        "answer": "Ion Iliescu"
+      },
+      {
+        "question": "Unde a fost procesul?",
+        "answer": "Târgoviște"
+      },
+      {
+        "question": "A fost o revoluție violentă?",
+        "answer": "Da"
+      },
+      {
+        "question": "Cum se numea frontul nou?",
+        "answer": "FSN"
+      },
+      {
+        "question": "Ce oraș e 'primul liber'?",
+        "answer": "Timișoara"
+      }
+    ]
+  },
+  "ro_post_1989": {
+    "mcq": [
+      {
+        "question": "Ce sistem politic a adoptat România după 1989?",
+        "correct": "Democrația parlamentară",
+        "wrong": [
+          "Comunismul",
+          "Monarhia absolută",
+          "Anarhia"
+        ]
+      },
+      {
+        "question": "În ce an au avut loc primele alegeri libere post-comuniste?",
+        "correct": "1990",
+        "wrong": [
+          "1989",
+          "2000",
+          "1945"
+        ]
+      },
+      {
+        "question": "Cine a fost primul președinte ales în 1990?",
+        "correct": "Ion Iliescu",
+        "wrong": [
+          "Nicolae Ceaușescu",
+          "Emil Constantinescu",
+          "Traian Băsescu"
+        ]
+      },
+      {
+        "question": "În ce an a aderat România la NATO?",
+        "correct": "2004",
+        "wrong": [
+          "1990",
+          "2007",
+          "2018"
+        ]
+      },
+      {
+        "question": "În ce an a aderat România la Uniunea Europeană (UE)?",
+        "correct": "2007",
+        "wrong": [
+          "2004",
+          "1990",
+          "2012"
+        ]
+      },
+      {
+        "question": "Care este moneda oficială a României?",
+        "correct": "Leul (RON)",
+        "wrong": [
+          "Euro",
+          "Dolarul",
+          "Rubla"
+        ]
+      },
+      {
+        "question": "Ce fenomen a afectat masiv populația României după 1989?",
+        "correct": "Emigrarea (plecarea în străinătate)",
+        "wrong": [
+          "Obezitatea extremă",
+          "Dispariția internetului",
+          "Explozia demografică"
+        ]
+      },
+      {
+        "question": "Cine a fost al doilea președinte al României (1996-2000)?",
+        "correct": "Emil Constantinescu",
+        "wrong": [
+          "Ion Iliescu",
+          "Traian Băsescu",
+          "Klaus Iohannis"
+        ]
+      },
+      {
+        "question": "Cum se numea moneda românească înainte de denominarea din 2005?",
+        "correct": "Leul vechi (ROL)",
+        "wrong": [
+          "Ducat",
+          "Zlot",
+          "Euro"
+        ]
+      },
+      {
+        "question": "România este astăzi o țară:",
+        "correct": "Semicentralizată, republică semiprezidențială",
+        "wrong": [
+          "Dictatorială",
+          "Federală",
+          "Regat"
+        ]
+      },
+      {
+        "question": "Ce eveniment sportiv a adus mari bucurii românilor în 1994?",
+        "correct": "Campionatul Mondial de Fotbal (Generația de Aur)",
+        "wrong": [
+          "Olimpiada de iarnă",
+          "Turneul de șah",
+          "Nimic"
+        ]
+      },
+      {
+        "question": "Cine a fost 'liderul' Generației de Aur a fotbalului românesc?",
+        "correct": "Gheorghe Hagi",
+        "wrong": [
+          "Simona Halep",
+          "Nadia Comăneci",
+          "Ilie Năstase"
+        ]
+      },
+      {
+        "question": "Ce regiune istorică a rămas stat independent după 1991?",
+        "correct": "Republica Moldova",
+        "wrong": [
+          "Transilvania",
+          "Banatul",
+          "Dobrogea"
+        ]
+      },
+      {
+        "question": "În ce an a vizitat Papa Ioan Paul al II-lea România?",
+        "correct": "1999",
+        "wrong": [
+          "1989",
+          "2020",
+          "1945"
+        ]
+      },
+      {
+        "question": "România a trecut de la economia de stat la:",
+        "correct": "Economia de piață (privată)",
+        "wrong": [
+          "Economia de troc",
+          "Nimic",
+          "Comunism chinezesc"
+        ]
+      },
+      {
+        "question": "Cine este actualul președinte al României (din 2014)?",
+        "correct": "Klaus Iohannis",
+        "wrong": [
+          "Traian Băsescu",
+          "Ion Iliescu",
+          "Petre Roman"
+        ]
+      },
+      {
+        "question": "România folosește în prezent alfabetul:",
+        "correct": "Latin",
+        "wrong": [
+          "Chirilic",
+          "Arab",
+          "Chinezesc"
+        ]
+      },
+      {
+        "question": "Capitala României a rămas la:",
+        "correct": "București",
+        "wrong": [
+          "Timișoara",
+          "Iași",
+          "Cluj"
+        ]
+      },
+      {
+        "question": "Aderarea la UE a permis românilor să:",
+        "correct": "Călătorească și să lucreze liber în Europa",
+        "wrong": [
+          "Nu mai meargă la școală",
+          "Primească bani fără să muncească",
+          "Nu mai aibă legi"
+        ]
+      },
+      {
+        "question": "Cum este considerată România în prezent pe plan internațional?",
+        "correct": "Partener stabil în NATO și UE",
+        "wrong": [
+          "O țară izolată",
+          "Un inamic",
+          "O colonie"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "question": "În ce an am intrat în UE?",
+        "answer": "2007"
+      },
+      {
+        "question": "În ce an am intrat în NATO?",
+        "answer": "2004"
+      },
+      {
+        "question": "Cine a fost ales în 1990?",
+        "answer": "Ion Iliescu"
+      },
+      {
+        "question": "Care este moneda noastră?",
+        "answer": "Leul"
+      },
+      {
+        "question": "Cine e Hagi?",
+        "answer": "Fotbalist"
+      },
+      {
+        "question": "Suntem republică?",
+        "answer": "Da"
+      },
+      {
+        "question": "În ce an a fost vizita Papei?",
+        "answer": "1999"
+      },
+      {
+        "question": "București e capitala?",
+        "answer": "Da"
+      },
+      {
+        "question": "A crescut libertatea?",
+        "answer": "Da"
+      },
+      {
+        "question": "Cine e președinte azi?",
+        "answer": "Iohannis"
+      }
+    ]
+  }
+}

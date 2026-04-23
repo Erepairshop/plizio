@@ -1,3 +1,4 @@
+import AI_K6_JSON from "./aiCurriculum6_data.json";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -11,7 +12,7 @@ interface RawQuestion {
   correct?: number;
 }
 
-const AI_K6_DATA: Record<string, RawQuestion[]> = {
+const AI_K6_DATA: Record<string, RawQuestion[]> = { ...(AI_K6_JSON as any),
   "ai_k6_t1_1": [ // Gépi tanulás mélyebben
     { type: "mcq", question: { de: "Was ist überwachtes Lernen?", hu: "Mi a felügyelt tanulás?", ro: "Ce este învățarea supravegheată?", en: "What is supervised learning?" }, options: { de: ["Lernen mit beschrifteten Daten", "Lernen ohne Hilfe", "Lernen durch Spielen", "Lernen durch Schlafen"], hu: ["Tanulás címkézett adatokkal", "Tanulás segítség nélkül", "Tanulás játékkal", "Tanulás alvás közben"], ro: ["Învățare cu date etichetate", "Învățare fără ajutor", "Învățare prin joc", "Învățare prin somn"], en: ["Learning with labeled data", "Learning without help", "Learning by playing", "Learning by sleeping"] }, correct: 0 },
     { type: "mcq", question: { de: "Was ist ein Algorithmus?", hu: "Mi az algoritmus?", ro: "Ce este un algoritm?", en: "What is an algorithm?" }, options: { de: ["Eine Schritt-für-Schritt-Anleitung", "Ein Computergehäuse", "Ein Bildschirm", "Ein Internetkabel"], hu: ["Egy lépésről lépésre követhető útmutató", "Egy számítógépház", "Egy képernyő", "Egy internetkábel"], ro: ["O instrucțiune pas cu pas", "O carcasă de calculator", "Un ecran", "Un cablu de internet"], en: ["A step-by-step instruction", "A computer case", "A screen", "An internet cable"] }, correct: 0 },

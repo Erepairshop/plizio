@@ -1,3 +1,4 @@
+import AI_K8_JSON from "./aiCurriculum8_data.json";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };

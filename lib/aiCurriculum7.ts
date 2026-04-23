@@ -1,3 +1,4 @@
+import AI_K7_JSON from "./aiCurriculum7_data.json";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -11,7 +12,7 @@ interface RawQuestion {
   correct?: number;
 }
 
-const AI_K7_DATA: Record<string, RawQuestion[]> = {
+const AI_K7_DATA: Record<string, RawQuestion[]> = { ...(AI_K7_JSON as any),
   "ai_k7_t1_1": [ // Mélyebb neural network
     { type: "mcq", question: { de: "Was ist ein 'Hidden Layer'?", hu: "Mi az a 'rejtett réteg' (hidden layer)?", ro: "Ce este un 'strat ascuns'?", en: "What is a 'hidden layer'?" }, options: { de: ["Schicht zwischen Input und Output", "Eine geheime Datei", "Der Ausschaltknopf", "Ein Backup"], hu: ["Bemenet és kimenet közötti réteg", "Egy titkos fájl", "A kikapcsoló gomb", "Egy biztonsági mentés"], ro: ["Stratul între intrare și ieșire", "Un fișier secret", "Butonul de oprire", "O copie de rezervă"], en: ["Layer between input and output", "A secret file", "The off button", "A backup"] }, correct: 0 },
     { type: "mcq", question: { de: "Was macht die Aktivierungsfunktion?", hu: "Mit csinál az aktivációs függvény?", ro: "Ce face funcția de activare?", en: "What does the activation function do?" }, options: { de: ["Bestimmt den Output eines Neurons", "Löscht Daten", "Kühlt den Prozessor", "Druckt Ergebnisse"], hu: ["Meghatározza a neuron kimenetét", "Adatokat töröl", "Hűti a processzort", "Eredményeket nyomtat"], ro: ["Determină ieșirea unui neuron", "Șterge datele", "Răcește procesorul", "Imprimă rezultatele"], en: ["Determines the output of a neuron", "Deletes data", "Cools the processor", "Prints results"] }, correct: 0 },
