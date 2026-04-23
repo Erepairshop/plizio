@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Pencil vs. computer",
+  "theme": "Story writing",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How should we sit? (21.1)",
+      "question": "What do we use to write?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "Paint",
+        "Word processor",
+        "Game",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the first thing to write?",
+      "options": [
+        "The Title",
+        "The End",
+        "Nothing",
+        "A number"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (21.2)",
+      "question": "Can we change the font?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "No",
+        "Only if it's black",
+        "Yes, how letters look",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (21.3)",
+      "question": "How do we type a big letter?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "Spacebar",
+        "Shift key",
+        "Enter",
+        "Backspace"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a password? (21.4)",
+      "question": "What is a 'Paragraph'?",
       "options": [
-        "A secret",
-        "A game",
+        "A group of sentences",
+        "A type of fruit",
         "A color",
-        "A song"
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (21.5)",
+      "question": "Can we add a picture to our story?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No",
+        "Only on paper",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What is a password? (21.6)",
+      "question": "What is 'Spell Check'?",
       "options": [
-        "A secret",
+        "A magic spell",
         "A game",
+        "A tool",
+        "Finding wrong words"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we save our story?",
+      "options": [
+        "No",
+        "Only at the end",
+        "Yes, often!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who is the 'Main Character'?",
+      "options": [
+        "The author",
+        "Who the story is about",
+        "The computer",
+        "A toy"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we write about space?",
+      "options": [
+        "No",
+        "Only about school",
+        "Yes!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Edit'?",
+      "options": [
+        "Making it better",
+        "Deleting everything",
+        "Sleeping",
+        "Running"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we print our story?",
+      "options": [
+        "No",
+        "Only if it's long",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Once upon a time'?",
+      "options": [
+        "The end",
+        "A classic start",
         "A color",
-        "A song"
+        "A sound"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (21.7)",
+      "question": "Can we use colors for text?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "No",
+        "Only black",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (21.8)",
+      "question": "What is a 'Draft'?",
       "options": [
-        "All day",
-        "30 minutes",
+        "An early version",
+        "A cold wind",
+        "A game",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we share our story?",
+      "options": [
+        "No",
+        "Only with cats",
+        "Yes, with family",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'The End'?",
+      "options": [
+        "The finish of the story",
+        "The start",
+        "A color",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is writing fun?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use emoji in stories?",
+      "options": [
         "Never",
-        "5 hours"
+        "Sometimes",
+        "Only in texts",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (21.9)",
+      "question": "What is a 'Keyboard' for?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "Drawing",
+        "Typing our words",
+        "Eating",
+        "Sleeping"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (21.10)",
+      "question": "Can we write with a friend?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "No",
+        "Only alone",
+        "Maybe",
+        "Yes, together"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Library' for?",
+      "options": [
+        "Finding more stories",
+        "Eating",
+        "Sleeping",
+        "Running"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (21.11)",
+      "question": "Can stories have magic?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (21.12)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (21.13)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (21.14)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (21.15)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (21.16)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "No",
+        "Only real things",
+        "Yes, anything!",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (21.17)",
+      "question": "What is an 'Idea'?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (21.18)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "A thought for a story",
+        "A type of food",
+        "A color",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (21.19)",
+      "question": "Can we make a book cover?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "No",
+        "Only if we are artists",
+        "Maybe",
+        "Yes, with pictures"
       ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (21.20)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (21.21)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (21.22)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (21.23)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (21.24)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (21.25)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'Writer'",
+      "answer": "Writer"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Story'",
+      "answer": "Story"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Words'",
+      "answer": "Words"
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'End'",
+      "answer": "End"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Title'",
+      "answer": "Title"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Book'",
+      "answer": "Book"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Page'",
+      "answer": "Page"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Tell'",
+      "answer": "Tell"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Idea'",
+      "answer": "Idea"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Best'",
+      "answer": "Best"
     }
   ]
 }

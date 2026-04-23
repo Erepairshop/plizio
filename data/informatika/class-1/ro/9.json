@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Pornire și oprire",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul?",
+      "options": [
+        "Apăsăm butonul Power",
+        "Îl rugăm frumos",
+        "Batem din palme",
+        "Îl scuturăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce trebuie să așteptăm după ce pornim?",
+      "options": [
+        "Să se încarce sistemul (Windows)",
+        "Să răsară soarele",
+        "Să vină pisica",
+        "Să se facă ora 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum oprim corect calculatorul?",
+      "options": [
+        "Start -> Shut down (Închidere)",
+        "Scoatem cablul din priză",
+        "Îl acoperim cu o pătură",
+        "Îl lăsăm așa până moare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce trebuie să-l oprim corect?",
+      "options": [
+        "Să nu se strice programele",
+        "Să nu se supere el",
+        "Să nu vină poliția",
+        "Să nu explodeze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem lăsa calculatorul pornit mereu?",
+      "options": [
+        "Nu, consumă curent și obosește",
+        "Da, nu are nimic",
+        "Doar dacă avem panouri solare",
+        "Doar dacă suntem bogați"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Restart'?",
+      "options": [
+        "Se oprește și pornește singur",
+        "Se șterge tot",
+        "Se face mai nou",
+        "Se schimbă culoarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Butonul de pornire are un semn?",
+      "options": [
+        "Da, un cerc cu o linie",
+        "O inimioară",
+        "O stea",
+        "O rachetă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă scoatem din priză direct, ce se întâmplă?",
+      "options": [
+        "Putem pierde ce am lucrat",
+        "Calculatorul devine mai rapid",
+        "Se curăță de praf",
+        "Nu se întâmplă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul are butonul lui de pornire?",
+      "options": [
+        "De obicei da",
+        "Nu, pornește singur mereu",
+        "Doar cele vechi",
+        "Doar cele mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Sleep mode' (Somn)?",
+      "options": [
+        "Consumă puțin curent, stă pregătit",
+        "Calculatorul doarme și sforăie",
+        "Calculatorul se închide de tot",
+        "Calculatorul se face invizibil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum știm că un calculator e pornit?",
+      "options": [
+        "Are luminițe aprinse și ecran",
+        "Ne vorbește",
+        "Se mișcă pe masă",
+        "E cald sub el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine are voie să pornească calculatorul?",
+      "options": [
+        "Noi, cu permisiunea părinților",
+        "Doar bunicii",
+        "Doar roboții",
+        "Oricine intră în casă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pornirea durează mult?",
+      "options": [
+        "Câteva secunde sau un minut",
+        "O oră",
+        "O zi întreagă",
+        "O secundă mereu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu pornește?",
+      "options": [
+        "Verificăm dacă e în priză",
+        "Îl lovim",
+        "Plângem",
+        "Îl aruncăm la gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Laptopul are baterie?",
+      "options": [
+        "Da, poate merge fără priză un timp",
+        "Nu, are nevoie de cablu mereu",
+        "Are baterii de ceas",
+        "Merge cu soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește ecranul care apare la început?",
+      "options": [
+        "Desktop sau Ecran de logare",
+        "Poza de start",
+        "Jocul de început",
+        "Filmul de pornire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea parolă la pornire?",
+      "options": [
+        "Da, pentru siguranță",
+        "Nu, e interzis",
+        "Doar dacă suntem spioni",
+        "Doar dacă avem 10 ani"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ecranul se stinge singur dacă nu-l folosim?",
+      "options": [
+        "Da, pentru a economisi curent",
+        "Nu, stă aprins mereu",
+        "Doar dacă se supără",
+        "Doar dacă e noapte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem înainte să oprim calculatorul?",
+      "options": [
+        "Salvăm ce am lucrat",
+        "Mâncăm o prăjitură",
+        "Ne spălăm pe mâini",
+        "Închidem ochii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unitatea centrală are buton de Power?",
+      "options": [
+        "Da, cel mai mare de obicei",
+        "Nu, e pe mouse",
+        "E sub masă",
+        "E în ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa calculatorul să se oprească singur?",
+      "options": [
+        "Da, există setări",
+        "Nu, e imposibil",
+        "Doar magicienii pot",
+        "Doar dacă îi spunem la ureche"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să-l oprim când plecăm de acasă?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă plecăm la munte",
+        "Doar dacă avem câine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cablul de alimentare este periculos?",
+      "options": [
+        "Da, nu ne jucăm cu prizele!",
+        "Nu, e o jucărie",
+        "E ca o sfoară",
+        "E comestibil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă se ia curentul, ce se întâmplă?",
+      "options": [
+        "Se stinge brusc",
+        "Rămâne aprins prin magie",
+        "Cântă o melodie",
+        "Se face verde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești gata să înveți mai multe?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt obosit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: buton",
+      "answer": "buton"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: priza",
+      "answer": "priza"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cablu",
+      "answer": "cablu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: astept",
+      "answer": "astept"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: inchid",
+      "answer": "inchid"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: deschid",
+      "answer": "deschid"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: lumina",
+      "answer": "lumina"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
+    }
+  ]
+}

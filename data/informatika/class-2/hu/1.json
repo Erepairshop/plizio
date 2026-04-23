@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Ikonok",
+  "theme": "Ikonok és asztal",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 1)",
+      "question": "Melyik az asztal a gépen?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 2)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 3)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "A nyitóképernyő",
+        "Egy bútor",
+        "A monitor hátulja",
+        "A billentyűzet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 4)",
+      "question": "Mi az ikon?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 5)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 6)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Egy kis kép",
+        "Egy hang",
+        "Egy kábel",
+        "Egy gomb"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 7)",
+      "question": "Hol találod a Lomtárat?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 8)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 9)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Az asztalon",
+        "A konyhában",
+        "A táskádban",
+        "A falon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 10)",
+      "question": "Hogyan nyitunk meg egy ikont?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 11)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 12)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Dupla kattintással",
+        "Ránézéssel",
+        "Megütéssel",
+        "Kikapcsolással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 13)",
+      "question": "Melyik gomb nyitja a menüt?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 14)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 15)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Start gomb",
+        "Esc gomb",
+        "Space",
+        "Enter"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 16)",
+      "question": "Mire jó a háttérkép?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 17)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 18)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Díszíti az asztalt",
+        "Ettől gyorsabb a gép",
+        "Ezzel gépelünk",
+        "Ezt esszük meg"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 19)",
+      "question": "Mit tesszük a mappába?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 20)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 21)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Fájlokat",
+        "Vizet",
+        "Almát",
+        "Cipőt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 22)",
+      "question": "Hogyan tüntetünk el egy ablakot?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 23)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 24)",
-      "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "A piros X-szel",
+        "Kikapcsoljuk a lámpát",
+        "Letakarjuk",
+        "Megfújjuk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Ikonok? (Kérdés 25)",
+      "question": "Mi a tálca?",
       "options": [
-        "A opció: Ikonok",
-        "B opció: Ikonok",
-        "C opció: Ikonok"
+        "Az alsó sáv",
+        "Egy tányér",
+        "A monitor teteje",
+        "A székünk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik az óra helye?",
+      "options": [
+        "A tálca jobb szélén",
+        "Az egéren",
+        "A billentyűzeten",
+        "A falon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan rendezzük az ikonokat?",
+      "options": [
+        "Egérrel húzzuk",
+        "Beszélünk hozzájuk",
+        "Megrázzuk a monitort",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a böngészőé?",
+      "options": [
+        "Ami az internetet nyitja",
+        "Ami a zenét játssza",
+        "Ami a rajzot menti",
+        "Ami a lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha törlünk egy ikont?",
+      "options": [
+        "Belekerül a lomtárba",
+        "Kigyullad a gép",
+        "Eltűnik örökre",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kurzor?",
+      "options": [
+        "A kis nyíl",
+        "Egy kerék",
+        "Egy doboz",
+        "Egy kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal frissítünk?",
+      "options": [
+        "F5",
+        "F1",
+        "Esc",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan némítjuk le a gépet?",
+      "options": [
+        "A hangszóró ikonnál",
+        "A billentyűzet kihúzásával",
+        "Letakarással",
+        "Kiabálással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az ablak?",
+      "options": [
+        "Egy program nézete",
+        "Egy üveglap a falon",
+        "Egy játék neve",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a minimalizálás?",
+      "options": [
+        "Lekicsinyítés a tálcára",
+        "Törlés",
+        "Nagyítás",
+        "Kikapcsolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik sarokban van a bezáró gomb?",
+      "options": [
+        "Jobb felső",
+        "Bal alsó",
+        "Középen",
+        "Sehol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a kereső sáv?",
+      "options": [
+        "Programok keresésére",
+        "Rajzolásra",
+        "Zenehallgatásra",
+        "Alvásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a felbontás?",
+      "options": [
+        "A kép élessége",
+        "A gép színe",
+        "Az egér sebessége",
+        "A billentyűk száma"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a billentyűzeten?",
+      "options": [
+        "Enter",
+        "Monitor",
+        "Egér",
+        "Asztal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan váltunk ablakot?",
+      "options": [
+        "Kattintunk a tálcán",
+        "Megfordítjuk the gépet",
+        "Becsukjuk a szemünk",
+        "Kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az operációs rendszer?",
+      "options": [
+        "A gép lelke (pl. Windows)",
+        "Egy játék",
+        "A vírus",
+        "A kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk az asztalon?",
+      "options": [
+        "Hogy rend legyen",
+        "Hogy sok kép legyen",
+        "Hogy ne legyen semmi",
+        "Hogy legyen piszkos"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 1"
+      "question": "Gépeld be: asztal",
+      "answer": "asztal"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 2"
+      "question": "Gépeld be: ikon",
+      "answer": "ikon"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 3"
+      "question": "Gépeld be: lomtár",
+      "answer": "lomtár"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 4"
+      "question": "Gépeld be: tálca",
+      "answer": "tálca"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 5"
+      "question": "Gépeld be: óra",
+      "answer": "óra"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 6"
+      "question": "Gépeld be: menü",
+      "answer": "menü"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 7"
+      "question": "Gépeld be: ablak",
+      "answer": "ablak"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 8"
+      "question": "Gépeld be: mappa",
+      "answer": "mappa"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 9"
+      "question": "Gépeld be: háttér",
+      "answer": "háttér"
     },
     {
       "type": "typing",
-      "text": "Ikonok nagyon jó 10"
+      "question": "Gépeld be: sarok",
+      "answer": "sarok"
     }
   ]
 }

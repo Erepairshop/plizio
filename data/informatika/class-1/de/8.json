@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Lautstärke",
+  "theme": "Buchstaben tippen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
+      "question": "Was macht man beim Tippen?",
       "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lautstärke?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Lautstärke?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Lautstärke?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lautstärke?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
+        "Buchstaben schreiben",
+        "Bilder malen",
+        "Musik hören",
+        "Essen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Lautstärke?",
+      "question": "Wo sind die Buchstaben?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Auf der Tastatur",
+        "An der Maus",
+        "Im Kabel",
+        "In der Box"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
+      "question": "Wie schreibt man ein großes 'A'?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lautstärke?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Lautstärke?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lautstärke?",
-      "options": [
-        "Müde.",
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lautstärke?",
-      "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lautstärke?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Lautstärke?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Shift + A",
+        "Nur A",
+        "Maus klicken",
+        "Pusten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Lautstärke?",
+      "question": "Was ist die Leertaste?",
       "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lautstärke?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Langweilig.",
-        "Nein."
+        "Abstand zwischen Wörtern",
+        "Löschtaste",
+        "Enter-Taste",
+        "Zahlentaste"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Lautstärke?",
+      "question": "Wozu ist die Backspace-Taste?",
       "options": [
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lautstärke?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Buchstaben löschen",
+        "Buchstaben malen",
+        "Seite drucken",
+        "PC ausschalten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Lautstärke?",
+      "question": "Wie viele Finger benutzt man?",
       "options": [
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lautstärke?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lautstärke?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum."
+        "Am besten alle zehn",
+        "Nur einen",
+        "Nur zwei",
+        "Keine"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Lautstärke?",
+      "question": "Wo ist das 'Q'?",
       "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Oben links",
+        "Unten rechts",
+        "In der Mitte",
+        "An der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Grundstellung?",
+      "options": [
+        "Finger auf die mittlere Reihe",
+        "Finger in die Luft",
+        "Hände in die Taschen",
+        "Füße auf den Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Zahlen auf der Tastatur?",
+      "options": [
+        "Ja, oben",
+        "Nein",
+        "Nur im Keller",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Cursor?",
+      "options": [
+        "Der blinkende Strich",
+        "Ein kleiner Hund",
+        "Ein lauter Ton",
+        "Ein bunter Punkt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man ein '!'?",
+      "options": [
+        "Shift + 1",
+        "Shift + 2",
+        "Nur 1",
+        "Nur 2"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man schnell tippen lernen?",
+      "options": [
+        "Ja, mit Übung",
+        "Nein, nie",
+        "Nur im Schlaf",
+        "Nur mit Zauberei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Umlaute?",
+      "options": [
+        "Ä, Ö, Ü",
+        "A, B, C",
+        "1, 2, 3",
+        "!, ?, ."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist die Enter-Taste?",
+      "options": [
+        "Rechts in der Mitte",
+        "Oben links",
+        "Ganz unten",
+        "An der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Feststelltaste?",
+      "options": [
+        "Nur Großbuchstaben",
+        "Alles löschen",
+        "Computer sperren",
+        "Musik an"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tippfehler?",
+      "options": [
+        "Falscher Buchstabe",
+        "Ein kaputter PC",
+        "Ein echtes Tier",
+        "Ein lauter Knall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man auf die Tasten hauen?",
+      "options": [
+        "Nein, sanft drücken",
+        "Ja, fest",
+        "Nur mit dem Hammer",
+        "Nur mit dem Fuß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es eine Komma-Taste?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur am Tablet",
+        "Nur am Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Tab-Taste?",
+      "options": [
+        "Großer Sprung",
+        "Kaffee holen",
+        "Licht aus",
+        "Pause"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind die Tasten so verteilt?",
+      "options": [
+        "Damit man gut tippen kann",
+        "Zufall",
+        "Damit es schwer ist",
+        "Wegen den Farben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit 10 Fingern blind tippen?",
+      "options": [
+        "Ja, nach viel Übung",
+        "Nein",
+        "Nur nachts",
+        "Nur im Kino"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Alt-Taste?",
+      "options": [
+        "Sonderfunktionen",
+        "Alte Sachen löschen",
+        "Opa rufen",
+        "PC beenden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist das Leerzeichen?",
+      "options": [
+        "Die längste Taste",
+        "Die kleinste Taste",
+        "Oben rechts",
+        "Unten links"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Entfernen-Taste?",
+      "options": [
+        "Löscht nach rechts",
+        "Löscht nach links",
+        "Malt ein Bild",
+        "Druckt ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Tippen Spaß?",
+      "options": [
+        "Ja, wenn man es kann",
+        "Nein",
+        "Nur im Dunkeln",
+        "Nur in der Schule"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Wort",
+      "answer": "Wort"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Satz",
+      "answer": "Satz"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: ABC",
+      "answer": "ABC"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Name",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Hallo",
+      "answer": "Hallo"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Text",
+      "answer": "Text"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Lesen",
+      "answer": "Lesen"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Üben",
+      "answer": "Üben"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Schule",
+      "answer": "Schule"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Buchstabe",
+      "answer": "Buchstabe"
     }
   ]
 }

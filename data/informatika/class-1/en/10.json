@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Watch a video",
+  "theme": "Internet basics",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How long should we play? (10.1)",
+      "question": "What is the Internet?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "A type of food",
+        "A toy",
+        "A big network",
+        "A book"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to see websites?",
+      "options": [
+        "Pencil",
+        "Web browser",
+        "Hammer",
+        "Fridge"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (10.2)",
+      "question": "What is a 'Website'?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "A place on the internet",
+        "A type of spider",
+        "A shoe",
+        "A hat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (10.3)",
+      "question": "Can we learn things on the internet?",
       "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (10.4)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (10.5)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (10.6)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (10.7)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (10.8)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (10.9)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (10.10)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (10.11)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (10.12)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (10.13)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (10.14)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (10.15)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (10.16)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (10.17)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (10.18)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (10.19)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (10.20)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (10.21)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (10.22)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (10.23)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (10.24)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (10.25)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Only magic",
+        "Maybe",
+        "Yes, lots!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Wifi'?",
+      "options": [
+        "A dog's name",
+        "Wireless internet",
+        "A type of cake",
+        "A sound"
       ],
       "correct": 1
     },
     {
-      "type": "typing",
-      "text": "video"
+      "type": "mcq",
+      "question": "Do we need internet for YouTube?",
+      "options": [
+        "No",
+        "Only for some",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Link'?",
+      "options": [
+        "A chain",
+        "A shortcut to a page",
+        "A type of fruit",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we talk to people on the internet?",
+      "options": [
+        "No",
+        "Yes, safely",
+        "Only to robots",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet everywhere?",
+      "options": [
+        "Almost everywhere",
+        "Only in space",
+        "Only in my room",
+        "No"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'WWW' stand for?",
+      "options": [
+        "Who What Where",
+        "Walk Wait Win",
+        "No idea",
+        "World Wide Web"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we find pictures on the internet?",
+      "options": [
+        "No",
+        "Yes",
+        "Only drawings",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet a library?",
+      "options": [
+        "No",
+        "A bit like a big one",
+        "Only for books",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we buy toys on the internet?",
+      "options": [
+        "Adults can",
+        "Babies can",
+        "Cats can",
+        "Dogs can"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Browser'?",
+      "options": [
+        "A type of bird",
+        "Chrome or Safari",
+        "A car",
+        "A tool"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we play games online?",
+      "options": [
+        "No",
+        "Only on Sundays",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we ask before using the internet?",
+      "options": [
+        "Yes, always",
+        "No",
+        "Only if it's late",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Email'?",
+      "options": [
+        "A digital letter",
+        "A loud noise",
+        "A game",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet fast or slow?",
+      "options": [
+        "Always fast",
+        "Can be both",
+        "Always slow",
+        "Purple"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can the internet be dangerous?",
+      "options": [
+        "No, never",
+        "Only for adults",
+        "Yes, stay safe!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Searching'?",
+      "options": [
+        "Hiding",
+        "Running",
+        "Looking for things",
+        "Sleeping"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to search?",
+      "options": [
+        "Search engine",
+        "A map",
+        "A flashlight",
+        "A compass"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we watch cartoons online?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only on TV",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet made of wires?",
+      "options": [
+        "Many parts are",
+        "No, it's magic",
+        "Yes, only wires",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we find games on the internet?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for work",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Google' a search engine?",
+      "options": [
+        "No",
+        "It's a number",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Web'",
+      "answer": "Web"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Link'",
+      "answer": "Link"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Surf'",
+      "answer": "Surf"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Online'",
+      "answer": "Online"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Site'",
+      "answer": "Site"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Wifi'",
+      "answer": "Wifi"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Net'",
+      "answer": "Net"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Find'",
+      "answer": "Find"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Fast'",
+      "answer": "Fast"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Safe'",
+      "answer": "Safe"
     }
   ]
 }

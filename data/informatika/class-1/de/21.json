@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Stift vs. Computer",
+  "theme": "Geschichten schreiben",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "question": "Wo schreibt man Geschichten am PC?",
       "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
-      "options": [
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Stift vs. Computer?",
-      "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Stift vs. Computer?",
-      "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Stift vs. Computer?",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Stift vs. Computer?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Stift vs. Computer?",
-      "options": [
-        "Langweilig.",
-        "Müde.",
-        "Nein.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Stift vs. Computer?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
-      "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt.",
-        "Müde."
+        "In einem Textprogramm",
+        "In einem Spiel",
+        "In einem Video",
+        "In einer Box"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "question": "Was braucht eine Geschichte?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Stift vs. Computer?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Einen Anfang und ein Ende",
+        "Nur ein Bild",
+        "Nur eine Zahl",
+        "Gar nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "question": "Was ist ein Held?",
       "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Die Hauptperson",
+        "Ein Stein",
+        "Ein Baum",
+        "Ein Haus"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "question": "Kann man Bilder zur Geschichte einfügen?",
       "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde."
+        "Ja, das macht sie bunter",
+        "Nein, verboten",
+        "Nur wenn es regnet",
+        "Nur nachts"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "question": "Was ist eine Überschrift?",
       "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
+        "Der Name der Geschichte",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Müll"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Stift vs. Computer?",
+      "question": "Wozu ist die Tastatur da?",
       "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer."
+        "Zum Buchstaben tippen",
+        "Zum Malen",
+        "Zum Musik hören",
+        "Zum Schlafen"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "question": "Was ist ein Abenteuer?",
       "options": [
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt."
+        "Eine spannende Geschichte",
+        "Ein Mittagsschlaf",
+        "Ein langweiliges Buch",
+        "Ein Teller Suppe"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "question": "Kann man Schriftfarben ändern?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund."
+        "Ja, im Programm",
+        "Nein, immer schwarz",
+        "Nur mit dem Stift",
+        "Nur am Tablet"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Stift vs. Computer?",
+      "question": "Was ist eine Seite?",
       "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
+        "Ein Teil der Geschichte",
+        "Ein bunter Punkt",
+        "Ein lauter Ton",
+        "Ein schwerer Stein"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "question": "Kann der PC beim Schreiben helfen?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
+        "Ja, er zeigt Fehler",
+        "Nein, er stört nur",
+        "Nur wenn er lacht",
+        "Nur am Montag"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Stift vs. Computer?",
+      "question": "Was ist eine Fantasie-Geschichte?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
+        "Etwas Ausgedachtes",
+        "Ein echtes Foto",
+        "Eine Matheaufgabe",
+        "Ein Einkaufszettel"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "question": "Was bedeutet 'Drucken'?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
+        "Die Geschichte aufs Papier bringen",
+        "Die Geschichte löschen",
+        "Die Geschichte malen",
+        "Die Geschichte singen"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "question": "Was ist ein Märchen?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Geschichte mit Zauberei",
+        "Ein Nachrichten-Film",
+        "Ein Sport-Spiel",
+        "Ein Kochbuch"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Tastatur-Taste?",
+      "options": [
+        "Knopf für einen Buchstaben",
+        "Ein Rad",
+        "Ein Licht",
+        "Ein Keks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Geschichten teilen?",
+      "options": [
+        "Ja, mit Freunden und Familie",
+        "Nein, streng geheim",
+        "Nur mit dem Hund",
+        "Nur im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Satz?",
+      "options": [
+        "Mehrere Wörter zusammen",
+        "Ein einzelnes 'A'",
+        "Ein bunter Klecks",
+        "Ein lauter Knall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Autor?",
+      "options": [
+        "Schreibt die Geschichte",
+        "Malt nur Bilder",
+        "Macht nur Musik",
+        "Schläft den ganzen Tag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Wort?",
+      "options": [
+        "Mehrere Buchstaben zusammen",
+        "Ein Strich",
+        "Ein Punkt",
+        "Ein Kreis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Geschichten von anderen kopieren?",
+      "options": [
+        "Nein, lieber eigene Ideen",
+        "Ja, immer",
+        "Nur wenn sie kurz sind",
+        "Nur wenn sie bunt sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Sprechblase?",
+      "options": [
+        "Hier steht was jemand sagt",
+        "Eine echte Seifenblase",
+        "Ein bunter Ball",
+        "Ein Hut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Schriftgröße ändern?",
+      "options": [
+        "Ja, groß oder klein",
+        "Nein, immer gleich",
+        "Nur mit der Lupe",
+        "Nur mit der Brille"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Bildergeschichte?",
+      "options": [
+        "Geschichte mit vielen Bildern",
+        "Nur Text",
+        "Nur Musik",
+        "Nur Stille"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Entwurf?",
+      "options": [
+        "Eine erste Idee",
+        "Ein fertiges Buch",
+        "Ein kaputter PC",
+        "Ein Müllhaufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Speichern'?",
+      "options": [
+        "Die Geschichte behalten",
+        "Die Geschichte wegwerfen",
+        "Die Geschichte essen",
+        "Die Geschichte vergessen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Geschichten schreiben Spaß?",
+      "options": [
+        "Ja, sehr viel",
+        "Nein, zu anstrengend",
+        "Nur Erwachsenen",
+        "Nur nachts"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Text",
+      "answer": "Text"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Idee",
+      "answer": "Idee"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Buch",
+      "answer": "Buch"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Seite",
+      "answer": "Seite"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Ende",
+      "answer": "Ende"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Held",
+      "answer": "Held"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Titel",
+      "answer": "Titel"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Schrift",
+      "answer": "Schrift"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Inhalt",
+      "answer": "Inhalt"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Plan",
+      "answer": "Plan"
     }
   ]
 }

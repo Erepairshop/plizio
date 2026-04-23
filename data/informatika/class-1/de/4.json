@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Die Tastatur",
+  "theme": "Icons",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Die Tastatur?",
+      "question": "Was ist ein Icon?",
       "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Ein kleines Bildchen",
+        "Ein großer Hund",
+        "Ein lauter Ton",
+        "Ein schwerer Stein"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
+      "question": "Was macht man mit Icons?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Tastatur?",
-      "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
-      "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Tastatur?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Anklicken",
+        "Essen",
+        "Waschen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Die Tastatur?",
+      "question": "Wo findet man Icons?",
       "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Tastatur?",
-      "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Tastatur?",
-      "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ein Hund."
+        "Auf dem Bildschirm",
+        "Im Kühlschrank",
+        "Unter dem Bett",
+        "Im Wald"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Die Tastatur?",
+      "question": "Was zeigt das Mülleimer-Icon?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Tastatur?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze."
+        "Gelöschte Dinge",
+        "Frisches Essen",
+        "Neue Spiele",
+        "Bunte Farben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Die Tastatur?",
+      "question": "Was zeigt ein Haus-Icon oft?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Startseite",
+        "Garten",
+        "Küche",
+        "Schlafzimmer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
+      "question": "Sind Icons bunt?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Ja, oft",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur bei Regen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Die Tastatur?",
+      "question": "Was bedeutet ein Lupe-Icon?",
       "options": [
-        "Der Hund.",
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Die Tastatur?",
-      "options": [
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Tastatur?",
-      "options": [
-        "Nein.",
-        "Müde.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Tastatur?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Tastatur?",
-      "options": [
-        "Langweilig.",
-        "Müde.",
-        "Nein.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Die Tastatur?",
-      "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Tastatur?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Tastatur?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Suchen",
+        "Schlafen",
+        "Essen",
+        "Malen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Die Tastatur?",
+      "question": "Was bedeutet ein Zahnrad-Icon?",
       "options": [
-        "Langweilig.",
-        "Nein.",
-        "Ja!",
-        "Müde."
+        "Einstellungen",
+        "Fahrrad",
+        "Auto",
+        "Uhr"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Die Tastatur?",
+      "question": "Was zeigt ein Brief-Icon?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht."
+        "E-Mails",
+        "Essen",
+        "Spielzeug",
+        "Blumen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Icons verschieben?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Kleber",
+        "Nur mit der Schere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein App-Icon?",
+      "options": [
+        "Startet ein Programm",
+        "Ist zum Essen",
+        "Ist ein Haustier",
+        "Ist eine Decke"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein X-Icon oben rechts?",
+      "options": [
+        "Schließen",
+        "Starten",
+        "Malen",
+        "Speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Minus-Icon oben rechts?",
+      "options": [
+        "Verkleinern",
+        "Vergrößern",
+        "Löschen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Kamera-Icon?",
+      "options": [
+        "Foto-Programm",
+        "Musik-Programm",
+        "Schreib-Programm",
+        "Mal-Programm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Lautsprecher-Icon?",
+      "options": [
+        "Ton",
+        "Licht",
+        "Farbe",
+        "Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eigene Icons machen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur aus Knete",
+        "Nur aus Holz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Desktop-Icon?",
+      "options": [
+        "Auf dem Hintergrund",
+        "Im Keller",
+        "In der Tasche",
+        "Unter der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Pfeil-Icon?",
+      "options": [
+        "Weiter oder Zurück",
+        "Oben oder Unten",
+        "Essen oder Trinken",
+        "Schlafen oder Wach"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Fragezeichen-Icon?",
+      "options": [
+        "Hilfe",
+        "Essen",
+        "Musik",
+        "Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Icons nützlich?",
+      "options": [
+        "Ja, man findet alles schnell",
+        "Nein, sie stören",
+        "Nur zum Malen",
+        "Nur für Babys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Herz-Icon?",
+      "options": [
+        "Favoriten",
+        "Abfall",
+        "Fehler",
+        "Pause"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Drucker-Icon?",
+      "options": [
+        "Drucken",
+        "Scannen",
+        "Faxen",
+        "Kopieren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Wolken-Icon?",
+      "options": [
+        "Online-Speicher",
+        "Wetter",
+        "Regen",
+        "Sonne"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Plus-Icon?",
+      "options": [
+        "Neu hinzufügen",
+        "Löschen",
+        "Pause",
+        "Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was zeigt ein Stern-Icon?",
+      "options": [
+        "Wichtig",
+        "Alt",
+        "Kaputt",
+        "Leer"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Icon",
+      "answer": "Icon"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: App",
+      "answer": "App"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Symbol",
+      "answer": "Symbol"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Suchen",
+      "answer": "Suchen"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Finden",
+      "answer": "Finden"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Wählen",
+      "answer": "Wählen"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Programm",
+      "answer": "Programm"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Bildchen",
+      "answer": "Bildchen"
     }
   ]
 }

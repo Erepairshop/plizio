@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Monitor",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is another name for the monitor?",
+      "options": [
+        "Box",
+        "Screen",
+        "Mirror",
+        "Window"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we see on the monitor?",
+      "options": [
+        "Pictures and words",
+        "Food",
+        "Our reflection",
+        "The future"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the monitor an output device?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only if it's big"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we touch a touch-screen monitor?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with gloves",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if we turn off the monitor?",
+      "options": [
+        "The computer explodes",
+        "Music starts playing",
+        "The screen goes black",
+        "It grows legs"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "We should stay ____ away from the monitor.",
+      "options": [
+        "Very close",
+        "In another room",
+        "Under the desk",
+        "A safe distance"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Does a monitor need power?",
+      "options": [
+        "Yes",
+        "No",
+        "Only when it's sunny",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a monitor show colors?",
+      "options": [
+        "No",
+        "Yes",
+        "Only black and white",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A monitor looks like a...",
+      "options": [
+        "TV",
+        "Radio",
+        "Toaster",
+        "Fridge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can we watch on a monitor?",
+      "options": [
+        "The grass grow",
+        "Cartoons",
+        "Nothing",
+        "A wall"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which part shows the 'Start' menu?",
+      "options": [
+        "Mouse",
+        "Monitor",
+        "Keyboard",
+        "Printer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a laptop screen a monitor?",
+      "options": [
+        "No",
+        "Only when open",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we adjust the brightness of a monitor?",
+      "options": [
+        "Yes",
+        "No",
+        "Only at night",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to clean a monitor?",
+      "options": [
+        "Water bucket",
+        "Sandpaper",
+        "Soft cloth",
+        "Soap"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is a monitor for listening?",
+      "options": [
+        "No",
+        "Yes",
+        "Sometimes",
+        "Only for music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do we see our cursor?",
+      "options": [
+        "On the floor",
+        "On the monitor",
+        "On the keyboard",
+        "In our pocket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A big monitor is better for...",
+      "options": [
+        "Watching movies",
+        "Hiding behind",
+        "Keeping the room warm",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do monitors have buttons?",
+      "options": [
+        "Never",
+        "Usually yes",
+        "Only on top",
+        "Only on the back"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can a monitor show photos?",
+      "options": [
+        "Yes",
+        "No",
+        "Only old ones",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use a monitor?",
+      "options": [
+        "To hear music",
+        "To type",
+        "To see what we are doing",
+        "To print"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is the monitor part of the hardware?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Only if it's metal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw on a screen with a special pen?",
+      "options": [
+        "No",
+        "Only on paper",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the monitor very heavy?",
+      "options": [
+        "Sometimes",
+        "Never",
+        "Always",
+        "No"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we hit the monitor?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's slow",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A monitor is a...",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "CPU",
+        "Screen"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Screen'",
+      "answer": "Screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Glass'",
+      "answer": "Glass"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Bright'",
+      "answer": "Bright"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Color'",
+      "answer": "Color"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'View'",
+      "answer": "View"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Light'",
+      "answer": "Light"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Watch'",
+      "answer": "Watch"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Big'",
+      "answer": "Big"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Show'",
+      "answer": "Show"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Thin'",
+      "answer": "Thin"
+    }
+  ]
+}

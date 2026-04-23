@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "What is a computer?",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a computer used for?",
+      "options": [
+        "Eating lunch",
+        "Playing and learning",
+        "Brushing teeth",
+        "Sleeping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a computer?",
+      "options": [
+        "Apple fruit",
+        "Teddy bear",
+        "Laptop",
+        "Book"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A computer is a...",
+      "options": [
+        "Machine",
+        "Animal",
+        "Plant",
+        "Toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer help us draw?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only on Sundays",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Which part is like the computer's brain?",
+      "options": [
+        "Mouse",
+        "CPU",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a smartphone a small computer?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to see pictures on a computer?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Screen",
+        "Printer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer sing a song?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if it's happy",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Computers need ____ to work.",
+      "options": [
+        "Juice",
+        "Sandwiches",
+        "Water",
+        "Electricity"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you find a computer?",
+      "options": [
+        "School",
+        "Inside a cloud",
+        "Under the sea",
+        "On a tree"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a tablet a computer?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for grown-ups",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What can we do on a computer?",
+      "options": [
+        "Fly to the moon",
+        "Play games",
+        "Swim in the ocean",
+        "Cook pasta"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a computer?",
+      "options": [
+        "A desktop",
+        "A laptop",
+        "A banana",
+        "A tablet"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can you watch a movie on a computer?",
+      "options": [
+        "No",
+        "Only on birthdays",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type words?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a computer alive?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only at night"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can computers help us do math?",
+      "options": [
+        "Yes",
+        "No",
+        "Only hard math",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the big box of a computer called?",
+      "options": [
+        "Lunch box",
+        "Toolbox",
+        "System unit",
+        "Toy box"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a portable computer?",
+      "options": [
+        "Fridge",
+        "Laptop",
+        "TV",
+        "Oven"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer remember things?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for a minute",
+        "Sometimes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Do computers have feelings?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only when they crash"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you send an email with a computer?",
+      "options": [
+        "No",
+        "Only to Santa",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is a computer a tool?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for teachers",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we listen to music on a computer?",
+      "options": [
+        "No",
+        "Yes",
+        "Only loud music",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who uses computers?",
+      "options": [
+        "Only cats",
+        "Everyone",
+        "Only dogs",
+        "Only robots"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Computer'",
+      "answer": "Computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Machine'",
+      "answer": "Machine"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Brain'",
+      "answer": "Brain"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Tool'",
+      "answer": "Tool"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Work'",
+      "answer": "Work"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'PC'",
+      "answer": "PC"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'App'",
+      "answer": "App"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Bot'",
+      "answer": "Bot"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Code'",
+      "answer": "Code"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Link'",
+      "answer": "Link"
+    }
+  ]
+}

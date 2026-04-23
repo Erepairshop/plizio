@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Jobb kattintás",
+  "theme": "Paint rajzolás",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 1)",
+      "question": "Mire való a Paint program?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 2)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 3)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Rajzolásra és képszerkesztésre",
+        "Írásra",
+        "Zenehallgatásra",
+        "Internetezésre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 4)",
+      "question": "Melyik eszközzel rajzolunk szabadkézzel?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 5)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 6)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Ecset vagy Ceruza",
+        "Radír",
+        "Vödör",
+        "Szöveg"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 7)",
+      "question": "Melyik eszközzel töltünk ki egy formát színnel?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 8)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 9)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Kiöntő vödör",
+        "Ceruza",
+        "Radír",
+        "Nagyító"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 10)",
+      "question": "Hogyan javítjuk ki a hibát?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 11)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 12)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Radírral vagy visszavonással",
+        "Kikapcsoljuk a gépet",
+        "Átfestjük fehérre",
+        "Sírva fakadunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 13)",
+      "question": "Melyik gombbal rajzolunk kört?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 14)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 15)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Ellipszis forma",
+        "Téglalap forma",
+        "Vonal",
+        "Csillag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 16)",
+      "question": "Hogyan választunk színt?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 17)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 18)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Rákattintunk a színpalettán",
+        "Leírjuk a nevét",
+        "Megnyaljuk az egeret",
+        "Várunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 19)",
+      "question": "Melyik eszközzel írunk szöveget a képbe?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 20)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 21)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Az 'A' betűs gombbal",
+        "Az ecsettel",
+        "A ceruzával",
+        "A radírral"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 22)",
+      "question": "Mit csinál a nagyító?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 23)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 24)",
-      "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "Közelebb hozza a rajz részleteit",
+        "Nagyobb lesz tőle a monitor",
+        "Kilyukasztja a papírt",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Jobb kattintás? (Kérdés 25)",
+      "question": "Hogyan rajzolunk egyenes vonalat?",
       "options": [
-        "A opció: Jobb kattintás",
-        "B opció: Jobb kattintás",
-        "C opció: Jobb kattintás"
+        "A vonal eszközzel és a Shift nyomásával",
+        "Szabadkézzel",
+        "Az egér görgetésével",
+        "Behunyt szemmel"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Kijelölés' eszköz?",
+      "options": [
+        "Egy rész kivágására vagy mozgatására",
+        "Színezésre",
+        "Törlésre",
+        "Mentésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Vászon'?",
+      "options": [
+        "A fehér terület, amire rajzolunk",
+        "A gép hátulja",
+        "A billentyűzet",
+        "Az egér padja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal mentjük el the rajzot?",
+      "options": [
+        "Fájl -> Mentés",
+        "Kilépés",
+        "Jobb klikk",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz vastagabb az ecset?",
+      "options": [
+        "A méret (vonalvastagság) beállításnál",
+        "Erősebben nyomjuk az egeret",
+        "Ráfújunk",
+        "Sötétebb színt választunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközzel lehet szabályos négyzetet rajzolni?",
+      "options": [
+        "Téglalap eszköz + Shift",
+        "Ceruza",
+        "Vödör",
+        "Radír"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e fényképet megnyitni Paintben?",
+      "options": [
+        "Igen, a Megnyitás menüvel",
+        "Nem, csak rajzot",
+        "Csak ha mi készítettük",
+        "Csak fekete-fehéret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Színválasztó' (pipetta)?",
+      "options": [
+        "Lemásol egy színt a rajzról",
+        "Megméri a hőmérsékletet",
+        "Kitörli a színt",
+        "Zenél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik formát nem találjuk meg alapból?",
+      "options": [
+        "Zsiráf",
+        "Csillag",
+        "Szív",
+        "Nyíl"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítünk új lapot?",
+      "options": [
+        "Fájl -> Új",
+        "Letöröljük the régit",
+        "Kikapcsoljuk the gépet",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Pixel'?",
+      "options": [
+        "A kép legkisebb pontja",
+        "Egy játék neve",
+        "A billentyűzet gombja",
+        "Egy állat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik billentyű segít szabályos formákat rajzolni?",
+      "options": [
+        "Shift",
+        "Enter",
+        "Space",
+        "Alt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a spray (szórófej)?",
+      "options": [
+        "Pöttyözve fest",
+        "Vizet spriccel",
+        "Kitörli the képet",
+        "Kikapcsolja the Paintet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan forgatunk el egy képet?",
+      "options": [
+        "A Forgatás menüponttal",
+        "Megfordítjuk the monitort",
+        "Fejre állunk",
+        "Körbe forgatjuk the egeret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e saját színt keverni?",
+      "options": [
+        "Igen, a Színek szerkesztése gombbal",
+        "Nem, csak ami ott van",
+        "Csak ha festők vagyunk",
+        "Csak ceruzával"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztésű fájlba ment a Paint?",
+      "options": [
+        "Általában .png vagy .jpg",
+        "Csak .txt",
+        "Csak .mp3",
+        "Csak .exe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha 'kiömlik' a festék a vödörből?",
+      "options": [
+        "Befesti az egész lapot, ha nincs bezárva a vonal",
+        "Tönkremegy the gép",
+        "Vizes lesz az asztal",
+        "Semmi"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 1"
+      "question": "Gépeld be: fest",
+      "answer": "fest"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 2"
+      "question": "Gépeld be: rajz",
+      "answer": "rajz"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 3"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 4"
+      "question": "Gépeld be: ecset",
+      "answer": "ecset"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 5"
+      "question": "Gépeld be: vonal",
+      "answer": "vonal"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 6"
+      "question": "Gépeld be: kör",
+      "answer": "kör"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 7"
+      "question": "Gépeld be: négyzet",
+      "answer": "négyzet"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 8"
+      "question": "Gépeld be: radír",
+      "answer": "radír"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 9"
+      "question": "Gépeld be: festék",
+      "answer": "festék"
     },
     {
       "type": "typing",
-      "text": "Jobb kattintás nagyon jó 10"
+      "question": "Gépeld be: vászon",
+      "answer": "vászon"
     }
   ]
 }

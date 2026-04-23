@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Ce este calculatorul?",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator?",
+      "options": [
+        "O mașină inteligentă",
+        "Un fruct",
+        "Un animal",
+        "O jucărie de pluș"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim calculatoare?",
+      "options": [
+        "Peste tot",
+        "Doar în pădure",
+        "Doar sub apă",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul are nevoie de curent?",
+      "options": [
+        "Da, mereu",
+        "Nu, niciodată",
+        "Doar lunea",
+        "Doar când plouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța pe calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă dormim",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un laptop este un calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o carte",
+        "Este un penar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem cu mouse-ul?",
+      "options": [
+        "Mișcăm săgeata pe ecran",
+        "Mâncăm cu el",
+        "Desenăm pe hârtie",
+        "Cântăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde vedem imaginile?",
+      "options": [
+        "Pe monitor",
+        "Pe tastatură",
+        "În mouse",
+        "În cablu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem asculta muzică la calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă strigăm",
+        "Nu avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un calculator este viu?",
+      "options": [
+        "Nu",
+        "Da",
+        "Doar noaptea",
+        "Când vorbește"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un ecran?",
+      "options": [
+        "Partea care luminează",
+        "O roată",
+        "Un buton",
+        "Un scaun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul ne ajută la teme?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă îi dăm bomboane",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește unitatea centrală?",
+      "options": [
+        "Creierul calculatorului",
+        "Inima calculatorului",
+        "Mâna calculatorului",
+        "Piciorul calculatorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme pe calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă avem bilet",
+        "Doar la cinema"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să stăm prea aproape de ecran?",
+      "options": [
+        "Nu, ne dor ochii",
+        "Da, vedem mai bine",
+        "Da, e distractiv",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vorbi cu prietenii pe calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă strigăm tare",
+        "Doar prin semne"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un smartphone este un calculator mic?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o ciocolată",
+        "Este o mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie?",
+      "options": [
+        "Tastatura",
+        "Mouse-ul",
+        "Monitorul",
+        "Cablul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde stau jocurile în calculator?",
+      "options": [
+        "În memorie",
+        "În mouse",
+        "Sub tastatură",
+        "În ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este calculatorul o unealtă?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o jucărie stricată",
+        "Este un fruct"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena pe calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cu creioane reale",
+        "Doar pe monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul?",
+      "options": [
+        "Apăsăm butonul Power",
+        "Îl rugăm frumos",
+        "Batem din palme",
+        "Îl scuturăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare are butonul de pornire de obicei?",
+      "options": [
+        "Depinde, are un semn special",
+        "Mereu roșu",
+        "Mereu verde",
+        "Mereu roz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem strica calculatorul dacă vărsăm apă pe el?",
+      "options": [
+        "Da, se poate strica",
+        "Nu, îi place apa",
+        "Nu, se spală singur",
+        "Doar dacă apa e caldă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un calculator are nevoie de odihnă?",
+      "options": [
+        "Da, trebuie oprit uneori",
+        "Nu, merge mereu",
+        "Nu, nu obosește niciodată",
+        "Doar când dormim noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine a inventat calculatorul?",
+      "options": [
+        "Oamenii de știință",
+        "Zânele",
+        "Animalele",
+        "Roboții"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: unu",
+      "answer": "unu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: doi",
+      "answer": "doi"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: trei",
+      "answer": "trei"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: patru",
+      "answer": "patru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cinci",
+      "answer": "cinci"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sase",
+      "answer": "sase"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sapte",
+      "answer": "sapte"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: opt",
+      "answer": "opt"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: noua",
+      "answer": "noua"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: zece",
+      "answer": "zece"
+    }
+  ]
+}

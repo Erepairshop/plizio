@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Szöveg mentése",
+  "theme": "Email",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 1)",
+      "question": "Mi az az email?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 2)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 3)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "Elektronikus levél",
+        "Egy fajta étel",
+        "Egy játék",
+        "A monitor neve"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 4)",
+      "question": "Mi kell ahhoz, hogy emailt küldjünk?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 5)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 6)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "Internet és egy email cím",
+        "Bélyeg",
+        "Postás",
+        "Papír és toll"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 7)",
+      "question": "Melyik egy email cím?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 8)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 9)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "pelda@gmail.com",
+        "www.google.hu",
+        "C:\\Dokumentumok",
+        "Kovács János"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 10)",
+      "question": "Ki a 'Címzett'?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 11)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 12)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "Aki kapja the levelet",
+        "Aki írja the levelet",
+        "A postás",
+        "A gép"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 13)",
+      "question": "Mi a 'Tárgy' az emailben?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 14)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 15)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "A levél rövid címe vagy témája",
+        "Egy igazi doboz",
+        "A billentyűzet",
+        "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 16)",
+      "question": "Hogyan küldjük el the levelet?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 17)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 18)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "A 'Küldés' (Send) gombbal",
+        "Kikapcsoljuk the gépet",
+        "Ráfújunk a monitorra",
+        "Space-szel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 19)",
+      "question": "Mi az a 'Csatolmány'?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 20)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 21)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "A levélhez mellékelt fájl (pl. kép)",
+        "Egy csat az egéren",
+        "A kábel",
+        "Egy gomb"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 22)",
+      "question": "Melyik jel van minden email címben?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 23)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 24)",
-      "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "@ (kukac)",
+        "# (kettőskereszt)",
+        "$ (dollárjel)",
+        "& (és jel)"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Szöveg mentése? (Kérdés 25)",
+      "question": "Mi a 'Beérkező levelek' (Inbox)?",
       "options": [
-        "A opció: Szöveg mentése",
-        "B opció: Szöveg mentése",
-        "C opció: Szöveg mentése"
+        "Ahol az új leveleket találjuk",
+        "A szemetes",
+        "A gép hátulja",
+        "Egy játék"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e ismeretlen embertől jött levelet megnyitni?",
+      "options": [
+        "Inkább ne, szóljunk felnőttnek",
+        "Igen, bármit",
+        "Csak ha sok kép van benne",
+        "Csak ha éhesek vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Spam'?",
+      "options": [
+        "Kéretlen reklámlevél (szemét)",
+        "Egy finom étel",
+        "Egy új játék",
+        "A gép neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan válaszolunk egy levélre?",
+      "options": [
+        "A 'Válasz' (Reply) gombbal",
+        "Új levelet írunk fejből",
+        "Telefonálunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e az emailben titkot írni?",
+      "options": [
+        "Csak olyat, amit nem baj, ha más is lát",
+        "Igen, teljesen biztonságos",
+        "Csak ha sötét van",
+        "Csak ha halkan gépelünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk @ jelet?",
+      "options": [
+        "AltGr + V",
+        "Shift + V",
+        "Ctrl + V",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Piszkozat'?",
+      "options": [
+        "Félbehagyott, még el nem küldött levél",
+        "Egy firka",
+        "Egy rossz levél",
+        "A tálca"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az email?",
+      "options": [
+        "Gyors üzenetküldésre bárhová",
+        "Csak rajzolásra",
+        "Csak alvásra",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy levelet?",
+      "options": [
+        "A törlés vagy kuka ikonnal",
+        "Letépjük a monitorról",
+        "Kikapcsoljuk the gépet",
+        "Átfestjük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videót küldeni emailben?",
+      "options": [
+        "Igen, csatolmányként (ha nem túl nagy)",
+        "Nem, csak betűt",
+        "Csak ha van kameránk",
+        "Csak ha mozog the gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Küldött levelek' mappa?",
+      "options": [
+        "Ahol a már elküldött leveleink vannak",
+        "Ahol the postás lakik",
+        "A gép memóriája",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e a jelszavunkat megadni emailben?",
+      "options": [
+        "Soha, senkinek!",
+        "Igen, ha kérik",
+        "Csak the barátunknak",
+        "Csak the tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Aláírás' az emailben?",
+      "options": [
+        "A levél végére tett nevünk",
+        "Egy igazi tollas írás",
+        "A gép neve",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egyszerre több embernek küldeni levelet?",
+      "options": [
+        "Igen, több címzettet is megadhatunk",
+        "Nem, csak egynek",
+        "Csak ha ikrek",
+        "Csak karácsonykor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal kezdünk új levelet?",
+      "options": [
+        "Levélírás vagy + jel",
+        "X gomb",
+        "Esc",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha elírtuk the címet?",
+      "options": [
+        "Nem érkezik meg the levél",
+        "A gép kijavítja",
+        "Bárki megkapja",
+        "Felrobban the gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a levelező programokat?",
+      "options": [
+        "Gmail, Outlook, Freemail",
+        "Paint, Word",
+        "Google, Youtube",
+        "Windows, Linux"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 1"
+      "question": "Gépeld be: levél",
+      "answer": "levél"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 2"
+      "question": "Gépeld be: email",
+      "answer": "email"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 3"
+      "question": "Gépeld be: küld",
+      "answer": "küld"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 4"
+      "question": "Gépeld be: kap",
+      "answer": "kap"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 5"
+      "question": "Gépeld be: cím",
+      "answer": "cím"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 6"
+      "question": "Gépeld be: tárgy",
+      "answer": "tárgy"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 7"
+      "question": "Gépeld be: üzenet",
+      "answer": "üzenet"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 8"
+      "question": "Gépeld be: válasz",
+      "answer": "válasz"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 9"
+      "question": "Gépeld be: barát",
+      "answer": "barát"
     },
     {
       "type": "typing",
-      "text": "Szöveg mentése nagyon jó 10"
+      "question": "Gépeld be: kukac",
+      "answer": "kukac"
     }
   ]
 }

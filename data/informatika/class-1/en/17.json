@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Password is a secret",
+  "theme": "Tablet",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (17.1)",
+      "question": "How do we use a tablet?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "With our fingers",
+        "With a hammer",
+        "With our toes",
+        "With a spoon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (17.2)",
+      "question": "What is a tablet?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (17.3)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (17.4)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (17.5)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A type of pill",
+        "A flat computer",
+        "A book",
+        "A toy"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (17.6)",
+      "question": "Can we take a tablet to school?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "No",
+        "Only on the bus",
+        "Maybe",
+        "Yes, usually"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Does a tablet have a keyboard?",
+      "options": [
+        "An on-screen one",
+        "A big plastic one",
+        "No",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (17.7)",
+      "question": "Can we play games on a tablet?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "No",
+        "Yes",
+        "Only work",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (17.8)",
+      "question": "How do we 'click' on a tablet?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "Push the back",
+        "Shout",
+        "Tap the screen",
+        "Wait"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (17.9)",
+      "question": "What is an 'App'?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A program on a tablet",
+        "An apple",
+        "A sound",
+        "A toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a tablet take photos?",
+      "options": [
+        "No",
+        "Only with a mirror",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Do tablets need to be charged?",
+      "options": [
+        "Yes, with a cord",
+        "No, never",
+        "Only once",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we watch movies on a tablet?",
+      "options": [
+        "No",
+        "Only in a cinema",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is a tablet lighter than a laptop?",
+      "options": [
+        "Usually yes",
+        "Always no",
+        "The same",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw on a tablet?",
+      "options": [
+        "No",
+        "Only with a pen",
+        "Yes, very easily",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Swiping'?",
+      "options": [
+        "Eating quickly",
+        "Sleeping",
+        "Running",
+        "Moving your finger across"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we read books on a tablet?",
+      "options": [
+        "No",
+        "Only on paper",
+        "Maybe",
+        "Yes, digital books"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the screen made of glass?",
+      "options": [
+        "Usually yes",
+        "No, paper",
+        "No, wood",
+        "No, metal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we be careful with a tablet?",
+      "options": [
+        "No",
+        "Only if it's new",
+        "Yes, don't drop it!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we talk to people on a tablet?",
+      "options": [
+        "No",
+        "Only with a phone",
+        "Maybe",
+        "Yes, with video"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Home Button'?",
+      "options": [
+        "A button to go home",
+        "A button to go back",
+        "A tool",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we have many apps?",
+      "options": [
+        "No",
+        "Yes",
+        "Only one",
+        "Only ten"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (17.10)",
+      "question": "Do tablets have speakers?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "No",
+        "Yes, to hear sounds",
+        "Only with headphones",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use a tablet in the sun?",
+      "options": [
+        "No",
+        "Only at night",
+        "Maybe",
+        "Yes, but it's hard to see"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Zooming' with fingers?",
+      "options": [
+        "Pinching to see closer",
+        "Running fast",
+        "Sleeping",
+        "Running"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (17.11)",
+      "question": "Is an iPad a tablet?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No",
+        "Yes",
+        "It's a phone",
+        "Maybe"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (17.12)",
+      "question": "Can we use a tablet for music?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (17.13)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "No",
+        "Only for work",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a password? (17.14)",
+      "question": "Who can help if a tablet is broken?",
       "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (17.15)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (17.16)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (17.17)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (17.18)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (17.19)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (17.20)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (17.21)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (17.22)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (17.23)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (17.24)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (17.25)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "An adult",
+        "A cat",
+        "A bird",
+        "A fish"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Touch'",
+      "answer": "Touch"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Hand'",
+      "answer": "Hand"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'App'",
+      "answer": "App"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Glass'",
+      "answer": "Glass"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Screen'",
+      "answer": "Screen"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Flat'",
+      "answer": "Flat"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Tap'",
+      "answer": "Tap"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Fast'",
+      "answer": "Fast"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Play'",
+      "answer": "Play"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Safe'",
+      "answer": "Safe"
     }
   ]
 }

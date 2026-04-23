@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Augenschutz",
+  "theme": "Farben und Formen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Augenschutz?",
+      "question": "Welche Farbe hat eine Banane?",
       "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel."
+        "Gelb",
+        "Blau",
+        "Rot",
+        "Grün"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
+      "question": "Was ist ein Kreis?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten."
+        "Rund",
+        "Eckig",
+        "Spitz",
+        "Lang"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Augenschutz?",
+      "question": "Welche Farbe hat der Himmel oft?",
       "options": [
-        "Müde.",
-        "Ja!",
-        "Nein.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Augenschutz?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Augenschutz?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Augenschutz?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
-      "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Augenschutz?",
-      "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Augenschutz?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Augenschutz?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Augenschutz?",
-      "options": [
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Augenschutz?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Augenschutz?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund."
+        "Blau",
+        "Gelb",
+        "Rot",
+        "Schwarz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
+      "question": "Was hat 4 gleiche Seiten?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Augenschutz?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Augenschutz?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Quadrat",
+        "Kreis",
+        "Stern",
+        "Punkt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Augenschutz?",
+      "question": "Welche Farbe hat eine Erdbeere?",
       "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund."
+        "Rot",
+        "Blau",
+        "Gelb",
+        "Grün"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Augenschutz?",
+      "question": "Was ist ein Dreieck?",
       "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
+        "Form mit 3 Ecken",
+        "Form mit 4 Ecken",
+        "Form mit 0 Ecken",
+        "Form mit 5 Ecken"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
+      "question": "Welche Farbe hat Gras?",
       "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
+        "Grün",
+        "Rot",
+        "Blau",
+        "Gelb"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Augenschutz?",
+      "question": "Was ist ein Stern?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund."
+        "Form mit Zacken",
+        "Ein runder Ball",
+        "Ein Strich",
+        "Ein Viereck"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Augenschutz?",
+      "question": "Mischen von Blau und Gelb ergibt?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten."
+        "Grün",
+        "Rot",
+        "Lila",
+        "Orange"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Oval?",
+      "options": [
+        "Wie ein langes Ei",
+        "Eckig",
+        "Spitz",
+        "Gerade"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat die Sonne?",
+      "options": [
+        "Gelb",
+        "Blau",
+        "Grün",
+        "Lila"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Rechteck?",
+      "options": [
+        "Wie ein langes Quadrat",
+        "Ein runder Ball",
+        "Ein Dreieck",
+        "Ein Stern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mischen von Rot und Blau ergibt?",
+      "options": [
+        "Lila",
+        "Grün",
+        "Gelb",
+        "Weiß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Herz?",
+      "options": [
+        "Symbol für Liebe",
+        "Eine Zahl",
+        "Ein Buchstabe",
+        "Ein Tier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat Kohle?",
+      "options": [
+        "Schwarz",
+        "Weiß",
+        "Gelb",
+        "Bunt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fünfeck?",
+      "options": [
+        "Form mit 5 Ecken",
+        "Form mit 3 Ecken",
+        "Ein Kreis",
+        "Ein Strich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mischen von Rot und Gelb ergibt?",
+      "options": [
+        "Orange",
+        "Lila",
+        "Grün",
+        "Blau"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat Schnee?",
+      "options": [
+        "Weiß",
+        "Schwarz",
+        "Blau",
+        "Rot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sechseck?",
+      "options": [
+        "Form mit 6 Ecken",
+        "Form mit 2 Ecken",
+        "Ein Punkt",
+        "Ein Ball"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat eine Orange?",
+      "options": [
+        "Orange",
+        "Grün",
+        "Blau",
+        "Lila"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kreuz?",
+      "options": [
+        "Zwei Striche übereinander",
+        "Ein Kreis",
+        "Ein Dreieck",
+        "Ein Punkt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat der Stamm eines Baums?",
+      "options": [
+        "Braun",
+        "Blau",
+        "Gelb",
+        "Rot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Punkt?",
+      "options": [
+        "Ganz klein und rund",
+        "Ganz groß und eckig",
+        "Ein langer Strich",
+        "Ein schwerer Stein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat ein Schweinchen?",
+      "options": [
+        "Rosa",
+        "Grün",
+        "Blau",
+        "Schwarz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht mit Farben malen Spaß?",
+      "options": [
+        "Ja, sehr",
+        "Nein",
+        "Nur nachts",
+        "Nur im Regen"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Rot",
+      "answer": "Rot"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Blau",
+      "answer": "Blau"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Gelb",
+      "answer": "Gelb"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Grün",
+      "answer": "Grün"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Kreis",
+      "answer": "Kreis"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Eckig",
+      "answer": "Eckig"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Rund",
+      "answer": "Rund"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Stern",
+      "answer": "Stern"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Herz",
+      "answer": "Herz"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Bunt",
+      "answer": "Bunt"
     }
   ]
 }

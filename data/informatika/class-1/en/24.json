@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Favorite character",
+  "theme": "Netiquette",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "What do we use to type? (24.1)",
+      "question": "What is 'Netiquette'?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (24.2)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "Being nice online",
+        "A type of net",
+        "Catching fish",
+        "Playing"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is a password? (24.3)",
+      "question": "Should we use nice words?",
       "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
+        "No",
+        "Only to friends",
+        "Maybe",
+        "Yes, always"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (24.4)",
+      "question": "Is it okay to shout (CAPS)?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (24.5)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (24.6)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (24.7)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (24.8)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (24.9)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "Yes, it's loud",
+        "No, it's like yelling",
+        "Only in games",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (24.10)",
+      "question": "Should we say 'Please' and 'Thank you'?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "No",
+        "Maybe",
+        "Only on birthdays",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (24.11)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (24.12)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (24.13)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (24.14)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (24.15)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (24.16)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (24.17)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (24.18)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (24.19)",
+      "question": "Is it okay to be mean?",
       "options": [
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (24.20)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (24.21)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (24.22)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (24.23)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (24.24)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "Only if they are mean",
+        "No, never!",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (24.25)",
+      "question": "Should we ask before sharing?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "No",
+        "Maybe",
+        "Only some things",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cyber-kindness'?",
+      "options": [
+        "A type of robot",
+        "A game",
+        "Being kind online",
+        "A tool"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we help others?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only if they pay",
+        "Yes, if we can"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to interrupt?",
+      "options": [
+        "Yes",
+        "Only in chat",
+        "Maybe",
+        "No, wait your turn"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we follow rules?",
+      "options": [
+        "No",
+        "Only at school",
+        "Yes, stay safe and nice",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Comment'?",
+      "options": [
+        "A message we leave",
+        "A type of food",
+        "A color",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we think before we post?",
+      "options": [
+        "No",
+        "Yes, always",
+        "Only if it's long",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to share secrets?",
+      "options": [
+        "Yes",
+        "No, keep them private",
+        "Only online",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Should we be honest?",
+      "options": [
+        "No",
+        "Only some times",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Community'?",
+      "options": [
+        "A group of people",
+        "A type of house",
+        "A playground",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we respect others' work?",
+      "options": [
+        "No",
+        "Only if it's good",
+        "Maybe",
+        "Yes, don't copy without asking"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to spam?",
+      "options": [
+        "Yes",
+        "Only to friends",
+        "No, it's annoying",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Privacy'?",
+      "options": [
+        "Keeping things to yourself",
+        "A big party",
+        "A game",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we say 'Hello'?",
+      "options": [
+        "No",
+        "Only if we know them",
+        "Maybe",
+        "Yes, it's polite"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bullying'?",
+      "options": [
+        "Being mean to someone",
+        "A type of ball",
+        "A game",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we report mean things?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes, to an adult",
+        "Only if we are sad"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Kindness' a superpower?",
+      "options": [
+        "No",
+        "Only for heroes",
+        "Maybe",
+        "Online and offline, yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we use emoji for feelings?",
+      "options": [
+        "No",
+        "Only for babies",
+        "Maybe",
+        "Yes, they help!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet for everyone?",
+      "options": [
+        "No",
+        "Only for me",
+        "Yes, so be nice",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who is a good digital citizen?",
+      "options": [
+        "Someone who is nice online",
+        "A robot",
+        "A dog",
+        "A cat"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Nice'",
+      "answer": "Nice"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Kind'",
+      "answer": "Kind"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Share'",
+      "answer": "Share"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Hello'",
+      "answer": "Hello"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Bye'",
+      "answer": "Bye"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Rule'",
+      "answer": "Rule"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Wait'",
+      "answer": "Wait"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Help'",
+      "answer": "Help"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Good'",
+      "answer": "Good"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Be'",
+      "answer": "Be"
     }
   ]
 }

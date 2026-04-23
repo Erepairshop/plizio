@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Ein Spiel starten",
+  "theme": "Zeichnen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein Spiel starten?",
+      "question": "Womit malt man am PC?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Nein.",
-        "Ja!"
+        "Mit der Maus",
+        "Mit dem Finger (Touch)",
+        "Mit dem Stift",
+        "Alle drei"
       ],
       "correct": 3
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Ein Spiel starten?",
+      "question": "Was ist Paint?",
       "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze."
+        "Ein Malprogramm",
+        "Ein Spiel",
+        "Ein Browser",
+        "Ein Ordner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
+      "question": "Wozu ist der Pinsel?",
       "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein Spiel starten?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Die Katze.",
-        "Der Vogel."
+        "Zum Malen",
+        "Zum Löschen",
+        "Zum Schreiben",
+        "Zum Suchen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Ein Spiel starten?",
+      "question": "Was macht der Radiergummi?",
       "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Fehler wegmachen",
+        "Farbe hinzufügen",
+        "Bild speichern",
+        "Bild drucken"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
+      "question": "Wie wählt man Farben?",
       "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein Spiel starten?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein Spiel starten?",
-      "options": [
-        "Nein.",
-        "Langweilig.",
-        "Müde.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein Spiel starten?",
-      "options": [
-        "Kalt.",
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein Spiel starten?",
-      "options": [
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein Spiel starten?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
-      "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein Spiel starten?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein Spiel starten?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "In der Palette",
+        "Durch Rufen",
+        "Durch Schütteln",
+        "Durch Drücken"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Ein Spiel starten?",
+      "question": "Was ist das Füll-Werkzeug?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein Spiel starten?",
-      "options": [
-        "Langweilig.",
-        "Ja!",
-        "Müde.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein Spiel starten?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Flächen ausmalen",
+        "Bilder löschen",
+        "Bilder drehen",
+        "Bilder schneiden"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Ein Spiel starten?",
+      "question": "Kann man Kreise malen?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein Spiel starten?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze."
+        "Ja",
+        "Nein",
+        "Nur mit dem Zirkel",
+        "Nur eckige"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein Spiel starten?",
+      "question": "Was ist eine Linie?",
       "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein Spiel starten?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Ein gerader Strich",
+        "Ein Punkt",
+        "Ein Klecks",
+        "Ein Viereck"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein Spiel starten?",
+      "question": "Kann man Bilder speichern?",
       "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Ja",
+        "Nein",
+        "Nur auf Papier",
+        "Nur im Kopf"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein Spiel starten?",
+      "question": "Was ist ein Stempel?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht."
+        "Fertige Bilder einfügen",
+        "Farbe mischen",
+        "Bild löschen",
+        "Bild drehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text einfügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit der Hand",
+        "Nur mit dem Bleistift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Leinwand?",
+      "options": [
+        "Die Malfläche",
+        "Ein Tuch",
+        "Ein Rahmen",
+        "Ein Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht 'Rückgängig'?",
+      "options": [
+        "Letzten Schritt löschen",
+        "Bild speichern",
+        "Farbe ändern",
+        "Programm beenden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Fotos bemalen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur echte Fotos",
+        "Nur mit Filzstift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Farbmischer?",
+      "options": [
+        "Eigene Farben machen",
+        "Ein Kuchen",
+        "Ein Spielzeug",
+        "Ein Auto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Sprühdose?",
+      "options": [
+        "Punkte-Farbe",
+        "Echte Farbe",
+        "Wasser",
+        "Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder drucken?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit dem Handy",
+        "Nur im Geschäft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Viereck?",
+      "options": [
+        "Eine Form mit 4 Ecken",
+        "Ein runder Ball",
+        "Ein Stern",
+        "Ein Strich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder spiegeln?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur im echten Spiegel",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Zoom?",
+      "options": [
+        "Näher ranholen",
+        "Schneller malen",
+        "Farbe wechseln",
+        "Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Malen am PC Spaß?",
+      "options": [
+        "Ja, sehr",
+        "Nein",
+        "Nur Erwachsenen",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Pipette?",
+      "options": [
+        "Farbe vom Bild wählen",
+        "Ein Tropfen Wasser",
+        "Ein Stift",
+        "Ein Pinsel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Strichdicke ändern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur bei Blau",
+        "Nur bei Grün"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Hintergrund?",
+      "options": [
+        "Die Farbe ganz hinten",
+        "Die Rückseite vom PC",
+        "Ein Berg",
+        "Ein Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Leinwand drehen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur den Monitor",
+        "Nur den Tisch"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Malen",
+      "answer": "Malen"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Stift",
+      "answer": "Stift"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Blatt",
+      "answer": "Blatt"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Kunst",
+      "answer": "Kunst"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Pinsel",
+      "answer": "Pinsel"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Kreis",
+      "answer": "Kreis"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Linie",
+      "answer": "Linie"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Radierer",
+      "answer": "Radierer"
     }
   ]
 }

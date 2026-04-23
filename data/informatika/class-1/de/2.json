@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Der Bildschirm",
+  "theme": "Maus und Tastatur",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Der Bildschirm?",
+      "question": "Womit tippen wir?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Der Bildschirm?",
-      "options": [
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Der Bildschirm?",
-      "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Die Katze."
+        "Maus",
+        "Tastatur",
+        "Monitor",
+        "Drucker"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Der Bildschirm?",
+      "question": "Womit bewegen wir den Pfeil?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Der Bildschirm?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Der Bildschirm?",
-      "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Der Bildschirm?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Die Katze.",
-        "Der Vogel."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Der Bildschirm?",
-      "options": [
-        "Nein.",
-        "Langweilig.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Der Bildschirm?",
-      "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
+        "Tastatur",
+        "Maus",
+        "Kabel",
+        "Box"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "question": "Was ist die Leertaste?",
       "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund."
+        "Eine lange Taste",
+        "Ein kleiner Knopf",
+        "Ein Licht",
+        "Ein Rad"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Der Bildschirm?",
+      "question": "Wie viele Tasten hat eine Maus meist?",
       "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Der Bildschirm?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Zwei",
+        "Einhundert",
+        "Keine",
+        "Zehn"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Der Bildschirm?",
+      "question": "Was macht ein Doppelklick?",
       "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Der Bildschirm?",
-      "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Der Bildschirm?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel."
+        "Öffnen",
+        "Löschen",
+        "Malen",
+        "Schlafen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "question": "Wo liegen die Finger beim Tippen?",
       "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Der Bildschirm?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Der Bildschirm?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Auf der Tastatur",
+        "In der Tasche",
+        "In der Nase",
+        "Im Wasser"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Der Bildschirm?",
+      "question": "Was ist die Enter-Taste?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Bestätigen",
+        "Abbrechen",
+        "Löschen",
+        "Pause"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "question": "Wie nennt man den Pfeil auf dem Bild?",
       "options": [
-        "Traurig.",
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Der Bildschirm?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Mauszeiger",
+        "Hundepfote",
+        "Vogel",
+        "Flugzeug"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Der Bildschirm?",
+      "question": "Gibt es Funk-Mäuse?",
       "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
+        "Ja, ohne Kabel",
+        "Nein",
+        "Nur im Käfig",
+        "Nur aus Holz"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "question": "Was ist ein Touchpad?",
       "options": [
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
+        "Maus-Ersatz am Laptop",
+        "Ein Kissen",
+        "Ein Teller",
+        "Ein Schuh"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Der Bildschirm?",
+      "question": "Wozu ist das Mausrad?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Scrollen",
+        "Lauter machen",
+        "Licht an",
+        "Essen bestellen"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "question": "Was passiert beim Rechtsklick?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
+        "Menü öffnen",
+        "Computer aus",
+        "Bild löschen",
+        "Lied spielen"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo sind die Buchstaben?",
+      "options": [
+        "Auf der Tastatur",
+        "An der Maus",
+        "Im Monitor",
+        "Im Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Shift-Taste?",
+      "options": [
+        "Großschreiben",
+        "Löschen",
+        "Pause",
+        "Spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man die Maus füttern?",
+      "options": [
+        "Nein",
+        "Ja, mit Käse",
+        "Nur sonntags",
+        "Mit Strom"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Ergonomie-Maus?",
+      "options": [
+        "Besser für die Hand",
+        "Eine bunte Maus",
+        "Eine sehr schnelle Maus",
+        "Eine kaputte Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie tippt man ein 'A'?",
+      "options": [
+        "Taste 'A' drücken",
+        "Maus klicken",
+        "Pusten",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Backspace-Taste?",
+      "options": [
+        "Löschen",
+        "Schreiben",
+        "Starten",
+        "Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es beleuchtete Tastaturen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur bei Vollmond",
+        "Nur im Winter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Mechanische Tastatur?",
+      "options": [
+        "Mit echten Schaltern",
+        "Aus Holz",
+        "Zum Aufziehen",
+        "Ohne Strom"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit der Maus malen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Farbe",
+        "Nur auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Mauspad?",
+      "options": [
+        "Unterlage",
+        "Essen",
+        "Decke",
+        "Hut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist die Esc-Taste?",
+      "options": [
+        "Oben links",
+        "Unten rechts",
+        "In der Mitte",
+        "Unter der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die Pfeiltasten?",
+      "options": [
+        "Bewegen",
+        "Singen",
+        "Kochen",
+        "Waschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht die Tastatur Pflege?",
+      "options": [
+        "Ja, sauber halten",
+        "Nein",
+        "Nur mit Wasser",
+        "Nur mit Seife"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Maus",
+      "answer": "Maus"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Taste",
+      "answer": "Taste"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Enter",
+      "answer": "Enter"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Tippen",
+      "answer": "Tippen"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Finger",
+      "answer": "Finger"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Hand",
+      "answer": "Hand"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Schreiben",
+      "answer": "Schreiben"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Alphabet",
+      "answer": "Alphabet"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Leertaste",
+      "answer": "Leertaste"
     }
   ]
 }

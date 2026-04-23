@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Keep the computer clean",
+  "theme": "Saving",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (23.1)",
+      "question": "Why do we save?",
       "options": [
-        "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "To delete it",
+        "To keep our work",
+        "To hide it",
+        "To lose it"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a password? (23.2)",
+      "question": "What icon often means Save?",
       "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
+        "A floppy disk or disk",
+        "A cat",
+        "A star",
+        "A trash bin"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (23.3)",
+      "question": "What happens if we don't save?",
       "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "It's safe",
+        "The computer explodes",
+        "Nothing",
+        "Our work might be lost"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Where do we save files?",
+      "options": [
+        "In the fridge",
+        "Under the bed",
+        "In a folder",
+        "On the roof"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (23.4)",
+      "question": "What is a 'File'?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "Our work on computer",
+        "A tool for nails",
+        "A type of food",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (23.5)",
+      "question": "Can we give a file a name?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (23.6)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (23.7)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (23.8)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Only a number",
+        "Nothing",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Auto-save' good?",
+      "options": [
+        "Yes, it saves for us",
+        "No",
+        "It's bad",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we save a drawing?",
+      "options": [
+        "No",
+        "Only stories",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Cloud' for saving?",
+      "options": [
+        "A white fluffy thing",
+        "Saving on the internet",
+        "Rain",
+        "A game"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (23.9)",
+      "question": "Can we save a game?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (23.10)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (23.11)",
-      "options": [
-        "All day",
-        "30 minutes",
         "Never",
-        "5 hours"
+        "Usually yes",
+        "Only on Sundays",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (23.12)",
+      "question": "What is 'Rename'?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (23.13)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "Starting over",
+        "Sleeping",
+        "Changing the file name",
+        "Running"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (23.14)",
+      "question": "Should we save often?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (23.15)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (23.16)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (23.17)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Once a year",
+        "Maybe",
+        "Yes, to be safe!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'USB drive'?",
+      "options": [
+        "A toy car",
+        "A type of juice",
+        "A tool to carry files",
+        "A sound"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we delete a saved file?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if it's old",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (23.18)",
+      "question": "Is 'Save As' for a new name?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "No",
+        "Maybe",
+        "Only for music",
+        "Yes"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (23.19)",
+      "question": "What is a 'Document'?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (23.20)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "A saved writing",
+        "A type of bird",
+        "A car",
+        "A tool"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (23.21)",
+      "question": "Can we save music?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "No",
+        "Yes",
+        "Only on a CD",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Does saving take a long time?",
+      "options": [
+        "Hours",
+        "Usually very fast",
+        "Days",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Storage full'?",
+      "options": [
+        "The room is clean",
+        "No more room to save",
+        "The battery is low",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we organize saved files?",
+      "options": [
+        "No",
+        "Only in a pile",
+        "Maybe",
+        "Yes, in folders"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to save on the Desktop?",
+      "options": [
+        "No",
+        "Only for games",
+        "Yes, but don't get messy",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a password? (23.22)",
+      "question": "What is a 'Backup'?",
       "options": [
-        "A secret",
+        "Moving backward",
+        "A second copy",
         "A game",
-        "A color",
-        "A song"
+        "A tool"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (23.23)",
+      "question": "Can we save a photo?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
+        "No",
+        "Maybe",
+        "Only with a camera",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (23.24)",
+      "question": "Who can help find a lost file?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "A cat",
+        "A bird",
+        "A fish",
+        "An adult"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (23.25)",
+      "question": "Is 'Open' the opposite of 'Save'?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
+        "No",
+        "Maybe",
+        "In a way, yes",
+        "Only for doors"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Disk'",
+      "answer": "Disk"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Safe'",
+      "answer": "Safe"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Keep'",
+      "answer": "Keep"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'File'",
+      "answer": "File"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Done'",
+      "answer": "Done"
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'Save'",
+      "answer": "Save"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Hold'",
+      "answer": "Hold"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Name'",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Back'",
+      "answer": "Back"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'USB'",
+      "answer": "USB"
     }
   ]
 }

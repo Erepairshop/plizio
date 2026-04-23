@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Rajzprogram (Paint)",
+  "theme": "Biztonság és jelszó",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 1)",
+      "question": "Mi az a jelszó?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 2)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 3)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Titkos szó, ami védi a dolgainkat",
+        "Egy becenév",
+        "A gépünk neve",
+        "A kedvenc ételünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 4)",
+      "question": "Milyen a jó jelszó?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 5)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 6)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Hosszú, van benne szám és jel is",
+        "A nevünk",
+        "12345",
+        "A kutyánk neve"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 7)",
+      "question": "Szabad-e elárulni the jelszavunkat másnak?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 8)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 9)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Nem, csak the szüleinknek",
+        "Igen, the barátunknak",
+        "Mindenkinek",
+        "A tanárnak, ha kéri"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 10)",
+      "question": "Mi történik, ha túl egyszerű the jelszó?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 11)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 12)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Könnyen kitalálhatják the idegenek",
+        "Gyorsabb lesz the gép",
+        "Nem történik semmi",
+        "Elfelejtjük"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 13)",
+      "question": "Mire kell vigyázni az interneten?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 14)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 15)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Ne adjuk meg az adatainkat idegennek",
+        "Ne nézzük túl közelről",
+        "Hogy ne legyen poros the monitor",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 16)",
+      "question": "Hogyan tároljuk the jelszavunkat?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 17)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 18)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Jegyezzük meg vagy írjuk titkos helyre",
+        "Írjuk a monitorra",
+        "Mondjuk el mindenkinek",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 19)",
+      "question": "Mi az a felhasználónév?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 20)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 21)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "A nevünk vagy becenevünk a gépben",
+        "A jelszavunk",
+        "A gép típusa",
+        "A tanár neve"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 22)",
+      "question": "Szabad-e megadni the lakcímünket a neten?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 23)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 24)",
-      "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Csak ha the szüleink engedik",
+        "Igen, bárkinek",
+        "Csak ha ajándékot ígérnek",
+        "Igen, ha kérdezik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 25)",
+      "question": "Mit tegyünk, ha valaki csúnyát ír nekünk?",
       "options": [
-        "A opció: Rajzprogram (Paint)",
-        "B opció: Rajzprogram (Paint)",
-        "C opció: Rajzprogram (Paint)"
+        "Szóljunk egy felnőttnek",
+        "Írjunk vissza csúnyát",
+        "Sírjunk",
+        "Töröljük le the gépet"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'kijelentkezés'?",
+      "options": [
+        "Lezárjuk the fiókunkat, hogy más ne lássa",
+        "Kikapcsoljuk the lámpát",
+        "Kimegyünk a szobából",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért nem jó, ha mindenhol ugyanaz the jelszó?",
+      "options": [
+        "Mert ha egyet kitalálnak, mindent látnak",
+        "Mert unalmas",
+        "Mert the gép nem szereti",
+        "Nem baj, jó az"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'biztonság' a gépnél?",
+      "options": [
+        "Védjük magunkat és the gépünket",
+        "Hogy nem esik le az asztalról",
+        "Hogy tiszta the billentyűzet",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki az az 'idegen' az interneten?",
+      "options": [
+        "Bárki, akit nem ismerünk személyesen",
+        "Aki nem beszél magyarul",
+        "Aki csúnya",
+        "Aki nincs ott"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e fényképet küldeni magunkról idegennek?",
+      "options": [
+        "Soha, soha!",
+        "Igen, ha kéri",
+        "Csak ha szépen kéri",
+        "Csak ha mi is kapunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the lakat ikon a böngészőben?",
+      "options": [
+        "Hogy az oldal biztonságos",
+        "Hogy be van zárva the net",
+        "Hogy nem lehet kattintani",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'személyes adat'?",
+      "options": [
+        "Név, cím, telefonszám, iskola",
+        "A kedvenc színünk",
+        "A gépünk színe",
+        "A cipőméretünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne adjuk meg az iskolánk nevét?",
+      "options": [
+        "Hogy idegenek ne találjanak meg minket",
+        "Mert titkos az iskola",
+        "Mert unalmas",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítsünk erős jelszót?",
+      "options": [
+        "Keverjünk betűket, számokat és jeleket",
+        "Csak nagybetűvel",
+        "Csak számokkal",
+        "Csak jelekkel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Privacy'?",
+      "options": [
+        "Magánélet és adatvédelem",
+        "Egy fajta zene",
+        "Egy gomb a gépen",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha elfelejtettük the jelszavunkat?",
+      "options": [
+        "Kérjünk segítséget a szülőktől",
+        "Sírjunk",
+        "Vegyünk új gépet",
+        "Találjunk ki újat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegenekkel játszani a neten?",
+      "options": [
+        "Csak felnőtt felügyelete mellett",
+        "Igen, bárkivel",
+        "Soha nem szabad",
+        "Csak ha nyerünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'kétlépcsős azonosítás'?",
+      "options": [
+        "Kétféleképpen is igazolni kell magunkat",
+        "Kétszer kell gépelni",
+        "Két kézzel kell fogni az egeret",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos the jelszó?",
+      "options": [
+        "Védi the titkainkat és the fiókunkat",
+        "Mert mindenki kéri",
+        "Mert szép",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen gyakran cseréljünk jelszót?",
+      "options": [
+        "Néha érdemes (pl. évente)",
+        "Soha nem kell",
+        "Minden nap",
+        "Minden órában"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy hacker?",
+      "options": [
+        "Rosszban sántikál, feltöri the fiókokat",
+        "Segít gépelni",
+        "Javítja the gépet",
+        "Rajzol"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 1"
+      "question": "Gépeld be: jelszó",
+      "answer": "jelszó"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 2"
+      "question": "Gépeld be: titok",
+      "answer": "titok"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 3"
+      "question": "Gépeld be: biztonság",
+      "answer": "biztonság"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 4"
+      "question": "Gépeld be: véd",
+      "answer": "véd"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 5"
+      "question": "Gépeld be: zár",
+      "answer": "zár"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 6"
+      "question": "Gépeld be: kód",
+      "answer": "kód"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 7"
+      "question": "Gépeld be: erős",
+      "answer": "erős"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 8"
+      "question": "Gépeld be: vigyáz",
+      "answer": "vigyáz"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 9"
+      "question": "Gépeld be: idegen",
+      "answer": "idegen"
     },
     {
       "type": "typing",
-      "text": "Rajzprogram (Paint) nagyon jó 10"
+      "question": "Gépeld be: szülő",
+      "answer": "szülő"
     }
   ]
 }

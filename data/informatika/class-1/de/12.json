@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Einfaches Malen",
+  "theme": "Digitale Trickfilme",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einfaches Malen?",
+      "question": "Was ist ein Trickfilm?",
       "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einfaches Malen?",
-      "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
-      "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
-      "options": [
-        "Nein.",
-        "Langweilig.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
-      "options": [
-        "Langweilig.",
-        "Nein.",
-        "Müde.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einfaches Malen?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Einfaches Malen?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein."
+        "Bewegte Bilder",
+        "Ein echtes Video",
+        "Ein Buch",
+        "Ein Foto"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Einfaches Malen?",
+      "question": "Wie entstehen Trickfilme?",
       "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Einfaches Malen?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Einfaches Malen?",
-      "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einfaches Malen?",
-      "options": [
-        "Der Hund.",
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
-      "options": [
-        "Müde.",
-        "Nein.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
-      "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Einfaches Malen?",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einfaches Malen?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Viele Bilder nacheinander",
+        "Von allein",
+        "Durch Zauberei",
+        "Durch Pusten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
+      "question": "Was ist Stop-Motion?",
       "options": [
-        "Langweilig.",
-        "Nein.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einfaches Malen?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einfaches Malen?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Foto - bewegen - Foto",
+        "Einfach filmen",
+        "Malen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Einfaches Malen?",
+      "question": "Kann man am PC Trickfilme machen?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
+        "Ja, mit Programmen",
+        "Nein",
+        "Nur im Kino",
+        "Nur mit dem Handy"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Einfaches Malen?",
+      "question": "Was ist eine Figur?",
       "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
+        "Der Held im Film",
+        "Ein Stein",
+        "Ein Baum",
+        "Ein Haus"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Hintergrund?",
+      "options": [
+        "Wo die Geschichte spielt",
+        "Ein bunter Fleck",
+        "Die Rückseite",
+        "Der Boden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht man Ton?",
+      "options": [
+        "Ja, für Stimmen und Musik",
+        "Nein, nie",
+        "Nur wenn es regnet",
+        "Nur wenn man singt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Frame?",
+      "options": [
+        "Ein einzelnes Bild",
+        "Ein Rahmen",
+        "Ein Spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Animator?",
+      "options": [
+        "Bilder zum Leben erwecken",
+        "Essen kochen",
+        "Haus putzen",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Story?",
+      "options": [
+        "Die Geschichte",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Wort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Knete benutzen?",
+      "options": [
+        "Ja, für Knet-Trickfilm",
+        "Nein",
+        "Nur zum Essen",
+        "Nur zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 2D?",
+      "options": [
+        "Flache Figuren",
+        "Echte Figuren",
+        "Runde Figuren",
+        "Schwere Figuren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 3D?",
+      "options": [
+        "Räumliche Figuren",
+        "Flache Figuren",
+        "Papierfiguren",
+        "Dünne Figuren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht man viel Geduld?",
+      "options": [
+        "Ja, sehr viel",
+        "Nein, geht schnell",
+        "Nur ein bisschen",
+        "Gar keine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Drehbuch?",
+      "options": [
+        "Plan für den Film",
+        "Ein Rad",
+        "Ein Buch zum Drehen",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Synchronisation?",
+      "options": [
+        "Stimmen aufnehmen",
+        "Bilder malen",
+        "Musik machen",
+        "Film löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Regisseur?",
+      "options": [
+        "Bestimmt alles im Film",
+        "Malt die Bilder",
+        "Macht den Ton",
+        "Schläft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet Trickfilme machen?",
+      "options": [
+        "Ja, mit Apps",
+        "Nein",
+        "Nur am großen PC",
+        "Nur im Fernsehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Spezialeffekt?",
+      "options": [
+        "Besondere Zauberei im Film",
+        "Ein Fehler",
+        "Ein bunter Punkt",
+        "Ein lauter Knall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu ist das Licht wichtig?",
+      "options": [
+        "Damit man alles sieht",
+        "Damit es warm ist",
+        "Damit es bunt ist",
+        "Damit es glänzt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Abspann?",
+      "options": [
+        "Namen am Ende",
+        "Der Anfang",
+        "Die Pause",
+        "Der Müll"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Lego-Filme machen?",
+      "options": [
+        "Ja, sehr beliebt",
+        "Nein",
+        "Nur mit echten Steinen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Greenscreen?",
+      "options": [
+        "Grüner Hintergrund zum Tauschen",
+        "Ein grüner Monitor",
+        "Ein grüner Apfel",
+        "Ein grüner Baum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Trickfilme machen Spaß?",
+      "options": [
+        "Ja, riesig",
+        "Nein",
+        "Nur Profis",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Mikrofon?",
+      "options": [
+        "Zum Stimmen aufnehmen",
+        "Zum Bilder malen",
+        "Zum Musik hören",
+        "Zum Schlafen"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Film",
+      "answer": "Film"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Trick",
+      "answer": "Trick"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Held",
+      "answer": "Held"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Kino",
+      "answer": "Kino"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Comic",
+      "answer": "Comic"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Story",
+      "answer": "Story"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Figur",
+      "answer": "Figur"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Action",
+      "answer": "Action"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Spaß",
+      "answer": "Spaß"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Bewegung",
+      "answer": "Bewegung"
     }
   ]
 }

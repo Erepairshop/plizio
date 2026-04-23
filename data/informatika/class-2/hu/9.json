@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Törlés gombok",
+  "theme": "Internet böngésző",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 1)",
+      "question": "Mi az a böngésző?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 2)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 3)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Program, amivel internetezünk",
+        "Egy játék",
+        "A monitor neve",
+        "Egy kábel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 4)",
+      "question": "Melyik egy böngésző neve?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 5)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 6)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Google Chrome",
+        "Paint",
+        "Word",
+        "Lomtár"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 7)",
+      "question": "Mi az a weboldal?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 8)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 9)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Egy oldal az interneten",
+        "Egy igazi papír",
+        "Egy könyv",
+        "A gép háttérképe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 10)",
+      "question": "Hová írjuk az oldal címét?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 11)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 12)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "A címsorba (felül)",
+        "A tálcára",
+        "A billentyűzetre",
+        "A füzetünkbe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 13)",
+      "question": "Mire jó a 'Vissza' gomb?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 14)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 15)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Az előző oldalra lépéshez",
+        "A gép kikapcsolásához",
+        "Törléshez",
+        "Hangerőhöz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 16)",
+      "question": "Mi az a link?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 17)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 18)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Egy hivatkozás, amire kattintva új oldal nyílik",
+        "Egy lánc",
+        "Egy kép",
+        "Egy hang"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 19)",
+      "question": "Hogyan frissítünk egy oldalt?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 20)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 21)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "A görbe nyíllal vagy F5-tel",
+        "Kikapcsoljuk the monitort",
+        "Várunk egy órát",
+        "Gépelünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 22)",
+      "question": "Melyik ikon a 'Kezdőlap'?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 23)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 24)",
-      "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Egy kis házikó",
+        "Egy autó",
+        "Egy fa",
+        "Egy telefon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Törlés gombok? (Kérdés 25)",
+      "question": "Mi az a fül (tab) a böngészőben?",
       "options": [
-        "A opció: Törlés gombok",
-        "B opció: Törlés gombok",
-        "C opció: Törlés gombok"
+        "Több oldalt is nyitva tarthatunk egyszerre",
+        "A gép füle",
+        "Egy gomb az egéren",
+        "A billentyűzet része"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan keresünk valamit az interneten?",
+      "options": [
+        "Keresőbe (pl. Google) írjuk the szót",
+        "Kiabálunk a gépnek",
+        "Mindent végigkattintunk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e bármire rákattintani?",
+      "options": [
+        "Nem, csak amit ismerünk vagy szabad",
+        "Igen, mindenre",
+        "Csak a pirosakra",
+        "Csak a hirdetésekre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Kedvencek' vagy 'Könyvjelző'?",
+      "options": [
+        "Elmentett oldal, amit szeretünk",
+        "Egy igazi könyv",
+        "A tanár kedvence",
+        "Egy matrica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the nagyító ikon?",
+      "options": [
+        "Keresésre",
+        "Nagyításra",
+        "Törlésre",
+        "Rajzolásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a Wi-Fi?",
+      "options": [
+        "Vezeték nélküli internet",
+        "Egy fajta süti",
+        "A gép neve",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan csukunk be egy fület?",
+      "options": [
+        "A fülön lévő kis x-szel",
+        "Kikapcsoljuk the gépet",
+        "Letakarjuk",
+        "Megfújjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem böngésző?",
+      "options": [
+        "Youtube",
+        "Edge",
+        "Firefox",
+        "Safari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az internet?",
+      "options": [
+        "Tanulásra, játékra, kapcsolattartásra",
+        "Csak alvásra",
+        "Csak evésre",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a URL?",
+      "options": [
+        "A weboldal pontos címe",
+        "Egy állat",
+        "Egy gomb",
+        "Egy vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz nagyobb a betű a böngészőben?",
+      "options": [
+        "Ctrl és a + gombbal",
+        "Nagyítóval",
+        "Közelebb megyünk",
+        "Kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk internetezés közben?",
+      "options": [
+        "Az időre és a biztonságra",
+        "Hogy ne pislogjunk",
+        "Hogy csak állva nézzük",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Előzmények'?",
+      "options": [
+        "A korábban meglátogatott oldalak listája",
+        "Egy történelem könyv",
+        "A jövőnk",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Letöltés'?",
+      "options": [
+        "Valamit a netről a gépünkre teszünk",
+        "Kivisszük the gépet",
+        "Törlünk mindent",
+        "Rajzolunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a hirdetés?",
+      "options": [
+        "Reklám, ami el akar adni valamit",
+        "Egy fontos levél",
+        "Egy ajándék",
+        "A gép része"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegenekkel beszélgetni a neten?",
+      "options": [
+        "Nem, soha",
+        "Igen, bárkivel",
+        "Csak ha kedves",
+        "Csak ha van képe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lépünk ki a böngészőből?",
+      "options": [
+        "A jobb felső piros X-szel",
+        "Kihúzzuk the gépet",
+        "Becsukjuk a szemünk",
+        "Várunk"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 1"
+      "question": "Gépeld be: internet",
+      "answer": "internet"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 2"
+      "question": "Gépeld be: oldal",
+      "answer": "oldal"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 3"
+      "question": "Gépeld be: cím",
+      "answer": "cím"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 4"
+      "question": "Gépeld be: link",
+      "answer": "link"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 5"
+      "question": "Gépeld be: kattint",
+      "answer": "kattint"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 6"
+      "question": "Gépeld be: vissza",
+      "answer": "vissza"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 7"
+      "question": "Gépeld be: előre",
+      "answer": "előre"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 8"
+      "question": "Gépeld be: frissít",
+      "answer": "frissít"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 9"
+      "question": "Gépeld be: ablak",
+      "answer": "ablak"
     },
     {
       "type": "typing",
-      "text": "Törlés gombok nagyon jó 10"
+      "question": "Gépeld be: fül",
+      "answer": "fül"
     }
   ]
 }

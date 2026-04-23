@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Ein/Aus",
+  "theme": "Musik komponieren",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "question": "Was ist Musik am PC?",
       "options": [
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein/Aus?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Nein.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein/Aus?",
-      "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein/Aus?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein/Aus?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Digitale Töne und Lieder",
+        "Ein Foto",
+        "Ein Buch",
+        "Ein Spiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "question": "Was ist eine Note?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Ein Zeichen für einen Ton",
+        "Ein bunter Klecks",
+        "Ein Krümel",
+        "Ein Stein"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Ein/Aus?",
+      "question": "Womit hört man Musik?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein/Aus?",
-      "options": [
-        "Traurig.",
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein/Aus?",
-      "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein/Aus?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein/Aus?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
+        "Lautsprecher/Kopfhörer",
+        "Monitor",
+        "Maus",
+        "Tastatur"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein/Aus?",
+      "question": "Was ist ein Rhythmus?",
       "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Der Takt der Musik",
+        "Ein Bild",
+        "Eine Farbe",
+        "Ein Geruch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein/Aus?",
+      "question": "Kann man am PC Klavier spielen?",
       "options": [
-        "Müde.",
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein/Aus?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein/Aus?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein/Aus?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein/Aus?",
-      "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein/Aus?",
-      "options": [
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein/Aus?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein/Aus?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein/Aus?",
-      "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein/Aus?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein/Aus?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Ja, mit Programmen",
+        "Nein, nie",
+        "Nur auf echtem Holz",
+        "Nur im Keller"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "question": "Was ist ein Instrument?",
       "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
+        "Etwas zum Musik machen",
+        "Etwas zum Essen",
+        "Etwas zum Anziehen",
+        "Etwas zum Putzen"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein/Aus?",
+      "question": "Was bedeutet 'Komponieren'?",
       "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
+        "Musik erfinden",
+        "Musik löschen",
+        "Musik malen",
+        "Musik essen"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Lied?",
+      "options": [
+        "Musik mit oder ohne Gesang",
+        "Ein Text ohne Ton",
+        "Ein Bild",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Schlagzeug am PC?",
+      "options": [
+        "Trommel-Töne",
+        "Ein lauter Knall",
+        "Ein bunter Punkt",
+        "Ein schwerer Stein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man seine Stimme aufnehmen?",
+      "options": [
+        "Ja, mit dem Mikrofon",
+        "Nein, unmöglich",
+        "Nur nachts",
+        "Nur wenn man schreit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sound?",
+      "options": [
+        "Ein Klang oder Geräusch",
+        "Ein Bild",
+        "Ein Licht",
+        "Ein Wort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Melodie?",
+      "options": [
+        "Eine Folge von Tönen",
+        "Ein einzelner Punkt",
+        "Ein langes Wort",
+        "Ein schwerer Koffer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Musik lauter machen?",
+      "options": [
+        "Ja, mit dem Regler",
+        "Nein, immer gleich",
+        "Nur nachts",
+        "Nur im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein DJ?",
+      "options": [
+        "Jemand der Musik mixt",
+        "Ein Bäcker",
+        "Ein Maler",
+        "Ein Läufer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Loop?",
+      "options": [
+        "Ein sich wiederholender Ton",
+        "Ein Knoten",
+        "Ein Kreis",
+        "Ein Geschenk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Musik-Apps?",
+      "options": [
+        "Ja, ganz viele",
+        "Nein, keine",
+        "Nur für das Radio",
+        "Nur für den Fernseher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Chor?",
+      "options": [
+        "Viele Leute die singen",
+        "Ein einzelner Ton",
+        "Ein Spiel",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC Flöte spielen?",
+      "options": [
+        "Ja, mit Tasten/Apps",
+        "Nein, nur reinpusten",
+        "Nur im Wald",
+        "Nur im Zoo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Takt?",
+      "options": [
+        "Das Tempo der Musik",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Musik toll?",
+      "options": [
+        "Sie macht gute Laune",
+        "Sie ist laut",
+        "Sie ist teuer",
+        "Sie ist schwer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Konzert?",
+      "options": [
+        "Wo Musik vorgespielt wird",
+        "Ein Marktplatz",
+        "Ein Spielplatz",
+        "Ein Parkplatz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eigene Lieder speichern?",
+      "options": [
+        "Ja, als Datei",
+        "Nein, nie",
+        "Nur im Kopf",
+        "Nur auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Synthesizer?",
+      "options": [
+        "Ein elektronisches Musik-Gerät",
+        "Ein Staubsauger",
+        "Ein Toaster",
+        "Ein Wecker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Refrain?",
+      "options": [
+        "Teil der sich wiederholt",
+        "Der Anfang",
+        "Das Ende",
+        "Die Pause"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Musik erfinden Spaß?",
+      "options": [
+        "Ja, riesig",
+        "Nein",
+        "Nur Lehrern",
+        "Nur am Montag"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Note",
+      "answer": "Note"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Takt",
+      "answer": "Takt"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Lied",
+      "answer": "Lied"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Klang",
+      "answer": "Klang"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Rhythmus",
+      "answer": "Rhythmus"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Klavier",
+      "answer": "Klavier"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Flöte",
+      "answer": "Flöte"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Singen",
+      "answer": "Singen"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Chor",
+      "answer": "Chor"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Band",
+      "answer": "Band"
     }
   ]
 }

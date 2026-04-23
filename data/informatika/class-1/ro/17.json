@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Parola este un secret",
+  "theme": "Tableta",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (17.1)",
+      "question": "Ce este o tabletă?",
       "options": [
-        "O mașinărie",
+        "Un calculator mic și plat, fără tastatură separată",
+        "O ciocolată",
+        "O jucărie de lemn",
+        "O carte grea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum folosim tableta?",
+      "options": [
+        "Atingem ecranul cu degetul",
+        "Cu un mouse uriaș",
+        "Vorbindu-i în șoaptă",
+        "Săpând în ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are baterie?",
+      "options": [
+        "Da, trebuie încărcată",
+        "Nu, merge cu baterii de ceas",
+        "Nu, merge doar în priză",
+        "Merge cu apă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem juca jocuri pe tabletă?",
+      "options": [
+        "Da, sunt multe aplicații",
+        "Nu, e doar pentru citit",
+        "Doar dacă avem manetă",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'App' (Aplicație)?",
+      "options": [
+        "Un program pe tabletă sau telefon",
         "Un animal",
-        "O plantă",
-        "O mâncare"
+        "O mâncare",
+        "Un sunet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (17.2)",
+      "question": "Tableta este ușoară?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Da, o putem lua cu noi peste tot",
+        "Nu, e grea ca un bolovan",
+        "Cântărește cât o mașină",
+        "E mai grea ca un laptop"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (17.3)",
+      "question": "Ecranul tabletei se poate roti?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Da, depinde cum o ținem",
+        "Nu, e fix",
+        "Doar dacă o învârtim pe masă",
+        "Doar dacă e magică"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum ar trebui să stăm? (17.4)",
+      "question": "Putem vedea filme pe tabletă?",
       "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Da, e foarte comod",
+        "Nu, ecranul e prea mic",
+        "Doar dacă avem antenă",
+        "Doar în vacanță"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (17.5)",
+      "question": "Cum oprim o tabletă?",
       "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
+        "Ținem apăsat butonul de pe margine",
+        "O acoperim cu o pernă",
+        "O punem în sertar",
+        "O strigăm 'Stop'"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (17.6)",
+      "question": "Tableta are cameră foto?",
       "options": [
-        "Da",
+        "De obicei are două, față și spate",
+        "Nu, n-are nevoie",
+        "Doar tabletele mari",
+        "Doar tabletele roz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie pe tabletă?",
+      "options": [
+        "Da, apare o tastatură pe ecran",
+        "Nu, doar desenăm",
+        "Doar dacă avem creion real",
+        "Doar dacă știm codul secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta se poate strica dacă cade?",
+      "options": [
+        "Da, ecranul e din sticlă și e fragil",
+        "Nu, e din cauciuc",
+        "Nu, sare ca o minge",
+        "Se repară singură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să stăm mult pe tabletă?",
+      "options": [
+        "Nu, trebuie să facem pauze",
+        "Da, e foarte sănătos",
+        "Doar dacă avem ochelari",
+        "Doar dacă plouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine ne instalează jocuri noi?",
+      "options": [
+        "Părinții, din magazinul de aplicații",
+        "Vin singure prin poștă",
+        "Le desenăm noi",
+        "Roboții"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem citi cărți pe tabletă?",
+      "options": [
+        "Da, sunt cărți digitale",
+        "Nu, pentru asta mergem la bibliotecă",
+        "Doar dacă au poze",
+        "Doar dacă sunt în engleză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are Wi-Fi?",
+      "options": [
+        "Da, pentru internet",
+        "Nu, are nevoie de cablu",
+        "Are nevoie de antenă de satelit",
+        "Merge cu unde radio vechi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește tableta de la Apple?",
+      "options": [
+        "iPad",
+        "iPhone",
+        "iPod",
+        "iCar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem asculta muzică la tabletă?",
+      "options": [
+        "Da, are difuzoare sau căști",
+        "Nu, e mută",
+        "Doar dacă îi punem radio",
+        "Doar dacă cântăm noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta ne ajută la școală?",
+      "options": [
+        "Da, putem învăța interactiv",
+        "Nu, ne încurcă mereu",
+        "Doar la ora de desen",
+        "Doar la pauză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă bateria e 'roșie'?",
+      "options": [
+        "O punem la încărcat",
+        "O aruncăm",
+        "O pictăm verde",
+        "O lăsăm așa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ecranul tabletei se curăță?",
+      "options": [
+        "Da, cu o cârpă specială moale",
+        "Cu apă și săpun",
+        "Cu un șervețel umed de masă",
+        "Nu se curăță niciodată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta are jocuri educative?",
+      "options": [
+        "Da, foarte multe și bune",
+        "Nu, sunt doar prostii",
+        "Doar pentru cei mari",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena cu un 'stylus' (creion special)?",
+      "options": [
+        "Da, e ca un creion real",
+        "Nu, e doar un băț",
+        "Doar dacă avem vopsea în el",
+        "Doar dacă e tabletă magică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tableta este portabilă?",
+      "options": [
+        "Da, încape în rucsac",
+        "Nu, e fixă pe perete",
+        "Doar dacă avem roți la ea",
+        "Doar dacă suntem puternici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești bucuros că știi să folosești o tabletă?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (17.7)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Poate",
+        "Mai învăț"
       ],
       "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (17.8)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (17.9)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (17.10)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (17.11)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (17.12)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (17.13)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (17.14)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (17.15)",
-      "options": [
-        "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (17.16)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (17.17)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (17.18)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (17.19)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (17.20)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (17.21)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (17.22)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (17.23)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (17.24)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (17.25)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: tableta",
+      "answer": "tableta"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: deget",
+      "answer": "deget"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: ecran",
+      "answer": "ecran"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: mic",
+      "answer": "mic"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: usor",
+      "answer": "usor"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: poze",
+      "answer": "poze"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: baterie",
+      "answer": "baterie"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: app",
+      "answer": "app"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

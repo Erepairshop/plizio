@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Asztal",
+  "theme": "Egér kattintása",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 1)",
+      "question": "Hány gomb van egy alap egéren?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 2)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 3)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Kettő",
+        "Tíz",
+        "Egy se",
+        "Száz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 4)",
+      "question": "Melyik ujjunk van a bal gombon?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 5)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 6)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Mutatóujj",
+        "Hüvelykujj",
+        "Kisujj",
+        "Gyűrűsujj"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 7)",
+      "question": "Mit csinál a bal kattintás?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 8)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 9)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Kiválasztunk vele valamit",
+        "Törlünk",
+        "Kikapcsolunk",
+        "Gépelünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 10)",
+      "question": "Mire jó a dupla kattintás?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 11)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 12)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Programok indítására",
+        "Rajzolásra",
+        "Alvásra",
+        "Hangerőre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 13)",
+      "question": "Melyik a jobb egérgomb?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 14)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 15)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "A jobb oldali gomb",
+        "A görgő",
+        "Az egér alja",
+        "A kábel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 16)",
+      "question": "Mi a görgő feladata?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 17)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 18)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Görgetés fel és le",
+        "Kattintás",
+        "Színezés",
+        "Törlés"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 19)",
+      "question": "Mit jelent a 'Drag and drop'?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 20)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 21)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Megfog és odahúz",
+        "Dob és üt",
+        "Fut és ugrik",
+        "Eszik és iszik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 22)",
+      "question": "Hogyan tartjuk az egeret?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 23)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 24)",
-      "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Lágyan rásimítunk",
+        "Erősen szorítjuk",
+        "Két kézzel",
+        "Ököllel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Asztal? (Kérdés 25)",
+      "question": "Miért kell az egérpad?",
       "options": [
-        "A opció: Asztal",
-        "B opció: Asztal",
-        "C opció: Asztal"
+        "Hogy könnyebben csússzon",
+        "Hogy melegítse a kezünk",
+        "Dísznek",
+        "Hogy ne kopjon az asztal"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik irányba mozog a nyíl, ha balra toljuk az egeret?",
+      "options": [
+        "Balra",
+        "Jobbra",
+        "Fel",
+        "Le"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan görgetünk lefelé?",
+      "options": [
+        "Magunk felé tekerjük a görgőt",
+        "Elfelé tekerjük",
+        "Kattintunk",
+        "Megrázzuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kijelölés?",
+      "options": [
+        "Kék hátteret kap a választott dolog",
+        "Eltűnik a dolog",
+        "Megváltozik a neve",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelölünk ki több ikont?",
+      "options": [
+        "Húzzunk köréjük keretet",
+        "Egyesével ráütünk",
+        "Beszélünk hozzájuk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor használunk jobb kattintást?",
+      "options": [
+        "Ha menüt akarunk látni",
+        "Ha megnyitunk valamit",
+        "Ha törölni akarunk gyorsan",
+        "Ha rajzolunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha felemeljük az egeret az asztalról?",
+      "options": [
+        "Nem mozog a nyíl",
+        "Tovább mozog",
+        "Kikapcsol a gép",
+        "Robban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e bal kezes az egér?",
+      "options": [
+        "Igen, át lehet állítani",
+        "Nem, csak jobbkezes van",
+        "Csak a drága egér",
+        "Csak a laptopon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kattintunk halkan?",
+      "options": [
+        "Finoman nyomjuk meg",
+        "Erősen ütjük",
+        "Kalapáccsal",
+        "Gyorsan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a touchpad?",
+      "options": [
+        "Laptopon lévő érintőpad",
+        "Egy telefon",
+        "A billentyűzet",
+        "A monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való az egér érzékenysége?",
+      "options": [
+        "Milyen gyorsan mozog a nyíl",
+        "Milyen puha az egér",
+        "Hány gombja van",
+        "Milyen színű"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ujjunkat tesszük a görgőre?",
+      "options": [
+        "Középső vagy mutató",
+        "Hüvelyk",
+        "Kisujj",
+        "Mindent"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tisztítjuk az egeret?",
+      "options": [
+        "Puha, száraz ronggyal",
+        "Vízzel",
+        "Szappannal",
+        "Homokkal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az egér, ha nincs bedugva?",
+      "options": [
+        "Semmit",
+        "Világít",
+        "Megy magától",
+        "Beszél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hová mutat a kurzor hegye?",
+      "options": [
+        "Ahová kattintunk",
+        "Mellé",
+        "A sarokba",
+        "A tálcára"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombot használjuk a legtöbbet?",
+      "options": [
+        "Bal egérgomb",
+        "Jobb egérgomb",
+        "Görgő",
+        "Egyik se"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vezeték nélkül használni az egeret?",
+      "options": [
+        "Igen, bluetooth-szal",
+        "Nem, kell a zsinór",
+        "Csak ha van elem",
+        "Igen, de csak 1 percig"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 1"
+      "question": "Gépeld be: egér",
+      "answer": "egér"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 2"
+      "question": "Gépeld be: kattint",
+      "answer": "kattint"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 3"
+      "question": "Gépeld be: görgő",
+      "answer": "görgő"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 4"
+      "question": "Gépeld be: dupla",
+      "answer": "dupla"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 5"
+      "question": "Gépeld be: jobb",
+      "answer": "jobb"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 6"
+      "question": "Gépeld be: bal",
+      "answer": "bal"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 7"
+      "question": "Gépeld be: húz",
+      "answer": "húz"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 8"
+      "question": "Gépeld be: pad",
+      "answer": "pad"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 9"
+      "question": "Gépeld be: nyíl",
+      "answer": "nyíl"
     },
     {
       "type": "typing",
-      "text": "Asztal nagyon jó 10"
+      "question": "Gépeld be: mutat",
+      "answer": "mutat"
     }
   ]
 }

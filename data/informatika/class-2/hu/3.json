@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Mappák és fájlok",
+  "theme": "Billentyűzet beírás",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 1)",
+      "question": "Melyik a leghosszabb billentyű?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 2)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 3)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Space (szóköz)",
+        "Enter",
+        "Shift",
+        "Esc"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 4)",
+      "question": "Mire jó az Enter gomb?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 5)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 6)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Új sorba lépéshez",
+        "Szóközhöz",
+        "Törléshez",
+        "Kilépéshez"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 7)",
+      "question": "Hogyan írunk nagybetűt?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 8)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 9)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Shift + betű",
+        "Space + betű",
+        "Csak simán",
+        "Enterrel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 10)",
+      "question": "Melyik gombbal törlünk visszafelé?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 11)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 12)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Backspace",
+        "Enter",
+        "Space",
+        "Shift"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 13)",
+      "question": "Hogyan írunk számokat?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 14)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 15)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "A felső sorral vagy a számbillentyűkkel",
+        "Az egérrel",
+        "Sehogy",
+        "Csak betűvel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 16)",
+      "question": "Mire jó a Caps Lock?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 17)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 18)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Folyamatos nagybetűíráshoz",
+        "Törléshez",
+        "Zenehallgatáshoz",
+        "Kikapcsoláshoz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 19)",
+      "question": "Melyik gombbal teszünk szóközt?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 20)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 21)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "Space",
+        "Enter",
+        "Alt",
+        "Ctrl"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 22)",
+      "question": "Hogyan írunk írásjelet (pl. vessző)?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 23)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 24)",
-      "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "A megfelelő gomb megnyomásával",
+        "Egérrel",
+        "Rajzoljuk",
+        "Suttogjuk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Mappák és fájlok? (Kérdés 25)",
+      "question": "Melyik gomb az Esc?",
       "options": [
-        "A opció: Mappák és fájlok",
-        "B opció: Mappák és fájlok",
-        "C opció: Mappák és fájlok"
+        "A bal felső sarokban",
+        "A jobb alsóban",
+        "Középen",
+        "A tálcán"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Delete gomb?",
+      "options": [
+        "Törlésre (előrefelé)",
+        "Mentésre",
+        "Másolásra",
+        "Beillesztésre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány kezet használunk gépeléshez?",
+      "options": [
+        "Mindkettőt",
+        "Csak a jobbat",
+        "Csak a balat",
+        "A lábunkat is"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol vannak a betűk?",
+      "options": [
+        "A billentyűzet közepén",
+        "A szélén",
+        "Az egéren",
+        "A monitoron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a Ctrl?",
+      "options": [
+        "A sarkokban található",
+        "A leghosszabb",
+        "Nincs ilyen",
+        "A gép tetején"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk felkiáltójelet?",
+      "options": [
+        "Shift + 4",
+        "Csak 4",
+        "Space + 4",
+        "Enter + 4"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kurzor a szövegben?",
+      "options": [
+        "A villogó függőleges vonal",
+        "Egy nyíl",
+        "Egy pont",
+        "Egy kukac"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Tab gomb?",
+      "options": [
+        "Nagyot ugrik a szövegben",
+        "Töröl mindent",
+        "Kikapcsolja a gépet",
+        "Zenél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk @ jelet?",
+      "options": [
+        "AltGr + V",
+        "Shift + V",
+        "Ctrl + V",
+        "Space + V"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik billentyűzetkiosztást használjuk Magyarországon?",
+      "options": [
+        "Magyar (QWERTZ)",
+        "Angol (QWERTY)",
+        "Francia",
+        "Kínai"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az AltGr gomb?",
+      "options": [
+        "Különleges jelekhez",
+        "Törléshez",
+        "Kilépéshez",
+        "Nagybetűhöz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálnak a nyíl billentyűk?",
+      "options": [
+        "Mozgatják a kurzort",
+        "Lövik a betűket",
+        "Színeznek",
+        "Törnelk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk ékezetes betűt (pl. á)?",
+      "options": [
+        "Megnyomjuk az 'á' gombot",
+        "Shift + a",
+        "Két 'a' betűvel",
+        "Rajzoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal lehet segítséget kérni?",
+      "options": [
+        "F1",
+        "F12",
+        "Esc",
+        "End"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Home gomb?",
+      "options": [
+        "A sor elejére ugrik",
+        "Hazaviszi a gépet",
+        "Kikapcsol",
+        "Ment"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az End gomb?",
+      "options": [
+        "A sor végére ugrik",
+        "Befejezi a játékot",
+        "Töröl mindent",
+        "Újraindít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kíméljük a csuklónkat?",
+      "options": [
+        "Egyenesen tartjuk",
+        "Behajlítjuk",
+        "Lógatjuk",
+        "Ráülünk"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 1"
+      "question": "Gépeld be: gépel",
+      "answer": "gépel"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 2"
+      "question": "Gépeld be: betű",
+      "answer": "betű"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 3"
+      "question": "Gépeld be: szám",
+      "answer": "szám"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 4"
+      "question": "Gépeld be: szóköz",
+      "answer": "szóköz"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 5"
+      "question": "Gépeld be: törlés",
+      "answer": "törlés"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 6"
+      "question": "Gépeld be: enter",
+      "answer": "enter"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 7"
+      "question": "Gépeld be: shift",
+      "answer": "shift"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 8"
+      "question": "Gépeld be: vonal",
+      "answer": "vonal"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 9"
+      "question": "Gépeld be: pont",
+      "answer": "pont"
     },
     {
       "type": "typing",
-      "text": "Mappák és fájlok nagyon jó 10"
+      "question": "Gépeld be: vessző",
+      "answer": "vessző"
     }
   ]
 }

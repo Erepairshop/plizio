@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "On/Off",
+  "theme": "Composing music",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (22.1)",
+      "question": "Can a computer make music?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (22.2)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (22.3)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Only a radio",
+        "Maybe",
+        "Yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Note'?",
+      "options": [
+        "A written letter",
+        "A musical sound",
+        "A type of food",
+        "A color"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (22.4)",
+      "question": "Can we use different instruments?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "No",
+        "Only one",
+        "Maybe",
+        "Yes, like piano or drum"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Beat'?",
+      "options": [
+        "A type of vegetable",
+        "A toy",
+        "The rhythm",
+        "A sound"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (22.5)",
+      "question": "Can we record our singing?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "No",
+        "Only if we are loud",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (22.6)",
+      "question": "Is 'GarageBand' for music?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
+        "No",
+        "Only for cars",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (22.7)",
+      "question": "What is a 'Playlist'?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (22.8)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "A list of songs",
+        "A playground",
+        "A school",
+        "A toy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (22.9)",
+      "question": "Can we make music for a game?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "No",
+        "Only for movies",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (22.10)",
+      "question": "What is 'Volume'?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (22.11)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (22.12)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (22.13)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (22.14)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (22.15)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "How big it is",
+        "How loud it is",
+        "The color",
+        "The shape"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a password? (22.16)",
+      "question": "Can we change the speed?",
       "options": [
-        "A secret",
-        "A game",
+        "No",
+        "Only for drums",
+        "Maybe",
+        "Yes, Tempo"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Synthesizer'?",
+      "options": [
+        "A type of food",
+        "A bird",
+        "A tool",
+        "An electronic instrument"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use blocks to make music?",
+      "options": [
+        "No",
+        "Only for building",
+        "Maybe",
+        "In some apps, yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is music fun to make?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Song'?",
+      "options": [
+        "A type of food",
         "A color",
-        "A song"
+        "Music with words or notes",
+        "A sound"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (22.17)",
+      "question": "Can we share our music?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "No",
+        "Only with robots",
+        "Maybe",
+        "Yes, with friends"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (22.18)",
+      "question": "What is a 'Loop' in music?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (22.19)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A circle",
+        "A part that repeats",
+        "A game",
+        "A tool"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (22.20)",
+      "question": "Can we hear it on speakers?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "No",
+        "Only with ears",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Composer'?",
+      "options": [
+        "A cook",
+        "Someone who makes music",
+        "A driver",
+        "A teacher"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (22.21)",
+      "question": "Can a computer sound like a violin?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No",
+        "Only like a beep",
+        "Yes",
+        "Maybe"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (22.22)",
+      "question": "What is a 'Melody'?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (22.23)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (22.24)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A type of fruit",
+        "The main tune",
+        "A color",
+        "A sound"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (22.25)",
+      "question": "Can we make loud music?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "No",
+        "Only quiet",
+        "Maybe",
+        "Yes, but be careful!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Dance'?",
+      "options": [
+        "Sleeping",
+        "Eating",
+        "Running",
+        "Moving to music"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use a tablet for music?",
+      "options": [
+        "No",
+        "Only on a piano",
+        "Yes, with apps",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Silence'?",
+      "options": [
+        "No sound",
+        "Loud music",
+        "A game",
+        "A tool"
       ],
       "correct": 0
     },
     {
-      "type": "typing",
-      "text": "music"
+      "type": "mcq",
+      "question": "Is it okay to listen with headphones?",
+      "options": [
+        "No",
+        "Only with speakers",
+        "Maybe",
+        "Yes, at a safe level"
+      ],
+      "correct": 3
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Song'",
+      "answer": "Song"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Note'",
+      "answer": "Note"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Beat'",
+      "answer": "Beat"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'Tone'",
+      "answer": "Tone"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Sound'",
+      "answer": "Sound"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Drum'",
+      "answer": "Drum"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Sing'",
+      "answer": "Sing"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Hear'",
+      "answer": "Hear"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Soft'",
+      "answer": "Soft"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Loud'",
+      "answer": "Loud"
     }
   ]
 }

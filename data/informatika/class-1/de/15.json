@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Max 30 Minuten Bildschirmzeit",
+  "theme": "Scratch Jr.",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was ist Scratch Jr.?",
       "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Programmieren für Kinder",
+        "Ein Malbuch",
+        "Ein Spielzeugauto",
+        "Ein Obst"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Max 30 Minuten Bildschirmzeit?",
+      "question": "Womit programmiert man dort?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Müde.",
-        "Nein.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Mit bunten Blöcken",
+        "Mit viel Text",
+        "Mit der Schere",
+        "Mit Kleber"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "question": "Wer ist die Hauptfigur?",
       "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Eine Katze",
+        "Ein Hund",
+        "Ein Vogel",
+        "Ein Fisch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was macht der gelbe Block?",
       "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt.",
-        "Traurig."
+        "Startet das Programm",
+        "Löscht alles",
+        "Macht Musik",
+        "Malt ein Bild"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was machen blaue Blöcke?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Bewegen die Figur",
+        "Ändern die Farbe",
+        "Machen Töne",
+        "Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was machen lila Blöcke?",
       "options": [
-        "Langweilig.",
-        "Ja!",
-        "Nein.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Langweilig.",
-        "Nein.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Sprechen oder Aussehen",
+        "Rennen",
+        "Springen",
+        "Drehen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "question": "Kann man Töne aufnehmen?",
       "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Ja, mit dem Mikrofon",
+        "Nein",
+        "Nur Vogelgezwitscher",
+        "Nur Musik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was ist die Bühne?",
       "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund."
+        "Wo die Geschichte spielt",
+        "Ein Tisch",
+        "Ein Schrank",
+        "Ein Bett"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "question": "Wie startet man das Programm?",
       "options": [
-        "Ja!",
-        "Nein.",
-        "Müde.",
-        "Langweilig."
+        "Auf die grüne Flagge klicken",
+        "Auf den Monitor hauen",
+        "Laut rufen",
+        "Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "question": "Kann man den Hintergrund ändern?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Ja, es gibt viele Bilder",
+        "Nein, immer weiß",
+        "Nur wenn man malt",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was ist ein Sprite?",
       "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Eine Figur oder ein Objekt",
+        "Ein Getränk",
+        "Ein Spiel",
+        "Ein Film"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was macht der rote Block?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
+        "Beendet das Programm",
+        "Startet das Programm",
+        "Macht Pause",
+        "Macht Krach"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "question": "Kann man eigene Figuren malen?",
       "options": [
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ja, genau."
+        "Ja",
+        "Nein",
+        "Nur am Tablet",
+        "Nur am PC"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was macht der Zahlen-Block?",
       "options": [
-        "Traurig.",
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt."
+        "Sagt wie oft oder wie weit",
+        "Rechnet schwere Aufgaben",
+        "Ist zum Spielen",
+        "Ist zum Essen"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "question": "Was ist ein Projekt?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
+        "Deine eigene Geschichte/Spiel",
+        "Ein Hausaufgaben-Heft",
+        "Ein Malblock",
+        "Ein Buch"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann die Katze hüpfen?",
+      "options": [
+        "Ja, mit dem Hüpf-Block",
+        "Nein",
+        "Nur wenn sie will",
+        "Nur im Schlaf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Dreh-Block?",
+      "options": [
+        "Die Figur drehen",
+        "Den PC drehen",
+        "Die Musik drehen",
+        "Das Licht drehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mehrere Figuren haben?",
+      "options": [
+        "Ja, ganz viele",
+        "Nein, nur eine",
+        "Nur zwei",
+        "Nur drei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Vergrößer-Block?",
+      "options": [
+        "Figur wird größer",
+        "Figur wird kleiner",
+        "Figur verschwindet",
+        "Figur taucht auf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Nachrichten senden?",
+      "options": [
+        "Ja, zwischen Figuren",
+        "Nein, nie",
+        "Nur E-Mails",
+        "Nur Briefe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Mal-Editor?",
+      "options": [
+        "Hier malt man Figuren",
+        "Hier isst man",
+        "Hier schläft man",
+        "Hier spielt man"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Scratch Jr. Spaß?",
+      "options": [
+        "Ja, riesig",
+        "Nein",
+        "Nur Lehrern",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Projekte speichern?",
+      "options": [
+        "Ja, automatisch",
+        "Nein, nie",
+        "Nur auf Papier",
+        "Nur im Kopf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Fullscreen-Ansicht?",
+      "options": [
+        "Das Projekt groß sehen",
+        "Den PC ausschalten",
+        "Ein Spiel löschen",
+        "Ein Bild malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Scratch Jr. am Tablet?",
+      "options": [
+        "Ja, dafür ist es gemacht",
+        "Nein",
+        "Nur am Handy",
+        "Nur am Fernseher"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Katze",
+      "answer": "Katze"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Block",
+      "answer": "Block"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Ton",
+      "answer": "Ton"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Bühne",
+      "answer": "Bühne"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Skript",
+      "answer": "Skript"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Malen",
+      "answer": "Malen"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Hüpfen",
+      "answer": "Hüpfen"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Drehen",
+      "answer": "Drehen"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Grün",
+      "answer": "Grün"
     }
   ]
 }

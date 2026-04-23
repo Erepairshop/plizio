@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Farben",
+  "theme": "Roboter",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
+      "question": "Was ist ein Roboter?",
       "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund."
+        "Eine programmierbare Maschine",
+        "Ein echtes Tier",
+        "Ein Mensch aus Fleisch",
+        "Ein magisches Wesen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Farben?",
+      "question": "Brauchen Roboter Strom?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Ja, aus Akkus oder Kabel",
+        "Nein, sie essen Brot",
+        "Nur wenn sie wackeln",
+        "Nur wenn sie schlafen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
+      "question": "Was ist ein Befehl?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
-      "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
-      "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Eine Anweisung für den Roboter",
+        "Ein Geschenk",
+        "Ein lauter Schrei",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
+      "question": "Haben Roboter Gefühle?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Farben?",
-      "options": [
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Farben?",
-      "options": [
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Nein, sie folgen Programmen",
+        "Ja, sie sind immer fröhlich",
+        "Ja, sie können weinen",
+        "Manchmal"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Farben?",
+      "question": "Was ist ein Sensor?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Damit kann der Roboter fühlen/sehen",
+        "Ein Rad",
+        "Ein Arm",
+        "Ein Akku"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
+      "question": "Können Roboter im Weltall helfen?",
       "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Die Katze."
+        "Ja, sehr oft",
+        "Nein, da ist es zu kalt",
+        "Nur wenn sie einen Helm haben",
+        "Nur am Montag"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
+      "question": "Was ist ein Staubsauger-Roboter?",
       "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett."
+        "Putzt allein den Boden",
+        "Macht den Müll",
+        "Kocht Kaffee",
+        "Spielt Musik"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
+      "question": "Können Roboter tanzen?",
       "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund."
+        "Ja, wenn man es ihnen sagt",
+        "Nein, sie sind zu steif",
+        "Nur wenn Musik läuft",
+        "Nur nachts"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Farben?",
+      "question": "Was ist ein Mikrocontroller?",
       "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett."
+        "Das Gehirn des Roboters",
+        "Ein kleiner Motor",
+        "Ein Rad",
+        "Ein Licht"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Farben?",
+      "question": "Brauchen Roboter Menschen?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
+        "Ja, zum Programmieren",
+        "Nein, sie machen alles allein",
+        "Nur zum Saubermachen",
+        "Nur zum Spielen"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Farben?",
+      "question": "Was ist ein Greifarm?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund."
+        "Hand des Roboters",
+        "Fuß des Roboters",
+        "Auge des Roboters",
+        "Ohr des Roboters"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Farben?",
+      "question": "Können Roboter schwimmen?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
+        "Manche können das",
+        "Nein, nie",
+        "Nur wenn sie nicht nass werden",
+        "Nur im Meer"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Farben?",
+      "question": "Was ist Code?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Die Sprache für den Roboter",
+        "Ein Geheimnis",
+        "Ein Name",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Roboter immer aus Metall?",
+      "options": [
+        "Oft, aber nicht immer",
+        "Ja, immer",
+        "Nein, nie",
+        "Nur aus Gold"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter sprechen?",
+      "options": [
+        "Ja, mit Lautsprechern",
+        "Nein, sie piepsen nur",
+        "Nur wenn sie wollen",
+        "Nur im Fernsehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Humanoider Roboter?",
+      "options": [
+        "Sieht aus wie ein Mensch",
+        "Sieht aus wie ein Hund",
+        "Sieht aus wie ein Auto",
+        "Sieht aus wie ein Baum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Arbeiten Roboter in Fabriken?",
+      "options": [
+        "Ja, sie helfen beim Bauen",
+        "Nein, zu gefährlich",
+        "Nur in der Pause",
+        "Nur am Wochenende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Fernsteuerung?",
+      "options": [
+        "Steuern aus der Ferne",
+        "Ein Fernseher",
+        "Ein Telefon",
+        "Ein Computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter lernen?",
+      "options": [
+        "Manche können das (KI)",
+        "Nein, nie",
+        "Nur in der Schule",
+        "Nur mit Büchern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Motor beim Roboter?",
+      "options": [
+        "Damit er sich bewegt",
+        "Damit er denkt",
+        "Damit er sieht",
+        "Damit er hört"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Roboter gefährlich?",
+      "options": [
+        "Nur wenn sie falsch benutzt werden",
+        "Ja, immer",
+        "Nein, nie",
+        "Nur wenn sie groß sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Roboter-Wettbewerb?",
+      "options": [
+        "Roboter treten gegeneinander an",
+        "Ein Quiz für Roboter",
+        "Ein Schönheits-Preis",
+        "Ein Schlaf-Test"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Roboter Haustiere sein?",
+      "options": [
+        "Ja, es gibt Roboter-Hunde",
+        "Nein, zu laut",
+        "Nur wenn sie weich sind",
+        "Nur wenn sie bellen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Rad?",
+      "options": [
+        "Damit der Roboter fährt",
+        "Damit er fliegt",
+        "Damit er springt",
+        "Damit er taucht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Robotik Spaß?",
+      "options": [
+        "Ja, sehr viel",
+        "Nein",
+        "Nur Lehrern",
+        "Nur am Montag"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Roboter",
+      "answer": "Roboter"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Metall",
+      "answer": "Metall"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Befehl",
+      "answer": "Befehl"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Sensor",
+      "answer": "Sensor"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Motor",
+      "answer": "Motor"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Akku",
+      "answer": "Akku"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Arm",
+      "answer": "Arm"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Rad",
+      "answer": "Rad"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Code",
+      "answer": "Code"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Blech",
+      "answer": "Blech"
     }
   ]
 }

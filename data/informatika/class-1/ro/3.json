@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Monitorul",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce vedem pe monitor?",
+      "options": [
+        "Imagini și texte",
+        "Doar negru",
+        "Mâncare",
+        "Haine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul trebuie să fie pornit?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar când e soare",
+        "Dacă vrem să dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem atinge ecranul cu degetele murdare?",
+      "options": [
+        "Nu",
+        "Da",
+        "Doar cu ciocolată",
+        "Dacă vrem să-l pictăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul este o ieșire?",
+      "options": [
+        "Da, ne arată informații",
+        "Nu, este o intrare",
+        "Este o ușă",
+        "Este o fereastră reală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ecranul e prea luminos?",
+      "options": [
+        "Reglăm luminozitatea",
+        "Punem ochelari de soare",
+        "Îl acoperim cu o pătură",
+        "Nu facem nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ecranul are culori?",
+      "options": [
+        "Da, milioane",
+        "Doar alb și negru",
+        "Doar roșu",
+        "Nu are culori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme pe monitor?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă citim o carte",
+        "Nu avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul este televizor?",
+      "options": [
+        "Seamănă, dar e pentru calculator",
+        "Este exact la fel",
+        "Este un radio",
+        "Este o tabletă uriașă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde stă monitorul?",
+      "options": [
+        "Pe birou",
+        "În ghiozdan mereu",
+        "În frigider",
+        "Pe tavan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are de obicei un monitor?",
+      "options": [
+        "Dreptunghiulară",
+        "Rotundă",
+        "Triunghiulară",
+        "Inimioară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă monitorul e stins, vedem ceva?",
+      "options": [
+        "Nu, e negru",
+        "Da, totul",
+        "Doar pozele",
+        "Doar jocurile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum curățăm monitorul?",
+      "options": [
+        "Cu o cârpă moale și uscată",
+        "Cu apă și săpun mult",
+        "Cu peria de sârmă",
+        "Nu îl curățăm niciodată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul are butoane?",
+      "options": [
+        "Da, pentru reglaje",
+        "Nu, deloc",
+        "Doar un buton de volum",
+        "Are taste"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există monitoare tactile (touchscreen)?",
+      "options": [
+        "Da, le atingem cu degetul",
+        "Nu, e imposibil",
+        "Doar în filmele cu roboți",
+        "Doar la televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'pixel'?",
+      "options": [
+        "Un punct mic de lumină",
+        "O bomboană",
+        "O jucărie",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ecranul laptopului este un monitor?",
+      "options": [
+        "Da",
+        "Nu",
+        "Este o tastatură",
+        "Este un mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba imaginea de pe ecran?",
+      "options": [
+        "Da, punem un wallpaper",
+        "Nu, e fixă",
+        "Doar dacă o pictăm",
+        "Doar dacă o cumpărăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul consumă curent?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar când e soare",
+        "Doar când e noapte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să stăm mult timp cu ochii în monitor?",
+      "options": [
+        "Nu, trebuie să facem pauze",
+        "Da, e foarte bine",
+        "Da, ne face deștepți",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se conectează monitorul?",
+      "options": [
+        "La unitatea centrală",
+        "La priză direct",
+        "La mouse",
+        "La tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un monitor LCD?",
+      "options": [
+        "Un tip de ecran plat",
+        "Un suc",
+        "Un joc",
+        "O mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul are ramă?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cele vechi",
+        "Doar cele noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea două monitoare la un calculator?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt gemeni",
+        "Doar dacă sunt mici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul se poate strica dacă îl lovim?",
+      "options": [
+        "Da, e fragil",
+        "Nu, e din fier",
+        "Nu, se repară singur",
+        "Doar dacă îl lovim cu capul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă ecranul e albastru ce înseamnă?",
+      "options": [
+        "Poate fi o eroare sau fundalul",
+        "E ora de culcare",
+        "E gata masa",
+        "Vine ploaia"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ecran",
+      "answer": "ecran"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poza",
+      "answer": "poza"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rosu",
+      "answer": "rosu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: verde",
+      "answer": "verde"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: albastru",
+      "answer": "albastru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: alb",
+      "answer": "alb"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: negru",
+      "answer": "negru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mare",
+      "answer": "mare"
+    }
+  ]
+}

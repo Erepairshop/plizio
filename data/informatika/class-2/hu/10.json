@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Egyszerű szövegszerkesztő",
+  "theme": "Letöltés",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 1)",
+      "question": "Mit jelent the letöltés?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 2)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 3)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Fájlt másolunk az internetről a gépre",
+        "Törlünk a gépről",
+        "Feltöltünk valamit",
+        "Rajzolunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 4)",
+      "question": "Hová kerülnek általában the letöltött fájlok?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 5)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 6)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "A Letöltések (Downloads) mappába",
+        "A Lomtárba",
+        "A konyhába",
+        "A monitor alá"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 7)",
+      "question": "Szabad-e bármit letölteni?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 8)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 9)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Csak engedéllyel és biztonságos helyről",
+        "Igen, bármit",
+        "Csak ami ingyen van",
+        "Csak the játékokat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 10)",
+      "question": "Miért kell várni letöltéskor?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 11)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 12)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Mert az adatoknak idő kell az úton",
+        "Mert the gép pihen",
+        "Mert the net alszik",
+        "Csak viccből"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 13)",
+      "question": "Hogyan látjuk, hogy kész the letöltés?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 14)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 15)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "A böngésző alján vagy szélén látszik",
+        "Megszólal egy duda",
+        "Kikapcsol the gép",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 16)",
+      "question": "Mit tegyünk, ha gyanús fájlt látunk?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 17)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 18)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Ne töltsük le, szóljunk felnőttnek",
+        "Töltsük le gyorsan",
+        "Kattintsunk rá sokat",
+        "Hívjuk át the barátunkat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 19)",
+      "question": "Lehet-e vírust letölteni?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 20)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 21)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Igen, ezért kell óvatosnak lenni",
+        "Nem, the vírus nem szereti",
+        "Csak ha nincs egérpadunk",
+        "Csak éjszaka"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 22)",
+      "question": "Mekkora egy letöltött kép?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 23)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 24)",
-      "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "Pár Megabyte vagy Kilobyte",
+        "100 kiló",
+        "100 méter",
+        "1 gramm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Egyszerű szövegszerkesztő? (Kérdés 25)",
+      "question": "Hogyan állítjuk meg the letöltést?",
       "options": [
-        "A opció: Egyszerű szövegszerkesztő",
-        "B opció: Egyszerű szövegszerkesztő",
-        "C opció: Egyszerű szövegszerkesztő"
+        "A Mégse vagy Stop gombbal",
+        "Kihúzzuk the gépet",
+        "Kiabálunk",
+        "Elmegyünk otthonról"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Feltöltés'?",
+      "options": [
+        "A gépünkről küldünk valamit a netre",
+        "Pakolunk a polcra",
+        "Elemeket töltünk",
+        "Rajzolunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk the letöltött játékkal?",
+      "options": [
+        "Telepíteni kell, ha biztonságos",
+        "Azonnal töröljük",
+        "Együk meg",
+        "Nézzük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan tölthetünk le képeket?",
+      "options": [
+        "Ingyenes és biztonságos oldalakról",
+        "Bárhonnan, mindegy",
+        "Csak a Facebookról",
+        "Sehonnan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a PDF?",
+      "options": [
+        "Egy fajta dokumentum fájl",
+        "Egy állat",
+        "Egy étel",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha megszakad the net letöltés közben?",
+      "options": [
+        "Leáll the letöltés",
+        "Folytatódik magától",
+        "Felrobban the gép",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kell-e fizetni minden letöltésért?",
+      "options": [
+        "Nem, sok minden ingyenes",
+        "Igen, mindenért",
+        "Csak ha színes",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the tömörített fájl (.zip)?",
+      "options": [
+        "Hogy kisebb helyet foglaljon",
+        "Hogy ne legyen benne víz",
+        "Hogy gyorsabb legyen the gép",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nyitjuk meg the letöltött fájlt?",
+      "options": [
+        "Kattintunk rá a böngészőben vagy a mappában",
+        "Ránézünk",
+        "Várunk",
+        "Kikapcsoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e zenét letölteni?",
+      "options": [
+        "Igen, legális oldalakról",
+        "Nem, tilos",
+        "Csak ha tudunk énekelni",
+        "Csak ha van fülhallgatónk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az App Store vagy Play Áruház?",
+      "options": [
+        "Alkalmazások letöltésére való hely",
+        "Egy igazi bolt",
+        "Egy játszótér",
+        "A gép neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan töröljük the letöltött fájlt, ha már nem kell?",
+      "options": [
+        "Kijelöljük és Delete",
+        "Letakarjuk",
+        "Megesszük",
+        "Kihúzzuk the gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a vírusirtó letöltéskor?",
+      "options": [
+        "Ellenőrzi, hogy ne legyen baj",
+        "Gyorsítja the netet",
+        "Kiszínezi the fájlt",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'Save image as'?",
+      "options": [
+        "Kép mentése másként",
+        "Kép törlése",
+        "Kép küldése",
+        "Kép nézése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e könyvet letölteni?",
+      "options": [
+        "Igen, e-könyveket",
+        "Nem, csak papíron van",
+        "Csak ha tudunk olvasni",
+        "Csak ha van polcunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the letöltési sebesség?",
+      "options": [
+        "Megmutatja, milyen gyorsan ér ide a fájl",
+        "Megmutatja, milyen gyors az egér",
+        "A gép színe",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha elfogy a hely a gépen?",
+      "options": [
+        "Töröljük the felesleges letöltéseket",
+        "Vegyünk új monitort",
+        "Dobjuk ki the gépet",
+        "Sírjunk"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 1"
+      "question": "Gépeld be: letölt",
+      "answer": "letölt"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 2"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 3"
+      "question": "Gépeld be: fájl",
+      "answer": "fájl"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 4"
+      "question": "Gépeld be: mentés",
+      "answer": "mentés"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 5"
+      "question": "Gépeld be: mappa",
+      "answer": "mappa"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 6"
+      "question": "Gépeld be: vár",
+      "answer": "vár"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 7"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 8"
+      "question": "Gépeld be: internet",
+      "answer": "internet"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 9"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Egyszerű szövegszerkesztő nagyon jó 10"
+      "question": "Gépeld be: biztonság",
+      "answer": "biztonság"
     }
   ]
 }

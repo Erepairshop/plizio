@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Colors",
+  "theme": "Robot",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How long should we play? (13.1)",
+      "question": "What is a robot?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "A type of animal",
+        "A machine that works",
+        "A plant",
+        "A toy"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (13.2)",
+      "question": "Do robots have brains?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A computer brain",
+        "A real brain",
+        "No brain",
+        "A sandwich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can robots do?",
+      "options": [
+        "Only sleep",
+        "Many tasks",
+        "Only eat",
+        "Nothing"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (13.3)",
+      "question": "Can a robot move?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "No",
+        "Only if it's windy",
+        "Maybe",
+        "Yes, if programmed"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (13.4)",
+      "question": "Do robots need power?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "No",
+        "Yes, batteries or plugs",
+        "Only juice",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (13.5)",
+      "question": "Can robots talk?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
+        "Some can",
+        "None can",
+        "Only if happy",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (13.6)",
+      "question": "What is 'Programming'?",
       "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "Eating",
+        "Sleeping",
+        "Running",
+        "Telling a robot what to do"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (13.7)",
+      "question": "Are robots made of metal?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "Always gold",
+        "Often yes",
+        "Always wood",
+        "Never"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (13.8)",
+      "question": "Can robots help at home?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "No",
+        "Yes, like vacuuming",
+        "Only in space",
+        "Maybe"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (13.9)",
+      "question": "Is a toy car a robot?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (13.10)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "Sometimes",
+        "No",
+        "Always",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (13.11)",
+      "question": "Can robots think for themselves?",
+      "options": [
+        "Only what they are told",
+        "Yes, like people",
+        "No",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Sensors'?",
+      "options": [
+        "Robot's eyes and ears",
+        "Robot's food",
+        "Robot's shoes",
+        "Robot's hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a robot see colors?",
+      "options": [
+        "No",
+        "Only red",
+        "Maybe",
+        "With a sensor, yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Do robots get tired?",
+      "options": [
+        "No, but batteries run out",
+        "Yes",
+        "Only at night",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Command'?",
+      "options": [
+        "A type of food",
+        "An instruction",
+        "A color",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can robots go to space?",
+      "options": [
+        "No",
+        "Yes, like rovers",
+        "Only in movies",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Are robots always smart?",
+      "options": [
+        "Yes, always",
+        "No",
+        "Maybe",
+        "Only as smart as code"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we build robots?",
+      "options": [
+        "Yes, with kits",
+        "No",
+        "Only experts",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a robot a friend?",
+      "options": [
+        "Can be a helper",
+        "No",
+        "Only in space",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What makes a robot move?",
+      "options": [
+        "Motors",
+        "Magic",
+        "Wind",
+        "Water"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a robot draw?",
+      "options": [
+        "No",
+        "Only cats can",
+        "Maybe",
+        "Yes, some can"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Are robots in movies?",
+      "options": [
+        "No",
+        "Only once",
+        "Maybe",
+        "Yes, many!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can a robot swim?",
+      "options": [
+        "No",
+        "Some special ones can",
+        "All of them",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Logic'?",
+      "options": [
+        "How a robot 'thinks'",
+        "A type of food",
+        "A color",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Will robots do everything?",
       "options": [
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (13.12)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (13.13)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (13.14)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (13.15)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (13.16)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (13.17)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (13.18)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (13.19)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (13.20)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (13.21)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (13.22)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (13.23)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (13.24)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (13.25)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "Maybe",
+        "No, they need us",
+        "Only for work"
       ],
       "correct": 2
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'Gear'",
+      "answer": "Gear"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Metal'",
+      "answer": "Metal"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Move'",
+      "answer": "Move"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Turn'",
+      "answer": "Turn"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Talk'",
+      "answer": "Talk"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Robot'",
+      "answer": "Robot"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Bot'",
+      "answer": "Bot"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Step'",
+      "answer": "Step"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Go'",
+      "answer": "Go"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Arm'",
+      "answer": "Arm"
     }
   ]
 }

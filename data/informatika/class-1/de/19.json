@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Eltern fragen",
+  "theme": "Ton/Video",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
+      "question": "Womit hört man Ton am PC?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Lautsprecher/Kopfhörer",
+        "Monitor",
+        "Maus",
+        "Tastatur"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
+      "question": "Womit nimmt man Ton auf?",
       "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Eltern fragen?",
-      "options": [
-        "Traurig.",
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Eltern fragen?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
+        "Mikrofon",
+        "Kamera",
+        "Box",
+        "Kabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
+      "question": "Was ist ein Video?",
       "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Bewegte Bilder mit Ton",
+        "Ein Foto",
+        "Ein Lied",
+        "Ein Buch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Eltern fragen?",
+      "question": "Was bedeutet 'Stumm'?",
       "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Eltern fragen?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Kein Ton zu hören",
+        "Sehr laut",
+        "Sehr leise",
+        "Sehr bunt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
+      "question": "Was ist die Lautstärke?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Wie laut oder leise es ist",
+        "Wie schwer es ist",
+        "Wie bunt es ist",
+        "Wie groß es ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
+      "question": "Was ist ein Musik-Player?",
       "options": [
-        "Nein.",
-        "Müde.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Eltern fragen?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Eltern fragen?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Eltern fragen?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein."
+        "Programm zum Musik hören",
+        "Ein Spiel",
+        "Ein Malprogramm",
+        "Ein Ordner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
+      "question": "Was bedeutet 'Play'?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Eltern fragen?",
-      "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Eltern fragen?",
-      "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Eltern fragen?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum."
+        "Abspielen",
+        "Pause",
+        "Stopp",
+        "Löschen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "question": "Was bedeutet 'Pause'?",
       "options": [
-        "Traurig.",
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Eltern fragen?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Kurz anhalten",
+        "Ganz aufhören",
+        "Lauter machen",
+        "Leiser machen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "question": "Was bedeutet 'Stopp'?",
       "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
+        "Ganz aufhören",
+        "Weitermachen",
+        "Singen",
+        "Tanzen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Eltern fragen?",
+      "question": "Was sind Kopfhörer?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer."
+        "Lautsprecher für die Ohren",
+        "Ein Hut",
+        "Eine Brille",
+        "Ein Schal"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC singen?",
+      "options": [
+        "Ja, mit Mikrofon",
+        "Nein, verboten",
+        "Nur im Keller",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein YouTube-Video?",
+      "options": [
+        "Ein Film im Internet",
+        "Ein Buch",
+        "Ein Foto",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Podcast?",
+      "options": [
+        "Eine Sendung zum Hören",
+        "Ein Film",
+        "Ein Bild",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein MP3?",
+      "options": [
+        "Ein Musik-Format",
+        "Ein Auto",
+        "Ein Tier",
+        "Ein Haus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man nicht zu laut hören?",
+      "options": [
+        "Schlecht für die Ohren",
+        "PC geht kaputt",
+        "Strom ist teuer",
+        "Monitor wird dunkel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Mikrofon-Stativ?",
+      "options": [
+        "Halter für das Mikrofon",
+        "Ein Stuhl",
+        "Ein Tisch",
+        "Ein Bett"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Video-Anruf?",
+      "options": [
+        "Sprechen und Sehen",
+        "Nur Sprechen",
+        "Nur Schreiben",
+        "Nur Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Playlist?",
+      "options": [
+        "Liste mit vielen Liedern",
+        "Ein Spielzeug",
+        "Ein Buch",
+        "Ein Foto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Videos schneiden?",
+      "options": [
+        "Ja, am PC",
+        "Nein, nie",
+        "Nur mit der echten Schere",
+        "Nur mit dem Messer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Untertitel?",
+      "options": [
+        "Text im Video zum Lesen",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sound-Effekt?",
+      "options": [
+        "Besonderes Geräusch",
+        "Ein Bild",
+        "Ein Licht",
+        "Ein Stein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Streaming-Dienst?",
+      "options": [
+        "Filme/Musik übers Internet",
+        "Ein Fluss im Wald",
+        "Ein Regen",
+        "Ein Bad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ton am PC ändern?",
+      "options": [
+        "Ja, tiefer oder höher",
+        "Nein, nie",
+        "Nur am Montag",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Hörbuch?",
+      "options": [
+        "Ein Buch zum Anhören",
+        "Ein Buch zum Malen",
+        "Ein Buch zum Riechen",
+        "Ein Buch zum Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Lautsprecher-Regler?",
+      "options": [
+        "Knopf für die Lautstärke",
+        "Ein Spiel",
+        "Ein Bild",
+        "Ein Keks"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Ton",
+      "answer": "Ton"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Musik",
+      "answer": "Musik"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Laut",
+      "answer": "Laut"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Leise",
+      "answer": "Leise"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Video",
+      "answer": "Video"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Hören",
+      "answer": "Hören"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Sprechen",
+      "answer": "Sprechen"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Lied",
+      "answer": "Lied"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Box",
+      "answer": "Box"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Mikro",
+      "answer": "Mikro"
     }
   ]
 }

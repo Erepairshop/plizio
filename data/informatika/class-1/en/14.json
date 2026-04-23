@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Sitting correctly",
+  "theme": "Intro to programming",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (14.1)",
+      "question": "What is code?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (14.2)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (14.3)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (14.4)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (14.5)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
+        "A secret language",
+        "Instructions for computer",
+        "A type of food",
         "A song"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (14.6)",
+      "question": "What is a 'Step'?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (14.7)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (14.8)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (14.9)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (14.10)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (14.11)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (14.12)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (14.13)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (14.14)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "A type of shoe",
+        "One instruction",
+        "A color",
+        "A sound"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (14.15)",
+      "question": "Do we need to be in order?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "No",
+        "Yes, step by step",
+        "Doesn't matter",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (14.16)",
+      "question": "What is a 'Loop'?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (14.17)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "Doing something again",
+        "A type of fruit",
+        "A color",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (14.18)",
+      "question": "Can we code a game?",
+      "options": [
+        "No",
+        "Only for experts",
+        "Yes!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bug'?",
+      "options": [
+        "A mistakemistake in code",
+        "A real spider",
+        "A type of food",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we fix a bug?",
+      "options": [
+        "Squash it",
+        "Find and change it",
+        "Cry",
+        "Ignore it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Scratch' for coding?",
       "options": [
         "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Only for drawing",
+        "Maybe"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (14.19)",
+      "question": "What is a 'Block'?",
       "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "A toy",
+        "A house",
+        "A piece of code",
+        "A sound"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (14.20)",
+      "question": "Can we make a character move?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (14.21)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "No",
+        "Yes",
+        "Only with magic",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (14.22)",
+      "question": "What is 'Start'?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "The beginning of code",
+        "The end",
+        "A color",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (14.23)",
+      "question": "Can we code on a tablet?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (14.24)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "No",
+        "Only on paper",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (14.25)",
+      "question": "Is coding like a puzzle?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No",
+        "Only for adults",
+        "Yes, a bit",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Algorithm'?",
+      "options": [
+        "A type of bird",
+        "A car",
+        "A set of rules",
+        "A tool"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can coding be fun?",
+      "options": [
+        "No",
+        "Yes, very!",
+        "Sometimes",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Do robots use code?",
+      "options": [
+        "Yes, always",
+        "No",
+        "Only some",
+        "Maybe"
       ],
       "correct": 0
     },
     {
-      "type": "typing",
-      "text": "color"
+      "type": "mcq",
+      "question": "What is 'If... then'?",
+      "options": [
+        "A type of food",
+        "A choice in code",
+        "A color",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make music with code?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only songs",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Sprite'?",
+      "options": [
+        "A character in code",
+        "A drink",
+        "A bird",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we change the background?",
+      "options": [
+        "No",
+        "Only if it's blue",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Testing'?",
+      "options": [
+        "Checking if it works",
+        "A hard school work",
+        "A game",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we share our code?",
+      "options": [
+        "No",
+        "Only with robots",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is code made of words or blocks?",
+      "options": [
+        "Only words",
+        "Only blocks",
+        "Only numbers",
+        "Can be both"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make a story with code?",
+      "options": [
+        "No",
+        "Yes",
+        "Only games",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Green Flag'?",
+      "options": [
+        "Ends the program",
+        "A color",
+        "Starts the program",
+        "A sound"
+      ],
+      "correct": 2
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Code'",
+      "answer": "Code"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Logic'",
+      "answer": "Logic"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'Order'",
+      "answer": "Order"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Block'",
+      "answer": "Block"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Run'",
+      "answer": "Run"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'Bug'",
+      "answer": "Bug"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'Loop'",
+      "answer": "Loop"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Step'",
+      "answer": "Step"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'If'",
+      "answer": "If"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Then'",
+      "answer": "Then"
     }
   ]
 }

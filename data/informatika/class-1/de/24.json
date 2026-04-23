@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Lieblingsfigur",
+  "theme": "Netiquette",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Lieblingsfigur?",
+      "question": "Was ist Netiquette?",
       "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Lieblingsfigur?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lieblingsfigur?",
-      "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lieblingsfigur?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Gutes Benehmen im Internet",
+        "Ein neues Spiel",
+        "Ein bunter Fisch",
+        "Ein lauter Ton"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "question": "Soll man nett zu anderen sein?",
       "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde.",
-        "Kalt."
+        "Ja, immer",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur wenn man gewinnt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
+      "question": "Darf man andere beleidigen?",
       "options": [
-        "Langweilig.",
-        "Ja!",
-        "Müde.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
-      "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Nein, das ist verboten",
+        "Ja, wenn sie stören",
+        "Nur aus Spaß",
+        "Nur wenn sie klein sind"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Lieblingsfigur?",
+      "question": "Was bedeutet 'Bitte' und 'Danke'?",
       "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Höflichkeit",
+        "Ein Spiel",
+        "Ein Fehler",
+        "Ein Geheimnis"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Lieblingsfigur?",
+      "question": "Sollte man schreien (Großbuchstaben)?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lieblingsfigur?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Nein, das gilt als unhöflich",
+        "Ja, immer",
+        "Nur wenn man sauer ist",
+        "Nur wenn es laut ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "question": "Darf man Lügen verbreiten?",
       "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt.",
-        "Müde."
+        "Nein, immer bei der Wahrheit bleiben",
+        "Ja, wenn es lustig ist",
+        "Nur über Fremde",
+        "Nur am Montag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Lieblingsfigur?",
+      "question": "Was macht man bei Streit?",
       "options": [
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Ruhig bleiben und Hilfe holen",
+        "Zurückschimpfen",
+        "PC kaputt machen",
+        "Weinen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "question": "Darf man Fotos von anderen posten?",
       "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
-      "options": [
-        "Nein.",
-        "Langweilig.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
-      "options": [
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Lieblingsfigur?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Lieblingsfigur?",
-      "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Lieblingsfigur?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Nur wenn sie es erlauben",
+        "Ja, immer",
+        "Nur wenn sie lustig aussehen",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "question": "Sollte man Fremden vertrauen?",
       "options": [
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde."
+        "Nein, vorsichtig sein",
+        "Ja, jedem",
+        "Nur wenn sie nett schreiben",
+        "Nur wenn sie Geschenke haben"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Lieblingsfigur?",
+      "question": "Was ist Respekt?",
       "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht."
+        "Anderen höflich begegnen",
+        "Ein Spiel",
+        "Ein Wort",
+        "Ein Ton"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Lieblingsfigur?",
+      "question": "Darf man Geheimnisse weitersagen?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer."
+        "Nein, privat halten",
+        "Ja, immer",
+        "Nur an Freunde",
+        "Nur im Chat"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Smiley/Emoji?",
+      "options": [
+        "Zeigt Gefühle im Text",
+        "Ein echtes Gesicht",
+        "Ein bunter Ball",
+        "Ein Hut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Regeln einhalten?",
+      "options": [
+        "Ja, für ein gutes Miteinander",
+        "Nein, stört nur",
+        "Nur wenn man muss",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Cyber-Mobbing?",
+      "options": [
+        "Anderen im Netz wehtun",
+        "Ein Fahrrad",
+        "Ein Spiel",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man einfach mitspielen?",
+      "options": [
+        "Ja, wenn man nett fragt",
+        "Nein, nie",
+        "Nur wenn man gewinnt",
+        "Nur am Wochenende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Begrüßung?",
+      "options": [
+        "Hallo sagen",
+        "Tschüss sagen",
+        "Nichts sagen",
+        "Weglaufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Verabschiedung?",
+      "options": [
+        "Tschüss sagen",
+        "Hallo sagen",
+        "Singen",
+        "Tanzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Zeitlimits beachten?",
+      "options": [
+        "Ja, Pausen sind wichtig",
+        "Nein, ewig spielen",
+        "Nur wenn es dunkel ist",
+        "Nur wenn es regnet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht man bei blöden Sprüchen?",
+      "options": [
+        "Ignorieren oder melden",
+        "Mitmachen",
+        "Lachen",
+        "Weinen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Forum?",
+      "options": [
+        "Platz zum Austauschen",
+        "Ein Wald",
+        "Ein Berg",
+        "Ein See"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Spiele hacken?",
+      "options": [
+        "Nein, das ist unfair und verboten",
+        "Ja, macht Spaß",
+        "Nur wenn es schwer ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Fairplay?",
+      "options": [
+        "Ehrliches Spielen",
+        "Immer gewinnen",
+        "Schummeln",
+        "Anderen den PC wegnehmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man anderen helfen?",
+      "options": [
+        "Ja, wenn man kann",
+        "Nein, jeder für sich",
+        "Nur gegen Geld",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Moderator?",
+      "options": [
+        "Passt auf die Regeln auf",
+        "Ein Bäcker",
+        "Ein Maler",
+        "Ein Läufer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht ein freundliches Netz Spaß?",
+      "options": [
+        "Ja, allen zusammen",
+        "Nein",
+        "Nur den Großen",
+        "Nur am Freitag"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Nett",
+      "answer": "Nett"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Gruß",
+      "answer": "Gruß"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Danke",
+      "answer": "Danke"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Bitte",
+      "answer": "Bitte"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Worte",
+      "answer": "Worte"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Freund",
+      "answer": "Freund"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Teilen",
+      "answer": "Teilen"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Helfen",
+      "answer": "Helfen"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Respekt",
+      "answer": "Respekt"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Höflich",
+      "answer": "Höflich"
     }
   ]
 }

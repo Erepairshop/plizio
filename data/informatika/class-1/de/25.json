@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Kreatives Spiel",
+  "theme": "Zusammenfassung",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Kreatives Spiel?",
+      "question": "Was haben wir gelernt?",
       "options": [
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Kalt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Kreatives Spiel?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Kreatives Spiel?",
-      "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Kreatives Spiel?",
-      "options": [
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Viel über Computer",
+        "Wie man kocht",
+        "Wie man fliegt",
+        "Nichts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
+      "question": "Ist ein PC nützlich?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Kreatives Spiel?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten."
+        "Ja, zum Lernen und Spielen",
+        "Nein, nur Müll",
+        "Nur zum Schlafen",
+        "Nur zum Essen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Kreatives Spiel?",
+      "question": "Was ist am wichtigsten?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel."
+        "Spaß und Sicherheit",
+        "Schnell sein",
+        "Reich sein",
+        "Laut sein"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Kreatives Spiel?",
+      "question": "Können Kinder am PC malen?",
       "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Ja, sehr gut",
+        "Nein, nie",
+        "Nur Erwachsene",
+        "Nur im Museum"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Kreatives Spiel?",
+      "question": "Braucht man Pausen?",
       "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Ja, für die Augen und den Kopf",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur wenn der PC glüht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Kreatives Spiel?",
+      "question": "Was ist eine Maus?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Kreatives Spiel?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein."
+        "Ein Gerät zum Steuern",
+        "Ein echtes Tier",
+        "Ein Keks",
+        "Ein Hut"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
+      "question": "Was ist eine Tastatur?",
       "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Kreatives Spiel?",
-      "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Vogel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Zum Buchstaben tippen",
+        "Zum Musik hören",
+        "Zum Schlafen",
+        "Zum Waschen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Kreatives Spiel?",
+      "question": "Was zeigt der Monitor?",
       "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Kreatives Spiel?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Müde.",
-        "Traurig."
+        "Bilder und Text",
+        "Essen",
+        "Geruch",
+        "Wärme"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Kreatives Spiel?",
+      "question": "Was ist das Internet?",
       "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum."
+        "Ein riesiges Netzwerk",
+        "Ein kleiner Kasten",
+        "Ein Buch",
+        "Ein Kabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Kreatives Spiel?",
+      "question": "Was ist ein Passwort?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Ein geheimer Schutz",
+        "Ein Spiel",
+        "Ein Name",
+        "Ein Bild"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Kreatives Spiel?",
+      "question": "Was macht ein Roboter?",
       "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel."
+        "Befehle ausführen",
+        "Essen kochen",
+        "Haus putzen",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Code?",
+      "options": [
+        "Sprache für den PC",
+        "Ein Geheimnis",
+        "Ein Witz",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet wischen?",
+      "options": [
+        "Ja, zum Steuern",
+        "Nein, verboten",
+        "Nur zum Putzen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht eine Kamera?",
+      "options": [
+        "Fotos und Videos",
+        "Musik",
+        "Essen",
+        "Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Netz nett sein?",
+      "options": [
+        "Ja, das ist wichtig",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur am Freitag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ordner?",
+      "options": [
+        "Zum Aufräumen von Dateien",
+        "Zum Essen",
+        "Zum Schlafen",
+        "Zum Fliegen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Speichern?",
+      "options": [
+        "Dinge behalten",
+        "Dinge löschen",
+        "Dinge vergessen",
+        "Dinge essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Spiel?",
+      "options": [
+        "Spaß am Computer",
+        "Arbeit",
+        "Schule",
+        "Schlaf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Note?",
+      "options": [
+        "Ein Ton in der Musik",
+        "Ein Krümel",
+        "Ein Stein",
+        "Ein Blatt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Icon?",
+      "options": [
+        "Ein kleines Bildchen",
+        "Ein großer Hund",
+        "Ein lauter Ton",
+        "Ein Stein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Cursor?",
+      "options": [
+        "Der blinkende Strich",
+        "Ein Tier",
+        "Ein Ball",
+        "Ein Hut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser?",
+      "options": [
+        "Programm für Webseiten",
+        "Ein Spiel",
+        "Ein Malprogramm",
+        "Ein Ordner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Hardware?",
+      "options": [
+        "Teile zum Anfassen",
+        "Programme",
+        "Essen",
+        "Kleidung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Software?",
+      "options": [
+        "Programme",
+        "Kuscheltiere",
+        "Hardware",
+        "Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Bist du jetzt ein Computer-Profi?",
+      "options": [
+        "Ja, schon ein kleiner",
+        "Nein, nie",
+        "Vielleicht",
+        "Nur wenn ich schlafe"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Wissen",
+      "answer": "Wissen"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Test",
+      "answer": "Test"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Ende",
+      "answer": "Ende"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Super",
+      "answer": "Super"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Diplom",
+      "answer": "Diplom"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Erfolg",
+      "answer": "Erfolg"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Zukunft",
+      "answer": "Zukunft"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Fertig",
+      "answer": "Fertig"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Kind",
+      "answer": "Kind"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Computer",
+      "answer": "Computer"
     }
   ]
 }

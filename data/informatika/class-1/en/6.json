@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Drawing",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What tool do we use to draw a line?",
+      "options": [
+        "Eraser tool",
+        "Fill tool",
+        "Pencil tool",
+        "Text tool"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we make a circle?",
+      "options": [
+        "Hammer",
+        "Mouse only",
+        "Typing 'Circle'",
+        "Shape tool"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What color is the sky usually in a drawing?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Brown"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we erase a mistake in a drawing?",
+      "options": [
+        "No",
+        "Only on Mondays",
+        "Yes",
+        "Never"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What tool fills a shape with color?",
+      "options": [
+        "Paint bucket",
+        "Brush",
+        "Pencil",
+        "Eraser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw with a mouse?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with a pen",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Paint' a drawing program?",
+      "options": [
+        "No",
+        "Only for walls",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What can we draw on a computer?",
+      "options": [
+        "Only squares",
+        "Anything",
+        "Only cats",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use many colors?",
+      "options": [
+        "Yes",
+        "No",
+        "Only two",
+        "Only black"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we save our drawing?",
+      "options": [
+        "Turn off",
+        "Wait",
+        "Click Save",
+        "Draw more"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What tool makes thick lines?",
+      "options": [
+        "Pencil",
+        "Brush",
+        "Eraser",
+        "Airbrush"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we add text to a drawing?",
+      "options": [
+        "No",
+        "Only numbers",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What shape has 3 sides?",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Star"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we copy a drawing?",
+      "options": [
+        "No",
+        "Only if it's small",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What tool makes spray paint effects?",
+      "options": [
+        "Pencil",
+        "Bucket",
+        "Text",
+        "Airbrush"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we undo a mistake?",
+      "options": [
+        "No",
+        "Only once",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is drawing on a computer fun?",
+      "options": [
+        "No",
+        "Yes",
+        "Maybe",
+        "Sometimes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw a house?",
+      "options": [
+        "No",
+        "Only if we are architects",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What tool selects a part of the drawing?",
+      "options": [
+        "Selection tool",
+        "Bucket",
+        "Brush",
+        "Pencil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we zoom in to see details?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on tablets",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What color do you get by mixing red and blue?",
+      "options": [
+        "Green",
+        "Orange",
+        "Purple",
+        "Yellow"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use a touch screen to draw?",
+      "options": [
+        "No",
+        "Only if we have a stylus",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the white area we draw on called?",
+      "options": [
+        "Canvas",
+        "Paper",
+        "Floor",
+        "Table"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we print our drawing?",
+      "options": [
+        "No",
+        "Only if it's good",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is a mouse a good tool for drawing?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Color'",
+      "answer": "Color"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Paint'",
+      "answer": "Paint"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Brush'",
+      "answer": "Brush"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Line'",
+      "answer": "Line"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Shape'",
+      "answer": "Shape"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Draw'",
+      "answer": "Draw"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Red'",
+      "answer": "Red"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Blue'",
+      "answer": "Blue"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Star'",
+      "answer": "Star"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Sun'",
+      "answer": "Sun"
+    }
+  ]
+}

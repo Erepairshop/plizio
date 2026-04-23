@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "O imagine prietenoasă",
+  "theme": "Desenăm pas cu pas",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce este o parolă? (20.1)",
+      "question": "Ce înseamnă să desenăm 'pas cu pas'?",
       "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Să urmăm etape simple până la final",
+        "Să alergăm în timp ce desenăm",
+        "Să facem totul dintr-o dată",
+        "Să desenăm cu picioarele"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (20.2)",
+      "question": "Cu ce începem un desen de obicei?",
+      "options": [
+        "Cu forme simple (cercuri, linii)",
+        "Cu detaliile mici",
+        "Cu semnătura",
+        "Cu coloratul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena un animal din forme?",
+      "options": [
+        "Da, de exemplu un urs din cercuri",
+        "Nu, animalele sunt prea grele",
+        "Doar dacă avem poze cu ele",
+        "Doar dacă sunt de jucărie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă greșim un pas, ce facem?",
+      "options": [
+        "Folosim Undo sau ștergem cu guma",
+        "Aruncăm desenul",
+        "Plângem",
+        "Lăsăm așa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum desenăm o floare?",
+      "options": [
+        "Un cerc la mijloc și petale în jur",
+        "O linie lungă și atât",
+        "O pată mare colorată",
+        "O scriem cu litere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenul pas cu pas ne ajută să?",
+      "options": [
+        "Învățăm să desenăm mai bine",
+        "Mâncăm mai mult",
+        "Dormim mai bine",
+        "Alergăm mai repede"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim idei de desenat pas cu pas?",
+      "options": [
+        "În cărți sau pe internet",
+        "Sub pat",
+        "În buzunar",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena o casă?",
+      "options": [
+        "Da, un pătrat și un triunghi deasupra",
+        "Nu, e prea greu",
+        "Doar dacă suntem arhitecți",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Coloratul este ultimul pas?",
+      "options": [
+        "De obicei da, după ce e gata conturul",
+        "Nu, e primul pas",
+        "E la mijloc",
+        "Nu se colorează niciodată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi rigla pe calculator?",
+      "options": [
+        "Da, sunt instrumente de linii drepte",
+        "Nu, e doar pentru școală",
+        "Doar dacă o punem pe ecran",
+        "Doar dacă e de aur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'conturul'?",
+      "options": [
+        "Linia care marginește desenul",
+        "Culoarea de interior",
+        "Numele artistului",
+        "O pată de mizerie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena o mașină?",
+      "options": [
+        "Da, din dreptunghiuri și cercuri",
+        "Nu, roțile nu se pot face",
+        "Doar dacă avem permis",
+        "Doar dacă e roșie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Răbdarea este importantă la desen?",
+      "options": [
+        "Da, foarte importantă",
+        "Nu, facem repede și gata",
+        "Doar pentru profesori",
+        "Doar pentru roboți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva etapele desenului?",
+      "options": [
+        "Da, salvăm de mai multe ori",
+        "Nu, doar la final",
+        "Doar dacă facem poze cu telefonul",
+        "Doar dacă e magic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum desenăm un soare?",
+      "options": [
+        "Un cerc galben și linii în jur",
+        "Un pătrat albastru",
+        "O linie verde",
+        "O inimioară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenatul ne face creativi?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt creativ"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena o față veselă?",
+      "options": [
+        "Un cerc, două puncte și o linie curbată",
+        "Un triunghi negru",
+        "O pată maro",
+        "O cifră 1"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Folosim multe culori?",
+      "options": [
+        "Da, cât de multe vrem",
+        "Doar una singură",
+        "Doar negru",
+        "Doar gri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește cel care desenează?",
+      "options": [
+        "Artist sau desenator",
+        "Doctor",
+        "Bucătar",
+        "Pompier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena pe un fundal colorat?",
       "options": [
         "Da",
+        "Nu, fundalul e mereu alb",
+        "Doar dacă e noapte",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenul de pe calculator este curat?",
+      "options": [
+        "Da, nu ne murdărim pe mâini",
+        "Nu, e mult praf",
+        "E plin de cerneală",
+        "E plin de acuarele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem printa desenul nostru?",
+      "options": [
+        "Da, ca să-l punem pe perete",
+        "Nu, rămâne în calculator",
+        "Doar dacă îl fotografiem",
+        "Doar dacă îl copiem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este greu să desenăm?",
+      "options": [
+        "Nu, dacă învățăm pas cu pas",
+        "Da, e cel mai greu lucru",
+        "Doar dacă nu avem mouse",
+        "Doar dacă suntem mici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să desenezi ceva acum?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (20.3)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Mai târziu",
+        "Nu știu"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (20.4)",
+      "question": "Fiecare desen este unic?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Da, al tău e special",
+        "Nu, toate sunt la fel",
+        "Doar cele din muzeu",
+        "Doar cele colorate"
       ],
       "correct": 0
     },
     {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (20.5)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (20.6)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (20.7)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (20.8)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (20.9)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (20.10)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (20.11)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (20.12)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (20.13)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (20.14)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (20.15)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (20.16)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (20.17)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (20.18)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (20.19)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (20.20)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (20.21)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (20.22)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (20.23)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (20.24)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (20.25)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
+      "type": "typing",
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: cerc",
+      "answer": "cerc"
     },
     {
       "type": "typing",
-      "text": "tastatura"
+      "question": "Tastează cuvântul: casa",
+      "answer": "casa"
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: floare",
+      "answer": "floare"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: soare",
+      "answer": "soare"
     },
     {
       "type": "typing",
-      "text": "muzica"
+      "question": "Tastează cuvântul: guma",
+      "answer": "guma"
     },
     {
       "type": "typing",
-      "text": "sigur"
+      "question": "Tastează cuvântul: culori",
+      "answer": "culori"
     },
     {
       "type": "typing",
-      "text": "tastatura"
+      "question": "Tastează cuvântul: artist",
+      "answer": "artist"
     },
     {
       "type": "typing",
-      "text": "secret"
-    },
-    {
-      "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

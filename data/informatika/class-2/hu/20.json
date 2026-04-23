@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Keresés",
+  "theme": "Zene és hang",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 1)",
+      "question": "Hogyan hallgatunk zenét a gépen?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 2)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 3)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Hangszórón vagy fülhallgatón",
+        "A billentyűzeten",
+        "A monitoron",
+        "Ránézéssel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 4)",
+      "question": "Melyik fájl a zene?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 5)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 6)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "enek.mp3",
+        "kep.jpg",
+        "szoveg.txt",
+        "rajz.png"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 7)",
+      "question": "Mire jó the hangerő gomb?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 8)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 9)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Hogy halkítsuk vagy hangosítsuk the zenét",
+        "Hogy gyorsítsuk the dalt",
+        "Hogy színesebb legyen",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 10)",
+      "question": "Hogyan indítjuk el the zenét?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 11)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 12)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "A Lejátszás (Play) gombbal",
+        "A Stop gombbal",
+        "Várunk",
+        "Gépelünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 13)",
+      "question": "Mi a 'Mute' gomb feladata?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 14)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 15)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Azonnal elnémítja the hangot",
+        "Kiszínezi the zenét",
+        "Kikapcsolja the gépet",
+        "Rajzol"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 16)",
+      "question": "Hogyan rögzíthetünk hangot?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 17)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 18)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Mikrofonnal",
+        "Hangszóróval",
+        "Egérrel",
+        "Billentyűzettel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 19)",
+      "question": "Mi az a mikrofon?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 20)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 21)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Eszköz, amibe belebeszélünk",
+        "Eszköz, amiből the hang jön",
+        "A monitor része",
+        "Egy kábel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 22)",
+      "question": "Melyik programmal hallgathatunk zenét?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 23)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 24)",
-      "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "Spotify, Youtube, Media Player",
+        "Paint, Word",
+        "Google, Excel",
+        "Lomtár"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Keresés? (Kérdés 25)",
+      "question": "Hogyan állítjuk meg the zenét?",
       "options": [
-        "A opció: Keresés",
-        "B opció: Keresés",
-        "C opció: Keresés"
+        "A Szünet (Pause) vagy Stop gombbal",
+        "Kihúzzuk the gépet",
+        "Kiabálunk",
+        "Letakarjuk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a fülhallgató előnye?",
+      "options": [
+        "Csak mi halljuk the zenét, nem zavarunk másokat",
+        "Hangosabb mint a hangfal",
+        "Ettől szebb the kép",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'lejátszási lista' (playlist)?",
+      "options": [
+        "Sok zene egymás után téve",
+        "A tanár kedvencei",
+        "A gép hibái",
+        "Egy könyv"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire kell figyelni fülhallgatóval?",
+      "options": [
+        "Ne legyen túl hangos, mert bántja the fülünket",
+        "Hogy ne mozogjunk",
+        "Hogy sötét legyen",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az online rádió?",
+      "options": [
+        "Interneten keresztül hallgatható rádió",
+        "Egy igazi doboz",
+        "A gép neve",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan keressünk zenét?",
+      "options": [
+        "Beírjuk az énekes nevét a keresőbe",
+        "Dúdolunk az egérnek",
+        "Várunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a gépben zenét komponálni?",
+      "options": [
+        "Igen, különleges programokkal",
+        "Nem, csak hallgatni lehet",
+        "Csak ha tudunk gitározni",
+        "Csak ha van kottánk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'podcast'?",
+      "options": [
+        "Interneten hallgatható beszélgetés",
+        "Egy fajta süti",
+        "Egy új gép",
+        "Egy zene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a hangerő?",
+      "options": [
+        "Egy kis hangszóró vonalakkal",
+        "Egy szem",
+        "Egy kereszt",
+        "Egy ház"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tekerünk bele the zenébe?",
+      "options": [
+        "A csúszka (idővonal) mozgatásával",
+        "Megforgatjuk the gépet",
+        "Gyorsabban gépelünk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'sztereó'?",
+      "options": [
+        "Két irányból (bal és jobb) jön the hang",
+        "Nagyon hangos",
+        "Nagyon halk",
+        "Nagyon régi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the hangszínszabályzó?",
+      "options": [
+        "A mély és magas hangok állítására",
+        "A zene színének változtatására",
+        "A sebességre",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen hangot ad the gép, ha hiba van?",
+      "options": [
+        "Pittyen vagy hibaüzenet hangot ad",
+        "Énekel",
+        "Beszel",
+        "Semmilyet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a Scratch-ben zenélni?",
+      "options": [
+        "Igen, vannak zenei blokkok",
+        "Nem, az csak mozgásra jó",
+        "Csak ha tudunk zongorázni",
+        "Csak hétfőn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Bluetooth hangszóró?",
+      "options": [
+        "Vezeték nélkül hallgathatunk vele zenét",
+        "Ezzel lehet beszélni",
+        "Ettől megy the net",
+        "Dísz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az MP3?",
+      "options": [
+        "Egy népszerű zenei fájlformátum",
+        "Egy autó",
+        "Egy vitamin",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk közösségben zenehallgatáskor?",
+      "options": [
+        "Használjunk fülhallgatót",
+        "Hallgassuk minél hangosabban",
+        "Énekeljünk mellé",
+        "Semmire"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 1"
+      "question": "Gépeld be: zene",
+      "answer": "zene"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 2"
+      "question": "Gépeld be: hang",
+      "answer": "hang"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 3"
+      "question": "Gépeld be: dob",
+      "answer": "dob"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 4"
+      "question": "Gépeld be: ének",
+      "answer": "ének"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 5"
+      "question": "Gépeld be: hallgat",
+      "answer": "hallgat"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 6"
+      "question": "Gépeld be: hangfal",
+      "answer": "hangfal"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 7"
+      "question": "Gépeld be: hangerő",
+      "answer": "hangerő"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 8"
+      "question": "Gépeld be: néma",
+      "answer": "néma"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 9"
+      "question": "Gépeld be: ritmus",
+      "answer": "ritmus"
     },
     {
       "type": "typing",
-      "text": "Keresés nagyon jó 10"
+      "question": "Gépeld be: fülhallgató",
+      "answer": "fülhallgató"
     }
   ]
 }

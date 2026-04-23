@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Mit Fremden im Internet reden? Nein!",
+  "theme": "Kamera",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was macht eine Kamera?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Kalt.",
-        "Traurig.",
-        "Müde.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt.",
-        "Traurig."
+        "Fotos und Videos",
+        "Musik",
+        "Essen",
+        "Licht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
+      "question": "Wo ist die Kamera am PC?",
       "options": [
-        "Nein.",
-        "Müde.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Oben am Monitor (Webcam)",
+        "In der Maus",
+        "In der Tastatur",
+        "Im Kabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist ein Selfie?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "Ein Foto von sich selbst",
+        "Ein Foto vom Hund",
+        "Ein Foto vom Haus",
+        "Ein Foto vom Essen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist der Auslöser?",
       "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Langweilig.",
-        "Nein."
+        "Der Knopf zum Foto machen",
+        "Der Bildschirm",
+        "Das Kabel",
+        "Die Box"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist ein Blitz?",
       "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Helles Licht beim Foto",
+        "Donner",
+        "Regen",
+        "Schnee"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was bedeutet 'Scharfstellen'?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Das Bild klar machen",
+        "Das Bild heiß machen",
+        "Das Bild bunt machen",
+        "Das Bild laut machen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist ein Zoom?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze."
+        "Etwas näher ranholen",
+        "Schnell laufen",
+        "Laut rufen",
+        "Licht an"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Mit Fremden im Internet reden? Nein!?",
+      "question": "Wo werden Fotos gespeichert?",
       "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
+        "Auf dem Chip/Speicher",
+        "Im Papierkorb",
+        "Im Kühlschrank",
+        "In der Tasche"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist eine Linse?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten."
+        "Das Auge der Kamera",
+        "Etwas zum Essen",
+        "Ein bunter Stein",
+        "Ein Rad"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Mit Fremden im Internet reden? Nein!?",
+      "question": "Warum sollte man beim Foto stillstehen?",
       "options": [
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa."
+        "Damit es nicht verwackelt",
+        "Damit man nicht schwitzt",
+        "Damit man nicht lacht",
+        "Damit die Kamera nicht erschrickt"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist eine Videokamera?",
       "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Die Katze."
+        "Kamera für bewegte Bilder",
+        "Kamera nur für Musik",
+        "Kamera nur für Text",
+        "Kamera nur für Spiele"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Mit Fremden im Internet reden? Nein!?",
+      "question": "Darf man jeden einfach fotografieren?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
+        "Nein, erst fragen",
+        "Ja, immer",
+        "Nur wenn sie schlafen",
+        "Nur wenn sie essen"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist ein Fotoalbum?",
       "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt."
+        "Sammlung vieler Fotos",
+        "Ein Buch zum Malen",
+        "Ein Spiel",
+        "Ein Video"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Mit Fremden im Internet reden? Nein!?",
+      "question": "Was ist ein Stativ?",
       "options": [
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde."
+        "Ein Halter für die Kamera",
+        "Ein Stuhl",
+        "Ein Tisch",
+        "Ein Bett"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Lächeln'?",
+      "options": [
+        "Fröhlich schauen fürs Foto",
+        "Weinen",
+        "Schlafen",
+        "Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Fotos am PC bearbeiten?",
+      "options": [
+        "Ja, schöner machen",
+        "Nein, nie",
+        "Nur mit der Schere",
+        "Nur mit dem Stift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Filter?",
+      "options": [
+        "Ändert die Farben im Bild",
+        "Ein Kaffeefilter",
+        "Ein Sieb",
+        "Ein Tuch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Sofortbildkamera?",
+      "options": [
+        "Foto kommt gleich aus Papier raus",
+        "Kamera für Eilige",
+        "Kamera für Spiele",
+        "Kamera für Filme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Panorama?",
+      "options": [
+        "Ein sehr breites Bild",
+        "Ein kleines Bild",
+        "Ein rundes Bild",
+        "Ein hohes Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man in die Sonne fotografieren?",
+      "options": [
+        "Besser nicht, blendet",
+        "Ja, immer",
+        "Nur wenn es heiß ist",
+        "Nur mittags"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Action-Cam?",
+      "options": [
+        "Kleine Kamera für Sport",
+        "Große Kamera für Filme",
+        "Kamera für Text",
+        "Kamera für Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Motiv?",
+      "options": [
+        "Das was man fotografiert",
+        "Der Grund warum man lacht",
+        "Ein Spiel",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man nachts fotografieren?",
+      "options": [
+        "Ja, mit Blitz oder Modus",
+        "Nein, zu dunkel",
+        "Nur im Schlaf",
+        "Nur mit Taschenlampe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Megapixel?",
+      "options": [
+        "Maß für die Bildqualität",
+        "Ein großer Stein",
+        "Ein lauter Knall",
+        "Ein bunter Punkt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Fotografieren Spaß?",
+      "options": [
+        "Ja, tolle Erinnerungen",
+        "Nein",
+        "Nur Profis",
+        "Nur am Montag"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Foto",
+      "answer": "Foto"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Linse",
+      "answer": "Linse"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Klick",
+      "answer": "Klick"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Blitz",
+      "answer": "Blitz"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Video",
+      "answer": "Video"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Lächeln",
+      "answer": "Lächeln"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Selfie",
+      "answer": "Selfie"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Zoom",
+      "answer": "Zoom"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Speicher",
+      "answer": "Speicher"
     }
   ]
 }

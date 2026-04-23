@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Creative play",
+  "theme": "Summary",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How should we sit? (25.1)",
+      "question": "What is a computer?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "A tool for many things",
+        "A type of food",
+        "A toy",
+        "A plant"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (25.2)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (25.3)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (25.4)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (25.5)",
+      "question": "What do we use to click?",
       "options": [
         "Keyboard",
         "Screen",
         "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (25.6)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (25.7)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (25.8)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (25.9)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (25.10)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (25.11)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (25.12)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (25.13)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (25.14)",
-      "options": [
-        "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (25.15)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (25.16)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
         "Printer"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a password? (25.17)",
+      "question": "What do we use to type?",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Speaker",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is an icon?",
+      "options": [
+        "A loud noise",
+        "A small picture",
+        "A game",
+        "A tool"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet for learning?",
+      "options": [
+        "No",
+        "Only for games",
+        "Maybe",
+        "Yes, safely"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we be safe online?",
+      "options": [
+        "No",
+        "Yes, always",
+        "Only on Sundays",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw on a computer?",
+      "options": [
+        "No",
+        "Only on paper",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is a tablet a computer?",
+      "options": [
+        "No",
+        "Only a toy",
+        "Yes, a portable one",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is code?",
       "options": [
         "A secret",
+        "A song",
         "A game",
+        "Instructions for computer"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make stories?",
+      "options": [
+        "No",
+        "Only in books",
+        "Yes, digital stories",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we save our work?",
+      "options": [
+        "No",
+        "Yes!",
+        "Only if it's good",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a robot a machine?",
+      "options": [
+        "No",
+        "Yes",
+        "An animal",
+        "A plant"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we take photos?",
+      "options": [
+        "No",
+        "Only with film",
+        "Maybe",
+        "Yes, with a camera"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a folder?",
+      "options": [
+        "A place for files",
+        "A type of food",
         "A color",
-        "A song"
+        "A tool"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (25.18)",
+      "question": "What is the monitor?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "The brain",
+        "The hand",
+        "The foot",
+        "The screen"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we listen to music?",
+      "options": [
+        "No",
+        "Only on radio",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (25.19)",
+      "question": "Is it okay to share passwords?",
       "options": [
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "Only with friends",
+        "Maybe",
+        "No, never!"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (25.20)",
+      "question": "What is 'Shut down'?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (25.21)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (25.22)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (25.23)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "Turning off safely",
+        "A game",
+        "A tool",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (25.24)",
+      "question": "Can we play games?",
       "options": [
+        "No",
+        "Only for work",
+        "Maybe",
+        "Yes, and learn too"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we be kind online?",
+      "options": [
+        "No",
+        "Only to friends",
+        "Maybe",
+        "Yes, always"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Wifi'?",
+      "options": [
+        "A dog's name",
+        "Wireless internet",
+        "A song",
+        "A game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use a touch screen?",
+      "options": [
+        "No",
+        "Only with a pen",
+        "Maybe",
+        "Yes, on tablets"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bug' in code?",
+      "options": [
+        "A mistake",
+        "An insect",
+        "A song",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we create music?",
+      "options": [
+        "No",
+        "Maybe",
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "Only on a piano"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (25.25)",
+      "question": "Are you a computer expert now?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "No",
+        "Yes",
+        "Maybe",
+        "I am learning more every day!"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'End'",
+      "answer": "End"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'Last'",
+      "answer": "Last"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Check'",
+      "answer": "Check"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'All'",
+      "answer": "All"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Review'",
+      "answer": "Review"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Done'",
+      "answer": "Done"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'Best'",
+      "answer": "Best"
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'Info'",
+      "answer": "Info"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Fun'",
+      "answer": "Fun"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Win'",
+      "answer": "Win"
     }
   ]
 }

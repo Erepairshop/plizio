@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Das Passwort ist geheim",
+  "theme": "Tablet",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Das Passwort ist geheim?",
+      "question": "Was ist ein Tablet?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht."
+        "Ein flacher Computer",
+        "Ein Teller",
+        "Ein Buch",
+        "Ein Stein"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
+      "question": "Womit steuert man ein Tablet?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "Mit dem Finger",
+        "Mit der Maus",
+        "Mit dem Fuß",
+        "Mit dem Löffel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
+      "question": "Was bedeutet 'Wischen'?",
       "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Finger über den Bildschirm bewegen",
+        "Den Boden putzen",
+        "Fenster sauber machen",
+        "Essen wegwischen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
+      "question": "Was ist eine App?",
       "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Ein Programm auf dem Tablet",
+        "Ein kleiner Hund",
+        "Ein Getränk",
+        "Ein Keks"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
+      "question": "Braucht ein Tablet Kabel zum Spielen?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein."
+        "Nein, es hat einen Akku",
+        "Ja, immer",
+        "Nur wenn es regnet",
+        "Nur im Dunkeln"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Passwort ist geheim?",
+      "question": "Was ist ein Touchscreen?",
       "options": [
-        "Müde.",
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Passwort ist geheim?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Das Passwort ist geheim?",
-      "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Passwort ist geheim?",
-      "options": [
-        "Langweilig.",
-        "Nein.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Passwort ist geheim?",
-      "options": [
-        "Langweilig.",
-        "Ja!",
-        "Nein.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Das Passwort ist geheim?",
-      "options": [
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Passwort ist geheim?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Langweilig.",
-        "Nein."
+        "Ein Bildschirm zum Anfassen",
+        "Ein Bildschirm zum Riechen",
+        "Ein kaputter Bildschirm",
+        "Ein dunkler Bildschirm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Passwort ist geheim?",
+      "question": "Wie macht man ein Tablet an?",
       "options": [
-        "Traurig.",
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Passwort ist geheim?",
-      "options": [
-        "Ja!",
-        "Nein.",
-        "Langweilig.",
-        "Müde."
+        "Knopf an der Seite drücken",
+        "Draufklopfen",
+        "Anpusten",
+        "Anschreien"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Passwort ist geheim?",
+      "question": "Was ist der Home-Button?",
       "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
-      "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Passwort ist geheim?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Passwort ist geheim?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Knopf zum Hauptbildschirm",
+        "Knopf zum Licht",
+        "Knopf zum Essen",
+        "Knopf zum Schlafen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Passwort ist geheim?",
+      "question": "Kann man auf dem Tablet malen?",
       "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
+        "Ja, mit dem Finger oder Stift",
+        "Nein, nur schauen",
+        "Nur mit Wasserfarben",
+        "Nur mit Kreide"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Store (Laden)?",
+      "options": [
+        "Hier lädt man neue Apps",
+        "Hier kauft man Milch",
+        "Hier kauft man Schuhe",
+        "Hier kauft man Spielzeug"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie wird das Bild groß?",
+      "options": [
+        "Mit zwei Fingern auseinanderziehen",
+        "Draufhauen",
+        "PC anschließen",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit dem Tablet Fotos machen?",
+      "options": [
+        "Ja, es hat Kameras",
+        "Nein, nie",
+        "Nur im Freien",
+        "Nur im Studio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tablet-Stift?",
+      "options": [
+        "Ein spezieller Stift zum Tippen",
+        "Ein Bleistift",
+        "Ein Buntstift",
+        "Ein Kugelschreiber"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man das Tablet laden?",
+      "options": [
+        "Ja, wenn der Akku leer ist",
+        "Nein, nie",
+        "Nur sonntags",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein E-Book?",
+      "options": [
+        "Ein Buch zum Lesen auf dem Tablet",
+        "Ein echtes Papierbuch",
+        "Ein Hörspiel",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tablet-Schutz (Case)?",
+      "options": [
+        "Eine Hülle zum Schutz",
+        "Ein Koffer",
+        "Ein Rucksack",
+        "Eine Decke"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet Spiele spielen?",
+      "options": [
+        "Ja, sehr viele",
+        "Nein, gar keine",
+        "Nur im Internet",
+        "Nur im Flugzeug"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Tippen'?",
+      "options": [
+        "Kurz mit dem Finger drauf",
+        "Fest drücken",
+        "Drüberstreichen",
+        "Pusten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine virtuelle Tastatur?",
+      "options": [
+        "Tastatur auf dem Bildschirm",
+        "Eine echte Tastatur",
+        "Eine Tastatur aus Holz",
+        "Eine Tastatur aus Glas"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Flugmodus?",
+      "options": [
+        "Alle Funkverbindungen aus",
+        "Das Tablet kann fliegen",
+        "Man sieht Flugzeuge",
+        "Das Tablet wird leichter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man das Display putzen?",
+      "options": [
+        "Ja, mit einem weichen Tuch",
+        "Nein, nie",
+        "Nur mit Seife",
+        "Nur mit der Bürste"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sperrmuster?",
+      "options": [
+        "Ein Weg zum Entsperren",
+        "Ein Bild zum Malen",
+        "Ein Puzzle",
+        "Ein Labyrinth"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Tablets für Kinder?",
+      "options": [
+        "Ja, mit extra Schutz",
+        "Nein, nur für Große",
+        "Nur für Babys",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am Tablet Filme schauen?",
+      "options": [
+        "Ja, online oder gespeichert",
+        "Nein, nur Bilder",
+        "Nur im Kino",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Tablet schwer?",
+      "options": [
+        "Meistens schön leicht",
+        "So schwer wie ein Auto",
+        "So schwer wie ein Stein",
+        "So schwer wie ein Tisch"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Tablet",
+      "answer": "Tablet"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Touch",
+      "answer": "Touch"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Finger",
+      "answer": "Finger"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Wischen",
+      "answer": "Wischen"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Mobil",
+      "answer": "Mobil"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Akku",
+      "answer": "Akku"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: App",
+      "answer": "App"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Glas",
+      "answer": "Glas"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Leicht",
+      "answer": "Leicht"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Flach",
+      "answer": "Flach"
     }
   ]
 }

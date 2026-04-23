@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Musik hören",
+  "theme": "Ein- und Ausschalten",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
+      "question": "Wie startet man den PC?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Musik hören?",
-      "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Musik hören?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Musik hören?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten."
+        "An-Knopf drücken",
+        "Dagegen treten",
+        "Anschreien",
+        "Warten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
+      "question": "Was bedeutet 'Hochfahren'?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein."
+        "Computer startet",
+        "Computer fliegt",
+        "Computer wird schwerer",
+        "Computer fährt Auto"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
+      "question": "Darf man einfach den Stecker ziehen?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Musik hören?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
-      "options": [
-        "Müde.",
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Musik hören?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Nein, das ist schlecht",
+        "Ja, immer",
+        "Nur wenn er an ist",
+        "Nur wenn er laut ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
+      "question": "Wie beendet man Windows?",
       "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Musik hören?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Start -> Herunterfahren",
+        "Monitor ausmachen",
+        "Fenster schließen",
+        "Singen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Musik hören?",
+      "question": "Was ist der Standby-Modus?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Musik hören?",
-      "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Musik hören?",
-      "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ein Apfel."
+        "Schlafmodus",
+        "Vollgas",
+        "Aus",
+        "Kaputt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Musik hören?",
+      "question": "Was bedeutet 'Neustart'?",
       "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein.",
-        "Weiß nicht."
+        "Aus- und gleich wieder An",
+        "Alles löschen",
+        "Neuer PC kaufen",
+        "Pause machen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Musik hören?",
+      "question": "Warum dauert das Starten?",
       "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt."
+        "Programme laden",
+        "PC ist müde",
+        "PC hat Hunger",
+        "PC schläft"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Musik hören?",
+      "question": "Was ist ein Benutzername?",
       "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
+        "Dein Name am PC",
+        "Ein Tiername",
+        "Ein erfundenes Wort",
+        "Ein Passwort"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Musik hören?",
+      "question": "Wozu braucht man ein Passwort?",
       "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "Zum Schutz",
+        "Zum Spielen",
+        "Zum Malen",
+        "Zum Singen"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim Herunterfahren?",
+      "options": [
+        "PC räumt auf und geht aus",
+        "PC explodiert",
+        "PC wird heiß",
+        "PC singt ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man beim Starten Tasten drücken?",
+      "options": [
+        "Besser nicht warten",
+        "Ja, ganz viele",
+        "Nur die Maus",
+        "Nur den Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Sperrbildschirm?",
+      "options": [
+        "Eingang mit Passwort",
+        "Ein kaputter Bildschirm",
+        "Ein Spiel",
+        "Ein Bild zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Update beim Ausschalten?",
+      "options": [
+        "PC lernt neue Dinge",
+        "PC löscht alles",
+        "PC wird alt",
+        "PC wird bunt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man den Monitor auch ausmachen?",
+      "options": [
+        "Ja, spart Strom",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur am Wochenende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist meist der An-Knopf?",
+      "options": [
+        "Am Gehäuse",
+        "Am Kabel",
+        "Unter dem Tisch",
+        "Im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Login?",
+      "options": [
+        "Anmelden",
+        "Abmelden",
+        "Spielen",
+        "Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man den PC zeitgesteuert ausschalten?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit der Eieruhr",
+        "Nur mit dem Wecker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei Stromausfall?",
+      "options": [
+        "PC geht sofort aus",
+        "PC läuft ewig weiter",
+        "PC leuchtet hell",
+        "PC macht Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Akku beim Laptop?",
+      "options": [
+        "Speichert Strom",
+        "Ist ein Spielzeug",
+        "Ist zum Essen",
+        "Ist ein Kissen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Abmelden'?",
+      "options": [
+        "Sitzung beenden",
+        "PC löschen",
+        "Programm starten",
+        "Essen gehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kaltstart?",
+      "options": [
+        "Einschalten wenn er ganz aus war",
+        "Starten im Winter",
+        "Starten im Kühlschrank",
+        "Starten mit Eis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der PC beim Hochfahren?",
+      "options": [
+        "Hardware prüfen",
+        "Bilder malen",
+        "Musik spielen",
+        "Kaffee kochen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Ausschalten wichtig?",
+      "options": [
+        "Strom sparen und Pause",
+        "PC wird sonst böse",
+        "PC wird sonst heiß",
+        "PC wird sonst laut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ruhezustand?",
+      "options": [
+        "Tiefer Schlaf",
+        "PC ist hellwach",
+        "PC ist kaputt",
+        "PC ist neu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man den PC per Sprache starten?",
+      "options": [
+        "Manche Geräte ja",
+        "Nein, nie",
+        "Nur wenn man schreit",
+        "Nur wenn man singt"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: An",
+      "answer": "An"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Aus",
+      "answer": "Aus"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Knopf",
+      "answer": "Knopf"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Ende",
+      "answer": "Ende"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Warten",
+      "answer": "Warten"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Licht",
+      "answer": "Licht"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Strom",
+      "answer": "Strom"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Bereit",
+      "answer": "Bereit"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Fertig",
+      "answer": "Fertig"
     }
   ]
 }

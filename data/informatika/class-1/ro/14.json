@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Poziția corectă pe scaun",
+  "theme": "Introducere în programare",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Cum închidem un joc? (14.1)",
+      "question": "Ce este programarea?",
       "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "A da instrucțiuni calculatorului",
+        "A picta ecranul",
+        "A cânta la tastatură",
+        "A dormi lângă monitor"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (14.2)",
+      "question": "Calculatorul înțelege limba noastră?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Nu, are limbaje speciale (cod)",
+        "Da, înțelege tot",
+        "Doar dacă vorbim tare",
+        "Doar dacă scriem frumos"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (14.3)",
+      "question": "Cum se numește o persoană care scrie cod?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Programator",
+        "Doctor",
+        "Pictor",
+        "Pompier"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (14.4)",
+      "question": "Instrucțiunile trebuie să fie?",
       "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (14.5)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (14.6)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (14.7)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (14.8)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Clare și în ordine",
+        "Oricum",
+        "Multe și grele",
+        "Doar desene"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este o parolă? (14.9)",
+      "question": "Dacă greșim ordinea instrucțiunilor?",
       "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Programul nu merge corect",
+        "Nu se întâmplă nimic",
+        "Calculatorul explodează",
+        "Programul se repară singur"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (14.10)",
+      "question": "Ce este un 'algoritm'?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Un set de pași pentru a rezolva ceva",
+        "Un ritm de muzică",
+        "O culoare nouă",
+        "Un animal rar"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cu ce dăm click? (14.11)",
+      "question": "Putem programa o pisică?",
       "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
+        "Nu, programăm mașini",
+        "Da, cu mâncare",
+        "Doar dacă e robot",
+        "Doar în vis"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (14.12)",
+      "question": "Programarea este ca o rețetă?",
       "options": [
-        "Da",
+        "Da, urmezi pașii ca la prăjituri",
+        "Nu, e cu totul altceva",
+        "Doar dacă gătim",
+        "Doar dacă ne e foame"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'bug'?",
+      "options": [
+        "O greșeală în program",
+        "O gânganie reală",
+        "Un succes mare",
+        "Un buton verde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum reparăm un 'bug'?",
+      "options": [
+        "Căutăm greșeala și o corectăm",
+        "Dăm cu spray",
+        "Repornim totul mereu",
+        "Îl lăsăm acolo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Programarea ne ajută să?",
+      "options": [
+        "Gândim logic",
+        "Dormim mai mult",
+        "Alergăm mai repede",
+        "Cântăm mai tare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există programe de programare pentru copii?",
+      "options": [
+        "Da, foarte distractive",
+        "Nu, e doar pentru adulți",
+        "Doar dacă ești la liceu",
+        "Doar dacă ai 20 de ani"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Codul se scrie de obicei în?",
+      "options": [
+        "Engleză sau limbaje speciale",
+        "Română mereu",
+        "Chineză",
+        "Prin desene doar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa un joc?",
+      "options": [
+        "Da, cu multă muncă",
+        "Nu, jocurile apar singure",
+        "Doar companiile mari pot",
+        "Doar roboții"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Loop' (Buclă)?",
+      "options": [
+        "Ceva care se repetă",
+        "O gaură în ecran",
+        "Un sunet",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă îi spunem 'Pas înainte' de 3 ori?",
+      "options": [
+        "Va face 3 pași",
+        "Va face un pas mare",
+        "Va sări",
+        "Nu va face nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul este deștept singur?",
+      "options": [
+        "Nu, face doar ce îi spunem",
+        "Da, știe tot",
+        "Doar dacă e scump",
+        "Doar dacă e nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Programarea este o meserie de viitor?",
+      "options": [
+        "Da, foarte importantă",
+        "Nu, va dispărea",
+        "Doar pentru unii",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'bloc' în programarea pentru copii?",
+      "options": [
+        "O instrucțiune ca o piesă de puzzle",
+        "O cărămidă",
+        "O casă",
+        "O mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța programare fără calculator?",
+      "options": [
+        "Da, prin jocuri logice",
+        "Nu, e imposibil",
+        "Doar cu ajutorul zânelor",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Programarea este creativă?",
+      "options": [
+        "Da, poți crea lumi noi",
+        "Nu, e doar matematică",
+        "Doar dacă desenezi",
+        "Doar dacă cânți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte limbaje de programare există?",
+      "options": [
+        "Foarte multe",
+        "Doar unul",
+        "Trei",
+        "Zece"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem programa un robot să facă ceai?",
+      "options": [
+        "Da, dacă are mâini și știe cum",
+        "Nu, roboții nu beau ceai",
+        "Doar dacă e alb",
+        "Doar dacă are cană"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Codul se poate scrie pe hârtie?",
+      "options": [
+        "Da, dar nu va rula acolo",
+        "Nu, se scrie doar în aer",
+        "Doar dacă avem creion magic",
+        "Doar dacă e roz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești gata să fii programator?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (14.13)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (14.14)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (14.15)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (14.16)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (14.17)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (14.18)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (14.19)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (14.20)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (14.21)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (14.22)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (14.23)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (14.24)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (14.25)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Poate",
+        "E greu"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "muzica"
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: ordin",
+      "answer": "ordin"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: logica",
+      "answer": "logica"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: gresit",
+      "answer": "gresit"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: corect",
+      "answer": "corect"
     },
     {
       "type": "typing",
-      "text": "sigur"
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: joc",
+      "answer": "joc"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

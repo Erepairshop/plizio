@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Másolás és beillesztés",
+  "theme": "Feltétel",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 1)",
+      "question": "Mit jelent the feltétel a programozásban?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 2)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 3)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Egy döntést: Ha valami igaz, történik valami",
+        "Egy fajta feladatot",
+        "A gép állapotát",
+        "Egy jelszót"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 4)",
+      "question": "Melyik szavakkal kezdjük the feltételt?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 5)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 6)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Ha... akkor...",
+        "Mindig... és...",
+        "Soha... mert...",
+        "Talán... vagy..."
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 7)",
+      "question": "Melyik egy feltétel a való életben?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 8)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 9)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Ha esik az eső, viszek esernyőt",
+        "Megettem az almát",
+        "Kék az ég",
+        "Megyek az iskolába"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 10)",
+      "question": "Mire jó the feltétel a játékban?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 11)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 12)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Pl. Ha hozzám ér a fal, veszítek egy életet",
+        "Hogy színesebb legyen",
+        "Hogy gyorsabb legyen",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 13)",
+      "question": "Mit jelent az 'igaz' egy feltételnél?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 14)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 15)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Hogy a vizsgált dolog teljesült",
+        "Hogy nem hazudik the gép",
+        "Hogy szép a rajz",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 16)",
+      "question": "Mit jelent a 'hamis' egy feltételnél?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 17)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 18)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Hogy a vizsgált dolog nem teljesült",
+        "Hogy elromlott the gép",
+        "Hogy rossz a válasz",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 19)",
+      "question": "Melyik blokk a Scratch-ben a feltétel?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 20)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 21)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "A 'Ha ..., akkor' blokk",
+        "A 'Mindig' blokk",
+        "A 'Menj' blokk",
+        "A 'Szín' blokk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 22)",
+      "question": "Mit csinál the program, ha the feltétel nem igaz?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 23)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 24)",
-      "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Átugorja és megy tovább",
+        "Megáll örökre",
+        "Hibaüzenetet ad",
+        "Kikapcsol"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Másolás és beillesztés? (Kérdés 25)",
+      "question": "Mi az az 'Egyébként' (Else)?",
       "options": [
-        "A opció: Másolás és beillesztés",
-        "B opció: Másolás és beillesztés",
-        "C opció: Másolás és beillesztés"
+        "Ami akkor történik, ha the feltétel nem igaz",
+        "Egy másik gép",
+        "A tanár válasza",
+        "Semmi"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan vizsgáljuk meg, hogy egy szám nagyobb-e?",
+      "options": [
+        "A '>' jellel",
+        "A '+' jellel",
+        "Az 'A' betűvel",
+        "Az egérrel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the 'érzékelés' a feltételnél?",
+      "options": [
+        "Pl. Érinti-e the cica a szélét?",
+        "Hogy érezze the gép the meleget",
+        "Hogy lásson minket the gép",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik színűek az érzékelés blokkok?",
+      "options": [
+        "Világoskék",
+        "Narancssárga",
+        "Zöld",
+        "Lila"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több feltétel egymás után?",
+      "options": [
+        "Igen, bármennyi lehet",
+        "Nem, csak egy",
+        "Csak ha van internet",
+        "Csak kettő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik példa a jó feltételre?",
+      "options": [
+        "Ha éhes vagyok, eszem",
+        "Eszem, mert éhes vagyok",
+        "Éhes vagyok",
+        "Eszem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál the gép, ha 'Ha 1 > 2, akkor mondd: Szia'?",
+      "options": [
+        "Semmit, mert 1 nem nagyobb mint 2",
+        "Azt mondja: Szia",
+        "Kinevet",
+        "Összezavarodik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan használjuk the feltételt a robotnál?",
+      "options": [
+        "Ha akadály van előtte, forduljon el",
+        "Mondjuk neki: Állj!",
+        "Várunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jel jelenti az egyenlőséget?",
+      "options": [
+        "=",
+        ">",
+        "<",
+        "+"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'logikai művelet'?",
+      "options": [
+        "És, Vagy, Nem",
+        "Összeadás, kivonás",
+        "Rajzolás, festés",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik blokk hatszög alakú a Scratch-ben?",
+      "options": [
+        "A feltételvizsgálat (ami igaz vagy hamis)",
+        "A mozgás blokk",
+        "A hang blokk",
+        "A rajz blokk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'Ha érinti the színt'?",
+      "options": [
+        "Akkor történik valami, ha the szereplő egy színhez ér",
+        "Kiszínezi the szereplőt",
+        "Törli the színt",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz a játékban 'Game Over'?",
+      "options": [
+        "Egy feltétellel: Ha az élet = 0",
+        "Csak úgy magától",
+        "Ha kikapcsoljuk the gépet",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the 'Várj, amíg ...' blokk?",
+      "options": [
+        "Megállítja the programot egy feltételig",
+        "Aludni küldi the gépet",
+        "Lassítja the netet",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a feltétel egy kérdés?",
+      "options": [
+        "Igen, pl. Jó-e a válasz?",
+        "Nem, csak szám lehet",
+        "Csak ha tudunk gépelni",
+        "Csak ha van egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos the feltétel?",
+      "options": [
+        "Mert ettől lesz 'okos' the program",
+        "Mert the tanár szereti",
+        "Mert szebb lesz the kép",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál the gép, ha 'Ha 2 = 2, akkor mondd: Hurrá'?",
+      "options": [
+        "Azt mondja: Hurrá",
+        "Nem csinál semmit",
+        "Kikapcsol",
+        "Vár"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 1"
+      "question": "Gépeld be: ha",
+      "answer": "ha"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 2"
+      "question": "Gépeld be: akkor",
+      "answer": "akkor"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 3"
+      "question": "Gépeld be: feltétel",
+      "answer": "feltétel"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 4"
+      "question": "Gépeld be: döntés",
+      "answer": "döntés"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 5"
+      "question": "Gépeld be: választ",
+      "answer": "választ"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 6"
+      "question": "Gépeld be: igaz",
+      "answer": "igaz"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 7"
+      "question": "Gépeld be: hamis",
+      "answer": "hamis"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 8"
+      "question": "Gépeld be: út",
+      "answer": "út"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 9"
+      "question": "Gépeld be: kérdés",
+      "answer": "kérdés"
     },
     {
       "type": "typing",
-      "text": "Másolás és beillesztés nagyon jó 10"
+      "question": "Gépeld be: logika",
+      "answer": "logika"
     }
   ]
 }

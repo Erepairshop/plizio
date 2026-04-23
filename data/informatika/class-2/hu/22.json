@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Audióprogram",
+  "theme": "Tablet vs. telefon",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 1)",
+      "question": "Miben hasonlít the tablet és the telefon?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 2)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 3)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Mindkettő érintőképernyős",
+        "Mindkettő akkora mint egy asztal",
+        "Egyiknek sincs képernyője",
+        "Semmiben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 4)",
+      "question": "Melyik the nagyobb általában?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 5)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 6)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "A tablet",
+        "A telefon",
+        "Egyformák",
+        "A telefon fülhallgatója"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 7)",
+      "question": "Mire jobb the telefon?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 8)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 9)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Telefonálásra és zsebben hordásra",
+        "Filmnézésre",
+        "Rajzolásra",
+        "Alvásra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 10)",
+      "question": "Mire jobb the tablet?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 11)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 12)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Játékra, rajzolásra, tanulásra",
+        "Hívásokra az utcán",
+        "Főzésre",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 13)",
+      "question": "Hogyan irányítjuk ezeket az eszközöket?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 14)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 15)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Az ujjunkkal (érintés)",
+        "Egérrel mindig",
+        "Távirányítóval",
+        "Beszéddel csak"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 16)",
+      "question": "Mi az az 'App' vagy alkalmazás?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 17)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 18)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Egy program a mobilon/tableten",
+        "Egy fajta étel",
+        "A gép hangja",
+        "Egy gomb"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 19)",
+      "question": "Hogyan töltjük fel ezeket?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 20)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 21)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "Töltőkábellel a konnektorból",
+        "Vízzel",
+        "Napsütéssel",
+        "Elemmel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 22)",
+      "question": "Mit jelent az 'érintőképernyő'?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 23)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 24)",
-      "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "A képernyőhöz érve adunk parancsot",
+        "Meg kell simogatni, hogy bekapcsoljon",
+        "Nem szabad hozzáérni",
+        "Csak kesztyűben működik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Audióprogram? (Kérdés 25)",
+      "question": "Hogyan zároljuk the képernyőt?",
       "options": [
-        "A opció: Audióprogram",
-        "B opció: Audióprogram",
-        "C opció: Audióprogram"
+        "A bekapcsoló gombbal vagy kóddal",
+        "Letakarjuk",
+        "Kikapcsoljuk the lámpát",
+        "Várunk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Repülő üzemmód'?",
+      "options": [
+        "Kikapcsolja the hálózatokat",
+        "Repülni kezd tőle the gép",
+        "Gyorsabb lesz",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan töltünk le játékot rájuk?",
+      "options": [
+        "App Store vagy Play Áruház",
+        "A konyhából",
+        "A tévéből",
+        "Sehonnan"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'akkumulátor'?",
+      "options": [
+        "A gépben lévő tároló, ami az áramot adja",
+        "Egy gomb",
+        "A gép agya",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e vizes kézzel fogni?",
+      "options": [
+        "Nem, elromolhat",
+        "Igen, tiszta lesz",
+        "Csak ha szappanos",
+        "Csak ha engedik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a védőtok?",
+      "options": [
+        "Megvédi the gépet, ha leesik",
+        "Hogy szebb legyen",
+        "Hogy melegítse",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e rajzolni tableten?",
+      "options": [
+        "Igen, akár speciális tollal is",
+        "Nem, csak egérrel",
+        "Csak ha maszatos az ujjunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'SMS'?",
+      "options": [
+        "Rövid szöveges üzenet a telefonon",
+        "Egy fajta zene",
+        "Egy játék",
+        "Egy vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítünk képet velük?",
+      "options": [
+        "A beépített kamerával",
+        "Ránézünk",
+        "Lerajzoljuk the képernyőre",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszköz fér el the zsebedben?",
+      "options": [
+        "A telefon",
+        "A tablet",
+        "A monitor",
+        "A billentyűzet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Wi-Fi ezeknél?",
+      "options": [
+        "Hogy legyen internetünk",
+        "Hogy tudjunk tölteni",
+        "Hogy halljuk the hangot",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e ezeken tanulni?",
+      "options": [
+        "Igen, sok okos alkalmazás van",
+        "Nem, ezek csak játékra valók",
+        "Csak ha nincs iskola",
+        "Csak hétvégén"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért nem szabad túl sokat használni őket?",
+      "options": [
+        "Mert rontja the szemet és elfáradunk",
+        "Mert elkopik the képernyő",
+        "Mert elfogy az internet",
+        "Használhatjuk bármennyit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan hívunk fel valakit?",
+      "options": [
+        "Beírjuk the számát vagy the nevét és a hívás gombra nyomunk",
+        "Kiabálunk a telefonba",
+        "Várunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'SIM kártya'?",
+      "options": [
+        "A telefonban lévő kicsi kártya a híváshoz",
+        "Egy memória kártya csak",
+        "Egy játék",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközt tudod egy kézzel fogni?",
+      "options": [
+        "A telefont",
+        "A tabletet",
+        "A laptopot",
+        "Az asztali gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a zseblámpa funkció?",
+      "options": [
+        "A kamera vakujával világít",
+        "A képernyő kifehéredik",
+        "Egy külön lámpa van benne",
+        "Semmire"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 1"
+      "question": "Gépeld be: tablet",
+      "answer": "tablet"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 2"
+      "question": "Gépeld be: telefon",
+      "answer": "telefon"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 3"
+      "question": "Gépeld be: érint",
+      "answer": "érint"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 4"
+      "question": "Gépeld be: kijelző",
+      "answer": "kijelző"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 5"
+      "question": "Gépeld be: mobil",
+      "answer": "mobil"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 6"
+      "question": "Gépeld be: alkalmazás",
+      "answer": "alkalmazás"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 7"
+      "question": "Gépeld be: játék",
+      "answer": "játék"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 8"
+      "question": "Gépeld be: hordozható",
+      "answer": "hordozható"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 9"
+      "question": "Gépeld be: töltő",
+      "answer": "töltő"
     },
     {
       "type": "typing",
-      "text": "Audióprogram nagyon jó 10"
+      "question": "Gépeld be: akku",
+      "answer": "akku"
     }
   ]
 }

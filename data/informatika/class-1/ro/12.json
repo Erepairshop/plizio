@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Desen simplu",
+  "theme": "Desene animate digitale",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (12.1)",
+      "question": "Cum se fac desenele animate pe calculator?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Cu multe poze puse una după alta",
+        "Prin magie",
+        "Sunt filmate în pădure",
+        "Cresc singure în monitor"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este sigur să facem online? (12.2)",
+      "question": "Cine desenează personajele?",
       "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
+        "Artiști pe calculator",
+        "Roboții",
+        "Animalele",
+        "Copiii mici"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (12.3)",
+      "question": "Cum se mișcă personajele?",
       "options": [
-        "Da",
+        "Calculatorul le schimbă poziția repede",
+        "Fugi după ele",
+        "Suflăm în ecran",
+        "Tragem de mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'cadru' (frame)?",
+      "options": [
+        "O singură imagine din animație",
+        "O fereastră reală",
+        "O ramă de tablou",
+        "O cutie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face și noi animații?",
+      "options": [
+        "Da, cu programe speciale",
+        "Nu, e imposibil",
+        "Doar dacă avem baghetă",
+        "Doar dacă suntem la televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Personajele au voci?",
+      "options": [
+        "Da, înregistrate de oameni",
+        "Nu, sunt mute",
+        "Da, vorbesc prin semne",
+        "Doar dacă le gâdilăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 3D?",
+      "options": [
+        "Imagini care par reale, cu volum",
+        "Trei desene",
+        "Trei degete",
+        "Ochelari de soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Culorile în animații sunt?",
+      "options": [
+        "Vii și variate",
+        "Doar alb și negru",
+        "Mereu invizibile",
+        "Doar gri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește munca de a face animații?",
+      "options": [
+        "Animare",
+        "Pictură",
+        "Sport",
+        "Gătit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există desene animate făcute doar pe calculator?",
+      "options": [
+        "Da, majoritatea acum",
+        "Nu, toate sunt pe hârtie",
+        "Doar cele cu mașini",
+        "Doar cele cu prințese"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba viteza animației?",
+      "options": [
+        "Da, să meargă repede sau încet",
+        "Nu, e fixă",
+        "Doar dacă o împingem",
+        "Doar dacă fugim noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Personajele 2D sunt?",
+      "options": [
+        "Plate, ca pe hârtie",
+        "Uriașe",
+        "Rotunde ca mingea",
+        "Invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un fundal în animație este?",
+      "options": [
+        "Locul unde stau personajele",
+        "O pată de mizerie",
+        "Un cântec",
+        "O ciocolată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se face un sunet de pas în animație?",
+      "options": [
+        "Este înregistrat separat",
+        "Apare prin magie",
+        "Personajul chiar pășește",
+        "Nu se aude nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Animațiile ne pot învăța ceva?",
+      "options": [
+        "Da, povești și lecții",
+        "Nu, sunt doar glume",
+        "Doar despre roboți",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cât durează să faci un desen animat?",
+      "options": [
+        "Mult timp, luni sau ani",
+        "O secundă",
+        "O oră",
+        "O zi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'scenariu'?",
+      "options": [
+        "Povestea scrisă a animației",
+        "O scenă de teatru",
+        "Un scaun",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câți oameni lucrează la o animație mare?",
+      "options": [
+        "Sute de oameni",
+        "Doar unul",
+        "Doi oameni",
+        "Nimeni, se face singură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anima o minge care sare?",
+      "options": [
+        "Da, e un exercițiu bun",
+        "Nu, mingile nu sar",
+        "Doar dacă avem minge reală",
+        "Doar dacă avem noroc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Stop Motion'?",
+      "options": [
+        "Animație cu obiecte reale fotografiate",
+        "Când se oprește televizorul",
+        "Un joc de-a v-ați ascunselea",
+        "O mașină oprită"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Computerele ajută artiștii?",
+      "options": [
+        "Da, foarte mult",
+        "Nu, îi încurcă",
+        "Artiștii nu folosesc calculatoare",
+        "Doar la teme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Poți desena pe o tabletă grafică?",
+      "options": [
+        "Da, ca pe hârtie",
+        "Nu, e interzis",
+        "Doar cu degetul",
+        "Doar cu nasul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Animațiile sunt doar pentru copii?",
+      "options": [
+        "Nu, și adulților le plac",
+        "Da, clar",
+        "Doar pentru bebeluși",
+        "Doar pentru roboți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum te simți când vezi un desen animat?",
+      "options": [
+        "Bucuros și curios",
+        "Supărat",
+        "Obosit",
+        "Plictisit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vrei să creezi și tu un personaj?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (12.4)",
-      "options": [
-        "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (12.5)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (12.6)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (12.7)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Poate",
+        "Nu știu"
       ],
       "correct": 0
     },
     {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (12.8)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (12.9)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (12.10)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (12.11)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (12.12)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (12.13)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (12.14)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (12.15)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (12.16)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (12.17)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (12.18)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (12.19)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (12.20)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (12.21)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (12.22)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (12.23)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (12.24)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (12.25)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
+      "type": "typing",
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "curat"
+      "question": "Tastează cuvântul: miscare",
+      "answer": "miscare"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: erou",
+      "answer": "erou"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: voce",
+      "answer": "voce"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: culori",
+      "answer": "culori"
     },
     {
       "type": "typing",
-      "text": "culoare"
+      "question": "Tastează cuvântul: poveste",
+      "answer": "poveste"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: joaca",
+      "answer": "joaca"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: sare",
+      "answer": "sare"
     },
     {
       "type": "typing",
-      "text": "joaca"
-    },
-    {
-      "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

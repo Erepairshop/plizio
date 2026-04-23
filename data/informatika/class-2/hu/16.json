@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Színek a rajzolásnál",
+  "theme": "Algoritmus lépések",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 1)",
+      "question": "Mi az az algoritmus?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 2)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 3)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Lépések sorozata egy cél eléréséhez",
+        "Egy fajta állat",
+        "A számítógép neve",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 4)",
+      "question": "Melyik egy algoritmus a való életben?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 5)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 6)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Egy recept süti sütéshez",
+        "Az alvás",
+        "A nevetés",
+        "A napsütés"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 7)",
+      "question": "Miért fontos the sorrend az algoritmusban?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 8)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 9)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Mert különben nem sikerül the feladat",
+        "Nem fontos, bárhogy jó",
+        "Csak the tanár miatt",
+        "Hogy szebb legyen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 10)",
+      "question": "Mit csinálunk először, ha teát készítünk?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 11)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 12)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Vizet forralunk",
+        "Beletesszük the cukrot",
+        "Megisszuk",
+        "Kidobjuk the filtert"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 13)",
+      "question": "Melyik lépés hiányzik: 1. Cipőt felvesz, 2. ..., 3. Elindul?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 14)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 15)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Cipőt beköt",
+        "Levesz",
+        "Megmos",
+        "Meghallgat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 16)",
+      "question": "Hogyan adunk parancsot egy robotnak?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 17)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 18)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Pontos lépésekkel",
+        "Szépen kérjük",
+        "Ránézünk",
+        "Suttogunk neki"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 19)",
+      "question": "Mit jelent the 'sorrendiség'?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 20)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 21)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "A dolgok egymás utáni következése",
+        "Mindent egyszerre",
+        "A gép színe",
+        "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 22)",
+      "question": "Melyik algoritmus a fogmosáshoz?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 23)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 24)",
-      "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Krém a kefére, mosás, öblítés",
+        "Öblítés, alvás, krém",
+        "Mosás, krém nélkül",
+        "Csak nézzük the kefét"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Színek a rajzolásnál? (Kérdés 25)",
+      "question": "Hogyan jut el the robot a célba, ha fal van előtte?",
       "options": [
-        "A opció: Színek a rajzolásnál",
-        "B opció: Színek a rajzolásnál",
-        "C opció: Színek a rajzolásnál"
+        "Ki kell kerülnie pontos lépésekkel",
+        "Átmegy rajta",
+        "Megáll örökre",
+        "Sírni kezd"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'utasítás'?",
+      "options": [
+        "Egyetlen lépés a programban",
+        "A tanár néni",
+        "Egy könyv",
+        "A billentyűzet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egy algoritmus hibás?",
+      "options": [
+        "Igen, ha rossz a sorrend vagy hiányzik lépés",
+        "Nem, the gép mindig tudja",
+        "Csak ha nincs áram",
+        "Csak ha vizes the gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál the robot, ha azt mondjuk: 'Menj előre!', de fal van?",
+      "options": [
+        "Nekimegy a falnak",
+        "Megáll és gondolkodik",
+        "Átugorja",
+        "Kikerüli magától"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the algoritmus a gépnek?",
+      "options": [
+        "Ebből tudja, mit kell tennie",
+        "Ettől gyorsabb lesz",
+        "Ettől lesz színes",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan javítunk ki egy algoritmust?",
+      "options": [
+        "Megkeressük the rossz lépést és kicseréljük",
+        "Letöröljük the egészet",
+        "Megütjük the gépet",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a 'balra fordul' parancs jele?",
+      "options": [
+        "Egy balra mutató nyíl",
+        "Egy felfelé mutató nyíl",
+        "Egy kör",
+        "Egy kereszt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk le egy algoritmust gyerekeknek?",
+      "options": [
+        "Rajzokkal vagy nyilakkal",
+        "Csak angolul",
+        "Csak számokkal",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'start' az algoritmus elején?",
+      "options": [
+        "Itt kezdődnek the lépések",
+        "Itt van vége",
+        "Megállunk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'stop' az algoritmus végén?",
+      "options": [
+        "Itt fejeződik be the feladat",
+        "Itt kezdődik",
+        "Újraindul",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e több út a célhoz?",
+      "options": [
+        "Igen, több jó algoritmus is létezhet",
+        "Nem, csak egy jó van",
+        "Csak ha ketten vagyunk",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik algoritmus a 'Házat rajzolunk'?",
+      "options": [
+        "Négyzet, majd rá egy háromszög",
+        "Csak egy kör",
+        "Háromszög, alá semmi",
+        "Csak egy vonal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'hibakeresés' (debugging)?",
+      "options": [
+        "A rossz lépések megtalálása",
+        "Bogarak keresése a kertben",
+        "A gép takarítása",
+        "Rajzolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tervezünk meg egy programot?",
+      "options": [
+        "Először kigondoljuk the lépéseket",
+        "Azonnal gépelünk",
+        "Kérdezünk valakit",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a logika?",
+      "options": [
+        "Segít jól összerakni the lépéseket",
+        "Semmire",
+        "Ettől lesz szebb the kép",
+        "Csak matekban kell"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik the legegyszerűbb algoritmus?",
+      "options": [
+        "Csak egyetlen lépés",
+        "Száz lépés",
+        "Ezer lépés",
+        "Zéró lépés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó, ha pontosak vagyunk?",
+      "options": [
+        "Mert the gép csak azt csinálja, amit mondunk",
+        "Mert the tanár szereti",
+        "Mert gyorsabb lesz the gép",
+        "Semmiért"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 1"
+      "question": "Gépeld be: lépés",
+      "answer": "lépés"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 2"
+      "question": "Gépeld be: sorrend",
+      "answer": "sorrend"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 3"
+      "question": "Gépeld be: recept",
+      "answer": "recept"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 4"
+      "question": "Gépeld be: irány",
+      "answer": "irány"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 5"
+      "question": "Gépeld be: előre",
+      "answer": "előre"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 6"
+      "question": "Gépeld be: balra",
+      "answer": "balra"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 7"
+      "question": "Gépeld be: jobbra",
+      "answer": "jobbra"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 8"
+      "question": "Gépeld be: fordul",
+      "answer": "fordul"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 9"
+      "question": "Gépeld be: megáll",
+      "answer": "megáll"
     },
     {
       "type": "typing",
-      "text": "Színek a rajzolásnál nagyon jó 10"
+      "question": "Gépeld be: algoritmus",
+      "answer": "algoritmus"
     }
   ]
 }

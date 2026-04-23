@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Fájl megnyitása",
+  "theme": "Google kereső",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 1)",
+      "question": "Mi a Google?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 2)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 3)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Egy internetes keresőmotor",
+        "Egy fajta gyümölcs",
+        "A monitor márkája",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 4)",
+      "question": "Melyik oldalon keresünk?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 5)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 6)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "www.google.hu",
+        "www.paint.hu",
+        "www.tiszta.hu",
+        "www.jatek.hu"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 7)",
+      "question": "Hová írjuk the keresett szót?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 8)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 9)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "A keresősávba középen",
+        "A képernyő sarkába",
+        "A billentyűzet na",
+        "A füzetünkbe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 10)",
+      "question": "Hogyan indítjuk the keresést?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 11)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 12)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Entert nyomunk vagy a nagyítóra kattintunk",
+        "Várunk",
+        "Kikapcsoljuk the gépet",
+        "Rázolunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 13)",
+      "question": "Mire jó a 'Képek' fül a Google-ben?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 14)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 15)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Csak képeket mutat a témában",
+        "Zenét játszik",
+        "Rajzol nekünk",
+        "Töröl mindent"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 16)",
+      "question": "Mit jelent a 'találati lista'?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 17)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 18)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "A keresett szóhoz kapcsolódó oldalak",
+        "A gép hibái",
+        "Egy bevásárlólista",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 19)",
+      "question": "Hogyan találunk meg egy állatot a Google-ben?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 20)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 21)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Beírjuk the nevét (pl. 'kutya')",
+        "Leugatjuk the gépet",
+        "Megmutatjuk neki a fotóját",
+        "Várunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 22)",
+      "question": "Mire jó a Google Térkép?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 23)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 24)",
-      "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Helyek és utak keresésére",
+        "Kincskeresésre",
+        "Rajzolásra",
+        "Alvásra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fájl megnyitása? (Kérdés 25)",
+      "question": "Szabad-e bármit elhinni, amit a neten találunk?",
       "options": [
-        "A opció: Fájl megnyitása",
-        "B opció: Fájl megnyitása",
-        "C opció: Fájl megnyitása"
+        "Nem, ellenőrizni kell több helyen",
+        "Igen, a Google mindig igazat mond",
+        "Csak ha színes",
+        "Csak ha nagybetűs"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'hangalapú keresés'?",
+      "options": [
+        "Beszélni kell a géphez, és ő keres",
+        "A gép énekel nekünk",
+        "A billentyűzet beszél",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan keresünk pontos kifejezést?",
+      "options": [
+        "Idézőjelbe tesszük: \"így\"",
+        "Nagybetűvel írjuk",
+        "Sokszor leírjuk",
+        "Kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Google Fordító?",
+      "options": [
+        "Szavak fordítására más nyelvekre",
+        "Képek festésére",
+        "Zene írására",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Google, ha elírjuk the szót?",
+      "options": [
+        "Megkérdezi: 'Esetleg erre gondolt?'",
+        "Kinevet",
+        "Kikapcsol",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videókat keresni a Google-ben?",
+      "options": [
+        "Igen, a Videók fülön",
+        "Nem, csak a Youtube-on",
+        "Csak ha van tévénk",
+        "Csak hétvégén"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a Google logója?",
+      "options": [
+        "Színes betűk (kék, piros, sárga, zöld)",
+        "Egy alma",
+        "Egy ablak",
+        "Egy kismadár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány találatot ad általában a Google?",
+      "options": [
+        "Nagyon sokat (milliókat)",
+        "Mindig csak tízet",
+        "Pontosan egyet",
+        "Változó, de keveset"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Szerencsém van' gomb?",
+      "options": [
+        "Az első találatra ugrik azonnal",
+        "Pénzt ad",
+        "Játékot indít",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan térünk vissza a találatokhoz egy oldalról?",
+      "options": [
+        "A böngésző 'Vissza' gombjával",
+        "Újra gépelünk",
+        "Kikapcsoljuk the gépet",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e híreket keresni?",
+      "options": [
+        "Igen, a Hírek fülön",
+        "Nem, ahhoz újság kell",
+        "Csak ha felnőttek vagyunk",
+        "Csak reggel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó a Google?",
+      "options": [
+        "Gyorsan megtalálunk információkat",
+        "Ettől nem kell tanulni",
+        "Mert szép a színe",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk kereséskor?",
+      "options": [
+        "Hogy pontos szavakat használjunk",
+        "Hogy minél hosszabbat írjunk",
+        "Hogy csak angolul írjunk",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'biztonságos keresés'?",
+      "options": [
+        "Szűri a nem gyerekeknek való dolgokat",
+        "Védi the gépet a vírustól",
+        "Nem engedi elrontani the gépet",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal lépünk the következő oldalra a találatok közt?",
+      "options": [
+        "A számokra vagy a 'Következő' gombra kattintva",
+        "Space-szel",
+        "Enterrel",
+        "Esc-szel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a Google-lel számolni?",
+      "options": [
+        "Igen, ha beírjuk the példát",
+        "Nem, ahhoz számológép kell",
+        "Csak ha tudunk matekozni",
+        "Csak 10-ig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Google Chrome'?",
+      "options": [
+        "Egy böngésző, amit a Google készített",
+        "Egy fajta autó",
+        "Egy fém darab",
+        "Egy játék"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 1"
+      "question": "Gépeld be: keres",
+      "answer": "keres"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 2"
+      "question": "Gépeld be: google",
+      "answer": "google"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 3"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 4"
+      "question": "Gépeld be: szó",
+      "answer": "szó"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 5"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 6"
+      "question": "Gépeld be: gyors",
+      "answer": "gyors"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 7"
+      "question": "Gépeld be: kérdés",
+      "answer": "kérdés"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 8"
+      "question": "Gépeld be: válasz",
+      "answer": "válasz"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 9"
+      "question": "Gépeld be: internet",
+      "answer": "internet"
     },
     {
       "type": "typing",
-      "text": "Fájl megnyitása nagyon jó 10"
+      "question": "Gépeld be: találat",
+      "answer": "találat"
     }
   ]
 }

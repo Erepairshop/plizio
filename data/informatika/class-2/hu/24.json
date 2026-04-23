@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Forma és méret a képen",
+  "theme": "Virtualvalóság",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 1)",
+      "question": "Mi az a VR (Virtual Reality)?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 2)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 3)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Virtuális Valóság (géppel csinált világ)",
+        "Valódi Ruha",
+        "Vörös Robot",
+        "Vége a Rajznak"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 4)",
+      "question": "Mi kell a VR kipróbálásához?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 5)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 6)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "VR szemüveg",
+        "Napszemüveg",
+        "Búvárszemüveg",
+        "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 7)",
+      "question": "Mit látsz a VR szemüvegben?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 8)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 9)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Egy teljesen más, gépi világot",
+        "A saját szobádat",
+        "Csak sötétséget",
+        "A tévét"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 10)",
+      "question": "Mire jó a VR?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 11)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 12)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Játékra, tanulásra, gyakorlásra",
+        "Csak alvásra",
+        "Csak evésre",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 13)",
+      "question": "Mit érezhetsz a VR-ban?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 14)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 15)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Mintha ott lennél a másik világban",
+        "Hogy fázol",
+        "Semmit",
+        "Hogy álmodsz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 16)",
+      "question": "Mi az az AR (Augmented Reality)?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 17)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 18)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Kiterjesztett valóság (digitális dolgok a való világban)",
+        "Autós Rajz",
+        "Alvó Robot",
+        "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 19)",
+      "question": "Melyik játék használ AR-t?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 20)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 21)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Pokemon GO",
+        "Sakk",
+        "Ki nevet a végén",
+        "Paint"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 22)",
+      "question": "Mire kell figyelni VR közben?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 23)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 24)",
-      "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Hogy ne menjünk neki the falnak/bútornak",
+        "Hogy ne nézzünk",
+        "Hogy ne lélegezzünk",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Forma és méret a képen? (Kérdés 25)",
+      "question": "Lehet-e a VR-ban repülni?",
       "options": [
-        "A opció: Forma és méret a képen",
-        "B opció: Forma és méret a képen",
-        "C opció: Forma és méret a képen"
+        "Igen, a játékban bármi lehetséges",
+        "Nem, the gép nem tud repülni",
+        "Csak ha mi is ugrunk",
+        "Soha"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'kontroller' a VR-ban?",
+      "options": [
+        "Eszköz a kezünkben, amivel irányítunk",
+        "Egy gomb a szemüvegen",
+        "A lábunk",
+        "Egy kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e VR-ban a tenger mélyén járni?",
+      "options": [
+        "Igen, virtuálisan",
+        "Nem, elázik the gép",
+        "Csak ha tudunk úszni",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történhet, ha túl sokat vagyunk VR-ban?",
+      "options": [
+        "Szédülhetünk vagy elfáradhatunk",
+        "Erősebbek leszünk",
+        "Zöldek leszünk",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e VR-ban tanulni a csillagokról?",
+      "options": [
+        "Igen, mintha köztük járnánk",
+        "Nem, azok túl messze vannak",
+        "Csak távcsővel",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen eszköz a VR szemüveg?",
+      "options": [
+        "Egy kijelző, ami szorosan a szemünk előtt van",
+        "Egy sima üveglap",
+        "Egy kalap",
+        "Egy doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozogsz a VR világban?",
+      "options": [
+        "A fejed mozgatásával és kontrollerrel",
+        "Csak gépeléssel",
+        "Csak az egérrel",
+        "Várással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 360 fokos videó?",
+      "options": [
+        "Körbe tudunk nézni benne minden irányba",
+        "Nagyon forró videó",
+        "Nagyon gyors videó",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem VR eszköz?",
+      "options": [
+        "Egy sima füzet",
+        "Oculus Quest",
+        "PlayStation VR",
+        "HTC Vive"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a VR az orvosoknak?",
+      "options": [
+        "Műtéteket gyakorolhatnak rajta",
+        "Ezen néznek filmet",
+        "Ezzel rajzolnak",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a VR-ban barátokkal találkozni?",
+      "options": [
+        "Igen, virtuális terekben",
+        "Nem, ott egyedül vagyunk",
+        "Csak ha egy szobában vagyunk",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan néz ki egy VR szemüveg?",
+      "options": [
+        "Mint egy nagy búvárszemüveg",
+        "Mint egy napszemüveg",
+        "Mint egy sapka",
+        "Mint egy táska"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'haptikus kesztyű'?",
+      "options": [
+        "Kesztyű, amivel 'érezhetjük' the tárgyakat a VR-ban",
+        "Egy meleg kesztyű",
+        "Egy gumikesztyű",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a VR az építészeknek?",
+      "options": [
+        "Bejárhatják the házat, mielőtt felépül",
+        "Ezzel verik be the szöget",
+        "Ezzel festenek",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e egyedül VR-ozni kisgyerekként?",
+      "options": [
+        "Inkább felnőtt felügyelete mellett",
+        "Igen, bármennyit",
+        "Csak a sötétben",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért drága a VR?",
+      "options": [
+        "Mert sok okos alkatrész van benne",
+        "Mert nehéz",
+        "Mert színes",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen lesz a VR a jövőben?",
+      "options": [
+        "Még valóságosabb és könnyebb",
+        "Eltűnik",
+        "Ugyanolyan marad",
+        "Semmi"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 1"
+      "question": "Gépeld be: szemüveg",
+      "answer": "szemüveg"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 2"
+      "question": "Gépeld be: világ",
+      "answer": "világ"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 3"
+      "question": "Gépeld be: másik",
+      "answer": "másik"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 4"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 5"
+      "question": "Gépeld be: tér",
+      "answer": "tér"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 6"
+      "question": "Gépeld be: szimuláció",
+      "answer": "szimuláció"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 7"
+      "question": "Gépeld be: játék",
+      "answer": "játék"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 8"
+      "question": "Gépeld be: élmény",
+      "answer": "élmény"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 9"
+      "question": "Gépeld be: virtuális",
+      "answer": "virtuális"
     },
     {
       "type": "typing",
-      "text": "Forma és méret a képen nagyon jó 10"
+      "question": "Gépeld be: valóság",
+      "answer": "valóság"
     }
   ]
 }

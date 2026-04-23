@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Folders",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a folder used for?",
+      "options": [
+        "To play games",
+        "To organize files",
+        "To draw pictures",
+        "To watch movies"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What color are folders usually on a computer?",
+      "options": [
+        "Yellow",
+        "Purple",
+        "Green",
+        "Pink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we put a folder inside another folder?",
+      "options": [
+        "No",
+        "Yes",
+        "Only once",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What can we name a folder?",
+      "options": [
+        "Anything",
+        "Only numbers",
+        "Only 'Folder'",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we delete a folder?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only if it's empty",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Does a folder help keep the computer tidy?",
+      "options": [
+        "No",
+        "Yes",
+        "Sometimes",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we put pictures in a folder?",
+      "options": [
+        "No",
+        "Yes",
+        "Only drawings",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we put music in a folder?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only songs we like"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we open a folder?",
+      "options": [
+        "Type its name",
+        "Wait for it",
+        "Shake the mouse",
+        "Double click it"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we change the name of a folder?",
+      "options": [
+        "No",
+        "Yes",
+        "Only when new",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a folder a physical object in the computer?",
+      "options": [
+        "No, it's digital",
+        "Yes, it's plastic",
+        "Yes, it's paper",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we have many folders?",
+      "options": [
+        "No",
+        "Only ten",
+        "Only one",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What icon looks like a folder?",
+      "options": [
+        "A yellow pocket",
+        "A red ball",
+        "A blue square",
+        "A green star"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we move a folder to the desktop?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only if it's small",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is there a 'Documents' folder?",
+      "options": [
+        "Usually yes",
+        "Never",
+        "Only on Macs",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a folder be empty?",
+      "options": [
+        "No",
+        "Only if it's new",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Does deleting a folder delete everything inside?",
+      "options": [
+        "No",
+        "Yes",
+        "Sometimes",
+        "Only some things"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we copy a folder?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if empty",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we search for a folder?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with a map",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Are folders for computers or tablets?",
+      "options": [
+        "Only computers",
+        "Only tablets",
+        "Neither",
+        "Both"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a folder's main job?",
+      "options": [
+        "Showing movies",
+        "Typing",
+        "Storing things",
+        "Printing"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we color-code folders?",
+      "options": [
+        "No",
+        "Yes, on some systems",
+        "Never",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Should we name our folders properly?",
+      "options": [
+        "No",
+        "Doesn't matter",
+        "Maybe",
+        "Yes, to find them"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we put a game icon in a folder?",
+      "options": [
+        "No",
+        "Only on desktop",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is a 'Sub-folder' a folder inside another?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only in space"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Yellow'",
+      "answer": "Yellow"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Hold'",
+      "answer": "Hold"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Keep'",
+      "answer": "Keep"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Name'",
+      "answer": "Name"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Find'",
+      "answer": "Find"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'File'",
+      "answer": "File"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Save'",
+      "answer": "Save"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'New'",
+      "answer": "New"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Add'",
+      "answer": "Add"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Move'",
+      "answer": "Move"
+    }
+  ]
+}

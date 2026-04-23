@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Video anschauen",
+  "theme": "Internet-Grundlagen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Video anschauen?",
+      "question": "Was ist das Internet?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Viele verbundene Computer",
+        "Ein großes Buch",
+        "Ein einzelnes Kabel",
+        "Ein kleiner Kasten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Video anschauen?",
+      "question": "Was ist ein Browser?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Video anschauen?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund."
+        "Programm für Webseiten",
+        "Ein Spiel",
+        "Ein Malprogramm",
+        "Ein Ordner"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "question": "Was ist eine Webseite?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Video anschauen?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Vogel.",
-        "Der Hund."
+        "Eine Seite im Internet",
+        "Ein Blatt Papier",
+        "Ein Buch",
+        "Ein Poster"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Video anschauen?",
+      "question": "Was bedeutet WWW?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Video anschauen?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel."
+        "World Wide Web",
+        "Wir Wollen Wissen",
+        "Warten Wenn Wetter",
+        "Welt Weit Weg"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Video anschauen?",
+      "question": "Was ist ein Link?",
       "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Eine Verbindung zum Klicken",
+        "Eine Kette",
+        "Ein Seil",
+        "Ein Faden"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Video anschauen?",
+      "question": "Was ist Google?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Video anschauen?",
-      "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Video anschauen?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten."
+        "Eine Suchmaschine",
+        "Ein Spiel",
+        "Ein Video",
+        "Ein Bild"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Video anschauen?",
+      "question": "Was ist WLAN?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Internet ohne Kabel",
+        "Ein Haustier",
+        "Ein Getränk",
+        "Ein Auto"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Video anschauen?",
+      "question": "Darf man alles im Internet glauben?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Video anschauen?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Video anschauen?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Video anschauen?",
-      "options": [
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Nein, vorsichtig sein",
+        "Ja, alles",
+        "Nur was bunt ist",
+        "Nur was groß ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Video anschauen?",
+      "question": "Was ist eine E-Mail?",
       "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Video anschauen?",
-      "options": [
-        "Müde.",
-        "Nein.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Video anschauen?",
-      "options": [
-        "Ja, genau.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ein Hund."
+        "Eine digitale Post",
+        "Ein echter Brief",
+        "Ein Paket",
+        "Ein Zettel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "question": "Was ist ein Router?",
       "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
+        "Verteilt das Internet",
+        "Ein Staubsauger",
+        "Ein Toaster",
+        "Ein Wecker"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Video anschauen?",
+      "question": "Was ist eine URL?",
       "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze."
+        "Die Adresse einer Webseite",
+        "Ein Name",
+        "Ein Passwort",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man im Internet lernen?",
+      "options": [
+        "Ja, sehr gut",
+        "Nein",
+        "Nur am Sonntag",
+        "Nur in der Schule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Video-Portal?",
+      "options": [
+        "Seite zum Filme schauen",
+        "Ein Kino",
+        "Ein Fernseher",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Online'?",
+      "options": [
+        "Verbunden mit dem Netz",
+        "Auf der Leitung stehen",
+        "PC ist aus",
+        "PC ist kaputt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man allein ins Internet?",
+      "options": [
+        "Besser mit Eltern",
+        "Ja, immer",
+        "Nur nachts",
+        "Nur im Keller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Download?",
+      "options": [
+        "Etwas aus dem Netz laden",
+        "Etwas löschen",
+        "Etwas malen",
+        "Etwas singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Suchanfrage?",
+      "options": [
+        "Was man bei Google eintippt",
+        "Eine Frage an den Lehrer",
+        "Ein Rätsel",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es das Internet überall?",
+      "options": [
+        "Fast überall auf der Welt",
+        "Nur zu Hause",
+        "Nur in der Schule",
+        "Nur im Weltall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser-Tab?",
+      "options": [
+        "Mehrere Seiten gleichzeitig",
+        "Ein Keks",
+        "Ein Getränk",
+        "Ein Spielzeug"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Bookmark (Lesezeichen)?",
+      "options": [
+        "Gespeicherte Seite",
+        "Ein echtes Buch",
+        "Ein Papierstreifen",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann das Internet langsam sein?",
+      "options": [
+        "Ja, manchmal",
+        "Nein, nie",
+        "Nur wenn es regnet",
+        "Nur wenn es schneit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Online-Spiel?",
+      "options": [
+        "Spiel mit anderen im Netz",
+        "Ein Brettspiel",
+        "Ein Ballspiel",
+        "Ein Kartenspiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Surfen'?",
+      "options": [
+        "Im Internet stöbern",
+        "Auf Wellen reiten",
+        "Sport machen",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es kostenlose Webseiten?",
+      "options": [
+        "Ja, viele",
+        "Nein, keine",
+        "Nur für Erwachsene",
+        "Nur für Babys"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Chat?",
+      "options": [
+        "Kurze Nachrichten schreiben",
+        "Ein langes Telefonat",
+        "Ein Brief",
+        "Ein Treffen"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Netz",
+      "answer": "Netz"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: WWW",
+      "answer": "WWW"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Link",
+      "answer": "Link"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Welt",
+      "answer": "Welt"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Seite",
+      "answer": "Seite"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Online",
+      "answer": "Online"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Suchen",
+      "answer": "Suchen"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: WLAN",
+      "answer": "WLAN"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Router",
+      "answer": "Router"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Browser",
+      "answer": "Browser"
     }
   ]
 }

@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Ein freundliches Bild",
+  "theme": "Schrittweise zeichnen",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
+      "question": "Was bedeutet schrittweise?",
       "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein freundliches Bild?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
-      "options": [
-        "Nein.",
-        "Müde.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein freundliches Bild?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
-      "options": [
-        "Nein.",
-        "Müde.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein freundliches Bild?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund."
+        "Eins nach dem anderen",
+        "Alles auf einmal",
+        "Durcheinander",
+        "Gar nicht"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "question": "Wie malt man ein Haus?",
       "options": [
-        "Nein.",
-        "Müde.",
-        "Langweilig.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein freundliches Bild?",
-      "options": [
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Nein, ein Auto."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
-      "options": [
-        "Nein.",
-        "Ja!",
-        "Langweilig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Ein freundliches Bild?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein freundliches Bild?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Ein freundliches Bild?",
-      "options": [
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
-      "options": [
-        "Müde.",
-        "Nein.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Ein freundliches Bild?",
-      "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Viereck, dann Dach",
+        "Nur ein Punkt",
+        "Nur ein Strich",
+        "Nur ein Kreis"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "question": "Womit fängt man oft an?",
       "options": [
-        "Müde.",
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
-      "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein."
+        "Mit einer Grundform",
+        "Mit den Details",
+        "Mit der Farbe",
+        "Mit dem Namen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "question": "Wie malt man ein Gesicht?",
       "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Kreis, dann Augen/Mund",
+        "Nur Nase",
+        "Nur Ohren",
+        "Nur Haare"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Ein freundliches Bild?",
+      "question": "Was ist eine Skizze?",
       "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Eine grobe Vorzeichnung",
+        "Ein fertiges Bild",
+        "Ein kaputtes Bild",
+        "Ein bunter Fleck"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "question": "Wie malt man einen Baum?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Nein.",
-        "Langweilig."
+        "Stamm, dann Krone",
+        "Nur Blätter",
+        "Nur Wurzeln",
+        "Nur Äpfel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Anleitung?",
+      "options": [
+        "Erklärung wie es geht",
+        "Ein Spiel",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man eine Sonne?",
+      "options": [
+        "Kreis, dann Strahlen",
+        "Nur Striche",
+        "Nur Gelb",
+        "Nur Punkte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fehler machen?",
+      "options": [
+        "Ja, zum Lernen",
+        "Nein, nie",
+        "Nur wenn niemand schaut",
+        "Nur im Dunkeln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man eine Blume?",
+      "options": [
+        "Stiel, dann Blüte",
+        "Nur Kerne",
+        "Nur Erde",
+        "Nur Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was hilft beim Zeichnen?",
+      "options": [
+        "Geduld und Übung",
+        "Schnell rennen",
+        "Laut schreien",
+        "Viel schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man ein Auto?",
+      "options": [
+        "Kasten, dann Räder",
+        "Nur Lenkrad",
+        "Nur Licht",
+        "Nur Hupe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Schritte gut?",
+      "options": [
+        "Es ist einfacher",
+        "Es dauert länger",
+        "Es ist schwerer",
+        "Es ist bunter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man eine Katze?",
+      "options": [
+        "Kopf, Körper, Schwanz",
+        "Nur Schnurrbart",
+        "Nur Pfoten",
+        "Nur Ohren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Details?",
+      "options": [
+        "Kleine Dinge (z.B. Knöpfe)",
+        "Große Formen",
+        "Bunte Farben",
+        "Schwere Steine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Vorlagen benutzen?",
+      "options": [
+        "Ja, zum Abmalen",
+        "Nein, verboten",
+        "Nur im Museum",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man einen Fisch?",
+      "options": [
+        "Oval, dann Flossen",
+        "Nur Schuppen",
+        "Nur Wasser",
+        "Nur Blasen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Symmetrie?",
+      "options": [
+        "Beide Seiten gleich",
+        "Alles schief",
+        "Alles bunt",
+        "Alles dunkel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man einen Vogel?",
+      "options": [
+        "Körper, Flügel, Schnabel",
+        "Nur Eier",
+        "Nur Nest",
+        "Nur Federn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Radiergummi hier?",
+      "options": [
+        "Hilfslinien wegmachen",
+        "Farbe malen",
+        "Bild speichern",
+        "Bild drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man einen Schneemann?",
+      "options": [
+        "Drei Kugeln übereinander",
+        "Ein großes Viereck",
+        "Einen langen Strich",
+        "Einen Stern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man am PC leichter korrigieren?",
+      "options": [
+        "Ja, mit Rückgängig",
+        "Nein",
+        "Nur mit Wasser",
+        "Nur mit Seife"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie malt man eine Wolke?",
+      "options": [
+        "Viele kleine Bögen",
+        "Ein gerader Strich",
+        "Ein spitzes Dreieck",
+        "Ein hartes Viereck"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Kontur?",
+      "options": [
+        "Die Außenlinie",
+        "Die Farbe innen",
+        "Der Hintergrund",
+        "Der Rahmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht schrittweise Malen stolz?",
+      "options": [
+        "Ja, wenn es fertig ist",
+        "Nein",
+        "Nur den Lehrer",
+        "Nur am Montag"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Linie",
+      "answer": "Linie"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Schritt",
+      "answer": "Schritt"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Form",
+      "answer": "Form"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Tier",
+      "answer": "Tier"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Haus",
+      "answer": "Haus"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Baum",
+      "answer": "Baum"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Sonne",
+      "answer": "Sonne"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Auto",
+      "answer": "Auto"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Blume",
+      "answer": "Blume"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Gesicht",
+      "answer": "Gesicht"
     }
   ]
 }

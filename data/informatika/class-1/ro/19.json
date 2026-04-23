@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Întreabă părinții",
+  "theme": "Sunet și video",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (19.1)",
+      "question": "Cum auzim sunetul de la calculator?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Prin difuzoare sau căști",
+        "Prin monitor",
+        "Prin mouse",
+        "Prin tastatură"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (19.2)",
+      "question": "Putem regla volumul?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da, mai tare sau mai încet",
+        "Nu, e fix",
+        "Doar dacă strigăm noi",
+        "Doar dacă avem telecomandă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (19.3)",
+      "question": "Ce folosim ca să vorbim noi la calculator?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (19.4)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (19.5)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (19.6)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (19.7)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (19.8)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (19.9)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (19.10)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (19.11)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (19.12)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (19.13)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (19.14)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (19.15)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (19.16)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (19.17)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (19.18)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (19.19)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (19.20)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (19.21)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (19.22)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (19.23)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (19.24)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (19.25)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
+        "Microfonul",
+        "Difuzorul",
         "Mouse-ul",
-        "Cablul"
+        "Monitorul"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filme pe calculator?",
+      "options": [
+        "Da, oricând",
+        "Nu, calculatorul e doar pentru scris",
+        "Doar dacă avem televizor",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Pause'?",
+      "options": [
+        "Oprește filmul sau muzica temporar",
+        "Închide calculatorul",
+        "Șterge tot",
+        "Mărește volumul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Mute'?",
+      "options": [
+        "Fără sunet deloc",
+        "Sunet foarte tare",
+        "O limbă străină",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Căștile ne ajută să?",
+      "options": [
+        "Auzim doar noi, fără să-i deranjăm pe alții",
+        "Vedem mai bine",
+        "Scriem mai repede",
+        "Dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem înregistra propria voce?",
+      "options": [
+        "Da, cu un program de înregistrare",
+        "Nu, e interzis",
+        "Doar roboții pot",
+        "Doar magicienii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Filmele pe calculator au nevoie de internet?",
+      "options": [
+        "Nu dacă sunt salvate, da dacă sunt online",
+        "Da, mereu",
+        "Nu, niciodată",
+        "Doar cele noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește programul care redă video?",
+      "options": [
+        "Video Player",
+        "Desenator",
+        "Scriitor",
+        "Cântăreț"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muzica pe calculator poate fi de multe feluri?",
+      "options": [
+        "Da, orice gen muzical",
+        "Doar muzică de copii",
+        "Doar zgomote",
+        "Doar liniște"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să ascultăm muzică foarte tare în căști?",
+      "options": [
+        "Nu, ne poate afecta auzul",
+        "Da, e distractiv",
+        "Da, auzim mai bine",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'clip'?",
+      "options": [
+        "Un filmuleț scurt",
+        "O agrafă",
+        "O jucărie",
+        "Un sunet de clopoțel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face apeluri video?",
+      "options": [
+        "Da, ne vedem și ne auzim cu alții",
+        "Nu, doar ne auzim",
+        "Doar prin semne",
+        "Doar prin poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunetul poate fi 'stereo'?",
+      "options": [
+        "Da, se aude din două direcții",
+        "Nu, e doar un sunet",
+        "E o culoare",
+        "E o formă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba viteza unui video?",
+      "options": [
+        "Da, mai repede sau mai încet (slow motion)",
+        "Nu, e fixă",
+        "Doar dacă alergăm noi",
+        "Doar dacă e vechi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Difuzoarele pot fi încorporate în monitor?",
+      "options": [
+        "Da, unele monitoare au",
+        "Nu, niciodată",
+        "Doar dacă le lipim noi",
+        "Doar laptopurile au"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'playlist'?",
+      "options": [
+        "O listă cu melodii sau filme",
+        "O jucărie",
+        "Un teren de joacă",
+        "O carte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există instrumente muzicale virtuale?",
+      "options": [
+        "Da, pian sau tobă pe ecran",
+        "Nu, trebuie instrumente reale",
+        "Doar dacă avem magie",
+        "Doar pentru profesori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunetul se poate opri brusc?",
+      "options": [
+        "Da, dacă dăm stop sau mute",
+        "Nu, se stinge încet",
+        "Doar dacă se strică",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune subtitrări la filme?",
+      "options": [
+        "Da, ca să citim ce se spune",
+        "Nu, e doar sunet",
+        "Doar dacă filmul e mut",
+        "Doar dacă avem ochelari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muzica ne face să dansăm?",
+      "options": [
+        "Da, dacă ne place!",
+        "Nu, e interzis",
+        "Doar roboții dansează",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatorul are microfon încorporat?",
+      "options": [
+        "Multe au (laptopuri, tablete)",
+        "Niciunul nu are",
+        "Doar dacă îi punem noi unul mare",
+        "Doar dacă e roșu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este YouTube?",
+      "options": [
+        "Un site cu multe videoclipuri",
+        "O mâncare",
+        "Un joc cu tuburi",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești gata să asculți ceva frumos?",
+      "options": [
+        "Da!",
+        "Nu",
+        "Poate",
+        "Sunt gata"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: video",
+      "answer": "video"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: muzica",
+      "answer": "muzica"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: casti",
+      "answer": "casti"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: voce",
+      "answer": "voce"
     },
     {
       "type": "typing",
-      "text": "tastatura"
+      "question": "Tastează cuvântul: tare",
+      "answer": "tare"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: incet",
+      "answer": "incet"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: auzi",
+      "answer": "auzi"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

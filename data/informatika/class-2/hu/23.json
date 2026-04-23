@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Képek az internetről",
+  "theme": "AI alap",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 1)",
+      "question": "Mi az az AI (MI)?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 2)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 3)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Mesterséges Intelligencia (okos gép)",
+        "Egy fajta autó",
+        "Egy új játék",
+        "A monitor neve"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 4)",
+      "question": "Mire képes az AI?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 5)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 6)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Tanulni, válaszolni, segíteni",
+        "Érezni mint egy ember",
+        "Enni és inni",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 7)",
+      "question": "Melyik egy okos gép (AI)?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 8)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 9)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Egy önvezető autó vagy egy beszélgető robot",
+        "Egy sima kalapács",
+        "Egy ceruza",
+        "Egy papírrepülő"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 10)",
+      "question": "Hogyan tanul az AI?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 11)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 12)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Sok-sok adatból és példából",
+        "Iskolába jár",
+        "Alszik rajta",
+        "A tanár tanítja"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 13)",
+      "question": "Tud-e az AI rajzolni?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 14)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 15)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Igen, ha megkérjük rá",
+        "Nem, nincs keze",
+        "Csak ha mi mozgatjuk az egeret",
+        "Soha"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 16)",
+      "question": "Tud-e az AI beszélni?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 17)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 18)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Igen, mint pl. Siri vagy Alexa",
+        "Nem, csak gépelni",
+        "Csak ha felhúzzuk",
+        "Csak énekelni"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 19)",
+      "question": "Okosabb az AI az embernél?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 20)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 21)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Vannak dolgok, amikben igen, de nem mindenben",
+        "Igen, mindenben",
+        "Nem, egyáltalán nem",
+        "Csak ha van áram"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 22)",
+      "question": "Mire jó az AI a háziban?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 23)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 24)",
-      "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Segíthet megérteni the feladatot",
+        "Megírja helyettünk és mi pihenünk",
+        "Törli the házi feladatot",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Képek az internetről? (Kérdés 25)",
+      "question": "Lehet-e az AI-nak barátja?",
       "options": [
-        "A opció: Képek az internetről",
-        "B opció: Képek az internetről",
-        "C opció: Képek az internetről"
+        "Nem, az AI csak egy program",
+        "Igen, egy másik robot",
+        "Igen, egy gyerek",
+        "Csak ha kedves"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e az AI verset írni?",
+      "options": [
+        "Igen, ha megadjuk the témát",
+        "Nem, nincs szíve",
+        "Csak ha másol",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy AI feladat?",
+      "options": [
+        "Képen felismerni the kutyát",
+        "Megenni egy almát",
+        "Futni a réten",
+        "Aludni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kérdezünk az AI-tól?",
+      "options": [
+        "Beírjuk the kérdést neki (prompt)",
+        "Ránézünk",
+        "Gondolunk rá",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mindig igazat mond az AI?",
+      "options": [
+        "Nem, néha ő is tévedhet",
+        "Igen, ő mindent tud",
+        "Csak ha szép a neve",
+        "Csak reggel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'robot'?",
+      "options": [
+        "Gép, ami feladatokat hajt végre",
+        "Egy ember fém ruhában",
+        "Egy fajta állat",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Van-e az AI-nak agya?",
+      "options": [
+        "Nincs, csak számítógépes programja",
+        "Igen, egy fém agya",
+        "Igen, mint nekünk",
+        "Csak ha nagy the gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az AI az orvosoknak?",
+      "options": [
+        "Segít felismerni the betegségeket",
+        "Helyettük műt mindenkit",
+        "Rajzol nekik",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az AI a játékokban?",
+      "options": [
+        "Okosabbá teszi az ellenfeleket",
+        "Ettől lesz színes",
+        "Ettől megy the net",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Féljünk-e az AI-tól?",
+      "options": [
+        "Nem, de okosan kell használni",
+        "Igen, elveszi the játékunkat",
+        "Igen, mert okosabb",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik cég készít AI-t?",
+      "options": [
+        "Google, Microsoft, OpenAI",
+        "LEGO, Mattel",
+        "Milka, Kinder",
+        "Semelyik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e az AI zenét szerezni?",
+      "options": [
+        "Igen, a tanult dallamok alapján",
+        "Nem, nincs füle",
+        "Csak ha mi éneklünk",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'chatbot'?",
+      "options": [
+        "Program, amivel beszélgetni lehet",
+        "Egy beszélő cipő",
+        "Egy fajta madár",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk AI használatakor?",
+      "options": [
+        "Hogy ellenőrizzük, amit mond",
+        "Hogy ne mondjunk neki titkot",
+        "Az 1. és 2. is jó",
+        "Semmire"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e az AI focizni?",
+      "options": [
+        "Csak ha robottestet kap",
+        "Igen, bármikor",
+        "Csak a konzolon",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy híres AI?",
+      "options": [
+        "ChatGPT",
+        "Paint",
+        "Lomtár",
+        "Egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi lesz az AI a jövőben?",
+      "options": [
+        "Még okosabb segítőtárs",
+        "Világuralom",
+        "Eltűnik",
+        "Semmi"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 1"
+      "question": "Gépeld be: robot",
+      "answer": "robot"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 2"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 3"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 4"
+      "question": "Gépeld be: segít",
+      "answer": "segít"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 5"
+      "question": "Gépeld be: tanul",
+      "answer": "tanul"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 6"
+      "question": "Gépeld be: jövő",
+      "answer": "jövő"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 7"
+      "question": "Gépeld be: beszél",
+      "answer": "beszél"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 8"
+      "question": "Gépeld be: kérdez",
+      "answer": "kérdez"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 9"
+      "question": "Gépeld be: válaszol",
+      "answer": "válaszol"
     },
     {
       "type": "typing",
-      "text": "Képek az internetről nagyon jó 10"
+      "question": "Gépeld be: agy",
+      "answer": "agy"
     }
   ]
 }

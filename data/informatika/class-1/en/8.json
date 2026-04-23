@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Typing letters",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we use to type letters?",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the letter 'A'?",
+      "options": [
+        "On the mouse",
+        "On the keyboard",
+        "In the bin",
+        "On the floor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many hands should we use?",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What key makes a space?",
+      "options": [
+        "Spacebar",
+        "Enter",
+        "Shift",
+        "Esc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What key deletes a letter?",
+      "options": [
+        "Enter",
+        "Shift",
+        "Backspace",
+        "Alt"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type our name?",
+      "options": [
+        "No",
+        "Only if we are 10",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which key helps with CAPITAL letters?",
+      "options": [
+        "Space",
+        "Shift",
+        "Enter",
+        "Ctrl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is there a 'Caps Lock' key?",
+      "options": [
+        "No",
+        "True",
+        "Maybe",
+        "Only on some"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are the numbers?",
+      "options": [
+        "Top row or side",
+        "On the screen",
+        "In the mouse",
+        "Nowhere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we type a dot (.)?",
+      "options": [
+        "Click the mouse",
+        "Shout",
+        "Find the dot key",
+        "Jump"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type fast?",
+      "options": [
+        "No",
+        "With practice!",
+        "Only robots can",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is the keyboard for writing?",
+      "options": [
+        "No",
+        "Only for math",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Home Row'?",
+      "options": [
+        "A row of houses",
+        "The top row",
+        "Where fingers rest",
+        "The bottom row"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type on a tablet?",
+      "options": [
+        "No",
+        "Yes, on screen",
+        "Only with a pen",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'QWERTY' a type of keyboard?",
+      "options": [
+        "Yes",
+        "No",
+        "It's a cat's name",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What key starts a new line?",
+      "options": [
+        "Space",
+        "Backspace",
+        "Shift",
+        "Enter"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Do we need to look at the keys?",
+      "options": [
+        "Never",
+        "At first, yes",
+        "Only with eyes closed",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type stories?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only words"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is typing a useful skill?",
+      "options": [
+        "No",
+        "Only for some",
+        "Maybe",
+        "Yes, very!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What key is at the bottom?",
+      "options": [
+        "F1",
+        "Spacebar",
+        "Esc",
+        "Tab"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type numbers?",
+      "options": [
+        "No",
+        "Yes",
+        "Only letters",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many letters are in the alphabet?",
+      "options": [
+        "10",
+        "100",
+        "26",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is there a key for 'Z'?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on some",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we type emoji?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Only on paper",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type a '?'",
+      "options": [
+        "Space",
+        "Enter",
+        "Shift and /",
+        "Click"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "question": "Type 'ABC'",
+      "answer": "ABC"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Word'",
+      "answer": "Word"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Text'",
+      "answer": "Text"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Name'",
+      "answer": "Name"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Letter'",
+      "answer": "Letter"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Type'",
+      "answer": "Type"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Key'",
+      "answer": "Key"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Row'",
+      "answer": "Row"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Hand'",
+      "answer": "Hand"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Book'",
+      "answer": "Book"
+    }
+  ]
+}

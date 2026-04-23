@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Open an image",
+  "theme": "Online safety",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (11.1)",
+      "question": "Should you tell your address online?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (11.2)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (11.3)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "Yes, to everyone",
+        "No, never!",
+        "Only to strangers",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (11.4)",
+      "question": "Who should you talk to online?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (11.5)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (11.6)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "Anyone",
+        "Monsters",
+        "People you know",
+        "Strangers"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (11.7)",
+      "question": "Should you ask a parent before clicking?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "Yes, always",
+        "No",
+        "Only if it's red",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (11.8)",
+      "question": "Is it okay to share your name?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "Yes, to everyone",
+        "No, never",
+        "Only on safe sites",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you see something scary?",
+      "options": [
+        "Close your eyes",
+        "Cry",
+        "Tell an adult",
+        "Ignore it"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Are all people online nice?",
+      "options": [
+        "No, be careful",
+        "Yes, everyone",
+        "Only robots",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (11.9)",
+      "question": "Should you give your password to a friend?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "Yes",
+        "No",
+        "Only if they ask",
+        "Maybe"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (11.10)",
+      "question": "Is a 'Private' profile good?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "No",
+        "Yes, it's safer",
+        "Only for adults",
+        "Maybe"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (11.11)",
+      "question": "What is a 'Stranger' online?",
       "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
+        "A friend",
+        "A teacher",
+        "A robot",
+        "Someone you don't know"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (11.12)",
+      "question": "Can you meet someone you met online?",
       "options": [
-        "All day",
-        "30 minutes",
+        "Only with parents",
+        "Yes, alone",
         "Never",
-        "5 hours"
+        "Maybe"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is safe to do online? (11.13)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (11.14)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (11.15)",
+      "question": "Should you share your school's name?",
       "options": [
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "No, keep it private",
+        "Only to some",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (11.16)",
+      "question": "Is it okay to be mean online?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "Yes, it's fun",
+        "Only if they are mean",
+        "Maybe",
+        "No, be kind!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cyberbullying'?",
+      "options": [
+        "Being mean online",
+        "Playing with robots",
+        "Drawing",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you trust everyone online?",
+      "options": [
+        "No, be smart",
+        "Yes, everyone",
+        "Only if they have a cat",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Safe Website'?",
+      "options": [
+        "A site with games",
+        "A site for kids",
+        "A site that is red",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (11.17)",
+      "question": "Can pictures stay online forever?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No, they vanish",
+        "Yes, be careful",
+        "Only for a day",
+        "Maybe"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (11.18)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (11.19)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (11.20)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (11.21)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (11.22)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (11.23)",
+      "question": "Should you post pictures of others without asking?",
       "options": [
         "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "Only if they look funny",
+        "Maybe",
+        "No, ask first"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (11.24)",
+      "question": "Is it okay to spend all day online?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "No, play outside too",
+        "Yes",
+        "Only if it's raining",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (11.25)",
+      "question": "What is a 'Pop-up'?",
       "options": [
-        "Yes",
-        "No",
-        "Only snacks",
-        "Only drinks"
+        "A surprise window",
+        "A type of corn",
+        "A toy",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you click on pop-ups?",
+      "options": [
+        "Yes, always",
+        "Only if they are blue",
+        "Maybe",
+        "No, close them"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can someone pretend to be someone else?",
+      "options": [
+        "No, only in movies",
+        "Yes, be careful",
+        "Maybe",
+        "Never"
       ],
       "correct": 1
     },
     {
-      "type": "typing",
-      "text": "game"
+      "type": "mcq",
+      "question": "Is 'Report' a good button to use?",
+      "options": [
+        "No",
+        "Only for fun",
+        "Maybe",
+        "Yes, for bad things"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should you tell your age to strangers?",
+      "options": [
+        "Yes",
+        "Only if they ask",
+        "Maybe",
+        "No"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the internet a public place?",
+      "options": [
+        "No, it's private",
+        "Only my room",
+        "Yes, like a park",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who is your best helper for safety?",
+      "options": [
+        "A parent or teacher",
+        "A cat",
+        "A toy",
+        "A stranger"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Safe'",
+      "answer": "Safe"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'Ask'",
+      "answer": "Ask"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Stop'",
+      "answer": "Stop"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Private'",
+      "answer": "Private"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'Care'",
+      "answer": "Care"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Help'",
+      "answer": "Help"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'No'",
+      "answer": "No"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Tell'",
+      "answer": "Tell"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Adult'",
+      "answer": "Adult"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Kind'",
+      "answer": "Kind"
     }
   ]
 }

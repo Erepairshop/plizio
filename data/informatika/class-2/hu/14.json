@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Eszközök (Ecset, Radír)",
+  "theme": "Vírus",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 1)",
+      "question": "Mi a számítógépes vírus?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 2)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 3)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Egy rosszindulatú program",
+        "Egy igazi betegség",
+        "Egy kis bogár a gépben",
+        "A gép fáradtsága"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 4)",
+      "question": "Mit okozhat the vírus a gépben?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 5)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 6)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Lassulást, törlést vagy hibákat",
+        "Gyorsulást",
+        "Szebb színeket",
+        "Zenehallgatást"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 7)",
+      "question": "Hogyan kerülhet vírus a gépre?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 8)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 9)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Internetről vagy pendrive-ról",
+        "Ha köhögünk rá",
+        "Ha túl sokat használjuk",
+        "Ha sötét van"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 10)",
+      "question": "Mi az a vírusirtó?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 11)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 12)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Program, ami megvédi the gépet",
+        "Egy spray a monitorra",
+        "Egy gyógyszer",
+        "Egy fajta egér"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 13)",
+      "question": "Mit csinál the vírusirtó?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 14)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 15)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Keresi és törli the vírusokat",
+        "Rajzol",
+        "Filmet játszik",
+        "Gépel helyettünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 16)",
+      "question": "Honnan tudjuk, hogy vírusos the gép?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 17)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 18)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Hibaüzenetek jönnek vagy furcsán működik",
+        "Zöld lesz the monitor",
+        "Megszólal",
+        "Semmiből"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 19)",
+      "question": "Szabad-e gyanús hirdetésre kattintani?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 20)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 21)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Soha, mert vírust hozhat",
+        "Igen, lehet, hogy nyertünk",
+        "Csak ha villog",
+        "Csak ha vicces"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 22)",
+      "question": "Mi az a 'Trójai faló' a gépnél?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 23)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 24)",
-      "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Egy vírus, ami játéknak látszik",
+        "Egy igazi faló",
+        "Egy gomb a billentyűzeten",
+        "Egy mese"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Eszközök (Ecset, Radír)? (Kérdés 25)",
+      "question": "Hogyan védhetjük meg the gépet?",
       "options": [
-        "A opció: Eszközök (Ecset, Radír)",
-        "B opció: Eszközök (Ecset, Radír)",
-        "C opció: Eszközök (Ecset, Radír)"
+        "Vírusirtóval és okos használattal",
+        "Letakarjuk the gépet",
+        "Kikapcsolva tartjuk",
+        "Vízbe mártjuk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'frissítés' a vírusirtónál?",
+      "options": [
+        "Megtanulja az új vírusokat",
+        "Új színt kap",
+        "Gyorsabb lesz tőle the egér",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e ismeretlen fájlt megnyitni?",
+      "options": [
+        "Nem, szóljunk felnőttnek",
+        "Igen, hátha jó",
+        "Csak ha kicsi",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy 'féreg' vírus?",
+      "options": [
+        "Önmagát másolja és terjed",
+        "Megeszi the billentyűket",
+        "Kikúszik a gépből",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the tűzfal?",
+      "options": [
+        "Megállítja the betolakodókat a netről",
+        "Melegíti the szobát",
+        "Kikapcsolja the gépet tűz esetén",
+        "Dísz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a karantén a gépnél?",
+      "options": [
+        "Ahol the vírusokat elzárja the gép",
+        "Ahol the beteg gyerekek vannak",
+        "A gép hátulja",
+        "Egy mappa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a telefon vírusos?",
+      "options": [
+        "Igen, az is egy számítógép",
+        "Nem, the telefon túl kicsi",
+        "Csak ha nincs rajta tok",
+        "Csak ha lemerül"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha vírusirtó riaszt?",
+      "options": [
+        "Szóljunk felnőttnek azonnal",
+        "Kapcsoljuk ki the riasztót",
+        "Üssük meg the gépet",
+        "Sírjunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a spam és a vírus kapcsolata?",
+      "options": [
+        "A szemét levelekben gyakran van vírus",
+        "Nincs kapcsolatuk",
+        "A spam irtja the vírust",
+        "Ugyanaz the kettő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan 'gyógyítják' the gépet?",
+      "options": [
+        "A vírusirtó letörli the rossz részeket",
+        "Megsimogatják",
+        "Kikapcsolják egy hétre",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért rossz the vírus?",
+      "options": [
+        "Mert ellophatja az adatainkat",
+        "Mert unalmas",
+        "Mert drága",
+        "Nem is rossz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan leszünk 'okos' felhasználók?",
+      "options": [
+        "Figyelünk, mire kattintunk",
+        "Mindent letöltünk",
+        "Mindenkinek hiszünk",
+        "Nem kérdezünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy ismert vírusirtó?",
+      "options": [
+        "ESET, Norton, Avast",
+        "Paint, Google",
+        "Windows, Linux",
+        "Lomtár, Asztal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'zsarolóvírus'?",
+      "options": [
+        "Pénzt kér a fájljainkért",
+        "Zsarol the tanárnál",
+        "Kinevet minket",
+        "Nem csinál semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the mentés a vírusok ellen?",
+      "options": [
+        "Ha baj van, megmaradnak the fájlok",
+        "Semmire",
+        "A vírus nem szereti the mentést",
+        "Mentésnél fél the vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vírus a játékokban?",
+      "options": [
+        "Igen, ha nem hivatalos helyről van",
+        "Nem, the játék szent",
+        "Csak ha nehéz the pálya",
+        "Csak ha veszítünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kerüljük el the vírusokat?",
+      "options": [
+        "Legyünk óvatosak az interneten",
+        "Ne kapcsoljuk be the gépet",
+        "Használjunk csak egeret",
+        "Semmit"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 1"
+      "question": "Gépeld be: vírus",
+      "answer": "vírus"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 2"
+      "question": "Gépeld be: beteg",
+      "answer": "beteg"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 3"
+      "question": "Gépeld be: védelem",
+      "answer": "védelem"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 4"
+      "question": "Gépeld be: irtó",
+      "answer": "irtó"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 5"
+      "question": "Gépeld be: rossz",
+      "answer": "rossz"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 6"
+      "question": "Gépeld be: figyel",
+      "answer": "figyel"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 7"
+      "question": "Gépeld be: riasztás",
+      "answer": "riasztás"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 8"
+      "question": "Gépeld be: töröl",
+      "answer": "töröl"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 9"
+      "question": "Gépeld be: vizsgál",
+      "answer": "vizsgál"
     },
     {
       "type": "typing",
-      "text": "Eszközök (Ecset, Radír) nagyon jó 10"
+      "question": "Gépeld be: lassú",
+      "answer": "lassú"
     }
   ]
 }

@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Rajz mentése",
+  "theme": "Scratch első program",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 1)",
+      "question": "Mi az a Scratch?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 2)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 3)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "Egy gyerekeknek készült programozó nyelv",
+        "Egy fajta macskaeledel",
+        "Egy rajzoló program",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 4)",
+      "question": "Ki a Scratch főhőse?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 5)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 6)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "Egy narancssárga cica",
+        "Egy kutya",
+        "Egy robot",
+        "Egy kisfiú"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 7)",
+      "question": "Hogyan adjuk ki the parancsokat?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 8)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 9)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "Színes blokkokat illesztünk össze",
+        "Gépelünk",
+        "Beszélünk a géphez",
+        "Rajzolunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 10)",
+      "question": "Mire jó a Scratch?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 11)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 12)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "Saját játékok és mesék készítésére",
+        "Csak matekozásra",
+        "Csak rajzolásra",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 13)",
+      "question": "Melyik blokk indítja el the programot?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 14)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 15)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "Zöld zászló blokk",
+        "Piros kör blokk",
+        "Kék négyzet",
+        "Sárga háromszög"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 16)",
+      "question": "Hogyan mozog the cica?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 17)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 18)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "A 'Mozogj' blokkal",
+        "Húzzuk az egérrel",
+        "Fújunk rá",
+        "Magától"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 19)",
+      "question": "Hol láthatjuk the programunk eredményét?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 20)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 21)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "A Színpadon",
+        "A billentyűzeten",
+        "A füzetünkben",
+        "A konyhában"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 22)",
+      "question": "Mik azok a blokkok?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 23)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 24)",
-      "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "A parancsok, amiket egymás alá teszünk",
+        "Igazi építőkockák",
+        "A gép gombjai",
+        "A monitor darabjai"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Rajz mentése? (Kérdés 25)",
+      "question": "Hogyan lesz hangja the programnak?",
       "options": [
-        "A opció: Rajz mentése",
-        "B opció: Rajz mentése",
-        "C opció: Rajz mentése"
+        "A 'Hang' blokkokkal",
+        "Mi énekelünk bele",
+        "A gép magától tudja",
+        "Sehogy"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik blokk ismétli the mozgást?",
+      "options": [
+        "A 'Mindig' vagy 'Ismételd' blokk",
+        "A 'Stop' blokk",
+        "A 'Kék' blokk",
+        "Semelyik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan változtatjuk meg the hátteret?",
+      "options": [
+        "A háttér választó gombbal",
+        "Lefestjük the falat",
+        "Kikapcsoljuk the gépet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Szereplő' a Scratch-ben?",
+      "options": [
+        "Egy figura, amit programozunk",
+        "A tanár",
+        "A gyerek",
+        "A monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy blokkot?",
+      "options": [
+        "Visszahúzzuk the menübe vagy jobb klikk törlés",
+        "Ráütünk",
+        "Megesszük",
+        "Kikapcsoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Mondd: Szia!' blokk?",
+      "options": [
+        "Egy szövegbuborék jelenik meg the cica felett",
+        "Megszólal the gép",
+        "Kiírja a tálcára",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e saját szereplőt rajzolni?",
+      "options": [
+        "Igen, a beépített rajzolóval",
+        "Nem, csak a cica van",
+        "Csak ha van fotónk",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz több szereplőnk?",
+      "options": [
+        "Új szereplő hozzáadása gombbal",
+        "Kétszer kattintunk a cicára",
+        "Várunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Jelmez'?",
+      "options": [
+        "Megváltoztathatjuk a szereplő alakját",
+        "Farsangra kell",
+        "A gépnek kell",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lassítjuk le the mozgást?",
+      "options": [
+        "A 'Várj' blokk használatával",
+        "Lassabban húzzuk az egeret",
+        "Halkabban beszélünk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kategóriában vannak the mozgás blokkok?",
+      "options": [
+        "Kék (Mozgás)",
+        "Lila (Kinézet)",
+        "Sárga (Események)",
+        "Zöld (Műveletek)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kategóriában van the zöld zászló?",
+      "options": [
+        "Események",
+        "Mozgás",
+        "Hang",
+        "Változók"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Programozás'?",
+      "options": [
+        "Parancsok adása a gépnek",
+        "Tévénézés",
+        "Játékvásárlás",
+        "Gépelés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan állítjuk meg the programot?",
+      "options": [
+        "A piros nyolcszög (stop) gombbal",
+        "Kihúzzuk the gépet",
+        "Ráfújunk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a Scratch-et internet nélkül használni?",
+      "options": [
+        "Igen, van letölthető változata",
+        "Nem, csak a neten megy",
+        "Csak ha van zsinór",
+        "Csak a telefonon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Kinézet' blokk?",
+      "options": [
+        "Színváltásra vagy szövegírásra",
+        "Csak futásra",
+        "Csak ugrálásra",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért szeretjük a Scratch-et?",
+      "options": [
+        "Mert könnyű és kreatív",
+        "Mert kötelező",
+        "Mert narancssárga",
+        "Nem is szeretjük"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 1"
+      "question": "Gépeld be: scratch",
+      "answer": "scratch"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 2"
+      "question": "Gépeld be: cica",
+      "answer": "cica"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 3"
+      "question": "Gépeld be: kód",
+      "answer": "kód"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 4"
+      "question": "Gépeld be: mozog",
+      "answer": "mozog"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 5"
+      "question": "Gépeld be: hang",
+      "answer": "hang"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 6"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 7"
+      "question": "Gépeld be: jelmez",
+      "answer": "jelmez"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 8"
+      "question": "Gépeld be: háttér",
+      "answer": "háttér"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 9"
+      "question": "Gépeld be: indít",
+      "answer": "indít"
     },
     {
       "type": "typing",
-      "text": "Rajz mentése nagyon jó 10"
+      "question": "Gépeld be: stop",
+      "answer": "stop"
     }
   ]
 }

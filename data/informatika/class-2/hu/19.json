@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Lomtár",
+  "theme": "Képek",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 1)",
+      "question": "Mi a digitális kép?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 2)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 3)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Számítógépen tárolt fotó vagy rajz",
+        "Egy papírkép",
+        "Egy festmény a falon",
+        "A monitor üvege"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 4)",
+      "question": "Mik azok the pixelek?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 5)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 6)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Apró pontok, amikből the kép összeáll",
+        "Kis bogarak",
+        "A billentyűk neve",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 7)",
+      "question": "Melyik fájl egy kép?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 8)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 9)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "kep.jpg",
+        "zene.mp3",
+        "szoveg.txt",
+        "film.avi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 10)",
+      "question": "Mire jó the nagyítás (zoom)?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 11)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 12)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Hogy jobban lássuk the részleteket",
+        "Hogy nagyobb legyen the monitor",
+        "Hogy több színt lássunk",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 13)",
+      "question": "Hol készülhet digitális fotó?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 14)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 15)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Fényképezőgéppel vagy telefonnal",
+        "A billentyűzettel",
+        "Az egérrel",
+        "A hangszóróval"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 16)",
+      "question": "Mi az a 'galéria'?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 17)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 18)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Ahol the képeket tároljuk és nézegetjük",
+        "Egy festőiskola",
+        "A gép hátulja",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 19)",
+      "question": "Hogyan küldhetünk képet the nagyinak?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 20)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 21)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Emailben vagy üzenetben",
+        "Postán (igazi papíron)",
+        "Rágondolunk",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 22)",
+      "question": "Mire jó the képszerkesztő?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 23)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 24)",
-      "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Képek vágására, színezésére, javítására",
+        "Zenehallgatásra",
+        "Gépelésre",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Lomtár? (Kérdés 25)",
+      "question": "Mit jelent the 'vágás' (crop) a képnél?",
       "options": [
-        "A opció: Lomtár",
-        "B opció: Lomtár",
-        "C opció: Lomtár"
+        "Lehagyjuk the kép széleit",
+        "Ollóval szétvágjuk the monitort",
+        "Töröljük the képet",
+        "Megduplázzuk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egy képnek neve?",
+      "options": [
+        "Igen, a fájlnév",
+        "Nem, csak száma",
+        "Csak 'Kép' lehet",
+        "Csak ha felnőtt adja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik színmodell használatos a monitoron?",
+      "options": [
+        "RGB (Piros, Zöld, Kék)",
+        "ABC",
+        "123",
+        "Szivárvány"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'felbontás'?",
+      "options": [
+        "Hány pixelből áll the kép (mennyire éles)",
+        "Milyen nehéz the kép",
+        "Milyen színű",
+        "Mikor készült"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'szelfi'?",
+      "options": [
+        "Magunkról készített fotó",
+        "Egy fajta süti",
+        "A gép neve",
+        "Egy vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentjük el az internetről the képet?",
+      "options": [
+        "Jobb klikk -> Kép mentése másként",
+        "Bal klikk ötször",
+        "Megrázzuk the monitort",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e rajzolni a gépbe?",
+      "options": [
+        "Igen, pl. a Paint programmal",
+        "Nem, csak fotózni lehet",
+        "Csak ha van tollunk",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a háttérkép?",
+      "options": [
+        "Az asztalon látható kép",
+        "A falon lévő poszter",
+        "A gép mögötti fal",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha túl nagyra nagyítunk egy kis képet?",
+      "options": [
+        "Kockás lesz (pixeles)",
+        "Eltűnik",
+        "Kitisztul",
+        "Megszólal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem képfájl?",
+      "options": [
+        "dal.mp3",
+        "foto.png",
+        "rajz.bmp",
+        "kep.gif"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'GIF'?",
+      "options": [
+        "Mozgó kép",
+        "Egy fajta étel",
+        "Egy hang",
+        "Egy kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the vaku?",
+      "options": [
+        "Hogy sötétben is lehessen fotózni",
+        "Hogy világítson the monitor",
+        "Hogy lássuk the billentyűket",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan forgatunk el egy képet?",
+      "options": [
+        "A szerkesztőben a forgatás gombbal",
+        "Megfordítjuk the telefont/monitort",
+        "Fejre állunk",
+        "Körbe futunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'szűrő' (filter)?",
+      "options": [
+        "Megváltoztatja the kép hangulatát/színeit",
+        "Kiszűri the vírust",
+        "Letisztítja the monitort",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e bárkiről fotót készíteni?",
+      "options": [
+        "Csak ha megengedi",
+        "Igen, bárkiről",
+        "Csak ha nem látja",
+        "Csak ha kérik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol tárolja the telefon a képeket?",
+      "options": [
+        "A memóriájában",
+        "A képernyőben",
+        "A gombokban",
+        "Sehol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a felhő a képeknél?",
+      "options": [
+        "Hogy ne foglalják the helyet a telefonon",
+        "Hogy ne legyenek vizesek",
+        "Hogy esőben is lássuk",
+        "Semmire"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 1"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 2"
+      "question": "Gépeld be: fotó",
+      "answer": "fotó"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 3"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 4"
+      "question": "Gépeld be: fény",
+      "answer": "fény"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 5"
+      "question": "Gépeld be: alak",
+      "answer": "alak"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 6"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 7"
+      "question": "Gépeld be: lát",
+      "answer": "lát"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 8"
+      "question": "Gépeld be: kamera",
+      "answer": "kamera"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 9"
+      "question": "Gépeld be: album",
+      "answer": "album"
     },
     {
       "type": "typing",
-      "text": "Lomtár nagyon jó 10"
+      "question": "Gépeld be: galéria",
+      "answer": "galéria"
     }
   ]
 }

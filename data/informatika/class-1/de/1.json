@@ -5,318 +5,328 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "question": "Was ist ein Computer?",
       "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt."
+        "Eine Maschine",
+        "Ein Tier",
+        "Ein Baum",
+        "Ein Brot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was braucht ein Computer?",
+      "options": [
+        "Saft",
+        "Strom",
+        "Suppe",
+        "Sand"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "question": "Wo ist ein Computer?",
       "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "Im Wald",
+        "In der Schule",
+        "Im Meer",
+        "In der Luft"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
+      "question": "Kann ein Computer rechnen?",
       "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Was ist ein Computer??",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
-      "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
-      "options": [
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht."
+        "Nein",
+        "Ja",
+        "Nur bis 3",
+        "Manchmal"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "question": "Hat ein Computer ein Gehirn?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Vielleicht.",
-        "Weiß nicht."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Was ist ein Computer??",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Was ist ein Computer??",
-      "options": [
-        "Langweilig.",
-        "Ja!",
-        "Müde.",
-        "Nein."
+        "Ja, aus Fleisch",
+        "Nein, einen Prozessor",
+        "Ja, aus Glas",
+        "Nein, gar nichts"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "question": "Was kann man am Computer?",
       "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt.",
-        "Müde."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Was ist ein Computer??",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Was ist ein Computer??",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Nein.",
-        "Ja!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
-      "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
-      "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten."
+        "Schwimmen",
+        "Lernen",
+        "Fliegen",
+        "Kochen"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "question": "Ist ein Laptop ein Computer?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher."
+        "Ja",
+        "Nein",
+        "Vielleicht",
+        "Nur im Auto"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "question": "Hat ein Computer Gefühle?",
       "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel."
+        "Ja",
+        "Nein",
+        "Manchmal",
+        "Nur wenn er lacht"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "question": "Kann ein Computer schlafen?",
       "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Was ist ein Computer??",
-      "options": [
-        "Mama oder Papa.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze."
+        "Ja, Standby",
+        "Nein",
+        "Nur nachts",
+        "Nur wenn er müde ist"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "question": "Was ist ein Tablet?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Was ist ein Computer??",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Ein Computer",
+        "Ein Teller",
+        "Ein Buch",
+        "Ein Stein"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
+      "question": "Braucht ein Computer Wasser?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
+        "Ja",
+        "Nein, das macht ihn kaputt",
+        "Nur zum Waschen",
+        "Nur wenn er heiß ist"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
+      "question": "Wer erfand den Computer?",
       "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Menschen",
+        "Affen",
+        "Roboter",
+        "Aliens"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Was ist ein Computer??",
+      "question": "Was ist ein PC?",
       "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
+        "Personal Computer",
+        "Prima Cola",
+        "Pause Clown",
+        "Papier Computer"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Computer Musik spielen?",
+      "options": [
+        "Nein",
+        "Ja",
+        "Nur wenn man singt",
+        "Nur im Radio"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hat ein Computer Augen?",
+      "options": [
+        "Nein, aber Kameras",
+        "Ja, zwei",
+        "Ja, viele",
+        "Nur eins"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Hardware?",
+      "options": [
+        "Teile zum Anfassen",
+        "Programme",
+        "Essen",
+        "Kleidung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Software?",
+      "options": [
+        "Programme",
+        "Kuscheltiere",
+        "Essen",
+        "Hardware"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie wird ein Computer oft genannt?",
+      "options": [
+        "Rechner",
+        "Schreiber",
+        "Malmaschine",
+        "Spielkasten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es sehr kleine Computer?",
+      "options": [
+        "Nein",
+        "Ja",
+        "Nur in Filmen",
+        "Nur im Weltall"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Lüfter?",
+      "options": [
+        "Kühlen",
+        "Heizen",
+        "Musik",
+        "Putzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Computer malen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Stift",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo speichert er Dinge?",
+      "options": [
+        "Auf der Festplatte",
+        "Im Kühlschrank",
+        "In der Tasche",
+        "Unter dem Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Smartphone ein Computer?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur zum Telefonieren",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man einen Computer pflegen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Wasser",
+        "Nur mit Seife"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Supercomputer?",
+      "options": [
+        "Ein sehr schneller Computer",
+        "Ein Computer mit Cape",
+        "Ein kaputter Computer",
+        "Ein kleiner Computer"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Computer",
+      "answer": "Computer"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Strom",
+      "answer": "Strom"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Spiel",
+      "answer": "Spiel"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Arbeit",
+      "answer": "Arbeit"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Lernen",
+      "answer": "Lernen"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Gerät",
+      "answer": "Gerät"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Chip",
+      "answer": "Chip"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Kabel",
+      "answer": "Kabel"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Taste",
+      "answer": "Taste"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Box",
+      "answer": "Box"
     }
   ]
 }

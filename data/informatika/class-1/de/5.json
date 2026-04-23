@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Einschalten / Ausschalten",
+  "theme": "Ordner",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "question": "Wozu sind Ordner da?",
       "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Traurig.",
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einschalten / Ausschalten?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einschalten / Ausschalten?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Einschalten / Ausschalten?",
-      "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Zum Aufräumen",
+        "Zum Essen",
+        "Zum Schlafen",
+        "Zum Fliegen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Einschalten / Ausschalten?",
+      "question": "Wie sieht ein Ordner meist aus?",
       "options": [
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Traurig.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einschalten / Ausschalten?",
-      "options": [
-        "Im Garten.",
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
-      "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund."
+        "Gelb",
+        "Blau",
+        "Rot",
+        "Grün"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "question": "Was kann in einen Ordner?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einschalten / Ausschalten?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Dateien",
+        "Milch",
+        "Sand",
+        "Steine"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Einschalten / Ausschalten?",
+      "question": "Kann man Ordner benennen?",
       "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Einschalten / Ausschalten?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Ja",
+        "Nein",
+        "Nur mit Zahlen",
+        "Nur mit Tieren"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Einschalten / Ausschalten?",
+      "question": "Was ist ein Unterordner?",
       "options": [
-        "Nein.",
-        "Ja!",
-        "Langweilig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Einschalten / Ausschalten?",
-      "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Einschalten / Ausschalten?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Ordner im Ordner",
+        "Ordner unter dem Tisch",
+        "Ordner im Keller",
+        "Ordner in der Tasche"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Einschalten / Ausschalten?",
+      "question": "Kann man Ordner löschen?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Ja",
+        "Nein",
+        "Nur wenn sie leer sind",
+        "Nur wenn sie voll sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie erstellt man einen Ordner?",
+      "options": [
+        "Rechtsklick -> Neu",
+        "Laut rufen",
+        "Monitor schütteln",
+        "Tastatur drücken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo speichert man Bilder oft?",
+      "options": [
+        "Im Bilder-Ordner",
+        "Im Müll",
+        "Im Browser",
+        "Im Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Ordner voll sein?",
+      "options": [
+        "Nein, fast nie",
+        "Ja, immer",
+        "Nur wenn er schwer ist",
+        "Nur wenn er nass ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim Verschieben?",
+      "options": [
+        "Ordner ist woanders",
+        "Ordner ist weg",
+        "Ordner ist doppelt",
+        "Ordner ist kaputt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ordner kopieren?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit dem Scanner",
+        "Nur mit dem Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Datei-Name?",
+      "options": [
+        "Der Name einer Sache",
+        "Der Name vom Kind",
+        "Der Name vom Lehrer",
+        "Der Name vom PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu hilft Ordnung?",
+      "options": [
+        "Man findet alles",
+        "Es sieht bunt aus",
+        "Der PC wird schneller",
+        "Der PC wird schöner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Desktop?",
+      "options": [
+        "Der Hauptbildschirm",
+        "Ein Tisch",
+        "Ein Stuhl",
+        "Ein Schrank"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ordner verstecken?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur unter der Decke",
+        "Nur im Schrank"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Pfad?",
+      "options": [
+        "Der Weg zum Ordner",
+        "Ein Waldweg",
+        "Ein Radweg",
+        "Ein Gehweg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Ordner groß sein?",
+      "options": [
+        "Ja, wenn viel drin ist",
+        "Nein, immer gleich",
+        "Nur wenn sie gelb sind",
+        "Nur wenn sie blau sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Suchen?",
+      "options": [
+        "Einen Ordner finden",
+        "Einen Ordner verlieren",
+        "Einen Ordner malen",
+        "Einen Ordner essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein ZIP-Ordner?",
+      "options": [
+        "Ein gepackter Ordner",
+        "Ein Ordner mit Reißverschluss",
+        "Ein schneller Ordner",
+        "Ein kleiner Ordner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Ordner wichtig?",
+      "options": [
+        "Ja, für die Ordnung",
+        "Nein, man braucht sie nicht",
+        "Nur zum Spielen",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Farbe ändern?",
+      "options": [
+        "Manchmal",
+        "Nie",
+        "Immer",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Dokument?",
+      "options": [
+        "Eine Datei mit Text",
+        "Ein Tier",
+        "Ein Auto",
+        "Ein Baum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo ist der Download-Ordner?",
+      "options": [
+        "Für Sachen aus dem Netz",
+        "Für Spiele",
+        "Für Musik",
+        "Für Müll"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ordner teilen?",
+      "options": [
+        "Ja, mit anderen",
+        "Nein, nie",
+        "Nur mit der Schere",
+        "Nur mit dem Messer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Ablage?",
+      "options": [
+        "Wo Ordner liegen",
+        "Ein Regal",
+        "Ein Korb",
+        "Ein Bett"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Ordner",
+      "answer": "Ordner"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Gelb",
+      "answer": "Gelb"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Name",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Platz",
+      "answer": "Platz"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Datei",
+      "answer": "Datei"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Inhalt",
+      "answer": "Inhalt"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Sammeln",
+      "answer": "Sammeln"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Papier",
+      "answer": "Papier"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Ablage",
+      "answer": "Ablage"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Speichern",
+      "answer": "Speichern"
     }
   ]
 }

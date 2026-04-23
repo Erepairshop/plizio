@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Das Spiel beenden",
+  "theme": "Einfache Spiele",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
+      "question": "Was ist ein Computer-Spiel?",
       "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
-      "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
-      "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Spiel beenden?",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
-      "options": [
-        "Langweilig.",
-        "Ja!",
-        "Nein.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Das Spiel beenden?",
-      "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
-      "options": [
-        "Müde.",
-        "Ja!",
-        "Nein.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Das Spiel beenden?",
-      "options": [
-        "Im Bett.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Spiel beenden?",
-      "options": [
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Spiel am Rechner",
+        "Ein echtes Brettspiel",
+        "Ein Ballspiel",
+        "Ein Kartenspiel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Das Spiel beenden?",
+      "question": "Womit steuert man?",
       "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Spiel beenden?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Maus/Tastatur",
+        "Löffel",
+        "Schuh",
+        "Gabel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
+      "question": "Was ist ein Level?",
       "options": [
-        "Nein.",
-        "Ja!",
-        "Müde.",
-        "Langweilig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Ein Abschnitt im Spiel",
+        "Ein Buch",
+        "Ein Teller",
+        "Ein Bett"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "question": "Was sind Punkte?",
       "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Das Spiel beenden?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Spiel beenden?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein."
+        "Belohnung im Spiel",
+        "Kleine Kleckse",
+        "Löcher",
+        "Steine"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Das Spiel beenden?",
+      "question": "Was bedeutet 'Game Over'?",
       "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Das Spiel beenden?",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Spiel zu Ende",
+        "Spiel startet",
+        "Spiel macht Pause",
+        "Spiel ist neu"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Das Spiel beenden?",
+      "question": "Kann man zu zweit spielen?",
       "options": [
-        "Langweilig.",
-        "Ja!",
-        "Nein.",
-        "Müde."
+        "Ja, oft",
+        "Nein, nie",
+        "Nur im Wald",
+        "Nur im Auto"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Das Spiel beenden?",
+      "question": "Was ist ein Lernspiel?",
       "options": [
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten."
+        "Spielen und Lernen",
+        "Nur Hausaufgaben",
+        "Ein Langweil-Spiel",
+        "Ein Schlaf-Spiel"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "question": "Was macht die Pause-Taste?",
       "options": [
-        "Ein Apfel.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Spiel kurz anhalten",
+        "Spiel löschen",
+        "Spiel gewinnen",
+        "Spiel verlieren"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "question": "Was ist ein Avatar?",
       "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
+        "Spielfigur",
+        "Ein echtes Tier",
+        "Ein Auto",
+        "Ein Baum"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man den ganzen Tag spielen?",
+      "options": [
+        "Nein, Pausen sind wichtig",
+        "Ja, immer",
+        "Nur wenn es regnet",
+        "Nur im Dunkeln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Highscore?",
+      "options": [
+        "Beste Punktzahl",
+        "Ein hoher Berg",
+        "Ein schwerer Stein",
+        "Ein langer Satz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Start'?",
+      "options": [
+        "Loslegen",
+        "Aufhören",
+        "Warten",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Bonus?",
+      "options": [
+        "Etwas Extra",
+        "Etwas Altes",
+        "Etwas Kaputtes",
+        "Etwas Schlechtes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Spiele gewinnen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur durch Glück",
+        "Nur durch Schummeln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Jump and Run?",
+      "options": [
+        "Hüpfen und Rennen",
+        "Sitzen und Essen",
+        "Liegen und Schlafen",
+        "Lesen und Schreiben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Spielkonsole?",
+      "options": [
+        "Gerät nur zum Spielen",
+        "Ein Küchengerät",
+        "Ein Staubsauger",
+        "Ein Telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu ist der Joystick?",
+      "options": [
+        "Zum Steuern",
+        "Zum Essen",
+        "Zum Malen",
+        "Zum Tippen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Grafik?",
+      "options": [
+        "Wie das Spiel aussieht",
+        "Wie es riecht",
+        "Wie es schmeckt",
+        "Wie es sich anfühlt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Musik im Spiel?",
+      "options": [
+        "Ja, oft",
+        "Nein, nie",
+        "Nur wenn man singt",
+        "Nur im Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fehler (Bug)?",
+      "options": [
+        "Wenn das Spiel hakt",
+        "Ein echtes Insekt",
+        "Ein neues Level",
+        "Ein Sieg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man online spielen?",
+      "options": [
+        "Ja, mit anderen",
+        "Nein, nie",
+        "Nur im Keller",
+        "Nur mit Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Abenteuer-Spiel?",
+      "options": [
+        "Eine Geschichte erleben",
+        "Zahlen rechnen",
+        "Haus putzen",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Puzzle?",
+      "options": [
+        "Teile zusammenfügen",
+        "Schnell rennen",
+        "Laut singen",
+        "Bilder löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum spielt man?",
+      "options": [
+        "Weil es Spaß macht",
+        "Weil man muss",
+        "Zum Schlafen",
+        "Zum Arbeiten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Fairplay?",
+      "options": [
+        "Ehrlich spielen",
+        "Immer gewinnen",
+        "Schummeln",
+        "Anderen den PC wegnehmen"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Spiel",
+      "answer": "Spiel"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Spaß",
+      "answer": "Spaß"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Sieg",
+      "answer": "Sieg"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Pause",
+      "answer": "Pause"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Level",
+      "answer": "Level"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Punkte",
+      "answer": "Punkte"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Freude",
+      "answer": "Freude"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Gewinn",
+      "answer": "Gewinn"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Team",
+      "answer": "Team"
     }
   ]
 }

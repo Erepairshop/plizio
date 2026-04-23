@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "On/Off",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "How do we turn on a computer?",
+      "options": [
+        "Shaking it",
+        "Singing to it",
+        "Power button",
+        "Waiting"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the power symbol usually?",
+      "options": [
+        "A square",
+        "A circle with a line",
+        "A star",
+        "A cat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to just pull the plug?",
+      "options": [
+        "No, use 'Shut down'",
+        "Yes",
+        "Only if in a hurry",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Restart'?",
+      "options": [
+        "Delete everything",
+        "Play a game",
+        "Turn off and back on",
+        "Sleep"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sleep' mode?",
+      "options": [
+        "Save power, stay on",
+        "Computer dreams",
+        "Computer snores",
+        "Computer turns off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we turn off the computer at night?",
+      "options": [
+        "No, never",
+        "Only if it's hot",
+        "Maybe",
+        "Yes, to save energy"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the 'Shut down' button usually?",
+      "options": [
+        "On the screen",
+        "Start menu",
+        "Under the mouse",
+        "In the keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Does a laptop have a battery?",
+      "options": [
+        "No",
+        "Yes",
+        "Only big ones",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when the battery is empty?",
+      "options": [
+        "It gets loud",
+        "It turns red",
+        "Nothing",
+        "It turns off"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Should we charge a laptop?",
+      "options": [
+        "No",
+        "Only when new",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we turn on a monitor separately?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Always",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What color is the power light usually?",
+      "options": [
+        "Black",
+        "Purple",
+        "Green or Blue",
+        "Brown"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Login' part of starting up?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only for adults"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Password'?",
+      "options": [
+        "A loud noise",
+        "A game",
+        "A secret word",
+        "A tool"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we share our password?",
+      "options": [
+        "Yes, with everyone",
+        "No, never!",
+        "Only with friends",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Log out' the same as 'Shut down'?",
+      "options": [
+        "Yes",
+        "Maybe",
+        "Only on Fridays",
+        "No"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we turn off the screen only?",
+      "options": [
+        "No",
+        "Yes",
+        "Maybe",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if it freezes?",
+      "options": [
+        "Hit it",
+        "Ask for help",
+        "Cry",
+        "Ignore it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Does 'Shut down' close programs?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is it safe to touch the power cord?",
+      "options": [
+        "No, never",
+        "Only the plastic part",
+        "Yes, with wet hands",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who should plug in the computer?",
+      "options": [
+        "A baby",
+        "A cat",
+        "An adult",
+        "A bird"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer stay on for a week?",
+      "options": [
+        "No",
+        "Only if it's cold",
+        "Maybe",
+        "Yes, but better to rest"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Booting'?",
+      "options": [
+        "The computer starting up",
+        "Wearing shoes",
+        "Kicking something",
+        "Ending a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does turning off save electricity?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only a little",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is the power button small or big?",
+      "options": [
+        "Always huge",
+        "Usually small",
+        "Invisible",
+        "Blue"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Power'",
+      "answer": "Power"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Start'",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Stop'",
+      "answer": "Stop"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Button'",
+      "answer": "Button"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Light'",
+      "answer": "Light"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Wait'",
+      "answer": "Wait"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Go'",
+      "answer": "Go"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Off'",
+      "answer": "Off"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'On'",
+      "answer": "On"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Shut'",
+      "answer": "Shut"
+    }
+  ]
+}

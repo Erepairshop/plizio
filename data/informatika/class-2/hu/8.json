@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Számgombok",
+  "theme": "USB és pendrive",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 1)",
+      "question": "Mi az a pendrive?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 2)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 3)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Hordozható adattároló",
+        "Egy fajta egér",
+        "A monitor dísze",
+        "Egy kábel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 4)",
+      "question": "Hová dugjuk the pendrive-ot?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 5)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 6)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Az USB portba",
+        "A konnektorba",
+        "A fülünkbe",
+        "A monitorra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 7)",
+      "question": "Mire jó the pendrive?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 8)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 9)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Fájlok szállítására gépek között",
+        "Zenehallgatásra fülhallgató nélkül",
+        "Sütésre",
+        "Világításra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 10)",
+      "question": "Hogyan kell biztonságosan eltávolítani?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 11)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 12)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "A tálcán az adathordozó kiadása gombbal",
+        "Egyszerűen kirántjuk",
+        "Ollóval levágjuk",
+        "Kikapcsoljuk the gépet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 13)",
+      "question": "Lehet-e a pendrive-on játék?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 14)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 15)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Igen, ha rátesszük",
+        "Nem, csak kép",
+        "Csak zene",
+        "Csak házi feladat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 16)",
+      "question": "Melyik a pendrive másik neve?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 17)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 18)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "USB kulcs",
+        "Gépkulcs",
+        "Ajtónyitó",
+        "Kódkulcs"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 19)",
+      "question": "Mekkora egy pendrive?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 20)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 21)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Kicsi, elfér a zsebben",
+        "Mekkora mint egy monitor",
+        "Mint egy ház",
+        "Láthatatlan"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 22)",
+      "question": "Kell-e elem a pendrive-ba?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 23)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 24)",
-      "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Nem, a géptől kap áramot",
+        "Igen, ceruzaelem",
+        "Igen, gombelem",
+        "Csak ha világít"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Számgombok? (Kérdés 25)",
+      "question": "Mi történik, ha vizes lesz the pendrive?",
       "options": [
-        "A opció: Számgombok",
-        "B opció: Számgombok",
-        "C opció: Számgombok"
+        "Tönkremehet, ne érje víz",
+        "Semmi, szereti the vizet",
+        "Gyorsabb lesz",
+        "Kék lesz"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk rá fájlt?",
+      "options": [
+        "Ráhúzzuk a pendrive mappájába",
+        "Ráírjuk filccel",
+        "Ráfújjuk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan tudjuk, melyik az USB csatlakozó?",
+      "options": [
+        "Lapos és téglalap alakú",
+        "Kerek és zöld",
+        "Háromszög alakú",
+        "Nincs ilyen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vírusos egy pendrive?",
+      "options": [
+        "Igen, ezért vigyázni kell vele",
+        "Nem, the vírus nem szereti",
+        "Csak ha beteg the tulajdonosa",
+        "Csak ha meleg van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány fájl fér rá egy pendrive-ra?",
+      "options": [
+        "A méretétől függ (sok)",
+        "Mindig csak 10",
+        "Pontosan 100",
+        "Végtelen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az USB kábel?",
+      "options": [
+        "Adatok és áram szállítására való",
+        "Cipőfűző",
+        "Ugrókötél",
+        "Díszszalag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hányféleképpen lehet bedugni the régi USB-t?",
+      "options": [
+        "Csak egyféleképpen, ha nem megy, meg kell fordítani",
+        "Bárhogy",
+        "Háromféleképpen",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó még az USB?",
+      "options": [
+        "Töltésre is (pl. telefon)",
+        "Evésre",
+        "Alvásra",
+        "Rajzolásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'External Hard Drive'?",
+      "options": [
+        "Egy nagy pendrive (külső merevlemez)",
+        "Egy belső alkatrész",
+        "Egy játék",
+        "A gép agya"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegen pendrive-ot a gépbe dugni?",
+      "options": [
+        "Csak ha megengedi a szülő/tanár",
+        "Igen, bármit",
+        "Csak ha szépen kérik",
+        "Igen, ha találtuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk, ha nem olvassa the gép?",
+      "options": [
+        "Kihúzzuk és újra bedugjuk",
+        "Megütjük the gépet",
+        "Bele fújunk",
+        "Sírva fakadunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Van-e a pendrive-nak mozgó alkatrésze?",
+      "options": [
+        "Nincs",
+        "Van benne egy kerék",
+        "Van benne egy motor",
+        "Igen, ugrál"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színű az USB 3.0 csatlakozó gyakran?",
+      "options": [
+        "Kék",
+        "Piros",
+        "Fekete",
+        "Fehér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a micro-USB?",
+      "options": [
+        "Kisebb csatlakozó, pl. telefonokhoz",
+        "Egy nagyon nagy kábel",
+        "Egy vírus",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan védjük the pendrive-ot?",
+      "options": [
+        "Rátesszük the kupakját",
+        "Vízbe tesszük",
+        "Melegítjük",
+        "Elássuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a felhő tárhely a pendrive helyett?",
+      "options": [
+        "Internetten tároljuk the fájlokat",
+        "Az égen tároljuk",
+        "Esőben használjuk",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legnagyobb tárhely?",
+      "options": [
+        "1 Terabyte",
+        "1 Gigabyte",
+        "1 Megabyte",
+        "1 Kilobyte"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 1"
+      "question": "Gépeld be: pendrive",
+      "answer": "pendrive"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 2"
+      "question": "Gépeld be: usb",
+      "answer": "usb"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 3"
+      "question": "Gépeld be: tároló",
+      "answer": "tároló"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 4"
+      "question": "Gépeld be: bedug",
+      "answer": "bedug"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 5"
+      "question": "Gépeld be: kihúz",
+      "answer": "kihúz"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 6"
+      "question": "Gépeld be: biztonság",
+      "answer": "biztonság"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 7"
+      "question": "Gépeld be: fájl",
+      "answer": "fájl"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 8"
+      "question": "Gépeld be: másol",
+      "answer": "másol"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 9"
+      "question": "Gépeld be: hordoz",
+      "answer": "hordoz"
     },
     {
       "type": "typing",
-      "text": "Számgombok nagyon jó 10"
+      "question": "Gépeld be: kicsi",
+      "answer": "kicsi"
     }
   ]
 }

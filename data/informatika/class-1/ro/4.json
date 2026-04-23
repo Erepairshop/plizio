@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Pictograme (Ikonok)",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o pictogramă?",
+      "options": [
+        "Un desen mic pe ecran",
+        "O prăjitură",
+        "Un cântec",
+        "O pasăre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum deschidem o pictogramă?",
+      "options": [
+        "Dublu click",
+        "O privim fix",
+        "O suflăm",
+        "O strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma reprezintă ceva?",
+      "options": [
+        "Da, un program sau fișier",
+        "Nu, e doar decor",
+        "E o pată de mizerie",
+        "E un joc de lumini"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim pictogramele?",
+      "options": [
+        "Pe desktop (ecranul principal)",
+        "Sub tastatură",
+        "În interiorul mouse-ului",
+        "În spatele monitorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem muta pictogramele?",
+      "options": [
+        "Da, prin glisare",
+        "Nu, sunt lipite",
+        "Doar dacă avem permisiune de la poliție",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum arată pictograma 'Recycle Bin' (Coș de gunoi)?",
+      "options": [
+        "Ca un coș de gunoi",
+        "Ca o floare",
+        "Ca o mașină",
+        "Ca un soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot fi pictogramele colorate?",
+      "options": [
+        "Da",
+        "Nu, sunt doar gri",
+        "Sunt mereu verzi",
+        "Sunt invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă ștergem o pictogramă, ce se întâmplă?",
+      "options": [
+        "Poate dispărea scurtătura",
+        "Explodează calculatorul",
+        "Se stinge lumina",
+        "Nu se întâmplă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictogramele ne ajută?",
+      "options": [
+        "Da, găsim lucrurile mai repede",
+        "Nu, ne încurcă",
+        "Sunt doar pentru joacă",
+        "Sunt plictisitoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care pictogramă seamănă cu un dosar?",
+      "options": [
+        "Folder",
+        "Internet",
+        "Muzică",
+        "Joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru muzică are de obicei?",
+      "options": [
+        "Note muzicale",
+        "O pizza",
+        "Un măr",
+        "O mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba numele unei pictograme?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă e duminică",
+        "Doar dacă e mică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru poze arată ca?",
+      "options": [
+        "O fotografie sau un peisaj",
+        "Un pantof",
+        "O furculiță",
+        "Un nor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde stau pictogramele pe care nu le vrem?",
+      "options": [
+        "În Coșul de gunoi",
+        "Sub pat",
+        "În buzunar",
+        "În monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru jocuri poate fi?",
+      "options": [
+        "Un joystick sau un zar",
+        "O ciorbă",
+        "Un creion",
+        "Un ceas"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot fi pictogramele mari sau mici?",
+      "options": [
+        "Da, putem schimba mărimea",
+        "Nu, au o singură mărime",
+        "Sunt mereu uriașe",
+        "Sunt mereu minuscule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma 'My Computer' arată ca?",
+      "options": [
+        "Un calculator mic",
+        "O casă",
+        "O bicicletă",
+        "O floare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru internet arată ca?",
+      "options": [
+        "Un glob pământesc sau un 'e'",
+        "O gogoașă",
+        "Un câine",
+        "Un soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictogramele se pot alinia singure?",
+      "options": [
+        "Da, automat",
+        "Nu, trebuie să le împingem",
+        "Doar dacă le rugăm",
+        "Doar dacă e vânt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictogramele sunt butoane?",
+      "options": [
+        "Seamănă cu niște butoane magice",
+        "Sunt doar poze",
+        "Sunt doar litere",
+        "Sunt invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă dăm un singur click ce se întâmplă?",
+      "options": [
+        "Se selectează",
+        "Se deschide",
+        "Se șterge",
+        "Se mută"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictogramele pot avea scurtături (săgeată mică)?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cele roșii",
+        "Doar cele noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictogramele sunt pe Desktop?",
+      "options": [
+        "Da",
+        "Sub birou",
+        "Pe scaun",
+        "În tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pictograma pentru scris arată ca?",
+      "options": [
+        "O foaie de hârtie sau un creion",
+        "O minge",
+        "Un pahar",
+        "O stea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem crea noi pictograme?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar roboții pot",
+        "Doar dacă avem vopsea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mic",
+      "answer": "mic"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: desen",
+      "answer": "desen"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: apas",
+      "answer": "apas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: deschid",
+      "answer": "deschid"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cos",
+      "answer": "cos"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nou",
+      "answer": "nou"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: vechi",
+      "answer": "vechi"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: aici",
+      "answer": "aici"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: acolo",
+      "answer": "acolo"
+    }
+  ]
+}

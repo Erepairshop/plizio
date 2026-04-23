@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Nagybetűk és kisbetűk",
+  "theme": "Szövegírás",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 1)",
+      "question": "Melyik programot használjuk szövegíráshoz?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 2)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 3)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "Word vagy Jegyzettömb",
+        "Paint",
+        "Számológép",
+        "Zenelejátszó"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 4)",
+      "question": "Hogyan változtatjuk meg a betűk színét?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 5)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 6)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "A betűszín ikonnal (A betű alatta szín)",
+        "Megfestjük ecsettel",
+        "Ráfújunk a monitorra",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 7)",
+      "question": "Mit jelent a 'Félkövér' betű?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 8)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 9)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "Vastagabbak lesznek a betűk",
+        "Nagyobbak lesznek",
+        "Eldőlnek",
+        "Eltűnnek"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 10)",
+      "question": "Hogyan lesznek 'Dőlt' betűk?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 11)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 12)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "A dőlt (I) ikonnal",
+        "Megdöntjük a monitort",
+        "Fél kézzel gépelünk",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 13)",
+      "question": "Mit csinál az 'Aláhúzott' gomb?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 14)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 15)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "Vonalat húz a szöveg alá",
+        "Áthúzza the szöveget",
+        "Törli the szöveget",
+        "Kiszínezi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 16)",
+      "question": "Hogyan növeljük a betűk méretét?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 17)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 18)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "A számok kiválasztásával a méretnél",
+        "Nagyítóval",
+        "Erősebben nyomjuk a billentyűt",
+        "Közelebb megyünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 19)",
+      "question": "Mi a 'Betűtípus'?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 20)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 21)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "A betűk alakja és stílusa",
+        "A gép neve",
+        "A papír színe",
+        "A billentyűzet típusa"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 22)",
+      "question": "Hogyan igazítjuk középre the szöveget?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 23)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 24)",
-      "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "A középre igazítás ikonnal",
+        "Sok szóközzel",
+        "Az egérrel odahúzzuk",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nagybetűk és kisbetűk? (Kérdés 25)",
+      "question": "Melyik gombbal kezdünk új bekezdést?",
       "options": [
-        "A opció: Nagybetűk és kisbetűk",
-        "B opció: Nagybetűk és kisbetűk",
-        "C opció: Nagybetűk és kisbetűk"
+        "Enter",
+        "Space",
+        "Shift",
+        "Alt"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan javítjuk ki az elgépelt szót?",
+      "options": [
+        "Töröljük és újraírjuk",
+        "Átfestjük",
+        "Hagyjuk úgy",
+        "Kikapcsoljuk the gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Helyesírás-ellenőrző'?",
+      "options": [
+        "Jelzi a hibás szavakat",
+        "Megírja helyettünk the leckét",
+        "Kiszínezi a betűket",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentjük el az irományunkat?",
+      "options": [
+        "Fájl -> Mentés",
+        "Bezárjuk az ablakot",
+        "Kihúzzuk the gépet",
+        "Space-szel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kurzor a szövegben?",
+      "options": [
+        "A villogó jel, ahová a betű kerül",
+        "Egy kis állat",
+        "A billentyűzet neve",
+        "A monitor széle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelölünk ki egy szót?",
+      "options": [
+        "Kattintsunk rá kétszer",
+        "Ránézünk",
+        "Ráütünk",
+        "Megszámoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a felsorolás (pöttyök)?",
+      "options": [
+        "Listák készítésére",
+        "Rajzolásra",
+        "Számolásra",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan illesztünk be képet a szövegbe?",
+      "options": [
+        "Beszúrás -> Kép",
+        "Lerajzoljuk",
+        "Másolás és beillesztés",
+        "Az 1. és 3. is jó"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Margó'?",
+      "options": [
+        "A papír széle és a szöveg közti távolság",
+        "A tanár neve",
+        "Egy betűtípus",
+        "A gép színe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e színes papírra írni a gépben?",
+      "options": [
+        "Igen, az oldal színe állítható",
+        "Nem, csak fehérre",
+        "Csak feketére",
+        "Csak ha van festékünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan gépelünk gyorsabban?",
+      "options": [
+        "Sokat gyakorolunk",
+        "Erősen ütjük a gombokat",
+        "Becsukjuk a szemünket",
+        "Kérünk valakit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'szóköz'?",
+      "options": [
+        "A szavak közötti üres hely",
+        "Egy csillag",
+        "A monitor kerete",
+        "A billentyűk közti rés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk nagy kezdőbetűt?",
+      "options": [
+        "Shift nyomva tartása mellett",
+        "Space-szel",
+        "Enterrel",
+        "Két kattintással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the sorkizárt igazítás?",
+      "options": [
+        "A szöveg mindkét széle egyenes",
+        "Csak a bal széle egyenes",
+        "Csak a jobb széle",
+        "Középen van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy egész mondatot?",
+      "options": [
+        "Kijelöljük és Delete",
+        "Egyesével visszatöröljük",
+        "Kikapcsoljuk the gépet",
+        "Átfestjük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik program ingyenes szövegíró?",
+      "options": [
+        "Jegyzettömb",
+        "Word",
+        "Excel",
+        "Photoshop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire kell figyelni írás közben?",
+      "options": [
+        "Hogy egyenesen üljünk",
+        "Hogy ne nézzük the képernyőt",
+        "Hogy csak egy kézzel írjunk",
+        "Hogy sötét legyen"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 1"
+      "question": "Gépeld be: írás",
+      "answer": "írás"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 2"
+      "question": "Gépeld be: szó",
+      "answer": "szó"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 3"
+      "question": "Gépeld be: mondat",
+      "answer": "mondat"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 4"
+      "question": "Gépeld be: betű",
+      "answer": "betű"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 5"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 6"
+      "question": "Gépeld be: méret",
+      "answer": "méret"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 7"
+      "question": "Gépeld be: vastag",
+      "answer": "vastag"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 8"
+      "question": "Gépeld be: dőlt",
+      "answer": "dőlt"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 9"
+      "question": "Gépeld be: aláhúzott",
+      "answer": "aláhúzott"
     },
     {
       "type": "typing",
-      "text": "Nagybetűk és kisbetűk nagyon jó 10"
+      "question": "Gépeld be: mentés",
+      "answer": "mentés"
     }
   ]
 }

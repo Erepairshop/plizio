@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Bild öffnen",
+  "theme": "Online-Sicherheit",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
+      "question": "Was ist ein sicheres Passwort?",
       "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Bild öffnen?",
-      "options": [
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Bild öffnen?",
-      "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Bild öffnen?",
-      "options": [
-        "Traurig.",
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Bild öffnen?",
-      "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt.",
-        "Müde."
+        "Schwer zu erraten",
+        "1234",
+        "Mein Name",
+        "ABC"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Bild öffnen?",
+      "question": "Darf man sein Passwort verraten?",
       "options": [
-        "Ja!",
-        "Müde.",
-        "Langweilig.",
-        "Nein."
+        "Nein, niemals",
+        "Ja, jedem",
+        "Nur Freunden",
+        "Nur dem Hund"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
+      "question": "Was macht man bei komischen Bildern?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel."
+        "Eltern rufen",
+        "Anschauen",
+        "Weiterklicken",
+        "Löschen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Bild öffnen?",
+      "question": "Darf man Fremden seinen Namen sagen?",
       "options": [
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
-      "options": [
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel."
+        "Nein, im Netz geheim halten",
+        "Ja, immer",
+        "Nur wenn sie nett fragen",
+        "Nur wenn sie Spiele haben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
+      "question": "Was ist ein Virus am PC?",
       "options": [
-        "Der Hund.",
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
+        "Ein schädliches Programm",
+        "Ein echter Schnupfen",
+        "Ein kleines Tier",
+        "Ein bunter Punkt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Bild öffnen?",
+      "question": "Darf man Fotos von sich posten?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
-      "options": [
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa.",
-        "Die Katze."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
-      "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Bild öffnen?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Bild öffnen?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Bild öffnen?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Nur wenn Eltern es erlauben",
+        "Ja, alle",
+        "Nur im Schlafanzug",
+        "Nur beim Essen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Bild öffnen?",
+      "question": "Was ist eine Firewall?",
       "options": [
-        "Ja, sehr wichtig.",
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht."
+        "Ein Schutz-Wall",
+        "Eine brennende Wand",
+        "Ein Spiel",
+        "Ein Film"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Bild öffnen?",
+      "question": "Was macht man bei bösen Nachrichten?",
       "options": [
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher.",
-        "Müde."
+        "Stopp sagen und Hilfe holen",
+        "Zurückschimpfen",
+        "Weinen",
+        "Ignorieren"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Bild öffnen?",
+      "question": "Sind alle Leute im Netz nett?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
+        "Leider nein",
+        "Ja, alle",
+        "Nur die Kinder",
+        "Nur die Erwachsenen"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Bild öffnen?",
+      "question": "Darf man einfach Apps laden?",
       "options": [
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ja, genau."
+        "Erst Eltern fragen",
+        "Ja, klar",
+        "Nur wenn sie gratis sind",
+        "Nur wenn sie bunt sind"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Privatsphäre?",
+      "options": [
+        "Dinge die nur mich angehen",
+        "Ein großes Haus",
+        "Ein Geheimnis",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fake?",
+      "options": [
+        "Etwas Gelogenes",
+        "Etwas Echtes",
+        "Ein Kuchen",
+        "Ein Witz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Regeln wichtig?",
+      "options": [
+        "Damit alle sicher sind",
+        "Damit es keinen Spaß macht",
+        "Damit man lernt",
+        "Damit der PC ganz bleibt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man seine Adresse verraten?",
+      "options": [
+        "Nein, niemals im Netz",
+        "Ja, jedem",
+        "Nur bei Gewinnspielen",
+        "Nur für Pakete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Cybermobbing?",
+      "options": [
+        "Anderen im Netz wehtun",
+        "Ein Fahrrad im Netz",
+        "Ein Spiel",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es Kindersuchmaschinen?",
+      "options": [
+        "Ja, z.B. FragFinn",
+        "Nein",
+        "Nur für Babys",
+        "Nur für Hunde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Blockieren'?",
+      "options": [
+        "Jemanden ausschließen",
+        "Jemanden einladen",
+        "Jemanden malen",
+        "Jemanden rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Antivirus-Programm?",
+      "options": [
+        "Schützt vor Viren",
+        "Macht den PC krank",
+        "Ist ein Spiel",
+        "Ist zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Webcams abdecken?",
+      "options": [
+        "Ja, wenn man sie nicht braucht",
+        "Nein, nie",
+        "Nur nachts",
+        "Nur wenn es hell ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Telefonnummern sagen?",
+      "options": [
+        "Nein, privat bleiben",
+        "Ja, immer",
+        "Nur wenn man will",
+        "Nur für Spiele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Nickname?",
+      "options": [
+        "Ein Spitzname im Netz",
+        "Ein echter Name",
+        "Ein Tiername",
+        "Ein Passwort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Downloads immer sicher?",
+      "options": [
+        "Nein, können Viren haben",
+        "Ja, immer",
+        "Nur wenn sie klein sind",
+        "Nur wenn sie schnell sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Daten-Schutz?",
+      "options": [
+        "Auf seine Infos aufpassen",
+        "Daten löschen",
+        "Daten malen",
+        "Daten singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht man bei Angst im Netz?",
+      "options": [
+        "PC aus und Eltern sagen",
+        "Weitermachen",
+        "Sich verstecken",
+        "Schreien"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das Internet ein Dorf?",
+      "options": [
+        "Eher wie eine riesige Stadt",
+        "Ja",
+        "Nein, ein Haus",
+        "Nein, ein Wald"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Sicher",
+      "answer": "Sicher"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Schutz",
+      "answer": "Schutz"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Geheim",
+      "answer": "Geheim"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Stopp",
+      "answer": "Stopp"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Hilfe",
+      "answer": "Hilfe"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Eltern",
+      "answer": "Eltern"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Privat",
+      "answer": "Privat"
     },
     {
       "type": "typing",
-      "text": "Tastatur"
+      "question": "Tippe: Achtung",
+      "answer": "Achtung"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Regel",
+      "answer": "Regel"
     },
     {
       "type": "typing",
-      "text": "Bild"
+      "question": "Tippe: Passwort",
+      "answer": "Passwort"
     }
   ]
 }

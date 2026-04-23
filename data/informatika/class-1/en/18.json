@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Don't talk to strangers online",
+  "theme": "Camera",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How long should we play? (18.1)",
+      "question": "What does a camera do?",
       "options": [
-        "All day",
-        "30 minutes",
+        "Takes pictures",
+        "Makes food",
+        "Cleans the room",
+        "Sings"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the camera on a laptop?",
+      "options": [
+        "Under the keyboard",
+        "At the top of the screen",
+        "On the mouse",
+        "Nowhere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Selfie'?",
+      "options": [
+        "A picture of yourself",
+        "A type of fish",
+        "A toy",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we take videos too?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only with a phone"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Flash'?",
+      "options": [
+        "A fast runner",
+        "A bright light",
+        "A toy",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we see the picture right away?",
+      "options": [
+        "No, wait a week",
+        "Yes, on screen",
+        "Only if we print",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to take photos of everyone?",
+      "options": [
+        "Yes, everyone",
+        "Only strangers",
+        "Maybe",
+        "Ask first!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Smile' for?",
+      "options": [
+        "Eating",
+        "Taking a happy photo",
+        "Sleeping",
+        "Running"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use filters?",
+      "options": [
+        "No",
+        "Yes, to change colors",
+        "Only on paper",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Lens'?",
+      "options": [
+        "A type of food",
+        "A shoe",
+        "The eye of the camera",
+        "A hat"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we delete a bad photo?",
+      "options": [
+        "No",
+        "Only if we pay",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "How do we 'snap' a photo?",
+      "options": [
+        "Press the button",
+        "Clap",
+        "Shout",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we zoom in with a camera?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with a mirror",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Gallery'?",
+      "options": [
+        "Where photos are kept",
+        "A place to eat",
+        "A playground",
+        "A school"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we print our photos?",
+      "options": [
+        "No",
+        "Only at the shop",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is a camera part of a tablet?",
+      "options": [
         "Never",
-        "5 hours"
+        "Usually yes",
+        "Only on some",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (18.2)",
+      "question": "Can we take photos in the dark?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "No",
+        "Only in the day",
+        "Maybe",
+        "With a flash, yes"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (18.3)",
+      "question": "What is a 'Video Call'?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (18.4)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "Seeing and talking online",
+        "A game",
+        "A tool",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (18.5)",
+      "question": "Can we make funny faces?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "No",
+        "Only on birthdays",
+        "Maybe",
+        "Yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Focus'?",
+      "options": [
+        "Making the picture clear",
+        "Looking away",
+        "Sleeping",
+        "Running"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (18.6)",
+      "question": "Can we record a birthday party?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (18.7)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "No",
+        "Only if there is cake",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (18.8)",
+      "question": "Is a camera a machine?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "No",
+        "It's a toy",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "Who should we ask before downloading? (18.9)",
+      "question": "Do we need to be still?",
       "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (18.10)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (18.11)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (18.12)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (18.13)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (18.14)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (18.15)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (18.16)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (18.17)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (18.18)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "No",
+        "Yes, for a clear photo",
+        "Only if we want to",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (18.19)",
+      "question": "What is 'Storage'?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "Where photos stay",
+        "A place to sleep",
+        "A playground",
+        "A school"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How long should we play? (18.20)",
+      "question": "Can we send photos to Grandma?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "No",
+        "Yes, easily",
+        "Only by mail",
+        "Maybe"
       ],
       "correct": 1
     },
     {
-      "type": "mcq",
-      "question": "What is a computer? (18.21)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (18.22)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (18.23)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (18.24)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (18.25)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
+      "type": "typing",
+      "question": "Type 'Photo'",
+      "answer": "Photo"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Smile'",
+      "answer": "Smile"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Lens'",
+      "answer": "Lens"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Flash'",
+      "answer": "Flash"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Take'",
+      "answer": "Take"
     },
     {
       "type": "typing",
-      "text": "game"
+      "question": "Type 'See'",
+      "answer": "See"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Show'",
+      "answer": "Show"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Click'",
+      "answer": "Click"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Snap'",
+      "answer": "Snap"
     },
     {
       "type": "typing",
-      "text": "clean"
-    },
-    {
-      "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Selfie'",
+      "answer": "Selfie"
     }
   ]
 }

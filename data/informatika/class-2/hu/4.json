@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Dupla kattintás",
+  "theme": "Fájlok és mappák",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 1)",
+      "question": "Mi a mappa?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 2)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 3)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Digitális dosszié fájlok tárolására",
+        "Egy füzet",
+        "Egy doboz a polcon",
+        "A számítógép háza"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 4)",
+      "question": "Mi a fájl?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 5)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 6)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Egy adatcsomag (pl. kép vagy zene)",
+        "Egy gomb",
+        "Egy kábel",
+        "A monitor"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 7)",
+      "question": "Hogyan hozunk létre új mappát?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 8)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 9)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Jobb klikk -> Új -> Mappa",
+        "Kiabálunk a gépnek",
+        "Megrázzuk az egeret",
+        "Várunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 10)",
+      "question": "Lehet-e a mappának neve?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 11)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 12)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Igen, bármit adhatunk",
+        "Nem, csak számok",
+        "Csak 'Mappa' lehet",
+        "Csak angolul"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 13)",
+      "question": "Hogyan nevezünk át egy fájlt?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 14)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 15)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Jobb klikk -> Átnevezés",
+        "Kitöröljük és újraírjuk",
+        "Ránézünk",
+        "Megütjük az Entert"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 16)",
+      "question": "Hol tároljuk a fájljainkat?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 17)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 18)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Mappákban",
+        "A billentyűzeten",
+        "A poharunkban",
+        "A levegőben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 19)",
+      "question": "Melyik ikon jelöli általában a mappát?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 20)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 21)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Sárga dosszié",
+        "Kék kör",
+        "Piros X",
+        "Zöld pipa"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 22)",
+      "question": "Lehet-e egy mappában másik mappa?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 23)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 24)",
-      "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Igen, ez az almappa",
+        "Nem, csak fájl",
+        "Csak ha nagy a gép",
+        "Csak ha engedi a tanár"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Dupla kattintás? (Kérdés 25)",
+      "question": "Hogyan törlünk egy mappát?",
       "options": [
-        "A opció: Dupla kattintás",
-        "B opció: Dupla kattintás",
-        "C opció: Dupla kattintás"
+        "Kijelöljük és Delete",
+        "Vízbe dobjuk",
+        "Letakarjuk",
+        "Kikapcsoljuk a gépet"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a fájl kiterjesztése (pl. .jpg)?",
+      "options": [
+        "Megmutatja a fájl típusát",
+        "A fájl ára",
+        "A fájl színe",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozgatunk egy fájlt mappába?",
+      "options": [
+        "Belehúzzuk az egérrel",
+        "Ráfújunk",
+        "Suttogunk neki",
+        "Kikapcsoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a fájl mérete?",
+      "options": [
+        "Mennyi helyet foglal a gépen",
+        "Mekkora a képernyőn",
+        "Hány centi",
+        "Milyen nehéz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan találunk meg egy fájlt?",
+      "options": [
+        "A keresőbe írjuk a nevét",
+        "Mindent átnézünk",
+        "Újat csinálunk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik fájl a kép?",
+      "options": [
+        "Ami .png vagy .jpg végű",
+        "Ami .mp3 végű",
+        "Ami .txt végű",
+        "Ami .exe végű"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik fájl a zene?",
+      "options": [
+        "Ami .mp3 vagy .wav végű",
+        "Ami .jpg végű",
+        "Ami .doc végű",
+        "Ami .pdf végű"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Lomtár?",
+      "options": [
+        "Megőrzi a törölt fájlokat",
+        "Meghal tőle a gép",
+        "Zenél",
+        "Képet mutat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nyitunk meg egy mappát?",
+      "options": [
+        "Kétszer kattintunk rá",
+        "Egyszer ráütünk",
+        "Megsimogatjuk",
+        "Kikapcsoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e két ugyanolyan nevű fájl egy mappában?",
+      "options": [
+        "Nem, különböző név kell",
+        "Igen, bármennyi",
+        "Csak ha fekete-fehér",
+        "Csak kedden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Dokumentumok' mappa?",
+      "options": [
+        "Írott szövegek tárolására",
+        "Csak játékra",
+        "Szemétnek",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha kiürítjük a Lomtárat?",
+      "options": [
+        "Végleg eltűnnek a fájlok",
+        "Újra előjönnek",
+        "Megtelik a gép",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a képfájlé?",
+      "options": [
+        "Gyakran egy kis kép vagy táj",
+        "Egy hangjegy",
+        "Egy nagy W betű",
+        "Egy sárga doboz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látjuk a fájlok listáját?",
+      "options": [
+        "A fájlkezelőben",
+        "A Paintben",
+        "A böngészőben",
+        "A falon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Mentés'?",
+      "options": [
+        "Eltároljuk a munkánkat",
+        "Kimentjük a gépből",
+        "Megvédjük a vírustól",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos rendet tartani a mappákban?",
+      "options": [
+        "Hogy gyorsan megtaláljunk mindent",
+        "Hogy szebb legyen a gép",
+        "Mert a tanár kéri",
+        "Nem fontos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelölünk ki minden fájlt?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Esc"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 1"
+      "question": "Gépeld be: mappa",
+      "answer": "mappa"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 2"
+      "question": "Gépeld be: fájl",
+      "answer": "fájl"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 3"
+      "question": "Gépeld be: név",
+      "answer": "név"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 4"
+      "question": "Gépeld be: tárol",
+      "answer": "tárol"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 5"
+      "question": "Gépeld be: nyit",
+      "answer": "nyit"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 6"
+      "question": "Gépeld be: zár",
+      "answer": "zár"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 7"
+      "question": "Gépeld be: új",
+      "answer": "új"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 8"
+      "question": "Gépeld be: ment",
+      "answer": "ment"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 9"
+      "question": "Gépeld be: keres",
+      "answer": "keres"
     },
     {
       "type": "typing",
-      "text": "Dupla kattintás nagyon jó 10"
+      "question": "Gépeld be: rendez",
+      "answer": "rendez"
     }
   ]
 }

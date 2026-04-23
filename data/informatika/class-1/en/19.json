@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Ask parents",
+  "theme": "Audio/Video",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "What is a password? (19.1)",
+      "question": "What do we use to hear sound?",
       "options": [
-        "A secret",
-        "A game",
-        "A color",
+        "Monitor",
+        "Mouse",
+        "Keyboard",
+        "Speakers or Headphones"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Video'?",
+      "options": [
+        "Moving pictures and sound",
+        "A still photo",
+        "A book",
         "A song"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (19.2)",
+      "question": "Can we make the sound louder?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (19.3)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (19.4)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (19.5)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (19.6)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (19.7)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (19.8)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (19.9)",
-      "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (19.10)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (19.11)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (19.12)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (19.13)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (19.14)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (19.15)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (19.16)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "Only if we shout",
+        "Yes, volume up",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (19.17)",
+      "question": "What is 'Mute'?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (19.18)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (19.19)",
-      "options": [
-        "A secret",
+        "Very loud",
+        "No sound at all",
         "A game",
-        "A color",
-        "A song"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (19.20)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "A tool"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (19.21)",
+      "question": "Can we watch cartoons on a computer?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "No",
+        "Yes",
+        "Only on TV",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Microphone'?",
+      "options": [
+        "To record your voice",
+        "To hear music",
+        "A toy",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (19.22)",
+      "question": "Should we use headphones in school?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (19.23)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (19.24)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "If the teacher says so",
+        "Yes, always",
+        "No, never",
+        "Maybe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (19.25)",
+      "question": "What is a 'YouTube'?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "A type of tube",
+        "A video website",
+        "A toy",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we pause a video?",
+      "options": [
+        "No",
+        "Maybe",
+        "Only once",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Play' look like?",
+      "options": [
+        "A square",
+        "A triangle",
+        "Two lines",
+        "A star"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Pause' look like?",
+      "options": [
+        "Two lines",
+        "A triangle",
+        "A square",
+        "A star"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we record a song?",
+      "options": [
+        "No",
+        "Only if we are singers",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
-      "type": "typing",
-      "text": "secret"
+      "type": "mcq",
+      "question": "Is music digital?",
+      "options": [
+        "No, only on radio",
+        "It can be",
+        "Only on CDs",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Volume'?",
+      "options": [
+        "How loud or quiet",
+        "A type of book",
+        "A color",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we see a movie on a laptop?",
+      "options": [
+        "No",
+        "Only at cinema",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Are headphones for one person?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only for cats"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make our own video?",
+      "options": [
+        "No",
+        "Only experts",
+        "Yes, with a camera",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Screen'?",
+      "options": [
+        "Where we see the video",
+        "A tool",
+        "A toy",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we hear birds on a computer?",
+      "options": [
+        "No",
+        "Only in the park",
+        "If it's in a video, yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is a podcast just sound?",
+      "options": [
+        "No, only pictures",
+        "Yes, like a radio show",
+        "Maybe",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we fast-forward?",
+      "options": [
+        "No",
+        "Only at the end",
+        "Yes, to skip ahead",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we listen at safe volumes?",
+      "options": [
+        "No, always max volume",
+        "Maybe",
+        "Yes, protect your ears",
+        "Never"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we see Grandma on video?",
+      "options": [
+        "No",
+        "Only on phone",
+        "Yes, video call",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Streaming'?",
+      "options": [
+        "Swimming",
+        "Running",
+        "Watching as it comes",
+        "Sleeping"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Do computers have small speakers?",
+      "options": [
+        "Never",
+        "Usually yes",
+        "Only big ones",
+        "Maybe"
+      ],
+      "correct": 1
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Sound'",
+      "answer": "Sound"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Watch'",
+      "answer": "Watch"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Listen'",
+      "answer": "Listen"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Music'",
+      "answer": "Music"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Clip'",
+      "answer": "Clip"
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Play'",
+      "answer": "Play"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Loud'",
+      "answer": "Loud"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Hear'",
+      "answer": "Hear"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Sing'",
+      "answer": "Sing"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Video'",
+      "answer": "Video"
     }
   ]
 }

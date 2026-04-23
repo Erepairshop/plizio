@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Simple games",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we do in a game?",
+      "options": [
+        "Sleep",
+        "Play and learn",
+        "Cry",
+        "Eat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to lose a game?",
+      "options": [
+        "No, never",
+        "Only if you are a baby",
+        "Yes, keep trying!",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we move in some games?",
+      "options": [
+        "Arrow keys",
+        "Shouting",
+        "Jumping",
+        "Singing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Level' in a game?",
+      "options": [
+        "A type of food",
+        "A part of the game",
+        "A color",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we play games on a tablet?",
+      "options": [
+        "No",
+        "Only on Sundays",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we take breaks from games?",
+      "options": [
+        "Yes",
+        "No",
+        "Only when tired",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'High Score'?",
+      "options": [
+        "A low score",
+        "A secret code",
+        "A bad thing",
+        "The best score"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Are games only for fun?",
+      "options": [
+        "Only for work",
+        "Fun and learning",
+        "Only for babies",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we play with friends?",
+      "options": [
+        "No",
+        "Only with cats",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to click in a game?",
+      "options": [
+        "Foot",
+        "Mouse",
+        "Elbow",
+        "Nose"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it fun to win?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can games teach us things?",
+      "options": [
+        "Yes",
+        "No",
+        "Only magic",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do games have music?",
+      "options": [
+        "Never",
+        "Often yes",
+        "Only if you pay",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you click 'Restart'?",
+      "options": [
+        "The computer turns off",
+        "You win",
+        "The game starts over",
+        "Nothing"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can we play games offline?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Always",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a puzzle a type of game?",
+      "options": [
+        "No",
+        "Only on paper",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Player'?",
+      "options": [
+        "The person playing",
+        "The computer",
+        "A toy",
+        "A bird"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do we need to follow rules in a game?",
+      "options": [
+        "No",
+        "Only if we want to",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make our own games?",
+      "options": [
+        "No",
+        "Yes!",
+        "Only grown-ups",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Scratch' for making games?",
+      "options": [
+        "No",
+        "Only for drawing",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Character'?",
+      "options": [
+        "Someone in the game",
+        "A letter",
+        "A number",
+        "A tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we change the difficulty?",
+      "options": [
+        "Never",
+        "Usually yes",
+        "Only if we are old",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Should we be kind when playing with others?",
+      "options": [
+        "No",
+        "Only if we win",
+        "Yes, always",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Controller'?",
+      "options": [
+        "Something to play with",
+        "A teacher",
+        "A cook",
+        "A driver"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to play games all day?",
+      "options": [
+        "Yes",
+        "Only if it's raining",
+        "Maybe",
+        "No, balance is good"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Fun'",
+      "answer": "Fun"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Win'",
+      "answer": "Win"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Play'",
+      "answer": "Play"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Level'",
+      "answer": "Level"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Score'",
+      "answer": "Score"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Game'",
+      "answer": "Game"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Start'",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Over'",
+      "answer": "Over"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Jump'",
+      "answer": "Jump"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Fast'",
+      "answer": "Fast"
+    }
+  ]
+}

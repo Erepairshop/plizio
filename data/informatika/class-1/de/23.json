@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Computer sauber halten",
+  "theme": "Speichern",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Computer sauber halten?",
+      "question": "Was bedeutet Speichern?",
       "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Computer sauber halten?",
-      "options": [
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Computer sauber halten?",
-      "options": [
-        "Die Katze.",
-        "Der Hund.",
-        "Der Vogel.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Dinge am PC behalten",
+        "Dinge löschen",
+        "Dinge wegwerfen",
+        "Dinge vergessen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "question": "Wo speichert der PC?",
       "options": [
-        "Müde.",
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Computer sauber halten?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Auf der Festplatte",
+        "Im Kühlschrank",
+        "Unter dem Tisch",
+        "Im Wald"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
+      "question": "Was ist ein USB-Stick?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Ein kleiner Speicher",
+        "Ein Kaugummi",
+        "Ein Stift zum Malen",
+        "Ein Spielzeug"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Computer sauber halten?",
+      "question": "Warum ist Speichern wichtig?",
       "options": [
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Hund."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
-      "options": [
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Computer sauber halten?",
-      "options": [
-        "Kalt.",
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Computer sauber halten?",
-      "options": [
-        "Müde.",
-        "Langweilig.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
-      "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Bett."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
-      "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Damit die Arbeit nicht weg ist",
+        "Damit der PC schwerer wird",
+        "Damit es bunt leuchtet",
+        "Damit es laut piept"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
+      "question": "Was zeigt das Disketten-Symbol?",
       "options": [
-        "Am Computer.",
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Im Bett."
+        "Speichern",
+        "Löschen",
+        "Drucken",
+        "Pause"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "question": "Was ist eine Datei?",
       "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Computer sauber halten?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Computer sauber halten?",
-      "options": [
-        "Die Katze.",
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Der Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Computer sauber halten?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein.",
-        "Vielleicht."
+        "Eine gespeicherte Sache",
+        "Ein echtes Tier",
+        "Ein bunter Punkt",
+        "Ein lauter Knall"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
+      "question": "Kann man Namen für Dateien geben?",
       "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Ja, zum Wiederfinden",
+        "Nein, der PC wählt",
+        "Nur Zahlen",
+        "Nur Farben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Computer sauber halten?",
+      "question": "Was ist die 'Cloud' (Wolke)?",
       "options": [
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Computer sauber halten?",
-      "options": [
-        "Ja!",
-        "Müde.",
-        "Langweilig.",
-        "Nein."
+        "Speichern im Internet",
+        "Wetter am Himmel",
+        "Regen im PC",
+        "Sonne am Monitor"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Computer sauber halten?",
+      "question": "Kann man Bilder speichern?",
       "options": [
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Computer sauber halten?",
-      "options": [
-        "Ja, sehr wichtig.",
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein."
+        "Ja, immer",
+        "Nein, nie",
+        "Nur wenn sie klein sind",
+        "Nur wenn sie blau sind"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "question": "Was passiert ohne Speichern?",
       "options": [
-        "Gut und sicher.",
-        "Müde.",
-        "Traurig.",
-        "Kalt."
+        "Arbeit kann weg sein",
+        "PC wird schneller",
+        "PC wird schöner",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Speicherkarte?",
+      "options": [
+        "Kleine Karte für Fotos",
+        "Ein Spielzeug",
+        "Ein Keks",
+        "Ein Hut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Speichern unter'?",
+      "options": [
+        "Einen Namen wählen",
+        "Löschen",
+        "Pause",
+        "Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man zu viel speichern?",
+      "options": [
+        "Ja, wenn die Platte voll ist",
+        "Nein, geht immer",
+        "Nur nachts",
+        "Nur im Winter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Backup?",
+      "options": [
+        "Eine Sicherheits-Kopie",
+        "Ein Spiel",
+        "Ein Video",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man seine Dateien?",
+      "options": [
+        "Im Explorer/Finder",
+        "Im Müll",
+        "Im Internet",
+        "Im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine CD/DVD?",
+      "options": [
+        "Ein runder Speicher",
+        "Ein eckiger Kasten",
+        "Ein weiches Kissen",
+        "Ein Teller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien löschen?",
+      "options": [
+        "Ja, wenn man sie nicht braucht",
+        "Nein, nie",
+        "Nur mit der Schere",
+        "Nur mit Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Papierkorb?",
+      "options": [
+        "Hier landen gelöschte Dinge",
+        "Frisches Essen",
+        "Neue Spiele",
+        "Bunte Farben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man oft speichern?",
+      "options": [
+        "Ja, lieber einmal zu viel",
+        "Nein, einmal reicht",
+        "Nur sonntags",
+        "Nur wenn es hell ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Verzeichnis?",
+      "options": [
+        "Ein anderer Name für Ordner",
+        "Ein Buch",
+        "Ein Spiel",
+        "Ein Foto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien verschieben?",
+      "options": [
+        "Ja, in andere Ordner",
+        "Nein, die kleben fest",
+        "Nur mit Kleber",
+        "Nur mit der Schere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Dateiformat?",
+      "options": [
+        "Art der Datei (z.B. Bild)",
+        "Die Größe vom PC",
+        "Die Farbe vom PC",
+        "Der Name vom Kind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien suchen?",
+      "options": [
+        "Ja, mit der Suchfunktion",
+        "Nein, man muss raten",
+        "Nur mit der Lupe",
+        "Nur mit der Brille"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine externe Festplatte?",
+      "options": [
+        "Speicher zum Anstecken",
+        "Ein Teil im PC",
+        "Ein Monitor",
+        "Ein Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wird der PC schwerer durch Dateien?",
+      "options": [
+        "Nein, nur der Speicher voll",
+        "Ja, sehr",
+        "Nur wenn sie groß sind",
+        "Nur wenn es viele sind"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Datei",
+      "answer": "Datei"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Sicher",
+      "answer": "Sicher"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Chip",
+      "answer": "Chip"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Stick",
+      "answer": "Stick"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Wolke",
+      "answer": "Wolke"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Name",
+      "answer": "Name"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Datum",
+      "answer": "Datum"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Platz",
+      "answer": "Platz"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Kopie",
+      "answer": "Kopie"
     },
     {
       "type": "typing",
-      "text": "Sicher"
+      "question": "Tippe: Erhalt",
+      "answer": "Erhalt"
     }
   ]
 }

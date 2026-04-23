@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Culori",
+  "theme": "Roboți",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce este sigur să facem online? (13.1)",
+      "question": "Ce este un robot?",
       "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (13.2)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (13.3)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (13.4)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "O mașină care face sarcini",
+        "Un om din metal",
+        "O jucărie vie",
+        "Un extraterestru"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (13.5)",
+      "question": "Roboții au nevoie de instrucțiuni?",
       "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (13.6)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (13.7)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Da",
+        "Nu, știu tot",
+        "Doar când dorm",
+        "Nu știu"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este sigur să facem online? (13.8)",
+      "question": "Pot roboții să ne ajute?",
       "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (13.9)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da",
+        "Nu, sunt răi",
+        "Doar la teme",
+        "Nu au voie"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (13.10)",
+      "question": "Unde vedem roboți?",
+      "options": [
+        "În fabrici, acasă, în spațiu",
+        "Doar în filme",
+        "Doar sub pământ",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un aspirator inteligent este un robot?",
       "options": [
         "Da",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (13.11)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Este o pisică",
+        "Este o mașină"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum închidem un joc? (13.12)",
+      "question": "Roboții mănâncă mâncare ca noi?",
       "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Nu, folosesc electricitate",
+        "Da, mănâncă șuruburi",
+        "Da, mănâncă baterii",
+        "Nu mănâncă nimic"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (13.13)",
+      "question": "Roboții au sentimente?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Nu, dar pot părea veseli sau triști",
+        "Da, plâng mereu",
+        "Da, se îndrăgostesc",
+        "Doar roboții roz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (13.14)",
+      "question": "Cine construiește roboții?",
       "options": [
-        "Da",
+        "Inginerii și oamenii de știință",
+        "Alți roboți singuri",
+        "Zânele",
+        "Copiii la grădiniță"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot merge pe Lună?",
+      "options": [
+        "Da, sunt trimiși în spațiu",
+        "Nu, se sufocă",
+        "Nu, e prea departe",
+        "Doar dacă au aripi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Din ce sunt făcuți roboții?",
+      "options": [
+        "Metal, plastic și fire",
+        "Carne și oase",
+        "Hârtie și lipici",
+        "Ciocolată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții au creier?",
+      "options": [
+        "Au un calculator în interior",
+        "Au un creier ca al nostru",
+        "Nu au nimic",
+        "Au un ceas"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există roboți care seamănă cu animalele?",
+      "options": [
+        "Da, câini sau pisici robot",
+        "Nu, ar fi ciudat",
+        "Doar în desene",
+        "Doar cei verzi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot vorbi?",
+      "options": [
+        "Da, unii pot",
+        "Nu, doar scot sunete",
+        "Doar dacă le punem baterii de aur",
+        "Doar prin semne"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să 'programezi' un robot?",
+      "options": [
+        "Să îi dai instrucțiuni ce să facă",
+        "Să îl pictăm",
+        "Să îl certăm",
+        "Să îl punem la culcare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții obosesc?",
+      "options": [
+        "Nu, dar li se termină bateria",
+        "Da, dorm 8 ore",
+        "Da, după ce aleargă",
+        "Nu, niciodată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot învăța lucruri noi?",
+      "options": [
+        "Unii pot, prin inteligență artificială",
+        "Nu, fac doar ce le-ai spus",
+        "Doar dacă merg la școală",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un braț robotizat ce poate face?",
+      "options": [
+        "Să ridice lucruri grele",
+        "Să cânte la pian mereu",
+        "Să salute",
+        "Să zboare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții sunt periculoși?",
+      "options": [
+        "Dacă sunt folosiți greșit, da",
+        "Nu, sunt toți buni",
+        "Doar cei roșii",
+        "Doar cei uriași"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții au ochi?",
+      "options": [
+        "Au senzori sau camere",
+        "Au ochi de sticlă",
+        "Nu văd nimic",
+        "Au ochi ca noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se mișcă roboții?",
+      "options": [
+        "Cu motoare și roți sau picioare",
+        "Prin magie",
+        "Îi împingem noi",
+        "Plutesc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există roboți de jucărie?",
+      "options": [
+        "Da, foarte mulți",
+        "Nu, roboții sunt doar mari",
+        "Doar în viitor",
+        "Doar pentru adulți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții ne pot înlocui la școală?",
+      "options": [
+        "Nu, avem nevoie de oameni",
+        "Da, ar fi mai bine",
+        "Doar la ora de matematică",
+        "Doar la pauză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'android'?",
+      "options": [
+        "Un robot care seamănă cu un om",
+        "Un telefon",
+        "O mașină",
+        "O prăjitură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Roboții pot ajuta doctorii?",
+      "options": [
+        "Da, în operații fine",
+        "Nu, sunt prea mări",
+        "Doar dacă sunt albi",
+        "Doar dacă au diplomă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ți-ar plăcea să ai un robot acasă?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (13.15)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (13.16)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (13.17)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Poate",
+        "Mi-e frică"
       ],
       "correct": 0
     },
     {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (13.18)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (13.19)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (13.20)",
-      "options": [
-        "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (13.21)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cu ce dăm click? (13.22)",
-      "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (13.23)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (13.24)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (13.25)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
+      "type": "typing",
+      "question": "Tastează cuvântul: robot",
+      "answer": "robot"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: metal",
+      "answer": "metal"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: brat",
+      "answer": "brat"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: smart",
+      "answer": "smart"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: bec",
+      "answer": "bec"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: fir",
+      "answer": "fir"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: cap",
+      "answer": "cap"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: ochi",
+      "answer": "ochi"
     },
     {
       "type": "typing",
-      "text": "tastatura"
-    },
-    {
-      "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: voce",
+      "answer": "voce"
     }
   ]
 }

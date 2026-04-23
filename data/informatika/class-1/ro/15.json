@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Maxim 30 de minute la ecran",
+  "theme": "Scratch Jr.",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (15.1)",
+      "question": "Ce facem în Scratch Jr.?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
+        "Programăm povești și jocuri",
+        "Mâncăm",
+        "Dormim",
+        "Facem curat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum arată personajul principal?",
+      "options": [
+        "O pisică galbenă",
+        "Un câine albastru",
+        "Un elefant",
+        "Un pește"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare are blocul de Start?",
+      "options": [
+        "Galben (cu steag verde)",
+        "Roșu",
+        "Albastru",
+        "Negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem un personaj să se miște?",
+      "options": [
+        "Folosim blocuri albastre cu săgeți",
+        "Îl împingem cu degetul",
+        "Suflăm în tabletă",
+        "Îi spunem să plece"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul roșu?",
+      "options": [
+        "Oprește programul",
+        "Îl pornește",
+        "Schimbă culoarea",
+        "Cântă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba fundalul?",
+      "options": [
+        "Da, avem o listă de peisaje",
+        "Nu, e mereu alb",
+        "Doar dacă îl pictăm noi",
+        "Doar dacă e noapte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ștergem un personaj?",
+      "options": [
+        "Ținem apăsat pe el și dăm X",
+        "Îl tragem afară din ecran",
+        "Îl certăm",
+        "Închidem tableta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem adăuga sunete?",
+      "options": [
+        "Da, putem chiar înregistra vocea",
+        "Nu, e silențios",
+        "Doar sunete de roboți",
+        "Doar muzică clasică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce fac blocurile roz?",
+      "options": [
+        "Schimbă mărimea sau aspectul",
+        "Fac personajul să sară",
+        "Opresc totul",
+        "Schimbă culoarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum unim blocurile?",
+      "options": [
+        "Le potrivim ca piese de puzzle",
+        "Le lipim cu lipici",
+        "Le punem unul lângă altul departe",
+        "Le aruncăm pe ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea mai multe personaje?",
+      "options": [
+        "Da, oricâte vrem",
+        "Doar unul",
+        "Doar două",
+        "Doar pisica și câinele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'steagul verde'?",
+      "options": [
+        "Semnalul de pornire a programului",
+        "Un premiu",
+        "O decorare",
         "O mâncare"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (15.2)",
+      "question": "Putem desena propriul personaj?",
       "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Da, cu instrumentul de pictură",
+        "Nu, folosim doar ce avem",
+        "Doar dacă avem creion magic",
+        "Doar dacă suntem mari"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum închidem un joc? (15.3)",
+      "question": "Blocul cu săgeată în sus ce face?",
       "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Personajul merge în sus",
+        "Personajul cade",
+        "Personajul dispare",
+        "Personajul cântă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (15.4)",
+      "question": "Ce este o 'buclă' (repeat) în Scratch Jr.?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Un bloc care repetă acțiunile",
+        "Un cerc roșu",
+        "Un personaj nou",
+        "Un sunet de tobă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (15.5)",
+      "question": "Putem trimite mesaje între personaje?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da, cu blocul plic",
+        "Nu, nu pot vorbi",
+        "Doar prin telefon",
+        "Doar dacă se ating"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (15.6)",
+      "question": "Scratch Jr. este pentru?",
       "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (15.7)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Copii între 5 și 7 ani",
+        "Adulți",
+        "Bebelusi",
+        "Doar roboți"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (15.8)",
+      "question": "Ce face blocul 'Sarit'?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Personajul sare în sus",
+        "Personajul se rotește",
+        "Personajul doarme",
+        "Personajul fuge"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (15.9)",
+      "question": "Putem mări sau micșora personajul?",
       "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (15.10)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Da, cu blocurile roz",
+        "Nu, are mărime fixă",
+        "Doar dacă suflăm în ecran",
+        "Doar dacă e mic"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (15.11)",
+      "question": "Cum vedem proiectul pe tot ecranul?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Apăsăm butonul de mărire (prezentare)",
+        "Ne apropiem de ecran",
+        "Închidem ochii pe jumătate",
+        "Punem o lupă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cu ce dăm click? (15.12)",
+      "question": "Putem pune mai multe pagini (scene)?",
       "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (15.13)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Da, până la 4 scene",
+        "Nu, doar una",
+        "Doar dacă avem tabletă mare",
+        "Doar duminica"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (15.14)",
+      "question": "Ce se întâmplă dacă blocurile nu sunt unite?",
       "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (15.15)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (15.16)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Programul nu merge",
+        "Merg doar primele",
+        "Merg toate prin magie",
+        "Calculatorul se stinge"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (15.17)",
+      "question": "Scratch Jr. ne învață?",
       "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Gândire creativă și programare",
+        "Să scriem de mână",
+        "Să facem sport",
+        "Să gătim"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este o parolă? (15.18)",
+      "question": "Cum salvăm în Scratch Jr.?",
       "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Se salvează automat",
+        "Nu se salvează niciodată",
+        "Apăsăm butonul Save mereu",
+        "Trimitem prin poștă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce ne arată imaginile? (15.19)",
+      "question": "Este Scratch Jr. distractiv?",
       "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (15.20)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (15.21)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (15.22)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (15.23)",
-      "options": [
-        "Da",
+        "Da, foarte mult!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (15.24)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (15.25)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Poate",
+        "E plictisitor"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: start",
+      "answer": "start"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: stop",
+      "answer": "stop"
     },
     {
       "type": "typing",
-      "text": "sigur"
+      "question": "Tastează cuvântul: pisica",
+      "answer": "pisica"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: bloc",
+      "answer": "bloc"
     },
     {
       "type": "typing",
-      "text": "tastatura"
+      "question": "Tastează cuvântul: sar",
+      "answer": "sar"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: merg",
+      "answer": "merg"
     },
     {
       "type": "typing",
-      "text": "muzica"
+      "question": "Tastează cuvântul: spune",
+      "answer": "spune"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
     },
     {
       "type": "typing",
-      "text": "culoare"
+      "question": "Tastează cuvântul: fundal",
+      "answer": "fundal"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
     }
   ]
 }

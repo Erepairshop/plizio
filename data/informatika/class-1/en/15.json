@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Max 30 minutes screen time",
+  "theme": "Scratch Jr.",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "How long should we play? (15.1)",
+      "question": "What is the cat's name?",
       "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
+        "Scratchy",
+        "Tom",
+        "Felix",
+        "Leo"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we click with? (15.2)",
+      "question": "What color is the 'Move' block?",
       "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "Red",
+        "Yellow",
+        "Blue",
+        "Green"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What do we use to draw on the computer? (15.3)",
+      "question": "What does the 'Yellow' block do?",
       "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
+        "Starts things",
+        "Moves things",
+        "Ends things",
+        "Sounds"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (15.4)",
+      "question": "Can we draw our own sprite?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "No",
+        "Only with a pen",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "How do we make a Sprite bigger?",
+      "options": [
+        "Grow block",
+        "Shrink block",
+        "Wait block",
+        "Stop block"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (15.5)",
+      "question": "What does the 'Red' block do?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "Moves",
+        "Stops or repeats",
+        "Sounds",
+        "Looks"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (15.6)",
+      "question": "Can we add our photo?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (15.7)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
+        "No",
+        "Only on Sundays",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (15.8)",
+      "question": "What is the 'Grid' for?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "Counting steps",
+        "Drawing",
+        "Eating",
+        "Sleeping"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (15.9)",
+      "question": "Can we have two characters?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
+        "No",
+        "Only ten",
+        "Only one",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "How do we make a sound?",
+      "options": [
+        "Shouting",
+        "Clapping",
+        "Sound block",
+        "Singing"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Wait' block do?",
+      "options": [
+        "Go faster",
+        "Pause for a bit",
+        "Stop forever",
         "Jump"
       ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (15.10)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (15.11)",
+      "question": "Can we change the speed?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (15.12)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we do if eyes hurt? (15.13)",
-      "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (15.14)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How do we close a game? (15.15)",
-      "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What shows the pictures? (15.16)",
-      "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to type? (15.17)",
-      "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "No",
+        "Only for cats",
+        "Yes",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (15.18)",
+      "question": "What is a 'Background'?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "The place they are in",
+        "The back of the tablet",
+        "A type of food",
+        "A sound"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (15.19)",
+      "question": "How do we delete a block?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "Drag it back",
+        "Click 'X'",
+        "Wait",
+        "Shout"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we do if eyes hurt? (15.20)",
+      "question": "Can we record a sound?",
       "options": [
-        "Look away",
-        "Look closer",
-        "Turn up brightness",
-        "Keep playing"
+        "No",
+        "Only if we sing",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (15.21)",
+      "question": "What does the 'Green Flag' do?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
+        "Ends the story",
+        "Changes color",
+        "Nothing",
+        "Starts the story"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What shows the pictures? (15.22)",
+      "question": "Can we make a Sprite talk?",
       "options": [
-        "Keyboard",
-        "Screen",
-        "Mouse",
-        "Cable"
+        "No",
+        "With a speech bubble",
+        "Only with a phone",
+        "Maybe"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (15.23)",
+      "question": "What is the 'Repeat' block?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (15.24)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
+        "Stops things",
+        "Moves things",
+        "Does things again",
+        "Sounds"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a password? (15.25)",
+      "question": "Can we rename a Sprite?",
       "options": [
-        "A secret",
-        "A game",
-        "A color",
-        "A song"
+        "No",
+        "Only characters",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Home' button?",
+      "options": [
+        "Go to my projects",
+        "Go to my house",
+        "Turn off",
+        "Sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we share projects?",
+      "options": [
+        "No",
+        "Only with cats",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is Scratch Jr. for kids?",
+      "options": [
+        "Yes, for young kids",
+        "No",
+        "Only for babies",
+        "Only for adults"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we make a Sprite jump?",
+      "options": [
+        "No",
+        "Only if it's a frog",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What color are 'Looks' blocks?",
+      "options": [
+        "Purple",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we see the whole story?",
+      "options": [
+        "Full screen button",
+        "Close button",
+        "Wait button",
+        "Stop button"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Type 'Cat'",
+      "answer": "Cat"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Move'",
+      "answer": "Move"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Jump'",
+      "answer": "Jump"
     },
     {
       "type": "typing",
-      "text": "button"
+      "question": "Type 'Blue'",
+      "answer": "Blue"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Block'",
+      "answer": "Block"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Type 'Grow'",
+      "answer": "Grow"
     },
     {
       "type": "typing",
-      "text": "safe"
+      "question": "Type 'Wait'",
+      "answer": "Wait"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'End'",
+      "answer": "End"
     },
     {
       "type": "typing",
-      "text": "music"
+      "question": "Type 'Flag'",
+      "answer": "Flag"
     },
     {
       "type": "typing",
-      "text": "play"
+      "question": "Type 'Home'",
+      "answer": "Home"
     }
   ]
 }

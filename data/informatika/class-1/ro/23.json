@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Păstrează calculatorul curat",
+  "theme": "Salvarea fișierelor",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (23.1)",
+      "question": "De ce trebuie să salvăm munca noastră?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Să nu o pierdem când închidem programul",
+        "Să o vadă poliția",
+        "Să facem loc în calculator",
+        "Să se facă seară"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce ne arată imaginile? (23.2)",
+      "question": "Ce simbol are butonul de salvare de obicei?",
       "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (23.3)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (23.4)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (23.5)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (23.6)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (23.7)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "O dischetă pătrată",
+        "O inimioară",
+        "O mașină",
+        "O floare"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum ar trebui să stăm? (23.8)",
+      "question": "Cum se numește acțiunea de a salva?",
       "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Save",
+        "Delete",
+        "Play",
+        "Pause"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cu ce dăm click? (23.9)",
+      "question": "Unde se salvează fișierele?",
       "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
+        "Pe disc (HDD/SSD) sau pe un stick",
+        "În mouse",
+        "În tastatură",
+        "În aer"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (23.10)",
+      "question": "Trebuie să dăm un nume fișierului?",
       "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
+        "Da, ca să-l găsim mai târziu",
+        "Nu, știe calculatorul",
+        "Doar dacă e lung",
+        "Doar dacă e roșu"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (23.11)",
+      "question": "Ce înseamnă 'Save As' (Salvare ca)?",
+      "options": [
+        "Salvăm cu un nume nou sau în alt loc",
+        "Ștergem tot",
+        "Cântăm o melodie",
+        "Oprim calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă nu salvăm și se ia curentul?",
+      "options": [
+        "Pierdem tot ce am lucrat de la ultima salvare",
+        "Rămâne acolo prin magie",
+        "Se salvează singur mereu",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un fișier poate fi o poză?",
       "options": [
         "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (23.12)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Nu, doar text",
+        "Doar dacă e milă",
+        "Doar dacă e colorată"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (23.13)",
+      "question": "Putem salva pe un stick USB?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Da, e foarte util ca să luăm fișierul cu noi",
+        "Nu, stick-ul e doar de decor",
+        "Doar dacă stick-ul e albastru",
+        "Doar dacă avem voie de la magazin"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (23.14)",
+      "question": "Cum găsim un fișier salvat?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Îl căutăm în dosarul unde l-am pus",
+        "Îl strigăm pe nume",
+        "Căutăm sub masă",
+        "Repornim totul"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (23.15)",
+      "question": "Putem salva de mai multe ori?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da, e bine să salvăm des",
+        "Nu, doar o dată",
+        "Doar dacă e greu",
+        "Doar duminica"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (23.16)",
+      "question": "Ce este un 'stick USB'?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Un dispozitiv mic de stocare",
+        "O prăjitură",
+        "Un creion",
+        "Un joc"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (23.17)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (23.18)",
+      "question": "Fișierele ocupă spațiu în memorie?",
       "options": [
         "Da",
+        "Nu, sunt invizibile și ușoare",
+        "Doar cele mari",
+        "Doar cele negre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un fișier salvat?",
+      "options": [
+        "Da, dacă nu mai avem nevoie de el",
+        "Nu, e acolo pe veci",
+        "Doar dacă e vechi",
+        "Doar dacă ne dă voie calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dacă dăm nume 'Proiectul meu', e bine?",
+      "options": [
+        "Da, e un nume bun",
+        "Nu, e prea lung",
+        "Trebuie să se numească '123'",
+        "Nu trebuie nume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există salvare în 'Cloud' (Nor)?",
+      "options": [
+        "Da, salvăm pe internet",
+        "Nu, norii sunt doar afară",
+        "Doar dacă plouă",
+        "Doar dacă suntem sus la munte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Când închidem un program, ne întreabă dacă vrem să salvăm?",
+      "options": [
+        "De obicei da, dacă am făcut modificări",
+        "Nu, niciodată",
+        "Doar dacă e programul supărat",
+        "Doar dacă e noapte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Salvarea automată (Autosave) ce face?",
+      "options": [
+        "Salvează singur din când în când",
+        "Oprește calculatorul",
+        "Șterge greșelile",
+        "Face poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune fișierele în dosare?",
+      "options": [
+        "Da, pentru a fi organizați",
+        "Nu, stau doar pe Desktop",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt galbene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu găsim un fișier?",
+      "options": [
+        "Folosim funcția Search (Căutare)",
+        "Plângem sub birou",
+        "Cumpărăm alt calculator",
+        "Îl lăsăm pierdut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem copii de rezervă (backup)?",
+      "options": [
+        "Da, dacă se strică ceva",
+        "Nu, e pierdere de timp",
+        "Doar pentru firme",
+        "Doar pentru roboți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea data când a fost salvat?",
+      "options": [
+        "Da, calculatorul ține minte data și ora",
+        "Nu, e secret",
+        "Doar dacă avem ceas",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un fișier se poate numi oricum?",
+      "options": [
+        "Aproape oricum, fără semne ciudate",
+        "Da, chiar și cu emoticoane mereu",
+        "Nu, doar cifre",
+        "Nu, doar o literă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ești un expert în salvarea datelor?",
+      "options": [
+        "Da!",
+        "Învăț acum",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (23.19)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (23.20)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Poate"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (23.21)",
+      "question": "Salvarea ne dă liniște?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da, știm că munca e în siguranță",
+        "Nu, ne sperie",
+        "Doar dacă e soare",
+        "Doar dacă e gata"
       ],
       "correct": 0
     },
     {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (23.22)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (23.23)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (23.24)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (23.25)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
+      "type": "typing",
+      "question": "Tastează cuvântul: save",
+      "answer": "save"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: nume",
+      "answer": "nume"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: fisier",
+      "answer": "fisier"
     },
     {
       "type": "typing",
-      "text": "desen"
+      "question": "Tastează cuvântul: disc",
+      "answer": "disc"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: stick",
+      "answer": "stick"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: caut",
+      "answer": "caut"
     },
     {
       "type": "typing",
-      "text": "tastatura"
+      "question": "Tastează cuvântul: sigur",
+      "answer": "sigur"
     },
     {
       "type": "typing",
-      "text": "buton"
+      "question": "Tastează cuvântul: memorie",
+      "answer": "memorie"
     },
     {
       "type": "typing",
-      "text": "culoare"
+      "question": "Tastează cuvântul: nou",
+      "answer": "nou"
     },
     {
       "type": "typing",
-      "text": "mouse"
-    },
-    {
-      "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Csoportosítás",
+  "theme": "Összefoglaló K2",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 1)",
+      "question": "Melyik gombbal indítjuk el the programokat?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 2)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 3)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Dupla kattintással",
+        "Jobb klikkel",
+        "Görgetéssel",
+        "Várással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 4)",
+      "question": "Hogyan írunk nagybetűt?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 5)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 6)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Shift + betű",
+        "Space + betű",
+        "Enter + betű",
+        "Csak úgy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 7)",
+      "question": "Mi a legfontosabb az interneten?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 8)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 9)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "A biztonság és az óvatosság",
+        "Hogy sokat játsszunk",
+        "Hogy mindenre kattintsunk",
+        "Hogy ne nézzük"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 10)",
+      "question": "Mire való a mappa?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 11)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 12)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Fájlok rendezett tárolására",
+        "Rajzolásra",
+        "Zenehallgatásra",
+        "Törlésre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 13)",
+      "question": "Melyik programmal rajzolunk?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 14)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 15)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Paint",
+        "Word",
+        "Excel",
+        "Google"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 16)",
+      "question": "Mi az a jelszó?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 17)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 18)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Titkos kód, amit senkinek nem adunk meg",
+        "A nevünk",
+        "Egy játék",
+        "A gép színe"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 19)",
+      "question": "Mire jó az egér görgője?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 20)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 21)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Oldalak fel-le mozgatására",
+        "Kattintásra",
+        "Rajzolásra",
+        "Törlésre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 22)",
+      "question": "Hogyan mentünk el egy munkát?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 23)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 24)",
-      "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Fájl -> Mentés",
+        "Kilépés",
+        "Space",
+        "Enter"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Csoportosítás? (Kérdés 25)",
+      "question": "Melyik az internetes kereső?",
       "options": [
-        "A opció: Csoportosítás",
-        "B opció: Csoportosítás",
-        "C opció: Csoportosítás"
+        "Google",
+        "Paint",
+        "Lomtár",
+        "Asztal"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a vírus?",
+      "options": [
+        "Egy rossz program, ami elrontja the gépet",
+        "Egy kis bogár",
+        "A gép fáradtsága",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk le valamit?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Scratch?",
+      "options": [
+        "Programozás tanulására játékosan",
+        "Írásra",
+        "Számolásra",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the letöltés?",
+      "options": [
+        "Adatokat hozunk a netről the gépre",
+        "Kivisszük the szemetet",
+        "Törlünk mindent",
+        "Rajzolunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az email?",
+      "options": [
+        "Elektronikus levél",
+        "Egy fajta süti",
+        "Egy játék",
+        "Egy gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire kell figyelni gépeléskor?",
+      "options": [
+        "Hogy egyenesen üljünk",
+        "Hogy csak egy kézzel írjunk",
+        "Hogy ne nézzük the képernyőt",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kurzor?",
+      "options": [
+        "A kis nyíl vagy villogó vonal",
+        "Egy gomb",
+        "Egy kábel",
+        "Egy kerék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy fájlt?",
+      "options": [
+        "Kijelöljük és Delete",
+        "Letakarjuk",
+        "Megesszük",
+        "Kihúzzuk the gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the pendrive?",
+      "options": [
+        "Fájlok hordozására",
+        "Zenehallgatásra",
+        "Világításra",
+        "Rajzolásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az Wi-Fi?",
+      "options": [
+        "Vezeték nélküli internet",
+        "Egy gépalkatrész",
+        "Egy játék",
+        "Egy vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a visszavonás?",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + S"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az AI?",
+      "options": [
+        "Mesterséges Intelligencia (okos gép)",
+        "Egy autó",
+        "Egy állat",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan zárjuk be az ablakot?",
+      "options": [
+        "Piros X a sarokban",
+        "Kikapcsoljuk the gépet",
+        "Becsukjuk a szemünk",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the tablet?",
+      "options": [
+        "Játékra és tanulásra bárhol",
+        "Főzésre",
+        "Kalapácsnak",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a VR?",
+      "options": [
+        "Virtuális valóság",
+        "Valódi rajz",
+        "Vörös robot",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ügyes voltál idén informatika órán?",
+      "options": [
+        "Igen!",
+        "Nagyon!",
+        "Mindent tudok!",
+        "A 1-3. mind igaz!"
+      ],
+      "correct": 3
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 1"
+      "question": "Gépeld be: ismétlés",
+      "answer": "ismétlés"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 2"
+      "question": "Gépeld be: tudás",
+      "answer": "tudás"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 3"
+      "question": "Gépeld be: kérdés",
+      "answer": "kérdés"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 4"
+      "question": "Gépeld be: válasz",
+      "answer": "válasz"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 5"
+      "question": "Gépeld be: ügyes",
+      "answer": "ügyes"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 6"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 7"
+      "question": "Gépeld be: vagyok",
+      "answer": "vagyok"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 8"
+      "question": "Gépeld be: második",
+      "answer": "második"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 9"
+      "question": "Gépeld be: osztály",
+      "answer": "osztály"
     },
     {
       "type": "typing",
-      "text": "Csoportosítás nagyon jó 10"
+      "question": "Gépeld be: informatika",
+      "answer": "informatika"
     }
   ]
 }

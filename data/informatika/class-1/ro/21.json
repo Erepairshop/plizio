@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Creion vs. calculator",
+  "theme": "Scriem o poveste scurtă",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (21.1)",
+      "question": "Cum începem o poveste?",
       "options": [
-        "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (21.2)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "A fost odată ca niciodată...",
+        "S-a terminat totul.",
+        "Am mâncat un măr.",
+        "E ora 5."
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (21.3)",
+      "question": "Cine poate fi personajul principal?",
       "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (21.4)",
-      "options": [
-        "Da",
-        "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (21.5)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Un copil, un animal sau un obiect",
+        "Doar un om bătrân",
+        "Doar un robot stricat",
+        "Nimeni"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (21.6)",
+      "question": "Unde scriem povestea?",
       "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Într-un program de scris (ex: Word)",
+        "Pe monitor cu carioca",
+        "În mouse",
+        "Sub tastatură"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (21.7)",
+      "question": "Povestea are nevoie de un titlu?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Da, ca să știm despre ce e vorba",
+        "Nu, e secret",
+        "Doar dacă e lungă",
+        "Doar dacă are poze"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (21.8)",
+      "question": "Putem pune poze în povestea noastră?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Da, ca să fie mai frumoasă",
+        "Nu, poveștile sunt doar text",
+        "Doar dacă sunt desenate de noi",
+        "Doar dacă sunt negre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (21.9)",
+      "question": "Cum se termină o poveste veselă?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "...și au trăit fericiți până la adânci bătrâneți.",
+        "A venit ploaia și gata.",
+        "S-a stins lumina.",
+        "Nu se termină niciodată."
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este o parolă? (21.10)",
+      "question": "Putem scrie despre un robot?",
       "options": [
-        "Un secret",
-        "Un joc",
+        "Da, desigur!",
+        "Nu, roboții nu sunt în povești",
+        "Doar în engleză",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum facem literele mai mari (pentru titlu)?",
+      "options": [
+        "Schimbăm mărimea fontului",
+        "Apăsăm mai tare pe taste",
+        "Suflăm în ecran",
+        "Ne punem ochelari de mărire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea scrisului?",
+      "options": [
+        "Da, putem scrie cu orice culoare",
+        "Nu, e mereu negru",
+        "Doar dacă avem cerneală colorată în calculator",
+        "Doar magicienii pot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să citim povestea la final?",
+      "options": [
+        "Da, să vedem dacă am greșit ceva",
+        "Nu, e plictisitor",
+        "Doar dacă ne roagă mama",
+        "Doar dacă primim premiu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește cel care scrie cărți?",
+      "options": [
+        "Scriitor sau autor",
+        "Doctor",
+        "Pompier",
+        "Bucătar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie despre o călătorie în spațiu?",
+      "options": [
+        "Da, imaginația nu are limite",
+        "Nu, e periculos",
+        "Doar dacă avem rachetă",
+        "Doar dacă suntem astronauți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem corecta literele greșite?",
+      "options": [
+        "Da, cu Backspace sau Delete",
+        "Nu, rămân așa mereu",
+        "Trebuie să scriem totul de la capăt",
+        "Trebuie să schimbăm tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum salvăm povestea noastră?",
+      "options": [
+        "Click pe Save (salvare)",
+        "O lăsăm pe ecran",
+        "Închidem repede totul",
+        "O strigăm pe nume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Poveștile pot fi și triste?",
+      "options": [
+        "Da, dar e frumos să aibă un final bun",
+        "Nu, e interzis",
+        "Doar cele din cărți vechi",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie împreună cu un prieten?",
+      "options": [
+        "Da, e distractiv",
+        "Nu, fiecare cu povestea lui",
+        "Doar dacă avem două tastaturi",
+        "Doar dacă stăm pe același scaun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "O poveste scurtă are?",
+      "options": [
+        "Început, cuprins și încheiere",
+        "Doar un cuvânt",
+        "Doar o poză",
+        "Multe cifre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'imaginația'?",
+      "options": [
+        "Capacitatea de a crea idei noi în minte",
+        "Un joc pe calculator",
         "O culoare",
-        "O melodie"
+        "Un fruct"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum închidem un joc? (21.11)",
+      "question": "Putem printa povestea să o dăm cadou?",
       "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Da, e un cadou minunat",
+        "Nu, rămâne secretă",
+        "Doar dacă o transcriem de mână",
+        "Doar dacă o punem în plic"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum ar trebui să stăm? (21.12)",
+      "question": "Cum facem literele îngroșate?",
       "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Folosim butonul B (Bold)",
+        "Apăsăm de două ori pe tasta",
+        "Strigăm la literă",
+        "O pictăm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (21.13)",
+      "question": "Există programe de scris pentru copii?",
       "options": [
-        "Da",
+        "Da, cu imagini și sunete",
+        "Nu, sunt doar pentru oameni mari",
+        "Doar dacă ești la școală",
+        "Doar sâmbăta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie despre animalul nostru de companie?",
+      "options": [
+        "Da, sigur!",
+        "Nu, animalele nu sunt personaje",
+        "Doar dacă animalul știe să citească",
+        "Doar dacă e mic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scrierea ne ajută să ne exprimăm?",
+      "options": [
+        "Da, spunem ce simțim",
+        "Nu, ne încurcă",
+        "Doar dacă suntem supărați",
+        "Doar dacă suntem mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fiecare poveste este o aventură?",
+      "options": [
+        "Da!",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (21.14)",
-      "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Poate",
+        "Așa cred"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum ar trebui să stăm? (21.15)",
+      "question": "Vrei să scrii titlul poveștii tale?",
       "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
+        "Da!",
+        "Nu",
+        "Nu știu",
+        "Am nevoie de ajutor"
       ],
       "correct": 0
     },
     {
-      "type": "mcq",
-      "question": "Ce este o parolă? (21.16)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum ar trebui să stăm? (21.17)",
-      "options": [
-        "Spatele drept",
-        "Spatele curbat",
-        "Pe jos",
-        "În picioare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (21.18)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (21.19)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (21.20)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (21.21)",
-      "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a scrie? (21.22)",
-      "options": [
-        "Mouse",
-        "Ecran",
-        "Tastatură",
-        "Boxă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (21.23)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este un calculator? (21.24)",
-      "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ce ne arată imaginile? (21.25)",
-      "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
+      "type": "typing",
+      "question": "Tastează cuvântul: poveste",
+      "answer": "poveste"
     },
     {
       "type": "typing",
-      "text": "culoare"
+      "question": "Tastează cuvântul: scriu",
+      "answer": "scriu"
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: titlu",
+      "answer": "titlu"
     },
     {
       "type": "typing",
-      "text": "mouse"
+      "question": "Tastează cuvântul: erou",
+      "answer": "erou"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: carte",
+      "answer": "carte"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: mama",
+      "answer": "mama"
     },
     {
       "type": "typing",
-      "text": "curat"
+      "question": "Tastează cuvântul: tata",
+      "answer": "tata"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: joaca",
+      "answer": "joaca"
     },
     {
       "type": "typing",
-      "text": "joc"
+      "question": "Tastează cuvântul: vis",
+      "answer": "vis"
     },
     {
       "type": "typing",
-      "text": "joc"
-    },
-    {
-      "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: gata",
+      "answer": "gata"
     }
   ]
 }

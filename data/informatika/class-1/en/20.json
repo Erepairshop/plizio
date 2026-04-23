@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A friendly picture",
+  "theme": "Step-by-step drawing",
   "language": "en",
   "tasks": [
     {
       "type": "mcq",
-      "question": "What do we use to type? (20.1)",
+      "question": "What is step 1?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (20.2)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (20.3)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a computer? (20.4)",
-      "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "Starting your drawing",
+        "Finishing",
+        "Saving",
+        "Printing"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (20.5)",
+      "question": "Why use steps?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "To make it hard",
+        "To be slow",
+        "To make it easier",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Should we eat near the computer? (20.6)",
+      "question": "Can we draw a cat in steps?",
       "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Maybe",
+        "Yes, circle then ears...",
+        "Only with magic"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What comes after drawing?",
+      "options": [
+        "Starting",
+        "Coloring",
+        "Erasing all",
+        "Sleeping"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "What do we use to listen to music? (20.7)",
+      "question": "Can we follow a video?",
       "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to draw on the computer? (20.8)",
-      "options": [
-        "Mouse",
-        "Speaker",
-        "Cable",
-        "Printer"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "How long should we play? (20.9)",
-      "options": [
-        "All day",
-        "30 minutes",
-        "Never",
-        "5 hours"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Who should we ask before downloading? (20.10)",
-      "options": [
-        "Friends",
-        "Strangers",
-        "Parents",
-        "Nobody"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (20.11)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (20.12)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How do we turn on the computer? (20.13)",
-      "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we use to listen to music? (20.14)",
-      "options": [
-        "Screen",
-        "Mouse",
-        "Speakers",
-        "Keyboard"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "How should we sit? (20.15)",
-      "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Should we eat near the computer? (20.16)",
-      "options": [
-        "Yes",
         "No",
-        "Only snacks",
-        "Only drinks"
+        "Only on paper",
+        "Maybe",
+        "Yes, a tutorial"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How should we sit? (20.17)",
+      "question": "Is it okay to restart?",
       "options": [
-        "Straight back",
-        "Curved back",
-        "On the floor",
-        "Standing"
+        "No, never",
+        "Only if it's red",
+        "Maybe",
+        "Yes, if you want"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "What do we use to type? (20.18)",
+      "question": "Do we need a pencil tool?",
       "options": [
-        "Mouse",
-        "Screen",
-        "Keyboard",
-        "Speaker"
+        "No",
+        "Only a bucket",
+        "Maybe",
+        "Yes, usually"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw a house?",
+      "options": [
+        "No",
+        "Only for builders",
+        "Maybe",
+        "Yes, square then triangle"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'Undo' helpful?",
+      "options": [
+        "No",
+        "Only once",
+        "Yes, very!",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (20.19)",
+      "question": "What is a 'Sketch'?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What is safe to do online? (20.20)",
-      "options": [
-        "Share password",
-        "Talk to strangers",
-        "Ask parents",
-        "Click all ads"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "What is a password? (20.21)",
-      "options": [
-        "A secret",
-        "A game",
+        "A final picture",
         "A color",
-        "A song"
+        "A sound",
+        "A quick first drawing"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How do we turn on the computer? (20.22)",
+      "question": "Can we add details at the end?",
       "options": [
-        "Press the button",
-        "Yell at it",
-        "Clap hands",
-        "Jump"
+        "No",
+        "Only at start",
+        "Maybe",
+        "Yes"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "How do we close a game? (20.23)",
+      "question": "Should we look at the example?",
       "options": [
-        "Click the X",
-        "Unplug computer",
-        "Hit the screen",
-        "Cry"
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "What do we click with? (20.24)",
-      "options": [
-        "Screen",
-        "Keyboard",
-        "Mouse",
-        "Printer"
+        "No",
+        "Only once",
+        "Yes, to learn",
+        "Maybe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "What is a computer? (20.25)",
+      "question": "Can we use shapes first?",
       "options": [
-        "A machine",
-        "An animal",
-        "A plant",
-        "A food"
+        "No",
+        "Only lines",
+        "Yes, they help",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Layer'?",
+      "options": [
+        "A part of the drawing",
+        "A type of cake",
+        "A shoe",
+        "A hat"
       ],
       "correct": 0
     },
     {
-      "type": "typing",
-      "text": "color"
+      "type": "mcq",
+      "question": "Can we draw a flower?",
+      "options": [
+        "No",
+        "Only in the garden",
+        "Maybe",
+        "Yes, circle and petals"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is it fun to see progress?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we share the final steps?",
+      "options": [
+        "No",
+        "Only some",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Does practice help?",
+      "options": [
+        "No",
+        "Only robots",
+        "Maybe",
+        "Yes, always"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw with friends?",
+      "options": [
+        "No",
+        "Only alone",
+        "Yes, step by step",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What tool is for big areas?",
+      "options": [
+        "Pencil",
+        "Eraser",
+        "Text",
+        "Paint bucket"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw a car?",
+      "options": [
+        "No",
+        "Only with wheels",
+        "Maybe",
+        "Yes, rectangle and circles"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is drawing a skill?",
+      "options": [
+        "No",
+        "Only for some",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we use a ruler tool?",
+      "options": [
+        "No",
+        "Only real ones",
+        "Maybe",
+        "If the program has one"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Symmetry'?",
+      "options": [
+        "A type of food",
+        "Same on both sides",
+        "A color",
+        "A sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we draw a robot?",
+      "options": [
+        "No",
+        "Only if we are one",
+        "Maybe",
+        "Yes, with many squares"
+      ],
+      "correct": 3
     },
     {
       "type": "typing",
-      "text": "draw"
+      "question": "Type 'Step'",
+      "answer": "Step"
     },
     {
       "type": "typing",
-      "text": "clean"
+      "question": "Type 'Draw'",
+      "answer": "Draw"
     },
     {
       "type": "typing",
-      "text": "color"
+      "question": "Type 'Line'",
+      "answer": "Line"
     },
     {
       "type": "typing",
-      "text": "screen"
+      "question": "Type 'Finish'",
+      "answer": "Finish"
     },
     {
       "type": "typing",
-      "text": "parent"
+      "question": "Type 'Start'",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Type 'Next'",
+      "answer": "Next"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Part'",
+      "answer": "Part"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Type 'Work'",
+      "answer": "Work"
     },
     {
       "type": "typing",
-      "text": "keyboard"
+      "question": "Type 'Easy'",
+      "answer": "Easy"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Pen'",
+      "answer": "Pen"
     }
   ]
 }

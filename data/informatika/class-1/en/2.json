@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Mouse and keyboard",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we use to click on things?",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Printer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How many buttons does a simple mouse usually have?",
+      "options": [
+        "Two",
+        "Ten",
+        "Fifty",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the long button on the keyboard?",
+      "options": [
+        "Enter",
+        "Spacebar",
+        "Shift",
+        "Escape"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "We use the mouse to move the...",
+      "options": [
+        "Cursor",
+        "Table",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which finger do we use for the left click?",
+      "options": [
+        "Thumb",
+        "Index finger",
+        "Pinky",
+        "Toe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do we find the letters to type?",
+      "options": [
+        "Mouse",
+        "Monitor",
+        "Speaker",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The mouse sits on a...",
+      "options": [
+        "Mouse pad",
+        "Dog bed",
+        "Cloud",
+        "Dinner plate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Enter' key do?",
+      "options": [
+        "Starts a new line",
+        "Turns off the computer",
+        "Deletes everything",
+        "Plays music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which key helps us type BIG letters?",
+      "options": [
+        "Spacebar",
+        "Backspace",
+        "Caps Lock",
+        "Alt"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "To move a file, we can 'click and ...'",
+      "options": [
+        "Run",
+        "Drag",
+        "Jump",
+        "Sleep"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many hands do we use to type properly?",
+      "options": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to erase a mistake?",
+      "options": [
+        "Enter",
+        "Spacebar",
+        "Shift",
+        "Backspace"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A mouse can be connected with a...",
+      "options": [
+        "Wire",
+        "String",
+        "Rubber band",
+        "Hair tie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "The keyboard has numbers on it.",
+      "options": [
+        "False",
+        "Only some do",
+        "True",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'double click'?",
+      "options": [
+        "Clicking twice quickly",
+        "Clicking with two mice",
+        "Clicking and shouting",
+        "Clicking tomorrow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a mouse be wireless?",
+      "options": [
+        "No",
+        "Only in space",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The little arrow on the screen is the...",
+      "options": [
+        "Bird",
+        "Pointer",
+        "Plane",
+        "Rocket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are the arrow keys?",
+      "options": [
+        "On the keyboard",
+        "On the mouse",
+        "On the monitor",
+        "On the printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do with a scroll wheel?",
+      "options": [
+        "Type letters",
+        "Move up and down",
+        "Turn off the screen",
+        "Draw circles"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which key is usually at the top left?",
+      "options": [
+        "Enter",
+        "Space",
+        "End",
+        "Esc"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use the keyboard for?",
+      "options": [
+        "Drawing",
+        "Typing",
+        "Eating",
+        "Sleeping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The mouse is shaped a bit like a...",
+      "options": [
+        "Elephant",
+        "Banana",
+        "Real mouse",
+        "Square"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a keyboard to play games?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's red",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Right Click' often used for?",
+      "options": [
+        "Opening menus",
+        "Turning off",
+        "Typing 'A'",
+        "Scrolling"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the keyboard an input device?",
+      "options": [
+        "No",
+        "Yes",
+        "Maybe",
+        "Only on Mondays"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Click'",
+      "answer": "Click"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Type'",
+      "answer": "Type"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Space'",
+      "answer": "Space"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Enter'",
+      "answer": "Enter"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Shift'",
+      "answer": "Shift"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Mouse'",
+      "answer": "Mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Key'",
+      "answer": "Key"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Hand'",
+      "answer": "Hand"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Row'",
+      "answer": "Row"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Fast'",
+      "answer": "Fast"
+    }
+  ]
+}

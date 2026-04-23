@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Fogd és vidd",
+  "theme": "Másolás-beillesztés",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 1)",
+      "question": "Melyik billentyűkombináció a másolás?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 2)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 3)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 4)",
+      "question": "Melyik billentyűkombináció a beillesztés?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 5)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 6)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + S",
+        "Ctrl + P"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 7)",
+      "question": "Mit jelent a 'Kivágás'?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 8)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 9)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Elmozgatjuk az eredeti helyéről",
+        "Szétvágjuk a monitort",
+        "Töröljük",
+        "Megduplázzuk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 10)",
+      "question": "Mi a vágólap?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 11)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 12)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Egy láthatatlan tároló a másolt dolgoknak",
+        "Egy igazi fa tábla",
+        "A billentyűzet",
+        "Az egérpad"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 13)",
+      "question": "Melyik gomb a kivágás?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 14)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 15)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Ctrl + X",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + A"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 16)",
+      "question": "Lehet-e képet másolni?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 17)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 18)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Igen, ugyanúgy mint a szöveget",
+        "Nem, csak betűket",
+        "Csak ha van gépünk",
+        "Csak ha lerajzoljuk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 19)",
+      "question": "Hányszor illeszthetjük be, amit egyszer lemásoltunk?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 20)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 21)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Akárhányszor",
+        "Csak egyszer",
+        "Kétszer",
+        "Tízszer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 22)",
+      "question": "Mit kell tenni beillesztés előtt?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 23)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 24)",
-      "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Ki kell jelölni a helyet",
+        "Ki kell kapcsolni a gépet",
+        "Meg kell enni egy almát",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Fogd és vidd? (Kérdés 25)",
+      "question": "Hogyan másolunk egérrel?",
       "options": [
-        "A opció: Fogd és vidd",
-        "B opció: Fogd és vidd",
-        "C opció: Fogd és vidd"
+        "Jobb klikk -> Másolás",
+        "Bal klikk ötször",
+        "Megrázzuk",
+        "Gördítünk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha újat másolunk?",
+      "options": [
+        "Az előző törlődik a vágólapról",
+        "Mögé kerül",
+        "Kettő lesz",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelöljük a szöveget másoláshoz?",
+      "options": [
+        "Húzzuk rajta az egeret bal gombbal",
+        "Ránézünk",
+        "Ráütünk a billentyűzetre",
+        "Megfújjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a Ctrl + Z?",
+      "options": [
+        "Visszavonás",
+        "Mentés",
+        "Kilépés",
+        "Zene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a másolás?",
+      "options": [
+        "Hogy ne kelljen újra leírni ugyanazt",
+        "Hogy gyorsabb legyen a net",
+        "Hogy szebb legyen a kép",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e mappát másolni?",
+      "options": [
+        "Igen, az egész tartalmával együtt",
+        "Nem, csak fájlt",
+        "Csak ha üres",
+        "Csak ha sárga"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a beillesztés?",
+      "options": [
+        "Általában egy kis írótábla",
+        "Egy olló",
+        "Két papírlap",
+        "Egy piros X"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találjuk a másolás parancsot?",
+      "options": [
+        "A szerkesztés menüben vagy jobb klikknél",
+        "A tálcán",
+        "A monitor hátulján",
+        "Az egér alján"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a kivágás ikonja?",
+      "options": [
+        "Egy olló",
+        "Egy ecset",
+        "Egy radír",
+        "Egy vödör"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a Ctrl + A?",
+      "options": [
+        "Mindent kijelöl",
+        "Mindent töröl",
+        "Mindent elment",
+        "Mindent bezár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor használunk kivágást a másolás helyett?",
+      "options": [
+        "Ha nem akarjuk, hogy ott maradjon az eredeti",
+        "Ha nincs ollónk",
+        "Ha sok a hely a gépen",
+        "Soha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e internetről másolni szöveget?",
+      "options": [
+        "Igen, ha kijelöljük",
+        "Nem, tilos",
+        "Csak ha tudunk angolul",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan illesztünk be egérrel?",
+      "options": [
+        "Jobb klikk -> Beillesztés",
+        "Bal klikk gyorsan",
+        "Görgetéssel",
+        "Kattintással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a dupla másolás?",
+      "options": [
+        "Nincs ilyen alapból",
+        "Kétszer nyomjuk a Ctrl-t",
+        "Két géppel",
+        "Egy titok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Undo'?",
+      "options": [
+        "Visszavonás",
+        "Indítás",
+        "Alvás",
+        "Vége"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért nem működik a beillesztés néha?",
+      "options": [
+        "Mert nem másoltunk le semmit",
+        "Mert nincs internet",
+        "Mert lemerült az egér",
+        "Mert sötét van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk fájlt egyik mappából a másikba?",
+      "options": [
+        "Másolás, majd a másik mappában beillesztés",
+        "Rágondolunk",
+        "Várunk",
+        "Belebeszélünk"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 1"
+      "question": "Gépeld be: másol",
+      "answer": "másol"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 2"
+      "question": "Gépeld be: beilleszt",
+      "answer": "beilleszt"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 3"
+      "question": "Gépeld be: kivág",
+      "answer": "kivág"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 4"
+      "question": "Gépeld be: szöveg",
+      "answer": "szöveg"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 5"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 6"
+      "question": "Gépeld be: ctrl",
+      "answer": "ctrl"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 7"
+      "question": "Gépeld be: billentyű",
+      "answer": "billentyű"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 8"
+      "question": "Gépeld be: egér",
+      "answer": "egér"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 9"
+      "question": "Gépeld be: menü",
+      "answer": "menü"
     },
     {
       "type": "typing",
-      "text": "Fogd és vidd nagyon jó 10"
+      "question": "Gépeld be: gyors",
+      "answer": "gyors"
     }
   ]
 }

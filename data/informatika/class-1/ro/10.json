@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Urmărește un videoclip",
+  "theme": "Internetul pe înțelesul tuturor",
   "language": "ro",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (10.1)",
+      "question": "Ce este internetul?",
       "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (10.2)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "O rețea uriașă de calculatoare",
+        "O plasă de pescuit",
+        "O prăjitură",
+        "Un drum prin pădure"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce facem dacă ne dor ochii? (10.3)",
+      "question": "Ce putem găsi pe internet?",
       "options": [
-        "Privim în altă parte",
-        "Privim mai aproape",
-        "Creștem luminozitatea",
-        "Ne jucăm în continuare"
+        "Informații, jocuri, filme",
+        "Doar poze cu pisici",
+        "Mâncare adevărată",
+        "Haine pentru noi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (10.4)",
+      "question": "Cum intrăm pe internet?",
       "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Cu un browser (Chrome, Edge)",
+        "Cu o cheie metalică",
+        "Cu o lanternă",
+        "Cu o scară"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ar trebui să mâncăm lângă calculator? (10.5)",
+      "question": "Internetul este peste tot?",
+      "options": [
+        "Aproape peste tot, prin fire sau aer",
+        "Doar la școală",
+        "Doar în pod",
+        "Doar în buzunar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța lucruri noi pe internet?",
+      "options": [
+        "Da, foarte multe",
+        "Nu, e doar pentru joacă",
+        "Doar despre roboți",
+        "Doar dacă suntem mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'pagină web'?",
+      "options": [
+        "Un document pe care îl vedem online",
+        "O pagină dintr-o carte reală",
+        "O frunză",
+        "Un covor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea clipuri video pe internet?",
+      "options": [
+        "Da, pe YouTube de exemplu",
+        "Nu, internetul n-are imagini",
+        "Doar dacă avem televizor legat",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este internetul periculos uneori?",
+      "options": [
+        "Da, trebuie să fim atenți",
+        "Nu, e mereu sigur",
+        "Doar dacă plouă afară",
+        "Doar pentru bunici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine ne ajută să folosim internetul?",
+      "options": [
+        "Părinții sau profesorii",
+        "Pisica",
+        "Cățelul",
+        "Nimeni, știm tot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Wi-Fi?",
+      "options": [
+        "Internet fără fir",
+        "Un nume de cățel",
+        "O mâncare",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vorbi cu bunicii pe internet?",
+      "options": [
+        "Da, prin apel video",
+        "Nu, e prea departe",
+        "Doar dacă au calculator de aur",
+        "Doar prin scrisori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'site'?",
+      "options": [
+        "Un loc pe internet cu informații",
+        "O jucărie",
+        "O mașină",
+        "O casă reală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul are memorie?",
+      "options": [
+        "Da, păstrează multe lucruri",
+        "Nu, uită tot imediat",
+        "Doar ce scriem noi",
+        "Doar pozele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem cumpăra jucării de pe internet?",
+      "options": [
+        "Da, cu ajutorul părinților",
+        "Nu, sunt doar poze",
+        "Da, vin prin e-mail",
+        "Nu, e interzis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este Google?",
+      "options": [
+        "Un motor de căutare",
+        "O prăjitură",
+        "Un joc cu bile",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Adresa unui site începe de obicei cu?",
+      "options": [
+        "www",
+        "abc",
+        "123",
+        "zzz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul este rapid?",
+      "options": [
+        "De obicei da, foarte rapid",
+        "E ca un melc",
+        "E ca o țestoasă",
+        "Merge doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem asculta radio pe internet?",
       "options": [
         "Da",
         "Nu",
-        "Doar gustări",
-        "Doar băuturi"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (10.6)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cum închidem un joc? (10.7)",
-      "options": [
-        "Dăm click pe X",
-        "Scoatem din priză",
-        "Lovim ecranul",
-        "Plângem"
+        "Doar dacă avem antenă mare",
+        "Doar dacă e muzică veche"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce folosim pentru a asculta muzică? (10.8)",
+      "question": "Toate lucrurile de pe internet sunt adevărate?",
       "options": [
-        "Ecran",
-        "Mouse",
-        "Boxe",
-        "Tastatură"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (10.9)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Nu, trebuie să verificăm",
+        "Da, totul e adevărat",
+        "Doar ce scriu copiii",
+        "Doar ce scriu roboții"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce ne arată imaginile? (10.10)",
+      "question": "Ce înseamnă 'online'?",
       "options": [
-        "Tastatura",
-        "Ecranul",
-        "Mouse-ul",
-        "Cablul"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (10.11)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (10.12)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (10.13)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cât timp ar trebui să ne jucăm? (10.14)",
-      "options": [
-        "Toată ziua",
-        "30 de minute",
-        "Niciodată",
-        "5 ore"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ce folosim pentru a desena pe calculator? (10.15)",
-      "options": [
-        "Mouse",
-        "Boxă",
-        "Cablu",
-        "Imprimantă"
+        "Conectat la internet",
+        "Pe o linie dreaptă",
+        "În afara casei",
+        "Sub masă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cu ce dăm click? (10.16)",
+      "question": "Ce înseamnă 'offline'?",
       "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este o parolă? (10.17)",
-      "options": [
-        "Un secret",
-        "Un joc",
-        "O culoare",
-        "O melodie"
+        "Fără internet",
+        "Pe o linie strâmbă",
+        "În interiorul casei",
+        "Pe scaun"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cum pornim calculatorul? (10.18)",
+      "question": "Putem vedea hărți pe internet?",
       "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Da, vedem toată lumea",
+        "Nu, hărțile sunt doar pe hârtie",
+        "Doar dacă suntem piloți",
+        "Doar dacă avem busolă"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ce este un calculator? (10.19)",
+      "question": "Internetul ne ajută să comunicăm?",
       "options": [
-        "O mașinărie",
-        "Un animal",
-        "O plantă",
-        "O mâncare"
+        "Da",
+        "Nu, ne izolează",
+        "Doar dacă avem voce tare",
+        "Doar prin semne"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (10.20)",
+      "question": "Cât de mare este internetul?",
       "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Pe cine întrebăm înainte de a descărca? (10.21)",
-      "options": [
-        "Prieteni",
-        "Străini",
-        "Părinți",
-        "Nimeni"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (10.22)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ce este sigur să facem online? (10.23)",
-      "options": [
-        "Dăm parola",
-        "Vorbim cu străini",
-        "Întrebăm părinții",
-        "Dăm click pe reclame"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Cum pornim calculatorul? (10.24)",
-      "options": [
-        "Apăsăm butonul",
-        "Strigăm la el",
-        "Batem din palme",
-        "Sărim"
+        "Uriaș, infinit aproape",
+        "Cât o cameră",
+        "Cât o carte",
+        "Cât un mouse"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Cu ce dăm click? (10.25)",
+      "question": "Ești bucuros că avem internet?",
       "options": [
-        "Ecran",
-        "Tastatură",
-        "Mouse",
-        "Imprimantă"
+        "Da!",
+        "Nu",
+        "Nu știu",
+        "E prea mult"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "culoare"
+      "question": "Tastează cuvântul: net",
+      "answer": "net"
     },
     {
       "type": "typing",
-      "text": "video"
+      "question": "Tastează cuvântul: site",
+      "answer": "site"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: caut",
+      "answer": "caut"
     },
     {
       "type": "typing",
-      "text": "ecran"
+      "question": "Tastează cuvântul: poze",
+      "answer": "poze"
     },
     {
       "type": "typing",
-      "text": "parinte"
+      "question": "Tastează cuvântul: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "secret"
+      "question": "Tastează cuvântul: jocuri",
+      "answer": "jocuri"
     },
     {
       "type": "typing",
-      "text": "muzica"
+      "question": "Tastează cuvântul: lume",
+      "answer": "lume"
     },
     {
       "type": "typing",
-      "text": "click"
+      "question": "Tastează cuvântul: rapid",
+      "answer": "rapid"
     },
     {
       "type": "typing",
-      "text": "joaca"
+      "question": "Tastează cuvântul: online",
+      "answer": "online"
     },
     {
       "type": "typing",
-      "text": "muzica"
+      "question": "Tastează cuvântul: conectat",
+      "answer": "conectat"
     }
   ]
 }

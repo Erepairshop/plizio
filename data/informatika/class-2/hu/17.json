@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Nyomtatás alapjai",
+  "theme": "Ciklus",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 1)",
+      "question": "Mi az a ciklus a programozásban?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 2)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 3)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Egy utasítás ismétlése többször",
+        "Egy kerékpár",
+        "Egy kör alakú rajz",
+        "A gép kikapcsolása"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 4)",
+      "question": "Mire jó the ciklus?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 5)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 6)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Hogy ne kelljen ugyanazt sokszor leírni",
+        "Hogy szebb legyen the program",
+        "Hogy lassabb legyen the gép",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 7)",
+      "question": "Melyik szót használjuk az ismétlésre?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 8)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 9)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Ismételd vagy Mindig",
+        "Soha",
+        "Egyszer",
+        "Talán"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 10)",
+      "question": "Melyik egy ciklus a való életben?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 11)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 12)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "A napok váltakozása",
+        "Egy szem pislogás",
+        "Egy pohár víz ivása",
+        "Az elindulás"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 13)",
+      "question": "Hogyan mondjuk Scratch-ben, hogy ötször lépjen the cica?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 14)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "'Ismételd 5-ször' blokkba tesszük the mozgást",
+        "Ötször odaírjuk the mozgást",
+        "Mindkettő jó, de the ciklus szebb",
+        "Egyik se jó"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 15)",
+      "question": "Mit jelent the 'Végtelen ciklus'?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Ami soha nem fejeződik be",
+        "Ami nagyon hosszú",
+        "Ami tízszer fut le",
+        "Ami el sem kezdődik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 16)",
+      "question": "Hogyan állítunk meg egy végtelen ciklust?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 17)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 18)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "A stop gombbal",
+        "Kihúzzuk the gépet",
+        "Várunk, amíg elfárad",
+        "Kiabálunk neki"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 19)",
+      "question": "Melyik blokk a 'Mindig'?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 20)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 21)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Ami folyamatosan ismétel mindent benne",
+        "Ami csak egyszer fut le",
+        "Ami töröl mindent",
+        "Ami zöld"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 22)",
+      "question": "Hogyan rajzolunk négyzetet ciklussal?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 23)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 24)",
-      "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Ismételd 4-szer: menj, fordulj",
+        "Menj négyszer",
+        "Fordulj négyszer",
+        "Ismételd 10-szer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Nyomtatás alapjai? (Kérdés 25)",
+      "question": "Mit jelent the 'számlálós ciklus'?",
       "options": [
-        "A opció: Nyomtatás alapjai",
-        "B opció: Nyomtatás alapjai",
-        "C opció: Nyomtatás alapjai"
+        "Tudjuk előre, hányszor fog ismételni",
+        "A gép számolja the pénzt",
+        "A billentyűket számoljuk",
+        "Semmi"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik az 'Ismételd' blokk színe a Scratch-ben?",
+      "options": [
+        "Narancssárga",
+        "Kék",
+        "Lila",
+        "Zöld"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e ciklusban másik ciklus?",
+      "options": [
+        "Igen, ez a 'beágyazott' ciklus",
+        "Nem, tilos",
+        "Csak ha nagy a gép",
+        "Csak kedden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the ciklus a táncnál?",
+      "options": [
+        "Ismétlődő mozdulatokhoz",
+        "A zene megállításához",
+        "A ruha kiválasztásához",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál the robot, ha 'Ismételd 3-szor: Tapsolj'?",
+      "options": [
+        "Hármat tapsol",
+        "Egyszer tapsol",
+        "Végtelenül tapsol",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz a cica mozgása folyamatos?",
+      "options": [
+        "A 'Mindig' blokk használatával",
+        "Sok kattintással",
+        "Erős gépeléssel",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha 0-szor ismétlünk?",
+      "options": [
+        "Semmi nem történik",
+        "Egyszer lefut",
+        "Végtelenül fut",
+        "Elromlik the gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik utasítást érdemes ciklusba tenni?",
+      "options": [
+        "Amit sokszor akarunk csinálni",
+        "Amit csak egyszer",
+        "Amit soha",
+        "Semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan jelöljük the ciklust egy rajzon?",
+      "options": [
+        "Egy visszafelé mutató nyíllal",
+        "Egy kereszttel",
+        "Egy ponttal",
+        "Egy egyenes vonallal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the ciklus a zenében?",
+      "options": [
+        "Az ütem és the ritmus ismétlésére",
+        "A hangerőhöz",
+        "A hangszerekhez",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent the 'beágyazott' szó itt?",
+      "options": [
+        "Egymásban lévő dolgok",
+        "Ágyban fekvő gép",
+        "Elveszett adat",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan változik the szám az ismétlés blokkban?",
+      "options": [
+        "Átírhatjuk bármilyen számra",
+        "Csak 10 lehet",
+        "Csak páros lehet",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség az 'Ismételd' és a 'Mindig' között?",
+      "options": [
+        "Az 'Ismételd' véget ér, a 'Mindig' nem",
+        "Semmi",
+        "A színük",
+        "A 'Mindig' hamarabb kész van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the ciklus a rajzolásnál?",
+      "options": [
+        "Sok egyforma forma rajzolásához",
+        "Csak egy vonalhoz",
+        "A radírozáshoz",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál the gép, ha the ciklus üres?",
+      "options": [
+        "Nem csinál semmit",
+        "Hibaüzenetet ad",
+        "Felrobban",
+        "Vár ránk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz a játékban az ellenség mozgása folyamatos?",
+      "options": [
+        "Ciklussal",
+        "Egyszeri parancsal",
+        "Rajzolással",
+        "Sehogy"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 1"
+      "question": "Gépeld be: ismétel",
+      "answer": "ismétel"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 2"
+      "question": "Gépeld be: ciklus",
+      "answer": "ciklus"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 3"
+      "question": "Gépeld be: sokszor",
+      "answer": "sokszor"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 4"
+      "question": "Gépeld be: mindig",
+      "answer": "mindig"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 5"
+      "question": "Gépeld be: újra",
+      "answer": "újra"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 6"
+      "question": "Gépeld be: pörög",
+      "answer": "pörög"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 7"
+      "question": "Gépeld be: kerék",
+      "answer": "kerék"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 8"
+      "question": "Gépeld be: ritmus",
+      "answer": "ritmus"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 9"
+      "question": "Gépeld be: vissza",
+      "answer": "vissza"
     },
     {
       "type": "typing",
-      "text": "Nyomtatás alapjai nagyon jó 10"
+      "question": "Gépeld be: folyamatos",
+      "answer": "folyamatos"
     }
   ]
 }

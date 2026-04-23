@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Die Maus (Linksklick)",
+  "theme": "Monitor",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Die Maus (Linksklick)?",
+      "question": "Was zeigt der Monitor?",
       "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Im Garten.",
-        "Auf dem Baum."
+        "Bilder",
+        "Musik",
+        "Essen",
+        "Geruch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "question": "Wie nennt man ihn noch?",
       "options": [
-        "Nein.",
-        "Langweilig.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
-      "options": [
-        "Müde.",
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
-      "options": [
-        "Ja, genau.",
-        "Ein Hund.",
-        "Nein, ein Auto.",
-        "Ein Apfel."
+        "Bildschirm",
+        "Hörrohr",
+        "Sehkasten",
+        "Malbrett"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "question": "Darf man fest draufdrücken?",
       "options": [
-        "Langweilig.",
-        "Müde.",
-        "Ja!",
-        "Nein."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Maus (Linksklick)?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Nein",
+        "Ja",
+        "Nur mit dem Finger",
+        "Nur mit dem Stift"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "question": "Was sind Pixel?",
       "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Maus (Linksklick)?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer.",
-        "Im Garten."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Die Maus (Linksklick)?",
-      "options": [
-        "Auf dem Baum.",
-        "Im Garten.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
-      "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
-      "options": [
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Nein, ein Auto."
+        "Kleine Punkte",
+        "Kleine Tiere",
+        "Kleine Steine",
+        "Kleine Haare"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "question": "Wo schaltet man ihn an?",
       "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Müde.",
-        "Kalt."
+        "Am Power-Knopf",
+        "Am Kabel",
+        "Gar nicht",
+        "Durch Pusten"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Die Maus (Linksklick)?",
+      "question": "Was ist ein Touchscreen?",
       "options": [
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
-      "options": [
-        "Ein Apfel.",
-        "Nein, ein Auto.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Ein Hund."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Die Maus (Linksklick)?",
-      "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Maus (Linksklick)?",
-      "options": [
-        "Müde.",
-        "Ja!",
-        "Langweilig.",
-        "Nein."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Maus (Linksklick)?",
-      "options": [
-        "Müde.",
-        "Nein.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Die Maus (Linksklick)?",
-      "options": [
-        "Nein.",
-        "Langweilig.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
-      "options": [
-        "Der Vogel.",
-        "Der Hund.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund."
+        "Ein Bildschirm zum Anfassen",
+        "Ein Bildschirm zum Riechen",
+        "Ein kaputter Bildschirm",
+        "Ein dunkler Bildschirm"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "question": "Warum ist er hell?",
       "options": [
-        "Traurig.",
-        "Kalt.",
-        "Müde.",
-        "Gut und sicher."
+        "Wegen der Lampen innen",
+        "Wegen der Sonne",
+        "Wegen der Farbe",
+        "Wegen dem Glas"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "question": "Was macht man bei Pausen?",
       "options": [
-        "Der Hund.",
-        "Mama oder Papa.",
-        "Die Katze.",
-        "Der Vogel."
+        "Ausschalten",
+        "Hell machen",
+        "Abdecken",
+        "Anschreien"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "question": "Gibt es große Monitore?",
       "options": [
-        "Gut und sicher.",
-        "Traurig.",
-        "Kalt.",
-        "Müde."
+        "Ja",
+        "Nein",
+        "Nur im Kino",
+        "Nur im Weltall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Auflösung?",
+      "options": [
+        "Wie scharf das Bild ist",
+        "Wie schwer er ist",
+        "Wie teuer er ist",
+        "Wie alt er ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Breitbild?",
+      "options": [
+        "Ein breiter Monitor",
+        "Ein dickes Bild",
+        "Ein hohes Bild",
+        "Ein schweres Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht er ein Kabel?",
+      "options": [
+        "Ja, für Strom und Bild",
+        "Nein",
+        "Nur für Musik",
+        "Nur für Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Helligkeit ändern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur nachts",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein flacher Monitor?",
+      "options": [
+        "Ein moderner Monitor",
+        "Ein kaputter Monitor",
+        "Ein alter Röhrenmonitor",
+        "Ein Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Abstand halten?",
+      "options": [
+        "Ja, gut für die Augen",
+        "Nein, nah ran",
+        "Nur wenn er hell ist",
+        "Nur wenn er dunkel ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kontrast?",
+      "options": [
+        "Unterschied hell/dunkel",
+        "Die Farbe Blau",
+        "Die Größe",
+        "Das Gewicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gibt es gebogene Monitore?",
+      "options": [
+        "Ja, Curved",
+        "Nein",
+        "Nur wenn sie kaputt sind",
+        "Nur aus Gummi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Full HD?",
+      "options": [
+        "Eine gute Bildqualität",
+        "Ein voller Korb",
+        "Ein schwerer Monitor",
+        "Ein alter Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Bildschirmschoner?",
+      "options": [
+        "Bilder zeigen bei Pause",
+        "Den Monitor waschen",
+        "Essen kochen",
+        "Musik spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 4K?",
+      "options": [
+        "Sehr scharfes Bild",
+        "Vier Kabel",
+        "Vier Knöpfe",
+        "Vier Farben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Monitor Farben zeigen?",
+      "options": [
+        "Ja, Millionen",
+        "Nein, nur Grau",
+        "Nur Rot",
+        "Nur Grün"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Bildwiederholfrequenz?",
+      "options": [
+        "Wie oft das Bild neu kommt",
+        "Wie oft er piept",
+        "Wie oft er wackelt",
+        "Wie oft er geputzt wird"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man mit Wasser putzen?",
+      "options": [
+        "Nein, Spezialtuch nehmen",
+        "Ja, viel Wasser",
+        "Nur mit Seife",
+        "Nur mit Bürste"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Beamer?",
+      "options": [
+        "Wirft Bild an die Wand",
+        "Ein schnelles Auto",
+        "Ein Staubsauger",
+        "Ein Telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum flimmert ein Monitor?",
+      "options": [
+        "Meist wenn er kaputt ist",
+        "Weil er lacht",
+        "Weil er friert",
+        "Weil er tanzt"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Monitor",
+      "answer": "Monitor"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Bild",
+      "answer": "Bild"
     },
     {
       "type": "typing",
-      "text": "Gut"
+      "question": "Tippe: Glas",
+      "answer": "Glas"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Farbe",
+      "answer": "Farbe"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Licht",
+      "answer": "Licht"
     },
     {
       "type": "typing",
-      "text": "Maus"
+      "question": "Tippe: Anzeige",
+      "answer": "Anzeige"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Sehen",
+      "answer": "Sehen"
     },
     {
       "type": "typing",
-      "text": "Farbe"
+      "question": "Tippe: Flach",
+      "answer": "Flach"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Tippe: Video",
+      "answer": "Video"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Foto",
+      "answer": "Foto"
     }
   ]
 }

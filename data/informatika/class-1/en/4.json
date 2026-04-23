@@ -1,0 +1,332 @@
+{
+  "class": 1,
+  "theme": "Icons",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is an icon?",
+      "options": [
+        "A big song",
+        "A small picture",
+        "A loud noise",
+        "A heavy box"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when we click an icon?",
+      "options": [
+        "It disappears",
+        "It opens something",
+        "It changes color",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do we usually see icons?",
+      "options": [
+        "On the floor",
+        "In the fridge",
+        "On the desktop",
+        "On the ceiling"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Does the Trash icon look like a bin?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only on Fridays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we move icons?",
+      "options": [
+        "No",
+        "Only some",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is there an icon for a web browser?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on tablets",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Icons help us find things ____.",
+      "options": [
+        "Slowly",
+        "Quickly",
+        "Never",
+        "Randomly"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "An icon of a folder usually looks like a...",
+      "options": [
+        "Yellow folder",
+        "Red apple",
+        "Blue car",
+        "Green tree"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we delete an icon?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if it's old",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we create our own icons?",
+      "options": [
+        "No",
+        "Only experts",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Is the 'X' button an icon?",
+      "options": [
+        "No",
+        "Yes, for closing",
+        "Maybe",
+        "Only in red"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a speaker icon usually control?",
+      "options": [
+        "Sound",
+        "Light",
+        "Speed",
+        "Heat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does an icon represent a program?",
+      "options": [
+        "No",
+        "Sometimes",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Can we hide icons?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on Mondays",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Recycle Bin' icon for?",
+      "options": [
+        "New files",
+        "Deleted files",
+        "Games",
+        "Music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Do icons have names under them?",
+      "options": [
+        "Never",
+        "Usually yes",
+        "Only numbers",
+        "Only letters"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can icons be different sizes?",
+      "options": [
+        "No",
+        "Yes",
+        "Only small",
+        "Only big"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is a 'Start' button an icon?",
+      "options": [
+        "No",
+        "Maybe",
+        "Yes",
+        "Only on Windows"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Does a 'Save' icon often look like a floppy disk?",
+      "options": [
+        "Yes",
+        "No",
+        "What is that?",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can we change the picture of an icon?",
+      "options": [
+        "No",
+        "Only for games",
+        "Yes",
+        "Maybe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Are icons colorful?",
+      "options": [
+        "Always black",
+        "Usually yes",
+        "Always white",
+        "Never"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can we click an icon with a mouse?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with a keyboard",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is there an icon for 'My Computer'?",
+      "options": [
+        "No",
+        "Only on old computers",
+        "Maybe",
+        "Yes"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Do tablets use icons too?",
+      "options": [
+        "No",
+        "Yes",
+        "Only phones",
+        "Maybe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best way to describe an icon?",
+      "options": [
+        "A long word",
+        "A hidden file",
+        "A computer part",
+        "A shortcut picture"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Picture'",
+      "answer": "Picture"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Small'",
+      "answer": "Small"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Logo'",
+      "answer": "Logo"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Sign'",
+      "answer": "Sign"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Click'",
+      "answer": "Click"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Icon'",
+      "answer": "Icon"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Desk'",
+      "answer": "Desk"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'App'",
+      "answer": "App"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Open'",
+      "answer": "Open"
+    },
+    {
+      "type": "typing",
+      "question": "Type 'Bin'",
+      "answer": "Bin"
+    }
+  ]
+}

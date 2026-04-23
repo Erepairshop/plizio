@@ -1,297 +1,332 @@
 {
   "class": 2,
-  "theme": "Játékos tanulás",
+  "theme": "Video",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 1)",
+      "question": "Mi a videó?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 2)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 3)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Mozgóképek sorozata hanggal",
+        "Egy sima fotó",
+        "Egy festmény",
+        "Egy könyv"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 4)",
+      "question": "Melyik oldalon nézünk legtöbbször videót?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 5)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 6)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "YouTube",
+        "Google Maps",
+        "Gmail",
+        "Paint"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 7)",
+      "question": "Hogyan indítunk el egy videót?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 8)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 9)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Kattintunk a közepére vagy a Play gombra",
+        "Megfújjuk",
+        "Várunk",
+        "Becsukjuk a szemünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 10)",
+      "question": "Melyik gombbal állítjuk meg the videót?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Szünet (Pause) vagy Stop",
+        "Enter",
+        "Space (sokszor ez is jó)",
+        "Az 1. és 3. is jó"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 11)",
+      "question": "Mit jelent the 'teljes képernyő'?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 12)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "A videó betölti the egész monitort",
+        "Nagyobb lesz the monitor",
+        "Kitisztul the kép",
+        "Semmit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 13)",
+      "question": "Hogyan tekerünk előre a videóban?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 14)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 15)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Az idővonalon előrébb kattintunk",
+        "Meglökjük the gépet",
+        "Gyorsabban pislogunk",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 16)",
+      "question": "Mi az a webkamera?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 17)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 18)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Eszköz, amivel videót vehetünk fel",
+        "Egy fajta pók",
+        "A monitor kábele",
+        "Egy játék"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 19)",
+      "question": "Szabad-e videóhívást indítani idegennel?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 20)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 21)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Nem, soha",
+        "Igen, bármikor",
+        "Csak ha kedves",
+        "Csak ha vicces"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 22)",
+      "question": "Mire jó a 'felirat' a videón?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 23)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 24)",
-      "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "Hogy olvashassuk, amit mondanak",
+        "Hogy rajzolhassunk rá",
+        "Hogy ne halljuk the hangot",
+        "Dísznek"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mi a fontos itt: Játékos tanulás? (Kérdés 25)",
+      "question": "Hogyan lesz élesebb a videó?",
       "options": [
-        "A opció: Játékos tanulás",
-        "B opció: Játékos tanulás",
-        "C opció: Játékos tanulás"
+        "A minőség (HD) beállításával",
+        "Megtöröljük the szemünket",
+        "Nagyítóval",
+        "Várunk"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik fájl a videó?",
+      "options": [
+        "film.mp4",
+        "kep.png",
+        "hang.mp3",
+        "iras.txt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'tetszik' (like) gomb?",
+      "options": [
+        "Jelezzük, hogy tetszett the videó",
+        "Ezzel mentjük el",
+        "Ezzel töröljük",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videót vágni?",
+      "options": [
+        "Igen, videószerkesztő programmal",
+        "Nem, the videó egyben marad",
+        "Csak ollóval",
+        "Csak ha van kameránk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'vlogger'?",
+      "options": [
+        "Aki videókat készít az internetre",
+        "Egy fajta étel",
+        "Egy gépalkatrész",
+        "Egy állat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk videónézés közben?",
+      "options": [
+        "A megfelelő távolságra és időre",
+        "Hogy ne mozogjunk",
+        "Hogy csak állva nézzük",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'streamelés'?",
+      "options": [
+        "Videónézés élőben az interneten",
+        "Víz folyatása the gépre",
+        "Rajzolás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mentünk el egy videót későbbre?",
+      "options": [
+        "A 'Mentés' vagy 'Később megnézem' gombbal",
+        "Leírjuk the címét",
+        "Rágondolunk",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ikon a beállítások a videónál?",
+      "options": [
+        "Egy kis fogaskerék",
+        "Egy csillag",
+        "Egy ház",
+        "Egy nyíl"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e videót küldeni telefonon?",
+      "options": [
+        "Igen, üzenetben",
+        "Nem, túl nehéz",
+        "Csak ha van zsinór",
+        "Csak ha mozog"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'TikTok'?",
+      "options": [
+        "Egy rövid videós közösségi oldal",
+        "Egy óra hangja",
+        "Egy fajta süti",
+        "Egy játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Youtube Kids?",
+      "options": [
+        "Biztonságos videók gyerekeknek",
+        "Játékok letöltésére",
+        "Gépelésre",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan készítünk saját videót?",
+      "options": [
+        "A kamera vagy telefon felvétel gombjával",
+        "Rajzolunk sok képet",
+        "Beszélünk the géphez",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'feliratkozás'?",
+      "options": [
+        "Hogy értesüljünk az új videókról",
+        "Hogy fizessünk érte",
+        "Hogy töröljük az oldalt",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó the lassított felvétel?",
+      "options": [
+        "Hogy jobban lássuk the gyors mozgást",
+        "Hogy tovább tartson the film",
+        "Mert elromlott the gép",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos the jó internet the videózáshoz?",
+      "options": [
+        "Hogy ne akadjon meg the kép",
+        "Hogy szebb legyen the színe",
+        "Hogy halljuk the hangot",
+        "Nem fontos"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 1"
+      "question": "Gépeld be: videó",
+      "answer": "videó"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 2"
+      "question": "Gépeld be: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 3"
+      "question": "Gépeld be: mozog",
+      "answer": "mozog"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 4"
+      "question": "Gépeld be: kamera",
+      "answer": "kamera"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 5"
+      "question": "Gépeld be: lejátszás",
+      "answer": "lejátszás"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 6"
+      "question": "Gépeld be: megáll",
+      "answer": "megáll"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 7"
+      "question": "Gépeld be: szünet",
+      "answer": "szünet"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 8"
+      "question": "Gépeld be: tekercs",
+      "answer": "tekercs"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 9"
+      "question": "Gépeld be: mozi",
+      "answer": "mozi"
     },
     {
       "type": "typing",
-      "text": "Játékos tanulás nagyon jó 10"
+      "question": "Gépeld be: nézés",
+      "answer": "nézés"
     }
   ]
 }

@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Richtig sitzen",
+  "theme": "Einführung in die Programmierung",
   "language": "de",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Wer hilft dir bei: Richtig sitzen?",
+      "question": "Was ist Programmieren?",
       "options": [
-        "Der Hund.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Mama oder Papa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Im Bett.",
-        "Auf dem Baum."
+        "Anweisungen für den PC schreiben",
+        "Einen PC bauen",
+        "Einen PC putzen",
+        "Einen PC kaufen"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "question": "Was ist ein Algorithmus?",
       "options": [
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Richtig sitzen?",
-      "options": [
-        "Nein.",
-        "Vielleicht.",
-        "Ja, sehr wichtig.",
-        "Weiß nicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Richtig sitzen?",
-      "options": [
-        "Ja!",
-        "Langweilig.",
-        "Nein.",
-        "Müde."
+        "Ein genauer Plan",
+        "Ein Tier",
+        "Ein Berg",
+        "Ein Lied"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Richtig sitzen?",
+      "question": "Was ist ein Bug?",
       "options": [
-        "Ja!",
-        "Langweilig.",
-        "Müde.",
-        "Nein."
+        "Ein Fehler im Programm",
+        "Ein Käfer im Garten",
+        "Ein bunter Stein",
+        "Ein lautes Geräusch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
+      "question": "Wie nennt man Programmierer?",
       "options": [
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Richtig sitzen?",
-      "options": [
-        "Ein Hund.",
-        "Ja, genau.",
-        "Ein Apfel.",
-        "Nein, ein Auto."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Richtig sitzen?",
-      "options": [
-        "Gut und sicher.",
-        "Kalt.",
-        "Traurig.",
-        "Müde."
+        "Coder",
+        "Bäcker",
+        "Maler",
+        "Läufer"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
+      "question": "Was ist eine Schleife?",
       "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Etwas wiederholen",
+        "Ein Knoten",
+        "Ein Geschenk",
+        "Ein Kreis"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Macht das Spaß: Richtig sitzen?",
+      "question": "Was ist eine 'Wenn-Dann' Regel?",
       "options": [
-        "Müde.",
-        "Nein.",
-        "Ja!",
-        "Langweilig."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Richtig sitzen?",
-      "options": [
-        "Vielleicht.",
-        "Weiß nicht.",
-        "Nein.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett.",
-        "Am Computer."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wer hilft dir bei: Richtig sitzen?",
-      "options": [
-        "Mama oder Papa.",
-        "Der Vogel.",
-        "Die Katze.",
-        "Der Hund."
+        "Eine Bedingung",
+        "Ein Versprechen",
+        "Ein Spiel",
+        "Ein Wunsch"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Gehört das zum Thema: Richtig sitzen?",
+      "question": "Braucht man Mathe zum Programmieren?",
       "options": [
-        "Nein, ein Auto.",
-        "Ja, genau.",
-        "Ein Hund.",
-        "Ein Apfel."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Gehört das zum Thema: Richtig sitzen?",
-      "options": [
-        "Nein, ein Auto.",
-        "Ein Apfel.",
-        "Ein Hund.",
-        "Ja, genau."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wie fühlst du dich bei: Richtig sitzen?",
-      "options": [
-        "Müde.",
-        "Kalt.",
-        "Traurig.",
-        "Gut und sicher."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Am Computer.",
-        "Im Bett.",
-        "Auf dem Baum.",
-        "Im Garten."
+        "Ein bisschen hilft",
+        "Nein, nie",
+        "Nur zum Zählen bis 10",
+        "Nur nachts"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "question": "Was ist eine Programmiersprache?",
       "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Ja, sehr wichtig.",
-        "Vielleicht."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Am Computer.",
-        "Im Bett."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Im Bett.",
-        "Im Garten.",
-        "Am Computer.",
-        "Auf dem Baum."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Macht das Spaß: Richtig sitzen?",
-      "options": [
-        "Langweilig.",
-        "Nein.",
-        "Ja!",
-        "Müde."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ist das wichtig für uns: Richtig sitzen?",
-      "options": [
-        "Nein.",
-        "Weiß nicht.",
-        "Vielleicht.",
-        "Ja, sehr wichtig."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Wo machen wir das: Richtig sitzen?",
-      "options": [
-        "Am Computer.",
-        "Im Garten.",
-        "Auf dem Baum.",
-        "Im Bett."
+        "Sprache die der PC versteht",
+        "Englisch",
+        "Deutsch",
+        "Hundesprache"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Wie fühlst du dich bei: Richtig sitzen?",
+      "question": "Können Kinder programmieren?",
       "options": [
-        "Kalt.",
-        "Müde.",
-        "Traurig.",
-        "Gut und sicher."
+        "Ja, na klar",
+        "Nein, erst mit 20",
+        "Nur wenn sie Brillen tragen",
+        "Nur in der Schule"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Logik?",
+      "options": [
+        "Richtiges Schlussfolgern",
+        "Ein Spiel",
+        "Ein Gefühl",
+        "Ein Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Debugger?",
+      "options": [
+        "Hilft Fehler zu finden",
+        "Macht neue Fehler",
+        "Ist ein Spiel",
+        "Ist zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Befehlssatz?",
+      "options": [
+        "Alle möglichen Befehle",
+        "Ein Satz im Buch",
+        "Ein Puzzle",
+        "Ein Turm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu programmiert man?",
+      "options": [
+        "Damit der PC Dinge tut",
+        "Damit er leuchtet",
+        "Damit er warm wird",
+        "Damit er laut ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Variable?",
+      "options": [
+        "Ein Platzhalter für Infos",
+        "Ein bunter Punkt",
+        "Ein schneller Flitzer",
+        "Ein schwerer Stein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Binärcode?",
+      "options": [
+        "0 und 1",
+        "A und B",
+        "Rot und Blau",
+        "Groß und Klein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Spiele programmieren?",
+      "options": [
+        "Ja, fast alle",
+        "Nein, die kommen von allein",
+        "Nur am Montag",
+        "Nur im Weltall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Scratch?",
+      "options": [
+        "Ein Programm für Kinder",
+        "Ein Kratzer",
+        "Ein Pausenbrot",
+        "Ein Haustier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Programm?",
+      "options": [
+        "Viele Befehle zusammen",
+        "Ein einzelnes Wort",
+        "Ein Foto",
+        "Ein Film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man gut lesen können?",
+      "options": [
+        "Es hilft beim Verstehen",
+        "Nein, gar nicht",
+        "Nur die Zahlen",
+        "Nur die Farben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Skript?",
+      "options": [
+        "Ein kleiner Programmteil",
+        "Ein Blatt Papier",
+        "Ein Stift",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Apps programmieren?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur für das Radio",
+        "Nur für den Fernseher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Event?",
+      "options": [
+        "Ein Ereignis (z.B. Klick)",
+        "Eine Party",
+        "Ein Urlaub",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Eingabe?",
+      "options": [
+        "Infos an den PC (Maus/Tasten)",
+        "Essen für den PC",
+        "Licht für den PC",
+        "Musik für den PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Ausgabe?",
+      "options": [
+        "Infos vom PC (Monitor)",
+        "Müll vom PC",
+        "Wärme vom PC",
+        "Lärm vom PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht Programmieren schlau?",
+      "options": [
+        "Ja, es trainiert den Kopf",
+        "Nein",
+        "Nur wenn man gewinnt",
+        "Nur am Freitag"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Code",
+      "answer": "Code"
     },
     {
       "type": "typing",
-      "text": "Spielen"
+      "question": "Tippe: Schritt",
+      "answer": "Schritt"
     },
     {
       "type": "typing",
-      "text": "Klick"
+      "question": "Tippe: Befehl",
+      "answer": "Befehl"
     },
     {
       "type": "typing",
-      "text": "Ja"
+      "question": "Tippe: Logik",
+      "answer": "Logik"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Start",
+      "answer": "Start"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Wiederholen",
+      "answer": "Wiederholen"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Wenn",
+      "answer": "Wenn"
     },
     {
       "type": "typing",
-      "text": "Hilfe"
+      "question": "Tippe: Dann",
+      "answer": "Dann"
     },
     {
       "type": "typing",
-      "text": "Nein"
+      "question": "Tippe: Ziel",
+      "answer": "Ziel"
     },
     {
       "type": "typing",
-      "text": "Computer"
+      "question": "Tippe: Weg",
+      "answer": "Weg"
     }
   ]
 }
