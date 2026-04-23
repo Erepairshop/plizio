@@ -1,48 +1,54 @@
 import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import { G5_Generators_Geschichte } from "./geschichteGenerators5";
 
-const G5_TOPICS = Array.from({ length: 24 }, (_, i) => ({
-  id: `g5_t${i + 1}`,
-  names: {
-    de: `K5 Deutsche Geschichte Thema ${i + 1}`,
-    hu: `K5 Magyar történelem Téma ${i + 1}`,
-    ro: `K5 Istoria României Subiect ${i + 1}`,
-    en: `K5 World History Topic ${i + 1}`,
-  }
-}));
-
-// Explicit specific mappings requested by user
-G5_TOPICS[0].names = { de: "Frühe Germanen", hu: "Magyar őstörténet", ro: "Dacii și Geții", en: "Early Human Migration" };
-G5_TOPICS[1].names = { de: "Römer in Germanien", hu: "A Kárpát-medence az ókorban", ro: "Războaiele daco-romane", en: "Ancient River Valleys" };
-G5_TOPICS[2].names = { de: "Völkerwanderung", hu: "A honfoglalás", ro: "Romanizarea Daciei", en: "Ancient Greece" };
-G5_TOPICS[3].names = { de: "Frankenreich", hu: "Kalandozások kora", ro: "Retragerea aureliană", en: "Roman Republic" };
-G5_TOPICS[4].names = { de: "Merowinger", hu: "Géza fejedelem", ro: "Migrațiile timpurii", en: "Roman Empire" };
-G5_TOPICS[5].names = { de: "Karolinger", hu: "Szent István és az államalapítás", ro: "Formarea poporului român", en: "Decline of Rome" };
+// ─── Subtopics with generator-backed DE content ─────────────────────────────
+// Topic names + generator key mapping. Order follows ancient history flow.
+const G5_SUBTOPICS = [
+  { id: "fruehe_hochkulturen", names: { de: "Frühe Hochkulturen", hu: "Korai magaskultúrák", ro: "Civilizații timpurii", en: "Early Civilizations" } },
+  { id: "griechenland",        names: { de: "Antikes Griechenland", hu: "Ókori Görögország", ro: "Grecia Antică", en: "Ancient Greece" } },
+  { id: "aegypten",            names: { de: "Altes Ägypten", hu: "Ókori Egyiptom", ro: "Egiptul Antic", en: "Ancient Egypt" } },
+  { id: "rom_republik",        names: { de: "Römische Republik", hu: "Római köztársaság", ro: "Republica Romană", en: "Roman Republic" } },
+  { id: "rom_kaiserreich",     names: { de: "Römisches Kaiserreich", hu: "Római császárság", ro: "Imperiul Roman", en: "Roman Empire" } },
+  { id: "germanen",            names: { de: "Germanen", hu: "Germánok", ro: "Germanii", en: "Germanic Peoples" } },
+  { id: "voelkerwanderung",    names: { de: "Völkerwanderung", hu: "Népvándorlás", ro: "Marea migrație", en: "Migration Period" } },
+];
 
 export const G5_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
     id: "g5_theme_1",
-    name: { de: "Ursprünge", hu: "Kezdetek", ro: "Origini", en: "Origins" },
+    name: { de: "Antike", hu: "Ókor", ro: "Antichitate", en: "Antiquity" },
     icon: "🏺",
     color: "#F59E0B",
-    subtopics: G5_TOPICS.map(t => ({ id: t.id, name: t.names, questions: [], hasGenerator: true }))
+    subtopics: G5_SUBTOPICS.map(t => ({ id: t.id, name: t.names, questions: [], hasGenerator: true }))
   }
 ];
 
 export function getG5GeschichteQuestions(subtopicId: string, countryCode: string = "EN", count: number = 35): CurriculumQuestion[] {
   const lang = (countryCode || "EN").toLowerCase();
-  const pool: CurriculumQuestion[] = [];
-  const t = G5_TOPICS.find(x => x.id === subtopicId);
-  if (!t) return [];
-  
-  const topicName = (t.names as any)[lang] || t.names.en;
+  const topic = G5_SUBTOPICS.find(x => x.id === subtopicId);
+  if (!topic) return [];
 
+  // DE: use real hand-written generator content
+  if (lang === "de") {
+    const gen = G5_Generators_Geschichte[subtopicId];
+    if (gen) {
+      const all = gen();
+      // shuffle + slice up to `count`
+      const shuffled = [...all].sort(() => Math.random() - 0.5);
+      return shuffled.slice(0, count);
+    }
+  }
+
+  // HU/RO/EN fallback — until lang-specific content is generated
+  const topicName = (topic.names as any)[lang] || topic.names.en;
+  const pool: CurriculumQuestion[] = [];
   for (let i = 1; i <= 25; i++) {
     pool.push({
       type: "mcq",
       topic: "Geschichte K5",
       subtopic: subtopicId,
-      question: `[${topicName}] MCQ Frage ${i}?`,
-      options: [`Antwort A ${i}`, `Antwort B ${i}`, `Antwort C ${i}`, `Antwort D ${i}`],
+      question: `[${topicName}] MCQ ${i}?`,
+      options: [`A${i}`, `B${i}`, `C${i}`, `D${i}`],
       correct: 0
     });
   }
@@ -51,7 +57,7 @@ export function getG5GeschichteQuestions(subtopicId: string, countryCode: string
       type: "typing",
       topic: "Geschichte K5",
       subtopic: subtopicId,
-      question: `[${topicName}] Typing Frage ${i}?`,
+      question: `[${topicName}] Typing ${i}?`,
       answer: `Antwort ${i}`
     });
   }

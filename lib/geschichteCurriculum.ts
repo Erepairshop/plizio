@@ -1,4 +1,30 @@
 import type { CurriculumTheme, CurriculumQuestion, GradeMark } from "./curriculumTypes";
+import { getG5GeschichteQuestions } from "./geschichteCurriculum5";
+import { getG6GeschichteQuestions } from "./geschichteCurriculum6";
+import { getG7GeschichteQuestions } from "./geschichteCurriculum7";
+import { getG8GeschichteQuestions } from "./geschichteCurriculum8";
+import { G5_Generators_Geschichte } from "./geschichteGenerators5";
+import { G6_Generators_Geschichte } from "./geschichteGenerators6";
+import { G7_Generators_Geschichte } from "./geschichteGenerators7";
+import { G8_Generators_Geschichte } from "./geschichteGenerators8";
+
+// Map g${grade}_t${n} IDs → real generator keys (by order of G{n}_SUBTOPICS in curriculum files)
+const GENERATOR_KEY_ORDER: Record<number, string[]> = {
+  5: Object.keys(G5_Generators_Geschichte),
+  6: Object.keys(G6_Generators_Geschichte),
+  7: Object.keys(G7_Generators_Geschichte),
+  8: Object.keys(G8_Generators_Geschichte),
+};
+
+function mapToGeneratorKey(grade: number, subtopicId: string): string | null {
+  const match = subtopicId.match(/^g\d+_t(\d+)$/);
+  if (match) {
+    const idx = parseInt(match[1], 10) - 1;
+    const keys = GENERATOR_KEY_ORDER[grade] || [];
+    return keys[idx] || null;
+  }
+  return subtopicId; // already a real key
+}
 
 // ─── COUNTRY-SPECIFIC TOPICS MAPPING ────────────────────────────────────────
 // 24 topics per grade (K5-K8)
@@ -66,40 +92,23 @@ export function getGeschichteQuestions(
 ): CurriculumQuestion[] {
   const lang = (countryCode || "EN").toLowerCase();
   const pool: CurriculumQuestion[] = [];
-  
-  const allThemes = GESCHICHTE_CURRICULUM[grade] || [];
-  const allSubtopics = allThemes.flatMap(t => t.subtopics);
+
+  const fetch: Record<number, (id: string, cc: string, c: number) => CurriculumQuestion[]> = {
+    5: getG5GeschichteQuestions,
+    6: getG6GeschichteQuestions,
+    7: getG7GeschichteQuestions,
+    8: getG8GeschichteQuestions,
+  };
+  const fn = fetch[grade];
+  if (!fn) return [];
 
   for (const id of subtopicIds) {
-    const subtopic = allSubtopics.find(s => s.id === id);
-    if (!subtopic) continue;
-
-    const topicName = (subtopic.name as any)[lang] || (subtopic.name as any).en;
-    
-    // Generate exactly 25 MCQ and 10 Typing per altéma
-    for (let i = 1; i <= 25; i++) {
-      pool.push({
-        type: "mcq",
-        topic: `Geschichte Klasse ${grade}`,
-        subtopic: id,
-        question: `[${topicName}] Frage ${i}: Welche Aussage ist korrekt?`,
-        options: [`Richtige Antwort zu ${topicName}`, `Falsche Antwort 1`, `Falsche Antwort 2`, `Falsche Antwort 3`],
-        correct: 0
-      });
-    }
-    
-    for (let i = 1; i <= 10; i++) {
-      pool.push({
-        type: "typing",
-        topic: `Geschichte Klasse ${grade}`,
-        subtopic: id,
-        question: `[${topicName}] Typing Frage ${i}: Gib das Schlüsselwort ein.`,
-        answer: "Antwort"
-      });
-    }
+    // Translate g{grade}_t{n} → real generator key if needed
+    const realId = mapToGeneratorKey(grade, id) || id;
+    const qs = fn(realId, lang, 35);
+    pool.push(...qs);
   }
 
-  // Shuffle
   const shuffled = pool.sort(() => Math.random() - 0.5);
   return shuffled.slice(0, count);
 }
