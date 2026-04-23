@@ -683,8 +683,100 @@ export const monacoLandmarks: POI[] = [
   }
 ];
 
+export const monacoRegionsPoi: POI[] = [
+  {
+    id: "MC-001-antoinette-park",
+    type: "nature",
+    parent: "MC-001",
+    coords: [7.4147, 43.7375],
+    name: {
+      de: "Prinzessin-Antoinette-Park",
+      hu: "Antoinette hercegnő park",
+      ro: "Parcul Princesse Antoinette",
+      en: "Princess Antoinette Park"
+    },
+    description: {
+      de: "Ein herrlicher Park mit hundertjährigen Olivenbäumen, ideal für Familien.",
+      hu: "Gyönyörű park százéves olajfákkal, ideális családok számára.",
+      ro: "Un parc splendid cu măslini centenari, ideal pentru familii.",
+      en: "A beautiful park with century-old olive trees, ideal for families."
+    },
+    facts: {
+      de: [
+        "Beherbergt einen Minigolfplatz",
+        "Viele Spielbereiche für Kinder",
+        "Blick auf den Felsen von Monaco",
+        "Hundertjährige Olivenbäume"
+      ],
+      hu: [
+        "Minigolfpálya található benne",
+        "Számos játszótér gyerekeknek",
+        "Kilátás a monacói Sziklára",
+        "Százéves olajfák"
+      ],
+      ro: [
+        "Găzduiește un teren de minigolf",
+        "Multe zone de joacă pentru copii",
+        "Vedere spre Stânca Monaco",
+        "Măslini centenari"
+      ],
+      en: [
+        "Houses a mini-golf course",
+        "Many play areas for children",
+        "View of the Rock of Monaco",
+        "Century-old olive trees"
+      ]
+    }
+  },
+  {
+    id: "MC-001-st-charles-church",
+    type: "landmark",
+    parent: "MC-001",
+    coords: [7.4301, 43.7423],
+    name: {
+      de: "Kirche Saint-Charles",
+      hu: "Szent Károly-templom",
+      ro: "Biserica Saint-Charles",
+      en: "Saint-Charles Church"
+    },
+    description: {
+      de: "Eine wunderschöne Kirche im Stil der Neorenaissance im Herzen von Monte-Carlo.",
+      hu: "Gyönyörű neoreneszánsz stílusú templom Monte-Carlo szívében.",
+      ro: "O biserică frumoasă în stil neorenascentist în inima orașului Monte-Carlo.",
+      en: "A beautiful Neo-Renaissance style church in the heart of Monte-Carlo."
+    },
+    facts: {
+      de: [
+        "Eingeweiht 1883",
+        "Bekannt für seine Glasmalereien",
+        "Glockenturm ist 30 Meter hoch",
+        "Ort vieler Hochzeiten"
+      ],
+      hu: [
+        "1883-ban szentelték fel",
+        "Üvegablakairól ismert",
+        "Harangtornya 30 méter magas",
+        "Számos esküvő helyszíne"
+      ],
+      ro: [
+        "Inaugurată în 1883",
+        "Cunoscută pentru vitraliile sale",
+        "Turnul clopotniță are 30 de metri înălțime",
+        "Locul multor nunți"
+      ],
+      en: [
+        "Inaugurated in 1883",
+        "Known for its stained glass windows",
+        "Bell tower is 30 meters high",
+        "Site of many weddings"
+      ]
+    }
+  }
+];
+
 export const monacoAllPoi: POI[] = [
   monacoCountry,
   ...monacoDistricts,
-  ...monacoLandmarks
+  ...monacoLandmarks,
+  ...monacoRegionsPoi
 ];

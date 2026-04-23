@@ -430,5 +430,154 @@ export const vaticanPois: POI[] = [
       ro: "Heliportul Papei în partea cea mai vestică a Vaticanului.",
       en: "The Pope's heliport in the westernmost part of the Vatican."
     }
+  },
+  {
+    id: "VA-001",
+    type: "region",
+    parent: "country-vatican",
+    coords: [12.4534, 41.9029],
+    name: {
+      de: "Vatikan",
+      hu: "Vatikán",
+      ro: "Vatican",
+      en: "Vatican"
+    },
+    description: {
+      de: "Der historische Kern und das gesamte Gebiet des Staates Vatikanstadt.",
+      hu: "Vatikánváros történelmi magja és az állam teljes területe.",
+      ro: "Nucleul istoric și întregul teritoriu al statului Cetatea Vaticanului.",
+      en: "The historical core and entire territory of the Vatican City State."
+    },
+    facts: {
+      de: [
+        "Umfasst den gesamten souveränen Staat Vatikanstadt.",
+        "Das kleinste Land der Welt nach Fläche und Bevölkerung.",
+        "Enthält den Petersdom, die Vatikanischen Gärten und Museen.",
+        "Wurde 1929 durch die Lateranverträge unabhängig.",
+        "Ganzes Gebiet ist als UNESCO-Weltkulturerbe gelistet."
+      ],
+      hu: [
+        "Magában foglalja a teljes szuverén Vatikán Államot.",
+        "Terület és népesség alapján a világ legkisebb országa.",
+        "Itt található a Szent Péter-bazilika, a Vatikáni kertek és múzeumok.",
+        "1929-ben lett független a lateráni egyezmény révén.",
+        "Teljes területe az UNESCO Világörökség része."
+      ],
+      ro: [
+        "Cuprinde întregul stat suveran Cetatea Vaticanului.",
+        "Cea mai mică țară din lume după suprafață și populație.",
+        "Conține Bazilica Sfântul Petru, Grădinile Vaticane și Muzeele.",
+        "A devenit independent în 1929 prin Tratatele de la Lateran.",
+        "Întregul teritoriu este inclus în Patrimoniul Mondial UNESCO."
+      ],
+      en: [
+        "Includes the entire sovereign Vatican City State.",
+        "The smallest country in the world by area and population.",
+        "Contains St. Peter's Basilica, the Vatican Gardens and Museums.",
+        "Became independent in 1929 through the Lateran Treaties.",
+        "The entire territory is listed as a UNESCO World Heritage site."
+      ]
+    }
+  },
+  {
+    id: "VA-001-teutonic-cemetery",
+    type: "landmark",
+    parent: "VA-001",
+    coords: [12.4542, 41.9015],
+    name: {
+      de: "Teutonischer Friedhof",
+      hu: "Teuton temető",
+      ro: "Cimitirul Teuton",
+      en: "Teutonic Cemetery"
+    },
+    description: {
+      de: "Der deutsche Friedhof im Schatten des Petersdoms.",
+      hu: "Német temető a Szent Péter-bazilika árnyékában.",
+      ro: "Cimitirul german din umbra Bazilicii Sfântul Petru.",
+      en: "The German cemetery in the shadow of St. Peter's Basilica."
+    },
+    facts: {
+      de: [
+        "Ältester deutscher Friedhof in Rom.",
+        "Liegt rechtlich auf italienischem Boden, ist aber exterritoriales Gebiet des Vatikans.",
+        "Ursprünglich für Pilger aus dem Heiligen Römischen Reich gegründet.",
+        "Wird von der Erzbruderschaft zur Schmerzhaften Muttergottes verwaltet.",
+        "Beherbergt das Campo Santo Teutonico Kolleg."
+      ],
+      hu: [
+        "A legrégebbi német temető Rómában.",
+        "Jogilag olasz területen fekszik, de a Vatikán exterritoriális része.",
+        "Eredetileg a Német-római Birodalom zarándokai számára alapították.",
+        "A Fájdalmas Szűzanya Testvérisége kezeli.",
+        "Itt található a Campo Santo Teutonico kollégium is."
+      ],
+      ro: [
+        "Cel mai vechi cimitir german din Roma.",
+        "Din punct de vedere juridic se află pe pământ italian, dar este teritoriu extrateritorial al Vaticanului.",
+        "Fondat inițial pentru pelerinii din Sfântul Imperiu Roman.",
+        "Administrat de Arhiconfraternitatea Maicii Domnului a Îndureratei.",
+        "Găzduiește colegiul Campo Santo Teutonico."
+      ],
+      en: [
+        "The oldest German cemetery in Rome.",
+        "Legally on Italian soil but is extraterritorial territory of the Vatican.",
+        "Originally founded for pilgrims from the Holy Roman Empire.",
+        "Managed by the Archconfraternity of the Sorrowful Mother of God.",
+        "Houses the Campo Santo Teutonico college."
+      ]
+    }
+  },
+  {
+    id: "VA-001-leonine-wall",
+    type: "historical",
+    parent: "VA-001",
+    coords: [12.4480, 41.9030],
+    name: {
+      de: "Leoninische Mauer",
+      hu: "Leó-fal",
+      ro: "Zidul Leonin",
+      en: "Leonine Wall"
+    },
+    description: {
+      de: "Die mittelalterliche Befestigung, die den Vatikanhügel umschließt.",
+      hu: "A Vatikán-dombot körülvevő középkori erődítmény.",
+      ro: "Fortificația medievală care înconjoară dealul Vaticanului.",
+      en: "The medieval fortification surrounding the Vatican Hill."
+    },
+    facts: {
+      de: [
+        "Erbaut von Papst Leo IV. im 9. Jahrhundert nach dem Überfall der Sarazenen.",
+        "Bildete ursprünglich den Schutz für die 'Leoninische Stadt'.",
+        "Die Mauern sind heute Teil der vatikanischen Befestigungsanlagen.",
+        "Der Passetto di Borgo verbindet den Vatikan über die Mauer mit der Engelsburg.",
+        "Umfasst markante Türme wie den Torre di San Giovanni."
+      ],
+      hu: [
+        "IV. Leó pápa építtette a 9. században a szaracén támadások után.",
+        "Eredetileg a 'Leó-város' védelmét szolgálta.",
+        "A falak ma a vatikáni erődrendszer részét képezik.",
+        "A Passetto di Borgo a falon keresztül köti össze a Vatikánt az Angyalvárral.",
+        "Magában foglal olyan jellegzetes tornyokat, mint a Torre di San Giovanni."
+      ],
+      ro: [
+        "Construit de Papa Leon al IV-lea în secolul al IX-lea după raidul sarazinilor.",
+        "A format inițial protecția pentru 'Orașul Leonin'.",
+        "Zidurile fac parte astăzi din fortificațiile Vaticanului.",
+        "Passetto di Borgo leagă Vaticanul de Castel Sant'Angelo prin zid.",
+        "Include turnuri proeminente, cum ar fi Torre di San Giovanni."
+      ],
+      en: [
+        "Built by Pope Leo IV in the 9th century after the Saracen raid.",
+        "Originally formed the protection for the 'Leonine City'.",
+        "The walls are now part of the Vatican fortifications.",
+        "The Passetto di Borgo connects the Vatican with Castel Sant'Angelo via the wall.",
+        "Includes prominent towers such as the Torre di San Giovanni."
+      ]
+    }
   }
+];
+
+export const vaticanAll: POI[] = [
+  vaticanCountry,
+  ...vaticanPois
 ];
