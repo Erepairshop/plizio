@@ -1,4 +1,5 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
+import AI_K5_CONTENT from "./aiCurriculum5_data.json";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
 type MultiLangOptions = { de: string[]; hu: string[]; ro: string[]; en: string[] };
@@ -11,8 +12,8 @@ interface RawQuestion {
   correct?: number;
 }
 
-const AI_DATA: Record<string, RawQuestion[]> = {
-  "ai_k5_t1_1": [ // Mi az AI?
+const AI_DATA_INLINE: Record<string, RawQuestion[]> = {
+  "ai_k5_t1_1_inline": [ // Mi az AI? (inline fallback, megtartva)
     { type: "mcq", question: { de: "Was bedeutet KI?", hu: "Mit jelent a MI?", ro: "Ce înseamnă IA?", en: "What does AI stand for?" }, options: { de: ["Künstliche Intelligenz", "Kleine Information", "Kluge Instrumente", "Keine Idee"], hu: ["Mesterséges Intelligencia", "Majdnem Igaz", "Minden Ismert", "Műszaki Információ"], ro: ["Inteligență Artificială", "Informație Automatizată", "Idee Avansată", "Instrument Activ"], en: ["Artificial Intelligence", "All Information", "Advanced Idea", "Automated Instrument"] }, correct: 0 },
     { type: "mcq", question: { de: "Ist ein Taschenrechner KI?", hu: "Az MI a számológép?", ro: "Este calculatorul IA?", en: "Is a calculator AI?" }, options: { de: ["Nein", "Ja", "Vielleicht", "Nur die teuren"], hu: ["Nem", "Igen", "Talán", "Csak a drágák"], ro: ["Nu", "Da", "Poate", "Doar cele scumpe"], en: ["No", "Yes", "Maybe", "Only expensive ones"] }, correct: 0 },
     { type: "mcq", question: { de: "Was nutzt KI zum Lernen?", hu: "Mit használ az MI a tanuláshoz?", ro: "Ce folosește IA pentru a învăța?", en: "What does AI use to learn?" }, options: { de: ["Daten", "Essen", "Bücher", "Schlaf"], hu: ["Adatokat", "Ételt", "Könyveket", "Alvást"], ro: ["Date", "Mâncare", "Cărți", "Somn"], en: ["Data", "Food", "Books", "Sleep"] }, correct: 0 },
@@ -22,7 +23,7 @@ const AI_DATA: Record<string, RawQuestion[]> = {
     { type: "typing", question: { de: "Wie heißt die KI von Amazon?", hu: "Hogy hívják az Amazon MI-jét?", ro: "Cum se numește IA Amazon?", en: "Amazon's AI name?" }, answer: "Alexa" },
     { type: "typing", question: { de: "Was braucht KI?", hu: "Mire van szüksége az MI-nek?", ro: "De ce are nevoie IA?", en: "What does AI need?" }, answer: { de: "Daten", hu: "Adatok", ro: "Date", en: "Data" } }
   ],
-  "ai_k5_t1_2": [ // Robotok
+  "ai_k5_t1_2_inline": [ // Robotok (inline fallback)
     { type: "mcq", question: { de: "Was ist ein Roboter?", hu: "Mi az a robot?", ro: "Ce este un robot?", en: "What is a robot?" }, options: { de: ["Maschine", "Tier", "Pflanze", "Geist"], hu: ["Gép", "Állat", "Növény", "Szellem"], ro: ["Mașină", "Animal", "Plantă", "Spirit"], en: ["Machine", "Animal", "Plant", "Ghost"] }, correct: 0 },
     { type: "mcq", question: { de: "Wo arbeiten Roboter?", hu: "Hol dolgoznak robotok?", ro: "Unde lucrează roboții?", en: "Where do robots work?" }, options: { de: ["Fabrik", "Wald", "Meer", "Bett"], hu: ["Gyárban", "Erdőben", "Tengeren", "Ágyban"], ro: ["Fabrică", "Pădure", "Mare", "Pat"], en: ["Factory", "Forest", "Sea", "Bed"] }, correct: 0 },
     { type: "mcq", question: { de: "Was sieht ein Roboter?", hu: "Mivel lát a robot?", ro: "Cu ce vede robotul?", en: "What does a robot use to see?" }, options: { de: ["Kamera", "Brille", "Auge", "Licht"], hu: ["Kamerával", "Szemüveggel", "Szemmel", "Fénnyel"], ro: ["Cameră", "Ochelari", "Ochi", "Lumină"], en: ["Camera", "Glasses", "Eye", "Light"] }, correct: 0 },
@@ -31,9 +32,11 @@ const AI_DATA: Record<string, RawQuestion[]> = {
   ]
 };
 
+const AI_DATA: Record<string, RawQuestion[]> = AI_K5_CONTENT as Record<string, RawQuestion[]>;
+
 // Generic fallback data generator to ensure 25 MCQ + 10 Typing per subtopic
 function getRawQuestions(subId: string): RawQuestion[] {
-  const data = AI_DATA[subId] || AI_DATA["ai_k5_t1_1"];
+  const data = AI_DATA[subId] || AI_DATA["ai_k5_t1_1"] || AI_DATA_INLINE["ai_k5_t1_1_inline"];
   const mcqs = data.filter(q => q.type === "mcq");
   const typings = data.filter(q => q.type === "typing");
   
