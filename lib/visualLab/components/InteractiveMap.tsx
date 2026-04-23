@@ -10,6 +10,7 @@ import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star } from "
 import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
+import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
@@ -191,8 +192,12 @@ export const InteractiveMap = ({
     syncUrl(layer, period, selectedPoiId, detailFor, onlyFavorites);
   }, [layer, period, selectedPoiId, detailFor, onlyFavorites, syncUrl]);
 
-  const t = T[(lang as Lang)] ?? T.de;
-  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : "de") as SeoLang);
+  // Display language comes from user's global language selection (useLang hook),
+  // NOT the `lang` prop which is actually the country-key (e.g. "is", "mt", "by")
+  const { lang: userLang } = useLang();
+  const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
+  const t = T[displayLang] ?? T.de;
+  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : displayLang) as SeoLang);
   const moreLabel = MORE_LABEL[seoLang];
   const selectedPoiFromState = useMemo(
     () => (selected ? pois.find((p) => p.id === selected.id) : null),
@@ -497,7 +502,7 @@ export const InteractiveMap = ({
                   `}
                 >
                   <span>{p.emoji}</span>
-                  <span className="hidden sm:inline">{p.label[lang as Lang] ?? p.label.de}</span>
+                  <span className="hidden sm:inline">{p.label[displayLang] ?? p.label.de}</span>
                 </button>
               );
             })}
@@ -571,7 +576,7 @@ export const InteractiveMap = ({
                   fontWeight={selected?.id === b.id ? 700 : 500}
                   style={{ userSelect: "none", paintOrder: "stroke", stroke: "#020408", strokeWidth: 3 / view.scale, strokeOpacity: 0.7 }}
                 >
-                  {b.name[lang as Lang] ?? b.name.de}
+                  {b.name[displayLang] ?? b.name.de}
                 </text>
               ))}
             </g>
@@ -597,7 +602,7 @@ export const InteractiveMap = ({
                     ? (p.type === "state-capital" ? 10 : 7)
                     : (p.type === "state-capital" ? 14 : 11);
                 const fontSize = baseFont / view.scale;  // konstans pixel-méret minden zoom szinten
-                const label = p.name[lang as Lang] ?? p.name.de;
+                const label = p.name[displayLang] ?? p.name.de;
                 return (
                   <g
                     key={p.id}
@@ -703,7 +708,7 @@ export const InteractiveMap = ({
               )}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
-                  {selected.name[lang as Lang] ?? selected.name.de}
+                  {selected.name[displayLang] ?? selected.name.de}
                 </h3>
                 <p className="text-white/60 text-xs mt-0.5">
                   {t.capital}: <span className="text-white/85">{selected.capital}</span>
@@ -717,15 +722,15 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {selectedPoiFromState?.description?.[lang as Lang] && (
+            {selectedPoiFromState?.description?.[displayLang] && (
               <p className="text-white/75 text-sm leading-relaxed mb-2">
-                {selectedPoiFromState.description[lang as Lang]}
+                {selectedPoiFromState.description[displayLang]}
               </p>
             )}
 
-            {selectedPoiFromState?.facts?.[lang as Lang]?.length ? (
+            {selectedPoiFromState?.facts?.[displayLang]?.length ? (
               <div className="flex flex-wrap gap-1.5 mb-3">
-                {selectedPoiFromState.facts[lang as Lang].map((f, i) => (
+                {selectedPoiFromState.facts[displayLang].map((f, i) => (
                   <span
                     key={i}
                     className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
@@ -814,7 +819,7 @@ export const InteractiveMap = ({
               )}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
-                  {selectedPoi.name[lang as Lang] ?? selectedPoi.name.de}
+                  {selectedPoi.name[displayLang] ?? selectedPoi.name.de}
                 </h3>
                 {(selectedPoi.historyYear || selectedPoi.historyPeriod) && (
                   <p className="text-pink-300/80 text-[11px] mt-0.5 font-medium">
@@ -823,7 +828,7 @@ export const InteractiveMap = ({
                       : selectedPoi.historyYear ?? ""}
                     {selectedPoi.historyPeriod && (
                       <span className="text-pink-300/60 ml-1">
-                        · {PERIODS.find((p) => p.id === selectedPoi.historyPeriod)?.label[lang as Lang] ?? selectedPoi.historyPeriod}
+                        · {PERIODS.find((p) => p.id === selectedPoi.historyPeriod)?.label[displayLang] ?? selectedPoi.historyPeriod}
                       </span>
                     )}
                   </p>
@@ -860,15 +865,15 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {selectedPoi.description?.[lang as Lang] && (
+            {selectedPoi.description?.[displayLang] && (
               <p className="text-white/75 text-sm leading-relaxed mb-2">
-                {selectedPoi.description[lang as Lang]}
+                {selectedPoi.description[displayLang]}
               </p>
             )}
 
             {(() => {
-              const baseFacts = selectedPoi.facts?.[lang as Lang] ?? [];
-              const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[lang as Lang] ?? [];
+              const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
+              const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
               const useAdv = grade >= 5 && advFactsRaw.length > 0;
               const allFacts = useAdv ? [...baseFacts, ...advFactsRaw] : baseFacts;
               if (allFacts.length === 0) return null;
@@ -902,7 +907,7 @@ export const InteractiveMap = ({
         {detailFor && (
           <SubRegionView
             stateId={detailFor}
-            stateName={deutschlandMap.find((b) => b.id === detailFor)?.name[lang as Lang] ?? ""}
+            stateName={deutschlandMap.find((b) => b.id === detailFor)?.name[displayLang] ?? ""}
             lang={lang as Lang}
             pois={pois}
             subregions={countryData.subregions}
@@ -941,7 +946,9 @@ function SubRegionView({
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);
   const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200" });
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
-  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : "de") as SeoLang);
+  const { lang: userLang } = useLang();
+  const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
+  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : displayLang) as SeoLang);
   const moreLabel = MORE_LABEL[seoLang];
 
   const title = lang === "hu" ? "Részletek" : lang === "ro" ? "Detalii" : lang === "en" ? "Details" : "Details";
@@ -1050,7 +1057,7 @@ function SubRegionView({
                     .map((p) => {
                       const [cx, cy] = projectInState(detail.projection, p.coords[0], p.coords[1]);
                       const color = poiColor(p.type);
-                      const label = p.name[lang] ?? p.name.de;
+                      const label = p.name[displayLang] ?? p.name.de;
                       const baseFont = p.type === "state-capital" ? 14 : 11;
                       const fontSize = baseFont / pz.view.scale;  // konstans pixel-méret minden zoom szinten
                       const r = 5 / pz.view.scale;
@@ -1153,14 +1160,14 @@ function SubRegionView({
               )}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
-                  {selectedPoi.name[lang] ?? selectedPoi.name.de}
+                  {selectedPoi.name[displayLang] ?? selectedPoi.name.de}
                 </h3>
                 {selectedPoi.audio && (
                   <button
                     onClick={() => { const a = new Audio(selectedPoi.audio!); a.play().catch(() => {}); }}
                     className="mt-1 inline-flex items-center gap-1 text-xs text-cyan-300/90 hover:text-cyan-200"
                   >
-                    <Volume2 size={12} /> {lang === "hu" ? "kiejtés" : lang === "ro" ? "pronunție" : lang === "en" ? "pronounce" : "Aussprache"}
+                    <Volume2 size={12} /> {displayLang === "hu" ? "kiejtés" : displayLang === "ro" ? "pronunție" : displayLang === "en" ? "pronounce" : "Aussprache"}
                   </button>
                 )}
               </div>
@@ -1168,12 +1175,12 @@ function SubRegionView({
                 <X size={16} />
               </button>
             </div>
-            {selectedPoi.description?.[lang] && (
-              <p className="text-white/75 text-sm leading-relaxed mb-2">{selectedPoi.description[lang]}</p>
+            {selectedPoi.description?.[displayLang] && (
+              <p className="text-white/75 text-sm leading-relaxed mb-2">{selectedPoi.description[displayLang]}</p>
             )}
-            {selectedPoi.facts?.[lang]?.length ? (
+            {selectedPoi.facts?.[displayLang]?.length ? (
               <div className="flex flex-wrap gap-1.5">
-                {selectedPoi.facts[lang].map((f, i) => (
+                {selectedPoi.facts[displayLang].map((f, i) => (
                   <span key={i} className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15">{f}</span>
                 ))}
               </div>

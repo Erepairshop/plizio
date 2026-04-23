@@ -6,7 +6,7 @@ import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 
 const InteractiveMap = dynamic(
-  () => import("@/components/InteractiveMap").then((mod) => mod.InteractiveMap),
+  () => import("@/lib/visualLab/components/InteractiveMap").then((mod) => mod.InteractiveMap),
   { ssr: false }
 );
 

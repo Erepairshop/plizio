@@ -5,7 +5,7 @@ import { ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 
-const InteractiveMap = dynamic(() => import("@/components/InteractiveMap"), { ssr: false });
+const InteractiveMap = dynamic(() => import("@/lib/visualLab/components/InteractiveMap").then((mod) => mod.InteractiveMap), { ssr: false });
 
 const TITLE = {
   de: "Serbien Karte",
