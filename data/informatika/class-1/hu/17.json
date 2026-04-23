@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A jelszó titkos",
+  "theme": "Táblagép és okostelefon",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A jelszó titkos?",
+      "question": "Mi az a tablet (táblagép)?",
       "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A jelszó titkos?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Egy hordozható érintőképernyős gép",
+        "Egy nagy billentyűzet",
+        "Egy kis tévé",
+        "Egy tálca"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "question": "Mivel irányítjuk a tabletet?",
       "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Az ujjunkkal",
+        "Egérrel",
+        "Kalapáccsal",
+        "Lábbal"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "question": "Melyik kisebb?",
       "options": [
-        "A macska.",
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Okostelefon",
+        "Asztali gép",
+        "Laptop",
+        "Hűtő"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A jelszó titkos?",
+      "question": "Lehet-e a tableten játszani?",
       "options": [
-        "Igen!",
-        "Nem.",
-        "Fáradt.",
-        "Unalmas."
+        "Igen, sok játék van rajta",
+        "Nem, az csak munkára való",
+        "Csak felnőtteknek",
+        "Csak hétvégén"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "question": "Hogyan írunk a tableten?",
       "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A jelszó titkos?",
-      "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A jelszó titkos?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A jelszó titkos?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "A madár.",
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A jelszó titkos?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A jelszó titkos?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "Megjelenik egy billentyűzet a képernyőn",
+        "Ráírjuk tollal az üvegre",
+        "Odamondjuk",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "question": "Mi az az 'app' (alkalmazás)?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A jelszó titkos?",
-      "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen.",
-        "A kertben."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A jelszó titkos?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A jelszó titkos?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A jelszó titkos?",
-      "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fázom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A jelszó titkos?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A jelszó titkos?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A jelszó titkos?",
-      "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska.",
-        "A madár."
+        "Egy program a tableten vagy telefonon",
+        "Egy süti",
+        "Egy hang",
+        "Egy állat"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A jelszó titkos?",
+      "question": "Mire jó az okostelefon?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
+        "Telefonálásra, netezésre, fotózásra",
+        "Csak beszélgetni",
+        "Csak világítani",
+        "Csak nehezéknek"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan töltjük fel ezeket a gépeket?",
+      "options": [
+        "Töltő kábellel",
+        "Vízbe tesszük",
+        "Megetetjük",
+        "Kint hagyjuk a napon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e dobálni a tabletet?",
+      "options": [
+        "Soha, mert könnyen eltörik",
+        "Igen, ha puha a föld",
+        "Csak ha mérgesek vagyunk",
+        "Csak ha labdázunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gép fér el a zsebünkben?",
+      "options": [
+        "Okostelefon",
+        "Tablet",
+        "Laptop",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az érintőképernyő?",
+      "options": [
+        "Ami reagál az érintésünkre",
+        "Amihez nem szabad érni",
+        "Ami forró",
+        "Ami puha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e fényképezni a tablettel?",
+      "options": [
+        "Igen, van benne kamera",
+        "Nem, csak nézni lehet",
+        "Csak ha van gomb",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk, ha lemerül a telefon?",
+      "options": [
+        "Töltőre tesszük",
+        "Sírni kezdünk",
+        "Újat veszünk",
+        "Kidobjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Home' gomb?",
+      "options": [
+        "Visszavisz a kezdőképernyőre",
+        "Hazaküldi a gépet",
+        "Kikapcsolja a házat",
+        "Játékot indít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nagyítunk egy képet a tableten?",
+      "options": [
+        "Két ujjunkkal széthúzzuk",
+        "Ráfújunk",
+        "Nagyítót teszünk elé",
+        "Megkérjük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e vizes kézzel fogni?",
+      "options": [
+        "Nem, tönkremehet",
+        "Igen, tiszta lesz",
+        "Csak ha sietünk",
+        "Csak a fürdőkádban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a WiFi a tableten?",
+      "options": [
+        "Hogy legyen internet",
+        "Hogy zenéljen",
+        "Hogy világítson",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e mesét nézni rajta?",
+      "options": [
+        "Igen, például YouTube Kids-en",
+        "Nem, ahhoz tévé kell",
+        "Csak ha piros",
+        "Csak a kocsiban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért hívják 'okosnak' a telefont?",
+      "options": [
+        "Mert sok mindent tud (mint egy kis gép)",
+        "Mert tud beszélni",
+        "Mert iskolába jár",
+        "Mert szemüveges"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hová tegyük a tabletet, ha nem használjuk?",
+      "options": [
+        "Biztonságos, tiszta helyre",
+        "A földre",
+        "A vizespohár mellé",
+        "A radiátorra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e rajzolni a tableten?",
+      "options": [
+        "Igen, az ujjunkkal vagy tollal",
+        "Nem, csak nézni lehet",
+        "Csak ha van papír",
+        "Csak a falra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki használhat tabletet?",
+      "options": [
+        "Gyerekek és felnőttek is",
+        "Csak az űrhajósok",
+        "Csak a macskák",
+        "Senki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a SIM kártya?",
+      "options": [
+        "Ettől tudunk telefonálni",
+        "Egy játék neve",
+        "A gép lába",
+        "Egy süti"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e tableten könyvet olvasni?",
+      "options": [
+        "Igen, sok könyv elfér rajta",
+        "Nem, ahhoz papír kell",
+        "Csak ha van lámpa",
+        "Csak ha tudunk olvasni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a legfontosabb szabály?",
+      "options": [
+        "Vigyázzunk rá és ne használjuk túl sokat",
+        "Mindig legyen nálunk",
+        "Mindig legyen maximumon a hang",
+        "Soha ne kapcsoljuk ki"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: mobil",
+      "answer": "mobil"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: ujj",
+      "answer": "ujj"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: érint",
+      "answer": "érint"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: tölt",
+      "answer": "tölt"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: játék",
+      "answer": "játék"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: kicsi",
+      "answer": "kicsi"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     }
   ]
 }

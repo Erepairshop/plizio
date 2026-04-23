@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A számítógép tisztán tartása",
+  "theme": "Mentés és megnyitás",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "question": "Miért kell elmenteni a munkánkat?",
       "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A számítógép tisztán tartása?",
-      "options": [
-        "Unalmas.",
-        "Igen!",
-        "Nem.",
-        "Fáradt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
-      "options": [
-        "A kertben.",
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A számítógép tisztán tartása?",
-      "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
-      "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen.",
-        "A kertben."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
-      "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom.",
-        "Nem."
+        "Hogy később is megtaláljuk",
+        "Hogy töröljük",
+        "Hogy a gép elfelejtse",
+        "Hogy ne lássa senki"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
+      "question": "Hogy hívják a mentés gombot angolul?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A számítógép tisztán tartása?",
-      "options": [
-        "Nem.",
-        "Unalmas.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
-      "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen.",
-        "A kertben."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Fázom."
+        "Save",
+        "Open",
+        "Exit",
+        "New"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "question": "Mire hasonlít a mentés ikonja néha?",
       "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
-      "options": [
-        "Anya vagy apa.",
-        "A madár.",
-        "A macska.",
-        "A kutya."
+        "Egy kis lemezre (floppy)",
+        "Egy almára",
+        "Egy autóra",
+        "Egy házra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "question": "Mi történik, ha mentés nélkül kapcsoljuk ki a gépet?",
       "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Elvész a munkánk",
+        "Minden megmarad",
+        "A gép elmenti magától",
+        "Semmi"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "question": "Mit jelent a 'megnyitás'?",
       "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom."
+        "Egy korábban elmentett dalt vagy képet betöltünk",
+        "Kinyitjuk az ablakot",
+        "Bekapcsoljuk a lámpát",
+        "Kinyitjuk a szánk"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "question": "Hogyan adhatunk nevet a fájlnak?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya."
+        "Beírjuk a mentéskor",
+        "Ráírjuk a monitorra",
+        "Odamondjuk",
+        "Sehogy"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "question": "Milyen nevet érdemes adni?",
       "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Olyat, amiről tudjuk mi van benne",
+        "Bármit, pl. 'aaaa'",
+        "Csak számokat",
+        "Semmilyet"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "question": "Hol laknak az elmentett fájlok?",
       "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen."
+        "Mappákban",
+        "Az egérben",
+        "A billentyűzeten",
+        "A kábelben"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "question": "Mit jelent a 'Fájl' menü?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
+        "Itt találjuk a mentést és nyitást",
+        "Itt vannak a játékok",
+        "Itt kell énekelni",
+        "Itt van a kuka"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hányszor menthetünk el egy képet?",
+      "options": [
+        "Akárhányszor",
+        "Csak egyszer",
+        "Csak kettő",
+        "Semennyiszer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'fájlnév'?",
+      "options": [
+        "A képünk vagy írásunk neve",
+        "A gép neve",
+        "A te neved",
+        "A kutya neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e menteni tableten?",
+      "options": [
+        "Igen, a programok gyakran maguktól mentenek",
+        "Nem, ott nincs mentés",
+        "Csak ha van benne papír",
+        "Csak vasárnap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'mentés másként'?",
+      "options": [
+        "Új néven menthetjük el a munkát",
+        "Minden mentést töröl",
+        "Kikapcsolja a gépet",
+        "Másnak küldi el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan találunk meg egy fájlt?",
+      "options": [
+        "Megkeressük a mappájában",
+        "Kiabálunk neki",
+        "Várunk",
+        "Újat csinálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha felülírjuk a mentést?",
+      "options": [
+        "A régi törlődik, az új marad",
+        "Mindkettő megmarad",
+        "Mindkettő törlődik",
+        "A gép elromlik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlít a 'Megnyitás' ikonja?",
+      "options": [
+        "Egy nyitott mappára",
+        "Egy csukott ajtóra",
+        "Egy szemre",
+        "Egy kulcsra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mentés a felhőben (internetben)?",
+      "options": [
+        "Igen, így bárhol elérhetjük",
+        "Nem, a felhőben eső van",
+        "Csak ha repülünk",
+        "Csak a madaraknak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha nem sikerül a mentés?",
+      "options": [
+        "Kérjünk segítséget egy felnőttől",
+        "Sírjunk",
+        "Kapcsoljuk ki a gépet",
+        "Hajítsuk el az egeret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány fájl lehet egy mappában?",
+      "options": [
+        "Nagyon sok",
+        "Csak egy",
+        "Csak öt",
+        "Semennyi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Megnyithatjuk-e más képét?",
+      "options": [
+        "Igen, ha megengedi",
+        "Soha",
+        "Csak ha ellopjuk",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az USB kulcs (pendrive)?",
+      "options": [
+        "Hordozható mentésre",
+        "Ajtónyitásra",
+        "Zenehallgatásra fül nélkül",
+        "Világításra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'letöltések' mappa?",
+      "options": [
+        "Ahova az internetről mentett dolgok kerülnek",
+        "Ahova a játékok mennek",
+        "Ahova a szemét megy",
+        "Ahova a víz folyik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mentett képet tovább rajzolni?",
+      "options": [
+        "Igen, bármikor",
+        "Nem, ha elmentetted, kész",
+        "Csak ha tudod a jelszót",
+        "Csak ha van ecseted"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne töröljük más mentését?",
+      "options": [
+        "Mert az nem szép és fontos munka lehet",
+        "Mert a gép megharagszik",
+        "Mert felrobban",
+        "Mert tilos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a legfontosabb, mielőtt becsukunk egy programot?",
+      "options": [
+        "Mentsünk!",
+        "Várjunk!",
+        "Együnk!",
+        "Énekeljünk!"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: ment",
+      "answer": "ment"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: fájl",
+      "answer": "fájl"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: név",
+      "answer": "név"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: nyit",
+      "answer": "nyit"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: tart",
+      "answer": "tart"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: mappa",
+      "answer": "mappa"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: save",
+      "answer": "save"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: megvan",
+      "answer": "megvan"
     }
   ]
 }

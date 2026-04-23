@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Egy játék indítása",
+  "theme": "Rajzolás a számítógépen (Paint)",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "question": "Melyik programmal tudunk rajzolni?",
       "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy játék indítása?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy játék indítása?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egy játék indítása?",
-      "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy játék indítása?",
-      "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
-      "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya."
+        "Paint",
+        "Kalkulátor",
+        "Óra",
+        "Naptár"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "question": "Mivel rajzolunk a Paintben?",
       "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy játék indítása?",
-      "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy játék indítása?",
-      "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egy játék indítása?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "Egérrel",
+        "Valódi ceruzával",
+        "Késsel",
+        "Radírral"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egy játék indítása?",
+      "question": "Hogy hívják a rajzoló eszközt a programban?",
       "options": [
-        "A madár.",
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
-      "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy játék indítása?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
-      "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya."
+        "Ceruza",
+        "Kalapács",
+        "Villa",
+        "Kanál"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egy játék indítása?",
+      "question": "Mivel tudunk nagy területet egyszerre kiszínezni?",
       "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Öntőforma (vödör)",
+        "Ceruza",
+        "Radír",
+        "Nagyító"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "question": "Mit csinálunk, ha elrontottuk a rajzot?",
       "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
+        "Használjuk a Radírt",
+        "Kidobjuk a gépet",
+        "Sírva fakadunk",
+        "Új monitort veszünk"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "question": "Hol választunk színeket?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
+        "A palettán",
+        "A billentyűzeten",
+        "A padlón",
+        "A szekrényben"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "question": "Lehet-e kört rajzolni a Paintben?",
       "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya."
+        "Igen, van alakzat eszköz",
+        "Nem, csak vonalakat",
+        "Csak kézzel",
+        "Csak ha ügyesek vagyunk"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "question": "Mi az az ecset?",
       "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
+        "Vastagabb vonalú rajzoló",
+        "Egy tisztító eszköz",
+        "Egy gomb",
+        "Egy kábel"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "question": "Tudunk-e szöveget írni a rajzunkra?",
       "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán."
+        "Igen, az 'A' betűvel",
+        "Nem, csak rajzolni",
+        "Csak ha van tollunk",
+        "Csak ha a gép engedi"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Egy játék indítása?",
+      "question": "Hogyan menthetjük el a rajzunkat?",
       "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
+        "A Mentés gombbal",
+        "Kikapcsolással",
+        "Letakarással",
+        "Fényképezéssel"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "question": "Milyen alakzatokat választhatunk?",
       "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
+        "Kör, négyzet, csillag",
+        "Csak kör",
+        "Csak vonal",
+        "Semmilyet"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy játék indítása?",
+      "question": "Mire jó a nagyító?",
       "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Hogy jobban lássuk a részleteket",
+        "Hogy megégessük a papírt",
+        "Hogy messzebbre lássunk",
+        "Hogy sötétebb legyen"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e színes a rajzunk?",
+      "options": [
+        "Igen, bármilyen színű",
+        "Csak fekete-fehér",
+        "Csak kék",
+        "Csak piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'spray' eszköz?",
+      "options": [
+        "Szórófejes festék",
+        "Egy illatosító",
+        "Egy radír",
+        "Egy vonalzó"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tudunk egyenes vonalat húzni?",
+      "options": [
+        "A vonal eszközzel",
+        "Remegő kézzel",
+        "A monitor mellé tett vonalzóval",
+        "Nem lehet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'kitöltés'?",
+      "options": [
+        "Befesti az egész zárt alakzatot",
+        "Kitörli a rajzot",
+        "Megnyit egy új lapot",
+        "Kikapcsolja a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova rajzolunk a programban?",
+      "options": [
+        "A fehér lapra",
+        "A monitor szélére",
+        "A billentyűzetre",
+        "Az asztalra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vastagabb a vonal?",
+      "options": [
+        "Igen, beállítható",
+        "Nem, csak vékony",
+        "Csak ha erősen nyomjuk az egeret",
+        "Csak ha piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a Paint magyarul?",
+      "options": [
+        "Festés",
+        "Futás",
+        "Alvás",
+        "Evés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel tudunk kijelölni egy részt?",
+      "options": [
+        "A kijelölő eszközzel",
+        "Ujjal",
+        "Körzővel",
+        "Radírral"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz új tiszta lapunk?",
+      "options": [
+        "Fájl -> Új",
+        "Kikapcsoljuk a monitort",
+        "Letöröljük az asztalt",
+        "Várunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e házat rajzolni a gépbe?",
+      "options": [
+        "Igen, nagyon könnyen",
+        "Nem, csak a papírra",
+        "Csak ha építészek vagyunk",
+        "Csak ha van tégla"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'visszavonás'?",
+      "options": [
+        "Eltünteti az utolsó hibát",
+        "Újra rajzolja az egészet",
+        "Kikapcsolja a programot",
+        "Mindent töröl"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány színt használhatunk?",
+      "options": [
+        "Nagyon sokat",
+        "Csak egyet",
+        "Csak kettőt",
+        "Tízet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kinek mutathatjuk meg a rajzot?",
+      "options": [
+        "Bárkinek",
+        "Senkinek",
+        "Csak a gépnek",
+        "Csak a falnak"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: rajz",
+      "answer": "rajz"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: toll",
+      "answer": "toll"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: fest",
+      "answer": "fest"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: piros",
+      "answer": "piros"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: kék",
+      "answer": "kék"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: zöld",
+      "answer": "zöld"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: ház",
+      "answer": "ház"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

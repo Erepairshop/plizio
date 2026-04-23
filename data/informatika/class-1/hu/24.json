@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Kedvenc figura",
+  "theme": "Szabályok és etikett",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Kedvenc figura?",
+      "question": "Hogyan üljünk a számítógép előtt?",
       "options": [
-        "Unalmas.",
-        "Igen!",
-        "Nem.",
-        "Fáradt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kedvenc figura?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Fázom."
+        "Egyenes háttal, kényelmesen",
+        "Görnyedten",
+        "Fekve",
+        "Féllábon állva"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "question": "Milyen messze legyen a szemünk a monitortól?",
       "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya.",
-        "A madár."
+        "Körülbelül egy karnyújtásra",
+        "Nagyon közel",
+        "A szoba másik végében",
+        "Semennyire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "question": "Szabad-e enni a gép felett?",
       "options": [
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Kedvenc figura?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Nem, mert belehullhat a morzsa",
+        "Igen, közben jobb ízű",
+        "Csak ha nem látják",
+        "Csak ha éhesek vagyunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kedvenc figura?",
+      "question": "Szabad-e inni a gép mellett?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Vigyázni kell, nehogy ráömöljön",
+        "Igen, öntsük le vele a gépet",
+        "Csak ha szörp",
+        "Nem szabad inni soha"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "question": "Miért fontos a pihenő?",
       "options": [
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya."
+        "Hogy pihenjen a szemünk és mozogjunk",
+        "Hogy a gép lehűljön",
+        "Hogy többet együnk",
+        "Hogy elaludjunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "question": "Hogyan beszéljünk másokkal a neten?",
       "options": [
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó."
+        "Kedvesen és udvariasan",
+        "Csúnyán",
+        "Kiabálva",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Kedvenc figura?",
+      "question": "Szabad-e csapkodni a billentyűzetet?",
       "options": [
-        "A fán.",
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Kedvenc figura?",
-      "options": [
-        "Talán.",
-        "Nem.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Kedvenc figura?",
-      "options": [
-        "Igen!",
-        "Unalmas.",
-        "Nem.",
-        "Fáradt."
+        "Nem, mert elromlik",
+        "Igen, ha nem nyerünk",
+        "Csak ha sötét van",
+        "Csak a robotoknak"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "question": "Kérjünk-e engedélyt a gép használatához?",
       "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma."
+        "Igen, a szüleinktől vagy tanárunktól",
+        "Nem, a mienk",
+        "Csak ha nincs internet",
+        "Csak ha nagyok vagyunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "question": "Mit tegyünk, ha végeztünk a géppel?",
       "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya."
+        "Tegyünk rendet és kapcsoljuk ki szépen",
+        "Hagyjuk ott az egészet",
+        "Dobjuk le az egeret",
+        "Szaladjunk el"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "question": "Milyen a tiszta képernyő?",
       "options": [
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa.",
-        "A madár."
+        "Amin nincs ujjlenyomat és por",
+        "Amin sok a rajz",
+        "Ami sötét",
+        "Ami vizes"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kedvenc figura?",
+      "question": "Szabad-e idegeneknek elmondani hol lakunk?",
       "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban."
+        "Soha",
+        "Igen, bárkinek",
+        "Csak ha kérdezik",
+        "Csak ha van ajándék"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "question": "Hogyan érjünk a géphez?",
       "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom."
+        "Tiszta és száraz kézzel",
+        "Piszkos kézzel",
+        "Vizes kézzel",
+        "Lábbal"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "question": "Mit jelent a türelem a gépnél?",
       "options": [
-        "Nem.",
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
+        "Megvárjuk, amíg betölt és nem kattintgatunk",
+        "Sírni kezdünk",
+        "Megütjük a monitort",
+        "Új gépet veszünk"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Kedvenc figura?",
+      "question": "Lehet-e a gép a barátunk?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
+        "Egy segítő eszköz, de a valódi barátok fontosabbak",
+        "Igen, csak ő kell",
+        "Nem, a gép gonosz",
+        "Csak ha beszél"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "question": "Miért ne nézzük túl sokáig a monitort?",
       "options": [
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan."
+        "Mert megfájdulhat a fejünk vagy szemünk",
+        "Mert elfogy a villany",
+        "Mert elromlik a kép",
+        "Mert mérges lesz"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "question": "Mit csináljunk, ha valami nem működik?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
+        "Szóljunk egy felnőttnek",
+        "Rúgjunk bele a gépbe",
+        "Sírjunk",
+        "Várjunk holnapig"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "question": "Szabad-e más dolgai között kutatni?",
       "options": [
-        "A kutya.",
-        "A macska.",
-        "A madár.",
-        "Anya vagy apa."
+        "Nem, az magánügy",
+        "Igen, érdekes",
+        "Csak ha barátunk",
+        "Csak ha nem látják"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Kedvenc figura?",
+      "question": "Hogyan vigyázzunk a laptopra?",
       "options": [
-        "Nem.",
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!"
+        "Ne tegyünk rá nehéz dolgokat",
+        "Ugráljunk rajta",
+        "Tegyük a vízbe",
+        "Használjuk tálcaként"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "question": "Milyen hangos legyen a gép?",
       "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
+        "Csak annyira, hogy mi halljuk",
+        "Nagyon hangos, hogy mindenki hallja",
+        "Tök néma",
+        "Mindegy"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a szabályok betartása?",
+      "options": [
+        "Hogy sokáig jó maradjon a gép és mi is jól legyünk",
+        "Mert a tanár mondta",
+        "Mert büntetést kapunk",
+        "Semmiért"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha ijesztő dolgot látunk?",
+      "options": [
+        "Azonnal szóljunk egy felnőttnek",
+        "Nézzük tovább",
+        "Bújjunk el",
+        "Kapcsoljuk ki és ne mondjuk senkinek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Legyünk segítőkészek másokkal?",
+      "options": [
+        "Igen, ha valaki nem tud valamit, segíthetünk",
+        "Nem, hadd tanulja meg",
+        "Csak ha kapunk érte csokit",
+        "Csak ha kérnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne rángassuk a kábeleket?",
+      "options": [
+        "Mert elszakadhatnak vagy áramütést okozhatnak",
+        "Mert piszkosak",
+        "Mert nem szépek",
+        "Csak úgy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kapcsoljuk ki a gépet helyesen?",
+      "options": [
+        "Leállítás menüponttal",
+        "Kihúzzuk a konnektorból",
+        "Rácsapjuk a fedelet",
+        "Megvárjuk, amíg lemerül"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire emlékezzünk mindig?",
+      "options": [
+        "A számítógép egy hasznos eszköz, de okosan kell használni",
+        "A gép a legfontosabb dolog",
+        "Mindig gép előtt kell lenni",
+        "A gép mindent tud"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: vár",
+      "answer": "vár"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: kér",
+      "answer": "kér"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: rend",
+      "answer": "rend"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: szépen",
+      "answer": "szépen"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: ülj",
+      "answer": "ülj"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: segít",
+      "answer": "segít"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: szabály",
+      "answer": "szabály"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

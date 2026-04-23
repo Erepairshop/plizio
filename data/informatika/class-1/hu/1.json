@@ -5,318 +5,328 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Mi a számítógép??",
+      "question": "Mi a számítógép?",
       "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
+        "Egy gép",
+        "Egy állat",
+        "Egy növény",
+        "Egy étel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Mi a számítógép??",
+      "question": "Mire jó a számítógép?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "A fán.",
-        "Az ágyban."
+        "Alvásra",
+        "Tanulásra és játékra",
+        "Főzésre",
+        "Fürdésre"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi kell a számítógépnek, hogy működjön?",
+      "options": [
+        "Víz",
+        "Kenyér",
+        "Áram",
+        "Levegő"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik hordozható számítógép?",
+      "options": [
+        "Asztali gép",
+        "Laptop",
+        "Televízió",
+        "Rádió"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találkozhatunk számítógéppel?",
+      "options": [
+        "Iskolában",
+        "Az erdő mélyén",
+        "A felhőkön",
+        "A tenger fenekén"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "question": "Mit tudunk csinálni rajta?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Mi a számítógép??",
-      "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Mi a számítógép??",
-      "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
-      "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Mi a számítógép??",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Mi a számítógép??",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
-      "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom.",
-        "Nem."
+        "Rajzolni",
+        "Repülni",
+        "Ugrókötelezni",
+        "Úszni"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "question": "Melyik nem számítógép?",
       "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán."
+        "Tablet",
+        "Okostelefon",
+        "Kő",
+        "Laptop"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Miben segít a számítógép?",
+      "options": [
+        "Információt keresni",
+        "Hajat vágni",
+        "Cipőt kötni",
+        "Aludni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki használhatja a számítógépet?",
+      "options": [
+        "Csak felnőttek",
+        "Csak gyerekek",
+        "Bárki",
+        "Csak a macskák"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen részei vannak egy asztali gépnek?",
+      "options": [
+        "Monitor és egér",
+        "Kerék és kormány",
+        "Szárny és farok",
+        "Láb és kéz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol van a számítógép 'agya'?",
+      "options": [
+        "A monitorban",
+        "A gépházban",
+        "Az egérben",
+        "A kábelben"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "question": "Hogy hívják a képernyőt másképp?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
+        "Ablak",
+        "Tükör",
+        "Monitor",
+        "Szemüveg"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "question": "Melyik gép okosabb?",
       "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
+        "A számítógép",
+        "A kalapács",
+        "A kanál",
+        "A seprű"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel tudunk írni a gépbe?",
+      "options": [
+        "Ceruzával",
+        "Billentyűzettel",
+        "Ecsettel",
+        "Radírral"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "question": "Mit látsz a monitoron?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem.",
-        "Nem tudom."
+        "Képeket",
+        "Illatokat",
+        "Hangokat",
+        "Szelet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "question": "Melyik gép kicsi és kézbe fér?",
       "options": [
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Mi a számítógép??",
-      "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Mi a számítógép??",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "A kertben.",
-        "Az ágyban."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Asztali gép",
+        "Okostelefon",
+        "Mosógép",
+        "Hűtő"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "question": "Mire nem való a számítógép?",
       "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Mi a számítógép??",
-      "options": [
-        "Igen!",
-        "Unalmas.",
-        "Fáradt.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Mi a számítógép??",
-      "options": [
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Mi a számítógép??",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
+        "Játékra",
+        "Levelezésre",
+        "Kalapálásra",
+        "Filmnézésre"
       ],
       "correct": 2
     },
     {
-      "type": "typing",
-      "text": "Katt"
+      "type": "mcq",
+      "question": "Mit kell csinálni a gép előtt?",
+      "options": [
+        "Ülni",
+        "Feküdni",
+        "Futni",
+        "Táncolni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gép segít a házi feladatban?",
+      "options": [
+        "Számítógép",
+        "Porszívó",
+        "Mixer",
+        "Vasaló"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a gép, ha kikapcsoljuk?",
+      "options": [
+        "Elalszik",
+        "Eszik",
+        "Beszél",
+        "Sétál"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e játékok a gépen?",
+      "options": [
+        "Nincsenek",
+        "Igen, sokféle",
+        "Csak egy",
+        "Csak labdás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tudunk nézni a gépen?",
+      "options": [
+        "Mesét",
+        "Álmokat",
+        "A jövőt",
+        "A szelet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell bánni a géppel?",
+      "options": [
+        "Vigyázva",
+        "Durván",
+        "Vízzel leöntve",
+        "Dobálva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel irányítjuk a nyilacskát?",
+      "options": [
+        "Lábbal",
+        "Egérrel",
+        "Szemmel",
+        "Orral"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az informatikus?",
+      "options": [
+        "Aki gépekkel foglalkozik",
+        "Aki sütit süt",
+        "Aki fát vág",
+        "Aki autót vezet"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: adat",
+      "answer": "adat"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: jel",
+      "answer": "jel"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: új",
+      "answer": "új"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: ki",
+      "answer": "ki"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: be",
+      "answer": "be"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: szó",
+      "answer": "szó"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     }
   ]
 }

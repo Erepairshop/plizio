@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Videó nézése",
+  "theme": "Internet mese",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
+      "question": "Mi az az internet?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Videó nézése?",
-      "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Videó nézése?",
-      "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fázom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Videó nézése?",
-      "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Videó nézése?",
-      "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Gépek hálózata az egész világon",
+        "Egy nagy könyv",
+        "Egy tévéműsor",
+        "Egy doboz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "question": "Hogyan 'utazunk' az interneten?",
       "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Videó nézése?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Videó nézése?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Videó nézése?",
-      "options": [
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Videó nézése?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Videó nézése?",
-      "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Videó nézése?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Videó nézése?",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Videó nézése?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Fáradt.",
-        "Unalmas."
+        "Böngészővel",
+        "Autóval",
+        "Repülővel",
+        "Gyalog"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Videó nézése?",
+      "question": "Mit találunk az interneten?",
       "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya."
+        "Információt, mesét, játékot",
+        "Csak almát",
+        "Semmit",
+        "Csak port"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "question": "Olyan az internet, mint egy óriási...",
       "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Videó nézése?",
-      "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Videó nézése?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Videó nézése?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
+        "Könyvtár",
+        "Játszótér",
+        "Mindkettő",
+        "Egyik sem"
       ],
       "correct": 2
     },
     {
-      "type": "typing",
-      "text": "Nem"
+      "type": "mcq",
+      "question": "Kell-e internet a Youtube-hoz?",
+      "options": [
+        "Igen, mindenképp",
+        "Nem kell",
+        "Csak ha mesét nézünk",
+        "Csak ha hangos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a WiFi?",
+      "options": [
+        "Láthatatlan internet kapcsolat",
+        "Egy kutya neve",
+        "Egy süti",
+        "Egy gomb az egéren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e az interneten tanulni?",
+      "options": [
+        "Igen, nagyon sokat",
+        "Nem, ott csak butaságok vannak",
+        "Csak ha felnőtt vagy",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki készíti az internetet?",
+      "options": [
+        "Sok ember a világon",
+        "Egy darab robot",
+        "A szomszéd bácsi",
+        "Magától lesz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a honlapokat másképp?",
+      "options": [
+        "Weboldalak",
+        "Papírok",
+        "Képernyők",
+        "Levelek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a Google?",
+      "options": [
+        "Egy keresőprogram",
+        "Egy állatfaj",
+        "Egy édesség",
+        "Egy város"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e egyedül kalandozni az interneten?",
+      "options": [
+        "Jobb, ha egy felnőtt is ott van",
+        "Igen, bármit megnézhetünk",
+        "Csak ha sötét van",
+        "Csak ha gyorsak vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e mesék az interneten?",
+      "options": [
+        "Igen, rengeteg",
+        "Nincsenek",
+        "Csak egy",
+        "Csak ha fizetünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan néz ki egy internet cím?",
+      "options": [
+        "www-vel kezdődik",
+        "Olyan, mint egy telefonszám",
+        "Csak betűk",
+        "Csak számok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gép tud rácsatlakozni az internetre?",
+      "options": [
+        "Számítógép, telefon, tablet",
+        "Vasaló",
+        "Kalapács",
+        "Cipő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'letöltés'?",
+      "options": [
+        "Valamit lementünk az internetről a gépünkre",
+        "Levesszük a polcról a könyvet",
+        "Kiszórjuk a szemetet",
+        "Kiürítjük a poharat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó az email?",
+      "options": [
+        "Levélküldésre a gépen",
+        "Főzésre",
+        "Alvásra",
+        "Játékra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e az interneten beszélni valakivel?",
+      "options": [
+        "Igen, videón is",
+        "Nem, csak írni lehet",
+        "Csak ha kiabálunk",
+        "Csak ha látjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a webkamera?",
+      "options": [
+        "Egy kamera, amivel látnak minket a neten",
+        "Egy pók hálója",
+        "Egy rajzolt szem",
+        "Egy lámpa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Minden igaz, amit a neten olvasunk?",
+      "options": [
+        "Nem, érdemes megkérdezni a szüleinket",
+        "Igen, minden igaz",
+        "Csak amit a gép mond",
+        "Csak ami piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért hívják 'világhálónak'?",
+      "options": [
+        "Mert körbeveszi az egész Földet",
+        "Mert hálóból van",
+        "Mert a pókok csinálták",
+        "Mert nagy a gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk a böngészővel?",
+      "options": [
+        "Nézegetjük az oldalakat",
+        "Takarítjuk a gépet",
+        "Rajzolunk benne",
+        "Számolunk vele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy böngésző ikonja?",
+      "options": [
+        "Chrome vagy Firefox",
+        "Kuka",
+        "Mappa",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e az interneten zenét hallgatni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha táncolunk",
+        "Csak ha csend van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha valami furcsát látunk a neten?",
+      "options": [
+        "Szóljunk egy felnőttnek",
+        "Kapcsoljuk ki a monitort",
+        "Mindkettőt",
+        "Semmit"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják az internetet röviden?",
+      "options": [
+        "Net",
+        "Inter",
+        "Háló",
+        "Web"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: net",
+      "answer": "net"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: web",
+      "answer": "web"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: mese",
+      "answer": "mese"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: keres",
+      "answer": "keres"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: világ",
+      "answer": "világ"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: háló",
+      "answer": "háló"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: wifi",
+      "answer": "wifi"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: oldal",
+      "answer": "oldal"
+    },
+    {
+      "type": "typing",
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     }
   ]
 }

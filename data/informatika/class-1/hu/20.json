@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Egy barátságos kép",
+  "theme": "Rajzolás lépésről lépésre",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egy barátságos kép?",
+      "question": "Mivel kezdünk egy rajzot a gépen?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy barátságos kép?",
-      "options": [
-        "Unalmas.",
-        "Igen!",
-        "Fáradt.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy barátságos kép?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy barátságos kép?",
-      "options": [
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben.",
-        "A fán."
+        "Egy tiszta fehér lappal",
+        "Egy kész képpel",
+        "Kikapcsolással",
+        "Várakozással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egy barátságos kép?",
+      "question": "Mi az első lépés egy ház rajzolásakor?",
       "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egy barátságos kép?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy barátságos kép?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
-      "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egy barátságos kép?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
+        "A falak (négyzet) megrajzolása",
+        "A kifestés",
+        "A kémény",
+        "A függöny"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Egy barátságos kép?",
+      "question": "Mi jön a fal után?",
       "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egy barátságos kép?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egy barátságos kép?",
-      "options": [
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy barátságos kép?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egy barátságos kép?",
-      "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Egy barátságos kép?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya.",
-        "A madár."
+        "A tető (háromszög)",
+        "A kerítés",
+        "A kutya",
+        "A felhő"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
+      "question": "Hogyan lesz ajtaja a háznak?",
       "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Egy kis téglalapot rajzolunk",
+        "Odafújjuk",
+        "Kivágjuk",
+        "Megkérjük"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egy barátságos kép?",
+      "question": "Mivel színezzük ki a tetőt gyorsan?",
       "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska.",
-        "A madár."
+        "Öntőforma (vödör)",
+        "Ceruza",
+        "Radír",
+        "Nagyító"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
+      "question": "Hogyan rajzolunk napocskát?",
       "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Egy sárga körrel",
+        "Egy kék kockával",
+        "Vonalakkal",
+        "Pontokkal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik lesznek a napocska sugarai?",
+      "options": [
+        "Sárga vonalak",
+        "Kék pöttyök",
+        "Zöld háromszögek",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova rajzoljuk a napocskát?",
+      "options": [
+        "A lap tetejére",
+        "A ház alá",
+        "A ház belsejébe",
+        "A földre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan javítjuk ki, ha kifutott a szín?",
+      "options": [
+        "Visszavonás vagy Radír",
+        "Új gép",
+        "Sírva fakadunk",
+        "Letakarjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tehetünk a ház mellé?",
+      "options": [
+        "Fát vagy virágot",
+        "Autót",
+        "Mindkettőt",
+        "Semmit"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egy barátságos kép?",
+      "question": "Hogyan rajzolunk fát?",
       "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos."
+        "Barna törzs és zöld lomb",
+        "Kék kör",
+        "Piros négyzet",
+        "Sárga vonal"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
+      "question": "Milyen alakzat jó a fa lombjának?",
       "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Kör vagy felhő alak",
+        "Háromszög",
+        "Négyzet",
+        "Vonal"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egy barátságos kép?",
+      "question": "Tudunk-e füvet festeni?",
       "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
+        "Igen, zöld színnel alul",
+        "Nem, a gép nem tud ilyet",
+        "Csak ha van fűnyírónk",
+        "Csak ha nagyok vagyunk"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egy barátságos kép?",
+      "question": "Mire jó a 'vastagság' állítása?",
       "options": [
-        "Az ágyban.",
-        "A számítógépen.",
-        "A kertben.",
-        "A fán."
+        "Vékonyabb vagy vastagabb lesz a vonal",
+        "Színesebb lesz",
+        "Hangosabb lesz",
+        "Eltűnik"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Egy barátságos kép?",
+      "question": "Hogyan lesz felhő az égen?",
       "options": [
-        "Nem.",
-        "Unalmas.",
-        "Igen!",
-        "Fáradt."
+        "Sok kis fehér körből vagy ecsettel",
+        "Egy nagy fekete kockával",
+        "Radírral",
+        "Sehogy"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk, ha kész a rajz?",
+      "options": [
+        "Mentsük el!",
+        "Töröljük le!",
+        "Kapcsoljuk ki gyorsan!",
+        "Dobáljuk meg!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e arcot rajzolni a napocskának?",
+      "options": [
+        "Igen, szemet és szájat",
+        "Nem, az tilos",
+        "Csak ha beszél",
+        "Csak ha alszik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel tudunk apró részleteket rajzolni?",
+      "options": [
+        "Vékony ceruzával és nagyítóval",
+        "Vastag ecsettel",
+        "Vödörrel",
+        "Radírral"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó lépésről lépésre haladni?",
+      "options": [
+        "Mert így könnyebb és szebb lesz",
+        "Mert így lassabb",
+        "Mert a gép ezt kéri",
+        "Mert nincs más út"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e többféle ecsetet használni?",
+      "options": [
+        "Igen, van spray, filctoll, ecset",
+        "Nem, csak egyféle van",
+        "Csak ha megvesszük",
+        "Csak a tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan rajzolunk embert?",
+      "options": [
+        "Kör (fej) és vonalak (test)",
+        "Csak kockákkal",
+        "Csak pontokkal",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e másolni egy rajzot?",
+      "options": [
+        "Gyakorláshoz igen, nagyon hasznos",
+        "Nem, az lopás",
+        "Csak ha engedik",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'paletta'?",
+      "options": [
+        "Ahol a színeket választjuk",
+        "A rajzlap neve",
+        "A gép lába",
+        "Az egér padja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen érzés kész lenni egy rajzzal?",
+      "options": [
+        "Jó és büszke",
+        "Fáradt és szomorú",
+        "Mérges",
+        "Semmilyen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kinek mutathatod meg a művedet?",
+      "options": [
+        "Bárkinek, akit szeretsz",
+        "Senkinek",
+        "Csak a monitorral beszélj",
+        "Csak a robotnak"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: ház",
+      "answer": "ház"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: nap",
+      "answer": "nap"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: fa",
+      "answer": "fa"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: kert",
+      "answer": "kert"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: rajz",
+      "answer": "rajz"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: sárga",
+      "answer": "sárga"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: piros",
+      "answer": "piros"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: kék",
+      "answer": "kék"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: tető",
+      "answer": "tető"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

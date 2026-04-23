@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Ceruza vs. Számítógép",
+  "theme": "Mese írása (egyszerű szöveg)",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "question": "Hogyan kezdünk mesét írni?",
       "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Ceruza vs. Számítógép?",
-      "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem.",
-        "Nem tudom."
+        "Egy nagy kezdőbetűvel",
+        "Kikapcsolással",
+        "Rajzolással",
+        "Alvással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
+      "question": "Mivel írjuk a mesét?",
       "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Billentyűzettel",
+        "Egérrel",
+        "Ecsettel",
+        "Radírral"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Ceruza vs. Számítógép?",
+      "question": "Mi kell egy jó meséhez?",
       "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
-      "options": [
-        "A számítógépen.",
-        "Az ágyban.",
-        "A fán.",
-        "A kertben."
+        "Szereplők és történet",
+        "Csak sok betű",
+        "Sok hiba",
+        "Sötétség"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "question": "Melyik gombbal lesz nagybetű?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
+        "Shift",
+        "Space",
+        "Enter",
+        "Alt"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Ceruza vs. Számítógép?",
+      "question": "Hogyan lesz szóköz a szavak közt?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "A hosszú gombbal (Space)",
+        "Az Enterrel",
+        "A törléssel",
+        "Magától"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "question": "Mivel zárunk le egy mondatot?",
       "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
+        "Ponttal",
+        "Vesszővel",
+        "Betűvel",
+        "Számmal"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "question": "Mi az a cím?",
       "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "A kertben.",
-        "Az ágyban."
+        "A mese neve",
+        "A ház száma",
+        "A gép neve",
+        "A te neved"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
+      "question": "Hova írjuk a címet?",
       "options": [
-        "Nem.",
-        "Fáradt.",
-        "Igen!",
-        "Unalmas."
+        "A lap tetejére, középre",
+        "A lap aljára",
+        "Az egérre",
+        "A monitor szélére"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e képet tenni a meséhez?",
+      "options": [
+        "Igen, beilleszthetjük",
+        "Nem, csak betűk lehetnek",
+        "Csak ha ráragasztjuk",
+        "Csak ha nagyok vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel töröljük, ha elírtuk?",
+      "options": [
+        "Backspace",
+        "Enter",
+        "Shift",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kezdünk új bekezdést?",
+      "options": [
+        "Enter gombbal",
+        "Sok szóközzel",
+        "Kikapcsolással",
+        "Várakozással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mesében párbeszéd?",
+      "options": [
+        "Igen, gondolatjellel vagy idézőjellel",
+        "Nem, csak a mesélő beszél",
+        "Csak ha hangos a gép",
+        "Csak ha énekelnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a programot, amiben írunk?",
+      "options": [
+        "Szövegszerkesztő",
+        "Kalkulátor",
+        "Paint",
+        "Játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e színes betűk?",
+      "options": [
+        "Igen, átállíthatjuk a színt",
+        "Nem, csak fekete",
+        "Csak kék",
+        "Csak ha kifestjük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e nagyobb a betű?",
+      "options": [
+        "Igen, a betűméret állítható",
+        "Nem, minden betű pici",
+        "Csak ha nagyítóval nézzük",
+        "Csak ha kiabálunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a mentés?",
+      "options": [
+        "Hogy máskor is elolvashassuk",
+        "Hogy töröljük",
+        "Hogy titkos legyen",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki írhat mesét?",
+      "options": [
+        "Bárki, akinek van kedve",
+        "Csak az írók",
+        "Csak a tanárok",
+        "Csak a robotok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miről szólhat egy mese?",
+      "options": [
+        "Bármiről, amit kitalálsz",
+        "Csak kutyákról",
+        "Csak az iskoláról",
+        "Csak a gépről"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják, ha kinyomtatjuk a mesét?",
+      "options": [
+        "Papíralapú mese",
+        "Digitális mese",
+        "Süti",
+        "Játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mesének vége?",
+      "options": [
+        "Igen, 'Itt a vége, fuss el véle'",
+        "Nem, örökké tart",
+        "Csak ha elfogy a papír",
+        "Csak ha kikapcsol a gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz szép a mese?",
+      "options": [
+        "Ha érdekes és választékos",
+        "Ha sok hiba van benne",
+        "Ha minden betű más színű",
+        "Ha nem írunk semmit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kurzor íráskor?",
+      "options": [
+        "A villogó vonal, ami mutatja hova írunk",
+        "Egy gomb",
+        "Egy betű",
+        "Egy rajz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e más meséjét a sajátunkként mondani?",
+      "options": [
+        "Nem, az nem szép dolog",
+        "Igen, bárkiét",
+        "Csak ha nem veszik észre",
+        "Csak ha tetszik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire emlékeztet a gépelés?",
+      "options": [
+        "Írógépre",
+        "Zongorára",
+        "Mindkettőre",
+        "Egyikre sem"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "question": "Kinek olvasd fel a mesédet?",
       "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Ceruza vs. Számítógép?",
-      "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
-      "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
-      "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
-      "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen.",
-        "A kertben."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
+        "A családodnak",
+        "A barátaidnak",
+        "Mindkettőnek",
+        "Senkinek"
       ],
       "correct": 2
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: volt",
+      "answer": "volt"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: egyszer",
+      "answer": "egyszer"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: hol",
+      "answer": "hol"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: mese",
+      "answer": "mese"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: ír",
+      "answer": "ír"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: király",
+      "answer": "király"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: erdő",
+      "answer": "erdő"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: vége",
+      "answer": "vége"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: boldog",
+      "answer": "boldog"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

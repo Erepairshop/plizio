@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Szemvédelem",
+  "theme": "Színek és alakzatok",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
+      "question": "Hány színt tud a monitor megjeleníteni?",
       "options": [
-        "Unalmas.",
-        "Nem.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Szemvédelem?",
-      "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
-      "options": [
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
-      "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Szemvédelem?",
-      "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
+        "Nagyon sokat",
+        "Csak hármat",
+        "Csak feketét",
+        "Semennyit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
+      "question": "Melyik egy alakzat?",
       "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
-      "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
-      "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
-      "options": [
-        "Nem.",
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Szemvédelem?",
-      "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Szemvédelem?",
-      "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Szemvédelem?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "Kör",
+        "Kék",
+        "Nagy",
+        "Gyors"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
+      "question": "Mire hasonlít a monitor alakja?",
       "options": [
-        "Unalmas.",
-        "Igen!",
-        "Nem.",
-        "Fáradt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
+        "Téglalapra",
+        "Körre",
+        "Háromszögre",
+        "Csillagra"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
+      "question": "Milyen színű a legtöbb ikon?",
       "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
+        "Színes",
+        "Átlátszó",
+        "Láthatatlan",
+        "Szürke"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
+      "question": "Hogyan hívják a piros, kék és sárga színeket?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
+        "Alapszínek",
+        "Rossz színek",
+        "Gép színek",
+        "Sötét színek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alakzatnak van 4 sarka?",
+      "options": [
+        "Négyzet",
+        "Kör",
+        "Háromszög",
+        "Vonal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e színezni a számítógépen?",
+      "options": [
+        "Igen, programokkal",
+        "Nem, csak tollal",
+        "Csak ha van festékünk",
+        "Csak papíron"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan választunk színt a Paintben?",
+      "options": [
+        "Rákattintunk a színre",
+        "Mondjuk a nevét",
+        "Odarajzoljuk",
+        "Megfújjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alakzat hasonlít a napra?",
+      "options": [
+        "Kör",
+        "Négyzet",
+        "Kereszt",
+        "Pont"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e villogó színek a gépen?",
+      "options": [
+        "Igen, néha",
+        "Soha",
+        "Csak ha elromlik",
+        "Csak nappal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal radírozzuk ki a színt?",
+      "options": [
+        "Radír",
+        "Ceruza",
+        "Ecset",
+        "Vödör"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'színkitöltő' (vödör)?",
+      "options": [
+        "Egy egész részt kiszínez egyszerre",
+        "Kimosni a monitort",
+        "Vizet önteni a gépre",
+        "Törölni mindent"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány oldala van egy háromszögnek?",
+      "options": [
+        "Három",
+        "Négy",
+        "Kettő",
+        "Sok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színű a 'kuka' ikon?",
+      "options": [
+        "Általában kék vagy szürke",
+        "Mindig piros",
+        "Mindig lila",
+        "Mindig arany"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a háttérkép színes?",
+      "options": [
+        "Igen, bármilyen képet betehetünk",
+        "Nem, csak kék",
+        "Csak fehér",
+        "Csak fekete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha összekeverjük a színeket?",
+      "options": [
+        "Új színeket kapunk",
+        "Eltűnik a kép",
+        "Kikapcsol a gép",
+        "Megáll az idő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alakzat hasonlít egy háztetőre?",
+      "options": [
+        "Háromszög",
+        "Kör",
+        "Négyzet",
+        "Vonal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e szivárványt rajzolni a gépen?",
+      "options": [
+        "Igen, sok színnel",
+        "Nem, nincs benne annyi szín",
+        "Csak ha esik a szobában",
+        "Csak ha nagyok vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gépben látsz sok színt?",
+      "options": [
+        "Monitoron és tableten",
+        "A billentyűzeten (néha)",
+        "Mindkettőben",
+        "Egyikben sem"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szemvédelem?",
+      "question": "Milyen színű az egérkurzor (nyíl) általában?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Fázom."
+        "Fehér vagy fekete",
+        "Piros",
+        "Zöld",
+        "Sárga"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Szemvédelem?",
+      "question": "Mire jó a vonalzó a rajzprogramban?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan."
+        "Egyenes vonalat húzni",
+        "Megmérni a monitort",
+        "Megütni az egeret",
+        "Semmire"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szemvédelem?",
+      "question": "Hogyan lesz egy alakzatból ház?",
       "options": [
-        "Fáradt.",
-        "Igen!",
-        "Nem.",
-        "Unalmas."
+        "Négyzetből és háromszögből",
+        "Körből és pontból",
+        "Vonalból és ködről",
+        "Csak festékkel"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Szemvédelem?",
+      "question": "Lehet-e sötét és világos színt is választani?",
       "options": [
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A fán."
+        "Igen",
+        "Nem",
+        "Csak a tanárnak",
+        "Csak éjszaka"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alakzatnak nincsenek sarkai?",
+      "options": [
+        "Kör",
+        "Négyzet",
+        "Háromszög",
+        "Téglalap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki szereti a szép színeket a gépen?",
+      "options": [
+        "Mindenki",
+        "Csak a robotok",
+        "Csak a monitor",
+        "Senki"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: piros",
+      "answer": "piros"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: kék",
+      "answer": "kék"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: zöld",
+      "answer": "zöld"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: kör",
+      "answer": "kör"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: pont",
+      "answer": "pont"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: sárga",
+      "answer": "sárga"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: fehér",
+      "answer": "fehér"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: fekete",
+      "answer": "fekete"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: alak",
+      "answer": "alak"
     }
   ]
 }

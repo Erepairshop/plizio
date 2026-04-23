@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Zene hallgatása",
+  "theme": "Be- és kikapcsolás",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
+      "question": "Hogyan indítjuk el a számítógépet?",
       "options": [
-        "Fáradt.",
-        "Igen!",
-        "Unalmas.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Zene hallgatása?",
-      "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Unalmas.",
-        "Igen!",
-        "Fáradt.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Zene hallgatása?",
-      "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Unalmas.",
-        "Igen!",
-        "Fáradt.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Igen!",
-        "Unalmas.",
-        "Fáradt.",
-        "Nem."
+        "A bekapcsoló gombbal",
+        "Megütjük",
+        "Megsimogatjuk",
+        "Rákiabálunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Zene hallgatása?",
+      "question": "Mit látunk először bekapcsoláskor?",
       "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Zene hallgatása?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán.",
-        "Nem tudom."
+        "A gép logóját vagy betűket",
+        "A kész rajzunkat",
+        "Egy filmet",
+        "A vacsorát"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
+      "question": "Szabad-e a kábelt rángatni?",
       "options": [
-        "Fáradt.",
-        "Nem.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Fáradt.",
-        "Unalmas."
+        "Nem, mert veszélyes",
+        "Igen, ha nem indul",
+        "Csak ha anya engedi",
+        "Csak ha vizes a kezünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Zene hallgatása?",
+      "question": "Hogyan kell 'szépen' kikapcsolni?",
       "options": [
-        "A madár.",
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Zene hallgatása?",
-      "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Zene hallgatása?",
-      "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Zene hallgatása?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Zene hallgatása?",
-      "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Zene hallgatása?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "A menüből: Leállítás",
+        "Kihúzzuk a konnektorból",
+        "Lecsapjuk a tetejét",
+        "Várunk, amíg lemerül"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Zene hallgatása?",
+      "question": "Mit csinál a gép, ha leállítjuk?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "A fán.",
-        "Az ágyban."
+        "Mindent elment és kikapcsol",
+        "Azonnal elsötétül",
+        "Elkezd zenélni",
+        "Felforrósodik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "question": "Mi az az 'alvó állapot'?",
       "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
+        "A gép pihen, de gyorsan felébred",
+        "A gép horkol",
+        "A gép álmodik",
+        "A gép becsukja a szemét"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "question": "Mikor kell kikapcsolni a gépet?",
       "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Ha befejeztük a használatát",
+        "Soha",
+        "Csak ha elromlik",
+        "Csak ha villámlik"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Zene hallgatása?",
+      "question": "Hány gomb van a bekapcsoláshoz?",
       "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
+        "Általában egy nagy",
+        "Tíz kicsi",
+        "Semennyi",
+        "Mindenkinek más"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Zene hallgatása?",
+      "question": "Mire figyeljünk kikapcsolás előtt?",
       "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
+        "Mentsük el a munkánkat",
+        "Együnk egy sütit",
+        "Mossunk kezet",
+        "Nézzünk ki az ablakon"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
+      "question": "Mi történik, ha elmegy az áram?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Nem.",
-        "Igen!"
+        "A gép hirtelen kikapcsol",
+        "A gép tovább megy magától",
+        "A gép elkezd világítani",
+        "Semmi"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Zene hallgatása?",
+      "question": "Melyik gépben van akkumulátor (elem)?",
       "options": [
-        "Fáradt.",
-        "Nem.",
-        "Igen!",
-        "Unalmas."
+        "Laptop",
+        "Asztali gép",
+        "Hűtő",
+        "Tűzhely"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tudjuk, hogy be van kapcsolva?",
+      "options": [
+        "Világít egy lámpa vagy zúg kicsit",
+        "Beszél hozzánk",
+        "Ugrál az asztalon",
+        "Melegíti a szobát"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne kapcsolgassuk folyton?",
+      "options": [
+        "Mert nem tesz jót a gépnek",
+        "Mert elfárad a ujjunk",
+        "Mert elkopik a gomb",
+        "Mert mérges lesz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'újraindítás'?",
+      "options": [
+        "Kikapcsol, majd magától visszakapcsol",
+        "Új gépet veszünk",
+        "Elölről kezdjük a játékot",
+        "Megfordítjuk a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e vizes kézzel hozzányúlni a gombhoz?",
+      "options": [
+        "Soha, mert áramütést okozhat",
+        "Igen, ha tiszta a víz",
+        "Csak ha sietünk",
+        "Igen, jól bírja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha 'lefagy' a gép?",
+      "options": [
+        "Kérjünk segítséget egy felnőttől",
+        "Tegyük a hűtőbe",
+        "Takargassuk be",
+        "Kiabáljunk vele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol van a bekapcsoló gomb a laptopon?",
+      "options": [
+        "A billentyűzetnél vagy az oldalán",
+        "Az alján",
+        "A képernyő hátulján",
+        "Nincs rajta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mennyi idő, amíg bekapcsol a gép?",
+      "options": [
+        "Pár másodperc vagy perc",
+        "Egy egész nap",
+        "Egy pillanat",
+        "Nagyon sok óra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Start' menü?",
+      "options": [
+        "Innen indul a kikapcsolás is",
+        "Itt kezdődik a futás",
+        "Itt vannak a sütik",
+        "Itt kell énekelni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a gépet távirányítóval kapcsolni?",
+      "options": [
+        "Néha igen, de ritka",
+        "Mindig",
+        "Csak ha varázsolunk",
+        "Csak a tévét lehet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a gép, ha lemerül?",
+      "options": [
+        "Kikapcsol",
+        "Gyorsabb lesz",
+        "Pirosra vált",
+        "Énekelni kezd"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki kapcsolhatja be a gépet?",
+      "options": [
+        "Akinek megengedik",
+        "Bárki, aki eléri",
+        "Csak a kutya",
+        "Csak a robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a konnektor?",
+      "options": [
+        "Ahonnan az áramot kapja a gép",
+        "Egy játék neve",
+        "Egy gomb a monitoron",
+        "A gép lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Power' felirat?",
+      "options": [
+        "Erő vagy bekapcsolás",
+        "Játék",
+        "Vége",
+        "Segítség"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a monitor külön gombja?",
+      "options": [
+        "Csak a képernyőt kapcsolja ki",
+        "Az egész gépet leállítja",
+        "Megváltoztatja a színt",
+        "Hangosabb lesz tőle"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: gomb",
+      "answer": "gomb"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: indít",
+      "answer": "indít"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: leáll",
+      "answer": "leáll"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: vár",
+      "answer": "vár"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: fény",
+      "answer": " fény"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: áram",
+      "answer": "áram"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: kábel",
+      "answer": "kábel"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: ki",
+      "answer": "ki"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: be",
+      "answer": "be"
     }
   ]
 }

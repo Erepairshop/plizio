@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Egyszerű rajzolás",
+  "theme": "Digitális mesefilmek (YouTube Kids)",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "question": "Hol nézhetünk biztonságosan mesét?",
       "options": [
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
-      "options": [
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan."
+        "YouTube Kids",
+        "A konyhában",
+        "A sötétben",
+        "A papíron"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Egyszerű rajzolás?",
+      "question": "Miért jobb a YouTube Kids a gyerekeknek?",
       "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
-      "options": [
-        "Anya vagy apa.",
-        "A madár.",
-        "A kutya.",
-        "A macska."
+        "Mert csak gyerekeknek való videók vannak",
+        "Mert színesebb",
+        "Mert hangosabb",
+        "Mert nincs rajta kép"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "question": "Hogyan találunk meg egy mesét?",
       "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán.",
-        "Nem tudom."
+        "Beírjuk a nevét a keresőbe",
+        "Várunk, amíg magától elindul",
+        "Kiabálunk a tabletnek",
+        "Megfújjuk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Egyszerű rajzolás?",
+      "question": "Mit jelent a 'lejátszás'?",
       "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Egyszerű rajzolás?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
+        "Elindul a videó",
+        "Megáll a videó",
+        "Vége a videónak",
+        "Eltűnik a videó"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "question": "Melyik gombbal állítjuk meg a mesét?",
       "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
+        "Szünet (Pause)",
+        "Indítás (Play)",
+        "Kikapcsolás",
+        "Hangerő"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "question": "Szabad-e túl sok mesét nézni?",
       "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen."
+        "Nem, érdemes mást is játszani",
+        "Igen, reggeltől estig",
+        "Csak ha nincs suli",
+        "Csak ha esik"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "question": "Ki állíthatja be a YouTube Kids-et?",
       "options": [
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán.",
-        "A kertben."
+        "A szülők",
+        "A gyerekek",
+        "A kiscica",
+        "A postás"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "question": "Mit csináljunk, ha ijesztő videót látunk?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
+        "Szóljunk a szüleinknek",
+        "Nézzük tovább",
+        "Bújjunk el",
+        "Sírjunk"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "question": "Lehet-e mesét nézni tableten?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
+        "Igen, bárhol",
+        "Nem, csak tévén",
+        "Csak ha van benne elem",
+        "Csak ha kék"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "question": "Mit jelent a 'teljes képernyő'?",
       "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
+        "A mese betölti az egész monitort",
+        "A monitor kettétörik",
+        "Eltűnnek a színek",
+        "Nagyon kicsi lesz a kép"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "question": "Hogyan lesz hangosabb a mese?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
+        "A hangerő gombbal",
+        "Kiabálással",
+        "Közelebb hajolunk",
+        "Megütjük"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "question": "Mi az a 'csatorna' a YouTube-on?",
       "options": [
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban."
+        "Egy hely, ahol sok videó van egy témában",
+        "Ahol a víz folyik",
+        "Egy gomb a gépen",
+        "Egy kábel"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "question": "Lehet-e tanulni a mesékből?",
       "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
+        "Igen, sokat",
+        "Nem, csak butulni",
+        "Csak angolul",
+        "Csak ha kérik"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "question": "Mit jelent a 'következő videó'?",
       "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A macska."
+        "Ami ezután jön",
+        "Ami már volt",
+        "Ami elromlott",
+        "Ami piros"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "question": "Mire való a fejhallgató?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
+        "Hogy csak mi halljuk a mesét",
+        "Hogy melegen tartsa a fülünk",
+        "Hogy jobban lássunk",
+        "Hogy ne halljunk semmit"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "question": "Vannak-e reklámok a YouTube Kids-en?",
       "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan."
+        "Általában nincsenek vagy kevés van",
+        "Igen, nagyon sok",
+        "Csak a felnőtteknek",
+        "Csak éjszaka"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "question": "Mit jelent a 'lájk' (hüvelykujj fel)?",
       "options": [
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
+        "Tetszik a videó",
+        "Nem tetszik",
+        "Törölni akarom",
+        "Álmos vagyok"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "question": "Lehet-e saját listánk a kedvenc mesékből?",
       "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Talán."
+        "Igen, kedvencek közé tehetjük",
+        "Nem, csak egyet láthatunk",
+        "Csak ha a gép engedi",
+        "Csak vasárnap"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "question": "Ki készíti a mesefilmeket?",
       "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
+        "Sok ügyes ember",
+        "A robotok",
+        "A gyerekek",
+        "Magától lesznek"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "question": "Milyen hosszú egy rövid mese?",
       "options": [
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya."
+        "Pár perc",
+        "Egy egész nap",
+        "Egy óra",
+        "Fél perc"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tudunk keresni gépelés nélkül?",
+      "options": [
+        "Hanggal (mikrofonnal)",
+        "Gondolattal",
+        "Füttyel",
+        "Sehogy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne nézzünk sötétben mesét?",
+      "options": [
+        "Mert fárasztja a szemet",
+        "Mert kijön a szörny",
+        "Mert elromlik a gép",
+        "Mert nem látjuk a gombot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mesében énekelni?",
+      "options": [
+        "Igen, sok a zenés mese",
+        "Nem, tilos",
+        "Csak ha mi is énekelünk",
+        "Csak ha néma"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha vége a mesének?",
+      "options": [
+        "Kapcsoljuk ki és mozogjunk kicsit",
+        "Indítsuk el százszor",
+        "Sírjunk",
+        "Aludjunk a gép előtt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlít a YouTube logója?",
+      "options": [
+        "Piros téglalap fehér nyilacskával",
+        "Zöld kör",
+        "Kék háromszög",
+        "Sárga csillag"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: mese",
+      "answer": "mese"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: hang",
+      "answer": "hang"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: stop",
+      "answer": "stop"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: indít",
+      "answer": "indít"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: szép",
+      "answer": "szép"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: gyerek",
+      "answer": "gyerek"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

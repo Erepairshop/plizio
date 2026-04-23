@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Kreatív játék",
+  "theme": "Összefoglalás K1",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kreatív játék?",
+      "question": "Mivel mozgatjuk a nyilacskát?",
       "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
+        "Egérrel",
+        "Billentyűzettel",
+        "Hangszóróval",
+        "Monitorral"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "question": "Mi az a monitor?",
       "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kreatív játék?",
-      "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kreatív játék?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Képernyő",
+        "Gépház",
+        "Kuka",
+        "Egér"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "question": "Mivel tudunk írni a gépbe?",
       "options": [
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Kreatív játék?",
-      "options": [
-        "Nem.",
-        "Unalmas.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Kreatív játék?",
-      "options": [
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Kreatív játék?",
-      "options": [
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Kreatív játék?",
-      "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Kreatív játék?",
-      "options": [
-        "Fáradt.",
-        "Nem.",
-        "Igen!",
-        "Unalmas."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kreatív játék?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan."
+        "Billentyűzettel",
+        "Egérrel",
+        "Ecsettel",
+        "Radírral"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kreatív játék?",
+      "question": "Mit jelent a Paint?",
       "options": [
-        "A macska.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Kreatív játék?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Festő program",
+        "Játék",
+        "Internet",
+        "Kikapcsolás"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kreatív játék?",
+      "question": "Mi az az ikon?",
       "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
-      "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Kreatív játék?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
+        "Kis kép a képernyőn",
+        "Gomb a billentyűzeten",
+        "Kábel",
+        "Hang"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kreatív játék?",
+      "question": "Hogyan hívják a sárga tárolót?",
       "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár.",
-        "A macska."
+        "Mappa",
+        "Kuka",
+        "Szekrény",
+        "Doboz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "question": "Mi az internet?",
       "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
+        "Világháló",
+        "Egy gép",
+        "Egy könyv",
+        "Egy süti"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Kreatív játék?",
+      "question": "Szabad-e elmondani a jelszavadat?",
       "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár."
+        "Nem, titkos",
+        "Igen, bárkinek",
+        "Csak ha kérik",
+        "Csak a barátnak"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Kreatív játék?",
+      "question": "Mi a robot?",
       "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
+        "Programozható gép",
+        "Fém állat",
+        "Távirányító",
+        "Játék baba"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "question": "Mi az a Scratch Jr.?",
       "options": [
-        "A kertben.",
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban."
+        "Programozás gyerekeknek",
+        "Egy csoki",
+        "Egy cica neve",
+        "Egy tablet"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Kreatív játék?",
+      "question": "Mivel törlünk egy betűt?",
       "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya."
+        "Backspace",
+        "Enter",
+        "Space",
+        "Shift"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Kreatív játék?",
+      "question": "Mi a laptop?",
       "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán."
+        "Hordozható számítógép",
+        "Egy asztal",
+        "Egy tévé",
+        "Egy táska"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell leállítani a gépet?",
+      "options": [
+        "Szépen a menüből",
+        "Kihúzással",
+        "Lecsapással",
+        "Várakozással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a hangszóró?",
+      "options": [
+        "Zenét vagy beszédet ad ki",
+        "Képet mutat",
+        "Számol",
+        "Rajzol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért kell menteni?",
+      "options": [
+        "Hogy megmaradjon a munkánk",
+        "Hogy töröljük",
+        "Hogy ne lássák",
+        "Hogy világítson"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'app'?",
+      "options": [
+        "Alkalmazás (program)",
+        "Egy hang",
+        "Egy süti",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e vizes kézzel gépelni?",
+      "options": [
+        "Soha",
+        "Igen",
+        "Csak ha sietünk",
+        "Csak ha tiszta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a nagyító a rajzban?",
+      "options": [
+        "Hogy lássuk a részleteket",
+        "Hogy elégessük a lapot",
+        "Hogy messzebb lássunk",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a szelfi?",
+      "options": [
+        "Magunkról készült fotó",
+        "Egy állat",
+        "Egy játék",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a cica programozót?",
+      "options": [
+        "Scratch",
+        "Paint",
+        "Google",
+        "YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az Enter gomb?",
+      "options": [
+        "Új sor vagy jóváhagyás",
+        "Törlés",
+        "Szóköz",
+        "Kikapcsolás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a gépen tanulni?",
+      "options": [
+        "Igen, sokat",
+        "Nem, tilos",
+        "Csak éjszaka",
+        "Csak ha fúj a szél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'WiFi'?",
+      "options": [
+        "Vezeték nélküli internet",
+        "Egy kutya",
+        "Egy süti",
+        "Egy dal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kinek szólunk, ha baj van?",
+      "options": [
+        "Felnőttnek",
+        "Senkinek",
+        "A gépnek",
+        "A kutyának"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ugye ügyes voltál az első évben?",
+      "options": [
+        "Igen, nagyon!",
+        "Nem",
+        "Talán",
+        "Nem tudom"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: szép",
+      "answer": "szép"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: ügyes",
+      "answer": "ügyes"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: tanul",
+      "answer": "tanul"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: játszik",
+      "answer": "játszik"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: vége",
+      "answer": "vége"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: sikeres",
+      "answer": "sikeres"
     }
   ]
 }

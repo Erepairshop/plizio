@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Hangerő",
+  "theme": "Betűk begépelése",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Hangerő?",
+      "question": "Hogyan írunk betűket a gépbe?",
       "options": [
-        "A számítógépen.",
-        "A fán.",
-        "A kertben.",
-        "Az ágyban."
+        "A billentyűzettel",
+        "Az egérrel",
+        "A monitorral",
+        "A hangszóróval"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
+      "question": "Hány betűt nyomjunk le egyszerre?",
       "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Hangerő?",
-      "options": [
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan."
+        "Csak egyet (általában)",
+        "Minden ujjunkkal egyet",
+        "Semennyit",
+        "Az összeset"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Hangerő?",
+      "question": "Hol jelenik meg, amit begépeltünk?",
       "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen.",
-        "A kertben."
+        "A képernyőn",
+        "A papíron",
+        "A gépházon",
+        "Az asztalon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal csinálunk közt a szavak közé?",
+      "options": [
+        "Szóköz (Space)",
+        "Enter",
+        "Shift",
+        "Alt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írunk nagybetűt?",
+      "options": [
+        "Shift + betű",
+        "Backspace",
+        "Enter",
+        "Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal törlünk elrontott betűt?",
+      "options": [
+        "Backspace",
+        "Enter",
+        "Space",
+        "Shift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol laknak a betűk a billentyűzeten?",
+      "options": [
+        "Középen és fent",
+        "Csak alul",
+        "Az egérben",
+        "A kábelben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az Enter gomb?",
+      "options": [
+        "Új sort kezd",
+        "Töröl mindent",
+        "Kikapcsolja a gépet",
+        "Betűt ír"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány ujjunkkal érdemes gépelni?",
+      "options": [
+        "Minél többel, ügyesen",
+        "Csak eggyel",
+        "Csak a hüvelykujjunkkal",
+        "Lábujjakkal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit nézzünk gépelés közben?",
+      "options": [
+        "A képernyőt",
+        "A plafont",
+        "A szomszédot",
+        "A lábunkat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kurzor?",
+      "options": [
+        "A villogó jel, ami mutatja, hova írunk",
+        "Egy gomb",
+        "Egy betű",
+        "A monitor kerete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e számokat is írni?",
+      "options": [
+        "Igen, vannak számgombok",
+        "Nem, csak betűket",
+        "Csak ha kiszámoljuk",
+        "Csak a tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb van a szóköz mellett?",
+      "options": [
+        "Alt",
+        "Esc",
+        "F1",
+        "P"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz a betűből szó?",
+      "options": [
+        "Ha egymás mellé írjuk őket",
+        "Ha összeadjuk őket",
+        "Ha lerajzoljuk őket",
+        "Maguktól"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e ékezetes betűt írni (pl. Á, É)?",
+      "options": [
+        "Igen, külön gombok vannak nekik",
+        "Nem, csak angolul",
+        "Csak ha odarajzoljuk",
+        "Csak ha suttogunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kezünk gépel többet?",
+      "options": [
+        "Mindkettő egyformán dolgozik",
+        "Csak a bal",
+        "Csak a jobb",
+        "Egyik sem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hová tegyük a kezünket gépeléskor?",
+      "options": [
+        "A billentyűzet elé puhán",
+        "A zsebünkbe",
+        "A fejünkre",
+        "Az ölünkbe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz egy mondat végén pont?",
+      "options": [
+        "Megnyomjuk a pont gombot",
+        "Odarajzoljuk az ujjunkkal",
+        "Kiabáljuk: PONT!",
+        "Nem kell pont"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha hosszan nyomunk egy betűt?",
+      "options": [
+        "Sokszor fog leíródni",
+        "Elromlik a gép",
+        "Nagybetű lesz",
+        "Kék lesz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e gyorsan gépelni?",
+      "options": [
+        "Igen, ha sokat gyakorolunk",
+        "Nem, a gép lassú",
+        "Csak a robotoknak",
+        "Tilos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gomb a legkisebb?",
+      "options": [
+        "Általában a betűk",
+        "A szóköz",
+        "Az Enter",
+        "A monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha eltévedtünk a betűk közt?",
+      "options": [
+        "Keressük meg a kezdőpozíciót",
+        "Vegyünk új billentyűzetet",
+        "Kapcsoljuk ki a villanyt",
+        "Sírjunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e betűk a laptopon is?",
+      "options": [
+        "Igen, ugyanúgy",
+        "Nem, ott csak egér van",
+        "Csak ha rátesszük",
+        "Csak a képernyőn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Caps Lock?",
+      "options": [
+        "Mindent nagybetűvel ír",
+        "Mindent letöröl",
+        "Mindent elrejt",
+        "Mindent kiszínez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire emlékeztet a billentyűzet?",
+      "options": [
+        "Írógépre",
+        "Zongorára",
+        "Mindkettőre",
+        "Egyikre sem"
       ],
       "correct": 2
     },
     {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Hangerő?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Hangerő?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "A macska.",
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Hangerő?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Hangerő?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Hangerő?",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Hangerő?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Hangerő?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Hangerő?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Unalmas.",
-        "Fáradt."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Hangerő?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Hangerő?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Hangerő?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
-      ],
-      "correct": 0
+      "type": "typing",
+      "question": "Gépeld be: alma",
+      "answer": "alma"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: anya",
+      "answer": "anya"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: apa",
+      "answer": "apa"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: cica",
+      "answer": "cica"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: kutya",
+      "answer": "kutya"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: ház",
+      "answer": "ház"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: autó",
+      "answer": "autó"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: iskola",
+      "answer": "iskola"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: írok",
+      "answer": "írok"
     },
     {
       "type": "typing",
-      "text": "Egér"
-    },
-    {
-      "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: tanulok",
+      "answer": "tanulok"
     }
   ]
 }

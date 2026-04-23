@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Max 30 perc képernyőidő",
+  "theme": "Scratch Jr.",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
+      "question": "Mi az a Scratch Jr.?",
       "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
-      "options": [
-        "Nem.",
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
-      "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma."
+        "Egy programozós játék gyerekeknek",
+        "Egy csoki",
+        "Egy kutya",
+        "Egy autó"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "question": "Ki a főszereplő a Scratch Jr.-ban?",
       "options": [
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Egy kiscica",
+        "Egy kutya",
+        "Egy sárkány",
+        "Egy robot"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "question": "Mivel mozgatjuk a cicát?",
       "options": [
-        "Nem.",
-        "Igen!",
-        "Unalmas.",
-        "Fáradt."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom.",
-        "Nem."
+        "Blokkokkal",
+        "Az ujjunkkal böködjük",
+        "Fújjuk a képernyőt",
+        "Mondjuk neki"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "question": "Mit jelent a sárga blokk?",
       "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Ezzel indul a program",
+        "Ezzel áll meg",
+        "Ezzel ugrik",
+        "Ezzel énekel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Max 30 perc képernyőidő?",
+      "question": "Hogyan lesz a cicából kettő?",
       "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
-      "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
-      "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
-      "options": [
-        "Igen!",
-        "Unalmas.",
-        "Fáradt.",
-        "Nem."
+        "Új karaktert adunk hozzá",
+        "Kettévágjuk a tabletet",
+        "Várunk, amíg megnő",
+        "Nem lehet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Max 30 perc képernyőidő?",
+      "question": "Lehet-e hátteret választani?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Igen, sok szép helyszín van",
+        "Nem, csak fehér",
+        "Csak kék",
+        "Csak fekete"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "question": "Hogyan tud a cica beszélni?",
       "options": [
-        "A kutya.",
-        "A macska.",
-        "A madár.",
-        "Anya vagy apa."
+        "Egy szövegbuborék blokkal",
+        "Mondjuk helyette",
+        "A gép magától beszél",
+        "Sosem beszél"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "question": "Lehet-e saját hangot felvenni?",
       "options": [
-        "Fáradt.",
-        "Nem.",
-        "Unalmas.",
-        "Igen!"
+        "Igen, a mikrofonnal",
+        "Nem, csak a gép hangja van",
+        "Csak ha énekelünk",
+        "Csak ha nagyok vagyunk"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a piros blokk?",
+      "options": [
+        "Vége a programnak",
+        "Indul a program",
+        "Ugrás",
+        "Törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a cica ugrani?",
+      "options": [
+        "Igen, van ugró blokk",
+        "Nem, csak járni tud",
+        "Csak ha megijed",
+        "Csak ha kérik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törlünk egy blokkot?",
+      "options": [
+        "Visszahúzzuk a helyére",
+        "Kikapcsoljuk a gépet",
+        "Rácsapkodunk",
+        "Megesszük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e nagyítani a karaktert?",
+      "options": [
+        "Igen, van 'növő' blokk",
+        "Nem, mindig ugyanakkora",
+        "Csak ha megetetjük",
+        "Csak ha nagyot mondunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány karakter lehet a képernyőn?",
+      "options": [
+        "Több is egyszerre",
+        "Csak egy",
+        "Pontosan kettő",
+        "Semennyi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kék blokk?",
+      "options": [
+        "Mozgás (lépés, fordulás)",
+        "Hang",
+        "Indítás",
+        "Beszéd"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan csinálunk saját karaktert?",
+      "options": [
+        "Lefesthetjük vagy fotózhatunk",
+        "Nem lehet",
+        "Csak ha megvesszük",
+        "Csak a tanár tudja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a Scratch Jr.?",
+      "options": [
+        "Megtanulunk vele programozni",
+        "Hogy nézzük a cicát",
+        "Hogy aludjunk",
+        "Hogy rajzoljunk a falra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e táncolni a cicával?",
+      "options": [
+        "Igen, ha sok mozgást adunk neki",
+        "Nem, a cica nem táncol",
+        "Csak ha szól a rádió",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol látszanak a blokkok?",
+      "options": [
+        "A képernyő alján",
+        "A képernyő tetején",
+        "Az egérben",
+        "A zsebünkben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan indítjuk el a történetet?",
+      "options": [
+        "A zöld zászlóra kattintva",
+        "Megnyomjuk a tablet szélét",
+        "Várunk",
+        "Kiabálunk: START"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a lila blokk?",
+      "options": [
+        "Kinézet (beszéd, méret)",
+        "Mozgás",
+        "Hang",
+        "Indítás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egyszerre több történetünk?",
+      "options": [
+        "Igen, több projektet is menthetünk",
+        "Nem, csak egyet",
+        "Csak ha van két tablet",
+        "Csak ha nagyok vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a cica eltűnni?",
+      "options": [
+        "Igen, van rejtőzködő blokk",
+        "Nem, mindig ott van",
+        "Csak ha lemerül a gép",
+        "Csak ha sötét van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlítanak a blokkok?",
+      "options": [
+        "Puzzle darabokra",
+        "Kenyérszeletekre",
+        "Kavicsokra",
+        "Levelekre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kinek készült a Scratch Jr.?",
+      "options": [
+        "Kisgyerekeknek",
+        "Csak apukáknak",
+        "Csak robotoknak",
+        "Csak macskáknak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk a kész mesével?",
+      "options": [
+        "Megmutatjuk anyának és apának",
+        "Kitöröljük",
+        "Eladjuk",
+        "Elrejtjük"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: cica",
+      "answer": "cica"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: ugrás",
+      "answer": "ugrás"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: zöld",
+      "answer": "zöld"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: sárga",
+      "answer": "sárga"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: kék",
+      "answer": "kék"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: lila",
+      "answer": "lila"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: mese",
+      "answer": "mese"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: ügyes",
+      "answer": "ügyes"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: cica",
+      "answer": "cica"
     }
   ]
 }

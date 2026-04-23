@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Bekapcsolás / Kikapcsolás",
+  "theme": "Mappák",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "question": "Mi a mappa?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
+        "Amiben a fájlokat tartjuk",
+        "Egy gép",
+        "Egy egér",
+        "Egy billentyű"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "question": "Mire hasonlít egy mappa ikonja?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Egy sárga dossziéra",
+        "Egy kék almára",
+        "Egy piros autóra",
+        "Egy zöld labdára"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "question": "Mire jó a mappa?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom.",
-        "Talán."
+        "Rendet tartani a gépen",
+        "Játszani benne",
+        "Aludni rajta",
+        "Eszközöket tárolni"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "question": "Lehet-e egy mappában több dolog?",
       "options": [
-        "A kutya.",
-        "A macska.",
-        "A madár.",
-        "Anya vagy apa."
+        "Igen, sok minden",
+        "Nem, csak egy",
+        "Csak kettő",
+        "Semennyi"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "question": "Hogyan nevezhetünk el egy mappát?",
       "options": [
-        "Nem.",
-        "Unalmas.",
-        "Igen!",
-        "Fáradt."
+        "Bármilyen nevet adhatunk neki",
+        "Csak száma lehet",
+        "Nem lehet neve",
+        "Csak 'Mappa' lehet"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "question": "Lehet-e egy mappában másik mappa?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Nem.",
-        "Igen!"
+        "Igen",
+        "Nem",
+        "Csak ha üres",
+        "Csak ha tele van"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Bekapcsolás / Kikapcsolás?",
+      "question": "Hogyan nyitunk meg egy mappát?",
       "options": [
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya."
+        "Kétszer rákattintunk",
+        "Megsimogatjuk",
+        "Ráfújunk",
+        "Kiabálunk neki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tehetünk a mappába?",
+      "options": [
+        "Képeket, zenéket, rajzokat",
+        "Kenyeret, tejet",
+        "Macskát, kutyát",
+        "Vizet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan törölhetünk egy mappát?",
+      "options": [
+        "Belehúzzuk a kukába",
+        "Kikapcsoljuk a gépet",
+        "Letakarjuk",
+        "Megesszük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol hozhatunk létre új mappát?",
+      "options": [
+        "Bárhol a gépen",
+        "Csak az egéren",
+        "Csak a monitoron",
+        "Csak a billentyűzeten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha törlünk egy mappát?",
+      "options": [
+        "Minden benne lévő dolog is törlődik",
+        "Semmi nem történik",
+        "Csak a mappa tűnik el",
+        "A gép elromlik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e üres mappák?",
+      "options": [
+        "Igen, amíg nem teszünk bele semmit",
+        "Nem, mindig van bennük valami",
+        "Csak a tanárnak",
+        "Csak a gépnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'rendszerezés'?",
+      "options": [
+        "Mindent a megfelelő mappába tenni",
+        "Mindent összekeverni",
+        "Mindent törölni",
+        "Mindent kifesteni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színű általában egy mappa?",
+      "options": [
+        "Sárga",
+        "Lila",
+        "Fekete",
+        "Átlátszó"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan látjuk, mi van a mappában?",
+      "options": [
+        "Megnyitjuk",
+        "Ránézünk a külsejére",
+        "Megkérdezzük a gépet",
+        "Meghallgatjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a mappának saját ikonja?",
+      "options": [
+        "Igen, megváltoztatható",
+        "Nem, csak sárga lehet",
+        "Csak ha megvesszük",
+        "Csak ha karácsony van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'dokumentumok' mappa?",
+      "options": [
+        "Ahova az írásainkat mentjük",
+        "Ahova a játékokat tesszük",
+        "Ahova a szemetet dobjuk",
+        "Ahova a vizet öntjük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan másolunk be valamit egy mappába?",
+      "options": [
+        "Belehúzzuk az egérrel",
+        "Odagondoljuk",
+        "Ráírjuk a monitorra",
+        "Nem lehet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlít a mappa, ha tele van?",
+      "options": [
+        "Egy vastag könyvre",
+        "Ugyanolyan marad",
+        "Egy lufira",
+        "Egy almára"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "question": "Miért jó nevet adni a mappának?",
       "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A macska.",
-        "A madár."
+        "Hogy tudjuk, mi van benne",
+        "Hogy szebb legyen",
+        "Hogy ne legyen magányos",
+        "Hogy beszéljen hozzánk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "question": "Hány mappát készíthetünk?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Amennyit csak akarunk",
+        "Csak tízet",
+        "Csak egyet",
+        "Semennyit"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "question": "Mi az a 'képek' mappa?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
+        "Ahova a fotóinkat és rajzainkat tesszük",
+        "Ahova a zenét tesszük",
+        "Ahova a szöveget tesszük",
+        "Ahova a kukát tesszük"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "question": "Hogy hívják a mappát angolul?",
       "options": [
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "A macska.",
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Unalmas.",
-        "Fáradt."
+        "Folder",
+        "Box",
+        "Paper",
+        "Bag"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "question": "Mit csinál a mappa, ha becsukjuk?",
       "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
+        "Eltűnik a tartalma a szemünk elől",
+        "Kikapcsol a gép",
+        "Törlődik minden",
+        "Zenél"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "question": "Lehet-e a mappa neve a saját neved?",
       "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
-      "options": [
-        "A számítógépen.",
-        "Az ágyban.",
-        "A fán.",
-        "A kertben."
+        "Igen",
+        "Nem",
+        "Csak ha a tanár megengedi",
+        "Csak ha nagy vagy"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: név",
+      "answer": "név"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: tesz",
+      "answer": "tesz"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: üres",
+      "answer": "üres"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: fájl",
+      "answer": "fájl"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: sárga",
+      "answer": "sárga"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: sok",
+      "answer": "sok"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: tart",
+      "answer": "tart"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: rend",
+      "answer": "rend"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: nyit",
+      "answer": "nyit"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: zár",
+      "answer": "zár"
     }
   ]
 }

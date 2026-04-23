@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Helyes ülés",
+  "theme": "Programozás bevezető (blokkok)",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Helyes ülés?",
+      "question": "Mi a programozás?",
       "options": [
-        "Fáradt.",
-        "Nem.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Helyes ülés?",
-      "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Helyes ülés?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Helyes ülés?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Utasítások adása a gépnek",
+        "Gépelés gyakorlása",
+        "Játékvásárlás",
+        "Rajzolás"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Helyes ülés?",
+      "question": "Mik azok a blokkok?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Helyes ülés?",
-      "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem tudom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Helyes ülés?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Helyes ülés?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Helyes ülés?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Helyes ülés?",
-      "options": [
-        "Talán.",
-        "Nem.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Helyes ülés?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "Színes parancsok, amiket összeillesztünk",
+        "Építőkockák a kertben",
+        "Gombok a billentyűzeten",
+        "Képek a falon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Helyes ülés?",
+      "question": "Mire hasonlít a blokkok összeillesztése?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Helyes ülés?",
-      "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Helyes ülés?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya.",
-        "A madár."
+        "Legózásra vagy puzzle-re",
+        "Főzésre",
+        "Futásra",
+        "Éneklésre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Helyes ülés?",
+      "question": "Mit jelent az 'előre' blokk?",
       "options": [
-        "Unalmas.",
-        "Nem.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Helyes ülés?",
-      "options": [
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Helyes ülés?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "A figura egyet lép előre",
+        "A figura megfordul",
+        "A figura eltűnik",
+        "A gép kikapcsol"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Helyes ülés?",
+      "question": "Mi történik, ha rossz sorrendbe tesszük a blokkokat?",
       "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen."
+        "Nem azt csinálja a gép, amit vártunk",
+        "Felrobban a gép",
+        "Semmi nem történik",
+        "Minden törlődik"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Helyes ülés?",
+      "question": "Lehet-e kanyarodni a blokkokkal?",
       "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Igen, van 'jobbra' és 'balra' blokk",
+        "Nem, csak egyenesen lehet menni",
+        "Csak ha megfordítjuk a tabletet",
+        "Csak ha megkérjük"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki az a programozó?",
+      "options": [
+        "Aki megírja az utasításokat a gépnek",
+        "Aki eladja a gépet",
+        "Aki használja az egeret",
+        "Aki tévét néz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'algoritmus'?",
+      "options": [
+        "Lépések sorrendje egy feladathoz",
+        "Egy tánclépés",
+        "Egy állat neve",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kell-e tudni írni a blokkos programozáshoz?",
+      "options": [
+        "Nem, elég a jeleket ismerni",
+        "Igen, sokat kell gépelni",
+        "Csak angolul",
+        "Csak ha nagy vagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel indítjuk el a programunkat?",
+      "options": [
+        "Gyakran egy zöld zászlóval",
+        "Piros gombbal",
+        "Ráfújással",
+        "Dobolással"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'ciklus' (ismétlés)?",
+      "options": [
+        "Valamit többször megcsinál a gép",
+        "A gép körbe-körbe jár",
+        "Kikapcsolás",
+        "Törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színűek a blokkok?",
+      "options": [
+        "Színesek, hogy könnyebb legyen megismerni őket",
+        "Csak feketék",
+        "Csak fehérek",
+        "Láthatatlanok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e zenét is programozni blokkokkal?",
+      "options": [
+        "Igen, vannak hang blokkok",
+        "Nem, csak mozgást",
+        "Csak ha van zongoránk",
+        "Csak a profiknak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'karakter' a programban?",
+      "options": [
+        "A figura, akit irányítunk",
+        "Egy betű",
+        "A számítógép háza",
+        "Az egér padja"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a programozás?",
+      "options": [
+        "Saját játékokat és meséket készíthetünk",
+        "Hogy gyorsabban együnk",
+        "Hogy ne kelljen aludni",
+        "Hogy többet tévézzünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják, ha hibát találunk a programban?",
+      "options": [
+        "Bug (bogár)",
+        "Cica",
+        "Hiba",
+        "Vége"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk a hiba esetén?",
+      "options": [
+        "Kijavítjuk (debugolás)",
+        "Kidobjuk a gépet",
+        "Sírva fakadunk",
+        "Mindent letörlünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol tanulhatunk programozni?",
+      "options": [
+        "Iskolában vagy otthon tableten",
+        "A játszótéren a homokozóban",
+        "Az erdőben",
+        "A boltban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e robotot programozni blokkokkal?",
+      "options": [
+        "Igen, nagyon sok robotot így kell",
+        "Nem, ahhoz billentyűzet kell",
+        "Csak a felnőtteknek",
+        "Sosem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlít egy blokkos program?",
+      "options": [
+        "Egy receptre vagy leírásra",
+        "Egy képre",
+        "Egy dalra",
+        "Egy labdára"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egyszerre több blokkot használni?",
+      "options": [
+        "Igen, hosszú sort építhetünk",
+        "Nem, csak egyet",
+        "Csak kettőt",
+        "Tízet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen irányba mehet a karakter?",
+      "options": [
+        "Bármerre, amerre mondjuk neki",
+        "Csak előre",
+        "Csak hátra",
+        "Csak felfelé"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'start' blokk?",
+      "options": [
+        "Innen indul a program",
+        "Itt ér véget",
+        "Ez a hiba",
+        "Ez a zene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kell-e türelem a programozáshoz?",
+      "options": [
+        "Igen, sokat kell próbálkozni",
+        "Nem, egyből kész van",
+        "Csak ha nehéz",
+        "Csak a tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki tud programozni?",
+      "options": [
+        "Bárki, aki megtanulja",
+        "Csak a robotok",
+        "Csak az okos felnőttek",
+        "Csak a számítógépek"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: jel",
+      "answer": "jel"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: sor",
+      "answer": "sor"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: kék",
+      "answer": "kék"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: megy",
+      "answer": "megy"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: áll",
+      "answer": "áll"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: ügyes",
+      "answer": "ügyes"
     }
   ]
 }

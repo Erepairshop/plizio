@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Színek",
+  "theme": "Robot",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Színek?",
+      "question": "Mi a robot?",
       "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fázom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
-      "options": [
-        "Nem.",
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Színek?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Színek?",
-      "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
-      "options": [
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Talán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
-      "options": [
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
-      "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Színek?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Talán.",
-        "Nem.",
-        "Nem tudom."
+        "Egy gép, ami feladatokat hajt végre",
+        "Egy fém állat",
+        "Egy távirányító",
+        "Egy ember jelmezben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Színek?",
+      "question": "Tud-e a robot magától gondolkodni?",
       "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A kertben."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
-      "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Színek?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Fáradt.",
-        "Unalmas."
+        "Csak azt teszi, amire programozták",
+        "Igen, mint az emberek",
+        "Csak ha éhes",
+        "Csak ha alszik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Színek?",
+      "question": "Miből készülnek a robotok?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "Fémből, műanyagból és alkatrészekből",
+        "Szalmából",
+        "Húsból és vérből",
+        "Csak vízből"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Színek?",
+      "question": "Hol dolgoznak robotok?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
+        "Gyárakban, kórházakban, az űrben",
+        "Csak a mesékben",
+        "A játszótéren",
+        "A boltban eladóként"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Színek?",
+      "question": "Hogy hívják, amikor megmondjuk a robotnak, mit csináljon?",
       "options": [
-        "A kertben.",
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Színek?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Színek?",
-      "options": [
-        "A kertben.",
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Színek?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Fáradt.",
-        "Unalmas."
+        "Programozás",
+        "Kiabálás",
+        "Etetés",
+        "Altatás"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Színek?",
+      "question": "Van-e minden robotnak lába?",
       "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Nincs, van amelyik gurul",
+        "Igen, kettő",
+        "Igen, négy",
+        "Csak ha kérnek"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Színek?",
+      "question": "Mit eszik a robot?",
       "options": [
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan."
+        "Áramot (akkumulátort)",
+        "Vajaskenyeret",
+        "Almát",
+        "Levegőt"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Színek?",
+      "question": "Melyik egy híres robot alak?",
       "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
+        "R2-D2",
+        "Mickey egér",
+        "Micimackó",
+        "Hófehérke"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a robot beszélni?",
+      "options": [
+        "Igen, ha van benne hangszóró",
+        "Sosem",
+        "Csak ha megcsiklandozzák",
+        "Csak ha mérges"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó egy robotporszívó?",
+      "options": [
+        "Kitakarít magától",
+        "Zenét játszik",
+        "Főz",
+        "Vigyáz a gyerekre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a robotnak érzelme?",
+      "options": [
+        "Nem, ők csak gépek",
+        "Igen, tudnak sírni",
+        "Csak ha szeretik őket",
+        "Csak ha süt a nap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e játék robotok?",
+      "options": [
+        "Igen, sokféle",
+        "Nincsenek",
+        "Csak elemmel",
+        "Csak fából"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan irányíthatunk egy robotot?",
+      "options": [
+        "Távirányítóval vagy tablettel",
+        "Füttyentéssel",
+        "Kacsintással",
+        "Gondolattal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használnak robotokat az űrben?",
+      "options": [
+        "Bolygók felfedezésére",
+        "Főzésre az űrhajón",
+        "Hogy ne legyen magányos az űrhajós",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a robot táncolni?",
+      "options": [
+        "Igen, ha úgy programozzák",
+        "Nem, túl merev",
+        "Csak ha szól a zene",
+        "Csak ha esik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'szenzor' a roboton?",
+      "options": [
+        "Olyan, mint az érzékszervei (lát, érez)",
+        "Egy gomb",
+        "Egy kalap",
+        "A robot lába"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik robot segít a házimunkában?",
+      "options": [
+        "Fűnyíró robot",
+        "Vasaló robot",
+        "Mindkettő",
+        "Egyik sem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a robotnak neve?",
+      "options": [
+        "Igen, bármit adhatunk neki",
+        "Nem, csak száma lehet",
+        "Csak 'Robot' lehet",
+        "Csak ha nagy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e emberre hasonlító robotok?",
+      "options": [
+        "Igen, úgy hívják őket: humanoid",
+        "Nincsenek",
+        "Csak a filmekben",
+        "Csak ha akarnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a robot elfáradni?",
+      "options": [
+        "Csak lemerülni tud",
+        "Igen, sokat kell aludnia",
+        "Csak ha sokat fut",
+        "Sosem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a robotkar?",
+      "options": [
+        "Pakolásra vagy szerelésre",
+        "Inget vasalni",
+        "Hajat fésülni",
+        "Repülni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jók a robotok?",
+      "options": [
+        "Megcsinálják a nehéz vagy unalmas dolgokat",
+        "Mert szépek",
+        "Mert nem kérnek enni",
+        "Mert gyorsak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik állatra hasonlít a legtöbb kisrobot?",
+      "options": [
+        "Kutyára vagy bogárra",
+        "Madárra",
+        "Halra",
+        "Lóra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e programozni egy kis robotot?",
+      "options": [
+        "Igen, például a Bee-Botot",
+        "Nem, azok csak játékok",
+        "Csak a tanárok tudják",
+        "Csak ha beszél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Féljünk-e a robotoktól?",
+      "options": [
+        "Nem, ők segítő gépek",
+        "Igen, mert okosabbak",
+        "Csak ha hangosak",
+        "Csak ha sötét van"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: robot",
+      "answer": "robot"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: fém",
+      "answer": "fém"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: gurul",
+      "answer": "gurul"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: okos",
+      "answer": "okos"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: segít",
+      "answer": "segít"
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: elem",
+      "answer": "elem"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: kar",
+      "answer": "kar"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: láb",
+      "answer": "láb"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Szülőket megkérdezni",
+  "theme": "Hang és videó",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Szülőket megkérdezni?",
+      "question": "Miből jön a hang a gépnél?",
       "options": [
-        "A fán.",
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szülőket megkérdezni?",
-      "options": [
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szülőket megkérdezni?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Szülőket megkérdezni?",
-      "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
+        "Hangszóróból",
+        "Monitorból",
+        "Egérből",
+        "Kábelből"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Szülőket megkérdezni?",
+      "question": "Mivel tudunk hangot felvenni?",
       "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szülőket megkérdezni?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Mikrofonnal",
+        "Hangszóróval",
+        "Billentyűzettel",
+        "Egérrel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
+      "question": "Mi az a 'néma' üzemmód?",
       "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Nincs hangja a gépnek",
+        "Nagyon hangos",
+        "Csak suttog",
+        "Csak zenél"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
+      "question": "Mivel állítjuk a hangerőt?",
       "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
-      "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szülőket megkérdezni?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
-      "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Szülőket megkérdezni?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szülőket megkérdezni?",
-      "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Szülőket megkérdezni?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "A hangerő gombokkal",
+        "Füttyentéssel",
+        "Kiabálással",
+        "Ugrálással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Szülőket megkérdezni?",
+      "question": "Mire való a fejhallgató?",
       "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Szülőket megkérdezni?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Szülőket megkérdezni?",
-      "options": [
-        "A madár.",
-        "A macska.",
-        "A kutya.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Szülőket megkérdezni?",
-      "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Szülőket megkérdezni?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán.",
-        "Nem tudom."
+        "Hogy ne zavarjunk másokat",
+        "Hogy jobban lássunk",
+        "Hogy meleg legyen a fülünk",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
+      "question": "Mi az a videó?",
       "options": [
-        "Nem.",
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Szülőket megkérdezni?",
-      "options": [
-        "Az ágyban.",
-        "A számítógépen.",
-        "A kertben.",
-        "A fán."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Szülőket megkérdezni?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Mozgó kép és hang együtt",
+        "Csak egy kép",
+        "Csak zene",
+        "Egy írott szöveg"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Szülőket megkérdezni?",
+      "question": "Lehet-e zenét hallgatni a gépen?",
       "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár.",
-        "A macska."
+        "Igen, sokat",
+        "Nem, az csak munkára való",
+        "Csak ha énekelünk",
+        "Csak ha nincs suli"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'szünet' (pause) gomb?",
+      "options": [
+        "Megállítja a videót",
+        "Elindítja a videót",
+        "Törli a videót",
+        "Kikapcsolja a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a képet, ami a videó elindulása előtt látszik?",
+      "options": [
+        "Borítókép",
+        "Háttér",
+        "Kuka",
+        "Ikon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e túl hangosan zenét hallgatni?",
+      "options": [
+        "Nem, mert bánthatja a fülünket",
+        "Igen, minél hangosabb, annál jobb",
+        "Csak ha táncolunk",
+        "Csak ha messze vagyunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a mikrofon?",
+      "options": [
+        "Egy eszköz, ami érzékeli a hangunkat",
+        "Egy kis hangszóró",
+        "Egy gomb a monitoron",
+        "Egy kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a számítógép beszélni?",
+      "options": [
+        "Igen, ha megkérjük vagy programozták",
+        "Sosem",
+        "Csak ha fél",
+        "Csak a filmekben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e filmet nézni a laptopon?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha van antenna",
+        "Csak ha nincs internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'lejátszási lista'?",
+      "options": [
+        "Kedvenc dalok vagy videók sora",
+        "Egy bevásárlólista",
+        "A házi feladat",
+        "Egy játék neve"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'visszatekerés'?",
+      "options": [
+        "Újra megnézünk egy részt",
+        "Kidobjuk a videót",
+        "Megállítjuk",
+        "Kikapcsoljuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol van a mikrofon a telefonon?",
+      "options": [
+        "Alul vagy felül egy pici lyuk",
+        "Az üveg alatt",
+        "A hátulján",
+        "Nincs rajta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a videóhívás?",
+      "options": [
+        "Látjuk a nagyit akkor is, ha messze van",
+        "Hogy nézzük magunkat",
+        "Hogy sötét legyen",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen formátum a zene?",
+      "options": [
+        "Gyakran MP3",
+        "Papír",
+        "Alma",
+        "Kő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e saját videót készíteni?",
+      "options": [
+        "Igen, kamerával",
+        "Nem, azt csak a tévé tudja",
+        "Csak ha nagyok vagyunk",
+        "Csak ha engedik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a hangszóró?",
+      "options": [
+        "Kiadja a hangot",
+        "Beveszi a hangot",
+        "Képet mutat",
+        "Számol"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a gépnek vicces hangja?",
+      "options": [
+        "Igen, beállítható",
+        "Nem, mindig komoly",
+        "Csak ha elromlik",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne hallgassunk hangosan fejhallgatót?",
+      "options": [
+        "Hogy védjük a hallásunkat",
+        "Mert lemerül a gép",
+        "Mert meleg lesz",
+        "Mert elromlik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e zenés játékok?",
+      "options": [
+        "Igen, sokat",
+        "Nincsenek",
+        "Csak a zongorán",
+        "Csak felnőtteknek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha nem halljuk a hangot?",
+      "options": [
+        "Ellenőrizzük a hangerőt és a kábelt",
+        "Vegyünk új gépet",
+        "Kiabáljunk a gépnek",
+        "Sírjunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik állat tud utánozni hangokat a gépen?",
+      "options": [
+        "Papagáj (alkalmazásban)",
+        "Cica",
+        "Kutya",
+        "Hal"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: hang",
+      "answer": "hang"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: zene",
+      "answer": "zene"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: dal",
+      "answer": "dal"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: lát",
+      "answer": "lát"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: film",
+      "answer": "film"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: szól",
+      "answer": "szól"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: fül",
+      "answer": "fül"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: stop",
+      "answer": "stop"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

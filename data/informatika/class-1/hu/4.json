@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A billentyűzet",
+  "theme": "Ikonok",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
+      "question": "Mi az az ikon?",
       "options": [
-        "Fáradt.",
-        "Igen!",
-        "Nem.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A billentyűzet?",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A billentyűzet?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "A kertben.",
-        "Az ágyban."
+        "Egy kis kép a képernyőn",
+        "Egy gomb az egéren",
+        "Egy kábel",
+        "Egy süti"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
+      "question": "Mire való az ikon?",
       "options": [
-        "Unalmas.",
-        "Igen!",
-        "Fáradt.",
-        "Nem."
+        "Dísznek",
+        "Segít elindítani egy programot",
+        "Hogy eltakarja a hibát",
+        "Hogy nézegessük"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A billentyűzet?",
+      "question": "Hogyan indítunk el egy ikont?",
       "options": [
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán."
+        "Ránézünk",
+        "Rákattintunk az egérrel",
+        "Megfújjuk",
+        "Kiabálunk neki"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
+      "question": "Mire hasonlít a Paint ikonja?",
       "options": [
-        "Fáradt.",
-        "Igen!",
-        "Unalmas.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A billentyűzet?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
-      "options": [
-        "Igen!",
-        "Fáradt.",
-        "Nem.",
-        "Unalmas."
+        "Ecsetre és palettára",
+        "Autóra",
+        "Kenyérre",
+        "Cipőre"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "question": "Mire hasonlít a kuka ikonja?",
       "options": [
-        "Fáradtan.",
-        "Szomorúan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Szemetesre",
+        "Virágra",
+        "Házra",
+        "Napra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk a kuka ikonnal?",
+      "options": [
+        "Oda tesszük, amit törölni akarunk",
+        "Oda tesszük a reggelit",
+        "Ott játszunk",
+        "Ott alszunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e sok ikon az asztalon?",
+      "options": [
+        "Nem, csak egy",
+        "Igen, amennyit akarunk",
+        "Csak öt",
+        "Egy sem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent, ha egy ikonon egy mappa van?",
+      "options": [
+        "Hogy abban dolgok vannak",
+        "Hogy az egy játék",
+        "Hogy az egy film",
+        "Hogy az egy dal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan mozgathatunk egy ikont?",
+      "options": [
+        "Az egérrel 'húzzuk'",
+        "A kezünkkel toljuk",
+        "Fújással",
+        "Nem lehet mozgatni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha kétszer kattintunk egy ikonra?",
+      "options": [
+        "Megnyílik",
+        "Eltűnik",
+        "Megszépül",
+        "Kikapcsol a gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e színes ikonok?",
+      "options": [
+        "Csak feketék",
+        "Igen, mindenféle színűek",
+        "Csak kékek",
+        "Csak sárgák"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a 'Saját gép' ikon?",
+      "options": [
+        "Itt látjuk a gép tartalmát",
+        "Itt nézünk tükörbe",
+        "Itt alszunk",
+        "Itt eszünk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják az ikonokat másképp?",
+      "options": [
+        "Kis képek",
+        "Parancsikonok",
+        "Mindkettő",
+        "Egyik sem"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A billentyűzet?",
+      "question": "Minden programnak van ikonja?",
       "options": [
-        "A madár.",
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A billentyűzet?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
-      "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A billentyűzet?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A billentyűzet?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "Igen, általában",
+        "Csak a játékoknak",
+        "Csak a Paintnek",
+        "Egyiknek sem"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A billentyűzet?",
+      "question": "Mit jelent, ha egy ikonon egy kérdőjel van?",
       "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán."
+        "Segítség",
+        "Tilos",
+        "Vége",
+        "Játék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol laknak az ikonok?",
+      "options": [
+        "Az asztalon",
+        "A gépházban",
+        "Az egérben",
+        "A billentyűzeten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e saját ikonunk?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak a tanárnak",
+        "Csak a gépnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó, ha vannak ikonok?",
+      "options": [
+        "Mert szépek",
+        "Mert gyorsabban megtaláljuk a dolgokat",
+        "Mert világítanak",
+        "Mert mozognak"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A billentyűzet?",
+      "question": "Mit csinál a kuka ikon, ha tele van?",
       "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A billentyűzet?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "Megváltozik a képe",
+        "Kiürül magától",
+        "Beszél",
+        "Elindul"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
+      "question": "Törölhetünk egy ikont?",
       "options": [
-        "Igen!",
-        "Unalmas.",
-        "Nem.",
-        "Fáradt."
+        "Igen",
+        "Nem",
+        "Csak ha kérjük",
+        "Csak ha alszunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
+      "question": "Mi az az egérkurzor?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A billentyűzet?",
-      "options": [
-        "Fáradt.",
-        "Igen!",
-        "Unalmas.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A billentyűzet?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "A kis nyíl, amivel az ikonra mutatunk",
+        "Az egér farka",
+        "Egy gomb",
+        "A gép lába"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "question": "Lehet-e egy ikon nagyon nagy?",
       "options": [
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom."
+        "Igen, beállítható",
+        "Nem, csak pici",
+        "Csak akkora, mint egy ház",
+        "Csak akkora, mint egy hangya"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A billentyűzet?",
+      "question": "Melyik ikon indítja el az internetet?",
       "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Egy böngésző ikonja (pl. E vagy O)",
+        "A kuka",
+        "A mappa",
+        "A számológép"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "question": "Mit csinálunk, ha nem találunk egy ikont?",
       "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
+        "Keressük a keresővel",
+        "Sírni kezdünk",
+        "Új gépet veszünk",
+        "Kikapcsoljuk"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A billentyűzet?",
+      "question": "Mire hasonlít egy zene ikonja?",
       "options": [
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó."
+        "Hangjegyre",
+        "Almára",
+        "Kocsira",
+        "Házra"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: ikon",
+      "answer": "ikon"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: kuka",
+      "answer": "kuka"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: indít",
+      "answer": "indít"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: asztal",
+      "answer": "asztal"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: nyit",
+      "answer": "nyit"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: húz",
+      "answer": "húz"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: tesz",
+      "answer": "tesz"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: keres",
+      "answer": "keres"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: talál",
+      "answer": "talál"
     }
   ]
 }

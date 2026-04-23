@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Idegenekkel beszélgetni az interneten? Nem!",
+  "theme": "Kamera és fotó",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Mivel tudunk fényképet készíteni?",
       "options": [
-        "Igen!",
-        "Fáradt.",
-        "Unalmas.",
-        "Nem."
+        "Kamerával",
+        "Egérrel",
+        "Monitorral",
+        "Billentyűzettel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Hol találunk kamerát?",
       "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Fáradtan.",
-        "Szomorúan."
+        "Telefonon, tableten, laptopon",
+        "A hűtőben",
+        "A cipőnkön",
+        "A kanálon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Mi a 'szelfi'?",
       "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán.",
-        "Nem tudom."
+        "Magunkról készített fotó",
+        "Egy süti",
+        "Egy játék",
+        "A gép hangja"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Hogyan nézzük meg a kész képet?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "A galériában",
+        "A kukában",
+        "A billentyűzeten",
+        "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Mi a 'vaku'?",
       "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Igen!",
-        "Nem."
+        "Erős fény, ami segít sötétben",
+        "A gép hűtője",
+        "Egy gomb",
+        "A kamera lencséje"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e bárkit lefotózni engedély nélkül?",
+      "options": [
+        "Nem, meg kell kérdezni",
+        "Igen, bárkit",
+        "Csak ha vicces",
+        "Csak ha messze van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a videókamera?",
+      "options": [
+        "Mozgóképet rögzít",
+        "Csak egy képet készít",
+        "Kifesti a falat",
+        "Aludni küld"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell tartani a gépet fotózáskor?",
+      "options": [
+        "Stabilan, két kézzel",
+        "Lóbálva",
+        "Fél kézzel, ugrálva",
+        "Fejjel lefelé"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'fókusz'?",
+      "options": [
+        "Hogy éles legyen a kép",
+        "Hogy színes legyen",
+        "Hogy hangos legyen",
+        "Hogy eltűnjön"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a képeket utólag díszíteni?",
+      "options": [
+        "Igen, matricákkal vagy színekkel",
+        "Nem, marad amilyen lett",
+        "Csak ha ollóval vágjuk",
+        "Csak a tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'lencse'?",
+      "options": [
+        "A kamera 'szeme'",
+        "Egy fajta étel",
+        "A gép lába",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan töröljük a rossz képet?",
+      "options": [
+        "A kuka ikonnal",
+        "Kikapcsoljuk a gépet",
+        "Ráfestünk",
+        "Megesszük"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a képet nagyítani (zoom)?",
+      "options": [
+        "Igen, ha messze van a téma",
+        "Nem, csak oda kell menni",
+        "Csak ha kiabálunk",
+        "Csak a profiknak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a videóhívás?",
+      "options": [
+        "Látjuk és halljuk azt, akivel beszélünk",
+        "Hogy nézzük magunkat",
+        "Hogy fura arcokat vágjunk",
+        "Semmire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne nézzünk bele a vakuba?",
+      "options": [
+        "Mert elvakíthatja a szemünket",
+        "Mert meleg",
+        "Mert hangos",
+        "Mert színes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e fekete-fehér fotók?",
+      "options": [
+        "Igen, régen csak olyanok voltak",
+        "Nem, a gép csak színeset tud",
+        "Csak ha elromlik",
+        "Csak ha sötét van"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'mosolyogj'?",
+      "options": [
+        "Készül a kép!",
+        "Fuss el!",
+        "Aludj el!",
+        "Egyél sütit!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova mentődnek a képek?",
+      "options": [
+        "A gép memóriájába",
+        "A felhőbe",
+        "Mindkettőbe",
+        "A zsebünkbe"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Mire jó a kamera a robotokon?",
       "options": [
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "Hogy lássák merre mennek",
+        "Hogy szebbek legyenek",
+        "Hogy fotózzák a gyerekeket",
+        "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Tud-e a számítógép felismerni arcokat?",
       "options": [
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Nem, egy autó."
+        "Igen, sok gép képes rá",
+        "Nem, ahhoz szem kell",
+        "Csak ha ismerjük",
+        "Csak a filmekben"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Hogyan lesz papírkép a fotóból?",
       "options": [
-        "A madár.",
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Talán.",
-        "Nem tudom.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Ki kell nyomtatni",
+        "Ragasztani kell a monitorra",
+        "Be kell tenni a gépbe papírt",
+        "Magától lesz"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Lehet-e éjszaka fotózni?",
       "options": [
-        "Fáradt.",
-        "Nem.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy alma."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "Igen, vakuval vagy éjszakai móddal",
+        "Nem, sötét van",
+        "Csak ha látunk",
+        "Csak ha világít a hold"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Milyen a 'homályos' kép?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan."
+        "Nem látszik jól, nem éles",
+        "Nagyon színes",
+        "Nagyon sötét",
+        "Nagyon szép"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Miért vigyázzunk a lencsére?",
       "options": [
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan.",
-        "Fázom."
+        "Hogy ne legyen karcos vagy koszos",
+        "Mert fél",
+        "Mert drága",
+        "Mert kiesik"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "question": "Kinek mutassuk meg a fotóinkat?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
+        "A családnak és barátoknak",
+        "Senkinek",
+        "Csak a kutyának",
+        "Az egész világnak engedély nélkül"
       ],
       "correct": 0
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: fotó",
+      "answer": "fotó"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: lát",
+      "answer": "lát"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: szép",
+      "answer": "szép"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: vaku",
+      "answer": "vaku"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: nevet",
+      "answer": "nevet"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: gép",
+      "answer": "gép"
     }
   ]
 }

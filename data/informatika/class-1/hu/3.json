@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Az egér (balklikk)",
+  "theme": "Monitor és képernyő",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "question": "Mire való a monitor?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Az egér (balklikk)?",
-      "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya.",
-        "A madár."
+        "Hogy lássuk a képet",
+        "Hogy zenét hallgassunk",
+        "Hogy írjunk rá",
+        "Hogy hűtsön"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "question": "Mire hasonlít a monitor?",
       "options": [
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Az egér (balklikk)?",
-      "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Az egér (balklikk)?",
-      "options": [
-        "Fáradt.",
-        "Igen!",
-        "Unalmas.",
-        "Nem."
+        "Tükörre",
+        "Televízióra",
+        "Ablakra",
+        "Képre"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "question": "Szabad-e ujjal bökdösni a képernyőt?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Az egér (balklikk)?",
-      "options": [
-        "Igen, pontosan.",
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Az egér (balklikk)?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Az egér (balklikk)?",
-      "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
-      "options": [
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Az egér (balklikk)?",
-      "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Igen, mindig",
+        "Nem, mert koszos lesz",
+        "Csak ha vizes az ujjunk",
+        "Igen, erősen"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "question": "Mi történik, ha kikapcsoljuk a monitort?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Talán.",
-        "Nem."
+        "Eltűnik a kép",
+        "Megváltozik a zene",
+        "Kikapcsol az egér",
+        "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "question": "Milyen alakú a legtöbb monitor?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Az egér (balklikk)?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Az egér (balklikk)?",
-      "options": [
-        "Anya vagy apa.",
-        "A kutya.",
-        "A madár.",
-        "A macska."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
-      "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban.",
-        "A fán."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
-      "options": [
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan."
+        "Kör",
+        "Téglalap",
+        "Háromszög",
+        "Csillag"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "question": "Hol van a monitor bekapcsoló gombja?",
       "options": [
-        "A kutya.",
-        "A macska.",
-        "Anya vagy apa.",
-        "A madár."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Az egér (balklikk)?",
-      "options": [
-        "Fáradt.",
-        "Igen!",
-        "Unalmas.",
-        "Nem."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
-      "options": [
-        "A számítógépen.",
-        "A fán.",
-        "Az ágyban.",
-        "A kertben."
+        "Hátul vagy alul",
+        "Az egéren",
+        "A billentyűzeten",
+        "A plafonon"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "question": "Mi az a 'asztal' a képernyőn?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa."
+        "Amin eszünk",
+        "A kezdőképernyő",
+        "Egy bútor",
+        "A gép lába"
       ],
-      "correct": 3
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit látunk a monitoron, ha nem mozgatunk semmit?",
+      "options": [
+        "Háttérképet",
+        "Sötétséget",
+        "Filmet",
+        "Reklámot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tisztítsuk a monitort?",
+      "options": [
+        "Sok vízzel",
+        "Speciális puha kendővel",
+        "Radírral",
+        "Késsel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha bántja a szemünket a fény?",
+      "options": [
+        "Közelebb hajolunk",
+        "Lejjebb vesszük a fényerőt",
+        "Becsukjuk a szemünk",
+        "Sírva fakadunk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hova érdemes tenni a monitort?",
+      "options": [
+        "A szemünk elé",
+        "A földre",
+        "A szekrény tetejére",
+        "A hátunk mögé"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gépnek van saját képernyője?",
+      "options": [
+        "Laptop",
+        "Mosógép",
+        "Porszívó",
+        "Lámpa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a pixel?",
+      "options": [
+        "Egy apró színes pont a képernyőn",
+        "Egy gomb",
+        "Egy állat",
+        "Egy kábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'képernyőkímélő'?",
+      "options": [
+        "Egy mozgó kép, ha nem használjuk a gépet",
+        "Egy takaró a gépre",
+        "Egy napszemüveg",
+        "Egy kikapcsoló"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e a monitoron filmet nézni?",
+      "options": [
+        "Nem",
+        "Igen",
+        "Csak ha engedik",
+        "Csak fekete-fehéret"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne üljünk túl közel a monitorhoz?",
+      "options": [
+        "Mert elromlik a gép",
+        "Mert elfárad a szemünk",
+        "Mert meleg",
+        "Mert kiesik a gép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel van összekötve a monitor a géppel?",
+      "options": [
+        "Kábellel",
+        "Ragasztóval",
+        "Cérnával",
+        "Semmivel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Látunk-e betűket a monitoron?",
+      "options": [
+        "Igen, ha írunk",
+        "Csak ha rajzolunk",
+        "Sosem",
+        "Csak számokat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az érintőképernyő?",
+      "options": [
+        "Amit ujjal is lehet irányítani",
+        "Amihez nem szabad érni",
+        "Ami forró",
+        "Ami puha"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközön van érintőképernyő?",
+      "options": [
+        "Tablet",
+        "Egér",
+        "Billentyűzet",
+        "Hangszóró"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit látsz a monitor sarkában?",
+      "options": [
+        "Az időt",
+        "A reggelit",
+        "A napot",
+        "A holdat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Színes-e a monitor képe?",
+      "options": [
+        "Csak kék",
+        "Igen, nagyon sok színű",
+        "Csak szürke",
+        "Csak fehér"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a monitor angol neve?",
+      "options": [
+        "Monitor",
+        "Screen",
+        "Mindkettő",
+        "Egyik sem"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nagyobb általában?",
+      "options": [
+        "Egy telefon kijelzője",
+        "Egy asztali monitor",
+        "Egy óra kijelzője",
+        "Egy kártya"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a monitor, ha nincs áram?",
+      "options": [
+        "Sötét marad",
+        "Világít",
+        "Beszél",
+        "Ugrál"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: kép",
+      "answer": "kép"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: néz",
+      "answer": "néz"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: szín",
+      "answer": "szín"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: fény",
+      "answer": "fény"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: lát",
+      "answer": "lát"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: sötét",
+      "answer": "sötét"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: üveg",
+      "answer": "üveg"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: pont",
+      "answer": "pont"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: rajz",
+      "answer": "rajz"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     }
   ]
 }

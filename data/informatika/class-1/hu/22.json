@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "Be/Ki",
+  "theme": "Zeneszerzés gyerekeknek",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Be/Ki?",
+      "question": "Tud-e a gép zenélni?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Be/Ki?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Fáradt.",
-        "Igen!",
-        "Nem.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Be/Ki?",
-      "options": [
-        "Fázom.",
-        "Jól és biztonságban.",
-        "Fáradtan.",
-        "Szomorúan."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Be/Ki?",
-      "options": [
-        "A számítógépen.",
-        "Az ágyban.",
-        "A kertben.",
-        "A fán."
+        "Igen, sokféleképpen",
+        "Nem, csak beszélni tud",
+        "Csak ha megütjük",
+        "Csak a rádió tud"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
+      "question": "Mivel hallgatjuk a zenét a gépen?",
       "options": [
-        "Nem.",
-        "Fáradt.",
-        "Unalmas.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
-      "options": [
-        "Nem tudom.",
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Unalmas.",
-        "Fáradt."
+        "Hangszóróval vagy fejhallgatóval",
+        "Monitorral",
+        "Egérrel",
+        "Billentyűzettel"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: Be/Ki?",
+      "question": "Hogyan szerezhetünk zenét?",
       "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A fán.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Be/Ki?",
-      "options": [
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: Be/Ki?",
-      "options": [
-        "Fáradtan.",
-        "Fázom.",
-        "Szomorúan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Be/Ki?",
-      "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Unalmas.",
-        "Fáradt.",
-        "Nem.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: Be/Ki?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
-      "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Talán.",
-        "Nem tudom."
+        "Zeneszerző programmal",
+        "Kalapáccsal",
+        "Főzéssel",
+        "Alvással"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: Be/Ki?",
+      "question": "Mi az a digitális zongora?",
       "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
-      "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Nem.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Unalmas.",
-        "Nem.",
-        "Fáradt.",
-        "Igen!"
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
-      "options": [
-        "Nem.",
-        "Talán.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: Be/Ki?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Nem, egy autó."
+        "Egy zongora a képernyőn, amit leüthetünk",
+        "Egy igazi nagy zongora",
+        "Egy gép, ami eszik",
+        "Egy rajzolt kép"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
+      "question": "Mit csinál a dob-gép?",
       "options": [
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem."
+        "Ritmust ad a zenének",
+        "Dobbant a lábával",
+        "Ugrál az asztalon",
+        "Kikapcsolja a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e állathangokat tenni a zenébe?",
+      "options": [
+        "Igen, sok programban van ilyen",
+        "Nem, az tilos",
+        "Csak ha van kutyánk",
+        "Csak éjszaka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a ritmus?",
+      "options": [
+        "A zene üteme",
+        "Egy szín",
+        "Egy betű",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudunk-e énekelni a gépbe?",
+      "options": [
+        "Igen, mikrofonnal",
+        "Nem, a gép nem hall minket",
+        "Csak ha kiabálunk",
+        "Csak a konyhában"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lesz hangosabb a zene?",
+      "options": [
+        "Hangerő szabályzóval",
+        "Közelebb megyünk",
+        "Nagyobbra nyitjuk a szemünk",
+        "Megfújjuk a hangszórót"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'loop' (ismétlés)?",
+      "options": [
+        "Egy dallam újra és újra megszólal",
+        "Megáll a zene",
+        "Törlődik a zene",
+        "Kikapcsol a gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e saját dalt menteni?",
+      "options": [
+        "Igen, mint egy fájlt",
+        "Nem, a zene elszáll",
+        "Csak ha leírjuk papírra",
+        "Csak a tanárnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen hangszereket utánozhat a gép?",
+      "options": [
+        "Gitár, zongora, dob, furulya",
+        "Csak dobot",
+        "Csak füttyöt",
+        "Semmilyet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'hangjegy'?",
+      "options": [
+        "A zene írott jele",
+        "Egy kis cetli",
+        "A gép hangja",
+        "Egy gomb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e vidám és szomorú zenét írni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak vidámat szabad",
+        "Csak ha sírunk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'mixelés'?",
+      "options": [
+        "Hangok összeillesztése",
+        "Főzés",
+        "Takarítás",
+        "Alvás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire hasonlít a zeneszerkesztő?",
+      "options": [
+        "Egy színes táblára",
+        "Egy sötét dobozra",
+        "Egy könyvre",
+        "Egy almára"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki lehet zeneszerző?",
+      "options": [
+        "Bárki, aki szeretne zenélni",
+        "Csak a zenészek",
+        "Csak a robotok",
+        "Csak aki tud énekelni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e zenés játékok gyerekeknek?",
+      "options": [
+        "Igen, sokféle",
+        "Nincsenek",
+        "Csak tableten",
+        "Csak felnőtteknek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a karmester?",
+      "options": [
+        "Irányítja a zenekart (vagy a programot)",
+        "Jegyet vág",
+        "Vezeti a vonatot",
+        "Főzi az ebédet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a zenehallgatás?",
+      "options": [
+        "Megnyugtat vagy jó kedvre derít",
+        "Hogy fájjon a fejünk",
+        "Hogy ne halljunk semmit",
+        "Hogy lemerüljön a gép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e a gép madárcsicsergést játszani?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha van madár a szobában",
+        "Csak tavasszal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen a 'gyors' zene?",
+      "options": [
+        "Sok hang rövid idő alatt",
+        "Nagyon hangos",
+        "Nagyon magas",
+        "Nagyon piros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'metronóm'?",
+      "options": [
+        "Segít tartani az ütemet",
+        "Egy gép neve",
+        "A gép lába",
+        "Egy süti"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan osszuk meg a dalunkat?",
+      "options": [
+        "Lejátsszuk másoknak",
+        "Elküldjük emailben",
+        "Mindkettő",
+        "Sehogy"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: Be/Ki?",
+      "question": "Mire ügyeljünk zenehallgatáskor?",
       "options": [
-        "Nem.",
-        "Talán.",
-        "Igen, nagyon fontos.",
-        "Nem tudom."
+        "Ne legyen túl hangos a fülünknek",
+        "Csukjuk be a szemünk",
+        "Ne mozogjunk",
+        "Várjuk meg a végét"
       ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: Be/Ki?",
-      "options": [
-        "A kertben.",
-        "A fán.",
-        "A számítógépen.",
-        "Az ágyban."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: Be/Ki?",
-      "options": [
-        "Unalmas.",
-        "Igen!",
-        "Fáradt.",
-        "Nem."
-      ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: zene",
+      "answer": "zene"
     },
     {
       "type": "typing",
-      "text": "Katt"
+      "question": "Gépeld be: dal",
+      "answer": "dal"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: dob",
+      "answer": "dob"
     },
     {
       "type": "typing",
-      "text": "Játék"
+      "question": "Gépeld be: hang",
+      "answer": "hang"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: szép",
+      "answer": "szép"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: jó",
+      "answer": "jó"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: ritmus",
+      "answer": "ritmus"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: fül",
+      "answer": "fül"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: szól",
+      "answer": "szól"
     }
   ]
 }

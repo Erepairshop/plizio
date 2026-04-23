@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A képernyő",
+  "theme": "Egér és billentyűzet",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A képernyő?",
+      "question": "Mire hasonlít a gép egere?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom.",
-        "Talán."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
-      "options": [
-        "Az ágyban.",
-        "A kertben.",
-        "A számítógépen.",
-        "A fán."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A képernyő?",
-      "options": [
-        "Jól és biztonságban.",
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A képernyő?",
-      "options": [
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan.",
-        "Nem, egy autó."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
-      "options": [
-        "Az ágyban.",
-        "A fán.",
-        "A kertben.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A képernyő?",
-      "options": [
-        "Fázom.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A képernyő?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy kutya.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A képernyő?",
-      "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A képernyő?",
-      "options": [
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Egy kutya.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A képernyő?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Egy kutya."
-      ],
-      "correct": 0
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A képernyő?",
-      "options": [
-        "Szomorúan.",
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A képernyő?",
-      "options": [
-        "Fáradt.",
-        "Nem.",
-        "Igen!",
-        "Unalmas."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
-      "options": [
-        "A kertben.",
-        "Az ágyban.",
-        "A fán.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A képernyő?",
-      "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A macska."
+        "Cicára",
+        "Valódi egérre",
+        "Kutyára",
+        "Madárra"
       ],
       "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
+      "question": "Mit csinál az egér?",
       "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A kertben."
+        "Sajtot eszik",
+        "Irányítja a mutatót",
+        "Zajt csap",
+        "Világít"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A képernyő?",
+      "question": "Hány gomb van általában az egéren?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem.",
-        "Nem tudom.",
-        "Talán."
+        "Egy",
+        "Kettő vagy több",
+        "Tíz",
+        "Semennyi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kattintás?",
+      "options": [
+        "Az egér gombjának megnyomása",
+        "Egy tánclépés",
+        "Egy ének",
+        "A gép hangja"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A képernyő?",
+      "question": "Melyik kezünkkel fogjuk az egeret?",
       "options": [
-        "A madár.",
-        "A kutya.",
-        "Anya vagy apa.",
-        "A macska."
+        "Bal",
+        "Jobb (általában)",
+        "Mindkettővel",
+        "Lábbal"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A képernyő?",
+      "question": "Hova kell tenni az egeret?",
       "options": [
-        "Igen, nagyon fontos.",
-        "Nem tudom.",
-        "Nem.",
-        "Talán."
+        "A levegőbe",
+        "Egérpadra vagy asztalra",
+        "A vízbe",
+        "A fejünkre"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'dupla kattintás'?",
+      "options": [
+        "Két gyors nyomás",
+        "Két lassú nyomás",
+        "Egyszeri nyomás",
+        "Kiabálás"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A képernyő?",
+      "question": "Mire való a billentyűzet?",
       "options": [
-        "Nem.",
-        "Nem tudom.",
-        "Talán.",
-        "Igen, nagyon fontos."
+        "Zongorázni",
+        "Írni a gépen",
+        "Vágni vele",
+        "Főzni rajta"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A képernyő?",
+      "question": "Mik vannak a billentyűzeten?",
       "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A madár.",
-        "A kutya."
+        "Betűk és számok",
+        "Virágok",
+        "Ételek",
+        "Játékok"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogy érzed magad ennél: A képernyő?",
+      "question": "Melyik a leghosszabb billentyű?",
       "options": [
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Szomorúan."
+        "Enter",
+        "Szóköz",
+        "Esc",
+        "Shift"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
+      "question": "Mire jó a Szóköz?",
       "options": [
-        "A számítógépen.",
-        "A kertben.",
-        "A fán.",
-        "Az ágyban."
+        "Törlésre",
+        "Helyet hagyni a szavak közt",
+        "Nagybetűhöz",
+        "Kikapcsoláshoz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel törlünk betűt?",
+      "options": [
+        "Space",
+        "Backspace",
+        "Shift",
+        "Alt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal kezdünk új sort?",
+      "options": [
+        "Space",
+        "Enter",
+        "Tab",
+        "Ctrl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hány betű van a billentyűzeten?",
+      "options": [
+        "Csak az A",
+        "Sok, az ábécé betűi",
+        "Csak számok",
+        "Semennyi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell ütni a billentyűket?",
+      "options": [
+        "Nagyon erősen",
+        "Finoman, puhán",
+        "Ököllel",
+        "Kalapáccsal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kurzor?",
+      "options": [
+        "Egy állat",
+        "A villogó jel, ahol írunk",
+        "Egy gomb",
+        "A monitor széle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel tudsz nagybetűt írni?",
+      "options": [
+        "Space",
+        "Shift",
+        "Backspace",
+        "Alt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol vannak a számok?",
+      "options": [
+        "A billentyűzet szélén vagy fent",
+        "Az egérben",
+        "A kábelen",
+        "A padlón"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A képernyő?",
+      "question": "Mit csinál az egér görgője?",
       "options": [
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen.",
-        "A kertben."
+        "Gurul az asztalon",
+        "Segít fel-le mozogni a lapon",
+        "Sajtot darál",
+        "Zenél"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A képernyő?",
+      "question": "Miért van farka az egérnek?",
       "options": [
-        "Fáradt.",
-        "Unalmas.",
-        "Nem.",
-        "Igen!"
+        "Hogy szép legyen",
+        "Az a vezetéke",
+        "Hogy megfogjuk",
+        "Hogy billegjen"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A képernyő?",
+      "question": "Hány ujjunkkal gépelünk?",
       "options": [
-        "Egy alma.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy kutya."
+        "Eggyel",
+        "Tízzel (ideális esetben)",
+        "Kettővel",
+        "Öttel"
       ],
-      "correct": 2
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találod az Enter gombot?",
+      "options": [
+        "Középen",
+        "Jobb oldalon",
+        "Bal oldalon",
+        "Alul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színű a legtöbb billentyűzet?",
+      "options": [
+        "Fekete vagy fehér",
+        "Piros",
+        "Zöld",
+        "Lila"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel mozgatod a nyilat a képernyőn?",
+      "options": [
+        "Billentyűzet",
+        "Egér",
+        "Monitor",
+        "Hangszóró"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálsz, ha elrontottál egy betűt?",
+      "options": [
+        "Kikapcsolod a gépet",
+        "Kitörlöd a Backspace-szel",
+        "Kisírod magad",
+        "Odaírod mellé"
+      ],
+      "correct": 1
     },
     {
       "type": "typing",
-      "text": "Kép"
+      "question": "Gépeld be: egér",
+      "answer": "egér"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: gomb",
+      "answer": "gomb"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: betű",
+      "answer": "betű"
     },
     {
       "type": "typing",
-      "text": "Monitor"
+      "question": "Gépeld be: szám",
+      "answer": "szám"
     },
     {
       "type": "typing",
-      "text": "Jó"
+      "question": "Gépeld be: jobb",
+      "answer": "jobb"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: bal",
+      "answer": "bal"
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: üt",
+      "answer": "üt"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: ír",
+      "answer": "ír"
     },
     {
       "type": "typing",
-      "text": "Ceruza"
+      "question": "Gépeld be: jel",
+      "answer": "jel"
     },
     {
       "type": "typing",
-      "text": "Igen"
+      "question": "Gépeld be: katt",
+      "answer": "katt"
     }
   ]
 }

@@ -1,322 +1,332 @@
 {
   "class": 1,
-  "theme": "A játék bezárása",
+  "theme": "Egyszerű játékok",
   "language": "hu",
   "tasks": [
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A játék bezárása?",
+      "question": "Lehet-e játszani a számítógépen?",
       "options": [
-        "Anya vagy apa.",
-        "A macska.",
-        "A kutya.",
-        "A madár."
+        "Igen, sokat",
+        "Nem, soha",
+        "Csak felnőtteknek",
+        "Csak hétvégén"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
+      "question": "Mivel irányítjuk a játékokat?",
       "options": [
-        "Unalmas.",
-        "Nem.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
-      "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A játék bezárása?",
-      "options": [
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Fázom."
+        "Egérrel vagy billentyűzettel",
+        "Gondolattal",
+        "Kiabálással",
+        "Lábbal"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A játék bezárása?",
+      "question": "Mi az a memória játék?",
       "options": [
-        "A madár.",
-        "A macska.",
-        "Anya vagy apa.",
-        "A kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
-      "options": [
-        "Nem.",
-        "Unalmas.",
-        "Igen!",
-        "Fáradt."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A játék bezárása?",
-      "options": [
-        "Igen, pontosan.",
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma."
+        "Párokat kell keresni",
+        "Futni kell",
+        "Lövöldözni kell",
+        "Aludni kell"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
+      "question": "Mi a fontos a játék közben?",
       "options": [
-        "Igen!",
-        "Unalmas.",
-        "Fáradt.",
-        "Nem."
+        "Hogy jól érezzük magunkat",
+        "Hogy mindig nyerjünk",
+        "Hogy mérgesek legyünk",
+        "Hogy sokat költsünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ide tartozik a témához: A játék bezárása?",
+      "question": "Szabad-e egész nap játszani?",
       "options": [
-        "Egy kutya.",
-        "Igen, pontosan.",
-        "Egy alma.",
-        "Nem, egy autó."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
-      "options": [
-        "A fán.",
-        "A számítógépen.",
-        "A kertben.",
-        "Az ágyban."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A játék bezárása?",
-      "options": [
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Igen, pontosan.",
-        "Egy alma."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
-      "options": [
-        "Fáradt.",
-        "Igen!",
-        "Nem.",
-        "Unalmas."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
-      "options": [
-        "Az ágyban.",
-        "A számítógépen.",
-        "A fán.",
-        "A kertben."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A játék bezárása?",
-      "options": [
-        "Jól és biztonságban.",
-        "Szomorúan.",
-        "Fáradtan.",
-        "Fázom."
+        "Nem, tartsunk szünetet",
+        "Igen, bármeddig",
+        "Csak ha esik az eső",
+        "Csak ha anya nem látja"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A játék bezárása?",
+      "question": "Melyik egy egyszerű gyerekjáték?",
       "options": [
-        "A kutya.",
-        "Anya vagy apa.",
-        "A madár.",
-        "A macska."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Ki segít neked ebben: A játék bezárása?",
-      "options": [
-        "A macska.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A kutya."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
-      "options": [
-        "A kertben.",
-        "A számítógépen.",
-        "Az ágyban.",
-        "A fán."
-      ],
-      "correct": 1
-    },
-    {
-      "type": "mcq",
-      "question": "Hogy érzed magad ennél: A játék bezárása?",
-      "options": [
-        "Fázom.",
-        "Fáradtan.",
-        "Jól és biztonságban.",
-        "Szomorúan."
-      ],
-      "correct": 2
-    },
-    {
-      "type": "mcq",
-      "question": "Ide tartozik a témához: A játék bezárása?",
-      "options": [
-        "Egy kutya.",
-        "Nem, egy autó.",
-        "Egy alma.",
-        "Igen, pontosan."
-      ],
-      "correct": 3
-    },
-    {
-      "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
-      "options": [
-        "Igen!",
-        "Nem.",
-        "Unalmas.",
-        "Fáradt."
+        "Kirakós (puzzle)",
+        "Autószerelés",
+        "Házépítés",
+        "Főzés"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Élvezetes ez: A játék bezárása?",
+      "question": "Mit csinálunk a kirakósban?",
       "options": [
-        "Nem.",
-        "Igen!",
-        "Fáradt.",
-        "Unalmas."
+        "Összeillesztjük a darabokat",
+        "Szétvágjuk a képet",
+        "Kiszínezzük a lapot",
+        "Eldobjuk a részeket"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "question": "Hogyan indítunk el egy játékot?",
       "options": [
-        "A fán.",
-        "A kertben.",
-        "Az ágyban.",
-        "A számítógépen."
+        "Rákattintunk az ikonjára",
+        "Megkérjük a szomszédot",
+        "Várunk, amíg magától elindul",
+        "Belerúgunk a gépbe"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Ki segít neked ebben: A játék bezárása?",
+      "question": "Mi a 'szint' a játékban?",
       "options": [
-        "A kutya.",
-        "A madár.",
-        "Anya vagy apa.",
-        "A macska."
+        "Egy újabb, nehezebb rész",
+        "A padló",
+        "A monitor teteje",
+        "A szék magassága"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Game Over'?",
+      "options": [
+        "Vége a játéknak",
+        "Indul a játék",
+        "Nagyon jó vagy",
+        "Süti vár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e másokkal együtt játszani?",
+      "options": [
+        "Igen, vannak közös játékok",
+        "Nem, csak egyedül",
+        "Csak ha ikrek vagyunk",
+        "Csak ha van két egér"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha nem sikerül a játék?",
+      "options": [
+        "Próbáljuk újra türelmesen",
+        "Csapkodjuk a billentyűzetet",
+        "Sírjunk hangosan",
+        "Kérjünk új gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombot használjuk sokat a játékban?",
+      "options": [
+        "Nyilak vagy Space",
+        "Esc",
+        "Alt",
+        "F12"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e oktató játékok?",
+      "options": [
+        "Igen, amikkel tanulhatunk",
+        "Nem, a játék csak butaság",
+        "Csak az iskolában",
+        "Csak a tévében"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'pontszám'?",
+      "options": [
+        "Megmutatja, milyen ügyesek voltunk",
+        "A gép ára",
+        "A gyerek kora",
+        "A monitor mérete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e tableten is játszani?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha van rajta gomb",
+        "Csak ha kék"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik állat szerepel sok játékban?",
+      "options": [
+        "Macska vagy kutya",
+        "Sárkány",
+        "Mindkettő",
+        "Egyik sem"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Fontos ez nekünk: A játék bezárása?",
+      "question": "Mit jelent a 'betöltés'?",
       "options": [
-        "Talán.",
-        "Nem.",
-        "Nem tudom.",
-        "Igen, nagyon fontos."
+        "Várni kell, amíg elindul a játék",
+        "Enni kell közben",
+        "Meg kell tölteni a poharat",
+        "A gép eszik"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "question": "Miért jó a játék?",
       "options": [
-        "A kertben.",
-        "A fán.",
-        "Az ágyban.",
-        "A számítógépen."
+        "Fejleszti az ügyességet",
+        "Mert hangos",
+        "Mert villog",
+        "Mert nem kell tanulni"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegenekkel játszani az interneten?",
+      "options": [
+        "Nem, csak akit ismerünk",
+        "Igen, bárkivel",
+        "Csak ha kedvesek",
+        "Csak ha van sok pontjuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csináljunk, ha elfáradt a szemünk?",
+      "options": [
+        "Hagyjuk abba a játékot",
+        "Nézzük közelebbről",
+        "Hunyorogjunk",
+        "Vegyünk fel sapkát"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Léteznek-e színezős játékok?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak papíron",
+        "Csak felnőtteknek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mivel tudunk ugrani a játékban?",
+      "options": [
+        "Szóköz (Space) gombbal",
+        "Ugrálunk a széken",
+        "Kattintunk a monitorra",
+        "Megfújjuk a gépet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha túl nehéz a játék?",
+      "options": [
+        "Kérjünk segítséget vagy válasszunk könnyebbet",
+        "Hajítsuk el az egeret",
+        "Ne csináljunk semmit",
+        "Aludjunk rá"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e zenét hallgatni játék közben?",
+      "options": [
+        "Igen, sok játéknak van zenéje",
+        "Nem, tilos",
+        "Csak ha énekelünk",
+        "Csak ha néma a gép"
+      ],
+      "correct": 0
     },
     {
       "type": "typing",
-      "text": "Nem"
+      "question": "Gépeld be: játék",
+      "answer": "játék"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: pont",
+      "answer": "pont"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: nyer",
+      "answer": "nyer"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: fut",
+      "answer": "fut"
     },
     {
       "type": "typing",
-      "text": "Anya"
+      "question": "Gépeld be: ugrik",
+      "answer": "ugrik"
     },
     {
       "type": "typing",
-      "text": "Gép"
+      "question": "Gépeld be: pálya",
+      "answer": "pálya"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: ügyes",
+      "answer": "ügyes"
     },
     {
       "type": "typing",
-      "text": "Egér"
+      "question": "Gépeld be: kész",
+      "answer": "kész"
     },
     {
       "type": "typing",
-      "text": "Apa"
+      "question": "Gépeld be: start",
+      "answer": "start"
     },
     {
       "type": "typing",
-      "text": "Szín"
+      "question": "Gépeld be: vége",
+      "answer": "vége"
     }
   ]
 }
