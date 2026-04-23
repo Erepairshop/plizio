@@ -5,7 +5,11 @@
 // All questions in German language (Deutsch)
 // Grade-appropriate for 10-11 year old students (Klasse 5)
 
-import type { CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumMCQ, CurriculumTyping, CurriculumQuestion } from "./curriculumTypes";
+
+function createTyping(topic: string, subtopic: string, question: string, answer: string | string[]): CurriculumTyping {
+  return { type: "typing", topic, subtopic, question, answer };
+}
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
@@ -88,9 +92,9 @@ const HOCHKULTUR_ERRUNGENSCHAFTEN = [
 
 // ─── GENERATOR 1: FRÜHE HOCHKULTUREN ────────────────────────────────────────
 
-function generateFrueheHochkulturen(): CurriculumMCQ[] {
+function generateFrueheHochkulturen(): CurriculumQuestion[] {
   const rng = mulberry32(1001);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "fruehe_hochkulturen";
 
@@ -288,14 +292,29 @@ function generateFrueheHochkulturen(): CurriculumMCQ[] {
     ["Eine Hochkultur lebt ausschließlich von der Jagd", "Eine Hochkultur hat keine Religion", "Eine Stammesgesellschaft hat immer mehr Einwohner"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Welcher Fluss war die Lebensader Ägyptens?", "Nil"],
+    ["Welche zwei Flüsse umrahmten Mesopotamien? (ein Wort pro Fluss)", ["Euphrat","Tigris"]],
+    ["Wie heißt die Schrift der Sumerer?", "Keilschrift"],
+    ["Wie heißt die berühmte Bilderschrift der Ägypter?", "Hieroglyphen"],
+    ["Wie nennt man einen Turmtempel der Sumerer?", "Zikkurat"],
+    ["Welches Volk lebte in Mesopotamien zuerst?", "Sumerer"],
+    ["Wie heißt das erste bekannte schriftliche Gesetzbuch?", ["Codex Hammurabi","Codex Hammurapi"]],
+    ["Welches Zeichensystem wurde in feuchten Ton gedrückt?", "Keilschrift"],
+    ["Was bedeutet \"Mesopotamien\" übersetzt?", ["Zweistromland","Land zwischen den Flüssen"]],
+    ["In welchem Gebiet lag das alte Mesopotamien heute?", "Irak"]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── GENERATOR 3: GRIECHENLAND ───────────────────────────────────────────────
 
-function generateGriechenland(): CurriculumMCQ[] {
+function generateGriechenland(): CurriculumQuestion[] {
   const rng = mulberry32(1003);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "griechenland";
 
@@ -495,6 +514,21 @@ function generateGriechenland(): CurriculumMCQ[] {
     ["Der heilige Bezirk mit Tempeln", "Das Sportzentrum für Olympiatraining", "Das Gericht für Straftaten"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß der berühmte Stadtstaat mit Akropolis?", "Athen"],
+    ["Welcher militärische Stadtstaat war Athens großer Rivale?", "Sparta"],
+    ["Wie heißt die Regierungsform, die in Athen entstand?", "Demokratie"],
+    ["Welches Sportfest fand alle vier Jahre in Olympia statt?", ["Olympische Spiele","Olympia"]],
+    ["Wer war der berühmte griechische Philosoph, Lehrer Platons?", "Sokrates"],
+    ["Wie heißt der größte Tempel auf der Akropolis?", "Parthenon"],
+    ["Wer eroberte ein Weltreich bis nach Indien?", ["Alexander der Große","Alexander"]],
+    ["In welchem Jahr starteten die ersten Olympischen Spiele (ungefähr)?", ["776","776 v. Chr."]],
+    ["Was bedeutet das Wort \"Demokratie\" wörtlich?", "Volksherrschaft"],
+    ["Welcher Gott war der höchste im griechischen Olymp?", "Zeus"]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
@@ -517,9 +551,9 @@ const AEGYPTEN_GOETTER = [
 
 // ─── GENERATOR 2: ÄGYPTEN ────────────────────────────────────────────────────
 
-function generateAegypten(): CurriculumMCQ[] {
+function generateAegypten(): CurriculumQuestion[] {
   const rng = mulberry32(1002);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "aegypten";
 
@@ -717,14 +751,29 @@ function generateAegypten(): CurriculumMCQ[] {
     ["Eine Heilpflanze gegen Krankheiten", "Ein Nahrungsmittel der armen Bevölkerung", "Ein Baumaterial für Tempel"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Welcher Fluss war die Lebensader Ägyptens?", "Nil"],
+    ["Wie heißen die riesigen Grabbauten der Pharaonen?", ["Pyramiden","Pyramide"]],
+    ["Wo steht die berühmteste Pyramide der Welt?", "Gizeh"],
+    ["Wie heißt die Bilderschrift der Ägypter?", "Hieroglyphen"],
+    ["Wie nennt man das getrocknete Schilfblatt als Schreibmaterial?", "Papyrus"],
+    ["Wer war der Sonnengott der Ägypter?", "Ra"],
+    ["Wie nennt man eine einbalsamierte Leiche in Ägypten?", "Mumie"],
+    ["Wie heißen die Herrscher im alten Ägypten?", ["Pharao","Pharaonen"]],
+    ["Welche Wächterfigur mit Löwenkörper bewacht die Pyramiden?", "Sphinx"],
+    ["Wie nennt man den Gott der Toten und Mumifizierung?", ["Anubis","Osiris"]]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── GENERATOR 4: RÖMISCHE REPUBLIK ─────────────────────────────────────────
 
-function generateRomRepublik(): CurriculumMCQ[] {
+function generateRomRepublik(): CurriculumQuestion[] {
   const rng = mulberry32(1004);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "rom_republik";
 
@@ -920,14 +969,29 @@ function generateRomRepublik(): CurriculumMCQ[] {
     ["Klienten waren Sklaven, die freigelassen wurden", "Klienten waren arme Bauern außerhalb der Stadt", "Klienten waren ausländische Händler in Rom"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Welcher Fluss floss durch Rom?", "Tiber"],
+    ["Welche zwei Brüder sind die Sage nach die Gründer Roms?", ["Romulus und Remus","Romulus","Remus"]],
+    ["Wie hieß das gewählte Oberhaupt in der römischen Republik (je zwei pro Jahr)?", "Konsul"],
+    ["Wie hieß das Beratungsgremium der Adligen?", "Senat"],
+    ["Wie nannte man das gemeine Volk in Rom?", "Plebejer"],
+    ["Wie nannte man die Adligen in Rom?", "Patrizier"],
+    ["Welche Stadt war Roms große Rivalin in den Punischen Kriegen?", "Karthago"],
+    ["Wie hieß der berühmte karthagische Feldherr, der Elefanten über die Alpen führte?", "Hannibal"],
+    ["Wie hieß das zentrale Platz im antiken Rom?", ["Forum Romanum","Forum"]],
+    ["Wie viele Konsuln wurden pro Jahr gewählt?", "2"]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── GENERATOR 5: RÖMISCHES KAISERREICH ─────────────────────────────────────
 
-function generateRomKaiserreich(): CurriculumMCQ[] {
+function generateRomKaiserreich(): CurriculumQuestion[] {
   const rng = mulberry32(1005);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "rom_kaiserreich";
 
@@ -1123,14 +1187,29 @@ function generateRomKaiserreich(): CurriculumMCQ[] {
     ["Ein Bogen über den Eingang zum Forum", "Ein Torbogen an der Stadtmauer", "Ein Brückenbogen über den Tiber"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer war der erste römische Kaiser?", "Augustus"],
+    ["Welcher Feldherr überschritt den Rubikon und wurde Diktator auf Lebenszeit?", ["Julius Caesar","Caesar"]],
+    ["Wie nannte man die lange Friedenszeit im Reich?", ["Pax Romana","Römischer Frieden"]],
+    ["Wie hieß der große Grenzwall im Norden der Provinzen?", "Limes"],
+    ["In welchem Jahr wurde Rom (Westreich) aufgelöst?", ["476","476 n. Chr."]],
+    ["Welches riesige Amphitheater steht noch in Rom?", ["Kolosseum","Colosseum"]],
+    ["Welche Straßen wurden berühmt und verbanden das Reich?", ["Römerstraßen","Römische Straßen"]],
+    ["Wer ließ das Kolosseum weiter ausbauen und eröffnen (Name der Kaiserdynastie)?", ["Flavier","Vespasian"]],
+    ["Welcher Kaiser erklärte das Christentum zur erlaubten Religion (Mailänder Vereinbarung)?", ["Konstantin","Konstantin der Große"]],
+    ["Wie hieß die Hauptstadt des Oströmischen Reiches?", ["Konstantinopel","Byzanz"]]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── GENERATOR 6: GERMANEN ───────────────────────────────────────────────────
 
-function generateGermanen(): CurriculumMCQ[] {
+function generateGermanen(): CurriculumQuestion[] {
   const rng = mulberry32(1006);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "germanen";
 
@@ -1326,14 +1405,29 @@ function generateGermanen(): CurriculumMCQ[] {
     ["Die Kelten hatten eine stärkere Armee als die Germanen", "Die Kelten glaubten an die gleichen Götter", "Kelten und Germanen waren dasselbe Volk"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt der Grenzwall zwischen Römern und Germanen?", "Limes"],
+    ["In welcher Schlacht besiegten die Germanen 9 n. Chr. drei römische Legionen?", ["Varusschlacht","Schlacht im Teutoburger Wald"]],
+    ["Wie hieß der cheruskische Anführer in der Varusschlacht?", ["Arminius","Hermann"]],
+    ["Welcher römische Feldherr verlor die Legionen im Teutoburger Wald?", "Varus"],
+    ["Wie nennt man die Gruppe freier Männer, die gemeinsam Entscheidungen trafen?", ["Thing","Volksversammlung"]],
+    ["Welcher germanische Gott entspricht etwa dem römischen Jupiter?", ["Wotan","Odin"]],
+    ["Wie heißen die germanischen Schriftzeichen?", "Runen"],
+    ["Wie nannten die Römer alle Völker jenseits des Rheins?", "Germanen"],
+    ["Welches Metall lernten die Germanen meisterhaft zu verarbeiten?", "Eisen"],
+    ["Welcher berühmte römische Historiker schrieb über die Germanen?", "Tacitus"]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── GENERATOR 7: VÖLKERWANDERUNG ────────────────────────────────────────────
 
-function generateVoelkerwanderung(): CurriculumMCQ[] {
+function generateVoelkerwanderung(): CurriculumQuestion[] {
   const rng = mulberry32(1007);
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
   const T = "Geschichte";
   const S = "voelkerwanderung";
 
@@ -1531,12 +1625,27 @@ function generateVoelkerwanderung(): CurriculumMCQ[] {
     ["Die Vandalen brannten die Bibliothek Alexandria nieder", "Die Vandalen zerstörten den Limes", "Die Vandalen plünderten Konstantinopel"],
     rng));
 
+
+  const typingPool: [string, string | string[]][] = [
+    ["Welches Reiternomadenvolk löste um 375 die Völkerwanderung aus?", "Hunnen"],
+    ["Wie hieß der berühmteste Hunnenkönig?", ["Attila","Etzel"]],
+    ["In welchem Jahr endete das Weströmische Reich?", ["476","476 n. Chr."]],
+    ["Welcher Germanenkönig setzte 476 den letzten weströmischen Kaiser ab?", "Odoaker"],
+    ["Wie hieß der letzte weströmische Kaiser?", ["Romulus Augustulus","Romulus"]],
+    ["Welches Germanenvolk plünderte 455 Rom? (Daher kommt das Wort Vandalismus.)", "Vandalen"],
+    ["Welches Germanenvolk gründete ein Reich in Hispanien (heutiges Spanien)?", ["Westgoten","Visigoten"]],
+    ["Welches Germanenvolk gründete das Frankenreich unter Chlodwig?", "Franken"],
+    ["Wie heißt die heutige Stadt, die früher Konstantinopel hieß?", "Istanbul"],
+    ["Auf welchem Halbinsel eroberten die Ostgoten ein Reich?", ["Italien","Apenninhalbinsel"]]
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
   return shuffle(qs, rng);
 }
 
 // ─── EXPORT ──────────────────────────────────────────────────────────────────
 
-export const G5_Generators_Geschichte: Record<string, () => CurriculumMCQ[]> = {
+export const G5_Generators_Geschichte: Record<string, () => CurriculumQuestion[]> = {
   fruehe_hochkulturen: generateFrueheHochkulturen,
   aegypten: generateAegypten,
   griechenland: generateGriechenland,
