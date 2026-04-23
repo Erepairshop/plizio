@@ -2190,13 +2190,13 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               key={oi}
                               onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
                               disabled={submitted}
-                              style={{ height: 28, lineHeight: '28px' }}
-                              className={`w-full text-left flex items-center gap-1.5 px-1 text-sm transition-colors ${rowCls}`}
+                              style={{ minHeight: 28, lineHeight: '28px' }}
+                              className={`w-full text-left flex items-start gap-1.5 px-1 py-0 text-sm transition-colors ${rowCls}`}
                             >
-                              <span className={`font-mono text-xs w-5 text-right shrink-0 ${labelCls}`}>
+                              <span className={`font-mono text-xs w-5 text-right shrink-0 ${labelCls}`} style={{ lineHeight: '28px' }}>
                                 {String.fromCharCode(65 + oi)})
                               </span>
-                              {opt}
+                              <span className="flex-1 break-words" style={{ lineHeight: '28px' }}>{opt}</span>
                             </button>
                           );
                         })}
