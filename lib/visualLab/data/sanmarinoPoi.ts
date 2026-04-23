@@ -56,13 +56,185 @@ export const sanmarinoCountry: POI = {
   image: "/geo-images/sanmarino/country-sanmarino.webp"
 };
 
-export const sanmarinoRegions: POI[] = [];
+export const sanmarinoRegions: POI[] = [
+  {
+    id: "SM-001",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4828, 43.9686],
+    name: { de: "Serravalle", hu: "Serravalle", ro: "Serravalle", en: "Serravalle" },
+    description: {
+      de: "Die nördlichste und bevölkerungsreichste Gemeinde von San Marino.",
+      hu: "San Marino legészakibb és legnépesebb községe.",
+      ro: "Cea mai nordică și mai populată comună din San Marino.",
+      en: "The northernmost and most populous municipality of San Marino."
+    },
+    facts: {
+      de: ["Größte Gemeinde des Landes.", "Wichtiges Industriezentrum.", "Beherbergt das Dorf Dogana."],
+      hu: ["Az ország legnagyobb községe.", "Fontos ipari központ.", "Itt található Dogana faluja."],
+      ro: ["Cea mai mare comună a țării.", "Important centru industrial.", "Găzduiește satul Dogana."],
+      en: ["Largest municipality in the country.", "Important industrial center.", "Includes the village of Dogana."]
+    }
+  },
+  {
+    id: "SM-002",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4683, 43.9486],
+    name: { de: "Domagnano", hu: "Domagnano", ro: "Domagnano", en: "Domagnano" },
+    description: {
+      de: "Eine Gemeinde im Osten San Marinos, bekannt für ihre landwirtschaftliche Bedeutung.",
+      hu: "Község San Marino keleti részén, mezőgazdasági jelentőségéről ismert.",
+      ro: "O comună în estul San Marino, cunoscută pentru importanța sa agricolă.",
+      en: "A municipality in eastern San Marino, known for its agricultural importance."
+    },
+    facts: {
+      de: ["Berühmt für den Schatzfund von Domagnano.", "Bietet weite Ausblicke auf die Adria.", "Sitz der Burg Montelupo."],
+      hu: ["Híres a domagnanói kincsleletről.", "Tágas kilátást nyújt az Adriai-tengerre.", "Itt volt Montelupo vára."],
+      ro: ["Slăvită pentru descoperirea comorii din Domagnano.", "Oferă vederi largi spre Marea Adriatică.", "Sediul castelului Montelupo."],
+      en: ["Famous for the Domagnano Treasure find.", "Offers wide views of the Adriatic Sea.", "Seat of the Montelupo castle."]
+    }
+  },
+  {
+    id: "SM-003",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.498, 43.928],
+    name: { de: "Faetano", hu: "Faetano", ro: "Faetano", en: "Faetano" },
+    description: {
+      de: "Eine ruhige Gemeinde an der östlichen Grenze, geprägt von Natur und Landwirtschaft.",
+      hu: "Csendes község a keleti határon, természet és mezőgazdaság jellemzi.",
+      ro: "O comună liniștită la granița de est, caracterizată de natură și agricultură.",
+      en: "A quiet municipality on the eastern border, characterized by nature and agriculture."
+    },
+    facts: {
+      de: ["Wurde 1463 Teil der Republik.", "Beherbergt einen künstlichen See zum Angeln.", "Geprägt durch hügelige Landschaften."],
+      hu: ["1463-ban vált a köztársaság részévé.", "Itt található egy mesterséges horgásztó.", "Dombos tájak jellemzik."],
+      ro: ["A devenit parte a republicii în 1463.", "Găzduiește un lac artificial pentru pescuit.", "Caracterizată de peisaje deluroase."],
+      en: ["Became part of the republic in 1463.", "Home to an artificial lake for fishing.", "Characterized by hilly landscapes."]
+    }
+  },
+  {
+    id: "SM-004",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.481, 43.908],
+    name: { de: "Montegiardino", hu: "Montegiardino", ro: "Montegiardino", en: "Montegiardino" },
+    description: {
+      de: "Die kleinste Gemeinde San Marinos, bekannt für ihr gut erhaltenes mittelalterliches Zentrum.",
+      hu: "San Marino legkisebb községe, jól megőrzött középkori központjáról ismert.",
+      ro: "Cea mai mică comună din San Marino, cunoscută pentru centrul său medieval bine conservat.",
+      en: "The smallest municipality in San Marino, known for its well-preserved medieval center."
+    },
+    facts: {
+      de: ["Sitz der Universität von San Marino.", "Hatte früher eine strategische Festung.", "Sehr malerische, enge Gassen."],
+      hu: ["A San Marinó-i Egyetem székhelye.", "Korábban stratégiai erődítménye volt.", "Nagyon festői, szűk utcák."],
+      ro: ["Sediul Universității din San Marino.", "Avea în trecut o fortăreață strategică.", "Străduțe înguste foarte pitorești."],
+      en: ["Seat of the University of San Marino.", "Formerly had a strategic fortress.", "Very picturesque, narrow streets."]
+    }
+  },
+  {
+    id: "SM-005",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4578, 43.9103],
+    name: { de: "Fiorentino", hu: "Fiorentino", ro: "Fiorentino", en: "Fiorentino" },
+    description: {
+      de: "Eine historische Gemeinde, die im 15. Jahrhundert eingegliedert wurde.",
+      hu: "Történelmi község, amelyet a 15. században csatoltak a köztársasághoz.",
+      ro: "O comună istorică anexată în secolul al XV-lea.",
+      en: "A historic municipality annexed in the 15th century."
+    },
+    facts: {
+      de: ["Bekannt für die Ruinen der Malatesta-Burg.", "Wichtig für den lokalen Weinbau.", "Bietet schöne Wanderwege."],
+      hu: ["A Malatesta-vár romjairól ismert.", "Fontos a helyi bortermelés számára.", "Szép túraútvonalakat kínál."],
+      ro: ["Cunoscută pentru ruinele castelului Malatesta.", "Importantă pentru viticultura locală.", "Oferă trasee frumoase de drumeție."],
+      en: ["Known for the ruins of the Malatesta castle.", "Important for local viticulture.", "Offers beautiful hiking trails."]
+    }
+  },
+  {
+    id: "SM-006",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.421, 43.904],
+    name: { de: "Chiesanuova", hu: "Chiesanuova", ro: "Chiesanuova", en: "Chiesanuova" },
+    description: {
+      de: "Eine ruhige ländliche Gemeinde im Südwesten San Marinos.",
+      hu: "Csendes vidéki község San Marino délnyugati részén.",
+      ro: "O comună rurală liniştită în sud-vestul San Marino.",
+      en: "A quiet rural municipality in the southwest of San Marino."
+    },
+    facts: {
+      de: ["Bekannt für seine Kiefernwälder.", "Liegt an der Grenze zur italienischen Region Marken.", "Beliebt für Naturtourismus."],
+      hu: ["Fenyőerdőiről ismert.", "Az olaszországi Marche régió határán fekszik.", "Népszerű a természetjárók körében."],
+      ro: ["Cunoscută pentru pădurile sale de pini.", "Situată la graniţa cu regiunea italiană Marche.", "Populară pentru turismul de natură."],
+      en: ["Known for its pine forests.", "Located on the border with the Italian Marche region.", "Popular for nature tourism."]
+    }
+  },
+  {
+    id: "SM-007",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4464, 43.9317],
+    name: { de: "San Marino", hu: "San Marino", ro: "San Marino", en: "San Marino" },
+    description: {
+      de: "Die zentrale Gemeinde und Hauptstadt auf dem Monte Titano.",
+      hu: "A központi község és főváros a Titano-hegyen.",
+      ro: "Comuna centrală şi capitala situată pe Muntele Titano.",
+      en: "The central municipality and capital city on Mount Titano."
+    },
+    facts: {
+      de: ["Historisches Zentrum der Republik.", "UNESCO-Welterbe.", "Sitz aller staatlichen Institutionen."],
+      hu: ["A köztársaság történelmi központja.", "UNESCO világörökség.", "Az összes állami intézmény székhelye."],
+      ro: ["Centrul istoric al republicii.", "Patrimoniu Mondial UNESCO.", "Sediul tuturor instituţiilor statului."],
+      en: ["Historic center of the republic.", "UNESCO World Heritage site.", "Seat of all state institutions."]
+    }
+  },
+  {
+    id: "SM-008",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4181, 43.9458],
+    name: { de: "Acquaviva", hu: "Acquaviva", ro: "Acquaviva", en: "Acquaviva" },
+    description: {
+      de: "Eine westliche Gemeinde, die für ihre natürlichen Quellen bekannt ist.",
+      hu: "Nyugati község, amely természetes forrásairól ismert.",
+      ro: "O comună vestică cunoscută pentru izvoarele sale naturale.",
+      en: "A western municipality known for its natural springs."
+    },
+    facts: {
+      de: ["Hier suchte der Heilige Marinus Zuflucht.", "Verfügt über einen modernen Motocross-Parcours.", "Reich an lokaler Flora."],
+      hu: ["Szent Marinus itt keresett menedéket.", "Modern motocross pályával rendelkezik.", "Gazdag helyi flórával bír."],
+      ro: ["Sfântul Marinus a căutat refugiu aici.", "Dispune de un circuit modern de motocross.", "Bogată în floră locală."],
+      en: ["Saint Marinus sought refuge here.", "Features a modern motocross track.", "Rich in local flora."]
+    }
+  },
+  {
+    id: "SM-009",
+    type: "region",
+    parent: "country-sanmarino",
+    coords: [12.4419, 43.9406],
+    name: { de: "Borgo Maggiore", hu: "Borgo Maggiore", ro: "Borgo Maggiore", en: "Borgo Maggiore" },
+    description: {
+      de: "Das wirtschaftliche Zentrum am Fuße des Monte Titano.",
+      hu: "Gazdasági központ a Titano-hegy lábánál.",
+      ro: "Centrul economic de la poalele Muntelui Titano.",
+      en: "The economic center at the foot of Mount Titano."
+    },
+    facts: {
+      de: ["Wichtigster Marktplatz seit Jahrhunderten.", "Talstation der Seilbahn.", "Historisches Zentrum unter Denkmalschutz."],
+      hu: ["Évszázadok óta a legfontosabb piactér.", "A drótkötélpálya völgyállomása.", "Műemlékvédelmi történelmi központ."],
+      ro: ["Cea mai importantă piaţă de secole.", "Staţia de bază a telecabinei.", "Centru istoric protejat."],
+      en: ["Most important marketplace for centuries.", "Lower station of the cable car.", "Protected historic center."]
+    }
+  }
+];
 
 export const sanmarinoCities: POI[] = [
   {
     id: "city-san-marino",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4464, 43.9317],
     name: {
       de: "Stadt San Marino",
@@ -107,7 +279,7 @@ export const sanmarinoCities: POI[] = [
   {
     id: "city-serravalle",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-001",
     coords: [12.4828, 43.9686],
     name: {
       de: "Serravalle",
@@ -152,7 +324,7 @@ export const sanmarinoCities: POI[] = [
   {
     id: "city-borgo-maggiore",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-009",
     coords: [12.4419, 43.9406],
     name: {
       de: "Borgo Maggiore",
@@ -182,7 +354,7 @@ export const sanmarinoCities: POI[] = [
       ro: [
         "O piață tradițională are loc aici în fiecare joi.",
         "O telecabină leagă Borgo Maggiore de Orașul San Marino.",
-        "Orașul este cunoscut pentru clopotnițele sale istorice.",
+        "Orașul ist cunoscut pentru clopotnițele sale istorice.",
         "A fost cunoscut anterior sub numele de 'Mercatale'."
       ],
       en: [
@@ -197,7 +369,7 @@ export const sanmarinoCities: POI[] = [
   {
     id: "city-domagnano",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-002",
     coords: [12.4683, 43.9486],
     name: {
       de: "Domagnano",
@@ -240,9 +412,47 @@ export const sanmarinoCities: POI[] = [
     image: "/geo-images/sanmarino/city-domagnano.webp"
   },
   {
+    id: "city-faetano",
+    type: "city",
+    parent: "SM-003",
+    coords: [12.498, 43.928],
+    name: { de: "Faetano", hu: "Faetano", ro: "Faetano", en: "Faetano" },
+    description: {
+      de: "Ein malerisches Dorf in der Gemeinde Faetano.",
+      hu: "Festői falu Faetano községben.",
+      ro: "Un sat pitoresc în comuna Faetano.",
+      en: "A picturesque village in the municipality of Faetano."
+    },
+    facts: {
+      de: ["Bekannt für seine ruhige Atmosphäre.", "Historisches Zentrum mit Charme.", "Umgeben von Natur."],
+      hu: ["Nyugodt légköréről ismert.", "Bájos történelmi központ.", "Természet veszi körül."],
+      ro: ["Cunoscut pentru atmosfera sa liniştită.", "Centru istoric cu farmec.", "Înconjurat de natură."],
+      en: ["Known for its peaceful atmosphere.", "Charming historic center.", "Surrounded by nature."]
+    }
+  },
+  {
+    id: "city-montegiardino",
+    type: "city",
+    parent: "SM-004",
+    coords: [12.481, 43.908],
+    name: { de: "Montegiardino", hu: "Montegiardino", ro: "Montegiardino", en: "Montegiardino" },
+    description: {
+      de: "Ein historisches Dorf, das seinen mittelalterlichen Grundriss bewahrt hat.",
+      hu: "Történelmi falu, amely megőrizte középkori alaprajzát.",
+      ro: "Un sat istoric care şi-a păstrat structura medievală.",
+      en: "A historic village that has preserved its medieval layout."
+    },
+    facts: {
+      de: ["Beherbergt einen Teil der Universität.", "Schöne alte Steinarchitektur.", "Bietet weite Ausblicke."],
+      hu: ["Az egyetem egy részének ad otthont.", "Gyönyörű régi kőépítészet.", "Széles kilátást nyújt."],
+      ro: ["Găzduieşte o parte a universităţii.", "Arhitectură veche din piatră frumoasă.", "Oferă vederi largi."],
+      en: ["Houses part of the university.", "Beautiful old stone architecture.", "Offers expansive views."]
+    }
+  },
+  {
     id: "city-fiorentino",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-005",
     coords: [12.4578, 43.9103],
     name: {
       de: "Fiorentino",
@@ -253,21 +463,40 @@ export const sanmarinoCities: POI[] = [
     description: {
       de: "Fiorentino ist eine der neun Gemeinden von San Marino und war einst eine wichtige Festung.",
       hu: "Fiorentino San Marino kilenc községének egyike, amely egykor fontos erődítmény volt.",
-      ro: "Fiorentino este una dintre cele nouă comune din San Marino și a fost cândva o cetate importantă.",
+      ro: "Fiorentino este una dintre cele nouă comune din San Marino şi a fost cândva o cetate importantă.",
       en: "Fiorentino is one of the nine municipalities of San Marino and was once an important fortress."
     },
     facts: {
       de: ["Im Mittelalter als 'Castellaccio' (große Festung) bekannt."],
       hu: ["A középkorban 'Castellaccio' (nagy erőd) néven ismerték."],
-      ro: ["Cunoscută în Evul Mediu ca 'Castellaccio' (marea fortăreață)."],
+      ro: ["Cunoscută în Evul Mediu ca 'Castellaccio' (marea fortăreaţă)."],
       en: ["Known in the Middle Ages as 'Castellaccio' (great fortress)."]
     },
     image: "/geo-images/sanmarino/city-fiorentino.webp"
   },
   {
+    id: "city-chiesanuova",
+    type: "city",
+    parent: "SM-006",
+    coords: [12.421, 43.904],
+    name: { de: "Chiesanuova", hu: "Chiesanuova", ro: "Chiesanuova", en: "Chiesanuova" },
+    description: {
+      de: "Ein ruhiges Dorf im Südwesten des Landes.",
+      hu: "Csendes falu az ország délnyugati részén.",
+      ro: "Un sat liniştit în sud-vestul ţării.",
+      en: "A quiet village in the southwest of the country."
+    },
+    facts: {
+      de: ["Ehemals als Busignano bekannt.", "Hat eine enge Verbindung zur Landwirtschaft.", "Sehr friedliche Umgebung."],
+      hu: ["Korábban Busignano néven volt ismert.", "Szoros kapcsolata van a mezőgazdasággal.", "Nagyon békés környezet."],
+      ro: ["Cunoscut anterior sub numele de Busignano.", "Are o legătură strânsă cu agricultura.", "Mediu foarte liniştit."],
+      en: ["Formerly known as Busignano.", "Has a close connection to agriculture.", "Very peaceful environment."]
+    }
+  },
+  {
     id: "city-acquaviva",
     type: "city",
-    parent: "country-sanmarino",
+    parent: "SM-008",
     coords: [12.4181, 43.9458],
     name: {
       de: "Acquaviva",
@@ -295,7 +524,7 @@ export const sanmarinoCulture: POI[] = [
   {
     id: "cult-guaita",
     type: "landmark",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4485, 43.9360],
     name: {
       de: "Guaita (Erster Turm)",
@@ -306,7 +535,7 @@ export const sanmarinoCulture: POI[] = [
     description: {
       de: "Der Guaita ist der älteste und größte der drei Türme auf dem Monte Titano, der im 11. Jahrhundert erbaut wurde.",
       hu: "A Guaita a Titano-hegy három tornya közül a legrégebbi és a legnagyobb, a 11. században épült.",
-      ro: "Guaita este cel mai vechi și cel mai mare dintre cele trei turnuri de pe Muntele Titano, construit în secolul al XI-lea.",
+      ro: "Guaita este cel mai vechi și cel mai mare dintre cele drei turnuri de pe Muntele Titano, construit în secolul al XI-lea.",
       en: "The Guaita is the oldest and largest of the three towers on Mount Titano, built in the 11th century."
     },
     facts: {
@@ -340,7 +569,7 @@ export const sanmarinoCulture: POI[] = [
   {
     id: "cult-cesta",
     type: "landmark",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4490, 43.9320],
     name: {
       de: "Cesta (Zweiter Turm)",
@@ -385,7 +614,7 @@ export const sanmarinoCulture: POI[] = [
   {
     id: "cult-montale",
     type: "landmark",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4498, 43.9295],
     name: {
       de: "Montale (Dritter Turm)",
@@ -430,7 +659,7 @@ export const sanmarinoCulture: POI[] = [
   {
     id: "cult-palazzo-pubblico",
     type: "landmark",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4466, 43.9366],
     name: {
       de: "Palazzo Pubblico",
@@ -441,7 +670,7 @@ export const sanmarinoCulture: POI[] = [
     description: {
       de: "Das Rathaus von San Marino und das offizielle Regierungsgebäude, in dem Zeremonien und Staatstreffen stattfinden.",
       hu: "San Marino városházája és a hivatalos kormányépület, ahol ceremóniákat és állami találkozókat tartanak.",
-      ro: "Primăria orașului San Marino și clădirea oficială a guvernului, unde au loc ceremoniile și întâlnirile de stat.",
+      ro: "Primăria oraşului San Marino şi clădirea oficială a guvernului, unde au loc ceremoniile şi întâlnirile de stat.",
       en: "The town hall of San Marino and official Government Building, where ceremonies and state meetings are held."
     },
     facts: {
@@ -458,9 +687,9 @@ export const sanmarinoCulture: POI[] = [
         "Itt tartják az őrségváltást."
       ],
       ro: [
-        "Proiectat de arhitectul roman Francesco Azzurri la sfârșitul secolului al XIX-lea.",
-        "Stilul arhitectural gotic seamănă cu Palazzo Vecchio din Florența.",
-        "În fața clădirii se află Piazza della Libertà.",
+        "Proiectat de arhitectul roman Francesco Azzurri la sfârşitul secolului al XIX-lea.",
+        "Stilul arhitectural gotic seamănă cu Palazzo Vecchio din Florenţa.",
+        "În faţa clădirii se află Piazza della Libertà.",
         "Aici are loc schimbarea gărzii."
       ],
       en: [
@@ -475,7 +704,7 @@ export const sanmarinoCulture: POI[] = [
   {
     id: "cult-basilica-di-san-marino",
     type: "historical",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.4463, 43.9372],
     name: {
       de: "Basilica di San Marino",
@@ -486,7 +715,7 @@ export const sanmarinoCulture: POI[] = [
     description: {
       de: "Die Hauptkirche der Republik San Marino, die dem Heiligen Marinus, dem Gründer und Schutzpatron, gewidmet ist.",
       hu: "A San Marino Köztársaság fő temploma, amelyet a szerzetes és alapító Szent Marinusznak szenteltek.",
-      ro: "Principala biserică din Republica San Marino, dedicată Sfântului Marinus, fondatorul și patronul spiritual.",
+      ro: "Principala biserică din Republica San Marino, dedicată Sfântului Marinus, fondatorul şi patronul spiritual.",
       en: "The main church of the Republic of San Marino, dedicated to Saint Marinus, the founder and patron saint."
     },
     facts: {
@@ -504,9 +733,9 @@ export const sanmarinoCulture: POI[] = [
       ],
       ro: [
         "Construită în secolul al XIX-lea în stil neoclasic.",
-        "Moaștele Sfântului Marinus se odihnesc sub altar.",
-        "Înlocuiește o biserică mai veche din secolul al IV-lea.",
-        "Biserica decorează moneda de 10 cenți din San Marino."
+        "Moaştele Sfântului Marinus se odihnesc sub altar.",
+        "Înlocuieşte o biserică mai veche din secolul al IV-lea.",
+        "Biserica decorează moneda de 10 cenţi din San Marino."
       ],
       en: [
         "Built in the 19th century in the neoclassical style.",
@@ -516,6 +745,30 @@ export const sanmarinoCulture: POI[] = [
       ]
     },
     image: "/geo-images/sanmarino/cult-basilica-di-san-marino.webp"
+  },
+  {
+    id: "cult-chiesa-fiorentino",
+    type: "landmark",
+    parent: "SM-005",
+    coords: [12.455, 43.912],
+    name: {
+      de: "Kirche San Giovanni Battista",
+      hu: "Keresztelő Szent János-templom",
+      ro: "Biserica Sfântul Ioan Botezătorul",
+      en: "Church of Saint John the Baptist"
+    },
+    description: {
+      de: "Die wichtigste Kirche in Fiorentino, bekannt für ihre Architektur.",
+      hu: "Fiorentino legfontosabb temploma, építészetéről ismert.",
+      ro: "Principala biserică din Fiorentino, cunoscută pentru arhitectura sa.",
+      en: "The main church in Fiorentino, known for its architecture."
+    },
+    facts: {
+      de: ["Im 20. Jahrhundert wiederaufgebaut.", "Zentrum des religiösen Lebens in Fiorentino.", "Schlichte, elegante Fassade."],
+      hu: ["A 20. században építették újjá.", "Fiorentino vallási életének központja.", "Egyszerű, elegáns homlokzat."],
+      ro: ["Reconstruită în secolul XX.", "Centrul vieţii religioase din Fiorentino.", "Faţadă simplă şi elegantă."],
+      en: ["Rebuilt in the 20th century.", "Center of religious life in Fiorentino.", "Simple, elegant facade."]
+    }
   }
 ];
 
@@ -523,7 +776,7 @@ export const sanmarinoNature: POI[] = [
   {
     id: "nat-monte-titano",
     type: "mountain",
-    parent: "country-sanmarino",
+    parent: "SM-007",
     coords: [12.45, 43.9314],
     name: {
       de: "Monte Titano",
@@ -568,7 +821,7 @@ export const sanmarinoNature: POI[] = [
   {
     id: "nat-parco-ausa",
     type: "nature",
-    parent: "country-sanmarino",
+    parent: "SM-001",
     coords: [12.4781, 43.9664],
     name: {
       de: "Ausa-Park",
@@ -585,7 +838,7 @@ export const sanmarinoNature: POI[] = [
     facts: {
       de: ["Der Park bietet viele Sport- und Freizeiteinrichtungen."],
       hu: ["A park számos sport- és szabadidős létesítményt kínál."],
-      ro: ["Parcul oferă multe facilități sportive și de agrement."],
+      ro: ["Parcul oferă multe facilităţi sportive şi de agrement."],
       en: ["The park offers many sports and recreational facilities."]
     },
     image: "/geo-images/sanmarino/nat-parco-ausa.webp"
@@ -593,7 +846,7 @@ export const sanmarinoNature: POI[] = [
   {
     id: "nat-sentiero-rupe",
     type: "nature",
-    parent: "country-sanmarino",
+    parent: "SM-009",
     coords: [12.4430, 43.9350],
     name: {
       de: "Rupe-Wanderweg",
@@ -614,6 +867,78 @@ export const sanmarinoNature: POI[] = [
       en: ["The trail passes through dense forests and features steep cliff faces."]
     },
     image: "/geo-images/sanmarino/nat-sentiero-rupe.webp"
+  },
+  {
+    id: "nat-lago-faetano",
+    type: "nature",
+    parent: "SM-003",
+    coords: [12.508, 43.931],
+    name: {
+      de: "See von Faetano",
+      hu: "Faetanói-tó",
+      ro: "Lacul Faetano",
+      en: "Faetano Lake"
+    },
+    description: {
+      de: "Ein künstlicher See in der Gemeinde Faetano, beliebt zum Sportfischen.",
+      hu: "Mesterséges tó Faetano községben, népszerű a sporthorgászok körében.",
+      ro: "Un lac artificial în comuna Faetano, popular pentru pescuitul sportiv.",
+      en: "An artificial lake in the municipality of Faetano, popular for sport fishing."
+    },
+    facts: {
+      de: ["Ruhiger Ort für Picknicks.", "Regelmäßige Angelwettbewerbe.", "Kleine Oase der Ruhe."],
+      hu: ["Nyugodt hely piknikezéshez.", "Rendszeres horgászversenyek.", "A nyugalom kis oázisa."],
+      ro: ["Loc liniştit pentru picnicuri.", "Competiţii regulate de pescuit.", "Mică oază de linişte."],
+      en: ["Quiet spot for picnics.", "Regular fishing competitions.", "Small oasis of peace."]
+    }
+  },
+  {
+    id: "nat-pineta-chiesanuova",
+    type: "nature",
+    parent: "SM-006",
+    coords: [12.415, 43.902],
+    name: {
+      de: "Kiefernwald von Chiesanuova",
+      hu: "Chiesanuovai fenyőerdő",
+      ro: "Pădurea de pini Chiesanuova",
+      en: "Chiesanuova Pine Forest"
+    },
+    description: {
+      de: "Ein geschütztes Waldgebiet, das ideal zum Wandern und Entspannen ist.",
+      hu: "Védett erdős terület, amely ideális túrázáshoz és kikapcsolódáshoz.",
+      ro: "O zonă forestieră protejată, ideală pentru drumeţii şi relaxare.",
+      en: "A protected forested area ideal for hiking and relaxation."
+    },
+    facts: {
+      de: ["Heimat vieler lokaler Vogelarten.", "Bietet kühle Schatten im Sommer.", "Gut markierte Wanderwege."],
+      hu: ["Számos helyi madárfaj otthona.", "Hűvös árnyékot nyújt nyáron.", "Jól jelzett túraútvonalak."],
+      ro: ["Adăposteşte multe specii locale de păsări.", "Oferă umbră răcoroasă vara.", "Trasee de drumeţie bine marcate."],
+      en: ["Home to many local bird species.", "Offers cool shade in summer.", "Well-marked hiking trails."]
+    }
+  },
+  {
+    id: "nat-rupe-baldasserona",
+    type: "nature",
+    parent: "SM-008",
+    coords: [12.425, 43.948],
+    name: {
+      de: "Rupe della Baldasserona",
+      hu: "Baldasserona-szikla",
+      ro: "Stânca Baldasserona",
+      en: "Baldasserona Cliff"
+    },
+    description: {
+      de: "Ein historisch bedeutender Felsen, an dem der Heilige Marinus laut Überlieferung lebte.",
+      hu: "Történelmileg jelentős szikla, ahol a hagyomány szerint Szent Marinus élt.",
+      ro: "O stâncă de importanţă istorică unde, conform tradiţiei, a trăit Sfântul Marinus.",
+      en: "A historically significant cliff where Saint Marinus is said to have lived."
+    },
+    facts: {
+      de: ["Religiöser Wallfahrtsort.", "Beeindruckende geologische Formation.", "Bietet Blick auf das Marecchia-Tal."],
+      hu: ["Vallási zarándokhely.", "Lenyűgöző geológiai képződmény.", "Kilátást nyújt a Marecchia-völgyre."],
+      ro: ["Loc de pelerinaj religios.", "Formaţiune geologică impresionantă.", "Oferă vedere spre Valea Marecchia."],
+      en: ["Religious pilgrimage site.", "Impressive geological formation.", "Offers views of the Marecchia Valley."]
+    }
   }
 ];
 

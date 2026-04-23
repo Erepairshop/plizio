@@ -76,11 +76,131 @@ export const icelandCountry: POI = {
   image: "/geo-images/iceland/country-iceland.webp"
 };
 
+export const icelandRegions: POI[] = [
+  {
+    id: "IS-001",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-14.5, 65.0],
+    name: { de: "Austurland", hu: "Austurland", ro: "Austurland", en: "Austurland" },
+    description: {
+      de: "Die Region der Ostfjorde, geprägt von tiefen Fjorden, steilen Bergen und abgelegenen Fischerdörfern.",
+      hu: "A Keleti-fjordok régiója, mély fjordok, meredek hegyek és elszigetelt halászfalvak jellemzik.",
+      ro: "Regiunea fiordurilor de est, caracterizată prin fiorduri adânci, munți abrupți și sate de pescari izolate.",
+      en: "The East Fjords region, characterized by deep fjords, steep mountains, and remote fishing villages."
+    }
+  },
+  {
+    id: "IS-002",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-19.0, 64.0],
+    name: { de: "Suðurland", hu: "Suðurland", ro: "Suðurland", en: "Suðurland" },
+    description: {
+      de: "Südisland beherbergt einige der berühmtesten Attraktionen des Landes, darunter den Golden Circle und riesige Wasserfälle.",
+      hu: "Dél-Izland ad otthont az ország leghíresebb látnivalóinak, köztük az Arany körútnak és hatalmas vízeséseknek.",
+      ro: "Islanda de Sud găzduiește unele dintre cele mai faimoase atracții ale țării, inclusiv Cercul de Aur și cascade uriașe.",
+      en: "South Iceland is home to some of the country's most famous attractions, including the Golden Circle and massive waterfalls."
+    }
+  },
+  {
+    id: "IS-003",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-22.5, 63.9],
+    name: { de: "Suðurnes", hu: "Suðurnes", ro: "Suðurnes", en: "Suðurnes" },
+    description: {
+      de: "Die Halbinsel Reykjanes, bekannt für ihre geothermische Aktivität und den internationalen Flughafen Keflavík.",
+      hu: "A Reykjanes-félsziget, amely geotermikus aktivitásáról és a keflavíki nemzetközi repülőtérről ismert.",
+      ro: "Peninsula Reykjanes, cunoscută pentru activitatea sa geotermală și aeroportul internațional Keflavík.",
+      en: "The Reykjanes Peninsula, known for its geothermal activity and the Keflavík International Airport."
+    }
+  },
+  {
+    id: "IS-004",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-21.9, 64.1],
+    name: { de: "Reykjavík", hu: "Reykjavík", ro: "Reykjavík", en: "Reykjavík" },
+    description: {
+      de: "Die Hauptstadtregion Reykjavík, das wirtschaftliche und kulturelle Zentrum Islands.",
+      hu: "Reykjavík fővárosi régiója, Izland gazdasági és kulturális központja.",
+      ro: "Regiunea capitalei Reykjavík, centrul economic și cultural al Islandei.",
+      en: "The Reykjavík capital region, the economic and cultural hub of Iceland."
+    }
+  },
+  {
+    id: "IS-005",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-21.8, 64.1],
+    name: { de: "Höfuðborgarsvæði", hu: "Höfuðborgarsvæði", ro: "Höfuðborgarsvæði", en: "Höfuðborgarsvæði" },
+    description: {
+      de: "Die Metropolregion um Reykjavík, in der der Großteil der isländischen Bevölkerung lebt.",
+      hu: "A Reykjavík környéki agglomeráció, ahol az izlandi lakosság többsége él.",
+      ro: "Regiunea metropolitană din jurul Reykjavík, unde trăiește majoritatea populației islandeze.",
+      en: "The metropolitan area around Reykjavík, where the majority of the Icelandic population resides."
+    }
+  },
+  {
+    id: "IS-006",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-22.0, 64.8],
+    name: { de: "Vesturland", hu: "Vesturland", ro: "Vesturland", en: "Vesturland" },
+    description: {
+      de: "Westisland, bekannt für die vielfältigen Landschaften der Halbinsel Snæfellsnes und historische Sagas.",
+      hu: "Nyugat-Izland, amely a Snæfellsnes-félsziget változatos tájairól és történelmi szagáiról ismert.",
+      ro: "Islanda de Vest, cunoscută pentru peisajele diverse ale peninsulei Snæfellsnes și saga istorice.",
+      en: "West Iceland, known for the diverse landscapes of the Snæfellsnes Peninsula and historical sagas."
+    }
+  },
+  {
+    id: "IS-007",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-23.0, 65.8],
+    name: { de: "Vestfirðir", hu: "Vestfirðir", ro: "Vestfirðir", en: "Vestfirðir" },
+    description: {
+      de: "Die Westfjorde, eine der am dünnsten besiedelten und wildesten Regionen Islands.",
+      hu: "A Nyugati-fjordok, Izland egyik legritkábban lakott és legvadabb vidéke.",
+      ro: "Fiordurile de Vest, una dintre cele mai puțin populate și mai sălbatice regiuni ale Islandei.",
+      en: "The Westfjords, one of the most sparsely populated and wildest regions of Iceland."
+    }
+  },
+  {
+    id: "IS-008",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-20.0, 65.5],
+    name: { de: "Norðurland vestra", hu: "Norðurland vestra", ro: "Norðurland vestra", en: "Norðurland vestra" },
+    description: {
+      de: "Der Nordwesten Islands, geprägt von Landwirtschaft, Pferdezucht und weiten Tälern.",
+      hu: "Izland északnyugati része, mezőgazdaság, lótenyésztés és tágas völgyek jellemzik.",
+      ro: "Islanda de Nord-Vest, caracterizată prin agricultură, creșterea cailor și văi largi.",
+      en: "Northwest Iceland, characterized by agriculture, horse breeding, and wide valleys."
+    }
+  },
+  {
+    id: "IS-009",
+    type: "region",
+    parent: "country-iceland",
+    coords: [-17.5, 65.5],
+    name: { de: "Norðurland eystra", hu: "Norðurland eystra", ro: "Norðurland eystra", en: "Norðurland eystra" },
+    description: {
+      de: "Der Nordosten Islands mit der Stadt Akureyri und spektakulären vulkanischen Gebieten um Mývatn.",
+      hu: "Izland északkeleti része Akureyri városával és a Mývatn körüli látványos vulkáni területekkel.",
+      ro: "Islanda de Nord-Est, cu orașul Akureyri și zone vulcanice spectaculoase în jurul Mývatn.",
+      en: "Northeast Iceland, featuring the town of Akureyri and spectacular volcanic areas around Mývatn."
+    }
+  }
+];
+
 export const icelandCities: POI[] = [
   {
     id: "city-reykjavik",
     type: "city",
-    parent: "country-iceland",
+    parent: "IS-004",
     coords: [-21.9426, 64.1466],
     name: { de: "Reykjavík", hu: "Reykjavík", ro: "Reykjavík", en: "Reykjavík" },
     description: {
@@ -100,7 +220,7 @@ export const icelandCities: POI[] = [
   {
     id: "city-akureyri",
     type: "city",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-18.0878, 65.6835],
     name: { de: "Akureyri", hu: "Akureyri", ro: "Akureyri", en: "Akureyri" },
     description: {
@@ -119,7 +239,7 @@ export const icelandCities: POI[] = [
   {
     id: "city-keflavik",
     type: "city",
-    parent: "country-iceland",
+    parent: "IS-003",
     coords: [-22.5624, 64.0049],
     name: { de: "Keflavík", hu: "Keflavík", ro: "Keflavík", en: "Keflavík" },
     description: {
@@ -138,7 +258,7 @@ export const icelandCities: POI[] = [
   {
     id: "city-isafjordur",
     type: "city",
-    parent: "country-iceland",
+    parent: "IS-007",
     coords: [-23.1274, 66.0747],
     name: { de: "Ísafjörður", hu: "Ísafjörður", ro: "Ísafjörður", en: "Ísafjörður" },
     description: {
@@ -157,7 +277,7 @@ export const icelandCities: POI[] = [
   {
     id: "city-selfoss",
     type: "city",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-21.0011, 63.9331],
     name: { de: "Selfoss", hu: "Selfoss", ro: "Selfoss", en: "Selfoss" },
     description: {
@@ -172,6 +292,25 @@ export const icelandCities: POI[] = [
       ro: ["Cel mai mare oraș din sud.", "Centru important al industriei lactatelor.", "Situat pe drumul principal (Ring Road)."],
       en: ["Largest town in the south.", "Major hub for the dairy industry.", "Located on the Ring Road."]
     }
+  },
+  {
+    id: "city-seydisfjordur",
+    type: "city",
+    parent: "IS-001",
+    coords: [-14.0101, 65.2598],
+    name: { de: "Seyðisfjörður", hu: "Seyðisfjörður", ro: "Seyðisfjörður", en: "Seyðisfjörður" },
+    description: {
+      de: "Ein malerisches Fischerdorf in den Ostfjorden, bekannt für seine bunten Holzhäuser und seine Kunstszene.",
+      hu: "Festői halászfalu a Keleti-fjordokban, színes faházairól és művészeti életéről ismert.",
+      ro: "Un sat de pescari pitoresc din fiordurile de est, cunoscut pentru casele sale colorate din lemn și scena sa artistică.",
+      en: "A picturesque fishing village in the East Fjords, known for its colorful wooden houses and art scene."
+    },
+    facts: {
+      de: ["Ankunftsort der Fähre aus Dänemark und den Färöern.", "Bekannt für die blaue Kirche und den Regenbogenweg.", "Umgeben von steilen Bergen und Wasserfällen."],
+      hu: ["A Dániából és Feröer-szigetekről érkező komp kikötőhelye.", "Híres a kék templomáról és a szivárványos útjáról.", "Meredek hegyek és vízesések veszik körül."],
+      ro: ["Punctul de sosire a feribotului din Danemarca și Insulele Feroe.", "Cunoscut pentru biserica albastră și drumul curcubeului.", "Înconjurat de munți abrupți și cascade."],
+      en: ["Arrival point for the ferry from Denmark and the Faroe Islands.", "Famous for its blue church and rainbow-painted street.", "Surrounded by steep mountains and waterfalls."]
+    }
   }
 ];
 
@@ -179,7 +318,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-thingvellir",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-21.1295, 64.2559],
     name: { de: "Þingvellir Nationalpark", hu: "Þingvellir Nemzeti Park", ro: "Parcul Național Þingvellir", en: "Þingvellir National Park" },
     description: {
@@ -198,7 +337,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-gullfoss",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-20.1202, 64.3271],
     name: { de: "Gullfoss", hu: "Gullfoss", ro: "Gullfoss", en: "Gullfoss" },
     description: {
@@ -217,7 +356,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-geysir",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-20.3023, 64.3104],
     name: { de: "Geysir-Heißquellengebiet", hu: "Gejzír-hőforrásvidék", ro: "Zona geotermală Geysir", en: "Geysir Hot Spring Area" },
     description: {
@@ -236,7 +375,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-vatnajokull",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-001",
     coords: [-17.2, 64.4],
     name: { de: "Vatnajökull", hu: "Vatnajökull", ro: "Vatnajökull", en: "Vatnajökull" },
     description: {
@@ -255,7 +394,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-jokulsarlon",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-001",
     coords: [-16.1793, 64.0484],
     name: { de: "Jökulsárlón", hu: "Jökulsárlón", ro: "Jökulsárlón", en: "Jökulsárlón" },
     description: {
@@ -274,7 +413,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-skogafoss",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-19.5113, 63.532],
     name: { de: "Skógafoss", hu: "Skógafoss", ro: "Skógafoss", en: "Skógafoss" },
     description: {
@@ -293,7 +432,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-seljalandsfoss",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-19.9885, 63.6156],
     name: { de: "Seljalandsfoss", hu: "Seljalandsfoss", ro: "Seljalandsfoss", en: "Seljalandsfoss" },
     description: {
@@ -312,7 +451,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-reynisdrangar",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-19.032, 63.402],
     name: { de: "Reynisfjara & Reynisdrangar", hu: "Reynisfjara és Reynisdrangar", ro: "Reynisfjara și Reynisdrangar", en: "Reynisfjara & Reynisdrangar" },
     description: {
@@ -331,7 +470,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-landmannalaugar",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-19.0608, 63.9908],
     name: { de: "Landmannalaugar", hu: "Landmannalaugar", ro: "Landmannalaugar", en: "Landmannalaugar" },
     description: {
@@ -350,7 +489,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-dettifoss",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-16.3846, 65.8147],
     name: { de: "Dettifoss", hu: "Dettifoss", ro: "Dettifoss", en: "Dettifoss" },
     description: {
@@ -369,7 +508,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-myvatn",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-16.9961, 65.6039],
     name: { de: "Mývatn", hu: "Mývatn", ro: "Mývatn", en: "Mývatn" },
     description: {
@@ -388,7 +527,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-snaefellsjokull",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-006",
     coords: [-23.7766, 64.8081],
     name: { de: "Snæfellsjökull", hu: "Snæfellsjökull", ro: "Snæfellsjökull", en: "Snæfellsjökull" },
     description: {
@@ -407,12 +546,12 @@ export const icelandNature: POI[] = [
   {
     id: "nature-kirkjufell",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-006",
     coords: [-23.3113, 64.9417],
     name: { de: "Kirkjufell", hu: "Kirkjufell", ro: "Kirkjufell", en: "Kirkjufell" },
     description: {
       de: "Ein markanter Berg, der oft als der meistfotografierte Berg Islands bezeichnet wird.",
-      hu: "Jellegzetes hegy, amelyet gyakran Izland legtöbbet fényképezett hegyének neveznek.",
+      hu: "Jellegzetes hegy, amelyet gyakran Izland legtöbet fényképezett hegyének neveznek.",
       ro: "Un munte distinctiv, adesea numit cel mai fotografiat munte din Islanda.",
       en: "A distinctively shaped mountain, often called the most photographed mountain in Iceland."
     },
@@ -426,7 +565,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-godafoss",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-17.5502, 65.6828],
     name: { de: "Goðafoss", hu: "Goðafoss", ro: "Goðafoss", en: "Goðafoss" },
     description: {
@@ -445,7 +584,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-askja",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-16.75, 65.0333],
     name: { de: "Askja-Vulkan", hu: "Askja-vulkán", ro: "Vulcanul Askja", en: "Askja Volcano" },
     description: {
@@ -462,9 +601,9 @@ export const icelandNature: POI[] = [
     }
   },
   {
-    id: "city-husavik",
-    type: "city",
-    parent: "country-iceland",
+    id: "nature-husavik",
+    type: "landmark",
+    parent: "IS-009",
     coords: [-17.3383, 66.0449],
     name: { de: "Húsavík", hu: "Húsavík", ro: "Húsavík", en: "Húsavík" },
     description: {
@@ -483,7 +622,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-dyrholaey",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-19.1272, 63.3995],
     name: { de: "Dyrhólaey", hu: "Dyrhólaey", ro: "Dyrhólaey", en: "Dyrhólaey" },
     description: {
@@ -502,7 +641,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-hverir",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-16.8089, 65.6415],
     name: { de: "Hverir", hu: "Hverir", ro: "Hverir", en: "Hverir" },
     description: {
@@ -521,7 +660,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-latrabjarg",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-007",
     coords: [-24.53, 65.5],
     name: { de: "Látrabjarg", hu: "Látrabjarg", ro: "Látrabjarg", en: "Látrabjarg" },
     description: {
@@ -540,11 +679,11 @@ export const icelandNature: POI[] = [
   {
     id: "nature-fjaðrárgljúfur",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-18.1717, 63.7712],
     name: { de: "Fjaðrárgljúfur", hu: "Fjaðrárgljúfur", ro: "Fjaðrárgljúfur", en: "Fjaðrárgljúfur" },
     description: {
-      de: "Ein gewundener und tief峡谷 im Südosten Islands.",
+      de: "Ein gewundener und tiefer Canyon im Südosten Islands.",
       hu: "Kanyargós és mély szurdok Izland délkeleti részén.",
       ro: "Un canion șerpuitor și adânc în sud-estul Islandei.",
       en: "A winding and deep canyon in Southeast Iceland."
@@ -559,7 +698,7 @@ export const icelandNature: POI[] = [
   {
     id: "nature-viti",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-16.757, 65.047],
     name: { de: "Víti-Krater", hu: "Víti-kráter", ro: "Craterul Víti", en: "Víti Crater" },
     description: {
@@ -576,28 +715,9 @@ export const icelandNature: POI[] = [
     }
   },
   {
-    id: "city-vik",
-    type: "city",
-    parent: "country-iceland",
-    coords: [-19.0107, 63.4194],
-    name: { de: "Vík í Mýrdal", hu: "Vík í Mýrdal", ro: "Vík í Mýrdal", en: "Vík í Mýrdal" },
-    description: {
-      de: "Das südlichste Dorf auf dem isländischen Festland, bekannt für seine schwarzen Strände.",
-      hu: "Izland legdélibb települése a szárazföldön, fekete tengerpartjáról ismert.",
-      ro: "Cel mai sudic sat de pe continentul islandez, cunoscut pentru plajele sale negre.",
-      en: "The southernmost village on the Icelandic mainland, famous for its black beaches."
-    },
-    facts: {
-      de: ["Liegt direkt unter dem Vulkan Katla.", "Wichtigster Zwischenstopp an der Südküste.", "Hat eine ikonische rote Kirche auf dem Hügel."],
-      hu: ["Közvetlenül a Katla-vulkán alatt található.", "A déli part legfontosabb megállóhelye.", "Ikonikus piros tetős temploma van a dombtetőn."],
-      ro: ["Situat direct sub vulcanul Katla.", "Cel mai important punct de oprire pe coasta de sud.", "Are o biserică roșie emblematică pe deal."],
-      en: ["Located directly beneath the Katla volcano.", "Major stop on the South Coast.", "Has an iconic red-roofed church on a hill."]
-    }
-  },
-  {
     id: "nature-hvitserkur",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-008",
     coords: [-20.6352, 65.6063],
     name: { de: "Hvítserkur", hu: "Hvítserkur", ro: "Hvítserkur", en: "Hvítserkur" },
     description: {
@@ -612,6 +732,25 @@ export const icelandNature: POI[] = [
       ro: ["Legenda spune că este un trol pietrificat.", "A fost întărită cu beton pentru a rezista eroziunii.", "Un paradis pentru fotografi."],
       en: ["Legend says it's a petrified troll.", "Its base was reinforced with concrete to prevent erosion.", "A photographer's paradise."]
     }
+  },
+  {
+    id: "nature-perlan",
+    type: "landmark",
+    parent: "IS-005",
+    coords: [-21.9189, 64.1294],
+    name: { de: "Perlan", hu: "Perlan", ro: "Perlan", en: "Perlan" },
+    description: {
+      de: "Ein markantes Gebäude in Reykjavík mit einer Glaskuppel, das auf Warmwasserspeichern errichtet wurde.",
+      hu: "Jellegzetes üvegkupolás épület Reykjavíkban, amely melegvíz-tározókra épült.",
+      ro: "O clădire distinctivă din Reykjavík cu o cupolă de sticlă, construită pe rezervoare de apă caldă.",
+      en: "A landmark building in Reykjavík with a glass dome, built on top of hot water storage tanks."
+    },
+    facts: {
+      de: ["Beherbergt ein Naturkundemuseum und ein Planetarium.", "Bietet eine 360-Grad-Aussichtsplattform.", "Die Kuppel besteht aus über 1.000 Glasplatten."],
+      hu: ["Természettudományi múzeumnak és planetáriumnak ad otthont.", "360 fokos kilátóterasszal rendelkezik.", "A kupola több mint 1000 üveglapból áll."],
+      ro: ["Găzduiește un muzeu de istorie naturală și un planetariu.", "Oferă o platformă de observare la 360 de grade.", "Cupola este formată din peste 1.000 de panouri de sticlă."],
+      en: ["Houses a natural history museum and a planetarium.", "Features a 360-degree observation deck.", "The dome consists of over 1,000 glass panes."]
+    }
   }
 ];
 
@@ -619,7 +758,7 @@ export const icelandHistorical: POI[] = [
   {
     id: "hist-althingi",
     type: "historical",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-21.129, 64.256],
     name: { de: "Lögberg (Gesetzesberg)", hu: "Lögberg (Törvényszikla)", ro: "Lögberg", en: "Lögberg (Law Rock)" },
     description: {
@@ -638,7 +777,7 @@ export const icelandHistorical: POI[] = [
   {
     id: "hist-skalholt",
     type: "historical",
-    parent: "country-iceland",
+    parent: "IS-002",
     coords: [-20.5255, 64.1259],
     name: { de: "Skálholt", hu: "Skálholt", ro: "Skálholt", en: "Skálholt" },
     description: {
@@ -657,7 +796,7 @@ export const icelandHistorical: POI[] = [
   {
     id: "hist-hofsstadir",
     type: "historical",
-    parent: "country-iceland",
+    parent: "IS-009",
     coords: [-17.15, 65.6],
     name: { de: "Hofstaðir", hu: "Hofstaðir", ro: "Hofstaðir", en: "Hofstaðir" },
     description: {
@@ -672,6 +811,44 @@ export const icelandHistorical: POI[] = [
       ro: ["Una dintre cele mai mari case lungi găsite în Islanda.", "Probabil a servit și ca loc de adunare religioasă.", "Situat lângă lacul Mývatn."],
       en: ["One of the largest longhouses found in Iceland.", "Likely served as a religious meeting place.", "Located near Lake Mývatn."]
     }
+  },
+  {
+    id: "hist-glaumbaer",
+    type: "historical",
+    parent: "IS-008",
+    coords: [-19.505, 65.61],
+    name: { de: "Glaumbær", hu: "Glaumbær", ro: "Glaumbær", en: "Glaumbær" },
+    description: {
+      de: "Ein gut erhaltenes Ensemble aus traditionellen isländischen Torfhäusern.",
+      hu: "Jól megőrzött hagyományos izlandi tőzegmohás házak együttese.",
+      ro: "Un ansamblu bine conservat de case tradiționale islandeze din turbă.",
+      en: "A well-preserved ensemble of traditional Icelandic turf houses."
+    },
+    facts: {
+      de: ["Zeigt das bäuerliche Leben im 18. und 19. Jahrhundert.", "Die Wände bestehen aus geschichteten Torfstücken.", "Gehört zum Isländischen Nationalmuseum."],
+      hu: ["A 18. és 19. századi paraszti életet mutatja be.", "A falak rétegezett tőzegtéglákból állnak.", "Az Izlandi Nemzeti Múzeum része."],
+      ro: ["Prezintă viața rurală din secolele al XVIII-lea și al XIX-lea.", "Pereții sunt făcuți din straturi de turbă.", "Aparține Muzeului Național al Islandei."],
+      en: ["Showcases rural life in the 18th and 19th centuries.", "Walls are made of layered turf blocks.", "Part of the National Museum of Iceland."]
+    }
+  },
+  {
+    id: "hist-videy",
+    type: "historical",
+    parent: "IS-005",
+    coords: [-21.85, 64.16],
+    name: { de: "Insel Viðey", hu: "Viðey-sziget", ro: "Insula Viðey", en: "Viðey Island" },
+    description: {
+      de: "Eine historische Insel vor der Küste von Reykjavík, bekannt für Kunst und Geschichte.",
+      hu: "Történelmi sziget Reykjavík partjainál, művészetéről és történelméről ismert.",
+      ro: "O insulă istorică în largul coastei Reykjavík, cunoscută pentru artă și istorie.",
+      en: "A historic island off the coast of Reykjavík, known for its art and history."
+    },
+    facts: {
+      de: ["Standort des Imagine Peace Tower von Yoko Ono.", "Beherbergt eines der ältesten Steinhäuser Islands.", "Wichtiger Brutplatz für Vögel."],
+      hu: ["Itt található Yoko Ono 'Imagine Peace' tornya.", "Itt áll Izland egyik legrégebbi kőháza.", "Fontos madárfészkelő hely."],
+      ro: ["Locul turnului „Imagine Peace” al lui Yoko Ono.", "Găzduiește una dintre cele mai vechi case de piatră din Islanda.", "Loc important de cuibărit pentru păsări."],
+      en: ["Site of Yoko Ono's Imagine Peace Tower.", "Home to one of the oldest stone houses in Iceland.", "Important nesting site for birds."]
+    }
   }
 ];
 
@@ -679,11 +856,11 @@ export const icelandCulture: POI[] = [
   {
     id: "cult-hallgrimskirkja",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-004",
     coords: [-21.9266, 64.1417],
     name: { de: "Hallgrímskirkja", hu: "Hallgrímskirkja", ro: "Hallgrímskirkja", en: "Hallgrímskirkja" },
     description: {
-      de: "Die markante Kirche in Reykjavík, deren design an Basaltsäulen erinnert.",
+      de: "Die markante Kirche in Reykjavík, deren Design an Basaltsäulen erinnert.",
       hu: "Reykjavík jellegzetes temploma, amelynek kialakítása bazaltoszlopokra emlékeztet.",
       ro: "Biserica distinctivă din Reykjavík, al cărei design amintește de coloanele de bazalt.",
       en: "Reykjavík's landmark church, designed to resemble basalt lava columns."
@@ -698,7 +875,7 @@ export const icelandCulture: POI[] = [
   {
     id: "cult-harpa",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-004",
     coords: [-21.9325, 64.1504],
     name: { de: "Harpa Konzerthaus", hu: "Harpa Koncertterem", ro: "Harpa", en: "Harpa Concert Hall" },
     description: {
@@ -717,7 +894,7 @@ export const icelandCulture: POI[] = [
   {
     id: "cult-blue-lagoon",
     type: "landmark",
-    parent: "country-iceland",
+    parent: "IS-003",
     coords: [-22.4497, 63.8804],
     name: { de: "Blaue Lagune", hu: "Kék Lagúna", ro: "Laguna Albastră", en: "Blue Lagoon" },
     description: {
@@ -737,6 +914,7 @@ export const icelandCulture: POI[] = [
 
 export const icelandPois: POI[] = [
   icelandCountry,
+  ...icelandRegions,
   ...icelandCities,
   ...icelandNature,
   ...icelandHistorical,
