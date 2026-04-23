@@ -1,13 +1,14 @@
 import { pois as dePois, regions as deRegions, type POI } from "@/lib/visualLab/data/poi";
 import { romaniaAllPois, romaniaRegions } from "@/lib/visualLab/data/romaniaPoi";
 import { hungaryAllPoi, hungaryRegions } from "@/lib/visualLab/data/hungaryPoi";
+import { vaticanPois, vaticanCountry } from "@/lib/visualLab/data/vaticanPoi";
 import { slugify } from "@/lib/seo/slugify";
 
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 
-export const pois = [...dePois, ...romaniaAllPois, ...hungaryAllPoi];
+export const pois = [...dePois, ...romaniaAllPois, ...hungaryAllPoi, vaticanCountry, ...vaticanPois];
 export const regions = [...deRegions, ...romaniaRegions, ...hungaryRegions];
 
 export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
@@ -28,6 +29,12 @@ export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
     hu: "magyarorszag",
     ro: "ungaria",
     en: "hungary",
+  },
+  vatican: {
+    de: "vatikanstadt",
+    hu: "vatikan",
+    ro: "vatican",
+    en: "vatican",
   },
 };
 
@@ -169,6 +176,7 @@ export function getCountryId(id: string) {
   if (id.startsWith("DE-") || id === "DE") return "germany";
   if (id.startsWith("RO-") || id === "RO") return "romania";
   if (id === "HU" || regions.some(r => r.id === id && r.parent === "HU")) return "hungary";
+  if (id === "country-vatican" || id === "VA") return "vatican";
   return "germany";
 }
 

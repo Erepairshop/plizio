@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Interaktive Deutschlandkarte: Geographie, Geschichte & Sachkunde spielerisch lernen | PLIZIO Blog",
   description: "Mit der interaktiven Deutschlandkarte von PLIZIO lernen Kinder Bundesländer, Städte, Flüsse, Gebirge und historische Ereignisse – für Sachkunde, Geographie und Geschichte Klasse 3–8.",
-  alternates: { canonical: "https://plizio.com/blog/interaktive-karte-geographie-geschichte/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/interaktive-karte-geographie-geschichte/"),
+    canonical: "https://plizio.com/blog/interaktive-karte-geographie-geschichte/"
+  },
   openGraph: {
     title: "Interaktive Deutschlandkarte: Geographie, Geschichte & Sachkunde spielerisch lernen | PLIZIO Blog",
     description: "Mit der interaktiven Deutschlandkarte von PLIZIO lernen Kinder Bundesländer, Städte, Flüsse, Gebirge und historische Ereignisse – für Sachkunde, Geographie und Geschichte Klasse 3–8.",

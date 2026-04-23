@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Free Math Games for Kids – Best Browser Games, No Download | PLIZIO Blog",
   description:
     "The best free math games for kids that run in any browser – no app, no download, no sign-up. Reviewed for fun, learning value, and grade level.",
-  alternates: { canonical: "https://plizio.com/blog/free-math-games-kids/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/free-math-games-kids/"),
+    canonical: "https://plizio.com/blog/free-math-games-kids/"
+  },
   openGraph: {
     title: "Free Math Games for Kids – Best Browser Games, No Download | PLIZIO Blog",
     description:

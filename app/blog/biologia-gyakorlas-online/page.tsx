@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Biológia gyakorlás online: Ingyenes interaktív feladatok | PLIZIO Blog",
   description: "Biológia gyakorlás online: Fedezd fel a természet világát interaktív feladatokkal. Ingyenes tesztek, játékos tanulás minden korosztálynak.",
-  alternates: { canonical: "https://plizio.com/blog/biologia-gyakorlas-online/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/biologia-gyakorlas-online/"),
+    canonical: "https://plizio.com/blog/biologia-gyakorlas-online/"
+  },
   openGraph: {
     title: "Biológia gyakorlás online: Ingyenes interaktív feladatok | PLIZIO Blog",
     description: "Biológia gyakorlás online: Fedezd fel a természet világát interaktív feladatokkal. Ingyenes tesztek, játékos tanulás minden korosztálynak.",

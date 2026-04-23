@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -30,7 +31,10 @@ export const metadata: Metadata = {
     description: "Race against AI on 20 circuit tracks! Free 3D browser racing game.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/racetrack" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/racetrack"),
+    canonical: "https://plizio.com/racetrack"
+  },
 };
 
 const jsonLd = {

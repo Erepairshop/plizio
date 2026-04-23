@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { getGitLastMod } from "@/lib/seo/lastmod";
 import { SITE_URL } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
@@ -11,78 +12,64 @@ import {
 
 export const dynamic = "force-static";
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  const lastModified = new Date();
+function createEntry(url: string, sourceFile: string, priority: number) {
+  return {
+    url: `${SITE_URL}${url === "/" ? "" : url}`,
+    lastModified: getGitLastMod(sourceFile),
+    priority,
+  };
+}
 
+export default function sitemap(): MetadataRoute.Sitemap {
   const countryUrls = SUPPORTED_LANGS.flatMap((lang) => [
-    {
-      url: `${SITE_URL}${buildCountryPath(lang, "germany")}`,
-      lastModified,
-      priority: 1,
-    },
-    {
-      url: `${SITE_URL}${buildCountryPath(lang, "romania")}`,
-      lastModified,
-      priority: 1,
-    },
-    {
-      url: `${SITE_URL}${buildCountryPath(lang, "hungary")}`,
-      lastModified,
-      priority: 1,
-    },
+    createEntry(buildCountryPath(lang, "germany"), "app/[lang]/[country]/page.tsx", 1),
+    createEntry(buildCountryPath(lang, "romania"), "app/[lang]/[country]/page.tsx", 1),
+    createEntry(buildCountryPath(lang, "hungary"), "app/[lang]/[country]/page.tsx", 1),
   ]);
 
   const rootUrls = [
-    { url: SITE_URL, lastModified, priority: 1 },
-    { url: `${SITE_URL}/learn`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/europe-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/deutschland-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/magyarorszag-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/romania-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/france-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/italy-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/spain-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/unitedkingdom-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/netherlands-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/poland-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/austria-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/iceland-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/malta-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/cyprus-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/albania-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/serbia-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/bosnia-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/montenegro-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/northmacedonia-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/kosovo-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/liechtenstein-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/moldova-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/ukraine-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/belarus-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/andorra-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/monaco-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/sanmarino-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/vatican-map`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/astro-ai`, lastModified, priority: 0.9 },
-    { url: `${SITE_URL}/aitest`, lastModified, priority: 0.9 },
+    createEntry("/", "app/page.tsx", 1),
+    createEntry("/learn", "app/learn/page.tsx", 0.9),
+    createEntry("/europe-map", "app/europe-map/page.tsx", 0.9),
+    createEntry("/deutschland-map", "app/deutschland-map/page.tsx", 0.9),
+    createEntry("/magyarorszag-map", "app/magyarorszag-map/page.tsx", 0.9),
+    createEntry("/romania-map", "app/romania-map/page.tsx", 0.9),
+    createEntry("/france-map", "app/france-map/page.tsx", 0.9),
+    createEntry("/italy-map", "app/italy-map/page.tsx", 0.9),
+    createEntry("/spain-map", "app/spain-map/page.tsx", 0.9),
+    createEntry("/unitedkingdom-map", "app/unitedkingdom-map/page.tsx", 0.9),
+    createEntry("/netherlands-map", "app/netherlands-map/page.tsx", 0.9),
+    createEntry("/poland-map", "app/poland-map/page.tsx", 0.9),
+    createEntry("/austria-map", "app/austria-map/page.tsx", 0.9),
+    createEntry("/iceland-map", "app/iceland-map/page.tsx", 0.9),
+    createEntry("/malta-map", "app/malta-map/page.tsx", 0.9),
+    createEntry("/cyprus-map", "app/cyprus-map/page.tsx", 0.9),
+    createEntry("/albania-map", "app/albania-map/page.tsx", 0.9),
+    createEntry("/serbia-map", "app/serbia-map/page.tsx", 0.9),
+    createEntry("/bosnia-map", "app/bosnia-map/page.tsx", 0.9),
+    createEntry("/montenegro-map", "app/montenegro-map/page.tsx", 0.9),
+    createEntry("/northmacedonia-map", "app/northmacedonia-map/page.tsx", 0.9),
+    createEntry("/kosovo-map", "app/kosovo-map/page.tsx", 0.9),
+    createEntry("/liechtenstein-map", "app/liechtenstein-map/page.tsx", 0.9),
+    createEntry("/moldova-map", "app/moldova-map/page.tsx", 0.9),
+    createEntry("/ukraine-map", "app/ukraine-map/page.tsx", 0.9),
+    createEntry("/belarus-map", "app/belarus-map/page.tsx", 0.9),
+    createEntry("/andorra-map", "app/andorra-map/page.tsx", 0.9),
+    createEntry("/monaco-map", "app/monaco-map/page.tsx", 0.9),
+    createEntry("/sanmarino-map", "app/sanmarino-map/page.tsx", 0.9),
+    createEntry("/vatican-map", "app/vatican-map/page.tsx", 0.9),
+    createEntry("/astro-ai", "app/astro-ai/page.tsx", 0.9),
+    createEntry("/aitest", "app/aitest/page.tsx", 0.9),
   ];
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
-    regions.map((state) => ({
-      url: `${SITE_URL}${buildStatePath(lang, state.id)}`,
-      lastModified,
-      priority: 0.8,
-    })),
+    regions.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
   );
 
   const poiUrls = SUPPORTED_LANGS.flatMap((lang) =>
     pois
       .filter((poi) => poi && poi.type !== "region" && poi.type !== "country")
-      .map((poi) => ({
-        url: `${SITE_URL}${buildPoiPath(lang, poi)}`,
-        lastModified,
-        priority: 0.6,
-      })),
+      .map((poi) => createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6)),
   );
 
   return [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];

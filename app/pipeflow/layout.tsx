@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Pipe Flow – Logic Puzzle Game | Plizio",
   description: "Rotate pipes, connect the source to the sink, and solve 10 logic levels in your browser.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/pipeflow/"),
     canonical: "https://plizio.com/pipeflow/",
   },
   openGraph: {

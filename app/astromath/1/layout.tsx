@@ -1,11 +1,20 @@
 import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema, buildCourseSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
   title: "AstroMath 1. osztály – Matematika tanulás játékkal | Plizio",
   description: "Tanuld az 1. osztályos matematikát ûrutazással! Számolás, összeadás, kivonás – 9 sziget, 4 játéktípus, checkpoint tesztek.",
-  alternates: { canonical: "https://plizio.com/astromath/1/" },
+  alternates: buildHreflangAlternates("/astromath/1/"),
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return <>{children}</>;
+  return (
+    <>
+      <JsonLd data={buildCourseSchema({ name: "AstroMath 1", description: "Tanuld az 1. osztályos matematikát ûrutazással! Számolás, összeadás, kivonás – 9 sziget, 4 játéktípus, checkpoint tesztek.", url: "/astromath/1/" })} />
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "AstroMath", item: "/astromath/" }, { name: "Grade 1", item: "/astromath/1/" }])} />
+      {children}
+    </>
+  );
 }

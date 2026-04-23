@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Signal Decoder | Plizio",
   description: "Master pattern recognition and logical sequences. Decode mysterious signals in this futuristic brain training game.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/signaldecoder/"),
     canonical: "https://plizio.com/signaldecoder/",
   },
   openGraph: {

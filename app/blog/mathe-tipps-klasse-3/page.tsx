@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Mathe Klasse 3 – 10 Tipps für Eltern und Kinder | PLIZIO Blog",
   description:
     "Mathe in Klasse 3 meistern: 10 bewährte Tipps für Eltern, die ihrem Kind beim Lernen helfen möchten. Einmaleins, schriftliche Verfahren, Division und mehr.",
-  alternates: { canonical: "https://plizio.com/blog/mathe-tipps-klasse-3/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/mathe-tipps-klasse-3/"),
+    canonical: "https://plizio.com/blog/mathe-tipps-klasse-3/"
+  },
   openGraph: {
     title: "Mathe Klasse 3 – 10 Tipps für Eltern und Kinder | PLIZIO Blog",
     description:

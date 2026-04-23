@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Find the one emoji that's different! Free spot the difference game.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/spotdiff" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/spotdiff"),
+    canonical: "https://plizio.com/spotdiff"
+  },
 };
 
 const jsonLd = {

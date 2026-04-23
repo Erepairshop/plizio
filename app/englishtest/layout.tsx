@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -5,6 +6,7 @@ export const metadata: Metadata = {
   description:
     "Free English grammar and vocabulary test for grades 1–8. Covers Common Core ELA: parts of speech, sentence structure, spelling, punctuation, and more.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/englishtest/"),
     canonical: "https://plizio.com/englishtest/",
   },
   openGraph: {

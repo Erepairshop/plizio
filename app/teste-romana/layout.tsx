@@ -1,29 +1,20 @@
 import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema, buildLearningResourceSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
   title: "Teste de Limba Română Online | PLIZIO",
-  description:
-    "Teste interactive de limba română pentru clasele primare și gimnaziale. Exerciții de alfabet, ortografie, gramatică, lectură și scriere. Gratuit, fără cont.",
-  keywords: [
-    "test limba română online", "test română gratuit", "test limba română clasa 1–8",
-    "exerciții limba română", "teste ortografie română", "gramatică română",
-    "lectura și scriere", "test limba română online gratuit",
-  ],
-  alternates: {
-    canonical: "https://plizio.com/teste-romana/",
-    languages: {
-      "ro": "https://plizio.com/teste-romana/",
-      "x-default": "https://plizio.com/teste-romana/",
-    },
-  },
-  openGraph: {
-    title: "Teste de Limba Română Online | PLIZIO",
-    description: "Exersează limba română online gratuit. Clasele disponibile sunt extinse treptat, cu feedback imediat și acces direct din browser.",
-    url: "https://plizio.com/teste-romana/",
-    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
-  },
+  description: "Teste interactive de limba română pentru clasele primare și gimnaziale. Exerciții de alfabet, ortografie, gramatică, lectură și scriere. Gratuit, fără cont.",
+  alternates: buildHreflangAlternates("/teste-romana/"),
 };
 
-export default function TesteLimbiiRomaneLayout({ children }: { children: React.ReactNode }) {
-  return <>{children}</>;
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <>
+      <JsonLd data={buildLearningResourceSchema({ name: "Teste Romana", description: "Teste interactive de limba română pentru clasele primare și gimnaziale. Exerciții de alfabet, ortografie, gramatică, lectură și scriere. Gratuit, fără cont.", url: "/teste-romana/", educationalLevel: "Clasa 2-8" })} />
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Teste Romana", item: "/teste-romana/" }])} />
+      {children}
+    </>
+  );
 }

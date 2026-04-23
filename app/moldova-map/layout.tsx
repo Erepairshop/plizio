@@ -1,14 +1,17 @@
-import { Metadata } from "next";
+import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
-  title: "Moldova térkép — Plizio | Harta Moldovei | Moldova Map | Moldau Karte",
-  description: "Interaktív Moldova térkép városokkal és látnivalókkal. Harta interactivă a Moldovei. Interactive map of Moldova. Interaktive Moldau Karte.",
+  alternates: buildHreflangAlternates("/moldova-map/"),
 };
 
-export default function MoldovaMapLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return <>{children}</>;
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <>
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Moldova Map", item: "/moldova-map/" }])} />
+      {children}
+    </>
+  );
 }

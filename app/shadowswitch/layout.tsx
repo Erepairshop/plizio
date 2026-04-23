@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Shadow Switch | Plizio",
   description: "Navigate through dual-layered logic puzzles. Switch between Light and Shadow worlds to reach the exit.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/shadowswitch/"),
     canonical: "https://plizio.com/shadowswitch/",
   },
   openGraph: {

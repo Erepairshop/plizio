@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Matematică prin Joc – Aventura AstroMath | Plizio Blog",
   description:
     "AstroMath este un joc gratuit de aventură matematică pentru clasele 1–8. Progresezi insulă cu insulă, urmând programa școlară, fără înregistrare.",
-  alternates: { canonical: "https://plizio.com/blog/matematica-astromath/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/matematica-astromath/"),
+    canonical: "https://plizio.com/blog/matematica-astromath/"
+  },
   openGraph: {
     title: "Matematică prin Joc – Aventura AstroMath | Plizio Blog",
     description:

@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Physik Klasse 5: Einstieg leicht gemacht | PLIZIO Blog",
   description: "Physik Klasse 5: Entdecke die Grundlagen der Physik. Tipps für den Einstieg, spannende Versuche und interaktive Online-Übungen für den Schulstart.",
-  alternates: { canonical: "https://plizio.com/blog/physik-klasse-5-einfuehrung/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/physik-klasse-5-einfuehrung/"),
+    canonical: "https://plizio.com/blog/physik-klasse-5-einfuehrung/"
+  },
   openGraph: {
     title: "Physik Klasse 5: Einstieg leicht gemacht | PLIZIO Blog",
     description: "Physik Klasse 5: Entdecke die Grundlagen der Physik. Tipps für den Einstieg, spannende Versuche und interaktive Online-Übungen für den Schulstart.",

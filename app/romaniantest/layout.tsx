@@ -1,9 +1,13 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Test Limba Română – Plizio",
   description: "Test interactiv de limba română pentru clasa I. Exerciții de alfabet, silabe, ortografie, lectură și înțelegere. Verifică-ți cunoștințele!",
-  alternates: { canonical: "https://plizio.com/romaniantest/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/romaniantest/"),
+    canonical: "https://plizio.com/romaniantest/"
+  },
   openGraph: {
     title: "Test Limba Română – Plizio",
     description: "Test interactiv de limba română pentru clasa I. Exerciții de alfabet, silabe, ortografie, lectură și înțelegere. Verifică-ți cunoștințele!",

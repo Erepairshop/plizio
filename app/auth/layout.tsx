@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -7,6 +8,7 @@ export const metadata: Metadata = {
     follow: false,
   },
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/auth/"),
     canonical: "https://plizio.com/auth/",
   },
 };

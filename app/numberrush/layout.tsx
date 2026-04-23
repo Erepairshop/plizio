@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Tap numbers 1 to 25 as fast as you can! Free browser speed game.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/numberrush" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/numberrush"),
+    canonical: "https://plizio.com/numberrush"
+  },
 };
 
 const jsonLd = {

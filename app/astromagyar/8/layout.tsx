@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -21,6 +22,7 @@ export const metadata: Metadata = {
     "játékos tanulás",
   ],
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/astromagyar/8/"),
     canonical: "https://plizio.com/astromagyar/8/",
   },
   openGraph: {

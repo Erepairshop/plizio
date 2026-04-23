@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Geschichte online lernen: Interaktive Übungen für Klasse 5-8 | PLIZIO Blog",
   description: "Geschichte online lernen: Spannende Einblicke in die Antike, das Mittelalter und moderne Epochen. Interaktive Übungen für Klasse 5-8.",
-  alternates: { canonical: "https://plizio.com/blog/geschichte-online-lernen/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/geschichte-online-lernen/"),
+    canonical: "https://plizio.com/blog/geschichte-online-lernen/"
+  },
   openGraph: {
     title: "Geschichte online lernen: Interaktive Übungen für Klasse 5-8 | PLIZIO Blog",
     description: "Geschichte online lernen: Spannende Einblicke in die Antike, das Mittelalter und moderne Epochen. Interaktive Übungen für Klasse 5-8.",

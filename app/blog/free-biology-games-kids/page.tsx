@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Free Biology Games for Kids: Learn Science the Fun Way | PLIZIO Blog",
   description: "Explore free biology games for kids! Learn fascinating facts about animals, plants, and ecosystems. Interactive science practice for all ages.",
-  alternates: { canonical: "https://plizio.com/blog/free-biology-games-kids/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/free-biology-games-kids/"),
+    canonical: "https://plizio.com/blog/free-biology-games-kids/"
+  },
   openGraph: {
     title: "Free Biology Games for Kids: Learn Science the Fun Way | PLIZIO Blog",
     description: "Explore free biology games for kids! Learn fascinating facts about animals, plants, and ecosystems. Interactive science practice for all ages.",

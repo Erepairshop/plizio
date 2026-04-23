@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Jump and climb to the sky! Free 3D platformer – play instantly.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/skyclimb" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/skyclimb"),
+    canonical: "https://plizio.com/skyclimb"
+  },
 };
 
 const jsonLd = {

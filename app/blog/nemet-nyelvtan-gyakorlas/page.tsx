@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Német nyelvtan gyakorlás online: Interaktív feladatok 1-8. osztályig | PLIZIO Blog",
   description: "Német nyelvtan gyakorlás online ingyen: Interaktív feladatok, szórakoztató leckék 1-8. osztályosoknak. Kezdj el németül tanulni most!",
-  alternates: { canonical: "https://plizio.com/blog/nemet-nyelvtan-gyakorlas/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/nemet-nyelvtan-gyakorlas/"),
+    canonical: "https://plizio.com/blog/nemet-nyelvtan-gyakorlas/"
+  },
   openGraph: {
     title: "Német nyelvtan gyakorlás online: Interaktív feladatok 1-8. osztályig | PLIZIO Blog",
     description: "Német nyelvtan gyakorlás online ingyen: Interaktív feladatok, szórakoztató leckék 1-8. osztályosoknak. Kezdj el németül tanulni most!",

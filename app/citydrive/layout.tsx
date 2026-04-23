@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Drive through the city! Free 3D driving game with missions.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/citydrive" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/citydrive"),
+    canonical: "https://plizio.com/citydrive"
+  },
 };
 
 const jsonLd = {

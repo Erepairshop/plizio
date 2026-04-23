@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Matek Tanulás Játékosan – AstroMath Felfedező | Plizio Blog",
   description:
     "Az AstroMath egy ingyenes, böngészős matematika-kalandjáték 1–8. osztályosoknak. Szigetenként haladva, játékosan sajátíthatók el az iskolai tananyag matematikatémái.",
-  alternates: { canonical: "https://plizio.com/blog/matek-tanulas-astromath/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/matek-tanulas-astromath/"),
+    canonical: "https://plizio.com/blog/matek-tanulas-astromath/"
+  },
   openGraph: {
     title: "Matek Tanulás Játékosan – AstroMath | Plizio Blog",
     description:

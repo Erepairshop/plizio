@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Unscramble letters to find the word! Free browser word puzzle game.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/wordscramble" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/wordscramble"),
+    canonical: "https://plizio.com/wordscramble"
+  },
 };
 
 const jsonLd = {

@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -74,7 +75,10 @@ export const metadata: Metadata = {
     description: "Grade 1–8 math tests with real school curriculum. Free, no signup!",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/mathtest/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/mathtest/"),
+    canonical: "https://plizio.com/mathtest/"
+  },
 };
 
 const jsonLd = {

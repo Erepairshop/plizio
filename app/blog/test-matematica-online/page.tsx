@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Test Matematică Online Gratuit – Clasa 1–8 | Plizio Blog",
   description:
     "Test matematică online gratuit pentru clasele 1–8. Adunare, scădere, înmulțire, împărțire – întrebări adaptate programei școlare, fără înregistrare.",
-  alternates: { canonical: "https://plizio.com/blog/test-matematica-online/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/test-matematica-online/"),
+    canonical: "https://plizio.com/blog/test-matematica-online/"
+  },
   openGraph: {
     title: "Test Matematică Online Gratuit – Clasa 1–8 | Plizio Blog",
     description:

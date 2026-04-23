@@ -1,9 +1,13 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Mathe & Lernspiele Blog – Tipps für Schüler und Eltern | PLIZIO",
   description: "Hilfreiche Tipps rund um Mathe, Lernspiele und Schulvorbereitung. Für Schüler, Eltern und Lehrer der Klassen 1–8.",
-  alternates: { canonical: "https://plizio.com/blog/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/"),
+    canonical: "https://plizio.com/blog/"
+  },
 };
 
 const ARTICLES = [

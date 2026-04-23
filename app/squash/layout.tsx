@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Squash Arcade – Plizio",
   description: "Fast-paced squash arcade game with AI opponents. Test your reflexes against easy, normal, and hard AI in this top-view arcade classic.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/squash/"),
     canonical: "https://plizio.com/squash/",
   },
   openGraph: {

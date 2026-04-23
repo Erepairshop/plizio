@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -28,7 +29,10 @@ export const metadata: Metadata = {
     description: "Quiz your knowledge across 8 themes – music, football, anime and more!",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/quickpick" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/quickpick"),
+    canonical: "https://plizio.com/quickpick"
+  },
 };
 
 const jsonLd = {

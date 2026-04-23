@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "A new quiz challenge every day! Test your knowledge and build your streak.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/daily" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/daily"),
+    canonical: "https://plizio.com/daily"
+  },
 };
 
 const jsonLd = {

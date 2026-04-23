@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Deduction Grid – Logic Puzzle Game | Plizio",
   description: "Use clues, compare suspects and solve 10 deduction grid levels in your browser.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/deductiongrid/"),
     canonical: "https://plizio.com/deductiongrid/",
   },
   openGraph: {

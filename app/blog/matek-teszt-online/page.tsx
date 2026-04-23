@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Online Matek Teszt Ingyen – 1–8. osztály | Plizio Blog",
   description:
     "Ingyenes online matek teszt általános iskolásoknak, 1–8. osztályig. Összeadás, kivonás, szorzás, osztás – kérdések a tananyag szerint, regisztráció nélkül.",
-  alternates: { canonical: "https://plizio.com/blog/matek-teszt-online/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/matek-teszt-online/"),
+    canonical: "https://plizio.com/blog/matek-teszt-online/"
+  },
   openGraph: {
     title: "Online Matek Teszt Ingyen – 1–8. osztály | Plizio Blog",
     description:

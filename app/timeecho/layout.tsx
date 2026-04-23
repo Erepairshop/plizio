@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Time Echo | Plizio",
   description: "Navigate levels and avoid your previous self in this neon-themed reflex logic game.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/timeecho/"),
     canonical: "https://plizio.com/timeecho/",
   },
   openGraph: {

@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Galactic Deduction | Plizio",
   description: "Solve space-themed logic puzzles in this deduction grid game. Match explorers with their discoveries using clues.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/deductiongrid2/"),
     canonical: "https://plizio.com/deductiongrid2/",
   },
   openGraph: {

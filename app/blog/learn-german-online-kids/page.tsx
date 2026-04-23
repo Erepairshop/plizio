@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Learn German Online: Free Interactive Lessons for Kids (Grade 1-8) | PLIZIO Blog",
   description: "Learn German online with fun, free interactive lessons! Effective practice for kids of all levels (Grade 1-8). Start your language journey now.",
-  alternates: { canonical: "https://plizio.com/blog/learn-german-online-kids/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/learn-german-online-kids/"),
+    canonical: "https://plizio.com/blog/learn-german-online-kids/"
+  },
   openGraph: {
     title: "Learn German Online: Free Interactive Lessons for Kids (Grade 1-8) | PLIZIO Blog",
     description: "Learn German online with fun, free interactive lessons! Effective practice for kids of all levels (Grade 1-8). Start your language journey now.",

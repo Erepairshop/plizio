@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Deutsch Grammatik üben: Die besten Methoden für Klasse 1-8 | PLIZIO Blog",
   description: "Deutsch Grammatik üben leicht gemacht: Effektive Online-Übungen und Methoden für Schüler der Klasse 1 bis 8. Jetzt kostenlos Grammatik meistern!",
-  alternates: { canonical: "https://plizio.com/blog/deutsch-grammatik-ueben/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/deutsch-grammatik-ueben/"),
+    canonical: "https://plizio.com/blog/deutsch-grammatik-ueben/"
+  },
   openGraph: {
     title: "Deutsch Grammatik üben: Die besten Methoden für Klasse 1-8 | PLIZIO Blog",
     description: "Deutsch Grammatik üben leicht gemacht: Effektive Online-Übungen und Methoden für Schüler der Klasse 1 bis 8. Jetzt kostenlos Grammatik meistern!",

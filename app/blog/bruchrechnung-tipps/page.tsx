@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Bruchrechnung leicht gemacht – Tipps für Klasse 4 & 5 | PLIZIO Blog",
   description:
     "Brüche verstehen und rechnen leicht erklärt. Schritt-für-Schritt Tipps für Schüler der Klasse 4 und 5 mit Alltagsbeispielen und Übungsaufgaben.",
-  alternates: { canonical: "https://plizio.com/blog/bruchrechnung-tipps/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/bruchrechnung-tipps/"),
+    canonical: "https://plizio.com/blog/bruchrechnung-tipps/"
+  },
   openGraph: {
     title: "Bruchrechnung leicht gemacht – Tipps für Klasse 4 & 5 | PLIZIO Blog",
     description:

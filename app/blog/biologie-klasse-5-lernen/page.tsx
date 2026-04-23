@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Biologie Klasse 5: Was lernt man und wie übt man richtig? | PLIZIO Blog",
   description: "Biologie Klasse 5: Alle wichtigen Themen im Überblick sowie Tipps, wie du Biologie online lernen und dein Wissen mit Tests vertiefen kannst.",
-  alternates: { canonical: "https://plizio.com/blog/biologie-klasse-5-lernen/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/biologie-klasse-5-lernen/"),
+    canonical: "https://plizio.com/blog/biologie-klasse-5-lernen/"
+  },
   openGraph: {
     title: "Biologie Klasse 5: Was lernt man und wie übt man richtig? | PLIZIO Blog",
     description: "Biologie Klasse 5: Alle wichtigen Themen im Überblick sowie Tipps, wie du Biologie online lernen und dein Wissen mit Tests vertiefen kannst.",

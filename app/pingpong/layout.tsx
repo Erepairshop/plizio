@@ -1,9 +1,13 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Table Tennis – Plizio",
   description: "Play table tennis against AI! Beat your opponent in this classic ping pong game with neon graphics. Choose easy, medium, or hard difficulty.",
-  alternates: { canonical: "https://plizio.com/pingpong/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/pingpong/"),
+    canonical: "https://plizio.com/pingpong/"
+  },
   openGraph: {
     title: "Table Tennis – Plizio",
     description: "Play table tennis against AI! Beat your opponent in this classic ping pong game.",

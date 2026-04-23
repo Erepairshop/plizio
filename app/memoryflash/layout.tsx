@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export const metadata: Metadata = {
     description: "Remember the pattern and repeat it! Free brain training memory game.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/memoryflash" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/memoryflash"),
+    canonical: "https://plizio.com/memoryflash"
+  },
 };
 
 const jsonLd = {

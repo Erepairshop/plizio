@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "2. osztály · Magyar Nyelv Galaxis | AstroMagyar",
   description: "2. osztályos magyar nyelvtan játékok: szófajok, helyesírás, mondattan, szókincs. Szórakoztatóan tanulj az AstroMagyar interaktív játékrendszerrel!",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/astromagyar/2/"),
     canonical: "https://plizio.com/astromagyar/2/",
   },
   openGraph: {

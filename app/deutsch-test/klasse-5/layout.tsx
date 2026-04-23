@@ -1,9 +1,20 @@
 import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema, buildLearningResourceSchema } from "@/lib/seo/schema";
+
 export const metadata: Metadata = {
   title: "Deutsch Test Klasse 5 – Kostenlose Übungen – Plizio",
   description: "Kostenlose Deutsch-Übungen für Klasse 5: Grammatik, Aufsatz und Textverständnis interaktiv und kostenlos üben.",
-  alternates: { canonical: "https://plizio.com/deutsch-test/klasse-5/" },
+  alternates: buildHreflangAlternates("/deutsch-test/klasse-5/"),
 };
+
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return <>{children}</>;
+  return (
+    <>
+      <JsonLd data={buildLearningResourceSchema({ name: "Deutsch Test Klasse 5 – Kostenlose Übungen – Plizio", description: "Kostenlose Deutsch-Übungen für Klasse 5: Grammatik, Aufsatz und Textverständnis interaktiv und kostenlos üben.", url: "/deutsch-test/klasse-5/", educationalLevel: "Klasse 5" })} />
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Deutsch-Test", item: "/deutsch-test/" }, { name: "Klasse 5", item: "/deutsch-test/klasse-5/" }])} />
+      {children}
+    </>
+  );
 }

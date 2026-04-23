@@ -1,14 +1,17 @@
-import { Metadata } from "next";
+import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
-  title: "Észak-Macedónia térkép — Plizio | North Macedonia Map",
-  description: "Fedezt fel Észak-Macedónia nevezetességeit és városait! / Entdecke Nordmazedonien! / Descoperă Macedonia de Nord! / Discover North Macedonia!",
+  alternates: buildHreflangAlternates("/northmacedonia-map/"),
 };
 
-export default function NorthMacedoniaMapLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return <>{children}</>;
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <>
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Northmacedonia Map", item: "/northmacedonia-map/" }])} />
+      {children}
+    </>
+  );
 }

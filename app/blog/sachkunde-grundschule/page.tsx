@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Sachkunde in der Grundschule: Themen, Tipps & Online-Übungen | PLIZIO Blog",
   description: "Sachkunde in der Grundschule: Erfahre alles über wichtige Themen, hilfreiche Lernmethoden und wie du dein Wissen mit interaktiven Online-Übungen verbesserst.",
-  alternates: { canonical: "https://plizio.com/blog/sachkunde-grundschule/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/sachkunde-grundschule/"),
+    canonical: "https://plizio.com/blog/sachkunde-grundschule/"
+  },
   openGraph: {
     title: "Sachkunde in der Grundschule: Themen, Tipps & Online-Übungen | PLIZIO Blog",
     description: "Sachkunde in der Grundschule: Erfahre alles über wichtige Themen, hilfreiche Lernmethoden und wie du dein Wissen mit interaktiven Online-Übungen verbesserst.",

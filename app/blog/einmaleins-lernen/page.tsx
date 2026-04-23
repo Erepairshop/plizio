@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Einmaleins lernen: 8 Methoden die wirklich funktionieren | PLIZIO Blog",
   description:
     "Das Einmaleins sicher lernen – 8 bewährte Methoden für Kinder der Klasse 2 und 3. Mit Tipps für Eltern und kostenlosem Online-Übungstool.",
-  alternates: { canonical: "https://plizio.com/blog/einmaleins-lernen/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/einmaleins-lernen/"),
+    canonical: "https://plizio.com/blog/einmaleins-lernen/"
+  },
   openGraph: {
     title: "Einmaleins lernen: 8 Methoden die wirklich funktionieren | PLIZIO Blog",
     description:

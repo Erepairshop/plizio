@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Mathe Test Vorbereitung: Der perfekte Lernplan für Klassenarbeiten | PLIZIO Blog",
   description:
     "Wie bereitest du dich optimal auf einen Mathe Test vor? Lernplan, Tipps gegen Prüfungsangst und kostenlose Online-Übungstools für Klasse 1–8.",
-  alternates: { canonical: "https://plizio.com/blog/mathe-test-vorbereitung/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/mathe-test-vorbereitung/"),
+    canonical: "https://plizio.com/blog/mathe-test-vorbereitung/"
+  },
   openGraph: {
     title: "Mathe Test Vorbereitung: Der perfekte Lernplan für Klassenarbeiten | PLIZIO Blog",
     description:

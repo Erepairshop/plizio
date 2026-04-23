@@ -1,17 +1,17 @@
-import { Metadata } from "next";
+import type { Metadata } from "next";
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
+import JsonLd from "@/components/JsonLd";
+import { buildBreadcrumbSchema } from "@/lib/seo/schema";
 
 export const metadata: Metadata = {
-  title: {
-    template: "%s",
-    default: "Montenegró térkép — Plizio",
-  },
-  description: "Interaktív Montenegró térkép. Fedezze fel Montenegró városait, természeti csodáit és történelmi nevezetességeit (Montenegro Karte, Montenegro Map, Harta Muntenegrului).",
+  alternates: buildHreflangAlternates("/montenegro-map/"),
 };
 
-export default function MontenegroMapLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return <>{children}</>;
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <>
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Montenegro Map", item: "/montenegro-map/" }])} />
+      {children}
+    </>
+  );
 }

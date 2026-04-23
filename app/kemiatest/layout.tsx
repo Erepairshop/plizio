@@ -1,9 +1,11 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Chemie Test – Klasse 5-8 | Plizio",
   description: "Kostenloser Chemietest für Klasse 5 bis 8. Teste dein Wissen über Stoffe, Teilchen, Reaktionen, Atome, Bindungen und mehr.",
   alternates: {
+    ...buildHreflangAlternates("https://plizio.com/kemiatest/"),
     canonical: "https://plizio.com/kemiatest/",
   },
   openGraph: {

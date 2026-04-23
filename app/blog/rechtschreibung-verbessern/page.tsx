@@ -1,10 +1,14 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Rechtschreibung verbessern: 7 Tipps für Kinder | PLIZIO Blog",
   description: "Die Rechtschreibung verbessern: Wir zeigen dir 7 praktische Tipps, wie Kinder fehlerfreier schreiben und Spaß an Sprache finden. Jetzt online üben!",
-  alternates: { canonical: "https://plizio.com/blog/rechtschreibung-verbessern/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/blog/rechtschreibung-verbessern/"),
+    canonical: "https://plizio.com/blog/rechtschreibung-verbessern/"
+  },
   openGraph: {
     title: "Rechtschreibung verbessern: 7 Tipps für Kinder | PLIZIO Blog",
     description: "Die Rechtschreibung verbessern: Wir zeigen dir 7 praktische Tipps, wie Kinder fehlerfreier schreiben und Spaß an Sprache finden. Jetzt online üben!",

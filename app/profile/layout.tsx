@@ -1,3 +1,4 @@
+import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -16,7 +17,10 @@ export const metadata: Metadata = {
     description: "View your gaming stats, milestones and achievements on PLIZIO.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/profile/" },
+  alternates: {
+    ...buildHreflangAlternates("https://plizio.com/profile/"),
+    canonical: "https://plizio.com/profile/"
+  },
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
