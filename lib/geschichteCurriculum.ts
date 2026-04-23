@@ -1,8 +1,8 @@
 import type { CurriculumTheme, CurriculumQuestion, GradeMark } from "./curriculumTypes";
-import { getG5GeschichteQuestions } from "./geschichteCurriculum5";
-import { getG6GeschichteQuestions } from "./geschichteCurriculum6";
-import { getG7GeschichteQuestions } from "./geschichteCurriculum7";
-import { getG8GeschichteQuestions } from "./geschichteCurriculum8";
+import { getG5GeschichteQuestions, G5_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum5";
+import { getG6GeschichteQuestions, G6_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum6";
+import { getG7GeschichteQuestions, G7_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum7";
+import { getG8GeschichteQuestions, G8_GESCHICHTE_CURRICULUM } from "./geschichteCurriculum8";
 import { G5_Generators_Geschichte } from "./geschichteGenerators5";
 import { G6_Generators_Geschichte } from "./geschichteGenerators6";
 import { G7_Generators_Geschichte } from "./geschichteGenerators7";
@@ -76,10 +76,10 @@ function generateTopics(grade: number): { id: string, name: Record<string, strin
 }
 
 export const GESCHICHTE_CURRICULUM: Record<number, CurriculumTheme[]> = {
-  5: [{ id: "g5_history", name: { de: "Geschichte K5", hu: "Történelem 5", ro: "Istorie K5", en: "History G5" }, icon: "🏺", color: "#F59E0B", subtopics: generateTopics(5) }],
-  6: [{ id: "g6_history", name: { de: "Geschichte K6", hu: "Történelem 6", ro: "Istorie K6", en: "History G6" }, icon: "👑", color: "#8B5CF6", subtopics: generateTopics(6) }],
-  7: [{ id: "g7_history", name: { de: "Geschichte K7", hu: "Történelem 7", ro: "Istorie K7", en: "History G7" }, icon: "🌟", color: "#6366F1", subtopics: generateTopics(7) }],
-  8: [{ id: "g8_history", name: { de: "Geschichte K8", hu: "Történelem 8", ro: "Istorie K8", en: "History G8" }, icon: "💥", color: "#EF4444", subtopics: generateTopics(8) }]
+  5: G5_GESCHICHTE_CURRICULUM,
+  6: G6_GESCHICHTE_CURRICULUM,
+  7: G7_GESCHICHTE_CURRICULUM,
+  8: G8_GESCHICHTE_CURRICULUM,
 };
 
 export const GESCHICHTE_SUBTOPIC_HINTS: Record<string, string> = {};
