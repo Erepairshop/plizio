@@ -1,80 +1,96 @@
-import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import type { CurriculumQuestion } from "./curriculumTypes";
+import type { KemiaTheme } from "./kemiaCurriculumShared";
+import INFO_K8_DATA from "./informatikaCurriculum8_data.json";
 
-const INFO_K8_TOPIC_NAMES = [
-  { de: "Rechnerarchitektur", hu: "Számítógép-architektúra", ro: "Arhitectura calculatoarelor", en: "Computer Architecture" },
-  { de: "Datenbanken Grundlagen", hu: "Adatbázisok alapjai", ro: "Baze de date", en: "Database Basics" },
-  { de: "SQL Einführung", hu: "SQL bevezetés", ro: "Introducere în SQL", en: "SQL Introduction" },
-  { de: "Erweiterte Netzwerke", hu: "Haladó hálózatok", ro: "Rețele avansate", en: "Advanced Networks" },
-  { de: "Internetprotokolle", hu: "Internet protokollok", ro: "Protocoale de internet", en: "Internet Protocols" },
-  { de: "Webentwicklung (HTML/CSS)", hu: "Webfejlesztés (HTML/CSS)", ro: "Dezvoltare web", en: "Web Development" },
-  { de: "Python Grundlagen", hu: "Python alapok", ro: "Baze Python", en: "Python Basics" },
-  { de: "Datentypen in Python", hu: "Adattípusok Pythonban", ro: "Tipuri de date Python", en: "Python Data Types" },
-  { de: "Funktionen", hu: "Függvények", ro: "Funcții", en: "Functions" },
-  { de: "Fehlersuche (Debugging)", hu: "Hibakeresés (Debugging)", ro: "Depanare (Debugging)", en: "Debugging" },
-  { de: "Datenstrukturen (Listen)", hu: "Adatszerkezetek (Listák)", ro: "Structuri de date", en: "Data Structures" },
-  { de: "Kryptografie", hu: "Kriptográfia", ro: "Criptografie", en: "Cryptography" },
-  { de: "Künstliche Intelligenz", hu: "Mesterséges Intelligencia", ro: "Inteligență Artificială", en: "Artificial Intelligence" },
-  { de: "Maschinelles Lernen", hu: "Gépi tanulás", ro: "Învățare automată", en: "Machine Learning" },
-  { de: "Cloud Computing", hu: "Felhőalapú számítástechnika", ro: "Cloud Computing", en: "Cloud Computing" },
-  { de: "Internet der Dinge (IoT)", hu: "A dolgok internete (IoT)", ro: "Internetul Tuturor Lucrurilor", en: "Internet of Things" },
-  { de: "Big Data", hu: "Big Data", ro: "Big Data", en: "Big Data" },
-  { de: "Soziale Medien Analyse", hu: "Közösségi média elemzés", ro: "Analiza rețelelor sociale", en: "Social Media Analysis" },
-  { de: "E-Commerce", hu: "E-kereskedelem", ro: "E-commerce", en: "E-Commerce" },
-  { de: "Open Source Software", hu: "Nyílt forráskódú szoftverek", ro: "Software Open Source", en: "Open Source Software" },
-  { de: "Computergrafik", hu: "Számítógépes grafika", ro: "Grafică pe calculator", en: "Computer Graphics" },
-  { de: "Audio- und Videobearbeitung", hu: "Audio- és videoszerkesztés", ro: "Editare audio-video", en: "Audio/Video Editing" },
-  { de: "Ergonomie am Arbeitsplatz", hu: "Ergonómia", ro: "Ergonomie", en: "Ergonomics" },
-  { de: "Zukunft der Technologie", hu: "A technológia jövője", ro: "Viitorul tehnologiei", en: "Future of Technology" }
+type MultiLang = { de: string; hu: string; ro: string; en: string };
+type MultiLangOptions = { de: string[]; hu: string[]; ro: string[]; en: string[] };
+
+interface RawQuestion {
+  type: "mcq" | "typing";
+  question: MultiLang;
+  options?: MultiLangOptions;
+  answer?: MultiLang | string;
+  correct?: number;
+}
+
+const INFO_K8_SUBTOPICS: { id: string; names: MultiLang }[] = [
+  { id: "info_k8_algo",       names: { de: "Algorithmen Grundlagen",   hu: "Algoritmus alapok",       ro: "Baze algoritmi",       en: "Algorithm Basics" } },
+  { id: "info_k8_python",     names: { de: "Programmierung Python",    hu: "Python programozás",      ro: "Programare Python",    en: "Python Programming" } },
+  { id: "info_k8_control",    names: { de: "Kontrollstrukturen",       hu: "Vezérlési szerkezetek",   ro: "Structuri control",    en: "Control Structures" } },
+  { id: "info_k8_func",       names: { de: "Funktionen",               hu: "Függvények",              ro: "Funcții",              en: "Functions" } },
+  { id: "info_k8_data",       names: { de: "Datenstrukturen",          hu: "Adatszerkezetek",         ro: "Structuri de date",    en: "Data Structures" } },
+  { id: "info_k8_oop",        names: { de: "OOP Grundlagen",           hu: "OOP alapok",              ro: "Baze OOP",             en: "OOP Basics" } },
+  { id: "info_k8_web",        names: { de: "Webentwicklung",           hu: "Webfejlesztés",           ro: "Dezvoltare web",       en: "Web Development" } },
+  { id: "info_k8_js",         names: { de: "JavaScript Grundlagen",    hu: "JavaScript alapok",       ro: "Baze JavaScript",      en: "JavaScript Basics" } },
+  { id: "info_k8_http",       names: { de: "HTTP & APIs",              hu: "HTTP és API-k",           ro: "HTTP și API-uri",      en: "HTTP & APIs" } },
+  { id: "info_k8_sql",        names: { de: "Datenbanken SQL",          hu: "Adatbázis SQL",           ro: "Baze de date SQL",     en: "SQL Databases" } },
+  { id: "info_k8_crypto",     names: { de: "Kryptographie",            hu: "Kriptográfia",            ro: "Criptografie",         en: "Cryptography" } },
+  { id: "info_k8_cyber",      names: { de: "Cyber Security",           hu: "Kiberbiztonság",          ro: "Securitate cibernetică", en: "Cyber Security" } },
+  { id: "info_k8_network",    names: { de: "Netzwerk Protokolle",      hu: "Hálózati protokollok",    ro: "Protocoale rețea",     en: "Network Protocols" } },
+  { id: "info_k8_ai",         names: { de: "Künstliche Intelligenz",   hu: "Mesterséges intelligencia", ro: "Inteligență Artificială", en: "Artificial Intelligence" } },
+  { id: "info_k8_git",        names: { de: "Versionskontrolle Git",    hu: "Verziókezelés Git",       ro: "Control versiuni Git", en: "Version Control Git" } },
+  { id: "info_k8_pm",         names: { de: "Projektmanagement",        hu: "Projektmenedzsment",      ro: "Management proiect",   en: "Project Management" } },
+  { id: "info_k8_uiux",       names: { de: "UI/UX Design",             hu: "UI/UX tervezés",          ro: "Design UI/UX",         en: "UI/UX Design" } },
+  { id: "info_k8_mobile",     names: { de: "Mobile Entwicklung",       hu: "Mobilfejlesztés",         ro: "Dezvoltare mobilă",    en: "Mobile Development" } },
+  { id: "info_k8_cloud",      names: { de: "Cloud Computing",          hu: "Felhő számítástechnika",  ro: "Cloud Computing",      en: "Cloud Computing" } },
+  { id: "info_k8_bigdata",    names: { de: "Big Data",                 hu: "Big Data",                ro: "Big Data",             en: "Big Data" } },
+  { id: "info_k8_ethics",     names: { de: "Ethik in der IT",          hu: "Informatikai etika",      ro: "Etică în IT",          en: "Ethics in IT" } },
+  { id: "info_k8_opensource", names: { de: "Open Source",              hu: "Nyílt forráskód",         ro: "Open Source",          en: "Open Source" } },
+  { id: "info_k8_future",     names: { de: "Zukunft der IT",           hu: "Informatika jövője",      ro: "Viitorul IT",          en: "Future of IT" } },
+  { id: "info_k8_careers",    names: { de: "IT-Berufe",                hu: "IT szakmák",              ro: "Cariere IT",           en: "IT Careers" } },
 ];
 
-const G8_INFO_TOPICS = INFO_K8_TOPIC_NAMES.map((names, i) => ({
-  id: `info_k8_t${i + 1}`,
-  name: names,
-  questions: [] as CurriculumQuestion[],
-  hasGenerator: true
-}));
+const DATA: Record<string, RawQuestion[]> = INFO_K8_DATA as Record<string, RawQuestion[]>;
 
-export const INFO_K8_CURRICULUM: CurriculumTheme[] = [
+export const INFO_K8_CURRICULUM: KemiaTheme[] = [
   {
     id: "info_k8_island1",
-    name: { de: "Informatik K8", hu: "Informatika K8", ro: "Informatica K8", en: "Informatics K8" },
+    name: "Informatik K8",
     icon: "💻",
-    color: "#8B5CF6",
-    subtopics: G8_INFO_TOPICS
-  }
+    color: "#3B82F6",
+    subtopics: INFO_K8_SUBTOPICS.map(t => ({
+      id: t.id,
+      name: t.names.de,
+      label: t.names as any,
+      questions: [],
+      hasGenerator: true,
+    })),
+  } as any,
 ];
 
 export function getInfoK8Questions(subtopicIds: string[], count = 10, countryCode?: string): CurriculumQuestion[] {
-  const lang = (countryCode || "EN").toLowerCase();
+  const lang = ((countryCode || "en").toLowerCase()) as keyof MultiLang;
   const pool: CurriculumQuestion[] = [];
-  
+
   for (const id of subtopicIds) {
-    const sub = G8_INFO_TOPICS.find(s => s.id === id);
-    if (!sub) continue;
-    const topicName = (sub.name as any)[lang] || (sub.name as any).en;
-    
-    // Generate exactly 25 MCQ
-    for (let i = 1; i <= 25; i++) {
-      pool.push({
-        type: "mcq",
-        topic: "Informatik K8",
-        subtopic: id,
-        question: `[${topicName}] MCQ Question ${i}?`,
-        options: ["A", "B", "C", "D"],
-        correct: 0
-      });
-    }
-    // Generate exactly 10 Typing
-    for (let i = 1; i <= 10; i++) {
-      pool.push({
-        type: "typing",
-        topic: "Informatik K8",
-        subtopic: id,
-        question: `[${topicName}] Typing Question ${i}?`,
-        answer: `Answer ${i}`
-      });
+    const rawArr = DATA[id] || [];
+    for (const r of rawArr) {
+      const q = r.question[lang] || r.question.en;
+      if (r.type === "mcq" && r.options) {
+        const opts = r.options[lang] || r.options.en;
+        pool.push({
+          type: "mcq",
+          topic: "Informatik K8",
+          subtopic: id,
+          question: q,
+          options: [...opts],
+          correct: r.correct ?? 0,
+        });
+      } else if (r.type === "typing") {
+        let ans: string = "";
+        if (typeof r.answer === "string") ans = r.answer;
+        else if (r.answer) ans = r.answer[lang] || r.answer.en || "";
+        pool.push({
+          type: "typing",
+          topic: "Informatik K8",
+          subtopic: id,
+          question: q,
+          answer: ans,
+        });
+      }
     }
   }
 
-  return pool.sort(() => Math.random() - 0.5).slice(0, count);
+  const shuffled = pool.sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
 }
