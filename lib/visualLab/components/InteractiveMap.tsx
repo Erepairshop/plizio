@@ -794,29 +794,16 @@ export const InteractiveMap = ({
                   src={selectedPoi.image}
                   alt=""
                   className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
+                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
                 />
               ) : selectedPoi.coa ? (
                 <img
                   src={selectedPoi.coa}
                   alt=""
                   className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-contain p-1"
+                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
                 />
-              ) : (
-                <div
-                  className="w-14 h-14 rounded-lg border border-white/10 flex items-center justify-center"
-                  style={{ background: poiColor(selectedPoi.type) + "22" }}
-                >
-                  <span className="text-2xl">
-                    {selectedPoi.type === "river" ? "🌊"
-                      : selectedPoi.type === "mountain" ? "⛰️"
-                      : selectedPoi.type === "lake" ? "💧"
-                      : selectedPoi.type === "island" ? "🏝️"
-                      : selectedPoi.type === "historical" ? "🏛️"
-                      : selectedPoi.type === "landmark" ? "🏰"
-                      : "📍"}
-                  </span>
-                </div>
-              )}
+              ) : null}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
                   {selectedPoi.name[displayLang] ?? selectedPoi.name.de}
@@ -1141,23 +1128,12 @@ function SubRegionView({
           >
             <div className="flex items-start gap-3 mb-2">
               {selectedPoi.image ? (
-                <img src={selectedPoi.image} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover" />
+                <img src={selectedPoi.image} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
+                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />
               ) : selectedPoi.coa ? (
-                <img src={selectedPoi.coa} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-contain p-1" />
-              ) : (
-                <div className="w-14 h-14 rounded-lg border border-white/10 flex items-center justify-center"
-                  style={{ background: poiColor(selectedPoi.type) + "22" }}>
-                  <span className="text-2xl">
-                    {selectedPoi.type === "river" ? "🌊"
-                      : selectedPoi.type === "mountain" ? "⛰️"
-                      : selectedPoi.type === "lake" ? "💧"
-                      : selectedPoi.type === "island" ? "🏝️"
-                      : selectedPoi.type === "historical" ? "🏛️"
-                      : selectedPoi.type === "landmark" ? "🏰"
-                      : "📍"}
-                  </span>
-                </div>
-              )}
+                <img src={selectedPoi.coa} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-contain p-1"
+                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />
+              ) : null}
               <div className="flex-1 min-w-0">
                 <h3 className="text-cyan-300 font-semibold text-base leading-tight">
                   {selectedPoi.name[displayLang] ?? selectedPoi.name.de}
