@@ -1645,6 +1645,772 @@ function generateVoelkerwanderung(): CurriculumQuestion[] {
 
 // ─── EXPORT ──────────────────────────────────────────────────────────────────
 
+
+// ─── Generator: mesopotamien_detail ──────────────────────────────────────────────────
+function generateMesopotamienDetail(_seed: number = 9501): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "mesopotamien_detail";
+
+  qs.push(createMCQ(T, S, "Zwischen welchen Flüssen lag Mesopotamien?", "Euphrat und Tigris", ["Nil und Kongo", "Rhein und Donau", "Indus und Ganges"], rng));
+  qs.push(createMCQ(T, S, "Welches Volk erfand die Keilschrift?", "Sumerer", ["Ägypter", "Griechen", "Römer"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Tempeltürme in Mesopotamien?", "Zikkurat", ["Pyramiden", "Obelisken", "Akropolis"], rng));
+  qs.push(createMCQ(T, S, "Wer war ein berühmter babylonischer König mit Gesetzestexten?", "Hammurapi", ["Cäsar", "Pharao", "Perikles"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet der Name Mesopotamien?", "Zweistromland", ["Wüstenland", "Bergnation", "Inselreich"], rng));
+  qs.push(createMCQ(T, S, "Welches Material nutzten sie zum Schreiben?", "Tontafeln", ["Papier", "Pergament", "Holz"], rng));
+  qs.push(createMCQ(T, S, "Welches Tier war wichtig für die Landwirtschaft?", "Ochse", ["Elefant", "Känguru", "Pinguin"], rng));
+  qs.push(createMCQ(T, S, "Was erfanden die Sumerer für den Transport?", "Das Rad", ["Das Auto", "Das Flugzeug", "Die Eisenbahn"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt war berühmt für die Hängenden Gärten?", "Babylon", ["Rom", "Athen", "Troja"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Hauptstadt der Assyrer?", "Ninive", ["Uruk", "Ur", "Theben"], rng));
+  qs.push(createMCQ(T, S, "Welches Metall wurde in Mesopotamien früh verarbeitet?", "Bronze", ["Aluminium", "Plastik", "Stahl"], rng));
+  qs.push(createMCQ(T, S, "Was war ein wichtiges Getreide in Mesopotamien?", "Gerste", ["Mais", "Reis", "Kartoffeln"], rng));
+  qs.push(createMCQ(T, S, "Wer war das Oberhaupt einer sumerischen Stadt?", "Priesterkönig", ["Präsident", "Bürgermeister", "Senator"], rng));
+  qs.push(createMCQ(T, S, "Womit wurden die Felder bewässert?", "Kanalsysteme", ["Regenwasser", "Feuerlöscher", "Eimer"], rng));
+  qs.push(createMCQ(T, S, "Welches Epos ist das älteste der Welt?", "Gilgamesch-Epos", ["Ilias", "Odyssee", "Bibel"], rng));
+  qs.push(createMCQ(T, S, "Wofür war Babylon im Altertum bekannt?", "Prachtbauten", ["Eiffelturm", "Freiheitsstatue", "Pyramiden"], rng));
+  qs.push(createMCQ(T, S, "Welches Volk besiegte die Assyrer?", "Babylonier und Meder", ["Wikinger", "Spanier", "Inka"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das prächtige Tor in Babylon?", "Ischtar-Tor", ["Brandenburger Tor", "Goldenes Tor", "Siegessäule"], rng));
+  qs.push(createMCQ(T, S, "Was benutzten die Schreiber zum Ritzen?", "Griffels", ["Kugelschreiber", "Pinsel", "Bleistift"], rng));
+  qs.push(createMCQ(T, S, "Was war eine wichtige Erfindung der Babylonier in der Mathematik?", "60er-System", ["Taschenrechner", "Null", "Binärsystem"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißen die zwei Flüsse?", ["Euphrat", "Tigris"]],
+    ["Wie nennt man die Schrift der Sumerer?", "Keilschrift"],
+    ["In welcher Stadt waren die hängenden Gärten?", "Babylon"],
+    ["Wer erließ die ersten geschriebenen Gesetze?", "Hammurapi"],
+    ["Auf welchem Material wurde geschrieben?", "Ton"],
+    ["Wie nennt man die Tempeltürme?", "Zikkurat"],
+    ["Welches Volk erfand das Rad?", "Sumerer"],
+    ["Wie heißt das berühmteste Epos?", "Gilgamesch"],
+    ["Woraus bauten sie ihre Häuser?", "Lehmziegel"],
+    ["Wie nannte man das Land zwischen den Flüssen?", "Mesopotamien"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: indus_zivilisation ──────────────────────────────────────────────────
+function generateIndusZivilisation(_seed: number = 9502): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "indus_zivilisation";
+
+  qs.push(createMCQ(T, S, "An welchem Fluss entstand diese Zivilisation?", "Indus", ["Nil", "Amazonas", "Donau"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß eine der größten Städte am Indus?", "Mohenjo-Daro", ["Athen", "Paris", "Peking"], rng));
+  qs.push(createMCQ(T, S, "In welchem heutigen Land lag das Kerngebiet?", "Pakistan", ["Brasilien", "Deutschland", "Australien"], rng));
+  qs.push(createMCQ(T, S, "Was war besonders an ihren Städten?", "Geplantes Schachbrettmuster", ["Chaos", "Keine Straßen", "Runde Häuser"], rng));
+  qs.push(createMCQ(T, S, "Was besaßen fast alle Häuser in Mohenjo-Daro?", "Badezimmer und Abfluss", ["Fernseher", "Garagen", "Aufzüge"], rng));
+  qs.push(createMCQ(T, S, "Womit bauten sie ihre Häuser?", "Gebrannte Ziegel", ["Holz", "Stroh", "Eis"], rng));
+  qs.push(createMCQ(T, S, "Welches Tier wurde oft auf Siegeln dargestellt?", "Stier", ["Pinguin", "Känguru", "Eisbär"], rng));
+  qs.push(createMCQ(T, S, "Welches Handwerk war dort hoch entwickelt?", "Töpferei und Schmuck", ["Uhrmacher", "Computerbau", "Autobau"], rng));
+  qs.push(createMCQ(T, S, "Wozu dienten die kleinen Steinsiegel?", "Handel und Eigentum", ["Briefmarken", "Geldstücke", "Spielzeug"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die befestigte Oberstadt?", "Zitadelle", ["Bunker", "Kirche", "Rathaus"], rng));
+  qs.push(createMCQ(T, S, "Was bauten sie hauptsächlich an?", "Weizen und Baumwolle", ["Ananas", "Kaffee", "Kakao"], rng));
+  qs.push(createMCQ(T, S, "Gab es dort große Paläste oder Tempel?", "Bisher kaum gefunden", ["Ja, überall", "Nur goldene Türme", "Nur Pyramiden"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Große Bad' vermutlich?", "Religiöse Waschanlage", ["Fischteich", "Schwimmbad", "Regenmesser"], rng));
+  qs.push(createMCQ(T, S, "Hatten sie eine Schrift?", "Ja, aber unentziffert", ["Nein", "Lateinisch", "Hieroglyphen"], rng));
+  qs.push(createMCQ(T, S, "Mit wem trieben sie Fernhandel?", "Mesopotamien", ["Amerika", "Australien", "Antarktis"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit der Zivilisation?", "Sie verschwand rätselhaft", ["Sie flogen zum Mond", "Sie wurden Römer", "Sie blieben bis heute"], rng));
+  qs.push(createMCQ(T, S, "Welches Material wurde für Schmuck genutzt?", "Karneol und Gold", ["Plastik", "Stahl", "Aluminium"], rng));
+  qs.push(createMCQ(T, S, "Wie waren die Straßen angelegt?", "Rechtwinklig", ["Zickzack", "Im Kreis", "Ganz schief"], rng));
+  qs.push(createMCQ(T, S, "Was benutzten sie zum Wiegen?", "Genormte Steingewichte", ["Augenmaß", "Digitale Waagen", "Sanduhren"], rng));
+  qs.push(createMCQ(T, S, "Wer entdeckte die Ruinen zuerst?", "Archäologen im 20. Jhd.", ["Kolumbus", "Napoleon", "Die Wikinger"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt die berühmte Stadt neben Harappa?", "Mohenjo-Daro"],
+    ["An welchem Fluss lag die Kultur?", "Indus"],
+    ["Woraus bestanden die Bausteine?", "Ziegel"],
+    ["Was hatten sie als erste in den Häusern?", "Abwasserleitung"],
+    ["Welches Material wurde für Kleidung genutzt?", "Baumwolle"],
+    ["In welchem Land liegt Mohenjo-Daro heute?", "Pakistan"],
+    ["Wie nennt man die befestigte Anlage in der Stadt?", "Zitadelle"],
+    ["Womit markierten Kaufleute ihre Waren?", "Siegel"],
+    ["Wie hieß die zweite große Stadt der Indus-Kultur?", "Harappa"],
+    ["Haben Forscher ihre Schrift schon gelesen?", "Nein"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: altes_china ──────────────────────────────────────────────────
+function generateAltesChina(_seed: number = 9503): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "altes_china";
+
+  qs.push(createMCQ(T, S, "An welchem Fluss entstand das alte China?", "Gelber Fluss (Huang He)", ["Amazonas", "Wolga", "Mississippi"], rng));
+  qs.push(createMCQ(T, S, "Wer war der erste Kaiser von China?", "Qin Shi Huangdi", ["Konfuzius", "Mulan", "Dschingis Khan"], rng));
+  qs.push(createMCQ(T, S, "Was wurde zum Schutz vor Feinden gebaut?", "Chinesische Mauer", ["Eiffelturm", "Pyramiden", "Limes"], rng));
+  qs.push(createMCQ(T, S, "Was gab der Kaiser Qin Shi Huangdi mit in sein Grab?", "Terrakotta-Armee", ["Goldene Autos", "Echte Elefanten", "Seine Schiffe"], rng));
+  qs.push(createMCQ(T, S, "Welche wichtige Erfindung stammt aus China?", "Papier", ["Glühbirne", "Telefon", "Computer"], rng));
+  qs.push(createMCQ(T, S, "Was ist Seide?", "Ein feiner Stoff von Raupen", ["Ein Metall", "Ein Gestein", "Eine Pflanze"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Handelsstraße nach Westen?", "Seidenstraße", ["Autobahn", "Salzstraße", "Bernsteinstraße"], rng));
+  qs.push(createMCQ(T, S, "Wer war ein berühmter chinesischer Philosoph?", "Konfuzius", ["Sokrates", "Platon", "Aristoteles"], rng));
+  qs.push(createMCQ(T, S, "Womit schrieben die Chinesen früher?", "Schriftzeichen", ["Alphabet", "Hieroglyphen", "Keilschrift"], rng));
+  qs.push(createMCQ(T, S, "Welche Farbe war dem Kaiser vorbehalten?", "Gelb", ["Blau", "Grün", "Schwarz"], rng));
+  qs.push(createMCQ(T, S, "Was wurde zur Verteidigung in der Mauer genutzt?", "Wachtürme", ["Kanonen", "Flugzeuge", "Panzer"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Herrscherfamilien in China?", "Dynastien", ["Demokratien", "Republiken", "Clubs"], rng));
+  qs.push(createMCQ(T, S, "Welches Material wurde für kostbares Geschirr genutzt?", "Porzellan", ["Plastik", "Eisen", "Holz"], rng));
+  qs.push(createMCQ(T, S, "Was erfanden die Chinesen für den Kompass?", "Magnetnadel", ["GPS", "Karte", "Uhr"], rng));
+  qs.push(createMCQ(T, S, "Was ist das 'Mandat des Himmels'?", "Herrschaftsauftrag", ["Ein Brief", "Ein Gesetz", "Ein Wetterphänomen"], rng));
+  qs.push(createMCQ(T, S, "Wofür wurde Schwarzpulver zuerst genutzt?", "Feuerwerk", ["Autos", "Heizung", "Kühlschrank"], rng));
+  qs.push(createMCQ(T, S, "Welches Tier ist ein Symbol für den Kaiser?", "Drache", ["Löwe", "Adler", "Einhorn"], rng));
+  qs.push(createMCQ(T, S, "Wie lange dauerte der Bau der Mauer?", "Viele Jahrhunderte", ["Zwei Wochen", "Zehn Jahre", "Einen Monat"], rng));
+  qs.push(createMCQ(T, S, "Was war die Hauptaufgabe der Beamten?", "Verwaltung des Reiches", ["Kochen", "Sport treiben", "Singen"], rng));
+  qs.push(createMCQ(T, S, "Welches Gebirge liegt im Südwesten Chinas?", "Himalaya", ["Alpen", "Anden", "Rocky Mountains"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt das Bauwerk gegen Nomaden?", "Chinesische Mauer"],
+    ["Was bewacht das Grab des ersten Kaisers?", "Terrakotta-Armee"],
+    ["Aus welchem Kokon gewinnt man Seide?", "Seidenraupe"],
+    ["Wie heißt der Gelbe Fluss auf Chinesisch?", "Huang He"],
+    ["Was erfanden die Chinesen zum Schreiben?", "Papier"],
+    ["Wie nennt man die Herrscherhäuser?", "Dynastien"],
+    ["Wer war der wichtigste Philosoph?", "Konfuzius"],
+    ["Wie hieß der Handelsweg nach Europa?", "Seidenstraße"],
+    ["Womit isst man in China?", "Stäbchen"],
+    ["Wie nannte man den Kaiser noch?", "Sohn des Himmels"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: persisches_reich ──────────────────────────────────────────────────
+function generatePersischesReich(_seed: number = 9504): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "persisches_reich";
+
+  qs.push(createMCQ(T, S, "Wer war ein bedeutender persischer Großkönig?", "Dareios I.", ["Alexander", "Cäsar", "Napoleon"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Hauptstadt des Perserreichs?", "Persepolis", ["Rom", "Athen", "Paris"], rng));
+  qs.push(createMCQ(T, S, "Wie nannten die Perser ihre Provinzen?", "Satrapien", ["Bundesländer", "Kantone", "Bezirke"], rng));
+  qs.push(createMCQ(T, S, "Was bauten die Perser für schnelle Nachrichten?", "Die Königsstraße", ["Internet", "Eisenbahn", "Telegraf"], rng));
+  qs.push(createMCQ(T, S, "Wer besiegte das Perserreich endgültig?", "Alexander der Große", ["Dschingis Khan", "Augustus", "Leonidas"], rng));
+  qs.push(createMCQ(T, S, "Was war eine Besonderheit der persischen Armee?", "Die Unsterblichen", ["Roboter", "Ritter", "Panzer"], rng));
+  qs.push(createMCQ(T, S, "Welche Religion war im Perserreich verbreitet?", "Zoroastrismus", ["Buddhismus", "Islam", "Christentum"], rng));
+  qs.push(createMCQ(T, S, "An welcher Bucht wurden die Perser 490 v. Chr. besiegt?", "Marathon", ["Biskaya", "Nordsee", "Ostsee"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Gründer des Perserreichs?", "Kyros der Große", ["Xerxes", "Dareios", "Artaxerxes"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der Sohn von Dareios, der gegen Griechenland zog?", "Xerxes I.", ["Perikles", "Leonidas", "Philipp"], rng));
+  qs.push(createMCQ(T, S, "Was ließen die Perser den unterworfenen Völkern oft?", "Ihre Religion und Bräuche", ["Ihre Waffen", "Ihr Gold", "Ihre Schiffe"], rng));
+  qs.push(createMCQ(T, S, "Wo lag das Kernland der Perser?", "Im heutigen Iran", ["In Ägypten", "In Italien", "In China"], rng));
+  qs.push(createMCQ(T, S, "Was war das Symbol der persischen Macht?", "Der geflügelte Löwe", ["Der Adler", "Der Bär", "Der Drache"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Verwalter der Provinzen?", "Satrapen", ["Könige", "Präsidenten", "Generäle"], rng));
+  qs.push(createMCQ(T, S, "Welche Seeschlacht verloren die Perser 480 v. Chr.?", "Salamis", ["Trafalgar", "Skagerrak", "Midway"], rng));
+  qs.push(createMCQ(T, S, "Wofür war Persepolis bekannt?", "Prächtige Paläste", ["Pyramiden", "Hafen", "Stadion"], rng));
+  qs.push(createMCQ(T, S, "Wie weit reichte das Reich unter Dareios?", "Vom Indus bis zur Ägäis", ["Nur Persien", "Ganz Europa", "Bis Amerika"], rng));
+  qs.push(createMCQ(T, S, "Welche Neuerung führten die Perser im Handel ein?", "Einheitliche Münzen", ["Tauschhandel", "Kreditkarten", "Papiergeld"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'König der Könige'?", "Titel des persischen Herrschers", ["Ein Gott", "Ein Priester", "Ein General"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Gegenspieler von Dareios bei Marathon?", "Miltiades", ["Sokrates", "Platon", "Leonidas"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer gründete das Weltreich der Perser?", "Kyros"],
+    ["Wie hießen die 10.000 Elitesoldaten?", "Unsterblichen"],
+    ["Wie nennt man die persischen Statthalter?", "Satrapen"],
+    ["Wie hieß die prachtvolle Residenzstadt?", "Persepolis"],
+    ["Wer verlor die Schlacht bei Salamis?", "Xerxes"],
+    ["An welchem Ort fand der erste Sieg der Athener statt?", "Marathon"],
+    ["Wie heißt der heutige Staat im Kernland?", "Iran"],
+    ["Wie nannte man den persischen Herrscher?", "Großkönig"],
+    ["Welcher Makedone eroberte Persien?", "Alexander"],
+    ["Wie hieß der Gott der Perser?", "Ahura Mazda"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: griechische_goetter ──────────────────────────────────────────────────
+function generateGriechischeGoetter(_seed: number = 9505): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "griechische_goetter";
+
+  qs.push(createMCQ(T, S, "Wer ist der Göttervater?", "Zeus", ["Hades", "Poseidon", "Ares"], rng));
+  qs.push(createMCQ(T, S, "Wo wohnten die griechischen Götter?", "Olymp", ["Himalaya", "Alpen", "Ätna"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott des Meeres?", "Poseidon", ["Zeus", "Apollo", "Hermes"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt die Göttin der Weisheit?", "Athene", ["Hera", "Aphrodite", "Artemis"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott der Unterwelt?", "Hades", ["Zeus", "Dionysos", "Hephaistos"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Götterbote?", "Hermes", ["Apollo", "Ares", "Poseidon"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt die Göttin der Liebe?", "Aphrodite", ["Hera", "Athene", "Hestia"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott des Krieges?", "Ares", ["Apollo", "Dionysos", "Hephaistos"], rng));
+  qs.push(createMCQ(T, S, "Was ist das Attribut von Zeus?", "Der Blitz", ["Der Dreizack", "Der Bogen", "Der Hammer"], rng));
+  qs.push(createMCQ(T, S, "Wer ist die Frau von Zeus?", "Hera", ["Athene", "Aphrodite", "Artemis"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott des Lichts und der Musik?", "Apollo", ["Dionysos", "Pan", "Hermes"], rng));
+  qs.push(createMCQ(T, S, "Wer ist die Göttin der Jagd?", "Artemis", ["Athene", "Hera", "Demeter"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott des Weines?", "Dionysos", ["Hades", "Ares", "Hermes"], rng));
+  qs.push(createMCQ(T, S, "Wer ist der Gott des Feuers und der Schmiede?", "Hephaistos", ["Poseidon", "Zeus", "Apollo"], rng));
+  qs.push(createMCQ(T, S, "Was trägt Poseidon als Symbol?", "Dreizack", ["Blitz", "Zepter", "Schwert"], rng));
+  qs.push(createMCQ(T, S, "Wer sprang aus dem Kopf von Zeus?", "Athene", ["Hera", "Apollo", "Artemis"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt das flügelbegabte Pferd?", "Pegasus", ["Einhorn", "Zentaur", "Chimäre"], rng));
+  qs.push(createMCQ(T, S, "Wer besiegte die Medusa?", "Perseus", ["Herkules", "Achilles", "Odysseus"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt der Held mit der verwundbaren Ferse?", "Achilles", ["Hektor", "Paris", "Ajax"], rng));
+  qs.push(createMCQ(T, S, "Wer irrte 10 Jahre über das Meer?", "Odysseus", ["Aeneas", "Jason", "Theseus"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt der oberste Gott?", "Zeus"],
+    ["Wo ist die Heimat der Götter?", "Olymp"],
+    ["Wer ist der Gott des Meeres?", "Poseidon"],
+    ["Wie heißt die Göttin der Weisheit?", "Athene"],
+    ["Wer ist der Götterbote?", "Hermes"],
+    ["Wer herrscht über die Unterwelt?", "Hades"],
+    ["Wer ist die Göttin der Liebe?", "Aphrodite"],
+    ["Wer ist der Gott des Krieges?", "Ares"],
+    ["Womit schleudert Zeus?", "Blitz"],
+    ["Wer ist der Gott der Musik?", "Apollo"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: alexander_der_grosse ──────────────────────────────────────────────────
+function generateAlexanderDerGrosse(_seed: number = 9506): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "alexander_der_grosse";
+
+  qs.push(createMCQ(T, S, "Aus welchem Land kam Alexander?", "Makedonien", ["Persien", "Ägypten", "Rom"], rng));
+  qs.push(createMCQ(T, S, "Wer war Alexanders berühmter Lehrer?", "Aristoteles", ["Sokrates", "Platon", "Konfuzius"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß Alexanders Pferd?", "Bukephalos", ["Pegasus", "Fury", "Black Beauty"], rng));
+  qs.push(createMCQ(T, S, "Welchen Knoten löste Alexander mit dem Schwert?", "Gordischer Knoten", ["Seemannsknoten", "Schleife", "Achterknoten"], rng));
+  qs.push(createMCQ(T, S, "Gegen welches Weltreich kämpfte Alexander?", "Perserreich", ["Römisches Reich", "China", "Inka"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der persische König, den er besiegte?", "Dareios III.", ["Xerxes", "Kyros", "Artaxerxes"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt in Ägypten gründete er?", "Alexandria", ["Kairo", "Luxor", "Gizeh"], rng));
+  qs.push(createMCQ(T, S, "Bis zu welchem Land marschierte sein Heer?", "Indien", ["China", "Spanien", "England"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Kampfformation seiner Soldaten?", "Phalanx", ["Schildkröte", "Reitersturm", "Karree"], rng));
+  qs.push(createMCQ(T, S, "In welcher Stadt starb Alexander?", "Babylon", ["Athen", "Rom", "Alexandria"], rng));
+  qs.push(createMCQ(T, S, "Wann starb Alexander der Große?", "323 v. Chr.", ["100 n. Chr.", "44 v. Chr.", "1200 v. Chr."], rng));
+  qs.push(createMCQ(T, S, "Wie alt war Alexander bei seinem Tod?", "32 Jahre", ["50 Jahre", "20 Jahre", "80 Jahre"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß sein Vater?", "Philipp II.", ["Leonidas", "Perikles", "Dionysos"], rng));
+  qs.push(createMCQ(T, S, "Was war das Ziel von Alexander?", "Ein Weltreich", ["Eine kleine Insel", "Nur Makedonien", "Frieden überall"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Zeit nach Alexander?", "Hellenismus", ["Mittelalter", "Steinzeit", "Barock"], rng));
+  qs.push(createMCQ(T, S, "Welche Waffe nutzten seine Soldaten (Sarissa)?", "Lange Lanze", ["Kurzschwert", "Bogen", "Schleuder"], rng));
+  qs.push(createMCQ(T, S, "Warum kehrte sein Heer in Indien um?", "Die Soldaten waren erschöpft", ["Es gab kein Essen", "Es regnete zu viel", "Sie hatten Angst vor Tigern"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit seinem Reich nach seinem Tod?", "Es wurde unter Generälen aufgeteilt", ["Es blieb bestehen", "Es versank im Meer", "Es wurde demokratisch"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen seine Nachfolger?", "Diadochen", ["Senatoren", "Pharaonen", "Kaiser"], rng));
+  qs.push(createMCQ(T, S, "Was verbreitete Alexander in seinem Reich?", "Griechische Kultur", ["Latein", "Chinesisch", "Hieroglyphen"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt sein Heimatland?", "Makedonien"],
+    ["Wer war sein Lehrer?", "Aristoteles"],
+    ["In welcher Stadt starb er?", "Babylon"],
+    ["Wie hieß sein treues Pferd?", "Bukephalos"],
+    ["Welche Stadt gründete er am Nil?", "Alexandria"],
+    ["Wie hießen seine Nachfolger?", "Diadochen"],
+    ["Wie nennt man die Zeit nach ihm?", "Hellenismus"],
+    ["Welches Reich eroberte er?", "Perserreich"],
+    ["Wer war sein Vater?", "Philipp"],
+    ["In welchem Jahr starb er?", "323 v. Chr."],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: olympische_spiele ──────────────────────────────────────────────────
+function generateOlympischeSpiele(_seed: number = 9507): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "olympische_spiele";
+
+  qs.push(createMCQ(T, S, "Wann fanden die ersten Spiele statt?", "776 v. Chr.", ["1896 n. Chr.", "100 v. Chr.", "500 n. Chr."], rng));
+  qs.push(createMCQ(T, S, "Zu Ehren welches Gottes wurden sie gefeiert?", "Zeus", ["Apollo", "Poseidon", "Ares"], rng));
+  qs.push(createMCQ(T, S, "Wo fanden die antiken Spiele statt?", "Olympia", ["Athen", "Sparta", "Rom"], rng));
+  qs.push(createMCQ(T, S, "Was herrschte während der Spiele?", "Heiliger Waffenstillstand", ["Krieg", "Sturm", "Ferien"], rng));
+  qs.push(createMCQ(T, S, "Was war der Preis für den Sieger?", "Olivenkranz", ["Goldmedaille", "Geld", "Ein Haus"], rng));
+  qs.push(createMCQ(T, S, "Wer durfte nicht teilnehmen?", "Frauen und Sklaven", ["Kinder", "Priester", "Soldaten"], rng));
+  qs.push(createMCQ(T, S, "Welche Disziplin gab es im Fünfkampf?", "Diskuswurf", ["Schwimmen", "Fußball", "Tennis"], rng));
+  qs.push(createMCQ(T, S, "Was war der älteste Wettbewerb?", "Stadionlauf", ["Boxen", "Ringen", "Wagenrennen"], rng));
+  qs.push(createMCQ(T, S, "Wie oft fanden die Spiele statt?", "Alle vier Jahre", ["Jedes Jahr", "Alle zwei Jahre", "Alle zehn Jahre"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man den Zeitraum von vier Jahren?", "Olympiade", ["Quartal", "Jahrzehnt", "Epoche"], rng));
+  qs.push(createMCQ(T, S, "Waren die Athleten bekleidet?", "Nein, sie waren nackt", ["Ja, in Trikots", "In Rüstung", "In Tuniken"], rng));
+  qs.push(createMCQ(T, S, "Welcher Wettbewerb war besonders gefährlich?", "Wagenrennen", ["Weitsprung", "Speerwurf", "Laufen"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Kampfrichter?", "Hellano dikaioi", ["Schiedsrichter", "Polizisten", "Priester"], rng));
+  qs.push(createMCQ(T, S, "Wo trainierten die Athleten?", "Gymnasion", ["Stadion", "Kirche", "Marktplatz"], rng));
+  qs.push(createMCQ(T, S, "Wie lange dauerten die Spiele am Ende?", "Fünf Tage", ["Einen Tag", "Einen Monat", "Zwei Wochen"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit Betrügern?", "Sie mussten Statuen bezahlen (Zanes)", ["Sie wurden hingerichtet", "Nichts", "Sie bekamen Gold"], rng));
+  qs.push(createMCQ(T, S, "Wer verbot die Spiele 393 n. Chr.?", "Theodosius I.", ["Nero", "Cäsar", "Augustus"], rng));
+  qs.push(createMCQ(T, S, "Warum wurden sie verboten?", "Wegen des Christentums (heidnisch)", ["Zu teuer", "Keine Lust mehr", "Wegen Krieg"], rng));
+  qs.push(createMCQ(T, S, "Was rieben sich die Athleten auf die Haut?", "Öl", ["Wasser", "Farbe", "Seife"], rng));
+  qs.push(createMCQ(T, S, "Was war das Ziel der Athleten?", "Ruhm und Ehre", ["Reichtum", "Abnehmen", "Spaß"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["In welchem Jahr begannen die Spiele?", "776 v. Chr."],
+    ["An welchem Ort fanden sie statt?", "Olympia"],
+    ["Welchem Gott galten die Spiele?", "Zeus"],
+    ["Was war der Siegerpreis?", "Olivenkranz"],
+    ["Wie nennt man den Zeitraum von 4 Jahren?", "Olympiade"],
+    ["Welche Gruppe durfte nicht zuschauen?", "Frauen"],
+    ["Was herrschte im ganzen Land?", "Waffenstillstand"],
+    ["In welchem Zustand traten Männer an?", "Nackt"],
+    ["Wie hieß der einfache Laufwettbewerb?", "Stadionlauf"],
+    ["Welcher Kaiser verbot die Spiele?", "Theodosius"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: griechische_philosophen ──────────────────────────────────────────────────
+function generateGriechischePhilosophen(_seed: number = 9508): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "griechische_philosophen";
+
+  qs.push(createMCQ(T, S, "Wer sagte 'Ich weiß, dass ich nichts weiß'?", "Sokrates", ["Platon", "Aristoteles", "Homer"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Lehrer von Aristoteles?", "Platon", ["Sokrates", "Pythagoras", "Heraklit"], rng));
+  qs.push(createMCQ(T, S, "In welcher Stadt lebten die meisten Philosophen?", "Athen", ["Sparta", "Rom", "Korinth"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet das Wort Philosophie?", "Liebe zur Weisheit", ["Angst vor Gott", "Suche nach Gold", "Wissen ist Macht"], rng));
+  qs.push(createMCQ(T, S, "Wer musste den Schierlingsbecher trinken?", "Sokrates", ["Platon", "Aristoteles", "Epikur"], rng));
+  qs.push(createMCQ(T, S, "Wer gründete die 'Akademie'?", "Platon", ["Sokrates", "Aristoteles", "Solon"], rng));
+  qs.push(createMCQ(T, S, "Welcher Philosoph war Lehrer von Alexander dem Großen?", "Aristoteles", ["Platon", "Sokrates", "Diogenes"], rng));
+  qs.push(createMCQ(T, S, "Welcher Philosoph lebte angeblich in einer Tonne?", "Diogenes", ["Sokrates", "Platon", "Aristoteles"], rng));
+  qs.push(createMCQ(T, S, "Worüber dachten Philosophen nach?", "Den Sinn des Lebens", ["Wie man Gold macht", "Wie man fliegt", "Autobau"], rng));
+  qs.push(createMCQ(T, S, "Welcher Philosoph ist für seinen mathematischen Satz bekannt?", "Pythagoras", ["Sokrates", "Archimedes", "Euklid"], rng));
+  qs.push(createMCQ(T, S, "Wer war der erste bekannte Philosoph (Wasser als Urstoff)?", "Thales von Milet", ["Platon", "Aristoteles", "Sokrates"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte Sokrates seine Methode der Gesprächsführung?", "Mäeutik (Hebammenkunst)", ["Vortrag", "Diktat", "Streit"], rng));
+  qs.push(createMCQ(T, S, "Welche Schule gründete Aristoteles?", "Peripatos (Lykeion)", ["Akademie", "Gymnasium", "Grundschule"], rng));
+  qs.push(createMCQ(T, S, "Wer war ein Vertreter der Stoa?", "Zeno", ["Sokrates", "Platon", "Aristoteles"], rng));
+  qs.push(createMCQ(T, S, "Welcher Philosoph sagte: 'Alles fließt'?", "Heraklit", ["Parmenides", "Thales", "Sokrates"], rng));
+  qs.push(createMCQ(T, S, "Was war für Epikur das wichtigste Lebensziel?", "Lust bzw. Schmerzlosigkeit", ["Krieg", "Reichtum", "Arbeit"], rng));
+  qs.push(createMCQ(T, S, "Wofür wurde Sokrates angeklagt?", "Verderben der Jugend", ["Diebstahl", "Mord", "Lügen"], rng));
+  qs.push(createMCQ(T, S, "Wer schrieb die 'Politeia' (Der Staat)?", "Platon", ["Sokrates", "Aristoteles", "Homer"], rng));
+  qs.push(createMCQ(T, S, "Wer untersuchte Tiere und Pflanzen wissenschaftlich?", "Aristoteles", ["Platon", "Sokrates", "Hippokrates"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die Suche nach Erkenntnis?", "Philosophieren", ["Rechnen", "Singen", "Turnen"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer war der Lehrer von Platon?", "Sokrates"],
+    ["Wer gründete die Akademie?", "Platon"],
+    ["Wer lehrte Alexander den Großen?", "Aristoteles"],
+    ["Was heißt Philosophie übersetzt?", "Liebe zur Weisheit"],
+    ["Wie starb Sokrates?", "Giftbecher"],
+    ["Welcher Philosoph lebte in einer Tonne?", "Diogenes"],
+    ["Wie heißt der Satz a² + b² = c²?", "Pythagoras"],
+    ["In welcher Stadt wirkten sie?", "Athen"],
+    ["Wer schrieb über den idealen Staat?", "Platon"],
+    ["Wer gilt als Vater der Medizin?", "Hippokrates"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: demokratie_athen ──────────────────────────────────────────────────
+function generateDemokratieAthen(_seed: number = 9509): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "demokratie_athen";
+
+  qs.push(createMCQ(T, S, "Was bedeutet 'Demokratie'?", "Herrschaft des Volkes", ["Herrschaft der Könige", "Recht der Starken", "Gottesstaat"], rng));
+  qs.push(createMCQ(T, S, "Wer durfte in Athen wählen?", "Männliche Vollbürger", ["Frauen", "Sklaven", "Alle Einwohner"], rng));
+  qs.push(createMCQ(T, S, "Wo versammelten sich die Bürger?", "Pnyx", ["Stadion", "Kirche", "Hafen"], rng));
+  qs.push(createMCQ(T, S, "Wer gilt als 'Vater der Demokratie'?", "Kleisthenes", ["Cäsar", "Alexander", "Leonidas"], rng));
+  qs.push(createMCQ(T, S, "Welcher Politiker prägte das 'Goldene Zeitalter'?", "Perikles", ["Sokrates", "Homer", "Solon"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Scherbengericht'?", "Verbannung von Politikern", ["Ein Abendessen", "Töpfereikurs", "Ein Jahrmarkt"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der Marktplatz in Athen?", "Agora", ["Forum", "Piazza", "Supermarkt"], rng));
+  qs.push(createMCQ(T, S, "Wie viele Ratsmitglieder gab es?", "Rat der 500", ["Rat der 10", "Rat der 100", "Rat der 1000"], rng));
+  qs.push(createMCQ(T, S, "Wer war von der Mitbestimmung ausgeschlossen?", "Frauen, Sklaven, Metöken", ["Reiche", "Soldaten", "Bauern"], rng));
+  qs.push(createMCQ(T, S, "Wie wurden viele Ämter vergeben?", "Durch Los", ["Durch Kauf", "Durch Erbe", "Durch Zweikampf"], rng));
+  qs.push(createMCQ(T, S, "Was mussten Bürger in der Volksversammlung tun?", "Über Gesetze abstimmen", ["Singen", "Kämpfen", "Steuern zahlen"], rng));
+  qs.push(createMCQ(T, S, "Was passierte beim Scherbengericht?", "Namen wurden auf Tonscherben geritzt", ["Teller wurden zerbrochen", "Es gab Suppe", "Man musste tanzen"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die fremden Einwohner ohne Bürgerrecht?", "Metöken", ["Sklaven", "Heloten", "Barbaren"], rng));
+  qs.push(createMCQ(T, S, "Warum bekamen Bürger Geld für die Teilnahme (Diäten)?", "Damit auch Arme kommen konnten", ["Als Belohnung für Klugheit", "Zum Einkaufen", "Es gab kein Geld"], rng));
+  qs.push(createMCQ(T, S, "Wer reformierte zuerst die Gesetze in Athen?", "Solon", ["Perikles", "Platon", "Aristoteles"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt war der große Rivale von Athen?", "Sparta", ["Rom", "Theben", "Troja"], rng));
+  qs.push(createMCQ(T, S, "Was ist eine 'Polis'?", "Ein Stadtstaat", ["Eine Polizei", "Ein Tempel", "Ein Schiff"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Festung auf dem Berg in Athen?", "Akropolis", ["Capitol", "Pyramide", "Burg"], rng));
+  qs.push(createMCQ(T, S, "Wie stimmten die Bürger meistens ab?", "Durch Handzeichen", ["Geheim mit Zetteln", "Durch Schreien", "Gar nicht"], rng));
+  qs.push(createMCQ(T, S, "Was war die Voraussetzung für das Bürgerrecht?", "Athener Eltern", ["Viel Geld", "Gute Noten", "Ein eigenes Schiff"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt die Herrschaft des Volkes?", "Demokratie"],
+    ["Auf welchem Platz versammelten sie sich?", "Pnyx"],
+    ["Wie hieß der Marktplatz?", "Agora"],
+    ["Wer war von der Wahl ausgeschlossen?", "Frauen"],
+    ["Wie hieß das Verfahren zur Verbannung?", "Scherbengericht"],
+    ["Welcher Staatsmann baute den Parthenon?", "Perikles"],
+    ["Wie viele Männer waren im Rat?", "500"],
+    ["Wie nennt man die griechischen Stadtstaaten?", "Polis"],
+    ["Hatten Sklaven politische Rechte?", "Nein"],
+    ["Wer war der erste große Reformer?", "Solon"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: pharaonen_dynastien ──────────────────────────────────────────────────
+function generatePharaonenDynastien(_seed: number = 9510): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "pharaonen_dynastien";
+
+  qs.push(createMCQ(T, S, "Wer war der erste König, der Ägypten vereinte?", "Narmer (Menes)", ["Cheops", "Ramses", "Tutanchamun"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet das Wort 'Pharao'?", "Großes Haus", ["Gottkönig", "Starker Krieger", "Himmelsvater"], rng));
+  qs.push(createMCQ(T, S, "Welche Frau herrschte als Pharaonin?", "Hatschepsut", ["Nofretete", "Kleopatra VII.", "Isis"], rng));
+  qs.push(createMCQ(T, S, "Wer baute die größte Pyramide?", "Cheops", ["Djoser", "Ramses", "Echnaton"], rng));
+  qs.push(createMCQ(T, S, "Welcher Pharao wollte nur einen Gott (Aton)?", "Echnaton", ["Tutanchamun", "Ramses", "Sethos"], rng));
+  qs.push(createMCQ(T, S, "Wer war die berühmte Frau von Echnaton?", "Nofretete", ["Hatschepsut", "Kleopatra", "Bastet"], rng));
+  qs.push(createMCQ(T, S, "Wessen Grab wurde 1922 fast unversehrt gefunden?", "Tutanchamun", ["Cheops", "Ramses II.", "Thutmosis"], rng));
+  qs.push(createMCQ(T, S, "Welcher Pharao regierte 66 Jahre lang?", "Ramses II.", ["Echnaton", "Djoser", "Pepi II."], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Symbole der Macht?", "Krummstab und Wedel", ["Schwert und Schild", "Krone und Apfel", "Bogen und Pfeil"], rng));
+  qs.push(createMCQ(T, S, "Wo wurden die Pharaonen im Neuen Reich bestattet?", "Tal der Könige", ["Pyramiden", "Im Nil", "In Tempeln"], rng));
+  qs.push(createMCQ(T, S, "Wer war die letzte Pharaonin Ägyptens?", "Kleopatra VII.", ["Hatschepsut", "Nefertari", "Isis"], rng));
+  qs.push(createMCQ(T, S, "Als was galt der Pharao auf Erden?", "Sohn des Re / Gott", ["Einfacher Mensch", "Präsident", "General"], rng));
+  qs.push(createMCQ(T, S, "Was trug der Pharao auf dem Kopf (Doppelkrone)?", "Pschent", ["Helm", "Hut", "Turban"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Herrscherabfolgen?", "Dynastien", ["Generationen", "Teams", "Parteien"], rng));
+  qs.push(createMCQ(T, S, "Welche Tiere waren heilig und oft bei Pharaonen?", "Falken und Schlangen", ["Hunde und Katzen", "Elefanten", "Pferde"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Entdecker von Tutanchamuns Grab?", "Howard Carter", ["Napoleon", "Indiana Jones", "Champollion"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit dem Körper nach dem Tod?", "Mumifizierung", ["Verbrennung", "Beerdigung im Wald", "Einfrieren"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Gott der Totenriten?", "Anubis", ["Ra", "Osiris", "Thot"], rng));
+  qs.push(createMCQ(T, S, "Wogegen kämpfte Ramses II. bei Kadesch?", "Hethiter", ["Römer", "Griechen", "Perser"], rng));
+  qs.push(createMCQ(T, S, "Was stand auf den Wänden der Gräber?", "Hieroglyphen", ["Latein", "Deutsch", "Keilschrift"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie nennt man den ägyptischen König?", "Pharao"],
+    ["Wer fand das Grab von Tutanchamun?", "Howard Carter"],
+    ["Welche Frau trug den falschen Bart?", "Hatschepsut"],
+    ["Welcher Pharao regierte am längsten?", "Ramses"],
+    ["Wie hieß der 'Ketzerkönig'?", "Echnaton"],
+    ["Wo liegen die Gräber des Neuen Reichs?", "Tal der Könige"],
+    ["Wer vereinte Ober- und Unterägypten?", ["Narmer", "Menes"]],
+    ["Wie heißt die berühmte Büste in Berlin?", "Nofretete"],
+    ["Wer war die letzte Königin Ägyptens?", "Kleopatra"],
+    ["Wie nennt man eine Herrscherfamilie?", "Dynastie"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: pyramiden_gizeh ──────────────────────────────────────────────────
+function generatePyramidenGizeh(_seed: number = 9511): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "pyramiden_gizeh";
+
+  qs.push(createMCQ(T, S, "Wie heißt die größte Pyramide?", "Cheops-Pyramide", ["Chephren-Pyramide", "Mykerinos-Pyramide", "Stufenpyramide"], rng));
+  qs.push(createMCQ(T, S, "In der Nähe welcher Stadt liegen die Pyramiden?", "Kairo", ["Theben", "Alexandria", "Luxor"], rng));
+  qs.push(createMCQ(T, S, "Welches Fabelwesen bewacht die Pyramiden?", "Sphinx", ["Zentaur", "Drache", "Greif"], rng));
+  qs.push(createMCQ(T, S, "Woraus wurden die Pyramiden gebaut?", "Kalksteinblöcke", ["Ziegelsteine", "Beton", "Holz"], rng));
+  qs.push(createMCQ(T, S, "Wozu dienten die Pyramiden?", "Als Grabmäler", ["Als Wohnhäuser", "Als Tempel", "Als Getreidespeicher"], rng));
+  qs.push(createMCQ(T, S, "Wer baute die Pyramiden vermutlich?", "Bezahlte Bauern und Arbeiter", ["Nur Sklaven", "Außerirdische", "Riesen"], rng));
+  qs.push(createMCQ(T, S, "In welcher Epoche wurden sie gebaut?", "Altes Reich", ["Neues Reich", "Mittelalter", "Römerzeit"], rng));
+  qs.push(createMCQ(T, S, "Wie hoch war die Cheops-Pyramide ursprünglich?", "Ca. 146 Meter", ["500 Meter", "50 Meter", "1000 Meter"], rng));
+  qs.push(createMCQ(T, S, "Was befand sich an der Spitze der Pyramide?", "Pyramidion (vergoldet)", ["Eine Flagge", "Ein Fenster", "Ein Balkon"], rng));
+  qs.push(createMCQ(T, S, "Wie viele große Pyramiden stehen in Gizeh?", "Drei", ["Zehn", "Eine", "Fünf"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der Sohn von Cheops?", "Chephren", ["Ramses", "Tutanchamun", "Djoser"], rng));
+  qs.push(createMCQ(T, S, "Was hat die Sphinx für einen Körper?", "Löwe", ["Stier", "Pferd", "Hund"], rng));
+  qs.push(createMCQ(T, S, "Wie wurden die schweren Steine transportiert?", "Auf Schlitten und Rampen", ["Mit Kränen", "Mit Lastwagen", "Mit Elefanten"], rng));
+  qs.push(createMCQ(T, S, "Was war im Inneren der Pyramide?", "Grabkammern und Gänge", ["Kinos", "Märkte", "Wohnungen"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die erste Form der Pyramide?", "Stufenpyramide", ["Knickpyramide", "Flachpyramide", "Rundpyramide"], rng));
+  qs.push(createMCQ(T, S, "Wer baute die Stufenpyramide in Sakkara?", "Djoser", ["Cheops", "Ramses", "Echnaton"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit den meisten Schätzen in den Pyramiden?", "Sie wurden von Grabräubern gestohlen", ["Sie liegen noch dort", "Sie wurden verbrannt", "Sie wurden gegessen"], rng));
+  qs.push(createMCQ(T, S, "Wie präzise sind die Pyramiden ausgerichtet?", "Nach den Himmelsrichtungen", ["Gar nicht", "Nach dem Wind", "Nach dem Zufall"], rng));
+  qs.push(createMCQ(T, S, "Wie viele Steine hat die Cheops-Pyramide ca.?", "2,3 Millionen", ["1000", "50.000", "1 Milliarde"], rng));
+  qs.push(createMCQ(T, S, "Zu welcher Weltwunder-Liste gehören sie?", "Sieben Weltwunder der Antike", ["Moderne Weltwunder", "Naturwunder", "Keine"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt die größte Pyramide?", "Cheops"],
+    ["Welches Tier hat den Körper der Sphinx?", "Löwe"],
+    ["An welchem Ort stehen die drei Pyramiden?", "Gizeh"],
+    ["Wozu dienten sie den Pharaonen?", "Grab"],
+    ["Aus welchem Material sind sie?", "Stein"],
+    ["Wer entwarf die Stufenpyramide?", "Imhotep"],
+    ["Wie heißt die mittlere Pyramide?", "Chephren"],
+    ["Wie heißt die kleinste der drei?", "Mykerinos"],
+    ["Wie hoch ist die große Pyramide ca.?", "146 Meter"],
+    ["Hatten sie Räder für den Transport?", "Nein"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: mumifizierung ──────────────────────────────────────────────────
+function generateMumifizierung(_seed: number = 9512): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "mumifizierung";
+
+  qs.push(createMCQ(T, S, "Warum wurden die Körper mumifiziert?", "Für das Weiterleben im Jenseits", ["Zum Spaß", "Wegen des Geruchs", "Als Dekoration"], rng));
+  qs.push(createMCQ(T, S, "Welches Organ blieb meistens im Körper?", "Das Herz", ["Das Gehirn", "Der Magen", "Die Lunge"], rng));
+  qs.push(createMCQ(T, S, "Womit wurde der Körper ausgetrocknet?", "Natron (Salz)", ["Zucker", "Sand", "Mehl"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die Gefäße für die Organe?", "Kanopen", ["Vasen", "Töpfe", "Eimer"], rng));
+  qs.push(createMCQ(T, S, "Womit wurde der Körper umwickelt?", "Leinenbinden", ["Plastikfolie", "Papier", "Seide"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Gott der Mumifizierung?", "Anubis", ["Ra", "Osiris", "Horus"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit dem Gehirn?", "Es wurde herausgezogen und weggeworfen", ["Es wurde gegessen", "Es blieb drin", "Es kam in eine Vase"], rng));
+  qs.push(createMCQ(T, S, "Wie lange dauerte der Prozess ca.?", "70 Tage", ["Einen Tag", "Ein Jahr", "Zehn Tage"], rng));
+  qs.push(createMCQ(T, S, "Was wurde zwischen die Binden gelegt?", "Amulette", ["Geld", "Essen", "Blumen"], rng));
+  qs.push(createMCQ(T, S, "Was legte man auf das Gesicht der Mumie?", "Eine Totenmaske", ["Eine Brille", "Einen Hut", "Einen Schleier"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt der Steinsarg?", "Sarkophag", ["Kiste", "Bett", "Haus"], rng));
+  qs.push(createMCQ(T, S, "Was wurde der Mumie mit ins Grab gegeben?", "Grabbeigaben (Möbel, Schmuck)", ["Nichts", "Nur Sand", "Ein Auto"], rng));
+  qs.push(createMCQ(T, S, "Was ist das 'Totenbuch'?", "Zaubersprüche für das Jenseits", ["Ein Tagebuch", "Ein Kochbuch", "Ein Märchenbuch"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Richter im Totenreich?", "Osiris", ["Seth", "Anubis", "Thot"], rng));
+  qs.push(createMCQ(T, S, "Was wurde beim Totengericht gewogen?", "Das Herz gegen eine Feder", ["Der ganze Körper", "Das Gold", "Die Sünden"], rng));
+  qs.push(createMCQ(T, S, "Was passierte, wenn das Herz zu schwer war?", "Die Totenfresserin fraß es", ["Man durfte nochmal", "Nichts", "Man bekam ein neues"], rng));
+  qs.push(createMCQ(T, S, "Welches Tier hat der Gott Anubis als Kopf?", "Schakal", ["Katze", "Krokodil", "Falke"], rng));
+  qs.push(createMCQ(T, S, "Woraus bestanden die Kanopen-Deckel oft?", "Götterköpfe (Horussöhne)", ["Blumen", "Steine", "Holz"], rng));
+  qs.push(createMCQ(T, S, "Wer konnte sich eine teure Mumifizierung leisten?", "Reiche und Pharaonen", ["Alle Ägypter", "Nur Sklaven", "Niemand"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die kleinen Diener-Figuren im Grab?", "Uschebtis", ["Puppen", "Zwerge", "Roboter"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie nennt man die einbalsamierte Leiche?", "Mumie"],
+    ["Welches Salz trocknete den Körper?", "Natron"],
+    ["In welche Gefäße kamen Magen und Lunge?", "Kanopen"],
+    ["Wie heißt der Gott mit dem Schakalkopf?", "Anubis"],
+    ["Aus welchem Stoff waren die Binden?", "Leinen"],
+    ["Wie nennt man den prächtigen Steinsarg?", "Sarkophag"],
+    ["Welches Organ galt als Sitz des Verstandes?", "Herz"],
+    ["Wie viele Tage dauerte die Einbalsamierung?", "70"],
+    ["Wer war der König der Unterwelt?", "Osiris"],
+    ["Was wurde gegen die Feder gewogen?", "Herz"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: punische_kriege ──────────────────────────────────────────────────
+function generatePunischeKriege(_seed: number = 9513): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "punische_kriege";
+
+  qs.push(createMCQ(T, S, "Gegen welche Stadt kämpfte Rom?", "Karthago", ["Athen", "Sparta", "Alexandria"], rng));
+  qs.push(createMCQ(T, S, "Wer war der berühmte Feldherr aus Karthago?", "Hannibal", ["Cäsar", "Scipio", "Perikles"], rng));
+  qs.push(createMCQ(T, S, "Womit überquerte Hannibal die Alpen?", "Elefanten", ["Pferden", "Schiffen", "Wagen"], rng));
+  qs.push(createMCQ(T, S, "Wie viele Punische Kriege gab es?", "Drei", ["Einen", "Zwei", "Fünf"], rng));
+  qs.push(createMCQ(T, S, "Warum hießen sie 'Punische' Kriege?", "Römer nannten Karthager 'Punier'", ["Wegen der Waffen", "Wegen eines Flusses", "Wegen der Farbe"], rng));
+  qs.push(createMCQ(T, S, "Wo lag Karthago?", "Nordafrika (heute Tunesien)", ["Italien", "Spanien", "Griechenland"], rng));
+  qs.push(createMCQ(T, S, "Welche Insel war Auslöser des 1. Krieges?", "Sizilien", ["Kreta", "Zypern", "Island"], rng));
+  qs.push(createMCQ(T, S, "Was erfanden die Römer für ihre Schiffe (1. Krieg)?", "Enterbrücke (Corvus)", ["Kanonen", "Dampfmotor", "Segel"], rng));
+  qs.push(createMCQ(T, S, "Welche Schlacht verlor Rom vernichtend (2. Krieg)?", "Cannae", ["Zama", "Leipzig", "Waterloo"], rng));
+  qs.push(createMCQ(T, S, "Wer besiegte Hannibal bei Zama?", "Scipio Africanus", ["Cäsar", "Augustus", "Nero"], rng));
+  qs.push(createMCQ(T, S, "Was rief Cato der Ältere immer wieder?", "Karthago muss zerstört werden!", ["Rom ist super!", "Frieden für alle!", "Brot und Spiele!"], rng));
+  qs.push(createMCQ(T, S, "Wie endete der 3. Punische Krieg?", "Karthago wurde dem Erdboden gleichgemacht", ["Karthago gewann", "Friedensvertrag", "Karthago wurde römische Provinz"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit der Bevölkerung Karthagos?", "Sie wurden versklavt", ["Sie wurden Römer", "Sie durften bleiben", "Sie flüchteten"], rng));
+  qs.push(createMCQ(T, S, "Welches Meer wollte Rom beherrschen?", "Mittelmeer", ["Nordsee", "Atlantik", "Rotes Meer"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die karthagischen Schiffe?", "Galeeren (Triremen)", ["U-Boote", "Segelschiffe", "Dampfer"], rng));
+  qs.push(createMCQ(T, S, "Welches Land eroberte Hannibal zuerst (vor den Alpen)?", "Spanien", ["Frankreich", "Deutschland", "Griechenland"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß Hannibals Vater?", "Hamilkar Barkas", ["Hasdrubal", "Mago", "Scipio"], rng));
+  qs.push(createMCQ(T, S, "Warum konnte Hannibal Rom nicht einnehmen?", "Er hatte zu wenig Belagerungsgeräte", ["Er hatte keine Lust", "Er war zu müde", "Rom war zu schön"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Hannibal ante portas'?", "Hannibal vor den Toren", ["Hannibal isst Brot", "Hannibal schläft", "Hannibal flieht"], rng));
+  qs.push(createMCQ(T, S, "Wer gewann am Ende die Vorherrschaft?", "Rom", ["Karthago", "Griechenland", "Ägypten"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß der Staat der Punier?", "Karthago"],
+    ["Welches Tier brachte Hannibal über die Alpen?", "Elefant"],
+    ["An welcher Schlacht verlor Rom fast alles?", "Cannae"],
+    ["Wer war der römische Sieger von Zama?", "Scipio"],
+    ["In welchem Kontinent lag Karthago?", "Afrika"],
+    ["Wie viele Kriege führten sie?", "3"],
+    ["Wie nannten die Römer die Karthager?", "Punier"],
+    ["Welche Insel war zuerst umkämpft?", "Sizilien"],
+    ["Welches Gebirge überquerte Hannibal?", "Alpen"],
+    ["Wurde Karthago am Ende zerstört?", "Ja"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: julius_caesar ──────────────────────────────────────────────────
+function generateJuliusCaesar(_seed: number = 9514): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "julius_caesar";
+
+  qs.push(createMCQ(T, S, "Welches Land eroberte Cäsar in 8 Jahren?", "Gallien", ["Spanien", "Griechenland", "Ägypten"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß sein gallischer Gegenspieler?", "Vercingetorix", ["Asterix", "Obelix", "Hannibal"], rng));
+  qs.push(createMCQ(T, S, "Welchen Fluss überschritt er gegen das Gesetz?", "Rubikon", ["Rhein", "Donau", "Nil"], rng));
+  qs.push(createMCQ(T, S, "Was sagte er nach einem schnellen Sieg?", "Veni, vidi, vici", ["Carpe Diem", "Et tu, Brute", "Ave Caesar"], rng));
+  qs.push(createMCQ(T, S, "Wann wurde Cäsar ermordet?", "15. März 44 v. Chr. (Iden)", ["1. Januar 1 n. Chr.", "24. Dezember 100 v. Chr.", "4. Juli 50 v. Chr."], rng));
+  qs.push(createMCQ(T, S, "Wer war an der Verschwörung gegen ihn beteiligt?", "Brutus und Cassius", ["Augustus", "Nero", "Kleopatra"], rng));
+  qs.push(createMCQ(T, S, "Welchen Titel ließ er sich auf Lebenszeit geben?", "Diktator", ["König", "Präsident", "Papst"], rng));
+  qs.push(createMCQ(T, S, "Mit welcher Königin war er verbündet?", "Kleopatra", ["Hatschepsut", "Nofretete", "Isis"], rng));
+  qs.push(createMCQ(T, S, "Was führte Cäsar zur Zeitrechnung ein?", "Julianischer Kalender", ["Uhrzeit", "Wochentage", "Sommerzeit"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die drei Männer (Cäsar, Pompeius, Crassus)?", "Triumvirat", ["Die heiligen Drei", "Club der Drei", "Senatoren"], rng));
+  qs.push(createMCQ(T, S, "Wo besiegte Cäsar Pompeius endgültig?", "Pharsalos", ["Rom", "Athen", "Alexandria"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Alea iacta est'?", "Der Würfel ist gefallen", ["Das Spiel beginnt", "Ich bin hier", "Der König kommt"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte Cäsar seine Berichte über den Krieg?", "De Bello Gallico", ["Mein Tagebuch", "Roms Aufstieg", "Gallien ist frei"], rng));
+  qs.push(createMCQ(T, S, "Wo wurde Cäsar ermordet?", "Im Theater des Pompeius (Senat)", ["Im Kolosseum", "Auf der Straße", "Zuhause"], rng));
+  qs.push(createMCQ(T, S, "Warum wurde er ermordet?", "Man fürchtete, er wolle König werden", ["Er war zu arm", "Er war zu alt", "Er lügte"], rng));
+  qs.push(createMCQ(T, S, "In welcher Stadt wurde er geboren?", "Rom", ["Mailand", "Paris", "Neapel"], rng));
+  qs.push(createMCQ(T, S, "Was passierte nach seinem Tod?", "Bürgerkrieg", ["Frieden", "Gallien wurde frei", "Die Republik blieb"], rng));
+  qs.push(createMCQ(T, S, "War Cäsar der erste Kaiser von Rom?", "Nein, das war Augustus", ["Ja", "Nur für eine Woche", "Er war Gott"], rng));
+  qs.push(createMCQ(T, S, "Welche Farbe trug Cäsar bei Triumphen?", "Purpur", ["Grün", "Blau", "Gelb"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß seine Adoptivsohn und Erbe?", "Octavian (Augustus)", ["Brutus", "Nero", "Tiberius"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß der berühmte Feldherr mit Vornamen?", "Gaius"],
+    ["Welches Land eroberte er?", "Gallien"],
+    ["An welchem Fluss sagte er 'Alea iacta est'?", "Rubikon"],
+    ["Wer war sein Mörder und Freund?", "Brutus"],
+    ["In welchem Monat wurde er ermordet?", "März"],
+    ["Wie heißt sein Kalender?", "Julianischer"],
+    ["Was bedeutet 'Vici'?", "Ich habe gesiegt"],
+    ["Welchen Titel hatte er auf Lebenszeit?", "Diktator"],
+    ["Wie hieß der gallische Häuptling?", "Vercingetorix"],
+    ["War er ein König?", "Nein"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: kaiser_augustus ──────────────────────────────────────────────────
+function generateKaiserAugustus(_seed: number = 9515): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "kaiser_augustus";
+
+  qs.push(createMCQ(T, S, "Wie hieß Augustus, bevor er Kaiser wurde?", "Octavian", ["Cäsar", "Nero", "Brutus"], rng));
+  qs.push(createMCQ(T, S, "Wer war sein Adoptivvater?", "Julius Cäsar", ["Augustus", "Pompeius", "Crassus"], rng));
+  qs.push(createMCQ(T, S, "Gegen wen kämpfte er bei Actium?", "Marcus Antonius und Kleopatra", ["Hannibal", "Vercingetorix", "Sokrates"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die lange Friedenszeit unter ihm?", "Pax Romana", ["Pax Augusta", "Zeit des Glücks", "Goldene Ära"], rng));
+  qs.push(createMCQ(T, S, "Wann begann seine Alleinherrschaft?", "27 v. Chr.", ["44 v. Chr.", "100 n. Chr.", "753 v. Chr."], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet der Name 'Augustus'?", "Der Erhabene", ["Der Starke", "Der Schöne", "Der Erste"], rng));
+  qs.push(createMCQ(T, S, "Welchen Titel nutzte er selbst (Erster Bürger)?", "Princeps", ["Rex", "Imperator", "Diktator"], rng));
+  qs.push(createMCQ(T, S, "Welches Land wurde unter ihm römische Provinz?", "Ägypten", ["China", "Indien", "Amerika"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Leibwächter des Kaisers?", "Prätorianer", ["Legionäre", "Ritter", "Polizei"], rng));
+  qs.push(createMCQ(T, S, "Was ließ Augustus in Rom bauen?", "Prachtbauten (aus Marmor)", ["Pyramiden", "Eiffelturm", "Burgen"], rng));
+  qs.push(createMCQ(T, S, "Wer war ein enger Freund und Berater?", "Agrippa", ["Brutus", "Nero", "Sokrates"], rng));
+  qs.push(createMCQ(T, S, "Welche große Niederlage erlitt Rom unter ihm (9 n. Chr.)?", "Varusschlacht", ["Schlacht bei Zama", "Cannae", "Leipzig"], rng));
+  qs.push(createMCQ(T, S, "Wo fand die Varusschlacht statt?", "Germanien", ["Gallien", "Spanien", "Afrika"], rng));
+  qs.push(createMCQ(T, S, "Was war Augustus' Ziel für Rom?", "Ordnung und Stabilität", ["Mehr Kriege", "Abschaffung des Senats", "Reisen"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß seine Ehefrau?", "Livia", ["Kleopatra", "Julia", "Octavia"], rng));
+  qs.push(createMCQ(T, S, "Wie lange regierte er ca.?", "Über 40 Jahre", ["10 Jahre", "5 Jahre", "80 Jahre"], rng));
+  qs.push(createMCQ(T, S, "Was geschah mit dem Staat unter ihm?", "Republik wurde zum Kaiserreich", ["Königreich wurde Demokratie", "Rom ging unter", "Nichts"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Monate nach ihm?", "August", ["Juli", "Januar", "Mai"], rng));
+  qs.push(createMCQ(T, S, "Wo starb Augustus?", "Nola", ["Rom", "Paris", "Athen"], rng));
+  qs.push(createMCQ(T, S, "Wer wurde sein Nachfolger?", "Tiberius", ["Caligula", "Nero", "Cäsar"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer war der erste römische Kaiser?", "Augustus"],
+    ["Wie hieß er als junger Mann?", "Octavian"],
+    ["Wie nennt man den römischen Frieden?", "Pax Romana"],
+    ["Gegen welche Königin gewann er bei Actium?", "Kleopatra"],
+    ["Wie nennt man seinen Titel als 'Erster Bürger'?", "Princeps"],
+    ["In welchem Land verlor Varus drei Legionen?", "Germanien"],
+    ["Wie hieß seine treue Ehefrau?", "Livia"],
+    ["Wie heißt der Monat, der nach ihm benannt ist?", "August"],
+    ["Aus welchem Material war Rom nach seinen Bauten?", "Marmor"],
+    ["Wer war sein Adoptivvater?", "Caesar"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: konstantin_grosse ──────────────────────────────────────────────────
+function generateKonstantinGrosse(_seed: number = 9516): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "konstantin_grosse";
+
+  qs.push(createMCQ(T, S, "Was erlaubte Konstantin 313 n. Chr.?", "Religionsfreiheit (Christentum)", ["Das Auto", "Krieg gegen alle", "Das Ende Roms"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das Edikt von 313?", "Edikt von Mailand", ["Gesetz von Rom", "Frieden von Paris", "Vertrag von Trier"], rng));
+  qs.push(createMCQ(T, S, "An welcher Brücke siegte Konstantin 312?", "Milvische Brücke", ["Golden Gate", "Rheinbrücke", "London Bridge"], rng));
+  qs.push(createMCQ(T, S, "Welches Zeichen sah er angeblich am Himmel?", "Christusmonogramm (Chi-Rho)", ["Einen Stern", "Einen Adler", "Einen Blitz"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die neue Hauptstadt im Osten?", "Konstantinopel", ["Byzanz", "Athen", "Paris"], rng));
+  qs.push(createMCQ(T, S, "Wie heißt Konstantinopel heute?", "Istanbul", ["Ankara", "Rom", "Berlin"], rng));
+  qs.push(createMCQ(T, S, "Welches Konzil berief er 325 n. Chr. ein?", "Konzil von Nicäa", ["Konzil von Rom", "Versammlung von Trier", "Club von Paris"], rng));
+  qs.push(createMCQ(T, S, "War Konstantin von Anfang an Christ?", "Nein, erst auf dem Sterbebett getauft", ["Ja, seit der Geburt", "Er wurde nie Christ", "Er war Priester"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß seine Mutter, die Kirchen baute?", "Helena", ["Livia", "Julia", "Kleopatra"], rng));
+  qs.push(createMCQ(T, S, "Warum verlegte er die Hauptstadt nach Osten?", "Bessere Lage für Handel und Schutz", ["Er mochte Rom nicht", "Wegen des Wetters", "Wegen der Berge"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit dem Römischen Reich später?", "Es wurde geteilt", ["Es blieb für immer", "Es verschwand sofort", "Es wurde demokratisch"], rng));
+  qs.push(createMCQ(T, S, "Was ließ Konstantin in Rom bauen?", "Triumphbogen", ["Eiffelturm", "Pyramide", "Weißes Haus"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt war die alte Hauptstadt?", "Rom", ["Athen", "Mailand", "Trier"], rng));
+  qs.push(createMCQ(T, S, "Was änderte sich für Christen unter Konstantin?", "Sie wurden nicht mehr verfolgt", ["Sie wurden Sklaven", "Sie mussten gehen", "Nichts"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man das Reich im Osten später?", "Byzantinisches Reich", ["Heiliges Reich", "Neues Rom", "Griechenland"], rng));
+  qs.push(createMCQ(T, S, "In welcher Stadt wurde Konstantin zum Kaiser ausgerufen?", "York (Britannien)", ["Rom", "Trier", "Paris"], rng));
+  qs.push(createMCQ(T, S, "Welcher Fluss war wichtig für die neue Hauptstadt?", "Bosporus", ["Nil", "Donau", "Rhein"], rng));
+  qs.push(createMCQ(T, S, "Welcher Kaiser machte das Christentum zur Staatsreligion?", "Theodosius I.", ["Konstantin", "Nero", "Augustus"], rng));
+  qs.push(createMCQ(T, S, "Was war das Symbol auf den Schilden seiner Soldaten?", "Chi-Rho (XP)", ["Adler", "Blitz", "Löwe"], rng));
+  qs.push(createMCQ(T, S, "Wie lange regierte Konstantin?", "Über 30 Jahre", ["5 Jahre", "10 Jahre", "80 Jahre"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß die neue Hauptstadt?", "Konstantinopel"],
+    ["Wie heißt diese Stadt heute?", "Istanbul"],
+    ["An welcher Brücke fand die Schlacht statt?", "Milvische"],
+    ["Welche Religion wurde erlaubt?", "Christentum"],
+    ["Wie hieß das Edikt von 313?", "Mailand"],
+    ["Wie hieß seine gläubige Mutter?", "Helena"],
+    ["In welchem Land wurde er zum Kaiser?", "England"],
+    ["Wie nennt man das Monogramm XP?", "Chi-Rho"],
+    ["Wer war sein Vater?", "Constantius"],
+    ["In welcher Stadt war das große Konzil?", "Nicaea"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: christentum_entstehung ──────────────────────────────────────────────────
+function generateChristentumEntstehung(_seed: number = 9517): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "christentum_entstehung";
+
+  qs.push(createMCQ(T, S, "In welcher römischen Provinz lebte Jesus?", "Judäa", ["Gallien", "Germanien", "Ägypten"], rng));
+  qs.push(createMCQ(T, S, "Wer war der römische Statthalter bei Jesu Tod?", "Pontius Pilatus", ["Cäsar", "Augustus", "Nero"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die engsten Begleiter Jesu?", "Apostel", ["Soldaten", "Senatoren", "Pharaonen"], rng));
+  qs.push(createMCQ(T, S, "Welche Botschaft verkündete Jesus?", "Nächstenliebe", ["Krieg gegen Rom", "Reichtum für alle", "Keine Religion"], rng));
+  qs.push(createMCQ(T, S, "Warum wurden Christen im Römischen Reich verfolgt?", "Sie verehrten den Kaiser nicht als Gott", ["Sie waren zu arm", "Sie waren zu laut", "Sie hatten keine Tempel"], rng));
+  qs.push(createMCQ(T, S, "Welcher Kaiser begann die erste große Verfolgung?", "Nero", ["Augustus", "Konstantin", "Cäsar"], rng));
+  qs.push(createMCQ(T, S, "Was war ein geheimes Symbol der frühen Christen?", "Fisch (Ichthys)", ["Löwe", "Adler", "Blitz"], rng));
+  qs.push(createMCQ(T, S, "Wo trafen sich Christen oft heimlich?", "Katakomben (Grabstätten)", ["Im Stadion", "Auf dem Marktplatz", "Im Palast"], rng));
+  qs.push(createMCQ(T, S, "Wer verbreitete das Christentum besonders stark?", "Paulus", ["Brutus", "Pompeius", "Sokrates"], rng));
+  qs.push(createMCQ(T, S, "Was ist das heilige Buch der Christen?", "Die Bibel", ["Der Koran", "Die Tora", "Das Totenbuch"], rng));
+  qs.push(createMCQ(T, S, "Wo wurde Jesus geboren?", "Bethlehem", ["Rom", "Athen", "Jerusalem"], rng));
+  qs.push(createMCQ(T, S, "Was passierte 313 n. Chr.?", "Das Christentum wurde erlaubt", ["Das Reich ging unter", "Jesus wurde geboren", "Rom wurde abgebrannt"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man jemanden, der für seinen Glauben stirbt?", "Märtyrer", ["Held", "Soldat", "König"], rng));
+  qs.push(createMCQ(T, S, "Was passierte laut Bibel nach drei Tagen?", "Auferstehung", ["Nichts", "Ein Fest", "Eine Reise"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt wurde das Zentrum der Westkirche?", "Rom", ["Jerusalem", "Athen", "Alexandria"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der erste Bischof von Rom (laut Tradition)?", "Petrus", ["Paulus", "Johannes", "Konstantin"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Gemeinschaft der Gläubigen?", "Kirche / Gemeinde", ["Club", "Partei", "Armee"], rng));
+  qs.push(createMCQ(T, S, "Warum breitete sich der Glaube so schnell aus?", "Er gab Hoffnung für Arme und Sklaven", ["Man bekam Geld", "Es war Pflicht", "Wegen der Kriege"], rng));
+  qs.push(createMCQ(T, S, "Wer machte das Christentum 391 zur Staatsreligion?", "Theodosius I.", ["Nero", "Augustus", "Konstantin"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet das Wort 'Evangelium'?", "Gute Nachricht", ["Altes Gesetz", "Königsbrief", "Geheimnis"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer ist die zentrale Figur des Christentums?", "Jesus"],
+    ["Wie hießen die 12 Begleiter Jesu?", "Apostel"],
+    ["In welcher Stadt wurde Jesus gekreuzigt?", "Jerusalem"],
+    ["Wie nennt man die Grabgänge unter Rom?", "Katakomben"],
+    ["Wer war der Kaiser bei der ersten Verfolgung?", "Nero"],
+    ["Welches Tier war ein Geheimzeichen?", "Fisch"],
+    ["Wer missionierte die Nichtjuden?", "Paulus"],
+    ["Wie heißt das heilige Buch?", "Bibel"],
+    ["In welcher Provinz lag Nazareth?", "Galaea"],
+    ["Wie nennt man den Bischof von Rom heute?", "Papst"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
 export const G5_Generators_Geschichte: Record<string, () => CurriculumQuestion[]> = {
   fruehe_hochkulturen: generateFrueheHochkulturen,
   aegypten: generateAegypten,
@@ -1653,4 +2419,22 @@ export const G5_Generators_Geschichte: Record<string, () => CurriculumQuestion[]
   rom_kaiserreich: generateRomKaiserreich,
   germanen: generateGermanen,
   voelkerwanderung: generateVoelkerwanderung,
+
+  mesopotamien_detail: () => generateMesopotamienDetail(),
+  indus_zivilisation: () => generateIndusZivilisation(),
+  altes_china: () => generateAltesChina(),
+  persisches_reich: () => generatePersischesReich(),
+  griechische_goetter: () => generateGriechischeGoetter(),
+  alexander_der_grosse: () => generateAlexanderDerGrosse(),
+  olympische_spiele: () => generateOlympischeSpiele(),
+  griechische_philosophen: () => generateGriechischePhilosophen(),
+  demokratie_athen: () => generateDemokratieAthen(),
+  pharaonen_dynastien: () => generatePharaonenDynastien(),
+  pyramiden_gizeh: () => generatePyramidenGizeh(),
+  mumifizierung: () => generateMumifizierung(),
+  punische_kriege: () => generatePunischeKriege(),
+  julius_caesar: () => generateJuliusCaesar(),
+  kaiser_augustus: () => generateKaiserAugustus(),
+  konstantin_grosse: () => generateKonstantinGrosse(),
+  christentum_entstehung: () => generateChristentumEntstehung(),
 };

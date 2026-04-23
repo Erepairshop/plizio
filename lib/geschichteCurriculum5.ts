@@ -11,6 +11,23 @@ const G5_SUBTOPICS = [
   { id: "rom_kaiserreich",     names: { de: "Römisches Kaiserreich", hu: "Római császárság", ro: "Imperiul Roman", en: "Roman Empire" } },
   { id: "germanen",            names: { de: "Germanen", hu: "Germánok", ro: "Germanii", en: "Germanic Peoples" } },
   { id: "voelkerwanderung",    names: { de: "Völkerwanderung", hu: "Népvándorlás", ro: "Marea migrație", en: "Migration Period" } },
+  { id: "mesopotamien_detail", names: { de: "Mesopotamien", hu: "Mezopotámia", ro: "Mesopotamia", en: "Mesopotamia" } },
+  { id: "indus_zivilisation",  names: { de: "Indus-Zivilisation", hu: "Indus-völgyi civilizáció", ro: "Civilizația Indusului", en: "Indus Valley Civilization" } },
+  { id: "altes_china",         names: { de: "Altes China", hu: "Ókori Kína", ro: "China Antică", en: "Ancient China" } },
+  { id: "persisches_reich",    names: { de: "Persisches Reich", hu: "Perzsa Birodalom", ro: "Imperiul Persan", en: "Persian Empire" } },
+  { id: "griechische_goetter", names: { de: "Griechische Götter", hu: "Görög istenek", ro: "Zei greci", en: "Greek Gods" } },
+  { id: "alexander_der_grosse",names: { de: "Alexander der Große", hu: "Nagy Sándor", ro: "Alexandru cel Mare", en: "Alexander the Great" } },
+  { id: "olympische_spiele",   names: { de: "Olympische Spiele", hu: "Olimpiai játékok", ro: "Jocurile Olimpice", en: "Olympic Games" } },
+  { id: "griechische_philosophen", names: { de: "Griechische Philosophen", hu: "Görög filozófusok", ro: "Filozofi greci", en: "Greek Philosophers" } },
+  { id: "demokratie_athen",    names: { de: "Demokratie in Athen", hu: "Athéni demokrácia", ro: "Democrația Ateniană", en: "Athenian Democracy" } },
+  { id: "pharaonen_dynastien", names: { de: "Pharaonen-Dynastien", hu: "Fáraó-dinasztiák", ro: "Dinastiile faraonilor", en: "Pharaoh Dynasties" } },
+  { id: "pyramiden_gizeh",     names: { de: "Pyramiden von Gizeh", hu: "Gízai piramisok", ro: "Piramidele din Giza", en: "Pyramids of Giza" } },
+  { id: "mumifizierung",       names: { de: "Mumifizierung", hu: "Mumifikálás", ro: "Mumificare", en: "Mummification" } },
+  { id: "punische_kriege",     names: { de: "Punische Kriege", hu: "Pun háborúk", ro: "Războaiele Punice", en: "Punic Wars" } },
+  { id: "julius_caesar",       names: { de: "Julius Caesar", hu: "Julius Caesar", ro: "Iulius Cezar", en: "Julius Caesar" } },
+  { id: "kaiser_augustus",     names: { de: "Kaiser Augustus", hu: "Augustus császár", ro: "Împăratul Augustus", en: "Emperor Augustus" } },
+  { id: "konstantin_grosse",   names: { de: "Konstantin der Große", hu: "Nagy Konstantin", ro: "Constantin cel Mare", en: "Constantine the Great" } },
+  { id: "christentum_entstehung", names: { de: "Entstehung des Christentums", hu: "A kereszténység kialakulása", ro: "Apariția creștinismului", en: "Origin of Christianity" } },
 ];
 
 export const G5_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [

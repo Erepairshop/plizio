@@ -16,6 +16,16 @@ const G8_SUBTOPICS = [
   { id: "kalter_krieg",             names: { de: "Kalter Krieg",                  hu: "Hidegháború",                ro: "Războiul Rece",               en: "Cold War" } },
   { id: "wiedervereinigung",        names: { de: "Deutsche Wiedervereinigung",    hu: "Német újraegyesítés",        ro: "Reunificarea Germaniei",      en: "German Reunification" } },
   { id: "europa_einigung",          names: { de: "Europäische Einigung",          hu: "Európai integráció",         ro: "Integrarea Europeană",        en: "European Integration" } },
+  { id: "russische_revolution",     names: { de: "Russische Revolution",          hu: "Orosz forradalom",           ro: "Revoluția Rusă",              en: "Russian Revolution" } },
+  { id: "versailler_vertrag",       names: { de: "Versailler Vertrag",            hu: "Versailles-i szerződés",     ro: "Tratatul de la Versailles",   en: "Treaty of Versailles" } },
+  { id: "weltwirtschaftskrise_1929",names: { de: "Weltwirtschaftskrise 1929",     hu: "1929-es gazdasági világválság", ro: "Marea Criză din 1929",     en: "Great Depression 1929" } },
+  { id: "berliner_mauer",           names: { de: "Berliner Mauer",                hu: "Berlini fal",                ro: "Zidul Berlinului",            en: "Berlin Wall" } },
+  { id: "kubakrise",                names: { de: "Kubakrise",                     hu: "Kubai rakétaválság",         ro: "Criza Rachetelor din Cuba",   en: "Cuban Missile Crisis" } },
+  { id: "68er_bewegung",            names: { de: "68er-Bewegung",                 hu: "68-as mozgalom",             ro: "Mișcarea din '68",            en: "1968 Movement" } },
+  { id: "wirtschaftswunder_brd",    names: { de: "Wirtschaftswunder BRD",         hu: "Német gazdasági csoda",      ro: "Minunea Economică Germană",   en: "German Economic Miracle" } },
+  { id: "ddr_alltag",               names: { de: "DDR-Alltag",                    hu: "NDK mindennapok",            ro: "Viața în RDG",                en: "Everyday Life in GDR" } },
+  { id: "dekolonisation",           names: { de: "Dekolonisation",                hu: "Dekolonizáció",              ro: "Decolonizare",                en: "Decolonization" } },
+  { id: "globalisierung_digitalisierung", names: { de: "Globalisierung & Digitalisierung", hu: "Globalizáció és digitalizáció", ro: "Globalizare și Digitalizare", en: "Globalization & Digitalization" } },
 ];
 
 export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [

@@ -733,6 +733,457 @@ function generateEuropaEinigung(seed: number = 822): CurriculumQuestion[] {
 
 // ─── FINAL GENERATOR MAP ───────────────────────────────────────────────────
 
+
+// ─── Generator: russische_revolution ──────────────────────────────────────────────────
+function generateRussischeRevolution(_seed: number = 9801): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "russische_revolution";
+
+  qs.push(createMCQ(T, S, "Wer war der Anführer der Bolschewiki während der Oktoberrevolution?", "Wladimir Lenin", ["Nikolaus II.", "Leo Trotzki", "Josef Stalin"], rng));
+  qs.push(createMCQ(T, S, "In welchem Jahr fand die Russische Revolution statt?", "1917", ["1905", "1914", "1923"], rng));
+  qs.push(createMCQ(T, S, "Wer war der letzte Zar von Russland?", "Nikolaus II.", ["Alexander III.", "Peter der Große", "Iwan der Schreckliche"], rng));
+  qs.push(createMCQ(T, S, "Was war ein Hauptgrund für die Februarrevolution 1917?", "Lebensmittelknappheit und Hunger", ["Der Sieg im Ersten Weltkrieg", "Die Krönung des Zaren", "Der Bau der Transsibirischen Eisenbahn"], rng));
+  qs.push(createMCQ(T, S, "Welche politische Ideologie strebten die Bolschewiki an?", "Kommunismus", ["Kapitalismus", "Monarchie", "Liberalismus"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das Parlament, das nach der Februarrevolution gebildet wurde?", "Duma", ["Reichstag", "Sowjet", "Kreml"], rng));
+  qs.push(createMCQ(T, S, "Welches Ereignis markiert den Beginn der Oktoberrevolution?", "Sturm auf den Winterpalast", ["Attentat auf den Zaren", "Unterzeichnung des Friedens von Brest-Litowsk", "Bau der Berliner Mauer"], rng));
+  qs.push(createMCQ(T, S, "Was versprach Lenin dem Volk in seinen 'Aprilthesen'?", "Friede, Land und Brot", ["Krieg, Gold und Ehre", "Arbeit, Freiheit und Demokratie", "Sieg, Territorium und Macht"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Räte von Arbeitern und Soldaten?", "Sowjets", ["Bolschewiki", "Menschewiki", "Zaristen"], rng));
+  qs.push(createMCQ(T, S, "Wer war Lenins engster Mitarbeiter bei der Organisation des Aufstands?", "Leo Trotzki", ["Karl Marx", "Friedrich Engels", "Grigori Rasputin"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Gegner der Bolschewiki im russischen Bürgerkrieg?", "Die Weißen", ["Die Grünen", "Die Blauen", "Die Gelben"], rng));
+  qs.push(createMCQ(T, S, "Was geschah mit der Zarenfamilie im Jahr 1918?", "Sie wurden hingerichtet", ["Sie flüchteten nach England", "Sie kehrten an die Macht zurück", "Sie wurden ins Exil nach Sibirien geschickt"], rng));
+  qs.push(createMCQ(T, S, "Welchen Namen erhielt Russland nach der Gründung des neuen Staates 1922?", "Sowjetunion (UdSSR)", ["Russische Föderation", "Kaiserreich Russland", "Volksrepublik Russland"], rng));
+  qs.push(createMCQ(T, S, "Was war das Ziel der 'Roten Garden'?", "Sicherung der bolschewistischen Macht", ["Schutz des Zaren", "Einführung der Marktwirtschaft", "Verteidigung gegen Napoleon"], rng));
+  qs.push(createMCQ(T, S, "Wer war die gemäßigtere Fraktion der russischen Sozialdemokraten?", "Menschewiki", ["Bolschewiki", "Kadetten", "Anarchisten"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der Geheimdienst, den Lenin gründete?", "Tscheka", ["KGB", "Gestapo", "CIA"], rng));
+  qs.push(createMCQ(T, S, "Welchen Vertrag schloss Russland 1918 mit Deutschland, um aus dem Krieg auszuscheiden?", "Friede von Brest-Litowsk", ["Versailler Vertrag", "Vertrag von Trianon", "Münchner Abkommen"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'Rote Terror'?", "Gewaltsames Vorgehen gegen Revolutionsgegner", ["Ein großes Feuer in Moskau", "Eine Epidemie", "Ein Angriff ausländischer Mächte"], rng));
+  qs.push(createMCQ(T, S, "Wer war Grigori Rasputin?", "Ein einflussreicher Berater der Zarenfamilie", ["Ein General der Bolschewiki", "Der Anführer der Menschewiki", "Ein deutscher Spion"], rng));
+  qs.push(createMCQ(T, S, "Welche Stadt war das Zentrum der Revolution?", "Petrograd (St. Petersburg)", ["Moskau", "Kiew", "Wladiwostok"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß der Anführer der Oktoberrevolution mit Nachnamen?", "Lenin"],
+    ["Welcher Monat folgte im Namen der zweiten Revolution 1917 auf den Februar?", "Oktober"],
+    ["Wie nannte man die russischen Kaiser?", "Zar"],
+    ["Wie hieß der letzte Zar mit Vornamen?", "Nikolaus"],
+    ["Welche politische Farbe wird mit dem Kommunismus assoziiert?", "Rot"],
+    ["Wie hießen die Räte auf Russisch?", "Sowjets"],
+    ["Wie hieß Lenins Partei?", "Bolschewiki"],
+    ["Welcher Krieg schwächte das Zarenreich vor der Revolution?", "Erster Weltkrieg"],
+    ["Wie hieß die spätere Supermacht UdSSR ausgeschrieben?", "Sowjetunion"],
+    ["Wer war der geistige Vater des Kommunismus (Nachname)?", "Marx"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: versailler_vertrag ──────────────────────────────────────────────────
+function generateVersaillerVertrag(_seed: number = 9802): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "versailler_vertrag";
+
+  qs.push(createMCQ(T, S, "In welchem Jahr wurde der Versailler Vertrag unterzeichnet?", "1919", ["1918", "1920", "1925"], rng));
+  qs.push(createMCQ(T, S, "Welcher Artikel wies Deutschland die alleinige Kriegsschuld zu?", "Artikel 231", ["Artikel 1", "Artikel 48", "Artikel 100"], rng));
+  qs.push(createMCQ(T, S, "Wie nannten viele Deutsche den Vertrag, weil sie nicht mitverhandeln durften?", "Diktatfrieden", ["Gerechtigkeitsvertrag", "Bündnisvertrag", "Völkerbund"], rng));
+  qs.push(createMCQ(T, S, "Welches Gebiet musste Deutschland an Frankreich abtreten?", "Elsass-Lothringen", ["Bayern", "Sachsen", "Berlin"], rng));
+  qs.push(createMCQ(T, S, "Was war eine militärische Folge des Vertrags für Deutschland?", "Beschränkung des Heeres auf 100.000 Mann", ["Einführung der Wehrpflicht", "Bau von Atombomben", "Besetzung von Paris"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Entschädigungszahlungen, die Deutschland leisten musste?", "Reparationen", ["Steuern", "Zölle", "Spenden"], rng));
+  qs.push(createMCQ(T, S, "Welche Organisation wurde durch den Versailler Vertrag ins Leben gerufen?", "Völkerbund", ["Vereinte Nationen", "NATO", "Europäische Union"], rng));
+  qs.push(createMCQ(T, S, "Wer war der US-Präsident während der Verhandlungen?", "Woodrow Wilson", ["Franklin D. Roosevelt", "Harry S. Truman", "Theodore Roosevelt"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der französische Ministerpräsident, der eine harte Bestrafung forderte?", "Georges Clemenceau", ["Napoleon III.", "Charles de Gaulle", "David Lloyd George"], rng));
+  qs.push(createMCQ(T, S, "Welche Region wurde zum entmilitarisierten Gebiet erklärt?", "Rheinland", ["Ostpreußen", "Saarland", "Schlesien"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit den deutschen Kolonien?", "Sie wurden unter Mandat des Völkerbundes gestellt", ["Sie blieben bei Deutschland", "Sie wurden unabhängig", "Sie wurden an Russland verkauft"], rng));
+  qs.push(createMCQ(T, S, "Welches Land war von den Verhandlungen ausgeschlossen?", "Deutschland", ["Italien", "Japan", "Belgien"], rng));
+  qs.push(createMCQ(T, S, "Wie reagierte die deutsche Regierung zunächst auf die Vertragsbedingungen?", "Mit Entsetzen und Rücktrittsdrohungen", ["Mit großer Freude", "Mit sofortiger Zustimmung", "Mit einer Kriegserklärung an die USA"], rng));
+  qs.push(createMCQ(T, S, "Was geschah mit der deutschen Hochseeflotte in Scapa Flow?", "Sie wurde von der eigenen Besatzung versenkt", ["Sie wurde an England übergeben", "Sie wurde verschrottet", "Sie wurde im Kampf versenkt"], rng));
+  qs.push(createMCQ(T, S, "Welches Gebiet im Osten wurde von Deutschland abgetrennt (der 'Korridor')?", "Westpreußen", ["Bayern", "Tirol", "Böhmen"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß der britische Premierminister bei den Verhandlungen?", "David Lloyd George", ["Winston Churchill", "Neville Chamberlain", "Tony Blair"], rng));
+  qs.push(createMCQ(T, S, "Was war das Hauptziel Frankreichs im Versailler Vertrag?", "Sicherheit vor Deutschland und Schwächung des Nachbarn", ["Wiederaufbau Berlins", "Förderung des deutschen Handels", "Gründung der DDR"], rng));
+  qs.push(createMCQ(T, S, "Welcher Ort in Versailles war Schauplatz der Unterzeichnung?", "Spiegelsaal", ["Garten von Versailles", "Kapelle", "Schlafzimmer des Königs"], rng));
+  qs.push(createMCQ(T, S, "Wie beeinflusste der Vertrag die politische Stabilität der Weimarer Republik?", "Er belastete sie schwer und führte zu Extremismus", ["Er machte sie sehr beliebt", "Er verhinderte jede Inflation", "Er führte zur sofortigen Monarchie"], rng));
+  qs.push(createMCQ(T, S, "Was war Wilsons '14-Punkte-Programm'?", "Ein Plan für einen gerechten Frieden", ["Eine Liste von Reparationsforderungen", "Eine Anleitung zum Brückenbau", "Ein Gesetz zur Prohibition"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["In welcher Stadt wurde der Vertrag unterzeichnet?", "Versailles"],
+    ["Wie nennt man Entschädigungszahlungen in Geld oder Sachwerten?", "Reparationen"],
+    ["Was wurde Deutschland im Artikel 231 zugewiesen?", "Kriegsschuld"],
+    ["Welches Land erhielt Elsass-Lothringen zurück?", "Frankreich"],
+    ["Auf wie viele Mann wurde das deutsche Heer begrenzt?", "100.000"],
+    ["Welche neue internationale Organisation entstand?", "Völkerbund"],
+    ["Welcher US-Präsident brachte die 14 Punkte ein?", "Wilson"],
+    ["In welchem Land liegt Versailles?", "Frankreich"],
+    ["Wie nannten Kritiker den Vertrag? (Diktat...)", "Diktatfrieden"],
+    ["Welches Jahr markiert das Ende der Verhandlungen?", "1919"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: weltwirtschaftskrise_1929 ──────────────────────────────────────────────────
+function generateWeltwirtschaftskrise1929(_seed: number = 9803): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "weltwirtschaftskrise_1929";
+
+  qs.push(createMCQ(T, S, "An welchem Wochentag begann der Börsenkrach in New York?", "Donnerstag (Schwarzer Donnerstag)", ["Montag", "Mittwoch", "Freitag"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man das Ereignis vom 24. Oktober 1929?", "Black Thursday", ["Golden Sunday", "Silver Monday", "Red Tuesday"], rng));
+  qs.push(createMCQ(T, S, "Was war eine Hauptursache der Krise in den USA?", "Überproduktion und Spekulation auf Pump", ["Goldmangel", "Zu hohe Löhne", "Mangel an Waren"], rng));
+  qs.push(createMCQ(T, S, "Wie reagierten US-Banken auf die Krise?", "Sie forderten kurzfristige Kredite aus dem Ausland zurück", ["Sie verschenkten Geld", "Sie senkten die Zinsen auf Null", "Sie kauften deutsche Firmen"], rng));
+  qs.push(createMCQ(T, S, "Wer war der deutsche Reichskanzler während des Höhepunkts der Krise?", "Heinrich Brüning", ["Gustav Stresemann", "Adolf Hitler", "Friedrich Ebert"], rng));
+  qs.push(createMCQ(T, S, "Wie hoch stieg die Zahl der Arbeitslosen in Deutschland bis 1932?", "Über 6 Millionen", ["1 Million", "3 Millionen", "10 Millionen"], rng));
+  qs.push(createMCQ(T, S, "Was war das Kennzeichen von Brünings Deflationspolitik?", "Sparen und Senkung von Staatsausgaben", ["Erhöhung der Sozialleistungen", "Drucken von neuem Geld", "Bau von Autobahnen"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Elendsviertel in den USA während der Krise?", "Hoovervilles", ["Trump-Towers", "Roosevelt-Cities", "Washington-Villages"], rng));
+  qs.push(createMCQ(T, S, "Welches politische Phänomen verstärkte sich in Deutschland durch die Krise?", "Radikalisierung (Aufstieg von NSDAP und KPD)", ["Stärkung der demokratischen Mitte", "Rückkehr zur Monarchie", "Pazifismus"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit den Preisen für Agrarprodukte?", "Sie sanken dramatisch", ["Sie stiegen stark an", "Sie blieben stabil", "Sie wurden verboten"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die Zeit der wirtschaftlichen Not in den 1930ern?", "Große Depression", ["Goldene Zwanziger", "Wirtschaftswunder", "Industrielle Revolution"], rng));
+  qs.push(createMCQ(T, S, "Welche deutsche Bank brach 1931 zusammen und verschärfte die Krise?", "Danat-Bank", ["Deutsche Bank", "Sparkasse", "Commerzbank"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'New Deal'?", "Ein Reformprogramm von Präsident Roosevelt", ["Ein Vertrag mit Deutschland", "Ein neues Auto", "Ein Verbot von Aktien"], rng));
+  qs.push(createMCQ(T, S, "Warum war Deutschland besonders anfällig für die Krise in den USA?", "Wegen der Abhängigkeit von US-Krediten (Dawes-Plan)", ["Wegen des Exports von Autos", "Weil es keine Banken hatte", "Wegen der Nähe zu Russland"], rng));
+  qs.push(createMCQ(T, S, "Welches Gesetz schränkte den Welthandel zusätzlich ein?", "Smoot-Hawley Tariff Act", ["Marshallplan", "Versailler Vertrag", "Ermächtigungsgesetz"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Protektionismus'?", "Schutz des eigenen Marktes durch Zölle", ["Freier Welthandel", "Verstaatlichung von Banken", "Hilfe für arme Länder"], rng));
+  qs.push(createMCQ(T, S, "Wie änderte sich das Leben vieler Menschen?", "Verarmung und Verlust der Hoffnung", ["Mehr Freizeit und Reisen", "Kauf von Luxusgütern", "Umzug aufs Land"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Schwarze' an den Tagen des Börsenkrachs?", "Die Farbe der Trauer/Verlust", ["Die Tinte der Zeitungen", "Der Rauch der Fabriken", "Die Nacht"], rng));
+  qs.push(createMCQ(T, S, "Welche Branche war zuerst vom Preisverfall betroffen?", "Landwirtschaft", ["Automobilbau", "Kino", "Flugzeugbau"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit vielen Banken weltweit?", "Sie mussten schließen (Bankenrun)", ["Sie wurden reicher", "Sie wurden alle verstaatlicht", "Sie fusionierten zu einer Weltbank"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["In welcher Stadt lag die Börse (Wall Street)?", "New York"],
+    ["Wie nannte man den Donnerstag, an dem der Krach begann?", "Schwarzer Donnerstag"],
+    ["Wie viele Millionen Arbeitslose gab es 1932 in Deutschland?", "Sechs"],
+    ["Welcher Reichskanzler betrieb die Sparpolitik (Nachname)?", "Brüning"],
+    ["Wie hieß der US-Präsident ab 1933 (Nachname)?", "Roosevelt"],
+    ["Welcher Begriff beschreibt den extremen Rückgang der Wirtschaft?", "Depression"],
+    ["Was verloren viele Menschen an der Börse?", "Geld"],
+    ["Welche Partei profitierte am meisten von der Not?", "NSDAP"],
+    ["Wie nennt man den Handel mit Aktien?", "Börse"],
+    ["In welchem Jahr begann die Krise?", "1929"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: berliner_mauer ──────────────────────────────────────────────────
+function generateBerlinerMauer(_seed: number = 9804): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "berliner_mauer";
+
+  qs.push(createMCQ(T, S, "Wann begann der Bau der Berliner Mauer?", "13. August 1961", ["17. Juni 1953", "9. November 1989", "1. Mai 1945"], rng));
+  qs.push(createMCQ(T, S, "Wer war der DDR-Staatschef beim Mauerbau?", "Walter Ulbricht", ["Erich Honecker", "Egon Krenz", "Wilhelm Pieck"], rng));
+  qs.push(createMCQ(T, S, "Welchen Satz sagte Ulbricht kurz vor dem Mauerbau?", "Niemand hat die Absicht, eine Mauer zu errichten.", ["Wir bauen eine Mauer.", "Berlin bleibt frei.", "Der Sozialismus siegt."], rng));
+  qs.push(createMCQ(T, S, "Was war der offizielle Name der Mauer in der DDR?", "Antifaschistischer Schutzwall", ["Eiserner Vorhang", "Berliner Grenze", "Friedenswall"], rng));
+  qs.push(createMCQ(T, S, "Warum wurde die Mauer gebaut?", "Um die Massenflucht aus der DDR zu stoppen", ["Zum Schutz vor Spionen", "Als Lärmschutzwand", "Um Westberlin zu erobern"], rng));
+  qs.push(createMCQ(T, S, "Welcher US-Präsident besuchte Berlin 1963?", "John F. Kennedy", ["Ronald Reagan", "Richard Nixon", "Dwight D. Eisenhower"], rng));
+  qs.push(createMCQ(T, S, "Welchen berühmten Satz sagte Kennedy in Berlin?", "Ich bin ein Berliner.", ["Mister Gorbatschow, reißen Sie diese Mauer nieder!", "Berlin ist frei.", "Wir schaffen das."], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man den Streifen zwischen den beiden Mauern?", "Todesstreifen", ["Grünes Band", "Niemandsland", "Sicherheitszone"], rng));
+  qs.push(createMCQ(T, S, "Welcher Grenzübergang war der bekannteste für Ausländer?", "Checkpoint Charlie", ["Bornholmer Straße", "Brandenburger Tor", "Friedrichstraße"], rng));
+  qs.push(createMCQ(T, S, "Wie viele Menschen starben schätzungsweise an der Berliner Mauer?", "Mindestens 140", ["Zehn", "Tausende", "Keiner"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Mauerspringer Conrad Schumann?", "Ein DDR-Grenzsoldat, der während des Baus floh", ["Ein Politiker", "Ein Sänger", "Ein US-Agent"], rng));
+  qs.push(createMCQ(T, S, "Was passierte am 9. November 1989?", "Die Mauer wurde geöffnet", ["Die Mauer wurde gebaut", "Kennedy wurde erschossen", "Die DDR wurde gegründet"], rng));
+  qs.push(createMCQ(T, S, "Welches Ereignis führte zum Mauerfall?", "Die Friedliche Revolution und Massenproteste", ["Ein Angriff der NATO", "Ein Erdbeben", "Der Sieg im Fußball"], rng));
+  qs.push(createMCQ(T, S, "Wer gab die legendäre Pressekonferenz am 9. November 1989?", "Günter Schabowski", ["Erich Honecker", "Hans-Dietrich Genscher", "Helmut Kohl"], rng));
+  qs.push(createMCQ(T, S, "Ab wann galt die neue Reiseregelung laut Schabowski?", "Sofort, unverzüglich", ["Ab morgen", "In einer Woche", "Nach Prüfung"], rng));
+  qs.push(createMCQ(T, S, "Welcher sowjetische Politiker ermöglichte den Wandel?", "Michail Gorbatschow", ["Leonid Breschnew", "Wladimir Putin", "Nikita Chruschtschow"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Menschen, die über die Mauer flohen?", "Mauerspringer oder Flüchtlinge", ["Touristen", "Siedler", "Gastarbeiter"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Begrüßungsgeld'?", "100 DM für DDR-Bürger bei der ersten Einreise in den Westen", ["Ein Lohn in der DDR", "Eintrittsgeld für Museen", "Steuer für West-Besucher"], rng));
+  qs.push(createMCQ(T, S, "Wie lang war die Mauer um West-Berlin insgesamt?", "Etwa 155 km", ["10 km", "50 km", "500 km"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit der Mauer nach 1989?", "Sie wurde fast vollständig abgerissen", ["Sie wurde höher gebaut", "Sie wurde unter Denkmalschutz gestellt", "Sie wurde nach Russland verkauft"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["In welchem Jahr wurde die Mauer gebaut?", "1961"],
+    ["In welcher Stadt stand die Mauer?", "Berlin"],
+    ["Wie hieß der berühmte Checkpoint?", "Charlie"],
+    ["Wie hieß der DDR-Chef 1989 (Nachname)?", "Honecker"],
+    ["An welchem Tag im November fiel die Mauer?", "Neunter"],
+    ["Welche Himmelsrichtung war frei (Sektor)?", "Westen"],
+    ["Wie nannte man den Bereich vor der Mauer (Todes...)?", "Todesstreifen"],
+    ["Wer sagte 'Ich bin ein Berliner'?", "Kennedy"],
+    ["Wie hieß die Partei der DDR?", "SED"],
+    ["Wie viele deutsche Staaten gab es vor 1990?", "Zwei"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: kubakrise ──────────────────────────────────────────────────
+function generateKubakrise(_seed: number = 9805): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "kubakrise";
+
+  qs.push(createMCQ(T, S, "In welchem Jahr fand die Kubakrise statt?", "1962", ["1959", "1965", "1970"], rng));
+  qs.push(createMCQ(T, S, "Welche beiden Supermächte standen sich gegenüber?", "USA und UdSSR", ["USA und China", "UdSSR und England", "Deutschland und Frankreich"], rng));
+  qs.push(createMCQ(T, S, "Was war der Auslöser der Krise?", "Stationierung sowjetischer Atomraketen auf Kuba", ["Ein Angriff Kubas auf Florida", "Der Bau der Berliner Mauer", "Ölbohrungen im Meer"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Präsident der USA während der Krise?", "John F. Kennedy", ["Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Staatschef der Sowjetunion?", "Nikita Chruschtschow", ["Josef Stalin", "Leonid Breschnew", "Michail Gorbatschow"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Anführer der kubanischen Revolution?", "Fidel Castro", ["Che Guevara", "Batista", "Pinochet"], rng));
+  qs.push(createMCQ(T, S, "Wie reagierte Kennedy auf die Entdeckung der Raketen?", "Mit einer Seeblockade (Quarantäne)", ["Mit einem Atombombenabwurf", "Mit einer Invasion Kubas", "Mit einem Rückzug aus Europa"], rng));
+  qs.push(createMCQ(T, S, "Warum war die Lage so gefährlich?", "Es drohte ein dritter Weltkrieg mit Atomwaffen", ["Es gab kein Benzin mehr", "Kuba wollte Amerika kaufen", "Wegen eines Vulkanausbruchs"], rng));
+  qs.push(createMCQ(T, S, "Wie wurden die Raketen auf Kuba entdeckt?", "Durch U2-Spionageflugzeuge", ["Durch Satellitenfotos", "Durch einen Verräter", "Durch ein Radiointerview"], rng));
+  qs.push(createMCQ(T, S, "Welches Land war ein Verbündeter der USA und beherbergte US-Raketen?", "Türkei", ["Deutschland", "Japan", "Brasilien"], rng));
+  qs.push(createMCQ(T, S, "Wie endete die Krise?", "Abzug der sowjetischen Raketen gegen US-Sicherheitsgarantie", ["Kuba wurde von den USA besetzt", "Atomkrieg brach aus", "Die UdSSR zerfiel"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'Geheimdeal' am Ende?", "Abzug von US-Raketen aus der Türkei", ["Verkauf von Alaska", "Bau einer Mauer um Kuba", "Lieferung von Weizen"], rng));
+  qs.push(createMCQ(T, S, "Was wurde nach der Krise zur besseren Kommunikation eingerichtet?", "Der 'Heiße Draht' (Fernschreibverbindung)", ["Das Internet", "Eine Briefzustellung per Rakete", "Ein wöchentliches Treffen"], rng));
+  qs.push(createMCQ(T, S, "Wie lange dauerte die intensivste Phase der Krise?", "13 Tage", ["Ein Jahr", "Zwei Tage", "Drei Monate"], rng));
+  qs.push(createMCQ(T, S, "Welches Ereignis fand kurz vor der Kubakrise statt (1961)?", "Invasion in der Schweinebucht", ["Landung auf dem Mond", "Gründung der NATO", "Tod Kennedys"], rng));
+  qs.push(createMCQ(T, S, "Was war das Ziel der 'Schweinebucht-Invasion'?", "Sturz Fidel Castros durch Exilkubaner", ["Jagd auf Wildschweine", "Urlaub machen", "Bau eines Hafens"], rng));
+  qs.push(createMCQ(T, S, "Welche Ideologie vertrat Fidel Castro?", "Kommunismus", ["Demokratie", "Faschismus", "Monarchismus"], rng));
+  qs.push(createMCQ(T, S, "Warum stationierte die UdSSR Raketen auf Kuba?", "Als Gegengewicht zu US-Raketen in Europa und zum Schutz Kubas", ["Um sie dort zu lagern", "Weil Kuba so schön ist", "Um sie an China zu verkaufen"], rng));
+  qs.push(createMCQ(T, S, "Wer vermittelte indirekt zwischen den Mächten?", "U Thant (UN-Generalsekretär)", ["Der Papst", "Die Königin von England", "Der Dalai Lama"], rng));
+  qs.push(createMCQ(T, S, "Was passierte mit dem U2-Piloten Rudolf Anderson?", "Sein Flugzeug wurde über Kuba abgeschossen", ["Er lief zur UdSSR über", "Er landete sicher in Miami", "Er wurde Präsident"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Auf welcher Insel fand die Krise statt?", "Kuba"],
+    ["Wie hieß der US-Präsident (Nachname)?", "Kennedy"],
+    ["Wie hieß der sowjetische Chef (Nachname)?", "Chruschtschow"],
+    ["Welche Waffenart verursachte die Angst?", "Atomraketen"],
+    ["Welches Jahr war das?", "1962"],
+    ["Wie hieß der kubanische Anführer (Nachname)?", "Castro"],
+    ["Was errichteten die USA im Meer um Kuba?", "Seeblockade"],
+    ["Wie nannte man die direkte Telefonleitung danach?", "Heißer Draht"],
+    ["In welchem Land standen die US-Raketen als Gegenstück?", "Türkei"],
+    ["Wie hieß die Invasion 1961 (Ort)?", "Schweinebucht"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: 68er_bewegung ──────────────────────────────────────────────────
+function generate68erBewegung(_seed: number = 9806): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "68er_bewegung";
+
+  qs.push(createMCQ(T, S, "Was war ein Hauptziel der 68er-Bewegung?", "Demokratisierung und Aufarbeitung der NS-Vergangenheit", ["Wiedereinführung der Monarchie", "Bau von mehr Autobahnen", "Stärkung der Bundeswehr"], rng));
+  qs.push(createMCQ(T, S, "Wer war einer der bekanntesten Sprecher der Studentenbewegung?", "Rudi Dutschke", ["Helmut Kohl", "Konrad Adenauer", "Willy Brandt"], rng));
+  qs.push(createMCQ(T, S, "Welches Ereignis am 2. Juni 1967 radikalisierte die Studenten?", "Erschießung von Benno Ohnesorg", ["Besuch von Queen Elizabeth", "Bau der Berliner Mauer", "Gründung der Beatles"], rng));
+  qs.push(createMCQ(T, S, "Gegen welchen Krieg protestierten die 68er weltweit besonders?", "Vietnamkrieg", ["Zweiter Weltkrieg", "Kalter Krieg", "Golfkrieg"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man den radikalen Flügel, der später zum Terrorismus griff?", "RAF (Rote Armee Fraktion)", ["ADAC", "SPD", "Greenpeace"], rng));
+  qs.push(createMCQ(T, S, "Wer waren die Gründer der RAF?", "Andreas Baader und Ulrike Meinhof", ["Rudi Dutschke und Joschka Fischer", "Lafontaine und Schröder", "Kohl und Genscher"], rng));
+  qs.push(createMCQ(T, S, "Was versteht man unter dem 'Muff von 1000 Jahren'?", "Die autoritären Strukturen und die unbewältigte NS-Zeit", ["Ein alter Käse", "Die Geschichte der Ritter", "Schlechte Belüftung in Unis"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Außerparlamentarische Opposition' (APO)?", "Protestbewegung außerhalb des Bundestags", ["Eine neue Sportart", "Eine geheime Regierung", "Die NASA"], rng));
+  qs.push(createMCQ(T, S, "Welches Gesetz der Bundesregierung bekämpfte die APO heftig?", "Notstandsgesetze", ["Straßenverkehrsordnung", "Umweltgesetz", "Schulgesetz"], rng));
+  qs.push(createMCQ(T, S, "Was war ein Slogan der 68er?", "Unter den Talaren – Muff von 1000 Jahren", ["Wir sind das Volk", "Freie Fahrt für freie Bürger", "Geiz ist geil"], rng));
+  qs.push(createMCQ(T, S, "In welcher Stadt lag das Zentrum des deutschen Protests?", "West-Berlin", ["München", "Bonn", "Hamburg"], rng));
+  qs.push(createMCQ(T, S, "Welche Zeitung wurde von den Studenten massiv angegriffen?", "Bild-Zeitung (Axel Springer)", ["Die Zeit", "Der Spiegel", "FAZ"], rng));
+  qs.push(createMCQ(T, S, "Was geschah 1968 in Paris?", "Mai-Unruhen und Generalstreiks", ["Krönung von Napoleon", "Bau des Eiffelturms", "Fußball-WM"], rng));
+  qs.push(createMCQ(T, S, "Wer verübte das Attentat auf Rudi Dutschke?", "Josef Bachmann", ["Benno Ohnesorg", "Andreas Baader", "Ein Stasi-Agent"], rng));
+  qs.push(createMCQ(T, S, "Was forderten die Studenten für die Universitäten?", "Mitbestimmung und neue Lehrinhalte", ["Höhere Studiengebühren", "Abschaffung der Ferien", "Uniformpflicht"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die alternative Lebensform, die damals populär wurde?", "Wohngemeinschaften (WGs) / Kommunen", ["Klöster", "Kasernen", "Hotels"], rng));
+  qs.push(createMCQ(T, S, "Welche Musikrichtung war eng mit der Bewegung verbunden?", "Rock- und Protestmusik", ["Volksmusik", "Klassik", "Oper"], rng));
+  qs.push(createMCQ(T, S, "Welche gesellschaftliche Veränderung brachten die 68er?", "Liberalisierung und mehr Freiheiten", ["Strenge Kleiderordnung", "Verbot von Fernsehen", "Mehr Religion"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Kommune 1'?", "Eine politisch motivierte Wohngemeinschaft", ["Ein Dorf in Bayern", "Ein Ministerium", "Eine Fabrik"], rng));
+  qs.push(createMCQ(T, S, "In welchem Jahr gipfelten die Proteste?", "1968", ["1955", "1975", "1989"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["In welchem Jahr fanden die Hauptproteste statt?", "1968"],
+    ["Wer war der bekannteste Studentenanführer (Nachname)?", "Dutschke"],
+    ["Gegen welchen Krieg in Asien wurde protestiert?", "Vietnamkrieg"],
+    ["Wie hieß die Terrorgruppe (Abkürzung)?", "RAF"],
+    ["Wie hieß der erschossene Student Benno...?", "Ohnesorg"],
+    ["Wie nennt man die Zeit des Nationalsozialismus abgekürzt?", "NS-Zeit"],
+    ["Was ist die Abkürzung für Außerparlamentarische Opposition?", "APO"],
+    ["Welcher Verleger wurde kritisiert (Nachname)?", "Springer"],
+    ["Wie nennt man das gemeinsame Wohnen in einer Gruppe?", "WG"],
+    ["Welche Stadt war Protestzentrum?", "Berlin"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: wirtschaftswunder_brd ──────────────────────────────────────────────────
+function generateWirtschaftswunderBrd(_seed: number = 9807): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "wirtschaftswunder_brd";
+
+  qs.push(createMCQ(T, S, "Wer gilt als 'Vater des Wirtschaftswunders'?", "Ludwig Erhard", ["Konrad Adenauer", "Willy Brandt", "Helmut Schmidt"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das Wirtschaftssystem der Bundesrepublik?", "Soziale Marktwirtschaft", ["Planwirtschaft", "Kommunismus", "Reiner Kapitalismus"], rng));
+  qs.push(createMCQ(T, S, "Welches US-Hilfsprogramm unterstützte den Wiederaufbau?", "Marshallplan", ["New Deal", "Morgenthau-Plan", "Truman-Doktrin"], rng));
+  qs.push(createMCQ(T, S, "Was war ein wichtiges Ereignis im Jahr 1948 für die Wirtschaft?", "Währungsreform (Einführung der D-Mark)", ["Bau der Berliner Mauer", "Gründung der NATO", "Ende des Krieges"], rng));
+  qs.push(createMCQ(T, S, "Welches Auto wurde zum Symbol des Wirtschaftswunders?", "VW Käfer", ["Trabant", "Mercedes S-Klasse", "BMW i3"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man die Arbeiter, die ab den 50ern aus dem Ausland kamen?", "Gastarbeiter", ["Flüchtlinge", "Touristen", "Sklaven"], rng));
+  qs.push(createMCQ(T, S, "Aus welchem Land kamen 1955 die ersten Gastarbeiter?", "Italien", ["Türkei", "Spanien", "Griechenland"], rng));
+  qs.push(createMCQ(T, S, "Was war ein Merkmal der 50er Jahre in der BRD?", "Vollbeschäftigung und steigender Wohlstand", ["Hohe Arbeitslosigkeit", "Hungersnot", "Verbot von Autos"], rng));
+  qs.push(createMCQ(T, S, "Welche Konsumwelle gab es zuerst?", "Fresswelle", ["Reisewelle", "Fernsehwelle", "Autowelle"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Wunder von Bern'?", "Der Sieg der deutschen Fußballnationalmannschaft 1954", ["Eine neue Erfindung", "Ein religiöses Ereignis", "Der Bau eines Tunnels"], rng));
+  qs.push(createMCQ(T, S, "Wer war der erste Bundeskanzler der BRD?", "Konrad Adenauer", ["Theodor Heuss", "Ludwig Erhard", "Kurt Schumacher"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Währungsreform'?", "Einführung einer neuen Währung (D-Mark statt Reichsmark)", ["Goldrausch", "Abschaffung von Geld", "Erhöhung der Steuern"], rng));
+  qs.push(createMCQ(T, S, "Wie entwickelte sich die Arbeitslosigkeit in den 1950ern?", "Sie sank fast auf Null", ["Sie stieg stark an", "Sie blieb gleich", "Sie wurde nicht gemessen"], rng));
+  qs.push(createMCQ(T, S, "Welcher Sektor wuchs besonders stark?", "Industrie (Automobil, Chemie, Stahl)", ["Landwirtschaft", "Internet", "Tourismus"], rng));
+  qs.push(createMCQ(T, S, "Was ist das Ziel der sozialen Marktwirtschaft?", "Wettbewerb verbunden mit sozialem Ausgleich", ["Reichtum nur für Wenige", "Alles gehört dem Staat", "Keine Steuern für Firmen"], rng));
+  qs.push(createMCQ(T, S, "Wie nannten die Menschen die Zeit des schnellen Wachstums?", "Wirtschaftswunder", ["Goldene Ära", "Industriezeit", "Aufbau West"], rng));
+  qs.push(createMCQ(T, S, "Welche Insel wurde ein beliebtes Reiseziel der Deutschen?", "Italien (Adria)", ["Mallorca", "Kuba", "Island"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Bananen-Welle'?", "Die Verfügbarkeit von Südfrüchten für alle", ["Eine Krankheit", "Ein Comic", "Ein politischer Protest"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das Geld in der BRD?", "Deutsche Mark (D-Mark)", ["Euro", "Reichsmark", "Dollar"], rng));
+  qs.push(createMCQ(T, S, "Welches Gesetz regelte die Mitbestimmung der Arbeiter?", "Betriebsverfassungsgesetz", ["Notstandsgesetz", "Grundgesetz", "Strafgesetzbuch"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß die Währung vor dem Euro?", "D-Mark"],
+    ["Wer war der Wirtschaftsminister (Nachname)?", "Erhard"],
+    ["Wie nannte man ausländische Arbeiter?", "Gastarbeiter"],
+    ["Welches Auto war ein Symbol?", "VW Käfer"],
+    ["Wie hieß das US-Hilfsprogramm?", "Marshallplan"],
+    ["Aus welchem Land kamen die ersten Gastarbeiter?", "Italien"],
+    ["In welchem Jahrzehnt begann das Wunder?", "1950er"],
+    ["Wie hieß der erste Kanzler (Nachname)?", "Adenauer"],
+    ["Welches System: ... Marktwirtschaft?", "Soziale"],
+    ["Wo fand das Fußball-Wunder 1954 statt?", "Bern"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: ddr_alltag ──────────────────────────────────────────────────
+function generateDdrAlltag(_seed: number = 9808): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "ddr_alltag";
+
+  qs.push(createMCQ(T, S, "Wie hieß der Geheimdienst der DDR?", "Stasi (Ministerium für Staatssicherheit)", ["BND", "Gestapo", "KGB"], rng));
+  qs.push(createMCQ(T, S, "Was war ein Merkmal der DDR-Wirtschaft?", "Planwirtschaft", ["Freie Marktwirtschaft", "Tauschhandel", "Aktienmarkt"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß das bekannteste Auto der DDR?", "Trabant (Trabi)", ["Wartburg", "Käfer", "Lada"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Jugendweihe'?", "Ein atheistisches Fest zum Übergang ins Erwachsenenalter", ["Die Einschulung", "Ein Sportfest", "Die Heirat"], rng));
+  qs.push(createMCQ(T, S, "Wie hießen die Jugendorganisationen der DDR?", "Pioniere und FDJ", ["Pfadfinder", "Hitlerjugend", "Sportvereine"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Intershop'?", "Läden, in denen man mit Westgeld Luxuswaren kaufen konnte", ["Ein Internetcafé", "Ein Laden für Werkzeug", "Eine Kantine"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Aktuelle Kamera'?", "Die Nachrichtensendung des DDR-Fernsehens", ["Ein Fotogeschäft", "Eine Filmkamera", "Ein Sportmagazin"], rng));
+  qs.push(createMCQ(T, S, "Wie nannte man den Versuch, Waren unter der Hand zu bekommen?", "Bückware", ["Schwarzmarkt", "Schnäppchen", "Importware"], rng));
+  qs.push(createMCQ(T, S, "Was passierte, wenn man einen Ausreiseantrag stellte?", "Man wurde oft schikaniert oder verlor seinen Job", ["Man durfte sofort gehen", "Man bekam Geld", "Nichts"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Einheitspartei der DDR?", "SED", ["SPD", "CDU", "KPD"], rng));
+  qs.push(createMCQ(T, S, "Wo machten viele DDR-Bürger Urlaub?", "Ostsee oder Balaton (Ungarn)", ["Spanien", "Italien", "USA"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'Palast der Republik'?", "Sitz der Volkskammer und Kulturhaus", ["Das Haus des Zaren", "Ein Einkaufszentrum", "Ein Gefängnis"], rng));
+  qs.push(createMCQ(T, S, "Was war ein 'Inoffizieller Mitarbeiter' (IM)?", "Ein heimlicher Informant der Stasi", ["Ein Teilzeitmitarbeiter", "Ein Gast aus dem Westen", "Ein Sportler"], rng));
+  qs.push(createMCQ(T, S, "Wie lang war die Wartezeit auf einen Trabant?", "Oft über 10 Jahre", ["Eine Woche", "Ein Monat", "Ein Jahr"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Messe' der DDR (zweimal im Jahr)?", "Leipziger Messe", ["Berliner Messe", "Hannover Messe", "Dresdner Messe"], rng));
+  qs.push(createMCQ(T, S, "Welches Getränk war der DDR-Ersatz für Coca-Cola?", "Vita Cola", ["Pepsi", "Club-Cola", "Fanta"], rng));
+  qs.push(createMCQ(T, S, "Was war das 'Tal der Ahnungslosen'?", "Gebiete in der DDR, die kein Westfernsehen empfangen konnten", ["Ein Wanderweg", "Ein Dorf in Sachsen", "Die Stasi-Zentrale"], rng));
+  qs.push(createMCQ(T, S, "Was feierte man am 7. Oktober?", "Tag der Republik (Gründung der DDR)", ["Weihnachten", "Tag der Arbeit", "Mauerfall"], rng));
+  qs.push(createMCQ(T, S, "Welche Rolle spielten Frauen in der DDR-Arbeitswelt?", "Hohe Erwerbstätigkeit und staatliche Kinderbetreuung", ["Sie durften nicht arbeiten", "Nur im Haushalt", "Nur in der Politik"], rng));
+  qs.push(createMCQ(T, S, "Was war das Ziel der Pionierorganisation?", "Erziehung im Sinne des Sozialismus", ["Überleben im Wald", "Lernen von Fremdsprachen", "Bau von Flugzeugen"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie hieß das DDR-Auto?", "Trabant"],
+    ["Abkürzung für den Geheimdienst?", "Stasi"],
+    ["Abkürzung der Staatspartei?", "SED"],
+    ["Wie hieß die Jugendorganisation (Abk.)?", "FDJ"],
+    ["Welches Wirtschaftssystem herrschte?", "Planwirtschaft"],
+    ["Fest für 14-Jährige?", "Jugendweihe"],
+    ["Name der Nachrichtensendung?", "Aktuelle Kamera"],
+    ["Mit welchem Geld zahlte man im Intershop?", "Westgeld"],
+    ["Was stand in Berlin-Mitte (Mauer)?", "Mauer"],
+    ["Wie nannte man die Bürger (Abk.)?", "DDR-Bürger"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: dekolonisation ──────────────────────────────────────────────────
+function generateDekolonisation(_seed: number = 9809): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "dekolonisation";
+
+  qs.push(createMCQ(T, S, "Was bedeutet 'Dekolonisation'?", "Die Entlassung von Kolonien in die Unabhängigkeit", ["Die Eroberung neuer Länder", "Der Bau von Fabriken", "Die Einführung von Steuern"], rng));
+  qs.push(createMCQ(T, S, "In welchem Zeitraum fand die Hauptphase der Dekolonisation statt?", "Nach 1945", ["Vor 1900", "Während des Ersten Weltkriegs", "Im 19. Jahrhundert"], rng));
+  qs.push(createMCQ(T, S, "Wer war der Anführer der indischen Unabhängigkeitsbewegung?", "Mahatma Gandhi", ["Nelson Mandela", "Ho Chi Minh", "Mao Zedong"], rng));
+  qs.push(createMCQ(T, S, "Welche Methode wandte Gandhi an?", "Gewaltloser Widerstand", ["Guerillakrieg", "Terroranschläge", "Panzerschlachten"], rng));
+  qs.push(createMCQ(T, S, "Welche europäische Macht verlor Indien 1947?", "Großbritannien", ["Frankreich", "Portugal", "Niederlande"], rng));
+  qs.push(createMCQ(T, S, "In welchem Land gab es einen blutigen Unabhängigkeitskrieg gegen Frankreich?", "Algerien", ["Ägypten", "Marokko", "Indien"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man das Jahr 1960, in dem 17 afrikanische Staaten unabhängig wurden?", "Jahr Afrikas", ["Goldenes Jahr", "Freiheitsjahr", "Wendejahr"], rng));
+  qs.push(createMCQ(T, S, "Wer war Nelson Mandela?", "Kämpfer gegen die Apartheid in Südafrika", ["König von Ägypten", "Präsident von Indien", "Ein französischer General"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Apartheid'?", "System der Rassentrennung in Südafrika", ["Eine neue Religion", "Ein Wirtschaftsbündnis", "Eine Sportart"], rng));
+  qs.push(createMCQ(T, S, "Welcher Staat entstand 1948 im Nahen Osten im Zuge der Dekolonisation?", "Israel", ["Iran", "Türkei", "Saudi-Arabien"], rng));
+  qs.push(createMCQ(T, S, "Was war die 'Konferenz von Bandung' (1955)?", "Treffen asiatischer und afrikanischer Staaten zur Zusammenarbeit", ["Ein Friedensvertrag für Europa", "Eine Modenschau", "Ein Sportereignis"], rng));
+  qs.push(createMCQ(T, S, "Wie nennt man die Staaten, die sich im Kalten Krieg keinem Block anschlossen?", "Blockfreie Staaten", ["Neutrale Zone", "Dritte Welt", "Die Unberührbaren"], rng));
+  qs.push(createMCQ(T, S, "Welche Kolonie in Asien wurde von Vietnam im Krieg besiegt?", "Französisch-Indochina", ["Britisch-Burma", "Holländisch-Indien", "Philippinen"], rng));
+  qs.push(createMCQ(T, S, "Welche Macht verließ als eine der letzten ihre Kolonien in Afrika (z.B. Angola)?", "Portugal", ["Spanien", "Deutschland", "Italien"], rng));
+  qs.push(createMCQ(T, S, "Wer war Ho Chi Minh?", "Kommunistischer Führer Vietnams", ["König von Thailand", "Präsident von Japan", "Ein indischer Guru"], rng));
+  qs.push(createMCQ(T, S, "Was war ein Problem vieler neuer Staaten nach der Unabhängigkeit?", "Instabilität und Grenzkonflikte", ["Zu viel Reichtum", "Keine Einwohner", "Zuviele Autobahnen"], rng));
+  qs.push(createMCQ(T, S, "Welcher Fluss ist eng mit der ägyptischen Unabhängigkeit verbunden?", "Nil (Suez-Krise)", ["Amazonas", "Kongo", "Ganges"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Pan-Afrikanismus'?", "Bewegung zur Einheit aller afrikanischen Völker", ["Angst vor Afrika", "Ein neuer Kochstil", "Ein Schiffstyp"], rng));
+  qs.push(createMCQ(T, S, "Welche Organisation trat für die Unabhängigkeit Algeriens ein?", "FLN", ["NATO", "UNO", "ANC"], rng));
+  qs.push(createMCQ(T, S, "Wie hieß die Partei von Nelson Mandela?", "ANC", ["SPD", "BJP", "LDP"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wer befreite Indien (Nachname)?", "Gandhi"],
+    ["Welches Land wurde 1947 von England unabhängig?", "Indien"],
+    ["Welcher Kontinent wurde 1960 'befreit'?", "Afrika"],
+    ["Gegen wen kämpfte Algerien?", "Frankreich"],
+    ["System der Rassentrennung?", "Apartheid"],
+    ["Wer war der erste schwarze Präsident Südafrikas?", "Mandela"],
+    ["Welche Stadt in Indonesien war Konferenzort 1955?", "Bandung"],
+    ["In welchem Land lag Indochina?", "Vietnam"],
+    ["Welcher Staat im Nahen Osten entstand 1948?", "Israel"],
+    ["Wie nennt man die Zeit nach 1945 (Krieg)?", "Nachkriegszeit"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
+// ─── Generator: globalisierung_digitalisierung ──────────────────────────────────────────────────
+function generateGlobalisierungDigitalisierung(_seed: number = 9810): CurriculumQuestion[] {
+  const rng = mulberry32(_seed);
+  const qs: CurriculumQuestion[] = [];
+  const T = "Geschichte";
+  const S = "globalisierung_digitalisierung";
+
+  qs.push(createMCQ(T, S, "Was ist ein Hauptmerkmal der Globalisierung?", "Weltweite Vernetzung von Wirtschaft und Kultur", ["Abschottung der Länder", "Rückkehr zur Landwirtschaft", "Verbot von Internet"], rng));
+  qs.push(createMCQ(T, S, "Wann begann der Siegeszug des Internets für die breite Masse?", "In den 1990er Jahren", ["In den 1950ern", "Im Jahr 1900", "Erst 2010"], rng));
+  qs.push(createMCQ(T, S, "Welche Währung wurde 2002 als Bargeld in der EU eingeführt?", "Euro", ["D-Mark", "Dollar", "Bitcoin"], rng));
+  qs.push(createMCQ(T, S, "Was ist das World Wide Web (WWW)?", "Ein über das Internet abrufbares System von Dokumenten", ["Ein neuer Computer", "Eine Geheimsprache", "Ein Radiosender"], rng));
+  qs.push(createMCQ(T, S, "Welches Gerät revolutionierte ab 2007 die Kommunikation?", "Smartphone (iPhone)", ["Walkman", "Schreibmaschine", "Faxgerät"], rng));
+  qs.push(createMCQ(T, S, "Was ist ein Ziel der Europäischen Union (EU)?", "Frieden, Wohlstand und offene Grenzen", ["Eroberung von Asien", "Abschaffung aller Sprachen", "Bau einer Mauer um Europa"], rng));
+  qs.push(createMCQ(T, S, "Was ist der 'Klimawandel'?", "Die durch den Menschen verstärkte Erwärmung der Erde", ["Ein normales Wetterphänomen", "Die Abkühlung der Meere", "Ein Märchen"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Outsourcing'?", "Verlagerung von Firmenbereichen ins Ausland", ["Einkaufen im Supermarkt", "Mülltrennung", "Sport im Freien"], rng));
+  qs.push(createMCQ(T, S, "Welche Organisation regelt den Welthandel?", "WTO", ["FIFA", "WHO", "NASA"], rng));
+  qs.push(createMCQ(T, S, "Was sind 'Soziale Medien'?", "Plattformen zur Vernetzung und zum Austausch (z.B. Facebook)", ["Zeitungen", "Schulbücher", "Briefmarken"], rng));
+  qs.push(createMCQ(T, S, "Welches Abkommen soll den Klimawandel begrenzen?", "Pariser Klimaabkommen", ["Versailler Vertrag", "Marshallplan", "Münchner Abkommen"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Digitale Transformation'?", "Veränderung von Leben und Arbeit durch digitale Technik", ["Reparatur von Uhren", "Malen mit Pinseln", "Umzug in eine neue Stadt"], rng));
+  qs.push(createMCQ(T, S, "Was ist E-Commerce?", "Handel im Internet", ["Elektrisches Licht", "Sport mit dem E-Bike", "Kochen mit Strom"], rng));
+  qs.push(createMCQ(T, S, "Welche Rolle spielen 'Global Player'?", "Weltweit agierende Großkonzerne", ["Fußballstars", "Schauspieler", "Politiker"], rng));
+  qs.push(createMCQ(T, S, "Was ist künstliche Intelligenz (KI)?", "Maschinen, die menschenähnliche Lernleistungen erbringen", ["Ein Roboter aus Plastik", "Ein neues Buch", "Eine Gehirnwäsche"], rng));
+  qs.push(createMCQ(T, S, "Was war der 'Schengen-Raum'?", "Gebiet in Europa ohne Grenzkontrollen", ["Ein Bahnhof", "Ein Museum", "Ein Waldgebiet"], rng));
+  qs.push(createMCQ(T, S, "Was bedeutet 'Industrie 4.0'?", "Vernetzung der industriellen Produktion", ["Die Erfindung des Rades", "Arbeit mit Dampfmaschinen", "Bau von Pyramiden"], rng));
+  qs.push(createMCQ(T, S, "Welches Gas ist Hauptverursacher des Treibhauseffekts?", "CO2 (Kohlendioxid)", ["Sauerstoff", "Stickstoff", "Helium"], rng));
+  qs.push(createMCQ(T, S, "Was ist die Cloud?", "Speicherplatz und Software im Internet", ["Eine echte Wolke am Himmel", "Ein weißes Auto", "Ein Computergehäuse"], rng));
+  qs.push(createMCQ(T, S, "Was ist ein 'Digitale Nomade'?", "Jemand, der ortsunabhängig mit digitaler Technik arbeitet", ["Ein Wanderer ohne Handy", "Ein Bewohner der Wüste", "Ein Archäologe"], rng));
+
+  const typingPool: [string, string | string[]][] = [
+    ["Wie heißt die Währung in vielen EU-Ländern?", "Euro"],
+    ["Wie nennt man die weltweite Vernetzung?", "Globalisierung"],
+    ["Abkürzung für das weltweite Netz?", "WWW"],
+    ["Wie heißt das Smartphone von Apple?", "iPhone"],
+    ["Welches Gas erwärmt das Klima (Abk.)?", "CO2"],
+    ["Abkürzung für künstliche Intelligenz?", "KI"],
+    ["Welche Union verbindet Europa?", "EU"],
+    ["Was ist das Herzstück der Digitalisierung?", "Internet"],
+    ["Wie nennt man den Kauf im Netz?", "Online-Shopping"],
+    ["Welche Plattform für Videos ist bekannt?", "YouTube"],
+  ];
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+
+  return shuffle(qs, rng);
+}
+
 export const G8_Generators_Geschichte: Record<string, (seed?: number) => CurriculumQuestion[]> = {
   imperialismus: (seed?: number) => generateImperialismus(seed),
   erster_weltkrieg_beginn: (seed?: number) => generateErsterWeltkriegBeginn(seed),
@@ -751,13 +1202,22 @@ export const G8_Generators_Geschichte: Record<string, (seed?: number) => Curricu
   
   // Placeholders for additional nuanced subtopics if needed
   teilung_deutschlands: (seed?: number) => generateNachkriegszeit(seed),
-  berliner_mauer: (seed?: number) => generateKalterKrieg(seed),
   wirtschaftswunder: (seed?: number) => generateNachkriegszeit(seed),
   gesellschaft_60er: (seed?: number) => generateKalterKrieg(seed),
   julikrise: (seed?: number) => generateErsterWeltkriegBeginn(seed),
   kolonien_deutsch: (seed?: number) => generateImperialismus(seed),
   bismarck_aussenpolitik: (seed?: number) => generateImperialismus(seed),
-  versailler_vertrag: (seed?: number) => generateErsterWeltkriegVerlauf(seed),
   weltwirtschaftskrise: (seed?: number) => generateWeimarerRepublik(seed),
   moderne_welt: (seed?: number) => generateEuropaEinigung(seed)
+,
+  russische_revolution: () => generateRussischeRevolution(),
+  versailler_vertrag: () => generateVersaillerVertrag(),
+  weltwirtschaftskrise_1929: () => generateWeltwirtschaftskrise1929(),
+  berliner_mauer: () => generateBerlinerMauer(),
+  kubakrise: () => generateKubakrise(),
+  "68er_bewegung": () => generate68erBewegung(),
+  wirtschaftswunder_brd: () => generateWirtschaftswunderBrd(),
+  ddr_alltag: () => generateDdrAlltag(),
+  dekolonisation: () => generateDekolonisation(),
+  globalisierung_digitalisierung: () => generateGlobalisierungDigitalisierung(),
 };
