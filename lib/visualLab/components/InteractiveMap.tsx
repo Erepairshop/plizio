@@ -210,7 +210,10 @@ export const InteractiveMap = ({
   const { lang: userLang } = useLang();
   const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
   const t = T[displayLang] ?? T.de;
-  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : displayLang) as SeoLang);
+  // seoLang always follows the user's global language (NOT the map's country-code prop).
+  // Previously `lang` prop was used when it happened to match a valid lang (e.g. "ro" on Romania map),
+  // which locked detail URLs to that language regardless of the user's choice.
+  const seoLang = displayLang as SeoLang;
   const moreLabel = MORE_LABEL[seoLang];
   const selectedPoiFromState = useMemo(
     () => (selected ? pois.find((p) => p.id === selected.id) : null),
@@ -1067,7 +1070,10 @@ function SubRegionView({
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
   const { lang: userLang } = useLang();
   const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
-  const seoLang = ((["de", "hu", "ro", "en"].includes(lang) ? lang : displayLang) as SeoLang);
+  // seoLang always follows the user's global language (NOT the map's country-code prop).
+  // Previously `lang` prop was used when it happened to match a valid lang (e.g. "ro" on Romania map),
+  // which locked detail URLs to that language regardless of the user's choice.
+  const seoLang = displayLang as SeoLang;
   const moreLabel = MORE_LABEL[seoLang];
 
   const title = lang === "hu" ? "Részletek" : lang === "ro" ? "Detalii" : lang === "en" ? "Details" : "Details";
