@@ -46,13 +46,14 @@ function geographicFacts(poi: POI) {
 export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi && poi.type !== "region" && poi.type !== "country")
-      .map((poi) => ({
-        lang,
-        country: countrySlugFor(lang, getCountryId(poi.parent)),
-        state: buildStatePath(lang, poi.parent).split("/").filter(Boolean)[2],
-        poi: buildPoiPath(lang, poi).split("/").filter(Boolean)[3],
-      })),
+      .filter((poi) => poi && poi.parent && poi.type !== "region" && poi.type !== "country")
+      .map((poi) => {
+        const country = countrySlugFor(lang, getCountryId(poi.parent!));
+        const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
+        const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
+        return { lang, country, state: statePath[2], poi: poiPath[3] };
+      })
+      .filter((p) => p.lang && p.country && p.state && p.poi),
   );
 }
 
