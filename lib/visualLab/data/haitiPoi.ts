@@ -96,7 +96,7 @@ export const haitiCities: POI[] = [
       en: ["Founded in 1698", "Artistic capital of Haiti", "Famous for papier-mâché masks", "Well-preserved colonial district"]
     },
     factsAdvanced: {
-      de: ["Jacmel war die erste Stadt in der Karibik, die elektrisches Licht hatte", "Die Architektur inspirierte viele Gebäude im French Quarter von New Orleans", "Die Stadt ist ein Zentrum für Film und Medienbildung (Ciné Institute)"],
+      de: ["Jacmel war die erste Stadt in der Karibik, die elektrisches licht hatte", "Die Architektur inspirierte viele Gebäude im French Quarter von New Orleans", "Die Stadt ist ein Zentrum für Film und Medienbildung (Ciné Institute)"],
       hu: ["Jacmel volt az első város a Karib-térségben, ahol bevezették az elektromos áramot", "Az építészete számos New Orleans-i French Quarter-beli épületet ihletett", "A város a filmgyártás és médiaművészet központja (Ciné Institute)"],
       ro: ["Jacmel a fost primul oraș din Caraibe care a avut lumină electrică", "Arhitectura sa a inspirat multe clădiri din Cartierul Francez din New Orleans", "Orașul este un centru pentru film și educație media (Ciné Institute)"],
       en: ["Jacmel was the first city in the Caribbean to have electric street lighting in 1925", "Its architecture served as a model for many buildings in New Orleans' French Quarter", "The city is home to the Ciné Institute, Haiti's only professional film school"]
@@ -131,7 +131,7 @@ export const haitiCities: POI[] = [
     factsAdvanced: {
       de: ["Simon Bolívar erhielt hier 1815 Unterstützung für die Befreiung Südamerikas", "Die Stadt ist ein Ausgangspunkt für Ausflüge zur Insel Île-à-Vache", "Sie wurde im Laufe der Geschichte mehrfach durch Wirbelstürme schwer beschädigt"],
       hu: ["Simón Bolívar 1815-ben itt kapott támogatást Dél-Amerika felszabadításához", "A város az Île-à-Vache szigetre induló kirándulások kiindulópontja", "A történelem során többször sújtották pusztító hurrikánok"],
-      ro: ["Simón Bolívar a primit aici sprijin în 1815 pentru eliberarea Americii de Sud", "Orașul este punctul de plecare pentru excursii pe insula Île-à-Vache", "A fost grav avariat de uragane de mai multe ori de-a lungul istoriei"],
+      ro: ["Simón Bolívar a primit aici sprijin în 1815 pentru eliberarea Americii de Sud", "Orașul este punctul de plecare pentru excursii pe insula Île-à-Vache", "A fost grav avariat de uragane de mai multe ori de lungul istoriei"],
       en: ["South American liberator Simón Bolívar received critical military aid here in 1815", "The city serves as the main transit point for travel to the resort island of Île-à-Vache", "It is historically vulnerable to hurricanes, having been rebuilt several times after major storms"]
     },
     historyYear: 1786,
@@ -281,7 +281,7 @@ export const haitiCities: POI[] = [
     descriptionAdvanced: {
       de: "Die Forêt des Pins ist ein lebenswichtiges Waldreservat im Südosten Haitis, das für den Schutz der Artenvielfalt und des Wasserkreislaufs von großer Bedeutung ist. Der Wald besteht hauptsächlich aus der endemischen Hispaniola-Kiefer und bietet ein kühles Hochlandklima.",
       hu: "A Forêt des Pins egy létfontosságú erdőrezervátum Haiti délkeleti részén, amely nagy jelentőséggel bír a biológiai sokféleség megőrzése és a vízkörforgás szempontjából. Az erdő főként őshonos hispaniolai fenyőkből áll, és hűvös felvidéki éghajlatot kínál.",
-      ro: "Forêt des Pins este o rezervație forestieră vitală în sud-estul Haitiului, având o mare importanță pentru protejarea biodiversității și a ciclului apei. Pădurea este formată în principal din pinul de Hispaniola endemic și oferă un climat răcoros de munte.",
+      ro: "Forêt des Pins este o rezervație forestieră vitală în sud-estul Haitiului, având o mare importanță pentru protejarea biodiversității și a ciclului apei. Păpărea este formată în principal din pinul de Hispaniola endemic și oferă un climat răcoros de munte.",
       en: "Forêt des Pins is a critical forest reserve in southeastern Haiti, essential for biodiversity conservation and watershed protection. The forest is dominated by the endemic Hispaniolan Pine and features a refreshing temperate climate."
     },
     facts: {
@@ -377,7 +377,7 @@ export const haitiCities: POI[] = [
     descriptionAdvanced: {
       de: "Fort Picoulet ist eine historische Festungsruine direkt am Meer am Eingang der Bucht von Cap-Haïtien. Sie war Teil eines umfangreichen Verteidigungssystems, das die ehemalige koloniale Hauptstadt vor Angriffen vom Meer her schützen sollte.",
       hu: "A Fort Picoulet egy történelmi erődmárvány közvetlenül a tengerparton, a Cap-Haïtien-i öböl bejáratánál. Része volt egy kiterjedt védelmi rendszernek, amelynek célja az egykori gyarmati főváros tenger felőli védelme volt.",
-      ro: "Fortul Picoulet este o ruină istorică a unei fortărețe situată direct pe malul mării, la intrarea în golful Cap-Haïtien. A făcut parte dintr-un sistem defensiv extins, menit să protejeze fosta capitală colonială de atacurile maritime.",
+      ro: "Fortul Picoulet este o ruină istorică a unei fortărețe situate direct pe malul mării, la intrarea în golful Cap-Haïtien. A făcut parte dintr-un sistem defensiv extins, menit să protejeze fosta capitală colonială de atacurile maritime.",
       en: "Fort Picoulet is a seaside historical ruin guarding the entrance to Cap-Haïtien bay. Built during the French colonial era, it was a vital link in the coastal defense network protecting the North's most important city."
     },
     facts: {
@@ -588,17 +588,166 @@ export const haitiLandmarks: POI[] = [
     historyYear: 1804,
     elevation: 1200
   },
-  { id: "ht-pantheon", type: "landmark", parent: "HT", coords: [-72.3344, 18.5436], name: { de: "Musée du Panthéon National", hu: "Nemzeti Panteon Múzeum", ro: "Muzeul Panteonului Național", en: "Musée du Panthéon National" }, description: { de: "Ein Museum in Port-au-Prince, das der Geschichte Haitis gewidmet ist.", hu: "A haiti történelemnek szentelt múzeum Port-au-Prince-ben.", ro: "Un muzeu din Port-au-Prince dedicat istoriei Haitiului.", en: "A museum in Port-au-Prince dedicated to the history of Haiti." } },
-  { id: "ht-ironmarket", type: "landmark", parent: "HT", coords: [-72.3375, 18.5511], name: { de: "Marché en Fer", hu: "Vaspiac", ro: "Piața de Fier", en: "Iron Market" }, description: { de: "Ein geschäftiger historischer Markt in Port-au-Prince.", hu: "Egy nyüzsgő történelmi piac Port-au-Prince-ben.", ro: "O piață istorică plină de viață în Port-au-Prince.", en: "A bustling historic market in Port-au-Prince." } },
-  { id: "ht-tortue", type: "island", parent: "HT", coords: [-72.8000, 20.0500], name: { de: "Île de la Tortue", hu: "Teknős-sziget", ro: "Insula Tortuga", en: "Tortuga Island" }, description: { de: "Eine Insel vor der Nordwestküste, berühmt für ihre Piratengeschichte.", hu: "Az északnyugati partoknál fekvő sziget, mely kalóztörténelméről híres.", ro: "O insulă în largul coastei de nord-vest, renumită pentru istoria sa cu pirați.", en: "An island off the northwest coast famous for its pirate history." } },
-  { id: "ht-sautmathurine", type: "landmark", parent: "HT", coords: [-73.8333, 18.3500], name: { de: "Saut-Mathurine", hu: "Saut-Mathurine vízesés", ro: "Cascada Saut-Mathurine", en: "Saut-Mathurine" }, description: { de: "Der größte Wasserfall Haitis im Südwesten des Landes.", hu: "Haiti legnagyobb vízesése az ország délnyugati részén.", ro: "Cea mai mare cascadă din Haiti, în sud-vestul țării.", en: "The largest waterfall in Haiti, located in the southwest." } },
+  {
+    id: "ht-pantheon",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3344, 18.5436],
+    name: { de: "Musée du Panthéon National", hu: "Nemzeti Panteon Múzeum", ro: "Muzeul Panteonului Național", en: "Musée du Panthéon National" },
+    description: {
+      de: "Ein museum in Port-au-Prince, das der Geschichte Haitis gewidmet ist.",
+      hu: "A haiti történelemnek szentelt múzeum Port-au-Prince-ben.",
+      ro: "Un muzeu din Port-au-Prince dedicat istoriei Haitiului.",
+      en: "A museum in Port-au-Prince dedicated to the history of Haiti."
+    },
+    descriptionAdvanced: {
+      de: "Das Musée du Panthéon National Haïtien (MUPANAH) dokumentiert die Geschichte des Landes von der Zeit der Taíno-Indianer über die Kolonialzeit bis zur Unabhängigkeit. Es ist ein unterirdisches Bauwerk, das die Gräber der Gründerväter Haitis beherbergt und nationale Schätze bewahrt.",
+      hu: "A Musée du Panthéon National Haïtien (MUPANAH) Haiti történelmét dokumentálja a taíno indiánok korától a gyarmati korszakon át a függetlenségig. Ez egy föld alatti építmény, amely Haiti alapító atyáinak sírjait őrzi és nemzeti kincseket mutat be.",
+      ro: "Musée du Panthéon National Haïtien (MUPANAH) documentează istoria țării de la epoca indienilor Taíno, trecând prin perioada colonială, până la independență. Este o structură subterană care adăpostește mormintele părinților fondatori ai Haitiului și păstrează comori naționale.",
+      en: "The Musée du Panthéon National Haïtien (MUPANAH) is a premier cultural institution documenting Haiti's journey from indigenous Taíno roots through the colonial era to independence. Built largely underground, it serves as a sacred shrine for the nation's founding fathers and a repository for its most significant historical artifacts."
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1983", "Unterirdisches Museum", "Beherbergt nationale Reliquien", "Liegt in Port-au-Prince"],
+      hu: ["1983-ban alapították", "Föld alatti múzeum", "Nemzeti ereklyéket őriz", "Port-au-Prince-ben található"],
+      ro: ["Fondat în 1983", "Muzeu subteran", "Adăpostește relicve naționale", "Situat în Port-au-Prince"],
+      en: ["Opened in 1983", "Main galleries are underground", "Houses the 'Crown Jewels' of Haiti", "Located in the heart of the capital"]
+    },
+    factsAdvanced: {
+      de: ["Der Anker der Santa Maria (Kolumbus' Schiff) wird hier aufbewahrt", "Hier ruhen die Überreste von Toussaint Louverture und Dessalines", "Das Gebäude ist von den Gärten des Place du Marron Inconnu umgeben"],
+      hu: ["Itt őrzik a Santa Maria (Kolumbusz hajója) horgonyát", "Itt nyugszanak Toussaint Louverture és Dessalines földi maradványai", "Az épületet a Place du Marron Inconnu kertjei veszik körül"],
+      ro: ["Ancora navei Santa Maria (nava lui Columb) este păstrată aici", "Aici se odihnesc rămășițele lui Toussaint Louverture și Dessalines", "Clădirea este înconjurată de grădinile din Place du Marron Inconnu"],
+      en: ["The original anchor from Christopher Columbus’s flagship, the Santa Maria, is on display here", "The museum serves as a mausoleum for Toussaint Louverture, Dessalines, Christophe, and Pétion", "Its unique modern architecture features white cones that rise above the surrounding parkland"]
+    },
+    historyYear: 1983
+  },
+  {
+    id: "ht-ironmarket",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3375, 18.5511],
+    name: { de: "Marché en Fer", hu: "Vaspiac", ro: "Piața de Fier", en: "Iron Market" },
+    description: {
+      de: "Ein geschäftiger historischer Markt in Port-au-Prince.",
+      hu: "Egy nyüzsgő történelmi piac Port-au-Prince-ben.",
+      ro: "O piață istorică plină de viață în Port-au-Prince.",
+      en: "A bustling historic market in Port-au-Prince."
+    },
+    descriptionAdvanced: {
+      de: "Der Marché en Fer (Eisenmarkt) ist ein Wahrzeichen von Port-au-Prince, bekannt für seine markante rote Metallstruktur im maurischen Stil. Er wurde ursprünglich in Frankreich für einen ägyptischen Bahnhof gebaut, landete aber schließlich 1891 in Haiti und ist heute ein Zentrum für Kunsthandwerk und Voodoo-Bedarf.",
+      hu: "A Marché en Fer (Vaspiac) Port-au-Prince egyik jelképe, amely jellegzetes vörös, mór stílusú fémszerkezetéről ismert. Eredetileg Franciaországban készült egy egyiptomi vasútállomás számára, de végül 1891-ben Haitin kötött ki, és ma a kézműves termékek és vudu kellékek központja.",
+      ro: "Marché en Fer (Piața de Fier) este un punct de reper al orașului Port-au-Prince, cunoscut pentru structura sa metalică roșie distinctivă în stil maur. A fost construit inițial în Franța pentru o gară egipteană, dar a ajuns în cele din urmă în Haiti în 1891 și este astăzi un centru pentru artizanat și articole voodoo.",
+      en: "The Marché en Fer (Iron Market) is an iconic landmark in Port-au-Prince, famous for its vibrant red Moorish-style metal architecture. Originally forged in France for an Egyptian train station, it was brought to Haiti in 1891 and remains the city's premier destination for traditional crafts, spices, and Vodou spiritual items."
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1891", "Maurischer Architekturstil", "Zentrum für Kunsthandwerk", "Restauriert nach dem Erdbeben"],
+      hu: ["1891-ben épült", "Mór építészeti stílus", "Kézműves központ", "A földrengés után helyreállították"],
+      ro: ["Construit în 1891", "Stil arhitectural maur", "Centru pentru artizanat", "Restaurat după cutremur"],
+      en: ["Completed in 1891", "Distinctive Moorish design", "Famous for Vodou and craft sections", "Fully restored after the 2010 earthquake"]
+    },
+    factsAdvanced: {
+      de: ["Die Struktur war ursprünglich für den Bahnhof von Kairo vorgesehen", "Der Markt wurde nach dem Erdbeben von 2010 in nur einem Jahr wieder aufgebaut", "Er besteht aus zwei großen Hallen, die durch einen Uhrturm verbunden sind"],
+      hu: ["A szerkezetet eredetileg a kairói vasútállomásnak szánták", "A piacot a 2010-es földrengés után mindössze egy év alatt újjáépítették", "Két nagy csarnokból áll, amelyeket egy óratorony köt össze"],
+      ro: ["Structura a fost destinată inițial gării din Cairo", "Piața a fost reconstruită în doar un an după cutremurul din 2010", "Este formată din două hale mari conectate printr-un turn cu ceas"],
+      en: ["The iron structure was rejected by Egypt and purchased by President Florvil Hyppolite in 1891", "It was the first major landmark to be fully restored following the devastating 2010 quake", "The market is divided into two main halls: one for food and one for artisanal goods"]
+    },
+    historyYear: 1891
+  },
+  {
+    id: "ht-tortue",
+    type: "island",
+    parent: "HT",
+    coords: [-72.8000, 20.0500],
+    name: { de: "Île de la Tortue", hu: "Teknős-sziget", ro: "Insula Tortuga", en: "Tortuga Island" },
+    description: {
+      de: "Eine Insel vor der Nordwestküste, berühmt für ihre Piratengeschichte.",
+      hu: "Az északnyugati partoknál fekvő sziget, mely kalóztörténelméről híres.",
+      ro: "O insulă în largul coastei de nord-vest, renumită pentru istoria sa cu pirați.",
+      en: "An island off the northwest coast famous for its pirate history."
+    },
+    descriptionAdvanced: {
+      de: "Die Île de la Tortue (Tortuga) erlangte im 17. Jahrhundert Weltruhm als berüchtigtes Hauptquartier von Piraten und Bukatieren. Die Insel, deren Form an eine Meeresschildkröte erinnert, war ein strategischer Außenposten, der den spanischen Schiffsverkehr in der Karibik kontrollierte.",
+      hu: "Az Île de la Tortue (Tortuga) a 17. században vált világhírűvé mint a kalózok és bukanérok hírhedt bázisa. A sziget, amelynek alakja egy tengeri teknősre emlékeztet, stratégiai fontosságú helyszín volt a spanyol hajóforgalom ellenőrzésére a Karib-tengeren.",
+      ro: "Île de la Tortue (Tortuga) a câștigat faima mondială în secolul al XVII-lea ca fiind sediul infam al piraților și bucătarilor. Insula, a cărei formă seamănă cu o țestoasă marină, a fost un punct strategic care controla traficul maritim spaniol în Caraibe.",
+      en: "Île de la Tortue (Tortuga) is world-renowned for its 17th-century legacy as a major stronghold for pirates and buccaneers. Named for its resemblance to a sea turtle's shell, the island served as a lawless frontier and a vital strategic base for raids against the Spanish Main."
+    },
+    facts: {
+      de: ["Berühmtes Piratennest", "Entdeckt von Kolumbus", "Form einer Schildkröte", "Karibische Insel"],
+      hu: ["Híres kalóztanya", "Kolumbusz fedezte fel", "Teknős alakú", "Karibi sziget"],
+      ro: ["Faimos cuib de pirați", "Descoperită de Columb", "Formă de țestoasă", "Insulă în Caraibe"],
+      en: ["Infamous 17th-century pirate base", "Discovered by Columbus in 1492", "Resembles a giant sea turtle", "Major setting for pirate folklore"]
+    },
+    factsAdvanced: {
+      de: ["Hier wurde die Bruderschaft der Küste gegründet", "Die Insel war zwischen Frankreich und Spanien heftig umkämpft", "Heute ist sie bekannt für ihre unberührten weißen Sandstrände"],
+      hu: ["Itt alapították meg a Partvidéki Testvériséget", "A szigetért heves harcok folytak Franciaország és Spanyolország között", "Ma érintetlen fehér homokos strandjairól ismert"],
+      ro: ["Aici a fost fondată Frăția Coastei", "Insula a fost aprig disputată între Franța și Spania", "Astăzi este cunoscută pentru plajele sale virgine cu nisip alb"],
+      en: ["The island saw the establishment of the 'Brethren of the Coast' pirate coalition", "It was governed by famous buccaneer figures like Jean Le Vasseur and Henry Morgan", "Despite its wild history, it remains one of Haiti's most underdeveloped and pristine areas"]
+    },
+    historyYear: 1492,
+    area: 180
+  },
+  {
+    id: "ht-sautmathurine",
+    type: "landmark",
+    parent: "HT",
+    coords: [-73.8333, 18.3500],
+    name: { de: "Saut-Mathurine", hu: "Saut-Mathurine vízesés", ro: "Cascada Saut-Mathurine", en: "Saut-Mathurine" },
+    description: {
+      de: "Der größte Wasserfall Haitis im Südwesten des Landes.",
+      hu: "Haiti legnagyobb vízesése az ország délnyugati részén.",
+      ro: "Cea mai mare cascadă din Haiti, în sud-vestul țării.",
+      en: "The largest waterfall in Haiti, located in the southwest."
+    },
+    descriptionAdvanced: {
+      de: "Der Saut-Mathurine ist ein beeindruckender Wasserfall im Cavaillon-Fluss, eingebettet in die üppige Vegetation des Südwestens. Das Wasser stürzt über eine breite Kante in ein tiefes Becken, das zum Schwimmen einlädt und als eines der schönsten Naturwunder Haitis gilt.",
+      hu: "A Saut-Mathurine egy lenyűgöző vízesés a Cavaillon-folyón, a délnyugati rész buja növényzetébe ágyazva. A víz széles peremről zúdul le egy mély medencébe, amely kiválóan alkalmas fürdésre, és Haiti egyik legszebb természeti csodájának tartják.",
+      ro: "Saut-Mathurine este o cascadă impresionantă pe râul Cavaillon, situată în vegetația luxuriantă din sud-vest. Apa cade peste o margine lată într-un bazin adânc, care invită la înot și este considerată una dintre cele mai frumoase minuni naturale din Haiti.",
+      en: "Saut-Mathurine is Haiti's most impressive waterfall, located on the Cavaillon River in the lush southwestern highlands. Its cascading waters fall over a wide limestone shelf into a deep emerald pool, creating one of the country's most spectacular natural swimming spots."
+    },
+    facts: {
+      de: ["Größter Wasserfall Haitis", "Natürliches Schwimmbecken", "Im Departement Sud gelegen", "Türkisfarbenes Wasser"],
+      hu: ["Haiti legnagyobb vízesése", "Természetes úszómedence", "A Sud megyében található", "Türkizkék víz"],
+      ro: ["Cea mai mare cascadă din Haiti", "Piscină naturală", "Situată în departamentul Sud", "Apă turcoaz"],
+      en: ["Largest waterfall in Haiti", "Natural swimming basin", "Located in the Sud Department", "Vibrant turquoise waters"]
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall ist etwa 30 Meter hoch und 30 Meter breit", "Das Wasser stammt aus den Bergen des Massif de la Hotte", "Die Kraft des Wassers wird zur Stromerzeugung für lokale Gemeinden genutzt"],
+      hu: ["A vízesés körülbelül 30 méter magas és 30 méter széles", "A víz a Massif de la Hotte hegyeiből érkezik", "A víz erejét a helyi közösségek áramellátására is hasznosítják"],
+      ro: ["Cascada are o înălțime de aproximativ 30 de metri și o lățime de 30 de metri", "Apa provine din munții Massif de la Hotte", "Forța apei este utilizată pentru a genera electricitate pentru comunitățile locale"],
+      en: ["The waterfall measures approximately 30 meters high and 30 meters wide", "The flow originates from the limestone aquifers of the Massif de la Hotte", "A small hydroelectric plant nearby utilizes the falls to provide clean energy to Camp-Perrin"]
+    },
+    elevation: 300
+  },
   {
     id: "ht-palais365",
     type: "historical",
     parent: "HT",
     coords: [-72.49, 19.12],
     name: { de: "Palais 365 Portes", hu: "365 ajtós palota", ro: "Palatul cu 365 de uși", en: "Palais 365 Portes" },
-    description: { de: "Historischer Palast in Petite Rivière de l'Artibonite.", hu: "Történelmi palota Petite Rivière de l'Artibonite-ban.", ro: "Palat istoric în Petite Rivière de l'Artibonite.", en: "Historic palace in Petite Rivière de l'Artibonite." }
+    description: {
+      de: "Historischer Palast in Petite Rivière de l'Artibonite.",
+      hu: "Történelmi palota Petite Rivière de l'Artibonite-ban.",
+      ro: "Palat istoric în Petite Rivière de l'Artibonite.",
+      en: "Historic palace in Petite Rivière de l'Artibonite."
+    },
+    descriptionAdvanced: {
+      de: "Der Palais aux 365 Portes (Palast der 365 Türen) wurde von König Henri Christophe als Regierungsgebäude errichtet. Jedes Fenster und jede Tür soll einen Tag des Jahres symbolisieren, was die architektonische Vision und den Ehrgeiz der frühen haitianischen Monarchie unterstreicht.",
+      hu: "A Palais aux 365 Portes (365 ajtós palota) Henri Christophe király építtette kormányzati épületként. Úgy tartják, minden ablak és ajtó az év egy-egy napját szimbolizálja, ami kiemeli a korai haiti monarchia építészeti vízióját és ambícióit.",
+      ro: "Palais aux 365 Portes (Palatul celor 365 de uși) a fost construit de regele Henri Christophe ca sediu al guvernului. Se spune că fiecare fereastră și fiecare ușă simbolizează o zi a anului, subliniind viziunea arhitecturală și ambiția timpurii monarhii haitiene.",
+      en: "The Palais aux 365 Portes (Palace of 365 Doors) was commissioned by King Henri Christophe as a grand administrative center. According to legend, the building was designed with 365 openings to represent each day of the year, showcasing the grandeur of the early 19th-century Haitian state."
+    },
+    facts: {
+      de: ["Erbaut von Henri Christophe", "Ein Symbol pro Tag", "Historisches Monument", "Sitz der Verwaltung"],
+      hu: ["Henri Christophe építtette", "Minden napra egy jelkép", "Történelmi műemlék", "Közigazgatási székhely"],
+      ro: ["Construit de Henri Christophe", "Un simbol pentru fiecare zi", "Monument istoric", "Sediu administrativ"],
+      en: ["Built by King Henri Christophe", "Features 365 openings", "Official national landmark", "Historical administrative hub"]
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde 1820 fertiggestellt", "Es diente als Palast für die Gouverneure des Artibonite-Tals", "Heute beherbergt es Regierungsbüros und ist für Besucher zugänglich"],
+      hu: ["Az épületet 1820-ban fejezték be", "Az Artibonite-völgy kormányzóinak palotájaként szolgált", "Ma kormányzati hivataloknak ad otthont és látogatható"],
+      ro: ["Clădirea a fost finalizată în 1820", "A servit drept palat pentru guvernatorii văii Artibonite", "Astăzi găzduiește birouri guvernamentale și este accesibil vizitatorilor"],
+      en: ["The palace was completed in 1820, just before the end of Christophe's reign", "It was intended to serve as the administrative heart of the northern Artibonite region", "The structure remains in active use today, housing local government and judicial offices"]
+    },
+    historyYear: 1820
   },
   {
     id: "ht-cathedralcap",
@@ -606,7 +755,31 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.20, 19.76],
     name: { de: "Kathedrale von Cap-Haïtien", hu: "Cap-Haïtien-i székesegyház", ro: "Catedrala din Cap-Haïtien", en: "Cathedral of Cap-Haïtien" },
-    description: { de: "Ikonische Kathedrale in der nördlichen Hauptstadt.", hu: "Ikonikus székesegyház az északi fővárosban.", ro: "Catedrală iconică în capitala de nord.", en: "Iconic cathedral in the northern capital." }
+    description: {
+      de: "Ikonische Kathedrale in der nördlichen Hauptstadt.",
+      hu: "Ikonikus székesegyház az északi fővárosban.",
+      ro: "Catedrală iconică în capitala de nord.",
+      en: "Iconic cathedral in the northern capital."
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale Notre-Dame de l'Assomption in Cap-Haïtien ist ein prächtiges Beispiel kolonialer Sakralarchitektur. Sie liegt im Herzen der Stadt am Place d'Armes und ist ein zentraler Ort für religiöse und soziale Feierlichkeiten in der geschichtsträchtigen Region des Nordens.",
+      hu: "A Cap-Haïtien-i Notre-Dame de l'Assomption székesegyház a gyarmati vallási építészet pompás példája. A város szívében, a Place d'Armes-on található, és a történelmi északi régió vallási és társadalmi eseményeinek központja.",
+      ro: "Catedrala Notre-Dame de l'Assomption din Cap-Haïtien este un exemplu magnific de arhitectură sacră colonială. Situată în inima orașului, în Place d'Armes, este un loc central pentru sărbătorile religioase și sociale din regiunea istorică de nord.",
+      en: "The Cathédrale Notre-Dame de l'Assomption in Cap-Haïtien is a majestic centerpiece of French colonial religious architecture. Located on the historic Place d'Armes, it serves as the spiritual heart of the city and a symbol of the North's deep Catholic heritage."
+    },
+    facts: {
+      de: ["Kolonialarchitektur", "Zentrum von Cap-Haïtien", "Historische Kirche", "Religiöses Wahrzeichen"],
+      hu: ["Gyarmati építészet", "Cap-Haïtien központja", "Történelmi templom", "Vallási jelkép"],
+      ro: ["Arhitectură colonială", "Centrul orașului Cap-Haïtien", "Biserică istorică", "Simbol religios"],
+      en: ["French colonial architecture", "Located on Place d'Armes", "Major religious landmark", "Historical cathedral of the North"]
+    },
+    factsAdvanced: {
+      de: ["Die Kathedrale wurde auf den Ruinen einer früheren Kirche aus dem 17. Jh. errichtet", "Hier fand 1804 eine feierliche Messe zur Unabhängigkeit statt", "Die Kuppel ist weithin über der Bucht der Stadt sichtbar"],
+      hu: ["A székesegyház egy korábbi, 17. századi templom romjaira épült", "1804-ben itt tartottak ünnepi misét a függetlenség tiszteletére", "A kupola messziről látható a város öble felett"],
+      ro: ["Catedrala a fost construită pe ruinele unei biserici anterioare din sec. XVII", "Aici a avut loc o slujbă solemnă pentru independență în 1804", "Cupola este vizibilă de la mare distanță deasupra golfului orașului"],
+      en: ["The current structure stands on a site used for worship since the late 1600s", "It has survived multiple fires and earthquakes that reshaped the city's skyline", "The interior features notable religious art and stained glass from the colonial and early republican eras"]
+    },
+    historyYear: 1670
   },
   {
     id: "ht-fortcrete",
@@ -614,7 +787,31 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.44, 19.11],
     name: { de: "Fort de la Crête-à-Pierrot", hu: "Fort de la Crête-à-Pierrot", ro: "Fort de la Crête-à-Pierrot", en: "Fort de la Crête-à-Pierrot" },
-    description: { de: "Berühmter Ort einer heldenhaften Schlacht um die Unabhängigkeit.", hu: "A függetlenségi háború egyik hősies csatájának híres helyszíne.", ro: "Celebru sit al unei bătălii eroice pentru independență.", en: "Famous site of a heroic battle for independence." }
+    description: {
+      de: "Berühmter Ort einer heldenhaften Schlacht um die Unabhängigkeit.",
+      hu: "A függetlenségi háború egyik hősies csatájának híres helyszíne.",
+      ro: "Celebru sit al unei bătălii eroice pentru independență.",
+      en: "Famous site of a heroic battle for independence."
+    },
+    descriptionAdvanced: {
+      de: "Das Fort de la Crête-à-Pierrot war Schauplatz einer der bedeutendsten Schlachten der Haitianischen Revolution im Jahr 1802. Eine kleine haitianische Truppe verteidigte das Fort wochenlang heldenhaft gegen eine gewaltige Übermacht französischer Soldaten.",
+      hu: "A Fort de la Crête-à-Pierrot a haiti forradalom egyik legjelentősebb csatájának helyszíne volt 1802-ben. Egy maroknyi haiti sereg hetekig hősiesen védte az erődöt a hatalmas túlerőben lévő francia katonákkal szemben.",
+      ro: "Fortul de la Crête-à-Pierrot a fost locul uneia dintre cele mai importante bătălii ale revoluției haitiene din 1802. O mică trupă haitiană a apărat eroic fortul timp de săptămâni împotriva unei forțe franceze covârșitoare.",
+      en: "Fort de la Crête-à-Pierrot is legendary as the site of a pivotal 1802 battle during the Haitian Revolution. A small but determined Haitian force held the fort for weeks against a vastly larger French army, demonstrating incredible bravery and tactical skill."
+    },
+    facts: {
+      de: ["Schlachtort 1802", "Heldentat der Revolution", "In der Nähe von Petite Rivière", "Historisches Fort"],
+      hu: ["Csatahelyszín 1802-ben", "A forradalom hőstette", "Petite Rivière közelében", "Történelmi erőd"],
+      ro: ["Locul bătăliei din 1802", "Faptă eroică a revoluției", "Lângă Petite Rivière", "Fort istoric"],
+      en: ["Site of the 1802 heroic siege", "Symbol of revolutionary courage", "Located near Petite Rivière", "Strategic defensive position"]
+    },
+    factsAdvanced: {
+      de: ["Jean-Jacques Dessalines hielt hier eine berühmte Rede zur Verteidigung des Forts", "Marie-Jeanne Lamartiniére kämpfte hier als Heldin an der Seite der Männer", "Die Verteidigung gilt als Meilenstein auf dem Weg zur endgültigen Unabhängigkeit"],
+      hu: ["Jean-Jacques Dessalines itt tartotta híres beszédét az erőd védelméről", "Marie-Jeanne Lamartiniére hősnőként harcolt itt a férfiak oldalán", "A védelem mérföldkőnek számít a végső függetlenség felé vezető úton"],
+      ro: ["Jean-Jacques Dessalines a ținut aici un discurs faimos pentru apărarea fortului", "Marie-Jeanne Lamartiniére a luptat aici ca eroină alături de bărbați", "Apărarea este considerată un jalon în drumul spre independența finală"],
+      en: ["It was here that Jean-Jacques Dessalines famously vowed to defend the fort to the death", "Marie-Jeanne Lamartiniére became a national icon for her combat role during the siege", "Though the Haitians eventually retreated, the battle depleted French morale and resources"]
+    },
+    historyYear: 1802
   },
   {
     id: "ht-plainedunord",
@@ -622,7 +819,30 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.27, 19.68],
     name: { de: "Plaine-du-Nord", hu: "Plaine-du-Nord", ro: "Plaine-du-Nord", en: "Plaine-du-Nord" },
-    description: { de: "Dorf bekannt für seine lebhaften Voodoo-Festivals.", hu: "A nyüzsgő vudu fesztiváljairól ismert falu.", ro: "Sat cunoscut pentru festivalurile sale vibrante voodoo.", en: "Village known for its vibrant voodoo festivals." }
+    description: {
+      de: "Dorf bekannt für seine lebhaften Voodoo-Festivals.",
+      hu: "A nyüzsgő vudu fesztiváljairól ismert falu.",
+      ro: "Sat cunoscut pentru festivalurile sale vibrante voodoo.",
+      en: "Village known for its vibrant voodoo festivals."
+    },
+    descriptionAdvanced: {
+      de: "Plaine-du-Nord ist ein bedeutendes spirituelles Zentrum Haitis, weltbekannt für die jährlichen Feierlichkeiten zu Ehren von St. Jacques (Ogou Feray). Tausende Gläubige versammeln sich hier, um in den heiligen Schlammbecken von Trou du Nord spirituelle Reinigung und Kraft zu suchen.",
+      hu: "Plaine-du-Nord Haiti egyik legjelentősebb spirituális központja, amely a Szent Jakab (Ogou Feray) tiszteletére rendezett éves ünnepségeiről világhírű. Hívők ezrei gyűlnek itt össze, hogy a Trou du Nord szent sárfürdőiben spirituális tisztulást és erőt keressenek.",
+      ro: "Plaine-du-Nord este un important centru spiritual din Haiti, renumit în lume pentru sărbătorile anuale în cinstea Sfântului Iacob (Ogou Feray). Mii de credincioși se adună aici pentru a căuta purificare spirituală și putere în bazinele sacre cu noroi de la Trou du Nord.",
+      en: "Plaine-du-Nord is a major spiritual hub in Haiti, globally recognized for its intense annual festivals honoring St. Jacques (syncretized with Ogou Feray). Every July, thousands of pilgrims visit the sacred Trou du Nord mud pool for rituals of healing and spiritual empowerment."
+    },
+    facts: {
+      de: ["Zentrum des Voodoo", "Trou du Nord Schlammbecken", "Fest des St. Jacques", "Religiöser Wallfahrtsort"],
+      hu: ["A vudu központja", "Trou du Nord sárfürdő", "Szent Jakab ünnepe", "Vallási zarándokhely"],
+      ro: ["Centrul voodoo", "Bazinul cu noroi Trou du Nord", "Sărbătoarea Sfântului Iacob", "Loc de pelerinaj religios"],
+      en: ["Premier Vodou pilgrimage site", "Home to sacred mud basins", "Festival of Saint Jacques", "Focal point of syncretic traditions"]
+    },
+    factsAdvanced: {
+      de: ["Die Feierlichkeiten kombieren katholische Riten mit afrikanischen Traditionen", "Der Trou du Nord gilt als einer der heiligsten Orte der Voodoo-Religion", "Die Pilger tragen oft rote Kleidung, die Farbe von Ogou Feray"],
+      hu: ["Az ünnepségek ötvözik a katolikus rítusokat az afrikai hagyományokkal", "A Trou du Nord-ot a vudu vallás egyik legszentebb helyének tartják", "A zarándokok gyakran viselnek piros ruhát, ami Ogou Feray színe"],
+      ro: ["Sărbătorile combină riturile catolice cu tradițiile africane", "Trou du Nord este considerat unul dintre cele mai sfinte locuri ale religiei voodoo", "Pelerinii poartă adesea haine roșii, culoarea lui Ogou Feray"],
+      en: ["The pilgrimage features a unique blend of Catholic mass and Vodou ceremonies", "Pilgrims often emerge from the mud pools and head to the nearby Atlantic coast for cleansing", "Red is the dominant color of the festival, associated with the spirit of iron and war"]
+    }
   },
   {
     id: "ht-ileavache",
@@ -630,7 +850,31 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-73.6, 18.1],
     name: { de: "Île-à-Vache", hu: "Île-à-Vache sziget", ro: "Insula Île-à-Vache", en: "Île-à-Vache" },
-    description: { de: "Eine friedliche Insel, bekannt für ihre schönen Strände.", hu: "Egy békés sziget, amely gyönyörű strandjairól ismert.", ro: "O insulă liniștită cunoscută pentru plajele sale frumoase.", en: "A peaceful island known for its beautiful beaches." }
+    description: {
+      de: "Eine friedliche Insel, bekannt für ihre schönen Strände.",
+      hu: "Egy békés sziget, amely gyönyörű strandjairól ismert.",
+      ro: "O insulă liniștită cunoscută pentru plajele sale frumoase.",
+      en: "A peaceful island known for its beautiful beaches."
+    },
+    descriptionAdvanced: {
+      de: "Die Île-à-Vache ist eine idyllische Insel vor der Südwestküste Haitis, die als eines der letzten unberührten Paradiese der Karibik gilt. Fernab vom Autoverkehr bietet sie weiße Sandstrände, sanfte Hügel und eine entspannte Atmosphäre, die sie zu einem exklusiven Ziel für Ökotourismus macht.",
+      hu: "Az Île-à-Vache egy idilli sziget Haiti délnyugati partjainál, amelyet a Karib-térség egyik utolsó érintetlen paradicsomaként tartanak számon. Az autóforgalomtól mentes sziget fehér homokos strandokat, lankás dombokat és nyugodt légkört kínál, így az ökoturizmus exkluzív célpontja.",
+      ro: "Île-à-Vache este o insulă idilică în largul coastei de sud-vest a Haitiului, considerată unul dintre ultimele paradisuri virgine din Caraibe. Departe de traficul auto, oferă plaje cu nisip alb, dealuri domoale și o atmosferă relaxată, ceea ce o face o destinație exclusivistă pentru ecoturism.",
+      en: "Île-à-Vache is an idyllic island off Haiti's southwestern coast, widely regarded as one of the Caribbean's last untouched gems. Free from cars and bustling traffic, it offers pristine white-sand beaches and rolling green hills, making it a premier destination for sustainable tourism."
+    },
+    facts: {
+      de: ["Kein Autoverkehr", "Schönste Strände Haitis", "Südlich von Les Cayes", "Paradies für Segler"],
+      hu: ["Nincs autóforgalom", "Haiti legszebb strandjai", "Les Cayes-től délre", "A vitorlázók paradicsoma"],
+      ro: ["Fără trafic auto", "Cele mai frumoase plaje din Haiti", "La sud de Les Cayes", "Paradis pentru marinari"],
+      en: ["Car-free island environment", "Stunning secluded beaches", "Located south of Les Cayes", "Popular anchorage for sailors"]
+    },
+    factsAdvanced: {
+      de: ["Der Name bedeutet 'Kuhinsel' und stammt von den frühen Siedlern", "Die Insel diente im 17. Jahrhundert dem Piraten Henry Morgan als Versteck", "Hier befindet sich das bekannte Resort Abaka Bay"],
+      hu: ["A név 'Tehén-szigetet' jelent, és a korai telepesektől származik", "A sziget a 17. században Henry Morgan kalózkapitány rejtekhelye volt", "Itt található a híres Abaka Bay üdülőhely"],
+      ro: ["Numele înseamnă 'Insula Vacii' și provine de la primii coloniști", "Insula a servit drept ascunzătoare pentru piratul Henry Morgan în sec. XVII", "Aici se află cunoscuta stațiune Abaka Bay"],
+      en: ["The island was a frequent haunt of the pirate Henry Morgan, who anchored his fleet here", "It was the site of an ill-fated 1863 attempt by Abraham Lincoln to establish a colony for freed slaves", "The island remains largely agricultural, with residents relying on fishing and livestock"]
+    },
+    area: 52
   },
   {
     id: "ht-sautdeau",
@@ -638,7 +882,30 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.21, 18.82],
     name: { de: "Saut-d'Eau", hu: "Saut-d'Eau vízesés", ro: "Saut-d'Eau", en: "Saut-d'Eau" },
-    description: { de: "Heiliger Wasserfall und Wallfahrtsort für viele Haitianer.", hu: "Szent vízesés és zarándokhely sok haiti számára.", ro: "Cascadă sacră și loc de pelerinaj pentru mulți haitieni.", en: "Sacred waterfall and pilgrimage site for many Haitians." }
+    description: {
+      de: "Heiliger Wasserfall und Wallfahrtsort für viele Haitianer.",
+      hu: "Szent vízesés és zarándokhely sok haiti számára.",
+      ro: "Cascadă sacră și loc de pelerinaj pentru mulți haitieni.",
+      en: "Sacred waterfall and pilgrimage site for many Haitians."
+    },
+    descriptionAdvanced: {
+      de: "Saut-d'Eau ist ein Ort von tiefer spiritueller Bedeutung, an dem im 19. Jahrhundert die Jungfrau Maria auf einer Palme erschienen sein soll. Der wunderschöne Wasserfall ist heute Ziel einer der wichtigsten jährlichen Wallfahrten Haitis, bei der Katholiken und Voodoo-Anhänger gemeinsam spirituelle Reinigung suchen.",
+      hu: "Saut-d'Eau mély spirituális jelentőségű hely, ahol a 19. században a legenda szerint Szűz Mária megjelent egy pálmafán. A gyönyörű vízesés ma Haiti egyik legfontosabb éves zarándoklatának célpontja, ahol katolikusok és vudu-hívők együtt keresnek spirituális tisztulást.",
+      ro: "Saut-d'Eau este un loc cu o profundă semnificație spirituală, unde se spune că Fecioara Maria a apărut pe un palmier în secolul al XIX-lea. Cascada superbă este astăzi destinația unuia dintre cele mai importante pelerinaje anuale din Haiti, unde catolicii și adepții voodoo caută împreună purificarea spirituală.",
+      en: "Saut-d'Eau is a place of profound mystical power where the Virgin Mary (syncretized with Erzulie Dantor) is said to have appeared in 1847. The breathtaking waterfall hosts one of Haiti’s largest annual pilgrimages, attracting thousands who bathe in its waters for healing and luck."
+    },
+    facts: {
+      de: ["Heiliger Wasserfall", "Ort von Marienerscheinungen", "Wallfahrt im Juli", "Umgeben von Palmen"],
+      hu: ["Szent vízesés", "Mária-jelenések helyszíne", "Júliusi zarándoklat", "Pálmafák övezik"],
+      ro: ["Cascadă sacră", "Locul aparițiilor mariane", "Pelerinaj în iulie", "Înconjurat de palmieri"],
+      en: ["Sacred medicinal waterfall", "Site of famous 1847 miracle", "Major pilgrimage in mid-July", "Lush mountain surroundings"]
+    },
+    factsAdvanced: {
+      de: ["Die Gläubigen baden in den Kaskaden, um Heilung und Glück zu finden", "Das Fest findet zeitgleich mit dem Tag der Unserer Lieben Frau vom Berge Karmel statt", "Die Regierung ließ die Palme der Erscheinung fällen, doch die Heiligkeit des Ortes blieb"],
+      hu: ["A hívők a vízesésben fürdenek, hogy gyógyulást és szerencsét találjanak", "Az ünnep egybeesik a Kármelhegyi Boldogasszony napjával", "A kormány kivágatta a jelenés pálmafáját, de a hely szentsége megmaradt"],
+      ro: ["Credincioșii se scaldă în cascade pentru a găsi vindecare și noroc", "Sărbătoarea are loc simultan cu ziua Maicii Domnului de pe Muntele Carmel", "Guvernul a tăiat palmierul apariției, dar sfințenia locului a rămas"],
+      en: ["Pilgrims throw their old clothes into the water as a symbol of leaving their past behind", "The waterfall is part of a complex of cascades known as Le Sault", "It serves as a unique example of the peaceful coexistence of Catholic and Vodou traditions"]
+    }
   },
   {
     id: "ht-cathedralpap",
@@ -646,7 +913,31 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.33, 18.55],
     name: { de: "Ruinen der Kathedrale von Port-au-Prince", hu: "Port-au-Prince-i székesegyház romjai", ro: "Ruinele Catedralei din Port-au-Prince", en: "Port-au-Prince Cathedral Ruins" },
-    description: { de: "Beeindruckende Ruinen der einst prachtvollen Kathedrale.", hu: "Az egykor grandiózus székesegyház lenyűgöző romjai.", ro: "Ruinele frapante ale catedralei odinioară grandioase.", en: "Striking ruins of the once grand cathedral." }
+    description: {
+      de: "Beeindruckende Ruinen der einst prachtvollen Kathedrale.",
+      hu: "Az egykor grandiózus székesegyház lenyűgöző romjai.",
+      ro: "Ruinele frapante ale catedralei odinioară grandioase.",
+      en: "Striking ruins of the once grand cathedral."
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale Notre-Dame de l'Assomption war das architektonische Kronjuwel von Port-au-Prince, bis sie beim Erdbeben von 2010 fast völlig zerstört wurde. Die verbliebenen Mauern und Türme stehen heute als mahnendes Denkmal für die Katastrophe und den unerschütterlichen Geist der haitianischen Bevölkerung.",
+      hu: "A Notre-Dame de l'Assomption székesegyház Port-au-Prince építészeti ékköve volt, amíg a 2010-es földrengés szinte teljesen el nem pusztította. A megmaradt falak és tornyok ma a katasztrófa mementójaként és a haiti nép rendíthetetlen erejének jelképeként állnak.",
+      ro: "Catedrala Notre-Dame de l'Assomption a fost bijuteria arhitecturală a orașului Port-au-Prince până când a fost aproape complet distrusă de cutremurul din 2010. Zidurile și turnurile rămase stau astăzi ca un monument de avertizare al dezastrului și al spiritului de neclintit al populației haitiene.",
+      en: "The Cathédrale Notre-Dame de Port-au-Prince was the city's architectural crown jewel until the 2010 earthquake left it in ruins. The skeletal remaining walls serve as a poignant memorial to the disaster and a symbol of the nation's resilience and enduring faith."
+    },
+    facts: {
+      de: ["Zerstört im Jahr 2010", "Einstiges Wahrzeichen", "Rosa und weiße Fassade", "Ort des Gedenkens"],
+      hu: ["2010-ben pusztult el", "Egykori jelkép", "Rózsaszín és fehér homlokzat", "Az emlékezés helye"],
+      ro: ["Distrusă în 2010", "Fost punct de reper", "Fațadă roz și albă", "Loc de comemorare"],
+      en: ["Destroyed by 2010 earthquake", "Former symbol of the city", "Famed pink and white facade", "Site of national remembrance"]
+    },
+    factsAdvanced: {
+      de: ["Die Kathedrale wurde zwischen 1884 und 1914 erbaut", "Die Architektur war eine Mischung aus romanischen und gotischen Elementen", "Es gibt Pläne für einen modernen Neubau, der die Ruinen integriert"],
+      hu: ["A székesegyházat 1884 és 1914 között építették", "Az építészet a román és a gótikus elemek keveréke volt", "Tervezik egy modern új épület felhúzását, amely magában foglalná a romokat"],
+      ro: ["Catedrala a fost construită între 1884 și 1914", "Arhitectura a fost un amestec de elemente romanice și gotice", "Există planuri pentru o construcție nouă modernă care să integreze ruinele"],
+      en: ["The cathedral was consecrated in 1914 after 30 years of construction", "Before the quake, it was renowned for its beautiful stained glass and intricate woodwork", "The ruins remain a pilgrimage site for residents during major religious holidays"]
+    },
+    historyYear: 1884
   },
   {
     id: "ht-champdemars",
@@ -654,7 +945,30 @@ export const haitiLandmarks: POI[] = [
     parent: "HT",
     coords: [-72.33, 18.54],
     name: { de: "Champ de Mars", hu: "Champ de Mars", ro: "Champ de Mars", en: "Champ de Mars" },
-    description: { de: "Großer öffentlicher Platz im Herzen von Port-au-Prince.", hu: "Nagy közterület Port-au-Prince szívében.", ro: "O piață publică mare în inima orașului Port-au-Prince.", en: "Large public square in the heart of Port-au-Prince." }
+    description: {
+      de: "Großer öffentlicher Platz im Herzen von Port-au-Prince.",
+      hu: "Nagy közterület Port-au-Prince szívében.",
+      ro: "O piață publică mare în inima orașului Port-au-Prince.",
+      en: "Large public square in the heart of Port-au-Prince."
+    },
+    descriptionAdvanced: {
+      de: "Der Champ de Mars ist der wichtigste öffentliche Raum in Port-au-Prince, umgeben von bedeutenden Regierungsgebäuden und Museen. Er beherbergt monumentale Statuen der Gründerväter Haitis und ist ein beliebter Treffpunkt für Paraden, Konzerte und das tägliche soziale Leben.",
+      hu: "A Champ de Mars Port-au-Prince legfontosabb köztere, amelyet jelentős kormányzati épületek és múzeumok vesznek körül. Itt találhatók Haiti alapító atyáinak monumentális szobrai, és népszerű helyszíne parádéknak, koncerteknek és a napi társasági életnek.",
+      ro: "Champ de Mars este cel mai important spațiu public din Port-au-Prince, înconjurat de clădiri guvernamentale și muzee importante. Găzduiește statui monumentale ale părinților fondatori ai Haitiului și este un loc de întâlnire popular pentru parade, concerte și viața socială de zi cu zi.",
+      en: "The Champ de Mars is the primary public plaza of Port-au-Prince, serving as the city's ceremonial and social heart. Surrounded by major institutions like the National Palace and MUPANAH, it features towering monuments to Haiti's revolutionary heroes."
+    },
+    facts: {
+      de: ["Zentraler Platz", "Statuen der Helden", "Ort für Feierlichkeiten", "Nahe dem Nationalpalast"],
+      hu: ["Központi tér", "A hősök szobrai", "Ünnepségek helyszíne", "A Nemzeti Palota közelében"],
+      ro: ["Piața centrală", "Statuile eroilor", "Loc pentru festivități", "Lângă Palatul Național"],
+      en: ["The city's central plaza", "Monuments to founding heroes", "Site of parades and carnival", "Adjacent to the National Palace"]
+    },
+    factsAdvanced: {
+      de: ["Hier steht die berühmte Statue 'Le Marron Inconnu' (Der unbekannte Sklave)", "Der Platz diente nach dem Erdbeben von 2010 als riesiges Zeltlager für Obdachlose", "Er ist das Epizentrum des jährlichen Nationalen Karnevals"],
+      hu: ["Itt áll a híres 'Le Marron Inconnu' (Az ismeretlen rabszolga) szobor", "A tér a 2010-es földrengés után hatalmas sátortáborként szolgált a hajléktalanoknak", "Ez az éves Nemzeti Karnevál epicentruma"],
+      ro: ["Aici se află faimoasa statuie 'Le Marron Inconnu' (Sclavul necunoscut)", "Piața a servit drept tabără uriașă de corturi pentru persoanele rămase fără adăpost după cutremurul din 2010", "Este epicentrul Carnavalului Național anual"],
+      en: ["The plaza is home to 'Le Marron Inconnu,' the definitive statue representing Haitian freedom", "Following the 2010 quake, it briefly became the world's most famous internally displaced persons camp", "The square's name, meaning 'Field of Mars,' reflects its history as a military parade ground"]
+    }
   }
 ];
 
