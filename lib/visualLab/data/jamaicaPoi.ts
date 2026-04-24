@@ -5,159 +5,24 @@ export const jamaicaCountry: POI[] = [];
 export const jamaicaRegions: POI[] = [];
 
 export const jamaicaCities: POI[] = [
-  {
-    id: "jamaica_1",    name: { de: "Jamaica POI 1", hu: "Jamaica POI 1", ro: "Jamaica POI 1", en: "Jamaica POI 1" },
-    description: { de: "Description for Jamaica POI 1", hu: "Description for Jamaica POI 1", ro: "Description for Jamaica POI 1", en: "Description for Jamaica POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_2",    name: { de: "Jamaica POI 2", hu: "Jamaica POI 2", ro: "Jamaica POI 2", en: "Jamaica POI 2" },
-    description: { de: "Description for Jamaica POI 2", hu: "Description for Jamaica POI 2", ro: "Description for Jamaica POI 2", en: "Description for Jamaica POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_3",    name: { de: "Jamaica POI 3", hu: "Jamaica POI 3", ro: "Jamaica POI 3", en: "Jamaica POI 3" },
-    description: { de: "Description for Jamaica POI 3", hu: "Description for Jamaica POI 3", ro: "Description for Jamaica POI 3", en: "Description for Jamaica POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_4",    name: { de: "Jamaica POI 4", hu: "Jamaica POI 4", ro: "Jamaica POI 4", en: "Jamaica POI 4" },
-    description: { de: "Description for Jamaica POI 4", hu: "Description for Jamaica POI 4", ro: "Description for Jamaica POI 4", en: "Description for Jamaica POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_5",    name: { de: "Jamaica POI 5", hu: "Jamaica POI 5", ro: "Jamaica POI 5", en: "Jamaica POI 5" },
-    description: { de: "Description for Jamaica POI 5", hu: "Description for Jamaica POI 5", ro: "Description for Jamaica POI 5", en: "Description for Jamaica POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_6",    name: { de: "Jamaica POI 6", hu: "Jamaica POI 6", ro: "Jamaica POI 6", en: "Jamaica POI 6" },
-    description: { de: "Description for Jamaica POI 6", hu: "Description for Jamaica POI 6", ro: "Description for Jamaica POI 6", en: "Description for Jamaica POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_7",    name: { de: "Jamaica POI 7", hu: "Jamaica POI 7", ro: "Jamaica POI 7", en: "Jamaica POI 7" },
-    description: { de: "Description for Jamaica POI 7", hu: "Description for Jamaica POI 7", ro: "Description for Jamaica POI 7", en: "Description for Jamaica POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_8",    name: { de: "Jamaica POI 8", hu: "Jamaica POI 8", ro: "Jamaica POI 8", en: "Jamaica POI 8" },
-    description: { de: "Description for Jamaica POI 8", hu: "Description for Jamaica POI 8", ro: "Description for Jamaica POI 8", en: "Description for Jamaica POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_9",    name: { de: "Jamaica POI 9", hu: "Jamaica POI 9", ro: "Jamaica POI 9", en: "Jamaica POI 9" },
-    description: { de: "Description for Jamaica POI 9", hu: "Description for Jamaica POI 9", ro: "Description for Jamaica POI 9", en: "Description for Jamaica POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_10",    name: { de: "Jamaica POI 10", hu: "Jamaica POI 10", ro: "Jamaica POI 10", en: "Jamaica POI 10" },
-    description: { de: "Description for Jamaica POI 10", hu: "Description for Jamaica POI 10", ro: "Description for Jamaica POI 10", en: "Description for Jamaica POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_11",    name: { de: "Jamaica POI 11", hu: "Jamaica POI 11", ro: "Jamaica POI 11", en: "Jamaica POI 11" },
-    description: { de: "Description for Jamaica POI 11", hu: "Description for Jamaica POI 11", ro: "Description for Jamaica POI 11", en: "Description for Jamaica POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_12",    name: { de: "Jamaica POI 12", hu: "Jamaica POI 12", ro: "Jamaica POI 12", en: "Jamaica POI 12" },
-    description: { de: "Description for Jamaica POI 12", hu: "Description for Jamaica POI 12", ro: "Description for Jamaica POI 12", en: "Description for Jamaica POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_13",    name: { de: "Jamaica POI 13", hu: "Jamaica POI 13", ro: "Jamaica POI 13", en: "Jamaica POI 13" },
-    description: { de: "Description for Jamaica POI 13", hu: "Description for Jamaica POI 13", ro: "Description for Jamaica POI 13", en: "Description for Jamaica POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_14",    name: { de: "Jamaica POI 14", hu: "Jamaica POI 14", ro: "Jamaica POI 14", en: "Jamaica POI 14" },
-    description: { de: "Description for Jamaica POI 14", hu: "Description for Jamaica POI 14", ro: "Description for Jamaica POI 14", en: "Description for Jamaica POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_15",    name: { de: "Jamaica POI 15", hu: "Jamaica POI 15", ro: "Jamaica POI 15", en: "Jamaica POI 15" },
-    description: { de: "Description for Jamaica POI 15", hu: "Description for Jamaica POI 15", ro: "Description for Jamaica POI 15", en: "Description for Jamaica POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_16",    name: { de: "Jamaica POI 16", hu: "Jamaica POI 16", ro: "Jamaica POI 16", en: "Jamaica POI 16" },
-    description: { de: "Description for Jamaica POI 16", hu: "Description for Jamaica POI 16", ro: "Description for Jamaica POI 16", en: "Description for Jamaica POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_17",    name: { de: "Jamaica POI 17", hu: "Jamaica POI 17", ro: "Jamaica POI 17", en: "Jamaica POI 17" },
-    description: { de: "Description for Jamaica POI 17", hu: "Description for Jamaica POI 17", ro: "Description for Jamaica POI 17", en: "Description for Jamaica POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_18",    name: { de: "Jamaica POI 18", hu: "Jamaica POI 18", ro: "Jamaica POI 18", en: "Jamaica POI 18" },
-    description: { de: "Description for Jamaica POI 18", hu: "Description for Jamaica POI 18", ro: "Description for Jamaica POI 18", en: "Description for Jamaica POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_19",    name: { de: "Jamaica POI 19", hu: "Jamaica POI 19", ro: "Jamaica POI 19", en: "Jamaica POI 19" },
-    description: { de: "Description for Jamaica POI 19", hu: "Description for Jamaica POI 19", ro: "Description for Jamaica POI 19", en: "Description for Jamaica POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_20",    name: { de: "Jamaica POI 20", hu: "Jamaica POI 20", ro: "Jamaica POI 20", en: "Jamaica POI 20" },
-    description: { de: "Description for Jamaica POI 20", hu: "Description for Jamaica POI 20", ro: "Description for Jamaica POI 20", en: "Description for Jamaica POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
+  { id: "jm-kingston", type: "state-capital", parent: "JM", coords: [-76.8000, 18.0128], name: { de: "Kingston", hu: "Kingston", ro: "Kingston", en: "Kingston" }, description: { de: "Die Hauptstadt und größte Stadt von Jamaika.", hu: "Jamaica fővárosa és legnagyobb városa.", ro: "Capitala și cel mai mare oraș din Jamaica.", en: "The capital and largest city of Jamaica." } },
+  { id: "jm-montego", type: "city", parent: "JM", coords: [-77.9167, 18.4714], name: { de: "Montego Bay", hu: "Montego Bay", ro: "Montego Bay", en: "Montego Bay" }, description: { de: "Ein wichtiges Zentrum für Kreuzfahrtschiffe mit beliebten Stränden.", hu: "Fontos tengerjáró kikötő népszerű strandokkal.", ro: "Un centru important pentru navele de croazieră, cu plaje populare.", en: "A major cruise ship pier and popular beach destination." } },
+  { id: "jm-ochorios", type: "city", parent: "JM", coords: [-77.1045, 18.4068], name: { de: "Ocho Rios", hu: "Ocho Rios", ro: "Ocho Rios", en: "Ocho Rios" }, description: { de: "Eine Stadt an der Nordküste, bekannt für Regenwälder und Wasserfälle.", hu: "Északi parti város, esőerdőiről és vízeséseiről ismert.", ro: "Un oraș pe coasta de nord, cunoscut pentru pădurile tropicale și cascade.", en: "A town on the northern coast known for rainforests and waterfalls." } },
+  { id: "jm-negril", type: "city", parent: "JM", coords: [-78.3333, 18.2667], name: { de: "Negril", hu: "Negril", ro: "Negril", en: "Negril" }, description: { de: "Ein Ferienort, der für seine weißen Sandstrände bekannt ist.", hu: "Nyaralóhely, amely a fehér homokos strandjairól híres.", ro: "O stațiune cunoscută pentru plajele sale cu nisip alb.", en: "A resort town known for its white sandy beaches." } },
+  { id: "jm-portantonio", type: "city", parent: "JM", coords: [-76.4509, 18.1770], name: { de: "Port Antonio", hu: "Port Antonio", ro: "Port Antonio", en: "Port Antonio" }, description: { de: "Küstenstadt bekannt als das Tor zu den umliegenden Dschungeln.", hu: "Tengerparti város, a környező dzsungelek kapuja.", ro: "Oraș de coastă cunoscut ca poartă către junglele înconjurătoare.", en: "Coastal town known as the gateway to nearby jungles." } }
 ];
 
 export const jamaicaLandmarks: POI[] = [
-  {
-    id: "jamaica_21",    name: { de: "Jamaica POI 21", hu: "Jamaica POI 21", ro: "Jamaica POI 21", en: "Jamaica POI 21" },
-    description: { de: "Description for Jamaica POI 21", hu: "Description for Jamaica POI 21", ro: "Description for Jamaica POI 21", en: "Description for Jamaica POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_22",    name: { de: "Jamaica POI 22", hu: "Jamaica POI 22", ro: "Jamaica POI 22", en: "Jamaica POI 22" },
-    description: { de: "Description for Jamaica POI 22", hu: "Description for Jamaica POI 22", ro: "Description for Jamaica POI 22", en: "Description for Jamaica POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_23",    name: { de: "Jamaica POI 23", hu: "Jamaica POI 23", ro: "Jamaica POI 23", en: "Jamaica POI 23" },
-    description: { de: "Description for Jamaica POI 23", hu: "Description for Jamaica POI 23", ro: "Description for Jamaica POI 23", en: "Description for Jamaica POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_24",    name: { de: "Jamaica POI 24", hu: "Jamaica POI 24", ro: "Jamaica POI 24", en: "Jamaica POI 24" },
-    description: { de: "Description for Jamaica POI 24", hu: "Description for Jamaica POI 24", ro: "Description for Jamaica POI 24", en: "Description for Jamaica POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_25",    name: { de: "Jamaica POI 25", hu: "Jamaica POI 25", ro: "Jamaica POI 25", en: "Jamaica POI 25" },
-    description: { de: "Description for Jamaica POI 25", hu: "Description for Jamaica POI 25", ro: "Description for Jamaica POI 25", en: "Description for Jamaica POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_26",    name: { de: "Jamaica POI 26", hu: "Jamaica POI 26", ro: "Jamaica POI 26", en: "Jamaica POI 26" },
-    description: { de: "Description for Jamaica POI 26", hu: "Description for Jamaica POI 26", ro: "Description for Jamaica POI 26", en: "Description for Jamaica POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_27",    name: { de: "Jamaica POI 27", hu: "Jamaica POI 27", ro: "Jamaica POI 27", en: "Jamaica POI 27" },
-    description: { de: "Description for Jamaica POI 27", hu: "Description for Jamaica POI 27", ro: "Description for Jamaica POI 27", en: "Description for Jamaica POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_28",    name: { de: "Jamaica POI 28", hu: "Jamaica POI 28", ro: "Jamaica POI 28", en: "Jamaica POI 28" },
-    description: { de: "Description for Jamaica POI 28", hu: "Description for Jamaica POI 28", ro: "Description for Jamaica POI 28", en: "Description for Jamaica POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_29",    name: { de: "Jamaica POI 29", hu: "Jamaica POI 29", ro: "Jamaica POI 29", en: "Jamaica POI 29" },
-    description: { de: "Description for Jamaica POI 29", hu: "Description for Jamaica POI 29", ro: "Description for Jamaica POI 29", en: "Description for Jamaica POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
-  {
-    id: "jamaica_30",    name: { de: "Jamaica POI 30", hu: "Jamaica POI 30", ro: "Jamaica POI 30", en: "Jamaica POI 30" },
-    description: { de: "Description for Jamaica POI 30", hu: "Description for Jamaica POI 30", ro: "Description for Jamaica POI 30", en: "Description for Jamaica POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'JM'
-  },
+  { id: "jm-bobmarley", type: "landmark", parent: "JM", coords: [-76.7786, 18.0200], name: { de: "Bob Marley Museum", hu: "Bob Marley Múzeum", ro: "Muzeul Bob Marley", en: "Bob Marley Museum" }, description: { de: "Das ehemalige Zuhause des legendären Reggae-Musikers Bob Marley.", hu: "A legendás reggae zenész, Bob Marley egykori otthona.", ro: "Fosta casă a legendarului muzician reggae Bob Marley.", en: "The former home of the legendary reggae musician Bob Marley." } },
+  { id: "jm-dunns", type: "landmark", parent: "JM", coords: [-77.1415, 18.4150], name: { de: "Dunn's River Falls", hu: "Dunn's River vízesés", ro: "Cascadele Dunn's River", en: "Dunn's River Falls" }, description: { de: "Berühmte Wasserfälle in Ocho Rios, die ins Karibische Meer fließen.", hu: "Híres vízesés Ocho Riosban, amely a Karib-tengerbe ömlik.", ro: "Cascade celebre în Ocho Rios, care se varsă în Marea Caraibelor.", en: "Famous waterfalls in Ocho Rios that empty into the Caribbean Sea." } },
+  { id: "jm-bluemountains", type: "mountain", parent: "JM", coords: [-76.5667, 18.1000], name: { de: "Blue Mountains", hu: "Blue Mountains (Kék-hegység)", ro: "Munții Albaștri", en: "Blue Mountains" }, description: { de: "Jamaikas längste Bergkette, bekannt für den Blue Mountain Kaffee.", hu: "Jamaica leghosszabb hegysége, mely a Blue Mountain kávéról ismert.", ro: "Cel mai lung lanț muntos din Jamaica, cunoscut pentru cafeaua Blue Mountain.", en: "Jamaica's longest mountain range, known for Blue Mountain coffee." } },
+  { id: "jm-sevenmile", type: "landmark", parent: "JM", coords: [-78.3381, 18.3039], name: { de: "Seven Mile Beach", hu: "Seven Mile Beach", ro: "Plaja Seven Mile", en: "Seven Mile Beach" }, description: { de: "Ein langer, wunderschöner weißer Sandstrand in Negril.", hu: "Hosszú, gyönyörű fehér homokos strand Negrilben.", ro: "O plajă lungă și superbă cu nisip alb în Negril.", en: "A long, beautiful white sand beach located in Negril." } },
+  { id: "jm-rosehall", type: "historical", parent: "JM", coords: [-77.8202, 18.5204], name: { de: "Rose Hall Great House", hu: "Rose Hall kúria", ro: "Conacul Rose Hall", en: "Rose Hall Great House" }, description: { de: "Ein historisches Plantagenhaus im georgianischen Stil, von dem es heißt, es spuke dort.", hu: "Egy történelmi György-korabeli ültetvényes ház, mely a legendák szerint kísértetjárta.", ro: "Un conac istoric în stil georgian, despre care se spune că ar fi bântuit.", en: "A historic Georgian mansion that is allegedly haunted." } },
+  { id: "jm-doctorscave", type: "landmark", parent: "JM", coords: [-77.9287, 18.4851], name: { de: "Doctor's Cave Beach", hu: "Doctor's Cave Beach", ro: "Plaja Doctor's Cave", en: "Doctor's Cave Beach" }, description: { de: "Einer der bekanntesten Strände in Montego Bay mit klarem Wasser.", hu: "Montego Bay egyik legismertebb strandja, kristálytiszta vízzel.", ro: "Una dintre cele mai faimoase plaje din Montego Bay, cu ape limpezi.", en: "One of the most famous beaches in Montego Bay, known for its clear waters." } },
+  { id: "jm-marthabrae", type: "river", parent: "JM", coords: [-77.6433, 18.4419], name: { de: "Martha Brae River", hu: "Martha Brae folyó", ro: "Râul Martha Brae", en: "Martha Brae River" }, description: { de: "Ein ruhiger Fluss, der beliebt für Floßfahrten auf Bambusflößen ist.", hu: "Csendes folyó, amely népszerű a bambusz tutajozásról.", ro: "Un râu liniștit, popular pentru plimbările cu pluta de bambus.", en: "A tranquil river popular for bamboo rafting trips." } },
+  { id: "jm-devonhouse", type: "historical", parent: "JM", coords: [-76.7869, 18.0163], name: { de: "Devon House", hu: "Devon House", ro: "Casa Devon", en: "Devon House" }, description: { de: "Ein bedeutendes nationales Kulturerbe in Kingston.", hu: "Kiemelkedő nemzeti örökség és kúria Kingstonban.", ro: "Un important monument național de patrimoniu în Kingston.", en: "A prominent national heritage site and mansion in Kingston." } },
+  { id: "jm-rickscafe", type: "landmark", parent: "JM", coords: [-78.3615, 18.2575], name: { de: "Rick's Cafe", hu: "Rick's Cafe", ro: "Rick's Cafe", en: "Rick's Cafe" }, description: { de: "Ein beliebter Ort in Negril zum Klippenspringen und für Sonnenuntergänge.", hu: "Népszerű hely Negrilben a sziklaugráshoz és a naplementéhez.", ro: "Un loc popular în Negril pentru sărituri de pe stânci și pentru a admira apusul.", en: "A popular spot in Negril for cliff jumping and watching sunsets." } },
+  { id: "jm-reachfalls", type: "landmark", parent: "JM", coords: [-76.3116, 18.0261], name: { de: "Reach Falls", hu: "Reach Falls", ro: "Cascadele Reach", en: "Reach Falls" }, description: { de: "Ein wunderschöner Naturwasserfall inmitten des Regenwaldes.", hu: "Egy gyönyörű természetes vízesés az esőerdő közepén.", ro: "O cascadă naturală superbă în mijlocul pădurii tropicale.", en: "A beautiful natural waterfall surrounded by lush rainforest." } }
 ];
 
 export const jamaicaAllPoi: POI[] = [...jamaicaCountry, ...jamaicaRegions, ...jamaicaCities, ...jamaicaLandmarks];

@@ -5,159 +5,24 @@ export const elsalvadorCountry: POI[] = [];
 export const elsalvadorRegions: POI[] = [];
 
 export const elsalvadorCities: POI[] = [
-  {
-    id: "elsalvador_1",    name: { de: "Elsalvador POI 1", hu: "Elsalvador POI 1", ro: "Elsalvador POI 1", en: "Elsalvador POI 1" },
-    description: { de: "Description for Elsalvador POI 1", hu: "Description for Elsalvador POI 1", ro: "Description for Elsalvador POI 1", en: "Description for Elsalvador POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_2",    name: { de: "Elsalvador POI 2", hu: "Elsalvador POI 2", ro: "Elsalvador POI 2", en: "Elsalvador POI 2" },
-    description: { de: "Description for Elsalvador POI 2", hu: "Description for Elsalvador POI 2", ro: "Description for Elsalvador POI 2", en: "Description for Elsalvador POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_3",    name: { de: "Elsalvador POI 3", hu: "Elsalvador POI 3", ro: "Elsalvador POI 3", en: "Elsalvador POI 3" },
-    description: { de: "Description for Elsalvador POI 3", hu: "Description for Elsalvador POI 3", ro: "Description for Elsalvador POI 3", en: "Description for Elsalvador POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_4",    name: { de: "Elsalvador POI 4", hu: "Elsalvador POI 4", ro: "Elsalvador POI 4", en: "Elsalvador POI 4" },
-    description: { de: "Description for Elsalvador POI 4", hu: "Description for Elsalvador POI 4", ro: "Description for Elsalvador POI 4", en: "Description for Elsalvador POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_5",    name: { de: "Elsalvador POI 5", hu: "Elsalvador POI 5", ro: "Elsalvador POI 5", en: "Elsalvador POI 5" },
-    description: { de: "Description for Elsalvador POI 5", hu: "Description for Elsalvador POI 5", ro: "Description for Elsalvador POI 5", en: "Description for Elsalvador POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_6",    name: { de: "Elsalvador POI 6", hu: "Elsalvador POI 6", ro: "Elsalvador POI 6", en: "Elsalvador POI 6" },
-    description: { de: "Description for Elsalvador POI 6", hu: "Description for Elsalvador POI 6", ro: "Description for Elsalvador POI 6", en: "Description for Elsalvador POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_7",    name: { de: "Elsalvador POI 7", hu: "Elsalvador POI 7", ro: "Elsalvador POI 7", en: "Elsalvador POI 7" },
-    description: { de: "Description for Elsalvador POI 7", hu: "Description for Elsalvador POI 7", ro: "Description for Elsalvador POI 7", en: "Description for Elsalvador POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_8",    name: { de: "Elsalvador POI 8", hu: "Elsalvador POI 8", ro: "Elsalvador POI 8", en: "Elsalvador POI 8" },
-    description: { de: "Description for Elsalvador POI 8", hu: "Description for Elsalvador POI 8", ro: "Description for Elsalvador POI 8", en: "Description for Elsalvador POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_9",    name: { de: "Elsalvador POI 9", hu: "Elsalvador POI 9", ro: "Elsalvador POI 9", en: "Elsalvador POI 9" },
-    description: { de: "Description for Elsalvador POI 9", hu: "Description for Elsalvador POI 9", ro: "Description for Elsalvador POI 9", en: "Description for Elsalvador POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_10",    name: { de: "Elsalvador POI 10", hu: "Elsalvador POI 10", ro: "Elsalvador POI 10", en: "Elsalvador POI 10" },
-    description: { de: "Description for Elsalvador POI 10", hu: "Description for Elsalvador POI 10", ro: "Description for Elsalvador POI 10", en: "Description for Elsalvador POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_11",    name: { de: "Elsalvador POI 11", hu: "Elsalvador POI 11", ro: "Elsalvador POI 11", en: "Elsalvador POI 11" },
-    description: { de: "Description for Elsalvador POI 11", hu: "Description for Elsalvador POI 11", ro: "Description for Elsalvador POI 11", en: "Description for Elsalvador POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_12",    name: { de: "Elsalvador POI 12", hu: "Elsalvador POI 12", ro: "Elsalvador POI 12", en: "Elsalvador POI 12" },
-    description: { de: "Description for Elsalvador POI 12", hu: "Description for Elsalvador POI 12", ro: "Description for Elsalvador POI 12", en: "Description for Elsalvador POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_13",    name: { de: "Elsalvador POI 13", hu: "Elsalvador POI 13", ro: "Elsalvador POI 13", en: "Elsalvador POI 13" },
-    description: { de: "Description for Elsalvador POI 13", hu: "Description for Elsalvador POI 13", ro: "Description for Elsalvador POI 13", en: "Description for Elsalvador POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_14",    name: { de: "Elsalvador POI 14", hu: "Elsalvador POI 14", ro: "Elsalvador POI 14", en: "Elsalvador POI 14" },
-    description: { de: "Description for Elsalvador POI 14", hu: "Description for Elsalvador POI 14", ro: "Description for Elsalvador POI 14", en: "Description for Elsalvador POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_15",    name: { de: "Elsalvador POI 15", hu: "Elsalvador POI 15", ro: "Elsalvador POI 15", en: "Elsalvador POI 15" },
-    description: { de: "Description for Elsalvador POI 15", hu: "Description for Elsalvador POI 15", ro: "Description for Elsalvador POI 15", en: "Description for Elsalvador POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_16",    name: { de: "Elsalvador POI 16", hu: "Elsalvador POI 16", ro: "Elsalvador POI 16", en: "Elsalvador POI 16" },
-    description: { de: "Description for Elsalvador POI 16", hu: "Description for Elsalvador POI 16", ro: "Description for Elsalvador POI 16", en: "Description for Elsalvador POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_17",    name: { de: "Elsalvador POI 17", hu: "Elsalvador POI 17", ro: "Elsalvador POI 17", en: "Elsalvador POI 17" },
-    description: { de: "Description for Elsalvador POI 17", hu: "Description for Elsalvador POI 17", ro: "Description for Elsalvador POI 17", en: "Description for Elsalvador POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_18",    name: { de: "Elsalvador POI 18", hu: "Elsalvador POI 18", ro: "Elsalvador POI 18", en: "Elsalvador POI 18" },
-    description: { de: "Description for Elsalvador POI 18", hu: "Description for Elsalvador POI 18", ro: "Description for Elsalvador POI 18", en: "Description for Elsalvador POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_19",    name: { de: "Elsalvador POI 19", hu: "Elsalvador POI 19", ro: "Elsalvador POI 19", en: "Elsalvador POI 19" },
-    description: { de: "Description for Elsalvador POI 19", hu: "Description for Elsalvador POI 19", ro: "Description for Elsalvador POI 19", en: "Description for Elsalvador POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_20",    name: { de: "Elsalvador POI 20", hu: "Elsalvador POI 20", ro: "Elsalvador POI 20", en: "Elsalvador POI 20" },
-    description: { de: "Description for Elsalvador POI 20", hu: "Description for Elsalvador POI 20", ro: "Description for Elsalvador POI 20", en: "Description for Elsalvador POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
+  { id: "sv-sansalvador", type: "state-capital", parent: "SV", coords: [-89.1872, 13.6929], name: { de: "San Salvador", hu: "San Salvador", ro: "San Salvador", en: "San Salvador" }, description: { de: "Die bevölkerungsreiche Hauptstadt und das politische Zentrum.", hu: "A népes főváros és politikai központ.", ro: "Capitala foarte populată și centrul politic.", en: "The populous capital city and political center." } },
+  { id: "sv-santaana", type: "city", parent: "SV", coords: [-89.5597, 13.9942], name: { de: "Santa Ana", hu: "Santa Ana", ro: "Santa Ana", en: "Santa Ana" }, description: { de: "Zweitgrößte Stadt, bekannt für ihre gotische Kathedrale.", hu: "Második legnagyobb város, a gótikus katedrálisáról ismert.", ro: "Al doilea oraș ca mărime, cunoscut pentru catedrala sa gotică.", en: "Second largest city, known for its gothic cathedral." } },
+  { id: "sv-sanmiguel", type: "city", parent: "SV", coords: [-88.1833, 13.4833], name: { de: "San Miguel", hu: "San Miguel", ro: "San Miguel", en: "San Miguel" }, description: { de: "Wichtige Stadt im Osten, berühmt für ihren Novemberkarneval.", hu: "Fontos város keleten, a novemberi karneváljáról híres.", ro: "Oraș important în est, faimos pentru carnavalul său din noiembrie.", en: "Important city in the east, famous for its November carnival." } },
+  { id: "sv-santatecla", type: "city", parent: "SV", coords: [-89.2833, 13.6667], name: { de: "Santa Tecla", hu: "Santa Tecla", ro: "Santa Tecla", en: "Santa Tecla" }, description: { de: "Lebhafte Stadt in der Nähe von San Salvador, bekannt für das Paseo El Carmen.", hu: "Nyüzsgő város San Salvador közelében, a Paseo El Carmen negyedről ismert.", ro: "Oraș plin de viață lângă San Salvador, cunoscut pentru Paseo El Carmen.", en: "Lively city near San Salvador, known for the Paseo El Carmen district." } },
+  { id: "sv-lalibertad", type: "city", parent: "SV", coords: [-89.3228, 13.4883], name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad" }, description: { de: "Küstenstadt, die für ihren Fischmarkt und das Surfen berühmt ist.", hu: "Tengerparti város, amely halpiacáról és a szörfözésről híres.", ro: "Oraș de coastă renumit pentru piața sa de pește și pentru surf.", en: "Coastal town famous for its fish market and surfing." } }
 ];
 
 export const elsalvadorLandmarks: POI[] = [
-  {
-    id: "elsalvador_21",    name: { de: "Elsalvador POI 21", hu: "Elsalvador POI 21", ro: "Elsalvador POI 21", en: "Elsalvador POI 21" },
-    description: { de: "Description for Elsalvador POI 21", hu: "Description for Elsalvador POI 21", ro: "Description for Elsalvador POI 21", en: "Description for Elsalvador POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_22",    name: { de: "Elsalvador POI 22", hu: "Elsalvador POI 22", ro: "Elsalvador POI 22", en: "Elsalvador POI 22" },
-    description: { de: "Description for Elsalvador POI 22", hu: "Description for Elsalvador POI 22", ro: "Description for Elsalvador POI 22", en: "Description for Elsalvador POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_23",    name: { de: "Elsalvador POI 23", hu: "Elsalvador POI 23", ro: "Elsalvador POI 23", en: "Elsalvador POI 23" },
-    description: { de: "Description for Elsalvador POI 23", hu: "Description for Elsalvador POI 23", ro: "Description for Elsalvador POI 23", en: "Description for Elsalvador POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_24",    name: { de: "Elsalvador POI 24", hu: "Elsalvador POI 24", ro: "Elsalvador POI 24", en: "Elsalvador POI 24" },
-    description: { de: "Description for Elsalvador POI 24", hu: "Description for Elsalvador POI 24", ro: "Description for Elsalvador POI 24", en: "Description for Elsalvador POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_25",    name: { de: "Elsalvador POI 25", hu: "Elsalvador POI 25", ro: "Elsalvador POI 25", en: "Elsalvador POI 25" },
-    description: { de: "Description for Elsalvador POI 25", hu: "Description for Elsalvador POI 25", ro: "Description for Elsalvador POI 25", en: "Description for Elsalvador POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_26",    name: { de: "Elsalvador POI 26", hu: "Elsalvador POI 26", ro: "Elsalvador POI 26", en: "Elsalvador POI 26" },
-    description: { de: "Description for Elsalvador POI 26", hu: "Description for Elsalvador POI 26", ro: "Description for Elsalvador POI 26", en: "Description for Elsalvador POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_27",    name: { de: "Elsalvador POI 27", hu: "Elsalvador POI 27", ro: "Elsalvador POI 27", en: "Elsalvador POI 27" },
-    description: { de: "Description for Elsalvador POI 27", hu: "Description for Elsalvador POI 27", ro: "Description for Elsalvador POI 27", en: "Description for Elsalvador POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_28",    name: { de: "Elsalvador POI 28", hu: "Elsalvador POI 28", ro: "Elsalvador POI 28", en: "Elsalvador POI 28" },
-    description: { de: "Description for Elsalvador POI 28", hu: "Description for Elsalvador POI 28", ro: "Description for Elsalvador POI 28", en: "Description for Elsalvador POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_29",    name: { de: "Elsalvador POI 29", hu: "Elsalvador POI 29", ro: "Elsalvador POI 29", en: "Elsalvador POI 29" },
-    description: { de: "Description for Elsalvador POI 29", hu: "Description for Elsalvador POI 29", ro: "Description for Elsalvador POI 29", en: "Description for Elsalvador POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
-  {
-    id: "elsalvador_30",    name: { de: "Elsalvador POI 30", hu: "Elsalvador POI 30", ro: "Elsalvador POI 30", en: "Elsalvador POI 30" },
-    description: { de: "Description for Elsalvador POI 30", hu: "Description for Elsalvador POI 30", ro: "Description for Elsalvador POI 30", en: "Description for Elsalvador POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'SV'
-  },
+  { id: "sv-joyadeceren", type: "historical", parent: "SV", coords: [-89.3567, 13.8275], name: { de: "Joya de Cerén", hu: "Joya de Cerén", ro: "Joya de Cerén", en: "Joya de Cerén" }, description: { de: "Das 'Pompeji Amerikas', ein von Vulkanasche begrabenes Maya-Dorf.", hu: "Az 'amerikai Pompeji', egy vulkáni hamu alá temetett maja falu.", ro: "'Pompeii al Americii', un sat mayaș îngropat în cenușă vulcanică.", en: "The 'Pompeii of the Americas', a Maya village buried by volcanic ash." } },
+  { id: "sv-tazumal", type: "historical", parent: "SV", coords: [-89.6739, 13.9792], name: { de: "Tazumal", hu: "Tazumal", ro: "Tazumal", en: "Tazumal" }, description: { de: "Die wichtigsten und am besten erhaltenen Maya-Ruinen in El Salvador.", hu: "A legfontosabb és legjobban megőrzött maja romok El Salvadorban.", ro: "Cele mai importante și mai bine conservate ruine mayașe din El Salvador.", en: "The most important and best-preserved Maya ruins in El Salvador." } },
+  { id: "sv-coatepeque", type: "lake", parent: "SV", coords: [-89.5500, 13.8667], name: { de: "Lago de Coatepeque", hu: "Coatepeque-tó", ro: "Lacul Coatepeque", en: "Lake Coatepeque" }, description: { de: "Ein wunderschöner Kratersee in der Nähe des Vulkans Santa Ana.", hu: "Gyönyörű krátertó a Santa Ana vulkán közelében.", ro: "Un frumos lac de crater lângă vulcanul Santa Ana.", en: "A beautiful volcanic caldera lake near the Santa Ana Volcano." } },
+  { id: "sv-santaanavolcano", type: "mountain", parent: "SV", coords: [-89.6333, 13.8500], name: { de: "Santa Ana Vulkan", hu: "Santa Ana vulkán", ro: "Vulcanul Santa Ana", en: "Santa Ana Volcano" }, description: { de: "Der höchste Vulkan des Landes, bekannt für seinen türkisfarbenen Kratersee.", hu: "Az ország legmagasabb vulkánja, a kráterben található türkizkék taváról ismert.", ro: "Cel mai înalt vulcan din țară, cu un lac turcoaz în crater.", en: "The highest volcano in the country, featuring a turquoise crater lake." } },
+  { id: "sv-izalco", type: "mountain", parent: "SV", coords: [-89.6333, 13.8167], name: { de: "Izalco Vulkan", hu: "Izalco vulkán", ro: "Vulcanul Izalco", en: "Izalco Volcano" }, description: { de: "Früher der 'Leuchtturm des Pazifiks' genannt, ein sehr steiler Vulkan.", hu: "Régen a 'Csendes-óceán világítótornyaként' ismerték, rendkívül meredek vulkán.", ro: "Numit anterior 'Farul Pacificului', un vulcan foarte abrupt.", en: "Historically called the 'Lighthouse of the Pacific', a very steep volcano." } },
+  { id: "sv-boqueron", type: "landmark", parent: "SV", coords: [-89.2789, 13.7431], name: { de: "El Boquerón Nationalpark", hu: "El Boquerón Nemzeti Park", ro: "Parcul Național El Boquerón", en: "El Boquerón National Park" }, description: { de: "Ein Park am Krater des Vulkans San Salvador mit kühlem Klima.", hu: "Park a San Salvador vulkán kráterénél, hűvös éghajlattal.", ro: "Un parc la craterul vulcanului San Salvador, cu o climă răcoroasă.", en: "A park located on the crater of the San Salvador Volcano with cool weather." } },
+  { id: "sv-rutaflores", type: "landmark", parent: "SV", coords: [-89.8333, 13.8667], name: { de: "Ruta de las Flores", hu: "Ruta de las Flores (Virágok útja)", ro: "Ruta de las Flores", en: "Ruta de las Flores" }, description: { de: "Eine malerische Route durch farbenfrohe und kaffeeproduzierende Dörfer.", hu: "Festői útvonal színes és kávétermelő falvakon keresztül.", ro: "Un traseu pitoresc prin sate colorate și producătoare de cafea.", en: "A scenic route passing through colorful, coffee-producing villages." } },
+  { id: "sv-eltunco", type: "landmark", parent: "SV", coords: [-89.3833, 13.4917], name: { de: "El Tunco Beach", hu: "El Tunco strand", ro: "Plaja El Tunco", en: "El Tunco Beach" }, description: { de: "Bekannter Strand mit markanten Felsen und hervorragenden Surfbedingungen.", hu: "Közismert strand jellegzetes sziklákkal és kiváló szörfös körülményekkel.", ro: "Plajă faimoasă cu roci distinctive și condiții excelente pentru surf.", en: "Famous beach with distinct rocks and excellent surfing conditions." } },
+  { id: "sv-cathedral", type: "historical", parent: "SV", coords: [-89.1914, 13.6983], name: { de: "San Salvador Kathedrale", hu: "San Salvador katedrális", ro: "Catedrala din San Salvador", en: "San Salvador Cathedral" }, description: { de: "Die Hauptkathedrale, Ruhestätte von Óscar Romero.", hu: "A fő katedrális, Óscar Romero nyughelye.", ro: "Catedrala principală, locul de odihnă al lui Óscar Romero.", en: "The main cathedral, resting place of Óscar Romero." } },
+  { id: "sv-divinosalvador", type: "landmark", parent: "SV", coords: [-89.2181, 13.7014], name: { de: "Monumento al Divino Salvador del Mundo", hu: "A Világ Isteni Megváltójának emlékműve", ro: "Monumentul Divinului Salvator al Lumii", en: "Monumento al Divino Salvador del Mundo" }, description: { de: "Ein Wahrzeichen und Symbol der Hauptstadt und des ganzen Landes.", hu: "A főváros és az egész ország egyik fő jelképe és nevezetessége.", ro: "Un punct de reper și un simbol al capitalei și al întregii țări.", en: "A major landmark and symbol of the capital and the country." } }
 ];
 
 export const elsalvadorAllPoi: POI[] = [...elsalvadorCountry, ...elsalvadorRegions, ...elsalvadorCities, ...elsalvadorLandmarks];

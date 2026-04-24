@@ -5,159 +5,24 @@ export const cubaCountry: POI[] = [];
 export const cubaRegions: POI[] = [];
 
 export const cubaCities: POI[] = [
-  {
-    id: "cuba_1",    name: { de: "Cuba POI 1", hu: "Cuba POI 1", ro: "Cuba POI 1", en: "Cuba POI 1" },
-    description: { de: "Description for Cuba POI 1", hu: "Description for Cuba POI 1", ro: "Description for Cuba POI 1", en: "Description for Cuba POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_2",    name: { de: "Cuba POI 2", hu: "Cuba POI 2", ro: "Cuba POI 2", en: "Cuba POI 2" },
-    description: { de: "Description for Cuba POI 2", hu: "Description for Cuba POI 2", ro: "Description for Cuba POI 2", en: "Description for Cuba POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_3",    name: { de: "Cuba POI 3", hu: "Cuba POI 3", ro: "Cuba POI 3", en: "Cuba POI 3" },
-    description: { de: "Description for Cuba POI 3", hu: "Description for Cuba POI 3", ro: "Description for Cuba POI 3", en: "Description for Cuba POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_4",    name: { de: "Cuba POI 4", hu: "Cuba POI 4", ro: "Cuba POI 4", en: "Cuba POI 4" },
-    description: { de: "Description for Cuba POI 4", hu: "Description for Cuba POI 4", ro: "Description for Cuba POI 4", en: "Description for Cuba POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_5",    name: { de: "Cuba POI 5", hu: "Cuba POI 5", ro: "Cuba POI 5", en: "Cuba POI 5" },
-    description: { de: "Description for Cuba POI 5", hu: "Description for Cuba POI 5", ro: "Description for Cuba POI 5", en: "Description for Cuba POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_6",    name: { de: "Cuba POI 6", hu: "Cuba POI 6", ro: "Cuba POI 6", en: "Cuba POI 6" },
-    description: { de: "Description for Cuba POI 6", hu: "Description for Cuba POI 6", ro: "Description for Cuba POI 6", en: "Description for Cuba POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_7",    name: { de: "Cuba POI 7", hu: "Cuba POI 7", ro: "Cuba POI 7", en: "Cuba POI 7" },
-    description: { de: "Description for Cuba POI 7", hu: "Description for Cuba POI 7", ro: "Description for Cuba POI 7", en: "Description for Cuba POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_8",    name: { de: "Cuba POI 8", hu: "Cuba POI 8", ro: "Cuba POI 8", en: "Cuba POI 8" },
-    description: { de: "Description for Cuba POI 8", hu: "Description for Cuba POI 8", ro: "Description for Cuba POI 8", en: "Description for Cuba POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_9",    name: { de: "Cuba POI 9", hu: "Cuba POI 9", ro: "Cuba POI 9", en: "Cuba POI 9" },
-    description: { de: "Description for Cuba POI 9", hu: "Description for Cuba POI 9", ro: "Description for Cuba POI 9", en: "Description for Cuba POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_10",    name: { de: "Cuba POI 10", hu: "Cuba POI 10", ro: "Cuba POI 10", en: "Cuba POI 10" },
-    description: { de: "Description for Cuba POI 10", hu: "Description for Cuba POI 10", ro: "Description for Cuba POI 10", en: "Description for Cuba POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_11",    name: { de: "Cuba POI 11", hu: "Cuba POI 11", ro: "Cuba POI 11", en: "Cuba POI 11" },
-    description: { de: "Description for Cuba POI 11", hu: "Description for Cuba POI 11", ro: "Description for Cuba POI 11", en: "Description for Cuba POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_12",    name: { de: "Cuba POI 12", hu: "Cuba POI 12", ro: "Cuba POI 12", en: "Cuba POI 12" },
-    description: { de: "Description for Cuba POI 12", hu: "Description for Cuba POI 12", ro: "Description for Cuba POI 12", en: "Description for Cuba POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_13",    name: { de: "Cuba POI 13", hu: "Cuba POI 13", ro: "Cuba POI 13", en: "Cuba POI 13" },
-    description: { de: "Description for Cuba POI 13", hu: "Description for Cuba POI 13", ro: "Description for Cuba POI 13", en: "Description for Cuba POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_14",    name: { de: "Cuba POI 14", hu: "Cuba POI 14", ro: "Cuba POI 14", en: "Cuba POI 14" },
-    description: { de: "Description for Cuba POI 14", hu: "Description for Cuba POI 14", ro: "Description for Cuba POI 14", en: "Description for Cuba POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_15",    name: { de: "Cuba POI 15", hu: "Cuba POI 15", ro: "Cuba POI 15", en: "Cuba POI 15" },
-    description: { de: "Description for Cuba POI 15", hu: "Description for Cuba POI 15", ro: "Description for Cuba POI 15", en: "Description for Cuba POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_16",    name: { de: "Cuba POI 16", hu: "Cuba POI 16", ro: "Cuba POI 16", en: "Cuba POI 16" },
-    description: { de: "Description for Cuba POI 16", hu: "Description for Cuba POI 16", ro: "Description for Cuba POI 16", en: "Description for Cuba POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_17",    name: { de: "Cuba POI 17", hu: "Cuba POI 17", ro: "Cuba POI 17", en: "Cuba POI 17" },
-    description: { de: "Description for Cuba POI 17", hu: "Description for Cuba POI 17", ro: "Description for Cuba POI 17", en: "Description for Cuba POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_18",    name: { de: "Cuba POI 18", hu: "Cuba POI 18", ro: "Cuba POI 18", en: "Cuba POI 18" },
-    description: { de: "Description for Cuba POI 18", hu: "Description for Cuba POI 18", ro: "Description for Cuba POI 18", en: "Description for Cuba POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_19",    name: { de: "Cuba POI 19", hu: "Cuba POI 19", ro: "Cuba POI 19", en: "Cuba POI 19" },
-    description: { de: "Description for Cuba POI 19", hu: "Description for Cuba POI 19", ro: "Description for Cuba POI 19", en: "Description for Cuba POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_20",    name: { de: "Cuba POI 20", hu: "Cuba POI 20", ro: "Cuba POI 20", en: "Cuba POI 20" },
-    description: { de: "Description for Cuba POI 20", hu: "Description for Cuba POI 20", ro: "Description for Cuba POI 20", en: "Description for Cuba POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
+  { id: "cu-havana", type: "state-capital", parent: "CU", coords: [-82.3666, 23.1136], name: { de: "Havanna", hu: "Havanna", ro: "Havana", en: "Havana" }, description: { de: "Die Hauptstadt Kubas, bekannt für koloniale Architektur und Oldtimer.", hu: "Kuba fővárosa, mely híres a gyarmati építészetéről és régi autóiról.", ro: "Capitala Cubei, faimoasă pentru arhitectura colonială și mașinile de epocă.", en: "The capital of Cuba, known for its colonial architecture and vintage cars." } },
+  { id: "cu-santiago", type: "city", parent: "CU", coords: [-75.8212, 20.0208], name: { de: "Santiago de Cuba", hu: "Santiago de Cuba", ro: "Santiago de Cuba", en: "Santiago de Cuba" }, description: { de: "Die zweitgrößte Stadt Kubas mit reicher afro-karibischer Kultur.", hu: "Kuba második legnagyobb városa gazdag afro-karibi kultúrával.", ro: "Al doilea oraș ca mărime din Cuba, cu o bogată cultură afro-caraibiană.", en: "The second largest city in Cuba with rich Afro-Caribbean culture." } },
+  { id: "cu-varadero", type: "city", parent: "CU", coords: [-81.2515, 23.1495], name: { de: "Varadero", hu: "Varadero", ro: "Varadero", en: "Varadero" }, description: { de: "Beliebter Badeort auf der Halbinsel Hicacos mit wunderschönen Sandstränden.", hu: "Népszerű üdülőhely a Hicacos-félszigeten, gyönyörű homokos strandokkal.", ro: "O stațiune populară pe peninsula Hicacos, cu plaje superbe.", en: "Popular resort town on the Hicacos Peninsula with beautiful sandy beaches." } },
+  { id: "cu-vinales", type: "city", parent: "CU", coords: [-83.7145, 22.6121], name: { de: "Viñales", hu: "Viñales", ro: "Viñales", en: "Viñales" }, description: { de: "Eine kleine Stadt im Westen, bekannt für ihre Tabakplantagen.", hu: "Kisváros nyugaton, amely a dohányültetvényeiről ismert.", ro: "Un mic oraș în vest, cunoscut pentru plantațiile sale de tutun.", en: "A small town in the west known for its tobacco plantations." } },
+  { id: "cu-trinidad", type: "city", parent: "CU", coords: [-79.9835, 21.8045], name: { de: "Trinidad", hu: "Trinidad", ro: "Trinidad", en: "Trinidad" }, description: { de: "Eine gut erhaltene Kolonialstadt und UNESCO-Weltkulturerbe.", hu: "Egy kiválóan megőrzött gyarmati város és UNESCO világörökség.", ro: "Un oraș colonial bine conservat și patrimoniu mondial UNESCO.", en: "A well-preserved colonial town and UNESCO World Heritage site." } }
 ];
 
 export const cubaLandmarks: POI[] = [
-  {
-    id: "cuba_21",    name: { de: "Cuba POI 21", hu: "Cuba POI 21", ro: "Cuba POI 21", en: "Cuba POI 21" },
-    description: { de: "Description for Cuba POI 21", hu: "Description for Cuba POI 21", ro: "Description for Cuba POI 21", en: "Description for Cuba POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_22",    name: { de: "Cuba POI 22", hu: "Cuba POI 22", ro: "Cuba POI 22", en: "Cuba POI 22" },
-    description: { de: "Description for Cuba POI 22", hu: "Description for Cuba POI 22", ro: "Description for Cuba POI 22", en: "Description for Cuba POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_23",    name: { de: "Cuba POI 23", hu: "Cuba POI 23", ro: "Cuba POI 23", en: "Cuba POI 23" },
-    description: { de: "Description for Cuba POI 23", hu: "Description for Cuba POI 23", ro: "Description for Cuba POI 23", en: "Description for Cuba POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_24",    name: { de: "Cuba POI 24", hu: "Cuba POI 24", ro: "Cuba POI 24", en: "Cuba POI 24" },
-    description: { de: "Description for Cuba POI 24", hu: "Description for Cuba POI 24", ro: "Description for Cuba POI 24", en: "Description for Cuba POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_25",    name: { de: "Cuba POI 25", hu: "Cuba POI 25", ro: "Cuba POI 25", en: "Cuba POI 25" },
-    description: { de: "Description for Cuba POI 25", hu: "Description for Cuba POI 25", ro: "Description for Cuba POI 25", en: "Description for Cuba POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_26",    name: { de: "Cuba POI 26", hu: "Cuba POI 26", ro: "Cuba POI 26", en: "Cuba POI 26" },
-    description: { de: "Description for Cuba POI 26", hu: "Description for Cuba POI 26", ro: "Description for Cuba POI 26", en: "Description for Cuba POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_27",    name: { de: "Cuba POI 27", hu: "Cuba POI 27", ro: "Cuba POI 27", en: "Cuba POI 27" },
-    description: { de: "Description for Cuba POI 27", hu: "Description for Cuba POI 27", ro: "Description for Cuba POI 27", en: "Description for Cuba POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_28",    name: { de: "Cuba POI 28", hu: "Cuba POI 28", ro: "Cuba POI 28", en: "Cuba POI 28" },
-    description: { de: "Description for Cuba POI 28", hu: "Description for Cuba POI 28", ro: "Description for Cuba POI 28", en: "Description for Cuba POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_29",    name: { de: "Cuba POI 29", hu: "Cuba POI 29", ro: "Cuba POI 29", en: "Cuba POI 29" },
-    description: { de: "Description for Cuba POI 29", hu: "Description for Cuba POI 29", ro: "Description for Cuba POI 29", en: "Description for Cuba POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
-  {
-    id: "cuba_30",    name: { de: "Cuba POI 30", hu: "Cuba POI 30", ro: "Cuba POI 30", en: "Cuba POI 30" },
-    description: { de: "Description for Cuba POI 30", hu: "Description for Cuba POI 30", ro: "Description for Cuba POI 30", en: "Description for Cuba POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'CU'
-  },
+  { id: "cu-morro", type: "landmark", parent: "CU", coords: [-82.3581, 23.1506], name: { de: "El Morro", hu: "El Morro erőd", ro: "Castelul El Morro", en: "Morro Castle" }, description: { de: "Historische Festung, die die Bucht von Havanna bewacht.", hu: "Történelmi erődítmény, amely a havannai öblöt őrzi.", ro: "Fortăreață istorică care păzește golful Havana.", en: "Historic fortress guarding the Bay of Havana." } },
+  { id: "cu-hemingway", type: "historical", parent: "CU", coords: [-82.2980, 23.0673], name: { de: "Hemingway-Haus", hu: "Hemingway háza", ro: "Casa lui Hemingway", en: "Hemingway House" }, description: { de: "Der ehemalige Wohnsitz des berühmten amerikanischen Schriftstellers Ernest Hemingway.", hu: "A híres amerikai író, Ernest Hemingway egykori lakóhelye.", ro: "Fosta reședință a celebrului scriitor american Ernest Hemingway.", en: "The former residence of the famous American writer Ernest Hemingway." } },
+  { id: "cu-revolucion", type: "landmark", parent: "CU", coords: [-82.3860, 23.1256], name: { de: "Plaza de la Revolución", hu: "A Forradalom tere", ro: "Piața Revoluției", en: "Plaza de la Revolución" }, description: { de: "Ein riesiger öffentlicher Platz in Havanna, bekannt für politische Kundgebungen.", hu: "Hatalmas tér Havannában, amely politikai gyűlésekről ismert.", ro: "O piață publică uriașă din Havana, cunoscută pentru mitingurile politice.", en: "A huge public square in Havana known for political rallies." } },
+  { id: "cu-turquino", type: "mountain", parent: "CU", coords: [-76.8360, 19.9892], name: { de: "Pico Turquino", hu: "Pico Turquino", ro: "Pico Turquino", en: "Pico Turquino" }, description: { de: "Der höchste Berg Kubas, in der Sierra Maestra gelegen.", hu: "Kuba legmagasabb hegye a Sierra Maestra hegységben.", ro: "Cel mai înalt munte din Cuba, situat în Sierra Maestra.", en: "The highest mountain in Cuba, located in the Sierra Maestra." } },
+  { id: "cu-cayococo", type: "island", parent: "CU", coords: [-78.4727, 22.5186], name: { de: "Cayo Coco", hu: "Cayo Coco", ro: "Cayo Coco", en: "Cayo Coco" }, description: { de: "Eine idyllische Insel, bekannt für ihre All-inclusive-Resorts.", hu: "Idilli sziget, amely all-inclusive üdülőhelyeiről ismert.", ro: "O insulă idilică, cunoscută pentru resorturile sale all-inclusive.", en: "An idyllic island known for its all-inclusive resorts." } },
+  { id: "cu-cheguevara", type: "historical", parent: "CU", coords: [-79.9796, 22.4034], name: { de: "Che Guevara Mausoleum", hu: "Che Guevara Mauzóleum", ro: "Mausoleul Che Guevara", en: "Che Guevara Mausoleum" }, description: { de: "Ruhestätte des revolutionären Führers Che Guevara in Santa Clara.", hu: "Che Guevara forradalmi vezető nyughelye Santa Clarában.", ro: "Locul de odihnă al liderului revoluționar Che Guevara din Santa Clara.", en: "Resting place of revolutionary leader Che Guevara in Santa Clara." } },
+  { id: "cu-fuerza", type: "historical", parent: "CU", coords: [-82.3497, 23.1408], name: { de: "Castillo de la Real Fuerza", hu: "Castillo de la Real Fuerza", ro: "Castelul Forței Regale", en: "Castillo de la Real Fuerza" }, description: { de: "Eine Festung aus dem 16. Jahrhundert am Hafen von Havanna.", hu: "Egy 16. századi erődítmény Havanna kikötőjében.", ro: "O fortăreață din secolul al XVI-lea în portul Havana.", en: "A 16th-century fortress located on the harbor of Havana." } },
+  { id: "cu-zapata", type: "landmark", parent: "CU", coords: [-82.1667, 22.3333], name: { de: "Ciénaga de Zapata", hu: "Ciénaga de Zapata", ro: "Mlaștina Zapata", en: "Zapata Swamp" }, description: { de: "Ein großes Feuchtgebiet auf der Halbinsel Zapata, Heimat von Krokodilen.", hu: "Egy hatalmas vizes élőhely a Zapata-félszigeten, krokodilok otthona.", ro: "O mare zonă umedă pe peninsula Zapata, habitatul crocodililor.", en: "A large wetland area on the Zapata Peninsula, home to crocodiles." } },
+  { id: "cu-playaparaiso", type: "landmark", parent: "CU", coords: [-81.5433, 21.6111], name: { de: "Playa Paraíso", hu: "Playa Paraíso", ro: "Playa Paraíso", en: "Playa Paraíso" }, description: { de: "Wunderschöner Strand auf Cayo Largo del Sur mit weißem Sand.", hu: "Gyönyörű strand a Cayo Largo del Sur szigeten, fehér homokkal.", ro: "Plajă superbă pe Cayo Largo del Sur cu nisip alb.", en: "Beautiful beach on Cayo Largo del Sur with white sand." } },
+  { id: "cu-rum", type: "landmark", parent: "CU", coords: [-82.3522, 23.1400], name: { de: "Havanna Club Rum Museum", hu: "Havanna Club Rum Múzeum", ro: "Muzeul Romului Havana Club", en: "Havana Club Rum Museum" }, description: { de: "Ein Museum in Havanna, das die Geschichte des kubanischen Rums zeigt.", hu: "Egy múzeum Havannában, amely a kubai rum történetét mutatja be.", ro: "Un muzeu din Havana care prezintă istoria romului cubanez.", en: "A museum in Havana showcasing the history of Cuban rum." } }
 ];
 
 export const cubaAllPoi: POI[] = [...cubaCountry, ...cubaRegions, ...cubaCities, ...cubaLandmarks];

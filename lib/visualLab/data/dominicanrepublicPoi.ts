@@ -5,159 +5,24 @@ export const dominicanrepublicCountry: POI[] = [];
 export const dominicanrepublicRegions: POI[] = [];
 
 export const dominicanrepublicCities: POI[] = [
-  {
-    id: "dominicanrepublic_1",    name: { de: "Dominicanrepublic POI 1", hu: "Dominicanrepublic POI 1", ro: "Dominicanrepublic POI 1", en: "Dominicanrepublic POI 1" },
-    description: { de: "Description for Dominicanrepublic POI 1", hu: "Description for Dominicanrepublic POI 1", ro: "Description for Dominicanrepublic POI 1", en: "Description for Dominicanrepublic POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_2",    name: { de: "Dominicanrepublic POI 2", hu: "Dominicanrepublic POI 2", ro: "Dominicanrepublic POI 2", en: "Dominicanrepublic POI 2" },
-    description: { de: "Description for Dominicanrepublic POI 2", hu: "Description for Dominicanrepublic POI 2", ro: "Description for Dominicanrepublic POI 2", en: "Description for Dominicanrepublic POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_3",    name: { de: "Dominicanrepublic POI 3", hu: "Dominicanrepublic POI 3", ro: "Dominicanrepublic POI 3", en: "Dominicanrepublic POI 3" },
-    description: { de: "Description for Dominicanrepublic POI 3", hu: "Description for Dominicanrepublic POI 3", ro: "Description for Dominicanrepublic POI 3", en: "Description for Dominicanrepublic POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_4",    name: { de: "Dominicanrepublic POI 4", hu: "Dominicanrepublic POI 4", ro: "Dominicanrepublic POI 4", en: "Dominicanrepublic POI 4" },
-    description: { de: "Description for Dominicanrepublic POI 4", hu: "Description for Dominicanrepublic POI 4", ro: "Description for Dominicanrepublic POI 4", en: "Description for Dominicanrepublic POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_5",    name: { de: "Dominicanrepublic POI 5", hu: "Dominicanrepublic POI 5", ro: "Dominicanrepublic POI 5", en: "Dominicanrepublic POI 5" },
-    description: { de: "Description for Dominicanrepublic POI 5", hu: "Description for Dominicanrepublic POI 5", ro: "Description for Dominicanrepublic POI 5", en: "Description for Dominicanrepublic POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_6",    name: { de: "Dominicanrepublic POI 6", hu: "Dominicanrepublic POI 6", ro: "Dominicanrepublic POI 6", en: "Dominicanrepublic POI 6" },
-    description: { de: "Description for Dominicanrepublic POI 6", hu: "Description for Dominicanrepublic POI 6", ro: "Description for Dominicanrepublic POI 6", en: "Description for Dominicanrepublic POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_7",    name: { de: "Dominicanrepublic POI 7", hu: "Dominicanrepublic POI 7", ro: "Dominicanrepublic POI 7", en: "Dominicanrepublic POI 7" },
-    description: { de: "Description for Dominicanrepublic POI 7", hu: "Description for Dominicanrepublic POI 7", ro: "Description for Dominicanrepublic POI 7", en: "Description for Dominicanrepublic POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_8",    name: { de: "Dominicanrepublic POI 8", hu: "Dominicanrepublic POI 8", ro: "Dominicanrepublic POI 8", en: "Dominicanrepublic POI 8" },
-    description: { de: "Description for Dominicanrepublic POI 8", hu: "Description for Dominicanrepublic POI 8", ro: "Description for Dominicanrepublic POI 8", en: "Description for Dominicanrepublic POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_9",    name: { de: "Dominicanrepublic POI 9", hu: "Dominicanrepublic POI 9", ro: "Dominicanrepublic POI 9", en: "Dominicanrepublic POI 9" },
-    description: { de: "Description for Dominicanrepublic POI 9", hu: "Description for Dominicanrepublic POI 9", ro: "Description for Dominicanrepublic POI 9", en: "Description for Dominicanrepublic POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_10",    name: { de: "Dominicanrepublic POI 10", hu: "Dominicanrepublic POI 10", ro: "Dominicanrepublic POI 10", en: "Dominicanrepublic POI 10" },
-    description: { de: "Description for Dominicanrepublic POI 10", hu: "Description for Dominicanrepublic POI 10", ro: "Description for Dominicanrepublic POI 10", en: "Description for Dominicanrepublic POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_11",    name: { de: "Dominicanrepublic POI 11", hu: "Dominicanrepublic POI 11", ro: "Dominicanrepublic POI 11", en: "Dominicanrepublic POI 11" },
-    description: { de: "Description for Dominicanrepublic POI 11", hu: "Description for Dominicanrepublic POI 11", ro: "Description for Dominicanrepublic POI 11", en: "Description for Dominicanrepublic POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_12",    name: { de: "Dominicanrepublic POI 12", hu: "Dominicanrepublic POI 12", ro: "Dominicanrepublic POI 12", en: "Dominicanrepublic POI 12" },
-    description: { de: "Description for Dominicanrepublic POI 12", hu: "Description for Dominicanrepublic POI 12", ro: "Description for Dominicanrepublic POI 12", en: "Description for Dominicanrepublic POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_13",    name: { de: "Dominicanrepublic POI 13", hu: "Dominicanrepublic POI 13", ro: "Dominicanrepublic POI 13", en: "Dominicanrepublic POI 13" },
-    description: { de: "Description for Dominicanrepublic POI 13", hu: "Description for Dominicanrepublic POI 13", ro: "Description for Dominicanrepublic POI 13", en: "Description for Dominicanrepublic POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_14",    name: { de: "Dominicanrepublic POI 14", hu: "Dominicanrepublic POI 14", ro: "Dominicanrepublic POI 14", en: "Dominicanrepublic POI 14" },
-    description: { de: "Description for Dominicanrepublic POI 14", hu: "Description for Dominicanrepublic POI 14", ro: "Description for Dominicanrepublic POI 14", en: "Description for Dominicanrepublic POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_15",    name: { de: "Dominicanrepublic POI 15", hu: "Dominicanrepublic POI 15", ro: "Dominicanrepublic POI 15", en: "Dominicanrepublic POI 15" },
-    description: { de: "Description for Dominicanrepublic POI 15", hu: "Description for Dominicanrepublic POI 15", ro: "Description for Dominicanrepublic POI 15", en: "Description for Dominicanrepublic POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_16",    name: { de: "Dominicanrepublic POI 16", hu: "Dominicanrepublic POI 16", ro: "Dominicanrepublic POI 16", en: "Dominicanrepublic POI 16" },
-    description: { de: "Description for Dominicanrepublic POI 16", hu: "Description for Dominicanrepublic POI 16", ro: "Description for Dominicanrepublic POI 16", en: "Description for Dominicanrepublic POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_17",    name: { de: "Dominicanrepublic POI 17", hu: "Dominicanrepublic POI 17", ro: "Dominicanrepublic POI 17", en: "Dominicanrepublic POI 17" },
-    description: { de: "Description for Dominicanrepublic POI 17", hu: "Description for Dominicanrepublic POI 17", ro: "Description for Dominicanrepublic POI 17", en: "Description for Dominicanrepublic POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_18",    name: { de: "Dominicanrepublic POI 18", hu: "Dominicanrepublic POI 18", ro: "Dominicanrepublic POI 18", en: "Dominicanrepublic POI 18" },
-    description: { de: "Description for Dominicanrepublic POI 18", hu: "Description for Dominicanrepublic POI 18", ro: "Description for Dominicanrepublic POI 18", en: "Description for Dominicanrepublic POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_19",    name: { de: "Dominicanrepublic POI 19", hu: "Dominicanrepublic POI 19", ro: "Dominicanrepublic POI 19", en: "Dominicanrepublic POI 19" },
-    description: { de: "Description for Dominicanrepublic POI 19", hu: "Description for Dominicanrepublic POI 19", ro: "Description for Dominicanrepublic POI 19", en: "Description for Dominicanrepublic POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_20",    name: { de: "Dominicanrepublic POI 20", hu: "Dominicanrepublic POI 20", ro: "Dominicanrepublic POI 20", en: "Dominicanrepublic POI 20" },
-    description: { de: "Description for Dominicanrepublic POI 20", hu: "Description for Dominicanrepublic POI 20", ro: "Description for Dominicanrepublic POI 20", en: "Description for Dominicanrepublic POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
+  { id: "do-santodomingo", type: "state-capital", parent: "DO", coords: [-69.9312, 18.4861], name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo" }, description: { de: "Die Hauptstadt und eine der ältesten europäischen Siedlungen Amerikas.", hu: "A főváros és Amerika egyik legrégebbi európai települése.", ro: "Capitala și una dintre cele mai vechi așezări europene din Americi.", en: "The capital and one of the oldest European settlements in the Americas." } },
+  { id: "do-santiago", type: "city", parent: "DO", coords: [-70.6970, 19.4517], name: { de: "Santiago de los Caballeros", hu: "Santiago de los Caballeros", ro: "Santiago de los Caballeros", en: "Santiago de los Caballeros" }, description: { de: "Zweitgrößte Stadt, gelegen im fruchtbaren Cibao-Tal.", hu: "A második legnagyobb város a termékeny Cibao-völgyben.", ro: "Al doilea oraș ca mărime, situat în fertila Vale Cibao.", en: "Second largest city, located in the fertile Cibao Valley." } },
+  { id: "do-puntacana", type: "city", parent: "DO", coords: [-68.3745, 18.5820], name: { de: "Punta Cana", hu: "Punta Cana", ro: "Punta Cana", en: "Punta Cana" }, description: { de: "Berühmter Ferienort an der Ostspitze mit endlosen weißen Stränden.", hu: "Híres keleti üdülőhely végtelen fehér homokos strandokkal.", ro: "Renumită stațiune din est, cu plaje albe nesfârșite.", en: "Famous resort town on the eastern tip with endless white beaches." } },
+  { id: "do-puertoplata", type: "city", parent: "DO", coords: [-70.6867, 19.7934], name: { de: "Puerto Plata", hu: "Puerto Plata", ro: "Puerto Plata", en: "Puerto Plata" }, description: { de: "Küstenstadt im Norden mit viktorianischer Architektur und Festung.", hu: "Északi tengerparti város viktoriánus építészettel és erőddel.", ro: "Oraș de coastă în nord, cu arhitectură victoriană și fortăreață.", en: "Northern coastal city with Victorian architecture and a fortress." } },
+  { id: "do-laromana", type: "city", parent: "DO", coords: [-68.9667, 18.4333], name: { de: "La Romana", hu: "La Romana", ro: "La Romana", en: "La Romana" }, description: { de: "Eines der größten touristischen Ziele und Golfzentren.", hu: "Az egyik legnagyobb turisztikai és golfközpont.", ro: "Una dintre cele mai mari destinații turistice și centre de golf.", en: "One of the largest tourist destinations and golf centers." } }
 ];
 
 export const dominicanrepublicLandmarks: POI[] = [
-  {
-    id: "dominicanrepublic_21",    name: { de: "Dominicanrepublic POI 21", hu: "Dominicanrepublic POI 21", ro: "Dominicanrepublic POI 21", en: "Dominicanrepublic POI 21" },
-    description: { de: "Description for Dominicanrepublic POI 21", hu: "Description for Dominicanrepublic POI 21", ro: "Description for Dominicanrepublic POI 21", en: "Description for Dominicanrepublic POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_22",    name: { de: "Dominicanrepublic POI 22", hu: "Dominicanrepublic POI 22", ro: "Dominicanrepublic POI 22", en: "Dominicanrepublic POI 22" },
-    description: { de: "Description for Dominicanrepublic POI 22", hu: "Description for Dominicanrepublic POI 22", ro: "Description for Dominicanrepublic POI 22", en: "Description for Dominicanrepublic POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_23",    name: { de: "Dominicanrepublic POI 23", hu: "Dominicanrepublic POI 23", ro: "Dominicanrepublic POI 23", en: "Dominicanrepublic POI 23" },
-    description: { de: "Description for Dominicanrepublic POI 23", hu: "Description for Dominicanrepublic POI 23", ro: "Description for Dominicanrepublic POI 23", en: "Description for Dominicanrepublic POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_24",    name: { de: "Dominicanrepublic POI 24", hu: "Dominicanrepublic POI 24", ro: "Dominicanrepublic POI 24", en: "Dominicanrepublic POI 24" },
-    description: { de: "Description for Dominicanrepublic POI 24", hu: "Description for Dominicanrepublic POI 24", ro: "Description for Dominicanrepublic POI 24", en: "Description for Dominicanrepublic POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_25",    name: { de: "Dominicanrepublic POI 25", hu: "Dominicanrepublic POI 25", ro: "Dominicanrepublic POI 25", en: "Dominicanrepublic POI 25" },
-    description: { de: "Description for Dominicanrepublic POI 25", hu: "Description for Dominicanrepublic POI 25", ro: "Description for Dominicanrepublic POI 25", en: "Description for Dominicanrepublic POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_26",    name: { de: "Dominicanrepublic POI 26", hu: "Dominicanrepublic POI 26", ro: "Dominicanrepublic POI 26", en: "Dominicanrepublic POI 26" },
-    description: { de: "Description for Dominicanrepublic POI 26", hu: "Description for Dominicanrepublic POI 26", ro: "Description for Dominicanrepublic POI 26", en: "Description for Dominicanrepublic POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_27",    name: { de: "Dominicanrepublic POI 27", hu: "Dominicanrepublic POI 27", ro: "Dominicanrepublic POI 27", en: "Dominicanrepublic POI 27" },
-    description: { de: "Description for Dominicanrepublic POI 27", hu: "Description for Dominicanrepublic POI 27", ro: "Description for Dominicanrepublic POI 27", en: "Description for Dominicanrepublic POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_28",    name: { de: "Dominicanrepublic POI 28", hu: "Dominicanrepublic POI 28", ro: "Dominicanrepublic POI 28", en: "Dominicanrepublic POI 28" },
-    description: { de: "Description for Dominicanrepublic POI 28", hu: "Description for Dominicanrepublic POI 28", ro: "Description for Dominicanrepublic POI 28", en: "Description for Dominicanrepublic POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_29",    name: { de: "Dominicanrepublic POI 29", hu: "Dominicanrepublic POI 29", ro: "Dominicanrepublic POI 29", en: "Dominicanrepublic POI 29" },
-    description: { de: "Description for Dominicanrepublic POI 29", hu: "Description for Dominicanrepublic POI 29", ro: "Description for Dominicanrepublic POI 29", en: "Description for Dominicanrepublic POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
-  {
-    id: "dominicanrepublic_30",    name: { de: "Dominicanrepublic POI 30", hu: "Dominicanrepublic POI 30", ro: "Dominicanrepublic POI 30", en: "Dominicanrepublic POI 30" },
-    description: { de: "Description for Dominicanrepublic POI 30", hu: "Description for Dominicanrepublic POI 30", ro: "Description for Dominicanrepublic POI 30", en: "Description for Dominicanrepublic POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'DO'
-  },
+  { id: "do-zonacolonial", type: "historical", parent: "DO", coords: [-69.8833, 18.4750], name: { de: "Zona Colonial", hu: "Zona Colonial", ro: "Zona Colonial", en: "Zona Colonial" }, description: { de: "Die historische Altstadt von Santo Domingo, UNESCO-Welterbe.", hu: "Santo Domingo történelmi óvárosa, UNESCO világörökség.", ro: "Centrul istoric din Santo Domingo, sit UNESCO.", en: "The historic old town of Santo Domingo, a UNESCO World Heritage site." } },
+  { id: "do-alcazar", type: "historical", parent: "DO", coords: [-69.8822, 18.4764], name: { de: "Alcázar de Colón", hu: "Kolumbusz-palota", ro: "Alcázar de Colón", en: "Alcázar de Colón" }, description: { de: "Die Residenz von Diego Columbus, heute ein Museum.", hu: "Diego Kolumbusz egykori rezidenciája, ma múzeum.", ro: "Reședința lui Diego Columb, acum un muzeu.", en: "The residence of Diego Columbus, now a museum." } },
+  { id: "do-picoduarte", type: "mountain", parent: "DO", coords: [-70.9986, 19.0228], name: { de: "Pico Duarte", hu: "Pico Duarte", ro: "Pico Duarte", en: "Pico Duarte" }, description: { de: "Mit über 3.000 Metern der höchste Berg der Karibik.", hu: "A Karib-térség legmagasabb hegye (több mint 3000 m).", ro: "Cel mai înalt munte din Caraibe, cu peste 3.000 de metri.", en: "The highest mountain in the Caribbean, at over 3,000 meters." } },
+  { id: "do-lakeenriquillo", type: "lake", parent: "DO", coords: [-71.7000, 18.5000], name: { de: "Enriquillo-See", hu: "Enriquillo-tó", ro: "Lacul Enriquillo", en: "Lake Enriquillo" }, description: { de: "Der größte See der Karibik, bekannt für Salzwasserkrokodile.", hu: "A Karib-térség legnagyobb tava, sós vizű krokodiljairól ismert.", ro: "Cel mai mare lac din Caraibe, cunoscut pentru crocodilii de apă sărată.", en: "The largest lake in the Caribbean, known for its saltwater crocodiles." } },
+  { id: "do-haitises", type: "landmark", parent: "DO", coords: [-69.5833, 19.0667], name: { de: "Los Haitises Nationalpark", hu: "Los Haitises Nemzeti Park", ro: "Parcul Național Los Haitises", en: "Los Haitises National Park" }, description: { de: "Ein Küstenpark mit Karstformationen, Mangroven und Höhlen.", hu: "Tengerparti nemzeti park karsztképződményekkel, mangrovékkal és barlangokkal.", ro: "Un parc de coastă cu formațiuni carstice, mangrove și peșteri.", en: "A coastal park featuring karst formations, mangroves, and caves." } },
+  { id: "do-saona", type: "island", parent: "DO", coords: [-68.7333, 18.1500], name: { de: "Saona Island", hu: "Saona-sziget", ro: "Insula Saona", en: "Saona Island" }, description: { de: "Ein tropisches Inselparadies, berühmt für Katamarantouren.", hu: "Trópusi szigetparadicsom, amely katamarántúráiról híres.", ro: "O insulă tropicală paradisiacă, faimoasă pentru tururile cu catamaranul.", en: "A tropical island paradise, famous for catamaran excursions." } },
+  { id: "do-bahiadelasaguilas", type: "landmark", parent: "DO", coords: [-71.6444, 17.8694], name: { de: "Bahía de las Águilas", hu: "Bahía de las Águilas", ro: "Bahía de las Águilas", en: "Bahía de las Águilas" }, description: { de: "Ein abgelegener Strand im Südwesten, der für unberührte Natur bekannt ist.", hu: "Félreeső strand délnyugaton, amely érintetlen természetéről ismert.", ro: "O plajă izolată în sud-vest, cunoscută pentru natura neatinsă.", en: "A remote beach in the southwest known for its pristine nature." } },
+  { id: "do-damajaqua", type: "landmark", parent: "DO", coords: [-70.8000, 19.7333], name: { de: "Damajaqua Kaskaden", hu: "A 27 vízesés (Damajaqua)", ro: "Cascadele Damajaqua", en: "Damajaqua Cascades" }, description: { de: "Die 27 Wasserfälle von Rio Damajagua, ideal zum Klettern und Springen.", hu: "A Rio Damajagua 27 vízesése, mely ideális hegymászásra és ugrásra.", ro: "Cele 27 de cascade de pe Rio Damajagua, ideale pentru cățărare și sărituri.", en: "The 27 waterfalls of Rio Damajagua, perfect for climbing and jumping." } },
+  { id: "do-altosdechavon", type: "historical", parent: "DO", coords: [-68.8894, 18.4233], name: { de: "Altos de Chavón", hu: "Altos de Chavón", ro: "Altos de Chavón", en: "Altos de Chavón" }, description: { de: "Eine Nachbildung eines mediterranen Dorfes aus dem 16. Jahrhundert.", hu: "Egy 16. századi mediterrán falu pontos másolata.", ro: "O replică a unui sat mediteranean din secolul al XVI-lea.", en: "A replica of a 16th-century Mediterranean village." } },
+  { id: "do-altagracia", type: "landmark", parent: "DO", coords: [-68.6186, 18.6161], name: { de: "Basilika von Altagracia", hu: "Altagracia-bazilika", ro: "Bazilica Our Lady of Altagracia", en: "Basilica of Our Lady of Altagracia" }, description: { de: "Wichtige katholische Kathedrale in Higüey mit moderner Architektur.", hu: "Jelentős katolikus katedrális Higüey-ben, modern építészettel.", ro: "Catedrală catolică importantă în Higüey, cu arhitectură modernă.", en: "Important Catholic cathedral in Higüey featuring modern architecture." } }
 ];
 
 export const dominicanrepublicAllPoi: POI[] = [...dominicanrepublicCountry, ...dominicanrepublicRegions, ...dominicanrepublicCities, ...dominicanrepublicLandmarks];

@@ -5,159 +5,24 @@ export const haitiCountry: POI[] = [];
 export const haitiRegions: POI[] = [];
 
 export const haitiCities: POI[] = [
-  {
-    id: "haiti_1",    name: { de: "Haiti POI 1", hu: "Haiti POI 1", ro: "Haiti POI 1", en: "Haiti POI 1" },
-    description: { de: "Description for Haiti POI 1", hu: "Description for Haiti POI 1", ro: "Description for Haiti POI 1", en: "Description for Haiti POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_2",    name: { de: "Haiti POI 2", hu: "Haiti POI 2", ro: "Haiti POI 2", en: "Haiti POI 2" },
-    description: { de: "Description for Haiti POI 2", hu: "Description for Haiti POI 2", ro: "Description for Haiti POI 2", en: "Description for Haiti POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_3",    name: { de: "Haiti POI 3", hu: "Haiti POI 3", ro: "Haiti POI 3", en: "Haiti POI 3" },
-    description: { de: "Description for Haiti POI 3", hu: "Description for Haiti POI 3", ro: "Description for Haiti POI 3", en: "Description for Haiti POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_4",    name: { de: "Haiti POI 4", hu: "Haiti POI 4", ro: "Haiti POI 4", en: "Haiti POI 4" },
-    description: { de: "Description for Haiti POI 4", hu: "Description for Haiti POI 4", ro: "Description for Haiti POI 4", en: "Description for Haiti POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_5",    name: { de: "Haiti POI 5", hu: "Haiti POI 5", ro: "Haiti POI 5", en: "Haiti POI 5" },
-    description: { de: "Description for Haiti POI 5", hu: "Description for Haiti POI 5", ro: "Description for Haiti POI 5", en: "Description for Haiti POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_6",    name: { de: "Haiti POI 6", hu: "Haiti POI 6", ro: "Haiti POI 6", en: "Haiti POI 6" },
-    description: { de: "Description for Haiti POI 6", hu: "Description for Haiti POI 6", ro: "Description for Haiti POI 6", en: "Description for Haiti POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_7",    name: { de: "Haiti POI 7", hu: "Haiti POI 7", ro: "Haiti POI 7", en: "Haiti POI 7" },
-    description: { de: "Description for Haiti POI 7", hu: "Description for Haiti POI 7", ro: "Description for Haiti POI 7", en: "Description for Haiti POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_8",    name: { de: "Haiti POI 8", hu: "Haiti POI 8", ro: "Haiti POI 8", en: "Haiti POI 8" },
-    description: { de: "Description for Haiti POI 8", hu: "Description for Haiti POI 8", ro: "Description for Haiti POI 8", en: "Description for Haiti POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_9",    name: { de: "Haiti POI 9", hu: "Haiti POI 9", ro: "Haiti POI 9", en: "Haiti POI 9" },
-    description: { de: "Description for Haiti POI 9", hu: "Description for Haiti POI 9", ro: "Description for Haiti POI 9", en: "Description for Haiti POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_10",    name: { de: "Haiti POI 10", hu: "Haiti POI 10", ro: "Haiti POI 10", en: "Haiti POI 10" },
-    description: { de: "Description for Haiti POI 10", hu: "Description for Haiti POI 10", ro: "Description for Haiti POI 10", en: "Description for Haiti POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_11",    name: { de: "Haiti POI 11", hu: "Haiti POI 11", ro: "Haiti POI 11", en: "Haiti POI 11" },
-    description: { de: "Description for Haiti POI 11", hu: "Description for Haiti POI 11", ro: "Description for Haiti POI 11", en: "Description for Haiti POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_12",    name: { de: "Haiti POI 12", hu: "Haiti POI 12", ro: "Haiti POI 12", en: "Haiti POI 12" },
-    description: { de: "Description for Haiti POI 12", hu: "Description for Haiti POI 12", ro: "Description for Haiti POI 12", en: "Description for Haiti POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_13",    name: { de: "Haiti POI 13", hu: "Haiti POI 13", ro: "Haiti POI 13", en: "Haiti POI 13" },
-    description: { de: "Description for Haiti POI 13", hu: "Description for Haiti POI 13", ro: "Description for Haiti POI 13", en: "Description for Haiti POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_14",    name: { de: "Haiti POI 14", hu: "Haiti POI 14", ro: "Haiti POI 14", en: "Haiti POI 14" },
-    description: { de: "Description for Haiti POI 14", hu: "Description for Haiti POI 14", ro: "Description for Haiti POI 14", en: "Description for Haiti POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_15",    name: { de: "Haiti POI 15", hu: "Haiti POI 15", ro: "Haiti POI 15", en: "Haiti POI 15" },
-    description: { de: "Description for Haiti POI 15", hu: "Description for Haiti POI 15", ro: "Description for Haiti POI 15", en: "Description for Haiti POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_16",    name: { de: "Haiti POI 16", hu: "Haiti POI 16", ro: "Haiti POI 16", en: "Haiti POI 16" },
-    description: { de: "Description for Haiti POI 16", hu: "Description for Haiti POI 16", ro: "Description for Haiti POI 16", en: "Description for Haiti POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_17",    name: { de: "Haiti POI 17", hu: "Haiti POI 17", ro: "Haiti POI 17", en: "Haiti POI 17" },
-    description: { de: "Description for Haiti POI 17", hu: "Description for Haiti POI 17", ro: "Description for Haiti POI 17", en: "Description for Haiti POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_18",    name: { de: "Haiti POI 18", hu: "Haiti POI 18", ro: "Haiti POI 18", en: "Haiti POI 18" },
-    description: { de: "Description for Haiti POI 18", hu: "Description for Haiti POI 18", ro: "Description for Haiti POI 18", en: "Description for Haiti POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_19",    name: { de: "Haiti POI 19", hu: "Haiti POI 19", ro: "Haiti POI 19", en: "Haiti POI 19" },
-    description: { de: "Description for Haiti POI 19", hu: "Description for Haiti POI 19", ro: "Description for Haiti POI 19", en: "Description for Haiti POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_20",    name: { de: "Haiti POI 20", hu: "Haiti POI 20", ro: "Haiti POI 20", en: "Haiti POI 20" },
-    description: { de: "Description for Haiti POI 20", hu: "Description for Haiti POI 20", ro: "Description for Haiti POI 20", en: "Description for Haiti POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
+  { id: "ht-pap", type: "state-capital", parent: "HT", coords: [-72.3333, 18.5333], name: { de: "Port-au-Prince", hu: "Port-au-Prince", ro: "Port-au-Prince", en: "Port-au-Prince" }, description: { de: "Die geschäftige Hauptstadt Haitis, gelegen am Golf von Gonâve.", hu: "Haiti nyüzsgő fővárosa, amely a Gonâve-öböl mentén található.", ro: "Capitala animată a Haitiului, situată în Golful Gonâve.", en: "The bustling capital of Haiti, located on the Gulf of Gonâve." } },
+  { id: "ht-caphaitien", type: "city", parent: "HT", coords: [-72.2042, 19.7594], name: { de: "Cap-Haïtien", hu: "Cap-Haïtien", ro: "Cap-Haïtien", en: "Cap-Haïtien" }, description: { de: "Historische Hafenstadt an der Nordküste Haitis.", hu: "Történelmi kikötőváros Haiti északi partján.", ro: "Oraș-port istoric pe coasta de nord a Haitiului.", en: "Historic port city on the northern coast of Haiti." } },
+  { id: "ht-jacmel", type: "city", parent: "HT", coords: [-72.5333, 18.2333], name: { de: "Jacmel", hu: "Jacmel", ro: "Jacmel", en: "Jacmel" }, description: { de: "Küstenstadt bekannt für ihre koloniale Architektur und den lebhaften Karneval.", hu: "A gyarmati építészetéről és nyüzsgő karneváljáról ismert tengerparti város.", ro: "Oraș de coastă cunoscut pentru arhitectura colonială și carnavalul vibrant.", en: "Coastal town known for its colonial architecture and vibrant carnival." } },
+  { id: "ht-lescayes", type: "city", parent: "HT", coords: [-73.7460, 18.1905], name: { de: "Les Cayes", hu: "Les Cayes", ro: "Les Cayes", en: "Les Cayes" }, description: { de: "Wichtiger Seehafen und Stadt im Südwesten Haitis.", hu: "Fontos tengeri kikötő és város Haiti délnyugati részén.", ro: "Port maritim important și oraș în sud-vestul Haitiului.", en: "Major seaport and city in southwestern Haiti." } },
+  { id: "ht-gonaives", type: "city", parent: "HT", coords: [-72.6797, 19.4503], name: { de: "Gonaïves", hu: "Gonaïves", ro: "Gonaïves", en: "Gonaïves" }, description: { de: "Stadt, in der die Unabhängigkeit Haitis 1804 deklariert wurde.", hu: "A város, ahol 1804-ben kikiáltották Haiti függetlenségét.", ro: "Orașul unde a fost declarată independența Haitiului în 1804.", en: "City where the independence of Haiti was declared in 1804." } }
 ];
 
 export const haitiLandmarks: POI[] = [
-  {
-    id: "haiti_21",    name: { de: "Haiti POI 21", hu: "Haiti POI 21", ro: "Haiti POI 21", en: "Haiti POI 21" },
-    description: { de: "Description for Haiti POI 21", hu: "Description for Haiti POI 21", ro: "Description for Haiti POI 21", en: "Description for Haiti POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_22",    name: { de: "Haiti POI 22", hu: "Haiti POI 22", ro: "Haiti POI 22", en: "Haiti POI 22" },
-    description: { de: "Description for Haiti POI 22", hu: "Description for Haiti POI 22", ro: "Description for Haiti POI 22", en: "Description for Haiti POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_23",    name: { de: "Haiti POI 23", hu: "Haiti POI 23", ro: "Haiti POI 23", en: "Haiti POI 23" },
-    description: { de: "Description for Haiti POI 23", hu: "Description for Haiti POI 23", ro: "Description for Haiti POI 23", en: "Description for Haiti POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_24",    name: { de: "Haiti POI 24", hu: "Haiti POI 24", ro: "Haiti POI 24", en: "Haiti POI 24" },
-    description: { de: "Description for Haiti POI 24", hu: "Description for Haiti POI 24", ro: "Description for Haiti POI 24", en: "Description for Haiti POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_25",    name: { de: "Haiti POI 25", hu: "Haiti POI 25", ro: "Haiti POI 25", en: "Haiti POI 25" },
-    description: { de: "Description for Haiti POI 25", hu: "Description for Haiti POI 25", ro: "Description for Haiti POI 25", en: "Description for Haiti POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_26",    name: { de: "Haiti POI 26", hu: "Haiti POI 26", ro: "Haiti POI 26", en: "Haiti POI 26" },
-    description: { de: "Description for Haiti POI 26", hu: "Description for Haiti POI 26", ro: "Description for Haiti POI 26", en: "Description for Haiti POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_27",    name: { de: "Haiti POI 27", hu: "Haiti POI 27", ro: "Haiti POI 27", en: "Haiti POI 27" },
-    description: { de: "Description for Haiti POI 27", hu: "Description for Haiti POI 27", ro: "Description for Haiti POI 27", en: "Description for Haiti POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_28",    name: { de: "Haiti POI 28", hu: "Haiti POI 28", ro: "Haiti POI 28", en: "Haiti POI 28" },
-    description: { de: "Description for Haiti POI 28", hu: "Description for Haiti POI 28", ro: "Description for Haiti POI 28", en: "Description for Haiti POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_29",    name: { de: "Haiti POI 29", hu: "Haiti POI 29", ro: "Haiti POI 29", en: "Haiti POI 29" },
-    description: { de: "Description for Haiti POI 29", hu: "Description for Haiti POI 29", ro: "Description for Haiti POI 29", en: "Description for Haiti POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
-  {
-    id: "haiti_30",    name: { de: "Haiti POI 30", hu: "Haiti POI 30", ro: "Haiti POI 30", en: "Haiti POI 30" },
-    description: { de: "Description for Haiti POI 30", hu: "Description for Haiti POI 30", ro: "Description for Haiti POI 30", en: "Description for Haiti POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'HT'
-  },
+  { id: "ht-citadelle", type: "historical", parent: "HT", coords: [-72.2439, 19.5739], name: { de: "Citadelle Laferrière", hu: "Citadelle Laferrière", ro: "Citadelle Laferrière", en: "Citadelle Laferrière" }, description: { de: "Eine massive Bergfestung und UNESCO-Weltkulturerbe.", hu: "Egy hatalmas hegyi erődítmény és UNESCO világörökség.", ro: "O fortăreață montană masivă și patrimoniu mondial UNESCO.", en: "A massive mountaintop fortress and UNESCO World Heritage site." } },
+  { id: "ht-sanssouci", type: "historical", parent: "HT", coords: [-72.2431, 19.6044], name: { de: "Sans-Souci Palast", hu: "Sans-Souci palota", ro: "Palatul Sans-Souci", en: "Sans-Souci Palace" }, description: { de: "Ruinen eines prächtigen Palastes aus dem 19. Jahrhundert in Milot.", hu: "Egy 19. századi pompás palota romjai Milot-ban.", ro: "Ruinele unui palat magnific din secolul al XIX-lea în Milot.", en: "Ruins of a magnificent 19th-century palace in Milot." } },
+  { id: "ht-labadee", type: "landmark", parent: "HT", coords: [-72.2450, 19.7828], name: { de: "Labadee", hu: "Labadee strand", ro: "Labadee", en: "Labadee" }, description: { de: "Ein privates Resortgebiet an der Nordküste, beliebt für Kreuzfahrten.", hu: "Egy privát üdülőközpont az északi parton, mely népszerű a tengerjáró hajók körében.", ro: "O stațiune privată pe coasta de nord, populară pentru croaziere.", en: "A private resort area on the northern coast popular for cruises." } },
+  { id: "ht-bassinbleu", type: "lake", parent: "HT", coords: [-72.6167, 18.2833], name: { de: "Bassin-Bleu", hu: "Bassin-Bleu vízesés", ro: "Bassin-Bleu", en: "Bassin-Bleu" }, description: { de: "Versteckte natürliche Wasserbecken in der Nähe von Jacmel.", hu: "Rejtett természetes medencék Jacmel közelében.", ro: "Piscine naturale ascunse lângă Jacmel.", en: "Hidden natural water pools near Jacmel." } },
+  { id: "ht-picmacaya", type: "mountain", parent: "HT", coords: [-74.0208, 18.3800], name: { de: "Pic Macaya", hu: "Pic Macaya", ro: "Pic Macaya", en: "Pic Macaya" }, description: { de: "Der zweithöchste Berg Haitis im Macaya Nationalpark.", hu: "Haiti második legmagasabb hegye a Macaya Nemzeti Parkban.", ro: "Al doilea cel mai înalt munte din Haiti, în Parcul Național Macaya.", en: "The second highest mountain in Haiti, located in the Macaya National Park." } },
+  { id: "ht-fortjacques", type: "historical", parent: "HT", coords: [-72.2833, 18.4667], name: { de: "Fort Jacques", hu: "Fort Jacques erőd", ro: "Fortul Jacques", en: "Fort Jacques" }, description: { de: "Historische Festung aus dem frühen 19. Jahrhundert bei Pétion-Ville.", hu: "Kora 19. századi történelmi erőd Pétion-Ville közelében.", ro: "Fortăreață istorică de la începutul secolului al XIX-lea, lângă Pétion-Ville.", en: "Historic early 19th-century fortress near Pétion-Ville." } },
+  { id: "ht-pantheon", type: "landmark", parent: "HT", coords: [-72.3344, 18.5436], name: { de: "Musée du Panthéon National", hu: "Nemzeti Panteon Múzeum", ro: "Muzeul Panteonului Național", en: "Musée du Panthéon National" }, description: { de: "Ein Museum in Port-au-Prince, das der Geschichte Haitis gewidmet ist.", hu: "A haiti történelemnek szentelt múzeum Port-au-Prince-ben.", ro: "Un muzeu din Port-au-Prince dedicat istoriei Haitiului.", en: "A museum in Port-au-Prince dedicated to the history of Haiti." } },
+  { id: "ht-ironmarket", type: "landmark", parent: "HT", coords: [-72.3375, 18.5511], name: { de: "Marché en Fer", hu: "Vaspiac", ro: "Piața de Fier", en: "Iron Market" }, description: { de: "Ein geschäftiger historischer Markt in Port-au-Prince.", hu: "Egy nyüzsgő történelmi piac Port-au-Prince-ben.", ro: "O piață istorică plină de viață în Port-au-Prince.", en: "A bustling historic market in Port-au-Prince." } },
+  { id: "ht-tortue", type: "island", parent: "HT", coords: [-72.8000, 20.0500], name: { de: "Île de la Tortue", hu: "Teknős-sziget", ro: "Insula Tortuga", en: "Tortuga Island" }, description: { de: "Eine Insel vor der Nordwestküste, berühmt für ihre Piratengeschichte.", hu: "Az északnyugati partoknál fekvő sziget, mely kalóztörténelméről híres.", ro: "O insulă în largul coastei de nord-vest, renumită pentru istoria sa cu pirați.", en: "An island off the northwest coast famous for its pirate history." } },
+  { id: "ht-sautmathurine", type: "landmark", parent: "HT", coords: [-73.8333, 18.3500], name: { de: "Saut-Mathurine", hu: "Saut-Mathurine vízesés", ro: "Cascada Saut-Mathurine", en: "Saut-Mathurine" }, description: { de: "Der größte Wasserfall Haitis im Südwesten des Landes.", hu: "Haiti legnagyobb vízesése az ország délnyugati részén.", ro: "Cea mai mare cascadă din Haiti, în sud-vestul țării.", en: "The largest waterfall in Haiti, located in the southwest." } }
 ];
 
 export const haitiAllPoi: POI[] = [...haitiCountry, ...haitiRegions, ...haitiCities, ...haitiLandmarks];

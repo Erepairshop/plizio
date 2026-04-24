@@ -5,159 +5,24 @@ export const hondurasCountry: POI[] = [];
 export const hondurasRegions: POI[] = [];
 
 export const hondurasCities: POI[] = [
-  {
-    id: "honduras_1",    name: { de: "Honduras POI 1", hu: "Honduras POI 1", ro: "Honduras POI 1", en: "Honduras POI 1" },
-    description: { de: "Description for Honduras POI 1", hu: "Description for Honduras POI 1", ro: "Description for Honduras POI 1", en: "Description for Honduras POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_2",    name: { de: "Honduras POI 2", hu: "Honduras POI 2", ro: "Honduras POI 2", en: "Honduras POI 2" },
-    description: { de: "Description for Honduras POI 2", hu: "Description for Honduras POI 2", ro: "Description for Honduras POI 2", en: "Description for Honduras POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_3",    name: { de: "Honduras POI 3", hu: "Honduras POI 3", ro: "Honduras POI 3", en: "Honduras POI 3" },
-    description: { de: "Description for Honduras POI 3", hu: "Description for Honduras POI 3", ro: "Description for Honduras POI 3", en: "Description for Honduras POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_4",    name: { de: "Honduras POI 4", hu: "Honduras POI 4", ro: "Honduras POI 4", en: "Honduras POI 4" },
-    description: { de: "Description for Honduras POI 4", hu: "Description for Honduras POI 4", ro: "Description for Honduras POI 4", en: "Description for Honduras POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_5",    name: { de: "Honduras POI 5", hu: "Honduras POI 5", ro: "Honduras POI 5", en: "Honduras POI 5" },
-    description: { de: "Description for Honduras POI 5", hu: "Description for Honduras POI 5", ro: "Description for Honduras POI 5", en: "Description for Honduras POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_6",    name: { de: "Honduras POI 6", hu: "Honduras POI 6", ro: "Honduras POI 6", en: "Honduras POI 6" },
-    description: { de: "Description for Honduras POI 6", hu: "Description for Honduras POI 6", ro: "Description for Honduras POI 6", en: "Description for Honduras POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_7",    name: { de: "Honduras POI 7", hu: "Honduras POI 7", ro: "Honduras POI 7", en: "Honduras POI 7" },
-    description: { de: "Description for Honduras POI 7", hu: "Description for Honduras POI 7", ro: "Description for Honduras POI 7", en: "Description for Honduras POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_8",    name: { de: "Honduras POI 8", hu: "Honduras POI 8", ro: "Honduras POI 8", en: "Honduras POI 8" },
-    description: { de: "Description for Honduras POI 8", hu: "Description for Honduras POI 8", ro: "Description for Honduras POI 8", en: "Description for Honduras POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_9",    name: { de: "Honduras POI 9", hu: "Honduras POI 9", ro: "Honduras POI 9", en: "Honduras POI 9" },
-    description: { de: "Description for Honduras POI 9", hu: "Description for Honduras POI 9", ro: "Description for Honduras POI 9", en: "Description for Honduras POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_10",    name: { de: "Honduras POI 10", hu: "Honduras POI 10", ro: "Honduras POI 10", en: "Honduras POI 10" },
-    description: { de: "Description for Honduras POI 10", hu: "Description for Honduras POI 10", ro: "Description for Honduras POI 10", en: "Description for Honduras POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_11",    name: { de: "Honduras POI 11", hu: "Honduras POI 11", ro: "Honduras POI 11", en: "Honduras POI 11" },
-    description: { de: "Description for Honduras POI 11", hu: "Description for Honduras POI 11", ro: "Description for Honduras POI 11", en: "Description for Honduras POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_12",    name: { de: "Honduras POI 12", hu: "Honduras POI 12", ro: "Honduras POI 12", en: "Honduras POI 12" },
-    description: { de: "Description for Honduras POI 12", hu: "Description for Honduras POI 12", ro: "Description for Honduras POI 12", en: "Description for Honduras POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_13",    name: { de: "Honduras POI 13", hu: "Honduras POI 13", ro: "Honduras POI 13", en: "Honduras POI 13" },
-    description: { de: "Description for Honduras POI 13", hu: "Description for Honduras POI 13", ro: "Description for Honduras POI 13", en: "Description for Honduras POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_14",    name: { de: "Honduras POI 14", hu: "Honduras POI 14", ro: "Honduras POI 14", en: "Honduras POI 14" },
-    description: { de: "Description for Honduras POI 14", hu: "Description for Honduras POI 14", ro: "Description for Honduras POI 14", en: "Description for Honduras POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_15",    name: { de: "Honduras POI 15", hu: "Honduras POI 15", ro: "Honduras POI 15", en: "Honduras POI 15" },
-    description: { de: "Description for Honduras POI 15", hu: "Description for Honduras POI 15", ro: "Description for Honduras POI 15", en: "Description for Honduras POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_16",    name: { de: "Honduras POI 16", hu: "Honduras POI 16", ro: "Honduras POI 16", en: "Honduras POI 16" },
-    description: { de: "Description for Honduras POI 16", hu: "Description for Honduras POI 16", ro: "Description for Honduras POI 16", en: "Description for Honduras POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_17",    name: { de: "Honduras POI 17", hu: "Honduras POI 17", ro: "Honduras POI 17", en: "Honduras POI 17" },
-    description: { de: "Description for Honduras POI 17", hu: "Description for Honduras POI 17", ro: "Description for Honduras POI 17", en: "Description for Honduras POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_18",    name: { de: "Honduras POI 18", hu: "Honduras POI 18", ro: "Honduras POI 18", en: "Honduras POI 18" },
-    description: { de: "Description for Honduras POI 18", hu: "Description for Honduras POI 18", ro: "Description for Honduras POI 18", en: "Description for Honduras POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_19",    name: { de: "Honduras POI 19", hu: "Honduras POI 19", ro: "Honduras POI 19", en: "Honduras POI 19" },
-    description: { de: "Description for Honduras POI 19", hu: "Description for Honduras POI 19", ro: "Description for Honduras POI 19", en: "Description for Honduras POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_20",    name: { de: "Honduras POI 20", hu: "Honduras POI 20", ro: "Honduras POI 20", en: "Honduras POI 20" },
-    description: { de: "Description for Honduras POI 20", hu: "Description for Honduras POI 20", ro: "Description for Honduras POI 20", en: "Description for Honduras POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
+  { id: "hn-tegucigalpa", type: "state-capital", parent: "HN", coords: [-87.2167, 14.1000], name: { de: "Tegucigalpa", hu: "Tegucigalpa", ro: "Tegucigalpa", en: "Tegucigalpa" }, description: { de: "Die Hauptstadt und das politische Zentrum in einem Bergtal.", hu: "A hegyvidéki völgyben fekvő főváros és politikai központ.", ro: "Capitala și centrul politic, situată într-o vale montană.", en: "The capital and political center located in a mountain valley." } },
+  { id: "hn-sanpedro", type: "city", parent: "HN", coords: [-88.0250, 15.5000], name: { de: "San Pedro Sula", hu: "San Pedro Sula", ro: "San Pedro Sula", en: "San Pedro Sula" }, description: { de: "Die zweitgrößte Stadt und das industrielle Herz von Honduras.", hu: "A második legnagyobb város és Honduras ipari motorja.", ro: "Al doilea oraș ca mărime și inima industrială a Hondurasului.", en: "The second largest city and industrial heart of Honduras." } },
+  { id: "hn-laceiba", type: "city", parent: "HN", coords: [-86.8333, 15.7833], name: { de: "La Ceiba", hu: "La Ceiba", ro: "La Ceiba", en: "La Ceiba" }, description: { de: "Eine Küstenstadt, bekannt als Tor zu den Bay Islands.", hu: "Tengerparti város, amely az Öböl-szigetek kapuja.", ro: "Oraș de coastă, poarta către Insulele Golfului (Bay Islands).", en: "A coastal city known as the gateway to the Bay Islands." } },
+  { id: "hn-comayagua", type: "city", parent: "HN", coords: [-87.6333, 14.4500], name: { de: "Comayagua", hu: "Comayagua", ro: "Comayagua", en: "Comayagua" }, description: { de: "Ehemalige Hauptstadt, berühmt für spanische Kolonialarchitektur.", hu: "Egykori főváros, mely spanyol gyarmati építészetéről híres.", ro: "Fosta capitală, renumită pentru arhitectura colonială spaniolă.", en: "Former capital famous for its Spanish colonial architecture." } },
+  { id: "hn-elprogreso", type: "city", parent: "HN", coords: [-87.8000, 15.4000], name: { de: "El Progreso", hu: "El Progreso", ro: "El Progreso", en: "El Progreso" }, description: { de: "Wichtige Handels- und Landwirtschaftsstadt im Nordwesten.", hu: "Jelentős kereskedelmi és mezőgazdasági város északnyugaton.", ro: "Oraș comercial și agricol important în nord-vest.", en: "Important commercial and agricultural city in the northwest." } }
 ];
 
 export const hondurasLandmarks: POI[] = [
-  {
-    id: "honduras_21",    name: { de: "Honduras POI 21", hu: "Honduras POI 21", ro: "Honduras POI 21", en: "Honduras POI 21" },
-    description: { de: "Description for Honduras POI 21", hu: "Description for Honduras POI 21", ro: "Description for Honduras POI 21", en: "Description for Honduras POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_22",    name: { de: "Honduras POI 22", hu: "Honduras POI 22", ro: "Honduras POI 22", en: "Honduras POI 22" },
-    description: { de: "Description for Honduras POI 22", hu: "Description for Honduras POI 22", ro: "Description for Honduras POI 22", en: "Description for Honduras POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_23",    name: { de: "Honduras POI 23", hu: "Honduras POI 23", ro: "Honduras POI 23", en: "Honduras POI 23" },
-    description: { de: "Description for Honduras POI 23", hu: "Description for Honduras POI 23", ro: "Description for Honduras POI 23", en: "Description for Honduras POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_24",    name: { de: "Honduras POI 24", hu: "Honduras POI 24", ro: "Honduras POI 24", en: "Honduras POI 24" },
-    description: { de: "Description for Honduras POI 24", hu: "Description for Honduras POI 24", ro: "Description for Honduras POI 24", en: "Description for Honduras POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_25",    name: { de: "Honduras POI 25", hu: "Honduras POI 25", ro: "Honduras POI 25", en: "Honduras POI 25" },
-    description: { de: "Description for Honduras POI 25", hu: "Description for Honduras POI 25", ro: "Description for Honduras POI 25", en: "Description for Honduras POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_26",    name: { de: "Honduras POI 26", hu: "Honduras POI 26", ro: "Honduras POI 26", en: "Honduras POI 26" },
-    description: { de: "Description for Honduras POI 26", hu: "Description for Honduras POI 26", ro: "Description for Honduras POI 26", en: "Description for Honduras POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_27",    name: { de: "Honduras POI 27", hu: "Honduras POI 27", ro: "Honduras POI 27", en: "Honduras POI 27" },
-    description: { de: "Description for Honduras POI 27", hu: "Description for Honduras POI 27", ro: "Description for Honduras POI 27", en: "Description for Honduras POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_28",    name: { de: "Honduras POI 28", hu: "Honduras POI 28", ro: "Honduras POI 28", en: "Honduras POI 28" },
-    description: { de: "Description for Honduras POI 28", hu: "Description for Honduras POI 28", ro: "Description for Honduras POI 28", en: "Description for Honduras POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_29",    name: { de: "Honduras POI 29", hu: "Honduras POI 29", ro: "Honduras POI 29", en: "Honduras POI 29" },
-    description: { de: "Description for Honduras POI 29", hu: "Description for Honduras POI 29", ro: "Description for Honduras POI 29", en: "Description for Honduras POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
-  {
-    id: "honduras_30",    name: { de: "Honduras POI 30", hu: "Honduras POI 30", ro: "Honduras POI 30", en: "Honduras POI 30" },
-    description: { de: "Description for Honduras POI 30", hu: "Description for Honduras POI 30", ro: "Description for Honduras POI 30", en: "Description for Honduras POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'HN'
-  },
+  { id: "hn-copan", type: "historical", parent: "HN", coords: [-89.1411, 14.8394], name: { de: "Copán Ruinen", hu: "Copán romjai", ro: "Ruinele Copán", en: "Copán Ruins" }, description: { de: "Eine der wichtigsten Maya-Stätten, berühmt für ihre Steinstelen.", hu: "A legfontosabb maja lelőhelyek egyike, híres a kősztéléiről.", ro: "Unul dintre cele mai importante situri mayașe, faimos pentru stelele de piatră.", en: "One of the most important Maya sites, famous for its stone stelae." } },
+  { id: "hn-roatan", type: "island", parent: "HN", coords: [-86.5333, 16.3167], name: { de: "Roatán", hu: "Roatán sziget", ro: "Insula Roatán", en: "Roatán Island" }, description: { de: "Größte der Bay Islands, ein Paradies für Taucher und Schnorchler.", hu: "Az Öböl-szigetek legnagyobbika, búvárparadicsom.", ro: "Cea mai mare din Insulele Golfului, un paradis pentru scafandri.", en: "Largest of the Bay Islands, a paradise for divers and snorkelers." } },
+  { id: "hn-utila", type: "island", parent: "HN", coords: [-86.9333, 16.1000], name: { de: "Utila", hu: "Utila", ro: "Utila", en: "Utila" }, description: { de: "Kleinere Insel, berühmt für Walhai-Sichtungen und Rucksacktouristen.", hu: "Kisebb sziget, a cetcápákról és a hátizsákos turistákról ismert.", ro: "Insulă mai mică, faimoasă pentru rechinii-balenă și backpackeri.", en: "Smaller island, famous for whale shark sightings and backpackers." } },
+  { id: "hn-picobonito", type: "landmark", parent: "HN", coords: [-86.8500, 15.6000], name: { de: "Pico Bonito Nationalpark", hu: "Pico Bonito Nemzeti Park", ro: "Parcul Național Pico Bonito", en: "Pico Bonito National Park" }, description: { de: "Ein rauer Nationalpark mit Dschungel, Flüssen und vielfältiger Tierwelt.", hu: "Zord nemzeti park dzsungellel, folyókkal és változatos állatvilággal.", ro: "Un parc național sălbatic, cu junglă, râuri și o faună diversă.", en: "A rugged national park featuring jungles, rivers, and diverse wildlife." } },
+  { id: "hn-yojoa", type: "lake", parent: "HN", coords: [-87.9833, 14.8667], name: { de: "Yojoa-See", hu: "Yojoa-tó", ro: "Lacul Yojoa", en: "Lake Yojoa" }, description: { de: "Der größte natürliche See des Landes, beliebt für Vogelbeobachtungen.", hu: "Az ország legnagyobb természetes tava, kedvelt madármegfigyelő hely.", ro: "Cel mai mare lac natural din țară, popular pentru observarea păsărilor.", en: "The country's largest natural lake, popular for bird watching." } },
+  { id: "hn-cayoscochinos", type: "island", parent: "HN", coords: [-86.4833, 15.9667], name: { de: "Cayos Cochinos", hu: "Cayos Cochinos", ro: "Cayos Cochinos", en: "Cayos Cochinos" }, description: { de: "Ein geschütztes Archipel mit kristallklarem Wasser und unberührter Natur.", hu: "Kristálytiszta vizű védett szigetcsoport érintetlen természettel.", ro: "Un arhipelag protejat cu apă cristalină și natură neatinsă.", en: "A protected archipelago with crystal-clear water and pristine nature." } },
+  { id: "hn-rioplatano", type: "landmark", parent: "HN", coords: [-84.8333, 15.3833], name: { de: "Río Plátano Biosphärenreservat", hu: "Río Plátano Bioszféra-rezervátum", ro: "Rezervația Biosferei Río Plátano", en: "Río Plátano Biosphere Reserve" }, description: { de: "Ein riesiges Dschungelgebiet und UNESCO-Weltnaturerbe im Osten.", hu: "Hatalmas dzsungel Kelet-Hondurasban, UNESCO világörökség.", ro: "O junglă vastă în est, parte a Patrimoniului Mondial UNESCO.", en: "A vast jungle reserve in the east, a UNESCO World Heritage site." } },
+  { id: "hn-pulhapanzak", type: "landmark", parent: "HN", coords: [-87.9833, 14.9667], name: { de: "Pulhapanzak Wasserfall", hu: "Pulhapanzak vízesés", ro: "Cascada Pulhapanzak", en: "Pulhapanzak Waterfall" }, description: { de: "Ein beeindruckender, 43 Meter hoher Wasserfall nahe dem Yojoa-See.", hu: "Lenyűgöző, 43 méter magas vízesés a Yojoa-tó közelében.", ro: "O cascadă impresionantă de 43 de metri, lângă Lacul Yojoa.", en: "An impressive 43-meter waterfall near Lake Yojoa." } },
+  { id: "hn-macaw", type: "landmark", parent: "HN", coords: [-89.1500, 14.8500], name: { de: "Macaw Mountain", hu: "Macaw Mountain madárpark", ro: "Macaw Mountain", en: "Macaw Mountain" }, description: { de: "Ein Schutz- und Rehabilitationszentrum für tropische Vögel in Copán.", hu: "Trópusi madarak mentő- és rehabilitációs központja Copánban.", ro: "Un centru de protecție și reabilitare a păsărilor tropicale în Copán.", en: "A tropical bird rescue and rehabilitation center located in Copán." } },
+  { id: "hn-lancetilla", type: "landmark", parent: "HN", coords: [-87.4500, 15.7333], name: { de: "Lancetilla Botanischer Garten", hu: "Lancetilla Botanikus Kert", ro: "Grădina Botanică Lancetilla", en: "Lancetilla Botanical Garden" }, description: { de: "Einer der größten tropischen botanischen Gärten weltweit nahe Tela.", hu: "A világ egyik legnagyobb trópusi botanikus kertje Tela közelében.", ro: "Una dintre cele mai mari grădini botanice tropicale din lume, lângă Tela.", en: "One of the world's largest tropical botanical gardens, located near Tela." } }
 ];
 
 export const hondurasAllPoi: POI[] = [...hondurasCountry, ...hondurasRegions, ...hondurasCities, ...hondurasLandmarks];

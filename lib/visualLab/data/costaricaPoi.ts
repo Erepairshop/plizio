@@ -5,159 +5,24 @@ export const costaricaCountry: POI[] = [];
 export const costaricaRegions: POI[] = [];
 
 export const costaricaCities: POI[] = [
-  {
-    id: "costarica_1",    name: { de: "Costarica POI 1", hu: "Costarica POI 1", ro: "Costarica POI 1", en: "Costarica POI 1" },
-    description: { de: "Description for Costarica POI 1", hu: "Description for Costarica POI 1", ro: "Description for Costarica POI 1", en: "Description for Costarica POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_2",    name: { de: "Costarica POI 2", hu: "Costarica POI 2", ro: "Costarica POI 2", en: "Costarica POI 2" },
-    description: { de: "Description for Costarica POI 2", hu: "Description for Costarica POI 2", ro: "Description for Costarica POI 2", en: "Description for Costarica POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_3",    name: { de: "Costarica POI 3", hu: "Costarica POI 3", ro: "Costarica POI 3", en: "Costarica POI 3" },
-    description: { de: "Description for Costarica POI 3", hu: "Description for Costarica POI 3", ro: "Description for Costarica POI 3", en: "Description for Costarica POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_4",    name: { de: "Costarica POI 4", hu: "Costarica POI 4", ro: "Costarica POI 4", en: "Costarica POI 4" },
-    description: { de: "Description for Costarica POI 4", hu: "Description for Costarica POI 4", ro: "Description for Costarica POI 4", en: "Description for Costarica POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_5",    name: { de: "Costarica POI 5", hu: "Costarica POI 5", ro: "Costarica POI 5", en: "Costarica POI 5" },
-    description: { de: "Description for Costarica POI 5", hu: "Description for Costarica POI 5", ro: "Description for Costarica POI 5", en: "Description for Costarica POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_6",    name: { de: "Costarica POI 6", hu: "Costarica POI 6", ro: "Costarica POI 6", en: "Costarica POI 6" },
-    description: { de: "Description for Costarica POI 6", hu: "Description for Costarica POI 6", ro: "Description for Costarica POI 6", en: "Description for Costarica POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_7",    name: { de: "Costarica POI 7", hu: "Costarica POI 7", ro: "Costarica POI 7", en: "Costarica POI 7" },
-    description: { de: "Description for Costarica POI 7", hu: "Description for Costarica POI 7", ro: "Description for Costarica POI 7", en: "Description for Costarica POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_8",    name: { de: "Costarica POI 8", hu: "Costarica POI 8", ro: "Costarica POI 8", en: "Costarica POI 8" },
-    description: { de: "Description for Costarica POI 8", hu: "Description for Costarica POI 8", ro: "Description for Costarica POI 8", en: "Description for Costarica POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_9",    name: { de: "Costarica POI 9", hu: "Costarica POI 9", ro: "Costarica POI 9", en: "Costarica POI 9" },
-    description: { de: "Description for Costarica POI 9", hu: "Description for Costarica POI 9", ro: "Description for Costarica POI 9", en: "Description for Costarica POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_10",    name: { de: "Costarica POI 10", hu: "Costarica POI 10", ro: "Costarica POI 10", en: "Costarica POI 10" },
-    description: { de: "Description for Costarica POI 10", hu: "Description for Costarica POI 10", ro: "Description for Costarica POI 10", en: "Description for Costarica POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_11",    name: { de: "Costarica POI 11", hu: "Costarica POI 11", ro: "Costarica POI 11", en: "Costarica POI 11" },
-    description: { de: "Description for Costarica POI 11", hu: "Description for Costarica POI 11", ro: "Description for Costarica POI 11", en: "Description for Costarica POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_12",    name: { de: "Costarica POI 12", hu: "Costarica POI 12", ro: "Costarica POI 12", en: "Costarica POI 12" },
-    description: { de: "Description for Costarica POI 12", hu: "Description for Costarica POI 12", ro: "Description for Costarica POI 12", en: "Description for Costarica POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_13",    name: { de: "Costarica POI 13", hu: "Costarica POI 13", ro: "Costarica POI 13", en: "Costarica POI 13" },
-    description: { de: "Description for Costarica POI 13", hu: "Description for Costarica POI 13", ro: "Description for Costarica POI 13", en: "Description for Costarica POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_14",    name: { de: "Costarica POI 14", hu: "Costarica POI 14", ro: "Costarica POI 14", en: "Costarica POI 14" },
-    description: { de: "Description for Costarica POI 14", hu: "Description for Costarica POI 14", ro: "Description for Costarica POI 14", en: "Description for Costarica POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_15",    name: { de: "Costarica POI 15", hu: "Costarica POI 15", ro: "Costarica POI 15", en: "Costarica POI 15" },
-    description: { de: "Description for Costarica POI 15", hu: "Description for Costarica POI 15", ro: "Description for Costarica POI 15", en: "Description for Costarica POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_16",    name: { de: "Costarica POI 16", hu: "Costarica POI 16", ro: "Costarica POI 16", en: "Costarica POI 16" },
-    description: { de: "Description for Costarica POI 16", hu: "Description for Costarica POI 16", ro: "Description for Costarica POI 16", en: "Description for Costarica POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_17",    name: { de: "Costarica POI 17", hu: "Costarica POI 17", ro: "Costarica POI 17", en: "Costarica POI 17" },
-    description: { de: "Description for Costarica POI 17", hu: "Description for Costarica POI 17", ro: "Description for Costarica POI 17", en: "Description for Costarica POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_18",    name: { de: "Costarica POI 18", hu: "Costarica POI 18", ro: "Costarica POI 18", en: "Costarica POI 18" },
-    description: { de: "Description for Costarica POI 18", hu: "Description for Costarica POI 18", ro: "Description for Costarica POI 18", en: "Description for Costarica POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_19",    name: { de: "Costarica POI 19", hu: "Costarica POI 19", ro: "Costarica POI 19", en: "Costarica POI 19" },
-    description: { de: "Description for Costarica POI 19", hu: "Description for Costarica POI 19", ro: "Description for Costarica POI 19", en: "Description for Costarica POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_20",    name: { de: "Costarica POI 20", hu: "Costarica POI 20", ro: "Costarica POI 20", en: "Costarica POI 20" },
-    description: { de: "Description for Costarica POI 20", hu: "Description for Costarica POI 20", ro: "Description for Costarica POI 20", en: "Description for Costarica POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
+  { id: "cr-sanjose", type: "state-capital", parent: "CR", coords: [-84.0833, 9.9333], name: { de: "San José", hu: "San José", ro: "San José", en: "San José" }, description: { de: "Die Hauptstadt und größte Stadt im Zentraltal.", hu: "A Középső-völgyben található főváros és egyben a legnagyobb város.", ro: "Capitala și cel mai mare oraș situat în Valea Centrală.", en: "The capital and largest city located in the Central Valley." } },
+  { id: "cr-alajuela", type: "city", parent: "CR", coords: [-84.2167, 10.0167], name: { de: "Alajuela", hu: "Alajuela", ro: "Alajuela", en: "Alajuela" }, description: { de: "Zweitgrößte Stadt, in der Nähe des internationalen Flughafens gelegen.", hu: "A második legnagyobb város a nemzetközi repülőtér közelében.", ro: "Al doilea oraș ca mărime, situat în apropierea aeroportului internațional.", en: "Second largest city, located near the main international airport." } },
+  { id: "cr-cartago", type: "city", parent: "CR", coords: [-83.9167, 9.8667], name: { de: "Cartago", hu: "Cartago", ro: "Cartago", en: "Cartago" }, description: { de: "Die ehemalige Hauptstadt, bekannt für die Basilika der Engel.", hu: "Egykori főváros, az Angyalok Bazilikájáról ismert.", ro: "Fosta capitală, cunoscută pentru Bazilica Îngerilor.", en: "The former capital, known for the Basilica of Our Lady of the Angels." } },
+  { id: "cr-heredia", type: "city", parent: "CR", coords: [-84.1167, 10.0000], name: { de: "Heredia", hu: "Heredia", ro: "Heredia", en: "Heredia" }, description: { de: "Die 'Stadt der Blumen', bekannt für koloniale Architektur und Universität.", hu: "A 'Virágok városa', gyarmati építészetéről és egyeteméről ismert.", ro: "'Orașul Florilor', cunoscut pentru arhitectura colonială și universitate.", en: "The 'City of Flowers', known for colonial architecture and its university." } },
+  { id: "cr-liberia", type: "city", parent: "CR", coords: [-85.4333, 10.6333], name: { de: "Liberia", hu: "Liberia", ro: "Liberia", en: "Liberia" }, description: { de: "Die Hauptstadt der Provinz Guanacaste, Tor zu Stränden und Nationalparks.", hu: "Guanacaste tartomány fővárosa, kapu a strandokhoz és nemzeti parkokhoz.", ro: "Capitala provinciei Guanacaste, poarta către plaje și parcuri naționale.", en: "Capital of Guanacaste province, gateway to beaches and national parks." } }
 ];
 
 export const costaricaLandmarks: POI[] = [
-  {
-    id: "costarica_21",    name: { de: "Costarica POI 21", hu: "Costarica POI 21", ro: "Costarica POI 21", en: "Costarica POI 21" },
-    description: { de: "Description for Costarica POI 21", hu: "Description for Costarica POI 21", ro: "Description for Costarica POI 21", en: "Description for Costarica POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_22",    name: { de: "Costarica POI 22", hu: "Costarica POI 22", ro: "Costarica POI 22", en: "Costarica POI 22" },
-    description: { de: "Description for Costarica POI 22", hu: "Description for Costarica POI 22", ro: "Description for Costarica POI 22", en: "Description for Costarica POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_23",    name: { de: "Costarica POI 23", hu: "Costarica POI 23", ro: "Costarica POI 23", en: "Costarica POI 23" },
-    description: { de: "Description for Costarica POI 23", hu: "Description for Costarica POI 23", ro: "Description for Costarica POI 23", en: "Description for Costarica POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_24",    name: { de: "Costarica POI 24", hu: "Costarica POI 24", ro: "Costarica POI 24", en: "Costarica POI 24" },
-    description: { de: "Description for Costarica POI 24", hu: "Description for Costarica POI 24", ro: "Description for Costarica POI 24", en: "Description for Costarica POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_25",    name: { de: "Costarica POI 25", hu: "Costarica POI 25", ro: "Costarica POI 25", en: "Costarica POI 25" },
-    description: { de: "Description for Costarica POI 25", hu: "Description for Costarica POI 25", ro: "Description for Costarica POI 25", en: "Description for Costarica POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_26",    name: { de: "Costarica POI 26", hu: "Costarica POI 26", ro: "Costarica POI 26", en: "Costarica POI 26" },
-    description: { de: "Description for Costarica POI 26", hu: "Description for Costarica POI 26", ro: "Description for Costarica POI 26", en: "Description for Costarica POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_27",    name: { de: "Costarica POI 27", hu: "Costarica POI 27", ro: "Costarica POI 27", en: "Costarica POI 27" },
-    description: { de: "Description for Costarica POI 27", hu: "Description for Costarica POI 27", ro: "Description for Costarica POI 27", en: "Description for Costarica POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_28",    name: { de: "Costarica POI 28", hu: "Costarica POI 28", ro: "Costarica POI 28", en: "Costarica POI 28" },
-    description: { de: "Description for Costarica POI 28", hu: "Description for Costarica POI 28", ro: "Description for Costarica POI 28", en: "Description for Costarica POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_29",    name: { de: "Costarica POI 29", hu: "Costarica POI 29", ro: "Costarica POI 29", en: "Costarica POI 29" },
-    description: { de: "Description for Costarica POI 29", hu: "Description for Costarica POI 29", ro: "Description for Costarica POI 29", en: "Description for Costarica POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
-  {
-    id: "costarica_30",    name: { de: "Costarica POI 30", hu: "Costarica POI 30", ro: "Costarica POI 30", en: "Costarica POI 30" },
-    description: { de: "Description for Costarica POI 30", hu: "Description for Costarica POI 30", ro: "Description for Costarica POI 30", en: "Description for Costarica POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'CR'
-  },
+  { id: "cr-arenal", type: "mountain", parent: "CR", coords: [-84.7031, 10.4633], name: { de: "Arenal Vulkan", hu: "Arenal vulkán", ro: "Vulcanul Arenal", en: "Arenal Volcano" }, description: { de: "Ein perfekter kegelförmiger Vulkan, umgeben von heißen Quellen.", hu: "Tökéletes kúp alakú vulkán, amelyet hőforrások vesznek körül.", ro: "Un vulcan cu formă de con perfect, înconjurat de izvoare termale.", en: "A perfectly cone-shaped volcano surrounded by hot springs." } },
+  { id: "cr-manuelantonio", type: "landmark", parent: "CR", coords: [-84.1333, 9.3833], name: { de: "Manuel Antonio Nationalpark", hu: "Manuel Antonio Nemzeti Park", ro: "Parcul Național Manuel Antonio", en: "Manuel Antonio National Park" }, description: { de: "Bekannt für Strände, Dschungel und eine enorme Artenvielfalt.", hu: "Strandjairól, dzsungeléről és hatalmas biodiverzitásáról ismert.", ro: "Cunoscut pentru plaje, junglă și o mare diversitate de specii.", en: "Famous for its beaches, jungle, and immense biodiversity." } },
+  { id: "cr-monteverde", type: "forest", parent: "CR", coords: [-84.8000, 10.3000], name: { de: "Monteverde Nebelwald", hu: "Monteverde felhőerdő", ro: "Pădurea Incețoșată Monteverde", en: "Monteverde Cloud Forest" }, description: { de: "Ein mystischer Nebelwald, Heimat von Quetzal-Vögeln.", hu: "Misztikus felhőerdő, a kvézál (quetzal) madár otthona.", ro: "O pădure încețoșată mistică, habitatul pasării Quetzal.", en: "A mystical cloud forest reserve, home to the resplendent quetzal." } },
+  { id: "cr-tortuguero", type: "landmark", parent: "CR", coords: [-83.5000, 10.5333], name: { de: "Tortuguero Nationalpark", hu: "Tortuguero Nemzeti Park", ro: "Parcul Național Tortuguero", en: "Tortuguero National Park" }, description: { de: "Der 'Amazonas von Costa Rica', berühmt für nistende Meeresschildkröten.", hu: "Costa Rica 'Amazonasa', amely a tengeri teknősök fészkelőhelyéről híres.", ro: "Considerat 'Amazonul din Costa Rica', faimos pentru cuiburile țestoaselor marine.", en: "The 'Amazon of Costa Rica', famous for nesting sea turtles." } },
+  { id: "cr-corcovado", type: "landmark", parent: "CR", coords: [-83.5667, 8.5333], name: { de: "Corcovado Nationalpark", hu: "Corcovado Nemzeti Park", ro: "Parcul Național Corcovado", en: "Corcovado National Park" }, description: { de: "Einer der artenreichsten Orte der Welt auf der Osa-Halbinsel.", hu: "A világ egyik biológiailag legdiverzebb helye az Osa-félszigeten.", ro: "Unul dintre cele mai bogate locuri în biodiversitate din lume.", en: "One of the most biologically intense places on Earth on the Osa Peninsula." } },
+  { id: "cr-tamarindo", type: "city", parent: "CR", coords: [-85.8333, 10.3000], name: { de: "Tamarindo", hu: "Tamarindo", ro: "Tamarindo", en: "Tamarindo" }, description: { de: "Ein beliebter Küstenort und Surf-Hotspot in Guanacaste.", hu: "Népszerű tengerparti város és szörfös központ Guanacastében.", ro: "Un oraș de coastă popular și o destinație de top pentru surfing în Guanacaste.", en: "A popular coastal town and major surfing destination in Guanacaste." } },
+  { id: "cr-poas", type: "mountain", parent: "CR", coords: [-84.2333, 10.2000], name: { de: "Poás Vulkan", hu: "Poás vulkán", ro: "Vulcanul Poás", en: "Poás Volcano" }, description: { de: "Ein aktiver Vulkan mit einem spektakulären, säurehaltigen Kratersee.", hu: "Aktív vulkán egy látványos, savas vizű krátertóval.", ro: "Un vulcan activ cu un lac de crater spectaculos, acid.", en: "An active volcano featuring a spectacular, acidic crater lake." } },
+  { id: "cr-lafortuna", type: "landmark", parent: "CR", coords: [-84.6719, 10.4419], name: { de: "La Fortuna Wasserfall", hu: "La Fortuna vízesés", ro: "Cascada La Fortuna", en: "La Fortuna Waterfall" }, description: { de: "Ein beeindruckender, 70 Meter hoher Wasserfall in der Nähe des Arenal.", hu: "Lenyűgöző, 70 méter magas vízesés az Arenal közelében.", ro: "O cascadă impresionantă de 70 de metri, în apropiere de Arenal.", en: "A stunning 70-meter-high waterfall located near the Arenal Volcano." } },
+  { id: "cr-nationaltheater", type: "historical", parent: "CR", coords: [-84.0767, 9.9333], name: { de: "Nationaltheater von Costa Rica", hu: "Costa Rica-i Nemzeti Színház", ro: "Teatrul Național din Costa Rica", en: "National Theater of Costa Rica" }, description: { de: "Ein prächtiges historisches Gebäude im Herzen von San José.", hu: "Pompás történelmi épület San José szívében.", ro: "O clădire istorică magnifică în inima orașului San José.", en: "A magnificent historic building in the heart of San José." } },
+  { id: "cr-irazu", type: "mountain", parent: "CR", coords: [-83.8500, 9.9792], name: { de: "Irazú Vulkan", hu: "Irazú vulkán", ro: "Vulcanul Irazú", en: "Irazú Volcano" }, description: { de: "Der höchste Vulkan Costa Ricas mit einem grünen Kratersee.", hu: "Costa Rica legmagasabb vulkánja egy zöld krátertóval.", ro: "Cel mai înalt vulcan din Costa Rica, având un lac de crater verde.", en: "The highest volcano in Costa Rica, featuring a green crater lake." } }
 ];
 
 export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks];

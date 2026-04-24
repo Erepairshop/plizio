@@ -5,159 +5,24 @@ export const bahamasCountry: POI[] = [];
 export const bahamasRegions: POI[] = [];
 
 export const bahamasCities: POI[] = [
-  {
-    id: "bahamas_1",    name: { de: "Bahamas POI 1", hu: "Bahamas POI 1", ro: "Bahamas POI 1", en: "Bahamas POI 1" },
-    description: { de: "Description for Bahamas POI 1", hu: "Description for Bahamas POI 1", ro: "Description for Bahamas POI 1", en: "Description for Bahamas POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_2",    name: { de: "Bahamas POI 2", hu: "Bahamas POI 2", ro: "Bahamas POI 2", en: "Bahamas POI 2" },
-    description: { de: "Description for Bahamas POI 2", hu: "Description for Bahamas POI 2", ro: "Description for Bahamas POI 2", en: "Description for Bahamas POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_3",    name: { de: "Bahamas POI 3", hu: "Bahamas POI 3", ro: "Bahamas POI 3", en: "Bahamas POI 3" },
-    description: { de: "Description for Bahamas POI 3", hu: "Description for Bahamas POI 3", ro: "Description for Bahamas POI 3", en: "Description for Bahamas POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_4",    name: { de: "Bahamas POI 4", hu: "Bahamas POI 4", ro: "Bahamas POI 4", en: "Bahamas POI 4" },
-    description: { de: "Description for Bahamas POI 4", hu: "Description for Bahamas POI 4", ro: "Description for Bahamas POI 4", en: "Description for Bahamas POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_5",    name: { de: "Bahamas POI 5", hu: "Bahamas POI 5", ro: "Bahamas POI 5", en: "Bahamas POI 5" },
-    description: { de: "Description for Bahamas POI 5", hu: "Description for Bahamas POI 5", ro: "Description for Bahamas POI 5", en: "Description for Bahamas POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_6",    name: { de: "Bahamas POI 6", hu: "Bahamas POI 6", ro: "Bahamas POI 6", en: "Bahamas POI 6" },
-    description: { de: "Description for Bahamas POI 6", hu: "Description for Bahamas POI 6", ro: "Description for Bahamas POI 6", en: "Description for Bahamas POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_7",    name: { de: "Bahamas POI 7", hu: "Bahamas POI 7", ro: "Bahamas POI 7", en: "Bahamas POI 7" },
-    description: { de: "Description for Bahamas POI 7", hu: "Description for Bahamas POI 7", ro: "Description for Bahamas POI 7", en: "Description for Bahamas POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_8",    name: { de: "Bahamas POI 8", hu: "Bahamas POI 8", ro: "Bahamas POI 8", en: "Bahamas POI 8" },
-    description: { de: "Description for Bahamas POI 8", hu: "Description for Bahamas POI 8", ro: "Description for Bahamas POI 8", en: "Description for Bahamas POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_9",    name: { de: "Bahamas POI 9", hu: "Bahamas POI 9", ro: "Bahamas POI 9", en: "Bahamas POI 9" },
-    description: { de: "Description for Bahamas POI 9", hu: "Description for Bahamas POI 9", ro: "Description for Bahamas POI 9", en: "Description for Bahamas POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_10",    name: { de: "Bahamas POI 10", hu: "Bahamas POI 10", ro: "Bahamas POI 10", en: "Bahamas POI 10" },
-    description: { de: "Description for Bahamas POI 10", hu: "Description for Bahamas POI 10", ro: "Description for Bahamas POI 10", en: "Description for Bahamas POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_11",    name: { de: "Bahamas POI 11", hu: "Bahamas POI 11", ro: "Bahamas POI 11", en: "Bahamas POI 11" },
-    description: { de: "Description for Bahamas POI 11", hu: "Description for Bahamas POI 11", ro: "Description for Bahamas POI 11", en: "Description for Bahamas POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_12",    name: { de: "Bahamas POI 12", hu: "Bahamas POI 12", ro: "Bahamas POI 12", en: "Bahamas POI 12" },
-    description: { de: "Description for Bahamas POI 12", hu: "Description for Bahamas POI 12", ro: "Description for Bahamas POI 12", en: "Description for Bahamas POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_13",    name: { de: "Bahamas POI 13", hu: "Bahamas POI 13", ro: "Bahamas POI 13", en: "Bahamas POI 13" },
-    description: { de: "Description for Bahamas POI 13", hu: "Description for Bahamas POI 13", ro: "Description for Bahamas POI 13", en: "Description for Bahamas POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_14",    name: { de: "Bahamas POI 14", hu: "Bahamas POI 14", ro: "Bahamas POI 14", en: "Bahamas POI 14" },
-    description: { de: "Description for Bahamas POI 14", hu: "Description for Bahamas POI 14", ro: "Description for Bahamas POI 14", en: "Description for Bahamas POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_15",    name: { de: "Bahamas POI 15", hu: "Bahamas POI 15", ro: "Bahamas POI 15", en: "Bahamas POI 15" },
-    description: { de: "Description for Bahamas POI 15", hu: "Description for Bahamas POI 15", ro: "Description for Bahamas POI 15", en: "Description for Bahamas POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_16",    name: { de: "Bahamas POI 16", hu: "Bahamas POI 16", ro: "Bahamas POI 16", en: "Bahamas POI 16" },
-    description: { de: "Description for Bahamas POI 16", hu: "Description for Bahamas POI 16", ro: "Description for Bahamas POI 16", en: "Description for Bahamas POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_17",    name: { de: "Bahamas POI 17", hu: "Bahamas POI 17", ro: "Bahamas POI 17", en: "Bahamas POI 17" },
-    description: { de: "Description for Bahamas POI 17", hu: "Description for Bahamas POI 17", ro: "Description for Bahamas POI 17", en: "Description for Bahamas POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_18",    name: { de: "Bahamas POI 18", hu: "Bahamas POI 18", ro: "Bahamas POI 18", en: "Bahamas POI 18" },
-    description: { de: "Description for Bahamas POI 18", hu: "Description for Bahamas POI 18", ro: "Description for Bahamas POI 18", en: "Description for Bahamas POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_19",    name: { de: "Bahamas POI 19", hu: "Bahamas POI 19", ro: "Bahamas POI 19", en: "Bahamas POI 19" },
-    description: { de: "Description for Bahamas POI 19", hu: "Description for Bahamas POI 19", ro: "Description for Bahamas POI 19", en: "Description for Bahamas POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_20",    name: { de: "Bahamas POI 20", hu: "Bahamas POI 20", ro: "Bahamas POI 20", en: "Bahamas POI 20" },
-    description: { de: "Description for Bahamas POI 20", hu: "Description for Bahamas POI 20", ro: "Description for Bahamas POI 20", en: "Description for Bahamas POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
+  { id: "bs-nassau", type: "state-capital", parent: "BS", coords: [-77.3431, 25.0600], name: { de: "Nassau", hu: "Nassau", ro: "Nassau", en: "Nassau" }, description: { de: "Die Hauptstadt und das kommerzielle Zentrum der Bahamas.", hu: "A Bahama-szigetek fővárosa és kereskedelmi központja.", ro: "Capitala și centrul comercial al Bahamasului.", en: "The capital and commercial hub of the Bahamas." } },
+  { id: "bs-freeport", type: "city", parent: "BS", coords: [-78.6946, 26.5333], name: { de: "Freeport", hu: "Freeport", ro: "Freeport", en: "Freeport" }, description: { de: "Eine Stadt und Freihandelszone auf der Insel Grand Bahama.", hu: "Város és szabadkereskedelmi övezet a Grand Bahama szigeten.", ro: "Un oraș și zonă de comerț liber pe insula Grand Bahama.", en: "A city and free trade zone located on Grand Bahama island." } },
+  { id: "bs-marshharbour", type: "city", parent: "BS", coords: [-77.0636, 26.5412], name: { de: "Marsh Harbour", hu: "Marsh Harbour", ro: "Marsh Harbour", en: "Marsh Harbour" }, description: { de: "Das kommerzielle Zentrum der Abacos-Inseln.", hu: "Az Abaco-szigetek kereskedelmi központja.", ro: "Centrul comercial al insulelor Abacos.", en: "The commercial hub of the Abaco Islands." } },
+  { id: "bs-westend", type: "city", parent: "BS", coords: [-78.9770, 26.6872], name: { de: "West End", hu: "West End", ro: "West End", en: "West End" }, description: { de: "Die älteste Stadt auf Grand Bahama und die Hauptstadt der Insel.", hu: "Grand Bahama legrégebbi városa és szigetének központja.", ro: "Cel mai vechi oraș de pe Grand Bahama și capitala insulei.", en: "The oldest town on Grand Bahama and the island's capital." } },
+  { id: "bs-alicetown", type: "city", parent: "BS", coords: [-79.2972, 25.7275], name: { de: "Alice Town", hu: "Alice Town", ro: "Alice Town", en: "Alice Town" }, description: { de: "Die wichtigste Siedlung auf Bimini, bekannt fürs Sportfischen.", hu: "A Bimini-szigetek legfontosabb települése, sporthorgászatáról ismert.", ro: "Așezarea principală de pe Bimini, cunoscută pentru pescuitul sportiv.", en: "The main settlement on Bimini, known for sport fishing." } }
 ];
 
 export const bahamasLandmarks: POI[] = [
-  {
-    id: "bahamas_21",    name: { de: "Bahamas POI 21", hu: "Bahamas POI 21", ro: "Bahamas POI 21", en: "Bahamas POI 21" },
-    description: { de: "Description for Bahamas POI 21", hu: "Description for Bahamas POI 21", ro: "Description for Bahamas POI 21", en: "Description for Bahamas POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_22",    name: { de: "Bahamas POI 22", hu: "Bahamas POI 22", ro: "Bahamas POI 22", en: "Bahamas POI 22" },
-    description: { de: "Description for Bahamas POI 22", hu: "Description for Bahamas POI 22", ro: "Description for Bahamas POI 22", en: "Description for Bahamas POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_23",    name: { de: "Bahamas POI 23", hu: "Bahamas POI 23", ro: "Bahamas POI 23", en: "Bahamas POI 23" },
-    description: { de: "Description for Bahamas POI 23", hu: "Description for Bahamas POI 23", ro: "Description for Bahamas POI 23", en: "Description for Bahamas POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_24",    name: { de: "Bahamas POI 24", hu: "Bahamas POI 24", ro: "Bahamas POI 24", en: "Bahamas POI 24" },
-    description: { de: "Description for Bahamas POI 24", hu: "Description for Bahamas POI 24", ro: "Description for Bahamas POI 24", en: "Description for Bahamas POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_25",    name: { de: "Bahamas POI 25", hu: "Bahamas POI 25", ro: "Bahamas POI 25", en: "Bahamas POI 25" },
-    description: { de: "Description for Bahamas POI 25", hu: "Description for Bahamas POI 25", ro: "Description for Bahamas POI 25", en: "Description for Bahamas POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_26",    name: { de: "Bahamas POI 26", hu: "Bahamas POI 26", ro: "Bahamas POI 26", en: "Bahamas POI 26" },
-    description: { de: "Description for Bahamas POI 26", hu: "Description for Bahamas POI 26", ro: "Description for Bahamas POI 26", en: "Description for Bahamas POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_27",    name: { de: "Bahamas POI 27", hu: "Bahamas POI 27", ro: "Bahamas POI 27", en: "Bahamas POI 27" },
-    description: { de: "Description for Bahamas POI 27", hu: "Description for Bahamas POI 27", ro: "Description for Bahamas POI 27", en: "Description for Bahamas POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_28",    name: { de: "Bahamas POI 28", hu: "Bahamas POI 28", ro: "Bahamas POI 28", en: "Bahamas POI 28" },
-    description: { de: "Description for Bahamas POI 28", hu: "Description for Bahamas POI 28", ro: "Description for Bahamas POI 28", en: "Description for Bahamas POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_29",    name: { de: "Bahamas POI 29", hu: "Bahamas POI 29", ro: "Bahamas POI 29", en: "Bahamas POI 29" },
-    description: { de: "Description for Bahamas POI 29", hu: "Description for Bahamas POI 29", ro: "Description for Bahamas POI 29", en: "Description for Bahamas POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
-  {
-    id: "bahamas_30",    name: { de: "Bahamas POI 30", hu: "Bahamas POI 30", ro: "Bahamas POI 30", en: "Bahamas POI 30" },
-    description: { de: "Description for Bahamas POI 30", hu: "Description for Bahamas POI 30", ro: "Description for Bahamas POI 30", en: "Description for Bahamas POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'BS'
-  },
+  { id: "bs-paradiseisland", type: "island", parent: "BS", coords: [-77.3200, 25.0800], name: { de: "Paradise Island", hu: "Paradise Island", ro: "Paradise Island", en: "Paradise Island" }, description: { de: "Eine Insel nahe Nassau, dominiert vom riesigen Atlantis-Resort.", hu: "Nassau melletti sziget, amelyet a hatalmas Atlantis luxusüdülő ural.", ro: "O insulă lângă Nassau, dominată de uriașul complex Atlantis.", en: "An island near Nassau dominated by the massive Atlantis resort." } },
+  { id: "bs-pigbeach", type: "landmark", parent: "BS", coords: [-76.4560, 24.2740], name: { de: "Pig Beach (Exuma)", hu: "Pig Beach (Malac-part)", ro: "Pig Beach (Exuma)", en: "Pig Beach" }, description: { de: "Ein unbewohnter Strand in Exuma, bekannt für seine schwimmenden Schweine.", hu: "Lakatlan strand Exumán, amely az úszó malacairól ismert.", ro: "O plajă nelocuită din Exuma, cunoscută pentru porcii săi înotători.", en: "An uninhabited beach in Exuma, known for its swimming pigs." } },
+  { id: "bs-pinksands", type: "landmark", parent: "BS", coords: [-76.6333, 25.5000], name: { de: "Pink Sands Beach", hu: "Pink Sands Beach (Rózsaszín homokos part)", ro: "Plaja Pink Sands", en: "Pink Sands Beach" }, description: { de: "Berühmter rosafarbener Strand auf Harbour Island.", hu: "Híres rózsaszín homokos tengerpart a Harbour-szigeten.", ro: "O faimoasă plajă cu nisip roz de pe insula Harbour.", en: "A famous beach on Harbour Island with pale pink sand." } },
+  { id: "bs-bluehole", type: "landmark", parent: "BS", coords: [-75.0167, 23.1064], name: { de: "Dean's Blue Hole", hu: "Dean kék lyuka", ro: "Dean's Blue Hole", en: "Dean's Blue Hole" }, description: { de: "Das tiefste Salzwasser-Blue-Hole der Welt auf Long Island.", hu: "A világ legmélyebb tengeri víznyelője Long Islanden.", ro: "Cea mai adâncă gaură albastră de apă sărată din lume, pe Long Island.", en: "The world's deepest saltwater blue hole located on Long Island." } },
+  { id: "bs-thunderball", type: "landmark", parent: "BS", coords: [-76.4419, 24.2058], name: { de: "Thunderball Grotto", hu: "Thunderball Grotto", ro: "Grota Thunderball", en: "Thunderball Grotto" }, description: { de: "Unterwasserhöhle in Exuma, Drehort eines James-Bond-Films.", hu: "Vízalatti barlang Exumán, mely egy James Bond-film forgatási helyszíne volt.", ro: "Peșteră subacvatică în Exuma, locație de filmare pentru un film James Bond.", en: "Underwater cave in Exuma, filming location of a James Bond movie." } },
+  { id: "bs-lucayan", type: "landmark", parent: "BS", coords: [-78.3970, 26.6022], name: { de: "Lucayan National Park", hu: "Lucayan Nemzeti Park", ro: "Parcul Național Lucayan", en: "Lucayan National Park" }, description: { de: "Ein Park auf Grand Bahama mit einem der längsten Unterwasserhöhlensysteme.", hu: "A Grand Bahama szigeten található park, a világ egyik leghosszabb víz alatti barlangrendszerével.", ro: "Un parc pe Grand Bahama cu unul dintre cele mai lungi sisteme de peșteri subacvatice.", en: "A park on Grand Bahama featuring one of the longest underwater cave systems." } },
+  { id: "bs-queensstaircase", type: "historical", parent: "BS", coords: [-77.3389, 25.0744], name: { de: "Queen's Staircase", hu: "A Királynő Lépcsője", ro: "Scara Reginei", en: "Queen's Staircase" }, description: { de: "Eine aus solidem Kalkstein gehauene Treppe in Nassau.", hu: "Tömör mészkőből faragott lépcsősor Nassauban.", ro: "O scară sculptată în calcar masiv în Nassau.", en: "A staircase carved out of solid limestone in Nassau." } },
+  { id: "bs-fortfincastle", type: "historical", parent: "BS", coords: [-77.3388, 25.0743], name: { de: "Fort Fincastle", hu: "Fort Fincastle", ro: "Fortul Fincastle", en: "Fort Fincastle" }, description: { de: "Ein kleines, raddampferförmiges Fort, das Nassau bewacht.", hu: "Egy kicsi, gőzhajó alakú erőd, amely Nassaut védi.", ro: "Un mic fort în formă de vapor cu zbaturi care păzește Nassau.", en: "A small paddle-wheel steamer shaped fort guarding Nassau." } },
+  { id: "bs-bluelagoon", type: "island", parent: "BS", coords: [-77.2667, 25.0944], name: { de: "Blue Lagoon Island", hu: "Kék Lagúna-sziget", ro: "Insula Laguna Albastră", en: "Blue Lagoon Island" }, description: { de: "Eine kleine Privatinsel nahe Nassau, beliebt für Delfinbegegnungen.", hu: "Egy kis magánsziget Nassau közelében, mely népszerű a delfinprogramokról.", ro: "O mică insulă privată lângă Nassau, populară pentru întâlnirile cu delfinii.", en: "A small private island near Nassau popular for dolphin encounters." } },
+  { id: "bs-androsreef", type: "landmark", parent: "BS", coords: [-77.8000, 24.5000], name: { de: "Andros Barrier Reef", hu: "Andros-korallzátony", ro: "Bariera de Corali Andros", en: "Andros Barrier Reef" }, description: { de: "Das drittgrößte Barriereriff der Welt, ideal zum Tauchen.", hu: "A világ harmadik legnagyobb korallzátonya, ideális búvárkodáshoz.", ro: "A treia cea mai mare barieră de corali din lume, ideală pentru scufundări.", en: "The third largest barrier reef in the world, perfect for diving." } }
 ];
 
 export const bahamasAllPoi: POI[] = [...bahamasCountry, ...bahamasRegions, ...bahamasCities, ...bahamasLandmarks];

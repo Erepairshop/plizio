@@ -5,159 +5,24 @@ export const nicaraguaCountry: POI[] = [];
 export const nicaraguaRegions: POI[] = [];
 
 export const nicaraguaCities: POI[] = [
-  {
-    id: "nicaragua_1",    name: { de: "Nicaragua POI 1", hu: "Nicaragua POI 1", ro: "Nicaragua POI 1", en: "Nicaragua POI 1" },
-    description: { de: "Description for Nicaragua POI 1", hu: "Description for Nicaragua POI 1", ro: "Description for Nicaragua POI 1", en: "Description for Nicaragua POI 1" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_2",    name: { de: "Nicaragua POI 2", hu: "Nicaragua POI 2", ro: "Nicaragua POI 2", en: "Nicaragua POI 2" },
-    description: { de: "Description for Nicaragua POI 2", hu: "Description for Nicaragua POI 2", ro: "Description for Nicaragua POI 2", en: "Description for Nicaragua POI 2" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_3",    name: { de: "Nicaragua POI 3", hu: "Nicaragua POI 3", ro: "Nicaragua POI 3", en: "Nicaragua POI 3" },
-    description: { de: "Description for Nicaragua POI 3", hu: "Description for Nicaragua POI 3", ro: "Description for Nicaragua POI 3", en: "Description for Nicaragua POI 3" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_4",    name: { de: "Nicaragua POI 4", hu: "Nicaragua POI 4", ro: "Nicaragua POI 4", en: "Nicaragua POI 4" },
-    description: { de: "Description for Nicaragua POI 4", hu: "Description for Nicaragua POI 4", ro: "Description for Nicaragua POI 4", en: "Description for Nicaragua POI 4" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_5",    name: { de: "Nicaragua POI 5", hu: "Nicaragua POI 5", ro: "Nicaragua POI 5", en: "Nicaragua POI 5" },
-    description: { de: "Description for Nicaragua POI 5", hu: "Description for Nicaragua POI 5", ro: "Description for Nicaragua POI 5", en: "Description for Nicaragua POI 5" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_6",    name: { de: "Nicaragua POI 6", hu: "Nicaragua POI 6", ro: "Nicaragua POI 6", en: "Nicaragua POI 6" },
-    description: { de: "Description for Nicaragua POI 6", hu: "Description for Nicaragua POI 6", ro: "Description for Nicaragua POI 6", en: "Description for Nicaragua POI 6" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_7",    name: { de: "Nicaragua POI 7", hu: "Nicaragua POI 7", ro: "Nicaragua POI 7", en: "Nicaragua POI 7" },
-    description: { de: "Description for Nicaragua POI 7", hu: "Description for Nicaragua POI 7", ro: "Description for Nicaragua POI 7", en: "Description for Nicaragua POI 7" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_8",    name: { de: "Nicaragua POI 8", hu: "Nicaragua POI 8", ro: "Nicaragua POI 8", en: "Nicaragua POI 8" },
-    description: { de: "Description for Nicaragua POI 8", hu: "Description for Nicaragua POI 8", ro: "Description for Nicaragua POI 8", en: "Description for Nicaragua POI 8" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_9",    name: { de: "Nicaragua POI 9", hu: "Nicaragua POI 9", ro: "Nicaragua POI 9", en: "Nicaragua POI 9" },
-    description: { de: "Description for Nicaragua POI 9", hu: "Description for Nicaragua POI 9", ro: "Description for Nicaragua POI 9", en: "Description for Nicaragua POI 9" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_10",    name: { de: "Nicaragua POI 10", hu: "Nicaragua POI 10", ro: "Nicaragua POI 10", en: "Nicaragua POI 10" },
-    description: { de: "Description for Nicaragua POI 10", hu: "Description for Nicaragua POI 10", ro: "Description for Nicaragua POI 10", en: "Description for Nicaragua POI 10" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_11",    name: { de: "Nicaragua POI 11", hu: "Nicaragua POI 11", ro: "Nicaragua POI 11", en: "Nicaragua POI 11" },
-    description: { de: "Description for Nicaragua POI 11", hu: "Description for Nicaragua POI 11", ro: "Description for Nicaragua POI 11", en: "Description for Nicaragua POI 11" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_12",    name: { de: "Nicaragua POI 12", hu: "Nicaragua POI 12", ro: "Nicaragua POI 12", en: "Nicaragua POI 12" },
-    description: { de: "Description for Nicaragua POI 12", hu: "Description for Nicaragua POI 12", ro: "Description for Nicaragua POI 12", en: "Description for Nicaragua POI 12" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_13",    name: { de: "Nicaragua POI 13", hu: "Nicaragua POI 13", ro: "Nicaragua POI 13", en: "Nicaragua POI 13" },
-    description: { de: "Description for Nicaragua POI 13", hu: "Description for Nicaragua POI 13", ro: "Description for Nicaragua POI 13", en: "Description for Nicaragua POI 13" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_14",    name: { de: "Nicaragua POI 14", hu: "Nicaragua POI 14", ro: "Nicaragua POI 14", en: "Nicaragua POI 14" },
-    description: { de: "Description for Nicaragua POI 14", hu: "Description for Nicaragua POI 14", ro: "Description for Nicaragua POI 14", en: "Description for Nicaragua POI 14" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_15",    name: { de: "Nicaragua POI 15", hu: "Nicaragua POI 15", ro: "Nicaragua POI 15", en: "Nicaragua POI 15" },
-    description: { de: "Description for Nicaragua POI 15", hu: "Description for Nicaragua POI 15", ro: "Description for Nicaragua POI 15", en: "Description for Nicaragua POI 15" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_16",    name: { de: "Nicaragua POI 16", hu: "Nicaragua POI 16", ro: "Nicaragua POI 16", en: "Nicaragua POI 16" },
-    description: { de: "Description for Nicaragua POI 16", hu: "Description for Nicaragua POI 16", ro: "Description for Nicaragua POI 16", en: "Description for Nicaragua POI 16" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_17",    name: { de: "Nicaragua POI 17", hu: "Nicaragua POI 17", ro: "Nicaragua POI 17", en: "Nicaragua POI 17" },
-    description: { de: "Description for Nicaragua POI 17", hu: "Description for Nicaragua POI 17", ro: "Description for Nicaragua POI 17", en: "Description for Nicaragua POI 17" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_18",    name: { de: "Nicaragua POI 18", hu: "Nicaragua POI 18", ro: "Nicaragua POI 18", en: "Nicaragua POI 18" },
-    description: { de: "Description for Nicaragua POI 18", hu: "Description for Nicaragua POI 18", ro: "Description for Nicaragua POI 18", en: "Description for Nicaragua POI 18" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_19",    name: { de: "Nicaragua POI 19", hu: "Nicaragua POI 19", ro: "Nicaragua POI 19", en: "Nicaragua POI 19" },
-    description: { de: "Description for Nicaragua POI 19", hu: "Description for Nicaragua POI 19", ro: "Description for Nicaragua POI 19", en: "Description for Nicaragua POI 19" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_20",    name: { de: "Nicaragua POI 20", hu: "Nicaragua POI 20", ro: "Nicaragua POI 20", en: "Nicaragua POI 20" },
-    description: { de: "Description for Nicaragua POI 20", hu: "Description for Nicaragua POI 20", ro: "Description for Nicaragua POI 20", en: "Description for Nicaragua POI 20" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
+  { id: "ni-managua", type: "state-capital", parent: "NI", coords: [-86.2500, 12.1364], name: { de: "Managua", hu: "Managua", ro: "Managua", en: "Managua" }, description: { de: "Die Hauptstadt am Managuasee, bekannt für ihre Geschichte.", hu: "A Managua-tó partján fekvő történelmi főváros.", ro: "Capitala de pe lacul Managua, recunoscută pentru istoria sa.", en: "The capital city located on Lake Managua, known for its history." } },
+  { id: "ni-leon", type: "city", parent: "NI", coords: [-86.8780, 12.4380], name: { de: "León", hu: "León", ro: "León", en: "León" }, description: { de: "Historische Stadt mit prachtvoller kolonialer Architektur.", hu: "Történelmi város pompás gyarmati építészettel.", ro: "Oraș istoric cu o arhitectură colonială magnifică.", en: "Historic city showcasing magnificent colonial architecture." } },
+  { id: "ni-granada", type: "city", parent: "NI", coords: [-85.9560, 11.9299], name: { de: "Granada", hu: "Granada", ro: "Granada", en: "Granada" }, description: { de: "Die älteste Kolonialstadt auf dem Festland Amerikas.", hu: "A legrégebbi gyarmati város az amerikai kontinensen.", ro: "Cel mai vechi oraș colonial de pe continentul american.", en: "The oldest colonial city on the mainland Americas." } },
+  { id: "ni-masaya", type: "city", parent: "NI", coords: [-86.0961, 11.9744], name: { de: "Masaya", hu: "Masaya", ro: "Masaya", en: "Masaya" }, description: { de: "Bekannt als das Zentrum nicaraguanischen Kunsthandwerks.", hu: "A nicaraguai kézművesség központjaként ismert város.", ro: "Cunoscut ca centrul meșteșugurilor tradiționale din Nicaragua.", en: "Known as the center of Nicaraguan folklore and handicrafts." } },
+  { id: "ni-esteli", type: "city", parent: "NI", coords: [-86.3538, 13.0918], name: { de: "Estelí", hu: "Estelí", ro: "Estelí", en: "Estelí" }, description: { de: "Eine Stadt im Hochland, bekannt für Zigarrenproduktion.", hu: "Hegyvidéki város, a szivarjairól és falfestményeiről ismert.", ro: "Un oraș de munte, cunoscut pentru producția de trabucuri.", en: "A highland city famous for its cigars and murals." } }
 ];
 
 export const nicaraguaLandmarks: POI[] = [
-  {
-    id: "nicaragua_21",    name: { de: "Nicaragua POI 21", hu: "Nicaragua POI 21", ro: "Nicaragua POI 21", en: "Nicaragua POI 21" },
-    description: { de: "Description for Nicaragua POI 21", hu: "Description for Nicaragua POI 21", ro: "Description for Nicaragua POI 21", en: "Description for Nicaragua POI 21" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_22",    name: { de: "Nicaragua POI 22", hu: "Nicaragua POI 22", ro: "Nicaragua POI 22", en: "Nicaragua POI 22" },
-    description: { de: "Description for Nicaragua POI 22", hu: "Description for Nicaragua POI 22", ro: "Description for Nicaragua POI 22", en: "Description for Nicaragua POI 22" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_23",    name: { de: "Nicaragua POI 23", hu: "Nicaragua POI 23", ro: "Nicaragua POI 23", en: "Nicaragua POI 23" },
-    description: { de: "Description for Nicaragua POI 23", hu: "Description for Nicaragua POI 23", ro: "Description for Nicaragua POI 23", en: "Description for Nicaragua POI 23" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_24",    name: { de: "Nicaragua POI 24", hu: "Nicaragua POI 24", ro: "Nicaragua POI 24", en: "Nicaragua POI 24" },
-    description: { de: "Description for Nicaragua POI 24", hu: "Description for Nicaragua POI 24", ro: "Description for Nicaragua POI 24", en: "Description for Nicaragua POI 24" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_25",    name: { de: "Nicaragua POI 25", hu: "Nicaragua POI 25", ro: "Nicaragua POI 25", en: "Nicaragua POI 25" },
-    description: { de: "Description for Nicaragua POI 25", hu: "Description for Nicaragua POI 25", ro: "Description for Nicaragua POI 25", en: "Description for Nicaragua POI 25" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_26",    name: { de: "Nicaragua POI 26", hu: "Nicaragua POI 26", ro: "Nicaragua POI 26", en: "Nicaragua POI 26" },
-    description: { de: "Description for Nicaragua POI 26", hu: "Description for Nicaragua POI 26", ro: "Description for Nicaragua POI 26", en: "Description for Nicaragua POI 26" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_27",    name: { de: "Nicaragua POI 27", hu: "Nicaragua POI 27", ro: "Nicaragua POI 27", en: "Nicaragua POI 27" },
-    description: { de: "Description for Nicaragua POI 27", hu: "Description for Nicaragua POI 27", ro: "Description for Nicaragua POI 27", en: "Description for Nicaragua POI 27" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_28",    name: { de: "Nicaragua POI 28", hu: "Nicaragua POI 28", ro: "Nicaragua POI 28", en: "Nicaragua POI 28" },
-    description: { de: "Description for Nicaragua POI 28", hu: "Description for Nicaragua POI 28", ro: "Description for Nicaragua POI 28", en: "Description for Nicaragua POI 28" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_29",    name: { de: "Nicaragua POI 29", hu: "Nicaragua POI 29", ro: "Nicaragua POI 29", en: "Nicaragua POI 29" },
-    description: { de: "Description for Nicaragua POI 29", hu: "Description for Nicaragua POI 29", ro: "Description for Nicaragua POI 29", en: "Description for Nicaragua POI 29" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
-  {
-    id: "nicaragua_30",    name: { de: "Nicaragua POI 30", hu: "Nicaragua POI 30", ro: "Nicaragua POI 30", en: "Nicaragua POI 30" },
-    description: { de: "Description for Nicaragua POI 30", hu: "Description for Nicaragua POI 30", ro: "Description for Nicaragua POI 30", en: "Description for Nicaragua POI 30" },
-    coords: [0, 0], type: 'landmark', parent: 'NI'
-  },
+  { id: "ni-ometepe", type: "island", parent: "NI", coords: [-85.5833, 11.5000], name: { de: "Ometepe Insel", hu: "Ometepe-sziget", ro: "Insula Ometepe", en: "Ometepe Island" }, description: { de: "Eine Insel im Nicaraguasee, gebildet durch zwei Vulkane.", hu: "Egy sziget a Nicaragua-tóban, amelyet két vulkán alkot.", ro: "O insulă în Lacul Nicaragua formată de doi vulcani.", en: "An island in Lake Nicaragua formed by two volcanoes." } },
+  { id: "ni-masayavolcano", type: "mountain", parent: "NI", coords: [-86.1614, 11.9854], name: { de: "Masaya Vulkan", hu: "Masaya vulkán", ro: "Vulcanul Masaya", en: "Masaya Volcano" }, description: { de: "Ein aktiver Vulkan, in dessen Krater man die glühende Lava sehen kann.", hu: "Aktív vulkán, amelynek kráterében izzó láva látható.", ro: "Un vulcan activ unde poți vedea lava strălucitoare în crater.", en: "An active volcano where you can see glowing lava in the crater." } },
+  { id: "ni-cerronegro", type: "mountain", parent: "NI", coords: [-86.7028, 12.5064], name: { de: "Cerro Negro", hu: "Cerro Negro", ro: "Cerro Negro", en: "Cerro Negro" }, description: { de: "Ein junger Vulkan, berühmt für das Volcano-Boarding.", hu: "Fiatal vulkán, amely a vulkáni szörfözésről (volcano boarding) híres.", ro: "Un vulcan tânăr, renumit pentru snowboardingul pe cenușă vulcanică.", en: "A young volcano famous for the extreme sport of volcano boarding." } },
+  { id: "ni-somoto", type: "landmark", parent: "NI", coords: [-86.6711, 13.4358], name: { de: "Somoto Canyon", hu: "Somoto-kanyon", ro: "Canionul Somoto", en: "Somoto Canyon" }, description: { de: "Ein beeindruckender, enger Canyon im Norden Nicaraguas.", hu: "Lenyűgöző szűk kanyon Észak-Nicaraguában.", ro: "Un canion îngust și impresionant în nordul Nicaraguei.", en: "An impressive, narrow canyon in northern Nicaragua." } },
+  { id: "ni-apoyo", type: "lake", parent: "NI", coords: [-86.0333, 11.9167], name: { de: "Apoyo Lagune", hu: "Apoyo-lagúna", ro: "Laguna Apoyo", en: "Apoyo Lagoon" }, description: { de: "Ein Kratersee mit klarem, warmem Wasser, ideal zum Schwimmen.", hu: "Krátertó tiszta, meleg vízzel, amely ideális fürdőzésre.", ro: "Un lac de crater cu apă curată și caldă, perfect pentru înot.", en: "A crater lake with clear, warm water ideal for swimming." } },
+  { id: "ni-sanjuandelsur", type: "city", parent: "NI", coords: [-85.8667, 11.2500], name: { de: "San Juan del Sur", hu: "San Juan del Sur", ro: "San Juan del Sur", en: "San Juan del Sur" }, description: { de: "Ein Küstenort, der besonders bei Surfern und Rucksacktouristen beliebt ist.", hu: "Tengerparti település, a szörfösök és a hátizsákos turisták kedvence.", ro: "Un oraș de coastă deosebit de popular printre surferi și backpackeri.", en: "A coastal town extremely popular with surfers and backpackers." } },
+  { id: "ni-cornislands", type: "island", parent: "NI", coords: [-83.0500, 12.1667], name: { de: "Corn Islands", hu: "Corn Islands (Kukorica-szigetek)", ro: "Insulele Corn", en: "Corn Islands" }, description: { de: "Zwei malerische karibische Inseln mit unberührten Stränden.", hu: "Két festői karibi sziget érintetlen strandokkal.", ro: "Două insule pitorești în Caraibe, cu plaje virgine.", en: "Two picturesque Caribbean islands featuring pristine beaches." } },
+  { id: "ni-leoncathedral", type: "historical", parent: "NI", coords: [-86.8786, 12.4356], name: { de: "León Kathedrale", hu: "Leóni katedrális", ro: "Catedrala din León", en: "León Cathedral" }, description: { de: "Die größte Kathedrale Mittelamerikas, ein UNESCO-Welterbe.", hu: "Közép-Amerika legnagyobb katedrálisa, UNESCO világörökség.", ro: "Cea mai mare catedrală din America Centrală, un sit UNESCO.", en: "The largest cathedral in Central America and a UNESCO World Heritage site." } },
+  { id: "ni-mombacho", type: "mountain", parent: "NI", coords: [-85.9667, 11.8267], name: { de: "Mombacho Vulkan", hu: "Mombacho vulkán", ro: "Vulcanul Mombacho", en: "Mombacho Volcano" }, description: { de: "Ein Vulkan mit üppigem Nebelwald und Wanderwegen in der Nähe von Granada.", hu: "Sűrű felhőerdővel borított vulkán túraútvonalakkal Granada közelében.", ro: "Un vulcan cu o pădure încețoșată luxuriantă, aproape de Granada.", en: "A volcano near Granada covered in lush cloud forest with hiking trails." } },
+  { id: "ni-islets", type: "island", parent: "NI", coords: [-85.8667, 11.8833], name: { de: "Isletas de Granada", hu: "Granadai szigetek", ro: "Insulițele Granada", en: "Islets of Granada" }, description: { de: "Über 300 kleine Inseln vulkanischen Ursprungs im Nicaraguasee.", hu: "Több mint 300 vulkáni eredetű apró sziget a Nicaragua-tóban.", ro: "Peste 300 de insulițe vulcanice în Lacul Nicaragua.", en: "Over 300 small islands of volcanic origin in Lake Nicaragua." } }
 ];
 
 export const nicaraguaAllPoi: POI[] = [...nicaraguaCountry, ...nicaraguaRegions, ...nicaraguaCities, ...nicaraguaLandmarks];
