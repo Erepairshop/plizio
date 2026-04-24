@@ -3,19 +3,23 @@ import { useEffect } from "react";
 
 function loadGA() {
   if (typeof window === "undefined") return;
-  if ((window as unknown as Record<string, unknown>).__plizio_ga_loaded) return;
-  (window as unknown as Record<string, unknown>).__plizio_ga_loaded = true;
+  const w = window as unknown as Record<string, unknown>;
+  if (w.__plizio_ga_loaded) return;
+  w.__plizio_ga_loaded = true;
+
+  // CRITICAL ORDER: dataLayer + first gtag calls MUST happen BEFORE gtag.js loads.
+  // gtag.js wraps dataLayer.push on load; if dataLayer is undefined at that point,
+  // gtag.js creates its own and later push() calls are ignored.
+  w.dataLayer = (w.dataLayer as unknown[]) || [];
+  function gtag(...args: unknown[]) { (w.dataLayer as unknown[]).push(args); }
+  (w as unknown as { gtag: typeof gtag }).gtag = gtag;
+  gtag("js", new Date());
+  gtag("config", "G-BR2WCCRFG0", { anonymize_ip: true });
+
   const s = document.createElement("script");
   s.async = true;
   s.src = "https://www.googletagmanager.com/gtag/js?id=G-BR2WCCRFG0";
   document.head.appendChild(s);
-  s.onload = () => {
-    const w = window as unknown as Record<string, unknown>;
-    w.dataLayer = (w.dataLayer as unknown[]) || [];
-    function gtag(...args: unknown[]) { (w.dataLayer as unknown[]).push(args); }
-    gtag("js", new Date());
-    gtag("config", "G-BR2WCCRFG0", { anonymize_ip: true });
-  };
 }
 
 export default function CookieConsent() {
