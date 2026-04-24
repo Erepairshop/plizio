@@ -45,6 +45,80 @@ export const poiExtraDe1: POI[] = [
         "Strategically located on the Danube river.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist das bekannteste Unternehmen in Ingolstadt?",
+          "a": "Der Automobilhersteller Audi hat hier seinen Hauptsitz und sein Stammwerk."
+        },
+        {
+          "q": "Welche literarische Figur ist mit Ingolstadt verbunden?",
+          "a": "Victor Frankenstein erschafft in Mary Shelleys Roman hier sein berühmtes Monster."
+        },
+        {
+          "q": "Wann wurde die erste bayerische Landesuniversität hier gegründet?",
+          "a": "Sie wurde 1472 eröffnet und war über 300 Jahre lang ein wichtiges Bildungszentrum."
+        },
+        {
+          "q": "Was besagt das Reinheitsgebot von 1516?",
+          "a": "Es wurde in Ingolstadt verkündet und besagt, dass Bier nur aus Wasser, Gerste und Hopfen bestehen darf."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Melyik a legismertebb vállalat Ingolstadtban?",
+          "a": "Az Audi autógyártó itt rendelkezik székhellyel és fő gyárral."
+        },
+        {
+          "q": "Melyik irodalmi alak kapcsolódik Ingolstadthoz?",
+          "a": "Victor Frankenstein Mary Shelley regényében itt alkotja meg híres szörnyetegét."
+        },
+        {
+          "q": "Mikor alapították itt az első bajor állami egyetemet?",
+          "a": "1472-ben nyitották meg, és több mint 300 évig fontos oktatási központ volt."
+        },
+        {
+          "q": "Mit mond ki az 1516-os tisztasági törvény?",
+          "a": "Ingolstadtban hirdették ki, és kimondja, hogy a sör csak vízből, árpából és komlóból állhat."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este cea mai cunoscută companie din Ingolstadt?",
+          "a": "Producătorul auto Audi își are sediul central și principala fabrică aici."
+        },
+        {
+          "q": "Ce personaj literar este legat de Ingolstadt?",
+          "a": "Victor Frankenstein creează celebrul său monstru aici, în romanul lui Mary Shelley."
+        },
+        {
+          "q": "Când a fost fondată prima universitate de stat bavareză aici?",
+          "a": "A fost deschisă în 1472 și a fost un centru educațional important timp de peste 300 de ani."
+        },
+        {
+          "q": "Ce prevede Legea Purității din 1516?",
+          "a": "A fost proclamată în Ingolstadt și stabilește că berea trebuie să conțină doar apă, orz și hamei."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the most famous company in Ingolstadt?",
+          "a": "The car manufacturer Audi has its headquarters and main plant here."
+        },
+        {
+          "q": "Which literary character is associated with Ingolstadt?",
+          "a": "Victor Frankenstein creates his famous monster here in Mary Shelley's novel."
+        },
+        {
+          "q": "When was the first Bavarian state university founded here?",
+          "a": "It opened in 1472 and was an important educational center for over 300 years."
+        },
+        {
+          "q": "What does the Purity Law of 1516 state?",
+          "a": "It was proclaimed in Ingolstadt and states that beer may only consist of water, barley, and hops."
+        }
+      ]
+    }
   },
 
   {
@@ -89,6 +163,64 @@ export const poiExtraDe1: POI[] = [
         "A historically significant bishopric since the 5th century.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welche drei Flüsse treffen sich in Passau?",
+          "a": "Donau, Inn und Ilz fließen am sogenannten 'Dreiflüsseeck' zusammen."
+        },
+        {
+          "q": "Was ist das Besondere am Stephansdom?",
+          "a": "Er beherbergt die größte Domorgel der Welt mit fast 18.000 Pfeifen."
+        },
+        {
+          "q": "Warum sind die drei Flüsse gut unterscheidbar?",
+          "a": "Sie haben verschiedene Farben: die Donau blaugrün, der Inn hellgrau und die Ilz schwarz."
+        },
+        {
+          "q": "Welche historische Bedeutung hat Passau für Ungarn?",
+          "a": "Königin Gisela, die Frau des heiligen Stephan von Ungarn, ist hier im Kloster Niedernburg begraben."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Melyik három folyó találkozik Passauban?",
+          "a": "A Duna, az Inn és az Ilz folyik össze az úgynevezett 'Háromfolyam-saroknál'."
+        },
+        {
+          "q": "Mi a különlegessége a Szent István-székesegyháznak?",
+          "a": "Itt található a világ legnagyobb orgonája, amely majdnem 18 000 sípból áll."
+        },
+        {
+          "q": "Miért különíthető el jól a három folyó?",
+          "a": "Eltérő színűek: a Duna kékesszöld, az Inn világosszürke, az Ilz pedig fekete."
+        },
+        {
+          "q": "Milyen történelmi jelentősége van Passaunak Magyarország számára?",
+          "a": "Bajor Gizella, Szent István király felesége a helyi Niedernburg-kolostorban nyugszik."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care sunt cele trei râuri care se întâlnesc în Passau?",
+          "a": "Dunărea, Inn și Ilz converg în așa-numitul 'Colț al celor trei râuri'."
+        },
+        {
+          "q": "Ce este special la Catedrala Sfântul Ștefan?",
+          "a": "Găzduiește cea mai mare orgă de catedrală din lume, cu aproape 18.000 de tuburi."
+        }
+      ],
+      "en": [
+        {
+          "q": "Which three rivers meet in Passau?",
+          "a": "The Danube, Inn, and Ilz flow together at the so-called 'Three Rivers Corner'."
+        },
+        {
+          "q": "What is special about St. Stephen's Cathedral?",
+          "a": "It houses the world's largest cathedral organ with almost 18,000 pipes."
+        }
+      ]
+    }
   },
 
   {
@@ -134,6 +266,80 @@ export const poiExtraDe1: POI[] = [
         "Popular for hiking and ski tours.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie kommt man am besten auf den Wendelstein?",
+          "a": "Man kann entweder die historische Zahnradbahn von Brannenburg oder die Seilbahn von Bayrischzell nutzen."
+        },
+        {
+          "q": "Gibt es auf dem Gipfel eine Kirche?",
+          "a": "Ja, Deutschlands höchstgelegene Kirche, das Wendelsteinkircherl, befindet sich direkt unter dem Gipfel."
+        },
+        {
+          "q": "Was ist die Wendelsteinhöhle?",
+          "a": "Es ist die höchstgelegene Schauhöhle Deutschlands, die durch ein Felsentor im Gipfelbereich zugänglich ist."
+        },
+        {
+          "q": "Wofür wird das Observatorium auf dem Wendelstein genutzt?",
+          "a": "Die Sternwarte der Ludwig-Maximilians-Universität München dient der astronomischen Forschung und Sonnenbeobachtung."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hogyan lehet a legkönnyebben feljutni a Wendelsteinre?",
+          "a": "Vagy a brannenburgi történelmi fogaskerekű vasúttal, vagy a bayrischzelli kötélpályás felvonóval."
+        },
+        {
+          "q": "Van templom a csúcson?",
+          "a": "Igen, Németország legmagasabban fekvő temploma, a Wendelsteinkircherl közvetlenül a csúcs alatt található."
+        },
+        {
+          "q": "Mi az a Wendelstein-barlang?",
+          "a": "Ez Németország legmagasabban fekvő látogatható barlangja, amely a csúcs közelében lévő sziklakapun keresztül érhető el."
+        },
+        {
+          "q": "Mire használják a wendelsteini obszervatóriumot?",
+          "a": "A müncheni Lajos–Miksa Egyetem csillagvizsgálója csillagászati kutatásokra és napmegfigyelésre szolgál."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este cel mai bun mod de a ajunge pe Wendelstein?",
+          "a": "Se poate folosi fie calea ferată istorică cu roată dințată din Brannenburg, fie telecabina din Bayrischzell."
+        },
+        {
+          "q": "Există o biserică pe vârf?",
+          "a": "Da, cea mai înaltă biserică din Germania, Wendelsteinkircherl, se află chiar sub vârf."
+        },
+        {
+          "q": "Ce este peștera Wendelstein?",
+          "a": "Este cea mai înaltă peșteră amenajată din Germania, accesibilă printr-o poartă de stâncă în zona vârfului."
+        },
+        {
+          "q": "La ce este folosit observatorul de pe Wendelstein?",
+          "a": "Observatorul Universității Ludwig Maximilian din München este utilizat pentru cercetare astronomică și observarea soarelui."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the best way to get to the top of the Wendelstein?",
+          "a": "You can use either the historic rack railway from Brannenburg or the cable car from Bayrischzell."
+        },
+        {
+          "q": "Is there a church on the summit?",
+          "a": "Yes, Germany's highest church, the Wendelsteinkircherl, is located directly below the summit."
+        },
+        {
+          "q": "What is the Wendelstein Cave?",
+          "a": "It is Germany's highest show cave, accessible through a rock gate near the summit area."
+        },
+        {
+          "q": "What is the observatory on the Wendelstein used for?",
+          "a": "The observatory of the Ludwig Maximilian University of Munich is used for astronomical research and solar observation."
+        }
+      ]
+    }
   },
 
   {
@@ -179,6 +385,80 @@ export const poiExtraDe1: POI[] = [
         "Part of the Danube river basin.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Durch welche bekannte Stadt fließt die Salzach?",
+          "a": "Die Salzach fließt mitten durch Salzburg und bildet später die Grenze zwischen Bayern und Österreich."
+        },
+        {
+          "q": "Woher hat die Salzach ihren Namen?",
+          "a": "Der Name leitet sich vom Salztransport ab, der früher auf dem Fluss eine zentrale wirtschaftliche Rolle spielte."
+        },
+        {
+          "q": "Wo entspringt die Salzach?",
+          "a": "Sie entspringt in den Kitzbüheler Alpen in Tirol."
+        },
+        {
+          "q": "In welchen Fluss mündet die Salzach?",
+          "a": "Sie mündet bei Haiming in den Inn."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Melyik ismert városon folyik keresztül a Salzach?",
+          "a": "A Salzach Salzburg közepén folyik át, később pedig határt képez Bajorország és Ausztria között."
+        },
+        {
+          "q": "Honnan kapta a nevét a Salzach?",
+          "a": "A név a sószállításból ered, amely korábban központi gazdasági szerepet játszott a folyón."
+        },
+        {
+          "q": "Hol ered a Salzach?",
+          "a": "A tiroli Kitzbüheli-Alpokban ered."
+        },
+        {
+          "q": "Melyik folyóba torkollik a Salzach?",
+          "a": "Haimingnél torkollik az Inn folyóba."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Prin ce oraș cunoscut curge râul Salzach?",
+          "a": "Salzach curge chiar prin centrul orașului Salzburg și formează ulterior granița dintre Bavaria și Austria."
+        },
+        {
+          "q": "De unde provine numele râului Salzach?",
+          "a": "Numele derivă de la transportul sării, care juca în trecut un rol economic central pe râu."
+        },
+        {
+          "q": "Unde izvorăște Salzach?",
+          "a": "Izvorăște în Alpii Kitzbühel din Tirol."
+        },
+        {
+          "q": "In ce râu se varsă Salzach?",
+          "a": "Se varsă în râul Inn, lângă Haiming."
+        }
+      ],
+      "en": [
+        {
+          "q": "Which famous city does the Salzach flow through?",
+          "a": "The Salzach flows through the middle of Salzburg and later forms the border between Bavaria and Austria."
+        },
+        {
+          "q": "Where does the Salzach get its name from?",
+          "a": "The name is derived from salt transport, which used to play a central economic role on the river."
+        },
+        {
+          "q": "Where does the Salzach originate?",
+          "a": "It originates in the Kitzbühel Alps in Tyrol."
+        },
+        {
+          "q": "Which river does the Salzach flow into?",
+          "a": "It flows into the Inn river near Haiming."
+        }
+      ]
+    }
   },
 
   {
@@ -225,6 +505,80 @@ export const poiExtraDe1: POI[] = [
         "Known through the painting 'Der Walchensee' by Lovis Corinth.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie tief ist der Walchensee?",
+          "a": "Mit einer maximalen Tiefe von etwa 190 Metern ist er einer der tiefsten Alpenseen Deutschlands."
+        },
+        {
+          "q": "Warum schimmert der See oft türkis?",
+          "a": "Die Farbe entsteht durch den hohen Gehalt an Kalziumkarbonat und die besondere Reinheit des Wassers."
+        },
+        {
+          "q": "Welcher bekannte Berg liegt direkt am See?",
+          "a": "Der Herzogstand ist der Hausberg des Walchensees und bietet einen berühmten Panoramablick."
+        },
+        {
+          "q": "Wird der See zur Stromerzeugung genutzt?",
+          "a": "Ja, das Walchenseekraftwerk nutzt den Höhenunterschied zum Kochelsee zur Gewinnung von Wasserkraft."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Milyen mély a Walchensee?",
+          "a": "Körülbelül 190 méteres maximális mélységével Németország egyik legmélyebb alpesi tava."
+        },
+        {
+          "q": "Miért csillog a tó gyakran türkizkék színben?",
+          "a": "A színt a magas kalcium-karbonát-tartalom és a víz különleges tisztasága okozza."
+        },
+        {
+          "q": "Melyik ismert hegy fekszik közvetlenül a tónál?",
+          "a": "A Herzogstand a Walchensee melletti hegy, amely híres panorámát kínál."
+        },
+        {
+          "q": "Használják a tavat áramtermelésre?",
+          "a": "Igen, a walchenseei erőmű a Kochelsee-vel szembeni szintkülönbséget használja ki vízi energia termelésére."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cât de adânc este Walchensee?",
+          "a": "Cu o adâncime maximă de aproximativ 190 de metri, este unul dintre cele mai adânce lacuri alpine din Germania."
+        },
+        {
+          "q": "De ce lacul are adesea nuanțe turcoaz?",
+          "a": "Culoarea se datorează conținutului ridicat de carbonat de calciu și purității deosebite a apei."
+        },
+        {
+          "q": "Ce munte cunoscut se află direct lângă lac?",
+          "a": "Herzogstand este muntele emblematic de lângă Walchensee și oferă o vedere panoramică celebră."
+        },
+        {
+          "q": "Este lacul folosit pentru producerea de energie electrică?",
+          "a": "Da, hidrocentrala Walchensee folosește diferența de nivel față de Kochelsee pentru a genera energie."
+        }
+      ],
+      "en": [
+        {
+          "q": "How deep is Lake Walchensee?",
+          "a": "With a maximum depth of about 190 meters, it is one of the deepest Alpine lakes in Germany."
+        },
+        {
+          "q": "Why does the lake often shimmer turquoise?",
+          "a": "The color is caused by the high calcium carbonate content and the exceptional purity of the water."
+        },
+        {
+          "q": "Which well-known mountain is located directly at the lake?",
+          "a": "The Herzogstand is the local mountain of Lake Walchensee and offers a famous panoramic view."
+        },
+        {
+          "q": "Is the lake used for power generation?",
+          "a": "Yes, the Walchensee power station uses the difference in elevation to Lake Kochel to generate hydroelectric power."
+        }
+      ]
+    }
   },
 
   {
@@ -270,6 +624,80 @@ export const poiExtraDe1: POI[] = [
         "Set within the Hofgarten, a historic baroque garden.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wer hat das berühmte Deckenfresko in der Würzburger Residenz gemalt?",
+          "a": "Das riesige Fresko über dem Treppenhaus wurde von dem Venezianer Giovanni Battista Tiepolo geschaffen."
+        },
+        {
+          "q": "Wann wurde die Residenz zum UNESCO-Welterbe erklärt?",
+          "a": "Sie wurde 1981 als eines der ersten Bauwerke in Deutschland in die Welterbeliste aufgenommen."
+        },
+        {
+          "q": "Welcher Architekt entwarf das Gebäude?",
+          "a": "Der Hauptarchitekt war Balthasar Neumann, einer der bedeutendsten Baumeister des Barock."
+        },
+        {
+          "q": "Was ist das Besondere am Treppenhaus?",
+          "a": "Es besitzt das größte zusammenhängende Deckenfresko der Welt, das ohne Stützsäulen die enorme Fläche überspannt."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Ki festette a würzburgi rezidencia híres mennyezeti freskóját?",
+          "a": "A lépcsőház feletti hatalmas freskót a velencei Giovanni Battista Tiepolo készítette."
+        },
+        {
+          "q": "Mikor nyilvánították a rezidenciát az UNESCO Világörökség részévé?",
+          "a": "1981-ben, az egyik első németországi épületként került fel a listára."
+        },
+        {
+          "q": "Melyik építész tervezte az épületet?",
+          "a": "A főépítész Balthasar Neumann volt, a barokk kor egyik legjelentősebb mestere."
+        },
+        {
+          "q": "Mi a különlegessége a lépcsőháznak?",
+          "a": "Itt található a világ legnagyobb összefüggő mennyezeti freskója, amely támasztóoszlopok nélkül hidalja át a hatalmas teret."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cine a pictat faimoasa frescă de pe tavanul Reședinței din Würzburg?",
+          "a": "Uriașa frescă de deasupra casei scării a fost creată de venețianul Giovanni Battista Tiepolo."
+        },
+        {
+          "q": "Când a fost declarată Reședința patrimoniu mondial UNESCO?",
+          "a": "A fost inclusă pe listă în 1981, fiind unul dintre primele monumente din Germania care a primit această distincție."
+        },
+        {
+          "q": "Ce arhitect a proiectat clădirea?",
+          "a": "Arhitectul principal a fost Balthasar Neumann, unul dintre cei mai importanți maeștri ai barocului."
+        },
+        {
+          "q": "Ce este special la casa scării?",
+          "a": "Deține cea mai mare frescă de tavan continuă din lume, care acoperă o suprafață enormă fără coloane de susținere."
+        }
+      ],
+      "en": [
+        {
+          "q": "Who painted the famous ceiling fresco in the Würzburg Residence?",
+          "a": "The giant fresco above the staircase was created by the Venetian Giovanni Battista Tiepolo."
+        },
+        {
+          "q": "When was the Residence declared a UNESCO World Heritage Site?",
+          "a": "It was added to the World Heritage List in 1981 as one of the first buildings in Germany."
+        },
+        {
+          "q": "Which architect designed the building?",
+          "a": "The main architect was Balthasar Neumann, one of the most important builders of the Baroque period."
+        },
+        {
+          "q": "What is special about the staircase?",
+          "a": "It features the world's largest single ceiling fresco, spanning the enormous area without supporting columns."
+        }
+      ]
+    }
   },
 
   {
@@ -316,6 +744,80 @@ export const poiExtraDe1: POI[] = [
         "Nearby stands Germany's oldest surviving stone bridge from the 12th century.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie heißt der Regensburger Dom offiziell?",
+          "a": "Er trägt den Namen Kathedrale St. Peter."
+        },
+        {
+          "q": "Was ist das Besondere an der Architektur des Doms?",
+          "a": "Er gilt als das Hauptwerk der Gotik in Bayern und orientiert sich an französischen Vorbildern."
+        },
+        {
+          "q": "Wer sind die 'Regensburger Domspatzen'?",
+          "a": "Es ist der weltberühmte Knabenchor des Doms, dessen Tradition über 1000 Jahre zurückreicht."
+        },
+        {
+          "q": "Gibt es im Dom mittelalterliche Glasmalereien?",
+          "a": "Ja, der Dom besitzt einen der umfangreichsten Bestände an originalen Glasfenstern aus dem 13. und 14. Jahrhundert in Deutschland."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi a regensburgi dóm hivatalos neve?",
+          "a": "Szent Péter-katedrális a neve."
+        },
+        {
+          "q": "Mi a dóm építészetének különlegessége?",
+          "a": "A gótika legfontosabb bajorországi alkotásának tekintik, amely francia mintákat követ."
+        },
+        {
+          "q": "Kik azok a 'Regensburger Domspatzen'?",
+          "a": "A dóm világhírű fiúkórusa, amelynek hagyománya több mint 1000 évre nyúlik vissza."
+        },
+        {
+          "q": "Vannak középkori üvegfestmények a dómban?",
+          "a": "Igen, a dóm Németország egyik leggazdagabb eredeti, 13. és 14. századi üvegablak-gyűjteményével rendelkezik."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este numele oficial al Catedralei din Regensburg?",
+          "a": "Se numește Catedrala Sfântul Petru."
+        },
+        {
+          "q": "Ce este special la arhitectura catedralei?",
+          "a": "Este considerată principala operă a stilului gotic din Bavaria, fiind inspirată de modelele franceze."
+        },
+        {
+          "q": "Cine sunt 'Regensburger Domspatzen'?",
+          "a": "Este corul de băieți al catedralei, celebru în întreaga lume, cu o tradiție de peste 1000 de ani."
+        },
+        {
+          "q": "Există vitralii medievale în catedrală?",
+          "a": "Da, catedrala deține una dintre cele mai vaste colecții de vitralii originale din secolele XIII și XIV din Germania."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the official name of Regensburg Cathedral?",
+          "a": "It is officially named St. Peter's Cathedral."
+        },
+        {
+          "q": "What is special about the cathedral's architecture?",
+          "a": "It is considered the primary work of Gothic architecture in Bavaria and is modeled after French examples."
+        },
+        {
+          "q": "Who are the 'Regensburger Domspatzen'?",
+          "a": "It is the world-famous boys' choir of the cathedral, with a tradition spanning over 1000 years."
+        },
+        {
+          "q": "Are there medieval stained glass windows in the cathedral?",
+          "a": "Yes, the cathedral has one of the most extensive collections of original 13th and 14th-century glass windows in Germany."
+        }
+      ]
+    }
   },
 
   {
@@ -360,6 +862,80 @@ export const poiExtraDe1: POI[] = [
         "An important recreational area for the Upper Franconia region.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo liegt der Frankenwald?",
+          "a": "Er befindet sich im Norden Bayerns, an der Grenze zu Thüringen."
+        },
+        {
+          "q": "Was war historisch ein wichtiges Handwerk im Frankenwald?",
+          "a": "Die Flößerei war über Jahrhunderte ein bedeutender Wirtschaftszweig, um Holz in entferntere Städte zu transportieren."
+        },
+        {
+          "q": "Wie wird der Frankenwald oft genannt?",
+          "a": "Er wird wegen seiner dichten Bewaldung oft als 'Grüne Krone Bayerns' bezeichnet."
+        },
+        {
+          "q": "Welche Wanderwege gibt es dort?",
+          "a": "Der Frankenweg ist einer der bekanntesten Fernwanderwege, der durch die Region führt."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található a Frankenwald?",
+          "a": "Bajorország északi részén fekszik, a türingiai határ mentén."
+        },
+        {
+          "q": "Mi volt a Frankenwald történelmileg fontos mestersége?",
+          "a": "A tutajozás évszázadokon át jelentős gazdasági ágazat volt a fa távolabbi városokba történő szállításához."
+        },
+        {
+          "q": "Hogyan nevezik gyakran a Frankenwaldot?",
+          "a": "Sűrű erdői miatt gyakran 'Bajorország zöld koronájának' hívják."
+        },
+        {
+          "q": "Milyen túraútvonalak vannak ott?",
+          "a": "A Frankenweg az egyik legismertebb távolsági túraútvonal, amely átszeli a régiót."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află Pădurea Franconiană (Frankenwald)?",
+          "a": "Este situată în nordul Bavariei, la granița cu Turingia."
+        },
+        {
+          "q": "Ce meșteșug a fost important istoric în Frankenwald?",
+          "a": "Plutăritul a fost o ramură economică semnificativă timp de secole, folosită pentru a transporta lemnul către orașe îndepărtate."
+        },
+        {
+          "q": "Cum este numit adesea Frankenwald?",
+          "a": "Datorită pădurilor sale dese, este adesea supranumită 'Coroana verde a Bavariei'."
+        },
+        {
+          "q": "Ce trasee de drumeție există acolo?",
+          "a": "Frankenweg este unul dintre cele mai cunoscute trasee de drumeție pe distanțe lungi care traversează regiunea."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is the Franconian Forest (Frankenwald) located?",
+          "a": "It is located in northern Bavaria, on the border with Thuringia."
+        },
+        {
+          "q": "What was a historically important craft in the Franconian Forest?",
+          "a": "Rafting was a significant economic sector for centuries, used to transport wood to distant cities."
+        },
+        {
+          "q": "What is the Franconian Forest often called?",
+          "a": "Due to its dense forests, it is often referred to as the 'Green Crown of Bavaria'."
+        },
+        {
+          "q": "What hiking trails are there?",
+          "a": "The Frankenweg is one of the most famous long-distance hiking trails passing through the region."
+        }
+      ]
+    }
   },
 
   {
@@ -405,6 +981,80 @@ export const poiExtraDe1: POI[] = [
         "Today the palace houses several museums.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welchen Zweck erfüllte Schloss Nymphenburg ursprünglich?",
+          "a": "Es wurde als Sommerresidenz für die bayerischen Kurfürsten und Könige aus dem Hause Wittelsbach erbaut."
+        },
+        {
+          "q": "Wer wurde im Schloss Nymphenburg geboren?",
+          "a": "König Ludwig II. von Bayern, bekannt als der 'Märchenkönig', kam hier 1845 zur Welt."
+        },
+        {
+          "q": "Was kann man im Schlosspark besichtigen?",
+          "a": "Neben den Gartenanlagen gibt es mehrere Parkburgen, wie die prachtvolle Amalienburg oder die Badenburg."
+        },
+        {
+          "q": "Gibt es dort Museen?",
+          "a": "Ja, im Schloss befinden sich unter anderem das Marstallmuseum mit historischen Kutschen und die Porzellanmanufaktur Nymphenburg."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi volt eredetileg a Nymphenburgi kastély célja?",
+          "a": "A bajor választófejedelmek és a Wittelsbach-házi királyok nyári rezidenciájaként épült."
+        },
+        {
+          "q": "Ki született a Nymphenburgi kastélyban?",
+          "a": "II. Lajos bajor király, a 'mesekirály' itt látta meg a napvilágot 1845-ben."
+        },
+        {
+          "q": "Mit lehet megtekinteni a kastélyparkban?",
+          "a": "A kerteken kívül több kisebb épület, úgynevezett parki kastély is található itt, mint például a pompás Amalienburg vagy a Badenburg."
+        },
+        {
+          "q": "Vannak ott múzeumok?",
+          "a": "Igen, a kastélyban található többek között a Marstallmuseum történelmi kocsikkal és a Nymphenburgi Porcelánmanufaktúra."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care a fost scopul inițial al Palatului Nymphenburg?",
+          "a": "A fost construit ca reședință de vară pentru electorii și regii bavarezi din casa de Wittelsbach."
+        },
+        {
+          "q": "Cine s-a născut în Palatul Nymphenburg?",
+          "a": "Regele Ludovic al II-lea al Bavariei, cunoscut sub numele de 'Regele Basmului', s-a născut aici în 1845."
+        },
+        {
+          "q": "Ce se poate vizita în parcul palatului?",
+          "a": "Pe lângă grădini, există mai multe pavilioane, cum ar fi splendida Amalienburg sau Badenburg."
+        },
+        {
+          "q": "Există muzee acolo?",
+          "a": "Da, în palat se află, printre altele, Marstallmuseum cu trăsuri istorice și Fabrica de Porțelan Nymphenburg."
+        }
+      ],
+      "en": [
+        {
+          "q": "What was the original purpose of Nymphenburg Palace?",
+          "a": "It was built as a summer residence for the Bavarian electors and kings from the House of Wittelsbach."
+        },
+        {
+          "q": "Who was born in Nymphenburg Palace?",
+          "a": "King Ludwig II of Bavaria, known as the 'Fairytale King', was born here in 1845."
+        },
+        {
+          "q": "What can you see in the palace park?",
+          "a": "In addition to the gardens, there are several park pavilions, such as the magnificent Amalienburg or the Badenburg."
+        },
+        {
+          "q": "Are there museums there?",
+          "a": "Yes, the palace houses the Marstallmuseum with historic carriages and the Nymphenburg Porcelain Manufactory."
+        }
+      ]
+    }
   },
 
   {
@@ -449,6 +1099,80 @@ export const poiExtraDe1: POI[] = [
         "Partly protected by a Protected Geographical Indication (PGI).",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist das Besondere an der Hallertau?",
+          "a": "Sie gilt als das größte zusammenhängende Hopfenanbaugebiet der Welt."
+        },
+        {
+          "q": "Wofür wird der Hopfen aus der Hallertau hauptsächlich verwendet?",
+          "a": "Der Großteil der Ernte wird für die Bierbrauerei verwendet und weltweit exportiert."
+        },
+        {
+          "q": "Wann findet die Hopfenernte statt?",
+          "a": "Die Erntezeit ist üblicherweise im Spätsommer, etwa Ende August bis September."
+        },
+        {
+          "q": "Gibt es ein Museum zum Thema Hopfen?",
+          "a": "Ja, in Wolnzach befindet sich das Deutsche Hopfenmuseum, das über die Geschichte und Technik des Anbaus informiert."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi a Hallertau különlegessége?",
+          "a": "Ez a világ legnagyobb összefüggő komlótermesztő vidéke."
+        },
+        {
+          "q": "Mire használják elsősorban a Hallertau-ból származó komlót?",
+          "a": "A termés nagy részét sörfőzéshez használják fel, és világszerte exportálják."
+        },
+        {
+          "q": "Mikor van a komlóaratás?",
+          "a": "Az aratási időszak általában nyár végén, augusztus végétől szeptemberig tart."
+        },
+        {
+          "q": "Van a komlónak szentelt múzeum?",
+          "a": "Igen, Wolnzachban található a Német Komlómúzeum, amely bemutatja a termesztés történetét és technikáját."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce este special la Hallertau?",
+          "a": "Este considerată cea mai mare regiune contiguă de cultivare a hameiului din lume."
+        },
+        {
+          "q": "Pentru ce este folosit în principal hameiul din Hallertau?",
+          "a": "Cea mai mare parte a recoltei este utilizată în industria berii și este exportată în întreaga lume."
+        },
+        {
+          "q": "Când are loc recolta de hamei?",
+          "a": "Recoltarea are loc de obicei la sfârșitul verii, de la sfârșitul lunii august până în septembrie."
+        },
+        {
+          "q": "Există un muzeu dedicat hameiului?",
+          "a": "Da, în Wolnzach se află Muzeul German al Hameiului, care oferă informații despre istoria și tehnica cultivării."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is special about the Hallertau?",
+          "a": "It is considered the largest contiguous hop-growing region in the world."
+        },
+        {
+          "q": "What is the hops from the Hallertau mainly used for?",
+          "a": "The majority of the harvest is used for brewing beer and is exported worldwide."
+        },
+        {
+          "q": "When does the hop harvest take place?",
+          "a": "Harvest time is usually in late summer, from about late August to September."
+        },
+        {
+          "q": "Is there a museum about hops?",
+          "a": "Yes, the German Hops Museum is located in Wolnzach, providing information on the history and technology of hop growing."
+        }
+      ]
+    }
   },
 
   // ─── DE-NW Nordrhein-Westfalen (+10) ────────────────────────────────────────
@@ -495,6 +1219,80 @@ export const poiExtraDe1: POI[] = [
         "Münster lies in the Münsterland, a flat parkland landscape.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist das wichtigste Fortbewegungsmittel in Münster?",
+          "a": "Münster gilt als die Fahrradhauptstadt Deutschlands; es gibt dort mehr Fahrräder als Einwohner."
+        },
+        {
+          "q": "Was war der 'Westfälische Friede'?",
+          "a": "Ein 1648 in Münster und Osnabrück geschlossener Friedensvertrag, der den Dreißigjährigen Krieg beendete."
+        },
+        {
+          "q": "Was passierte im 16. Jahrhundert mit den Wiedertäufern in Münster?",
+          "a": "Die Wiedertäufer errichteten eine radikale Herrschaft, die 1535 gewaltsam beendet wurde; die Käfige ihrer Anführer hängen noch heute am Turm der Lambertikirche."
+        },
+        {
+          "q": "Wie heißt der große See im Stadtgebiet?",
+          "a": "Der Aasee ist ein künstlich angelegter See, der als beliebtes Naherholungsgebiet dient."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi a legfontosabb közlekedési eszköz Münsterben?",
+          "a": "Münster Németország kerékpáros fővárosa; több bicikli van ott, mint lakos."
+        },
+        {
+          "q": "Mi volt a 'vesztfáliai béke'?",
+          "a": "Egy 1648-ban Münsterben és Osnabrückben kötött békeszerződés, amely véget vetett a harmincéves háborúnak."
+        },
+        {
+          "q": "Mi történt az újrakeresztelkedőkkel Münsterben a 16. században?",
+          "a": "Az újrakeresztelkedők radikális uralmat hoztak létre, amelyet 1535-ben erőszakkal levertek; vezetőik ketrecei ma is láthatóak a Szent Lambert-templom tornyán."
+        },
+        {
+          "q": "Hogy hívják a város területén található nagy tavat?",
+          "a": "Az Aasee egy mesterséges tó, amely népszerű pihenőhelyként szolgál."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este cel mai important mijloc de transport în Münster?",
+          "a": "Münster este considerat capitala bicicletelor din Germania; există mai multe biciclete decât locuitori."
+        },
+        {
+          "q": "Ce a fost 'Pacea Westfalică'?",
+          "a": "Un tratat de pace semnat în 1648 la Münster și Osnabrück, care a pus capăt Războiului de Treizeci de Ani."
+        },
+        {
+          "q": "Ce s-a întâmplat cu anabaptiștii din Münster în secolul al XVI-lea?",
+          "a": "Anabaptiștii au stabilit o guvernare radicală, care a fost înăbușită violent în 1535; cuștile liderilor lor sunt suspendate și astăzi pe turnul bisericii Sf. Lamberti."
+        },
+        {
+          "q": "Cum se numește marele lac din zona orașului?",
+          "a": "Aasee este un lac artificial care servește ca zonă populară de recreere."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the most important means of transport in Münster?",
+          "a": "Münster is considered the bicycle capital of Germany; there are more bicycles than inhabitants."
+        },
+        {
+          "q": "What was the 'Peace of Westphalia'?",
+          "a": "A peace treaty signed in 1648 in Münster and Osnabrück, ending the Thirty Years' War."
+        },
+        {
+          "q": "What happened to the Anabaptists in Münster in the 16th century?",
+          "a": "The Anabaptists established a radical rule that was violently ended in 1535; the cages of their leaders still hang from the tower of St. Lamberti Church today."
+        },
+        {
+          "q": "What is the name of the large lake in the city area?",
+          "a": "The Aasee is an artificial lake that serves as a popular recreation area."
+        }
+      ]
+    }
   },
 
   {
@@ -539,6 +1337,80 @@ export const poiExtraDe1: POI[] = [
         "Wuppertal was created in 1929 by the merger of several towns.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist das berühmteste Verkehrsmittel in Wuppertal?",
+          "a": "Die Wuppertaler Schwebebahn ist ein weltweit einzigartiges technisches Denkmal und wichtiges Nahverkehrsmittel."
+        },
+        {
+          "q": "Wer war der bekannteste Sohn der Stadt?",
+          "a": "Friedrich Engels, der Mitbegründer des Marxismus, wurde 1820 in Barmen (heute Wuppertal) geboren."
+        },
+        {
+          "q": "Was ist der 'Grüne Zoo'?",
+          "a": "Es ist der Tierpark von Wuppertal, der für seine landschaftlich reizvolle Lage und seine Elefantenanlage bekannt ist."
+        },
+        {
+          "q": "Welche Rolle spielte Wuppertal in der Industriegeschichte?",
+          "a": "Wuppertal war im 19. Jahrhundert eines der Zentren der deutschen Textilindustrie."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi a leghíresebb közlekedési eszköz Wuppertalban?",
+          "a": "A Wuppertali Függővasút egy világszerte egyedülálló technikai műemlék és fontos tömegközlekedési eszköz."
+        },
+        {
+          "q": "Ki volt a város legismertebb szülötte?",
+          "a": "Friedrich Engels, a marxizmus társalapítója 1820-ban született Barmenben (ma Wuppertal része)."
+        },
+        {
+          "q": "Mi az a 'Zöld Állatkert'?",
+          "a": "Ez Wuppertal állatkertje, amely festői elhelyezkedéséről és elefántkifutójáról ismert."
+        },
+        {
+          "q": "Milyen szerepet játszott Wuppertal az ipartörténetben?",
+          "a": "Wuppertal a 19. században a német textilipar egyik központja volt."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este cel mai faimos mijloc de transport din Wuppertal?",
+          "a": "Trenul suspendat din Wuppertal (Schwebebahn) este un monument tehnic unic în lume și un mijloc important de transport public."
+        },
+        {
+          "q": "Cine a fost cel mai cunoscut fiu al orașului?",
+          "a": "Friedrich Engels, cofondatorul marxismului, s-a născut în 1820 la Barmen (astăzi parte din Wuppertal)."
+        },
+        {
+          "q": "Ce este 'Grüner Zoo'?",
+          "a": "Este grădina zoologică din Wuppertal, cunoscută pentru așezarea sa pitorească și pentru padocul elefanților."
+        },
+        {
+          "q": "Ce rol a jucat Wuppertal în istoria industrială?",
+          "a": "În secolul al XIX-lea, Wuppertal a fost unul dintre centrele industriei textile germane."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the most famous means of transport in Wuppertal?",
+          "a": "The Wuppertal Suspension Railway (Schwebebahn) is a globally unique technical monument and an important public transport system."
+        },
+        {
+          "q": "Who was the city's most famous son?",
+          "a": "Friedrich Engels, the co-founder of Marxism, was born in 1820 in Barmen (now Wuppertal)."
+        },
+        {
+          "q": "What is the 'Green Zoo'?",
+          "a": "It is Wuppertal's zoo, known for its scenic location and its elephant enclosure."
+        },
+        {
+          "q": "What role did Wuppertal play in industrial history?",
+          "a": "Wuppertal was one of the centers of the German textile industry in the 19th century."
+        }
+      ]
+    }
   },
 
   {
@@ -584,6 +1456,80 @@ export const poiExtraDe1: POI[] = [
         "Gives its name to the Lippe district.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo fließt die Lippe?",
+          "a": "Die Lippe fließt durch Nordrhein-Westfalen und mündet bei Wesel in den Rhein."
+        },
+        {
+          "q": "Wie lang ist die Lippe?",
+          "a": "Sie ist etwa 220 Kilometer lang und der längste Fluss Westfalens."
+        },
+        {
+          "q": "War die Lippe früher für die Schifffahrt wichtig?",
+          "a": "Ja, sie war historisch ein bedeutender Transportweg, insbesondere für Salz und später für Kohle."
+        },
+        {
+          "q": "Welche bekannten Städte liegen an der Lippe?",
+          "a": "Städte wie Paderborn, Lippstadt, Hamm, Lünen und Marl liegen an ihrem Lauf."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol folyik a Lippe?",
+          "a": "A Lippe Észak-Rajna-Vesztfálián folyik keresztül, és Weselnél torkollik a Rajnába."
+        },
+        {
+          "q": "Milyen hosszú a Lippe?",
+          "a": "Körülbelül 220 kilométer hosszú, és Vesztfália leghosszabb folyója."
+        },
+        {
+          "q": "Fontos volt-e régebben a Lippe a hajózás szempontjából?",
+          "a": "Igen, történelmileg jelentős szállítási útvonal volt, különösen a só, később pedig a szén számára."
+        },
+        {
+          "q": "Mely ismert városok fekszenek a Lippe mentén?",
+          "a": "Olyan városok fekszenek a folyó mentén, mint Paderborn, Lippstadt, Hamm, Lünen és Marl."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde curge râul Lippe?",
+          "a": "Râul Lippe curge prin Renania de Nord-Westfalia și se varsă în Rin la Wesel."
+        },
+        {
+          "q": "Cât de lung este râul Lippe?",
+          "a": "Are o lungime de aproximativ 220 de kilometri și este cel mai lung râu din Westfalia."
+        },
+        {
+          "q": "A fost râul Lippe important pentru navigație în trecut?",
+          "a": "Da, a fost o cale de transport istorică importantă, în special pentru sare și mai târziu pentru cărbune."
+        },
+        {
+          "q": "Ce orașe cunoscute se află pe râul Lippe?",
+          "a": "Orașe precum Paderborn, Lippstadt, Hamm, Lünen și Marl sunt situate de-a lungul cursului său."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where does the Lippe flow?",
+          "a": "The Lippe flows through North Rhine-Westphalia and flows into the Rhine at Wesel."
+        },
+        {
+          "q": "How long is the Lippe?",
+          "a": "It is about 220 kilometers long and the longest river in Westphalia."
+        },
+        {
+          "q": "Was the Lippe important for shipping in the past?",
+          "a": "Yes, it was a significant historical transport route, especially for salt and later for coal."
+        },
+        {
+          "q": "Which well-known cities lie on the Lippe?",
+          "a": "Cities such as Paderborn, Lippstadt, Hamm, Lünen, and Marl are located along its course."
+        }
+      ]
+    }
   },
 
   {
@@ -630,6 +1576,80 @@ export const poiExtraDe1: POI[] = [
         "Popular excursion destination in the East Westphalia region.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie lange dauerte der Bau des Kölner Doms?",
+          "a": "Die Bauzeit betrug insgesamt über 600 Jahre, von der Grundsteinlegung 1248 bis zur Vollendung 1880."
+        },
+        {
+          "q": "Welche bedeutenden Reliquien werden im Dom aufbewahrt?",
+          "a": "Der Dreikönigenschrein enthält die Gebeine der Heiligen Drei Könige."
+        },
+        {
+          "q": "War der Kölner Dom einst das höchste Gebäude der Welt?",
+          "a": "Ja, von 1880 bis 1884 war er mit 157 Metern das höchste Bauwerk der Erde."
+        },
+        {
+          "q": "Wie viele Stufen muss man steigen, um auf den Turm zu gelangen?",
+          "a": "Man muss 533 Stufen erklimmen, um die Aussichtsplattform des Südturms zu erreichen."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mennyi ideig tartott a kölni dóm építése?",
+          "a": "Az építés összesen több mint 600 évig tartott, az 1248-as alapkőletételtől az 1880-as befejezésig."
+        },
+        {
+          "q": "Milyen jelentős ereklyéket őriznek a dómban?",
+          "a": "A Háromkirályok-ereklyetartó a napkeleti bölcsek földi maradványait tartalmazza."
+        },
+        {
+          "q": "Volt-e valaha a kölni dóm a világ legmagasabb épülete?",
+          "a": "Igen, 1880 és 1884 között 157 méteres magasságával a világ legmagasabb építménye volt."
+        },
+        {
+          "q": "Hány lépcsőfokot kell megmászni a toronyba jutáshoz?",
+          "a": "533 lépcsőfokot kell megmászni a déli torony kilátóteraszának eléréséhez."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cât timp a durat construcția Catedralei din Köln?",
+          "a": "Construcția a durat în total peste 600 de ani, de la punerea pietrei de temelie în 1248 până la finalizarea în 1880."
+        },
+        {
+          "q": "Ce relicve importante sunt păstrate în catedrală?",
+          "a": "Racla celor Trei Magi conține moaștele Sfinților Trei Magi de la Răsărit."
+        },
+        {
+          "q": "A fost Catedrala din Köln cândva cea mai înaltă clădire din lume?",
+          "a": "Da, din 1880 până în 1884 a fost cea mai înaltă structură de pe Pământ, având 157 de metri."
+        },
+        {
+          "q": "Câte trepte trebuie urcate pentru a ajunge în turn?",
+          "a": "Trebuie urcate 533 de trepte pentru a ajunge la platforma de observație a turnului de sud."
+        }
+      ],
+      "en": [
+        {
+          "q": "How long did it take to build Cologne Cathedral?",
+          "a": "The construction took over 600 years in total, from the laying of the foundation stone in 1248 to completion in 1880."
+        },
+        {
+          "q": "What significant relics are kept in the cathedral?",
+          "a": "The Shrine of the Three Kings contains the bones of the biblical Three Wise Men."
+        },
+        {
+          "q": "Was Cologne Cathedral once the tallest building in the world?",
+          "a": "Yes, from 1880 to 1884, at 157 meters, it was the tallest structure on Earth."
+        },
+        {
+          "q": "How many steps must you climb to get to the tower?",
+          "a": "You have to climb 533 steps to reach the observation deck of the south tower."
+        }
+      ]
+    }
   },
 
   {
@@ -675,6 +1695,80 @@ export const poiExtraDe1: POI[] = [
         "Part of the Ruhr Valley cycle route.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo befindet sich der Baldeneysee?",
+          "a": "Er liegt im Süden der Stadt Essen und ist der größte der sechs Ruhrstauseen."
+        },
+        {
+          "q": "Wann und warum wurde der See angelegt?",
+          "a": "Der See wurde 1931-1933 als Wasserreservoir und zur Klärung des Flusswassers der Ruhr aufgestaut."
+        },
+        {
+          "q": "Darf man im Baldeneysee baden?",
+          "a": "Seit 2017 gibt es eine offizielle Badestelle an der Seaside Beach, deren Nutzung jedoch von der aktuellen Wasserqualität abhängt."
+        },
+        {
+          "q": "Welches berühmte Gebäude liegt oberhalb des Sees?",
+          "a": "Die Villa Hügel, der ehemalige Wohnsitz der Industriellenfamilie Krupp, überblickt den See."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található a Baldeneysee?",
+          "a": "Essen városának déli részén fekszik, és a hat Ruhr-víztározó közül a legnagyobb."
+        },
+        {
+          "q": "Mikor és miért hozták létre a tavat?",
+          "a": "A tavat 1931 és 1933 között hozták létre víztározóként és a Ruhr folyó vizének tisztítására."
+        },
+        {
+          "q": "Szabad-e fürödni a Baldeneysee-ben?",
+          "a": "2017 óta van egy hivatalos fürdőhely a Seaside Beachen, de használata az aktuális vízminőségtől függ."
+        },
+        {
+          "q": "Melyik híres épület található a tó felett?",
+          "a": "A Villa Hügel, a Krupp iparoscsalád egykori lakóhelye magasodik a tó fölé."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află lacul Baldeney (Baldeneysee)?",
+          "a": "Este situat în sudul orașului Essen și este cel mai mare dintre cele șase lacuri de acumulare de pe râul Ruhr."
+        },
+        {
+          "q": "Când și de ce a fost creat lacul?",
+          "a": "Lacul a fost creat între 1931 și 1933 ca rezervor de apă și pentru purificarea apei râului Ruhr."
+        },
+        {
+          "q": "Este permis înotul în Baldeneysee?",
+          "a": "Din 2017 există o zonă oficială de înot la Seaside Beach, dar utilizarea sa depinde de calitatea actuală a apei."
+        },
+        {
+          "q": "Ce clădire faimoasă se află deasupra lacului?",
+          "a": "Villa Hügel, fosta reședință a familiei de industriali Krupp, domină lacul."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is Lake Baldeney located?",
+          "a": "It is located in the south of the city of Essen and is the largest of the six Ruhr reservoirs."
+        },
+        {
+          "q": "When and why was the lake created?",
+          "a": "The lake was dammed between 1931 and 1933 as a water reservoir and to clarify the river water of the Ruhr."
+        },
+        {
+          "q": "Is swimming allowed in Lake Baldeney?",
+          "a": "Since 2017, there has been an official swimming area at Seaside Beach, but its use depends on the current water quality."
+        },
+        {
+          "q": "Which famous building is located above the lake?",
+          "a": "Villa Hügel, the former residence of the Krupp industrialist family, overlooks the lake."
+        }
+      ]
+    }
   },
 
   {
@@ -721,6 +1815,80 @@ export const poiExtraDe1: POI[] = [
         "Combines Carolingian, Byzantine and Gothic architectural elements.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welche Bedeutung hatte Aachen für Karl den Großen?",
+          "a": "Aachen war seine Lieblingspfalz und das politische Zentrum seines Frankenreiches."
+        },
+        {
+          "q": "Welches Bauwerk ließ Karl der Große in Aachen errichten?",
+          "a": "Er ließ die Pfalzkapelle bauen, die heute den Kern des Aachener Doms bildet."
+        },
+        {
+          "q": "Wo befindet sich das Grab Karls des Großen?",
+          "a": "Sein Leichnam ruht im Karlsschrein im Chor des Aachener Doms."
+        },
+        {
+          "q": "Was ist der Karlsthron?",
+          "a": "Ein einfacher Marmorthron im Aachener Dom, auf dem zwischen 936 und 1531 insgesamt 31 deutsche Könige gekrönt wurden."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Milyen jelentősége volt Aachennek Nagy Károly számára?",
+          "a": "Aachen volt a kedvenc palotája és Frank Birodalmának politikai központja."
+        },
+        {
+          "q": "Milyen építményt emeltetett Nagy Károly Aachenben?",
+          "a": "Ő építtette a palotakápolnát, amely ma az aacheni dóm magját alkotja."
+        },
+        {
+          "q": "Hol található Nagy Károly sírja?",
+          "a": "Földi maradványai az aacheni dóm kórusában található Károly-ereklyetartóban nyugszanak."
+        },
+        {
+          "q": "Mi az a Károly-trón?",
+          "a": "Egy egyszerű márványtrón az aacheni dómban, amelyen 936 és 1531 között összesen 31 német királyt koronáztak meg."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce importanță a avut Aachen pentru Carol cel Mare?",
+          "a": "Aachen a fost reședința sa preferată și centrul politic al Imperiului Franc."
+        },
+        {
+          "q": "Ce edificiu a construit Carol cel Mare în Aachen?",
+          "a": "A construit Capela Palatină, care formează astăzi nucleul Catedralei din Aachen."
+        },
+        {
+          "q": "Unde se află mormântul lui Carol cel Mare?",
+          "a": "Rămășițele sale se odihnesc în Racla lui Carol din corul Catedralei din Aachen."
+        },
+        {
+          "q": "Ce este Tronul lui Carol?",
+          "a": "Un tron simplu de marmură în Catedrala din Aachen, pe care au fost încoronați 31 de regi germani între anii 936 și 1531."
+        }
+      ],
+      "en": [
+        {
+          "q": "What significance did Aachen have for Charlemagne?",
+          "a": "Aachen was his favorite residence and the political center of his Frankish Empire."
+        },
+        {
+          "q": "Which building did Charlemagne have erected in Aachen?",
+          "a": "He had the Palatine Chapel built, which today forms the core of Aachen Cathedral."
+        },
+        {
+          "q": "Where is Charlemagne's grave located?",
+          "a": "His remains rest in the Shrine of Charlemagne in the choir of Aachen Cathedral."
+        },
+        {
+          "q": "What is Charlemagne's Throne?",
+          "a": "A simple marble throne in Aachen Cathedral, on which 31 German kings were crowned between 936 and 1531."
+        }
+      ]
+    }
   },
 
   {
@@ -765,6 +1933,80 @@ export const poiExtraDe1: POI[] = [
         "The Externsteine are an important rock monument in the forest.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welches historische Ereignis ist mit dem Teutoburger Wald verbunden?",
+          "a": "Die Varusschlacht im Jahr 9 n. Chr., in der germanische Stämme drei römische Legionen besiegten."
+        },
+        {
+          "q": "Welches Denkmal erinnert an dieses Ereignis?",
+          "a": "Das Hermannsdenkmal bei Detmold erinnert an den Cheruskerfürsten Arminius."
+        },
+        {
+          "q": "Was sind die Externsteine?",
+          "a": "Eine markante Sandstein-Felsformation im Teutoburger Wald, die als Natur- und Kulturdenkmal gilt."
+        },
+        {
+          "q": "Wie heißt der bekannteste Wanderweg der Region?",
+          "a": "Die Hermannshöhen sind ein bekannter Kammweg, der über den Teutoburger Wald führt."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Milyen történelmi esemény kapcsolódik a Teutoburgi-erdőhöz?",
+          "a": "A varusi csata i.sz. 9-ben, amelyben a germán törzsek legyőztek három római légiót."
+        },
+        {
+          "q": "Melyik emlékmű emlékeztet erre az eseményre?",
+          "a": "A Detmold melletti Hermann-emlékmű (Hermannsdenkmal) emlékeztet Arminius keruszk hercegre."
+        },
+        {
+          "q": "Mik azok az Externsteine sziklák?",
+          "a": "Egy jellegzetes homokkő sziklaalakzat a Teutoburgi-erdőben, amely természetvédelmi és kulturális emlékhely."
+        },
+        {
+          "q": "Hogy hívják a régió legismertebb túraútvonalát?",
+          "a": "A Hermannshöhen egy ismert gerincútvonal, amely a Teutoburgi-erdőn halad keresztül."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce eveniment istoric este legat de Pădurea Teutoburgică?",
+          "a": "Bătălia de la Teutoburger Wald din anul 9 d.Hr., în care triburile germanice au învins trei legiuni romane."
+        },
+        {
+          "q": "Ce monument comemorează acest eveniment?",
+          "a": "Monumentul lui Hermann (Hermannsdenkmal) de lângă Detmold îl onorează pe șeful cherusc Arminius."
+        },
+        {
+          "q": "Ce sunt stâncile Externsteine?",
+          "a": "O formațiune proeminentă de gresie din Pădurea Teutoburgică, considerată un monument natural și cultural."
+        },
+        {
+          "q": "Cum se numește cel mai cunoscut traseu de drumeție din regiune?",
+          "a": "Hermannshöhen este un traseu de creastă renumit care traversează Pădurea Teutoburgică."
+        }
+      ],
+      "en": [
+        {
+          "q": "What historical event is associated with the Teutoburg Forest?",
+          "a": "The Battle of the Teutoburg Forest in 9 AD, in which Germanic tribes defeated three Roman legions."
+        },
+        {
+          "q": "Which monument commemorates this event?",
+          "a": "The Hermann Monument (Hermannsdenkmal) near Detmold commemorates the Cheruscan leader Arminius."
+        },
+        {
+          "q": "What are the Externsteine?",
+          "a": "A striking sandstone rock formation in the Teutoburg Forest, considered a natural and cultural monument."
+        },
+        {
+          "q": "What is the most famous hiking trail in the region?",
+          "a": "The Hermannshöhen is a well-known ridge trail leading across the Teutoburg Forest."
+        }
+      ]
+    }
   },
 
   {
@@ -809,6 +2051,80 @@ export const poiExtraDe1: POI[] = [
         "Ruhr2010 was the European Capital of Culture.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welche Rohstoffe prägten die Industrie im Ruhrgebiet?",
+          "a": "Steinkohle und Eisenerz waren die Grundlage für den Aufstieg zur bedeutendsten Montanregion Europas."
+        },
+        {
+          "q": "Was versteht man unter dem 'Strukturwandel' im Ruhrgebiet?",
+          "a": "Den Übergang von der Schwerindustrie hin zu Dienstleistung, Technologie und Kultur nach dem Ende des Bergbaus."
+        },
+        {
+          "q": "Was ist die 'Route der Industriekultur'?",
+          "a": "Ein touristisches Netzwerk, das die wichtigsten Industriedenkmäler der Region, wie die Zeche Zollverein, verbindet."
+        },
+        {
+          "q": "Wie viele Menschen leben etwa im Ruhrgebiet?",
+          "a": "Es ist mit rund 5 Millionen Einwohnern der größte Ballungsraum in Deutschland."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Milyen nyersanyagok határozták meg a Ruhr-vidék iparát?",
+          "a": "A kőszén és a vasérc képezte az alapját annak, hogy Európa legjelentősebb bányászati és kohászati régiójává váljon."
+        },
+        {
+          "q": "Mit értünk 'szerkezetváltás' alatt a Ruhr-vidéken?",
+          "a": "A nehéziparról a szolgáltatásokra, a technológiára és a kultúrára való áttérést a bányászat befejezése után."
+        },
+        {
+          "q": "Mi az az 'Ipari Kultúra Útja'?",
+          "a": "Egy turisztikai hálózat, amely összeköti a régió legfontosabb ipari műemlékeit, például a Zollverein szénbányát."
+        },
+        {
+          "q": "Körülbelül hány ember él a Ruhr-vidéken?",
+          "a": "Körülbelül 5 millió lakosával ez Németország legnagyobb agglomerációja."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce materii prime au modelat industria din regiunea Ruhr?",
+          "a": "Huila și minereul de fier au fost baza ascensiunii sale ca cea mai importantă regiune minieră și metalurgică din Europa."
+        },
+        {
+          "q": "Ce se înțelege prin 'schimbare structurală' în regiunea Ruhr?",
+          "a": "Tranziția de la industria grea către servicii, tehnologie și cultură după încetarea activităților miniere."
+        },
+        {
+          "q": "Ce este 'Traseul Culturii Industriale'?",
+          "a": "O rețea turistică ce leagă cele mai importante monumente industriale din regiune, cum ar fi mina Zollverein."
+        },
+        {
+          "q": "Câți oameni trăiesc aproximativ în regiunea Ruhr?",
+          "a": "Cu aproximativ 5 milioane de locuitori, este cea mai mare zonă metropolitană din Germania."
+        }
+      ],
+      "en": [
+        {
+          "q": "Which raw materials shaped the industry in the Ruhr area?",
+          "a": "Hard coal and iron ore were the basis for its rise to become Europe's most important mining and steel region."
+        },
+        {
+          "q": "What is meant by 'structural change' in the Ruhr area?",
+          "a": "The transition from heavy industry to services, technology, and culture after the end of mining."
+        },
+        {
+          "q": "What is the 'Industrial Heritage Trail'?",
+          "a": "A tourist network connecting the region's most important industrial monuments, such as the Zollverein Coal Mine."
+        },
+        {
+          "q": "Approximately how many people live in the Ruhr area?",
+          "a": "With around 5 million inhabitants, it is the largest metropolitan area in Germany."
+        }
+      ]
+    }
   },
 
   {
@@ -854,6 +2170,80 @@ export const poiExtraDe1: POI[] = [
         "The palace park is designed in French style.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo befindet sich Schloss Augustusburg?",
+          "a": "Es liegt in der Stadt Brühl bei Köln."
+        },
+        {
+          "q": "Wer ließ das Schloss erbauen?",
+          "a": "Clemens August von Wittelsbach, der Erzbischof von Köln, ließ es im 18. Jahrhundert als Prunkresidenz errichten."
+        },
+        {
+          "q": "Warum ist das Schloss kunsthistorisch bedeutend?",
+          "a": "Es gilt als eines der bedeutendsten Werke des Rokoko in Deutschland und gehört zum UNESCO-Welterbe."
+        },
+        {
+          "q": "Welches andere Schloss gehört zur gleichen Anlage?",
+          "a": "Das Jagdschloss Falkenlust liegt in unmittelbarer Nähe und ist durch eine Allee mit Augustusburg verbunden."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található az Augustusburgi kastély?",
+          "a": "Brühl városában található, Köln közelében."
+        },
+        {
+          "q": "Ki építtette a kastélyt?",
+          "a": "Clemens August von Wittelsbach, kölni érsek építtette a 18. században reprezentatív rezidenciaként."
+        },
+        {
+          "q": "Miért jelentős a kastély művészettörténeti szempontból?",
+          "a": "Németország egyik legjelentősebb rokokó alkotásának tekintik, és az UNESCO Világörökség része."
+        },
+        {
+          "q": "Melyik másik kastély tartozik ugyanahhoz az együtteshez?",
+          "a": "A Falkenlust vadászkastély a közvetlen közelben található, és egy fasor köti össze az Augustusburgi kastéllyal."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află Castelul Augustusburg?",
+          "a": "Se află în orașul Brühl, lângă Köln."
+        },
+        {
+          "q": "Cine a construit castelul?",
+          "a": "Clemens August de Wittelsbach, arhiepiscopul de Köln, l-a construit în secolul al XVIII-lea ca reședință de protocol."
+        },
+        {
+          "q": "De ce este castelul important din punct de vedere al istoriei artei?",
+          "a": "Este considerat una dintre cele mai importante opere ale stilului rococo din Germania și aparține patrimoniului mondial UNESCO."
+        },
+        {
+          "q": "Ce alt castel aparține aceluiași ansamblu?",
+          "a": "Castelul de vânătoare Falkenlust este situat în imediata apropiere și este legat de Augustusburg printr-o alee."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is Augustusburg Palace located?",
+          "a": "It is located in the town of Brühl near Cologne."
+        },
+        {
+          "q": "Who had the palace built?",
+          "a": "Clemens August of Wittelsbach, the Archbishop of Cologne, had it built in the 18th century as a magnificent residence."
+        },
+        {
+          "q": "Why is the palace significant in terms of art history?",
+          "a": "It is considered one of the most important works of Rococo in Germany and is a UNESCO World Heritage Site."
+        },
+        {
+          "q": "Which other palace belongs to the same complex?",
+          "a": "The Falkenlust hunting lodge is located nearby and is connected to Augustusburg by an avenue."
+        }
+      ]
+    }
   },
 
   {
@@ -899,6 +2289,80 @@ export const poiExtraDe1: POI[] = [
         "Gives its name to the city of Wuppertal.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Durch welches markante Tal fließt die Wupper?",
+          "a": "Sie fließt durch das Bergische Land, insbesondere durch das eng bebaute Tal von Wuppertal."
+        },
+        {
+          "q": "Warum war die Wupper für die Industrie wichtig?",
+          "a": "Ihre Wasserkraft trieb früher zahlreiche Mühlen und Schleifkotten an, was die Basis für die frühe Industrialisierung der Region war."
+        },
+        {
+          "q": "Was ist die Müngstener Brücke?",
+          "a": "Es ist die höchste Eisenbahnbrücke Deutschlands, die bei Solingen die Wupper überspannt."
+        },
+        {
+          "q": "In welchen Fluss mündet die Wupper?",
+          "a": "Sie mündet bei Leverkusen in den Rhein."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Milyen jellegzetes völgyön folyik keresztül a Wupper?",
+          "a": "A Bergisches Land területén folyik át, különösen Wuppertal sűrűn beépített völgyén."
+        },
+        {
+          "q": "Miért volt fontos a Wupper az ipar számára?",
+          "a": "Vízenergiája korábban számos malmot és köszörűműhelyt hajtott, ami a régió korai iparosodásának alapja volt."
+        },
+        {
+          "q": "Mi az a Müngsteni híd?",
+          "a": "Németország legmagasabb vasúti hídja, amely Solingennél ível át a Wupper felett."
+        },
+        {
+          "q": "Melyik folyóba torkollik a Wupper?",
+          "a": "Leverkusennél torkollik a Rajnába."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Prin ce vale distinctivă curge râul Wupper?",
+          "a": "Curge prin regiunea Bergisches Land, în special prin valea dens construită a orașului Wuppertal."
+        },
+        {
+          "q": "De ce a fost râul Wupper important pentru industrie?",
+          "a": "Forța apei sale a acționat în trecut numeroase mori și ateliere de șlefuire, reprezentând baza industrializării timpurii a regiunii."
+        },
+        {
+          "q": "Ce este Podul Müngsten?",
+          "a": "Este cel mai înalt pod feroviar din Germania, care traversează râul Wupper lângă Solingen."
+        },
+        {
+          "q": "În ce râu se varsă Wupper?",
+          "a": "Se varsă în Rin, lângă Leverkusen."
+        }
+      ],
+      "en": [
+        {
+          "q": "Through which striking valley does the Wupper flow?",
+          "a": "It flows through the Bergisches Land, especially through the densely built-up valley of Wuppertal."
+        },
+        {
+          "q": "Why was the Wupper important for industry?",
+          "a": "Its water power used to drive numerous mills and grinding shops, which was the basis for the early industrialization of the region."
+        },
+        {
+          "q": "What is the Müngsten Bridge?",
+          "a": "It is the highest railway bridge in Germany, spanning the Wupper near Solingen."
+        },
+        {
+          "q": "Which river does the Wupper flow into?",
+          "a": "It flows into the Rhine at Leverkusen."
+        }
+      ]
+    }
   },
 
   // ─── DE-BW Baden-Württemberg (+10) ──────────────────────────────────────────
@@ -945,6 +2409,80 @@ export const poiExtraDe1: POI[] = [
         "Ulm University of Applied Sciences and the University of Ulm are important educational institutions.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist das architektonische Wahrzeichen von Ulm?",
+          "a": "Das Ulmer Münster besitzt mit 161,53 Metern den höchsten Kirchturm der Welt."
+        },
+        {
+          "q": "Wer ist der berühmteste in Ulm geborene Wissenschaftler?",
+          "a": "Albert Einstein wurde 1879 in Ulm geboren."
+        },
+        {
+          "q": "Was ist das 'Fischerviertel'?",
+          "a": "Ein historisches Viertel an der Einmündung der Blau in die Donau, bekannt für seine alten Fachwerkhäuser und engen Gassen."
+        },
+        {
+          "q": "Was ist das 'Schiefe Haus'?",
+          "a": "Ein spätgotisches Fachwerkhaus im Fischerviertel, das als das schiefste Hotel der Welt im Guinness-Buch der Rekorde steht."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi Ulm építészeti jelképe?",
+          "a": "Az ulmi nagytemplom (Ulmer Münster) büszkélkedhet a világ legmagasabb, 161,53 méteres templomtornyával."
+        },
+        {
+          "q": "Ki a leghíresebb Ulmból származó tudós?",
+          "a": "Albert Einstein 1879-ben született Ulmban."
+        },
+        {
+          "q": "Mi az a 'Halásznegyed' (Fischerviertel)?",
+          "a": "Egy történelmi negyed a Blau folyó Dunába torkollásánál, amely régi fagerendás házairól és szűk utcáiról ismert."
+        },
+        {
+          "q": "Mi az a 'Ferde Ház'?",
+          "a": "Egy késő gótikus fagerendás ház a Halásznegyedben, amely a világ legferdébb szállodájaként szerepel a Guinness Rekordok Könyvében."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este simbolul arhitectural al orașului Ulm?",
+          "a": "Catedrala din Ulm (Ulmer Münster) deține cel mai înalt turn de biserică din lume, având 161,53 metri."
+        },
+        {
+          "q": "Cine este cel mai faimos om de știință născut în Ulm?",
+          "a": "Albert Einstein s-a născut la Ulm în 1879."
+        },
+        {
+          "q": "Ce este 'Cartierul Pescarilor' (Fischerviertel)?",
+          "a": "Un cartier istoric situat la vărsarea râului Blau în Dunăre, cunoscut pentru casele vechi cu structură din lemn și străzile înguste."
+        },
+        {
+          "q": "Ce este 'Casa Strâmbă'?",
+          "a": "O casă în stil gotic târziu din Cartierul Pescarilor, inclusă în Guinness Book ca fiind cel mai strâmb hotel din lume."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the architectural landmark of Ulm?",
+          "a": "Ulm Minster has the highest church tower in the world, standing at 161.53 meters."
+        },
+        {
+          "q": "Who is the most famous scientist born in Ulm?",
+          "a": "Albert Einstein was born in Ulm in 1879."
+        },
+        {
+          "q": "What is the 'Fishermen's Quarter'?",
+          "a": "A historic district at the confluence of the Blau and the Danube, known for its old half-timbered houses and narrow alleys."
+        },
+        {
+          "q": "What is the 'Leaning House'?",
+          "a": "A late Gothic half-timbered house in the Fishermen's Quarter, listed in the Guinness Book of Records as the most leaning hotel in the world."
+        }
+      ]
+    }
   },
 
   {
@@ -990,6 +2528,80 @@ export const poiExtraDe1: POI[] = [
         "Clear views of the Alps possible on good days.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo befindet sich der Feldberg?",
+          "a": "Er liegt im Südschwarzwald und ist der höchste Berg in Baden-Württemberg."
+        },
+        {
+          "q": "Wie hoch ist der Feldberg?",
+          "a": "Er hat eine Höhe von 1493 Metern über dem Meeresspiegel."
+        },
+        {
+          "q": "Welche Wintersportmöglichkeiten gibt es am Feldberg?",
+          "a": "Der Feldberg ist das größte deutsche Skigebiet außerhalb der Alpen mit zahlreichen Liften und Pisten."
+        },
+        {
+          "q": "Was ist der Feldbergturm?",
+          "a": "Ein ehemaliger Funkturm auf dem Gipfel, der heute als Aussichtsturm und Schinkenmuseum genutzt wird."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található a Feldberg?",
+          "a": "A Déli-Fekete-erdőben fekszik, és Baden-Württemberg legmagasabb hegye."
+        },
+        {
+          "q": "Milyen magas a Feldberg?",
+          "a": "Magassága 1493 méter a tengerszint felett."
+        },
+        {
+          "q": "Milyen téli sportolási lehetőségek vannak a Feldbergen?",
+          "a": "A Feldberg az Alpokon kívüli legnagyobb német síterület, számos felvonóval és pályával."
+        },
+        {
+          "q": "Mi az a Feldberg-torony?",
+          "a": "Egy korábbi rádiótorony a csúcson, amelyet ma kilátóként és sonkamúzeumként használnak."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află muntele Feldberg?",
+          "a": "Este situat în sudul Pădurii Negre și este cel mai înalt munte din Baden-Württemberg."
+        },
+        {
+          "q": "Ce înălțime are muntele Feldberg?",
+          "a": "Are o înălțime de 1493 de metri deasupra nivelului mării."
+        },
+        {
+          "q": "Ce posibilități de sporturi de iarnă există pe Feldberg?",
+          "a": "Feldberg este cea mai mare zonă de schi din Germania în afara Alpilor, având numeroase teleschiuri și pârtii."
+        },
+        {
+          "q": "Ce este turnul Feldberg?",
+          "a": "Un fost turn de transmisie de pe vârf, care astăzi este folosit ca turn de observație și muzeu al șuncii."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is the Feldberg located?",
+          "a": "It is located in the Southern Black Forest and is the highest mountain in Baden-Württemberg."
+        },
+        {
+          "q": "How high is the Feldberg?",
+          "a": "It has an elevation of 1493 meters above sea level."
+        },
+        {
+          "q": "What winter sports opportunities are there at the Feldberg?",
+          "a": "The Feldberg is the largest German ski area outside the Alps, with numerous lifts and slopes."
+        },
+        {
+          "q": "What is the Feldberg Tower?",
+          "a": "A former radio tower on the summit, now used as a lookout tower and ham museum."
+        }
+      ]
+    }
   },
 
   {
@@ -1035,6 +2647,80 @@ export const poiExtraDe1: POI[] = [
         "Important waterway for navigation and tourism.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo entspringt der Neckar?",
+          "a": "Der Neckar entspringt im Schwenninger Moos bei Villingen-Schwenningen."
+        },
+        {
+          "q": "In welchen Fluss mündet der Neckar?",
+          "a": "Er mündet bei Mannheim in den Rhein."
+        },
+        {
+          "q": "Welche bekannten Städte liegen am Neckar?",
+          "a": "Städte wie Tübingen, Stuttgart, Heilbronn und Heidelberg liegen an seinem Lauf."
+        },
+        {
+          "q": "Ist der Neckar für die Schifffahrt ausgebaut?",
+          "a": "Ja, er ist von Plochingen bis zu seiner Mündung als Bundeswasserstraße für die Schifffahrt kanalisiert."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol ered a Neckar?",
+          "a": "A Neckar a Villingen-Schwenningen melletti Schwenninger Moos-ban ered."
+        },
+        {
+          "q": "Melyik folyóba torkollik a Neckar?",
+          "a": "Mannheimnél torkollik a Rajnába."
+        },
+        {
+          "q": "Mely ismert városok fekszenek a Neckar mentén?",
+          "a": "Olyan városok fekszenek a folyó mentén, mint Tübingen, Stuttgart, Heilbronn és Heidelberg."
+        },
+        {
+          "q": "Hajózható-e a Neckar?",
+          "a": "Igen, Plochingentől a torkolatáig szövetségi víziútként csatornázott a hajózás számára."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde izvorăște râul Neckar?",
+          "a": "Neckar izvorăște în zona mlăștinoasă Schwenninger Moos, lângă Villingen-Schwenningen."
+        },
+        {
+          "q": "În ce râu se varsă Neckar?",
+          "a": "Se varsă în Rin, în dreptul orașului Mannheim."
+        },
+        {
+          "q": "Ce orașe cunoscute se află pe râul Neckar?",
+          "a": "Orașe precum Tübingen, Stuttgart, Heilbronn și Heidelberg sunt situate de-a lungul cursului său."
+        },
+        {
+          "q": "Este râul Neckar amenajat pentru navigație?",
+          "a": "Da, este canalizat pentru navigație de la Plochingen până la vărsare, fiind o cale navigabilă federală."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where does the Neckar originate?",
+          "a": "The Neckar originates in the Schwenninger Moos near Villingen-Schwenningen."
+        },
+        {
+          "q": "Which river does the Neckar flow into?",
+          "a": "It flows into the Rhine at Mannheim."
+        },
+        {
+          "q": "Which well-known cities lie on the Neckar?",
+          "a": "Cities such as Tübingen, Stuttgart, Heilbronn, and Heidelberg are located along its course."
+        },
+        {
+          "q": "Is the Neckar developed for shipping?",
+          "a": "Yes, it is canalized for shipping as a federal waterway from Plochingen to its confluence."
+        }
+      ]
+    }
   },
 
   {
@@ -1079,6 +2765,80 @@ export const poiExtraDe1: POI[] = [
         "The annual punting race on the Neckar is a popular folk festival.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was prägt das Stadtbild von Tübingen?",
+          "a": "Tübingen ist eine klassische Universitätsstadt mit einer sehr gut erhaltenen mittelalterlichen Altstadt am Neckar."
+        },
+        {
+          "q": "Was ist das bekannteste Fotomotiv in Tübingen?",
+          "a": "Die bunte Häuserfront am Neckar mit dem Hölderlinturm."
+        },
+        {
+          "q": "Was ist das 'Stocherkahnfahren'?",
+          "a": "Eine Tübinger Besonderheit, bei der man in flachen Booten mit einer langen Stange über den Neckar befördert wird."
+        },
+        {
+          "q": "Wer war Friedrich Hölderlin?",
+          "a": "Ein berühmter deutscher Lyriker, der die zweite Hälfte seines Lebens in einem Turmzimmer in Tübingen verbrachte."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi határozza meg Tübingen városképét?",
+          "a": "Tübingen egy klasszikus egyetemváros, nagyon jól megőrzött középkori óvárossal a Neckar partján."
+        },
+        {
+          "q": "Mi a legismertebb fotótéma Tübingenben?",
+          "a": "A Neckar-parti színes házsor a Hölderlin-toronnyal."
+        },
+        {
+          "q": "Mi az a 'Stocherkahnfahren'?",
+          "a": "Tübingeni különlegesség, amelynek során lapos csónakokban, egy hosszú rúd segítségével hajtják előre az embert a Neckaron."
+        },
+        {
+          "q": "Ki volt Friedrich Hölderlin?",
+          "a": "Híres német költő, aki élete második felét egy tübingeni toronyszobában töltötte."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce definește aspectul orașului Tübingen?",
+          "a": "Tübingen este un oraș universitar clasic, cu un centru istoric medieval foarte bine conservat, pe malul râului Neckar."
+        },
+        {
+          "q": "Care este cel mai cunoscut motiv fotografic din Tübingen?",
+          "a": "Fațada colorată a caselor de pe malul Neckarului, cu turnul Hölderlin."
+        },
+        {
+          "q": "Ce este 'Stocherkahnfahren'?",
+          "a": "O particularitate a orașului Tübingen, constând în plimbări pe Neckar în bărci plate, propulsate cu o prăjină lungă."
+        },
+        {
+          "q": "Cine a fost Friedrich Hölderlin?",
+          "a": "Un celebru poet liric german, care și-a petrecut a doua jumătate a vieții într-o cameră din turnul Hölderlin din Tübingen."
+        }
+      ],
+      "en": [
+        {
+          "q": "What characterizes the cityscape of Tübingen?",
+          "a": "Tübingen is a classic university town with a very well-preserved medieval old town on the Neckar."
+        },
+        {
+          "q": "What is the most famous photo motif in Tübingen?",
+          "a": "The colorful waterfront houses on the Neckar with the Hölderlin Tower."
+        },
+        {
+          "q": "What is 'Stocherkahnfahren'?",
+          "a": "A Tübingen specialty involving being transported across the Neckar in flat boats using a long pole."
+        },
+        {
+          "q": "Who was Friedrich Hölderlin?",
+          "a": "A famous German lyric poet who spent the second half of his life in a tower room in Tübingen."
+        }
+      ]
+    }
   },
 
   {
@@ -1125,6 +2885,80 @@ export const poiExtraDe1: POI[] = [
         "Approximately 350,000 visitors annually.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo liegt die Burg Hohenzollern?",
+          "a": "Sie liegt auf dem Gipfel des Zollerbergs am Rande der Schwäbischen Alb."
+        },
+        {
+          "q": "Welches Adelsgeschlecht stammt von dieser Burg?",
+          "a": "Sie ist der Stammsitz des Hauses Hohenzollern, aus dem die preußischen Könige und deutschen Kaiser hervorgingen."
+        },
+        {
+          "q": "In welchem Stil wurde die heutige Burg erbaut?",
+          "a": "Die heutige Burg wurde im 19. Jahrhundert im neugotischen Stil als romantische Ritterburg wiederaufgebaut."
+        },
+        {
+          "q": "Kann man die Burg besichtigen?",
+          "a": "Ja, die Burg ist ein beliebtes Touristenziel und bietet Führungen durch die prunkvollen Säle und die Schatzkammer an."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található Hohenzollern vára?",
+          "a": "A Sváb-Alb szélén, a Zollerberg csúcsán található."
+        },
+        {
+          "q": "Melyik nemesi család származik ebből a várból?",
+          "a": "Ez a Hohenzollern-ház ősi fészke, amelyből a porosz királyok és a német császárok származtak."
+        },
+        {
+          "q": "Milyen stílusban épült a mai vár?",
+          "a": "A mai várat a 19. században építették újjá neogótikus stílusban, romantikus lovagvárként."
+        },
+        {
+          "q": "Látogatható-e a vár?",
+          "a": "Igen, a vár népszerű turisztikai célpont, ahol vezetett túrákat tartanak a pompás termekben és a kincstárban."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află Castelul Hohenzollern?",
+          "a": "Se află pe vârful muntelui Zollerberg, la marginea Alpilor Șvabi."
+        },
+        {
+          "q": "Ce familie nobiliară provine din acest castel?",
+          "a": "Este sediul ancestral al Casei de Hohenzollern, din care au provenit regii prusaci și împărații germani."
+        },
+        {
+          "q": "În ce stil a fost construit castelul actual?",
+          "a": "Castelul actual a fost reconstruit în secolul al XIX-lea în stil neogotic, ca un castel medieval romantic."
+        },
+        {
+          "q": "Poate fi vizitat castelul?",
+          "a": "Da, castelul este o destinație turistică populară și oferă tururi ghidate prin sălile somptuoase și trezorerie."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is Hohenzollern Castle located?",
+          "a": "It is located on the summit of Mount Zoller on the edge of the Swabian Alps."
+        },
+        {
+          "q": "Which noble family originates from this castle?",
+          "a": "It is the ancestral seat of the House of Hohenzollern, from which the Prussian kings and German emperors emerged."
+        },
+        {
+          "q": "In what style was the current castle built?",
+          "a": "The current castle was rebuilt in the 19th century in the Neo-Gothic style as a romantic knight's castle."
+        },
+        {
+          "q": "Can the castle be visited?",
+          "a": "Yes, the castle is a popular tourist destination and offers tours through the magnificent halls and the treasury."
+        }
+      ]
+    }
   },
 
   {
@@ -1171,6 +3005,80 @@ export const poiExtraDe1: POI[] = [
         "Nearby lies the Feldberg, the highest point in Baden-Württemberg.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie ist der Titisee entstanden?",
+          "a": "Der See wurde durch den Feldberg-Gletscher in der letzten Eiszeit geformt."
+        },
+        {
+          "q": "Welcher Ort liegt direkt am See?",
+          "a": "Der bekannte Kurort Titisee-Neustadt liegt am Nordufer des Sees."
+        },
+        {
+          "q": "Welche Freizeitaktivitäten sind dort beliebt?",
+          "a": "Neben Bootsfahrten und Wandern ist die Promenade zum Bummeln und Einkaufen sehr bekannt."
+        },
+        {
+          "q": "Wie hoch liegt der Titisee?",
+          "a": "Er liegt auf einer Höhe von etwa 845 Metern über dem Meeresspiegel."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hogyan keletkezett a Titisee?",
+          "a": "A tavat a Feldberg-gleccser formálta az utolsó jégkorszak idején."
+        },
+        {
+          "q": "Melyik település fekszik közvetlenül a tónál?",
+          "a": "Az ismert üdülőhely, Titisee-Neustadt fekszik a tó északi partján."
+        },
+        {
+          "q": "Milyen szabadidős tevékenységek népszerűek ott?",
+          "a": "A hajókázás és túrázás mellett a sétány a népszerű korzózásról és vásárlásról is ismert."
+        },
+        {
+          "q": "Milyen magasan fekszik a Titisee?",
+          "a": "Körülbelül 845 méteres tengerszint feletti magasságban található."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cum s-a format lacul Titisee?",
+          "a": "Lacul a fost format de ghețarul Feldberg în timpul ultimei ere glaciare."
+        },
+        {
+          "q": "Ce localitate se află direct pe malul lacului?",
+          "a": "Cunoscuta stațiune balneară Titisee-Neustadt se află pe malul nordic al lacului."
+        },
+        {
+          "q": "Ce activități de agrement sunt populare acolo?",
+          "a": "Pe lângă plimbările cu barca și drumețiile, promenada este foarte cunoscută pentru plimbări și cumpărături."
+        },
+        {
+          "q": "La ce altitudine se află lacul Titisee?",
+          "a": "Se află la o altitudine de aproximativ 845 de metri deasupra nivelului mării."
+        }
+      ],
+      "en": [
+        {
+          "q": "How was Lake Titisee formed?",
+          "a": "The lake was formed by the Feldberg glacier during the last ice age."
+        },
+        {
+          "q": "Which town is located directly on the lake?",
+          "a": "The well-known spa town of Titisee-Neustadt is located on the north shore of the lake."
+        },
+        {
+          "q": "What recreational activities are popular there?",
+          "a": "In addition to boat trips and hiking, the promenade is very famous for strolling and shopping."
+        },
+        {
+          "q": "How high is Lake Titisee located?",
+          "a": "It is situated at an altitude of about 845 meters above sea level."
+        }
+      ]
+    }
   },
 
   {
@@ -1217,6 +3125,80 @@ export const poiExtraDe1: POI[] = [
         "Today the monastery houses a grammar school.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Warum ist das Kloster Maulbronn so bedeutend?",
+          "a": "Es gilt als die am besten erhaltene mittelalterliche Zisterzienserabtei nördlich der Alpen und ist UNESCO-Welterbe."
+        },
+        {
+          "q": "Welchen architektonischen Übergang kann man hier sehen?",
+          "a": "Man sieht den Übergang von der Romanik zur Gotik, insbesondere in der berühmten Vorhalle, dem 'Paradies'."
+        },
+        {
+          "q": "Wofür wurde das Kloster nach der Reformation genutzt?",
+          "a": "Es wurde in eine evangelische Klosterschule umgewandelt, die heute noch als Gymnasium existiert."
+        },
+        {
+          "q": "Welche berühmten Schüler besuchten die Klosterschule Maulbronn?",
+          "a": "Prominente Schüler waren unter anderem Johannes Kepler und Hermann Hesse."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Miért olyan jelentős a maulbronni kolostor?",
+          "a": "Az Alpoktól északra fekvő legjobb állapotban megmaradt középkori ciszterci apátságnak tekintik, és az UNESCO Világörökség része."
+        },
+        {
+          "q": "Milyen építészeti átmenet látható itt?",
+          "a": "A román stílusból a gótikába való átmenet látható, különösen a híres előcsarnokban, a 'Paradicsomban'."
+        },
+        {
+          "q": "Mire használták a kolostort a reformáció után?",
+          "a": "Evangélikus kolostori iskolává alakították át, amely ma is gimnáziumként működik."
+        },
+        {
+          "q": "Milyen híres diákok jártak a maulbronni iskolába?",
+          "a": "Olyan híres diákok tanultak itt, mint Johannes Kepler és Hermann Hesse."
+        }
+      ],
+      "ro": [
+        {
+          "q": "De ce este mănăstirea Maulbronn atât de importantă?",
+          "a": "Este considerată cea mai bine conservată abație cisterciană medievală la nord de Alpi și este inclusă în patrimoniul mondial UNESCO."
+        },
+        {
+          "q": "Ce tranziție arhitecturală poate fi văzută aici?",
+          "a": "Se poate observa trecerea de la stilul romanic la cel gotic, în special în celebrul pridvor numit 'Paradisul'."
+        },
+        {
+          "q": "La ce a fost folosită mănăstirea după Reformă?",
+          "a": "A fost transformată într-o școală mănăstirească evanghelică, ce funcționează și astăzi ca liceu."
+        },
+        {
+          "q": "Ce elevi celebri au frecventat școala de la Maulbronn?",
+          "a": "Printre elevii proeminenți s-au numărat Johannes Kepler și Hermann Hesse."
+        }
+      ],
+      "en": [
+        {
+          "q": "Why is Maulbronn Monastery so significant?",
+          "a": "It is considered the best-preserved medieval Cistercian abbey north of the Alps and is a UNESCO World Heritage Site."
+        },
+        {
+          "q": "What architectural transition can be seen here?",
+          "a": "The transition from Romanesque to Gothic is visible, especially in the famous porch, the 'Paradise'."
+        },
+        {
+          "q": "What was the monastery used for after the Reformation?",
+          "a": "It was converted into a Protestant monastery school, which still exists today as a gymnasium."
+        },
+        {
+          "q": "Which famous students attended the Maulbronn monastery school?",
+          "a": "Prominent students included Johannes Kepler and Hermann Hesse."
+        }
+      ]
+    }
   },
 
   {
@@ -1261,6 +3243,80 @@ export const poiExtraDe1: POI[] = [
         "Known for its harbour and the Imperia monument.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo liegt Konstanz?",
+          "a": "Konstanz liegt am Bodensee, direkt an der Grenze zur Schweiz."
+        },
+        {
+          "q": "Was war das 'Konzil von Konstanz'?",
+          "a": "Eine Kirchenversammlung (1414-1418), die das Abendländische Schisma beendete und den einzigen Papst auf deutschem Boden wählte."
+        },
+        {
+          "q": "Wer ist Jan Hus?",
+          "a": "Ein böhmischer Reformator, der während des Konzils in Konstanz als Ketzer verurteilt und verbrannt wurde."
+        },
+        {
+          "q": "Was ist die 'Imperia'?",
+          "a": "Eine neun Meter hohe Statue im Hafen von Konstanz, die satirisch an die Zeit des Konzils erinnert."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található Konstanz?",
+          "a": "Konstanz a Bódeni-tó partján fekszik, közvetlenül a svájci határnál."
+        },
+        {
+          "q": "Mi volt a 'Konstanzi zsinat'?",
+          "a": "Egy egyházi gyűlés (1414-1418), amely véget vetett a nyugati egyházszakadásnak, és megválasztotta az egyetlen német földön választott pápát."
+        },
+        {
+          "q": "Ki az a Husz János?",
+          "a": "Cseh reformátor, akit a konstanzi zsinat idején eretnekként elítéltek és máglyán megégettek."
+        },
+        {
+          "q": "Mi az az 'Imperia'?",
+          "a": "Egy kilenc méter magas szobor a konstanzi kikötőben, amely szatirikus módon emlékeztet a zsinat idejére."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află orașul Konstanz?",
+          "a": "Konstanz este situat pe malul lacului Constanța (Bodensee), chiar la granița cu Elveția."
+        },
+        {
+          "q": "Ce a fost 'Conciliul de la Konstanz'?",
+          "a": "O adunare bisericească (1414-1418) care a pus capăt schismei apusene și a ales singurul papă votat pe pământ german."
+        },
+        {
+          "q": "Cine a fost Jan Hus?",
+          "a": "Un reformator boem care a fost condamnat ca eretic și ars pe rug în timpul Conciliului de la Konstanz."
+        },
+        {
+          "q": "Ce este 'Imperia'?",
+          "a": "O statuie înaltă de nouă metri situată în portul Konstanz, care amintește satiric de perioada Conciliului."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is Konstanz located?",
+          "a": "Konstanz is located on Lake Constance, directly on the border with Switzerland."
+        },
+        {
+          "q": "What was the 'Council of Constance'?",
+          "a": "A church assembly (1414-1418) that ended the Western Schism and elected the only Pope on German soil."
+        },
+        {
+          "q": "Who is Jan Hus?",
+          "a": "A Bohemian reformer who was condemned as a heretic and burned at the stake during the Council of Constance."
+        },
+        {
+          "q": "What is the 'Imperia'?",
+          "a": "A nine-meter-high statue in the harbor of Konstanz, which satirically commemorates the time of the Council."
+        }
+      ]
+    }
   },
 
   {
@@ -1305,6 +3361,80 @@ export const poiExtraDe1: POI[] = [
         "Schwarzwälder Kirschtorte (Black Forest gateau) is a world-famous regional speciality.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was charakterisiert den Nordschwarzwald?",
+          "a": "Er ist geprägt von dichten Tannenwäldern, tiefen Tälern und weiten Hochflächen."
+        },
+        {
+          "q": "Was ist die Schwarzwaldhochstraße?",
+          "a": "Eine der ältesten und bekanntesten Ferienstraßen Deutschlands, die über die Höhen des Nordschwarzwalds führt."
+        },
+        {
+          "q": "Welche Kurstadt liegt am Rande des Nordschwarzwalds?",
+          "a": "Baden-Baden, die weltberühmte Kur- und Bäderstadt, ist ein wichtiger Zugang zur Region."
+        },
+        {
+          "q": "Gibt es dort einen Nationalpark?",
+          "a": "Ja, der Nationalpark Schwarzwald wurde 2014 im Nordschwarzwald gegründet, um die Natur sich selbst zu überlassen."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi jellemzi az Északi-Fekete-erdőt?",
+          "a": "Sűrű fenyvesek, mély völgyek és tágas fennsíkok jellemzik."
+        },
+        {
+          "q": "Mi az a 'Schwarzwaldhochstraße'?",
+          "a": "Németország egyik legrégebbi és legismertebb üdülőútvonala, amely az Északi-Fekete-erdő gerincén halad végig."
+        },
+        {
+          "q": "Melyik fürdőváros fekszik az Északi-Fekete-erdő szélén?",
+          "a": "Baden-Baden, a világhírű gyógy- és fürdőváros a régió egyik fontos kapuja."
+        },
+        {
+          "q": "Van ott nemzeti park?",
+          "a": "Igen, a Fekete-erdő Nemzeti Parkot 2014-ben alapították az Északi-Fekete-erdőben, hogy a természetet magára hagyják."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce caracterizează nordul Pădurii Negre?",
+          "a": "Este caracterizat de păduri dese de brazi, văi adânci și platouri înalte întinse."
+        },
+        {
+          "q": "Ce este 'Schwarzwaldhochstraße'?",
+          "a": "Una dintre cele mai vechi și mai cunoscute rute turistice din Germania, care traversează înălțimile din nordul Pădurii Negre."
+        },
+        {
+          "q": "Ce oraș balnear se află la marginea de nord a Pădurii Negre?",
+          "a": "Baden-Baden, orașul balnear de renume mondial, este o poartă importantă către această regiune."
+        },
+        {
+          "q": "Există un parc național acolo?",
+          "a": "Da, Parcul Național Pădurea Neagră a fost înființat în 2014 în nordul Pădurii Negre pentru a proteja natura sălbatică."
+        }
+      ],
+      "en": [
+        {
+          "q": "What characterizes the Northern Black Forest?",
+          "a": "It is characterized by dense fir forests, deep valleys, and wide plateaus."
+        },
+        {
+          "q": "What is the 'Schwarzwaldhochstraße'?",
+          "a": "One of the oldest and most famous scenic roads in Germany, leading across the heights of the Northern Black Forest."
+        },
+        {
+          "q": "Which spa town is located on the edge of the Northern Black Forest?",
+          "a": "Baden-Baden, the world-famous spa town, is an important gateway to the region."
+        },
+        {
+          "q": "Is there a national park there?",
+          "a": "Yes, the Black Forest National Park was founded in 2014 in the Northern Black Forest to let nature take its course."
+        }
+      ]
+    }
   },
 
   {
@@ -1349,6 +3479,80 @@ export const poiExtraDe1: POI[] = [
         "Freiburg Minster is regarded as a jewel of the Gothic.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wofür ist Freiburg im Breisgau besonders bekannt?",
+          "a": "Es gilt als die sonnigste Stadt Deutschlands und als Vorreiter im Umweltschutz (Green City)."
+        },
+        {
+          "q": "Was sind die Freiburger 'Bächle'?",
+          "a": "Kleine Wasserläufe, die durch viele Gassen der Altstadt fließen und ursprünglich zur Wasserversorgung dienten."
+        },
+        {
+          "q": "Was ist das Wahrzeichen der Stadt?",
+          "a": "Das Freiburger Münster mit seinem filigranen Turm, der als 'schönster Turm auf Erden' bezeichnet wurde."
+        },
+        {
+          "q": "Wie heißt der Hausberg von Freiburg?",
+          "a": "Der Schauinsland ist der Hausberg der Stadt und über eine Seilbahn erreichbar."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Miről különösen nevezetes Freiburg im Breisgau?",
+          "a": "Németország legnaposabb városának tartják, és úttörő a környezetvédelem területén (Green City)."
+        },
+        {
+          "q": "Mik azok a freiburgi 'Bächle'-k?",
+          "a": "Kicsi csatornák, amelyek az óváros számos utcáján folynak keresztül, és eredetileg vízellátásra szolgáltak."
+        },
+        {
+          "q": "Mi a város jelképe?",
+          "a": "A freiburgi nagytemplom (Münster) filigrán tornyával, amelyet a 'föld legszebb tornyának' is neveztek."
+        },
+        {
+          "q": "Hogy hívják Freiburg saját hegyét?",
+          "a": "A Schauinsland a város hegye, amely kötélpályás felvonóval érhető el."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Prin ce este renumit în mod deosebit Freiburg im Breisgau?",
+          "a": "Este considerat cel mai însorit oraș din Germania și un pionier în protecția mediului (Green City)."
+        },
+        {
+          "q": "Ce sunt 'Bächle' din Freiburg?",
+          "a": "Mici canale cu apă care curg prin multe străzi ale orașului vechi și care au servit inițial la alimentarea cu apă."
+        },
+        {
+          "q": "Care este simbolul orașului?",
+          "a": "Catedrala din Freiburg (Münster) cu turnul său dantelat, descris ca fiind 'cel mai frumos turn de pe pământ'."
+        },
+        {
+          "q": "Cum se numește muntele local al orașului Freiburg?",
+          "a": "Schauinsland este muntele orașului, accesibil cu ajutorul unei telecabine."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is Freiburg im Breisgau particularly known for?",
+          "a": "It is considered the sunniest city in Germany and a pioneer in environmental protection (Green City)."
+        },
+        {
+          "q": "What are the Freiburg 'Bächle'?",
+          "a": "Small water channels that flow through many streets of the old town, originally used for water supply."
+        },
+        {
+          "q": "What is the landmark of the city?",
+          "a": "Freiburg Minster with its delicate tower, which has been described as the 'most beautiful tower on earth'."
+        },
+        {
+          "q": "What is the name of Freiburg's local mountain?",
+          "a": "The Schauinsland is the city's local mountain and can be reached via a cable car."
+        }
+      ]
+    }
   },
 
   // ─── DE-BE Berlin (+10) ──────────────────────────────────────────────────────
@@ -1396,6 +3600,80 @@ export const poiExtraDe1: POI[] = [
         "The Neues Museum contains the famous bust of Nefertiti.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Welche fünf Museen gehören zur Museumsinsel?",
+          "a": "Das Alte Museum, das Neue Museum, die Alte Nationalgalerie, das Bode-Museum und das Pergamonmuseum."
+        },
+        {
+          "q": "Was ist das bekannteste Ausstellungsstück auf der Museumsinsel?",
+          "a": "Die Büste der Nofretete im Neuen Museum und der Pergamonaltar (derzeit wegen Sanierung geschlossen)."
+        },
+        {
+          "q": "Wann wurde die Museumsinsel zum UNESCO-Welterbe erklärt?",
+          "a": "Sie wurde 1999 als weltweit einzigartiges Ensemble von Museumsbauten in die Welterbeliste aufgenommen."
+        },
+        {
+          "q": "Wer entwarf das erste Museum auf der Insel?",
+          "a": "Karl Friedrich Schinkel entwarf das Alte Museum, das 1830 eröffnet wurde."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Melyik öt múzeum tartozik a Múzeum-szigethez?",
+          "a": "Az Altes Museum, a Neues Museum, az Alte Nationalgalerie, a Bode-Museum és a Pergamonmuseum."
+        },
+        {
+          "q": "Mi a legismertebb kiállítási tárgy a Múzeum-szigeten?",
+          "a": "Nofertiti mellszobra a Neues Museumban és a Pergamon-oltár (jelenleg felújítás miatt zárva)."
+        },
+        {
+          "q": "Mikor nyilvánították a Múzeum-szigetet az UNESCO Világörökség részévé?",
+          "a": "1999-ben került fel a listára, mint a múzeumépületek világszerte egyedülálló együttese."
+        },
+        {
+          "q": "Ki tervezte a sziget első múzeumát?",
+          "a": "Karl Friedrich Schinkel tervezte az Altes Museumot, amelyet 1830-ban nyitottak meg."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care sunt cele cinci muzee care alcătuiesc Insula Muzeelor?",
+          "a": "Altes Museum, Neues Museum, Alte Nationalgalerie, Bode-Museum și Pergamonmuseum."
+        },
+        {
+          "q": "Care este cel mai cunoscut obiect expus pe Insula Muzeelor?",
+          "a": "Bustul lui Nefertiti din Neues Museum și Altarul din Pergamon (momentan închis pentru renovare)."
+        },
+        {
+          "q": "Când a fost declarată Insula Muzeelor patrimoniu mondial UNESCO?",
+          "a": "A fost inclusă pe listă în 1999 ca un ansamblu unic de clădiri muzeale."
+        },
+        {
+          "q": "Cine a proiectat primul muzeu de pe insulă?",
+          "a": "Karl Friedrich Schinkel a proiectat Altes Museum, care a fost deschis în 1830."
+        }
+      ],
+      "en": [
+        {
+          "q": "Which five museums belong to the Museum Island?",
+          "a": "The Altes Museum, the Neues Museum, the Alte Nationalgalerie, the Bode Museum, and the Pergamon Museum."
+        },
+        {
+          "q": "What is the most famous exhibit on the Museum Island?",
+          "a": "The bust of Nefertiti in the Neues Museum and the Pergamon Altar (currently closed for renovation)."
+        },
+        {
+          "q": "When was the Museum Island declared a UNESCO World Heritage Site?",
+          "a": "It was added to the World Heritage List in 1999 as a globally unique ensemble of museum buildings."
+        },
+        {
+          "q": "Who designed the first museum on the island?",
+          "a": "Karl Friedrich Schinkel designed the Altes Museum, which opened in 1830."
+        }
+      ]
+    }
   },
 
   {
@@ -1442,6 +3720,80 @@ export const poiExtraDe1: POI[] = [
         "Official cultural monument since 1991.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist die East Side Gallery?",
+          "a": "Ein 1,3 Kilometer langer Abschnitt der Berliner Mauer, der von Künstlern aus aller Welt bemalt wurde und heute eine Open-Air-Galerie ist."
+        },
+        {
+          "q": "Was ist das bekannteste Gemälde an der Mauer?",
+          "a": "Der 'Bruderkuss' zwischen Leonid Breschnew und Erich Honecker, gemalt von Dmitri Vrubel."
+        },
+        {
+          "q": "Wo befindet sich dieser Mauerabschnitt?",
+          "a": "Er verläuft entlang der Mühlenstraße in Berlin-Friedrichshain, direkt an der Spree."
+        },
+        {
+          "q": "Was symbolisiert die East Side Gallery heute?",
+          "a": "Sie ist ein Denkmal für den Fall der Mauer und ein Symbol für Freiheit und Versöhnung."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi az az East Side Gallery?",
+          "a": "A berlini fal 1,3 kilométer hosszú szakasza, amelyet a világ minden tájáról érkező művészek festettek tele, és ma szabadtéri galériaként működik."
+        },
+        {
+          "q": "Melyik a legismertebb festmény a falon?",
+          "a": "A Leonyid Brezsnyev és Erich Honecker közötti 'testvéri csók', amelyet Dmitrij Vrubel festett."
+        },
+        {
+          "q": "Hol található ez a falszakasz?",
+          "a": "A Mühlenstraßén húzódik Berlin Friedrichshain negyedében, közvetlenül a Spree folyó partján."
+        },
+        {
+          "q": "Mit jelképez ma az East Side Gallery?",
+          "a": "A fal leomlásának emlékhelye, valamint a szabadság és a megbékélés szimbóluma."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce este East Side Gallery?",
+          "a": "O secțiune de 1,3 kilometri a Zidului Berlinului, pictată de artiști din întreaga lume, care astăzi servește ca galerie de artă în aer liber."
+        },
+        {
+          "q": "Care este cea mai cunoscută pictură de pe zid?",
+          "a": "'Sărutul frățesc' dintre Leonid Brejnev și Erich Honecker, pictat de Dmitri Vrubel."
+        },
+        {
+          "q": "Unde se află această secțiune a zidului?",
+          "a": "Se întinde de-a lungul străzii Mühlenstraße în Berlin-Friedrichshain, chiar pe malul râului Spree."
+        },
+        {
+          "q": "Ce simbolizează East Side Gallery astăzi?",
+          "a": "Este un monument dedicat căderii Zidului și un simbol al libertății și reconcilierii."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the East Side Gallery?",
+          "a": "A 1.3-kilometer section of the Berlin Wall painted by artists from all over the world, now functioning as an open-air gallery."
+        },
+        {
+          "q": "What is the most famous painting on the wall?",
+          "a": "The 'Fraternal Kiss' between Leonid Brezhnev and Erich Honecker, painted by Dmitri Vrubel."
+        },
+        {
+          "q": "Where is this section of the wall located?",
+          "a": "It runs along Mühlenstraße in Berlin-Friedrichshain, directly by the Spree River."
+        },
+        {
+          "q": "What does the East Side Gallery symbolize today?",
+          "a": "It is a monument to the fall of the Wall and a symbol of freedom and reconciliation."
+        }
+      ]
+    }
   },
 
   {
@@ -1487,6 +3839,80 @@ export const poiExtraDe1: POI[] = [
         "Houses important collections of porcelain, paintings and decorative arts.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Für wen wurde Schloss Charlottenburg ursprünglich erbaut?",
+          "a": "Es wurde Ende des 17. Jahrhunderts als Sommerresidenz für Sophie Charlotte, die erste Königin in Preußen, errichtet."
+        },
+        {
+          "q": "Was ist das Besondere am Schlossgarten?",
+          "a": "Er ist ein weitläufiger Park, der sowohl barocke Elemente als auch Bereiche im Stil eines englischen Landschaftsgartens umfasst."
+        },
+        {
+          "q": "Was befindet sich in der Goldenen Galerie?",
+          "a": "Es ist ein prachtvoller Festsaal im Stil des friderizianischen Rokoko."
+        },
+        {
+          "q": "Gibt es auf dem Gelände weitere Gebäude?",
+          "a": "Ja, zum Schlossensemble gehören unter anderem das Belvedere, der Neue Pavillon und das Mausoleum der Königin Luise."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Kinek az számára épült eredetileg a Charlottenburgi kastély?",
+          "a": "A 17. század végén épült nyári rezidenciaként Zsófia Sarolta, az első porosz királyné számára."
+        },
+        {
+          "q": "Mi a különlegessége a kastélykertnek?",
+          "a": "Ez egy hatalmas park, amely barokk elemeket és angol tájképi kertstílusú részeket egyaránt tartalmaz."
+        },
+        {
+          "q": "Mi található az Arany Galériában?",
+          "a": "Ez egy pompás bálterem, amely a II. Frigyes-féle rokokó stílusában épült."
+        },
+        {
+          "q": "Vannak más épületek is a területen?",
+          "a": "Igen, a kastélyegyütteshez tartozik többek között a Belvedere, az Új Pavilon és Lujza királyné mauzóleuma."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Pentru cine a fost construit inițial Palatul Charlottenburg?",
+          "a": "A fost construit la sfârșitul secolului al XVII-lea ca reședință de vară pentru Sofia Charlotte, prima regină a Prusiei."
+        },
+        {
+          "q": "Ce este special la grădina palatului?",
+          "a": "Este un parc vast care include atât elemente baroce, cât și zone în stilul unui grădini peisagistice englezești."
+        },
+        {
+          "q": "Ce se află în Galeria de Aur?",
+          "a": "Este o sală de festivități somptuoasă în stilul rococoului friderician."
+        },
+        {
+          "q": "Mai există și alte clădiri pe proprietate?",
+          "a": "Da, ansamblul palatului include, printre altele, Belvedere, Noul Pavilion și Mausoleul reginei Luise."
+        }
+      ],
+      "en": [
+        {
+          "q": "For whom was Charlottenburg Palace originally built?",
+          "a": "It was built at the end of the 17th century as a summer residence for Sophie Charlotte, the first Queen in Prussia."
+        },
+        {
+          "q": "What is special about the palace gardens?",
+          "a": "It is a vast park that includes both Baroque elements and areas in the style of an English landscape garden."
+        },
+        {
+          "q": "What is in the Golden Gallery?",
+          "a": "It is a magnificent ballroom in the style of Friderician Rococo."
+        },
+        {
+          "q": "Are there other buildings on the grounds?",
+          "a": "Yes, the palace complex includes the Belvedere, the New Pavilion, and the Mausoleum of Queen Louise."
+        }
+      ]
+    }
   },
 
   {
@@ -1532,6 +3958,80 @@ export const poiExtraDe1: POI[] = [
         "Important part of Berlin's fresh air corridor.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wo befindet sich der Grunewald?",
+          "a": "Er liegt im Westen Berlins und ist das größte zusammenhängende Waldgebiet der Stadt."
+        },
+        {
+          "q": "Was ist der Grunewaldturm?",
+          "a": "Ein Aussichtsturm auf dem Karlsberg, der zum Gedenken an Kaiser Wilhelm I. erbaut wurde."
+        },
+        {
+          "q": "Welche Seen gibt es im Grunewald?",
+          "a": "Beliebte Seen sind der Schlachtensee, die Krumme Lanke und der Grunewaldsee."
+        },
+        {
+          "q": "Was ist der Teufelsberg?",
+          "a": "Ein künstlicher Hügel aus Trümmerschutt des Zweiten Weltkriegs, auf dem sich eine ehemalige US-Abhörstation befindet."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hol található a Grunewald?",
+          "a": "Berlin nyugati részén fekszik, és a város legnagyobb összefüggő erdőterülete."
+        },
+        {
+          "q": "Mi az a Grunewald-torony?",
+          "a": "Egy kilátótorony a Karlsbergen, amelyet I. Vilmos császár emlékére építettek."
+        },
+        {
+          "q": "Milyen tavak vannak a Grunewald területén?",
+          "a": "Népszerű tavak a Schlachtensee, a Krumme Lanke és a Grunewaldsee."
+        },
+        {
+          "q": "Mi az a Teufelsberg?",
+          "a": "Egy mesterséges domb a második világháború törmelékeiből, amelyen egy egykori amerikai lehallgatóállomás található."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Unde se află pădurea Grunewald?",
+          "a": "Este situată în vestul Berlinului și este cea mai mare zonă forestieră contiguă din oraș."
+        },
+        {
+          "q": "Ce este turnul Grunewald?",
+          "a": "Un turn de observație pe dealul Karlsberg, construit în memoria împăratului Wilhelm I."
+        },
+        {
+          "q": "Ce lacuri se află în Grunewald?",
+          "a": "Lacuri populare sunt Schlachtensee, Krumme Lanke și Grunewaldsee."
+        },
+        {
+          "q": "Ce este Teufelsberg?",
+          "a": "Un deal artificial format din dărâmăturile din al Doilea Război Mondial, pe care se află o fostă stație de interceptare americană."
+        }
+      ],
+      "en": [
+        {
+          "q": "Where is the Grunewald located?",
+          "a": "It is located in western Berlin and is the city's largest contiguous forest area."
+        },
+        {
+          "q": "What is the Grunewald Tower?",
+          "a": "An observation tower on Mount Karlsberg, built in memory of Emperor Wilhelm I."
+        },
+        {
+          "q": "Which lakes are in the Grunewald?",
+          "a": "Popular lakes include Schlachtensee, Krumme Lanke, and Grunewaldsee."
+        },
+        {
+          "q": "What is the Teufelsberg?",
+          "a": "An artificial hill made of rubble from World War II, on which a former US listening station is located."
+        }
+      ]
+    }
   },
 
   {
@@ -1577,6 +4077,80 @@ export const poiExtraDe1: POI[] = [
         "Part of the federal waterway network.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie fließt die Havel durch Berlin?",
+          "a": "Die Havel fließt durch den Westen Berlins und weitet sich dabei oft zu seenartigen Buchten aus, wie am Wannsee."
+        },
+        {
+          "q": "Wo mündet die Spree in die Havel?",
+          "a": "Die Spree mündet in Berlin-Spandau in die Havel."
+        },
+        {
+          "q": "Was ist die Pfaueninsel?",
+          "a": "Eine Insel in der Havel, die für ihr Schloss und die dort lebenden Pfauen bekannt ist."
+        },
+        {
+          "q": "Welche Bedeutung hat die Havel für die Schifffahrt?",
+          "a": "Sie ist eine wichtige Wasserstraße, die Berlin mit der Elbe und dem Kanalnetz verbindet."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Hogyan folyik keresztül a Havel Berlinen?",
+          "a": "A Havel Berlin nyugati részén folyik át, és gyakran tóvá szélesedik, mint például a Wannsee esetében."
+        },
+        {
+          "q": "Hol torkollik a Spree a Havelbe?",
+          "a": "A Spree Berlin Spandau negyedében torkollik a Havelbe."
+        },
+        {
+          "q": "Mi az a Páva-sziget (Pfaueninsel)?",
+          "a": "Egy sziget a Havel folyóban, amely kastélyáról és az ott élő pávákról nevezetes."
+        },
+        {
+          "q": "Milyen jelentősége van a Havelnek a hajózás számára?",
+          "a": "Fontos víziút, amely összeköti Berlint az Elbával és a csatornahálózattal."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cum curge râul Havel prin Berlin?",
+          "a": "Havel curge prin vestul Berlinului și se lărgește adesea în golfuri asemănătoare unor lacuri, cum ar fi la Wannsee."
+        },
+        {
+          "q": "Unde se varsă Spree în Havel?",
+          "a": "Râul Spree se varsă în Havel în districtul Berlin-Spandau."
+        },
+        {
+          "q": "Ce este Pfaueninsel (Insula Păunilor)?",
+          "a": "O insulă pe râul Havel, cunoscută pentru palatul său și pentru păunii care trăiesc acolo."
+        },
+        {
+          "q": "Ce importanță are râul Havel pentru navigație?",
+          "a": "Este o cale navigabilă importantă care leagă Berlinul de Elba și de rețeaua de canale."
+        }
+      ],
+      "en": [
+        {
+          "q": "How does the Havel flow through Berlin?",
+          "a": "The Havel flows through western Berlin and often widens into lake-like bays, such as at Wannsee."
+        },
+        {
+          "q": "Where does the Spree flow into the Havel?",
+          "a": "The Spree flows into the Havel in Berlin-Spandau."
+        },
+        {
+          "q": "What is Peacock Island (Pfaueninsel)?",
+          "a": "An island in the Havel river known for its palace and the peacocks living there."
+        },
+        {
+          "q": "What significance does the Havel have for shipping?",
+          "a": "It is an important waterway connecting Berlin to the Elbe and the canal network."
+        }
+      ]
+    }
   },
 
   {
@@ -1623,6 +4197,80 @@ export const poiExtraDe1: POI[] = [
         "Under heritage protection and modernised in 2004.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wann wurde das Berliner Olympiastadion ursprünglich erbaut?",
+          "a": "Es wurde für die Olympischen Sommerspiele 1936 errichtet."
+        },
+        {
+          "q": "Welcher Fußballverein trägt hier seine Heimspiele aus?",
+          "a": "Hertha BSC nutzt das Olympiastadion als Heimstätte."
+        },
+        {
+          "q": "Gibt es dort eine Kapelle?",
+          "a": "Ja, im Stadion befindet sich eine christliche Kapelle, die für Sportler und Besucher offen steht."
+        },
+        {
+          "q": "Was ist das Maifeld?",
+          "a": "Eine riesige Rasenfläche direkt neben dem Stadion, die früher für Aufmärsche und heute für Sportveranstaltungen oder Konzerte genutzt wird."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mikor épült eredetileg a berlini Olimpiai Stadion?",
+          "a": "Az 1936-os nyári olimpiai játékokra építették."
+        },
+        {
+          "q": "Melyik labdarúgóklub játssza itt a hazai mérkőzéseit?",
+          "a": "A Hertha BSC használja hazai pályaként az Olimpiai Stadiont."
+        },
+        {
+          "q": "Van ott kápolna?",
+          "a": "Igen, a stadionban található egy keresztény kápolna, amely nyitva áll a sportolók és a látogatók előtt."
+        },
+        {
+          "q": "Mi az a Maifeld?",
+          "a": "Egy hatalmas gyepes terület közvetlenül a stadion mellett, amelyet korábban felvonulásokra, ma pedig sporteseményekre vagy koncertekre használnak."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Când a fost construit inițial Stadionul Olimpic din Berlin?",
+          "a": "A fost construit pentru Jocurile Olimpice de vară din 1936."
+        },
+        {
+          "q": "Ce club de fotbal își dispută aici meciurile de acasă?",
+          "a": "Hertha BSC folosește Stadionul Olimpic ca teren propriu."
+        },
+        {
+          "q": "Există o capelă acolo?",
+          "a": "Da, în incinta stadionului se află o capelă creștină, deschisă pentru sportivi și vizitatori."
+        },
+        {
+          "q": "Ce este Maifeld?",
+          "a": "O peluză imensă situată chiar lângă stadion, folosită în trecut pentru parade, iar astăzi pentru evenimente sportive sau concerte."
+        }
+      ],
+      "en": [
+        {
+          "q": "When was the Berlin Olympic Stadium originally built?",
+          "a": "It was built for the 1936 Summer Olympics."
+        },
+        {
+          "q": "Which football club plays its home games here?",
+          "a": "Hertha BSC uses the Olympic Stadium as its home ground."
+        },
+        {
+          "q": "Is there a chapel there?",
+          "a": "Yes, there is a Christian chapel inside the stadium open to athletes and visitors."
+        },
+        {
+          "q": "What is the Maifeld?",
+          "a": "A huge lawn directly next to the stadium, formerly used for parades and now for sports events or concerts."
+        }
+      ]
+    }
   },
 
   {
@@ -1669,6 +4317,80 @@ export const poiExtraDe1: POI[] = [
         "Over 500,000 people visit the memorial annually.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wie heißt das Denkmal offiziell?",
+          "a": "Denkmal für die ermordeten Juden Europas."
+        },
+        {
+          "q": "Wer hat das Denkmal entworfen?",
+          "a": "Der US-amerikanische Architekt Peter Eisenman."
+        },
+        {
+          "q": "Woraus besteht das Denkmal?",
+          "a": "Aus 2.711 unterschiedlich hohen Betonstelen, die ein begehbares Wellenfeld bilden."
+        },
+        {
+          "q": "Gibt es unter dem Denkmal weitere Informationen?",
+          "a": "Ja, dort befindet sich der unterirdische 'Ort der Information' mit Ausstellungen zur Verfolgung und Vernichtung der Juden."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi az emlékmű hivatalos neve?",
+          "a": "Az Európai Meggyilkolt Zsidók Emlékhelye."
+        },
+        {
+          "q": "Ki tervezte az emlékművet?",
+          "a": "Peter Eisenman amerikai építész."
+        },
+        {
+          "q": "Miből áll az emlékmű?",
+          "a": "2711 darab különböző magasságú betonoszlopból (sztéléből), amelyek egy bejárható hullámmezőt alkotnak."
+        },
+        {
+          "q": "Vannak további információk az emlékmű alatt?",
+          "a": "Igen, ott található a földalatti 'Információs Központ', amely a zsidók üldöztetését és megsemmisítését mutatja be."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Care este numele oficial al monumentului?",
+          "a": "Monumentul pentru evreii uciși din Europa."
+        },
+        {
+          "q": "Cine a proiectat monumentul?",
+          "a": "Arhitectul american Peter Eisenman."
+        },
+        {
+          "q": "Din ce este compus monumentul?",
+          "a": "Din 2.711 de stele de beton de înălțimi diferite, care formează un câmp de valuri prin care se poate trece."
+        },
+        {
+          "q": "Există informații suplimentare sub monument?",
+          "a": "Da, acolo se află subteranul 'Centru de Informare' cu expoziții despre persecuția și exterminarea evreilor."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the official name of the memorial?",
+          "a": "Memorial to the Murdered Jews of Europe."
+        },
+        {
+          "q": "Who designed the memorial?",
+          "a": "The American architect Peter Eisenman."
+        },
+        {
+          "q": "What does the memorial consist of?",
+          "a": "It consists of 2,711 concrete stelae of varying heights, forming a wave-like field that can be walked through."
+        },
+        {
+          "q": "Is there additional information under the memorial?",
+          "a": "Yes, there is an underground 'Information Center' with exhibitions on the persecution and annihilation of the Jews."
+        }
+      ]
+    }
   },
 
   {
@@ -1713,6 +4435,80 @@ export const poiExtraDe1: POI[] = [
         "One of Germany's most famous shopping destinations.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist der Kurfürstendamm (Ku'damm)?",
+          "a": "Berlins bekannteste Einkaufsmeile und Flaniermeile im Westen der Stadt."
+        },
+        {
+          "q": "Was ist das bekannteste Kaufhaus am oder nahe dem Ku'damm?",
+          "a": "Das KaDeWe (Kaufhaus des Westens) am Tauentzien, der Verlängerung des Ku'damms."
+        },
+        {
+          "q": "Welche Ruine steht am Ende des Kurfürstendamms?",
+          "a": "Die Kaiser-Wilhelm-Gedächtniskirche, deren Turmruine als Mahnmal gegen den Krieg erhalten blieb."
+        },
+        {
+          "q": "Wofür war der Ku'damm in den 1920er Jahren bekannt?",
+          "a": "Er war das Zentrum des kulturellen und gesellschaftlichen Lebens im Berlin der Goldenen Zwanziger."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi az a Kurfürstendamm (Ku'damm)?",
+          "a": "Berlin legismertebb bevásárlóutcája és korzója a város nyugati részén."
+        },
+        {
+          "q": "Melyik a legismertebb áruház a Ku'damm közelében?",
+          "a": "A KaDeWe (Kaufhaus des Westens) a Tauentzienstraße-n, a Ku'damm folytatásában."
+        },
+        {
+          "q": "Milyen rom áll a Kurfürstendamm végén?",
+          "a": "A Vilmos császár emléktemplom (Kaiser-Wilhelm-Gedächtniskirche), amelynek toronymaradványa a háború elleni mementóként maradt meg."
+        },
+        {
+          "q": "Miről volt ismert a Ku'damm az 1920-as években?",
+          "a": "Berlin kulturális és társadalmi életének központja volt az 'arany húszas években'."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce este Kurfürstendamm (Ku'damm)?",
+          "a": "Cea mai cunoscută stradă comercială și promenadă din vestul Berlinului."
+        },
+        {
+          "q": "Care este cel mai cunoscut magazin situat pe sau lângă Ku'damm?",
+          "a": "KaDeWe (Kaufhaus des Westens), situat pe strada Tauentzien, prelungirea Ku'damm-ului."
+        },
+        {
+          "q": "Ce ruină se află la capătul bulevardului Kurfürstendamm?",
+          "a": "Biserica Memorială Kaiser Wilhelm, a cărei ruină a turnului a fost păstrată ca monument împotriva războiului."
+        },
+        {
+          "q": "Pentru ce a fost cunoscut Ku'damm în anii 1920?",
+          "a": "A fost centrul vieții culturale și sociale în Berlinul 'anilor de aur'."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the Kurfürstendamm (Ku'damm)?",
+          "a": "Berlin's most famous shopping boulevard and promenade in the west of the city."
+        },
+        {
+          "q": "What is the most famous department store on or near the Ku'damm?",
+          "a": "The KaDeWe (Kaufhaus des Westens) on Tauentzienstraße, the extension of the Ku'damm."
+        },
+        {
+          "q": "What ruin stands at the end of the Kurfürstendamm?",
+          "a": "The Kaiser Wilhelm Memorial Church, whose ruined tower was preserved as a memorial against war."
+        },
+        {
+          "q": "What was the Ku'damm known for in the 1920s?",
+          "a": "It was the center of cultural and social life in Berlin during the Golden Twenties."
+        }
+      ]
+    }
   },
 
   {
@@ -1758,6 +4554,80 @@ export const poiExtraDe1: POI[] = [
         "The Spree connects the lake to the rest of Berlin's waterway system.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Was ist der Müggelsee?",
+          "a": "Er ist der größte See Berlins und liegt im Stadtbezirk Treptow-Köpenick."
+        },
+        {
+          "q": "Wie heißt der Berg am Ufer des Sees?",
+          "a": "Die Müggelberge sind mit dem Müggelturm ein beliebtes Ausflugsziel am See."
+        },
+        {
+          "q": "Durch welchen Fluss wird der Müggelsee gespeist?",
+          "a": "Der Müggelsee wird von der Spree durchflossen."
+        },
+        {
+          "q": "Gibt es dort ein Museum?",
+          "a": "Ja, am Nordufer befindet sich das Museum im Wasserwerk, das über die Berliner Wasserversorgung informiert."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Mi az a Müggelsee?",
+          "a": "Berlin legnagyobb tava, amely a Treptow-Köpenick kerületben található."
+        },
+        {
+          "q": "Hogy hívják a tó partján lévő hegyet?",
+          "a": "A Müggelberge a Müggel-toronnyal együtt a tó népszerű kirándulóhelye."
+        },
+        {
+          "q": "Melyik folyó táplálja a Müggelseét?",
+          "a": "A Müggelseén a Spree folyó folyik keresztül."
+        },
+        {
+          "q": "Van ott múzeum?",
+          "a": "Igen, az északi parton található a Vízmű Múzeum, amely a berlini vízellátásról nyújt tájékoztatást."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Ce este Müggelsee?",
+          "a": "Este cel mai mare lac din Berlin, situat în districtul Treptow-Köpenick."
+        },
+        {
+          "q": "Cum se numește dealul de pe malul lacului?",
+          "a": "Dealurile Müggelberge, împreună cu turnul Müggel, reprezintă o destinație populară de excursie lângă lac."
+        },
+        {
+          "q": "Ce râu alimentează lacul Müggelsee?",
+          "a": "Râul Spree traversează lacul Müggelsee."
+        },
+        {
+          "q": "Există un muzeu acolo?",
+          "a": "Da, pe malul nordic se află Muzeul Stației de Apă, care oferă informații despre alimentarea cu apă a Berlinului."
+        }
+      ],
+      "en": [
+        {
+          "q": "What is the Müggelsee?",
+          "a": "It is Berlin's largest lake and is located in the Treptow-Köpenick district."
+        },
+        {
+          "q": "What is the name of the hill on the shore of the lake?",
+          "a": "The Müggelberge hills, with the Müggel Tower, are a popular excursion destination by the lake."
+        },
+        {
+          "q": "Which river feeds the Müggelsee?",
+          "a": "The Spree River flows through the Müggelsee."
+        },
+        {
+          "q": "Is there a museum there?",
+          "a": "Yes, on the north shore is the Museum in the Waterworks, which informs about Berlin's water supply."
+        }
+      ]
+    }
   },
 
   {
@@ -1804,5 +4674,79 @@ export const poiExtraDe1: POI[] = [
         "An important learning site in Germany's culture of remembrance.",
       ],
     },
+    faq: {
+      "de": [
+        {
+          "q": "Wer ließ Schloss Sanssouci erbauen?",
+          "a": "Friedrich der Große ließ es im 18. Jahrhundert als sein privates Sommerschloss errichten."
+        },
+        {
+          "q": "Was bedeutet der Name 'Sanssouci'?",
+          "a": "Der Name stammt aus dem Französischen und bedeutet 'ohne Sorgen'."
+        },
+        {
+          "q": "Was ist das Besondere an der Lage des Schlosses?",
+          "a": "Es liegt oberhalb der berühmten Weinbergterrassen im Park Sanssouci."
+        },
+        {
+          "q": "Wo wurde Friedrich der Große schließlich begraben?",
+          "a": "Sein Wunsch wurde erst 1991 erfüllt, als er in einer Gruft auf der obersten Terrasse von Sanssouci beigesetzt wurde."
+        }
+      ],
+      "hu": [
+        {
+          "q": "Ki építtette a Sanssouci kastélyt?",
+          "a": "Nagy Frigyes építtette a 18. században saját magán nyári kastélyaként."
+        },
+        {
+          "q": "Mit jelent a 'Sanssouci' név?",
+          "a": "A név francia eredetű, jelentése: 'gond nélkül'."
+        },
+        {
+          "q": "Mi a különlegessége a kastély elhelyezkedésének?",
+          "a": "A Sanssouci park híres szőlőteraszai felett helyezkedik el."
+        },
+        {
+          "q": "Végül hová temették Nagy Frigyest?",
+          "a": "Kívánsága csak 1991-ben teljesült, amikor Sanssouci legfelső teraszán, egy kriptában helyezték örök nyugalomra."
+        }
+      ],
+      "ro": [
+        {
+          "q": "Cine a construit Palatul Sanssouci?",
+          "a": "Frederic cel Mare l-a construit în secolul al XVIII-lea ca palat privat de vară."
+        },
+        {
+          "q": "Ce înseamnă numele 'Sanssouci'?",
+          "a": "Numele provine din limba franceză și înseamnă 'fără griji'."
+        },
+        {
+          "q": "Ce este special la locația palatului?",
+          "a": "Este situat deasupra faimoaselor terase de vii din parcul Sanssouci."
+        },
+        {
+          "q": "Unde a fost înmormântat în cele din urmă Frederic cel Mare?",
+          "a": "Dorința sa a fost îndeplinită abia în 1991, când a fost înhumat într-o criptă pe terasa superioară de la Sanssouci."
+        }
+      ],
+      "en": [
+        {
+          "q": "Who had Sanssouci Palace built?",
+          "a": "Frederick the Great had it built in the 18th century as his private summer palace."
+        },
+        {
+          "q": "What does the name 'Sanssouci' mean?",
+          "a": "The name comes from French and means 'without cares'."
+        },
+        {
+          "q": "What is special about the palace's location?",
+          "a": "It is located above the famous vineyard terraces in Sanssouci Park."
+        },
+        {
+          "q": "Where was Frederick the Great eventually buried?",
+          "a": "His wish was finally fulfilled in 1991, when he was interred in a tomb on the topmost terrace of Sanssouci."
+        }
+      ]
+    }
   },
 ];
