@@ -829,8 +829,8 @@ export const InteractiveMap = ({
             "
           >
             {/* Sticky header: cim + X close + Detail gomb egyben, scroll kozben is fixen felul */}
-            <div className="sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-3 bg-[#0A1929]/95 backdrop-blur-md z-10 mb-3">
-              <div className="flex items-start gap-3 mb-3">
+            <div className="sticky top-0 -mt-4 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10 mb-2">
+              <div className="flex items-start gap-3 mb-2">
                 {selectedPoiFromState?.coa && (
                   <img
                     src={selectedPoiFromState.coa}
