@@ -117,3 +117,19 @@ export const ALL_COUNTRY_POIS = ([
   ...unitedkingdomAllPoi,
   ...usaAllPoi,
 ] as POI[]);
+
+// DE POI extensions (batches 1-4b). Separate from main DE pois but need to be in sitemap.
+import { poiExtraDe1 } from "./poiExtraDe1";
+import { poiExtraDe2 } from "./poiExtraDe2";
+import { poiExtraDe3a } from "./poiExtraDe3a";
+import { poiExtraDe3b } from "./poiExtraDe3b";
+import { poiExtraDe4a } from "./poiExtraDe4a";
+import { poiExtraDe4b } from "./poiExtraDe4b";
+export const ALL_DE_EXTRA_POIS: POI[] = [
+  ...poiExtraDe1,
+  ...poiExtraDe2,
+  ...poiExtraDe3a,
+  ...poiExtraDe3b,
+  ...poiExtraDe4a,
+  ...poiExtraDe4b,
+];

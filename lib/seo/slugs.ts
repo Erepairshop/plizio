@@ -2,7 +2,7 @@ import { pois as dePois, regions as deRegions, type POI } from "@/lib/visualLab/
 import { romaniaAllPois, romaniaRegions } from "@/lib/visualLab/data/romaniaPoi";
 import { hungaryAllPoi, hungaryRegions } from "@/lib/visualLab/data/hungaryPoi";
 import { vaticanPois, vaticanCountry } from "@/lib/visualLab/data/vaticanPoi";
-import { ALL_COUNTRY_POIS } from "@/lib/visualLab/data/allCountryPois";
+import { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS } from "@/lib/visualLab/data/allCountryPois";
 import { slugify } from "@/lib/seo/slugify";
 
 export type Lang = "de" | "hu" | "ro" | "en";
@@ -13,7 +13,7 @@ export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 // Plus: all other countries via ALL_COUNTRY_POIS aggregate.
 // De-duplicate by id (RO/HU/Vatican already in the aggregate list too, keep first occurrence).
 const _poiById = new Map<string, POI>();
-for (const p of [...dePois, ...romaniaAllPois, ...hungaryAllPoi, vaticanCountry, ...vaticanPois, ...ALL_COUNTRY_POIS]) {
+for (const p of [...dePois, ...ALL_DE_EXTRA_POIS, ...romaniaAllPois, ...hungaryAllPoi, vaticanCountry, ...vaticanPois, ...ALL_COUNTRY_POIS]) {
   if (p && p.id && !_poiById.has(p.id)) _poiById.set(p.id, p);
 }
 export const pois = Array.from(_poiById.values());

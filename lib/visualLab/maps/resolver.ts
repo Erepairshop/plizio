@@ -10,7 +10,23 @@ import { polandMap, polandViewBox, projectCoordsPL } from "./poland.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { hungarySubregions } from "./hungarySubregions";
-import { pois as deutschlandPois } from "../data/poi";
+import { pois as deutschlandPoisBase } from "../data/poi";
+import { poiExtraDe1 } from "../data/poiExtraDe1";
+import { poiExtraDe2 } from "../data/poiExtraDe2";
+import { poiExtraDe3a } from "../data/poiExtraDe3a";
+import { poiExtraDe3b } from "../data/poiExtraDe3b";
+import { poiExtraDe4a } from "../data/poiExtraDe4a";
+import { poiExtraDe4b } from "../data/poiExtraDe4b";
+
+const deutschlandPois = [
+  ...deutschlandPoisBase,
+  ...poiExtraDe1,
+  ...poiExtraDe2,
+  ...poiExtraDe3a,
+  ...poiExtraDe3b,
+  ...poiExtraDe4a,
+  ...poiExtraDe4b,
+];
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
 import { hungaryAllPoi } from "../data/hungaryPoi";
 import { franceAllPoi } from "../data/francePoi";
