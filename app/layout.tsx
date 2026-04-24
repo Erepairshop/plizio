@@ -120,6 +120,7 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="p:domain_verify" content="bc8e503b19ed76633d55b02b81588df6" />
         <JsonLd data={buildOrganizationSchema()} />
         <JsonLd data={buildWebsiteSchema()} />
       </head>
