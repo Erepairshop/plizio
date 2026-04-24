@@ -413,10 +413,26 @@ export function useQuizEngine({
     return deriveFromTask(task, pois);
   }, [engineState.task, pois]);
 
+  // For tasks with an explicit list of option POIs (spot_error, order_by, distance_guess),
+  // restrict rendering to ONLY those ids so the user isn't distracted by other cities on the map.
+  const visiblePoiIds = useMemo((): Set<string> | null => {
+    const task = engineState.task;
+    if (!task) return null;
+    const ids: string[] = [];
+    if (task.type === "spot_error" && task.optionPoiIds) ids.push(...task.optionPoiIds);
+    if (task.type === "order_by" && task.orderedPoiIds) ids.push(...task.orderedPoiIds);
+    if (task.type === "distance_guess") {
+      if (task.targetPoiId) ids.push(task.targetPoiId);
+      if (task.targetPoiId2) ids.push(task.targetPoiId2);
+    }
+    return ids.length > 0 ? new Set(ids) : null;
+  }, [engineState.task]);
+
   return {
     engineState,
     score,
     visiblePoiTypes,
+    visiblePoiIds,
     handlePoiClick,
     handleCountyClick,
     handleNext,
