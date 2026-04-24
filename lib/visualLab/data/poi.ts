@@ -3545,21 +3545,6 @@ export const pois: POI[] = [
     image: "/geo-images/germany/triberger-wasserfaelle.webp",
   },
   {
-    id: "landmark-partnachklamm",
-    type: "landmark",
-    parent: "DE-BY",
-    coords: [11.11, 47.46],
-    name: { de: "Partnachklamm", hu: "Partnach-szurdok", ro: "Cheile Partnach", en: "Partnach Gorge" },
-    description: { de: "Eine dramatische, 700 Meter lange Schlucht bei Garmisch-Partenkirchen mit tosendem Wasser.", hu: "Drámai, 700 méter hosszú szurdok Garmisch-Partenkirchen mellett, dübörgő vízzel.", ro: "Un defileu dramatic, lung de 700 de metri, lângă Garmisch-Partenkirchen, cu apă vijelioasă.", en: "A dramatic, 700-meter-long gorge near Garmisch-Partenkirchen with thundering water." },
-    facts: {
-      de: ["Gilt seit 1912 als Nationales Naturmonument.", "Auch im Winter mit bizarren Eisformationen begehbar."],
-      hu: ["1912 óta nemzeti természeti emlékmű.", "Télen is látogatható a különleges jégalakzatok miatt."],
-      ro: ["Considerat monument natural național din 1912.", "Accesibil și iarna, cu formațiuni de gheață bizare."],
-      en: ["Considered a National Natural Monument since 1912.", "Accessible in winter with bizarre ice formations."]
-    },
-    image: "/geo-images/germany/partnachklamm.webp",
-  },
-  {
     id: "mountain-zugspitzplatt",
     type: "mountain",
     parent: "DE-BY",
@@ -3618,21 +3603,6 @@ export const pois: POI[] = [
       en: ["Rises 118 meters almost vertically from the Baltic Sea.", "A motif of the famous painter Caspar David Friedrich."]
     },
     image: "/geo-images/germany/koenigsstuhl-ruegen.webp",
-  },
-  {
-    id: "landmark-teufelsmauer",
-    type: "landmark",
-    parent: "DE-ST",
-    coords: [11.0, 51.7],
-    name: { de: "Teufelsmauer (Harz)", hu: "Teufelsmauer (Harz)", ro: "Teufelsmauer (Harz)", en: "Teufelsmauer (Harz)" },
-    description: { de: "Eine markante Felsformation aus Sandstein im nördlichen Harzvorland.", hu: "Markáns homokkő-sziklaalakzat a Harz északi előterében.", ro: "O formațiune stâncoasă proeminentă de gresie în nordul regiunii Harz.", en: "A prominent sandstone rock formation in the northern Harz foreland." },
-    facts: {
-      de: ["Erstreckt sich über ca. 20 km Länge.", "Gegenstand zahlreicher Sagen und Legenden."],
-      hu: ["Körülbelül 20 km hosszan nyúlik el.", "Számos monda és legenda témája."],
-      ro: ["Se întinde pe o lungime de aproximativ 20 km.", "Subiectul a numeroase mituri și legende."],
-      en: ["Stretches over approximately 20 km in length.", "The subject of numerous myths and legends."]
-    },
-    image: "/geo-images/germany/teufelsmauer.webp",
   },
   {
     id: "landmark-saalfelder-feengrotten",
