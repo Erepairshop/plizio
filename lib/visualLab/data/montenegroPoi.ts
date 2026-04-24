@@ -1081,7 +1081,7 @@ export const montenegroAllPoi: POI[] = [
   {
     id: "me-018-lovcen",
     name: { de: "Nationalpark Lovćen", hu: "Lovćen Nemzeti Park", ro: "Parcul Național Lovćen", en: "Lovćen National Park" },
-    type: "nature",
+    type: "landmark",
     coords: [18.8333, 42.4000],
     parent: "ME-018",
     description: {
@@ -1120,7 +1120,7 @@ export const montenegroAllPoi: POI[] = [
   {
     id: "me-019-nevidio",
     name: { de: "Nevidio-Schlucht", hu: "Nevidio-kanyon", ro: "Canionul Nevidio", en: "Nevidio Canyon" },
-    type: "nature",
+    type: "landmark",
     coords: [19.0667, 42.9833],
     parent: "ME-019",
     description: {

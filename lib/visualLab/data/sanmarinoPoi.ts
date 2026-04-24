@@ -820,7 +820,7 @@ export const sanmarinoNature: POI[] = [
   },
   {
     id: "nat-parco-ausa",
-    type: "nature",
+    type: "landmark",
     parent: "SM-001",
     coords: [12.4781, 43.9664],
     name: {
@@ -845,7 +845,7 @@ export const sanmarinoNature: POI[] = [
   },
   {
     id: "nat-sentiero-rupe",
-    type: "nature",
+    type: "landmark",
     parent: "SM-009",
     coords: [12.4430, 43.9350],
     name: {
@@ -870,7 +870,7 @@ export const sanmarinoNature: POI[] = [
   },
   {
     id: "nat-lago-faetano",
-    type: "nature",
+    type: "landmark",
     parent: "SM-003",
     coords: [12.508, 43.931],
     name: {
@@ -894,7 +894,7 @@ export const sanmarinoNature: POI[] = [
   },
   {
     id: "nat-pineta-chiesanuova",
-    type: "nature",
+    type: "landmark",
     parent: "SM-006",
     coords: [12.415, 43.902],
     name: {
@@ -918,7 +918,7 @@ export const sanmarinoNature: POI[] = [
   },
   {
     id: "nat-rupe-baldasserona",
-    type: "nature",
+    type: "landmark",
     parent: "SM-008",
     coords: [12.425, 43.948],
     name: {

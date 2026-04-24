@@ -1,10 +1,8 @@
-import { projectCoordsHR } from "../maps/croatia.svg";
-
 export const croatiaAllPoi = [
   {
     id: "hr-country",
     type: "country",
-    coords: projectCoordsHR(15.2, 45.1),
+    coords: [15.2, 45.1],
     name: {
       de: "Kroatien",
       hu: "Horvátország",
@@ -79,7 +77,7 @@ export const croatiaAllPoi = [
     id: "hr-zagreb",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9819, 45.8150),
+    coords: [15.9819, 45.8150],
     name: {
       de: "Zagreb",
       hu: "Zágráb",
@@ -110,7 +108,7 @@ export const croatiaAllPoi = [
     id: "hr-split",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4401, 43.5081),
+    coords: [16.4401, 43.5081],
     name: {
       de: "Split",
       hu: "Split",
@@ -141,7 +139,7 @@ export const croatiaAllPoi = [
     id: "hr-dubrovnik",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.0944, 42.6507),
+    coords: [18.0944, 42.6507],
     name: {
       de: "Dubrovnik",
       hu: "Dubrovnik",
@@ -172,7 +170,7 @@ export const croatiaAllPoi = [
     id: "hr-plitvice",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.6200, 44.8654),
+    coords: [15.6200, 44.8654],
     name: {
       de: "Nationalpark Plitvicer Seen",
       hu: "Plitvicei-tavak Nemzeti Park",
@@ -197,7 +195,7 @@ export const croatiaAllPoi = [
     id: "hr-hvar",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4400, 43.1700),
+    coords: [16.4400, 43.1700],
     name: {
       de: "Hvar",
       hu: "Hvar",
@@ -222,7 +220,7 @@ export const croatiaAllPoi = [
     id: "hr-pula",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(13.8496, 44.8683),
+    coords: [13.8496, 44.8683],
     name: {
       de: "Pula",
       hu: "Pula",
@@ -247,7 +245,7 @@ export const croatiaAllPoi = [
     id: "hr-rovinj",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(13.6389, 45.0812),
+    coords: [13.6389, 45.0812],
     name: {
       de: "Rovinj",
       hu: "Rovinj",
@@ -272,7 +270,7 @@ export const croatiaAllPoi = [
     id: "hr-krka",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9736, 43.8666),
+    coords: [15.9736, 43.8666],
     name: {
       de: "Nationalpark Krka",
       hu: "Krka Nemzeti Park",
@@ -297,7 +295,7 @@ export const croatiaAllPoi = [
     id: "city-zagreb",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9819, 45.8150),
+    coords: [15.9819, 45.8150],
     name: {
       de: "Zagreb",
       hu: "Zágráb",
@@ -322,7 +320,7 @@ export const croatiaAllPoi = [
     id: "city-split",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4402, 43.5081),
+    coords: [16.4402, 43.5081],
     name: {
       de: "Split",
       hu: "Split",
@@ -347,7 +345,7 @@ export const croatiaAllPoi = [
     id: "city-dubrovnik",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.0944, 42.6507),
+    coords: [18.0944, 42.6507],
     name: {
       de: "Dubrovnik",
       hu: "Dubrovnik",
@@ -372,7 +370,7 @@ export const croatiaAllPoi = [
     id: "city-pula",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(13.8496, 44.8666),
+    coords: [13.8496, 44.8666],
     name: {
       de: "Pula",
       hu: "Póla",
@@ -397,7 +395,7 @@ export const croatiaAllPoi = [
     id: "city-rijeka",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(14.4423, 45.3271),
+    coords: [14.4423, 45.3271],
     name: {
       de: "Rijeka",
       hu: "Rijeka",
@@ -422,7 +420,7 @@ export const croatiaAllPoi = [
     id: "cult-diocletian",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4402, 43.5081),
+    coords: [16.4402, 43.5081],
     name: {
       de: "Diokletianpalast",
       hu: "Diocletianus-palota",
@@ -447,7 +445,7 @@ export const croatiaAllPoi = [
     id: "cult-dubrovnik-walls",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(18.0944, 42.6507),
+    coords: [18.0944, 42.6507],
     name: {
       de: "Stadtmauern von Dubrovnik",
       hu: "Dubrovniki várfal",
@@ -472,7 +470,7 @@ export const croatiaAllPoi = [
     id: "cult-rovinj",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(13.6380, 45.0822),
+    coords: [13.6380, 45.0822],
     name: {
       de: "Rovinj",
       hu: "Rovinj",
@@ -497,7 +495,7 @@ export const croatiaAllPoi = [
     id: "cult-trogir",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(16.2520, 43.5149),
+    coords: [16.2520, 43.5149],
     name: {
       de: "Trogir Altstadt",
       hu: "Trogir óváros",
@@ -522,7 +520,7 @@ export const croatiaAllPoi = [
     id: "cult-hvar",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4394, 43.1729),
+    coords: [16.4394, 43.1729],
     name: {
       de: "Hvar",
       hu: "Hvar",
@@ -547,7 +545,7 @@ export const croatiaAllPoi = [
     id: "nat-plitvice",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.5966, 44.8654),
+    coords: [15.5966, 44.8654],
     name: {
       de: "Plitvicer Seen",
       hu: "Plitvicei-tavak",
@@ -572,7 +570,7 @@ export const croatiaAllPoi = [
     id: "nat-krka",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9685, 43.8013),
+    coords: [15.9685, 43.8013],
     name: {
       de: "Krka-Nationalpark",
       hu: "Krka Nemzeti Park",
@@ -597,7 +595,7 @@ export const croatiaAllPoi = [
     id: "nat-kornati",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.35, 43.80),
+    coords: [15.35, 43.80],
     name: {
       de: "Kornati-Nationalpark",
       hu: "Kornati Nemzeti Park",
@@ -622,7 +620,7 @@ export const croatiaAllPoi = [
     id: "nat-brijuni",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(13.76, 44.91),
+    coords: [13.76, 44.91],
     name: {
       de: "Brijuni-Nationalpark",
       hu: "Brijuni Nemzeti Park",
@@ -647,7 +645,7 @@ export const croatiaAllPoi = [
     id: "nat-risnjak",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(14.65, 45.42),
+    coords: [14.65, 45.42],
     name: {
       de: "Risnjak-Nationalpark",
       hu: "Risnjak Nemzeti Park",
@@ -672,7 +670,7 @@ export const croatiaAllPoi = [
     id: "hr-osijek",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.6955, 45.5540),
+    coords: [18.6955, 45.5540],
     name: {
       de: "Osijek",
       hu: "Eszék",
@@ -697,7 +695,7 @@ export const croatiaAllPoi = [
     id: "hr-rijeka",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(14.4422, 45.3271),
+    coords: [14.4422, 45.3271],
     name: {
       de: "Rijeka",
       hu: "Fiume",
@@ -722,7 +720,7 @@ export const croatiaAllPoi = [
     id: "hr-zadar",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(15.2314, 44.1194),
+    coords: [15.2314, 44.1194],
     name: {
       de: "Zadar",
       hu: "Zára",
@@ -747,7 +745,7 @@ export const croatiaAllPoi = [
     id: "hr-sibenik",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(15.8952, 43.7350),
+    coords: [15.8952, 43.7350],
     name: {
       de: "Šibenik",
       hu: "Sibenik",
@@ -772,7 +770,7 @@ export const croatiaAllPoi = [
     id: "hr-varazdin",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(16.3378, 46.3057),
+    coords: [16.3378, 46.3057],
     name: {
       de: "Varaždin",
       hu: "Várasd",
@@ -797,7 +795,7 @@ export const croatiaAllPoi = [
     id: "hr-karlovac",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(15.5478, 45.4929),
+    coords: [15.5478, 45.4929],
     name: {
       de: "Karlovac",
       hu: "Károlyváros",
@@ -822,7 +820,7 @@ export const croatiaAllPoi = [
     id: "hr-slavonski-brod",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.0156, 45.1603),
+    coords: [18.0156, 45.1603],
     name: {
       de: "Slavonski Brod",
       hu: "Szlavóniai Brod",
@@ -847,7 +845,7 @@ export const croatiaAllPoi = [
     id: "hr-vinkovci",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.8057, 45.2874),
+    coords: [18.8057, 45.2874],
     name: {
       de: "Vinkovci",
       hu: "Vinkovci",
@@ -872,7 +870,7 @@ export const croatiaAllPoi = [
     id: "hr-trogir",
     type: "city",
     parent: "hr-country",
-    coords: projectCoordsHR(18.2211, 43.5167),
+    coords: [18.2211, 43.5167],
     name: {
       de: "Trogir",
       hu: "Trau",
@@ -897,7 +895,7 @@ export const croatiaAllPoi = [
     id: "hr-diocletians-palace",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4407, 43.5072),
+    coords: [16.4407, 43.5072],
     name: {
       de: "Diokletianpalast",
       hu: "Diocletianus-palota",
@@ -922,7 +920,7 @@ export const croatiaAllPoi = [
     id: "hr-dubrovnik-city-walls",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(18.1066, 42.6422),
+    coords: [18.1066, 42.6422],
     name: {
       de: "Stadtmauern von Dubrovnik",
       hu: "Dubrovniki városfalak",
@@ -947,7 +945,7 @@ export const croatiaAllPoi = [
     id: "hr-trogir-old-town",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(18.2152, 43.5145),
+    coords: [18.2152, 43.5145],
     name: {
       de: "Altstadt von Trogir",
       hu: "Trogir óvárosa",
@@ -972,7 +970,7 @@ export const croatiaAllPoi = [
     id: "hr-stari-grad-plain",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(16.6930, 43.1800),
+    coords: [16.6930, 43.1800],
     name: {
       de: "Stari-Grad-Ebene",
       hu: "Stari Grad-síkság",
@@ -997,7 +995,7 @@ export const croatiaAllPoi = [
     id: "hr-trakoscan-castle",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(16.0496, 46.2527),
+    coords: [16.0496, 46.2527],
     name: {
       de: "Schloss Trakošćan",
       hu: "Trakošćán vára",
@@ -1022,7 +1020,7 @@ export const croatiaAllPoi = [
     id: "hr-klis-fortress",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(16.5200, 43.5590),
+    coords: [16.5200, 43.5590],
     name: {
       de: "Festung Klis",
       hu: "Klis erőd",
@@ -1047,7 +1045,7 @@ export const croatiaAllPoi = [
     id: "hr-knin-fortress",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(16.1998, 44.0382),
+    coords: [16.1998, 44.0382],
     name: {
       de: "Festung Knin",
       hu: "Knin vára",
@@ -1072,7 +1070,7 @@ export const croatiaAllPoi = [
     id: "hr-krbava-field",
     type: "historical",
     parent: "hr-country",
-    coords: projectCoordsHR(15.6890, 44.5300),
+    coords: [15.6890, 44.5300],
     name: {
       de: "Krbava-Feld",
       hu: "Krbava-mező",
@@ -1097,7 +1095,7 @@ export const croatiaAllPoi = [
     id: "hr-velebit",
     type: "mountain",
     parent: "hr-country",
-    coords: projectCoordsHR(15.2, 44.5),
+    coords: [15.2, 44.5],
     name: {
       de: "Velebit",
       hu: "Velebit",
@@ -1122,7 +1120,7 @@ export const croatiaAllPoi = [
     id: "hr-biokovo",
     type: "mountain",
     parent: "hr-country",
-    coords: projectCoordsHR(17.0530, 43.3550),
+    coords: [17.0530, 43.3550],
     name: {
       de: "Biokovo",
       hu: "Biokovo",
@@ -1147,7 +1145,7 @@ export const croatiaAllPoi = [
     id: "hr-dinara",
     type: "mountain",
     parent: "hr-country",
-    coords: projectCoordsHR(16.3740, 44.0560),
+    coords: [16.3740, 44.0560],
     name: {
       de: "Dinara",
       hu: "Dinara",
@@ -1172,7 +1170,7 @@ export const croatiaAllPoi = [
     id: "hr-vransko-jezero",
     type: "lake",
     parent: "hr-country",
-    coords: projectCoordsHR(15.7640, 43.9430),
+    coords: [15.7640, 43.9430],
     name: {
       de: "Vransko jezero",
       hu: "Vrana-tó",
@@ -1197,7 +1195,7 @@ export const croatiaAllPoi = [
     id: "hr-cetina-river",
     type: "river",
     parent: "hr-country",
-    coords: projectCoordsHR(16.7330, 43.7950),
+    coords: [16.7330, 43.7950],
     name: {
       de: "Cetina",
       hu: "Cetina",
@@ -1222,7 +1220,7 @@ export const croatiaAllPoi = [
     id: "hr-mljet-island",
     type: "island",
     parent: "hr-country",
-    coords: projectCoordsHR(17.4860, 42.7450),
+    coords: [17.4860, 42.7450],
     name: {
       de: "Mljet",
       hu: "Mljet",
@@ -1247,7 +1245,7 @@ export const croatiaAllPoi = [
     id: "hr-cres-island",
     type: "island",
     parent: "hr-country",
-    coords: projectCoordsHR(14.3500, 44.9500),
+    coords: [14.3500, 44.9500],
     name: {
       de: "Cres",
       hu: "Cres",
@@ -1272,7 +1270,7 @@ export const croatiaAllPoi = [
     id: "hr-motovun-forest",
     type: "forest",
     parent: "hr-country",
-    coords: projectCoordsHR(13.8290, 45.3360),
+    coords: [13.8290, 45.3360],
     name: {
       de: "Motovuner Wald",
       hu: "Motovun erdő",
@@ -1297,7 +1295,7 @@ export const croatiaAllPoi = [
     id: "hr-museum-broken-relationships",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9767, 45.8151),
+    coords: [15.9767, 45.8151],
     name: {
       de: "Museum der zerbrochenen Beziehungen",
       hu: "Tört kapcsolatok múzeuma",
@@ -1322,7 +1320,7 @@ export const croatiaAllPoi = [
     id: "hr-zagreb-cathedral",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9819, 45.8140),
+    coords: [15.9819, 45.8140],
     name: {
       de: "Zagreber Kathedrale",
       hu: "Zágrábi székesegyház",
@@ -1347,7 +1345,7 @@ export const croatiaAllPoi = [
     id: "hr-pula-arena",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(13.8506, 44.8730),
+    coords: [13.8506, 44.8730],
     name: {
       de: "Arena Pula",
       hu: "Pulai Aréna",
@@ -1372,7 +1370,7 @@ export const croatiaAllPoi = [
     id: "hr-croatian-national-theatre-zagreb",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9754, 45.8092),
+    coords: [15.9754, 45.8092],
     name: {
       de: "Kroatisches Nationaltheater in Zagreb",
       hu: "Horvát Nemzeti Színház Zágrábban",
@@ -1397,7 +1395,7 @@ export const croatiaAllPoi = [
     id: "hr-mirogoj-cemetery",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9796, 45.8720),
+    coords: [15.9796, 45.8720],
     name: {
       de: "Mirogoj-Friedhof",
       hu: "Mirogoj temető",
@@ -1422,7 +1420,7 @@ export const croatiaAllPoi = [
     id: "hr-st-james-cathedral-sibenik",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.8949, 43.7352),
+    coords: [15.8949, 43.7352],
     name: {
       de: "Kathedrale des Heiligen Jakob in Šibenik",
       hu: "Szent Jakab-székesegyház, Šibenik",
@@ -1447,7 +1445,7 @@ export const croatiaAllPoi = [
     id: "hr-zagreb-funicular",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(15.9766, 45.8132),
+    coords: [15.9766, 45.8132],
     name: {
       de: "Zagreber Standseilbahn",
       hu: "Zágrábi sikló",
@@ -1472,7 +1470,7 @@ export const croatiaAllPoi = [
     id: "hr-golden-gate-split",
     type: "landmark",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4400, 43.5087),
+    coords: [16.4400, 43.5087],
     name: {
       de: "Goldenes Tor von Split",
       hu: "Spliti Aranykapu",
@@ -1497,7 +1495,7 @@ export const croatiaAllPoi = [
     id: "hr-port-of-rijeka",
     type: "port",
     parent: "hr-country",
-    coords: projectCoordsHR(14.4410, 45.3235),
+    coords: [14.4410, 45.3235],
     name: {
       de: "Hafen von Rijeka",
       hu: "Rijeka kikötője",
@@ -1522,7 +1520,7 @@ export const croatiaAllPoi = [
     id: "hr-port-of-split",
     type: "port",
     parent: "hr-country",
-    coords: projectCoordsHR(16.4300, 43.5030),
+    coords: [16.4300, 43.5030],
     name: {
       de: "Hafen von Split",
       hu: "Split kikötője",
@@ -1547,7 +1545,7 @@ export const croatiaAllPoi = [
     id: "hr-port-of-ploce",
     type: "port",
     parent: "hr-country",
-    coords: projectCoordsHR(18.4350, 43.0615),
+    coords: [18.4350, 43.0615],
     name: {
       de: "Hafen von Ploče",
       hu: "Ploče kikötője",
@@ -1572,7 +1570,7 @@ export const croatiaAllPoi = [
     id: "hr-uljanik-shipyard",
     type: "industry",
     parent: "hr-country",
-    coords: projectCoordsHR(13.8598, 44.8722),
+    coords: [13.8598, 44.8722],
     name: {
       de: "Werft Uljanik",
       hu: "Uljanik Hajógyár",
@@ -1597,7 +1595,7 @@ export const croatiaAllPoi = [
     id: "hr-3-maj-shipyard",
     type: "industry",
     parent: "hr-country",
-    coords: projectCoordsHR(14.4308, 45.3186),
+    coords: [14.4308, 45.3186],
     name: {
       de: "Werft 3. Maj",
       hu: "3. Maj hajógyár",
@@ -1622,7 +1620,7 @@ export const croatiaAllPoi = [
     id: "hr-dingac-vineyards",
     type: "agriculture",
     parent: "hr-country",
-    coords: projectCoordsHR(17.2290, 42.9810),
+    coords: [17.2290, 42.9810],
     name: {
       de: "Dingač-Weinberge",
       hu: "Dingač szőlőültetvényei",

@@ -66,7 +66,7 @@ export const serbiaRegions: POI[] = [
 export const serbiaCities: POI[] = [
   {
     id: "city-belgrade",
-    type: "capital",
+    type: "state-capital",
     parent: "country-serbia",
     coords: [20.4489, 44.7866],
     name: { de: "Belgrad", hu: "Belgrád", ro: "Belgrad", en: "Belgrade" },
@@ -203,7 +203,7 @@ export const serbiaCities: POI[] = [
 export const serbiaCulture: POI[] = [
   {
     id: "castle-kalemegdan",
-    type: "castle",
+    type: "historical",
     parent: "city-belgrade",
     coords: [20.4500, 44.8236],
     name: { de: "Festung Kalemegdan", hu: "Kalemegdan erőd", ro: "Cetatea Kalemegdan", en: "Kalemegdan Fortress" },
@@ -222,7 +222,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "castle-petrovaradin",
-    type: "castle",
+    type: "historical",
     parent: "city-novi-sad",
     coords: [19.8631, 45.2522],
     name: { de: "Festung Petrovaradin", hu: "Péterváradi erőd", ro: "Cetatea Petrovaradin", en: "Petrovaradin Fortress" },
@@ -241,7 +241,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "church-studenica",
-    type: "church",
+    type: "landmark",
     parent: "country-serbia",
     coords: [20.5317, 43.4864],
     name: { de: "Kloster Studenica", hu: "Studenica kolostor", ro: "Mănăstirea Studenica", en: "Studenica Monastery" },
@@ -260,7 +260,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "castle-golubac",
-    type: "castle",
+    type: "historical",
     parent: "country-serbia",
     coords: [21.6775, 44.6611],
     name: { de: "Festung Golubac", hu: "Galambóc vára", ro: "Cetatea Golubac", en: "Golubac Fortress" },
@@ -279,7 +279,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "archaeology-felix-romuliana",
-    type: "monument",
+    type: "landmark",
     parent: "country-serbia",
     coords: [22.1861, 43.8994],
     name: { de: "Felix Romuliana", hu: "Felix Romuliana", ro: "Felix Romuliana", en: "Felix Romuliana" },
@@ -298,7 +298,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "monument-skull-tower",
-    type: "monument",
+    type: "landmark",
     parent: "city-nis",
     coords: [21.9231, 43.3117],
     name: { de: "Schädelturm", hu: "Koponyatorony", ro: "Turnul Craniilor", en: "Skull Tower" },
@@ -317,7 +317,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "church-saint-sava",
-    type: "church",
+    type: "landmark",
     parent: "city-belgrade",
     coords: [20.4686, 44.7981],
     name: { de: "Tempel des Heiligen Sava", hu: "Szent Száva-templom", ro: "Catedrala Sfântul Sava", en: "Temple of Saint Sava" },
@@ -336,7 +336,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "castle-smederevo",
-    type: "castle",
+    type: "historical",
     parent: "country-serbia",
     coords: [20.9292, 44.6669],
     name: { de: "Festung Smederevo", hu: "Szendrői vár", ro: "Cetatea Smederevo", en: "Smederevo Fortress" },
@@ -355,7 +355,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "monument-oplenac",
-    type: "church",
+    type: "landmark",
     parent: "region-sumadija",
     coords: [20.6833, 44.2500],
     name: { de: "Oplenac", hu: "Oplenac", ro: "Oplenac", en: "Oplenac" },
@@ -374,7 +374,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "spa-vrnjacka-banja",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [20.8953, 43.6267],
     name: { de: "Vrnjačka Banja", hu: "Vrnjačka Banja", ro: "Vrnjačka Banja", en: "Vrnjačka Banja" },
@@ -393,7 +393,7 @@ export const serbiaCulture: POI[] = [
   },
   {
     id: "spa-sokobanja",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [21.8744, 43.6450],
     name: { de: "Sokobanja", hu: "Sokobanja", ro: "Sokobanja", en: "Sokobanja" },
@@ -416,7 +416,7 @@ export const serbiaCulture: POI[] = [
 export const serbiaNature: POI[] = [
   {
     id: "nature-tara-national-park",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [19.4500, 43.8500],
     name: { de: "Nationalpark Tara", hu: "Tara Nemzeti Park", ro: "Parcul Național Tara", en: "Tara National Park" },
@@ -435,7 +435,7 @@ export const serbiaNature: POI[] = [
   },
   {
     id: "nature-djerdap-national-park",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [22.1500, 44.5833],
     name: { de: "Nationalpark Đerdap", hu: "Vaskapu Nemzeti Park", ro: "Parcul Național Đerdap", en: "Đerdap National Park" },
@@ -492,7 +492,7 @@ export const serbiaNature: POI[] = [
   },
   {
     id: "nature-uvac",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [19.9250, 43.3611],
     name: { de: "Uvac-Schlucht", hu: "Uvac-kanyon", ro: "Defileul Uvac", en: "Uvac Canyon" },
@@ -530,7 +530,7 @@ export const serbiaNature: POI[] = [
   },
   {
     id: "nature-djavolja-varos",
-    type: "nature",
+    type: "landmark",
     parent: "country-serbia",
     coords: [21.4000, 42.9833],
     name: { de: "Đavolja Varoš", hu: "Ördögváros (Đavolja Varoš)", ro: "Đavolja Varoš", en: "Devil's Town (Đavolja Varoš)" },
@@ -1022,7 +1022,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-011-djavolja-varos-site",
-    type: "nature",
+    type: "landmark",
     parent: "RS-011",
     coords: [21.4000, 42.9833],
     name: { de: "Đavolja Varoš", hu: "Ördögváros", ro: "Đavolja Varoš", en: "Devil's Town" },
@@ -1061,7 +1061,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-012-tara-national-park-site",
-    type: "nature",
+    type: "landmark",
     parent: "RS-012",
     coords: [19.4500, 43.8500],
     name: { de: "Nationalpark Tara", hu: "Tara Nemzeti Park", ro: "Parcul Național Tara", en: "Tara National Park" },
@@ -1178,7 +1178,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-015-petrovaradin-fort",
-    type: "castle",
+    type: "historical",
     parent: "RS-015",
     coords: [19.8631, 45.2522],
     name: { de: "Festung Petrovaradin", hu: "Péterváradi erőd", ro: "Cetatea Petrovaradin", en: "Petrovaradin Fortress" },
@@ -1217,7 +1217,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-016-carska-bara",
-    type: "nature",
+    type: "landmark",
     parent: "RS-016",
     coords: [20.3800, 45.2500],
     name: { de: "Carska Bara", hu: "Császár-tó", ro: "Carska Bara", en: "Carska Bara" },
@@ -1315,7 +1315,7 @@ export const serbiaDistrictPoi: POI[] = [
   // RS-019 Grad Beograd
   {
     id: "RS-019-belgrade-capital",
-    type: "capital",
+    type: "state-capital",
     parent: "RS-019",
     coords: [20.4489, 44.7866],
     name: { de: "Belgrad", hu: "Belgrád", ro: "Belgrad", en: "Belgrade" },
@@ -1334,7 +1334,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-019-kalemegdan-fort",
-    type: "castle",
+    type: "historical",
     parent: "RS-019",
     coords: [20.4500, 44.8236],
     name: { de: "Kalemegdan", hu: "Kalemegdan erőd", ro: "Cetatea Kalemegdan", en: "Kalemegdan Fortress" },
@@ -1373,7 +1373,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-020-smederevo-fort",
-    type: "castle",
+    type: "historical",
     parent: "RS-020",
     coords: [20.9292, 44.6669],
     name: { de: "Festung Smederevo", hu: "Szendrői vár", ro: "Cetatea Smederevo", en: "Smederevo Fortress" },
@@ -1412,7 +1412,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-021-skull-tower-monument",
-    type: "monument",
+    type: "landmark",
     parent: "RS-021",
     coords: [21.9231, 43.3117],
     name: { de: "Schädelturm", hu: "Koponyatorony", ro: "Turnul Craniilor", en: "Skull Tower" },
@@ -1529,7 +1529,7 @@ export const serbiaDistrictPoi: POI[] = [
   },
   {
     id: "RS-024-ovcar-kablar",
-    type: "nature",
+    type: "landmark",
     parent: "RS-024",
     coords: [20.1800, 43.9000],
     name: { de: "Ovčar-Kablar-Schlucht", hu: "Ovčar-Kablar-szurdok", ro: "Defileul Ovčar-Kablar", en: "Ovčar-Kablar Gorge" },

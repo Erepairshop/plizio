@@ -1,10 +1,8 @@
-import { projectCoordsLT } from "../maps/lithuania.svg";
-
 export const lithuaniaAllPoi = [
   {
     id: "lt-country",
     type: "country",
-    coords: projectCoordsLT(23.8813, 55.1694),
+    coords: [23.8813, 55.1694],
     name: {
       de: "Litauen",
       hu: "Litvánia",
@@ -79,7 +77,7 @@ export const lithuaniaAllPoi = [
     id: "lt-vilnius",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2797, 54.6872),
+    coords: [25.2797, 54.6872],
     name: {
       de: "Vilnius",
       hu: "Vilnius",
@@ -110,7 +108,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kaunas",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.9036, 54.8985),
+    coords: [23.9036, 54.8985],
     name: {
       de: "Kaunas",
       hu: "Kaunas",
@@ -135,7 +133,7 @@ export const lithuaniaAllPoi = [
     id: "lt-klaipeda",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1443, 55.7033),
+    coords: [21.1443, 55.7033],
     name: {
       de: "Klaipėda",
       hu: "Klaipėda",
@@ -160,7 +158,7 @@ export const lithuaniaAllPoi = [
     id: "lt-trakai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(24.9333, 54.6333),
+    coords: [24.9333, 54.6333],
     name: {
       de: "Trakai",
       hu: "Trakai",
@@ -185,7 +183,7 @@ export const lithuaniaAllPoi = [
     id: "lt-hill-of-crosses",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(23.4167, 56.0153),
+    coords: [23.4167, 56.0153],
     name: {
       de: "Berg der Kreuze",
       hu: "Keresztek hegye",
@@ -210,7 +208,7 @@ export const lithuaniaAllPoi = [
     id: "lt-curonian-spit",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(21.0167, 55.4500),
+    coords: [21.0167, 55.4500],
     name: {
       de: "Kurische Nehrung",
       hu: "Kur-földnyelv",
@@ -235,7 +233,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kernave",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(24.8500, 54.8833),
+    coords: [24.8500, 54.8833],
     name: {
       de: "Kernavė",
       hu: "Kernavė",
@@ -260,7 +258,7 @@ export const lithuaniaAllPoi = [
     id: "city-vilnius",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2797, 54.6872),
+    coords: [25.2797, 54.6872],
     name: {
       de: "Vilnius",
       hu: "Vilnius",
@@ -285,7 +283,7 @@ export const lithuaniaAllPoi = [
     id: "city-kaunas",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.9036, 54.8985),
+    coords: [23.9036, 54.8985],
     name: {
       de: "Kaunas",
       hu: "Kaunas",
@@ -310,7 +308,7 @@ export const lithuaniaAllPoi = [
     id: "city-klaipeda",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1443, 55.7033),
+    coords: [21.1443, 55.7033],
     name: {
       de: "Klaipėda",
       hu: "Klaipėda",
@@ -335,7 +333,7 @@ export const lithuaniaAllPoi = [
     id: "city-siauliai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.3156, 55.9333),
+    coords: [23.3156, 55.9333],
     name: {
       de: "Šiauliai",
       hu: "Šiauliai",
@@ -360,7 +358,7 @@ export const lithuaniaAllPoi = [
     id: "cult-vilnius-oldtown",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.287, 54.6776),
+    coords: [25.287, 54.6776],
     name: {
       de: "Altstadt Vilnius",
       hu: "Vilnius óváros",
@@ -385,7 +383,7 @@ export const lithuaniaAllPoi = [
     id: "cult-trakai",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(24.9336, 54.6528),
+    coords: [24.9336, 54.6528],
     name: {
       de: "Inselburg Trakai",
       hu: "Trakai sziget-kastély",
@@ -410,7 +408,7 @@ export const lithuaniaAllPoi = [
     id: "cult-hill-crosses",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(23.4153, 56.0153),
+    coords: [23.4153, 56.0153],
     name: {
       de: "Berg der Kreuze",
       hu: "Kryžių kalnas",
@@ -435,7 +433,7 @@ export const lithuaniaAllPoi = [
     id: "cult-kernave",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(24.8561, 54.8875),
+    coords: [24.8561, 54.8875],
     name: {
       de: "Kernavė",
       hu: "Kernavė",
@@ -460,7 +458,7 @@ export const lithuaniaAllPoi = [
     id: "nat-curonian-spit",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1, 55.4),
+    coords: [21.1, 55.4],
     name: {
       de: "Kurische Nehrung / Neringa",
       hu: "Kuron-nyelv / Neringa",
@@ -485,7 +483,7 @@ export const lithuaniaAllPoi = [
     id: "nat-aukstaitija",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.8, 55.4),
+    coords: [25.8, 55.4],
     name: {
       de: "Aukštaitija-NP",
       hu: "Aukštaitija NP",
@@ -510,7 +508,7 @@ export const lithuaniaAllPoi = [
     id: "nat-dzukija",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(24.2, 54.0),
+    coords: [24.2, 54.0],
     name: {
       de: "Dzūkija-NP",
       hu: "Dzūkija NP",
@@ -535,7 +533,7 @@ export const lithuaniaAllPoi = [
     id: "nat-kursiu-neringa",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(20.9956, 55.3058),
+    coords: [20.9956, 55.3058],
     name: {
       de: "Nida-Dorf + Cape Horn",
       hu: "Nida falu + Cape Horn",
@@ -560,7 +558,7 @@ export const lithuaniaAllPoi = [
     id: "nat-nemunas",
     type: "river",
     parent: "lt-country",
-    coords: projectCoordsLT(21.4, 55.33),
+    coords: [21.4, 55.33],
     name: {
       de: "Memel-Delta",
       hu: "Nemunas-delta",
@@ -585,7 +583,7 @@ export const lithuaniaAllPoi = [
     id: "nat-zemaitija",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(22.0, 55.98),
+    coords: [22.0, 55.98],
     name: {
       de: "Žemaitija-Nationalpark",
       hu: "Žemaitija NP",
@@ -610,7 +608,7 @@ export const lithuaniaAllPoi = [
     id: "nat-baltic-dunes",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(20.995, 55.306),
+    coords: [20.995, 55.306],
     name: {
       de: "Parnidis-Düne, Nida",
       hu: "Parnidis-dűne, Nida",
@@ -635,7 +633,7 @@ export const lithuaniaAllPoi = [
     id: "nat-labanoras",
     type: "forest",
     parent: "lt-country",
-    coords: projectCoordsLT(25.78, 55.3),
+    coords: [25.78, 55.3],
     name: {
       de: "Labanoras",
       hu: "Labanoras",
@@ -660,7 +658,7 @@ export const lithuaniaAllPoi = [
     id: "cult-rumsiskes",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(24.2, 54.867),
+    coords: [24.2, 54.867],
     name: {
       de: "Rumšiškės-Freilichtmuseum",
       hu: "Rumšiškės skanzen",
@@ -685,7 +683,7 @@ export const lithuaniaAllPoi = [
     id: "cult-panemune-castles",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(22.74, 55.08),
+    coords: [22.74, 55.08],
     name: {
       de: "Panemunė-Burgen",
       hu: "Panemunė várak",
@@ -710,7 +708,7 @@ export const lithuaniaAllPoi = [
     id: "cult-grutas",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(24.0, 53.995),
+    coords: [24.0, 53.995],
     name: {
       de: "Grūtas-Park",
       hu: "Grūtas-park",
@@ -735,7 +733,7 @@ export const lithuaniaAllPoi = [
     id: "cult-gediminas-tower",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.291, 54.687),
+    coords: [25.291, 54.687],
     name: {
       de: "Gediminas-Turm",
       hu: "Gediminas-torony",
@@ -760,7 +758,7 @@ export const lithuaniaAllPoi = [
     id: "cult-palanga-amber",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(21.064, 55.917),
+    coords: [21.064, 55.917],
     name: {
       de: "Bernsteinmuseum Palanga",
       hu: "Palanga borostyán-múzeum",
@@ -785,7 +783,7 @@ export const lithuaniaAllPoi = [
     id: "cult-uzupis",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.296, 54.68),
+    coords: [25.296, 54.68],
     name: {
       de: "Užupis",
       hu: "Užupis",
@@ -810,7 +808,7 @@ export const lithuaniaAllPoi = [
     id: "lt-siauliai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.3176, 55.9349),
+    coords: [23.3176, 55.9349],
     name: {
       de: "Šiauliai",
       hu: "Šiauliai",
@@ -835,7 +833,7 @@ export const lithuaniaAllPoi = [
     id: "lt-panevezys",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(24.3586, 55.7348),
+    coords: [24.3586, 55.7348],
     name: {
       de: "Panevėžys",
       hu: "Panevėžys",
@@ -860,7 +858,7 @@ export const lithuaniaAllPoi = [
     id: "lt-alytus",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(24.0410, 54.3960),
+    coords: [24.0410, 54.3960],
     name: {
       de: "Alytus",
       hu: "Alytus",
@@ -885,7 +883,7 @@ export const lithuaniaAllPoi = [
     id: "lt-marijampole",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.3542, 54.5599),
+    coords: [23.3542, 54.5599],
     name: {
       de: "Marijampolė",
       hu: "Marijampolė",
@@ -910,7 +908,7 @@ export const lithuaniaAllPoi = [
     id: "lt-mazeikiai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(22.3400, 56.3167),
+    coords: [22.3400, 56.3167],
     name: {
       de: "Mažeikiai",
       hu: "Mažeikiai",
@@ -935,7 +933,7 @@ export const lithuaniaAllPoi = [
     id: "lt-jonava",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(24.2800, 55.0750),
+    coords: [24.2800, 55.0750],
     name: {
       de: "Jonava",
       hu: "Jonava",
@@ -960,7 +958,7 @@ export const lithuaniaAllPoi = [
     id: "lt-utena",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(25.5978, 55.4976),
+    coords: [25.5978, 55.4976],
     name: {
       de: "Utena",
       hu: "Utena",
@@ -985,7 +983,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kedainiai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(23.9720, 55.2875),
+    coords: [23.9720, 55.2875],
     name: {
       de: "Kėdainiai",
       hu: "Kėdainiai",
@@ -1010,7 +1008,7 @@ export const lithuaniaAllPoi = [
     id: "lt-taurage",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(24.2797, 55.2515),
+    coords: [24.2797, 55.2515],
     name: {
       de: "Tauragė",
       hu: "Tauragė",
@@ -1035,7 +1033,7 @@ export const lithuaniaAllPoi = [
     id: "lt-telsiai",
     type: "city",
     parent: "lt-country",
-    coords: projectCoordsLT(22.2470, 55.9870),
+    coords: [22.2470, 55.9870],
     name: {
       de: "Telšiai",
       hu: "Telšiai",
@@ -1061,7 +1059,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kaunas-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(23.9040, 54.8970),
+    coords: [23.9040, 54.8970],
     name: {
       de: "Burg Kaunas",
       hu: "Kaunasi vár",
@@ -1086,7 +1084,7 @@ export const lithuaniaAllPoi = [
     id: "lt-trakai-peninsula-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(24.9348, 54.6348),
+    coords: [24.9348, 54.6348],
     name: {
       de: "Halbinselburg Trakai",
       hu: "Trakai félszigeti vára",
@@ -1111,7 +1109,7 @@ export const lithuaniaAllPoi = [
     id: "lt-birzai-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(24.7500, 56.2017),
+    coords: [24.7500, 56.2017],
     name: {
       de: "Burg Biržai",
       hu: "Biržai vára",
@@ -1136,7 +1134,7 @@ export const lithuaniaAllPoi = [
     id: "lt-raudone-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(23.0910, 55.0850),
+    coords: [23.0910, 55.0850],
     name: {
       de: "Burg Raudonė",
       hu: "Raudonė vára",
@@ -1161,7 +1159,7 @@ export const lithuaniaAllPoi = [
     id: "lt-raudondvaris-manor",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(23.7760, 54.9390),
+    coords: [23.7760, 54.9390],
     name: {
       de: "Gut Raudondvaris",
       hu: "Raudondvaris-kastély",
@@ -1186,7 +1184,7 @@ export const lithuaniaAllPoi = [
     id: "lt-medininkai-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(25.6680, 54.5440),
+    coords: [25.6680, 54.5440],
     name: {
       de: "Burg Medininkai",
       hu: "Medininkai vára",
@@ -1211,7 +1209,7 @@ export const lithuaniaAllPoi = [
     id: "lt-siesikai-castle",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(23.5180, 55.4470),
+    coords: [23.5180, 55.4470],
     name: {
       de: "Burg Siesikai",
       hu: "Siesikai vára",
@@ -1236,7 +1234,7 @@ export const lithuaniaAllPoi = [
     id: "lt-tuskulenai-memorial",
     type: "historical",
     parent: "lt-country",
-    coords: projectCoordsLT(25.3100, 54.7100),
+    coords: [25.3100, 54.7100],
     name: {
       de: "Tuskulėnai-Gedenkstätte",
       hu: "Tuskulėnai-emlékhely",
@@ -1261,7 +1259,7 @@ export const lithuaniaAllPoi = [
     id: "lt-aukstojas-hill",
     type: "mountain",
     parent: "lt-country",
-    coords: projectCoordsLT(25.4875, 54.6090),
+    coords: [25.4875, 54.6090],
     name: {
       de: "Aukštojas-Hügel",
       hu: "Aukštojas-domb",
@@ -1286,7 +1284,7 @@ export const lithuaniaAllPoi = [
     id: "lt-lake-galve",
     type: "lake",
     parent: "lt-country",
-    coords: projectCoordsLT(24.9360, 54.6480),
+    coords: [24.9360, 54.6480],
     name: {
       de: "Galvė-See",
       hu: "Galvė-tó",
@@ -1311,7 +1309,7 @@ export const lithuaniaAllPoi = [
     id: "lt-lake-plateliai",
     type: "lake",
     parent: "lt-country",
-    coords: projectCoordsLT(21.8280, 56.0450),
+    coords: [21.8280, 56.0450],
     name: {
       de: "Plateliai-See",
       hu: "Plateliai-tó",
@@ -1336,7 +1334,7 @@ export const lithuaniaAllPoi = [
     id: "lt-lake-druksiai",
     type: "lake",
     parent: "lt-country",
-    coords: projectCoordsLT(26.6000, 55.9980),
+    coords: [26.6000, 55.9980],
     name: {
       de: "Drūkšiai-See",
       hu: "Drūkšiai-tó",
@@ -1362,7 +1360,7 @@ export const lithuaniaAllPoi = [
     id: "lt-nemunas-river",
     type: "river",
     parent: "lt-country",
-    coords: projectCoordsLT(23.8700, 54.9000),
+    coords: [23.8700, 54.9000],
     name: {
       de: "Nemunas",
       hu: "Nemunas",
@@ -1387,7 +1385,7 @@ export const lithuaniaAllPoi = [
     id: "lt-neris-river",
     type: "river",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2800, 54.7000),
+    coords: [25.2800, 54.7000],
     name: {
       de: "Neris",
       hu: "Neris",
@@ -1412,7 +1410,7 @@ export const lithuaniaAllPoi = [
     id: "lt-rusne-island",
     type: "island",
     parent: "lt-country",
-    coords: projectCoordsLT(21.3680, 55.3000),
+    coords: [21.3680, 55.3000],
     name: {
       de: "Rusnė-Insel",
       hu: "Rusnė-sziget",
@@ -1437,7 +1435,7 @@ export const lithuaniaAllPoi = [
     id: "lt-dainava-forest",
     type: "forest",
     parent: "lt-country",
-    coords: projectCoordsLT(24.3000, 54.1500),
+    coords: [24.3000, 54.1500],
     name: {
       de: "Dainava-Wald",
       hu: "Dainava-erdő",
@@ -1463,7 +1461,7 @@ export const lithuaniaAllPoi = [
     id: "lt-vilnius-cathedral",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2866, 54.6869),
+    coords: [25.2866, 54.6869],
     name: {
       de: "Kathedrale von Vilnius",
       hu: "Vilniusi székesegyház",
@@ -1488,7 +1486,7 @@ export const lithuaniaAllPoi = [
     id: "lt-grand-ducal-palace",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2864, 54.6864),
+    coords: [25.2864, 54.6864],
     name: {
       de: "Großfürstenpalast",
       hu: "Nagyfejedelmi Palota",
@@ -1513,7 +1511,7 @@ export const lithuaniaAllPoi = [
     id: "lt-st-annes-church",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2901, 54.6845),
+    coords: [25.2901, 54.6845],
     name: {
       de: "Annenkirche Vilnius",
       hu: "Szent Anna-templom",
@@ -1538,7 +1536,7 @@ export const lithuaniaAllPoi = [
     id: "lt-vilnius-tv-tower",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2050, 54.7010),
+    coords: [25.2050, 54.7010],
     name: {
       de: "Fernsehturm Vilnius",
       hu: "Vilniusi tévétorony",
@@ -1564,7 +1562,7 @@ export const lithuaniaAllPoi = [
     id: "lt-mo-museum",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(25.2797, 54.6818),
+    coords: [25.2797, 54.6818],
     name: {
       de: "MO-Museum",
       hu: "MO Múzeum",
@@ -1589,7 +1587,7 @@ export const lithuaniaAllPoi = [
     id: "lt-lithuanian-sea-museum",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1039, 55.7094),
+    coords: [21.1039, 55.7094],
     name: {
       de: "Litauisches Meeresmuseum",
       hu: "Litván Tengerészeti Múzeum",
@@ -1614,7 +1612,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kaunas-resurrection-basilica",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(23.9262, 54.9104),
+    coords: [23.9262, 54.9104],
     name: {
       de: "Auferstehungsbasilika Kaunas",
       hu: "Kaunasi Feltámadás-bazilika",
@@ -1639,7 +1637,7 @@ export const lithuaniaAllPoi = [
     id: "lt-kaunas-central-post-office",
     type: "landmark",
     parent: "lt-country",
-    coords: projectCoordsLT(23.8978, 54.8965),
+    coords: [23.8978, 54.8965],
     name: {
       de: "Zentralpost Kaunas",
       hu: "Kaunasi Központi Posta",
@@ -1665,7 +1663,7 @@ export const lithuaniaAllPoi = [
     id: "lt-klaipeda-port",
     type: "port",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1158, 55.7040),
+    coords: [21.1158, 55.7040],
     name: {
       de: "Hafen Klaipėda",
       hu: "Klaipėdai kikötő",
@@ -1690,7 +1688,7 @@ export const lithuaniaAllPoi = [
     id: "lt-butinge-terminal",
     type: "port",
     parent: "lt-country",
-    coords: projectCoordsLT(21.0080, 56.0130),
+    coords: [21.0080, 56.0130],
     name: {
       de: "Būtingė-Terminal",
       hu: "Būtingė terminál",
@@ -1715,7 +1713,7 @@ export const lithuaniaAllPoi = [
     id: "lt-klaipeda-lng-terminal",
     type: "port",
     parent: "lt-country",
-    coords: projectCoordsLT(21.1000, 55.6960),
+    coords: [21.1000, 55.6960],
     name: {
       de: "Klaipėda LNG-Terminal",
       hu: "Klaipėdai LNG terminál",
@@ -1741,7 +1739,7 @@ export const lithuaniaAllPoi = [
     id: "lt-orlen-mazeikiai-refinery",
     type: "industry",
     parent: "lt-country",
-    coords: projectCoordsLT(22.3070, 56.3110),
+    coords: [22.3070, 56.3110],
     name: {
       de: "ORLEN-Litauen-Raffinerie",
       hu: "ORLEN Litvánia finomító",
@@ -1766,7 +1764,7 @@ export const lithuaniaAllPoi = [
     id: "lt-achema-jonava-plant",
     type: "industry",
     parent: "lt-country",
-    coords: projectCoordsLT(24.2330, 55.0740),
+    coords: [24.2330, 55.0740],
     name: {
       de: "Achema-Werk Jonava",
       hu: "Achema jonavai üzeme",
@@ -1791,7 +1789,7 @@ export const lithuaniaAllPoi = [
     id: "lt-dotnuva-agri-centre",
     type: "agriculture",
     parent: "lt-country",
-    coords: projectCoordsLT(23.8500, 55.3900),
+    coords: [23.8500, 55.3900],
     name: {
       de: "Dotnuva Agrarzentrum",
       hu: "Dotnuva agrárközpont",

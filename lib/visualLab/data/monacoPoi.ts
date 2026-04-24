@@ -686,7 +686,7 @@ export const monacoLandmarks: POI[] = [
 export const monacoRegionsPoi: POI[] = [
   {
     id: "MC-001-antoinette-park",
-    type: "nature",
+    type: "landmark",
     parent: "MC-001",
     coords: [7.4147, 43.7375],
     name: {

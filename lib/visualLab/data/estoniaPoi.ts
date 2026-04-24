@@ -1,11 +1,10 @@
-import { projectCoordsEE } from "../maps/estonia.svg";
 import type { POI } from "./poi";
 
 const estoniaAllPoiBase: POI[] = [
   {
     id: "ee-country",
     type: "country",
-    coords: projectCoordsEE(24.7536, 59.4370),
+    coords: [24.7536, 59.4370],
     name: {
       de: "Estland",
       hu: "Észtország",
@@ -80,7 +79,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-tallinn",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(24.7536, 59.4370),
+    coords: [24.7536, 59.4370],
     name: {
       de: "Tallinn",
       hu: "Tallinn",
@@ -111,7 +110,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-tartu",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(26.7290, 58.3780),
+    coords: [26.7290, 58.3780],
     name: {
       de: "Tartu",
       hu: "Tartu",
@@ -136,7 +135,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-parnu",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(24.4971, 58.3859),
+    coords: [24.4971, 58.3859],
     name: {
       de: "Pärnu",
       hu: "Pärnu",
@@ -161,7 +160,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-saaremaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(22.5000, 58.4000),
+    coords: [22.5000, 58.4000],
     name: {
       de: "Saaremaa",
       hu: "Saaremaa",
@@ -186,7 +185,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-lahemaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(25.8333, 59.5667),
+    coords: [25.8333, 59.5667],
     name: {
       de: "Lahemaa-Nationalpark",
       hu: "Lahemaa Nemzeti Park",
@@ -211,7 +210,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-narva",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(28.1833, 59.3833),
+    coords: [28.1833, 59.3833],
     name: {
       de: "Narva",
       hu: "Narva",
@@ -236,7 +235,7 @@ const estoniaAllPoiBase: POI[] = [
     id: "ee-haapsalu",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(23.5333, 58.9333),
+    coords: [23.5333, 58.9333],
     name: {
       de: "Haapsalu",
       hu: "Haapsalu",
@@ -267,7 +266,7 @@ export const estoniaCities: POI[] = [
     id: "city-tallinn",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(24.7536, 59.4369),
+    coords: [24.7536, 59.4369],
     name: {
       de: "Tallinn",
       hu: "Tallinn",
@@ -292,7 +291,7 @@ export const estoniaCities: POI[] = [
     id: "city-tartu",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(26.7213, 58.3776),
+    coords: [26.7213, 58.3776],
     name: {
       de: "Tartu",
       hu: "Tartu",
@@ -317,7 +316,7 @@ export const estoniaCities: POI[] = [
     id: "city-parnu",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(24.4968, 58.3859),
+    coords: [24.4968, 58.3859],
     name: {
       de: "Pärnu",
       hu: "Pärnu",
@@ -342,7 +341,7 @@ export const estoniaCities: POI[] = [
     id: "city-narva",
     type: "city",
     parent: "ee-country",
-    coords: projectCoordsEE(28.1939, 59.3794),
+    coords: [28.1939, 59.3794],
     name: {
       de: "Narva",
       hu: "Narva",
@@ -570,7 +569,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-tallinn-oldtown",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(24.7442, 59.4394),
+    coords: [24.7442, 59.4394],
     name: {
       de: "Tallinner Altstadt",
       hu: "Tallinn óváros",
@@ -595,7 +594,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-tartu-university",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(26.7208, 58.3806),
+    coords: [26.7208, 58.3806],
     name: {
       de: "Universität Tartu",
       hu: "Tartu egyetem",
@@ -620,7 +619,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-kadriorg",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(24.7897, 59.4394),
+    coords: [24.7897, 59.4394],
     name: {
       de: "Kadriorg-Palast",
       hu: "Kadriorg-palota Tallinn",
@@ -645,7 +644,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-haapsalu",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(23.5417, 58.9444),
+    coords: [23.5417, 58.9444],
     name: {
       de: "Bischofsburg Haapsalu",
       hu: "Haapsalu püspöki vár",
@@ -670,7 +669,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-narva-castle",
     type: "historical",
     parent: "ee-country",
-    coords: projectCoordsEE(28.2, 59.378),
+    coords: [28.2, 59.378],
     name: {
       de: "Hermannsfeste Narva",
       hu: "Narva Hermann-vár",
@@ -695,7 +694,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-tartu-observatory",
     type: "historical",
     parent: "ee-country",
-    coords: projectCoordsEE(26.72, 58.378),
+    coords: [26.72, 58.378],
     name: {
       de: "Sternwarte Tartu",
       hu: "Tartu csillagvizsgáló",
@@ -720,7 +719,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-rakvere",
     type: "historical",
     parent: "ee-country",
-    coords: projectCoordsEE(26.355, 59.35),
+    coords: [26.355, 59.35],
     name: {
       de: "Rakvere-Burg",
       hu: "Rakvere vár",
@@ -745,7 +744,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-alexander-nevsky",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(24.742, 59.435),
+    coords: [24.742, 59.435],
     name: {
       de: "Alexander-Newski-Kathedrale Tallinn",
       hu: "Alekszandr Nyevszkij-székesegyház Tallinn",
@@ -770,7 +769,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-kihnu",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(24.0, 58.133),
+    coords: [24.0, 58.133],
     name: {
       de: "Insel Kihnu",
       hu: "Kihnu-sziget",
@@ -795,7 +794,7 @@ export const estoniaCulture: POI[] = [
     id: "cult-parnu-beach",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(24.495, 58.38),
+    coords: [24.495, 58.38],
     name: {
       de: "Strand von Pärnu",
       hu: "Pärnu strand",
@@ -1203,7 +1202,7 @@ export const estoniaNature: POI[] = [
     id: "nat-lahemaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(25.9, 59.55),
+    coords: [25.9, 59.55],
     name: {
       de: "Lahemaa-Nationalpark",
       hu: "Lahemaa NP",
@@ -1228,7 +1227,7 @@ export const estoniaNature: POI[] = [
     id: "nat-saaremaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(22.5, 58.4),
+    coords: [22.5, 58.4],
     name: {
       de: "Saaremaa-Insel",
       hu: "Saaremaa-sziget",
@@ -1253,7 +1252,7 @@ export const estoniaNature: POI[] = [
     id: "nat-hiiumaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(22.6, 58.9),
+    coords: [22.6, 58.9],
     name: {
       de: "Hiiumaa-Insel",
       hu: "Hiiumaa-sziget + Kõpu világítótorony",
@@ -1278,7 +1277,7 @@ export const estoniaNature: POI[] = [
     id: "nat-soomaa",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(25.0, 58.5),
+    coords: [25.0, 58.5],
     name: {
       de: "Soomaa-Nationalpark",
       hu: "Soomaa NP",
@@ -1303,7 +1302,7 @@ export const estoniaNature: POI[] = [
     id: "nat-peipus",
     type: "lake",
     parent: "ee-country",
-    coords: projectCoordsEE(27.5, 58.7),
+    coords: [27.5, 58.7],
     name: {
       de: "Peipussee",
       hu: "Peipus-tó",
@@ -1328,7 +1327,7 @@ export const estoniaNature: POI[] = [
     id: "nat-emajogi",
     type: "river",
     parent: "ee-country",
-    coords: projectCoordsEE(26.73, 58.38),
+    coords: [26.73, 58.38],
     name: {
       de: "Emajõgi",
       hu: "Emajõgi folyó",
@@ -1353,7 +1352,7 @@ export const estoniaNature: POI[] = [
     id: "nat-vilsandi",
     type: "island",
     parent: "ee-country",
-    coords: projectCoordsEE(21.85, 58.38),
+    coords: [21.85, 58.38],
     name: {
       de: "Vilsandi-Nationalpark",
       hu: "Vilsandi Nemzeti Park",
@@ -1378,7 +1377,7 @@ export const estoniaNature: POI[] = [
     id: "nat-matsalu",
     type: "landmark",
     parent: "ee-country",
-    coords: projectCoordsEE(23.75, 58.75),
+    coords: [23.75, 58.75],
     name: {
       de: "Matsalu-Nationalpark",
       hu: "Matsalu Nemzeti Park",

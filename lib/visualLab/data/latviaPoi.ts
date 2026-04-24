@@ -1,10 +1,8 @@
-import { projectCoordsLV } from "../maps/latvia.svg";
-
 export const latviaAllPoi = [
   {
     id: "lv-country",
     type: "country",
-    coords: projectCoordsLV(24.1052, 56.9496),
+    coords: [24.1052, 56.9496],
     name: {
       de: "Lettland",
       hu: "Lettország",
@@ -79,7 +77,7 @@ export const latviaAllPoi = [
     id: "lv-riga",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1052, 56.9496),
+    coords: [24.1052, 56.9496],
     name: {
       de: "Riga",
       hu: "Riga",
@@ -104,7 +102,7 @@ export const latviaAllPoi = [
     id: "lv-jurmala",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(23.7704, 56.9680),
+    coords: [23.7704, 56.9680],
     name: {
       de: "Jūrmala",
       hu: "Jūrmala",
@@ -129,7 +127,7 @@ export const latviaAllPoi = [
     id: "lv-sigulda",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.8538, 57.1533),
+    coords: [24.8538, 57.1533],
     name: {
       de: "Sigulda",
       hu: "Sigulda",
@@ -154,7 +152,7 @@ export const latviaAllPoi = [
     id: "lv-cesis",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2746, 57.3119),
+    coords: [25.2746, 57.3119],
     name: {
       de: "Cēsis",
       hu: "Cēsis",
@@ -179,7 +177,7 @@ export const latviaAllPoi = [
     id: "lv-liepaja",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.0108, 56.5047),
+    coords: [21.0108, 56.5047],
     name: {
       de: "Liepāja",
       hu: "Liepāja",
@@ -204,7 +202,7 @@ export const latviaAllPoi = [
     id: "lv-gauja",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(25.0333, 57.2500),
+    coords: [25.0333, 57.2500],
     name: {
       de: "Gauja-Nationalpark",
       hu: "Gauja Nemzeti Park",
@@ -229,7 +227,7 @@ export const latviaAllPoi = [
     id: "lv-rundale",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.0244, 56.4133),
+    coords: [24.0244, 56.4133],
     name: {
       de: "Schloss Rundāle",
       hu: "Rundāle palota",
@@ -254,7 +252,7 @@ export const latviaAllPoi = [
     id: "lv-jelgava",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(23.723, 56.65),
+    coords: [23.723, 56.65],
     name: {
       de: "Jelgava",
       hu: "Jelgava",
@@ -279,7 +277,7 @@ export const latviaAllPoi = [
     id: "lv-ventspils",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.5606, 57.3899),
+    coords: [21.5606, 57.3899],
     name: {
       de: "Ventspils",
       hu: "Ventspils",
@@ -304,7 +302,7 @@ export const latviaAllPoi = [
     id: "lv-rezekne",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(27.3401, 56.5099),
+    coords: [27.3401, 56.5099],
     name: {
       de: "Rēzekne",
       hu: "Rēzekne",
@@ -329,7 +327,7 @@ export const latviaAllPoi = [
     id: "lv-valmiera",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(25.4276, 57.5383),
+    coords: [25.4276, 57.5383],
     name: {
       de: "Valmiera",
       hu: "Valmiera",
@@ -354,7 +352,7 @@ export const latviaAllPoi = [
     id: "lv-ogre",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.614, 56.8169),
+    coords: [24.614, 56.8169],
     name: {
       de: "Ogre",
       hu: "Ogre",
@@ -379,7 +377,7 @@ export const latviaAllPoi = [
     id: "lv-tukums",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(23.1606, 56.9676),
+    coords: [23.1606, 56.9676],
     name: {
       de: "Tukums",
       hu: "Tukums",
@@ -404,7 +402,7 @@ export const latviaAllPoi = [
     id: "lv-kuldiga-city",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.9747, 56.9738),
+    coords: [21.9747, 56.9738],
     name: {
       de: "Kuldīga",
       hu: "Kuldīga",
@@ -429,7 +427,7 @@ export const latviaAllPoi = [
     id: "lv-saldus",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(22.4885, 56.6632),
+    coords: [22.4885, 56.6632],
     name: {
       de: "Saldus",
       hu: "Saldus",
@@ -454,7 +452,7 @@ export const latviaAllPoi = [
     id: "lv-aizkraukle",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2564, 56.6028),
+    coords: [25.2564, 56.6028],
     name: {
       de: "Aizkraukle",
       hu: "Aizkraukle",
@@ -479,7 +477,7 @@ export const latviaAllPoi = [
     id: "lv-livani",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(26.1758, 56.3516),
+    coords: [26.1758, 56.3516],
     name: {
       de: "Līvāni",
       hu: "Līvāni",
@@ -504,7 +502,7 @@ export const latviaAllPoi = [
     id: "lv-riga-old-town",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1055, 56.9495),
+    coords: [24.1055, 56.9495],
     name: { de: "Riga Altstadt", hu: "Riga óváros", ro: "Centrul vechi Riga", en: "Riga Old Town" },
     description: {
       de: "Die Altstadt von Riga ist das historische Herz der lettischen Hauptstadt. Enge Gassen, Kirchen und Hanse-Spuren prägen das Stadtbild. Die Lage am Daugava-Ufer macht sie zu einem starken Tourismusmagneten. Als UNESCO-Kernzone ist sie ein Schlüsselthema für Riga und Lettland.",
@@ -524,7 +522,7 @@ export const latviaAllPoi = [
     id: "lv-turaida-castle",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(24.8612, 57.184),
+    coords: [24.8612, 57.184],
     name: { de: "Burg Turaida", hu: "Turaida vára", ro: "Castelul Turaida", en: "Turaida Castle" },
     description: {
       de: "Burg Turaida steht über dem Gauja-Tal als eines der bekanntesten Bilder Lettlands. Die rote Backsteinfestung verbindet Rittergeschichte, Legenden und Panoramaausblicke. Durch Sigulda und den Gauja-Nationalpark ist sie eng mit Naturtourismus verbunden. Sie ist ein starkes Motiv für historische Reiseinhalte.",
@@ -544,7 +542,7 @@ export const latviaAllPoi = [
     id: "lv-cesis-castle",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2729, 57.3131),
+    coords: [25.2729, 57.3131],
     name: { de: "Burg Cēsis", hu: "Cēsis vára", ro: "Castelul Cēsis", en: "Cēsis Castle" },
     description: {
       de: "Burg Cēsis ist eine der wichtigsten mittelalterlichen Anlagen Lettlands. Die Ruinen, Türme und der historische Garten erzählen von der livländischen Ordenszeit. Die Stadt Cēsis nutzt diese Geschichte stark im Tourismus und in der Markenbildung. Zusammen mit den Altstadtgassen entsteht ein ideales Kulturreise-Thema.",
@@ -564,7 +562,7 @@ export const latviaAllPoi = [
     id: "lv-rundale-palace",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(24.0239, 56.4145),
+    coords: [24.0239, 56.4145],
     name: { de: "Schloss Rundāle", hu: "Rundāle-palota", ro: "Palatul Rundāle", en: "Rundāle Palace" },
     description: {
       de: "Schloss Rundāle gilt als einer der wichtigsten Barockkomplexe im Baltikum. Das Palastensemble und der formale Garten machen den Ort zu einem starken Architektur-Highlight. Die Lage in Zemgale zieht Besucher an, die Kultur, Eleganz und Fotomotive suchen. Als Reiseziel wirkt Rundāle auch online sehr stark.",
@@ -584,7 +582,7 @@ export const latviaAllPoi = [
     id: "lv-bauska-castle",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(24.194, 56.4072),
+    coords: [24.194, 56.4072],
     name: { de: "Burg Bauska", hu: "Bauska vára", ro: "Castelul Bauska", en: "Bauska Castle" },
     description: {
       de: "Burg Bauska liegt am Zusammenfluss von Mūsa und Mēmele und gehört zu den markantesten Festungen im Süden Lettlands. Der Ort verbindet mittelalterliche Ruinen mit späterer Residenzarchitektur. Durch die Nähe zu Riga, Rundāle und der Grenze ist er touristisch gut positioniert. Das macht Bauska zu einem starken Keyword für Burgenrouten.",
@@ -604,7 +602,7 @@ export const latviaAllPoi = [
     id: "lv-daugavpils-fortress",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(26.5289, 55.8852),
+    coords: [26.5289, 55.8852],
     name: { de: "Daugavpils Festung", hu: "Daugavpils erőd", ro: "Cetatea Daugavpils", en: "Daugavpils Fortress" },
     description: {
       de: "Die Festung Daugavpils ist eines der größten militärischen Denkmäler im Baltikum. Bastionen, Straßen und Innenhöfe zeigen die Machtgeschichte des 19. Jahrhunderts. Heute ist sie ein starker Kultur- und Veranstaltungsort mit hoher touristischer Sichtbarkeit. Für SEO rund um Ostlettland ist sie ein unverzichtbares Motiv.",
@@ -624,7 +622,7 @@ export const latviaAllPoi = [
     id: "lv-koknese-castle-ruins",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(25.4336, 56.6464),
+    coords: [25.4336, 56.6464],
     name: { de: "Koknese-Burgruinen", hu: "Koknese várromjai", ro: "Ruinele cetății Koknese", en: "Koknese Castle Ruins" },
     description: {
       de: "Die Ruinen von Koknese liegen malerisch an der Daugava und gehören zu den romantischsten historischen Orten Lettlands. Die Anlage erzählt von Livland, Flussverkehr und alter Grenzgeschichte. Der Ort ist zugleich ein beliebtes Ziel für kurze Ausflüge, Fotos und Legenden. Koknese funktioniert sehr gut als historischer SEO-Spot mit Flusskulisse.",
@@ -644,7 +642,7 @@ export const latviaAllPoi = [
     id: "lv-araisi-lake-castle",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2398, 57.2504),
+    coords: [25.2398, 57.2504],
     name: { de: "Araiši Seeburg", hu: "Araiši tavi vár", ro: "Castelul pe lac Araiși", en: "Araiši Lake Castle" },
     description: {
       de: "Die Araiši-Seeburg ist ein außergewöhnliches archäologisches Denkmal in Vidzeme. Die Rekonstruktion zeigt, wie frühmittelalterliche Siedlungen im Wasser geschützt wurden. Der Ort verbindet Forschung, Geschichte und anschauliches Lernen für Familien und Schulgruppen. Als Reiseziel ist Araiši sehr stark für Bildungsinhalte.",
@@ -664,7 +662,7 @@ export const latviaAllPoi = [
     id: "lv-house-of-blackheads",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1059, 56.9478),
+    coords: [24.1059, 56.9478],
     name: { de: "Schwarzhäupterhaus", hu: "Feketefejek háza", ro: "Casa Capetelor Negre", en: "House of the Blackheads" },
     description: {
       de: "Das Schwarzhäupterhaus ist eines der bekanntesten Wahrzeichen von Riga. Die prächtige Fassade am Rathausplatz steht für Handel, Festkultur und alte Hansetradition. Für Touristen ist es ein Pflichtmotiv im historischen Zentrum. Online funktioniert es stark bei Suchanfragen nach Riga Sehenswürdigkeiten.",
@@ -684,7 +682,7 @@ export const latviaAllPoi = [
     id: "lv-riga-cathedral",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1056, 56.9497),
+    coords: [24.1056, 56.9497],
     name: { de: "Rigaer Dom", hu: "Riga dóm", ro: "Catedrala din Riga", en: "Riga Cathedral" },
     description: {
       de: "Der Rigaer Dom ist eine der prägendsten Kirchen im Baltikum. Seine Mischung aus Geschichte, Musiktradition und architektonischer Tiefe macht ihn zu einem starken Landmark. Die Lage mitten in der Altstadt sorgt für hohe Sichtbarkeit bei Stadtbesuchen. Er gehört zu den wichtigsten Suchbegriffen für sakrale Architektur in Lettland.",
@@ -704,7 +702,7 @@ export const latviaAllPoi = [
     id: "lv-freedom-monument",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1136, 56.9513),
+    coords: [24.1136, 56.9513],
     name: { de: "Freiheitsdenkmal", hu: "Szabadság-emlékmű", ro: "Monumentul Libertății", en: "Freedom Monument" },
     description: {
       de: "Das Freiheitsdenkmal ist das politische und emotionale Symbol Lettlands. Es steht im Zentrum von Riga und ist ein fester Punkt für nationale Zeremonien. Der Ort ist auch für Besucher wichtig, die Lettland besser verstehen möchten. Als Landmark verbindet er Geschichte, Identität und starke SEO-Relevanz.",
@@ -724,7 +722,7 @@ export const latviaAllPoi = [
     id: "lv-latvian-national-library",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1000, 56.9471),
+    coords: [24.1000, 56.9471],
     name: { de: "Nationalbibliothek Lettlands", hu: "Lett Nemzeti Könyvtár", ro: "Biblioteca Națională a Letoniei", en: "Latvian National Library" },
     description: {
       de: "Die Nationalbibliothek Lettlands ist ein modernes Architektur-Highlight am Ufer der Daugava. Ihr Glas- und Linienbild macht sie zu einem markanten Symbol des zeitgenössischen Riga. Sie ist sowohl Wissenszentrum als auch starkes Fotomotiv für Stadt- und Kulturreisen. Für SEO verbindet sie Architektur, Bildung und die Hauptstadt sehr effektiv.",
@@ -744,7 +742,7 @@ export const latviaAllPoi = [
     id: "lv-riga-art-nouveau-centre",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1146, 56.9569),
+    coords: [24.1146, 56.9569],
     name: { de: "Jugendstilmuseum Riga", hu: "Riga szecessziós múzeum", ro: "Centrul Art Nouveau Riga", en: "Riga Art Nouveau Centre" },
     description: {
       de: "Das Riga Art Nouveau Centre zeigt, warum Riga als Jugendstil-Hauptstadt des Nordens gilt. Die Innenräume, Fassaden und Details vermitteln den Charakter der Blütezeit um 1900. Für Architekturinteressierte ist es ein Schlüsselort und ein starkes SEO-Thema. Es ergänzt die umliegenden Jugendstilstraßen perfekt.",
@@ -764,7 +762,7 @@ export const latviaAllPoi = [
     id: "lv-latvian-national-museum-of-art",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1074, 56.9545),
+    coords: [24.1074, 56.9545],
     name: { de: "Lettisches Nationales Kunstmuseum", hu: "Lett Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Letoniei", en: "Latvian National Museum of Art" },
     description: {
       de: "Das Nationale Kunstmuseum Lettlands ist eines der führenden Museumsgebäude in Riga. Die Sammlung vermittelt einen kompakten Überblick über lettische Kunst und nationale Identität. Das Gebäude selbst ist ein prägnantes Landmark für Kulturreisende und Stadtbesucher. Für Suchmaschinen ist es ein wichtiges Thema rund um Museen in Riga.",
@@ -784,7 +782,7 @@ export const latviaAllPoi = [
     id: "lv-riga-central-market",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1103, 56.9451),
+    coords: [24.1103, 56.9451],
     name: { de: "Rigaer Zentralmarkt", hu: "Riga központi piac", ro: "Piața Centrală din Riga", en: "Riga Central Market" },
     description: {
       de: "Der Rigaer Zentralmarkt ist einer der größten und lebendigsten Märkte im Baltikum. Die historischen Hallen machen ihn zu einem besonderen urbanen Wahrzeichen mit viel Alltag und Geschichte. Für Besucher ist er ein idealer Ort für Essen, lokale Produkte und authentische Eindrücke. Als Landmark stützt er Inhalte zu Riga und Kulinarik gleichermaßen.",
@@ -804,7 +802,7 @@ export const latviaAllPoi = [
     id: "lv-occupation-museum",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1092, 56.9491),
+    coords: [24.1092, 56.9491],
     name: { de: "Okkupationsmuseum Lettland", hu: "Lettország megszállási múzeuma", ro: "Muzeul Ocupației din Letonia", en: "Museum of the Occupation of Latvia" },
     description: {
       de: "Das Okkupationsmuseum erklärt die komplexe Geschichte Lettlands im 20. Jahrhundert. Es ist ein wichtiger Ort für Erinnerung, Bildung und historisches Verständnis. Die zentrale Lage in Riga macht es leicht in Stadtrouten integrierbar. Für Content über Geschichte und Identität ist es ein besonders starkes Landmark.",
@@ -824,7 +822,7 @@ export const latviaAllPoi = [
     id: "lv-gaizinkalns",
     type: "mountain",
     parent: "lv-country",
-    coords: projectCoordsLV(25.959, 56.878),
+    coords: [25.959, 56.878],
     name: { de: "Gaiziņkalns", hu: "Gaiziņkalns", ro: "Gaiziņkalns", en: "Gaiziņkalns" },
     description: {
       de: "Gaiziņkalns ist die höchste natürliche Erhebung Lettlands und ein bekanntes Ziel für Natur- und Panoramafans. Der Hügel steht für das weiche Relief von Vidzeme und für ruhige Landschaftserlebnisse. Er ist klein im alpinen Vergleich, aber für lettische Geografie sehr wichtig. Als SEO-Thema funktioniert er besonders gut bei Naturtourismus und Höhenrekorden.",
@@ -844,7 +842,7 @@ export const latviaAllPoi = [
     id: "lv-daugava-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1052, 56.9496),
+    coords: [24.1052, 56.9496],
     name: { de: "Daugava", hu: "Daugava", ro: "Daugava", en: "Daugava River" },
     description: {
       de: "Die Daugava ist Lettlands wichtigste Flussachse und verbindet Städte, Geschichte und Handel. Sie prägt Riga, Koknese, Jēkabpils und viele weitere Orte entlang ihres Laufs. Der Fluss ist ein starkes Motiv für Landschaft, Verkehr und kulturelle Identität. In SEO-Texten zu Lettland darf die Daugava nicht fehlen.",
@@ -864,7 +862,7 @@ export const latviaAllPoi = [
     id: "lv-gauja-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(24.9, 57.25),
+    coords: [24.9, 57.25],
     name: { de: "Gauja", hu: "Gauja", ro: "Gauja", en: "Gauja River" },
     description: {
       de: "Die Gauja ist der bekannteste Fluss für Naturtourismus in Lettland. Sie fließt durch den Nationalpark und formt das legendäre Gauja-Tal mit Sandsteinfelsen und Kurven. Städte wie Sigulda und Cēsis profitieren stark von dieser Landschaft. Für Reisecontent ist die Gauja ein sehr starkes, wiedererkennbares Keyword.",
@@ -884,7 +882,7 @@ export const latviaAllPoi = [
     id: "lv-venta-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(21.991, 56.974),
+    coords: [21.991, 56.974],
     name: { de: "Venta", hu: "Venta", ro: "Venta", en: "Venta River" },
     description: {
       de: "Die Venta ist ein westlettischer Fluss mit starker regionaler Identität und schönem Landschaftsprofil. Sie ist eng mit Kuldīga und dem berühmten Wasserfall Venta Rumba verbunden. Der Fluss spielt auch für Fischerei, Naturtourismus und Ortsentwicklung eine Rolle. Als Fluss-Keyword ergänzt die Venta jede Lettland-Reise- und Naturseite.",
@@ -904,7 +902,7 @@ export const latviaAllPoi = [
     id: "lv-lubans-lake",
     type: "lake",
     parent: "lv-country",
-    coords: projectCoordsLV(26.85, 56.84),
+    coords: [26.85, 56.84],
     name: { de: "Lubāns-See", hu: "Lubāns-tó", ro: "Lacul Lubāns", en: "Lake Lubāns" },
     description: {
       de: "Der Lubāns-See ist Lettlands größter See und ein wichtiges Feuchtgebiet für Vögel und Naturbeobachtung. Das weite, offene Landschaftsbild macht ihn besonders attraktiv für Ruhe und weite Horizonte. Er ist ein starker Ort für Ornithologie, Fotografie und slow tourism. Als Natur-SEO-Thema liefert Lubāns viel Substanz für Seen in Lettland.",
@@ -924,7 +922,7 @@ export const latviaAllPoi = [
     id: "lv-razna-lake",
     type: "lake",
     parent: "lv-country",
-    coords: projectCoordsLV(27.28, 56.32),
+    coords: [27.28, 56.32],
     name: { de: "Rāzna-See", hu: "Rāzna-tó", ro: "Lacul Rāzna", en: "Lake Rāzna" },
     description: {
       de: "Der Rāzna-See liegt in Latgale und gehört zu den bekanntesten Naturorten im Osten Lettlands. Er ist Teil einer landschaftlich reizvollen Region mit Hügeln, Wäldern und klaren Ufern. Der See ist beliebt für Baden, Angeln und ruhige Sommerausflüge. Für Natur-Content bietet er eine starke Mischung aus Erholung und Landschaftscharakter.",
@@ -944,7 +942,7 @@ export const latviaAllPoi = [
     id: "lv-moricsala-island",
     type: "island",
     parent: "lv-country",
-    coords: projectCoordsLV(22.17, 57.233),
+    coords: [22.17, 57.233],
     name: { de: "Moricsala", hu: "Moricsala", ro: "Moricsala", en: "Moricsala Island" },
     description: {
       de: "Moricsala ist eine kleine Insel im Usma-See und ein wertvoller Naturraum in Westlettland. Sie steht für seltene Wälder, Schutzgebiete und sehr stille Landschaftserlebnisse. Die Insel ist besonders interessant für Naturfreunde und biologische Vielfalt. Als Suchbegriff ergänzt Moricsala jede Seite zu Inseln und Natur in Lettland.",
@@ -964,7 +962,7 @@ export const latviaAllPoi = [
     id: "lv-tervete-forest",
     type: "forest",
     parent: "lv-country",
-    coords: projectCoordsLV(23.387, 56.479),
+    coords: [23.387, 56.479],
     name: { de: "Tērvete-Wald", hu: "Tērvete-erdő", ro: "Pădurea Tērvete", en: "Tērvete Forest" },
     description: {
       de: "Der Tērvete-Wald ist eines der beliebtesten Natur- und Familienziele in Zemgale. Er bietet Wanderwege, Märchenstimmung und viel Raum für aktive Freizeit. Die Mischung aus Wald, Erholung und touristischer Infrastruktur macht ihn sehr sichtbar. Als Natur-Keyword ist Tērvete ein starkes Thema für Familienreisen in Lettland.",
@@ -984,7 +982,7 @@ export const latviaAllPoi = [
     id: "lv-riga-free-port",
     type: "port",
     parent: "lv-country",
-    coords: projectCoordsLV(24.102, 56.975),
+    coords: [24.102, 56.975],
     name: { de: "Freihafen Riga", hu: "Riga szabadkikötő", ro: "Portul liber Riga", en: "Riga Free Port" },
     description: {
       de: "Der Freihafen Riga ist das wichtigste Hafen- und Logistikgebiet des Landes. Er verbindet die Hauptstadt direkt mit internationalem Seehandel und Warenströmen. Seine Größe und Wirtschaftskraft machen ihn zu einem starken Port-Keyword für Lettland. Für SEO zu Handel, Export und Infrastruktur ist er zentral.",
@@ -1004,7 +1002,7 @@ export const latviaAllPoi = [
     id: "lv-ventspils-port",
     type: "port",
     parent: "lv-country",
-    coords: projectCoordsLV(21.571, 57.391),
+    coords: [21.571, 57.391],
     name: { de: "Hafen Ventspils", hu: "Ventspils kikötő", ro: "Portul Ventspils", en: "Ventspils Port" },
     description: {
       de: "Der Hafen Ventspils ist ein führender Ostseehafen mit starkem Fokus auf Energie und Umschlag. Er ist ein wesentlicher Teil der Stadtidentität und der regionalen Wirtschaft. Die Lage an der offenen Küste macht ihn ganzjährig strategisch wichtig. Als Port-Thema liefert Ventspils klare Suchrelevanz für Handel und Seeverkehr.",
@@ -1024,7 +1022,7 @@ export const latviaAllPoi = [
     id: "lv-liepaja-port",
     type: "port",
     parent: "lv-country",
-    coords: projectCoordsLV(21.012, 56.504),
+    coords: [21.012, 56.504],
     name: { de: "Hafen Liepāja", hu: "Liepāja kikötő", ro: "Portul Liepāja", en: "Liepāja Port" },
     description: {
       de: "Der Hafen von Liepāja ist ein traditionsreicher Ostseehafen mit langer maritimer Geschichte. Er passt perfekt zur Identität der Windstadt und zu ihrer industriellen Vergangenheit. Heute ist er weiterhin wichtig für Schifffahrt, Handel und regionale Entwicklung. In Content zu Häfen in Lettland gehört Liepāja ganz nach oben.",
@@ -1044,7 +1042,7 @@ export const latviaAllPoi = [
     id: "lv-skulte-port",
     type: "port",
     parent: "lv-country",
-    coords: projectCoordsLV(24.405, 57.337),
+    coords: [24.405, 57.337],
     name: { de: "Hafen Skulte", hu: "Skulte kikötő", ro: "Portul Skulte", en: "Skulte Port" },
     description: {
       de: "Der Hafen Skulte ist ein kleiner, aber wichtiger Hafen nördlich von Riga. Er steht für regionale Versorgung, Transport und Küstenwirtschaft. Durch seine Lage ergänzt er die größeren Hafenstandorte sehr gut. Für SEO zu lettischen Häfen liefert Skulte einen kompakten, realistischen Westküstenpunkt.",
@@ -1064,7 +1062,7 @@ export const latviaAllPoi = [
     id: "lv-cesis-brewery",
     type: "industry",
     parent: "lv-country",
-    coords: projectCoordsLV(25.277, 57.309),
+    coords: [25.277, 57.309],
     name: { de: "Cēsu alus", hu: "Cēsu sörgyár", ro: "Berăria Cēsu", en: "Cēsu Brewery" },
     description: {
       de: "Cēsu alus ist eine der bekanntesten Biermarken Lettlands und eng mit der Stadt Cēsis verbunden. Die Brauerei steht für regionale Produktion, Markenkraft und lettische Genusskultur. Sie ist ein gutes Beispiel dafür, wie Industrie und Stadtimage zusammenwirken. Als SEO-Thema funktioniert sie stark für Brauereien, Getränke und Wirtschaft.",
@@ -1084,7 +1082,7 @@ export const latviaAllPoi = [
     id: "lv-tervete-brewery",
     type: "agriculture",
     parent: "lv-country",
-    coords: projectCoordsLV(23.348, 56.483),
+    coords: [23.348, 56.483],
     name: { de: "Tērvetes Brauerei", hu: "Tērvetes sörfőzde", ro: "Berăria Tērvete", en: "Tērvete Brewery" },
     description: {
       de: "Die Tērvetes Brauerei ist eng mit der Region Zemgale und ihrer Landwirtschaft verbunden. Das Unternehmen steht für regionale Rohstoffe, Tradition und moderne Lebensmittelproduktion. Es ergänzt die natürliche Marke Tērvete sehr gut und passt in Inhalte zu Genuss- und Landthemen. Als agriculture-Keyword bringt es eine klare ländliche Wirtschaftsperspektive.",
@@ -1104,7 +1102,7 @@ export const latviaAllPoi = [
     id: "lv-aglona-basilica",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(27.0163, 56.1313),
+    coords: [27.0163, 56.1313],
     name: {
       de: "Aglona Basilika",
       hu: "Aglona-bazilika",
@@ -1129,7 +1127,7 @@ export const latviaAllPoi = [
     id: "lv-liepaja-holy-trinity-cathedral",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(21.0110, 56.5045),
+    coords: [21.0110, 56.5045],
     name: {
       de: "Dreifaltigkeitskathedrale Liepaja",
       hu: "Liepāja Szentháromság-katedrális",
@@ -1154,7 +1152,7 @@ export const latviaAllPoi = [
     id: "lv-liepaja-st-annes-church",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(21.0094, 56.5037),
+    coords: [21.0094, 56.5037],
     name: {
       de: "St.-Anna-Kirche Liepaja",
       hu: "Liepāja Szent Anna-templom",
@@ -1179,7 +1177,7 @@ export const latviaAllPoi = [
     id: "lv-cesis-st-johns-church",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2725, 57.3130),
+    coords: [25.2725, 57.3130],
     name: {
       de: "Johanneskirche Cesis",
       hu: "Cēsis Szent János-templom",
@@ -1204,7 +1202,7 @@ export const latviaAllPoi = [
     id: "lv-daugavpils-mark-rothko-art-centre",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(26.5197, 55.8714),
+    coords: [26.5197, 55.8714],
     name: {
       de: "Mark-Rothko-Kunstzentrum Daugavpils",
       hu: "Daugavpils Mark Rothko Művészeti Központ",
@@ -1229,7 +1227,7 @@ export const latviaAllPoi = [
     id: "lv-jelgava-palace",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(23.7314, 56.6530),
+    coords: [23.7314, 56.6530],
     name: {
       de: "Jelgava-Palast",
       hu: "Jelgava-palota",
@@ -1254,7 +1252,7 @@ export const latviaAllPoi = [
     id: "lv-ventspils-castle",
     type: "historical",
     parent: "lv-country",
-    coords: projectCoordsLV(21.5606, 57.3896),
+    coords: [21.5606, 57.3896],
     name: {
       de: "Ventspils Schloss",
       hu: "Ventspils vára",
@@ -1279,7 +1277,7 @@ export const latviaAllPoi = [
     id: "lv-bikernieki-memorial",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1860, 56.9530),
+    coords: [24.1860, 56.9530],
     name: {
       de: "Bikernieki-Gedenkstätte",
       hu: "Biķernieki emlékhely",
@@ -1304,7 +1302,7 @@ export const latviaAllPoi = [
     id: "lv-kanieris-lake",
     type: "lake",
     parent: "lv-country",
-    coords: projectCoordsLV(23.5000, 56.9668),
+    coords: [23.5000, 56.9668],
     name: {
       de: "Kaniers See",
       hu: "Kaņieris-tó",
@@ -1329,7 +1327,7 @@ export const latviaAllPoi = [
     id: "lv-engure-lake",
     type: "lake",
     parent: "lv-country",
-    coords: projectCoordsLV(23.1000, 57.1000),
+    coords: [23.1000, 57.1000],
     name: {
       de: "Engure See",
       hu: "Engure-tó",
@@ -1354,7 +1352,7 @@ export const latviaAllPoi = [
     id: "lv-burtnieks-lake",
     type: "lake",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2300, 57.7500),
+    coords: [25.2300, 57.7500],
     name: {
       de: "Burtnieks See",
       hu: "Burtnieks-tó",
@@ -1379,7 +1377,7 @@ export const latviaAllPoi = [
     id: "lv-abava-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(22.6000, 56.9800),
+    coords: [22.6000, 56.9800],
     name: {
       de: "Abava",
       hu: "Abava",
@@ -1404,7 +1402,7 @@ export const latviaAllPoi = [
     id: "lv-aiviekste-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(26.8500, 56.5500),
+    coords: [26.8500, 56.5500],
     name: {
       de: "Aiviekste",
       hu: "Aiviekste",
@@ -1429,7 +1427,7 @@ export const latviaAllPoi = [
     id: "lv-ogre-river",
     type: "river",
     parent: "lv-country",
-    coords: projectCoordsLV(24.6040, 56.8120),
+    coords: [24.6040, 56.8120],
     name: {
       de: "Ogre",
       hu: "Ogre",
@@ -1454,7 +1452,7 @@ export const latviaAllPoi = [
     id: "lv-dole-island",
     type: "island",
     parent: "lv-country",
-    coords: projectCoordsLV(24.2970, 56.8435),
+    coords: [24.2970, 56.8435],
     name: {
       de: "Dole-Insel",
       hu: "Dole-sziget",
@@ -1479,7 +1477,7 @@ export const latviaAllPoi = [
     id: "lv-zilais-kalns",
     type: "mountain",
     parent: "lv-country",
-    coords: projectCoordsLV(25.3680, 57.5230),
+    coords: [25.3680, 57.5230],
     name: {
       de: "Zilaiskalns",
       hu: "Zilaiskalns",
@@ -1504,7 +1502,7 @@ export const latviaAllPoi = [
     id: "lv-valmiermuiza-brewery",
     type: "industry",
     parent: "lv-country",
-    coords: projectCoordsLV(25.4440, 57.5429),
+    coords: [25.4440, 57.5429],
     name: {
       de: "Valmiermuiza Brauerei",
       hu: "Valmiermuiža sörfőzde",
@@ -1529,7 +1527,7 @@ export const latviaAllPoi = [
     id: "lv-abavas-vinadaritava",
     type: "agriculture",
     parent: "lv-country",
-    coords: projectCoordsLV(22.5760, 57.0465),
+    coords: [22.5760, 57.0465],
     name: {
       de: "Abava Weinmanufaktur",
       hu: "Abava borászat",
@@ -1554,7 +1552,7 @@ export const latviaAllPoi = [
     id: "lv-jaunpils-dairy",
     type: "agriculture",
     parent: "lv-country",
-    coords: projectCoordsLV(23.0134, 56.7355),
+    coords: [23.0134, 56.7355],
     name: {
       de: "Jaunpils Molkerei",
       hu: "Jaunpils tejüzem",
@@ -1579,7 +1577,7 @@ export const latviaAllPoi = [
     id: "lv-vaidava-ceramics",
     type: "industry",
     parent: "lv-country",
-    coords: projectCoordsLV(25.7870, 57.3720),
+    coords: [25.7870, 57.3720],
     name: {
       de: "Vaidava Keramik",
       hu: "Vaidava Kerámia",
@@ -1604,7 +1602,7 @@ export const latviaAllPoi = [
     id: "lv-dobeles-dzirnavnieks",
     type: "industry",
     parent: "lv-country",
-    coords: projectCoordsLV(23.2824, 56.6237),
+    coords: [23.2824, 56.6237],
     name: {
       de: "Dobeles Dzirnavnieks",
       hu: "Dobeles Dzirnavnieks",
@@ -1629,7 +1627,7 @@ export const latviaAllPoi = [
     id: "lv-riga-zoo",
     type: "kid-landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1520, 56.9515),
+    coords: [24.1520, 56.9515],
     name: {
       de: "Rigaer Zoo",
       hu: "Rigai állatkert",
@@ -1654,7 +1652,7 @@ export const latviaAllPoi = [
     id: "lv-livu-akvaparks",
     type: "kid-landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(23.7640, 56.9665),
+    coords: [23.7640, 56.9665],
     name: {
       de: "Livu Aquapark",
       hu: "Līvu Aquapark",
@@ -1679,7 +1677,7 @@ export const latviaAllPoi = [
     id: "lv-tarzans-sigulda",
     type: "kid-landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.8560, 57.1578),
+    coords: [24.8560, 57.1578],
     name: {
       de: "Tarzanpark Sigulda",
       hu: "Tarzán park Sigulda",
@@ -1704,7 +1702,7 @@ export const latviaAllPoi = [
     id: "lv-ventspils-adventure-park",
     type: "kid-landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(21.5760, 57.3900),
+    coords: [21.5760, 57.3900],
     name: {
       de: "Ventspils Abenteuerpark",
       hu: "Ventspils kalandpark",
@@ -1729,7 +1727,7 @@ export const latviaAllPoi = [
     id: "lv-iecava",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.2020, 56.5970),
+    coords: [24.2020, 56.5970],
     name: {
       de: "Iecava",
       hu: "Iecava",
@@ -1754,7 +1752,7 @@ export const latviaAllPoi = [
     id: "lv-kraslava",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(27.1660, 55.8950),
+    coords: [27.1660, 55.8950],
     name: {
       de: "Krāslava",
       hu: "Krāslava",
@@ -1779,7 +1777,7 @@ export const latviaAllPoi = [
     id: "lv-vilaka",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(27.6750, 57.1845),
+    coords: [27.6750, 57.1845],
     name: {
       de: "Viļaka",
       hu: "Viļaka",
@@ -1804,7 +1802,7 @@ export const latviaAllPoi = [
     id: "lv-preili",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(26.7220, 56.2950),
+    coords: [26.7220, 56.2950],
     name: {
       de: "Preiļi",
       hu: "Preiļi",
@@ -1829,7 +1827,7 @@ export const latviaAllPoi = [
     id: "lv-salaspils",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.3460, 56.8610),
+    coords: [24.3460, 56.8610],
     name: {
       de: "Salaspils",
       hu: "Salaspils",
@@ -1857,7 +1855,7 @@ export const latviaCities = [
     id: "city-riga",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1052, 56.9496),
+    coords: [24.1052, 56.9496],
     name: {
       de: "Riga",
       hu: "Riga",
@@ -1882,7 +1880,7 @@ export const latviaCities = [
     id: "city-jurmala",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(23.7708, 56.9678),
+    coords: [23.7708, 56.9678],
     name: {
       de: "Jūrmala",
       hu: "Jūrmala",
@@ -1907,7 +1905,7 @@ export const latviaCities = [
     id: "city-liepaja",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.0107, 56.5047),
+    coords: [21.0107, 56.5047],
     name: {
       de: "Liepāja",
       hu: "Liepāja",
@@ -1932,7 +1930,7 @@ export const latviaCities = [
     id: "city-daugavpils",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(26.5333, 55.8750),
+    coords: [26.5333, 55.8750],
     name: {
       de: "Daugavpils",
       hu: "Daugavpils",
@@ -1960,7 +1958,7 @@ export const latviaCulture = [
     id: "cult-riga-oldtown",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1055, 56.9495),
+    coords: [24.1055, 56.9495],
     name: {
       de: "Altstadt Riga",
       hu: "Riga óváros",
@@ -1985,7 +1983,7 @@ export const latviaCulture = [
     id: "cult-rundale",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.0242, 56.4144),
+    coords: [24.0242, 56.4144],
     name: {
       de: "Schloss Rundāle",
       hu: "Rundāle-palota",
@@ -2010,7 +2008,7 @@ export const latviaCulture = [
     id: "cult-turaida",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.8611, 57.1833),
+    coords: [24.8611, 57.1833],
     name: {
       de: "Burg Turaida",
       hu: "Turaida-kastély",
@@ -2035,7 +2033,7 @@ export const latviaCulture = [
     id: "cult-cesis",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(25.2722, 57.3125),
+    coords: [25.2722, 57.3125],
     name: {
       de: "Burg Cēsis",
       hu: "Cēsis-vár",
@@ -2063,7 +2061,7 @@ export const latviaNature = [
     id: "nat-gauja",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.9, 57.3),
+    coords: [24.9, 57.3],
     name: {
       de: "Gauja-Nationalpark",
       hu: "Gauja Nemzeti Park",
@@ -2088,7 +2086,7 @@ export const latviaNature = [
     id: "nat-kemeri",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(23.5, 56.95),
+    coords: [23.5, 56.95],
     name: {
       de: "Ķemeri-Nationalpark",
       hu: "Ķemeri Nemzeti Park",
@@ -2113,7 +2111,7 @@ export const latviaNature = [
     id: "nat-sigulda",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(24.8597, 57.1533),
+    coords: [24.8597, 57.1533],
     name: {
       de: "Sigulda und Turaida-Tal",
       hu: "Sigulda + Turaida völgy",
@@ -2138,7 +2136,7 @@ export const latviaNature = [
     id: "nat-cape-kolka",
     type: "landmark",
     parent: "lv-country",
-    coords: projectCoordsLV(22.5933, 57.7525),
+    coords: [22.5933, 57.7525],
     name: {
       de: "Kap Kolka",
       hu: "Kolka-fok",
@@ -2163,7 +2161,7 @@ export const latviaNature = [
     id: "lv-ainazi",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.3570, 57.8618),
+    coords: [24.3570, 57.8618],
     name: {
       de: "Ainaži",
       hu: "Ainaži",
@@ -2188,7 +2186,7 @@ export const latviaNature = [
     id: "lv-salacgriva",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.3436, 57.7512),
+    coords: [24.3436, 57.7512],
     name: {
       de: "Salacgrīva",
       hu: "Salacgrīva",
@@ -2213,7 +2211,7 @@ export const latviaNature = [
     id: "lv-mazsalaca",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(25.0546, 57.8632),
+    coords: [25.0546, 57.8632],
     name: {
       de: "Mazsalaca",
       hu: "Mazsalaca",
@@ -2238,7 +2236,7 @@ export const latviaNature = [
     id: "lv-valka",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(26.0100, 57.7752),
+    coords: [26.0100, 57.7752],
     name: {
       de: "Valka",
       hu: "Valka",
@@ -2263,7 +2261,7 @@ export const latviaNature = [
     id: "lv-smiltene",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(25.9009, 57.4240),
+    coords: [25.9009, 57.4240],
     name: {
       de: "Smiltene",
       hu: "Smiltene",
@@ -2288,7 +2286,7 @@ export const latviaNature = [
     id: "lv-aizpute",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.6060, 56.7198),
+    coords: [21.6060, 56.7198],
     name: {
       de: "Aizpute",
       hu: "Aizpute",
@@ -2313,7 +2311,7 @@ export const latviaNature = [
     id: "lv-pavilosta",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.1850, 56.8874),
+    coords: [21.1850, 56.8874],
     name: {
       de: "Pāvilosta",
       hu: "Pāvilosta",
@@ -2338,7 +2336,7 @@ export const latviaNature = [
     id: "lv-grobina",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(21.1660, 56.5360),
+    coords: [21.1660, 56.5360],
     name: {
       de: "Grobiņa",
       hu: "Grobiņa",
@@ -2363,7 +2361,7 @@ export const latviaNature = [
     id: "lv-dobele",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(23.2810, 56.6250),
+    coords: [23.2810, 56.6250],
     name: {
       de: "Dobele",
       hu: "Dobele",
@@ -2388,7 +2386,7 @@ export const latviaNature = [
     id: "lv-bauska",
     type: "city",
     parent: "lv-country",
-    coords: projectCoordsLV(24.1940, 56.4073),
+    coords: [24.1940, 56.4073],
     name: {
       de: "Bauska",
       hu: "Bauska",

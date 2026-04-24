@@ -7,8 +7,8 @@ export const maltaPoi: POI[] = [
     name: { de: "Malta", hu: "Málta", ro: "Malta", en: "Malta" },
     type: "country",
     coords: [35.9375, 14.3754],
-    parent: null,
-    shortDesc: {
+    parent: undefined,
+    description: {
       de: "Malta ist ein kleiner, dicht besiedelter Inselstaat im Mittelmeer mit einer reichen Geschichte.",
       hu: "Málta egy kis, sűrűn lakott szigetország a Földközi-tengeren, gazdag történelemmel.",
       ro: "Malta este o mică țară insulară dens populată din Marea Mediterană, cu o istorie bogată.",
@@ -29,7 +29,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-001",
     coords: [35.8978, 14.5272],
-    shortDesc: {
+    description: {
       de: "Die größte Festung Maltas, oft als Filmkulisse genutzt.",
       hu: "Málta legnagyobb erődítménye, gyakran használt filmforgatási helyszín.",
       ro: "Cea mai mare fortificație din Malta, folosită frecvent ca decor de film.",
@@ -45,10 +45,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-esplora",
     name: { de: "Esplora Science Centre", hu: "Esplora Tudományos Központ", ro: "Esplora Science Centre", en: "Esplora Science Centre" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-001",
     coords: [35.8936, 14.5233],
-    shortDesc: {
+    description: {
       de: "Ein interaktives Wissenschaftszentrum in einem ehemaligen Krankenhaus.",
       hu: "Interaktív tudományos központ egy korábbi kórház épületében.",
       ro: "Centru interactiv de știință situat într-un fost spital.",
@@ -66,10 +66,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-valletta",
     name: { de: "St. John's Co-Cathedral", hu: "Szent János-társkatedrális", ro: "Co-Catedrala Sf. Ioan", en: "St. John's Co-Cathedral" },
-    type: "capital",
+    type: "state-capital",
     coords: [35.8975, 14.5125],
     parent: "MT-002",
-    shortDesc: {
+    description: {
       de: "Das Herz von Valletta, berühmt für seine barocke Pracht.",
       hu: "Valletta szíve, híres barokk pompájáról.",
       ro: "Inima Vallettei, faimoasă pentru splendoarea barocă.",
@@ -88,7 +88,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-002",
     coords: [35.8949, 14.5122],
-    shortDesc: {
+    description: {
       de: "Ein öffentlicher Garten mit Panoramablick auf den Grand Harbour.",
       hu: "Publikus kert panorámás kilátással a Grand Harbourra.",
       ro: "Grădină publică cu vedere panoramică asupra Marelui Port.",
@@ -104,10 +104,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-archaeology",
     name: { de: "Archäologisches Nationalmuseum", hu: "Nemzeti Régészeti Múzeum", ro: "Muzeul Național de Arheologie", en: "National Museum of Archaeology" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-002",
     coords: [35.8972, 14.5111],
-    shortDesc: {
+    description: {
       de: "Ausstellung bedeutender Funde aus der maltesischen Vorgeschichte.",
       hu: "Fontos máltai őskori leletek kiállítása.",
       ro: "Expoziție de artefacte importante din preistoria Maltei.",
@@ -123,10 +123,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-manoel-theatre",
     name: { de: "Manoel Theatre", hu: "Manoel Színház", ro: "Teatrul Manoel", en: "Manoel Theatre" },
-    type: "cultural",
+    type: "landmark",
     coords: [35.8997, 14.5125],
     parent: "MT-002",
-    shortDesc: {
+    description: {
       de: "Eines der ältesten noch bespielten Theater der Welt.",
       hu: "A világ egyik legrégebbi máig működő színháza.",
       ro: "Unul dintre cele mai vechi teatre funcționale din lume.",
@@ -147,7 +147,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-003",
     coords: [35.9142, 14.5033],
-    shortDesc: {
+    description: {
       de: "Ein beliebter Weg entlang der Küste mit vielen Cafés.",
       hu: "Népszerű tengerparti sétány számos kávézóval.",
       ro: "O faimoasă faleză de-a lungul coastei, plină de cafenele.",
@@ -166,7 +166,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     parent: "MT-003",
     coords: [35.9083, 14.5105],
-    shortDesc: {
+    description: {
       de: "Ein modernes Wohn- und Einkaufsviertel auf einer Halbinsel.",
       hu: "Modern lakó- és bevásárlónegyed egy félszigeten.",
       ro: "O zonă rezidențială și comercială modernă pe o peninsulă.",
@@ -185,7 +185,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-003",
     coords: [35.9189, 14.4983],
-    shortDesc: {
+    description: {
       de: "Ein alter Wachturm, der heute als Restaurant dient.",
       hu: "Régi őrtorony, amely ma étteremként működik.",
       ro: "Un vechi turn de veghe care acum servește ca restaurant.",
@@ -206,7 +206,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-004",
     coords: [35.9189, 14.4908],
-    shortDesc: {
+    description: {
       de: "Einer der malerischsten Orte Maltas mit Fischerbooten.",
       hu: "Málta egyik legfestőibb helye halászcsónakokkal.",
       ro: "Unul dintre cele mai pitorești locuri din Malta, cu bărci de pescuit.",
@@ -222,10 +222,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-paceville",
     name: { de: "Paceville", hu: "Paceville", ro: "Paceville", en: "Paceville" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-004",
     coords: [35.9222, 14.4886],
-    shortDesc: {
+    description: {
       de: "Das Zentrum des malthitischen Nachtlebens.",
       hu: "A máltai éjszakai élet központja.",
       ro: "Centrul vieții de noapte din Malta.",
@@ -244,7 +244,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-004",
     coords: [35.9208, 14.4925],
-    shortDesc: {
+    description: {
       de: "Ein exklusiver Yachthafen mit dem höchsten Gebäude Maltas.",
       hu: "Exkluzív jachtkikötő Málta legmagasabb épületével.",
       ro: "O marină exclusivistă cu cea mai înaltă clădire din Malta.",
@@ -262,10 +262,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-pembroke-garden",
     name: { de: "Pembroke Heritage Park", hu: "Pembroke Örökség Park", ro: "Parcul Pembroke Heritage", en: "Pembroke Heritage Park" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-005",
     coords: [35.9325, 14.4789],
-    shortDesc: {
+    description: {
       de: "Eine ehemalige Militärzone, die heute ein Naturschutzgebiet ist.",
       hu: "Korábbi katonai övezet, amely ma természetvédelmi terület.",
       ro: "O fostă zonă militară, acum rezervație naturală.",
@@ -284,7 +284,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-005",
     coords: [35.9344, 14.4722],
-    shortDesc: {
+    description: {
       de: "Ein Wachturm aus dem 17. Jahrhundert an der Küste.",
       hu: "17. századi őrtorony a tengerparton.",
       ro: "Un turn de veghe din secolul al XVII-lea pe coastă.",
@@ -305,7 +305,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-006",
     coords: [35.9147, 14.4444],
-    shortDesc: {
+    description: {
       de: "Ein prachtvoller Adelspalast mit wunderschönen Gärten.",
       hu: "Pompás nemesi palota gyönyörű kertekkel.",
       ro: "Un palat nobiliar splendid cu grădini superbe.",
@@ -321,10 +321,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-salina-pans",
     name: { de: "Salina Salzpfannen", hu: "Salina sólepárlók", ro: "Salinele din Salina", en: "Salina Salt Pans" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-006",
     coords: [35.9458, 14.4258],
-    shortDesc: {
+    description: {
       de: "Historische Salzpfannen zur Meersalzgewinnung.",
       hu: "Történelmi sólepárlók a tengeri só kinyerésére.",
       ro: "Saline istorice pentru extracția sării marine.",
@@ -345,7 +345,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     coords: [35.9525, 14.4114],
     parent: "MT-007",
-    shortDesc: {
+    description: {
       de: "Ein beliebtes Touristenziel an der St. Paul's Bay.",
       hu: "Népszerű turisztikai célpont a Szent Pál-öböl közelében.",
       ro: "O destinație turistică populară situată în Golful Sf. Paul.",
@@ -361,10 +361,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-aquarium",
     name: { de: "Malta National Aquarium", hu: "Máltai Nemzeti Akvárium", ro: "Acvariul Național Malta", en: "Malta National Aquarium" },
-    type: "cultural",
+    type: "landmark",
     coords: [35.9558, 14.4217],
     parent: "MT-007",
-    shortDesc: {
+    description: {
       de: "Ein großes Aquarium in Qawra, das das Meeresleben zeigt.",
       hu: "Nagy akvárium Qawrában, amely a tengeri élővilágot mutatja be.",
       ro: "Un mare acvariu în Qawra, care prezintă viața marină.",
@@ -383,7 +383,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-007",
     coords: [35.9489, 14.4022],
-    shortDesc: {
+    description: {
       de: "Der älteste erhaltene Wachturm Maltas.",
       hu: "Málta legrégebbi fennmaradt őrtornya.",
       ro: "Cel mai vechi turn de veghe conservat din Malta.",
@@ -401,10 +401,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-mellieha-bay",
     name: { de: "Mellieħa Bay", hu: "Mellieħa-öböl", ro: "Golful Mellieħa", en: "Mellieħa Bay" },
-    type: "nature",
+    type: "landmark",
     coords: [35.9733, 14.3533],
     parent: "MT-008",
-    shortDesc: {
+    description: {
       de: "Der längste Sandstrand Maltas.",
       hu: "Málta leghosszabb homokos strandja.",
       ro: "Cea mai lungă plajă de nisip din Malta.",
@@ -423,7 +423,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-008",
     coords: [35.9753, 14.3425],
-    shortDesc: {
+    description: {
       de: "Ein markanter roter Festungsturm auf dem Kamm von Marfa.",
       hu: "Jellegzetes vörös erődített torony a Marfa-gerincen.",
       ro: "Un turn fortificat roșu distinctiv pe creasta Marfa.",
@@ -439,10 +439,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-popeye-village",
     name: { de: "Popeye Village", hu: "Popeye falu", ro: "Satul Popeye", en: "Popeye Village" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-008",
     coords: [35.9606, 14.3411],
-    shortDesc: {
+    description: {
       de: "Ehemaliges Filmset für das Popeye-Musical von 1980.",
       hu: "Az 1980-as Popeye musical egykori díszletfaluja.",
       ro: "Fostul platou de filmare pentru musicalul Popeye din 1980.",
@@ -458,10 +458,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-ghadira-nature",
     name: { de: "Għadira Naturschutzgebiet", hu: "Għadira természetvédelmi terület", ro: "Rezervația Naturală Għadira", en: "Għadira Nature Reserve" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-008",
     coords: [35.97, 14.3483],
-    shortDesc: {
+    description: {
       de: "Wichtiges Feuchtgebiet für Zugvögel.",
       hu: "Fontos vizes élőhely a költöző madarak számára.",
       ro: "Zonă umedă importantă pentru păsările migratoare.",
@@ -482,7 +482,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-009",
     coords: [35.9214, 14.3775],
-    shortDesc: {
+    description: {
       de: "Prähistorische Tempelüberreste am Rande von Mġarr.",
       hu: "Prehisztorikus templommaradványok Mġarr szélén.",
       ro: "Resturi de temple preistorice la marginea orașului Mġarr.",
@@ -498,10 +498,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-ghajn-tuffieha",
     name: { de: "Għajn Tuffieħa Bay", hu: "Għajn Tuffieħa-öböl", ro: "Golful Għajn Tuffieħa", en: "Għajn Tuffieħa Bay" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-009",
     coords: [35.93, 14.3444],
-    shortDesc: {
+    description: {
       de: "Eine unberührte Bucht mit rötlichem Sand.",
       hu: "Érintetlen öböl vöröses homokkal.",
       ro: "Un golf virgin cu nisip roșiatic.",
@@ -522,7 +522,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-010",
     coords: [35.8808, 14.3972],
-    shortDesc: {
+    description: {
       de: "Ein weitläufiges unterirdisches Bestattungssystem.",
       hu: "Kiterjedt földalatti temetkezési rendszer.",
       ro: "Un sistem subteran vast de înmormântare.",
@@ -541,7 +541,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-010",
     coords: [35.8853, 14.4011],
-    shortDesc: {
+    description: {
       de: "Ruinen eines römischen Hauses mit Mosaiken.",
       hu: "Egy római ház romjai mozaikokkal.",
       ro: "Ruinele unei case romane cu mozaicuri.",
@@ -559,10 +559,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-dingli-cliffs",
     name: { de: "Dingli-Klippen", hu: "Dingli-sziklák", ro: "Stâncile Dingli", en: "Dingli Cliffs" },
-    type: "nature",
+    type: "landmark",
     coords: [35.8525, 14.3789],
     parent: "MT-011",
-    shortDesc: {
+    description: {
       de: "Die höchsten Klippen Maltas.",
       hu: "Málta legmagasabb sziklái.",
       ro: "Cele mai înalte stânci din Malta.",
@@ -581,7 +581,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-011",
     coords: [35.8514, 14.3833],
-    shortDesc: {
+    description: {
       de: "Eine kleine Kapelle am Rande der Klippen.",
       hu: "Kis kápolna a sziklák szélén.",
       ro: "O mică chapelă la marginea stâncilor.",
@@ -599,10 +599,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-limestone-heritage",
     name: { de: "Limestone Heritage", hu: "Limestone Heritage", ro: "Limestone Heritage", en: "Limestone Heritage" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-012",
     coords: [35.8567, 14.4367],
-    shortDesc: {
+    description: {
       de: "Ein park, der die Geschichte der Steinbearbeitung zeigt.",
       hu: "Park, amely a kőmegmunkálás történetét mutatja be.",
       ro: "Un parc care prezintă istoria prelucrării pietrei.",
@@ -618,10 +618,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-ghar-lapsi",
     name: { de: "Ghar Lapsi", hu: "Ghar Lapsi", ro: "Ghar Lapsi", en: "Ghar Lapsi" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-012",
     coords: [35.8267, 14.4253],
-    shortDesc: {
+    description: {
       de: "Eine natürliche Höhle und Bucht, beliebt zum Tauchen.",
       hu: "Természetes barlang és öböl, népszerű merülőhely.",
       ro: "O peșteră și un golf natural, popular pentru scufundări.",
@@ -642,7 +642,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [35.8275, 14.4464],
     parent: "MT-013",
-    shortDesc: {
+    description: {
       de: "Megalithischer Tempelkomplex.",
       hu: "Megalitikus templomkomplexum.",
       ro: "Complex de temple megalitice.",
@@ -658,10 +658,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-bluegrotto",
     name: { de: "Blaue Grotte", hu: "Kék Barlang", ro: "Grota Albastră", en: "Blue Grotto" },
-    type: "nature",
+    type: "landmark",
     coords: [35.8197, 14.4564],
     parent: "MT-013",
-    shortDesc: {
+    description: {
       de: "Berühmte Meereshöhlen.",
       hu: "Híres tengeri barlangok.",
       ro: "Peșteri marine faimoase.",
@@ -682,7 +682,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-014",
     coords: [35.8319, 14.4744],
-    shortDesc: {
+    description: {
       de: "Eine restaurierte Windmühle aus dem 18. Jahrhundert.",
       hu: "Restaurált 18. századi szélmalom.",
       ro: "O moară de vânt restaurată din secolul al XVIII-lea.",
@@ -698,10 +698,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-babu-valley",
     name: { de: "Wied iż-Żurrieq", hu: "Wied iż-Żurrieq", ro: "Wied iż-Żurrieq", en: "Wied iż-Żurrieq" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-014",
     coords: [35.8203, 14.4533],
-    shortDesc: {
+    description: {
       de: "Ein malerisches Tal und Fischerdorf.",
       hu: "Festői völgy és halászfalu.",
       ro: "O vale pitorească și un sat de pescari.",
@@ -722,7 +722,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-015",
     coords: [35.8356, 14.5275],
-    shortDesc: {
+    description: {
       de: "Eine prähistorische Höhle mit Fossilien von Zwergelefanten.",
       hu: "Prehisztorikus barlang törpeelefánt fosszíliákkal.",
       ro: "O peșteră preistorică cu fosile de elefanți pitici.",
@@ -738,10 +738,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-pretty-bay",
     name: { de: "Pretty Bay", hu: "Pretty Bay", ro: "Pretty Bay", en: "Pretty Bay" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-015",
     coords: [35.8239, 14.5306],
-    shortDesc: {
+    description: {
       de: "Ein großer Sandstrand direkt im Ort.",
       hu: "Nagy homokos strand közvetlenül a városban.",
       ro: "O plajă mare de nisip chiar în oraș.",
@@ -759,10 +759,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-marsaxlokk-market",
     name: { de: "Marsaxlokk Markt", hu: "Marsaxlokki piac", ro: "Piața Marsaxlokk", en: "Marsaxlokk Market" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-016",
     coords: [35.8417, 14.5444],
-    shortDesc: {
+    description: {
       de: "Ein berühmter Fischmarkt, der jeden Sonntag stattfindet.",
       hu: "Híres halpiac, amelyet minden vasárnap megrendeznek.",
       ro: "O piață de pește faimoasă, organizată în fiecare duminică.",
@@ -778,10 +778,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-st-peters-pool",
     name: { de: "St. Peter's Pool", hu: "Szent Péter Medencéje", ro: "St. Peter's Pool", en: "St. Peter's Pool" },
-    type: "nature",
+    type: "landmark",
     coords: [35.8306, 14.5606],
     parent: "MT-016",
-    shortDesc: {
+    description: {
       de: "Ein natürliches Felsbecken.",
       hu: "Természetes sziklamedence.",
       ro: "Piscina naturală St. Peter.",
@@ -799,10 +799,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-st-thomas-bay",
     name: { de: "St. Thomas Bay", hu: "Szent Tamás-öböl", ro: "Golful Sf. Thomas", en: "St. Thomas Bay" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-017",
     coords: [35.855, 14.5617],
-    shortDesc: {
+    description: {
       de: "Eine weitläufige Bucht mit Sand- und Felsabschnitten.",
       hu: "Tágas öböl homokos és sziklás részekkel.",
       ro: "Un golf larg cu porțiuni de nisip și stâncă.",
@@ -818,10 +818,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-zonqor-point",
     name: { de: "Żonqor Point", hu: "Żonqor Point", ro: "Żonqor Point", en: "Żonqor Point" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-017",
     coords: [35.87, 14.5683],
-    shortDesc: {
+    description: {
       de: "Der nördliche Punkt der Bucht von Marsaskala.",
       hu: "A Marsaskala-öböl északi pontja.",
       ro: "Punctul nordic al golfului Marsaskala.",
@@ -839,10 +839,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-zabbar-museum",
     name: { de: "Żabbar Sanctuary Museum", hu: "Żabbari kegyhely múzeum", ro: "Muzeul Sanctuarului din Żabbar", en: "Żabbar Sanctuary Museum" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-018",
     coords: [35.875, 14.5361],
-    shortDesc: {
+    description: {
       de: "Ein Museum neben dem Heiligtum Unserer Lieben Frau von Gratien.",
       hu: "Múzeum a kegyhely mellett.",
       ro: "Un muzeu lângă sanctuarul local.",
@@ -861,7 +861,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-018",
     coords: [35.8711, 14.5297],
-    shortDesc: {
+    description: {
       de: "Ein Triumphbogen am Eingang der Stadt.",
       hu: "Diadalív a város bejáratánál.",
       ro: "Un arc triumfal la intrarea în oraș.",
@@ -882,7 +882,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-019",
     coords: [35.885, 14.5508],
-    shortDesc: {
+    description: {
       de: "Eine britische Küstenfestung.",
       hu: "Brit tengerparti erőd.",
       ro: "O fortăreață de coastă britanică.",
@@ -901,7 +901,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-019",
     coords: [35.8858, 14.5478],
-    shortDesc: {
+    description: {
       de: "Eine ruhige Promenade am Meer.",
       hu: "Csendes tengerparti sétány.",
       ro: "O faleză liniștită la malul mării.",
@@ -919,10 +919,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-fungus-rock",
     name: { de: "Fungus Rock", hu: "Gomba-szikla", ro: "Fungus Rock", en: "Fungus Rock" },
-    type: "nature",
+    type: "landmark",
     coords: [36.0469, 14.1883],
     parent: "MT-020",
-    shortDesc: {
+    description: {
       de: "Markanter Felsen in der Dwejra-Bucht.",
       hu: "Jellegzetes szikla a Dwejra-öbölben.",
       ro: "O stâncă distinctivă în golful Dwejra.",
@@ -938,10 +938,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-blue-hole",
     name: { de: "Blue Hole", hu: "Kék Lyuk", ro: "Blue Hole", en: "Blue Hole" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-020",
     coords: [36.0528, 14.1883],
-    shortDesc: {
+    description: {
       de: "Einer der besten Tauchplätze Europas.",
       hu: "Európa egyik legjobb búvárhelye.",
       ro: "Unul dintre cele mai bune locuri de scufundări din Europa.",
@@ -959,10 +959,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-lunzjata",
     name: { de: "Lunzjata Tal", hu: "Lunzjata-völgy", ro: "Valea Lunzjata", en: "Lunzjata Valley" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-021",
     coords: [36.04, 14.2333],
-    shortDesc: {
+    description: {
       de: "Eines der fruchtbarsten Täler auf Gozo.",
       hu: "Gozo egyik legtermékenyebb völgye.",
       ro: "Una dintre cele mai fertile văi din Gozo.",
@@ -978,10 +978,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-sarraflu",
     name: { de: "Għadira ta' Sarraflu", hu: "Sarraflu-tó", ro: "Lacul Sarraflu", en: "Sarraflu Pond" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-021",
     coords: [36.035, 14.1994],
-    shortDesc: {
+    description: {
       de: "Ein seltener natürlicher Süßwasserteich auf Gozo.",
       hu: "Ritka természetes édesvízi tó Gozón.",
       ro: "Un lac natural de apă dulce rar în Gozo.",
@@ -999,10 +999,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-xlendi",
     name: { de: "Xlendi Bay", hu: "Xlendi-öböl", ro: "Golful Xlendi", en: "Xlendi Bay" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-022",
     coords: [36.0303, 14.2172],
-    shortDesc: {
+    description: {
       de: "Eine fjordähnliche Bucht mit hohen Klippen.",
       hu: "Fjordszerű öböl magas sziklákkal.",
       ro: "Un golf asemănător unui fiord cu stânci înalte.",
@@ -1018,10 +1018,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-sanap-cliffs",
     name: { de: "Sanap Klippen", hu: "Sanap-sziklák", ro: "Stâncile Sanap", en: "Sanap Cliffs" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-022",
     coords: [36.02, 14.225],
-    shortDesc: {
+    description: {
       de: "Spektakuläre Klippen an der Südküste von Gozo.",
       hu: "Látványos sziklák Gozo déli partján.",
       ro: "Stânci spectaculoase pe coasta de sud a insulei Gozo.",
@@ -1039,10 +1039,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-tacenc",
     name: { de: "Ta' Ċenċ Klippen", hu: "Ta' Ċenċ-sziklák", ro: "Stâncile Ta' Ċenċ", en: "Ta' Ċenċ Cliffs" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-023",
     coords: [36.0183, 14.2528],
-    shortDesc: {
+    description: {
       de: "Die höchsten Klippen auf Gozo.",
       hu: "Gozo legmagasabb sziklái.",
       ro: "Cele mai înalte stânci din Gozo.",
@@ -1058,10 +1058,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-mgarr-ix-xini",
     name: { de: "Mġarr ix-Xini", hu: "Mġarr ix-Xini", ro: "Mġarr ix-Xini", en: "Mġarr ix-Xini" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-023",
     coords: [36.0192, 14.2711],
-    shortDesc: {
+    description: {
       de: "Eine enge, abgeschiedene Bucht.",
       hu: "Szűk, eldugott öböl.",
       ro: "Un golf îngust și retras.",
@@ -1079,10 +1079,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-blue-lagoon",
     name: { de: "Blaue Lagune", hu: "Kék Lagúna", ro: "Laguna Albastră", en: "Blue Lagoon" },
-    type: "nature",
+    type: "landmark",
     coords: [36.0125, 14.3211],
     parent: "MT-024",
-    shortDesc: {
+    description: {
       de: "Berühmte Bucht auf Comino.",
       hu: "Híres öböl Cominón.",
       ro: "Lagună celebră pe Comino.",
@@ -1101,7 +1101,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-024",
     coords: [36.02, 14.2958],
-    shortDesc: {
+    description: {
       de: "Eine Festungsstadt mit Blick auf den Hafen von Mġarr.",
       hu: "Erődített város kilátással a Mġarr kikötőre.",
       ro: "O cetate cu vedere spre portul Mġarr.",
@@ -1119,10 +1119,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-hondoq",
     name: { de: "Ħondoq ir-Rummien", hu: "Ħondoq ir-Rummien", ro: "Ħondoq ir-Rummien", en: "Ħondoq ir-Rummien" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-025",
     coords: [36.0283, 14.3217],
-    shortDesc: {
+    description: {
       de: "Eine kleine Bucht mit kristallklarem Wasser direkt gegenüber von Comino.",
       hu: "Kis öböl kristálytiszta vízzel Cominóval szemben.",
       ro: "Un mic golf cu apă limpede, vis-a-vis de Comino.",
@@ -1141,7 +1141,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-025",
     coords: [36.0267, 14.3311],
-    shortDesc: {
+    description: {
       de: "Eine Küstenbatterie zur Verteidigung des Kanals.",
       hu: "Parti üteg a csatorna védelmére.",
       ro: "Baterie de coastă pentru apărarea canalului.",
@@ -1159,10 +1159,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-san-blas",
     name: { de: "San Blas Bay", hu: "San Blas-öböl", ro: "Golful San Blas", en: "San Blas Bay" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-026",
     coords: [36.0567, 14.3014],
-    shortDesc: {
+    description: {
       de: "Eine abgeschiedene Bucht mit rotem Sand.",
       hu: "Eldugott öböl vörös homokkal.",
       ro: "Un golf retras cu nisip roșu.",
@@ -1181,7 +1181,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-026",
     coords: [36.0383, 14.2983],
-    shortDesc: {
+    description: {
       de: "Ein ehemaliger Telegrafenturm mit toller Aussicht.",
       hu: "Korábbi távírótorony remek kilátással.",
       ro: "Un fost turn de telegraf cu o priveliște excelentă.",
@@ -1202,7 +1202,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [36.0475, 14.2692],
     parent: "MT-027",
-    shortDesc: {
+    description: {
       de: "Ältester Tempelkomplex Gozos.",
       hu: "Gozo legidősebb templomkomplexuma.",
       ro: "Cel mai vechi complex de temple din Gozo.",
@@ -1218,10 +1218,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-ramla",
     name: { de: "Ramla Bay", hu: "Ramla-öböl", ro: "Golful Ramla", en: "Ramla Bay" },
-    type: "nature",
+    type: "landmark",
     coords: [36.0617, 14.2831],
     parent: "MT-027",
-    shortDesc: {
+    description: {
       de: "Großer roter Sandstrand.",
       hu: "Nagy vörös homokos strand.",
       ro: "Plajă mare cu nisip roșu.",
@@ -1242,7 +1242,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     parent: "MT-028",
     coords: [36.0717, 14.2589],
-    shortDesc: {
+    description: {
       de: "Der beliebteste Badeort auf Gozo.",
       hu: "Gozo legnépszerűbb üdülőhelye.",
       ro: "Cea mai populară stațiune din Gozo.",
@@ -1258,10 +1258,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-marsalforn-salt-pans",
     name: { de: "Salzpfannen von Marsalforn", hu: "Marsalforni sólepárlók", ro: "Salinele din Marsalforn", en: "Marsalforn Salt Pans" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-028",
     coords: [36.0783, 14.2467],
-    shortDesc: {
+    description: {
       de: "Jahrhundertealte, in den Fels gehauene Salzpfannen.",
       hu: "Évszázados, sziklába vájt sólepárlók.",
       ro: "Saline săpate în stâncă vechi de secole.",
@@ -1279,10 +1279,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-wied-il-ghasri",
     name: { de: "Wied il-Għasri", hu: "Wied il-Għasri", ro: "Wied il-Għasri", en: "Wied il-Għasri" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-029",
     coords: [36.0792, 14.2275],
-    shortDesc: {
+    description: {
       de: "Ein enges Tal, das in einer kleinen Kieselbucht endet.",
       hu: "Szűk völgy, amely egy kis kavicsos öbölben végződik.",
       ro: "O vale îngustă care se termină într-un mic golf de pietriș.",
@@ -1301,7 +1301,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-029",
     coords: [36.0689, 14.2208],
-    shortDesc: {
+    description: {
       de: "Ein markanter Leuchtturm auf einem Hügel über Għasri.",
       hu: "Jellegzetes világítótorony a dombtetőn.",
       ro: "Un far distinctiv pe un deal deasupra Għasri.",
@@ -1322,7 +1322,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-030",
     coords: [36.0617, 14.215],
-    shortDesc: {
+    description: {
       de: "Maltas bedeutendster Wallfahrtsort.",
       hu: "Málta legjelentősebb zarándokhelye.",
       ro: "Cel mai important loc de pelerinaj din Malta.",
@@ -1338,10 +1338,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-wied-il-mielah",
     name: { de: "Wied il-Mielaħ Fenster", hu: "Wied il-Mielaħ ablak", ro: "Fereastra Wied il-Mielaħ", en: "Wied il-Mielaħ Window" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-030",
     coords: [36.0794, 14.2125],
-    shortDesc: {
+    description: {
       de: "Ein natürlicher Felsbogen an der Nordküste.",
       hu: "Természetes sziklaív az északi parton.",
       ro: "Un arc natural de piatră pe coasta de nord.",
@@ -1362,7 +1362,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [36.0469, 14.2394],
     parent: "MT-031",
-    shortDesc: {
+    description: {
       de: "Historische befestigte Stadt.",
       hu: "Történelmi erődített város.",
       ro: "Oraș fortificat istoric.",
@@ -1378,10 +1378,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-victoria-market",
     name: { de: "It-Tokk Markt", hu: "It-Tokk piac", ro: "Piața It-Tokk", en: "It-Tokk Market" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-031",
     coords: [36.0436, 14.2394],
-    shortDesc: {
+    description: {
       de: "Der zentrale Marktplatz von Victoria.",
       hu: "Victoria központi piactere.",
       ro: "Piața centrală din Victoria.",
@@ -1399,10 +1399,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-fontana-springs",
     name: { de: "Fontana Quellen", hu: "Fontana források", ro: "Izvoarele Fontana", en: "Fontana Springs" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-032",
     coords: [36.0375, 14.2358],
-    shortDesc: {
+    description: {
       de: "Natürliche Quellen, die dem Dorf seinen Namen gaben.",
       hu: "Természetes források, amelyekről a falu a nevét kapta.",
       ro: "Izvoare naturale care au dat numele satului.",
@@ -1421,7 +1421,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-032",
     coords: [36.0375, 14.2372],
-    shortDesc: {
+    description: {
       de: "Die Pfarrkirche von Fontana.",
       hu: "Fontana plébániatemploma.",
       ro: "Biserica parohială din Fontana.",
@@ -1442,7 +1442,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-033",
     coords: [36.0328, 14.2611],
-    shortDesc: {
+    description: {
       de: "Eine gewaltige Kirche mit einer der größten Kuppeln der Welt.",
       hu: "Hatalmas templom a világ egyik legnagyobb kupolájával.",
       ro: "O biserică masivă cu una dintre cele mai mari cupole din lume.",
@@ -1461,7 +1461,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-033",
     coords: [36.035, 14.2583],
-    shortDesc: {
+    description: {
       de: "Eine historische Windmühle am Dorfrand.",
       hu: "Történelmi szélmalom a falu szélén.",
       ro: "O moară de vânt istorică la marginea satului.",
@@ -1482,7 +1482,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     coords: [35.91, 14.425],
     parent: "MT-034",
-    shortDesc: {
+    description: {
       de: "Kirche mit riesiger Kuppel.",
       hu: "Hatalmas kupolájú templom.",
       ro: "Biserică cu o cupolă imensă.",
@@ -1501,7 +1501,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-034",
     coords: [35.9189, 14.4144],
-    shortDesc: {
+    description: {
       de: "Eine Verteidigungslinie quer über die Insel.",
       hu: "Védelmi vonal a szigeten keresztül.",
       ro: "O linie de apărare care traversează insula.",
@@ -1522,7 +1522,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-035",
     coords: [35.9, 14.4483],
-    shortDesc: {
+    description: {
       de: "Ein dekorativer Turm und Wahrzeichen von Lija.",
       hu: "Dekoratív torony, Lija jelképe.",
       ro: "Un turn decorativ și simbol al orașului Lija.",
@@ -1541,7 +1541,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-035",
     coords: [35.9017, 14.4461],
-    shortDesc: {
+    description: {
       de: "Eine barocke Kirche, bekannt für ihre prächtigen Feuerwerke beim Dorffest.",
       hu: "Barokk templom, amely a falu ünnepének látványos tűzijátékáról ismert.",
       ro: "O biserică barocă cunoscută pentru focurile de artificii superbe de la festival.",
@@ -1562,7 +1562,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-036",
     coords: [35.8958, 14.4467],
-    shortDesc: {
+    description: {
       de: "Der offizielle Wohnsitz des maltesischen Präsidenten.",
       hu: "A máltai elnök hivatalos rezidenciája.",
       ro: "Reședința oficială a președintelui Maltei.",
@@ -1578,10 +1578,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-ta-qali",
     name: { de: "Ta' Qali Crafts Village", hu: "Ta' Qali kézműves falu", ro: "Satul de meserii Ta' Qali", en: "Ta' Qali Crafts Village" },
-    type: "cultural",
+    type: "landmark",
     coords: [35.8942, 14.4161],
     parent: "MT-036",
-    shortDesc: {
+    description: {
       de: "Handwerkerdorf mit Glasbläserei.",
       hu: "Kézműves falu üvegfújással.",
       ro: "Sat de meșteșuguri locale.",
@@ -1602,7 +1602,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-037",
     coords: [35.8917, 14.3986],
-    shortDesc: {
+    description: {
       de: "Ein markanter Uhrturm aus der britischen Kolonialzeit.",
       hu: "Jellegzetes óratorony a brit gyarmati időszakból.",
       ro: "Un turn cu ceas distinctiv din perioada colonială britanică.",
@@ -1621,7 +1621,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-037",
     coords: [35.8906, 14.3964],
-    shortDesc: {
+    description: {
       de: "Ein massives neoklassizistisches Gebäude.",
       hu: "Hatalmas neoklasszicista épület.",
       ro: "O clădire neoclasică masivă.",
@@ -1642,7 +1642,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     coords: [35.8858, 14.4031],
     parent: "MT-038",
-    shortDesc: {
+    description: {
       de: "Ehemalige Hauptstadt Maltas.",
       hu: "Málta egykori fővárosa.",
       ro: "Fosta capitală a Maltei.",
@@ -1661,7 +1661,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-038",
     coords: [35.8864, 14.4039],
-    shortDesc: {
+    description: {
       de: "Die Hauptkirche von Mdina.",
       hu: "Mdina főtemploma.",
       ro: "Principala biserică din Mdina.",
@@ -1680,7 +1680,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-038",
     coords: [35.8847, 14.4036],
-    shortDesc: {
+    description: {
       de: "Ein französischer Barockpalast am Eingang von Mdina.",
       hu: "Francia barokk palota Mdina bejáratánál.",
       ro: "Un palat baroc francez la intrarea în Mdina.",
@@ -1701,7 +1701,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-039",
     coords: [35.875, 14.4444],
-    shortDesc: {
+    description: {
       de: "Ein monumentaler Torbogen zu Ehren von Großmeister De Rohan.",
       hu: "Monumentális boltív De Rohan nagymester tiszteletére.",
       ro: "Un arc monumental în onoarea Marelui Maestru De Rohan.",
@@ -1720,7 +1720,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-039",
     coords: [35.8722, 14.4439],
-    shortDesc: {
+    description: {
       de: "Eine der beeindruckendsten Dorfkirchen Maltas.",
       hu: "Málta egyik leglátványosabb falusi temploma.",
       ro: "Una dintre cele mai impresionante biserici din satele Maltei.",
@@ -1738,10 +1738,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-qormi-bread",
     name: { de: "Bäckereiviertel von Qormi", hu: "Qormi pékségnegyed", ro: "Cartierul brutăriilor din Qormi", en: "Qormi Bakery Quarter" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-040",
     coords: [35.8794, 14.4683],
-    shortDesc: {
+    description: {
       de: "Das Zentrum der traditionellen Brotherstellung.",
       hu: "A hagyományos kenyérkészítés központja.",
       ro: "Centrul panificației tradiționale.",
@@ -1760,7 +1760,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-040",
     coords: [35.8778, 14.4667],
-    shortDesc: {
+    description: {
       de: "Eine der ältesten Pfarreien Maltas.",
       hu: "Málta egyik legrégebbi plébániája.",
       ro: "Una dintre cele mai vechi parohii din Malta.",
@@ -1781,7 +1781,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-041",
     coords: [35.9283, 14.4711],
-    shortDesc: {
+    description: {
       de: "Eine historische Brücke der Victoria Lines.",
       hu: "A Victoria-vonalak történelmi hídja.",
       ro: "Un pod istoric al liniilor Victoria.",
@@ -1797,10 +1797,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-swieqi-parish",
     name: { de: "Swieqi Pfarrkirche", hu: "Swieqi plébániatemplom", ro: "Biserica parohială din Swieqi", en: "Swieqi Parish Church" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-041",
     coords: [35.92, 14.4783],
-    shortDesc: {
+    description: {
       de: "Das geistliche Zentrum des modernen Swieqi.",
       hu: "A modern Swieqi hitéleti központja.",
       ro: "Centrul spiritual din Swieqi modern.",
@@ -1818,10 +1818,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-top-of-the-world",
     name: { de: "Top of the World", hu: "Top of the World", ro: "Top of the World", en: "Top of the World" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-042",
     coords: [35.9267, 14.4533],
-    shortDesc: {
+    description: {
       de: "Ein Aussichtspunkt mit weitem Blick über Malta.",
       hu: "Kilátópont, ahonnan belátni egész Máltát.",
       ro: "Un punct de observație cu o vedere largă asupra Maltei.",
@@ -1840,7 +1840,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-042",
     coords: [35.9244, 14.4517],
-    shortDesc: {
+    description: {
       de: "Eine charmante barocke Kirche im alten Dorfkern.",
       hu: "Bájos barokk templom a régi falu központjában.",
       ro: "O biserică barocă fermecătoare în centrul vechi al satului.",
@@ -1861,7 +1861,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-043",
     coords: [35.9083, 14.4772],
-    shortDesc: {
+    description: {
       de: "Eine kleine Höhlenkirche mit einer legendenhaften Geschichte.",
       hu: "Kis barlangtemplom legendás történettel.",
       ro: "O mică biserică în peșteră cu o istorie legendară.",
@@ -1880,7 +1880,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-043",
     coords: [35.9056, 14.4811],
-    shortDesc: {
+    description: {
       de: "Prähistorische Furchen im Felsboden.",
       hu: "Prehisztorikus barázdák a sziklás talajon.",
       ro: "Șanțuri preistorice în solul stâncos.",
@@ -1901,7 +1901,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-044",
     coords: [35.9033, 14.4567],
-    shortDesc: {
+    description: {
       de: "Eine kleine ländliche Kapelle aus dem 17. Jahrhundert.",
       hu: "Kis vidéki kápolna a 17. századból.",
       ro: "O mică capelă rurală din secolul XVII.",
@@ -1917,10 +1917,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-iklin-square",
     name: { de: "Iklin Platz", hu: "Iklin tér", ro: "Piața Iklin", en: "Iklin Square" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-044",
     coords: [35.905, 14.455],
-    shortDesc: {
+    description: {
       de: "Das Zentrum der modernen Gemeinde Iklin.",
       hu: "Iklin modern községének központja.",
       ro: "Centrul comunei moderne Iklin.",
@@ -1941,7 +1941,7 @@ export const maltaPoi: POI[] = [
     type: "city",
     coords: [35.8972, 14.4611],
     parent: "MT-045",
-    shortDesc: {
+    description: {
       de: "Eine prachtvolle barocke Basilika.",
       hu: "Pompás barokk bazilika.",
       ro: "O bazilică barocă splendidă.",
@@ -1960,7 +1960,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-045",
     coords: [35.8986, 14.4625],
-    shortDesc: {
+    description: {
       de: "Ein Relikt der ehemaligen maltesischen Eisenbahn.",
       hu: "A korábbi máltai vasút emléke.",
       ro: "Un vestigiu al fostei căi ferate malteze.",
@@ -1981,7 +1981,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-046",
     coords: [35.8986, 14.4533],
-    shortDesc: {
+    description: {
       de: "Eine elegante barocke Kirche im Herzen des Dorfes.",
       hu: "Elegáns barokk templom a falu szívében.",
       ro: "O biserică barocă elegantă în inima satului.",
@@ -2000,7 +2000,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-046",
     coords: [35.8972, 14.4583],
-    shortDesc: {
+    description: {
       de: "Teile einer historischen Wasserleitung.",
       hu: "Történelmi vízvezeték részei.",
       ro: "Părți ale unui apeduct istoric.",
@@ -2018,10 +2018,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-romeo-romano",
     name: { de: "Romeo Romano Gärten", hu: "Romeo Romano-kertek", ro: "Grădinile Romeo Romano", en: "Romeo Romano Gardens" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-047",
     coords: [35.89, 14.4789],
-    shortDesc: {
+    description: {
       de: "Einer der größten Gärten der Umgebung.",
       hu: "A környék egyik legnagyobb kertje.",
       ro: "Una dintre cele mai mari grădini din zonă.",
@@ -2040,7 +2040,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-047",
     coords: [35.8906, 14.4794],
-    shortDesc: {
+    description: {
       de: "Ein prachtvoller Palast aus dem 18. Jahrhundert.",
       hu: "Pompás 18. századi palota.",
       ro: "Un palat splendid din secolul XVIII.",
@@ -2058,10 +2058,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-miraculous-medal",
     name: { de: "Wundertätige Medaille Kirche", hu: "Csodás Érem templom", ro: "Biserica Medaliei Miraculoase", en: "Miraculous Medal Church" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-048",
     coords: [35.8858, 14.4858],
-    shortDesc: {
+    description: {
       de: "Eine moderne Kirche mit großer Bedeutung für die Gemeinde.",
       hu: "Modern templom nagy jelentőséggel a közösség számára.",
       ro: "O biserică modernă cu mare importanță pentru comunitate.",
@@ -2080,7 +2080,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-048",
     coords: [35.8847, 14.4844],
-    shortDesc: {
+    description: {
       de: "Ein Denkmal zur Feier der lokalen Identität.",
       hu: "A helyi identitás tiszteletére emelt emlékmű.",
       ro: "Un monument pentru celebrarea identității locale.",
@@ -2098,10 +2098,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-marsa-racing",
     name: { de: "Marsa Pferderennbahn", hu: "Marsai lóversenypálya", ro: "Hipodromul Marsa", en: "Marsa Horse Racing Track" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-049",
     coords: [35.8756, 14.4917],
-    shortDesc: {
+    description: {
       de: "Die einzige Pferderennbahn Maltas.",
       hu: "Málta egyetlen lóversenypályája.",
       ro: "Singurul hipodrom din Malta.",
@@ -2120,7 +2120,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-049",
     coords: [35.875, 14.4967],
-    shortDesc: {
+    description: {
       de: "Ein architektonisch einzigartiger Friedhof.",
       hu: "Építészetileg egyedülálló temető.",
       ro: "Un cimitir unic din punct de vedere arhitectural.",
@@ -2141,7 +2141,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-050",
     coords: [35.8575, 14.4775],
-    shortDesc: {
+    description: {
       de: "Das Tor Maltas zur Welt.",
       hu: "Málta kapuja a világra.",
       ro: "Poarta Maltei către lume.",
@@ -2160,7 +2160,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-050",
     coords: [35.8594, 14.4886],
-    shortDesc: {
+    description: {
       de: "Eine große Barockkirche, dem hl. Andreas geweiht.",
       hu: "Hatalmas barokk templom, Szent András tiszteletére.",
       ro: "O biserică barocă mare, dedicată Sf. Andrei.",
@@ -2181,7 +2181,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-051",
     coords: [35.845, 14.4667],
-    shortDesc: {
+    description: {
       de: "Ein kleiner, aber bedeutender Katakombenkomplex.",
       hu: "Kicsi, de jelentős katakombarendszer.",
       ro: "Un complex de catacombe mic, dar important.",
@@ -2200,7 +2200,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-051",
     coords: [35.8444, 14.4658],
-    shortDesc: {
+    description: {
       de: "Ein privater befestigter Wohnturm.",
       hu: "Magánkézben lévő erődített lakótorony.",
       ro: "Un turn rezidențial fortificat privat.",
@@ -2221,7 +2221,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-052",
     coords: [35.8422, 14.4844],
-    shortDesc: {
+    description: {
       de: "Ein seltener prähistorischer Menhir.",
       hu: "Ritka prehisztorikus menhir.",
       ro: "Un menhir preistoric rar.",
@@ -2240,7 +2240,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-052",
     coords: [35.8425, 14.4853],
-    shortDesc: {
+    description: {
       de: "Eine typische maltesische Dorfkirche, dem hl. Leonhard geweiht.",
       hu: "Tipikus máltai falusi templom, Szent Lénárt tiszteletére.",
       ro: "O biserică tipică malteză de sat, dedicată Sf. Leonard.",
@@ -2258,10 +2258,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-safi-garden",
     name: { de: "Sir Alexander Ball Garten", hu: "Sir Alexander Ball kert", ro: "Grădina Sir Alexander Ball", en: "Sir Alexander Ball's Garden" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-053",
     coords: [35.8344, 14.485],
-    shortDesc: {
+    description: {
       de: "Ein kleiner, ruhiger Garten im Herzen des Dorfes.",
       hu: "Kicsi, csendes kert a falu szívében.",
       ro: "O mică grădină liniștită în inima satului.",
@@ -2280,7 +2280,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-053",
     coords: [35.8336, 14.4847],
-    shortDesc: {
+    description: {
       de: "Eine schlichte, aber schöne Barockkirche.",
       hu: "Egyszerű, de szép barokk templom.",
       ro: "O biserică barocă simplă, dar frumoasă.",
@@ -2298,10 +2298,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-shell-house",
     name: { de: "Muschelhaus", hu: "Kagylósház", ro: "Casa cu scoici", en: "The Sea Shell House" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-054",
     coords: [35.8492, 14.5161],
-    shortDesc: {
+    description: {
       de: "Ein Haus, dessen Fassade vollständig mit Muscheln dekoriert ist.",
       hu: "Ház, amelynek homlokzatát teljes egészében kagylók díszítik.",
       ro: "O casă a cărei fațadă este decorată în întregime cu scoici.",
@@ -2320,7 +2320,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-054",
     coords: [35.8483, 14.5167],
-    shortDesc: {
+    description: {
       de: "Eine beeindruckende Barockkirche im Zentrum.",
       hu: "Lenyűgöző barokk templom a központban.",
       ro: "O biserică barocă impresionantă în centru.",
@@ -2341,7 +2341,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-055",
     coords: [35.8553, 14.5333],
-    shortDesc: {
+    description: {
       de: "Eine der prächtigsten Kirchen im Süden Maltas.",
       hu: "Málta déli részének egyik legpompásabb temploma.",
       ro: "Una dintre cele mai superbe biserici din sudul Maltei.",
@@ -2360,7 +2360,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-055",
     coords: [35.8525, 14.5408],
-    shortDesc: {
+    description: {
       de: "Die alte Pfarrkirche von Żejtun.",
       hu: "Żejtun régi plébániatemploma.",
       ro: "Vechea biserică parohială din Żejtun.",
@@ -2381,7 +2381,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-056",
     coords: [35.8717, 14.5233],
-    shortDesc: {
+    description: {
       de: "Ein markantes Denkmal im Herzen von Fgura.",
       hu: "Jellegzetes emlékmű Fgura szívében.",
       ro: "Un monument distinctiv în inima orașului Fgura.",
@@ -2397,10 +2397,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-fgura-church",
     name: { de: "Fgura Pfarrkirche", hu: "Fgura plébániatemplom", ro: "Biserica parohială din Fgura", en: "Fgura Parish Church" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-056",
     coords: [35.8725, 14.5225],
-    shortDesc: {
+    description: {
       de: "Eine der modernsten Kirchen Maltas.",
       hu: "Málta egyik legmodernebb temploma.",
       ro: "Una dintre cele mai moderne biserici din Malta.",
@@ -2421,7 +2421,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [35.8697, 14.5117],
     parent: "MT-057",
-    shortDesc: {
+    description: {
       de: "Archäologische Stätte aus der Jungsteinzeit.",
       hu: "Újkőkorszaki régészeti lelőhely.",
       ro: "Sit arheologic neolitic.",
@@ -2440,7 +2440,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-057",
     coords: [35.8767, 14.5083],
-    shortDesc: {
+    description: {
       de: "Ein weiterer wichtiger Tempelkomplex in der Nähe.",
       hu: "Egy másik fontos templomkomplexum a közelben.",
       ro: "Un alt complex de temple important în apropiere.",
@@ -2458,10 +2458,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-garden-serenity",
     name: { de: "Garten der Gelassenheit", hu: "A derű kertje", ro: "Grădina Serinității", en: "Chinese Garden of Serenity" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-058",
     coords: [35.8617, 14.5061],
-    shortDesc: {
+    description: {
       de: "Ein authentischer chinesischer Garten.",
       hu: "Autentikus kínai kert.",
       ro: "O grădină chinezească autentică.",
@@ -2477,10 +2477,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-st-lucija-church",
     name: { de: "Santa Luċija Pfarrkirche", hu: "Santa Luċija plébániatemplom", ro: "Biserica parohială din Santa Luċija", en: "Santa Luċija Parish Church" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-058",
     coords: [35.8625, 14.505],
-    shortDesc: {
+    description: {
       de: "Die Pfarrkirche der jungen Gemeinde.",
       hu: "A fiatal közösség plébániatemploma.",
       ro: "Biserica parohială a tinerei comunități.",
@@ -2501,7 +2501,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-059",
     coords: [35.85, 14.4983],
-    shortDesc: {
+    description: {
       de: "Eine mittelalterliche Kapelle, die die Zeit überdauert hat.",
       hu: "Középkori kápolna, amely fennmaradt az utókornak.",
       ro: "O capelă medievală care a supraviețuit timpului.",
@@ -2520,7 +2520,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-059",
     coords: [35.8492, 14.5017],
-    shortDesc: {
+    description: {
       de: "Ein historischer Palast mit Verbindungen zu Napoleon.",
       hu: "Történelmi palota Napoleonhoz fűződő kapcsolatokkal.",
       ro: "Un palat istoric cu legături cu Napoleon.",
@@ -2541,7 +2541,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [35.8694, 14.5069],
     parent: "MT-060",
-    shortDesc: {
+    description: {
       de: "Prähistorische unterirdische Tempelanlage.",
       hu: "Prehisztorikus földalatti templom.",
       ro: "Structură subterană preistorică.",
@@ -2560,7 +2560,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-060",
     coords: [35.8717, 14.5083],
-    shortDesc: {
+    description: {
       de: "Eine der größten Kirchen Maltas.",
       hu: "Málta egyik legnagyobb temploma.",
       ro: "Una dintre cele mai mari biserici din Malta.",
@@ -2581,7 +2581,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-061",
     coords: [35.9039, 14.5019],
-    shortDesc: {
+    description: {
       de: "Eine kleine Insel zwischen Valletta und Sliema.",
       hu: "Kis sziget Valletta és Sliema között.",
       ro: "O mică insulă între Valletta și Sliema.",
@@ -2600,7 +2600,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-061",
     coords: [35.9033, 14.4967],
-    shortDesc: {
+    description: {
       de: "Ein lebhafter Gehweg am Marsamxett Harbour.",
       hu: "Élettel teli sétány a Marsamxett kikötőben.",
       ro: "O faleză plină de viață în portul Marsamxett.",
@@ -2618,10 +2618,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-argotti",
     name: { de: "Argotti Botanischer Garten", hu: "Argotti botanikus kert", ro: "Grădina Botanică Argotti", en: "Argotti Botanical Gardens" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-062",
     coords: [35.8925, 14.505],
-    shortDesc: {
+    description: {
       de: "Maltas bedeutendster botanischer Garten.",
       hu: "Málta legjelentősebb botanikus kertje.",
       ro: "Cea mai importantă grădină botanică din Malta.",
@@ -2640,7 +2640,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-062",
     coords: [35.8914, 14.5083],
-    shortDesc: {
+    description: {
       de: "Eine der prachtvollsten Kirchen Maltas vor den Toren Vallettas.",
       hu: "Málta egyik legpompásabb temploma Valletta kapui előtt.",
       ro: "Una dintre cele mai superbe biserici din Malta, lângă porțile Vallettei.",
@@ -2661,7 +2661,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-063",
     coords: [35.8994, 14.495],
-    shortDesc: {
+    description: {
       de: "Ein exklusiver Yachthafen mit Blick auf Valletta.",
       hu: "Exkluzív jachtkikötő kilátással Vallettára.",
       ro: "O marină exclusivistă cu vedere spre Valletta.",
@@ -2680,7 +2680,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-063",
     coords: [35.8983, 14.4933],
-    shortDesc: {
+    description: {
       de: "Ein elegantes Viertel mit vielen ausländischen Botschaften.",
       hu: "Elegáns negyed számos külföldi nagykövetséggel.",
       ro: "Un cartier elegant cu multe ambasade străine.",
@@ -2698,10 +2698,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-gardjola",
     name: { de: "Gardjola Gardens", hu: "Gardjola-kertek", ro: "Grădinile Gardjola", en: "Gardjola Gardens" },
-    type: "nature",
+    type: "landmark",
     parent: "MT-064",
     coords: [35.8933, 14.5142],
-    shortDesc: {
+    description: {
       de: "Ein kleiner Garten an der Spitze der Halbinsel Senglea.",
       hu: "Kis kert a Senglea-félsziget csúcsán.",
       ro: "O mică grădină în vârful peninsulei Senglea.",
@@ -2720,7 +2720,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-064",
     coords: [35.8878, 14.5167],
-    shortDesc: {
+    description: {
       de: "Die bedeutendste Kirche in Isla.",
       hu: "Isla legjelentősebb temploma.",
       ro: "Cea mai importantă biserică din Isla.",
@@ -2741,7 +2741,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-065",
     coords: [35.8822, 14.5208],
-    shortDesc: {
+    description: {
       de: "Eine große Barockkirche, die den Krieg überstand.",
       hu: "Hatalmas barokk templom, amely túlélte a háborút.",
       ro: "O biserică barocă mare care a supraviețuit războiului.",
@@ -2760,7 +2760,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-065",
     coords: [35.8794, 14.5225],
-    shortDesc: {
+    description: {
       de: "Ein prachtvolles barockes Stadttor.",
       hu: "Pompás barokk városkapu.",
       ro: "O poartă barocă superbă a orașului.",
@@ -2781,7 +2781,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-066",
     coords: [35.8944, 14.4967],
-    shortDesc: {
+    description: {
       de: "Ein historisches Herrenhaus, in dem Queen Elizabeth II. lebte.",
       hu: "Történelmi kúria, ahol II. Erzsébet királynő élt.",
       ro: "O vilă istorică unde a locuit regina Elisabeta a II-a.",
@@ -2800,7 +2800,7 @@ export const maltaPoi: POI[] = [
     type: "landmark",
     parent: "MT-066",
     coords: [35.8958, 14.4983],
-    shortDesc: {
+    description: {
       de: "Ein malerischer Yachthafen am Marsamxett Harbour.",
       hu: "Festői jachtkikötő a Marsamxett kikötőben.",
       ro: "O marină pitorească în portul Marsamxett.",
@@ -2821,7 +2821,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-067",
     coords: [35.8967, 14.4892],
-    shortDesc: {
+    description: {
       de: "Eine markante Kirche am Ende des Hafens.",
       hu: "Jellegzetes templom a kikötő végén.",
       ro: "O biserică distinctivă la capătul portului.",
@@ -2837,10 +2837,10 @@ export const maltaPoi: POI[] = [
   {
     id: "poi-mt-university",
     name: { de: "Universität von Malta", hu: "Máltai Egyetem", ro: "Universitatea din Malta", en: "University of Malta" },
-    type: "cultural",
+    type: "landmark",
     parent: "MT-067",
     coords: [35.9019, 14.4831],
-    shortDesc: {
+    description: {
       de: "Die höchste Bildungseinrichtung Maltas.",
       hu: "Málta legmagasabb szintű oktatási intézménye.",
       ro: "Cea mai înaltă instituție de învățământ din Malta.",
@@ -2861,7 +2861,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     coords: [35.8922, 14.5181],
     parent: "MT-068",
-    shortDesc: {
+    description: {
       de: "Große Festung in Birgu.",
       hu: "Nagy erőd Birguban.",
       ro: "O mare fortăreață în Birgu.",
@@ -2880,7 +2880,7 @@ export const maltaPoi: POI[] = [
     type: "historical",
     parent: "MT-068",
     coords: [35.8883, 14.5225],
-    shortDesc: {
+    description: {
       de: "Ein seltener erhaltene Palast der Inquisition.",
       hu: "Ritka, épségben maradt inkvizíciós palota.",
       ro: "Unul dintre puținele palate ale inchiziției care au supraviețuit.",

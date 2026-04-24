@@ -325,7 +325,7 @@ export const andorraLandmarks: POI[] = [
 export const andorraNature: POI[] = [
   {
     id: "nature-coma-pedrosa",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.4428, 42.5908],
     name: { de: "Coma Pedrosa", hu: "Coma Pedrosa", ro: "Coma Pedrosa", en: "Coma Pedrosa" },
@@ -338,7 +338,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-tristaina",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.4883, 42.6373],
     name: { de: "Estanys de Tristaina", hu: "Estanys de Tristaina", ro: "Lacurile Tristaina", en: "Tristaina Lakes" },
@@ -351,7 +351,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-madriu",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.5833, 42.4833],
     name: { de: "Madriu-Perafita-Claror Tal", hu: "Madriu-Perafita-Claror völgy", ro: "Valea Madriu-Perafita-Claror", en: "Madriu-Perafita-Claror Valley" },
@@ -364,7 +364,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-engolasters-lake",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.5711, 42.5204],
     name: { de: "Llac d'Engolasters", hu: "Llac d'Engolasters", ro: "Lacul Engolasters", en: "Engolasters Lake" },
@@ -377,7 +377,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-naturlandia",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.5034, 42.4418],
     name: { de: "Naturlandia", hu: "Naturlandia", ro: "Naturlandia", en: "Naturlandia" },
@@ -390,7 +390,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-vallnord",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.4812, 42.5562],
     name: { de: "Vallnord", hu: "Vallnord", ro: "Vallnord", en: "Vallnord" },
@@ -403,7 +403,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-grandvalira",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.6705, 42.5623],
     name: { de: "Grandvalira", hu: "Grandvalira", ro: "Grandvalira", en: "Grandvalira" },
@@ -416,7 +416,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-casamanya",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.5647, 42.5852],
     name: { de: "Pic de Casamanya", hu: "Pic de Casamanya", ro: "Pic de Casamanya", en: "Pic de Casamanya" },
@@ -429,7 +429,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-sorteny",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.5630, 42.6251],
     name: { de: "Parc Natural de Sorteny", hu: "Sorteny Nemzeti Park", ro: "Parcul Natural Sorteny", en: "Sorteny Nature Park" },
@@ -442,7 +442,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-roc-del-quer",
-    type: "nature",
+    type: "landmark",
     parent: "country-andorra",
     coords: [1.6000, 42.5600],
     name: { de: "Mirador Roc del Quer", hu: "Mirador Roc del Quer", ro: "Mirador Roc del Quer", en: "Roc del Quer viewpoint" },
@@ -571,7 +571,7 @@ export const andorraRegionPois: POI[] = [
   },
   {
     id: "nature-ad-001-iron-route",
-    type: "nature",
+    type: "landmark",
     parent: "AD-001",
     coords: [1.5288, 42.5938],
     name: { de: "Eisenroute", hu: "Vas útja", ro: "Ruta Fierului", en: "Iron Route" },
@@ -647,7 +647,7 @@ export const andorraRegionPois: POI[] = [
   },
   {
     id: "nature-ad-003-pessons-lakes",
-    type: "nature",
+    type: "landmark",
     parent: "AD-003",
     coords: [1.6888, 42.5258],
     name: { de: "Pessons-Seen", hu: "Pessons-tavak", ro: "Lacurile Pessons", en: "Pessons Lakes" },

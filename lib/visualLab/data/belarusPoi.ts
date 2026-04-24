@@ -241,7 +241,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-belovezhskaya-pushcha",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [23.8791, 52.5855],
     name: {
@@ -259,7 +259,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-braslav-lakes",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [27.0306, 55.5986],
     name: {
@@ -277,7 +277,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-lake-narach",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [26.7333, 54.8500],
     name: {
@@ -457,7 +457,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-pripyatsky-np",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [28.1167, 52.0500],
     name: {
@@ -529,7 +529,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-berezinsky-reserve",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [28.3333, 54.7167],
     name: {
@@ -583,7 +583,7 @@ export const belarusRegions: POI[] = [
   },
   {
     id: "nature-augustow-canal",
-    type: "nature",
+    type: "landmark",
     parent: "country-belarus",
     coords: [23.6500, 53.8500],
     name: {
@@ -822,7 +822,7 @@ export const belarusLocalPois: POI[] = [
   },
   {
     id: "BY-003-braslav-lakes",
-    type: "nature",
+    type: "landmark",
     parent: "BY-003",
     coords: [27.0306, 55.5986],
     name: {

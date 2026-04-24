@@ -523,7 +523,7 @@ export const ukraineNewPois: POI[] = [
   },
   {
     id: "UA-003-tunnel-of-love",
-    type: "nature",
+    type: "landmark",
     parent: "UA-003",
     coords: [26.0454, 50.7511],
     name: { de: "Liebestunnel", hu: "Szerelem-alagút", ro: "Tunelul Dragostei", en: "Tunnel of Love" },
@@ -808,7 +808,7 @@ export const ukraineNewPois: POI[] = [
   },
   {
     id: "UA-016-oleshkivski-sands",
-    type: "nature",
+    type: "landmark",
     parent: "UA-016",
     coords: [33.0500, 46.5833],
     name: { de: "Oleshky-Sande", hu: "Oleskivszki-homok", ro: "Nisipurile Oleșki", en: "Oleshky Sands" },
@@ -1036,7 +1036,7 @@ export const ukraineNewPois: POI[] = [
   },
   {
     id: "UA-023-sofiyivka",
-    type: "nature",
+    type: "landmark",
     parent: "UA-023",
     coords: [30.2228, 48.7647],
     name: { de: "Sofijiwka-Park", hu: "Szofijivka-park", ro: "Parcul Sofiivka", en: "Sofiyivka Park" },

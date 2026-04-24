@@ -1,10 +1,8 @@
-import { projectCoordsLU } from "../maps/luxembourg.svg";
-
 export const luxembourgAllPoi = [
   {
     id: "lu-country",
     type: "country",
-    coords: projectCoordsLU(6.1296, 49.8153),
+    coords: [6.1296, 49.8153],
     name: {
       de: "Luxemburg",
       hu: "Luxemburg",
@@ -79,7 +77,7 @@ export const luxembourgAllPoi = [
     id: "lu-luxembourg-city",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(6.1319, 49.6116),
+    coords: [6.1319, 49.6116],
     name: {
       de: "Luxemburg-Stadt",
       hu: "Luxemburg",
@@ -154,7 +152,7 @@ export const luxembourgAllPoi = [
     id: "lu-vianden",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(6.2089, 49.9350),
+    coords: [6.2089, 49.9350],
     name: {
       de: "Vianden",
       hu: "Vianden",
@@ -223,7 +221,7 @@ export const luxembourgAllPoi = [
     id: "lu-echternach",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(6.4222, 49.8133),
+    coords: [6.4222, 49.8133],
     name: {
       de: "Echternach",
       hu: "Echternach",
@@ -284,7 +282,7 @@ export const luxembourgAllPoi = [
     id: "lu-mullerthal",
     type: "landmark",
     parent: "lu-country",
-    coords: projectCoordsLU(6.3000, 49.7833),
+    coords: [6.3000, 49.7833],
     name: {
       de: "Müllerthal",
       hu: "Mullerthal",
@@ -353,7 +351,7 @@ export const luxembourgAllPoi = [
     id: "lu-schengen",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(6.3667, 49.4708),
+    coords: [6.3667, 49.4708],
     name: {
       de: "Schengen",
       hu: "Schengen",
@@ -417,7 +415,7 @@ export const luxembourgCities = [
     id: "city-luxembourg",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(6.1296, 49.6116),
+    coords: [6.1296, 49.6116],
     name: {
       de: "Luxemburg-Stadt",
       hu: "Luxemburg-város",
@@ -442,7 +440,7 @@ export const luxembourgCities = [
     id: "city-esch",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(5.9806, 49.4964),
+    coords: [5.9806, 49.4964],
     name: {
       de: "Esch-sur-Alzette",
       hu: "Esch-sur-Alzette",
@@ -503,7 +501,7 @@ export const luxembourgCities = [
     id: "city-differdange",
     type: "city",
     parent: "lu-country",
-    coords: projectCoordsLU(5.8914, 49.5244),
+    coords: [5.8914, 49.5244],
     name: {
       de: "Differdingen",
       hu: "Differdange",
@@ -567,7 +565,7 @@ export const luxembourgCulture = [
     id: "cult-bock",
     type: "historical",
     parent: "lu-country",
-    coords: projectCoordsLU(6.1319, 49.6106),
+    coords: [6.1319, 49.6106],
     name: {
       de: "Bock-Felsen und Kasematten",
       hu: "Bock-erőd és kasematták",
@@ -628,7 +626,7 @@ export const luxembourgCulture = [
     id: "cult-vianden",
     type: "historical",
     parent: "lu-country",
-    coords: projectCoordsLU(6.2069, 49.9347),
+    coords: [6.2069, 49.9347],
     name: {
       de: "Burg Vianden",
       hu: "Vianden vára",
@@ -653,7 +651,7 @@ export const luxembourgCulture = [
     id: "cult-echternach",
     type: "historical",
     parent: "lu-country",
-    coords: projectCoordsLU(6.4225, 49.8147),
+    coords: [6.4225, 49.8147],
     name: {
       de: "Echternacher Basilika",
       hu: "Echternach-bazilika",
@@ -678,7 +676,7 @@ export const luxembourgCulture = [
     id: "cult-schengen",
     type: "historical",
     parent: "lu-country",
-    coords: projectCoordsLU(6.3629, 49.4667),
+    coords: [6.3629, 49.4667],
     name: {
       de: "Schengen-Dorf",
       hu: "Schengen falu",
@@ -706,7 +704,7 @@ export const luxembourgNature = [
     id: "nat-mullerthal",
     type: "landmark",
     parent: "lu-country",
-    coords: projectCoordsLU(6.3, 49.8),
+    coords: [6.3, 49.8],
     name: {
       de: "Mullerthal",
       hu: "Mullerthal",
@@ -731,7 +729,7 @@ export const luxembourgNature = [
     id: "nat-ardennek-lu",
     type: "landmark",
     parent: "lu-country",
-    coords: projectCoordsLU(6.0, 50.0),
+    coords: [6.0, 50.0],
     name: {
       de: "Luxemburger Ardennen",
       hu: "Luxemburgi-Ardennek",
@@ -792,7 +790,7 @@ export const luxembourgNature = [
     id: "nat-moselle",
     type: "landmark",
     parent: "lu-country",
-    coords: projectCoordsLU(6.4, 49.55),
+    coords: [6.4, 49.55],
     name: {
       de: "Mosel-Tal",
       hu: "Moselle-völgy",

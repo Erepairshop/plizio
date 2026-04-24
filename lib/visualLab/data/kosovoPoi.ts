@@ -45,7 +45,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-decan-mountains", type: "nature", parent: "XK-001", coords: [20.20, 42.53],
+    id: "xk-decan-mountains", type: "landmark", parent: "XK-001", coords: [20.20, 42.53],
     name: { de: "Dečani-Berge", hu: "Dečani-hegyek", ro: "Munții Dečani", en: "Dečani Mountains" },
     description: { de: "Teil des Prokletije-Gebirges mit unberührter Natur.", hu: "A Prokletije-hegység része érintetlen természettel.", ro: "Parte a munților Prokletije cu natură virgină.", en: "Part of the Prokletije mountains with untouched nature." },
     facts: {
@@ -183,7 +183,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-lepenc-gorge", type: "nature", parent: "XK-007", coords: [21.25, 42.22],
+    id: "xk-lepenc-gorge", type: "landmark", parent: "XK-007", coords: [21.25, 42.22],
     name: { de: "Lepenc-Schlucht", hu: "Lepenc-szurdok", ro: "Defileul Lepenc", en: "Lepenc Gorge" },
     description: { de: "Malerische Schlucht entlang des Flusses Lepenc.", hu: "Festői szurdok a Lepenc-folyó mentén.", ro: "Defileu pitoresc de-a lungul râului Lepenc.", en: "Picturesque gorge along the Lepenc River." },
     facts: {
@@ -195,7 +195,7 @@ export const kosovoPois: POI[] = [
   },
   // XK-008: Štrpce
   {
-    id: "xk-sar-mountains", type: "nature", parent: "XK-008", coords: [20.8, 42.1],
+    id: "xk-sar-mountains", type: "landmark", parent: "XK-008", coords: [20.8, 42.1],
     name: { de: "Šar-Berge", hu: "Šar-hegység", ro: "Munții Šar", en: "Šar Mountains" },
     description: { de: "Großes Gebirgsmassiv mit Nationalpark.", hu: "Hatalmas hegység nemzeti parkkal.", ro: "Masiv muntos mare cu parc național.", en: "Large mountain range with a national park." },
     facts: {
@@ -229,7 +229,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-kopaonik-south", type: "nature", parent: "XK-009", coords: [20.90, 43.20],
+    id: "xk-kopaonik-south", type: "landmark", parent: "XK-009", coords: [20.90, 43.20],
     name: { de: "Kopaonik Süd", hu: "Dél-Kopaonik", ro: "Kopaonik de Sud", en: "Kopaonik South" },
     description: { de: "Südliche Ausläufer des Kopaonik-Gebirges.", hu: "A Kopaonik-hegység déli nyúlványai.", ro: "Ramificațiile sudice ale munților Kopaonik.", en: "Southern foothills of the Kopaonik mountains." },
     facts: {
@@ -252,7 +252,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-batllava", type: "nature", parent: "XK-010", coords: [21.31, 42.82],
+    id: "xk-batllava", type: "landmark", parent: "XK-010", coords: [21.31, 42.82],
     name: { de: "Batllava-See", hu: "Batllava-tó", ro: "Lacul Batllava", en: "Batllava Lake" },
     description: { de: "Künstlicher See und wichtiges Trinkwasserreservoir.", hu: "Mesterséges tó és fontos ivóvíztározó.", ro: "Lac artificial și rezervor important de apă potabilă.", en: "Artificial lake and important drinking water reservoir." },
     facts: {
@@ -275,7 +275,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-gazivoda", type: "nature", parent: "XK-011", coords: [20.60, 42.92],
+    id: "xk-gazivoda", type: "landmark", parent: "XK-011", coords: [20.60, 42.92],
     name: { de: "Gazivoda-See", hu: "Gazivoda-tó", ro: "Lacul Gazivoda", en: "Gazivoda Lake" },
     description: { de: "Größter künstlicher See im Kosovo.", hu: "Koszovó legnagyobb mesterséges tava.", ro: "Cel mai mare lac artificial din Kosovo.", en: "Largest artificial lake in Kosovo." },
     facts: {
@@ -355,7 +355,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-badovc", type: "nature", parent: "XK-014", coords: [21.23, 42.61],
+    id: "xk-badovc", type: "landmark", parent: "XK-014", coords: [21.23, 42.61],
     name: { de: "Badovc-See", hu: "Badovc-tó", ro: "Lacul Badovc", en: "Badovc Lake" },
     description: { de: "Wichtiger Stausee nahe Pristina.", hu: "Fontos víztározó Pristina közelében.", ro: "Important lac de acumulare lângă Pristina.", en: "Important reservoir near Pristina." },
     facts: {
@@ -423,7 +423,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-rugova", type: "nature", parent: "XK-016", coords: [20.08, 42.69],
+    id: "xk-rugova", type: "landmark", parent: "XK-016", coords: [20.08, 42.69],
     name: { de: "Rugova-Schlucht", hu: "Rugova-szurdok", ro: "Cheile Rugova", en: "Rugova Canyon" },
     description: { de: "Eines der tiefsten und längsten Canyons in Europa.", hu: "Európa egyik legmélyebb és leghosszabb szurdoka.", ro: "Unul dintre cele mai adânci și lungi canioane din Europa.", en: "One of the deepest and longest canyons in Europe." },
     facts: {
@@ -434,7 +434,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-bjeshket-e-nemuna", type: "nature", parent: "XK-016", coords: [20.15, 42.66],
+    id: "xk-bjeshket-e-nemuna", type: "landmark", parent: "XK-016", coords: [20.15, 42.66],
     name: { de: "Nationalpark Bjeshkët e Nemuna", hu: "Bjeshkët e Nemuna Nemzeti Park", ro: "Parcul Național Bjeshkët e Nemuna", en: "Bjeshkët e Nemuna National Park" },
     description: { de: "Atemberaubender Nationalpark in den albanischen Alpen.", hu: "Lélegzetelállító nemzeti park az Albán-Alpokban.", ro: "Parc național uluitor în Alpii Albanezi.", en: "Breathtaking national park in the Albanian Alps." },
     facts: {
@@ -456,7 +456,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-radavc", type: "nature", parent: "XK-016", coords: [20.33, 42.73],
+    id: "xk-radavc", type: "landmark", parent: "XK-016", coords: [20.33, 42.73],
     name: { de: "Radavc-Höhle", hu: "Radavc-barlang", ro: "Peștera Radavc", en: "Radavc Cave" },
     description: { de: "Tropfsteinhöhle nahe Peja mit unterirdischem Fluss.", hu: "Cseppkőbarlang Peja közelében föld alatti folyóval.", ro: "Peșteră cu stalactite lângă Peja cu râu subteran.", en: "Stalactite cave near Peja with an underground river." },
     facts: {
@@ -514,7 +514,7 @@ export const kosovoPois: POI[] = [
   },
   // XK-019: Klina
   {
-    id: "xk-mirusha-falls", type: "nature", parent: "XK-019", coords: [20.57, 42.52],
+    id: "xk-mirusha-falls", type: "landmark", parent: "XK-019", coords: [20.57, 42.52],
     name: { de: "Mirusha-Wasserfälle", hu: "Mirusha-vízesések", ro: "Cascadele Mirusha", en: "Mirusha Waterfalls" },
     description: { de: "Serien von Wasserfällen und Seen am Fluss Mirusha.", hu: "Vízesések és tavak sorozata a Mirusha-folyón.", ro: "Serie de cascade și lacuri pe râul Mirusha.", en: "Series of waterfalls and lakes on the Mirusha River." },
     facts: {
@@ -571,7 +571,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-berisha-mountains", type: "nature", parent: "XK-021", coords: [20.85, 42.55],
+    id: "xk-berisha-mountains", type: "landmark", parent: "XK-021", coords: [20.85, 42.55],
     name: { de: "Berisha-Berge", hu: "Berisha-hegység", ro: "Munții Berisha", en: "Berisha Mountains" },
     description: { de: "Hügelkette mit historischer Bedeutung.", hu: "Dombvidék történelmi jelentőséggel.", ro: "Lanț de dealuri cu semnificație istorică.", en: "Chain of hills with historical significance." },
     facts: {
@@ -594,7 +594,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-malisheve-thermal", type: "nature", parent: "XK-022", coords: [20.73, 42.47],
+    id: "xk-malisheve-thermal", type: "landmark", parent: "XK-022", coords: [20.73, 42.47],
     name: { de: "Thermalquellen Mališevo", hu: "Mališevoi termálforrások", ro: "Izvoarele termale Mališevo", en: "Mališevo Thermal Springs" },
     description: { de: "Natürliche warme Quellen in der Region.", hu: "Természetes meleg források a régióban.", ro: "Izvoare calde naturale din regiune.", en: "Natural warm springs in the region." },
     facts: {
@@ -640,7 +640,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-nerodime-fork", type: "nature", parent: "XK-024", coords: [21.13, 42.35],
+    id: "xk-nerodime-fork", type: "landmark", parent: "XK-024", coords: [21.13, 42.35],
     name: { de: "Gabelung der Nerodime", hu: "Nerodime-bifurkáció", ro: "Bifurcația Nerodime", en: "Nerodime Bifurcation" },
     description: { de: "Seltenes Naturphänomen, bei dem sich ein Fluss in zwei Meere teilt.", hu: "Ritka természeti jelenség, ahol egy folyó két tenger felé ágazik el.", ro: "Fenomen natural rar în care un râu se împarte spre două mări.", en: "Rare natural phenomenon where a river splits toward two seas." },
     facts: {
@@ -721,7 +721,7 @@ export const kosovoPois: POI[] = [
   },
   // XK-028: Lipljan
   {
-    id: "xk-gadime-cave", type: "nature", parent: "XK-028", coords: [21.2, 42.48],
+    id: "xk-gadime-cave", type: "landmark", parent: "XK-028", coords: [21.2, 42.48],
     name: { de: "Marmorhöhle von Gadime", hu: "Gadimei márványbarlang", ro: "Peștera de marmură din Gadime", en: "Marble Cave of Gadime" },
     description: { de: "Einzigartige Karsthöhle mit Marmorformationen.", hu: "Egyedülálló karsztbarlang márványképződményekkel.", ro: "Peșteră carstică unică cu formațiuni de marmură.", en: "Unique karst cave with marble formations." },
     facts: {
@@ -755,7 +755,7 @@ export const kosovoPois: POI[] = [
     }
   },
   {
-    id: "xk-carraleva", type: "nature", parent: "XK-029", coords: [20.98, 42.45],
+    id: "xk-carraleva", type: "landmark", parent: "XK-029", coords: [20.98, 42.45],
     name: { de: "Carraleva-Schlucht", hu: "Carraleva-szurdok", ro: "Defileul Carraleva", en: "Carraleva Gorge" },
     description: { de: "Malerische Passage durch die Berge.", hu: "Festői átjáró a hegyeken keresztül.", ro: "Pasaj pitoresc prin munți.", en: "Picturesque passage through the mountains." },
     facts: {

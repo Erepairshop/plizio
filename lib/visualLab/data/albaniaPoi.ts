@@ -8,13 +8,13 @@ export const albaniaCountry: POI = {
     ro: "Albania",
     en: "Albania"
   },
-  shortDesc: {
+  description: {
     de: "Land der Adler",
     hu: "A sasok földje",
     ro: "Țara Vulturilor",
     en: "Land of the Eagles"
   },
-  longDesc: {
+  descriptionAdvanced: {
     de: "Ein faszinierendes Land auf der Balkanhalbinsel mit einer reichen Geschichte, beeindruckenden Berglandschaften und einer wunderschönen Adriaküste.",
     hu: "Lenyűgöző ország a Balkán-félszigeten, gazdag történelemmel, lenyűgöző hegyi tájakkal és gyönyörű adriai partvidékkel.",
     ro: "O țară fascinantă din Peninsula Balcanică, cu o istorie bogată, peisaje montane impresionante și o coastă adriatică superbă.",
@@ -59,8 +59,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-tirana",
     name: { de: "Tirana", hu: "Tirana", ro: "Tirana", en: "Tirana" },
-    shortDesc: { de: "Die Hauptstadt", hu: "A főváros", ro: "Capitala", en: "The capital" },
-    longDesc: { de: "Die pulsierende Hauptstadt Albaniens.", hu: "Albánia lüktető fővárosa.", ro: "Capitala vibrantă a Albaniei.", en: "The vibrant capital of Albania." },
+    description: { de: "Die Hauptstadt", hu: "A főváros", ro: "Capitala", en: "The capital" },
+    descriptionAdvanced: { de: "Die pulsierende Hauptstadt Albaniens.", hu: "Albánia lüktető fővárosa.", ro: "Capitala vibrantă a Albaniei.", en: "The vibrant capital of Albania." },
     type: "city",
     coords: [41.3275, 19.8187],
     parent: "AL-009",
@@ -74,8 +74,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-durres",
     name: { de: "Durrës", hu: "Durrës", ro: "Durrës", en: "Durrës" },
-    shortDesc: { de: "Hafenstadt", hu: "Kikötőváros", ro: "Oraș portuar", en: "Port city" },
-    longDesc: { de: "Eine der ältesten Städte Albaniens mit einem großen römischen Amphitheater.", hu: "Albánia egyik legrégebbi városa egy hatalmas római amfiteátrummal.", ro: "Unul dintre cele mai vechi orașe din Albania, cu un mare amfiteatru roman.", en: "One of Albania's oldest cities with a large Roman amphitheater." },
+    description: { de: "Hafenstadt", hu: "Kikötőváros", ro: "Oraș portuar", en: "Port city" },
+    descriptionAdvanced: { de: "Eine der ältesten Städte Albaniens mit einem großen römischen Amphitheater.", hu: "Albánia egyik legrégebbi városa egy hatalmas római amfiteátrummal.", ro: "Unul dintre cele mai vechi orașe din Albania, cu un mare amfiteatru roman.", en: "One of Albania's oldest cities with a large Roman amphitheater." },
     type: "city",
     coords: [41.3246, 19.4558],
     parent: "AL-010",
@@ -89,8 +89,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-vlore",
     name: { de: "Vlorë", hu: "Vlorë", ro: "Vlorë", en: "Vlorë" },
-    shortDesc: { de: "Stadt der Unabhängigkeit", hu: "A függetlenség városa", ro: "Orașul independenței", en: "City of independence" },
-    longDesc: { de: "Hier wurde 1912 die Unabhängigkeit Albaniens ausgerufen.", hu: "Itt kikiáltották ki Albánia függetlenségét 1912-ben.", ro: "Aici a fost proclamată independența Albaniei în 1912.", en: "Albania's independence was proclaimed here in 1912." },
+    description: { de: "Stadt der Unabhängigkeit", hu: "A függetlenség városa", ro: "Orașul independenței", en: "City of independence" },
+    descriptionAdvanced: { de: "Hier wurde 1912 die Unabhängigkeit Albaniens ausgerufen.", hu: "Itt kikiáltották ki Albánia függetlenségét 1912-ben.", ro: "Aici a fost proclamată independența Albaniei în 1912.", en: "Albania's independence was proclaimed here in 1912." },
     type: "city",
     coords: [40.4667, 19.4897],
     parent: "AL-006",
@@ -104,8 +104,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-shkoder",
     name: { de: "Shkodra", hu: "Shkodra", ro: "Shkodra", en: "Shkodra" },
-    shortDesc: { de: "Kulturstadt des Nordens", hu: "Az észak kulturális városa", ro: "Orașul cultural al nordului", en: "Cultural city of the north" },
-    longDesc: { de: "Ein historisches Zentrum am Shkodrasee.", hu: "Történelmi központ a Shkodrai-tónál.", ro: "Un centru istoric de pe malul lacului Shkodra.", en: "A historical center by Lake Shkodra." },
+    description: { de: "Kulturstadt des Nordens", hu: "Az észak kulturális városa", ro: "Orașul cultural al nordului", en: "Cultural city of the north" },
+    descriptionAdvanced: { de: "Ein historisches Zentrum am Shkodrasee.", hu: "Történelmi központ a Shkodrai-tónál.", ro: "Un centru istoric de pe malul lacului Shkodra.", en: "A historical center by Lake Shkodra." },
     type: "city",
     coords: [42.0683, 19.5126],
     parent: "AL-007",
@@ -119,8 +119,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-korce",
     name: { de: "Korçë", hu: "Korçë", ro: "Korçë", en: "Korçë" },
-    shortDesc: { de: "Stadt der Serenaden", hu: "A szerenádok városa", ro: "Orașul serenadelor", en: "City of serenades" },
-    longDesc: { de: "Bekannt für seine Kultur, Museen und Architektur.", hu: "Kultúrájáról, múzeumairól és építészetéről ismert.", ro: "Cunoscut pentru cultură, muzee și arhitectură.", en: "Known for its culture, museums, and architecture." },
+    description: { de: "Stadt der Serenaden", hu: "A szerenádok városa", ro: "Orașul serenadelor", en: "City of serenades" },
+    descriptionAdvanced: { de: "Bekannt für seine Kultur, Museen und Architektur.", hu: "Kultúrájáról, múzeumairól és építészetéről ismert.", ro: "Cunoscut pentru cultură, muzee și arhitectură.", en: "Known for its culture, museums, and architecture." },
     type: "city",
     coords: [40.6141, 20.7778],
     parent: "AL-003",
@@ -134,8 +134,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-fier",
     name: { de: "Fier", hu: "Fier", ro: "Fier", en: "Fier" },
-    shortDesc: { de: "Industrie- und Kulturzentrum", hu: "Ipari és kulturális központ", ro: "Centru industrial și cultural", en: "Industrial and cultural center" },
-    longDesc: { de: "Wichtige Stadt in der Nähe der antiken Stätte Apollonia.", hu: "Jelentős város az ókori Apollónia közelében.", ro: "Oraș important în apropierea sitului antic Apollonia.", en: "Important city near the ancient site of Apollonia." },
+    description: { de: "Industrie- und Kulturzentrum", hu: "Ipari és kulturális központ", ro: "Centru industrial și cultural", en: "Industrial and cultural center" },
+    descriptionAdvanced: { de: "Wichtige Stadt in der Nähe der antiken Stätte Apollonia.", hu: "Jelentős város az ókori Apollónia közelében.", ro: "Oraș important în apropierea sitului antic Apollonia.", en: "Important city near the ancient site of Apollonia." },
     type: "city",
     coords: [40.7239, 19.5561],
     parent: "AL-008",
@@ -149,8 +149,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-berat",
     name: { de: "Berat", hu: "Berat", ro: "Berat", en: "Berat" },
-    shortDesc: { de: "Stadt der tausend Fenster", hu: "Az ezer ablak városa", ro: "Orașul celor o mie de ferestre", en: "City of a thousand windows" },
-    longDesc: { de: "UNESCO-Welterbe, bekannt für seine osmanische Architektur.", hu: "UNESCO világörökség, oszmán építészetéről ismert.", ro: "Patrimoniu UNESCO, cunoscut pentru arhitectura otomană.", en: "UNESCO World Heritage site, known for its Ottoman architecture." },
+    description: { de: "Stadt der tausend Fenster", hu: "Az ezer ablak városa", ro: "Orașul celor o mie de ferestre", en: "City of a thousand windows" },
+    descriptionAdvanced: { de: "UNESCO-Welterbe, bekannt für seine osmanische Architektur.", hu: "UNESCO világörökség, oszmán építészetéről ismert.", ro: "Patrimoniu UNESCO, cunoscut pentru arhitectura otomană.", en: "UNESCO World Heritage site, known for its Ottoman architecture." },
     type: "city",
     coords: [40.7049, 19.9497],
     parent: "AL-012",
@@ -164,8 +164,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-gjirokaster",
     name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastra", en: "Gjirokastra" },
-    shortDesc: { de: "Stadt der Steine", hu: "A kövek városa", ro: "Orașul de piatră", en: "City of stone" },
-    longDesc: { de: "Eine gut erhaltene osmanische Stadt, Geburtsort von Ismail Kadare und Enver Hoxha.", hu: "Jól megőrzött oszmán város, Ismail Kadare és Enver Hoxha szülőhelye.", ro: "Un oraș otoman bine conservat, locul de naștere al lui Ismail Kadare și Enver Hoxha.", en: "A well-preserved Ottoman town, birthplace of Ismail Kadare and Enver Hoxha." },
+    description: { de: "Stadt der Steine", hu: "A kövek városa", ro: "Orașul de piatră", en: "City of stone" },
+    descriptionAdvanced: { de: "Eine gut erhaltene osmanische Stadt, Geburtsort von Ismail Kadare und Enver Hoxha.", hu: "Jól megőrzött oszmán város, Ismail Kadare és Enver Hoxha szülőhelye.", ro: "Un oraș otoman bine conservat, locul de naștere al lui Ismail Kadare și Enver Hoxha.", en: "A well-preserved Ottoman town, birthplace of Ismail Kadare and Enver Hoxha." },
     type: "city",
     coords: [40.0758, 20.1388],
     parent: "AL-005",
@@ -179,8 +179,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-sarande",
     name: { de: "Saranda", hu: "Saranda", ro: "Saranda", en: "Saranda" },
-    shortDesc: { de: "Badeort im Süden", hu: "Tengerparti üdülőhely délen", ro: "Stațiune litorală în sud", en: "Southern coastal resort" },
-    longDesc: { de: "Wichtiges Touristenzentrum an der Ionischen Küste gegenüber von Korfu.", hu: "Fontos turisztikai központ a Jón-tenger partján, Korfuval szemben.", ro: "Important centru turistic pe coasta Ionică, vizavi de Corfu.", en: "Important tourist center on the Ionian coast across from Corfu." },
+    description: { de: "Badeort im Süden", hu: "Tengerparti üdülőhely délen", ro: "Stațiune litorală în sud", en: "Southern coastal resort" },
+    descriptionAdvanced: { de: "Wichtiges Touristenzentrum an der Ionischen Küste gegenüber von Korfu.", hu: "Fontos turisztikai központ a Jón-tenger partján, Korfuval szemben.", ro: "Important centru turistic pe coasta Ionică, vizavi de Corfu.", en: "Important tourist center on the Ionian coast across from Corfu." },
     type: "city",
     coords: [39.8739, 20.0049],
     parent: "AL-006",
@@ -194,8 +194,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-elbasan",
     name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan" },
-    shortDesc: { de: "Historische Festungsstadt", hu: "Történelmi erődváros", ro: "Oraș fortăreață istoric", en: "Historical fortress city" },
-    longDesc: { de: "Zentralalbanische Stadt mit einer gut erhaltenen Burg.", hu: "Közép-albániai város jól megőrzött várral.", ro: "Oraș din centrul Albaniei cu o cetate bine conservată.", en: "Central Albanian city with a well-preserved castle." },
+    description: { de: "Historische Festungsstadt", hu: "Történelmi erődváros", ro: "Oraș fortăreață istoric", en: "Historical fortress city" },
+    descriptionAdvanced: { de: "Zentralalbanische Stadt mit einer gut erhaltenen Burg.", hu: "Közép-albániai város jól megőrzött várral.", ro: "Oraș din centrul Albaniei cu o cetate bine conservată.", en: "Central Albanian city with a well-preserved castle." },
     type: "city",
     coords: [41.1125, 20.0822],
     parent: "AL-004",
@@ -209,8 +209,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-peshkopi",
     name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi" },
-    shortDesc: { de: "Stadt in den Bergen", hu: "Város a hegyekben", ro: "Oraș în munți", en: "City in the mountains" },
-    longDesc: { de: "Hauptstadt der Region Dibër, bekannt für ihre Thermalbäder und die Nähe zum Korab-Gebirge.", hu: "Dibër régió központja, híres termálfürdőiről és a Korab-hegység közelségéről.", ro: "Capitala regiunii Dibër, cunoscută pentru băile sale termale și proximitatea față de Munții Korab.", en: "Capital of the Dibër region, known for its thermal baths and proximity to the Korab mountains." },
+    description: { de: "Stadt in den Bergen", hu: "Város a hegyekben", ro: "Oraș în munți", en: "City in the mountains" },
+    descriptionAdvanced: { de: "Hauptstadt der Region Dibër, bekannt für ihre Thermalbäder und die Nähe zum Korab-Gebirge.", hu: "Dibër régió központja, híres termálfürdőiről és a Korab-hegység közelségéről.", ro: "Capitala regiunii Dibër, cunoscută pentru băile sale termale și proximitatea față de Munții Korab.", en: "Capital of the Dibër region, known for its thermal baths and proximity to the Korab mountains." },
     type: "city",
     coords: [41.6850, 20.4289],
     parent: "AL-001",
@@ -224,8 +224,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-kukes",
     name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës" },
-    shortDesc: { de: "Stadt im Nordosten", hu: "Város az északkeleten", ro: "Oraș în nord-est", en: "City in the northeast" },
-    longDesc: { de: "Eine Stadt in den albanischen Alpen, die für den Friedensnobelpreis nominiert wurde.", hu: "Város az albán Alpokban, amelyet Nobel-békedíjra jelöltek.", ro: "Un oraș din Alpii Albanezi, nominalizat la Premiul Nobel pentru Pace.", en: "A city in the Albanian Alps that was nominated for the Nobel Peace Prize." },
+    description: { de: "Stadt im Nordosten", hu: "Város az északkeleten", ro: "Oraș în nord-est", en: "City in the northeast" },
+    descriptionAdvanced: { de: "Eine Stadt in den albanischen Alpen, die für den Friedensnobelpreis nominiert wurde.", hu: "Város az albán Alpokban, amelyet Nobel-békedíjra jelöltek.", ro: "Un oraș din Alpii Albanezi, nominalizat la Premiul Nobel pentru Pace.", en: "A city in the Albanian Alps that was nominated for the Nobel Peace Prize." },
     type: "city",
     coords: [42.0767, 20.4217],
     parent: "AL-002",
@@ -239,8 +239,8 @@ export const albaniaCities: POI[] = [
   {
     id: "city-lezhe",
     name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë" },
-    shortDesc: { de: "Historische Küstenstadt", hu: "Történelmi parti város", ro: "Oraș de coastă istoric", en: "Historical coastal city" },
-    longDesc: { de: "Eine Stadt mit großer Bedeutung für die albanische Geschichte und das Grab von Skanderbeg.", hu: "Az albán történelem szempontjából kiemelkedő jelentőségű város, Szkander bég sírhelye.", ro: "Un oraș cu o mare importanță pentru istoria albaneză și locul de înmormântare al lui Skanderbeg.", en: "A city of great significance for Albanian history and the burial place of Skanderbeg." },
+    description: { de: "Historische Küstenstadt", hu: "Történelmi parti város", ro: "Oraș de coastă istoric", en: "Historical coastal city" },
+    descriptionAdvanced: { de: "Eine Stadt mit großer Bedeutung für die albanische Geschichte und das Grab von Skanderbeg.", hu: "Az albán történelem szempontjából kiemelkedő jelentőségű város, Szkander bég sírhelye.", ro: "Un oraș cu o mare importanță pentru istoria albaneză și locul de înmormântare al lui Skanderbeg.", en: "A city of great significance for Albanian history and the burial place of Skanderbeg." },
     type: "city",
     coords: [41.7833, 19.6500],
     parent: "AL-011",
@@ -257,8 +257,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-butrint",
     name: { de: "Butrint", hu: "Butrint", ro: "Butrint", en: "Butrint" },
-    shortDesc: { de: "Antike Ruinenstadt", hu: "Ókori romváros", ro: "Oraș antic în ruine", en: "Ancient ruined city" },
-    longDesc: { de: "Eine der bedeutendsten archäologischen Stätten des Balkans, UNESCO-Weltkulturerbe.", hu: "A Balkán egyik legjelentősebb régészeti lelőhelye, UNESCO világörökség.", ro: "Unul dintre cele mai importante situri arheologice din Balcani, patrimoniu UNESCO.", en: "One of the most important archaeological sites in the Balkans, UNESCO World Heritage." },
+    description: { de: "Antike Ruinenstadt", hu: "Ókori romváros", ro: "Oraș antic în ruine", en: "Ancient ruined city" },
+    descriptionAdvanced: { de: "Eine der bedeutendsten archäologischen Stätten des Balkans, UNESCO-Weltkulturerbe.", hu: "A Balkán egyik legjelentősebb régészeti lelőhelye, UNESCO világörökség.", ro: "Unul dintre cele mai importante situri arheologice din Balcani, patrimoniu UNESCO.", en: "One of the most important archaeological sites in the Balkans, UNESCO World Heritage." },
     type: "historical",
     coords: [39.7431, 20.0195],
     parent: "AL-006",
@@ -272,8 +272,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-apollonia",
     name: { de: "Apollonia", hu: "Apollónia", ro: "Apollonia", en: "Apollonia" },
-    shortDesc: { de: "Antike griechische Stadt", hu: "Ókori görög város", ro: "Oraș antic grec", en: "Ancient Greek city" },
-    longDesc: { de: "Eine bedeutende antike Siedlung, die einst ein wichtiges Bildungszentrum war.", hu: "Jelentős ókori település, amely egykor fontos oktatási központ volt.", ro: "O așezare antică importantă, care a fost odată un centru educațional major.", en: "An important ancient settlement that was once a major educational center." },
+    description: { de: "Antike griechische Stadt", hu: "Ókori görög város", ro: "Oraș antic grec", en: "Ancient Greek city" },
+    descriptionAdvanced: { de: "Eine bedeutende antike Siedlung, die einst ein wichtiges Bildungszentrum war.", hu: "Jelentős ókori település, amely egykor fontos oktatási központ volt.", ro: "O așezare antică importantă, care a fost odată un centru educațional major.", en: "An important ancient settlement that was once a major educational center." },
     type: "historical",
     coords: [40.7226, 19.4678],
     parent: "AL-008",
@@ -287,8 +287,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-rozafa",
     name: { de: "Burg Rozafa", hu: "Rozafa vára", ro: "Cetatea Rozafa", en: "Rozafa Castle" },
-    shortDesc: { de: "Mächtige Festung", hu: "Hatalmas erőd", ro: "Fortăreață impunătoare", en: "Massive fortress" },
-    longDesc: { de: "Eine alte illyrische Burg mit Blick auf Shkodra.", hu: "Régi illír vár, kilátással Shkodrára.", ro: "O veche cetate iliră cu vedere spre Shkodra.", en: "An ancient Illyrian castle overlooking Shkodra." },
+    description: { de: "Mächtige Festung", hu: "Hatalmas erőd", ro: "Fortăreață impunătoare", en: "Massive fortress" },
+    descriptionAdvanced: { de: "Eine alte illyrische Burg mit Blick auf Shkodra.", hu: "Régi illír vár, kilátással Shkodrára.", ro: "O veche cetate iliră cu vedere spre Shkodra.", en: "An ancient Illyrian castle overlooking Shkodra." },
     type: "historical",
     coords: [42.0463, 19.4939],
     parent: "AL-007",
@@ -302,8 +302,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-berat-castle",
     name: { de: "Burg von Berat", hu: "Berati vár", ro: "Cetatea Berat", en: "Berat Castle" },
-    shortDesc: { de: "Bewohnte Zitadelle", hu: "Lakott citadella", ro: "Citadelă locuită", en: "Inhabited citadel" },
-    longDesc: { de: "Eine der größten Festungsanlagen Albaniens, die noch bewohnt ist.", hu: "Albánia egyik legnagyobb erődrendszere, amely még ma is lakott.", ro: "Una dintre cele mai mari fortificații din Albania, care este încă locuită.", en: "One of the largest fortifications in Albania that is still inhabited." },
+    description: { de: "Bewohnte Zitadelle", hu: "Lakott citadella", ro: "Citadelă locuită", en: "Inhabited citadel" },
+    descriptionAdvanced: { de: "Eine der größten Festungsanlagen Albaniens, die noch bewohnt ist.", hu: "Albánia egyik legnagyobb erődrendszere, amely még ma is lakott.", ro: "Una dintre cele mai mari fortificații din Albania, care este încă locuită.", en: "One of the largest fortifications in Albania that is still inhabited." },
     type: "historical",
     coords: [40.7081, 19.9452],
     parent: "AL-012",
@@ -317,8 +317,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-gjirokaster-castle",
     name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastra Castle" },
-    shortDesc: { de: "Dominante Festung", hu: "Domináns erőd", ro: "Fortăreață dominantă", en: "Dominant fortress" },
-    longDesc: { de: "Eine massive Burg, die das Stadtbild von Gjirokastra beherrscht.", hu: "Hatalmas vár, amely uralja Gjirokastra városképét.", ro: "O cetate masivă care domină peisajul urban al Gjirokastrei.", en: "A massive castle that dominates the cityscape of Gjirokastra." },
+    description: { de: "Dominante Festung", hu: "Domináns erőd", ro: "Fortăreață dominantă", en: "Dominant fortress" },
+    descriptionAdvanced: { de: "Eine massive Burg, die das Stadtbild von Gjirokastra beherrscht.", hu: "Hatalmas vár, amely uralja Gjirokastra városképét.", ro: "O cetate masivă care domină peisajul urban al Gjirokastrei.", en: "A massive castle that dominates the cityscape of Gjirokastra." },
     type: "historical",
     coords: [40.0735, 20.1415],
     parent: "AL-005",
@@ -332,8 +332,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-kruje",
     name: { de: "Burg Kruja", hu: "Krujai vár", ro: "Cetatea Kruja", en: "Kruja Castle" },
-    shortDesc: { de: "Symbol des Widerstands", hu: "Az ellenállás szimbóluma", ro: "Simbolul rezistenței", en: "Symbol of resistance" },
-    longDesc: { de: "Das Zentrum von Skanderbegs Kampf gegen das Osmanische Reich.", hu: "Szkander bég Oszmán Birodalom elleni harcának központja.", ro: "Centrul luptei lui Skanderbeg împotriva Imperiului Otoman.", en: "The center of Skanderbeg's struggle against the Ottoman Empire." },
+    description: { de: "Symbol des Widerstands", hu: "Az ellenállás szimbóluma", ro: "Simbolul rezistenței", en: "Symbol of resistance" },
+    descriptionAdvanced: { de: "Das Zentrum von Skanderbegs Kampf gegen das Osmanische Reich.", hu: "Szkander bég Oszmán Birodalom elleni harcának központja.", ro: "Centrul luptei lui Skanderbeg împotriva Imperiului Otoman.", en: "The center of Skanderbeg's struggle against the Ottoman Empire." },
     type: "historical",
     coords: [41.5100, 19.7925],
     parent: "AL-010",
@@ -347,8 +347,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-lezhe-castle",
     name: { de: "Burg von Lezhë", hu: "Lezhëi vár", ro: "Cetatea Lezhë", en: "Lezhë Castle" },
-    shortDesc: { de: "Mittelalterliche Akropolis", hu: "Középkori akropolisz", ro: "Acropolă medievală", en: "Medieval acropolis" },
-    longDesc: { de: "Eine strategische Festung mit Blick auf die Adria und die Stadt Lezhë.", hu: "Stratégiai erőd kilátással az Adriára és Lezhë városára.", ro: "O fortăreață strategică cu vedere la Marea Adriatică și la orașul Lezhë.", en: "A strategic fortress overlooking the Adriatic Sea and the city of Lezhë." },
+    description: { de: "Mittelalterliche Akropolis", hu: "Középkori akropolisz", ro: "Acropolă medievală", en: "Medieval acropolis" },
+    descriptionAdvanced: { de: "Eine strategische Festung mit Blick auf die Adria und die Stadt Lezhë.", hu: "Stratégiai erőd kilátással az Adriára és Lezhë városára.", ro: "O fortăreață strategică cu vedere la Marea Adriatică și la orașul Lezhë.", en: "A strategic fortress overlooking the Adriatic Sea and the city of Lezhë." },
     type: "historical",
     coords: [41.7820, 19.6510],
     parent: "AL-011",
@@ -362,8 +362,8 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-elbasan-castle",
     name: { de: "Burg von Elbasan", hu: "Elbasani vár", ro: "Cetatea Elbasan", en: "Elbasan Castle" },
-    shortDesc: { de: "Osmanische Stadtburg", hu: "Oszmán városi vár", ro: "Cetate otomană în oraș", en: "Ottoman city castle" },
-    longDesc: { de: "Eine flache Festungsanlage mitten im Stadtzentrum von Elbasan.", hu: "Alföldi erődítmény Elbasan városközpontjában.", ro: "O fortificație joasă aflată chiar în centrul orașului Elbasan.", en: "A flat fortification right in the center of Elbasan." },
+    description: { de: "Osmanische Stadtburg", hu: "Oszmán városi vár", ro: "Cetate otomană în oraș", en: "Ottoman city castle" },
+    descriptionAdvanced: { de: "Eine flache Festungsanlage mitten im Stadtzentrum von Elbasan.", hu: "Alföldi erődítmény Elbasan városközpontjában.", ro: "O fortificație joasă aflată chiar în centrul orașului Elbasan.", en: "A flat fortification right in the center of Elbasan." },
     type: "historical",
     coords: [41.1125, 20.0822],
     parent: "AL-004",
@@ -380,9 +380,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-lake-skadar",
     name: { de: "Shkodrasee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Skadar" },
-    shortDesc: { de: "Größter See des Balkans", hu: "A Balkán legnagyobb tava", ro: "Cel mai mare lac din Balcani", en: "Largest lake in the Balkans" },
-    longDesc: { de: "Ein bedeutendes Naturreservat an der Grenze zwischen Albanien und Montenegro.", hu: "Jelentős természetvédelmi terület Albánia és Montenegró határán.", ro: "O rezervație naturală importantă la granița dintre Albania și Muntenegru.", en: "An important nature reserve on the border between Albania and Montenegro." },
-    type: "nature",
+    description: { de: "Größter See des Balkans", hu: "A Balkán legnagyobb tava", ro: "Cel mai mare lac din Balcani", en: "Largest lake in the Balkans" },
+    descriptionAdvanced: { de: "Ein bedeutendes Naturreservat an der Grenze zwischen Albanien und Montenegro.", hu: "Jelentős természetvédelmi terület Albánia és Montenegró határán.", ro: "O rezervație naturală importantă la granița dintre Albania și Muntenegru.", en: "An important nature reserve on the border between Albania and Montenegro." },
+    type: "landmark",
     coords: [42.1794, 19.2974],
     parent: "AL-007",
     facts: {
@@ -395,9 +395,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-lake-ohrid",
     name: { de: "Ohridsee", hu: "Ohridi-tó", ro: "Lacul Ohrid", en: "Lake Ohrid" },
-    shortDesc: { de: "UNESCO-Naturerbe", hu: "UNESCO természeti örökség", ro: "Patrimoniu natural UNESCO", en: "UNESCO Natural Heritage" },
-    longDesc: { de: "Einer der ältesten und tiefsten Seen Europas.", hu: "Európa egyik legrégebbi és legmélyebb tava.", ro: "Unul dintre cele mai vechi și mai adânci lacuri din Europa.", en: "One of Europe's oldest and deepest lakes." },
-    type: "nature",
+    description: { de: "UNESCO-Naturerbe", hu: "UNESCO természeti örökség", ro: "Patrimoniu natural UNESCO", en: "UNESCO Natural Heritage" },
+    descriptionAdvanced: { de: "Einer der ältesten und tiefsten Seen Europas.", hu: "Európa egyik legrégebbi és legmélyebb tava.", ro: "Unul dintre cele mai vechi și mai adânci lacuri din Europa.", en: "One of Europe's oldest and deepest lakes." },
+    type: "landmark",
     coords: [41.0366, 20.7161],
     parent: "AL-003",
     facts: {
@@ -410,9 +410,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-valbone",
     name: { de: "Valbona-Tal", hu: "Valbona-völgy", ro: "Valea Valbone", en: "Valbona Valley" },
-    shortDesc: { de: "Albanische Alpen", hu: "Albán Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" },
-    longDesc: { de: "Ein spektakuläres Hochtal im Norden Albaniens.", hu: "Látványos magashegyi völgy Észak-Albániában.", ro: "O vale montană spectaculoasă în nordul Albaniei.", en: "A spectacular high valley in northern Albania." },
-    type: "nature",
+    description: { de: "Albanische Alpen", hu: "Albán Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" },
+    descriptionAdvanced: { de: "Ein spektakuläres Hochtal im Norden Albaniens.", hu: "Látványos magashegyi völgy Észak-Albániában.", ro: "O vale montană spectaculoasă în nordul Albaniei.", en: "A spectacular high valley in northern Albania." },
+    type: "landmark",
     coords: [42.4410, 19.8920],
     parent: "AL-002",
     facts: {
@@ -425,9 +425,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-blue-eye",
     name: { de: "Das Blaue Auge", hu: "Kék Szem-forrás", ro: "Ochiul Albastru", en: "The Blue Eye" },
-    shortDesc: { de: "Karstquelle", hu: "Karsztforrás", ro: "Izvor carstic", en: "Karst spring" },
-    longDesc: { de: "Eine faszinierende tiefblaue Wasserquelle in der Nähe von Saranda.", hu: "Lenyűgöző mélykék vízforrás Saranda közelében.", ro: "Un izvor de apă de un albastru profund, fascinant, lângă Saranda.", en: "A fascinating deep blue water spring near Saranda." },
-    type: "nature",
+    description: { de: "Karstquelle", hu: "Karsztforrás", ro: "Izvor carstic", en: "Karst spring" },
+    descriptionAdvanced: { de: "Eine faszinierende tiefblaue Wasserquelle in der Nähe von Saranda.", hu: "Lenyűgöző mélykék vízforrás Saranda közelében.", ro: "Un izvor de apă de un albastru profund, fascinant, lângă Saranda.", en: "A fascinating deep blue water spring near Saranda." },
+    type: "landmark",
     coords: [39.9234, 20.1923],
     parent: "AL-006",
     facts: {
@@ -440,9 +440,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-llogara",
     name: { de: "Llogara-Pass", hu: "Llogara-hágó", ro: "Pasul Llogara", en: "Llogara Pass" },
-    shortDesc: { de: "Gebirgspass zur Riviera", hu: "Hágó a riviérára", ro: "Pas montan spre rivieră", en: "Mountain pass to the Riviera" },
-    longDesc: { de: "Ein Nationalpark mit atemberaubendem Blick auf das Ionische Meer.", hu: "Nemzeti park lélegzetelállító kilátással a Jón-tengerre.", ro: "Un parc național cu o vedere uluitoare spre Marea Ionică.", en: "A national park with breathtaking views of the Ionian Sea." },
-    type: "nature",
+    description: { de: "Gebirgspass zur Riviera", hu: "Hágó a riviérára", ro: "Pas montan spre rivieră", en: "Mountain pass to the Riviera" },
+    descriptionAdvanced: { de: "Ein Nationalpark mit atemberaubendem Blick auf das Ionische Meer.", hu: "Nemzeti park lélegzetelállító kilátással a Jón-tengerre.", ro: "Un parc național cu o vedere uluitoare spre Marea Ionică.", en: "A national park with breathtaking views of the Ionian Sea." },
+    type: "landmark",
     coords: [40.1983, 19.5854],
     parent: "AL-006",
     facts: {
@@ -455,9 +455,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-osum-canyon",
     name: { de: "Osum-Canyon", hu: "Osum-kanyon", ro: "Canionul Osum", en: "Osum Canyon" },
-    shortDesc: { de: "Albaniens Grand Canyon", hu: "Albánia Grand Canyonja", ro: "Grand Canyon al Albaniei", en: "Albania's Grand Canyon" },
-    longDesc: { de: "Eine spektakuläre Schlucht im Süden Albaniens.", hu: "Látványos szurdokvölgy Dél-Albániában.", ro: "Un canion spectaculos în sudul Albaniei.", en: "A spectacular gorge in southern Albania." },
-    type: "nature",
+    description: { de: "Albaniens Grand Canyon", hu: "Albánia Grand Canyonja", ro: "Grand Canyon al Albaniei", en: "Albania's Grand Canyon" },
+    descriptionAdvanced: { de: "Eine spektakuläre Schlucht im Süden Albaniens.", hu: "Látványos szurdokvölgy Dél-Albániában.", ro: "Un canion spectaculos în sudul Albaniei.", en: "A spectacular gorge in southern Albania." },
+    type: "landmark",
     coords: [40.4851, 20.2520],
     parent: "AL-012",
     facts: {
@@ -470,8 +470,8 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-korab",
     name: { de: "Berg Korab", hu: "Korab-hegy", ro: "Muntele Korab", en: "Mount Korab" },
-    shortDesc: { de: "Höchster Berg", hu: "Legmagasabb hegy", ro: "Cel mai înalt munte", en: "Highest mountain" },
-    longDesc: { de: "Der höchste Punkt Albaniens an der Grenze zu Nordmazedonien.", hu: "Albánia legmagasabb pontja az észak-macedón határon.", ro: "Cel mai înalt punct din Albania la granița cu Macedonia de Nord.", en: "The highest point of Albania on the border with North Macedonia." },
+    description: { de: "Höchster Berg", hu: "Legmagasabb hegy", ro: "Cel mai înalt munte", en: "Highest mountain" },
+    descriptionAdvanced: { de: "Der höchste Punkt Albaniens an der Grenze zu Nordmazedonien.", hu: "Albánia legmagasabb pontja az észak-macedón határon.", ro: "Cel mai înalt punct din Albania la granița cu Macedonia de Nord.", en: "The highest point of Albania on the border with North Macedonia." },
     type: "mountain",
     coords: [41.7903, 20.5469],
     parent: "AL-001",
@@ -485,9 +485,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-theth",
     name: { de: "Theth Nationalpark", hu: "Thethi Nemzeti Park", ro: "Parcul Național Theth", en: "Theth National Park" },
-    shortDesc: { de: "Herz der Alpen", hu: "Az Alpok szíve", ro: "Inima Alpilor", en: "Heart of the Alps" },
-    longDesc: { de: "Ein unberührtes Bergdorf und Nationalpark im Norden.", hu: "Érintetlen hegyi falu és nemzeti park északon.", ro: "Un sat montan virgin și parc național în nord.", en: "An untouched mountain village and national park in the north." },
-    type: "nature",
+    description: { de: "Herz der Alpen", hu: "Az Alpok szíve", ro: "Inima Alpilor", en: "Heart of the Alps" },
+    descriptionAdvanced: { de: "Ein unberührtes Bergdorf und Nationalpark im Norden.", hu: "Érintetlen hegyi falu és nemzeti park északon.", ro: "Un sat montan virgin și parc național în nord.", en: "An untouched mountain village and national park in the north." },
+    type: "landmark",
     coords: [42.3986, 19.7822],
     parent: "AL-007",
     facts: {
@@ -500,8 +500,8 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-dajti",
     name: { de: "Berg Dajti", hu: "Dajti-hegy", ro: "Muntele Dajti", en: "Mount Dajti" },
-    shortDesc: { de: "Hausberg von Tirana", hu: "Tirana házhegye", ro: "Muntele local al Tiranei", en: "Tirana's backyard mountain" },
-    longDesc: { de: "Ein beliebtes Ausflugsziel mit Seilbahn in der Nähe der Hauptstadt.", hu: "Népszerű kirándulóhely felvonóval a főváros közelében.", ro: "O destinație de excursie populară cu telecabină lângă capitală.", en: "A popular excursion destination with a cable car near the capital." },
+    description: { de: "Hausberg von Tirana", hu: "Tirana házhegye", ro: "Muntele local al Tiranei", en: "Tirana's backyard mountain" },
+    descriptionAdvanced: { de: "Ein beliebtes Ausflugsziel mit Seilbahn in der Nähe der Hauptstadt.", hu: "Népszerű kirándulóhely felvonóval a főváros közelében.", ro: "O destinație de excursie populară cu telecabină lângă capitală.", en: "A popular excursion destination with a cable car near the capital." },
     type: "mountain",
     coords: [41.3653, 19.9294],
     parent: "AL-009",
@@ -515,9 +515,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-koman",
     name: { de: "Koman-Stausee", hu: "Komani-tó", ro: "Lacul Koman", en: "Lake Koman" },
-    shortDesc: { de: "Fjordähnliche Landschaft", hu: "Fjordhoz hasonló táj", ro: "Peisaj asemănător fiordurilor", en: "Fjord-like landscape" },
-    longDesc: { de: "Ein Stausee mit einer der spektakulärsten Fährfahrten Europas.", hu: "Víztározó Európa egyik leglátványosabb kompútvonalával.", ro: "Un lac de acumulare cu una dintre cele mai spectaculoase călătorii cu feribotul din Europa.", en: "A reservoir with one of the most spectacular ferry rides in Europe." },
-    type: "nature",
+    description: { de: "Fjordähnliche Landschaft", hu: "Fjordhoz hasonló táj", ro: "Peisaj asemănător fiordurilor", en: "Fjord-like landscape" },
+    descriptionAdvanced: { de: "Ein Stausee mit einer der spektakulärsten Fährfahrten Europas.", hu: "Víztározó Európa egyik leglátványosabb kompútvonalával.", ro: "Un lac de acumulare cu una dintre cele mai spectaculoase călătorii cu feribotul din Europa.", en: "A reservoir with one of the most spectacular ferry rides in Europe." },
+    type: "landmark",
     coords: [42.1075, 19.8272],
     parent: "AL-002",
     facts: {
@@ -530,9 +530,9 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-karavasta",
     name: { de: "Karavasta-Lagune", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon" },
-    shortDesc: { de: "Größte Lagune", hu: "A legnagyobb lagúna", ro: "Cea mai mare lagună", en: "Largest lagoon" },
-    longDesc: { de: "Ein bedeutendes Feuchtgebiet an der Adriaküste.", hu: "Jelentős vizes élőhely az Adria partján.", ro: "O zonă umedă importantă de pe coasta Adriaticii.", en: "An important wetland on the Adriatic coast." },
-    type: "nature",
+    description: { de: "Größte Lagune", hu: "A legnagyobb lagúna", ro: "Cea mai mare lagună", en: "Largest lagoon" },
+    descriptionAdvanced: { de: "Ein bedeutendes Feuchtgebiet an der Adriaküste.", hu: "Jelentős vizes élőhely az Adria partján.", ro: "O zonă umedă importantă de pe coasta Adriaticii.", en: "An important wetland on the Adriatic coast." },
+    type: "landmark",
     coords: [40.9231, 19.4975],
     parent: "AL-008",
     facts: {
@@ -545,8 +545,8 @@ export const albaniaNature: POI[] = [
   {
     id: "nat-tomorr",
     name: { de: "Berg Tomorr", hu: "Tomorr-hegy", ro: "Muntele Tomorr", en: "Mount Tomorr" },
-    shortDesc: { de: "Heiliger Berg", hu: "Szent hegy", ro: "Muntele sfânt", en: "Holy mountain" },
-    longDesc: { de: "Ein imposanter Bergmassiv in der Nähe von Berat, ein heiliger Ort für Bektaschi.", hu: "Impozáns hegytömb Berat közelében, a bektasik szent helye.", ro: "Un masiv muntos impunător lângă Berat, un loc sfânt pentru bectași.", en: "An imposing mountain massif near Berat, a holy site for Bektashi." },
+    description: { de: "Heiliger Berg", hu: "Szent hegy", ro: "Muntele sfânt", en: "Holy mountain" },
+    descriptionAdvanced: { de: "Ein imposanter Bergmassiv in der Nähe von Berat, ein heiliger Ort für Bektaschi.", hu: "Impozáns hegytömb Berat közelében, a bektasik szent helye.", ro: "Un masiv muntos impunător lângă Berat, un loc sfânt pentru bectași.", en: "An imposing mountain massif near Berat, a holy site for Bektashi." },
     type: "mountain",
     coords: [40.6319, 20.1558],
     parent: "AL-012",

@@ -125,7 +125,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-kourion",
-    type: "history",
+    type: "historical",
     parent: "CY-004",
     coords: [32.8872, 34.6653],
     name: { de: "Kourion", hu: "Kourion", ro: "Kourion", en: "Kourion" },
@@ -138,7 +138,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-tombs-kings",
-    type: "history",
+    type: "historical",
     parent: "CY-005",
     coords: [32.4053, 34.7675],
     name: { de: "Königsgräber", hu: "Királysírok", ro: "Mormintele Regilor", en: "Tombs of the Kings" },
@@ -151,7 +151,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-kolossi",
-    type: "history",
+    type: "historical",
     parent: "CY-004",
     coords: [32.9344, 34.6653],
     name: { de: "Burg Kolossi", hu: "Kolossi vár", ro: "Castelul Kolossi", en: "Kolossi Castle" },
@@ -164,7 +164,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-hala-sultan",
-    type: "history",
+    type: "historical",
     parent: "CY-001",
     coords: [33.6083, 34.8856],
     name: { de: "Hala Sultan Tekke", hu: "Hala Szultan Tekke", ro: "Hala Sultan Tekke", en: "Hala Sultan Tekke" },
@@ -177,7 +177,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-kykkos",
-    type: "history",
+    type: "historical",
     parent: "CY-003",
     coords: [32.7400, 34.9800],
     name: { de: "Kykkos-Kloster", hu: "Kykkos-kolostor", ro: "Mănăstirea Kykkos", en: "Kykkos Monastery" },
@@ -190,7 +190,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-salamis",
-    type: "history",
+    type: "historical",
     parent: "CY-002",
     coords: [33.9011, 35.1836],
     name: { de: "Salamis", hu: "Szalamisz", ro: "Salamis", en: "Salamis" },
@@ -203,7 +203,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-choirokoitia",
-    type: "history",
+    type: "historical",
     parent: "CY-001",
     coords: [33.3444, 34.7961],
     name: { de: "Choirokoitia", hu: "Khirokitia", ro: "Choirokoitia", en: "Choirokoitia" },
@@ -216,7 +216,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-st-lazarus",
-    type: "history",
+    type: "historical",
     parent: "CY-001",
     coords: [33.6367, 34.9114],
     name: { de: "Lazarus-Kirche", hu: "Szent Lázár-templom", ro: "Biserica Sfântul Lazăr", en: "Church of Saint Lazarus" },
@@ -229,7 +229,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-mount-olympus",
-    type: "nature",
+    type: "landmark",
     parent: "CY-004",
     coords: [32.8633, 34.9367],
     name: { de: "Olympos", hu: "Olymposz (Troodos)", ro: "Muntele Olimp", en: "Mount Olympus" },
@@ -242,7 +242,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-cape-greco",
-    type: "nature",
+    type: "landmark",
     parent: "CY-002",
     coords: [34.0767, 34.9619],
     name: { de: "Kap Greco", hu: "Greco-fok", ro: "Capul Greco", en: "Cape Greco" },
@@ -255,7 +255,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-akamas",
-    type: "nature",
+    type: "landmark",
     parent: "CY-005",
     coords: [32.3167, 35.0333],
     name: { de: "Akamas-Halbinsel", hu: "Akamasz-félsziget", ro: "Peninsula Akamas", en: "Akamas Peninsula" },
@@ -268,7 +268,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-salt-lake",
-    type: "nature",
+    type: "landmark",
     parent: "CY-001",
     coords: [33.6000, 34.8900],
     name: { de: "Salzsee von Larnaca", hu: "Lárnakai Sós-tó", ro: "Lacul Sărat din Larnaca", en: "Larnaca Salt Lake" },
@@ -281,7 +281,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-aphrodite-rock",
-    type: "nature",
+    type: "landmark",
     parent: "CY-005",
     coords: [32.6269, 34.6642],
     name: { de: "Felsen der Aphrodite", hu: "Aphrodité sziklája", ro: "Stânca Afroditei", en: "Aphrodite's Rock (Petra tou Romiou)" },
@@ -294,7 +294,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-avakas-gorge",
-    type: "nature",
+    type: "landmark",
     parent: "CY-005",
     coords: [32.3333, 34.9250],
     name: { de: "Avakas-Schlucht", hu: "Avakas-szurdok", ro: "Cheile Avakas", en: "Avakas Gorge" },
@@ -307,7 +307,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-nissi-beach",
-    type: "nature",
+    type: "landmark",
     parent: "CY-002",
     coords: [33.9686, 34.9881],
     name: { de: "Nissi Strand", hu: "Nissi Beach", ro: "Plaja Nissi", en: "Nissi Beach" },
@@ -320,7 +320,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-limassol-carnival",
-    type: "culture",
+    type: "landmark",
     parent: "CY-004",
     coords: [33.0450, 34.6760],
     name: { de: "Karneval in Limassol", hu: "Limassoli karnevál", ro: "Carnavalul din Limassol", en: "Limassol Carnival" },
@@ -333,7 +333,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-paphos-aphrodite",
-    type: "culture",
+    type: "landmark",
     parent: "CY-005",
     coords: [32.4240, 34.7770],
     name: { de: "Paphos Aphrodite Festival", hu: "Páfoszi Aphrodité Fesztivál", ro: "Festivalul Afrodita din Paphos", en: "Paphos Aphrodite Festival" },
@@ -346,7 +346,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-kataklysmos",
-    type: "culture",
+    type: "landmark",
     parent: "CY-001",
     coords: [33.6335, 34.9010],
     name: { de: "Kataklysmos", hu: "Kataklysmos", ro: "Kataklysmos", en: "Kataklysmos" },
@@ -359,7 +359,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-wine-festival",
-    type: "culture",
+    type: "landmark",
     parent: "CY-004",
     coords: [33.0500, 34.6800],
     name: { de: "Weinfestival", hu: "Bor Fesztivál", ro: "Festivalul Vinului", en: "Limassol Wine Festival" },
@@ -372,7 +372,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-st-hilarion",
-    type: "history",
+    type: "historical",
     parent: "country-cyprus",
     coords: [33.2408, 35.3117],
     name: { de: "Burg St. Hilarion", hu: "Szent Hilarion vár", ro: "Castelul Sfântul Ilarion", en: "St. Hilarion Castle" },
@@ -385,7 +385,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-bellapais",
-    type: "history",
+    type: "historical",
     parent: "country-cyprus",
     coords: [33.3556, 35.3061],
     name: { de: "Abtei Bellapais", hu: "Bellapais apátság", ro: "Abația Bellapais", en: "Bellapais Abbey" },
@@ -398,7 +398,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-othello-castle",
-    type: "history",
+    type: "historical",
     parent: "CY-002",
     coords: [33.9422, 35.1264],
     name: { de: "Othello-Turm", hu: "Othello-torony", ro: "Turnul Othello", en: "Othello Castle" },
@@ -411,7 +411,7 @@ export const cyprusRegions: POI[] = [
   },
   {
     id: "cy-blue-lagoon",
-    type: "nature",
+    type: "landmark",
     parent: "CY-005",
     coords: [32.3250, 35.0667],
     name: { de: "Blaue Lagune", hu: "Kék Lagúna", ro: "Laguna Albastră", en: "Blue Lagoon" },

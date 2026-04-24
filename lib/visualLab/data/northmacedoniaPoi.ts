@@ -432,7 +432,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "struga-drim",
-    type: "nature",
+    type: "landmark",
     parent: "MK-001",
     coords: [20.6761, 41.1711],
     name: { de: "Schwarzer Drin Ausfluss", hu: "Fekete-Drin kifolyása", ro: "Ieșirea râului Drinul Negru", en: "Black Drin Outlet" },
@@ -510,7 +510,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "mavrovo-duf",
-    type: "nature",
+    type: "landmark",
     parent: "MK-004",
     coords: [20.6000, 41.6100],
     name: { de: "Duf-Wasserfall", hu: "Duf-vízesés", ro: "Cascada Duf", en: "Duf Waterfall" },
@@ -536,7 +536,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "gostivar-vrutok",
-    type: "nature",
+    type: "landmark",
     parent: "MK-005",
     coords: [20.8900, 41.7700],
     name: { de: "Vardar-Quelle (Vrutok)", hu: "Vardar forrása (Vrutok)", ro: "Izvorul Vardarului (Vrutok)", en: "Vardar Source (Vrutok)" },
@@ -549,7 +549,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "vevcani-springs",
-    type: "nature",
+    type: "landmark",
     parent: "MK-006",
     coords: [20.5833, 41.2417],
     name: { de: "Vevčani-Quellen", hu: "Vevčani-források", ro: "Izvoarele Vevčani", en: "Vevčani Springs" },
@@ -614,7 +614,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "debarca-sini-virovi",
-    type: "nature",
+    type: "landmark",
     parent: "MK-008",
     coords: [20.8000, 41.2000],
     name: { de: "Sini Virovi", hu: "Sini Virovi", ro: "Sini Virovi", en: "Sini Virovi" },
@@ -653,7 +653,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "novoselo-kolesino",
-    type: "nature",
+    type: "landmark",
     parent: "MK-010",
     coords: [22.8000, 41.3833],
     name: { de: "Kolešino-Wasserfall", hu: "Kolešino-vízesés", ro: "Cascada Kolešino", en: "Kolešino Waterfall" },
@@ -666,7 +666,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "novoselo-gabrovo",
-    type: "nature",
+    type: "landmark",
     parent: "MK-010",
     coords: [22.7800, 41.3700],
     name: { de: "Gabrovo-Wasserfälle", hu: "Gabrovói-vízesések", ro: "Cascadele Gabrovo", en: "Gabrovo Waterfalls" },
@@ -796,7 +796,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "gevgelija-smrdliva-voda",
-    type: "nature",
+    type: "landmark",
     parent: "MK-015",
     coords: [22.3167, 41.1833],
     name: { de: "Smrdliva Voda", hu: "Büdös-víz", ro: "Smrdliva Voda", en: "Smrdliva Voda" },
@@ -965,7 +965,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "gjorce-petrov-park",
-    type: "nature",
+    type: "landmark",
     parent: "MK-022",
     coords: [21.3600, 42.0061],
     name: { de: "Park Gjorče Petrov", hu: "Gjorcse Petrov park", ro: "Parcul Gjorče Petrov", en: "Gjorče Petrov Park" },
@@ -1017,7 +1017,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "jegunovce-beloviste",
-    type: "nature",
+    type: "landmark",
     parent: "MK-024",
     coords: [21.1167, 42.1333],
     name: { de: "Belovište-Wasserfall", hu: "Belovistei-vízesés", ro: "Cascada Belovište", en: "Belovište Waterfall" },
@@ -1108,7 +1108,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "bogovinje-shar-nature",
-    type: "nature",
+    type: "landmark",
     parent: "MK-027",
     coords: [20.8500, 41.9300],
     name: { de: "Šar-Gebirge (Bogovinje)", hu: "Šar-hegység (Bogovinje)", ro: "Munții Šar (Bogovinje)", en: "Shar Mountains (Bogovinje)" },
@@ -1121,7 +1121,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "vrapciste-galate-waterfall",
-    type: "nature",
+    type: "landmark",
     parent: "MK-028",
     coords: [20.8667, 41.8333],
     name: { de: "Galate-Wasserfall", hu: "Galate-vízesés", ro: "Cascada Galate", en: "Galate Waterfall" },
@@ -1160,7 +1160,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "kriva-palanka-staneci-falls",
-    type: "nature",
+    type: "landmark",
     parent: "MK-029",
     coords: [22.3833, 42.1833],
     name: { de: "Stanečki-Wasserfälle", hu: "Sztanecski-vízesések", ro: "Cascadele Stanečki", en: "Stanečki Waterfalls" },
@@ -1329,7 +1329,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "pehcevo-falls",
-    type: "nature",
+    type: "landmark",
     parent: "MK-036",
     coords: [22.9333, 41.7500],
     name: { de: "Pehčevo-Wasserfälle", hu: "Pehcsevoi-vízesések", ro: "Cascadele Pehčevo", en: "Pehčevo Waterfalls" },
@@ -1368,7 +1368,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "zelino-polog",
-    type: "nature",
+    type: "landmark",
     parent: "MK-037",
     coords: [21.2000, 42.0000],
     name: { de: "Polog-Ebene", hu: "Polog-síkság", ro: "Câmpia Polog", en: "Polog Valley" },
@@ -1407,7 +1407,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "brod-pesna-cave",
-    type: "nature",
+    type: "landmark",
     parent: "MK-039",
     coords: [21.2500, 41.5500],
     name: { de: "Pešna-Höhle", hu: "Pesna-barlang", ro: "Peștera Pešna", en: "Pešna Cave" },
@@ -1498,7 +1498,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "karpos-vodno-karpos",
-    type: "nature",
+    type: "landmark",
     parent: "MK-042",
     coords: [21.4000, 41.9667],
     name: { de: "Berg Vodno (Karpoš)", hu: "Vodno-hegy (Karpos)", ro: "Muntele Vodno (Karpoš)", en: "Vodno Mountain (Karpoš)" },
@@ -1732,7 +1732,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "chashka-oreshe",
-    type: "nature",
+    type: "landmark",
     parent: "MK-051",
     coords: [21.4167, 41.6167],
     name: { de: "Oreše-Wasserfall", hu: "Oresei-vízesés", ro: "Cascada Oreșe", en: "Oreše Waterfall" },
@@ -1836,7 +1836,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "gazibaba-park",
-    type: "nature",
+    type: "landmark",
     parent: "MK-055",
     coords: [21.4667, 42.0167],
     name: { de: "Gazi-Baba-Waldpark", hu: "Gázi Baba erdőpark", ro: "Parcul Forestier Gazi Baba", en: "Gazi Baba Forest Park" },
@@ -1888,7 +1888,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "demirhisar-park",
-    type: "nature",
+    type: "landmark",
     parent: "MK-057",
     coords: [21.2000, 41.2200],
     name: { de: "Demir Hisar Park", hu: "Demir Hiszar városi park", ro: "Parcul Demir Hisar", en: "Demir Hisar Park" },
@@ -1914,7 +1914,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "aerodrom-park",
-    type: "nature",
+    type: "landmark",
     parent: "MK-058",
     coords: [21.4833, 41.9667],
     name: { de: "Aerodrom-Park", hu: "Aerodrom park", ro: "Parcul Aerodrom", en: "Aerodrom Park" },
@@ -1927,7 +1927,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "studenicani-markova",
-    type: "nature",
+    type: "landmark",
     parent: "MK-059",
     coords: [21.4000, 41.9000],
     name: { de: "Markova Reka", hu: "Markova Reka", ro: "Markova Reka", en: "Markova Reka" },
@@ -1940,7 +1940,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "studenicani-falls",
-    type: "nature",
+    type: "landmark",
     parent: "MK-059",
     coords: [21.4500, 41.8500],
     name: { de: "Studeničani-Wasserfall", hu: "Studenicsani-vízesés", ro: "Cascada Studeničani", en: "Studeničani Waterfall" },
@@ -1953,7 +1953,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "kiselavoda-springs",
-    type: "nature",
+    type: "landmark",
     parent: "MK-060",
     coords: [21.4500, 41.9667],
     name: { de: "Kisela-Voda-Quellen", hu: "Kisela Voda források", ro: "Izvoarele Kisela Voda", en: "Kisela Voda Springs" },
@@ -1966,7 +1966,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "kiselavoda-rasadnik",
-    type: "nature",
+    type: "landmark",
     parent: "MK-060",
     coords: [21.4500, 41.9500],
     name: { de: "Rasadnik-Park", hu: "Raszadnik park", ro: "Parcul Rasadnik", en: "Rasadnik Park" },
@@ -2005,7 +2005,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "cheshinovo-storks",
-    type: "nature",
+    type: "landmark",
     parent: "MK-062",
     coords: [22.2833, 41.8667],
     name: { de: "Storchenkolonie Češinovo", hu: "Csesinovói gólyakolónia", ro: "Colonia de berze Češinovo", en: "Cheshinovo Stork Colony" },
@@ -2018,7 +2018,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "obleshevo-spa",
-    type: "nature",
+    type: "landmark",
     parent: "MK-062",
     coords: [22.2667, 41.8500],
     name: { de: "Heilbad Obleševo", hu: "Oblesevói gyógyfürdő", ro: "Băile Obleševo", en: "Obleshevo Spa" },
@@ -2057,7 +2057,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "zelenikovo-markova",
-    type: "nature",
+    type: "landmark",
     parent: "MK-064",
     coords: [21.5833, 41.8833],
     name: { de: "Markova Reka", hu: "Markova Reka", ro: "Markova Reka", en: "Markova Reka" },
@@ -2122,7 +2122,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "plasnica-treska",
-    type: "nature",
+    type: "landmark",
     parent: "MK-066",
     coords: [21.1200, 41.4600],
     name: { de: "Treska (Plasnica)", hu: "Treszka-folyó (Plasnica)", ro: "Râul Treska (Plasnica)", en: "River Treska (Plasnica)" },
@@ -2395,7 +2395,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "zrnovci-river-point",
-    type: "nature",
+    type: "landmark",
     parent: "MK-077",
     coords: [22.4500, 41.8500],
     name: { de: "Zrnovci-Fluss", hu: "Zrnovci-folyó", ro: "Râul Zrnovci", en: "Zrnovci River" },
@@ -2447,7 +2447,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "dkapija-gorge",
-    type: "nature",
+    type: "landmark",
     parent: "MK-079",
     coords: [22.2500, 41.4000],
     name: { de: "Demir-Kapija-Schlucht", hu: "Demir Kapija-szurdok", ro: "Defileul Demir Kapija", en: "Demir Kapija Gorge" },
@@ -2499,7 +2499,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "bosilovo-wetlands",
-    type: "nature",
+    type: "landmark",
     parent: "MK-081",
     coords: [22.7500, 41.4167],
     name: { de: "Monospitovo-Sumpf", hu: "Monoszpitovói-mocsár", ro: "Mlaștina Monospitovo", en: "Monospitovo Wetlands" },
@@ -2551,7 +2551,7 @@ export const northmacedoniaPois: POI[] = [
   },
   {
     id: "vasilevo-park-nature",
-    type: "nature",
+    type: "landmark",
     parent: "MK-083",
     coords: [22.6333, 41.4833],
     name: { de: "Vasilevo-Park", hu: "Vaszilevói park", ro: "Parcul Vasilevo", en: "Vasilevo Park" },

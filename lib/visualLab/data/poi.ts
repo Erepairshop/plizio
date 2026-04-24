@@ -1,10 +1,10 @@
 export type POI = {
   id: string;
   type: "state-capital" | "city" | "river" | "mountain" | "lake" | "island" | "landmark" | "historical" | "country" | "region" | "forest" | "sea" | "animal-habitat" | "agriculture" | "kid-landmark" | "industry" | "port" | "relief";
-  parent: string;
+  parent?: string;
   coords: [lon: number, lat: number];
   name: { de: string; hu: string; ro: string; en: string };
-  description: { de: string; hu: string; ro: string; en: string };
+  description?: { de: string; hu: string; ro: string; en: string };
   descriptionAdvanced?: { de: string; hu: string; ro: string; en: string };
   facts?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
   factsAdvanced?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
