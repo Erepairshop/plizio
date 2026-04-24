@@ -8,6 +8,12 @@ export type POI = {
   descriptionAdvanced?: { de: string; hu: string; ro: string; en: string };
   facts?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
   factsAdvanced?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
+  faq?: {
+    de: { q: string; a: string }[];
+    hu: { q: string; a: string }[];
+    ro: { q: string; a: string }[];
+    en: { q: string; a: string }[];
+  };
   subjects?: ("sachkunde" | "geographie" | "geschichte")[];
   grades?: number[];
   historyPeriod?: "middle-ages" | "reformation" | "empire" | "ww1" | "ww2" | "ddr" | "modern" | string;

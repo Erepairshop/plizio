@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
-import StructuredData, { createPoiStructuredData } from "@/components/seo/StructuredData";
+import StructuredData, { createPoiStructuredData, createFaqStructuredData } from "@/components/seo/StructuredData";
 import {
   COUNTRY_COPY,
   SEO_COPY,
@@ -200,6 +200,24 @@ export default async function PoiPage({
           </div>
         </article>
 
+        {(() => {
+          const faqList = poi.faq?.[resolved.lang as Lang];
+          if (!faqList || faqList.length === 0) return null;
+          return (
+            <section className="mt-10">
+              <h2 className="text-2xl font-semibold tracking-tight">FAQ</h2>
+              <div className="mt-4 space-y-3">
+                {faqList.map((item, i) => (
+                  <details key={i} className="rounded-2xl border border-white/10 bg-white/[0.03] p-4 open:bg-white/[0.05]">
+                    <summary className="cursor-pointer text-base font-semibold text-cyan-200">{item.q}</summary>
+                    <p className="mt-2 text-white/75 leading-7">{item.a}</p>
+                  </details>
+                ))}
+              </div>
+            </section>
+          );
+        })()}
+
         {related.length ? (
           <section className="mt-10">
             <h2 className="text-2xl font-semibold tracking-tight">{copy.related}</h2>
@@ -212,6 +230,10 @@ export default async function PoiPage({
         ) : null}
       </section>
       <StructuredData data={createPoiStructuredData(poi, resolved.lang as Lang)} />
+      {(() => {
+        const faqSchema = createFaqStructuredData(poi, resolved.lang as Lang);
+        return faqSchema ? <StructuredData data={faqSchema} /> : null;
+      })()}
     </main>
   );
 }

@@ -63,6 +63,24 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
   };
 }
 
+export function createFaqStructuredData(poi: POI, lang: Lang) {
+  const faqList = poi.faq?.[lang];
+  if (!faqList || faqList.length === 0) return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqList.map((item) => ({
+      "@type": "Question",
+      name: item.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.a,
+      },
+    })),
+    inLanguage: lang,
+  };
+}
+
 export function createStateStructuredData(state: POI, lang: Lang) {
   return {
     "@context": "https://schema.org",
