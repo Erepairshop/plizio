@@ -1,0 +1,7 @@
+#!/bin/sh
+# Run validators only when relevant files are staged (fast path for unrelated commits)
+staged=$(git diff --cached --name-only)
+if echo "$staged" | grep -qE "^(lib/visualLab/quiz|lib/visualLab/data)/"; then
+  echo "-> Running quiz data validator..."
+  npx tsx scripts/validateQuiz.ts || exit 1
+fi
