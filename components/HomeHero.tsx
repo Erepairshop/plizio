@@ -2,7 +2,9 @@
 
 import Link from "next/link";
 import dynamic from "next/dynamic";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { Globe2, X as CloseIcon } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 
 const Globe = dynamic(() => import("react-globe.gl"), {
@@ -110,56 +112,80 @@ const POPULAR_POIS: { href: string; img?: string; name: Record<Lang, string>; co
     country: { de: "Ungarn", hu: "Magyarország", ro: "Ungaria", en: "Hungary" } },
 ];
 
+const GLOBE_BTN_LABEL: Record<Lang, string> = {
+  de: "3D-Globus öffnen",
+  hu: "3D földgömb megnyitása",
+  ro: "Deschide globul 3D",
+  en: "Open 3D Globe",
+};
+
 export default function HomeHero() {
   const router = useRouter();
   const { lang } = useLang();
   const l = (lang as Lang) ?? "hu";
   const t = HERO[l];
+  const [globeOpen, setGlobeOpen] = useState(false);
 
   const continentsData = CONTINENTS.map((c) => ({ ...c, label: c.name[l] }));
-  const capitalsData = POPULAR_POIS.slice(0, 6).map((p) => ({
-    lat: 0, lng: 0, // placeholder — Globe-on már a polygon-kattintás vezet
-    label: p.name[l],
-  }));
 
   return (
     <section className="relative w-full">
-      {/* Hero: H1 + H2 + 3D Globe */}
-      <div className="relative mx-auto max-w-6xl px-4 pt-8 pb-6">
+      {/* Hero: H1 + H2 + CTA row */}
+      <div className="relative mx-auto max-w-6xl px-4 pt-8 pb-4">
         <h1 className="text-4xl md:text-5xl font-black tracking-tight text-white mb-3">
           {t.title}
         </h1>
-        <p className="text-lg md:text-xl text-white/70 max-w-3xl">
+        <p className="text-lg md:text-xl text-white/70 max-w-3xl mb-4">
           {t.subtitle}
         </p>
+        <button
+          onClick={() => setGlobeOpen(true)}
+          className="inline-flex items-center gap-2 rounded-full bg-white/10 hover:bg-cyan-500/20 border border-cyan-400/30 hover:border-cyan-300/60 text-cyan-200 font-semibold px-5 py-2.5 transition"
+        >
+          <Globe2 size={18} /> {GLOBE_BTN_LABEL[l]}
+        </button>
       </div>
 
-      {/* 3D Globe */}
-      <div className="relative w-full h-[520px] md:h-[600px] bg-black overflow-hidden">
-        <Globe
-          globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
-          bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
-          backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
-          labelsData={continentsData}
-          labelLat={(d: any) => d.lat}
-          labelLng={(d: any) => d.lng}
-          labelText={(d: any) => d.label}
-          labelSize={2.0}
-          labelColor={(d: any) => d.color}
-          labelAltitude={0.01}
-          labelDotRadius={0.8}
-          labelResolution={2}
-          onLabelClick={(d: any) => { if (d.route) router.push(d.route); }}
-        />
-        <div className="absolute bottom-3 left-0 right-0 text-center pointer-events-none">
-          <p className="text-xs text-white/50 bg-black/40 inline-block px-3 py-1 rounded-full">
-            {l === "hu" ? "Kattints egy kontinensre" : l === "ro" ? "Apasă pe un continent" : l === "de" ? "Klicke auf einen Kontinent" : "Tap a continent"}
-          </p>
+      {/* 3D Globe — behind a modal, opened via CTA */}
+      {globeOpen && (
+        <div className="fixed inset-0 z-[200] bg-black/95 backdrop-blur-md flex flex-col">
+          <div className="flex items-center justify-between px-4 pt-4 pb-2 shrink-0 bg-black/60">
+            <h2 className="text-lg font-black text-white">{GLOBE_BTN_LABEL[l]}</h2>
+            <button
+              onClick={() => setGlobeOpen(false)}
+              className="w-9 h-9 rounded-full bg-white/10 text-white/70 flex items-center justify-center hover:bg-white/20 transition"
+              aria-label="close"
+            >
+              <CloseIcon size={18} />
+            </button>
+          </div>
+          <div className="flex-1 min-h-0 relative">
+            <Globe
+              globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
+              bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+              backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+              labelsData={continentsData}
+              labelLat={(d: any) => d.lat}
+              labelLng={(d: any) => d.lng}
+              labelText={(d: any) => d.label}
+              labelSize={2.0}
+              labelColor={(d: any) => d.color}
+              labelAltitude={0.01}
+              labelDotRadius={0.8}
+              labelResolution={2}
+              onLabelClick={(d: any) => { if (d.route) { setGlobeOpen(false); router.push(d.route); } }}
+            />
+          </div>
+          <div className="text-center py-2 shrink-0 bg-black/60">
+            <p className="text-xs text-white/60">
+              {l === "hu" ? "Kattints egy kontinensre" : l === "ro" ? "Apasă pe un continent" : l === "de" ? "Klicke auf einen Kontinent" : "Tap a continent"}
+            </p>
+          </div>
         </div>
-      </div>
+      )}
 
       {/* Continents grid (SEO links) */}
-      <div className="mx-auto max-w-6xl px-4 py-8">
+      <div className="mx-auto max-w-6xl px-4 py-6">
         <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">{t.exploreContinents}</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
           {continentsData.map((c) => (

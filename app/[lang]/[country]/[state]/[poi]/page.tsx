@@ -27,6 +27,7 @@ import {
   type Lang,
 } from "@/lib/seo/slugs";
 import type { POI } from "@/lib/visualLab/data/poi";
+import { poiImageAlt } from "@/lib/seo/imageAlt";
 
 export const dynamicParams = false;
 
@@ -129,7 +130,7 @@ export default async function PoiPage({
           <div className="grid gap-0 lg:grid-cols-[1.05fr_0.95fr]">
             <div className="min-h-[320px] bg-[#07111b]">
               {poi.image ? (
-                <img src={poi.image} alt={poi.name[resolved.lang as Lang] || poi.name.de} loading="lazy" className="h-full w-full object-cover" />
+                <img src={poi.image} alt={poiImageAlt(poi, resolved.lang as Lang, region.name[resolved.lang as Lang] || region.name.de, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
               ) : (
                 <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
               )}

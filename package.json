@@ -12,7 +12,8 @@
     "typecheck": "tsc -p tsconfig.typecheck.json --noEmit --pretty false",
     "preflight": "node scripts/preflight.mjs",
     "prepare": "husky",
-    "validate": "tsx scripts/validateQuiz.ts"
+    "validate": "tsx scripts/validateQuiz.ts",
+    "pinterest:csv": "tsx scripts/generatePinterestCsv.ts"
   },
   "repository": {
     "type": "git",
