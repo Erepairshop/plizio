@@ -6,7 +6,7 @@ import {
 } from "react";
 import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star } from "lucide-react";
+import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star, Ruler, Brain } from "lucide-react";
 import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
@@ -15,6 +15,9 @@ import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
 import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/seo/slugs";
+import { useRuler, RulerPanel, RulerSvgOverlay } from "../quiz/RulerOverlay";
+import { useQuizEngine, QuizPanel, QuizSvgOverlay } from "../quiz/QuizEngine";
+import type { RulerState } from "../quiz/RulerOverlay";
 
 type Lang = "de" | "hu" | "ro" | "en";
 type Subject = "sachkunde" | "geographie" | "geschichte";
@@ -161,6 +164,16 @@ export const InteractiveMap = ({
   const [period, setPeriod] = useState<HistoryPeriod>(initPeriod);
   const [favorites, setFavorites] = useState<Set<string>>(() => readFavs());
   const [onlyFavorites, setOnlyFavorites] = useState<boolean>(initFavOnly);
+
+  // ---- Map mode (browse / ruler / quiz) ------------------------------------
+  const [mapMode, setMapMode] = useState<"browse" | "ruler" | "quiz">("browse");
+
+  // ---- Ruler mode ----------------------------------------------------------
+  const [rulerState, setRulerState] = useState<RulerState>({ poiA: null, poiB: null, distanceKm: null });
+  const ruler = useRuler(setRulerState);
+
+  // ---- Quiz mode -----------------------------------------------------------
+  const quiz = useQuizEngine({ countryCode: countryData.countryId, pois });
 
   // ---- Search state ------------------------------------------------------
   const [searchQuery, setSearchQuery] = useState("");
@@ -387,17 +400,82 @@ export const InteractiveMap = ({
   const handleRegionClick = useCallback(
     (b: BundeslandPath) => {
       if (dragged.current) return;
+      if (mapMode === "quiz") {
+        quiz.handleCountyClick(b.id);
+        return;
+      }
       setSelected(b);
     },
-    []
+    [mapMode, quiz]
   );
 
   const resetView = () => setView({ x: 0, y: 0, scale: 1 });
 
+  // Mode tab labels (4 languages)
+  const MODE_LABELS: Record<"browse" | "ruler" | "quiz", Record<Lang, string>> = {
+    browse: { de: "Erkunden", hu: "Böngészés", ro: "Explorare", en: "Browse" },
+    ruler: { de: "Entfernung", hu: "Távolság", ro: "Distanță", en: "Ruler" },
+    quiz: { de: "Quiz", hu: "Kvíz", ro: "Quiz", en: "Quiz" },
+  };
+
   return (
     <div className="relative w-full flex-1 min-h-[70vh] select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
 
+      {/* Mode tabs: Browse / Ruler / Quiz */}
+      <div className="flex justify-center mb-2 px-1">
+        <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
+          {(["browse", "ruler", "quiz"] as const).map((mode) => {
+            const active = mapMode === mode;
+            const Icon = mode === "ruler" ? Ruler : mode === "quiz" ? Brain : MapIcon;
+            return (
+              <button
+                key={mode}
+                onClick={() => {
+                  setMapMode(mode);
+                  // Close browse cards when switching away
+                  if (mode !== "browse") {
+                    setSelected(null);
+                    setSelectedPoiId(null);
+                  }
+                }}
+                className={`flex items-center gap-1.5 px-3 py-1 rounded-full transition text-xs
+                  ${active ? "bg-cyan-500/30 text-cyan-100" : "text-cyan-200/70 hover:text-white hover:bg-cyan-500/15"}`}
+              >
+                <Icon size={13} />
+                <span>{MODE_LABELS[mode][displayLang]}</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Ruler panel */}
+      {mapMode === "ruler" && (
+        <RulerPanel
+          lang={displayLang}
+          poiA={rulerState.poiA}
+          poiB={rulerState.poiB}
+          distanceKm={rulerState.distanceKm}
+          onReset={ruler.reset}
+          onClose={() => setMapMode("browse")}
+        />
+      )}
+
+      {/* Quiz panel */}
+      {mapMode === "quiz" && (
+        <QuizPanel
+          lang={displayLang}
+          engineState={quiz.engineState}
+          score={quiz.score}
+          onNext={quiz.handleNext}
+          onRetry={quiz.handleRetry}
+          onClose={() => setMapMode("browse")}
+          pois={pois}
+        />
+      )}
+
       {/* Top bar: Search + Favorites toggle */}
+      {mapMode === "browse" && (
       <div className="flex items-center gap-2 mb-2 px-1">
         {/* POI Search */}
         <div ref={searchRef} className="relative flex-1">
@@ -450,8 +528,10 @@ export const InteractiveMap = ({
           <span className="hidden sm:inline">{t.favorites}</span>
         </button>
       </div>
+      )} {/* end mapMode === "browse" search bar */}
 
-      {/* Layer toggle */}
+      {/* Layer toggle — browse mode only */}
+      {mapMode === "browse" && (
       <div className="flex justify-center mb-2">
         <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
           {(Object.keys(LAYER_TYPES) as Layer[]).filter((l) => {
@@ -485,9 +565,10 @@ export const InteractiveMap = ({
           })}
         </div>
       </div>
+      )} {/* end mapMode === "browse" layer toggle */}
 
-      {/* History period chip row */}
-      {layer === "history" && (
+      {/* History period chip row — browse mode only */}
+      {mapMode === "browse" && layer === "history" && (
         <div className="flex justify-center mb-2 overflow-x-auto">
           <div className="inline-flex gap-1 bg-[#0A1929]/70 border border-pink-400/20 rounded-full px-1 py-1 backdrop-blur-sm whitespace-nowrap">
             {PERIODS.map((p) => {
@@ -547,15 +628,19 @@ export const InteractiveMap = ({
             {deutschlandMap.map((b, idx) => {
               const isHover = hovered === b.id;
               const isSelected = selected?.id === b.id;
+              const isQuizTarget = mapMode === "quiz"
+                && quiz.engineState.task?.type === "click_county"
+                && quiz.engineState.task.targetCountyId === b.id
+                && quiz.engineState.phase !== "answered";
               return (
                 <path
                   key={`${b.id}-${idx}`}
                   d={b.path}
-                  fill={isSelected || isHover ? "url(#bl-hot)" : "url(#bl-idle)"}
-                  stroke={isSelected ? "#67E8F9" : isHover ? "#22D3EE" : "#0EA5E9"}
-                  strokeWidth={(isSelected ? 2.2 : 1.2) / view.scale}
+                  fill={isQuizTarget ? "rgba(251,191,36,0.35)" : isSelected || isHover ? "url(#bl-hot)" : "url(#bl-idle)"}
+                  stroke={isQuizTarget ? "#FBBF24" : isSelected ? "#67E8F9" : isHover ? "#22D3EE" : "#0EA5E9"}
+                  strokeWidth={(isQuizTarget ? 2.5 : isSelected ? 2.2 : 1.2) / view.scale}
                   strokeLinejoin="round"
-                  opacity={hovered && !isHover && !isSelected ? 0.55 : 1}
+                  opacity={hovered && !isHover && !isSelected && !isQuizTarget ? 0.55 : 1}
                   onMouseEnter={() => setHovered(b.id)}
                   onMouseLeave={() => setHovered(null)}
                   onClick={() => handleRegionClick(b)}
@@ -607,7 +692,13 @@ export const InteractiveMap = ({
                 return (
                   <g
                     key={p.id}
-                    onClick={(e) => { e.stopPropagation(); if (!dragged.current) { setSelectedPoiId(p.id); setSelected(null); } }}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (dragged.current) return;
+                      if (mapMode === "ruler") { ruler.handlePoiClick(p); return; }
+                      if (mapMode === "quiz") { quiz.handlePoiClick(p); return; }
+                      setSelectedPoiId(p.id); setSelected(null);
+                    }}
                     style={{ cursor: "pointer" }}
                   >
                     {/* Láthatatlan click-catcher — nagyobb tap-area mobilon */}
@@ -651,6 +742,26 @@ export const InteractiveMap = ({
                 );
               })}
             </g>
+
+            {/* Ruler SVG overlay */}
+            {mapMode === "ruler" && (
+              <RulerSvgOverlay
+                poiA={rulerState.poiA}
+                poiB={rulerState.poiB}
+                projectCoords={projectCoords}
+                viewScale={view.scale}
+              />
+            )}
+
+            {/* Quiz SVG overlay */}
+            {mapMode === "quiz" && (
+              <QuizSvgOverlay
+                engineState={quiz.engineState}
+                pois={pois}
+                projectCoords={projectCoords}
+                viewScale={view.scale}
+              />
+            )}
           </g>
         </svg>
 
@@ -680,9 +791,9 @@ export const InteractiveMap = ({
         </div>
       </div>
 
-      {/* Bottom info card — Bundesland */}
+      {/* Bottom info card — Bundesland (browse mode only) */}
       <AnimatePresence>
-        {selected && (
+        {mapMode === "browse" && selected && (
           <motion.div
             key={selected.id}
             initial={{ y: 60, opacity: 0 }}
@@ -771,13 +882,13 @@ export const InteractiveMap = ({
         )}
       </AnimatePresence>
 
-      {!selected && !selectedPoi && (
+      {mapMode === "browse" && !selected && !selectedPoi && (
         <p className="text-center text-white/40 text-xs mt-4">{t.hint}</p>
       )}
 
-      {/* POI info card */}
+      {/* POI info card (browse mode only) */}
       <AnimatePresence>
-        {selectedPoi && (
+        {mapMode === "browse" && selectedPoi && (
           <motion.div
             key={`poi-${selectedPoi.id}`}
             initial={{ y: 60, opacity: 0 }}
