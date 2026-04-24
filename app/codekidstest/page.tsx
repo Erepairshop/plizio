@@ -48,11 +48,11 @@ const CODEKIDS_CONFIG: LanguageTestEngineConfig = {
     4: asCurriculumThemes(INFO_K4_CURRICULUM),
   },
 
-  getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 1) return getInfoK1Questions(subtopicIds, count);
-    if (grade === 2) return getInfoK2Questions(subtopicIds, count);
-    if (grade === 3) return getInfoK3Questions(subtopicIds, count);
-    return getInfoK4Questions(subtopicIds, count);
+  getQuestions: (grade, subtopicIds, count, countryCode) => {
+    if (grade === 1) return getInfoK1Questions(subtopicIds, count, countryCode);
+    if (grade === 2) return getInfoK2Questions(subtopicIds, count, countryCode);
+    if (grade === 3) return getInfoK3Questions(subtopicIds, count, countryCode);
+    return getInfoK4Questions(subtopicIds, count, countryCode);
   },
 
   labels: {
