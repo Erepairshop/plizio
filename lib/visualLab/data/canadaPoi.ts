@@ -278,6 +278,126 @@ export const canadaCities: POI[] = [
     name: { de: "Signal Hill", hu: "Signal Hill", ro: "Signal Hill", en: "Signal Hill" },
     description: { de: "Ort des Empfangs des ersten transatlantischen Funksignals.", hu: "Az első transzatlanti rádiójel vételének helyszíne.", ro: "Locul primirii primului semnal radio transatlantic.", en: "Site of the reception of the first transatlantic wireless signal." }
   },
+  {
+    id: "ca-banff-grizzly",
+    type: "animal-habitat",
+    parent: "CA",
+    coords: [-115.6, 51.2],
+    name: { de: "Banff-Grizzlybären", hu: "Banff-i grizzlymedvék", ro: "Urșii grizzly din Banff", en: "Banff Grizzly Bears" },
+    description: { de: "Die Rockies sind die Heimat dieser beeindruckenden Raubtiere.", hu: "A Sziklás-hegység ad otthont ezeknek a lenyűgöző ragadozóknak.", ro: "Munții Stâncoși sunt casa acestor prădători impresionanți.", en: "The Rockies are home to these impressive predators." }
+  },
+  {
+    id: "ca-churchill-polar-bear",
+    type: "animal-habitat",
+    parent: "CA",
+    coords: [-94.1, 58.7],
+    name: { de: "Churchill-Eisbären", hu: "Churchill-i jegesmedvék", ro: "Urșii polari din Churchill", en: "Churchill Polar Bears" },
+    description: { de: "Die 'Weltstadt der Eisbären' an der Hudson Bay.", hu: "A 'jegesmedvék világfővárosa' a Hudson-öböl partján.", ro: "„Capitala mondială a urșilor polari” la Golful Hudson.", en: "The 'Polar Bear Capital of the World' on the Hudson Bay." }
+  },
+  {
+    id: "ca-wood-buffalo-bison",
+    type: "animal-habitat",
+    parent: "CA",
+    coords: [-113.0, 59.5],
+    name: { de: "Wood-Buffalo-Bisons", hu: "Wood Buffalo-i bölények", ro: "Bizonii din Wood Buffalo", en: "Wood Buffalo Bisons" },
+    description: { de: "Schutzgebiet für die größte frei lebende Herde von Waldbisons.", hu: "Az erdei bölények legnagyobb szabadon élő csordájának rezervátuma.", ro: "Rezervație pentru cea mai mare cireadă de bizoni de pădure în libertate.", en: "Sanctuary for the largest free-roaming herd of wood bison." }
+  },
+  {
+    id: "ca-quebec-maple",
+    type: "agriculture",
+    parent: "CA",
+    coords: [-71.5, 46.5],
+    name: { de: "Quebec Ahornsirup", hu: "Quebeci juharszirup", ro: "Siropul de arțar din Quebec", en: "Quebec Maple Syrup" },
+    description: { de: "Weltweit führender Produzent von echtem Ahornsirup.", hu: "A világ vezető valódi juharszirup-termelője.", ro: "Lider mondial în producția de sirop de arțar autentic.", en: "The world's leading producer of authentic maple syrup." }
+  },
+  {
+    id: "ca-saskatchewan-wheat",
+    type: "agriculture",
+    parent: "CA",
+    coords: [-106.6, 52.1],
+    name: { de: "Saskatchewan Weizenfelder", hu: "Saskatchewani búzaföldek", ro: "Câmpurile de grâu din Saskatchewan", en: "Saskatchewan Wheat Fields" },
+    description: { de: "Die 'Brotkammer Kanadas' in den Prärieprovinzen.", hu: "Kanada 'kenyérkosara' a préri tartományokban.", ro: "„Grânarul Canadei” în provinciile de prerie.", en: "The 'Breadbasket of Canada' in the prairie provinces." }
+  },
+  {
+    id: "ca-okanagan-wine",
+    type: "agriculture",
+    parent: "CA",
+    coords: [-119.5, 49.9],
+    name: { de: "Okanagan Valley Obstbau", hu: "Okanagan-völgyi gyümölcsösök", ro: "Livezile din Valea Okanagan", en: "Okanagan Valley Orchards" },
+    description: { de: "Bekannt für Obstplantagen und Weinbau in British Columbia.", hu: "Gyümölcsöseiről és borászatáról ismert Brit Kolumbiában.", ro: "Cunoscută pentru livezi și viticultură în Columbia Britanică.", en: "Known for orchards and wineries in British Columbia." }
+  },
+  {
+    id: "ca-canadas-wonderland",
+    type: "kid-landmark",
+    parent: "CA",
+    coords: [-79.5, 43.8],
+    name: { de: "Canada's Wonderland", hu: "Canada's Wonderland", ro: "Canada's Wonderland", en: "Canada's Wonderland" },
+    description: { de: "Größter Freizeitpark Kanadas in Vaughan, Ontario.", hu: "Kanada legnagyobb vidámparkja az ontariói Vaughanban.", ro: "Cel mai mare parc de distracții din Canada în Vaughan, Ontario.", en: "Canada's premier amusement park in Vaughan, Ontario." }
+  },
+  {
+    id: "ca-west-edmonton-mall",
+    type: "kid-landmark",
+    parent: "CA",
+    coords: [-113.6, 53.5],
+    name: { de: "West Edmonton Mall", hu: "West Edmonton Mall", ro: "West Edmonton Mall", en: "West Edmonton Mall" },
+    description: { de: "Eines der größten Einkaufs- und Unterhaltungszentren der Welt.", hu: "A világ egyik legnagyobb bevásárló- és szórakoztatóközpontja.", ro: "Unul dintre cele mai mari centre comerciale și de divertisment din lume.", en: "One of the world's largest shopping and entertainment complexes." }
+  },
+  {
+    id: "ca-alberta-oil-sands",
+    type: "industry",
+    parent: "CA",
+    coords: [-111.4, 57.0],
+    name: { de: "Alberta Ölsande", hu: "Albertai olajhomok", ro: "Nisipurile bituminoase din Alberta", en: "Alberta Oil Sands" },
+    description: { de: "Großes Zentrum der Energiegewinnung im Norden Alberttas.", hu: "Hatalmas energiatermelő központ Alberta északi részén.", ro: "Centru major de producție de energie în nordul Albertei.", en: "Major energy production center in northern Alberta." }
+  },
+  {
+    id: "ca-vancouver-film",
+    type: "industry",
+    parent: "CA",
+    coords: [-123.1, 49.3],
+    name: { de: "Vancouver Filmindustrie", hu: "Vancouveri filmipar", ro: "Industria cinematografică din Vancouver", en: "Vancouver Film Industry" },
+    description: { de: "Häufig als 'Hollywood North' bezeichnet.", hu: "Gyakran 'Északi Hollywoodként' emlegetik.", ro: "Adesea supranumit „Hollywood-ul Nordului”.", en: "Often referred to as 'Hollywood North'." }
+  },
+  {
+    id: "ca-toronto-finance",
+    type: "industry",
+    parent: "CA",
+    coords: [-79.4, 43.6],
+    name: { de: "Toronto Finanzviertel", hu: "Torontói pénzügyi negyed", ro: "Districtul financiar din Toronto", en: "Toronto Financial District" },
+    description: { de: "Das wirtschaftliche Herz Kanadas.", hu: "Kanada gazdasági szíve.", ro: "Inima economică a Canadei.", en: "The economic heart of Canada." }
+  },
+  {
+    id: "ca-port-vancouver",
+    type: "port",
+    parent: "CA",
+    coords: [-123.1, 49.3],
+    name: { de: "Hafen von Vancouver", hu: "Vancouveri kikötő", ro: "Portul din Vancouver", en: "Port of Vancouver" },
+    description: { de: "Kanadas größter und wichtigster Hafen am Pazifik.", hu: "Kanada legnagyobb és legfontosabb kikötője a Csendes-óceánon.", ro: "Cel mai mare și mai important port al Canadei la Pacific.", en: "Canada's largest and most important port on the Pacific." }
+  },
+  {
+    id: "ca-port-halifax",
+    type: "port",
+    parent: "CA",
+    coords: [-63.6, 44.6],
+    name: { de: "Hafen von Halifax", hu: "Halifaxi kikötő", ro: "Portul din Halifax", en: "Port of Halifax" },
+    description: { de: "Strategisch wichtiger Tiefwasserhafen am Atlantik.", hu: "Stratégiailag fontos mélyvízi kikötő az Atlanti-óceánon.", ro: "Port strategic de apă adâncă la Atlantic.", en: "Strategically important deep-water port on the Atlantic." }
+  },
+  {
+    id: "ca-baffin-island",
+    type: "island",
+    parent: "CA",
+    coords: [-70.0, 69.0],
+    name: { de: "Baffininsel", hu: "Baffin-sziget", ro: "Insula Baffin", en: "Baffin Island" },
+    description: { de: "Größte Insel Kanadas in der Arktis.", hu: "Kanada legnagyobb szigete az Északi-sarkvidéken.", ro: "Cea mai mare insulă din Canada, situată în zona arctică.", en: "Canada's largest island, located in the Arctic." }
+  },
+  {
+    id: "ca-vancouver-island",
+    type: "island",
+    parent: "CA",
+    coords: [-126.0, 50.0],
+    name: { de: "Vancouver-Insel", hu: "Vancouver-sziget", ro: "Insula Vancouver", en: "Vancouver Island" },
+    description: { de: "Große Insel an der Pazifikküste von British Columbia.", hu: "Nagy sziget Brit Kolumbia csendes-óceáni partjainál.", ro: "Insulă mare pe coasta Pacificului din Columbia Britanică.", en: "Large island off the Pacific coast of British Columbia." }
+  },
 ];
 
 export const canadaAllPoi: POI[] = [...canadaCountry, ...canadaRegions, ...canadaCities, ...canadaLandmarks];

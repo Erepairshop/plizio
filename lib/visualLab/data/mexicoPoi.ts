@@ -270,6 +270,126 @@ export const mexicoCities: POI[] = [
     name: { de: "El Arco", hu: "El Arco", ro: "El Arco", en: "El Arco" },
     description: { de: "Markante Felsformation an der Südspitze von Baja California.", hu: "Jellegzetes sziklaalakzat Baja California déli csücskén.", ro: "Formațiune stâncoasă proeminentă în vârful sudic al peninsulei Baja California.", en: "Distinctive rock formation at the southern tip of Baja California." }
   },
+  {
+    id: "mx-monarch-butterfly",
+    type: "animal-habitat",
+    parent: "MX",
+    coords: [-100.3, 19.6],
+    name: { de: "Monarchfalter-Schutzgebiet", hu: "Monarch pillangó-rezervátum", ro: "Rezervația fluturelui monarh", en: "Monarch Butterfly Biosphere" },
+    description: { de: "Überwinterungsort für Millionen von Monarchfaltern in Michoacán.", hu: "Monarch pillangók millióinak telelőhelye Michoacánban.", ro: "Loc de iernare pentru milioane de fluturi monarhi în Michoacán.", en: "Overwintering site for millions of monarch butterflies in Michoacán." }
+  },
+  {
+    id: "mx-gray-whale",
+    type: "animal-habitat",
+    parent: "MX",
+    coords: [-113.5, 26.8],
+    name: { de: "Grauwal-Beobachtung", hu: "Szürke bálna-megfigyelés", ro: "Observarea balenelor cenușii", en: "Gray Whale Watching" },
+    description: { de: "Lagunen in Baja California, in denen Grauwale ihre Kälber gebären.", hu: "Baja California-i lagúnák, ahol a szürke bálnák világra hozzák borjaikat.", ro: "Lagune din Baja California unde balenele cenușii își nasc puii.", en: "Lagoons in Baja California where gray whales give birth to their calves." }
+  },
+  {
+    id: "mx-whale-shark",
+    type: "animal-habitat",
+    parent: "MX",
+    coords: [-87.2, 21.5],
+    name: { de: "Walhaie von Holbox", hu: "Holbox-i cetcápák", ro: "Rechinii balenă din Holbox", en: "Whale Sharks of Holbox" },
+    description: { de: "Sommerlicher Versammlungsort für den größten Fisch der Welt.", hu: "A világ legnagyobb halainak nyári gyülekezőhelye.", ro: "Loc de adunare estival pentru cel mai mare pește din lume.", en: "Summer gathering spot for the world's largest fish." }
+  },
+  {
+    id: "mx-tequila-agave",
+    type: "agriculture",
+    parent: "MX",
+    coords: [-103.8, 20.9],
+    name: { de: "Tequila-Agavenfelder", hu: "Tequila agávémezők", ro: "Câmpurile de agave din Tequila", en: "Tequila Agave Fields" },
+    description: { de: "Blaualgenfelder in Jalisco zur Herstellung von Tequila.", hu: "Kék agávé ültetvények Jaliscóban a tequila gyártásához.", ro: "Câmpuri de agave albastră în Jalisco pentru producția de tequila.", en: "Blue agave fields in Jalisco used for tequila production." }
+  },
+  {
+    id: "mx-chiapas-coffee",
+    type: "agriculture",
+    parent: "MX",
+    coords: [-92.5, 16.5],
+    name: { de: "Chiapas Kaffeeplantagen", hu: "Chiapasi kávéültetvények", ro: "Plantațiile de cafea din Chiapas", en: "Chiapas Coffee Plantations" },
+    description: { de: "Bekannt für den Anbau von hochwertigem Bio-Kaffee im Hochland.", hu: "Kiváló minőségű bio kávé termesztéséről ismert a felföldön.", ro: "Cunoscute pentru cultivarea cafelei organice de înaltă calitate.", en: "Known for growing high-quality organic coffee in the highlands." }
+  },
+  {
+    id: "mx-yucatan-henequen",
+    type: "agriculture",
+    parent: "MX",
+    coords: [-89.4, 21.0],
+    name: { de: "Yucatán Henequen-Anbau", hu: "Yucatáni henequen-termesztés", ro: "Cultivarea henequen în Yucatán", en: "Yucatán Henequen Production" },
+    description: { de: "Historischer Anbau von Sisal-Fasern in der Region Mérida.", hu: "A szizálrost történelmi termesztése Mérida környékén.", ro: "Cultivarea istorică a fibrelor de sisal în regiunea Mérida.", en: "Historical production of sisal fiber in the Mérida region." }
+  },
+  {
+    id: "mx-xcaret",
+    type: "kid-landmark",
+    parent: "MX",
+    coords: [-87.1, 20.6],
+    name: { de: "Xcaret Park", hu: "Xcaret park", ro: "Parcul Xcaret", en: "Xcaret Park" },
+    description: { de: "Öko-archäologischer Park an der Riviera Maya.", hu: "Öko-régészeti élménypark a Riviera Mayán.", ro: "Parc eco-arheologic pe Riviera Maya.", en: "Eco-archaeological theme park on the Riviera Maya." }
+  },
+  {
+    id: "mx-chapultepec-zoo",
+    type: "kid-landmark",
+    parent: "MX",
+    coords: [-99.19, 19.42],
+    name: { de: "Zoo von Chapultepec", hu: "Chapultepec állatkert", ro: "Grădina Zoologică Chapultepec", en: "Chapultepec Zoo" },
+    description: { de: "Berühmter Zoo im Herzen von Mexiko-Stadt.", hu: "Híres állatkert Mexikóváros szívében.", ro: "Grădină zoologică faimoasă în inima orașului Mexico City.", en: "Famous zoo located in the heart of Mexico City." }
+  },
+  {
+    id: "mx-monterrey-steel",
+    type: "industry",
+    parent: "MX",
+    coords: [-100.3, 25.7],
+    name: { de: "Monterrey Stahlindustrie", hu: "Monterreyi acélipar", ro: "Industria siderurgică din Monterrey", en: "Monterrey Steel Industry" },
+    description: { de: "Wichtiges industrielles Zentrum im Norden Mexikos.", hu: "Fontos ipari központ Mexikó északi részén.", ro: "Centru industrial important în nordul Mexicului.", en: "Major industrial hub in northern Mexico." }
+  },
+  {
+    id: "mx-juarez-maquila",
+    type: "industry",
+    parent: "MX",
+    coords: [-106.4, 31.7],
+    name: { de: "Ciudad Juárez Maquiladoras", hu: "Ciudad Juárez-i maquiladorák", ro: "Maquiladoras din Ciudad Juárez", en: "Ciudad Juárez Maquiladoras" },
+    description: { de: "Bedeutende Fertigungsbetriebe an der US-Grenze.", hu: "Jelentős gyártóüzemek az amerikai határ mentén.", ro: "Unități importante de producție la granița cu SUA.", en: "Significant manufacturing plants along the US border." }
+  },
+  {
+    id: "mx-campeche-oil",
+    type: "industry",
+    parent: "MX",
+    coords: [-92.0, 19.0],
+    name: { de: "Campeche Ölfelder", hu: "Campechei olajmezők", ro: "Câmpurile petroliere din Campeche", en: "Campeche Oil Fields" },
+    description: { de: "Zentrum der mexikanischen Offshore-Ölförderung.", hu: "A mexikói offshore olajkitermelés központja.", ro: "Centrul producției de petrol offshore din Mexic.", en: "Center of Mexico's offshore oil production." }
+  },
+  {
+    id: "mx-port-veracruz",
+    type: "port",
+    parent: "MX",
+    coords: [-96.1, 19.2],
+    name: { de: "Hafen von Veracruz", hu: "Veracruzi kikötő", ro: "Portul Veracruz", en: "Port of Veracruz" },
+    description: { de: "Mexikos ältester und wichtigster Hafen am Golf von Mexiko.", hu: "Mexikó legrégebbi és legfontosabb kikötője a Mexikói-öbölben.", ro: "Cel mai vechi și mai important port al Mexicului la Golful Mexic.", en: "Mexico's oldest and most important port on the Gulf of Mexico." }
+  },
+  {
+    id: "mx-port-manzanillo",
+    type: "port",
+    parent: "MX",
+    coords: [-104.3, 19.1],
+    name: { de: "Hafen von Manzanillo", hu: "Manzanillói kikötő", ro: "Portul Manzanillo", en: "Port of Manzanillo" },
+    description: { de: "Größter Containerhafen Mexikos an der Pazifikküste.", hu: "Mexikó legnagyobb konténerkikötője a csendes-óceáni parton.", ro: "Cel mai mare port de containere din Mexic la Pacific.", en: "Mexico's largest container port on the Pacific coast." }
+  },
+  {
+    id: "mx-cozumel-island",
+    type: "island",
+    parent: "MX",
+    coords: [-86.9, 20.4],
+    name: { de: "Insel Cozumel", hu: "Cozumel-sziget", ro: "Insula Cozumel", en: "Cozumel Island" },
+    description: { de: "Beliebtes Ziel für Taucher mit wunderschönen Korallenriffen.", hu: "Népszerű búvárhely gyönyörű korallzátonyokkal.", ro: "Destinație populară pentru scufundări, cu recife de corali superbe.", en: "Popular diving destination with beautiful coral reefs." }
+  },
+  {
+    id: "mx-maya-reef",
+    type: "sea",
+    parent: "MX",
+    coords: [-86.8, 20.5],
+    name: { de: "Großes Maya-Riff", hu: "Maja korallzátony", ro: "Marele Recif Maiaș", en: "Great Maya Reef" },
+    description: { de: "Das zweitgrößte Korallenriffsystem der Welt.", hu: "A világ második legnagyobb korallzátony-rendszere.", ro: "Al doilea cel mai mare sistem de recife de corali din lume.", en: "The second largest coral reef system in the world." }
+  },
 ];
 
 export const mexicoAllPoi: POI[] = [...mexicoCountry, ...mexicoRegions, ...mexicoCities, ...mexicoLandmarks];

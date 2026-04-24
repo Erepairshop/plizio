@@ -278,6 +278,126 @@ export const usaCities: POI[] = [
     name: { de: "Zion Nationalpark", hu: "Zion Nemzeti Park", ro: "Parcul Național Zion", en: "Zion National Park" },
     description: { de: "Bekannt für die gewaltigen Sandstein-Canyons in Utah.", hu: "Hatalmas homokkő kanyonjairól ismert nemzeti park Utah-ban.", ro: "Parcul național cunoscut pentru canioanele sale masive de gresie din Utah.", en: "National park known for its massive sandstone canyons in Utah." }
   },
+  {
+    id: "us-yellowstone-bison",
+    type: "animal-habitat",
+    parent: "US",
+    coords: [-110.5, 44.6],
+    name: { de: "Yellowstone-Bisons", hu: "Yellowstone-i bölények", ro: "Bizonii din Yellowstone", en: "Yellowstone Bisons" },
+    description: { de: "Heimat einer der größten wilden Bisonherden Nordamerikas.", hu: "Észak-Amerika egyik legnagyobb vad bölénycsordájának otthona.", ro: "Adăpostește una dintre cele mai mari cirezi de bizoni sălbatici din America de Nord.", en: "Home to one of the largest wild bison herds in North America." }
+  },
+  {
+    id: "us-everglades-alligator",
+    type: "animal-habitat",
+    parent: "US",
+    coords: [-80.7, 25.5],
+    name: { de: "Everglades Alligatoren", hu: "Everglades-i aligátorok", ro: "Aligatorii din Everglades", en: "Everglades Alligators" },
+    description: { de: "Einzigartiges Ökosystem, in dem Alligatoren und Krokodile zusammenleben.", hu: "Egyedülálló ökoszisztéma, ahol aligátorok és krokodilok élnek együtt.", ro: "Ecosistem unic unde aligatorii și crocodilii trăiesc împreună.", en: "Unique ecosystem where alligators and crocodiles coexist." }
+  },
+  {
+    id: "us-alaska-grizzly",
+    type: "animal-habitat",
+    parent: "US",
+    coords: [-153.5, 57.5],
+    name: { de: "Alaska-Grizzlybären", hu: "Alaszkai grizzlymedvék", ro: "Urșii grizzly din Alaska", en: "Alaska Grizzlies" },
+    description: { de: "Große Braunbären, die in den unberührten Landschaften Alaskas leben.", hu: "Alaszka érintetlen tájain élő hatalmas barnamedvék.", ro: "Urși bruni mari care trăiesc în peisajele virgine din Alaska.", en: "Large brown bears living in the pristine landscapes of Alaska." }
+  },
+  {
+    id: "us-napa-valley",
+    type: "agriculture",
+    parent: "US",
+    coords: [-122.3, 38.4],
+    name: { de: "Napa Valley Weinbau", hu: "Napa-völgyi borvidék", ro: "Regiunea viticolă Napa Valley", en: "Napa Valley Vineyards" },
+    description: { de: "Weltberühmtes Weinanbaugebiet in Kalifornien.", hu: "Világhírű bortermelő vidék Kaliforniában.", ro: "Regiune viticolă de renume mondial din California.", en: "World-famous wine-producing region in California." }
+  },
+  {
+    id: "us-iowa-corn",
+    type: "agriculture",
+    parent: "US",
+    coords: [-93.6, 41.6],
+    name: { de: "Iowa Maisgürtel", hu: "Iowai kukoricaövezet", ro: "Centura porumbului din Iowa", en: "Iowa Corn Belt" },
+    description: { de: "Zentrum der US-Maisproduktion im Mittleren Westen.", hu: "Az amerikai kukoricatermelés központja Közép-Nyugaton.", ro: "Centrul producției de porumb din SUA, în Midwest.", en: "Heart of the US corn production in the Midwest." }
+  },
+  {
+    id: "us-georgia-peaches",
+    type: "agriculture",
+    parent: "US",
+    coords: [-83.7, 32.5],
+    name: { de: "Georgia Pfirsiche", hu: "Georgiai őszibarack", ro: "Piersicile din Georgia", en: "Georgia Peaches" },
+    description: { de: "Berühmt für den Anbau hochwertiger Pfirsiche im Südosten.", hu: "Híres a kiváló minőségű őszibarack termesztéséről a délkeleti államban.", ro: "Faimoasă pentru cultivarea piersicilor de înaltă calitate în sud-est.", en: "Famous for growing high-quality peaches in the Southeast." }
+  },
+  {
+    id: "us-disney-world",
+    type: "kid-landmark",
+    parent: "US",
+    coords: [-81.5, 28.4],
+    name: { de: "Disney World", hu: "Disney World", ro: "Disney World", en: "Disney World" },
+    description: { de: "Großer Vergnügungsparkkomplex in Orlando, Florida.", hu: "Hatalmas vidámpark-komplexum a floridai Orlandóban.", ro: "Complex masiv de parcuri tematice în Orlando, Florida.", en: "Massive theme park resort in Orlando, Florida." }
+  },
+  {
+    id: "us-universal-studios",
+    type: "kid-landmark",
+    parent: "US",
+    coords: [-118.3, 34.1],
+    name: { de: "Universal Studios Hollywood", hu: "Universal Studios Hollywood", ro: "Universal Studios Hollywood", en: "Universal Studios Hollywood" },
+    description: { de: "Filmstudio und Themenpark in Los Angeles.", hu: "Filmstúdió és vidámpark Los Angelesben.", ro: "Studio de film și parc tematic în Los Angeles.", en: "Film studio and theme park in Los Angeles." }
+  },
+  {
+    id: "us-silicon-valley",
+    type: "industry",
+    parent: "US",
+    coords: [-122.0, 37.4],
+    name: { de: "Silicon Valley", hu: "Szilícium-völgy", ro: "Silicon Valley", en: "Silicon Valley" },
+    description: { de: "Globales Zentrum für Technologie und Innovation.", hu: "A technológia és innováció globális központja.", ro: "Centrul global al tehnologiei și inovației.", en: "Global center for technology and innovation." }
+  },
+  {
+    id: "us-detroit-auto",
+    type: "industry",
+    parent: "US",
+    coords: [-83.0, 42.3],
+    name: { de: "Detroit Automobilindustrie", hu: "Detroiti autóipar", ro: "Industria auto din Detroit", en: "Detroit Auto Industry" },
+    description: { de: "Historisches Zentrum der amerikanischen Autoherstellung.", hu: "Az amerikai autógyártás történelmi központja.", ro: "Centrul istoric al producției de automobile americane.", en: "Historical center of American automobile manufacturing." }
+  },
+  {
+    id: "us-wall-street",
+    type: "industry",
+    parent: "US",
+    coords: [-74.01, 40.71],
+    name: { de: "Wall Street", hu: "Wall Street", ro: "Wall Street", en: "Wall Street" },
+    description: { de: "Finanzzentrum der Welt in New York City.", hu: "A világ pénzügyi központja New Yorkban.", ro: "Centrul financiar al lumii din New York City.", en: "The financial center of the world in New York City." }
+  },
+  {
+    id: "us-port-la",
+    type: "port",
+    parent: "US",
+    coords: [-118.2, 33.7],
+    name: { de: "Hafen von Los Angeles", hu: "Los Angeles-i kikötő", ro: "Portul din Los Angeles", en: "Port of Los Angeles" },
+    description: { de: "Einer der geschäftigsten Containerhäfen der Welt.", hu: "A világ egyik legforgalmasabb konténerkikötője.", ro: "Unul dintre cele mai aglomerate porturi de containere din lume.", en: "One of the busiest container ports in the world." }
+  },
+  {
+    id: "us-port-ny-nj",
+    type: "port",
+    parent: "US",
+    coords: [-74.1, 40.7],
+    name: { de: "Hafen von New York und New Jersey", hu: "New York és New Jersey kikötője", ro: "Portul New York și New Jersey", en: "Port of New York and New Jersey" },
+    description: { de: "Großes Hafensystem an der US-Ostküste.", hu: "Hatalmas kikötőrendszer az USA keleti partján.", ro: "Sistem portuar major pe coasta de est a SUA.", en: "Major port system on the US East Coast." }
+  },
+  {
+    id: "us-lake-superior",
+    type: "lake",
+    parent: "US",
+    coords: [-87.5, 47.7],
+    name: { de: "Oberer See", hu: "Felső-tó", ro: "Lacul Superior", en: "Lake Superior" },
+    description: { de: "Flächenmäßig größter Süßwassersee der Erde.", hu: "A Föld legnagyobb felületű édesvízi tava.", ro: "Cel mai mare lac cu apă dulce din lume după suprafață.", en: "Largest freshwater lake in the world by surface area." }
+  },
+  {
+    id: "us-hudson-river",
+    type: "river",
+    parent: "US",
+    coords: [-73.9, 41.5],
+    name: { de: "Hudson River", hu: "Hudson-folyó", ro: "Râul Hudson", en: "Hudson River" },
+    description: { de: "Bedeutender Fluss im Bundesstaat New York.", hu: "Jelentős folyó New York államban.", ro: "Râu important din statul New York.", en: "Important river in New York State." }
+  },
 ];
 
 export const usaAllPoi: POI[] = [...usaCountry, ...usaRegions, ...usaCities, ...usaLandmarks];
