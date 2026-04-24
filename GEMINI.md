@@ -141,6 +141,9 @@ A `descriptionAdvanced` végén említsd meg, hogy a POI MELYIK tantárgyhoz / g
 ## Múltbéli hibák amiket NE ismételj (élő napló)
 Ezeket a hibákat a te korábbi futásaid okozták — minden új Gemini-session előtt figyeld:
 
+- **KRITIKUS (2026-04-24): `faq` mező-beszúrás elrontotta a `name` objektum záró `}`-ját sok POI fájlban** — amikor létező POI objektumba új mezőt szúrsz be (pl. `faq`), NE írj bele olyan helyre ahol az előző mező (`name`) egyetlen sorban van. Vagy a teljes `name` blokkot ÚJRAÍRD új mezővel EGYÜTT, vagy egy külön helyre szúrd be `, faq: {...}` kulcsot **CSAK miután a `name: {...}` lezárult `}`-val**. 49+ fájl vált érvénytelenné emiatt, revert-et kellett csinálni.
+- **Amikor nagyon sok fájlt kell módosítani** (pl. 40+ POI-file), NE futtass 1 nagy promptot. Oszd részekre (5-10 fájl/batch). Hosszabb output = több parse-hiba.
+
 - **Orphan SEO-blokk POI objektumon kívül**: `descriptionAdvanced` / `facts` mezőket TILOS különálló blokkként beszúrni a POI után `{` / `}` nélkül. Mindig a POI OBJEKTUMON BELÜL legyenek.
 - **Duplikált POI-blokk**: ne másold le a teljes POI objektumot csak mert új mezőt akarsz hozzáadni. Szerkeszd az EREDETIT.
 - **Hiányzó `];` array-záró**: minden `export const xxxCities: POI[] = [` után kötelezően `];` van mielőtt új exportot nyitsz.
