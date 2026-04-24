@@ -28,6 +28,7 @@ import {
 } from "@/lib/seo/slugs";
 import type { POI } from "@/lib/visualLab/data/poi";
 import { poiImageAlt } from "@/lib/seo/imageAlt";
+import { getLearnMoreSuggestion, learnMoreCtaCopy } from "@/lib/seo/poiLearnMore";
 
 export const dynamicParams = false;
 
@@ -200,6 +201,26 @@ export default async function PoiPage({
             </div>
           </div>
         </article>
+
+        {(() => {
+          const s = getLearnMoreSuggestion(poi, resolved.lang as Lang);
+          if (!s) return null;
+          const copy = learnMoreCtaCopy(s, resolved.lang as Lang);
+          return (
+            <section className="mt-10">
+              <div className="rounded-2xl border border-cyan-400/25 bg-gradient-to-br from-cyan-500/10 to-sky-500/5 p-5">
+                <h2 className="text-xl font-bold text-cyan-200">{copy.title}</h2>
+                <p className="mt-2 text-white/75">{copy.body}</p>
+                <a
+                  href={`${s.href}?grade=${s.grade}`}
+                  className="mt-4 inline-flex items-center gap-2 rounded-full bg-cyan-500 hover:bg-cyan-400 text-black font-bold px-5 py-2.5 transition"
+                >
+                  {copy.cta}
+                </a>
+              </div>
+            </section>
+          );
+        })()}
 
         {(() => {
           const faqList = poi.faq?.[resolved.lang as Lang];
