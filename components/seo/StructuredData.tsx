@@ -1,6 +1,7 @@
 import type { POI } from "@/lib/visualLab/data/poi";
 import { absoluteUrl } from "@/lib/seo/routes";
 import { localizedStateName, type Lang } from "@/lib/seo/slugs";
+import { getFaqForPoi } from "@/lib/visualLab/data/faq";
 
 function poiSchemaType(poi: POI) {
   switch (poi.type) {
@@ -64,7 +65,7 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
 }
 
 export function createFaqStructuredData(poi: POI, lang: Lang) {
-  const faqList = poi.faq?.[lang];
+  const faqList = getFaqForPoi(poi.id, lang) ?? poi.faq?.[lang];
   if (!faqList || faqList.length === 0) return null;
   return {
     "@context": "https://schema.org",

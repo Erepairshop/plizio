@@ -29,6 +29,7 @@ import {
 import type { POI } from "@/lib/visualLab/data/poi";
 import { poiImageAlt } from "@/lib/seo/imageAlt";
 import { getLearnMoreSuggestion, learnMoreCtaCopy } from "@/lib/seo/poiLearnMore";
+import { getFaqForPoi } from "@/lib/visualLab/data/faq";
 
 export const dynamicParams = false;
 
@@ -223,7 +224,9 @@ export default async function PoiPage({
         })()}
 
         {(() => {
-          const faqList = poi.faq?.[resolved.lang as Lang];
+          // FAQ now stored in separate lib/visualLab/data/faq/ table, lookup by POI id.
+          // (Previously `poi.faq` inline was vulnerable to Gemini batch parse corruption.)
+          const faqList = getFaqForPoi(poi.id, resolved.lang as Lang) ?? poi.faq?.[resolved.lang as Lang];
           if (!faqList || faqList.length === 0) return null;
           return (
             <section className="mt-10">
