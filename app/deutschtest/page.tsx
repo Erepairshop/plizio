@@ -206,27 +206,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const { lang: globalLang } = useLang();
   const { labels: rawLabels } = config;
   const titleStr = typeof config.title === "string" ? config.title : (config.title[globalLang] ?? config.title.en ?? config.title.de ?? "TEST");
-  const labels = useMemo(() => {
-    // Label language: derived from selected country so that the test paper
-    // labels match the language of the questions (e.g. country=HU → Hungarian
-    // 'Feladat' / 'Osztály' instead of global UI lang).
-    const labelLang = country === "US" || country === "GB" || country === "AU" || country === "CA" || country === "IE" || country === "NZ"
-      ? "en"
-      : country === "RO"
-        ? "ro"
-        : country === "HU"
-          ? "hu"
-          : (country === "DE" || country === "AT" || country === "CH")
-            ? "de"
-            : globalLang;
-    const out: Record<string, string> = {};
-    for (const [k, v] of Object.entries(rawLabels)) {
-      if (!v) out[k] = "";
-      else if (typeof v === "string") out[k] = v;
-      else out[k] = v[labelLang] ?? v[globalLang] ?? v.de ?? v.en ?? Object.values(v)[0] ?? "";
-    }
-    return out as Record<keyof typeof rawLabels, string>;
-  }, [rawLabels, globalLang, country]);
+  // labels useMemo moved below `country` state declaration (needs country).
   // Lang-alapu country lista (kozos minden test-route-ban)
   const COUNTRIES_BY_LANG: Record<string, { code: string; flag: string; label: string; sub: string }[]> = {
     de: [
@@ -265,6 +245,27 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const [country, setCountry] = useState<string>(countryFromLang);
   // Sync country if lang changes
   useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
+
+  // Label language: derived from selected country so test paper labels match
+  // the language of the questions (country=HU → Hungarian 'Feladat' etc.).
+  const labels = useMemo(() => {
+    const labelLang = country === "US" || country === "GB" || country === "AU" || country === "CA" || country === "IE" || country === "NZ"
+      ? "en"
+      : country === "RO"
+        ? "ro"
+        : country === "HU"
+          ? "hu"
+          : (country === "DE" || country === "AT" || country === "CH")
+            ? "de"
+            : globalLang;
+    const out: Record<string, string> = {};
+    for (const [k, v] of Object.entries(rawLabels)) {
+      if (!v) out[k] = "";
+      else if (typeof v === "string") out[k] = v;
+      else out[k] = v[labelLang] ?? v[globalLang] ?? v.de ?? v.en ?? Object.values(v)[0] ?? "";
+    }
+    return out as Record<keyof typeof rawLabels, string>;
+  }, [rawLabels, globalLang, country]);
   // Ha a lang betoltodik es multi-country (DE/EN), de meg nem country screenen vagyunk → country-ra
   // (LanguageProvider hu-default miatt initial useState nem mindig latja a valos lang-et)
   useEffect(() => {
