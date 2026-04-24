@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/0-q3r9x27pl~8.css","style"]
+:HL["/_next/static/chunks/0-kamjj~ftvj1.css","style"]
+:HL["/apple-touch-icon.png","image"]
+:HL["/favicon-32x32.png","image"]
+:HL["/favicon-16x16.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PptHyRcGvvXc93beSmG5_"}
