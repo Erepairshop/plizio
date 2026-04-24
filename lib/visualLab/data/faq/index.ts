@@ -2,15 +2,15 @@
 // New country FAQ files are registered here.
 
 import type { CountryFaqMap, FaqItem } from "./types";
+import { deFaq } from "./deFaq";
+import { huFaq } from "./huFaq";
 
-// Placeholder for future FAQ imports:
-// import { deFaq } from "./deFaq";
-// import { huFaq } from "./huFaq";
-// import { roFaq } from "./roFaq";
+// Placeholder for future FAQ imports (Gemini will generate e.g. ./deFaq, ./huFaq, ./roFaq).
+// Register new imports here as they are created.
 
 const ALL_FAQ: CountryFaqMap = {
-  // ...deFaq,
-  // ...huFaq,
+  ...deFaq,
+  ...huFaq,
   // ...roFaq,
 };
 
