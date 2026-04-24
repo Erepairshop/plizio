@@ -228,3 +228,10 @@ export const bahamasMap: BahamasRegionPath[] = [
     path: "M403.81,223.11L405.42,222.99L406.68,223.49L406.45,224.37L403.81,225.49L400.95,225.49L399.12,226.87L397.52,227.12L397.41,225.87L399.70,224.37L401.53,223.99L403.81,223.11Z"
   },
 ];
+
+export function projectCoordsBS(lon: number, lat: number): [number, number] {
+  const p = BS_PROJECTION;
+  const x = ((lon - p.minLon) / (p.maxLon - p.minLon)) * p.width;
+  const y = p.height - ((lat - p.minLat) / (p.maxLat - p.minLat)) * p.height;
+  return [x, y];
+}

@@ -92,9 +92,42 @@ import { monacoMap, monacoViewBox, projectCoordsMC } from "./monaco.svg";
 import { monacoAllPoi } from "../data/monacoPoi";
 import { vaticanMap, vaticanViewBox, projectCoordsVA } from "./vatican.svg";
 import { vaticanPois } from "../data/vaticanPoi";
+// ─── North America ────────────────────────────────────────────────────────
+import { usaMap, usaViewBox, projectCoordsUS } from "./usa.svg";
+import { usaAllPoi } from "../data/usaPoi";
+import { canadaMap, canadaViewBox, projectCoordsCA } from "./canada.svg";
+import { canadaAllPoi } from "../data/canadaPoi";
+import { mexicoMap, mexicoViewBox, projectCoordsMX } from "./mexico.svg";
+import { mexicoAllPoi } from "../data/mexicoPoi";
+import { guatemalaMap, guatemalaViewBox, projectCoordsGT } from "./guatemala.svg";
+import { guatemalaAllPoi } from "../data/guatemalaPoi";
+import { hondurasMap, hondurasViewBox, projectCoordsHN } from "./honduras.svg";
+import { hondurasAllPoi } from "../data/hondurasPoi";
+import { nicaraguaMap, nicaraguaViewBox, projectCoordsNI } from "./nicaragua.svg";
+import { nicaraguaAllPoi } from "../data/nicaraguaPoi";
+import { costaricaMap, costaricaViewBox, projectCoordsCR } from "./costarica.svg";
+import { costaricaAllPoi } from "../data/costaricaPoi";
+import { panamaMap, panamaViewBox, projectCoordsPA } from "./panama.svg";
+import { panamaAllPoi } from "../data/panamaPoi";
+import { cubaMap, cubaViewBox, projectCoordsCU } from "./cuba.svg";
+import { cubaAllPoi } from "../data/cubaPoi";
+import { dominicanrepublicMap, dominicanrepublicViewBox, projectCoordsDO } from "./dominicanrepublic.svg";
+import { dominicanrepublicAllPoi } from "../data/dominicanrepublicPoi";
+import { haitiMap, haitiViewBox, projectCoordsHT } from "./haiti.svg";
+import { haitiAllPoi } from "../data/haitiPoi";
+import { jamaicaMap, jamaicaViewBox, projectCoordsJM } from "./jamaica.svg";
+import { jamaicaAllPoi } from "../data/jamaicaPoi";
+import { bahamasMap, bahamasViewBox, projectCoordsBS } from "./bahamas.svg";
+import { bahamasAllPoi } from "../data/bahamasPoi";
+import { trinidadMap, trinidadViewBox, projectCoordsTT } from "./trinidad.svg";
+import { trinidadAllPoi } from "../data/trinidadPoi";
+import { belizeMap, belizeViewBox, projectCoordsBZ } from "./belize.svg";
+import { belizeAllPoi } from "../data/belizePoi";
+import { elsalvadorMap, elsalvadorViewBox, projectCoordsSV } from "./elsalvador.svg";
+import { elsalvadorAllPoi } from "../data/elsalvadorPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va" | "rs" | "us" | "canada" | "mx" | "gt" | "hn" | "ni" | "cr" | "pa" | "cu" | "do" | "ht" | "jm" | "bs" | "tt" | "bz" | "sv";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
@@ -496,6 +529,39 @@ export function getCountryMap(lang: Lang): CountryMapData {
         pois: monacoAllPoi,
         subregions: {},
       };
+    // ─── North America ────────────────────────────────────────────────
+    case "us":
+      return { countryId: "US", map: usaMap as unknown as BundeslandPath[], viewBox: usaViewBox, projectCoords: projectCoordsUS, pois: usaAllPoi, subregions: {} };
+    case "canada":
+      return { countryId: "CA", map: canadaMap as unknown as BundeslandPath[], viewBox: canadaViewBox, projectCoords: projectCoordsCA, pois: canadaAllPoi, subregions: {} };
+    case "mx":
+      return { countryId: "MX", map: mexicoMap as unknown as BundeslandPath[], viewBox: mexicoViewBox, projectCoords: projectCoordsMX, pois: mexicoAllPoi, subregions: {} };
+    case "gt":
+      return { countryId: "GT", map: guatemalaMap as unknown as BundeslandPath[], viewBox: guatemalaViewBox, projectCoords: projectCoordsGT, pois: guatemalaAllPoi, subregions: {} };
+    case "hn":
+      return { countryId: "HN", map: hondurasMap as unknown as BundeslandPath[], viewBox: hondurasViewBox, projectCoords: projectCoordsHN, pois: hondurasAllPoi, subregions: {} };
+    case "ni":
+      return { countryId: "NI", map: nicaraguaMap as unknown as BundeslandPath[], viewBox: nicaraguaViewBox, projectCoords: projectCoordsNI, pois: nicaraguaAllPoi, subregions: {} };
+    case "cr":
+      return { countryId: "CR", map: costaricaMap as unknown as BundeslandPath[], viewBox: costaricaViewBox, projectCoords: projectCoordsCR, pois: costaricaAllPoi, subregions: {} };
+    case "pa":
+      return { countryId: "PA", map: panamaMap as unknown as BundeslandPath[], viewBox: panamaViewBox, projectCoords: projectCoordsPA, pois: panamaAllPoi, subregions: {} };
+    case "cu":
+      return { countryId: "CU", map: cubaMap as unknown as BundeslandPath[], viewBox: cubaViewBox, projectCoords: projectCoordsCU, pois: cubaAllPoi, subregions: {} };
+    case "do":
+      return { countryId: "DO", map: dominicanrepublicMap as unknown as BundeslandPath[], viewBox: dominicanrepublicViewBox, projectCoords: projectCoordsDO, pois: dominicanrepublicAllPoi, subregions: {} };
+    case "ht":
+      return { countryId: "HT", map: haitiMap as unknown as BundeslandPath[], viewBox: haitiViewBox, projectCoords: projectCoordsHT, pois: haitiAllPoi, subregions: {} };
+    case "jm":
+      return { countryId: "JM", map: jamaicaMap as unknown as BundeslandPath[], viewBox: jamaicaViewBox, projectCoords: projectCoordsJM, pois: jamaicaAllPoi, subregions: {} };
+    case "bs":
+      return { countryId: "BS", map: bahamasMap as unknown as BundeslandPath[], viewBox: bahamasViewBox, projectCoords: projectCoordsBS, pois: bahamasAllPoi, subregions: {} };
+    case "tt":
+      return { countryId: "TT", map: trinidadMap as unknown as BundeslandPath[], viewBox: trinidadViewBox, projectCoords: projectCoordsTT, pois: trinidadAllPoi, subregions: {} };
+    case "bz":
+      return { countryId: "BZ", map: belizeMap as unknown as BundeslandPath[], viewBox: belizeViewBox, projectCoords: projectCoordsBZ, pois: belizeAllPoi, subregions: {} };
+    case "sv":
+      return { countryId: "SV", map: elsalvadorMap as unknown as BundeslandPath[], viewBox: elsalvadorViewBox, projectCoords: projectCoordsSV, pois: elsalvadorAllPoi, subregions: {} };
     case "de":
     default:
       return {

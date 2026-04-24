@@ -6,217 +6,157 @@ export const trinidadRegions: POI[] = [];
 
 export const trinidadCities: POI[] = [
   {
-    id: "trinidad_1",
-    categoryId: "city",
-    name: { de: "Trinidad POI 1", hu: "Trinidad POI 1", ro: "Trinidad POI 1", en: "Trinidad POI 1" },
+    id: "trinidad_1",    name: { de: "Trinidad POI 1", hu: "Trinidad POI 1", ro: "Trinidad POI 1", en: "Trinidad POI 1" },
     description: { de: "Description for Trinidad POI 1", hu: "Description for Trinidad POI 1", ro: "Description for Trinidad POI 1", en: "Description for Trinidad POI 1" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_2",
-    categoryId: "city",
-    name: { de: "Trinidad POI 2", hu: "Trinidad POI 2", ro: "Trinidad POI 2", en: "Trinidad POI 2" },
+    id: "trinidad_2",    name: { de: "Trinidad POI 2", hu: "Trinidad POI 2", ro: "Trinidad POI 2", en: "Trinidad POI 2" },
     description: { de: "Description for Trinidad POI 2", hu: "Description for Trinidad POI 2", ro: "Description for Trinidad POI 2", en: "Description for Trinidad POI 2" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_3",
-    categoryId: "city",
-    name: { de: "Trinidad POI 3", hu: "Trinidad POI 3", ro: "Trinidad POI 3", en: "Trinidad POI 3" },
+    id: "trinidad_3",    name: { de: "Trinidad POI 3", hu: "Trinidad POI 3", ro: "Trinidad POI 3", en: "Trinidad POI 3" },
     description: { de: "Description for Trinidad POI 3", hu: "Description for Trinidad POI 3", ro: "Description for Trinidad POI 3", en: "Description for Trinidad POI 3" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_4",
-    categoryId: "city",
-    name: { de: "Trinidad POI 4", hu: "Trinidad POI 4", ro: "Trinidad POI 4", en: "Trinidad POI 4" },
+    id: "trinidad_4",    name: { de: "Trinidad POI 4", hu: "Trinidad POI 4", ro: "Trinidad POI 4", en: "Trinidad POI 4" },
     description: { de: "Description for Trinidad POI 4", hu: "Description for Trinidad POI 4", ro: "Description for Trinidad POI 4", en: "Description for Trinidad POI 4" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_5",
-    categoryId: "city",
-    name: { de: "Trinidad POI 5", hu: "Trinidad POI 5", ro: "Trinidad POI 5", en: "Trinidad POI 5" },
+    id: "trinidad_5",    name: { de: "Trinidad POI 5", hu: "Trinidad POI 5", ro: "Trinidad POI 5", en: "Trinidad POI 5" },
     description: { de: "Description for Trinidad POI 5", hu: "Description for Trinidad POI 5", ro: "Description for Trinidad POI 5", en: "Description for Trinidad POI 5" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_6",
-    categoryId: "city",
-    name: { de: "Trinidad POI 6", hu: "Trinidad POI 6", ro: "Trinidad POI 6", en: "Trinidad POI 6" },
+    id: "trinidad_6",    name: { de: "Trinidad POI 6", hu: "Trinidad POI 6", ro: "Trinidad POI 6", en: "Trinidad POI 6" },
     description: { de: "Description for Trinidad POI 6", hu: "Description for Trinidad POI 6", ro: "Description for Trinidad POI 6", en: "Description for Trinidad POI 6" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_7",
-    categoryId: "city",
-    name: { de: "Trinidad POI 7", hu: "Trinidad POI 7", ro: "Trinidad POI 7", en: "Trinidad POI 7" },
+    id: "trinidad_7",    name: { de: "Trinidad POI 7", hu: "Trinidad POI 7", ro: "Trinidad POI 7", en: "Trinidad POI 7" },
     description: { de: "Description for Trinidad POI 7", hu: "Description for Trinidad POI 7", ro: "Description for Trinidad POI 7", en: "Description for Trinidad POI 7" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_8",
-    categoryId: "city",
-    name: { de: "Trinidad POI 8", hu: "Trinidad POI 8", ro: "Trinidad POI 8", en: "Trinidad POI 8" },
+    id: "trinidad_8",    name: { de: "Trinidad POI 8", hu: "Trinidad POI 8", ro: "Trinidad POI 8", en: "Trinidad POI 8" },
     description: { de: "Description for Trinidad POI 8", hu: "Description for Trinidad POI 8", ro: "Description for Trinidad POI 8", en: "Description for Trinidad POI 8" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_9",
-    categoryId: "city",
-    name: { de: "Trinidad POI 9", hu: "Trinidad POI 9", ro: "Trinidad POI 9", en: "Trinidad POI 9" },
+    id: "trinidad_9",    name: { de: "Trinidad POI 9", hu: "Trinidad POI 9", ro: "Trinidad POI 9", en: "Trinidad POI 9" },
     description: { de: "Description for Trinidad POI 9", hu: "Description for Trinidad POI 9", ro: "Description for Trinidad POI 9", en: "Description for Trinidad POI 9" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_10",
-    categoryId: "city",
-    name: { de: "Trinidad POI 10", hu: "Trinidad POI 10", ro: "Trinidad POI 10", en: "Trinidad POI 10" },
+    id: "trinidad_10",    name: { de: "Trinidad POI 10", hu: "Trinidad POI 10", ro: "Trinidad POI 10", en: "Trinidad POI 10" },
     description: { de: "Description for Trinidad POI 10", hu: "Description for Trinidad POI 10", ro: "Description for Trinidad POI 10", en: "Description for Trinidad POI 10" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_11",
-    categoryId: "city",
-    name: { de: "Trinidad POI 11", hu: "Trinidad POI 11", ro: "Trinidad POI 11", en: "Trinidad POI 11" },
+    id: "trinidad_11",    name: { de: "Trinidad POI 11", hu: "Trinidad POI 11", ro: "Trinidad POI 11", en: "Trinidad POI 11" },
     description: { de: "Description for Trinidad POI 11", hu: "Description for Trinidad POI 11", ro: "Description for Trinidad POI 11", en: "Description for Trinidad POI 11" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_12",
-    categoryId: "city",
-    name: { de: "Trinidad POI 12", hu: "Trinidad POI 12", ro: "Trinidad POI 12", en: "Trinidad POI 12" },
+    id: "trinidad_12",    name: { de: "Trinidad POI 12", hu: "Trinidad POI 12", ro: "Trinidad POI 12", en: "Trinidad POI 12" },
     description: { de: "Description for Trinidad POI 12", hu: "Description for Trinidad POI 12", ro: "Description for Trinidad POI 12", en: "Description for Trinidad POI 12" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_13",
-    categoryId: "city",
-    name: { de: "Trinidad POI 13", hu: "Trinidad POI 13", ro: "Trinidad POI 13", en: "Trinidad POI 13" },
+    id: "trinidad_13",    name: { de: "Trinidad POI 13", hu: "Trinidad POI 13", ro: "Trinidad POI 13", en: "Trinidad POI 13" },
     description: { de: "Description for Trinidad POI 13", hu: "Description for Trinidad POI 13", ro: "Description for Trinidad POI 13", en: "Description for Trinidad POI 13" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_14",
-    categoryId: "city",
-    name: { de: "Trinidad POI 14", hu: "Trinidad POI 14", ro: "Trinidad POI 14", en: "Trinidad POI 14" },
+    id: "trinidad_14",    name: { de: "Trinidad POI 14", hu: "Trinidad POI 14", ro: "Trinidad POI 14", en: "Trinidad POI 14" },
     description: { de: "Description for Trinidad POI 14", hu: "Description for Trinidad POI 14", ro: "Description for Trinidad POI 14", en: "Description for Trinidad POI 14" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_15",
-    categoryId: "city",
-    name: { de: "Trinidad POI 15", hu: "Trinidad POI 15", ro: "Trinidad POI 15", en: "Trinidad POI 15" },
+    id: "trinidad_15",    name: { de: "Trinidad POI 15", hu: "Trinidad POI 15", ro: "Trinidad POI 15", en: "Trinidad POI 15" },
     description: { de: "Description for Trinidad POI 15", hu: "Description for Trinidad POI 15", ro: "Description for Trinidad POI 15", en: "Description for Trinidad POI 15" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_16",
-    categoryId: "city",
-    name: { de: "Trinidad POI 16", hu: "Trinidad POI 16", ro: "Trinidad POI 16", en: "Trinidad POI 16" },
+    id: "trinidad_16",    name: { de: "Trinidad POI 16", hu: "Trinidad POI 16", ro: "Trinidad POI 16", en: "Trinidad POI 16" },
     description: { de: "Description for Trinidad POI 16", hu: "Description for Trinidad POI 16", ro: "Description for Trinidad POI 16", en: "Description for Trinidad POI 16" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_17",
-    categoryId: "city",
-    name: { de: "Trinidad POI 17", hu: "Trinidad POI 17", ro: "Trinidad POI 17", en: "Trinidad POI 17" },
+    id: "trinidad_17",    name: { de: "Trinidad POI 17", hu: "Trinidad POI 17", ro: "Trinidad POI 17", en: "Trinidad POI 17" },
     description: { de: "Description for Trinidad POI 17", hu: "Description for Trinidad POI 17", ro: "Description for Trinidad POI 17", en: "Description for Trinidad POI 17" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_18",
-    categoryId: "city",
-    name: { de: "Trinidad POI 18", hu: "Trinidad POI 18", ro: "Trinidad POI 18", en: "Trinidad POI 18" },
+    id: "trinidad_18",    name: { de: "Trinidad POI 18", hu: "Trinidad POI 18", ro: "Trinidad POI 18", en: "Trinidad POI 18" },
     description: { de: "Description for Trinidad POI 18", hu: "Description for Trinidad POI 18", ro: "Description for Trinidad POI 18", en: "Description for Trinidad POI 18" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_19",
-    categoryId: "city",
-    name: { de: "Trinidad POI 19", hu: "Trinidad POI 19", ro: "Trinidad POI 19", en: "Trinidad POI 19" },
+    id: "trinidad_19",    name: { de: "Trinidad POI 19", hu: "Trinidad POI 19", ro: "Trinidad POI 19", en: "Trinidad POI 19" },
     description: { de: "Description for Trinidad POI 19", hu: "Description for Trinidad POI 19", ro: "Description for Trinidad POI 19", en: "Description for Trinidad POI 19" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_20",
-    categoryId: "city",
-    name: { de: "Trinidad POI 20", hu: "Trinidad POI 20", ro: "Trinidad POI 20", en: "Trinidad POI 20" },
+    id: "trinidad_20",    name: { de: "Trinidad POI 20", hu: "Trinidad POI 20", ro: "Trinidad POI 20", en: "Trinidad POI 20" },
     description: { de: "Description for Trinidad POI 20", hu: "Description for Trinidad POI 20", ro: "Description for Trinidad POI 20", en: "Description for Trinidad POI 20" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
 ];
 
 export const trinidadLandmarks: POI[] = [
   {
-    id: "trinidad_21",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 21", hu: "Trinidad POI 21", ro: "Trinidad POI 21", en: "Trinidad POI 21" },
+    id: "trinidad_21",    name: { de: "Trinidad POI 21", hu: "Trinidad POI 21", ro: "Trinidad POI 21", en: "Trinidad POI 21" },
     description: { de: "Description for Trinidad POI 21", hu: "Description for Trinidad POI 21", ro: "Description for Trinidad POI 21", en: "Description for Trinidad POI 21" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_22",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 22", hu: "Trinidad POI 22", ro: "Trinidad POI 22", en: "Trinidad POI 22" },
+    id: "trinidad_22",    name: { de: "Trinidad POI 22", hu: "Trinidad POI 22", ro: "Trinidad POI 22", en: "Trinidad POI 22" },
     description: { de: "Description for Trinidad POI 22", hu: "Description for Trinidad POI 22", ro: "Description for Trinidad POI 22", en: "Description for Trinidad POI 22" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_23",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 23", hu: "Trinidad POI 23", ro: "Trinidad POI 23", en: "Trinidad POI 23" },
+    id: "trinidad_23",    name: { de: "Trinidad POI 23", hu: "Trinidad POI 23", ro: "Trinidad POI 23", en: "Trinidad POI 23" },
     description: { de: "Description for Trinidad POI 23", hu: "Description for Trinidad POI 23", ro: "Description for Trinidad POI 23", en: "Description for Trinidad POI 23" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_24",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 24", hu: "Trinidad POI 24", ro: "Trinidad POI 24", en: "Trinidad POI 24" },
+    id: "trinidad_24",    name: { de: "Trinidad POI 24", hu: "Trinidad POI 24", ro: "Trinidad POI 24", en: "Trinidad POI 24" },
     description: { de: "Description for Trinidad POI 24", hu: "Description for Trinidad POI 24", ro: "Description for Trinidad POI 24", en: "Description for Trinidad POI 24" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_25",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 25", hu: "Trinidad POI 25", ro: "Trinidad POI 25", en: "Trinidad POI 25" },
+    id: "trinidad_25",    name: { de: "Trinidad POI 25", hu: "Trinidad POI 25", ro: "Trinidad POI 25", en: "Trinidad POI 25" },
     description: { de: "Description for Trinidad POI 25", hu: "Description for Trinidad POI 25", ro: "Description for Trinidad POI 25", en: "Description for Trinidad POI 25" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_26",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 26", hu: "Trinidad POI 26", ro: "Trinidad POI 26", en: "Trinidad POI 26" },
+    id: "trinidad_26",    name: { de: "Trinidad POI 26", hu: "Trinidad POI 26", ro: "Trinidad POI 26", en: "Trinidad POI 26" },
     description: { de: "Description for Trinidad POI 26", hu: "Description for Trinidad POI 26", ro: "Description for Trinidad POI 26", en: "Description for Trinidad POI 26" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_27",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 27", hu: "Trinidad POI 27", ro: "Trinidad POI 27", en: "Trinidad POI 27" },
+    id: "trinidad_27",    name: { de: "Trinidad POI 27", hu: "Trinidad POI 27", ro: "Trinidad POI 27", en: "Trinidad POI 27" },
     description: { de: "Description for Trinidad POI 27", hu: "Description for Trinidad POI 27", ro: "Description for Trinidad POI 27", en: "Description for Trinidad POI 27" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_28",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 28", hu: "Trinidad POI 28", ro: "Trinidad POI 28", en: "Trinidad POI 28" },
+    id: "trinidad_28",    name: { de: "Trinidad POI 28", hu: "Trinidad POI 28", ro: "Trinidad POI 28", en: "Trinidad POI 28" },
     description: { de: "Description for Trinidad POI 28", hu: "Description for Trinidad POI 28", ro: "Description for Trinidad POI 28", en: "Description for Trinidad POI 28" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_29",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 29", hu: "Trinidad POI 29", ro: "Trinidad POI 29", en: "Trinidad POI 29" },
+    id: "trinidad_29",    name: { de: "Trinidad POI 29", hu: "Trinidad POI 29", ro: "Trinidad POI 29", en: "Trinidad POI 29" },
     description: { de: "Description for Trinidad POI 29", hu: "Description for Trinidad POI 29", ro: "Description for Trinidad POI 29", en: "Description for Trinidad POI 29" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
   {
-    id: "trinidad_30",
-    categoryId: "landmark",
-    name: { de: "Trinidad POI 30", hu: "Trinidad POI 30", ro: "Trinidad POI 30", en: "Trinidad POI 30" },
+    id: "trinidad_30",    name: { de: "Trinidad POI 30", hu: "Trinidad POI 30", ro: "Trinidad POI 30", en: "Trinidad POI 30" },
     description: { de: "Description for Trinidad POI 30", hu: "Description for Trinidad POI 30", ro: "Description for Trinidad POI 30", en: "Description for Trinidad POI 30" },
-    position: [0, 0]
+    coords: [0, 0], type: 'landmark', parent: 'TT'
   },
 ];
 

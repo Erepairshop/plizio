@@ -1,4 +1,5 @@
-export const bulgariaAllPoi = [
+import type { POI } from "./poi";
+export const bulgariaAllPoi: POI[] = [
   {
     id: "bg-country",
     type: "country",
@@ -249,7 +250,7 @@ export const bulgariaAllPoi = [
   }
 ];
 
-export const bulgariaCities = [
+export const bulgariaCities: POI[] = [
   {
     id: "city-sofia",
     type: "city",
@@ -627,7 +628,7 @@ export const bulgariaCities = [
   }
 ];
 
-export const bulgariaCulture = [
+export const bulgariaCulture: POI[] = [
   {
     id: "cult-rila-monastery",
     type: "landmark",
@@ -1305,7 +1306,7 @@ export const bulgariaCulture = [
   }
 ];
 
-export const bulgariaNature = [
+export const bulgariaNature: POI[] = [
   {
     id: "nat-pirin",
     type: "landmark",
