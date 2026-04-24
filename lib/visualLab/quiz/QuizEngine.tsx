@@ -2,7 +2,7 @@
 import { useState, useCallback, useEffect, useMemo } from "react";
 import { X, CheckCircle, XCircle, RotateCcw, ChevronRight } from "lucide-react";
 import type { POI } from "../data/poi";
-import type { QuizTask, QuizResult } from "./types";
+import type { QuizTask, QuizResult, PoiTypeFilterValue } from "./types";
 import { getQuizPool } from "./data/index";
 
 type Lang = "de" | "hu" | "ro" | "en";
@@ -52,6 +52,43 @@ function readScore(key: string): { correct: number; total: number } {
 function writeScore(key: string, s: { correct: number; total: number }) {
   if (typeof window === "undefined") return;
   localStorage.setItem(key, JSON.stringify(s));
+}
+
+// ──────────────────────────────────────────────
+// POI type filter derivation
+// ──────────────────────────────────────────────
+
+/**
+ * Derive which POI types to show based on the task's referenced POI ids.
+ * Falls back to [] (hide all POIs) for click_county tasks.
+ * Returns null if we can't determine (show all).
+ */
+function deriveFromTask(task: QuizTask, pois: POI[]): PoiTypeFilterValue[] | null {
+  if (task.type === "click_county") {
+    // County task: no POIs needed, just the highlighted region
+    return [];
+  }
+
+  // Collect all POI ids referenced by this task
+  const poiIds: string[] = [];
+  if (task.targetPoiId) poiIds.push(task.targetPoiId);
+  if (task.targetPoiId2) poiIds.push(task.targetPoiId2);
+  if (task.optionPoiIds) poiIds.push(...task.optionPoiIds);
+  if (task.orderedPoiIds) poiIds.push(...task.orderedPoiIds);
+
+  if (poiIds.length === 0) return null;
+
+  const typeSet = new Set<PoiTypeFilterValue>();
+  for (const id of poiIds) {
+    const poi = pois.find((p) => p.id === id);
+    if (poi) {
+      // Map POI type to our filter type (they are the same union, just cast)
+      typeSet.add(poi.type as PoiTypeFilterValue);
+    }
+  }
+
+  if (typeSet.size === 0) return null;
+  return Array.from(typeSet);
 }
 
 // ──────────────────────────────────────────────
@@ -368,9 +405,18 @@ export function useQuizEngine({
     activateTask(engineState.task);
   }, [engineState.task, activateTask]);
 
+  // Compute the effective POI type filter for the current task
+  const visiblePoiTypes = useMemo((): PoiTypeFilterValue[] | null => {
+    const task = engineState.task;
+    if (!task) return null;
+    if (task.poiTypeFilter !== undefined) return task.poiTypeFilter;
+    return deriveFromTask(task, pois);
+  }, [engineState.task, pois]);
+
   return {
     engineState,
     score,
+    visiblePoiTypes,
     handlePoiClick,
     handleCountyClick,
     handleNext,

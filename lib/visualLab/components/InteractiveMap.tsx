@@ -225,7 +225,17 @@ export const InteractiveMap = ({
   const isSimplified = grade <= 2;
 
   // Filter POIs by layer + grade. Subject only filters when layer="all"
+  // In quiz mode: replaced by visiblePoiTypes filter from quiz engine.
   const visiblePOIs = useMemo(() => {
+    if (mapMode === "quiz") {
+      const quizTypes = quiz.visiblePoiTypes;
+      // null means "show all POIs" (no filter derived yet)
+      if (quizTypes === null) return pois.filter((p) => p.type !== "region");
+      // empty array means "show no POIs"
+      if (quizTypes.length === 0) return [];
+      const allowed = new Set(quizTypes);
+      return pois.filter((p) => p.type !== "region" && allowed.has(p.type as typeof quizTypes[number]));
+    }
     const allowedTypes = new Set(LAYER_TYPES[layer]);
     return pois.filter((p) => {
       if (p.type === "region") return false;
@@ -242,7 +252,7 @@ export const InteractiveMap = ({
       if (onlyFavorites && !favorites.has(p.id)) return false;
       return true;
     });
-  }, [layer, subject, grade, period, isSimplified, onlyFavorites, favorites]);
+  }, [mapMode, quiz.visiblePoiTypes, pois, layer, subject, grade, period, isSimplified, onlyFavorites, favorites]);
 
   // ---- Search results ------------------------------------------------------
   const searchResults = useMemo(() => {
