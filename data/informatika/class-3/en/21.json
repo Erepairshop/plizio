@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Conditions and Events",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Condition' in programming?",
+      "options": [
+        "A choice between two things (If... Then...)",
+        "A sick computer",
+        "A type of weather",
+        "A rule that never changes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is a conditional?",
+      "options": [
+        "If then",
+        "Move 10",
+        "Repeat",
+        "When clicked"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Event'?",
+      "options": [
+        "Something that triggers code to run (like a click)",
+        "A party",
+        "A school play",
+        "A sports game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'If <touching color red> then <stop all>' do?",
+      "options": [
+        "Stops everything if the sprite touches red",
+        "Makes the sprite red",
+        "Deletes red things",
+        "Does nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is an event block?",
+      "options": [
+        "When space key pressed",
+        "Wait 1 second",
+        "Change x by 10",
+        "Say Hello"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Else' in 'If... Then... Else...'?",
+      "options": [
+        "What happens if the condition is FALSE",
+        "What happens if it's TRUE",
+        "A type of cake",
+        "A name for a sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find 'Touching color' or 'Key pressed' blocks?",
+      "options": [
+        "Sensing",
+        "Motion",
+        "Looks",
+        "Sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape are the condition checks (like <...>) in Scratch?",
+      "options": [
+        "Hexagon / Diamond",
+        "Circle",
+        "Square",
+        "Rectangle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if the condition in an 'If' block is not met?",
+      "options": [
+        "The code inside is skipped",
+        "The program stops",
+        "The computer crashes",
+        "The sprite cries"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you check two conditions at once?",
+      "options": [
+        "Yes, using 'and' or 'or' blocks",
+        "No, only one",
+        "Only if they are both true",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'When I receive [message]' do?",
+      "options": [
+        "Runs a script when a broadcast is sent",
+        "Receives an email",
+        "Gets a phone call",
+        "Hears a sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Broadcasting'?",
+      "options": [
+        "Sending a secret message to all sprites",
+        "TV news",
+        "Shouting at the computer",
+        "Deleting all sprites"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block starts a script?",
+      "options": [
+        "An Event block (hat shape)",
+        "A Motion block",
+        "A Sound block",
+        "A Control block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Not' block do?",
+      "options": [
+        "Flips a condition (True becomes False)",
+        "Deletes a block",
+        "Says No",
+        "Stops the program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Sensing blocks?",
+      "options": [
+        "Light Blue",
+        "Dark Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a sprite wait for an event?",
+      "options": [
+        "Yes, like 'Wait until <...>'",
+        "No, sprites never wait",
+        "Only if they are tired",
+        "Only for 1 second"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'When Green Flag Clicked' an event?",
+      "options": [
+        "Yes, it's the most common one",
+        "No, it's a condition",
+        "Only if it works",
+        "Only for the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collision detection'?",
+      "options": [
+        "Using conditions to see if sprites touch",
+        "Crashing a car",
+        "Fixing a bug",
+        "Breaking the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you use 'If' without a loop?",
+      "options": [
+        "It only checks once when the script runs",
+        "It checks forever",
+        "It never checks",
+        "It breaks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we put 'If' blocks inside 'Forever' loops?",
+      "options": [
+        "To constantly check if something is true",
+        "To make them look bigger",
+        "To save space",
+        "To stop the loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Boolean'?",
+      "options": [
+        "A value that is either True or False",
+        "A type of ghost",
+        "A blue sprite",
+        "A math mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'When sprite clicked' do?",
+      "options": [
+        "Runs code when you click that sprite",
+        "Deletes the sprite",
+        "Changes the sprite",
+        "Clicks the mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change a backdrop with an event?",
+      "options": [
+        "Yes, 'When backdrop switches to...'",
+        "No, only sprites",
+        "Only if the backdrop is green",
+        "Only once"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Wait 1 seconds' block used for?",
+      "options": [
+        "Adding a delay in a script",
+        "Making the computer faster",
+        "Stopping the program",
+        "Waiting for the user"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which category has 'Wait' blocks?",
+      "options": [
+        "Control",
+        "Events",
+        "Sensing",
+        "Motion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    }
+  ]
+}

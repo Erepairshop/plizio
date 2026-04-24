@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Identitate Digitală",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este identitatea digitală?",
+      "options": [
+        "Informația despre noi care există online",
+        "Numele nostru pe haine",
+        "Buletinul real",
+        "O poză din album"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'urma digitală' (digital footprint)?",
+      "options": [
+        "Urmele lăsate de activitatea noastră pe net",
+        "Urma picioarelor pe tabletă",
+        "O eroare de mouse",
+        "O poză cu pantofi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să fim atenți la ce postăm?",
+      "options": [
+        "Da, rămâne pe net mult timp",
+        "Nu, dispare după o zi",
+        "Nu contează",
+        "Doar dacă ne vede bunica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'nickname' (poreclă)?",
+      "options": [
+        "Un nume ales pentru jocuri sau site-uri",
+        "Numele nostru adevărat",
+        "O eroare de scriere",
+        "Un tip de mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să folosim numele real pe toate jocurile?",
+      "options": [
+        "Nu, e mai sigur un pseudonim",
+        "Da, să știe toți cine suntem",
+        "Doar dacă ne roagă un străin",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'parolă puternică'?",
+      "options": [
+        "Una greu de ghicit (litere, cifre, semne)",
+        "Numele nostru",
+        "123456",
+        "Parola123"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem spune adresa noastră de acasă pe net?",
+      "options": [
+        "Nu, e periculos",
+        "Da, să vină prietenii",
+        "Doar dacă ne promit un cadou",
+        "Doar dacă avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'avatar'?",
+      "options": [
+        "O imagine care ne reprezintă online",
+        "Un film vechi",
+        "O eroare de monitor",
+        "Un robot real"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă cineva e rău cu noi pe net?",
+      "options": [
+        "Spunem unui adult și blocăm persoana",
+        "Suntem și noi răi",
+        "Plângem și ascundem",
+        "Ignorăm totul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pozele postate pot fi văzute de mulți oameni?",
+      "options": [
+        "Da, deseori oricine le poate vedea",
+        "Nu, doar de noi",
+        "Doar de cei din aceeași cameră",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'setări de confidențialitate' (privacy)?",
+      "options": [
+        "Alegem cine ne poate vedea informațiile",
+        "Cumpărăm un calculator nou",
+        "Închidem netul",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea încredere totală în 'prietenii' de pe net pe care nu-i cunoaștem?",
+      "options": [
+        "Nu, pot pretinde că sunt altcineva",
+        "Da, toți sunt buni",
+        "Doar dacă au poze frumoase",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'cyberbullying'?",
+      "options": [
+        "Comportament rău și repetat pe internet",
+        "Un tip de dans",
+        "Un joc cu tauri",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Identitatea digitală ne poate afecta viitorul?",
+      "options": [
+        "Da, școlile sau joburile pot verifica netul",
+        "Nu, e doar pentru copii",
+        "Nu are nicio legătură",
+        "Doar dacă suntem faimoși"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'reputație online'?",
+      "options": [
+        "Părerea pe care o au ceilalți despre noi pe net",
+        "Câți bani avem pe card",
+        "Câte jocuri am câștigat",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să cerem permisiunea înainte de a posta poza altcuiva?",
+      "options": [
+        "Da, mereu",
+        "Nu, e poza noastră acum",
+        "Doar dacă ne roagă",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'cont privat'?",
+      "options": [
+        "Doar persoanele acceptate ne pot vedea",
+        "Un cont care costă bani",
+        "Un cont fără poză",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge definitiv ceva de pe internet?",
+      "options": [
+        "Foarte greu, deseori rămâne undeva salvat",
+        "Da, cu tasta Delete",
+        "Da, dacă închidem netul",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă am postat ceva greșit?",
+      "options": [
+        "Ștergem cât mai repede și învățăm lecția",
+        "Lăsăm așa",
+        "Plângem",
+        "Aruncăm laptopul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Identitatea digitală se construiește în timp?",
+      "options": [
+        "Da, prin tot ce facem online",
+        "Nu, se primește la naștere",
+        "Se cumpără din magazin",
+        "Se alege la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'autentificarea în doi pași'?",
+      "options": [
+        "O metodă mai sigură de logare (cod pe telefon)",
+        "Un dans",
+        "O eroare",
+        "Doi pași reali"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine ne ajută să ne gestionăm identitatea?",
+      "options": [
+        "Părinții și profesorii",
+        "Pisica",
+        "Prietenii de pe net",
+        "Nimeni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să postăm locația noastră exactă?",
+      "options": [
+        "Nu, din motive de siguranță",
+        "Da, să știe toți unde suntem",
+        "Doar dacă e un loc frumos",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să fii un 'cetățean digital' bun?",
+      "options": [
+        "Să fii politicos și responsabil online",
+        "Să ai multe jocuri",
+        "Să stai mult la calculator",
+        "Să știi să repari PC-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Identitatea digitală este secretă?",
+      "options": [
+        "Nu, ea este publică într-o anumită măsură",
+        "Da, nu o știe nimeni",
+        "Este doar pentru roboți",
+        "Este o minciună"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: profil",
+      "answer": "profil"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: date",
+      "answer": "date"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: parolă",
+      "answer": "parolă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: urmă",
+      "answer": "urmă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: comunitate",
+      "answer": "comunitate"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: comportament",
+      "answer": "comportament"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: regulă",
+      "answer": "regulă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: protecție",
+      "answer": "protecție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: secret",
+      "answer": "secret"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poreclă",
+      "answer": "poreclă"
+    }
+  ]
+}

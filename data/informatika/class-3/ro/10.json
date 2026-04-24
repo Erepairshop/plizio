@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Siguranța Descărcărilor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă a descărca (download)?",
+      "options": [
+        "A aduce un fișier de pe net în calculatorul nostru",
+        "A trimite un fișier pe net",
+        "A șterge un fișier",
+        "A închide calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce trebuie să fim atenți când descărcăm?",
+      "options": [
+        "Pentru a evita virușii",
+        "Ca să nu se termine netul",
+        "Ca să nu se umple masa",
+        "Nu trebuie să fim atenți"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un virus de calculator?",
+      "options": [
+        "Un program rău care strică lucruri",
+        "O răceală reală",
+        "O bacterie",
+        "Un joc nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ne ajută să ne protejăm de viruși?",
+      "options": [
+        "Programul antivirus",
+        "O mască de protecție",
+        "Ochelarii de soare",
+        "O umbrelă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este sigur să descărcăm jocuri 'gratis' de pe site-uri necunoscute?",
+      "options": [
+        "Nu, pot fi periculoase",
+        "Da, e o super ofertă",
+        "Doar dacă sunt colorate",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă browserul ne avertizează că un fișier e periculos?",
+      "options": [
+        "Nu îl descărcăm și cerem ajutor",
+        "Îl descărcăm oricum",
+        "Îl trimitem unui prieten",
+        "Închidem monitorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem descărca viruși prin e-mail?",
+      "options": [
+        "Da, prin atașamente dubioase",
+        "Nu, e-mailul e sigur",
+        "Doar dacă nu avem adresă",
+        "Doar dacă e duminică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'site de încredere'?",
+      "options": [
+        "Un site oficial sau cunoscut",
+        "Un site cu multe culori",
+        "Un site care promite bani",
+        "Un site cu jocuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem înainte de a instala ceva descărcat?",
+      "options": [
+        "Întrebăm un adult",
+        "Închidem ochii",
+        "Dăm click rapid",
+        "Repornim calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'cont fals'?",
+      "options": [
+        "Un profil care pretinde că e altcineva",
+        "Un cont care nu funcționează",
+        "Un cont de mate",
+        "O minciună la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'phishing'?",
+      "options": [
+        "O metodă de a fura date prin mesaje false",
+        "O partidă de pescuit",
+        "Un tip de pește digital",
+        "Un joc de noroc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să dăm parola noastră prietenilor pe net?",
+      "options": [
+        "Nu, niciodată",
+        "Da, sunt prieteni",
+        "Doar dacă ne roagă",
+        "Doar dacă avem aceleași jocuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'reclamă înșelătoare'?",
+      "options": [
+        "O reclamă care promite ceva ce nu e adevărat",
+        "O reclamă frumoasă",
+        "O poză cu o mașină",
+        "O știre de la televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se salvează de obicei fișierele descărcate?",
+      "options": [
+        "În folderul Descărcări (Downloads)",
+        "În coșul de gunoi",
+        "Sub masă",
+        "În monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă un site ne cere numărul de telefon ca să descărcăm ceva?",
+      "options": [
+        "Nu îl dăm și ieșim de pe site",
+        "Îl dăm imediat",
+        "Dăm numărul bunicii",
+        "Dăm un număr la întâmplare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o extensie de fișier periculoasă?",
+      "options": [
+        ".exe (poate fi un program rău)",
+        ".txt",
+        ".jpg",
+        ".mp3"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Antivirusul trebuie actualizat?",
+      "options": [
+        "Da, ca să știe de noii viruși",
+        "Nu, e bun așa",
+        "Doar o dată pe an",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'update' (actualizare)?",
+      "options": [
+        "O versiune mai nouă și mai sigură",
+        "O eroare",
+        "O ștergere",
+        "O poză nouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem descărca viruși de pe tablete?",
+      "options": [
+        "Da, și pe tablete și telefoane",
+        "Nu, doar pe calculator",
+        "Doar pe laptop",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'pop-up' publicitar?",
+      "options": [
+        "O fereastră care ne poate duce pe site-uri rele",
+        "O jucărie",
+        "Un suc acidulat",
+        "Un prieten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum știm dacă un fișier s-a descărcat complet?",
+      "options": [
+        "Vedem bara de progres sau mesajul 'finalizat'",
+        "Batem în monitor",
+        "Ascultăm sunetul",
+        "Nu putem ști"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'firewall'?",
+      "options": [
+        "Un zid de protecție digital",
+        "Un zid de cărămidă",
+        "Un incendiu",
+        "O ușă de lemn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anula o descărcare în curs?",
+      "options": [
+        "Da, oricând",
+        "Nu, trebuie să se termine",
+        "Doar dacă oprim netul",
+        "Doar dacă plânge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este sigur să folosim Wi-Fi public fără protecție?",
+      "options": [
+        "Nu, cineva ne poate fura datele",
+        "Da, e internet gratis",
+        "Doar dacă e rapid",
+        "Doar în parc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă am descărcat ceva din greșeală?",
+      "options": [
+        "Ștergem imediat fișierul",
+        "Îl deschidem",
+        "Îl lăsăm acolo",
+        "Îl trimitem la toți colegii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: virus",
+      "answer": "virus"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: protecție",
+      "answer": "protecție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: siguranță",
+      "answer": "siguranță"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvare",
+      "answer": "salvare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sursă",
+      "answer": "sursă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: încredere",
+      "answer": "încredere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fișier",
+      "answer": "fișier"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: instalare",
+      "answer": "instalare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: avertisment",
+      "answer": "avertisment"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: părinte",
+      "answer": "părinte"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Függvények Scratch",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a saját blokk (függvény) lényege?",
+        "options": [
+          "Kódrészletek újrahasznosítása",
+          "Új szín a blokkoknak",
+          "Hardver vezérlés",
+          "Játék mentése"
+        ],
+        "answer": "Kódrészletek újrahasznosítása"
+      },
+      {
+        "question": "Hol hozhatunk létre saját blokkot?",
+        "options": [
+          "Saját blokkok kategória",
+          "Változók",
+          "Események",
+          "Mozgás"
+        ],
+        "answer": "Saját blokkok kategória"
+      },
+      {
+        "question": "Mit jelent a 'Blokk definiálása'?",
+        "options": [
+          "Megadjuk, mit csináljon a blokk",
+          "Eldobjuk a blokkot",
+          "Színezzük",
+          "Átnevezzük"
+        ],
+        "answer": "Megadjuk, mit csináljon a blokk"
+      },
+      {
+        "question": "Mi az a 'bemeneti adat' (paraméter)?",
+        "options": [
+          "Információ, amit átadunk a blokknak",
+          "A billentyűzet",
+          "A monitor",
+          "A hangszóró"
+        ],
+        "answer": "Információ, amit átadunk a blokknak"
+      },
+      {
+        "question": "Hogyan adhatunk bemenetet egy saját blokkhoz?",
+        "options": [
+          "A definíció szerkesztésekor",
+          "Később beleírjuk",
+          "Nem lehet",
+          "Hanggal"
+        ],
+        "answer": "A definíció szerkesztésekor"
+      },
+      {
+        "question": "Mire jó a saját blokk?",
+        "options": [
+          "Átláthatóbbá teszi a kódot",
+          "Bonyolítja a kódot",
+          "Lassítja a gépet",
+          "Szépíti a monitort"
+        ],
+        "answer": "Átláthatóbbá teszi a kódot"
+      },
+      {
+        "question": "Hogyan futtathatunk le egy saját blokkot?",
+        "options": [
+          "Behúzzuk a nevét egy szkriptbe",
+          "Rákattintunk duplán",
+          "Várunk",
+          "Megnyomjuk az Esc-et"
+        ],
+        "answer": "Behúzzuk a nevét egy szkriptbe"
+      },
+      {
+        "question": "Mit jelent a 'Frissítés nélkül' opció?",
+        "options": [
+          "A kód nagyon gyorsan, képfrissítés nélkül fut le",
+          "Nem változik a kép",
+          "Törlődik a gép",
+          "Semmit"
+        ],
+        "answer": "A kód nagyon gyorsan, képfrissítés nélkül fut le"
+      },
+      {
+        "question": "Hány bemenete lehet egy saját blokknak?",
+        "options": [
+          "Bármennyi",
+          "Csak egy",
+          "Pontosan nulla",
+          "Max tíz"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Milyen típusú bemenetek lehetnek?",
+        "options": [
+          "Szám, szöveg vagy logikai",
+          "Csak szín",
+          "Csak hang",
+          "Csak kép"
+        ],
+        "answer": "Szám, szöveg vagy logikai"
+      },
+      {
+        "question": "Lehet-e egy saját blokkon belül egy másik saját blokkot hívni?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha egyformák",
+          "Csak ha messze vannak"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi történik, ha töröljük a definíciót?",
+        "options": [
+          "A blokk hívásai nem fognak működni",
+          "Minden rendben marad",
+          "A gép kikapcsol",
+          "A Sprite eltűnik"
+        ],
+        "answer": "A blokk hívásai nem fognak működni"
+      },
+      {
+        "question": "Milyen színűek a saját blokkok?",
+        "options": [
+          "Rózsaszín/Mályva",
+          "Zöld",
+          "Kék",
+          "Sárga"
+        ],
+        "answer": "Rózsaszín/Mályva"
+      },
+      {
+        "question": "Lehet-e a saját blokknak visszatérési értéke a Scratch-ben?",
+        "options": [
+          "Közvetlenül nem, de változóval megoldható",
+          "Igen",
+          "Csak ha kérjük",
+          "Csak szám"
+        ],
+        "answer": "Közvetlenül nem, de változóval megoldható"
+      },
+      {
+        "question": "Hogyan nevezzük el a saját blokkot?",
+        "options": [
+          "Bármilyen beszédes nevet adhatunk",
+          "Csak számot",
+          "Csak 'blokk1' lehet",
+          "Csak angolul"
+        ],
+        "answer": "Bármilyen beszédes nevet adhatunk"
+      },
+      {
+        "question": "Mi az az 'absztrakció'?",
+        "options": [
+          "A részletek elrejtése és lényeg kiemelése",
+          "Egy festészeti stílus",
+          "A kód törlése",
+          "A monitor tisztítása"
+        ],
+        "answer": "A részletek elrejtése és lényeg kiemelése"
+      },
+      {
+        "question": "Miért jó, ha nem kell ugyanazt a kódot többször leírni?",
+        "options": [
+          "Kevesebb a hiba és könnyebb módosítani",
+          "Több időnk marad",
+          "Szebb a gép",
+          "Nincs előnye"
+        ],
+        "answer": "Kevesebb a hiba és könnyebb módosítani"
+      },
+      {
+        "question": "Milyen blokkal rajzolnánk sok négyzetet?",
+        "options": [
+          "Egy 'négyzet' saját blokkal",
+          "Mozgás blokkokkal egyesével",
+          "Várakozással",
+          "Hang blokkal"
+        ],
+        "answer": "Egy 'négyzet' saját blokkal"
+      },
+      {
+        "question": "Hol látszik a saját blokk definíciója?",
+        "options": [
+          "A kód területen egy nagy blokként",
+          "A menüben",
+          "A kukában",
+          "A felhőben"
+        ],
+        "answer": "A kód területen egy nagy blokként"
+      },
+      {
+        "question": "Hogyan lehet szerkeszteni egy saját blokkot?",
+        "options": [
+          "Jobb gomb -> Szerkesztés a definíción",
+          "Újra kell írni",
+          "Meg kell ütni",
+          "Nem lehet"
+        ],
+        "answer": "Jobb gomb -> Szerkesztés a definíción"
+      },
+      {
+        "question": "Mit csinál a saját blokk a 'hátizsákban'?",
+        "options": [
+          "Átvihető másik projektbe",
+          "Ott lakik",
+          "Törlődik",
+          "Hangot ad"
+        ],
+        "answer": "Átvihető másik projektbe"
+      },
+      {
+        "question": "Használhatja-e egy Sprite a másik Sprite saját blokkját?",
+        "options": [
+          "Nem, a saját blokkok helyiek",
+          "Igen",
+          "Csak ha ikrek",
+          "Csak ha megengedjük"
+        ],
+        "answer": "Nem, a saját blokkok helyiek"
+      },
+      {
+        "question": "Mi az a 'rekurzió' (haladóknak)?",
+        "options": [
+          "Amikor egy blokk önmagát hívja",
+          "Amikor megáll a gép",
+          "Amikor elfogy az áram",
+          "Egy tánc"
+        ],
+        "answer": "Amikor egy blokk önmagát hívja"
+      },
+      {
+        "question": "Melyik blokkal tudunk ugrani saját blokkban?",
+        "options": [
+          "Nincs ilyen, a definíció sorrendje számít",
+          "Ugrás blokk",
+          "Repülés blokk",
+          "Teleport"
+        ],
+        "answer": "Nincs ilyen, a definíció sorrendje számít"
+      },
+      {
+        "question": "Mi a legnagyobb előnye a paramétereknek?",
+        "options": [
+          "Változatosabbá teszik a blokk működését",
+          "Színesebbek lesznek",
+          "Nagyobb lesz a fájl",
+          "Semmi"
+        ],
+        "answer": "Változatosabbá teszik a blokk működését"
+      }
+    ],
+    "typing": [
+      "blokk",
+      "függvény",
+      "definíció",
+      "bemenet",
+      "adat",
+      "paraméter",
+      "hívás",
+      "frissítés",
+      "szerkesztés",
+      "rendszer"
+    ]
+  }
+}

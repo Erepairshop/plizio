@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Condiții și Evenimente",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un 'eveniment' în Scratch?",
+      "options": [
+        "Ceva ce se întâmplă pentru a porni codul",
+        "O petrecere",
+        "O eroare",
+        "O zi de naștere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai folosit bloc de eveniment?",
+      "options": [
+        "When green flag clicked",
+        "When I sleep",
+        "When it rains",
+        "When I shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'condiție' (if)?",
+      "options": [
+        "O verificare: dacă ceva e adevărat, fă ceva",
+        "O stare de sănătate",
+        "O regulă de mate",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'if then else'?",
+      "options": [
+        "Face un lucru dacă e adevărat, altul dacă e fals",
+        "Oprește totul",
+        "Repetă mereu",
+        "Nu face nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim blocurile de 'Sensing' (Detectare)?",
+      "options": [
+        "În categoria bleu/turcoaz",
+        "În cea roșie",
+        "În cea galbenă",
+        "În buzunar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'touching mouse pointer'?",
+      "options": [
+        "Verifică dacă personajul atinge mouse-ul",
+        "Verifică dacă mouse-ul e stricat",
+        "Mănâncă mouse-ul",
+        "Cântă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'key space pressed'?",
+      "options": [
+        "Verifică dacă tasta Space e apăsată",
+        "Verifică dacă tastatura e murdară",
+        "Trimite un mesaj în spațiu",
+        "Oprește nava"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem porni codul apăsând pe un personaj?",
+      "options": [
+        "Da, cu 'When this sprite clicked'",
+        "Nu, doar cu steagul",
+        "Doar dacă e pisică",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Broadcasting' (difuzare)?",
+      "options": [
+        "Trimiterea unui mesaj secret între personaje",
+        "Vizionarea la TV",
+        "Un zgomot tare",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce bloc primește un mesaj trimis?",
+      "options": [
+        "When I receive [message]",
+        "When I send",
+        "When I talk",
+        "When I sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă au blocurile de condiție (adevărat/fals)?",
+      "options": [
+        "Hexagon ascuțit",
+        "Cerc",
+        "Pătrat",
+        "Triunghi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem verifica dacă un personaj atinge o culoare?",
+      "options": [
+        "Da, cu 'touching color'",
+        "Nu, culorile nu se simt",
+        "Doar dacă e alb",
+        "Doar dacă e negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'if on edge, bounce'?",
+      "options": [
+        "Dacă atinge marginea, ricoșează",
+        "Dacă e pe margine, plânge",
+        "Dacă e pe margine, cade",
+        "Nu înseamnă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Evenimentele pornesc singure?",
+      "options": [
+        "Nu, trebuie să se întâmple ceva (click, tastă etc.)",
+        "Da, oricând",
+        "Doar când vrea calculatorul",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi tastele săgeți pentru a mișca personajul?",
+      "options": [
+        "Da, folosind evenimentele de taste",
+        "Nu, e imposibil",
+        "Doar cu mouse-ul",
+        "Doar dacă avem joystick"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Wait until'?",
+      "options": [
+        "Așteaptă până când se întâmplă ceva",
+        "Așteaptă mereu",
+        "Nu aștepta",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Condițiile ne ajută să facem jocurile?",
+      "options": [
+        "Interactive și inteligente",
+        "Plictisitoare",
+        "Lungi",
+        "Inutile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem verifica dacă distanța la mouse e mică?",
+      "options": [
+        "Da, cu blocul 'distance to'",
+        "Nu",
+        "Doar cu rigla pe ecran",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Loudness' în Scratch?",
+      "options": [
+        "Detectarea volumului sunetului de la microfon",
+        "Un personaj gălăgios",
+        "O eroare de boxă",
+        "O culoare tare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Evenimentele pot opri codul?",
+      "options": [
+        "Nu, ele doar îl pornesc de obicei",
+        "Da, mereu",
+        "Doar dacă e eroare",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea un eveniment 'când se schimbă fundalul'?",
+      "options": [
+        "Da, 'When backdrop switches to'",
+        "Nu",
+        "Doar dacă îl schimbăm noi manual",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Condițiile se pun de obicei în interiorul unei bucle?",
+      "options": [
+        "Da, ca să fie verificate mereu",
+        "Nu, niciodată",
+        "Doar la început",
+        "Doar la final"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare au blocurile de evenimente?",
+      "options": [
+        "Galben",
+        "Albastru",
+        "Verde",
+        "Mov"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scratch are blocuri 'And' / 'Or'?",
+      "options": [
+        "Da, în categoria verde (Operatori)",
+        "Nu",
+        "Doar în engleză",
+        "Doar pentru avansați"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă codul nu pornește?",
+      "options": [
+        "Verificăm dacă evenimentul e cel corect",
+        "Lovit monitorul",
+        "Plângem",
+        "Închidem totul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: dacă",
+      "answer": "dacă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: atunci",
+      "answer": "atunci"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: detectare",
+      "answer": "detectare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: atingere",
+      "answer": "atingere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tastă",
+      "answer": "tastă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mesaj",
+      "answer": "mesaj"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: eveniment",
+      "answer": "eveniment"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: răspuns",
+      "answer": "răspuns"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: control",
+      "answer": "control"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: logică",
+      "answer": "logică"
+    }
+  ]
+}

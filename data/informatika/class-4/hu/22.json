@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Etikai kérdések",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi az informatika etika?",
+        "options": [
+          "Szabályok a helyes digitális viselkedésről",
+          "Hogyan kell szerelni a gépet",
+          "A kód színe",
+          "Játékszabályok"
+        ],
+        "answer": "Szabályok a helyes digitális viselkedésről"
+      },
+      {
+        "question": "Mi az a 'cyberbullying'?",
+        "options": [
+          "Internetes zaklatás",
+          "Számítógépes játék",
+          "Gyors gépelés",
+          "A net sebessége"
+        ],
+        "answer": "Internetes zaklatás"
+      },
+      {
+        "question": "Szabad-e más munkáját sajátunkként feltüntetni?",
+        "options": [
+          "Nem, ez plágium",
+          "Igen, ha tetszik",
+          "Igen, ha senki nem látja",
+          "Csak ha átírjuk a nevünket"
+        ],
+        "answer": "Nem, ez plágium"
+      },
+      {
+        "question": "Mit jelent a 'netikett'?",
+        "options": [
+          "Internetes illemszabályok",
+          "Egy kis háló",
+          "A net ára",
+          "Egy program"
+        ],
+        "answer": "Internetes illemszabályok"
+      },
+      {
+        "question": "Hogyan kell viselkedni egy online chaten?",
+        "options": [
+          "Udvariasan és tiszteletteljesen",
+          "Kiabálva",
+          "Bántóan",
+          "Sosem kell válaszolni"
+        ],
+        "answer": "Udvariasan és tiszteletteljesen"
+      },
+      {
+        "question": "Mi az a szerzői jog?",
+        "options": [
+          "Az alkotó joga a saját művéhez",
+          "A gép tulajdonjoga",
+          "A tanár joga",
+          "Nincs ilyen"
+        ],
+        "answer": "Az alkotó joga a saját művéhez"
+      },
+      {
+        "question": "Szabad-e engedély nélkül lementeni más képét és közzétenni?",
+        "options": [
+          "Általában nem, engedély kell hozzá",
+          "Igen, mindent szabad",
+          "Csak ha kicsi a kép",
+          "Csak ha fekete-fehér"
+        ],
+        "answer": "Általában nem, engedély kell hozzá"
+      },
+      {
+        "question": "Mit jelent a 'Creative Commons'?",
+        "options": [
+          "Szabadabb felhasználást engedő licenc",
+          "Egy titkos társaság",
+          "Egy fajta vírus",
+          "A gép neve"
+        ],
+        "answer": "Szabadabb felhasználást engedő licenc"
+      },
+      {
+        "question": "Mit tegyünk, if látjuk, hogy valakit bántanak a neten?",
+        "options": [
+          "Álljunk mellé és szóljunk felnőttnek",
+          "Nézzük végig",
+          "Csatlakozzunk a bántókhoz",
+          "Nevessünk rajta"
+        ],
+        "answer": "Álljunk mellé és szóljunk felnőttnek"
+      },
+      {
+        "question": "Miért nem jó csupa nagybetűvel írni (CAPS LOCK)?",
+        "options": [
+          "Mert kiabálásnak tűnik",
+          "Mert nehéz elolvasni",
+          "Mert lassabb",
+          "Mert elromlik a billentyűzet"
+        ],
+        "answer": "Mert kiabálásnak tűnik"
+      },
+      {
+        "question": "Mit jelent a 'fake profile' (álprofil)?",
+        "options": [
+          "Valaki másnak adja ki magát a neten",
+          "Egy szép profil",
+          "Egy új profil",
+          "Nincs ilyen"
+        ],
+        "answer": "Valaki másnak adja ki magát a neten"
+      },
+      {
+        "question": "Mi az a digitális egyenlőtlenség?",
+        "options": [
+          "Nem mindenkinek van egyforma esélye a technológiához",
+          "Rossz matek",
+          "Különböző gépek",
+          "Sok kábel"
+        ],
+        "answer": "Nem mindenkinek van egyforma esélye a technológiához"
+      },
+      {
+        "question": "Miért fontos a képernyőidő korlátozása?",
+        "options": [
+          "Az egészségünk és a pihenés miatt",
+          "Mert drága az áram",
+          "Hogy ne kopjon a gép",
+          "Mert a szülők így akarják"
+        ],
+        "answer": "Az egészségünk és a pihenés miatt"
+      },
+      {
+        "question": "Szabad-e bárkit lefotózni és feltenni a netre engedély nélkül?",
+        "options": [
+          "Nem",
+          "Igen, bárkit",
+          "Csak the barátainkat",
+          "Csak ha vicces"
+        ],
+        "answer": "Nem"
+      },
+      {
+        "question": "Mit jelent a 'tisztességes használat' (fair use)?",
+        "options": [
+          "Szerzői jogi védelem alatti művek korlátozott használata",
+          "A gép tisztítása",
+          "Ingyen szoftver",
+          "Jó játék"
+        ],
+        "answer": "Szerzői jogi védelem alatti művek korlátozott használata"
+      },
+      {
+        "question": "Mi az a szoftverkalózkodás?",
+        "options": [
+          "Fizetős programok illegális másolása",
+          "Hajózós játék",
+          "A gép elrontása",
+          "Rossz kódolás"
+        ],
+        "answer": "Fizetős programok illegális másolása"
+      },
+      {
+        "question": "Miért fontos a forrásmegjelölés?",
+        "options": [
+          "Hogy elismerjük az alkotó munkáját",
+          "Hogy hosszabb legyen a szöveg",
+          "Hogy okosabbnak tűnjünk",
+          "Nem fontos"
+        ],
+        "answer": "Hogy elismerjük az alkotó munkáját"
+      },
+      {
+        "question": "Mit jelent az 'empátia' az online térben?",
+        "options": [
+          "Beleéljük magunkat mások helyzetébe",
+          "Gyors gépelés",
+          "Képnézegetés",
+          "Vezetéknév"
+        ],
+        "answer": "Beleéljük magunkat mások helyzetébe"
+      },
+      {
+        "question": "Mire való a 'jelentés' (report) gomb?",
+        "options": [
+          "Szabálytalanság vagy bántás jelzésére",
+          "A tanárnak levél",
+          "Játék indítás",
+          "Törlés"
+        ],
+        "answer": "Szabálytalanság vagy bántás jelzésére"
+      },
+      {
+        "question": "Miért ne osszunk meg álhíreket?",
+        "options": [
+          "Mert félrevezetünk másokat",
+          "Mert lassú lesz a net",
+          "Mert büntetést kapunk a géptől",
+          "Semmiért"
+        ],
+        "answer": "Mert félrevezetünk másokat"
+      },
+      {
+        "question": "Mit jelent a 'médiatudatosság'?",
+        "options": [
+          "Kritikusan és okosan használjuk a médiát",
+          "Sok TV nézés",
+          "Sok újságolvasás",
+          "A gép ismerete"
+        ],
+        "answer": "Kritikusan és okosan használjuk a médiát"
+      },
+      {
+        "question": "Szabad-e feltörni más fiókját 'viccből'?",
+        "options": [
+          "Nem, ez bűncselekmény és bántó",
+          "Igen, ha vicces",
+          "Csak ha gyenge a jelszó",
+          "Csak ha megengedik"
+        ],
+        "answer": "Nem, ez bűncselekmény és bántó"
+      },
+      {
+        "question": "Mit jelent az online identitás?",
+        "options": [
+          "Akik vagyunk a digitális világban",
+          "A jelszavunk",
+          "A gép neve",
+          "A képünk"
+        ],
+        "answer": "Akik vagyunk a digitális világban"
+      },
+      {
+        "question": "Hogyan védhetjük a digitális hírnevünket?",
+        "options": [
+          "Gondoljuk át, mit posztolunk",
+          "Sehogy",
+          "Töröljünk mindent",
+          "Sok képet tegyünk fel"
+        ],
+        "answer": "Gondoljuk át, mit posztolunk"
+      },
+      {
+        "question": "Mi a legfontosabb szabály a neten?",
+        "options": [
+          "Ne tegyél olyat, amit élőben sem tennél",
+          "Légy a leggyorsabb",
+          "Nyerj meg minden játékot",
+          "Legyen sok barátod"
+        ],
+        "answer": "Ne tegyél olyat, amit élőben sem tennél"
+      }
+    ],
+    "typing": [
+      "etika",
+      "szabály",
+      "tisztelet",
+      "zaklatás",
+      "segítség",
+      "igazság",
+      "alkotás",
+      "forrás",
+      "viselkedés",
+      "közösség"
+    ]
+  }
+}

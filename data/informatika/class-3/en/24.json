@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online Search Engine",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a Search Engine?",
+      "options": [
+        "A website that helps you find information",
+        "A motor for a computer",
+        "A type of car",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a search engine?",
+      "options": [
+        "Google",
+        "Facebook",
+        "Netflix",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do you type to find something?",
+      "options": [
+        "Keywords",
+        "A whole book",
+        "Nothing",
+        "Your name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Keywords'?",
+      "options": [
+        "The most important words about your topic",
+        "Keys for your house",
+        "Words that are locked",
+        "A type of candy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Search Result'?",
+      "options": [
+        "The list of websites the engine finds for you",
+        "The answer to a math problem",
+        "A type of prize",
+        "A hidden secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you type your search?",
+      "options": [
+        "In the search box",
+        "On the monitor frame",
+        "On the keyboard",
+        "In the trash bin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Google'?",
+      "options": [
+        "The most popular search engine",
+        "A type of glasses",
+        "A number with 100 zeros",
+        "A funny sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bing'?",
+      "options": [
+        "A search engine by Microsoft",
+        "A loud noise",
+        "A type of fruit",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'DuckDuckGo'?",
+      "options": [
+        "A search engine that focuses on privacy",
+        "A game with ducks",
+        "A type of food",
+        "A fast car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'SERP' stand for?",
+      "options": [
+        "Search Engine Results Page",
+        "Super Easy Robot Program",
+        "Small Electronic Radio Part",
+        "Secret Every Robot Plays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you find exactly 'cute cats' (together)?",
+      "options": [
+        "Use quotation marks: \"cute cats\"",
+        "Type them in red",
+        "Shout them",
+        "Use a plus sign"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Ads' or 'Sponsored' mean in results?",
+      "options": [
+        "Someone paid to show their website first",
+        "The best websites",
+        "Secret websites",
+        "Fake websites"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search for news?",
+      "options": [
+        "Yes, using the News tab",
+        "No, only in newspapers",
+        "Only if it's old news",
+        "Only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search for maps?",
+      "options": [
+        "Yes, using the Maps tab",
+        "No, use a paper map",
+        "Only for your city",
+        "Only in the car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Autocomplete'?",
+      "options": [
+        "The engine suggesting words as you type",
+        "A car that drives itself",
+        "A fast way to finish school",
+        "A type of pencil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why might you get zero results?",
+      "options": [
+        "Your keywords are too specific or spelled wrong",
+        "The internet is empty",
+        "The computer is tired",
+        "You are too fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is everything on the internet true?",
+      "options": [
+        "No, anyone can post anything",
+        "Yes, the computer checks it",
+        "Only if it's on Google",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you check if a site is reliable?",
+      "options": [
+        "Check the author, date, and other sources",
+        "If it has pretty colors",
+        "If it's the first result",
+        "If it has many ads"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Web Crawler'?",
+      "options": [
+        "A bot that visits pages to index them",
+        "A spider on the monitor",
+        "A person who likes the web",
+        "A slow browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Indexing'?",
+      "options": [
+        "Organizing websites so they can be searched",
+        "Wearing a ring",
+        "Making a list",
+        "Pointing with a finger"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search by voice?",
+      "options": [
+        "Yes, by clicking the microphone icon",
+        "No, only typing",
+        "Only if you sing",
+        "Only on phones"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Snippet'?",
+      "options": [
+        "A small description of a site in the results",
+        "A piece of paper",
+        "A type of dog",
+        "A fast cut"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'I'm Feeling Lucky' button do?",
+      "options": [
+        "Takes you directly to the first result",
+        "Gives you money",
+        "Wins a game",
+        "Changes the background"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you filter search results by time?",
+      "options": [
+        "Yes, to see only new things",
+        "No, time doesn't matter",
+        "Only for history",
+        "Only in the morning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you find something scary while searching?",
+      "options": [
+        "Tell a trusted adult",
+        "Close your eyes",
+        "Show it to everyone",
+        "Delete the browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    }
+  ]
+}

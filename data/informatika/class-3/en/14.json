@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Presentation",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is presentation software used for?",
+      "options": [
+        "Creating slide shows to present ideas",
+        "Writing long books",
+        "Managing money",
+        "Playing games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a presentation app?",
+      "options": [
+        "Google Slides",
+        "Google Docs",
+        "Google Sheets",
+        "Google Maps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Slide'?",
+      "options": [
+        "A single page in a presentation",
+        "A playground toy",
+        "Moving sideways",
+        "A piece of glass"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Theme'?",
+      "options": [
+        "A consistent look and color for all slides",
+        "A song",
+        "A type of party",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you move from one slide to another?",
+      "options": [
+        "Transitions",
+        "Walking",
+        "Running",
+        "Jumping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Animation'?",
+      "options": [
+        "Making objects on a slide move",
+        "A cartoon movie",
+        "A type of animal",
+        "A fast car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you type text on a slide?",
+      "options": [
+        "In a text box",
+        "On the monitor frame",
+        "In the air",
+        "Under the slide"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Layout'?",
+      "options": [
+        "The arrangement of text and images on a slide",
+        "Lying down",
+        "A type of food",
+        "A map"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Presenter View'?",
+      "options": [
+        "A view that shows notes for the speaker",
+        "A view for the audience",
+        "Looking at the mirror",
+        "A view for birds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you add videos to a presentation?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they are short",
+        "Only if they are silent"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you start the slideshow?",
+      "options": [
+        "Click the 'Present' button",
+        "Shout 'Go!'",
+        "Close the laptop",
+        "Wait for it to start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Slide Sorter' or 'Filmstrip'?",
+      "options": [
+        "A view that shows all slides as small images",
+        "A tool for sorting real photos",
+        "A type of movie",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you collaborate on Google Slides?",
+      "options": [
+        "Yes, multiple people can edit at once",
+        "No, only one person",
+        "Only if they are in the same room",
+        "Only if you pay"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Speaker Note'?",
+      "options": [
+        "Private notes for the person presenting",
+        "A musical note",
+        "A note from a speaker (hardware)",
+        "A loud shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should a good presentation have?",
+      "options": [
+        "Clear text and nice images",
+        "Too many words and no pictures",
+        "Only dark colors",
+        "Dancing cats only"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the background of a slide?",
+      "options": [
+        "Yes, to a color or an image",
+        "No, it's always white",
+        "Only on the first slide",
+        "Only if you have a brush"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bullet point' used for in slides?",
+      "options": [
+        "To list points clearly and briefly",
+        "To shoot at things",
+        "To draw circles",
+        "To waste space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What icon is usually used for 'Insert Image'?",
+      "options": [
+        "A mountain or a picture frame",
+        "A sun",
+        "A car",
+        "A smiley face"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you print a presentation?",
+      "options": [
+        "Yes, as slides or handouts",
+        "No, only on screen",
+        "Only if you take a photo",
+        "Only in color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Auto-advance'?",
+      "options": [
+        "Slides changing by themselves after a set time",
+        "A fast car",
+        "A type of gear",
+        "Moving forward automatically"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you use images in a presentation?",
+      "options": [
+        "To help explain things and make it interesting",
+        "To take up space",
+        "To hide the text",
+        "Because it's a rule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Text Box'?",
+      "options": [
+        "A container for typing text on a slide",
+        "A box full of books",
+        "A type of phone",
+        "A secret compartment"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Hyperlink' in a slide?",
+      "options": [
+        "A link that goes to a website or another slide",
+        "A very fast link",
+        "A superhero",
+        "A type of cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a slide?",
+      "options": [
+        "Right-click it and select 'Delete'",
+        "Throw the computer away",
+        "Draw an X on the screen",
+        "Type 'Goodbye'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best way to end a presentation?",
+      "options": [
+        "A 'Thank You' or 'Questions' slide",
+        "Turning off the computer",
+        "Running out of the room",
+        "Deleting all slides"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: game",
+      "answer": "game"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: learn",
+      "answer": "learn"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: school",
+      "answer": "school"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: project",
+      "answer": "project"
+    }
+  ]
+}

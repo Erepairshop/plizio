@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Pagina Web",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o pagină web?",
+      "options": [
+        "Un document electronic pe internet",
+        "O pagină dintr-o carte reală",
+        "O foaie de desen",
+        "Un tablou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce limbaj se folosește pentru a crea pagini web?",
+      "options": [
+        "HTML",
+        "Română",
+        "Engleză",
+        "Mate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește prima pagină a unui site?",
+      "options": [
+        "Home page (Pagina principală)",
+        "Final page",
+        "Last page",
+        "Game page"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce găsim pe o pagină web?",
+      "options": [
+        "Text, imagini, clipuri",
+        "Doar litere",
+        "Doar numere",
+        "Mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un meniu de navigare?",
+      "options": [
+        "O listă de linkuri către alte pagini",
+        "O listă de mâncare",
+        "Un joc cu bile",
+        "O poză cu pisici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem pentru a vedea partea de jos a paginii?",
+      "options": [
+        "Scroll (derulăm)",
+        "Închidem ochii",
+        "Cumpărăm alt monitor",
+        "Sufli în mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'header'?",
+      "options": [
+        "Partea de sus a paginii",
+        "Partea de jos",
+        "O minge de fotbal",
+        "Un titlu de carte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'footer'?",
+      "options": [
+        "Partea de jos a paginii",
+        "O șosetă",
+        "Partea de sus",
+        "Un buton de pornire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă când dăm click pe un logo?",
+      "options": [
+        "Ne duce de obicei la pagina principală",
+        "Se închide calculatorul",
+        "Se șterge tot",
+        "Începe un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un formular web?",
+      "options": [
+        "Un loc unde completăm date",
+        "O formă geometrică",
+        "O prăjitură",
+        "O regulă de mate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Paginile web pot avea culori diferite?",
+      "options": [
+        "Da",
+        "Nu, sunt doar albe",
+        "Sunt doar negre",
+        "Sunt invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o pictogramă (icon)?",
+      "options": [
+        "Un simbol grafic mic",
+        "O ramă de tablou",
+        "O tastă mare",
+        "O baterie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Refresh'?",
+      "options": [
+        "Reîncarcă pagina",
+        "Închide browserul",
+        "Șterge istoricul",
+        "Schimbă muzica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde scriem adresa site-ului?",
+      "options": [
+        "În bara de adrese",
+        "Pe ecran direct",
+        "Pe tastatură cu pixul",
+        "În coșul de gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă URL?",
+      "options": [
+        "Adresa unică a unei pagini",
+        "Un tip de suc",
+        "Un nume de robot",
+        "O prescurtare de la joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Paginile web pot fi citite pe telefon?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă e telefon cu butoane",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'banner'?",
+      "options": [
+        "O imagine mare, de obicei cu reclame",
+        "Un steag adevărat",
+        "Un tip de banană",
+        "Un buton mic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este conținutul unei pagini?",
+      "options": [
+        "Informația de pe ea",
+        "Aerul din interior",
+        "Cablurile din spate",
+        "Greutatea paginii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un buton 'Submit'?",
+      "options": [
+        "Trimite informațiile din formular",
+        "Închide pagina",
+        "Deschide un joc",
+        "Cântă la pian"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot paginile web să aibă sunete?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă batem din palme",
+        "Nu există așa ceva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'pop-up'?",
+      "options": [
+        "O fereastră care apare brusc",
+        "O jucărie cu arc",
+        "Un tip de popcorn",
+        "Un sunet de tobă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'sidebar'?",
+      "options": [
+        "O bară laterală cu informații",
+        "O bară de ciocolată",
+        "O bară de gimnastică",
+        "O masă lungă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Paginile web sunt făcute de oameni?",
+      "options": [
+        "Da, de programatori",
+        "Nu, apar singure",
+        "Sunt făcute de natură",
+        "Sunt făcute de extratereștri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă un site securizat?",
+      "options": [
+        "Informația este protejată (lacăt în bară)",
+        "Este păzit de soldați",
+        "Nu se poate deschide",
+        "Este într-un seif"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește textul care subliniază un link?",
+      "options": [
+        "Anchor text",
+        "Paper text",
+        "Heavy text",
+        "Blue text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pagină",
+      "answer": "pagină"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: link",
+      "answer": "link"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scroll",
+      "answer": "scroll"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bară",
+      "answer": "bară"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pictogramă",
+      "answer": "pictogramă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: meniu",
+      "answer": "meniu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: acasă",
+      "answer": "acasă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: conținut",
+      "answer": "conținut"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: navigare",
+      "answer": "navigare"
+    }
+  ]
+}

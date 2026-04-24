@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Tabele (Google Sheets)",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este Google Sheets?",
+      "options": [
+        "Un program pentru tabele și calcule",
+        "O aplicație de muzică",
+        "Un pat pentru foi",
+        "Un joc cu bile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Din ce este format un tabel?",
+      "options": [
+        "Rânduri și coloane",
+        "Litere și cercuri",
+        "Triunghiuri",
+        "Cabluri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește un singur dreptunghi din tabel?",
+      "options": [
+        "Celulă",
+        "Cameră",
+        "Cutie",
+        "Pătrat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Coloanele sunt notate cu?",
+      "options": [
+        "Litere (A, B, C...)",
+        "Cifre (1, 2, 3...)",
+        "Culori",
+        "Nume de animale"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Rândurile sunt notate cu?",
+      "options": [
+        "Cifre (1, 2, 3...)",
+        "Litere",
+        "Forme",
+        "Puncte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește celula de la coloana A și rândul 1?",
+      "options": [
+        "A1",
+        "1A",
+        "Prima",
+        "Start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face calcule matematice în tabel?",
+      "options": [
+        "Da, automat",
+        "Nu, trebuie calculator separat",
+        "Doar adunări",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce semn începe o formulă de calcul?",
+      "options": [
+        "=",
+        "+",
+        "*",
+        "#"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face grafice/diagrame din date?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar prin desen manual",
+        "Doar dacă avem culori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea unei celule?",
+      "options": [
+        "Da (Fill color)",
+        "Nu, sunt toate albe",
+        "Doar negru",
+        "Doar cu pixul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Merge cells'?",
+      "options": [
+        "Unește două sau mai multe celule",
+        "Șterge celulele",
+        "Le face mai mici",
+        "Le face să dispară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune imagini în celule?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt rotunde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția 'SUM'?",
+      "options": [
+        "Adună numerele",
+        "Le scade",
+        "Le înmulțește",
+        "Le șterge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem sorta datele (ex. alfabetic)?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar pe rând",
+        "Doar manual"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tabelele Google Sheets se salvează singure?",
+      "options": [
+        "Da, în cloud",
+        "Nu, trebuie să apăsăm Save",
+        "Doar dacă avem baterie",
+        "Uneori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea mai multe foi (sheets) în același fișier?",
+      "options": [
+        "Da, jos în stânga",
+        "Nu, doar una",
+        "Doar dacă avem ecran mare",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Filter'?",
+      "options": [
+        "Arată doar datele care ne interesează",
+        "Un ceai digital",
+        "O eroare de net",
+        "O mască de protecție"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba lățimea unei coloane?",
+      "options": [
+        "Da, trăgând de marginea ei",
+        "Nu, e fixă",
+        "Doar dacă scriem mult",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune text îngroșat în tabele?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă avem voie",
+        "Doar titlurile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tabelele sunt utile pentru?",
+      "options": [
+        "Organizarea datelor și calcule",
+        "Scrierea de povești lungi",
+        "Desenat portrete",
+        "Jocuri cu mașini"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem invita colegi să editeze tabelul?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar profesorul",
+        "Doar părinții"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'funcție' în Sheets?",
+      "options": [
+        "O formulă specială predefinită",
+        "O petrecere",
+        "O piesă de robot",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește bara unde scriem formula?",
+      "options": [
+        "Formula bar",
+        "Space bar",
+        "Candy bar",
+        "Menu bar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem printa doar o parte din tabel?",
+      "options": [
+        "Da, selectăm ce vrem",
+        "Nu, se printează tot mereu",
+        "Nu putem printa tabele",
+        "Doar dacă e mic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este Google Sheets la fel ca Excel?",
+      "options": [
+        "Da, fac același lucru, dar de la firme diferite",
+        "Nu, nicio legătură",
+        "Excel e doar pentru poze",
+        "Sheets e doar pentru copii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tabel",
+      "answer": "tabel"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: celulă",
+      "answer": "celulă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: coloană",
+      "answer": "coloană"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rând",
+      "answer": "rând"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: date",
+      "answer": "date"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: funcție",
+      "answer": "funcție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: calcul",
+      "answer": "calcul"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: diagramă",
+      "answer": "diagramă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: valoare",
+      "answer": "valoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: grilă",
+      "answer": "grilă"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Image Editing",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is image editing?",
+      "options": [
+        "Changing or improving a digital photo",
+        "Taking a new photo",
+        "Printing a photo",
+        "Deleting a photo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Crop' do?",
+      "options": [
+        "Removes unwanted outer parts of an image",
+        "Makes the image grow",
+        "Changes the colors",
+        "Prints the image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Brightness'?",
+      "options": [
+        "How light or dark the image is",
+        "How smart the image is",
+        "How big the image is",
+        "The color blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Contrast'?",
+      "options": [
+        "The difference between light and dark parts",
+        "An opposite idea",
+        "A type of paint",
+        "A small image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Saturation' control?",
+      "options": [
+        "The intensity or vividness of colors",
+        "How wet the image is",
+        "How many pixels there are",
+        "The speed of editing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Filter' in image editing?",
+      "options": [
+        "A preset effect that changes the look (like Sepia)",
+        "A screen cleaner",
+        "A coffee tool",
+        "Something to hide images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Rotate' do?",
+      "options": [
+        "Turns the image (e.g., 90 degrees)",
+        "Moves the image",
+        "Deletes the image",
+        "Spins the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Resize'?",
+      "options": [
+        "Changing the dimensions (width/height) of an image",
+        "Changing the name",
+        "Changing the colors",
+        "Printing it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Pixel'?",
+      "options": [
+        "A tiny dot that makes up a digital image",
+        "A type of fairy",
+        "A computer button",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Red-eye removal' used for?",
+      "options": [
+        "Fixing glowing red eyes in flash photos",
+        "Making eyes red",
+        "Deleting eyes",
+        "A type of makeup"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Blur' do?",
+      "options": [
+        "Makes parts of the image less sharp",
+        "Makes the image clearer",
+        "Changes colors",
+        "Deletes pixels"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Sharpen' do?",
+      "options": [
+        "Enhances the edges to make it look clearer",
+        "Makes it like a knife",
+        "Changes the shape",
+        "Cuts the image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Layer' in editing?",
+      "options": [
+        "One part of an image that can be edited separately",
+        "A chicken's job",
+        "A blanket",
+        "A type of cake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Undo' shortcut?",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + X"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Transparency'?",
+      "options": [
+        "Being able to see through an image or layer",
+        "Being very honest",
+        "A type of glass",
+        "A invisible image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Caption'?",
+      "options": [
+        "Text added to describe an image",
+        "The leader of a ship",
+        "A type of hat",
+        "A secret message"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Flip' mean?",
+      "options": [
+        "Creating a mirror image",
+        "Jumping",
+        "Turning off",
+        "Deleting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Exposure'?",
+      "options": [
+        "The amount of light reaching the image",
+        "Being in the sun",
+        "Showing a secret",
+        "A type of film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'DPI'?",
+      "options": [
+        "Dots Per Inch (image quality for printing)",
+        "Dogs Per Island",
+        "Digital Photo Info",
+        "A type of screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you add text to a photo?",
+      "options": [
+        "Yes, using the text tool",
+        "No, never",
+        "Only if you write it on the monitor",
+        "Only with a pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Avatar'?",
+      "options": [
+        "A small image representing a person online",
+        "A big blue alien",
+        "A type of computer",
+        "A secret name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tool looks like a magnifying glass?",
+      "options": [
+        "Zoom Tool",
+        "Eraser",
+        "Brush",
+        "Bucket"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Blemish removal'?",
+      "options": [
+        "Removing small spots or mistakes from a photo",
+        "Deleting the whole photo",
+        "Changing the background",
+        "A type of soap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to edit a photo to lie about something?",
+      "options": [
+        "No, it's not ethical",
+        "Yes, it's fun",
+        "Only if it's a good lie",
+        "Only for friends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Vignette'?",
+      "options": [
+        "Darkening the edges of a photo",
+        "A type of salad dressing",
+        "A small car",
+        "A type of book"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    }
+  ]
+}

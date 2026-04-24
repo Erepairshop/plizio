@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Website",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a homepage?",
+      "options": [
+        "The main page of a site",
+        "A house for computers",
+        "A page about homes",
+        "A button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do you use to visit a website?",
+      "options": [
+        "A web browser",
+        "A toaster",
+        "A pencil",
+        "A bicycle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a URL?",
+      "options": [
+        "A website address",
+        "A type of car",
+        "A secret password",
+        "A computer game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you click a link?",
+      "options": [
+        "It takes you to another page",
+        "The computer explodes",
+        "It prints a paper",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you type a website address?",
+      "options": [
+        "In the address bar",
+        "On a piece of paper",
+        "On the monitor frame",
+        "In the trash bin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'http'?",
+      "options": [
+        "A protocol for the web",
+        "A funny sound",
+        "A type of fruit",
+        "A keyboard key"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part of a website is at the top?",
+      "options": [
+        "Header",
+        "Footer",
+        "Shoes",
+        "Hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part of a website is at the bottom?",
+      "options": [
+        "Footer",
+        "Header",
+        "Legs",
+        "Socks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are images on websites for?",
+      "options": [
+        "To show information or look nice",
+        "To slow down the computer",
+        "To hide the text",
+        "To eat cookies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can websites have videos?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Tuesdays",
+        "Only if it rains"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a menu on a website?",
+      "options": [
+        "A list of links to pages",
+        "A list of food to order",
+        "A secret code",
+        "A drawing tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Back' button do?",
+      "options": [
+        "Goes to the previous page",
+        "Turns the computer around",
+        "Deletes the site",
+        "Starts a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Refresh' button do?",
+      "options": [
+        "Reloads the page",
+        "Gives you a drink",
+        "Cleans the screen",
+        "Changes the color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which icon usually means 'Home'?",
+      "options": [
+        "A small house",
+        "A car",
+        "A star",
+        "A circle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the Internet the same as a Website?",
+      "options": [
+        "No, the Internet holds many websites",
+        "Yes, they are the same",
+        "Only on phones",
+        "Only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a hyperlink?",
+      "options": [
+        "A clickable link",
+        "A very fast link",
+        "A superhero",
+        "A type of cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you see the title of a page?",
+      "options": [
+        "In the browser tab",
+        "Under the table",
+        "On the mouse",
+        "In the power cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'scrolling'?",
+      "options": [
+        "Moving the page up or down",
+        "Rolling the computer",
+        "Drawing circles",
+        "Shouting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'search bar' on a website?",
+      "options": [
+        "A place to look for things on the site",
+        "A bar made of chocolate",
+        "A place to hide",
+        "A type of window"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you buy things on some websites?",
+      "options": [
+        "Yes, it's called e-commerce",
+        "No, never",
+        "Only with magic",
+        "Only if you are a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'web designer'?",
+      "options": [
+        "Someone who makes websites",
+        "Someone who catches spiders",
+        "A type of computer",
+        "A special pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'blog'?",
+      "options": [
+        "An online journal or diary",
+        "A heavy stone",
+        "A type of mistake",
+        "A sound computers make"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do websites have logos?",
+      "options": [
+        "To identify the site",
+        "To make it heavy",
+        "To hide the buttons",
+        "To look like a tree"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'pop-up'?",
+      "options": [
+        "A window that opens suddenly",
+        "A type of toaster",
+        "A jumping toy",
+        "A balloon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the '.com' in an address?",
+      "options": [
+        "A domain extension",
+        "A secret code",
+        "A type of cookie",
+        "A command"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: website",
+      "answer": "website"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    }
+  ]
+}

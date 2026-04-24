@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online Learning",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is online learning?",
+      "options": [
+        "Learning using the internet and computers",
+        "Learning while standing in line",
+        "Learning only about the internet",
+        "Playing games all day"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Virtual Classroom'?",
+      "options": [
+        "An online space where teachers and students meet",
+        "A classroom made of glass",
+        "A pretend classroom",
+        "A classroom in a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'LMS' (Learning Management System)?",
+      "options": [
+        "A platform for courses and assignments",
+        "A Large Motor Ship",
+        "A Little Mouse System",
+        "A type of computer screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an online learning platform?",
+      "options": [
+        "Google Classroom",
+        "Minecraft",
+        "Netflix",
+        "Roblox"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you submit an assignment online?",
+      "options": [
+        "Uploading a file or typing on the platform",
+        "Mailing it in an envelope",
+        "Showing it to the camera",
+        "Telling the teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Textbook'?",
+      "options": [
+        "A book you read on a screen",
+        "A book that talks",
+        "A book made of buttons",
+        "A book that can fly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Asynchronous Learning'?",
+      "options": [
+        "Learning at your own pace at different times",
+        "Learning all at the same time",
+        "Learning while swimming",
+        "Learning without a computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Synchronous Learning'?",
+      "options": [
+        "Learning together in real-time",
+        "Learning alone in the dark",
+        "Learning by singing",
+        "Learning very slowly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Webinar'?",
+      "options": [
+        "An online seminar or presentation",
+        "A spider's web",
+        "A fast browser",
+        "A type of dinner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is a schedule important for online learning?",
+      "options": [
+        "To manage your time and stay organized",
+        "To show off your calendar",
+        "To waste time",
+        "Because the computer likes it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Forum' in online learning?",
+      "options": [
+        "A place to discuss topics with others",
+        "A large stadium",
+        "A secret room",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Netiquette'?",
+      "options": [
+        "Good manners when using the internet",
+        "A net for catching bugs",
+        "A small net",
+        "A type of dance"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you take quizzes online?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you use a pen",
+        "Only if you are a teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Badge' in online learning?",
+      "options": [
+        "A digital reward for an achievement",
+        "A physical sticker",
+        "A part of a police uniform",
+        "A type of name tag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you ask a question during a live lesson?",
+      "options": [
+        "Using the chat or raising your virtual hand",
+        "Shouting at the monitor",
+        "Calling on the phone",
+        "Waiting until next year"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Screen Time'?",
+      "options": [
+        "The amount of time spent looking at a screen",
+        "The time displayed on the screen",
+        "A type of clock",
+        "A movie title"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you take breaks from the screen?",
+      "options": [
+        "To rest your eyes and body",
+        "Because the computer gets tired",
+        "To save electricity",
+        "To find a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'PDF'?",
+      "options": [
+        "A common file format for documents",
+        "A Pretty Digital File",
+        "A Personal Data Folder",
+        "A type of photo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'E-learning'?",
+      "options": [
+        "Short for Electronic Learning",
+        "Learning about the letter E",
+        "Easy Learning",
+        "Elephant Learning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you collaborate with classmates online?",
+      "options": [
+        "Yes, using shared documents or chat",
+        "No, never",
+        "Only if you live near them",
+        "Only if you have the same computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Tutorial'?",
+      "options": [
+        "A lesson that explains how to do something",
+        "A type of tortoise",
+        "A musical instrument",
+        "A special shoe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Feedback'?",
+      "options": [
+        "Information about your performance",
+        "Food for the computer",
+        "Backing up a car",
+        "A loud noise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Notification'?",
+      "options": [
+        "A message that tells you something new",
+        "A type of grade",
+        "A secret note",
+        "A funny picture"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use passwords for learning sites?",
+      "options": [
+        "To keep your progress and info safe",
+        "To make it more fun",
+        "To practice typing",
+        "To learn new words"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Self-paced' learning?",
+      "options": [
+        "Learning as fast or slow as you want",
+        "Learning while running",
+        "Learning without help",
+        "A fast way to finish"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    }
+  ]
+}

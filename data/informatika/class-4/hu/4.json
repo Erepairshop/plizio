@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Mozgatás parancsok",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Melyik blokk mozgatja a Sprite-ot előre?",
+        "options": [
+          "Menj 10 lépést",
+          "Fordulj 15 fokot",
+          "Ugorj ide",
+          "Várj"
+        ],
+        "answer": "Menj 10 lépést"
+      },
+      {
+        "question": "Mit csinál a 'fordulj jobbra' blokk?",
+        "options": [
+          "Adott fokkal elforgatja a Sprite-ot",
+          "Megfordítja a monitort",
+          "Jobbra megy",
+          "Leül"
+        ],
+        "answer": "Adott fokkal elforgatja a Sprite-ot"
+      },
+      {
+        "question": "Melyik koordináta a vízszintes irány?",
+        "options": [
+          "X",
+          "Y",
+          "Z",
+          "W"
+        ],
+        "answer": "X"
+      },
+      {
+        "question": "Melyik koordináta a függőleges irány?",
+        "options": [
+          "Y",
+          "X",
+          "A",
+          "B"
+        ],
+        "answer": "Y"
+      },
+      {
+        "question": "Hol van a (0, 0) point?",
+        "options": [
+          "A Színpad közepén",
+          "A bal felső sarokban",
+          "A jobb alsó sarokban",
+          "A billentyűzeten"
+        ],
+        "answer": "A Színpad közepén"
+      },
+      {
+        "question": "Melyik blokk viszi a Sprite-ot egy pontos helyre azonnal?",
+        "options": [
+          "Ugorj (x, y) helyre",
+          "Sússz (x, y) helyre",
+          "Menj 10 lépést",
+          "Fordulj"
+        ],
+        "answer": "Ugorj (x, y) helyre"
+      },
+      {
+        "question": "Mi a különbség az 'ugorj' és a 'csússz' között?",
+        "options": [
+          "A csúszás látható mozgás",
+          "Nincs különbség",
+          "Az ugorj lassabb",
+          "A csússz azonnali"
+        ],
+        "answer": "A csúszás látható mozgás"
+      },
+      {
+        "question": "Mit csinál a 'ha szélen vagy, pattanj vissza' blokk?",
+        "options": [
+          "Megfordul, ha eléri a szélét",
+          "Kiesik a képből",
+          "Megáll",
+          "Törli magát"
+        ],
+        "answer": "Megfordul, ha eléri a szélét"
+      },
+      {
+        "question": "Hogyan állíthatjuk be a Sprite X helyzetét?",
+        "options": [
+          "X legyen ... blokkal",
+          "Y legyen ... blokkal",
+          "Szín blokkal",
+          "Hang blokkal"
+        ],
+        "answer": "X legyen ... blokkal"
+      },
+      {
+        "question": "Mivel növelhetjük az Y értéket?",
+        "options": [
+          "Y változzon ...-el",
+          "X változzon",
+          "Menj 10 lépést",
+          "Fordulj"
+        ],
+        "answer": "Y változzon ...-el"
+      },
+      {
+        "question": "Melyik blokk irányítja a Sprite-ot az egérmutató felé?",
+        "options": [
+          "Nézz az egérmutató felé",
+          "Menj az egérhez",
+          "Ugorj az egérre",
+          "Várj az egérre"
+        ],
+        "answer": "Nézz az egérmutató felé"
+      },
+      {
+        "question": "Mit csinál a 'nézz ... irányba' blokk?",
+        "options": [
+          "Pontos fokra állítja az irányt",
+          "Összevissza forog",
+          "Megállítja a forgást",
+          "Láthatatlanná tesz"
+        ],
+        "answer": "Pontos fokra állítja az irányt"
+      },
+      {
+        "question": "Hogyan mozgathatunk egy Sprite-ot balra?",
+        "options": [
+          "X változzon negatív számmal",
+          "X változzon pozitív számmal",
+          "Y változzon",
+          "Menj 10 lépést"
+        ],
+        "answer": "X változzon negatív számmal"
+      },
+      {
+        "question": "Hogyan mozgathatunk egy Sprite-ot fel?",
+        "options": [
+          "Y változzon pozitív számmal",
+          "Y változzon negatív számmal",
+          "X változzon",
+          "Fordulj"
+        ],
+        "answer": "Y változzon pozitív számmal"
+      },
+      {
+        "question": "Mekkora a Színpad szélessége?",
+        "options": [
+          "480 egység",
+          "100 egység",
+          "1000 egység",
+          "Végtelen"
+        ],
+        "answer": "480 egység"
+      },
+      {
+        "question": "Mekkora a Színpad magassága?",
+        "options": [
+          "360 egység",
+          "200 egység",
+          "500 egység",
+          "50 egység"
+        ],
+        "answer": "360 egység"
+      },
+      {
+        "question": "Mit jelent a 'siklás 1 másodpercig'?",
+        "options": [
+          "Folyamatos mozgás 1 mp alatt",
+          "Várakozás",
+          "Gyors ugrás",
+          "Lassú forgás"
+        ],
+        "answer": "Folyamatos mozgás 1 mp alatt"
+      },
+      {
+        "question": "Hogyan tudjuk lekérdezni a Sprite aktuális X helyzetét?",
+        "options": [
+          "Az 'x helyzet' kerek blokkal",
+          "Ránézéssel",
+          "Megkérdezzük a macskát",
+          "Nem lehet"
+        ],
+        "answer": "Az 'x helyzet' kerek blokkal"
+      },
+      {
+        "question": "Milyen irányba néz a Sprite, ha az iránya 180?",
+        "options": [
+          "Le",
+          "Fel",
+          "Jobbra",
+          "Balra"
+        ],
+        "answer": "Le"
+      },
+      {
+        "question": "Milyen irányba néz a Sprite, ha az iránya -90?",
+        "options": [
+          "Balra",
+          "Jobbra",
+          "Fel",
+          "Le"
+        ],
+        "answer": "Balra"
+      },
+      {
+        "question": "Mit csinál a 'menj (véletlen helyre)' blokk?",
+        "options": [
+          "Bárhová ugorhat a színpadon",
+          "Kimegy a szobából",
+          "Mindig középre megy",
+          "Törli a Sprite-ot"
+        ],
+        "answer": "Bárhová ugorhat a színpadon"
+      },
+      {
+        "question": "Lehet-e a mozgás sebességét változtatni?",
+        "options": [
+          "Igen, a lépések számával",
+          "Nem, mindig fix",
+          "Csak ha új gépet veszünk",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, a lépések számával"
+      },
+      {
+        "question": "Hogyan érhetjük el, hogy a Sprite kövesse az egeret?",
+        "options": [
+          "Mindig: nézz az egér felé + menj",
+          "Egyszer rákattintunk",
+          "Megnyomjuk az Entert",
+          "Várunk"
+        ],
+        "answer": "Mindig: nézz az egér felé + menj"
+      },
+      {
+        "question": "Mit csinál a 'pont ... felé nézzen' blokk?",
+        "options": [
+          "Egy másik Sprite felé fordítja",
+          "A fal felé fordítja",
+          "Megállítja a Sprite-ot",
+          "Elrejti"
+        ],
+        "answer": "Egy másik Sprite felé fordítja"
+      },
+      {
+        "question": "Milyen színűek a mozgás blokkok?",
+        "options": [
+          "Sötétkék",
+          "Lila",
+          "Zöld",
+          "Sárga"
+        ],
+        "answer": "Sötétkék"
+      }
+    ],
+    "typing": [
+      "mozgás",
+      "lépés",
+      "fordulás",
+      "irány",
+      "koordináta",
+      "tengely",
+      "helyzet",
+      "csúszás",
+      "ugrás",
+      "pattanás"
+    ]
+  }
+}

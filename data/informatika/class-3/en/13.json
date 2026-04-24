@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Spreadsheet Basics",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a spreadsheet?",
+      "options": [
+        "A grid of rows and columns for data",
+        "A sheet for a bed",
+        "A type of drawing",
+        "A spread for bread"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Cell'?",
+      "options": [
+        "The box where a row and column meet",
+        "A place for prisoners",
+        "A battery",
+        "A tiny living thing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a spreadsheet app?",
+      "options": [
+        "Google Sheets",
+        "Google Docs",
+        "YouTube",
+        "Minecraft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Columns' identified by?",
+      "options": [
+        "Letters (A, B, C...)",
+        "Numbers (1, 2, 3...)",
+        "Colors",
+        "Animals"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Rows' identified by?",
+      "options": [
+        "Numbers (1, 2, 3...)",
+        "Letters (A, B, C...)",
+        "Names",
+        "Shapes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Cell Reference'?",
+      "options": [
+        "The name of a cell, like A1",
+        "Looking at a phone",
+        "A type of book",
+        "A battery charger"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you start a formula in a cell?",
+      "options": [
+        "With an equals sign (=)",
+        "With a question mark (?)",
+        "With a plus sign (+)",
+        "With a shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can you do with spreadsheets?",
+      "options": [
+        "Calculate numbers and make lists",
+        "Watch cartoons",
+        "Cook dinner",
+        "Play soccer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sum'?",
+      "options": [
+        "A formula to add numbers together",
+        "The sun in the sky",
+        "Some people",
+        "A type of math book"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you make charts from spreadsheet data?",
+      "options": [
+        "Yes, like pie or bar charts",
+        "No, only text",
+        "Only if you draw them by hand",
+        "Only on paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sorting'?",
+      "options": [
+        "Organizing data in order (like A to Z)",
+        "Throwing things away",
+        "A type of game",
+        "Picking colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Range'?",
+      "options": [
+        "A group of selected cells",
+        "A place for cows",
+        "How far you can run",
+        "A kitchen stove"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Fill Handle' do?",
+      "options": [
+        "Copies a pattern or formula to other cells",
+        "Fills a glass with water",
+        "Changes the cell color",
+        "Deletes the data"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the color of a cell?",
+      "options": [
+        "Yes, it's called Fill Color",
+        "No, cells are always white",
+        "Only if they are empty",
+        "Only on birthdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Merging' cells?",
+      "options": [
+        "Combining multiple cells into one",
+        "Making cells fight",
+        "Deleting cells",
+        "Copying cells"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Workbook'?",
+      "options": [
+        "A file that contains multiple sheets",
+        "A book for school",
+        "A type of exercise",
+        "A heavy box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Worksheet'?",
+      "options": [
+        "A single page inside a workbook",
+        "A paper with math",
+        "A type of ghost",
+        "A clean table"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Average' do?",
+      "options": [
+        "Finds the middle value of numbers",
+        "Means something is okay",
+        "Deletes the numbers",
+        "Makes things smaller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a spreadsheet for a budget?",
+      "options": [
+        "Yes, it's great for tracking money",
+        "No, it's only for letters",
+        "Only if you are a banker",
+        "Only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Wrapping text'?",
+      "options": [
+        "Making long text fit inside a cell",
+        "Putting a gift in paper",
+        "Singing a rap song",
+        "Deleting the text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Gridlines'?",
+      "options": [
+        "The light gray lines around cells",
+        "Lines on a map",
+        "A type of game",
+        "Electric wires"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can spreadsheets do math automatically?",
+      "options": [
+        "Yes, using formulas",
+        "No, you must use a calculator",
+        "Only if you ask nicely",
+        "Only in the morning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Filter' in a spreadsheet?",
+      "options": [
+        "A tool to show only certain data",
+        "Something to clean water",
+        "A type of coffee",
+        "A lens"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the symbol for multiplication in a formula?",
+      "options": [
+        "Asterisk (*)",
+        "The letter X",
+        "A dot",
+        "A cross"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the symbol for division in a formula?",
+      "options": [
+        "Slash (/)",
+        "A colon (:)",
+        "A dash (-)",
+        "A line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: game",
+      "answer": "game"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: learn",
+      "answer": "learn"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: school",
+      "answer": "school"
+    }
+  ]
+}

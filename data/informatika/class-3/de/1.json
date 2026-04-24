@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Das Internet",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist das Internet?",
+      "options": [
+        "Ein weltweites Netzwerk von Computern",
+        "Ein kleiner Computer",
+        "Ein Computerspiel",
+        "Ein Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Surfen im Internet?",
+      "options": [
+        "Browsen",
+        "Fliegen",
+        "Tauchen",
+        "Rennen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was braucht man, um ins Internet zu gehen?",
+      "options": [
+        "Einen Internetanschluss",
+        "Ein Buch",
+        "Einen Bleistift",
+        "Einen Spiegel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser?",
+      "options": [
+        "Ein Programm, um Webseiten zu sehen",
+        "Ein Spielzeug",
+        "Ein Lied",
+        "Eine Obstsorte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol steht oft für das Internet?",
+      "options": [
+        "Eine Weltkugel",
+        "Ein Apfel",
+        "Ein Hund",
+        "Ein Auto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man im Internet machen?",
+      "options": [
+        "Informationen suchen",
+        "Zähne putzen",
+        "Schlafen",
+        "Essen kochen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist WLAN?",
+      "options": [
+        "Kabelloses Internet",
+        "Ein Kabel",
+        "Ein Monitor",
+        "Eine Tastatur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Webseite?",
+      "options": [
+        "Eine Seite im Internet mit Infos",
+        "Ein Blatt Papier",
+        "Ein Poster",
+        "Ein Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt die Adresszeile im Browser?",
+      "options": [
+        "URL-Leiste",
+        "Namensschild",
+        "Briefkasten",
+        "Türe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'online'?",
+      "options": [
+        "Mit dem Internet verbunden",
+        "Computer aus",
+        "Schlafen",
+        "Offline"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Google?",
+      "options": [
+        "Eine Suchmaschine",
+        "Ein Browser",
+        "Ein Betriebssystem",
+        "Ein Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man im Internet lernen?",
+      "options": [
+        "Ja, es gibt viele Lernseiten",
+        "Nein, niemals",
+        "Nur sonntags",
+        "Nur wenn es regnet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine E-Mail?",
+      "options": [
+        "Eine elektronische Post",
+        "Ein Paket",
+        "Ein Brief aus Papier",
+        "Ein Telefonanruf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Router?",
+      "options": [
+        "Ein Gerät für den Internetzugang",
+        "Eine Maus",
+        "Ein Bildschirm",
+        "Ein Lautsprecher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fremden im Internet alles erzählen?",
+      "options": [
+        "Nein, niemals",
+        "Ja, klar",
+        "Nur meinen Namen",
+        "Nur mein Alter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Link?",
+      "options": [
+        "Eine Verbindung zu einer anderen Seite",
+        "Ein Bild",
+        "Ein Text",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein Link oft aus?",
+      "options": [
+        "Blau und unterstrichen",
+        "Rot und fett",
+        "Gelb und klein",
+        "Grün"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Passwort?",
+      "options": [
+        "Ein geheimes Wort zum Schutz",
+        "Ein Name",
+        "Ein Hobby",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Passwörter wichtig?",
+      "options": [
+        "Zum Schutz der Daten",
+        "Damit man sie vergisst",
+        "Zum Spaß",
+        "Weil sie bunt sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tablet?",
+      "options": [
+        "Ein flacher, tragbarer Computer",
+        "Ein Laptop",
+        "Ein Stand-PC",
+        "Ein Fernseher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Smartphone?",
+      "options": [
+        "Ein Handy mit Internet",
+        "Ein Festnetztelefon",
+        "Ein Radio",
+        "Eine Kamera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das WWW?",
+      "options": [
+        "World Wide Web",
+        "World Wild West",
+        "Wir wollen Wissen",
+        "Wasser wird warm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Video im Internet?",
+      "options": [
+        "Ein bewegtes Bild mit Ton",
+        "Ein Foto",
+        "Ein Text",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man im Internet Musik hören?",
+      "options": [
+        "Ja, auf vielen Seiten",
+        "Nein",
+        "Nur mit CD",
+        "Nur im Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Klick?",
+      "options": [
+        "Drücken der Maustaste",
+        "Ein Geräusch",
+        "Ein Bild",
+        "Ein Wort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Internet",
+      "answer": "Internet"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Netzwerk",
+      "answer": "Netzwerk"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Online",
+      "answer": "Online"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Browser",
+      "answer": "Browser"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: WLAN",
+      "answer": "WLAN"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Router",
+      "answer": "Router"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Computer",
+      "answer": "Computer"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Webseite",
+      "answer": "Webseite"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Link",
+      "answer": "Link"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Surfen",
+      "answer": "Surfen"
+    }
+  ]
+}

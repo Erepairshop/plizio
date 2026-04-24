@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Dispozitive Digitale",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un dispozitiv digital?",
+      "options": [
+        "Un aparat electronic care procesează date",
+        "O lingură de lemn",
+        "O piatră",
+        "Un caiet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un exemplu de dispozitiv digital?",
+      "options": [
+        "Tableta",
+        "Masa",
+        "Scaunul",
+        "Ghiozdanul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie la calculator?",
+      "options": [
+        "Tastatura",
+        "Ecranul",
+        "Mouse-ul",
+        "Cablul de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv purtăm în buzunar și are internet?",
+      "options": [
+        "Smartphone-ul",
+        "Monitorul",
+        "Imprimanta",
+        "Laptopul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește 'creierul' calculatorului?",
+      "options": [
+        "Procesorul",
+        "Monitorul",
+        "Bateria",
+        "Mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se stochează informația în calculator?",
+      "options": [
+        "Pe hard disk sau SSD",
+        "În tastatură",
+        "În cablul de curent",
+        "Sub monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face bateria unui laptop?",
+      "options": [
+        "Îi dă energie fără să fie în priză",
+        "Îl face să fie mai greu",
+        "Îi schimbă culoarea",
+        "Îl ajută să zboare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'dispozitiv periferic'?",
+      "options": [
+        "Un aparat conectat la unitatea centrală",
+        "Un tip de joc",
+        "O piesă de mobilier",
+        "Un program de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mouse-ul este un dispozitiv de?",
+      "options": [
+        "Intrare",
+        "Ieșire",
+        "Stocare",
+        "Gătit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Monitorul este un dispozitiv de?",
+      "options": [
+        "Ieșire",
+        "Intrare",
+        "Mâncare",
+        "Cântat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un port USB?",
+      "options": [
+        "Un loc unde conectăm diverse aparate",
+        "O stație de autobuz",
+        "Un tip de bec",
+        "O gaură pentru aer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este memoria RAM?",
+      "options": [
+        "Memoria de scurtă durată a calculatorului",
+        "O oaie (ram în engleză)",
+        "O amintire veche",
+        "Un tip de monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem conecta căști la tabletă?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt albastre",
+        "Doar prin cablu gros"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un laptop?",
+      "options": [
+        "Un calculator portabil",
+        "O tabletă uriașă",
+        "O carcasă de net",
+        "Un monitor cu baterie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face o imprimantă?",
+      "options": [
+        "Pune textul și pozele pe hârtie",
+        "Face cafea",
+        "Scanează ochii",
+        "Cântă muzică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un scaner?",
+      "options": [
+        "Transformă pozele de pe hârtie în format digital",
+        "Un aparat de tăiat",
+        "O lanternă",
+        "Un tip de mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un microfon?",
+      "options": [
+        "Înregistrează sunetul",
+        "Arată imaginea",
+        "Luminează camera",
+        "Face vânt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un ecran tactil (touchscreen)?",
+      "options": [
+        "Un ecran pe care putem apăsa cu degetul",
+        "Un ecran care ne atinge singur",
+        "Un ecran moale",
+        "Un ecran invizibil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'hardware'?",
+      "options": [
+        "Părțile fizice ale calculatorului",
+        "Programele din el",
+        "Cablurile de afară",
+        "Cărțile despre net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'software'?",
+      "options": [
+        "Programele și aplicațiile",
+        "Carcasa metalică",
+        "Tastatura",
+        "Mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o consolă de jocuri?",
+      "options": [
+        "Un dispozitiv special pentru jocuri video",
+        "O masă de scris",
+        "Un monitor de televizor",
+        "Un tip de robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea încredere în orice dispozitiv găsit?",
+      "options": [
+        "Nu, poate avea viruși",
+        "Da, e noroc",
+        "Doar dacă e nou",
+        "Doar dacă e colorat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face placa video?",
+      "options": [
+        "Se ocupă de imaginile de pe ecran",
+        "Cântă muzică",
+        "Încălzește camera",
+        "Măsoară timpul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum curățăm corect un ecran?",
+      "options": [
+        "Cu o cârpă moale și soluție specială",
+        "Cu multă apă și săpun",
+        "Cu un cuțit",
+        "Cu un șervețel umed de masă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să oprim corect calculatorul?",
+      "options": [
+        "Da, din meniul Shut down",
+        "Nu, îl scoatem din priză direct",
+        "Nu contează",
+        "Îl lăsăm așa mereu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: laptop",
+      "answer": "laptop"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tabletă",
+      "answer": "tabletă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mobil",
+      "answer": "mobil"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: monitor",
+      "answer": "monitor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tastatură",
+      "answer": "tastatură"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: baterie",
+      "answer": "baterie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: procesor",
+      "answer": "procesor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: memorie",
+      "answer": "memorie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: dispozitiv",
+      "answer": "dispozitiv"
+    }
+  ]
+}

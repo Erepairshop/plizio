@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Introduction to Algorithms",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is an algorithm?",
+      "options": [
+        "A set of step-by-step instructions to solve a problem",
+        "A type of computer",
+        "A dance move",
+        "A secret language"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is an everyday algorithm?",
+      "options": [
+        "A recipe for baking a cake",
+        "Sleeping in the afternoon",
+        "Watching TV",
+        "Running outside"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do computers need algorithms?",
+      "options": [
+        "They need exact steps to know what to do",
+        "To make them look smart",
+        "To use more electricity",
+        "Because they are bored"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sequential' in an algorithm?",
+      "options": [
+        "Steps following one after another",
+        "Steps happening at once",
+        "Skipping steps",
+        "Doing steps backwards"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Decomposition'?",
+      "options": [
+        "Breaking a big problem into smaller pieces",
+        "Something rotting",
+        "A type of music",
+        "Turning off the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pattern Recognition'?",
+      "options": [
+        "Finding similarities or trends",
+        "Wearing a striped shirt",
+        "Looking at pictures",
+        "Drawing a circle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Input'?",
+      "options": [
+        "Data given to an algorithm to process",
+        "Putting things in a box",
+        "The computer screen",
+        "A type of cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Output'?",
+      "options": [
+        "The result produced by an algorithm",
+        "A door",
+        "Turning the computer off",
+        "A type of mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if an algorithm has a wrong step?",
+      "options": [
+        "The result will likely be wrong (a bug)",
+        "The computer will fix it",
+        "It will work anyway",
+        "The screen will turn blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Flowchart'?",
+      "options": [
+        "A diagram showing the steps of an algorithm",
+        "A chart about flowers",
+        "A type of water game",
+        "A map of the city"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "In a flowchart, what does a diamond shape usually mean?",
+      "options": [
+        "A decision (Yes/No)",
+        "Start",
+        "End",
+        "A normal step"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "In a flowchart, what does a rectangle mean?",
+      "options": [
+        "A process or action step",
+        "A decision",
+        "The end",
+        "The start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Debugging'?",
+      "options": [
+        "Finding and fixing errors in an algorithm",
+        "Catching insects",
+        "Cleaning the computer",
+        "Spray-painting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can an algorithm be used to sort numbers?",
+      "options": [
+        "Yes",
+        "No, only for words",
+        "Only for pictures",
+        "Only in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Loop' in an algorithm?",
+      "options": [
+        "A part that repeats multiple times",
+        "A circle",
+        "A type of knot",
+        "A playground toy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Efficiency' in an algorithm?",
+      "options": [
+        "Finding the fastest or easiest way to solve it",
+        "Being very slow",
+        "Using a lot of memory",
+        "Having many steps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'brushing your teeth' an algorithm?",
+      "options": [
+        "Yes, it has specific steps",
+        "No, it's just a habit",
+        "Only if you use an electric brush",
+        "Only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Abstraction'?",
+      "options": [
+        "Focusing on the important parts and ignoring details",
+        "A type of art",
+        "Being confused",
+        "A hidden secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can computers think of algorithms by themselves?",
+      "options": [
+        "No, humans usually write them",
+        "Yes, all the time",
+        "Only on birthdays",
+        "Only if they have a brain"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Variable'?",
+      "options": [
+        "A placeholder for information that can change",
+        "A type of weather",
+        "A grumpy person",
+        "A constant number"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Conditional' logic?",
+      "options": [
+        "If something is true, then do this",
+        "Always do this",
+        "Never do this",
+        "Maybe do this"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sorting'?",
+      "options": [
+        "Putting items in a specific order",
+        "Throwing things away",
+        "Picking things up",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can algorithms help with traffic lights?",
+      "options": [
+        "Yes, they control the timing",
+        "No, people do it with remotes",
+        "Only in big cities",
+        "Only for red lights"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pseudocode'?",
+      "options": [
+        "Instructions written in plain language, not code",
+        "Fake code",
+        "Secret code",
+        "Code for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a game level an algorithm?",
+      "options": [
+        "It uses many algorithms to function",
+        "No, it's just art",
+        "Only if it's hard",
+        "Only if it has a score"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bookmark-uri (Favorite)",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un bookmark (semn de carte)?",
+      "options": [
+        "O salvare a adresei unui site pentru a-l găsi rapid",
+        "Un semn real din hârtie",
+        "O carte pe net",
+        "O notă de la profesor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim bookmark-urile salvate?",
+      "options": [
+        "În bara de favorite sau meniul browserului",
+        "Sub tastatură",
+        "În ghiozdan",
+        "Pe desktop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce simbol folosim adesea pentru a salva un favorit?",
+      "options": [
+        "O steluță",
+        "Un cerc",
+        "Un pătrat",
+        "O inimioară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce salvăm site-uri la favorite?",
+      "options": [
+        "Ca să nu mai scriem adresa de fiecare dată",
+        "Ca să le ștergem",
+        "Ca să meargă netul mai prost",
+        "Nu are nicio utilitate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem organiza favoritele în dosare?",
+      "options": [
+        "Da",
+        "Nu, stau toate la grămadă",
+        "Doar dacă sunt puține",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba numele unui favorit?",
+      "options": [
+        "Da",
+        "Nu, rămâne cel de pe site",
+        "Doar dacă ne dă voie site-ul",
+        "Doar dacă scriem cu litere mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu mai vrem un favorit?",
+      "options": [
+        "Îl ștergem (Delete)",
+        "Aruncăm calculatorul",
+        "Închidem monitorul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Favoritele se pierd dacă închidem calculatorul?",
+      "options": [
+        "Nu, se salvează în browser",
+        "Da, dispar mereu",
+        "Doar dacă nu avem baterie",
+        "Uneori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea o bară de favorite sub bara de adrese?",
+      "options": [
+        "Da, se poate activa",
+        "Nu, e interzis",
+        "Doar pe ecrane mici",
+        "Doar pe ecrane mari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Bookmark Manager'?",
+      "options": [
+        "Un loc unde gestionăm toate favoritele",
+        "Un șef de bibliotecă",
+        "Un program de jocuri",
+        "Un tip de robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem exporta favoritele pe alt calculator?",
+      "options": [
+        "Da, se poate face o copie",
+        "Nu, sunt legate de un singur aparat",
+        "Doar prin poze",
+        "Doar prin telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte favorite putem salva?",
+      "options": [
+        "Mii, aproape oricâte",
+        "Maxim 10",
+        "Doar 5",
+        "Doar unul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde apare de obicei steluța de salvare?",
+      "options": [
+        "În capătul barei de adrese",
+        "Pe tasta Space",
+        "Pe ecran în mijloc",
+        "Pe mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem salva site-ul școlii la favorite?",
+      "options": [
+        "Da, e foarte util",
+        "Nu, e interzis",
+        "Doar dacă avem note bune",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Reading List'?",
+      "options": [
+        "O listă de pagini de citit mai târziu",
+        "O listă de cumpărături",
+        "O listă de note",
+        "Un joc de cuvinte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Bookmark-urile ne ajută să?",
+      "options": [
+        "Economisim timp",
+        "Pierdem timpul",
+        "Mâncăm mai mult",
+        "Dormim mai mult"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune un favorit pe ecranul principal (Desktop)?",
+      "options": [
+        "Da, ca o scurtătură",
+        "Nu, niciodată",
+        "Doar dacă e un joc",
+        "Doar dacă e o poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunt favoritele la fel ca istoricul?",
+      "options": [
+        "Nu, istoricul e tot ce am vizitat, favoritele le alegem noi",
+        "Da, sunt identice",
+        "Nu, istoricul e secret",
+        "Nu există diferență"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea favoritele pe telefon?",
+      "options": [
+        "Da, dacă suntem logați în același cont",
+        "Nu, sub nicio formă",
+        "Doar dacă trimitem e-mail",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește în română un bookmark?",
+      "options": [
+        "Semn de carte sau Favorit",
+        "Poză",
+        "Joc",
+        "Mesaj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face Ctrl + D?",
+      "options": [
+        "Adaugă pagina curentă la favorite",
+        "Șterge tot",
+        "Închide browserul",
+        "Deschide un film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea dosare în dosare la favorite?",
+      "options": [
+        "Da, pentru o mai bună organizare",
+        "Nu, e prea complicat",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt goale"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Când e util să ștergem favoritele?",
+      "options": [
+        "Când nu mai avem nevoie de acele site-uri",
+        "În fiecare zi",
+        "Niciodată",
+        "Când ne plictisim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea data când am salvat un favorit?",
+      "options": [
+        "În unele browsere, da",
+        "Nu, niciodată",
+        "Doar dacă notăm noi",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Favoritele sunt utile pentru copii?",
+      "options": [
+        "Da, pentru a găsi repede site-urile de lecții",
+        "Nu, sunt doar pentru adulți",
+        "Sunt plictisitoare",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvare",
+      "answer": "salvare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: favorit",
+      "answer": "favorit"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stea",
+      "answer": "stea"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: acces",
+      "answer": "acces"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: listă",
+      "answer": "listă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: semn",
+      "answer": "semn"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pagină",
+      "answer": "pagină"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stocare",
+      "answer": "stocare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: gestionare",
+      "answer": "gestionare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pictogramă",
+      "answer": "pictogramă"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Webseiten",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist die Startseite einer Webseite?",
+      "options": [
+        "Die erste Seite, die man sieht",
+        "Die letzte Seite",
+        "Die Seite mit dem Impressum",
+        "Die Bildergalerie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Adresse einer Webseite?",
+      "options": [
+        "URL",
+        "Hausnummer",
+        "Name",
+        "Wohnort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was findet man meistens oben auf einer Webseite?",
+      "options": [
+        "Das Menü",
+        "Das Ende",
+        "Nichts",
+        "Werbung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf einen Link klickt?",
+      "options": [
+        "Man kommt auf eine neue Seite",
+        "Der Computer geht aus",
+        "Das Bild wird größer",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Logo auf einer Webseite?",
+      "options": [
+        "Ein Bildzeichen der Firma/Seite",
+        "Ein langer Text",
+        "Ein Video",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man oft Kontaktinformationen?",
+      "options": [
+        "Im Impressum oder Kontakt",
+        "In den Bildern",
+        "Im Logo",
+        "Nirgendwo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Button?",
+      "options": [
+        "Eine Schaltfläche zum Klicken",
+        "Ein Bild",
+        "Ein Text",
+        "Ein Rahmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Scrollen'?",
+      "options": [
+        "Die Seite nach oben oder unten bewegen",
+        "Die Seite schließen",
+        "Ein Bild malen",
+        "Text tippen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tier wird oft mit Webseiten verbunden?",
+      "options": [
+        "Die Spinne (Web)",
+        "Der Hund",
+        "Die Katze",
+        "Der Vogel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Suchleiste?",
+      "options": [
+        "Ein Feld zum Suchen von Inhalten",
+        "Ein Bild",
+        "Ein Menü",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Webseiten Videos enthalten?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur bei Regen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Tab'?",
+      "options": [
+        "Ein Registerreiter im Browser",
+        "Ein Button",
+        "Ein Link",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Text auf einer Webseite?",
+      "options": [
+        "Geschriebene Informationen",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Hyperlink?",
+      "options": [
+        "Ein anderes Wort für Link",
+        "Ein schneller Link",
+        "Ein großer Link",
+        "Ein bunter Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum gibt es Bilder auf Webseiten?",
+      "options": [
+        "Damit es schöner aussieht und Infos gibt",
+        "Nur aus Spaß",
+        "Damit sie langsamer lädt",
+        "Weil Platz da war"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Menü?",
+      "options": [
+        "Eine Liste mit Links zur Navigation",
+        "Ein Essen",
+        "Ein Spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kehrt man oft zur Startseite zurück?",
+      "options": [
+        "Klick auf das Logo",
+        "Computer neustarten",
+        "Browser schließen",
+        "Fenster putzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Footer?",
+      "options": [
+        "Der unterste Bereich einer Webseite",
+        "Der oberste Bereich",
+        "Die Mitte",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Header?",
+      "options": [
+        "Der oberste Bereich einer Webseite",
+        "Der unterste Bereich",
+        "Die Mitte",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind alle Webseiten wahr?",
+      "options": [
+        "Nein, man muss kritisch sein",
+        "Ja, immer",
+        "Meistens",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Kinderwebseite?",
+      "options": [
+        "Eine Seite extra für Kinder",
+        "Eine Seite für Erwachsene",
+        "Eine Seite für Autos",
+        "Eine Seite für Hunde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Haus'-Symbol?",
+      "options": [
+        "Link zur Startseite",
+        "Link zum Ende",
+        "Beenden",
+        "Drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Galerie?",
+      "options": [
+        "Eine Sammlung von Bildern",
+        "Ein langer Text",
+        "Ein Video",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Banner?",
+      "options": [
+        "Ein großer grafischer Bereich",
+        "Ein kleiner Punkt",
+        "Ein Wort",
+        "Ein Buchstabe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Webseiten speichern?",
+      "options": [
+        "Ja, als Lesezeichen",
+        "Nein",
+        "Nur im Kopf",
+        "Nur auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Webseite",
+      "answer": "Webseite"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Startseite",
+      "answer": "Startseite"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Adresse",
+      "answer": "Adresse"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Menü",
+      "answer": "Menü"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Button",
+      "answer": "Button"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Logo",
+      "answer": "Logo"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Inhalt",
+      "answer": "Inhalt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Navigation",
+      "answer": "Navigation"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Link",
+      "answer": "Link"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Klicken",
+      "answer": "Klicken"
+    }
+  ]
+}

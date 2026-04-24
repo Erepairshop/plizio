@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Prezentări (Google Slides)",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este Google Slides?",
+      "options": [
+        "Un program pentru prezentări cu diapozitive",
+        "Un program de alunecat pe gheață",
+        "O aplicație de gătit",
+        "Un joc de noroc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește o singură pagină de prezentare?",
+      "options": [
+        "Diapozitiv (Slide)",
+        "Capitol",
+        "Pagină de carte",
+        "Poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce putem pune pe un slide?",
+      "options": [
+        "Text, imagini, clipuri, forme",
+        "Doar litere",
+        "Doar culori",
+        "Mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trecem de la un slide la altul?",
+      "options": [
+        "Click, săgeți sau Space",
+        "Strigăm 'Următorul'",
+        "Închidem monitorul",
+        "Batem din palme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'tranziție'?",
+      "options": [
+        "Modul în care se schimbă un slide cu altul",
+        "O gustare",
+        "O culoare",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'animație'?",
+      "options": [
+        "Munca obiectelor pe slide (ex. apare, zboară)",
+        "Un desen animat lung",
+        "Un tip de mâncare",
+        "Un zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim prezentarea să se vadă pe tot ecranul?",
+      "options": [
+        "Butonul Present",
+        "Butonul Shut down",
+        "Dăm click dreapta",
+        "Batem în tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi o temă (design) gata făcută?",
+      "options": [
+        "Da",
+        "Nu, trebuie să desenăm tot",
+        "Doar dacă plătim",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum adăugăm un slide nou?",
+      "options": [
+        "Butonul '+' din stânga sus",
+        "Închidem programul",
+        "Repornim calculatorul",
+        "Cumpărăm unul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba ordinea slide-urilor?",
+      "options": [
+        "Da, prin glisare în lista din stânga",
+        "Nu, ordinea e fixă",
+        "Doar dacă le renumim",
+        "Doar dacă sunt puține"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Layout'?",
+      "options": [
+        "Modul în care sunt așezate obiectele pe slide",
+        "Un strat de haine",
+        "O minciună",
+        "O ieșire afară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune clipuri video din YouTube pe slide?",
+      "options": [
+        "Da",
+        "Nu, e interzis",
+        "Doar dacă le filmăm noi",
+        "Doar poze fixe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Slide-urilor se salvează automat?",
+      "options": [
+        "Da, în Google Drive",
+        "Nu, niciodată",
+        "Doar dacă avem baterie",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem lucra mai mulți copii pe aceeași prezentare?",
+      "options": [
+        "Da, prin partajare (Share)",
+        "Nu, e proiect individual",
+        "Doar pe rând",
+        "Doar dacă suntem frați"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem pentru a vedea toate slide-urile mici deodată?",
+      "options": [
+        "Grid view",
+        "Închidem ochii",
+        "Folosim o lupă",
+        "Depărtăm monitorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba fundalul unui slide?",
+      "options": [
+        "Da, cu o culoare sau o imagine",
+        "Nu, fundalul e mereu alb",
+        "Doar dacă pictăm monitorul",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Word Art'?",
+      "options": [
+        "Text decorativ și artistic",
+        "O lume de artă",
+        "Un joc de cuvinte",
+        "Un desen cu pixul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena forme (cercuri, săgeți) pe slide?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă le aducem de acasă",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Speaker notes'?",
+      "options": [
+        "Note pentru cel care prezintă, care nu se văd pe ecranul mare",
+        "Note muzicale",
+        "Ochelari de soare",
+        "Un zgomot de boxă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ieșim din modul de prezentare?",
+      "options": [
+        "Tasta Esc",
+        "Tasta Enter",
+        "Tasta Space",
+        "Închidem monitorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune link-uri în prezentare?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar poze",
+        "Doar sunete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Theme' în Slides?",
+      "options": [
+        "Un set de culori și fonturi gata alese",
+        "O temă de mate",
+        "O temă de română",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem duplica un slide?",
+      "options": [
+        "Da (Click dreapta -> Duplicate)",
+        "Nu",
+        "Doar dacă e primul",
+        "Doar dacă e ultimul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Prezentările sunt bune pentru?",
+      "options": [
+        "A arăta idei și proiecte la școală",
+        "A scrie cărți de 500 pagini",
+        "A face calcule matematice grele",
+        "A dormi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Google Slides funcționează pe tabletă?",
+      "options": [
+        "Da, are aplicație",
+        "Nu, doar pe laptop",
+        "Doar pe televizor",
+        "Nu, e prea mic ecranul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: diapozitiv",
+      "answer": "diapozitiv"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: prezentare",
+      "answer": "prezentare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: animație",
+      "answer": "animație"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tranziție",
+      "answer": "tranziție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: text",
+      "answer": "text"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: imagine",
+      "answer": "imagine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: discurs",
+      "answer": "discurs"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stil",
+      "answer": "stil"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: șablon",
+      "answer": "șablon"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: proiecție",
+      "answer": "proiecție"
+    }
+  ]
+}

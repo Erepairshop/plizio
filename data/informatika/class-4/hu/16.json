@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Hibakereső",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a 'debugolás'?",
+        "options": [
+          "Hibák keresése és javítása",
+          "Bogárirtás a kertben",
+          "Új kód írása",
+          "A gép tisztítása"
+        ],
+        "answer": "Hibák keresése és javítása"
+      },
+      {
+        "question": "Mit jelent, ha egy kód nem fut le?",
+        "options": [
+          "Hiba van benne vagy hiányzik az indító",
+          "Elfáradt a gép",
+          "Nincs benne zene",
+          "Rossz a színe"
+        ],
+        "answer": "Hiba van benne vagy hiányzik az indító"
+      },
+      {
+        "question": "Hogyan segíthet a 'mondd' blokk a hibakeresésben?",
+        "options": [
+          "Kiírathatjuk vele a változók értékét",
+          "Beszélgethetünk a géppel",
+          "Hangosabb lesz a zene",
+          "Semmire nem jó"
+        ],
+        "answer": "Kiírathatjuk vele a változók értékét"
+      },
+      {
+        "question": "Mi az a logikai hiba?",
+        "options": [
+          "A kód lefut, de nem azt csinálja, amit várunk",
+          "Nem indul el a kód",
+          "Kikapcsol a gép",
+          "Rossz a gép"
+        ],
+        "answer": "A kód lefut, de nem azt csinálja, amit várunk"
+      },
+      {
+        "question": "Mi az a szintaktikai hiba (más nyelveken)?",
+        "options": [
+          "Eltépett szabályok, elírások",
+          "Rossz gondolkodás",
+          "Hang hiba",
+          "Kép hiba"
+        ],
+        "answer": "Eltépett szabályok, elírások"
+      },
+      {
+        "question": "Hogyan találhatjuk meg a hibát a Scratch-ben?",
+        "options": [
+          "Lépésről lépésre ellenőrizzük a blokkokat",
+          "Kiabálunk a macskával",
+          "Várunk a csodára",
+          "Új gépet veszünk"
+        ],
+        "answer": "Lépésről lépésre ellenőrizzük a blokkokat"
+      },
+      {
+        "question": "Mire jó a blokkok sárga kerete futás közben?",
+        "options": [
+          "Jelzi, hogy éppen melyik kód fut",
+          "Díszítés",
+          "Hiba jelzése",
+          "Lassítás"
+        ],
+        "answer": "Jelzi, hogy éppen melyik kód fut"
+      },
+      {
+        "question": "Mit csináljunk, ha a Sprite kimegy a képből és nem jön vissza?",
+        "options": [
+          "Adjunk neki (0,0) koordinátát",
+          "Várjunk",
+          "Vegyen új Sprite-ot",
+          "Sírjunk"
+        ],
+        "answer": "Adjunk neki (0,0) koordinátát"
+      },
+      {
+        "question": "Miért nem változik a pontszám?",
+        "options": [
+          "Nincs benne a növelő blokk vagy rossz a feltétel",
+          "Túl sokat játszunk",
+          "Rossz a monitor",
+          "Kevés az áram"
+        ],
+        "answer": "Nincs benne a növelő blokk vagy rossz a feltétel"
+      },
+      {
+        "question": "Mi az a 'végtelen ciklus' hiba?",
+        "options": [
+          "A program beragad és nem reagál",
+          "Nagyon jó játék",
+          "Kerek kód",
+          "Szép animáció"
+        ],
+        "answer": "A program beragad és nem reagál"
+      },
+      {
+        "question": "Hogyan javítható a 'túl gyors' animáció?",
+        "options": [
+          "'Várj' blokkok beillesztésével",
+          "A gép lassításával",
+          "Csukott szemmel",
+          "Nem javítható"
+        ],
+        "answer": "'Várj' blokkok beillesztésével"
+      },
+      {
+        "question": "Mit jelent az, hogy a kód 'tiszta'?",
+        "options": [
+          "Rendezett, jól olvasható és értelmezhető",
+          "Le van törölve a monitor",
+          "Nincs benne hang",
+          "Kevés blokkból áll"
+        ],
+        "answer": "Rendezett, jól olvasható és értelmezhető"
+      },
+      {
+        "question": "Mire jó a 'tisztítás' gomb a kód területen?",
+        "options": [
+          "Rendezi a blokkokat, hogy átláthatóbb legyen",
+          "Törli a kódot",
+          "Megjavítja a hibákat",
+          "Kikapcsolja a hangot"
+        ],
+        "answer": "Rendezi a blokkokat, hogy átláthatóbb legyen"
+      },
+      {
+        "question": "Mi az a 'nyomkövetés'?",
+        "options": [
+          "A program futásának figyelemmel kísérése",
+          "Lábnyomok keresése",
+          "Az egér követése",
+          "A tanár figyelése"
+        ],
+        "answer": "A program futásának figyelemmel kísérése"
+      },
+      {
+        "question": "Hogyan izolálhatunk egy hibát?",
+        "options": [
+          "Különválasztjuk a gyanús kódrészletet",
+          "Bezárjuk a böngészőt",
+          "Letakarjuk a képernyőt",
+          "Kikapcsoljuk a hangot"
+        ],
+        "answer": "Különválasztjuk a gyanús kódrészletet"
+      },
+      {
+        "question": "Mit jelent a 'redundáns' kód?",
+        "options": [
+          "Feleslegesen ismétlődő kód",
+          "Nagyon fontos kód",
+          "Színes kód",
+          "Zene kód"
+        ],
+        "answer": "Feleslegesen ismétlődő kód"
+      },
+      {
+        "question": "Mi az a 'beta' verzió?",
+        "options": [
+          "Még tesztelés alatt álló változat",
+          "A kész játék",
+          "Egy hal",
+          "A második szint"
+        ],
+        "answer": "Még tesztelés alatt álló változat"
+      },
+      {
+        "question": "Hogyan segíthetnek mások a hibakeresésben?",
+        "options": [
+          "Friss szemmel észrevehetik, amit mi nem",
+          "Megírják helyettünk",
+          "Kinevetnek",
+          "Semmit nem ér"
+        ],
+        "answer": "Friss szemmel észrevehetik, amit mi nem"
+      },
+      {
+        "question": "Mi az a 'dokumentáció'?",
+        "options": [
+          "A program működésének leírása",
+          "Egy film",
+          "A kód törlése",
+          "A monitor neve"
+        ],
+        "answer": "A program működésének leírása"
+      },
+      {
+        "question": "Mit jelent az 'optimalizálás'?",
+        "options": [
+          "A kód hatékonyabbá tétele",
+          "A kód szépítése",
+          "A kód törlése",
+          "A kód színezése"
+        ],
+        "answer": "A kód hatékonyabbá tétele"
+      },
+      {
+        "question": "Miért nem hallatszik a hang?",
+        "options": [
+          "Le van némítva a gép vagy nincs lejátszás blokk",
+          "Rossz a kép",
+          "Nincs benne mozgás",
+          "Túl nagy a méret"
+        ],
+        "answer": "Le van némítva a gép vagy nincs lejátszás blokk"
+      },
+      {
+        "question": "Miért villog a Sprite?",
+        "options": [
+          "Túl gyorsan váltja a jelmezeket vagy elrejt-megjelenít",
+          "Így van jól",
+          "Fázik",
+          "Lemerült"
+        ],
+        "answer": "Túl gyorsan váltja a jelmezeket vagy elrejt-megjelenít"
+      },
+      {
+        "question": "Hogyan lehet visszavonni egy hibás lépést?",
+        "options": [
+          "Szerkesztés -> Visszavonás (Ctrl+Z)",
+          "Nem lehet",
+          "Újra kell írni",
+          "Sírni kell"
+        ],
+        "answer": "Szerkesztés -> Visszavonás (Ctrl+Z)"
+      },
+      {
+        "question": "Mit csinál a 'töredék' (fragment) kód?",
+        "options": [
+          "Olyan kód, ami nincs sehova kapcsolva és nem fut",
+          "Egy kis darab kép",
+          "Egy hang",
+          "Hibaüzenet"
+        ],
+        "answer": "Olyan kód, ami nincs sehova kapcsolva és nem fut"
+      },
+      {
+        "question": "Mi a legfontosabb tulajdonság egy hibakeresőnek?",
+        "options": [
+          "Türelem és kitartás",
+          "Gyorsaság",
+          "Hangosság",
+          "Erő"
+        ],
+        "answer": "Türelem és kitartás"
+      }
+    ],
+    "typing": [
+      "hibakeresés",
+      "javítás",
+      "ellenőrzés",
+      "teszt",
+      "türelem",
+      "megoldás",
+      "figyelem",
+      "rendezés",
+      "nyom",
+      "pontosság"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Drawing Precisely",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What tool do you use to draw a perfect circle?",
+      "options": [
+        "Ellipse tool while holding Shift",
+        "Pencil tool",
+        "Brush tool",
+        "Eraser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you draw a perfect square?",
+      "options": [
+        "Rectangle tool while holding Shift",
+        "A ruler on the screen",
+        "Drawing very carefully",
+        "Using the 'Square' tool if it exists"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Grid' in a drawing app?",
+      "options": [
+        "A series of lines to help align objects",
+        "A type of bird",
+        "A trap",
+        "A heater"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Snap to Grid' do?",
+      "options": [
+        "Makes objects jump to grid lines for accuracy",
+        "Makes the computer snap",
+        "Deletes the grid",
+        "Cleans the drawing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Line Tool' for?",
+      "options": [
+        "Drawing straight lines",
+        "Drawing circles",
+        "Writing text",
+        "Erasing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a line perfectly horizontal?",
+      "options": [
+        "Hold Shift while drawing",
+        "Use a ruler",
+        "Try really hard",
+        "Turn the monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Group' in a drawing app?",
+      "options": [
+        "Binding multiple objects to move together",
+        "A bunch of friends",
+        "A music band",
+        "A type of color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Ungroup'?",
+      "options": [
+        "Splitting grouped objects apart",
+        "Being alone",
+        "Deleting a group",
+        "Changing colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Layering' mean?",
+      "options": [
+        "Placing objects on top of each other",
+        "Wearing many clothes",
+        "Painting a wall",
+        "Cutting cake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you move an object to the very front?",
+      "options": [
+        "Order -> Bring to Front",
+        "Drag it really fast",
+        "Delete other objects",
+        "Make it bigger"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fill Color'?",
+      "options": [
+        "The color inside a shape",
+        "Filling a cup",
+        "The background color",
+        "The color of the mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Border' or 'Stroke' color?",
+      "options": [
+        "The color of the outline of a shape",
+        "A sick color",
+        "The color of the brush",
+        "The screen edge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Opacity' or 'Transparency'?",
+      "options": [
+        "How see-through an object is",
+        "How heavy it is",
+        "How bright it is",
+        "How big it is"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Eyedropper' tool do?",
+      "options": [
+        "Picks a color from the drawing",
+        "Cleans the drawing",
+        "Fixes mistakes",
+        "Heals the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you resize an object without squishing it?",
+      "options": [
+        "Hold Shift while dragging a corner",
+        "Drag the sides",
+        "Pull the middle",
+        "Hope for the best"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Zoom In' for?",
+      "options": [
+        "Seeing details up close",
+        "Going fast",
+        "Changing colors",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Undo' button for?",
+      "options": [
+        "Fixing a mistake by going back",
+        "Going forward",
+        "Starting over",
+        "Saving"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Vector' image?",
+      "options": [
+        "An image that doesn't get blurry when resized",
+        "A scary image",
+        "A fast image",
+        "A type of animal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tool would you use to draw a custom shape?",
+      "options": [
+        "Polyline or Curve tool",
+        "Rectangle tool",
+        "Eraser",
+        "Text tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Canvas'?",
+      "options": [
+        "The area where you draw",
+        "A type of shoe",
+        "A tent",
+        "A screen protector"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you rotate an object?",
+      "options": [
+        "Drag the rotation handle (usually a dot)",
+        "Turn the mouse",
+        "Spin the monitor",
+        "Type 'Spin'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Duplicate'?",
+      "options": [
+        "Making an exact copy of an object",
+        "Deleting an object",
+        "Changing colors",
+        "Moving it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Gradient'?",
+      "options": [
+        "A smooth transition from one color to another",
+        "A school grade",
+        "A fast hill",
+        "A type of pencil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool looks like a paint bucket?",
+      "options": [
+        "Fill Tool",
+        "Pencil Tool",
+        "Eraser",
+        "Magnifier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Drawing Precisely' important in design?",
+      "options": [
+        "To make things look professional and fit perfectly",
+        "To finish faster",
+        "To use more colors",
+        "To please the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: website",
+      "answer": "website"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    }
+  ]
+}

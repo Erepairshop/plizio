@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Emails",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is an email?",
+      "options": [
+        "An electronic letter",
+        "A fast car",
+        "A type of fruit",
+        "A computer game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do you need to send an email?",
+      "options": [
+        "An email address",
+        "A stamp",
+        "A paper envelope",
+        "A mailbox in the street"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which symbol is in every email address?",
+      "options": [
+        "@",
+        "#",
+        "!",
+        "&"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Subject' of an email?",
+      "options": [
+        "What the email is about",
+        "A school lesson",
+        "The sender's name",
+        "A hidden secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you write the message?",
+      "options": [
+        "In the body field",
+        "On the screen frame",
+        "In the address bar",
+        "On the mouse pad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Attachment'?",
+      "options": [
+        "A file sent with an email",
+        "A part of the computer",
+        "A type of glue",
+        "A feeling"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Inbox' mean?",
+      "options": [
+        "Where new emails arrive",
+        "A box for pencils",
+        "A place to throw trash",
+        "The computer case"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Sent' folder contain?",
+      "options": [
+        "Emails you have sent",
+        "Emails you deleted",
+        "Drafts you are writing",
+        "Junk mail"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Spam'?",
+      "options": [
+        "Unwanted junk email",
+        "A type of meat",
+        "A funny joke",
+        "A special prize"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do with a suspicious email?",
+      "options": [
+        "Delete it without opening",
+        "Open it and click everything",
+        "Forward it to everyone",
+        "Reply to it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'CC' stand for?",
+      "options": [
+        "Carbon Copy",
+        "Cool Computer",
+        "Cat Chat",
+        "Chocolate Cake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Draft'?",
+      "options": [
+        "An unfinished email",
+        "A cold wind",
+        "A type of drawing",
+        "A fast runner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who is the 'Recipient'?",
+      "options": [
+        "The person who gets the email",
+        "The person who sends it",
+        "The computer",
+        "The internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Reply'?",
+      "options": [
+        "Answering an email",
+        "Deleting an email",
+        "Forwarding an email",
+        "Printing an email"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Forward' mean?",
+      "options": [
+        "Sending an email you got to someone else",
+        "Moving the computer forward",
+        "Going to the next page",
+        "A fast way to type"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you send photos by email?",
+      "options": [
+        "Yes",
+        "No",
+        "Only black and white",
+        "Only if they are small"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Email Address' like?",
+      "options": [
+        "name@provider.com",
+        "123 Street Name",
+        "My Name",
+        "www.name.com"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is email faster than a traditional letter?",
+      "options": [
+        "Yes, it's almost instant",
+        "No, it takes days",
+        "Only in summer",
+        "Only on weekends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Signature' in email?",
+      "options": [
+        "Text added at the end automatically",
+        "Writing your name with a pen on the screen",
+        "A secret password",
+        "A type of drawing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you use a password?",
+      "options": [
+        "To keep your emails private",
+        "To make it harder to type",
+        "To show off to friends",
+        "Because it's a rule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'BCC'?",
+      "options": [
+        "Blind Carbon Copy",
+        "Big Computer Center",
+        "Best Cat Choice",
+        "Blue Color Code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you send an email to many people at once?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they live in the same house",
+        "Only if you have many computers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Outbox'?",
+      "options": [
+        "Where emails wait to be sent",
+        "A box outside the house",
+        "The trash bin",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Phishing'?",
+      "options": [
+        "A scam to steal info via email",
+        "Catching fish with a computer",
+        "A type of typing",
+        "A computer sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share your email password?",
+      "options": [
+        "No, never",
+        "Yes, with everyone",
+        "Only with strangers",
+        "Yes, on a website"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    }
+  ]
+}

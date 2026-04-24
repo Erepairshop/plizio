@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Változók",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a változó?",
+        "options": [
+          "Egy nevesített tároló adatok számára",
+          "Egy elromlott blokk",
+          "A háttér neve",
+          "Egy mozgás parancs"
+        ],
+        "answer": "Egy nevesített tároló adatok számára"
+      },
+      {
+        "question": "Milyen adatot tárolhatunk változóban?",
+        "options": [
+          "Számot vagy szöveget",
+          "Csak vizet",
+          "Csak képet",
+          "Csak hangot"
+        ],
+        "answer": "Számot vagy szöveget"
+      },
+      {
+        "question": "Hogyan hozhatunk létre új változót?",
+        "options": [
+          "Változók -> Új változó gomb",
+          "Mozgás -> Új mozgás",
+          "Fájl -> Mentés",
+          "Nem lehet"
+        ],
+        "answer": "Változók -> Új változó gomb"
+      },
+      {
+        "question": "Mire jó a változó egy játékban?",
+        "options": [
+          "Pontszám vagy életek tárolására",
+          "Díszítésnek",
+          "A szereplő színezésére",
+          "Lassításra"
+        ],
+        "answer": "Pontszám vagy életek tárolására"
+      },
+      {
+        "question": "Melyik blokk állítja be a változó értékét?",
+        "options": [
+          "Legyen ... értéke ...",
+          "Változzon ...",
+          "Mutasd a változót",
+          "Töröld"
+        ],
+        "answer": "Legyen ... értéke ..."
+      },
+      {
+        "question": "Melyik blokk növeli a változó értékét?",
+        "options": [
+          "Változzon ... értéke ...-el",
+          "Legyen ...",
+          "Növekedj",
+          "Hozzáadás"
+        ],
+        "answer": "Változzon ... értéke ...-el"
+      },
+      {
+        "question": "Hogyan csökkenthetjük egy változó értékét?",
+        "options": [
+          "Negatív számot adunk hozzá",
+          "Kivonjuk a monitorból",
+          "Letöröljük",
+          "Kiabálunk"
+        ],
+        "answer": "Negatív számot adunk hozzá"
+      },
+      {
+        "question": "Megjeleníthető-e a változó a színpadon?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha titkos",
+          "Csak pirosan"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi az a 'lokális' változó?",
+        "options": [
+          "Csak egy szereplő látja",
+          "Mindenki látja",
+          "A város neve",
+          "Egy rossz változó"
+        ],
+        "answer": "Csak egy szereplő látja"
+      },
+      {
+        "question": "Mi az a 'globális' változó?",
+        "options": [
+          "Minden szereplő használhatja",
+          "Csak a macska látja",
+          "Az egész világ látja",
+          "Egy nagy változó"
+        ],
+        "answer": "Minden szereplő használhatja"
+      },
+      {
+        "question": "Melyik kategóriában találjuk a változókat?",
+        "options": [
+          "Változók",
+          "Műveletek",
+          "Vezérlés",
+          "Hang"
+        ],
+        "answer": "Változók"
+      },
+      {
+        "question": "Milyen színűek a változó blokkok?",
+        "options": [
+          "Narancssárga",
+          "Kék",
+          "Zöld",
+          "Piros"
+        ],
+        "answer": "Narancssárga"
+      },
+      {
+        "question": "Hogyan rejthetjük el a változót a színpadról?",
+        "options": [
+          "A 'Változó elrejtése' blokkal",
+          "Lekapcsoljuk a lámpát",
+          "Töröljük",
+          "Elfordítjuk a fejt"
+        ],
+        "answer": "A 'Változó elrejtése' blokkal"
+      },
+      {
+        "question": "Lehet-e egy változó neve bármi?",
+        "options": [
+          "Igen, érdemes beszédes nevet adni",
+          "Nem, csak szám lehet",
+          "Csak 'x' lehet",
+          "Csak angol szó"
+        ],
+        "answer": "Igen, érdemes beszédes nevet adni"
+      },
+      {
+        "question": "Mi történik, ha a változót 0-ra állítjuk a játék elején?",
+        "options": [
+          "Alaphelyzetbe kerül (pl. 0 pont)",
+          "Törlődik a játék",
+          "Lefagy a gép",
+          "Nyerünk"
+        ],
+        "answer": "Alaphelyzetbe kerül (pl. 0 pont)"
+      },
+      {
+        "question": "Hogyan változtathatjuk meg a változó kijelzőjének stílusát?",
+        "options": [
+          "Kattintsunk rá duplán a színpadon",
+          "Vegyünk új monitort",
+          "Nem lehet",
+          "Írjunk kódot"
+        ],
+        "answer": "Kattintsunk rá duplán a színpadon"
+      },
+      {
+        "question": "Mi az a 'csúszka' kijelző?",
+        "options": [
+          "Kézzel állítható változó érték",
+          "Egy játszótéri játék",
+          "A kód egy része",
+          "Egy hang effektus"
+        ],
+        "answer": "Kézzel állítható változó érték"
+      },
+      {
+        "question": "Hány változónk lehet egy projektben?",
+        "options": [
+          "Bármennyi",
+          "Csak tíz",
+          "Pontosan egy",
+          "Semennyi"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Össze lehet-e adni két változót?",
+        "options": [
+          "Igen, a műveletek blokkokkal",
+          "Nem",
+          "Csak ha papírra írjuk",
+          "Csak ha egyformák"
+        ],
+        "answer": "Igen, a műveletek blokkokkal"
+      },
+      {
+        "question": "Mi az a felhő változó?",
+        "options": [
+          "Az interneten tárolt, közös változó",
+          "Az égen lévő változó",
+          "Egy fehér változó",
+          "Egy elpárolgó adat"
+        ],
+        "answer": "Az interneten tárolt, közös változó"
+      },
+      {
+        "question": "Lehet-e egy változó értéke szöveg?",
+        "options": [
+          "Igen",
+          "Nem, csak szám",
+          "Csak ha rövid",
+          "Csak ha angol"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mire jó a 'Változó megjelenítése' blokk?",
+        "options": [
+          "Láthatóvá teszi a színpadon",
+          "Kimondja a gép",
+          "Kinyomtatja",
+          "Rajzol egyet"
+        ],
+        "answer": "Láthatóvá teszi a színpadon"
+      },
+      {
+        "question": "Miért fontos a változó alaphelyzetbe állítása?",
+        "options": [
+          "Hogy minden játékos ugyanannyi ponttal induljon",
+          "Hogy gyorsabb legyen a gép",
+          "Hogy színesebb legyen",
+          "Nem fontos"
+        ],
+        "answer": "Hogy minden játékos ugyanannyi ponttal induljon"
+      },
+      {
+        "question": "Mit jelent az 'increment' szó?",
+        "options": [
+          "Növelés",
+          "Csökkentés",
+          "Törlés",
+          "Másolás"
+        ],
+        "answer": "Növelés"
+      },
+      {
+        "question": "Melyik blokk kerek alakú és a változó nevét tartalmazza?",
+        "options": [
+          "A változó érték blokk",
+          "Az indító blokk",
+          "A stop blokk",
+          "A hang blokk"
+        ],
+        "answer": "A változó érték blokk"
+      }
+    ],
+    "typing": [
+      "változó",
+      "érték",
+      "tárolás",
+      "név",
+      "beállítás",
+      "növelés",
+      "csökkentés",
+      "pontszám",
+      "adat",
+      "lista"
+    ]
+  }
+}

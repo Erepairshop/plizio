@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Căutarea Imaginilor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Unde putem căuta imagini pe net?",
+      "options": [
+        "Pe motoare de căutare (ex. Google Images)",
+        "În calculatorul stins",
+        "Sub tastatură",
+        "În frigider"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce scriem pentru a găsi o imagine?",
+      "options": [
+        "Cuvinte cheie (numele obiectului)",
+        "O poezie",
+        "Numele nostru",
+        "Mâncarea preferată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini după culoare?",
+      "options": [
+        "Da, există filtre de culoare",
+        "Nu, e imposibil",
+        "Doar după mărime",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Thumbnail'?",
+      "options": [
+        "O variantă mică a imaginii",
+        "O unghie",
+        "Un deget mare",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum vedem imaginea la mărime mare?",
+      "options": [
+        "Dăm click pe ea",
+        "Ne apropiem de monitor",
+        "Folosim o lupă",
+        "Strigăm la ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'rezoluția' unei imagini?",
+      "options": [
+        "Claritatea și numărul de pixeli",
+        "Cât de veche e poza",
+        "Cine a făcut poza",
+        "Culoarea pozei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem descărca imagini pe calculator?",
+      "options": [
+        "Da, cu Click dreapta -> Save image as",
+        "Nu, e interzis",
+        "Doar cu permisiune de la poliție",
+        "Doar poze cu flori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'GIF'?",
+      "options": [
+        "O imagine animată care se mișcă",
+        "O prăjitură",
+        "Un cadou",
+        "O poză mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta doar imagini cu fundal transparent?",
+      "options": [
+        "Da, folosind filtrele",
+        "Nu, toate au fundal",
+        "Doar poze alb-negru",
+        "Doar dacă desenăm noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Toate imaginile de pe net pot fi folosite liber?",
+      "options": [
+        "Nu, unele au drepturi de autor",
+        "Da, totul e la liber",
+        "Doar dacă le pictăm noi",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'dreptul de autor'?",
+      "options": [
+        "Regula care protejează creatorul pozei",
+        "O direcție de mers",
+        "O lege despre mașini",
+        "Un joc de cuvinte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini folosind altă imagine?",
+      "options": [
+        "Da, căutare inversă",
+        "Nu, doar prin cuvinte",
+        "Doar prin telefon",
+        "Doar prin oglindă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'clipart'?",
+      "options": [
+        "Imagini desenate simplu, grafice",
+        "Un clip video",
+        "O clemă de păr",
+        "Un tip de artă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se duc imaginile descărcate?",
+      "options": [
+        "În folderul Downloads (Descărcări)",
+        "În coșul de gunoi",
+        "Sub birou",
+        "Se șterget"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini de o anumită mărime?",
+      "options": [
+        "Da (mari, medii, mici)",
+        "Nu, vin cum vor ele",
+        "Doar mărimea ecranului",
+        "Doar mărimea mouse-ului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'format' de imagine (ex. JPG, PNG)?",
+      "options": [
+        "Modul în care este salvată informația pozei",
+        "O formă geometrică",
+        "O culoare",
+        "O regulă de mate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care format acceptă transparență?",
+      "options": [
+        "PNG",
+        "JPG",
+        "MP3",
+        "TXT"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini doar de tip portret?",
+      "options": [
+        "Da, folosind filtrul de orientare",
+        "Nu, toate sunt la fel",
+        "Doar dacă rotim monitorul",
+        "Doar dacă stăm în picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'wallpaper'?",
+      "options": [
+        "O imagine de fundal pentru ecran",
+        "Tapet real pe perete",
+        "O hârtie de scris",
+        "Un joc de perete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini recente?",
+      "options": [
+        "Da, filtrând după timp",
+        "Nu, pozele sunt toate vechi",
+        "Doar dacă știm data",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'stock photo'?",
+      "options": [
+        "O imagine făcută de profesioniști pentru a fi vândută/folosită",
+        "O poză cu o ciorap",
+        "O poză cu mâncare",
+        "O poză veche"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă descărcăm o poză foarte mică?",
+      "options": [
+        "Se vede neclar dacă o mărim",
+        "Se vede perfect",
+        "Se șterge singură",
+        "Face zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum punem o poză de pe net într-un document?",
+      "options": [
+        "O salvăm și apoi o inserăm sau copy-paste",
+        "O desenăm pe ecran",
+        "O strigăm",
+        "O decupăm cu foarfeca"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este sigur să descărcăm poze de pe site-uri ciudate?",
+      "options": [
+        "Nu, pot avea viruși",
+        "Da, pozele sunt sigure mereu",
+        "Doar dacă sunt frumoase",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta imagini cu fețe de oameni?",
+      "options": [
+        "Da, există astfel de filtre",
+        "Nu, e interzis",
+        "Doar poze cu animale",
+        "Doar desene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: imagine",
+      "answer": "imagine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poză",
+      "answer": "poză"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: descărcare",
+      "answer": "descărcare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: căutare",
+      "answer": "căutare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rezultat",
+      "answer": "rezultat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mărime",
+      "answer": "mărime"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tip",
+      "answer": "tip"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: culoare",
+      "answer": "culoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fundal",
+      "answer": "fundal"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: licență",
+      "answer": "licență"
+    }
+  ]
+}

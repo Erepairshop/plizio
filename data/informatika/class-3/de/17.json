@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bildbearbeitung",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Bildbearbeitung?",
+      "options": [
+        "Fotos am Computer verändern",
+        "Bilder malen",
+        "Bilder löschen",
+        "Bilder drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zuschneiden'?",
+      "options": [
+        "Teile des Bildes wegschneiden",
+        "Das Bild zerschneiden",
+        "Das Bild bekleben",
+        "Das Bild vergrößern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Filter' bei Fotos?",
+      "options": [
+        "Ein Effekt, der das Aussehen ändert",
+        "Ein Kaffeefilter",
+        "Ein Sieb",
+        "Ein Tuch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Helligkeit?",
+      "options": [
+        "Über die Belichtungseinstellung",
+        "Licht im Zimmer anmachen",
+        "Monitor putzen",
+        "Augen schließen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Kontrast'?",
+      "options": [
+        "Unterschied zwischen hell und dunkel",
+        "Ein bunter Rand",
+        "Ein scharfes Bild",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Sättigung'?",
+      "options": [
+        "Wie kräftig die Farben sind",
+        "Ob das Bild satt ist",
+        "Die Größe des Bildes",
+        "Die Schärfe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Entfernen von 'roten Augen'?",
+      "options": [
+        "Rote-Augen-Korrektur",
+        "Augen zu",
+        "Sonnenbrille",
+        "Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Retuschieren'?",
+      "options": [
+        "Kleine Fehler im Bild ausbessern",
+        "Das Bild neu malen",
+        "Das Bild löschen",
+        "Das Bild verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Größe eines Bildes ändern?",
+      "options": [
+        "Ja, skalieren oder Größe ändern",
+        "Nein, niemals",
+        "Nur mit der Schere",
+        "Nur mit dem Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Schärfen'?",
+      "options": [
+        "Details im Bild deutlicher machen",
+        "Mit einem Messer schneiden",
+        "Ein Bleistift spitzen",
+        "Lauter machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Collage?",
+      "options": [
+        "Viele Bilder zu einem neuen zusammenfügen",
+        "Ein einzelnes Foto",
+        "Ein film",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text auf ein Foto schreiben?",
+      "options": [
+        "Ja, zur Beschriftung",
+        "Nein",
+        "Nur mit dem Stift",
+        "Nur auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Sticker' in Apps?",
+      "options": [
+        "Ein kleines fertiges Bild zum Aufkleben",
+        "Ein echter Aufkleber",
+        "Ein Link",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Schwarz-Weiß'?",
+      "options": [
+        "Alle Farben entfernen",
+        "Nur schwarz malen",
+        "Nur weiß malen",
+        "Ein neues Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Sepia?",
+      "options": [
+        "Ein bräunlicher Alt-Foto-Effekt",
+        "Ein Fisch",
+        "Eine Farbe",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim 'Speichern unter'?",
+      "options": [
+        "Das Original bleibt erhalten, Kopie neu",
+        "Das Bild wird gelöscht",
+        "Der PC geht aus",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fotobearbeitungsprogramm?",
+      "options": [
+        "Z.B. GIMP, Photoshop oder Handy-Apps",
+        "Browser",
+        "Word",
+        "Excel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Hintergründe austauschen?",
+      "options": [
+        "Ja, mit Profi-Programmen",
+        "Nein",
+        "Nur mit dem Vorhang",
+        "Nur im Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Auflösung eines Fotos?",
+      "options": [
+        "Anzahl der Pixel (Schärfe)",
+        "Der Name des Bildes",
+        "Die Farbe",
+        "Das Datum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Selfie?",
+      "options": [
+        "Ein Foto von sich selbst",
+        "Ein Foto vom Hund",
+        "Ein Foto vom Essen",
+        "Ein Foto vom Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man Bilder bearbeiten?",
+      "options": [
+        "Um sie schöner zu machen oder zu korrigieren",
+        "Damit sie schlechter aussehen",
+        "Weil es der PC will",
+        "Um sie zu verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man fremde Gesichter ungefragt verändern?",
+      "options": [
+        "Nein, man muss höflich sein (Recht am Bild)",
+        "Ja, immer",
+        "Nur bei Freunden",
+        "Nur in der Schule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Fotogalerie?",
+      "options": [
+        "Eine Sammlung von Fotos",
+        "Ein Museum",
+        "Ein Laden",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Rahmen?",
+      "options": [
+        "Eine Verzierung um das Bild",
+        "Ein Fenster",
+        "Eine Tür",
+        "Ein Haus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schickt man ein bearbeitetes Bild?",
+      "options": [
+        "Per E-Mail, Cloud oder Messenger",
+        "Mit der Post",
+        "Mit dem Flugzeug",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Foto",
+      "answer": "Foto"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Effekt",
+      "answer": "Effekt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Filter",
+      "answer": "Filter"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schneiden",
+      "answer": "Schneiden"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Farbe",
+      "answer": "Farbe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Hell",
+      "answer": "Hell"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Dunkel",
+      "answer": "Dunkel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Größe",
+      "answer": "Größe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speichern",
+      "answer": "Speichern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Korrektur",
+      "answer": "Korrektur"
+    }
+  ]
+}

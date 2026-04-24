@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Apeluri Video (Zoom)",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un apel video?",
+      "options": [
+        "O conversație în care ne vedem și auzim",
+        "Un joc video",
+        "Un film la cinema",
+        "O poză fixă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv este necesar pentru imagine?",
+      "options": [
+        "Camera web",
+        "Mouse-ul",
+        "Tastatura",
+        "Imprimanta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv este necesar pentru sunet?",
+      "options": [
+        "Microfonul",
+        "Monitorul",
+        "Bateria",
+        "Cablul de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Mute'?",
+      "options": [
+        "Oprește microfonul",
+        "Oprește imaginea",
+        "Închide apelul",
+        "Deschide un chat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Stop Video'?",
+      "options": [
+        "Oprește camera noastră",
+        "Închide calculatorul",
+        "Oprește muzica",
+        "Face o poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum intrăm într-o ședință Zoom?",
+      "options": [
+        "Folosim un link sau un ID",
+        "Strigăm numele profesorului",
+        "Batem în monitor",
+        "Așteptăm să plouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea mai mulți oameni deodată?",
+      "options": [
+        "Da, în modul Galerie",
+        "Nu, doar pe unul",
+        "Doar dacă avem 2 monitoare",
+        "Doar cu ochelari speciali"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Screen Sharing' (partajarea ecranului)?",
+      "options": [
+        "Arătăm celorlalți ce avem pe ecranul nostru",
+        "Împărțim monitorul în două cu un ferăstrău",
+        "Trimitem monitorul prin poștă",
+        "Vindem ecranul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie mesaje în timpul apelului?",
+      "options": [
+        "Da, în fereastra de Chat",
+        "Nu, e interzis",
+        "Doar pe hârtie",
+        "Doar după ce se termină apelul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Virtual Background' (fundal virtual)?",
+      "options": [
+        "O imagine pusă în spatele nostru pe ecran",
+        "Un perete pictat",
+        "O grădină reală",
+        "O pelerină invizibilă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu auzim nimic?",
+      "options": [
+        "Verificăm boxele sau căștile",
+        "Cumpărăm alt calculator",
+        "Plecăm din cameră",
+        "Închidem ochii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem lumină în cameră?",
+      "options": [
+        "Da, ca să ne vadă ceilalți bine",
+        "Nu, e mai bine pe întuneric",
+        "Nu contează",
+        "Doar dacă sunt la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Raise Hand' (ridică mâna) în Zoom?",
+      "options": [
+        "Un buton pentru a cere cuvântul",
+        "O mișcare reală a mâinii",
+        "Un joc de noroc",
+        "O comandă de oprire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi Zoom pe tabletă?",
+      "options": [
+        "Da",
+        "Nu, doar pe laptop",
+        "Doar pe televizor",
+        "Nu, e prea mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Leave' (Părăsește)?",
+      "options": [
+        "Ieșim din apel",
+        "Intrăm în apel",
+        "Ștergem programul",
+        "Adormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Waiting Room' (Sala de așteptare)?",
+      "options": [
+        "Locul unde așteptăm să fim acceptați în apel",
+        "O cameră reală din școală",
+        "Un joc de așteptat",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Trebuie să fim îmbrăcați adecvat la ora online?",
+      "options": [
+        "Da",
+        "Nu, putem fi în pijama",
+        "Doar dacă avem camera pornită",
+        "Nu vede nimeni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem înregistra un apel video?",
+      "options": [
+        "Da, dacă avem permisiune",
+        "Nu, niciodată",
+        "Da, oricând vrem noi",
+        "Doar cu telefonul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'Breakout Room'?",
+      "options": [
+        "O cameră mică pentru discuții în grup",
+        "O cameră care se sparge",
+        "O pauză de masă",
+        "O ieșire de urgență"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum invităm pe cineva în Zoom?",
+      "options": [
+        "Trimitem link-ul de invitație",
+        "Strigăm pe geam",
+        "Trimitem un porumbel",
+        "Nu putem invita pe nimeni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă internetul merge prost în apel?",
+      "options": [
+        "Putem opri camera pentru a salva net",
+        "Plângem",
+        "Lovim routerul",
+        "Aruncăm mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Host' (Gazdă) în Zoom?",
+      "options": [
+        "Persoana care conduce ședința",
+        "Un vizitator",
+        "Un virus",
+        "Numele programului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite fișiere prin chat-ul Zoom?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt 'Reactions' (reacții) în Zoom?",
+      "options": [
+        "Emoji-uri precum inimioară sau aplauze",
+        "Strigăte",
+        "Sărituri",
+        "O stare de rău"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Zoom funcționează fără internet?",
+      "options": [
+        "Nu",
+        "Da",
+        "Doar dacă avem programul instalat",
+        "Uneori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cameră",
+      "answer": "cameră"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: microfon",
+      "answer": "microfon"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: imagine",
+      "answer": "imagine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: logare",
+      "answer": "logare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: conversație",
+      "answer": "conversație"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: partajare",
+      "answer": "partajare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mut",
+      "answer": "mut"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: galerie",
+      "answer": "galerie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: virtual",
+      "answer": "virtual"
+    }
+  ]
+}

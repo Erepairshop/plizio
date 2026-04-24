@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bedingungen und Ereignisse",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ereignis in Scratch?",
+      "options": [
+        "Etwas, das ein Skript startet (z.B. Klick)",
+        "Ein Fest",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Block startet alles?",
+      "options": [
+        "Wenn grüne Flagge angeklickt",
+        "Wenn Stopp",
+        "Wenn Ende",
+        "Wenn Pause"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Bedingung?",
+      "options": [
+        "Eine Falls-Abfrage (Wenn..., dann...)",
+        "Ein Gesetz",
+        "Ein Wetter",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt der Bedingungs-Block?",
+      "options": [
+        "Falls ..., dann",
+        "Immer wenn",
+        "Vielleicht",
+        "Niemals"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Fühler'-Block?",
+      "options": [
+        "Prüft Dinge (z.B. Berührung)",
+        "Ein Finger",
+        "Ein Ohr",
+        "Eine Nase"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe haben Fühler-Blöcke?",
+      "options": [
+        "Hellblau",
+        "Dunkelblau",
+        "Grün",
+        "Orange"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Beispiel für ein Ereignis?",
+      "options": [
+        "Taste Leertaste gedrückt",
+        "Bild gemalt",
+        "PC an",
+        "Licht aus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht 'Falls ..., dann, sonst'?",
+      "options": [
+        "Entscheidung zwischen zwei Wegen",
+        "Nur einen weg",
+        "Alles löschen",
+        "Nichts tun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie prüft man, ob eine Figur die Maus berührt?",
+      "options": [
+        "Fühler-Block 'Wird Mauszeiger berührt?'",
+        "Anschauen",
+        "Maus schütteln",
+        "Laut rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Variable in Bedingungen?",
+      "options": [
+        "Z.B. Punkte > 10",
+        "Ein Name",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Form haben Bedingungen (Fühler)?",
+      "options": [
+        "Sechseckig (Rautenform)",
+        "Rund",
+        "Viereckig",
+        "Sternförmig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn die Bedingung nicht wahr ist?",
+      "options": [
+        "Der 'Dann'-Teil wird übersprungen",
+        "Der PC geht aus",
+        "Alles wird gelöscht",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man prüfen, ob eine Farbe berührt wird?",
+      "options": [
+        "Ja, mit dem entsprechenden Fühler",
+        "Nein",
+        "Nur Formen",
+        "Nur Ränder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Nachricht senden'-Block?",
+      "options": [
+        "Ein Skript an eine andere Figur schicken",
+        "Eine E-Mail",
+        "Eine SMS",
+        "Ein Brief"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht 'Wenn ich ... empfange'?",
+      "options": [
+        "Startet ein Skript bei einer Nachricht",
+        "Löscht alles",
+        "Beendet alles",
+        "Sperrt alles"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mehrere Bedingungen kombinieren?",
+      "options": [
+        "Ja, mit 'und' / 'oder'",
+        "Nein",
+        "Nur zwei",
+        "Nur drei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'nicht'-Block?",
+      "options": [
+        "Kehrt eine Bedingung um",
+        "Löscht eine Bedingung",
+        "Macht sie bunter",
+        "Macht sie größer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Wird Rand berührt?'",
+      "options": [
+        "Prüft, ob Figur am Bildschirmrand ist",
+        "Prüft das Wetter",
+        "Prüft den Tisch",
+        "Prüft die Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu sind Bedingungen in Spielen gut?",
+      "options": [
+        "Für Punkte, Leben, Gewinnen/Verlieren",
+        "Nur für die Musik",
+        "Nur für das Design",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Block startet beim Anklicken der Figur?",
+      "options": [
+        "Wenn diese Figur angeklickt wird",
+        "Wenn Flagge",
+        "Wenn Taste",
+        "Wenn Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Bedingungen in Schleifen sein?",
+      "options": [
+        "Ja, sehr oft",
+        "Nein, niemals",
+        "Nur sonntags",
+        "Nur zwei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Vergleichsoperator?",
+      "options": [
+        "> (größer), < (kleiner), = (gleich)",
+        "ABC",
+        "Rot Blau Grün",
+        "1 2 3"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die grünen Vergleichs-Blöcke?",
+      "options": [
+        "Operatoren",
+        "Fühler",
+        "Bewegung",
+        "Aussehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Ereignis einen Ton starten?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Bilder",
+        "Nur Texte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn 'Falls' in 'Fortlaufend' ist?",
+      "options": [
+        "Es wird immer wieder geprüft",
+        "Es wird nur einmal geprüft",
+        "Nichts passiert",
+        "Der PC wird langsam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ereignis",
+      "answer": "Ereignis"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bedingung",
+      "answer": "Bedingung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Falls",
+      "answer": "Falls"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Dann",
+      "answer": "Dann"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Sonst",
+      "answer": "Sonst"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Fühler",
+      "answer": "Fühler"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Taste",
+      "answer": "Taste"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Klick",
+      "answer": "Klick"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wahr",
+      "answer": "Wahr"
+    }
+  ]
+}

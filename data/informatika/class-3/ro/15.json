@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Formatarea Textului",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă a formata textul?",
+      "options": [
+        "A-i schimba aspectul (culoare, mărime, stil)",
+        "A-l șterge",
+        "A-l citi cu voce tare",
+        "A-l scrie pe hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care buton face textul mai gros?",
+      "options": [
+        "Bold (B)",
+        "Italic (I)",
+        "Underline (U)",
+        "Color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care buton înclină textul?",
+      "options": [
+        "Italic (I)",
+        "Bold (B)",
+        "Underline (U)",
+        "Font size"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care buton trage o linie sub text?",
+      "options": [
+        "Underline (U)",
+        "Bold (B)",
+        "Italic (I)",
+        "Highlighter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea literelor?",
+      "options": [
+        "Da",
+        "Nu, sunt doar negre",
+        "Doar roșu",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Highlighter' (Evidențiator)?",
+      "options": [
+        "Pune o culoare de fundal în spatele textului",
+        "Face textul să dispară",
+        "Mărește textul",
+        "Șterge textul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde schimbăm mărimea literelor?",
+      "options": [
+        "La Font Size (numărul de lângă font)",
+        "La tastatură",
+        "La monitor",
+        "La baterie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Fontul'?",
+      "options": [
+        "Stilul sau forma literelor",
+        "O fântână de apă",
+        "O eroare de net",
+        "Un tip de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Align Left'?",
+      "options": [
+        "Aliniază textul în partea stângă",
+        "În partea dreaptă",
+        "La mijloc",
+        "Îl șterge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Align Right'?",
+      "options": [
+        "Aliniază textul în partea dreaptă",
+        "În partea stângă",
+        "La mijloc",
+        "Îl ascunde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Center'?",
+      "options": [
+        "Aliniază textul la mijloc",
+        "Îl pune sus",
+        "Îl pune jos",
+        "Îl face cerc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o listă 'Bulleted'?",
+      "options": [
+        "O listă cu puncte în fața rândurilor",
+        "O listă cu cifre",
+        "O listă secretă",
+        "O listă de note"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o listă 'Numbered'?",
+      "options": [
+        "O listă cu cifre (1, 2, 3...)",
+        "O listă cu desene",
+        "O listă de litere",
+        "O listă de fructe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face doar un cuvânt dintr-o propoziție colorat?",
+      "options": [
+        "Da, îl selectăm doar pe el",
+        "Nu, se colorează tot",
+        "Doar dacă e primul",
+        "Doar dacă e ultimul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Justify'?",
+      "options": [
+        "Aliniază textul și la stânga și la dreapta",
+        "Îl șterge",
+        "Îl face invizibil",
+        "Îl face să sară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta 'Caps Lock'?",
+      "options": [
+        "Face toate literele mari",
+        "Închide calculatorul",
+        "Șterge textul",
+        "Pune spații"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta 'Shift'?",
+      "options": [
+        "Face o singură literă mare sau simboluri",
+        "Oprește netul",
+        "Schimbă muzica",
+        "Curăță ecranul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Line spacing'?",
+      "options": [
+        "Distanța dintre rânduri",
+        "Lungimea unui rând",
+        "Numărul de rânduri",
+        "Grosimea literelor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge formatarea (Clear formatting)?",
+      "options": [
+        "Da, revine la textul simplu",
+        "Nu, e permanentă",
+        "Doar dacă rescriem",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim de obicei aceste butoane?",
+      "options": [
+        "În bara de instrumente sus",
+        "Pe mouse",
+        "Pe spatele monitorului",
+        "În coșul de gunoi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Lower case'?",
+      "options": [
+        "Litere mici",
+        "Litere mari",
+        "Litere groase",
+        "Litere subțiri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Upper case'?",
+      "options": [
+        "Litere mari",
+        "Litere mici",
+        "Litere chinezești",
+        "Litere invizibile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune text în interiorul unei forme?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă forma e pătrată",
+        "Doar dacă o pictăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e bine să formatăm textul?",
+      "options": [
+        "Ca să fie mai ușor de citit și mai frumos",
+        "Ca să pierdem timpul",
+        "Ca să ocupăm spațiu",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face tasta 'Backspace'?",
+      "options": [
+        "Șterge litera dinaintea cursorului",
+        "Salvează documentul",
+        "Închide programul",
+        "Face litera mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: îngroșat",
+      "answer": "îngroșat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cursiv",
+      "answer": "cursiv"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: culoare",
+      "answer": "culoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mărime",
+      "answer": "mărime"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: aliniere",
+      "answer": "aliniere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: listă",
+      "answer": "listă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: paragraf",
+      "answer": "paragraf"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: evidențiere",
+      "answer": "evidențiere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: subliniere",
+      "answer": "subliniere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: literă",
+      "answer": "literă"
+    }
+  ]
+}

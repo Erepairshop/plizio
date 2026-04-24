@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Browser-Tabs",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tab im Browser?",
+      "options": [
+        "Ein Registerreiter für Webseiten",
+        "Ein Button zum Schließen",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu sind Tabs gut?",
+      "options": [
+        "Mehrere Webseiten gleichzeitig öffnen",
+        "Computer ausschalten",
+        "Musik lauter machen",
+        "Spiele löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie öffnet man einen neuen Tab?",
+      "options": [
+        "Klick auf das Plus-Symbol",
+        "Klick auf das X",
+        "Browser schließen",
+        "PC schütteln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schließt man einen Tab?",
+      "options": [
+        "Klick auf das X im Tab",
+        "Klick auf das Logo",
+        "PC ausschalten",
+        "Monitor putzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabs verschieben?",
+      "options": [
+        "Ja, durch Ziehen mit der Maus",
+        "Nein",
+        "Nur am Sonntag",
+        "Nur mit Kleber"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf einen Tab klickt?",
+      "options": [
+        "Man sieht die Webseite dieses Tabs",
+        "Der Tab wird gelöscht",
+        "Der Browser schließt",
+        "Ein Video startet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Fenster' im Vergleich zu einem Tab?",
+      "options": [
+        "Ein Fenster kann viele Tabs enthalten",
+        "Es ist das Gleiche",
+        "Ein Fenster ist kleiner",
+        "Ein Fenster ist grün"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man nicht zu viele Tabs offen haben?",
+      "options": [
+        "Der Computer kann langsam werden",
+        "Es sieht schön aus",
+        "Die Maus geht kaputt",
+        "Das Internet wird leer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabs wiederherstellen?",
+      "options": [
+        "Ja, oft über den Verlauf",
+        "Nein, nie",
+        "Nur mit Zauberei",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die URL-Leiste?",
+      "options": [
+        "Dort steht die Adresse der Seite",
+        "Dort sind die Tabs",
+        "Dort ist das Menü",
+        "Dort sind Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Wechseln zwischen Tabs?",
+      "options": [
+        "Navigieren",
+        "Fliegen",
+        "Hüpfen",
+        "Rennen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Haus-Symbol?",
+      "options": [
+        "Zur Startseite gehen",
+        "Tab schließen",
+        "Neuen Tab öffnen",
+        "Drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der Pfeil nach links?",
+      "options": [
+        "Eine Seite zurück gehen",
+        "Eine Seite vor gehen",
+        "Seite neu laden",
+        "Browser schließen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der Pfeil nach rechts?",
+      "options": [
+        "Eine Seite vor gehen",
+        "Eine Seite zurück gehen",
+        "Seite löschen",
+        "Favoriten öffnen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der kreisförmige Pfeil?",
+      "options": [
+        "Seite neu laden",
+        "Seite schließen",
+        "Seite drucken",
+        "Seite speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabs gruppieren?",
+      "options": [
+        "Ja, in modernen Browsern",
+        "Nein",
+        "Nur mit Schere",
+        "Nur im Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo befinden sich Tabs meistens?",
+      "options": [
+        "Ganz oben im Browserfenster",
+        "Ganz unten",
+        "Links an der Seite",
+        "In der Mitte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Favicon?",
+      "options": [
+        "Ein kleines Bildchen im Tab",
+        "Ein großer Text",
+        "Ein Video",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man einen Tab stummschalten?",
+      "options": [
+        "Ja, wenn dort Ton spielt",
+        "Nein",
+        "Nur mit Kopfhörern",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Inkognito-Modus'?",
+      "options": [
+        "Surfen ohne Verlauf zu speichern",
+        "Ein Spiel",
+        "Ein bunter Browser",
+        "Ein neuer PC"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man eine Seite aus einem Tab?",
+      "options": [
+        "Als Lesezeichen (Stern)",
+        "Als Foto",
+        "Gar nicht",
+        "Auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim Schließen des Browsers?",
+      "options": [
+        "Alle Tabs werden geschlossen",
+        "Nur ein Tab schließt",
+        "Der PC geht aus",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabs anpinnen?",
+      "options": [
+        "Ja, damit sie immer da sind",
+        "Nein",
+        "Nur mit Nadeln",
+        "Nur im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Tab-Vorschau?",
+      "options": [
+        "Ein kleines Bild der Seite",
+        "Ein Text",
+        "Ein Ton",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Programm nutzt Tabs?",
+      "options": [
+        "Webbrowser",
+        "Taschenrechner",
+        "Notizblock",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Browser",
+      "answer": "Browser"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Register",
+      "answer": "Register"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Fenster",
+      "answer": "Fenster"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Öffnen",
+      "answer": "Öffnen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schließen",
+      "answer": "Schließen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wechseln",
+      "answer": "Wechseln"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Internet",
+      "answer": "Internet"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Surfen",
+      "answer": "Surfen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Symbol",
+      "answer": "Symbol"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Navigation",
+      "answer": "Navigation"
+    }
+  ]
+}

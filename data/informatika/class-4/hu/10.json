@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Feltételek",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a feltétel lényege?",
+        "options": [
+          "Döntéshozatal a programban",
+          "A gép kikapcsolása",
+          "Rajzolás",
+          "Éneklés"
+        ],
+        "answer": "Döntéshozatal a programban"
+      },
+      {
+        "question": "Melyik blokk vizsgál feltételt?",
+        "options": [
+          "ha ... akkor",
+          "menj",
+          "mondd",
+          "várj"
+        ],
+        "answer": "ha ... akkor"
+      },
+      {
+        "question": "Milyen alakú a feltétel helye a 'ha' blokkban?",
+        "options": [
+          "Hatszögletű",
+          "Kerek",
+          "Négyzet",
+          "Nincs helye"
+        ],
+        "answer": "Hatszögletű"
+      },
+      {
+        "question": "Mi a 'ha ... akkor, egyébként' blokk lényege?",
+        "options": [
+          "Két lehetőség közötti választás",
+          "Csak egy lehetőség",
+          "Várakozás",
+          "Törlés"
+        ],
+        "answer": "Két lehetőség közötti választás"
+      },
+      {
+        "question": "Mikor fut le a 'ha' ág?",
+        "options": [
+          "Ha a feltétel igaz",
+          "Ha a feltétel hamis",
+          "Bármikor",
+          "Sosem"
+        ],
+        "answer": "Ha a feltétel igaz"
+      },
+      {
+        "question": "Mikor fut le az 'egyébként' ág?",
+        "options": [
+          "Ha a feltétel hamis",
+          "Ha a feltétel igaz",
+          "Ha esik az eső",
+          "Mindig"
+        ],
+        "answer": "Ha a feltétel hamis"
+      },
+      {
+        "question": "Melyik blokkal vizsgálhatjuk, hogy a Sprite falhoz ért-e?",
+        "options": [
+          "érinted a szélét?",
+          "milyen színű?",
+          "hol vagy?",
+          "ki vagy?"
+        ],
+        "answer": "érinted a szélét?"
+      },
+      {
+        "question": "Melyik kategóriában vannak az összehasonlító blokkok?",
+        "options": [
+          "Műveletek",
+          "Mozgás",
+          "Hang",
+          "Események"
+        ],
+        "answer": "Műveletek"
+      },
+      {
+        "question": "Mit jelent az '>' jel?",
+        "options": [
+          "Nagyobb, mint",
+          "Kisebb, mint",
+          "Egyenlő",
+          "Nem egyenlő"
+        ],
+        "answer": "Nagyobb, mint"
+      },
+      {
+        "question": "Mit jelent az '<' jel?",
+        "options": [
+          "Kisebb, mint",
+          "Nagyobb, mint",
+          "Egyenlő",
+          "Krokodil szája"
+        ],
+        "answer": "Kisebb, mint"
+      },
+      {
+        "question": "Mit jelent az '=' jel?",
+        "options": [
+          "Egyenlő",
+          "Nagyobb",
+          "Kisebb",
+          "Hasonló"
+        ],
+        "answer": "Egyenlő"
+      },
+      {
+        "question": "Hogyan vizsgálhatjuk, hogy egy gomb le van-e nyomva?",
+        "options": [
+          "... billentyű lenyomva?",
+          "ki nyomta meg?",
+          "nyomd meg",
+          "várj"
+        ],
+        "answer": "... billentyű lenyomva?"
+      },
+      {
+        "question": "Melyik blokk vár addig, amíg valami igaz nem lesz?",
+        "options": [
+          "várj eddig: ...",
+          "ha ... akkor",
+          "ismételd",
+          "stop"
+        ],
+        "answer": "várj eddig: ..."
+      },
+      {
+        "question": "Lehet-e feltételt tenni egy feltételbe?",
+        "options": [
+          "Igen, ez a beágyazott feltétel",
+          "Nem, tilos",
+          "Csak ha elfér",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, ez a beágyazott feltétel"
+      },
+      {
+        "question": "Mit jelent az 'és' művelet?",
+        "options": [
+          "Mindkét feltételnek igaznak kell lennie",
+          "Csak az egyiknek",
+          "Egyiknek sem",
+          "Választás"
+        ],
+        "answer": "Mindkét feltételnek igaznak kell lennie"
+      },
+      {
+        "question": "Mit jelent az 'vagy' művelet?",
+        "options": [
+          "Legalább az egyik feltételnek igaznak kell lennie",
+          "Mindkettőnek",
+          "Egyiknek sem",
+          "Semmit"
+        ],
+        "answer": "Legalább az egyik feltételnek igaznak kell lennie"
+      },
+      {
+        "question": "Mit jelent a 'nem' művelet?",
+        "options": [
+          "Megfordítja az értéket (igazból hamis)",
+          "Tagadás",
+          "Törlés",
+          "Megállás"
+        ],
+        "answer": "Megfordítja az értéket (igazból hamis)"
+      },
+      {
+        "question": "Milyen színűek az 'Érzékelés' feltétel blokkok?",
+        "options": [
+          "Világoskék",
+          "Zöld",
+          "Sárga",
+          "Lila"
+        ],
+        "answer": "Világoskék"
+      },
+      {
+        "question": "Milyen színűek a 'Műveletek' feltétel blokkok?",
+        "options": [
+          "Zöld",
+          "Kék",
+          "Piros",
+          "Barna"
+        ],
+        "answer": "Zöld"
+      },
+      {
+        "question": "Mire jó a feltétel a labirintus játékban?",
+        "options": [
+          "Hogy ne menjen át a falon",
+          "Hogy gyorsabb legyen",
+          "Hogy zenéljen",
+          "Semmire"
+        ],
+        "answer": "Hogy ne menjen át a falon"
+      },
+      {
+        "question": "Hogyan vizsgáljuk, hogy a pontszám elérte-e a 10-et?",
+        "options": [
+          "ha pontszám = 10",
+          "ha pontszám > 10",
+          "ha pontszám < 10",
+          "ha pontszám"
+        ],
+        "answer": "ha pontszám = 10"
+      },
+      {
+        "question": "Mi az az algoritmikus elágazás?",
+        "options": [
+          "A feltétel másik neve",
+          "Egy fa ága",
+          "Útkereszteződés",
+          "Kód hiba"
+        ],
+        "answer": "A feltétel másik neve"
+      },
+      {
+        "question": "Melyik blokk fut le, ha az egér le van nyomva?",
+        "options": [
+          "egér lenyomva?",
+          "kattints",
+          "nyomd meg",
+          "egér?"
+        ],
+        "answer": "egér lenyomva?"
+      },
+      {
+        "question": "Mit csinál a 'ha ... akkor' blokk, ha a feltétel hamis?",
+        "options": [
+          "Egyszerűen átugorja és megy tovább",
+          "Hibaüzenetet ad",
+          "Megállítja a gépet",
+          "Visszafordul"
+        ],
+        "answer": "Egyszerűen átugorja és megy tovább"
+      },
+      {
+        "question": "Lehet-e a feltétel egy változó értéke?",
+        "options": [
+          "Igen, ha logikai típusú",
+          "Nem",
+          "Csak ha 1 vagy 0",
+          "Csak ha kék"
+        ],
+        "answer": "Igen, ha logikai típusú"
+      }
+    ],
+    "typing": [
+      "feltétel",
+      "döntés",
+      "ág",
+      "igaz",
+      "hamis",
+      "egyenlő",
+      "kisebb",
+      "nagyobb",
+      "érzékelés",
+      "vizsgálat"
+    ]
+  }
+}

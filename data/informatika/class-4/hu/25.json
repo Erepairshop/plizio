@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Projekt zárás",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a projekt zárás lényege?",
+        "options": [
+          "A munka befejezése és bemutatása",
+          "A gép kidobása",
+          "Törlés",
+          "Szünet"
+        ],
+        "answer": "A munka befejezése és bemutatása"
+      },
+      {
+        "question": "Mit csinálunk a kész projekttel?",
+        "options": [
+          "Megosztjuk és prezentáljuk",
+          "Elrejtjük",
+          "Letöröljük",
+          "Megeszünk"
+        ],
+        "answer": "Megosztjuk és prezentáljuk"
+      },
+      {
+        "question": "Hogyan lehet visszajelzést kérni?",
+        "options": [
+          "Megmutatjuk másoknak és megkérdezzük a véleményüket",
+          "Kiabálunk",
+          "Várunk",
+          "Nem kell visszajelzés"
+        ],
+        "answer": "Megmutatjuk másoknak és megkérdezzük a véleményüket"
+      },
+      {
+        "question": "Mi a 'portfólió'?",
+        "options": [
+          "A legjobb munkáink gyűjteménye",
+          "Egy táska",
+          "A jelszavunk",
+          "A monitor kerete"
+        ],
+        "answer": "A legjobb munkáink gyűjteménye"
+      },
+      {
+        "question": "Hogyan lehet fejleszteni a projektet?",
+        "options": [
+          "Új ötletek hozzáadásával",
+          "Törléssel",
+          "Kikapcsolással",
+          "Várakozással"
+        ],
+        "answer": "Új ötletek hozzáadásával"
+      },
+      {
+        "question": "Miért fontos a reflexió?",
+        "options": [
+          "Hogy átgondoljuk, mit tanultunk",
+          "Hogy lássuk magunkat a monitoron",
+          "Mert kötelező",
+          "Semmiért"
+        ],
+        "answer": "Hogy átgondoljuk, mit tanultunk"
+      },
+      {
+        "question": "Mit jelent a 'megosztás' a Scratch-ben?",
+        "options": [
+          "Mások is láthatják és kipróbálhatják a projektet",
+          "Eltörik a gép",
+          "Ketten használják az egeret",
+          "Pénzt kapunk"
+        ],
+        "answer": "Mások is láthatják és kipróbálhatják a projektet"
+      },
+      {
+        "question": "Mi az a 'remixtelés'?",
+        "options": [
+          "Egy meglévő projekt saját változatának elkészítése",
+          "Zene keverés",
+          "Törlés",
+          "Másolás"
+        ],
+        "answer": "Egy meglévő projekt saját változatának elkészítése"
+      },
+      {
+        "question": "Hogyan köszönjük meg a segítséget?",
+        "options": [
+          "A 'Köszönetnyilvánítás' részben",
+          "Sehogy",
+          "Kiabálással",
+          "Pénzzel"
+        ],
+        "answer": "A 'Köszönetnyilvánítás' részben"
+      },
+      {
+        "question": "Mire jó a használati útmutató?",
+        "options": [
+          "Hogy mások tudják, hogyan kell játszani",
+          "Dísznek",
+          "A kód elrejtésére",
+          "Lassításra"
+        ],
+        "answer": "Hogy mások tudják, hogyan kell játszani"
+      },
+      {
+        "question": "Mi a tanulság?",
+        "options": [
+          "Amit a munka során megtanultunk",
+          "Egy mese vége",
+          "A gép neve",
+          "Hiba"
+        ],
+        "answer": "Amit a munka során megtanultunk"
+      },
+      {
+        "question": "Hogyan ünnepeljük meg a sikeres projektet?",
+        "options": [
+          "Közös bemutatóval és örömmel",
+          "Újabb munkával azonnal",
+          "Alvással",
+          "Sírva"
+        ],
+        "answer": "Közös bemutatóval és örömmel"
+      },
+      {
+        "question": "Mi az a 'visszatekintés'?",
+        "options": [
+          "A folyamat áttekintése",
+          "Hátrafelé nézés",
+          "A monitor hátulja",
+          "Régi gép"
+        ],
+        "answer": "A folyamat áttekintése"
+      },
+      {
+        "question": "Mire jó a kritika?",
+        "options": [
+          "Segít jobbá tenni a munkánkat",
+          "Bántás",
+          "Rossz kedv",
+          "Törlés"
+        ],
+        "answer": "Segít jobbá tenni a munkánkat"
+      },
+      {
+        "question": "Hogyan fogadjuk a kritikát?",
+        "options": [
+          "Nyitottan és tanulni vágyva",
+          "Mérgesen",
+          "Sértődötten",
+          "Sehogy"
+        ],
+        "answer": "Nyitottan és tanulni vágyva"
+      },
+      {
+        "question": "Mi a projekt címe?",
+        "options": [
+          "A munkánk neve",
+          "A mi nevünk",
+          "A dátum",
+          "A gép neve"
+        ],
+        "answer": "A munkánk neve"
+      },
+      {
+        "question": "Mit jelent a 'kész'?",
+        "options": [
+          "Minden tervezett funkció működik",
+          "Nincs több ötletünk",
+          "Elfogyott az idő",
+          "Kikapcsolt a gép"
+        ],
+        "answer": "Minden tervezett funkció működik"
+      },
+      {
+        "question": "Lehet-e egy projektet örökké fejleszteni?",
+        "options": [
+          "Igen, de érdemes lezárni egy szakaszt",
+          "Nem, tilos",
+          "Csak ha fizetünk",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, de érdemes lezárni egy szakaszt"
+      },
+      {
+        "question": "Mi az az 'élménybeszámoló'?",
+        "options": [
+          "Elmeséljük, milyen volt dolgozni rajta",
+          "Egy újságcikk",
+          "A kód egy része",
+          "Hangfájl"
+        ],
+        "answer": "Elmeséljük, milyen volt dolgozni rajta"
+      },
+      {
+        "question": "Hogyan menthetjük el a végleges változatot?",
+        "options": [
+          "Fájl -> Mentés most",
+          "Sehogy",
+          "Kikapcsolással",
+          "Ráfújással"
+        ],
+        "answer": "Fájl -> Mentés most"
+      },
+      {
+        "question": "Mi a következő lépés?",
+        "options": [
+          "Egy új projekt tervezése",
+          "Pihenés örökre",
+          "Gép eladása",
+          "Semmi"
+        ],
+        "answer": "Egy új projekt tervezése"
+      },
+      {
+        "question": "Mire jó a közösségi visszajelzés?",
+        "options": [
+          "Segít fejlődni és motivál",
+          "Zavaró",
+          "Sok időt vesz el",
+          "Semmire"
+        ],
+        "answer": "Segít fejlődni és motivál"
+      },
+      {
+        "question": "Mit jelent a 'büszkeség' a munka után?",
+        "options": [
+          "Elégedettség az elért eredménnyel",
+          "Beképzeltség",
+          "Hiba",
+          "Rossz érzés"
+        ],
+        "answer": "Elégedettség az elért eredménnyel"
+      },
+      {
+        "question": "Hogyan lehet a projektet beágyazni egy weboldalba?",
+        "options": [
+          "A 'Beágyazás' kóddal",
+          "Nem lehet",
+          "Kattintással",
+          "Sehogy"
+        ],
+        "answer": "A 'Beágyazás' kóddal"
+      },
+      {
+        "question": "Mi a legfontosabb a projekt végén?",
+        "options": [
+          "Hogy elégedettek legyünk a saját munkánkkal",
+          "Hogy sokan lássák",
+          "Hogy kész legyen",
+          "Hogy bonyolult legyen"
+        ],
+        "answer": "Hogy elégedettek legyünk a saját munkánkkal"
+      }
+    ],
+    "typing": [
+      "zárás",
+      "bemutató",
+      "siker",
+      "tanulás",
+      "fejlődés",
+      "visszajelzés",
+      "büszkeség",
+      "kész",
+      "folyamat",
+      "jövő"
+    ]
+  }
+}

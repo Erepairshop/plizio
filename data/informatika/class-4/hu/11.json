@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Ciklusok",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a ciklus lényege?",
+        "options": [
+          "Műveletek ismétlése",
+          "Egy kép törlése",
+          "Hangosítás",
+          "Kikapcsolás"
+        ],
+        "answer": "Műveletek ismétlése"
+      },
+      {
+        "question": "Melyik blokk ismétel végtelenül?",
+        "options": [
+          "mindig",
+          "ismételd 10-szer",
+          "ismételd eddig: ...",
+          "várj"
+        ],
+        "answer": "mindig"
+      },
+      {
+        "question": "Melyik blokk ismétel egy megadott számszor?",
+        "options": [
+          "ismételd ...-szer",
+          "mindig",
+          "várj",
+          "menj"
+        ],
+        "answer": "ismételd ...-szer"
+      },
+      {
+        "question": "Melyik blokk ismétel addig, amíg egy feltétel teljesül?",
+        "options": [
+          "ismételd eddig: ...",
+          "mindig",
+          "ha ... akkor",
+          "stop"
+        ],
+        "answer": "ismételd eddig: ..."
+      },
+      {
+        "question": "Mire jó a 'mindig' ciklus?",
+        "options": [
+          "Folyamatos mozgásra vagy figyelésre",
+          "Csak egyszeri futásra",
+          "Törlésre",
+          "Alvásra"
+        ],
+        "answer": "Folyamatos mozgásra vagy figyelésre"
+      },
+      {
+        "question": "Hogyan lehet megállítani egy 'mindig' ciklust?",
+        "options": [
+          "A 'állíts le mindent' blokkal",
+          "Kikapcsolással",
+          "Ráfújással",
+          "Sehogy"
+        ],
+        "answer": "A 'állíts le mindent' blokkal"
+      },
+      {
+        "question": "Lehet-e ciklust tenni egy ciklusba?",
+        "options": [
+          "Igen, ez a beágyazott ciklus",
+          "Nem, tilos",
+          "Csak ha elfér",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, ez a beágyazott ciklus"
+      },
+      {
+        "question": "Melyik blokk alakja hasonlít egy 'C' betűhöz?",
+        "options": [
+          "Ciklus blokkok",
+          "Mozgás blokkok",
+          "Hang blokkok",
+          "Változó blokkok"
+        ],
+        "answer": "Ciklus blokkok"
+      },
+      {
+        "question": "Hogyan mozog a Sprite egy 'ismételd 10-szer: menj 10 lépést' kóddal?",
+        "options": [
+          "Összesen 100 lépést tesz meg",
+          "10 lépést tesz",
+          "Nem mozog",
+          "Kiszalad a világból"
+        ],
+        "answer": "Összesen 100 lépést tesz meg"
+      },
+      {
+        "question": "Mi az az 'iteráció'?",
+        "options": [
+          "A ciklus egy lépése",
+          "A gép neve",
+          "A billentyűzet",
+          "Egy ital"
+        ],
+        "answer": "A ciklus egy lépése"
+      },
+      {
+        "question": "Milyen színűek a vezérlés (ciklus) blokkok?",
+        "options": [
+          "Narancssárga",
+          "Kék",
+          "Zöld",
+          "Lila"
+        ],
+        "answer": "Narancssárga"
+      },
+      {
+        "question": "Mire jó a ciklus az animációnál?",
+        "options": [
+          "A jelmezek folyamatos váltására",
+          "Egy kép betöltésére",
+          "A monitor tisztítására",
+          "Semmire"
+        ],
+        "answer": "A jelmezek folyamatos váltására"
+      },
+      {
+        "question": "Mit jelent a 'végtelen ciklus'?",
+        "options": [
+          "Olyan ismétlés, ami sosem ér véget",
+          "Nagyon hosszú kód",
+          "Kerek kód",
+          "Hiba"
+        ],
+        "answer": "Olyan ismétlés, ami sosem ér véget"
+      },
+      {
+        "question": "Mi történik, ha egy üres 'mindig' ciklust futtatunk?",
+        "options": [
+          "Nem történik semmi látható, de a gép dolgozik",
+          "Lefagy a gép",
+          "Kikapcsol a monitor",
+          "Énekel a macska"
+        ],
+        "answer": "Nem történik semmi látható, de a gép dolgozik"
+      },
+      {
+        "question": "Hogyan készíthetsz villogó lámpát?",
+        "options": [
+          "Mindig: világít, vár, nem világít, vár",
+          "Csak világítással",
+          "Csak várakozással",
+          "Gépeléssel"
+        ],
+        "answer": "Mindig: világít, vár, nem világít, vár"
+      },
+      {
+        "question": "Hány blokk lehet egy ciklus belsejében?",
+        "options": [
+          "Bármennyi",
+          "Csak egy",
+          "Max tíz",
+          "Semennyi"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Melyik blokk állítja meg csak az adott ciklust?",
+        "options": [
+          "állítsd le ezt a szkriptet",
+          "stop",
+          "várj",
+          "menj"
+        ],
+        "answer": "állítsd le ezt a szkriptet"
+      },
+      {
+        "question": "Miért fontos a 'várj' blokk a ciklusban?",
+        "options": [
+          "Hogy ne legyen túl gyors az ismétlés",
+          "Hogy elromoljon",
+          "Hogy színesebb legyen",
+          "Nem fontos"
+        ],
+        "answer": "Hogy ne legyen túl gyors az ismétlés"
+      },
+      {
+        "question": "Melyik ciklus alkalmas arra, hogy 5-ször lepattanjon a labda?",
+        "options": [
+          "ismételd 5-ször",
+          "mindig",
+          "ha ... akkor",
+          "várj"
+        ],
+        "answer": "ismételd 5-ször"
+      },
+      {
+        "question": "Mi történik a blokkokkal a ciklus után?",
+        "options": [
+          "Akkor futnak le, ha a ciklus véget ért",
+          "Sosem futnak le",
+          "Azonnal lefutnak",
+          "Törlődnek"
+        ],
+        "answer": "Akkor futnak le, ha a ciklus véget ért"
+      },
+      {
+        "question": "Létezik-e 'mindig eddig' blokk?",
+        "options": [
+          "Nem, csak 'ismételd eddig'",
+          "Igen",
+          "Csak ha kérjük",
+          "Csak angolul"
+        ],
+        "answer": "Nem, csak 'ismételd eddig'"
+      },
+      {
+        "question": "Hogyan nevezzük a ciklus belsejében lévő részt?",
+        "options": [
+          "Ciklusmag",
+          "Ciklushéj",
+          "Cikluslevél",
+          "Cikluság"
+        ],
+        "answer": "Ciklusmag"
+      },
+      {
+        "question": "Melyik blokk felel meg a 'while' ciklusnak más nyelveken?",
+        "options": [
+          "ismételd eddig (megfordítva)",
+          "mindig",
+          "ha",
+          "várj"
+        ],
+        "answer": "ismételd eddig (megfordítva)"
+      },
+      {
+        "question": "Mire jó a 'mindig' ciklus egy autóversenyben?",
+        "options": [
+          "Hogy folyamatosan figyelje a gázpedált",
+          "Hogy megálljon a célban",
+          "Hogy tankoljon",
+          "Semmire"
+        ],
+        "answer": "Hogy folyamatosan figyelje a gázpedált"
+      },
+      {
+        "question": "Lehet-e változót használni az 'ismételd ...-szer' blokkban?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha 10-nél kisebb",
+          "Csak ha piros"
+        ],
+        "answer": "Igen"
+      }
+    ],
+    "typing": [
+      "ciklus",
+      "ismétlés",
+      "mindig",
+      "hányszor",
+      "mag",
+      "beágyazott",
+      "folyamat",
+      "vezérlés",
+      "időzítés",
+      "vége"
+    ]
+  }
+}

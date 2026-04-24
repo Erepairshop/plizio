@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Vergleich digitaler Geräte",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Desktop-PC?",
+      "options": [
+        "Ein Computer für den Schreibtisch",
+        "Ein kleiner Taschencomputer",
+        "Ein Handy",
+        "Eine Uhr"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Laptop?",
+      "options": [
+        "Ein tragbarer Computer",
+        "Ein Kühlschrank",
+        "Ein Fernseher",
+        "Ein Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Vorteil eines Tablets?",
+      "options": [
+        "Leicht und tragbar mit Touch",
+        "Hat immer eine Maus",
+        "Ist sehr schwer",
+        "Hat keinen Bildschirm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät ist am kleinsten?",
+      "options": [
+        "Smartphone",
+        "Laptop",
+        "Desktop-PC",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät braucht meistens Strom aus der Dose?",
+      "options": [
+        "Desktop-PC",
+        "Tablet",
+        "Handy",
+        "Laptop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Womit schreibt man am Desktop-PC?",
+      "options": [
+        "Tastatur",
+        "Maus",
+        "Monitor",
+        "Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Touchscreen?",
+      "options": [
+        "Ein Bildschirm, den man berührt",
+        "Ein Bildschirm mit Tasten",
+        "Ein dunkler Bildschirm",
+        "Ein Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Maus?",
+      "options": [
+        "Ein Eingabegerät zum Zeigen",
+        "Ein Tier im Computer",
+        "Ein Lautsprecher",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät hat einen Akku?",
+      "options": [
+        "Laptop",
+        "Drucker",
+        "Scanner",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Monitor?",
+      "options": [
+        "Der Bildschirm des Computers",
+        "Die Tastatur",
+        "Die Maus",
+        "Der Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Drucker?",
+      "options": [
+        "Bilder/Text auf Papier bringen",
+        "Musik spielen",
+        "Licht machen",
+        "Kaffee kochen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Webcam?",
+      "options": [
+        "Eine Kamera am Computer",
+        "Ein Netz",
+        "Ein Spielzeug",
+        "Ein Lautsprecher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dienen Lautsprecher?",
+      "options": [
+        "Um Ton zu hören",
+        "Um Bilder zu sehen",
+        "Zum Tippen",
+        "Zum Speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein USB-Stick?",
+      "options": [
+        "Ein kleiner Speicher für Daten",
+        "Ein Kleber",
+        "Ein Stift",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kopfhörer?",
+      "options": [
+        "Gerät zum Musikhören am Ohr",
+        "Eine Mütze",
+        "Ein Brille",
+        "Ein Schal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Scanner?",
+      "options": [
+        "Digitalisiert Bilder/Texte",
+        "Druckt Papier",
+        "Spielt Musik",
+        "Macht Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät ist am besten zum Spielen unterwegs?",
+      "options": [
+        "Handheld-Konsole/Smartphone",
+        "Desktop-PC",
+        "Drucker",
+        "Fernseher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Hardware?",
+      "options": [
+        "Alle Teile, die man anfassen kann",
+        "Programme",
+        "Lieder",
+        "Gedanken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Software?",
+      "options": [
+        "Programme auf dem Computer",
+        "Das Gehäuse",
+        "Die Tastatur",
+        "Das Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht 'PC'?",
+      "options": [
+        "Personal Computer",
+        "Prima Computer",
+        "Papier Computer",
+        "Pause Computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Mikrofon?",
+      "options": [
+        "Nimmt Ton auf",
+        "Spielt Ton ab",
+        "Zeigt Bilder",
+        "Druckt Texte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät hat oft eine fest verbaute Tastatur?",
+      "options": [
+        "Laptop",
+        "Tablet",
+        "Smartphone",
+        "Drucker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Trackpad?",
+      "options": [
+        "Maus-Ersatz beim Laptop",
+        "Ein Rennauto",
+        "Ein Papier",
+        "Ein Stift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät nutzt man oft zum Telefonieren?",
+      "options": [
+        "Smartphone",
+        "Drucker",
+        "Scanner",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was schützt den Computer vor Überhitzung?",
+      "options": [
+        "Lüfter",
+        "Decke",
+        "Wasser",
+        "Sonne"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Computer",
+      "answer": "Computer"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Laptop",
+      "answer": "Laptop"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Tablet",
+      "answer": "Tablet"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Handy",
+      "answer": "Handy"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Monitor",
+      "answer": "Monitor"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Tastatur",
+      "answer": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Maus",
+      "answer": "Maus"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Drucker",
+      "answer": "Drucker"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Hardware",
+      "answer": "Hardware"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Gerät",
+      "answer": "Gerät"
+    }
+  ]
+}

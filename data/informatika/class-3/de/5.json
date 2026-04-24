@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online-Lernen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Online-Lernen?",
+      "options": [
+        "Lernen mit dem Computer und Internet",
+        "Lernen im Wald",
+        "Lernen im Schlaf",
+        "Lernen ohne Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Lernplattform?",
+      "options": [
+        "Eine Webseite zum Lernen",
+        "Ein Spielplatz",
+        "Ein Bahnhof",
+        "Ein Flugzeug"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man oft Aufgaben?",
+      "options": [
+        "Auf der Lernplattform",
+        "Im Kühlschrank",
+        "Unter dem Bett",
+        "Im Garten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Quiz?",
+      "options": [
+        "Ein kleiner Test mit Fragen",
+        "Ein langer Text",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man online Videos zum Lernen schauen?",
+      "options": [
+        "Ja, Erklärvideos helfen",
+        "Nein, verboten",
+        "Nur heimlich",
+        "Nur sonntags"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie gibt man Aufgaben oft ab?",
+      "options": [
+        "Hochladen auf die Plattform",
+        "Mit der Post schicken",
+        "In den Müll werfen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tutorial?",
+      "options": [
+        "Eine Video-Anleitung",
+        "Ein Spiel",
+        "Ein Lied",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist Konzentration beim Online-Lernen wichtig?",
+      "options": [
+        "Ja, sehr wichtig",
+        "Nein, man kann spielen",
+        "Nur ein bisschen",
+        "Egal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Braucht man beim Online-Lernen Pausen?",
+      "options": [
+        "Ja, für die Augen und den Kopf",
+        "Nein, nie",
+        "Nur zum Schlafen",
+        "Nur wenn der PC leer ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein digitales Buch?",
+      "options": [
+        "Ein E-Book zum Lesen am PC",
+        "Ein Buch aus Papier",
+        "Ein Heft",
+        "Ein Poster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man online mit Lehrern sprechen?",
+      "options": [
+        "Ja, im Video-Chat oder per Mail",
+        "Nein",
+        "Nur mit Brieftaube",
+        "Nur im Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine App?",
+      "options": [
+        "Ein Programm auf dem Tablet/Handy",
+        "Ein Apfel",
+        "Ein Lied",
+        "Ein Tier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Feedback?",
+      "options": [
+        "Eine Rückmeldung zur Arbeit",
+        "Ein Essen",
+        "Ein Geräusch",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein ruhiger Platz wichtig?",
+      "options": [
+        "Damit man besser lernen kann",
+        "Damit man schlafen kann",
+        "Zum Fernsehen",
+        "Zum Spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Mediathek?",
+      "options": [
+        "Eine Sammlung von Videos und Filmen",
+        "Eine Bibliothek",
+        "Ein Kino",
+        "Ein Laden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man online in Gruppen arbeiten?",
+      "options": [
+        "Ja, mit digitalen Werkzeugen",
+        "Nein, unmöglich",
+        "Nur alleine",
+        "Nur draußen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Podcast?",
+      "options": [
+        "Eine Audio-Sendung zum Hören",
+        "Ein film",
+        "Ein Bild",
+        "Ein Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das Internet immer sicher zum Lernen?",
+      "options": [
+        "Man sollte nur bekannte Seiten nutzen",
+        "Ja, immer",
+        "Nein, nie",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Interaktivität?",
+      "options": [
+        "Mitmachen und Klicken am PC",
+        "Nur Zuschauen",
+        "Schlafen",
+        "Nichts tun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Benutzerkonto?",
+      "options": [
+        "Eigener Zugang mit Name und Passwort",
+        "Ein Bankkonto",
+        "Ein Sparbuch",
+        "Ein Pass"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man den Bildschirm nicht zu nah haben?",
+      "options": [
+        "Um die Augen zu schonen",
+        "Damit man mehr sieht",
+        "Weil es verboten ist",
+        "Weil der PC warm ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Link zum Lernvideo?",
+      "options": [
+        "Eine Verbindung zum Video",
+        "Ein Bild",
+        "Ein Text",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man online Sprachen lernen?",
+      "options": [
+        "Ja, es gibt viele Apps",
+        "Nein",
+        "Nur im Land",
+        "Nur mit CD"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Download beim Lernen?",
+      "options": [
+        "Arbeitsblätter auf den PC laden",
+        "Den PC ausschalten",
+        "Ein Bild malen",
+        "Ein Lied singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man online pünktlich sein?",
+      "options": [
+        "Ja, bei Live-Stunden",
+        "Nein",
+        "Wann man will",
+        "Nur am Abend"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Lernen",
+      "answer": "Lernen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Aufgabe",
+      "answer": "Aufgabe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Plattform",
+      "answer": "Plattform"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Video",
+      "answer": "Video"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Erklärung",
+      "answer": "Erklärung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Online",
+      "answer": "Online"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schule",
+      "answer": "Schule"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wissen",
+      "answer": "Wissen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Üben",
+      "answer": "Üben"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Lehrer",
+      "answer": "Lehrer"
+    }
+  ]
+}

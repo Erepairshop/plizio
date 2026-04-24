@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Adatmennyiség",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a legkisebb egység az informatikában?",
+        "options": [
+          "Bit",
+          "Bájt",
+          "Kilóbájt",
+          "Gramm"
+        ],
+        "answer": "Bit"
+      },
+      {
+        "question": "Hány bitből áll egy bájt (byte)?",
+        "options": [
+          "8",
+          "10",
+          "2",
+          "100"
+        ],
+        "answer": "8"
+      },
+      {
+        "question": "Mit jelent a KB?",
+        "options": [
+          "Kilóbájt",
+          "Kis bájt",
+          "Kerek bájt",
+          "Kék bájt"
+        ],
+        "answer": "Kilóbájt"
+      },
+      {
+        "question": "Körülbelül hány bájt egy Kilóbájt?",
+        "options": [
+          "1024",
+          "100",
+          "500",
+          "10"
+        ],
+        "answer": "1024"
+      },
+      {
+        "question": "Mit jelent a MB?",
+        "options": [
+          "Megabájt",
+          "Mély bájt",
+          "Magas bájt",
+          "Mini bájt"
+        ],
+        "answer": "Megabájt"
+      },
+      {
+        "question": "Mit jelent a GB?",
+        "options": [
+          "Gigabájt",
+          "Gyors bájt",
+          "Giga bit",
+          "Görbe bájt"
+        ],
+        "answer": "Gigabájt"
+      },
+      {
+        "question": "Mit jelent a TB?",
+        "options": [
+          "Terabájt",
+          "Törpe bájt",
+          "Tele bájt",
+          "Tiszta bájt"
+        ],
+        "answer": "Terabájt"
+      },
+      {
+        "question": "Melyik a legnagyobb a felsoroltak közül?",
+        "options": [
+          "Terabájt",
+          "Gigabájt",
+          "Megabájt",
+          "Kilóbájt"
+        ],
+        "answer": "Terabájt"
+      },
+      {
+        "question": "Melyik a legkisebb a felsoroltak közül?",
+        "options": [
+          "Bit",
+          "Bájt",
+          "Kilóbájt",
+          "Megabájt"
+        ],
+        "answer": "Bit"
+      },
+      {
+        "question": "Miben mérjük a pendrive kapacitását általában?",
+        "options": [
+          "Gigabájt (GB)",
+          "Bit",
+          "Gramm",
+          "Liter"
+        ],
+        "answer": "Gigabájt (GB)"
+      },
+      {
+        "question": "Miben mérjük egy sima szöveges fájl méretét?",
+        "options": [
+          "Bájt vagy Kilóbájt",
+          "Gigabájt",
+          "Terabájt",
+          "Kilométer"
+        ],
+        "answer": "Bájt vagy Kilóbájt"
+      },
+      {
+        "question": "Mekkora lehet egy átlagos fénykép mérete?",
+        "options": [
+          "Pár Megabájt (MB)",
+          "Pár Bit",
+          "Pár Terabájt",
+          "100 bájt"
+        ],
+        "answer": "Pár Megabájt (MB)"
+      },
+      {
+        "question": "Mit jelent a tárolókapacitás?",
+        "options": [
+          "Mennyi adat fér el az eszközön",
+          "Milyen nehéz a gép",
+          "Milyen gyors a gép",
+          "Milyen színes a gép"
+        ],
+        "answer": "Mennyi adat fér el az eszközön"
+      },
+      {
+        "question": "Mi az a HDD?",
+        "options": [
+          "Merevlemez (tárolóeszköz)",
+          "Egy játék",
+          "A monitor",
+          "A billentyűzet"
+        ],
+        "answer": "Merevlemez (tárolóeszköz)"
+      },
+      {
+        "question": "Mi az az SSD?",
+        "options": [
+          "Gyorsabb háttértár",
+          "Egy fajta süti",
+          "A gép hűtője",
+          "Hangszóró"
+        ],
+        "answer": "Gyorsabb háttértár"
+      },
+      {
+        "question": "Mit jelent a tömörítés?",
+        "options": [
+          "Fájl méretének csökkentése",
+          "Fájl törlése",
+          "Fájl színezése",
+          "Fájl másolása"
+        ],
+        "answer": "Fájl méretének csökkentése"
+      },
+      {
+        "question": "Melyik egy tömörített fájlformátum?",
+        "options": [
+          "ZIP",
+          "DOC",
+          "PDF",
+          "EXE"
+        ],
+        "answer": "ZIP"
+      },
+      {
+        "question": "Mire jó a tömörítés?",
+        "options": [
+          "Kevesebb helyet foglal és gyorsabb küldeni",
+          "Hogy nehezebb legyen elolvasni",
+          "Mert szebb",
+          "Semmire"
+        ],
+        "answer": "Kevesebb helyet foglal és gyorsabb küldeni"
+      },
+      {
+        "question": "Hány MB van egy GB-ban (körülbelül)?",
+        "options": [
+          "1000",
+          "10",
+          "100",
+          "Végtelen"
+        ],
+        "answer": "1000"
+      },
+      {
+        "question": "Mi az a 'bitráta'?",
+        "options": [
+          "Adatátviteli sebesség",
+          "A bit színe",
+          "A bit súlya",
+          "A bit kora"
+        ],
+        "answer": "Adatátviteli sebesség"
+      },
+      {
+        "question": "Miben mérjük az internet sebességét?",
+        "options": [
+          "Mbps (Megabit per másodperc)",
+          "Kg",
+          "Km",
+          "Perc"
+        ],
+        "answer": "Mbps (Megabit per másodperc)"
+      },
+      {
+        "question": "Melyik foglal több helyet: egy órás videó vagy egy kép?",
+        "options": [
+          "A videó",
+          "A kép",
+          "Egyformák",
+          "Attól függ, mekkora a kép"
+        ],
+        "answer": "A videó"
+      },
+      {
+        "question": "Mi az a bináris rendszer?",
+        "options": [
+          "Kettes számrendszer (0 és 1)",
+          "Tízes számrendszer",
+          "Betűk rendszere",
+          "Színkód"
+        ],
+        "answer": "Kettes számrendszer (0 és 1)"
+      },
+      {
+        "question": "Hány állapotot tud tárolni egy bit?",
+        "options": [
+          "Kettőt (0 vagy 1)",
+          "Tízet",
+          "Semennyit",
+          "Végtelent"
+        ],
+        "answer": "Kettőt (0 vagy 1)"
+      },
+      {
+        "question": "Miért hívják digitálisnak a gépeket?",
+        "options": [
+          "Mert számokkal (digitekkel) dolgoznak",
+          "Mert van ujja (digit)",
+          "Mert gyors",
+          "Mert színes"
+        ],
+        "answer": "Mert számokkal (digitekkel) dolgoznak"
+      }
+    ],
+    "typing": [
+      "adat",
+      "méret",
+      "kapacitás",
+      "tárolás",
+      "bájt",
+      "kilóbájt",
+      "megabájt",
+      "gigabájt",
+      "tömörítés",
+      "bináris"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Comparing Digital Devices",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which device is usually the most portable?",
+      "options": [
+        "Smartphone",
+        "Desktop computer",
+        "Server",
+        "Large TV"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device has a built-in keyboard and screen and can close?",
+      "options": [
+        "Laptop",
+        "Tablet",
+        "Printer",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device usually stays on a desk and has a separate tower?",
+      "options": [
+        "Desktop computer",
+        "Smartphone",
+        "Smartwatch",
+        "Laptop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is best for making phone calls on the go?",
+      "options": [
+        "Smartphone",
+        "Laptop",
+        "Desktop",
+        "Tablet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device has a touchscreen and is larger than a phone?",
+      "options": [
+        "Tablet",
+        "Mouse",
+        "Keyboard",
+        "Router"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Smartwatch'?",
+      "options": [
+        "A watch that connects to your phone",
+        "A watch that tells you the answer to math",
+        "A watch that never breaks",
+        "A watch for scientists"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is better for typing a long story?",
+      "options": [
+        "Laptop or Desktop",
+        "Smartphone",
+        "Smartwatch",
+        "MP3 Player"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the main difference between a tablet and a laptop?",
+      "options": [
+        "Laptops usually have a physical keyboard attached",
+        "Tablets are always bigger",
+        "Laptops don't have screens",
+        "Tablets only work in the sun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is best for playing high-end video games?",
+      "options": [
+        "Gaming PC (Desktop)",
+        "Calculator",
+        "Smartwatch",
+        "E-reader"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'E-reader' used for?",
+      "options": [
+        "Reading digital books",
+        "Making coffee",
+        "Listening to radio",
+        "Writing code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Camera' for?",
+      "options": [
+        "Taking photos and videos",
+        "Printing money",
+        "Scanning documents",
+        "Opening doors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device would you use to track your steps while running?",
+      "options": [
+        "Smartwatch or Smartphone",
+        "Desktop computer",
+        "Printer",
+        "Television"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Monitor'?",
+      "options": [
+        "The screen of a desktop computer",
+        "A type of lizard",
+        "The computer's brain",
+        "The mouse pad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Hardware'?",
+      "options": [
+        "The physical parts of a computer",
+        "Hard puzzles",
+        "Heavy tools",
+        "The computer's name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Software'?",
+      "options": [
+        "Programs and apps on a device",
+        "Soft pillows",
+        "Clothing for robots",
+        "The computer's case"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is smallest?",
+      "options": [
+        "Smartwatch",
+        "Smartphone",
+        "Tablet",
+        "Laptop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device usually has the biggest screen?",
+      "options": [
+        "Desktop Monitor or TV",
+        "Smartphone",
+        "Smartwatch",
+        "Tablet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a smartphone do most things a computer can?",
+      "options": [
+        "Yes",
+        "No, it only makes calls",
+        "Only if it has a tail",
+        "Only in the morning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is best for a professional video editor?",
+      "options": [
+        "Powerful Desktop computer",
+        "Tablet",
+        "Smartphone",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Touchpad'?",
+      "options": [
+        "The mouse part on a laptop",
+        "A pad for touching walls",
+        "A type of tablet",
+        "A keyboard key"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Battery life' mean?",
+      "options": [
+        "How long a device works before needing a charge",
+        "The age of the battery",
+        "The size of the battery",
+        "If the battery is happy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device usually needs to be plugged in all the time?",
+      "options": [
+        "Desktop computer",
+        "Laptop",
+        "Smartphone",
+        "Tablet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Peripheral'?",
+      "options": [
+        "An extra device like a printer or mouse",
+        "A type of computer",
+        "The computer's name",
+        "A fast car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Console'?",
+      "options": [
+        "A device specifically for video games",
+        "A type of table",
+        "To make someone feel better",
+        "A part of a ship"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is best for reading a book at night?",
+      "options": [
+        "E-reader or Tablet",
+        "Desktop",
+        "Printer",
+        "Smartwatch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    }
+  ]
+}

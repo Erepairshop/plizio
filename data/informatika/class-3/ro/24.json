@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Motoare de Căutare",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un motor de căutare?",
+      "options": [
+        "Un site care găsește informații pe internet",
+        "Motorul unei mașini",
+        "O piesă de robot",
+        "Un joc cu avioane"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai cunoscut motor de căutare?",
+      "options": [
+        "Google",
+        "Minecraft",
+        "Paint",
+        "YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce scriem în căsuța de căutare?",
+      "options": [
+        "Cuvinte cheie (keywords)",
+        "Numele nostru",
+        "O poezie lungă",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'rezultat al căutării'?",
+      "options": [
+        "O pagină găsită de motor",
+        "O notă la test",
+        "O poză cu noi",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta folosind vocea?",
+      "options": [
+        "Da, căutare vocală",
+        "Nu, doar scriind",
+        "Doar dacă strigăm tare",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'snippet' (fragment)?",
+      "options": [
+        "Micul text care descrie pagina în rezultate",
+        "O prăjitură",
+        "Un joc",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Toate rezultatele sunt adevărate?",
+      "options": [
+        "Nu, trebuie să verificăm informația",
+        "Da, Google nu minte niciodată",
+        "Doar primele 3",
+        "Doar cele cu poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'filtrare'?",
+      "options": [
+        "Alegerea rezultatelor după tip (poze, știri, video)",
+        "Spălarea monitorului",
+        "O eroare de net",
+        "Închiderea ferestrei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum vedem mai multe rezultate?",
+      "options": [
+        "Mergem la pagina următoare (Next)",
+        "Închidem browserul",
+        "Cumpărăm alt monitor",
+        "Așteptăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă un rezultat marcat cu 'Ad'?",
+      "options": [
+        "Este o reclamă plătită",
+        "Este cel mai bun rezultat",
+        "Este un rezultat de la profesori",
+        "Este o eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta definiția unui cuvânt?",
+      "options": [
+        "Da, motoarele de căutare sunt dicționare uriașe",
+        "Nu, ne trebuie o carte",
+        "Doar dacă e cuvânt în engleză",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu găsim ce căutăm?",
+      "options": [
+        "Schimbăm cuvintele cheie",
+        "Plângem",
+        "Aruncăm mouse-ul",
+        "Închidem calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există motoare de căutare speciale pentru copii?",
+      "options": [
+        "Da, ex. Kiddle",
+        "Nu, toți folosesc același lucru",
+        "Doar în alte țări",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'SafeSearch'?",
+      "options": [
+        "Filtrarea conținutului nepotrivit",
+        "O căutare rapidă",
+        "O căutare secretă",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta adrese și hărți?",
+      "options": [
+        "Da, Google Maps",
+        "Nu, ne trebuie o hartă de hârtie",
+        "Doar în orașul nostru",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Motoarele de căutare ne urmăresc căutările?",
+      "options": [
+        "Deseori da, pentru a ne da rezultate mai bune",
+        "Nu, niciodată",
+        "Doar dacă le dăm voie",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Autocompletare'?",
+      "options": [
+        "Motorul sugerează cuvinte în timp ce scriem",
+        "Se scrie singur totul",
+        "Se închide căutarea",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta prețul unui obiect?",
+      "options": [
+        "Da",
+        "Nu, motoarele nu știu prețuri",
+        "Doar în lei",
+        "Doar dacă e ieftin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta clipuri video direct?",
+      "options": [
+        "Da, în tab-ul Video",
+        "Nu, trebuie să mergem pe YouTube",
+        "Doar clipuri scurte",
+        "Doar desene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Sursă de încredere'?",
+      "options": [
+        "Un site oficial sau o enciclopedie",
+        "Orice site colorat",
+        "Un site cu multe reclame",
+        "Un prieten de pe net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte rezultate găsește de obicei Google?",
+      "options": [
+        "Milioane de pagini în câteva secunde",
+        "Doar 10",
+        "Fix 100",
+        "Depinde de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Motoarele de căutare sunt?",
+      "options": [
+        "Unelte foarte puternice",
+        "Jucării",
+        "Plictisitoare",
+        "Erori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta programul trenurilor sau avioanelor?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar la gară",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Istoricul de căutare'?",
+      "options": [
+        "O listă cu tot ce am căutat în trecut",
+        "O carte de istorie",
+        "O listă de note",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să citim mai multe surse?",
+      "options": [
+        "Da, pentru a fi siguri că e adevărat",
+        "Nu, prima e destul",
+        "Nu contează",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cuvânt",
+      "answer": "cuvânt"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: căutare",
+      "answer": "căutare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: filtrare",
+      "answer": "filtrare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rezultat",
+      "answer": "rezultat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: informație",
+      "answer": "informație"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sursă",
+      "answer": "sursă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: adevăr",
+      "answer": "adevăr"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: verificare",
+      "answer": "verificare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: motor",
+      "answer": "motor"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Download Safety",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'Downloading'?",
+      "options": [
+        "Saving a file from the internet to your device",
+        "Turning off the monitor",
+        "Washing the keyboard",
+        "Throwing the computer down"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Virus' in computer terms?",
+      "options": [
+        "A harmful program that can damage your files",
+        "A flu that humans get",
+        "A type of bug in the room",
+        "A scary movie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Malware'?",
+      "options": [
+        "Short for Malicious Software",
+        "Software for shopping malls",
+        "A type of clothing",
+        "A good program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you download things from unknown websites?",
+      "options": [
+        "No, it could be dangerous",
+        "Yes, it's exciting",
+        "Only if they are free",
+        "Only on weekends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Antivirus'?",
+      "options": [
+        "Software that protects your computer from viruses",
+        "A medicine for people",
+        "A type of mouse pad",
+        "A screen cleaner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a pop-up says you won a prize?",
+      "options": [
+        "Close it, it's likely a scam",
+        "Click it and give your info",
+        "Tell all your friends",
+        "Dance"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it safe to download a 'free' game from a weird site?",
+      "options": [
+        "No, it might contain malware",
+        "Yes, free is always good",
+        "Only if it looks cool",
+        "Only if you use a fast browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an '.exe' file?",
+      "options": [
+        "An executable program file",
+        "An extra egg",
+        "A file about exercising",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you ask an adult before downloading?",
+      "options": [
+        "To stay safe from viruses and scams",
+        "Because adults like to watch",
+        "To waste time",
+        "Because it's a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Scan'?",
+      "options": [
+        "Checking a file for viruses with software",
+        "Looking at something quickly",
+        "Taking a photo",
+        "Printing a paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Phishing'?",
+      "options": [
+        "Trying to trick you into giving private info",
+        "Catching fish with a net",
+        "A type of drawing",
+        "A computer sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you give your real name or address on a random site?",
+      "options": [
+        "No, never",
+        "Yes, to be polite",
+        "Only if they ask twice",
+        "Only if you get a prize"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Secure' website address start with?",
+      "options": [
+        "https://",
+        "http://",
+        "www.",
+        "secure://"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the little padlock icon in the address bar mean?",
+      "options": [
+        "The connection is encrypted and secure",
+        "The website is locked",
+        "You need a key to enter",
+        "The computer is safe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can downloads be hidden in ads?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on TV",
+        "Only in books"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Piracy'?",
+      "options": [
+        "Downloading copyrighted content illegally",
+        "Being a pirate on a ship",
+        "A type of party",
+        "A new game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why are 'Terms and Conditions' important?",
+      "options": [
+        "They explain the rules and your rights",
+        "They are just for decoration",
+        "They are stories to read",
+        "They are secret codes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a download takes too long?",
+      "options": [
+        "Check if it's a very large file or if the net is slow",
+        "Hit the computer",
+        "Cry",
+        "Unplug the monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Spyware'?",
+      "options": [
+        "Software that steals your information secretly",
+        "Software for spies",
+        "A type of glasses",
+        "A game about hiding"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do downloaded files usually go?",
+      "options": [
+        "In the 'Downloads' folder",
+        "In the trash",
+        "On the keyboard",
+        "Into the monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you get a virus from an email attachment?",
+      "options": [
+        "Yes, if you open it",
+        "No, never",
+        "Only if it's an image",
+        "Only if you reply"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Firewall'?",
+      "options": [
+        "A security system that controls network traffic",
+        "A wall made of fire",
+        "A brick wall",
+        "A part of the engine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you trust 'Free Music' sites that look messy?",
+      "options": [
+        "No, they often have malware",
+        "Yes, music should be free",
+        "Only if you like the songs",
+        "Only on your phone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Software Update'?",
+      "options": [
+        "A way to fix bugs and improve security",
+        "A new computer",
+        "Changing the screen",
+        "Deleting all programs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it safe to share your passwords with friends?",
+      "options": [
+        "No, keep them private",
+        "Yes, friends should share",
+        "Only if they ask",
+        "Only if you have the same password"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    }
+  ]
+}

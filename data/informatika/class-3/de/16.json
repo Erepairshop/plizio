@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Präzises Zeichnen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein digitales Zeichenprogramm?",
+      "options": [
+        "Z.B. Paint, Tux Paint oder Google Zeichnungen",
+        "Browser",
+        "YouTube",
+        "Word"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie zeichnet man eine gerade Linie?",
+      "options": [
+        "Mit dem Linien-Werkzeug",
+        "Mit der freien Hand",
+        "Mit dem Radiergummi",
+        "Mit dem Eimer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man einen perfekten Kreis?",
+      "options": [
+        "Kreis-Werkzeug + Shift-Taste",
+        "Freihand malen",
+        "Mit der Maus wackeln",
+        "PC schütteln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das 'Füllwerkzeug' (Eimer)?",
+      "options": [
+        "Füllt eine Fläche mit Farbe",
+        "Löscht alles",
+        "Macht Löcher",
+        "Spielt Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Radiergummi' am PC?",
+      "options": [
+        "Löscht Teile der Zeichnung",
+        "Macht alles bunt",
+        "Zeichnet Linien",
+        "Speichert das Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Gitter zur Hilfe?",
+      "options": [
+        "Raster",
+        "Netz",
+        "Zaun",
+        "Käfig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zoom' beim Zeichnen?",
+      "options": [
+        "Das Bild vergrößern für Details",
+        "Schneller zeichnen",
+        "Farben ändern",
+        "Bild löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Pipette'?",
+      "options": [
+        "Farbe aus dem Bild aufnehmen",
+        "Wasser spritzen",
+        "Bild sauber machen",
+        "Löcher bohren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie zeichnet man ein Rechteck?",
+      "options": [
+        "Mit dem Rechteck-Werkzeug",
+        "Mit fünf Linien",
+        "Mit dem Kreis",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text in ein Bild schreiben?",
+      "options": [
+        "Ja, mit dem Text-Werkzeug",
+        "Nein",
+        "Nur mit dem Drucker",
+        "Nur mit der Hand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Ebenen' beim Zeichnen?",
+      "options": [
+        "Bilder übereinander legen",
+        "Stockwerke im Haus",
+        "Berge",
+        "Schichten im Kuchen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man einen Schritt rückgängig?",
+      "options": [
+        "Strg + Z",
+        "PC ausschalten",
+        "Monitor putzen",
+        "Neu malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Pinseldicke'?",
+      "options": [
+        "Wie breit der Strich ist",
+        "Wie lang der Pinsel ist",
+        "Die Farbe",
+        "Der Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man seine Zeichnung?",
+      "options": [
+        "Datei -> Speichern",
+        "PC ausschalten",
+        "Fenster schließen",
+        "Anschauen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Vektor'?",
+      "options": [
+        "Ein Bild aus Linien und Kurven",
+        "Ein Pixel",
+        "Ein Punkt",
+        "Ein Foto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Pixelbild'?",
+      "options": [
+        "Ein Bild aus vielen kleinen Punkten",
+        "Ein film",
+        "Ein Ton",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kopiert man ein Teil der Zeichnung?",
+      "options": [
+        "Auswählen -> Kopieren -> Einfügen",
+        "Ausschneiden mit der Schere",
+        "Draufschlagen",
+        "Anschauen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Gruppieren'?",
+      "options": [
+        "Mehrere Teile zusammenfügen",
+        "Teile löschen",
+        "Teile bemalen",
+        "Teile verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Farbverlauf'?",
+      "options": [
+        "Fließender Übergang von Farben",
+        "Ein Farbeimer",
+        "Ein bunter Stift",
+        "Ein Klecks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie dreht man ein Objekt?",
+      "options": [
+        "Über den Drehpunkt oder Menü",
+        "Monitor drehen",
+        "PC schütteln",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Spiegeln'?",
+      "options": [
+        "Das Bild umdrehen (links/rechts)",
+        "Ein echtes Spiegelbild",
+        "Bild löschen",
+        "Bild drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Palette?",
+      "options": [
+        "Die Auswahl an Farben",
+        "Ein Holzbrett",
+        "Ein Lager",
+        "Ein Werkzeug"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Fotos in ein Zeichenprogramm laden?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Zeichnungen",
+        "Nur Texte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Spraydose'?",
+      "options": [
+        "Ein Werkzeug für gesprenkelte Farbe",
+        "Eine echte Dose",
+        "Ein Geruch",
+        "Ein Geräusch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum braucht man beim Zeichnen eine Maus?",
+      "options": [
+        "Zum präzisen Bewegen des Stifts",
+        "Zum Käse essen",
+        "Zum Tippen",
+        "Zum Hören"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zeichnen",
+      "answer": "Zeichnen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Linie",
+      "answer": "Linie"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kreis",
+      "answer": "Kreis"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Farbe",
+      "answer": "Farbe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Pinsel",
+      "answer": "Pinsel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Radierer",
+      "answer": "Radierer"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Füllen",
+      "answer": "Füllen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Form",
+      "answer": "Form"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bild",
+      "answer": "Bild"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kunst",
+      "answer": "Kunst"
+    }
+  ]
+}

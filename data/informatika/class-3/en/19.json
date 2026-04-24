@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Scratch Projects",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is Scratch?",
+      "options": [
+        "A visual programming language for kids",
+        "A way to fix a cut",
+        "A type of cat food",
+        "A racing game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who created Scratch?",
+      "options": [
+        "MIT",
+        "Google",
+        "Apple",
+        "Microsoft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Sprite' in Scratch?",
+      "options": [
+        "A character or object that can be programmed",
+        "A type of soda",
+        "A small fairy",
+        "A background image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Stage'?",
+      "options": [
+        "The area where the sprites act out the program",
+        "Where you stand to sing",
+        "A level in a game",
+        "The computer screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite move?",
+      "options": [
+        "Use motion blocks like 'move 10 steps'",
+        "Push the sprite with the mouse",
+        "Blow on the screen",
+        "Shout at the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Blocks' in Scratch?",
+      "options": [
+        "Instructions that snap together like Lego",
+        "Heavy bricks",
+        "Ways to stop the program",
+        "Square sprites"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Green Flag' do?",
+      "options": [
+        "Starts the program",
+        "Stops the program",
+        "Changes the color",
+        "Makes the sprite happy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Red Stop Sign' do?",
+      "options": [
+        "Stops the program",
+        "Starts the program",
+        "Deletes a sprite",
+        "Pauses the music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Backdrop'?",
+      "options": [
+        "The background image of the stage",
+        "The back of the computer",
+        "A type of curtain",
+        "A hidden sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find the blocks?",
+      "options": [
+        "In the Block Palette on the left",
+        "In a box under the desk",
+        "On the keyboard",
+        "Inside the sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Scripts Area'?",
+      "options": [
+        "The place where you snap blocks together",
+        "A book of plays",
+        "The bottom of the screen",
+        "Where you draw"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have more than one sprite?",
+      "options": [
+        "Yes, as many as you want",
+        "No, only one",
+        "Only two",
+        "Only if they are friends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a block?",
+      "options": [
+        "Drag it back to the palette or right-click delete",
+        "Throw the mouse away",
+        "Press the power button",
+        "Hide it under a sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is the 'Say Hello' block in?",
+      "options": [
+        "Looks",
+        "Motion",
+        "Sound",
+        "Events"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is the 'Play Sound' block in?",
+      "options": [
+        "Sound",
+        "Looks",
+        "Motion",
+        "Control"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Event' block?",
+      "options": [
+        "A block that triggers a script, like 'When clicked'",
+        "A party block",
+        "A block for holidays",
+        "A moving block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Costume' of a sprite?",
+      "options": [
+        "A different look or pose for the sprite",
+        "Clothing you buy online",
+        "A scary mask",
+        "The sprite's name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw your own sprite?",
+      "options": [
+        "Yes, using the Paint Editor",
+        "No, you must use the library",
+        "Only if you have a scanner",
+        "Only on paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Forever' block do?",
+      "options": [
+        "Repeats the blocks inside it forever",
+        "Stops the program forever",
+        "Makes the sprite big",
+        "Saves the project"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share your Scratch projects online?",
+      "options": [
+        "Yes, on the Scratch website",
+        "No, they stay on your computer",
+        "Only by email",
+        "Only with your teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Variable' in Scratch?",
+      "options": [
+        "A place to store a number, like a score",
+        "A changing color",
+        "A fast sprite",
+        "A type of weather"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite talk with a bubble?",
+      "options": [
+        "Use the 'say' block",
+        "Use the 'think' block",
+        "Record your voice",
+        "Type on the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Backpack' for?",
+      "options": [
+        "Storing scripts or sprites to use in other projects",
+        "A bag for school",
+        "Keeping the sprites warm",
+        "Deleting items"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can Scratch run on a browser?",
+      "options": [
+        "Yes, it works online",
+        "No, you must install it",
+        "Only on phones",
+        "Only on TV"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Remixing' a project?",
+      "options": [
+        "Making a copy of someone's project and adding your own ideas",
+        "Changing the music",
+        "Mixing the sprites together",
+        "Deleting a project"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    }
+  ]
+}

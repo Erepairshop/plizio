@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Listák",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a lista a Scratch-ben?",
+        "options": [
+          "Több adat tárolására alkalmas szerkezet",
+          "Egy bevásárló lista papíron",
+          "Egy sor sorompó",
+          "A billentyűzet gombjai"
+        ],
+        "answer": "Több adat tárolására alkalmas szerkezet"
+      },
+      {
+        "question": "Hogyan nevezzük a lista elemeit?",
+        "options": [
+          "Elemek",
+          "Tagok",
+          "Gombok",
+          "Részek"
+        ],
+        "answer": "Elemek"
+      },
+      {
+        "question": "Mivel azonosítjuk a lista elemeit?",
+        "options": [
+          "Sorszámmal (index)",
+          "Színnel",
+          "Névvel",
+          "Hanggal"
+        ],
+        "answer": "Sorszámmal (index)"
+      },
+      {
+        "question": "Hogyan adhatunk elemet a listához?",
+        "options": [
+          "Add hozzá ...-t a listához",
+          "Tedd bele",
+          "Dobd rá",
+          "Írd rá"
+        ],
+        "answer": "Add hozzá ...-t a listához"
+      },
+      {
+        "question": "Hogyan törölhetünk egy elemet a listából?",
+        "options": [
+          "Töröld a(z) ... elemet",
+          "Vedd ki",
+          "Radírozd le",
+          "Keresd meg"
+        ],
+        "answer": "Töröld a(z) ... elemet"
+      },
+      {
+        "question": "Mit csinál a 'Töröld a lista összes elemét' blokk?",
+        "options": [
+          "Kiüríti a listát",
+          "Letörli a monitort",
+          "Törli a programot",
+          "Megállítja a játékot"
+        ],
+        "answer": "Kiüríti a listát"
+      },
+      {
+        "question": "Hogyan tudjuk meg, hány elem van a listában?",
+        "options": [
+          "A 'lista hossza' blokkal",
+          "Megszámoljuk az ujjunkon",
+          "Nem lehet tudni",
+          "Ránézéssel"
+        ],
+        "answer": "A 'lista hossza' blokkal"
+      },
+      {
+        "question": "Mit jelent az 'illeszd be' blokk?",
+        "options": [
+          "Egy adott helyre teszi az elemet",
+          "A végére teszi",
+          "Összeragasztja",
+          "Kijavítja"
+        ],
+        "answer": "Egy adott helyre teszi az elemet"
+      },
+      {
+        "question": "Melyik blokk ellenőrzi, hogy benne van-e valami a listában?",
+        "options": [
+          "A lista tartalmazza-e ...-t?",
+          "Keresd meg",
+          "Ott van?",
+          "Várj"
+        ],
+        "answer": "A lista tartalmazza-e ...-t?"
+      },
+      {
+        "question": "Lehet-e listát megjeleníteni a színpadon?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha üres",
+          "Csak feketén"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Milyen színűek a lista blokkok?",
+        "options": [
+          "Piros/Sötét narancs",
+          "Kék",
+          "Zöld",
+          "Lila"
+        ],
+        "answer": "Piros/Sötét narancs"
+      },
+      {
+        "question": "Hányas sorszámmal kezdődik a lista a Scratch-ben?",
+        "options": [
+          "1",
+          "0",
+          "10",
+          "100"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "Mit csinál a 'cseréld le a(z) ... elemet' blokk?",
+        "options": [
+          "Újra cseréli a régit",
+          "Törli az elemet",
+          "Megduplázza",
+          "Megfordítja"
+        ],
+        "answer": "Újra cseréli a régit"
+      },
+      {
+        "question": "Mire jó a lista egy játékban?",
+        "options": [
+          "Eredménytábla vagy leltár készítésére",
+          "Dísznek",
+          "Hang lejátszásra",
+          "Mozgásra"
+        ],
+        "answer": "Eredménytábla vagy leltár készítésére"
+      },
+      {
+        "question": "Lehet-e számokat és szövegeket is tárolni egy listában?",
+        "options": [
+          "Igen",
+          "Nem, csak számokat",
+          "Nem, csak szöveget",
+          "Csak képeket"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi az az 'index'?",
+        "options": [
+          "Az elem sorszáma a listában",
+          "A lista neve",
+          "Egy gomb",
+          "A gép sebessége"
+        ],
+        "answer": "Az elem sorszáma a listában"
+      },
+      {
+        "question": "Hogyan hozhatunk létre listát?",
+        "options": [
+          "Változók -> Új lista",
+          "Mozgás -> Új lista",
+          "Fájl -> Új",
+          "Nem lehet"
+        ],
+        "answer": "Változók -> Új lista"
+      },
+      {
+        "question": "Mi történik, ha egy nem létező sorszámra hivatkozunk?",
+        "options": [
+          "Üres értéket kapunk vagy hiba lesz",
+          "Kirobban a gép",
+          "Megáll a játék",
+          "Új elem jön létre"
+        ],
+        "answer": "Üres értéket kapunk vagy hiba lesz"
+      },
+      {
+        "question": "Lehet-e a listát fájlból feltölteni?",
+        "options": [
+          "Igen, importálható",
+          "Nem",
+          "Csak ha leírjuk kézzel",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, importálható"
+      },
+      {
+        "question": "Lehet-e a listát fájlba menteni?",
+        "options": [
+          "Igen, exportálható",
+          "Nem",
+          "Csak ha lefotózzuk",
+          "Csak ha kinyomtatjuk"
+        ],
+        "answer": "Igen, exportálható"
+      },
+      {
+        "question": "Mit csinál a 'lista megjelenítése' blokk?",
+        "options": [
+          "Láthatóvá teszi a színpadon",
+          "Kimondja a gép",
+          "Rajzol egy listát",
+          "Törli"
+        ],
+        "answer": "Láthatóvá teszi a színpadon"
+      },
+      {
+        "question": "Hogyan érhetjük el a lista utolsó elemét?",
+        "options": [
+          "A 'hossza' sorszámú elemet kérjük le",
+          "Megkeressük",
+          "Ránézünk",
+          "Nem lehet"
+        ],
+        "answer": "A 'hossza' sorszámú elemet kérjük le"
+      },
+      {
+        "question": "Változhat-e a lista hossza a program futása alatt?",
+        "options": [
+          "Igen, ha adunk hozzá vagy törlünk",
+          "Nem, fix marad",
+          "Csak ha megengedjük",
+          "Csak ha nagyobb gépet veszünk"
+        ],
+        "answer": "Igen, ha adunk hozzá vagy törlünk"
+      },
+      {
+        "question": "Mire való a 'lista elrejtése' blokk?",
+        "options": [
+          "Eltünteti a színpadról",
+          "Törli a listát",
+          "Megsemmisíti",
+          "Láthatatlanná teszi a Sprite-ot"
+        ],
+        "answer": "Eltünteti a színpadról"
+      },
+      {
+        "question": "Mi a különbség a változó és a lista között?",
+        "options": [
+          "A változó egy adatot, a lista többet tárol",
+          "Nincs különbség",
+          "A lista csak számokat tárol",
+          "A változó lassabb"
+        ],
+        "answer": "A változó egy adatot, a lista többet tárol"
+      }
+    ],
+    "typing": [
+      "lista",
+      "elem",
+      "sorszám",
+      "hossz",
+      "hozzáadás",
+      "törlés",
+      "csere",
+      "tartalmaz",
+      "index",
+      "leltár"
+    ]
+  }
+}

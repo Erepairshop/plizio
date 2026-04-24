@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bookmarks",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a bookmark in a browser?",
+      "options": [
+        "A saved link to a favorite website",
+        "A piece of paper in a book",
+        "A secret password",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use bookmarks?",
+      "options": [
+        "To quickly visit websites we like",
+        "To hide websites from others",
+        "To make the computer faster",
+        "To draw pictures"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Bookmarks Bar'?",
+      "options": [
+        "A strip under the address bar for easy access",
+        "A place to buy books",
+        "A bar made of chocolate",
+        "The bottom of the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which icon is usually used to bookmark a page?",
+      "options": [
+        "A star",
+        "A heart",
+        "A smiley face",
+        "A checkmark"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do bookmarks go if they are not on the bar?",
+      "options": [
+        "Into a Bookmarks Menu or Library",
+        "Into the trash bin",
+        "Into the cloud",
+        "They disappear"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you organize bookmarks into folders?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Sundays",
+        "Only if you have many"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a bookmark?",
+      "options": [
+        "Right-click it and select 'Delete' or 'Remove'",
+        "Throw the computer away",
+        "Click it 100 times",
+        "Type 'Delete'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you rename a bookmark?",
+      "options": [
+        "Yes, to whatever you want",
+        "No, it must be the website's name",
+        "Only if it's short",
+        "Only if you use a pen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Importing' bookmarks?",
+      "options": [
+        "Bringing bookmarks from another browser",
+        "Buying bookmarks online",
+        "Printing them out",
+        "Saving them to a disk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Exporting' bookmarks?",
+      "options": [
+        "Saving your bookmarks to a file to use elsewhere",
+        "Selling your bookmarks",
+        "Sending them to space",
+        "Deleting them all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have a bookmark for a specific video?",
+      "options": [
+        "Yes",
+        "No, only for main pages",
+        "Only if it's short",
+        "Only if it's funny"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if the website changes its address?",
+      "options": [
+        "The bookmark might not work anymore",
+        "The bookmark updates itself",
+        "The computer fixes it",
+        "The internet breaks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the 'Add Bookmark' button usually?",
+      "options": [
+        "In or near the address bar",
+        "Under the keyboard",
+        "On the mouse",
+        "In the power settings"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you sync bookmarks between a phone and a computer?",
+      "options": [
+        "Yes, if you sign in to the browser",
+        "No, never",
+        "Only with a cable",
+        "Only if they are the same brand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Favorite' in some browsers?",
+      "options": [
+        "Another name for a bookmark",
+        "A type of candy",
+        "A best friend",
+        "A special button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you open a bookmarked site?",
+      "options": [
+        "Click on its name in the bookmarks",
+        "Type its name in the search bar",
+        "Wait for it to appear",
+        "Shout at the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have a folder inside a bookmarks folder?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Fridays",
+        "Only for teachers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why would you rename a bookmark?",
+      "options": [
+        "To make the name shorter or easier to find",
+        "To confuse people",
+        "To hide the site",
+        "To make it pretty"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does bookmarking a page download it?",
+      "options": [
+        "No, it just saves the address",
+        "Yes, the whole page",
+        "Only the images",
+        "Only the text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the shortcut to bookmark a page?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + B",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search through your bookmarks?",
+      "options": [
+        "Yes, in the bookmark manager",
+        "No, you must look one by one",
+        "Only if you have a magnifying glass",
+        "Only in the morning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Bookmark Manager'?",
+      "options": [
+        "A tool to see and organize all bookmarks",
+        "A person who works at a library",
+        "A type of software",
+        "A game about books"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share a bookmark with a friend?",
+      "options": [
+        "Yes, by copying the link",
+        "Yes, by giving them your computer",
+        "No, it's private",
+        "Only by mail"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do bookmarks work offline?",
+      "options": [
+        "No, you still need the internet to visit the site",
+        "Yes, they save the site",
+        "Only the text works",
+        "Only for one hour"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best way to organize 100 bookmarks?",
+      "options": [
+        "Put them into categorized folders",
+        "Keep them in one long list",
+        "Delete them all",
+        "Write them on paper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    }
+  ]
+}

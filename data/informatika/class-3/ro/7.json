@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "File de Browser",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o filă (tab) în browser?",
+      "options": [
+        "O fereastră de site deschisă în aceeași fereastră de program",
+        "O foaie de hârtie",
+        "O parte din tastatură",
+        "O bucată de mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce folosim mai multe file?",
+      "options": [
+        "Ca să avem mai multe site-uri deschise deodată",
+        "Ca să meargă mai greu",
+        "Ca să ne încurcăm",
+        "Nu au niciun rost"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum deschidem o filă nouă?",
+      "options": [
+        "Apăsăm pe butonul '+'",
+        "Închidem browserul",
+        "Strigăm la calculator",
+        "Batem în monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem o filă?",
+      "options": [
+        "Apăsăm pe 'x' de pe acea filă",
+        "Tragem de ea în jos",
+        "Oprim curentul",
+        "Nu se poate închide"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trecem de la o filă la alta?",
+      "options": [
+        "Dăm click pe numele filei sus",
+        "Așteptăm 5 minute",
+        "Repornim browserul",
+        "Scuturăm mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem muta ordinea filelor?",
+      "options": [
+        "Da, prin glisare (drag and drop)",
+        "Nu, sunt fixate",
+        "Doar dacă le renumim",
+        "Doar dacă sunt puține"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă închidem browserul?",
+      "options": [
+        "Se închid toate filele",
+        "Rămân deschise pe ecran",
+        "Se mută pe alt calculator",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem redeschide o filă închisă din greșeală?",
+      "options": [
+        "Da, din Istoric sau cu scurtătură",
+        "Nu, e pierdută pe veci",
+        "Doar dacă plânge",
+        "Doar dacă e lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce scrie de obicei pe o filă?",
+      "options": [
+        "Titlul paginii web",
+        "Numărul nostru de telefon",
+        "Data de azi",
+        "Culoarea site-ului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea 10 file deschise?",
+      "options": [
+        "Da, oricâte (dar ocupă memorie)",
+        "Nu, maxim 3",
+        "Doar dacă avem ecran mare",
+        "Doar dacă avem permisiune"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face scurtătura Ctrl + T?",
+      "options": [
+        "Deschide o filă nouă",
+        "Închide totul",
+        "Schimbă culoarea",
+        "Face o poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face scurtătura Ctrl + W?",
+      "options": [
+        "Închide fila curentă",
+        "Deschide un joc",
+        "Oprește sunetul",
+        "Scrie un mesaj"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem grupa filele?",
+      "options": [
+        "Da, în unele browsere moderne",
+        "Nu, e imposibil",
+        "Doar dacă sunt identice",
+        "Doar dacă sunt albastre"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă a 'duplica' o filă?",
+      "options": [
+        "A deschide același site într-o filă nouă",
+        "A o tăia în două",
+        "A o face mai mare",
+        "A o face invizibilă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'favico'?",
+      "options": [
+        "Pictograma mică de pe filă",
+        "O bomboană",
+        "Un prieten",
+        "O tastă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Filele pot avea sunete?",
+      "options": [
+        "Da, dacă site-ul redă muzică",
+        "Nu, sunt mute",
+        "Doar dacă apăsăm pe ele",
+        "Doar dacă strigăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune o filă într-o fereastră separată?",
+      "options": [
+        "Da, trăgând-o în afara barei",
+        "Nu, sunt lipite acolo",
+        "Doar dacă avem permisiune",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Prea multe file fac calculatorul?",
+      "options": [
+        "Mai lent",
+        "Mai rapid",
+        "Mai deștept",
+        "Mai colorat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem căuta printre filele deschise?",
+      "options": [
+        "Da, există butoane speciale",
+        "Nu, trebuie să le luăm la rând",
+        "Doar cu ochelari",
+        "Doar pe Google"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă a 'fixa' (pin) o filă?",
+      "options": [
+        "A o face mică și permanentă în stânga",
+        "A o șterge",
+        "A o ascunde",
+        "A o schimba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Filele fixate se deschid singure la pornire?",
+      "options": [
+        "De obicei, da",
+        "Nu, niciodată",
+        "Doar duminica",
+        "Doar dacă e soare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se vede pe o filă închisă?",
+      "options": [
+        "Nimic, dispare",
+        "O umbră",
+        "O poză",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Browserul Google Chrome are file?",
+      "options": [
+        "Da",
+        "Nu, are doar ferestre",
+        "Are doar desene",
+        "Nu există așa ceva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea filele de pe telefon pe laptop?",
+      "options": [
+        "Da, dacă suntem logați",
+        "Nu, sunt separate",
+        "Doar prin cablu",
+        "Doar prin poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește bară unde stau filele?",
+      "options": [
+        "Bara de file (Tab bar)",
+        "Bara de titlu",
+        "Bara de jos",
+        "Bara de ciocolată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: filă",
+      "answer": "filă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fereastră",
+      "answer": "fereastră"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: comutare",
+      "answer": "comutare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: închidere",
+      "answer": "închidere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: nou",
+      "answer": "nou"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: deschidere",
+      "answer": "deschidere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: grup",
+      "answer": "grup"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sortare",
+      "answer": "sortare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: navigare",
+      "answer": "navigare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rapid",
+      "answer": "rapid"
+    }
+  ]
+}

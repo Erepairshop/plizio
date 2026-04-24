@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Ingenieurdenken",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was macht ein Ingenieur?",
+      "options": [
+        "Probleme lösen und Dinge planen/bauen",
+        "Nur Schlafen",
+        "Nur Essen",
+        "Nur Fernsehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der erste Schritt beim Ingenieurdenken?",
+      "options": [
+        "Das Problem verstehen/fragen",
+        "Sofort bauen",
+        "Alles wegwerfen",
+        "Nichts tun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Prototyp?",
+      "options": [
+        "Ein erstes Testmodell",
+        "Ein fertiges Auto",
+        "Ein altes kaputtes Teil",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Fehler wichtig?",
+      "options": [
+        "Man lernt daraus und verbessert Dinge",
+        "Sie sind schlimm",
+        "Sie kosten Zeit",
+        "Man sollte aufgeben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Testen'?",
+      "options": [
+        "Prüfen, ob die Lösung funktioniert",
+        "Essen probieren",
+        "Schlafen",
+        "Spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Verbessern' (Optimieren)?",
+      "options": [
+        "Dinge noch besser machen",
+        "Dinge schlechter machen",
+        "Dinge löschen",
+        "Dinge anmalen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Design-Prozess?",
+      "options": [
+        "Ein weg von der Idee zur Lösung",
+        "Ein schönes Bild",
+        "Ein Kleidungsstück",
+        "Ein film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum braucht man einen Plan?",
+      "options": [
+        "Damit man weiß, what man tun muss",
+        "Damit man mehr Zeit braucht",
+        "Pläne sind unnötig",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zusammenarbeit'?",
+      "options": [
+        "Gemeinsam an einer Lösung arbeiten",
+        "Alleine arbeiten",
+        "Gar nicht arbeiten",
+        "Streiten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Brainstorming?",
+      "options": [
+        "Viele Ideen sammeln",
+        "Regen im Kopf",
+        "Kopfschmerzen",
+        "Ein Gewitter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Skizze?",
+      "options": [
+        "Eine einfache Zeichnung einer Idee",
+        "Ein fertiges Bild",
+        "Ein langer Text",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Kreativität'?",
+      "options": [
+        "Neue und originelle Ideen haben",
+        "Sachen kopieren",
+        "Nichts tun",
+        "Alles gleich machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Material?",
+      "options": [
+        "Stoffe, aus denen man baut (Holz, Metall, Plastik)",
+        "Ein Name",
+        "Ein Gefühl",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum muss man stabil bauen?",
+      "options": [
+        "Damit es nicht zusammenbricht",
+        "Damit es schwer ist",
+        "Damit es bunt ist",
+        "Egal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Funktion?",
+      "options": [
+        "Was ein Ding tun soll",
+        "Ein Fest",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Anforderung?",
+      "options": [
+        "Was das Ding können MUSS",
+        "Ein Wunsch",
+        "Eine Bitte",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Einschränkung?",
+      "options": [
+        "Dinge, die man beachten muss (z.B. Zeit, Geld)",
+        "Ein Verbot",
+        "Eine Mauer",
+        "Ein Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ingenieurdenken auch beim Programmieren nutzen?",
+      "options": [
+        "Ja, beim Planen und Fehler suchen",
+        "Nein",
+        "Nur beim Bauen",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Feedback beim Bauen?",
+      "options": [
+        "Meinungen von anderen zur Verbesserung",
+        "Ein lautes Geräusch",
+        "Ein Essen",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Nachhaltigkeit'?",
+      "options": [
+        "Umweltfreundlich und langlebig bauen",
+        "Dinge schnell wegwerfen",
+        "Viel Müll machen",
+        "Egal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Roboter?",
+      "options": [
+        "Eine programmierbare Maschine",
+        "Ein lebendiges Tier",
+        "Ein Mensch aus Metall",
+        "Ein Spielzeugauto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Brücke?",
+      "options": [
+        "Ein Bauwerk über ein Hindernis",
+        "Ein weg",
+        "Ein Haus",
+        "Ein Turm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Statik?",
+      "options": [
+        "Die Lehre vom Gleichgewicht/Stabilität",
+        "Ein Radio",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Effizienz?",
+      "options": [
+        "Etwas mit wenig Aufwand gut erledigen",
+        "Viel Zeit verschwenden",
+        "Nichts tun",
+        "Laut sein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man seine Arbeit dokumentieren?",
+      "options": [
+        "Um anderen zu zeigen, wie es geht",
+        "Zum Spaß",
+        "Weil es verboten ist",
+        "Um sie zu verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Plan",
+      "answer": "Plan"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bauen",
+      "answer": "Bauen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Testen",
+      "answer": "Testen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Lösung",
+      "answer": "Lösung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Idee",
+      "answer": "Idee"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Fehler",
+      "answer": "Fehler"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Modell",
+      "answer": "Modell"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schritt",
+      "answer": "Schritt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Denken",
+      "answer": "Denken"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Projekt",
+      "answer": "Projekt"
+    }
+  ]
+}

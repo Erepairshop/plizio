@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Scratch-Projekte",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Scratch?",
+      "options": [
+        "Eine Programmiersprache für Kinder",
+        "Ein Musikprogramm",
+        "Ein Browser",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie programmiert man in Scratch?",
+      "options": [
+        "Mit bunten Blöcken",
+        "Mit viel Text schreiben",
+        "Gar nicht",
+        "Nur mit der Maus malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Figur' (Sprite)?",
+      "options": [
+        "Ein Objekt oder Charakter im Projekt",
+        "Ein Hintergrund",
+        "Ein Ton",
+        "Ein Programm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Bühne'?",
+      "options": [
+        "Der Bereich, in dem alles passiert",
+        "Der Keller",
+        "Der Bildschirmrand",
+        "Ein Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie startet man ein Projekt meistens?",
+      "options": [
+        "Klick auf die grüne Flagge",
+        "Klick auf das rote Stoppschild",
+        "PC schütteln",
+        "Laut rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie stoppt man ein Projekt?",
+      "options": [
+        "Klick auf das rote Stoppschild",
+        "Klick auf die grüne Flagge",
+        "Monitor ausschalten",
+        "Weglaufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Block?",
+      "options": [
+        "Ein einzelner Programmbefehl",
+        "Ein stein",
+        "Ein Bild",
+        "Ein Wort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die Blöcke?",
+      "options": [
+        "In der Block-Palette",
+        "Im Rucksack",
+        "Unter der Bühne",
+        "In der Hilfe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Skript?",
+      "options": [
+        "Eine Kette von zusammengefügten Blöcken",
+        "Ein Buch",
+        "Ein film",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe haben 'Bewegungs'-Blöcke?",
+      "options": [
+        "Blau",
+        "Gelb",
+        "Grün",
+        "Rot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe haben 'Aussehens'-Blöcke?",
+      "options": [
+        "Lila",
+        "Blau",
+        "Orange",
+        "Grau"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eigene Figuren zeichnen?",
+      "options": [
+        "Ja, im Kostüm-Editor",
+        "Nein",
+        "Nur fertige nutzen",
+        "Nur Fotos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kostüm?",
+      "options": [
+        "Ein anderes Aussehen einer Figur",
+        "Kleidung für Kinder",
+        "Ein Lied",
+        "Ein Hintergrund"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Hintergrund?",
+      "options": [
+        "Das Bild auf der Bühne",
+        "Die Farbe der Blöcke",
+        "Der Name des Projekts",
+        "Die Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lässt man eine Figur sprechen?",
+      "options": [
+        "Mit dem 'Sage...'-Block",
+        "Mit dem Mikrofon",
+        "Gar nicht",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Töne in Scratch abspielen?",
+      "options": [
+        "Ja, über die Klang-Blöcke",
+        "Nein",
+        "Nur mit dem Radio",
+        "Nur wenn man klatscht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Rucksack'-Feature?",
+      "options": [
+        "Teile in andere Projekte mitnehmen",
+        "Ein echter Rucksack",
+        "Ein Speicherplatz",
+        "Ein Müllkorb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Projekte speichern?",
+      "options": [
+        "Ja, online oder auf dem PC",
+        "Nein",
+        "Nur im Kopf",
+        "Nur auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Scratch-Community?",
+      "options": [
+        "Andere Kinder, die Projekte teilen",
+        "Ein Verein für Sport",
+        "Ein Wald",
+        "Ein Laden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Remixen'?",
+      "options": [
+        "Ein Projekt von anderen kopieren und ändern",
+        "Ein Lied mischen",
+        "Ein Bild malen",
+        "Ein spiel löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt das Katzen-Maskottchen?",
+      "options": [
+        "Scratch-Katze",
+        "Miau",
+        "Kitty",
+        "Leo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Ereignis-Block?",
+      "options": [
+        "Startet ein Skript (z.B. bei Klick)",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo zieht man die Blöcke hin?",
+      "options": [
+        "In den Skriptbereich",
+        "Auf die Bühne",
+        "In den Papierkorb",
+        "Aus dem Fenster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man in Scratch Spiele bauen?",
+      "options": [
+        "Ja, sehr viele verschiedene",
+        "Nein, nur Bilder",
+        "Nur Hausaufgaben",
+        "Nur Videos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Koordinatensystem' in Scratch?",
+      "options": [
+        "X- und Y-Position der Figur",
+        "Ein Kompass",
+        "Eine Landkarte",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Scratch",
+      "answer": "Scratch"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Programm",
+      "answer": "Programm"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Figur",
+      "answer": "Figur"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Skript",
+      "answer": "Skript"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bühne",
+      "answer": "Bühne"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Flagge",
+      "answer": "Flagge"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kostüm",
+      "answer": "Kostüm"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Projekt",
+      "answer": "Projekt"
+    }
+  ]
+}

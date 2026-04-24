@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "E-mailul",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un e-mail?",
+      "options": [
+        "O scrisoare electronică",
+        "Un joc cu mașini",
+        "O prăjitură",
+        "Un monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce simbol este obligatoriu într-o adresă de e-mail?",
+      "options": [
+        "@",
+        "#",
+        "$",
+        "&"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește persoana care primește e-mailul?",
+      "options": [
+        "Destinatar",
+        "Expeditor",
+        "Poștaș",
+        "Router"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește persoana care trimite e-mailul?",
+      "options": [
+        "Expeditor",
+        "Destinatar",
+        "Client",
+        "Mecanic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde scriem despre ce este vorba în e-mail?",
+      "options": [
+        "La Subiect (Subject)",
+        "Pe tastatură",
+        "În coșul de gunoi",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un atașament?",
+      "options": [
+        "Un fișier trimis împreună cu e-mailul",
+        "O agrafă de birou",
+        "O poză pe perete",
+        "Un buton de pornire"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite poze prin e-mail?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar alb-negru",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este folderul 'Inbox'?",
+      "options": [
+        "Locul unde primim mesajele",
+        "O cutie de pantofi",
+        "Coșul de gunoi",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Spam'?",
+      "options": [
+        "E-mailuri nedorite sau reclame",
+        "O mâncare delicioasă",
+        "Un prieten bun",
+        "Un program de desenat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum răspundem la un e-mail?",
+      "options": [
+        "Folosim butonul Reply",
+        "Strigăm la ecran",
+        "Scriem pe hârtie",
+        "Repornim calculatorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite același e-mail la mai mulți oameni?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt frați",
+        "Doar dacă au același nume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'CC' în e-mail?",
+      "options": [
+        "Carbon Copy (copie pentru alții)",
+        "Cucurigu",
+        "Căruță Cu cai",
+        "Calculator Colorat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este politicos să scriem totul cu LITERE MARI?",
+      "options": [
+        "Nu, pare că țipăm",
+        "Da, se vede mai bine",
+        "Da, e la modă",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Trebuie să avem o parolă pentru e-mail?",
+      "options": [
+        "Da, pentru siguranță",
+        "Nu, e liber pentru toți",
+        "Doar dacă ne roagă mama",
+        "Doar dacă suntem mici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este folderul 'Sent' (Trimise)?",
+      "options": [
+        "Locul unde se salvează ce am trimis",
+        "Locul unde stau mesajele primite",
+        "Coșul de gunoi",
+        "O arhivă secretă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă primim un e-mail ciudat de la un necunoscut?",
+      "options": [
+        "Nu îl deschidem și spunem părinților",
+        "Îl deschidem imediat",
+        "Trimitem poze cu noi",
+        "Îl trimitem la toți colegii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește semnătura de la finalul e-mailului?",
+      "options": [
+        "Semnătură (Signature)",
+        "Desen",
+        "Final",
+        "Pa pa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Drafts' (Ciorne)?",
+      "options": [
+        "Mesaje începute, dar netrimise",
+        "Mesaje șterse",
+        "Jocuri noi",
+        "Desene colorate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un serviciu de e-mail popular?",
+      "options": [
+        "Gmail",
+        "Minecraft",
+        "YouTube",
+        "Netflix"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte simboluri @ poate avea o adresă de e-mail?",
+      "options": [
+        "Exact unul",
+        "Câte vrem",
+        "Zero",
+        "Două"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem trimite un e-mail fără subiect?",
+      "options": [
+        "Da, dar nu e recomandat",
+        "Nu, e imposibil",
+        "Doar dacă e scurt",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'BCC'?",
+      "options": [
+        "Copie ascunsă",
+        "Baloane Cu Culori",
+        "Bine Că Ai Venit",
+        "Buton Cu Cod"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E-mailul ajunge instantaneu?",
+      "options": [
+        "Aproape instantaneu",
+        "După 3 zile",
+        "Doar dacă e soare",
+        "Când vrea poștașul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un e-mail primit?",
+      "options": [
+        "Da",
+        "Nu, rămâne pe veci",
+        "Doar dacă e spam",
+        "Doar dacă avem permisiune"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "E-mailul este gratuit?",
+      "options": [
+        "Multe servicii sunt gratuite",
+        "Nu, costă 1 leu fiecare",
+        "Este gratuit doar lunea",
+        "Nu, costă o avere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scrisoare",
+      "answer": "scrisoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mesaj",
+      "answer": "mesaj"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: trimitere",
+      "answer": "trimitere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: subiect",
+      "answer": "subiect"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: atașament",
+      "answer": "atașament"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: răspuns",
+      "answer": "răspuns"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: arond",
+      "answer": "arond"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: destinatar",
+      "answer": "destinatar"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: poștă",
+      "answer": "poștă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: spam",
+      "answer": "spam"
+    }
+  ]
+}

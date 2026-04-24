@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Favoriten",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was sind Favoriten im Browser?",
+      "options": [
+        "Gespeicherte Links zu Webseiten",
+        "Lieblingslieder",
+        "Beste Freunde",
+        "Schöne Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man Favoriten noch?",
+      "options": [
+        "Lesezeichen",
+        "Sticker",
+        "Notizen",
+        "Briefe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol steht oft für Favoriten?",
+      "options": [
+        "Ein Stern",
+        "Ein Herz",
+        "Ein Auto",
+        "Ein Baum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum nutzt man Favoriten?",
+      "options": [
+        "Um Seiten schnell wiederzufinden",
+        "Um den PC zu dekorieren",
+        "Um Platz zu löschen",
+        "Aus Langeweile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die Favoriten?",
+      "options": [
+        "In der Favoritenleiste oder Menü",
+        "Unter der Tastatur",
+        "Im Papierkorb",
+        "Auf dem Desktop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man eine Seite zu den Favoriten hinzu?",
+      "options": [
+        "Auf den Stern klicken",
+        "Den PC ausschalten",
+        "Laut rufen",
+        "Ein Foto machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten sortieren?",
+      "options": [
+        "Ja, in Ordnern",
+        "Nein",
+        "Nur nach Farbe",
+        "Nur nach Größe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Favoritenleiste?",
+      "options": [
+        "Eine Leiste unter der URL-Zeile",
+        "Ein Regal",
+        "Ein spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten löschen?",
+      "options": [
+        "Ja, wenn man sie nicht mehr braucht",
+        "Nein, niemals",
+        "Nur am Freitag",
+        "Nur mit Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf einen Favoriten klickt?",
+      "options": [
+        "Die gespeicherte Seite öffnet sich",
+        "Das Internet geht aus",
+        "Ein Bild wird gemalt",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten benennen?",
+      "options": [
+        "Ja, man kann den Namen ändern",
+        "Nein",
+        "Nur mit Zahlen",
+        "Nur mit Buchstaben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden Favoriten gespeichert?",
+      "options": [
+        "Im Webbrowser",
+        "Auf Papier",
+        "Im Monitor",
+        "In der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Favoriten auf jedem Computer gleich?",
+      "options": [
+        "Nein, nur wenn man sich anmeldet",
+        "Ja, immer",
+        "Nur bei gleichem Strom",
+        "Nur bei Regen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten-Ordner erstellen?",
+      "options": [
+        "Ja, zur besseren Übersicht",
+        "Nein",
+        "Nur zwei Stück",
+        "Nur für Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Lesezeichen-Menü?",
+      "options": [
+        "Eine Liste aller Favoriten",
+        "Ein Kochbuch",
+        "Ein Spielmenü",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hilft ein Favorit beim Lernen?",
+      "options": [
+        "Ja, für oft genutzte Lernseiten",
+        "Nein",
+        "Nur beim Schlafen",
+        "Nur sonntags"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten exportieren?",
+      "options": [
+        "Ja, um sie auf anderen PCs zu nutzen",
+        "Nein",
+        "Nur mit dem Drucker",
+        "Nur mit dem Handy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Lesezeichen-Manager?",
+      "options": [
+        "Ein Programmteil zum Verwalten",
+        "Ein echter Mensch",
+        "Ein Buch",
+        "Ein Roboter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein Lesezeichen-Ordner aus?",
+      "options": [
+        "Wie ein gelber Ordner",
+        "Wie ein Kreis",
+        "Wie ein Stern",
+        "Wie ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Seite mehrfach speichern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur dreimal",
+        "Nur im Traum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Lesezeichen-Symbolleiste'?",
+      "options": [
+        "Ein anderer Name für Favoritenleiste",
+        "Ein Werkzeugkasten",
+        "Ein Bild",
+        "Ein Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Favoriten mit der Tastatur öffnen?",
+      "options": [
+        "Ja, oft mit Tastenkürzeln",
+        "Nein",
+        "Nur mit der Maus",
+        "Nur mit Sprache"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Tag' bei Favoriten?",
+      "options": [
+        "Ein Schlagwort zur Suche",
+        "Ein Wochentag",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Lesezeichen hinzufügen'?",
+      "options": [
+        "Seite in Favoriten speichern",
+        "Seite löschen",
+        "Seite drucken",
+        "Seite beenden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Favorit ein echtes Buchzeichen?",
+      "options": [
+        "Nein, es ist digital",
+        "Ja",
+        "Nur wenn man es druckt",
+        "Nur im Märchen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Favoriten",
+      "answer": "Favoriten"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Lesezeichen",
+      "answer": "Lesezeichen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speichern",
+      "answer": "Speichern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Stern",
+      "answer": "Stern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ordner",
+      "answer": "Ordner"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Browser",
+      "answer": "Browser"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Link",
+      "answer": "Link"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schnell",
+      "answer": "Schnell"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Suche",
+      "answer": "Suche"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Verwalten",
+      "answer": "Verwalten"
+    }
+  ]
+}

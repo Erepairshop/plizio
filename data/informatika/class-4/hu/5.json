@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Animáció",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi az animáció lényege?",
+        "options": [
+          "Képek gyors váltakozása",
+          "Egy állókép",
+          "Hangfelvétel",
+          "Szövegírás"
+        ],
+        "answer": "Képek gyors váltakozása"
+      },
+      {
+        "question": "Mivel érhetünk el animációt a Scratch-ben?",
+        "options": [
+          "Jelmezváltással",
+          "Színváltoztatással",
+          "Várakozással",
+          "Minden felsorolt"
+        ],
+        "answer": "Minden felsorolt"
+      },
+      {
+        "question": "Melyik blokk vált a következő jelmezre?",
+        "options": [
+          "Következő jelmez",
+          "Válts jelmezt",
+          "Új kép",
+          "Törlés"
+        ],
+        "answer": "Következő jelmez"
+      },
+      {
+        "question": "Melyik blokk vált egy pontosan megnevezett jelmezre?",
+        "options": [
+          "Legyen a jelmez ...",
+          "Következő jelmez",
+          "Jelmez csere",
+          "Kép beállítása"
+        ],
+        "answer": "Legyen a jelmez ..."
+      },
+      {
+        "question": "Miért kell 'várj' blokk az animációba?",
+        "options": [
+          "Hogy ne legyen túl gyors",
+          "Hogy megálljon a gép",
+          "Hogy elromoljon",
+          "Nem kell bele"
+        ],
+        "answer": "Hogy ne legyen túl gyors"
+      },
+      {
+        "question": "Hogyan érhetjük el, hogy egy figura járjon?",
+        "options": [
+          "Lépés és jelmezváltás ismétlése",
+          "Csak egy helyben állás",
+          "Gépelés",
+          "Képernyő rázása"
+        ],
+        "answer": "Lépés és jelmezváltás ismétlése"
+      },
+      {
+        "question": "Melyik blokkal tudunk méretet változtatni animációként?",
+        "options": [
+          "Méret változzon ...-el",
+          "Szín változzon",
+          "Hang változzon",
+          "Mozgás"
+        ],
+        "answer": "Méret változzon ...-el"
+      },
+      {
+        "question": "Melyik grafikai hatás teszi áttetszővé a Sprite-ot?",
+        "options": [
+          "Szellem",
+          "Szín",
+          "Halszem",
+          "Örvény"
+        ],
+        "answer": "Szellem"
+      },
+      {
+        "question": "Melyik grafikai hatás változtatja meg a színeket?",
+        "options": [
+          "Szín",
+          "Fényerő",
+          "Mozaik",
+          "Pixelesedés"
+        ],
+        "answer": "Szín"
+      },
+      {
+        "question": "Hogyan tüntethetjük el az összes grafikai hatást?",
+        "options": [
+          "Grafikai hatások törlése",
+          "Kikapcsolás",
+          "Újraindítás",
+          "Szín nullázása"
+        ],
+        "answer": "Grafikai hatások törlése"
+      },
+      {
+        "question": "Mit csinál a 'Halszem' effektus?",
+        "options": [
+          "Középen kidomborítja a képet",
+          "Kicsinyíti",
+          "Törli",
+          "Megfordítja"
+        ],
+        "answer": "Középen kidomborítja a képet"
+      },
+      {
+        "question": "Mit csinál az 'Örvény' effektus?",
+        "options": [
+          "Megcsavarja a képet",
+          "Eltünteti",
+          "Színezi",
+          "Hangot ad"
+        ],
+        "answer": "Megcsavarja a képet"
+      },
+      {
+        "question": "Mit csinál a 'Pixelesedés' effektus?",
+        "options": [
+          "Nagy négyzetekre bontja a képet",
+          "Élesíti",
+          "Láthatatlanná teszi",
+          "Megfordítja"
+        ],
+        "answer": "Nagy négyzetekre bontja a képet"
+      },
+      {
+        "question": "Mit csinál a 'Mozaik' effektus?",
+        "options": [
+          "Több kicsi képre bontja a Sprite-ot",
+          "Összerakja",
+          "Színezi",
+          "Hangot ad"
+        ],
+        "answer": "Több kicsi képre bontja a Sprite-ot"
+      },
+      {
+        "question": "Melyik blokkal változtathatjuk a fényerőt?",
+        "options": [
+          "Grafikai hatás: fényerő változzon",
+          "Lámpa blokk",
+          "Napfény blokk",
+          "Sötétítő blokk"
+        ],
+        "answer": "Grafikai hatás: fényerő változzon"
+      },
+      {
+        "question": "Hogyan készíthetünk dobogó szívet?",
+        "options": [
+          "Méret növelése és csökkentése ismételve",
+          "Csak várakozással",
+          "Színváltással",
+          "Mozgatással"
+        ],
+        "answer": "Méret növelése és csökkentése ismételve"
+      },
+      {
+        "question": "Mi az a FPS?",
+        "options": [
+          "Képkocka per másodperc",
+          "Gyors program",
+          "Finom süti",
+          "Fájl típus"
+        ],
+        "answer": "Képkocka per másodperc"
+      },
+      {
+        "question": "Hogyan érhetjük el, hogy a háttér változzon?",
+        "options": [
+          "Következő háttér blokkal",
+          "Következő jelmez blokkal",
+          "Mozgás blokkal",
+          "Nem lehet"
+        ],
+        "answer": "Következő háttér blokkal"
+      },
+      {
+        "question": "Lehet-e videót animációként használni?",
+        "options": [
+          "Nem közvetlenül, de jelmezekkel megoldható",
+          "Igen, bármilyen mp4-et",
+          "Csak ha kifizetjük",
+          "Csak rajzfilmet"
+        ],
+        "answer": "Nem közvetlenül, de jelmezekkel megoldható"
+      },
+      {
+        "question": "Mire jó az 'ismételd' blokk az animációnál?",
+        "options": [
+          "Többször lefuttatja a mozgást",
+          "Egyszer fut le",
+          "Megállítja a kódot",
+          "Törli a kódot"
+        ],
+        "answer": "Többször lefuttatja a mozgást"
+      },
+      {
+        "question": "Mi a különbség a 'Válts jelmezt' és 'Következő jelmez' között?",
+        "options": [
+          "A 'Válts' egy konkrét képet kér",
+          "Nincs különbség",
+          "A 'Következő' lassabb",
+          "A 'Válts' véletlenszerű"
+        ],
+        "answer": "A 'Válts' egy konkrét képet kér"
+      },
+      {
+        "question": "Milyen blokkal lehet egy Sprite-ot fokozatosan eltüntetni?",
+        "options": [
+          "Szellem hatás változtatása",
+          "Törlés blokk",
+          "Elrejtés blokk",
+          "Kikapcsolás"
+        ],
+        "answer": "Szellem hatás változtatása"
+      },
+      {
+        "question": "Hogyan lehet egy Sprite-ot villogtatni?",
+        "options": [
+          "Megjelenítés és elrejtés váltogatása",
+          "Csak elrejtés",
+          "Színváltás",
+          "Forgatás"
+        ],
+        "answer": "Megjelenítés és elrejtés váltogatása"
+      },
+      {
+        "question": "Melyik fülön találjuk a jelmezeket?",
+        "options": [
+          "Jelmezek fül",
+          "Kód fül",
+          "Hangok fül",
+          "Beállítások fül"
+        ],
+        "answer": "Jelmezek fül"
+      },
+      {
+        "question": "Mi az a rétegződés az animációnál?",
+        "options": [
+          "Melyik Sprite van elöl vagy hátul",
+          "A színek száma",
+          "A hang ereje",
+          "A gép sebessége"
+        ],
+        "answer": "Melyik Sprite van elöl vagy hátul"
+      }
+    ],
+    "typing": [
+      "animáció",
+      "jelmez",
+      "váltás",
+      "hatás",
+      "szellem",
+      "mozaik",
+      "örvény",
+      "pixeles",
+      "fényerő",
+      "ismétlés"
+    ]
+  }
+}

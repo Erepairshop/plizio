@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Text Formatting",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does 'Formatting' text mean?",
+      "options": [
+        "Changing how the text looks",
+        "Deleting the text",
+        "Writing new text",
+        "Printing the text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make text **thicker**?",
+      "options": [
+        "Bold (B)",
+        "Italic (I)",
+        "Underline (U)",
+        "Smaller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make text *slant*?",
+      "options": [
+        "Italic (I)",
+        "Bold (B)",
+        "Underline (U)",
+        "Uppercase"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the name for the style of letters?",
+      "options": [
+        "Font",
+        "Ink",
+        "Paint",
+        "Marker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which button changes the color of the text?",
+      "options": [
+        "Text Color (usually an 'A' with a line)",
+        "Fill Color",
+        "Bold",
+        "Undo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you put a line under text?",
+      "options": [
+        "Underline (U)",
+        "Bold (B)",
+        "Italic (I)",
+        "Highlight"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Highlighting' text?",
+      "options": [
+        "Putting a colored background behind the text",
+        "Making it brighter",
+        "Drawing a circle",
+        "Writing it in yellow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Font Size'?",
+      "options": [
+        "How big or small the letters are",
+        "How many letters there are",
+        "How heavy the letters are",
+        "The color of letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you center text on a page?",
+      "options": [
+        "Center Align",
+        "Left Align",
+        "Right Align",
+        "Justify"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Uppercase'?",
+      "options": [
+        "ALL CAPITAL LETTERS",
+        "Small letters",
+        "Letters in a case",
+        "Upper floor letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Lowercase'?",
+      "options": [
+        "small letters",
+        "Capital letters",
+        "Letters on the floor",
+        "Quiet letters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Clear Formatting' button do?",
+      "options": [
+        "Removes all styles and goes back to normal",
+        "Deletes all text",
+        "Cleans the monitor",
+        "Changes all colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you copy text?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you paste text?",
+      "options": [
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Cut' text do?",
+      "options": [
+        "Removes it and saves it to the clipboard",
+        "Deletes it forever",
+        "Chops it in half",
+        "Prints it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bullet List'?",
+      "options": [
+        "A list of items with dots",
+        "A list of fast things",
+        "A list of points",
+        "A round list"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Numbered List'?",
+      "options": [
+        "A list with 1, 2, 3...",
+        "A list of phone numbers",
+        "A list of math",
+        "A list for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Line Spacing'?",
+      "options": [
+        "The amount of space between lines of text",
+        "A space for rockets",
+        "Drawing lines",
+        "The length of a line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Subscript'?",
+      "options": [
+        "Small text below the line",
+        "A secret script",
+        "A script for a sub",
+        "Under the sea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Superscript'?",
+      "options": [
+        "Small text above the line (like 2²)",
+        "Superhero text",
+        "Very fast text",
+        "Large text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Alignment' to the left called?",
+      "options": [
+        "Left Align",
+        "Center Align",
+        "Right Align",
+        "Justify"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Alignment' to the right called?",
+      "options": [
+        "Right Align",
+        "Left Align",
+        "Center Align",
+        "Justify"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Justified' alignment?",
+      "options": [
+        "Text spread evenly between margins",
+        "Fair text",
+        "Text with a reason",
+        "Short text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Format Painter'?",
+      "options": [
+        "A tool to copy formatting from one place to another",
+        "A person who paints computers",
+        "A type of brush",
+        "A color tool"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which font is most common for school work?",
+      "options": [
+        "Arial or Times New Roman",
+        "Joker",
+        "Comic Sans",
+        "Symbols"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: internet",
+      "answer": "internet"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: website",
+      "answer": "website"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    }
+  ]
+}

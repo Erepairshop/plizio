@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Algoritmi de Bază",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un algoritm?",
+      "options": [
+        "O listă de pași pentru a rezolva o problemă",
+        "Un tip de robot",
+        "Un joc de noroc",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ordinea pașilor într-un algoritm este importantă?",
+      "options": [
+        "Da, foarte importantă",
+        "Nu, poți face orice oricând",
+        "Doar la final",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un algoritm în viața reală?",
+      "options": [
+        "O rețetă de prăjituri",
+        "Dormitul",
+        "Statul pe scaun",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'instrucțiune'?",
+      "options": [
+        "O comandă sau un pas de urmat",
+        "O școală",
+        "Un instrument",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Calculatoarele pot funcționa fără algoritmi?",
+      "options": [
+        "Nu, ei le spun ce să facă",
+        "Da, sunt deștepte",
+        "Doar cele noi",
+        "Doar dacă au baterie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'input'?",
+      "options": [
+        "Informația pe care o primește algoritmul",
+        "Rezultatul final",
+        "Viteza lui",
+        "Opritul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'output'?",
+      "options": [
+        "Rezultatul dat de algoritm",
+        "Startul",
+        "O eroare",
+        "Curentul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește desenul cu pașii unui algoritm?",
+      "options": [
+        "Schemă logică (Flowchart)",
+        "Tablou",
+        "Hartă",
+        "Listă de note"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea mai mulți algoritmi pentru aceeași problemă?",
+      "options": [
+        "Da, unii pot fi mai rapizi",
+        "Nu, există doar unul corect",
+        "Doar dacă sunt greșiți",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'repetiție' în algoritm?",
+      "options": [
+        "Efectuarea unui pas de mai multe ori",
+        "Oprirea algoritmului",
+        "Ștergerea pașilor",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'decizie' (dacă... atunci...)?",
+      "options": [
+        "Alegerea unei căi în funcție de o condiție",
+        "Închiderea programului",
+        "Un zgomot",
+        "O poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un algoritm trebuie să aibă un sfârșit?",
+      "options": [
+        "Da, trebuie să se oprească la un moment dat",
+        "Nu, poate merge la infinit mereu",
+        "Doar dacă e greșit",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Oamenii folosesc algoritmi?",
+      "options": [
+        "Da, de exemplu când se spală pe dinți",
+        "Nu, doar roboții",
+        "Doar la mate",
+        "Doar la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'debug'?",
+      "options": [
+        "Găsirea și corectarea greșelilor",
+        "Adăugarea de gândaci",
+        "Închiderea ochilor",
+        "Repornirea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un algoritm bun este?",
+      "options": [
+        "Clar și eficient",
+        "Lungi și complicat",
+        "Secret",
+        "Scris cu culori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'pseudocodul'?",
+      "options": [
+        "Algoritm scris în limbaj uman simplu",
+        "Un cod secret",
+        "O minciună",
+        "Un zgomot de tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face un algoritm pentru a face un ceai?",
+      "options": [
+        "Da, pas cu pas",
+        "Nu, e prea simplu",
+        "Doar roboții pot",
+        "Doar dacă avem apă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă sărim un pas?",
+      "options": [
+        "Algoritmul nu mai funcționează corect",
+        "Merge mai repede",
+        "Nu contează",
+        "Se șterge singur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este primul pas într-un algoritm?",
+      "options": [
+        "Start / Pornire",
+        "Stop",
+        "Repetă",
+        "Dacă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine scrie algoritmii pentru calculator?",
+      "options": [
+        "Programatorii",
+        "Calculatorul singur",
+        "Copiii care se joacă",
+        "Extratereștrii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'eficiență'?",
+      "options": [
+        "Rezolvarea problemei cu cât mai puțini pași",
+        "Viteza luminii",
+        "O culoare frumoasă",
+        "Mărimea ecranului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Jocurile video au algoritmi?",
+      "options": [
+        "Da, mii de algoritmi",
+        "Nu, sunt doar imagini",
+        "Doar cele pe net",
+        "Doar cele pe tabletă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce formă are pasul de 'decizie' în schema logică?",
+      "options": [
+        "Romb",
+        "Cerc",
+        "Pătrat",
+        "Triunghi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'procesare'?",
+      "options": [
+        "Efectuarea calculelor sau acțiunilor",
+        "Așteptarea",
+        "Închiderea",
+        "Desenarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Algoritmii ne ajută să gândim?",
+      "options": [
+        "Logic și organizat",
+        "Haotic",
+        "Mai puțin",
+        "Deloc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pas",
+      "answer": "pas"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ordine",
+      "answer": "ordine"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: instrucțiune",
+      "answer": "instrucțiune"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: problemă",
+      "answer": "problemă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: soluție",
+      "answer": "soluție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: plan",
+      "answer": "plan"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: logică",
+      "answer": "logică"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ramificare",
+      "answer": "ramificare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: repetiție",
+      "answer": "repetiție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: proces",
+      "answer": "proces"
+    }
+  ]
+}

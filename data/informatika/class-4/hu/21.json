@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Digitalis munka",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a digitális munka?",
+        "options": [
+          "Számítógéppel végzett feladatok",
+          "Kerti munka",
+          "Főzés",
+          "Sportolás"
+        ],
+        "answer": "Számítógéppel végzett feladatok"
+      },
+      {
+        "question": "Melyik programmal írunk levelet vagy dolgozatot?",
+        "options": [
+          "Szövegszerkesztő (pl. Word)",
+          "Paint",
+          "Számológép",
+          "Médialejátszó"
+        ],
+        "answer": "Szövegszerkesztő (pl. Word)"
+      },
+      {
+        "question": "Melyik programmal készítünk táblázatot?",
+        "options": [
+          "Táblázatkezelő (pl. Excel)",
+          "Böngésző",
+          "Hangrögzítő",
+          "Vírusirtó"
+        ],
+        "answer": "Táblázatkezelő (pl. Excel)"
+      },
+      {
+        "question": "Mi az a 'fájl'?",
+        "options": [
+          "Adatok tárolási egysége a gépen",
+          "Egy papírlap",
+          "A monitor kerete",
+          "Egy gomb"
+        ],
+        "answer": "Adatok tárolási egysége a gépen"
+      },
+      {
+        "question": "Mi az a 'mappa'?",
+        "options": [
+          "Fájlok tárolására és rendszerezésére szolgál",
+          "Egy táska",
+          "A billentyűzet",
+          "Egy könyv"
+        ],
+        "answer": "Fájlok tárolására és rendszerezésére szolgál"
+      },
+      {
+        "question": "Hogyan nevezzük el helyesen a fájlokat?",
+        "options": [
+          "Röviden, utalva a tartalomra",
+          "Bármilyen hosszú lehet",
+          "Csak számokkal",
+          "Sehogy"
+        ],
+        "answer": "Röviden, utalva a tartalomra"
+      },
+      {
+        "question": "Miért fontos a mentés?",
+        "options": [
+          "Hogy ne vesszen el a munkánk",
+          "Hogy több helyet foglaljon",
+          "Mert kötelező",
+          "Hogy szebb legyen"
+        ],
+        "answer": "Hogy ne vesszen el a munkánk"
+      },
+      {
+        "question": "Mi az a 'felhő alapú' munka?",
+        "options": [
+          "Interneten keresztül bárhonnan elérhető fájlok",
+          "Az égen végzett munka",
+          "Vizes munka",
+          "Lassú munka"
+        ],
+        "answer": "Interneten keresztül bárhonnan elérhető fájlok"
+      },
+      {
+        "question": "Mi az a közös munka (collaboration)?",
+        "options": [
+          "Többen dolgoznak egyszerre ugyanazon a fájlon",
+          "Mindenki külön dolgozik",
+          "Veszekedés",
+          "Játék"
+        ],
+        "answer": "Többen dolgoznak egyszerre ugyanazon a fájlon"
+      },
+      {
+        "question": "Mi a billentyűparancs a másoláshoz?",
+        "options": [
+          "Ctrl + C",
+          "Ctrl + V",
+          "Ctrl + X",
+          "Ctrl + Z"
+        ],
+        "answer": "Ctrl + C"
+      },
+      {
+        "question": "Mi a billentyűparancs a beillesztéshez?",
+        "options": [
+          "Ctrl + V",
+          "Ctrl + C",
+          "Ctrl + S",
+          "Ctrl + P"
+        ],
+        "answer": "Ctrl + V"
+      },
+      {
+        "question": "Mi a billentyűparancs a kivágáshoz?",
+        "options": [
+          "Ctrl + X",
+          "Ctrl + C",
+          "Ctrl + V",
+          "Ctrl + Z"
+        ],
+        "answer": "Ctrl + X"
+      },
+      {
+        "question": "Mi a billentyűparancs a mentéshez?",
+        "options": [
+          "Ctrl + S",
+          "Ctrl + M",
+          "Ctrl + A",
+          "Ctrl + Q"
+        ],
+        "answer": "Ctrl + S"
+      },
+      {
+        "question": "Mi a kurzor?",
+        "options": [
+          "A képernyőn mozgó mutató",
+          "Egy gomb",
+          "A gép hangja",
+          "A monitor széle"
+        ],
+        "answer": "A képernyőn mozgó mutató"
+      },
+      {
+        "question": "Mit jelent az 'editálás'?",
+        "options": [
+          "Szerkesztés, módosítás",
+          "Törlés",
+          "Mentés",
+          "Nyomtatás"
+        ],
+        "answer": "Szerkesztés, módosítás"
+      },
+      {
+        "question": "Mi az a 'nyomtatási kép'?",
+        "options": [
+          "Megmutatja, hogyan fog kinézni papíron",
+          "Egy fénykép",
+          "A monitor",
+          "A billentyűzet"
+        ],
+        "answer": "Megmutatja, hogyan fog kinézni papíron"
+      },
+      {
+        "question": "Mi a PDF?",
+        "options": [
+          "Univerzális dokumentum formátum",
+          "Kép fájl",
+          "Zene fájl",
+          "Vírus"
+        ],
+        "answer": "Univerzális dokumentum formátum"
+      },
+      {
+        "question": "Mi a 'Desktop' (Asztal)?",
+        "options": [
+          "A gép kezdőképernyője",
+          "Egy asztal a szobában",
+          "A billentyűzet",
+          "Az egérpad"
+        ],
+        "answer": "A gép kezdőképernyője"
+      },
+      {
+        "question": "Mit csinál a 'Kuka'?",
+        "options": [
+          "Ide kerülnek a törölt fájlok ideiglenesen",
+          "Kiszemeteli a szobát",
+          "Megjavítja a fájlokat",
+          "Elrejti a fájlokat"
+        ],
+        "answer": "Ide kerülnek a törölt fájlok ideiglenesen"
+      },
+      {
+        "question": "Mi az az e-mail?",
+        "options": [
+          "Elektronikus levél",
+          "Papír levél",
+          "SMS",
+          "Hangüzenet"
+        ],
+        "answer": "Elektronikus levél"
+      },
+      {
+        "question": "Mit jelent a 'csatolmány'?",
+        "options": [
+          "Levélhez mellékelt fájl",
+          "A gép kábele",
+          "Egy matrica",
+          "A levél címe"
+        ],
+        "answer": "Levélhez mellékelt fájl"
+      },
+      {
+        "question": "Mi az a 'multitasking'?",
+        "options": [
+          "Több program egyidejű futtatása",
+          "Sok gép",
+          "Sok ember",
+          "Gyors gépelés"
+        ],
+        "answer": "Több program egyidejű futtatása"
+      },
+      {
+        "question": "Miért fontos a fájlok rendszerezése?",
+        "options": [
+          "Hogy gyorsan megtaláljuk, amit keresünk",
+          "Hogy szebb legyen a gép",
+          "Hogy ne unatkozzunk",
+          "Nem fontos"
+        ],
+        "answer": "Hogy gyorsan megtaláljuk, amit keresünk"
+      },
+      {
+        "question": "Mit jelent az 'importálás'?",
+        "options": [
+          "Külső fájl behozása a programba",
+          "Fájl küldése",
+          "Törlés",
+          "Mentés"
+        ],
+        "answer": "Külső fájl behozása a programba"
+      },
+      {
+        "question": "Mit jelent az 'exportálás'?",
+        "options": [
+          "Fájl mentése más formátumban",
+          "Fájl behozása",
+          "Másolás",
+          "Törlés"
+        ],
+        "answer": "Fájl mentése más formátumban"
+      }
+    ],
+    "typing": [
+      "munka",
+      "fájl",
+      "mappa",
+      "mentés",
+      "szerkesztés",
+      "másolás",
+      "beillesztés",
+      "szöveg",
+      "dokumentum",
+      "feladat"
+    ]
+  }
+}

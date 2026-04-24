@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Digitale Identität",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine digitale Identität?",
+      "options": [
+        "Spuren, die man im Internet hinterlässt",
+        "Ein echter Ausweis",
+        "Ein Foto",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was gehört zu deinen persönlichen Daten?",
+      "options": [
+        "Name, Adresse, Telefonnummer",
+        "Lieblingsfarbe",
+        "Hobby",
+        "Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man seine Adresse jedem im Internet sagen?",
+      "options": [
+        "Nein, das ist privat",
+        "Ja, klar",
+        "Nur wenn man gefragt wird",
+        "Nur auf Facebook"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Avatar?",
+      "options": [
+        "Eine künstliche Figur als Stellvertreter",
+        "Ein echter Mensch",
+        "Ein Tier",
+        "Ein Baum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Benutzername?",
+      "options": [
+        "Ein Name für ein Konto (oft ein Pseudonym)",
+        "Der echte Vorname",
+        "Die Hausnummer",
+        "Das Passwort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind starke Passwörter wichtig?",
+      "options": [
+        "Um das Konto vor Fremden zu schützen",
+        "Damit man sie vergisst",
+        "Weil sie schön aussehen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'digitaler Fußabdruck'?",
+      "options": [
+        "Alles, was man online macht und speichert",
+        "Ein echter Abdruck im Matsch",
+        "Ein Schuh",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fotos von anderen ungefragt posten?",
+      "options": [
+        "Nein, man braucht die Erlaubnis",
+        "Ja, immer",
+        "Nur wenn sie lustig sind",
+        "Nur bei Freunden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'privat' im Internet?",
+      "options": [
+        "Nur für ausgewählte Personen sichtbar",
+        "Für alle sichtbar",
+        "Gelöscht",
+        "Versteckt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'öffentlich'?",
+      "options": [
+        "Für jeden im Internet sichtbar",
+        "Nur für mich",
+        "Nur für Freunde",
+        "Sicher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dinge im Internet für immer löschen?",
+      "options": [
+        "Oft ist es schwierig, das Internet vergisst nie",
+        "Ja, ganz einfach",
+        "Nein, niemals",
+        "Nur mit Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Cybermobbing?",
+      "options": [
+        "Anderen online absichtlich wehtun oder beleidigen",
+        "Ein spiel",
+        "Ein Sport",
+        "Ein Chat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sollte man tun, wenn man online geärgert wird?",
+      "options": [
+        "Erwachsenen/Eltern erzählen",
+        "Zurückärgern",
+        "Nichts tun",
+        "PC wegwerfen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fremden im Chat Treffen versprechen?",
+      "options": [
+        "Nein, niemals alleine!",
+        "Ja, klar",
+        "Nur im Park",
+        "Nur am Tag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Profil?",
+      "options": [
+        "Eine Seite mit Infos über einen Nutzer",
+        "Ein Gesicht von der Seite",
+        "Ein Reifen",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist dein Passwort geheim?",
+      "options": [
+        "Ja, nur für mich (und evtl. Eltern)",
+        "Nein, jeder darf es wissen",
+        "Nur für Freunde",
+        "Nur für Lehrer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Pseudonym?",
+      "options": [
+        "Ein ausgedachter Name",
+        "Ein echter Name",
+        "Ein Nachname",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Webcams abdecken, wenn man sie nicht nutzt?",
+      "options": [
+        "Ja, zur Sicherheit",
+        "Nein, egal",
+        "Nur wenn sie bunt ist",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Netiquette?",
+      "options": [
+        "Höfliche Regeln für das Internet",
+        "Ein Netz",
+        "Ein spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man im Internet höflich sein?",
+      "options": [
+        "Weil am anderen Ende auch Menschen sitzen",
+        "Gar nicht nötig",
+        "Nur wenn man Lust hat",
+        "Nur zu Lehrern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Cookies (im Browser)?",
+      "options": [
+        "Kleine Dateien, die Infos speichern",
+        "Leckere Kekse",
+        "Große Programme",
+        "Viren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Internet lügen?",
+      "options": [
+        "Man sollte ehrlich und vorsichtig sein",
+        "Ja, immer",
+        "Nur beim Alter",
+        "Nur beim Namen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Shitstorm'?",
+      "options": [
+        "Viele negative Kommentare auf einmal",
+        "Ein Gewitter",
+        "Schlechtes Wetter",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann das Internet Auswirkungen auf das echte Leben haben?",
+      "options": [
+        "Ja, definitiv",
+        "Nein, gar nicht",
+        "Nur ein bisschen",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Selbstschutz im Internet?",
+      "options": [
+        "Vorsichtig mit Daten und Kontakten sein",
+        "Eine Rüstung",
+        "Ein Schild",
+        "Ein Helm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Identität",
+      "answer": "Identität"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Privat",
+      "answer": "Privat"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Daten",
+      "answer": "Daten"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Passwort",
+      "answer": "Passwort"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schutz",
+      "answer": "Schutz"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Avatar",
+      "answer": "Avatar"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Profil",
+      "answer": "Profil"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Sicherheit",
+      "answer": "Sicherheit"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Spuren",
+      "answer": "Spuren"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Online",
+      "answer": "Online"
+    }
+  ]
+}

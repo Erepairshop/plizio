@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Internetul",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este internetul?",
+      "options": [
+        "O rețea globală de calculatoare",
+        "Un tip de mâncare",
+        "O marcă de haine",
+        "Un ecran colorat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care dispozitiv ne conectează la internet?",
+      "options": [
+        "Routerul",
+        "Frigiderul",
+        "Canapeaua",
+        "Lampa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "La ce este util internetul?",
+      "options": [
+        "Pentru a găsi informații",
+        "Pentru a dormi mai bine",
+        "Pentru a spăla haine",
+        "Pentru a găti ciorbă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a naviga pe web?",
+      "options": [
+        "Un browser",
+        "O periuță de dinți",
+        "O minge",
+        "Un cuțit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă online?",
+      "options": [
+        "Conectat la internet",
+        "În afara casei",
+        "Pe acoperiș",
+        "Închis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vorbi cu persoane din altă țară prin internet?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă strigăm",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este Wi-Fi?",
+      "options": [
+        "O conexiune fără fir",
+        "Un tip de sandviș",
+        "O jucărie",
+        "Un animal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să fim politicoși pe internet?",
+      "options": [
+        "Da, mereu",
+        "Nu, nu contează",
+        "Doar cu profesorii",
+        "Doar de ziua noastră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o adresă web?",
+      "options": [
+        "Locul unde găsim un site",
+        "Adresa noastră de acasă",
+        "Numărul de telefon",
+        "Numele pisicii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește 'pânza de păianjen' mondială?",
+      "options": [
+        "World Wide Web",
+        "World Wide Ball",
+        "Internet Game",
+        "Super Network"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un modem?",
+      "options": [
+        "Transformă semnalul pentru internet",
+        "Face poze",
+        "Cântă muzică",
+        "Curăță camera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul are limite geografice?",
+      "options": [
+        "Nu, este global",
+        "Da, doar în orașul nostru",
+        "Da, doar în România",
+        "Da, doar în școli"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă a 'naviga' pe net?",
+      "options": [
+        "A vizita site-uri",
+        "A merge cu barca",
+        "A înota",
+        "A conduce o mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța lucruri noi pe internet?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar despre jocuri",
+        "Nu avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine a creat internetul?",
+      "options": [
+        "Oameni de știință",
+        "Un singur copil",
+        "Un robot",
+        "Natură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un link?",
+      "options": [
+        "O legătură către altă pagină",
+        "Un lanț de metal",
+        "O culoare",
+        "Un fruct"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un furnizor de internet (ISP)?",
+      "options": [
+        "O firmă care ne dă acces la net",
+        "Un magazin de calculatoare",
+        "Un reparator de televizoare",
+        "O bibliotecă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul funcționează fără curent?",
+      "options": [
+        "Nu",
+        "Da",
+        "Doar dacă e soare",
+        "Uneori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'bandă largă' (broadband)?",
+      "options": [
+        "Internet de mare viteză",
+        "O curea lată",
+        "Un drum mare",
+        "Un ecran uriaș"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un browser popular?",
+      "options": [
+        "Google Chrome",
+        "Paint",
+        "Calculator",
+        "Notepad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un motor de căutare?",
+      "options": [
+        "Un site care găsește informații",
+        "Motorul unei mașini",
+        "O piesă de robot",
+        "O rachetă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă să fii în siguranță pe net?",
+      "options": [
+        "Să nu dai date personale",
+        "Să porți cască",
+        "Să închizi ochii",
+        "Să nu atingi mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'hiperlink'?",
+      "options": [
+        "Un alt nume pentru link",
+        "O mâncare rapidă",
+        "Un zbor în spațiu",
+        "Un super erou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Internetul este același lucru cu Web-ul?",
+      "options": [
+        "Nu, web-ul e o parte din internet",
+        "Da, sunt identice",
+        "Nu au nicio legătură",
+        "Sunt două jocuri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare are de obicei un link nevizitat?",
+      "options": [
+        "Albastru",
+        "Roșu",
+        "Negru",
+        "Verde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rețea",
+      "answer": "rețea"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: site",
+      "answer": "site"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: router",
+      "answer": "router"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cablu",
+      "answer": "cablu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: conexiune",
+      "answer": "conexiune"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: web",
+      "answer": "web"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: wifi",
+      "answer": "wifi"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: navigare",
+      "answer": "navigare"
+    }
+  ]
+}

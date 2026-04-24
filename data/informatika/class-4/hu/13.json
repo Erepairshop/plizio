@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Hang és zene programban",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Hogyan játszhatunk le hangot Scratch-ben?",
+        "options": [
+          "Hang blokkokkal",
+          "Mozgás blokkokkal",
+          "Rajzolással",
+          "Gépeléssel"
+        ],
+        "answer": "Hang blokkokkal"
+      },
+      {
+        "question": "Mi a különbség a 'játszd le ... hangot' és 'játszd le ... hangot végig' között?",
+        "options": [
+          "A második megvárja a hang végét",
+          "Nincs különbség",
+          "Az első hangosabb",
+          "A második lassabb"
+        ],
+        "answer": "A második megvárja a hang végét"
+      },
+      {
+        "question": "Melyik fülön lehet hangokat szerkeszteni?",
+        "options": [
+          "Hangok fül",
+          "Kód fül",
+          "Jelmezek fül",
+          "Beállítások"
+        ],
+        "answer": "Hangok fül"
+      },
+      {
+        "question": "Lehet-e saját hangot felvenni?",
+        "options": [
+          "Igen, mikrofonnal",
+          "Nem, tilos",
+          "Csak ha énekelünk",
+          "Csak angolul"
+        ],
+        "answer": "Igen, mikrofonnal"
+      },
+      {
+        "question": "Melyik blokk állítja meg az összes hangot?",
+        "options": [
+          "Összes hang leállítása",
+          "Csend legyen!",
+          "Stop",
+          "Kikapcsolás"
+        ],
+        "answer": "Összes hang leállítása"
+      },
+      {
+        "question": "Hogyan változtathatjuk a hangerőt?",
+        "options": [
+          "Hangerő változzon ...-el",
+          "Szín változzon",
+          "Gépeléssel",
+          "Nem lehet"
+        ],
+        "answer": "Hangerő változzon ...-el"
+      },
+      {
+        "question": "Mekkora a maximális hangerő?",
+        "options": [
+          "100%",
+          "200%",
+          "Végtelen",
+          "50%"
+        ],
+        "answer": "100%"
+      },
+      {
+        "question": "Hogyan lehet a hangmagasságot változtatni?",
+        "options": [
+          "Hangmagasság hatás változzon",
+          "Hangerő változzon",
+          "Gyorsabban kell lejátszani",
+          "Nem lehet"
+        ],
+        "answer": "Hangmagasság hatás változzon"
+      },
+      {
+        "question": "Milyen kiterjesztést használ az 'Eszközök' között a Zene?",
+        "options": [
+          "Zene bővítmény",
+          "Rajz bővítmény",
+          "Videó bővítmény",
+          "Lego bővítmény"
+        ],
+        "answer": "Zene bővítmény"
+      },
+      {
+        "question": "Milyen hangszereken játszhatunk a Zene bővítménnyel?",
+        "options": [
+          "Zongora, dob, gitár stb.",
+          "Csak sípon",
+          "Csak dobon",
+          "Semmin"
+        ],
+        "answer": "Zongora, dob, gitár stb."
+      },
+      {
+        "question": "Mit jelent a 'ritmus' a zene blokkoknál?",
+        "options": [
+          "A hang hossza (ütés)",
+          "A hang színe",
+          "A hang neve",
+          "A hang helye"
+        ],
+        "answer": "A hang hossza (ütés)"
+      },
+      {
+        "question": "Hogyan tudunk dobolni a Scratch-ben?",
+        "options": [
+          "Dobolj ... hangszeren blokkal",
+          "Verjük a monitort",
+          "Kiabálunk",
+          "Nem lehet"
+        ],
+        "answer": "Dobolj ... hangszeren blokkal"
+      },
+      {
+        "question": "Lehet-e hangot importálni a számítógépről?",
+        "options": [
+          "Igen (pl. mp3, wav)",
+          "Nem",
+          "Csak ha kicsi",
+          "Csak ha magyar"
+        ],
+        "answer": "Igen (pl. mp3, wav)"
+      },
+      {
+        "question": "Mit csinál a 'visszhang' effektus a hangszerkesztőben?",
+        "options": [
+          "Megismétli a hangot halkulva",
+          "Eltünteti a hangot",
+          "Kifordítja",
+          "Gyorsítja"
+        ],
+        "answer": "Megismétli a hangot halkulva"
+      },
+      {
+        "question": "Mit csinál a 'robot' effektus a hangszerkesztőben?",
+        "options": [
+          "Fémes hangúvá teszi",
+          "Törli a hangot",
+          "Lassítja",
+          "Színezi"
+        ],
+        "answer": "Fémes hangúvá teszi"
+      },
+      {
+        "question": "Hogyan lehet a hangot megfordítani?",
+        "options": [
+          "A 'Visszafelé' gombbal",
+          "Megfordítjuk a hangszórót",
+          "Nem lehet",
+          "Újra felvesszük"
+        ],
+        "answer": "A 'Visszafelé' gombbal"
+      },
+      {
+        "question": "Mi az a 'tempó'?",
+        "options": [
+          "A zene sebessége",
+          "A zene hossza",
+          "A zene neve",
+          "A zene színe"
+        ],
+        "answer": "A zene sebessége"
+      },
+      {
+        "question": "Mivel mérjük a tempót?",
+        "options": [
+          "BPM (ütés per perc)",
+          "Km/h",
+          "Kg",
+          "Liter"
+        ],
+        "answer": "BPM (ütés per perc)"
+      },
+      {
+        "question": "Milyen színűek a hang blokkok?",
+        "options": [
+          "Lila/Rózsaszín",
+          "Kék",
+          "Zöld",
+          "Sárga"
+        ],
+        "answer": "Lila/Rózsaszín"
+      },
+      {
+        "question": "Lehet-e hangot elhalványítani (fade out)?",
+        "options": [
+          "Igen, a hangszerkesztőben",
+          "Nem",
+          "Csak ha lekapcsoljuk a gépet",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, a hangot elhalványítani (fade out)"
+      },
+      {
+        "question": "Mire jó a hang egy játékban?",
+        "options": [
+          "Visszajelzésre és hangulatteremtésre",
+          "Zavarásra",
+          "Lassításra",
+          "Törlésre"
+        ],
+        "answer": "Visszajelzésre és hangulatteremtésre"
+      },
+      {
+        "question": "Mit csinál a 'lágyabb' gomb a hangszerkesztőben?",
+        "options": [
+          "Halkítja a hangot",
+          "Hangosítja",
+          "Lassítja",
+          "Gyorsítja"
+        ],
+        "answer": "Halkítja a hangot"
+      },
+      {
+        "question": "Hány hangja lehet egy Sprite-nak?",
+        "options": [
+          "Bármennyi",
+          "Csak egy",
+          "Max tíz",
+          "Semennyi"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Mi történik, ha egy hangot ciklusba teszünk?",
+        "options": [
+          "Folyamatosan ismétlődik",
+          "Egyszer szól és megáll",
+          "Eltűnik",
+          "Lefagy a gép"
+        ],
+        "answer": "Folyamatosan ismétlődik"
+      },
+      {
+        "question": "Mit jelent az 'effektus' a hangoknál?",
+        "options": [
+          "Különleges módosítás a hangon",
+          "A hang neve",
+          "A hang hossza",
+          "A hang ereje"
+        ],
+        "answer": "Különleges módosítás a hangon"
+      }
+    ],
+    "typing": [
+      "hang",
+      "zene",
+      "ritmus",
+      "hangerő",
+      "szerkesztés",
+      "felvétel",
+      "hangszer",
+      "tempó",
+      "hatás",
+      "lejátszás"
+    ]
+  }
+}

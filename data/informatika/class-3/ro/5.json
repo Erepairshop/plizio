@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Învățarea Online",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă învățare online?",
+      "options": [
+        "Să înveți folosind calculatorul și internetul",
+        "Să înveți doar din cărți de hârtie",
+        "Să dormi cu ochii deschiși",
+        "Să mergi pe jos la școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o platformă educațională?",
+      "options": [
+        "Un site unde găsim lecții și teme",
+        "O bancă în parc",
+        "O scenă de teatru",
+        "Un joc de noroc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un exemplu de platformă de învățare?",
+      "options": [
+        "Google Classroom",
+        "Netflix",
+        "Roblox",
+        "Spotify"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim tema dată de profesor?",
+      "options": [
+        "Pe platforma online",
+        "Sub pat",
+        "In frigider",
+        "La televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum trimitem tema rezolvată?",
+      "options": [
+        "O încărcăm pe platformă",
+        "O aruncăm pe geam",
+        "O lăsăm în ghiozdan",
+        "O citim la telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea clipuri video educative?",
+      "options": [
+        "Da",
+        "Nu, e interzis",
+        "Doar dacă avem televizor",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'quiz' online?",
+      "options": [
+        "Un test scurt cu întrebări",
+        "O prăjitură",
+        "Un desen animat",
+        "Un suc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă nu înțelegem o lecție online?",
+      "options": [
+        "Întrebăm profesorul pe chat sau e-mail",
+        "Închidem calculatorul și plângem",
+        "Ignorăm problema",
+        "Dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este important să avem un program de învățare?",
+      "options": [
+        "Da, ca să fim organizați",
+        "Nu, facem când vrem noi",
+        "Doar dacă ne spune mama",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem colabora cu colegii online?",
+      "options": [
+        "Da, pe documente comune",
+        "Nu, e trișat",
+        "Doar dacă ne vedem în parc",
+        "Doar prin telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'tutorial'?",
+      "options": [
+        "Un clip video care ne învață cum să facem ceva",
+        "Un animal mic",
+        "O jucărie",
+        "Un profesor de sport"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'logare' pe platformă?",
+      "options": [
+        "Intrarea cu nume de utilizator și parolă",
+        "Ieșirea din casă",
+        "Cumpărarea unui laptop",
+        "Tăierea unui copac"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne comportăm la o oră online?",
+      "options": [
+        "Respectăm colegii și profesorul",
+        "Scremem și facem gălăgie",
+        "Mâncăm în fața camerei",
+        "Dormim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem găsi cărți pe internet?",
+      "options": [
+        "Da, biblioteci digitale",
+        "Nu, cărțile sunt doar pe hârtie",
+        "Doar dicționare",
+        "Doar benzi desenate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă feedback de la profesor?",
+      "options": [
+        "Părerea lui despre munca noastră",
+        "Mâncarea lui preferată",
+        "Un sunet ciudat",
+        "Spatele calculatorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem când avem o problemă tehnică?",
+      "options": [
+        "Cerem ajutorul unui adult",
+        "Lovit monitorul",
+        "Plângem",
+        "Închidem totul și plecăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este bine să stăm prea mult la calculator?",
+      "options": [
+        "Nu, trebuie să facem pauze",
+        "Da, e foarte bine",
+        "Nu contează cât stăm",
+        "Doar dacă ne jucăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'webinar'?",
+      "options": [
+        "O lecție sau prezentare online",
+        "Un păianjen pe net",
+        "O barcă rapidă",
+        "Un program de gătit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se salvează notele noastre online?",
+      "options": [
+        "În catalogul electronic",
+        "Pe o foaie de hârtie",
+        "În mouse",
+        "Nicăieri"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța limbi străine online?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar engleză",
+        "Doar dacă mergem în altă țară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'învățare interactivă'?",
+      "options": [
+        "Participăm activ la lecție",
+        "Doar privim un ecran negru",
+        "Dormim în timpul orei",
+        "Nu facem nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este internetul o sursă de cunoaștere?",
+      "options": [
+        "Da, una uriașă",
+        "Nu, e doar pentru jocuri",
+        "E doar pentru filme",
+        "E plictisitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem învăța să cântăm la un instrument online?",
+      "options": [
+        "Da",
+        "Nu, e imposibil",
+        "Doar la tobă",
+        "Doar dacă avem talent"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'curs' online?",
+      "options": [
+        "O serie de lecții despre un subiect",
+        "O alergare rapidă",
+        "O mașină de curse",
+        "Un tip de nor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Învățarea online ne ajută să fim independenți?",
+      "options": [
+        "Da",
+        "Nu, ne încurcă",
+        "Doar pe adulți",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: curs",
+      "answer": "curs"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: profesor",
+      "answer": "profesor"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: lecție",
+      "answer": "lecție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: încărcare",
+      "answer": "încărcare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: test",
+      "answer": "test"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: temă",
+      "answer": "temă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cunoștințe",
+      "answer": "cunoștințe"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: școală",
+      "answer": "școală"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: platformă",
+      "answer": "platformă"
+    }
+  ]
+}

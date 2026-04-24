@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Sprite-ok",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a Sprite?",
+        "options": [
+          "Egy szereplő",
+          "Egy ital",
+          "A háttér",
+          "A kurzor"
+        ],
+        "answer": "Egy szereplő"
+      },
+      {
+        "question": "Hogyan nevezzük el a Sprite-ot?",
+        "options": [
+          "A név mezőbe írva",
+          "Sehogy",
+          "Kiabálunk neki",
+          "Rárajzoljuk"
+        ],
+        "answer": "A név mezőbe írva"
+      },
+      {
+        "question": "Hol láthatjuk az összes Sprite-ot?",
+        "options": [
+          "A Sprite listában",
+          "A menüben",
+          "A kukában",
+          "A felhőben"
+        ],
+        "answer": "A Sprite listában"
+      },
+      {
+        "question": "Hogyan adhatunk hozzá új Sprite-ot?",
+        "options": [
+          "A macska ikonra kattintva",
+          "A fájl mentéssel",
+          "Kikapcsolással",
+          "Várni kell"
+        ],
+        "answer": "A macska ikonra kattintva"
+      },
+      {
+        "question": "Mit jelent a Sprite iránya?",
+        "options": [
+          "Merre néz a képernyőn",
+          "Milyen gyors",
+          "Milyen színes",
+          "Hogy hívják"
+        ],
+        "answer": "Merre néz a képernyőn"
+      },
+      {
+        "question": "Mit jelent a Sprite mérete?",
+        "options": [
+          "Mekkora a képernyőn",
+          "Hány bájt",
+          "Milyen hangos",
+          "Hány éves"
+        ],
+        "answer": "Mekkora a képernyőn"
+      },
+      {
+        "question": "Mit csinál a Sprite központja?",
+        "options": [
+          "A forgatás és elhelyezés középpontja",
+          "Ott lakik a Sprite",
+          "Semmit",
+          "Ott van a szeme"
+        ],
+        "answer": "A forgatás és elhelyezés középpontja"
+      },
+      {
+        "question": "Hogyan rejthetünk el egy Sprite-ot?",
+        "options": [
+          "Az áthúzott szem ikonnal",
+          "Letakarjuk a monitort",
+          "Töröljük",
+          "Kikapcsoljuk"
+        ],
+        "answer": "Az áthúzott szem ikonnal"
+      },
+      {
+        "question": "Lehet-e több jelmeze egy Sprite-nak?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak kettő",
+          "Csak ha nagy"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi a vektoros rajzolás?",
+        "options": [
+          "Vonalakkal és formákkal történő rajzolás",
+          "Pontokkal rajzolás",
+          "Fényképezés",
+          "Színezés"
+        ],
+        "answer": "Vonalakkal és formákkal történő rajzolás"
+      },
+      {
+        "question": "Mi a pixeles (bitmap) rajzolás?",
+        "options": [
+          "Pontokból álló kép",
+          "Vonalakból álló kép",
+          "Zene",
+          "Szöveg"
+        ],
+        "answer": "Pontokból álló kép"
+      },
+      {
+        "question": "Hogyan lehet törölni egy Sprite-ot?",
+        "options": [
+          "A rajta lévő kuka ikonnal",
+          "Megütjük",
+          "Ráfújunk",
+          "Elrejtjük"
+        ],
+        "answer": "A rajta lévő kuka ikonnal"
+      },
+      {
+        "question": "Mit csinál a 'Bélyegző' eszköz?",
+        "options": [
+          "Másolatot készít a Sprite-ról a háttérre",
+          "Lepecsételi a monitort",
+          "Törli a Sprite-ot",
+          "Színezi"
+        ],
+        "answer": "Másolatot készít a Sprite-ról a háttérre"
+      },
+      {
+        "question": "Lehet-e a Sprite-nak saját hangja?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha beszél",
+          "Csak zenével"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mit jelent a Sprite koordinátája?",
+        "options": [
+          "A pontos helye (X, Y)",
+          "A neve",
+          "A színe",
+          "A súlya"
+        ],
+        "answer": "A pontos helye (X, Y)"
+      },
+      {
+        "question": "Melyik irány a 90 fok?",
+        "options": [
+          "Jobbra",
+          "Balra",
+          "Fel",
+          "Le"
+        ],
+        "answer": "Jobbra"
+      },
+      {
+        "question": "Melyik irány a 0 fok?",
+        "options": [
+          "Fel",
+          "Le",
+          "Jobbra",
+          "Balra"
+        ],
+        "answer": "Fel"
+      },
+      {
+        "question": "Hogyan forgathatunk meg egy Sprite-ot?",
+        "options": [
+          "Az irány beállításával",
+          "Megforgatjuk a monitort",
+          "Nem lehet",
+          "Kiabálással"
+        ],
+        "answer": "Az irány beállításával"
+      },
+      {
+        "question": "Mi az a forgatási stílus?",
+        "options": [
+          "Meghatározza, hogyan forduljon a Sprite",
+          "Egy táncstílus",
+          "A kód színe",
+          "A hang ereje"
+        ],
+        "answer": "Meghatározza, hogyan forduljon a Sprite"
+      },
+      {
+        "question": "Mit jelent a 'balra-jobbra' forgatási stílus?",
+        "options": [
+          "Csak tükröződik balra vagy jobbra",
+          "Mindenfelé forog",
+          "Nem mozog",
+          "Fejre áll"
+        ],
+        "answer": "Csak tükröződik balra vagy jobbra"
+      },
+      {
+        "question": "Mit jelent a 'ne forogjon' stílus?",
+        "options": [
+          "Mindig ugyanarra néz",
+          "Megáll a mozgás",
+          "Láthatatlan lesz",
+          "Törlődik"
+        ],
+        "answer": "Mindig ugyanarra néz"
+      },
+      {
+        "question": "Lehet-e a Sprite-ot egérrel mozgatni a szerkesztőben?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha engedjük",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi történik, ha a méret 200%?",
+        "options": [
+          "Kétszer akkora lesz",
+          "Fele akkora lesz",
+          "Ugyanakkora marad",
+          "Eltűnik"
+        ],
+        "answer": "Kétszer akkora lesz"
+      },
+      {
+        "question": "Mi történik, ha a méret 50%?",
+        "options": [
+          "Fele akkora lesz",
+          "Kétszer akkora lesz",
+          "Ugyanakkora marad",
+          "Piros lesz"
+        ],
+        "answer": "Fele akkora lesz"
+      },
+      {
+        "question": "Hogyan lehet egy Sprite-ot átnevezni?",
+        "options": [
+          "A Sprite tulajdonságainál a név mezőben",
+          "A kód területen",
+          "A fájl menüben",
+          "Az egérrel kattintva a fejére"
+        ],
+        "answer": "A Sprite tulajdonságainál a név mezőben"
+      }
+    ],
+    "typing": [
+      "szereplő",
+      "jelmez",
+      "rajzolás",
+      "másolás",
+      "törlés",
+      "méret",
+      "irány",
+      "központ",
+      "lista",
+      "név"
+    ]
+  }
+}

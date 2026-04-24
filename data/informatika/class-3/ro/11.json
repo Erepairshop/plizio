@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Stocarea în Cloud",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este stocarea în cloud?",
+      "options": [
+        "Păstrarea fișierelor pe internet, nu doar în calculator",
+        "Păstrarea fișierelor pe nori reali",
+        "Aruncarea fișierelor",
+        "O metodă de a ploua"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un exemplu de serviciu cloud?",
+      "options": [
+        "Google Drive",
+        "Paint",
+        "Mina de creion",
+        "Un dulap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce avantaj are cloud-ul?",
+      "options": [
+        "Putem accesa fișierele de pe orice dispozitiv",
+        "Face calculatorul să zboare",
+        "E bun doar când e soare",
+        "E o culoare frumoasă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cloud-ul are nevoie de internet?",
+      "options": [
+        "Da, mereu pentru a salva/vedea",
+        "Nu, funcționează cu aer",
+        "Doar dacă e vânt",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem partaja (share) un fișier din cloud?",
+      "options": [
+        "Da, trimitem un link colegilor",
+        "Nu, e doar pentru noi",
+        "Doar prin poștă",
+        "Doar dacă batem din palme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'upload' (încărcare) în cloud?",
+      "options": [
+        "Trimiterea fișierului din calculator pe net",
+        "Descărcarea de pe net",
+        "Ștergerea de pe net",
+        "Oprirea netului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune poze în cloud?",
+      "options": [
+        "Da",
+        "Nu, doar texte",
+        "Doar dacă sunt mici",
+        "Doar alb-negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cloud-ul ne ajută dacă se strică laptopul?",
+      "options": [
+        "Da, fișierele rămân salvate pe net",
+        "Nu, se strică și ele",
+        "Doar dacă avem noroc",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Spațiul în cloud este infinit?",
+      "options": [
+        "Nu, de obicei există o limită",
+        "Da, putem pune tot ce vrem",
+        "Depinde de vreme",
+        "Nu există spațiu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea o parolă pentru contul de cloud?",
+      "options": [
+        "Da, e obligatoriu pentru siguranță",
+        "Nu, e la liber",
+        "Doar dacă ne roagă mama",
+        "Doar dacă avem mulți prieteni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'sincronizare'?",
+      "options": [
+        "Actualizarea automată a fișierelor pe toate dispozitivele",
+        "Un dans în grup",
+        "Un zgomot de ceas",
+        "O eroare de timp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem lucra mai mulți copii pe același fișier în cloud?",
+      "options": [
+        "Da, în același timp",
+        "Nu, pe rând",
+        "Doar dacă suntem în aceeași cameră",
+        "Nu e permis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află fizic fișierele din cloud?",
+      "options": [
+        "Pe servere uriașe în centre de date",
+        "În cer",
+        "În mouse",
+        "În tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un alt serviciu de cloud?",
+      "options": [
+        "OneDrive sau Dropbox",
+        "Minecraft",
+        "Netflix",
+        "YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cloud-ul este sigur?",
+      "options": [
+        "Da, dacă avem o parolă puternică",
+        "Nu, deloc",
+        "E periculos",
+        "E plictisitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un fișier din cloud?",
+      "options": [
+        "Da",
+        "Nu, rămâne acolo pe veci",
+        "Doar dacă ne roagă cineva",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă cu fișierele șterse din cloud?",
+      "options": [
+        "Merg într-un coș de gunoi (Trash) digital",
+        "Dispar instantaneu",
+        "Se mută pe alt calculator",
+        "Se transformă în poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem vedea pozele din cloud pe televizor?",
+      "options": [
+        "Da, dacă e un televizor inteligent (Smart)",
+        "Nu, niciodată",
+        "Doar dacă avem cablu gros",
+        "Doar dacă e noapte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este cloud-ul util pentru școală?",
+      "options": [
+        "Da, pentru teme și proiecte în grup",
+        "Nu, e doar pentru joacă",
+        "E prea greu",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'offline access'?",
+      "options": [
+        "Putem vedea fișierele chiar dacă nu avem net acum",
+        "Nu putem vedea nimic",
+        "Închidem calculatorul",
+        "Mergem afară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune muzică în cloud?",
+      "options": [
+        "Da",
+        "Nu, doar imagini",
+        "Doar dacă e rock",
+        "Doar dacă cântăm noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'storage'?",
+      "options": [
+        "Stocare sau depozitare",
+        "O mașină",
+        "O casă",
+        "Un magazin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește folderul principal în Google Drive?",
+      "options": [
+        "My Drive (Unitatea mea)",
+        "My PC",
+        "My Games",
+        "My Home"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem recupera un fișier șters din greșeală?",
+      "options": [
+        "Da, din coșul de gunoi al cloud-ului",
+        "Nu, e pierdut",
+        "Doar dacă plângem",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cloud-ul costă bani?",
+      "options": [
+        "Există variante gratuite și variante cu plată",
+        "Este gratis pe veci pentru toți",
+        "Costă 1000 de euro pe zi",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cloud",
+      "answer": "cloud"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: stocare",
+      "answer": "stocare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: drive",
+      "answer": "drive"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: partajare",
+      "answer": "partajare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvare",
+      "answer": "salvare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: distanță",
+      "answer": "distanță"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: date",
+      "answer": "date"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fișier",
+      "answer": "fișier"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sincronizare",
+      "answer": "sincronizare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: capacitate",
+      "answer": "capacitate"
+    }
+  ]
+}

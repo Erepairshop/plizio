@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Szkriptek és blokkok",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a szkript?",
+        "options": [
+          "Blokkok egymáshoz kapcsolt sorozata",
+          "Egy darab kép",
+          "Egy hangfájl",
+          "A monitor neve"
+        ],
+        "answer": "Blokkok egymáshoz kapcsolt sorozata"
+      },
+      {
+        "question": "Milyen alakúak a kezdő blokkok?",
+        "options": [
+          "Kerek tetejűek",
+          "Szögletesek",
+          "Háromszög alakúak",
+          "Csillag alakúak"
+        ],
+        "answer": "Kerek tetejűek"
+      },
+      {
+        "question": "Hogyan kapcsolódnak a blokkok?",
+        "options": [
+          "Mint a LEGO kockák",
+          "Ragasztóval",
+          "Mágnessel",
+          "Nem kapcsolódnak"
+        ],
+        "answer": "Mint a LEGO kockák"
+      },
+      {
+        "question": "Hová húzzuk a blokkokat a programozáshoz?",
+        "options": [
+          "A kód területre",
+          "A kuka mellé",
+          "A képernyő szélére",
+          "A szomszéd gépre"
+        ],
+        "answer": "A kód területre"
+      },
+      {
+        "question": "Mit jelent, ha egy blokk sárga?",
+        "options": [
+          "Esemény típusú",
+          "Mozgás típusú",
+          "Hang típusú",
+          "Rossz blokk"
+        ],
+        "answer": "Esemény típusú"
+      },
+      {
+        "question": "Mit jelent, ha egy blokk kék?",
+        "options": [
+          "Mozgás típusú",
+          "Kinézet típusú",
+          "Vezérlés",
+          "Érzékelés"
+        ],
+        "answer": "Mozgás típusú"
+      },
+      {
+        "question": "Mi történik, ha kettéválasztunk egy szkriptet?",
+        "options": [
+          "Az alsó rész különválik",
+          "Eltűnik a kód",
+          "Kikapcsol a gép",
+          "Megváltozik a szín"
+        ],
+        "answer": "Az alsó rész különválik"
+      },
+      {
+        "question": "Hány szkriptje lehet egy szereplőnek?",
+        "options": [
+          "Bármennyi",
+          "Csak egy",
+          "Pontosan kettő",
+          "Egy sem"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Mire való a 'Megjegyzés' a kód mellett?",
+        "options": [
+          "Magyarázatot fűzhetünk hozzá",
+          "Rajzolhatunk rá",
+          "Elrejti a kódot",
+          "Törli a blokkot"
+        ],
+        "answer": "Magyarázatot fűzhetünk hozzá"
+      },
+      {
+        "question": "Mit csinál a 'Tisztítás' funkció a kód területen?",
+        "options": [
+          "Rendezi a blokkokat",
+          "Letörli a monitort",
+          "Törli az összes kódot",
+          "Kikapcsolja a hangot"
+        ],
+        "answer": "Rendezi a blokkokat"
+      },
+      {
+        "question": "Mi az a 'kalap' blokk?",
+        "options": [
+          "A szkript elején álló indító blokk",
+          "Egy ruhadarab",
+          "Egy kör alakú blokk",
+          "Egy változó"
+        ],
+        "answer": "A szkript elején álló indító blokk"
+      },
+      {
+        "question": "Hogyan másolhatunk le egy szkriptet?",
+        "options": [
+          "Jobb gomb -> Másolat készítése",
+          "Újra kell építeni",
+          "Fényképezéssel",
+          "Kiabálással"
+        ],
+        "answer": "Jobb gomb -> Másolat készítése"
+      },
+      {
+        "question": "Milyen blokk végzi a számolást?",
+        "options": [
+          "Műveletek",
+          "Kinézet",
+          "Hang",
+          "Események"
+        ],
+        "answer": "Műveletek"
+      },
+      {
+        "question": "Mit csinál a 'várj 1 másodpercet' blokk?",
+        "options": [
+          "Szünetet tart a futásban",
+          "Felgyorsítja a gépet",
+          "Megállítja örökre",
+          "Bezárja az ablakot"
+        ],
+        "answer": "Szünetet tart a futásban"
+      },
+      {
+        "question": "Milyen színű a 'Vezérlés' kategória?",
+        "options": [
+          "Narancssárga",
+          "Kék",
+          "Lila",
+          "Piros"
+        ],
+        "answer": "Narancssárga"
+      },
+      {
+        "question": "Mi az a 'C-blokk'?",
+        "options": [
+          "Olyan blokk, amibe más blokkokat tehetünk",
+          "Egy kör alakú blokk",
+          "A kék blokk neve",
+          "A végén álló blokk"
+        ],
+        "answer": "Olyan blokk, amibe más blokkokat tehetünk"
+      },
+      {
+        "question": "Hány bemenete lehet egy blokknak?",
+        "options": [
+          "Egy vagy több",
+          "Semennyi",
+          "Pontosan száz",
+          "Csak tíz"
+        ],
+        "answer": "Egy vagy több"
+      },
+      {
+        "question": "Mit jelent a fehér kör a blokkban?",
+        "options": [
+          "Értéket írhatunk bele",
+          "Ott kell rákattintani",
+          "Lyukas a blokk",
+          "Ott romlott el"
+        ],
+        "answer": "Értéket írhatunk bele"
+      },
+      {
+        "question": "Lehet-e saját blokkot készíteni?",
+        "options": [
+          "Igen, a Saját blokkok menüben",
+          "Nem, tilos",
+          "Csak ha engedik",
+          "Csak angolul"
+        ],
+        "answer": "Igen, a Saját blokkok menüben"
+      },
+      {
+        "question": "Mikor fut le egy szkript?",
+        "options": [
+          "Amikor az indító esemény bekövetkezik",
+          "Bármikor magától",
+          "Csak éjszaka",
+          "Amikor bekapcsoljuk a lámpát"
+        ],
+        "answer": "Amikor az indító esemény bekövetkezik"
+      },
+      {
+        "question": "Mi az a 'Boolean' blokk alakja?",
+        "options": [
+          "Hatszögletű",
+          "Kerek",
+          "Négyzet",
+          "Nincs alakja"
+        ],
+        "answer": "Hatszögletű"
+      },
+      {
+        "question": "Mit ad vissza egy Boolean blokk?",
+        "options": [
+          "Igaz vagy Hamis értéket",
+          "Egy számot",
+          "Egy nevet",
+          "Egy képet"
+        ],
+        "answer": "Igaz vagy Hamis értéket"
+      },
+      {
+        "question": "Hol látható a szkript hatása?",
+        "options": [
+          "A Színpadon",
+          "A billentyűzeten",
+          "A falon",
+          "A nyomtatón"
+        ],
+        "answer": "A Színpadon"
+      },
+      {
+        "question": "Milyen színű az 'Érzékelés' kategória?",
+        "options": [
+          "Világoskék",
+          "Sötétkék",
+          "Zöld",
+          "Barna"
+        ],
+        "answer": "Világoskék"
+      },
+      {
+        "question": "Mi történik, ha egy blokkot a kuka ikonra húzunk?",
+        "options": [
+          "Törlődik",
+          "Megduplázódik",
+          "Megváltozik a színe",
+          "Hangot ad ki"
+        ],
+        "answer": "Törlődik"
+      }
+    ],
+    "typing": [
+      "szkript",
+      "parancs",
+      "építés",
+      "kapcsolat",
+      "vezérlés",
+      "művelet",
+      "érzékelés",
+      "esemény",
+      "beállítás",
+      "sorrend"
+    ]
+  }
+}

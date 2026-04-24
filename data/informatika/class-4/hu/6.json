@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Események",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi az esemény a Scratch-ben?",
+        "options": [
+          "Valami, ami elindít egy szkriptet",
+          "Egy ünnepség",
+          "Egy hibaüzenet",
+          "A háttér neve"
+        ],
+        "answer": "Valami, ami elindít egy szkriptet"
+      },
+      {
+        "question": "Melyik a leggyakoribb indító esemény?",
+        "options": [
+          "Amikor a zöld zászlóra kattintunk",
+          "Amikor kikapcsoljuk a gépet",
+          "Amikor esik az eső",
+          "Amikor gépelünk"
+        ],
+        "answer": "Amikor a zöld zászlóra kattintunk"
+      },
+      {
+        "question": "Melyik blokk indul el egy billentyű lenyomásakor?",
+        "options": [
+          "Amikor a ... billentyűt lenyomjuk",
+          "Amikor a macska szól",
+          "Amikor rákattintunk",
+          "Mindig"
+        ],
+        "answer": "Amikor a ... billentyűt lenyomjuk"
+      },
+      {
+        "question": "Melyik blokk indul el, ha a Sprite-ra kattintunk?",
+        "options": [
+          "Amikor a szereplőre kattintunk",
+          "Amikor az egér mozog",
+          "Amikor a zászló zöld",
+          "Sosem"
+        ],
+        "answer": "Amikor a szereplőre kattintunk"
+      },
+      {
+        "question": "Mit jelent az 'üzenet küldése'?",
+        "options": [
+          "Egy jelzés küldése más szereplőknek",
+          "E-mail írása",
+          "SMS küldése",
+          "Kiabálás"
+        ],
+        "answer": "Egy jelzés küldése más szereplőknek"
+      },
+      {
+        "question": "Melyik blokk várja az üzenetet?",
+        "options": [
+          "Amikor az ... üzenetet megkapom",
+          "Üzenet küldése",
+          "Várj",
+          "Stop"
+        ],
+        "answer": "Amikor az ... üzenetet megkapom"
+      },
+      {
+        "question": "Mi a különbség az 'Üzenet küldése' és 'Üzenet küldése és várakozás' között?",
+        "options": [
+          "A második megvárja a szkriptek végét",
+          "Nincs különbség",
+          "Az első lassabb",
+          "A második csak éjszaka működik"
+        ],
+        "answer": "A második megvárja a szkriptek végét"
+      },
+      {
+        "question": "Melyik esemény indul el, ha a háttér megváltozik?",
+        "options": [
+          "Amikor a háttér ... lesz",
+          "Amikor a színpad fordul",
+          "Amikor a kép törlődik",
+          "Amikor a zene szól"
+        ],
+        "answer": "Amikor a háttér ... lesz"
+      },
+      {
+        "question": "Milyen esemény indul el nagy zaj esetén?",
+        "options": [
+          "Amikor a hangerő > 10",
+          "Amikor kiabálunk",
+          "Amikor dobolunk",
+          "Amikor csend van"
+        ],
+        "answer": "Amikor a hangerő > 10"
+      },
+      {
+        "question": "Lehet-e saját üzenetnevet megadni?",
+        "options": [
+          "Igen, bármit",
+          "Nem, csak számokat",
+          "Csak angolul",
+          "Csak 'üzenet1' lehet"
+        ],
+        "answer": "Igen, bármit"
+      },
+      {
+        "question": "Melyik blokkal indíthatunk el egy programot szóközre?",
+        "options": [
+          "Amikor a szóköz billentyűt lenyomjuk",
+          "Amikor ugrunk",
+          "Amikor írunk",
+          "Amikor várunk"
+        ],
+        "answer": "Amikor a szóköz billentyűt lenyomjuk"
+      },
+      {
+        "question": "Hány szkript indulhat el ugyanarra az üzenetre?",
+        "options": [
+          "Bármennyi",
+          "Csak egy",
+          "Csak kettő",
+          "Egy sem"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Mi történik, ha nincs indító blokk a szkript elején?",
+        "options": [
+          "Nem fog lefutni",
+          "Magától elindul",
+          "Hibaüzenetet ad",
+          "Letörli a gépet"
+        ],
+        "answer": "Nem fog lefutni"
+      },
+      {
+        "question": "Melyik kategóriában vannak az esemény blokkok?",
+        "options": [
+          "Események",
+          "Mozgás",
+          "Vezérlés",
+          "Érzékelés"
+        ],
+        "answer": "Események"
+      },
+      {
+        "question": "Milyen színűek az esemény blokkok?",
+        "options": [
+          "Sárga",
+          "Kék",
+          "Lila",
+          "Zöld"
+        ],
+        "answer": "Sárga"
+      },
+      {
+        "question": "Mi az az 'üzenetszórás'?",
+        "options": [
+          "Amikor minden Sprite megkapja az üzenetet",
+          "Rádiózás",
+          "TV nézés",
+          "Újságírás"
+        ],
+        "answer": "Amikor minden Sprite megkapja az üzenetet"
+      },
+      {
+        "question": "Mire jó az üzenet küldése a játékokban?",
+        "options": [
+          "Szintek közötti váltásra",
+          "Pontszám növelésre",
+          "Szereplők közti párbeszédre",
+          "Minden felsorolt"
+        ],
+        "answer": "Minden felsorolt"
+      },
+      {
+        "question": "Indulhat-e szkript, ha a fényerő változik?",
+        "options": [
+          "Igen, a videó érzékelésnél",
+          "Nem, sosem",
+          "Csak ha lámpát kapcsolunk",
+          "Csak nyáron"
+        ],
+        "answer": "Igen, a videó érzékelésnél"
+      },
+      {
+        "question": "Mit csinál a 'zöld zászló' esemény?",
+        "options": [
+          "Alaphelyzetbe állítja és indítja a játékot",
+          "Csak a hangot kapcsolja be",
+          "Törli a mentést",
+          "Kilép a böngészőből"
+        ],
+        "answer": "Alaphelyzetbe állítja és indítja a játékot"
+      },
+      {
+        "question": "Hány zöld zászló blokk lehet egy projektben?",
+        "options": [
+          "Bármennyi",
+          "Pontosan egy",
+          "Max tíz",
+          "Semennyi"
+        ],
+        "answer": "Bármennyi"
+      },
+      {
+        "question": "Mi történik, ha két Sprite is kap egy üzenetet?",
+        "options": [
+          "Mindkettő elindítja a saját szkriptjét",
+          "Csak az egyik",
+          "Összevesznek",
+          "Lefagy a gép"
+        ],
+        "answer": "Mindkettő elindítja a saját szkriptjét"
+      },
+      {
+        "question": "Hogyan indíthatunk el egy szkriptet egérkattintásra?",
+        "options": [
+          "Amikor a szereplőre kattintunk blokkal",
+          "Amikor mozog az egér",
+          "Amikor kattogunk",
+          "Nem lehet"
+        ],
+        "answer": "Amikor a szereplőre kattintunk blokkal"
+      },
+      {
+        "question": "Mire való az 'időzítő > ...' esemény?",
+        "options": [
+          "Adott idő eltelte után indít",
+          "Méri az időt",
+          "Kikapcsolja a gépet",
+          "Ébresztőóra"
+        ],
+        "answer": "Adott idő eltelte után indít"
+      },
+      {
+        "question": "Lehet-e billentyűkombinációkat (pl. Ctrl+C) eseményként megadni?",
+        "options": [
+          "Közvetlenül nem, csak egyes billentyűket",
+          "Igen, bármit",
+          "Csak ha profik vagyunk",
+          "Csak angolul"
+        ],
+        "answer": "Közvetlenül nem, csak egyes billentyűket"
+      },
+      {
+        "question": "Milyen alakú az esemény blokk teteje?",
+        "options": [
+          "Domború (kalap)",
+          "Lapos",
+          "Homorú",
+          "Hegyes"
+        ],
+        "answer": "Domború (kalap)"
+      }
+    ],
+    "typing": [
+      "esemény",
+      "indítás",
+      "zászló",
+      "billentyű",
+      "üzenet",
+      "küldés",
+      "fogadás",
+      "kattintás",
+      "szóköz",
+      "időzítő"
+    ]
+  }
+}

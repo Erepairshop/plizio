@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Proiecte Scratch",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este Scratch?",
+      "options": [
+        "Un limbaj de programare vizual cu blocuri",
+        "O mâncare de cartofi",
+        "Un zgomot de pisică",
+        "Un tip de hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește un personaj în Scratch?",
+      "options": [
+        "Sprite",
+        "Actor",
+        "Robot",
+        "Desen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află personajele pe ecran?",
+      "options": [
+        "Pe Scenă (Stage)",
+        "În culise",
+        "Sub masă",
+        "În tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim codul de obicei?",
+      "options": [
+        "Click pe Steagul Verde",
+        "Click pe Cercul Roșu",
+        "Strigăm 'Start'",
+        "Batem din palme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem cu blocurile de cod?",
+      "options": [
+        "Le îmbinăm ca pe piese de LEGO",
+        "Le colorăm",
+        "Le mâncăm",
+        "Le aruncăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim blocurile de mișcare?",
+      "options": [
+        "În categoria albastră 'Motion'",
+        "În categoria mov",
+        "În categoria galbenă",
+        "În buzunar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'move 10 steps'?",
+      "options": [
+        "Mută personajul înainte",
+        "Îl face să sară",
+        "Îl șterge",
+        "Îl face să doarmă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește locul unde punem blocurile?",
+      "options": [
+        "Zona de scripturi",
+        "Zona de joacă",
+        "Zona de desen",
+        "Zona de masă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba aspectul personajului?",
+      "options": [
+        "Da, folosind 'Costumes'",
+        "Nu, rămâne așa mereu",
+        "Doar dacă îl pictăm noi",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba fundalul scenei?",
+      "options": [
+        "Da, folosind 'Backdrops'",
+        "Nu, e mereu alb",
+        "Doar dacă avem culori",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul roșu de lângă steag?",
+      "options": [
+        "Oprește totul (Stop)",
+        "Pornește totul",
+        "Schimbă culoarea",
+        "Face o poză"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum adăugăm un sunet?",
+      "options": [
+        "Din tab-ul 'Sounds'",
+        "Cântăm noi la microfon direct mereu",
+        "Nu putem pune sunete",
+        "Batem în monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'bloc de eveniment'?",
+      "options": [
+        "Cel care pornește o acțiune (ex. When flag clicked)",
+        "Un bloc de mișcare",
+        "Un bloc de sunet",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Personajul principal din Scratch este?",
+      "options": [
+        "O pisică",
+        "Un câine",
+        "Un robot",
+        "Un pește"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena propriul personaj?",
+      "options": [
+        "Da, cu editorul de pictură",
+        "Nu, folosim doar ce există",
+        "Doar dacă suntem artiști",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'X' și 'Y' în Scratch?",
+      "options": [
+        "Poziția personajului pe ecran",
+        "Nume de cod",
+        "Erori",
+        "Litere de mate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde este centrul scenei?",
+      "options": [
+        "X=0, Y=0",
+        "X=100, Y=100",
+        "Sus în stânga",
+        "Jos în dreapta"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face un joc în Scratch?",
+      "options": [
+        "Da, e foarte bun pentru jocuri",
+        "Nu, doar poze",
+        "Doar desene animate",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Scratch Community'?",
+      "options": [
+        "Locul unde copiii își partajează proiectele",
+        "O școală reală",
+        "Un grup de pisici",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum salvăm un proiect?",
+      "options": [
+        "Se salvează automat dacă suntem logați",
+        "Nu se poate salva",
+        "Trebuie să îl scriem pe foaie",
+        "Batem din palme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Look' (Aspect)?",
+      "options": [
+        "Blocurile mov care schimbă cum arată personajul",
+        "Privirea noastră",
+        "Oglinda",
+        "Ochelari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face personajul să vorbească?",
+      "options": [
+        "Da, cu bule de text (Say)",
+        "Nu",
+        "Doar dacă avem boxe",
+        "Doar prin e-mail"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Remix' în Scratch?",
+      "options": [
+        "Să iei un proiect și să îl modifici tu",
+        "Să ștergi un proiect",
+        "Să îl asculți ca muzică",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Scratch este pentru?",
+      "options": [
+        "Copii și începători",
+        "Doar pentru adulți deștepți",
+        "Doar pentru roboți",
+        "Doar pentru pisici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e util Scratch?",
+      "options": [
+        "Inveți logica programării prin joacă",
+        "Ca să pierzi timpul",
+        "Ca să strici calculatorul",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: personaj",
+      "answer": "personaj"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: fundal",
+      "answer": "fundal"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: bloc",
+      "answer": "bloc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mișcare",
+      "answer": "mișcare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pornire",
+      "answer": "pornire"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cod",
+      "answer": "cod"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sunet",
+      "answer": "sunet"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: costum",
+      "answer": "costum"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: variabilă",
+      "answer": "variabilă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: interactiv",
+      "answer": "interactiv"
+    }
+  ]
+}

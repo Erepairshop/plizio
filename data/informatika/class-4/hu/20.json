@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Webhely biztonsága",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Milyen a jó jelszó?",
+        "options": [
+          "Hosszú, kis- és nagybetűt, számot, jelet tartalmaz",
+          "A keresztnevünk",
+          "123456",
+          "password"
+        ],
+        "answer": "Hosszú, kis- és nagybetűt, számot, jelet tartalmaz"
+      },
+      {
+        "question": "Szabad-e megosztani a jelszavunkat másokkal?",
+        "options": [
+          "Soha, senkivel (kivéve szülők)",
+          "Igen, a legjobb barátunkkal",
+          "Igen, ha kérik",
+          "Igen, kiírhatjuk a falra"
+        ],
+        "answer": "Soha, senkivel (kivéve szülők)"
+      },
+      {
+        "question": "Mit jelent a lakat ikon a böngészőben?",
+        "options": [
+          "Biztonságos, titkosított kapcsolat",
+          "Zárva van az oldal",
+          "Elromlott az oldal",
+          "Fizetni kell"
+        ],
+        "answer": "Biztonságos, titkosított kapcsolat"
+      },
+      {
+        "question": "Mi az a vírus?",
+        "options": [
+          "Kártékony program",
+          "Betegség a gépben",
+          "Egy rossz kép",
+          "Egy hangos zene"
+        ],
+        "answer": "Kártékony program"
+      },
+      {
+        "question": "Mit csinál az vírusirtó?",
+        "options": [
+          "Megvédi a gépet a kártevőktől",
+          "Kitakarítja a port",
+          "Gyorsítja az internetet",
+          "Törli a fájlokat"
+        ],
+        "answer": "Megvédi a gépet a kártevőktől"
+      },
+      {
+        "question": "Mi az a 'phishing' (adathalászat)?",
+        "options": [
+          "Csalók adatokat próbálnak kicsalni tőlünk",
+          "Horgászós játék",
+          "Vízparti netezés",
+          "Képek gyűjtése"
+        ],
+        "answer": "Csalók adatokat próbálnak kicsalni tőlünk"
+      },
+      {
+        "question": "Szabad-e ismeretlen linkre kattintani e-mailben?",
+        "options": [
+          "Nem, veszélyes lehet",
+          "Igen, biztos izgalmas",
+          "Csak ha sok pénzt ígér",
+          "Igen, mindenre rá kell kattintani"
+        ],
+        "answer": "Nem, veszélyes lehet"
+      },
+      {
+        "question": "Mit tegyünk, ha valami furcsát látunk a neten?",
+        "options": [
+          "Szóljunk egy felnőttnek",
+          "Zárjuk be és hallgassunk",
+          "Küldjük el mindenkinek",
+          "Próbáljuk megjavítani"
+        ],
+        "answer": "Szóljunk egy felnőttnek"
+      },
+      {
+        "question": "Mi az a digitális lábnyom?",
+        "options": [
+          "Minden, amit a neten teszünk és ott marad",
+          "Egy koszos monitor",
+          "A gép súlya",
+          "A net sebessége"
+        ],
+        "answer": "Minden, amit a neten teszünk és ott marad"
+      },
+      {
+        "question": "Szabad-e megadni a lakcímünket idegeneknek?",
+        "options": [
+          "Soha",
+          "Igen, ha kedvesek",
+          "Csak ha kérdezik",
+          "Igen, mindenkinek"
+        ],
+        "answer": "Soha"
+      },
+      {
+        "question": "Mi az a tűzfal?",
+        "options": [
+          "Védi a hálózatot a betolakodóktól",
+          "Egy meleg fal",
+          "A gép hűtője",
+          "Egy piros festés"
+        ],
+        "answer": "Védi a hálózatot a betolakodóktól"
+      },
+      {
+        "question": "Mit jelent a kétfaktoros hitelesítés (2FA)?",
+        "options": [
+          "Két lépcsős azonosítás (pl. jelszó + kód)",
+          "Két ember kell hozzá",
+          "Két gép kell hozzá",
+          "Kétszer kell gépelni"
+        ],
+        "answer": "Két lépcsős azonosítás (pl. jelszó + kód)"
+      },
+      {
+        "question": "Mi az a spam?",
+        "options": [
+          "Kéretlen reklámlevél",
+          "Egy fajta hús",
+          "Gyors üzenet",
+          "Vicces videó"
+        ],
+        "answer": "Kéretlen reklámlevél"
+      },
+      {
+        "question": "Hogyan védekezhetünk a spam ellen?",
+        "options": [
+          "Nem adjuk meg mindenhol az e-mailünket",
+          "Kikapcsoljuk a gépet",
+          "Válaszolunk nekik",
+          "Sírjunk"
+        ],
+        "answer": "Nem adjuk meg mindenhol az e-mailünket"
+      },
+      {
+        "question": "Mi az a szoftverfrissítés?",
+        "options": [
+          "A programok újabb, biztonságosabb verziója",
+          "A gép tisztítása",
+          "Új gép vétele",
+          "A monitor cseréje"
+        ],
+        "answer": "A programok újabb, biztonságosabb verziója"
+      },
+      {
+        "question": "Miért nem jó mindenhol ugyanazt a jelszót használni?",
+        "options": [
+          "Mert ha egyet feltörnek, mindhez hozzáférnek",
+          "Mert unalmas",
+          "Mert nem szabad",
+          "Mert elfelejtjük"
+        ],
+        "answer": "Mert ha egyet feltörnek, mindhez hozzáférnek"
+      },
+      {
+        "question": "Mi az a jelszókezelő?",
+        "options": [
+          "Program, ami biztonságosan tárolja a jelszavakat",
+          "Egy titkárnő",
+          "A billentyűzet",
+          "Egy füzet"
+        ],
+        "answer": "Program, ami biztonságosan tárolja a jelszavakat"
+      },
+      {
+        "question": "Szabad-e idegenekkel találkozni, akiket csak netről ismerünk?",
+        "options": [
+          "Csak szülői felügyelettel és biztonságos helyen",
+          "Igen, bármikor",
+          "Egyedül is lehet",
+          "Sosem"
+        ],
+        "answer": "Csak szülői felügyelettel és biztonságos helyen"
+      },
+      {
+        "question": "Mit jelent a privát szféra?",
+        "options": [
+          "A magánéletünk védelme",
+          "Egy külön szoba",
+          "Titkos kód",
+          "A gép belseje"
+        ],
+        "answer": "A magánéletünk védelme"
+      },
+      {
+        "question": "Mire jó a privát böngészés?",
+        "options": [
+          "Nem menti az előzményeket a gépen",
+          "Láthatatlanná tesz",
+          "Ingyen netet ad",
+          "Törli a vírusokat"
+        ],
+        "answer": "Nem menti az előzményeket a gépen"
+      },
+      {
+        "question": "Mi az a pop-up?",
+        "options": [
+          "Váratlanul felugró ablak",
+          "Egy fajta üdítő",
+          "Egy tánc",
+          "A gép hangja"
+        ],
+        "answer": "Váratlanul felugró ablak"
+      },
+      {
+        "question": "Mit tegyünk, ha valaki bánt minket a neten?",
+        "options": [
+          "Kérjünk segítséget felnőttől és blokkoljuk",
+          "Vágjunk vissza",
+          "Hallgassunk róla",
+          "Töröljük magunkat"
+        ],
+        "answer": "Kérjünk segítséget felnőttől és blokkoljuk"
+      },
+      {
+        "question": "Mi az a sütik (cookies)?",
+        "options": [
+          "Weboldalak által tárolt kis adatfájlok",
+          "Finom sütemények",
+          "A monitor pora",
+          "A gép gombjai"
+        ],
+        "answer": "Weboldalak által tárolt kis adatfájlok"
+      },
+      {
+        "question": "Miért kell óvatosnak lenni a nyilvános Wi-Fi-vel?",
+        "options": [
+          "Mert mások ellophatják az adatainkat",
+          "Mert lassú",
+          "Mert fizetni kell",
+          "Mert rossz a hangja"
+        ],
+        "answer": "Mert mások ellophatják az adatainkat"
+      },
+      {
+        "question": "Mi a legfontosabb a netes biztonsághoz?",
+        "options": [
+          "Az óvatosság és a tudatosság",
+          "A legdrágább gép",
+          "A leggyorsabb net",
+          "Sok barát"
+        ],
+        "answer": "Az óvatosság és a tudatosság"
+      }
+    ],
+    "typing": [
+      "biztonság",
+      "jelszó",
+      "védelem",
+      "vírus",
+      "titkosítás",
+      "adatvédelem",
+      "óvatosság",
+      "internet",
+      "segítség",
+      "szabály"
+    ]
+  }
+}

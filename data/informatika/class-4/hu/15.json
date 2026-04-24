@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Labirintus játék",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a labirintus játék célja?",
+        "options": [
+          "Eljutni a kijárathoz",
+          "Eltévedni",
+          "Törölni a falat",
+          "Aludni"
+        ],
+        "answer": "Eljutni a kijárathoz"
+      },
+      {
+        "question": "Hogyan akadályozzuk meg, hogy a Sprite átmenjen a falon?",
+        "options": [
+          "Ha falat érint, mozduljon vissza",
+          "Vegyük ki a falat",
+          "Csukjuk be a szemünket",
+          "Kapcsoljuk ki a gépet"
+        ],
+        "answer": "Ha falat érint, mozduljon vissza"
+      },
+      {
+        "question": "Melyik blokkal érzékeljük a fal színét?",
+        "options": [
+          "Szín ... érintve?",
+          "Ki van ott?",
+          "Milyen színű?",
+          "Várj"
+        ],
+        "answer": "Szín ... érintve?"
+      },
+      {
+        "question": "Hogyan indítjuk a Sprite-ot a starthelyről?",
+        "options": [
+          "Ugorj (x, y) blokkal a zászlónál",
+          "Tegyük oda kézzel minden alkalommal",
+          "Nem kell",
+          "Fújjunk rá"
+        ],
+        "answer": "Ugorj (x, y) blokkal a zászlónál"
+      },
+      {
+        "question": "Mi történik, ha a Sprite eléri a kijáratot?",
+        "options": [
+          "Üzenetet küldhet vagy szintet válthat",
+          "Kikapcsol a gép",
+          "Törlődik a játék",
+          "Semmi"
+        ],
+        "answer": "Üzenetet küldhet vagy szintet válthat"
+      },
+      {
+        "question": "Hogyan irányíthatjuk a Sprite-ot a labirintusban?",
+        "options": [
+          "Nyilakkal vagy WASD gombokkal",
+          "Gondolattal",
+          "Sehogy",
+          "Kiabálással"
+        ],
+        "answer": "Nyilakkal vagy WASD gombokkal"
+      },
+      {
+        "question": "Miért jó, ha a falaknak egyforma színe van?",
+        "options": [
+          "Könnyebb egyetlen blokkal érzékelni őket",
+          "Szebb",
+          "Kevesebb helyet foglal",
+          "Nem számít"
+        ],
+        "answer": "Könnyebb egyetlen blokkal érzékelni őket"
+      },
+      {
+        "question": "Hogyan készíthetjük el a labirintus pályát?",
+        "options": [
+          "A háttérben megrajzoljuk",
+          "A billentyűzeten",
+          "A falon",
+          "A nyomtatón"
+        ],
+        "answer": "A háttérben megrajzoljuk"
+      },
+      {
+        "question": "Lehet-e a fal maga is egy Sprite?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha mozog",
+          "Csak ha piros"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Hogyan tehetjük nehezebbé a labirintust?",
+        "options": [
+          "Mozgó akadályokkal",
+          "Lámpák lekapcsolásával",
+          "Szűkebb folyosókkal",
+          "Minden felsorolt"
+        ],
+        "answer": "Minden felsorolt"
+      },
+      {
+        "question": "Mi az az 'időre menő' labirintus?",
+        "options": [
+          "Adott idő alatt kell kijutni",
+          "Egy óra alakú pálya",
+          "Lassú játék",
+          "Sosem ér véget"
+        ],
+        "answer": "Adott idő alatt kell kijutni"
+      },
+      {
+        "question": "Mit csinál a 'ha érinted a fal színét, menj -5 lépést'?",
+        "options": [
+          "Visszalöki a Sprite-ot a faltól",
+          "Áttolja a falon",
+          "Megállítja a játékot",
+          "Megfordítja"
+        ],
+        "answer": "Visszalöki a Sprite-ot a faltól"
+      },
+      {
+        "question": "Hogyan érzékelhetjük, hogy a Sprite a célhoz ért?",
+        "options": [
+          "Érinted a 'Cél' Sprite-ot? blokkal",
+          "Ránézéssel",
+          "Megkérdezzük",
+          "Sehogy"
+        ],
+        "answer": "Érinted a 'Cél' Sprite-ot? blokkal"
+      },
+      {
+        "question": "Lehet-e több szint egy labirintus játékban?",
+        "options": [
+          "Igen, különböző hátterekkel",
+          "Nem, csak egy",
+          "Csak ha sokat fizetünk",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, különböző hátterekkel"
+      },
+      {
+        "question": "Mire jó a 'változó' a labirintusban?",
+        "options": [
+          "Életek vagy idő mérésére",
+          "Dísznek",
+          "Hangnak",
+          "Semmire"
+        ],
+        "answer": "Életek vagy idő mérésére"
+      },
+      {
+        "question": "Mit csinál a 'mindig' ciklus a labirintus kódban?",
+        "options": [
+          "Folyamatosan figyeli az irányítást és a falat",
+          "Egyszer fut le",
+          "Megállítja a kódot",
+          "Törli"
+        ],
+        "answer": "Folyamatosan figyeli az irányítást és a falat"
+      },
+      {
+        "question": "Hogyan lehet láthatatlan falakat csinálni?",
+        "options": [
+          "A fal színe megegyezik a háttérrel",
+          "Nincs fal",
+          "Kikapcsoljuk a monitort",
+          "Becsukjuk a szemünket"
+        ],
+        "answer": "A fal színe megegyezik a háttérrel"
+      },
+      {
+        "question": "Mire jó a 'hang' a labirintusban?",
+        "options": [
+          "Visszajelzés falhoz éréskor vagy győzelemkor",
+          "Zavarásra",
+          "Lassításra",
+          "Semmire"
+        ],
+        "answer": "Visszajelzés falhoz éréskor vagy győzelemkor"
+      },
+      {
+        "question": "Mi az az 'minimap'?",
+        "options": [
+          "Kicsi térkép a pálya sarkában",
+          "Egy kis egér",
+          "A kód egy része",
+          "Egy gomb"
+        ],
+        "answer": "Kicsi térkép a pálya sarkában"
+      },
+      {
+        "question": "Hogyan lehet a Sprite-ot kisebbé tenni, hogy elférjen?",
+        "options": [
+          "Méret beállítása 50% (vagy kevesebb)",
+          "Levágjuk a széleit",
+          "Ráfújunk",
+          "Nem lehet"
+        ],
+        "answer": "Méret beállítása 50% (vagy kevesebb)"
+      },
+      {
+        "question": "Mire jó a 'nyom' hagyása a labirintusban?",
+        "options": [
+          "Látjuk, merre jártunk már",
+          "Piszkos lesz a monitor",
+          "Lassul a gép",
+          "Törlődik a pálya"
+        ],
+        "answer": "Látjuk, merre jártunk már"
+      },
+      {
+        "question": "Hogyan készíthetsz teleportot a labirintusba?",
+        "options": [
+          "Ha érinti a teleportot, ugorjon máshová",
+          "Kiabálunk neki",
+          "Rázogatjuk az egeret",
+          "Nem lehet"
+        ],
+        "answer": "Ha érinti a teleportot, ugorjon máshová"
+      },
+      {
+        "question": "Milyen irányítás a 'kövesd az egeret' a labirintusban?",
+        "options": [
+          "A Sprite az egér felé mozog",
+          "Az egér mozog a Sprite felé",
+          "Nincs mozgás",
+          "A gép mozog"
+        ],
+        "answer": "A Sprite az egér felé mozog"
+      },
+      {
+        "question": "Mi az az 'ellenség' a labirintusban?",
+        "options": [
+          "Egy szereplő, akit el kell kerülni",
+          "A fal",
+          "A billentyűzet",
+          "A tanár"
+        ],
+        "answer": "Egy szereplő, akit el kell kerülni"
+      },
+      {
+        "question": "Hogyan lehet újrakezdeni a szintet?",
+        "options": [
+          "Visszaugrunk a start koordinátákra",
+          "Kikapcsoljuk a gépet",
+          "Várunk 1 órát",
+          "Sehogy"
+        ],
+        "answer": "Visszaugrunk a start koordinátákra"
+      }
+    ],
+    "typing": [
+      "labirintus",
+      "folyosó",
+      "kijárat",
+      "érzékelés",
+      "fal",
+      "ütközés",
+      "irányítás",
+      "pálya",
+      "start",
+      "cél"
+    ]
+  }
+}

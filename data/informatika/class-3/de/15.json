@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Textformatierung",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Textformatierung?",
+      "options": [
+        "Das Aussehen des Textes ändern",
+        "Text löschen",
+        "Text drucken",
+        "Text lesen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man Text dicker?",
+      "options": [
+        "Fett (B oder F)",
+        "Kursiv",
+        "Unterstrichen",
+        "Farbig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Kursiv'?",
+      "options": [
+        "Der Text wird schräg",
+        "Der Text wird fett",
+        "Der Text wird gelöscht",
+        "Der Text wird groß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist 'Unterstreichen' gut?",
+      "options": [
+        "Um wichtige Worte zu betonen",
+        "Damit es schöner aussieht",
+        "Zum Durchstreichen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Schriftart?",
+      "options": [
+        "Z.B. Arial oder Comic Sans",
+        "Ein Buchstabe",
+        "Ein Wort",
+        "Ein Satz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Schriftgröße?",
+      "options": [
+        "Über die Zahl im Menü",
+        "PC schütteln",
+        "Lauter sprechen",
+        "Größer schreiben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe kann Text haben?",
+      "options": [
+        "Jede beliebige Farbe",
+        "Nur schwarz",
+        "Nur blau",
+        "Nur rot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Absatz?",
+      "options": [
+        "Ein Textblock nach einem Enter-Druck",
+        "Ein Satz",
+        "Ein Wort",
+        "Ein Buchstabe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Blocksatz'?",
+      "options": [
+        "Der Text ist links und rechts bündig",
+        "Der Text ist weg",
+        "Der Text ist rund",
+        "Der Text ist groß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man eine Liste mit Punkten?",
+      "options": [
+        "Aufzählungszeichen nutzen",
+        "Punkte malen",
+        "Nichts tun",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man eine Liste mit Nummern?",
+      "options": [
+        "Nummerierung nutzen",
+        "Zahlen tippen",
+        "Warten",
+        "Bilder einfügen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Hintergrundfarbe' von Text?",
+      "options": [
+        "Die Farbe hinter den Buchstaben",
+        "Die Farbe der Tinte",
+        "Die Farbe des PCs",
+        "Die Farbe des Tisches"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text durchstreichen?",
+      "options": [
+        "Ja, gibt es als Option",
+        "Nein",
+        "Nur mit dem Stift",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist KAPITÄLCHEN?",
+      "options": [
+        "Kleine Großbuchstaben",
+        "Große Autos",
+        "Kleine Bilder",
+        "Lustige Lieder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kopiert man Text?",
+      "options": [
+        "Strg + C (oder Kopieren)",
+        "Strg + V",
+        "Strg + X",
+        "Strg + Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man kopierten Text ein?",
+      "options": [
+        "Strg + V (oder Einfügen)",
+        "Strg + C",
+        "Strg + S",
+        "Strg + P"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schneidet man Text aus?",
+      "options": [
+        "Strg + X (oder Ausschneiden)",
+        "Mit einer Schere",
+        "PC schütteln",
+        "Text löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Großschreibung'?",
+      "options": [
+        "Buchstaben groß schreiben",
+        "Große Bilder",
+        "Große Tasten",
+        "Große Monitore"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man einen einzelnen Großbuchstaben?",
+      "options": [
+        "Shift-Taste gedrückt halten",
+        "Caps Lock",
+        "Gar nicht",
+        "Fest drücken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Caps Lock?",
+      "options": [
+        "Feststelltaste für dauerhaft groß",
+        "PC sperren",
+        "Licht an",
+        "Tür zu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man eine Leerzeile?",
+      "options": [
+        "Zweimal Enter drücken",
+        "PC ausschalten",
+        "Warten",
+        "Leertaste drücken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zeilenabstand?",
+      "options": [
+        "Der Platz zwischen den Zeilen",
+        "Der Platz zwischen Wörtern",
+        "Der Platz zum Rand",
+        "Der Platz zum Tisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie markiert man Text mit der Maus?",
+      "options": [
+        "Klicken und drüberziehen",
+        "Draufschlagen",
+        "Anschauen",
+        "Daneben klicken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man markierten Text löscht?",
+      "options": [
+        "Er verschwindet ganz",
+        "Er wird fett",
+        "Er wird bunt",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum formatiert man Texte?",
+      "options": [
+        "Damit sie besser lesbar und schöner sind",
+        "Nur zum Zeitvertreib",
+        "Weil es der PC will",
+        "Damit sie länger werden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Format",
+      "answer": "Format"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schrift",
+      "answer": "Schrift"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Farbe",
+      "answer": "Farbe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Größe",
+      "answer": "Größe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Fett",
+      "answer": "Fett"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kursiv",
+      "answer": "Kursiv"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Absatz",
+      "answer": "Absatz"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Liste",
+      "answer": "Liste"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kopieren",
+      "answer": "Kopieren"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Einfügen",
+      "answer": "Einfügen"
+    }
+  ]
+}

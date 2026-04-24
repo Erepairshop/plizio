@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Digital Identity",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Identity'?",
+      "options": [
+        "Who you are online",
+        "A digital ID card",
+        "Your computer's name",
+        "A fake name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Footprint'?",
+      "options": [
+        "The trail of data you leave behind online",
+        "A footprint on your monitor",
+        "A picture of your shoe",
+        "A type of keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is your digital footprint permanent?",
+      "options": [
+        "Mostly yes, it can be hard to delete",
+        "No, it disappears every day",
+        "Only for one year",
+        "Only if you are famous"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share your real address online?",
+      "options": [
+        "No, it's private information",
+        "Yes, so people can visit",
+        "Only if you get a prize",
+        "Only with friends you met yesterday"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Username'?",
+      "options": [
+        "A name you use for an account instead of your real name",
+        "Your father's name",
+        "Your school's name",
+        "A type of computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you use a strong password?",
+      "options": [
+        "To keep your accounts safe from hackers",
+        "To practice typing",
+        "To make it more fun",
+        "To show off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cyberbullying'?",
+      "options": [
+        "Using the internet to be mean to others",
+        "A robot bull",
+        "Playing games too much",
+        "Typing very fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if someone is mean to you online?",
+      "options": [
+        "Tell a trusted adult",
+        "Be mean back",
+        "Keep it a secret",
+        "Give them your password"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Privacy Settings'?",
+      "options": [
+        "Options to control who sees your info",
+        "A secret room",
+        "A type of lock",
+        "The brightness of the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to share a photo of someone else without asking?",
+      "options": [
+        "No, you should always ask permission",
+        "Yes, if it's funny",
+        "Only if they don't know",
+        "Only on birthdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Account'?",
+      "options": [
+        "Your personal space on a website or app",
+        "A math problem",
+        "A type of bank",
+        "A computer box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Two-Factor Authentication' (2FA)?",
+      "options": [
+        "Using two ways to prove who you are (like password + code)",
+        "Having two computers",
+        "Typing with two hands",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Netiquette'?",
+      "options": [
+        "Good manners and behavior online",
+        "A net for catching hackers",
+        "A type of computer",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you meet someone in person that you only know from online?",
+      "options": [
+        "No, unless a parent goes with you and it's safe",
+        "Yes, immediately",
+        "Only if they seem nice",
+        "Only if they give you a gift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Personal Information'?",
+      "options": [
+        "Things like your full name, phone, and school",
+        "Your favorite color",
+        "Your cat's name",
+        "The weather"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can your online posts affect your future?",
+      "options": [
+        "Yes, schools and jobs might look at them",
+        "No, they are just for fun",
+        "Only for one week",
+        "Only on social media"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Profile'?",
+      "options": [
+        "A page about you on a social site",
+        "The side of your face",
+        "A type of drawing",
+        "A secret folder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Phishing'?",
+      "options": [
+        "Tricking you to steal your personal info",
+        "Catching digital fish",
+        "A type of typing",
+        "A computer sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Malware'?",
+      "options": [
+        "Harmful software that can steal info",
+        "Software for malls",
+        "Good software",
+        "A type of clothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you log out of shared computers?",
+      "options": [
+        "So the next person can't access your account",
+        "To save battery",
+        "To clean the screen",
+        "Because it's a rule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Strong Password' like?",
+      "options": [
+        "A mix of letters, numbers, and symbols",
+        "123456",
+        "password",
+        "your name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it safe to use the same password for everything?",
+      "options": [
+        "No, if one gets hacked, they all do",
+        "Yes, it's easier to remember",
+        "Only if it's a long one",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Oversharing'?",
+      "options": [
+        "Posting too much personal info online",
+        "Sharing a large pizza",
+        "Giving away your toys",
+        "Talking too loudly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Stranger' online?",
+      "options": [
+        "Anyone you haven't met in real life",
+        "Someone with a scary profile",
+        "A person from another country",
+        "A robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who should you trust with your passwords?",
+      "options": [
+        "Only your parents or guardians",
+        "Everyone",
+        "Your best friend",
+        "A random website"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    }
+  ]
+}

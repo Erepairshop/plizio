@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Online-Suche",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Suchmaschine?",
+      "options": [
+        "Ein Programm zum Finden von Webseiten",
+        "Ein Motor im Auto",
+        "Ein Browser",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt die bekannteste Suchmaschine?",
+      "options": [
+        "Google",
+        "Facebook",
+        "Amazon",
+        "Netflix"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Suchmaschine für Kinder?",
+      "options": [
+        "Z.B. Frag Finn oder Blinde Kuh",
+        "Google",
+        "YouTube",
+        "TikTok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Suchbegriff?",
+      "options": [
+        "Ein Wort, das man in die Suche tippt",
+        "Ein Name",
+        "Ein Passwort",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man nach 'Hund' sucht?",
+      "options": [
+        "Man bekommt Ergebnisse über Hunde",
+        "Ein Hund erscheint",
+        "Der PC bellt",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie findet man genauere Ergebnisse?",
+      "options": [
+        "Mehrere Begriffe eingeben (z.B. kleiner Hund)",
+        "Lauter tippen",
+        "Schneller klicken",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die 'Suchergebnisse'?",
+      "options": [
+        "Eine Liste mit Links zu Webseiten",
+        "Bilder",
+        "Lieder",
+        "Spiele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Anzeige in der Suche?",
+      "options": [
+        "Bezahlte Werbung oben oder unten",
+        "Ein Bild",
+        "Ein wichtiger Text",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind die ersten Ergebnisse immer die besten?",
+      "options": [
+        "Nicht unbedingt, oft ist es Werbung",
+        "Ja, immer",
+        "Meistens",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Scrollen' in den Ergebnissen?",
+      "options": [
+        "Nach unten fahren für mehr Links",
+        "Die Seite schließen",
+        "Ein Bild malen",
+        "Text löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man nach Videos suchen?",
+      "options": [
+        "Ja, oft gibt es einen Video-Reiter",
+        "Nein",
+        "Nur Bilder",
+        "Nur Texte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Autovervollständigung?",
+      "options": [
+        "Vorschläge beim Tippen der Suche",
+        "PC geht von alleine an",
+        "Text wird gelöscht",
+        "PC schreibt Briefe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'keine Ergebnisse gefunden'?",
+      "options": [
+        "Man muss andere Suchwörter probieren",
+        "Das Internet ist kaputt",
+        "Der PC ist aus",
+        "Feierabend"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man nach Karten oder Orten suchen?",
+      "options": [
+        "Ja, z.B. Google Maps",
+        "Nein",
+        "Nur mit dem Kompass",
+        "Nur im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'erweiterte Suche'?",
+      "options": [
+        "Suche mit speziellen filtern",
+        "Eine schnelle Suche",
+        "Eine bunte Suche",
+        "Eine laute Suche"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man alles glauben, was man findet?",
+      "options": [
+        "Nein, man muss Informationen prüfen",
+        "Ja, das Internet lügt nicht",
+        "Meistens schon",
+        "Nur Lehrern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie vergleicht man Informationen?",
+      "options": [
+        "Auf mehreren Webseiten nachsehen",
+        "Nur eine Seite lesen",
+        "Den Nachbarn fragen",
+        "Raten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Browser-Verlauf?",
+      "options": [
+        "Liste der besuchten Webseiten",
+        "Ein film",
+        "Ein Buch",
+        "Ein weg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Suche mit der Stimme nutzen?",
+      "options": [
+        "Ja, Sprachsuche",
+        "Nein",
+        "Nur durch Klatschen",
+        "Nur durch Pfeifen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Wikipedia?",
+      "options": [
+        "Ein Online-Lexikon",
+        "Ein spiel",
+        "Ein Shop",
+        "Ein Video-Portal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine URL?",
+      "options": [
+        "Die Adresse einer Webseite",
+        "Ein Name",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Suchen und Finden'?",
+      "options": [
+        "Ein Ziel der Internetnutzung",
+        "Ein spiel",
+        "Ein Versteck",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man nach Nachrichten suchen?",
+      "options": [
+        "Ja, es gibt News-Bereiche",
+        "Nein",
+        "Nur in der Zeitung",
+        "Nur im Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Schlagwort?",
+      "options": [
+        "Ein besonders wichtiges Wort der Suche",
+        "Ein böses Wort",
+        "Ein langes Wort",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Suchen eine wichtige Fähigkeit?",
+      "options": [
+        "Damit man schnell die richtigen Infos findet",
+        "Damit man Zeit verschwendet",
+        "Ist nicht wichtig",
+        "Nur für Erwachsene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Suchen",
+      "answer": "Suchen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Finden",
+      "answer": "Finden"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Begriff",
+      "answer": "Begriff"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ergebnis",
+      "answer": "Ergebnis"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Internet",
+      "answer": "Internet"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Maschine",
+      "answer": "Maschine"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Filter",
+      "answer": "Filter"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wissen",
+      "answer": "Wissen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Prüfen",
+      "answer": "Prüfen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Link",
+      "answer": "Link"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Google Docs",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este Google Docs?",
+      "options": [
+        "Un program online pentru scrierea documentelor",
+        "Un joc cu doctori",
+        "O aplicație de desenat",
+        "Un motor de mașină"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se salvează documentele Google Docs?",
+      "options": [
+        "Automat în Google Drive",
+        "Sub tastatură",
+        "În ghiozdan",
+        "Nicăieri, trebuie salvate manual"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem scrie împreună cu un coleg în același timp?",
+      "options": [
+        "Da",
+        "Nu, pe rând",
+        "Doar dacă avem 2 monitoare",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește locul unde scriem textul?",
+      "options": [
+        "Document",
+        "Tablou",
+        "Masă",
+        "Ecran negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba culoarea textului?",
+      "options": [
+        "Da",
+        "Nu, e doar negru",
+        "Doar roșu",
+        "Doar dacă pictăm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Bold' (B)?",
+      "options": [
+        "Îngroașă textul",
+        "Șterge textul",
+        "Îl face invizibil",
+        "Îl face să sară"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Italic' (I)?",
+      "options": [
+        "Înclină textul",
+        "Îl face albastru",
+        "Îl șterge",
+        "Îl face mare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem insera imagini în document?",
+      "options": [
+        "Da",
+        "Nu, doar text",
+        "Doar dacă sunt mici",
+        "Doar la final"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește bara de sus cu butoane?",
+      "options": [
+        "Bară de instrumente (Toolbar)",
+        "Bară de ciocolată",
+        "Bară de aur",
+        "Bară de protecție"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem mări literele?",
+      "options": [
+        "Da, schimbăm mărimea fontului",
+        "Nu, au mărime fixă",
+        "Doar cu o lupă",
+        "Doar dacă tragem de ele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'font'?",
+      "options": [
+        "Stilul de scriere al literelor",
+        "O fântână",
+        "Un tip de joc",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem sublinia cuvintele?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă folosim un pix",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face butonul 'Align center'?",
+      "options": [
+        "Pune textul la mijlocul paginii",
+        "Îl mută în stânga",
+        "Îl mută în dreapta",
+        "Îl șterge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune liste cu puncte (bullets)?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cifre",
+        "Doar steluțe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Undo'?",
+      "options": [
+        "Anulează ultima acțiune făcută",
+        "Închide programul",
+        "Salvează tot",
+        "Deschide un fișier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Redo'?",
+      "options": [
+        "Reface o acțiune anulată",
+        "Șterge tot",
+        "Reface calculatorul",
+        "Nu înseamnă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește cursorul care clipește?",
+      "options": [
+        "Punct de inserare",
+        "Săgeată",
+        "Ochi",
+        "Pisică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem descărca documentul ca PDF?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar ca poză",
+        "Doar pe telefon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune comentarii în document?",
+      "options": [
+        "Da, pentru a lăsa note",
+        "Nu, e interzis",
+        "Doar profesorii pot",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Spell check'?",
+      "options": [
+        "Verificarea greșelilor de scriere",
+        "Un joc de cuvinte",
+        "O magie",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face tabele în Google Docs?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar în alt program",
+        "Doar desene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum printăm (tipărim) documentul?",
+      "options": [
+        "Folosim butonul Print",
+        "Îl desenăm pe hârtie",
+        "Îl punem pe ecran și suflăm",
+        "Nu putem printa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este Google Docs gratuit?",
+      "options": [
+        "Da, cu un cont Google",
+        "Nu, costă 5 lei pagina",
+        "E gratis doar lunea",
+        "E gratuit doar pentru medici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba numele documentului?",
+      "options": [
+        "Da, dând click pe 'Untitled document'",
+        "Nu, rămâne așa mereu",
+        "Doar dacă ne dă voie Google",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă se ia curentul?",
+      "options": [
+        "Informația e salvată automat",
+        "Se pierde tot",
+        "Explodează laptopul",
+        "Nu se întâmplă nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: document",
+      "answer": "document"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scriere",
+      "answer": "scriere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tastare",
+      "answer": "tastare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: editare",
+      "answer": "editare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: partajare",
+      "answer": "partajare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: comun",
+      "answer": "comun"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: salvare",
+      "answer": "salvare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: font",
+      "answer": "font"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: titlu",
+      "answer": "titlu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: schiță",
+      "answer": "schiță"
+    }
+  ]
+}

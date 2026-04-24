@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Storage Cloud",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'The Cloud'?",
+      "options": [
+        "Storing data on the internet instead of locally",
+        "A white thing in the sky",
+        "A type of computer screen",
+        "A soft pillow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a benefit of cloud storage?",
+      "options": [
+        "You can access files from any device",
+        "It makes the computer heavier",
+        "It works without internet",
+        "It smells like rain"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a cloud storage service?",
+      "options": [
+        "Google Drive",
+        "Paint",
+        "Calculator",
+        "Notepad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Do you need internet to use the cloud?",
+      "options": [
+        "Yes, usually to sync and access",
+        "No, never",
+        "Only if it's sunny",
+        "Only on a phone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Syncing'?",
+      "options": [
+        "Updating files so they are the same everywhere",
+        "Singing in the shower",
+        "Sinking a boat",
+        "A type of dancing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Backing up'?",
+      "options": [
+        "Making a copy of your files to keep them safe",
+        "Walking backwards",
+        "Reversing a car",
+        "Deleting old files"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share a folder with someone in the cloud?",
+      "options": [
+        "Yes, using a link or email",
+        "No, it's impossible",
+        "Only if you give them your computer",
+        "Only if they live nearby"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is cloud data actually stored?",
+      "options": [
+        "On powerful computers called servers",
+        "In the air",
+        "Inside the monitor",
+        "On the moon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the cloud 'infinite'?",
+      "options": [
+        "No, you usually have a limit like 15GB",
+        "Yes, you can save everything forever",
+        "Only for teachers",
+        "Only if you pay 1 dollar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Google Drive'?",
+      "options": [
+        "A cloud storage service by Google",
+        "A car made by Google",
+        "A game about driving",
+        "A type of road"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'OneDrive'?",
+      "options": [
+        "A cloud storage service by Microsoft",
+        "A car for one person",
+        "A type of computer",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'iCloud'?",
+      "options": [
+        "A cloud storage service by Apple",
+        "A type of ice cream",
+        "An eye doctor app",
+        "A cold room"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you delete a file in the cloud?",
+      "options": [
+        "It usually goes to a Trash bin first",
+        "It's gone forever instantly",
+        "The computer explodes",
+        "Nothing happens"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you edit a document in the cloud?",
+      "options": [
+        "Yes, many services allow this",
+        "No, you must download it first",
+        "Only if you have a pen",
+        "Only in the morning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Server'?",
+      "options": [
+        "A computer that provides data to other computers",
+        "Someone who brings food",
+        "A type of tennis shot",
+        "A large box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is cloud storage safe?",
+      "options": [
+        "Usually yes, if you use a strong password",
+        "No, everyone can see it",
+        "Only if you hide the computer",
+        "Only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use the cloud for photos?",
+      "options": [
+        "To save space on our phones",
+        "To make them look better",
+        "To turn them into clouds",
+        "To make them fly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Data Center'?",
+      "options": [
+        "A building full of servers",
+        "A place to buy data",
+        "A type of school",
+        "A computer shop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Uploading to the cloud' mean?",
+      "options": [
+        "Sending your file to the internet storage",
+        "Throwing the file up",
+        "Printing the file",
+        "Making the file bigger"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can two people edit the same cloud file at once?",
+      "options": [
+        "Yes, it's called collaboration",
+        "No, one at a time",
+        "Only if they are siblings",
+        "Only if they have the same name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Shared Link'?",
+      "options": [
+        "A URL that lets others see your cloud file",
+        "A link made of metal",
+        "A secret code",
+        "A type of sausage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Storage Space'?",
+      "options": [
+        "The amount of room for files",
+        "Space for rockets",
+        "A room in the attic",
+        "The size of the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you run out of cloud space?",
+      "options": [
+        "You can't save more until you delete or buy more",
+        "The computer stops working",
+        "The cloud turns black",
+        "Nothing, it's fine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the cloud part of the Internet?",
+      "options": [
+        "Yes",
+        "No",
+        "Only sometimes",
+        "Only for experts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you store your passwords in an unprotected cloud file?",
+      "options": [
+        "No, it's not safe",
+        "Yes, it's easy to find",
+        "Only if it's a long list",
+        "Only for fun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: game",
+      "answer": "game"
+    }
+  ]
+}

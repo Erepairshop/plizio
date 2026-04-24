@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Online kutatás",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi az a keresőmotor?",
+        "options": [
+          "Egy program, ami segít információt találni a neten",
+          "Egy autó motorja",
+          "A billentyűzet",
+          "Egy játék"
+        ],
+        "answer": "Egy program, ami segít információt találni a neten"
+      },
+      {
+        "question": "Melyik a legismertebb keresőmotor?",
+        "options": [
+          "Google",
+          "Minecraft",
+          "Scratch",
+          "Paint"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Mit jelentenek a kulcsszavak?",
+        "options": [
+          "A kereséshez használt legfontosabb szavak",
+          "Titkos kódok",
+          "A gép gombjai",
+          "A jelszavunk"
+        ],
+        "answer": "A kereséshez használt legfontosabb szavak"
+      },
+      {
+        "question": "Miért fontos több forrást is megnézni?",
+        "options": [
+          "Hogy biztosak legyünk az információ pontosságában",
+          "Mert így több ideig tart",
+          "Mert szebb",
+          "Nem fontos"
+        ],
+        "answer": "Hogy biztosak legyünk az információ pontosságában"
+      },
+      {
+        "question": "Minden igaz, amit az interneten olvasunk?",
+        "options": [
+          "Nem, mindig kritikusan kell kezelni",
+          "Igen, mindent",
+          "Csak ami színes",
+          "Csak amit a barátaink írnak"
+        ],
+        "answer": "Nem, mindig kritikusan kell kezelni"
+      },
+      {
+        "question": "Mi az a Wikipédia?",
+        "options": [
+          "Egy közösség által szerkesztett online enciklopédia",
+          "Egy bolt",
+          "Egy játékoldal",
+          "Egy videómegosztó"
+        ],
+        "answer": "Egy közösség által szerkesztett online enciklopédia"
+      },
+      {
+        "question": "Hogyan kereshetünk pontos kifejezésre?",
+        "options": [
+          "Idézőjelek közé tesszük \"így\"",
+          "Csupa nagybetűvel",
+          "Kiabálunk",
+          "Sok felkiáltójellel"
+        ],
+        "answer": "Idézőjelek közé tesszük \"így\""
+      },
+      {
+        "question": "Mi az a megbízható forrás?",
+        "options": [
+          "Hivatalos, ellenőrzött adatokkal rendelkező oldal",
+          "Bárki blogja",
+          "Egy névtelen komment",
+          "Egy vicces kép"
+        ],
+        "answer": "Hivatalos, ellenőrzött adatokkal rendelkező oldal"
+      },
+      {
+        "question": "Mit jelent a 'plágium'?",
+        "options": [
+          "Más munkájának sajátként való feltüntetése",
+          "Egy betegség",
+          "Egy bolygó",
+          "A net sebessége"
+        ],
+        "answer": "Más munkájának sajátként való feltüntetése"
+      },
+      {
+        "question": "Hogyan kerülhetjük el a plágiumot?",
+        "options": [
+          "Forrásmegjelöléssel (hivatkozással)",
+          "Nem másolunk",
+          "Átfogalmazzuk",
+          "Minden felsorolt"
+        ],
+        "answer": "Minden felsorolt"
+      },
+      {
+        "question": "Mi az a URL?",
+        "options": [
+          "Weboldal címe (pl. www.google.hu)",
+          "A gép neve",
+          "Egy felhasználónév",
+          "Egy titkos kód"
+        ],
+        "answer": "Weboldal címe (pl. www.google.hu)"
+      },
+      {
+        "question": "Mire jó a képkereső?",
+        "options": [
+          "Kifejezetten képek találására",
+          "Képek rajzolására",
+          "Képek törlésére",
+          "Képek eladására"
+        ],
+        "answer": "Kifejezetten képek találására"
+      },
+      {
+        "question": "Mi az a böngésző előzmény?",
+        "options": [
+          "A korábban meglátogatott oldalak listája",
+          "A jövőbeli tervek",
+          "A gép kora",
+          "A billentyűzet múltja"
+        ],
+        "answer": "A korábban meglátogatott oldalak listája"
+      },
+      {
+        "question": "Mit jelent a 'könyvjelző'?",
+        "options": [
+          "Elmentett weboldal a gyors eléréshez",
+          "Egy papír a könyvben",
+          "A monitor széle",
+          "Egy gomb"
+        ],
+        "answer": "Elmentett weboldal a gyors eléréshez"
+      },
+      {
+        "question": "Mire kell figyelni hírek olvasásakor?",
+        "options": [
+          "Álhírekre (fake news)",
+          "A betűk színére",
+          "A reklámok számára",
+          "A gép hangjára"
+        ],
+        "answer": "Álhírekre (fake news)"
+      },
+      {
+        "question": "Mit jelent a '.hu' a végén?",
+        "options": [
+          "Magyarországi domain",
+          "Hiba",
+          "Huncut",
+          "Hosszú"
+        ],
+        "answer": "Magyarországi domain"
+      },
+      {
+        "question": "Mit jelent a '.com'?",
+        "options": [
+          "Kereskedelmi (commercial) domain",
+          "Komoly",
+          "Könnyű",
+          "Kerek"
+        ],
+        "answer": "Kereskedelmi (commercial) domain"
+      },
+      {
+        "question": "Mit jelent az 'edu' a címben?",
+        "options": [
+          "Oktatási (educational) intézmény",
+          "Édes",
+          "Egyszerű",
+          "Eladó"
+        ],
+        "answer": "Oktatási (educational) intézmény"
+      },
+      {
+        "question": "Mi az az álhír?",
+        "options": [
+          "Szándékosan megtévesztő, hamis információ",
+          "Egy régi hír",
+          "Egy vicces hír",
+          "Egy rövid hír"
+        ],
+        "answer": "Szándékosan megtévesztő, hamis információ"
+      },
+      {
+        "question": "Hogyan ellenőrizhetjük egy kép eredetét?",
+        "options": [
+          "Fordított képkereséssel",
+          "Ránézéssel",
+          "Megkérdezzük a képet",
+          "Nem lehet"
+        ],
+        "answer": "Fordított képkereséssel"
+      },
+      {
+        "question": "Miért fontos a dátum egy információnál?",
+        "options": [
+          "Hogy tudjuk, mennyire friss az adat",
+          "Mert szép a szám",
+          "Hogy tudjuk, mikor van szünet",
+          "Nem fontos"
+        ],
+        "answer": "Hogy tudjuk, mennyire friss az adat"
+      },
+      {
+        "question": "Mit jelent az 'inkognitó mód'?",
+        "options": [
+          "A böngésző nem menti az előzményeket",
+          "Láthatatlanok leszünk a szobában",
+          "Ingyen lesz a net",
+          "Gyorsabb lesz a gép"
+        ],
+        "answer": "A böngésző nem menti az előzményeket"
+      },
+      {
+        "question": "Mi az a hirdetés (reklám)?",
+        "options": [
+          "Fizetett tartalom valami eladására",
+          "Ingyen ajándék",
+          "A kód része",
+          "Hibaüzenet"
+        ],
+        "answer": "Fizetett tartalom valami eladására"
+      },
+      {
+        "question": "Hogyan szűrhetjük a találatokat idő szerint?",
+        "options": [
+          "A keresési eszközöknél beállítva",
+          "Várunk",
+          "Visszaforgatjuk az órát",
+          "Sehogy"
+        ],
+        "answer": "A keresési eszközöknél beállítva"
+      },
+      {
+        "question": "Mi az a digitális írástudás?",
+        "options": [
+          "Képesség az online eszközök okos használatára",
+          "Szép írás a gépen",
+          "Gépelés",
+          "Játéktudás"
+        ],
+        "answer": "Képesség az online eszközök okos használatára"
+      }
+    ],
+    "typing": [
+      "keresés",
+      "információ",
+      "forrás",
+      "megbízható",
+      "kulcsszó",
+      "böngésző",
+      "hivatkozás",
+      "adat",
+      "igazság",
+      "tudás"
+    ]
+  }
+}

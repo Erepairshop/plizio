@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Google Docs",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is Google Docs?",
+      "options": [
+        "An online word processor",
+        "A place to find doctors",
+        "A type of game",
+        "A drawing app"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do you use Google Docs for?",
+      "options": [
+        "Writing stories and reports",
+        "Playing music",
+        "Watching movies",
+        "Baking"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does Google Docs save automatically?",
+      "options": [
+        "Yes, every few seconds",
+        "No, you must click Save",
+        "Only when you close it",
+        "Only on Fridays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sharing' in Google Docs?",
+      "options": [
+        "Letting others see or edit your doc",
+        "Giving your computer away",
+        "Splitting a cookie",
+        "Typing together"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where are Google Docs files stored?",
+      "options": [
+        "In Google Drive (the cloud)",
+        "On a floppy disk",
+        "Inside the keyboard",
+        "Only on the monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make text **bold**?",
+      "options": [
+        "Click the 'B' button",
+        "Shout at the screen",
+        "Type harder",
+        "Click the 'I' button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make text *italic*?",
+      "options": [
+        "Click the 'I' button",
+        "Tilt the monitor",
+        "Type sideways",
+        "Click the 'U' button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you underline text?",
+      "options": [
+        "Click the 'U' button",
+        "Draw a line with a pen",
+        "Use a ruler",
+        "Click the 'B' button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Font'?",
+      "options": [
+        "The style of the text characters",
+        "A water feature",
+        "A type of food",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you change the size of the text?",
+      "options": [
+        "Using the font size number",
+        "Stretching the monitor",
+        "Typing more words",
+        "Using a magnifying glass"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Alignment'?",
+      "options": [
+        "The position of text (left, center, right)",
+        "Being friends",
+        "A type of exercise",
+        "A math problem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you insert an image into a Google Doc?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you draw it",
+        "Only black and white"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Comment'?",
+      "options": [
+        "A note added to the side of the doc",
+        "A funny joke",
+        "A type of punctuation",
+        "A loud noise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Undo'?",
+      "options": [
+        "Taking back the last thing you did",
+        "Doing it again",
+        "Closing the file",
+        "Deleting everything"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the shortcut for Undo?",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + S"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Redo'?",
+      "options": [
+        "Putting back what you just undid",
+        "Doing it worse",
+        "Changing the color",
+        "A type of game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you talk to write in Google Docs?",
+      "options": [
+        "Yes, using Voice Typing",
+        "No, only typing",
+        "Only if you sing",
+        "Only on a phone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Spell Check'?",
+      "options": [
+        "A tool that finds and fixes typos",
+        "Checking if you can do magic",
+        "A type of hex",
+        "A math test"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you invite someone to your doc?",
+      "options": [
+        "Click the 'Share' button and type their email",
+        "Call them on the phone",
+        "Wave at them",
+        "Send a paper letter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Bullet points'?",
+      "options": [
+        "A list with small dots",
+        "Points from a gun",
+        "A fast train",
+        "A type of circle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you export a Google Doc as a PDF?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's short",
+        "Only if you have a printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Title' style?",
+      "options": [
+        "A preset for big, important text",
+        "The name of a book",
+        "A king's name",
+        "A type of hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Toolbar'?",
+      "options": [
+        "The strip with buttons like Bold and Italic",
+        "A bar for tools like hammers",
+        "The bottom of the screen",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you see the history of changes in a doc?",
+      "options": [
+        "Yes, it's called Version History",
+        "No, once it's changed, it's gone",
+        "Only for teachers",
+        "Only if you take a photo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is Google Docs free?",
+      "options": [
+        "Yes, with a Google account",
+        "No, it costs $100",
+        "Only for doctors",
+        "Only in the US"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: game",
+      "answer": "game"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: learn",
+      "answer": "learn"
+    }
+  ]
+}

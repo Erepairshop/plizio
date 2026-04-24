@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Játékfejlesztés alap",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi az első lépés egy játék készítésénél?",
+        "options": [
+          "Tervezés",
+          "Kódolás",
+          "Eladás",
+          "Törlés"
+        ],
+        "answer": "Tervezés"
+      },
+      {
+        "question": "Mi az a 'játékmenet' (gameplay)?",
+        "options": [
+          "A szabályok és a játékélmény",
+          "A kód színe",
+          "A monitor márkája",
+          "A billentyűzet"
+        ],
+        "answer": "A szabályok és a játékélmény"
+      },
+      {
+        "question": "Ki a játékos?",
+        "options": [
+          "Az a személy, aki játszik",
+          "A számítógép",
+          "A programozó",
+          "A macska"
+        ],
+        "answer": "Az a személy, aki játszik"
+      },
+      {
+        "question": "Mit jelent az interaktivitás?",
+        "options": [
+          "A játékos hatással van a játékra",
+          "A játék magától fut",
+          "A monitor világít",
+          "A gép zúg"
+        ],
+        "answer": "A játékos hatással van a játékra"
+      },
+      {
+        "question": "Milyen elemek kellenek egy játékhoz?",
+        "options": [
+          "Cél, akadályok, pontszám",
+          "Csak víz",
+          "Csak egy kép",
+          "Semmi"
+        ],
+        "answer": "Cél, akadályok, pontszám"
+      },
+      {
+        "question": "Mi az a 'felhasználói felület' (UI)?",
+        "options": [
+          "Gombok, pontszám kijelző stb.",
+          "A gép hátulja",
+          "A szék",
+          "A billentyűzet alja"
+        ],
+        "answer": "Gombok, pontszám kijelző stb."
+      },
+      {
+        "question": "Mit jelent a 'Game Over'?",
+        "options": [
+          "Vége a játéknak (vesztettünk)",
+          "Indul a játék",
+          "Nyerünk",
+          "Szünet"
+        ],
+        "answer": "Vége a játéknak (vesztettünk)"
+      },
+      {
+        "question": "Mi a győzelmi feltétel?",
+        "options": [
+          "Ami kell a nyeréshez",
+          "Ami kell a vesztéshez",
+          "Ami kell a rajzoláshoz",
+          "Ami kell a mentéshez"
+        ],
+        "answer": "Ami kell a nyeréshez"
+      },
+      {
+        "question": "Mi az a prototípus?",
+        "options": [
+          "A játék első, egyszerű változata",
+          "A kész játék",
+          "Egy hiba",
+          "A játék ára"
+        ],
+        "answer": "A játék első, egyszerű változata"
+      },
+      {
+        "question": "Miért fontos a tesztelés?",
+        "options": [
+          "Hogy megtaláljuk a hibákat",
+          "Hogy unatkozzunk",
+          "Hogy eladjuk",
+          "Hogy töröljük"
+        ],
+        "answer": "Hogy megtaláljuk a hibákat"
+      },
+      {
+        "question": "Mire jó a nehézségi szint?",
+        "options": [
+          "Hogy mindenki élvezhesse a játékot",
+          "Hogy elriasszuk a játékost",
+          "Hogy lassabb legyen a gép",
+          "Semmire"
+        ],
+        "answer": "Hogy mindenki élvezhesse a játékot"
+      },
+      {
+        "question": "Mi az a 'bug'?",
+        "options": [
+          "Programhiba",
+          "Bogár a kertben",
+          "Egy új funkció",
+          "A játék neve"
+        ],
+        "answer": "Programhiba"
+      },
+      {
+        "question": "Hogyan irányíthatjuk a szereplőt?",
+        "options": [
+          "Billentyűzettel vagy egérrel",
+          "Gondolattal",
+          "Sehogy",
+          "Hangos beszéddel"
+        ],
+        "answer": "Billentyűzettel vagy egérrel"
+      },
+      {
+        "question": "Mi az a 'collision detection'?",
+        "options": [
+          "Ütközésérzékelés",
+          "Színváltás",
+          "Hang lejátszás",
+          "Mentés"
+        ],
+        "answer": "Ütközésérzékelés"
+      },
+      {
+        "question": "Mire jó az életpont (HP)?",
+        "options": [
+          "Jelzi, hányszor hibázhatunk még",
+          "A gép ereje",
+          "A zene hossza",
+          "A rajz mérete"
+        ],
+        "answer": "Jelzi, hányszor hibázhatunk még"
+      },
+      {
+        "question": "Mit jelent a 'high score'?",
+        "options": [
+          "Legmagasabb pontszám",
+          "Alacsony pontszám",
+          "A kód magassága",
+          "A hang magassága"
+        ],
+        "answer": "Legmagasabb pontszám"
+      },
+      {
+        "question": "Mi az a 'level design'?",
+        "options": [
+          "A pályák tervezése",
+          "A kód írása",
+          "A rajzolás",
+          "A hangok vágása"
+        ],
+        "answer": "A pályák tervezése"
+      },
+      {
+        "question": "Mi az a 'balanszolás'?",
+        "options": [
+          "A játék nehézségének beállítása",
+          "Egyensúlyozás egy lábon",
+          "A színek keverése",
+          "A kód törlése"
+        ],
+        "answer": "A játék nehézségének beállítása"
+      },
+      {
+        "question": "Mire való a háttérzene?",
+        "options": [
+          "Hangulatkeltésre",
+          "Zavarásra",
+          "A kód futtatására",
+          "Semmire"
+        ],
+        "answer": "Hangulatkeltésre"
+      },
+      {
+        "question": "Mi az a 'visszajelzés' (feedback)?",
+        "options": [
+          "A játék reagál a játékos tetteire",
+          "Visszafelé beszél a gép",
+          "Törlődik a mentés",
+          "Lassul a gép"
+        ],
+        "answer": "A játék reagál a játékos tetteire"
+      },
+      {
+        "question": "Mit jelent a 'storyboard'?",
+        "options": [
+          "A játék történetének vázlata képekben",
+          "Egy deszka",
+          "A billentyűzet",
+          "A monitor kerete"
+        ],
+        "answer": "A játék történetének vázlata képekben"
+      },
+      {
+        "question": "Lehet-e többszereplős játékot készíteni Scratch-ben?",
+        "options": [
+          "Igen, egy gépen vagy felhő változókkal",
+          "Nem",
+          "Csak ha van két egér",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, egy gépen vagy felhő változókkal"
+      },
+      {
+        "question": "Mi az a 'bónusz' a játékban?",
+        "options": [
+          "Extra pont vagy segítség",
+          "Büntetés",
+          "Hiba",
+          "A játék neve"
+        ],
+        "answer": "Extra pont vagy segítség"
+      },
+      {
+        "question": "Hogyan lehet szintet váltani?",
+        "options": [
+          "Háttérváltással és változók módosításával",
+          "A gép kikapcsolásával",
+          "Ugrálással",
+          "Sehogy"
+        ],
+        "answer": "Háttérváltással és változók módosításával"
+      },
+      {
+        "question": "Mi a legfontosabb a sikeres játékhoz?",
+        "options": [
+          "Hogy szórakoztató legyen",
+          "Hogy drága legyen",
+          "Hogy sok kód legyen benne",
+          "Hogy bonyolult legyen"
+        ],
+        "answer": "Hogy szórakoztató legyen"
+      }
+    ],
+    "typing": [
+      "tervezés",
+      "játékos",
+      "szabály",
+      "pontszám",
+      "győzelem",
+      "tesztelés",
+      "szint",
+      "irányítás",
+      "felület",
+      "élmény"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Proiect Final K3",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un proiect final?",
+      "options": [
+        "O lucrare care arată tot ce am învățat",
+        "O pauză lungă",
+        "Un examen greu",
+        "O joacă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem alege noi tema proiectului?",
+      "options": [
+        "Deseori da, cu acordul profesorului",
+        "Nu, e secretă",
+        "Doar dacă tragem la sorți",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne pregătim pentru proiect?",
+      "options": [
+        "Facem un plan și adunăm informații",
+        "Începem fără să știm ce facem",
+        "Dormim",
+        "Așteptăm să fie gata"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi Scratch în proiectul final?",
+      "options": [
+        "Da, e o idee excelentă",
+        "Nu, e interzis",
+        "Doar pentru desene",
+        "Doar dacă avem timp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este importantă prezentarea proiectului?",
+      "options": [
+        "Da, să explicăm colegilor ce am făcut",
+        "Nu, doar să-l trimitem",
+        "Nu contează",
+        "E plictisitoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a arăta ideile proiectului?",
+      "options": [
+        "Google Slides",
+        "Excel",
+        "Notepad",
+        "Calculatorul de mate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem lucra în echipă?",
+      "options": [
+        "Da, colaborarea e foarte importantă",
+        "Nu, doar singuri",
+        "Doar dacă suntem prieteni",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă avem o problemă în timpul proiectului?",
+      "options": [
+        "Căutăm soluții și întrebăm profesorul",
+        "Abandonăm proiectul",
+        "Plângem",
+        "Ignorăm problema"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp durează un proiect final?",
+      "options": [
+        "Mai multe ore sau zile",
+        "5 minute",
+        "Un an",
+        "O secundă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce trebuie să conțină un proiect bun?",
+      "options": [
+        "Informații clare, imagini, creativitate",
+        "Doar text mult",
+        "Doar poze fără text",
+        "Mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi imagini de pe net în proiect?",
+      "options": [
+        "Da, respectând drepturile de autor",
+        "Nu, deloc",
+        "Doar dacă sunt mici",
+        "Doar poze cu noi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'evaluarea proiectului'?",
+      "options": [
+        "Primirea unei note sau a unui feedback",
+        "Vânzarea lui",
+        "Ștergerea lui",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce facem proiecte?",
+      "options": [
+        "Pentru a învăța să aplicăm ce știm",
+        "Ca să ne plictisim",
+        "Ca să umplem timpul",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem cere ajutorul părinților?",
+      "options": [
+        "Da, pentru sfaturi, dar munca e a noastră",
+        "Nu, e trișat",
+        "Să îl facă ei tot",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde salvăm proiectul final?",
+      "options": [
+        "În Google Drive sau pe un stick",
+        "Sub tastatură",
+        "În coșul de gunoi",
+        "Îl lăsăm pe ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este cel mai greu la un proiect?",
+      "options": [
+        "Începutul și organizarea",
+        "Închiderea calculatorului",
+        "Mâncatul",
+        "Dormitul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune video-uri în proiect?",
+      "options": [
+        "Da, dacă sunt utile",
+        "Nu",
+        "Doar desene animate",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'originalitate'?",
+      "options": [
+        "Să vii cu ideile tale proprii",
+        "Să copiezi tot",
+        "Să scrii cu litere mari",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne simțim la finalul proiectului?",
+      "options": [
+        "Mândri de munca noastră",
+        "Triste",
+        "Obosiți mereu",
+        "Nu simțim nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi tabele în proiect?",
+      "options": [
+        "Da, pentru date",
+        "Nu, sunt plictisitoare",
+        "Doar la mate",
+        "Doar dacă sunt mici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Prezentarea trebuie să fie?",
+      "options": [
+        "Limpede și atractivă",
+        "Foarte lungă și înceată",
+        "Secretă",
+        "Fără poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'concluzie' la un proiect?",
+      "options": [
+        "Ce am învățat și rezultatul final",
+        "Startul",
+        "O eroare",
+        "O poză de final"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem publica proiectul pe site-ul școlii?",
+      "options": [
+        "Da, cu permisiune",
+        "Nu, e secret",
+        "Doar dacă e cel mai bun",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Proiectul final este?",
+      "options": [
+        "O aventură a cunoașterii",
+        "O pedeapsă",
+        "O eroare",
+        "O pierdere de timp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sunteți gata pentru clasa a 4-a?",
+      "options": [
+        "Da, cu siguranță!",
+        "Nu încă",
+        "Poate",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: proiect",
+      "answer": "proiect"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: echipă",
+      "answer": "echipă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: sarcină",
+      "answer": "sarcină"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: prezentare",
+      "answer": "prezentare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: muncă",
+      "answer": "muncă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: încheiere",
+      "answer": "încheiere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: evaluare",
+      "answer": "evaluare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rezultat",
+      "answer": "rezultat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: împreună",
+      "answer": "împreună"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: scop",
+      "answer": "scop"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Gândire Inginerească",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce face un inginer?",
+      "options": [
+        "Proiectează și construiește soluții la probleme",
+        "Doar doarme",
+        "Doar desenează",
+        "Doar se joacă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este primul pas în inginerie?",
+      "options": [
+        "Înțelegerea problemei",
+        "Construcția imediată",
+        "Vânzarea soluției",
+        "Ignorarea ei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'prototip'?",
+      "options": [
+        "Un model de testare a unei idei",
+        "Un tip de robot",
+        "O mâncare",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce e importantă testarea?",
+      "options": [
+        "Pentru a vedea ce funcționează și ce nu",
+        "Ca să pierdem timpul",
+        "Ca să stricăm totul",
+        "Nu e importantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă prototipul nu merge?",
+      "options": [
+        "Îl îmbunătățim (iterăm)",
+        "Îl aruncăm și plângem",
+        "Mințim că merge",
+        "Nu facem nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ingineria se bazează pe?",
+      "options": [
+        "Știință și matematică",
+        "Noroc chior",
+        "Povești",
+        "Vise"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'design'?",
+      "options": [
+        "Planul sau schița unui obiect",
+        "O culoare",
+        "O haină",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem fi ingineri de software?",
+      "options": [
+        "Da, cei care creează programe",
+        "Nu, inginerii fac doar poduri",
+        "Doar dacă avem cască",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'colaborare'?",
+      "options": [
+        "Munca împreună pentru un scop comun",
+        "Cearta cu colegii",
+        "Munca singur în peșteră",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'creativitatea' în inginerie?",
+      "options": [
+        "Găsirea unor soluții noi și interesante",
+        "Desenarea cu multe culori",
+        "Visatul cu ochii deschiși",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Inginerii folosesc calculatoare?",
+      "options": [
+        "Da, foarte mult",
+        "Nu, deloc",
+        "Doar pentru jocuri",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'optimizare'?",
+      "options": [
+        "Să faci ceva să funcționeze cât mai bine",
+        "Să îl faci mai mare",
+        "Să îl faci mai scump",
+        "Să îl strici"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt 'constrângerile'?",
+      "options": [
+        "Limitele (ex. bani, timp, materiale)",
+        "Niște sfori",
+        "O eroare de mate",
+        "O regulă de joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Este greșeala utilă în inginerie?",
+      "options": [
+        "Da, învățăm din ea",
+        "Nu, e un dezastru",
+        "Doar dacă nu ne vede nimeni",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'sistem'?",
+      "options": [
+        "Un ansamblu de piese care lucrează împreună",
+        "O singură piesă",
+        "O eroare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Inginerii se gândesc la siguranță?",
+      "options": [
+        "Da, e prioritatea numărul unu",
+        "Nu, doar să meargă",
+        "Doar dacă îi obligă cineva",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi Scratch pentru a modela idei?",
+      "options": [
+        "Da",
+        "Nu, e doar pentru joacă",
+        "Doar pentru desene",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'brainstorming'?",
+      "options": [
+        "Generarea multor idei rapid",
+        "O furtună reală",
+        "O durere de cap",
+        "O eroare de net"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ingineria ajută lumea?",
+      "options": [
+        "Da, rezolvă probleme mari",
+        "Nu, doar complică lucrurile",
+        "Doar în filme",
+        "Nu contează"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'durabilitate'?",
+      "options": [
+        "Cât de mult rezistă un obiect în timp",
+        "Cât de greu e",
+        "Ce culoare are",
+        "Cât costă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Un inginer trebuie să știe să comunice?",
+      "options": [
+        "Da, ca să explice ideile",
+        "Nu, e mai bine să tacă",
+        "Doar prin cod",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o 'specificație'?",
+      "options": [
+        "O cerință detaliată despre produs",
+        "Ochelari",
+        "O poză",
+        "Un sunet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ingineria necesită răbdare?",
+      "options": [
+        "Da, multă",
+        "Nu, se face totul instant",
+        "Doar pentru roboți",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem construi roboți ca ingineri?",
+      "options": [
+        "Da",
+        "Nu, roboții se fac singuri",
+        "Doar în spațiu",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Copiii pot gândi ca niște ingineri?",
+      "options": [
+        "Da, prin curiozitate și creație",
+        "Nu, sunt prea mici",
+        "Doar dacă au note mari",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: proiectare",
+      "answer": "proiectare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: construcție",
+      "answer": "construcție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: testare",
+      "answer": "testare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: reparare",
+      "answer": "reparare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: idee",
+      "answer": "idee"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: model",
+      "answer": "model"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: structură",
+      "answer": "structură"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: funcționare",
+      "answer": "funcționare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: eficiență",
+      "answer": "eficiență"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: creație",
+      "answer": "creație"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Editare Foto",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă editare foto?",
+      "options": [
+        "Modificarea unei fotografii pe calculator",
+        "Făcutul unei poze noi",
+        "Vizionarea unui film",
+        "Desenarea pe perete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Crop' (Decupare)?",
+      "options": [
+        "Tăierea marginilor unei poze",
+        "Schimbarea culorii",
+        "Ștergerea pozei",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un 'Filtru'?",
+      "options": [
+        "Schimbă aspectul pozei (ex. alb-negru)",
+        "Curăță praful",
+        "Închide pozele rele",
+        "Face zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Brightness'?",
+      "options": [
+        "Luminozitatea pozei",
+        "Culoarea pozei",
+        "Mărimea pozei",
+        "Numele autorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Contrast'?",
+      "options": [
+        "Diferența dintre zonele deschise și închise",
+        "O greșeală de mate",
+        "O culoare caldă",
+        "O poză mică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem roti o poză?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă rotim monitorul",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Resize' (Redimensionare)?",
+      "options": [
+        "Schimbarea mărimii pozei",
+        "Schimbarea culorii",
+        "Tăierea pozei",
+        "Ștergerea ei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Red-eye removal'?",
+      "options": [
+        "Eliminarea ochilor roșii din poze",
+        "Un joc cu monștri",
+        "O poză cu un iepure",
+        "O eroare de blitz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune text peste o poză?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cifre",
+        "Doar la final"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Saturation'?",
+      "options": [
+        "Intensitatea culorilor",
+        "Greutatea pozei",
+        "Vârsta pozei",
+        "Un zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'colaj'?",
+      "options": [
+        "Mai multe poze puse împreună",
+        "O singură poză mică",
+        "O eroare",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem șterge un obiect nedorit dintr-o poză?",
+      "options": [
+        "Da, în unele programe",
+        "Nu, e permanent",
+        "Doar dacă punem o steluță peste el",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un program de editat poze?",
+      "options": [
+        "Google Photos sau Photoshop",
+        "Word",
+        "Excel",
+        "Minecraft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pozele editate se pot salva ca fișier nou?",
+      "options": [
+        "Da, pentru a păstra și originalul",
+        "Nu, se șterge prima",
+        "Doar dacă sunt mici",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Exposure'?",
+      "options": [
+        "Câtă lumină a primit poza la început",
+        "O ieșire la muzeu",
+        "O poză secretă",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Sharpen'?",
+      "options": [
+        "Face detaliile mai clare",
+        "Ascute un creion",
+        "Taie poza",
+        "Face poza albastră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Blur'?",
+      "options": [
+        "Face o parte a pozei neclară",
+        "Face poza luminoasă",
+        "Șterge poza",
+        "Cântă muzică"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune rame la poze?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar rame reale de lemn",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Rotate 90 degrees'?",
+      "options": [
+        "Rotește poza la un sfert de cerc",
+        "O întoarce cu susul în jos",
+        "O micșorează",
+        "O șterge"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Flip'?",
+      "options": [
+        "Oglindirea pozei",
+        "Aruncarea ei",
+        "Închiderea ei",
+        "Colorarea ei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pozele editate ocupă mai mult spațiu?",
+      "options": [
+        "Depinde de format și calitate",
+        "Nu, deloc",
+        "Da, mereu",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem edita poze pe telefon?",
+      "options": [
+        "Da, există multe aplicații",
+        "Nu, doar pe calculator",
+        "Doar pe monitor mare",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Undo' în editare?",
+      "options": [
+        "Revine la pasul anterior",
+        "Salvează tot",
+        "Închide programul",
+        "Face o poză nouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Editarea poate schimba realitatea?",
+      "options": [
+        "Da, putem face lucrurile să pară altfel",
+        "Nu, pozele spun mereu adevărul",
+        "Doar pozele alb-negru",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este cel mai important în editare?",
+      "options": [
+        "Să păstrăm aspectul natural (dacă dorim)",
+        "Să punem toate filtrele deodată",
+        "Să ștergem totul",
+        "Să facem poza neagră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: tăiere",
+      "answer": "tăiere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: filtru",
+      "answer": "filtru"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: luminozitate",
+      "answer": "luminozitate"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: contrast",
+      "answer": "contrast"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: redimensionare",
+      "answer": "redimensionare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: rotire",
+      "answer": "rotire"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: corecție",
+      "answer": "corecție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: efect",
+      "answer": "efect"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: strat",
+      "answer": "strat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: export",
+      "answer": "export"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Browser Tabs",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What are browser tabs for?",
+      "options": [
+        "Having multiple websites open in one window",
+        "Closing the computer",
+        "Organizing files on the desk",
+        "Changing the screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where are tabs usually located?",
+      "options": [
+        "At the top of the browser window",
+        "At the bottom of the monitor",
+        "On the keyboard",
+        "Inside the mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you open a new tab?",
+      "options": [
+        "Click the '+' button or use Ctrl+T",
+        "Turn the computer off and on",
+        "Right-click the desktop",
+        "Shout 'New Tab'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'X' on a tab do?",
+      "options": [
+        "Closes that specific tab",
+        "Makes the tab bigger",
+        "Deletes the website forever",
+        "Turns off the internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you move tabs around?",
+      "options": [
+        "Yes, you can click and drag them",
+        "No, they are stuck",
+        "Only if you have two mice",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you switch between tabs?",
+      "options": [
+        "Click on the tab you want to see",
+        "Close the browser and reopen it",
+        "Wait for it to change",
+        "Press the spacebar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you have too many tabs open?",
+      "options": [
+        "The browser might slow down",
+        "The computer will explode",
+        "The screen will turn green",
+        "Nothing at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you 'pin' a tab?",
+      "options": [
+        "Yes, to keep it small and at the start",
+        "Yes, with a real pin",
+        "No, it's impossible",
+        "Only in some countries"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'reopening a closed tab' do?",
+      "options": [
+        "Opens the last tab you accidentally closed",
+        "Opens a new website",
+        "Starts a game",
+        "Cleans the history"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the shortcut to close a tab?",
+      "options": [
+        "Ctrl + W",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + Alt + Del"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Tab Group'?",
+      "options": [
+        "A way to organize related tabs together",
+        "A group of people talking about tabs",
+        "A music band",
+        "A type of computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you drag a tab out to make a new window?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it's raining",
+        "Only on laptops"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Duplicate Tab' mean?",
+      "options": [
+        "Opens the same website in a new tab",
+        "Deletes the tab",
+        "Changes the website",
+        "Makes the tab twice as big"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the 'Refresh' button usually located?",
+      "options": [
+        "Near the address bar",
+        "Under the mouse",
+        "On the spacebar",
+        "In the trash bin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you see which tab is playing sound?",
+      "options": [
+        "There is usually a small speaker icon on the tab",
+        "The whole screen flashes",
+        "The tab turns red",
+        "The computer vibrates"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Incognito' or 'Private' mode?",
+      "options": [
+        "Browsing without saving history",
+        "Browsing with a mask on",
+        "Browsing very slowly",
+        "Browsing only for robots"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you mute a tab?",
+      "options": [
+        "Yes, usually by right-clicking it",
+        "No, you must turn off the speakers",
+        "Only if you whisper",
+        "Only on tablets"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Home' tab?",
+      "options": [
+        "A tab that opens your favorite page",
+        "A tab about houses",
+        "The first tab ever made",
+        "A secret tab"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have the same website open in two tabs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you pay",
+        "Only if they are different colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why would you use tabs instead of many windows?",
+      "options": [
+        "It's easier to organize and uses less space",
+        "It's more expensive",
+        "It's slower",
+        "Because windows are scary"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many tabs can you open?",
+      "options": [
+        "As many as your computer can handle",
+        "Exactly 10",
+        "Only 1",
+        "Always 100"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the icon for a new tab usually?",
+      "options": [
+        "A plus sign (+)",
+        "A minus sign (-)",
+        "A star",
+        "A circle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'address bar'?",
+      "options": [
+        "Where you see the URL of the active tab",
+        "A place to buy addresses",
+        "A bar for drinking",
+        "Part of the keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does closing the browser close all tabs?",
+      "options": [
+        "Yes, usually",
+        "No, they stay open on the screen",
+        "Only the first one",
+        "Only the last one"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search for things directly in the address bar?",
+      "options": [
+        "Yes, most modern browsers allow this",
+        "No, you must go to Google first",
+        "Only if you type 'Search'",
+        "Only for math"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Tabellen-Grundlagen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tabellenprogramm?",
+      "options": [
+        "Z.B. Google Tabellen oder Excel",
+        "Paint",
+        "Browser",
+        "YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woraus besteht eine Tabelle?",
+      "options": [
+        "Zeilen und Spalten",
+        "Nur Kreisen",
+        "Nur Text",
+        "Nur Bildern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man ein einzelnes Kästchen?",
+      "options": [
+        "Zelle",
+        "Box",
+        "Punkt",
+        "Haus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie werden Spalten meistens benannt?",
+      "options": [
+        "Mit Buchstaben (A, B, C...)",
+        "Mit Zahlen",
+        "Mit Namen",
+        "Mit Farben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie werden Zeilen meistens benannt?",
+      "options": [
+        "Mit Zahlen (1, 2, 3...)",
+        "Mit Buchstaben",
+        "Mit Tiernamen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Zelle wie 'A1'?",
+      "options": [
+        "Die Zelle in Spalte A und Zeile 1",
+        "Ein Spiel",
+        "Ein Code",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man in eine Zelle schreiben?",
+      "options": [
+        "Texte, Zahlen, Formeln",
+        "Nur Musik",
+        "Nur Filme",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Formel?",
+      "options": [
+        "Eine Rechenvorschrift (z.B. Summe)",
+        "Ein Zauberspruch",
+        "Ein Name",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Zeichen beginnen Formeln oft?",
+      "options": [
+        "=",
+        "+",
+        "#",
+        "!"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit Tabellen rechnen?",
+      "options": [
+        "Ja, sehr gut",
+        "Nein",
+        "Nur mit dem Kopf",
+        "Nur bei Regen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür sind Tabellen gut?",
+      "options": [
+        "Listen, Pläne, Rechnungen",
+        "Nur zum Malen",
+        "Nur zum Schlafen",
+        "Zum Fernsehen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Breite einer Spalte?",
+      "options": [
+        "An der Linie oben ziehen",
+        "PC schütteln",
+        "Neu tippen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Zellen einfärben?",
+      "options": [
+        "Ja, zur besseren Übersicht",
+        "Nein",
+        "Nur schwarz",
+        "Nur weiß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Diagramm?",
+      "options": [
+        "Eine bildliche Darstellung von Zahlen",
+        "Ein Foto",
+        "Ein langer Text",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Summe?",
+      "options": [
+        "Das Ergebnis einer Plus-Rechnung",
+        "Ein Minus",
+        "Ein Mal",
+        "Ein Geteilt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabellen auch teilen?",
+      "options": [
+        "Ja, wie Dokumente",
+        "Nein",
+        "Nur auf Papier",
+        "Nur per Post"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man eine Zeile ein?",
+      "options": [
+        "Rechtsklick -> Zeile einfügen",
+        "Tastatur drücken",
+        "Monitor drehen",
+        "Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Sortieren'?",
+      "options": [
+        "Daten nach ABC oder Größe ordnen",
+        "Daten löschen",
+        "Daten verstecken",
+        "Daten bemalen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Filtern'?",
+      "options": [
+        "Nur bestimmte Daten anzeigen",
+        "Daten löschen",
+        "Daten waschen",
+        "Daten drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Arbeitsblatt?",
+      "options": [
+        "Eine einzelne Seite in der Tabelle",
+        "Ein echtes Blatt Papier",
+        "Ein Buch",
+        "Ein Heft"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Tabellen ausdrucken?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit dem Handy",
+        "Nur am Freitag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Tabelle noch?",
+      "options": [
+        "Eine Gliederung von Informationen",
+        "Ein Stuhl",
+        "Ein Fenster",
+        "Ein Auto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man eine Tabelle?",
+      "options": [
+        "Meistens automatisch in der Cloud",
+        "Auf CD",
+        "Gar nicht",
+        "Auf Papier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder in Tabellen einfügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Texte",
+        "Nur Zahlen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Tabellen nur für Mathe?",
+      "options": [
+        "Nein, auch für Listen und Pläne",
+        "Ja",
+        "Nur für Lehrer",
+        "Nur für Forscher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Tabelle",
+      "answer": "Tabelle"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zelle",
+      "answer": "Zelle"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Spalte",
+      "answer": "Spalte"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zeile",
+      "answer": "Zeile"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Rechnen",
+      "answer": "Rechnen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zahlen",
+      "answer": "Zahlen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Liste",
+      "answer": "Liste"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Formel",
+      "answer": "Formel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ordnen",
+      "answer": "Ordnen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Gitter",
+      "answer": "Gitter"
+    }
+  ]
+}

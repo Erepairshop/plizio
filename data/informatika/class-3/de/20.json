@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Schleifen in Scratch",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Schleife in Scratch?",
+      "options": [
+        "Ein Block, der Befehle wiederholt",
+        "Ein Knoten",
+        "Ein Kreis",
+        "Ein Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt der Block für ewige Wiederholung?",
+      "options": [
+        "Wiederhole fortlaufend",
+        "Wiederhole 10 mal",
+        "Wiederhole bis",
+        "Stoppe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht 'Wiederhole 10 mal'?",
+      "options": [
+        "Befehle genau 10 mal ausführen",
+        "Immer weiter machen",
+        "Nichts tun",
+        "Einmal machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum nutzt man Schleifen?",
+      "options": [
+        "Um Arbeit zu sparen und Code kürzer zu machen",
+        "Damit es schöner aussieht",
+        "Damit es langsamer geht",
+        "Nur aus Spaß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn eine Schleife leer ist?",
+      "options": [
+        "Nichts wird wiederholt",
+        "Der PC explodiert",
+        "Das Projekt startet",
+        "Ein Ton erklingt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Schleife in eine Schleife legen?",
+      "options": [
+        "Ja (Verschachtelung)",
+        "Nein",
+        "Nur sonntags",
+        "Nur zwei Stück"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe haben Steuerungs-Blöcke (Schleifen)?",
+      "options": [
+        "Orange",
+        "Blau",
+        "Grün",
+        "Rot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Wiederhole bis...'?",
+      "options": [
+        "Wiederholen, bis etwas wahr ist",
+        "Immer wiederholen",
+        "Gar nicht wiederholen",
+        "Sofort stoppen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lässt man eine Figur im Kreis laufen?",
+      "options": [
+        "Bewegen und Drehen in einer Schleife",
+        "Nur Bewegen",
+        "Nur Drehen",
+        "Nichts tun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man ein Blink-Licht?",
+      "options": [
+        "Farbe ändern und Warten in Schleife",
+        "Einmal Farbe ändern",
+        "Licht ausschalten",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Warte'-Block?",
+      "options": [
+        "Pausiert das Skript kurz",
+        "Beendet alles",
+        "Macht Musik",
+        "Macht Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Schleife stoppen?",
+      "options": [
+        "Ja, z.B. mit dem 'Stoppe'-Block",
+        "Nein, nie",
+        "Nur PC ausschalten",
+        "Nur mit Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei einer Endlosschleife?",
+      "options": [
+        "Es hört niemals auf",
+        "Es hört sofort auf",
+        "Nach 10 mal ist Schluss",
+        "Nach 100 mal ist Schluss"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist 'Wiederhole fortlaufend' gut?",
+      "options": [
+        "Für Spiel-Hintergrundmusik oder Steuerung",
+        "Nur für den Anfang",
+        "Nur für das Ende",
+        "Nur für Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man die Zahl bei 'Wiederhole 10 mal' ändern?",
+      "options": [
+        "Ja, jede zahl ist möglich",
+        "Nein, immer 10",
+        "Nur bis 20",
+        "Nur bis 100"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert nach der Schleife?",
+      "options": [
+        "Das Skript darunter geht weiter",
+        "Alles ist zu Ende",
+        "Alles wird gelöscht",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man Schleifen noch?",
+      "options": [
+        "Iterationen",
+        "Kreise",
+        "Runden",
+        "Wiederholer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann eine Schleife Töne wiederholen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Bilder",
+        "Nur Texte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die Schleifen-Blöcke?",
+      "options": [
+        "Bei der Steuerung",
+        "Bei der Bewegung",
+        "Beim Aussehen",
+        "Beim Klang"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sehen Schleifen-Blöcke aus?",
+      "options": [
+        "Wie ein C-Maul, das andere umschließt",
+        "Wie ein Kreis",
+        "Wie ein Strich",
+        "Wie ein Punkt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Schleife mit einer Taste stoppen?",
+      "options": [
+        "Ja, mit Programmierung",
+        "Nein",
+        "Nur mit der Maus",
+        "Nur mit Rufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist 'Wiederhole 1 mal' sinnvoll?",
+      "options": [
+        "Meistens nicht, einmal reicht so",
+        "Ja, sehr",
+        "Immer",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man in der Schleife 'Warte' vergisst?",
+      "options": [
+        "Alles passiert sehr schnell",
+        "Alles passiert langsam",
+        "Nichts passiert",
+        "Der PC geht aus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann eine Schleife die Position ändern?",
+      "options": [
+        "Ja, wenn Bewegungsblöcke drin sind",
+        "Nein",
+        "Nur die Farbe",
+        "Nur die Größe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Schleifen darf ein Projekt haben?",
+      "options": [
+        "Beliebig viele",
+        "Nur eine",
+        "Nur zwei",
+        "Maximal zehn"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schleife",
+      "answer": "Schleife"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wiederholen",
+      "answer": "Wiederholen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Fortlaufend",
+      "answer": "Fortlaufend"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zahl",
+      "answer": "Zahl"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Steuerung",
+      "answer": "Steuerung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Endlos",
+      "answer": "Endlos"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Warten",
+      "answer": "Warten"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Skript",
+      "answer": "Skript"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Mal",
+      "answer": "Mal"
+    }
+  ]
+}

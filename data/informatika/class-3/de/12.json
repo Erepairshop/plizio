@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Google Dokumente",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Google Dokumente?",
+      "options": [
+        "Ein Schreibprogramm im Internet",
+        "Ein Malprogramm",
+        "Ein spiel",
+        "Ein Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden Google Dokumente gespeichert?",
+      "options": [
+        "Automatisch in der Cloud (Drive)",
+        "Auf einer Diskette",
+        "Nur auf Papier",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man mit Google Dokumenten machen?",
+      "options": [
+        "Texte schreiben und formatieren",
+        "Musik komponieren",
+        "Videos schneiden",
+        "Essen bestellen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man mit anderen gleichzeitig schreiben?",
+      "options": [
+        "Ja, das ist ein Hauptvorteil",
+        "Nein, immer nur einer",
+        "Nur mit Erlaubnis der Polizei",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den blinkenden Strich beim Schreiben?",
+      "options": [
+        "Cursor",
+        "Punkt",
+        "Stift",
+        "Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man Text 'fett'?",
+      "options": [
+        "Klick auf das 'B' oder 'F' Symbol",
+        "PC schütteln",
+        "Laut rufen",
+        "Text löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie macht man Text 'kursiv'?",
+      "options": [
+        "Klick auf das 'I' oder 'K' Symbol",
+        "Text drehen",
+        "Monitor schräg halten",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie unterstreicht man Text?",
+      "options": [
+        "Klick auf das 'U' Symbol",
+        "Mit einem Lineal am Monitor",
+        "Mit einem Stift",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Schriftart?",
+      "options": [
+        "Das Aussehen der Buchstaben",
+        "Die Farbe der Tinte",
+        "Die Größe des Papiers",
+        "Der Name des Autors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder in ein Dokument einfügen?",
+      "options": [
+        "Ja, über 'Einfügen'",
+        "Nein",
+        "Nur mit Kleber",
+        "Nur schwarze Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Linksbündig'?",
+      "options": [
+        "Der Text beginnt am linken Rand",
+        "Der Text ist links weg",
+        "Der Text ist blau",
+        "Der Text ist klein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zentriert'?",
+      "options": [
+        "Der Text ist in der Mitte",
+        "Der Text ist oben",
+        "Der Text ist unten",
+        "Der Text ist weg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Schriftfarbe?",
+      "options": [
+        "Über das 'A' mit dem Farbbalken",
+        "Den Monitor anmalen",
+        "Gar nicht",
+        "Tastatur wechseln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Schriftgröße?",
+      "options": [
+        "Wie groß die Buchstaben sind",
+        "Wie lang der Text ist",
+        "Wie viele Seiten es sind",
+        "Wie schwer der PC ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Zeilenumbruch?",
+      "options": [
+        "Wenn der Text in der nächsten Zeile weitergeht",
+        "Wenn der PC kaputt ist",
+        "Wenn man eine Pause macht",
+        "Wenn man löscht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man Text?",
+      "options": [
+        "Mit der Backspace- oder Entf-Taste",
+        "Mit dem Radiergummi am Monitor",
+        "Mit Wasser",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Rückgängig'-Funktion?",
+      "options": [
+        "Den letzten Schritt löschen/umkehren",
+        "Den PC ausschalten",
+        "Zurück laufen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht das Symbol für 'Rückgängig' aus?",
+      "options": [
+        "Ein gebogener Pfeil nach links",
+        "Ein gerader Pfeil",
+        "Ein Kreuz",
+        "Ein Stern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Aufzählung?",
+      "options": [
+        "Eine Liste mit Punkten oder Zahlen",
+        "Ein Rechenbeispiel",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dokumente ausdrucken?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit dem Handy",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Teilen' bei einem Dokument?",
+      "options": [
+        "Anderen Zugriff geben",
+        "Das Dokument zerreißen",
+        "Zwei Dokumente machen",
+        "Text halbieren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kommentar?",
+      "options": [
+        "Eine Anmerkung an der Seite",
+        "Ein lauter Ruf",
+        "Ein Bild",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt das Dateiformat oft?",
+      "options": [
+        ".docx oder Google Doc",
+        ".mp3",
+        ".jpg",
+        ".exe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man 'Speichern' klicken?",
+      "options": [
+        "Nein, es speichert meist automatisch",
+        "Ja, jede Sekunde",
+        "Nur beim Beenden",
+        "Nur am Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Überschrift?",
+      "options": [
+        "Ein wichtiger Text am Anfang eines Teils",
+        "Ein Hut",
+        "Ein Bild",
+        "Ein Name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Dokument",
+      "answer": "Dokument"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schreiben",
+      "answer": "Schreiben"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Text",
+      "answer": "Text"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speichern",
+      "answer": "Speichern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Teilen",
+      "answer": "Teilen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schrift",
+      "answer": "Schrift"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Format",
+      "answer": "Format"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Cursor",
+      "answer": "Cursor"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Einfügen",
+      "answer": "Einfügen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Cloud",
+      "answer": "Cloud"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bildersuche",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wo kann man im Internet nach Bildern suchen?",
+      "options": [
+        "In einer Suchmaschine (z.B. Google Bilder)",
+        "Im Taschenrechner",
+        "In Paint",
+        "Im Papierkorb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was gibt man ein, um ein Bild zu finden?",
+      "options": [
+        "Suchbegriffe (Keywords)",
+        "Seinen Namen",
+        "Ein Lied",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die kleinen Vorschaubilder?",
+      "options": [
+        "Thumbnails",
+        "Riesenbilder",
+        "Pixel",
+        "Punkte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf ein Vorschaubild klickt?",
+      "options": [
+        "Es wird meistens größer angezeigt",
+        "Es wird gelöscht",
+        "Der PC geht aus",
+        "Es wird gedruckt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man jedes Bild aus dem Internet einfach benutzen?",
+      "options": [
+        "Nein, man muss das Urheberrecht beachten",
+        "Ja, alles ist frei",
+        "Nur wenn es schön ist",
+        "Nur für die Schule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Urheberrecht'?",
+      "options": [
+        "Der Ersteller bestimmt über sein Werk",
+        "Jeder darf alles machen",
+        "Recht auf Internet",
+        "Recht auf Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie findet man nur große Bilder?",
+      "options": [
+        "Über Suchfilter (Größe)",
+        "Durch Raten",
+        "Den Monitor schütteln",
+        "Länger warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man bei der Bildersuche noch filtern?",
+      "options": [
+        "Farbe, Typ, Zeit",
+        "Gewicht",
+        "Temperatur",
+        "Geruch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein ClipArt?",
+      "options": [
+        "Eine einfache Zeichnung/Grafik",
+        "Ein echtes Foto",
+        "Ein langer film",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein GIF?",
+      "options": [
+        "Ein bewegtes Bild",
+        "Ein Ton",
+        "Ein Text",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man ein Bild auf dem PC?",
+      "options": [
+        "Rechtsklick -> Bild speichern unter",
+        "Ausschneiden mit der Schere",
+        "Draufschlagen",
+        "Anschauen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden gespeicherte Bilder oft abgelegt?",
+      "options": [
+        "Im Ordner 'Bilder' oder 'Downloads'",
+        "Auf dem Dachboden",
+        "Im Papierkorb",
+        "Im Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Bild-URL?",
+      "options": [
+        "Die Internetadresse eines Bildes",
+        "Der Name des Fotografen",
+        "Die Farbe des Bildes",
+        "Die Größe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie findet man Bilder von Tieren?",
+      "options": [
+        "Suchwort 'Tiere' eingeben",
+        "Lied singen",
+        "Hund streicheln",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man nach ähnlichen Bildern suchen?",
+      "options": [
+        "Ja, mit der 'Suche anhand von Bildern'",
+        "Nein",
+        "Nur durch Glück",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Pixel?",
+      "options": [
+        "Ein kleiner Bildpunkt",
+        "Ein großes Bild",
+        "Ein Computer",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'hochauflösend'?",
+      "options": [
+        "Das Bild ist sehr scharf und klar",
+        "Das Bild ist unscharf",
+        "Das Bild ist klein",
+        "Das Bild ist alt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Wasserzeichen?",
+      "options": [
+        "Ein Schutz-Schriftzug im Bild",
+        "Ein Wassertropfen",
+        "Ein blauer Rahmen",
+        "Ein nasses Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind manche Bilder unscharf?",
+      "options": [
+        "Kleine Datei oder schlechte Qualität",
+        "Weil sie alt sind",
+        "Weil sie nass sind",
+        "Wegen der Farbe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder direkt in ein Dokument kopieren?",
+      "options": [
+        "Ja, Kopieren und Einfügen",
+        "Nein",
+        "Nur mit dem Drucker",
+        "Nur mit der Post"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Google Bildersuche?",
+      "options": [
+        "Ein spezieller Bereich zum Finden von Bildern",
+        "Ein spiel",
+        "Ein Browser",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Portrait?",
+      "options": [
+        "Ein Bild von einer Person (Gesicht)",
+        "Ein Bild von einem Auto",
+        "Ein Bild vom Wald",
+        "Ein Bild vom Weltraum"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Landschaftsaufnahme?",
+      "options": [
+        "Ein Bild von der Natur/Umgebung",
+        "Ein Bild vom Essen",
+        "Ein Bild von einer Maus",
+        "Ein Bild von Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Format für Fotos oft?",
+      "options": [
+        "JPG oder JPEG",
+        "TXT",
+        "MP3",
+        "EXE"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind alle Bilder im Internet echt?",
+      "options": [
+        "Nein, sie können bearbeitet sein",
+        "Ja, immer",
+        "Meistens",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bildersuche",
+      "answer": "Bildersuche"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Foto",
+      "answer": "Foto"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Grafik",
+      "answer": "Grafik"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speichern",
+      "answer": "Speichern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Urheberrecht",
+      "answer": "Urheberrecht"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Pixel",
+      "answer": "Pixel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Suchen",
+      "answer": "Suchen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Filter",
+      "answer": "Filter"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Größe",
+      "answer": "Größe"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Qualität",
+      "answer": "Qualität"
+    }
+  ]
+}

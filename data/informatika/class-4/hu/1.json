@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Scratch bevezetés",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a Scratch?",
+        "options": [
+          "Vizuális programozási nyelv",
+          "Egy fajta sütemény",
+          "Hardver eszköz",
+          "Operációs rendszer"
+        ],
+        "answer": "Vizuális programozási nyelv"
+      },
+      {
+        "question": "Ki fejlesztette a Scratch-et?",
+        "options": [
+          "MIT Media Lab",
+          "Microsoft",
+          "Google",
+          "NASA"
+        ],
+        "answer": "MIT Media Lab"
+      },
+      {
+        "question": "Melyik állat a Scratch jelképe?",
+        "options": [
+          "Macska",
+          "Kutya",
+          "Egér",
+          "Medve"
+        ],
+        "answer": "Macska"
+      },
+      {
+        "question": "Hol használhatjuk a Scratch-et?",
+        "options": [
+          "Böngészőben",
+          "Csak papíron",
+          "Csak televízión",
+          "Kizárólag telefonon"
+        ],
+        "answer": "Böngészőben"
+      },
+      {
+        "question": "Mire jó a Scratch?",
+        "options": [
+          "Játékok és animációk készítésére",
+          "Főzésre",
+          "Sportolásra",
+          "Autóvezetésre"
+        ],
+        "answer": "Játékok és animációk készítésére"
+      },
+      {
+        "question": "Mi az a 'szereplő' a Scratch-ben?",
+        "options": [
+          "Egy objektum, amit programozunk",
+          "A billentyűzet",
+          "A monitor",
+          "A felhasználó"
+        ],
+        "answer": "Egy objektum, amit programozunk"
+      },
+      {
+        "question": "Mi az a 'háttér'?",
+        "options": [
+          "A színpad kinézete",
+          "A számítógép háta",
+          "Egy programkód",
+          "Egy hangfájl"
+        ],
+        "answer": "A színpad kinézete"
+      },
+      {
+        "question": "Milyen blokkokkal kezdünk általában egy programot?",
+        "options": [
+          "Esemény blokkokkal",
+          "Mozgás blokkokkal",
+          "Változó blokkokkal",
+          "Hang blokkokkal"
+        ],
+        "answer": "Esemény blokkokkal"
+      },
+      {
+        "question": "Mit jelent a 'vonszolás'?",
+        "options": [
+          "Blokkok mozgatása az egérrel",
+          "A gép kikapcsolása",
+          "Rajzolás",
+          "Gépelés"
+        ],
+        "answer": "Blokkok mozgatása az egérrel"
+      },
+      {
+        "question": "Mi a Scratch online közössége?",
+        "options": [
+          "Egy hely, ahol megoszthatjuk projektjeinket",
+          "Egy bolt",
+          "Egy iskola",
+          "Egy sportklub"
+        ],
+        "answer": "Egy hely, ahol megoszthatjuk projektjeinket"
+      },
+      {
+        "question": "Lehet-e magyarul használni a Scratch-et?",
+        "options": [
+          "Igen, teljesen",
+          "Nem, csak angolul",
+          "Csak németül",
+          "Csak kínaiul"
+        ],
+        "answer": "Igen, teljesen"
+      },
+      {
+        "question": "Mi a 'színpad'?",
+        "options": [
+          "Ahol a szereplők mozognak",
+          "A billentyűzet",
+          "Az egérpad",
+          "A szék"
+        ],
+        "answer": "Ahol a szereplők mozognak"
+      },
+      {
+        "question": "Hogyan menthetjük el a munkánkat?",
+        "options": [
+          "A Fájl menüben",
+          "Sehogy",
+          "Kikapcsolással",
+          "Kiabálással"
+        ],
+        "answer": "A Fájl menüben"
+      },
+      {
+        "question": "Milyen színűek a 'Kinézet' blokkok?",
+        "options": [
+          "Lila",
+          "Kék",
+          "Zöld",
+          "Sárga"
+        ],
+        "answer": "Lila"
+      },
+      {
+        "question": "Mi a blokk-alapú programozás lényege?",
+        "options": [
+          "Kész kódblokkokat illesztünk össze",
+          "Kódot gépelünk",
+          "Csak képeket nézünk",
+          "Semmit nem kell csinálni"
+        ],
+        "answer": "Kész kódblokkokat illesztünk össze"
+      },
+      {
+        "question": "Hány éves kortól ajánlott a Scratch?",
+        "options": [
+          "8-16",
+          "0-2",
+          "99 felett",
+          "Csak felnőtteknek"
+        ],
+        "answer": "8-16"
+      },
+      {
+        "question": "Mi a Scratch Desktop?",
+        "options": [
+          "A Scratch internet nélküli változata",
+          "Egy asztali gép",
+          "Egy egér",
+          "Egy füzet"
+        ],
+        "answer": "A Scratch internet nélküli változata"
+      },
+      {
+        "question": "Mit csinál a zöld zászló?",
+        "options": [
+          "Elindítja a programot",
+          "Megállítja a programot",
+          "Törli a programot",
+          "Színezi a hátteret"
+        ],
+        "answer": "Elindítja a programot"
+      },
+      {
+        "question": "Mit csinál a piros nyolcszög?",
+        "options": [
+          "Megállítja a programot",
+          "Elindítja",
+          "Gyorsítja",
+          "Lassítja"
+        ],
+        "answer": "Megállítja a programot"
+      },
+      {
+        "question": "Mi az a 'Jelmez'?",
+        "options": [
+          "A szereplő egy kinézete",
+          "Egy ruha az embernek",
+          "A háttér neve",
+          "A hang neve"
+        ],
+        "answer": "A szereplő egy kinézete"
+      },
+      {
+        "question": "Lehet-e saját képet feltölteni szereplőnek?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak fekete-fehéret",
+          "Csak rajzoltat"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi a 'Hátizsák' funkció?",
+        "options": [
+          "Kódok másolása projektek között",
+          "Egy táska a rajzoknak",
+          "A gép hűtése",
+          "A fájlok törlése"
+        ],
+        "answer": "Kódok másolása projektek között"
+      },
+      {
+        "question": "Hogyan törölhetünk egy blokkot?",
+        "options": [
+          "Visszahúzzuk a menübe",
+          "Ráfújunk",
+          "Kikapcsoljuk a gépet",
+          "Megnyomjuk a szóközt"
+        ],
+        "answer": "Visszahúzzuk a menübe"
+      },
+      {
+        "question": "Mire való a 'Segítség' menü?",
+        "options": [
+          "Útmutatókat tartalmaz",
+          "Ételrendelésre",
+          "Játékra",
+          "Alvásra"
+        ],
+        "answer": "Útmutatókat tartalmaz"
+      },
+      {
+        "question": "Mi a projekt neve?",
+        "options": [
+          "A munkánk címe",
+          "A felhasználó neve",
+          "A gép típusa",
+          "A dátum"
+        ],
+        "answer": "A munkánk címe"
+      }
+    ],
+    "typing": [
+      "Scratch",
+      "programozás",
+      "kódolás",
+      "szereplő",
+      "blokk",
+      "színpad",
+      "algoritmus",
+      "informatika",
+      "macska",
+      "projekt"
+    ]
+  }
+}

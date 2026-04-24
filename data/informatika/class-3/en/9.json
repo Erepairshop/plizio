@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Searching for Images",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Where can you search for images?",
+      "options": [
+        "A search engine like Google Images",
+        "In a lunch box",
+        "On a blank paper",
+        "Inside a pencil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you type to find a picture of a cat?",
+      "options": [
+        "cat",
+        "dog",
+        "hello",
+        "123"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Thumbnail'?",
+      "options": [
+        "A small version of an image",
+        "A nail on your thumb",
+        "A type of hammer",
+        "A tiny computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you see a larger version of an image?",
+      "options": [
+        "Click on the thumbnail",
+        "Wait for it to grow",
+        "Magnify the screen",
+        "Print it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Right-click -> Save image as' do?",
+      "options": [
+        "Downloads the image to your computer",
+        "Deletes the image",
+        "Changes the image's colors",
+        "Sends it to a friend"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Image Resolution'?",
+      "options": [
+        "The quality or detail of an image",
+        "The size of the monitor",
+        "The color of the image",
+        "A promise to take more photos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Filters' in image search?",
+      "options": [
+        "Options to find specific colors, sizes, or types",
+        "Something to clean the screen",
+        "Coffee filters",
+        "Sunglasses for the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search for only 'Clip Art'?",
+      "options": [
+        "Yes, using search filters",
+        "No, only real photos",
+        "Only on Tuesdays",
+        "Only if you draw it first"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Copyright'?",
+      "options": [
+        "Legal protection for creators' work",
+        "The right to copy everything",
+        "A type of writing",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use any image you find on the net?",
+      "options": [
+        "No, you should check if you have permission",
+        "Yes, everything is free",
+        "Only if you don't get caught",
+        "Only for homework"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'JPEG' or 'JPG'?",
+      "options": [
+        "A common file format for photos",
+        "A type of juice",
+        "A jumping game",
+        "A school subject"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'PNG'?",
+      "options": [
+        "An image format that can have a transparent background",
+        "A noisy sound",
+        "A type of bird",
+        "A computer game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'GIF'?",
+      "options": [
+        "An image format that can be animated",
+        "A present",
+        "A type of food",
+        "A fast car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you find only large images?",
+      "options": [
+        "Use the 'Size' filter in search tools",
+        "Look really closely at the screen",
+        "Wait for them to grow",
+        "Search for 'big'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Transparent Background' mean?",
+      "options": [
+        "You can see through the background of the image",
+        "The image is invisible",
+        "The background is white",
+        "The image is a ghost"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'SafeSearch'?",
+      "options": [
+        "A setting to hide inappropriate images",
+        "Searching while wearing a helmet",
+        "A way to save electricity",
+        "A secret search"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you search for an image by uploading another image?",
+      "options": [
+        "Yes, it's called Reverse Image Search",
+        "No, only with words",
+        "Only if you are a detective",
+        "Only on a phone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Watermark'?",
+      "options": [
+        "A faint text or logo over an image to protect it",
+        "A mark made by water",
+        "A type of fish",
+        "A drawing of a bottle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do images take time to load?",
+      "options": [
+        "They are large files that need to be downloaded",
+        "They are shy",
+        "The computer is sleeping",
+        "The colors are being mixed"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you copy an image to a document?",
+      "options": [
+        "Right-click -> Copy image, then Paste",
+        "Draw it by hand",
+        "Take a photo of the screen",
+        "Shout at the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Creative Commons'?",
+      "options": [
+        "A license that allows sharing and use with rules",
+        "A place for creative people",
+        "A type of drawing",
+        "A school club"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which button shows more search options?",
+      "options": [
+        "Tools",
+        "Settings",
+        "Help",
+        "Exit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you find images by color?",
+      "options": [
+        "Yes, using search filters",
+        "No, that's impossible",
+        "Only if you have a color monitor",
+        "Only for rainbows"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pixabay' or 'Unsplash'?",
+      "options": [
+        "Websites with free-to-use images",
+        "Types of computers",
+        "Names of stars",
+        "Video games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you always credit the author of an image?",
+      "options": [
+        "Yes, it's good practice",
+        "No, it's a secret",
+        "Only if they ask",
+        "Only if you like it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Videoanrufe (Zoom)",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Zoom?",
+      "options": [
+        "Ein Programm für Videoanrufe",
+        "Ein Spiel",
+        "Ein Browser",
+        "Ein Schreibprogramm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was braucht man für einen Videoanruf?",
+      "options": [
+        "Kamera und Mikrofon",
+        "Einen Drucker",
+        "Einen Scanner",
+        "Einen Hammer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Mute' (Stummschalten)?",
+      "options": [
+        "Das Mikrofon ausmachen",
+        "Die Kamera ausmachen",
+        "Den PC ausschalten",
+        "Das Licht ausmachen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht das Kamerasymbol aus?",
+      "options": [
+        "Wie eine Videokamera",
+        "Wie ein Telefon",
+        "Wie ein Buch",
+        "Wie ein Haus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Chat' in Zoom?",
+      "options": [
+        "Ein Feld zum Schreiben von Textnachrichten",
+        "Ein Bild",
+        "Ein Video",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Bildschirm teilen'?",
+      "options": [
+        "Anderen zeigen, was auf meinem Monitor ist",
+        "Den Monitor zerbrechen",
+        "Zwei Monitore kaufen",
+        "Ein Foto machen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie tritt man einem Meeting bei?",
+      "options": [
+        "Mit einem Link oder einer ID",
+        "Mit einem Brief",
+        "Mit Klopfen",
+        "Mit Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Meeting'?",
+      "options": [
+        "Ein Treffen im Videoanruf",
+        "Ein Essen",
+        "Ein Schlafplatz",
+        "Ein Auto"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein virtueller Hintergrund?",
+      "options": [
+        "Ein künstliches Bild hinter mir",
+        "Eine echte Wand",
+        "Ein Fenster",
+        "Ein Spiegel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Hand heben'-Funktion?",
+      "options": [
+        "Zeigen, dass man etwas sagen möchte",
+        "Sport machen",
+        "Winken",
+        "Tschüss sagen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sieht man in der 'Galerie-Ansicht'?",
+      "options": [
+        "Viele Teilnehmer gleichzeitig",
+        "Nur den Sprecher",
+        "Nur sich selbst",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sieht man in der 'Sprecher-Ansicht'?",
+      "options": [
+        "Die Person, die gerade redet",
+        "Alle Personen",
+        "Nur den Chat",
+        "Nur den Hintergrund"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein Mikrofon wichtig?",
+      "options": [
+        "Damit andere mich hören können",
+        "Damit ich Musik hören kann",
+        "Zum Tippen",
+        "Zum Malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist die Kamera wichtig?",
+      "options": [
+        "Damit andere mich sehen können",
+        "Damit ich fernsehen kann",
+        "Zum Drucken",
+        "Zum Speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Leave' (Verlassen)?",
+      "options": [
+        "Das Meeting beenden",
+        "Das Meeting starten",
+        "Den Chat öffnen",
+        "Das Bild ändern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Videoanruf höflich sein?",
+      "options": [
+        "Ja, ausreden lassen",
+        "Nein, alle durcheinander",
+        "Einfach schreien",
+        "Nichts sagen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Warteraum?",
+      "options": [
+        "Dort wartet man, bis der Host einen reinlässt",
+        "Ein Zimmer im Haus",
+        "Ein Bahnhof",
+        "Ein Spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer ist der 'Host'?",
+      "options": [
+        "Der Organisator des Meetings",
+        "Ein Gast",
+        "Der Computer",
+        "Das Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man in Zoom Emojis benutzen?",
+      "options": [
+        "Ja, für Reaktionen",
+        "Nein",
+        "Nur im Chat",
+        "Nur bei Regen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei einer schlechten Internetverbindung?",
+      "options": [
+        "Das Bild ruckelt oder bricht ab",
+        "Der PC explodiert",
+        "Das Licht geht aus",
+        "Die Maus ist weg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schaltet man die Kamera an?",
+      "options": [
+        "Klick auf 'Video starten'",
+        "Klick auf 'Audio'",
+        "Klick auf 'Chat'",
+        "PC schütteln"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Breakout-Room?",
+      "options": [
+        "Ein kleiner Nebenraum für Gruppen",
+        "Ein Schlafzimmer",
+        "Ein Pausenraum",
+        "Ein Ausgang"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Muss man sich für ein Meeting schick anziehen?",
+      "options": [
+        "Ordentlich ist gut, wie in der Schule",
+        "Nur im Pyjama",
+        "Nur im Kostüm",
+        "Egal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die ID?",
+      "options": [
+        "Eine Nummer für das Meeting",
+        "Mein Name",
+        "Mein Alter",
+        "Mein Passwort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Zoom auf dem Tablet nutzen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur am Montag",
+        "Nur mit Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Videoanruf",
+      "answer": "Videoanruf"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kamera",
+      "answer": "Kamera"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Mikrofon",
+      "answer": "Mikrofon"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Meeting",
+      "answer": "Meeting"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Teilnehmer",
+      "answer": "Teilnehmer"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Sprechen",
+      "answer": "Sprechen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Hören",
+      "answer": "Hören"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Online",
+      "answer": "Online"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bildschirm",
+      "answer": "Bildschirm"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Verbindung",
+      "answer": "Verbindung"
+    }
+  ]
+}

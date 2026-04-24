@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Desen Digital",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este desenul digital?",
+      "options": [
+        "Desenul făcut pe calculator sau tabletă",
+        "Desenul cu creioane pe hârtie",
+        "Un tablou la muzeu",
+        "O poză la televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce instrument folosim pentru a trage linii?",
+      "options": [
+        "Pensula sau creionul digital",
+        "Mouse-ul ca gumă",
+        "Tastatura",
+        "Cablul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care instrument șterge greșelile?",
+      "options": [
+        "Guma de șters (Eraser)",
+        "Pensula",
+        "Culoarea",
+        "Monitorul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena forme geometrice perfecte?",
+      "options": [
+        "Da (cercuri, pătrate etc.)",
+        "Nu, doar cu mâna",
+        "Doar dacă avem riglă pe ecran",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face instrumentul 'Fill' (Găleata)?",
+      "options": [
+        "Umple o zonă închisă cu o culoare",
+        "Golește ecranul",
+        "Spală monitorul",
+        "Schimbă pensula"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem alege orice culoare dintr-o paletă?",
+      "options": [
+        "Da",
+        "Nu, sunt doar 3",
+        "Doar dacă avem culori acasă",
+        "Doar alb și negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Zoom' în desen?",
+      "options": [
+        "Mărirea unei părți pentru a vedea detalii",
+        "Viteza de desenare",
+        "O eroare de culoare",
+        "Închiderea programului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt 'straturile' (layers)?",
+      "options": [
+        "Foi transparente puse una peste alta",
+        "Haine pentru calculator",
+        "Tipuri de pensule",
+        "Erori de desen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem anula o linie greșită?",
+      "options": [
+        "Da, cu Undo",
+        "Nu, rămâne acolo",
+        "Doar cu guma reală",
+        "Doar dacă plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'stylus'?",
+      "options": [
+        "Un creion special pentru ecrane",
+        "O mașină",
+        "O piesă de joc",
+        "Ochelari"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba grosimea pensulei?",
+      "options": [
+        "Da",
+        "Nu, e fixă",
+        "Doar dacă apăsăm tare",
+        "Doar noaptea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Opacity' (Opacitate)?",
+      "options": [
+        "Cât de transparentă este culoarea",
+        "Cât de cald e laptopul",
+        "Cât de mare e desenul",
+        "Cât de vechi e programul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un program de desenat?",
+      "options": [
+        "Paint, Scratch sau Canva",
+        "Calculator",
+        "Word",
+        "Notepad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune text în desenele noastre?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar cifre",
+        "Doar dacă avem voie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum salvăm desenul?",
+      "options": [
+        "Save as (Salvare ca) poză",
+        "Îl fotografiem cu telefonul",
+        "Îl lăsăm așa",
+        "Îl desenăm pe hârtie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Canvas'?",
+      "options": [
+        "Suprafața de lucru sau pânza",
+        "Un tip de bomboană",
+        "O barcă",
+        "Un prieten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem desena cu mouse-ul?",
+      "options": [
+        "Da, dar e mai greu decât cu stylus",
+        "Nu, deloc",
+        "Doar cercuri",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un 'pixeli'?",
+      "options": [
+        "Punctele mici de culoare de pe ecran",
+        "Un mic animal",
+        "O piesă de tastatură",
+        "Un joc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem copia și lipi părți din desen?",
+      "options": [
+        "Da (Copy-Paste)",
+        "Nu, e trișat",
+        "Doar dacă sunt mici",
+        "Doar poze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Gradient'?",
+      "options": [
+        "Trecerea treptată de la o culoare la alta",
+        "O pantă",
+        "O eroare de mărime",
+        "Un zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem roti un desen?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă rotim monitorul",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face instrumentul 'Eyedropper' (Pipeta)?",
+      "options": [
+        "Alege o culoare existentă din desen",
+        "Pune picături pe ecran",
+        "Curăță ochii",
+        "Măsoară lungimea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Desenul digital este bun pentru ecologie?",
+      "options": [
+        "Da, nu consumăm hârtie",
+        "Nu, consumă curent",
+        "Nu contează",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem face desene 3D?",
+      "options": [
+        "Da, în programe speciale",
+        "Nu, doar pe hârtie",
+        "Doar cu ochelari",
+        "Doar pe televizor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai important lucru în desen?",
+      "options": [
+        "Creativitatea",
+        "Calculatorul scump",
+        "Mouse-ul rapid",
+        "Masa curată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: linie",
+      "answer": "linie"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: formă",
+      "answer": "formă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: culoare",
+      "answer": "culoare"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: cerc",
+      "answer": "cerc"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pătrat",
+      "answer": "pătrat"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: pensulă",
+      "answer": "pensulă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: radieră",
+      "answer": "radieră"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: umplere",
+      "answer": "umplere"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: grosime",
+      "answer": "grosime"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: geometrie",
+      "answer": "geometrie"
+    }
+  ]
+}

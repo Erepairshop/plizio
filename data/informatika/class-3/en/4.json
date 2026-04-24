@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Video Call Zoom",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is Zoom used for?",
+      "options": [
+        "Video calls and meetings",
+        "Playing games alone",
+        "Painting pictures",
+        "Baking cookies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What hardware do you need for a video call?",
+      "options": [
+        "Camera and Microphone",
+        "Printer",
+        "Scanner",
+        "Joystick"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Mute' do?",
+      "options": [
+        "Turns off your microphone",
+        "Turns off the screen",
+        "Changes your voice",
+        "Makes everyone disappear"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Stop Video' do?",
+      "options": [
+        "Turns off your camera",
+        "Pauses the call",
+        "Closes the app",
+        "Makes the call louder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you join a Zoom meeting?",
+      "options": [
+        "With a link or Meeting ID",
+        "By calling on a phone",
+        "By going to the office",
+        "By shouting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Chat' feature for?",
+      "options": [
+        "Sending text messages during the call",
+        "Talking loudly",
+        "Drawing pictures",
+        "Ordering food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Share Screen' mean?",
+      "options": [
+        "Showing your computer screen to others",
+        "Giving your monitor to a friend",
+        "Splitting the screen in half",
+        "Taking a photo of the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Breakout Room'?",
+      "options": [
+        "A smaller meeting room inside a big one",
+        "A room where you can take a nap",
+        "A room for escaping",
+        "A place to play games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you 'Raise Hand'?",
+      "options": [
+        "Clicking the button in Reactions",
+        "Actually raising your hand in the air",
+        "Standing up",
+        "Waving at the camera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who is the 'Host'?",
+      "options": [
+        "The person who started the meeting",
+        "The person who is the guest",
+        "The computer",
+        "The internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Waiting Room'?",
+      "options": [
+        "Where you wait for the host to let you in",
+        "A room with chairs and magazines",
+        "A place to sleep",
+        "The main screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change your background in Zoom?",
+      "options": [
+        "Yes, it's called a Virtual Background",
+        "No, never",
+        "Only if you have a green wall",
+        "Only if you are a teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Gallery View'?",
+      "options": [
+        "Seeing everyone at once in small boxes",
+        "Looking at photos",
+        "Going to an art museum",
+        "Seeing only the speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Speaker View'?",
+      "options": [
+        "The person talking is big on the screen",
+        "Looking at the speakers (the hardware)",
+        "Hearing only one person",
+        "A view for doctors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do when you are not talking?",
+      "options": [
+        "Mute yourself",
+        "Talk to someone else",
+        "Sing a song",
+        "Leave the room"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What icon looks like a microphone?",
+      "options": [
+        "The Mute button",
+        "The Video button",
+        "The Chat button",
+        "The Leave button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What icon looks like a video camera?",
+      "options": [
+        "The Start/Stop Video button",
+        "The Share Screen button",
+        "The Participants button",
+        "The Record button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you leave a meeting?",
+      "options": [
+        "Click the 'Leave' or 'End' button",
+        "Turn off the monitor",
+        "Walk away",
+        "Wait until the computer dies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Meeting ID'?",
+      "options": [
+        "A number that identifies the meeting",
+        "Your name",
+        "A secret password",
+        "The date of the meeting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record a Zoom meeting?",
+      "options": [
+        "Yes, if the host allows it",
+        "No, it's impossible",
+        "Only if you have a camera",
+        "Only if you are a robot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Reactions'?",
+      "options": [
+        "Emojis like a heart or thumbs up",
+        "Scary faces",
+        "Chemical reactions",
+        "Physical movements"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is Zoom free to use for basic calls?",
+      "options": [
+        "Yes",
+        "No, it costs a lot",
+        "Only on Sundays",
+        "Only for children"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pinning' someone?",
+      "options": [
+        "Making one person's video stay large for you",
+        "Sticking a needle in the screen",
+        "Deleting someone",
+        "Muting someone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use Zoom on a tablet?",
+      "options": [
+        "Yes",
+        "No, only on big computers",
+        "Only on TV",
+        "Only if the tablet has a keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you check before a call?",
+      "options": [
+        "Internet, camera, and microphone",
+        "Your shoes",
+        "If you have a snack",
+        "The weather"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    }
+  ]
+}

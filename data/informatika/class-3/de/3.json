@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "E-Mails",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine E-Mail?",
+      "options": [
+        "Eine digitale Nachricht",
+        "Ein Paket",
+        "Ein Brief aus Papier",
+        "Ein Telefonat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was braucht man, um eine E-Mail zu schicken?",
+      "options": [
+        "Eine E-Mail-Adresse",
+        "Eine Briefmarke",
+        "Einen Umschlag",
+        "Einen Stift"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht eine E-Mail-Adresse aus?",
+      "options": [
+        "name@beispiel.de",
+        "www.name.de",
+        "Name Beispiel",
+        "Hausnummer 5"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen ist in jeder E-Mail-Adresse?",
+      "options": [
+        "@",
+        "#",
+        "$",
+        "&"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Posteingang'?",
+      "options": [
+        "Dort kommen neue E-Mails an",
+        "Dort löscht man E-Mails",
+        "Dort schreibt man E-Mails",
+        "Dort speichert man Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Senden'?",
+      "options": [
+        "Die E-Mail abschicken",
+        "Die E-Mail löschen",
+        "Die E-Mail lesen",
+        "Die E-Mail speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Betreff'?",
+      "options": [
+        "Eine kurze Beschreibung der E-Mail",
+        "Der Name des Absenders",
+        "Der Text der E-Mail",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Anhang?",
+      "options": [
+        "Eine Datei, die man mitschickt",
+        "Ein Link",
+        "Ein Wort",
+        "Ein Smiley"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Absender'?",
+      "options": [
+        "Die Person, die die E-Mail schreibt",
+        "Die Person, die sie bekommt",
+        "Der Computer",
+        "Das Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Empfänger'?",
+      "options": [
+        "Die Person, die die E-Mail bekommt",
+        "Die Person, die sie schreibt",
+        "Der Router",
+        "Die Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man E-Mails von Unbekannten öffnen?",
+      "options": [
+        "Vorsicht, lieber nicht (Virengefahr)",
+        "Ja, immer",
+        "Nur wenn sie bunt sind",
+        "Nur am Wochenende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Spam?",
+      "options": [
+        "Unerwünschte Werbung per E-Mail",
+        "Ein leckeres Essen",
+        "Ein wichtiges Dokument",
+        "Ein schönes Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Entwurf?",
+      "options": [
+        "Eine E-Mail, die noch nicht fertig ist",
+        "Eine gelöschte E-Mail",
+        "Eine gelesene E-Mail",
+        "Eine alte E-Mail"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Antworten'?",
+      "options": [
+        "Auf eine erhaltene E-Mail schreiben",
+        "Eine neue E-Mail löschen",
+        "Einen Link klicken",
+        "Den PC ausschalten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Weiterleiten'?",
+      "options": [
+        "Eine E-Mail an jemand anderen schicken",
+        "Eine E-Mail löschen",
+        "Eine E-Mail drucken",
+        "Eine E-Mail verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man gelöschte E-Mails?",
+      "options": [
+        "Im Papierkorb",
+        "Im Posteingang",
+        "Im Entwurf",
+        "Gesendet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Passwort bei E-Mails?",
+      "options": [
+        "Schutz für das E-Mail-Konto",
+        "Ein Name",
+        "Ein Bild",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder per E-Mail schicken?",
+      "options": [
+        "Ja, als Anhang",
+        "Nein",
+        "Nur mit der Post",
+        "Nur schwarz-weiß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das @-Zeichen noch?",
+      "options": [
+        "Klammeraffe",
+        "Hund",
+        "Katze",
+        "Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist CC?",
+      "options": [
+        "Eine Kopie an jemanden schicken",
+        "Computer schließen",
+        "Code cracken",
+        "Cooler Chat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist BCC?",
+      "options": [
+        "Blindkopie (andere sehen es nicht)",
+        "Bester Computer Club",
+        "Bilder-Code",
+        "Blauer Chat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man höflich in E-Mails sein?",
+      "options": [
+        "Ja, immer",
+        "Nein",
+        "Nur zu Lehrern",
+        "Nur zu Freunden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Signatur?",
+      "options": [
+        "Ein fester Text am Ende der E-Mail",
+        "Ein Bild",
+        "Ein Anhang",
+        "Ein Betreff"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man E-Mails weltweit verschicken?",
+      "options": [
+        "Ja",
+        "Nein, nur im Haus",
+        "Nur in der Stadt",
+        "Nur im Land"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehen E-Mails schnell?",
+      "options": [
+        "Ja, meistens in Sekunden",
+        "Nein, dauert Tage",
+        "Nur nachts",
+        "Wie die Schneckenpost"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Email",
+      "answer": "Email"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Adresse",
+      "answer": "Adresse"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Betreff",
+      "answer": "Betreff"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Senden",
+      "answer": "Senden"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Anhang",
+      "answer": "Anhang"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Eingang",
+      "answer": "Eingang"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Nachricht",
+      "answer": "Nachricht"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Post",
+      "answer": "Post"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Kontakt",
+      "answer": "Kontakt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Passwort",
+      "answer": "Passwort"
+    }
+  ]
+}

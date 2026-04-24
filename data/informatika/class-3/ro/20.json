@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Bucle în Scratch",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o buclă (loop) în Scratch?",
+      "options": [
+        "O instrucțiune care repetă alte blocuri",
+        "Un cerc desenat",
+        "O eroare de cod",
+        "Un personaj rotund"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'forever'?",
+      "options": [
+        "Repetă blocurile din interior la infinit",
+        "Le face să dispară",
+        "Oprește programul",
+        "Le face galbene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'repeat 10'?",
+      "options": [
+        "Repetă blocurile de exact 10 ori",
+        "Le face de 10 ori mai mari",
+        "Oprește totul",
+        "Le ascunde"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce folosim bucle?",
+      "options": [
+        "Ca să nu scriem același cod de multe ori",
+        "Ca să amețim personajul",
+        "Ca să meargă mai greu",
+        "Nu au niciun rost"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim blocurile de control?",
+      "options": [
+        "În categoria portocalie 'Control'",
+        "În cea albastră",
+        "În cea verde",
+        "În cea mov"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune o buclă în altă buclă?",
+      "options": [
+        "Da, se numește buclă imbricată",
+        "Nu, e interzis",
+        "Doar dacă au aceeași culoare",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă o buclă 'forever' e goală?",
+      "options": [
+        "Nimic, dar consumă resurse",
+        "Se închide calculatorul",
+        "Se șterge tot",
+        "Se aude un zgomot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum oprim o buclă 'forever'?",
+      "options": [
+        "Apasă pe butonul roșu Stop",
+        "Ea nu se poate opri niciodată",
+        "Închide monitorul",
+        "Strigă la ea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face blocul 'repeat until'?",
+      "options": [
+        "Repetă până când o condiție e adevărată",
+        "Repetă mereu",
+        "Nu repetă nimic",
+        "Oprește timpul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem repeta un sunet folosind o buclă?",
+      "options": [
+        "Da, pentru a face muzică sau ritm",
+        "Nu",
+        "Doar dacă sunetul e scurt",
+        "Doar duminica"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face 'wait 1 seconds' într-o buclă?",
+      "options": [
+        "Face o pauză între repetiții",
+        "Oprește bucla definitiv",
+        "Mărește viteza",
+        "Schimbă personajul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Buclele sunt utile pentru?",
+      "options": [
+        "Animații, mers, muzică",
+        "Desenarea unui singur punct",
+        "Scrierea numelui o singură dată",
+        "Închiderea programului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câte blocuri putem pune în interiorul unei bucle?",
+      "options": [
+        "Oricâte",
+        "Maxim 3",
+        "Doar unul",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'iterație'?",
+      "options": [
+        "O singură execuție a pașilor din buclă",
+        "O eroare",
+        "Un tip de personaj",
+        "O culoare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem folosi bucle pentru a desena forme geometrice?",
+      "options": [
+        "Da, ex. repetă de 4 ori (mergi și rotește)",
+        "Nu, e imposibil",
+        "Doar cercuri",
+        "Doar linii drepte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă punem 'move 10 steps' într-o buclă 'forever'?",
+      "options": [
+        "Personajul merge continuu până la margine",
+        "Merge o dată și se oprește",
+        "Sare",
+        "Dispare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem schimba numărul de la 'repeat'?",
+      "options": [
+        "Da, punem orice număr dorim",
+        "Nu, e mereu 10",
+        "Doar dacă e număr par",
+        "Doar lunea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă o 'buclă infinită'?",
+      "options": [
+        "O buclă care nu se termină niciodată",
+        "O buclă în formă de opt",
+        "O buclă care merge repede",
+        "O eroare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem pune bucle în interiorul blocurilor 'if'?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar dacă sunt mici",
+        "Doar dacă sunt galbene"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Buclele ne ajută să facem codul?",
+      "options": [
+        "Mai scurt și mai clar",
+        "Mai lung și greu",
+        "Mai colorat",
+        "Inutil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face 'next costume' într-o buclă?",
+      "options": [
+        "Creează o animație de mișcare",
+        "Șterge costumul",
+        "Schimbă fundalul",
+        "Oprește totul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Putem avea mai multe bucle 'forever' care merg deodată?",
+      "options": [
+        "Da, pentru personaje diferite",
+        "Nu, doar una",
+        "Doar pe ecrane mari",
+        "Doar dacă suntem avansați"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare au blocurile de control (unde sunt buclele)?",
+      "options": [
+        "Portocaliu",
+        "Albastru",
+        "Verde",
+        "Mov"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Există bucle în alte limbaje de programare?",
+      "options": [
+        "Da, în aproape toate",
+        "Nu, doar în Scratch",
+        "Doar în jocurile pe net",
+        "Nu știu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum arată blocul 'forever'?",
+      "options": [
+        "Ca o gură care cuprinde alte blocuri",
+        "Ca un cerc",
+        "Ca o linie dreaptă",
+        "Ca un punct"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: buclă",
+      "answer": "buclă"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: repetiție",
+      "answer": "repetiție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: mereu",
+      "answer": "mereu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ori",
+      "answer": "ori"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: inclus",
+      "answer": "inclus"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: condiție",
+      "answer": "condiție"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: oprire",
+      "answer": "oprire"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: continuu",
+      "answer": "continuu"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: ritm",
+      "answer": "ritm"
+    },
+    {
+      "type": "typing",
+      "question": "Tastează cuvântul: model",
+      "answer": "model"
+    }
+  ]
+}

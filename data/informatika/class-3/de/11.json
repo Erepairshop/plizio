@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Cloud-Speicher",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Cloud?",
+      "options": [
+        "Ein Speicherplatz im Internet",
+        "Eine echte Wolke",
+        "Ein spiel",
+        "Ein Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Cloud' auf Deutsch?",
+      "options": [
+        "Wolke",
+        "Sonne",
+        "Regen",
+        "Wind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum nutzt man Cloud-Speicher?",
+      "options": [
+        "Um von überall auf Daten zuzugreifen",
+        "Damit der PC schwerer wird",
+        "Zum Spaß",
+        "Weil es blau ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Nenne ein Beispiel für eine Cloud.",
+      "options": [
+        "Google Drive oder OneDrive",
+        "Amazon",
+        "Netflix",
+        "WhatsApp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was braucht man für die Cloud?",
+      "options": [
+        "Einen Account und Internet",
+        "Einen Regenschirm",
+        "Einen Drucker",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo liegen die Daten in einer Cloud?",
+      "options": [
+        "Auf entfernten Servern",
+        "Im eigenen Monitor",
+        "In der Tastatur",
+        "In der Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Dateien in der Cloud teilen?",
+      "options": [
+        "Ja, mit anderen Personen",
+        "Nein, verboten",
+        "Nur mit dem Lehrer",
+        "Nur mit dem Hund"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Synchronisieren'?",
+      "options": [
+        "Daten auf allen Geräten gleich halten",
+        "Daten löschen",
+        "Daten bemalen",
+        "Daten verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist die Cloud unendlich groß?",
+      "options": [
+        "Nein, der Speicherplatz ist oft begrenzt",
+        "Ja, immer",
+        "Nur wenn es regnet",
+        "Nur für Kinder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Upload' zur Cloud?",
+      "options": [
+        "Dateien vom PC in die Cloud schicken",
+        "Dateien löschen",
+        "Dateien drucken",
+        "Dateien lesen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man in der Cloud gemeinsam arbeiten?",
+      "options": [
+        "Ja, gleichzeitig an einem Dokument",
+        "Nein",
+        "Nur nacheinander",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man kein Internet hat?",
+      "options": [
+        "Man kann meist nicht auf die Cloud zugreifen",
+        "Alles wird gelöscht",
+        "Der PC geht aus",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Passwort für die Cloud?",
+      "options": [
+        "Schutz für den Zugang",
+        "Ein Name",
+        "Ein Bild",
+        "Ein Link"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Cloud-Daten sicher?",
+      "options": [
+        "Meistens, aber man braucht ein gutes Passwort",
+        "Ja, absolut",
+        "Nein, nie",
+        "Nur am Tag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Google Drive?",
+      "options": [
+        "Ein Cloud-Speicher von Google",
+        "Ein Auto",
+        "Ein spiel",
+        "Ein film"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist iCloud?",
+      "options": [
+        "Ein Cloud-Speicher von Apple",
+        "Ein Eis",
+        "Ein spiel",
+        "Ein Buch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Dropbox?",
+      "options": [
+        "Ein bekannter Cloud-Anbieter",
+        "Ein Briefkasten",
+        "Ein Paket",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Fotos in der Cloud speichern?",
+      "options": [
+        "Ja, sehr oft",
+        "Nein",
+        "Nur Texte",
+        "Nur Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Freigeben'?",
+      "options": [
+        "Anderen erlauben, die Datei zu sehen",
+        "Die Datei löschen",
+        "Die Datei beenden",
+        "Die Datei drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kostet Cloud-Speicher immer Geld?",
+      "options": [
+        "Oft ist ein Teil kostenlos",
+        "Ja, immer viel",
+        "Nein, immer gratis",
+        "Nur sonntags"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Ordner in der Cloud erstellen?",
+      "options": [
+        "Ja, zur besseren Übersicht",
+        "Nein",
+        "Nur einen",
+        "Nur für Musik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Link zur Cloud-Datei?",
+      "options": [
+        "Ein Zugriffsweg für andere",
+        "Ein Bild",
+        "Ein Text",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Cloud-Apps auf dem Handy nutzen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Kabel",
+        "Nur am Abend"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Server?",
+      "options": [
+        "Ein leistungsstarker Computer für Daten",
+        "Ein Kellner",
+        "Ein spiel",
+        "Ein Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist die Cloud praktisch für die Schule?",
+      "options": [
+        "Man hat seine Aufgaben überall dabei",
+        "Man muss nicht lernen",
+        "Man bekommt bessere Noten",
+        "Man kann spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Cloud",
+      "answer": "Cloud"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speicher",
+      "answer": "Speicher"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Internet",
+      "answer": "Internet"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Upload",
+      "answer": "Upload"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Daten",
+      "answer": "Daten"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Teilen",
+      "answer": "Teilen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Konto",
+      "answer": "Konto"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Passwort",
+      "answer": "Passwort"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Sicherung",
+      "answer": "Sicherung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Online",
+      "answer": "Online"
+    }
+  ]
+}

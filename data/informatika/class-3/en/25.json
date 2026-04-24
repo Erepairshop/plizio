@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Project Work K3",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Project'?",
+      "options": [
+        "A task that takes time and planning to finish",
+        "A type of game",
+        "A fast drawing",
+        "A school lunch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the first step of a project?",
+      "options": [
+        "Planning",
+        "Finishing",
+        "Testing",
+        "Showing it off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is a plan important?",
+      "options": [
+        "To know what steps to take and what you need",
+        "To waste time",
+        "To use more paper",
+        "Because it's a rule"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collaboration'?",
+      "options": [
+        "Working together with others",
+        "Working alone in the dark",
+        "Fighting over a mouse",
+        "Doing someone else's work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you use a computer for a project?",
+      "options": [
+        "Researching, writing, and creating",
+        "Only for games",
+        "Only for watching videos",
+        "To keep the desk warm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Deadline'?",
+      "options": [
+        "The time when the project must be finished",
+        "A line of dead things",
+        "A line you cannot cross",
+        "The end of the world"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Presentation' of a project?",
+      "options": [
+        "Showing your finished work to others",
+        "A gift you get",
+        "A type of movie",
+        "The start of the work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Research'?",
+      "options": [
+        "Finding out information about your topic",
+        "Searching for a lost toy",
+        "A type of game",
+        "Looking at the ceiling"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you keep track of your progress?",
+      "options": [
+        "Using a checklist or a schedule",
+        "Guessing",
+        "Asking a friend",
+        "Waiting for it to finish"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Feedback' during a project?",
+      "options": [
+        "Suggestions from others on how to improve",
+        "Food for the workers",
+        "A loud noise",
+        "A secret note"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to change your plan?",
+      "options": [
+        "Yes, if you find a better way",
+        "No, never",
+        "Only if you start over",
+        "Only if it rains"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Creativity'?",
+      "options": [
+        "Using your imagination to make something new",
+        "Doing the same thing as everyone",
+        "Following rules exactly",
+        "A type of math"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you save your work often?",
+      "options": [
+        "To not lose it if the computer crashes",
+        "Because the computer likes it",
+        "To use more space",
+        "To finish faster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Resource'?",
+      "options": [
+        "Something you use to help finish the project",
+        "A type of source",
+        "A game",
+        "A school lesson"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Reflection' at the end of a project?",
+      "options": [
+        "Thinking about what went well and what didn't",
+        "Looking in a mirror",
+        "Being quiet",
+        "The end of the day"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you credit your sources?",
+      "options": [
+        "Listing where you found your information",
+        "Saying you did it all yourself",
+        "Hiding the info",
+        "Giving them money"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Organization'?",
+      "options": [
+        "Keeping your files and ideas in order",
+        "A big company",
+        "Being messy",
+        "A type of music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Draft' of a project?",
+      "options": [
+        "An early version that's not finished yet",
+        "A cold wind",
+        "A type of drawing",
+        "A fast runner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Quality' important?",
+      "options": [
+        "To do your best work and make it useful",
+        "To be the fastest",
+        "To use the most colors",
+        "To please the teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a project be a game made in Scratch?",
+      "options": [
+        "Yes",
+        "No, projects are only on paper",
+        "Only if it's easy",
+        "Only if it's for school"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Problem Solving'?",
+      "options": [
+        "Finding ways to overcome obstacles",
+        "A math test",
+        "Being angry",
+        "Giving up"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Motivation'?",
+      "options": [
+        "The reason and drive to finish your work",
+        "Being tired",
+        "A type of computer",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you handle a big project?",
+      "options": [
+        "Break it into smaller, manageable tasks",
+        "Do it all in one minute",
+        "Wait until the last day",
+        "Ask someone else to do it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Portfolio'?",
+      "options": [
+        "A collection of your best projects",
+        "A type of suitcase",
+        "A folder for papers",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Communication' important in a group project?",
+      "options": [
+        "So everyone knows what to do and works well together",
+        "To talk about lunch",
+        "To be the loudest",
+        "To make it more fun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: sound",
+      "answer": "sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: video",
+      "answer": "video"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: game",
+      "answer": "game"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "class": 3,
+  "theme": "Projektarbeit K3",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Projekt in der Schule?",
+      "options": [
+        "Ein Thema über längere Zeit bearbeiten",
+        "Eine kurze Pause",
+        "Ein Test",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der erste Schritt bei einem IT-Projekt?",
+      "options": [
+        "Thema wählen und Plan machen",
+        "Sofort abgeben",
+        "Nichts tun",
+        "Spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man Informationen für ein Projekt?",
+      "options": [
+        "Internet, Bücher, Interviews",
+        "Im Müll",
+        "Im Schlaf",
+        "Nirgendwo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Quellenangabe?",
+      "options": [
+        "Sagen, woher die Infos kommen",
+        "Einen Namen erfinden",
+        "Geheim halten",
+        "Bilder malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann das Ergebnis eines IT-Projekts sein?",
+      "options": [
+        "Eine Präsentation, Webseite oder Scratch-Spiel",
+        "Ein Kuchen",
+        "Ein sauberer Tisch",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Teamarbeit oft gut?",
+      "options": [
+        "Man kann sich gegenseitig helfen",
+        "Man muss weniger tun",
+        "Man kann streiten",
+        "Einer macht alles"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Deadline?",
+      "options": [
+        "Der Termin, bis wann alles fertig sein muss",
+        "Eine gefährliche Linie",
+        "Ein Ende",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was gehört zu einer guten Präsentation?",
+      "options": [
+        "Bilder, wenig Text, freies Sprechen",
+        "Viel Text zum Vorlesen",
+        "Keine Bilder",
+        "Leise sein"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht man bei der Planung?",
+      "options": [
+        "Aufgaben verteilen und Zeit einteilen",
+        "Schlafen",
+        "Sofort bauen",
+        "Essen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man Projektdateien sicher?",
+      "options": [
+        "In der Cloud und auf einem Stick",
+        "Gar nicht",
+        "Auf Papier",
+        "Im Papierkorb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Gliederung?",
+      "options": [
+        "Die Struktur des Projekts/Vortrags",
+        "Ein Körperteil",
+        "Ein spiel",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Präsentieren'?",
+      "options": [
+        "Anderen seine Arbeit zeigen und erklären",
+        "Sich verstecken",
+        "Leise sein",
+        "Weglaufen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Bilder im Projekt beschriften?",
+      "options": [
+        "Ja, damit jeder weiß, was es ist",
+        "Nein",
+        "Nur wenn sie bunt sind",
+        "Nur bei Fehlern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fazit?",
+      "options": [
+        "Das Ergebnis oder die Meinung am Ende",
+        "Der Anfang",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man bei einer Präsentation sprechen?",
+      "options": [
+        "Ja, man erklärt die Folien",
+        "Nein, leise sein",
+        "Nur flüstern",
+        "Nur singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Layout im Projekt?",
+      "options": [
+        "Die Gestaltung der Seiten/Folien",
+        "Ein Name",
+        "Ein spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist IT hilfreich für Projekte?",
+      "options": [
+        "Man kann toll gestalten und suchen",
+        "Damit es länger dauert",
+        "Ist es nicht",
+        "Nur zum Spielen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Handout?",
+      "options": [
+        "Ein Blatt mit Infos für die Zuhörer",
+        "Eine helfende Hand",
+        "Ein Geschenk",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie bereitet man sich auf Fragen vor?",
+      "options": [
+        "Sich gut im Thema auskennen",
+        "Sagen 'Ich weiß es nicht'",
+        "Weglaufen",
+        "Nichts sagen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Motivation?",
+      "options": [
+        "Lust und Freude am Thema haben",
+        "Langeweile",
+        "Angst",
+        "Müdigkeit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Projekt auch digital abgeben?",
+      "options": [
+        "Ja, oft per E-Mail oder Plattform",
+        "Nein, nur Papier",
+        "Nur per Post",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Mindmap?",
+      "options": [
+        "Eine Karte mit gesammelten Ideen",
+        "Ein Hut",
+        "Ein spiel",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ziel von Projektarbeit?",
+      "options": [
+        "Selbstständiges Lernen und Erstellen",
+        "Nur eine Note",
+        "Zeitvertreib",
+        "Schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Projekt",
+      "answer": "Project"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Plan",
+      "answer": "Plan"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Arbeit",
+      "answer": "Arbeit"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Team",
+      "answer": "Team"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Thema",
+      "answer": "Thema"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Präsentation",
+      "answer": "Präsentation"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Wissen",
+      "answer": "Wissen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Quelle",
+      "answer": "Quelle"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ergebnis",
+      "answer": "Ergebnis"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Ziel",
+      "answer": "Ziel"
+    }
+  ]
+}

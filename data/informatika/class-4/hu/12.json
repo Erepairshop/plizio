@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Véletlen számok",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Melyik blokk generál véletlen számot?",
+        "options": [
+          "véletlen szám ... és ... között",
+          "számolj",
+          "mennyi?",
+          "írj számot"
+        ],
+        "answer": "véletlen szám ... és ... között"
+      },
+      {
+        "question": "Milyen színű a véletlen szám blokk?",
+        "options": [
+          "Zöld",
+          "Kék",
+          "Sárga",
+          "Lila"
+        ],
+        "answer": "Zöld"
+      },
+      {
+        "question": "Melyik kategóriában van a véletlen szám blokk?",
+        "options": [
+          "Műveletek",
+          "Változók",
+          "Mozgás",
+          "Érzékelés"
+        ],
+        "answer": "Műveletek"
+      },
+      {
+        "question": "Mire jó a véletlen szám egy játékban?",
+        "options": [
+          "Kiszámíthatatlanság és izgalom növelésére",
+          "Hogy mindig ugyanaz történjen",
+          "Lassításra",
+          "Törlésre"
+        ],
+        "answer": "Kiszámíthatatlanság és izgalom növelésére"
+      },
+      {
+        "question": "Mit ad vissza a 'véletlen szám 1 és 10 között'?",
+        "options": [
+          "Egy egész számot 1 és 10 között",
+          "Csak 1-et vagy 10-et",
+          "Bármit",
+          "Egy szöveget"
+        ],
+        "answer": "Egy egész számot 1 és 10 között"
+      },
+      {
+        "question": "Hogyan tudunk véletlen helyre ugrani a véletlen blokkal?",
+        "options": [
+          "Az X és Y koordinátáknak véletlen számot adunk",
+          "Rázogatjuk az egeret",
+          "Nem lehet",
+          "Kiabálunk"
+        ],
+        "answer": "Az X és Y koordinátáknak véletlen számot adunk"
+      },
+      {
+        "question": "Lehet-e negatív szám is a véletlen tartományban?",
+        "options": [
+          "Igen, pl. -10 és 10 között",
+          "Nem, csak pozitív",
+          "Csak ha a gép engedi",
+          "Csak éjszaka"
+        ],
+        "answer": "Igen, pl. -10 és 10 között"
+      },
+      {
+        "question": "Mire jó a véletlen szám az eső animációnál?",
+        "options": [
+          "Hogy a cseppek máshol essenek le",
+          "Hogy kék legyen",
+          "Hogy vizes legyen a monitor",
+          "Semmire"
+        ],
+        "answer": "Hogy a cseppek máshol essenek le"
+      },
+      {
+        "question": "Lehet-e véletlen jelmezt választani?",
+        "options": [
+          "Igen, a jelmez sorszámának véletlent adva",
+          "Nem",
+          "Csak ha hasonlítanak",
+          "Csak kettőt"
+        ],
+        "answer": "Igen, a jelmez sorszámának véletlent adva"
+      },
+      {
+        "question": "Mit jelent a 'random' szó?",
+        "options": [
+          "Véletlen",
+          "Gyors",
+          "Rendezetlen",
+          "Kicsi"
+        ],
+        "answer": "Véletlen"
+      },
+      {
+        "question": "Hogyan csinálhatunk dobókockát?",
+        "options": [
+          "Véletlen szám 1 és 6 között",
+          "Véletlen szám 0 és 100 között",
+          "Színváltással",
+          "Gépeléssel"
+        ],
+        "answer": "Véletlen szám 1 és 6 között"
+      },
+      {
+        "question": "Lehet-e tizedesjegy a véletlen számban?",
+        "options": [
+          "Igen, ha tizedes számokat adunk meg tartománynak",
+          "Nem, soha",
+          "Csak ha kérjük",
+          "Csak angolul"
+        ],
+        "answer": "Igen, ha tizedes számokat adunk meg tartománynak"
+      },
+      {
+        "question": "Mire jó a véletlen szám az ellenség mozgásánál?",
+        "options": [
+          "Hogy nehezebb legyen kikerülni",
+          "Hogy könnyebb legyen",
+          "Hogy megálljon",
+          "Hogy piros legyen"
+        ],
+        "answer": "Hogy nehezebb legyen kikerülni"
+      },
+      {
+        "question": "Mi az a 'véletlenszerűség' a programozásban?",
+        "options": [
+          "Szerencsejáték és bizonytalanság modellezése",
+          "Hiba",
+          "Rossz kód",
+          "Lassú kód"
+        ],
+        "answer": "Szerencsejáték és bizonytalanság modellezése"
+      },
+      {
+        "question": "Melyik blokk alakja kerek, amibe belefér a véletlen szám?",
+        "options": [
+          "Bármelyik paraméter mező",
+          "Csak a mozgás",
+          "Csak a hang",
+          "Csak a szín"
+        ],
+        "answer": "Bármelyik paraméter mező"
+      },
+      {
+        "question": "Hogyan készíthetsz véletlen színű Sprite-ot?",
+        "options": [
+          "Szín hatás legyen: véletlen szám 1 és 200 között",
+          "Festéssel",
+          "Kattintással",
+          "Várakozással"
+        ],
+        "answer": "Szín hatás legyen: véletlen szám 1 és 200 között"
+      },
+      {
+        "question": "Lehet-e a véletlen szám tartománya változó?",
+        "options": [
+          "Igen",
+          "Nem",
+          "Csak ha fix",
+          "Csak ha kék"
+        ],
+        "answer": "Igen"
+      },
+      {
+        "question": "Mi történik, ha a két szám megegyezik a véletlen blokkban?",
+        "options": [
+          "Mindig azt a számot adja vissza",
+          "Hiba lesz",
+          "Kirobban a gép",
+          "Nullát ad"
+        ],
+        "answer": "Mindig azt a számot adja vissza"
+      },
+      {
+        "question": "Lehet-e véletlen hangot lejátszani?",
+        "options": [
+          "Igen, a hang sorszámával",
+          "Nem",
+          "Csak ha hangos",
+          "Csak ha rövid"
+        ],
+        "answer": "Igen, a hang sorszámával"
+      },
+      {
+        "question": "Mire jó a véletlen várakozás?",
+        "options": [
+          "Életszerűbbé teszi a mozgást",
+          "Lefagyasztja a gépet",
+          "Törli az adatokat",
+          "Semmire"
+        ],
+        "answer": "Életszerűbbé teszi a mozgást"
+      },
+      {
+        "question": "Milyen alakú a véletlen szám blokk?",
+        "options": [
+          "Kerek (ovális)",
+          "Hegyes",
+          "Szögletes",
+          "Csillag"
+        ],
+        "answer": "Kerek (ovális)"
+      },
+      {
+        "question": "Mire jó a véletlen méret?",
+        "options": [
+          "Változatos méretű szereplők készítésére",
+          "Láthatatlanná tételre",
+          "Törlésre",
+          "Semmire"
+        ],
+        "answer": "Változatos méretű szereplők készítésére"
+      },
+      {
+        "question": "Mi az a 'seed' (mag) a véletlen számoknál?",
+        "options": [
+          "A véletlensorozat alapja",
+          "Egy növény",
+          "A gép gombja",
+          "Egy fájl"
+        ],
+        "answer": "A véletlensorozat alapja"
+      },
+      {
+        "question": "Lehet-e véletlen irányba fordítani a Sprite-ot?",
+        "options": [
+          "Igen, 1 és 360 fok között",
+          "Nem",
+          "Csak 90 fokkal",
+          "Csak ha megkérjük"
+        ],
+        "answer": "Igen, 1 és 360 fok között"
+      },
+      {
+        "question": "Hogyan hívják a véletlen számot angolul?",
+        "options": [
+          "Random number",
+          "Fast number",
+          "Secret number",
+          "Color number"
+        ],
+        "answer": "Random number"
+      }
+    ],
+    "typing": [
+      "véletlen",
+      "szám",
+      "tartomány",
+      "között",
+      "művelet",
+      "random",
+      "esély",
+      "kocka",
+      "szerencse",
+      "változat"
+    ]
+  }
+}

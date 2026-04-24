@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Engineering Thinking",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is engineering thinking?",
+      "options": [
+        "A way to solve problems and build things",
+        "Thinking about engines only",
+        "Playing with blocks",
+        "Being good at math"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the first step in solving a problem?",
+      "options": [
+        "Understand the problem",
+        "Build a solution",
+        "Test it",
+        "Give up"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Prototype'?",
+      "options": [
+        "A simple first version of an invention",
+        "A very old person",
+        "A type of computer",
+        "A finished product"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is testing important?",
+      "options": [
+        "To see if your solution works and fix mistakes",
+        "To waste time",
+        "To make it look used",
+        "Because it's fun"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Iteration' in engineering?",
+      "options": [
+        "Improving a design by repeating the process",
+        "Throwing it away",
+        "Painting it red",
+        "Making it smaller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Constraints'?",
+      "options": [
+        "Rules or limits you must follow",
+        "Heavy chains",
+        "Type of computer",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Brainstorming'?",
+      "options": [
+        "Coming up with many ideas together",
+        "A storm with brains",
+        "A headache",
+        "Thinking alone in the dark"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Evaluation' mean?",
+      "options": [
+        "Judging how well something worked",
+        "A type of math",
+        "A fast runner",
+        "The end of a project"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do engineers use drawings?",
+      "options": [
+        "To plan their ideas before building",
+        "To win art prizes",
+        "To use more paper",
+        "Because they are bored"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Troubleshooting'?",
+      "options": [
+        "Finding and fixing problems in a system",
+        "Shooting at troubles",
+        "Running away from problems",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a computer programmer an engineer?",
+      "options": [
+        "Yes, a software engineer",
+        "No, they just type",
+        "Only if they build the computer",
+        "Only if they are old"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Teamwork' important for?",
+      "options": [
+        "Solving big problems together",
+        "Getting others to do your work",
+        "Playing games",
+        "Being quiet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Feedback' from a user?",
+      "options": [
+        "Their thoughts on how to improve the product",
+        "Food for the inventor",
+        "A loud noise",
+        "A secret note"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does it mean to 'Optimize'?",
+      "options": [
+        "Making something as good as possible",
+        "Making it bigger",
+        "Making it colorful",
+        "Making it slow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can simple things like a paper clip be engineered?",
+      "options": [
+        "Yes, everything designed has engineering",
+        "No, only machines",
+        "Only if it has a motor",
+        "Only in factories"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Failure' in engineering?",
+      "options": [
+        "A chance to learn and improve",
+        "The end of the world",
+        "A bad grade",
+        "Something to hide"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Requirement'?",
+      "options": [
+        "Something the product MUST do",
+        "A type of gift",
+        "A school lesson",
+        "A funny story"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use models?",
+      "options": [
+        "To test ideas without building the real thing",
+        "To play with",
+        "To show off",
+        "Because they are small"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Documentation'?",
+      "options": [
+        "Writing down how something works or was built",
+        "A type of movie",
+        "Collecting doctors",
+        "Deleting files"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sustainability'?",
+      "options": [
+        "Building things that don't harm the environment",
+        "Building things that last 1 day",
+        "Building things that are heavy",
+        "Building with sand"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Scale Model'?",
+      "options": [
+        "A model that is a smaller version but correct size ratio",
+        "A model that can weigh things",
+        "A model of a fish",
+        "A giant model"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is coding part of engineering today?",
+      "options": [
+        "Yes, very much so",
+        "No, it's just for fun",
+        "Only for robots",
+        "Only for space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Safety' in engineering?",
+      "options": [
+        "Ensuring the product doesn't hurt anyone",
+        "Wearing a helmet all the time",
+        "Locked doors",
+        "A secret password"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Interface'?",
+      "options": [
+        "How a user interacts with a machine",
+        "A face on the internet",
+        "A type of cable",
+        "The inside of a box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Innovation'?",
+      "options": [
+        "Creating something new or better",
+        "Doing the same thing",
+        "Copying others",
+        "A type of computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: button",
+      "answer": "button"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: image",
+      "answer": "image"
+    }
+  ]
+}

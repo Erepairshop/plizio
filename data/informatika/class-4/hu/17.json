@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Prezentáció feladat",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mi a prezentáció célja?",
+        "options": [
+          "Információ átadása és bemutatása",
+          "Rejtőzködés",
+          "Alvás",
+          "Játék"
+        ],
+        "answer": "Információ átadása és bemutatása"
+      },
+      {
+        "question": "Mi az a 'dia'?",
+        "options": [
+          "A prezentáció egy oldala",
+          "Egy filmtekercs",
+          "Egy kisablak",
+          "A monitor"
+        ],
+        "answer": "A prezentáció egy oldala"
+      },
+      {
+        "question": "Hogyan lehet a Scratch-et prezentációra használni?",
+        "options": [
+          "Interaktív bemutatók készítésével",
+          "Csak rajzolásra",
+          "Csak zenére",
+          "Sehogy"
+        ],
+        "answer": "Interaktív bemutatók készítésével"
+      },
+      {
+        "question": "Mi az a 'beszéd buborék'?",
+        "options": [
+          "Szöveges üzenet a Sprite felett",
+          "Szappanbuborék",
+          "A gép zúgása",
+          "A monitor pora"
+        ],
+        "answer": "Szöveges üzenet a Sprite felett"
+      },
+      {
+        "question": "Melyik blokkal írhatunk szöveget a képernyőre?",
+        "options": [
+          "mondd ...",
+          "gondold ...",
+          "írj",
+          "fess"
+        ],
+        "answer": "mondd ..."
+      },
+      {
+        "question": "Mi a különbség a 'mondd' és a 'gondold' között?",
+        "options": [
+          "A kinézetük (buborék típusa)",
+          "Nincs különbség",
+          "A 'mondd' hangosabb",
+          "A 'gondold' lassabb"
+        ],
+        "answer": "A kinézetük (buborék típusa)"
+      },
+      {
+        "question": "Mire jó a 'mondd ... 2 másodpercig'?",
+        "options": [
+          "Hogy legyen idő elolvasni",
+          "Hogy eltűnjön azonnal",
+          "Hogy megálljon a gép",
+          "Hogy színes legyen"
+        ],
+        "answer": "Hogy legyen idő elolvasni"
+      },
+      {
+        "question": "Hogyan lehet navigálni a diák között?",
+        "options": [
+          "Billentyűkkel vagy kattintással",
+          "Sehogy",
+          "Fújjunk a monitorra",
+          "Kiabáljunk"
+        ],
+        "answer": "Billentyűkkel vagy kattintással"
+      },
+      {
+        "question": "Mi az az animált átmenet?",
+        "options": [
+          "Amikor a diák szépen váltanak",
+          "Amikor elromlik a kép",
+          "Amikor kikapcsol a gép",
+          "Amikor zenél"
+        ],
+        "answer": "Amikor a diák szépen váltanak"
+      },
+      {
+        "question": "Mire jó a háttérzene a bemutató alatt?",
+        "options": [
+          "A figyelem fenntartására és hangulatra",
+          "Zavarásra",
+          "Altatásra",
+          "Semmire"
+        ],
+        "answer": "A figyelem fenntartására és hangulatra"
+      },
+      {
+        "question": "Mi az a 'script' a prezentációban?",
+        "options": [
+          "Az előadás szövege",
+          "A gép kábele",
+          "A monitor kerete",
+          "A billentyűzet"
+        ],
+        "answer": "Az előadás szövege"
+      },
+      {
+        "question": "Hogyan tehetjük érdekessé a bemutatót?",
+        "options": [
+          "Képekkel, hangokkal és interakcióval",
+          "Sok unalmas szöveggel",
+          "Fekete-fehér képekkel",
+          "Sötét szobával"
+        ],
+        "answer": "Képekkel, hangokkal és interakcióval"
+      },
+      {
+        "question": "Melyik blokkal tudunk képet váltani?",
+        "options": [
+          "következő háttér",
+          "következő jelmez",
+          "mindkettő",
+          "egyik sem"
+        ],
+        "answer": "mindkettő"
+      },
+      {
+        "question": "Mi az a teljes képernyős mód?",
+        "options": [
+          "Amikor a projekt kitölti a monitort",
+          "Amikor nagy a monitor",
+          "Amikor közel megyünk",
+          "Amikor szemüveget veszünk"
+        ],
+        "answer": "Amikor a projekt kitölti a monitort"
+      },
+      {
+        "question": "Hogyan kell érthetően beszélni a bemutató alatt?",
+        "options": [
+          "Tagoltan és megfelelő hangerővel",
+          "Halkan és gyorsan",
+          "Kiabálva",
+          "Suttogva"
+        ],
+        "answer": "Tagoltan és megfelelő hangerővel"
+      },
+      {
+        "question": "Mi a legfontosabb egy dián?",
+        "options": [
+          "A lényeg és a jól olvasható szöveg",
+          "Sok kis apró betű",
+          "Nagyon sok kép",
+          "Sötét háttér sötét betűvel"
+        ],
+        "answer": "A lényeg és a jól olvasható szöveg"
+      },
+      {
+        "question": "Mire jó az 'időzített' váltás?",
+        "options": [
+          "Automatikus haladás az előadásban",
+          "A gép kikapcsolása",
+          "A lámpa leoltása",
+          "Semmire"
+        ],
+        "answer": "Automatikus haladás az előadásban"
+      },
+      {
+        "question": "Hogyan vonhatjuk be a közönséget?",
+        "options": [
+          "Kérdésekkel és interaktív részekkel",
+          "Ne nézzünk rájuk",
+          "Beszéljünk a falnak",
+          "Aludjunk el"
+        ],
+        "answer": "Kérdésekkel és interaktív részekkel"
+      },
+      {
+        "question": "Mit jelent a 'vizuális segédeszköz'?",
+        "options": [
+          "Képek, videók, ábrák",
+          "Szemüveg",
+          "Nagyító",
+          "Lámpa"
+        ],
+        "answer": "Képek, videók, ábrák"
+      },
+      {
+        "question": "Milyen blokkal készíthetünk kvízt a bemutatóba?",
+        "options": [
+          "kérdezd ... és várj",
+          "mondd",
+          "írj",
+          "menj"
+        ],
+        "answer": "kérdezd ... és várj"
+      },
+      {
+        "question": "Hol találjuk a választ a 'kérdezd' blokk után?",
+        "options": [
+          "A 'válasz' kerek blokkban",
+          "Sehol",
+          "Kiírja a macska",
+          "A kukában"
+        ],
+        "answer": "A 'válasz' kerek blokkban"
+      },
+      {
+        "question": "Hogyan menthetjük a bemutatónkat?",
+        "options": [
+          "Fájl -> Mentés most",
+          "Sehogy",
+          "Kikapcsolással",
+          "Ráfújással"
+        ],
+        "answer": "Fájl -> Mentés most"
+      },
+      {
+        "question": "Mi az a 'testbeszéd'?",
+        "options": [
+          "Hogyan állunk és mozgunk előadás közben",
+          "Egy torna",
+          "A kód egy része",
+          "A gép mozgása"
+        ],
+        "answer": "Hogyan állunk és mozgunk előadás közben"
+      },
+      {
+        "question": "Miért jó, ha gyakoroljuk az előadást?",
+        "options": [
+          "Magabiztosabbak leszünk",
+          "Elfáradunk",
+          "Elromlik a hangunk",
+          "Felesleges"
+        ],
+        "answer": "Magabiztosabbak leszünk"
+      },
+      {
+        "question": "Mi a 'köszönöm a figyelmet' szerepe?",
+        "options": [
+          "A bemutató udvarias lezárása",
+          "A kezdés",
+          "Hiba jelzése",
+          "Szünet"
+        ],
+        "answer": "A bemutató udvarias lezárása"
+      }
+    ],
+    "typing": [
+      "bemutató",
+      "előadás",
+      "dia",
+      "szöveg",
+      "kép",
+      "hang",
+      "közönség",
+      "figyelem",
+      "magyarázat",
+      "zárás"
+    ]
+  }
+}

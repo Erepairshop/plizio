@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Sicherer Download",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Download'?",
+      "options": [
+        "Etwas aus dem Internet auf den PC laden",
+        "Etwas ins Internet schicken",
+        "Den PC ausschalten",
+        "Ein Bild malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Download-Quelle'?",
+      "options": [
+        "Die Webseite, von der man lädt",
+        "Ein Brunnen",
+        "Ein Kabel",
+        "Ein Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine vertrauenswürdige Seite?",
+      "options": [
+        "Eine bekannte und sichere Webseite",
+        "Eine Seite mit viel Werbung",
+        "Eine Seite ohne Namen",
+        "Jede Seite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Programme ohne Erlaubnis der Eltern laden?",
+      "options": [
+        "Nein, niemals",
+        "Ja, klar",
+        "Nur kleine Programme",
+        "Nur Spiele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Computervirus?",
+      "options": [
+        "Ein schädliches Programm",
+        "Ein echter Schnupfen",
+        "Ein kleiner Käfer",
+        "Ein bunter Fisch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schützt man sich vor Viren?",
+      "options": [
+        "Mit einem Antiviren-Programm",
+        "Mit Händewaschen",
+        "Mit einer Maske",
+        "Mit dem Ausschalten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Dateiendung?",
+      "options": [
+        "Die Buchstaben am Ende (z.B. .exe, .pdf)",
+        "Der Name der Datei",
+        "Die Größe",
+        "Die Farbe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Dateiendung kann gefährlich sein?",
+      "options": [
+        ".exe (aus unbekannter Quelle)",
+        ".txt",
+        ".jpg",
+        ".mp3"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man auf 'Download' klickt?",
+      "options": [
+        "Die Datei wird übertragen",
+        "Der PC geht kaputt",
+        "Das Internet ist weg",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Fortschrittsbalken?",
+      "options": [
+        "Zeigt an, wie lange der Download dauert",
+        "Ein spiel",
+        "Ein Lineal",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man heruntergeladene Dateien?",
+      "options": [
+        "Im Ordner 'Downloads'",
+        "Auf dem Desktop",
+        "Im Papierkorb",
+        "Im Kühlschrank"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Installationsdatei?",
+      "options": [
+        "Ein Programm zum Einrichten von Software",
+        "Ein Bild",
+        "Ein Text",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Werbung mit 'Jetzt downloaden' oft gefährlich?",
+      "options": [
+        "Es könnte Fake oder Schadsoftware sein",
+        "Es ist immer ein Geschenk",
+        "Es ist lustig",
+        "Es ist bunt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Apps nur aus offiziellen Stores laden?",
+      "options": [
+        "Ja (z.B. App Store, Play Store)",
+        "Nein, egal woher",
+        "Nur von Freunden",
+        "Nur von YouTube"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Abbrechen'?",
+      "options": [
+        "Den Download stoppen",
+        "Den Download starten",
+        "Den PC löschen",
+        "Den Monitor putzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Musik einfach so kostenlos downloaden?",
+      "options": [
+        "Nur von legalen Seiten",
+        "Ja, immer",
+        "Nein, nie",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine PDF-Datei?",
+      "options": [
+        "Ein festes Dokumentenformat",
+        "Ein spiel",
+        "Ein Video",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine ZIP-Datei?",
+      "options": [
+        "Mehrere Dateien verpackt in eine",
+        "Ein schneller Download",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum braucht man Speicherplatz für Downloads?",
+      "options": [
+        "Weil die Datei Platz auf der Festplatte braucht",
+        "Weil sie sonst wegfliegt",
+        "Braucht man nicht",
+        "Wegen der Farbe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Schadsoftware (Malware)?",
+      "options": [
+        "Programme, die dem PC schaden",
+        "Gute Programme",
+        "Spiele",
+        "Malprogramme"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man bei Warnmeldungen den Download stoppen?",
+      "options": [
+        "Ja, vorsichtshalber",
+        "Nein, ignorieren",
+        "PC schütteln",
+        "Laut schreien"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Lizenz?",
+      "options": [
+        "Die Erlaubnis, etwas zu nutzen",
+        "Ein Führerschein",
+        "Ein Ausweis",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Download den PC langsam machen?",
+      "options": [
+        "Ja, wenn viele gleichzeitig laufen",
+        "Nein",
+        "Nur bei Regen",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Update?",
+      "options": [
+        "Eine neuere, verbesserte Version",
+        "Ein alter Fehler",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Downloads prüfen?",
+      "options": [
+        "Ja, mit einem Virenscanner",
+        "Nein",
+        "Nur anschauen",
+        "Nur riechen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Download",
+      "answer": "Download"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Sicherheit",
+      "answer": "Sicherheit"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Virus",
+      "answer": "Virus"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Quelle",
+      "answer": "Quelle"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Datei",
+      "answer": "Datei"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Speichern",
+      "answer": "Speichern"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Programm",
+      "answer": "Programm"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Gefahr",
+      "answer": "Gefahr"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schutz",
+      "answer": "Schutz"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Prüfen",
+      "answer": "Prüfen"
+    }
+  ]
+}

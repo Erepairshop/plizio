@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Präsentationen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Präsentationsprogramm?",
+      "options": [
+        "Z.B. Google Präsentationen oder PowerPoint",
+        "Schreibprogramm",
+        "Spiel",
+        "Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woraus besteht eine Präsentation?",
+      "options": [
+        "Aus Folien",
+        "Aus Seiten",
+        "Aus Blättern",
+        "Aus Rollen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Folie'?",
+      "options": [
+        "Eine einzelne Seite der Präsentation",
+        "Eine Plastikfolie",
+        "Ein Bild",
+        "Ein Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was gehört oft auf die erste Folie?",
+      "options": [
+        "Titel und Name",
+        "Das Ende",
+        "Ein langes Video",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck einer Präsentation?",
+      "options": [
+        "Informationen anschaulich zeigen",
+        "Nur zum Spielen",
+        "Zum Schlafen",
+        "Zum Musik hören"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Bilder auf Folien einfügen?",
+      "options": [
+        "Ja, das macht es besser",
+        "Nein",
+        "Nur mit Kleber",
+        "Nur schwarze Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Textfeld?",
+      "options": [
+        "Ein Bereich, in den man schreibt",
+        "Ein Feld im Wald",
+        "Ein Buchstabe",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Übergang?",
+      "options": [
+        "Ein Effekt beim Wechsel der Folien",
+        "Eine Brücke",
+        "Ein weg",
+        "Ein Tunnel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Animation?",
+      "options": [
+        "Bewegung von Objekten auf einer Folie",
+        "Ein echter film",
+        "Ein Standbild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie startet man die Präsentation?",
+      "options": [
+        "Klick auf 'Präsentieren' oder 'Start'",
+        "PC schütteln",
+        "Licht ausmachen",
+        "Fenster öffnen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte viel Text auf einer Folie stehen?",
+      "options": [
+        "Nein, lieber kurz und knapp",
+        "Ja, so viel wie möglich",
+        "Nur Zahlen",
+        "Gar kein Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Design/Thema?",
+      "options": [
+        "Das Aussehen der ganzen Präsentation",
+        "Ein Lied",
+        "Ein Name",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Videos in Präsentationen einbauen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur bei Regen",
+        "Nur nachts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie wechselt man zur nächsten Folie?",
+      "options": [
+        "Klicken oder Pfeiltasten",
+        "PC ausschalten",
+        "Laut rufen",
+        "Warten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Laserpointer (digital)?",
+      "options": [
+        "Ein Lichtpunkt zum Zeigen",
+        "Ein echtes Messer",
+        "Ein Stift",
+        "Ein Radiergummi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Farben wichtig?",
+      "options": [
+        "Damit man alles gut lesen kann",
+        "Nur damit es bunt ist",
+        "Farben sind egal",
+        "Nur für Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Präsentationen gemeinsam bearbeiten?",
+      "options": [
+        "Ja, in der Cloud",
+        "Nein",
+        "Nur nacheinander",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Zusammenfassung?",
+      "options": [
+        "Die wichtigsten Punkte am Ende",
+        "Der Anfang",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man bei einer Präsentation sprechen?",
+      "options": [
+        "Ja, man erklärt die Folien",
+        "Nein, leise sein",
+        "Nur flüstern",
+        "Nur singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Layout?",
+      "options": [
+        "Die Anordnung von Text und Bildern",
+        "Ein Name",
+        "Ein spiel",
+        "Ein Video"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man eine Folie?",
+      "options": [
+        "Rechtsklick -> Löschen",
+        "PC ausschalten",
+        "Monitor putzen",
+        "Singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Präsentationsmodus'?",
+      "options": [
+        "Vollbildanzeige der Folien",
+        "Ein Spielmodus",
+        "Schlafmodus",
+        "Musikmodus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Formen (Kreise, Pfeile) einfügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Vierecke",
+        "Nur Kreuze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Hintergrundmusik?",
+      "options": [
+        "Musik, die leise im Hintergrund läuft",
+        "Ein lautes Konzert",
+        "Ein film",
+        "Ein Gespräch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie speichert man eine Präsentation?",
+      "options": [
+        "Meistens automatisch online",
+        "Auf Papier",
+        "Gar nicht",
+        "Auf CD"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Präsentation",
+      "answer": "Präsentation"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Folie",
+      "answer": "Folie"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Titel",
+      "answer": "Titel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Inhalt",
+      "answer": "Inhalt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Bild",
+      "answer": "Bild"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Design",
+      "answer": "Design"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Vortrag",
+      "answer": "Vortrag"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Zeigen",
+      "answer": "Zeigen"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Effekt",
+      "answer": "Effekt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Thema",
+      "answer": "Thema"
+    }
+  ]
+}

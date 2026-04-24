@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Einführung in Algorithmen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Algorithmus?",
+      "options": [
+        "Eine genaue Schritt-für-Schritt-Anleitung",
+        "Ein kompliziertes Rätsel",
+        "Ein Computerbauteil",
+        "Ein Tier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man Algorithmen im Alltag?",
+      "options": [
+        "Beim Backrezept oder Zähneputzen",
+        "Nur im Computer",
+        "Nirgendwo",
+        "Im Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum brauchen Computer Algorithmen?",
+      "options": [
+        "Weil sie Befehle genau brauchen",
+        "Damit sie schlafen können",
+        "Zum Spaß",
+        "Weil sie Hunger haben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein wichtiger Teil eines Algorithmus?",
+      "options": [
+        "Die richtige Reihenfolge",
+        "Schöne Farben",
+        "Laute Musik",
+        "Viele Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn ein Schritt fehlt?",
+      "options": [
+        "Der Algorithmus funktioniert nicht richtig",
+        "Es ist egal",
+        "Der PC wird schneller",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist ein Kochrezept ein Algorithmus?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur wenn man kocht",
+        "Nur im Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Schleife'?",
+      "options": [
+        "Ein Teil, der sich wiederholt",
+        "Ein Knoten im Schuh",
+        "Ein Kreis",
+        "Ein Ende"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Bedingung'?",
+      "options": [
+        "Eine Entscheidung (Wenn..., dann...)",
+        "Ein Gesetz",
+        "Ein Wetter",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Programmieren?",
+      "options": [
+        "Algorithmen für den Computer schreiben",
+        "Texte tippen",
+        "Spielen",
+        "Bilder malen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man einen Fehler im Algorithmus?",
+      "options": [
+        "Bug (Käfer)",
+        "Vogel",
+        "Hund",
+        "Katze"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Flussdiagramm?",
+      "options": [
+        "Eine Zeichnung eines Algorithmus",
+        "Ein Fluss in den Bergen",
+        "Ein Bild vom Meer",
+        "Ein spiel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Start' im Algorithmus?",
+      "options": [
+        "Der Beginn der Anleitung",
+        "Das Ende",
+        "Eine Pause",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Stopp'?",
+      "options": [
+        "Das Ende der Anleitung",
+        "Der Anfang",
+        "Ein Link",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Mensch wie ein Roboter Algorithmen folgen?",
+      "options": [
+        "Ja, wenn die Schritte klar sind",
+        "Nein, niemals",
+        "Nur beim Sport",
+        "Nur im Schlaf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Logik?",
+      "options": [
+        "Richtiges und folgerichtiges Denken",
+        "Ein Gefühl",
+        "Ein Bild",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Eingabe?",
+      "options": [
+        "Informationen, die man gibt",
+        "Das Ergebnis",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Ausgabe?",
+      "options": [
+        "Das Ergebnis des Algorithmus",
+        "Der Anfang",
+        "Ein Knopf",
+        "Ein Kabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Algorithmen immer schlau?",
+      "options": [
+        "Nur so schlau wie der Ersteller",
+        "Ja, immer",
+        "Nein, nie",
+        "Nur am Montag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Sortieren als Algorithmus?",
+      "options": [
+        "Dinge in eine Reihenfolge bringen",
+        "Dinge wegwerfen",
+        "Dinge bemalen",
+        "Dinge verstecken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Suchen als Algorithmus?",
+      "options": [
+        "Etwas Bestimmtes finden",
+        "Etwas verlieren",
+        "Etwas bauen",
+        "Etwas singen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Zerlegung?",
+      "options": [
+        "Ein großes Problem in kleine Teile teilen",
+        "Etwas kaputt machen",
+        "Etwas essen",
+        "Etwas schlafen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Algorithmen auf Papier schreiben?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur im Computer",
+        "Nur mit Strom"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Befehl?",
+      "options": [
+        "Eine einzelne Anweisung",
+        "Eine Bitte",
+        "Ein Wunsch",
+        "Ein Lied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Variable?",
+      "options": [
+        "Ein Platzhalter für Informationen",
+        "Ein fester Wert",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind klare Anweisungen wichtig?",
+      "options": [
+        "Damit es keine Missverständnisse gibt",
+        "Damit es lustiger ist",
+        "Egal",
+        "Weil es schön aussieht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Algorithmus",
+      "answer": "Algorithmus"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Anleitung",
+      "answer": "Anleitung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Schritt",
+      "answer": "Schritt"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Regel",
+      "answer": "Regel"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Folge",
+      "answer": "Folge"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Logik",
+      "answer": "Logik"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Befehl",
+      "answer": "Befehl"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Plan",
+      "answer": "Plan"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Lösung",
+      "answer": "Lösung"
+    },
+    {
+      "type": "typing",
+      "question": "Tippe das Wort: Denken",
+      "answer": "Denken"
+    }
+  ]
+}

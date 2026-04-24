@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Összefoglalás K4",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Melyik blokkal kezdjük a Scratch programot?",
+        "options": [
+          "Amikor a zöld zászlóra kattintunk",
+          "Menj",
+          "Mondd",
+          "Stop"
+        ],
+        "answer": "Amikor a zöld zászlóra kattintunk"
+      },
+      {
+        "question": "Mi az algoritmus?",
+        "options": [
+          "Lépések sorozata egy probléma megoldására",
+          "Egy fajta virág",
+          "A számítógép neve",
+          "Egy nehéz szó"
+        ],
+        "answer": "Lépések sorozata egy probléma megoldására"
+      },
+      {
+        "question": "Mit csinál a 'mindig' ciklus?",
+        "options": [
+          "Végtelenül ismétli a benne lévő blokkokat",
+          "Egyszer fut le",
+          "Megállítja a gépet",
+          "Törli a kódot"
+        ],
+        "answer": "Végtelenül ismétli a benne lévő blokkokat"
+      },
+      {
+        "question": "Hogyan érzékeljük, ha két Sprite összeér?",
+        "options": [
+          "Érinted a ...-t? blokkal",
+          "Nézzük",
+          "Mérjük",
+          "Nem lehet"
+        ],
+        "answer": "Érinted a ...-t? blokkal"
+      },
+      {
+        "question": "Mire jó a változó?",
+        "options": [
+          "Adatok (pl. pontszám) tárolására",
+          "Dísznek",
+          "Hangnak",
+          "Mozgásnak"
+        ],
+        "answer": "Adatok (pl. pontszám) tárolására"
+      },
+      {
+        "question": "Mi a HTML fő feladata?",
+        "options": [
+          "Weboldalak szerkezete",
+          "Zeneírás",
+          "Játék",
+          "Vírusirtás"
+        ],
+        "answer": "Weboldalak szerkezete"
+      },
+      {
+        "question": "Hogyan hívjuk a programhibát?",
+        "options": [
+          "Bug",
+          "Dog",
+          "Cat",
+          "Fly"
+        ],
+        "answer": "Bug"
+      },
+      {
+        "question": "Mi a biztonságos jelszó?",
+        "options": [
+          "Hosszú és vegyes karakterekből áll",
+          "A nevünk",
+          "1234",
+          "Jelszó"
+        ],
+        "answer": "Hosszú és vegyes karakterekből áll"
+      },
+      {
+        "question": "Mivel mérjük a nagy adatmennyiséget?",
+        "options": [
+          "Gigabájt (GB)",
+          "Milliméter",
+          "Kilogramm",
+          "Liter"
+        ],
+        "answer": "Gigabájt (GB)"
+      },
+      {
+        "question": "Mi a digitális lábnyom?",
+        "options": [
+          "Nyomunk a neten",
+          "Cipőnyom",
+          "Monitor folt",
+          "Egérpad"
+        ],
+        "answer": "Nyomunk a neten"
+      },
+      {
+        "question": "Mi az interaktivitás?",
+        "options": [
+          "A felhasználó és a gép kapcsolata",
+          "A gép zúgása",
+          "A monitor fénye",
+          "Sötétség"
+        ],
+        "answer": "A felhasználó és a gép kapcsolata"
+      },
+      {
+        "question": "Melyik taggel készítünk címsort HTML-ben?",
+        "options": [
+          "<h1>",
+          "<p>",
+          "<a>",
+          "<img>"
+        ],
+        "answer": "<h1>"
+      },
+      {
+        "question": "Melyik blokk generál véletlen számot?",
+        "options": [
+          "véletlen szám",
+          "írj számot",
+          "számolj",
+          "mennyit?"
+        ],
+        "answer": "véletlen szám"
+      },
+      {
+        "question": "Hogyan hívjuk az animációhoz a képeket?",
+        "options": [
+          "Jelmezek",
+          "Ruhák",
+          "Maszkok",
+          "Sapkák"
+        ],
+        "answer": "Jelmezek"
+      },
+      {
+        "question": "Mire való a 'ha ... akkor' blokk?",
+        "options": [
+          "Feltételes döntésre",
+          "Mindig ismétlésre",
+          "Hangra",
+          "Színre"
+        ],
+        "answer": "Feltételes döntésre"
+      },
+      {
+        "question": "Mit csinál az üzenet küldése?",
+        "options": [
+          "Jelez más szereplőknek",
+          "E-mailt ír",
+          "SMS-t küld",
+          "Kiabál"
+        ],
+        "answer": "Jelez más szereplőknek"
+      },
+      {
+        "question": "Mi a böngésző?",
+        "options": [
+          "Weboldalak megnyitására való program",
+          "Egy fajta egér",
+          "A monitor márkája",
+          "A billentyűzet"
+        ],
+        "answer": "Weboldalak megnyitására való program"
+      },
+      {
+        "question": "Mi a keresőmotor?",
+        "options": [
+          "Információt keres a neten",
+          "Autó motor",
+          "Játék motor",
+          "Gép hűtő"
+        ],
+        "answer": "Információt keres a neten"
+      },
+      {
+        "question": "Mi a plágium?",
+        "options": [
+          "Más munkájának ellopása",
+          "Egy bolygó",
+          "Egy betegség",
+          "A net sebessége"
+        ],
+        "answer": "Más munkájának ellopása"
+      },
+      {
+        "question": "Mi a netikett?",
+        "options": [
+          "Internetes illem",
+          "Halászháló",
+          "Apró net",
+          "Program"
+        ],
+        "answer": "Internetes illem"
+      },
+      {
+        "question": "Melyik a nagyobb: 1 GB vagy 1 MB?",
+        "options": [
+          "1 GB",
+          "1 MB",
+          "Egyformák",
+          "Egyik sem"
+        ],
+        "answer": "1 GB"
+      },
+      {
+        "question": "Mi a szóköz szerepe a billentyűzeten?",
+        "options": [
+          "Helyköz hagyása",
+          "Törlés",
+          "Indítás",
+          "Kilépés"
+        ],
+        "answer": "Helyköz hagyása"
+      },
+      {
+        "question": "Hogyan hívjuk a Scratch szereplőit?",
+        "options": [
+          "Sprite",
+          "Script",
+          "Space",
+          "Spark"
+        ],
+        "answer": "Sprite"
+      },
+      {
+        "question": "Melyik kategóriában van a 'fordulj' blokk?",
+        "options": [
+          "Mozgás",
+          "Kinézet",
+          "Hang",
+          "Események"
+        ],
+        "answer": "Mozgás"
+      },
+      {
+        "question": "Mi a programozás?",
+        "options": [
+          "Utasítások adása a gépnek",
+          "Tévénézés",
+          "Alvás",
+          "Gépelés"
+        ],
+        "answer": "Utasítások adása a gépnek"
+      }
+    ],
+    "typing": [
+      "összefoglalás",
+      "informatika",
+      "programozás",
+      "tudás",
+      "ismétlés",
+      "vizsga",
+      "projekt",
+      "jövő",
+      "gép",
+      "ember"
+    ]
+  }
+}

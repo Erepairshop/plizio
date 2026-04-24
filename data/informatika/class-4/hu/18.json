@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Weboldal készítés alap HTML",
+  "language": "hu",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Mit jelent a HTML?",
+        "options": [
+          "HyperText Markup Language",
+          "Home Tool Markup Link",
+          "Hyper Tech Modern Language",
+          "Hard Tool Multi Link"
+        ],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "question": "Mire használjuk a HTML-t?",
+        "options": [
+          "Weboldalak szerkezetének megadására",
+          "Képszerkesztésre",
+          "Zenehallgatásra",
+          "Autóvezetésre"
+        ],
+        "answer": "Weboldalak szerkezetének megadására"
+      },
+      {
+        "question": "Milyen jelek közé tesszük a HTML tageket?",
+        "options": [
+          "< és >",
+          "( és )",
+          "{ és }",
+          "[ és ]"
+        ],
+        "answer": "< és >"
+      },
+      {
+        "question": "Mivel kezdődik minden HTML dokumentum?",
+        "options": [
+          "<html>",
+          "<head>",
+          "<body>",
+          "<div>"
+        ],
+        "answer": "<html>"
+      },
+      {
+        "question": "Hol található a weboldal látható tartalma?",
+        "options": [
+          "<body>",
+          "<head>",
+          "<title>",
+          "<meta>"
+        ],
+        "answer": "<body>"
+      },
+      {
+        "question": "Melyik tag jelöli a legnagyobb címsort?",
+        "options": [
+          "<h1>",
+          "<h6>",
+          "<p>",
+          "<span>"
+        ],
+        "answer": "<h1>"
+      },
+      {
+        "question": "Melyik taggel írunk bekezdést?",
+        "options": [
+          "<p>",
+          "<b>",
+          "<i>",
+          "<u>"
+        ],
+        "answer": "<p>"
+      },
+      {
+        "question": "Hogyan zárunk be egy taget?",
+        "options": [
+          "/ jellel, pl. </body>",
+          "* jellel",
+          "- jellel",
+          "\\ jellel"
+        ],
+        "answer": "/ jellel, pl. </body>"
+      },
+      {
+        "question": "Melyik taggel készíthetünk hivatkozást (linket)?",
+        "options": [
+          "<a>",
+          "<li>",
+          "<ul>",
+          "<img>"
+        ],
+        "answer": "<a>"
+      },
+      {
+        "question": "Melyik taggel szúrhatunk be képet?",
+        "options": [
+          "<img>",
+          "<pic>",
+          "<image>",
+          "<photo>"
+        ],
+        "answer": "<img>"
+      },
+      {
+        "question": "Mit jelent a 'head' rész?",
+        "options": [
+          "Információk az oldalról (pl. cím)",
+          "Az oldal teteje a képernyőn",
+          "A látható szöveg",
+          "A képek helye"
+        ],
+        "answer": "Információk az oldalról (pl. cím)"
+      },
+      {
+        "question": "Mi a 'title' tag szerepe?",
+        "options": [
+          "A böngésző fülén megjelenő cím",
+          "A cikk címe",
+          "A szerző neve",
+          "A dátum"
+        ],
+        "answer": "A böngésző fülén megjelenő cím"
+      },
+      {
+        "question": "Mivel készítünk felsorolást (pontozott)?",
+        "options": [
+          "<ul> és <li>",
+          "<ol> és <li>",
+          "<list>",
+          "<dl>"
+        ],
+        "answer": "<ul> és <li>"
+      },
+      {
+        "question": "Mivel készítünk számozott listát?",
+        "options": [
+          "<ol> és <li>",
+          "<ul> és <li>",
+          "<num>",
+          "<sl>"
+        ],
+        "answer": "<ol> és <li>"
+      },
+      {
+        "question": "Hogyan tehetünk félkövérré egy szöveget?",
+        "options": [
+          "<b> vagy <strong>",
+          "<i>",
+          "<u>",
+          "<big>"
+        ],
+        "answer": "<b> vagy <strong>"
+      },
+      {
+        "question": "Hogyan tehetünk döltté egy szöveget?",
+        "options": [
+          "<i> vagy <em>",
+          "<b>",
+          "<u>",
+          "<s>"
+        ],
+        "answer": "<i> vagy <em>"
+      },
+      {
+        "question": "Melyik attribútum kell a link céljához?",
+        "options": [
+          "href",
+          "src",
+          "alt",
+          "link"
+        ],
+        "answer": "href"
+      },
+      {
+        "question": "Melyik attribútum kell a kép forrásához?",
+        "options": [
+          "src",
+          "href",
+          "alt",
+          "id"
+        ],
+        "answer": "src"
+      },
+      {
+        "question": "Mi az az 'alt' szöveg a képnél?",
+        "options": [
+          "Helyettesítő szöveg, ha a kép nem tölt be",
+          "A kép színe",
+          "A kép kora",
+          "A kép ára"
+        ],
+        "answer": "Helyettesítő szöveg, ha a kép nem tölt be"
+      },
+      {
+        "question": "Melyik taggel készítünk táblázatot?",
+        "options": [
+          "<table>",
+          "<grid>",
+          "<box>",
+          "<tab>"
+        ],
+        "answer": "<table>"
+      },
+      {
+        "question": "Mit jelent a 'tr' a táblázatban?",
+        "options": [
+          "Table Row (sor)",
+          "Table Red",
+          "Table Run",
+          "Table Right"
+        ],
+        "answer": "Table Row (sor)"
+      },
+      {
+        "question": "Mit jelent a 'td' a táblázatban?",
+        "options": [
+          "Table Data (cella)",
+          "Table Down",
+          "Table Door",
+          "Table Day"
+        ],
+        "answer": "Table Data (cella)"
+      },
+      {
+        "question": "Mi az a CSS?",
+        "options": [
+          "A weboldalak stílusát (szín, betűtípus) leíró nyelv",
+          "Egy játék",
+          "Egy vírus",
+          "Egy böngésző"
+        ],
+        "answer": "A weboldalak stílusát (szín, betűtípus) leíró nyelv"
+      },
+      {
+        "question": "Mi az a 'hypertext'?",
+        "options": [
+          "Szöveg, ami linkeken keresztül kapcsolódik",
+          "Nagyon gyors gépelés",
+          "Nagy betűk",
+          "Színes betűk"
+        ],
+        "answer": "Szöveg, ami linkeken keresztül kapcsolódik"
+      },
+      {
+        "question": "Mivel nézhetünk meg egy HTML fájlt?",
+        "options": [
+          "Böngészővel (pl. Chrome)",
+          "Kalkulátorral",
+          "Paint-tel",
+          "Jegyzettömbbel csak szerkeszteni lehet"
+        ],
+        "answer": "Böngészővel (pl. Chrome)"
+      }
+    ],
+    "typing": [
+      "html",
+      "weboldal",
+      "szerkezet",
+      "tartalom",
+      "bekezdés",
+      "címsor",
+      "hivatkozás",
+      "lista",
+      "táblázat",
+      "stílus"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "Loops in Scratch",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Loop' in Scratch?",
+      "options": [
+        "A block that repeats other blocks",
+        "A circle sprite",
+        "A jumping move",
+        "A type of music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block repeats a specific number of times?",
+      "options": [
+        "Repeat 10",
+        "Forever",
+        "If then",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block repeats until something happens?",
+      "options": [
+        "Repeat until",
+        "Forever",
+        "Repeat 10",
+        "When clicked"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block repeats non-stop?",
+      "options": [
+        "Forever",
+        "Repeat 10",
+        "Repeat until",
+        "Once"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use loops?",
+      "options": [
+        "To avoid writing the same blocks many times",
+        "To make the program slower",
+        "To confuse the sprite",
+        "Because they look pretty"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you put the blocks you want to repeat?",
+      "options": [
+        "Inside the 'mouth' of the loop block",
+        "On top of the loop block",
+        "Under the loop block",
+        "Next to the loop block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a loop inside another loop?",
+      "options": [
+        "Yes, it's called a nested loop",
+        "No, that's impossible",
+        "Only on Tuesdays",
+        "Only if they are different colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What would 'Repeat 4' + 'Move 10' + 'Turn 90' draw?",
+      "options": [
+        "A square",
+        "A circle",
+        "A triangle",
+        "A straight line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you stop a 'Forever' loop?",
+      "options": [
+        "Click the red stop sign or use a 'stop' block",
+        "Wait for it to finish",
+        "Turn off the monitor",
+        "It never stops"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you put a 'Forever' loop inside a 'Repeat 10' loop?",
+      "options": [
+        "The 'Repeat 10' loop only runs once because the 'Forever' loop never ends",
+        "The program crashes",
+        "It repeats 10 times and stops",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a loop to make a sprite animate?",
+      "options": [
+        "Yes, by switching costumes in a loop",
+        "No, animation is different",
+        "Only with sound",
+        "Only if it's a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Nested Loop'?",
+      "options": [
+        "A loop inside another loop",
+        "A loop for birds",
+        "A broken loop",
+        "A loop with no blocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if a loop has nothing inside it?",
+      "options": [
+        "Nothing happens, it just repeats nothing",
+        "The computer gets hot",
+        "The sprite disappears",
+        "A bug appears"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which category has the loop blocks?",
+      "options": [
+        "Control",
+        "Motion",
+        "Events",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a variable to decide how many times to repeat?",
+      "options": [
+        "Yes, put the variable in the repeat number",
+        "No, it must be a number",
+        "Only if it's 10",
+        "Only if it's a secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Repeat until <touching mouse-pointer>' do?",
+      "options": [
+        "Keeps doing something until you touch it with the mouse",
+        "Repeats when you touch it",
+        "Stops the mouse",
+        "Doesn't do anything"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a 'Forever' loop good for a background music?",
+      "options": [
+        "Yes, to keep it playing",
+        "No, music shouldn't repeat",
+        "Only for sound effects",
+        "Only if it's quiet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to blocks *below* a 'Forever' loop?",
+      "options": [
+        "They never run because the loop never ends",
+        "They run at the same time",
+        "They run after 100 years",
+        "They run first"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many blocks can you put inside a loop?",
+      "options": [
+        "As many as you want",
+        "Only one",
+        "Exactly ten",
+        "Only motion blocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Control blocks?",
+      "options": [
+        "Orange",
+        "Blue",
+        "Yellow",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a loop make a sprite change color?",
+      "options": [
+        "Yes, put 'change color effect' inside a loop",
+        "No, colors are permanent",
+        "Only if it's a ghost",
+        "Only on the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'iteration'?",
+      "options": [
+        "Another word for one cycle of a loop",
+        "A type of lizard",
+        "Deleting a block",
+        "A math mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you stop just one specific loop?",
+      "options": [
+        "Yes, using 'stop this script'",
+        "No, all must stop",
+        "Only by deleting it",
+        "Only if you shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What would happen if you put 'move 10' in a 'Forever' loop?",
+      "options": [
+        "The sprite would keep moving until it hits the edge",
+        "The sprite would move once",
+        "The sprite would explode",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can loops help in making a game score?",
+      "options": [
+        "Usually they are used for checking things repeatedly",
+        "No, never",
+        "Only for the game over screen",
+        "Only for the start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: email",
+      "answer": "email"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: password",
+      "answer": "password"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: message",
+      "answer": "message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: browser",
+      "answer": "browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: window",
+      "answer": "window"
+    }
+  ]
+}

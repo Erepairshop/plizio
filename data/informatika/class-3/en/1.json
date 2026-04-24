@@ -1,0 +1,332 @@
+{
+  "class": 3,
+  "theme": "The Internet",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the Internet?",
+      "options": [
+        "A network of computers",
+        "A type of cake",
+        "A button on the screen",
+        "A book title"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we usually connect to the Internet?",
+      "options": [
+        "Wifi",
+        "Water pipe",
+        "Radio",
+        "Newspaper"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the Internet good for?",
+      "options": [
+        "Finding information",
+        "Sleeping",
+        "Cooking lunch",
+        "Washing socks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a router?",
+      "options": [
+        "A network device",
+        "A type of mouse",
+        "Part of the keyboard",
+        "Screen glass"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a web browser?",
+      "options": [
+        "Chrome",
+        "Hammer",
+        "Apple",
+        "Pencil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'online' mean?",
+      "options": [
+        "Connected to the network",
+        "Turned off",
+        "Bad mood",
+        "Empty folder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who can see what you search for?",
+      "options": [
+        "The network provider",
+        "Nobody in the world",
+        "Only your cat",
+        "The monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a website?",
+      "options": [
+        "A collection of web pages",
+        "A physical building",
+        "The computer desktop",
+        "A box"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does WWW stand for?",
+      "options": [
+        "World Wide Web",
+        "World Wild West",
+        "Water White Wind",
+        "Wait Work Win"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which cable is for networking?",
+      "options": [
+        "Ethernet",
+        "Iron cable",
+        "Lamp cable",
+        "Shoelace"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a modem?",
+      "options": [
+        "A device that converts signals",
+        "A game name",
+        "Keyboard name",
+        "Music style"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is network speed called?",
+      "options": [
+        "Bandwidth",
+        "Length",
+        "Height",
+        "Weight"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a firewall do?",
+      "options": [
+        "Protects the computer",
+        "Heats the room",
+        "Turns off the machine",
+        "Draws a wall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT an internet service?",
+      "options": [
+        "Running in the street",
+        "E-mail",
+        "Browsing",
+        "Streaming"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'downloading' mean?",
+      "options": [
+        "Copying data from the net",
+        "Throwing away the machine",
+        "Cleaning the monitor",
+        "Buying a new mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'uploading' mean?",
+      "options": [
+        "Sending data to the net",
+        "Charging the battery",
+        "Filling a glass",
+        "Cleaning the room"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a social media site?",
+      "options": [
+        "Facebook",
+        "Notepad",
+        "Calculator",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a link?",
+      "options": [
+        "A reference to a page",
+        "A chain link",
+        "A machine cable",
+        "A secret code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the 'at' symbol?",
+      "options": [
+        "@",
+        "#",
+        "$",
+        "&"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'surfing the net' mean?",
+      "options": [
+        "Looking at web pages",
+        "Real wave riding",
+        "Washing the machine",
+        "Typing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a domain name?",
+      "options": [
+        "A website name",
+        "The owner's name",
+        "Machine color",
+        "Screen size"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an IP address?",
+      "options": [
+        "Unique ID on the net",
+        "Home address",
+        "Phone number",
+        "School grade"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a hotspot?",
+      "options": [
+        "A wireless connection point",
+        "A hot spot on the wall",
+        "Machine cooler",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a browser for?",
+      "options": [
+        "Opening web pages",
+        "Drawing",
+        "Listening to music",
+        "Sleeping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the cloud?",
+      "options": [
+        "Online storage",
+        "A cloud in the sky",
+        "Machine dust",
+        "A white button"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: internet",
+      "answer": "internet"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: website",
+      "answer": "website"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: online",
+      "answer": "online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: computer",
+      "answer": "computer"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: keyboard",
+      "answer": "keyboard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: screen",
+      "answer": "screen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: mouse",
+      "answer": "mouse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: click",
+      "answer": "click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: search",
+      "answer": "search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: folder",
+      "answer": "folder"
+    }
+  ]
+}
