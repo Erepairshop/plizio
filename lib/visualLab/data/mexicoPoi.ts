@@ -101,62 +101,174 @@ export const mexicoCities: POI[] = [
     coords: [-99.8901, 16.8531], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_can",    name: { de: "Cancun", hu: "Cancun", ro: "Cancun", en: "Cancun" },
+    id: "mex_can",    name: { de: "Cancun", hu: "Cancun", ro: "Cancun", en: "Cancun" },
     description: { de: "Major resort city in Quintana Roo", hu: "Major resort city in Quintana Roo", ro: "Major resort city in Quintana Roo", en: "Major resort city in Quintana Roo" },
     coords: [-86.8515, 21.1619], type: 'landmark', parent: 'MX'
   },
-];
-
-export const mexicoLandmarks: POI[] = [
   {
-    id: "mex_chichen",    name: { de: "Chichen Itza", hu: "Chichen Itza", ro: "Chichen Itza", en: "Chichen Itza" },
+    id: "mx-rio-bravo",
+    type: "river",
+    parent: "MX",
+    coords: [-104.4250, 29.5639],
+    name: { de: "Rio Bravo", hu: "Rio Bravo", ro: "Rio Bravo", en: "Rio Bravo" },
+    description: { de: "Fluss an der Grenze zwischen Mexiko und den USA.", hu: "Folyó Mexikó és az USA határán.", ro: "Râu la granița dintre Mexic și SUA.", en: "River on the border between Mexico and the USA." }
+  },
+  {
+    id: "mx-lake-chapala",
+    type: "lake",
+    parent: "MX",
+    coords: [-103.0, 20.25],
+    name: { de: "Chapalasee", hu: "Chapala-tó", ro: "Lacul Chapala", en: "Lake Chapala" },
+    description: { de: "Mexikos größter Süßwassersee.", hu: "Mexikó legnagyobb édesvízi tava.", ro: "Cel mai mare lac cu apă dulce din Mexic.", en: "Mexico's largest freshwater lake." }
+  },
+  {
+    id: "mx-lacandon-jungle",
+    type: "forest",
+    parent: "MX",
+    coords: [-91.25, 16.5],
+    name: { de: "Lacandon-Urwald", hu: "Lacandón-dzsungel", ro: "Jungla Lacandonă", en: "Lacandon Jungle" },
+    description: { de: "Tropischer Regenwald im Südosten Mexikos.", hu: "Trópusi esőerdő Mexikó délkeleti részén.", ro: "Pădure tropicală umedă în sud-estul Mexicului.", en: "Tropical rainforest in southeastern Mexico." }
+  },
+  {
+    id: "mx-iztaccihuatl",
+    type: "mountain",
+    parent: "MX",
+    coords: [-98.6419, 19.1762],
+    name: { de: "Iztaccíhuatl", hu: "Iztaccíhuatl", ro: "Iztaccihuatl", en: "Iztaccihuatl" },
+    description: { de: "Ruhender Vulkan, bekannt als die 'schlafende Frau'.", hu: "Alvó vulkán, amelyet 'alvó nőként' ismernek.", ro: "Vulcan adormit, cunoscut sub numele de „femeia adormită”.", en: "Dormant volcano known as the 'sleeping woman'." }
+  },
+  {
+    id: "mx-monte-alban",
+    type: "historical",
+    parent: "MX",
+    coords: [-96.7677, 17.0438],
+    name: { de: "Monte Albán", hu: "Monte Albán", ro: "Monte Albán", en: "Monte Albán" },
+    description: { de: "Ehemalige Hauptstadt der Zapoteken.", hu: "A zapotékok egykori fővárosa.", ro: "Fosta capitală a zapotecilor.", en: "Former capital of the Zapotec civilization." }
+  },
+  {
+    id: "mx-uxmal-new",
+    type: "historical",
+    parent: "MX",
+    coords: [-89.7711, 20.3617],
+    name: { de: "Uxmal", hu: "Uxmal", ro: "Uxmal", en: "Uxmal" },
+    description: { de: "Bedeutende Maya-Ruinenstätte in Yucatán.", hu: "Jelentős maja romváros Yucatánban.", ro: "Sit arheologic maiaș important în Yucatán.", en: "Major Maya archaeological site in Yucatán." }
+  },
+  ];
+
+  export const mexicoLandmarks: POI[] = [
+  {
+    id: "mex_chichen",    name: { de: "Chichen Itza", hu: "Chichen Itza", ro: "Chichen Itza", en: "Chichen Itza" },
     description: { de: "Ancient Maya city", hu: "Ancient Maya city", ro: "Ancient Maya city", en: "Ancient Maya city" },
     coords: [-88.5678, 20.6843], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_teoti",    name: { de: "Teotihuacan", hu: "Teotihuacan", ro: "Teotihuacan", en: "Teotihuacan" },
+    id: "mex_teoti",    name: { de: "Teotihuacan", hu: "Teotihuacan", ro: "Teotihuacan", en: "Teotihuacan" },
     description: { de: "Ancient Mesoamerican city", hu: "Ancient Mesoamerican city", ro: "Ancient Mesoamerican city", en: "Ancient Mesoamerican city" },
     coords: [-98.8436, 19.6925], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_palenque",    name: { de: "Palenque", hu: "Palenque", ro: "Palenque", en: "Palenque" },
+    id: "mex_palenque",    name: { de: "Palenque", hu: "Palenque", ro: "Palenque", en: "Palenque" },
     description: { de: "Maya archaeological site", hu: "Maya archaeological site", ro: "Maya archaeological site", en: "Maya archaeological site" },
     coords: [-92.046, 17.4848], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_tulum",    name: { de: "Tulum", hu: "Tulum", ro: "Tulum", en: "Tulum" },
+    id: "mex_tulum",    name: { de: "Tulum", hu: "Tulum", ro: "Tulum", en: "Tulum" },
     description: { de: "Pre-Columbian Maya walled city", hu: "Pre-Columbian Maya walled city", ro: "Pre-Columbian Maya walled city", en: "Pre-Columbian Maya walled city" },
     coords: [-87.4295, 20.2114], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_cobre",    name: { de: "Copper Canyon", hu: "Copper Canyon", ro: "Copper Canyon", en: "Copper Canyon" },
+    id: "mex_cobre",    name: { de: "Copper Canyon", hu: "Copper Canyon", ro: "Copper Canyon", en: "Copper Canyon" },
     description: { de: "Group of canyons in Chihuahua", hu: "Group of canyons in Chihuahua", ro: "Group of canyons in Chihuahua", en: "Group of canyons in Chihuahua" },
     coords: [-107.7471, 27.5218], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_sumidero",    name: { de: "Sumidero Canyon", hu: "Sumidero Canyon", ro: "Sumidero Canyon", en: "Sumidero Canyon" },
+    id: "mex_sumidero",    name: { de: "Sumidero Canyon", hu: "Sumidero Canyon", ro: "Sumidero Canyon", en: "Sumidero Canyon" },
     description: { de: "Canyon in Chiapas", hu: "Canyon in Chiapas", ro: "Canyon in Chiapas", en: "Canyon in Chiapas" },
     coords: [-93.0906, 16.8377], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_cenotes",    name: { de: "Cenote Ik Kil", hu: "Cenote Ik Kil", ro: "Cenote Ik Kil", en: "Cenote Ik Kil" },
+    id: "mex_cenotes",    name: { de: "Cenote Ik Kil", hu: "Cenote Ik Kil", ro: "Cenote Ik Kil", en: "Cenote Ik Kil" },
     description: { de: "Famous cenote in Yucatan", hu: "Famous cenote in Yucatan", ro: "Famous cenote in Yucatan", en: "Famous cenote in Yucatan" },
     coords: [-88.5507, 20.6612], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_pico",    name: { de: "Pico de Orizaba", hu: "Pico de Orizaba", ro: "Pico de Orizaba", en: "Pico de Orizaba" },
+    id: "mex_pico",    name: { de: "Pico de Orizaba", hu: "Pico de Orizaba", ro: "Pico de Orizaba", en: "Pico de Orizaba" },
     description: { de: "Highest mountain in Mexico", hu: "Highest mountain in Mexico", ro: "Highest mountain in Mexico", en: "Highest mountain in Mexico" },
     coords: [-97.2681, 19.0305], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_popocatepetl",    name: { de: "Popocatepetl", hu: "Popocatepetl", ro: "Popocatepetl", en: "Popocatepetl" },
+    id: "mex_popocatepetl",    name: { de: "Popocatepetl", hu: "Popocatepetl", ro: "Popocatepetl", en: "Popocatepetl" },
     description: { de: "Active volcano", hu: "Active volcano", ro: "Active volcano", en: "Active volcano" },
     coords: [-98.6275, 19.0222], type: 'landmark', parent: 'MX'
   },
   {
-    id: "mex_uxmal",    name: { de: "Uxmal", hu: "Uxmal", ro: "Uxmal", en: "Uxmal" },
+    id: "mex_uxmal",    name: { de: "Uxmal", hu: "Uxmal", ro: "Uxmal", en: "Uxmal" },
     description: { de: "Ancient Maya city", hu: "Ancient Maya city", ro: "Ancient Maya city", en: "Ancient Maya city" },
     coords: [-89.7711, 20.3594], type: 'landmark', parent: 'MX'
+  },
+  {
+    id: "mx-el-tajin",
+    type: "historical",
+    parent: "MX",
+    coords: [-97.3778, 20.4467],
+    name: { de: "El Tajín", hu: "El Tajín", ro: "El Tajín", en: "El Tajín" },
+    description: { de: "Archäologische Stätte in Veracruz mit der Nischenpyramide.", hu: "Régészeti lelőhely Veracruzban a fülkés piramissal.", ro: "Sit arheologic în Veracruz, cu piramida nișelor.", en: "Archaeological site in Veracruz featuring the Pyramid of the Niches." }
+  },
+  {
+    id: "mx-calakmul",
+    type: "historical",
+    parent: "MX",
+    coords: [-89.8103, 18.1067],
+    name: { de: "Calakmul", hu: "Calakmul", ro: "Calakmul", en: "Calakmul" },
+    description: { de: "Antike Maya-Stadt im Regenwald von Campeche.", hu: "Ősi maja város Campeche esőerdőiben.", ro: "Oraș maiaș antic în pădurea tropicală din Campeche.", en: "Ancient Maya city in the Campeche rainforest." }
+  },
+  {
+    id: "mx-hospicio-cabanas",
+    type: "historical",
+    parent: "MX",
+    coords: [-103.3364, 20.6769],
+    name: { de: "Hospicio Cabañas", hu: "Hospicio Cabañas", ro: "Hospicio Cabañas", en: "Hospicio Cabañas" },
+    description: { de: "Historisches Gebäude in Guadalajara mit berühmten Wandgemälden.", hu: "Történelmi épület Guadalajarában híres falfestményekkel.", ro: "Clădire istorică din Guadalajara, cu picturi murale faimoase.", en: "Historic building in Guadalajara featuring famous murals." }
+  },
+  {
+    id: "mx-angel-independence",
+    type: "landmark",
+    parent: "MX",
+    coords: [-99.1677, 19.427],
+    name: { de: "Engel der Unabhängigkeit", hu: "A függetlenség angyala", ro: "Îngerul Independenței", en: "Angel of Independence" },
+    description: { de: "Siegesdenkmal in Mexiko-Stadt.", hu: "Győzelmi emlékmű Mexikóvárosban.", ro: "Monument al victoriei în Mexico City.", en: "Victory column in Mexico City." }
+  },
+  {
+    id: "mx-chapultepec-castle",
+    type: "landmark",
+    parent: "MX",
+    coords: [-99.1813, 19.4205],
+    name: { de: "Schloss Chapultepec", hu: "Chapultepec kastély", ro: "Castelul Chapultepec", en: "Chapultepec Castle" },
+    description: { de: "Historisches Schloss auf dem Chapultepec-Hügel.", hu: "Történelmi kastély a Chapultepec-dombon.", ro: "Castel istoric situat pe dealul Chapultepec.", en: "Historic castle located on Chapultepec Hill." }
+  },
+  {
+    id: "mx-guadalupe-basilica",
+    type: "landmark",
+    parent: "MX",
+    coords: [-99.1176, 19.4847],
+    name: { de: "Basilika Unserer Lieben Frau von Guadalupe", hu: "Guadalupe-i Szűzanya-bazilika", ro: "Bazilica Maicii Domnului din Guadalupe", en: "Basilica of Our Lady of Guadalupe" },
+    description: { de: "Eine der wichtigsten katholischen Wallfahrtsstätten der Welt.", hu: "A világ egyik legfontosabb katolikus zarándokhelye.", ro: "Unul dintre cele mai importante locuri de pelerinaj catolice din lume.", en: "One of the most important Catholic pilgrimage sites in the world." }
+  },
+  {
+    id: "mx-xochimilco",
+    type: "landmark",
+    parent: "MX",
+    coords: [-99.1033, 19.2433],
+    name: { de: "Xochimilco", hu: "Xochimilco", ro: "Xochimilco", en: "Xochimilco" },
+    description: { de: "Bekannt für seine schwimmenden Gärten und Kanäle.", hu: "Lebő kertjeiről és csatornáiról ismert.", ro: "Cunoscut pentru grădinile sale plutitoare și canale.", en: "Known for its floating gardens and canals." }
+  },
+  {
+    id: "mx-cabo-arch",
+    type: "landmark",
+    parent: "MX",
+    coords: [-109.8944, 22.8761],
+    name: { de: "El Arco", hu: "El Arco", ro: "El Arco", en: "El Arco" },
+    description: { de: "Markante Felsformation an der Südspitze von Baja California.", hu: "Jellegzetes sziklaalakzat Baja California déli csücskén.", ro: "Formațiune stâncoasă proeminentă în vârful sudic al peninsulei Baja California.", en: "Distinctive rock formation at the southern tip of Baja California." }
   },
 ];
 
