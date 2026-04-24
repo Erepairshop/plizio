@@ -1,5 +1,7 @@
 # GEMINI.md — Plizio projekt Gemini-utasítások
 
+> Ez a fájl minden Gemini sessionnél automatikusan beolvasódik. **Élő dokumentum** — ha tartalom-generáláskor hibázol, az új szabály rögzítésre kerül itt, hogy legközelebb ne forduljon elő.
+
 ## Alapelvek (SEO-oriented POI / curriculum generation)
 
 ### 1. Narratív, nem csak száraz tények
@@ -69,3 +71,87 @@ Német mezőbe csak német szó, magyar mezőbe csak magyar, stb. Ékezetek hely
 - Sitemap: `app/sitemap.ts` (auto-discover minden `*Poi.ts`-ből)
 - Schema.org helpers: `components/seo/StructuredData.tsx`
 - Quiz adat: `lib/visualLab/quiz/data/*Quiz.ts` — ha ehhez nyúlsz, `scripts/validateQuiz.ts` futni fog pre-commit hookban.
+
+## POI képek szabálya
+- `image` mezőt CSAK akkor adj hozzá, ha TUDOD hogy a `/public/geo-images/{country-slug}/{poi-slug}.webp` tényleg létezik. Ellenőrizd `ls public/geo-images/{country-slug}/` parancstal.
+- Útvonal-konvenció: `/geo-images/{country-slug}/{poi-slug}.webp` — `country-slug` kebab-case angol (`czech-republic`, `dominican-republic`, `united-kingdom`), `poi-slug` = POI id vagy kebab-case név.
+- Formátum: `.webp` kötelező (`.jpg`/`.png` TILOS).
+- Ha nem létezik a kép → `image` mezőt HAGY KI, ne tegyél placeholdert.
+
+## Kerülendő kliséfrázisok (silány SEO)
+Ne használd ezeket: "csodálatos hely", "lenyűgöző táj", "történelmi jelentőségű", "felejthetetlen élmény", "pompás kilátás", "nem hiába nevezik X-nek".
+Helyettük: KONKRÉT tényt írj (pl. "A torony 92 m magas" NEM "impozáns magasság"; "1867-ben épült" NEM "történelmi múltú").
+
+## Audio / IPA
+- Ha `audio` mezőt írsz, csak ha TUDOD hogy az MP3/WAV fájl létezik — ne találgasd. Inkább hagyd ki.
+- Név-kiejtés IPA-átírás → `ipa: "..."` mezőként (de ez sincs a core POI-ban jelenleg).
+
+## K5-K8 tanterv-kapcsolás
+A `descriptionAdvanced` végén említsd meg, hogy a POI MELYIK tantárgyhoz / grade-hez kapcsolódik a Plizio tantervben:
+- "Földrajz K7 — hegységek és folyók" / "Geschichte K8 — második világháború" / "Sachkunde K3 — állatok élőhelye"
+- Ez segíti a topical authority-t + belső linkelést.
+
+## Numerikus precizitás
+- `elevation`, `length`, `area`, `historyYear` számok CSAK hivatalos forrás alapján. Ne kerekítsd kényelemből.
+- Ha kételkedsz → HAGY KI a mezőt. Jobb üresen hagyni, mint rossz adattal rontani a bizalmat.
+- `historyYear: [1914, 1918]` formátum tartományhoz.
+
+## Forrás-követelmény (belső szabály)
+- Ha egy tényben/számban/dátumban nem vagy biztos → NE TALÁLGASD, HAGY KI.
+- Hallucination = SEO-halál. Google-penalty + user-trust-vesztés.
+
+## Git commit üzenet formátum (egységes)
+- Feature: `feat(POI): <ország> +N POI descriptionAdvanced + faq (4-lang)`
+- Fix: `fix(POI): <ország> <problem> javitas`
+- Doc: `docs: GEMINI.md frissites X reszel`
+- Elsősoron MAGYARUL, max 1-2 mondat.
+
+## Deploy / push TILTÁS
+- `git push` TILOS — user csinálja.
+- `npx next build` TILOS (sok idő, out/ commit user kezében van).
+- `vercel deploy` / `netlify deploy` stb. TILOS.
+
+## Quiz-validator barátság
+- Ha `lib/visualLab/quiz/data/*Quiz.ts`-t érinted → a `husky pre-commit` fut `scripts/validateQuiz.ts`-t. Ha a teszt elbukik, a commit blokkolódik.
+- A validator ellenőrzi: spot_error wrongPoiId benne van az optionPoiIds-ben, distance_guess expectedKm ±10% haversine-tól, order_by sorrend monoton (longitude / elevation).
+- Mindig használj VALÓS POI id-t (grep-pel ellenőrizd `lib/visualLab/data/poi.ts`-ben).
+
+## PP-repo / plizio-repo keresztkontamináció TILOS
+- Plizio repo: `C:/Users/User/plizio-repo` (Next.js, SEO, térképek)
+- PunktePass repo: `C:/Users/User/punktepass-code` (PHP/WordPress, teljesen más projekt)
+- SOHA ne másolj átadatot/kódot a kettő között tudatosan kivéve, ha user kifejezetten kéri.
+
+## Sitemap auto-discovery — új POI fájl
+- Ha új `xxxPoi.ts`-t hozol létre → vedd fel a `lib/visualLab/data/allCountryPois.ts`-be:
+  1. Import: `import { xxxAllPoi } from "./xxxPoi";`
+  2. Spread: `...xxxAllPoi,` az ALL_COUNTRY_POIS tömbbe.
+- Ez nélkül a POI-k NEM lesznek SEO-indexelve.
+
+## FAQ minőség (featured snippet cél)
+- 4-5 Q&A / POI.
+- NE ismételd a `description`/`facts` tartalmát — ÚJ SZÖGBŐL közelíts.
+- Kérdés-típusok: "Mikor...?", "Hány méter/km/m²...?", "Miért híres...?", "Hogyan jutok el...?", "Mi látható ma...?", "Érdekesség...?"
+- Válasz 1-2 mondat, tényszerű (évszám, méret, konkrét részlet).
+
+## Évszámok / mérföldkövek formátum
+- `1848` NEM `1848 AD` / `i.sz. 1848` / `év 1848`
+- `Kr. e. 500` csak ha tényleg BC/v.e.
+- Tartomány: `1914–1918` (en-dash, nem kötőjel).
+
+## Múltbéli hibák amiket NE ismételj (élő napló)
+Ezeket a hibákat a te korábbi futásaid okozták — minden új Gemini-session előtt figyeld:
+
+- **Orphan SEO-blokk POI objektumon kívül**: `descriptionAdvanced` / `facts` mezőket TILOS különálló blokkként beszúrni a POI után `{` / `}` nélkül. Mindig a POI OBJEKTUMON BELÜL legyenek.
+- **Duplikált POI-blokk**: ne másold le a teljes POI objektumot csak mert új mezőt akarsz hozzáadni. Szerkeszd az EREDETIT.
+- **Hiányzó `];` array-záró**: minden `export const xxxCities: POI[] = [` után kötelezően `];` van mielőtt új exportot nyitsz.
+- **Hiányzó `,` 2 POI között**: `}` után `,` kötelező ha még POI jön.
+- **Escaped quote artifact**: NE írj `\"` idézőjelet a string-ekben — használj rendes `"`-t.
+- **`historyPeriod: "Modern"`** — a régi enum szigorú volt `"modern"` lowercase-szel. Most a típus string, de ha lehet lowercase-t írj (`"modern"`, `"classical"`, `"colonial"`) konzisztencia miatt.
+- **Shell-hiba loop (`AttachConsole failed`)**: ha a `tsc` / `grep` Windows-ConPTY hibát dob, NE próbálkozz újra 50×. Hagyd ki az ellenőrzést, írj tovább, aztán user kézzel ellenőrzi.
+- **32k output-token limit**: ha a feladat nagy (pl. 4 ország teljes generálása egy promptban), oszd fel kisebb részekre. Inkább 2 kisebb commit, mint 1 megszakadt.
+
+## Nyelvspecifikus apróságok
+- Hu: ékezetek (ő ű á é í ó ö ü). NE "Gyor" — Győr. NE "torveny" — törvény.
+- De: umlaut (ä ö ü ß). NE "Muenchen" / NE "Kreuzberg" → München / Kreuzberg.
+- Ro: diakritika (ă â î ș ț). NE "Bucuresti" → București.
+- En: tiszta ASCII OK, de őrizd meg az idegen neveket ha releváns (München maradhat EN-szövegben ha a POI-nak az a hivatalos angol neve).
