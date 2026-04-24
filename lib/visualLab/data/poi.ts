@@ -10,7 +10,7 @@ export type POI = {
   factsAdvanced?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
   subjects?: ("sachkunde" | "geographie" | "geschichte")[];
   grades?: number[];
-  historyPeriod?: "middle-ages" | "reformation" | "empire" | "ww1" | "ww2" | "ddr" | "modern";
+  historyPeriod?: "middle-ages" | "reformation" | "empire" | "ww1" | "ww2" | "ddr" | "modern" | string;
   historyYear?: number | [number, number];
   elevation?: number;
   length?: number;
