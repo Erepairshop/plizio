@@ -2,7 +2,7 @@ export type POI = {
   id: string;
   type: "state-capital" | "city" | "river" | "mountain" | "lake" | "island" | "landmark" | "historical" | "country" | "region" | "forest" | "sea" | "animal-habitat" | "agriculture" | "kid-landmark" | "industry" | "port" | "relief" | string; // allow string for auto-generated POIs with custom types
   parent?: string;
-  coords: [lon: number, lat: number];
+  coords: [lon: number, lat: number] | number[];
   name: { de: string; hu: string; ro: string; en: string };
   description?: { de: string; hu: string; ro: string; en: string };
   descriptionAdvanced?: { de: string; hu: string; ro: string; en: string };
