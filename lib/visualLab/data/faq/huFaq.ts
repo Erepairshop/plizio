@@ -9,6 +9,13 @@ export const huFaq: CountryFaqMap = {
       { q: "Hány lakosa van az országnak?", a: "Körülbelül 9,7 millió lakosa van." },
       { q: "Mikor csatlakozott Magyarország az EU-hoz?", a: "Magyarország 2004-ben csatlakozott az Európai Unióhoz." },
     ],
+    en: [
+      { q: "What is the capital of Hungary?", a: "Budapest is the capital of Hungary." },
+      { q: "What is the size of Hungary?", a: "About 93,000 square kilometers." },
+      { q: "What is the official currency?", a: "The official currency of Hungary is the forint (HUF)." },
+      { q: "How many inhabitants does the country have?", a: "It has about 9.7 million inhabitants." },
+      { q: "When did Hungary join the EU?", a: "Hungary joined the European Union in 2004." },
+    ],
   },
   "hu-budapest": {
     hu: [
