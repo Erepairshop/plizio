@@ -810,10 +810,11 @@ export const InteractiveMap = ({
             animate={{ y: 0, opacity: 1 }}
             exit={{ y: 60, opacity: 0 }}
             transition={{ type: "spring", stiffness: 260, damping: 24 }}
+            style={{ maxHeight: "min(55vh, calc(100vh - 120px))" }}
             className="
               fixed left-1/2 -translate-x-1/2 bottom-4
               w-[92%] max-w-md
-              max-h-[60vh] flex flex-col
+              overflow-y-auto overscroll-contain
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
@@ -821,7 +822,7 @@ export const InteractiveMap = ({
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2 shrink-0">
+            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
               {selectedPoiFromState?.coa && (
                 <img
                   src={selectedPoiFromState.coa}
@@ -845,7 +846,7 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain pr-1">
+            <div>
               {selectedPoiFromState?.description?.[displayLang] && (
                 <p className="text-white/75 text-sm leading-relaxed mb-2">
                   {selectedPoiFromState.description[displayLang]}
@@ -905,10 +906,11 @@ export const InteractiveMap = ({
             animate={{ y: 0, opacity: 1 }}
             exit={{ y: 60, opacity: 0 }}
             transition={{ type: "spring", stiffness: 260, damping: 24 }}
+            style={{ maxHeight: "min(55vh, calc(100vh - 120px))" }}
             className="
               fixed left-1/2 -translate-x-1/2 bottom-4
               w-[92%] max-w-md
-              max-h-[60vh] flex flex-col
+              overflow-y-auto overscroll-contain
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
@@ -916,7 +918,7 @@ export const InteractiveMap = ({
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2 shrink-0">
+            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
               {selectedPoi.image ? (
                 <img
                   src={selectedPoi.image}
@@ -980,7 +982,7 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain pr-1">
+            <div>
               {selectedPoi.description?.[displayLang] && (
                 <p className="text-white/75 text-sm leading-relaxed mb-2">
                   {selectedPoi.description[displayLang]}
@@ -1246,9 +1248,11 @@ function SubRegionView({
             animate={{ y: 0, opacity: 1 }}
             exit={{ y: 60, opacity: 0 }}
             transition={{ type: "spring", stiffness: 260, damping: 24 }}
+            style={{ maxHeight: "min(55vh, calc(100vh - 120px))" }}
             className="
               fixed left-1/2 -translate-x-1/2 bottom-4
               w-[92%] max-w-md
+              overflow-y-auto overscroll-contain
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
@@ -1256,7 +1260,7 @@ function SubRegionView({
               z-[150]
             "
           >
-            <div className="flex items-start gap-3 mb-2 shrink-0">
+            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
               {selectedPoi.image ? (
                 <img src={selectedPoi.image} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />
