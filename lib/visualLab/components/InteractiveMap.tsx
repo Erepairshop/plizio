@@ -828,32 +828,31 @@ export const InteractiveMap = ({
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
-              {selectedPoiFromState?.coa && (
-                <img
-                  src={selectedPoiFromState.coa}
-                  alt=""
-                  className="w-12 h-12 rounded-lg bg-white/5 border border-white/10 object-contain p-1"
-                />
-              )}
-              <div className="flex-1 min-w-0">
-                <h3 className="text-cyan-300 font-semibold text-base leading-tight">
-                  {selected.name[displayLang] ?? selected.name.de}
-                </h3>
-                <p className="text-white/60 text-xs mt-0.5">
-                  {t.capital}: <span className="text-white/85">{selected.capital}</span>
-                </p>
+            {/* Sticky header: cim + X close + Detail gomb egyben, scroll kozben is fixen felul */}
+            <div className="sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-3 bg-[#0A1929]/95 backdrop-blur-md z-10 mb-3">
+              <div className="flex items-start gap-3 mb-3">
+                {selectedPoiFromState?.coa && (
+                  <img
+                    src={selectedPoiFromState.coa}
+                    alt=""
+                    className="w-12 h-12 rounded-lg bg-white/5 border border-white/10 object-contain p-1"
+                  />
+                )}
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-cyan-300 font-semibold text-base leading-tight">
+                    {selected.name[displayLang] ?? selected.name.de}
+                  </h3>
+                  <p className="text-white/60 text-xs mt-0.5">
+                    {t.capital}: <span className="text-white/85">{selected.capital}</span>
+                  </p>
+                </div>
+                <button
+                  onClick={() => setSelected(null)}
+                  className="text-white/60 hover:text-white p-1 rounded hover:bg-white/5"
+                >
+                  <X size={16} />
+                </button>
               </div>
-              <button
-                onClick={() => setSelected(null)}
-                className="text-white/60 hover:text-white p-1 rounded hover:bg-white/5"
-              >
-                <X size={16} />
-              </button>
-            </div>
-
-            {/* Detail gomb FIX felül — sticky a cím alatt */}
-            <div className="sticky top-[70px] -mx-4 px-4 py-2 bg-[#0A1929]/95 backdrop-blur-md z-[9] mb-3">
               <button
                 onClick={() => setDetailFor(selected.id)}
                 className="
