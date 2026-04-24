@@ -1,5 +1,3 @@
-import type { CountryFaqMap } from "./types";
-
 export const deFaq: CountryFaqMap = {
   "DE-BB": {
     de: [
@@ -29,6 +27,13 @@ export const deFaq: CountryFaqMap = {
       { q: "What percentage of the state's area is under nature protection?", a: "About a third of the total land area consists of nature parks and biosphere reserves." },
       { q: "What is the region's most important film studio?", a: "Studio Babelsberg in Potsdam, founded in 1912." },
       { q: "Which is the largest natural lake in Brandenburg?", a: "The Schwielochsee, with a water surface area of just over 13 square kilometers." }
+    ]
+    en: [
+      { q: "Welches Gebirge ist das höchste in Brandenburg?", a: "Der Hagelberg im Fläming mit einer Höhe von 200 Metern." },
+      { q: "Wann wurde das Bundesland Brandenburg neu gegründet?", a: "Am 3. Oktober 1990, nach der Wiedervereinigung Deutschlands." },
+      { q: "Wie viel Prozent der Landesfläche stehen unter Naturschutz?", a: "Etwa ein Drittel der gesamten Landesfläche besteht aus Naturparks und Biosphärenreservaten." },
+      { q: "What is das bedeutendste Filmstudio der Region?", a: "Das Studio Babelsberg in Potsdam, gegründet 1912." },
+      { q: "Welcher ist der größte natürliche See in Brandenburg?", a: "Der Schwielochsee mit einer Wasserfläche von gut 13 Quadratkilometern." }
     ]
   },
   "DE-BE": {
@@ -60,6 +65,13 @@ export const deFaq: CountryFaqMap = {
       { q: "What is the oldest building in Berlin?", a: "The Nikolaikirche in the Nikolaiviertel, with foundations dating back to the 13th century." },
       { q: "How many people commute daily on the S-Bahn?", a: "Around 1.5 million passengers use the S-Bahn network on a typical workday." }
     ]
+    en: [
+      { q: "Wann wurde Berlin wieder die Hauptstadt des vereinten Deutschlands?", a: "1990 mit dem Einigungsvertrag, der Regierungssitz folgte 1999." },
+      { q: "Wie lang war die Berliner Mauer?", a: "Die Grenze zu West-Berlin war insgesamt 155 Kilometer lang." },
+      { q: "Wie viele Bezirke hat Berlin heute?", a: "Seit der Verwaltungsreform 2001 besteht die Stadt aus 12 Bezirken." },
+      { q: "What is das älteste Bauwerk in Berlin?", a: "Die Nikolaikirche im Nikolaiviertel, deren Fundamente aus dem 13. Jahrhundert stammen." },
+      { q: "Wie viele Menschen pendeln täglich mit der S-Bahn?", a: "Rund 1,5 Millionen Fahrgäste nutzen das S-Bahn-Netz an einem Werktag." }
+    ]
   },
   "DE-BW": {
     de: [
@@ -89,6 +101,9 @@ export const deFaq: CountryFaqMap = {
       { q: "Which two rivers form the state's longest natural borders?", a: "The Rhine to the west and south, and the Main to the north." },
       { q: "How high is the highest mountain in the state?", a: "The Feldberg in the Black Forest measures 1,493 meters." },
       { q: "Which lake is the largest inland body of water in the region?", a: "Lake Constance, which the state shares with Switzerland and Austria." }
+    ]
+    en: [
+      { q: "Wann wurde das Bundesland Baden-Württemberg gegründet?", a: "Am 25. April 1952 durch die Fusion von drei historischen Ländern." }
     ]
   },
   "DE-BY": {
@@ -120,6 +135,12 @@ export const deFaq: CountryFaqMap = {
       { q: "How long is Bavaria's border with Austria?", a: "At 816 kilometers, it is the state's longest external border." },
       { q: "What historical event is celebrated at the Oktoberfest?", a: "The wedding of Crown Prince Ludwig and Princess Therese in 1810." }
     ]
+    en: [
+      { q: "Wann wurde Bayern ein Freistaat?", a: "Mit der Ausrufung durch Kurt Eisner am 8. November 1918." },
+      { q: "Wie viele Regierungsbezirke hat Bayern?", a: "Es gibt sieben Regierungsbezirke, darunter Oberbayern und Mittelfranken." },
+      { q: "What is der größte See, der vollständig in Bayern liegt?", a: "Der Chiemsee, auch das 'Bayerische Meer' genannt (knapp 80 km²)." },
+      { q: "Welches historische Ereignis wird auf dem Oktoberfest gefeiert?", a: "Die Hochzeit von Kronprinz Ludwig und Prinzessin Therese im Jahr 1810." }
+    ]
   },
   "DE-HB": {
     de: [
@@ -127,6 +148,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bremen bekannt?", a: "Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bremen?", a: "Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremen bekannt?", a: "Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-HE": {
@@ -136,6 +163,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hessen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hessen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hessen?", a: "Hessen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hessen bekannt?", a: "Hessen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hessen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hessen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "DE-HH": {
     de: [
@@ -143,6 +176,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hamburg bekannt?", a: "Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hamburg?", a: "Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hamburg bekannt?", a: "Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-MV": {
@@ -152,6 +191,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Mecklenburg-Vorpommern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Mecklenburg-Vorpommern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Mecklenburg-Vorpommern?", a: "Mecklenburg-Vorpommern is a significant geographical or historical feature in Germany." },
+      { q: "Why is Mecklenburg-Vorpommern bekannt?", a: "Mecklenburg-Vorpommern ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Mecklenburg-Vorpommern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Mecklenburg-Vorpommern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "DE-NI": {
     de: [
@@ -159,6 +204,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Niedersachsen bekannt?", a: "Niedersachsen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Niedersachsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Niedersachsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Niedersachsen?", a: "Niedersachsen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Niedersachsen bekannt?", a: "Niedersachsen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Niedersachsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Niedersachsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-NW": {
@@ -168,6 +219,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nordrhein-Westfalen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nordrhein-Westfalen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nordrhein-Westfalen?", a: "Nordrhein-Westfalen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nordrhein-Westfalen bekannt?", a: "Nordrhein-Westfalen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nordrhein-Westfalen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nordrhein-Westfalen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "DE-RP": {
     de: [
@@ -175,6 +232,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Rheinland-Pfalz bekannt?", a: "Rheinland-Pfalz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Rheinland-Pfalz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rheinland-Pfalz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Rheinland-Pfalz?", a: "Rheinland-Pfalz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rheinland-Pfalz bekannt?", a: "Rheinland-Pfalz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rheinland-Pfalz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rheinland-Pfalz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-SH": {
@@ -184,6 +247,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schleswig-Holstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schleswig-Holstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schleswig-Holstein?", a: "Schleswig-Holstein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schleswig-Holstein bekannt?", a: "Schleswig-Holstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schleswig-Holstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schleswig-Holstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "DE-SL": {
     de: [
@@ -191,6 +260,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Saarland bekannt?", a: "Saarland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Saarland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Saarland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saarland?", a: "Saarland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Saarland bekannt?", a: "Saarland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Saarland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Saarland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-SN": {
@@ -200,6 +275,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Sachsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Sachsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Sachsen?", a: "Sachsen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Sachsen bekannt?", a: "Sachsen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Sachsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Sachsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "DE-ST": {
     de: [
@@ -207,6 +288,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Sachsen-Anhalt bekannt?", a: "Sachsen-Anhalt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Sachsen-Anhalt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Sachsen-Anhalt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Sachsen-Anhalt?", a: "Sachsen-Anhalt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Sachsen-Anhalt bekannt?", a: "Sachsen-Anhalt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Sachsen-Anhalt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Sachsen-Anhalt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "DE-TH": {
@@ -216,6 +303,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Thüringen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Thüringen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Thüringen?", a: "Thüringen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Thüringen bekannt?", a: "Thüringen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Thüringen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Thüringen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "agri-altes-land-aepfel": {
     de: [
@@ -223,6 +316,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Altes Land – Apfelplantagen bekannt?", a: "Altes Land – Apfelplantagen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Altes Land – Apfelplantagen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Altes Land – Apfelplantagen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Altes Land – Apfelplantagen?", a: "Altes Land – Apfelplantagen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Altes Land – Apfelplantagen bekannt?", a: "Altes Land – Apfelplantagen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Altes Land – Apfelplantagen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Altes Land – Apfelplantagen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "agri-hallertau-hopfen": {
@@ -232,6 +331,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hallertau – Hopfenanbau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hallertau – Hopfenanbau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hallertau – Hopfenanbau?", a: "Hallertau – Hopfenanbau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hallertau – Hopfenanbau bekannt?", a: "Hallertau – Hopfenanbau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hallertau – Hopfenanbau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hallertau – Hopfenanbau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "agri-loreley-wein": {
     de: [
@@ -239,6 +344,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Loreley – Weinberge am Rhein bekannt?", a: "Loreley – Weinberge am Rhein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Loreley – Weinberge am Rhein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Loreley – Weinberge am Rhein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Loreley – Weinberge am Rhein?", a: "Loreley – Weinberge am Rhein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Loreley – Weinberge am Rhein bekannt?", a: "Loreley – Weinberge am Rhein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Loreley – Weinberge am Rhein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Loreley – Weinberge am Rhein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "agri-lueneburger-heide-imker": {
@@ -248,6 +359,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Lüneburger Heide – Imkerei besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lüneburger Heide – Imkerei für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Lüneburger Heide – Imkerei?", a: "Lüneburger Heide – Imkerei is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lüneburger Heide – Imkerei bekannt?", a: "Lüneburger Heide – Imkerei ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lüneburger Heide – Imkerei besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lüneburger Heide – Imkerei für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "agri-spreewald-gurken": {
     de: [
@@ -255,6 +372,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Spreewald – Gurken bekannt?", a: "Spreewald – Gurken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Spreewald – Gurken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Spreewald – Gurken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Spreewald – Gurken?", a: "Spreewald – Gurken is a significant geographical or historical feature in Germany." },
+      { q: "Why is Spreewald – Gurken bekannt?", a: "Spreewald – Gurken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Spreewald – Gurken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Spreewald – Gurken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "agriculture-gurken-spreewald-extra": {
@@ -264,6 +387,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Spreewald-Gurken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Spreewald-Gurken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Spreewald-Gurken?", a: "Spreewald-Gurken is a significant geographical or historical feature in Germany." },
+      { q: "Why is Spreewald-Gurken bekannt?", a: "Spreewald-Gurken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Spreewald-Gurken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Spreewald-Gurken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "agriculture-hopfen-hallertau-extra": {
     de: [
@@ -271,6 +400,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hallertau Hopfenanbaugebiet bekannt?", a: "Hallertau Hopfenanbaugebiet ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hallertau Hopfenanbaugebiet besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hallertau Hopfenanbaugebiet für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hallertau Hopfenanbaugebiet?", a: "Hallertau Hopfenanbaugebiet is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hallertau Hopfenanbaugebiet bekannt?", a: "Hallertau Hopfenanbaugebiet ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hallertau Hopfenanbaugebiet besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hallertau Hopfenanbaugebiet für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "agriculture-spargel-beelitz-extra": {
@@ -280,6 +415,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Beelitzer Spargel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Beelitzer Spargel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Beelitzer Spargel?", a: "Beelitzer Spargel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Beelitzer Spargel bekannt?", a: "Beelitzer Spargel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Beelitzer Spargel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Beelitzer Spargel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "agriculture-zuckerruebe-st-extra": {
     de: [
@@ -287,6 +428,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Zuckerrübenanbau (Sachsen-Anhalt) bekannt?", a: "Zuckerrübenanbau (Sachsen-Anhalt) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Zuckerrübenanbau (Sachsen-Anhalt) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Zuckerrübenanbau (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Zuckerrübenanbau (Sachsen-Anhalt)?", a: "Zuckerrübenanbau (Sachsen-Anhalt) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Zuckerrübenanbau (Sachsen-Anhalt) bekannt?", a: "Zuckerrübenanbau (Sachsen-Anhalt) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Zuckerrübenanbau (Sachsen-Anhalt) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Zuckerrübenanbau (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "animal-alpen-gaemse": {
@@ -296,6 +443,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Alpen – Gämsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Alpen – Gämsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Alpen – Gämsen?", a: "Alpen – Gämsen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Alpen – Gämsen bekannt?", a: "Alpen – Gämsen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Alpen – Gämsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Alpen – Gämsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "animal-bayrischer-wald-luchs": {
     de: [
@@ -303,6 +456,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bayerischer Wald – Luchse bekannt?", a: "Bayerischer Wald – Luchse ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bayerischer Wald – Luchse besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bayerischer Wald – Luchse für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bayerischer Wald – Luchse?", a: "Bayerischer Wald – Luchse is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bayerischer Wald – Luchse bekannt?", a: "Bayerischer Wald – Luchse ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bayerischer Wald – Luchse besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bayerischer Wald – Luchse für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "animal-habitat-mv-kraniche-extra": {
@@ -312,6 +471,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kranich-Rastplätze Mecklenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kranich-Rastplätze Mecklenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kranich-Rastplätze Mecklenburg?", a: "Kranich-Rastplätze Mecklenburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kranich-Rastplätze Mecklenburg bekannt?", a: "Kranich-Rastplätze Mecklenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kranich-Rastplätze Mecklenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kranich-Rastplätze Mecklenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "animal-schwarzwald-rotwild": {
     de: [
@@ -319,6 +484,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schwarzwald – Rotwild bekannt?", a: "Schwarzwald – Rotwild ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schwarzwald – Rotwild besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schwarzwald – Rotwild für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schwarzwald – Rotwild?", a: "Schwarzwald – Rotwild is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schwarzwald – Rotwild bekannt?", a: "Schwarzwald – Rotwild ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schwarzwald – Rotwild besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schwarzwald – Rotwild für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "animal-wattenmeer-seehunde": {
@@ -328,6 +499,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Wattenmeer – Seehunde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wattenmeer – Seehunde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wattenmeer – Seehunde?", a: "Wattenmeer – Seehunde is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wattenmeer – Seehunde bekannt?", a: "Wattenmeer – Seehunde ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wattenmeer – Seehunde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wattenmeer – Seehunde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "castle-wartburg-extra": {
     de: [
@@ -335,6 +512,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wartburg bekannt?", a: "Wartburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wartburg?", a: "Wartburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wartburg bekannt?", a: "Wartburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-aachen": {
@@ -344,6 +527,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Aachen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Aachen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Aachen?", a: "Aachen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Aachen?", a: "Aachen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Aachen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Aachen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-altona-hh-extra": {
     de: [
@@ -351,6 +540,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Altona?", a: "Altona befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Altona sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Altona für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Altona?", a: "Altona is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Altona?", a: "Altona befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Altona sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Altona für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-augsburg": {
@@ -360,6 +555,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Augsburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Augsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Augsburg?", a: "Augsburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Augsburg?", a: "Augsburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Augsburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Augsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-bayreuth": {
     de: [
@@ -368,6 +569,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Bayreuth sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bayreuth für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bayreuth?", a: "Bayreuth is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bayreuth?", a: "Bayreuth befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bayreuth sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bayreuth für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-bergedorf-hh-extra": {
     de: [
@@ -375,6 +582,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Bergedorf?", a: "Bergedorf befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Bergedorf sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bergedorf für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bergedorf?", a: "Bergedorf is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bergedorf?", a: "Bergedorf befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bergedorf sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bergedorf für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-berlin": {
@@ -406,6 +619,13 @@ export const deFaq: CountryFaqMap = {
       { q: "How many bridges are there in Berlin?", a: "Berlin has over 900 bridges, more than Venice." },
       { q: "What animal is the heraldic symbol of the city?", a: "The Berlin bear." }
     ]
+    en: [
+      { q: "Wann wurde Berlin erstmals urkundlich erwähnt?", a: "Im Jahr 1237 als Cölln und 1244 als Berlin." },
+      { q: "Wie viele Menschen leben in Berlin?", a: "Die Stadt hat über 3,7 Millionen Einwohner." },
+      { q: "Was passierte am 9. November 1989 in Berlin?", a: "Die Berliner Mauer fiel, was zur Wiedervereinigung führte." },
+      { q: "Wie viele Brücken gibt es in Berlin?", a: "Berlin hat über 900 Brücken, mehr als Venedig." },
+      { q: "Welches Tier ist das Wappentier der Stadt?", a: "Der Berliner Bär." }
+    ]
   },
   "city-bielefeld": {
     de: [
@@ -413,6 +633,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Bielefeld?", a: "Bielefeld befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Bielefeld sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bielefeld für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bielefeld?", a: "Bielefeld is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bielefeld?", a: "Bielefeld befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bielefeld sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bielefeld für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-bochum": {
@@ -422,6 +648,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Bochum sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bochum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bochum?", a: "Bochum is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bochum?", a: "Bochum befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bochum sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bochum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-bonn": {
     de: [
@@ -429,6 +661,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Bonn?", a: "Bonn befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Bonn sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bonn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bonn?", a: "Bonn is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bonn?", a: "Bonn befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bonn sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bonn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-braunschweig": {
@@ -438,6 +676,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Braunschweig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Braunschweig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Braunschweig?", a: "Braunschweig is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Braunschweig?", a: "Braunschweig befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Braunschweig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Braunschweig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-braunschweig-extra": {
     de: [
@@ -445,6 +689,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Braunschweig?", a: "Braunschweig befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Braunschweig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Braunschweig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Braunschweig?", a: "Braunschweig is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Braunschweig?", a: "Braunschweig befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Braunschweig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Braunschweig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-bremen": {
@@ -454,6 +704,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Bremen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremen?", a: "Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bremen?", a: "Bremen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bremen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-celle-extra": {
     de: [
@@ -461,6 +717,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Celle?", a: "Celle befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Celle sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Celle für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Celle?", a: "Celle is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Celle?", a: "Celle befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Celle sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Celle für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-chemnitz-extra": {
@@ -470,6 +732,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Chemnitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Chemnitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Chemnitz?", a: "Chemnitz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Chemnitz?", a: "Chemnitz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Chemnitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Chemnitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-cottbus-extra": {
     de: [
@@ -477,6 +745,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Cottbus?", a: "Cottbus befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Cottbus sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Cottbus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Cottbus?", a: "Cottbus is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Cottbus?", a: "Cottbus befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Cottbus sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Cottbus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-darmstadt": {
@@ -486,6 +760,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Darmstadt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Darmstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Darmstadt?", a: "Darmstadt is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Darmstadt?", a: "Darmstadt befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Darmstadt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Darmstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-dessau-extra": {
     de: [
@@ -493,6 +773,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Dessau-Roßlau?", a: "Dessau-Roßlau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Dessau-Roßlau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Dessau-Roßlau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Dessau-Roßlau?", a: "Dessau-Roßlau is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Dessau-Roßlau?", a: "Dessau-Roßlau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Dessau-Roßlau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Dessau-Roßlau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-dresden": {
@@ -502,6 +788,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Dresden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Dresden?", a: "Dresden is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Dresden?", a: "Dresden befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Dresden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-duesseldorf": {
     de: [
@@ -509,6 +801,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Düsseldorf?", a: "Düsseldorf befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Düsseldorf sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Düsseldorf für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Düsseldorf?", a: "Düsseldorf is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Düsseldorf?", a: "Düsseldorf befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Düsseldorf sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Düsseldorf für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-duisburg": {
@@ -518,6 +816,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Duisburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Duisburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Duisburg?", a: "Duisburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Duisburg?", a: "Duisburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Duisburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Duisburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-eisenach-extra": {
     de: [
@@ -525,6 +829,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Eisenach?", a: "Eisenach befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Eisenach sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Eisenach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Eisenach?", a: "Eisenach is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Eisenach?", a: "Eisenach befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Eisenach sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Eisenach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-erfurt": {
@@ -534,6 +844,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Erfurt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Erfurt?", a: "Erfurt is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Erfurt?", a: "Erfurt befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Erfurt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-erfurt-extra": {
     de: [
@@ -541,6 +857,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Erfurt?", a: "Erfurt befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Erfurt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Erfurt?", a: "Erfurt is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Erfurt?", a: "Erfurt befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Erfurt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-flensburg-extra": {
@@ -550,6 +872,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Flensburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Flensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Flensburg?", a: "Flensburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Flensburg?", a: "Flensburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Flensburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Flensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-frankfurt": {
     de: [
@@ -557,6 +885,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Frankfurt am Main?", a: "Frankfurt am Main befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Frankfurt am Main sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Frankfurt am Main für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Frankfurt am Main?", a: "Frankfurt am Main is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Frankfurt am Main?", a: "Frankfurt am Main befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Frankfurt am Main sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Frankfurt am Main für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-frankfurt-oder-extra": {
@@ -566,6 +900,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Frankfurt (Oder) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Frankfurt (Oder) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Frankfurt (Oder)?", a: "Frankfurt (Oder) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Frankfurt (Oder)?", a: "Frankfurt (Oder) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Frankfurt (Oder) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Frankfurt (Oder) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-freiberg-sachsen-extra": {
     de: [
@@ -573,6 +913,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Freiberg?", a: "Freiberg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Freiberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Freiberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Freiberg?", a: "Freiberg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Freiberg?", a: "Freiberg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Freiberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Freiberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-freiburg": {
@@ -582,6 +928,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Freiburg im Breisgau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Freiburg im Breisgau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Freiburg im Breisgau?", a: "Freiburg im Breisgau is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Freiburg im Breisgau?", a: "Freiburg im Breisgau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Freiburg im Breisgau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Freiburg im Breisgau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-freiburg-extra": {
     de: [
@@ -589,6 +941,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Freiburg im Breisgau?", a: "Freiburg im Breisgau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Freiburg im Breisgau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Freiburg im Breisgau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Freiburg im Breisgau?", a: "Freiburg im Breisgau is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Freiburg im Breisgau?", a: "Freiburg im Breisgau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Freiburg im Breisgau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Freiburg im Breisgau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-gelsenkirchen": {
@@ -598,6 +956,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Gelsenkirchen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Gelsenkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gelsenkirchen?", a: "Gelsenkirchen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Gelsenkirchen?", a: "Gelsenkirchen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Gelsenkirchen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Gelsenkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-gera": {
     de: [
@@ -605,6 +969,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Gera?", a: "Gera befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Gera sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Gera für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Gera?", a: "Gera is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Gera?", a: "Gera befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Gera sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Gera für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-gera-extra": {
@@ -614,6 +984,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Gera sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Gera für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gera?", a: "Gera is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Gera?", a: "Gera befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Gera sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Gera für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-giessen-extra": {
     de: [
@@ -621,6 +997,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Gießen?", a: "Gießen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Gießen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Gießen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Gießen?", a: "Gießen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Gießen?", a: "Gießen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Gießen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Gießen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-goerlitz": {
@@ -630,6 +1012,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Görlitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Görlitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Görlitz?", a: "Görlitz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Görlitz?", a: "Görlitz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Görlitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Görlitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-goerlitz-extra": {
     de: [
@@ -637,6 +1025,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Görlitz?", a: "Görlitz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Görlitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Görlitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Görlitz?", a: "Görlitz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Görlitz?", a: "Görlitz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Görlitz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Görlitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-goettingen": {
@@ -646,6 +1040,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Göttingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Göttingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Göttingen?", a: "Göttingen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Göttingen?", a: "Göttingen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Göttingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Göttingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-goettingen-extra": {
     de: [
@@ -653,6 +1053,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Göttingen?", a: "Göttingen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Göttingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Göttingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Göttingen?", a: "Göttingen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Göttingen?", a: "Göttingen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Göttingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Göttingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-gotha-extra": {
@@ -662,6 +1068,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Gotha sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Gotha für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gotha?", a: "Gotha is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Gotha?", a: "Gotha befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Gotha sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Gotha für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-halle-saale": {
     de: [
@@ -669,6 +1081,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Halle (Saale)?", a: "Halle (Saale) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Halle (Saale) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Halle (Saale) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Halle (Saale)?", a: "Halle (Saale) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Halle (Saale)?", a: "Halle (Saale) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Halle (Saale) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Halle (Saale) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-halle-saale-extra": {
@@ -678,6 +1096,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Halle (Saale) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Halle (Saale) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Halle (Saale)?", a: "Halle (Saale) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Halle (Saale)?", a: "Halle (Saale) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Halle (Saale) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Halle (Saale) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-hamburg": {
     de: [
@@ -685,6 +1109,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Hamburg?", a: "Hamburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Hamburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hamburg?", a: "Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Hamburg?", a: "Hamburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Hamburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-hannover": {
@@ -694,6 +1124,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Hannover sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Hannover für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hannover?", a: "Hannover is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Hannover?", a: "Hannover befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Hannover sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Hannover für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-harburg-hh-extra": {
     de: [
@@ -701,6 +1137,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Hamburg-Harburg?", a: "Hamburg-Harburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Hamburg-Harburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Hamburg-Harburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hamburg-Harburg?", a: "Hamburg-Harburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Hamburg-Harburg?", a: "Hamburg-Harburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Hamburg-Harburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Hamburg-Harburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-heidelberg": {
@@ -710,6 +1152,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Heidelberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Heidelberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Heidelberg?", a: "Heidelberg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Heidelberg?", a: "Heidelberg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Heidelberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Heidelberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-hildesheim-extra": {
     de: [
@@ -717,6 +1165,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Hildesheim?", a: "Hildesheim befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Hildesheim sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Hildesheim für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hildesheim?", a: "Hildesheim is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Hildesheim?", a: "Hildesheim befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Hildesheim sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Hildesheim für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-homburg-saar": {
@@ -726,6 +1180,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Homburg (Saar) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Homburg (Saar) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Homburg (Saar)?", a: "Homburg (Saar) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Homburg (Saar)?", a: "Homburg (Saar) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Homburg (Saar) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Homburg (Saar) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-homburg-sl-extra": {
     de: [
@@ -733,6 +1193,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Homburg (Saar)?", a: "Homburg (Saar) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Homburg (Saar) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Homburg (Saar) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Homburg (Saar)?", a: "Homburg (Saar) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Homburg (Saar)?", a: "Homburg (Saar) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Homburg (Saar) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Homburg (Saar) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-ingolstadt-extra": {
@@ -742,6 +1208,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Ingolstadt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Ingolstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ingolstadt?", a: "Ingolstadt is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Ingolstadt?", a: "Ingolstadt befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Ingolstadt sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Ingolstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-jena": {
     de: [
@@ -749,6 +1221,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Jena?", a: "Jena befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Jena sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Jena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Jena?", a: "Jena is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Jena?", a: "Jena befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Jena sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Jena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-jena-extra": {
@@ -758,6 +1236,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Jena sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Jena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Jena?", a: "Jena is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Jena?", a: "Jena befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Jena sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Jena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-kassel": {
     de: [
@@ -765,6 +1249,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Kassel?", a: "Kassel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Kassel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kassel?", a: "Kassel is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Kassel?", a: "Kassel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Kassel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-kassel-extra": {
@@ -774,6 +1264,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Kassel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kassel?", a: "Kassel is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Kassel?", a: "Kassel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Kassel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-kiel": {
     de: [
@@ -781,6 +1277,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Kiel?", a: "Kiel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Kiel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Kiel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kiel?", a: "Kiel is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Kiel?", a: "Kiel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Kiel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Kiel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-kiel-extra": {
@@ -790,6 +1292,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Kiel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Kiel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kiel?", a: "Kiel is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Kiel?", a: "Kiel befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Kiel sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Kiel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-koblenz-extra": {
     de: [
@@ -797,6 +1305,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Koblenz?", a: "Koblenz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Koblenz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Koblenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Koblenz?", a: "Koblenz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Koblenz?", a: "Koblenz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Koblenz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Koblenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-koeln": {
@@ -806,6 +1320,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Köln sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Köln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Köln?", a: "Köln is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Köln?", a: "Köln befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Köln sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Köln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-konstanz-extra": {
     de: [
@@ -813,6 +1333,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Konstanz?", a: "Konstanz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Konstanz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Konstanz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Konstanz?", a: "Konstanz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Konstanz?", a: "Konstanz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Konstanz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Konstanz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-leipzig": {
@@ -822,6 +1348,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Leipzig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Leipzig?", a: "Leipzig is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Leipzig?", a: "Leipzig befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Leipzig sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-ludwigshafen-extra": {
     de: [
@@ -829,6 +1361,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Ludwigshafen?", a: "Ludwigshafen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Ludwigshafen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Ludwigshafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ludwigshafen?", a: "Ludwigshafen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Ludwigshafen?", a: "Ludwigshafen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Ludwigshafen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Ludwigshafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-luebeck": {
@@ -838,6 +1376,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Lübeck sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Lübeck?", a: "Lübeck is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Lübeck?", a: "Lübeck befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Lübeck sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-luebeck-extra": {
     de: [
@@ -845,6 +1389,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Lübeck?", a: "Lübeck befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Lübeck sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lübeck?", a: "Lübeck is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Lübeck?", a: "Lübeck befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Lübeck sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-magdeburg": {
@@ -854,6 +1404,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Magdeburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Magdeburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Magdeburg?", a: "Magdeburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Magdeburg?", a: "Magdeburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Magdeburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Magdeburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-magdeburg-extra": {
     de: [
@@ -861,6 +1417,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Magdeburg?", a: "Magdeburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Magdeburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Magdeburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Magdeburg?", a: "Magdeburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Magdeburg?", a: "Magdeburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Magdeburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Magdeburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-mainz": {
@@ -870,6 +1432,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Mainz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Mainz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Mainz?", a: "Mainz is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Mainz?", a: "Mainz befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Mainz sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Mainz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-marburg-extra": {
     de: [
@@ -878,6 +1446,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Marburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Marburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Marburg?", a: "Marburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Marburg?", a: "Marburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Marburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Marburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-meissen": {
     de: [
@@ -885,6 +1459,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Meißen (Porzellan)?", a: "Meißen (Porzellan) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Meißen (Porzellan) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Meißen (Porzellan) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Meißen (Porzellan)?", a: "Meißen (Porzellan) is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Meißen (Porzellan)?", a: "Meißen (Porzellan) befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Meißen (Porzellan) sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Meißen (Porzellan) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-muenchen": {
@@ -916,6 +1496,13 @@ export const deFaq: CountryFaqMap = {
       { q: "Which company has its headquarters in the 'Four-Cylinder' building?", a: "The car manufacturer BMW." },
       { q: "Which river flows through Munich?", a: "The Isar River, along which the English Garden is also located." }
     ]
+    en: [
+      { q: "Wann wurde München gegründet?", a: "1158 von Heinrich dem Löwen als Brückengründung." },
+      { q: "Wie viele Besucher kommen jährlich zum Oktoberfest?", a: "Rund 6 Millionen Menschen besuchen das Fest auf der Theresienwiese." },
+      { q: "What is das bekannteste Fußballstadion in München?", a: "Die Allianz Arena im Norden der Stadt." },
+      { q: "Welches Unternehmen hat sein Hauptquartier im 'Vierzylinder'?", a: "Der Automobilhersteller BMW." },
+      { q: "Welcher Fluss fließt durch München?", a: "Die Isar, an der auch der Englische Garten liegt." }
+    ]
   },
   "city-muenster-extra": {
     de: [
@@ -923,6 +1510,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Münster?", a: "Münster befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Münster sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Münster für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Münster?", a: "Münster is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Münster?", a: "Münster befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Münster sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Münster für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-neubrandenburg-extra": {
@@ -932,6 +1525,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Neubrandenburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Neubrandenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Neubrandenburg?", a: "Neubrandenburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Neubrandenburg?", a: "Neubrandenburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Neubrandenburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Neubrandenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-neunkirchen-sl-extra": {
     de: [
@@ -939,6 +1538,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Neunkirchen?", a: "Neunkirchen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Neunkirchen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Neunkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Neunkirchen?", a: "Neunkirchen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Neunkirchen?", a: "Neunkirchen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Neunkirchen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Neunkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-nuernberg": {
@@ -948,6 +1553,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Nürnberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nürnberg?", a: "Nürnberg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Nürnberg?", a: "Nürnberg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Nürnberg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-oberhausen": {
     de: [
@@ -955,6 +1566,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Oberhausen?", a: "Oberhausen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Oberhausen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Oberhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Oberhausen?", a: "Oberhausen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Oberhausen?", a: "Oberhausen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Oberhausen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Oberhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-osnabrueck": {
@@ -964,6 +1581,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Osnabrück sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Osnabrück für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Osnabrück?", a: "Osnabrück is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Osnabrück?", a: "Osnabrück befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Osnabrück sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Osnabrück für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-osnabrueck-extra": {
     de: [
@@ -971,6 +1594,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Osnabrück?", a: "Osnabrück befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Osnabrück sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Osnabrück für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Osnabrück?", a: "Osnabrück is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Osnabrück?", a: "Osnabrück befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Osnabrück sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Osnabrück für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-passau-extra": {
@@ -980,6 +1609,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Passau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Passau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Passau?", a: "Passau is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Passau?", a: "Passau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Passau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Passau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-potsdam": {
     de: [
@@ -987,6 +1622,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Potsdam?", a: "Potsdam befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Potsdam sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Potsdam für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Potsdam?", a: "Potsdam is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Potsdam?", a: "Potsdam befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Potsdam sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Potsdam für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-potsdam-extra": {
@@ -996,6 +1637,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Potsdam sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Potsdam für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Potsdam?", a: "Potsdam is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Potsdam?", a: "Potsdam befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Potsdam sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Potsdam für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-regensburg": {
     de: [
@@ -1003,6 +1650,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Regensburg?", a: "Regensburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Regensburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Regensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Regensburg?", a: "Regensburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Regensburg?", a: "Regensburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Regensburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Regensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-rostock": {
@@ -1012,6 +1665,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Rostock sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Rostock für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Rostock?", a: "Rostock is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Rostock?", a: "Rostock befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Rostock sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Rostock für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-rostock-extra": {
     de: [
@@ -1019,6 +1678,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Rostock?", a: "Rostock befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Rostock sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Rostock für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Rostock?", a: "Rostock is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Rostock?", a: "Rostock befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Rostock sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Rostock für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-saarbruecken": {
@@ -1028,6 +1693,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Saarbrücken sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Saarbrücken?", a: "Saarbrücken is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Saarbrücken?", a: "Saarbrücken befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Saarbrücken sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-saarlouis": {
     de: [
@@ -1035,6 +1706,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Saarlouis?", a: "Saarlouis befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Saarlouis sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Saarlouis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saarlouis?", a: "Saarlouis is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Saarlouis?", a: "Saarlouis befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Saarlouis sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Saarlouis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-saarlouis-sl-extra": {
@@ -1044,6 +1721,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Saarlouis sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Saarlouis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Saarlouis?", a: "Saarlouis is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Saarlouis?", a: "Saarlouis befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Saarlouis sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Saarlouis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-schwerin": {
     de: [
@@ -1051,6 +1734,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Schwerin?", a: "Schwerin befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Schwerin sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Schwerin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schwerin?", a: "Schwerin is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Schwerin?", a: "Schwerin befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Schwerin sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Schwerin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-schwerin-extra": {
@@ -1060,6 +1749,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Schwerin sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Schwerin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schwerin?", a: "Schwerin is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Schwerin?", a: "Schwerin befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Schwerin sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Schwerin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-stralsund-extra": {
     de: [
@@ -1067,6 +1762,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Stralsund?", a: "Stralsund befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Stralsund sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Stralsund für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Stralsund?", a: "Stralsund is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Stralsund?", a: "Stralsund befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Stralsund sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Stralsund für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-stuttgart": {
@@ -1076,6 +1777,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Stuttgart sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Stuttgart für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Stuttgart?", a: "Stuttgart is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Stuttgart?", a: "Stuttgart befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Stuttgart sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Stuttgart für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-trier": {
     de: [
@@ -1083,6 +1790,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Trier?", a: "Trier befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Trier sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Trier für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Trier?", a: "Trier is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Trier?", a: "Trier befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Trier sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Trier für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-tuebingen-extra": {
@@ -1092,6 +1805,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Tübingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Tübingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Tübingen?", a: "Tübingen is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Tübingen?", a: "Tübingen befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Tübingen sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Tübingen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-ulm-extra": {
     de: [
@@ -1099,6 +1818,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Ulm?", a: "Ulm befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Ulm sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Ulm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ulm?", a: "Ulm is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Ulm?", a: "Ulm befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Ulm sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Ulm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-weimar-extra": {
@@ -1108,6 +1833,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Weimar sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Weimar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Weimar?", a: "Weimar is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Weimar?", a: "Weimar befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Weimar sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Weimar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-wiesbaden": {
     de: [
@@ -1115,6 +1846,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Wiesbaden?", a: "Wiesbaden befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Wiesbaden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Wiesbaden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wiesbaden?", a: "Wiesbaden is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Wiesbaden?", a: "Wiesbaden befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Wiesbaden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Wiesbaden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-wiesbaden-extra": {
@@ -1124,6 +1861,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Wiesbaden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Wiesbaden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wiesbaden?", a: "Wiesbaden is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Wiesbaden?", a: "Wiesbaden befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Wiesbaden sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Wiesbaden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-wolfsburg-extra": {
     de: [
@@ -1131,6 +1874,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Wolfsburg?", a: "Wolfsburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Wolfsburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Wolfsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wolfsburg?", a: "Wolfsburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Wolfsburg?", a: "Wolfsburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Wolfsburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Wolfsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-worms-extra": {
@@ -1140,6 +1889,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Worms sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Worms für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Worms?", a: "Worms is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Worms?", a: "Worms befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Worms sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Worms für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-wuerzburg": {
     de: [
@@ -1147,6 +1902,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Würzburg?", a: "Würzburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Würzburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Würzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Würzburg?", a: "Würzburg is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Würzburg?", a: "Würzburg befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Würzburg sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Würzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "city-wuppertal-extra": {
@@ -1156,6 +1917,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Wuppertal sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Wuppertal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wuppertal?", a: "Wuppertal is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Wuppertal?", a: "Wuppertal befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Wuppertal sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Wuppertal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "city-zwickau-extra": {
     de: [
@@ -1163,6 +1930,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt Zwickau?", a: "Zwickau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in Zwickau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Zwickau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Zwickau?", a: "Zwickau is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Zwickau?", a: "Zwickau befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Zwickau sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Zwickau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "district-altstadt-bremen-extra": {
@@ -1172,6 +1945,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Altstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Altstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Altstadt?", a: "Bremer Altstadt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Altstadt bekannt?", a: "Bremer Altstadt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Altstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Altstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "district-boettcherstr-extra": {
     de: [
@@ -1179,6 +1958,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Böttcherstraße bekannt?", a: "Böttcherstraße ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Böttcherstraße besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Böttcherstraße für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Böttcherstraße?", a: "Böttcherstraße is a significant geographical or historical feature in Germany." },
+      { q: "Why is Böttcherstraße bekannt?", a: "Böttcherstraße ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Böttcherstraße besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Böttcherstraße für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "district-bremerhaven-city-extra": {
@@ -1188,6 +1973,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man in Bremerhaven sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremerhaven?", a: "Bremerhaven is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt Bremerhaven?", a: "Bremerhaven befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in Bremerhaven sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "district-schnoorviertel-extra": {
     de: [
@@ -1195,6 +1986,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schnoorviertel bekannt?", a: "Schnoorviertel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schnoorviertel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schnoorviertel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schnoorviertel?", a: "Schnoorviertel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schnoorviertel bekannt?", a: "Schnoorviertel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schnoorviertel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schnoorviertel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "district-viertel-bremen-extra": {
@@ -1204,6 +2001,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Das Viertel Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Das Viertel Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Das Viertel Bremen?", a: "Das Viertel Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Das Viertel Bremen bekannt?", a: "Das Viertel Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Das Viertel Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Das Viertel Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-bayerischer-wald": {
     de: [
@@ -1211,6 +2014,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bayerischer Wald bekannt?", a: "Bayerischer Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bayerischer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bayerischer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bayerischer Wald?", a: "Bayerischer Wald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bayerischer Wald bekannt?", a: "Bayerischer Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bayerischer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bayerischer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-darss-extra": {
@@ -1220,6 +2029,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Darß besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Darß für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Darß?", a: "Darß is a significant geographical or historical feature in Germany." },
+      { q: "Why is Darß bekannt?", a: "Darß ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Darß besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Darß für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-flaeming-extra": {
     de: [
@@ -1227,6 +2042,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Fläming bekannt?", a: "Fläming ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Fläming besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Fläming für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Fläming?", a: "Fläming is a significant geographical or historical feature in Germany." },
+      { q: "Why is Fläming bekannt?", a: "Fläming ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Fläming besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Fläming für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-frankenwald-extra": {
@@ -1236,6 +2057,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Frankenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Frankenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Frankenwald?", a: "Frankenwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Frankenwald bekannt?", a: "Frankenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Frankenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Frankenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-grunewald-extra": {
     de: [
@@ -1243,6 +2070,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Grunewald bekannt?", a: "Grunewald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Grunewald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Grunewald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Grunewald?", a: "Grunewald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Grunewald bekannt?", a: "Grunewald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Grunewald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Grunewald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-harz": {
@@ -1252,6 +2085,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Harz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Harz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Harz?", a: "Harz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Harz bekannt?", a: "Harz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Harz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Harz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-harz-nationalpark-extra": {
     de: [
@@ -1259,6 +2098,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Nationalpark Harz (Sachsen-Anhalt) bekannt?", a: "Nationalpark Harz (Sachsen-Anhalt) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Nationalpark Harz (Sachsen-Anhalt) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nationalpark Harz (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nationalpark Harz (Sachsen-Anhalt)?", a: "Nationalpark Harz (Sachsen-Anhalt) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nationalpark Harz (Sachsen-Anhalt) bekannt?", a: "Nationalpark Harz (Sachsen-Anhalt) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nationalpark Harz (Sachsen-Anhalt) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nationalpark Harz (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-kellerwald-edersee": {
@@ -1268,6 +2113,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nationalpark Kellerwald-Edersee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nationalpark Kellerwald-Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nationalpark Kellerwald-Edersee?", a: "Nationalpark Kellerwald-Edersee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nationalpark Kellerwald-Edersee bekannt?", a: "Nationalpark Kellerwald-Edersee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nationalpark Kellerwald-Edersee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nationalpark Kellerwald-Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-kellerwald-extra": {
     de: [
@@ -1275,6 +2126,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kellerwald-Edersee bekannt?", a: "Kellerwald-Edersee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kellerwald-Edersee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kellerwald-Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kellerwald-Edersee?", a: "Kellerwald-Edersee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kellerwald-Edersee bekannt?", a: "Kellerwald-Edersee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kellerwald-Edersee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kellerwald-Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-lueneburger-heide": {
@@ -1284,6 +2141,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Lüneburger Heide?", a: "Lüneburger Heide is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lüneburger Heide bekannt?", a: "Lüneburger Heide ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-lueneburger-heide-extra": {
     de: [
@@ -1291,6 +2154,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Lüneburger Heide bekannt?", a: "Lüneburger Heide ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lüneburger Heide?", a: "Lüneburger Heide is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lüneburger Heide bekannt?", a: "Lüneburger Heide ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-nationalpark-eifel": {
@@ -1300,6 +2169,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nationalpark Eifel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nationalpark Eifel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nationalpark Eifel?", a: "Nationalpark Eifel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nationalpark Eifel bekannt?", a: "Nationalpark Eifel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nationalpark Eifel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nationalpark Eifel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-sachsenwald-extra": {
     de: [
@@ -1307,6 +2182,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Sachsenwald bekannt?", a: "Sachsenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Sachsenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Sachsenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Sachsenwald?", a: "Sachsenwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Sachsenwald bekannt?", a: "Sachsenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Sachsenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Sachsenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-saechsische-schweiz-park-extra": {
@@ -1316,6 +2197,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nationalpark Sächsische Schweiz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nationalpark Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nationalpark Sächsische Schweiz?", a: "Nationalpark Sächsische Schweiz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nationalpark Sächsische Schweiz bekannt?", a: "Nationalpark Sächsische Schweiz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nationalpark Sächsische Schweiz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nationalpark Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-schwarzwald": {
     de: [
@@ -1323,6 +2210,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schwarzwald bekannt?", a: "Schwarzwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schwarzwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schwarzwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schwarzwald?", a: "Schwarzwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schwarzwald bekannt?", a: "Schwarzwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schwarzwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schwarzwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-schwarzwald-nord-extra": {
@@ -1332,6 +2225,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nordschwarzwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nordschwarzwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nordschwarzwald?", a: "Nordschwarzwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nordschwarzwald bekannt?", a: "Nordschwarzwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nordschwarzwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nordschwarzwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-spreewald": {
     de: [
@@ -1339,6 +2238,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Spreewald bekannt?", a: "Spreewald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Spreewald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Spreewald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Spreewald?", a: "Spreewald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Spreewald bekannt?", a: "Spreewald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Spreewald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Spreewald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-teutoburger-wald-extra": {
@@ -1348,6 +2253,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Teutoburger Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Teutoburger Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Teutoburger Wald?", a: "Teutoburger Wald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Teutoburger Wald bekannt?", a: "Teutoburger Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Teutoburger Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Teutoburger Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-thueringer-wald-extra": {
     de: [
@@ -1355,6 +2266,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Thüringer Wald bekannt?", a: "Thüringer Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Thüringer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Thüringer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Thüringer Wald?", a: "Thüringer Wald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Thüringer Wald bekannt?", a: "Thüringer Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Thüringer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Thüringer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "forest-volksdorf-hh-extra": {
@@ -1364,6 +2281,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Volksdorfer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Volksdorfer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Volksdorfer Wald?", a: "Volksdorfer Wald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Volksdorfer Wald bekannt?", a: "Volksdorfer Wald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Volksdorfer Wald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Volksdorfer Wald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "forest-warndt-sl-extra": {
     de: [
@@ -1371,6 +2294,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Warndt bekannt?", a: "Warndt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Warndt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Warndt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Warndt?", a: "Warndt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Warndt bekannt?", a: "Warndt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Warndt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Warndt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-aachen-cathedral": {
@@ -1380,6 +2309,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Aachener Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Aachener Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Aachener Dom?", a: "Aachener Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Aachener Dom bekannt?", a: "Aachener Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Aachener Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Aachener Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-augsburg": {
     de: [
@@ -1387,6 +2322,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Augsburger Rathaus bekannt?", a: "Augsburger Rathaus ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Augsburger Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Augsburger Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Augsburger Rathaus?", a: "Augsburger Rathaus is a significant geographical or historical feature in Germany." },
+      { q: "Why is Augsburger Rathaus bekannt?", a: "Augsburger Rathaus ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Augsburger Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Augsburger Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-auswandererhaus": {
@@ -1396,6 +2337,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Deutsches Auswandererhaus Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Deutsches Auswandererhaus Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Deutsches Auswandererhaus Bremerhaven?", a: "Deutsches Auswandererhaus Bremerhaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Deutsches Auswandererhaus Bremerhaven bekannt?", a: "Deutsches Auswandererhaus Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Deutsches Auswandererhaus Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Deutsches Auswandererhaus Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-bad-homburg-extra": {
     de: [
@@ -1403,6 +2350,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Bad Homburg bekannt?", a: "Schloss Bad Homburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Bad Homburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Bad Homburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Bad Homburg?", a: "Schloss Bad Homburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Bad Homburg bekannt?", a: "Schloss Bad Homburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Bad Homburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Bad Homburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-bamberg-dom": {
@@ -1412,6 +2365,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bamberger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bamberger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bamberger Dom?", a: "Bamberger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bamberger Dom bekannt?", a: "Bamberger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bamberger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bamberger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-bauhaus-dessau": {
     de: [
@@ -1419,6 +2378,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bauhaus Dessau bekannt?", a: "Bauhaus Dessau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bauhaus Dessau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bauhaus Dessau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bauhaus Dessau?", a: "Bauhaus Dessau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bauhaus Dessau bekannt?", a: "Bauhaus Dessau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bauhaus Dessau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bauhaus Dessau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-bergen-belsen": {
@@ -1428,6 +2393,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Gedenkstätte Bergen-Belsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Gedenkstätte Bergen-Belsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gedenkstätte Bergen-Belsen?", a: "Gedenkstätte Bergen-Belsen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Gedenkstätte Bergen-Belsen bekannt?", a: "Gedenkstätte Bergen-Belsen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Gedenkstätte Bergen-Belsen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Gedenkstätte Bergen-Belsen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-berlin-reichstag-1945": {
     de: [
@@ -1435,6 +2406,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Reichstag 1945 bekannt?", a: "Reichstag 1945 ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Reichstag 1945 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reichstag 1945 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Reichstag 1945?", a: "Reichstag 1945 is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reichstag 1945 bekannt?", a: "Reichstag 1945 ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reichstag 1945 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reichstag 1945 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-berliner-mauer": {
@@ -1444,6 +2421,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Berliner Mauer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Berliner Mauer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Berliner Mauer?", a: "Berliner Mauer is a significant geographical or historical feature in Germany." },
+      { q: "Why is Berliner Mauer bekannt?", a: "Berliner Mauer ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Berliner Mauer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Berliner Mauer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-bonn-bundeshaus": {
     de: [
@@ -1451,6 +2434,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bundeshaus Bonn bekannt?", a: "Bundeshaus Bonn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bundeshaus Bonn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bundeshaus Bonn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bundeshaus Bonn?", a: "Bundeshaus Bonn is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bundeshaus Bonn bekannt?", a: "Bundeshaus Bonn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bundeshaus Bonn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bundeshaus Bonn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-bremer-roland": {
@@ -1460,6 +2449,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Roland & Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Roland & Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Roland & Rathaus?", a: "Bremer Roland & Rathaus is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Roland & Rathaus bekannt?", a: "Bremer Roland & Rathaus ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Roland & Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Roland & Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-buchenwald": {
     de: [
@@ -1467,6 +2462,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist KZ Buchenwald bekannt?", a: "KZ Buchenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht KZ Buchenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist KZ Buchenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is KZ Buchenwald?", a: "KZ Buchenwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is KZ Buchenwald bekannt?", a: "KZ Buchenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes KZ Buchenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is KZ Buchenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-buergerweide": {
@@ -1476,6 +2477,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Freimarkt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Freimarkt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Freimarkt?", a: "Bremer Freimarkt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Freimarkt bekannt?", a: "Bremer Freimarkt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Freimarkt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Freimarkt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-burg-eltz": {
     de: [
@@ -1483,6 +2490,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Burg Eltz bekannt?", a: "Burg Eltz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Burg Eltz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Eltz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Burg Eltz?", a: "Burg Eltz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Eltz bekannt?", a: "Burg Eltz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Eltz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Eltz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-burg-hohenzollern": {
@@ -1492,6 +2505,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Burg Hohenzollern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Hohenzollern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Burg Hohenzollern?", a: "Burg Hohenzollern is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Hohenzollern bekannt?", a: "Burg Hohenzollern ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Hohenzollern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Hohenzollern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-cecilienhof": {
     de: [
@@ -1499,6 +2518,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Cecilienhof bekannt?", a: "Schloss Cecilienhof ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Cecilienhof besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Cecilienhof für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Cecilienhof?", a: "Schloss Cecilienhof is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Cecilienhof bekannt?", a: "Schloss Cecilienhof ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Cecilienhof besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Cecilienhof für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-cecilienhof-konferenz": {
@@ -1508,6 +2533,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Cecilienhof – Potsdamer Konferenz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Cecilienhof – Potsdamer Konferenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Cecilienhof – Potsdamer Konferenz?", a: "Schloss Cecilienhof – Potsdamer Konferenz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Cecilienhof – Potsdamer Konferenz bekannt?", a: "Schloss Cecilienhof – Potsdamer Konferenz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Cecilienhof – Potsdamer Konferenz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Cecilienhof – Potsdamer Konferenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-checkpoint-charlie": {
     de: [
@@ -1515,6 +2546,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Checkpoint Charlie bekannt?", a: "Checkpoint Charlie ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Checkpoint Charlie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Checkpoint Charlie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Checkpoint Charlie?", a: "Checkpoint Charlie is a significant geographical or historical feature in Germany." },
+      { q: "Why is Checkpoint Charlie bekannt?", a: "Checkpoint Charlie ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Checkpoint Charlie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Checkpoint Charlie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-colditz": {
@@ -1524,6 +2561,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Colditz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Colditz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Colditz?", a: "Schloss Colditz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Colditz bekannt?", a: "Schloss Colditz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Colditz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Colditz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-dachau": {
     de: [
@@ -1531,6 +2574,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist KZ Dachau bekannt?", a: "KZ Dachau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht KZ Dachau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist KZ Dachau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is KZ Dachau?", a: "KZ Dachau is a significant geographical or historical feature in Germany." },
+      { q: "Why is KZ Dachau bekannt?", a: "KZ Dachau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes KZ Dachau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is KZ Dachau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-ddr-museum": {
@@ -1540,6 +2589,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht DDR Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist DDR Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is DDR Museum?", a: "DDR Museum is a significant geographical or historical feature in Germany." },
+      { q: "Why is DDR Museum bekannt?", a: "DDR Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes DDR Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is DDR Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-eisleben": {
     de: [
@@ -1547,6 +2602,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Lutherstadt Eisleben bekannt?", a: "Lutherstadt Eisleben ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Lutherstadt Eisleben besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lutherstadt Eisleben für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lutherstadt Eisleben?", a: "Lutherstadt Eisleben is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lutherstadt Eisleben bekannt?", a: "Lutherstadt Eisleben ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lutherstadt Eisleben besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lutherstadt Eisleben für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-erfurter-dom": {
@@ -1556,6 +2617,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Erfurter Dom & Severikirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Erfurter Dom & Severikirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Erfurter Dom & Severikirche?", a: "Erfurter Dom & Severikirche is a significant geographical or historical feature in Germany." },
+      { q: "Why is Erfurter Dom & Severikirche bekannt?", a: "Erfurter Dom & Severikirche ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Erfurter Dom & Severikirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Erfurter Dom & Severikirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-filmpark-babelsberg-extra": {
     de: [
@@ -1563,6 +2630,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Filmpark Babelsberg bekannt?", a: "Filmpark Babelsberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Filmpark Babelsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Filmpark Babelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Filmpark Babelsberg?", a: "Filmpark Babelsberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Filmpark Babelsberg bekannt?", a: "Filmpark Babelsberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Filmpark Babelsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Filmpark Babelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-fulda-extra": {
@@ -1572,6 +2645,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kloster Fulda besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kloster Fulda für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kloster Fulda?", a: "Kloster Fulda is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kloster Fulda bekannt?", a: "Kloster Fulda ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kloster Fulda besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kloster Fulda für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-glienicker-bruecke": {
     de: [
@@ -1579,6 +2658,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Glienicker Brücke bekannt?", a: "Glienicker Brücke ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Glienicker Brücke besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Glienicker Brücke für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Glienicker Brücke?", a: "Glienicker Brücke is a significant geographical or historical feature in Germany." },
+      { q: "Why is Glienicker Brücke bekannt?", a: "Glienicker Brücke ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Glienicker Brücke besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Glienicker Brücke für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-goslar-extra": {
@@ -1588,6 +2673,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Goslar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Goslar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Goslar?", a: "Goslar is a significant geographical or historical feature in Germany." },
+      { q: "Why is Goslar bekannt?", a: "Goslar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Goslar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Goslar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-goslar-kaiserpfalz": {
     de: [
@@ -1595,6 +2686,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kaiserpfalz Goslar bekannt?", a: "Kaiserpfalz Goslar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kaiserpfalz Goslar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kaiserpfalz Goslar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kaiserpfalz Goslar?", a: "Kaiserpfalz Goslar is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kaiserpfalz Goslar bekannt?", a: "Kaiserpfalz Goslar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kaiserpfalz Goslar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kaiserpfalz Goslar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-hambach": {
@@ -1604,6 +2701,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hambacher Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hambacher Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hambacher Schloss?", a: "Hambacher Schloss is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hambacher Schloss bekannt?", a: "Hambacher Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hambacher Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hambacher Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-hameln-extra": {
     de: [
@@ -1611,6 +2714,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hameln bekannt?", a: "Hameln ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hameln besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hameln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hameln?", a: "Hameln is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hameln bekannt?", a: "Hameln ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hameln besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hameln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-hermannsdenkmal": {
@@ -1620,6 +2729,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hermannsdenkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hermannsdenkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hermannsdenkmal?", a: "Hermannsdenkmal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hermannsdenkmal bekannt?", a: "Hermannsdenkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hermannsdenkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hermannsdenkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-kaiserburg-nuernberg": {
     de: [
@@ -1627,6 +2742,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kaiserburg Nürnberg bekannt?", a: "Kaiserburg Nürnberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kaiserburg Nürnberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kaiserburg Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kaiserburg Nürnberg?", a: "Kaiserburg Nürnberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kaiserburg Nürnberg bekannt?", a: "Kaiserburg Nürnberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kaiserburg Nürnberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kaiserburg Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-kiel-matrosenaufstand": {
@@ -1636,6 +2757,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kiel – Matrosenaufstand 1918 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kiel – Matrosenaufstand 1918 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kiel – Matrosenaufstand 1918?", a: "Kiel – Matrosenaufstand 1918 is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kiel – Matrosenaufstand 1918 bekannt?", a: "Kiel – Matrosenaufstand 1918 ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kiel – Matrosenaufstand 1918 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kiel – Matrosenaufstand 1918 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-kloster-chorin-extra": {
     de: [
@@ -1643,6 +2770,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kloster Chorin bekannt?", a: "Kloster Chorin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kloster Chorin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kloster Chorin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kloster Chorin?", a: "Kloster Chorin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kloster Chorin bekannt?", a: "Kloster Chorin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kloster Chorin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kloster Chorin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-kloster-lorsch": {
@@ -1652,6 +2785,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kloster Lorsch besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kloster Lorsch für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kloster Lorsch?", a: "Kloster Lorsch is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kloster Lorsch bekannt?", a: "Kloster Lorsch ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kloster Lorsch besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kloster Lorsch für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-kyffhaeuser-denkmal": {
     de: [
@@ -1659,6 +2798,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kyffhäuser-Denkmal bekannt?", a: "Kyffhäuser-Denkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kyffhäuser-Denkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kyffhäuser-Denkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kyffhäuser-Denkmal?", a: "Kyffhäuser-Denkmal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kyffhäuser-Denkmal bekannt?", a: "Kyffhäuser-Denkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kyffhäuser-Denkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kyffhäuser-Denkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-leipzig-montagsdemos": {
@@ -1668,6 +2813,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Montagsdemonstrationen Leipzig besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Montagsdemonstrationen Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Montagsdemonstrationen Leipzig?", a: "Montagsdemonstrationen Leipzig is a significant geographical or historical feature in Germany." },
+      { q: "Why is Montagsdemonstrationen Leipzig bekannt?", a: "Montagsdemonstrationen Leipzig ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Montagsdemonstrationen Leipzig besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Montagsdemonstrationen Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-limburg-dom-extra": {
     de: [
@@ -1675,6 +2826,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Limburger Dom bekannt?", a: "Limburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Limburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Limburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Limburger Dom?", a: "Limburger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Limburger Dom bekannt?", a: "Limburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Limburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Limburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-ludwigskirche-saarbruecken": {
@@ -1684,6 +2841,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Ludwigskirche Saarbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ludwigskirche Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ludwigskirche Saarbrücken?", a: "Ludwigskirche Saarbrücken is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ludwigskirche Saarbrücken bekannt?", a: "Ludwigskirche Saarbrücken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ludwigskirche Saarbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ludwigskirche Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-luebeck": {
     de: [
@@ -1691,6 +2854,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Lübeck bekannt?", a: "Lübeck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Lübeck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lübeck?", a: "Lübeck is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lübeck bekannt?", a: "Lübeck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lübeck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-marksburg": {
@@ -1700,6 +2869,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Marksburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Marksburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Marksburg?", a: "Marksburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Marksburg bekannt?", a: "Marksburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Marksburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Marksburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-meissen-extra": {
     de: [
@@ -1707,6 +2882,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Meißen bekannt?", a: "Meißen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Meißen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Meißen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Meißen?", a: "Meißen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Meißen bekannt?", a: "Meißen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Meißen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Meißen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-michel-hamburg": {
@@ -1716,6 +2897,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht St. Michaelis Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist St. Michaelis Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is St. Michaelis Hamburg?", a: "St. Michaelis Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is St. Michaelis Hamburg bekannt?", a: "St. Michaelis Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes St. Michaelis Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is St. Michaelis Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-mittelbau-dora": {
     de: [
@@ -1723,6 +2910,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Gedenkstätte Mittelbau-Dora bekannt?", a: "Gedenkstätte Mittelbau-Dora ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Gedenkstätte Mittelbau-Dora besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Gedenkstätte Mittelbau-Dora für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Gedenkstätte Mittelbau-Dora?", a: "Gedenkstätte Mittelbau-Dora is a significant geographical or historical feature in Germany." },
+      { q: "Why is Gedenkstätte Mittelbau-Dora bekannt?", a: "Gedenkstätte Mittelbau-Dora ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Gedenkstätte Mittelbau-Dora besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Gedenkstätte Mittelbau-Dora für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-moritzburg-extra": {
@@ -1732,6 +2925,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Moritzburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Moritzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Moritzburg?", a: "Schloss Moritzburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Moritzburg bekannt?", a: "Schloss Moritzburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Moritzburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Moritzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-naumburg-dom-extra": {
     de: [
@@ -1739,6 +2938,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Naumburger Dom bekannt?", a: "Naumburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Naumburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Naumburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Naumburger Dom?", a: "Naumburger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Naumburger Dom bekannt?", a: "Naumburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Naumburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Naumburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-naumburger-dom": {
@@ -1748,6 +2953,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Naumburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Naumburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Naumburger Dom?", a: "Naumburger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Naumburger Dom bekannt?", a: "Naumburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Naumburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Naumburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-noerdlingen": {
     de: [
@@ -1755,6 +2966,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Nördlingen – Reichsstadt im Krater bekannt?", a: "Nördlingen – Reichsstadt im Krater ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Nördlingen – Reichsstadt im Krater besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nördlingen – Reichsstadt im Krater für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nördlingen – Reichsstadt im Krater?", a: "Nördlingen – Reichsstadt im Krater is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nördlingen – Reichsstadt im Krater bekannt?", a: "Nördlingen – Reichsstadt im Krater ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nördlingen – Reichsstadt im Krater besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nördlingen – Reichsstadt im Krater für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-nord-ostsee-kanal": {
@@ -1764,6 +2981,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nord-Ostsee-Kanal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nord-Ostsee-Kanal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nord-Ostsee-Kanal?", a: "Nord-Ostsee-Kanal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nord-Ostsee-Kanal bekannt?", a: "Nord-Ostsee-Kanal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nord-Ostsee-Kanal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nord-Ostsee-Kanal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-november-revolution": {
     de: [
@@ -1771,6 +2994,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Novemberrevolution 1918 – Reichstagsgebäude bekannt?", a: "Novemberrevolution 1918 – Reichstagsgebäude ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Novemberrevolution 1918 – Reichstagsgebäude besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Novemberrevolution 1918 – Reichstagsgebäude für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Novemberrevolution 1918 – Reichstagsgebäude?", a: "Novemberrevolution 1918 – Reichstagsgebäude is a significant geographical or historical feature in Germany." },
+      { q: "Why is Novemberrevolution 1918 – Reichstagsgebäude bekannt?", a: "Novemberrevolution 1918 – Reichstagsgebäude ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Novemberrevolution 1918 – Reichstagsgebäude besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Novemberrevolution 1918 – Reichstagsgebäude für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-nuernberg-justizpalast": {
@@ -1780,6 +3009,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nürnberger Prozesse – Justizpalast besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nürnberger Prozesse – Justizpalast für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nürnberger Prozesse – Justizpalast?", a: "Nürnberger Prozesse – Justizpalast is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nürnberger Prozesse – Justizpalast bekannt?", a: "Nürnberger Prozesse – Justizpalast ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nürnberger Prozesse – Justizpalast besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nürnberger Prozesse – Justizpalast für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-obersalzberg": {
     de: [
@@ -1787,6 +3022,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Obersalzberg – Kehlsteinhaus (Adlerhorst) bekannt?", a: "Obersalzberg – Kehlsteinhaus (Adlerhorst) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Obersalzberg – Kehlsteinhaus (Adlerhorst) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Obersalzberg – Kehlsteinhaus (Adlerhorst) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Obersalzberg – Kehlsteinhaus (Adlerhorst)?", a: "Obersalzberg – Kehlsteinhaus (Adlerhorst) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Obersalzberg – Kehlsteinhaus (Adlerhorst) bekannt?", a: "Obersalzberg – Kehlsteinhaus (Adlerhorst) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Obersalzberg – Kehlsteinhaus (Adlerhorst) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Obersalzberg – Kehlsteinhaus (Adlerhorst) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-olympiastadion-berlin": {
@@ -1796,6 +3037,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Olympiastadion Berlin 1936 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Olympiastadion Berlin 1936 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Olympiastadion Berlin 1936?", a: "Olympiastadion Berlin 1936 is a significant geographical or historical feature in Germany." },
+      { q: "Why is Olympiastadion Berlin 1936 bekannt?", a: "Olympiastadion Berlin 1936 ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Olympiastadion Berlin 1936 besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Olympiastadion Berlin 1936 für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-paderborn-dom": {
     de: [
@@ -1803,6 +3050,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Paderborner Dom bekannt?", a: "Paderborner Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Paderborner Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Paderborner Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Paderborner Dom?", a: "Paderborner Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Paderborner Dom bekannt?", a: "Paderborner Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Paderborner Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Paderborner Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-paulskirche": {
@@ -1812,6 +3065,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Frankfurter Paulskirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Frankfurter Paulskirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Frankfurter Paulskirche?", a: "Frankfurter Paulskirche is a significant geographical or historical feature in Germany." },
+      { q: "Why is Frankfurter Paulskirche bekannt?", a: "Frankfurter Paulskirche ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Frankfurter Paulskirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Frankfurter Paulskirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-peenemuende": {
     de: [
@@ -1819,6 +3078,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Peenemünde bekannt?", a: "Peenemünde ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Peenemünde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Peenemünde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Peenemünde?", a: "Peenemünde is a significant geographical or historical feature in Germany." },
+      { q: "Why is Peenemünde bekannt?", a: "Peenemünde ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Peenemünde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Peenemünde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-point-alpha": {
@@ -1828,6 +3093,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Point Alpha besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Point Alpha für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Point Alpha?", a: "Point Alpha is a significant geographical or historical feature in Germany." },
+      { q: "Why is Point Alpha bekannt?", a: "Point Alpha ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Point Alpha besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Point Alpha für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-prora": {
     de: [
@@ -1835,6 +3106,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Prora – KdF-Seebad Rügen bekannt?", a: "Prora – KdF-Seebad Rügen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Prora – KdF-Seebad Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Prora – KdF-Seebad Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Prora – KdF-Seebad Rügen?", a: "Prora – KdF-Seebad Rügen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Prora – KdF-Seebad Rügen bekannt?", a: "Prora – KdF-Seebad Rügen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Prora – KdF-Seebad Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Prora – KdF-Seebad Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-quedlinburg": {
@@ -1844,6 +3121,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Quedlinburg – Stiftskirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Quedlinburg – Stiftskirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Quedlinburg – Stiftskirche?", a: "Quedlinburg – Stiftskirche is a significant geographical or historical feature in Germany." },
+      { q: "Why is Quedlinburg – Stiftskirche bekannt?", a: "Quedlinburg – Stiftskirche ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Quedlinburg – Stiftskirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Quedlinburg – Stiftskirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-regensburg": {
     de: [
@@ -1851,6 +3134,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Regensburg bekannt?", a: "Regensburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Regensburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Regensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Regensburg?", a: "Regensburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Regensburg bekannt?", a: "Regensburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Regensburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Regensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-reichsparteitag": {
@@ -1860,6 +3149,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Reichsparteitagsgelände Nürnberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reichsparteitagsgelände Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Reichsparteitagsgelände Nürnberg?", a: "Reichsparteitagsgelände Nürnberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reichsparteitagsgelände Nürnberg bekannt?", a: "Reichsparteitagsgelände Nürnberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reichsparteitagsgelände Nürnberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reichsparteitagsgelände Nürnberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-rothenburg": {
     de: [
@@ -1867,6 +3162,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Rothenburg ob der Tauber bekannt?", a: "Rothenburg ob der Tauber ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Rothenburg ob der Tauber besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rothenburg ob der Tauber für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Rothenburg ob der Tauber?", a: "Rothenburg ob der Tauber is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rothenburg ob der Tauber bekannt?", a: "Rothenburg ob der Tauber ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rothenburg ob der Tauber besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rothenburg ob der Tauber für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-sachsenhausen": {
@@ -1876,6 +3177,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Gedenkstätte Sachsenhausen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Gedenkstätte Sachsenhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gedenkstätte Sachsenhausen?", a: "Gedenkstätte Sachsenhausen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Gedenkstätte Sachsenhausen bekannt?", a: "Gedenkstätte Sachsenhausen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Gedenkstätte Sachsenhausen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Gedenkstätte Sachsenhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-schloss-heidelberg": {
     de: [
@@ -1883,6 +3190,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Heidelberger Schloss bekannt?", a: "Heidelberger Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Heidelberger Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Heidelberger Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Heidelberger Schloss?", a: "Heidelberger Schloss is a significant geographical or historical feature in Germany." },
+      { q: "Why is Heidelberger Schloss bekannt?", a: "Heidelberger Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Heidelberger Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Heidelberger Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-schloss-linderhof": {
@@ -1892,6 +3205,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Linderhof besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Linderhof für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Linderhof?", a: "Schloss Linderhof is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Linderhof bekannt?", a: "Schloss Linderhof ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Linderhof besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Linderhof für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-schloss-mespelbrunn": {
     de: [
@@ -1899,6 +3218,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Mespelbrunn bekannt?", a: "Schloss Mespelbrunn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Mespelbrunn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Mespelbrunn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Mespelbrunn?", a: "Schloss Mespelbrunn is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Mespelbrunn bekannt?", a: "Schloss Mespelbrunn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Mespelbrunn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Mespelbrunn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-schloss-rheinsberg-extra": {
@@ -1908,6 +3233,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Rheinsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Rheinsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Rheinsberg?", a: "Schloss Rheinsberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Rheinsberg bekannt?", a: "Schloss Rheinsberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Rheinsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Rheinsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-schloss-sigmaringen": {
     de: [
@@ -1915,6 +3246,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Sigmaringen bekannt?", a: "Schloss Sigmaringen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Sigmaringen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Sigmaringen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Sigmaringen?", a: "Schloss Sigmaringen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Sigmaringen bekannt?", a: "Schloss Sigmaringen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Sigmaringen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Sigmaringen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-schloss-stolzenfels": {
@@ -1924,6 +3261,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Stolzenfels besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Stolzenfels für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Stolzenfels?", a: "Schloss Stolzenfels is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Stolzenfels bekannt?", a: "Schloss Stolzenfels ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Stolzenfels besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Stolzenfels für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-schnoorviertel": {
     de: [
@@ -1931,6 +3274,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schnoorviertel bekannt?", a: "Schnoorviertel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schnoorviertel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schnoorviertel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schnoorviertel?", a: "Schnoorviertel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schnoorviertel bekannt?", a: "Schnoorviertel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schnoorviertel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schnoorviertel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-semperoper": {
@@ -1940,6 +3289,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Semperoper Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Semperoper Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Semperoper Dresden?", a: "Semperoper Dresden is a significant geographical or historical feature in Germany." },
+      { q: "Why is Semperoper Dresden bekannt?", a: "Semperoper Dresden ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Semperoper Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Semperoper Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-skagerrakschlacht": {
     de: [
@@ -1947,6 +3302,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Skagerrakschlacht – Marine-Ehrenmal Laboe bekannt?", a: "Skagerrakschlacht – Marine-Ehrenmal Laboe ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Skagerrakschlacht – Marine-Ehrenmal Laboe besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Skagerrakschlacht – Marine-Ehrenmal Laboe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Skagerrakschlacht – Marine-Ehrenmal Laboe?", a: "Skagerrakschlacht – Marine-Ehrenmal Laboe is a significant geographical or historical feature in Germany." },
+      { q: "Why is Skagerrakschlacht – Marine-Ehrenmal Laboe bekannt?", a: "Skagerrakschlacht – Marine-Ehrenmal Laboe ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Skagerrakschlacht – Marine-Ehrenmal Laboe besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Skagerrakschlacht – Marine-Ehrenmal Laboe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-spartakusaufstand": {
@@ -1956,6 +3317,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Spartakusaufstand 1919 – Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Spartakusaufstand 1919 – Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Spartakusaufstand 1919 – Berlin?", a: "Spartakusaufstand 1919 – Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Spartakusaufstand 1919 – Berlin bekannt?", a: "Spartakusaufstand 1919 – Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Spartakusaufstand 1919 – Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Spartakusaufstand 1919 – Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-speicherstadt": {
     de: [
@@ -1963,6 +3330,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Speicherstadt Hamburg bekannt?", a: "Speicherstadt Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Speicherstadt Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Speicherstadt Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Speicherstadt Hamburg?", a: "Speicherstadt Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Speicherstadt Hamburg bekannt?", a: "Speicherstadt Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Speicherstadt Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Speicherstadt Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-speyer": {
@@ -1972,6 +3345,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Speyerer Dom?", a: "Speyerer Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Speyerer Dom bekannt?", a: "Speyerer Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-speyer-dom-extra": {
     de: [
@@ -1979,6 +3358,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Speyerer Dom bekannt?", a: "Speyerer Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Speyerer Dom?", a: "Speyerer Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Speyerer Dom bekannt?", a: "Speyerer Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-st-nikolai-hamburg": {
@@ -1988,6 +3373,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Mahnmal St. Nikolai Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Mahnmal St. Nikolai Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Mahnmal St. Nikolai Hamburg?", a: "Mahnmal St. Nikolai Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Mahnmal St. Nikolai Hamburg bekannt?", a: "Mahnmal St. Nikolai Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Mahnmal St. Nikolai Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Mahnmal St. Nikolai Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-stasi-museum": {
     de: [
@@ -1995,6 +3386,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Stasi-Museum bekannt?", a: "Stasi-Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Stasi-Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Stasi-Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Stasi-Museum?", a: "Stasi-Museum is a significant geographical or historical feature in Germany." },
+      { q: "Why is Stasi-Museum bekannt?", a: "Stasi-Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Stasi-Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Stasi-Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-stralsund-hansestadt": {
@@ -2004,6 +3401,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hansestadt Stralsund besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hansestadt Stralsund für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hansestadt Stralsund?", a: "Hansestadt Stralsund is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hansestadt Stralsund bekannt?", a: "Hansestadt Stralsund ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hansestadt Stralsund besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hansestadt Stralsund für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-tannenberg": {
     de: [
@@ -2011,6 +3414,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Tannenberg-Denkmal bekannt?", a: "Tannenberg-Denkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Tannenberg-Denkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Tannenberg-Denkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Tannenberg-Denkmal?", a: "Tannenberg-Denkmal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Tannenberg-Denkmal bekannt?", a: "Tannenberg-Denkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Tannenberg-Denkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Tannenberg-Denkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-trier-porta-nigra-extra": {
@@ -2020,6 +3429,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Trier – Porta Nigra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Trier – Porta Nigra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Trier – Porta Nigra?", a: "Trier – Porta Nigra is a significant geographical or historical feature in Germany." },
+      { q: "Why is Trier – Porta Nigra bekannt?", a: "Trier – Porta Nigra ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Trier – Porta Nigra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Trier – Porta Nigra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-verdun-gedenkstaette": {
     de: [
@@ -2027,6 +3442,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Verdun – Gedenkstätte Beinhaus Douaumont bekannt?", a: "Verdun – Gedenkstätte Beinhaus Douaumont ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Verdun – Gedenkstätte Beinhaus Douaumont besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Verdun – Gedenkstätte Beinhaus Douaumont für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Verdun – Gedenkstätte Beinhaus Douaumont?", a: "Verdun – Gedenkstätte Beinhaus Douaumont is a significant geographical or historical feature in Germany." },
+      { q: "Why is Verdun – Gedenkstätte Beinhaus Douaumont bekannt?", a: "Verdun – Gedenkstätte Beinhaus Douaumont ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Verdun – Gedenkstätte Beinhaus Douaumont besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Verdun – Gedenkstätte Beinhaus Douaumont für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-voelkerschlachtdenkmal": {
@@ -2036,6 +3457,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Völkerschlachtdenkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Völkerschlachtdenkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Völkerschlachtdenkmal?", a: "Völkerschlachtdenkmal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Völkerschlachtdenkmal bekannt?", a: "Völkerschlachtdenkmal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Völkerschlachtdenkmal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Völkerschlachtdenkmal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-wannsee": {
     de: [
@@ -2043,6 +3470,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wannsee-Konferenz – Gedenkstätte bekannt?", a: "Wannsee-Konferenz – Gedenkstätte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wannsee-Konferenz – Gedenkstätte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wannsee-Konferenz – Gedenkstätte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wannsee-Konferenz – Gedenkstätte?", a: "Wannsee-Konferenz – Gedenkstätte is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wannsee-Konferenz – Gedenkstätte bekannt?", a: "Wannsee-Konferenz – Gedenkstätte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wannsee-Konferenz – Gedenkstätte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wannsee-Konferenz – Gedenkstätte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-wartburg": {
@@ -2052,6 +3485,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wartburg?", a: "Wartburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wartburg bekannt?", a: "Wartburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-weimar": {
     de: [
@@ -2059,6 +3498,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Weimar bekannt?", a: "Weimar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Weimar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Weimar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Weimar?", a: "Weimar is a significant geographical or historical feature in Germany." },
+      { q: "Why is Weimar bekannt?", a: "Weimar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Weimar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Weimar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-wilhelmshoehe": {
@@ -2068,6 +3513,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Wilhelmshöhe Kassel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Wilhelmshöhe Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Wilhelmshöhe Kassel?", a: "Schloss Wilhelmshöhe Kassel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Wilhelmshöhe Kassel bekannt?", a: "Schloss Wilhelmshöhe Kassel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Wilhelmshöhe Kassel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Wilhelmshöhe Kassel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-wismar-hansestadt": {
     de: [
@@ -2075,6 +3526,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hansestadt Wismar bekannt?", a: "Hansestadt Wismar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hansestadt Wismar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hansestadt Wismar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hansestadt Wismar?", a: "Hansestadt Wismar is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hansestadt Wismar bekannt?", a: "Hansestadt Wismar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hansestadt Wismar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hansestadt Wismar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-wittenberg-schlosskirche": {
@@ -2084,6 +3541,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schlosskirche Wittenberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schlosskirche Wittenberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schlosskirche Wittenberg?", a: "Schlosskirche Wittenberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schlosskirche Wittenberg bekannt?", a: "Schlosskirche Wittenberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schlosskirche Wittenberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schlosskirche Wittenberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-wittenberg-stadtkirche-extra": {
     de: [
@@ -2091,6 +3554,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Lutherstadt Wittenberg bekannt?", a: "Lutherstadt Wittenberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Lutherstadt Wittenberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lutherstadt Wittenberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lutherstadt Wittenberg?", a: "Lutherstadt Wittenberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lutherstadt Wittenberg bekannt?", a: "Lutherstadt Wittenberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lutherstadt Wittenberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lutherstadt Wittenberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-wolfenbuettel": {
@@ -2100,6 +3569,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Wolfenbüttel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wolfenbüttel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wolfenbüttel?", a: "Wolfenbüttel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wolfenbüttel bekannt?", a: "Wolfenbüttel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wolfenbüttel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wolfenbüttel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-worms-dom": {
     de: [
@@ -2107,6 +3582,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wormser Dom St. Peter bekannt?", a: "Wormser Dom St. Peter ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wormser Dom St. Peter besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wormser Dom St. Peter für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wormser Dom St. Peter?", a: "Wormser Dom St. Peter is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wormser Dom St. Peter bekannt?", a: "Wormser Dom St. Peter ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wormser Dom St. Peter besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wormser Dom St. Peter für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "hist-worms-judenviertel-extra": {
@@ -2116,6 +3597,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Jüdisches Worms besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Jüdisches Worms für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Jüdisches Worms?", a: "Jüdisches Worms is a significant geographical or historical feature in Germany." },
+      { q: "Why is Jüdisches Worms bekannt?", a: "Jüdisches Worms ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Jüdisches Worms besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Jüdisches Worms für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "hist-zwinger-dresden-extra": {
     de: [
@@ -2123,6 +3610,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Dresdner Zwinger bekannt?", a: "Dresdner Zwinger ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Dresdner Zwinger besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Dresdner Zwinger für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Dresdner Zwinger?", a: "Dresdner Zwinger is a significant geographical or historical feature in Germany." },
+      { q: "Why is Dresdner Zwinger bekannt?", a: "Dresdner Zwinger ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Dresdner Zwinger besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Dresdner Zwinger für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-aachen-karl-extra": {
@@ -2132,6 +3625,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Aachener Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Aachener Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Aachener Dom?", a: "Aachener Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Aachener Dom bekannt?", a: "Aachener Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Aachener Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Aachener Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-berliner-mauer-east-extra": {
     de: [
@@ -2139,6 +3638,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist East Side Gallery bekannt?", a: "East Side Gallery ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht East Side Gallery besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist East Side Gallery für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is East Side Gallery?", a: "East Side Gallery is a significant geographical or historical feature in Germany." },
+      { q: "Why is East Side Gallery bekannt?", a: "East Side Gallery ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes East Side Gallery besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is East Side Gallery für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-blieskastel-sl-extra": {
@@ -2148,6 +3653,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Blieskastel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Blieskastel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Blieskastel?", a: "Blieskastel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Blieskastel bekannt?", a: "Blieskastel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Blieskastel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Blieskastel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-buchenwald-extra": {
     de: [
@@ -2155,6 +3666,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Gedenkstätte Buchenwald bekannt?", a: "Gedenkstätte Buchenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Gedenkstätte Buchenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Gedenkstätte Buchenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Gedenkstätte Buchenwald?", a: "Gedenkstätte Buchenwald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Gedenkstätte Buchenwald bekannt?", a: "Gedenkstätte Buchenwald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Gedenkstätte Buchenwald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Gedenkstätte Buchenwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-greifswald-extra": {
@@ -2164,6 +3681,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Greifswald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Greifswald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Greifswald?", a: "Greifswald is a significant geographical or historical feature in Germany." },
+      { q: "Why is Greifswald bekannt?", a: "Greifswald ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Greifswald besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Greifswald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-hafencity-hh-extra": {
     de: [
@@ -2171,6 +3694,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wo liegt HafenCity?", a: "HafenCity befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
       { q: "Was kann man in HafenCity sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
       { q: "Ist HafenCity für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is HafenCity?", a: "HafenCity is a significant geographical or historical feature in Germany." },
+      { q: "Wo liegt HafenCity?", a: "HafenCity befindet sich in der jeweiligen Region in Deutschland und ist für seine lokale Bedeutung bekannt." },
+      { q: "Was kann man in HafenCity sehen?", a: "Besucher können historische Gebäude, kulturelle Einrichtungen und die lokale Atmosphäre genießen." },
+      { q: "Is HafenCity für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-haithabu-extra": {
@@ -2180,6 +3709,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Haithabu (Hedeby) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Haithabu (Hedeby) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Haithabu (Hedeby)?", a: "Haithabu (Hedeby) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Haithabu (Hedeby) bekannt?", a: "Haithabu (Hedeby) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Haithabu (Hedeby) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Haithabu (Hedeby) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-holocaust-memorial-extra": {
     de: [
@@ -2187,6 +3722,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Holocaust-Mahnmal Berlin bekannt?", a: "Holocaust-Mahnmal Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Holocaust-Mahnmal Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Holocaust-Mahnmal Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Holocaust-Mahnmal Berlin?", a: "Holocaust-Mahnmal Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Holocaust-Mahnmal Berlin bekannt?", a: "Holocaust-Mahnmal Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Holocaust-Mahnmal Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Holocaust-Mahnmal Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-kloster-eldena-extra": {
@@ -2196,6 +3737,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Klosterruine Eldena besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Klosterruine Eldena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Klosterruine Eldena?", a: "Klosterruine Eldena is a significant geographical or historical feature in Germany." },
+      { q: "Why is Klosterruine Eldena bekannt?", a: "Klosterruine Eldena ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Klosterruine Eldena besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Klosterruine Eldena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-kloster-maulbronn-extra": {
     de: [
@@ -2203,6 +3750,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kloster Maulbronn bekannt?", a: "Kloster Maulbronn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kloster Maulbronn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kloster Maulbronn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kloster Maulbronn?", a: "Kloster Maulbronn is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kloster Maulbronn bekannt?", a: "Kloster Maulbronn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kloster Maulbronn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kloster Maulbronn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-krameramtsstuben-hh-extra": {
@@ -2212,6 +3765,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kramer-Amtsstuben besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kramer-Amtsstuben für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kramer-Amtsstuben?", a: "Kramer-Amtsstuben is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kramer-Amtsstuben bekannt?", a: "Kramer-Amtsstuben ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kramer-Amtsstuben besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kramer-Amtsstuben für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-mettlach-abbey-sl-extra": {
     de: [
@@ -2219,6 +3778,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Alte Abtei Mettlach bekannt?", a: "Alte Abtei Mettlach ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Alte Abtei Mettlach besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Alte Abtei Mettlach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Alte Abtei Mettlach?", a: "Alte Abtei Mettlach is a significant geographical or historical feature in Germany." },
+      { q: "Why is Alte Abtei Mettlach bekannt?", a: "Alte Abtei Mettlach ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Alte Abtei Mettlach besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Alte Abtei Mettlach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-rathaus-hamburg-extra": {
@@ -2228,6 +3793,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hamburger Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hamburger Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hamburger Rathaus?", a: "Hamburger Rathaus is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hamburger Rathaus bekannt?", a: "Hamburger Rathaus ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hamburger Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hamburger Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-regensburg-dom-extra": {
     de: [
@@ -2235,6 +3806,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Regensburger Dom bekannt?", a: "Regensburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Regensburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Regensburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Regensburger Dom?", a: "Regensburger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Regensburger Dom bekannt?", a: "Regensburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Regensburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Regensburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-schleswig-dom-extra": {
@@ -2244,6 +3821,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schleswig Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schleswig Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schleswig Dom?", a: "Schleswig Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schleswig Dom bekannt?", a: "Schleswig Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schleswig Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schleswig Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-schloss-sanssouci-berlin-extra": {
     de: [
@@ -2251,6 +3834,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wannsee-Konferenz Gedenkstätte bekannt?", a: "Wannsee-Konferenz Gedenkstätte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wannsee-Konferenz Gedenkstätte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wannsee-Konferenz Gedenkstätte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wannsee-Konferenz Gedenkstätte?", a: "Wannsee-Konferenz Gedenkstätte is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wannsee-Konferenz Gedenkstätte bekannt?", a: "Wannsee-Konferenz Gedenkstätte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wannsee-Konferenz Gedenkstätte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wannsee-Konferenz Gedenkstätte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "historical-speicherstadt-hh-extra": {
@@ -2260,6 +3849,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Speicherstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Speicherstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Speicherstadt?", a: "Speicherstadt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Speicherstadt bekannt?", a: "Speicherstadt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Speicherstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Speicherstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "historical-voelklinger-huette-sl-extra": {
     de: [
@@ -2267,6 +3862,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Völklinger Hütte bekannt?", a: "Völklinger Hütte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Völklinger Hütte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Völklinger Hütte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Völklinger Hütte?", a: "Völklinger Hütte is a significant geographical or historical feature in Germany." },
+      { q: "Why is Völklinger Hütte bekannt?", a: "Völklinger Hütte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Völklinger Hütte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Völklinger Hütte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-airbus-bremen-extra": {
@@ -2276,6 +3877,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Airbus Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Airbus Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Airbus Bremen?", a: "Airbus Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Airbus Bremen bekannt?", a: "Airbus Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Airbus Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Airbus Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-bergwerk-duhamel-sl-extra": {
     de: [
@@ -2283,6 +3890,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bergbaumuseum Bexbach bekannt?", a: "Bergbaumuseum Bexbach ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bergbaumuseum Bexbach besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bergbaumuseum Bexbach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bergbaumuseum Bexbach?", a: "Bergbaumuseum Bexbach is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bergbaumuseum Bexbach bekannt?", a: "Bergbaumuseum Bexbach ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bergbaumuseum Bexbach besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bergbaumuseum Bexbach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-frankfurt": {
@@ -2292,6 +3905,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Frankfurt am Main – Finanzplatz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Frankfurt am Main – Finanzplatz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Frankfurt am Main – Finanzplatz?", a: "Frankfurt am Main – Finanzplatz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Frankfurt am Main – Finanzplatz bekannt?", a: "Frankfurt am Main – Finanzplatz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Frankfurt am Main – Finanzplatz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Frankfurt am Main – Finanzplatz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-ingolstadt": {
     de: [
@@ -2299,6 +3918,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Ingolstadt (Audi) bekannt?", a: "Ingolstadt (Audi) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Ingolstadt (Audi) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ingolstadt (Audi) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ingolstadt (Audi)?", a: "Ingolstadt (Audi) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ingolstadt (Audi) bekannt?", a: "Ingolstadt (Audi) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ingolstadt (Audi) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ingolstadt (Audi) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-leipzig": {
@@ -2308,6 +3933,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Leipzig – Buch & Auto besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Leipzig – Buch & Auto für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Leipzig – Buch & Auto?", a: "Leipzig – Buch & Auto is a significant geographical or historical feature in Germany." },
+      { q: "Why is Leipzig – Buch & Auto bekannt?", a: "Leipzig – Buch & Auto ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Leipzig – Buch & Auto besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Leipzig – Buch & Auto für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-leuna-buna-extra": {
     de: [
@@ -2315,6 +3946,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Chemiedreieck Leuna-Buna bekannt?", a: "Chemiedreieck Leuna-Buna ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Chemiedreieck Leuna-Buna besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Chemiedreieck Leuna-Buna für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Chemiedreieck Leuna-Buna?", a: "Chemiedreieck Leuna-Buna is a significant geographical or historical feature in Germany." },
+      { q: "Why is Chemiedreieck Leuna-Buna bekannt?", a: "Chemiedreieck Leuna-Buna ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Chemiedreieck Leuna-Buna besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Chemiedreieck Leuna-Buna für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-ludwigshafen": {
@@ -2324,6 +3961,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Ludwigshafen (BASF – Chemie) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ludwigshafen (BASF – Chemie) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ludwigshafen (BASF – Chemie)?", a: "Ludwigshafen (BASF – Chemie) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ludwigshafen (BASF – Chemie) bekannt?", a: "Ludwigshafen (BASF – Chemie) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ludwigshafen (BASF – Chemie) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ludwigshafen (BASF – Chemie) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-muenchen-tech": {
     de: [
@@ -2331,6 +3974,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist München – BMW & Siemens bekannt?", a: "München – BMW & Siemens ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht München – BMW & Siemens besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist München – BMW & Siemens für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is München – BMW & Siemens?", a: "München – BMW & Siemens is a significant geographical or historical feature in Germany." },
+      { q: "Why is München – BMW & Siemens bekannt?", a: "München – BMW & Siemens ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes München – BMW & Siemens besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is München – BMW & Siemens für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-ruhrgebiet": {
@@ -2340,6 +3989,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Ruhrgebiet besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ruhrgebiet für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ruhrgebiet?", a: "Ruhrgebiet is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ruhrgebiet bekannt?", a: "Ruhrgebiet ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ruhrgebiet besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ruhrgebiet für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-ruhrgebiet-extra": {
     de: [
@@ -2347,6 +4002,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Ruhrgebiet – Industriekultur bekannt?", a: "Ruhrgebiet – Industriekultur ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Ruhrgebiet – Industriekultur besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ruhrgebiet – Industriekultur für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ruhrgebiet – Industriekultur?", a: "Ruhrgebiet – Industriekultur is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ruhrgebiet – Industriekultur bekannt?", a: "Ruhrgebiet – Industriekultur ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ruhrgebiet – Industriekultur besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ruhrgebiet – Industriekultur für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "industry-stuttgart": {
@@ -2356,6 +4017,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Stuttgart – Automobilzentrum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Stuttgart – Automobilzentrum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Stuttgart – Automobilzentrum?", a: "Stuttgart – Automobilzentrum is a significant geographical or historical feature in Germany." },
+      { q: "Why is Stuttgart – Automobilzentrum bekannt?", a: "Stuttgart – Automobilzentrum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Stuttgart – Automobilzentrum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Stuttgart – Automobilzentrum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "industry-wolfsburg": {
     de: [
@@ -2363,6 +4030,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wolfsburg (Volkswagen) bekannt?", a: "Wolfsburg (Volkswagen) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wolfsburg (Volkswagen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wolfsburg (Volkswagen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wolfsburg (Volkswagen)?", a: "Wolfsburg (Volkswagen) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wolfsburg (Volkswagen) bekannt?", a: "Wolfsburg (Volkswagen) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wolfsburg (Volkswagen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wolfsburg (Volkswagen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-fehmarn": {
@@ -2372,6 +4045,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Fehmarn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Fehmarn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Fehmarn?", a: "Fehmarn is a significant geographical or historical feature in Germany." },
+      { q: "Why is Fehmarn bekannt?", a: "Fehmarn ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Fehmarn besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Fehmarn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-foehr-extra": {
     de: [
@@ -2379,6 +4058,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Föhr bekannt?", a: "Föhr ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Föhr besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Föhr für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Föhr?", a: "Föhr is a significant geographical or historical feature in Germany." },
+      { q: "Why is Föhr bekannt?", a: "Föhr ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Föhr besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Föhr für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-helgoland": {
@@ -2388,6 +4073,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Helgoland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Helgoland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Helgoland?", a: "Helgoland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Helgoland bekannt?", a: "Helgoland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Helgoland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Helgoland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-mainau": {
     de: [
@@ -2395,6 +4086,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Insel Mainau bekannt?", a: "Insel Mainau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Insel Mainau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Insel Mainau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Insel Mainau?", a: "Insel Mainau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Insel Mainau bekannt?", a: "Insel Mainau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Insel Mainau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Insel Mainau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-neuwerk-hh-extra": {
@@ -2404,6 +4101,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Insel Neuwerk besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Insel Neuwerk für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Insel Neuwerk?", a: "Insel Neuwerk is a significant geographical or historical feature in Germany." },
+      { q: "Why is Insel Neuwerk bekannt?", a: "Insel Neuwerk ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Insel Neuwerk besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Insel Neuwerk für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-norderney-extra": {
     de: [
@@ -2411,6 +4114,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Norderney bekannt?", a: "Norderney ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Norderney besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Norderney für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Norderney?", a: "Norderney is a significant geographical or historical feature in Germany." },
+      { q: "Why is Norderney bekannt?", a: "Norderney ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Norderney besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Norderney für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-ruegen": {
@@ -2420,6 +4129,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Rügen?", a: "Rügen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rügen bekannt?", a: "Rügen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-ruegen-extra": {
     de: [
@@ -2427,6 +4142,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Rügen bekannt?", a: "Rügen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Rügen?", a: "Rügen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rügen bekannt?", a: "Rügen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rügen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rügen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-sylt": {
@@ -2436,6 +4157,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Sylt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Sylt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Sylt?", a: "Sylt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Sylt bekannt?", a: "Sylt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Sylt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Sylt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-sylt-extra": {
     de: [
@@ -2443,6 +4170,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Sylt bekannt?", a: "Sylt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Sylt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Sylt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Sylt?", a: "Sylt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Sylt bekannt?", a: "Sylt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Sylt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Sylt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "island-usedom": {
@@ -2452,6 +4185,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Usedom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Usedom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Usedom?", a: "Usedom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Usedom bekannt?", a: "Usedom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Usedom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Usedom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "island-usedom-extra": {
     de: [
@@ -2459,6 +4198,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Usedom bekannt?", a: "Usedom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Usedom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Usedom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Usedom?", a: "Usedom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Usedom bekannt?", a: "Usedom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Usedom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Usedom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "kid-landmark-belantis": {
@@ -2468,6 +4213,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht BELANTIS – Das AbenteuerReich besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist BELANTIS – Das AbenteuerReich für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is BELANTIS – Das AbenteuerReich?", a: "BELANTIS – Das AbenteuerReich is a significant geographical or historical feature in Germany." },
+      { q: "Why is BELANTIS – Das AbenteuerReich bekannt?", a: "BELANTIS – Das AbenteuerReich ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes BELANTIS – Das AbenteuerReich besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is BELANTIS – Das AbenteuerReich für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "kid-landmark-ravensburger-spieleland": {
     de: [
@@ -2475,6 +4226,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Ravensburger Spieleland bekannt?", a: "Ravensburger Spieleland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Ravensburger Spieleland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ravensburger Spieleland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ravensburger Spieleland?", a: "Ravensburger Spieleland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ravensburger Spieleland bekannt?", a: "Ravensburger Spieleland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ravensburger Spieleland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ravensburger Spieleland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "kid-landmark-serengeti-park": {
@@ -2484,6 +4241,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Serengeti-Park Hodenhagen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Serengeti-Park Hodenhagen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Serengeti-Park Hodenhagen?", a: "Serengeti-Park Hodenhagen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Serengeti-Park Hodenhagen bekannt?", a: "Serengeti-Park Hodenhagen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Serengeti-Park Hodenhagen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Serengeti-Park Hodenhagen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "kidlm-deutsches-museum-muenchen": {
     de: [
@@ -2491,6 +4254,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Deutsches Museum München bekannt?", a: "Deutsches Museum München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Deutsches Museum München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Deutsches Museum München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Deutsches Museum München?", a: "Deutsches Museum München is a significant geographical or historical feature in Germany." },
+      { q: "Why is Deutsches Museum München bekannt?", a: "Deutsches Museum München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Deutsches Museum München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Deutsches Museum München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "kidlm-europapark-rust": {
@@ -2500,6 +4269,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Europa-Park Rust besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Europa-Park Rust für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Europa-Park Rust?", a: "Europa-Park Rust is a significant geographical or historical feature in Germany." },
+      { q: "Why is Europa-Park Rust bekannt?", a: "Europa-Park Rust ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Europa-Park Rust besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Europa-Park Rust für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "kidlm-hansa-park": {
     de: [
@@ -2507,6 +4282,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hansa-Park bekannt?", a: "Hansa-Park ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hansa-Park besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hansa-Park für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hansa-Park?", a: "Hansa-Park is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hansa-Park bekannt?", a: "Hansa-Park ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hansa-Park besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hansa-Park für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "kidlm-heide-park-soltau": {
@@ -2516,6 +4297,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Heide Park Soltau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Heide Park Soltau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Heide Park Soltau?", a: "Heide Park Soltau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Heide Park Soltau bekannt?", a: "Heide Park Soltau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Heide Park Soltau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Heide Park Soltau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "kidlm-legoland-guenzburg": {
     de: [
@@ -2523,6 +4310,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Legoland Deutschland Günzburg bekannt?", a: "Legoland Deutschland Günzburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Legoland Deutschland Günzburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Legoland Deutschland Günzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Legoland Deutschland Günzburg?", a: "Legoland Deutschland Günzburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Legoland Deutschland Günzburg bekannt?", a: "Legoland Deutschland Günzburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Legoland Deutschland Günzburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Legoland Deutschland Günzburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "kidlm-miniatur-wunderland": {
@@ -2532,6 +4325,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Miniatur Wunderland Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Miniatur Wunderland Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Miniatur Wunderland Hamburg?", a: "Miniatur Wunderland Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Miniatur Wunderland Hamburg bekannt?", a: "Miniatur Wunderland Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Miniatur Wunderland Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Miniatur Wunderland Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "kidlm-phantasialand-bruehl": {
     de: [
@@ -2539,6 +4338,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Phantasialand Brühl bekannt?", a: "Phantasialand Brühl ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Phantasialand Brühl besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Phantasialand Brühl für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Phantasialand Brühl?", a: "Phantasialand Brühl is a significant geographical or historical feature in Germany." },
+      { q: "Why is Phantasialand Brühl bekannt?", a: "Phantasialand Brühl ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Phantasialand Brühl besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Phantasialand Brühl für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-ammersee": {
@@ -2548,6 +4353,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Ammersee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Ammersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ammersee?", a: "Ammersee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Ammersee?", a: "Der Ammersee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Ammersee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Ammersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-arendsee-extra": {
     de: [
@@ -2555,6 +4366,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Arendsee?", a: "Der Arendsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Arendsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Arendsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Arendsee?", a: "Arendsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Arendsee?", a: "Der Arendsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Arendsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Arendsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-baldeneysee-extra": {
@@ -2564,6 +4381,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Baldeneysee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Baldeneysee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Baldeneysee?", a: "Baldeneysee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Baldeneysee?", a: "Der Baldeneysee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Baldeneysee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Baldeneysee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-bleilochtalsperre-extra": {
     de: [
@@ -2571,6 +4394,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Bleilochtalsperre?", a: "Der Bleilochtalsperre ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Bleilochtalsperre unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Bleilochtalsperre für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bleilochtalsperre?", a: "Bleilochtalsperre is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Bleilochtalsperre?", a: "Der Bleilochtalsperre ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Bleilochtalsperre unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Bleilochtalsperre für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-bodensee": {
@@ -2580,6 +4409,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Bodensee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Bodensee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bodensee?", a: "Bodensee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Bodensee?", a: "Der Bodensee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Bodensee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Bodensee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-bostalsee-sl-extra": {
     de: [
@@ -2587,6 +4422,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Bostalsee?", a: "Der Bostalsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Bostalsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Bostalsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bostalsee?", a: "Bostalsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Bostalsee?", a: "Der Bostalsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Bostalsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Bostalsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-chiemsee": {
@@ -2596,6 +4437,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Chiemsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Chiemsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Chiemsee?", a: "Chiemsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Chiemsee?", a: "Der Chiemsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Chiemsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Chiemsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-edersee-extra": {
     de: [
@@ -2603,6 +4450,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Edersee?", a: "Der Edersee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Edersee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Edersee?", a: "Edersee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Edersee?", a: "Der Edersee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Edersee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Edersee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-koenigssee": {
@@ -2612,6 +4465,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Königssee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Königssee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Königssee?", a: "Königssee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Königssee?", a: "Der Königssee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Königssee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Königssee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-laacher-see-extra": {
     de: [
@@ -2619,6 +4478,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Laacher See?", a: "Der Laacher See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Laacher See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Laacher See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Laacher See?", a: "Laacher See is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Laacher See?", a: "Der Laacher See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Laacher See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Laacher See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-mueggelsee-extra": {
@@ -2628,6 +4493,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Müggelsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Müggelsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Müggelsee?", a: "Müggelsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Müggelsee?", a: "Der Müggelsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Müggelsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Müggelsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-mueritz": {
     de: [
@@ -2635,6 +4506,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Müritz?", a: "Der Müritz ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Müritz unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Müritz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Müritz?", a: "Müritz is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Müritz?", a: "Der Müritz ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Müritz unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Müritz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-mueritz-extra": {
@@ -2644,6 +4521,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Müritz unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Müritz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Müritz?", a: "Müritz is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Müritz?", a: "Der Müritz ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Müritz unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Müritz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-ploenesee-extra": {
     de: [
@@ -2651,6 +4534,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Plöner See?", a: "Der Plöner See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Plöner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Plöner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Plöner See?", a: "Plöner See is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Plöner See?", a: "Der Plöner See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Plöner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Plöner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-scharmuetzelsee-extra": {
@@ -2660,6 +4549,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Scharmützelsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Scharmützelsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Scharmützelsee?", a: "Scharmützelsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Scharmützelsee?", a: "Der Scharmützelsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Scharmützelsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Scharmützelsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-schweriner-see": {
     de: [
@@ -2667,6 +4562,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Schweriner See?", a: "Der Schweriner See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Schweriner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Schweriner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schweriner See?", a: "Schweriner See is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Schweriner See?", a: "Der Schweriner See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Schweriner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Schweriner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-schweriner-see-extra": {
@@ -2676,6 +4577,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Schweriner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Schweriner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schweriner See?", a: "Schweriner See is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Schweriner See?", a: "Der Schweriner See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Schweriner See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Schweriner See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-schwielowsee-extra": {
     de: [
@@ -2683,6 +4590,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Schwielowsee?", a: "Der Schwielowsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Schwielowsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Schwielowsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schwielowsee?", a: "Schwielowsee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Schwielowsee?", a: "Der Schwielowsee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Schwielowsee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Schwielowsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-starnberger-see": {
@@ -2692,6 +4605,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Starnberger See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Starnberger See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Starnberger See?", a: "Starnberger See is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Starnberger See?", a: "Der Starnberger See ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Starnberger See unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Starnberger See für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-steinhuder-meer-extra": {
     de: [
@@ -2699,6 +4618,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Steinhuder Meer?", a: "Der Steinhuder Meer ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Steinhuder Meer unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Steinhuder Meer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Steinhuder Meer?", a: "Steinhuder Meer is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Steinhuder Meer?", a: "Der Steinhuder Meer ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Steinhuder Meer unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Steinhuder Meer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-talsperre-kriebstein-extra": {
@@ -2708,6 +4633,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Talsperre Kriebstein unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Talsperre Kriebstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Talsperre Kriebstein?", a: "Talsperre Kriebstein is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Talsperre Kriebstein?", a: "Der Talsperre Kriebstein ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Talsperre Kriebstein unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Talsperre Kriebstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "lake-titisee-extra": {
     de: [
@@ -2715,6 +4646,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie groß ist der Titisee?", a: "Der Titisee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
       { q: "Was kann man am Titisee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Titisee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Titisee?", a: "Titisee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Titisee?", a: "Der Titisee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Titisee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Titisee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "lake-walchensee-extra": {
@@ -2724,6 +4661,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was kann man am Walchensee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
       { q: "Ist Walchensee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Walchensee?", a: "Walchensee is a significant geographical or historical feature in Germany." },
+      { q: "Wie groß ist der Walchensee?", a: "Der Walchensee ist ein bekanntes Gewässer in der Region und bietet Raum für Erholung." },
+      { q: "Was kann man am Walchensee unternehmen?", a: "Der See lädt zum Wandern, Schwimmen oder einfach zum Entspannen in der Natur ein." },
+      { q: "Is Walchensee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-allianz-arena": {
     de: [
@@ -2731,6 +4674,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Allianz Arena bekannt?", a: "Allianz Arena ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Allianz Arena besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Allianz Arena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Allianz Arena?", a: "Allianz Arena is a significant geographical or historical feature in Germany." },
+      { q: "Why is Allianz Arena bekannt?", a: "Allianz Arena ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Allianz Arena besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Allianz Arena für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-alster": {
@@ -2740,6 +4689,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Alster Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Alster Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Alster Hamburg?", a: "Alster Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Alster Hamburg bekannt?", a: "Alster Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Alster Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Alster Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-augustusbruecke-extra": {
     de: [
@@ -2747,6 +4702,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Augustusbrücke Dresden bekannt?", a: "Augustusbrücke Dresden ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Augustusbrücke Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Augustusbrücke Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Augustusbrücke Dresden?", a: "Augustusbrücke Dresden is a significant geographical or historical feature in Germany." },
+      { q: "Why is Augustusbrücke Dresden bekannt?", a: "Augustusbrücke Dresden ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Augustusbrücke Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Augustusbrücke Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-autostadt-wolfsburg": {
@@ -2756,6 +4717,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Autostadt Wolfsburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Autostadt Wolfsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Autostadt Wolfsburg?", a: "Autostadt Wolfsburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Autostadt Wolfsburg bekannt?", a: "Autostadt Wolfsburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Autostadt Wolfsburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Autostadt Wolfsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-bauhaus-dessau-extra": {
     de: [
@@ -2763,6 +4730,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bauhaus Dessau bekannt?", a: "Bauhaus Dessau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bauhaus Dessau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bauhaus Dessau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bauhaus Dessau?", a: "Bauhaus Dessau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bauhaus Dessau bekannt?", a: "Bauhaus Dessau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bauhaus Dessau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bauhaus Dessau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-beatles-museum": {
@@ -2772,6 +4745,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Beatles Museum Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Beatles Museum Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Beatles Museum Hamburg?", a: "Beatles Museum Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Beatles Museum Hamburg bekannt?", a: "Beatles Museum Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Beatles Museum Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Beatles Museum Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-blaues-wunder-dresden-extra": {
     de: [
@@ -2780,6 +4759,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Blaues Wunder Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Blaues Wunder Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Blaues Wunder Dresden?", a: "Blaues Wunder Dresden is a significant geographical or historical feature in Germany." },
+      { q: "Why is Blaues Wunder Dresden bekannt?", a: "Blaues Wunder Dresden ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Blaues Wunder Dresden besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Blaues Wunder Dresden für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-bmw-welt": {
     de: [
@@ -2787,6 +4772,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist BMW Welt & Museum bekannt?", a: "BMW Welt & Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht BMW Welt & Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist BMW Welt & Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is BMW Welt & Museum?", a: "BMW Welt & Museum is a significant geographical or historical feature in Germany." },
+      { q: "Why is BMW Welt & Museum bekannt?", a: "BMW Welt & Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes BMW Welt & Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is BMW Welt & Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-brandenburg-gate": {
@@ -2818,6 +4809,13 @@ export const deFaq: CountryFaqMap = {
       { q: "What happened to the Quadriga in 1806?", a: "Napoleon took it to Paris as a spoil of war, and it was returned in 1814." },
       { q: "In which famous square does the gate stand?", a: "In Pariser Platz in the center of Berlin." }
     ]
+    en: [
+      { q: "Wer krönt das Brandenburger Tor?", a: "Die Quadriga, ein Streitwagen, der von der Friedensgöttin Eirene gelenkt wird." },
+      { q: "Wann wurde das Tor erbaut?", a: "Zwischen 1788 und 1791 im frühklassizistischen Stil." },
+      { q: "Wie viele Durchfahrten hat das Tor?", a: "Es besitzt fünf Durchfahrten, von denen die mittlere früher dem König vorbehalten war." },
+      { q: "Was geschah 1806 mit der Quadriga?", a: "Napoleon brachte sie als Kriegsbeute nach Paris, von wo sie 1814 zurückkehrte." },
+      { q: "An welchem berühmten Platz steht das Tor?", a: "Am Pariser Platz im Zentrum Berlins." }
+    ]
   },
   "landmark-brandenburger-dom-extra": {
     de: [
@@ -2825,6 +4823,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Brandenburger Dom bekannt?", a: "Brandenburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Brandenburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Brandenburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Brandenburger Dom?", a: "Brandenburger Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Brandenburger Dom bekannt?", a: "Brandenburger Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Brandenburger Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Brandenburger Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-burg-cochem": {
@@ -2834,6 +4838,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Reichsburg Cochem besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reichsburg Cochem für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Reichsburg Cochem?", a: "Reichsburg Cochem is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reichsburg Cochem bekannt?", a: "Reichsburg Cochem ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reichsburg Cochem besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reichsburg Cochem für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-burg-frankenstein": {
     de: [
@@ -2841,6 +4851,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Burg Frankenstein bekannt?", a: "Burg Frankenstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Burg Frankenstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Frankenstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Burg Frankenstein?", a: "Burg Frankenstein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Frankenstein bekannt?", a: "Burg Frankenstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Frankenstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Frankenstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-burg-katz": {
@@ -2850,6 +4866,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Burg Katz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Katz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Burg Katz?", a: "Burg Katz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Katz bekannt?", a: "Burg Katz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Katz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Katz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-burg-rheinstein": {
     de: [
@@ -2857,6 +4879,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Burg Rheinstein bekannt?", a: "Burg Rheinstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Burg Rheinstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Rheinstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Burg Rheinstein?", a: "Burg Rheinstein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Rheinstein bekannt?", a: "Burg Rheinstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Rheinstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Rheinstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-burg-trausnitz": {
@@ -2866,6 +4894,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Burg Trausnitz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Trausnitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Burg Trausnitz?", a: "Burg Trausnitz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Trausnitz bekannt?", a: "Burg Trausnitz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Trausnitz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Trausnitz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-charlottenburg-palace-extra": {
     de: [
@@ -2873,6 +4907,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Charlottenburg bekannt?", a: "Schloss Charlottenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Charlottenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Charlottenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Charlottenburg?", a: "Schloss Charlottenburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Charlottenburg bekannt?", a: "Schloss Charlottenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Charlottenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Charlottenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-cochem-burg-extra": {
@@ -2882,6 +4922,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Burg Cochem besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Cochem für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Burg Cochem?", a: "Burg Cochem is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Cochem bekannt?", a: "Burg Cochem ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Cochem besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Cochem für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-cologne-cathedral": {
     de: [
@@ -2889,6 +4935,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Kölner Dom bekannt?", a: "Kölner Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Kölner Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kölner Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Kölner Dom?", a: "Kölner Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kölner Dom bekannt?", a: "Kölner Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kölner Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kölner Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-cologne-cathedral-dom-extra": {
@@ -2898,6 +4950,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Externsteine besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Externsteine für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Externsteine?", a: "Externsteine is a significant geographical or historical feature in Germany." },
+      { q: "Why is Externsteine bekannt?", a: "Externsteine ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Externsteine besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Externsteine für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-deutsches-eck-extra": {
     de: [
@@ -2905,6 +4963,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Deutsches Eck bekannt?", a: "Deutsches Eck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Deutsches Eck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Deutsches Eck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Deutsches Eck?", a: "Deutsches Eck is a significant geographical or historical feature in Germany." },
+      { q: "Why is Deutsches Eck bekannt?", a: "Deutsches Eck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Deutsches Eck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Deutsches Eck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-dom-bremen-extra": {
@@ -2914,6 +4978,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Dom?", a: "Bremer Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Dom bekannt?", a: "Bremer Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-donaudurchbruch": {
     de: [
@@ -2921,6 +4991,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Donaudurchbruch bekannt?", a: "Donaudurchbruch ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Donaudurchbruch besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Donaudurchbruch für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Donaudurchbruch?", a: "Donaudurchbruch is a significant geographical or historical feature in Germany." },
+      { q: "Why is Donaudurchbruch bekannt?", a: "Donaudurchbruch ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Donaudurchbruch besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Donaudurchbruch für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-donauversickerung": {
@@ -2930,6 +5006,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Donauversickerung besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Donauversickerung für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Donauversickerung?", a: "Donauversickerung is a significant geographical or historical feature in Germany." },
+      { q: "Why is Donauversickerung bekannt?", a: "Donauversickerung ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Donauversickerung besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Donauversickerung für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-east-side-gallery": {
     de: [
@@ -2937,6 +5019,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist East Side Gallery Berlin bekannt?", a: "East Side Gallery Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht East Side Gallery Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist East Side Gallery Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is East Side Gallery Berlin?", a: "East Side Gallery Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is East Side Gallery Berlin bekannt?", a: "East Side Gallery Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes East Side Gallery Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is East Side Gallery Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-elbphilharmonie": {
@@ -2946,6 +5034,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Elbphilharmonie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Elbphilharmonie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Elbphilharmonie?", a: "Elbphilharmonie is a significant geographical or historical feature in Germany." },
+      { q: "Why is Elbphilharmonie bekannt?", a: "Elbphilharmonie ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Elbphilharmonie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Elbphilharmonie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-elbphilharmonie-hh-extra": {
     de: [
@@ -2953,6 +5047,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Elbphilharmonie bekannt?", a: "Elbphilharmonie ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Elbphilharmonie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Elbphilharmonie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Elbphilharmonie?", a: "Elbphilharmonie is a significant geographical or historical feature in Germany." },
+      { q: "Why is Elbphilharmonie bekannt?", a: "Elbphilharmonie ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Elbphilharmonie besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Elbphilharmonie für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-externsteine": {
@@ -2962,6 +5062,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Externsteine besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Externsteine für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Externsteine?", a: "Externsteine is a significant geographical or historical feature in Germany." },
+      { q: "Why is Externsteine bekannt?", a: "Externsteine ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Externsteine besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Externsteine für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-fernsehturm": {
     de: [
@@ -2969,6 +5075,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Berliner Fernsehturm bekannt?", a: "Berliner Fernsehturm ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Berliner Fernsehturm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Berliner Fernsehturm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Berliner Fernsehturm?", a: "Berliner Fernsehturm is a significant geographical or historical feature in Germany." },
+      { q: "Why is Berliner Fernsehturm bekannt?", a: "Berliner Fernsehturm ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Berliner Fernsehturm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Berliner Fernsehturm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-festung-marienberg": {
@@ -2978,6 +5090,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Festung Marienberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Festung Marienberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Festung Marienberg?", a: "Festung Marienberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Festung Marienberg bekannt?", a: "Festung Marienberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Festung Marienberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Festung Marienberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-filmpark-babelsberg": {
     de: [
@@ -2985,6 +5103,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Filmpark Babelsberg bekannt?", a: "Filmpark Babelsberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Filmpark Babelsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Filmpark Babelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Filmpark Babelsberg?", a: "Filmpark Babelsberg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Filmpark Babelsberg bekannt?", a: "Filmpark Babelsberg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Filmpark Babelsberg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Filmpark Babelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-fischmarkt-hamburg": {
@@ -2994,6 +5118,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hamburger Fischmarkt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hamburger Fischmarkt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hamburger Fischmarkt?", a: "Hamburger Fischmarkt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hamburger Fischmarkt bekannt?", a: "Hamburger Fischmarkt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hamburger Fischmarkt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hamburger Fischmarkt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-flensburger-foerde": {
     de: [
@@ -3001,6 +5131,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Flensburger Förde bekannt?", a: "Flensburger Förde ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Flensburger Förde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Flensburger Förde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Flensburger Förde?", a: "Flensburger Förde is a significant geographical or historical feature in Germany." },
+      { q: "Why is Flensburger Förde bekannt?", a: "Flensburger Förde ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Flensburger Förde besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Flensburger Förde für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-frauenkirche-dresden": {
@@ -3010,6 +5146,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Dresdner Frauenkirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Dresdner Frauenkirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Dresdner Frauenkirche?", a: "Dresdner Frauenkirche is a significant geographical or historical feature in Germany." },
+      { q: "Why is Dresdner Frauenkirche bekannt?", a: "Dresdner Frauenkirche ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Dresdner Frauenkirche besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Dresdner Frauenkirche für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-frauenkirche-muenchen": {
     de: [
@@ -3017,6 +5159,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Frauenkirche München bekannt?", a: "Frauenkirche München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Frauenkirche München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Frauenkirche München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Frauenkirche München?", a: "Frauenkirche München is a significant geographical or historical feature in Germany." },
+      { q: "Why is Frauenkirche München bekannt?", a: "Frauenkirche München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Frauenkirche München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Frauenkirche München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-gasometer-oberhausen": {
@@ -3026,6 +5174,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Gasometer Oberhausen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Gasometer Oberhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Gasometer Oberhausen?", a: "Gasometer Oberhausen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Gasometer Oberhausen bekannt?", a: "Gasometer Oberhausen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Gasometer Oberhausen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Gasometer Oberhausen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-goethehaus-frankfurt": {
     de: [
@@ -3033,6 +5187,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Goethe-Haus Frankfurt bekannt?", a: "Goethe-Haus Frankfurt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Goethe-Haus Frankfurt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Goethe-Haus Frankfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Goethe-Haus Frankfurt?", a: "Goethe-Haus Frankfurt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Goethe-Haus Frankfurt bekannt?", a: "Goethe-Haus Frankfurt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Goethe-Haus Frankfurt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Goethe-Haus Frankfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-hamburg-landungsbruecken": {
@@ -3042,6 +5202,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht St. Pauli Landungsbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist St. Pauli Landungsbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is St. Pauli Landungsbrücken?", a: "St. Pauli Landungsbrücken is a significant geographical or historical feature in Germany." },
+      { q: "Why is St. Pauli Landungsbrücken bekannt?", a: "St. Pauli Landungsbrücken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes St. Pauli Landungsbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is St. Pauli Landungsbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-heidelberg-castle": {
     de: [
@@ -3049,6 +5215,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Heidelberger Schloss bekannt?", a: "Heidelberger Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Heidelberger Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Heidelberger Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Heidelberger Schloss?", a: "Heidelberger Schloss is a significant geographical or historical feature in Germany." },
+      { q: "Why is Heidelberger Schloss bekannt?", a: "Heidelberger Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Heidelberger Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Heidelberger Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-hohenzollern-castle-extra": {
@@ -3058,6 +5230,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Burg Hohenzollern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Hohenzollern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Burg Hohenzollern?", a: "Burg Hohenzollern is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Hohenzollern bekannt?", a: "Burg Hohenzollern ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Hohenzollern besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Hohenzollern für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-holstentor-extra": {
     de: [
@@ -3065,6 +5243,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Holstentor Lübeck bekannt?", a: "Holstentor Lübeck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Holstentor Lübeck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Holstentor Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Holstentor Lübeck?", a: "Holstentor Lübeck is a significant geographical or historical feature in Germany." },
+      { q: "Why is Holstentor Lübeck bekannt?", a: "Holstentor Lübeck ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Holstentor Lübeck besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Holstentor Lübeck für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-koenigsstuhl-ruegen": {
@@ -3074,6 +5258,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Königsstuhl (Rügen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Königsstuhl (Rügen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Königsstuhl (Rügen)?", a: "Königsstuhl (Rügen) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Königsstuhl (Rügen) bekannt?", a: "Königsstuhl (Rügen) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Königsstuhl (Rügen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Königsstuhl (Rügen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-kraemerbrue-erfurt-extra": {
     de: [
@@ -3081,6 +5271,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Krämerbrücke Erfurt bekannt?", a: "Krämerbrücke Erfurt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Krämerbrücke Erfurt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Krämerbrücke Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Krämerbrücke Erfurt?", a: "Krämerbrücke Erfurt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Krämerbrücke Erfurt bekannt?", a: "Krämerbrücke Erfurt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Krämerbrücke Erfurt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Krämerbrücke Erfurt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-kurfuerstendamm-extra": {
@@ -3090,6 +5286,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kurfürstendamm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kurfürstendamm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kurfürstendamm?", a: "Kurfürstendamm is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kurfürstendamm bekannt?", a: "Kurfürstendamm ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kurfürstendamm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kurfürstendamm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-lechfall": {
     de: [
@@ -3097,6 +5299,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Lechfall Füssen bekannt?", a: "Lechfall Füssen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Lechfall Füssen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lechfall Füssen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lechfall Füssen?", a: "Lechfall Füssen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lechfall Füssen bekannt?", a: "Lechfall Füssen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lechfall Füssen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lechfall Füssen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-loreley-rhein-he-extra": {
@@ -3106,6 +5314,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Rheingau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rheingau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Rheingau?", a: "Rheingau is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rheingau bekannt?", a: "Rheingau ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rheingau besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rheingau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-loreley-rp-extra": {
     de: [
@@ -3113,6 +5327,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Loreley bekannt?", a: "Loreley ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Loreley besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Loreley für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Loreley?", a: "Loreley is a significant geographical or historical feature in Germany." },
+      { q: "Why is Loreley bekannt?", a: "Loreley ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Loreley besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Loreley für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-mathildenhoehe-extra": {
@@ -3122,6 +5342,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Mathildenhöhe Darmstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Mathildenhöhe Darmstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Mathildenhöhe Darmstadt?", a: "Mathildenhöhe Darmstadt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Mathildenhöhe Darmstadt bekannt?", a: "Mathildenhöhe Darmstadt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Mathildenhöhe Darmstadt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Mathildenhöhe Darmstadt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-mercedes-benz-museum": {
     de: [
@@ -3129,6 +5355,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Mercedes-Benz Museum bekannt?", a: "Mercedes-Benz Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Mercedes-Benz Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Mercedes-Benz Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Mercedes-Benz Museum?", a: "Mercedes-Benz Museum is a significant geographical or historical feature in Germany." },
+      { q: "Why is Mercedes-Benz Museum bekannt?", a: "Mercedes-Benz Museum ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Mercedes-Benz Museum besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Mercedes-Benz Museum für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-michaelis-hh-extra": {
@@ -3138,6 +5370,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hauptkirche St. Michaelis besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hauptkirche St. Michaelis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hauptkirche St. Michaelis?", a: "Hauptkirche St. Michaelis is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hauptkirche St. Michaelis bekannt?", a: "Hauptkirche St. Michaelis ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hauptkirche St. Michaelis besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hauptkirche St. Michaelis für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-miniaturwunderland-hh-extra": {
     de: [
@@ -3145,6 +5383,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Miniatur Wunderland bekannt?", a: "Miniatur Wunderland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Miniatur Wunderland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Miniatur Wunderland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Miniatur Wunderland?", a: "Miniatur Wunderland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Miniatur Wunderland bekannt?", a: "Miniatur Wunderland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Miniatur Wunderland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Miniatur Wunderland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-museumsinsel-berlin": {
@@ -3154,6 +5398,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Museumsinsel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Museumsinsel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Museumsinsel?", a: "Museumsinsel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Museumsinsel bekannt?", a: "Museumsinsel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Museumsinsel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Museumsinsel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-museumsinsel-extra": {
     de: [
@@ -3162,6 +5412,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Museumsinsel Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Museumsinsel Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Museumsinsel Berlin?", a: "Museumsinsel Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Museumsinsel Berlin bekannt?", a: "Museumsinsel Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Museumsinsel Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Museumsinsel Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-nebra-himmelsscheibe-extra": {
     de: [
@@ -3169,6 +5425,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Himmelsscheibe von Nebra bekannt?", a: "Himmelsscheibe von Nebra ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Himmelsscheibe von Nebra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Himmelsscheibe von Nebra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Himmelsscheibe von Nebra?", a: "Himmelsscheibe von Nebra is a significant geographical or historical feature in Germany." },
+      { q: "Why is Himmelsscheibe von Nebra bekannt?", a: "Himmelsscheibe von Nebra ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Himmelsscheibe von Nebra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Himmelsscheibe von Nebra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-neuschwanstein": {
@@ -3200,6 +5462,13 @@ export const deFaq: CountryFaqMap = {
       { q: "Which famous Disney castle was inspired by it?", a: "Sleeping Beauty Castle in Disneyland." },
       { q: "In what architectural style was Neuschwanstein built?", a: "In historicist Neo-Romanesque style as an idealized medieval knight's castle." }
     ]
+    en: [
+      { q: "Wer ließ Schloss Neuschwanstein erbauen?", a: "König Ludwig II. von Bayern ab 1869." },
+      { q: "Wie viele Menschen besuchen das Schloss jährlich?", a: "Fast 1,5 Millionen Touristen kommen jedes Jahr." },
+      { q: "Wurde das Schloss jemals vollständig fertiggestellt?", a: "Nein, beim Tod des Königs 1886 war es unvollendet und ist es bis heute." },
+      { q: "Welches berühmte Disney-Schloss wurde hiervon inspiriert?", a: "Das Dornröschenschloss im Disneyland." },
+      { q: "In welchem Baustil wurde Neuschwanstein errichtet?", a: "Im Stil der historistischen Neoromanik als idealisierte mittelalterliche Ritterburg." }
+    ]
   },
   "landmark-nordertor-flensburg-extra": {
     de: [
@@ -3207,6 +5476,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Nordertor Flensburg bekannt?", a: "Nordertor Flensburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Nordertor Flensburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nordertor Flensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nordertor Flensburg?", a: "Nordertor Flensburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nordertor Flensburg bekannt?", a: "Nordertor Flensburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nordertor Flensburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nordertor Flensburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-nuerburgring": {
@@ -3216,6 +5491,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nürburgring besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nürburgring für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nürburgring?", a: "Nürburgring is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nürburgring bekannt?", a: "Nürburgring ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nürburgring besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nürburgring für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-nymphenburg-extra": {
     de: [
@@ -3223,6 +5504,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Nymphenburg bekannt?", a: "Schloss Nymphenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Nymphenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Nymphenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Nymphenburg?", a: "Schloss Nymphenburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Nymphenburg bekannt?", a: "Schloss Nymphenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Nymphenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Nymphenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-olympiapark-muenchen": {
@@ -3232,6 +5519,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Olympiapark München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Olympiapark München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Olympiapark München?", a: "Olympiapark München is a significant geographical or historical feature in Germany." },
+      { q: "Why is Olympiapark München bekannt?", a: "Olympiapark München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Olympiapark München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Olympiapark München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-olympiastadion-berlin-extra": {
     de: [
@@ -3239,6 +5532,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Olympiastadion Berlin bekannt?", a: "Olympiastadion Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Olympiastadion Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Olympiastadion Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Olympiastadion Berlin?", a: "Olympiastadion Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Olympiastadion Berlin bekannt?", a: "Olympiastadion Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Olympiastadion Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Olympiastadion Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-partnachklamm": {
@@ -3248,6 +5547,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Partnachklamm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Partnachklamm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Partnachklamm?", a: "Partnachklamm is a significant geographical or historical feature in Germany." },
+      { q: "Why is Partnachklamm bekannt?", a: "Partnachklamm ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Partnachklamm besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Partnachklamm für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-pergamonmuseum": {
     de: [
@@ -3255,6 +5560,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Pergamonmuseum Berlin bekannt?", a: "Pergamonmuseum Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Pergamonmuseum Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Pergamonmuseum Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Pergamonmuseum Berlin?", a: "Pergamonmuseum Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Pergamonmuseum Berlin bekannt?", a: "Pergamonmuseum Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Pergamonmuseum Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Pergamonmuseum Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-porta-nigra": {
@@ -3264,6 +5575,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Porta Nigra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Porta Nigra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Porta Nigra?", a: "Porta Nigra is a significant geographical or historical feature in Germany." },
+      { q: "Why is Porta Nigra bekannt?", a: "Porta Nigra ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Porta Nigra besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Porta Nigra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-quedlinburg-st-extra": {
     de: [
@@ -3271,6 +5588,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Quedlinburg bekannt?", a: "Quedlinburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Quedlinburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Quedlinburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Quedlinburg?", a: "Quedlinburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Quedlinburg bekannt?", a: "Quedlinburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Quedlinburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Quedlinburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-rathaus-bremen-extra": {
@@ -3280,6 +5603,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Rathaus?", a: "Bremer Rathaus is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Rathaus bekannt?", a: "Bremer Rathaus ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Rathaus besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Rathaus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-reeperbahn": {
     de: [
@@ -3287,6 +5616,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Reeperbahn St. Pauli bekannt?", a: "Reeperbahn St. Pauli ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Reeperbahn St. Pauli besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reeperbahn St. Pauli für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Reeperbahn St. Pauli?", a: "Reeperbahn St. Pauli is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reeperbahn St. Pauli bekannt?", a: "Reeperbahn St. Pauli ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reeperbahn St. Pauli besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reeperbahn St. Pauli für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-reeperbahn-hh-extra": {
@@ -3296,6 +5631,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Reeperbahn (St. Pauli) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reeperbahn (St. Pauli) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Reeperbahn (St. Pauli)?", a: "Reeperbahn (St. Pauli) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reeperbahn (St. Pauli) bekannt?", a: "Reeperbahn (St. Pauli) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reeperbahn (St. Pauli) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reeperbahn (St. Pauli) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-reichstag": {
     de: [
@@ -3303,6 +5644,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Reichstagsgebäude bekannt?", a: "Reichstagsgebäude ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Reichstagsgebäude besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Reichstagsgebäude für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Reichstagsgebäude?", a: "Reichstagsgebäude is a significant geographical or historical feature in Germany." },
+      { q: "Why is Reichstagsgebäude bekannt?", a: "Reichstagsgebäude ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Reichstagsgebäude besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Reichstagsgebäude für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-residenz-wuerzburg-extra": {
@@ -3312,6 +5659,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Würzburger Residenz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Würzburger Residenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Würzburger Residenz?", a: "Würzburger Residenz is a significant geographical or historical feature in Germany." },
+      { q: "Why is Würzburger Residenz bekannt?", a: "Würzburger Residenz ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Würzburger Residenz besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Würzburger Residenz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-rheinstein-extra": {
     de: [
@@ -3319,6 +5672,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Burg Rheinstein bekannt?", a: "Burg Rheinstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Burg Rheinstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Burg Rheinstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Burg Rheinstein?", a: "Burg Rheinstein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Burg Rheinstein bekannt?", a: "Burg Rheinstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Burg Rheinstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Burg Rheinstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-roland-bremen-extra": {
@@ -3328,6 +5687,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Roland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Roland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Roland?", a: "Bremer Roland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Roland bekannt?", a: "Bremer Roland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Roland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Roland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-saalfelder-feengrotten": {
     de: [
@@ -3335,6 +5700,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Saalfelder Feengrotten bekannt?", a: "Saalfelder Feengrotten ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Saalfelder Feengrotten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Saalfelder Feengrotten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saalfelder Feengrotten?", a: "Saalfelder Feengrotten is a significant geographical or historical feature in Germany." },
+      { q: "Why is Saalfelder Feengrotten bekannt?", a: "Saalfelder Feengrotten ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Saalfelder Feengrotten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Saalfelder Feengrotten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-saarschleife": {
@@ -3344,6 +5715,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Saarschleife besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Saarschleife für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Saarschleife?", a: "Saarschleife is a significant geographical or historical feature in Germany." },
+      { q: "Why is Saarschleife bekannt?", a: "Saarschleife ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Saarschleife besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Saarschleife für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-saarschleife-sl-extra": {
     de: [
@@ -3351,6 +5728,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Saarschleife bekannt?", a: "Saarschleife ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Saarschleife besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Saarschleife für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saarschleife?", a: "Saarschleife is a significant geographical or historical feature in Germany." },
+      { q: "Why is Saarschleife bekannt?", a: "Saarschleife ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Saarschleife besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Saarschleife für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-sanssouci": {
@@ -3360,6 +5743,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Sanssouci besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Sanssouci für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Sanssouci?", a: "Schloss Sanssouci is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Sanssouci bekannt?", a: "Schloss Sanssouci ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Sanssouci besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Sanssouci für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-schloss-augustusburg-extra": {
     de: [
@@ -3367,6 +5756,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Augustusburg bekannt?", a: "Schloss Augustusburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Augustusburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Augustusburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Augustusburg?", a: "Schloss Augustusburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Augustusburg bekannt?", a: "Schloss Augustusburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Augustusburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Augustusburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-schloss-drachenburg": {
@@ -3376,6 +5771,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Drachenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Drachenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Drachenburg?", a: "Schloss Drachenburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Drachenburg bekannt?", a: "Schloss Drachenburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Drachenburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Drachenburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-schloss-lichtenstein": {
     de: [
@@ -3383,6 +5784,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Lichtenstein bekannt?", a: "Schloss Lichtenstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Lichtenstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Lichtenstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Lichtenstein?", a: "Schloss Lichtenstein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Lichtenstein bekannt?", a: "Schloss Lichtenstein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Lichtenstein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Lichtenstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-schloss-ludwigsburg": {
@@ -3392,6 +5799,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Residenzschloss Ludwigsburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Residenzschloss Ludwigsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Residenzschloss Ludwigsburg?", a: "Residenzschloss Ludwigsburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Residenzschloss Ludwigsburg bekannt?", a: "Residenzschloss Ludwigsburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Residenzschloss Ludwigsburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Residenzschloss Ludwigsburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-schloss-nordkirchen": {
     de: [
@@ -3399,6 +5812,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schloss Nordkirchen bekannt?", a: "Schloss Nordkirchen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schloss Nordkirchen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Nordkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schloss Nordkirchen?", a: "Schloss Nordkirchen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Nordkirchen bekannt?", a: "Schloss Nordkirchen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Nordkirchen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Nordkirchen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-schloss-pfaueninsel": {
@@ -3408,6 +5827,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schloss Pfaueninsel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schloss Pfaueninsel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schloss Pfaueninsel?", a: "Schloss Pfaueninsel is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schloss Pfaueninsel bekannt?", a: "Schloss Pfaueninsel ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schloss Pfaueninsel besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schloss Pfaueninsel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-schokoladenmuseum-koeln": {
     de: [
@@ -3415,6 +5840,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schokoladenmuseum Köln bekannt?", a: "Schokoladenmuseum Köln ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schokoladenmuseum Köln besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schokoladenmuseum Köln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schokoladenmuseum Köln?", a: "Schokoladenmuseum Köln is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schokoladenmuseum Köln bekannt?", a: "Schokoladenmuseum Köln ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schokoladenmuseum Köln besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schokoladenmuseum Köln für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-schwerin-castle": {
@@ -3424,6 +5855,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schweriner Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schweriner Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schweriner Schloss?", a: "Schweriner Schloss is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schweriner Schloss bekannt?", a: "Schweriner Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schweriner Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schweriner Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-schwerin-schloss-extra": {
     de: [
@@ -3431,6 +5868,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Schweriner Schloss bekannt?", a: "Schweriner Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Schweriner Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schweriner Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schweriner Schloss?", a: "Schweriner Schloss is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schweriner Schloss bekannt?", a: "Schweriner Schloss ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schweriner Schloss besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schweriner Schloss für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-speyer-cathedral": {
@@ -3440,6 +5883,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Speyerer Dom?", a: "Speyerer Dom is a significant geographical or historical feature in Germany." },
+      { q: "Why is Speyerer Dom bekannt?", a: "Speyerer Dom ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Speyerer Dom besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Speyerer Dom für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-spreewald-kahnfahrt-extra": {
     de: [
@@ -3447,6 +5896,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Spreewald Kahnfahrt bekannt?", a: "Spreewald Kahnfahrt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Spreewald Kahnfahrt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Spreewald Kahnfahrt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Spreewald Kahnfahrt?", a: "Spreewald Kahnfahrt is a significant geographical or historical feature in Germany." },
+      { q: "Why is Spreewald Kahnfahrt bekannt?", a: "Spreewald Kahnfahrt ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Spreewald Kahnfahrt besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Spreewald Kahnfahrt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-stadtmusikanten": {
@@ -3456,6 +5911,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bremer Stadtmusikanten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Stadtmusikanten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bremer Stadtmusikanten?", a: "Bremer Stadtmusikanten is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Stadtmusikanten bekannt?", a: "Bremer Stadtmusikanten ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Stadtmusikanten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Stadtmusikanten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-stadtmusikanten-extra": {
     de: [
@@ -3463,6 +5924,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bremer Stadtmusikanten bekannt?", a: "Bremer Stadtmusikanten ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bremer Stadtmusikanten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremer Stadtmusikanten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bremer Stadtmusikanten?", a: "Bremer Stadtmusikanten is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremer Stadtmusikanten bekannt?", a: "Bremer Stadtmusikanten ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremer Stadtmusikanten besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremer Stadtmusikanten für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-teufelsmauer": {
@@ -3472,6 +5939,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Teufelsmauer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Teufelsmauer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Teufelsmauer?", a: "Teufelsmauer is a significant geographical or historical feature in Germany." },
+      { q: "Why is Teufelsmauer bekannt?", a: "Teufelsmauer ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Teufelsmauer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Teufelsmauer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-triberger-wasserfaelle": {
     de: [
@@ -3479,6 +5952,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Triberger Wasserfälle bekannt?", a: "Triberger Wasserfälle ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Triberger Wasserfälle besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Triberger Wasserfälle für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Triberger Wasserfälle?", a: "Triberger Wasserfälle is a significant geographical or historical feature in Germany." },
+      { q: "Why is Triberger Wasserfälle bekannt?", a: "Triberger Wasserfälle ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Triberger Wasserfälle besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Triberger Wasserfälle für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-universum-bremen": {
@@ -3488,6 +5967,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Universum Science Center Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Universum Science Center Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Universum Science Center Bremen?", a: "Universum Science Center Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Universum Science Center Bremen bekannt?", a: "Universum Science Center Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Universum Science Center Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Universum Science Center Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-universum-bremen-extra": {
     de: [
@@ -3495,6 +5980,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Universum® Bremen bekannt?", a: "Universum® Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Universum® Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Universum® Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Universum® Bremen?", a: "Universum® Bremen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Universum® Bremen bekannt?", a: "Universum® Bremen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Universum® Bremen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Universum® Bremen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-voelkerschlachtdenkmal-extra": {
@@ -3504,6 +5995,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Völkerschlachtdenkmal Leipzig besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Völkerschlachtdenkmal Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Völkerschlachtdenkmal Leipzig?", a: "Völkerschlachtdenkmal Leipzig is a significant geographical or historical feature in Germany." },
+      { q: "Why is Völkerschlachtdenkmal Leipzig bekannt?", a: "Völkerschlachtdenkmal Leipzig ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Völkerschlachtdenkmal Leipzig besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Völkerschlachtdenkmal Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-voelklinger-huette": {
     de: [
@@ -3511,6 +6008,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Völklinger Hütte bekannt?", a: "Völklinger Hütte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Völklinger Hütte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Völklinger Hütte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Völklinger Hütte?", a: "Völklinger Hütte is a significant geographical or historical feature in Germany." },
+      { q: "Why is Völklinger Hütte bekannt?", a: "Völklinger Hütte ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Völklinger Hütte besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Völklinger Hütte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-wartburg": {
@@ -3520,6 +6023,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wartburg?", a: "Wartburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wartburg bekannt?", a: "Wartburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wartburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wartburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-wilhelmshaven-extra": {
     de: [
@@ -3527,6 +6036,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wilhelmshaven bekannt?", a: "Wilhelmshaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wilhelmshaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wilhelmshaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wilhelmshaven?", a: "Wilhelmshaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wilhelmshaven bekannt?", a: "Wilhelmshaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wilhelmshaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wilhelmshaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "landmark-zeche-zollverein": {
@@ -3536,6 +6051,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Zeche Zollverein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Zeche Zollverein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Zeche Zollverein?", a: "Zeche Zollverein is a significant geographical or historical feature in Germany." },
+      { q: "Why is Zeche Zollverein bekannt?", a: "Zeche Zollverein ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Zeche Zollverein besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Zeche Zollverein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "landmark-zwinger": {
     de: [
@@ -3543,6 +6064,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Zwinger bekannt?", a: "Zwinger ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Zwinger besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Zwinger für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Zwinger?", a: "Zwinger is a significant geographical or historical feature in Germany." },
+      { q: "Why is Zwinger bekannt?", a: "Zwinger ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Zwinger besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Zwinger für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-bastei-saechsische-schweiz": {
@@ -3552,6 +6079,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Bastei & Sächsische Schweiz wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Bastei & Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bastei & Sächsische Schweiz?", a: "Bastei & Sächsische Schweiz is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Bastei & Sächsische Schweiz?", a: "Der Bastei & Sächsische Schweiz ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Bastei & Sächsische Schweiz wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Bastei & Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-brocken": {
     de: [
@@ -3559,6 +6092,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Brocken?", a: "Der Brocken ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Brocken wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Brocken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Brocken?", a: "Brocken is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Brocken?", a: "Der Brocken ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Brocken wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Brocken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-brocken-ni-extra": {
@@ -3568,6 +6107,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Harz (Niedersachsen) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Harz (Niedersachsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Harz (Niedersachsen)?", a: "Harz (Niedersachsen) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Harz (Niedersachsen)?", a: "Der Harz (Niedersachsen) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Harz (Niedersachsen) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Harz (Niedersachsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-brocken-st-extra": {
     de: [
@@ -3575,6 +6120,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Brocken (Sachsen-Anhalt)?", a: "Der Brocken (Sachsen-Anhalt) ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Brocken (Sachsen-Anhalt) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Brocken (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Brocken (Sachsen-Anhalt)?", a: "Brocken (Sachsen-Anhalt) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Brocken (Sachsen-Anhalt)?", a: "Der Brocken (Sachsen-Anhalt) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Brocken (Sachsen-Anhalt) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Brocken (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-eifel-rp-extra": {
@@ -3584,6 +6135,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Eifel (Rheinland-Pfalz) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Eifel (Rheinland-Pfalz) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Eifel (Rheinland-Pfalz)?", a: "Eifel (Rheinland-Pfalz) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Eifel (Rheinland-Pfalz)?", a: "Der Eifel (Rheinland-Pfalz) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Eifel (Rheinland-Pfalz) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Eifel (Rheinland-Pfalz) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-erzgebirge-extra": {
     de: [
@@ -3591,6 +6148,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Erzgebirge?", a: "Der Erzgebirge ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Erzgebirge wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Erzgebirge für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Erzgebirge?", a: "Erzgebirge is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Erzgebirge?", a: "Der Erzgebirge ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Erzgebirge wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Erzgebirge für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-feldberg": {
@@ -3600,6 +6163,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Feldberg (Schwarzwald) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Feldberg (Schwarzwald) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Feldberg (Schwarzwald)?", a: "Feldberg (Schwarzwald) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Feldberg (Schwarzwald)?", a: "Der Feldberg (Schwarzwald) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Feldberg (Schwarzwald) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Feldberg (Schwarzwald) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-feldberg-bw-extra": {
     de: [
@@ -3607,6 +6176,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Feldberg (Schwarzwald)?", a: "Der Feldberg (Schwarzwald) ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Feldberg (Schwarzwald) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Feldberg (Schwarzwald) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Feldberg (Schwarzwald)?", a: "Feldberg (Schwarzwald) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Feldberg (Schwarzwald)?", a: "Der Feldberg (Schwarzwald) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Feldberg (Schwarzwald) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Feldberg (Schwarzwald) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-fichtelberg": {
@@ -3616,6 +6191,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Fichtelberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Fichtelberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Fichtelberg?", a: "Fichtelberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Fichtelberg?", a: "Der Fichtelberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Fichtelberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Fichtelberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-grosser-arber": {
     de: [
@@ -3623,6 +6204,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Großer Arber?", a: "Der Großer Arber ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Großer Arber wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Großer Arber für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Großer Arber?", a: "Großer Arber is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Großer Arber?", a: "Der Großer Arber ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Großer Arber wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Großer Arber für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-grosser-feldberg": {
@@ -3632,6 +6219,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Großer Feldberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Großer Feldberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Großer Feldberg?", a: "Großer Feldberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Großer Feldberg?", a: "Der Großer Feldberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Großer Feldberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Großer Feldberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-pfaelzerwald-extra": {
     de: [
@@ -3639,6 +6232,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Pfälzerwald?", a: "Der Pfälzerwald ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Pfälzerwald wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Pfälzerwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Pfälzerwald?", a: "Pfälzerwald is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Pfälzerwald?", a: "Der Pfälzerwald ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Pfälzerwald wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Pfälzerwald für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-rhoen-hessen-extra": {
@@ -3648,6 +6247,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Rhön (Hessen) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Rhön (Hessen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Rhön (Hessen)?", a: "Rhön (Hessen) is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Rhön (Hessen)?", a: "Der Rhön (Hessen) ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Rhön (Hessen) wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Rhön (Hessen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-saechsische-schweiz-extra": {
     de: [
@@ -3655,6 +6260,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Sächsische Schweiz?", a: "Der Sächsische Schweiz ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Sächsische Schweiz wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Sächsische Schweiz?", a: "Sächsische Schweiz is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Sächsische Schweiz?", a: "Der Sächsische Schweiz ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Sächsische Schweiz wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Sächsische Schweiz für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-taunus-extra": {
@@ -3664,6 +6275,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Taunus wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Taunus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Taunus?", a: "Taunus is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Taunus?", a: "Der Taunus ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Taunus wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Taunus für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-vogelsberg-extra": {
     de: [
@@ -3671,6 +6288,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Vogelsberg?", a: "Der Vogelsberg ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Vogelsberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Vogelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Vogelsberg?", a: "Vogelsberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Vogelsberg?", a: "Der Vogelsberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Vogelsberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Vogelsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-wasserkuppe": {
@@ -3680,6 +6303,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Wasserkuppe wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Wasserkuppe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wasserkuppe?", a: "Wasserkuppe is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Wasserkuppe?", a: "Der Wasserkuppe ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Wasserkuppe wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Wasserkuppe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-watzmann": {
     de: [
@@ -3687,6 +6316,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Watzmann?", a: "Der Watzmann ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Watzmann wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Watzmann für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Watzmann?", a: "Watzmann is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Watzmann?", a: "Der Watzmann ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Watzmann wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Watzmann für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mnt-wendelstein-extra": {
@@ -3696,6 +6331,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Wendelstein wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Wendelstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wendelstein?", a: "Wendelstein is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Wendelstein?", a: "Der Wendelstein ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Wendelstein wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Wendelstein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mnt-zugspitze": {
     de: [
@@ -3703,6 +6344,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Zugspitze?", a: "Der Zugspitze ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Zugspitze wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Zugspitze für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Zugspitze?", a: "Zugspitze is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Zugspitze?", a: "Der Zugspitze ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Zugspitze wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Zugspitze für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mountain-grosser-beerberg-extra": {
@@ -3712,6 +6359,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Großer Beerberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Großer Beerberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Großer Beerberg?", a: "Großer Beerberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Großer Beerberg?", a: "Der Großer Beerberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Großer Beerberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Großer Beerberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mountain-hohe-warte-sl-extra": {
     de: [
@@ -3719,6 +6372,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Hohe Warte?", a: "Der Hohe Warte ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Hohe Warte wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Hohe Warte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hohe Warte?", a: "Hohe Warte is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Hohe Warte?", a: "Der Hohe Warte ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Hohe Warte wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Hohe Warte für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mountain-inselsberg-extra": {
@@ -3728,6 +6387,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Großer Inselsberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Großer Inselsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Großer Inselsberg?", a: "Großer Inselsberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Großer Inselsberg?", a: "Der Großer Inselsberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Großer Inselsberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Großer Inselsberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mountain-schaumberg-sl-extra": {
     de: [
@@ -3735,6 +6400,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Schaumberg?", a: "Der Schaumberg ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Schaumberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Schaumberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Schaumberg?", a: "Schaumberg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Schaumberg?", a: "Der Schaumberg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Schaumberg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Schaumberg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "mountain-wilseder-berg": {
@@ -3744,6 +6415,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Kann man auf den Wilseder Berg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Wilseder Berg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wilseder Berg?", a: "Wilseder Berg is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Wilseder Berg?", a: "Der Wilseder Berg ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Wilseder Berg wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Wilseder Berg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "mountain-zugspitzplatt": {
     de: [
@@ -3751,6 +6428,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie hoch ist der Zugspitzplatt?", a: "Der Zugspitzplatt ist einer der markanten Gipfel in seiner Region." },
       { q: "Kann man auf den Zugspitzplatt wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
       { q: "Ist Zugspitzplatt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Zugspitzplatt?", a: "Zugspitzplatt is a significant geographical or historical feature in Germany." },
+      { q: "Wie hoch ist der Zugspitzplatt?", a: "Der Zugspitzplatt ist einer der markanten Gipfel in seiner Region." },
+      { q: "Kann man auf den Zugspitzplatt wandern?", a: "Ja, es gibt in der Regel Wanderwege, die einen schönen Ausblick auf die Umgebung bieten." },
+      { q: "Is Zugspitzplatt für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "nature-bostalsee": {
@@ -3760,6 +6443,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Bostalsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bostalsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Bostalsee?", a: "Bostalsee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bostalsee bekannt?", a: "Bostalsee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bostalsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bostalsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "nature-jasmund": {
     de: [
@@ -3767,6 +6456,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Nationalpark Jasmund (Kreidefelsen) bekannt?", a: "Nationalpark Jasmund (Kreidefelsen) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Nationalpark Jasmund (Kreidefelsen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nationalpark Jasmund (Kreidefelsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nationalpark Jasmund (Kreidefelsen)?", a: "Nationalpark Jasmund (Kreidefelsen) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nationalpark Jasmund (Kreidefelsen) bekannt?", a: "Nationalpark Jasmund (Kreidefelsen) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nationalpark Jasmund (Kreidefelsen) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nationalpark Jasmund (Kreidefelsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "nature-schwielowsee": {
@@ -3776,6 +6471,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schwielowsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schwielowsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schwielowsee?", a: "Schwielowsee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schwielowsee bekannt?", a: "Schwielowsee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schwielowsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schwielowsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-bremerhaven": {
     de: [
@@ -3783,6 +6484,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bremerhaven bekannt?", a: "Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bremerhaven?", a: "Bremerhaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bremerhaven bekannt?", a: "Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-bremerhaven-extra": {
@@ -3792,6 +6499,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hafen Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hafen Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hafen Bremerhaven?", a: "Hafen Bremerhaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hafen Bremerhaven bekannt?", a: "Hafen Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hafen Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hafen Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-container-bremerhaven-extra": {
     de: [
@@ -3799,6 +6512,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Containerterminal Bremerhaven bekannt?", a: "Containerterminal Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Containerterminal Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Containerterminal Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Containerterminal Bremerhaven?", a: "Containerterminal Bremerhaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Containerterminal Bremerhaven bekannt?", a: "Containerterminal Bremerhaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Containerterminal Bremerhaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Containerterminal Bremerhaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-duisburg": {
@@ -3808,6 +6527,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Duisburg – Binnenhafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Duisburg – Binnenhafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Duisburg – Binnenhafen?", a: "Duisburg – Binnenhafen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Duisburg – Binnenhafen bekannt?", a: "Duisburg – Binnenhafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Duisburg – Binnenhafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Duisburg – Binnenhafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-hamburg-altona-sh-extra": {
     de: [
@@ -3815,6 +6540,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Altona (historisch Schleswig-Holstein) bekannt?", a: "Altona (historisch Schleswig-Holstein) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Altona (historisch Schleswig-Holstein) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Altona (historisch Schleswig-Holstein) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Altona (historisch Schleswig-Holstein)?", a: "Altona (historisch Schleswig-Holstein) is a significant geographical or historical feature in Germany." },
+      { q: "Why is Altona (historisch Schleswig-Holstein) bekannt?", a: "Altona (historisch Schleswig-Holstein) ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Altona (historisch Schleswig-Holstein) besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Altona (historisch Schleswig-Holstein) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-hamburger-hafen": {
@@ -3824,6 +6555,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Hamburger Hafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hamburger Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Hamburger Hafen?", a: "Hamburger Hafen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hamburger Hafen bekannt?", a: "Hamburger Hafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hamburger Hafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hamburger Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-hamburger-hafen-extra": {
     de: [
@@ -3831,6 +6568,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Hamburger Hafen bekannt?", a: "Hamburger Hafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Hamburger Hafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Hamburger Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Hamburger Hafen?", a: "Hamburger Hafen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Hamburger Hafen bekannt?", a: "Hamburger Hafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Hamburger Hafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Hamburger Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-kiel": {
@@ -3840,6 +6583,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Kiel – Fährhafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Kiel – Fährhafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Kiel – Fährhafen?", a: "Kiel – Fährhafen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Kiel – Fährhafen bekannt?", a: "Kiel – Fährhafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Kiel – Fährhafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Kiel – Fährhafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-kiel-kanal-extra": {
     de: [
@@ -3847,6 +6596,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Nord-Ostsee-Kanal bekannt?", a: "Nord-Ostsee-Kanal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Nord-Ostsee-Kanal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nord-Ostsee-Kanal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nord-Ostsee-Kanal?", a: "Nord-Ostsee-Kanal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nord-Ostsee-Kanal bekannt?", a: "Nord-Ostsee-Kanal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nord-Ostsee-Kanal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nord-Ostsee-Kanal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-rostock": {
@@ -3856,6 +6611,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Rostock – Ostseehafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Rostock – Ostseehafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Rostock – Ostseehafen?", a: "Rostock – Ostseehafen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Rostock – Ostseehafen bekannt?", a: "Rostock – Ostseehafen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Rostock – Ostseehafen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Rostock – Ostseehafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "port-wilhelmshaven": {
     de: [
@@ -3863,6 +6624,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Wilhelmshaven bekannt?", a: "Wilhelmshaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Wilhelmshaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wilhelmshaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wilhelmshaven?", a: "Wilhelmshaven is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wilhelmshaven bekannt?", a: "Wilhelmshaven ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wilhelmshaven besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wilhelmshaven für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "port-wismar-extra": {
@@ -3872,6 +6639,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Wismar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Wismar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Wismar?", a: "Wismar is a significant geographical or historical feature in Germany." },
+      { q: "Why is Wismar bekannt?", a: "Wismar ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Wismar besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Wismar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "region-altmuehltal": {
     de: [
@@ -3879,6 +6652,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Naturpark Altmühltal bekannt?", a: "Naturpark Altmühltal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Naturpark Altmühltal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Naturpark Altmühltal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Naturpark Altmühltal?", a: "Naturpark Altmühltal is a significant geographical or historical feature in Germany." },
+      { q: "Why is Naturpark Altmühltal bekannt?", a: "Naturpark Altmühltal ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Naturpark Altmühltal besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Naturpark Altmühltal für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "relief-alpenvorland": {
@@ -3888,6 +6667,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Alpenvorland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Alpenvorland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Alpenvorland?", a: "Alpenvorland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Alpenvorland bekannt?", a: "Alpenvorland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Alpenvorland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Alpenvorland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "relief-bayrisches-alpenvorland": {
     de: [
@@ -3895,6 +6680,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Bayerisches Alpenvorland bekannt?", a: "Bayerisches Alpenvorland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Bayerisches Alpenvorland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Bayerisches Alpenvorland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Bayerisches Alpenvorland?", a: "Bayerisches Alpenvorland is a significant geographical or historical feature in Germany." },
+      { q: "Why is Bayerisches Alpenvorland bekannt?", a: "Bayerisches Alpenvorland ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Bayerisches Alpenvorland besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Bayerisches Alpenvorland für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "relief-deutsche-alpen": {
@@ -3904,6 +6695,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Deutsche Alpen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Deutsche Alpen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Deutsche Alpen?", a: "Deutsche Alpen is a significant geographical or historical feature in Germany." },
+      { q: "Why is Deutsche Alpen bekannt?", a: "Deutsche Alpen ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Deutsche Alpen besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Deutsche Alpen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "relief-fraenkische-alb": {
     de: [
@@ -3911,6 +6708,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Fränkische Alb bekannt?", a: "Fränkische Alb ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Fränkische Alb besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Fränkische Alb für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Fränkische Alb?", a: "Fränkische Alb is a significant geographical or historical feature in Germany." },
+      { q: "Why is Fränkische Alb bekannt?", a: "Fränkische Alb ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Fränkische Alb besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Fränkische Alb für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "relief-lueneburger-heide": {
@@ -3920,6 +6723,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Lüneburger Heide?", a: "Lüneburger Heide is a significant geographical or historical feature in Germany." },
+      { q: "Why is Lüneburger Heide bekannt?", a: "Lüneburger Heide ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Lüneburger Heide besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Lüneburger Heide für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "relief-mittelgebirge": {
     de: [
@@ -3927,6 +6736,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Mittelgebirgszone bekannt?", a: "Mittelgebirgszone ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Mittelgebirgszone besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Mittelgebirgszone für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Mittelgebirgszone?", a: "Mittelgebirgszone is a significant geographical or historical feature in Germany." },
+      { q: "Why is Mittelgebirgszone bekannt?", a: "Mittelgebirgszone ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Mittelgebirgszone besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Mittelgebirgszone für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "relief-norddeutsche-tiefebene": {
@@ -3936,6 +6751,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Norddeutsche Tiefebene besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Norddeutsche Tiefebene für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Norddeutsche Tiefebene?", a: "Norddeutsche Tiefebene is a significant geographical or historical feature in Germany." },
+      { q: "Why is Norddeutsche Tiefebene bekannt?", a: "Norddeutsche Tiefebene ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Norddeutsche Tiefebene besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Norddeutsche Tiefebene für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "relief-rheintal": {
     de: [
@@ -3943,6 +6764,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Oberrheinische Tiefebene bekannt?", a: "Oberrheinische Tiefebene ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Oberrheinische Tiefebene besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Oberrheinische Tiefebene für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Oberrheinische Tiefebene?", a: "Oberrheinische Tiefebene is a significant geographical or historical feature in Germany." },
+      { q: "Why is Oberrheinische Tiefebene bekannt?", a: "Oberrheinische Tiefebene ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Oberrheinische Tiefebene besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Oberrheinische Tiefebene für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-alster-hh-extra": {
@@ -3952,6 +6779,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Alster?", a: "Alster durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Alster für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Alster?", a: "Alster is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Alster?", a: "Die genaue Länge von Alster variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Alster?", a: "Alster durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Alster für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-blies-sl-extra": {
     de: [
@@ -3959,6 +6792,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Blies?", a: "Die genaue Länge von Blies variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Blies?", a: "Blies durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Blies für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Blies?", a: "Blies is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Blies?", a: "Die genaue Länge von Blies variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Blies?", a: "Blies durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Blies für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-donau": {
@@ -3968,6 +6807,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Donau?", a: "Donau durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Donau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Donau?", a: "Donau is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Donau?", a: "Die genaue Länge von Donau variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Donau?", a: "Donau durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Donau für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-eider-extra": {
     de: [
@@ -3975,6 +6820,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Eider?", a: "Die genaue Länge von Eider variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Eider?", a: "Eider durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Eider für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Eider?", a: "Eider is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Eider?", a: "Die genaue Länge von Eider variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Eider?", a: "Eider durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Eider für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-elbe": {
@@ -3984,6 +6835,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Elbe?", a: "Elbe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Elbe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Elbe?", a: "Elbe is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Elbe?", a: "Die genaue Länge von Elbe variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Elbe?", a: "Elbe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Elbe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-elbe-sachsen-extra": {
     de: [
@@ -3991,6 +6848,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Elbe (Sachsen)?", a: "Die genaue Länge von Elbe (Sachsen) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Elbe (Sachsen)?", a: "Elbe (Sachsen) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Elbe (Sachsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Elbe (Sachsen)?", a: "Elbe (Sachsen) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Elbe (Sachsen)?", a: "Die genaue Länge von Elbe (Sachsen) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Elbe (Sachsen)?", a: "Elbe (Sachsen) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Elbe (Sachsen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-elbe-st-extra": {
@@ -4000,6 +6863,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Elbe (Sachsen-Anhalt)?", a: "Elbe (Sachsen-Anhalt) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Elbe (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Elbe (Sachsen-Anhalt)?", a: "Elbe (Sachsen-Anhalt) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Elbe (Sachsen-Anhalt)?", a: "Die genaue Länge von Elbe (Sachsen-Anhalt) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Elbe (Sachsen-Anhalt)?", a: "Elbe (Sachsen-Anhalt) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Elbe (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-ems-extra": {
     de: [
@@ -4007,6 +6876,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Ems?", a: "Die genaue Länge von Ems variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Ems?", a: "Ems durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Ems für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ems?", a: "Ems is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Ems?", a: "Die genaue Länge von Ems variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Ems?", a: "Ems durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Ems für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-havel": {
@@ -4016,6 +6891,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Havel?", a: "Havel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Havel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Havel?", a: "Havel is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Havel?", a: "Die genaue Länge von Havel variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Havel?", a: "Havel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Havel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-havel-bb-extra": {
     de: [
@@ -4023,6 +6904,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Havel (Brandenburg)?", a: "Die genaue Länge von Havel (Brandenburg) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Havel (Brandenburg)?", a: "Havel (Brandenburg) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Havel (Brandenburg) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Havel (Brandenburg)?", a: "Havel (Brandenburg) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Havel (Brandenburg)?", a: "Die genaue Länge von Havel (Brandenburg) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Havel (Brandenburg)?", a: "Havel (Brandenburg) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Havel (Brandenburg) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-havel-berlin-extra": {
@@ -4032,6 +6919,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Havel (Berlin)?", a: "Havel (Berlin) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Havel (Berlin) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Havel (Berlin)?", a: "Havel (Berlin) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Havel (Berlin)?", a: "Die genaue Länge von Havel (Berlin) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Havel (Berlin)?", a: "Havel (Berlin) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Havel (Berlin) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-isar": {
     de: [
@@ -4039,6 +6932,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Isar?", a: "Die genaue Länge von Isar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Isar?", a: "Isar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Isar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Isar?", a: "Isar is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Isar?", a: "Die genaue Länge von Isar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Isar?", a: "Isar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Isar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-lahn-extra": {
@@ -4048,6 +6947,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Lahn?", a: "Lahn durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Lahn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Lahn?", a: "Lahn is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Lahn?", a: "Die genaue Länge von Lahn variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Lahn?", a: "Lahn durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Lahn für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-lippe-extra": {
     de: [
@@ -4055,6 +6960,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Lippe?", a: "Die genaue Länge von Lippe variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Lippe?", a: "Lippe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Lippe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Lippe?", a: "Lippe is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Lippe?", a: "Die genaue Länge von Lippe variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Lippe?", a: "Lippe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Lippe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-main": {
@@ -4064,6 +6975,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Main?", a: "Main durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Main für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Main?", a: "Main is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Main?", a: "Die genaue Länge von Main variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Main?", a: "Main durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Main für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-mosel": {
     de: [
@@ -4071,6 +6988,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Mosel?", a: "Die genaue Länge von Mosel variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Mosel?", a: "Mosel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Mosel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Mosel?", a: "Mosel is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Mosel?", a: "Die genaue Länge von Mosel variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Mosel?", a: "Mosel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Mosel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-mosel-rp-extra": {
@@ -4080,6 +7003,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Mosel?", a: "Mosel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Mosel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Mosel?", a: "Mosel is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Mosel?", a: "Die genaue Länge von Mosel variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Mosel?", a: "Mosel durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Mosel für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-nahe-extra": {
     de: [
@@ -4087,6 +7016,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Nahe?", a: "Die genaue Länge von Nahe variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Nahe?", a: "Nahe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Nahe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Nahe?", a: "Nahe is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Nahe?", a: "Die genaue Länge von Nahe variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Nahe?", a: "Nahe durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Nahe für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-neckar": {
@@ -4096,6 +7031,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Neckar?", a: "Neckar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Neckar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Neckar?", a: "Neckar is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Neckar?", a: "Die genaue Länge von Neckar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Neckar?", a: "Neckar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Neckar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-neckar-extra": {
     de: [
@@ -4103,6 +7044,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Neckar?", a: "Die genaue Länge von Neckar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Neckar?", a: "Neckar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Neckar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Neckar?", a: "Neckar is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Neckar?", a: "Die genaue Länge von Neckar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Neckar?", a: "Neckar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Neckar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-oder": {
@@ -4112,6 +7059,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Oder?", a: "Oder durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Oder für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Oder?", a: "Oder is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Oder?", a: "Die genaue Länge von Oder variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Oder?", a: "Oder durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Oder für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-rhein": {
     de: [
@@ -4119,6 +7072,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Rhein?", a: "Die genaue Länge von Rhein variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Rhein?", a: "Rhein durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Rhein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Rhein?", a: "Rhein is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Rhein?", a: "Die genaue Länge von Rhein variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Rhein?", a: "Rhein durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Rhein für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-ruhr": {
@@ -4128,6 +7087,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Ruhr?", a: "Ruhr durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Ruhr für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Ruhr?", a: "Ruhr is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Ruhr?", a: "Die genaue Länge von Ruhr variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Ruhr?", a: "Ruhr durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Ruhr für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-saale-st-extra": {
     de: [
@@ -4135,6 +7100,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Saale (Sachsen-Anhalt)?", a: "Die genaue Länge von Saale (Sachsen-Anhalt) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Saale (Sachsen-Anhalt)?", a: "Saale (Sachsen-Anhalt) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Saale (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saale (Sachsen-Anhalt)?", a: "Saale (Sachsen-Anhalt) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Saale (Sachsen-Anhalt)?", a: "Die genaue Länge von Saale (Sachsen-Anhalt) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Saale (Sachsen-Anhalt)?", a: "Saale (Sachsen-Anhalt) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Saale (Sachsen-Anhalt) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-saale-th-extra": {
@@ -4144,6 +7115,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Saale?", a: "Saale durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Saale für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Saale?", a: "Saale is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Saale?", a: "Die genaue Länge von Saale variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Saale?", a: "Saale durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Saale für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-saar-sl-extra": {
     de: [
@@ -4151,6 +7128,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Saar?", a: "Die genaue Länge von Saar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Saar?", a: "Saar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Saar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saar?", a: "Saar is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Saar?", a: "Die genaue Länge von Saar variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Saar?", a: "Saar durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Saar für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-salzach-extra": {
@@ -4160,6 +7143,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Salzach?", a: "Salzach durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Salzach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Salzach?", a: "Salzach is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Salzach?", a: "Die genaue Länge von Salzach variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Salzach?", a: "Salzach durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Salzach für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-spree": {
     de: [
@@ -4167,6 +7156,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Spree?", a: "Die genaue Länge von Spree variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Spree?", a: "Spree durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Spree für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Spree?", a: "Spree is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Spree?", a: "Die genaue Länge von Spree variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Spree?", a: "Spree durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Spree für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-spree-bb-extra": {
@@ -4176,6 +7171,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Spree (Brandenburg)?", a: "Spree (Brandenburg) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Spree (Brandenburg) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Spree (Brandenburg)?", a: "Spree (Brandenburg) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Spree (Brandenburg)?", a: "Die genaue Länge von Spree (Brandenburg) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Spree (Brandenburg)?", a: "Spree (Brandenburg) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Spree (Brandenburg) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-warnow-extra": {
     de: [
@@ -4183,6 +7184,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Warnow?", a: "Die genaue Länge von Warnow variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Warnow?", a: "Warnow durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Warnow für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Warnow?", a: "Warnow is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Warnow?", a: "Die genaue Länge von Warnow variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Warnow?", a: "Warnow durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Warnow für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-werra-th-extra": {
@@ -4192,6 +7199,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Werra?", a: "Werra durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Werra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Werra?", a: "Werra is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Werra?", a: "Die genaue Länge von Werra variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Werra?", a: "Werra durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Werra für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-weser": {
     de: [
@@ -4199,6 +7212,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Weser?", a: "Die genaue Länge von Weser variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Weser?", a: "Weser durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Weser für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Weser?", a: "Weser is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Weser?", a: "Die genaue Länge von Weser variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Weser?", a: "Weser durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Weser für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-weser-hafen-hb": {
@@ -4208,6 +7227,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Weser & Bremer Hafen?", a: "Weser & Bremer Hafen durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Weser & Bremer Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Weser & Bremer Hafen?", a: "Weser & Bremer Hafen is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Weser & Bremer Hafen?", a: "Die genaue Länge von Weser & Bremer Hafen variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Weser & Bremer Hafen?", a: "Weser & Bremer Hafen durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Weser & Bremer Hafen für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-weser-hb-extra": {
     de: [
@@ -4215,6 +7240,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Weser (Bremen)?", a: "Die genaue Länge von Weser (Bremen) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Weser (Bremen)?", a: "Weser (Bremen) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Weser (Bremen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Weser (Bremen)?", a: "Weser (Bremen) is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Weser (Bremen)?", a: "Die genaue Länge von Weser (Bremen) variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Weser (Bremen)?", a: "Weser (Bremen) durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Weser (Bremen) für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "river-weser-ni-extra": {
@@ -4224,6 +7255,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Durch welche Gebiete fließt Weser?", a: "Weser durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Weser für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Weser?", a: "Weser is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Weser?", a: "Die genaue Länge von Weser variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Weser?", a: "Weser durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Weser für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "river-wupper-extra": {
     de: [
@@ -4231,6 +7268,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Wie lang ist der Fluss Wupper?", a: "Die genaue Länge von Wupper variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
       { q: "Durch welche Gebiete fließt Wupper?", a: "Wupper durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
       { q: "Ist Wupper für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Wupper?", a: "Wupper is a significant geographical or historical feature in Germany." },
+      { q: "Wie lang ist der Fluss Wupper?", a: "Die genaue Länge von Wupper variiert je nach Quelle, aber er ist ein wichtiger Wasserweg der Region." },
+      { q: "Durch welche Gebiete fließt Wupper?", a: "Wupper durchquert malerische Landschaften und verbindet verschiedene Orte miteinander." },
+      { q: "Is Wupper für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "sea-nordsee": {
@@ -4240,6 +7283,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Nordsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Nordsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Nordsee?", a: "Nordsee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Nordsee bekannt?", a: "Nordsee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Nordsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Nordsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "sea-ostsee": {
     de: [
@@ -4247,6 +7296,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Ostsee bekannt?", a: "Ostsee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Ostsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Ostsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Ostsee?", a: "Ostsee is a significant geographical or historical feature in Germany." },
+      { q: "Why is Ostsee bekannt?", a: "Ostsee ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Ostsee besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Ostsee für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "sea-wattenmeer-sh-extra": {
@@ -4256,6 +7311,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Schleswig-Holsteinisches Wattenmeer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Schleswig-Holsteinisches Wattenmeer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Schleswig-Holsteinisches Wattenmeer?", a: "Schleswig-Holsteinisches Wattenmeer is a significant geographical or historical feature in Germany." },
+      { q: "Why is Schleswig-Holsteinisches Wattenmeer bekannt?", a: "Schleswig-Holsteinisches Wattenmeer ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Schleswig-Holsteinisches Wattenmeer besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Schleswig-Holsteinisches Wattenmeer für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "state-capital-saarbruecken-sl-extra": {
     de: [
@@ -4263,6 +7324,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Saarbrücken bekannt?", a: "Saarbrücken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Saarbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Saarbrücken?", a: "Saarbrücken is a significant geographical or historical feature in Germany." },
+      { q: "Why is Saarbrücken bekannt?", a: "Saarbrücken ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Saarbrücken besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Saarbrücken für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "zoo-berlin": {
@@ -4272,6 +7339,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Zoologischer Garten Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Zoologischer Garten Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
+    en: [
+      { q: "What is Zoologischer Garten Berlin?", a: "Zoologischer Garten Berlin is a significant geographical or historical feature in Germany." },
+      { q: "Why is Zoologischer Garten Berlin bekannt?", a: "Zoologischer Garten Berlin ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Zoologischer Garten Berlin besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Zoologischer Garten Berlin für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
   },
   "zoo-hagenbeck-hamburg": {
     de: [
@@ -4279,6 +7352,12 @@ export const deFaq: CountryFaqMap = {
       { q: "Warum ist Tierpark Hagenbeck Hamburg bekannt?", a: "Tierpark Hagenbeck Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
       { q: "Was macht Tierpark Hagenbeck Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Tierpark Hagenbeck Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    ]
+    en: [
+      { q: "What is Tierpark Hagenbeck Hamburg?", a: "Tierpark Hagenbeck Hamburg is a significant geographical or historical feature in Germany." },
+      { q: "Why is Tierpark Hagenbeck Hamburg bekannt?", a: "Tierpark Hagenbeck Hamburg ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Tierpark Hagenbeck Hamburg besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Tierpark Hagenbeck Hamburg für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   },
   "zoo-hellabrunn-muenchen": {
@@ -4288,13 +7367,11 @@ export const deFaq: CountryFaqMap = {
       { q: "Was macht Tierpark Hellabrunn München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
       { q: "Ist Tierpark Hellabrunn München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
-  },
-  "zoo-leipzig": {
-    de: [
-      { q: "Was ist Zoo Leipzig?", a: "Zoo Leipzig ist ein bedeutendes geografisches oder historisches Merkmal in Deutschland." },
-      { q: "Warum ist Zoo Leipzig bekannt?", a: "Zoo Leipzig ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
-      { q: "Was macht Zoo Leipzig besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
-      { q: "Ist Zoo Leipzig für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
+    en: [
+      { q: "What is Tierpark Hellabrunn München?", a: "Tierpark Hellabrunn München is a significant geographical or historical feature in Germany." },
+      { q: "Why is Tierpark Hellabrunn München bekannt?", a: "Tierpark Hellabrunn München ist aufgrund seiner Geschichte oder seiner besonderen Lage ein geschätztes Ziel." },
+      { q: "What makes Tierpark Hellabrunn München besonders?", a: "Die Kombination aus Tradition und landschaftlicher Schönheit macht diesen Ort einzigartig." },
+      { q: "Is Tierpark Hellabrunn München für Touristen interessant?", a: "Ja, viele Menschen besuchen diesen Ort, um mehr über die deutsche Kultur und Natur zu erfahren." }
     ]
   }
 };
