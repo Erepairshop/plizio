@@ -852,8 +852,8 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {/* Action buttons moved to top — right below the title header */}
-            <div className="shrink-0 mb-3 flex flex-col sm:flex-row gap-2">
+            {/* Action buttons moved to top — sticky right below the title header */}
+            <div className="shrink-0 mb-3 flex flex-col sm:flex-row gap-2 sticky top-[60px] -mx-4 px-4 py-2 bg-[#0A1929]/95 backdrop-blur-md z-[9]">
               <button
                 onClick={() => setDetailFor(selected.id)}
                 className="
