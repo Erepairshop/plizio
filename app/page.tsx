@@ -1027,10 +1027,7 @@ export default function Home() {
 
   return (
     <>
-      {/* SEO hero: 3D globe + continent/country/POI links + CTA */}
-      <HomeHero />
-
-      {/* Game island (returning users scroll down or bookmark /play) */}
+      {/* Game island — first-screen visual (Plizio logo, avatar, menu) */}
       <main className="relative w-full h-screen overflow-hidden bg-[#060614]">
       <IslandMap
         islands={categoriesToIslands(categories)}
@@ -1183,6 +1180,9 @@ export default function Home() {
         </div>
       )}
       </main>
+
+      {/* SEO content below — visible when user scrolls down. Google reads the full HTML regardless. */}
+      <HomeHero />
     </>
   );
 }
