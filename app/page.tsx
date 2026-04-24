@@ -15,6 +15,7 @@ import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
+import HomeHero from "@/components/HomeHero";
 import { getGender, type AvatarGender } from "@/lib/gender";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
@@ -1025,8 +1026,12 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="fixed inset-0 overflow-hidden">
-      {/* Fullscreen Island Map */}
+    <>
+      {/* SEO hero: 3D globe + continent/country/POI links + CTA */}
+      <HomeHero />
+
+      {/* Game island (returning users scroll down or bookmark /play) */}
+      <main className="relative w-full h-screen overflow-hidden bg-[#060614]">
       <IslandMap
         islands={categoriesToIslands(categories)}
         username={username}
@@ -1177,6 +1182,7 @@ export default function Home() {
           </div>
         </div>
       )}
-    </main>
+      </main>
+    </>
   );
 }
