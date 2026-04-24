@@ -244,14 +244,11 @@ export const INFO_K2_CURRICULUM: KemiaTheme[] = [
   }
 ];
 
-export function getInfoK2Questions(subtopicIds: string[], count?: number): KemiaQuestion[] {
+export function getInfoK2Questions(subtopicIds: string[], count?: number, countryCode?: string): KemiaQuestion[] {
   const pool: KemiaQuestion[] = [];
-  for (const theme of INFO_K2_CURRICULUM) {
-    for (const sub of theme.subtopics) {
-      if (subtopicIds.includes(sub.id)) {
-        pool.push(...sub.questions);
-      }
-    }
+  for (const id of subtopicIds) {
+    const tasks = _pickTasks(id, countryCode);
+    pool.push(...jsonToQuestions(id, tasks));
   }
   if (!count) return pool;
   for (let i = pool.length - 1; i > 0; i--) {
