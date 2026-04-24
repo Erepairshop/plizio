@@ -824,12 +824,12 @@ export const InteractiveMap = ({
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
-              p-4
+              px-4 pb-4
               z-[130]
             "
           >
             {/* Sticky header: cim + X close + Detail gomb egyben, scroll kozben is fixen felul */}
-            <div className="sticky top-0 -mt-4 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10 mb-2">
+            <div className="sticky top-0 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10 mb-2">
               <div className="flex items-start gap-3 mb-2">
                 {selectedPoiFromState?.coa && (
                   <img
@@ -922,11 +922,11 @@ export const InteractiveMap = ({
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
-              p-4
+              px-4 pb-4
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
+            <div className="flex items-start gap-3 mb-2 sticky top-0 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
               {selectedPoi.image ? (
                 <img
                   src={selectedPoi.image}
@@ -1271,7 +1271,7 @@ function SubRegionView({
               z-[150]
             "
           >
-            <div className="flex items-start gap-3 mb-2 sticky top-0 -mt-4 -mx-4 px-4 pt-4 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
+            <div className="flex items-start gap-3 mb-2 sticky top-0 -mx-4 px-4 pt-3 pb-2 bg-[#0A1929]/95 backdrop-blur-md z-10">
               {selectedPoi.image ? (
                 <img src={selectedPoi.image} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />
