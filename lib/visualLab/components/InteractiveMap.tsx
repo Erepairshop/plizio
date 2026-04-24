@@ -852,6 +852,30 @@ export const InteractiveMap = ({
               </button>
             </div>
 
+            {/* Action buttons moved to top — right below the title header */}
+            <div className="shrink-0 mb-3 flex flex-col sm:flex-row gap-2">
+              <button
+                onClick={() => setDetailFor(selected.id)}
+                className="
+                  flex-1 flex items-center justify-center gap-1.5
+                  py-2 rounded-lg
+                  bg-gradient-to-r from-cyan-600 to-sky-700
+                  hover:from-cyan-500 hover:to-sky-600
+                  text-white text-sm font-medium
+                  shadow-md
+                "
+              >
+                {t.detail}
+                <ChevronRight size={16} />
+              </button>
+              <a
+                href={buildStatePath(seoLang, selected.id)}
+                className="flex-1 flex items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
+              >
+                {moreLabel}
+              </a>
+            </div>
+
             <div>
               {selectedPoiFromState?.description?.[displayLang] && (
                 <p className="text-white/75 text-sm leading-relaxed mb-2">
@@ -871,29 +895,6 @@ export const InteractiveMap = ({
                   ))}
                 </div>
               ) : null}
-            </div>
-
-            <div className="shrink-0 mt-2">
-              <button
-                onClick={() => setDetailFor(selected.id)}
-                className="
-                  w-full flex items-center justify-center gap-1.5
-                  py-2 rounded-lg
-                  bg-gradient-to-r from-cyan-600 to-sky-700
-                  hover:from-cyan-500 hover:to-sky-600
-                  text-white text-sm font-medium
-                  shadow-md
-                "
-              >
-                {t.detail}
-                <ChevronRight size={16} />
-              </button>
-              <a
-                href={buildStatePath(seoLang, selected.id)}
-                className="mt-2 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
-              >
-                {moreLabel}
-              </a>
             </div>
           </motion.div>
         )}
