@@ -93,6 +93,7 @@ import { monacoAllPoi } from "../data/monacoPoi";
 import { vaticanMap, vaticanViewBox, projectCoordsVA } from "./vatican.svg";
 import { vaticanPois } from "../data/vaticanPoi";
 // ─── North America ────────────────────────────────────────────────────────
+import { northamericaMap, northamericaViewBox, projectCoordsNA } from "./northamerica.svg";
 import { usaMap, usaViewBox, projectCoordsUS } from "./usa.svg";
 import { usaAllPoi } from "../data/usaPoi";
 import { canadaMap, canadaViewBox, projectCoordsCA } from "./canada.svg";
@@ -127,7 +128,7 @@ import { elsalvadorMap, elsalvadorViewBox, projectCoordsSV } from "./elsalvador.
 import { elsalvadorAllPoi } from "../data/elsalvadorPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va" | "rs" | "us" | "canada" | "mx" | "gt" | "hn" | "ni" | "cr" | "pa" | "cu" | "do" | "ht" | "jm" | "bs" | "tt" | "bz" | "sv";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "sm" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee" | "is" | "mt" | "cy" | "al" | "ba" | "me" | "mk" | "xk" | "md" | "ua" | "by" | "ad" | "mc" | "va" | "rs" | "na" | "us" | "canada" | "mx" | "gt" | "hn" | "ni" | "cr" | "pa" | "cu" | "do" | "ht" | "jm" | "bs" | "tt" | "bz" | "sv";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
@@ -530,6 +531,8 @@ export function getCountryMap(lang: Lang): CountryMapData {
         subregions: {},
       };
     // ─── North America ────────────────────────────────────────────────
+    case "na":
+      return { countryId: "NA", map: northamericaMap as unknown as BundeslandPath[], viewBox: northamericaViewBox, projectCoords: projectCoordsNA, pois: [...usaAllPoi, ...canadaAllPoi, ...mexicoAllPoi, ...cubaAllPoi, ...guatemalaAllPoi, ...hondurasAllPoi, ...nicaraguaAllPoi, ...costaricaAllPoi, ...panamaAllPoi, ...dominicanrepublicAllPoi, ...haitiAllPoi, ...jamaicaAllPoi, ...bahamasAllPoi, ...trinidadAllPoi, ...belizeAllPoi, ...elsalvadorAllPoi], subregions: {} };
     case "us":
       return { countryId: "US", map: usaMap as unknown as BundeslandPath[], viewBox: usaViewBox, projectCoords: projectCoordsUS, pois: usaAllPoi, subregions: {} };
     case "canada":

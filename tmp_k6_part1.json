@@ -1,0 +1,1404 @@
+{
+  "ai_k6_t1_1": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist maschinelles Lernen (ML)?",
+        "hu": "Mi a gépi tanulás (ML)?",
+        "ro": "Ce este învățarea automată (ML)?",
+        "en": "What is machine learning (ML)?"
+      },
+      "options": {
+        "de": ["Computer lernen aus Daten", "Computer essen Pizza", "Ein Roboter, der schläft", "Ein altes Buch"],
+        "hu": ["A számítógépek adatokból tanulnak", "A számítógépek pizzát esznek", "Egy robot, ami alszik", "Egy régi könyv"],
+        "ro": ["Computerele învață din date", "Computerele mănâncă pizza", "Un robot care doarme", "O carte veche"],
+        "en": ["Computers learn from data", "Computers eat pizza", "A robot that sleeps", "An old book"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Braucht ML Daten zum Lernen?",
+        "hu": "Szüksége van az ML-nek adatokra a tanuláshoz?",
+        "ro": "Are nevoie ML de date pentru a învăța?",
+        "en": "Does ML need data to learn?"
+      },
+      "options": {
+        "de": ["Ja, unbedingt", "Nein, niemals", "Nur sonntags", "Nur wenn es regnet"],
+        "hu": ["Igen, mindenképpen", "Nem, soha", "Csak vasárnap", "Csak ha esik"],
+        "ro": ["Da, neapărat", "Nu, niciodată", "Doar duminica", "Doar dacă plouă"],
+        "en": ["Yes, definitely", "No, never", "Only on Sundays", "Only if it rains"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist ML ein Teil der Künstlichen Intelligenz?",
+        "hu": "Az ML a mesterséges intelligencia része?",
+        "ro": "Este ML o parte a inteligenței artificiale?",
+        "en": "Is ML a part of Artificial Intelligence?"
+      },
+      "options": {
+        "de": ["Ja", "Nein", "Es ist das Gegenteil", "Nur bei Videospielen"],
+        "hu": ["Igen", "Nem", "Pont az ellenkezője", "Csak a videojátékoknál"],
+        "ro": ["Da", "Nu", "Este opusul", "Doar la jocurile video"],
+        "en": ["Yes", "No", "It's the opposite", "Only in video games"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann ML Gesichter auf Fotos erkennen?",
+        "hu": "Képes az ML felismerni az arcokat a fotókon?",
+        "ro": "Poate ML să recunoască fețe în fotografii?",
+        "en": "Can ML recognize faces in photos?"
+      },
+      "options": {
+        "de": ["Ja", "Nein", "Nur wenn sie lachen", "Nur bei Tieren"],
+        "hu": ["Igen", "Nem", "Csak ha mosolyognak", "Csak állatoknál"],
+        "ro": ["Da", "Nu", "Doar dacă zâmbesc", "Doar la animale"],
+        "en": ["Yes", "No", "Only if they smile", "Only for animals"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was findet ML in den Daten?",
+        "hu": "Mit talál meg az ML az adatokban?",
+        "ro": "Ce găsește ML în date?",
+        "en": "What does ML find in the data?"
+      },
+      "options": {
+        "de": ["Muster und Regeln", "Gold", "Kekse", "Verlorene Dateien"],
+        "hu": ["Mintákat és szabályokat", "Aranyat", "Kekszet", "Elveszett fájlokat"],
+        "ro": ["Tipare și reguli", "Aur", "Biscuiți", "Fișiere pierdute"],
+        "en": ["Patterns and rules", "Gold", "Cookies", "Lost files"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum heißt es 'Lernen'?",
+        "hu": "Miért hívják 'tanulásnak'?",
+        "ro": "De ce se numește „învățare”?",
+        "en": "Why is it called 'learning'?"
+      },
+      "options": {
+        "de": ["Weil es mit mehr Daten besser wird", "Weil es in die Schule geht", "Weil es Bücher liest", "Weil es einen Lehrer hat"],
+        "hu": ["Mert több adattal jobbá válik", "Mert iskolába jár", "Mert könyveket olvas", "Mert van tanára"],
+        "ro": ["Pentru că devine mai bun cu mai multe date", "Pentru că merge la școală", "Pentru că citește cărți", "Pentru că are un profesor"],
+        "en": ["Because it improves with more data", "Because it goes to school", "Because it reads books", "Because it has a teacher"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Hauptziel von ML?",
+        "hu": "Mi az ML fő célja?",
+        "ro": "Care este scopul principal al ML?",
+        "en": "What is the main goal of ML?"
+      },
+      "options": {
+        "de": ["Vorhersagen treffen", "Bilder löschen", "Lieder singen", "Computer ausschalten"],
+        "hu": ["Jóslatok készítése", "Képek törlése", "Dalok éneklése", "Számítógép kikapcsolása"],
+        "ro": ["Realizarea de predicții", "Ștergerea imaginilor", "Cântatul melodiilor", "Oprirea computerului"],
+        "en": ["Making predictions", "Deleting images", "Singing songs", "Turning off the computer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm nutzt oft ML?",
+        "hu": "Melyik program használ gyakran ML-t?",
+        "ro": "Ce program folosește adesea ML?",
+        "en": "Which program often uses ML?"
+      },
+      "options": {
+        "de": ["E-Mail Spam-Filter", "Taschenrechner", "Notepad", "Taschenlampe-App"],
+        "hu": ["E-mail spam szűrő", "Számológép", "Jegyzettömb", "Zseblámpa alkalmazás"],
+        "ro": ["Filtru de spam e-mail", "Calculator", "Notepad", "Aplicație lanternă"],
+        "en": ["Email spam filter", "Calculator", "Notepad", "Flashlight app"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie hilft ML in der Medizin?",
+        "hu": "Hogyan segít az ML az orvoslásban?",
+        "ro": "Cum ajută ML în medicină?",
+        "en": "How does ML help in medicine?"
+      },
+      "options": {
+        "de": ["Krankheiten auf Bildern erkennen", "Kaffee kochen", "Den Boden wischen", "Witze erzählen"],
+        "hu": ["Betegségek felismerése képeken", "Kávéfőzés", "Felmosás", "Vicc mesélés"],
+        "ro": ["Recunoașterea bolilor în imagini", "Prepararea cafelei", "Spălarea podelei", "Spunerea de glume"],
+        "en": ["Recognizing diseases in images", "Making coffee", "Mopping the floor", "Telling jokes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist ML dasselbe wie klassisches Programmieren?",
+        "hu": "Az ML ugyanaz, mint a klasszikus programozás?",
+        "ro": "Este ML același lucru cu programarea clasică?",
+        "en": "Is ML the same as traditional programming?"
+      },
+      "options": {
+        "de": ["Nein, der Computer lernt Regeln selbst", "Ja, genau dasselbe", "Nein, ML ist viel langsamer", "Ja, aber nur für Roboter"],
+        "hu": ["Nem, a gép maga tanulja a szabályokat", "Igen, pontosan ugyanaz", "Nem, az ML sokkal lassabb", "Igen, de csak robotoknak"],
+        "ro": ["Nu, computerul învață singur regulile", "Da, exact același lucru", "Nu, ML este mult mai lent", "Da, dar numai pentru roboți"],
+        "en": ["No, the computer learns rules itself", "Yes, exactly the same", "No, ML is much slower", "Yes, but only for robots"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Schreibe die Abkürzung für Machine Learning.",
+        "hu": "Írd le a Machine Learning rövidítését!",
+        "ro": "Scrie abrevierea pentru Machine Learning.",
+        "en": "Write the abbreviation for Machine Learning."
+      },
+      "answer": "ML"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "ML lernt aus ...?",
+        "hu": "Az ML mikből tanul?",
+        "ro": "ML învață din ...?",
+        "en": "ML learns from ...?"
+      },
+      "answer": {
+        "de": "Daten",
+        "hu": "adatok",
+        "ro": "date",
+        "en": "data"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "ML ist ein Teil der künstlichen ...?",
+        "hu": "Az ML a mesterséges ... része?",
+        "ro": "ML este o parte a ... artificiale?",
+        "en": "ML is a part of artificial ...?"
+      },
+      "answer": {
+        "de": "Intelligenz",
+        "hu": "intelligencia",
+        "ro": "inteligență",
+        "en": "intelligence"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den Prozess, wenn ML besser wird?",
+        "hu": "Hogy hívják a folyamatot, amikor az ML jobbá válik?",
+        "ro": "Cum se numește procesul prin care ML devine mai bun?",
+        "en": "What is the process called when ML improves?"
+      },
+      "answer": {
+        "de": "Lernen",
+        "hu": "tanulás",
+        "ro": "învățare",
+        "en": "learning"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was sucht ML in den Daten?",
+        "hu": "Miket keres az ML az adatokban?",
+        "ro": "Ce caută ML în date?",
+        "en": "What does ML look for in the data?"
+      },
+      "answer": {
+        "de": "Muster",
+        "hu": "mintákat",
+        "ro": "tipare",
+        "en": "patterns"
+      }
+    }
+  ],
+  "ai_k6_t1_2": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist überwachtes Lernen (Supervised)?",
+        "hu": "Mi a felügyelt tanulás (Supervised)?",
+        "ro": "Ce este învățarea supravegheată (Supervised)?",
+        "en": "What is supervised learning?"
+      },
+      "options": {
+        "de": ["Lernen mit beschrifteten Daten", "Lernen ohne Hilfe", "Lernen durch Zufall", "Lernen im Schlaf"],
+        "hu": ["Tanulás felcímkézett adatokkal", "Tanulás segítség nélkül", "Tanulás véletlenszerűen", "Tanulás alvás közben"],
+        "ro": ["Învățare cu date etichetate", "Învățare fără ajutor", "Învățare prin hazard", "Învățare în somn"],
+        "en": ["Learning with labeled data", "Learning without help", "Learning by chance", "Learning while sleeping"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist unüberwachtes Lernen (Unsupervised)?",
+        "hu": "Mi a nem felügyelt tanulás (Unsupervised)?",
+        "ro": "Ce este învățarea nesupravegheată (Unsupervised)?",
+        "en": "What is unsupervised learning?"
+      },
+      "options": {
+        "de": ["Lernen ohne Beschriftungen", "Lernen mit einem Lehrer", "Lernen mit festen Regeln", "Lernen durch Bestrafung"],
+        "hu": ["Tanulás címkék nélkül", "Tanulás tanárral", "Tanulás fix szabályokkal", "Tanulás büntetéssel"],
+        "ro": ["Învățare fără etichete", "Învățare cu un profesor", "Învățare cu reguli fixe", "Învățare prin pedeapsă"],
+        "en": ["Learning without labels", "Learning with a teacher", "Learning with fixed rules", "Learning by punishment"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Beispiel für überwachtes Lernen?",
+        "hu": "Példa a felügyelt tanulásra?",
+        "ro": "Exemplu de învățare supravegheată?",
+        "en": "Example of supervised learning?"
+      },
+      "options": {
+        "de": ["Bilder von Hunden und Katzen mit Namen", "Musik hören", "Ein Zimmer aufräumen", "Farben sortieren ohne Namen"],
+        "hu": ["Kutyák és macskák képei nevekkel", "Zenehallgatás", "Szoba takarítás", "Színek válogatása nevek nélkül"],
+        "ro": ["Imagini cu câini și pisici cu nume", "Ascultarea muzicii", "Curățarea unei camere", "Sortarea culorilor fără nume"],
+        "en": ["Images of dogs and cats with names", "Listening to music", "Cleaning a room", "Sorting colors without names"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Beispiel für unüberwachtes Lernen?",
+        "hu": "Példa a nem felügyelt tanulásra?",
+        "ro": "Exemplu de învățare nesupravegheată?",
+        "en": "Example of unsupervised learning?"
+      },
+      "options": {
+        "de": ["Kunden in Gruppen sortieren", "Ein Diktat schreiben", "Vokabeln lernen", "Ein Puzzle mit Vorlage"],
+        "hu": ["Vásárlók csoportokba sorolása", "Diktálás írása", "Szavak tanulása", "Kirakó mintával"],
+        "ro": ["Sortarea clienților în grupuri", "Scrierea unei dictări", "Învățarea vocabularului", "Puzzle cu model"],
+        "en": ["Sorting customers into groups", "Writing a dictation", "Learning vocabulary", "Puzzle with a pattern"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Label' (Címke)?",
+        "hu": "Mi az a 'label' (címke)?",
+        "ro": "Ce este un „label” (etichetă)?",
+        "en": "What is a 'label'?"
+      },
+      "options": {
+        "de": ["Die richtige Antwort für ein Beispiel", "Ein Aufkleber auf dem PC", "Der Name des Computers", "Ein geheimes Passwort"],
+        "hu": ["A helyes válasz egy példához", "Egy matrica a PC-n", "A számítógép neve", "Egy titkos jelszó"],
+        "ro": ["Răspunsul corect pentru un exemplu", "Un autocolant pe PC", "Numele computerului", "O parolă secretă"],
+        "en": ["The correct answer for an example", "A sticker on the PC", "The computer's name", "A secret password"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wenn wir das Ziel kennen, ist es...?",
+        "hu": "Ha ismerjük a cél választ, akkor az...?",
+        "ro": "Dacă știm răspunsul țintă, este...?",
+        "en": "If we know the target answer, it is...?"
+      },
+      "options": {
+        "de": ["Überwacht", "Unüberwacht", "Unmöglich", "Einfaches Rechnen"],
+        "hu": ["Felügyelt", "Nem felügyelt", "Lehetetlen", "Egyszerű számolás"],
+        "ro": ["Supravegheată", "Nesupravegheată", "Imposibil", "Calcul simplu"],
+        "en": ["Supervised", "Unsupervised", "Impossible", "Simple calculation"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht unüberwachtes Lernen oft?",
+        "hu": "Mit csinál gyakran a nem felügyelt tanulás?",
+        "ro": "Ce face adesea învățarea nesupravegheată?",
+        "en": "What does unsupervised learning often do?"
+      },
+      "options": {
+        "de": ["Ähnliche Dinge gruppieren", "Fehler bestrafen", "Bilder malen", "Texte löschen"],
+        "hu": ["Hasonló dolgokat csoportosít", "Hibákat büntet", "Képeket fest", "Szövegeket töröl"],
+        "ro": ["Grupează lucruri similare", "Pedepsește erorile", "Pictează imagini", "Șterge texte"],
+        "en": ["Group similar things", "Punish errors", "Paint pictures", "Delete texts"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Lernen ist wie ein Schüler mit Lehrer?",
+        "hu": "Melyik tanulás olyan, mint a diák a tanárral?",
+        "ro": "Care învățare este ca un elev cu un profesor?",
+        "en": "Which learning is like a student with a teacher?"
+      },
+      "options": {
+        "de": ["Überwachtes Lernen", "Unüberwachtes Lernen", "Gar kein Lernen", "Spielen"],
+        "hu": ["Felügyelt tanulás", "Nem felügyelt tanulás", "Egyik sem", "Játék"],
+        "ro": ["Învățarea supravegheată", "Învățarea nesupravegheată", "Nicio învățare", "Joaca"],
+        "en": ["Supervised learning", "Unsupervised learning", "No learning at all", "Playing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Lernen erkundet Daten selbstständig?",
+        "hu": "Melyik tanulás fedezi fel az adatokat önállóan?",
+        "ro": "Care învățare explorează datele în mod independent?",
+        "en": "Which learning explores data independently?"
+      },
+      "options": {
+        "de": ["Unüberwachtes Lernen", "Überwachtes Lernen", "Auswendiglernen", "Gar keins"],
+        "hu": ["Nem felügyelt tanulás", "Felügyelt tanulás", "Magolás", "Egyik sem"],
+        "ro": ["Învățarea nesupravegheată", "Învățarea supravegheată", "Memorarea", "Niciuna"],
+        "en": ["Unsupervised learning", "Supervised learning", "Rote learning", "None"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können wir beide Arten mischen?",
+        "hu": "Keverhetjük a két típust?",
+        "ro": "Putem amesteca cele două tipuri?",
+        "en": "Can we mix both types?"
+      },
+      "options": {
+        "de": ["Ja (Semi-supervised)", "Nein, niemals", "Nur bei Robotern", "Nur im Internet"],
+        "hu": ["Igen (Semi-supervised)", "Nem, soha", "Csak robotoknál", "Csak az interneten"],
+        "ro": ["Da (Semi-supravegheată)", "Nu, niciodată", "Doar la roboți", "Doar pe internet"],
+        "en": ["Yes (Semi-supervised)", "No, never", "Only for robots", "Only on the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Lernen mit Labels?",
+        "hu": "Tanulás címkékkel?",
+        "ro": "Învățare cu etichete?",
+        "en": "Learning with labels?"
+      },
+      "answer": {
+        "de": "Überwacht",
+        "hu": "felügyelt",
+        "ro": "supravegheată",
+        "en": "supervised"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Lernen ohne Labels?",
+        "hu": "Tanulás címkék nélkül?",
+        "ro": "Învățare fără etichete?",
+        "en": "Learning without labels?"
+      },
+      "answer": {
+        "de": "Unüberwacht",
+        "hu": "nem felügyelt",
+        "ro": "nesupravegheată",
+        "en": "unsupervised"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die 'Antwort' bei Daten?",
+        "hu": "Hogy hívják a 'választ' az adatoknál?",
+        "ro": "Cum se numește „răspunsul” pentru date?",
+        "en": "What is the 'answer' for data called?"
+      },
+      "answer": {
+        "de": "Label",
+        "hu": "címke",
+        "ro": "etichetă",
+        "en": "label"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Gruppieren ohne Labels?",
+        "hu": "Csoportosítás címkék nélkül?",
+        "ro": "Grupare fără etichete?",
+        "en": "Grouping without labels?"
+      },
+      "answer": {
+        "de": "Clustering",
+        "hu": "klaszterezés",
+        "ro": "grupare",
+        "en": "clustering"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wer gibt die Labels?",
+        "hu": "Ki adja a címkéket?",
+        "ro": "Cine oferă etichetele?",
+        "en": "Who provides the labels?"
+      },
+      "answer": {
+        "de": "Mensch",
+        "hu": "ember",
+        "ro": "om",
+        "en": "human"
+      }
+    }
+  ],
+  "ai_k6_t1_3": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Datensatz?",
+        "hu": "Mi az az adatkészlet?",
+        "ro": "Ce este un set de date?",
+        "en": "What is a dataset?"
+      },
+      "options": {
+        "de": ["Eine Sammlung von Daten", "Ein leerer Ordner", "Ein kaputter Monitor", "Ein Computerspiel"],
+        "hu": ["Adatok gyűjteménye", "Egy üres mappa", "Egy törött monitor", "Egy számítógépes játék"],
+        "ro": ["O colecție de date", "Un dosar gol", "Un monitor spart", "Un joc pe calculator"],
+        "en": ["A collection of data", "An empty folder", "A broken monitor", "A computer game"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum brauchen wir große Datensätze?",
+        "hu": "Miért van szükségünk nagy adatkészletekre?",
+        "ro": "De ce avem nevoie de seturi mari de date?",
+        "en": "Why do we need large datasets?"
+      },
+      "options": {
+        "de": ["Damit die KI besser lernt", "Damit der PC schwerer wird", "Um Platz zu verschwenden", "Zum Spaß"],
+        "hu": ["Hogy a MI jobban tanuljon", "Hogy a PC nehezebb legyen", "Helypazarlás miatt", "Szórakozásból"],
+        "ro": ["Pentru ca IA să învețe mai bine", "Pentru ca PC-ul să fie mai greu", "Pentru a risipi spațiu", "Pentru distracție"],
+        "en": ["For the AI to learn better", "To make the PC heavier", "To waste space", "For fun"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Bilder Teil eines Datensatzes sein?",
+        "hu": "Lehetnek képek egy adatkészlet részei?",
+        "ro": "Pot fi imaginile parte a unui set de date?",
+        "en": "Can images be part of a dataset?"
+      },
+      "options": {
+        "de": ["Ja, sehr oft", "Nein, nur Zahlen", "Nur wenn sie schwarz-weiß sind", "Nur im Internet"],
+        "hu": ["Igen, nagyon gyakran", "Nem, csak számok", "Csak ha fekete-fehérek", "Csak az interneten"],
+        "ro": ["Da, foarte des", "Nu, doar cifre", "Doar dacă sunt alb-negru", "Doar pe internet"],
+        "en": ["Yes, very often", "No, only numbers", "Only if they are black and white", "Only on the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Rauschen' (Noise) in Daten?",
+        "hu": "Mi a 'zaj' (noise) az adatokban?",
+        "ro": "Ce este „zgomotul” (noise) în date?",
+        "en": "What is 'noise' in data?"
+      },
+      "options": {
+        "de": ["Falsche oder unnötige Informationen", "Laute Musik", "Ein kaputter Lautsprecher", "Ein Computer-Lüfter"],
+        "hu": ["Hibás vagy felesleges információk", "Hangos zene", "Egy rossz hangszóró", "Egy számítógép ventilátor"],
+        "ro": ["Informații false sau inutile", "Muzică tare", "Un difuzor stricat", "Un ventilator de computer"],
+        "en": ["Wrong or unnecessary information", "Loud music", "A broken speaker", "A computer fan"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist wichtiger: Qualität oder Quantität?",
+        "hu": "Mi a fontosabb: minőség vagy mennyiség?",
+        "ro": "Ce este mai important: calitatea sau cantitatea?",
+        "en": "What is more important: quality or quantity?"
+      },
+      "options": {
+        "de": ["Beides, aber Qualität ist entscheidend", "Nur die Menge zählt", "Nur die Farbe der Daten", "Beides ist egal"],
+        "hu": ["Mindkettő, de a minőség döntő", "Csak a mennyiség számít", "Csak az adatok színe", "Mindegy"],
+        "ro": ["Ambele, dar calitatea este decisivă", "Doar cantitatea contează", "Doar culoarea datelor", "Niciuna nu contează"],
+        "en": ["Both, but quality is crucial", "Only quantity matters", "Only the color of data", "Neither matters"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woher kommen Datensätze?",
+        "hu": "Honnan származnak az adatkészletek?",
+        "ro": "De unde provin seturile de date?",
+        "en": "Where do datasets come from?"
+      },
+      "options": {
+        "de": ["Sensoren, Nutzer, Internet", "Vom Mond", "Aus dem Supermarkt", "Vom Fernseher"],
+        "hu": ["Szenzorok, felhasználók, internet", "A Holdról", "A szupermarketből", "A tévéből"],
+        "ro": ["Senzori, utilizatori, internet", "De pe Lună", "De la supermarket", "De la televizor"],
+        "en": ["Sensors, users, internet", "From the Moon", "From the supermarket", "From the TV"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist ein einzelnes Foto ein Datensatz?",
+        "hu": "Egyetlen fotó már egy adatkészlet?",
+        "ro": "O singură fotografie este un set de date?",
+        "en": "Is a single photo a dataset?"
+      },
+      "options": {
+        "de": ["Normalerweise nein, man braucht viele", "Ja, immer", "Nur wenn es groß ist", "Nur wenn es bunt ist"],
+        "hu": ["Általában nem, sok kell hozzá", "Igen, mindig", "Csak ha nagy", "Csak ha színes"],
+        "ro": ["De obicei nu, e nevoie de multe", "Da, întotdeauna", "Doar dacă este mare", "Doar dacă este colorată"],
+        "en": ["Usually no, you need many", "Yes, always", "Only if it's large", "Only if it's colorful"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann ein Datensatz 'voreingenommen' (biased) sein?",
+        "hu": "Lehet egy adatkészlet elfogult (biased)?",
+        "ro": "Poate un set de date să fie „părtinitor” (biased)?",
+        "en": "Can a dataset be biased?"
+      },
+      "options": {
+        "de": ["Ja, wenn wichtige Daten fehlen", "Nein, Daten lügen nie", "Nur wenn der PC alt ist", "Nur am Montag"],
+        "hu": ["Igen, ha fontos adatok hiányoznak", "Nem, az adatok sosem hazudnak", "Csak ha régi a gép", "Csak hétfőn"],
+        "ro": ["Da, dacă lipsesc date importante", "Nu, datele nu mint niciodată", "Doar dacă PC-ul este vechi", "Doar lunea"],
+        "en": ["Yes, if important data is missing", "No, data never lies", "Only if the PC is old", "Only on Mondays"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind strukturierte Daten?",
+        "hu": "Mik azok a strukturált adatok?",
+        "ro": "Ce sunt datele structurate?",
+        "en": "What is structured data?"
+      },
+      "options": {
+        "de": ["Daten in Tabellen", "Ein Haufen Papier", "Zufällige Wörter", "Kaputte Dateien"],
+        "hu": ["Táblázatokba rendezett adatok", "Egy rakás papír", "Véletlen szavak", "Hibás fájlok"],
+        "ro": ["Date în tabele", "O grămadă de hârtie", "Cuvinte aleatorii", "Fișiere stricate"],
+        "en": ["Data in tables", "A pile of paper", "Random words", "Broken files"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Beispiel für unstrukturierte Daten?",
+        "hu": "Mi a példa a nem strukturált adatokra?",
+        "ro": "Care este un exemplu de date nestructurate?",
+        "en": "What is an example of unstructured data?"
+      },
+      "options": {
+        "de": ["Ein freier Text oder Videos", "Eine Excel-Tabelle", "Eine Liste mit Namen", "Ein Telefonbuch"],
+        "hu": ["Szövegek vagy videók", "Egy Excel táblázat", "Egy névsor", "Egy telefonkönyv"],
+        "ro": ["Un text liber sau videoclipuri", "Un tabel Excel", "O listă cu nume", "O carte de telefon"],
+        "en": ["Free text or videos", "An Excel table", "A list of names", "A phone book"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wort für Datensammlung?",
+        "hu": "Adatgyűjtemény neve?",
+        "ro": "Cuvânt pentru colecție de date?",
+        "en": "Word for a data collection?"
+      },
+      "answer": {
+        "de": "Datensatz",
+        "hu": "adatkészlet",
+        "ro": "set de date",
+        "en": "dataset"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Daten in Zeilen und Spalten?",
+        "hu": "Adatok sorokban és oszlopokban?",
+        "ro": "Date în rânduri și coloane?",
+        "en": "Data in rows and columns?"
+      },
+      "answer": {
+        "de": "Tabelle",
+        "hu": "táblázat",
+        "ro": "tabel",
+        "en": "table"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Falsche Infos in Daten?",
+        "hu": "Hibás infók az adatokban?",
+        "ro": "Informații false în date?",
+        "en": "Wrong info in data?"
+      },
+      "answer": {
+        "de": "Rauschen",
+        "hu": "zaj",
+        "ro": "zgomot",
+        "en": "noise"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Infos über Daten?",
+        "hu": "Adatokról szóló adatok?",
+        "ro": "Informații despre date?",
+        "en": "Information about data?"
+      },
+      "answer": {
+        "de": "Metadaten",
+        "hu": "metaadatok",
+        "ro": "metadate",
+        "en": "metadata"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Realität in Daten umwandeln?",
+        "hu": "Valóságot adatokká alakítani?",
+        "ro": "Transformarea realității în date?",
+        "en": "Converting reality into data?"
+      },
+      "answer": {
+        "de": "Digitalisierung",
+        "hu": "digitalizálás",
+        "ro": "digitalizare",
+        "en": "digitization"
+      }
+    }
+  ],
+  "ai_k6_t1_4": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum teilen wir Daten in Training und Test?",
+        "hu": "Miért osztjuk az adatokat tanítóra és tesztre?",
+        "ro": "De ce împărțim datele în antrenare și testare?",
+        "en": "Why do we split data into training and test?"
+      },
+      "options": {
+        "de": ["Um die Leistung zu prüfen", "Um Platz zu sparen", "Weil es Gesetz ist", "Aus Versehen"],
+        "hu": ["Hogy ellenőrizzük a teljesítményt", "Helyspórolás miatt", "Mert törvény írja elő", "Véletlenül"],
+        "ro": ["Pentru a verifica performanța", "Pentru a economisi spațiu", "Pentru că este lege", "Din greșeală"],
+        "en": ["To check performance", "To save space", "Because it's a law", "By accident"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür ist der Trainingssatz?",
+        "hu": "Mire való a tanító készlet?",
+        "ro": "La ce servește setul de antrenare?",
+        "en": "What is the training set for?"
+      },
+      "options": {
+        "de": ["Zum Lernen der KI", "Zum Löschen", "Zum Ausdrucken", "Zum Anschauen"],
+        "hu": ["A MI tanulásához", "Törlésre", "Nyomtatásra", "Nézegetésre"],
+        "ro": ["Pentru învățarea IA", "Pentru ștergere", "Pentru imprimare", "Pentru vizualizare"],
+        "en": ["For the AI to learn", "For deleting", "For printing", "For viewing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür ist der Testsatz?",
+        "hu": "Mire való a teszt készlet?",
+        "ro": "La ce servește setul de testare?",
+        "en": "What is the test set for?"
+      },
+      "options": {
+        "de": ["Zum Überprüfen der KI", "Zum Aufwärmen", "Zum Speichern von Musik", "Für den Papierkorb"],
+        "hu": ["A MI ellenőrzéséhez", "Bemelegítésre", "Zene tárolására", "A lomtárba"],
+        "ro": ["Pentru verificarea IA", "Pentru încălzire", "Pentru stocarea muzicii", "Pentru coșul de gunoi"],
+        "en": ["For checking the AI", "For warming up", "For storing music", "For the trash bin"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf die KI den Testsatz beim Lernen sehen?",
+        "hu": "Láthatja a MI a teszt készletet tanulás közben?",
+        "ro": "Poate IA să vadă setul de testare în timp ce învață?",
+        "en": "Can the AI see the test set while learning?"
+      },
+      "options": {
+        "de": ["Nein, das wäre Schummeln", "Ja, natürlich", "Nur wenn sie fragt", "Nur am Wochenende"],
+        "hu": ["Nem, az csalás lenne", "Igen, természetesen", "Csak ha kéri", "Csak hétvégén"],
+        "ro": ["Nu, ar fi trișat", "Da, desigur", "Doar dacă întreabă", "Doar în weekend"],
+        "en": ["No, that would be cheating", "Yes, of course", "Only if it asks", "Only on weekends"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Teil ist normalerweise größer?",
+        "hu": "Melyik rész általában nagyobb?",
+        "ro": "Care parte este de obicei mai mare?",
+        "en": "Which part is usually larger?"
+      },
+      "options": {
+        "de": ["Trainingssatz", "Testsatz", "Beide gleich groß", "Der Papierkorb"],
+        "hu": ["Tanító készlet", "Teszt készlet", "Mindkettő egyforma", "A lomtár"],
+        "ro": ["Setul de antrenare", "Setul de testare", "Ambele sunt egale", "Coșul de gunoi"],
+        "en": ["Training set", "Test set", "Both equal", "The trash bin"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert bei 'Overfitting'?",
+        "hu": "Mi történik 'túltanulásnál' (overfitting)?",
+        "ro": "Ce se întâmplă la „supra-învățare” (overfitting)?",
+        "en": "What happens during 'overfitting'?"
+      },
+      "options": {
+        "de": ["KI lernt auswendig statt zu verstehen", "KI schaltet sich aus", "KI wird zu schnell", "KI löscht alles"],
+        "hu": ["A MI bemagolja az adatokat ahelyett, hogy értené", "A MI kikapcsol", "A MI túl gyors lesz", "A MI töröl mindent"],
+        "ro": ["IA memorează datele în loc să le înțeleagă", "IA se oprește", "IA devine prea rapidă", "IA șterge totul"],
+        "en": ["AI memorizes instead of understanding", "AI turns off", "AI becomes too fast", "AI deletes everything"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Testsatz für einen Schüler?",
+        "hu": "Mi a teszt készlet megfelelője egy diáknál?",
+        "ro": "Ce este setul de testare pentru un elev?",
+        "en": "What is the equivalent of a test set for a student?"
+      },
+      "options": {
+        "de": ["Eine Klassenarbeit (Examen)", "Das Schulbuch", "Die Pause", "Der Schulweg"],
+        "hu": ["Egy dolgozat (vizsga)", "A tankönyv", "A szünet", "Az iskolába vezető út"],
+        "ro": ["O lucrare de control (examen)", "Manualul", "Pauza", "Drumul spre școală"],
+        "en": ["An exam (test)", "The textbook", "The break", "The way to school"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Trainingssatz für einen Schüler?",
+        "hu": "Mi a tanító készlet megfelelője egy diáknál?",
+        "ro": "Ce este setul de antrenare pentru un elev?",
+        "en": "What is the equivalent of a training set for a student?"
+      },
+      "options": {
+        "de": ["Übungsaufgaben und Bücher", "Das Zeugnis", "Die Ferien", "Der Sportunterricht"],
+        "hu": ["Gyakorló feladatok és könyvek", "A bizonyítvány", "A szünet", "A tornaóra"],
+        "ro": ["Exercițiile și cărțile", "Carnetul de note", "Vacanța", "Ora de sport"],
+        "en": ["Practice exercises and books", "The report card", "The break", "PE class"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wenn 100% Training aber 50% Test?",
+        "hu": "Ha 100% a tanításnál, de 50% a tesztnél?",
+        "ro": "Dacă e 100% la antrenare, dar 50% la testare?",
+        "en": "If it's 100% on training but 50% on test?"
+      },
+      "options": {
+        "de": ["Schlechte Verallgemeinerung", "Perfekte KI", "Computer ist kaputt", "Zu viel Strom"],
+        "hu": ["Rossz általánosítás", "Tökéletes MI", "Rossz a gép", "Túl sok áram"],
+        "ro": ["Generalizare slabă", "IA perfectă", "Computerul este stricat", "Prea mult curent"],
+        "en": ["Bad generalization", "Perfect AI", "Computer is broken", "Too much power"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann man Testdaten zum Trainieren nutzen?",
+        "hu": "Használhatjuk a teszt adatokat tanításra?",
+        "ro": "Putem folosi datele de testare pentru antrenare?",
+        "en": "Can we use test data for training?"
+      },
+      "options": {
+        "de": ["Besser nicht, sonst sind Ergebnisse falsch", "Ja, immer", "Nur wenn man wenig Daten hat", "Nur bei Bildern"],
+        "hu": ["Jobb nem, különben hamisak az eredmények", "Igen, mindig", "Csak ha kevés az adat", "Csak képeknél"],
+        "ro": ["Mai bine nu, altfel rezultatele sunt false", "Da, întotdeauna", "Doar dacă avem puține date", "Doar la imagini"],
+        "en": ["Better not, otherwise results are fake", "Yes, always", "Only if data is scarce", "Only for images"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Satz zum Lernen?",
+        "hu": "Tanuláshoz használt készlet?",
+        "ro": "Setul pentru învățare?",
+        "en": "Set used for learning?"
+      },
+      "answer": {
+        "de": "Training",
+        "hu": "tanító",
+        "ro": "antrenare",
+        "en": "training"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Satz zur Prüfung?",
+        "hu": "Ellenőrzéshez használt készlet?",
+        "ro": "Setul pentru verificare?",
+        "en": "Set used for checking?"
+      },
+      "answer": {
+        "de": "Test",
+        "hu": "teszt",
+        "ro": "testare",
+        "en": "test"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Daten in zwei ... teilen?",
+        "hu": "Az adatokat két ... osztjuk?",
+        "ro": "Împărțim datele în două ...?",
+        "en": "Splitting data into two ...?"
+      },
+      "answer": {
+        "de": "Teile",
+        "hu": "részre",
+        "ro": "părți",
+        "en": "parts"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "KI lernt auswendig?",
+        "hu": "Amikor a gép csak bemagolja az adatokat?",
+        "ro": "Când IA memorează datele?",
+        "en": "When AI just memorizes data?"
+      },
+      "answer": {
+        "de": "Overfitting",
+        "hu": "túltanulás",
+        "ro": "supra-învățare",
+        "en": "overfitting"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie viel Prozent für Training (oft)?",
+        "hu": "Hány százalék a tanításra (gyakran)?",
+        "ro": "Ce procent este pentru antrenare (adesea)?",
+        "en": "What percentage for training (often)?"
+      },
+      "answer": "80"
+    }
+  ],
+  "ai_k6_t1_5": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Accuracy (Genauigkeit)?",
+        "hu": "Mi az az Accuracy (pontosság)?",
+        "ro": "Ce este Accuracy (acuratețea)?",
+        "en": "What is accuracy?"
+      },
+      "options": {
+        "de": ["Anteil der richtigen Vorhersagen", "Die Geschwindigkeit der KI", "Die Größe der KI", "Der Preis des Computers"],
+        "hu": ["A helyes tippek aránya", "A MI sebessége", "A MI mérete", "A gép ára"],
+        "ro": ["Ponderea predicțiilor corecte", "Viteza IA", "Mărimea IA", "Prețul computerului"],
+        "en": ["Share of correct predictions", "AI speed", "AI size", "Computer price"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie rechnet man Accuracy aus?",
+        "hu": "Hogyan számoljuk ki a pontosságot?",
+        "ro": "Cum se calculează acuratețea?",
+        "en": "How do you calculate accuracy?"
+      },
+      "options": {
+        "de": ["Richtig / Gesamt", "Richtig + Falsch", "Gesamt - Richtig", "Zufällig raten"],
+        "hu": ["Helyes / Összes", "Helyes + Helytelen", "Összes - Helyes", "Véletlen tipp"],
+        "ro": ["Corecte / Total", "Corecte + Greșite", "Total - Corecte", "Ghicit la întâmplare"],
+        "en": ["Correct / Total", "Correct + Wrong", "Total - Correct", "Random guessing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist 100% Accuracy immer möglich?",
+        "hu": "Mindig lehetséges a 100%-os pontosság?",
+        "ro": "Este întotdeauna posibilă acuratețea de 100%?",
+        "en": "Is 100% accuracy always possible?"
+      },
+      "options": {
+        "de": ["Sehr selten, fast nie", "Ja, immer", "Nur bei Katzen", "Nur im Winter"],
+        "hu": ["Nagyon ritkán, szinte soha", "Igen, mindig", "Csak macskáknál", "Csak télen"],
+        "ro": ["Foarte rar, aproape niciodată", "Da, întotdeauna", "Doar la pisici", "Doar iarna"],
+        "en": ["Very rare, almost never", "Yes, always", "Only for cats", "Only in winter"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 0% Accuracy?",
+        "hu": "Mit jelent a 0%-os pontosság?",
+        "ro": "Ce înseamnă acuratețe de 0%?",
+        "en": "What does 0% accuracy mean?"
+      },
+      "options": {
+        "de": ["Jede Vorhersage war falsch", "Die KI ist perfekt", "Alles ist richtig", "Die KI schläft"],
+        "hu": ["Minden tipp hibás volt", "A MI tökéletes", "Minden helyes", "A MI alszik"],
+        "ro": ["Fiecare predicție a fost greșită", "IA este perfectă", "Totul este corect", "IA doarme"],
+        "en": ["Every prediction was wrong", "AI is perfect", "Everything is right", "AI is sleeping"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist hohe Accuracy immer gut?",
+        "hu": "A magas pontosság mindig jó?",
+        "ro": "Este acuratețea ridicată întotdeauna bună?",
+        "en": "Is high accuracy always good?"
+      },
+      "options": {
+        "de": ["Meistens, aber man muss auf Bias achten", "Ja, immer ohne Ausnahme", "Nein, es ist schlecht", "Egal"],
+        "hu": ["Legtöbbször igen, de figyelni kell az elfogultságra", "Igen, kivétel nélkül", "Nem, az rossz", "Mindegy"],
+        "ro": ["De cele mai multe ori, dar trebuie atenție la bias", "Da, întotdeauna fără excepție", "Nu, este rău", "Nu contează"],
+        "en": ["Mostly, but watch out for bias", "Yes, always without exception", "No, it is bad", "Doesn't matter"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was tun bei niedriger Accuracy?",
+        "hu": "Mit tegyünk, ha alacsony a pontosság?",
+        "ro": "Ce facem în caz de acuratețe scăzută?",
+        "en": "What to do if accuracy is low?"
+      },
+      "options": {
+        "de": ["Mehr Daten oder besseres Modell", "Den PC wegwerfen", "Nichts tun", "Weniger Daten nutzen"],
+        "hu": ["Több adat vagy jobb modell", "Kidobni a gépet", "Semmit", "Kevesebb adatot használni"],
+        "ro": ["Mai multe date sau un model mai bun", "Aruncăm PC-ul", "Nimic", "Folosim mai puține date"],
+        "en": ["More data or better model", "Throw away the PC", "Do nothing", "Use less data"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "9 von 10 richtig ist wie viel Accuracy?",
+        "hu": "10-ből 9 helyes tipp hány százalék pontosság?",
+        "ro": "9 din 10 corecte înseamnă ce acuratețe?",
+        "en": "9 out of 10 correct is what accuracy?"
+      },
+      "options": {
+        "de": ["90%", "10%", "50%", "100%"],
+        "hu": ["90%", "10%", "50%", "100%"],
+        "ro": ["90%", "10%", "50%", "100%"],
+        "en": ["90%", "10%", "50%", "100%"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann Accuracy bei mehr Daten steigen?",
+        "hu": "Nőhet a pontosság több adattal?",
+        "ro": "Poate crește acuratețea cu mai multe date?",
+        "en": "Can accuracy increase with more data?"
+      },
+      "options": {
+        "de": ["Ja, oft", "Nein, nie", "Nur bei kleinen PCs", "Nur wenn man bezahlt"],
+        "hu": ["Igen, gyakran", "Nem, soha", "Csak kis gépeknél", "Csak ha fizetünk"],
+        "ro": ["Da, adesea", "Nu, niciodată", "Doar la PC-uri mici", "Doar dacă plătești"],
+        "en": ["Yes, often", "No, never", "Only for small PCs", "Only if you pay"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum messen wir Accuracy?",
+        "hu": "Miért mérjük a pontosságot?",
+        "ro": "De ce măsurăm acuratețea?",
+        "en": "Why do we measure accuracy?"
+      },
+      "options": {
+        "de": ["Um zu wissen, ob die KI nützlich ist", "Um den PC zu heizen", "Um Speicher zu füllen", "Gegen Langeweile"],
+        "hu": ["Hogy tudjuk, hasznos-e a MI", "Hogy fűtsük a gépet", "Hogy betöltsük a memóriát", "Unalom ellen"],
+        "ro": ["Pentru a ști dacă IA este utilă", "Pentru a încălzi PC-ul", "Pentru a umple memoria", "Contra plictiselii"],
+        "en": ["To know if the AI is useful", "To heat the PC", "To fill memory", "Against boredom"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Accuracy der einzige Wert?",
+        "hu": "A pontosság az egyetlen fontos érték?",
+        "ro": "Este acuratețea singura valoare importantă?",
+        "en": "Is accuracy the only metric?"
+      },
+      "options": {
+        "de": ["Nein, es gibt andere (Precision, Recall)", "Ja, der einzige", "Nein, nur der Preis zählt", "Ja, alles andere ist egal"],
+        "hu": ["Nem, vannak mások is (Precision, Recall)", "Igen, az egyetlen", "Nem, csak az ár számít", "Igen, minden más mindegy"],
+        "ro": ["Nu, mai sunt și altele (Precision, Recall)", "Da, singura", "Nu, doar prețul contează", "Da, totul restul e egal"],
+        "en": ["No, there are others (Precision, Recall)", "Yes, the only one", "No, only price matters", "Yes, everything else is equal"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Maß für Richtigkeit?",
+        "hu": "Helyesség mérőszáma?",
+        "ro": "Măsura corectitudinii?",
+        "en": "Measure of correctness?"
+      },
+      "answer": {
+        "de": "Accuracy",
+        "hu": "pontosság",
+        "ro": "acuratețe",
+        "en": "accuracy"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "50% bedeutet ... der Antworten richtig?",
+        "hu": "50% azt jelenti, hogy a válaszok ... helyes?",
+        "ro": "50% înseamnă că ... din răspunsuri sunt corecte?",
+        "en": "50% means ... of answers are correct?"
+      },
+      "answer": {
+        "de": "Hälfte",
+        "hu": "fele",
+        "ro": "jumătate",
+        "en": "half"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wert zwischen 0 und ...?",
+        "hu": "Érték 0 és ... között?",
+        "ro": "Valoare între 0 și ...?",
+        "en": "Value between 0 and ...?"
+      },
+      "answer": "100"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Accuracy 1.0 ist ...?",
+        "hu": "Az 1.0-ás pontosság ...?",
+        "ro": "Acuratețea de 1.0 este ...?",
+        "en": "Accuracy of 1.0 is ...?"
+      },
+      "answer": {
+        "de": "Perfekt",
+        "hu": "tökéletes",
+        "ro": "perfect",
+        "en": "perfect"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Accuracy verbessern nennt man ...?",
+        "hu": "A pontosság javítását ... hívjuk?",
+        "ro": "Îmbunătățirea acurateței se numește ...?",
+        "en": "Improving accuracy is called ...?"
+      },
+      "answer": {
+        "de": "Optimierung",
+        "hu": "optimalizálás",
+        "ro": "optimizare",
+        "en": "optimization"
+      }
+    }
+  ],
+  "ai_k6_t1_6": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Klassifizierung?",
+        "hu": "Mi az osztályozás (klasszifikáció)?",
+        "ro": "Ce este clasificarea?",
+        "en": "What is classification?"
+      },
+      "options": {
+        "de": ["Dinge in Kategorien einteilen", "Bilder löschen", "Rechnen üben", "Internet surfen"],
+        "hu": ["Dolgok kategóriákba sorolása", "Képek törlése", "Számolás gyakorlása", "Internet böngészés"],
+        "ro": ["Împărțirea lucrurilor în categorii", "Ștergerea imaginilor", "Exersarea calculelor", "Navigarea pe internet"],
+        "en": ["Sorting things into categories", "Deleting images", "Practicing calculations", "Surfing the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Hund vs. Katze eine Klassifizierung?",
+        "hu": "Az kutya vs. macska egy osztályozás?",
+        "ro": "Este câine vs. pisică o clasificare?",
+        "en": "Is dog vs. cat a classification?"
+      },
+      "options": {
+        "de": ["Ja", "Nein", "Nur bei Welpen", "Nur bei Fotos"],
+        "hu": ["Igen", "Nem", "Csak kiskutyáknál", "Csak fotóknál"],
+        "ro": ["Da", "Nu", "Doar la cățeluși", "Doar la fotografii"],
+        "en": ["Yes", "No", "Only for puppies", "Only for photos"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Spam vs. Kein Spam ist...?",
+        "hu": "A Spam vs. Nem spam az...?",
+        "ro": "Spam vs. Nu e spam este...?",
+        "en": "Spam vs. Not Spam is...?"
+      },
+      "options": {
+        "de": ["Klassifizierung", "Malen", "Schreiben", "Löschen"],
+        "hu": ["Osztályozás", "Festés", "Írás", "Törlés"],
+        "ro": ["Clasificare", "Pictură", "Scriere", "Ștergere"],
+        "en": ["Classification", "Painting", "Writing", "Deleting"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie viele Klassen kann man haben?",
+        "hu": "Hány osztály (kategória) lehet?",
+        "ro": "Câte clase (categorii) pot exista?",
+        "en": "How many classes can we have?"
+      },
+      "options": {
+        "de": ["Zwei oder mehr", "Immer nur eine", "Immer genau zehn", "Nur ungerade Zahlen"],
+        "hu": ["Kettő vagy több", "Mindig csak egy", "Mindig pontosan tíz", "Csak páratlan számok"],
+        "ro": ["Două sau mai multe", "Întotdeauna doar una", "Întotdeauna exact zece", "Doar cifre impare"],
+        "en": ["Two or more", "Always just one", "Always exactly ten", "Only odd numbers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet binäre Klassifizierung?",
+        "hu": "Mit jelent a bináris osztályozás?",
+        "ro": "Ce Throat este clasificarea binară?",
+        "en": "What does binary classification mean?"
+      },
+      "options": {
+        "de": ["Es gibt genau zwei Klassen", "Es gibt keine Klassen", "Es geht um Zahlen", "Die KI ist binär"],
+        "hu": ["Pontosan két osztály van", "Nincsenek osztályok", "Számokról szól", "A MI bináris"],
+        "ro": ["Există exact două clase", "Nu există clase", "E vorba de cifre", "IA este binară"],
+        "en": ["There are exactly two classes", "There are no classes", "It's about numbers", "The AI is binary"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet Multi-Klassen Klassifizierung?",
+        "hu": "Mit jelent a több osztályos (multi-class) osztályozás?",
+        "ro": "Ce înseamnă clasificarea multi-clasă?",
+        "en": "What does multi-class classification mean?"
+      },
+      "options": {
+        "de": ["Mehr als zwei Klassen", "Genau zwei Klassen", "Keine Klassen", "Viele Computer"],
+        "hu": ["Több, mint két osztály", "Pontosan két osztály", "Nincsenek osztályok", "Sok számítógép"],
+        "ro": ["Mai mult de două clase", "Exact două clase", "Nicio clasă", "Multe computere"],
+        "en": ["More than two classes", "Exactly two classes", "No classes", "Many computers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was gibt das Modell aus?",
+        "hu": "Mit ad ki eredményül a modell?",
+        "ro": "Ce oferă modelul ca rezultat?",
+        "en": "What does the model output?"
+      },
+      "options": {
+        "de": ["Eine Kategorie (Label)", "Eine Farbe", "Einen Ton", "Ein Video"],
+        "hu": ["Egy kategóriát (címkét)", "Egy színt", "Egy hangot", "Egy videót"],
+        "ro": ["O categorie (etichetă)", "O culoare", "Un sunet", "Un videoclip"],
+        "en": ["A category (label)", "A color", "A sound", "A video"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Beispiel für Bildklassifizierung?",
+        "hu": "Példa kép-osztályozásra?",
+        "ro": "Exemplu de clasificare a imaginilor?",
+        "en": "Example of image classification?"
+      },
+      "options": {
+        "de": ["Früchte auf Fotos erkennen", "Musik komponieren", "Auto waschen", "Wandern"],
+        "hu": ["Gyümölcsök felismerése fotón", "Zeneszerzés", "Autómosás", "Túrázás"],
+        "ro": ["Recunoașterea fructelor în poze", "Compunerea muzicii", "Spălarea mașinii", "Drumeții"],
+        "en": ["Identifying fruits in photos", "Composing music", "Washing a car", "Hiking"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Wettertemperatur (Zahl) eine Klassifizierung?",
+        "hu": "A hőmérséklet (szám) osztályozás?",
+        "ro": "Temperatura meteo (cifră) este o clasificare?",
+        "en": "Is weather temperature (number) a classification?"
+      },
+      "options": {
+        "de": ["Nein, das ist Regression", "Ja, immer", "Nur im Sommer", "Nur wenn es heiß ist"],
+        "hu": ["Nem, az regresszió", "Igen, mindig", "Csak nyáron", "Csak ha meleg van"],
+        "ro": ["Nu, aceea este regresie", "Da, întotdeauna", "Doar vara", "Doar dacă este cald"],
+        "en": ["No, that's regression", "Yes, always", "Only in summer", "Only if it's hot"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Input bei Bildklassifizierung?",
+        "hu": "Mi a bemenet a kép-osztályozásnál?",
+        "ro": "Care este intrarea la clasificarea imaginilor?",
+        "en": "What is the input for image classification?"
+      },
+      "options": {
+        "de": ["Pixel / Bilder", "Töne", "Geruch", "Gedanken"],
+        "hu": ["Pixelek / Képek", "Hangok", "Szagok", "Gondolatok"],
+        "ro": ["Pixeli / Imagini", "Sunete", "Miros", "Gânduri"],
+        "en": ["Pixels / Images", "Sounds", "Smell", "Thoughts"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Dinge in Gruppen teilen?",
+        "hu": "Dolgok csoportokba osztása?",
+        "ro": "Împărțirea lucrurilor în grupuri?",
+        "en": "Splitting things into groups?"
+      },
+      "answer": {
+        "de": "Klassifizierung",
+        "hu": "osztályozás",
+        "ro": "clasificare",
+        "en": "classification"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Klassifizierung mit 2 Optionen?",
+        "hu": "Osztályozás 2 opcióval?",
+        "ro": "Clasificare cu 2 opțiuni?",
+        "en": "Classification with 2 options?"
+      },
+      "answer": {
+        "de": "Binär",
+        "hu": "bináris",
+        "ro": "binară",
+        "en": "binary"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Name einer Gruppe?",
+        "hu": "Egy csoport neve az osztályozásban?",
+        "ro": "Numele unui grup în clasificare?",
+        "en": "Name of a group in classification?"
+      },
+      "answer": {
+        "de": "Klasse",
+        "hu": "osztály",
+        "ro": "clasă",
+        "en": "class"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "E-Mail Filter für Müll?",
+        "hu": "E-mail szűrő a szemétnek?",
+        "ro": "Filtru e-mail pentru gunoi?",
+        "en": "Email filter for junk?"
+      },
+      "answer": "Spam"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist auf dem Foto?",
+        "hu": "Mi van a fotón?",
+        "ro": "Ce este în fotografie?",
+        "en": "What is in the photo?"
+      },
+      "answer": {
+        "de": "Erkennung",
+        "hu": "felismerés",
+        "ro": "recunoaștere",
+        "en": "recognition"
+      }
+    }
+  ]
+}

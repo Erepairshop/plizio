@@ -1,0 +1,877 @@
+{
+  "1": {
+    "theme": "Scratch bevezetés",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a Scratch?", "options": ["Vizuális programozási nyelv", "Egy fajta sütemény", "Hardver eszköz", "Operációs rendszer"], "answer": "Vizuális programozási nyelv"},
+        {"question": "Ki fejlesztette a Scratch-et?", "options": ["MIT Media Lab", "Microsoft", "Google", "NASA"], "answer": "MIT Media Lab"},
+        {"question": "Melyik állat a Scratch jelképe?", "options": ["Macska", "Kutya", "Egér", "Medve"], "answer": "Macska"},
+        {"question": "Hol használhatjuk a Scratch-et?", "options": ["Böngészőben", "Csak papíron", "Csak televízión", "Kizárólag telefonon"], "answer": "Böngészőben"},
+        {"question": "Mire jó a Scratch?", "options": ["Játékok és animációk készítésére", "Főzésre", "Sportolásra", "Autóvezetésre"], "answer": "Játékok és animációk készítésére"},
+        {"question": "Mi az a 'szereplő' a Scratch-ben?", "options": ["Egy objektum, amit programozunk", "A billentyűzet", "A monitor", "A felhasználó"], "answer": "Egy objektum, amit programozunk"},
+        {"question": "Mi az a 'háttér'?", "options": ["A színpad kinézete", "A számítógép háta", "Egy programkód", "Egy hangfájl"], "answer": "A színpad kinézete"},
+        {"question": "Milyen blokkokkal kezdünk általában egy programot?", "options": ["Esemény blokkokkal", "Mozgás blokkokkal", "Változó blokkokkal", "Hang blokkokkal"], "answer": "Esemény blokkokkal"},
+        {"question": "Mit jelent a 'vonszolás'?", "options": ["Blokkok mozgatása az egérrel", "A gép kikapcsolása", "Rajzolás", "Gépelés"], "answer": "Blokkok mozgatása az egérrel"},
+        {"question": "Mi a Scratch online közössége?", "options": ["Egy hely, ahol megoszthatjuk projektjeinket", "Egy bolt", "Egy iskola", "Egy sportklub"], "answer": "Egy hely, ahol megoszthatjuk projektjeinket"},
+        {"question": "Lehet-e magyarul használni a Scratch-et?", "options": ["Igen, teljesen", "Nem, csak angolul", "Csak németül", "Csak kínaiul"], "answer": "Igen, teljesen"},
+        {"question": "Mi a 'színpad'?", "options": ["Ahol a szereplők mozognak", "A billentyűzet", "Az egérpad", "A szék"], "answer": "Ahol a szereplők mozognak"},
+        {"question": "Hogyan menthetjük el a munkánkat?", "options": ["A Fájl menüben", "Sehogy", "Kikapcsolással", "Kiabálással"], "answer": "A Fájl menüben"},
+        {"question": "Milyen színűek a 'Kinézet' blokkok?", "options": ["Lila", "Kék", "Zöld", "Sárga"], "answer": "Lila"},
+        {"question": "Mi a blokk-alapú programozás lényege?", "options": ["Kész kódblokkokat illesztünk össze", "Kódot gépelünk", "Csak képeket nézünk", "Semmit nem kell csinálni"], "answer": "Kész kódblokkokat illesztünk össze"},
+        {"question": "Hány éves kortól ajánlott a Scratch?", "options": ["8-16", "0-2", "99 felett", "Csak felnőtteknek"], "answer": "8-16"},
+        {"question": "Mi a Scratch Desktop?", "options": ["A Scratch internet nélküli változata", "Egy asztali gép", "Egy egér", "Egy füzet"], "answer": "A Scratch internet nélküli változata"},
+        {"question": "Mit csinál a zöld zászló?", "options": ["Elindítja a programot", "Megállítja a programot", "Törli a programot", "Színezi a hátteret"], "answer": "Elindítja a programot"},
+        {"question": "Mit csinál a piros nyolcszög?", "options": ["Megállítja a programot", "Elindítja", "Gyorsítja", "Lassítja"], "answer": "Megállítja a programot"},
+        {"question": "Mi az a 'Jelmez'?", "options": ["A szereplő egy kinézete", "Egy ruha az embernek", "A háttér neve", "A hang neve"], "answer": "A szereplő egy kinézete"},
+        {"question": "Lehet-e saját képet feltölteni szereplőnek?", "options": ["Igen", "Nem", "Csak fekete-fehéret", "Csak rajzoltat"], "answer": "Igen"},
+        {"question": "Mi a 'Hátizsák' funkció?", "options": ["Kódok másolása projektek között", "Egy táska a rajzoknak", "A gép hűtése", "A fájlok törlése"], "answer": "Kódok másolása projektek között"},
+        {"question": "Hogyan törölhetünk egy blokkot?", "options": ["Visszahúzzuk a menübe", "Ráfújunk", "Kikapcsoljuk a gépet", "Megnyomjuk a szóközt"], "answer": "Visszahúzzuk a menübe"},
+        {"question": "Mire való a 'Segítség' menü?", "options": ["Útmutatókat tartalmaz", "Ételrendelésre", "Játékra", "Alvásra"], "answer": "Útmutatókat tartalmaz"},
+        {"question": "Mi a projekt neve?", "options": ["A munkánk címe", "A felhasználó neve", "A gép típusa", "A dátum"], "answer": "A munkánk címe"}
+      ],
+      "typing": [
+        "Scratch", "programozás", "kódolás", "szereplő", "blokk", "színpad", "algoritmus", "informatika", "macska", "projekt"
+      ]
+    }
+  },
+  "2": {
+    "theme": "Szkriptek és blokkok",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a szkript?", "options": ["Blokkok egymáshoz kapcsolt sorozata", "Egy darab kép", "Egy hangfájl", "A monitor neve"], "answer": "Blokkok egymáshoz kapcsolt sorozata"},
+        {"question": "Milyen alakúak a kezdő blokkok?", "options": ["Kerek tetejűek", "Szögletesek", "Háromszög alakúak", "Csillag alakúak"], "answer": "Kerek tetejűek"},
+        {"question": "Hogyan kapcsolódnak a blokkok?", "options": ["Mint a LEGO kockák", "Ragasztóval", "Mágnessel", "Nem kapcsolódnak"], "answer": "Mint a LEGO kockák"},
+        {"question": "Hová húzzuk a blokkokat a programozáshoz?", "options": ["A kód területre", "A kuka mellé", "A képernyő szélére", "A szomszéd gépre"], "answer": "A kód területre"},
+        {"question": "Mit jelent, ha egy blokk sárga?", "options": ["Esemény típusú", "Mozgás típusú", "Hang típusú", "Rossz blokk"], "answer": "Esemény típusú"},
+        {"question": "Mit jelent, ha egy blokk kék?", "options": ["Mozgás típusú", "Kinézet típusú", "Vezérlés", "Érzékelés"], "answer": "Mozgás típusú"},
+        {"question": "Mi történik, ha kettéválasztunk egy szkriptet?", "options": ["Az alsó rész különválik", "Eltűnik a kód", "Kikapcsol a gép", "Megváltozik a szín"], "answer": "Az alsó rész különválik"},
+        {"question": "Hány szkriptje lehet egy szereplőnek?", "options": ["Bármennyi", "Csak egy", "Pontosan kettő", "Egy sem"], "answer": "Bármennyi"},
+        {"question": "Mire való a 'Megjegyzés' a kód mellett?", "options": ["Magyarázatot fűzhetünk hozzá", "Rajzolhatunk rá", "Elrejti a kódot", "Törli a blokkot"], "answer": "Magyarázatot fűzhetünk hozzá"},
+        {"question": "Mit csinál a 'Tisztítás' funkció a kód területen?", "options": ["Rendezi a blokkokat", "Letörli a monitort", "Törli az összes kódot", "Kikapcsolja a hangot"], "answer": "Rendezi a blokkokat"},
+        {"question": "Mi az a 'kalap' blokk?", "options": ["A szkript elején álló indító blokk", "Egy ruhadarab", "Egy kör alakú blokk", "Egy változó"], "answer": "A szkript elején álló indító blokk"},
+        {"question": "Hogyan másolhatunk le egy szkriptet?", "options": ["Jobb gomb -> Másolat készítése", "Újra kell építeni", "Fényképezéssel", "Kiabálással"], "answer": "Jobb gomb -> Másolat készítése"},
+        {"question": "Milyen blokk végzi a számolást?", "options": ["Műveletek", "Kinézet", "Hang", "Események"], "answer": "Műveletek"},
+        {"question": "Mit csinál a 'várj 1 másodpercet' blokk?", "options": ["Szünetet tart a futásban", "Felgyorsítja a gépet", "Megállítja örökre", "Bezárja az ablakot"], "answer": "Szünetet tart a futásban"},
+        {"question": "Milyen színű a 'Vezérlés' kategória?", "options": ["Narancssárga", "Kék", "Lila", "Piros"], "answer": "Narancssárga"},
+        {"question": "Mi az a 'C-blokk'?", "options": ["Olyan blokk, amibe más blokkokat tehetünk", "Egy kör alakú blokk", "A kék blokk neve", "A végén álló blokk"], "answer": "Olyan blokk, amibe más blokkokat tehetünk"},
+        {"question": "Hány bemenete lehet egy blokknak?", "options": ["Egy vagy több", "Semennyi", "Pontosan száz", "Csak tíz"], "answer": "Egy vagy több"},
+        {"question": "Mit jelent a fehér kör a blokkban?", "options": ["Értéket írhatunk bele", "Ott kell rákattintani", "Lyukas a blokk", "Ott romlott el"], "answer": "Értéket írhatunk bele"},
+        {"question": "Lehet-e saját blokkot készíteni?", "options": ["Igen, a Saját blokkok menüben", "Nem, tilos", "Csak ha engedik", "Csak angolul"], "answer": "Igen, a Saját blokkok menüben"},
+        {"question": "Mikor fut le egy szkript?", "options": ["Amikor az indító esemény bekövetkezik", "Bármikor magától", "Csak éjszaka", "Amikor bekapcsoljuk a lámpát"], "answer": "Amikor az indító esemény bekövetkezik"},
+        {"question": "Mi az a 'Boolean' blokk alakja?", "options": ["Hatszögletű", "Kerek", "Négyzet", "Nincs alakja"], "answer": "Hatszögletű"},
+        {"question": "Mit ad vissza egy Boolean blokk?", "options": ["Igaz vagy Hamis értéket", "Egy számot", "Egy nevet", "Egy képet"], "answer": "Igaz vagy Hamis értéket"},
+        {"question": "Hol látható a szkript hatása?", "options": ["A Színpadon", "A billentyűzeten", "A falon", "A nyomtatón"], "answer": "A Színpadon"},
+        {"question": "Milyen színű az 'Érzékelés' kategória?", "options": ["Világoskék", "Sötétkék", "Zöld", "Barna"], "answer": "Világoskék"},
+        {"question": "Mi történik, ha egy blokkot a kuka ikonra húzunk?", "options": ["Törlődik", "Megduplázódik", "Megváltozik a színe", "Hangot ad ki"], "answer": "Törlődik"}
+      ],
+      "typing": [
+        "szkript", "parancs", "építés", "kapcsolat", "vezérlés", "művelet", "érzékelés", "esemény", "beállítás", "sorrend"
+      ]
+    }
+  },
+  "3": {
+    "theme": "Sprite-ok",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a Sprite?", "options": ["Egy szereplő", "Egy ital", "A háttér", "A kurzor"], "answer": "Egy szereplő"},
+        {"question": "Hogyan nevezzük el a Sprite-ot?", "options": ["A név mezőbe írva", "Sehogy", "Kiabálunk neki", "Rárajzoljuk"], "answer": "A név mezőbe írva"},
+        {"question": "Hol láthatjuk az összes Sprite-ot?", "options": ["A Sprite listában", "A menüben", "A kukában", "A felhőben"], "answer": "A Sprite listában"},
+        {"question": "Hogyan adhatunk hozzá új Sprite-ot?", "options": ["A macska ikonra kattintva", "A fájl mentéssel", "Kikapcsolással", "Várni kell"], "answer": "A macska ikonra kattintva"},
+        {"question": "Mit jelent a Sprite iránya?", "options": ["Merre néz a képernyőn", "Milyen gyors", "Milyen színes", "Hogy hívják"], "answer": "Merre néz a képernyőn"},
+        {"question": "Mit jelent a Sprite mérete?", "options": ["Mekkora a képernyőn", "Hány bájt", "Milyen hangos", "Hány éves"], "answer": "Mekkora a képernyőn"},
+        {"question": "Mit csinál a Sprite központja?", "options": ["A forgatás és elhelyezés középpontja", "Ott lakik a Sprite", "Semmit", "Ott van a szeme"], "answer": "A forgatás és elhelyezés középpontja"},
+        {"question": "Hogyan rejthetünk el egy Sprite-ot?", "options": ["Az áthúzott szem ikonnal", "Letakarjuk a monitort", "Töröljük", "Kikapcsoljuk"], "answer": "Az áthúzott szem ikonnal"},
+        {"question": "Lehet-e több jelmeze egy Sprite-nak?", "options": ["Igen", "Nem", "Csak kettő", "Csak ha nagy"], "answer": "Igen"},
+        {"question": "Mi a vektoros rajzolás?", "options": ["Vonalakkal és formákkal történő rajzolás", "Pontokkal rajzolás", "Fényképezés", "Színezés"], "answer": "Vonalakkal és formákkal történő rajzolás"},
+        {"question": "Mi a pixeles (bitmap) rajzolás?", "options": ["Pontokból álló kép", "Vonalakból álló kép", "Zene", "Szöveg"], "answer": "Pontokból álló kép"},
+        {"question": "Hogyan lehet törölni egy Sprite-ot?", "options": ["A rajta lévő kuka ikonnal", "Megütjük", "Ráfújunk", "Elrejtjük"], "answer": "A rajta lévő kuka ikonnal"},
+        {"question": "Mit csinál a 'Bélyegző' eszköz?", "options": ["Másolatot készít a Sprite-ról a háttérre", "Lepecsételi a monitort", "Törli a Sprite-ot", "Színezi"], "answer": "Másolatot készít a Sprite-ról a háttérre"},
+        {"question": "Lehet-e a Sprite-nak saját hangja?", "options": ["Igen", "Nem", "Csak ha beszél", "Csak zenével"], "answer": "Igen"},
+        {"question": "Mit jelent a Sprite koordinátája?", "options": ["A pontos helye (X, Y)", "A neve", "A színe", "A súlya"], "answer": "A pontos helye (X, Y)"},
+        {"question": "Melyik irány a 90 fok?", "options": ["Jobbra", "Balra", "Fel", "Le"], "answer": "Jobbra"},
+        {"question": "Melyik irány a 0 fok?", "options": ["Fel", "Le", "Jobbra", "Balra"], "answer": "Fel"},
+        {"question": "Hogyan forgathatunk meg egy Sprite-ot?", "options": ["Az irány beállításával", "Megforgatjuk a monitort", "Nem lehet", "Kiabálással"], "answer": "Az irány beállításával"},
+        {"question": "Mi az a forgatási stílus?", "options": ["Meghatározza, hogyan forduljon a Sprite", "Egy táncstílus", "A kód színe", "A hang ereje"], "answer": "Meghatározza, hogyan forduljon a Sprite"},
+        {"question": "Mit jelent a 'balra-jobbra' forgatási stílus?", "options": ["Csak tükröződik balra vagy jobbra", "Mindenfelé forog", "Nem mozog", "Fejre áll"], "answer": "Csak tükröződik balra vagy jobbra"},
+        {"question": "Mit jelent a 'ne forogjon' stílus?", "options": ["Mindig ugyanarra néz", "Megáll a mozgás", "Láthatatlan lesz", "Törlődik"], "answer": "Mindig ugyanarra néz"},
+        {"question": "Lehet-e a Sprite-ot egérrel mozgatni a szerkesztőben?", "options": ["Igen", "Nem", "Csak ha engedjük", "Csak éjszaka"], "answer": "Igen"},
+        {"question": "Mi történik, ha a méret 200%?", "options": ["Kétszer akkora lesz", "Fele akkora lesz", "Ugyanakkora marad", "Eltűnik"], "answer": "Kétszer akkora lesz"},
+        {"question": "Mi történik, ha a méret 50%?", "options": ["Fele akkora lesz", "Kétszer akkora lesz", "Ugyanakkora marad", "Piros lesz"], "answer": "Fele akkora lesz"},
+        {"question": "Hogyan lehet egy Sprite-ot átnevezni?", "options": ["A Sprite tulajdonságainál a név mezőben", "A kód területen", "A fájl menüben", "Az egérrel kattintva a fejére"], "answer": "A Sprite tulajdonságainál a név mezőben"}
+      ],
+      "typing": [
+        "szereplő", "jelmez", "rajzolás", "másolás", "törlés", "méret", "irány", "központ", "lista", "név"
+      ]
+    }
+  },
+  "4": {
+    "theme": "Mozgatás parancsok",
+    "tasks": {
+      "mcq": [
+        {"question": "Melyik blokk mozgatja a Sprite-ot előre?", "options": ["Menj 10 lépést", "Fordulj 15 fokot", "Ugorj ide", "Várj"], "answer": "Menj 10 lépést"},
+        {"question": "Mit csinál a 'fordulj jobbra' blokk?", "options": ["Adott fokkal elforgatja a Sprite-ot", "Megfordítja a monitort", "Jobbra megy", "Leül"], "answer": "Adott fokkal elforgatja a Sprite-ot"},
+        {"question": "Melyik koordináta a vízszintes irány?", "options": ["X", "Y", "Z", "W"], "answer": "X"},
+        {"question": "Melyik koordináta a függőleges irány?", "options": ["Y", "X", "A", "B"], "answer": "Y"},
+        {"question": "Hol van a (0, 0) point?", "options": ["A Színpad közepén", "A bal felső sarokban", "A jobb alsó sarokban", "A billentyűzeten"], "answer": "A Színpad közepén"},
+        {"question": "Melyik blokk viszi a Sprite-ot egy pontos helyre azonnal?", "options": ["Ugorj (x, y) helyre", "Sússz (x, y) helyre", "Menj 10 lépést", "Fordulj"], "answer": "Ugorj (x, y) helyre"},
+        {"question": "Mi a különbség az 'ugorj' és a 'csússz' között?", "options": ["A csúszás látható mozgás", "Nincs különbség", "Az ugorj lassabb", "A csússz azonnali"], "answer": "A csúszás látható mozgás"},
+        {"question": "Mit csinál a 'ha szélen vagy, pattanj vissza' blokk?", "options": ["Megfordul, ha eléri a szélét", "Kiesik a képből", "Megáll", "Törli magát"], "answer": "Megfordul, ha eléri a szélét"},
+        {"question": "Hogyan állíthatjuk be a Sprite X helyzetét?", "options": ["X legyen ... blokkal", "Y legyen ... blokkal", "Szín blokkal", "Hang blokkal"], "answer": "X legyen ... blokkal"},
+        {"question": "Mivel növelhetjük az Y értéket?", "options": ["Y változzon ...-el", "X változzon", "Menj 10 lépést", "Fordulj"], "answer": "Y változzon ...-el"},
+        {"question": "Melyik blokk irányítja a Sprite-ot az egérmutató felé?", "options": ["Nézz az egérmutató felé", "Menj az egérhez", "Ugorj az egérre", "Várj az egérre"], "answer": "Nézz az egérmutató felé"},
+        {"question": "Mit csinál a 'nézz ... irányba' blokk?", "options": ["Pontos fokra állítja az irányt", "Összevissza forog", "Megállítja a forgást", "Láthatatlanná tesz"], "answer": "Pontos fokra állítja az irányt"},
+        {"question": "Hogyan mozgathatunk egy Sprite-ot balra?", "options": ["X változzon negatív számmal", "X változzon pozitív számmal", "Y változzon", "Menj 10 lépést"], "answer": "X változzon negatív számmal"},
+        {"question": "Hogyan mozgathatunk egy Sprite-ot fel?", "options": ["Y változzon pozitív számmal", "Y változzon negatív számmal", "X változzon", "Fordulj"], "answer": "Y változzon pozitív számmal"},
+        {"question": "Mekkora a Színpad szélessége?", "options": ["480 egység", "100 egység", "1000 egység", "Végtelen"], "answer": "480 egység"},
+        {"question": "Mekkora a Színpad magassága?", "options": ["360 egység", "200 egység", "500 egység", "50 egység"], "answer": "360 egység"},
+        {"question": "Mit jelent a 'siklás 1 másodpercig'?", "options": ["Folyamatos mozgás 1 mp alatt", "Várakozás", "Gyors ugrás", "Lassú forgás"], "answer": "Folyamatos mozgás 1 mp alatt"},
+        {"question": "Hogyan tudjuk lekérdezni a Sprite aktuális X helyzetét?", "options": ["Az 'x helyzet' kerek blokkal", "Ránézéssel", "Megkérdezzük a macskát", "Nem lehet"], "answer": "Az 'x helyzet' kerek blokkal"},
+        {"question": "Milyen irányba néz a Sprite, ha az iránya 180?", "options": ["Le", "Fel", "Jobbra", "Balra"], "answer": "Le"},
+        {"question": "Milyen irányba néz a Sprite, ha az iránya -90?", "options": ["Balra", "Jobbra", "Fel", "Le"], "answer": "Balra"},
+        {"question": "Mit csinál a 'menj (véletlen helyre)' blokk?", "options": ["Bárhová ugorhat a színpadon", "Kimegy a szobából", "Mindig középre megy", "Törli a Sprite-ot"], "answer": "Bárhová ugorhat a színpadon"},
+        {"question": "Lehet-e a mozgás sebességét változtatni?", "options": ["Igen, a lépések számával", "Nem, mindig fix", "Csak ha új gépet veszünk", "Csak éjszaka"], "answer": "Igen, a lépések számával"},
+        {"question": "Hogyan érhetjük el, hogy a Sprite kövesse az egeret?", "options": ["Mindig: nézz az egér felé + menj", "Egyszer rákattintunk", "Megnyomjuk az Entert", "Várunk"], "answer": "Mindig: nézz az egér felé + menj"},
+        {"question": "Mit csinál a 'pont ... felé nézzen' blokk?", "options": ["Egy másik Sprite felé fordítja", "A fal felé fordítja", "Megállítja a Sprite-ot", "Elrejti"], "answer": "Egy másik Sprite felé fordítja"},
+        {"question": "Milyen színűek a mozgás blokkok?", "options": ["Sötétkék", "Lila", "Zöld", "Sárga"], "answer": "Sötétkék"}
+      ],
+      "typing": [
+        "mozgás", "lépés", "fordulás", "irány", "koordináta", "tengely", "helyzet", "csúszás", "ugrás", "pattanás"
+      ]
+    }
+  },
+  "5": {
+    "theme": "Animáció",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi az animáció lényege?", "options": ["Képek gyors váltakozása", "Egy állókép", "Hangfelvétel", "Szövegírás"], "answer": "Képek gyors váltakozása"},
+        {"question": "Mivel érhetünk el animációt a Scratch-ben?", "options": ["Jelmezváltással", "Színváltoztatással", "Várakozással", "Minden felsorolt"], "answer": "Minden felsorolt"},
+        {"question": "Melyik blokk vált a következő jelmezre?", "options": ["Következő jelmez", "Válts jelmezt", "Új kép", "Törlés"], "answer": "Következő jelmez"},
+        {"question": "Melyik blokk vált egy pontosan megnevezett jelmezre?", "options": ["Legyen a jelmez ...", "Következő jelmez", "Jelmez csere", "Kép beállítása"], "answer": "Legyen a jelmez ..."},
+        {"question": "Miért kell 'várj' blokk az animációba?", "options": ["Hogy ne legyen túl gyors", "Hogy megálljon a gép", "Hogy elromoljon", "Nem kell bele"], "answer": "Hogy ne legyen túl gyors"},
+        {"question": "Hogyan érhetjük el, hogy egy figura járjon?", "options": ["Lépés és jelmezváltás ismétlése", "Csak egy helyben állás", "Gépelés", "Képernyő rázása"], "answer": "Lépés és jelmezváltás ismétlése"},
+        {"question": "Melyik blokkal tudunk méretet változtatni animációként?", "options": ["Méret változzon ...-el", "Szín változzon", "Hang változzon", "Mozgás"], "answer": "Méret változzon ...-el"},
+        {"question": "Melyik grafikai hatás teszi áttetszővé a Sprite-ot?", "options": ["Szellem", "Szín", "Halszem", "Örvény"], "answer": "Szellem"},
+        {"question": "Melyik grafikai hatás változtatja meg a színeket?", "options": ["Szín", "Fényerő", "Mozaik", "Pixelesedés"], "answer": "Szín"},
+        {"question": "Hogyan tüntethetjük el az összes grafikai hatást?", "options": ["Grafikai hatások törlése", "Kikapcsolás", "Újraindítás", "Szín nullázása"], "answer": "Grafikai hatások törlése"},
+        {"question": "Mit csinál a 'Halszem' effektus?", "options": ["Középen kidomborítja a képet", "Kicsinyíti", "Törli", "Megfordítja"], "answer": "Középen kidomborítja a képet"},
+        {"question": "Mit csinál az 'Örvény' effektus?", "options": ["Megcsavarja a képet", "Eltünteti", "Színezi", "Hangot ad"], "answer": "Megcsavarja a képet"},
+        {"question": "Mit csinál a 'Pixelesedés' effektus?", "options": ["Nagy négyzetekre bontja a képet", "Élesíti", "Láthatatlanná teszi", "Megfordítja"], "answer": "Nagy négyzetekre bontja a képet"},
+        {"question": "Mit csinál a 'Mozaik' effektus?", "options": ["Több kicsi képre bontja a Sprite-ot", "Összerakja", "Színezi", "Hangot ad"], "answer": "Több kicsi képre bontja a Sprite-ot"},
+        {"question": "Melyik blokkal változtathatjuk a fényerőt?", "options": ["Grafikai hatás: fényerő változzon", "Lámpa blokk", "Napfény blokk", "Sötétítő blokk"], "answer": "Grafikai hatás: fényerő változzon"},
+        {"question": "Hogyan készíthetünk dobogó szívet?", "options": ["Méret növelése és csökkentése ismételve", "Csak várakozással", "Színváltással", "Mozgatással"], "answer": "Méret növelése és csökkentése ismételve"},
+        {"question": "Mi az a FPS?", "options": ["Képkocka per másodperc", "Gyors program", "Finom süti", "Fájl típus"], "answer": "Képkocka per másodperc"},
+        {"question": "Hogyan érhetjük el, hogy a háttér változzon?", "options": ["Következő háttér blokkal", "Következő jelmez blokkal", "Mozgás blokkal", "Nem lehet"], "answer": "Következő háttér blokkal"},
+        {"question": "Lehet-e videót animációként használni?", "options": ["Nem közvetlenül, de jelmezekkel megoldható", "Igen, bármilyen mp4-et", "Csak ha kifizetjük", "Csak rajzfilmet"], "answer": "Nem közvetlenül, de jelmezekkel megoldható"},
+        {"question": "Mire jó az 'ismételd' blokk az animációnál?", "options": ["Többször lefuttatja a mozgást", "Egyszer fut le", "Megállítja a kódot", "Törli a kódot"], "answer": "Többször lefuttatja a mozgást"},
+        {"question": "Mi a különbség a 'Válts jelmezt' és 'Következő jelmez' között?", "options": ["A 'Válts' egy konkrét képet kér", "Nincs különbség", "A 'Következő' lassabb", "A 'Válts' véletlenszerű"], "answer": "A 'Válts' egy konkrét képet kér"},
+        {"question": "Milyen blokkal lehet egy Sprite-ot fokozatosan eltüntetni?", "options": ["Szellem hatás változtatása", "Törlés blokk", "Elrejtés blokk", "Kikapcsolás"], "answer": "Szellem hatás változtatása"},
+        {"question": "Hogyan lehet egy Sprite-ot villogtatni?", "options": ["Megjelenítés és elrejtés váltogatása", "Csak elrejtés", "Színváltás", "Forgatás"], "answer": "Megjelenítés és elrejtés váltogatása"},
+        {"question": "Melyik fülön találjuk a jelmezeket?", "options": ["Jelmezek fül", "Kód fül", "Hangok fül", "Beállítások fül"], "answer": "Jelmezek fül"},
+        {"question": "Mi az a rétegződés az animációnál?", "options": ["Melyik Sprite van elöl vagy hátul", "A színek száma", "A hang ereje", "A gép sebessége"], "answer": "Melyik Sprite van elöl vagy hátul"}
+      ],
+      "typing": [
+        "animáció", "jelmez", "váltás", "hatás", "szellem", "mozaik", "örvény", "pixeles", "fényerő", "ismétlés"
+      ]
+    }
+  },
+  "6": {
+    "theme": "Események",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi az esemény a Scratch-ben?", "options": ["Valami, ami elindít egy szkriptet", "Egy ünnepség", "Egy hibaüzenet", "A háttér neve"], "answer": "Valami, ami elindít egy szkriptet"},
+        {"question": "Melyik a leggyakoribb indító esemény?", "options": ["Amikor a zöld zászlóra kattintunk", "Amikor kikapcsoljuk a gépet", "Amikor esik az eső", "Amikor gépelünk"], "answer": "Amikor a zöld zászlóra kattintunk"},
+        {"question": "Melyik blokk indul el egy billentyű lenyomásakor?", "options": ["Amikor a ... billentyűt lenyomjuk", "Amikor a macska szól", "Amikor rákattintunk", "Mindig"], "answer": "Amikor a ... billentyűt lenyomjuk"},
+        {"question": "Melyik blokk indul el, ha a Sprite-ra kattintunk?", "options": ["Amikor a szereplőre kattintunk", "Amikor az egér mozog", "Amikor a zászló zöld", "Sosem"], "answer": "Amikor a szereplőre kattintunk"},
+        {"question": "Mit jelent az 'üzenet küldése'?", "options": ["Egy jelzés küldése más szereplőknek", "E-mail írása", "SMS küldése", "Kiabálás"], "answer": "Egy jelzés küldése más szereplőknek"},
+        {"question": "Melyik blokk várja az üzenetet?", "options": ["Amikor az ... üzenetet megkapom", "Üzenet küldése", "Várj", "Stop"], "answer": "Amikor az ... üzenetet megkapom"},
+        {"question": "Mi a különbség az 'Üzenet küldése' és 'Üzenet küldése és várakozás' között?", "options": ["A második megvárja a szkriptek végét", "Nincs különbség", "Az első lassabb", "A második csak éjszaka működik"], "answer": "A második megvárja a szkriptek végét"},
+        {"question": "Melyik esemény indul el, ha a háttér megváltozik?", "options": ["Amikor a háttér ... lesz", "Amikor a színpad fordul", "Amikor a kép törlődik", "Amikor a zene szól"], "answer": "Amikor a háttér ... lesz"},
+        {"question": "Milyen esemény indul el nagy zaj esetén?", "options": ["Amikor a hangerő > 10", "Amikor kiabálunk", "Amikor dobolunk", "Amikor csend van"], "answer": "Amikor a hangerő > 10"},
+        {"question": "Lehet-e saját üzenetnevet megadni?", "options": ["Igen, bármit", "Nem, csak számokat", "Csak angolul", "Csak 'üzenet1' lehet"], "answer": "Igen, bármit"},
+        {"question": "Melyik blokkal indíthatunk el egy programot szóközre?", "options": ["Amikor a szóköz billentyűt lenyomjuk", "Amikor ugrunk", "Amikor írunk", "Amikor várunk"], "answer": "Amikor a szóköz billentyűt lenyomjuk"},
+        {"question": "Hány szkript indulhat el ugyanarra az üzenetre?", "options": ["Bármennyi", "Csak egy", "Csak kettő", "Egy sem"], "answer": "Bármennyi"},
+        {"question": "Mi történik, ha nincs indító blokk a szkript elején?", "options": ["Nem fog lefutni", "Magától elindul", "Hibaüzenetet ad", "Letörli a gépet"], "answer": "Nem fog lefutni"},
+        {"question": "Melyik kategóriában vannak az esemény blokkok?", "options": ["Események", "Mozgás", "Vezérlés", "Érzékelés"], "answer": "Események"},
+        {"question": "Milyen színűek az esemény blokkok?", "options": ["Sárga", "Kék", "Lila", "Zöld"], "answer": "Sárga"},
+        {"question": "Mi az az 'üzenetszórás'?", "options": ["Amikor minden Sprite megkapja az üzenetet", "Rádiózás", "TV nézés", "Újságírás"], "answer": "Amikor minden Sprite megkapja az üzenetet"},
+        {"question": "Mire jó az üzenet küldése a játékokban?", "options": ["Szintek közötti váltásra", "Pontszám növelésre", "Szereplők közti párbeszédre", "Minden felsorolt"], "answer": "Minden felsorolt"},
+        {"question": "Indulhat-e szkript, ha a fényerő változik?", "options": ["Igen, a videó érzékelésnél", "Nem, sosem", "Csak ha lámpát kapcsolunk", "Csak nyáron"], "answer": "Igen, a videó érzékelésnél"},
+        {"question": "Mit csinál a 'zöld zászló' esemény?", "options": ["Alaphelyzetbe állítja és indítja a játékot", "Csak a hangot kapcsolja be", "Törli a mentést", "Kilép a böngészőből"], "answer": "Alaphelyzetbe állítja és indítja a játékot"},
+        {"question": "Hány zöld zászló blokk lehet egy projektben?", "options": ["Bármennyi", "Pontosan egy", "Max tíz", "Semennyi"], "answer": "Bármennyi"},
+        {"question": "Mi történik, ha két Sprite is kap egy üzenetet?", "options": ["Mindkettő elindítja a saját szkriptjét", "Csak az egyik", "Összevesznek", "Lefagy a gép"], "answer": "Mindkettő elindítja a saját szkriptjét"},
+        {"question": "Hogyan indíthatunk el egy szkriptet egérkattintásra?", "options": ["Amikor a szereplőre kattintunk blokkal", "Amikor mozog az egér", "Amikor kattogunk", "Nem lehet"], "answer": "Amikor a szereplőre kattintunk blokkal"},
+        {"question": "Mire való az 'időzítő > ...' esemény?", "options": ["Adott idő eltelte után indít", "Méri az időt", "Kikapcsolja a gépet", "Ébresztőóra"], "answer": "Adott idő eltelte után indít"},
+        {"question": "Lehet-e billentyűkombinációkat (pl. Ctrl+C) eseményként megadni?", "options": ["Közvetlenül nem, csak egyes billentyűket", "Igen, bármit", "Csak ha profik vagyunk", "Csak angolul"], "answer": "Közvetlenül nem, csak egyes billentyűket"},
+        {"question": "Milyen alakú az esemény blokk teteje?", "options": ["Domború (kalap)", "Lapos", "Homorú", "Hegyes"], "answer": "Domború (kalap)"}
+      ],
+      "typing": [
+        "esemény", "indítás", "zászló", "billentyű", "üzenet", "küldés", "fogadás", "kattintás", "szóköz", "időzítő"
+      ]
+    }
+  },
+  "7": {
+    "theme": "Változók",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a változó?", "options": ["Egy nevesített tároló adatok számára", "Egy elromlott blokk", "A háttér neve", "Egy mozgás parancs"], "answer": "Egy nevesített tároló adatok számára"},
+        {"question": "Milyen adatot tárolhatunk változóban?", "options": ["Számot vagy szöveget", "Csak vizet", "Csak képet", "Csak hangot"], "answer": "Számot vagy szöveget"},
+        {"question": "Hogyan hozhatunk létre új változót?", "options": ["Változók -> Új változó gomb", "Mozgás -> Új mozgás", "Fájl -> Mentés", "Nem lehet"], "answer": "Változók -> Új változó gomb"},
+        {"question": "Mire jó a változó egy játékban?", "options": ["Pontszám vagy életek tárolására", "Díszítésnek", "A szereplő színezésére", "Lassításra"], "answer": "Pontszám vagy életek tárolására"},
+        {"question": "Melyik blokk állítja be a változó értékét?", "options": ["Legyen ... értéke ...", "Változzon ...", "Mutasd a változót", "Töröld"], "answer": "Legyen ... értéke ..."},
+        {"question": "Melyik blokk növeli a változó értékét?", "options": ["Változzon ... értéke ...-el", "Legyen ...", "Növekedj", "Hozzáadás"], "answer": "Változzon ... értéke ...-el"},
+        {"question": "Hogyan csökkenthetjük egy változó értékét?", "options": ["Negatív számot adunk hozzá", "Kivonjuk a monitorból", "Letöröljük", "Kiabálunk"], "answer": "Negatív számot adunk hozzá"},
+        {"question": "Megjeleníthető-e a változó a színpadon?", "options": ["Igen", "Nem", "Csak ha titkos", "Csak pirosan"], "answer": "Igen"},
+        {"question": "Mi az a 'lokális' változó?", "options": ["Csak egy szereplő látja", "Mindenki látja", "A város neve", "Egy rossz változó"], "answer": "Csak egy szereplő látja"},
+        {"question": "Mi az a 'globális' változó?", "options": ["Minden szereplő használhatja", "Csak a macska látja", "Az egész világ látja", "Egy nagy változó"], "answer": "Minden szereplő használhatja"},
+        {"question": "Melyik kategóriában találjuk a változókat?", "options": ["Változók", "Műveletek", "Vezérlés", "Hang"], "answer": "Változók"},
+        {"question": "Milyen színűek a változó blokkok?", "options": ["Narancssárga", "Kék", "Zöld", "Piros"], "answer": "Narancssárga"},
+        {"question": "Hogyan rejthetjük el a változót a színpadról?", "options": ["A 'Változó elrejtése' blokkal", "Lekapcsoljuk a lámpát", "Töröljük", "Elfordítjuk a fejt"], "answer": "A 'Változó elrejtése' blokkal"},
+        {"question": "Lehet-e egy változó neve bármi?", "options": ["Igen, érdemes beszédes nevet adni", "Nem, csak szám lehet", "Csak 'x' lehet", "Csak angol szó"], "answer": "Igen, érdemes beszédes nevet adni"},
+        {"question": "Mi történik, ha a változót 0-ra állítjuk a játék elején?", "options": ["Alaphelyzetbe kerül (pl. 0 pont)", "Törlődik a játék", "Lefagy a gép", "Nyerünk"], "answer": "Alaphelyzetbe kerül (pl. 0 pont)"},
+        {"question": "Hogyan változtathatjuk meg a változó kijelzőjének stílusát?", "options": ["Kattintsunk rá duplán a színpadon", "Vegyünk új monitort", "Nem lehet", "Írjunk kódot"], "answer": "Kattintsunk rá duplán a színpadon"},
+        {"question": "Mi az a 'csúszka' kijelző?", "options": ["Kézzel állítható változó érték", "Egy játszótéri játék", "A kód egy része", "Egy hang effektus"], "answer": "Kézzel állítható változó érték"},
+        {"question": "Hány változónk lehet egy projektben?", "options": ["Bármennyi", "Csak tíz", "Pontosan egy", "Semennyi"], "answer": "Bármennyi"},
+        {"question": "Össze lehet-e adni két változót?", "options": ["Igen, a műveletek blokkokkal", "Nem", "Csak ha papírra írjuk", "Csak ha egyformák"], "answer": "Igen, a műveletek blokkokkal"},
+        {"question": "Mi az a felhő változó?", "options": ["Az interneten tárolt, közös változó", "Az égen lévő változó", "Egy fehér változó", "Egy elpárolgó adat"], "answer": "Az interneten tárolt, közös változó"},
+        {"question": "Lehet-e egy változó értéke szöveg?", "options": ["Igen", "Nem, csak szám", "Csak ha rövid", "Csak ha angol"], "answer": "Igen"},
+        {"question": "Mire jó a 'Változó megjelenítése' blokk?", "options": ["Láthatóvá teszi a színpadon", "Kimondja a gép", "Kinyomtatja", "Rajzol egyet"], "answer": "Láthatóvá teszi a színpadon"},
+        {"question": "Miért fontos a változó alaphelyzetbe állítása?", "options": ["Hogy minden játékos ugyanannyi ponttal induljon", "Hogy gyorsabb legyen a gép", "Hogy színesebb legyen", "Nem fontos"], "answer": "Hogy minden játékos ugyanannyi ponttal induljon"},
+        {"question": "Mit jelent az 'increment' szó?", "options": ["Növelés", "Csökkentés", "Törlés", "Másolás"], "answer": "Növelés"},
+        {"question": "Melyik blokk kerek alakú és a változó nevét tartalmazza?", "options": ["A változó érték blokk", "Az indító blokk", "A stop blokk", "A hang blokk"], "answer": "A változó érték blokk"}
+      ],
+      "typing": [
+        "változó", "érték", "tárolás", "név", "beállítás", "növelés", "csökkentés", "pontszám", "adat", "lista"
+      ]
+    }
+  },
+  "8": {
+    "theme": "Listák",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a lista a Scratch-ben?", "options": ["Több adat tárolására alkalmas szerkezet", "Egy bevásárló lista papíron", "Egy sor sorompó", "A billentyűzet gombjai"], "answer": "Több adat tárolására alkalmas szerkezet"},
+        {"question": "Hogyan nevezzük a lista elemeit?", "options": ["Elemek", "Tagok", "Gombok", "Részek"], "answer": "Elemek"},
+        {"question": "Mivel azonosítjuk a lista elemeit?", "options": ["Sorszámmal (index)", "Színnel", "Névvel", "Hanggal"], "answer": "Sorszámmal (index)"},
+        {"question": "Hogyan adhatunk elemet a listához?", "options": ["Add hozzá ...-t a listához", "Tedd bele", "Dobd rá", "Írd rá"], "answer": "Add hozzá ...-t a listához"},
+        {"question": "Hogyan törölhetünk egy elemet a listából?", "options": ["Töröld a(z) ... elemet", "Vedd ki", "Radírozd le", "Keresd meg"], "answer": "Töröld a(z) ... elemet"},
+        {"question": "Mit csinál a 'Töröld a lista összes elemét' blokk?", "options": ["Kiüríti a listát", "Letörli a monitort", "Törli a programot", "Megállítja a játékot"], "answer": "Kiüríti a listát"},
+        {"question": "Hogyan tudjuk meg, hány elem van a listában?", "options": ["A 'lista hossza' blokkal", "Megszámoljuk az ujjunkon", "Nem lehet tudni", "Ránézéssel"], "answer": "A 'lista hossza' blokkal"},
+        {"question": "Mit jelent az 'illeszd be' blokk?", "options": ["Egy adott helyre teszi az elemet", "A végére teszi", "Összeragasztja", "Kijavítja"], "answer": "Egy adott helyre teszi az elemet"},
+        {"question": "Melyik blokk ellenőrzi, hogy benne van-e valami a listában?", "options": ["A lista tartalmazza-e ...-t?", "Keresd meg", "Ott van?", "Várj"], "answer": "A lista tartalmazza-e ...-t?"},
+        {"question": "Lehet-e listát megjeleníteni a színpadon?", "options": ["Igen", "Nem", "Csak ha üres", "Csak feketén"], "answer": "Igen"},
+        {"question": "Milyen színűek a lista blokkok?", "options": ["Piros/Sötét narancs", "Kék", "Zöld", "Lila"], "answer": "Piros/Sötét narancs"},
+        {"question": "Hányas sorszámmal kezdődik a lista a Scratch-ben?", "options": ["1", "0", "10", "100"], "answer": "1"},
+        {"question": "Mit csinál a 'cseréld le a(z) ... elemet' blokk?", "options": ["Újra cseréli a régit", "Törli az elemet", "Megduplázza", "Megfordítja"], "answer": "Újra cseréli a régit"},
+        {"question": "Mire jó a lista egy játékban?", "options": ["Eredménytábla vagy leltár készítésére", "Dísznek", "Hang lejátszásra", "Mozgásra"], "answer": "Eredménytábla vagy leltár készítésére"},
+        {"question": "Lehet-e számokat és szövegeket is tárolni egy listában?", "options": ["Igen", "Nem, csak számokat", "Nem, csak szöveget", "Csak képeket"], "answer": "Igen"},
+        {"question": "Mi az az 'index'?", "options": ["Az elem sorszáma a listában", "A lista neve", "Egy gomb", "A gép sebessége"], "answer": "Az elem sorszáma a listában"},
+        {"question": "Hogyan hozhatunk létre listát?", "options": ["Változók -> Új lista", "Mozgás -> Új lista", "Fájl -> Új", "Nem lehet"], "answer": "Változók -> Új lista"},
+        {"question": "Mi történik, ha egy nem létező sorszámra hivatkozunk?", "options": ["Üres értéket kapunk vagy hiba lesz", "Kirobban a gép", "Megáll a játék", "Új elem jön létre"], "answer": "Üres értéket kapunk vagy hiba lesz"},
+        {"question": "Lehet-e a listát fájlból feltölteni?", "options": ["Igen, importálható", "Nem", "Csak ha leírjuk kézzel", "Csak éjszaka"], "answer": "Igen, importálható"},
+        {"question": "Lehet-e a listát fájlba menteni?", "options": ["Igen, exportálható", "Nem", "Csak ha lefotózzuk", "Csak ha kinyomtatjuk"], "answer": "Igen, exportálható"},
+        {"question": "Mit csinál a 'lista megjelenítése' blokk?", "options": ["Láthatóvá teszi a színpadon", "Kimondja a gép", "Rajzol egy listát", "Törli"], "answer": "Láthatóvá teszi a színpadon"},
+        {"question": "Hogyan érhetjük el a lista utolsó elemét?", "options": ["A 'hossza' sorszámú elemet kérjük le", "Megkeressük", "Ránézünk", "Nem lehet"], "answer": "A 'hossza' sorszámú elemet kérjük le"},
+        {"question": "Változhat-e a lista hossza a program futása alatt?", "options": ["Igen, ha adunk hozzá vagy törlünk", "Nem, fix marad", "Csak ha megengedjük", "Csak ha nagyobb gépet veszünk"], "answer": "Igen, ha adunk hozzá vagy törlünk"},
+        {"question": "Mire való a 'lista elrejtése' blokk?", "options": ["Eltünteti a színpadról", "Törli a listát", "Megsemmisíti", "Láthatatlanná teszi a Sprite-ot"], "answer": "Eltünteti a színpadról"},
+        {"question": "Mi a különbség a változó és a lista között?", "options": ["A változó egy adatot, a lista többet tárol", "Nincs különbség", "A lista csak számokat tárol", "A változó lassabb"], "answer": "A változó egy adatot, a lista többet tárol"}
+      ],
+      "typing": [
+        "lista", "elem", "sorszám", "hossz", "hozzáadás", "törlés", "csere", "tartalmaz", "index", "leltár"
+      ]
+    }
+  },
+  "9": {
+    "theme": "Függvények Scratch",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a saját blokk (függvény) lényege?", "options": ["Kódrészletek újrahasznosítása", "Új szín a blokkoknak", "Hardver vezérlés", "Játék mentése"], "answer": "Kódrészletek újrahasznosítása"},
+        {"question": "Hol hozhatunk létre saját blokkot?", "options": ["Saját blokkok kategória", "Változók", "Események", "Mozgás"], "answer": "Saját blokkok kategória"},
+        {"question": "Mit jelent a 'Blokk definiálása'?", "options": ["Megadjuk, mit csináljon a blokk", "Eldobjuk a blokkot", "Színezzük", "Átnevezzük"], "answer": "Megadjuk, mit csináljon a blokk"},
+        {"question": "Mi az a 'bemeneti adat' (paraméter)?", "options": ["Információ, amit átadunk a blokknak", "A billentyűzet", "A monitor", "A hangszóró"], "answer": "Információ, amit átadunk a blokknak"},
+        {"question": "Hogyan adhatunk bemenetet egy saját blokkhoz?", "options": ["A definíció szerkesztésekor", "Később beleírjuk", "Nem lehet", "Hanggal"], "answer": "A definíció szerkesztésekor"},
+        {"question": "Mire jó a saját blokk?", "options": ["Átláthatóbbá teszi a kódot", "Bonyolítja a kódot", "Lassítja a gépet", "Szépíti a monitort"], "answer": "Átláthatóbbá teszi a kódot"},
+        {"question": "Hogyan futtathatunk le egy saját blokkot?", "options": ["Behúzzuk a nevét egy szkriptbe", "Rákattintunk duplán", "Várunk", "Megnyomjuk az Esc-et"], "answer": "Behúzzuk a nevét egy szkriptbe"},
+        {"question": "Mit jelent a 'Frissítés nélkül' opció?", "options": ["A kód nagyon gyorsan, képfrissítés nélkül fut le", "Nem változik a kép", "Törlődik a gép", "Semmit"], "answer": "A kód nagyon gyorsan, képfrissítés nélkül fut le"},
+        {"question": "Hány bemenete lehet egy saját blokknak?", "options": ["Bármennyi", "Csak egy", "Pontosan nulla", "Max tíz"], "answer": "Bármennyi"},
+        {"question": "Milyen típusú bemenetek lehetnek?", "options": ["Szám, szöveg vagy logikai", "Csak szín", "Csak hang", "Csak kép"], "answer": "Szám, szöveg vagy logikai"},
+        {"question": "Lehet-e egy saját blokkon belül egy másik saját blokkot hívni?", "options": ["Igen", "Nem", "Csak ha egyformák", "Csak ha messze vannak"], "answer": "Igen"},
+        {"question": "Mi történik, ha töröljük a definíciót?", "options": ["A blokk hívásai nem fognak működni", "Minden rendben marad", "A gép kikapcsol", "A Sprite eltűnik"], "answer": "A blokk hívásai nem fognak működni"},
+        {"question": "Milyen színűek a saját blokkok?", "options": ["Rózsaszín/Mályva", "Zöld", "Kék", "Sárga"], "answer": "Rózsaszín/Mályva"},
+        {"question": "Lehet-e a saját blokknak visszatérési értéke a Scratch-ben?", "options": ["Közvetlenül nem, de változóval megoldható", "Igen", "Csak ha kérjük", "Csak szám"], "answer": "Közvetlenül nem, de változóval megoldható"},
+        {"question": "Hogyan nevezzük el a saját blokkot?", "options": ["Bármilyen beszédes nevet adhatunk", "Csak számot", "Csak 'blokk1' lehet", "Csak angolul"], "answer": "Bármilyen beszédes nevet adhatunk"},
+        {"question": "Mi az az 'absztrakció'?", "options": ["A részletek elrejtése és lényeg kiemelése", "Egy festészeti stílus", "A kód törlése", "A monitor tisztítása"], "answer": "A részletek elrejtése és lényeg kiemelése"},
+        {"question": "Miért jó, ha nem kell ugyanazt a kódot többször leírni?", "options": ["Kevesebb a hiba és könnyebb módosítani", "Több időnk marad", "Szebb a gép", "Nincs előnye"], "answer": "Kevesebb a hiba és könnyebb módosítani"},
+        {"question": "Milyen blokkal rajzolnánk sok négyzetet?", "options": ["Egy 'négyzet' saját blokkal", "Mozgás blokkokkal egyesével", "Várakozással", "Hang blokkal"], "answer": "Egy 'négyzet' saját blokkal"},
+        {"question": "Hol látszik a saját blokk definíciója?", "options": ["A kód területen egy nagy blokként", "A menüben", "A kukában", "A felhőben"], "answer": "A kód területen egy nagy blokként"},
+        {"question": "Hogyan lehet szerkeszteni egy saját blokkot?", "options": ["Jobb gomb -> Szerkesztés a definíción", "Újra kell írni", "Meg kell ütni", "Nem lehet"], "answer": "Jobb gomb -> Szerkesztés a definíción"},
+        {"question": "Mit csinál a saját blokk a 'hátizsákban'?", "options": ["Átvihető másik projektbe", "Ott lakik", "Törlődik", "Hangot ad"], "answer": "Átvihető másik projektbe"},
+        {"question": "Használhatja-e egy Sprite a másik Sprite saját blokkját?", "options": ["Nem, a saját blokkok helyiek", "Igen", "Csak ha ikrek", "Csak ha megengedjük"], "answer": "Nem, a saját blokkok helyiek"},
+        {"question": "Mi az a 'rekurzió' (haladóknak)?", "options": ["Amikor egy blokk önmagát hívja", "Amikor megáll a gép", "Amikor elfogy az áram", "Egy tánc"], "answer": "Amikor egy blokk önmagát hívja"},
+        {"question": "Melyik blokkal tudunk ugrani saját blokkban?", "options": ["Nincs ilyen, a definíció sorrendje számít", "Ugrás blokk", "Repülés blokk", "Teleport"], "answer": "Nincs ilyen, a definíció sorrendje számít"},
+        {"question": "Mi a legnagyobb előnye a paramétereknek?", "options": ["Változatosabbá teszik a blokk működését", "Színesebbek lesznek", "Nagyobb lesz a fájl", "Semmi"], "answer": "Változatosabbá teszik a blokk működését"}
+      ],
+      "typing": [
+        "blokk", "függvény", "definíció", "bemenet", "adat", "paraméter", "hívás", "frissítés", "szerkesztés", "rendszer"
+      ]
+    }
+  },
+  "10": {
+    "theme": "Feltételek",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a feltétel lényege?", "options": ["Döntéshozatal a programban", "A gép kikapcsolása", "Rajzolás", "Éneklés"], "answer": "Döntéshozatal a programban"},
+        {"question": "Melyik blokk vizsgál feltételt?", "options": ["ha ... akkor", "menj", "mondd", "várj"], "answer": "ha ... akkor"},
+        {"question": "Milyen alakú a feltétel helye a 'ha' blokkban?", "options": ["Hatszögletű", "Kerek", "Négyzet", "Nincs helye"], "answer": "Hatszögletű"},
+        {"question": "Mi a 'ha ... akkor, egyébként' blokk lényege?", "options": ["Két lehetőség közötti választás", "Csak egy lehetőség", "Várakozás", "Törlés"], "answer": "Két lehetőség közötti választás"},
+        {"question": "Mikor fut le a 'ha' ág?", "options": ["Ha a feltétel igaz", "Ha a feltétel hamis", "Bármikor", "Sosem"], "answer": "Ha a feltétel igaz"},
+        {"question": "Mikor fut le az 'egyébként' ág?", "options": ["Ha a feltétel hamis", "Ha a feltétel igaz", "Ha esik az eső", "Mindig"], "answer": "Ha a feltétel hamis"},
+        {"question": "Melyik blokkal vizsgálhatjuk, hogy a Sprite falhoz ért-e?", "options": ["érinted a szélét?", "milyen színű?", "hol vagy?", "ki vagy?"], "answer": "érinted a szélét?"},
+        {"question": "Melyik kategóriában vannak az összehasonlító blokkok?", "options": ["Műveletek", "Mozgás", "Hang", "Események"], "answer": "Műveletek"},
+        {"question": "Mit jelent az '>' jel?", "options": ["Nagyobb, mint", "Kisebb, mint", "Egyenlő", "Nem egyenlő"], "answer": "Nagyobb, mint"},
+        {"question": "Mit jelent az '<' jel?", "options": ["Kisebb, mint", "Nagyobb, mint", "Egyenlő", "Krokodil szája"], "answer": "Kisebb, mint"},
+        {"question": "Mit jelent az '=' jel?", "options": ["Egyenlő", "Nagyobb", "Kisebb", "Hasonló"], "answer": "Egyenlő"},
+        {"question": "Hogyan vizsgálhatjuk, hogy egy gomb le van-e nyomva?", "options": ["... billentyű lenyomva?", "ki nyomta meg?", "nyomd meg", "várj"], "answer": "... billentyű lenyomva?"},
+        {"question": "Melyik blokk vár addig, amíg valami igaz nem lesz?", "options": ["várj eddig: ...", "ha ... akkor", "ismételd", "stop"], "answer": "várj eddig: ..."},
+        {"question": "Lehet-e feltételt tenni egy feltételbe?", "options": ["Igen, ez a beágyazott feltétel", "Nem, tilos", "Csak ha elfér", "Csak éjszaka"], "answer": "Igen, ez a beágyazott feltétel"},
+        {"question": "Mit jelent az 'és' művelet?", "options": ["Mindkét feltételnek igaznak kell lennie", "Csak az egyiknek", "Egyiknek sem", "Választás"], "answer": "Mindkét feltételnek igaznak kell lennie"},
+        {"question": "Mit jelent az 'vagy' művelet?", "options": ["Legalább az egyik feltételnek igaznak kell lennie", "Mindkettőnek", "Egyiknek sem", "Semmit"], "answer": "Legalább az egyik feltételnek igaznak kell lennie"},
+        {"question": "Mit jelent a 'nem' művelet?", "options": ["Megfordítja az értéket (igazból hamis)", "Tagadás", "Törlés", "Megállás"], "answer": "Megfordítja az értéket (igazból hamis)"},
+        {"question": "Milyen színűek az 'Érzékelés' feltétel blokkok?", "options": ["Világoskék", "Zöld", "Sárga", "Lila"], "answer": "Világoskék"},
+        {"question": "Milyen színűek a 'Műveletek' feltétel blokkok?", "options": ["Zöld", "Kék", "Piros", "Barna"], "answer": "Zöld"},
+        {"question": "Mire jó a feltétel a labirintus játékban?", "options": ["Hogy ne menjen át a falon", "Hogy gyorsabb legyen", "Hogy zenéljen", "Semmire"], "answer": "Hogy ne menjen át a falon"},
+        {"question": "Hogyan vizsgáljuk, hogy a pontszám elérte-e a 10-et?", "options": ["ha pontszám = 10", "ha pontszám > 10", "ha pontszám < 10", "ha pontszám"], "answer": "ha pontszám = 10"},
+        {"question": "Mi az az algoritmikus elágazás?", "options": ["A feltétel másik neve", "Egy fa ága", "Útkereszteződés", "Kód hiba"], "answer": "A feltétel másik neve"},
+        {"question": "Melyik blokk fut le, ha az egér le van nyomva?", "options": ["egér lenyomva?", "kattints", "nyomd meg", "egér?"], "answer": "egér lenyomva?"},
+        {"question": "Mit csinál a 'ha ... akkor' blokk, ha a feltétel hamis?", "options": ["Egyszerűen átugorja és megy tovább", "Hibaüzenetet ad", "Megállítja a gépet", "Visszafordul"], "answer": "Egyszerűen átugorja és megy tovább"},
+        {"question": "Lehet-e a feltétel egy változó értéke?", "options": ["Igen, ha logikai típusú", "Nem", "Csak ha 1 vagy 0", "Csak ha kék"], "answer": "Igen, ha logikai típusú"}
+      ],
+      "typing": [
+        "feltétel", "döntés", "ág", "igaz", "hamis", "egyenlő", "kisebb", "nagyobb", "érzékelés", "vizsgálat"
+      ]
+    }
+  },
+  "11": {
+    "theme": "Ciklusok",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a ciklus lényege?", "options": ["Műveletek ismétlése", "Egy kép törlése", "Hangosítás", "Kikapcsolás"], "answer": "Műveletek ismétlése"},
+        {"question": "Melyik blokk ismétel végtelenül?", "options": ["mindig", "ismételd 10-szer", "ismételd eddig: ...", "várj"], "answer": "mindig"},
+        {"question": "Melyik blokk ismétel egy megadott számszor?", "options": ["ismételd ...-szer", "mindig", "várj", "menj"], "answer": "ismételd ...-szer"},
+        {"question": "Melyik blokk ismétel addig, amíg egy feltétel teljesül?", "options": ["ismételd eddig: ...", "mindig", "ha ... akkor", "stop"], "answer": "ismételd eddig: ..."},
+        {"question": "Mire jó a 'mindig' ciklus?", "options": ["Folyamatos mozgásra vagy figyelésre", "Csak egyszeri futásra", "Törlésre", "Alvásra"], "answer": "Folyamatos mozgásra vagy figyelésre"},
+        {"question": "Hogyan lehet megállítani egy 'mindig' ciklust?", "options": ["A 'állíts le mindent' blokkal", "Kikapcsolással", "Ráfújással", "Sehogy"], "answer": "A 'állíts le mindent' blokkal"},
+        {"question": "Lehet-e ciklust tenni egy ciklusba?", "options": ["Igen, ez a beágyazott ciklus", "Nem, tilos", "Csak ha elfér", "Csak éjszaka"], "answer": "Igen, ez a beágyazott ciklus"},
+        {"question": "Melyik blokk alakja hasonlít egy 'C' betűhöz?", "options": ["Ciklus blokkok", "Mozgás blokkok", "Hang blokkok", "Változó blokkok"], "answer": "Ciklus blokkok"},
+        {"question": "Hogyan mozog a Sprite egy 'ismételd 10-szer: menj 10 lépést' kóddal?", "options": ["Összesen 100 lépést tesz meg", "10 lépést tesz", "Nem mozog", "Kiszalad a világból"], "answer": "Összesen 100 lépést tesz meg"},
+        {"question": "Mi az az 'iteráció'?", "options": ["A ciklus egy lépése", "A gép neve", "A billentyűzet", "Egy ital"], "answer": "A ciklus egy lépése"},
+        {"question": "Milyen színűek a vezérlés (ciklus) blokkok?", "options": ["Narancssárga", "Kék", "Zöld", "Lila"], "answer": "Narancssárga"},
+        {"question": "Mire jó a ciklus az animációnál?", "options": ["A jelmezek folyamatos váltására", "Egy kép betöltésére", "A monitor tisztítására", "Semmire"], "answer": "A jelmezek folyamatos váltására"},
+        {"question": "Mit jelent a 'végtelen ciklus'?", "options": ["Olyan ismétlés, ami sosem ér véget", "Nagyon hosszú kód", "Kerek kód", "Hiba"], "answer": "Olyan ismétlés, ami sosem ér véget"},
+        {"question": "Mi történik, ha egy üres 'mindig' ciklust futtatunk?", "options": ["Nem történik semmi látható, de a gép dolgozik", "Lefagy a gép", "Kikapcsol a monitor", "Énekel a macska"], "answer": "Nem történik semmi látható, de a gép dolgozik"},
+        {"question": "Hogyan készíthetsz villogó lámpát?", "options": ["Mindig: világít, vár, nem világít, vár", "Csak világítással", "Csak várakozással", "Gépeléssel"], "answer": "Mindig: világít, vár, nem világít, vár"},
+        {"question": "Hány blokk lehet egy ciklus belsejében?", "options": ["Bármennyi", "Csak egy", "Max tíz", "Semennyi"], "answer": "Bármennyi"},
+        {"question": "Melyik blokk állítja meg csak az adott ciklust?", "options": ["állítsd le ezt a szkriptet", "stop", "várj", "menj"], "answer": "állítsd le ezt a szkriptet"},
+        {"question": "Miért fontos a 'várj' blokk a ciklusban?", "options": ["Hogy ne legyen túl gyors az ismétlés", "Hogy elromoljon", "Hogy színesebb legyen", "Nem fontos"], "answer": "Hogy ne legyen túl gyors az ismétlés"},
+        {"question": "Melyik ciklus alkalmas arra, hogy 5-ször lepattanjon a labda?", "options": ["ismételd 5-ször", "mindig", "ha ... akkor", "várj"], "answer": "ismételd 5-ször"},
+        {"question": "Mi történik a blokkokkal a ciklus után?", "options": ["Akkor futnak le, ha a ciklus véget ért", "Sosem futnak le", "Azonnal lefutnak", "Törlődnek"], "answer": "Akkor futnak le, ha a ciklus véget ért"},
+        {"question": "Létezik-e 'mindig eddig' blokk?", "options": ["Nem, csak 'ismételd eddig'", "Igen", "Csak ha kérjük", "Csak angolul"], "answer": "Nem, csak 'ismételd eddig'"},
+        {"question": "Hogyan nevezzük a ciklus belsejében lévő részt?", "options": ["Ciklusmag", "Ciklushéj", "Cikluslevél", "Cikluság"], "answer": "Ciklusmag"},
+        {"question": "Melyik blokk felel meg a 'while' ciklusnak más nyelveken?", "options": ["ismételd eddig (megfordítva)", "mindig", "ha", "várj"], "answer": "ismételd eddig (megfordítva)"},
+        {"question": "Mire jó a 'mindig' ciklus egy autóversenyben?", "options": ["Hogy folyamatosan figyelje a gázpedált", "Hogy megálljon a célban", "Hogy tankoljon", "Semmire"], "answer": "Hogy folyamatosan figyelje a gázpedált"},
+        {"question": "Lehet-e változót használni az 'ismételd ...-szer' blokkban?", "options": ["Igen", "Nem", "Csak ha 10-nél kisebb", "Csak ha piros"], "answer": "Igen"}
+      ],
+      "typing": [
+        "ciklus", "ismétlés", "mindig", "hányszor", "mag", "beágyazott", "folyamat", "vezérlés", "időzítés", "vége"
+      ]
+    }
+  },
+  "12": {
+    "theme": "Véletlen számok",
+    "tasks": {
+      "mcq": [
+        {"question": "Melyik blokk generál véletlen számot?", "options": ["véletlen szám ... és ... között", "számolj", "mennyi?", "írj számot"], "answer": "véletlen szám ... és ... között"},
+        {"question": "Milyen színű a véletlen szám blokk?", "options": ["Zöld", "Kék", "Sárga", "Lila"], "answer": "Zöld"},
+        {"question": "Melyik kategóriában van a véletlen szám blokk?", "options": ["Műveletek", "Változók", "Mozgás", "Érzékelés"], "answer": "Műveletek"},
+        {"question": "Mire jó a véletlen szám egy játékban?", "options": ["Kiszámíthatatlanság és izgalom növelésére", "Hogy mindig ugyanaz történjen", "Lassításra", "Törlésre"], "answer": "Kiszámíthatatlanság és izgalom növelésére"},
+        {"question": "Mit ad vissza a 'véletlen szám 1 és 10 között'?", "options": ["Egy egész számot 1 és 10 között", "Csak 1-et vagy 10-et", "Bármit", "Egy szöveget"], "answer": "Egy egész számot 1 és 10 között"},
+        {"question": "Hogyan tudunk véletlen helyre ugrani a véletlen blokkal?", "options": ["Az X és Y koordinátáknak véletlen számot adunk", "Rázogatjuk az egeret", "Nem lehet", "Kiabálunk"], "answer": "Az X és Y koordinátáknak véletlen számot adunk"},
+        {"question": "Lehet-e negatív szám is a véletlen tartományban?", "options": ["Igen, pl. -10 és 10 között", "Nem, csak pozitív", "Csak ha a gép engedi", "Csak éjszaka"], "answer": "Igen, pl. -10 és 10 között"},
+        {"question": "Mire jó a véletlen szám az eső animációnál?", "options": ["Hogy a cseppek máshol essenek le", "Hogy kék legyen", "Hogy vizes legyen a monitor", "Semmire"], "answer": "Hogy a cseppek máshol essenek le"},
+        {"question": "Lehet-e véletlen jelmezt választani?", "options": ["Igen, a jelmez sorszámának véletlent adva", "Nem", "Csak ha hasonlítanak", "Csak kettőt"], "answer": "Igen, a jelmez sorszámának véletlent adva"},
+        {"question": "Mit jelent a 'random' szó?", "options": ["Véletlen", "Gyors", "Rendezetlen", "Kicsi"], "answer": "Véletlen"},
+        {"question": "Hogyan csinálhatunk dobókockát?", "options": ["Véletlen szám 1 és 6 között", "Véletlen szám 0 és 100 között", "Színváltással", "Gépeléssel"], "answer": "Véletlen szám 1 és 6 között"},
+        {"question": "Lehet-e tizedesjegy a véletlen számban?", "options": ["Igen, ha tizedes számokat adunk meg tartománynak", "Nem, soha", "Csak ha kérjük", "Csak angolul"], "answer": "Igen, ha tizedes számokat adunk meg tartománynak"},
+        {"question": "Mire jó a véletlen szám az ellenség mozgásánál?", "options": ["Hogy nehezebb legyen kikerülni", "Hogy könnyebb legyen", "Hogy megálljon", "Hogy piros legyen"], "answer": "Hogy nehezebb legyen kikerülni"},
+        {"question": "Mi az a 'véletlenszerűség' a programozásban?", "options": ["Szerencsejáték és bizonytalanság modellezése", "Hiba", "Rossz kód", "Lassú kód"], "answer": "Szerencsejáték és bizonytalanság modellezése"},
+        {"question": "Melyik blokk alakja kerek, amibe belefér a véletlen szám?", "options": ["Bármelyik paraméter mező", "Csak a mozgás", "Csak a hang", "Csak a szín"], "answer": "Bármelyik paraméter mező"},
+        {"question": "Hogyan készíthetsz véletlen színű Sprite-ot?", "options": ["Szín hatás legyen: véletlen szám 1 és 200 között", "Festéssel", "Kattintással", "Várakozással"], "answer": "Szín hatás legyen: véletlen szám 1 és 200 között"},
+        {"question": "Lehet-e a véletlen szám tartománya változó?", "options": ["Igen", "Nem", "Csak ha fix", "Csak ha kék"], "answer": "Igen"},
+        {"question": "Mi történik, ha a két szám megegyezik a véletlen blokkban?", "options": ["Mindig azt a számot adja vissza", "Hiba lesz", "Kirobban a gép", "Nullát ad"], "answer": "Mindig azt a számot adja vissza"},
+        {"question": "Lehet-e véletlen hangot lejátszani?", "options": ["Igen, a hang sorszámával", "Nem", "Csak ha hangos", "Csak ha rövid"], "answer": "Igen, a hang sorszámával"},
+        {"question": "Mire jó a véletlen várakozás?", "options": ["Életszerűbbé teszi a mozgást", "Lefagyasztja a gépet", "Törli az adatokat", "Semmire"], "answer": "Életszerűbbé teszi a mozgást"},
+        {"question": "Milyen alakú a véletlen szám blokk?", "options": ["Kerek (ovális)", "Hegyes", "Szögletes", "Csillag"], "answer": "Kerek (ovális)"},
+        {"question": "Mire jó a véletlen méret?", "options": ["Változatos méretű szereplők készítésére", "Láthatatlanná tételre", "Törlésre", "Semmire"], "answer": "Változatos méretű szereplők készítésére"},
+        {"question": "Mi az a 'seed' (mag) a véletlen számoknál?", "options": ["A véletlensorozat alapja", "Egy növény", "A gép gombja", "Egy fájl"], "answer": "A véletlensorozat alapja"},
+        {"question": "Lehet-e véletlen irányba fordítani a Sprite-ot?", "options": ["Igen, 1 és 360 fok között", "Nem", "Csak 90 fokkal", "Csak ha megkérjük"], "answer": "Igen, 1 és 360 fok között"},
+        {"question": "Hogyan hívják a véletlen számot angolul?", "options": ["Random number", "Fast number", "Secret number", "Color number"], "answer": "Random number"}
+      ],
+      "typing": [
+        "véletlen", "szám", "tartomány", "között", "művelet", "random", "esély", "kocka", "szerencse", "változat"
+      ]
+    }
+  },
+  "13": {
+    "theme": "Hang és zene programban",
+    "tasks": {
+      "mcq": [
+        {"question": "Hogyan játszhatunk le hangot Scratch-ben?", "options": ["Hang blokkokkal", "Mozgás blokkokkal", "Rajzolással", "Gépeléssel"], "answer": "Hang blokkokkal"},
+        {"question": "Mi a különbség a 'játszd le ... hangot' és 'játszd le ... hangot végig' között?", "options": ["A második megvárja a hang végét", "Nincs különbség", "Az első hangosabb", "A második lassabb"], "answer": "A második megvárja a hang végét"},
+        {"question": "Melyik fülön lehet hangokat szerkeszteni?", "options": ["Hangok fül", "Kód fül", "Jelmezek fül", "Beállítások"], "answer": "Hangok fül"},
+        {"question": "Lehet-e saját hangot felvenni?", "options": ["Igen, mikrofonnal", "Nem, tilos", "Csak ha énekelünk", "Csak angolul"], "answer": "Igen, mikrofonnal"},
+        {"question": "Melyik blokk állítja meg az összes hangot?", "options": ["Összes hang leállítása", "Csend legyen!", "Stop", "Kikapcsolás"], "answer": "Összes hang leállítása"},
+        {"question": "Hogyan változtathatjuk a hangerőt?", "options": ["Hangerő változzon ...-el", "Szín változzon", "Gépeléssel", "Nem lehet"], "answer": "Hangerő változzon ...-el"},
+        {"question": "Mekkora a maximális hangerő?", "options": ["100%", "200%", "Végtelen", "50%"], "answer": "100%"},
+        {"question": "Hogyan lehet a hangmagasságot változtatni?", "options": ["Hangmagasság hatás változzon", "Hangerő változzon", "Gyorsabban kell lejátszani", "Nem lehet"], "answer": "Hangmagasság hatás változzon"},
+        {"question": "Milyen kiterjesztést használ az 'Eszközök' között a Zene?", "options": ["Zene bővítmény", "Rajz bővítmény", "Videó bővítmény", "Lego bővítmény"], "answer": "Zene bővítmény"},
+        {"question": "Milyen hangszereken játszhatunk a Zene bővítménnyel?", "options": ["Zongora, dob, gitár stb.", "Csak sípon", "Csak dobon", "Semmin"], "answer": "Zongora, dob, gitár stb."},
+        {"question": "Mit jelent a 'ritmus' a zene blokkoknál?", "options": ["A hang hossza (ütés)", "A hang színe", "A hang neve", "A hang helye"], "answer": "A hang hossza (ütés)"},
+        {"question": "Hogyan tudunk dobolni a Scratch-ben?", "options": ["Dobolj ... hangszeren blokkal", "Verjük a monitort", "Kiabálunk", "Nem lehet"], "answer": "Dobolj ... hangszeren blokkal"},
+        {"question": "Lehet-e hangot importálni a számítógépről?", "options": ["Igen (pl. mp3, wav)", "Nem", "Csak ha kicsi", "Csak ha magyar"], "answer": "Igen (pl. mp3, wav)"},
+        {"question": "Mit csinál a 'visszhang' effektus a hangszerkesztőben?", "options": ["Megismétli a hangot halkulva", "Eltünteti a hangot", "Kifordítja", "Gyorsítja"], "answer": "Megismétli a hangot halkulva"},
+        {"question": "Mit csinál a 'robot' effektus a hangszerkesztőben?", "options": ["Fémes hangúvá teszi", "Törli a hangot", "Lassítja", "Színezi"], "answer": "Fémes hangúvá teszi"},
+        {"question": "Hogyan lehet a hangot megfordítani?", "options": ["A 'Visszafelé' gombbal", "Megfordítjuk a hangszórót", "Nem lehet", "Újra felvesszük"], "answer": "A 'Visszafelé' gombbal"},
+        {"question": "Mi az a 'tempó'?", "options": ["A zene sebessége", "A zene hossza", "A zene neve", "A zene színe"], "answer": "A zene sebessége"},
+        {"question": "Mivel mérjük a tempót?", "options": ["BPM (ütés per perc)", "Km/h", "Kg", "Liter"], "answer": "BPM (ütés per perc)"},
+        {"question": "Milyen színűek a hang blokkok?", "options": ["Lila/Rózsaszín", "Kék", "Zöld", "Sárga"], "answer": "Lila/Rózsaszín"},
+        {"question": "Lehet-e hangot elhalványítani (fade out)?", "options": ["Igen, a hangszerkesztőben", "Nem", "Csak ha lekapcsoljuk a gépet", "Csak éjszaka"], "answer": "Igen, a hangot elhalványítani (fade out)"},
+        {"question": "Mire jó a hang egy játékban?", "options": ["Visszajelzésre és hangulatteremtésre", "Zavarásra", "Lassításra", "Törlésre"], "answer": "Visszajelzésre és hangulatteremtésre"},
+        {"question": "Mit csinál a 'lágyabb' gomb a hangszerkesztőben?", "options": ["Halkítja a hangot", "Hangosítja", "Lassítja", "Gyorsítja"], "answer": "Halkítja a hangot"},
+        {"question": "Hány hangja lehet egy Sprite-nak?", "options": ["Bármennyi", "Csak egy", "Max tíz", "Semennyi"], "answer": "Bármennyi"},
+        {"question": "Mi történik, ha egy hangot ciklusba teszünk?", "options": ["Folyamatosan ismétlődik", "Egyszer szól és megáll", "Eltűnik", "Lefagy a gép"], "answer": "Folyamatosan ismétlődik"},
+        {"question": "Mit jelent az 'effektus' a hangoknál?", "options": ["Különleges módosítás a hangon", "A hang neve", "A hang hossza", "A hang ereje"], "answer": "Különleges módosítás a hangon"}
+      ],
+      "typing": [
+        "hang", "zene", "ritmus", "hangerő", "szerkesztés", "felvétel", "hangszer", "tempó", "hatás", "lejátszás"
+      ]
+    }
+  },
+  "14": {
+    "theme": "Játékfejlesztés alap",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi az első lépés egy játék készítésénél?", "options": ["Tervezés", "Kódolás", "Eladás", "Törlés"], "answer": "Tervezés"},
+        {"question": "Mi az a 'játékmenet' (gameplay)?", "options": ["A szabályok és a játékélmény", "A kód színe", "A monitor márkája", "A billentyűzet"], "answer": "A szabályok és a játékélmény"},
+        {"question": "Ki a játékos?", "options": ["Az a személy, aki játszik", "A számítógép", "A programozó", "A macska"], "answer": "Az a személy, aki játszik"},
+        {"question": "Mit jelent az interaktivitás?", "options": ["A játékos hatással van a játékra", "A játék magától fut", "A monitor világít", "A gép zúg"], "answer": "A játékos hatással van a játékra"},
+        {"question": "Milyen elemek kellenek egy játékhoz?", "options": ["Cél, akadályok, pontszám", "Csak víz", "Csak egy kép", "Semmi"], "answer": "Cél, akadályok, pontszám"},
+        {"question": "Mi az a 'felhasználói felület' (UI)?", "options": ["Gombok, pontszám kijelző stb.", "A gép hátulja", "A szék", "A billentyűzet alja"], "answer": "Gombok, pontszám kijelző stb."},
+        {"question": "Mit jelent a 'Game Over'?", "options": ["Vége a játéknak (vesztettünk)", "Indul a játék", "Nyerünk", "Szünet"], "answer": "Vége a játéknak (vesztettünk)"},
+        {"question": "Mi a győzelmi feltétel?", "options": ["Ami kell a nyeréshez", "Ami kell a vesztéshez", "Ami kell a rajzoláshoz", "Ami kell a mentéshez"], "answer": "Ami kell a nyeréshez"},
+        {"question": "Mi az a prototípus?", "options": ["A játék első, egyszerű változata", "A kész játék", "Egy hiba", "A játék ára"], "answer": "A játék első, egyszerű változata"},
+        {"question": "Miért fontos a tesztelés?", "options": ["Hogy megtaláljuk a hibákat", "Hogy unatkozzunk", "Hogy eladjuk", "Hogy töröljük"], "answer": "Hogy megtaláljuk a hibákat"},
+        {"question": "Mire jó a nehézségi szint?", "options": ["Hogy mindenki élvezhesse a játékot", "Hogy elriasszuk a játékost", "Hogy lassabb legyen a gép", "Semmire"], "answer": "Hogy mindenki élvezhesse a játékot"},
+        {"question": "Mi az a 'bug'?", "options": ["Programhiba", "Bogár a kertben", "Egy új funkció", "A játék neve"], "answer": "Programhiba"},
+        {"question": "Hogyan irányíthatjuk a szereplőt?", "options": ["Billentyűzettel vagy egérrel", "Gondolattal", "Sehogy", "Hangos beszéddel"], "answer": "Billentyűzettel vagy egérrel"},
+        {"question": "Mi az a 'collision detection'?", "options": ["Ütközésérzékelés", "Színváltás", "Hang lejátszás", "Mentés"], "answer": "Ütközésérzékelés"},
+        {"question": "Mire jó az életpont (HP)?", "options": ["Jelzi, hányszor hibázhatunk még", "A gép ereje", "A zene hossza", "A rajz mérete"], "answer": "Jelzi, hányszor hibázhatunk még"},
+        {"question": "Mit jelent a 'high score'?", "options": ["Legmagasabb pontszám", "Alacsony pontszám", "A kód magassága", "A hang magassága"], "answer": "Legmagasabb pontszám"},
+        {"question": "Mi az a 'level design'?", "options": ["A pályák tervezése", "A kód írása", "A rajzolás", "A hangok vágása"], "answer": "A pályák tervezése"},
+        {"question": "Mi az a 'balanszolás'?", "options": ["A játék nehézségének beállítása", "Egyensúlyozás egy lábon", "A színek keverése", "A kód törlése"], "answer": "A játék nehézségének beállítása"},
+        {"question": "Mire való a háttérzene?", "options": ["Hangulatkeltésre", "Zavarásra", "A kód futtatására", "Semmire"], "answer": "Hangulatkeltésre"},
+        {"question": "Mi az a 'visszajelzés' (feedback)?", "options": ["A játék reagál a játékos tetteire", "Visszafelé beszél a gép", "Törlődik a mentés", "Lassul a gép"], "answer": "A játék reagál a játékos tetteire"},
+        {"question": "Mit jelent a 'storyboard'?", "options": ["A játék történetének vázlata képekben", "Egy deszka", "A billentyűzet", "A monitor kerete"], "answer": "A játék történetének vázlata képekben"},
+        {"question": "Lehet-e többszereplős játékot készíteni Scratch-ben?", "options": ["Igen, egy gépen vagy felhő változókkal", "Nem", "Csak ha van két egér", "Csak éjszaka"], "answer": "Igen, egy gépen vagy felhő változókkal"},
+        {"question": "Mi az a 'bónusz' a játékban?", "options": ["Extra pont vagy segítség", "Büntetés", "Hiba", "A játék neve"], "answer": "Extra pont vagy segítség"},
+        {"question": "Hogyan lehet szintet váltani?", "options": ["Háttérváltással és változók módosításával", "A gép kikapcsolásával", "Ugrálással", "Sehogy"], "answer": "Háttérváltással és változók módosításával"},
+        {"question": "Mi a legfontosabb a sikeres játékhoz?", "options": ["Hogy szórakoztató legyen", "Hogy drága legyen", "Hogy sok kód legyen benne", "Hogy bonyolult legyen"], "answer": "Hogy szórakoztató legyen"}
+      ],
+      "typing": [
+        "tervezés", "játékos", "szabály", "pontszám", "győzelem", "tesztelés", "szint", "irányítás", "felület", "élmény"
+      ]
+    }
+  },
+  "15": {
+    "theme": "Labirintus játék",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a labirintus játék célja?", "options": ["Eljutni a kijárathoz", "Eltévedni", "Törölni a falat", "Aludni"], "answer": "Eljutni a kijárathoz"},
+        {"question": "Hogyan akadályozzuk meg, hogy a Sprite átmenjen a falon?", "options": ["Ha falat érint, mozduljon vissza", "Vegyük ki a falat", "Csukjuk be a szemünket", "Kapcsoljuk ki a gépet"], "answer": "Ha falat érint, mozduljon vissza"},
+        {"question": "Melyik blokkal érzékeljük a fal színét?", "options": ["Szín ... érintve?", "Ki van ott?", "Milyen színű?", "Várj"], "answer": "Szín ... érintve?"},
+        {"question": "Hogyan indítjuk a Sprite-ot a starthelyről?", "options": ["Ugorj (x, y) blokkal a zászlónál", "Tegyük oda kézzel minden alkalommal", "Nem kell", "Fújjunk rá"], "answer": "Ugorj (x, y) blokkal a zászlónál"},
+        {"question": "Mi történik, ha a Sprite eléri a kijáratot?", "options": ["Üzenetet küldhet vagy szintet válthat", "Kikapcsol a gép", "Törlődik a játék", "Semmi"], "answer": "Üzenetet küldhet vagy szintet válthat"},
+        {"question": "Hogyan irányíthatjuk a Sprite-ot a labirintusban?", "options": ["Nyilakkal vagy WASD gombokkal", "Gondolattal", "Sehogy", "Kiabálással"], "answer": "Nyilakkal vagy WASD gombokkal"},
+        {"question": "Miért jó, ha a falaknak egyforma színe van?", "options": ["Könnyebb egyetlen blokkal érzékelni őket", "Szebb", "Kevesebb helyet foglal", "Nem számít"], "answer": "Könnyebb egyetlen blokkal érzékelni őket"},
+        {"question": "Hogyan készíthetjük el a labirintus pályát?", "options": ["A háttérben megrajzoljuk", "A billentyűzeten", "A falon", "A nyomtatón"], "answer": "A háttérben megrajzoljuk"},
+        {"question": "Lehet-e a fal maga is egy Sprite?", "options": ["Igen", "Nem", "Csak ha mozog", "Csak ha piros"], "answer": "Igen"},
+        {"question": "Hogyan tehetjük nehezebbé a labirintust?", "options": ["Mozgó akadályokkal", "Lámpák lekapcsolásával", "Szűkebb folyosókkal", "Minden felsorolt"], "answer": "Minden felsorolt"},
+        {"question": "Mi az az 'időre menő' labirintus?", "options": ["Adott idő alatt kell kijutni", "Egy óra alakú pálya", "Lassú játék", "Sosem ér véget"], "answer": "Adott idő alatt kell kijutni"},
+        {"question": "Mit csinál a 'ha érinted a fal színét, menj -5 lépést'?", "options": ["Visszalöki a Sprite-ot a faltól", "Áttolja a falon", "Megállítja a játékot", "Megfordítja"], "answer": "Visszalöki a Sprite-ot a faltól"},
+        {"question": "Hogyan érzékelhetjük, hogy a Sprite a célhoz ért?", "options": ["Érinted a 'Cél' Sprite-ot? blokkal", "Ránézéssel", "Megkérdezzük", "Sehogy"], "answer": "Érinted a 'Cél' Sprite-ot? blokkal"},
+        {"question": "Lehet-e több szint egy labirintus játékban?", "options": ["Igen, különböző hátterekkel", "Nem, csak egy", "Csak ha sokat fizetünk", "Csak éjszaka"], "answer": "Igen, különböző hátterekkel"},
+        {"question": "Mire jó a 'változó' a labirintusban?", "options": ["Életek vagy idő mérésére", "Dísznek", "Hangnak", "Semmire"], "answer": "Életek vagy idő mérésére"},
+        {"question": "Mit csinál a 'mindig' ciklus a labirintus kódban?", "options": ["Folyamatosan figyeli az irányítást és a falat", "Egyszer fut le", "Megállítja a kódot", "Törli"], "answer": "Folyamatosan figyeli az irányítást és a falat"},
+        {"question": "Hogyan lehet láthatatlan falakat csinálni?", "options": ["A fal színe megegyezik a háttérrel", "Nincs fal", "Kikapcsoljuk a monitort", "Becsukjuk a szemünket"], "answer": "A fal színe megegyezik a háttérrel"},
+        {"question": "Mire jó a 'hang' a labirintusban?", "options": ["Visszajelzés falhoz éréskor vagy győzelemkor", "Zavarásra", "Lassításra", "Semmire"], "answer": "Visszajelzés falhoz éréskor vagy győzelemkor"},
+        {"question": "Mi az az 'minimap'?", "options": ["Kicsi térkép a pálya sarkában", "Egy kis egér", "A kód egy része", "Egy gomb"], "answer": "Kicsi térkép a pálya sarkában"},
+        {"question": "Hogyan lehet a Sprite-ot kisebbé tenni, hogy elférjen?", "options": ["Méret beállítása 50% (vagy kevesebb)", "Levágjuk a széleit", "Ráfújunk", "Nem lehet"], "answer": "Méret beállítása 50% (vagy kevesebb)"},
+        {"question": "Mire jó a 'nyom' hagyása a labirintusban?", "options": ["Látjuk, merre jártunk már", "Piszkos lesz a monitor", "Lassul a gép", "Törlődik a pálya"], "answer": "Látjuk, merre jártunk már"},
+        {"question": "Hogyan készíthetsz teleportot a labirintusba?", "options": ["Ha érinti a teleportot, ugorjon máshová", "Kiabálunk neki", "Rázogatjuk az egeret", "Nem lehet"], "answer": "Ha érinti a teleportot, ugorjon máshová"},
+        {"question": "Milyen irányítás a 'kövesd az egeret' a labirintusban?", "options": ["A Sprite az egér felé mozog", "Az egér mozog a Sprite felé", "Nincs mozgás", "A gép mozog"], "answer": "A Sprite az egér felé mozog"},
+        {"question": "Mi az az 'ellenség' a labirintusban?", "options": ["Egy szereplő, akit el kell kerülni", "A fal", "A billentyűzet", "A tanár"], "answer": "Egy szereplő, akit el kell kerülni"},
+        {"question": "Hogyan lehet újrakezdeni a szintet?", "options": ["Visszaugrunk a start koordinátákra", "Kikapcsoljuk a gépet", "Várunk 1 órát", "Sehogy"], "answer": "Visszaugrunk a start koordinátákra"}
+      ],
+      "typing": [
+        "labirintus", "folyosó", "kijárat", "érzékelés", "fal", "ütközés", "irányítás", "pálya", "start", "cél"
+      ]
+    }
+  },
+  "16": {
+    "theme": "Hibakereső",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a 'debugolás'?", "options": ["Hibák keresése és javítása", "Bogárirtás a kertben", "Új kód írása", "A gép tisztítása"], "answer": "Hibák keresése és javítása"},
+        {"question": "Mit jelent, ha egy kód nem fut le?", "options": ["Hiba van benne vagy hiányzik az indító", "Elfáradt a gép", "Nincs benne zene", "Rossz a színe"], "answer": "Hiba van benne vagy hiányzik az indító"},
+        {"question": "Hogyan segíthet a 'mondd' blokk a hibakeresésben?", "options": ["Kiírathatjuk vele a változók értékét", "Beszélgethetünk a géppel", "Hangosabb lesz a zene", "Semmire nem jó"], "answer": "Kiírathatjuk vele a változók értékét"},
+        {"question": "Mi az a logikai hiba?", "options": ["A kód lefut, de nem azt csinálja, amit várunk", "Nem indul el a kód", "Kikapcsol a gép", "Rossz a gép"], "answer": "A kód lefut, de nem azt csinálja, amit várunk"},
+        {"question": "Mi az a szintaktikai hiba (más nyelveken)?", "options": ["Eltépett szabályok, elírások", "Rossz gondolkodás", "Hang hiba", "Kép hiba"], "answer": "Eltépett szabályok, elírások"},
+        {"question": "Hogyan találhatjuk meg a hibát a Scratch-ben?", "options": ["Lépésről lépésre ellenőrizzük a blokkokat", "Kiabálunk a macskával", "Várunk a csodára", "Új gépet veszünk"], "answer": "Lépésről lépésre ellenőrizzük a blokkokat"},
+        {"question": "Mire jó a blokkok sárga kerete futás közben?", "options": ["Jelzi, hogy éppen melyik kód fut", "Díszítés", "Hiba jelzése", "Lassítás"], "answer": "Jelzi, hogy éppen melyik kód fut"},
+        {"question": "Mit csináljunk, ha a Sprite kimegy a képből és nem jön vissza?", "options": ["Adjunk neki (0,0) koordinátát", "Várjunk", "Vegyen új Sprite-ot", "Sírjunk"], "answer": "Adjunk neki (0,0) koordinátát"},
+        {"question": "Miért nem változik a pontszám?", "options": ["Nincs benne a növelő blokk vagy rossz a feltétel", "Túl sokat játszunk", "Rossz a monitor", "Kevés az áram"], "answer": "Nincs benne a növelő blokk vagy rossz a feltétel"},
+        {"question": "Mi az a 'végtelen ciklus' hiba?", "options": ["A program beragad és nem reagál", "Nagyon jó játék", "Kerek kód", "Szép animáció"], "answer": "A program beragad és nem reagál"},
+        {"question": "Hogyan javítható a 'túl gyors' animáció?", "options": ["'Várj' blokkok beillesztésével", "A gép lassításával", "Csukott szemmel", "Nem javítható"], "answer": "'Várj' blokkok beillesztésével"},
+        {"question": "Mit jelent az, hogy a kód 'tiszta'?", "options": ["Rendezett, jól olvasható és értelmezhető", "Le van törölve a monitor", "Nincs benne hang", "Kevés blokkból áll"], "answer": "Rendezett, jól olvasható és értelmezhető"},
+        {"question": "Mire jó a 'tisztítás' gomb a kód területen?", "options": ["Rendezi a blokkokat, hogy átláthatóbb legyen", "Törli a kódot", "Megjavítja a hibákat", "Kikapcsolja a hangot"], "answer": "Rendezi a blokkokat, hogy átláthatóbb legyen"},
+        {"question": "Mi az a 'nyomkövetés'?", "options": ["A program futásának figyelemmel kísérése", "Lábnyomok keresése", "Az egér követése", "A tanár figyelése"], "answer": "A program futásának figyelemmel kísérése"},
+        {"question": "Hogyan izolálhatunk egy hibát?", "options": ["Különválasztjuk a gyanús kódrészletet", "Bezárjuk a böngészőt", "Letakarjuk a képernyőt", "Kikapcsoljuk a hangot"], "answer": "Különválasztjuk a gyanús kódrészletet"},
+        {"question": "Mit jelent a 'redundáns' kód?", "options": ["Feleslegesen ismétlődő kód", "Nagyon fontos kód", "Színes kód", "Zene kód"], "answer": "Feleslegesen ismétlődő kód"},
+        {"question": "Mi az a 'beta' verzió?", "options": ["Még tesztelés alatt álló változat", "A kész játék", "Egy hal", "A második szint"], "answer": "Még tesztelés alatt álló változat"},
+        {"question": "Hogyan segíthetnek mások a hibakeresésben?", "options": ["Friss szemmel észrevehetik, amit mi nem", "Megírják helyettünk", "Kinevetnek", "Semmit nem ér"], "answer": "Friss szemmel észrevehetik, amit mi nem"},
+        {"question": "Mi az a 'dokumentáció'?", "options": ["A program működésének leírása", "Egy film", "A kód törlése", "A monitor neve"], "answer": "A program működésének leírása"},
+        {"question": "Mit jelent az 'optimalizálás'?", "options": ["A kód hatékonyabbá tétele", "A kód szépítése", "A kód törlése", "A kód színezése"], "answer": "A kód hatékonyabbá tétele"},
+        {"question": "Miért nem hallatszik a hang?", "options": ["Le van némítva a gép vagy nincs lejátszás blokk", "Rossz a kép", "Nincs benne mozgás", "Túl nagy a méret"], "answer": "Le van némítva a gép vagy nincs lejátszás blokk"},
+        {"question": "Miért villog a Sprite?", "options": ["Túl gyorsan váltja a jelmezeket vagy elrejt-megjelenít", "Így van jól", "Fázik", "Lemerült"], "answer": "Túl gyorsan váltja a jelmezeket vagy elrejt-megjelenít"},
+        {"question": "Hogyan lehet visszavonni egy hibás lépést?", "options": ["Szerkesztés -> Visszavonás (Ctrl+Z)", "Nem lehet", "Újra kell írni", "Sírni kell"], "answer": "Szerkesztés -> Visszavonás (Ctrl+Z)"},
+        {"question": "Mit csinál a 'töredék' (fragment) kód?", "options": ["Olyan kód, ami nincs sehova kapcsolva és nem fut", "Egy kis darab kép", "Egy hang", "Hibaüzenet"], "answer": "Olyan kód, ami nincs sehova kapcsolva és nem fut"},
+        {"question": "Mi a legfontosabb tulajdonság egy hibakeresőnek?", "options": ["Türelem és kitartás", "Gyorsaság", "Hangosság", "Erő"], "answer": "Türelem és kitartás"}
+      ],
+      "typing": [
+        "hibakeresés", "javítás", "ellenőrzés", "teszt", "türelem", "megoldás", "figyelem", "rendezés", "nyom", "pontosság"
+      ]
+    }
+  },
+  "17": {
+    "theme": "Prezentáció feladat",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a prezentáció célja?", "options": ["Információ átadása és bemutatása", "Rejtőzködés", "Alvás", "Játék"], "answer": "Információ átadása és bemutatása"},
+        {"question": "Mi az a 'dia'?", "options": ["A prezentáció egy oldala", "Egy filmtekercs", "Egy kisablak", "A monitor"], "answer": "A prezentáció egy oldala"},
+        {"question": "Hogyan lehet a Scratch-et prezentációra használni?", "options": ["Interaktív bemutatók készítésével", "Csak rajzolásra", "Csak zenére", "Sehogy"], "answer": "Interaktív bemutatók készítésével"},
+        {"question": "Mi az a 'beszéd buborék'?", "options": ["Szöveges üzenet a Sprite felett", "Szappanbuborék", "A gép zúgása", "A monitor pora"], "answer": "Szöveges üzenet a Sprite felett"},
+        {"question": "Melyik blokkal írhatunk szöveget a képernyőre?", "options": ["mondd ...", "gondold ...", "írj", "fess"], "answer": "mondd ..."},
+        {"question": "Mi a különbség a 'mondd' és a 'gondold' között?", "options": ["A kinézetük (buborék típusa)", "Nincs különbség", "A 'mondd' hangosabb", "A 'gondold' lassabb"], "answer": "A kinézetük (buborék típusa)"},
+        {"question": "Mire jó a 'mondd ... 2 másodpercig'?", "options": ["Hogy legyen idő elolvasni", "Hogy eltűnjön azonnal", "Hogy megálljon a gép", "Hogy színes legyen"], "answer": "Hogy legyen idő elolvasni"},
+        {"question": "Hogyan lehet navigálni a diák között?", "options": ["Billentyűkkel vagy kattintással", "Sehogy", "Fújjunk a monitorra", "Kiabáljunk"], "answer": "Billentyűkkel vagy kattintással"},
+        {"question": "Mi az az animált átmenet?", "options": ["Amikor a diák szépen váltanak", "Amikor elromlik a kép", "Amikor kikapcsol a gép", "Amikor zenél"], "answer": "Amikor a diák szépen váltanak"},
+        {"question": "Mire jó a háttérzene a bemutató alatt?", "options": ["A figyelem fenntartására és hangulatra", "Zavarásra", "Altatásra", "Semmire"], "answer": "A figyelem fenntartására és hangulatra"},
+        {"question": "Mi az a 'script' a prezentációban?", "options": ["Az előadás szövege", "A gép kábele", "A monitor kerete", "A billentyűzet"], "answer": "Az előadás szövege"},
+        {"question": "Hogyan tehetjük érdekessé a bemutatót?", "options": ["Képekkel, hangokkal és interakcióval", "Sok unalmas szöveggel", "Fekete-fehér képekkel", "Sötét szobával"], "answer": "Képekkel, hangokkal és interakcióval"},
+        {"question": "Melyik blokkal tudunk képet váltani?", "options": ["következő háttér", "következő jelmez", "mindkettő", "egyik sem"], "answer": "mindkettő"},
+        {"question": "Mi az a teljes képernyős mód?", "options": ["Amikor a projekt kitölti a monitort", "Amikor nagy a monitor", "Amikor közel megyünk", "Amikor szemüveget veszünk"], "answer": "Amikor a projekt kitölti a monitort"},
+        {"question": "Hogyan kell érthetően beszélni a bemutató alatt?", "options": ["Tagoltan és megfelelő hangerővel", "Halkan és gyorsan", "Kiabálva", "Suttogva"], "answer": "Tagoltan és megfelelő hangerővel"},
+        {"question": "Mi a legfontosabb egy dián?", "options": ["A lényeg és a jól olvasható szöveg", "Sok kis apró betű", "Nagyon sok kép", "Sötét háttér sötét betűvel"], "answer": "A lényeg és a jól olvasható szöveg"},
+        {"question": "Mire jó az 'időzített' váltás?", "options": ["Automatikus haladás az előadásban", "A gép kikapcsolása", "A lámpa leoltása", "Semmire"], "answer": "Automatikus haladás az előadásban"},
+        {"question": "Hogyan vonhatjuk be a közönséget?", "options": ["Kérdésekkel és interaktív részekkel", "Ne nézzünk rájuk", "Beszéljünk a falnak", "Aludjunk el"], "answer": "Kérdésekkel és interaktív részekkel"},
+        {"question": "Mit jelent a 'vizuális segédeszköz'?", "options": ["Képek, videók, ábrák", "Szemüveg", "Nagyító", "Lámpa"], "answer": "Képek, videók, ábrák"},
+        {"question": "Milyen blokkal készíthetünk kvízt a bemutatóba?", "options": ["kérdezd ... és várj", "mondd", "írj", "menj"], "answer": "kérdezd ... és várj"},
+        {"question": "Hol találjuk a választ a 'kérdezd' blokk után?", "options": ["A 'válasz' kerek blokkban", "Sehol", "Kiírja a macska", "A kukában"], "answer": "A 'válasz' kerek blokkban"},
+        {"question": "Hogyan menthetjük a bemutatónkat?", "options": ["Fájl -> Mentés most", "Sehogy", "Kikapcsolással", "Ráfújással"], "answer": "Fájl -> Mentés most"},
+        {"question": "Mi az a 'testbeszéd'?", "options": ["Hogyan állunk és mozgunk előadás közben", "Egy torna", "A kód egy része", "A gép mozgása"], "answer": "Hogyan állunk és mozgunk előadás közben"},
+        {"question": "Miért jó, ha gyakoroljuk az előadást?", "options": ["Magabiztosabbak leszünk", "Elfáradunk", "Elromlik a hangunk", "Felesleges"], "answer": "Magabiztosabbak leszünk"},
+        {"question": "Mi a 'köszönöm a figyelmet' szerepe?", "options": ["A bemutató udvarias lezárása", "A kezdés", "Hiba jelzése", "Szünet"], "answer": "A bemutató udvarias lezárása"}
+      ],
+      "typing": [
+        "bemutató", "előadás", "dia", "szöveg", "kép", "hang", "közönség", "figyelem", "magyarázat", "zárás"
+      ]
+    }
+  },
+  "18": {
+    "theme": "Weboldal készítés alap HTML",
+    "tasks": {
+      "mcq": [
+        {"question": "Mit jelent a HTML?", "options": ["HyperText Markup Language", "Home Tool Markup Link", "Hyper Tech Modern Language", "Hard Tool Multi Link"], "answer": "HyperText Markup Language"},
+        {"question": "Mire használjuk a HTML-t?", "options": ["Weboldalak szerkezetének megadására", "Képszerkesztésre", "Zenehallgatásra", "Autóvezetésre"], "answer": "Weboldalak szerkezetének megadására"},
+        {"question": "Milyen jelek közé tesszük a HTML tageket?", "options": ["< és >", "( és )", "{ és }", "[ és ]"], "answer": "< és >"},
+        {"question": "Mivel kezdődik minden HTML dokumentum?", "options": ["<html>", "<head>", "<body>", "<div>"], "answer": "<html>"},
+        {"question": "Hol található a weboldal látható tartalma?", "options": ["<body>", "<head>", "<title>", "<meta>"], "answer": "<body>"},
+        {"question": "Melyik tag jelöli a legnagyobb címsort?", "options": ["<h1>", "<h6>", "<p>", "<span>"], "answer": "<h1>"},
+        {"question": "Melyik taggel írunk bekezdést?", "options": ["<p>", "<b>", "<i>", "<u>"], "answer": "<p>"},
+        {"question": "Hogyan zárunk be egy taget?", "options": ["/ jellel, pl. </body>", "* jellel", "- jellel", "\\ jellel"], "answer": "/ jellel, pl. </body>"},
+        {"question": "Melyik taggel készíthetünk hivatkozást (linket)?", "options": ["<a>", "<li>", "<ul>", "<img>"], "answer": "<a>"},
+        {"question": "Melyik taggel szúrhatunk be képet?", "options": ["<img>", "<pic>", "<image>", "<photo>"], "answer": "<img>"},
+        {"question": "Mit jelent a 'head' rész?", "options": ["Információk az oldalról (pl. cím)", "Az oldal teteje a képernyőn", "A látható szöveg", "A képek helye"], "answer": "Információk az oldalról (pl. cím)"},
+        {"question": "Mi a 'title' tag szerepe?", "options": ["A böngésző fülén megjelenő cím", "A cikk címe", "A szerző neve", "A dátum"], "answer": "A böngésző fülén megjelenő cím"},
+        {"question": "Mivel készítünk felsorolást (pontozott)?", "options": ["<ul> és <li>", "<ol> és <li>", "<list>", "<dl>"], "answer": "<ul> és <li>"},
+        {"question": "Mivel készítünk számozott listát?", "options": ["<ol> és <li>", "<ul> és <li>", "<num>", "<sl>"], "answer": "<ol> és <li>"},
+        {"question": "Hogyan tehetünk félkövérré egy szöveget?", "options": ["<b> vagy <strong>", "<i>", "<u>", "<big>"], "answer": "<b> vagy <strong>"},
+        {"question": "Hogyan tehetünk döltté egy szöveget?", "options": ["<i> vagy <em>", "<b>", "<u>", "<s>"], "answer": "<i> vagy <em>"},
+        {"question": "Melyik attribútum kell a link céljához?", "options": ["href", "src", "alt", "link"], "answer": "href"},
+        {"question": "Melyik attribútum kell a kép forrásához?", "options": ["src", "href", "alt", "id"], "answer": "src"},
+        {"question": "Mi az az 'alt' szöveg a képnél?", "options": ["Helyettesítő szöveg, ha a kép nem tölt be", "A kép színe", "A kép kora", "A kép ára"], "answer": "Helyettesítő szöveg, ha a kép nem tölt be"},
+        {"question": "Melyik taggel készítünk táblázatot?", "options": ["<table>", "<grid>", "<box>", "<tab>"], "answer": "<table>"},
+        {"question": "Mit jelent a 'tr' a táblázatban?", "options": ["Table Row (sor)", "Table Red", "Table Run", "Table Right"], "answer": "Table Row (sor)"},
+        {"question": "Mit jelent a 'td' a táblázatban?", "options": ["Table Data (cella)", "Table Down", "Table Door", "Table Day"], "answer": "Table Data (cella)"},
+        {"question": "Mi az a CSS?", "options": ["A weboldalak stílusát (szín, betűtípus) leíró nyelv", "Egy játék", "Egy vírus", "Egy böngésző"], "answer": "A weboldalak stílusát (szín, betűtípus) leíró nyelv"},
+        {"question": "Mi az a 'hypertext'?", "options": ["Szöveg, ami linkeken keresztül kapcsolódik", "Nagyon gyors gépelés", "Nagy betűk", "Színes betűk"], "answer": "Szöveg, ami linkeken keresztül kapcsolódik"},
+        {"question": "Mivel nézhetünk meg egy HTML fájlt?", "options": ["Böngészővel (pl. Chrome)", "Kalkulátorral", "Paint-tel", "Jegyzettömbbel csak szerkeszteni lehet"], "answer": "Böngészővel (pl. Chrome)"}
+      ],
+      "typing": [
+        "html", "weboldal", "szerkezet", "tartalom", "bekezdés", "címsor", "hivatkozás", "lista", "táblázat", "stílus"
+      ]
+    }
+  },
+  "19": {
+    "theme": "Online kutatás",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi az a keresőmotor?", "options": ["Egy program, ami segít információt találni a neten", "Egy autó motorja", "A billentyűzet", "Egy játék"], "answer": "Egy program, ami segít információt találni a neten"},
+        {"question": "Melyik a legismertebb keresőmotor?", "options": ["Google", "Minecraft", "Scratch", "Paint"], "answer": "Google"},
+        {"question": "Mit jelentenek a kulcsszavak?", "options": ["A kereséshez használt legfontosabb szavak", "Titkos kódok", "A gép gombjai", "A jelszavunk"], "answer": "A kereséshez használt legfontosabb szavak"},
+        {"question": "Miért fontos több forrást is megnézni?", "options": ["Hogy biztosak legyünk az információ pontosságában", "Mert így több ideig tart", "Mert szebb", "Nem fontos"], "answer": "Hogy biztosak legyünk az információ pontosságában"},
+        {"question": "Minden igaz, amit az interneten olvasunk?", "options": ["Nem, mindig kritikusan kell kezelni", "Igen, mindent", "Csak ami színes", "Csak amit a barátaink írnak"], "answer": "Nem, mindig kritikusan kell kezelni"},
+        {"question": "Mi az a Wikipédia?", "options": ["Egy közösség által szerkesztett online enciklopédia", "Egy bolt", "Egy játékoldal", "Egy videómegosztó"], "answer": "Egy közösség által szerkesztett online enciklopédia"},
+        {"question": "Hogyan kereshetünk pontos kifejezésre?", "options": ["Idézőjelek közé tesszük \"így\"", "Csupa nagybetűvel", "Kiabálunk", "Sok felkiáltójellel"], "answer": "Idézőjelek közé tesszük \"így\""},
+        {"question": "Mi az a megbízható forrás?", "options": ["Hivatalos, ellenőrzött adatokkal rendelkező oldal", "Bárki blogja", "Egy névtelen komment", "Egy vicces kép"], "answer": "Hivatalos, ellenőrzött adatokkal rendelkező oldal"},
+        {"question": "Mit jelent a 'plágium'?", "options": ["Más munkájának sajátként való feltüntetése", "Egy betegség", "Egy bolygó", "A net sebessége"], "answer": "Más munkájának sajátként való feltüntetése"},
+        {"question": "Hogyan kerülhetjük el a plágiumot?", "options": ["Forrásmegjelöléssel (hivatkozással)", "Nem másolunk", "Átfogalmazzuk", "Minden felsorolt"], "answer": "Minden felsorolt"},
+        {"question": "Mi az a URL?", "options": ["Weboldal címe (pl. www.google.hu)", "A gép neve", "Egy felhasználónév", "Egy titkos kód"], "answer": "Weboldal címe (pl. www.google.hu)"},
+        {"question": "Mire jó a képkereső?", "options": ["Kifejezetten képek találására", "Képek rajzolására", "Képek törlésére", "Képek eladására"], "answer": "Kifejezetten képek találására"},
+        {"question": "Mi az a böngésző előzmény?", "options": ["A korábban meglátogatott oldalak listája", "A jövőbeli tervek", "A gép kora", "A billentyűzet múltja"], "answer": "A korábban meglátogatott oldalak listája"},
+        {"question": "Mit jelent a 'könyvjelző'?", "options": ["Elmentett weboldal a gyors eléréshez", "Egy papír a könyvben", "A monitor széle", "Egy gomb"], "answer": "Elmentett weboldal a gyors eléréshez"},
+        {"question": "Mire kell figyelni hírek olvasásakor?", "options": ["Álhírekre (fake news)", "A betűk színére", "A reklámok számára", "A gép hangjára"], "answer": "Álhírekre (fake news)"},
+        {"question": "Mit jelent a '.hu' a végén?", "options": ["Magyarországi domain", "Hiba", "Huncut", "Hosszú"], "answer": "Magyarországi domain"},
+        {"question": "Mit jelent a '.com'?", "options": ["Kereskedelmi (commercial) domain", "Komoly", "Könnyű", "Kerek"], "answer": "Kereskedelmi (commercial) domain"},
+        {"question": "Mit jelent az 'edu' a címben?", "options": ["Oktatási (educational) intézmény", "Édes", "Egyszerű", "Eladó"], "answer": "Oktatási (educational) intézmény"},
+        {"question": "Mi az az álhír?", "options": ["Szándékosan megtévesztő, hamis információ", "Egy régi hír", "Egy vicces hír", "Egy rövid hír"], "answer": "Szándékosan megtévesztő, hamis információ"},
+        {"question": "Hogyan ellenőrizhetjük egy kép eredetét?", "options": ["Fordított képkereséssel", "Ránézéssel", "Megkérdezzük a képet", "Nem lehet"], "answer": "Fordított képkereséssel"},
+        {"question": "Miért fontos a dátum egy információnál?", "options": ["Hogy tudjuk, mennyire friss az adat", "Mert szép a szám", "Hogy tudjuk, mikor van szünet", "Nem fontos"], "answer": "Hogy tudjuk, mennyire friss az adat"},
+        {"question": "Mit jelent az 'inkognitó mód'?", "options": ["A böngésző nem menti az előzményeket", "Láthatatlanok leszünk a szobában", "Ingyen lesz a net", "Gyorsabb lesz a gép"], "answer": "A böngésző nem menti az előzményeket"},
+        {"question": "Mi az a hirdetés (reklám)?", "options": ["Fizetett tartalom valami eladására", "Ingyen ajándék", "A kód része", "Hibaüzenet"], "answer": "Fizetett tartalom valami eladására"},
+        {"question": "Hogyan szűrhetjük a találatokat idő szerint?", "options": ["A keresési eszközöknél beállítva", "Várunk", "Visszaforgatjuk az órát", "Sehogy"], "answer": "A keresési eszközöknél beállítva"},
+        {"question": "Mi az a digitális írástudás?", "options": ["Képesség az online eszközök okos használatára", "Szép írás a gépen", "Gépelés", "Játéktudás"], "answer": "Képesség az online eszközök okos használatára"}
+      ],
+      "typing": [
+        "keresés", "információ", "forrás", "megbízható", "kulcsszó", "böngésző", "hivatkozás", "adat", "igazság", "tudás"
+      ]
+    }
+  },
+  "20": {
+    "theme": "Webhely biztonsága",
+    "tasks": {
+      "mcq": [
+        {"question": "Milyen a jó jelszó?", "options": ["Hosszú, kis- és nagybetűt, számot, jelet tartalmaz", "A keresztnevünk", "123456", "password"], "answer": "Hosszú, kis- és nagybetűt, számot, jelet tartalmaz"},
+        {"question": "Szabad-e megosztani a jelszavunkat másokkal?", "options": ["Soha, senkivel (kivéve szülők)", "Igen, a legjobb barátunkkal", "Igen, ha kérik", "Igen, kiírhatjuk a falra"], "answer": "Soha, senkivel (kivéve szülők)"},
+        {"question": "Mit jelent a lakat ikon a böngészőben?", "options": ["Biztonságos, titkosított kapcsolat", "Zárva van az oldal", "Elromlott az oldal", "Fizetni kell"], "answer": "Biztonságos, titkosított kapcsolat"},
+        {"question": "Mi az a vírus?", "options": ["Kártékony program", "Betegség a gépben", "Egy rossz kép", "Egy hangos zene"], "answer": "Kártékony program"},
+        {"question": "Mit csinál az vírusirtó?", "options": ["Megvédi a gépet a kártevőktől", "Kitakarítja a port", "Gyorsítja az internetet", "Törli a fájlokat"], "answer": "Megvédi a gépet a kártevőktől"},
+        {"question": "Mi az a 'phishing' (adathalászat)?", "options": ["Csalók adatokat próbálnak kicsalni tőlünk", "Horgászós játék", "Vízparti netezés", "Képek gyűjtése"], "answer": "Csalók adatokat próbálnak kicsalni tőlünk"},
+        {"question": "Szabad-e ismeretlen linkre kattintani e-mailben?", "options": ["Nem, veszélyes lehet", "Igen, biztos izgalmas", "Csak ha sok pénzt ígér", "Igen, mindenre rá kell kattintani"], "answer": "Nem, veszélyes lehet"},
+        {"question": "Mit tegyünk, ha valami furcsát látunk a neten?", "options": ["Szóljunk egy felnőttnek", "Zárjuk be és hallgassunk", "Küldjük el mindenkinek", "Próbáljuk megjavítani"], "answer": "Szóljunk egy felnőttnek"},
+        {"question": "Mi az a digitális lábnyom?", "options": ["Minden, amit a neten teszünk és ott marad", "Egy koszos monitor", "A gép súlya", "A net sebessége"], "answer": "Minden, amit a neten teszünk és ott marad"},
+        {"question": "Szabad-e megadni a lakcímünket idegeneknek?", "options": ["Soha", "Igen, ha kedvesek", "Csak ha kérdezik", "Igen, mindenkinek"], "answer": "Soha"},
+        {"question": "Mi az a tűzfal?", "options": ["Védi a hálózatot a betolakodóktól", "Egy meleg fal", "A gép hűtője", "Egy piros festés"], "answer": "Védi a hálózatot a betolakodóktól"},
+        {"question": "Mit jelent a kétfaktoros hitelesítés (2FA)?", "options": ["Két lépcsős azonosítás (pl. jelszó + kód)", "Két ember kell hozzá", "Két gép kell hozzá", "Kétszer kell gépelni"], "answer": "Két lépcsős azonosítás (pl. jelszó + kód)"},
+        {"question": "Mi az a spam?", "options": ["Kéretlen reklámlevél", "Egy fajta hús", "Gyors üzenet", "Vicces videó"], "answer": "Kéretlen reklámlevél"},
+        {"question": "Hogyan védekezhetünk a spam ellen?", "options": ["Nem adjuk meg mindenhol az e-mailünket", "Kikapcsoljuk a gépet", "Válaszolunk nekik", "Sírjunk"], "answer": "Nem adjuk meg mindenhol az e-mailünket"},
+        {"question": "Mi az a szoftverfrissítés?", "options": ["A programok újabb, biztonságosabb verziója", "A gép tisztítása", "Új gép vétele", "A monitor cseréje"], "answer": "A programok újabb, biztonságosabb verziója"},
+        {"question": "Miért nem jó mindenhol ugyanazt a jelszót használni?", "options": ["Mert ha egyet feltörnek, mindhez hozzáférnek", "Mert unalmas", "Mert nem szabad", "Mert elfelejtjük"], "answer": "Mert ha egyet feltörnek, mindhez hozzáférnek"},
+        {"question": "Mi az a jelszókezelő?", "options": ["Program, ami biztonságosan tárolja a jelszavakat", "Egy titkárnő", "A billentyűzet", "Egy füzet"], "answer": "Program, ami biztonságosan tárolja a jelszavakat"},
+        {"question": "Szabad-e idegenekkel találkozni, akiket csak netről ismerünk?", "options": ["Csak szülői felügyelettel és biztonságos helyen", "Igen, bármikor", "Egyedül is lehet", "Sosem"], "answer": "Csak szülői felügyelettel és biztonságos helyen"},
+        {"question": "Mit jelent a privát szféra?", "options": ["A magánéletünk védelme", "Egy külön szoba", "Titkos kód", "A gép belseje"], "answer": "A magánéletünk védelme"},
+        {"question": "Mire jó a privát böngészés?", "options": ["Nem menti az előzményeket a gépen", "Láthatatlanná tesz", "Ingyen netet ad", "Törli a vírusokat"], "answer": "Nem menti az előzményeket a gépen"},
+        {"question": "Mi az a pop-up?", "options": ["Váratlanul felugró ablak", "Egy fajta üdítő", "Egy tánc", "A gép hangja"], "answer": "Váratlanul felugró ablak"},
+        {"question": "Mit tegyünk, ha valaki bánt minket a neten?", "options": ["Kérjünk segítséget felnőttől és blokkoljuk", "Vágjunk vissza", "Hallgassunk róla", "Töröljük magunkat"], "answer": "Kérjünk segítséget felnőttől és blokkoljuk"},
+        {"question": "Mi az a sütik (cookies)?", "options": ["Weboldalak által tárolt kis adatfájlok", "Finom sütemények", "A monitor pora", "A gép gombjai"], "answer": "Weboldalak által tárolt kis adatfájlok"},
+        {"question": "Miért kell óvatosnak lenni a nyilvános Wi-Fi-vel?", "options": ["Mert mások ellophatják az adatainkat", "Mert lassú", "Mert fizetni kell", "Mert rossz a hangja"], "answer": "Mert mások ellophatják az adatainkat"},
+        {"question": "Mi a legfontosabb a netes biztonsághoz?", "options": ["Az óvatosság és a tudatosság", "A legdrágább gép", "A leggyorsabb net", "Sok barát"], "answer": "Az óvatosság és a tudatosság"}
+      ],
+      "typing": [
+        "biztonság", "jelszó", "védelem", "vírus", "titkosítás", "adatvédelem", "óvatosság", "internet", "segítség", "szabály"
+      ]
+    }
+  },
+  "21": {
+    "theme": "Digitalis munka",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a digitális munka?", "options": ["Számítógéppel végzett feladatok", "Kerti munka", "Főzés", "Sportolás"], "answer": "Számítógéppel végzett feladatok"},
+        {"question": "Melyik programmal írunk levelet vagy dolgozatot?", "options": ["Szövegszerkesztő (pl. Word)", "Paint", "Számológép", "Médialejátszó"], "answer": "Szövegszerkesztő (pl. Word)"},
+        {"question": "Melyik programmal készítünk táblázatot?", "options": ["Táblázatkezelő (pl. Excel)", "Böngésző", "Hangrögzítő", "Vírusirtó"], "answer": "Táblázatkezelő (pl. Excel)"},
+        {"question": "Mi az a 'fájl'?", "options": ["Adatok tárolási egysége a gépen", "Egy papírlap", "A monitor kerete", "Egy gomb"], "answer": "Adatok tárolási egysége a gépen"},
+        {"question": "Mi az a 'mappa'?", "options": ["Fájlok tárolására és rendszerezésére szolgál", "Egy táska", "A billentyűzet", "Egy könyv"], "answer": "Fájlok tárolására és rendszerezésére szolgál"},
+        {"question": "Hogyan nevezzük el helyesen a fájlokat?", "options": ["Röviden, utalva a tartalomra", "Bármilyen hosszú lehet", "Csak számokkal", "Sehogy"], "answer": "Röviden, utalva a tartalomra"},
+        {"question": "Miért fontos a mentés?", "options": ["Hogy ne vesszen el a munkánk", "Hogy több helyet foglaljon", "Mert kötelező", "Hogy szebb legyen"], "answer": "Hogy ne vesszen el a munkánk"},
+        {"question": "Mi az a 'felhő alapú' munka?", "options": ["Interneten keresztül bárhonnan elérhető fájlok", "Az égen végzett munka", "Vizes munka", "Lassú munka"], "answer": "Interneten keresztül bárhonnan elérhető fájlok"},
+        {"question": "Mi az a közös munka (collaboration)?", "options": ["Többen dolgoznak egyszerre ugyanazon a fájlon", "Mindenki külön dolgozik", "Veszekedés", "Játék"], "answer": "Többen dolgoznak egyszerre ugyanazon a fájlon"},
+        {"question": "Mi a billentyűparancs a másoláshoz?", "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"], "answer": "Ctrl + C"},
+        {"question": "Mi a billentyűparancs a beillesztéshez?", "options": ["Ctrl + V", "Ctrl + C", "Ctrl + S", "Ctrl + P"], "answer": "Ctrl + V"},
+        {"question": "Mi a billentyűparancs a kivágáshoz?", "options": ["Ctrl + X", "Ctrl + C", "Ctrl + V", "Ctrl + Z"], "answer": "Ctrl + X"},
+        {"question": "Mi a billentyűparancs a mentéshez?", "options": ["Ctrl + S", "Ctrl + M", "Ctrl + A", "Ctrl + Q"], "answer": "Ctrl + S"},
+        {"question": "Mi a kurzor?", "options": ["A képernyőn mozgó mutató", "Egy gomb", "A gép hangja", "A monitor széle"], "answer": "A képernyőn mozgó mutató"},
+        {"question": "Mit jelent az 'editálás'?", "options": ["Szerkesztés, módosítás", "Törlés", "Mentés", "Nyomtatás"], "answer": "Szerkesztés, módosítás"},
+        {"question": "Mi az a 'nyomtatási kép'?", "options": ["Megmutatja, hogyan fog kinézni papíron", "Egy fénykép", "A monitor", "A billentyűzet"], "answer": "Megmutatja, hogyan fog kinézni papíron"},
+        {"question": "Mi a PDF?", "options": ["Univerzális dokumentum formátum", "Kép fájl", "Zene fájl", "Vírus"], "answer": "Univerzális dokumentum formátum"},
+        {"question": "Mi a 'Desktop' (Asztal)?", "options": ["A gép kezdőképernyője", "Egy asztal a szobában", "A billentyűzet", "Az egérpad"], "answer": "A gép kezdőképernyője"},
+        {"question": "Mit csinál a 'Kuka'?", "options": ["Ide kerülnek a törölt fájlok ideiglenesen", "Kiszemeteli a szobát", "Megjavítja a fájlokat", "Elrejti a fájlokat"], "answer": "Ide kerülnek a törölt fájlok ideiglenesen"},
+        {"question": "Mi az az e-mail?", "options": ["Elektronikus levél", "Papír levél", "SMS", "Hangüzenet"], "answer": "Elektronikus levél"},
+        {"question": "Mit jelent a 'csatolmány'?", "options": ["Levélhez mellékelt fájl", "A gép kábele", "Egy matrica", "A levél címe"], "answer": "Levélhez mellékelt fájl"},
+        {"question": "Mi az a 'multitasking'?", "options": ["Több program egyidejű futtatása", "Sok gép", "Sok ember", "Gyors gépelés"], "answer": "Több program egyidejű futtatása"},
+        {"question": "Miért fontos a fájlok rendszerezése?", "options": ["Hogy gyorsan megtaláljuk, amit keresünk", "Hogy szebb legyen a gép", "Hogy ne unatkozzunk", "Nem fontos"], "answer": "Hogy gyorsan megtaláljuk, amit keresünk"},
+        {"question": "Mit jelent az 'importálás'?", "options": ["Külső fájl behozása a programba", "Fájl küldése", "Törlés", "Mentés"], "answer": "Külső fájl behozása a programba"},
+        {"question": "Mit jelent az 'exportálás'?", "options": ["Fájl mentése más formátumban", "Fájl behozása", "Másolás", "Törlés"], "answer": "Fájl mentése más formátumban"}
+      ],
+      "typing": [
+        "munka", "fájl", "mappa", "mentés", "szerkesztés", "másolás", "beillesztés", "szöveg", "dokumentum", "feladat"
+      ]
+    }
+  },
+  "22": {
+    "theme": "Etikai kérdések",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi az informatika etika?", "options": ["Szabályok a helyes digitális viselkedésről", "Hogyan kell szerelni a gépet", "A kód színe", "Játékszabályok"], "answer": "Szabályok a helyes digitális viselkedésről"},
+        {"question": "Mi az a 'cyberbullying'?", "options": ["Internetes zaklatás", "Számítógépes játék", "Gyors gépelés", "A net sebessége"], "answer": "Internetes zaklatás"},
+        {"question": "Szabad-e más munkáját sajátunkként feltüntetni?", "options": ["Nem, ez plágium", "Igen, ha tetszik", "Igen, ha senki nem látja", "Csak ha átírjuk a nevünket"], "answer": "Nem, ez plágium"},
+        {"question": "Mit jelent a 'netikett'?", "options": ["Internetes illemszabályok", "Egy kis háló", "A net ára", "Egy program"], "answer": "Internetes illemszabályok"},
+        {"question": "Hogyan kell viselkedni egy online chaten?", "options": ["Udvariasan és tiszteletteljesen", "Kiabálva", "Bántóan", "Sosem kell válaszolni"], "answer": "Udvariasan és tiszteletteljesen"},
+        {"question": "Mi az a szerzői jog?", "options": ["Az alkotó joga a saját művéhez", "A gép tulajdonjoga", "A tanár joga", "Nincs ilyen"], "answer": "Az alkotó joga a saját művéhez"},
+        {"question": "Szabad-e engedély nélkül lementeni más képét és közzétenni?", "options": ["Általában nem, engedély kell hozzá", "Igen, mindent szabad", "Csak ha kicsi a kép", "Csak ha fekete-fehér"], "answer": "Általában nem, engedély kell hozzá"},
+        {"question": "Mit jelent a 'Creative Commons'?", "options": ["Szabadabb felhasználást engedő licenc", "Egy titkos társaság", "Egy fajta vírus", "A gép neve"], "answer": "Szabadabb felhasználást engedő licenc"},
+        {"question": "Mit tegyünk, if látjuk, hogy valakit bántanak a neten?", "options": ["Álljunk mellé és szóljunk felnőttnek", "Nézzük végig", "Csatlakozzunk a bántókhoz", "Nevessünk rajta"], "answer": "Álljunk mellé és szóljunk felnőttnek"},
+        {"question": "Miért nem jó csupa nagybetűvel írni (CAPS LOCK)?", "options": ["Mert kiabálásnak tűnik", "Mert nehéz elolvasni", "Mert lassabb", "Mert elromlik a billentyűzet"], "answer": "Mert kiabálásnak tűnik"},
+        {"question": "Mit jelent a 'fake profile' (álprofil)?", "options": ["Valaki másnak adja ki magát a neten", "Egy szép profil", "Egy új profil", "Nincs ilyen"], "answer": "Valaki másnak adja ki magát a neten"},
+        {"question": "Mi az a digitális egyenlőtlenség?", "options": ["Nem mindenkinek van egyforma esélye a technológiához", "Rossz matek", "Különböző gépek", "Sok kábel"], "answer": "Nem mindenkinek van egyforma esélye a technológiához"},
+        {"question": "Miért fontos a képernyőidő korlátozása?", "options": ["Az egészségünk és a pihenés miatt", "Mert drága az áram", "Hogy ne kopjon a gép", "Mert a szülők így akarják"], "answer": "Az egészségünk és a pihenés miatt"},
+        {"question": "Szabad-e bárkit lefotózni és feltenni a netre engedély nélkül?", "options": ["Nem", "Igen, bárkit", "Csak the barátainkat", "Csak ha vicces"], "answer": "Nem"},
+        {"question": "Mit jelent a 'tisztességes használat' (fair use)?", "options": ["Szerzői jogi védelem alatti művek korlátozott használata", "A gép tisztítása", "Ingyen szoftver", "Jó játék"], "answer": "Szerzői jogi védelem alatti művek korlátozott használata"},
+        {"question": "Mi az a szoftverkalózkodás?", "options": ["Fizetős programok illegális másolása", "Hajózós játék", "A gép elrontása", "Rossz kódolás"], "answer": "Fizetős programok illegális másolása"},
+        {"question": "Miért fontos a forrásmegjelölés?", "options": ["Hogy elismerjük az alkotó munkáját", "Hogy hosszabb legyen a szöveg", "Hogy okosabbnak tűnjünk", "Nem fontos"], "answer": "Hogy elismerjük az alkotó munkáját"},
+        {"question": "Mit jelent az 'empátia' az online térben?", "options": ["Beleéljük magunkat mások helyzetébe", "Gyors gépelés", "Képnézegetés", "Vezetéknév"], "answer": "Beleéljük magunkat mások helyzetébe"},
+        {"question": "Mire való a 'jelentés' (report) gomb?", "options": ["Szabálytalanság vagy bántás jelzésére", "A tanárnak levél", "Játék indítás", "Törlés"], "answer": "Szabálytalanság vagy bántás jelzésére"},
+        {"question": "Miért ne osszunk meg álhíreket?", "options": ["Mert félrevezetünk másokat", "Mert lassú lesz a net", "Mert büntetést kapunk a géptől", "Semmiért"], "answer": "Mert félrevezetünk másokat"},
+        {"question": "Mit jelent a 'médiatudatosság'?", "options": ["Kritikusan és okosan használjuk a médiát", "Sok TV nézés", "Sok újságolvasás", "A gép ismerete"], "answer": "Kritikusan és okosan használjuk a médiát"},
+        {"question": "Szabad-e feltörni más fiókját 'viccből'?", "options": ["Nem, ez bűncselekmény és bántó", "Igen, ha vicces", "Csak ha gyenge a jelszó", "Csak ha megengedik"], "answer": "Nem, ez bűncselekmény és bántó"},
+        {"question": "Mit jelent az online identitás?", "options": ["Akik vagyunk a digitális világban", "A jelszavunk", "A gép neve", "A képünk"], "answer": "Akik vagyunk a digitális világban"},
+        {"question": "Hogyan védhetjük a digitális hírnevünket?", "options": ["Gondoljuk át, mit posztolunk", "Sehogy", "Töröljünk mindent", "Sok képet tegyünk fel"], "answer": "Gondoljuk át, mit posztolunk"},
+        {"question": "Mi a legfontosabb szabály a neten?", "options": ["Ne tegyél olyat, amit élőben sem tennél", "Légy a leggyorsabb", "Nyerj meg minden játékot", "Legyen sok barátod"], "answer": "Ne tegyél olyat, amit élőben sem tennél"}
+      ],
+      "typing": [
+        "etika", "szabály", "tisztelet", "zaklatás", "segítség", "igazság", "alkotás", "forrás", "viselkedés", "közösség"
+      ]
+    }
+  },
+  "23": {
+    "theme": "Adatmennyiség",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a legkisebb egység az informatikában?", "options": ["Bit", "Bájt", "Kilóbájt", "Gramm"], "answer": "Bit"},
+        {"question": "Hány bitből áll egy bájt (byte)?", "options": ["8", "10", "2", "100"], "answer": "8"},
+        {"question": "Mit jelent a KB?", "options": ["Kilóbájt", "Kis bájt", "Kerek bájt", "Kék bájt"], "answer": "Kilóbájt"},
+        {"question": "Körülbelül hány bájt egy Kilóbájt?", "options": ["1024", "100", "500", "10"], "answer": "1024"},
+        {"question": "Mit jelent a MB?", "options": ["Megabájt", "Mély bájt", "Magas bájt", "Mini bájt"], "answer": "Megabájt"},
+        {"question": "Mit jelent a GB?", "options": ["Gigabájt", "Gyors bájt", "Giga bit", "Görbe bájt"], "answer": "Gigabájt"},
+        {"question": "Mit jelent a TB?", "options": ["Terabájt", "Törpe bájt", "Tele bájt", "Tiszta bájt"], "answer": "Terabájt"},
+        {"question": "Melyik a legnagyobb a felsoroltak közül?", "options": ["Terabájt", "Gigabájt", "Megabájt", "Kilóbájt"], "answer": "Terabájt"},
+        {"question": "Melyik a legkisebb a felsoroltak közül?", "options": ["Bit", "Bájt", "Kilóbájt", "Megabájt"], "answer": "Bit"},
+        {"question": "Miben mérjük a pendrive kapacitását általában?", "options": ["Gigabájt (GB)", "Bit", "Gramm", "Liter"], "answer": "Gigabájt (GB)"},
+        {"question": "Miben mérjük egy sima szöveges fájl méretét?", "options": ["Bájt vagy Kilóbájt", "Gigabájt", "Terabájt", "Kilométer"], "answer": "Bájt vagy Kilóbájt"},
+        {"question": "Mekkora lehet egy átlagos fénykép mérete?", "options": ["Pár Megabájt (MB)", "Pár Bit", "Pár Terabájt", "100 bájt"], "answer": "Pár Megabájt (MB)"},
+        {"question": "Mit jelent a tárolókapacitás?", "options": ["Mennyi adat fér el az eszközön", "Milyen nehéz a gép", "Milyen gyors a gép", "Milyen színes a gép"], "answer": "Mennyi adat fér el az eszközön"},
+        {"question": "Mi az a HDD?", "options": ["Merevlemez (tárolóeszköz)", "Egy játék", "A monitor", "A billentyűzet"], "answer": "Merevlemez (tárolóeszköz)"},
+        {"question": "Mi az az SSD?", "options": ["Gyorsabb háttértár", "Egy fajta süti", "A gép hűtője", "Hangszóró"], "answer": "Gyorsabb háttértár"},
+        {"question": "Mit jelent a tömörítés?", "options": ["Fájl méretének csökkentése", "Fájl törlése", "Fájl színezése", "Fájl másolása"], "answer": "Fájl méretének csökkentése"},
+        {"question": "Melyik egy tömörített fájlformátum?", "options": ["ZIP", "DOC", "PDF", "EXE"], "answer": "ZIP"},
+        {"question": "Mire jó a tömörítés?", "options": ["Kevesebb helyet foglal és gyorsabb küldeni", "Hogy nehezebb legyen elolvasni", "Mert szebb", "Semmire"], "answer": "Kevesebb helyet foglal és gyorsabb küldeni"},
+        {"question": "Hány MB van egy GB-ban (körülbelül)?", "options": ["1000", "10", "100", "Végtelen"], "answer": "1000"},
+        {"question": "Mi az a 'bitráta'?", "options": ["Adatátviteli sebesség", "A bit színe", "A bit súlya", "A bit kora"], "answer": "Adatátviteli sebesség"},
+        {"question": "Miben mérjük az internet sebességét?", "options": ["Mbps (Megabit per másodperc)", "Kg", "Km", "Perc"], "answer": "Mbps (Megabit per másodperc)"},
+        {"question": "Melyik foglal több helyet: egy órás videó vagy egy kép?", "options": ["A videó", "A kép", "Egyformák", "Attól függ, mekkora a kép"], "answer": "A videó"},
+        {"question": "Mi az a bináris rendszer?", "options": ["Kettes számrendszer (0 és 1)", "Tízes számrendszer", "Betűk rendszere", "Színkód"], "answer": "Kettes számrendszer (0 és 1)"},
+        {"question": "Hány állapotot tud tárolni egy bit?", "options": ["Kettőt (0 vagy 1)", "Tízet", "Semennyit", "Végtelent"], "answer": "Kettőt (0 vagy 1)"},
+        {"question": "Miért hívják digitálisnak a gépeket?", "options": ["Mert számokkal (digitekkel) dolgoznak", "Mert van ujja (digit)", "Mert gyors", "Mert színes"], "answer": "Mert számokkal (digitekkel) dolgoznak"}
+      ],
+      "typing": [
+        "adat", "méret", "kapacitás", "tárolás", "bájt", "kilóbájt", "megabájt", "gigabájt", "tömörítés", "bináris"
+      ]
+    }
+  },
+  "24": {
+    "theme": "Összefoglalás K4",
+    "tasks": {
+      "mcq": [
+        {"question": "Melyik blokkal kezdjük a Scratch programot?", "options": ["Amikor a zöld zászlóra kattintunk", "Menj", "Mondd", "Stop"], "answer": "Amikor a zöld zászlóra kattintunk"},
+        {"question": "Mi az algoritmus?", "options": ["Lépések sorozata egy probléma megoldására", "Egy fajta virág", "A számítógép neve", "Egy nehéz szó"], "answer": "Lépések sorozata egy probléma megoldására"},
+        {"question": "Mit csinál a 'mindig' ciklus?", "options": ["Végtelenül ismétli a benne lévő blokkokat", "Egyszer fut le", "Megállítja a gépet", "Törli a kódot"], "answer": "Végtelenül ismétli a benne lévő blokkokat"},
+        {"question": "Hogyan érzékeljük, ha két Sprite összeér?", "options": ["Érinted a ...-t? blokkal", "Nézzük", "Mérjük", "Nem lehet"], "answer": "Érinted a ...-t? blokkal"},
+        {"question": "Mire jó a változó?", "options": ["Adatok (pl. pontszám) tárolására", "Dísznek", "Hangnak", "Mozgásnak"], "answer": "Adatok (pl. pontszám) tárolására"},
+        {"question": "Mi a HTML fő feladata?", "options": ["Weboldalak szerkezete", "Zeneírás", "Játék", "Vírusirtás"], "answer": "Weboldalak szerkezete"},
+        {"question": "Hogyan hívjuk a programhibát?", "options": ["Bug", "Dog", "Cat", "Fly"], "answer": "Bug"},
+        {"question": "Mi a biztonságos jelszó?", "options": ["Hosszú és vegyes karakterekből áll", "A nevünk", "1234", "Jelszó"], "answer": "Hosszú és vegyes karakterekből áll"},
+        {"question": "Mivel mérjük a nagy adatmennyiséget?", "options": ["Gigabájt (GB)", "Milliméter", "Kilogramm", "Liter"], "answer": "Gigabájt (GB)"},
+        {"question": "Mi a digitális lábnyom?", "options": ["Nyomunk a neten", "Cipőnyom", "Monitor folt", "Egérpad"], "answer": "Nyomunk a neten"},
+        {"question": "Mi az interaktivitás?", "options": ["A felhasználó és a gép kapcsolata", "A gép zúgása", "A monitor fénye", "Sötétség"], "answer": "A felhasználó és a gép kapcsolata"},
+        {"question": "Melyik taggel készítünk címsort HTML-ben?", "options": ["<h1>", "<p>", "<a>", "<img>"], "answer": "<h1>"},
+        {"question": "Melyik blokk generál véletlen számot?", "options": ["véletlen szám", "írj számot", "számolj", "mennyit?"], "answer": "véletlen szám"},
+        {"question": "Hogyan hívjuk az animációhoz a képeket?", "options": ["Jelmezek", "Ruhák", "Maszkok", "Sapkák"], "answer": "Jelmezek"},
+        {"question": "Mire való a 'ha ... akkor' blokk?", "options": ["Feltételes döntésre", "Mindig ismétlésre", "Hangra", "Színre"], "answer": "Feltételes döntésre"},
+        {"question": "Mit csinál az üzenet küldése?", "options": ["Jelez más szereplőknek", "E-mailt ír", "SMS-t küld", "Kiabál"], "answer": "Jelez más szereplőknek"},
+        {"question": "Mi a böngésző?", "options": ["Weboldalak megnyitására való program", "Egy fajta egér", "A monitor márkája", "A billentyűzet"], "answer": "Weboldalak megnyitására való program"},
+        {"question": "Mi a keresőmotor?", "options": ["Információt keres a neten", "Autó motor", "Játék motor", "Gép hűtő"], "answer": "Információt keres a neten"},
+        {"question": "Mi a plágium?", "options": ["Más munkájának ellopása", "Egy bolygó", "Egy betegség", "A net sebessége"], "answer": "Más munkájának ellopása"},
+        {"question": "Mi a netikett?", "options": ["Internetes illem", "Halászháló", "Apró net", "Program"], "answer": "Internetes illem"},
+        {"question": "Melyik a nagyobb: 1 GB vagy 1 MB?", "options": ["1 GB", "1 MB", "Egyformák", "Egyik sem"], "answer": "1 GB"},
+        {"question": "Mi a szóköz szerepe a billentyűzeten?", "options": ["Helyköz hagyása", "Törlés", "Indítás", "Kilépés"], "answer": "Helyköz hagyása"},
+        {"question": "Hogyan hívjuk a Scratch szereplőit?", "options": ["Sprite", "Script", "Space", "Spark"], "answer": "Sprite"},
+        {"question": "Melyik kategóriában van a 'fordulj' blokk?", "options": ["Mozgás", "Kinézet", "Hang", "Események"], "answer": "Mozgás"},
+        {"question": "Mi a programozás?", "options": ["Utasítások adása a gépnek", "Tévénézés", "Alvás", "Gépelés"], "answer": "Utasítások adása a gépnek"}
+      ],
+      "typing": [
+        "összefoglalás", "informatika", "programozás", "tudás", "ismétlés", "vizsga", "projekt", "jövő", "gép", "ember"
+      ]
+    }
+  },
+  "25": {
+    "theme": "Projekt zárás",
+    "tasks": {
+      "mcq": [
+        {"question": "Mi a projekt zárás lényege?", "options": ["A munka befejezése és bemutatása", "A gép kidobása", "Törlés", "Szünet"], "answer": "A munka befejezése és bemutatása"},
+        {"question": "Mit csinálunk a kész projekttel?", "options": ["Megosztjuk és prezentáljuk", "Elrejtjük", "Letöröljük", "Megeszünk"], "answer": "Megosztjuk és prezentáljuk"},
+        {"question": "Hogyan lehet visszajelzést kérni?", "options": ["Megmutatjuk másoknak és megkérdezzük a véleményüket", "Kiabálunk", "Várunk", "Nem kell visszajelzés"], "answer": "Megmutatjuk másoknak és megkérdezzük a véleményüket"},
+        {"question": "Mi a 'portfólió'?", "options": ["A legjobb munkáink gyűjteménye", "Egy táska", "A jelszavunk", "A monitor kerete"], "answer": "A legjobb munkáink gyűjteménye"},
+        {"question": "Hogyan lehet fejleszteni a projektet?", "options": ["Új ötletek hozzáadásával", "Törléssel", "Kikapcsolással", "Várakozással"], "answer": "Új ötletek hozzáadásával"},
+        {"question": "Miért fontos a reflexió?", "options": ["Hogy átgondoljuk, mit tanultunk", "Hogy lássuk magunkat a monitoron", "Mert kötelező", "Semmiért"], "answer": "Hogy átgondoljuk, mit tanultunk"},
+        {"question": "Mit jelent a 'megosztás' a Scratch-ben?", "options": ["Mások is láthatják és kipróbálhatják a projektet", "Eltörik a gép", "Ketten használják az egeret", "Pénzt kapunk"], "answer": "Mások is láthatják és kipróbálhatják a projektet"},
+        {"question": "Mi az a 'remixtelés'?", "options": ["Egy meglévő projekt saját változatának elkészítése", "Zene keverés", "Törlés", "Másolás"], "answer": "Egy meglévő projekt saját változatának elkészítése"},
+        {"question": "Hogyan köszönjük meg a segítséget?", "options": ["A 'Köszönetnyilvánítás' részben", "Sehogy", "Kiabálással", "Pénzzel"], "answer": "A 'Köszönetnyilvánítás' részben"},
+        {"question": "Mire jó a használati útmutató?", "options": ["Hogy mások tudják, hogyan kell játszani", "Dísznek", "A kód elrejtésére", "Lassításra"], "answer": "Hogy mások tudják, hogyan kell játszani"},
+        {"question": "Mi a tanulság?", "options": ["Amit a munka során megtanultunk", "Egy mese vége", "A gép neve", "Hiba"], "answer": "Amit a munka során megtanultunk"},
+        {"question": "Hogyan ünnepeljük meg a sikeres projektet?", "options": ["Közös bemutatóval és örömmel", "Újabb munkával azonnal", "Alvással", "Sírva"], "answer": "Közös bemutatóval és örömmel"},
+        {"question": "Mi az a 'visszatekintés'?", "options": ["A folyamat áttekintése", "Hátrafelé nézés", "A monitor hátulja", "Régi gép"], "answer": "A folyamat áttekintése"},
+        {"question": "Mire jó a kritika?", "options": ["Segít jobbá tenni a munkánkat", "Bántás", "Rossz kedv", "Törlés"], "answer": "Segít jobbá tenni a munkánkat"},
+        {"question": "Hogyan fogadjuk a kritikát?", "options": ["Nyitottan és tanulni vágyva", "Mérgesen", "Sértődötten", "Sehogy"], "answer": "Nyitottan és tanulni vágyva"},
+        {"question": "Mi a projekt címe?", "options": ["A munkánk neve", "A mi nevünk", "A dátum", "A gép neve"], "answer": "A munkánk neve"},
+        {"question": "Mit jelent a 'kész'?", "options": ["Minden tervezett funkció működik", "Nincs több ötletünk", "Elfogyott az idő", "Kikapcsolt a gép"], "answer": "Minden tervezett funkció működik"},
+        {"question": "Lehet-e egy projektet örökké fejleszteni?", "options": ["Igen, de érdemes lezárni egy szakaszt", "Nem, tilos", "Csak ha fizetünk", "Csak éjszaka"], "answer": "Igen, de érdemes lezárni egy szakaszt"},
+        {"question": "Mi az az 'élménybeszámoló'?", "options": ["Elmeséljük, milyen volt dolgozni rajta", "Egy újságcikk", "A kód egy része", "Hangfájl"], "answer": "Elmeséljük, milyen volt dolgozni rajta"},
+        {"question": "Hogyan menthetjük el a végleges változatot?", "options": ["Fájl -> Mentés most", "Sehogy", "Kikapcsolással", "Ráfújással"], "answer": "Fájl -> Mentés most"},
+        {"question": "Mi a következő lépés?", "options": ["Egy új projekt tervezése", "Pihenés örökre", "Gép eladása", "Semmi"], "answer": "Egy új projekt tervezése"},
+        {"question": "Mire jó a közösségi visszajelzés?", "options": ["Segít fejlődni és motivál", "Zavaró", "Sok időt vesz el", "Semmire"], "answer": "Segít fejlődni és motivál"},
+        {"question": "Mit jelent a 'büszkeség' a munka után?", "options": ["Elégedettség az elért eredménnyel", "Beképzeltség", "Hiba", "Rossz érzés"], "answer": "Elégedettség az elért eredménnyel"},
+        {"question": "Hogyan lehet a projektet beágyazni egy weboldalba?", "options": ["A 'Beágyazás' kóddal", "Nem lehet", "Kattintással", "Sehogy"], "answer": "A 'Beágyazás' kóddal"},
+        {"question": "Mi a legfontosabb a projekt végén?", "options": ["Hogy elégedettek legyünk a saját munkánkkal", "Hogy sokan lássák", "Hogy kész legyen", "Hogy bonyolult legyen"], "answer": "Hogy elégedettek legyünk a saját munkánkkal"}
+      ],
+      "typing": [
+        "zárás", "bemutató", "siker", "tanulás", "fejlődés", "visszajelzés", "büszkeség", "kész", "folyamat", "jövő"
+      ]
+    }
+  }
+}

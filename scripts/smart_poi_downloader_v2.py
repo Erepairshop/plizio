@@ -11,31 +11,12 @@ from duckduckgo_search import DDGS
 warnings.filterwarnings("ignore", category=RuntimeWarning, module="duckduckgo_search")
 
 # Konfiguráció
-DATA_DIR = '/home/borota25/Desktop/plizio/lib/visualLab/data'
-PUBLIC_DIR = '/home/borota25/Desktop/plizio/public'
+DATA_DIR = 'C:/Users/User/plizio-repo/lib/visualLab/data'
+PUBLIC_DIR = 'C:/Users/User/plizio-repo/public'
 MAX_IMAGE_SIZE = 1024
 QUALITY = 80
 
 COUNTRY_CONFIG = {
-    'bulgariaPoi.ts': 'bulgaria',
-    'croatiaPoi.ts': 'croatia',
-    'estoniaPoi.ts': 'estonia',
-    'latviaPoi.ts': 'latvia',
-    'lithuaniaPoi.ts': 'lithuania',
-    'luxembourgPoi.ts': 'luxembourg',
-    'belgiumPoi.ts': 'belgium',
-    'denmarkPoi.ts': 'denmark',
-    'finlandPoi.ts': 'finland',
-    'norwayPoi.ts': 'norway',
-    'swedenPoi.ts': 'sweden',
-    'irelandPoi.ts': 'ireland',
-    'portugalPoi.ts': 'portugal',
-    'slovakiaPoi.ts': 'slovakia',
-    'sloveniaPoi.ts': 'slovenia',
-    'switzerlandPoi.ts': 'switzerland',
-    'czechRepublicPoi.ts': 'czech-republic',
-    'romaniaPoi.ts': 'romania',
-    'austriaPoi.ts': 'austria',
     'francePoi.ts': 'france',
     'italyPoi.ts': 'italy',
     'spainPoi.ts': 'spain',
@@ -43,7 +24,44 @@ COUNTRY_CONFIG = {
     'netherlandsPoi.ts': 'netherlands',
     'polandPoi.ts': 'poland',
     'hungaryPoi.ts': 'hungary',
-    'poi.ts': 'germany'
+    'poi.ts': 'germany',
+    'romaniaPoi.ts': 'romania',
+    'austriaPoi.ts': 'austria',
+    'switzerlandPoi.ts': 'switzerland',
+    'belgiumPoi.ts': 'belgium',
+    'czechRepublicPoi.ts': 'czech-republic',
+    'slovakiaPoi.ts': 'slovakia',
+    'sloveniaPoi.ts': 'slovenia',
+    'croatiaPoi.ts': 'croatia',
+    'serbiaPoi.ts': 'serbia',
+    'bulgariaPoi.ts': 'bulgaria',
+    'greecePoi.ts': 'greece',
+    'portugalPoi.ts': 'portugal',
+    'estoniaPoi.ts': 'estonia',
+    'latviaPoi.ts': 'latvia',
+    'lithuaniaPoi.ts': 'lithuania',
+    'finlandPoi.ts': 'finland',
+    'swedenPoi.ts': 'sweden',
+    'norwayPoi.ts': 'norway',
+    'denmarkPoi.ts': 'denmark',
+    'irelandPoi.ts': 'ireland',
+    'icelandPoi.ts': 'iceland',
+    'luxembourgPoi.ts': 'luxembourg',
+    'liechtensteinPoi.ts': 'liechtenstein',
+    'monacoPoi.ts': 'monaco',
+    'andorraPoi.ts': 'andorra',
+    'sanmarinoPoi.ts': 'sanmarino',
+    'vaticanPoi.ts': 'vatican',
+    'maltaPoi.ts': 'malta',
+    'cyprusPoi.ts': 'cyprus',
+    'albaniaPoi.ts': 'albania',
+    'bosniaPoi.ts': 'bosnia',
+    'kosovoPoi.ts': 'kosovo',
+    'moldovaPoi.ts': 'moldova',
+    'montenegroPoi.ts': 'montenegro',
+    'northmacedoniaPoi.ts': 'northmacedonia',
+    'belarusPoi.ts': 'belarus',
+    'ukrainePoi.ts': 'ukraine',
 }
 
 def to_kebab_case(s):

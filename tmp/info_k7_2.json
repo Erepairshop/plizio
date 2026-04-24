@@ -1,0 +1,950 @@
+{
+  "info_k7_excel": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man den Schnittpunkt einer Zeile und einer Spalte in Excel?",
+        "hu": "Hogy hívják egy sor és egy oszlop metszéspontját az Excelben?",
+        "ro": "Cum se numește intersecția dintre un rând și o coloană în Excel?",
+        "en": "What is the intersection of a row and a column called in Excel?"
+      },
+      "options": {
+        "de": ["Box", "Zelle", "Tabelle", "Bereich"],
+        "hu": ["Doboz", "Cella", "Táblázat", "Tartomány"],
+        "ro": ["Căsuță", "Celulă", "Tabel", "Interval"],
+        "en": ["Box", "Cell", "Table", "Range"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Mit welchem Symbol beginnt jede Formel in Excel?",
+        "hu": "Milyen szimbólummal kezdődik minden képlet az Excelben?",
+        "ro": "Cu ce simbol începe fiecare formulă în Excel?",
+        "en": "With which symbol does every formula start in Excel?"
+      },
+      "options": {
+        "de": ["+", "#", "=", "!"],
+        "hu": ["+", "#", "=", "!"],
+        "ro": ["+", "#", "=", "!"],
+        "en": ["+", "#", "=", "!"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Funktion berechnet die Summe eines Bereichs?",
+        "hu": "Melyik függvény számítja ki egy tartomány összegét?",
+        "ro": "Ce funcție calculează suma unui interval?",
+        "en": "Which function calculates the sum of a range?"
+      },
+      "options": {
+        "de": ["SUMME", "MITTELWERT", "ANZAHL", "MAX"],
+        "hu": ["SZUM", "ÁTLAG", "DARAB", "MAX"],
+        "ro": ["SUM", "AVERAGE", "COUNT", "MAX"],
+        "en": ["SUM", "AVERAGE", "COUNT", "MAX"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie werden Spalten in Excel bezeichnet?",
+        "hu": "Hogyan jelölik az oszlopokat az Excelben?",
+        "ro": "Cum sunt identificate coloanele în Excel?",
+        "en": "How are columns identified in Excel?"
+      },
+      "options": {
+        "de": ["Mit Zahlen (1, 2, 3...)", "Mit Buchstaben (A, B, C...)", "Mit römischen Zahlen", "Mit Namen"],
+        "hu": ["Számokkal (1, 2, 3...)", "Betűkkel (A, B, C...)", "Római számokkal", "Nevekkel"],
+        "ro": ["Cu cifre (1, 2, 3...)", "Cu litere (A, B, C...)", "Cu cifre romane", "Cu nume"],
+        "en": ["With numbers (1, 2, 3...)", "With letters (A, B, C...)", "With Roman numerals", "With names"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'absolute Zelladresse'?",
+        "hu": "Mi az az 'abszolút cellahivatkozás'?",
+        "ro": "Ce este o 'adresă absolută de celulă'?",
+        "en": "What is an 'absolute cell reference'?"
+      },
+      "options": {
+        "de": ["Eine Adresse, die sich beim Kopieren ändert", "Eine Adresse mit $-Zeichen, die fix bleibt", "Eine Adresse in einer anderen Datei", "Eine Adresse ohne Buchstaben"],
+        "hu": ["Egy hivatkozás, ami másoláskor változik", "Egy hivatkozás $-jelekkel, ami rögzített marad", "Egy hivatkozás egy másik fájlban", "Egy hivatkozás betűk nélkül"],
+        "ro": ["O adresă care se schimbă la copiere", "O adresă cu simbolul $, care rămâne fixă", "O adresă dintr-un alt fișier", "O adresă fără litere"],
+        "en": ["A reference that changes when copied", "A reference with $ signs that stays fixed", "A reference in another file", "A reference without letters"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Diagramm eignet sich am besten, um Anteile an einem Ganzen zu zeigen?",
+        "hu": "Melyik diagramtípus a legalkalmasabb az egészen belüli arányok bemutatására?",
+        "ro": "Ce diagramă este cea mai potrivită pentru a arăta proporțiile dintr-un întreg?",
+        "en": "Which chart is best suited to show proportions of a whole?"
+      },
+      "options": {
+        "de": ["Liniendiagramm", "Säulendiagramm", "Kreisdiagramm (Tortendiagramm)", "Punktdiagramm"],
+        "hu": ["Vonaldiagram", "Oszlopdiagram", "Kördiagram (Tortadiagram)", "Pontdiagram"],
+        "ro": ["Diagramă cu linii", "Diagramă cu coloane", "Diagramă circulară (plăcintă)", "Diagramă cu puncte"],
+        "en": ["Line chart", "Column chart", "Pie chart", "Scatter plot"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht die Funktion 'Ausfüllkästchen' (AutoFill)?",
+        "hu": "Mit csinál a 'kitöltőjel' (AutoFill) funkció?",
+        "ro": "Ce face funcția 'AutoFill'?",
+        "en": "What does the 'AutoFill' handle do?"
+      },
+      "options": {
+        "de": ["Zellen löschen", "Daten oder Formeln in benachbarte Zellen kopieren/fortführen", "Den Computer ausschalten", "Die Schriftart ändern"],
+        "hu": ["Cellák törlése", "Adatok vagy képletek másolása/folytatása a szomszédos cellákba", "A gép kikapcsolása", "Betűtípus módosítása"],
+        "ro": ["Șterge celulele", "Copiază/continuă datele sau formulele în celulele vecine", "Oprește calculatorul", "Schimbă fontul"],
+        "en": ["Delete cells", "Copy/continue data or formulas into adjacent cells", "Turn off the computer", "Change the font"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie berechnet man den Mittelwert in Excel?",
+        "hu": "Hogyan számoljuk ki az átlagot az Excelben?",
+        "ro": "Cum se calculează media în Excel?",
+        "en": "How do you calculate the average in Excel?"
+      },
+      "options": {
+        "de": ["=SUMME()/2", "=MITTELWERT()", "=MAX()", "=MIN()"],
+        "hu": ["=SZUM()/2", "=ÁTLAG()", "=MAX()", "=MIN()"],
+        "ro": ["=SUM()/2", "=AVERAGE()", "=MAX()", "=MIN()"],
+        "en": ["=SUM()/2", "=AVERAGE()", "=MAX()", "=MIN()"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert, wenn man eine Spalte 'fixiert'?",
+        "hu": "Mi történik, ha egy oszlopot 'rögzítünk'?",
+        "ro": "Ce se întâmplă dacă 'înghețăm' (freeze) o coloană?",
+        "en": "What happens if you 'freeze' a column?"
+      },
+      "options": {
+        "de": ["Sie wird gelöscht", "Sie bleibt beim Scrollen immer sichtbar", "Sie kann nicht mehr bearbeitet werden", "Sie wird ausgeblendet"],
+        "hu": ["Törlődik", "Görgetés közben is mindig látható marad", "Nem lehet többé szerkeszteni", "Elrejtődik"],
+        "ro": ["Este ștearsă", "Rămâne mereu vizibilă în timpul defilării", "Nu mai poate fi editată", "Este ascunsă"],
+        "en": ["It is deleted", "It stays always visible while scrolling", "It can no longer be edited", "It is hidden"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Zeichen trennt in einer Funktion meistens die Argumente (z.B. in Deutschland)?",
+        "hu": "Melyik írásjel választja el általában az argumentumokat egy függvényben?",
+        "ro": "Ce semn desparte de obicei argumentele într-o funcție?",
+        "en": "Which character usually separates arguments in a function?"
+      },
+      "options": {
+        "de": ["Punkt (.)", "Semikolon (;)", "Leerzeichen", "Bindestrich (-)"],
+        "hu": ["Pont (.)", "Pontosvessző (;)", "Szóköz", "Kötőjel (-)"],
+        "ro": ["Punct (.)", "Punct și virgulă (;)", "Spațiu", "Liniuță (-)"],
+        "en": ["Dot (.)", "Semicolon (;)", "Space", "Hyphen (-)"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Tabellenkalkulationsprogramm von Microsoft?",
+        "hu": "Hogy hívják a Microsoft táblázatkezelő programját?",
+        "ro": "Cum se numește programul de calcul tabelar de la Microsoft?",
+        "en": "What is the Microsoft spreadsheet program called?"
+      },
+      "answer": {
+        "de": "Excel",
+        "hu": "Excel",
+        "ro": "Excel",
+        "en": "Excel"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Mit welchem Zeichen gibt man 'mal' (Multiplikation) in Excel ein?",
+        "hu": "Milyen jellel adjuk meg a szorzást az Excelben?",
+        "ro": "Cu ce simbol se introduce înmulțirea în Excel?",
+        "en": "With which character do you enter 'times' (multiplication) in Excel?"
+      },
+      "answer": {
+        "de": "*",
+        "hu": "*",
+        "ro": "*",
+        "en": "*"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man eine Datei in Excel (bestehend aus mehreren Blättern)?",
+        "hu": "Hogy hívják az Excel fájlt (amely több munkalapból állhat)?",
+        "ro": "Cum se numește un fișier Excel (compus din mai multe foi)?",
+        "en": "What is an Excel file called (consisting of multiple sheets)?"
+      },
+      "answer": {
+        "de": "Arbeitsmappe",
+        "hu": "Munkafüzet",
+        "ro": "Registru",
+        "en": "Workbook"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne die Adresse der allerersten Zelle oben links.",
+        "hu": "Add meg a legelső, bal felső cella címét.",
+        "ro": "Numește adresa primei celule din stânga sus.",
+        "en": "Name the address of the very first cell in the top left."
+      },
+      "answer": {
+        "de": "A1",
+        "hu": "A1",
+        "ro": "A1",
+        "en": "A1"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Symbol nutzt man für die Division in einer Formel?",
+        "hu": "Milyen szimbólumot használunk az osztáshoz egy képletben?",
+        "ro": "Ce simbol se folosește pentru împărțire într-o formulă?",
+        "en": "Which symbol is used for division in a formula?"
+      },
+      "answer": {
+        "de": "/",
+        "hu": "/",
+        "ro": "/",
+        "en": "/"
+      }
+    }
+  ],
+  "info_k7_ppt": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woraus besteht eine PowerPoint-Präsentation hauptsächlich?",
+        "hu": "Miből áll főként egy PowerPoint prezentáció?",
+        "ro": "Din ce este compusă în principal o prezentare PowerPoint?",
+        "en": "What does a PowerPoint presentation mainly consist of?"
+      },
+      "options": {
+        "de": ["Seiten", "Zellen", "Folien (Slides)", "Dokumente"],
+        "hu": ["Oldalak", "Cellák", "Diák (Slides)", "Dokumentumok"],
+        "ro": ["Pagini", "Celule", "Diapozitive (Slides)", "Documente"],
+        "en": ["Pages", "Cells", "Slides", "Documents"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Übergang' (Transition)?",
+        "hu": "Mi az az 'áttűnés' (transition)?",
+        "ro": "Ce este o 'tranziție'?",
+        "en": "What is a 'transition'?"
+      },
+      "options": {
+        "de": ["Ein Effekt beim Wechsel von einer Folie zur nächsten", "Eine Animation eines Objekts auf einer Folie", "Das Speichern der Datei", "Das Drucken der Präsentation"],
+        "hu": ["Effekt az egyik diáról a másikra váltáskor", "Egy objektum animációja a dián belül", "A fájl mentése", "A prezentáció nyomtatása"],
+        "ro": ["Un efect la trecerea de la un diapozitiv la altul", "O animație a unui obiect de pe un diapozitiv", "Salvarea fișierului", "Imprimarea prezentării"],
+        "en": ["An effect when moving from one slide to the next", "An animation of an object on a slide", "Saving the file", "Printing the presentation"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie startet man eine Präsentation ab der ersten Folie?",
+        "hu": "Hogyan indítjuk el a prezentációt az első diától?",
+        "ro": "Cum se pornește o prezentare de la primul diapozitiv?",
+        "en": "How do you start a presentation from the first slide?"
+      },
+      "options": {
+        "de": ["F1", "F5", "Ctrl + P", "Esc"],
+        "hu": ["F1", "F5", "Ctrl + P", "Esc"],
+        "ro": ["F1", "F5", "Ctrl + P", "Esc"],
+        "en": ["F1", "F5", "Ctrl + P", "Esc"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der 'Folienmaster'?",
+        "hu": "Mi az a 'diamester'?",
+        "ro": "Ce este 'Slide Master'?",
+        "en": "What is the 'Slide Master'?"
+      },
+      "options": {
+        "de": ["Der Ersteller der Präsentation", "Eine Vorlage, die das Aussehen aller Folien festlegt", "Die letzte Folie", "Ein spezielles Bild"],
+        "hu": ["A prezentáció készítője", "Egy sablon, amely meghatározza az összes dia kinézetét", "Az utolsó dia", "Egy speciális kép"],
+        "ro": ["Creatorul prezentării", "Un șablon care stabilește aspectul tuturor diapozitivelor", "Ultimul diapozitiv", "O imagine specială"],
+        "en": ["The creator of the presentation", "A template that defines the look of all slides", "The last slide", "A special image"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür werden Animationen in PPT verwendet?",
+        "hu": "Mire használják az animációkat a PPT-ben?",
+        "ro": "Pentru ce se folosesc animațiile în PPT?",
+        "en": "What are animations used for in PPT?"
+      },
+      "options": {
+        "de": ["Um Text oder Bilder auf einer Folie zu bewegen", "Um die Rechtschreibung zu prüfen", "Um Musik zu schneiden", "Um das Internet zu durchsuchen"],
+        "hu": ["Szöveg vagy képek mozgatásához a dián belül", "Helyesírás-ellenőrzéshez", "Zene vágásához", "Internetes kereséshez"],
+        "ro": ["Pentru a mișca textul sau imaginile pe un diapozitiv", "Pentru verificarea ortografiei", "Pentru tăierea muzicii", "Pentru căutarea pe internet"],
+        "en": ["To move text or images on a slide", "To check spelling", "To edit music", "To search the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Taste beendet eine laufende Präsentation?",
+        "hu": "Melyik billentyű állítja le a futó prezentációt?",
+        "ro": "Ce tastă oprește o prezentare în curs?",
+        "en": "Which key stops a running presentation?"
+      },
+      "options": {
+        "de": ["Enter", "Leertaste", "Esc", "Shift"],
+        "hu": ["Enter", "Szóköz", "Esc", "Shift"],
+        "ro": ["Enter", "Spațiu", "Esc", "Shift"],
+        "en": ["Enter", "Space", "Esc", "Shift"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man bei einer guten Präsentation vermeiden?",
+        "hu": "Mit érdemes elkerülni egy jó prezentációban?",
+        "ro": "Ce ar trebui evitat într-o prezentare bună?",
+        "en": "What should be avoided in a good presentation?"
+      },
+      "options": {
+        "de": ["Bilder verwenden", "Zu viel Text auf einer Folie", "Eine klare Struktur", "Große Schriftart"],
+        "hu": ["Képek használata", "Túl sok szöveg egy dián", "Világos szerkezet", "Nagy betűméret"],
+        "ro": ["Utilizarea imaginilor", "Prea mult text pe un diapozitiv", "O structură clară", "Font de dimensiune mare"],
+        "en": ["Using images", "Too much text on one slide", "A clear structure", "Large font size"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie fügt man ein neues Textfeld ein?",
+        "hu": "Hogyan szúrunk be új szövegdobozt?",
+        "ro": "Cum se inserează o casetă de text nouă?",
+        "en": "How do you insert a new text box?"
+      },
+      "options": {
+        "de": ["Tab 'Entwurf'", "Tab 'Einfügen' -> 'Textfeld'", "Tab 'Ansicht'", "Gar nicht, es gibt nur feste Layouts"],
+        "hu": ["Tervezés fül", "Beszúrás fül -> Szövegdoboz", "Nézet fül", "Sehogy, csak fix elrendezések vannak"],
+        "ro": ["Fila 'Proiectare'", "Fila 'Inserare' -> 'Casetă text'", "Fila 'Vizualizare'", "Deloc, există doar aspecte fixe"],
+        "en": ["Design tab", "Insert tab -> Text box", "View tab", "Not at all, there are only fixed layouts"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'SmartArt'?",
+        "hu": "Mi az a 'SmartArt'?",
+        "ro": "Ce este 'SmartArt'?",
+        "en": "What is 'SmartArt'?"
+      },
+      "options": {
+        "de": ["Ein intelligenter Virus", "Grafische Listen und Diagramme zur Visualisierung", "Eine Art von Maus", "Ein Online-Spiel"],
+        "hu": ["Egy intelligens vírus", "Grafikus listák és folyamatábrák vizualizációhoz", "Egy egértípus", "Egy online játék"],
+        "ro": ["Un virus inteligent", "Liste grafice și diagrame pentru vizualizare", "Un tip de mouse", "Un joc online"],
+        "en": ["An intelligent virus", "Graphical lists and diagrams for visualization", "A type of mouse", "An online game"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann man Videos in eine PowerPoint-Folie einbinden?",
+        "hu": "Be lehet illeszteni videókat egy PowerPoint diára?",
+        "ro": "Se pot include videoclipuri într-un diapozitiv PowerPoint?",
+        "en": "Can you include videos in a PowerPoint slide?"
+      },
+      "options": {
+        "de": ["Ja", "Nein", "Nur wenn sie schwarz-weiß sind", "Nur als Link zum Internet"],
+        "hu": ["Igen", "Nem", "Csak ha fekete-fehérek", "Csak internetes linkként"],
+        "ro": ["Da", "Nu", "Doar dacă sunt alb-negru", "Doar ca link către internet"],
+        "en": ["Yes", "No", "Only if they are black and white", "Only as a link to the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Präsentationsprogramm von Microsoft?",
+        "hu": "Hogy hívják a Microsoft prezentációkészítő programját?",
+        "ro": "Cum se numește programul de prezentări de la Microsoft?",
+        "en": "What is the Microsoft presentation program called?"
+      },
+      "answer": {
+        "de": "PowerPoint",
+        "hu": "PowerPoint",
+        "ro": "PowerPoint",
+        "en": "PowerPoint"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Dateiendung haben moderne PowerPoint-Dateien?",
+        "hu": "Milyen kiterjesztésük van a modern PowerPoint fájloknak?",
+        "ro": "Ce extensie au fișierele PowerPoint moderne?",
+        "en": "What extension do modern PowerPoint files have?"
+      },
+      "answer": {
+        "de": "pptx",
+        "hu": "pptx",
+        "ro": "pptx",
+        "en": "pptx"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den Entwurfs-Hintergrund für alle Folien?",
+        "hu": "Hogy hívják az összes diára érvényes tervezési hátteret?",
+        "ro": "Cum se numește fundalul de design pentru toate diapozitivele?",
+        "en": "What is the design background for all slides called?"
+      },
+      "answer": {
+        "de": "Design",
+        "hu": "Téma",
+        "ro": "Temă",
+        "en": "Theme"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der Modus, in dem man die Präsentation vorführt?",
+        "hu": "Hogy hívják azt a módot, amelyben a prezentációt vetítjük?",
+        "ro": "Cum se numește modul în care se proiectează prezentarea?",
+        "en": "What is the mode called in which you show the presentation?"
+      },
+      "answer": {
+        "de": "Bildschirmpräsentation",
+        "hu": "Vetítés",
+        "ro": "Expunere diapozitive",
+        "en": "Slide Show"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist die Abkürzung für PowerPoint?",
+        "hu": "Mi a PowerPoint rövidítése?",
+        "ro": "Care este abrevierea pentru PowerPoint?",
+        "en": "What is the abbreviation for PowerPoint?"
+      },
+      "answer": {
+        "de": "PPT",
+        "hu": "PPT",
+        "ro": "PPT",
+        "en": "PPT"
+      }
+    }
+  ],
+  "info_k7_internet": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das World Wide Web (WWW)?",
+        "hu": "Mi az a World Wide Web (WWW)?",
+        "ro": "Ce este World Wide Web (WWW)?",
+        "en": "What is the World Wide Web (WWW)?"
+      },
+      "options": {
+        "de": ["Das gesamte Internet", "Ein Dienst im Internet zur Anzeige von Webseiten", "Ein Hardware-Kabel", "Ein spezieller Computer"],
+        "hu": ["A teljes internet", "Egy internetes szolgáltatás weboldalak megjelenítésére", "Egy hardver kábel", "Egy speciális számítógép"],
+        "ro": ["Întreg internetul", "Un serviciu de pe internet pentru afișarea paginilor web", "Un cablu hardware", "Un calculator special"],
+        "en": ["The entire internet", "A service on the internet for displaying web pages", "A hardware cable", "A special computer"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht das 'S' in HTTPS?",
+        "hu": "Mit jelent az 'S' betű a HTTPS-ben?",
+        "ro": "Ce înseamnă 'S' în HTTPS?",
+        "en": "What does the 'S' in HTTPS stand for?"
+      },
+      "options": {
+        "de": ["Simple", "Secure (Sicher)", "Speed", "System"],
+        "hu": ["Simple", "Secure (Biztonságos)", "Speed", "System"],
+        "ro": ["Simple", "Secure (Securizat)", "Speed", "System"],
+        "en": ["Simple", "Secure", "Speed", "System"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine IP-Adresse?",
+        "hu": "Mi az az IP-cím?",
+        "ro": "Ce este o adresă IP?",
+        "en": "What is an IP address?"
+      },
+      "options": {
+        "de": ["Ein Passwort", "Die eindeutige Adresse eines Geräts im Netzwerk", "Der Name des Besitzers", "Die Geschwindigkeit der Verbindung"],
+        "hu": ["Egy jelszó", "Egy eszköz egyedi címe a hálózatban", "A tulajdonos neve", "A kapcsolat sebessége"],
+        "ro": ["O parolă", "Adresa unică a unui dispozitiv în rețea", "Numele proprietarului", "Viteza conexiunii"],
+        "en": ["A password", "The unique address of a device in the network", "The owner's name", "The connection speed"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm wird zum Betrachten von Webseiten verwendet?",
+        "hu": "Milyen programot használunk weboldalak megtekintéséhez?",
+        "ro": "Ce program se folosește pentru vizualizarea paginilor web?",
+        "en": "Which program is used to view web pages?"
+      },
+      "options": {
+        "de": ["Suchmaschine", "Browser", "Editor", "Server"],
+        "hu": ["Keresőmotor", "Böngésző", "Szerkesztő", "Szerver"],
+        "ro": ["Motor de căutare", "Browser", "Editor", "Server"],
+        "en": ["Search engine", "Browser", "Editor", "Server"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht ein DNS-Server?",
+        "hu": "Mit csinál egy DNS szerver?",
+        "ro": "Ce face un server DNS?",
+        "en": "What does a DNS server do?"
+      },
+      "options": {
+        "de": ["E-Mails speichern", "Webnamen (z.B. google.com) in IP-Adressen umwandeln", "Viren löschen", "Die Hardware kühlen"],
+        "hu": ["E-mailek tárolása", "Webcímek (pl. google.com) átalakítása IP-címekre", "Vírusok törlése", "A hardver hűtése"],
+        "ro": ["Stochează e-mailuri", "Transformă numele web (ex: google.com) în adrese IP", "Șterge viruși", "Răcește hardware-ul"],
+        "en": ["Store emails", "Translate web names (e.g. google.com) into IP addresses", "Delete viruses", "Cool the hardware"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Hyperlink?",
+        "hu": "Mi az a hiperhivatkozás (link)?",
+        "ro": "Ce este un hyperlink?",
+        "en": "What is a hyperlink?"
+      },
+      "options": {
+        "de": ["Ein sehr schneller Computer", "Ein anklickbarer Verweis auf eine andere Seite", "Ein spezielles Kabel", "Ein Bildformat"],
+        "hu": ["Egy nagyon gyors számítógép", "Egy kattintható hivatkozás egy másik oldalra", "Egy speciális kábel", "Egy képformátum"],
+        "ro": ["Un calculator foarte rapid", "O referință pe care se poate da click către o altă pagină", "Un cablu special", "Un format de imagine"],
+        "en": ["A very fast computer", "A clickable reference to another page", "A special cable", "An image format"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Download'?",
+        "hu": "Mit jelent a 'letöltés' (download)?",
+        "ro": "Ce înseamnă 'download'?",
+        "en": "What does 'download' mean?"
+      },
+      "options": {
+        "de": ["Daten vom eigenen PC ins Internet senden", "Daten aus dem Internet auf den eigenen PC kopieren", "Den PC ausschalten", "Eine Webseite löschen"],
+        "hu": ["Adatok küldése a saját gépről az internetre", "Adatok másolása az internetről a saját gépre", "A gép kikapcsolása", "Egy weboldal törlése"],
+        "ro": ["Trimiterea datelor de pe PC pe internet", "Copierea datelor de pe internet pe propriul PC", "Oprirea PC-ului", "Ștergerea unei pagini web"],
+        "en": ["Sending data from your PC to the internet", "Copying data from the internet to your PC", "Turning off the PC", "Deleting a web page"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches dieser Protokolle wird für den Abruf von Webseiten genutzt?",
+        "hu": "Melyik protokollt használjuk weboldalak lekéréséhez?",
+        "ro": "Care dintre aceste protocoale este folosit pentru accesarea paginilor web?",
+        "en": "Which of these protocols is used for retrieving web pages?"
+      },
+      "options": {
+        "de": ["FTP", "HTTP", "SMTP", "POP3"],
+        "hu": ["FTP", "HTTP", "SMTP", "POP3"],
+        "ro": ["FTP", "HTTP", "SMTP", "POP3"],
+        "en": ["FTP", "HTTP", "SMTP", "POP3"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Router?",
+        "hu": "Mi az a router?",
+        "ro": "Ce este un router?",
+        "en": "What is a router?"
+      },
+      "options": {
+        "de": ["Ein Monitor", "Ein Gerät, das Netzwerke verbindet und Daten weiterleitet", "Ein Programm zum Zeichnen", "Eine Tastatur"],
+        "hu": ["Egy monitor", "Eszköz, amely hálózatokat köt össze és adatokat továbbít", "Egy rajzolóprogram", "Egy billentyűzet"],
+        "ro": ["Un monitor", "Un dispozitiv care conectează rețele și direcționează datele", "Un program de desenat", "O tastatură"],
+        "en": ["A monitor", "A device that connects networks and forwards data", "A drawing program", "A keyboard"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht 'URL'?",
+        "hu": "Mit jelent az 'URL'?",
+        "ro": "Ce înseamnă 'URL'?",
+        "en": "What does 'URL' stand for?"
+      },
+      "options": {
+        "de": ["Uniform Resource Locator", "Universal Radio Link", "United Road Line", "User Response List"],
+        "hu": ["Uniform Resource Locator", "Universal Radio Link", "United Road Line", "User Response List"],
+        "ro": ["Uniform Resource Locator", "Universal Radio Link", "United Road Line", "User Response List"],
+        "en": ["Uniform Resource Locator", "Universal Radio Link", "United Road Line", "User Response List"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das weltweite Computernetzwerk?",
+        "hu": "Hogy hívják a világméretű számítógépes hálózatot?",
+        "ro": "Cum se numește rețeaua mondială de calculatoare?",
+        "en": "What is the worldwide computer network called?"
+      },
+      "answer": {
+        "de": "Internet",
+        "hu": "Internet",
+        "ro": "Internet",
+        "en": "Internet"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne einen bekannten Webbrowser.",
+        "hu": "Nevezz meg egy ismert webböngészőt.",
+        "ro": "Numește un browser web cunoscut.",
+        "en": "Name a well-known web browser."
+      },
+      "answer": {
+        "de": "Chrome",
+        "hu": "Chrome",
+        "ro": "Chrome",
+        "en": "Chrome"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Startseite einer Webpräsenz auf Englisch?",
+        "hu": "Hogy hívják egy weboldal kezdőlapját angolul?",
+        "ro": "Cum se numește prima pagină a unui site web în engleză?",
+        "en": "What is the starting page of a website called in English?"
+      },
+      "answer": {
+        "de": "Homepage",
+        "hu": "Homepage",
+        "ro": "Homepage",
+        "en": "Homepage"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Abkürzung steht für drahtloses lokales Netzwerk?",
+        "hu": "Melyik rövidítés jelöli a vezeték nélküli helyi hálózatot?",
+        "ro": "Ce abreviere indică o rețea locală fără fir?",
+        "en": "Which abbreviation stands for wireless local area network?"
+      },
+      "answer": {
+        "de": "WLAN",
+        "hu": "WLAN",
+        "ro": "WLAN",
+        "en": "WLAN"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Senden von Daten ins Internet?",
+        "hu": "Hogy hívják az adatok küldését az internetre?",
+        "ro": "Cum se numește trimiterea datelor pe internet?",
+        "en": "What is sending data to the internet called?"
+      },
+      "answer": {
+        "de": "Upload",
+        "hu": "Feltöltés",
+        "ro": "Upload",
+        "en": "Upload"
+      }
+    }
+  ],
+  "info_k7_search": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Suchmaschine ist weltweit am bekanntesten?",
+        "hu": "Melyik keresőmotor a legismertebb világszerte?",
+        "ro": "Care motor de căutare este cel mai cunoscut la nivel mondial?",
+        "en": "Which search engine is the most famous worldwide?"
+      },
+      "options": {
+        "de": ["Bing", "Google", "Yahoo", "DuckDuckGo"],
+        "hu": ["Bing", "Google", "Yahoo", "DuckDuckGo"],
+        "ro": ["Bing", "Google", "Yahoo", "DuckDuckGo"],
+        "en": ["Bing", "Google", "Yahoo", "DuckDuckGo"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bewirkt das Setzen von Anführungszeichen \" \" bei einer Suche?",
+        "hu": "Mit eredményez az idézőjelek \" \" használata a keresésnél?",
+        "ro": "Ce efect are utilizarea ghilimelelor \" \" într-o căutare?",
+        "en": "What does putting quotation marks \" \" around a search term do?"
+      },
+      "options": {
+        "de": ["Es schließt Wörter aus", "Es sucht nach der exakten Wortfolge", "Es korrigiert die Rechtschreibung", "Es löscht den Verlauf"],
+        "hu": ["Kizár szavakat", "A pontos kifejezésre keres rá", "Javítja a helyesírást", "Törli az előzményeket"],
+        "ro": ["Exclude cuvinte", "Caută exact acea succesiune de cuvinte", "Corectează ortografia", "Șterge istoricul"],
+        "en": ["It excludes words", "It searches for the exact phrase", "It corrects spelling", "It deletes history"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie kann man ein Wort von der Suche ausschließen?",
+        "hu": "Hogyan lehet egy szót kizárni a keresésből?",
+        "ro": "Cum se poate exclude un cuvânt din căutare?",
+        "en": "How can you exclude a word from a search?"
+      },
+      "options": {
+        "de": ["Durch ein Plus (+)", "Durch ein Minus (-)", "Durch ein Sternchen (*)", "Durch ein Fragezeichen (?)"],
+        "hu": ["Plusz jellel (+)", "Mínusz jellel (-)", "Csillaggal (*)", "Kérdőjellel (?)"],
+        "ro": ["Folosind plus (+)", "Folosind minus (-)", "Folosind un asterisc (*)", "Folosind un semn de întrebare (?)"],
+        "en": ["By using a plus (+)", "By using a minus (-)", "By using an asterisk (*)", "By using a question mark (?)"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man Informationen aus dem Internet kritisch prüfen?",
+        "hu": "Miért kell kritikusan ellenőrizni az internetről származó információkat?",
+        "ro": "De ce ar trebui verificate critic informațiile de pe internet?",
+        "en": "Why should you critically check information from the internet?"
+      },
+      "options": {
+        "de": ["Weil das Internet langsam ist", "Weil jeder Informationen veröffentlichen kann, auch falsche", "Weil Bilder immer wahr sind", "Weil Suchmaschinen keine Fehler machen"],
+        "hu": ["Mert lassú az internet", "Mert bárki bármit közzétehet, akár hamisat is", "Mert a képek mindig igazak", "Mert a keresők nem hibáznak"],
+        "ro": ["Pentru că internetul este lent", "Deoarece oricine poate publica informații, chiar și false", "Deoarece imaginile sunt mereu adevărate", "Deoarece motoarele de căutare nu greșesc"],
+        "en": ["Because the internet is slow", "Because anyone can publish information, including false information", "Because images are always true", "Because search engines don't make mistakes"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind 'Keywords'?",
+        "hu": "Mik azok a 'kulcsszavak' (keywords)?",
+        "ro": "Ce sunt 'cuvintele cheie' (keywords)?",
+        "en": "What are 'keywords'?"
+      },
+      "options": {
+        "de": ["Geheime Passwörter", "Wichtige Begriffe, die das Thema der Suche beschreiben", "Die Namen von Programmierern", "Dateiendungen"],
+        "hu": ["Titkos jelszavak", "Fontos kifejezések, amelyek leírják a keresés témáját", "Programozók nevei", "Fájlkiterjesztések"],
+        "ro": ["Parole secrete", "Termeni importanți care descriu subiectul căutării", "Numele programatorilor", "Extensii de fișiere"],
+        "en": ["Secret passwords", "Important terms that describe the search topic", "Names of programmers", "File extensions"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Operator verknüpft zwei Begriffe so, dass beide vorkommen müssen?",
+        "hu": "Melyik operátor kapcsol össze két kifejezést úgy, hogy mindkettőnek szerepelnie kell?",
+        "ro": "Care operator conectează doi termeni astfel încât ambii să apară?",
+        "en": "Which operator connects two terms so that both must occur?"
+      },
+      "options": {
+        "de": ["OR", "NOT", "AND", "MAYBE"],
+        "hu": ["OR", "NOT", "AND", "MAYBE"],
+        "ro": ["OR", "NOT", "AND", "MAYBE"],
+        "en": ["OR", "NOT", "AND", "MAYBE"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Bildersuche?",
+        "hu": "Mi az a képkereső?",
+        "ro": "Ce este căutarea de imagini?",
+        "en": "What is image search?"
+      },
+      "options": {
+        "de": ["Ein Programm zum Malen", "Eine Funktion, um gezielt nach grafischen Inhalten zu suchen", "Das Löschen von Fotos", "Ein Monitor-Test"],
+        "hu": ["Egy rajzolóprogram", "Funkció grafikus tartalmak célzott keresésére", "Fotók törlése", "Monitor teszt"],
+        "ro": ["Un program de desenat", "O funcție pentru a căuta specific conținut grafic", "Ștergerea fotografiilor", "Un test de monitor"],
+        "en": ["A drawing program", "A function to search specifically for graphical content", "Deleting photos", "A monitor test"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Filterblase'?",
+        "hu": "Mit jelent a 'szűrőbuborék' (filter bubble)?",
+        "ro": "Ce înseamnă 'bulă de filtrare' (filter bubble)?",
+        "en": "What does 'filter bubble' mean?"
+      },
+      "options": {
+        "de": ["Ein Bildbearbeitungs-Effekt", "Dass Suchmaschinen uns nur noch Ergebnisse zeigen, die unserer Meinung entsprechen", "Ein Schutz vor Viren", "Ein kaputter Monitor"],
+        "hu": ["Képszerkesztő effekt", "Azt, hogy a keresők csak a véleményünkhöz illő találatokat mutatják", "Vírus elleni védelem", "Hibás monitor"],
+        "ro": ["Un efect de editare foto", "Faptul că motoarele de căutare ne arată doar rezultate care corespund opiniei noastre", "Protecție contra virușilor", "Un monitor defect"],
+        "en": ["An image editing effect", "That search engines only show us results that match our opinion", "Protection against viruses", "A broken monitor"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie erkennt man oft eine seriöse Webseite?",
+        "hu": "Hogyan ismerhető fel gyakran egy megbízható weboldal?",
+        "ro": "Cum se recunoaște adesea un site web serios?",
+        "en": "How can you often recognize a reliable website?"
+      },
+      "options": {
+        "de": ["Sie hat viele blinkende Werbebanner", "Sie hat ein ordentliches Impressum und Quellenangaben", "Sie verspricht schnelles Geld", "Sie hat keine Autorennamen"],
+        "hu": ["Sok villogó reklám van rajta", "Van rajta impresszum és forrásmegjelölés", "Gyors pénzt ígér", "Nincsenek rajta szerzők"],
+        "ro": ["Are multe reclame intermitente", "Are o pagină de contact/impresum clară și surse citate", "Promite bani rapizi", "Nu are nume de autori"],
+        "en": ["It has many flashing ads", "It has a clear 'About' or 'Imprint' page and cites sources", "It promises quick money", "It has no author names"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die 'Ergebnisseite' (SERP)?",
+        "hu": "Mi a 'találati oldal' (SERP)?",
+        "ro": "Ce este 'pagina de rezultate' (SERP)?",
+        "en": "What is the 'Search Engine Results Page' (SERP)?"
+      },
+      "options": {
+        "de": ["Die Startseite von Google", "Die Seite mit den Links nach einer Suche", "Eine Fehlerseite", "Der Browser-Verlauf"],
+        "hu": ["A Google kezdőlapja", "A keresés utáni linkeket tartalmazó oldal", "Egy hibaoldal", "A böngészési előzmények"],
+        "ro": ["Pagina de pornire Google", "Pagina cu link-uri apărută după o căutare", "O pagină de eroare", "Istoricul browserului"],
+        "en": ["The Google home page", "The page with links after a search", "An error page", "The browser history"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Suche mit mehr als einem Wort?",
+        "hu": "Hogy hívják a több szóból álló keresési kifejezést?",
+        "ro": "Cum se numește căutarea cu mai mult de un cuvânt?",
+        "en": "What is a search with more than one word called?"
+      },
+      "answer": {
+        "de": "Suchanfrage",
+        "hu": "Keresőkifejezés",
+        "ro": "Interogare",
+        "en": "Search query"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Zeichen nutzt man oft als Platzhalter (Wildcard) bei der Suche?",
+        "hu": "Melyik jelet használják gyakran helyettesítő karakterként (wildcard) a keresésben?",
+        "ro": "Ce simbol se folosește adesea ca înlocuitor (wildcard) în căutare?",
+        "en": "Which character is often used as a wildcard in a search?"
+      },
+      "answer": {
+        "de": "*",
+        "hu": "*",
+        "ro": "*",
+        "en": "*"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man falsche Nachrichten im Internet?",
+        "hu": "Hogy hívják az internetes álhíreket?",
+        "ro": "Cum se numesc știrile false de pe internet?",
+        "en": "What are false news on the internet called?"
+      },
+      "answer": {
+        "de": "Fake News",
+        "hu": "Fake News",
+        "ro": "Fake News",
+        "en": "Fake News"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist der Fachbegriff für das Durchsuchen des Webs durch Bots?",
+        "hu": "Mi a szakkifejezés arra, amikor robotok átfésülik a webet?",
+        "ro": "Care este termenul tehnic pentru scanarea web-ului de către boți?",
+        "en": "What is the technical term for bots scanning the web?"
+      },
+      "answer": {
+        "de": "Crawling",
+        "hu": "Crawling",
+        "ro": "Crawling",
+        "en": "Crawling"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der Index, in dem Suchmaschinen Webseiten speichern?",
+        "hu": "Hogy hívják azt az indexet, amelyben a keresők a weboldalakat tárolják?",
+        "ro": "Cum se numește indexul în care motoarele de căutare stochează paginile web?",
+        "en": "What is the index called in which search engines store web pages?"
+      },
+      "answer": {
+        "de": "Suchindex",
+        "hu": "Keresőindex",
+        "ro": "Index",
+        "en": "Search index"
+      }
+    }
+  ]
+}

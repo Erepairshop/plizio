@@ -76,13 +76,15 @@ for iso, slug in COUNTRIES.items():
         for poly in polys:
             for ring in poly:
                 for lon, lat in ring:
+                    # Clip to North America mainland bbox (exclude Alaska Aleutian islands east of dateline)
+                    if lon < -170 or lon > -50: continue
                     all_lons.append(lon)
                     all_lats.append(lat)
                     na_all_lons.append(lon)
                     na_all_lats.append(lat)
-    
+
     if not all_lons: continue
-    
+
     min_lon, max_lon = min(all_lons), max(all_lons)
     min_lat, max_lat = min(all_lats), max(all_lats)
     

@@ -1,0 +1,1414 @@
+{
+  "ai_k6_t4_1": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Bias' in der KI?",
+        "hu": "Mit jelent a 'bias' (elfogultság) a MI-ben?",
+        "ro": "Ce înseamnă „bias” (părtinire) în IA?",
+        "en": "What does 'bias' mean in AI?"
+      },
+      "options": {
+        "de": ["Voreingenommenheit oder Einseitigkeit", "Eine besonders schnelle KI", "Ein neues Computergehäuse", "Ein spezielles Kabel"],
+        "hu": ["Elfogultság vagy egyoldalúság", "Egy különösen gyors MI", "Egy új számítógépház", "Egy speciális kábel"],
+        "ro": ["Prejudecată sau parțialitate", "O IA deosebit de rapidă", "O carcasă nouă de computer", "Un cablu special"],
+        "en": ["Bias or one-sidedness", "A particularly fast AI", "A new computer case", "A special cable"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woher kommt der Bias meistens?",
+        "hu": "Honnan származik leggyakrabban az elfogultság?",
+        "ro": "De unde provine cel mai des părtinirea?",
+        "en": "Where does bias mostly come from?"
+      },
+      "options": {
+        "de": ["Aus den Trainingsdaten", "Vom Monitor", "Vom Stromnetz", "Aus der Tastatur"],
+        "hu": ["A tanító adatokból", "A monitorról", "Az elektromos hálózatból", "A billentyűzetből"],
+        "ro": ["Din datele de antrenare", "De la monitor", "Din rețeaua electrică", "De la tastatură"],
+        "en": ["From the training data", "From the monitor", "From the power grid", "From the keyboard"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert, wenn Daten einseitig sind?",
+        "hu": "Mi történik, ha az adatok egyoldalúak?",
+        "ro": "Ce se întâmplă dacă datele sunt parțiale?",
+        "en": "What happens if the data is one-sided?"
+      },
+      "options": {
+        "de": ["Die KI lernt falsche Muster", "Die KI wird bunter", "Der PC schaltet sich aus", "Nichts"],
+        "hu": ["A MI hibás mintákat tanul meg", "A MI színesebb lesz", "A PC kikapcsol", "Semmi"],
+        "ro": ["IA învață tipare greșite", "IA devine mai colorată", "PC-ul se oprește", "Nimic"],
+        "en": ["The AI learns incorrect patterns", "The AI becomes more colorful", "The PC turns off", "Nothing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ein Beispiel für Bias?",
+        "hu": "Példa az elfogultságra?",
+        "ro": "Un exemplu de părtinire?",
+        "en": "An example of bias?"
+      },
+      "options": {
+        "de": ["Gesichtserkennung erkennt nur helle Haut gut", "KI spielt perfekt Schach", "Ein Roboter staubsaugt", "KI übersetzt Texte"],
+        "hu": ["Az arcfelismerő csak a világos bőrt ismeri fel jól", "A MI tökéletesen sakkozik", "Egy robot porszívózik", "A MI szövegeket fordít"],
+        "ro": ["Recunoașterea facială recunoaște bine doar pielea deschisă", "IA joacă șah perfect", "Un robot aspiră", "IA traduce texte"],
+        "en": ["Facial recognition only recognizes light skin well", "AI plays chess perfectly", "A robot vacuums", "AI translates texts"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist Bias gefährlich?",
+        "hu": "Miért veszélyes az elfogultság?",
+        "ro": "De ce este periculoasă părtinirea?",
+        "en": "Why is bias dangerous?"
+      },
+      "options": {
+        "de": ["Bestimmte Gruppen werden benachteiligt", "Der PC wird zu heiß", "Das Internet wird langsamer", "Man bekommt keine E-Mails"],
+        "hu": ["Bizonyos csoportokat hátrány érhet", "A PC túl forró lesz", "Az internet lassabb lesz", "Nem kapunk e-maileket"],
+        "ro": ["Anumite grupuri pot fi dezavantajate", "PC-ul devine prea fierbinte", "Internetul devine mai lent", "Nu primim e-mailuri"],
+        "en": ["Certain groups may be disadvantaged", "The PC gets too hot", "The internet gets slower", "You don't get emails"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI von sich aus Vorurteile haben?",
+        "hu": "Lehetnek-e egy MI-nek magától előítéletei?",
+        "ro": "Poate o IA să aibă prejudecăți de la sine?",
+        "en": "Can an AI have prejudices on its own?"
+      },
+      "options": {
+        "de": ["Nein, sie spiegelt nur die Daten wider", "Ja, sie hat eigene Gefühle", "Ja, sie hasst Menschen", "Nur wenn sie Hunger hat"],
+        "hu": ["Nem, csak az adatokat tükrözi vissza", "Igen, vannak saját érzései", "Igen, utálja az embereket", "Csak ha éhes"],
+        "ro": ["Nu, ea doar reflectă datele", "Da, are propriile sentimente", "Da, urăște oamenii", "Doar dacă îi este foame"],
+        "en": ["No, it only reflects the data", "Yes, it has its own feelings", "Yes, it hates humans", "Only if it's hungry"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie erkennt man Bias?",
+        "hu": "Hogyan lehet felismerni az elfogultságot?",
+        "ro": "Cum se poate recunoaște părtinirea?",
+        "en": "How can bias be recognized?"
+      },
+      "options": {
+        "de": ["Durch Testen mit verschiedenen Personengruppen", "Durch die Farbe des Gehäuses", "An der Lautstärke des Lüfters", "Gar nicht"],
+        "hu": ["Különböző embercsoportokkal való teszteléssel", "A gépház színéből", "A ventilátor zajából", "Sehogy"],
+        "ro": ["Prin testarea cu diferite grupuri de persoane", "După culoarea carcasei", "După zgomotul ventilatorului", "Nicidecum"],
+        "en": ["By testing with different groups of people", "By the color of the case", "By the fan noise", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer ist für die Vermeidung von Bias verantwortlich?",
+        "hu": "Ki felelős az elfogultság elkerüléséért?",
+        "ro": "Cine este responsabil pentru evitarea părtinirii?",
+        "en": "Who is responsible for avoiding bias?"
+      },
+      "options": {
+        "de": ["Die Entwickler und Datensammler", "Der Computer selbst", "Der Stromanbieter", "Niemand"],
+        "hu": ["A fejlesztők és az adatgyűjtők", "Maga a számítógép", "Az áramszolgáltató", "Senki"],
+        "ro": ["Dezvoltatorii și colectorii de date", "Computerul însuși", "Furnizorul de energie", "Nimeni"],
+        "en": ["Developers and data collectors", "The computer itself", "The power provider", "Nobody"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Algorithmen Bias verstärken?",
+        "hu": "Felerősíthetik-e az algoritmusok az elfogultságot?",
+        "ro": "Pot algoritmii să amplifice părtinirea?",
+        "en": "Can algorithms amplify bias?"
+      },
+      "options": {
+        "de": ["Ja, wenn sie Fehler in den Daten wiederholen", "Nein, sie machen alles besser", "Nur wenn das Internet schnell ist", "Nur bei Videospielen"],
+        "hu": ["Igen, ha megismétlik az adatokban lévő hibákat", "Nem, mindent jobbá tesznek", "Csak ha gyors az internet", "Csak videojátékoknál"],
+        "ro": ["Da, dacă repetă erorile din date", "Nu, ei fac totul mai bun", "Doar dacă internetul este rapid", "Doar la jocurile video"],
+        "en": ["Yes, if they repeat errors in the data", "No, they make everything better", "Only if the internet is fast", "Only in video games"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was hilft gegen Bias?",
+        "hu": "Mi segít az elfogultság ellen?",
+        "ro": "Ce ajută împotriva părtinirii?",
+        "en": "What helps against bias?"
+      },
+      "options": {
+        "de": ["Vielfältige und ausgewogene Datensätze", "Den Computer öfter neustarten", "Weniger Daten nutzen", "Eine Sonnenbrille für den Roboter"],
+        "hu": ["Változatos és kiegyensúlyozott adatkészletek", "A gép többszöri újraindítása", "Kevesebb adat használata", "Napszemüveg a robotnak"],
+        "ro": ["Seturi de date diverse și echilibrate", "Repornirea computerului mai des", "Folosirea mai puțini date", "Ochelari de soare pentru robot"],
+        "en": ["Diverse and balanced datasets", "Restarting the computer more often", "Using less data", "Sunglasses for the robot"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Fremdwort für Voreingenommenheit?",
+        "hu": "Idegen szó az előítéletességre / elfogultságra?",
+        "ro": "Cuvânt străin pentru părtinire?",
+        "en": "Foreign word for prejudice / bias?"
+      },
+      "answer": "Bias"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist die Hauptquelle für Bias?",
+        "hu": "Mi az elfogultság fő forrása?",
+        "ro": "Care este sursa principală de părtinire?",
+        "en": "What is the main source of bias?"
+      },
+      "answer": {
+        "de": "Daten",
+        "hu": "adatok",
+        "ro": "date",
+        "en": "data"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Sind KI-Entscheidungen immer neutral?",
+        "hu": "A MI döntései mindig semlegesek?",
+        "ro": "Deciziile IA sunt întotdeauna neutre?",
+        "en": "Are AI decisions always neutral?"
+      },
+      "answer": {
+        "de": "Nein",
+        "hu": "nem",
+        "ro": "nu",
+        "en": "no"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wer programmiert die KI?",
+        "hu": "Ki programozza a MI-t?",
+        "ro": "Cine programează IA?",
+        "en": "Who programs the AI?"
+      },
+      "answer": {
+        "de": "Mensch",
+        "hu": "ember",
+        "ro": "om",
+        "en": "human"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Gegenteil von einseitig?",
+        "hu": "Az egyoldalú ellentéte?",
+        "ro": "Opusul lui parțial?",
+        "en": "Opposite of one-sided?"
+      },
+      "answer": {
+        "de": "Vielfältig",
+        "hu": "változatos",
+        "ro": "diversificat",
+        "en": "diverse"
+      }
+    }
+  ],
+  "ai_k6_t4_2": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was untersucht die KI-Ethik?",
+        "hu": "Mit vizsgál a MI-etika?",
+        "ro": "Ce studiază etica IA?",
+        "en": "What does AI ethics examine?"
+      },
+      "options": {
+        "de": ["Was gut und richtig beim Einsatz von KI ist", "Wie man KI schneller macht", "Wie man KI teurer verkauft", "Die Farbe von Robotern"],
+        "hu": ["Mi a jó és helyes a MI használatában", "Hogyan legyen gyorsabb a MI", "Hogyan adjuk el drágábban a MI-t", "A robotok színét"],
+        "ro": ["Ce este bun și corect în utilizarea IA", "Cum să facem IA mai rapidă", "Cum să vindem IA mai scump", "Culoarea roboților"],
+        "en": ["What is good and right in the use of AI", "How to make AI faster", "How to sell AI more expensively", "The color of robots"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum brauchen wir Regeln für KI?",
+        "hu": "Miért van szükségünk szabályokra a MI-hez?",
+        "ro": "De ce avem nevoie de reguli pentru IA?",
+        "en": "Why do we need rules for AI?"
+      },
+      "options": {
+        "de": ["Um Menschen zu schützen", "Um den Computer zu ärgern", "Damit es komplizierter wird", "Gar nicht"],
+        "hu": ["Hogy megvédjük az embereket", "Hogy bosszantsuk a számítógépet", "Hogy bonyolultabb legyen", "Semennyire"],
+        "ro": ["Pentru a proteja oamenii", "Pentru a supăra computerul", "Ca să fie mai complicat", "Deloc"],
+        "en": ["To protect humans", "To annoy the computer", "To make it more complicated", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf eine KI alles entscheiden?",
+        "hu": "Dönthet-e egy MI mindenről?",
+        "ro": "Poate o IA să decidă totul?",
+        "en": "Can an AI decide everything?"
+      },
+      "options": {
+        "de": ["Nein, wichtige Entscheidungen braucht Menschen", "Ja, sie ist klüger", "Ja, weil es schneller geht", "Nur am Wochenende"],
+        "hu": ["Nem, a fontos döntésekhez ember kell", "Igen, mert okosabb", "Igen, mert gyorsabb", "Csak hétvégén"],
+        "ro": ["Nu, deciziile importante necesită oameni", "Da, este mai deșteaptă", "Da, pentru că este mai rapid", "Doar în weekend"],
+        "en": ["No, important decisions need humans", "Yes, it is smarter", "Yes, because it's faster", "Only on weekends"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet Transparenz bei der KI?",
+        "hu": "Mit jelent az átláthatóság (transzparencia) a MI-nél?",
+        "ro": "Ce înseamnă transparența în IA?",
+        "en": "What does transparency mean in AI?"
+      },
+      "options": {
+        "de": ["Man versteht, wie die KI zur Entscheidung kam", "Der Roboter ist aus Glas", "Die KI ist unsichtbar", "Der Monitor ist sauber"],
+        "hu": ["Érthető, hogyan jutott döntésre a MI", "A robot üvegből van", "A MI láthatatlan", "A monitor tiszta"],
+        "ro": ["Se înțelege cum a ajuns IA la o decizie", "Robotul este din sticlă", "IA este invizibilă", "Monitorul este curat"],
+        "en": ["It's clear how the AI reached a decision", "The robot is made of glass", "The AI is invisible", "The monitor is clean"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Verantwortung (Accountability)?",
+        "hu": "Mi a felelősségvállalás (accountability)?",
+        "ro": "Ce este responsabilitatea (accountability)?",
+        "en": "What is accountability?"
+      },
+      "options": {
+        "de": ["Jemand haftet für Fehler der KI", "Die KI bezahlt Steuern", "Der Computer gehört mir", "Die KI geht zur Schule"],
+        "hu": ["Valaki felel a MI hibáiért", "A MI adót fizet", "A számítógép az enyém", "A MI iskolába jár"],
+        "ro": ["Cineva răspunde pentru erorile IA", "IA plătește taxe", "Computerul este al meu", "IA merge la școală"],
+        "en": ["Someone is liable for AI errors", "AI pays taxes", "The computer belongs to me", "AI goes to school"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Soll eine KI Menschen täuschen dürfen?",
+        "hu": "Szabad-e a MI-nek becsapnia az embereket?",
+        "ro": "Are voie IA să păcălească oamenii?",
+        "en": "Should an AI be allowed to deceive humans?"
+      },
+      "options": {
+        "de": ["Nein, sie sollte ehrlich und erkennbar sein", "Ja, wenn es lustig ist", "Ja, um mehr zu verkaufen", "Nur bei Kindern"],
+        "hu": ["Nem, őszintének és felismerhetőnek kell lennie", "Igen, ha vicces", "Igen, hogy többet adjon el", "Csak gyerekeknél"],
+        "ro": ["Nu, ar trebui să fie sinceră și recognoscibilă", "Da, dacă este amuzant", "Da, pentru a vinde mai mult", "Doar la copii"],
+        "en": ["No, it should be honest and recognizable", "Yes, if it's funny", "Yes, to sell more", "Only for children"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Fairness' in der KI?",
+        "hu": "Mit jelent a 'fairness' (méltányosság) a MI-ben?",
+        "ro": "Ce înseamnă „fairness” (echitate) în IA?",
+        "en": "What does 'fairness' mean in AI?"
+      },
+      "options": {
+        "de": ["Alle Menschen werden gleich gerecht behandelt", "Die KI gewinnt jedes Spiel", "Der PC ist billig", "Die KI ist sehr laut"],
+        "hu": ["Minden embert egyformán igazságosan kezelnek", "A MI minden játékot megnyer", "A PC olcsó", "A MI nagyon hangos"],
+        "ro": ["Toți oamenii sunt tratați la fel de corect", "IA câștigă fiecare joc", "PC-ul este ieftin", "IA este foarte zgomotoasă"],
+        "en": ["All people are treated equally fairly", "The AI wins every game", "The PC is cheap", "The AI is very loud"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Privatsphäre bei der KI?",
+        "hu": "Mi a magánélet védelme a MI használatakor?",
+        "ro": "Ce este confidențialitatea în IA?",
+        "en": "What is privacy in AI?"
+      },
+      "options": {
+        "de": ["Schutz persönlicher Daten", "Ein Passwort für den PC", "Den Computer ausschalten", "Allein im Zimmer sein"],
+        "hu": ["A személyes adatok védelme", "Egy jelszó a géphez", "Kikapcsolni a gépet", "Egyedül lenni a szobában"],
+        "ro": ["Protecția datelor cu caracter personal", "O parolă pentru PC", "Oprirea computerului", "A fi singur în cameră"],
+        "en": ["Protection of personal data", "A password for the PC", "Turning off the computer", "Being alone in the room"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer legt ethische Regeln fest?",
+        "hu": "Ki határozza meg az etikai szabályokat?",
+        "ro": "Cine stabilește regulile etice?",
+        "en": "Who sets ethical rules?"
+      },
+      "options": {
+        "de": ["Menschen (Gesellschaft, Politiker, Experten)", "Die KI selbst", "Roboter-Anführer", "Niemand"],
+        "hu": ["Emberek (társadalom, politikusok, szakértők)", "Maga a MI", "Robot-vezetők", "Senki"],
+        "ro": ["Oamenii (societatea, politicienii, experții)", "IA însăși", "Liderii roboților", "Nimeni"],
+        "en": ["Humans (society, politicians, experts)", "The AI itself", "Robot leaders", "Nobody"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist Ethik für die Zukunft wichtig?",
+        "hu": "Miért fontos az etika a jövőre nézve?",
+        "ro": "De ce este importantă etica pentru viitor?",
+        "en": "Why is ethics important for the future?"
+      },
+      "options": {
+        "de": ["Damit Technik uns hilft und nicht schadet", "Damit Computer teurer werden", "Um die Schule zu verlängern", "Nicht wichtig"],
+        "hu": ["Hogy a technika segítsen és ne ártson", "Hogy a gépek drágábbak legyenek", "Hogy hosszabb legyen az iskola", "Nem fontos"],
+        "ro": ["Pentru ca tehnologia să ne ajute, nu să ne dăuneze", "Pentru ca computerele să fie mai scumpe", "Pentru a prelungi școala", "Nu este important"],
+        "en": ["So technology helps us and doesn't harm us", "To make computers more expensive", "To extend school hours", "Not important"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Lehre vom richtigen Handeln?",
+        "hu": "A helyes cselekvésről szóló tanítás?",
+        "ro": "Știința despre acțiunile corecte?",
+        "en": "The study of right and wrong?"
+      },
+      "answer": {
+        "de": "Ethik",
+        "hu": "etika",
+        "ro": "etică",
+        "en": "ethics"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wichtiger Schutz der Daten?",
+        "hu": "Az adatok fontos védelme?",
+        "ro": "Protecția importantă a datelor?",
+        "en": "Important protection of data?"
+      },
+      "answer": {
+        "de": "Datenschutz",
+        "hu": "adatvédelem",
+        "ro": "confidențialitate",
+        "en": "privacy"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was muss KI für Menschen sein?",
+        "hu": "Milyennek kell lennie a MI-nek az emberek számára?",
+        "ro": "Cum trebuie să fie IA pentru oameni?",
+        "en": "What must AI be for humans?"
+      },
+      "answer": {
+        "de": "Hilfreich",
+        "hu": "segítőkész",
+        "ro": "utilă",
+        "en": "helpful"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Gegenteil von unfair?",
+        "hu": "A tisztességtelen ellentéte?",
+        "ro": "Opusul lui nedrept?",
+        "en": "Opposite of unfair?"
+      },
+      "answer": {
+        "de": "Fair",
+        "hu": "igazságos",
+        "ro": "echitabil",
+        "en": "fair"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was darf eine KI nicht verletzen?",
+        "hu": "Mit nem sérthet meg egy MI?",
+        "ro": "Ce nu are voie să încalce o IA?",
+        "en": "What must an AI not violate?"
+      },
+      "answer": {
+        "de": "Menschenrechte",
+        "hu": "emberi jogok",
+        "ro": "drepturile omului",
+        "en": "human rights"
+      }
+    }
+  ],
+  "ai_k6_t4_3": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI ein gerechter Richter sein?",
+        "hu": "Lehet-e egy MI igazságos bíró?",
+        "ro": "Poate o IA să fie un judecător drept?",
+        "en": "Can an AI be a fair judge?"
+      },
+      "options": {
+        "de": ["Schwierig, da sie kein Mitgefühl hat", "Ja, sie macht nie Fehler", "Nein, sie kann nicht lesen", "Nur in Science-Fiction"],
+        "hu": ["Nehéz, mert nincs benne együttérzés", "Igen, sosem hibázik", "Nem, nem tud olvasni", "Csak a sci-fiben"],
+        "ro": ["Dificil, deoarece nu are compasiune", "Da, nu greșește niciodată", "Nu, nu știe să citească", "Doar în science-fiction"],
+        "en": ["Difficult, as it has no compassion", "Yes, it never makes mistakes", "No, it cannot read", "Only in science-fiction"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Gefahr von KI vor Gericht?",
+        "hu": "Veszélye a MI-nek a bíróságon?",
+        "ro": "Pericolul IA în instanță?",
+        "en": "Danger of AI in court?"
+      },
+      "options": {
+        "de": ["Bias in alten Urteilen wird übernommen", "Die KI spricht zu leise", "Die Roboter brauchen Stühle", "Keine Gefahr"],
+        "hu": ["A régi ítéletek elfogultsága átkerül", "A MI túl halkan beszél", "A robotoknak szék kell", "Nincs veszély"],
+        "ro": ["Părtinirea din vechile sentințe este preluată", "IA vorbește prea încet", "Roboții au nevoie de scaune", "Niciun pericol"],
+        "en": ["Bias in old judgments is carried over", "The AI speaks too quietly", "Robots need chairs", "No danger"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie hilft KI in der Medizin?",
+        "hu": "Hogyan segít a MI az orvoslásban?",
+        "ro": "Cum ajută IA în medicină?",
+        "en": "How does AI help in medicine?"
+      },
+      "options": {
+        "de": ["Schnellere Diagnose von Krankheiten", "Spritzen geben ohne Pieks", "Krankenhäuser putzen", "Witze erzählen"],
+        "hu": ["Betegségek gyorsabb diagnosztizálása", "Szuri fájdalom nélkül", "Kórház takarítás", "Vicc mesélés"],
+        "ro": ["Diagnosticarea mai rapidă a bolilor", "Injecții fără înțepătură", "Curățarea spitalelor", "Spunerea de glume"],
+        "en": ["Faster diagnosis of diseases", "Giving shots without pain", "Cleaning hospitals", "Telling jokes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ethik-Frage: Wer entscheidet bei einer OP?",
+        "hu": "Etikai kérdés: ki dönt egy műtétnél?",
+        "ro": "Întrebare etică: cine decide la o operație?",
+        "en": "Ethical question: who decides during surgery?"
+      },
+      "options": {
+        "de": ["Der Arzt, unterstützt von der KI", "Nur der Roboter", "Der Patient mit einer App", "Niemand"],
+        "hu": ["Az orvos, a MI segítségével", "Csak a robot", "A beteg egy alkalmazással", "Senki"],
+        "ro": ["Medicul, susținut de IA", "Doar robotul", "Pacientul cu o aplicație", "Nimeni"],
+        "en": ["The doctor, supported by AI", "Only the robot", "The patient with an app", "Nobody"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf KI Patientenakten lesen?",
+        "hu": "Olvashatja-e a MI a betegaktákat?",
+        "ro": "Are voie IA să citească fișele pacienților?",
+        "en": "Can AI read patient records?"
+      },
+      "options": {
+        "de": ["Ja, für die Behandlung, aber streng geschützt", "Nein, niemals", "Ja, jeder darf das sehen", "Nur wenn der PC neu ist"],
+        "hu": ["Igen, a kezeléshez, de szigorúan védve", "Nem, soha", "Igen, bárki láthatja", "Csak ha új a gép"],
+        "ro": ["Da, pentru tratament, dar strict protejat", "Nu, niciodată", "Da, oricine le poate vedea", "Doar dacă PC-ul este nou"],
+        "en": ["Yes, for treatment, but strictly protected", "No, never", "Yes, anyone can see them", "Only if the PC is new"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Vorteil von KI bei Röntgenbildern?",
+        "hu": "A MI előnye a röntgenképeknél?",
+        "ro": "Avantajul IA la radiografii?",
+        "en": "Advantage of AI in X-rays?"
+      },
+      "options": {
+        "de": ["Erkennt kleinste Details sehr schnell", "Macht die Bilder bunter", "Die Bilder sind billiger", "Kein Vorteil"],
+        "hu": ["Nagyon gyorsan felismeri a legkisebb részleteket", "Színesebbé teszi a képeket", "Olcsóbbak a képek", "Nincs előnye"],
+        "ro": ["Recunoaște cele mai mici detalii foarte rapid", "Face imaginile mai colorate", "Imaginile sunt mai ieftine", "Niciun avantaj"],
+        "en": ["Recognizes smallest details very quickly", "Makes images more colorful", "Images are cheaper", "No advantage"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI unparteiisch sein?",
+        "hu": "Lehet-e a MI pártatlan?",
+        "ro": "Poate IA să fie imparțială?",
+        "en": "Can an AI be impartial?"
+      },
+      "options": {
+        "de": ["Nur wenn die Daten es auch sind", "Ja, immer", "Nein, sie hat immer eine Meinung", "KI ist ein Mensch"],
+        "hu": ["Csak ha az adatok is azok", "Igen, mindig", "Nem, mindig van véleménye", "A MI egy ember"],
+        "ro": ["Doar dacă datele sunt și ele așa", "Da, întotdeauna", "Nu, are întotdeauna o opinie", "IA este un om"],
+        "en": ["Only if the data is as well", "Yes, always", "No, it always has an opinion", "AI is a human"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert bei einem Fehlurteil durch KI?",
+        "hu": "Mi történik, ha a MI téves ítéletet hoz?",
+        "ro": "Ce se întâmplă în cazul unei sentințe greșite a IA?",
+        "en": "What happens in case of a wrong judgment by AI?"
+      },
+      "options": {
+        "de": ["Menschen müssen das Urteil prüfen und korrigieren", "Man kann nichts machen", "Der Computer wird verhaftet", "Die KI entschuldigt sich"],
+        "hu": ["Embereknek kell ellenőrizni és javítani", "Nem lehet tenni semmit", "Letartóztatják a számítógépet", "A MI bocsánatot kér"],
+        "ro": ["Oamenii trebuie să verifice și să corecteze sentința", "Nu se poate face nimic", "Computerul este arestat", "IA își cere scuze"],
+        "en": ["Humans must review and correct the judgment", "Nothing can be done", "The computer is arrested", "The AI apologizes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Bereich ist besonders sensibel?",
+        "hu": "Melyik terület különösen érzékeny?",
+        "ro": "Care domeniu este deosebit de sensibil?",
+        "en": "Which area is particularly sensitive?"
+      },
+      "options": {
+        "de": ["Gesundheit und Recht", "Wettervorhersage", "Videospiele", "Kochen"],
+        "hu": ["Egészségügy és jog", "Időjárás előrejelzés", "Videojátékok", "Főzés"],
+        "ro": ["Sănătate și drept", "Prognoza meteo", "Jocuri video", "Gătit"],
+        "en": ["Health and law", "Weather forecast", "Video games", "Cooking"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer sollte das letzte Wort haben?",
+        "hu": "Kinél kell legyen a végső szó?",
+        "ro": "Cine ar trebui să aibă ultimul cuvânt?",
+        "en": "Who should have the last word?"
+      },
+      "options": {
+        "de": ["Der Mensch", "Die KI", "Das Internet", "Die Münze"],
+        "hu": ["Az ember", "A MI", "Az internet", "A pénzfeldobás"],
+        "ro": ["Omul", "IA", "Internetul", "Banul"],
+        "en": ["The human", "The AI", "The internet", "The coin toss"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "KI in der Medizin hilft bei der ...?",
+        "hu": "A MI az orvoslásban segít a ...-ban?",
+        "ro": "IA în medicină ajută la ...?",
+        "en": "AI in medicine helps with ...?"
+      },
+      "answer": {
+        "de": "Diagnose",
+        "hu": "diagnózis",
+        "ro": "diagnostic",
+        "en": "diagnosis"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Beruf: Spricht Urteile?",
+        "hu": "Foglalkozás: ítéleteket hoz?",
+        "ro": "Meserie: pronunță sentințe?",
+        "en": "Profession: gives judgments?"
+      },
+      "answer": {
+        "de": "Richter",
+        "hu": "bíró",
+        "ro": "judecător",
+        "en": "judge"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Beruf: Heilt Menschen?",
+        "hu": "Foglalkozás: embereket gyógyít?",
+        "ro": "Meserie: vindecă oameni?",
+        "en": "Profession: heals people?"
+      },
+      "answer": {
+        "de": "Arzt",
+        "hu": "orvos",
+        "ro": "medic",
+        "en": "doctor"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Anderes Wort für Fairness?",
+        "hu": "Másik szó a méltányosságra?",
+        "ro": "Alt cuvânt pentru echitate?",
+        "en": "Another word for fairness?"
+      },
+      "answer": {
+        "de": "Gerechtigkeit",
+        "hu": "igazságosság",
+        "ro": "dreptate",
+        "en": "justice"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "KI ist ein ...?",
+        "hu": "A MI egy ...?",
+        "ro": "IA este un ...?",
+        "en": "AI is a ...?"
+      },
+      "answer": {
+        "de": "Werkzeug",
+        "hu": "eszköz",
+        "ro": "instrument",
+        "en": "tool"
+      }
+    }
+  ],
+  "ai_k6_t4_4": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind 'Deepfakes'?",
+        "hu": "Mik azok a 'deepfake'-ek?",
+        "ro": "Ce sunt „deepfake”-urile?",
+        "en": "What are 'deepfakes'?"
+      },
+      "options": {
+        "de": ["Täuschend echte, KI-generierte Bilder oder Videos", "Besonders tiefe Teller", "Falsche Versprechen", "Ein Spiel für Kinder"],
+        "hu": ["Megtévesztően valódi, MI-vel készített képek vagy videók", "Különösen mély tányérok", "Hamis ígéretek", "Egy gyerekjáték"],
+        "ro": ["Imagini sau videoclipuri generate de IA, care par reale", "Farfurii deosebit de adânci", "Promisiuni false", "Un joc pentru copii"],
+        "en": ["Deceptively real, AI-generated images or videos", "Particularly deep plates", "False promises", "A game for children"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Problem mit Fake News durch KI?",
+        "hu": "Mi a probléma a MI-vel készített álhírekkel?",
+        "ro": "Care este problema cu știrile false create de IA?",
+        "en": "What is the problem with AI-generated fake news?"
+      },
+      "options": {
+        "de": ["Sie verbreiten sich schnell und täuschen viele", "Sie sind zu lang", "Man kann sie nicht lesen", "Sie kosten Geld"],
+        "hu": ["Gyorsan terjednek és sokakat becsapnak", "Túl hosszúak", "Nem lehet elolvasni őket", "Pénzbe kerülnek"],
+        "ro": ["Se răspândesc rapid și păcălesc mulți oameni", "Sunt prea lungi", "Nu pot fi citite", "Costă bani"],
+        "en": ["They spread quickly and deceive many", "They are too long", "They cannot be read", "They cost money"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woran erkennt man manchmal ein Deepfake-Video?",
+        "hu": "Miről lehet néha felismerni egy deepfake videót?",
+        "ro": "După ce se poate recunoaște uneori un videoclip deepfake?",
+        "en": "How can you sometimes recognize a deepfake video?"
+      },
+      "options": {
+        "de": ["Unnatürliches Blinzeln oder Lippenbewegungen", "Am Titel", "An der Musik", "Am Datum"],
+        "hu": ["Természetellenes pislogás vagy ajakmozgás", "A címéről", "A zenéről", "A dátumról"],
+        "ro": ["Clipit sau mișcări ale buzelor nefirești", "După titlu", "După muzică", "După dată"],
+        "en": ["Unnatural blinking or lip movements", "By the title", "By the music", "By the date"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf man Bilder von anderen ohne Erlaubnis verändern?",
+        "hu": "Szabad mások képeit engedély nélkül megváltoztatni?",
+        "ro": "Este permisă modificarea imaginilor altora fără permisiune?",
+        "en": "Is it allowed to change others' images without permission?"
+      },
+      "options": {
+        "de": ["Nein, das verletzt Persönlichkeitsrechte", "Ja, im Internet darf man alles", "Nur wenn es lustig ist", "Nur mit einem Filter"],
+        "hu": ["Nem, ez sérti a személyiségi jogokat", "Igen, az interneten mindent szabad", "Csak ha vicces", "Csak szűrővel"],
+        "ro": ["Nu, acest lucru încalcă drepturile de personalitate", "Da, pe internet totul este permis", "Doar dacă este amuzant", "Doar cu un filtru"],
+        "en": ["No, that violates personal rights", "Yes, everything is allowed on the internet", "Only if it's funny", "Only with a filter"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Ziel von Fake News?",
+        "hu": "Mi az álhírek (fake news) célja?",
+        "ro": "Care este scopul știrilor false (fake news)?",
+        "en": "What is the goal of fake news?"
+      },
+      "options": {
+        "de": ["Manipulation und Verwirrung stiften", "Menschen informieren", "Die Welt verbessern", "Unterhaltung"],
+        "hu": ["Manipuláció és zavarkeltés", "Emberek tájékoztatása", "A világ jobbá tétele", "Szórakoztatás"],
+        "ro": ["Manipularea și crearea de confuzie", "Informarea oamenilor", "Îmbunătățirea lumii", "Divertisment"],
+        "en": ["Manipulation and creating confusion", "Informing people", "Improving the world", "Entertainment"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI Stimmen fälschen?",
+        "hu": "Tud-e a MI hangokat hamisítani?",
+        "ro": "Poate IA să falsifice voci?",
+        "en": "Can AI fake voices?"
+      },
+      "options": {
+        "de": ["Ja (Voice Cloning)", "Nein, Stimmen sind sicher", "Nur bei Robotern", "Nur im Radio"],
+        "hu": ["Igen (Voice Cloning)", "Nem, a hangok biztonságosak", "Csak robotoknál", "Csak a rádióban"],
+        "ro": ["Da (Voice Cloning)", "Nu, vocile sunt sigure", "Doar la roboți", "Doar la radio"],
+        "en": ["Yes (Voice Cloning)", "No, voices are safe", "Only for robots", "Only on the radio"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man tun, wenn eine Nachricht seltsam klingt?",
+        "hu": "Mit kell tenni, ha egy hír furcsának tűnik?",
+        "ro": "Ce ar trebui să facem dacă o știre pare ciudată?",
+        "en": "What should you do if a news item sounds strange?"
+      },
+      "options": {
+        "de": ["Quellen prüfen (Faktencheck)", "Sofort teilen", "Alles glauben", "Den Computer ausschalten"],
+        "hu": ["Ellenőrizni a forrásokat (tényellenőrzés)", "Azonnal megosztani", "Mindent elhinni", "Kikapcsolni a gépet"],
+        "ro": ["Verificarea surselor (fact-checking)", "Partajarea imediată", "Crederea în tot", "Oprirea computerului"],
+        "en": ["Check sources (fact-check)", "Share immediately", "Believe everything", "Turn off the computer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können wir KI nutzen, um Fakes zu finden?",
+        "hu": "Használhatjuk a MI-t a hamisítványok megtalálására?",
+        "ro": "Putem folosi IA pentru a găsi falsuri?",
+        "en": "Can we use AI to find fakes?"
+      },
+      "options": {
+        "de": ["Ja, spezielle KI erkennt Fälschungen", "Nein, das geht nicht", "Nur bei Texten", "Nur am Montag"],
+        "hu": ["Igen, speciális MI felismeri a hamisítványokat", "Nem, ez nem lehetséges", "Csak szövegeknél", "Csak hétfőn"],
+        "ro": ["Da, o IA specială recunoaște falsurile", "Nu, nu se poate", "Doar la texte", "Doar lunea"],
+        "en": ["Yes, special AI recognizes fakes", "No, it's not possible", "Only for texts", "Only on Mondays"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist es wichtig, kritisch zu sein?",
+        "hu": "Miért fontos kritikusnak lenni?",
+        "ro": "De ce este important să fim critici?",
+        "en": "Why is it important to be critical?"
+      },
+      "options": {
+        "de": ["Damit man nicht belogen wird", "Damit man schlechte Noten bekommt", "Um andere zu ärgern", "Es ist nicht wichtig"],
+        "hu": ["Hogy ne verjenek át", "Hogy rossz jegyeket kapjunk", "Hogy mást bosszantsunk", "Nem fontos"],
+        "ro": ["Pentru a nu fi mințiți", "Pentru a primi note mici", "Pentru a-i supăra pe alții", "Nu este important"],
+        "en": ["So you don't get lied to", "To get bad grades", "To annoy others", "It's not important"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Faktencheck'?",
+        "hu": "Mit jelent a 'tényellenőrzés'?",
+        "ro": "Ce înseamnă „fact-checking”?",
+        "en": "What does 'fact-check' mean?"
+      },
+      "options": {
+        "de": ["Prüfen, ob eine Information wahr ist", "Einen Text löschen", "Ein Foto machen", "Geld zählen"],
+        "hu": ["Ellenőrizni, hogy egy információ igaz-e", "Egy szöveg törlése", "Egy fotó készítése", "Pénzszámolás"],
+        "ro": ["Verificarea dacă o informație este adevărată", "Ștergerea unui text", "Realizarea unei fotografii", "Numărarea banilor"],
+        "en": ["Checking if information is true", "Deleting a text", "Taking a photo", "Counting money"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "KI-falsche Videos?",
+        "hu": "MI-vel hamisított videók?",
+        "ro": "Videoclipuri falsificate prin IA?",
+        "en": "AI-faked videos?"
+      },
+      "answer": "Deepfake"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Lügen im Internet?",
+        "hu": "Hazugságok az interneten?",
+        "ro": "Minciuni pe internet?",
+        "en": "Lies on the internet?"
+      },
+      "answer": {
+        "de": "Fake News",
+        "hu": "álhírek",
+        "ro": "știri false",
+        "en": "fake news"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Woher kommt die Nachricht?",
+        "hu": "Honnan származik a hír?",
+        "ro": "De unde provine știrea?",
+        "en": "Where does the news come from?"
+      },
+      "answer": {
+        "de": "Quelle",
+        "hu": "forrás",
+        "ro": "sursă",
+        "en": "source"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Alles glauben?",
+        "hu": "Mindent elhinni?",
+        "ro": "Să credem totul?",
+        "en": "Believe everything?"
+      },
+      "answer": {
+        "de": "Nein",
+        "hu": "nem",
+        "ro": "nu",
+        "en": "no"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Sinn zum Prüfen?",
+        "hu": "Milyen gondolkodásmód kell az ellenőrzéshez?",
+        "ro": "Ce fel de gândire este necesară pentru verificare?",
+        "en": "What mindset is needed for checking?"
+      },
+      "answer": {
+        "de": "Kritisch",
+        "hu": "kritikus",
+        "ro": "critică",
+        "en": "critical"
+      }
+    }
+  ],
+  "ai_k6_t4_5": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI Jobs ersetzen?",
+        "hu": "Képes a MI munkaköröket átvenni?",
+        "ro": "Poate IA să înlocuiască locuri de muncă?",
+        "en": "Can AI replace jobs?"
+      },
+      "options": {
+        "de": ["Ja, besonders einfache oder repetitive Aufgaben", "Nein, niemals", "Nur im Weltraum", "Nur am Computer"],
+        "hu": ["Igen, főleg az egyszerű vagy ismétlődő feladatokat", "Nem, soha", "Csak az űrben", "Csak a számítógépen"],
+        "ro": ["Da, în special sarcinile simple sau repetitive", "Nu, niciodată", "Doar în spațiu", "Doar pe computer"],
+        "en": ["Yes, especially simple or repetitive tasks", "No, never", "Only in space", "Only on the computer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Automatisierung?",
+        "hu": "Mi az automatizálás?",
+        "ro": "Ce este automatizarea?",
+        "en": "What is automation?"
+      },
+      "options": {
+        "de": ["Arbeiten werden ohne Menschen erledigt", "Ein neues Auto", "Selbst kochen", "Hausaufgaben machen"],
+        "hu": ["A munkát ember nélkül végzik el", "Egy új autó", "Saját főzés", "Házi feladat írás"],
+        "ro": ["Sarcinile sunt îndeplinite fără oameni", "O mașină nouă", "Gătitul singur", "Efectuarea temelor"],
+        "en": ["Tasks are performed without humans", "A new car", "Cooking yourself", "Doing homework"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Berufe könnten sich ändern?",
+        "hu": "Mely szakmák változhatnak meg?",
+        "ro": "Ce meserii s-ar putea schimba?",
+        "en": "Which professions might change?"
+      },
+      "options": {
+        "de": ["Fast alle, da KI ein neues Werkzeug ist", "Gar keine", "Nur Roboter-Bauer", "Nur YouTuber"],
+        "hu": ["Szinte mindegyik, mivel a MI egy új eszköz", "Egyik sem", "Csak a robotépítők", "Csak a YouTuber-ek"],
+        "ro": ["Aproape toate, deoarece IA este un instrument nou", "Niciuna", "Doar constructorii de roboți", "Doar YouTuberii"],
+        "en": ["Almost all, as AI is a new tool", "None at all", "Only robot builders", "Only YouTubers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kommen neue Berufe durch KI?",
+        "hu": "Jönnek létre új szakmák a MI miatt?",
+        "ro": "Apar meserii noi datorită IA?",
+        "en": "Are new jobs created because of AI?"
+      },
+      "options": {
+        "de": ["Ja, z.B. KI-Trainer oder Datenexperten", "Nein, es gibt nur weniger Arbeit", "Nur wenn Roboter regieren", "Nur im Internet"],
+        "hu": ["Igen, pl. MI-tanítók vagy adat-szakértők", "Nem, csak kevesebb munka lesz", "Csak ha a robotok uralkodnak", "Csak az interneten"],
+        "ro": ["Da, de ex. traineri IA sau experți în date", "Nu, va fi doar mai puțină muncă", "Doar dacă roboții guvernează", "Doar pe internet"],
+        "en": ["Yes, e.g., AI trainers or data experts", "No, there will only be less work", "Only if robots rule", "Only on the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was können Menschen besser als KI?",
+        "hu": "Mit tudnak az emberek jobban a MI-nél?",
+        "ro": "Ce pot face oamenii mai bine decât IA?",
+        "en": "What can humans do better than AI?"
+      },
+      "options": {
+        "de": ["Empathie, Kreativität, ethische Entscheidungen", "Schnell rechnen", "Sich nie ausruhen", "Tausende Fotos sortieren"],
+        "hu": ["Együttérzés, kreativitás, etikai döntések", "Gyors számolás", "Sosem pihenni", "Több ezer fotó válogatása"],
+        "ro": ["Empatie, creativitate, decizii etice", "Calcul rapid", "A nu se odihni niciodată", "Sortarea a mii de fotografii"],
+        "en": ["Empathy, creativity, ethical decisions", "Calculating quickly", "Never resting", "Sorting thousands of photos"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie sollten wir uns auf die Zukunft vorbereiten?",
+        "hu": "Hogyan készüljünk fel a jövőre?",
+        "ro": "Cum ar trebui să ne pregătim pentru viitor?",
+        "en": "How should we prepare for the future?"
+      },
+      "options": {
+        "de": ["Lebenslanges Lernen und KI verstehen", "Gar nicht", "Angst haben", "Keinen Computer nutzen"],
+        "hu": ["Élethosszig tartó tanulás és a MI megismerése", "Sehogy", "Félelemmel", "Ne használjunk gépet"],
+        "ro": ["Învățarea pe tot parcursul vieții și înțelegerea IA", "Nicidecum", "Să ne fie frică", "Să nu folosim computerul"],
+        "en": ["Lifelong learning and understanding AI", "Not at all", "By being afraid", "Don't use computers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Roboter in Fabriken helfen?",
+        "hu": "Tudnak-e segíteni a robotok a gyárakban?",
+        "ro": "Pot roboții să ajute în fabrici?",
+        "en": "Can robots help in factories?"
+      },
+      "options": {
+        "de": ["Ja, für gefährliche oder schwere Arbeit", "Nein, sie sind zu schwach", "Nur wenn es hell ist", "Nur nachts"],
+        "hu": ["Igen, a veszélyes vagy nehéz munkákban", "Nem, túl gyengék", "Csak ha világos van", "Csak éjszaka"],
+        "ro": ["Da, pentru munci periculoase sau grele", "Nu, sunt prea slabi", "Doar dacă este lumină", "Doar noaptea"],
+        "en": ["Yes, for dangerous or heavy work", "No, they are too weak", "Only if it's bright", "Only at night"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Werden alle Jobs verschwinden?",
+        "hu": "El fog tűnni minden munkahely?",
+        "ro": "Vor dispărea toate locurile de muncă?",
+        "en": "Will all jobs disappear?"
+      },
+      "options": {
+        "de": ["Nein, Berufe verändern sich eher", "Ja, in zwei Jahren", "Nur die im Büro", "Nur die in der Schule"],
+        "hu": ["Nem, a szakmák inkább megváltoznak", "Igen, két éven belül", "Csak az irodaiak", "Csak az iskolaiak"],
+        "ro": ["Nu, meseriile se schimbă mai degrabă", "Da, în doi ani", "Doar cele de la birou", "Doar cele de la școală"],
+        "en": ["No, professions are more likely to change", "Yes, in two years", "Only those in offices", "Only those in schools"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Vorteil der KI am Arbeitsplatz?",
+        "hu": "Mi az előnye a MI-nek a munkahelyen?",
+        "ro": "Care este un avantaj al IA la locul de muncă?",
+        "en": "What is an advantage of AI in the workplace?"
+      },
+      "options": {
+        "de": ["Übernimmt langweilige Aufgaben", "Macht mehr Pausen", "Trinkt keinen Kaffee", "Braucht kein Licht"],
+        "hu": ["Átveszi az unalmas feladatokat", "Több szünetet tart", "Nem iszik kávét", "Nincs szüksége fényre"],
+        "ro": ["Preia sarcinile plictisitoare", "Face mai multe pauze", "Nu bea cafea", "Nu are nevoie de lumină"],
+        "en": ["Takes over boring tasks", "Takes more breaks", "Doesn't drink coffee", "Doesn't need light"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist soziale Intelligenz?",
+        "hu": "Mi a szociális intelligencia?",
+        "ro": "Ce este inteligența socială?",
+        "en": "What is social intelligence?"
+      },
+      "options": {
+        "de": ["Mit anderen Menschen gut umgehen können", "Schnell im Internet surfen", "Viele Freunde bei Facebook haben", "Einen Roboter bauen"],
+        "hu": ["Képesség a másokkal való jó bánásmódra", "Gyors internetezés", "Sok barát a Facebookon", "Robotépítés"],
+        "ro": ["Abilitatea de a interacționa bine cu ceilalți", "Navigarea rapidă pe internet", "Mulți prieteni pe Facebook", "Construirea unui robot"],
+        "en": ["Ability to interact well with others", "Surfing the internet quickly", "Having many friends on Facebook", "Building a robot"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Menschen sind ...?",
+        "hu": "Az emberek ...?",
+        "ro": "Oamenii sunt ...?",
+        "en": "Humans are ...?"
+      },
+      "answer": {
+        "de": "Kreativ",
+        "hu": "kreatívak",
+        "ro": "creativi",
+        "en": "creative"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Maschinen sind ...?",
+        "hu": "A gépek ...?",
+        "ro": "Mașinile sunt ...?",
+        "en": "Machines are ...?"
+      },
+      "answer": {
+        "de": "Schnell",
+        "hu": "gyorsak",
+        "ro": "rapide",
+        "en": "fast"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was brauchen wir für die Zukunft?",
+        "hu": "Mire van szükségünk a jövőhöz?",
+        "ro": "De ce avem nevoie pentru viitor?",
+        "en": "What do we need for the future?"
+      },
+      "answer": {
+        "de": "Wissen",
+        "hu": "tudás",
+        "ro": "cunoștințe",
+        "en": "knowledge"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wer führt die Arbeit aus?",
+        "hu": "Ki végzi a munkát?",
+        "ro": "Cine execută munca?",
+        "en": "Who performs the work?"
+      },
+      "answer": {
+        "de": "Mensch",
+        "hu": "ember",
+        "ro": "om",
+        "en": "human"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Anderes Wort für Beruf?",
+        "hu": "Másik szó a foglalkozásra?",
+        "ro": "Alt cuvânt pentru meserie?",
+        "en": "Another word for profession?"
+      },
+      "answer": {
+        "de": "Job",
+        "hu": "munka",
+        "ro": "job",
+        "en": "job"
+      }
+    }
+  ],
+  "ai_k6_t4_6": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Superintelligenz'?",
+        "hu": "Mi az a 'szuperintelligencia'?",
+        "ro": "Ce este „superinteligența”?",
+        "en": "What is 'superintelligence'?"
+      },
+      "options": {
+        "de": ["KI, die in allen Bereichen klüger als Menschen ist", "Ein sehr schneller Computer", "Ein Roboter mit Superkräften", "Ein besonders großes Gehirn"],
+        "hu": ["MI, amely minden területen okosabb az embernél", "Egy nagyon gyors számítógép", "Egy szuperképességekkel bíró robot", "Egy különösen nagy agy"],
+        "ro": ["IA care este mai deșteaptă decât oamenii în toate domeniile", "Un computer foarte rapid", "Un robot cu superputeri", "Un creier deosebit de mare"],
+        "en": ["AI that is smarter than humans in all areas", "A very fast computer", "A robot with superpowers", "A particularly large brain"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Singularität'?",
+        "hu": "Mit jelent a 'szingularitás'?",
+        "ro": "Ce înseamnă „singularitate”?",
+        "en": "What does 'singularity' mean?"
+      },
+      "options": {
+        "de": ["Punkt, ab dem KI sich selbst verbessert", "Ein einzelner Computer", "Das Ende des Internets", "Ein mathematischer Fehler"],
+        "hu": ["Az a pont, ahol a MI elkezdi önmagát fejleszteni", "Egyetlen számítógép", "Az internet vége", "Egy matematikai hiba"],
+        "ro": ["Punctul în care IA începe să se îmbunătățească singură", "Un singur computer", "Sfârșitul internetului", "O eroare matematică"],
+        "en": ["The point at which AI begins to improve itself", "A single computer", "The end of the internet", "A mathematical error"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Haben wir heute schon Superintelligenz?",
+        "hu": "Van már ma szuperintelligenciánk?",
+        "ro": "Avem deja superinteligență astăzi?",
+        "en": "Do we have superintelligence today?"
+      },
+      "options": {
+        "de": ["Nein, bisher nur 'schwache' KI", "Ja, mein Handy", "Ja, Google", "Nur in Laboren"],
+        "hu": ["Nem, eddig csak 'gyenge' MI létezik", "Igen, a mobilom", "Igen, a Google", "Csak laborokban"],
+        "ro": ["Nu, până acum există doar IA „slabă”", "Da, telefonul meu", "Da, Google", "Doar în laboratoare"],
+        "en": ["No, so far only 'narrow' AI exists", "Yes, my phone", "Yes, Google", "Only in labs"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Gefahr der Superintelligenz?",
+        "hu": "Mi a szuperintelligencia egyik veszélye?",
+        "ro": "Care este un pericol al superinteligenței?",
+        "en": "What is a danger of superintelligence?"
+      },
+      "options": {
+        "de": ["Dass ihre Ziele nicht mit unseren übereinstimmen", "Dass sie zu viel Strom braucht", "Dass sie keine Witze versteht", "Keine Gefahr"],
+        "hu": ["Hogy a céljai nem egyeznek a mieinkkel", "Hogy túl sok áramot fogyaszt", "Hogy nem érti a vicceket", "Nincs veszély"],
+        "ro": ["Că obiectivele sale nu coincid cu ale noastre", "Că are nevoie de prea mult curent", "Că nu înțelege glumele", "Niciun pericol"],
+        "en": ["That its goals do not align with ours", "That it needs too much power", "That it doesn't understand jokes", "No danger"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die 'Ausrichtung' (Alignment)?",
+        "hu": "Mi az 'igazítás' (alignment)?",
+        "ro": "Ce este „alinierea” (alignment)?",
+        "en": "What is 'alignment'?"
+      },
+      "options": {
+        "de": ["Sicherstellen, dass die KI menschliche Werte teilt", "Die KI gerade hinstellen", "Ein Update machen", "Den Monitor ausrichten"],
+        "hu": ["Annak biztosítása, hogy a MI emberi értékeket kövessen", "A MI egyenesbe állítása", "Egy frissítés készítése", "A monitor beállítása"],
+        "ro": ["Asigurarea că IA împărtășește valorile umane", "Așezarea drept a IA", "Realizarea unui update", "Alinierea monitorului"],
+        "en": ["Ensuring AI shares human values", "Setting the AI straight", "Making an update", "Aligning the monitor"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Könnte KI Krankheiten heilen?",
+        "hu": "Meggyógyíthatja a MI a betegségeket?",
+        "ro": "Ar putea IA să vindece boli?",
+        "en": "Could AI cure diseases?"
+      },
+      "options": {
+        "de": ["Ja, sie könnte neue Medikamente schnell finden", "Nein, das können nur Menschen", "Nur wenn sie will", "Vielleicht"],
+        "hu": ["Igen, gyorsan találhatna új gyógyszereket", "Nem, erre csak az emberek képesek", "Csak ha akarja", "Talán"],
+        "ro": ["Da, ar putea găsi rapid medicamente noi", "Nu, doar oamenii pot face asta", "Doar dacă vrea", "Poate"],
+        "en": ["Yes, it could find new medicines quickly", "No, only humans can do that", "Only if it wants", "Maybe"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'schwache' KI (Narrow AI)?",
+        "hu": "Mi a 'gyenge' MI (narrow AI)?",
+        "ro": "Ce este IA „slabă” (narrow AI)?",
+        "en": "What is 'narrow' AI?"
+      },
+      "options": {
+        "de": ["KI für eine bestimmte Aufgabe (z.B. Schach)", "KI, die fast kaputt ist", "Ein langsamer Computer", "KI für Kinder"],
+        "hu": ["MI egy konkrét feladatra (pl. sakk)", "MI, ami majdnem elromlott", "Egy lassú gép", "MI gyerekeknek"],
+        "ro": ["IA pentru o sarcină specifică (de ex. șah)", "IA care este aproape stricată", "Un computer lent", "IA pentru copii"],
+        "en": ["AI for a specific task (e.g., chess)", "AI that is almost broken", "A slow computer", "AI for children"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wann kommt die Superintelligenz?",
+        "hu": "Mikor jön el a szuperintelligencia?",
+        "ro": "Când va apărea superinteligența?",
+        "en": "When will superintelligence arrive?"
+      },
+      "options": {
+        "de": ["Keiner weiß es genau, Experten sind uneinig", "Nächstes Jahr", "Gestern", "Niemals"],
+        "hu": ["Senki sem tudja pontosan, a szakértők vitatkoznak", "Jövőre", "Tegnap", "Soha"],
+        "ro": ["Nimeni nu știe exact, experții nu sunt de acord", "Anul viitor", "Ieri", "Niciodată"],
+        "en": ["Nobody knows for sure, experts disagree", "Next year", "Yesterday", "Never"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Sollten wir vor KI Angst haben?",
+        "hu": "Félnünk kellene a MI-től?",
+        "ro": "Ar trebui să ne fie frică de IA?",
+        "en": "Should we be afraid of AI?"
+      },
+      "options": {
+        "de": ["Vorsicht und Regeln sind besser als Angst", "Ja, sie wird uns fressen", "Nein, alles ist perfekt", "Nur nachts"],
+        "hu": ["Az óvatosság és a szabályok jobbak, mint a félelem", "Igen, meg fog enni minket", "Nem, minden tökéletes", "Csak éjjel"],
+        "ro": ["Precauția și regulile sunt mai bune decât frica", "Da, ne va mânca", "Nu, totul este perfect", "Doar noaptea"],
+        "en": ["Caution and rules are better than fear", "Yes, it will eat us", "No, everything is perfect", "Only at night"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer bestimmt die Zukunft der KI?",
+        "hu": "Ki határozza meg a MI jövőjét?",
+        "ro": "Cine decide viitorul IA?",
+        "en": "Who determines the future of AI?"
+      },
+      "options": {
+        "de": ["Wir alle (Menschen, Forscher, Staaten)", "Die Roboter", "Das Internet", "Niemand"],
+        "hu": ["Mindannyian (emberek, kutatók, államok)", "A robotok", "Az internet", "Senki"],
+        "ro": ["Noi toți (oamenii, cercetătorii, statele)", "Roboții", "Internetul", "Nimeni"],
+        "en": ["All of us (humans, researchers, states)", "The robots", "The internet", "Nobody"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Intelligenz über dem Menschen?",
+        "hu": "Ember feletti intelligencia?",
+        "ro": "Inteligență peste cea umană?",
+        "en": "Intelligence above human level?"
+      },
+      "answer": {
+        "de": "Superintelligenz",
+        "hu": "szuperintelligencia",
+        "ro": "superinteligență",
+        "en": "superintelligence"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "KI lernt selbst?",
+        "hu": "A MI önmagát fejleszti?",
+        "ro": "IA învață singură?",
+        "en": "AI learns by itself?"
+      },
+      "answer": {
+        "de": "Sinnvoll",
+        "hu": "fejlődés",
+        "ro": "învățare",
+        "en": "learning"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Ziel der Forschung?",
+        "hu": "A kutatás célja?",
+        "ro": "Scopul cercetării?",
+        "en": "Goal of research?"
+      },
+      "answer": {
+        "de": "Fortschritt",
+        "hu": "haladás",
+        "ro": "progres",
+        "en": "progress"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie ist KI heute?",
+        "hu": "Milyen ma a MI?",
+        "ro": "Cum este IA astăzi?",
+        "en": "How is AI today?"
+      },
+      "answer": {
+        "de": "Schwach",
+        "hu": "gyenge",
+        "ro": "slabă",
+        "en": "narrow"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wer ist der Chef?",
+        "hu": "Ki a főnök?",
+        "ro": "Cine este șeful?",
+        "en": "Who is the boss?"
+      },
+      "answer": {
+        "de": "Mensch",
+        "hu": "ember",
+        "ro": "om",
+        "en": "human"
+      }
+    }
+  ]
+}

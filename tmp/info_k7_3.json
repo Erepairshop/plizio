@@ -1,0 +1,950 @@
+{
+  "info_k7_email": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht 'BCC' beim Versenden einer E-Mail?",
+        "hu": "Mit jelent a 'BCC' az e-mail küldésénél?",
+        "ro": "Ce înseamnă 'BCC' la trimiterea unui e-mail?",
+        "en": "What does 'BCC' stand for when sending an email?"
+      },
+      "options": {
+        "de": ["Blind Carbon Copy (Empfänger unsichtbar)", "Best Carbon Copy", "Business Contact Center", "Backup Copy"],
+        "hu": ["Blind Carbon Copy (titkos másolat)", "Best Carbon Copy", "Business Contact Center", "Backup Copy"],
+        "ro": ["Blind Carbon Copy (copie invizibilă)", "Best Carbon Copy", "Business Contact Center", "Backup Copy"],
+        "en": ["Blind Carbon Copy (recipients invisible)", "Best Carbon Copy", "Business Contact Center", "Backup Copy"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Spam'?",
+        "hu": "Mi az a 'Spam'?",
+        "ro": "Ce este 'Spam'?",
+        "en": "What is 'Spam'?"
+      },
+      "options": {
+        "de": ["Eine wichtige Nachricht", "Unerwünschte Werbe-E-Mails", "Ein E-Mail-Programm", "Ein Anhang"],
+        "hu": ["Egy fontos üzenet", "Kéretlen reklám e-mailek", "Egy e-mail program", "Egy melléklet"],
+        "ro": ["Un mesaj important", "E-mailuri publicitare nesolicitate", "Un program de e-mail", "O anexă"],
+        "en": ["An important message", "Unwanted advertising emails", "An email program", "An attachment"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Phishing'?",
+        "hu": "Mi az a 'Phishing' (adathalászat)?",
+        "ro": "Ce este 'Phishing'?",
+        "en": "What is 'Phishing'?"
+      },
+      "options": {
+        "de": ["Ein Spiel", "Der Versuch, Passwörter über gefälschte E-Mails zu stehlen", "Ein E-Mail-Anbieter", "Das Löschen von Mails"],
+        "hu": ["Egy játék", "Jelszavak ellopására irányuló kísérlet hamis e-maileken keresztül", "Egy e-mail szolgáltató", "E-mailek törlése"],
+        "ro": ["Un joc", "Încercarea de a fura parole prin e-mailuri false", "Un furnizor de e-mail", "Ștergerea e-mailurilor"],
+        "en": ["A game", "Attempting to steal passwords via fake emails", "An email provider", "Deleting emails"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Zeichen trennt in einer E-Mail-Adresse den Namen vom Provider?",
+        "hu": "Melyik jel választja el az e-mail címen belül a nevet a szolgáltatótól?",
+        "ro": "Ce simbol desparte numele de furnizor într-o adresă de e-mail?",
+        "en": "Which character separates the name from the provider in an email address?"
+      },
+      "options": {
+        "de": ["#", "&", "@", "$"],
+        "hu": ["#", "&", "@", "$"],
+        "ro": ["#", "&", "@", "$"],
+        "en": ["#", "&", "@", "$"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Anhang' (Attachment)?",
+        "hu": "Mi az a 'melléklet' (attachment)?",
+        "ro": "Ce este o 'anexă' (attachment)?",
+        "en": "What is an 'attachment'?"
+      },
+      "options": {
+        "de": ["Der Betreff der Mail", "Eine Datei, die mit der E-Mail verschickt wird", "Die Unterschrift", "Der Empfänger"],
+        "hu": ["Az e-mail tárgya", "Az e-maillel együtt küldött fájl", "Az aláírás", "A címzett"],
+        "ro": ["Subiectul e-mailului", "Un fișier trimis împreună cu e-mailul", "Semnătura", "Destinatarul"],
+        "en": ["The subject of the email", "A file sent along with the email", "The signature", "The recipient"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Protokoll wird oft zum Senden von E-Mails verwendet?",
+        "hu": "Melyik protokollt használják gyakran e-mailek küldésére?",
+        "ro": "Ce protocol este adesea folosit pentru trimiterea e-mailurilor?",
+        "en": "Which protocol is often used for sending emails?"
+      },
+      "options": {
+        "de": ["HTTP", "SMTP", "POP3", "FTP"],
+        "hu": ["HTTP", "SMTP", "POP3", "FTP"],
+        "ro": ["HTTP", "SMTP", "POP3", "FTP"],
+        "en": ["HTTP", "SMTP", "POP3", "FTP"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man tun, wenn man eine E-Mail von einem unbekannten Absender mit einem Link bekommt?",
+        "hu": "Mit tegyél, ha ismeretlen feladótól kapsz e-mailt, amiben egy link van?",
+        "ro": "Ce ar trebui să faci dacă primești un e-mail cu un link de la un expeditor necunoscut?",
+        "en": "What should you do if you receive an email from an unknown sender with a link?"
+      },
+      "options": {
+        "de": ["Sofort anklicken", "Die E-Mail ignorieren oder löschen und nicht auf den Link klicken", "An alle Freunde weiterleiten", "Dem Absender dein Passwort schicken"],
+        "hu": ["Azonnal rákattintani", "Figyelmen kívül hagyni vagy törölni, és nem kattintani a linkre", "Továbbküldeni minden barátodnak", "Elküldeni a jelszavadat a feladónak"],
+        "ro": ["Îl accesezi imediat", "Ignori sau ștergi e-mailul și nu dai click pe link", "Îl trimiți tuturor prietenilor", "Trimite parola ta expeditorului"],
+        "en": ["Click it immediately", "Ignore or delete the email and do not click the link", "Forward it to all friends", "Send your password to the sender"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'CC'?",
+        "hu": "Mit jelent a 'CC'?",
+        "ro": "Ce înseamnă 'CC'?",
+        "en": "What does 'CC' stand for?"
+      },
+      "options": {
+        "de": ["Carbon Copy (Kopie an andere)", "Computer Center", "Contact Copy", "Correct Copy"],
+        "hu": ["Carbon Copy (másolat)", "Computer Center", "Contact Copy", "Correct Copy"],
+        "ro": ["Carbon Copy (copie la indigo)", "Computer Center", "Contact Copy", "Correct Copy"],
+        "en": ["Carbon Copy", "Computer Center", "Contact Copy", "Correct Copy"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die 'Signatur' in einer E-Mail?",
+        "hu": "Mi az az 'aláírás' (signature) az e-mailben?",
+        "ro": "Ce este 'semnătura' dintr-un e-mail?",
+        "en": "What is the 'signature' in an email?"
+      },
+      "options": {
+        "de": ["Ein Virus", "Ein automatisch angehängter Text mit Kontaktdaten am Ende", "Das Passwort", "Der Betreff"],
+        "hu": ["Egy vírus", "Automatikusan a végére illesztett szöveg az elérhetőségekkel", "A jelszó", "A tárgy"],
+        "ro": ["Un virus", "Un text atașat automat la final cu datele de contact", "Parola", "Subiectul"],
+        "en": ["A virus", "An automatically attached text with contact info at the end", "The password", "The subject"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wozu dient der 'Ordner Entwürfe'?",
+        "hu": "Mire szolgál a 'Piszkozatok' (Drafts) mappa?",
+        "ro": "La ce servește folderul 'Ciorne' (Drafts)?",
+        "en": "What is the 'Drafts' folder for?"
+      },
+      "options": {
+        "de": ["Für gelöschte Mails", "Für Mails, die geschrieben aber noch nicht gesendet wurden", "Für empfangene Mails", "Für Viren"],
+        "hu": ["Törölt leveleknek", "Megírt, de még el nem küldött leveleknek", "Fogadott leveleknek", "Vírusoknak"],
+        "ro": ["Pentru e-mailuri șterse", "Pentru e-mailuri scrise dar netrimise încă", "Pentru e-mailuri primite", "Pentru viruși"],
+        "en": ["For deleted emails", "For emails that are written but not yet sent", "For received emails", "For viruses"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den digitalen Brief?",
+        "hu": "Hogy hívják a digitális levelet?",
+        "ro": "Cum se numește scrisoarea digitală?",
+        "en": "What is the digital letter called?"
+      },
+      "answer": {
+        "de": "E-Mail",
+        "hu": "E-mail",
+        "ro": "E-mail",
+        "en": "Email"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Zeile, in der man kurz das Thema der Mail nennt?",
+        "hu": "Hogy hívják azt a sort, ahol röviden megadjuk az e-mail témáját?",
+        "ro": "Cum se numește rândul în care se menționează scurt subiectul e-mailului?",
+        "en": "What is the line called where you briefly state the topic of the email?"
+      },
+      "answer": {
+        "de": "Betreff",
+        "hu": "Tárgy",
+        "ro": "Subiect",
+        "en": "Subject"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne einen bekannten E-Mail-Anbieter von Google.",
+        "hu": "Nevezz meg egy ismert e-mail szolgáltatót a Google-től.",
+        "ro": "Numește un furnizor de e-mail cunoscut de la Google.",
+        "en": "Name a well-known email provider from Google."
+      },
+      "answer": {
+        "de": "Gmail",
+        "hu": "Gmail",
+        "ro": "Gmail",
+        "en": "Gmail"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wo landen gelöschte E-Mails meistens zuerst?",
+        "hu": "Hova kerülnek a törölt e-mailek általában először?",
+        "ro": "Unde ajung de obicei e-mailurile șterse mai întâi?",
+        "en": "Where do deleted emails usually go first?"
+      },
+      "answer": {
+        "de": "Papierkorb",
+        "hu": "Kuka",
+        "ro": "Coș de gunoi",
+        "en": "Trash"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Protokoll dient zum Abrufen von E-Mails?",
+        "hu": "Melyik protokoll szolgál az e-mailek letöltésére?",
+        "ro": "Ce protocol servește la descărcarea e-mailurilor?",
+        "en": "Which protocol is used for retrieving emails?"
+      },
+      "answer": {
+        "de": "IMAP",
+        "hu": "IMAP",
+        "ro": "IMAP",
+        "en": "IMAP"
+      }
+    }
+  ],
+  "info_k7_network": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'LAN'?",
+        "hu": "Mi az a 'LAN'?",
+        "ro": "Ce este un 'LAN'?",
+        "en": "What is a 'LAN'?"
+      },
+      "options": {
+        "de": ["Ein weltweites Netzwerk", "Ein lokales Netzwerk (z.B. in einem Haus)", "Ein spezieller Browser", "Ein E-Mail-Dienst"],
+        "hu": ["Egy világméretű hálózat", "Helyi hálózat (pl. egy házon belül)", "Egy speciális böngésző", "Egy e-mail szolgáltatás"],
+        "ro": ["O rețea mondială", "O rețea locală (ex: într-o casă)", "Un browser special", "Un serviciu de e-mail"],
+        "en": ["A worldwide network", "A local area network (e.g. in a house)", "A special browser", "An email service"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht ein 'Switch' in einem Netzwerk?",
+        "hu": "Mit csinál egy 'switch' a hálózatban?",
+        "ro": "Ce face un 'switch' într-o rețea?",
+        "en": "What does a 'switch' do in a network?"
+      },
+      "options": {
+        "de": ["Den Computer ausschalten", "Mehrere Geräte in einem LAN miteinander verbinden", "Das Internet löschen", "Bilder drucken"],
+        "hu": ["Kikapcsolja a gépet", "Több eszközt köt össze egy helyi hálózaton belül", "Törli az internetet", "Képeket nyomtat"],
+        "ro": ["Oprește calculatorul", "Conectează mai multe dispozitive într-un LAN", "Șterge internetul", "Imprimă imagini"],
+        "en": ["Turn off the computer", "Connect multiple devices within a LAN", "Delete the internet", "Print images"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Unterschied zwischen Internet und Intranet?",
+        "hu": "Mi a különbség az Internet és az Intranet között?",
+        "ro": "Care este diferența dintre Internet și Intranet?",
+        "en": "What is the difference between Internet and Intranet?"
+      },
+      "options": {
+        "de": ["Es gibt keinen Unterschied", "Das Internet ist öffentlich, das Intranet ist ein privates, geschlossenes Netzwerk", "Das Intranet ist schneller", "Das Internet braucht keine Kabel"],
+        "hu": ["Nincs különbség", "Az internet nyilvános, az intranet privát, zárt hálózat", "Az intranet gyorsabb", "Az internethez nem kellenek kábelek"],
+        "ro": ["Nu există nicio diferență", "Internetul este public, intranetul este o rețea privată, închisă", "Intranetul este mai rapid", "Internetul nu are nevoie de cabluri"],
+        "en": ["There is no difference", "The internet is public, the intranet is a private, closed network", "The intranet is faster", "The internet doesn't need cables"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'MAC-Adresse'?",
+        "hu": "Mi az a 'MAC-cím'?",
+        "ro": "Ce este o 'adresă MAC'?",
+        "en": "What is a 'MAC address'?"
+      },
+      "options": {
+        "de": ["Eine Adresse für Apple-Computer", "Die physikalische, eindeutige Adresse einer Netzwerkkarte", "Die IP-Adresse", "Ein Passwort"],
+        "hu": ["Egy cím Apple gépekhez", "Egy hálózati kártya fizikai, egyedi azonosítója", "Az IP-cím", "Egy jelszó"],
+        "ro": ["O adresă pentru calculatoarele Apple", "Adresa fizică unică a unei plăci de rețea", "Adresa IP", "O parolă"],
+        "en": ["An address for Apple computers", "The physical, unique address of a network card", "The IP address", "A password"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht 'WLAN'?",
+        "hu": "Mit jelent a 'WLAN'?",
+        "ro": "Ce înseamnă 'WLAN'?",
+        "en": "What does 'WLAN' stand for?"
+      },
+      "options": {
+        "de": ["Wireless Local Area Network", "Wide Local Area Network", "Web Local Area Network", "World Local Area Network"],
+        "hu": ["Wireless Local Area Network", "Wide Local Area Network", "Web Local Area Network", "World Local Area Network"],
+        "ro": ["Wireless Local Area Network", "Wide Local Area Network", "Web Local Area Network", "World Local Area Network"],
+        "en": ["Wireless Local Area Network", "Wide Local Area Network", "Web Local Area Network", "World Local Area Network"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Server'?",
+        "hu": "Mi az a 'szerver'?",
+        "ro": "Ce este un 'server'?",
+        "en": "What is a 'server'?"
+      },
+      "options": {
+        "de": ["Ein Programm zum Spielen", "Ein Computer, der Dienste oder Daten für andere Computer bereitstellt", "Eine Maus", "Ein Bildschirm"],
+        "hu": ["Egy játékprogram", "Egy számítógép, amely szolgáltatásokat vagy adatokat nyújt más gépeknek", "Egy egér", "Egy képernyő"],
+        "ro": ["Un program de joc", "Un calculator care oferă servicii sau date altor calculatoare", "Un mouse", "Un ecran"],
+        "en": ["A program for playing", "A computer that provides services or data to other computers", "A mouse", "A screen"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Hardware wird benötigt, um den PC mit einem Netzwerkkabel zu verbinden?",
+        "hu": "Milyen hardver szükséges a PC hálózati kábellel való összekötéséhez?",
+        "ro": "Ce hardware este necesar pentru a conecta PC-ul cu un cablu de rețea?",
+        "en": "What hardware is needed to connect a PC to a network cable?"
+      },
+      "options": {
+        "de": ["Netzwerkkarte (NIC)", "Grafikkarte", "Soundkarte", "Netzteil"],
+        "hu": ["Hálózati kártya (NIC)", "Videókártya", "Hangkártya", "Tápegység"],
+        "ro": ["Placă de rețea (NIC)", "Placă video", "Placă de sunet", "Sursă de alimentare"],
+        "en": ["Network interface card (NIC)", "Graphics card", "Sound card", "Power supply"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Maßeinheit für die Übertragungsgeschwindigkeit im Netzwerk?",
+        "hu": "Mi az átviteli sebesség mértékegysége a hálózatban?",
+        "ro": "Care este unitatea de măsură pentru viteza de transfer în rețea?",
+        "en": "What is the unit of measurement for transfer speed in a network?"
+      },
+      "options": {
+        "de": ["Hertz", "Bit pro Sekunde (bit/s)", "Kilogramm", "Volt"],
+        "hu": ["Hertz", "Bit per másodperc (bit/s)", "Kilogramm", "Volt"],
+        "ro": ["Hertz", "Biți pe secundă (bit/s)", "Kilograme", "Volți"],
+        "en": ["Hertz", "Bits per second (bit/s)", "Kilograms", "Volts"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Peer-to-Peer' Netzwerk?",
+        "hu": "Mi az a 'Peer-to-Peer' hálózat?",
+        "ro": "Ce este o rețea 'Peer-to-Peer'?",
+        "en": "What is a 'Peer-to-Peer' network?"
+      },
+      "options": {
+        "de": ["Ein Netzwerk mit einem starken Server", "Ein Netzwerk, in dem alle Computer gleichberechtigt sind", "Ein Netzwerk ohne Computer", "Ein langsames Netzwerk"],
+        "hu": ["Egy hálózat erős szerverrel", "Hálózat, ahol minden gép egyenrangú", "Hálózat gépek nélkül", "Lassú hálózat"],
+        "ro": ["O rețea cu un server puternic", "O rețea în care toate calculatoarele sunt egale", "O rețea fără calculatoare", "O rețea lentă"],
+        "en": ["A network with a strong server", "A network in which all computers are equal", "A network without computers", "A slow network"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wozu dient ein Netzwerkkabel (z.B. Cat 6)?",
+        "hu": "Mire szolgál a hálózati kábel (pl. Cat 6)?",
+        "ro": "La ce servește un cablu de rețea (ex: Cat 6)?",
+        "en": "What is a network cable (e.g. Cat 6) used for?"
+      },
+      "options": {
+        "de": ["Zum Strom liefern", "Zur physischen Datenübertragung zwischen Geräten", "Nur zum Laden von Handys", "Zum Kühlen des PCs"],
+        "hu": ["Áramellátáshoz", "Fizikai adatátvitelre az eszközök között", "Csak mobil töltésre", "A PC hűtésére"],
+        "ro": ["Pentru alimentare electrică", "Pentru transferul fizic de date între dispozitive", "Doar pentru încărcarea telefoanelor", "Pentru răcirea PC-ului"],
+        "en": ["To provide electricity", "For physical data transfer between devices", "Only for charging phones", "To cool the PC"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Verbindung von Computern?",
+        "hu": "Hogy hívják a számítógépek összekapcsolódását?",
+        "ro": "Cum se numește interconectarea calculatoarelor?",
+        "en": "What is the interconnection of computers called?"
+      },
+      "answer": {
+        "de": "Netzwerk",
+        "hu": "Hálózat",
+        "ro": "Rețea",
+        "en": "Network"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Gerät, das WLAN-Signale aussendet?",
+        "hu": "Hogy hívják az eszközt, amely a WLAN jeleket sugározza?",
+        "ro": "Cum se numește dispozitivul care emite semnale WLAN?",
+        "en": "What is the device called that emits WLAN signals?"
+      },
+      "answer": {
+        "de": "Router",
+        "hu": "Router",
+        "ro": "Router",
+        "en": "Router"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne den englischen Begriff für ein weltweites Netzwerk.",
+        "hu": "Add meg a világméretű hálózat angol kifejezését.",
+        "ro": "Numește termenul în engleză pentru o rețea mondială.",
+        "en": "Give the English term for a worldwide network."
+      },
+      "answer": {
+        "de": "WAN",
+        "hu": "WAN",
+        "ro": "WAN",
+        "en": "WAN"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welcher Steckertyp wird oft für Netzwerkkabel genutzt (Abkürzung)?",
+        "hu": "Melyik csatlakozótípust használják gyakran hálózati kábelekhez (rövidítés)?",
+        "ro": "Ce tip de mufă se folosește adesea pentru cablurile de rețea (abreviere)?",
+        "en": "Which connector type is often used for network cables (abbreviation)?"
+      },
+      "answer": {
+        "de": "RJ45",
+        "hu": "RJ45",
+        "ro": "RJ45",
+        "en": "RJ45"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Struktur eines Netzwerks?",
+        "hu": "Hogy hívják a hálózat felépítésének módját?",
+        "ro": "Cum se numește structura unei rețele?",
+        "en": "What is the structure of a network called?"
+      },
+      "answer": {
+        "de": "Topologie",
+        "hu": "Topológia",
+        "ro": "Topologie",
+        "en": "Topology"
+      }
+    }
+  ],
+  "info_k7_bullying": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Cybermobbing?",
+        "hu": "Mi az a Cybermobbing (internetes zaklatás)?",
+        "ro": "Ce este Cybermobbing (hartuirea cibernetică)?",
+        "en": "What is Cyberbullying?"
+      },
+      "options": {
+        "de": ["Ein Spiel im Internet", "Absichtliches Beleidigen oder Belästigen über digitale Medien", "E-Mails schreiben", "Einen Film schauen"],
+        "hu": ["Egy internetes játék", "Szándékos sértegetés vagy zaklatás digitális eszközökön keresztül", "E-mail írás", "Filmnézés"],
+        "ro": ["Un joc pe internet", "Jignirea sau hărțuirea intenționată prin intermediul mediilor digitale", "Scrierea de e-mailuri", "Vizionarea unui film"],
+        "en": ["An internet game", "Intentional insulting or harassing via digital media", "Writing emails", "Watching a movie"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Merkmal von Cybermobbing im Vergleich zu normalem Mobbing?",
+        "hu": "Mi a Cybermobbing egyik jellemzője a normál zaklatáshoz képest?",
+        "ro": "Care este o caracteristică a Cybermobbing-ului față de hărțuirea obișnuită?",
+        "en": "What is a feature of Cyberbullying compared to normal bullying?"
+      },
+      "options": {
+        "de": ["Es findet nur in der Schule statt", "Es kann rund um die Uhr (24/7) stattfinden und verbreitet sich sehr schnell", "Es ist nicht so schlimm", "Es gibt keine Beweise"],
+        "hu": ["Csak az iskolában történik", "A nap 24 órájában történhet és nagyon gyorsan terjed", "Nem annyira súlyos", "Nincsenek bizonyítékok"],
+        "ro": ["Are loc doar la școală", "Poate avea loc non-stop (24/7) și se răspândește foarte rapid", "Nu este atât de grav", "Nu există dovezi"],
+        "en": ["It only happens at school", "It can happen 24/7 and spreads very quickly", "It is not as bad", "There is no evidence"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man tun, wenn man Opfer von Cybermobbing wird?",
+        "hu": "Mit kell tenned, ha Cybermobbing áldozatává válsz?",
+        "ro": "Ce ar trebui să faci dacă ești victima Cybermobbing-ului?",
+        "en": "What should you do if you become a victim of Cyberbullying?"
+      },
+      "options": {
+        "de": ["Sich mit den gleichen Mitteln rächen", "Beweise sichern (Screenshots) und sich Erwachsenen anvertrauen", "Niemandem etwas sagen", "Das Internet für immer ausschalten"],
+        "hu": ["Ugyanolyan módszerekkel visszavágni", "Bizonyítékokat menteni (képernyőfotók) és felnőtthöz fordulni", "Nem szólni senkinek", "Örökre kikapcsolni az internetet"],
+        "ro": ["Să te răzbuni folosind aceleași metode", "Să păstrezi dovezi (screenshots) și să ceri ajutorul unui adult", "Să nu spui nimănui nimic", "Să oprești internetul pentru totdeauna"],
+        "en": ["Revenge using the same means", "Save evidence (screenshots) and confide in an adult", "Tell no one", "Turn off the internet forever"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Flaming'?",
+        "hu": "Mi az a 'Flaming'?",
+        "ro": "Ce este 'Flaming'?",
+        "en": "What is 'Flaming'?"
+      },
+      "options": {
+        "de": ["Nettes Kommentieren", "Hitzige, beleidigende Online-Diskussionen", "Bilder hochladen", "Musik hören"],
+        "hu": ["Kedves kommentelés", "Heves, sértegető online viták", "Képek feltöltése", "Zenehallgatás"],
+        "ro": ["Comentarii drăguțe", "Discuții online aprinse și jignitoare", "Încărcarea imaginilor", "Ascultarea muzicii"],
+        "en": ["Nice commenting", "Heated, insulting online discussions", "Uploading images", "Listening to music"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist Anonymität im Internet ein Problem beim Mobbing?",
+        "hu": "Miért probléma az internetes anonimitás a zaklatásnál?",
+        "ro": "De ce este anonimatul pe internet o problemă în cazul hărțuirii?",
+        "en": "Why is anonymity on the internet a problem in bullying?"
+      },
+      "options": {
+        "de": ["Es gibt kein Problem", "Täter fühlen sich sicher und trauen sich mehr, weil sie unerkannt bleiben", "Es macht mehr Spaß", "Man findet keine Freunde"],
+        "hu": ["Nincs probléma", "Az elkövetők biztonságban érzik magukat és többet mernek, mert rejtve maradnak", "Így szórakoztatóbb", "Nem találunk barátokat"],
+        "ro": ["Nu există nicio problemă", "Autorii se simt în siguranță și își permit mai multe deoarece rămân neidentificați", "Este mai distractiv", "Nu îți găsești prieteni"],
+        "en": ["There is no problem", "Perpetrators feel safe and dare to do more because they remain undetected", "It is more fun", "One cannot find friends"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man als Beobachter (Bystander) tun?",
+        "hu": "Mit kell tenned megfigyelőként (bystander)?",
+        "ro": "Ce ar trebui să faci ca observator (bystander)?",
+        "en": "What should you do as an observer (bystander)?"
+      },
+      "options": {
+        "de": ["Mitmachen", "Anfeuern", "Den Vorfall melden und dem Opfer helfen", "Ignorieren"],
+        "hu": ["Részt venni benne", "Buzdítani őket", "Jelenteni az esetet és segíteni az áldozatnak", "Figyelmen kívül hagyni"],
+        "ro": ["Să participi", "Să-i încurajezi", "Să raportezi incidentul și să ajuți victima", "Să ignori"],
+        "en": ["Join in", "Cheer them on", "Report the incident and help the victim", "Ignore"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Hate Speech'?",
+        "hu": "Mi az a gyűlöletbeszéd (Hate Speech)?",
+        "ro": "Ce este 'Hate Speech'?",
+        "en": "What is 'Hate Speech'?"
+      },
+      "options": {
+        "de": ["Eine Fremdsprache", "Abwertende, hasserfüllte Aussagen gegen Gruppen oder Personen", "Eine laute Stimme", "Eine neue Musikrichtung"],
+        "hu": ["Egy idegen nyelv", "Lekicsinylő, gyűlöletteli kijelentések csoportok vagy személyek ellen", "Hangos beszéd", "Egy új zenei stílus"],
+        "ro": ["O limbă străină", "Afirmații devalorizante și pline de ură împotriva unor grupuri sau persoane", "O voce tare", "Un nou gen muzical"],
+        "en": ["A foreign language", "Degrading, hateful statements against groups or persons", "A loud voice", "A new music genre"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was kann man gegen Cybermobbing in sozialen Netzwerken tun?",
+        "hu": "Mit lehet tenni a Cybermobbing ellen a közösségi oldalakon?",
+        "ro": "Ce se poate face împotriva Cybermobbing-ului pe rețelele sociale?",
+        "en": "What can be done against Cyberbullying on social networks?"
+      },
+      "options": {
+        "de": ["Nichts", "Nutzer blockieren und den Beitrag melden", "Sein Passwort an alle schicken", "Das Profil löschen"],
+        "hu": ["Semmit", "Letiltani a felhasználót és jelenteni a bejegyzést", "Mindenkinek elküldeni a jelszót", "Törölni a profilt"],
+        "ro": ["Nimic", "Blocarea utilizatorului și raportarea postării", "Trimiterea parolei tuturor", "Ștergerea profilului"],
+        "en": ["Nothing", "Block users and report the post", "Send your password to everyone", "Delete the profile"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Cybermobbing strafbar?",
+        "hu": "Büntethető a Cybermobbing?",
+        "ro": "Este Cybermobbing-ul pedepsit prin lege?",
+        "en": "Is Cyberbullying punishable by law?"
+      },
+      "options": {
+        "de": ["Nein, im Internet darf man alles", "Ja, je nach Schwere können Gesetze verletzt werden (z.B. Beleidigung)", "Nur für Erwachsene", "Nur wenn man Geld stiehlt"],
+        "hu": ["Nem, az interneten mindent szabad", "Igen, a súlyosságától függően törvényeket sérthet (pl. rágalmazás)", "Csak felnőtteknek", "Csak ha pénzt lopnak"],
+        "ro": ["Nu, pe internet e voie orice", "Da, în funcție de gravitate pot fi încălcate legi (ex: insultă)", "Doar pentru adulți", "Doar dacă se fură bani"],
+        "en": ["No, everything is allowed on the internet", "Yes, depending on severity, laws can be violated (e.g. insult)", "Only for adults", "Only if money is stolen"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Exclusion' im Sinne von Mobbing?",
+        "hu": "Mit jelent az 'Exclusion' (kirekesztés) a zaklatásnál?",
+        "ro": "Ce înseamnă 'Exclusion' în contextul hărțuirii?",
+        "en": "What is 'Exclusion' in the sense of bullying?"
+      },
+      "options": {
+        "de": ["Einladung zu einer Party", "Absichtliches Ausschließen einer Person aus einer Online-Gruppe", "Das Verschicken von Geschenken", "Ein technischer Fehler"],
+        "hu": ["Meghívás egy buliba", "Egy személy szándékos kihagyása egy online csoportból", "Ajándékok küldése", "Technikai hiba"],
+        "ro": ["Invitație la o petrecere", "Excluderea intenționată a unei persoane dintr-un grup online", "Trimiterea de cadouri", "O eroare tehnică"],
+        "en": ["Invitation to a party", "Intentional exclusion of a person from an online group", "Sending gifts", "A technical error"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das absichtliche Belästigen im Internet?",
+        "hu": "Hogy hívják a szándékos internetes zaklatást?",
+        "ro": "Cum se numește hărțuirea intenționată pe internet?",
+        "en": "What is intentional harassment on the internet called?"
+      },
+      "answer": {
+        "de": "Cybermobbing",
+        "hu": "Cybermobbing",
+        "ro": "Cybermobbing",
+        "en": "Cyberbullying"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was sollte man von beleidigenden Inhalten als Beweis machen?",
+        "hu": "Mit kell készíteni a sértő tartalmakról bizonyítékként?",
+        "ro": "Ce ar trebui făcut conținutului jignitor ca dovadă?",
+        "en": "What should you make of offensive content as evidence?"
+      },
+      "answer": {
+        "de": "Screenshot",
+        "hu": "Képernyőfotó",
+        "ro": "Screenshot",
+        "en": "Screenshot"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Mitgefühl für andere (wichtig gegen Mobbing)?",
+        "hu": "Hogy hívják a mások iránti együttérzést (fontos a zaklatás ellen)?",
+        "ro": "Cum se numește compasiunea față de ceilalți (importantă contra hărțuirii)?",
+        "en": "What is empathy for others called (important against bullying)?"
+      },
+      "answer": {
+        "de": "Empathie",
+        "hu": "Empátia",
+        "ro": "Empatie",
+        "en": "Empathy"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was sollte man tun, wenn man beobachtet, dass jemand gemobbt wird?",
+        "hu": "Mit kell tenned, ha látod, hogy valakit zaklatnak?",
+        "ro": "Ce ar trebui să faci dacă observi că cineva este hărțuit?",
+        "en": "What should you do if you observe someone being bullied?"
+      },
+      "answer": {
+        "de": "Helfen",
+        "hu": "Segíteni",
+        "ro": "Ajutor",
+        "en": "Help"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Melden von Inhalten bei Plattformbetreibern?",
+        "hu": "Hogy hívják a tartalmak bejelentését a platform üzemeltetőinek?",
+        "ro": "Cum se numește raportarea conținutului către administratorii platformei?",
+        "en": "What is reporting content to platform operators called?"
+      },
+      "answer": {
+        "de": "Melden",
+        "hu": "Jelentés",
+        "ro": "Raportare",
+        "en": "Reporting"
+      }
+    }
+  ],
+  "info_k7_security": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Merkmal eines sicheren Passworts?",
+        "hu": "Mi jellemzi a biztonságos jelszót?",
+        "ro": "Care este o caracteristică a unei parole sigure?",
+        "en": "What is a feature of a secure password?"
+      },
+      "options": {
+        "de": ["Nur Kleinbuchstaben", "Das Geburtsdatum", "Eine Kombination aus Groß-/Kleinbuchstaben, Zahlen und Sonderzeichen", "Der Name des Haustiers"],
+        "hu": ["Csak kisbetűk", "A születési dátum", "Kis- és nagybetűk, számok és különleges karakterek keveréke", "A háziállat neve"],
+        "ro": ["Doar litere mici", "Data nașterii", "O combinație de litere mari/mici, cifre și caractere speciale", "Numele animalului de companie"],
+        "en": ["Only lowercase letters", "Date of birth", "A mix of upper/lowercase letters, numbers, and special characters", "Pet's name"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet '2FA'?",
+        "hu": "Mit jelent a '2FA'?",
+        "ro": "Ce înseamnă '2FA'?",
+        "en": "What does '2FA' stand for?"
+      },
+      "options": {
+        "de": ["2-Faktor-Authentisierung (Sicherheit durch zwei Schritte)", "2-File-Access", "2-Faster-Access", "2-Factor-Application"],
+        "hu": ["Kétfaktoros hitelesítés (biztonság két lépésben)", "2-File-Access", "2-Faster-Access", "2-Factor-Application"],
+        "ro": ["Autentificarea cu 2 factori (securitate în doi pași)", "2-File-Access", "2-Faster-Access", "2-Factor-Application"],
+        "en": ["Two-Factor Authentication (security through two steps)", "2-File-Access", "2-Faster-Access", "2-Factor-Application"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht eine Firewall?",
+        "hu": "Mit csinál egy tűzfal (firewall)?",
+        "ro": "Ce face un firewall?",
+        "en": "What does a firewall do?"
+      },
+      "options": {
+        "de": ["Den PC kühlen", "Unerlaubte Zugriffe aus dem Netzwerk blockieren", "Bilder bearbeiten", "Den Computer schneller machen"],
+        "hu": ["Hűti a gépet", "Blokkolja az illetéktelen hálózati hozzáféréseket", "Képeket szerkeszt", "Gyorsítja a gépet"],
+        "ro": ["Răcește PC-ul", "Blochează accesul neautorizat din rețea", "Editează imagini", "Face calculatorul mai rapid"],
+        "en": ["Cool the PC", "Block unauthorized access from the network", "Edit images", "Make the computer faster"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Malware'?",
+        "hu": "Mi az a 'Malware' (ártalmas szoftver)?",
+        "ro": "Ce este 'Malware'?",
+        "en": "What is 'Malware'?"
+      },
+      "options": {
+        "de": ["Ein neues Spiel", "Sammelbegriff für Schadsoftware (Viren, Trojaner etc.)", "Ein Zeichenprogramm", "Ein E-Mail-Anbieter"],
+        "hu": ["Egy új játék", "Kártékony szoftverek (vírusok, trójaiak stb.) összefoglaló neve", "Egy rajzolóprogram", "Egy e-mail szolgáltató"],
+        "ro": ["Un joc nou", "Termen generic pentru software dăunător (viruși, troieni etc.)", "Un program de desenat", "Un furnizor de e-mail"],
+        "en": ["A new game", "Collective term for malicious software (viruses, trojans, etc.)", "A drawing program", "An email provider"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man Software-Updates regelmäßig installieren?",
+        "hu": "Miért kell rendszeresen telepíteni a szoftverfrissítéseket?",
+        "ro": "De ce ar trebui instalate regulat actualizările software?",
+        "en": "Why should you regularly install software updates?"
+      },
+      "options": {
+        "de": ["Damit der PC bunter wird", "Um Sicherheitslücken zu schließen und Fehler zu beheben", "Nur um Speicherplatz zu verbrauchen", "Das ist nicht nötig"],
+        "hu": ["Hogy színesebb legyen a gép", "A biztonsági rések lezárása és hibák javítása miatt", "Hogy fogyjon a tárhely", "Nem szükséges"],
+        "ro": ["Pentru ca PC-ul să fie mai colorat", "Pentru a închide breșele de securitate și a repara erorile", "Doar pentru a consuma spațiu", "Nu este necesar"],
+        "en": ["To make the PC more colorful", "To close security gaps and fix bugs", "Only to consume storage space", "It is not necessary"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Trojaner'?",
+        "hu": "Mi az a 'trójai' (trojan)?",
+        "ro": "Ce este un 'troian'?",
+        "en": "What is a 'trojan'?"
+      },
+      "options": {
+        "de": ["Ein schneller Computer", "Ein Schadprogramm, das sich als nützliche Software tarnt", "Ein Hardware-Teil", "Ein spezielles Betriebssystem"],
+        "hu": ["Egy gyors számítógép", "Hasznos szoftvernek álcázott kártékony program", "Egy hardver elem", "Egy speciális operációs rendszer"],
+        "ro": ["Un calculator rapid", "Un program dăunător care se deghizează în software util", "O componentă hardware", "Un sistem de operare special"],
+        "en": ["A fast computer", "A malicious program that disguises itself as useful software", "A hardware part", "A special operating system"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie schützt man sich vor Viren?",
+        "hu": "Hogyan védekezhetünk a vírusok ellen?",
+        "ro": "Cum ne protejăm de viruși?",
+        "en": "How do you protect yourself from viruses?"
+      },
+      "options": {
+        "de": ["Durch ein Antivirenprogramm", "Indem man den Monitor abdeckt", "Durch Tippen mit Handschuhen", "Gar nicht"],
+        "hu": ["Antivírus programmal", "A monitor letakarásával", "Kesztyűben gépeléssel", "Sehogy"],
+        "ro": ["Prin un program antivirus", "Acoperind monitorul", "Dactilografiind cu mănuși", "Deloc"],
+        "en": ["By using an antivirus program", "By covering the monitor", "By typing with gloves", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Verschlüsselung' (Encryption)?",
+        "hu": "Mit jelent a 'titkosítás' (encryption)?",
+        "ro": "Ce înseamnă 'criptare' (encryption)?",
+        "en": "What does 'encryption' mean?"
+      },
+      "options": {
+        "de": ["Das Löschen von Daten", "Das Umwandeln von Daten in einen unlesbaren Code zum Schutz", "Das Kopieren von Daten", "Das Ausdrucken von Daten"],
+        "hu": ["Az adatok törlése", "Az adatok olvashatatlan kóddá alakítása védelem céljából", "Az adatok másolása", "Az adatok kinyomtatása"],
+        "ro": ["Ștergerea datelor", "Transformarea datelor într-un cod ilizibil pentru protecție", "Copierea datelor", "Imprimarea datelor"],
+        "en": ["Deleting data", "Converting data into an unreadable code for protection", "Copying data", "Printing data"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht 'VPN'?",
+        "hu": "Mit jelent a 'VPN'?",
+        "ro": "Ce înseamnă 'VPN'?",
+        "en": "What does 'VPN' stand for?"
+      },
+      "options": {
+        "de": ["Virtual Private Network (sichere Verbindung)", "Very Personal Network", "Video Player Network", "Variable Power Network"],
+        "hu": ["Virtual Private Network (biztonságos kapcsolat)", "Very Personal Network", "Video Player Network", "Variable Power Network"],
+        "ro": ["Virtual Private Network (rețea privată virtuală)", "Very Personal Network", "Video Player Network", "Variable Power Network"],
+        "en": ["Virtual Private Network", "Very Personal Network", "Video Player Network", "Variable Power Network"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man an öffentlichen WLANs vorsichtig sein?",
+        "hu": "Miért kell óvatosnak lenni a nyilvános WLAN hálózatokon?",
+        "ro": "De ce trebuie să fim precauți în rețelele WLAN publice?",
+        "en": "Why should you be careful with public WLANs?"
+      },
+      "options": {
+        "de": ["Weil sie zu schnell sind", "Weil Daten leichter von anderen abgefangen werden können", "Weil sie Geld kosten", "Weil der Akku schneller leer wird"],
+        "hu": ["Mert túl gyorsak", "Mert az adatokat könnyebben ellophatják mások", "Mert pénzbe kerülnek", "Mert gyorsabban merül az akkumulátor"],
+        "ro": ["Deoarece sunt prea rapide", "Deoarece datele pot fi interceptate mai ușor de alții", "Deoarece costă bani", "Deoarece bateria se descarcă mai repede"],
+        "en": ["Because they are too fast", "Because data can be more easily intercepted by others", "Because they cost money", "Because the battery drains faster"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das geheime Wort zum Anmelden?",
+        "hu": "Hogy hívják a belépéshez szükséges titkos szót?",
+        "ro": "Cum se numește cuvântul secret pentru autentificare?",
+        "en": "What is the secret word for logging in called?"
+      },
+      "answer": {
+        "de": "Passwort",
+        "hu": "Jelszó",
+        "ro": "Parolă",
+        "en": "Password"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man einen bösartigen Hacker?",
+        "hu": "Hogy hívják a kártékony hackert?",
+        "ro": "Cum se numește un hacker rău intenționat?",
+        "en": "What is a malicious hacker called?"
+      },
+      "answer": {
+        "de": "Cracker",
+        "hu": "Cracker",
+        "ro": "Cracker",
+        "en": "Cracker"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne den Fachbegriff für ein Schadprogramm, das sich selbst verbreitet.",
+        "hu": "Add meg az önmagát terjesztő kártékony program szakkifejezését.",
+        "ro": "Numește termenul tehnic pentru un program dăunător care se auto-reproduce.",
+        "en": "Give the technical term for a malicious program that spreads itself."
+      },
+      "answer": {
+        "de": "Wurm",
+        "hu": "Féreg",
+        "ro": "Vierme",
+        "en": "Worm"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist die Abkürzung für Krypto-Software zum Schutz?",
+        "hu": "Mi a védelmet szolgáló kriptográfiai szoftver rövidítése?",
+        "ro": "Care este abrevierea pentru software-ul de criptare pentru protecție?",
+        "en": "What is the abbreviation for crypto software for protection?"
+      },
+      "answer": {
+        "de": "PGP",
+        "hu": "PGP",
+        "ro": "PGP",
+        "en": "PGP"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das 'Schloss' oben in der Browserzeile?",
+        "hu": "Hogy hívják a böngésző címsorában látható 'lakatot'?",
+        "ro": "Cum se numește 'lăcătul' din bara de adrese a browserului?",
+        "en": "What is the 'lock' in the browser address bar called?"
+      },
+      "answer": {
+        "de": "Sicherheitsschloss",
+        "hu": "Biztonsági lakat",
+        "ro": "Lacăt de securitate",
+        "en": "Security lock"
+      }
+    }
+  ]
+}

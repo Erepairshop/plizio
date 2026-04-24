@@ -30,7 +30,7 @@ export default function NorthAmericaMapPage() {
         <h1 className="text-lg font-black text-white leading-tight">{TITLE[l]}</h1>
       </header>
       <main className="flex-1 min-h-0 relative">
-        <InteractiveMap lang={"us" as any} subject="geographie" grade={5} />
+        <InteractiveMap lang={"na" as any} subject="geographie" grade={5} />
       </main>
     </div>
   );

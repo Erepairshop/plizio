@@ -1,0 +1,1424 @@
+{
+  "ai_k6_t3_1": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Hauptziel beim bestärkenden Lernen (Reinforcement Learning)?",
+        "hu": "Mi a fő cél a megerősítéses tanulásban (Reinforcement Learning)?",
+        "ro": "Care este scopul principal în învățarea prin consolidare (Reinforcement Learning)?",
+        "en": "What is the main goal in reinforcement learning?"
+      },
+      "options": {
+        "de": ["Belohnungen maximieren", "Daten löschen", "Den Computer ausschalten", "Bilder malen"],
+        "hu": ["A jutalom maximalizálása", "Adatok törlése", "A számítógép kikapcsolása", "Képek festése"],
+        "ro": ["Maximizarea recompenselor", "Ștergerea datelor", "Oprirea computerului", "Pictarea imaginilor"],
+        "en": ["Maximize rewards", "Delete data", "Turn off the computer", "Paint pictures"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie lernt die KI beim Reinforcement Learning?",
+        "hu": "Hogyan tanul az AI a megerősítéses tanulás során?",
+        "ro": "Cum învață IA în învățarea prin consolidare?",
+        "en": "How does AI learn in reinforcement learning?"
+      },
+      "options": {
+        "de": ["Durch Versuch und Irrtum", "Durch Lesen eines Buches", "Indem sie schläft", "Gar nicht"],
+        "hu": ["Próba és hiba útján", "Egy könyv elolvasásával", "Alvás közben", "Egyáltalán nem"],
+        "ro": ["Prin încercare și eroare", "Citind o carte", "Dormind", "Deloc"],
+        "en": ["Through trial and error", "By reading a book", "By sleeping", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was erhält die KI für eine gute Aktion?",
+        "hu": "Mit kap az AI egy jó akcióért?",
+        "ro": "Ce primește IA pentru o acțiune bună?",
+        "en": "What does the AI receive for a good action?"
+      },
+      "options": {
+        "de": ["Eine Belohnung", "Eine Strafe", "Mehr Arbeit", "Nichts"],
+        "hu": ["Jutalmat", "Büntetést", "Több munkát", "Semmit"],
+        "ro": ["O recompensă", "O pedeapsă", "Mai multă muncă", "Nimic"],
+        "en": ["A reward", "A penalty", "More work", "Nothing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert bei einer schlechten Aktion?",
+        "hu": "Mi történik egy rossz akció esetén?",
+        "ro": "Ce se întâmplă în cazul unei acțiuni proaste?",
+        "en": "What happens in case of a bad action?"
+      },
+      "options": {
+        "de": ["Eine Strafe oder Punktabzug", "Die KI gewinnt", "Der Computer explodiert", "Es gibt Schokolade"],
+        "hu": ["Büntetés vagy pontlevonás", "Az AI nyer", "A számítógép felrobban", "Csokit kap"],
+        "ro": ["O pedeapsă sau scădere de puncte", "IA câștigă", "Computerul explodează", "Primește ciocolată"],
+        "en": ["A penalty or point deduction", "The AI wins", "The computer explodes", "It gets chocolate"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer führt die Aktionen im Reinforcement Learning aus?",
+        "hu": "Ki hajtja végre az akciókat a megerősítéses tanulásban?",
+        "ro": "Cine execută acțiunile în învățarea prin consolidare?",
+        "en": "Who performs the actions in reinforcement learning?"
+      },
+      "options": {
+        "de": ["Der Agent", "Die Umgebung", "Die Tastatur", "Der Monitor"],
+        "hu": ["Az ágens", "A környezet", "A billentyűzet", "A monitor"],
+        "ro": ["Agentul", "Mediul", "Tastatura", "Monitorul"],
+        "en": ["The agent", "The environment", "The keyboard", "The monitor"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Umgebung (Environment)?",
+        "hu": "Mi a környezet (Environment)?",
+        "ro": "Ce este mediul (Environment)?",
+        "en": "What is the environment?"
+      },
+      "options": {
+        "de": ["Die Welt, in der der Agent handelt", "Die Kleidung des Agenten", "Das Wetter draußen", "Ein Musikinstrument"],
+        "hu": ["A világ, amelyben az ágens cselekszik", "Az ágens ruházata", "A kinti időjárás", "Egy hangszer"],
+        "ro": ["Lumea în care acționează agentul", "Hainele agentului", "Vremea de afară", "Un instrument muzical"],
+        "en": ["The world in which the agent acts", "The agent's clothing", "The weather outside", "A musical instrument"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann Reinforcement Learning zum Spielen von Videospielen genutzt werden?",
+        "hu": "Használható a megerősítéses tanulás videojátékok játszására?",
+        "ro": "Poate fi folosită învățarea prin consolidare pentru a juca jocuri video?",
+        "en": "Can reinforcement learning be used to play video games?"
+      },
+      "options": {
+        "de": ["Ja, sehr effektiv", "Nein, niemals", "Nur für Brettspiele", "Nur wenn das Internet aus ist"],
+        "hu": ["Igen, nagyon hatékonyan", "Nem, soha", "Csak társasjátékokhoz", "Csak ha nincs internet"],
+        "ro": ["Da, foarte eficient", "Nu, niciodată", "Doar pentru jocuri de societate", "Doar dacă nu e internet"],
+        "en": ["Yes, very effectively", "No, never", "Only for board games", "Only if the internet is off"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was versucht der Agent zu lernen?",
+        "hu": "Mit próbál megtanulni az ágens?",
+        "ro": "Ce încearcă să învețe agentul?",
+        "en": "What is the agent trying to learn?"
+      },
+      "options": {
+        "de": ["Die beste Strategie (Policy)", "Wie man schläft", "Neue Kochrezepte", "Lieder zu singen"],
+        "hu": ["A legjobb stratégiát (Policy)", "Hogyan kell aludni", "Új főzési recepteket", "Dalokat énekelni"],
+        "ro": ["Cea mai bună strategie (Policy)", "Cum să doarmă", "Rețete noi de gătit", "Să cânte cântece"],
+        "en": ["The best strategy (Policy)", "How to sleep", "New cooking recipes", "To sing songs"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Beispiel passt zum Reinforcement Learning?",
+        "hu": "Melyik példa illik a megerősítéses tanuláshoz?",
+        "ro": "Care exemplu se potrivește învățării prin consolidare?",
+        "en": "Which example fits reinforcement learning?"
+      },
+      "options": {
+        "de": ["Ein Roboter lernt laufen", "Ein Foto sortieren", "Eine E-Mail schreiben", "Ein Video ansehen"],
+        "hu": ["Egy robot megtanul járni", "Egy fotó szortírozása", "Egy e-mail megírása", "Egy videó megnézése"],
+        "ro": ["Un robot învață să meargă", "Sortarea unei fotografii", "Scrierea unui e-mail", "Vizionarea unui videoclip"],
+        "en": ["A robot learning to walk", "Sorting a photo", "Writing an email", "Watching a video"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist wichtig beim Reinforcement Learning?",
+        "hu": "Mi fontos a megerősítéses tanulásnál?",
+        "ro": "Ce este important în învățarea prin consolidare?",
+        "en": "What is important in reinforcement learning?"
+      },
+      "options": {
+        "de": ["Feedback von der Umgebung", "Eine schnelle Internetleitung", "Ein bunter Monitor", "Dass der Agent müde wird"],
+        "hu": ["Visszajelzés a környezettől", "Gyors internetkapcsolat", "Színes monitor", "Hogy az ágens elfáradjon"],
+        "ro": ["Feedback de la mediu", "O conexiune rapidă la internet", "Un monitor colorat", "Ca agentul să obosească"],
+        "en": ["Feedback from the environment", "A fast internet connection", "A colorful monitor", "That the agent gets tired"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Wesen, das Aktionen ausführt?",
+        "hu": "Hogy hívják a cselekvést végző egységet?",
+        "ro": "Cum se numește entitatea care execută acțiuni?",
+        "en": "What is the entity that performs actions called?"
+      },
+      "answer": {
+        "de": "Agent",
+        "hu": "ágens",
+        "ro": "agent",
+        "en": "agent"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was bekommt der Agent für Erfolg?",
+        "hu": "Mit kap az ágens a sikerért?",
+        "ro": "Ce primește agentul pentru succes?",
+        "en": "What does the agent get for success?"
+      },
+      "answer": {
+        "de": "Belohnung",
+        "hu": "jutalom",
+        "ro": "recompensă",
+        "en": "reward"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was bekommt der Agent für Fehler?",
+        "hu": "Mit kap az ágens a hibákért?",
+        "ro": "Ce primește agentul pentru greșeli?",
+        "en": "What does the agent get for mistakes?"
+      },
+      "answer": {
+        "de": "Strafe",
+        "hu": "büntetés",
+        "ro": "pedeapsă",
+        "en": "penalty"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "In welcher Welt agiert der Agent?",
+        "hu": "Milyen világban tevékenykedik az ágens?",
+        "ro": "În ce lume acționează agentul?",
+        "en": "In what world does the agent operate?"
+      },
+      "answer": {
+        "de": "Umgebung",
+        "hu": "környezet",
+        "ro": "mediu",
+        "en": "environment"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welcher Prozess führt durch Probieren zum Ziel?",
+        "hu": "Melyik folyamat vezet próbálkozással a célhoz?",
+        "ro": "Ce proces duce la scop prin încercare?",
+        "en": "What process leads to the goal through trial?"
+      },
+      "answer": {
+        "de": "Versuch",
+        "hu": "próbálkozás",
+        "ro": "încercare",
+        "en": "trial"
+      }
+    }
+  ],
+  "ai_k6_t3_2": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht NLP?",
+        "hu": "Mit jelent az NLP?",
+        "ro": "Ce înseamnă NLP?",
+        "en": "What does NLP stand for?"
+      },
+      "options": {
+        "de": ["Natural Language Processing", "New Laptop Power", "Next Level Pizza", "No Language Problem"],
+        "hu": ["Natural Language Processing", "New Laptop Power", "Next Level Pizza", "No Language Problem"],
+        "ro": ["Natural Language Processing", "New Laptop Power", "Next Level Pizza", "No Language Problem"],
+        "en": ["Natural Language Processing", "New Laptop Power", "Next Level Pizza", "No Language Problem"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Ziel von NLP?",
+        "hu": "Mi az NLP célja?",
+        "ro": "Care este scopul NLP?",
+        "en": "What is the goal of NLP?"
+      },
+      "options": {
+        "de": ["Menschliche Sprache verstehen", "Bilder bearbeiten", "Roboter reparieren", "Das Internet löschen"],
+        "hu": ["Emberi nyelv megértése", "Képek szerkesztése", "Robotok javítása", "Az internet törlése"],
+        "ro": ["Înțelegerea limbajului uman", "Editarea imaginilor", "Repararea roboților", "Ștergerea internetului"],
+        "en": ["Understanding human language", "Editing images", "Repairing robots", "Deleting the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Anwendung nutzt NLP?",
+        "hu": "Melyik alkalmazás használ NLP-t?",
+        "ro": "Care aplicație folosește NLP?",
+        "en": "Which application uses NLP?"
+      },
+      "options": {
+        "de": ["Google Übersetzer", "Taschenrechner", "Malprogramm", "Schachspiel"],
+        "hu": ["Google Fordító", "Számológép", "Rajzprogram", "Sakkjáték"],
+        "ro": ["Google Translate", "Calculator", "Program de desen", "Joc de șah"],
+        "en": ["Google Translate", "Calculator", "Drawing program", "Chess game"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Sentiment Analysis'?",
+        "hu": "Mi az a 'Sentiment Analysis'?",
+        "ro": "Ce este 'Sentiment Analysis'?",
+        "en": "What is sentiment analysis?"
+      },
+      "options": {
+        "de": ["Gefühle in Texten erkennen", "Text in Bilder umwandeln", "Rechtschreibprüfung", "Schriftgröße ändern"],
+        "hu": ["Érzelmek felismerése a szövegben", "Szöveg átalakítása képpé", "Helyesírás-ellenőrzés", "Betűméret módosítása"],
+        "ro": ["Recunoașterea sentimentelor în texte", "Transformarea textului în imagini", "Verificarea ortografică", "Schimbarea mărimii fontului"],
+        "en": ["Recognizing feelings in texts", "Converting text to images", "Spell check", "Changing font size"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Aufteilung von Text in kleinere Teile?",
+        "hu": "Hogy hívják a szöveg kisebb részekre bontását?",
+        "ro": "Cum se numește împărțirea textului în părți mai mici?",
+        "en": "What is the division of text into smaller parts called?"
+      },
+      "options": {
+        "de": ["Tokenisierung", "Kochen", "Malen", "Laufen"],
+        "hu": ["Tokenizálás", "Főzés", "Festés", "Futás"],
+        "ro": ["Tokenizare", "Gătit", "Pictură", "Alergare"],
+        "en": ["Tokenization", "Cooking", "Painting", "Running"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann NLP Spam-E-Mails erkennen?",
+        "hu": "Képes az NLP felismerni a spam e-maileket?",
+        "ro": "Poate NLP să recunoască e-mailurile spam?",
+        "en": "Can NLP recognize spam emails?"
+      },
+      "options": {
+        "de": ["Ja, durch Textanalyse", "Nein, das macht die Hardware", "Nur wenn sie bunt sind", "Nur bei Briefen"],
+        "hu": ["Igen, szövegelemzéssel", "Nem, azt a hardver csinálja", "Csak ha színesek", "Csak leveleknél"],
+        "ro": ["Da, prin analiza textului", "Nu, asta face hardware-ul", "Doar dacă sunt colorate", "Doar la scrisori"],
+        "en": ["Yes, through text analysis", "No, the hardware does that", "Only if they are colorful", "Only for letters"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist menschliche Sprache für Computer schwer?",
+        "hu": "Miért nehéz az emberi nyelv a számítógépeknek?",
+        "ro": "De ce este limbajul uman dificil pentru computere?",
+        "en": "Why is human language difficult for computers?"
+      },
+      "options": {
+        "de": ["Wegen Doppeldeutigkeiten", "Wegen der Farbe der Wörter", "Weil Wörter zu lang sind", "Weil Computer keine Augen haben"],
+        "hu": ["A többértelműség miatt", "A szavak színe miatt", "Mert a szavak túl hosszúak", "Mert a számítógépeknek nincs szemük"],
+        "ro": ["Din cauza ambiguităților", "Din cauza culorii cuvintelor", "Pentru că cuvintele sunt prea lungi", "Pentru că computerele nu au ochi"],
+        "en": ["Because of ambiguities", "Because of the color of the words", "Because words are too long", "Because computers have no eyes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht ein Chatbot?",
+        "hu": "Mit csinál egy chatbot?",
+        "ro": "Ce face un chatbot?",
+        "en": "What does a chatbot do?"
+      },
+      "options": {
+        "de": ["Er unterhält sich mit Menschen", "Er kocht Kaffee", "Er putzt das Haus", "Er fährt Auto"],
+        "hu": ["Beszélget az emberekkel", "Kávét főz", "Házat takarít", "Autót vezet"],
+        "ro": ["Vorbește cu oamenii", "Face cafea", "Curăță casa", "Conduce mașina"],
+        "en": ["He talks to people", "He makes coffee", "He cleans the house", "He drives a car"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Sprache kann NLP verarbeiten?",
+        "hu": "Milyen nyelvet tud az NLP feldolgozni?",
+        "ro": "Ce limbă poate procesa NLP?",
+        "en": "What language can NLP process?"
+      },
+      "options": {
+        "de": ["Fast jede menschliche Sprache", "Nur Englisch", "Nur Programmiersprachen", "Nur Musiknoten"],
+        "hu": ["Szinte bármilyen emberi nyelvet", "Csak angolt", "Csak programozási nyelveket", "Csak kottát"],
+        "ro": ["Aproape orice limbă umană", "Doar engleza", "Doar limbaje de programare", "Doar note muzicale"],
+        "en": ["Almost any human language", "Only English", "Only programming languages", "Only musical notes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Token'?",
+        "hu": "Mi az a 'token'?",
+        "ro": "Ce este un 'token'?",
+        "en": "What is a token?"
+      },
+      "options": {
+        "de": ["Ein kleines Stück Text (Wort)", "Eine Münze", "Ein Kabel", "Ein Virus"],
+        "hu": ["Egy kis szövegrész (szó)", "Egy érme", "Egy kábel", "Egy vírus"],
+        "ro": ["O mică parte de text (cuvânt)", "O monedă", "Un cablu", "Un virus"],
+        "en": ["A small piece of text (word)", "A coin", "A cable", "A virus"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Verarbeitung natürlicher Sprache?",
+        "hu": "Hogy hívják a természetes nyelvfeldolgozást?",
+        "ro": "Cum se numește procesarea limbajului natural?",
+        "en": "What is natural language processing called?"
+      },
+      "answer": {
+        "de": "NLP",
+        "hu": "NLP",
+        "ro": "NLP",
+        "en": "NLP"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man Programme, die mit uns schreiben?",
+        "hu": "Hogy hívják a velünk csevegő programokat?",
+        "ro": "Cum se numesc programele care scriu cu noi?",
+        "en": "What are programs that write with us called?"
+      },
+      "answer": {
+        "de": "Chatbots",
+        "hu": "chatbotok",
+        "ro": "chatboți",
+        "en": "chatbots"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist die kleinste Einheit im NLP?",
+        "hu": "Mi a legkisebb egység az NLP-ben?",
+        "ro": "Care este cea mai mică unitate în NLP?",
+        "en": "What is the smallest unit in NLP?"
+      },
+      "answer": {
+        "de": "Token",
+        "hu": "token",
+        "ro": "token",
+        "en": "token"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die automatische Übertragung von Sprachen?",
+        "hu": "Hogy hívják a nyelvek automatikus átültetését?",
+        "ro": "Cum se numește transferul automat de limbi?",
+        "en": "What is the automatic translation of languages called?"
+      },
+      "answer": {
+        "de": "Übersetzung",
+        "hu": "fordítás",
+        "ro": "traducere",
+        "en": "translation"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird beim NLP analysiert?",
+        "hu": "Mit elemeznek az NLP során?",
+        "ro": "Ce se analizează în NLP?",
+        "en": "What is analyzed in NLP?"
+      },
+      "answer": {
+        "de": "Text",
+        "hu": "szöveg",
+        "ro": "text",
+        "en": "text"
+      }
+    }
+  ],
+  "ai_k6_t3_3": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Chatbot?",
+        "hu": "Mi az a chatbot?",
+        "ro": "Ce este un chatbot?",
+        "en": "What is a chatbot?"
+      },
+      "options": {
+        "de": ["Ein Programm zur Unterhaltung", "Ein kleiner Staubsauger", "Ein Kochroboter", "Ein fliegendes Auto"],
+        "hu": ["Egy beszélgető program", "Egy kis porszívó", "Egy főzőrobot", "Egy repülő autó"],
+        "ro": ["Un program de conversație", "Un aspirator mic", "Un robot de gătit", "O mașină zburătoare"],
+        "en": ["A conversational program", "A small vacuum cleaner", "A cooking robot", "A flying car"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie versteht ein Chatbot unsere Fragen?",
+        "hu": "Hogyan érti meg a chatbot a kérdéseinket?",
+        "ro": "Cum înțelege un chatbot întrebările noastre?",
+        "en": "How does a chatbot understand our questions?"
+      },
+      "options": {
+        "de": ["Durch Schlüsselwörter und KI", "Er rät einfach", "Er fragt seine Mutter", "Durch Zauberei"],
+        "hu": ["Kulcsszavak és AI segítségével", "Egyszerűen találgat", "Megkérdezi az anyukáját", "Varázslattal"],
+        "ro": ["Prin cuvinte cheie și IA", "Pur și simplu ghicește", "O întreabă pe mama lui", "Prin magie"],
+        "en": ["Through keywords and AI", "It just guesses", "It asks its mother", "Through magic"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo findet man oft Chatbots?",
+        "hu": "Hol találkozhatunk gyakran chatbotokkal?",
+        "ro": "Unde găsim adesea chatboți?",
+        "en": "Where do we often find chatbots?"
+      },
+      "options": {
+        "de": ["Auf Webseiten vom Kundenservice", "Im Kühlschrank", "Unter dem Bett", "In der Waschmaschine"],
+        "hu": ["Ügyfélszolgálati weboldalakon", "A hűtőben", "Az ágy alatt", "A mosógépben"],
+        "ro": ["Pe site-urile de relații cu clienții", "În frigider", "Sub pat", "În mașina de spălat"],
+        "en": ["On customer service websites", "In the fridge", "Under the bed", "In the washing machine"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Turing-Test?",
+        "hu": "Mi az a Turing-teszt?",
+        "ro": "Ce este testul Turing?",
+        "en": "What is the Turing test?"
+      },
+      "options": {
+        "de": ["Ein Test für menschliches Verhalten", "Ein Sehtest", "Ein Lauftest", "Ein IQ-Test für Hunde"],
+        "hu": ["Az emberi viselkedés tesztje", "Látásvizsgálat", "Futóteszt", "IQ-teszt kutyáknak"],
+        "ro": ["Un test pentru comportamentul uman", "Un test de vedere", "Un test de alergare", "Un test IQ pentru câini"],
+        "en": ["A test for human behavior", "A vision test", "A running test", "An IQ test for dogs"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann ein Chatbot immer alle Fragen richtig beantworten?",
+        "hu": "Egy chatbot mindig minden kérdésre helyesen tud válaszolni?",
+        "ro": "Poate un chatbot să răspundă corect la toate întrebările mereu?",
+        "en": "Can a chatbot always answer all questions correctly?"
+      },
+      "options": {
+        "de": ["Nein, er kann Fehler machen", "Ja, er weiß alles", "Nur wenn er Strom hat", "Nur am Wochenende"],
+        "hu": ["Nem, hibázhat", "Igen, mindent tud", "Csak ha van áram", "Csak hétvégén"],
+        "ro": ["Nu, poate face greșeli", "Da, știe totul", "Doar dacă are curent", "Doar în weekend"],
+        "en": ["No, it can make mistakes", "Yes, it knows everything", "Only if it has power", "Only on weekends"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ChatGPT?",
+        "hu": "Mi az a ChatGPT?",
+        "ro": "Ce este ChatGPT?",
+        "en": "What is ChatGPT?"
+      },
+      "options": {
+        "de": ["Ein bekannter KI-Chatbot", "Ein neues Auto", "Eine Art Käse", "Ein Berg"],
+        "hu": ["Egy ismert AI chatbot", "Egy új autó", "Egy fajta sajt", "Egy hegy"],
+        "ro": ["Un chatbot IA cunoscut", "O mașină nouă", "Un fel de brânză", "Un munte"],
+        "en": ["A well-known AI chatbot", "A new car", "A type of cheese", "A mountain"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die 'Absicht' hinter einer Nachricht?",
+        "hu": "Hogy hívják az üzenet mögötti 'szándékot'?",
+        "ro": "Cum se numește 'intenția' din spatele unui mesaj?",
+        "en": "What is the 'intent' behind a message called?"
+      },
+      "options": {
+        "de": ["Intent", "Farbe", "Gewicht", "Länge"],
+        "hu": ["Szándék (Intent)", "Szín", "Súly", "Hossz"],
+        "ro": ["Intenție (Intent)", "Culoare", "Greutate", "Lungime"],
+        "en": ["Intent", "Color", "Weight", "Length"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Chatbots in Echtzeit antworten?",
+        "hu": "Képesek a chatbotok valós időben válaszolni?",
+        "ro": "Pot chatboții să răspundă în timp real?",
+        "en": "Can chatbots respond in real-time?"
+      },
+      "options": {
+        "de": ["Ja, fast sofort", "Nein, sie brauchen Tage", "Nur per Post", "Nur nachts"],
+        "hu": ["Igen, szinte azonnal", "Nem, napokig tart", "Csak postán", "Csak éjszaka"],
+        "ro": ["Da, aproape imediat", "Nu, durează zile", "Doar prin poștă", "Doar noaptea"],
+        "en": ["Yes, almost immediately", "No, it takes days", "Only by mail", "Only at night"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sind Chatbots nützlich?",
+        "hu": "Miért hasznosak a chatbotok?",
+        "ro": "De ce sunt utili chatboții?",
+        "en": "Why are chatbots useful?"
+      },
+      "options": {
+        "de": ["Sie sind 24/7 erreichbar", "Sie können fliegen", "Sie essen keinen Strom", "Sie sind unsichtbar"],
+        "hu": ["A nap 24 órájában elérhetőek", "Tudnak repülni", "Nem fogyasztanak áramot", "Láthatatlanok"],
+        "ro": ["Sunt disponibili 24/7", "Pot zbura", "Nu consumă curent", "Sunt invizibili"],
+        "en": ["They are available 24/7", "They can fly", "They don't consume power", "They are invisible"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Chat'?",
+        "hu": "Mit jelent a 'chat'?",
+        "ro": "Ce înseamnă 'chat'?",
+        "en": "What does 'chat' mean?"
+      },
+      "options": {
+        "de": ["Plaudern / Unterhalten", "Rennen", "Springen", "Essen"],
+        "hu": ["Csevegés / Beszélgetés", "Futás", "Ugrás", "Evés"],
+        "ro": ["Conversație / Discuție", "Alergare", "Săritură", "Mâncare"],
+        "en": ["Chatting / Conversation", "Running", "Jumping", "Eating"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt ein Programm, das chattet?",
+        "hu": "Hogy hívják a csevegő programot?",
+        "ro": "Cum se numește programul care face chat?",
+        "en": "What is a program that chats called?"
+      },
+      "answer": {
+        "de": "Chatbot",
+        "hu": "chatbot",
+        "ro": "chatbot",
+        "en": "chatbot"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Absicht des Nutzers?",
+        "hu": "Hogy hívják a felhasználó szándékát?",
+        "ro": "Cum se numește intenția utilizatorului?",
+        "en": "What is the user's intent called?"
+      },
+      "answer": {
+        "de": "Intent",
+        "hu": "szándék",
+        "ro": "intenție",
+        "en": "intent"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welcher Test prüft menschliches Verhalten?",
+        "hu": "Melyik teszt vizsgálja az emberi viselkedést?",
+        "ro": "Ce test verifică comportamentul uman?",
+        "en": "Which test checks human behavior?"
+      },
+      "answer": {
+        "de": "Turing",
+        "hu": "Turing",
+        "ro": "Turing",
+        "en": "Turing"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Auf welchem Medium antwortet der Chatbot?",
+        "hu": "Milyen felületen válaszol a chatbot?",
+        "ro": "Pe ce mediu răspunde chatbotul?",
+        "en": "On what medium does the chatbot respond?"
+      },
+      "answer": {
+        "de": "Text",
+        "hu": "szöveg",
+        "ro": "text",
+        "en": "text"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Technik steckt oft in Chatbots?",
+        "hu": "Milyen technika van gyakran a chatbotokban?",
+        "ro": "Ce tehnică se află adesea în chatboți?",
+        "en": "What technology is often in chatbots?"
+      },
+      "answer": {
+        "de": "KI",
+        "hu": "AI",
+        "ro": "IA",
+        "en": "AI"
+      }
+    }
+  ],
+  "ai_k6_t3_4": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Computer Vision?",
+        "hu": "Mi a Computer Vision (számítógépes látás)?",
+        "ro": "Ce este Computer Vision?",
+        "en": "What is computer vision?"
+      },
+      "options": {
+        "de": ["Bilder verstehen", "Musik hören", "Text schreiben", "E-Mails senden"],
+        "hu": ["Képek megértése", "Zenehallgatás", "Szövegírás", "E-mail küldés"],
+        "ro": ["Înțelegerea imaginilor", "Ascultarea muzicii", "Scrierea textului", "Trimiterea e-mailurilor"],
+        "en": ["Understanding images", "Listening to music", "Writing text", "Sending emails"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woraus besteht ein digitales Bild für den Computer?",
+        "hu": "Miből áll egy digitális kép a számítógép számára?",
+        "ro": "Din ce este alcătuită o imagine digitală pentru computer?",
+        "en": "What is a digital image made of for the computer?"
+      },
+      "options": {
+        "de": ["Pixeln (Bildpunkte)", "Atomen", "Wörtern", "Sand"],
+        "hu": ["Pixelekből (képpontokból)", "Atomokból", "Szavakból", "Homokból"],
+        "ro": ["Pixeli (puncte de imagine)", "Atomi", "Cuvinte", "Nisip"],
+        "en": ["Pixels", "Atoms", "Words", "Sand"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was kann Computer Vision erkennen?",
+        "hu": "Mit tud felismerni a Computer Vision?",
+        "ro": "Ce poate recunoaște Computer Vision?",
+        "en": "What can computer vision recognize?"
+      },
+      "options": {
+        "de": ["Gesichter und Objekte", "Den Geschmack von Pizza", "Die Temperatur von Wasser", "Die Zukunft"],
+        "hu": ["Arcokat és tárgyakat", "A pizza ízét", "A víz hőmérsékletét", "A jövőt"],
+        "ro": ["Fețe și obiecte", "Gustul pizzei", "Temperatura apei", "Viitorul"],
+        "en": ["Faces and objects", "The taste of pizza", "The temperature of water", "The future"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo wird Computer Vision genutzt?",
+        "hu": "Hol használják a Computer Vision-t?",
+        "ro": "Unde se folosește Computer Vision?",
+        "en": "Where is computer vision used?"
+      },
+      "options": {
+        "de": ["Selbstfahrende Autos", "Kaffeemaschinen", "Fahrräder ohne Licht", "Schuhen"],
+        "hu": ["Önvezető autók", "Kávéfőzők", "Lámpa nélküli biciklik", "Cipők"],
+        "ro": ["Mașini autonome", "Cafetiere", "Biciclete fără lumini", "Pantofi"],
+        "en": ["Self-driving cars", "Coffee makers", "Bicycles without lights", "Shoes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht eine Gesichtserkennung?",
+        "hu": "Mit csinál az arcfelismerés?",
+        "ro": "Ce face recunoașterea facială?",
+        "en": "What does facial recognition do?"
+      },
+      "options": {
+        "de": ["Identifiziert Personen", "Kämmt die Haare", "Putzt die Zähne", "Ändert die Augenfarbe"],
+        "hu": ["Azonosítja a személyeket", "Megfésüli a hajat", "Fogat mos", "Megváltoztatja a szemszínt"],
+        "ro": ["Identifică persoanele", "Piaptănă părul", "Spală dinții", "Schimbă culoarea ochilor"],
+        "en": ["Identifies persons", "Combs hair", "Brushes teeth", "Changes eye color"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Objekterkennung?",
+        "hu": "Mi a tárgyfelismerés?",
+        "ro": "Ce este recunoașterea obiectelor?",
+        "en": "What is object detection?"
+      },
+      "options": {
+        "de": ["Dinge im Bild finden", "Dinge verstecken", "Dinge kaputt machen", "Dinge kaufen"],
+        "hu": ["Tárgyak megtalálása a képen", "Tárgyak elrejtése", "Tárgyak eltörése", "Tárgyak vásárlása"],
+        "ro": ["Găsirea lucrurilor în imagine", "Ascunderea lucrurilor", "Stricarea lucrurilor", "Cumpărarea lucrurilor"],
+        "en": ["Finding things in the image", "Hiding things", "Breaking things", "Buying things"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Braucht Computer Vision eine Kamera?",
+        "hu": "Szüksége van a Computer Vision-nek kamerára?",
+        "ro": "Are nevoie Computer Vision de o cameră?",
+        "en": "Does computer vision need a camera?"
+      },
+      "options": {
+        "de": ["Ja, oft um Bilder aufzunehmen", "Nein, nur ein Radio", "Nur ein Mikrofon", "Nur eine Maus"],
+        "hu": ["Igen, gyakran a képek rögzítéséhez", "Nem, csak egy rádió", "Csak egy mikrofon", "Csak egy egér"],
+        "ro": ["Da, adesea pentru a capta imagini", "Nu, doar un radio", "Doar un microfon", "Doar un mouse"],
+        "en": ["Yes, often to capture images", "No, just a radio", "Only a microphone", "Only a mouse"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann Computer Vision Texte in Bildern lesen?",
+        "hu": "Képes a Computer Vision szöveget olvasni a képeken?",
+        "ro": "Poate Computer Vision să citească texte în imagini?",
+        "en": "Can computer vision read text in images?"
+      },
+      "options": {
+        "de": ["Ja (OCR)", "Nein, niemals", "Nur wenn es laut vorgelesen wird", "Nur bei Comics"],
+        "hu": ["Igen (OCR)", "Nem, soha", "Csak ha hangosan felolvassák", "Csak képregényeknél"],
+        "ro": ["Da (OCR)", "Nu, niciodată", "Doar dacă este citit cu voce tare", "Doar la benzi desenate"],
+        "en": ["Yes (OCR)", "No, never", "Only if read aloud", "Only in comics"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Filter in der Bildverarbeitung?",
+        "hu": "Mi a szűrő a képfeldolgozásban?",
+        "ro": "Ce este un filtru în procesarea imaginilor?",
+        "en": "What is a filter in image processing?"
+      },
+      "options": {
+        "de": ["Verändert das Bild (z.B. schärfen)", "Ein Kaffeefilter", "Ein Wasserfilter", "Ein Luftfilter"],
+        "hu": ["Módosítja a képet (pl. élesítés)", "Kávészűrő", "Vízszűrő", "Légszűrő"],
+        "ro": ["Modifică imaginea (ex. claritate)", "Un filtru de cafea", "Un filtru de apă", "Un filtru de aer"],
+        "en": ["Modifies the image (e.g., sharpening)", "A coffee filter", "A water filter", "An air filter"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum nutzen Mediziner Computer Vision?",
+        "hu": "Miért használnak az orvosok Computer Vision-t?",
+        "ro": "De ce folosesc medicii Computer Vision?",
+        "en": "Why do doctors use computer vision?"
+      },
+      "options": {
+        "de": ["Um Röntgenbilder zu analysieren", "Um Musik zu hören", "Um Rezepte zu kochen", "Um Sport zu treiben"],
+        "hu": ["Röntgenképek elemzésére", "Zenehallgatásra", "Receptek főzésére", "Sportolásra"],
+        "ro": ["Pentru a analiza radiografii", "Pentru a asculta muzică", "Pentru a găti rețete", "Pentru a face sport"],
+        "en": ["To analyze X-rays", "To listen to music", "To cook recipes", "To exercise"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Bildpunkte?",
+        "hu": "Hogy hívják a képpontokat?",
+        "ro": "Cum se numesc punctele de imagine?",
+        "en": "What are image points called?"
+      },
+      "answer": {
+        "de": "Pixel",
+        "hu": "pixelek",
+        "ro": "pixeli",
+        "en": "pixels"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Hardware nimmt Bilder auf?",
+        "hu": "Melyik hardver rögzíti a képeket?",
+        "ro": "Ce hardware captează imagini?",
+        "en": "What hardware captures images?"
+      },
+      "answer": {
+        "de": "Kamera",
+        "hu": "kamera",
+        "ro": "cameră",
+        "en": "camera"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was erkennt die Computer Vision oft?",
+        "hu": "Mit ismer fel gyakran a Computer Vision?",
+        "ro": "Ce recunoaște adesea Computer Vision?",
+        "en": "What does computer vision often recognize?"
+      },
+      "answer": {
+        "de": "Objekte",
+        "hu": "tárgyakat",
+        "ro": "obiecte",
+        "en": "objects"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Identifizierung von Gesichtern?",
+        "hu": "Hogy hívják az arcok azonosítását?",
+        "ro": "Cum se numește identificarea fețelor?",
+        "en": "What is the identification of faces called?"
+      },
+      "answer": {
+        "de": "Arcfelismerés",
+        "hu": "arcfelismerés",
+        "ro": "recunoaștere facială",
+        "en": "facial recognition"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird beim Computer Vision analysiert?",
+        "hu": "Mit elemeznek a Computer Vision során?",
+        "ro": "Ce se analizează în Computer Vision?",
+        "en": "What is analyzed in computer vision?"
+      },
+      "answer": {
+        "de": "Bilder",
+        "hu": "képeket",
+        "ro": "imagini",
+        "en": "images"
+      }
+    }
+  ],
+  "ai_k6_t3_5": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Spracherkennung?",
+        "hu": "Mi a hangfelismerés?",
+        "ro": "Ce este recunoașterea vocală?",
+        "en": "What is speech recognition?"
+      },
+      "options": {
+        "de": ["Gesprochenes Wort in Text umwandeln", "Bilder malen", "Singen", "Essen kochen"],
+        "hu": ["A beszélt szó szöveggé alakítása", "Képek festése", "Éneklés", "Étel főzése"],
+        "ro": ["Transformarea cuvintelor vorbite în text", "Pictarea imaginilor", "Cântat", "Gătitul mâncării"],
+        "en": ["Converting spoken words to text", "Painting pictures", "Singing", "Cooking food"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Gerät wird für die Spracherkennung benötigt?",
+        "hu": "Melyik eszköz szükséges a hangfelismeréshez?",
+        "ro": "Ce dispozitiv este necesar pentru recunoașterea vocală?",
+        "en": "What device is needed for speech recognition?"
+      },
+      "options": {
+        "de": ["Mikrofon", "Maus", "Drucker", "Scanner"],
+        "hu": ["Mikrofon", "Egér", "Nyomtató", "Scanner"],
+        "ro": ["Microfon", "Mouse", "Imprimantă", "Scanner"],
+        "en": ["Microphone", "Mouse", "Printer", "Scanner"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer nutzt Spracherkennung?",
+        "hu": "Ki használ hangfelismerést?",
+        "ro": "Cine folosește recunoașterea vocală?",
+        "en": "Who uses speech recognition?"
+      },
+      "options": {
+        "de": ["Siri und Alexa", "Der Toaster", "Ein Blatt Papier", "Ein Stein"],
+        "hu": ["Siri és Alexa", "A kenyérpirító", "Egy papírlap", "Egy kő"],
+        "ro": ["Siri și Alexa", "Prăjitorul de pâine", "O foaie de hârtie", "O piatră"],
+        "en": ["Siri and Alexa", "The toaster", "A piece of paper", "A stone"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was kann die Spracherkennung erschweren?",
+        "hu": "Mi nehezítheti meg a hangfelismerést?",
+        "ro": "Ce poate îngreuna recunoașterea vocală?",
+        "en": "What can make speech recognition difficult?"
+      },
+      "options": {
+        "de": ["Hintergrundgeräusche und Akzente", "Sonnenschein", "Bunte Kleidung", "Ein voller Akku"],
+        "hu": ["Háttérzaj és akcentus", "Napsütés", "Színes ruha", "Tele akkumulátor"],
+        "ro": ["Zgomotul de fundal și accentele", "Soarele", "Hainele colorate", "O baterie plină"],
+        "en": ["Background noise and accents", "Sunshine", "Colorful clothes", "A full battery"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Speech-to-Text'?",
+        "hu": "Mi az a 'Speech-to-Text'?",
+        "ro": "Ce este 'Speech-to-Text'?",
+        "en": "What is speech-to-text?"
+      },
+      "options": {
+        "de": ["Sprache in Text umwandeln", "Text in Sprache umwandeln", "Bilder in Text umwandeln", "Musik in Bilder umwandeln"],
+        "hu": ["Beszéd szöveggé alakítása", "Szöveg beszéddé alakítása", "Kép szöveggé alakítása", "Zene képpé alakítása"],
+        "ro": ["Transformarea vorbirii în text", "Transformarea textului în vorbire", "Transformarea imaginilor în text", "Transformarea muzicii în imagini"],
+        "en": ["Converting speech to text", "Converting text to speech", "Converting images to text", "Converting music to images"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Text-to-Speech'?",
+        "hu": "Mi az a 'Text-to-Speech'?",
+        "ro": "Ce este 'Text-to-Speech'?",
+        "en": "What is text-to-speech?"
+      },
+      "options": {
+        "de": ["Text vorlesen lassen", "Text schreiben", "Bilder malen", "Singen"],
+        "hu": ["Szöveg felolvastatása", "Szövegírás", "Képek festése", "Éneklés"],
+        "ro": ["Citirea textului", "Scrierea textului", "Pictarea imaginilor", "Cântat"],
+        "en": ["Reading text aloud", "Writing text", "Painting pictures", "Singing"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Wellen, die das Mikrofon misst?",
+        "hu": "Hogy hívják a hullámokat, amiket a mikrofon mér?",
+        "ro": "Cum se numesc undele pe care le măsoară microfonul?",
+        "en": "What are the waves measured by the microphone called?"
+      },
+      "options": {
+        "de": ["Schallwellen", "Wasserwellen", "Lichtwellen", "Meereswellen"],
+        "hu": ["Hanghullámok", "Víz hullámok", "Fényhullámok", "Tengeri hullámok"],
+        "ro": ["Unde sonore", "Unde de apă", "Unde de lumină", "Unde marine"],
+        "en": ["Sound waves", "Water waves", "Light waves", "Sea waves"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann Spracherkennung verschiedene Sprachen erkennen?",
+        "hu": "Képes a hangfelismerés különböző nyelveket felismerni?",
+        "ro": "Poate recunoașterea vocală să recunoască limbi diferite?",
+        "en": "Can speech recognition recognize different languages?"
+      },
+      "options": {
+        "de": ["Ja, viele Sprachen", "Nein, nur eine", "Nur Fantasiesprachen", "Nur Zeichensprache"],
+        "hu": ["Igen, sok nyelvet", "Nem, csak egyet", "Csak fantázianyelveket", "Csak jelnyelvet"],
+        "ro": ["Da, multe limbi", "Nu, doar una", "Doar limbi imaginare", "Doar limbajul semnelor"],
+        "en": ["Yes, many languages", "No, only one", "Only fantasy languages", "Only sign language"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür ist Spracherkennung nützlich?",
+        "hu": "Mire hasznos a hangfelismerés?",
+        "ro": "La ce este utilă recunoașterea vocală?",
+        "en": "What is speech recognition useful for?"
+      },
+      "options": {
+        "de": ["Diktieren von Texten", "Waschen von Kleidung", "Kochen von Suppe", "Schneiden von Haaren"],
+        "hu": ["Szövegek diktálására", "Ruha mosásra", "Leves főzésére", "Hajvágásra"],
+        "ro": ["Dictarea textelor", "Spălarea hainelor", "Gătitul supei", "Tunsul părului"],
+        "en": ["Dictating texts", "Washing clothes", "Cooking soup", "Cutting hair"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Sprachsteuerung?",
+        "hu": "Mi az a hangvezérlés?",
+        "ro": "Ce este controlul vocal?",
+        "en": "What is voice control?"
+      },
+      "options": {
+        "de": ["Geräte mit der Stimme steuern", "Geräte mit den Füßen steuern", "Ein Lenkrad", "Ein Lichtschalter"],
+        "hu": ["Eszközök irányítása hanggal", "Eszközök irányítása lábbal", "Egy kormány", "Egy villanykapcsoló"],
+        "ro": ["Controlul dispozitivelor cu vocea", "Controlul dispozitivelor cu picioarele", "Un volan", "Un întrerupător"],
+        "en": ["Controlling devices with the voice", "Controlling devices with feet", "A steering wheel", "A light switch"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Gerät hört unsere Stimme?",
+        "hu": "Melyik eszköz hallja a hangunkat?",
+        "ro": "Ce dispozitiv aude vocea noastră?",
+        "en": "What device hears our voice?"
+      },
+      "answer": {
+        "de": "Mikrofon",
+        "hu": "mikrofon",
+        "ro": "microfon",
+        "en": "microphone"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Diktieren in Text?",
+        "hu": "Hogy hívják a szöveggé alakítást?",
+        "ro": "Cum se numește transformarea în text?",
+        "en": "What is conversion to text called?"
+      },
+      "answer": {
+        "de": "Transkription",
+        "hu": "átírás",
+        "ro": "transcrierea",
+        "en": "transcription"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welcher Assistent von Apple nutzt das?",
+        "hu": "Melyik Apple asszisztens használja ezt?",
+        "ro": "Ce asistent de la Apple folosește asta?",
+        "en": "Which Apple assistant uses this?"
+      },
+      "answer": {
+        "de": "Siri",
+        "hu": "Siri",
+        "ro": "Siri",
+        "en": "Siri"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man physikalische Töne?",
+        "hu": "Hogy hívják a fizikai hangokat?",
+        "ro": "Cum se numesc sunetele fizice?",
+        "en": "What are physical sounds called?"
+      },
+      "answer": {
+        "de": "Schall",
+        "hu": "hang",
+        "ro": "sunet",
+        "en": "sound"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird beim Hangfelismerés erkannt?",
+        "hu": "Mit ismernek fel a hangfelismerés során?",
+        "ro": "Ce se recunoaște în recunoașterea vocală?",
+        "en": "What is recognized in speech recognition?"
+      },
+      "answer": {
+        "de": "Sprache",
+        "hu": "beszéd",
+        "ro": "vorbire",
+        "en": "speech"
+      }
+    }
+  ],
+  "ai_k6_t3_6": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist AlphaGo?",
+        "hu": "Mi az AlphaGo?",
+        "ro": "Ce este AlphaGo?",
+        "en": "What is AlphaGo?"
+      },
+      "options": {
+        "de": ["Eine KI, die das Spiel Go spielt", "Ein neues Auto", "Ein Planet", "Ein Tier"],
+        "hu": ["Egy AI, ami a Go játékkal játszik", "Egy új autó", "Egy bolygó", "Egy állat"],
+        "ro": ["O IA care joacă jocul Go", "O mașină nouă", "O planetă", "Un animal"],
+        "en": ["An AI that plays the game Go", "A new car", "A planet", "An animal"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Gegen wen hat AlphaGo gewonnen?",
+        "hu": "Ki ellen nyert az AlphaGo?",
+        "ro": "Împotriva cui a câștigat AlphaGo?",
+        "en": "Who did AlphaGo win against?"
+      },
+      "options": {
+        "de": ["Einen Weltmeister im Go", "Einen Koch", "Einen Roboterhund", "Gegen niemanden"],
+        "hu": ["Egy Go világbajnok ellen", "Egy szakács ellen", "Egy robotkutya ellen", "Senki ellen"],
+        "ro": ["Un campion mondial de Go", "Un bucătar", "Un câine robot", "Împotriva nimănui"],
+        "en": ["A Go world champion", "A cook", "A robot dog", "Against nobody"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie lernt eine KI Spiele zu spielen?",
+        "hu": "Hogyan tanul meg az AI játszani?",
+        "ro": "Cum învață o IA să joace jocuri?",
+        "en": "How does an AI learn to play games?"
+      },
+      "options": {
+        "de": ["Indem sie Millionen Spiele gegen sich selbst spielt", "Indem sie fernsieht", "Indem sie schläft", "Gar nicht"],
+        "hu": ["Úgy, hogy több millió meccset játszik önmaga ellen", "Tévénézéssel", "Alvással", "Sehogy"],
+        "ro": ["Jucând milioane de jocuri împotriva ei însăși", "Privind la televizor", "Dormind", "Deloc"],
+        "en": ["By playing millions of games against itself", "By watching TV", "By sleeping", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Spiel ist für Computer schwerer: Schach oder Go?",
+        "hu": "Melyik játék nehezebb a számítógépnek: a sakk vagy a Go?",
+        "ro": "Care joc este mai greu pentru computer: șahul sau Go?",
+        "en": "Which game is harder for a computer: Chess or Go?"
+      },
+      "options": {
+        "de": ["Go (wegen der vielen Möglichkeiten)", "Schach", "Beide sind gleich einfach", "Mensch ärgere dich nicht"],
+        "hu": ["A Go (a rengeteg lehetőség miatt)", "A sakk", "Mindkettő egyformán egyszerű", "Ki nevet a végén"],
+        "ro": ["Go (din cauza numeroaselor posibilități)", "Șahul", "Ambele sunt la fel de ușoare", "Nu te supăra frate"],
+        "en": ["Go (because of the many possibilities)", "Chess", "Both are equally easy", "Ludo"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was nutzt AlphaGo zum Lernen?",
+        "hu": "Mit használ az AlphaGo a tanuláshoz?",
+        "ro": "Ce folosește AlphaGo pentru a învăța?",
+        "en": "What does AlphaGo use to learn?"
+      },
+      "options": {
+        "de": ["Neuronale Netze und Reinforcement Learning", "Ein Wörterbuch", "Eine Landkarte", "Ein Lineal"],
+        "hu": ["Neurális hálózatokat és megerősítéses tanulást", "Egy szótárt", "Egy térképet", "Egy vonalzót"],
+        "ro": ["Rețele neuronale și învățare prin consolidare", "Un dicționar", "O hartă", "O riglă"],
+        "en": ["Neural networks and reinforcement learning", "A dictionary", "A map", "A ruler"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können KIs auch Videospiele wie StarCraft spielen?",
+        "hu": "Tudnak az AI-k olyan videojátékokat is játszani, mint a StarCraft?",
+        "ro": "Pot IA să joace și jocuri video precum StarCraft?",
+        "en": "Can AIs also play video games like StarCraft?"
+      },
+      "options": {
+        "de": ["Ja, z.B. AlphaStar", "Nein, nur Brettspiele", "Nur wenn sie Hilfe von Menschen haben", "Nur sehr langsame Spiele"],
+        "hu": ["Igen, pl. az AlphaStar", "Nem, csak társasjátékokat", "Csak ha emberi segítséget kapnak", "Csak nagyon lassú játékokat"],
+        "ro": ["Da, de ex. AlphaStar", "Nu, doar jocuri de societate", "Doar dacă au ajutor uman", "Doar jocuri foarte lente"],
+        "en": ["Yes, e.g., AlphaStar", "No, only board games", "Only with human help", "Only very slow games"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Deep Blue?",
+        "hu": "Mi az a Deep Blue?",
+        "ro": "Ce este Deep Blue?",
+        "en": "What is Deep Blue?"
+      },
+      "options": {
+        "de": ["Ein Computer, der gegen Kasparov im Schach gewann", "Ein blauer Ozean", "Ein Wal", "Ein Flugzeug"],
+        "hu": ["Egy számítógép, amely sakkozott Kaszparov ellen", "Egy kék óceán", "Egy bálna", "Egy repülőgép"],
+        "ro": ["Un computer care a câștigat la șah contra lui Kasparov", "Un ocean albastru", "O balenă", "Un avion"],
+        "en": ["A computer that won against Kasparov in chess", "A blue ocean", "A whale", "An airplane"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum spielen Forscher Spiele mit KI?",
+        "hu": "Miért játszanak a kutatók játékokat az AI-val?",
+        "ro": "De ce cercetătorii joacă jocuri cu IA?",
+        "en": "Why do researchers play games with AI?"
+      },
+      "options": {
+        "de": ["Um Intelligenz und Strategie zu testen", "Weil sie Langeweile haben", "Um Geld zu verdienen", "Um die Grafik zu testen"],
+        "hu": ["Az intelligencia és stratégia tesztelésére", "Mert unatkoznak", "Pénzkeresés miatt", "A grafika tesztelésére"],
+        "ro": ["Pentru a testa inteligența și strategia", "Pentru că se plictisesc", "Pentru a câștiga bani", "Pentru a testa grafica"],
+        "en": ["To test intelligence and strategy", "Because they are bored", "To earn money", "To test graphics"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Training' bei einer Spiele-KI?",
+        "hu": "Mit jelent a 'tréning' egy játék-AI esetében?",
+        "ro": "Ce înseamnă 'antrenament' la o IA de jocuri?",
+        "en": "What does 'training' mean for a game AI?"
+      },
+      "options": {
+        "de": ["Das Lernen durch viele Wiederholungen", "Sport treiben", "Ein neues Gehäuse bauen", "Wasser trinken"],
+        "hu": ["Tanulás sok ismétlésen keresztül", "Sportolás", "Új ház építése", "Vízivás"],
+        "ro": ["Învățarea prin multe repetiții", "A face sport", "Construirea unei carcase noi", "Băutul apei"],
+        "en": ["Learning through many repetitions", "Exercising", "Building a new case", "Drinking water"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können KIs kreative Züge in Spielen machen?",
+        "hu": "Tudnak az AI-k kreatív lépéseket tenni a játékokban?",
+        "ro": "Pot IA să facă mutări creative în jocuri?",
+        "en": "Can AIs make creative moves in games?"
+      },
+      "options": {
+        "de": ["Ja, AlphaGo hat neue Strategien erfunden", "Nein, sie kopieren nur", "Nur wenn der Strom ausfällt", "Nur bei Malspielen"],
+        "hu": ["Igen, az AlphaGo új stratégiákat talált ki", "Nem, csak másolnak", "Csak ha elmegy az áram", "Csak rajzolós játékoknál"],
+        "ro": ["Da, AlphaGo a inventat strategii noi", "Nu, doar copiază", "Doar dacă se oprește curentul", "Doar la jocuri de desenat"],
+        "en": ["Yes, AlphaGo invented new strategies", "No, they only copy", "Only if the power goes out", "Only in drawing games"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welcher Computer gewann 1997 im Schach?",
+        "hu": "Melyik számítógép nyert 1997-ben sakkban?",
+        "ro": "Ce computer a câștigat la șah în 1997?",
+        "en": "Which computer won at chess in 1997?"
+      },
+      "answer": {
+        "de": "Deep Blue",
+        "hu": "Deep Blue",
+        "ro": "Deep Blue",
+        "en": "Deep Blue"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Spiel spielte AlphaGo?",
+        "hu": "Melyik játékkal játszott az AlphaGo?",
+        "ro": "Ce joc a jucat AlphaGo?",
+        "en": "What game did AlphaGo play?"
+      },
+      "answer": {
+        "de": "Go",
+        "hu": "Go",
+        "ro": "Go",
+        "en": "Go"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Spiel gegen sich selbst?",
+        "hu": "Hogy hívják az önmaga elleni játékot?",
+        "ro": "Cum se numește jocul împotriva propriei persoane?",
+        "en": "What is playing against oneself called?"
+      },
+      "answer": {
+        "de": "Self-play",
+        "hu": "self-play",
+        "ro": "self-play",
+        "en": "self-play"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den besten Spieler der Welt?",
+        "hu": "Hogy hívják a világ legjobb játékosát?",
+        "ro": "Cum se numește cel mai bun jucător din lume?",
+        "en": "What is the best player in the world called?"
+      },
+      "answer": {
+        "de": "Weltmeister",
+        "hu": "világbajnok",
+        "ro": "campion mondial",
+        "en": "world champion"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was nutzt die KI zum Planen von Zügen?",
+        "hu": "Mit használ az AI a lépések tervezéséhez?",
+        "ro": "Ce folosește IA pentru a planifica mutările?",
+        "en": "What does the AI use to plan moves?"
+      },
+      "answer": {
+        "de": "Strategie",
+        "hu": "stratégia",
+        "ro": "strategie",
+        "en": "strategy"
+      }
+    }
+  ]
+}

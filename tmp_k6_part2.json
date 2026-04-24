@@ -1,0 +1,1389 @@
+{
+  "ai_k6_t2_1": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was war das Vorbild für künstliche neurale Netze?",
+        "hu": "Mi volt a minta a mesterséges neurális hálózatokhoz?",
+        "ro": "Ce a servit drept model pentru rețelele neuronale artificiale?",
+        "en": "What was the model for artificial neural networks?"
+      },
+      "options": {
+        "de": ["Das menschliche Gehirn", "Ein Taschenrechner", "Ein Auto-Motor", "Ein Kochrezept"],
+        "hu": ["Az emberi agy", "Egy számológép", "Egy autó motorja", "Egy főzési recept"],
+        "ro": ["Creierul uman", "Un calculator", "Un motor de mașină", "O rețetă de gătit"],
+        "en": ["The human brain", "A calculator", "A car engine", "A cooking recipe"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist ein neurales Netz ein echtes biologisches Gehirn?",
+        "hu": "A neurális hálózat egy igazi biológiai agy?",
+        "ro": "Este o rețea neuronală un creier biologic real?",
+        "en": "Is a neural network a real biological brain?"
+      },
+      "options": {
+        "de": ["Nein, es ist ein mathematisches Modell", "Ja, es besteht aus Zellen", "Nur wenn es im Roboter ist", "Ja, es kann schlafen"],
+        "hu": ["Nem, ez egy matematikai modell", "Igen, sejtekből áll", "Csak ha robotban van", "Igen, tud aludni"],
+        "ro": ["Nu, este un model matematic", "Da, este format din celule", "Doar dacă este într-un robot", "Da, poate dormi"],
+        "en": ["No, it is a mathematical model", "Yes, it consists of cells", "Only if it is in a robot", "Yes, it can sleep"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Woraus besteht ein künstliches neurales Netz?",
+        "hu": "Miből áll egy mesterséges neurális hálózat?",
+        "ro": "Din ce este formată o rețea neuronală artificială?",
+        "en": "What is an artificial neural network made of?"
+      },
+      "options": {
+        "de": ["Künstliche Neuronen und Verbindungen", "Metallstangen", "Wassertropfen", "Papierseiten"],
+        "hu": ["Mesterséges neuronokból és kapcsolatokból", "Fémrudakból", "Vízcseppekből", "Papírlapokból"],
+        "ro": ["Neuroni artificiali și conexiuni", "Bare de metal", "Picături de apă", "Pagini de hârtie"],
+        "en": ["Artificial neurons and connections", "Metal bars", "Water drops", "Paper pages"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was machen die Verbindungen im Netz?",
+        "hu": "Mit csinálnak a kapcsolatok a hálózatban?",
+        "ro": "Ce fac conexiunile în rețea?",
+        "en": "What do the connections in the network do?"
+      },
+      "options": {
+        "de": ["Informationen weiterleiten", "Strom sparen", "Bilder malen", "Musik abspielen"],
+        "hu": ["Információt továbbítanak", "Áramot spórolnak", "Képeket festenek", "Zenét játszanak le"],
+        "ro": ["Transmit informații", "Economisesc curent", "Pictează imagini", "Redau muzică"],
+        "en": ["Transmit information", "Save electricity", "Paint pictures", "Play music"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Grundeinheit eines neuralen Netzes?",
+        "hu": "Hogy hívják a neurális hálózat alapegységét?",
+        "ro": "Cum se numește unitatea de bază a unei rețele neuronale?",
+        "en": "What is the basic unit of a neural network called?"
+      },
+      "options": {
+        "de": ["Neuron (oder Knoten)", "Pixel", "Kabel", "Taste"],
+        "hu": ["Neuron (vagy csomópont)", "Pixel", "Kábel", "Gomb"],
+        "ro": ["Neuron (sau nod)", "Pixel", "Cablu", "Tastă"],
+        "en": ["Neuron (or node)", "Pixel", "Cable", "Key"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können neurale Netze aus Fehlern lernen?",
+        "hu": "Képesek a neurális hálózatok tanulni a hibákból?",
+        "ro": "Pot rețelele neuronale să învețe din greșeli?",
+        "en": "Can neural networks learn from mistakes?"
+      },
+      "options": {
+        "de": ["Ja, durch Training", "Nein, sie sind sofort perfekt", "Nur wenn man sie schüttelt", "Nur wenn das Internet schnell ist"],
+        "hu": ["Igen, gyakorlás (tréning) által", "Nem, azonnal tökéletesek", "Csak ha megrázzuk őket", "Csak ha gyors az internet"],
+        "ro": ["Da, prin antrenament", "Nu, sunt perfecte imediat", "Doar dacă le scuturi", "Doar dacă internetul este rapid"],
+        "en": ["Yes, through training", "No, they are perfect immediately", "Only if you shake them", "Only if the internet is fast"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert mit den Verbindungen beim Lernen?",
+        "hu": "Mi történik a kapcsolatokkal tanulás közben?",
+        "ro": "Ce se întâmplă cu conexiunile în timpul învățării?",
+        "en": "What happens to the connections during learning?"
+      },
+      "options": {
+        "de": ["Ihre Stärke (Gewichtung) ändert sich", "Sie werden alle gelöscht", "Sie werden bunt", "Sie fangen an zu vibrieren"],
+        "hu": ["Változik az erősségük (súlyozásuk)", "Mind törlődik", "Színesek lesznek", "Rezegni kezdenek"],
+        "ro": ["Puterea lor (ponderea) se modifică", "Sunt toate șterse", "Devin colorate", "Încep să vibreze"],
+        "en": ["Their strength (weighting) changes", "They are all deleted", "They become colorful", "They start to vibrate"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür sind neurale Netze besonders gut?",
+        "hu": "Mire különösen jók a neurális hálózatok?",
+        "ro": "La ce sunt bune în mod special rețelele neuronale?",
+        "en": "What are neural networks particularly good at?"
+      },
+      "options": {
+        "de": ["Mustererkennung (z.B. Gesichter)", "Kaffee kochen", "Wäsche waschen", "Hausaufgaben abschreiben"],
+        "hu": ["Mintafelismerés (pl. arcok)", "Kávéfőzés", "Ruhamosás", "Házi feladat másolás"],
+        "ro": ["Recunoașterea tiparelor (ex. fețe)", "Prepararea cafelei", "Spălarea rufelor", "Copierea temelor"],
+        "en": ["Pattern recognition (e.g. faces)", "Making coffee", "Washing laundry", "Copying homework"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Sind alle Neuronen in einem Netz miteinander verbunden?",
+        "hu": "Minden neuron össze van kötve egymással a hálózatban?",
+        "ro": "Sunt toți neuronii dintr-o rețea conectați între ei?",
+        "en": "Are all neurons in a network connected to each other?"
+      },
+      "options": {
+        "de": ["Oft nur mit Neuronen in benachbarten Schichten", "Ja, immer jeder mit jedem", "Nein, keins ist verbunden", "Nur am Montag"],
+        "hu": ["Gyakran csak a szomszédos rétegek neuronjaival", "Igen, mindenki mindenkivel", "Nem, egyik sincs összekötve", "Csak hétfőn"],
+        "ro": ["Adesea doar cu neuronii din straturile adiacente", "Da, întotdeauna fiecare cu fiecare", "Nu, niciunul nu este conectat", "Doar lunea"],
+        "en": ["Often only with neurons in adjacent layers", "Yes, always everyone with everyone", "No, none are connected", "Only on Mondays"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer hat die Idee der neuralen Netze erfunden?",
+        "hu": "Ki találta ki a neurális hálózatok ötletét?",
+        "ro": "Cine a inventat ideea rețelelor neuronale?",
+        "en": "Who came up with the idea of neural networks?"
+      },
+      "options": {
+        "de": ["Wissenschaftler (schon vor Jahrzehnten)", "Ein Schulkind letztes Jahr", "Ein Roboter aus der Zukunft", "Niemand, es war ein Zufall"],
+        "hu": ["Tudósok (már évtizedekkel ezelőtt)", "Egy iskolás gyerek tavaly", "Egy robot a jövőből", "Senki, véletlen volt"],
+        "ro": ["Oamenii de știință (acum câteva decenii)", "Un școlar anul trecut", "Un robot din viitor", "Nimeni, a fost o coincidență"],
+        "en": ["Scientists (decades ago)", "A school child last year", "A robot from the future", "Nobody, it was a coincidence"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das biologische Vorbild der KI-Netze?",
+        "hu": "Mi a biológiai mintája a MI hálózatoknak?",
+        "ro": "Care este modelul biologic al rețelelor IA?",
+        "en": "What is the biological model for AI networks?"
+      },
+      "answer": {
+        "de": "Gehirn",
+        "hu": "agy",
+        "ro": "creier",
+        "en": "brain"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man ein einzelnes Element im Netz?",
+        "hu": "Hogy hívják a hálózat egyetlen elemét?",
+        "ro": "Cum se numește un singur element din rețea?",
+        "en": "What is a single element in the network called?"
+      },
+      "answer": {
+        "de": "Neuron",
+        "hu": "neuron",
+        "ro": "neuron",
+        "en": "neuron"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Ein künstliches ... Netz?",
+        "hu": "Mesterséges ... hálózat?",
+        "ro": "O rețea ... artificială?",
+        "en": "An artificial ... network?"
+      },
+      "answer": {
+        "de": "neurales",
+        "hu": "neurális",
+        "ro": "neuronală",
+        "en": "neural"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird zwischen den Neuronen übertragen?",
+        "hu": "Mi továbbítódik a neuronok között?",
+        "ro": "Ce se transmite între neuroni?",
+        "en": "What is transmitted between neurons?"
+      },
+      "answer": {
+        "de": "Information",
+        "hu": "információ",
+        "ro": "informație",
+        "en": "information"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wodurch lernen neurale Netze?",
+        "hu": "Mi által tanulnak a neurális hálózatok?",
+        "ro": "Prin ce învață rețelele neuronale?",
+        "en": "How do neural networks learn?"
+      },
+      "answer": {
+        "de": "Training",
+        "hu": "tanítás",
+        "ro": "antrenament",
+        "en": "training"
+      }
+    }
+  ],
+  "ai_k6_t2_2": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der 'Input' eines Neurons?",
+        "hu": "Mi a neuron 'bemenete' (input)?",
+        "ro": "Ce este „intrarea” (input) unui neuron?",
+        "en": "What is the 'input' of a neuron?"
+      },
+      "options": {
+        "de": ["Daten, die das Neuron empfängt", "Die Antwort des Neurons", "Die Farbe des Neurons", "Der Name des Computers"],
+        "hu": ["Adatok, amiket a neuron kap", "A neuron válasza", "A neuron színe", "A számítógép neve"],
+        "ro": ["Datele pe care le primește neuronul", "Răspunsul neuronului", "Culoarea neuronului", "Numele computerului"],
+        "en": ["Data that the neuron receives", "The neuron's response", "The neuron's color", "The computer's name"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der 'Output' eines Neurons?",
+        "hu": "Mi a neuron 'kimenete' (output)?",
+        "ro": "Ce este „ieșirea” (output) unui neuron?",
+        "en": "What is the 'output' of a neuron?"
+      },
+      "options": {
+        "de": ["Das Ergebnis oder Signal, das es sendet", "Die Daten, die es bekommt", "Der Stromanschluss", "Ein kaputtes Kabel"],
+        "hu": ["Az eredmény vagy jel, amit küld", "Az adatok, amiket kap", "Az áramcsatlakozó", "Egy szakadt kábel"],
+        "ro": ["Rezultatul sau semnalul pe care îl trimite", "Datele pe care le primește", "Conexiunea la curent", "Un cablu rupt"],
+        "en": ["The result or signal it sends", "The data it receives", "The power connection", "A broken cable"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Gewichtung' (Weight)?",
+        "hu": "Mit jelent a 'súlyozás' (weight)?",
+        "ro": "Ce înseamnă „ponderea” (weight)?",
+        "en": "What does 'weighting' (weight) mean?"
+      },
+      "options": {
+        "de": ["Wie wichtig ein bestimmter Input ist", "Wie schwer der Computer ist", "Die Anzahl der Neuronen", "Wie viel Strom verbraucht wird"],
+        "hu": ["Mennyire fontos egy adott bemenet", "Milyen nehéz a számítógép", "A neuronok száma", "Mennyi áram fogy"],
+        "ro": ["Cât de importantă este o anumită intrare", "Cât de greu este computerul", "Numărul de neuroni", "Cât curent se consumă"],
+        "en": ["How important a specific input is", "How heavy the computer is", "The number of neurons", "How much power is used"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht ein Neuron mit seinen Inputs?",
+        "hu": "Mit csinál a neuron a bemeneteivel?",
+        "ro": "Ce face un neuron cu intrările sale?",
+        "en": "What does a neuron do with its inputs?"
+      },
+      "options": {
+        "de": ["Es berechnet daraus einen Wert", "Es löscht sie sofort", "Es speichert sie in einer Cloud", "Es schickt sie an den Drucker"],
+        "hu": ["Kiszámol belőlük egy értéket", "Azonnal törli őket", "Elmenti egy felhőbe", "Elküldi a nyomtatónak"],
+        "ro": ["Calculează o valoare din ele", "Le șterge imediat", "Le salvează într-un cloud", "Le trimite la imprimantă"],
+        "en": ["It calculates a value from them", "It deletes them immediately", "It saves them in a cloud", "It sends them to the printer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Schwellenwert' (Threshold)?",
+        "hu": "Mi az a 'küszöbérték' (threshold)?",
+        "ro": "Ce este un „prag” (threshold)?",
+        "en": "What is a 'threshold'?"
+      },
+      "options": {
+        "de": ["Ein Wert, den das Signal erreichen muss, um aktiv zu werden", "Die maximale Anzahl an Neuronen", "Der Preis für eine KI", "Die Raumtemperatur"],
+        "hu": ["Egy érték, amit a jelnek el kell érnie az aktiválódáshoz", "A neuronok maximális száma", "A MI ára", "A szobahőmérséklet"],
+        "ro": ["O valoare pe care semnalul trebuie să o atingă pentru a deveni activ", "Numărul maxim de neuroni", "Prețul pentru o IA", "Temperatura camerei"],
+        "en": ["A value the signal must reach to become active", "The maximum number of neurons", "The price for an AI", "The room temperature"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie viele Outputs hat ein einzelnes Neuron normalerweise?",
+        "hu": "Hány kimenete van általában egyetlen neuronnak?",
+        "ro": "Câte ieșiri are de obicei un singur neuron?",
+        "en": "How many outputs does a single neuron usually have?"
+      },
+      "options": {
+        "de": ["Einen (der an viele andere gehen kann)", "Genau einhundert", "Immer null", "Tausende verschiedene"],
+        "hu": ["Egyet (ami sok máshoz mehet)", "Pontosan százat", "Mindig nullát", "Több ezret"],
+        "ro": ["Una (care poate merge la mulți alții)", "Exact o sută", "Întotdeauna zero", "Mii de ieșiri diferite"],
+        "en": ["One (which can go to many others)", "Exactly one hundred", "Always zero", "Thousands of different ones"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann ein Neuron mehrere Inputs haben?",
+        "hu": "Lehet egy neuronnak több bemenete?",
+        "ro": "Poate un neuron să aibă mai multe intrări?",
+        "en": "Can a neuron have multiple inputs?"
+      },
+      "options": {
+        "de": ["Ja, oft sehr viele", "Nein, immer nur einen", "Nur wenn es regnet", "Nur bei teuren Computern"],
+        "hu": ["Igen, gyakran nagyon sok", "Nem, mindig csak egy", "Csak ha esik az eső", "Csak drága gépeknél"],
+        "ro": ["Da, adesea foarte multe", "Nu, întotdeauna doar una", "Doar dacă plouă", "Doar la computere scumpe"],
+        "en": ["Yes, often very many", "No, always only one", "Only if it rains", "Only on expensive computers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert, wenn die Gewichtung Null ist?",
+        "hu": "Mi történik, ha a súlyozás nulla?",
+        "ro": "Ce se întâmplă dacă ponderea este zero?",
+        "en": "What happens if the weight is zero?"
+      },
+      "options": {
+        "de": ["Dieser Input wird ignoriert", "Der Computer explodiert", "Das Neuron wird doppelt so schnell", "Alles wird gelöscht"],
+        "hu": ["A bemenet figyelmen kívül marad", "A számítógép felrobban", "A neuron kétszer gyorsabb lesz", "Minden törlődik"],
+        "ro": ["Acea intrare este ignorată", "Computerul explodează", "Neuronul devine de două ori mai rapid", "Totul se șterge"],
+        "en": ["That input is ignored", "The computer explodes", "The neuron becomes twice as fast", "Everything is deleted"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche mathematische Operation macht ein Neuron oft?",
+        "hu": "Milyen matematikai műveletet végez gyakran a neuron?",
+        "ro": "Ce operație matematică face adesea un neuron?",
+        "en": "What mathematical operation does a neuron often perform?"
+      },
+      "options": {
+        "de": ["Multiplikation von Input und Gewichtung", "Wurzelziehen aus dem Internet", "Division durch Null", "Gar keine"],
+        "hu": ["A bemenet és a súly szorzását", "Gyökvonást az internetből", "Nullával való osztást", "Semmilyet"],
+        "ro": ["Înmulțirea intrării cu ponderea", "Extragerea rădăcinii din internet", "Împărțirea la zero", "Niciuna"],
+        "en": ["Multiplication of input and weight", "Extracting roots from the internet", "Division by zero", "None at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Werden Gewichte automatisch angepasst?",
+        "hu": "A súlyok automatikusan módosulnak?",
+        "ro": "Ponderile se ajustează automat?",
+        "en": "Are weights adjusted automatically?"
+      },
+      "options": {
+        "de": ["Ja, während des Lernprozesses", "Nein, man muss sie mit der Hand eintippen", "Nur einmal pro Jahr", "Nur von Robotern"],
+        "hu": ["Igen, a tanulási folyamat során", "Nem, kézzel kell beírni őket", "Csak évente egyszer", "Csak robotok által"],
+        "ro": ["Da, în timpul procesului de învățare", "Nu, trebuie tastate manual", "Doar o dată pe an", "Doar de către roboți"],
+        "en": ["Yes, during the learning process", "No, you have to type them in by hand", "Only once a year", "Only by robots"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Daten, die hineingehen?",
+        "hu": "Adatok, amik bemennek?",
+        "ro": "Date care intră?",
+        "en": "Data that goes in?"
+      },
+      "answer": {
+        "de": "Input",
+        "hu": "input",
+        "ro": "input",
+        "en": "input"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Ergebnis, das herauskommt?",
+        "hu": "Eredmény, ami kijön?",
+        "ro": "Rezultatul care iese?",
+        "en": "Result that comes out?"
+      },
+      "answer": {
+        "de": "Output",
+        "hu": "output",
+        "ro": "output",
+        "en": "output"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wichtigkeit eines Signals?",
+        "hu": "Egy jel fontossága?",
+        "ro": "Importanța unui semnal?",
+        "en": "Importance of a signal?"
+      },
+      "answer": {
+        "de": "Gewichtung",
+        "hu": "súly",
+        "ro": "pondere",
+        "en": "weight"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was verarbeitet die Daten?",
+        "hu": "Mi dolgozza fel az adatokat?",
+        "ro": "Ce procesează datele?",
+        "en": "What processes the data?"
+      },
+      "answer": {
+        "de": "Neuron",
+        "hu": "neuron",
+        "ro": "neuron",
+        "en": "neuron"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Englisches Wort für Schwellenwert?",
+        "hu": "Angol szó a küszöbértékre?",
+        "ro": "Cuvântul englezesc pentru prag?",
+        "en": "English word for threshold?"
+      },
+      "answer": "Threshold"
+    }
+  ],
+  "ai_k6_t2_3": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind 'Schichten' (Layers) in einem neuralen Netz?",
+        "hu": "Mik azok a 'rétegek' (layers) egy neurális hálózatban?",
+        "ro": "Ce sunt „straturile” (layers) într-o rețea neuronală?",
+        "en": "What are 'layers' in a neural network?"
+      },
+      "options": {
+        "de": ["Gruppen von Neuronen", "Schichten einer Torte", "Verschiedene Computer", "Farben auf dem Bildschirm"],
+        "hu": ["Neuronok csoportjai", "Egy torta szeletei", "Különböző számítógépek", "Színek a képernyőn"],
+        "ro": ["Grupuri de neuroni", "Straturile unui tort", "Computere diferite", "Culori pe ecran"],
+        "en": ["Groups of neurons", "Layers of a cake", "Different computers", "Colors on the screen"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie heißt die erste Schicht im Netz?",
+        "hu": "Hogy hívják a hálózat első rétegét?",
+        "ro": "Cum se numește primul strat din rețea?",
+        "en": "What is the first layer in the network called?"
+      },
+      "options": {
+        "de": ["Eingabeschicht (Input Layer)", "Mittelschicht", "Endschicht", "Geheimschicht"],
+        "hu": ["Bemeneti réteg (Input Layer)", "Középső réteg", "Záró réteg", "Titkos réteg"],
+        "ro": ["Strat de intrare (Input Layer)", "Strat mijlociu", "Strat final", "Strat secret"],
+        "en": ["Input Layer", "Middle Layer", "Final Layer", "Secret Layer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie heißt die letzte Schicht im Netz?",
+        "hu": "Hogy hívják a hálózat utolsó rétegét?",
+        "ro": "Cum se numește ultimul strat din rețea?",
+        "en": "What is the last layer in the network called?"
+      },
+      "options": {
+        "de": ["Ausgabeschicht (Output Layer)", "Startschicht", "Warteschlange", "Boden"],
+        "hu": ["Kimeneti réteg (Output Layer)", "Kezdő réteg", "Várólista", "Padló"],
+        "ro": ["Strat de ieșire (Output Layer)", "Strat de început", "Listă de așteptare", "Podea"],
+        "en": ["Output Layer", "Starting Layer", "Waiting list", "Floor"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Schichten dazwischen?",
+        "hu": "Hogy hívják a köztes rétegeket?",
+        "ro": "Cum se numesc straturile intermediare?",
+        "en": "What are the layers in between called?"
+      },
+      "options": {
+        "de": ["Verborgene Schichten (Hidden Layers)", "Unsichtbare Mauern", "Leere Räume", "Ersatzschichten"],
+        "hu": ["Rejtett rétegek (Hidden Layers)", "Láthatatlan falak", "Üres terek", "Tartalék rétegek"],
+        "ro": ["Straturi ascunse (Hidden Layers)", "Ziduri invizibile", "Spații goale", "Straturi de rezervă"],
+        "en": ["Hidden Layers", "Invisible walls", "Empty spaces", "Spare layers"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert in den verborgenen Schichten?",
+        "hu": "Mi történik a rejtett rétegekben?",
+        "ro": "Ce se întâmplă în straturile ascunse?",
+        "en": "What happens in the hidden layers?"
+      },
+      "options": {
+        "de": ["Die eigentliche Verarbeitung und Merkmalserkennung", "Dort werden Daten gelöscht", "Dort schlafen die Neuronen", "Nichts, sie sind leer"],
+        "hu": ["A tényleges feldolgozás és jellemző-felismerés", "Ott törlődnek az adatok", "Ott alszanak a neuronok", "Semmi, azok üresek"],
+        "ro": ["Procesarea propriu-zisă și recunoașterea caracteristicilor", "Acolo se șterg datele", "Acolo dorm neuronii", "Nimic, sunt goale"],
+        "en": ["The actual processing and feature recognition", "Data is deleted there", "Neurons sleep there", "Nothing, they are empty"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann ein Netz mehr als eine verborgene Schicht haben?",
+        "hu": "Lehet a hálózatnak egynél több rejtett rétege?",
+        "ro": "Poate o rețea să aibă mai mult de un strat ascuns?",
+        "en": "Can a network have more than one hidden layer?"
+      },
+      "options": {
+        "de": ["Ja, oft sehr viele", "Nein, immer nur genau eine", "Nur wenn der Monitor groß ist", "Nur bei Internet-KIs"],
+        "hu": ["Igen, gyakran nagyon sok", "Nem, mindig csak pontosan egy", "Csak ha nagy a monitor", "Csak internetes MI-nél"],
+        "ro": ["Da, adesea foarte multe", "Nu, întotdeauna doar unul singur", "Doar dacă monitorul este mare", "Doar la IA-urile de pe internet"],
+        "en": ["Yes, often very many", "No, always exactly one", "Only if the monitor is large", "Only for internet AIs"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "In welche Richtung fließt die Information normalerweise beim Vorhersagen?",
+        "hu": "Melyik irányba áramlik az információ normál esetben jósláskor?",
+        "ro": "În ce direcție circulă informația în mod normal la predicție?",
+        "en": "In which direction does information usually flow during prediction?"
+      },
+      "options": {
+        "de": ["Von Input zu Output", "Von Output zu Input", "Im Kreis", "Von links oben nach rechts unten"],
+        "hu": ["A bemenettől a kimenet felé", "A kimenettől a bemenet felé", "Körbe-körbe", "Bal fentről jobb lefelé"],
+        "ro": ["De la intrare spre ieșire", "De la ieșire spre intrare", "În cerc", "Din stânga sus spre dreapta jos"],
+        "en": ["From input to output", "From output to input", "In circles", "From top left to bottom right"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie viele Neuronen sind in einer Schicht?",
+        "hu": "Hány neuron van egy rétegben?",
+        "ro": "Câți neuroni sunt într-un strat?",
+        "en": "How many neurons are in a layer?"
+      },
+      "options": {
+        "de": ["Unterschiedlich viele, je nach Aufgabe", "Immer genau zehn", "Immer so viele wie Pixel auf dem Bild", "Keine"],
+        "hu": ["Változó, a feladattól függ", "Mindig pontosan tíz", "Mindig annyi, ahány pixel a képen", "Egy sem"],
+        "ro": ["Diferit, depinde de sarcină", "Întotdeauna exact zece", "Întotdeauna câți pixeli sunt pe imagine", "Niciunul"],
+        "en": ["It varies, depending on the task", "Always exactly ten", "Always as many as pixels in the image", "None"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert, wenn man mehr Schichten hinzufügt?",
+        "hu": "Mi történik, ha több réteget adunk hozzá?",
+        "ro": "Ce se întâmplă dacă adăugăm mai multe straturi?",
+        "en": "What happens when you add more layers?"
+      },
+      "options": {
+        "de": ["Das Netz kann komplexere Dinge lernen", "Der Computer wird schwerer", "Das Bild wird bunter", "Nichts ändert sich"],
+        "hu": ["A hálózat összetettebb dolgokat tud tanulni", "Nehezebb lesz a számítógép", "Színesebb lesz a kép", "Semmi nem változik"],
+        "ro": ["Rețeaua poate învăța lucruri mai complexe", "Computerul devine mai greu", "Imaginea devine mai colorată", "Nimic nu se schimbă"],
+        "en": ["The network can learn more complex things", "The computer gets heavier", "The image gets more colorful", "Nothing changes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Deep Learning?",
+        "hu": "Mi az a Deep Learning?",
+        "ro": "Ce este Deep Learning?",
+        "en": "What is Deep Learning?"
+      },
+      "options": {
+        "de": ["Neurale Netze mit sehr vielen Schichten", "Unterwasser-Forschung", "Ein tiefes Loch im Boden", "Ein altes Buch"],
+        "hu": ["Neurális hálózatok nagyon sok réteggel", "Víz alatti kutatás", "Egy mély lyuk a földben", "Egy régi könyv"],
+        "ro": ["Rețele neuronale cu foarte multe straturi", "Cercetare subacvatică", "O groapă adâncă în pământ", "O carte veche"],
+        "en": ["Neural networks with very many layers", "Underwater research", "A deep hole in the ground", "An old book"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man eine Gruppe von Neuronen?",
+        "hu": "Hogy hívják a neuronok egy csoportját?",
+        "ro": "Cum se numește un grup de neuroni?",
+        "en": "What is a group of neurons called?"
+      },
+      "answer": {
+        "de": "Schicht",
+        "hu": "réteg",
+        "ro": "strat",
+        "en": "layer"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Erste Schicht?",
+        "hu": "Első réteg?",
+        "ro": "Primul strat?",
+        "en": "First layer?"
+      },
+      "answer": {
+        "de": "Eingabe",
+        "hu": "bemeneti",
+        "ro": "intrare",
+        "en": "input"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Letzte Schicht?",
+        "hu": "Utolsó réteg?",
+        "ro": "Ultimul strat?",
+        "en": "Last layer?"
+      },
+      "answer": {
+        "de": "Ausgabe",
+        "hu": "kimeneti",
+        "ro": "ieșire",
+        "en": "output"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Schichten in der Mitte?",
+        "hu": "Középső rétegek?",
+        "ro": "Straturile din mijloc?",
+        "en": "Layers in the middle?"
+      },
+      "answer": {
+        "de": "Verborgene",
+        "hu": "rejtett",
+        "ro": "ascunse",
+        "en": "hidden"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Deep Learning nutzt viele ...?",
+        "hu": "A Deep Learning sok ...-et használ?",
+        "ro": "Deep Learning folosește multe ...?",
+        "en": "Deep Learning uses many ...?"
+      },
+      "answer": {
+        "de": "Schichten",
+        "hu": "réteget",
+        "ro": "straturi",
+        "en": "layers"
+      }
+    }
+  ],
+  "ai_k6_t2_4": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Backpropagation'?",
+        "hu": "Mit jelent a 'Backpropagation'?",
+        "ro": "Ce înseamnă „Backpropagation”?",
+        "en": "What does 'Backpropagation' mean?"
+      },
+      "options": {
+        "de": ["Fehler zurückgeben, um zu lernen", "Den Computer ausschalten", "Bilder nach hinten schieben", "Internet-Verbindung prüfen"],
+        "hu": ["Hiba visszaküldése a tanuláshoz", "A számítógép kikapcsolása", "Képek hátratolása", "Internetkapcsolat ellenőrzése"],
+        "ro": ["Returnarea erorii pentru a învăța", "Oprirea computerului", "Împingerea imaginilor înapoi", "Verificarea conexiunii la internet"],
+        "en": ["Passing back the error to learn", "Turning off the computer", "Pushing images back", "Checking internet connection"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wann wird Backpropagation genutzt?",
+        "hu": "Mikor használják a Backpropagationt?",
+        "ro": "Când se folosește Backpropagation?",
+        "en": "When is backpropagation used?"
+      },
+      "options": {
+        "de": ["Beim Training des Netzes", "Beim Anschauen von Videos", "Beim Ausdrucken von Fotos", "Nur beim Starten"],
+        "hu": ["A hálózat tanításakor", "Videónézés közben", "Fotók nyomtatásakor", "Csak indításkor"],
+        "ro": ["La antrenarea rețelei", "În timp ce vizionăm videoclipuri", "La imprimarea fotografiilor", "Doar la pornire"],
+        "en": ["During network training", "While watching videos", "When printing photos", "Only at startup"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was wird bei Backpropagation berechnet?",
+        "hu": "Mit számolnak ki a Backpropagation során?",
+        "ro": "Ce se calculează în timpul Backpropagation?",
+        "en": "What is calculated during backpropagation?"
+      },
+      "options": {
+        "de": ["Der Unterschied zwischen Vorhersage und echtem Label", "Die Geschwindigkeit der Maus", "Der Kontrast des Monitors", "Die Anzahl der Tasten"],
+        "hu": ["A különbség a jóslat és a valódi címke között", "Az egér sebessége", "A monitor kontrasztja", "A billentyűk száma"],
+        "ro": ["Diferența dintre predicție și eticheta reală", "Viteza mouse-ului", "Contrastul monitorului", "Numărul de taste"],
+        "en": ["The difference between prediction and real label", "The mouse speed", "The monitor contrast", "The number of keys"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "In welche Richtung geht der Fehler beim Backpropagation?",
+        "hu": "Melyik irányba halad a hiba a Backpropagationnél?",
+        "ro": "În ce direcție merge eroarea la Backpropagation?",
+        "en": "In which direction does the error go during backpropagation?"
+      },
+      "options": {
+        "de": ["Von hinten nach vorne (Output zu Input)", "Von vorne nach hinten", "Gar nicht", "Nach oben"],
+        "hu": ["Hátulról előre (kimenettől a bemenet felé)", "Elölről hátra", "Sehova", "Felfelé"],
+        "ro": ["Din spate în față (de la ieșire la intrare)", "Din față în spate", "Deloc", "În sus"],
+        "en": ["From back to front (output to input)", "From front to back", "Not at all", "Upwards"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert mit den Gewichten nach dem Backpropagation?",
+        "hu": "Mi történik a súlyokkal a Backpropagation után?",
+        "ro": "Ce se întâmplă cu ponderile după Backpropagation?",
+        "en": "What happens to the weights after backpropagation?"
+      },
+      "options": {
+        "de": ["Sie werden angepasst, um den Fehler zu verkleinern", "Sie werden alle auf Null gesetzt", "Sie bleiben immer gleich", "Sie werden gelöscht"],
+        "hu": ["Módosulnak, hogy kisebb legyen a hiba", "Mind nullára állítódik", "Mindig ugyanazok maradnak", "Törlődnek"],
+        "ro": ["Sunt ajustate pentru a reduce eroarea", "Sunt toate setate la zero", "Rămân întotdeauna la fel", "Sunt șterse"],
+        "en": ["They are adjusted to reduce the error", "They are all set to zero", "They always stay the same", "They are deleted"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Ziel von Backpropagation?",
+        "hu": "Mi a célja a Backpropagationnek?",
+        "ro": "Care este scopul Backpropagation?",
+        "en": "What is the goal of backpropagation?"
+      },
+      "options": {
+        "de": ["Den Fehler des Modells zu minimieren", "Das Internet schneller zu machen", "Strom zu sparen", "Bilder zu vergrößern"],
+        "hu": ["A modell hibájának minimalizálása", "Az internet gyorsítása", "Áramspórolás", "Képek nagyítása"],
+        "ro": ["Minimizarea erorii modelului", "Accelerarea internetului", "Economisirea curentului", "Mărirea imaginilor"],
+        "en": ["To minimize the model's error", "To make the internet faster", "To save power", "To enlarge images"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer 'lernt' eigentlich durch Backpropagation?",
+        "hu": "Ki 'tanul' tulajdonképpen a Backpropagation által?",
+        "ro": "Cine „învață” de fapt prin Backpropagation?",
+        "en": "Who actually 'learns' through backpropagation?"
+      },
+      "options": {
+        "de": ["Das neurale Netz", "Der Benutzer", "Die Tastatur", "Der Stromzähler"],
+        "hu": ["A neurális hálózat", "A felhasználó", "A billentyűzet", "A villanyóra"],
+        "ro": ["Rețeaua neuronală", "Utilizatorul", "Tastatura", "Contorul de curent"],
+        "en": ["The neural network", "The user", "The keyboard", "The electric meter"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie oft wird Backpropagation durchgeführt?",
+        "hu": "Hányszor végzik el a Backpropagationt?",
+        "ro": "De câte ori se efectuează Backpropagation?",
+        "en": "How often is backpropagation performed?"
+      },
+      "options": {
+        "de": ["Viele tausend Male während des Trainings", "Nur ein einziges Mal", "Jeden Sonntag", "Nur wenn der Computer piept"],
+        "hu": ["Sok ezerszer a tanítás során", "Csak egyszer", "Minden vasárnap", "Csak ha csipog a gép"],
+        "ro": ["De multe mii de ori în timpul antrenamentului", "O singură dată", "În fiecare duminică", "Doar dacă bipăie computerul"],
+        "en": ["Many thousands of times during training", "Only once", "Every Sunday", "Only if the computer beeps"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum heißt es 'Back' (Zurück)?",
+        "hu": "Miért hívják 'Back'-nek (vissza)?",
+        "ro": "De ce se numește „Back” (înapoi)?",
+        "en": "Why is it called 'Back'?"
+      },
+      "options": {
+        "de": ["Weil die Korrektur vom Ende zum Anfang geht", "Weil man zurücktreten muss", "Weil es eine alte Methode ist", "Weil es im Hintergrund läuft"],
+        "hu": ["Mert a javítás a végétől az eleje felé halad", "Mert hátra kell lépni", "Mert ez egy régi módszer", "Mert a háttérben fut"],
+        "ro": ["Pentru că corecția merge de la sfârșit spre început", "Pentru că trebuie să facem un pas înapoi", "Pentru că este o metodă veche", "Pentru că rulează în fundal"],
+        "en": ["Because the correction goes from the end to the start", "Because you have to step back", "Because it's an old method", "Because it runs in the background"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Backpropagation schwer für einen Computer?",
+        "hu": "Nehéz a Backpropagation egy számítógépnek?",
+        "ro": "Este Backpropagation dificil pentru un computer?",
+        "en": "Is backpropagation hard for a computer?"
+      },
+      "options": {
+        "de": ["Es braucht viel Rechenpower", "Nein, es ist wie 1+1", "Es geht nur auf dem Handy", "Es braucht kein Strom"],
+        "hu": ["Sok számítási teljesítményt igényel", "Nem, olyan mint az 1+1", "Csak mobiltelefonon megy", "Nem kell hozzá áram"],
+        "ro": ["Necesită multă putere de calcul", "Nu, e ca 1+1", "Merge doar pe telefon", "Nu are nevoie de curent"],
+        "en": ["It requires a lot of computing power", "No, it's like 1+1", "It only works on mobile phones", "It doesn't need power"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Fehler zurückgeben?",
+        "hu": "Hiba visszaküldése?",
+        "ro": "Returnarea erorii?",
+        "en": "Giving back the error?"
+      },
+      "answer": "Backpropagation"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird minimiert?",
+        "hu": "Mit minimalizálunk?",
+        "ro": "Ce se minimizează?",
+        "en": "What is minimized?"
+      },
+      "answer": {
+        "de": "Fehler",
+        "hu": "hiba",
+        "ro": "eroare",
+        "en": "error"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was wird angepasst?",
+        "hu": "Miket módosítunk?",
+        "ro": "Ce se ajustează?",
+        "en": "What is adjusted?"
+      },
+      "answer": {
+        "de": "Gewichte",
+        "hu": "súlyok",
+        "ro": "ponderi",
+        "en": "weights"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Es ist ein ...-Algorithmus?",
+        "hu": "Ez egy ...-algoritmus?",
+        "ro": "Este un algoritm de ...?",
+        "en": "It is a ... algorithm?"
+      },
+      "answer": {
+        "de": "Lern",
+        "hu": "tanulási",
+        "ro": "învățare",
+        "en": "learning"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Vom Output zum ...?",
+        "hu": "A kimenettől a ... felé?",
+        "ro": "De la ieșire spre ...?",
+        "en": "From output to ...?"
+      },
+      "answer": {
+        "de": "Input",
+        "hu": "input",
+        "ro": "input",
+        "en": "input"
+      }
+    }
+  ],
+  "ai_k6_t2_5": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Deep Learning?",
+        "hu": "Mi az a Deep Learning?",
+        "ro": "Ce este Deep Learning?",
+        "en": "What is Deep Learning?"
+      },
+      "options": {
+        "de": ["KI mit vielen Schichten", "Ein Spiel", "Ein tiefes Meer", "Ein Buch über Fische"],
+        "hu": ["MI sok réteggel", "Egy játék", "Egy mély tenger", "Egy könyv a halakról"],
+        "ro": ["IA cu multe straturi", "Un joc", "O mare adâncă", "O carte despre pești"],
+        "en": ["AI with many layers", "A game", "A deep sea", "A book about fish"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was braucht Deep Learning besonders viel?",
+        "hu": "Miből igényel a Deep Learning különösen sokat?",
+        "ro": "De ce are nevoie Deep Learning în mod special?",
+        "en": "What does Deep Learning need a lot of?"
+      },
+      "options": {
+        "de": ["Daten und Rechenpower", "Wasser", "Papier", "Bleistifte"],
+        "hu": ["Adatokat és számítási teljesítményt", "Vizet", "Papírt", "Ceruzát"],
+        "ro": ["Date și putere de calcul", "Apă", "Hârtie", "Creioane"],
+        "en": ["Data and computing power", "Water", "Paper", "Pencils"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann Deep Learning Gesichter erkennen?",
+        "hu": "Képes a Deep Learning arcokat felismerni?",
+        "ro": "Poate Deep Learning să recunoască fețe?",
+        "en": "Can Deep Learning recognize faces?"
+      },
+      "options": {
+        "de": ["Ja, sehr gut", "Nein, niemals", "Nur bei Zeichnungen", "Nur im Spiegel"],
+        "hu": ["Igen, nagyon jól", "Nem, soha", "Csak rajzokon", "Csak a tükörben"],
+        "ro": ["Da, foarte bine", "Nu, niciodată", "Doar la desene", "Doar în oglindă"],
+        "en": ["Yes, very well", "No, never", "Only in drawings", "Only in the mirror"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet das Wort 'Deep'?",
+        "hu": "Mit jelent a 'Deep' szó?",
+        "ro": "Ce înseamnă cuvântul „Deep”?",
+        "en": "What does the word 'Deep' mean?"
+      },
+      "options": {
+        "de": ["Tief (viele Schichten)", "Dunkel", "Schwer", "Teuer"],
+        "hu": ["Mély (sok réteg)", "Sötét", "Nehéz", "Drága"],
+        "ro": ["Adânc (multe straturi)", "Întunecat", "Greu", "Scump"],
+        "en": ["Deep (many layers)", "Dark", "Heavy", "Expensive"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist Deep Learning Teil von Machine Learning?",
+        "hu": "A Deep Learning a Machine Learning része?",
+        "ro": "Este Deep Learning parte din Machine Learning?",
+        "en": "Is Deep Learning part of Machine Learning?"
+      },
+      "options": {
+        "de": ["Ja", "Nein", "Es ist genau umgekehrt", "Nur bei Robotern"],
+        "hu": ["Igen", "Nem", "Pont fordítva van", "Csak robotoknál"],
+        "ro": ["Da", "Nu", "Este exact invers", "Doar la roboți"],
+        "en": ["Yes", "No", "It's exactly the opposite", "Only for robots"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was kann Deep Learning besser als einfache KI?",
+        "hu": "Miben jobb a Deep Learning a sima MI-nél?",
+        "ro": "La ce este mai bun Deep Learning decât IA simplă?",
+        "en": "What can Deep Learning do better than simple AI?"
+      },
+      "options": {
+        "de": ["Komplexe Muster in Bildern und Sprache finden", "Schneller ausschalten", "Witze erzählen", "Wandern gehen"],
+        "hu": ["Összetett minták keresése képekben és beszédben", "Gyorsabban kikapcsolni", "Viccet mesélni", "Túrázni menni"],
+        "ro": ["Găsirea tiparelor complexe în imagini și vorbire", "Oprirea mai rapidă", "Spunerea de glume", "Mersul în drumeții"],
+        "en": ["Finding complex patterns in images and speech", "Turning off faster", "Telling jokes", "Going for a hike"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Nutzen Smartphones Deep Learning?",
+        "hu": "Használnak az okostelefonok Deep Learninget?",
+        "ro": "Folosesc smartphone-urile Deep Learning?",
+        "en": "Do smartphones use Deep Learning?"
+      },
+      "options": {
+        "de": ["Ja, für Kameras und Sprache", "Nein, sie sind zu klein", "Nur wenn sie am Strom hängen", "Nur in der Schule"],
+        "hu": ["Igen, a kamerákhoz és a beszédhez", "Nem, túl kicsik hozzá", "Csak ha töltőn vannak", "Csak az iskolában"],
+        "ro": ["Da, pentru camere și vorbire", "Nu, sunt prea mici", "Doar dacă sunt la încărcat", "Doar la școală"],
+        "en": ["Yes, for cameras and speech", "No, they are too small", "Only when plugged in", "Only at school"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie lernt Deep Learning?",
+        "hu": "Hogyan tanul a Deep Learning?",
+        "ro": "Cum învață Deep Learning?",
+        "en": "How does Deep Learning learn?"
+      },
+      "options": {
+        "de": ["Durch viele Beispiele (Daten)", "Indem es Bücher liest", "Gar nicht", "Durch Magie"],
+        "hu": ["Sok példán (adaton) keresztül", "Könyvolvasással", "Sehogy", "Mágiával"],
+        "ro": ["Prin multe exemple (date)", "Citind cărți", "Deloc", "Prin magie"],
+        "en": ["Through many examples (data)", "By reading books", "Not at all", "Through magic"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Hardware ist gut für Deep Learning?",
+        "hu": "Milyen hardver jó a Deep Learninghez?",
+        "ro": "Ce hardware este bun pentru Deep Learning?",
+        "en": "What hardware is good for Deep Learning?"
+      },
+      "options": {
+        "de": ["Grafikkarten (GPU)", "Drucker", "Mauspad", "Lautsprecher"],
+        "hu": ["Grafikus kártyák (GPU)", "Nyomtató", "Egérpad", "Hangszóró"],
+        "ro": ["Plăci grafice (GPU)", "Imprimantă", "Mousepad", "Difuzor"],
+        "en": ["Graphics cards (GPU)", "Printer", "Mousepad", "Speaker"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Deep Learning Modelle 'denken'?",
+        "hu": "Tudnak a Deep Learning modellek 'gondolkodni'?",
+        "ro": "Pot modelele Deep Learning să „gândească”?",
+        "en": "Can Deep Learning models 'think'?"
+      },
+      "options": {
+        "de": ["Nein, sie berechnen nur Wahrscheinlichkeiten", "Ja, genau wie Menschen", "Nur wenn sie einen Namen haben", "Nur im Schlaf"],
+        "hu": ["Nem, csak valószínűségeket számolnak", "Igen, pontosan úgy, mint az emberek", "Csak ha van nevük", "Csak álmukban"],
+        "ro": ["Nu, doar calculează probabilități", "Da, exact ca oamenii", "Doar dacă au un nume", "Doar în somn"],
+        "en": ["No, they only calculate probabilities", "Yes, exactly like humans", "Only if they have a name", "Only while sleeping"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Deep ...?",
+        "hu": "Deep ...?",
+        "ro": "Deep ...?",
+        "en": "Deep ...?"
+      },
+      "answer": "Learning"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was bedeutet 'Deep'?",
+        "hu": "Mit jelent a 'Deep' magyarul?",
+        "ro": "Ce înseamnă „Deep”?",
+        "en": "What does 'Deep' mean?"
+      },
+      "answer": {
+        "de": "Tief",
+        "hu": "mély",
+        "ro": "adânc",
+        "en": "deep"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Abkürzung für Grafikkarten?",
+        "hu": "Grafikus kártyák rövidítése?",
+        "ro": "Abrevierea pentru plăci grafice?",
+        "en": "Abbreviation for graphics cards?"
+      },
+      "answer": "GPU"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Deep Learning nutzt viele ...?",
+        "hu": "A Deep Learning sok ...-et használ?",
+        "ro": "Deep Learning folosește multe ...?",
+        "en": "Deep Learning uses many ...?"
+      },
+      "answer": {
+        "de": "Schichten",
+        "hu": "réteget",
+        "ro": "straturi",
+        "en": "layers"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Anderes Wort für 'Daten' zum Lernen?",
+        "hu": "Másik szó a tanuláshoz használt 'adatokra'?",
+        "ro": "Alt cuvânt pentru „datele” de învățare?",
+        "en": "Another word for 'data' used for learning?"
+      },
+      "answer": {
+        "de": "Beispiele",
+        "hu": "példák",
+        "ro": "exemple",
+        "en": "examples"
+      }
+    }
+  ],
+  "ai_k6_t2_6": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht CNN?",
+        "hu": "Mit jelent a CNN?",
+        "ro": "Ce înseamnă CNN?",
+        "en": "What does CNN stand for?"
+      },
+      "options": {
+        "de": ["Convolutional Neural Network", "Computer Network News", "Cool New Network", "Cats Now Next"],
+        "hu": ["Convolutional Neural Network", "Computer Network News", "Cool New Network", "Cats Now Next"],
+        "ro": ["Convolutional Neural Network", "Computer Network News", "Cool New Network", "Cats Now Next"],
+        "en": ["Convolutional Neural Network", "Computer Network News", "Cool New Network", "Cats Now Next"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür werden CNNs meistens benutzt?",
+        "hu": "Mire használják leginkább a CNN-eket?",
+        "ro": "Pentru ce sunt folosite cel mai des CNN-urile?",
+        "en": "What are CNNs mostly used for?"
+      },
+      "options": {
+        "de": ["Bilderkennung", "Musik komponieren", "Texte schreiben", "Wetter vorhersagen"],
+        "hu": ["Képfelismerés", "Zeneszerzés", "Szövegírás", "Időjárás jóslás"],
+        "ro": ["Recunoașterea imaginilor", "Compunerea muzicii", "Scrierea textelor", "Prognoza meteo"],
+        "en": ["Image recognition", "Composing music", "Writing texts", "Weather forecasting"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Convolution' (Faltung)?",
+        "hu": "Mi az a 'konvolúció' (faltung)?",
+        "ro": "Ce este o „convoluție”?",
+        "en": "What is a 'convolution'?"
+      },
+      "options": {
+        "de": ["Ein Filter, der über das Bild gleitet", "Ein Bild löschen", "Eine Farbe ändern", "Den Monitor drehen"],
+        "hu": ["Egy szűrő, ami végigcsúszik a képen", "Kép törlése", "Színmódosítás", "Monitor elforgatása"],
+        "ro": ["Un filtru care alunecă peste imagine", "Ștergerea unei imagini", "Modificarea unei culori", "Rotirea monitorului"],
+        "en": ["A filter that slides across the image", "Deleting an image", "Changing a color", "Rotating the monitor"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sucht ein CNN in den ersten Schichten?",
+        "hu": "Mit keres a CNN az első rétegekben?",
+        "ro": "Ce caută un CNN în primele straturi?",
+        "en": "What does a CNN look for in the first layers?"
+      },
+      "options": {
+        "de": ["Einfache Kanten und Linien", "Ganze Gesichter", "Namen von Personen", "Hintergrundmusik"],
+        "hu": ["Egyszerű éleket és vonalakat", "Egész arcokat", "Személyek neveit", "Háttérzenét"],
+        "ro": ["Margini și linii simple", "Fețe întregi", "Nume de persoane", "Muzică de fundal"],
+        "en": ["Simple edges and lines", "Entire faces", "Names of people", "Background music"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert in den späteren Schichten eines CNN?",
+        "hu": "Mi történik a CNN későbbi rétegeiben?",
+        "ro": "Ce se întâmplă în straturile ulterioare ale unui CNN?",
+        "en": "What happens in the later layers of a CNN?"
+      },
+      "options": {
+        "de": ["Es erkennt komplexe Formen (Augen, Ohren)", "Es vergisst das Bild", "Es macht das Bild dunkler", "Es schaltet den Computer aus"],
+        "hu": ["Összetettebb formákat ismer fel (szem, fül)", "Elfelejti a képet", "Sötétebbé teszi a képet", "Kikapcsolja a gépet"],
+        "ro": ["Recunoaște forme complexe (ochi, urechi)", "Uită imaginea", "Întunecă imaginea", "Oprește computerul"],
+        "en": ["It recognizes complex shapes (eyes, ears)", "It forgets the image", "It makes the image darker", "It turns off the computer"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie 'sieht' ein Computer ein Bild?",
+        "hu": "Hogyan 'látja' a számítógép a képet?",
+        "ro": "Cum „vede” computerul o imagine?",
+        "en": "How does a computer 'see' an image?"
+      },
+      "options": {
+        "de": ["Als ein Gitter aus Zahlen (Pixelwerten)", "Genau wie wir", "Gar nicht", "Als eine lange Geschichte"],
+        "hu": ["Számok rácsaként (pixelértékek)", "Pontosan úgy, mint mi", "Sehogy", "Egy hosszú történetként"],
+        "ro": ["Ca o grilă de numere (valori de pixeli)", "Exact ca noi", "Deloc", "Ca o poveste lungă"],
+        "en": ["As a grid of numbers (pixel values)", "Exactly like we do", "Not at all", "As a long story"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Pooling' in einem CNN?",
+        "hu": "Mi az a 'pooling' a CNN-ben?",
+        "ro": "Ce este „pooling” într-un CNN?",
+        "en": "What is 'pooling' in a CNN?"
+      },
+      "options": {
+        "de": ["Die Bildgröße verkleinern, um wichtiges zu behalten", "In einem Pool schwimmen", "Daten löschen", "Bilder drucken"],
+        "hu": ["A képméret csökkentése a fontos dolgok megtartásával", "Medencében úszni", "Adatokat törölni", "Képeket nyomtatni"],
+        "ro": ["Reducerea dimensiunii imaginii pentru a păstra ce e important", "Înotul într-o piscină", "Ștergerea datelor", "Imprimarea imaginilor"],
+        "en": ["Reducing image size to keep important info", "Swimming in a pool", "Deleting data", "Printing images"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sind CNNs besser für Bilder als normale Netze?",
+        "hu": "Miért jobbak a CNN-ek a képekhez, mint a normál hálózatok?",
+        "ro": "De ce sunt CNN-urile mai bune pentru imagini decât rețelele normale?",
+        "en": "Why are CNNs better for images than normal networks?"
+      },
+      "options": {
+        "de": ["Sie verstehen die räumliche Anordnung von Pixeln", "Sie sind bunter", "Sie sind billiger", "Sie brauchen kein Internet"],
+        "hu": ["Értik a pixelek térbeli elhelyezkedését", "Színesebbek", "Olcsóbbak", "Nem kell hozzájuk internet"],
+        "ro": ["Înțeleg dispunerea spațială a pixelilor", "Sunt mai colorate", "Sunt mai ieftine", "Nu au nevoie de internet"],
+        "en": ["They understand the spatial arrangement of pixels", "They are more colorful", "They are cheaper", "They don't need internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können CNNs Videos verarbeiten?",
+        "hu": "Képesek a CNN-ek videókat feldolgozni?",
+        "ro": "Pot CNN-urile să proceseze videoclipuri?",
+        "en": "Can CNNs process videos?"
+      },
+      "options": {
+        "de": ["Ja, als eine Abfolge von Bildern", "Nein, nur Fotos", "Nur wenn sie kurz sind", "Nur ohne Ton"],
+        "hu": ["Igen, képek sorozataként", "Nem, csak fotókat", "Csak ha rövidek", "Csak hang nélkül"],
+        "ro": ["Da, ca o secvență de imagini", "Nu, doar fotografii", "Doar dacă sunt scurte", "Doar fără sunet"],
+        "en": ["Yes, as a sequence of images", "No, only photos", "Only if they are short", "Only without sound"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo findet man CNNs im Alltag?",
+        "hu": "Hol találkozhatunk CNN-ekkel a mindennapokban?",
+        "ro": "Unde găsim CNN-uri în viața de zi cu zi?",
+        "en": "Where do we find CNNs in everyday life?"
+      },
+      "options": {
+        "de": ["Gesichtserkennung im Handy", "In der Mikrowelle", "Im Toaster", "In der Zahnbürste"],
+        "hu": ["Arcfelismerés a mobilban", "A mikrohullámú sütőben", "A kenyérpirítóban", "A fogkefében"],
+        "ro": ["Recunoașterea facială în telefon", "În cuptorul cu microunde", "În prăjitorul de pâine", "În periuța de dinți"],
+        "en": ["Face recognition in phones", "In the microwave", "In the toaster", "In the toothbrush"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Abkürzung für Bild-Netzwerke?",
+        "hu": "Képhálózatok rövidítése?",
+        "ro": "Abrevierea pentru rețele de imagini?",
+        "en": "Abbreviation for image networks?"
+      },
+      "answer": "CNN"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was scannt das Bild?",
+        "hu": "Mi szkenneli a képet?",
+        "ro": "Ce scanează imaginea?",
+        "en": "What scans the image?"
+      },
+      "answer": {
+        "de": "Filter",
+        "hu": "szűrő",
+        "ro": "filtru",
+        "en": "filter"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Bildpunkte?",
+        "hu": "Képpontok?",
+        "ro": "Puncte de imagine?",
+        "en": "Image points?"
+      },
+      "answer": "Pixel"
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "CNN sucht nach ...?",
+        "hu": "A CNN ... keres?",
+        "ro": "CNN caută ...?",
+        "en": "CNN looks for ...?"
+      },
+      "answer": {
+        "de": "Mustern",
+        "hu": "mintákat",
+        "ro": "tipare",
+        "en": "patterns"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Größe reduzieren im CNN?",
+        "hu": "Méretcsökkentés a CNN-ben?",
+        "ro": "Reducerea dimensiunii în CNN?",
+        "en": "Size reduction in CNN?"
+      },
+      "answer": "Pooling"
+    }
+  ]
+}

@@ -1,0 +1,3146 @@
+{
+  "eu_political_system": {
+    "mcq": [
+      {
+        "q": [
+          "Hol található az Európai Unió központja?",
+          "Where is the headquarters of the European Union?",
+          "Wo befindet sich der Hauptsitz der Europäischen Union?",
+          "Unde se află sediul Uniunii Europene?"
+        ],
+        "c": [
+          "Brüsszel",
+          "Brussels",
+          "Brüssel",
+          "Bruxelles"
+        ],
+        "w1": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ],
+        "w2": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w3": [
+          "Róma",
+          "Rome",
+          "Rom",
+          "Roma"
+        ]
+      },
+      {
+        "q": [
+          "Mi az Európai Unió hivatalos himnusza?",
+          "What is the official anthem of the European Union?",
+          "Was ist die offizielle Hymne der Europäischen Union?",
+          "Care este imnul oficial al Uniunii Europene?"
+        ],
+        "c": [
+          "Örömóda",
+          "Ode to Joy",
+          "Ode an die Freude",
+          "Oda bucuriei"
+        ],
+        "w1": [
+          "Bolero",
+          "Bolero",
+          "Bolero",
+          "Bolero"
+        ],
+        "w2": [
+          "Magyar Himnusz",
+          "Hungarian Anthem",
+          "Ungarische Hymne",
+          "Imnul Ungariei"
+        ],
+        "w3": [
+          "Európa",
+          "Europe",
+          "Europa",
+          "Europa"
+        ]
+      },
+      {
+        "q": [
+          "Hány csillag van az Európai Unió zászlaján?",
+          "How many stars are on the European Union flag?",
+          "Wie viele Sterne sind auf der Flagge der Europäischen Union?",
+          "Câte stele sunt pe steagul Uniunii Europene?"
+        ],
+        "c": [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        "w1": [
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        "w2": [
+          "15",
+          "15",
+          "15",
+          "15"
+        ],
+        "w3": [
+          "27",
+          "27",
+          "27",
+          "27"
+        ]
+      },
+      {
+        "q": [
+          "Mi a közös valuta neve az Európai Unió legtöbb országában?",
+          "What is the name of the common currency in most EU countries?",
+          "Wie heißt die gemeinsame Währung in den meisten EU-Ländern?",
+          "Cum se numește moneda comună în majoritatea țărilor UE?"
+        ],
+        "c": [
+          "Euro",
+          "Euro",
+          "Euro",
+          "Euro"
+        ],
+        "w1": [
+          "Dollár",
+          "Dollar",
+          "Dollar",
+          "Dolar"
+        ],
+        "w2": [
+          "Font",
+          "Pound",
+          "Pfund",
+          "Liră"
+        ],
+        "w3": [
+          "Frank",
+          "Franc",
+          "Franken",
+          "Franc"
+        ]
+      },
+      {
+        "q": [
+          "Melyik városban ülésezik az Európai Parlament Brüsszel mellett?",
+          "In which city does the European Parliament meet besides Brussels?",
+          "In welcher Stadt tagt das Europäische Parlament neben Brüssel?",
+          "În ce oraș se întrunește Parlamentul European pe lângă Bruxelles?"
+        ],
+        "c": [
+          "Strasbourg",
+          "Strasbourg",
+          "Straßburg",
+          "Strasbourg"
+        ],
+        "w1": [
+          "Luxembourg",
+          "Luxembourg",
+          "Luxemburg",
+          "Luxemburg"
+        ],
+        "w2": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ],
+        "w3": [
+          "Hága",
+          "The Hague",
+          "Den Haag",
+          "Haga"
+        ]
+      },
+      {
+        "q": [
+          "Mi az Európai Unió jelmondata?",
+          "What is the motto of the European Union?",
+          "Was ist das Motto der Europäischen Union?",
+          "Care este motto-ul Uniunii Europene?"
+        ],
+        "c": [
+          "Egység a sokféleségben",
+          "United in diversity",
+          "In Vielfalt geeint",
+          "Unitate în diversitate"
+        ],
+        "w1": [
+          "Egy mindenkiért",
+          "One for all",
+          "Einer für alle",
+          "Unul pentru toți"
+        ],
+        "w2": [
+          "Béke és szabadság",
+          "Peace and freedom",
+          "Friede und Freiheit",
+          "Pace și libertate"
+        ],
+        "w3": [
+          "Erő az egységben",
+          "Strength in unity",
+          "Kraft in der Einheit",
+          "Puterea în unitate"
+        ]
+      },
+      {
+        "q": [
+          "Hány tagállama van jelenleg (2024) az Európai Uniónak?",
+          "How many member states does the European Union currently have (2024)?",
+          "Wie viele Mitgliedstaaten hat die Europäische Union derzeit (2024)?",
+          "Câte state membre are Uniunea Europeană în prezent (2024)?"
+        ],
+        "c": [
+          "27",
+          "27",
+          "27",
+          "27"
+        ],
+        "w1": [
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        "w2": [
+          "28",
+          "28",
+          "28",
+          "28"
+        ],
+        "w3": [
+          "30",
+          "30",
+          "30",
+          "30"
+        ]
+      },
+      {
+        "q": [
+          "Melyik intézmény az EU 'kormánya'?",
+          "Which institution is the 'government' of the EU?",
+          "Welches Organ ist die 'Regierung' der EU?",
+          "Care instituție este 'guvernul' UE?"
+        ],
+        "c": [
+          "Európai Bizottság",
+          "European Commission",
+          "Europäische Kommission",
+          "Comisia Europeană"
+        ],
+        "w1": [
+          "Európai Tanács",
+          "European Council",
+          "Europäischer Rat",
+          "Consiliul European"
+        ],
+        "w2": [
+          "Európai Parlament",
+          "European Parliament",
+          "Europäisches Parlament",
+          "Parlamentul European"
+        ],
+        "w3": [
+          "Bíróság",
+          "Court of Justice",
+          "Gerichtshof",
+          "Curtea de Justiție"
+        ]
+      },
+      {
+        "q": [
+          "Hol található az Európai Központi Bank székhelye?",
+          "Where is the headquarters of the European Central Bank?",
+          "Wo befindet sich der Sitz der Europäischen Zentralbank?",
+          "Unde se află sediul Băncii Centrale Europene?"
+        ],
+        "c": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ],
+        "w1": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w2": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ],
+        "w3": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ]
+      },
+      {
+        "q": [
+          "Hogy hívják a belső határok nélküli övezetet az EU-ban?",
+          "What is the zone without internal borders in the EU called?",
+          "Wie heißt die Zone ohne Binnengrenzen in der EU?",
+          "Cum se numește zona fără frontiere interne din UE?"
+        ],
+        "c": [
+          "Schengeni övezet",
+          "Schengen Area",
+          "Schengen-Raum",
+          "Spațiul Schengen"
+        ],
+        "w1": [
+          "Eurozóna",
+          "Eurozone",
+          "Eurozone",
+          "Zona Euro"
+        ],
+        "w2": [
+          "Vámunió",
+          "Customs Union",
+          "Zollunion",
+          "Uniunea Vamală"
+        ],
+        "w3": [
+          "Szabadkereskedelmi övezet",
+          "Free Trade Zone",
+          "Freihandelszone",
+          "Zona de liber schimb"
+        ]
+      },
+      {
+        "q": [
+          "Melyik ország NEM volt alapító tagja az EU elődjének?",
+          "Which country was NOT a founding member of the EU's predecessor?",
+          "Welches Land war KEIN Gründungsmitglied der Vorgängerorganisation der EU?",
+          "Care țară NU a fost membru fondator al predecesorului UE?"
+        ],
+        "c": [
+          "Magyarország",
+          "Hungary",
+          "Ungarn",
+          "Ungaria"
+        ],
+        "w1": [
+          "Franciaország",
+          "France",
+          "Frankreich",
+          "Franța"
+        ],
+        "w2": [
+          "Németország",
+          "Germany",
+          "Deutschland",
+          "Germania"
+        ],
+        "w3": [
+          "Olaszország",
+          "Italy",
+          "Italien",
+          "Italia"
+        ]
+      },
+      {
+        "q": [
+          "Ki volt az EU egyik 'alapító atyja'?",
+          "Who was one of the 'founding fathers' of the EU?",
+          "Wer war einer der 'Gründerväter' der EU?",
+          "Cine a fost unul dintre 'părinții fondatori' ai UE?"
+        ],
+        "c": [
+          "Robert Schuman",
+          "Robert Schuman",
+          "Robert Schuman",
+          "Robert Schuman"
+        ],
+        "w1": [
+          "Napóleon",
+          "Napoleon",
+          "Napoleon",
+          "Napoleon"
+        ],
+        "w2": [
+          "Winston Churchill",
+          "Winston Churchill",
+          "Winston Churchill",
+          "Winston Churchill"
+        ],
+        "w3": [
+          "Charles de Gaulle",
+          "Charles de Gaulle",
+          "Charles de Gaulle",
+          "Charles de Gaulle"
+        ]
+      },
+      {
+        "q": [
+          "Mikor ünnepeljük Európa-napot?",
+          "When do we celebrate Europe Day?",
+          "Wann feiern wir den Europatag?",
+          "Când sărbătorim Ziua Europei?"
+        ],
+        "c": [
+          "május 9.",
+          "May 9",
+          "9. Mai",
+          "9 mai"
+        ],
+        "w1": [
+          "március 15.",
+          "March 15",
+          "15. März",
+          "15 martie"
+        ],
+        "w2": [
+          "július 4.",
+          "July 4",
+          "4. Juli",
+          "4 iulie"
+        ],
+        "w3": [
+          "január 1.",
+          "January 1",
+          "1. Januar",
+          "1 ianuarie"
+        ]
+      },
+      {
+        "q": [
+          "Hol található az Európai Unió Bírósága?",
+          "Where is the Court of Justice of the European Union located?",
+          "Wo befindet sich der Gerichtshof der Europäischen Union?",
+          "Unde se află Curtea de Justiție a Uniunii Europene?"
+        ],
+        "c": [
+          "Luxembourg",
+          "Luxembourg",
+          "Luxemburg",
+          "Luxemburg"
+        ],
+        "w1": [
+          "Brüsszel",
+          "Brussels",
+          "Brüssel",
+          "Bruxelles"
+        ],
+        "w2": [
+          "Hága",
+          "The Hague",
+          "Den Haag",
+          "Haga"
+        ],
+        "w3": [
+          "Strasbourg",
+          "Strasbourg",
+          "Straßburg",
+          "Strasbourg"
+        ]
+      },
+      {
+        "q": [
+          "Kik alkotják az Európai Unió Tanácsát?",
+          "Who makes up the Council of the European Union?",
+          "Wer bildet den Rat der Europäischen Union?",
+          "Cine alcătuiește Consiliul Uniunii Europene?"
+        ],
+        "c": [
+          "Tagállami miniszterek",
+          "Member state ministers",
+          "Minister der Mitgliedstaaten",
+          "Miniștrii statelor membre"
+        ],
+        "w1": [
+          "Királyok",
+          "Kings",
+          "Könige",
+          "Regi"
+        ],
+        "w2": [
+          "Polgármesterek",
+          "Mayors",
+          "Bürgermeister",
+          "Primari"
+        ],
+        "w3": [
+          "Tanárok",
+          "Teachers",
+          "Lehrer",
+          "Profesori"
+        ]
+      },
+      {
+        "q": [
+          "Hogy hívják a kormányfők és államfők találkozóját az EU-ban?",
+          "What is the meeting of heads of state and government in the EU called?",
+          "Wie heißt das Treffen der Staats- und Regierungschefs in der EU?",
+          "Cum se numește reuniunea șefilor de stat și de guvern din UE?"
+        ],
+        "c": [
+          "Európai Tanács",
+          "European Council",
+          "Europäischer Rat",
+          "Consiliul European"
+        ],
+        "w1": [
+          "Európai Parlament",
+          "European Parliament",
+          "Europäisches Parlament",
+          "Parlamentul European"
+        ],
+        "w2": [
+          "Európai Bizottság",
+          "European Commission",
+          "Europäische Kommission",
+          "Comisia Europeană"
+        ],
+        "w3": [
+          "Európai Bíróság",
+          "Court of Justice",
+          "Europäischer Gerichtshof",
+          "Curtea Europeană de Justiție"
+        ]
+      },
+      {
+        "q": [
+          "Mi volt az EU létrehozásának egyik fő célja a II. világháború után?",
+          "What was one of the main goals of creating the EU after WWII?",
+          "Was war eines der Hauptziele der Gründung der EU nach dem Zweiten Weltkrieg?",
+          "Care a fost unul dintre obiectivele principale ale creării UE după cel de-al Doilea Război Mondial?"
+        ],
+        "c": [
+          "Tartós béke megteremtése",
+          "Creating lasting peace",
+          "Schaffung eines dauerhaften Friedens",
+          "Crearea unei pici durabile"
+        ],
+        "w1": [
+          "Új háború indítása",
+          "Starting a new war",
+          "Einen neuen Krieg beginnen",
+          "Începerea unui nou război"
+        ],
+        "w2": [
+          "A sport fejlesztése",
+          "Developing sports",
+          "Entwicklung des Sports",
+          "Dezvoltarea sportului"
+        ],
+        "w3": [
+          "Űrkutatás",
+          "Space exploration",
+          "Weltraumforschung",
+          "Explorarea spațială"
+        ]
+      },
+      {
+        "q": [
+          "Hogy nevezzük azokat az országokat, amelyek az eurót használják?",
+          "What do we call the countries that use the euro?",
+          "Wie nennt man die Länder, die den Euro verwenden?",
+          "Cum numim țările care folosesc euro?"
+        ],
+        "c": [
+          "Eurózóna",
+          "Eurozone",
+          "Eurozone",
+          "Zona Euro"
+        ],
+        "w1": [
+          "Európai Unió",
+          "European Union",
+          "Europäische Union",
+          "Uniunea Europeană"
+        ],
+        "w2": [
+          "Vámunió",
+          "Customs Union",
+          "Zollunion",
+          "Uniunea Vamală"
+        ],
+        "w3": [
+          "Schengen",
+          "Schengen",
+          "Schengen",
+          "Schengen"
+        ]
+      },
+      {
+        "q": [
+          "Hány hivatalos nyelve van az Európai Uniónak jelenleg?",
+          "How many official languages does the European Union currently have?",
+          "Wie viele Amtssprachen hat die Europäische Union derzeit?",
+          "Câte limbi oficiale are Uniunea Europeană în prezent?"
+        ],
+        "c": [
+          "24",
+          "24",
+          "24",
+          "24"
+        ],
+        "w1": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "w2": [
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        "w3": [
+          "50",
+          "50",
+          "50",
+          "50"
+        ]
+      },
+      {
+        "q": [
+          "Melyik alapvető érték jellemzi az EU működését?",
+          "Which fundamental value characterizes the functioning of the EU?",
+          "Welcher Grundwert kennzeichnet die Arbeitsweise der EU?",
+          "Care valoare fundamentală caracterizează funcționarea UE?"
+        ],
+        "c": [
+          "Demokrácia",
+          "Democracy",
+          "Demokratie",
+          "Democrație"
+        ],
+        "w1": [
+          "Diktatúra",
+          "Dictatorship",
+          "Diktatur",
+          "Dictatură"
+        ],
+        "w2": [
+          "Királyság",
+          "Monarchy",
+          "Monarchie",
+          "Monarhie"
+        ],
+        "w3": [
+          "Anarchia",
+          "Anarchy",
+          "Anarchie",
+          "Anarhie"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "q": [
+          "EU központja?",
+          "EU headquarters?",
+          "EU-Hauptquartier?",
+          "Sediul UE?"
+        ],
+        "a": [
+          "Brüsszel",
+          "Brussels",
+          "Brüssel",
+          "Bruxelles"
+        ]
+      },
+      {
+        "q": [
+          "EU közös pénze?",
+          "EU common currency?",
+          "EU-Gemeinschaftswährung?",
+          "Moneda comună UE?"
+        ],
+        "a": [
+          "Euro",
+          "Euro",
+          "Euro",
+          "Euro"
+        ]
+      },
+      {
+        "q": [
+          "Parlament egyik székhelye?",
+          "One seat of the Parliament?",
+          "Ein Sitz des Parlaments?",
+          "Un sediu al Parlamentului?"
+        ],
+        "a": [
+          "Strasbourg",
+          "Strasbourg",
+          "Straßburg",
+          "Strasbourg"
+        ]
+      },
+      {
+        "q": [
+          "Alapító atya vezetékneve?",
+          "Founding father's last name?",
+          "Nachname des Gründervaters?",
+          "Numele de familie al părintelui fondator?"
+        ],
+        "a": [
+          "Schuman",
+          "Schuman",
+          "Schuman",
+          "Schuman"
+        ]
+      },
+      {
+        "q": [
+          "Európa-nap hónapja?",
+          "Month of Europe Day?",
+          "Monat des Europatags?",
+          "Luna Zilei Europei?"
+        ],
+        "a": [
+          "Május",
+          "May",
+          "Mai",
+          "Mai"
+        ]
+      },
+      {
+        "q": [
+          "Bíróság székhelye?",
+          "Seat of the Court?",
+          "Sitz des Gerichtshofs?",
+          "Sediul Curții?"
+        ],
+        "a": [
+          "Luxembourg",
+          "Luxembourg",
+          "Luxemburg",
+          "Luxemburg"
+        ]
+      },
+      {
+        "q": [
+          "Központi Bank városa?",
+          "City of the Central Bank?",
+          "Stadt der Zentralbank?",
+          "Orașul Băncii Centrale?"
+        ],
+        "a": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ]
+      },
+      {
+        "q": [
+          "Az EU himnusza?",
+          "The EU anthem?",
+          "Die EU-Hymne?",
+          "Imnul UE?"
+        ],
+        "a": [
+          "Örömóda",
+          "Ode to Joy",
+          "Ode an die Freude",
+          "Oda bucuriei"
+        ]
+      },
+      {
+        "q": [
+          "Hány csillag van a zászlón?",
+          "How many stars on the flag?",
+          "Wie viele Sterne auf der Flagge?",
+          "Câte stele sunt pe steag?"
+        ],
+        "a": [
+          "12",
+          "12",
+          "12",
+          "12"
+        ]
+      },
+      {
+        "q": [
+          "Határmentes övezet?",
+          "Borderless zone?",
+          "Grenzenlose Zone?",
+          "Zonă fără frontiere?"
+        ],
+        "a": [
+          "Schengen",
+          "Schengen",
+          "Schengen",
+          "Schengen"
+        ]
+      }
+    ]
+  },
+  "germany_regions": {
+    "mcq": [
+      {
+        "q": [
+          "Hány szövetségi állama van Németországnak?",
+          "How many federal states does Germany have?",
+          "Wie viele Bundesländer hat Deutschland?",
+          "Câte state federale are Germania?"
+        ],
+        "c": [
+          "16",
+          "16",
+          "16",
+          "16"
+        ],
+        "w1": [
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        "w2": [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        "w3": [
+          "20",
+          "20",
+          "20",
+          "20"
+        ]
+      },
+      {
+        "q": [
+          "Mi Németország fővárosa?",
+          "What is the capital of Germany?",
+          "Was ist die Hauptstadt von Deutschland?",
+          "Care este capitala Germaniei?"
+        ],
+        "c": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w1": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ],
+        "w2": [
+          "Hamburg",
+          "Hamburg",
+          "Hamburg",
+          "Hamburg"
+        ],
+        "w3": [
+          "Bonn",
+          "Bonn",
+          "Bonn",
+          "Bonn"
+        ]
+      },
+      {
+        "q": [
+          "Melyik Németország legnagyobb területű tartománya?",
+          "Which is Germany's largest state by area?",
+          "Welches ist das flächenmäßig größte Bundesland Deutschlands?",
+          "Care este cel mai mare stat al Germaniei ca suprafață?"
+        ],
+        "c": [
+          "Bajorország",
+          "Bavaria",
+          "Bayern",
+          "Bavaria"
+        ],
+        "w1": [
+          "Szászország",
+          "Saxony",
+          "Sachsen",
+          "Saxonia"
+        ],
+        "w2": [
+          "Hessen",
+          "Hesse",
+          "Hessen",
+          "Hessa"
+        ],
+        "w3": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ]
+      },
+      {
+        "q": [
+          "Melyik tenger határolja Németországot északon?",
+          "Which sea borders Germany to the north?",
+          "Welches Meer grenzt im Norden an Deutschland?",
+          "Ce mare mărginește Germania la nord?"
+        ],
+        "c": [
+          "Északi-tenger",
+          "North Sea",
+          "Nordsee",
+          "Marea Nordului"
+        ],
+        "w1": [
+          "Földközi-tenger",
+          "Mediterranean Sea",
+          "Mittelmeer",
+          "Marea Mediterană"
+        ],
+        "w2": [
+          "Fekete-tenger",
+          "Black Sea",
+          "Schwarzes Meer",
+          "Marea Neagră"
+        ],
+        "w3": [
+          "Vörös-tenger",
+          "Red Sea",
+          "Rotes Meer",
+          "Marea Roșie"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város Németország legnagyobb kikötővárosa?",
+          "Which city is Germany's largest port city?",
+          "Welche Stadt ist Deutschlands größte Hafenstadt?",
+          "Care oraș este cel mai mare oraș portuar al Germaniei?"
+        ],
+        "c": [
+          "Hamburg",
+          "Hamburg",
+          "Hamburg",
+          "Hamburg"
+        ],
+        "w1": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ],
+        "w2": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ],
+        "w3": [
+          "Stuttgart",
+          "Stuttgart",
+          "Stuttgart",
+          "Stuttgart"
+        ]
+      },
+      {
+        "q": [
+          "Hogy hívják Németország híres iparvidékét?",
+          "What is Germany's famous industrial region called?",
+          "Wie heißt Deutschlands berühmtes Industriegebiet?",
+          "Cum se numește faimoasa regiune industrială a Germaniei?"
+        ],
+        "c": [
+          "Ruhr-vidék",
+          "Ruhr area",
+          "Ruhrgebiet",
+          "Regiunea Ruhr"
+        ],
+        "w1": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w2": [
+          "Fekete-erdő",
+          "Black Forest",
+          "Schwarzwald",
+          "Pădurea Neagră"
+        ],
+        "w3": [
+          "Bajor-erdő",
+          "Bavarian Forest",
+          "Bayerischer Wald",
+          "Pădurea Bavareză"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó folyik keresztül Kölnön?",
+          "Which river flows through Cologne?",
+          "Welcher Fluss fließt durch Köln?",
+          "Ce râu curge prin Köln?"
+        ],
+        "c": [
+          "Rajna",
+          "Rhine",
+          "Rhein",
+          "Rin"
+        ],
+        "w1": [
+          "Duna",
+          "Danube",
+          "Donau",
+          "Dunărea"
+        ],
+        "w2": [
+          "Elba",
+          "Elbe",
+          "Elbe",
+          "Elba"
+        ],
+        "w3": [
+          "Odera",
+          "Oder",
+          "Oder",
+          "Oder"
+        ]
+      },
+      {
+        "q": [
+          "Melyik hegység található Németország déli részén?",
+          "Which mountain range is located in the south of Germany?",
+          "Welches Gebirge liegt im Süden Deutschlands?",
+          "Ce lanț muntos se află în sudul Germaniei?"
+        ],
+        "c": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w1": [
+          "Kárpátok",
+          "Carpathians",
+          "Karpaten",
+          "Carpați"
+        ],
+        "w2": [
+          "Pireneusok",
+          "Pyrenees",
+          "Pyrenäen",
+          "Pirinei"
+        ],
+        "w3": [
+          "Urál",
+          "Ural",
+          "Ural",
+          "Ural"
+        ]
+      },
+      {
+        "q": [
+          "Hol található a Fekete-erdő?",
+          "Where is the Black Forest located?",
+          "Wo liegt der Schwarzwald?",
+          "Unde se află Pădurea Neagră?"
+        ],
+        "c": [
+          "Délnyugat-Németország",
+          "Southwest Germany",
+          "Südwestdeutschland",
+          "Sud-vestul Germaniei"
+        ],
+        "w1": [
+          "Észak-Németország",
+          "North Germany",
+          "Norddeutschland",
+          "Nordul Germaniei"
+        ],
+        "w2": [
+          "Kelet-Németország",
+          "East Germany",
+          "Ostdeutschland",
+          "Estul Germaniei"
+        ],
+        "w3": [
+          "Berlinben",
+          "In Berlin",
+          "In Berlin",
+          "În Berlin"
+        ]
+      },
+      {
+        "q": [
+          "Mi Bajorország fővárosa?",
+          "What is the capital of Bavaria?",
+          "Was ist die Hauptstadt von Bayern?",
+          "Care este capitala Bavariei?"
+        ],
+        "c": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ],
+        "w1": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w2": [
+          "Hamburg",
+          "Hamburg",
+          "Hamburg",
+          "Hamburg"
+        ],
+        "w3": [
+          "Nürnberg",
+          "Nuremberg",
+          "Nürnberg",
+          "Nürnberg"
+        ]
+      },
+      {
+        "q": [
+          "Mi Szászország fővárosa?",
+          "What is the capital of Saxony?",
+          "Was ist die Hauptstadt von Sachsen?",
+          "Care este capitala Saxoniei?"
+        ],
+        "c": [
+          "Drezda",
+          "Dresden",
+          "Dresden",
+          "Dresda"
+        ],
+        "w1": [
+          "Lipcse",
+          "Leipzig",
+          "Leipzig",
+          "Leipzig"
+        ],
+        "w2": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w3": [
+          "Bonn",
+          "Bonn",
+          "Bonn",
+          "Bonn"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város egyben szövetségi tartomány is?",
+          "Which city is also a federal state?",
+          "Welche Stadt ist auch ein Bundesland?",
+          "Care oraș este și un stat federal?"
+        ],
+        "c": [
+          "Bremen",
+          "Bremen",
+          "Bremen",
+          "Bremen"
+        ],
+        "w1": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ],
+        "w2": [
+          "Köln",
+          "Cologne",
+          "Köln",
+          "Köln"
+        ],
+        "w3": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ]
+      },
+      {
+        "q": [
+          "Melyik nagy tó található Németország, Ausztria és Svájc határán?",
+          "Which large lake is on the border of Germany, Austria, and Switzerland?",
+          "Welcher große See liegt an der Grenze zwischen Deutschland, Österreich und der Schweiz?",
+          "Ce lac mare se află la granița dintre Germania, Austria și Elveția?"
+        ],
+        "c": [
+          "Bódeni-tó",
+          "Lake Constance",
+          "Bodensee",
+          "Lacul Constanța"
+        ],
+        "w1": [
+          "Balaton",
+          "Lake Balaton",
+          "Plattensee",
+          "Lacul Balaton"
+        ],
+        "w2": [
+          "Genfi-tó",
+          "Lake Geneva",
+          "Genfer See",
+          "Lacul Geneva"
+        ],
+        "w3": [
+          "Garda-tó",
+          "Lake Garda",
+          "Gardasee",
+          "Lacul Garda"
+        ]
+      },
+      {
+        "q": [
+          "Hol található a Harz-hegység?",
+          "Where is the Harz Mountains located?",
+          "Wo liegt der Harz?",
+          "Unde se află Munții Harz?"
+        ],
+        "c": [
+          "Közép-Németország",
+          "Central Germany",
+          "Mitteldeutschland",
+          "Centrul Germaniei"
+        ],
+        "w1": [
+          "A tengerparton",
+          "On the coast",
+          "An der Küste",
+          "Pe coastă"
+        ],
+        "w2": [
+          "Az Alpokban",
+          "In the Alps",
+          "In den Alpen",
+          "În Alpi"
+        ],
+        "w3": [
+          "Bajorországban",
+          "In Bavaria",
+          "In Bayern",
+          "În Bavaria"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó torkollik a tengerbe Hamburgnál?",
+          "Which river flows into the sea at Hamburg?",
+          "Welcher Fluss mündet bei Hamburg ins Meer?",
+          "Ce râu se varsă în mare la Hamburg?"
+        ],
+        "c": [
+          "Elba",
+          "Elbe",
+          "Elbe",
+          "Elba"
+        ],
+        "w1": [
+          "Rajna",
+          "Rhine",
+          "Rhein",
+          "Rin"
+        ],
+        "w2": [
+          "Duna",
+          "Danube",
+          "Donau",
+          "Dunărea"
+        ],
+        "w3": [
+          "Weser",
+          "Weser",
+          "Weser",
+          "Weser"
+        ]
+      },
+      {
+        "q": [
+          "Melyik Németország legnagyobb szigete a Balti-tengeren?",
+          "Which is Germany's largest island in the Baltic Sea?",
+          "Welches ist Deutschlands größte Insel in der Ostsee?",
+          "Care este cea mai mare insulă a Germaniei în Marea Baltică?"
+        ],
+        "c": [
+          "Rügen",
+          "Rügen",
+          "Rügen",
+          "Rügen"
+        ],
+        "w1": [
+          "Szicília",
+          "Sicily",
+          "Sizilien",
+          "Sicilia"
+        ],
+        "w2": [
+          "Izland",
+          "Iceland",
+          "Island",
+          "Islanda"
+        ],
+        "w3": [
+          "Mainau",
+          "Mainau",
+          "Mainau",
+          "Mainau"
+        ]
+      },
+      {
+        "q": [
+          "Mi Alsó-Szászország fővárosa?",
+          "What is the capital of Lower Saxony?",
+          "Was ist die Hauptstadt von Niedersachsen?",
+          "Care este capitala Saxoniei Inferioare?"
+        ],
+        "c": [
+          "Hannover",
+          "Hanover",
+          "Hannover",
+          "Hanovra"
+        ],
+        "w1": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w2": [
+          "Bremen",
+          "Bremen",
+          "Bremen",
+          "Bremen"
+        ],
+        "w3": [
+          "Hamburg",
+          "Hamburg",
+          "Hamburg",
+          "Hamburg"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város híres a pénzügyi központjáról és repülőteréről?",
+          "Which city is famous for its financial center and airport?",
+          "Welche Stadt ist berühmt für ihr Finanzzentrum und ihren Flughafen?",
+          "Care oraș este faimos pentru centrul său financiar și aeroport?"
+        ],
+        "c": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ],
+        "w1": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ],
+        "w2": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ],
+        "w3": [
+          "Köln",
+          "Cologne",
+          "Köln",
+          "Köln"
+        ]
+      },
+      {
+        "q": [
+          "Melyik Németország legmagasabb hegycsúcsát?",
+          "Which is Germany's highest peak?",
+          "Welches ist der höchste Gipfel Deutschlands?",
+          "Care este cel mai înalt vârf din Germania?"
+        ],
+        "c": [
+          "Zugspitze",
+          "Zugspitze",
+          "Zugspitze",
+          "Zugspitze"
+        ],
+        "w1": [
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc"
+        ],
+        "w2": [
+          "Grossglockner",
+          "Grossglockner",
+          "Großglockner",
+          "Grossglockner"
+        ],
+        "w3": [
+          "Brocken",
+          "Brocken",
+          "Brocken",
+          "Brocken"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó folyik keresztül Frankfurt am Main városán?",
+          "Which river flows through the city of Frankfurt am Main?",
+          "Welcher Fluss fließt durch die Stadt Frankfurt am Main?",
+          "Ce râu curge prin orașul Frankfurt am Main?"
+        ],
+        "c": [
+          "Majna",
+          "Main",
+          "Main",
+          "Main"
+        ],
+        "w1": [
+          "Rajna",
+          "Rhine",
+          "Rhein",
+          "Rin"
+        ],
+        "w2": [
+          "Duna",
+          "Danube",
+          "Donau",
+          "Dunărea"
+        ],
+        "w3": [
+          "Mosel",
+          "Moselle",
+          "Mosel",
+          "Mosela"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "q": [
+          "Németország fővárosa?",
+          "Germany's capital?",
+          "Deutschlands Hauptstadt?",
+          "Capitala Germaniei?"
+        ],
+        "a": [
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin"
+        ]
+      },
+      {
+        "q": [
+          "Legnagyobb tartomány?",
+          "Largest state?",
+          "Größtes Bundesland?",
+          "Cel mai mare stat?"
+        ],
+        "a": [
+          "Bajorország",
+          "Bavaria",
+          "Bayern",
+          "Bavaria"
+        ]
+      },
+      {
+        "q": [
+          "Bajorország fővárosa?",
+          "Capital of Bavaria?",
+          "Hauptstadt von Bayern?",
+          "Capitala Bavariei?"
+        ],
+        "a": [
+          "München",
+          "Munich",
+          "München",
+          "Munchen"
+        ]
+      },
+      {
+        "q": [
+          "Északi nagy kikötő?",
+          "Large northern port?",
+          "Großer Nordhafen?",
+          "Port mare din nord?"
+        ],
+        "a": [
+          "Hamburg",
+          "Hamburg",
+          "Hamburg",
+          "Hamburg"
+        ]
+      },
+      {
+        "q": [
+          "Köln folyója?",
+          "Cologne's river?",
+          "Fluss von Köln?",
+          "Râul din Köln?"
+        ],
+        "a": [
+          "Rajna",
+          "Rhine",
+          "Rhein",
+          "Rin"
+        ]
+      },
+      {
+        "q": [
+          "Déli hegység?",
+          "Southern mountain range?",
+          "Südliches Gebirge?",
+          "Lanț muntos din sud?"
+        ],
+        "a": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ]
+      },
+      {
+        "q": [
+          "Hamburg folyója?",
+          "Hamburg's river?",
+          "Fluss von Hamburg?",
+          "Râul din Hamburg?"
+        ],
+        "a": [
+          "Elba",
+          "Elbe",
+          "Elbe",
+          "Elba"
+        ]
+      },
+      {
+        "q": [
+          "Szászország fővárosa?",
+          "Capital of Saxony?",
+          "Hauptstadt von Sachsen?",
+          "Capitala Saxoniei?"
+        ],
+        "a": [
+          "Drezda",
+          "Dresden",
+          "Dresden",
+          "Dresda"
+        ]
+      },
+      {
+        "q": [
+          "A pénzügyi központ?",
+          "The financial center?",
+          "Das Finanzzentrum?",
+          "Centrul financiar?"
+        ],
+        "a": [
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt",
+          "Frankfurt"
+        ]
+      },
+      {
+        "q": [
+          "A dóm városa?",
+          "The city of the cathedral?",
+          "Die Stadt des Doms?",
+          "Orașul catedralei?"
+        ],
+        "a": [
+          "Köln",
+          "Cologne",
+          "Köln",
+          "Köln"
+        ]
+      }
+    ]
+  },
+  "france_regions": {
+    "mcq": [
+      {
+        "q": [
+          "Mi Franciaország fővárosa?",
+          "What is the capital of France?",
+          "Was ist die Hauptstadt von Frankreich?",
+          "Care este capitala Franței?"
+        ],
+        "c": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ],
+        "w1": [
+          "Lyon",
+          "Lyon",
+          "Lyon",
+          "Lyon"
+        ],
+        "w2": [
+          "Marseille",
+          "Marseille",
+          "Marseille",
+          "Marsilia"
+        ],
+        "w3": [
+          "Bordeaux",
+          "Bordeaux",
+          "Bordeaux",
+          "Bordeaux"
+        ]
+      },
+      {
+        "q": [
+          "Hány közigazgatási régiója van Franciaországnak (összesen)?",
+          "How many administrative regions does France have (total)?",
+          "Wie viele Verwaltungsregionen hat Frankreich (insgesamt)?",
+          "Câte regiuni administrative are Franța (în total)?"
+        ],
+        "c": [
+          "18",
+          "18",
+          "18",
+          "18"
+        ],
+        "w1": [
+          "13",
+          "13",
+          "13",
+          "13"
+        ],
+        "w2": [
+          "22",
+          "22",
+          "22",
+          "22"
+        ],
+        "w3": [
+          "10",
+          "10",
+          "10",
+          "10"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó folyik keresztül Párizson?",
+          "Which river flows through Paris?",
+          "Welcher Fluss fließt durch Paris?",
+          "Ce râu curge prin Paris?"
+        ],
+        "c": [
+          "Szajna",
+          "Seine",
+          "Seine",
+          "Sena"
+        ],
+        "w1": [
+          "Loire",
+          "Loire",
+          "Loire",
+          "Loara"
+        ],
+        "w2": [
+          "Rhône",
+          "Rhône",
+          "Rhône",
+          "Ron"
+        ],
+        "w3": [
+          "Garonne",
+          "Garonne",
+          "Garonne",
+          "Garonne"
+        ]
+      },
+      {
+        "q": [
+          "Melyik hegység választja el Franciaországot Spanyolországtól?",
+          "Which mountain range separates France from Spain?",
+          "Welches Gebirge trennt Frankreich von Spanien?",
+          "Ce lanț muntos separă Franța de Spania?"
+        ],
+        "c": [
+          "Pireneusok",
+          "Pyrenees",
+          "Pyrenäen",
+          "Pirinei"
+        ],
+        "w1": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w2": [
+          "Jura",
+          "Jura",
+          "Jura",
+          "Jura"
+        ],
+        "w3": [
+          "Vogézek",
+          "Vosges",
+          "Vogesen",
+          "Vogézi"
+        ]
+      },
+      {
+        "q": [
+          "Melyik hegység található Franciaország keleti határán?",
+          "Which mountain range is on France's eastern border?",
+          "Welches Gebirge liegt an der Ostgrenze Frankreichs?",
+          "Ce lanț muntos se află la granița de est a Franței?"
+        ],
+        "c": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w1": [
+          "Pireneusok",
+          "Pyrenees",
+          "Pyrenäen",
+          "Pirinei"
+        ],
+        "w2": [
+          "Kárpátok",
+          "Carpathians",
+          "Karpaten",
+          "Carpați"
+        ],
+        "w3": [
+          "Andok",
+          "Andes",
+          "Anden",
+          "Anzi"
+        ]
+      },
+      {
+        "q": [
+          "Melyik a legnagyobb város Franciaország déli részén?",
+          "Which is the largest city in the south of France?",
+          "Welches ist die größte Stadt in Südfrankreich?",
+          "Care este cel mai mare oraș din sudul Franței?"
+        ],
+        "c": [
+          "Marseille",
+          "Marseille",
+          "Marseille",
+          "Marsilia"
+        ],
+        "w1": [
+          "Nizza",
+          "Nice",
+          "Nizza",
+          "Nisa"
+        ],
+        "w2": [
+          "Toulouse",
+          "Toulouse",
+          "Toulouse",
+          "Toulouse"
+        ],
+        "w3": [
+          "Lyon",
+          "Lyon",
+          "Lyon",
+          "Lyon"
+        ]
+      },
+      {
+        "q": [
+          "Melyik régió híres a bortermeléséről és Bordeaux városáról?",
+          "Which region is famous for its wine production and the city of Bordeaux?",
+          "Welche Region ist berühmt für ihre Weinproduktion und die Stadt Bordeaux?",
+          "Care regiune este faimoasă pentru producția de vin și orașul Bordeaux?"
+        ],
+        "c": [
+          "Új-Aquitania",
+          "Nouvelle-Aquitaine",
+          "Neu-Aquitanien",
+          "Nouvelle-Aquitaine"
+        ],
+        "w1": [
+          "Bretagne",
+          "Brittany",
+          "Bretagne",
+          "Bretania"
+        ],
+        "w2": [
+          "Normandia",
+          "Normandy",
+          "Normandie",
+          "Normandia"
+        ],
+        "w3": [
+          "Korzika",
+          "Corsica",
+          "Korsika",
+          "Corsica"
+        ]
+      },
+      {
+        "q": [
+          "Melyik régió híres a levendulamezőiről és a napsütésről?",
+          "Which region is famous for its lavender fields and sunshine?",
+          "Welche Region ist berühmt für ihre Lavendelfelder und ihren Sonnenschein?",
+          "Care regiune este faimoasă pentru câmpurile de lavandă și soare?"
+        ],
+        "c": [
+          "Provence",
+          "Provence",
+          "Provence",
+          "Provence"
+        ],
+        "w1": [
+          "Elzász",
+          "Alsace",
+          "Elsass",
+          "Alsacia"
+        ],
+        "w2": [
+          "Pikárdia",
+          "Picardy",
+          "Picardie",
+          "Picardia"
+        ],
+        "w3": [
+          "Burgundia",
+          "Burgundy",
+          "Burgund",
+          "Burgundia"
+        ]
+      },
+      {
+        "q": [
+          "Melyik Franciaország és az Alpok legmagasabb hegye?",
+          "Which is the highest mountain in France and the Alps?",
+          "Welches ist der höchste Berg in Frankreich und den Alpen?",
+          "Care este cel mai înalt munte din Franța și din Alpi?"
+        ],
+        "c": [
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc"
+        ],
+        "w1": [
+          "Matterhorn",
+          "Matterhorn",
+          "Matterhorn",
+          "Matterhorn"
+        ],
+        "w2": [
+          "Eiger",
+          "Eiger",
+          "Eiger",
+          "Eiger"
+        ],
+        "w3": [
+          "Etna",
+          "Etna",
+          "Etna",
+          "Etna"
+        ]
+      },
+      {
+        "q": [
+          "Miről híres a Loire völgye?",
+          "What is the Loire Valley famous for?",
+          "Wofür ist das Loire-Tal bekannt?",
+          "Pentru ce este faimoasă Valea Loarei?"
+        ],
+        "c": [
+          "Kastélyok",
+          "Castles",
+          "Schlösser",
+          "Castele"
+        ],
+        "w1": [
+          "Sivatagok",
+          "Deserts",
+          "Wüsten",
+          "Deșerturi"
+        ],
+        "w2": [
+          "Felhőkarcolók",
+          "Skyscrapers",
+          "Wolkenkratzer",
+          "Zgârie-nori"
+        ],
+        "w3": [
+          "Vulkánok",
+          "Volcanoes",
+          "Vulkane",
+          "Vulcani"
+        ]
+      },
+      {
+        "q": [
+          "Melyik félsziget található Franciaország északnyugati részén?",
+          "Which peninsula is located in the northwest of France?",
+          "Welche Halbinsel liegt im Nordwesten Frankreichs?",
+          "Ce peninsulă se află în nord-vestul Franței?"
+        ],
+        "c": [
+          "Bretagne",
+          "Brittany",
+          "Bretagne",
+          "Bretania"
+        ],
+        "w1": [
+          "Itáliai-félsziget",
+          "Italian Peninsula",
+          "Italienische Halbinsel",
+          "Peninsula Italică"
+        ],
+        "w2": [
+          "Skandináv-félsziget",
+          "Scandinavian Peninsula",
+          "Skandinavische Halbinsel",
+          "Peninsula Scandinavă"
+        ],
+        "w3": [
+          "Ibériai-félsziget",
+          "Iberian Peninsula",
+          "Iberische Halbinsel",
+          "Peninsula Iberică"
+        ]
+      },
+      {
+        "q": [
+          "Melyik régió partjainál történt a híres partraszállás 1944-ben?",
+          "On which region's shores did the famous landings take place in 1944?",
+          "An den Küsten welcher Region fand 1944 die berühmte Landung statt?",
+          "Pe țărmurile cărei regiuni a avut loc faimoasa debarcare în 1944?"
+        ],
+        "c": [
+          "Normandia",
+          "Normandy",
+          "Normandie",
+          "Normandia"
+        ],
+        "w1": [
+          "Provence",
+          "Provence",
+          "Provence",
+          "Provence"
+        ],
+        "w2": [
+          "Korzika",
+          "Corsica",
+          "Korsika",
+          "Corsica"
+        ],
+        "w3": [
+          "Bretagne",
+          "Brittany",
+          "Bretagne",
+          "Bretania"
+        ]
+      },
+      {
+        "q": [
+          "Melyik sziget tartozik Franciaországhoz a Földközi-tengeren?",
+          "Which island belongs to France in the Mediterranean Sea?",
+          "Welche Insel im Mittelmeer gehört zu Frankreich?",
+          "Care insulă din Marea Mediterană aparține Franței?"
+        ],
+        "c": [
+          "Korzika",
+          "Corsica",
+          "Korsika",
+          "Corsica"
+        ],
+        "w1": [
+          "Szicília",
+          "Sicily",
+          "Sizilien",
+          "Sicilia"
+        ],
+        "w2": [
+          "Szardínia",
+          "Sardinia",
+          "Sardinien",
+          "Sardinia"
+        ],
+        "w3": [
+          "Málta",
+          "Malta",
+          "Malta",
+          "Malta"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város híres a gasztronómiájáról és fekszik a Rhône és Saône találkozásánál?",
+          "Which city is famous for its gastronomy and lies at the confluence of the Rhône and Saône?",
+          "Welche Stadt ist berühmt für ihre Gastronomie und liegt am Zusammenfluss von Rhône und Saône?",
+          "Care oraș este faimos pentru gastronomia sa și se află la confluența râurilor Ron și Saône?"
+        ],
+        "c": [
+          "Lyon",
+          "Lyon",
+          "Lyon",
+          "Lyon"
+        ],
+        "w1": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ],
+        "w2": [
+          "Nizza",
+          "Nice",
+          "Nizza",
+          "Nisa"
+        ],
+        "w3": [
+          "Lille",
+          "Lille",
+          "Lille",
+          "Lille"
+        ]
+      },
+      {
+        "q": [
+          "Hogyan hívják Franciaország híres tengerpartját a Földközi-tengernél?",
+          "What is France's famous Mediterranean coast called?",
+          "Wie heißt Frankreichs berühmte Mittelmeerküste?",
+          "Cum se numește faimoasa coastă mediteraneană a Franței?"
+        ],
+        "c": [
+          "Francia Riviéra",
+          "French Riviera",
+          "Französische Riviera",
+          "Riviera Franceză"
+        ],
+        "w1": [
+          "Napospart",
+          "Sunny Beach",
+          "Sonnenstrand",
+          "Sunny Beach"
+        ],
+        "w2": [
+          "Aranypart",
+          "Gold Coast",
+          "Goldküste",
+          "Coasta de Aur"
+        ],
+        "w3": [
+          "Ezüstpart",
+          "Silver Coast",
+          "Silberküste",
+          "Coasta de Argint"
+        ]
+      },
+      {
+        "q": [
+          "Mi a Massif Central?",
+          "What is the Massif Central?",
+          "Was ist das Zentralmassiv?",
+          "Ce este Masivul Central?"
+        ],
+        "c": [
+          "Egy központi hegyvidék",
+          "A central highland",
+          "Ein zentrales Hochland",
+          "Un podiș central"
+        ],
+        "w1": [
+          "Egy nagy tó",
+          "A large lake",
+          "Ein großer See",
+          "Un lac mare"
+        ],
+        "w2": [
+          "Egy sivatag",
+          "A desert",
+          "Eine Wüste",
+          "Un deșert"
+        ],
+        "w3": [
+          "Egy folyó",
+          "A river",
+          "Ein Fluss",
+          "Un râu"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó folyik keresztül Bordeaux városán?",
+          "Which river flows through the city of Bordeaux?",
+          "Welcher Fluss fließt durch die Stadt Bordeaux?",
+          "Ce râu curge prin orașul Bordeaux?"
+        ],
+        "c": [
+          "Garonne",
+          "Garonne",
+          "Garonne",
+          "Garonne"
+        ],
+        "w1": [
+          "Szajna",
+          "Seine",
+          "Seine",
+          "Sena"
+        ],
+        "w2": [
+          "Loire",
+          "Loire",
+          "Loire",
+          "Loara"
+        ],
+        "w3": [
+          "Rajna",
+          "Rhine",
+          "Rhein",
+          "Rin"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város az Európai Parlament egyik székhelye és található Elzászban?",
+          "Which city is one seat of the European Parliament and is located in Alsace?",
+          "Welche Stadt ist ein Sitz des Europäischen Parlaments und liegt im Elsass?",
+          "Care oraș este un sediu al Parlamentului European și se află în Alsacia?"
+        ],
+        "c": [
+          "Strasbourg",
+          "Strasbourg",
+          "Straßburg",
+          "Strasbourg"
+        ],
+        "w1": [
+          "Metz",
+          "Metz",
+          "Metz",
+          "Metz"
+        ],
+        "w2": [
+          "Nancy",
+          "Nancy",
+          "Nancy",
+          "Nancy"
+        ],
+        "w3": [
+          "Colmar",
+          "Colmar",
+          "Colmar",
+          "Colmar"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város az európai repülőgépgyártás (Airbus) központja?",
+          "Which city is the center of European aerospace (Airbus)?",
+          "Welche Stadt ist das Zentrum der europäischen Luft- und Raumfahrt (Airbus)?",
+          "Care oraș este centrul industriei aerospațiale europene (Airbus)?"
+        ],
+        "c": [
+          "Toulouse",
+          "Toulouse",
+          "Toulouse",
+          "Toulouse"
+        ],
+        "w1": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ],
+        "w2": [
+          "Marseille",
+          "Marseille",
+          "Marseille",
+          "Marsilia"
+        ],
+        "w3": [
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest"
+        ]
+      },
+      {
+        "q": [
+          "Milyen alakúként emlegetik gyakran Franciaországot?",
+          "What shape is France often referred to as?",
+          "Welche Form wird Frankreich oft zugeschrieben?",
+          "Ce formă i se atribuie adesea Franței?"
+        ],
+        "c": [
+          "Hatszög",
+          "Hexagon",
+          "Sechseck",
+          "Hexagon"
+        ],
+        "w1": [
+          "Kör",
+          "Circle",
+          "Kreis",
+          "Cerc"
+        ],
+        "w2": [
+          "Négyzet",
+          "Square",
+          "Quadrat",
+          "Pătrat"
+        ],
+        "w3": [
+          "Háromszög",
+          "Triangle",
+          "Dreieck",
+          "Triunghi"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "q": [
+          "Franciaország fővárosa?",
+          "France's capital?",
+          "Frankreichs Hauptstadt?",
+          "Capitala Franței?"
+        ],
+        "a": [
+          "Párizs",
+          "Paris",
+          "Paris",
+          "Paris"
+        ]
+      },
+      {
+        "q": [
+          "Párizs folyója?",
+          "Paris's river?",
+          "Fluss von Paris?",
+          "Râul Parisului?"
+        ],
+        "a": [
+          "Szajna",
+          "Seine",
+          "Seine",
+          "Sena"
+        ]
+      },
+      {
+        "q": [
+          "Déli nagy kikötő?",
+          "Large southern port?",
+          "Großer Südhafen?",
+          "Port mare din sud?"
+        ],
+        "a": [
+          "Marseille",
+          "Marseille",
+          "Marseille",
+          "Marsilia"
+        ]
+      },
+      {
+        "q": [
+          "Gasztronómiai központ?",
+          "Gastronomy center?",
+          "Gastronomiezentrum?",
+          "Centrul gastronomiei?"
+        ],
+        "a": [
+          "Lyon",
+          "Lyon",
+          "Lyon",
+          "Lyon"
+        ]
+      },
+      {
+        "q": [
+          "Kastélyok folyója?",
+          "River of castles?",
+          "Fluss der Schlösser?",
+          "Râul castelelor?"
+        ],
+        "a": [
+          "Loire",
+          "Loire",
+          "Loire",
+          "Loara"
+        ]
+      },
+      {
+        "q": [
+          "Délnyugati hegység?",
+          "Southwestern mountain range?",
+          "Südwestliches Gebirge?",
+          "Lanț muntos din sud-vest?"
+        ],
+        "a": [
+          "Pireneusok",
+          "Pyrenees",
+          "Pyrenäen",
+          "Pirinei"
+        ]
+      },
+      {
+        "q": [
+          "Keleti hegység?",
+          "Eastern mountain range?",
+          "Östliches Gebirge?",
+          "Lanț muntos din est?"
+        ],
+        "a": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ]
+      },
+      {
+        "q": [
+          "Francia sziget?",
+          "French island?",
+          "Französische Insel?",
+          "Insulă franceză?"
+        ],
+        "a": [
+          "Korzika",
+          "Corsica",
+          "Korsika",
+          "Corsica"
+        ]
+      },
+      {
+        "q": [
+          "Folyam Lyonban?",
+          "River in Lyon?",
+          "Fluss in Lyon?",
+          "Fluviu în Lyon?"
+        ],
+        "a": [
+          "Rhône",
+          "Rhône",
+          "Rhône",
+          "Ron"
+        ]
+      },
+      {
+        "q": [
+          "Borvidék városa?",
+          "Wine region city?",
+          "Stadt der Weinregion?",
+          "Orașul regiunii viticole?"
+        ],
+        "a": [
+          "Bordeaux",
+          "Bordeaux",
+          "Bordeaux",
+          "Bordeaux"
+        ]
+      }
+    ]
+  },
+  "uk_regions": {
+    "mcq": [
+      {
+        "q": [
+          "Hány nemzet alkotja az Egyesült Királyságot?",
+          "How many nations make up the United Kingdom?",
+          "Wie viele Nationen bilden das Vereinigte Königreich?",
+          "Câte națiuni alcătuiesc Regatul Unit?"
+        ],
+        "c": [
+          "4",
+          "4",
+          "4",
+          "4"
+        ],
+        "w1": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "w2": [
+          "3",
+          "3",
+          "3",
+          "3"
+        ],
+        "w3": [
+          "5",
+          "5",
+          "5",
+          "5"
+        ]
+      },
+      {
+        "q": [
+          "Mi az Egyesült Királyság fővárosa?",
+          "What is the capital of the United Kingdom?",
+          "Was ist die Hauptstadt des Vereinigten Königreichs?",
+          "Care este capitala Regatului Unit?"
+        ],
+        "c": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ],
+        "w1": [
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh"
+        ],
+        "w2": [
+          "Dublin",
+          "Dublin",
+          "Dublin",
+          "Dublin"
+        ],
+        "w3": [
+          "Manchester",
+          "Manchester",
+          "Manchester",
+          "Manchester"
+        ]
+      },
+      {
+        "q": [
+          "Mi Skócia fővárosa?",
+          "What is the capital of Scotland?",
+          "Was ist die Hauptstadt von Schottland?",
+          "Care este capitala Scoției?"
+        ],
+        "c": [
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh"
+        ],
+        "w1": [
+          "Glasgow",
+          "Glasgow",
+          "Glasgow",
+          "Glasgow"
+        ],
+        "w2": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ],
+        "w3": [
+          "Belfast",
+          "Belfast",
+          "Belfast",
+          "Belfast"
+        ]
+      },
+      {
+        "q": [
+          "Mi Wales fővárosa?",
+          "What is the capital of Wales?",
+          "Was ist die Hauptstadt von Wales?",
+          "Care este capitala Țării Galilor?"
+        ],
+        "c": [
+          "Cardiff",
+          "Cardiff",
+          "Cardiff",
+          "Cardiff"
+        ],
+        "w1": [
+          "Swansea",
+          "Swansea",
+          "Swansea",
+          "Swansea"
+        ],
+        "w2": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ],
+        "w3": [
+          "Belfast",
+          "Belfast",
+          "Belfast",
+          "Belfast"
+        ]
+      },
+      {
+        "q": [
+          "Mi Észak-Írország fővárosa?",
+          "What is the capital of Northern Ireland?",
+          "Was ist die Hauptstadt von Nordirland?",
+          "Care este capitala Irlandei de Nord?"
+        ],
+        "c": [
+          "Belfast",
+          "Belfast",
+          "Belfast",
+          "Belfast"
+        ],
+        "w1": [
+          "Dublin",
+          "Dublin",
+          "Dublin",
+          "Dublin"
+        ],
+        "w2": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ],
+        "w3": [
+          "Derry",
+          "Derry",
+          "Derry",
+          "Derry"
+        ]
+      },
+      {
+        "q": [
+          "Melyik a legmagasabb hegycsúcs az Egyesült Királyságban?",
+          "Which is the highest peak in the United Kingdom?",
+          "Welches ist der höchste Gipfel im Vereinigten Königreich?",
+          "Care este cel mai înalt vârf din Regatul Unit?"
+        ],
+        "c": [
+          "Ben Nevis",
+          "Ben Nevis",
+          "Ben Nevis",
+          "Ben Nevis"
+        ],
+        "w1": [
+          "Snowdon",
+          "Snowdon",
+          "Snowdon",
+          "Snowdon"
+        ],
+        "w2": [
+          "Scafell Pike",
+          "Scafell Pike",
+          "Scafell Pike",
+          "Scafell Pike"
+        ],
+        "w3": [
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc",
+          "Mont Blanc"
+        ]
+      },
+      {
+        "q": [
+          "Melyik az Egyesült Királyság legnagyobb tava (lough)?",
+          "Which is the largest lake (lough) in the United Kingdom?",
+          "Welches ist der größte See (Lough) im Vereinigten Königreich?",
+          "Care este cel mai mare lac (lough) din Regatul Unit?"
+        ],
+        "c": [
+          "Lough Neagh",
+          "Lough Neagh",
+          "Lough Neagh",
+          "Lough Neagh"
+        ],
+        "w1": [
+          "Loch Ness",
+          "Loch Ness",
+          "Loch Ness",
+          "Loch Ness"
+        ],
+        "w2": [
+          "Windermere",
+          "Windermere",
+          "Windermere",
+          "Windermere"
+        ],
+        "w3": [
+          "Loch Lomond",
+          "Loch Lomond",
+          "Loch Lomond",
+          "Loch Lomond"
+        ]
+      },
+      {
+        "q": [
+          "Melyik folyó folyik keresztül Londonon?",
+          "Which river flows through London?",
+          "Welcher Fluss fließt durch London?",
+          "Ce râu curge prin Londra?"
+        ],
+        "c": [
+          "Temze",
+          "Thames",
+          "Themse",
+          "Tamisa"
+        ],
+        "w1": [
+          "Severn",
+          "Severn",
+          "Severn",
+          "Severn"
+        ],
+        "w2": [
+          "Trent",
+          "Trent",
+          "Trent",
+          "Trent"
+        ],
+        "w3": [
+          "Mersey",
+          "Mersey",
+          "Mersey",
+          "Mersey"
+        ]
+      },
+      {
+        "q": [
+          "Hogy hívják Skócia északi, hegyvidéki részét?",
+          "What is the northern, mountainous part of Scotland called?",
+          "Wie heißt der nördliche, bergige Teil Schottlands?",
+          "Cum se numește partea nordică, muntoasă a Scoției?"
+        ],
+        "c": [
+          "Felföld",
+          "Highlands",
+          "Highlands",
+          "Highlands"
+        ],
+        "w1": [
+          "Alföld",
+          "Lowlands",
+          "Lowlands",
+          "Lowlands"
+        ],
+        "w2": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w3": [
+          "Sziklás-hegység",
+          "Rocky Mountains",
+          "Rocky Mountains",
+          "Munții Stâncoși"
+        ]
+      },
+      {
+        "q": [
+          "Melyik hegység húzódik végig Anglia közepén ('Anglia gerince')?",
+          "Which mountain range runs through the middle of England ('the backbone of England')?",
+          "Welches Gebirge zieht sich durch die Mitte Englands ('das Rückgrat Englands')?",
+          "Ce lanț muntos traversează mijlocul Angliei („coloana vertebrală a Angliei”)?"
+        ],
+        "c": [
+          "Pennine-hegység",
+          "Pennines",
+          "Penninen",
+          "Munții Penini"
+        ],
+        "w1": [
+          "Alpok",
+          "Alps",
+          "Alpen",
+          "Alpi"
+        ],
+        "w2": [
+          "Kárpátok",
+          "Carpathians",
+          "Karpaten",
+          "Carpați"
+        ],
+        "w3": [
+          "Grampian-hegység",
+          "Grampians",
+          "Grampian Mountains",
+          "Munții Grampiani"
+        ]
+      },
+      {
+        "q": [
+          "Melyik város híres az ipari múltjáról és a pamutiparáról?",
+          "Which city is famous for its industrial past and cotton industry?",
+          "Welche Stadt ist berühmt für ihre industrielle Vergangenheit und Baumwollindustrie?",
+          "Care oraș este faimos pentru trecutul său industrial și industria bumbacului?"
+        ],
+        "c": [
+          "Manchester",
+          "Manchester",
+          "Manchester",
+          "Manchester"
+        ],
+        "w1": [
+          "Oxford",
+          "Oxford",
+          "Oxford",
+          "Oxford"
+        ],
+        "w2": [
+          "Cambridge",
+          "Cambridge",
+          "Cambridge",
+          "Cambridge"
+        ],
+        "w3": [
+          "Bath",
+          "Bath",
+          "Bath",
+          "Bath"
+        ]
+      },
+      {
+        "q": [
+          "Mi választja el az Egyesült Királyságot Franciaországtól délen?",
+          "What separates the United Kingdom from France in the south?",
+          "Was trennt das Vereinigte Königreich im Süden von Frankreich?",
+          "Ce separă Regatul Unit de Franța la sud?"
+        ],
+        "c": [
+          "La Manche (Csatorna)",
+          "English Channel",
+          "Ärmelkanal",
+          "Canalul Mânecii"
+        ],
+        "w1": [
+          "Északi-tenger",
+          "North Sea",
+          "Nordsee",
+          "Marea Nordului"
+        ],
+        "w2": [
+          "Ír-tenger",
+          "Irish Sea",
+          "Irische See",
+          "Marea Irlandei"
+        ],
+        "w3": [
+          "Atlanti-óceán",
+          "Atlantic Ocean",
+          "Atlantischer Ozean",
+          "Oceanul Atlantic"
+        ]
+      },
+      {
+        "q": [
+          "Melyik tenger található az Ír-sziget és Nagy-Britannia között?",
+          "Which sea is located between the island of Ireland and Great Britain?",
+          "Welches Meer liegt zwischen der Insel Irland und Großbritannien?",
+          "Ce mare se află între insula Irlanda și Marea Britanie?"
+        ],
+        "c": [
+          "Ír-tenger",
+          "Irish Sea",
+          "Irische See",
+          "Marea Irlandei"
+        ],
+        "w1": [
+          "Északi-tenger",
+          "North Sea",
+          "Nordsee",
+          "Marea Nordului"
+        ],
+        "w2": [
+          "Földközi-tenger",
+          "Mediterranean Sea",
+          "Mittelmeer",
+          "Marea Mediterană"
+        ],
+        "w3": [
+          "Vörös-tenger",
+          "Red Sea",
+          "Rotes Meer",
+          "Marea Roșie"
+        ]
+      },
+      {
+        "q": [
+          "Melyik tenger határolja az Egyesült Királyságot keleten?",
+          "Which sea borders the United Kingdom to the east?",
+          "Welches Meer grenzt im Osten an das Vereinigte Königreich?",
+          "Ce mare mărginește Regatul Unit la est?"
+        ],
+        "c": [
+          "Északi-tenger",
+          "North Sea",
+          "Nordsee",
+          "Marea Nordului"
+        ],
+        "w1": [
+          "Ír-tenger",
+          "Irish Sea",
+          "Irische See",
+          "Marea Irlandei"
+        ],
+        "w2": [
+          "Balti-tenger",
+          "Baltic Sea",
+          "Ostsee",
+          "Marea Baltică"
+        ],
+        "w3": [
+          "Fekete-tenger",
+          "Black Sea",
+          "Schwarzes Meer",
+          "Marea Neagră"
+        ]
+      },
+      {
+        "q": [
+          "Hol található a Snowdonia Nemzeti Park?",
+          "Where is Snowdonia National Park located?",
+          "Wo liegt der Snowdonia-Nationalpark?",
+          "Unde se află Parcul Național Snowdonia?"
+        ],
+        "c": [
+          "Wales",
+          "Wales",
+          "Wales",
+          "Țara Galilor"
+        ],
+        "w1": [
+          "Anglia",
+          "England",
+          "England",
+          "Anglia"
+        ],
+        "w2": [
+          "Skócia",
+          "Scotland",
+          "Schottland",
+          "Scoția"
+        ],
+        "w3": [
+          "Észak-Írország",
+          "Northern Ireland",
+          "Nordirland",
+          "Irlanda de Nord"
+        ]
+      },
+      {
+        "q": [
+          "Melyik angol régió híres a tavairól és költőiről?",
+          "Which English region is famous for its lakes and poets?",
+          "Welche englische Region ist berühmt für ihre Seen und Dichter?",
+          "Care regiune engleză este faimoasă pentru lacurile și poeții săi?"
+        ],
+        "c": [
+          "Tóvidék (Lake District)",
+          "Lake District",
+          "Lake District",
+          "Lake District"
+        ],
+        "w1": [
+          "Cornwall",
+          "Cornwall",
+          "Cornwall",
+          "Cornwall"
+        ],
+        "w2": [
+          "Midlands",
+          "Midlands",
+          "Midlands",
+          "Midlands"
+        ],
+        "w3": [
+          "East Anglia",
+          "East Anglia",
+          "East Anglia",
+          "East Anglia"
+        ]
+      },
+      {
+        "q": [
+          "Mi a Giant's Causeway?",
+          "What is the Giant's Causeway?",
+          "Was ist der Giant's Causeway?",
+          "Ce este Giant's Causeway?"
+        ],
+        "c": [
+          "Bazaltoszlopok Észak-Írországban",
+          "Basalt columns in Northern Ireland",
+          "Basaltsäulen in Nordirland",
+          "Coloane de bazalt în Irlanda de Nord"
+        ],
+        "w1": [
+          "Egy nagy híd Londonban",
+          "A large bridge in London",
+          "Eine große Brücke in London",
+          "Un pod mare în Londra"
+        ],
+        "w2": [
+          "Egy skót vár",
+          "A Scottish castle",
+          "Eine schottische Burg",
+          "Un castel scoțian"
+        ],
+        "w3": [
+          "Egy folyó Walesben",
+          "A river in Wales",
+          "Ein Fluss in Wales",
+          "Un râu în Țara Galilor"
+        ]
+      },
+      {
+        "q": [
+          "Melyik az Egyesült Királyság leghosszabb folyója?",
+          "Which is the longest river in the United Kingdom?",
+          "Welcher ist der längste Fluss im Vereinigten Königreich?",
+          "Care este cel mai lung râu din Regatul Unit?"
+        ],
+        "c": [
+          "Severn",
+          "Severn",
+          "Severn",
+          "Severn"
+        ],
+        "w1": [
+          "Temze",
+          "Thames",
+          "Themse",
+          "Tamisa"
+        ],
+        "w2": [
+          "Trent",
+          "Trent",
+          "Trent",
+          "Trent"
+        ],
+        "w3": [
+          "Tay",
+          "Tay",
+          "Tay",
+          "Tay"
+        ]
+      },
+      {
+        "q": [
+          "Melyik tó híres a legendás szörnyéről?",
+          "Which lake is famous for its legendary monster?",
+          "Welcher See ist berühmt für sein legendäres Monster?",
+          "Care lac este faimos pentru monstrul său legendar?"
+        ],
+        "c": [
+          "Loch Ness",
+          "Loch Ness",
+          "Loch Ness",
+          "Loch Ness"
+        ],
+        "w1": [
+          "Loch Lomond",
+          "Loch Lomond",
+          "Loch Lomond",
+          "Loch Lomond"
+        ],
+        "w2": [
+          "Windermere",
+          "Windermere",
+          "Windermere",
+          "Windermere"
+        ],
+        "w3": [
+          "Ullswater",
+          "Ullswater",
+          "Ullswater",
+          "Ullswater"
+        ]
+      },
+      {
+        "q": [
+          "Mely városok híresek patinás egyetemeikről?",
+          "Which cities are famous for their ancient universities?",
+          "Welche Städte sind berühmt für ihre altehrwürdigen Universitäten?",
+          "Care orașe sunt faimoase pentru universitățile lor vechi?"
+        ],
+        "c": [
+          "Oxford és Cambridge",
+          "Oxford and Cambridge",
+          "Oxford und Cambridge",
+          "Oxford și Cambridge"
+        ],
+        "w1": [
+          "London és Manchester",
+          "London and Manchester",
+          "London und Manchester",
+          "Londra și Manchester"
+        ],
+        "w2": [
+          "Liverpool és Leeds",
+          "Liverpool and Leeds",
+          "Liverpool und Leeds",
+          "Liverpool și Leeds"
+        ],
+        "w3": [
+          "Belfast és Cardiff",
+          "Belfast and Cardiff",
+          "Belfast und Cardiff",
+          "Belfast și Cardiff"
+        ]
+      }
+    ],
+    "typing": [
+      {
+        "q": [
+          "UK fővárosa?",
+          "UK capital?",
+          "UK-Hauptstadt?",
+          "Capitala UK?"
+        ],
+        "a": [
+          "London",
+          "London",
+          "London",
+          "Londra"
+        ]
+      },
+      {
+        "q": [
+          "Skócia fővárosa?",
+          "Scotland's capital?",
+          "Schottlands Hauptstadt?",
+          "Capitala Scoției?"
+        ],
+        "a": [
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh",
+          "Edinburgh"
+        ]
+      },
+      {
+        "q": [
+          "Wales fővárosa?",
+          "Wales's capital?",
+          "Wales' Hauptstadt?",
+          "Capitala Țării Galilor?"
+        ],
+        "a": [
+          "Cardiff",
+          "Cardiff",
+          "Cardiff",
+          "Cardiff"
+        ]
+      },
+      {
+        "q": [
+          "Észak-Írország fővárosa?",
+          "Northern Ireland's capital?",
+          "Nordirlands Hauptstadt?",
+          "Capitala Irlandei de Nord?"
+        ],
+        "a": [
+          "Belfast",
+          "Belfast",
+          "Belfast",
+          "Belfast"
+        ]
+      },
+      {
+        "q": [
+          "London folyója?",
+          "London's river?",
+          "Fluss von London?",
+          "Râul Londrei?"
+        ],
+        "a": [
+          "Temze",
+          "Thames",
+          "Themse",
+          "Tamisa"
+        ]
+      },
+      {
+        "q": [
+          "Hegyes-völgyes Skócia?",
+          "Mountainous Scotland?",
+          "Gebirgiges Schottland?",
+          "Scoția muntoasă?"
+        ],
+        "a": [
+          "Felföld",
+          "Highlands",
+          "Highlands",
+          "Highlands"
+        ]
+      },
+      {
+        "q": [
+          "Vörös sárkányos nemzet?",
+          "Red dragon nation?",
+          "Nation des roten Drachen?",
+          "Națiunea dragonului roșu?"
+        ],
+        "a": [
+          "Wales",
+          "Wales",
+          "Wales",
+          "Țara Galilor"
+        ]
+      },
+      {
+        "q": [
+          "Legnagyobb brit tagállam?",
+          "Largest British nation?",
+          "Größte britische Nation?",
+          "Cea mai mare națiune britanică?"
+        ],
+        "a": [
+          "Anglia",
+          "England",
+          "England",
+          "Anglia"
+        ]
+      },
+      {
+        "q": [
+          "Leghosszabb folyó?",
+          "Longest river?",
+          "Längster Fluss?",
+          "Cel mai lung râu?"
+        ],
+        "a": [
+          "Severn",
+          "Severn",
+          "Severn",
+          "Severn"
+        ]
+      },
+      {
+        "q": [
+          "Észak-angol nagyváros?",
+          "North English city?",
+          "Nordenglische Stadt?",
+          "Oraș din nordul Angliei?"
+        ],
+        "a": [
+          "Manchester",
+          "Manchester",
+          "Manchester",
+          "Manchester"
+        ]
+      }
+    ]
+  }
+}

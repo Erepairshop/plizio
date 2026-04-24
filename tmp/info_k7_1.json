@@ -1,0 +1,950 @@
+{
+  "info_k7_hardware": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Komponente wird oft als das 'Gehirn' des Computers bezeichnet?",
+        "hu": "Melyik alkatrészt nevezik gyakran a számítógép 'agyának'?",
+        "ro": "Care componentă este adesea numită 'creierul' calculatorului?",
+        "en": "Which component is often referred to as the 'brain' of the computer?"
+      },
+      "options": {
+        "de": ["Festplatte (HDD)", "Grafikkarte (GPU)", "Zentraleinheit (CPU)", "Arbeitsspeicher (RAM)"],
+        "hu": ["Merevlemez (HDD)", "Videókártya (GPU)", "Központi egység (CPU)", "Munkamemória (RAM)"],
+        "ro": ["Hard disk (HDD)", "Placă video (GPU)", "Unitate centrală (CPU)", "Memorie RAM"],
+        "en": ["Hard Drive (HDD)", "Graphics Card (GPU)", "Central Processing Unit (CPU)", "Random Access Memory (RAM)"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Hauptvorteil einer SSD gegenüber einer HDD?",
+        "hu": "Mi az SSD fő előnye a HDD-vel szemben?",
+        "ro": "Care este principalul avantaj al unui SSD față de un HDD?",
+        "en": "What is the main advantage of an SSD over an HDD?"
+      },
+      "options": {
+        "de": ["Höhere Kapazität", "Geringerer Preis", "Höhere Geschwindigkeit", "Größeres Gewicht"],
+        "hu": ["Nagyobb kapacitás", "Alacsonyabb ár", "Nagyobb sebesség", "Nagyobb súly"],
+        "ro": ["Capacitate mai mare", "Preț mai mic", "Viteză mai mare", "Greutate mai mare"],
+        "en": ["Higher capacity", "Lower price", "Higher speed", "Heavier weight"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Art von Speicher ist flüchtig und verliert Daten beim Ausschalten?",
+        "hu": "Melyik memóriatípus felejtő, azaz kikapcsoláskor elveszíti az adatokat?",
+        "ro": "Ce tip de memorie este volatilă și pierde datele la oprire?",
+        "en": "Which type of memory is volatile and loses data when powered off?"
+      },
+      "options": {
+        "de": ["ROM", "RAM", "SSD", "Flash"],
+        "hu": ["ROM", "RAM", "SSD", "Flash"],
+        "ro": ["ROM", "RAM", "SSD", "Flash"],
+        "en": ["ROM", "RAM", "SSD", "Flash"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Gerät ist ein reines Ausgabegerät?",
+        "hu": "Melyik eszköz tisztán kimeneti eszköz?",
+        "ro": "Care dispozitiv este pur de ieșire?",
+        "en": "Which device is a pure output device?"
+      },
+      "options": {
+        "de": ["Maus", "Tastatur", "Monitor", "Scanner"],
+        "hu": ["Egér", "Billentyűzet", "Monitor", "Szkenner"],
+        "ro": ["Mouse", "Tastatură", "Monitor", "Scanner"],
+        "en": ["Mouse", "Keyboard", "Monitor", "Scanner"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet die Abkürzung GPU?",
+        "hu": "Mit jelent a GPU rövidítés?",
+        "ro": "Ce înseamnă abrevierea GPU?",
+        "en": "What does the abbreviation GPU stand for?"
+      },
+      "options": {
+        "de": ["General Processing Unit", "Graphics Processing Unit", "Global Power Unit", "Gaming Processing Unit"],
+        "hu": ["General Processing Unit", "Graphics Processing Unit", "Global Power Unit", "Gaming Processing Unit"],
+        "ro": ["General Processing Unit", "Graphics Processing Unit", "Global Power Unit", "Gaming Processing Unit"],
+        "en": ["General Processing Unit", "Graphics Processing Unit", "Global Power Unit", "Gaming Processing Unit"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo wird das BIOS/UEFI normalerweise gespeichert?",
+        "hu": "Hol tárolódik általában a BIOS/UEFI?",
+        "ro": "Unde este stocat de obicei BIOS/UEFI?",
+        "en": "Where is the BIOS/UEFI typically stored?"
+      },
+      "options": {
+        "de": ["Auf der Festplatte", "Im RAM", "In einem ROM/Flash-Chip auf dem Mainboard", "Auf einem USB-Stick"],
+        "hu": ["A merevlemezen", "A RAM-ban", "Az alaplapi ROM/Flash chipben", "Egy pendrive-on"],
+        "ro": ["Pe hard disk", "În RAM", "Într-un cip ROM/Flash de pe placa de bază", "Pe un stick USB"],
+        "en": ["On the hard drive", "In RAM", "In a ROM/Flash chip on the motherboard", "On a USB stick"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Anschluss wird heute am häufigsten für Peripheriegeräte verwendet?",
+        "hu": "Melyik csatlakozót használják ma leggyakrabban perifériákhoz?",
+        "ro": "Care conector este cel mai des utilizat astăzi pentru periferice?",
+        "en": "Which connector is most commonly used today for peripheral devices?"
+      },
+      "options": {
+        "de": ["PS/2", "VGA", "USB", "Parallelport"],
+        "hu": ["PS/2", "VGA", "USB", "Párhuzamos port"],
+        "ro": ["PS/2", "VGA", "USB", "Port paralel"],
+        "en": ["PS/2", "VGA", "USB", "Parallel port"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Hauptaufgabe des Netzteils?",
+        "hu": "Mi a tápegység fő feladata?",
+        "ro": "Care este sarcina principală a sursei de alimentare?",
+        "en": "What is the main task of the power supply unit?"
+      },
+      "options": {
+        "de": ["Daten speichern", "Strom in die richtige Spannung umwandeln", "Bilder berechnen", "Den Computer kühlen"],
+        "hu": ["Adatok tárolása", "Áram átalakítása megfelelő feszültségre", "Képek kiszámítása", "A számítógép hűtése"],
+        "ro": ["Stocarea datelor", "Transformarea curentului în tensiunea corectă", "Calcularea imaginilor", "Răcirea calculatorului"],
+        "en": ["Store data", "Convert electricity to the correct voltage", "Calculate images", "Cool the computer"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches dieser Geräte ist sowohl ein Eingabe- als auch ein Ausgabegerät?",
+        "hu": "Melyik eszköz egyszerre beviteli és kimeneti eszköz is?",
+        "ro": "Care dintre aceste dispozitive este atât de intrare, cât și de ieșire?",
+        "en": "Which of these devices is both an input and an output device?"
+      },
+      "options": {
+        "de": ["Touchscreen", "Lautsprecher", "Webcam", "Tastatur"],
+        "hu": ["Érintőképernyő", "Hangszóró", "Webkamera", "Billentyűzet"],
+        "ro": ["Touchscreen", "Boxe", "Webcam", "Tastatură"],
+        "en": ["Touchscreen", "Speakers", "Webcam", "Keyboard"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Hauptplatine, auf der alle Komponenten verbunden sind?",
+        "hu": "Hogy hívják a fő áramköri lapot, amelyen minden alkatrész kapcsolódik?",
+        "ro": "Cum se numește placa principală pe care sunt conectate toate componentele?",
+        "en": "What is the main circuit board called where all components are connected?"
+      },
+      "options": {
+        "de": ["Soundkarte", "Mainboard / Motherboard", "Netzwerkkarte", "CPU-Kühler"],
+        "hu": ["Hangkártya", "Alaplap (Mainboard / Motherboard)", "Hálózati kártya", "CPU hűtő"],
+        "ro": ["Placă de sunet", "Placa de bază (Mainboard / Motherboard)", "Placă de rețea", "Cooler CPU"],
+        "en": ["Sound card", "Mainboard / Motherboard", "Network card", "CPU cooler"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne die Komponente, die Daten dauerhaft speichert (Abkürzung mit 3 Buchstaben).",
+        "hu": "Nevezd meg az alkatrészt, amely tartósan tárolja az adatokat (3 betűs rövidítés).",
+        "ro": "Numește componenta care stochează datele permanent (abreviere de 3 litere).",
+        "en": "Name the component that stores data permanently (3-letter abbreviation)."
+      },
+      "answer": {
+        "de": "HDD",
+        "hu": "HDD",
+        "ro": "HDD",
+        "en": "HDD"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der flüchtige Arbeitsspeicher (Abkürzung)?",
+        "hu": "Hogy hívják a felejtő munkamemóriát (rövidítés)?",
+        "ro": "Cum se numește memoria de lucru volatilă (abreviere)?",
+        "en": "What is the volatile working memory called (abbreviation)?"
+      },
+      "answer": {
+        "de": "RAM",
+        "hu": "RAM",
+        "ro": "RAM",
+        "en": "RAM"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Gerät nutzt man, um gedruckte Fotos zu digitalisieren?",
+        "hu": "Milyen eszközt használunk nyomtatott fotók digitalizálására?",
+        "ro": "Ce dispozitiv folosim pentru a digitaliza fotografiile imprimate?",
+        "en": "What device is used to digitize printed photos?"
+      },
+      "answer": {
+        "de": "Scanner",
+        "hu": "Szkenner",
+        "ro": "Scanner",
+        "en": "Scanner"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die physischen Teile eines Computers?",
+        "hu": "Hogy hívjuk a számítógép fizikai alkatrészeit?",
+        "ro": "Cum se numesc părțile fizice ale unui calculator?",
+        "en": "What are the physical parts of a computer called?"
+      },
+      "answer": {
+        "de": "Hardware",
+        "hu": "Hardver",
+        "ro": "Hardware",
+        "en": "Hardware"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Zentraleinheit des Computers (Abkürzung)?",
+        "hu": "Hogy hívják a számítógép központi egységét (rövidítés)?",
+        "ro": "Cum se numește unitatea centrală a calculatorului (abreviere)?",
+        "en": "What is the central processing unit of the computer called (abbreviation)?"
+      },
+      "answer": {
+        "de": "CPU",
+        "hu": "CPU",
+        "ro": "CPU",
+        "en": "CPU"
+      }
+    }
+  ],
+  "info_k7_os": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches dieser Programme ist ein Betriebssystem?",
+        "hu": "Melyik program ezek közül operációs rendszer?",
+        "ro": "Care dintre aceste programe este un sistem de operare?",
+        "en": "Which of these programs is an operating system?"
+      },
+      "options": {
+        "de": ["Google Chrome", "Linux", "Microsoft Word", "Adobe Photoshop"],
+        "hu": ["Google Chrome", "Linux", "Microsoft Word", "Adobe Photoshop"],
+        "ro": ["Google Chrome", "Linux", "Microsoft Word", "Adobe Photoshop"],
+        "en": ["Google Chrome", "Linux", "Microsoft Word", "Adobe Photoshop"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Hauptaufgabe eines Betriebssystems?",
+        "hu": "Mi az operációs rendszer fő feladata?",
+        "ro": "Care este sarcina principală a unui sistem de operare?",
+        "en": "What is the main task of an operating system?"
+      },
+      "options": {
+        "de": ["Briefe schreiben", "Hardware verwalten und Programme ausführen", "Im Internet surfen", "Spiele spielen"],
+        "hu": ["Levelek írása", "Hardver kezelése és programok futtatása", "Internetezés", "Játék"],
+        "ro": ["Scrierea de scrisori", "Gestionarea hardware-ului și rularea programelor", "Navigarea pe internet", "Jocuri"],
+        "en": ["Write letters", "Manage hardware and run programs", "Surf the internet", "Play games"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die grafische Benutzeroberfläche?",
+        "hu": "Hogy hívják a grafikus felhasználói felületet?",
+        "ro": "Cum se numește interfața grafică cu utilizatorul?",
+        "en": "What is the graphical user interface called?"
+      },
+      "options": {
+        "de": ["CPU", "RAM", "GUI", "BIOS"],
+        "hu": ["CPU", "RAM", "GUI", "BIOS"],
+        "ro": ["CPU", "RAM", "GUI", "BIOS"],
+        "en": ["CPU", "RAM", "GUI", "BIOS"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Betriebssystem wird von Apple für Macs verwendet?",
+        "hu": "Melyik operációs rendszert használja az Apple a Mac gépeken?",
+        "ro": "Ce sistem de operare folosește Apple pentru computerele Mac?",
+        "en": "Which operating system does Apple use for Mac computers?"
+      },
+      "options": {
+        "de": ["Windows", "Android", "macOS", "Linux"],
+        "hu": ["Windows", "Android", "macOS", "Linux"],
+        "ro": ["Windows", "Android", "macOS", "Linux"],
+        "en": ["Windows", "Android", "macOS", "Linux"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Treiber' (Driver)?",
+        "hu": "Mi az a 'illesztőprogram' (driver)?",
+        "ro": "Ce este un 'driver'?",
+        "en": "What is a 'driver'?"
+      },
+      "options": {
+        "de": ["Ein Computerspiel", "Software, die Hardware steuert", "Ein Virus", "Ein Internetbrowser"],
+        "hu": ["Egy számítógépes játék", "Hardvert vezérlő szoftver", "Egy vírus", "Egy internetböngésző"],
+        "ro": ["Un joc pe calculator", "Software care controlează hardware-ul", "Un virus", "Un browser de internet"],
+        "en": ["A computer game", "Software that controls hardware", "A virus", "An internet browser"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert beim 'Booten'?",
+        "hu": "Mi történik a 'bootolás' során?",
+        "ro": "Ce se întâmplă în timpul 'boot-ării'?",
+        "en": "What happens during 'booting'?"
+      },
+      "options": {
+        "de": ["Der Computer schaltet sich aus", "Das Betriebssystem wird geladen", "Ein Programm wird deinstalliert", "Der Monitor wird gereinigt"],
+        "hu": ["A számítógép kikapcsol", "Az operációs rendszer betöltődik", "Egy program törlődik", "A monitor tisztítása"],
+        "ro": ["Calculatorul se oprește", "Sistemul de operare se încarcă", "Un program este dezinstalat", "Monitorul este curățat"],
+        "en": ["The computer turns off", "The operating system loads", "A program is uninstalled", "The monitor is cleaned"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches dieser Betriebssysteme ist Open Source?",
+        "hu": "Melyik operációs rendszer nyílt forráskódú (open source)?",
+        "ro": "Care dintre aceste sisteme de operare este open source?",
+        "en": "Which of these operating systems is open source?"
+      },
+      "options": {
+        "de": ["Windows 10", "Linux", "macOS", "iOS"],
+        "hu": ["Windows 10", "Linux", "macOS", "iOS"],
+        "ro": ["Windows 10", "Linux", "macOS", "iOS"],
+        "en": ["Windows 10", "Linux", "macOS", "iOS"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man den Kern eines Betriebssystems?",
+        "hu": "Hogy hívják az operációs rendszer magját?",
+        "ro": "Cum se numește nucleul unui sistem de operare?",
+        "en": "What is the core of an operating system called?"
+      },
+      "options": {
+        "de": ["Shell", "User Interface", "Kernel", "Registry"],
+        "hu": ["Shell", "User Interface", "Kernel", "Registry"],
+        "ro": ["Shell", "Interfață utilizator", "Kernel", "Registry"],
+        "en": ["Shell", "User Interface", "Kernel", "Registry"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Multitasking'-Fähigkeit?",
+        "hu": "Mi a 'többpéldányos futtatás' (multitasking) képesség?",
+        "ro": "Ce este capacitatea 'multitasking'?",
+        "en": "What is 'multitasking' capability?"
+      },
+      "options": {
+        "de": ["Mehrere Computer verbinden", "Mehrere Programme gleichzeitig ausführen", "Mehrere Monitore nutzen", "Sich mit mehreren Benutzern anmelden"],
+        "hu": ["Több számítógép összekötése", "Több program egyidejű futtatása", "Több monitor használata", "Több felhasználóval belépni"],
+        "ro": ["Conectarea mai multor calculatoare", "Rularea mai multor programe simultan", "Utilizarea mai multor monitoare", "Autentificarea cu mai mulți utilizatori"],
+        "en": ["Connecting multiple computers", "Running multiple programs at the same time", "Using multiple monitors", "Logging in with multiple users"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Teil von Windows verwaltet Einstellungen und Konfigurationen?",
+        "hu": "A Windows melyik része kezeli a beállításokat és konfigurációkat?",
+        "ro": "Care parte din Windows gestionează setările și configurațiile?",
+        "en": "Which part of Windows manages settings and configurations?"
+      },
+      "options": {
+        "de": ["Papierkorb", "Systemsteuerung / Einstellungen", "Notepad", "Paint"],
+        "hu": ["Lomtár", "Vezérlőpult / Gépház", "Jegyzettömb", "Paint"],
+        "ro": ["Coș de gunoi", "Panou de control / Setări", "Notepad", "Paint"],
+        "en": ["Recycle Bin", "Control Panel / Settings", "Notepad", "Paint"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das bekannteste Betriebssystem von Microsoft?",
+        "hu": "Hogy hívják a Microsoft legismertebb operációs rendszerét?",
+        "ro": "Cum se numește cel mai cunoscut sistem de operare de la Microsoft?",
+        "en": "What is the name of Microsoft's most famous operating system?"
+      },
+      "answer": {
+        "de": "Windows",
+        "hu": "Windows",
+        "ro": "Windows",
+        "en": "Windows"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Software, die den Computer direkt nach dem Einschalten prüft?",
+        "hu": "Hogy hívják azt a szoftvert, amely bekapcsolás után azonnal ellenőrzi a gépet?",
+        "ro": "Cum se numește software-ul care verifică computerul imediat după pornire?",
+        "en": "What is the software called that checks the computer immediately after power-on?"
+      },
+      "answer": {
+        "de": "BIOS",
+        "hu": "BIOS",
+        "ro": "BIOS",
+        "en": "BIOS"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne ein mobiles Betriebssystem von Google.",
+        "hu": "Nevezz meg egy mobil operációs rendszert a Google-től.",
+        "ro": "Numește un sistem de operare mobil de la Google.",
+        "en": "Name a mobile operating system from Google."
+      },
+      "answer": {
+        "de": "Android",
+        "hu": "Android",
+        "ro": "Android",
+        "en": "Android"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den Hintergrundbildschirm eines Betriebssystems?",
+        "hu": "Hogy hívják az operációs rendszer háttérképernyőjét?",
+        "ro": "Cum se numește ecranul de fundal al unui sistem de operare?",
+        "en": "What is the background screen of an operating system called?"
+      },
+      "answer": {
+        "de": "Desktop",
+        "hu": "Asztal",
+        "ro": "Desktop",
+        "en": "Desktop"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Symbol im OS dient zum Löschen von Dateien?",
+        "hu": "Melyik szimbólum szolgál az operációs rendszerben a fájlok törlésére?",
+        "ro": "Ce simbol din SO este folosit pentru ștergerea fișierelor?",
+        "en": "Which symbol in the OS is used for deleting files?"
+      },
+      "answer": {
+        "de": "Papierkorb",
+        "hu": "Lomtár",
+        "ro": "Recycle Bin",
+        "en": "Recycle Bin"
+      }
+    }
+  ],
+  "info_k7_files": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Dateiendung gehört normalerweise zu einem Textdokument?",
+        "hu": "Melyik kiterjesztés tartozik általában szöveges dokumentumhoz?",
+        "ro": "Ce extensie aparține de obicei unui document text?",
+        "en": "Which file extension normally belongs to a text document?"
+      },
+      "options": {
+        "de": [".jpg", ".mp3", ".docx", ".exe"],
+        "hu": [".jpg", ".mp3", ".docx", ".exe"],
+        "ro": [".jpg", ".mp3", ".docx", ".exe"],
+        "en": [".jpg", ".mp3", ".docx", ".exe"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert beim Komprimieren einer Datei?",
+        "hu": "Mi történik egy fájl tömörítésekor?",
+        "ro": "Ce se întâmplă la comprimarea unui fișier?",
+        "en": "What happens when you compress a file?"
+      },
+      "options": {
+        "de": ["Die Datei wird größer", "Die Dateigröße wird reduziert", "Die Datei wird gelöscht", "Die Datei wird umbenannt"],
+        "hu": ["A fájl nagyobb lesz", "A fájlméret csökken", "A fájl törlődik", "A fájl átneveződik"],
+        "ro": ["Fișierul devine mai mare", "Dimensiunea fișierului este redusă", "Fișierul este șters", "Fișierul este redenumit"],
+        "en": ["The file gets larger", "The file size is reduced", "The file is deleted", "The file is renamed"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Dateiendung steht für ein ausführbares Programm?",
+        "hu": "Melyik kiterjesztés jelöl végrehajtható programot?",
+        "ro": "Ce extensie indică un program executabil?",
+        "en": "Which extension stands for an executable program?"
+      },
+      "options": {
+        "de": [".txt", ".zip", ".exe", ".png"],
+        "hu": [".txt", ".zip", ".exe", ".png"],
+        "ro": [".txt", ".zip", ".exe", ".png"],
+        "en": [".txt", ".zip", ".exe", ".png"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Ordner (Verzeichnis)?",
+        "hu": "Mi az a mappa (könyvtár)?",
+        "ro": "Ce este un dosar (director)?",
+        "en": "What is a folder (directory)?"
+      },
+      "options": {
+        "de": ["Eine spezielle Datei", "Ein Behälter für Dateien", "Ein Hardware-Teil", "Ein Internet-Link"],
+        "hu": ["Egy speciális fájl", "Fájlok tárolására szolgáló konténer", "Egy hardver elem", "Egy internetes link"],
+        "ro": ["Un fișier special", "Un container pentru fișiere", "O componentă hardware", "Un link de internet"],
+        "en": ["A special file", "A container for files", "A hardware part", "An internet link"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür wird die Dateiendung .zip verwendet?",
+        "hu": "Mire használják a .zip kiterjesztést?",
+        "ro": "Pentru ce se folosește extensia .zip?",
+        "en": "What is the .zip extension used for?"
+      },
+      "options": {
+        "de": ["Für Musik", "Für komprimierte Archive", "Für Webseiten", "Für Videos"],
+        "hu": ["Zenéhez", "Tömörített archívumokhoz", "Weboldalakhoz", "Videókhoz"],
+        "ro": ["Pentru muzică", "Pentru arhive comprimate", "Pentru pagini web", "Pentru videoclipuri"],
+        "en": ["For music", "For compressed archives", "For web pages", "For videos"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Formatieren' eines USB-Sticks?",
+        "hu": "Mit jelent egy pendrive 'formázása'?",
+        "ro": "Ce înseamnă 'formatarea' unui stick USB?",
+        "en": "What does 'formatting' a USB stick mean?"
+      },
+      "options": {
+        "de": ["Den Namen ändern", "Alle Daten löschen und das Dateisystem vorbereiten", "Die Farbe ändern", "Den Stick schneller machen"],
+        "hu": ["Név megváltoztatása", "Minden adat törlése és a fájlrendszer előkészítése", "Szín megváltoztatása", "A pendrive gyorsítása"],
+        "ro": ["Schimbarea numelui", "Ștergerea tuturor datelor și pregătirea sistemului de fișiere", "Schimbarea culorii", "Accelerarea stick-ului"],
+        "en": ["Changing the name", "Deleting all data and preparing the file system", "Changing the color", "Making the stick faster"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Dateiendung ist ein Bildformat?",
+        "hu": "Melyik kiterjesztés képformátum?",
+        "ro": "Ce extensie este un format de imagine?",
+        "en": "Which extension is an image format?"
+      },
+      "options": {
+        "de": [".pdf", ".png", ".mp4", ".xls"],
+        "hu": [".pdf", ".png", ".mp4", ".xls"],
+        "ro": [".pdf", ".png", ".mp4", ".xls"],
+        "en": [".pdf", ".png", ".mp4", ".xls"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Pfad einer Datei?",
+        "hu": "Mi a fájl elérési útja?",
+        "ro": "Ce este calea unui fișier?",
+        "en": "What is the path of a file?"
+      },
+      "options": {
+        "de": ["Die Größe der Datei", "Der genaue Speicherort auf dem Datenträger", "Der Ersteller der Datei", "Das Datum der Erstellung"],
+        "hu": ["A fájl mérete", "A pontos helye az adathordozón", "A fájl készítője", "A létrehozás dátuma"],
+        "ro": ["Dimensiunea fișierului", "Locația exactă pe suportul de date", "Creatorul fișierului", "Data creării"],
+        "en": ["The size of the file", "The exact location on the storage medium", "The creator of the file", "The date of creation"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Tastenkombination wird meistens zum Kopieren verwendet?",
+        "hu": "Melyik billentyűkombinációt használjuk leggyakrabban másoláshoz?",
+        "ro": "Ce combinație de taste se folosește de obicei pentru copiere?",
+        "en": "Which key combination is most commonly used for copying?"
+      },
+      "options": {
+        "de": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + S"],
+        "hu": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + S"],
+        "ro": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + S"],
+        "en": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + S"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Backup'?",
+        "hu": "Mi az a 'biztonsági mentés' (backup)?",
+        "ro": "Ce este un 'backup'?",
+        "en": "What is a 'backup'?"
+      },
+      "options": {
+        "de": ["Eine Kopie von Daten zur Sicherheit", "Das Löschen alter Dateien", "Ein neues Programm", "Ein spezieller Virus"],
+        "hu": ["Adatok másolata biztonsági célból", "Régi fájlok törlése", "Egy új program", "Egy speciális vírus"],
+        "ro": ["O copie a datelor pentru siguranță", "Ștergerea fișierelor vechi", "Un program nou", "Un virus special"],
+        "en": ["A copy of data for security", "Deleting old files", "A new program", "A special virus"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne die Dateiendung für einfache Textdateien ohne Formatierung.",
+        "hu": "Nevezd meg a formázás nélküli egyszerű szöveges fájlok kiterjesztését.",
+        "ro": "Numește extensia pentru fișiere text simple, fără formatare.",
+        "en": "Name the extension for simple text files without formatting."
+      },
+      "answer": {
+        "de": "txt",
+        "hu": "txt",
+        "ro": "txt",
+        "en": "txt"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Tastenkombination nutzt man zum Einfügen (Pasted)?",
+        "hu": "Melyik billentyűkombinációt használjuk a beillesztéshez?",
+        "ro": "Ce combinație de taste se folosește pentru inserare (paste)?",
+        "en": "Which key combination is used for pasting?"
+      },
+      "answer": {
+        "de": "Ctrl+V",
+        "hu": "Ctrl+V",
+        "ro": "Ctrl+V",
+        "en": "Ctrl+V"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Verschieben von Dateien in den Papierkorb?",
+        "hu": "Hogy hívják a fájlok áthelyezését a lomtárba?",
+        "ro": "Cum se numește mutarea fișierelor în coșul de gunoi?",
+        "en": "What is moving files to the recycle bin called?"
+      },
+      "answer": {
+        "de": "Löschen",
+        "hu": "Törlés",
+        "ro": "Ștergere",
+        "en": "Deletion"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die kleinste Einheit der Dateigröße?",
+        "hu": "Hogy hívják a fájlméret legkisebb egységét?",
+        "ro": "Cum se numește cea mai mică unitate de măsură a dimensiunii unui fișier?",
+        "en": "What is the smallest unit of file size called?"
+      },
+      "answer": {
+        "de": "Byte",
+        "hu": "Bájt",
+        "ro": "Byte",
+        "en": "Byte"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne eine Dateiendung für PDF-Dokumente.",
+        "hu": "Nevezd meg a PDF dokumentumok kiterjesztését.",
+        "ro": "Numește o extensie pentru documentele PDF.",
+        "en": "Name an extension for PDF documents."
+      },
+      "answer": {
+        "de": "pdf",
+        "hu": "pdf",
+        "ro": "pdf",
+        "en": "pdf"
+      }
+    }
+  ],
+  "info_k7_word": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie ändert man die Schriftart in Microsoft Word?",
+        "hu": "Hogyan változtatod meg a betűtípust a Microsoft Wordben?",
+        "ro": "Cum se schimbă fontul în Microsoft Word?",
+        "en": "How do you change the font in Microsoft Word?"
+      },
+      "options": {
+        "de": ["Im Tab 'Start' in der Gruppe 'Schriftart'", "Im Tab 'Einfügen'", "Im Tab 'Ansicht'", "Gar nicht"],
+        "hu": ["A 'Kezdőlap' fül 'Betűtípus' csoportjában", "A 'Beszúrás' fülön", "A 'Nézet' fülön", "Sehogyan"],
+        "ro": ["În fila 'Pornire' (Home) în grupul 'Font'", "În fila 'Inserare'", "În fila 'Vizualizare'", "Deloc"],
+        "en": ["In the 'Home' tab in the 'Font' group", "In the 'Insert' tab", "In the 'View' tab", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Symbol steht für 'Fett' (Bold)?",
+        "hu": "Melyik szimbólum jelöli a félkövér (bold) betűtípust?",
+        "ro": "Ce simbol indică textul îngroșat (bold)?",
+        "en": "Which symbol represents 'Bold'?"
+      },
+      "options": {
+        "de": ["K", "U", "F (oder B)", "I"],
+        "hu": ["F", "U", "B", "I"],
+        "ro": ["K", "U", "B", "I"],
+        "en": ["K", "U", "B", "I"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht die Funktion 'Blocksatz'?",
+        "hu": "Mit csinál a 'Sorkizárt' igazítás?",
+        "ro": "Ce face funcția de aliniere 'stânga-dreapta' (justify)?",
+        "en": "What does the 'Justify' alignment do?"
+      },
+      "options": {
+        "de": ["Text nach links schieben", "Text zentrieren", "Text gleichmäßig zwischen den Seitenrändern verteilen", "Text löschen"],
+        "hu": ["Szöveg balra tolása", "Szöveg középre igazítása", "Szöveg egyenletes elosztása a margók között", "Szöveg törlése"],
+        "ro": ["Mută textul la stânga", "Centrează textul", "Distribuie textul uniform între margini", "Șterge textul"],
+        "en": ["Align text to the left", "Center text", "Distribute text evenly between the margins", "Delete text"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie fügt man eine Tabelle in Word ein?",
+        "hu": "Hogyan szúrsz be táblázatot a Wordben?",
+        "ro": "Cum se inserează un tabel în Word?",
+        "en": "How do you insert a table in Word?"
+      },
+      "options": {
+        "de": ["Rechtsklick auf den Desktop", "Tab 'Einfügen' -> 'Tabelle'", "Tab 'Layout' -> 'Seite'", "Tab 'Datei' -> 'Tabelle'"],
+        "hu": ["Jobb klikk az asztalon", "Beszúrás fül -> Táblázat", "Elrendezés fül -> Oldal", "Fájl fül -> Táblázat"],
+        "ro": ["Click dreapta pe desktop", "Fila 'Inserare' -> 'Tabel'", "Fila 'Aspect' -> 'Pagină'", "Fila 'Fișier' -> 'Tabel'"],
+        "en": ["Right click on the desktop", "Insert tab -> Table", "Layout tab -> Page", "File tab -> Table"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Seitenumbruch'?",
+        "hu": "Mi az az 'oldaltörés'?",
+        "ro": "Ce este o 'întrerupere de pagină'?",
+        "en": "What is a 'page break'?"
+      },
+      "options": {
+        "de": ["Das Beenden von Word", "Das Starten einer neuen Seite an einer bestimmten Stelle", "Das Löschen einer Seite", "Ein Fehler im Programm"],
+        "hu": ["A Word bezárása", "Új oldal kezdése egy adott ponton", "Egy oldal törlése", "Hiba a programban"],
+        "ro": ["Închiderea Word", "Începerea unei pagini noi la un anumit punct", "Ștergerea unei pagini", "O eroare în program"],
+        "en": ["Closing Word", "Starting a new page at a specific point", "Deleting a page", "An error in the program"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wozu dienen Kopf- und Fußzeilen?",
+        "hu": "Mire szolgálnak az élőfejek és élőlábak?",
+        "ro": "La ce folosesc antetele și subsolurile (header & footer)?",
+        "en": "What are headers and footers used for?"
+      },
+      "options": {
+        "de": ["Für Bilder", "Für Informationen wie Seitenzahlen auf jeder Seite", "Nur für den Titel des Dokuments", "Zum Speichern"],
+        "hu": ["Képekhez", "Olyan információkhoz, mint az oldalszámok minden oldalon", "Csak a dokumentum címéhez", "Mentéshez"],
+        "ro": ["Pentru imagini", "Pentru informații precum numărul paginii pe fiecare pagină", "Doar pentru titlul documentului", "Pentru salvare"],
+        "en": ["For images", "For information like page numbers on every page", "Only for the document title", "For saving"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie kann man ein Bild in Word verkleinern?",
+        "hu": "Hogyan lehet egy képet kicsinyíteni a Wordben?",
+        "ro": "Cum se poate micșora o imagine în Word?",
+        "en": "How can you resize an image in Word?"
+      },
+      "options": {
+        "de": ["Durch Ziehen an den Eckpunkten", "Durch Drücken der Esc-Taste", "Durch Doppelklick auf die Maus", "Gar nicht"],
+        "hu": ["A sarokpontok húzásával", "Az Esc gomb megnyomásával", "Dupla kattintással az egérrel", "Sehogyan"],
+        "ro": ["Trăgând de punctele din colțuri", "Apăsând tasta Esc", "Prin dublu click pe mouse", "Deloc"],
+        "en": ["By dragging the corner points", "By pressing the Esc key", "By double-clicking the mouse", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür wird die Rechtschreibprüfung verwendet?",
+        "hu": "Mire használható a helyesírás-ellenőrzés?",
+        "ro": "La ce se folosește corectarea ortografică?",
+        "en": "What is the spell checker used for?"
+      },
+      "options": {
+        "de": ["Um die Dateigröße zu prüfen", "Um Tippfehler zu finden", "Um den Text zu übersetzen", "Um das Dokument zu löschen"],
+        "hu": ["A fájlméret ellenőrzéséhez", "Gépelési hibák megtalálásához", "A szöveg lefordításához", "A dokumentum törléséhez"],
+        "ro": ["Pentru verificarea dimensiunii fișierului", "Pentru a găsi greșeli de dactilografiere", "Pentru traducerea textului", "Pentru ștergerea documentului"],
+        "en": ["To check the file size", "To find typing errors", "To translate the text", "To delete the document"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Tastenkombination öffnet das 'Suchen'-Menü?",
+        "hu": "Melyik billentyűkombináció nyitja meg a 'Keresés' menüt?",
+        "ro": "Ce combinație de taste deschide meniul 'Căutare'?",
+        "en": "Which key combination opens the 'Find' menu?"
+      },
+      "options": {
+        "de": ["Ctrl + S", "Ctrl + F", "Ctrl + P", "Ctrl + Z"],
+        "hu": ["Ctrl + S", "Ctrl + F", "Ctrl + P", "Ctrl + Z"],
+        "ro": ["Ctrl + S", "Ctrl + F", "Ctrl + P", "Ctrl + Z"],
+        "en": ["Ctrl + S", "Ctrl + F", "Ctrl + P", "Ctrl + Z"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Formatvorlage?",
+        "hu": "Mi az a stílus (formatvorlage)?",
+        "ro": "Ce este un stil (template de formatare)?",
+        "en": "What is a style (formatting template)?"
+      },
+      "options": {
+        "de": ["Ein fertiges Layout für Überschriften etc.", "Ein Bildfilter", "Eine spezielle Maus", "Ein Drucker-Typ"],
+        "hu": ["Kész elrendezés címsorokhoz stb.", "Egy képfilter", "Egy speciális egér", "Egy nyomtató típus"],
+        "ro": ["Un aspect gata făcut pentru titluri etc.", "Un filtru de imagine", "Un mouse special", "Un tip de imprimantă"],
+        "en": ["A ready-made layout for headings etc.", "An image filter", "A special mouse", "A printer type"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Programm von Microsoft zur Textverarbeitung?",
+        "hu": "Hogy hívják a Microsoft szövegszerkesztő programját?",
+        "ro": "Cum se numește programul de procesare text de la Microsoft?",
+        "en": "What is the Microsoft program for word processing called?"
+      },
+      "answer": {
+        "de": "Word",
+        "hu": "Word",
+        "ro": "Word",
+        "en": "Word"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne die Tastenkombination zum Speichern eines Dokuments.",
+        "hu": "Nevezd meg a dokumentum mentéséhez használt billentyűkombinációt.",
+        "ro": "Numește combinația de taste pentru salvarea unui document.",
+        "en": "Name the key combination for saving a document."
+      },
+      "answer": {
+        "de": "Ctrl+S",
+        "hu": "Ctrl+S",
+        "ro": "Ctrl+S",
+        "en": "Ctrl+S"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der vertikale blinkende Strich, der zeigt, wo man schreibt?",
+        "hu": "Hogy hívják a függőleges villogó vonalat, amely mutatja, hova írunk?",
+        "ro": "Cum se numește linia verticală intermitentă care arată unde scriem?",
+        "en": "What is the vertical blinking line called that shows where you write?"
+      },
+      "answer": {
+        "de": "Cursor",
+        "hu": "Kurzor",
+        "ro": "Cursor",
+        "en": "Cursor"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Taste nutzt man, um einen neuen Absatz zu beginnen?",
+        "hu": "Melyik billentyűt használjuk új bekezdés kezdéséhez?",
+        "ro": "Ce tastă se folosește pentru a începe un paragraf nou?",
+        "en": "Which key is used to start a new paragraph?"
+      },
+      "answer": {
+        "de": "Enter",
+        "hu": "Enter",
+        "ro": "Enter",
+        "en": "Enter"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne die Funktion, mit der man eine Aktion rückgängig macht.",
+        "hu": "Nevezd meg a funkciót, amellyel visszavonhatunk egy műveletet.",
+        "ro": "Numește funcția prin care se anulează o acțiune.",
+        "en": "Name the function used to undo an action."
+      },
+      "answer": {
+        "de": "Rückgängig",
+        "hu": "Visszavonás",
+        "ro": "Anulare",
+        "en": "Undo"
+      }
+    }
+  ]
+}

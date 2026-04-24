@@ -1,0 +1,1698 @@
+{
+  "info_k7_db": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Datenbank?",
+        "hu": "Mi az adatbázis?",
+        "ro": "Ce este o bază de date?",
+        "en": "What is a database?"
+      },
+      "options": {
+        "de": ["Eine Sammlung strukturierter Daten", "Ein spezieller Computerbildschirm", "Ein Programm zum Malen", "Ein Ordner für Papierdokumente"],
+        "hu": ["Strukturált adatok gyűjteménye", "Egy speciális számítógép-képernyő", "Egy rajzolóprogram", "Papíralapú dokumentumok mappája"],
+        "ro": ["O colecție de date structurate", "Un ecran special de calculator", "Un program de desenat", "Un dosar pentru documente pe hârtie"],
+        "en": ["A collection of structured data", "A special computer screen", "A painting program", "A folder for paper documents"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man eine Zeile in einer Datenbanktabelle?",
+        "hu": "Hogy hívják az adatbázis-táblázat egy sorát?",
+        "ro": "Cum se numește un rând dintr-un tabel de bază de date?",
+        "en": "What is a row in a database table called?"
+      },
+      "options": {
+        "de": ["Datensatz", "Spalte", "Zelle", "Schlüssel"],
+        "hu": ["Rekord", "Oszlop", "Cella", "Kulcs"],
+        "ro": ["Înregistrare", "Coloană", "Celulă", "Cheie"],
+        "en": ["Record", "Column", "Cell", "Key"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was beschreibt eine Spalte in einer Datenbank?",
+        "hu": "Mit ír le egy oszlop az adatbázisban?",
+        "ro": "Ce descrie o coloană într-o bază de date?",
+        "en": "What does a column in a database describe?"
+      },
+      "options": {
+        "de": ["Ein Datenfeld (Attribut)", "Den gesamten Inhalt", "Den Namen der Datenbank", "Die Anzahl der Benutzer"],
+        "hu": ["Egy adatmezőt (attribútumot)", "A teljes tartalmat", "Az adatbázis nevét", "A felhasználók számát"],
+        "ro": ["Un câmp de date (atribut)", "Întreg conținutul", "Numele bazei de date", "Numărul de utilizatori"],
+        "en": ["A data field (attribute)", "The entire content", "The name of the database", "The number of users"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Primärschlüssel?",
+        "hu": "Mi az az elsődleges kulcs?",
+        "ro": "Ce este o cheie primară?",
+        "en": "What is a primary key?"
+      },
+      "options": {
+        "de": ["Ein eindeutiger Identifikator für jeden Datensatz", "Das Passwort für die Datenbank", "Der Name der ersten Spalte", "Ein physischer Schlüssel für den Serverraum"],
+        "hu": ["Minden rekord egyedi azonosítója", "Az adatbázis jelszava", "Az első oszlop neve", "Egy fizikai kulcs a szerverszobához"],
+        "ro": ["Un identificator unic pentru fiecare înregistrare", "Parola pentru baza de date", "Numele primei coloane", "O cheie fizică pentru camera serverelor"],
+        "en": ["A unique identifier for each record", "The password for the database", "The name of the first column", "A physical key for the server room"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm wird oft für einfache Datenbanken genutzt?",
+        "hu": "Melyik programot használják gyakran egyszerű adatbázisokhoz?",
+        "ro": "Ce program este adesea folosit pentru baze de date simple?",
+        "en": "Which program is often used for simple databases?"
+      },
+      "options": {
+        "de": ["Microsoft Access", "Microsoft Word", "Adobe Photoshop", "VLC Player"],
+        "hu": ["Microsoft Access", "Microsoft Word", "Adobe Photoshop", "VLC Player"],
+        "ro": ["Microsoft Access", "Microsoft Word", "Adobe Photoshop", "VLC Player"],
+        "en": ["Microsoft Access", "Microsoft Word", "Adobe Photoshop", "VLC Player"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Sortieren' in einer Datenbank?",
+        "hu": "Mit jelent a 'rendezés' az adatbázisban?",
+        "ro": "Ce înseamnă „sortare” într-o bază de date?",
+        "en": "What does 'sorting' mean in a database?"
+      },
+      "options": {
+        "de": ["Anordnen von Daten nach bestimmten Kriterien", "Löschen von unwichtigen Daten", "Kopieren der Datenbank auf einen USB-Stick", "Ändern der Hintergrundfarbe"],
+        "hu": ["Az adatok elrendezése bizonyos szempontok szerint", "A nem fontos adatok törlése", "Az adatbázis másolása USB-re", "A háttérszín megváltoztatása"],
+        "ro": ["Aranjarea datelor conform anumitor criterii", "Ștergerea datelor neimportante", "Copierea bazei de date pe un stick USB", "Modificarea culorii de fundal"],
+        "en": ["Arranging data according to certain criteria", "Deleting unimportant data", "Copying the database to a USB stick", "Changing the background color"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Abfrage (Query)?",
+        "hu": "Mi az a lekérdezés (query)?",
+        "ro": "Ce este o interogare (query)?",
+        "en": "What is a query?"
+      },
+      "options": {
+        "de": ["Ein Befehl zum Suchen bestimmter Daten", "Das Speichern der Datenbank", "Eine Fehlermeldung", "Ein neues Feld hinzufügen"],
+        "hu": ["Egy parancs bizonyos adatok keresésére", "Az adatbázis mentése", "Egy hibaüzenet", "Új mező hozzáadása"],
+        "ro": ["O comandă pentru căutarea anumitor date", "Salvarea bazei de date", "Un mesaj de eroare", "Adăugarea unui câmp nou"],
+        "en": ["A command to search for specific data", "Saving the database", "An error message", "Adding a new field"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Datentyp eignet sich für ein Geburtsdatum?",
+        "hu": "Melyik adattípus felel meg egy születési dátumnak?",
+        "ro": "Ce tip de date este potrivit pentru o dată de naștere?",
+        "en": "Which data type is suitable for a birth date?"
+      },
+      "options": {
+        "de": ["Datum/Zeit", "Text", "Zahl", "Ja/Nein"],
+        "hu": ["Dátum/Idő", "Szöveg", "Szám", "Igen/Nem"],
+        "ro": ["Dată/Oră", "Text", "Număr", "Da/Nu"],
+        "en": ["Date/Time", "Text", "Number", "Yes/No"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sind doppelte Datensätze in einer Datenbank schlecht?",
+        "hu": "Miért rossz, ha duplikált rekordok vannak az adatbázisban?",
+        "ro": "De ce sunt rele înregistrările duplicate într-o bază de date?",
+        "en": "Why are duplicate records bad in a database?"
+      },
+      "options": {
+        "de": ["Sie verschwenden Platz und führen zu Fehlern", "Die Datenbank wird dadurch bunter", "Der Computer schaltet sich aus", "Es gibt keine Nachteile"],
+        "hu": ["Helyet pazarolnak és hibákhoz vezetnek", "Az adatbázis színesebb lesz tőle", "A számítógép kikapcsol", "Nincs hátránya"],
+        "ro": ["Irosesc spațiu și duc la erori", "Baza de date devine mai colorată", "Calculatorul se oprește", "Nu există dezavantaje"],
+        "en": ["They waste space and lead to errors", "The database becomes more colorful", "The computer turns off", "There are no disadvantages"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist SQL?",
+        "hu": "Mi az SQL?",
+        "ro": "Ce este SQL?",
+        "en": "What is SQL?"
+      },
+      "options": {
+        "de": ["Eine Sprache zur Verwaltung von Datenbanken", "Eine neue Art von Grafikkarte", "Ein Betriebssystem", "Ein soziales Netzwerk"],
+        "hu": ["Egy nyelv adatbázisok kezelésére", "Egy újfajta videókártya", "Egy operációs rendszer", "Egy közösségi hálózat"],
+        "ro": ["Un limbaj pentru gestionarea bazelor de date", "Un nou tip de placă grafică", "Un sistem de operare", "O rețea socială"],
+        "en": ["A language for managing databases", "A new type of graphics card", "An operating system", "A social network"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man eine Spalte in einer Datenbank?",
+        "hu": "Hogy hívják az adatbázis oszlopát?",
+        "ro": "Cum se numește o coloană dintr-o bază de date?",
+        "en": "What is a column in a database called?"
+      },
+      "answer": { "de": "Feld", "hu": "mező", "ro": "câmp", "en": "field" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der eindeutige Schlüssel eines Datensatzes?",
+        "hu": "Hogy hívják egy rekord egyedi kulcsát?",
+        "ro": "Cum se numește cheia unică a unei înregistrări?",
+        "en": "What is the unique key of a record called?"
+      },
+      "answer": { "de": "Primärschlüssel", "hu": "elsődleges kulcs", "ro": "cheie primară", "en": "primary key" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Kürzel steht für 'Structured Query Language'?",
+        "hu": "Melyik rövidítés jelenti a 'Structured Query Language'-t?",
+        "ro": "Ce abreviere înseamnă „Structured Query Language”?",
+        "en": "What abbreviation stands for 'Structured Query Language'?"
+      },
+      "answer": { "de": "SQL", "hu": "SQL", "ro": "SQL", "en": "SQL" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist das wichtigste Element einer Datenbank?",
+        "hu": "Mi az adatbázis legfontosabb eleme?",
+        "ro": "Care este cel mai important element al unei baze de date?",
+        "en": "What is the most important element of a database?"
+      },
+      "answer": { "de": "Tabelle", "hu": "táblázat", "ro": "tabel", "en": "table" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Suchen von Daten mit Bedingungen?",
+        "hu": "Hogy hívják az adatok feltétel szerinti keresését?",
+        "ro": "Cum se numește căutarea datelor cu condiții?",
+        "en": "What is searching for data with conditions called?"
+      },
+      "answer": { "de": "Filtern", "hu": "szűrés", "ro": "filtrare", "en": "filtering" }
+    }
+  ],
+  "info_k7_image": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die kleinste Einheit eines digitalen Bildes?",
+        "hu": "Mi a digitális kép legkisebb egysége?",
+        "ro": "Care este cea mai mică unitate a unei imagini digitale?",
+        "en": "What is the smallest unit of a digital image?"
+      },
+      "options": {
+        "de": ["Pixel", "Zoll", "Punkt", "Vektor"],
+        "hu": ["Pixel", "Col", "Pont", "Vektor"],
+        "ro": ["Pixel", "Inch", "Punct", "Vector"],
+        "en": ["Pixel", "Inch", "Point", "Vector"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet RGB?",
+        "hu": "Mit jelent az RGB?",
+        "ro": "Ce înseamnă RGB?",
+        "en": "What does RGB stand for?"
+      },
+      "options": {
+        "de": ["Rot, Grün, Blau", "Rechts, Gerade, Beugen", "Regenbogen, Gelb, Braun", "Real, Groß, Breit"],
+        "hu": ["Piros, Zöld, Kék", "Jobb, Egyenes, Hajlít", "Szivárvány, Sárga, Barna", "Valódi, Nagy, Széles"],
+        "ro": ["Roșu, Verde, Albastru", "Dreapta, Drept, Îndoire", "Curcubeu, Gelben, Maro", "Real, Mare, Lat"],
+        "en": ["Red, Green, Blue", "Right, Green, Brown", "Rainbow, Gray, Black", "Real, Great, Big"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Bildformat unterstützt Transparenz?",
+        "hu": "Melyik képformátum támogatja az átlátszóságot?",
+        "ro": "Ce format de imagine suportă transparența?",
+        "en": "Which image format supports transparency?"
+      },
+      "options": {
+        "de": ["PNG", "JPG", "BMP", "TIFF"],
+        "hu": ["PNG", "JPG", "BMP", "TIFF"],
+        "ro": ["PNG", "JPG", "BMP", "TIFF"],
+        "en": ["PNG", "JPG", "BMP", "TIFF"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert beim Komprimieren eines Bildes?",
+        "hu": "Mi történik a kép tömörítésekor?",
+        "ro": "Ce se întâmplă la comprimarea unei imagini?",
+        "en": "What happens when an image is compressed?"
+      },
+      "options": {
+        "de": ["Die Dateigröße wird verringert", "Das Bild wird bunter", "Das Bild wird physisch größer", "Die Pixel werden gezählt"],
+        "hu": ["A fájlméret csökken", "A kép színesebb lesz", "A kép fizikailag nagyobb lesz", "A pixeleket megszámolják"],
+        "ro": ["Dimensiunea fișierului este redusă", "Imaginea devine mai colorată", "Imaginea devine fizic mai mare", "Pixelii sunt numărați"],
+        "en": ["The file size is reduced", "The image becomes more colorful", "The image becomes physically larger", "The pixels are counted"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Unterschied zwischen Raster- und Vektorgrafik?",
+        "hu": "Mi a különbség a raszteres és a vektorgrafika között?",
+        "ro": "Care este diferența dintre grafica raster și cea vectorială?",
+        "en": "What is the difference between raster and vector graphics?"
+      },
+      "options": {
+        "de": ["Vektorgrafiken lassen sich ohne Qualitätsverlust vergrößern", "Rastergrafiken sind immer schwarz-weiß", "Es gibt keinen Unterschied", "Vektorgrafiken bestehen nur aus Punkten"],
+        "hu": ["A vektorgrafikák minőségromlás nélkül nagyíthatók", "A raszterképek mindig fekete-fehérek", "Nincs különbség", "A vektorgrafika csak pontokból áll"],
+        "ro": ["Grafica vectorială poate fi mărită fără pierderea calității", "Imaginile raster sunt întotdeauna alb-negru", "Nu există nicio diferență", "Grafica vectorială constă doar din puncte"],
+        "en": ["Vector graphics can be enlarged without losing quality", "Raster graphics are always black and white", "There is no difference", "Vector graphics consist only of points"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was beschreibt die Auflösung eines Bildes?",
+        "hu": "Mit ír le a kép felbontása?",
+        "ro": "Ce descrie rezoluția unei imagini?",
+        "en": "What does the resolution of an image describe?"
+      },
+      "options": {
+        "de": ["Die Anzahl der Pixel pro Zoll (DPI/PPI)", "Das Erstellungsdatum", "Den Namen des Fotografen", "Die Anzahl der verwendeten Farben"],
+        "hu": ["A hüvelykenkénti pixelek száma (DPI/PPI)", "A készítés dátumát", "A fényképész nevét", "A felhasznált színek számát"],
+        "ro": ["Numărul de pixeli pe inch (DPI/PPI)", "Data creării", "Numele fotografului", "Numărul de culori folosite"],
+        "en": ["The number of pixels per inch (DPI/PPI)", "The creation date", "The name of the photographer", "The number of colors used"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm ist ein bekanntes Bildbearbeitungsprogramm?",
+        "hu": "Melyik egy ismert képszerkesztő program?",
+        "ro": "Care program este unul cunoscut pentru editarea imaginilor?",
+        "en": "Which program is a well-known image editing software?"
+      },
+      "options": {
+        "de": ["GIMP", "Excel", "PowerPoint", "Notepad"],
+        "hu": ["GIMP", "Excel", "PowerPoint", "Notepad"],
+        "ro": ["GIMP", "Excel", "PowerPoint", "Notepad"],
+        "en": ["GIMP", "Excel", "PowerPoint", "Notepad"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Ebene' (Layer) in der Bildbearbeitung?",
+        "hu": "Mi az a 'réteg' (layer) a képszerkesztésben?",
+        "ro": "Ce este un „strat” (layer) în editarea imaginilor?",
+        "en": "What is a 'layer' in image editing?"
+      },
+      "options": {
+        "de": ["Ein Teil des Bildes, der separat bearbeitet werden kann", "Ein spezieller Filter", "Die Rückseite des Bildes", "Ein Werkzeug zum Löschen"],
+        "hu": ["A kép egy része, amely külön szerkeszthető", "Egy speciális szűrő", "A kép hátoldala", "Egy törlőeszköz"],
+        "ro": ["O parte a imaginii care poate fi editată separat", "Un filtru special", "Partea din spate a imaginii", "Un instrument de șters"],
+        "en": ["A part of the image that can be edited separately", "A special filter", "The back of the image", "A tool for deleting"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht das 'Zuschneiden' (Crop) Werkzeug?",
+        "hu": "Mit csinál a 'levágás' (crop) eszköz?",
+        "ro": "Ce face instrumentul de „decupare” (crop)?",
+        "en": "What does the 'crop' tool do?"
+      },
+      "options": {
+        "de": ["Es entfernt unerwünschte Randbereiche", "Es ändert die Helligkeit", "Es fügt einen Rahmen hinzu", "Es speichert das Bild"],
+        "hu": ["Eltávolítja a nem kívánt széleket", "Megváltoztatja a fényerőt", "Keretet ad a képhez", "Menti a képet"],
+        "ro": ["Elimină marginile nedorite", "Modifică luminozitatea", "Adaugă un cadru", "Salvează imaginea"],
+        "en": ["It removes unwanted outer areas", "It changes the brightness", "It adds a frame", "It saves the image"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sieht ein stark vergrößertes Rasterbild blockartig aus?",
+        "hu": "Miért tűnik kockásnak egy erősen nagyított raszterkép?",
+        "ro": "De ce arată ca niște blocuri o imagine raster mărită foarte mult?",
+        "en": "Why does a highly enlarged raster image look blocky?"
+      },
+      "options": {
+        "de": ["Man sieht die einzelnen Pixel (Verpixelung)", "Der Monitor ist kaputt", "Das Bild hat keine Farben mehr", "Weil es eine Vektorgrafik ist"],
+        "hu": ["Láthatóvá válnak az egyes pixelek (pixelizáció)", "Elromlott a monitor", "A képnek nincsenek már színei", "Mert ez egy vektorgrafika"],
+        "ro": ["Se văd pixelii individuali (pixelare)", "Monitorul este stricat", "Imaginea nu mai are culori", "Pentru că este o grafică vectorială"],
+        "en": ["The individual pixels become visible (pixelation)", "The monitor is broken", "The image has no colors left", "Because it is a vector graphic"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die kleinste Einheit eines Bildes?",
+        "hu": "Hogy hívják a kép legkisebb egységét?",
+        "ro": "Cum se numește cea mai mică unitate a unei imagini?",
+        "en": "What is the smallest unit of an image called?"
+      },
+      "answer": { "de": "Pixel", "hu": "pixel", "ro": "pixel", "en": "pixel" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Farbmodell nutzt Monitore?",
+        "hu": "Melyik színmodellt használják a monitorok?",
+        "ro": "Ce model de culoare folosesc monitoarele?",
+        "en": "Which color model do monitors use?"
+      },
+      "answer": { "de": "RGB", "hu": "RGB", "ro": "RGB", "en": "RGB" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Format ist typisch für Fotos?",
+        "hu": "Melyik formátum jellemző a fotókra?",
+        "ro": "Ce format este tipic pentru fotografii?",
+        "en": "Which format is typical for photos?"
+      },
+      "answer": { "de": "JPG", "hu": "JPG", "ro": "JPG", "en": "JPG" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was bedeutet 'DPI'?",
+        "hu": "Mit jelent a 'DPI'?",
+        "ro": "Ce înseamnă „DPI”?",
+        "en": "What does 'DPI' stand for?"
+      },
+      "answer": { "de": "Dots Per Inch", "hu": "Dots Per Inch", "ro": "Dots Per Inch", "en": "Dots Per Inch" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Programm 'Adobe ...'?",
+        "hu": "Hogy hívják az 'Adobe ...' programot?",
+        "ro": "Cum se numește programul „Adobe ...”?",
+        "en": "What is the program 'Adobe ...' called?"
+      },
+      "answer": { "de": "Photoshop", "hu": "Photoshop", "ro": "Photoshop", "en": "Photoshop" }
+    }
+  ],
+  "info_k7_copyright": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was schützt das Urheberrecht?",
+        "hu": "Mit véd a szerzői jog?",
+        "ro": "Ce protejează dreptul de autor?",
+        "en": "What does copyright protect?"
+      },
+      "options": {
+        "de": ["Persönliche geistige Schöpfungen", "Den Computer vor Viren", "Die Passwörter der Benutzer", "Den Preis eines Produkts"],
+        "hu": ["Személyes szellemi alkotásokat", "A számítógépet a vírusoktól", "A felhasználók jelszavait", "Egy termék árát"],
+        "ro": ["Creațiile intelectuale personale", "Calculatorul de viruși", "Parolele utilizatorilor", "Prețul unui produs"],
+        "en": ["Personal intellectual creations", "The computer from viruses", "User passwords", "The price of a product"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Plagiat?",
+        "hu": "Mi a plágium?",
+        "ro": "Ce este plagiatul?",
+        "en": "What is plagiarism?"
+      },
+      "options": {
+        "de": ["Fremde Werke als eigene ausgeben", "Ein Bild bearbeiten", "Ein Programm installieren", "Eine E-Mail schreiben"],
+        "hu": ["Más műveit sajátként feltüntetni", "Egy kép szerkesztése", "Egy program telepítése", "Egy e-mail írása"],
+        "ro": ["Prezentarea operelor altora ca fiind proprii", "Editarea unei imagini", "Instalarea unui program", "Scrierea unui e-mail"],
+        "en": ["Presenting others' works as your own", "Editing a picture", "Installing a program", "Writing an email"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet Creative Commons (CC)?",
+        "hu": "Mit jelent a Creative Commons (CC)?",
+        "ro": "Ce înseamnă Creative Commons (CC)?",
+        "en": "What does Creative Commons (CC) mean?"
+      },
+      "options": {
+        "de": ["Licenzen zur freien Nutzung von Werken", "Ein Gesetz gegen Computer-Hacking", "Ein soziales Netzwerk für Künstler", "Eine Art von Antiviren-Software"],
+        "hu": ["Licencek művek szabad felhasználására", "Egy törvény a számítógépes feltörések ellen", "Egy közösségi hálózat művészeknek", "Egyfajta vírusirtó szoftver"],
+        "ro": ["Licențe pentru utilizarea liberă a operelor", "O lege împotriva hacking-ului", "O rețea socială pentru artiști", "Un tip de software antivirus"],
+        "en": ["Licenses for free use of works", "A law against computer hacking", "A social network for artists", "A type of antivirus software"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf man Bilder aus dem Internet einfach für eine eigene Webseite nutzen?",
+        "hu": "Szabad-e az internetről képeket egyszerűen felhasználni saját weboldalhoz?",
+        "ro": "Este permisă folosirea imaginilor de pe internet pur și simplu pentru propria pagină web?",
+        "en": "Is it allowed to simply use images from the internet for your own website?"
+      },
+      "options": {
+        "de": ["Nein, man braucht die Erlaubnis des Urhebers", "Ja, alles im Internet ist kostenlos", "Nur wenn das Bild klein ist", "Ja, wenn man den Link kopiert"],
+        "hu": ["Nem, a szerző engedélye szükséges", "Igen, minden ingyenes az interneten", "Csak ha kicsi a kép", "Igen, ha kimásolod a linket"],
+        "ro": ["Nu, este nevoie de permisiunea autorului", "Da, totul pe internet este gratuit", "Doar dacă imaginea este mică", "Da, dacă se copiază link-ul"],
+        "en": ["No, you need the author's permission", "Yes, everything on the internet is free", "Only if the image is small", "Yes, if you copy the link"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet das Symbol ©?",
+        "hu": "Mit jelent a © szimbólum?",
+        "ro": "Ce înseamnă simbolul ©?",
+        "en": "What does the © symbol mean?"
+      },
+      "options": {
+        "de": ["Copyright (Urheberrechtlich geschützt)", "Computer (Technisches Gerät)", "Copy (Kopieren erlaubt)", "Clean (Keine Viren)"],
+        "hu": ["Szerzői jog (védelem alatt áll)", "Számítógép (technikai eszköz)", "Másolás (megengedett)", "Tiszta (vírusmentes)"],
+        "ro": ["Copyright (protejat de drepturi de autor)", "Computer (dispozitiv tehnic)", "Copy (copiere permisă)", "Curat (fără viruși)"],
+        "en": ["Copyright (protected by copyright)", "Computer (technical device)", "Copy (copying allowed)", "Clean (no viruses)"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Software-Lizenz?",
+        "hu": "Mi az a szoftverlicenc?",
+        "ro": "Ce este o licență software?",
+        "en": "What is a software license?"
+      },
+      "options": {
+        "de": ["Ein Vertrag über die Nutzungsrechte einer Software", "Die Verpackung einer CD", "Ein Passwort zum Einloggen", "Der Preis eines Programms"],
+        "hu": ["Egy szerződés a szoftver használati jogairól", "Egy CD csomagolása", "Egy jelszó a belépéshez", "Egy program ára"],
+        "ro": ["Un contract privind drepturile de utilizare a unui software", "Ambalajul unui CD", "O parolă pentru autentificare", "Prețul unui program"],
+        "en": ["A contract about the usage rights of a software", "The packaging of a CD", "A password to log in", "The price of a program"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Public Domain'?",
+        "hu": "Mit jelent a 'közszemlére bocsátott' (public domain)?",
+        "ro": "Ce înseamnă „domeniu public”?",
+        "en": "What does 'public domain' mean?"
+      },
+      "options": {
+        "de": ["Werke ohne Urheberrechtsschutz (frei für alle)", "Eine öffentliche Toilette", "Ein staatliches Internet", "Ein geheimes Dokument"],
+        "hu": ["Szerzői jogi védelem nélküli művek (szabadon felhasználható)", "Egy nyilvános illemhely", "Egy állami internet", "Egy titkos dokumentum"],
+        "ro": ["Opere fără protecție prin drepturi de autor (libere pentru toți)", "O toaletă publică", "Un internet de stat", "Un document secret"],
+        "en": ["Works without copyright protection (free for everyone)", "A public toilet", "A state internet", "A secret document"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Raubkopie?",
+        "hu": "Mi az az illegális másolat (szoftverkalózkodás)?",
+        "ro": "Ce este o copie pirat?",
+        "en": "What is a pirated copy?"
+      },
+      "options": {
+        "de": ["Eine illegal erstellte Kopie eines geschützten Werks", "Eine Kopie, die man im Meer findet", "Ein Backup seiner eigenen Dateien", "Eine besonders gute Kopie"],
+        "hu": ["Védett mű illegálisan készített másolata", "Egy másolat, amit a tengerben találnak", "Saját fájlokról készült biztonsági másolat", "Egy különösen jó másolat"],
+        "ro": ["O copie creată ilegal a unei opere protejate", "O copie găsită în mare", "O copie de rezervă a propriilor fișiere", "O copie deosebit de bună"],
+        "en": ["An illegally created copy of a protected work", "A copy found in the sea", "A backup of your own files", "A particularly good copy"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf man Musik für private Zwecke kopieren?",
+        "hu": "Szabad-e zenét másolni magáncélra?",
+        "ro": "Este permisă copierea muzicii în scopuri private?",
+        "en": "Is it allowed to copy music for private purposes?"
+      },
+      "options": {
+        "de": ["Ja, oft als 'Privatkopie' in gewissem Rahmen", "Nein, niemals", "Nur wenn die Musik leise ist", "Ja, aber nur auf Kassetten"],
+        "hu": ["Igen, gyakran 'magánmásolatként' bizonyos keretek között", "Nem, soha", "Csak ha halk a zene", "Igen, de csak kazettára"],
+        "ro": ["Da, adesea ca „copie privată” în anumite limite", "Nu, niciodată", "Doar dacă muzica este încet", "Da, dar numai pe casete"],
+        "en": ["Yes, often as a 'private copy' within certain limits", "No, never", "Only if the music is quiet", "Yes, but only on cassettes"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert bei einer Urheberrechtsverletzung?",
+        "hu": "Mi történik szerzői jogi jogsértés esetén?",
+        "ro": "Ce se întâmplă în cazul unei încălcări a drepturilor de autor?",
+        "en": "What happens in case of copyright infringement?"
+      },
+      "options": {
+        "de": ["Es können Abmahnungen oder Bußgelder folgen", "Gar nichts, es ist egal", "Das Internet wird abgeschaltet", "Man bekommt eine Belohnung"],
+        "hu": ["Felszólítás vagy bírság következhet", "Semmi, nem számít", "Lekapcsolják az internetet", "Jutalmat kapsz"],
+        "ro": ["Pot urma somații sau amenzi", "Nimic, nu contează", "Internetul este oprit", "Primești o recompensă"],
+        "en": ["It can result in warnings or fines", "Nothing, it doesn't matter", "The internet is shut down", "You get a reward"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Recht des Urhebers?",
+        "hu": "Hogy hívják a szerző jogát?",
+        "ro": "Cum se numește dreptul autorului?",
+        "en": "What is the author's right called?"
+      },
+      "answer": { "de": "Urheberrecht", "hu": "szerzői jog", "ro": "drept de autor", "en": "copyright" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Symbol steht für Copyright?",
+        "hu": "Melyik szimbólum jelenti a copyrightot?",
+        "ro": "Ce simbol reprezintă copyright-ul?",
+        "en": "Which symbol stands for copyright?"
+      },
+      "answer": { "de": "©", "hu": "©", "ro": "©", "en": "©" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Abschreiben von anderen?",
+        "hu": "Hogy hívják a mástól való másolást?",
+        "ro": "Cum se numește copierea de la alții?",
+        "en": "What is copying from others called?"
+      },
+      "answer": { "de": "Plagiat", "hu": "plágium", "ro": "plagiat", "en": "plagiarism" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die freie Lizenz 'Creative ...'?",
+        "hu": "Hogy hívják a 'Creative ...' szabad licencet?",
+        "ro": "Cum se numește licența liberă „Creative ...”?",
+        "en": "What is the free license 'Creative ...' called?"
+      },
+      "answer": { "de": "Commons", "hu": "Commons", "ro": "Commons", "en": "Commons" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was braucht man zum Nutzen fremder Werke?",
+        "hu": "Mire van szükség más műveinek használatához?",
+        "ro": "De ce este nevoie pentru a folosi operele altora?",
+        "en": "What do you need to use others' works?"
+      },
+      "answer": { "de": "Erlaubnis", "hu": "engedély", "ro": "permisiune", "en": "permission" }
+    }
+  ],
+  "info_k7_privacy": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein sicheres Passwort?",
+        "hu": "Milyen a biztonságos jelszó?",
+        "ro": "Ce este o parolă sigură?",
+        "en": "What is a secure password?"
+      },
+      "options": {
+        "de": ["Lang, mit Zahlen, Sonderzeichen und Großbuchstaben", "Der eigene Name", "123456", "Passwort123"],
+        "hu": ["Hosszú, számokkal, különleges karakterekkel és nagybetűkkel", "A saját neved", "123456", "Jelszo123"],
+        "ro": ["Lungă, cu cifre, caractere speciale și litere mari", "Numele propriu", "123456", "parola123"],
+        "en": ["Long, with numbers, special characters, and capital letters", "Your own name", "123456", "password123"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Phishing'?",
+        "hu": "Mit jelent a 'phishing' (adathalászat)?",
+        "ro": "Ce înseamnă „phishing”?",
+        "en": "What does 'phishing' mean?"
+      },
+      "options": {
+        "de": ["Betrugsversuch zum Stehlen von Zugangsdaten", "Ein neues Online-Spiel", "Das Löschen von Browser-Cookies", "Eine Sportart im Internet"],
+        "hu": ["Csalási kísérlet belépési adatok ellopására", "Egy új online játék", "A böngésző sütik törlése", "Egy internetes sportág"],
+        "ro": ["Tentativă de fraudă pentru furarea datelor de acces", "Un nou joc online", "Ștergerea cookie-urilor din browser", "Un sport pe internet"],
+        "en": ["Fraud attempt to steal login data", "A new online game", "Deleting browser cookies", "A sport on the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind Cookies im Browser?",
+        "hu": "Mik azok a sütik (cookies) a böngészőben?",
+        "ro": "Ce sunt cookie-urile în browser?",
+        "en": "What are cookies in the browser?"
+      },
+      "options": {
+        "de": ["Kleine Textdateien, die Informationen über Webseitenbesuche speichern", "Kleine Programme, die den Computer beschleunigen", "Bilder von echtem Gebäck", "Viren, die das Internet zerstören"],
+        "hu": ["Kis szöveges fájlok, amik információkat tárolnak a látogatásokról", "Kis programok, amik gyorsítják a gépet", "Valódi sütemények képei", "Vírusok, amik tönkreteszik az internetet"],
+        "ro": ["Mici fișiere text care stochează informații despre vizitele pe site-uri", "Mici programe care accelerează calculatorul", "Imagini cu prăjituri reale", "Viruși care distrug internetul"],
+        "en": ["Small text files that store information about website visits", "Small programs that speed up the computer", "Images of real cookies", "Viruses that destroy the internet"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Zwei-Faktor-Authentifizierung' (2FA)?",
+        "hu": "Mi az a 'kétfaktoros hitelesítés' (2FA)?",
+        "ro": "Ce este „autentificarea cu doi factori” (2FA)?",
+        "en": "What is 'two-factor authentication' (2FA)?"
+      },
+      "options": {
+        "de": ["Sicherung des Kontos durch zwei verschiedene Wege (z.B. Passwort + Code per SMS)", "Zwei Passwörter für dasselbe Konto", "Zwei verschiedene Benutzer für einen Computer", "Ein Passwort, das zweimal eingegeben werden muss"],
+        "hu": ["A fiók védelme két különböző módon (pl. jelszó + SMS kód)", "Két jelszó ugyanahhoz a fiókhoz", "Két különböző felhasználó egy géphez", "Egy jelszó, amit kétszer kell beírni"],
+        "ro": ["Securizarea contului prin două căi diferite (ex. parolă + cod prin SMS)", "Două parole pentru același cont", "Doi utilizatori diferiți pentru un calculator", "O parolă care trebuie introdusă de două ori"],
+        "en": ["Securing the account through two different ways (e.g., password + code via SMS)", "Two passwords for the same account", "Two different users for one computer", "A password that must be entered twice"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Privatsphäre' im Internet?",
+        "hu": "Mit jelent a 'magánélet' (privacy) az interneten?",
+        "ro": "Ce înseamnă „viața privată” pe internet?",
+        "en": "What does 'privacy' mean on the internet?"
+      },
+      "options": {
+        "de": ["Schutz der persönlichen Daten vor fremdem Zugriff", "Dass man alleine im Zimmer surft", "Dass man keine Werbung sieht", "Die Geschwindigkeit der Internetverbindung"],
+        "hu": ["Személyes adatok védelme az idegen hozzáféréstől", "Hogy egyedül szörfözöl a szobában", "Hogy nem látsz reklámokat", "Az internetkapcsolat sebessége"],
+        "ro": ["Protecția datelor personale de accesul neautorizat", "Că navighezi singur în cameră", "Că nu vezi reclame", "Viteza conexiunii la internet"],
+        "en": ["Protection of personal data from unauthorized access", "That you surf alone in your room", "That you see no ads", "The speed of the internet connection"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Digitaler Fußabdruck'?",
+        "hu": "Mi az a 'digitális lábnyom'?",
+        "ro": "Ce este o „amprentă digitală”?",
+        "en": "What is a 'digital footprint'?"
+      },
+      "options": {
+        "de": ["Alle Spuren, die man im Internet hinterlässt", "Ein Bild von einem Fuß auf dem Bildschirm", "Die Größe des Computers", "Ein spezielles Login-Verfahren"],
+        "hu": ["Minden nyom, amit az interneten hagyunk", "Egy láb képe a képernyőn", "A számítógép mérete", "Egy speciális belépési folyamat"],
+        "ro": ["Toate urmele pe care le lăsăm pe internet", "O imagine a unui picior pe ecran", "Dimensiunea calculatorului", "O procedură specială de logare"],
+        "en": ["All the traces you leave on the internet", "A picture of a foot on the screen", "The size of the computer", "A special login procedure"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Sollte man seinen Standort in sozialen Medien immer öffentlich teilen?",
+        "hu": "Mindig nyilvánosan meg kellene osztani a tartózkodási helyünket a közösségi médiában?",
+        "ro": "Ar trebui să împărtășim întotdeauna public locația noastră pe rețelele sociale?",
+        "en": "Should you always share your location publicly on social media?"
+      },
+      "options": {
+        "de": ["Nein, das kann gefährlich sein (Datenschutz)", "Ja, damit jeder weiß, wo ich bin", "Nur wenn es regnet", "Ja, das ist Pflicht"],
+        "hu": ["Nem, ez veszélyes lehet (adatvédelem)", "Igen, hogy mindenki tudja, hol vagyok", "Csak ha esik az eső", "Igen, ez kötelező"],
+        "ro": ["Nu, poate fi periculos (protecția datelor)", "Da, ca să știe toată lumea unde sunt", "Doar dacă plouă", "Da, este obligatoriu"],
+        "en": ["No, that can be dangerous (data privacy)", "Yes, so everyone knows where I am", "Only if it's raining", "Yes, it is mandatory"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Inkognito-Modus im Browser?",
+        "hu": "Mi az az inkognitó mód a böngészőben?",
+        "ro": "Ce este modul incognito în browser?",
+        "en": "What is incognito mode in a browser?"
+      },
+      "options": {
+        "de": ["Ein Modus, bei dem der Verlauf nicht gespeichert wird", "Ein Modus für besonders schnelles Internet", "Ein Modus zum Hacken von Webseiten", "Ein Modus, der den Bildschirm schwarz macht"],
+        "hu": ["Egy mód, ahol az előzmények nem mentődnek", "Egy mód a különösen gyors internethez", "Egy mód weboldalak feltöréséhez", "Egy mód, ami feketévé teszi a képernyőt"],
+        "ro": ["Un mod în care istoricul nu este salvat", "Un mod pentru internet deosebit de rapid", "Un mod pentru hack-uirea site-urilor", "Un mod care face ecranul negru"],
+        "en": ["A mode where the history is not saved", "A mode for particularly fast internet", "A mode for hacking websites", "A mode that makes the screen black"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet Verschlüsselung (Encryption)?",
+        "hu": "Mit jelent a titkosítás (encryption)?",
+        "ro": "Ce înseamnă criptarea (encryption)?",
+        "en": "What does encryption mean?"
+      },
+      "options": {
+        "de": ["Daten unlesbar machen, damit nur Berechtigte sie sehen können", "Daten löschen", "Daten farbig markieren", "Daten an alle senden"],
+        "hu": ["Az adatok olvashatatlanná tétele, hogy csak a jogosultak lássák", "Adatok törlése", "Adatok színes megjelölése", "Adatok küldése mindenkinek"],
+        "ro": ["Transformarea datelor în format ilizibil pentru persoanele neautorizate", "Ștergerea datelor", "Marcarea datelor cu culori", "Trimiterea datelor către toți"],
+        "en": ["Making data unreadable so only authorized people can see it", "Deleting data", "Marking data with colors", "Sending data to everyone"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man sich nach der Nutzung eines öffentlichen Computers ausloggen?",
+        "hu": "Miért kellene kijelentkezni egy nyilvános számítógép használata után?",
+        "ro": "De ce ar trebui să ne deconectăm după folosirea unui calculator public?",
+        "en": "Why should you log out after using a public computer?"
+      },
+      "options": {
+        "de": ["Damit andere keinen Zugriff auf das Konto haben", "Damit der Computer nicht überhitzt", "Damit man keine Werbung bekommt", "Das ist nicht nötig"],
+        "hu": ["Hogy mások ne férjenek hozzá a fiókhoz", "Hogy a gép ne melegedjen túl", "Hogy ne kapjunk reklámokat", "Nem szükséges"],
+        "ro": ["Pentru ca alții să nu aibă acces la cont", "Pentru ca calculatorul să nu se supraîncălzească", "Pentru a nu primi reclame", "Nu este necesar"],
+        "en": ["So that others do not have access to the account", "So that the computer does not overheat", "So that you don't get ads", "It is not necessary"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man ein geheimes Wort zum Einloggen?",
+        "hu": "Hogy hívják a titkos szót a belépéshez?",
+        "ro": "Cum se numește cuvântul secret pentru logare?",
+        "en": "What is a secret word for logging in called?"
+      },
+      "answer": { "de": "Passwort", "hu": "jelszó", "ro": "parolă", "en": "password" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist das Kürzel für 'Zwei-Faktor-Authentifizierung'?",
+        "hu": "Mi a rövidítése a 'kétfaktoros hitelesítésnek'?",
+        "ro": "Care este abrevierea pentru „autentificarea cu doi factori”?",
+        "en": "What is the abbreviation for 'two-factor authentication'?"
+      },
+      "answer": { "de": "2FA", "hu": "2FA", "ro": "2FA", "en": "2FA" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man Betrug per E-Mail?",
+        "hu": "Hogy hívják az e-mailes csalást?",
+        "ro": "Cum se numește frauda prin e-mail?",
+        "en": "What is fraud via email called?"
+      },
+      "answer": { "de": "Phishing", "hu": "phishing", "ro": "phishing", "en": "phishing" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was bedeutet 'VPN'?",
+        "hu": "Mit jelent a 'VPN'?",
+        "ro": "Ce înseamnă „VPN”?",
+        "en": "What does 'VPN' stand for?"
+      },
+      "answer": { "de": "Virtual Private Network", "hu": "Virtual Private Network", "ro": "Virtual Private Network", "en": "Virtual Private Network" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was hinterlässt man online? (... Fußabdruck)",
+        "hu": "Mit hagyunk magunk után online? (... lábnyom)",
+        "ro": "Ce lăsăm online? (amprentă ...)",
+        "en": "What do you leave online? (... footprint)"
+      },
+      "answer": { "de": "digitaler", "hu": "digitális", "ro": "digitală", "en": "digital" }
+    }
+  ],
+  "info_k7_social": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Cybermobbing?",
+        "hu": "Mi a cybermobbing (internetes zaklatás)?",
+        "ro": "Ce este cybermobbing-ul?",
+        "en": "What is cyberbullying?"
+      },
+      "options": {
+        "de": ["Beleidigen oder Schikanieren über das Internet", "Ein Spiel mit Robotern", "Das Kaufen von Followern", "Ein technischer Fehler im Handy"],
+        "hu": ["Sértegetés vagy zaklatás az interneten keresztül", "Egy játék robotokkal", "Követők vásárlása", "Egy technikai hiba a telefonban"],
+        "ro": ["Jignirea sau hărțuirea prin intermediul internetului", "Un joc cu roboți", "Cumpărarea de urmăritori", "O eroare tehnică la telefon"],
+        "en": ["Insulting or harassing via the internet", "A game with robots", "Buying followers", "A technical error in the phone"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Netiquette'?",
+        "hu": "Mit jelent a 'etikett' (netiquette)?",
+        "ro": "Ce înseamnă „netichetă” (netiquette)?",
+        "en": "What does 'netiquette' mean?"
+      },
+      "options": {
+        "de": ["Regeln für höfliches Benehmen im Internet", "Ein schnelles Internet", "Ein neues soziales Netzwerk", "Die Hardware eines Netzwerks"],
+        "hu": ["Az udvarias viselkedés szabályai az interneten", "Gyors internet", "Egy új közösségi hálózat", "Egy hálózat hardvere"],
+        "ro": ["Reguli pentru comportamentul politicos pe internet", "Un internet rapid", "O nouă rețea socială", "Hardware-ul unei rețele"],
+        "en": ["Rules for polite behavior on the internet", "A fast internet", "A new social network", "The hardware of a network"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Filterblase'?",
+        "hu": "Mi az a 'szűrőbuborék' (filter bubble)?",
+        "ro": "Ce este o „bulă de filtrare”?",
+        "en": "What is a 'filter bubble'?"
+      },
+      "options": {
+        "de": ["Dass Algorithmen uns nur Inhalte zeigen, die unsere Meinung bestätigen", "Ein Schutz vor Viren", "Eine spezielle Kamera-App", "Ein Fehler beim Laden von Webseiten"],
+        "hu": ["Hogy az algoritmusok csak a véleményünket megerősítő tartalmakat mutatják", "Védelem a vírusok ellen", "Egy speciális kamera app", "Egy hiba az oldalak betöltésekor"],
+        "ro": ["Faptul că algoritmii ne arată doar conținut care ne confirmă opiniile", "O protecție împotriva virușilor", "O aplicație specială de cameră", "O eroare la încărcarea paginilor web"],
+        "en": ["That algorithms only show us content that confirms our opinion", "A protection against viruses", "A special camera app", "An error when loading websites"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sollte man tun, wenn man im Internet beleidigt wird?",
+        "hu": "Mit kellene tenni, ha sértegetnek az interneten?",
+        "ro": "Ce ar trebui să facem dacă suntem jigniți pe internet?",
+        "en": "What should you do if you are insulted on the internet?"
+      },
+      "options": {
+        "de": ["Den Vorfall melden, Beweise sichern (Screenshots) und Hilfe suchen", "Zurückbeleidigen", "Das Handy wegwerfen", "Gar nichts tun"],
+        "hu": ["Jelenteni az esetet, bizonyítékot menteni (screenshot) és segítséget kérni", "Visszasértegetni", "Eldobni a telefont", "Semmit sem tenni"],
+        "ro": ["Raportarea incidentului, salvarea dovezilor (screenshot) și căutarea ajutorului", "Jignirea înapoi", "Aruncarea telefonului", "Niciunul dintre cele de mai sus"],
+        "en": ["Report the incident, secure evidence (screenshots), and seek help", "Insult back", "Throw away the phone", "Do nothing at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sind Fake News gefährlich?",
+        "hu": "Miért veszélyesek a 'fake news'-ok (álhírek)?",
+        "ro": "De ce sunt periculoase știrile false (fake news)?",
+        "en": "Why are fake news dangerous?"
+      },
+      "options": {
+        "de": ["Sie verbreiten falsche Informationen und können Menschen manipulieren", "Sie machen das Internet langsam", "Sie löschen Dateien auf dem Computer", "Sie sind nur langweilig"],
+        "hu": ["Hamis információkat terjesztenek és manipulálhatják az embereket", "Lassítják az internetet", "Törlik a fájlokat a gépről", "Csak unalmasak"],
+        "ro": ["Răspândesc informații false și pot manipula oamenii", "Fac internetul lent", "Șterg fișierele de pe calculator", "Sunt doar plictisitoare"],
+        "en": ["They spread false information and can manipulate people", "They make the internet slow", "They delete files on the computer", "They are just boring"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Influencer'?",
+        "hu": "Ki az az 'influencer'?",
+        "ro": "Ce este un „influencer”?",
+        "en": "What is an 'influencer'?"
+      },
+      "options": {
+        "de": ["Eine Person mit großem Einfluss in sozialen Medien", "Ein Computer-Virus", "Ein Mitarbeiter einer Softwarefirma", "Ein Gerät zum Laden von Handys"],
+        "hu": ["Nagy hatású személy a közösségi médiában", "Egy számítógépes vírus", "Egy szoftvercég alkalmazottja", "Egy eszköz telefonok töltésére"],
+        "ro": ["O persoană cu mare influență în social media", "Un virus de calculator", "Un angajat al unei firme de software", "Un dispozitiv pentru încărcarea telefoanelor"],
+        "en": ["A person with significant influence on social media", "A computer virus", "An employee of a software company", "A device for charging phones"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Blockieren' in sozialen Medien?",
+        "hu": "Mit jelent a 'blokkolás' a közösségi médiában?",
+        "ro": "Ce înseamnă „blocarea” pe rețelele sociale?",
+        "en": "What does 'blocking' mean on social media?"
+      },
+      "options": {
+        "de": ["Verhindern, dass eine bestimmte Person Kontakt aufnehmen kann", "Das Handy ausschalten", "Eine App löschen", "Ein Foto bearbeiten"],
+        "hu": ["Megakadályozni, hogy egy adott személy kapcsolatba lépjen velünk", "Kikapcsolni a telefont", "Letörölni egy appot", "Szerkeszteni egy fotót"],
+        "ro": ["Prevenirea contactului din partea unei anumite persoane", "Închiderea telefonului", "Ștergerea unei aplicații", "Editarea unei fotografii"],
+        "en": ["Preventing a specific person from contacting you", "Turning off the phone", "Deleting an app", "Editing a photo"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Information sollte man NICHT öffentlich posten?",
+        "hu": "Melyik információt NEM szabadna nyilvánosan közzétenni?",
+        "ro": "Ce informație NU ar trebui postată public?",
+        "en": "Which information should you NOT post publicly?"
+      },
+      "options": {
+        "de": ["Die eigene Adresse oder Telefonnummer", "Den Namen des Lieblingsliedes", "Was man zu Mittag gegessen hat", "Ein Bild von einer Blume"],
+        "hu": ["A saját címedet vagy telefonszámodat", "A kedvenc dalod címét", "Mit ettél ebédre", "Egy virág képét"],
+        "ro": ["Adresa proprie sau numărul de telefon", "Numele melodiei preferate", "Ce ai mâncat la prânz", "O imagine cu o floare"],
+        "en": ["Your own address or phone number", "The name of your favorite song", "What you ate for lunch", "A picture of a flower"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das Mindestalter für viele soziale Netzwerke (laut AGB)?",
+        "hu": "Mennyi a korhatár sok közösségi oldalon (az ÁSZF szerint)?",
+        "ro": "Care este vârsta minimă pentru multe rețele sociale (conform termenilor și condițiilor)?",
+        "en": "What is the minimum age for many social networks (according to TOS)?"
+      },
+      "options": {
+        "de": ["Oft 13 Jahre", "Es gibt kein Mindestalter", "Immer 18 Jahre", "6 Jahre"],
+        "hu": ["Gyakran 13 év", "Nincs korhatár", "Mindig 18 év", "6 év"],
+        "ro": ["Adesea 13 ani", "Nu există vârstă minimă", "Întotdeauna 18 ani", "6 ani"],
+        "en": ["Often 13 years", "There is no minimum age", "Always 18 years", "6 years"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man kritisch gegenüber Informationen im Internet sein?",
+        "hu": "Miért kellene kritikusan hozzáállni az internetes információkhoz?",
+        "ro": "De ce ar trebui să fim critici față de informațiile de pe internet?",
+        "en": "Why should you be critical of information on the internet?"
+      },
+      "options": {
+        "de": ["Weil nicht alles wahr ist, was dort steht", "Weil das Internet bald abgeschaltet wird", "Weil Lesen anstrengend ist", "Weil Bilder immer stimmen"],
+        "hu": ["Mert nem minden igaz, ami ott le van írva", "Mert hamarosan lekapcsolják az internetet", "Mert az olvasás fárasztó", "Mert a képek mindig igazak"],
+        "ro": ["Pentru că nu tot ce scrie acolo este adevărat", "Pentru că internetul va fi oprit în curând", "Pentru că cititul este obositor", "Pentru că imaginile spun întotdeauna adevărul"],
+        "en": ["Because not everything written there is true", "Because the internet will be shut down soon", "Because reading is exhausting", "Because images are always correct"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man Belästigung im Internet?",
+        "hu": "Hogy hívják az internetes zaklatást?",
+        "ro": "Cum se numește hărțuirea pe internet?",
+        "en": "What is harassment on the internet called?"
+      },
+      "answer": { "de": "Cybermobbing", "hu": "cybermobbing", "ro": "cybermobbing", "en": "cyberbullying" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißen Regeln für gutes Benehmen online?",
+        "hu": "Hogy hívják az online viselkedés szabályait?",
+        "ro": "Cum se numește comportamentul online?",
+        "en": "What are the rules for good online behavior called?"
+      },
+      "answer": { "de": "Netiquette", "hu": "netikett", "ro": "netichetă", "en": "netiquette" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche App hat ein Geister-Logo?",
+        "hu": "Melyik appnak van szellem-logója?",
+        "ro": "Ce aplicație are un logo cu un spirit?",
+        "en": "Which app has a ghost logo?"
+      },
+      "answer": { "de": "Snapchat", "hu": "Snapchat", "ro": "Snapchat", "en": "Snapchat" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man falsche Nachrichten?",
+        "hu": "Hogy hívják a hamis híreket?",
+        "ro": "Cum se numește știrile false?",
+        "en": "What are false news called?"
+      },
+      "answer": { "de": "Fake News", "hu": "fake news", "ro": "fake news", "en": "fake news" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was sammelt man auf Instagram?",
+        "hu": "Mit gyűjt az ember az Instagramon?",
+        "ro": "Ce aduni pe Instagram?",
+        "en": "What do you collect on Instagram?"
+      },
+      "answer": { "de": "Follower", "hu": "követő", "ro": "urmăritori", "en": "followers" }
+    }
+  ],
+  "info_k7_cloud": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Cloud Computing'?",
+        "hu": "Mit jelent a 'felhő alapú számítástechnika' (cloud computing)?",
+        "ro": "Ce înseamnă „cloud computing”?",
+        "en": "What does 'cloud computing' mean?"
+      },
+      "options": {
+        "de": ["Speichern und Nutzen von Daten über das Internet", "Wettervorhersage mit Computern", "Ein Computer, der in den Bergen steht", "Das Versenden von Briefen per Luftpost"],
+        "hu": ["Adatok tárolása és használata az interneten keresztül", "Időjárás-előrejelzés számítógéppel", "Egy számítógép, ami a hegyekben van", "Levelek küldése légipostával"],
+        "ro": ["Stocarea și utilizarea datelor prin intermediul internetului", "Prognoza meteo cu calculatoare", "Un calculator situat la munte", "Trimiterea scrisorilor prin poștă aeriană"],
+        "en": ["Storing and using data over the internet", "Weather forecasting with computers", "A computer located in the mountains", "Sending letters by airmail"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Vorteil der Cloud?",
+        "hu": "Mi a felhő egyik előnye?",
+        "ro": "Care este un avantaj al serviciului cloud?",
+        "en": "What is an advantage of the cloud?"
+      },
+      "options": {
+        "de": ["Zugriff von überall mit Internetverbindung", "Man braucht keinen Strom mehr", "Der Computer wird nie wieder heiß", "Es kostet niemals Geld"],
+        "hu": ["Hozzáférés bárhonnan, ahol van internet", "Nincs szükség többé áramra", "A gép soha többé nem melegszik fel", "Soha nem kerül pénzbe"],
+        "ro": ["Acces de oriunde există conexiune la internet", "Nu mai este nevoie de curent", "Calculatorul nu se mai încinge niciodată", "Nu costă niciodată bani"],
+        "en": ["Access from anywhere with an internet connection", "You no longer need electricity", "The computer never gets hot again", "It never costs money"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Dienst ist ein Cloud-Speicher?",
+        "hu": "Melyik szolgáltatás felhőalapú tárhely?",
+        "ro": "Care serviciu este unul de stocare în cloud?",
+        "en": "Which service is a cloud storage provider?"
+      },
+      "options": {
+        "de": ["Google Drive", "Windows Notepad", "Taschenrechner", "VLC Player"],
+        "hu": ["Google Drive", "Windows Jegyzettömb", "Számológép", "VLC Player"],
+        "ro": ["Google Drive", "Windows Notepad", "Calculator", "VLC Player"],
+        "en": ["Google Drive", "Windows Notepad", "Calculator", "VLC Player"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Synchronisation' bei Cloud-Diensten?",
+        "hu": "Mit jelent a 'szinkronizálás' a felhő szolgáltatásoknál?",
+        "ro": "Ce înseamnă „sincronizare” în cazul serviciilor cloud?",
+        "en": "What does 'synchronization' mean in cloud services?"
+      },
+      "options": {
+        "de": ["Automatischer Abgleich von Daten auf verschiedenen Geräten", "Das Löschen alter Dateien", "Das Ändern des Passworts", "Das Sichern der Daten auf einer CD"],
+        "hu": ["Adatok automatikus összehangolása különböző eszközökön", "Régi fájlok törlése", "Jelszó megváltoztatása", "Adatok mentése CD-re"],
+        "ro": ["Actualizarea automată a datelor pe diferite dispozitive", "Ștergerea fișierelor vechi", "Modificarea parolei", "Salvarea datelor pe un CD"],
+        "en": ["Automatic updating of data across different devices", "Deleting old files", "Changing the password", "Backing up data to a CD"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Nachteil der Cloud?",
+        "hu": "Mi a felhő egyik hátránya?",
+        "ro": "Care este un dezavantaj al serviciului cloud?",
+        "en": "What is a disadvantage of the cloud?"
+      },
+      "options": {
+        "de": ["Ohne Internet kein Zugriff auf die Daten", "Die Daten wiegen in der Cloud mehr", "Man kann keine Bilder speichern", "Die Cloud kann regnen"],
+        "hu": ["Internet nélkül nincs hozzáférés az adatokhoz", "Az adatok többet nyomnak a felhőben", "Nem lehet képeket menteni", "A felhőből eshet az eső"],
+        "ro": ["Fără internet nu există acces la date", "Datele cântăresc mai mult în cloud", "Nu se pot salva imagini", "Norul poate ploua"],
+        "en": ["No access to data without internet", "Data weighs more in the cloud", "You cannot save images", "The cloud can rain"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo befinden sich die Daten in der Cloud physisch?",
+        "hu": "Hol találhatók az adatok fizikailag a felhőben?",
+        "ro": "Unde se află fizic datele din cloud?",
+        "en": "Where are cloud data physically located?"
+      },
+      "options": {
+        "de": ["In großen Rechenzentren auf Servern", "Direkt in der Luft", "In meinem Smartphone", "Auf dem Mond"],
+        "hu": ["Hatalmas adatközpontok szerverein", "Közvetlenül a levegőben", "A mobiltelefonomon", "A Holdon"],
+        "ro": ["În centre de date mari, pe servere", "Direct în aer", "În smartphone-ul meu", "Pe Lună"],
+        "en": ["In large data centers on servers", "Directly in the air", "In my smartphone", "On the moon"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann man in der Cloud gemeinsam an Dokumenten arbeiten?",
+        "hu": "Lehet a felhőben közösen dolgozni dokumentumokon?",
+        "ro": "Se poate lucra în colaborare la documente în cloud?",
+        "en": "Can you collaborate on documents in the cloud?"
+      },
+      "options": {
+        "de": ["Ja, mehrere Personen können gleichzeitig editieren", "Nein, das ist verboten", "Nur wenn man nebeneinander sitzt", "Nur per E-Mail"],
+        "hu": ["Igen, többen is szerkeszthetnek egyszerre", "Nem, ez tilos", "Csak ha egymás mellett ültök", "Csak e-mailben"],
+        "ro": ["Da, mai multe persoane pot edita simultan", "Nu, este interzis", "Doar dacă stați unul lângă altul", "Doar prin e-mail"],
+        "en": ["Yes, multiple people can edit at the same time", "No, it's forbidden", "Only if you sit next to each other", "Only via email"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'SaaS'?",
+        "hu": "Mit jelent a 'SaaS'?",
+        "ro": "Ce înseamnă „SaaS”?",
+        "en": "What does 'SaaS' stand for?"
+      },
+      "options": {
+        "de": ["Software as a Service", "System and a Screen", "Software and a Server", "Super and a Simple"],
+        "hu": ["Software as a Service", "System and a Screen", "Software and a Server", "Super and a Simple"],
+        "ro": ["Software as a Service", "System and a Screen", "Software and a Server", "Super and a Simple"],
+        "en": ["Software as a Service", "System and a Screen", "Software and a Server", "Super and a Simple"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Ist die Cloud sicher?",
+        "hu": "Biztonságos a felhő?",
+        "ro": "Este serviciul cloud sigur?",
+        "en": "Is the cloud secure?"
+      },
+      "options": {
+        "de": ["Meistens ja, aber man sollte starke Passwörter nutzen", "Ja, absolut unhackbar", "Nein, niemals", "Nur für geheime Agenten"],
+        "hu": ["Legtöbbször igen, de erős jelszavakat kell használni", "Igen, abszolút feltörhetetlen", "Nem, soha", "Csak titkosügynököknek"],
+        "ro": ["De cele mai multe ori da, dar trebuie folosite parole puternice", "Da, absolut imposibil de spart", "Nu, niciodată", "Doar pentru agenți secreți"],
+        "en": ["Mostly yes, but you should use strong passwords", "Yes, absolutely unhackable", "No, never", "Only for secret agents"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man kritisch gegenüber Informationen im Internet sein?",
+        "hu": "Miért kellene kritikusan hozzáállni az internetes információkhoz?",
+        "ro": "De ce ar trebui să fim critici față de informațiile de pe internet?",
+        "en": "Why should you be critical of information on the internet?"
+      },
+      "options": {
+        "de": ["Weil nicht alles wahr ist, was dort steht", "Weil das Internet bald abgeschaltet wird", "Weil Lesen anstrengend ist", "Weil Bilder immer stimmen"],
+        "hu": ["Mert nem minden igaz, ami ott le van írva", "Mert hamarosan lekapcsolják az internetet", "Mert az olvasás fárasztó", "Mert a képek mindig igazak"],
+        "ro": ["Pentru că nu tot ce scrie acolo este adevărat", "Pentru că internetul va fi oprit în curând", "Pentru că cititul este obositor", "Pentru că imaginile spun întotdeauna adevărul"],
+        "en": ["Because not everything written there is true", "Because the internet will be shut down soon", "Because reading is exhausting", "Because images are always correct"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man Online-Speicher auf Deutsch?",
+        "hu": "Hogy hívják az online tárhelyet?",
+        "ro": "Cum se numește stocarea online?",
+        "en": "What is online storage called?"
+      },
+      "answer": { "de": "Wolke", "hu": "felhő", "ro": "nor", "en": "cloud" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der Cloud-Dienst von Apple?",
+        "hu": "Hogy hívják az Apple felhő szolgáltatását?",
+        "ro": "Cum se numește serviciul cloud de la Apple?",
+        "en": "What is Apple's cloud service called?"
+      },
+      "answer": { "de": "iCloud", "hu": "iCloud", "ro": "iCloud", "en": "iCloud" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was braucht man für die Cloud? (Verbindung)",
+        "hu": "Mire van szükség a felhőhöz? (kapcsolat)",
+        "ro": "De ce este nevoie pentru cloud? (conexiune)",
+        "en": "What do you need for the cloud? (connection)"
+      },
+      "answer": { "de": "Internet", "hu": "internet", "ro": "internet", "en": "internet" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der Cloud-Dienst von Microsoft?",
+        "hu": "Hogy hívják a Microsoft felhő szolgáltatását?",
+        "ro": "Cum se numește serviciul cloud de la Microsoft?",
+        "en": "What is Microsoft's cloud service called?"
+      },
+      "answer": { "de": "OneDrive", "hu": "OneDrive", "ro": "OneDrive", "en": "OneDrive" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Kann man in der Cloud Dateien teilen?",
+        "hu": "Lehet a felhőben fájlokat megosztani?",
+        "ro": "Se pot partaja fișiere în cloud?",
+        "en": "Can you share files in the cloud?"
+      },
+      "answer": { "de": "Ja", "hu": "igen", "ro": "da", "en": "yes" }
+    }
+  ],
+  "info_k7_vr": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet VR?",
+        "hu": "Mit jelent a VR?",
+        "ro": "Ce înseamnă VR?",
+        "en": "What does VR stand for?"
+      },
+      "options": {
+        "de": ["Virtual Reality", "Very Real", "Video Record", "Visual Robot"],
+        "hu": ["Virtual Reality", "Very Real", "Video Record", "Visual Robot"],
+        "ro": ["Virtual Reality", "Very Real", "Video Record", "Visual Robot"],
+        "en": ["Virtual Reality", "Very Real", "Video Record", "Visual Robot"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Hauptunterschied zwischen VR und AR?",
+        "hu": "Mi a fő különbség a VR és az AR között?",
+        "ro": "Care este principala diferență între VR și AR?",
+        "en": "What is the main difference between VR and AR?"
+      },
+      "options": {
+        "de": ["VR ersetzt die echte Welt, AR ergänzt sie", "Es gibt keinen Unterschied", "VR ist nur für Handys", "AR braucht keine Kamera"],
+        "hu": ["A VR helyettesíti a valóságot, az AR kiegészíti azt", "Nincs különbség", "A VR csak mobilra van", "Az AR-hoz nem kell kamera"],
+        "ro": ["VR înlocuiește lumea reală, AR o completează", "Nu există nicio diferență", "VR este doar pentru telefoane", "AR nu are nevoie de cameră"],
+        "en": ["VR replaces the real world, AR complements it", "There is no difference", "VR is only for phones", "AR doesn't need a camera"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Gerät braucht man für VR?",
+        "hu": "Milyen eszközre van szükség a VR-hoz?",
+        "ro": "De ce dispozitiv este nevoie pentru VR?",
+        "en": "What device do you need for VR?"
+      },
+      "options": {
+        "de": ["VR-Brille (Headset)", "Einen Lautsprecher", "Nur eine Tastatur", "Ein Mikrofon"],
+        "hu": ["VR szemüveg (headset)", "Egy hangszóró", "Csak billentyűzet", "Egy mikrofon"],
+        "ro": ["Ochelari VR (headset)", "Un difuzor", "Doar o tastatură", "Un microfon"],
+        "en": ["VR glasses (headset)", "A speaker", "Only a keyboard", "A microphone"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet AR?",
+        "hu": "Mit jelent az AR?",
+        "ro": "Ce înseamnă AR?",
+        "en": "What does AR stand for?"
+      },
+      "options": {
+        "de": ["Augmented Reality", "Advanced Robot", "All Real", "Application Record"],
+        "hu": ["Augmented Reality", "Advanced Robot", "All Real", "Application Record"],
+        "ro": ["Augmented Reality", "Advanced Robot", "All Real", "Application Record"],
+        "en": ["Augmented Reality", "Advanced Robot", "All Real", "Application Record"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "In welchem Bereich wird VR oft genutzt?",
+        "hu": "Melyik területen használják gyakran a VR-t?",
+        "ro": "În ce domeniu este VR-ul folosit adesea?",
+        "en": "In which field is VR often used?"
+      },
+      "options": {
+        "de": ["Gaming und Training", "Beim Kochen von Nudeln", "Zum Staubsaugen", "Beim Schlafen"],
+        "hu": ["Játék és képzés", "Tésztafőzés közben", "Porszívózáshoz", "Alvás közben"],
+        "ro": ["Gaming și antrenament", "La gătitul pastelor", "La aspirat", "În timpul somnului"],
+        "en": ["Gaming and training", "While cooking pasta", "For vacuuming", "While sleeping"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Beispiel für AR?",
+        "hu": "Mi egy példa az AR-ra?",
+        "ro": "Care este un exemplu de AR?",
+        "en": "What is an example of AR?"
+      },
+      "options": {
+        "de": ["Pokémon GO", "Ein Buch lesen", "Ein Radio hören", "Ein normales Video schauen"],
+        "hu": ["Pokémon GO", "Könyvolvasás", "Rádióhallgatás", "Sima videónézés"],
+        "ro": ["Pokémon GO", "Citirea unei cărți", "Ascultarea radioului", "Vizionarea unui videoclip normal"],
+        "en": ["Pokémon GO", "Reading a book", "Listening to the radio", "Watching a normal video"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum kann VR am Anfang schwindelig machen?",
+        "hu": "Miért okozhat a VR eleinte szédülést?",
+        "ro": "De ce poate VR-ul să provoace amețeli la început?",
+        "en": "Why can VR make you dizzy at first?"
+      },
+      "options": {
+        "de": ["Das Gehirn ist verwirrt (Bewegung vs. Sehen)", "Die Brille ist zu schwer", "Die Farben sind zu hell", "Man vergisst zu atmen"],
+        "hu": ["Az agy összezavarodik (mozgás vs. látvány)", "Túl nehéz a szemüveg", "Túl világosak a színek", "Elfelejtünk lélegezni"],
+        "ro": ["Creierul este indus în eroare (mișcare vs. vedere)", "Ochelarii sunt prea grei", "Culorile sunt prea luminoase", "Uiți să respiri"],
+        "en": ["The brain is confused (motion vs. sight)", "The glasses are too heavy", "The colors are too bright", "You forget to breathe"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie erkennt VR deine Bewegungen?",
+        "hu": "Hogyan ismeri fel a VR a mozgásodat?",
+        "ro": "Cum recunoaște VR-ul mișcările tale?",
+        "en": "How does VR recognize your movements?"
+      },
+      "options": {
+        "de": ["Durch Sensoren und Kameras", "Durch lautes Rufen", "Indem man den Computer berührt", "Gar nicht"],
+        "hu": ["Szenzorok és kamerák segítségével", "Hangos kiáltással", "A gép megérintésével", "Sehogy"],
+        "ro": ["Prin senzori și camere", "Prin strigăte", "Atingând calculatorul", "Deloc"],
+        "en": ["Through sensors and cameras", "By shouting loudly", "By touching the computer", "It doesn't"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Immersion'?",
+        "hu": "Mi az az 'immerzió' (elmerülés)?",
+        "ro": "Ce este „imersia”?",
+        "en": "What is 'immersion'?"
+      },
+      "options": {
+        "de": ["Das Gefühl, wirklich in der virtuellen Welt zu sein", "Das Ausschalten des Computers", "Das Kaufen einer neuen Brille", "Das Reinigen der Linsen"],
+        "hu": ["Az az érzés, hogy valóban benne vagy a virtuális világban", "A gép kikapcsolása", "Új szemüveg vásárlása", "A lencsék tisztítása"],
+        "ro": ["Senzația de a fi cu adevărat în lumea virtuală", "Oprirea calculatorului", "Cumpărarea unor ochelari noi", "Curățarea lentilelor"],
+        "en": ["The feeling of being truly inside the virtual world", "Turning off the computer", "Buying new glasses", "Cleaning the lenses"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Können Chirurgen mit VR üben?",
+        "hu": "Tudnak a sebészek VR-ral gyakorolni?",
+        "ro": "Pot chirurgii să exerseze folosind VR?",
+        "en": "Can surgeons practice with VR?"
+      },
+      "options": {
+        "de": ["Ja, das ist ein wichtiges Einsatzgebiet für Operationen", "Nein, das ist zu gefährlich", "Nur wenn sie Videospiele mögen", "Nein, VR ist nur ein Spielzeug"],
+        "hu": ["Igen, ez fontos felhasználási terület a műtéteknél", "Nem, túl veszélyes", "Csak ha szeretik a videójátékokat", "Nem, a VR csak játék"],
+        "ro": ["Da, acesta este un domeniu important de utilizare pentru operații", "Nu, este prea periculos", "Doar dacă le plac jocurile video", "Nu, VR-ul este doar o jucărie"],
+        "en": ["Yes, this is an important area of use for surgeries", "No, it's too dangerous", "Only if they like video games", "No, VR is just a toy"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wofür steht das 'V' in VR?",
+        "hu": "Mit jelent a 'V' a VR-ban?",
+        "ro": "Ce înseamnă „V” în VR?",
+        "en": "What does the 'V' in VR stand for?"
+      },
+      "answer": { "de": "Virtuelle", "hu": "virtuális", "ro": "virtual", "en": "virtual" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Brille für VR?",
+        "hu": "Hogy hívják a VR szemüveget?",
+        "ro": "Cum se numește dispozitivul pentru VR care se pune pe cap?",
+        "en": "What is the VR headgear called?"
+      },
+      "answer": { "de": "Headset", "hu": "headset", "ro": "headset", "en": "headset" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Realität wird mit 'AR' abgekürzt?",
+        "hu": "Melyik realitást rövidítik 'AR'-ral?",
+        "ro": "Ce realitate este abreviată cu „AR”?",
+        "en": "Which reality is abbreviated as 'AR'?"
+      },
+      "answer": { "de": "Augmented", "hu": "Augmented", "ro": "Augmented", "en": "Augmented" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Kann man VR im Sitzen nutzen?",
+        "hu": "Lehet a VR-t ülve használni?",
+        "ro": "Se poate folosi VR-ul stând jos?",
+        "en": "Can you use VR while sitting?"
+      },
+      "answer": { "de": "Ja", "hu": "igen", "ro": "da", "en": "yes" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Macht VR die Welt 'echt'?",
+        "hu": "A VR 'valódivá' teszi a világot?",
+        "ro": "Face VR lumea „reală”?",
+        "en": "Does VR make the world 'real'?"
+      },
+      "answer": { "de": "Nein", "hu": "nem", "ro": "nu", "en": "no" }
+    }
+  ],
+  "info_k7_ai": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet KI (oder AI auf Englisch)?",
+        "hu": "Mit jelent a MI (vagy angolul AI)?",
+        "ro": "Ce înseamnă IA (sau AI în engleză)?",
+        "en": "What does AI stand for?"
+      },
+      "options": {
+        "de": ["Künstliche Intelligenz", "Keine Information", "Kleine Interaktion", "Kluge Installation"],
+        "hu": ["Mesterséges Intelligencia", "Minden Intelligens", "Másik Információ", "Modern Ipar"],
+        "ro": ["Inteligență Artificială", "Informație Automată", "Interacțiune Avansată", "Aproape Inteligent"],
+        "en": ["Artificial Intelligence", "Automatic Information", "Almost Intelligent", "Advanced Interaction"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Maschinelles Lernen (Machine Learning)?",
+        "hu": "Mi az a gépi tanulás (machine learning)?",
+        "ro": "Ce este învățarea automată (machine learning)?",
+        "en": "What is machine learning?"
+      },
+      "options": {
+        "de": ["Computer lernen aus Daten ohne explizite Programmierung", "Roboter gehen in die Schule", "Ein Computer lernt zu laufen", "Menschen lernen, wie man Maschinen baut"],
+        "hu": ["A számítógépek adatokból tanulnak programozás nélkül", "A robotok iskolába járnak", "A számítógép megtanul járni", "Az emberek megtanulják, hogyan kell gépeket építeni"],
+        "ro": ["Calculatoarele învață din date fără programare explicită", "Roboții merg la școală", "Un calculator învață să meargă", "Oamenii învață cum să construiască mașini"],
+        "en": ["Computers learn from data without explicit programming", "Robots go to school", "A computer learns to walk", "Humans learn how to build machines"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Chatbot nutzt KI zum Beantworten von Fragen?",
+        "hu": "Melyik chatbot használ MI-t a kérdések megválaszolásához?",
+        "ro": "Care chatbot folosește IA pentru a răspunde la întrebări?",
+        "en": "Which chatbot uses AI to answer questions?"
+      },
+      "options": {
+        "de": ["ChatGPT", "Windows Paint", "Google Maps", "Excel"],
+        "hu": ["ChatGPT", "Windows Paint", "Google Maps", "Excel"],
+        "ro": ["ChatGPT", "Windows Paint", "Google Maps", "Excel"],
+        "en": ["ChatGPT", "Windows Paint", "Google Maps", "Excel"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann eine KI Gefühle haben?",
+        "hu": "Tud az MI érezni?",
+        "ro": "Poate o IA să aibă sentimente?",
+        "en": "Can an AI have feelings?"
+      },
+      "options": {
+        "de": ["Nein, sie simuliert nur menschliches Verhalten", "Ja, wenn sie genug Strom hat", "Nur wenn man nett zu ihr ist", "Nur nachts"],
+        "hu": ["Nem, csak az emberi viselkedést szimulálja", "Igen, ha elég áramot kap", "Csak ha kedves vagy vele", "Csak éjszaka"],
+        "ro": ["Nu, ea doar simulează comportamentul uman", "Da, dacă are destul curent", "Doar dacă ești drăguț cu ea", "Doar noaptea"],
+        "en": ["No, it only simulates human behavior", "Yes, if it has enough power", "Only if you are nice to it", "Only at night"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür wird KI in der Bildbearbeitung genutzt?",
+        "hu": "Mire használják az MI-t a képszerkesztésben?",
+        "ro": "Pentru ce este folosită IA în editarea imaginilor?",
+        "en": "What is AI used for in image editing?"
+      },
+      "options": {
+        "de": ["Zum Generieren neuer Bilder oder zum Retuschieren", "Zum Drucken von Fotos", "Zum Zählen der Farben", "Gar nicht"],
+        "hu": ["Új képek generálására vagy retusálásra", "Fotók nyomtatására", "A színek megszámolására", "Sehogy"],
+        "ro": ["Pentru generarea de imagini noi sau pentru retușare", "Pentru imprimarea fotografiilor", "Pentru numărarea culorilor", "Deloc"],
+        "en": ["For generating new images or for retouching", "For printing photos", "For counting colors", "Not at all"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Risiko von KI?",
+        "hu": "Mi az MI egyik kockázata?",
+        "ro": "Care este un risc al IA?",
+        "en": "What is a risk of AI?"
+      },
+      "options": {
+        "de": ["Verbreitung von Vorurteilen (Bias) durch fehlerhafte Daten", "Dass der Computer schmilzt", "Dass man keine Tastatur mehr braucht", "Es gibt keine Risiken"],
+        "hu": ["Előítéletek terjesztése a hibás adatok miatt", "Hogy elolvad a számítógép", "Hogy nem kell többé billentyűzet", "Nincsenek kockázatok"],
+        "ro": ["Răspândirea prejudecăților din cauza datelor eronate", "Că se topește calculatorul", "Că nu mai este nevoie de tastatură", "Nu există riscuri"],
+        "en": ["Spreading bias due to faulty data", "That the computer melts", "That you no longer need a keyboard", "There are no risks"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie lernt eine KI?",
+        "hu": "Hogyan tanul az MI?",
+        "ro": "Cum învață o IA?",
+        "en": "How does an AI learn?"
+      },
+      "options": {
+        "de": ["Durch das Analysieren riesiger Datenmengen", "Indem sie in die Schule geht", "Durch Zauberei", "Sie weiß schon alles von Anfang an"],
+        "hu": ["Hatalmas adatmennyiség elemzésével", "Úgy, hogy iskolába jár", "Varázslattal", "Már mindent tud az elejétől fogva"],
+        "ro": ["Prin analizarea unor cantități uriașe de date", "Mergând la școală", "Prin magie", "Știe deja totul de la început"],
+        "en": ["By analyzing huge amounts of data", "By going to school", "Through magic", "It already knows everything from the start"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet ' Turing-Test'?",
+        "hu": "Mit jelent a 'Turing-teszt'?",
+        "ro": "Ce înseamnă „testul Turing”?",
+        "en": "What does the 'Turing test' mean?"
+      },
+      "options": {
+        "de": ["Ein Test, um festzustellen, ob eine Maschine menschliches Denken zeigt", "Ein Test für die Geschwindigkeit des Internets", "Ein Test für neue Grafikkarten", "Ein Führerschein für Roboter"],
+        "hu": ["Egy teszt annak eldöntésére, hogy a gép mutat-e emberi gondolkodást", "Egy teszt az internet sebességére", "Egy teszt új videókártyákhoz", "Jogosítvány robotoknak"],
+        "ro": ["Un test pentru a determina dacă o mașină manifestă gândire umană", "Un test pentru viteza internetului", "Un test pentru plăci grafice noi", "Un permis de conducere pentru roboți"],
+        "en": ["A test to determine if a machine shows human-like thinking", "A test for internet speed", "A test for new graphics cards", "A driver's license for robots"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Kann KI Musik komponieren?",
+        "hu": "Tud az MI zenét szerezni?",
+        "ro": "Poate o IA să compună muzică?",
+        "en": "Can AI compose music?"
+      },
+      "options": {
+        "de": ["Ja, es gibt Programme, die das können", "Nein, niemals", "Nur wenn sie eine Gitarre hat", "Nur wenn es regnet"],
+        "hu": ["Igen, vannak erre képes programok", "Nem, soha", "Csak ha van gitárja", "Csak ha esik az eső"],
+        "ro": ["Da, există programe care pot face asta", "Nu, niciodată", "Doar dacă are o chitară", "Doar dacă plouă"],
+        "en": ["Yes, there are programs that can do that", "No, never", "Only if it has a guitar", "Only if it rains"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum ist Ethik bei KI wichtig?",
+        "hu": "Miért fontos az etika az MI-nél?",
+        "ro": "De ce este importantă etica în IA?",
+        "en": "Why is ethics important in AI?"
+      },
+      "options": {
+        "de": ["Um sicherzustellen, dass KI den Menschen nicht schadet", "Damit die KI schöner aussieht", "Damit die KI schneller rechnet", "Das ist nicht wichtig"],
+        "hu": ["Hogy biztosítsuk, az MI nem árt az embereknek", "Hogy az MI szebben nézzen ki", "Hogy az MI gyorsabban számoljon", "Ez nem fontos"],
+        "ro": ["Pentru a asigura că IA nu dăunează oamenilor", "Pentru ca IA să arate mai bine", "Pentru ca IA să calculeze mai repede", "Nu este important"],
+        "en": ["To ensure that AI does not harm humans", "To make the AI look better", "To make the AI calculate faster", "It is not important"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wofür steht die Abkürzung KI?",
+        "hu": "Minek a rövidítése a MI?",
+        "ro": "Care este abrevierea pentru inteligență artificială?",
+        "en": "What is the abbreviation for artificial intelligence?"
+      },
+      "answer": { "de": "Künstliche Intelligenz", "hu": "mesterséges intelligencia", "ro": "IA", "en": "AI" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der bekannte Bot von OpenAI?",
+        "hu": "Hogy hívják az OpenAI ismert botját?",
+        "ro": "Cum se numește botul cunoscut de la OpenAI?",
+        "en": "What is the name of the famous bot from OpenAI?"
+      },
+      "answer": { "de": "ChatGPT", "hu": "ChatGPT", "ro": "ChatGPT", "en": "ChatGPT" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Kann KI lernen?",
+        "hu": "Tud az MI tanulni?",
+        "ro": "Poate o IA să învețe?",
+        "en": "Can AI learn?"
+      },
+      "answer": { "de": "Ja", "hu": "igen", "ro": "da", "en": "yes" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was braucht eine KI zum Lernen? (viele ...)",
+        "hu": "Mire van szüksége az MI-nek a tanuláshoz? (sok ...)",
+        "ro": "De ce are nevoie o IA pentru a învăța? (multe ...)",
+        "en": "What does an AI need to learn? (many ...)"
+      },
+      "answer": { "de": "Daten", "hu": "adat", "ro": "date", "en": "data" }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Sind KI-Modelle wie Menschen?",
+        "hu": "Olyanok az MI modellek, mint az emberek?",
+        "ro": "Sunt modelele IA ca oamenii?",
+        "en": "Are AI models like humans?"
+      },
+      "answer": { "de": "Nein", "hu": "nem", "ro": "nu", "en": "no" }
+    }
+  ]
+}

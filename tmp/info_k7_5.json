@@ -1,0 +1,950 @@
+{
+  "info_k7_db": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Datenbank?",
+        "hu": "Mi az az adatbázis?",
+        "ro": "Ce este o bază de date?",
+        "en": "What is a database?"
+      },
+      "options": {
+        "de": ["Ein Spiel", "Ein strukturiertes System zur Speicherung von Daten", "Ein Monitor-Zubehör", "Ein spezielles Kabel"],
+        "hu": ["Egy játék", "Adatok tárolására szolgáló strukturált rendszer", "Monitor kiegészítő", "Speciális kábel"],
+        "ro": ["Un joc", "Un sistem structurat pentru stocarea datelor", "Un accesoriu pentru monitor", "Un cablu special"],
+        "en": ["A game", "A structured system for storing data", "A monitor accessory", "A special cable"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man eine Zeile in einer Datenbanktabelle?",
+        "hu": "Hogy hívják az adatbázis-táblázat egy sorát?",
+        "ro": "Cum se numește un rând dintr-un tabel de bază de date?",
+        "en": "What is a row in a database table called?"
+      },
+      "options": {
+        "de": ["Feld", "Datensatz (Record)", "Spalte", "Schlüssel"],
+        "hu": ["Mező", "Rekord (adatlap)", "Oszlop", "Kulcs"],
+        "ro": ["Câmp", "Înregistrare (record)", "Coloană", "Cheie"],
+        "en": ["Field", "Record", "Column", "Key"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Feld' (Field) in einer Datenbank?",
+        "hu": "Mi az a 'mező' (field) az adatbázisban?",
+        "ro": "Ce este un 'câmp' (field) într-o bază de date?",
+        "en": "What is a 'field' (field) in a database?"
+      },
+      "options": {
+        "de": ["Eine ganze Tabelle", "Die kleinste Einheit, eine Spalte für eine bestimmte Information", "Das Passwort", "Der Name der Datenbank"],
+        "hu": ["Egy egész táblázat", "A legkisebb egység, egy oszlop egy adott információtípusnak", "A jelszó", "Az adatbázis neve"],
+        "ro": ["Un tabel întreg", "Cea mai mică unitate, o coloană pentru o anumită informație", "Parola", "Numele bazei de date"],
+        "en": ["An entire table", "The smallest unit, a column for a specific type of information", "The password", "The name of the database"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Primärschlüssel'?",
+        "hu": "Mi az az 'elsődleges kulcs' (primary key)?",
+        "ro": "Ce este o 'cheie primară'?",
+        "en": "What is a 'primary key'?"
+      },
+      "options": {
+        "de": ["Ein Passwort", "Ein Feld, das jeden Datensatz eindeutig identifiziert", "Der Name des Erstellers", "Ein verstecktes Feld"],
+        "hu": ["Egy jelszó", "Egy mező, amely minden rekordot egyedileg azonosít", "A készítő neve", "Egy rejtett mező"],
+        "ro": ["O parolă", "Un câmp care identifică unic fiecare înregistrare", "Numele creatorului", "Un câmp ascuns"],
+        "en": ["A password", "A field that uniquely identifies each record", "The creator's name", "A hidden field"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht 'SQL'?",
+        "hu": "Mit jelent az SQL rövidítés?",
+        "ro": "Ce înseamnă SQL?",
+        "en": "What does SQL stand for?"
+      },
+      "options": {
+        "de": ["Structured Query Language", "Simple Quick Link", "System Query Level", "Standard Question List"],
+        "hu": ["Structured Query Language", "Simple Quick Link", "System Query Level", "Standard Question List"],
+        "ro": ["Structured Query Language", "Simple Quick Link", "System Query Level", "Standard Question List"],
+        "en": ["Structured Query Language", "Simple Quick Link", "System Query Level", "Standard Question List"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht der Befehl 'SELECT' in SQL?",
+        "hu": "Mit csinál a 'SELECT' parancs az SQL-ben?",
+        "ro": "Ce face comanda 'SELECT' în SQL?",
+        "en": "What does the 'SELECT' command do in SQL?"
+      },
+      "options": {
+        "de": ["Daten löschen", "Daten aus der Datenbank abfragen/auswählen", "Die Datenbank ausschalten", "Ein neues Feld erstellen"],
+        "hu": ["Adatok törlése", "Adatok lekérdezése/kiválasztása az adatbázisból", "Az adatbázis leállítása", "Új mező létrehozása"],
+        "ro": ["Șterge date", "Interoghează/selectează date din baza de date", "Oprește baza de date", "Creează un câmp nou"],
+        "en": ["Delete data", "Query/select data from the database", "Shut down the database", "Create a new field"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Relation' in Datenbanken?",
+        "hu": "Mi az a 'reláció' az adatbázisokban?",
+        "ro": "Ce este o 'relație' în bazele de date?",
+        "en": "What is a 'relation' in databases?"
+      },
+      "options": {
+        "de": ["Ein Fehler", "Eine Beziehung zwischen Tabellen", "Die Größe der Datei", "Das Datum"],
+        "hu": ["Egy hiba", "A táblák közötti kapcsolat", "A fájlméret", "A dátum"],
+        "ro": ["O eroare", "O legătură între tabele", "Dimensiunea fișierului", "Data"],
+        "en": ["An error", "A relationship between tables", "The size of the file", "The date"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm wird oft für kleine Datenbanken genutzt?",
+        "hu": "Melyik programot használják gyakran kisebb adatbázisokhoz?",
+        "ro": "Ce program este adesea folosit pentru baze de date mici?",
+        "en": "Which program is often used for small databases?"
+      },
+      "options": {
+        "de": ["Microsoft Access", "Microsoft Word", "Paint", "Calculator"],
+        "hu": ["Microsoft Access", "Microsoft Word", "Paint", "Számológép"],
+        "ro": ["Microsoft Access", "Microsoft Word", "Paint", "Calculator"],
+        "en": ["Microsoft Access", "Microsoft Word", "Paint", "Calculator"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'redundant' in Bezug auf Daten?",
+        "hu": "Mit jelent a 'redundáns' kifejezés az adatoknál?",
+        "ro": "Ce înseamnă 'redundant' în contextul datelor?",
+        "en": "What does 'redundant' mean regarding data?"
+      },
+      "options": {
+        "de": ["Sehr schnell", "Mehrfach unnötig vorhanden", "Verschlüsselt", "Gelöscht"],
+        "hu": ["Nagyon gyors", "Többszörösen, feleslegesen jelen lévő", "Titkosított", "Törölt"],
+        "ro": ["Foarte rapid", "Prezent de mai multe ori în mod inutil", "Criptat", "Șters"],
+        "en": ["Very fast", "Present multiple times unnecessarily", "Encrypted", "Deleted"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein DBMS?",
+        "hu": "Mi az a DBMS?",
+        "ro": "Ce este un DBMS?",
+        "en": "What is a DBMS?"
+      },
+      "options": {
+        "de": ["Datenbankmanagementsystem (Software zur Verwaltung)", "Data Backup Main System", "Digital Business Media System", "Direct Basic Mail Service"],
+        "hu": ["Adatbázis-kezelő rendszer (szoftver a kezeléshez)", "Data Backup Main System", "Digital Business Media System", "Direct Basic Mail Service"],
+        "ro": ["Sistem de gestiune a bazelor de date (software de administrare)", "Data Backup Main System", "Digital Business Media System", "Direct Basic Mail Service"],
+        "en": ["Database Management System (software for management)", "Data Backup Main System", "Digital Business Media System", "Direct Basic Mail Service"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Anordnung von Daten in Zeilen und Spalten?",
+        "hu": "Hogy hívják az adatok sorokba és oszlopokba rendezett formáját?",
+        "ro": "Cum se numește aranjarea datelor în rânduri și coloane?",
+        "en": "What is the arrangement of data in rows and columns called?"
+      },
+      "answer": {
+        "de": "Tabelle",
+        "hu": "Táblázat",
+        "ro": "Tabel",
+        "en": "Table"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Mit welchem SQL-Befehl fügt man neue Daten ein?",
+        "hu": "Melyik SQL parancsal szúrunk be új adatokat?",
+        "ro": "Cu ce comandă SQL se introduc date noi?",
+        "en": "With which SQL command do you insert new data?"
+      },
+      "answer": {
+        "de": "INSERT",
+        "hu": "INSERT",
+        "ro": "INSERT",
+        "en": "INSERT"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der Fachbegriff für eine Abfrage an eine Datenbank?",
+        "hu": "Mi a szakkifejezése az adatbázishoz intézett kérdésnek?",
+        "ro": "Care este termenul tehnic pentru o interogare a unei baze de date?",
+        "en": "What is the technical term for a request to a database?"
+      },
+      "answer": {
+        "de": "Query",
+        "hu": "Lekérdezés",
+        "ro": "Interogare",
+        "en": "Query"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Entfernen von Redundanzen in der DB?",
+        "hu": "Hogy hívják az adatbázis redundanciáinak megszüntetését?",
+        "ro": "Cum se numește eliminarea redundanțelor dintr-o bază de date?",
+        "en": "What is the elimination of redundancies in a database called?"
+      },
+      "answer": {
+        "de": "Normalisierung",
+        "hu": "Normalizálás",
+        "ro": "Normalizare",
+        "en": "Normalization"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Feld dient als eindeutige Kennung (Abkürzung)?",
+        "hu": "Melyik mező szolgál egyedi azonosítóként (rövidítés)?",
+        "ro": "Ce câmp servește ca identificator unic (abreviere)?",
+        "en": "Which field serves as a unique identifier (abbreviation)?"
+      },
+      "answer": {
+        "de": "ID",
+        "hu": "ID",
+        "ro": "ID",
+        "en": "ID"
+      }
+    }
+  ],
+  "info_k7_image": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Rastergrafik (Pixelgrafik)?",
+        "hu": "Mi az a rasztergrafika (pixelgrafika)?",
+        "ro": "Ce este o grafică raster (pixel)?",
+        "en": "What is a raster image (pixel graphic)?"
+      },
+      "options": {
+        "de": ["Ein Bild aus mathematischen Kurven", "Ein Bild aus vielen kleinen Bildpunkten (Pixeln)", "Ein Textdokument", "Ein Musikstück"],
+        "hu": ["Matematikai görbékből álló kép", "Sok apró képpontból (pixelből) álló kép", "Szöveges dokumentum", "Zenemű"],
+        "ro": ["O imagine din curbe matematice", "O imagine formată din multe puncte mici (pixeli)", "Un document text", "O piesă muzicală"],
+        "en": ["An image made of mathematical curves", "An image made of many small dots (pixels)", "A text document", "A piece of music"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist der Hauptvorteil einer Vektorgrafik?",
+        "hu": "Mi a vektorgrafika fő előnye?",
+        "ro": "Care este principalul avantaj al unei grafici vectoriale?",
+        "en": "What is the main advantage of a vector image?"
+      },
+      "options": {
+        "de": ["Sie ist immer bunt", "Sie kann ohne Qualitätsverlust beliebig vergrößert werden", "Sie ist sehr alt", "Sie braucht keinen Monitor"],
+        "hu": ["Mindig színes", "Minőségromlás nélkül bármekkorára nagyítható", "Nagyon régi", "Nem kell hozzá monitor"],
+        "ro": ["Este mereu colorată", "Poate fi mărită oricât fără pierderea calității", "Este foarte veche", "Nu are nevoie de monitor"],
+        "en": ["It is always colorful", "It can be resized indefinitely without losing quality", "It is very old", "It doesn't need a monitor"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Dateiformat ist typisch für Fotos?",
+        "hu": "Melyik fájlformátum jellemző a fotókra?",
+        "ro": "Ce format de fișier este tipic pentru fotografii?",
+        "en": "Which file format is typical for photos?"
+      },
+      "options": {
+        "de": [".txt", ".jpg", ".exe", ".mp3"],
+        "hu": [".txt", ".jpg", ".exe", ".mp3"],
+        "ro": [".txt", ".jpg", ".exe", ".mp3"],
+        "en": [".txt", ".jpg", ".exe", ".mp3"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Auflösung' bei einem Bild?",
+        "hu": "Mit jelent a 'felbontás' egy képnél?",
+        "ro": "Ce înseamnă 'rezoluție' la o imagine?",
+        "en": "What does 'resolution' mean for an image?"
+      },
+      "options": {
+        "de": ["Die Dateigröße", "Die Anzahl der Pixel (Breite x Höhe)", "Der Name des Fotografen", "Das Alter der Kamera"],
+        "hu": ["A fájlméret", "A pixelek száma (szélesség x magasság)", "A fotós neve", "A kamera kora"],
+        "ro": ["Dimensiunea fișierului", "Numărul de pixeli (lățime x înălțime)", "Numele fotografului", "Vechimea camerei"],
+        "en": ["The file size", "The number of pixels (width x height)", "The photographer's name", "The age of the camera"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Farbmodell wird meistens für Bildschirme verwendet?",
+        "hu": "Melyik színmodellt használják leggyakrabban a képernyők?",
+        "ro": "Ce model de culoare este cel mai des folosit pentru ecrane?",
+        "en": "Which color model is most commonly used for screens?"
+      },
+      "options": {
+        "de": ["CMYK", "RGB", "Hautfarben", "Schwarz-Weiß"],
+        "hu": ["CMYK", "RGB", "Bőrszínek", "Fekete-fehér"],
+        "ro": ["CMYK", "RGB", "Culori de piele", "Alb-negru"],
+        "en": ["CMYK", "RGB", "Skin tones", "Black and white"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was passiert beim 'Zuschneiden' (Cropping) eines Bildes?",
+        "hu": "Mi történik a kép 'vágásakor' (cropping)?",
+        "ro": "Ce se întâmplă la 'decuparea' (cropping) unei imagini?",
+        "en": "What happens during image 'cropping'?"
+      },
+      "options": {
+        "de": ["Die Farben werden geändert", "Teile des Bildrandes werden entfernt", "Das Bild wird heller", "Das Bild wird gelöscht"],
+        "hu": ["Változnak a színek", "A kép szélei le lesznek vágva", "A kép világosabb lesz", "A kép törlődik"],
+        "ro": ["Se schimbă culorile", "Părți din marginea imaginii sunt eliminate", "Imaginea devine mai luminoasă", "Imaginea este ștearsă"],
+        "en": ["Colors are changed", "Parts of the image edges are removed", "The image gets brighter", "The image is deleted"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Format unterstützt Transparenz?",
+        "hu": "Melyik formátum támogatja az átlátszóságot?",
+        "ro": "Ce format suportă transparența?",
+        "en": "Which format supports transparency?"
+      },
+      "options": {
+        "de": ["JPG", "PNG", "BMP", "TXT"],
+        "hu": ["JPG", "PNG", "BMP", "TXT"],
+        "ro": ["JPG", "PNG", "BMP", "TXT"],
+        "en": ["JPG", "PNG", "BMP", "TXT"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Maßeinheit für die Punktdichte beim Drucken?",
+        "hu": "Mi a nyomtatási sűrűség mértékegysége?",
+        "ro": "Care este unitatea de măsură pentru densitatea punctelor la imprimare?",
+        "en": "What is the unit of measurement for point density in printing?"
+      },
+      "options": {
+        "de": ["DPI (Dots Per Inch)", "Kilo", "Meter", "Hertz"],
+        "hu": ["DPI (Dots Per Inch)", "Kilo", "Méter", "Hertz"],
+        "ro": ["DPI (Dots Per Inch)", "Kilo", "Metru", "Hertz"],
+        "en": ["DPI (Dots Per Inch)", "Kilo", "Meter", "Hertz"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht ein Filter in der Bildbearbeitung?",
+        "hu": "Mit csinál a szűrő (filter) a képszerkesztésben?",
+        "ro": "Ce face un filtru în editarea imaginilor?",
+        "en": "What does a filter do in image editing?"
+      },
+      "options": {
+        "de": ["Das Bild löschen", "Das Aussehen des Bildes durch Effekte verändern", "Die Kamera reinigen", "Den PC kühlen"],
+        "hu": ["Törli a képet", "Effektekkel megváltoztatja a kép kinézetét", "Tisztítja a kamerát", "Hűti a gépet"],
+        "ro": ["Șterge imaginea", "Modifică aspectul imaginii prin efecte", "Curăță camera", "Răcește PC-ul"],
+        "en": ["Delete the image", "Change the image's appearance with effects", "Clean the camera", "Cool the PC"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Programm ist ein Profi-Werkzeug für Bildbearbeitung?",
+        "hu": "Melyik program professzionális képszerkesztő eszköz?",
+        "ro": "Care program este un instrument profesional pentru editarea imaginilor?",
+        "en": "Which program is a professional tool for image editing?"
+      },
+      "options": {
+        "de": ["Adobe Photoshop", "Notepad", "Excel", "PowerPoint"],
+        "hu": ["Adobe Photoshop", "Jegyzettömb", "Excel", "PowerPoint"],
+        "ro": ["Adobe Photoshop", "Notepad", "Excel", "PowerPoint"],
+        "en": ["Adobe Photoshop", "Notepad", "Excel", "PowerPoint"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man einen einzelnen Bildpunkt?",
+        "hu": "Hogy hívják az egyetlen képpontot?",
+        "ro": "Cum se numește un singur punct de imagine?",
+        "en": "What is a single image point called?"
+      },
+      "answer": {
+        "de": "Pixel",
+        "hu": "Pixel",
+        "ro": "Pixel",
+        "en": "Pixel"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne ein Dateiformat für Vektorgrafiken (Abkürzung).",
+        "hu": "Nevezz meg egy vektorgrafikus fájlformátumot (rövidítés).",
+        "ro": "Numește un format de fișier pentru grafică vectorială (abreviere).",
+        "en": "Name a file format for vector graphics (abbreviation)."
+      },
+      "answer": {
+        "de": "SVG",
+        "hu": "SVG",
+        "ro": "SVG",
+        "en": "SVG"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Farbmodell für den Druck (4 Buchstaben)?",
+        "hu": "Hogy hívják a nyomtatáshoz használt színmodellt (4 betű)?",
+        "ro": "Cum se numește modelul de culoare pentru imprimare (4 litere)?",
+        "en": "What is the color model for printing called (4 letters)?"
+      },
+      "answer": {
+        "de": "CMYK",
+        "hu": "CMYK",
+        "ro": "CMYK",
+        "en": "CMYK"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Verändern von Bildern am PC?",
+        "hu": "Hogy hívják a képek módosítását a számítógépen?",
+        "ro": "Cum se numește modificarea imaginilor pe calculator?",
+        "en": "What is the process of modifying images on a PC called?"
+      },
+      "answer": {
+        "de": "Bildbearbeitung",
+        "hu": "Képszerkesztés",
+        "ro": "Editare foto",
+        "en": "Image editing"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Abkürzung steht für 'Red, Green, Blue'?",
+        "hu": "Melyik rövidítés áll a 'Red, Green, Blue' színekre?",
+        "ro": "Ce abreviere vine de la 'Red, Green, Blue'?",
+        "en": "What is the abbreviation for 'Red, Green, Blue'?"
+      },
+      "answer": {
+        "de": "RGB",
+        "hu": "RGB",
+        "ro": "RGB",
+        "en": "RGB"
+      }
+    }
+  ],
+  "info_k7_copyright": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was schützt das Urheberrecht?",
+        "hu": "Mit véd a szerzői jog?",
+        "ro": "Ce protejează drepturile de autor?",
+        "en": "What does copyright protect?"
+      },
+      "options": {
+        "de": ["Nur Computer", "Persönliche geistige Schöpfungen (Musik, Bilder, Texte etc.)", "Geldbeutel", "Alte Autos"],
+        "hu": ["Csak a számítógépeket", "Egyéni szellemi alkotásokat (zene, képek, szövegek stb.)", "Pénztárcákat", "Régi autókat"],
+        "ro": ["Doar calculatoarele", "Creațiile intelectuale personale (muzică, imagini, texte etc.)", "Portofelele", "Mașinile vechi"],
+        "en": ["Only computers", "Personal intellectual creations (music, images, texts, etc.)", "Wallets", "Old cars"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Plagiat'?",
+        "hu": "Mit jelent a 'plágium'?",
+        "ro": "Ce înseamnă 'plagiat'?",
+        "en": "What does 'plagiarism' mean?"
+      },
+      "options": {
+        "de": ["Ein neues Lied schreiben", "Die Arbeit eines anderen als seine eigene ausgeben", "Einen Computer kaufen", "Ein Bild malen"],
+        "hu": ["Új dalt írni", "Más munkáját sajátként feltüntetni", "Számítógépet venni", "Képet festeni"],
+        "ro": ["Scrierea unui cântec nou", "Prezentarea muncii altcuiva drept propria muncă", "Cumpărarea unui calculator", "Desenarea unei imagini"],
+        "en": ["Writing a new song", "Presenting someone else's work as your own", "Buying a computer", "Painting a picture"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind 'Creative Commons' (CC) Lizenzen?",
+        "hu": "Mik azok a 'Creative Commons' (CC) licencek?",
+        "ro": "Ce sunt licențele 'Creative Commons' (CC)?",
+        "en": "What are 'Creative Commons' (CC) licenses?"
+      },
+      "options": {
+        "de": ["Verbote für alles", "Standardlizenzen, mit denen Urheber anderen Rechte an ihren Werken geben", "Spezielle Computer", "E-Mail-Adressen"],
+        "hu": ["Mindent tiltó szabályok", "Szabványos licencek, amikkel a szerzők jogokat adnak másoknak műveik felhasználására", "Speciális gépek", "E-mail címek"],
+        "ro": ["Interdicții totale", "Licențe standard prin care autorii acordă altora drepturi asupra operelor lor", "Calculatoare speciale", "Adrese de e-mail"],
+        "en": ["Prohibitions for everything", "Standard licenses that authors use to grant others rights to their works", "Special computers", "Email addresses"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf man Bilder aus der Google-Suche einfach für die eigene Webseite verwenden?",
+        "hu": "Szabad a Google keresőből származó képeket egyszerűen felhasználni saját weboldalunkon?",
+        "ro": "Se pot folosi simplu imaginile din Google Search pe propria pagină web?",
+        "en": "Can you simply use images from Google search for your own website?"
+      },
+      "options": {
+        "de": ["Ja, immer", "Nein, man braucht meistens die Erlaubnis des Urhebers", "Nur wenn das Bild schön ist", "Nur am Wochenende"],
+        "hu": ["Igen, mindig", "Nem, általában szükség van a szerző engedélyére", "Csak ha szép a kép", "Csak hétvégén"],
+        "ro": ["Da, întotdeauna", "Nu, de cele mai multe ori este nevoie de permisiunea autorului", "Doar dacă imaginea e frumoasă", "Doar în weekend"],
+        "en": ["Yes, always", "No, you usually need the author's permission", "Only if the image is pretty", "Only on weekends"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet das Symbol ©?",
+        "hu": "Mit jelent a © szimbólum?",
+        "ro": "Ce înseamnă simbolul ©?",
+        "en": "What does the symbol © mean?"
+      },
+      "options": {
+        "de": ["Computer", "Copyright (Urheberrecht)", "Copy (Kopieren)", "Creative"],
+        "hu": ["Computer", "Copyright (szerzői jog)", "Copy (másolás)", "Creative"],
+        "ro": ["Computer", "Copyright (drepturi de autor)", "Copy (copiere)", "Creative"],
+        "en": ["Computer", "Copyright", "Copy", "Creative"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie lange gilt das Urheberrecht in Deutschland nach dem Tod des Urhebers?",
+        "hu": "Meddig tart a szerzői jogi védelem a szerző halála után (Németországban/EU-ban)?",
+        "ro": "Cât timp durează protecția drepturilor de autor după moartea autorului (în UE)?",
+        "en": "How long does copyright last after the author's death (in the EU)?"
+      },
+      "options": {
+        "de": ["10 Jahre", "70 Jahre", "1 Jahr", "Ewig"],
+        "hu": ["10 év", "70 év", "1 év", "Örökké"],
+        "ro": ["10 ani", "70 de ani", "1 an", "Veșnic"],
+        "en": ["10 years", "70 years", "1 year", "Forever"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Raubkopie'?",
+        "hu": "Mi az a 'szoftverkalózkodás' (illegális másolat)?",
+        "ro": "Ce este o 'copie pirat'?",
+        "en": "What is a 'pirated copy'?"
+      },
+      "options": {
+        "de": ["Eine Kopie von Piraten", "Eine illegal erstellte oder verbreitete Kopie eines geschützten Werks", "Eine sehr schnelle Kopie", "Ein Backup"],
+        "hu": ["Kalózoktól származó másolat", "Védett mű illegálisan készített vagy terjesztett másolata", "Nagyon gyors másolat", "Biztonsági mentés"],
+        "ro": ["O copie de la pirați", "O copie creată sau distribuită ilegal a unei opere protejate", "O copie foarte rapidă", "O copie de rezervă"],
+        "en": ["A copy from pirates", "An illegally made or distributed copy of a protected work", "A very fast copy", "A backup"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf man Musik für private Zwecke kopieren (Privatkopie)?",
+        "hu": "Szabad zenét másolni magáncélra (Németországban/Magyarországon bizonyos feltételekkel)?",
+        "ro": "Este permisă copierea muzicii în scopuri private?",
+        "en": "Is it allowed to copy music for private use (private copy)?"
+      },
+      "options": {
+        "de": ["In engem Rahmen ja, solange kein Kopierschutz umgangen wird", "Nein, nie", "Nur wenn man die CD verschenkt", "Nur im Radio"],
+        "hu": ["Szűk keretek között igen, ha nem kerülünk meg másolásvédelmet", "Nem, soha", "Csak ha elajándékozzuk a CD-t", "Csak a rádióban"],
+        "ro": ["În anumite limite da, cât timp nu se evită protecția la copiere", "Nu, niciodată", "Doar dacă dăruiești CD-ul", "Doar la radio"],
+        "en": ["Within narrow limits yes, as long as no copy protection is bypassed", "No, never", "Only if you give the CD away", "Only on the radio"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Fair Use' (vor allem in den USA)?",
+        "hu": "Mi az a 'Fair Use' (méltányos használat)?",
+        "ro": "Ce este 'Fair Use'?",
+        "en": "What is 'Fair Use'?"
+      },
+      "options": {
+        "de": ["Dass alles kostenlos ist", "Bestimmte Nutzungen ohne Erlaubnis (z.B. für Bildung oder Zitate)", "Ein Spiel", "Eine Art von Hardware"],
+        "hu": ["Az, hogy minden ingyenes", "Bizonyos felhasználások engedély nélkül (pl. oktatásra vagy idézésre)", "Egy játék", "Hardver típus"],
+        "ro": ["Faptul că totul este gratuit", "Anumite utilizări fără permisiune (ex: pentru educație sau citate)", "Un joc", "Un tip de hardware"],
+        "en": ["That everything is free", "Certain uses without permission (e.g. for education or quotes)", "A game", "A type of hardware"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wer ist der 'Urheber'?",
+        "hu": "Ki a 'szerző'?",
+        "ro": "Cine este 'autorul'?",
+        "en": "Who is the 'author' (creator)?"
+      },
+      "options": {
+        "de": ["Der Käufer eines Buches", "Die Person, die das Werk geschaffen hat", "Der Chef einer Firma", "Der Verkäufer im Laden"],
+        "hu": ["A könyv vásárlója", "Az a személy, aki a művet alkotta", "A cégvezető", "Az eladó a boltban"],
+        "ro": ["Cumpărătorul unei cărți", "Persoana care a creat opera", "Șeful unei firme", "Vânzătorul din magazin"],
+        "en": ["The buyer of a book", "The person who created the work", "The boss of a company", "The seller in the store"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man das Recht an eigenen Bildern?",
+        "hu": "Hogy hívják a saját képmáshoz való jogot?",
+        "ro": "Cum se numește dreptul la propria imagine?",
+        "en": "What is the right to one's own image called?"
+      },
+      "answer": {
+        "de": "Urheberrecht",
+        "hu": "Szerzői jog",
+        "ro": "Drept de autor",
+        "en": "Copyright"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne den englischen Begriff für Urheberrecht.",
+        "hu": "Add meg a szerzői jog angol kifejezését.",
+        "ro": "Numește termenul în engleză pentru drepturi de autor.",
+        "en": "Give the English term for copyright."
+      },
+      "answer": {
+        "de": "Copyright",
+        "hu": "Copyright",
+        "ro": "Copyright",
+        "en": "Copyright"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man ein Werk, dessen Schutzfrist abgelaufen ist?",
+        "hu": "Hogy hívják azt a művet, amelynek lejárt a védelmi ideje?",
+        "ro": "Cum se numește o operă al cărei termen de protecție a expirat?",
+        "en": "What is a work called whose protection period has expired?"
+      },
+      "answer": {
+        "de": "Gemeinfrei",
+        "hu": "Közkinccsé vált",
+        "ro": "Domeniu public",
+        "en": "Public domain"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was muss man bei einem Zitat immer angeben?",
+        "hu": "Mit kell mindig megadni egy idézetnél?",
+        "ro": "Ce trebuie indicat întotdeauna la un citat?",
+        "en": "What must you always provide when quoting?"
+      },
+      "answer": {
+        "de": "Quelle",
+        "hu": "Forrás",
+        "ro": "Sursă",
+        "en": "Source"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Lizenz, die freies Teilen erlaubt (Abkürzung)?",
+        "hu": "Hogy hívják a szabad megosztást lehetővé tevő licencet (rövidítés)?",
+        "ro": "Cum se numește licența care permite partajarea liberă (abreviere)?",
+        "en": "What is the license called that allows free sharing (abbreviation)?"
+      },
+      "answer": {
+        "de": "CC",
+        "hu": "CC",
+        "ro": "CC",
+        "en": "CC"
+      }
+    }
+  ],
+  "info_k7_privacy": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was sind personenbezogene Daten?",
+        "hu": "Mik azok a személyes adatok?",
+        "ro": "Ce sunt datele cu caracter personal?",
+        "en": "What is personal data?"
+      },
+      "options": {
+        "de": ["Informationen über das Wetter", "Informationen, die eine Person identifizierbar machen (Name, Adresse etc.)", "Der Preis eines Computers", "Das Betriebssystem"],
+        "hu": ["Időjárási információk", "Információk, amik azonosíthatóvá tesznek egy személyt (név, cím stb.)", "A számítógép ára", "Az operációs rendszer"],
+        "ro": ["Informații despre vreme", "Informații care fac o persoană identificabilă (nume, adresă etc.)", "Prețul unui calculator", "Sistemul de operare"],
+        "en": ["Information about the weather", "Information that makes a person identifiable (name, address, etc.)", "The price of a computer", "The operating system"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht die Abkürzung 'DSGVO'?",
+        "hu": "Mit jelent a 'GDPR' (vagy magyarul Általános Adatvédelmi Rendelet)?",
+        "ro": "Ce înseamnă abrevierea 'GDPR'?",
+        "en": "What does 'GDPR' stand for?"
+      },
+      "options": {
+        "de": ["Datenschutz-Grundverordnung", "Digitaler Sicherheits-Grund-Vorgang", "Daten-Speicher-Gesetz-Vorschrift", "Deutsche Sicherheits-Verordnung"],
+        "hu": ["General Data Protection Regulation (Általános Adatvédelmi Rendelet)", "Digitaler Sicherheits-Grund-Vorgang", "Daten-Speicher-Gesetz-Vorschrift", "Deutsche Sicherheits-Verordnung"],
+        "ro": ["General Data Protection Regulation (Regulamentul General privind Protecția Datelor)", "Digitaler Sicherheits-Grund-Vorgang", "Daten-Speicher-Gesetz-Vorschrift", "Deutsche Sicherheits-Verordnung"],
+        "en": ["General Data Protection Regulation", "Digitaler Sicherheits-Grund-Vorgang", "Daten-Speicher-Gesetz-Vorschrift", "Deutsche Sicherheits-Verordnung"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Cookie' im Internet?",
+        "hu": "Mi az a 'süti' (cookie) az interneten?",
+        "ro": "Ce este un 'cookie' pe internet?",
+        "en": "What is a 'cookie' on the internet?"
+      },
+      "options": {
+        "de": ["Ein echtes Gebäck", "Eine kleine Textdatei, die Informationen über Webseitenbesuche speichert", "Ein Virus", "Ein Hardware-Teil"],
+        "hu": ["Valódi sütemény", "Kis szöveges fájl, amely információkat tárol a weboldal-látogatásokról", "Vírus", "Hardver elem"],
+        "ro": ["Un biscuite real", "Un fișier text mic care stochează informații despre vizitele pe site-uri", "Un virus", "O componentă hardware"],
+        "en": ["A real cookie", "A small text file that stores information about website visits", "A virus", "A hardware part"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Warum sollte man mit privaten Daten in sozialen Netzwerken vorsichtig sein?",
+        "hu": "Miért kell óvatosnak lenni a magánadatokkal a közösségi hálózatokon?",
+        "ro": "De ce trebuie să fim precauți cu datele private pe rețelele sociale?",
+        "en": "Why should you be careful with private data on social networks?"
+      },
+      "options": {
+        "de": ["Es gibt keinen Grund", "Weil das Internet nichts vergisst und Daten missbraucht werden können", "Weil das Handy sonst schwerer wird", "Weil man sonst keine Likes bekommt"],
+        "hu": ["Nincs oka", "Mert az internet nem felejt, és az adatokkal visszaélhetnek", "Mert a mobil nehezebb lesz tőle", "Mert nem kapunk lájkokat"],
+        "ro": ["Nu există niciun motiv", "Deoarece internetul nu uită nimic și datele pot fi folosite abuziv", "Deoarece telefonul devine mai greu", "Deoarece nu primești like-uri"],
+        "en": ["There is no reason", "Because the internet forgets nothing and data can be misused", "Because the phone gets heavier", "Because you won't get likes"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'Datensparsamkeit'?",
+        "hu": "Mit jelent az 'adattakarékosság'?",
+        "ro": "Ce înseamnă 'minimizarea datelor'?",
+        "en": "What does 'data minimization' mean?"
+      },
+      "options": {
+        "de": ["Alle Daten löschen", "Nur so viele Daten wie nötig erheben und speichern", "Daten teuer verkaufen", "Daten auf Papier schreiben"],
+        "hu": ["Minden adatot törölni", "Csak a szükséges mennyiségű adatot gyűjteni és tárolni", "Adatokat drágán eladni", "Adatokat papírra írni"],
+        "ro": ["Ștergerea tuturor datelor", "Colectarea și stocarea doar a datelor necesare", "Vânzarea scumpă a datelor", "Scrierea datelor pe hârtie"],
+        "en": ["Delete all data", "Collect and store only as much data as necessary", "Sell data dearly", "Write data on paper"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Darf eine App ohne Grund auf deine Kontakte zugreifen?",
+        "hu": "Hozzáférhet egy alkalmazás alapos ok nélkül a kapcsolataidhoz?",
+        "ro": "Poate o aplicație să acceseze contactele tale fără motiv?",
+        "en": "Can an app access your contacts without a reason?"
+      },
+      "options": {
+        "de": ["Ja, immer", "Nein, sie muss um Erlaubnis fragen und die Funktion sollte begründet sein", "Nur wenn das Handy neu ist", "Nur bei Spielen"],
+        "hu": ["Igen, mindig", "Nem, engedélyt kell kérnie, és a funkciónak indokoltnak kell lennie", "Csak ha új a telefon", "Csak játékoknál"],
+        "ro": ["Da, întotdeauna", "Nu, trebuie să ceară permisiunea și funcția ar trebui justificată", "Doar dacă telefonul e nou", "Doar la jocuri"],
+        "en": ["Yes, always", "No, it must ask for permission and the function should be justified", "Only if the phone is new", "Only for games"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist das 'Recht auf Vergessenwerden'?",
+        "hu": "Mi az az 'elfeledtetéshez való jog'?",
+        "ro": "Ce este 'dreptul de a fi uitat'?",
+        "en": "What is the 'right to be forgotten'?"
+      },
+      "options": {
+        "de": ["Dass man Passwörter vergessen darf", "Dass Personen die Löschung ihrer Daten verlangen können", "Dass der Computer Daten löscht", "Dass man keine Hausaufgaben machen muss"],
+        "hu": ["Az, hogy elfelejthetjük a jelszavunkat", "Az a jog, hogy kérhessük adataink törlését", "Az, hogy a gép törli az adatokat", "Az, hogy nem kell leckét írni"],
+        "ro": ["Faptul că poți uita parolele", "Dreptul persoanelor de a solicita ștergerea datelor lor", "Faptul că PC-ul șterge date", "Faptul că nu trebuie făcute temele"],
+        "en": ["That you can forget passwords", "The right of individuals to request the deletion of their data", "That the computer deletes data", "That you don't have to do homework"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Daten gelten als besonders sensibel?",
+        "hu": "Mely adatok számítanak különösen érzékenynek?",
+        "ro": "Care date sunt considerate deosebit de sensibile?",
+        "en": "Which data is considered particularly sensitive?"
+      },
+      "options": {
+        "de": ["Lieblingsfarbe", "Gesundheitsdaten, Religion, politische Meinung", "Der Name des Browsers", "Die Monitorgröße"],
+        "hu": ["Kedvenc szín", "Egészségügyi adatok, vallás, politikai vélemény", "A böngésző neve", "A monitor mérete"],
+        "ro": ["Culoarea preferată", "Date de sănătate, religie, opinie politică", "Numele browserului", "Dimensiunea monitorului"],
+        "en": ["Favorite color", "Health data, religion, political opinion", "The browser name", "The monitor size"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Datenschutzerklärung'?",
+        "hu": "Mi az az 'adatvédelmi nyilatkozat'?",
+        "ro": "Ce este o 'politică de confidențialitate'?",
+        "en": "What is a 'privacy policy'?"
+      },
+      "options": {
+        "de": ["Ein Werbetext", "Informationen darüber, wie eine Webseite Daten verarbeitet", "Ein Kaufvertrag", "Eine Fehlermeldung"],
+        "hu": ["Reklámszöveg", "Információ arról, hogyan kezeli a weboldal az adatokat", "Adásvételi szerződés", "Hibaüzenet"],
+        "ro": ["Un text publicitar", "Informații despre modul în care un site procesează datele", "Un contract de vânzare", "Un mesaj de eroare"],
+        "en": ["An advertisement", "Information on how a website processes data", "A sales contract", "An error message"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie kann man seine Privatsphäre im Browser schützen?",
+        "hu": "Hogyan védhetjük magánéletünket a böngészőben?",
+        "ro": "Cum ne putem proteja confidențialitatea în browser?",
+        "en": "How can you protect your privacy in the browser?"
+      },
+      "options": {
+        "de": ["Den Monitor ausschalten", "Inkognito-Modus nutzen oder Cookies regelmäßig löschen", "Lauter sprechen", "Die Tastatur verstecken"],
+        "hu": ["Kikapcsolni a monitort", "Inkognitó mód használatával vagy a sütik rendszeres törlésével", "Hangosabb beszéddel", "A billentyűzet elrejtésével"],
+        "ro": ["Oprirea monitorului", "Utilizarea modului Incognito sau ștergerea regulată a cookie-urilor", "Vorbind mai tare", "Ascunzând tastatura"],
+        "en": ["Turn off the monitor", "Use incognito mode or delete cookies regularly", "Speak louder", "Hide the keyboard"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den Schutz von Daten?",
+        "hu": "Hogy hívják az adatok védelmét?",
+        "ro": "Cum se numește protecția datelor?",
+        "en": "What is the protection of data called?"
+      },
+      "answer": {
+        "de": "Datenschutz",
+        "hu": "Adatvédelem",
+        "ro": "Protecția datelor",
+        "en": "Data protection"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die europäische Datenschutz-Verordnung (Abkürzung)?",
+        "hu": "Hogy hívják az európai adatvédelmi rendeletet (rövidítés)?",
+        "ro": "Cum se numește regulamentul european privind protecția datelor (abreviere)?",
+        "en": "What is the European data protection regulation called (abbreviation)?"
+      },
+      "answer": {
+        "de": "DSGVO",
+        "hu": "GDPR",
+        "ro": "GDPR",
+        "en": "GDPR"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was hinterlässt man bei jeder Aktion im Internet?",
+        "hu": "Mit hagyunk magunk után minden internetes tevékenységgel?",
+        "ro": "Ce lăsăm în urmă la fiecare acțiune pe internet?",
+        "en": "What do you leave behind with every action on the internet?"
+      },
+      "answer": {
+        "de": "Digitaler Fußabdruck",
+        "hu": "Digitális lábnyom",
+        "ro": "Amprentă digitală",
+        "en": "Digital footprint"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das Dokument, das den Umgang mit Nutzerdaten erklärt?",
+        "hu": "Hogy hívják a felhasználói adatok kezelését magyarázó dokumentumot?",
+        "ro": "Cum se numește documentul care explică gestionarea datelor utilizatorilor?",
+        "en": "What is the document called that explains the handling of user data?"
+      },
+      "answer": {
+        "de": "Datenschutzbestimmungen",
+        "hu": "Adatvédelmi nyilatkozat",
+        "ro": "Politică de confidențialitate",
+        "en": "Privacy policy"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man Daten, die einen direkt identifizieren?",
+        "hu": "Hogy hívják a közvetlen azonosításra alkalmas adatokat?",
+        "ro": "Cum se numesc datele care te identifică direct?",
+        "en": "What are data called that identify you directly?"
+      },
+      "answer": {
+        "de": "Personenbezogene Daten",
+        "hu": "Személyes adatok",
+        "ro": "Date personale",
+        "en": "Personal data"
+      }
+    }
+  ]
+}

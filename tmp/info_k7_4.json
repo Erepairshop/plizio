@@ -1,0 +1,950 @@
+{
+  "info_k7_coding": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein Algorithmus?",
+        "hu": "Mi az az algoritmus?",
+        "ro": "Ce este un algoritm?",
+        "en": "What is an algorithm?"
+      },
+      "options": {
+        "de": ["Ein Hardware-Bauteil", "Eine schrittweise Anleitung zur Lösung eines Problems", "Ein spezieller Monitor", "Ein Internet-Browser"],
+        "hu": ["Hardver alkatrész", "Lépésenkénti utasítássorozat egy probléma megoldására", "Speciális monitor", "Internetböngésző"],
+        "ro": ["O componentă hardware", "Un set de instrucțiuni pas cu pas pentru a rezolva o problemă", "Un monitor special", "Un browser de internet"],
+        "en": ["A hardware component", "A step-by-step set of instructions to solve a problem", "A special monitor", "An internet browser"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine Variable in der Programmierung?",
+        "hu": "Mi az a változó a programozásban?",
+        "ro": "Ce este o variabilă în programare?",
+        "en": "What is a variable in programming?"
+      },
+      "options": {
+        "de": ["Ein fester, unveränderbarer Wert", "Ein Platzhalter für einen Wert, der sich ändern kann", "Ein Tippfehler", "Ein Teil der Tastatur"],
+        "hu": ["Fix, megváltoztathatatlan érték", "Egy érték tárolására szolgáló hely, amely változhat", "Gépelési hiba", "A billentyűzet része"],
+        "ro": ["O valoare fixă, neschimbabilă", "Un spațiu de stocare pentru o valoare care se poate schimba", "O greșeală de dactilografiere", "O parte a tastaturii"],
+        "en": ["A fixed, unchangeable value", "A placeholder for a value that can change", "A typing error", "A part of the keyboard"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht eine 'Schleife' (Loop)?",
+        "hu": "Mit csinál egy 'ciklus' (loop)?",
+        "ro": "Ce face o 'buclă' (loop)?",
+        "en": "What does a 'loop' do?"
+      },
+      "options": {
+        "de": ["Das Programm beenden", "Einen Programmteil mehrmals wiederholen", "Den Computer ausschalten", "Bilder malen"],
+        "hu": ["Leállítja a programot", "Egy programrészt többször megismétel", "Kikapcsolja a gépet", "Képeket fest"],
+        "ro": ["Oprește programul", "Repetă o parte din program de mai multe ori", "Oprește calculatorul", "Desenează imagini"],
+        "en": ["End the program", "Repeat a part of the program multiple times", "Turn off the computer", "Paint images"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Bedingung' (if-Anweisung)?",
+        "hu": "Mi az az 'elágazás' (if-feltétel)?",
+        "ro": "Ce este o 'condiție' (instrucțiunea if)?",
+        "en": "What is a 'condition' (if statement)?"
+      },
+      "options": {
+        "de": ["Eine Wiederholung", "Eine Entscheidung: Code wird nur ausgeführt, wenn etwas wahr ist", "Ein mathematischer Fehler", "Ein Dateiformat"],
+        "hu": ["Ismétlés", "Döntés: a kód csak akkor fut le, ha egy feltétel teljesül", "Matematikai hiba", "Fájlformátum"],
+        "ro": ["O repetiție", "O decizie: codul se execută doar dacă o condiție este adevărată", "O eroare matematică", "Un format de fișier"],
+        "en": ["A repetition", "A decision: code is executed only if something is true", "A mathematical error", "A file format"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Syntaxfehler'?",
+        "hu": "Mi az a 'szintaktikai hiba'?",
+        "ro": "Ce este o 'eroare de sintaxă'?",
+        "en": "What is a 'syntax error'?"
+      },
+      "options": {
+        "de": ["Ein Fehler in der Logik", "Ein Verstoß gegen die Schreibregeln der Programmiersprache", "Ein Hardware-Defekt", "Ein Virus"],
+        "hu": ["Logikai hiba", "A programozási nyelv írásszabályainak megsértése", "Hardverhiba", "Vírus"],
+        "ro": ["O eroare de logică", "O încălcare a regulilor de scriere ale limbajului de programare", "Un defect hardware", "Un virus"],
+        "en": ["An error in logic", "A violation of the writing rules of the programming language", "A hardware defect", "A virus"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man das Suchen und Beheben von Fehlern im Code?",
+        "hu": "Hogy hívják a kód hibáinak keresését és javítását?",
+        "ro": "Cum se numește căutarea și corectarea erorilor din cod?",
+        "en": "What is the process of finding and fixing errors in code called?"
+      },
+      "options": {
+        "de": ["Encoding", "Debugging", "Streaming", "Buffering"],
+        "hu": ["Encoding", "Debugging (hibakeresés)", "Streaming", "Buffering"],
+        "ro": ["Encoding", "Debugging", "Streaming", "Buffering"],
+        "en": ["Encoding", "Debugging", "Streaming", "Buffering"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Quellcode (Source Code)?",
+        "hu": "Mi a forráskód (source code)?",
+        "ro": "Ce este codul sursă (source code)?",
+        "en": "What is source code?"
+      },
+      "options": {
+        "de": ["Ein Bild von einem Computer", "Der vom Programmierer geschriebene Text eines Programms", "Ein Passwort", "Ein Drucker-Treiber"],
+        "hu": ["Kép egy számítógépről", "A programozó által írt szöveges program", "Egy jelszó", "Nyomtatóprogram"],
+        "ro": ["O imagine cu un calculator", "Textul unui program scris de programator", "O parolă", "Un driver de imprimantă"],
+        "en": ["An image of a computer", "The text of a program written by the programmer", "A password", "A printer driver"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welche Farbe hat oft ein Kommentar im Code (in vielen Editoren)?",
+        "hu": "Milyen színű gyakran a komment a kódban (sok szerkesztőben)?",
+        "ro": "Ce culoare are adesea un comentariu în cod (în multe editoare)?",
+        "en": "What color is often used for comments in code (in many editors)?"
+      },
+      "options": {
+        "de": ["Rot", "Grün", "Schwarz", "Blau"],
+        "hu": ["Piros", "Zöld", "Fekete", "Kék"],
+        "ro": ["Roșu", "Verde", "Negru", "Albastru"],
+        "en": ["Red", "Green", "Black", "Blue"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Compiler'?",
+        "hu": "Mi az a 'compiler' (fordítóprogram)?",
+        "ro": "Ce este un 'compiler' (compilator)?",
+        "en": "What is a 'compiler'?"
+      },
+      "options": {
+        "de": ["Ein Spiel", "Ein Programm, das Quellcode in Maschinensprache übersetzt", "Ein Monitor-Typ", "Eine Tastatur-Taste"],
+        "hu": ["Egy játék", "Program, amely a forráskódot gépi nyelvvé alakítja", "Monitortípus", "Billentyűzet gomb"],
+        "ro": ["Un joc", "Un program care traduce codul sursă în limbaj mașină", "Un tip de monitor", "O tastă"],
+        "en": ["A game", "A program that translates source code into machine language", "A monitor type", "A keyboard key"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist 'Pseudocode'?",
+        "hu": "Mi az a 'pszeudokód'?",
+        "ro": "Ce este 'pseudocodul'?",
+        "en": "What is 'pseudocode'?"
+      },
+      "options": {
+        "de": ["Falscher Code", "Eine Mischung aus natürlicher Sprache und Programmierstruktur", "Ein verschlüsselter Code", "Eine Art von Virus"],
+        "hu": ["Hibás kód", "A beszélt nyelv és a programozási szerkezet keveréke", "Titkosított kód", "Egy vírustípus"],
+        "ro": ["Cod greșit", "O combinație de limbaj natural și structură de programare", "Un cod criptat", "Un tip de virus"],
+        "en": ["Wrong code", "A mix of natural language and programming structure", "An encrypted code", "A type of virus"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Regeln einer Programmiersprache?",
+        "hu": "Hogy hívják a programozási nyelv szabályrendszerét?",
+        "ro": "Cum se numesc regulile unui limbaj de programare?",
+        "en": "What are the rules of a programming language called?"
+      },
+      "answer": {
+        "de": "Syntax",
+        "hu": "Szintaxis",
+        "ro": "Sintaxă",
+        "en": "Syntax"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne eine bekannte Programmiersprache für Anfänger (mit P).",
+        "hu": "Nevezz meg egy ismert programozási nyelvet kezdőknek (P betűvel).",
+        "ro": "Numește un limbaj de programare cunoscut pentru începători (cu P).",
+        "en": "Name a well-known programming language for beginners (starting with P)."
+      },
+      "answer": {
+        "de": "Python",
+        "hu": "Python",
+        "ro": "Python",
+        "en": "Python"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt der kleinste logische Baustein eines Programms?",
+        "hu": "Hogy hívják a program legkisebb logikai építőelemét?",
+        "ro": "Cum se numește cea mai mică unitate logică a unui program?",
+        "en": "What is the smallest logical building block of a program called?"
+      },
+      "answer": {
+        "de": "Anweisung",
+        "hu": "Utasítás",
+        "ro": "Instrucțiune",
+        "en": "Statement"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man jemanden, der Programme schreibt?",
+        "hu": "Hogy hívják azt a személyt, aki programokat ír?",
+        "ro": "Cum se numește o persoană care scrie programe?",
+        "en": "What is a person who writes programs called?"
+      },
+      "answer": {
+        "de": "Programmierer",
+        "hu": "Programozó",
+        "ro": "Programator",
+        "en": "Programmer"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die binäre Sprache des Computers (0 und 1)?",
+        "hu": "Hogy hívják a számítógép bináris nyelvét (0 és 1)?",
+        "ro": "Cum se numește limbajul binar al calculatorului (0 și 1)?",
+        "en": "What is the binary language of the computer called (0 and 1)?"
+      },
+      "answer": {
+        "de": "Maschinensprache",
+        "hu": "Gépi nyelv",
+        "ro": "Limbaj mașină",
+        "en": "Machine code"
+      }
+    }
+  ],
+  "info_k7_scratch": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist Scratch?",
+        "hu": "Mi az a Scratch?",
+        "ro": "Ce este Scratch?",
+        "en": "What is Scratch?"
+      },
+      "options": {
+        "de": ["Ein Betriebssystem", "Eine blockbasierte Programmiersprache für Kinder", "Ein Textverarbeitungsprogramm", "Ein Internet-Browser"],
+        "hu": ["Operációs rendszer", "Blokk alapú programozási nyelv gyerekeknek", "Szövegszerkesztő program", "Internetböngésző"],
+        "ro": ["Un sistem de operare", "Un limbaj de programare bazat pe blocuri pentru copii", "Un procesor de text", "Un browser de internet"],
+        "en": ["An operating system", "A block-based programming language for children", "A word processor", "An internet browser"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man die Figuren in Scratch?",
+        "hu": "Hogy hívják a figurákat a Scratch-ben?",
+        "ro": "Cum se numesc personajele în Scratch?",
+        "en": "What are the characters in Scratch called?"
+      },
+      "options": {
+        "de": ["Bilder", "Sprites", "Akteure", "Blöcke"],
+        "hu": ["Képek", "Szereplők (Sprites)", "Színészek", "Blokkok"],
+        "ro": ["Imagini", "Personaje (Sprites)", "Actori", "Blocuri"],
+        "en": ["Images", "Sprites", "Actors", "Blocks"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist ein 'Kostüm' in Scratch?",
+        "hu": "Mi az a 'jelmez' (costume) a Scratch-ben?",
+        "ro": "Ce este un 'costum' în Scratch?",
+        "en": "What is a 'costume' in Scratch?"
+      },
+      "options": {
+        "de": ["Ein echtes Kleidungsstück", "Ein anderes Aussehen für eine Figur (Sprite)", "Ein Soundeffekt", "Ein Programmierfehler"],
+        "hu": ["Valódi ruha", "Egy szereplő (sprite) különböző kinézete", "Hangeffekt", "Programhiba"],
+        "ro": ["O haină reală", "Un alt aspect pentru un personaj (sprite)", "Un efect sonor", "O eroare de programare"],
+        "en": ["A real piece of clothing", "A different appearance for a character (sprite)", "A sound effect", "A programming error"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welcher Block startet meistens ein Programm in Scratch?",
+        "hu": "Melyik blokk indítja el leggyakrabban a programot a Scratch-ben?",
+        "ro": "Ce bloc pornește de obicei un program în Scratch?",
+        "en": "Which block usually starts a program in Scratch?"
+      },
+      "options": {
+        "de": ["Wenn rote Fahne angeklickt", "Wenn grüne Fahne angeklickt", "Wenn Leertaste gedrückt", "Stopp-Block"],
+        "hu": ["Amikor a piros zászlóra kattintasz", "Amikor a zöld zászlóra kattintasz", "Amikor a szóközt lenyomod", "Stop blokk"],
+        "ro": ["Când se dă click pe steagul roșu", "Când se dă click pe steagul verde", "Când se apasă tasta spațiu", "Blocul stop"],
+        "en": ["When red flag clicked", "When green flag clicked", "When space key pressed", "Stop block"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "In welcher Kategorie findet man Blöcke zum Bewegen von Figuren?",
+        "hu": "Melyik kategóriában találjuk a szereplők mozgatásához szükséges blokkokat?",
+        "ro": "În ce categorie se găsesc blocurile pentru mișcarea personajelor?",
+        "en": "In which category do you find blocks for moving characters?"
+      },
+      "options": {
+        "de": ["Aussehen", "Klang", "Bewegung", "Ereignisse"],
+        "hu": ["Kinézet", "Hang", "Mozgás", "Események"],
+        "ro": ["Aspect", "Sunet", "Mișcare", "Evenimente"],
+        "en": ["Looks", "Sound", "Motion", "Events"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie nennt man den Hintergrundbereich in Scratch?",
+        "hu": "Hogy hívják a háttérterületet a Scratch-ben?",
+        "ro": "Cum se numește zona de fundal în Scratch?",
+        "en": "What is the background area in Scratch called?"
+      },
+      "options": {
+        "de": ["Leinwand", "Bühne (Stage)", "Monitor", "Feld"],
+        "hu": ["Vászon", "Színpad (Stage)", "Monitor", "Mező"],
+        "ro": ["Pânză", "Scenă (Stage)", "Monitor", "Câmp"],
+        "en": ["Canvas", "Stage", "Monitor", "Field"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was macht der Block 'Wiederhole fortlaufend'?",
+        "hu": "Mit csinál a 'mindig' (forever) blokk?",
+        "ro": "Ce face blocul 'la infinit' (forever)?",
+        "en": "What does the 'forever' block do?"
+      },
+      "options": {
+        "de": ["Führt Code nur einmal aus", "Wiederholt den Code unendlich oft, bis das Programm gestoppt wird", "Löscht den Code", "Spielt Musik"],
+        "hu": ["Csak egyszer futtatja a kódot", "Végtelenül ismétli a kódot a program leállításáig", "Törli a kódot", "Zenél"],
+        "ro": ["Execută codul o singură dată", "Repetă codul la infinit până când programul este oprit", "Șterge codul", "Redă muzică"],
+        "en": ["Executes code only once", "Repeats the code infinitely until the program is stopped", "Deletes the code", "Plays music"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie werden Variablen in Scratch erstellt?",
+        "hu": "Hogyan hozunk létre változókat a Scratch-ben?",
+        "ro": "Cum se creează variabilele în Scratch?",
+        "en": "How are variables created in Scratch?"
+      },
+      "options": {
+        "de": ["Gar nicht", "In der Kategorie 'Variablen' auf 'Neue Variable' klicken", "Durch Zeichnen", "In der Kategorie 'Klang'"],
+        "hu": ["Sehogy", "A 'Változók' kategóriában a 'Változó létrehozása' gombra kattintva", "Rajzolással", "A 'Hang' kategóriában"],
+        "ro": ["Nu se pot crea", "În categoria 'Variabile' făcând click pe 'Creează o variabilă'", "Prin desenare", "În categoria 'Sunet'"],
+        "en": ["Not at all", "By clicking 'Make a Variable' in the 'Variables' category", "By drawing", "In the 'Sound' category"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist eine 'Nachricht' (Broadcast) in Scratch?",
+        "hu": "Mi az az 'üzenet' (broadcast) a Scratch-ben?",
+        "ro": "Ce este un 'mesaj' (broadcast) în Scratch?",
+        "en": "What is a 'broadcast' message in Scratch?"
+      },
+      "options": {
+        "de": ["Eine SMS", "Ein Signal, das eine Figur an alle anderen sendet, um Aktionen auszulösen", "Ein Fehler", "Ein Kommentar"],
+        "hu": ["Egy SMS", "Egy jel, amelyet az egyik szereplő küld a többinek egy akció elindításához", "Hiba", "Komment"],
+        "ro": ["Un SMS", "Un semnal pe care un personaj îl trimite tuturor celorlalte pentru a declanșa acțiuni", "O eroare", "Un comentariu"],
+        "en": ["An SMS", "A signal that one character sends to all others to trigger actions", "An error", "A comment"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wo kann man neue Figuren für sein Projekt finden?",
+        "hu": "Hol találhatunk új szereplőket a projektünkhöz?",
+        "ro": "Unde se pot găsi personaje noi pentru proiect?",
+        "en": "Where can you find new characters for your project?"
+      },
+      "options": {
+        "de": ["In der Scratch-Bibliothek, selbst zeichnen oder hochladen", "Nur in Google", "In Microsoft Word", "In der Systemsteuerung"],
+        "hu": ["A Scratch könyvtárában, megrajzolhatjuk vagy feltölthetjük", "Csak a Google-ben", "Microsoft Word-ben", "A vezérlőpultban"],
+        "ro": ["În biblioteca Scratch, desenate de tine sau încărcate", "Doar pe Google", "În Microsoft Word", "În Panoul de control"],
+        "en": ["In the Scratch library, drawing them yourself, or uploading", "Only on Google", "In Microsoft Word", "In the Control Panel"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt das bekannte Tier-Maskottchen von Scratch?",
+        "hu": "Hogy hívják a Scratch ismert állat kabaláját?",
+        "ro": "Cum se numește mascota animal cunoscută a Scratch?",
+        "en": "What is the name of Scratch's famous animal mascot?"
+      },
+      "answer": {
+        "de": "Katze",
+        "hu": "Macska",
+        "ro": "Pisică",
+        "en": "Cat"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welche Koordinaten (x,y) hat die Mitte der Bühne?",
+        "hu": "Melyek a színpad közepének koordinátái (x,y)?",
+        "ro": "Care sunt coordonatele (x,y) centrului scenei?",
+        "en": "What are the coordinates (x,y) of the center of the stage?"
+      },
+      "answer": {
+        "de": "0,0",
+        "hu": "0,0",
+        "ro": "0,0",
+        "en": "0,0"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Blöcke, die einen anderen Block umschließen (z.B. Wiederhole)?",
+        "hu": "Hogy hívják azokat a blokkokat, amelyek körülfognak más blokkokat (pl. Ismétlés)?",
+        "ro": "Cum se numesc blocurile care încadrează alte blocuri (ex: Repetă)?",
+        "en": "What are the blocks called that wrap around other blocks (e.g. Repeat)?"
+      },
+      "answer": {
+        "de": "Klammerblöcke",
+        "hu": "C-blokkok",
+        "ro": "Blocuri C",
+        "en": "C-blocks"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Was ist die maximale x-Koordinate in Scratch?",
+        "hu": "Mi a maximális x koordináta a Scratch-ben?",
+        "ro": "Care este coordonata maximă x în Scratch?",
+        "en": "What is the maximum x-coordinate in Scratch?"
+      },
+      "answer": {
+        "de": "240",
+        "hu": "240",
+        "ro": "240",
+        "en": "240"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Webseite, auf der man Scratch online nutzt?",
+        "hu": "Hogy hívják a weboldalt, ahol online használhatjuk a Scratch-et?",
+        "ro": "Cum se numește site-ul unde se folosește Scratch online?",
+        "en": "What is the website called where you use Scratch online?"
+      },
+      "answer": {
+        "de": "scratch.mit.edu",
+        "hu": "scratch.mit.edu",
+        "ro": "scratch.mit.edu",
+        "en": "scratch.mit.edu"
+      }
+    }
+  ],
+  "info_k7_html": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht HTML?",
+        "hu": "Mit jelent a HTML rövidítés?",
+        "ro": "Ce înseamnă HTML?",
+        "en": "What does HTML stand for?"
+      },
+      "options": {
+        "de": ["HyperText Markup Language", "High Tech Modern Language", "Hyperlink Text Management Language", "Home Tool Markup Language"],
+        "hu": ["HyperText Markup Language", "High Tech Modern Language", "Hyperlink Text Management Language", "Home Tool Markup Language"],
+        "ro": ["HyperText Markup Language", "High Tech Modern Language", "Hyperlink Text Management Language", "Home Tool Markup Language"],
+        "en": ["HyperText Markup Language", "High Tech Modern Language", "Hyperlink Text Management Language", "Home Tool Markup Language"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Tag wird für die größte Überschrift verwendet?",
+        "hu": "Melyik taget használjuk a legnagyobb címsorhoz?",
+        "ro": "Ce tag este folosit pentru cel mai mare titlu?",
+        "en": "Which tag is used for the largest heading?"
+      },
+      "options": {
+        "de": ["<head>", "<h6>", "<h1>", "<big>"],
+        "hu": ["<head>", "<h6>", "<h1>", "<big>"],
+        "ro": ["<head>", "<h6>", "<h1>", "<big>"],
+        "en": ["<head>", "<h6>", "<h1>", "<big>"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Mit welchem Tag erstellt man einen Hyperlink?",
+        "hu": "Melyik taggel hozunk létre hiperhivatkozást?",
+        "ro": "Cu ce tag se creează un hyperlink?",
+        "en": "With which tag do you create a hyperlink?"
+      },
+      "options": {
+        "de": ["<link>", "<a>", "<href>", "<url>"],
+        "hu": ["<link>", "<a>", "<href>", "<url>"],
+        "ro": ["<link>", "<a>", "<href>", "<url>"],
+        "en": ["<link>", "<a>", "<href>", "<url>"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie wird ein HTML-Tag korrekt geschlossen?",
+        "hu": "Hogyan zárjuk le helyesen a HTML taget?",
+        "ro": "Cum se închide corect un tag HTML?",
+        "en": "How is an HTML tag correctly closed?"
+      },
+      "options": {
+        "de": ["<tag>", "/<tag>", "</tag>", "[/tag]"],
+        "hu": ["<tag>", "/<tag>", "</tag>", "[/tag]"],
+        "ro": ["<tag>", "/<tag>", "</tag>", "[/tag]"],
+        "en": ["<tag>", "/<tag>", "</tag>", "[/tag]"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Tag definiert den sichtbaren Teil der Webseite?",
+        "hu": "Melyik tag definiálja a weboldal látható részét?",
+        "ro": "Ce tag definește partea vizibilă a paginii web?",
+        "en": "Which tag defines the visible part of the web page?"
+      },
+      "options": {
+        "de": ["<html>", "<head>", "<body>", "<main>"],
+        "hu": ["<html>", "<head>", "<body>", "<main>"],
+        "ro": ["<html>", "<head>", "<body>", "<main>"],
+        "en": ["<html>", "<head>", "<body>", "<main>"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie fügt man ein Bild ein?",
+        "hu": "Hogyan szúrunk be képet?",
+        "ro": "Cum se inserează o imagine?",
+        "en": "How do you insert an image?"
+      },
+      "options": {
+        "de": ["<image>", "<img>", "<pic>", "<src>"],
+        "hu": ["<image>", "<img>", "<pic>", "<src>"],
+        "ro": ["<image>", "<img>", "<pic>", "<src>"],
+        "en": ["<image>", "<img>", "<pic>", "<src>"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht das Attribut 'alt' bei Bildern?",
+        "hu": "Mire szolgál az 'alt' attribútum a képeknél?",
+        "ro": "La ce servește atributul 'alt' la imagini?",
+        "en": "What is the 'alt' attribute for images used for?"
+      },
+      "options": {
+        "de": ["Alternativer Text, falls das Bild nicht geladen wird", "Die Bildgröße", "Die Farbe", "Die Adresse"],
+        "hu": ["Alternatív szöveg, ha a kép nem töltődik be", "A kép mérete", "A szín", "A cím"],
+        "ro": ["Text alternativ în cazul în care imaginea nu se încarcă", "Dimensiunea imaginii", "Culoarea", "Adresa"],
+        "en": ["Alternative text if the image fails to load", "The image size", "The color", "The address"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Tag erstellt eine ungeordnete Liste (mit Aufzählungspunkten)?",
+        "hu": "Melyik tag hoz létre nem rendezett listát (felsoroláspontokkal)?",
+        "ro": "Ce tag creează o listă neordonată (cu puncte)?",
+        "en": "Which tag creates an unordered list (with bullets)?"
+      },
+      "options": {
+        "de": ["<ol>", "<ul>", "<li>", "<list>"],
+        "hu": ["<ol>", "<ul>", "<li>", "<list>"],
+        "ro": ["<ol>", "<ul>", "<li>", "<list>"],
+        "en": ["<ol>", "<ul>", "<li>", "<list>"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "In welchem Bereich stehen Informationen wie der Titel der Webseite (nicht sichtbar auf der Seite)?",
+        "hu": "Melyik részben találhatók az információk, mint pl. a weboldal címe (nem látható az oldalon)?",
+        "ro": "În ce secțiune stau informațiile precum titlul paginii (care nu apar pe pagină)?",
+        "en": "In which section is information like the web page title located (not visible on the page)?"
+      },
+      "options": {
+        "de": ["<body>", "<head>", "<footer>", "<title>"],
+        "hu": ["<body>", "<head>", "<footer>", "<title>"],
+        "ro": ["<body>", "<head>", "<footer>", "<title>"],
+        "en": ["<body>", "<head>", "<footer>", "<title>"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie wird ein Zeilenumbruch ohne neuen Absatz erzeugt?",
+        "hu": "Hogyan hozunk létre sorugrást új bekezdés nélkül?",
+        "ro": "Cum se creează o întrerupere de rând fără un paragraf nou?",
+        "en": "How do you create a line break without a new paragraph?"
+      },
+      "options": {
+        "de": ["<p>", "<br>", "<lb>", "<next>"],
+        "hu": ["<p>", "<br>", "<lb>", "<next>"],
+        "ro": ["<p>", "<br>", "<lb>", "<next>"],
+        "en": ["<p>", "<br>", "<lb>", "<next>"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man die Befehle in HTML (in spitzen Klammern)?",
+        "hu": "Hogy hívják a HTML parancsokat (hegyes zárójelekben)?",
+        "ro": "Cum se numesc comenzile în HTML (în paranteze unghiulare)?",
+        "en": "What are the commands in HTML called (in angle brackets)?"
+      },
+      "answer": {
+        "de": "Tags",
+        "hu": "Tagek",
+        "ro": "Tag-uri",
+        "en": "Tags"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Nenne das Tag für einen Absatz.",
+        "hu": "Add meg a bekezdéshez használt taget.",
+        "ro": "Numește tag-ul pentru un paragraf.",
+        "en": "Name the tag for a paragraph."
+      },
+      "answer": {
+        "de": "<p>",
+        "hu": "<p>",
+        "ro": "<p>",
+        "en": "<p>"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Attribut im <img> Tag gibt den Dateipfad an?",
+        "hu": "Melyik attribútum adja meg a fájl elérési útját az <img> tagben?",
+        "ro": "Ce atribut din tag-ul <img> specifică calea fișierului?",
+        "en": "Which attribute in the <img> tag specifies the file path?"
+      },
+      "answer": {
+        "de": "src",
+        "hu": "src",
+        "ro": "src",
+        "en": "src"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie lautet die Dateiendung für Webseiten?",
+        "hu": "Mi a weboldalak fájlkiterjesztése?",
+        "ro": "Care este extensia de fișier pentru paginile web?",
+        "en": "What is the file extension for web pages?"
+      },
+      "answer": {
+        "de": "html",
+        "hu": "html",
+        "ro": "html",
+        "en": "html"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Tag enthält den Titel, der im Browser-Tab steht?",
+        "hu": "Melyik tag tartalmazza a böngésző fülén megjelenő címet?",
+        "ro": "Ce tag conține titlul care apare în tab-ul browserului?",
+        "en": "Which tag contains the title that appears in the browser tab?"
+      },
+      "answer": {
+        "de": "<title>",
+        "hu": "<title>",
+        "ro": "<title>",
+        "en": "<title>"
+      }
+    }
+  ],
+  "info_k7_css": [
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wofür steht CSS?",
+        "hu": "Mit jelent a CSS rövidítés?",
+        "ro": "Ce înseamnă CSS?",
+        "en": "What does CSS stand for?"
+      },
+      "options": {
+        "de": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "hu": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "ro": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "en": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was ist die Hauptaufgabe von CSS?",
+        "hu": "Mi a CSS fő feladata?",
+        "ro": "Care este sarcina principală a CSS?",
+        "en": "What is the main task of CSS?"
+      },
+      "options": {
+        "de": ["Inhalt der Webseite festlegen", "Aussehen und Layout der Webseite festlegen", "Verbindung zum Internet herstellen", "Daten in der Datenbank speichern"],
+        "hu": ["A weboldal tartalmának meghatározása", "A weboldal kinézetének és elrendezésének meghatározása", "Internetes kapcsolat létrehozása", "Adatok tárolása az adatbázisban"],
+        "ro": ["Stabilirea conținutului paginii web", "Stabilirea aspectului și a designului paginii web", "Stabilirea conexiunii la internet", "Stocarea datelor în baza de date"],
+        "en": ["Define the content of the web page", "Define the appearance and layout of the web page", "Establish internet connection", "Store data in the database"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie ändert man die Hintergrundfarbe in CSS?",
+        "hu": "Hogyan változtatjuk meg a háttérszínt CSS-ben?",
+        "ro": "Cum se schimbă culoarea de fundal în CSS?",
+        "en": "How do you change the background color in CSS?"
+      },
+      "options": {
+        "de": ["color", "bg-color", "background-color", "bgcolor"],
+        "hu": ["color", "bg-color", "background-color", "bgcolor"],
+        "ro": ["color", "bg-color", "background-color", "bgcolor"],
+        "en": ["color", "bg-color", "background-color", "bgcolor"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie ändert man die Textfarbe?",
+        "hu": "Hogyan változtatjuk meg a szövegszínt?",
+        "ro": "Cum se schimbă culoarea textului?",
+        "en": "How do you change the text color?"
+      },
+      "options": {
+        "de": ["font-color", "text-color", "color", "style-color"],
+        "hu": ["font-color", "text-color", "color", "style-color"],
+        "ro": ["font-color", "text-color", "color", "style-color"],
+        "en": ["font-color", "text-color", "color", "style-color"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Mit welcher Eigenschaft ändert man die Schriftgröße?",
+        "hu": "Melyik tulajdonsággal változtatjuk meg a betűméretet?",
+        "ro": "Cu ce proprietate se schimbă dimensiunea fontului?",
+        "en": "Which property is used to change the font size?"
+      },
+      "options": {
+        "de": ["font-style", "text-size", "font-size", "size"],
+        "hu": ["font-style", "text-size", "font-size", "size"],
+        "ro": ["font-style", "text-size", "font-size", "size"],
+        "en": ["font-style", "text-size", "font-size", "size"]
+      },
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Symbol wird für eine ID-Selektor verwendet?",
+        "hu": "Melyik szimbólumot használjuk az ID szelektorhoz?",
+        "ro": "Ce simbol se folosește pentru un selector ID?",
+        "en": "Which symbol is used for an ID selector?"
+      },
+      "options": {
+        "de": [".", "#", "*", "&"],
+        "hu": [".", "#", "*", "&"],
+        "ro": [".", "#", "*", "&"],
+        "en": [".", "#", "*", "&"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Welches Symbol wird für eine Klassen-Selektor verwendet?",
+        "hu": "Melyik szimbólumot használjuk a osztály (class) szelektorhoz?",
+        "ro": "Ce simbol se folosește pentru un selector de clasă?",
+        "en": "Which symbol is used for a class selector?"
+      },
+      "options": {
+        "de": [".", "#", "*", "!"],
+        "hu": [".", "#", "*", "!"],
+        "ro": [".", "#", "*", "!"],
+        "en": [".", "#", "*", "!"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'margin'?",
+        "hu": "Mit jelent a 'margin'?",
+        "ro": "Ce înseamnă 'margin'?",
+        "en": "What does 'margin' mean?"
+      },
+      "options": {
+        "de": ["Innenabstand", "Außenabstand", "Rahmen", "Schriftart"],
+        "hu": ["Belső margó", "Külső margó", "Keret", "Betűtípus"],
+        "ro": ["Distanța interioară", "Distanța exterioară", "Chenar", "Font"],
+        "en": ["Inner spacing", "Outer spacing", "Border", "Font"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Was bedeutet 'padding'?",
+        "hu": "Mit jelent a 'padding'?",
+        "ro": "Ce înseamnă 'padding'?",
+        "en": "What does 'padding' mean?"
+      },
+      "options": {
+        "de": ["Innenabstand", "Außenabstand", "Hintergrundbild", "Breite"],
+        "hu": ["Belső margó (térköz)", "Külső margó", "Háttérkép", "Szélesség"],
+        "ro": ["Distanța interioară", "Distanța exterioară", "Imagine de fundal", "Lățime"],
+        "en": ["Inner spacing", "Outer spacing", "Background image", "Width"]
+      },
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": {
+        "de": "Wie wird eine externe CSS-Datei in HTML eingebunden?",
+        "hu": "Hogyan kapcsolunk külső CSS fájlt a HTML-hez?",
+        "ro": "Cum se conectează un fișier CSS extern la HTML?",
+        "en": "How do you link an external CSS file to HTML?"
+      },
+      "options": {
+        "de": ["<style src=\"...\">", "<link rel=\"stylesheet\" href=\"...\">", "<css href=\"...\">", "<script src=\"...\">"],
+        "hu": ["<style src=\"...\">", "<link rel=\"stylesheet\" href=\"...\">", "<css href=\"...\">", "<script src=\"...\">"],
+        "ro": ["<style src=\"...\">", "<link rel=\"stylesheet\" href=\"...\">", "<css href=\"...\">", "<script src=\"...\">"],
+        "en": ["<style src=\"...\">", "<link rel=\"stylesheet\" href=\"...\">", "<css href=\"...\">", "<script src=\"...\">"]
+      },
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man den Teil vor der geschweiften Klammer in CSS?",
+        "hu": "Hogy hívják a kapcsos zárójel előtti részt a CSS-ben?",
+        "ro": "Cum se numește partea dinaintea acoladei în CSS?",
+        "en": "What is the part before the curly brace in CSS called?"
+      },
+      "answer": {
+        "de": "Selektor",
+        "hu": "Szelektor",
+        "ro": "Selector",
+        "en": "Selector"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Welches Zeichen trennt Eigenschaft und Wert in CSS?",
+        "hu": "Melyik jel választja el a tulajdonságot az értéktől a CSS-ben?",
+        "ro": "Ce semn desparte proprietatea de valoare în CSS?",
+        "en": "Which character separates property and value in CSS?"
+      },
+      "answer": {
+        "de": ":",
+        "hu": ":",
+        "ro": ":",
+        "en": ":"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Mit welchem Zeichen schließt man eine CSS-Zeile ab?",
+        "hu": "Milyen jellel zárunk le egy CSS sort?",
+        "ro": "Cu ce semn se încheie o linie CSS?",
+        "en": "With which character do you end a CSS line?"
+      },
+      "answer": {
+        "de": ";",
+        "hu": ";",
+        "ro": ";",
+        "en": ";"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie heißt die Eigenschaft für fetten Text?",
+        "hu": "Hogy hívják a félkövér szöveg tulajdonságát?",
+        "ro": "Cum se numește proprietatea pentru text îngroșat?",
+        "en": "What is the property for bold text called?"
+      },
+      "answer": {
+        "de": "font-weight",
+        "hu": "font-weight",
+        "ro": "font-weight",
+        "en": "font-weight"
+      }
+    },
+    {
+      "type": "typing",
+      "question": {
+        "de": "Wie nennt man CSS-Code direkt im HTML-Tag?",
+        "hu": "Hogy hívják a közvetlenül a HTML tagbe írt CSS kódot?",
+        "ro": "Cum se numește codul CSS scris direct în tag-ul HTML?",
+        "en": "What is CSS code written directly in the HTML tag called?"
+      },
+      "answer": {
+        "de": "Inline",
+        "hu": "Inline",
+        "ro": "Inline",
+        "en": "Inline"
+      }
+    }
+  ]
+}
