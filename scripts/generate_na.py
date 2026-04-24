@@ -104,6 +104,13 @@ export const {iso}_PROJECTION = {{
   width: {width:.2f}, height: {height:.2f},
 }};
 
+export function projectCoords{iso}(lon: number, lat: number): [number, number] {{
+  const p = {iso}_PROJECTION;
+  const x = ((lon - p.minLon) / (p.maxLon - p.minLon)) * p.width;
+  const y = p.height - ((lat - p.minLat) / (p.maxLat - p.minLat)) * p.height;
+  return [x, y];
+}}
+
 export interface {slug.capitalize()}RegionPath {{
   id: string;
   name: {{ de: string; hu: string; ro: string; en: string }};

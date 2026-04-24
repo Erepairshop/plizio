@@ -130,3 +130,10 @@ export const trinidadMap: TrinidadRegionPath[] = [
     path: "M457.32,504.34L467.39,513.99L468.40,519.00L471.50,529.16L471.68,533.54L470.58,536.34L468.43,537.24L465.07,538.06L458.81,537.91L452.27,535.78L450.52,534.62L450.12,533.35L450.36,531.97L451.18,530.66L453.87,528.12L455.01,526.55L455.80,522.47L455.69,521.16L455.50,519.82L455.57,518.47L455.83,517.31L456.40,516.23L457.04,515.48L457.45,514.62L457.23,513.72L456.62,512.56L456.51,510.81L457.32,504.34Z"
   },
 ];
+
+export function projectCoordsTT(lon: number, lat: number): [number, number] {
+  const p = TT_PROJECTION;
+  const x = ((lon - p.minLon) / (p.maxLon - p.minLon)) * p.width;
+  const y = p.height - ((lat - p.minLat) / (p.maxLat - p.minLat)) * p.height;
+  return [x, y];
+}
