@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Numere aleatorii",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce face blocul 'aleatoriu între 1 și 10'?",
+        "options": [
+          "Alege un număr la întâmplare din acel interval",
+          "Adună 1 cu 10",
+          "Afișează numerele 1 și 10",
+          "Șterge numerele"
+        ],
+        "answer": "Alege un număr la întâmplare din acel interval"
+      },
+      {
+        "question": "Unde găsim blocul de numere aleatorii?",
+        "options": [
+          "În categoria Operatori (verde)",
+          "În Mișcare",
+          "În Sunet",
+          "În Variabile"
+        ],
+        "answer": "În categoria Operatori (verde)"
+      },
+      {
+        "question": "La ce este utilă alegerea aleatorie într-un joc?",
+        "options": [
+          "Pentru a face inamicii să apară în locuri imprevizibile",
+          "Pentru a opri jocul",
+          "Pentru a șterge scorul",
+          "Pentru a-l face plictisitor"
+        ],
+        "answer": "Pentru a face inamicii să apară în locuri imprevizibile"
+      },
+      {
+        "question": "Putem folosi numere negative în intervalul aleatoriu?",
+        "options": [
+          "Da (ex. între -100 și 100)",
+          "Nu",
+          "Doar dacă sunt numere pare",
+          "Doar în versiunea online"
+        ],
+        "answer": "Da (ex. între -100 și 100)"
+      },
+      {
+        "question": "Cum facem un personaj să se ducă într-un loc la întâmplare?",
+        "options": [
+          "mergi la x: (aleatoriu între -240 și 240) y: (aleatoriu între -180 și 180)",
+          "mergi 10 pași",
+          "sari",
+          "nu se poate"
+        ],
+        "answer": "mergi la x: (aleatoriu între -240 și 240) y: (aleatoriu între -180 și 180)"
+      },
+      {
+        "question": "Poate Scratch să aleagă un număr cu zecimale (ex. 1.5)?",
+        "options": [
+          "Da, dacă scriem noi zecimale în interval",
+          "Nu, doar numere întregi",
+          "Doar dacă avem variabilă specială",
+          "Doar marțea"
+        ],
+        "answer": "Da, dacă scriem noi zecimale în interval"
+      },
+      {
+        "question": "Ce se întâmplă dacă punem intervalul 'aleatoriu între 10 și 1'?",
+        "options": [
+          "Scratch va alege tot între 1 și 10 (le inversează automat)",
+          "Se produce o eroare",
+          "Alege mereu 5",
+          "Programul se închide"
+        ],
+        "answer": "Scratch va alege tot între 1 și 10 (le inversează automat)"
+      },
+      {
+        "question": "Putem folosi numere aleatorii pentru a alege un costum?",
+        "options": [
+          "Da, 'treci la costumul (aleatoriu între 1 și 5)'",
+          "Nu",
+          "Doar pentru mișcare",
+          "Doar pentru sunet"
+        ],
+        "answer": "Da, 'treci la costumul (aleatoriu între 1 și 5)'"
+      },
+      {
+        "question": "Cum facem un zar în Scratch?",
+        "options": [
+          "Variabila zar -> setează la aleatoriu între 1 și 6",
+          "mergi 6 pași",
+          "sunet de zar",
+          "nu se poate"
+        ],
+        "answer": "Variabila zar -> setează la aleatoriu între 1 și 6"
+      },
+      {
+        "question": "Ce este 'probabilitatea'?",
+        "options": [
+          "Șansa ca un eveniment să se întâmple",
+          "Un număr foarte mare",
+          "O eroare de cod",
+          "Un personaj"
+        ],
+        "answer": "Șansa ca un eveniment să se întâmple"
+      },
+      {
+        "question": "Cum simulăm o șansă de 50%?",
+        "options": [
+          "dacă (aleatoriu între 1 și 2) = 1",
+          "dacă aleatoriu = 50",
+          "dacă sunet = 50",
+          "nu se poate"
+        ],
+        "answer": "dacă (aleatoriu între 1 și 2) = 1"
+      },
+      {
+        "question": "Putem alege un element la întâmplare dintr-o listă?",
+        "options": [
+          "Da, există bloc special 'element (aleatoriu) din [listă]'",
+          "Nu",
+          "Doar manual",
+          "Doar prin cod lung"
+        ],
+        "answer": "Da, există bloc special 'element (aleatoriu) din [listă]'"
+      },
+      {
+        "question": "Ce face 'aleatoriu între 0 și 1'?",
+        "options": [
+          "Alege 0 sau 1",
+          "Alege orice număr",
+          "Oprește calculatorul",
+          "Șterge variabilele"
+        ],
+        "answer": "Alege 0 sau 1"
+      },
+      {
+        "question": "Sunt numerele din Scratch cu adevărat aleatorii?",
+        "options": [
+          "Sunt 'pseudo-aleatorii' (generate de un algoritm)",
+          "Da, vin din spațiu",
+          "Nu, sunt alese de MIT",
+          "Sunt alese de profesor"
+        ],
+        "answer": "Sunt 'pseudo-aleatorii' (generate de un algoritm)"
+      },
+      {
+        "question": "Cum facem un personaj să spună un număr la întâmplare?",
+        "options": [
+          "spune (aleatoriu între 1 și 100)",
+          "spune 10",
+          "mergi",
+          "nu se poate"
+        ],
+        "answer": "spune (aleatoriu între 1 și 100)"
+      },
+      {
+        "question": "Putem folosi aleatoriu pentru a schimba culoarea?",
+        "options": [
+          "Da, 'modifică efectul culoare cu (aleatoriu)'",
+          "Nu",
+          "Doar pentru mărime",
+          "Doar pentru fundal"
+        ],
+        "answer": "Da, 'modifică efectul culoare cu (aleatoriu)'"
+      },
+      {
+        "question": "Ce formă are blocul aleatoriu?",
+        "options": [
+          "Rotundă (se potrivește în locurile pentru numere)",
+          "Pătrată",
+          "Hexagonală",
+          "Triunghiulară"
+        ],
+        "answer": "Rotundă (se potrivește în locurile pentru numere)"
+      },
+      {
+        "question": "Putem folosi variabile ca limite pentru intervalul aleatoriu?",
+        "options": [
+          "Da, 'aleatoriu între [min] și [max]'",
+          "Nu",
+          "Doar numere fixe",
+          "Doar în Scratch Desktop"
+        ],
+        "answer": "Da, 'aleatoriu între [min] și [max]'"
+      },
+      {
+        "question": "Cum facem un inamic să tragă la intervale de timp neregulate?",
+        "options": [
+          "la infinit -> așteaptă (aleatoriu între 1 și 5) sec -> trage",
+          "la infinit -> așteaptă 1 sec -> trage",
+          "repetă de 10 ori -> trage",
+          "nu se poate"
+        ],
+        "answer": "la infinit -> așteaptă (aleatoriu între 1 și 5) sec -> trage"
+      },
+      {
+        "question": "Ce face blocul 'aleatoriu între 1 și 100' dacă avem nevoie de un procent?",
+        "options": [
+          "Ne dă o valoare din 100 (procentaj)",
+          "Ne dă nota 10",
+          "Ne dă 100 de lei",
+          "Nu face nimic"
+        ],
+        "answer": "Ne dă o valoare din 100 (procentaj)"
+      },
+      {
+        "question": "Putem folosi aleatoriu pentru a alege o direcție?",
+        "options": [
+          "Da, 'orientare spre (aleatoriu între 0 și 360)'",
+          "Nu",
+          "Doar 90 sau -90",
+          "Doar în sus"
+        ],
+        "answer": "Da, 'orientare spre (aleatoriu între 0 și 360)'"
+      },
+      {
+        "question": "Ce se întâmplă dacă intervalul este (1, 1)?",
+        "options": [
+          "Va alege mereu 1",
+          "Nu va alege nimic",
+          "Va exploda",
+          "Va alege 0"
+        ],
+        "answer": "Va alege mereu 1"
+      },
+      {
+        "question": "Putem genera un cod secret la întâmplare?",
+        "options": [
+          "Da, combinând mai multe numere aleatorii",
+          "Nu",
+          "Doar litere",
+          "Doar în engleză"
+        ],
+        "answer": "Da, combinând mai multe numere aleatorii"
+      },
+      {
+        "question": "De ce e important 'norocul' în jocuri?",
+        "options": [
+          "Pentru a le face variate și rejucabile",
+          "Pentru a supăra jucătorul",
+          "Pentru a trișa",
+          "Nu e important"
+        ],
+        "answer": "Pentru a le face variate și rejucabile"
+      },
+      {
+        "question": "Ce culoare au blocurile de Operatori?",
+        "options": [
+          "Verde",
+          "Albastru",
+          "Galben",
+          "Roșu"
+        ],
+        "answer": "Verde"
+      }
+    ],
+    "typing": [
+      "aleatoriu",
+      "întâmplare",
+      "interval",
+      "șansă",
+      "noroc",
+      "probabilitate",
+      "minim",
+      "maxim",
+      "operator",
+      "varietate"
+    ]
+  }
+}

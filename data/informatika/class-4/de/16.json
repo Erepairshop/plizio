@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Fehlersuche (Debugging)",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_16_1",
+      "type": "mcq",
+      "question": "Was ist ein Bug?",
+      "options": [
+        "Fehler im Programm",
+        "Ein Käfer im Garten",
+        "Ein neues Level",
+        "Ein Soundeffekt"
+      ],
+      "answer": "Fehler im Programm",
+      "explanation": "Programmierfehler."
+    },
+    {
+      "id": "mcq_16_2",
+      "type": "mcq",
+      "question": "Was bedeutet Debugging?",
+      "options": [
+        "Fehler suchen/beheben",
+        "PC ausschalten",
+        "Spiel gewinnen",
+        "Bilder malen"
+      ],
+      "answer": "Fehler suchen/beheben",
+      "explanation": "Prozess der Korrektur."
+    },
+    {
+      "id": "mcq_16_3",
+      "type": "mcq",
+      "question": "Erster Schritt bei Fehlern?",
+      "options": [
+        "Problem verstehen",
+        "PC wegwerfen",
+        "Weinen",
+        "Zufall"
+      ],
+      "answer": "Problem verstehen",
+      "explanation": "Analyse."
+    },
+    {
+      "id": "mcq_16_4",
+      "type": "mcq",
+      "question": "Was ist ein Syntaxfehler?",
+      "options": [
+        "Falsche Schreibweise",
+        "Falsche Logik",
+        "PC kaputt",
+        "Ton zu laut"
+      ],
+      "answer": "Falsche Schreibweise",
+      "explanation": "Grammatikfehler."
+    },
+    {
+      "id": "mcq_16_5",
+      "type": "mcq",
+      "question": "Logikfehler?",
+      "options": [
+        "Programm läuft aber falsch",
+        "Programm startet nicht",
+        "PC brennt",
+        "Ton fehlt"
+      ],
+      "answer": "Programm läuft aber falsch",
+      "explanation": "Denkfehler."
+    },
+    {
+      "id": "mcq_16_6",
+      "type": "mcq",
+      "question": "Schritt-für-Schritt Test?",
+      "options": [
+        "Code langsam prüfen",
+        "Schnell wegklicken",
+        "PC neustarten",
+        "Zufall"
+      ],
+      "answer": "Code langsam prüfen",
+      "explanation": "Tracing."
+    },
+    {
+      "id": "mcq_16_7",
+      "type": "mcq",
+      "question": "Was ist 'Rubber Ducking'?",
+      "options": [
+        "Problem laut erklären",
+        "Baden gehen",
+        "PC waschen",
+        "Vogel füttern"
+      ],
+      "answer": "Problem laut erklären",
+      "explanation": "Hilft beim Denken."
+    },
+    {
+      "id": "mcq_16_8",
+      "type": "mcq",
+      "question": "Variable überwachen?",
+      "options": [
+        "Werte prüfen",
+        "Variable löschen",
+        "PC beobachten",
+        "Monitor putzen"
+      ],
+      "answer": "Werte prüfen",
+      "explanation": "Kontrolle."
+    },
+    {
+      "id": "mcq_16_9",
+      "type": "mcq",
+      "question": "Programm friert ein?",
+      "options": [
+        "Oft Endlosschleife",
+        "PC zu kalt",
+        "Nur im Winter",
+        "Zufall"
+      ],
+      "answer": "Oft Endlosschleife",
+      "explanation": "Dauerschleifen-Fehler."
+    },
+    {
+      "id": "mcq_16_10",
+      "type": "mcq",
+      "question": "Fehlermeldung?",
+      "options": [
+        "Hinweis vom Computer",
+        "Ein Witz",
+        "Ein Bild",
+        "Zufall"
+      ],
+      "answer": "Hinweis vom Computer",
+      "explanation": "Hilfreiche Info."
+    },
+    {
+      "id": "mcq_16_11",
+      "type": "mcq",
+      "question": "Was ist ein 'Crash'?",
+      "options": [
+        "Programm stürzt ab",
+        "PC fällt runter",
+        "Auto-Unfall",
+        "Ton-Effekt"
+      ],
+      "answer": "Programm stürzt ab",
+      "explanation": "Plötzliches Ende."
+    },
+    {
+      "id": "mcq_16_12",
+      "type": "mcq",
+      "question": "Breakpoint?",
+      "options": [
+        "Pause an Codestelle",
+        "PC Pause",
+        "Ferien",
+        "Zufall"
+      ],
+      "answer": "Pause an Codestelle",
+      "explanation": "Fehlersuche-Tool."
+    },
+    {
+      "id": "mcq_16_13",
+      "type": "mcq",
+      "question": "Kommentare für Debugging?",
+      "options": [
+        "Ja, zum Ausblenden",
+        "Nein",
+        "Nur für Deko",
+        "Zufall"
+      ],
+      "answer": "Ja, zum Ausblenden",
+      "explanation": "Code deaktivieren."
+    },
+    {
+      "id": "mcq_16_14",
+      "type": "mcq",
+      "question": "Versionierung?",
+      "options": [
+        "Zwischenstände speichern",
+        "Nur ein Name",
+        "Nur PC Name",
+        "Zufall"
+      ],
+      "answer": "Zwischenstände speichern",
+      "explanation": "Sicherung."
+    },
+    {
+      "id": "mcq_16_15",
+      "type": "mcq",
+      "question": "Warum passiert 'Bug'?",
+      "options": [
+        "Menschliche Fehler",
+        "PC ist böse",
+        "Zufall",
+        "Wetter"
+      ],
+      "answer": "Menschliche Fehler",
+      "explanation": "Passiert jedem."
+    },
+    {
+      "id": "mcq_16_16",
+      "type": "mcq",
+      "question": "Test-Daten?",
+      "options": [
+        "Beispielwerte",
+        "Echte Bilder",
+        "Lieder",
+        "Spiele"
+      ],
+      "answer": "Beispielwerte",
+      "explanation": "Zum Ausprobieren."
+    },
+    {
+      "id": "mcq_16_17",
+      "type": "mcq",
+      "question": "Grenzwert-Test?",
+      "options": [
+        "Extremwerte prüfen",
+        "PC-Rand",
+        "Monitor-Ecke",
+        "Zufall"
+      ],
+      "answer": "Extremwerte prüfen",
+      "explanation": "Z.B. 0 oder 1000."
+    },
+    {
+      "id": "mcq_16_18",
+      "type": "mcq",
+      "question": "Peer Review?",
+      "options": [
+        "Freund schaut Code an",
+        "Lehrer benotet",
+        "PC scannt",
+        "Zufall"
+      ],
+      "answer": "Freund schaut Code an",
+      "explanation": "Vier-Augen-Prinzip."
+    },
+    {
+      "id": "mcq_16_19",
+      "type": "mcq",
+      "question": "Was macht 'Sage ...' beim Test?",
+      "options": [
+        "Werte ausgeben",
+        "Nur Quatschen",
+        "Lärm machen",
+        "Zufall"
+      ],
+      "answer": "Werte ausgeben",
+      "explanation": "Einfaches Debugging."
+    },
+    {
+      "id": "mcq_16_20",
+      "type": "mcq",
+      "question": "Stoppe alle?",
+      "options": [
+        "Alles beenden",
+        "Nur einen Fehler",
+        "PC aus",
+        "Ton aus"
+      ],
+      "answer": "Alles beenden",
+      "explanation": "Not-Aus."
+    },
+    {
+      "id": "mcq_16_21",
+      "type": "mcq",
+      "question": "Ist Debugging schwer?",
+      "options": [
+        "Braucht Geduld",
+        "Geht sofort",
+        "Ist unmöglich",
+        "Zufall"
+      ],
+      "answer": "Braucht Geduld",
+      "explanation": "Detektivarbeit."
+    },
+    {
+      "id": "mcq_16_22",
+      "type": "mcq",
+      "question": "Was ist ein 'Patch'?",
+      "options": [
+        "Fehlerbehebung",
+        "Ein Kaugummi",
+        "Ein Bild",
+        "Ein PC"
+      ],
+      "answer": "Fehlerbehebung",
+      "explanation": "Update."
+    },
+    {
+      "id": "mcq_16_23",
+      "type": "mcq",
+      "question": "Warum 'Rubber Duck'?",
+      "options": [
+        "Gedanken ordnen",
+        "Ente schwimmt",
+        "PC ist gelb",
+        "Zufall"
+      ],
+      "answer": "Gedanken ordnen",
+      "explanation": "Selbstgespräch hilft."
+    },
+    {
+      "id": "mcq_16_24",
+      "type": "mcq",
+      "question": "Kann man Bugs verhindern?",
+      "options": [
+        "Ja, durch Planung",
+        "Nein, nie",
+        "Nur mit Glück",
+        "Zufall"
+      ],
+      "answer": "Ja, durch Planung",
+      "explanation": "Sauber arbeiten."
+    },
+    {
+      "id": "mcq_16_25",
+      "type": "mcq",
+      "question": "Debugging in Scratch?",
+      "options": [
+        "Blöcke einzeln klicken",
+        "PC schütteln",
+        "Monitor drehen",
+        "Zufall"
+      ],
+      "answer": "Blöcke einzeln klicken",
+      "explanation": "Skript testen."
+    },
+    {
+      "id": "typing_16_1",
+      "type": "typing",
+      "text": "Ich suche systematisch nach Fehlern in meinem Programm.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_2",
+      "type": "typing",
+      "text": "Debugging erfordert viel Geduld und logisches Verständnis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_3",
+      "type": "typing",
+      "text": "Ein kleiner Tippfehler kann ein ganzes Skript stoppen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_4",
+      "type": "typing",
+      "text": "Wir testen jede Funktion einzeln auf ihre Richtigkeit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_5",
+      "type": "typing",
+      "text": "Gute Programmierer dokumentieren ihre Arbeit für andere.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_6",
+      "type": "typing",
+      "text": "Die Gummienten-Methode hilft mir beim Finden der Lösung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_7",
+      "type": "typing",
+      "text": "Ich habe den Bug in der Punktezählung erfolgreich behoben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_8",
+      "type": "typing",
+      "text": "Informatik ist wie Detektivarbeit in einer digitalen Welt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_9",
+      "type": "typing",
+      "text": "Wir lernen aus unseren Fehlern und werden immer besser.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_16_10",
+      "type": "typing",
+      "text": "Viel Erfolg bei der Fehlersuche in deinem neuen Projekt.",
+      "difficulty": "medium"
+    }
+  ]
+}

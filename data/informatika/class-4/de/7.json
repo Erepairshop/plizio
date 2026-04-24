@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Variablen",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_7_1",
+      "type": "mcq",
+      "question": "Was ist eine Variable?",
+      "options": [
+        "Platzhalter für Werte",
+        "Festes Bild",
+        "Ein Blockname",
+        "Ein Kabel"
+      ],
+      "answer": "Platzhalter für Werte",
+      "explanation": "Wie eine Box für Daten."
+    },
+    {
+      "id": "mcq_7_2",
+      "type": "mcq",
+      "question": "Beispiel für Variable?",
+      "options": [
+        "Punktestand",
+        "Hintergrund",
+        "Monitor",
+        "Tastatur"
+      ],
+      "answer": "Punktestand",
+      "explanation": "Zahlen die sich ändern."
+    },
+    {
+      "id": "mcq_7_3",
+      "type": "mcq",
+      "question": "Variable erstellen?",
+      "options": [
+        "Kategorie 'Variablen'",
+        "Bewegung",
+        "Aussehen",
+        "Sound"
+      ],
+      "answer": "Kategorie 'Variablen'",
+      "explanation": "Dunkelorange."
+    },
+    {
+      "id": "mcq_7_4",
+      "type": "mcq",
+      "question": "Setze Variable auf 0?",
+      "options": [
+        "Wert festlegen",
+        "Wert löschen",
+        "Wert erhöhen",
+        "Nichts"
+      ],
+      "answer": "Wert festlegen",
+      "explanation": "Zuweisung."
+    },
+    {
+      "id": "mcq_7_5",
+      "type": "mcq",
+      "question": "Ändere Variable um 1?",
+      "options": [
+        "Erhöhen",
+        "Verringern",
+        "Löschen",
+        "Anzeigen"
+      ],
+      "answer": "Erhöhen",
+      "explanation": "Addition."
+    },
+    {
+      "id": "mcq_7_6",
+      "type": "mcq",
+      "question": "Variable anzeigen?",
+      "options": [
+        "Häkchen setzen",
+        "Gar nicht",
+        "Nur im Skript",
+        "Nur am Ende"
+      ],
+      "answer": "Häkchen setzen",
+      "explanation": "Erscheint auf der Bühne."
+    },
+    {
+      "id": "mcq_7_7",
+      "type": "mcq",
+      "question": "Variable verstecken?",
+      "options": [
+        "Häkchen weg",
+        "PC aus",
+        "Monitor aus",
+        "Zufall"
+      ],
+      "answer": "Häkchen weg",
+      "explanation": "Wird unsichtbar."
+    },
+    {
+      "id": "mcq_7_8",
+      "type": "mcq",
+      "question": "Variable für alle Sprites?",
+      "options": [
+        "Global",
+        "Lokal",
+        "Total",
+        "Zufall"
+      ],
+      "answer": "Global",
+      "explanation": "Jeder kann sie nutzen."
+    },
+    {
+      "id": "mcq_7_9",
+      "type": "mcq",
+      "question": "Variable nur für diesen Sprite?",
+      "options": [
+        "Lokal",
+        "Global",
+        "Normal",
+        "Fehler"
+      ],
+      "answer": "Lokal",
+      "explanation": "Nur für eine Figur."
+    },
+    {
+      "id": "mcq_7_10",
+      "type": "mcq",
+      "question": "Name einer Variable?",
+      "options": [
+        "Frei wählbar",
+        "Nur X",
+        "Nur Y",
+        "Nur Zahlen"
+      ],
+      "answer": "Frei wählbar",
+      "explanation": "Sinnvolle Namen geben."
+    },
+    {
+      "id": "mcq_7_11",
+      "type": "mcq",
+      "question": "Kann Variable Text speichern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Zahlen",
+        "Nur Töne"
+      ],
+      "answer": "Ja",
+      "explanation": "Strings heißen diese."
+    },
+    {
+      "id": "mcq_7_12",
+      "type": "mcq",
+      "question": "Variable löschen?",
+      "options": [
+        "Rechtsklick im Tab",
+        "Block werfen",
+        "PC aus",
+        "Gar nicht"
+      ],
+      "answer": "Rechtsklick im Tab",
+      "explanation": "Entfernt die Box."
+    },
+    {
+      "id": "mcq_7_13",
+      "type": "mcq",
+      "question": "Was ist 'meine Variable'?",
+      "options": [
+        "Standardname",
+        "Dein Name",
+        "PC Name",
+        "Zufall"
+      ],
+      "answer": "Standardname",
+      "explanation": "Schon da."
+    },
+    {
+      "id": "mcq_7_14",
+      "type": "mcq",
+      "question": "Punktestand erhöhen?",
+      "options": [
+        "Ändere um 1",
+        "Setze auf 1",
+        "Lösche 1",
+        "Zeige 1"
+      ],
+      "answer": "Ändere um 1",
+      "explanation": "Addition."
+    },
+    {
+      "id": "mcq_7_15",
+      "type": "mcq",
+      "question": "Leben verlieren?",
+      "options": [
+        "Ändere um -1",
+        "Setze auf -1",
+        "Lösche 1",
+        "Warte 1"
+      ],
+      "answer": "Ändere um -1",
+      "explanation": "Subtraktion."
+    },
+    {
+      "id": "mcq_7_16",
+      "type": "mcq",
+      "question": "Was ist ein 'Zähler'?",
+      "options": [
+        "Variable die zählt",
+        "Ein Taschenrechner",
+        "Ein Lehrer",
+        "Ein Kind"
+      ],
+      "answer": "Variable die zählt",
+      "explanation": "Typische Aufgabe."
+    },
+    {
+      "id": "mcq_7_17",
+      "type": "mcq",
+      "question": "Kann man mit Variablen rechnen?",
+      "options": [
+        "Ja, mit Operatoren",
+        "Nein",
+        "Nur mit Papier",
+        "Nur am Handy"
+      ],
+      "answer": "Ja, mit Operatoren",
+      "explanation": "Grüne Blöcke nutzen."
+    },
+    {
+      "id": "mcq_7_18",
+      "type": "mcq",
+      "question": "Variable auf Bühne ziehen?",
+      "options": [
+        "Ja, Position frei",
+        "Nein",
+        "Nur Mitte",
+        "Nur Ecke"
+      ],
+      "answer": "Ja, Position frei",
+      "explanation": "Einfach bewegen."
+    },
+    {
+      "id": "mcq_7_19",
+      "type": "mcq",
+      "question": "Großanzeige?",
+      "options": [
+        "Doppelklick auf Bühne",
+        "Gar nicht",
+        "Nur klein",
+        "Zufall"
+      ],
+      "answer": "Doppelklick auf Bühne",
+      "explanation": "Ändert das Aussehen."
+    },
+    {
+      "id": "mcq_7_20",
+      "type": "mcq",
+      "question": "Schieberegler?",
+      "options": [
+        "Modus für Variablen",
+        "Eine Maus",
+        "Eine Taste",
+        "Ein Block"
+      ],
+      "answer": "Modus für Variablen",
+      "explanation": "Wert manuell ändern."
+    },
+    {
+      "id": "mcq_7_21",
+      "type": "mcq",
+      "question": "Cloud-Variable?",
+      "options": [
+        "Speichert online (Weltrekord)",
+        "Speichert Regen",
+        "Speichert Sonne",
+        "Speichert Wind"
+      ],
+      "answer": "Speichert online (Weltrekord)",
+      "explanation": "Für alle Spieler."
+    },
+    {
+      "id": "mcq_7_22",
+      "type": "mcq",
+      "question": "Farbe Variablen?",
+      "options": [
+        "Dunkelorange",
+        "Blau",
+        "Lila",
+        "Grün"
+      ],
+      "answer": "Dunkelorange",
+      "explanation": "Unter 'Meine Blöcke'."
+    },
+    {
+      "id": "mcq_7_23",
+      "type": "mcq",
+      "question": "Sind Variablen Blöcke?",
+      "options": [
+        "Runde Reporter",
+        "Hut-Blöcke",
+        "C-Blöcke",
+        "Eckige Blöcke"
+      ],
+      "answer": "Runde Reporter",
+      "explanation": "Man kann sie einsetzen."
+    },
+    {
+      "id": "mcq_7_24",
+      "type": "mcq",
+      "question": "Warum 'Variable'?",
+      "options": [
+        "Weil sie variiert (ändert)",
+        "Weil sie fest ist",
+        "Zufall",
+        "Latein für 'Essen'"
+      ],
+      "answer": "Weil sie variiert (ändert)",
+      "explanation": "Der Name sagt es."
+    },
+    {
+      "id": "mcq_7_25",
+      "type": "mcq",
+      "question": "Initialisierung?",
+      "options": [
+        "Startwert setzen (z.B. auf 0)",
+        "Löschen",
+        "Enden",
+        "Malen"
+      ],
+      "answer": "Startwert setzen (z.B. auf 0)",
+      "explanation": "Wichtig am Anfang."
+    },
+    {
+      "id": "typing_7_1",
+      "type": "typing",
+      "text": "Ich erstelle eine Variable für meine Punkte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_2",
+      "type": "typing",
+      "text": "Setze den Punktestand am Anfang auf Null.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_3",
+      "type": "typing",
+      "text": "Jedes Mal wenn ich gewinne, bekomme ich einen Punkt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_4",
+      "type": "typing",
+      "text": "Die Variable speichert wichtige Informationen für mich.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_5",
+      "type": "typing",
+      "text": "Ich kann den Wert der Variable auf der Bühne sehen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_6",
+      "type": "typing",
+      "text": "Globale Variablen können von allen Sprites gelesen werden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_7",
+      "type": "typing",
+      "text": "Wir nutzen Namen wie Leben oder Geschwindigkeit für Variablen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_8",
+      "type": "typing",
+      "text": "Der Computer merkt sich Zahlen in diesen digitalen Boxen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_9",
+      "type": "typing",
+      "text": "Programmieren hilft uns beim Verstehen von Mathematik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_7_10",
+      "type": "typing",
+      "text": "Informatik ist ein Werkzeug für unsere eigenen Ideen.",
+      "difficulty": "medium"
+    }
+  ]
+}

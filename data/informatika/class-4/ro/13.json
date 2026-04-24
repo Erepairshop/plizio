@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Sunet și muzică în programe",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Unde găsim sunetele pentru un personaj?",
+        "options": [
+          "În tab-ul Sunete",
+          "În tab-ul Cod",
+          "În tab-ul Costume",
+          "În rucsac"
+        ],
+        "answer": "În tab-ul Sunete"
+      },
+      {
+        "question": "Cum redăm un sunet complet înainte de a trece la următorul bloc?",
+        "options": [
+          "Blocul 'redă sunetul până la final'",
+          "Blocul 'pornește sunetul'",
+          "Blocul 'mergi'",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'redă sunetul până la final'"
+      },
+      {
+        "question": "Ce face blocul 'pornește sunetul'?",
+        "options": [
+          "Începe sunetul și trece imediat la următorul bloc",
+          "Așteaptă să se termine",
+          "Oprește sunetul",
+          "Schimbă volumul"
+        ],
+        "answer": "Începe sunetul și trece imediat la următorul bloc"
+      },
+      {
+        "question": "Putem înregistra propriul sunet?",
+        "options": [
+          "Da, folosind microfonul",
+          "Nu",
+          "Doar dacă avem un studio",
+          "Doar în Scratch Pro"
+        ],
+        "answer": "Da, folosind microfonul"
+      },
+      {
+        "question": "Cum oprim toate sunetele?",
+        "options": [
+          "Blocul 'oprește toate sunetele'",
+          "Închidem monitorul",
+          "Acoperim urechile",
+          "Apăsăm Esc"
+        ],
+        "answer": "Blocul 'oprește toate sunetele'"
+      },
+      {
+        "question": "Putem schimba volumul dintr-un script?",
+        "options": [
+          "Da, 'modifică volumul cu -10' sau 'setează la %'",
+          "Nu",
+          "Doar manual",
+          "Doar la început"
+        ],
+        "answer": "Da, 'modifică volumul cu -10' sau 'setează la %'"
+      },
+      {
+        "question": "Care este volumul maxim în Scratch?",
+        "options": [
+          "100%",
+          "50%",
+          "200%",
+          "1000%"
+        ],
+        "answer": "100%"
+      },
+      {
+        "question": "Ce este efectul de 'tonalitate' (pitch)?",
+        "options": [
+          "Schimbă cât de înalt sau jos sună vocea/muzica",
+          "Schimbă volumul",
+          "Schimbă culoarea",
+          "Schimbă personajul"
+        ],
+        "answer": "Schimbă cât de înalt sau jos sună vocea/muzica"
+      },
+      {
+        "question": "Ce face efectul 'panorare stânga/dreapta'?",
+        "options": [
+          "Mută sunetul în boxa stângă sau dreaptă",
+          "Mută personajul",
+          "Rotește ecranul",
+          "Șterge sunetul"
+        ],
+        "answer": "Mută sunetul în boxa stângă sau dreaptă"
+      },
+      {
+        "question": "Cum putem tăia un sunet?",
+        "options": [
+          "În editorul de sunete, selectăm și dăm Delete",
+          "Cu foarfeca pe cablu",
+          "Nu se poate",
+          "Închizând Scratch"
+        ],
+        "answer": "În editorul de sunete, selectăm și dăm Delete"
+      },
+      {
+        "question": "Ce face butonul 'Robot' din editorul de sunete?",
+        "options": [
+          "Aplică un efect de voce metalică",
+          "Adaugă un robot pe scenă",
+          "Oprește sunetul",
+          "Îl face mai rapid"
+        ],
+        "answer": "Aplică un efect de voce metalică"
+      },
+      {
+        "question": "Putem face un sunet să meargă invers (de la coadă la cap)?",
+        "options": [
+          "Da, butonul 'Invers' (Reverse)",
+          "Nu",
+          "Doar dacă rotim boxele",
+          "Doar marțea"
+        ],
+        "answer": "Da, butonul 'Invers' (Reverse)"
+      },
+      {
+        "question": "Ce este extensia 'Muzică'?",
+        "options": [
+          "Adaugă blocuri pentru instrumente și note muzicale",
+          "O aplicație nouă",
+          "Un CD",
+          "O eroare"
+        ],
+        "answer": "Adaugă blocuri pentru instrumente și note muzicale"
+      },
+      {
+        "question": "Cum alegem un instrument în extensia Muzică?",
+        "options": [
+          "Blocul 'setează instrumentul la [nume]'",
+          "Îl desenăm",
+          "Îl strigăm",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'setează instrumentul la [nume]'"
+      },
+      {
+        "question": "Ce face blocul 'cântă nota 60 timp de 0.25 timpi'?",
+        "options": [
+          "Redă o notă muzicală specifică",
+          "Numără până la 60",
+          "Așteaptă 60 de secunde",
+          "Șterge nota"
+        ],
+        "answer": "Redă o notă muzicală specifică"
+      },
+      {
+        "question": "Putem importa fișiere .mp3 în Scratch?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar .wav",
+          "Doar .txt"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce face butonul 'Mai tare' (Louder) în editor?",
+        "options": [
+          "Crește volumul fișierului audio",
+          "Crește volumul PC-ului",
+          "Mărește personajul",
+          "Nu face nimic"
+        ],
+        "answer": "Crește volumul fișierului audio"
+      },
+      {
+        "question": "Cum facem o melodie de fundal să se repete?",
+        "options": [
+          "la infinit -> redă sunetul până la final",
+          "la infinit -> pornește sunetul",
+          "repetă de 10 ori -> mergi",
+          "nu se poate"
+        ],
+        "answer": "la infinit -> redă sunetul până la final"
+      },
+      {
+        "question": "Ce este 'ritmul' (tempo) în extensia Muzică?",
+        "options": [
+          "Viteza cu care se succed notele",
+          "Volumul",
+          "Numele piesei",
+          "Culoarea"
+        ],
+        "answer": "Viteza cu care se succed notele"
+      },
+      {
+        "question": "Putem face sunetul să dispară treptat (fade out)?",
+        "options": [
+          "Da, folosind o buclă care scade volumul",
+          "Nu",
+          "Butonul magic",
+          "Închizând ochii"
+        ],
+        "answer": "Da, folosind o buclă care scade volumul"
+      },
+      {
+        "question": "Câte sunete poate avea un personaj?",
+        "options": [
+          "Oricâte (limita memoriei)",
+          "Maxim 1",
+          "Doar 5",
+          "Fix 10"
+        ],
+        "answer": "Oricâte (limita memoriei)"
+      },
+      {
+        "question": "Unde se află biblioteca de sunete?",
+        "options": [
+          "Butonul 'Alege un sunet' din tab-ul Sunete",
+          "Pe Google",
+          "În dulap",
+          "În Mișcare"
+        ],
+        "answer": "Butonul 'Alege un sunet' din tab-ul Sunete"
+      },
+      {
+        "question": "Ce face butonul 'Surpriză' la sunete?",
+        "options": [
+          "Adaugă un sunet la întâmplare",
+          "Șterge sunetele",
+          "Închide programul",
+          "Sperie utilizatorul"
+        ],
+        "answer": "Adaugă un sunet la întâmplare"
+      },
+      {
+        "question": "Ce este un 'sample' audio?",
+        "options": [
+          "O mostră scurtă de sunet",
+          "O eroare",
+          "Un instrument întreg",
+          "Un personaj"
+        ],
+        "answer": "O mostră scurtă de sunet"
+      },
+      {
+        "question": "De ce este important sunetul într-un joc?",
+        "options": [
+          "Pentru atmosferă și feedback (ex. când câștigi puncte)",
+          "Nu e important",
+          "Pentru a consuma baterie",
+          "Pentru a ocupa spațiu"
+        ],
+        "answer": "Pentru atmosferă și feedback (ex. când câștigi puncte)"
+      }
+    ],
+    "typing": [
+      "sunet",
+      "muzică",
+      "volum",
+      "notă",
+      "ritm",
+      "instrument",
+      "înregistrare",
+      "ecou",
+      "tonalitate",
+      "boxă"
+    ]
+  }
+}

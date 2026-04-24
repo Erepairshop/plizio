@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Depanare (Debugging)",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce înseamnă 'debugging' în programare?",
+        "options": [
+          "Identificarea și eliminarea erorilor din cod",
+          "Adăugarea insectelor în joc",
+          "Ștergerea programului",
+          "Scrierea codului cât mai repede"
+        ],
+        "answer": "Identificarea și eliminarea erorilor din cod"
+      },
+      {
+        "question": "Ce este un 'bug'?",
+        "options": [
+          "O eroare în program care produce rezultate greșite",
+          "O insectă pe monitor",
+          "Un personaj negativ",
+          "O variabilă"
+        ],
+        "answer": "O eroare în program care produce rezultate greșite"
+      },
+      {
+        "question": "Cum putem vedea ce valoare are o variabilă în timp ce rulează?",
+        "options": [
+          "O afișăm pe scenă sau ne uităm la paleta de variabile",
+          "Nu putem vedea",
+          "Strigăm la ea",
+          "O scriem pe hârtie"
+        ],
+        "answer": "O afișăm pe scenă sau ne uităm la paleta de variabile"
+      },
+      {
+        "question": "Ce face blocul 'spune [variabilă]' în depanare?",
+        "options": [
+          "Ne arată valoarea ei într-un balon de text",
+          "O citește cu voce tare",
+          "O șterge",
+          "O schimbă"
+        ],
+        "answer": "Ne arată valoarea ei într-un balon de text"
+      },
+      {
+        "question": "Care este primul pas în depanare?",
+        "options": [
+          "Reproducerea erorii (să vedem exact când se întâmplă)",
+          "Ștergerea codului",
+          "Plânsul",
+          "Închiderea PC-ului"
+        ],
+        "answer": "Reproducerea erorii (să vedem exact când se întâmplă)"
+      },
+      {
+        "question": "Ce înseamnă 'dry run' sau parcurgere manuală?",
+        "options": [
+          "Urmărirea blocurilor unul câte unul cu mintea",
+          "Uscarea monitorului",
+          "Rularea fără curent",
+          "Jocul pe uscat"
+        ],
+        "answer": "Urmărirea blocurilor unul câte unul cu mintea"
+      },
+      {
+        "question": "De ce e util să detașăm scripturi mari în bucăți mici?",
+        "options": [
+          "Pentru a vedea care parte exact nu funcționează",
+          "Pentru a le colora",
+          "Pentru a le pierde",
+          "Nu e util"
+        ],
+        "answer": "Pentru a vedea care parte exact nu funcționează"
+      },
+      {
+        "question": "Ce face un bloc strălucitor (glow) în Scratch?",
+        "options": [
+          "Arată că acel script rulează chiar acum",
+          "Arată o eroare",
+          "Arată că e selectat",
+          "Arată că e nou"
+        ],
+        "answer": "Arată că acel script rulează chiar acum"
+      },
+      {
+        "question": "Ce este o eroare de logică?",
+        "options": [
+          "Codul rulează dar nu face ce ne dorim",
+          "Codul nu rulează deloc",
+          "Calculatorul se stinge",
+          "Muzica e prea tare"
+        ],
+        "answer": "Codul rulează dar nu face ce ne dorim"
+      },
+      {
+        "question": "Ce este o eroare de sintaxă?",
+        "options": [
+          "În Scratch e greu de făcut (blocuri care nu se potrivesc)",
+          "Un cuvânt scris greșit",
+          "O problemă de matematică",
+          "O culoare greșită"
+        ],
+        "answer": "În Scratch e greu de făcut (blocuri care nu se potrivesc)"
+      },
+      {
+        "question": "Cum ne ajută comentariile în depanare?",
+        "options": [
+          "Explică ce ar trebui să facă codul",
+          "Ocupă spațiu",
+          "Fac codul mai frumos",
+          "Sunt sunete"
+        ],
+        "answer": "Explică ce ar trebui să facă codul"
+      },
+      {
+        "question": "Ce facem dacă personajul dispare de pe ecran?",
+        "options": [
+          "Verificăm coordonatele X/Y și blocul 'arată'",
+          "Cumpărăm alt monitor",
+          "Ștergem personajul",
+          "Ne uităm sub birou"
+        ],
+        "answer": "Verificăm coordonatele X/Y și blocul 'arată'"
+      },
+      {
+        "question": "Ce facem dacă un sunet nu se aude?",
+        "options": [
+          "Verificăm volumul, boxele și dacă blocul e conectat",
+          "Cumpărăm alte boxe",
+          "Strigăm la PC",
+          "Schimbăm decorul"
+        ],
+        "answer": "Verificăm volumul, boxele și dacă blocul e conectat"
+      },
+      {
+        "question": "Ce este 'Rubber Duck Debugging'?",
+        "options": [
+          "Explicarea codului unui obiect (ca o rățușcă) pentru a găsi eroarea",
+          "Spălarea rățuștei",
+          "Un joc cu rațe",
+          "O eroare de sunet"
+        ],
+        "answer": "Explicarea codului unui obiect (ca o rățușcă) pentru a găsi eroarea"
+      },
+      {
+        "question": "De ce e bine să cerem ajutorul unui coleg (Peer Review)?",
+        "options": [
+          "O pereche nouă de ochi vede erori pe care noi le ignorăm",
+          "Pentru a-i da lui tema",
+          "Pentru a vorbi",
+          "Nu e bine"
+        ],
+        "answer": "O pereche nouă de ochi vede erori pe care noi le ignorăm"
+      },
+      {
+        "question": "Ce facem dacă bucla 'la infinit' blochează tot?",
+        "options": [
+          "Adăugăm o mică pauză (așteaptă 0.01 sec)",
+          "O ștergem",
+          "Oprim calculatorul",
+          "Mărim viteza"
+        ],
+        "answer": "Adăugăm o mică pauză (așteaptă 0.01 sec)"
+      },
+      {
+        "question": "Cum verificăm ordinea blocurilor?",
+        "options": [
+          "Le citim de sus în jos pe rând",
+          "Le amestecăm",
+          "Le citim de jos în sus",
+          "Le privim de la distanță"
+        ],
+        "answer": "Le citim de sus în jos pe rând"
+      },
+      {
+        "question": "Ce este un 'workaround'?",
+        "options": [
+          "O soluție temporară care ocolește problema",
+          "O plimbare",
+          "O eroare rotundă",
+          "Un cerc"
+        ],
+        "answer": "O soluție temporară care ocolește problema"
+      },
+      {
+        "question": "Putem folosi 'anulează' (Undo) pentru a repara o greșeală?",
+        "options": [
+          "Da, CTRL+Z sau din meniul Edit",
+          "Nu",
+          "Doar dacă salvăm",
+          "Doar marțea"
+        ],
+        "answer": "Da, CTRL+Z sau din meniul Edit"
+      },
+      {
+        "question": "Ce facem dacă personajul atinge peretele dar nu se oprește?",
+        "options": [
+          "Verificăm dacă culoarea/senzorul e corect",
+          "Îl împingem cu mâna",
+          "Ștergem peretele",
+          "Schimbăm fundalul"
+        ],
+        "answer": "Verificăm dacă culoarea/senzorul e corect"
+      },
+      {
+        "question": "Ce este 'curățarea codului' (refactoring)?",
+        "options": [
+          "Rescrierea codului pentru a fi mai clar, fără a-i schimba funcția",
+          "Ștergerea codului",
+          "Colorarea ecranului",
+          "Spălarea mouse-ului"
+        ],
+        "answer": "Rescrierea codului pentru a fi mai clar, fără a-i schimba funcția"
+      },
+      {
+        "question": "Putem depana un proiect offline?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar cu internet",
+          "Doar la școală"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce este un 'crash'?",
+        "options": [
+          "Când programul se oprește brusc sau nu mai răspunde",
+          "Un accident de mașină",
+          "Un sunet de tobă",
+          "Un personaj nou"
+        ],
+        "answer": "Când programul se oprește brusc sau nu mai răspunde"
+      },
+      {
+        "question": "Este depanarea o parte normală a programării?",
+        "options": [
+          "Da, toți programatorii fac asta des",
+          "Nu, e doar pentru începători",
+          "Doar dacă ești neatent",
+          "Doar pentru profesori"
+        ],
+        "answer": "Da, toți programatorii fac asta des"
+      },
+      {
+        "question": "Ce simți când găsești un bug greu?",
+        "options": [
+          "Satisfacție și bucurie",
+          "Supărare",
+          "Nimic",
+          "Somn"
+        ],
+        "answer": "Satisfacție și bucurie"
+      }
+    ],
+    "typing": [
+      "depanare",
+      "eroare",
+      "bug",
+      "reparare",
+      "logică",
+      "testare",
+      "comentariu",
+      "valoare",
+      "verificare",
+      "soluție"
+    ]
+  }
+}

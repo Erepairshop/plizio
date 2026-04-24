@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Variables",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Variable' in programming?",
+      "options": [
+        "A container that stores a value",
+        "A type of sprite",
+        "A sound effect",
+        "A background"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a common use for a variable in a game?",
+      "options": [
+        "Keeping track of the score",
+        "Moving the cat",
+        "Changing the backdrop",
+        "Deleting the project"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block changes a variable's value?",
+      "options": [
+        "Change [my variable] by 1",
+        "Set [my variable] to 10",
+        "Both A and B",
+        "Neither"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you create new variables?",
+      "options": [
+        "Variables category",
+        "Control category",
+        "My Blocks",
+        "Settings"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Variable blocks?",
+      "options": [
+        "Dark Orange",
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Set score to 0' usually do?",
+      "options": [
+        "Resets the game",
+        "Increases the difficulty",
+        "Wins the game",
+        "Ends the program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a variable store words (text)?",
+      "options": [
+        "Yes",
+        "No, only numbers",
+        "Only in the pro version",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Global variable' vs 'Local variable'?",
+      "options": [
+        "Global is for all sprites, local is for one",
+        "Global is faster",
+        "Local is for sounds",
+        "There is no difference"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you show a variable on the stage?",
+      "options": [
+        "Check the box next to its name",
+        "Type its name on the screen",
+        "Click the cat",
+        "Wait 10 seconds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Hide variable' do?",
+      "options": [
+        "Removes it from the stage",
+        "Deletes it forever",
+        "Makes it zero",
+        "Changes its name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you name a variable 'Health'?",
+      "options": [
+        "Yes, you can name them anything",
+        "No, it must be 'Variable 1'",
+        "Only in English",
+        "No numbers allowed"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you 'Change [X] by -1'?",
+      "options": [
+        "It decreases by 1",
+        "It increases by 1",
+        "It stays the same",
+        "It turns into a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Cloud Variable'?",
+      "options": [
+        "A variable saved on Scratch servers",
+        "A variable shaped like a cloud",
+        "A variable for weather",
+        "A hidden variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a variable in a 'Move' block?",
+      "options": [
+        "Yes, like 'Move [Speed] steps'",
+        "No, only numbers",
+        "Only for rotation",
+        "Only in My Blocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Slider' on a variable for?",
+      "options": [
+        "Letting the user change value by dragging",
+        "Changing the volume",
+        "Scrolling the code",
+        "Winning the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you delete a variable that is being used?",
+      "options": [
+        "The blocks using it disappear or error",
+        "Nothing happens",
+        "The project is deleted",
+        "The cat cries"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a variable be negative (like -5)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for score",
+        "Only for timer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block category is 'Set [variable] to 0' in?",
+      "options": [
+        "Variables",
+        "Control",
+        "Operations",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of 'Rename variable'?",
+      "options": [
+        "To make the code clearer",
+        "To reset the score",
+        "To make it faster",
+        "To hide it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Initialization'?",
+      "options": [
+        "Setting starting values at the beginning",
+        "Ending the game",
+        "Naming a sprite",
+        "Drawing a costume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can variables be used in calculations (like X + 5)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for health",
+        "Only in sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if two sprites use the same global variable?",
+      "options": [
+        "They both see and can change the same value",
+        "They get their own copies",
+        "The project crashes",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you see variable values in the editor while playing?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in full screen",
+        "Only if you are logged in"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a variable block?",
+      "options": [
+        "Move 10 steps",
+        "Set health to 100",
+        "Change score by 1",
+        "Show variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the default name for the first variable?",
+      "options": [
+        "my variable",
+        "Score",
+        "X",
+        "Var"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Variable",
+      "answer": "Variable"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Score",
+      "answer": "Score"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Health",
+      "answer": "Health"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Value",
+      "answer": "Value"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Store",
+      "answer": "Store"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Global",
+      "answer": "Global"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Local",
+      "answer": "Local"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Slider",
+      "answer": "Slider"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Number",
+      "answer": "Number"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Text",
+      "answer": "Text"
+    }
+  ]
+}

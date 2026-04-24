@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Future of Technology",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'AI' (Artificial Intelligence)?",
+      "options": [
+        "Computers that can 'learn' and solve problems",
+        "A type of robot only",
+        "A space alien",
+        "A hidden code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Self-Driving Car'?",
+      "options": [
+        "A car that uses sensors and AI to drive itself",
+        "A toy car",
+        "A car with a pilot",
+        "A flying car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'VR' (Virtual Reality)?",
+      "options": [
+        "A digital world you experience through a headset",
+        "A type of screen",
+        "A real place",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'AR' (Augmented Reality)?",
+      "options": [
+        "Digital things layered on top of the real world",
+        "A type of game",
+        "A sound effect",
+        "A hidden sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Robotics'?",
+      "options": [
+        "Building and programming robots",
+        "Playing with toys",
+        "Deleting code",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Smart Home'?",
+      "options": [
+        "A home where devices are connected to the net",
+        "A home with many books",
+        "A small home",
+        "A home in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is '3D Printing'?",
+      "options": [
+        "Creating physical objects from digital models",
+        "Printing on paper",
+        "A type of photo",
+        "Drawing in Scratch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Space Exploration' tech?",
+      "options": [
+        "Rockets and probes that explore the universe",
+        "A type of game",
+        "A telescope",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Renewable Energy' in tech?",
+      "options": [
+        "Tech that uses sun or wind for power",
+        "A battery",
+        "A type of code",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Smartwatch'?",
+      "options": [
+        "A wearable computer on your wrist",
+        "A regular clock",
+        "A phone",
+        "A sprite name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is tech always changing?",
+      "options": [
+        "Yes, very fast",
+        "No, it stays the same",
+        "Only on Tuesdays",
+        "Only in the USA"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Telemedicine'?",
+      "options": [
+        "Seeing a doctor through a video call",
+        "A type of medicine",
+        "A TV show",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cloud Computing'?",
+      "options": [
+        "Using the internet to run programs and store data",
+        "Weather prediction",
+        "A type of screen",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Quantum Computing'?",
+      "options": [
+        "A super fast future computer type",
+        "Small computers",
+        "A type of game",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bio-technology'?",
+      "options": [
+        "Combining biology and technology",
+        "A type of robot",
+        "A sound effect",
+        "A sprite look"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it important to keep learning about tech?",
+      "options": [
+        "Yes, to understand the future world",
+        "No, I know enough",
+        "Only for adults",
+        "Only for scientists"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Drones' tech?",
+      "options": [
+        "Flying robots controlled remotely or by AI",
+        "A type of bird",
+        "A music sound",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Hologram'?",
+      "options": [
+        "A 3D digital image in the air",
+        "A photo",
+        "A type of code",
+        "A sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Encryption' for in the future?",
+      "options": [
+        "Keeping data safe from hackers",
+        "Deleting data",
+        "Printing data",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Sustainability' in tech?",
+      "options": [
+        "Tech that is good for the environment",
+        "Fast tech",
+        "Expensive tech",
+        "Loud tech"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Could robots help us clean the ocean?",
+      "options": [
+        "Yes, that's a possible use",
+        "No, they hate water",
+        "Only if they are fish",
+        "Only on Mondays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Algorithm'?",
+      "options": [
+        "A set of rules for a computer to follow",
+        "A type of math",
+        "A sprite name",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Innovation'?",
+      "options": [
+        "Creating new and better things",
+        "Copying others",
+        "Deleting code",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Will you create the technology of the future?",
+      "options": [
+        "Yes, I can!",
+        "Maybe",
+        "No",
+        "I'm a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the most powerful tool in tech?",
+      "options": [
+        "Your imagination and creativity",
+        "The CPU",
+        "The monitor",
+        "The mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Future",
+      "answer": "Future"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smart",
+      "answer": "Smart"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Robot",
+      "answer": "Robot"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Space",
+      "answer": "Space"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Power",
+      "answer": "Power"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Dream",
+      "answer": "Dream"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Build",
+      "answer": "Build"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Idea",
+      "answer": "Idea"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: World",
+      "answer": "World"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Online Research",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Search Engine'?",
+      "options": [
+        "A website used to find information (Google, Bing)",
+        "A car part",
+        "A type of virus",
+        "A computer monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'Keywords'?",
+      "options": [
+        "Important words used to search",
+        "Keys on your keyboard",
+        "Passwords",
+        "Secret codes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is everything you find on the internet true?",
+      "options": [
+        "No, you should always check multiple sources",
+        "Yes, always",
+        "Only on Google",
+        "Only on Wikipedia"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Citing a Source'?",
+      "options": [
+        "Giving credit to where you found information",
+        "Deleting information",
+        "Winning a game",
+        "Naming a file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Wikipedia'?",
+      "options": [
+        "A free online encyclopedia",
+        "A search engine",
+        "A social media site",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does '.edu' in a URL usually mean?",
+      "options": [
+        "Educational institution",
+        "Business",
+        "Government",
+        "Fun site"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does '.gov' in a URL mean?",
+      "options": [
+        "Government website",
+        "Great online video",
+        "German official",
+        "Goal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fact Checking'?",
+      "options": [
+        "Verifying if information is correct",
+        "Drawing a check mark",
+        "Buying a book",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why use quotation marks \" \" in a search?",
+      "options": [
+        "To search for an exact phrase",
+        "To make it louder",
+        "To hide the words",
+        "To find images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Plagiarism'?",
+      "options": [
+        "Copying someone else's work and saying it's yours",
+        "A type of medicine",
+        "A computer part",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'URL'?",
+      "options": [
+        "The address of a website (Web address)",
+        "A type of computer",
+        "A user name",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use only one website for research?",
+      "options": [
+        "No, it's better to use several reliable ones",
+        "Yes, if it's the first result",
+        "Only for history",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Reliable Source'?",
+      "options": [
+        "A trustworthy website with accurate info",
+        "A random blog",
+        "A social media post",
+        "The loudest website"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Information Overload'?",
+      "options": [
+        "Having too much information to process",
+        "Downloading a big file",
+        "Winning a game",
+        "A computer error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bookmark' in a browser?",
+      "options": [
+        "Saving a website to find it easily later",
+        "A physical book part",
+        "A type of code",
+        "A sprite name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'WWW' stand for?",
+      "options": [
+        "World Wide Web",
+        "Wide World Window",
+        "World Web Work",
+        "Who What Where"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Digital Literacy'?",
+      "options": [
+        "Ability to find, evaluate, and use info online",
+        "Knowing how to type fast",
+        "Drawing on computer",
+        "Playing games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bias'?",
+      "options": [
+        "A one-sided point of view",
+        "A type of variable",
+        "A sound effect",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a website looks suspicious?",
+      "options": [
+        "Close it and don't download anything",
+        "Click all the links",
+        "Give them your name",
+        "Restart the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Hyperlink'?",
+      "options": [
+        "A clickable link to another page",
+        "A fast computer",
+        "A superhero",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can images be used in research?",
+      "options": [
+        "Yes, they can provide visual evidence",
+        "No, only text",
+        "Only in the pro version",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Abstract' in research?",
+      "options": [
+        "A short summary of a long article",
+        "Art",
+        "A mistake",
+        "A variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Currency' in research context?",
+      "options": [
+        "How up-to-date the information is",
+        "Money",
+        "A type of code",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'YouTube' a research tool?",
+      "options": [
+        "Yes, for educational videos",
+        "No, only for entertainment",
+        "Only for music",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fair Use'?",
+      "options": [
+        "Legal right to use parts of copyrighted work",
+        "Winning fairly",
+        "A fun fair",
+        "Using a computer fairly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Search",
+      "answer": "Search"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Online",
+      "answer": "Online"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Info",
+      "answer": "Info"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Find",
+      "answer": "Find"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Source",
+      "answer": "Source"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Check",
+      "answer": "Check"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Topic",
+      "answer": "Topic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Web",
+      "answer": "Web"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: True",
+      "answer": "True"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Read",
+      "answer": "Read"
+    }
+  ]
+}

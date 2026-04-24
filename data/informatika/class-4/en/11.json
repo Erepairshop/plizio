@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Loops",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Loop' in programming?",
+      "options": [
+        "A way to repeat code multiple times",
+        "A type of variable",
+        "A sound effect",
+        "A circle on the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block repeats code a specific number of times?",
+      "options": [
+        "Repeat [10]",
+        "Forever",
+        "Once",
+        "Wait until"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block repeats code endlessly?",
+      "options": [
+        "Forever",
+        "Repeat [1000]",
+        "While",
+        "Keep going"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you stop a 'Forever' loop?",
+      "options": [
+        "Click the Red Stop sign",
+        "Use the 'Stop all' block",
+        "Both A and B",
+        "It never stops"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Repeat until [ ]' do?",
+      "options": [
+        "Loops until a condition is true",
+        "Loops once and stops",
+        "Wait for 1 second",
+        "Repeats until the cat dies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where are loop blocks located?",
+      "options": [
+        "Control category",
+        "Events category",
+        "Motion category",
+        "Sensing category"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put an 'If' block inside a 'Forever' loop?",
+      "options": [
+        "Yes, very common",
+        "No",
+        "Only on Tuesdays",
+        "Only if it is blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Infinite Loop'?",
+      "options": [
+        "A loop that never ends",
+        "A loop that runs 100 times",
+        "A loop with an error",
+        "A loop for music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to blocks AFTER a 'Forever' loop in the same script?",
+      "options": [
+        "They never run because the loop doesn't end",
+        "They run first",
+        "They run at the same time",
+        "The cat eats them"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the number in a 'Repeat [10]' block?",
+      "options": [
+        "Yes, to any number",
+        "No, it is always 10",
+        "Only to 20",
+        "Only using a variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Iteration'?",
+      "options": [
+        "One single pass through a loop",
+        "Naming a variable",
+        "Deleting a sprite",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block would you use for a walking animation?",
+      "options": [
+        "Repeat or Forever",
+        "Once",
+        "If-Then",
+        "Stop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a loop inside another loop?",
+      "options": [
+        "Yes, this is called 'nested loops'",
+        "No",
+        "Only for My Blocks",
+        "Only for sounds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Control blocks?",
+      "options": [
+        "Gold / Orange",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why use 'Repeat until' instead of 'Forever'?",
+      "options": [
+        "To stop when a goal is reached",
+        "To make it faster",
+        "To save memory",
+        "To change colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of 'Stop this script' block?",
+      "options": [
+        "Ends the current script only",
+        "Stops the whole game",
+        "Restarts the computer",
+        "Deletes the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many times does 'Repeat 5' run?",
+      "options": [
+        "5 times",
+        "6 times",
+        "Infinite",
+        "0 times"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a variable as the number for 'Repeat [ ]'?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is a list",
+        "Only in Scratch Jr"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'C-block'?",
+      "options": [
+        "A block shaped like a C that holds other blocks",
+        "A block for cats",
+        "A block for colors",
+        "A circle block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does 'Forever' have a connector at the bottom?",
+      "options": [
+        "No, because nothing can run after it",
+        "Yes",
+        "Only in Scratch 2.0",
+        "Only for experts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a loop block?",
+      "options": [
+        "Move 10 steps",
+        "Forever",
+        "Repeat 10",
+        "Repeat until"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you have an empty 'Forever' loop?",
+      "options": [
+        "It does nothing but stays active",
+        "The project crashes",
+        "The cat spins",
+        "It turns red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block would you use for a timer?",
+      "options": [
+        "Repeat or Forever",
+        "Wait 1 sec",
+        "Both A and B",
+        "Say timer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Can you stop just one sprite's scripts?",
+      "options": [
+        "Yes, 'Stop other scripts in sprite'",
+        "No, only 'Stop all'",
+        "Only by hiding it",
+        "Only if it's the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'While' available as a separate block in Scratch?",
+      "options": [
+        "No, we use 'Repeat until' with 'Not'",
+        "Yes, in the sensing tab",
+        "Yes, in the control tab",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Loop",
+      "answer": "Loop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Repeat",
+      "answer": "Repeat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Forever",
+      "answer": "Forever"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Control",
+      "answer": "Control"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Until",
+      "answer": "Until"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Nested",
+      "answer": "Nested"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Cycle",
+      "answer": "Cycle"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Iteration",
+      "answer": "Iteration"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stop",
+      "answer": "Stop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Action",
+      "answer": "Action"
+    }
+  ]
+}

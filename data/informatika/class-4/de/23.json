@@ -1,0 +1,58 @@
+{
+  "class": 4,
+  "theme": "Speicherplatz und Dateitypen",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_23_1",
+      "type": "mcq",
+      "question": "Dateiendung Bilder?",
+      "options": [
+        ".jpg / .png",
+        ".txt",
+        ".mp3",
+        ".exe"
+      ],
+      "answer": ".jpg / .png",
+      "explanation": "Grafikformate."
+    },
+    {
+      "id": "mcq_23_2",
+      "type": "mcq",
+      "question": "Größte Einheit?",
+      "options": [
+        "Terabyte",
+        "Megabyte",
+        "Kilobyte",
+        "Bit"
+      ],
+      "answer": "Terabyte",
+      "explanation": "Sehr viel Platz."
+    },
+    {
+      "id": "typing_23_1",
+      "type": "typing",
+      "text": "Ein Gigabyte besteht aus eintausend Megabyte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "mcq_23_25",
+      "type": "mcq",
+      "question": "Was ist ein Bit?",
+      "options": [
+        "Kleinste Info (0/1)",
+        "Ein Biss",
+        "Ein Spiel",
+        "Zufall"
+      ],
+      "answer": "Kleinste Info (0/1)",
+      "explanation": "Basis."
+    },
+    {
+      "id": "typing_23_10",
+      "type": "typing",
+      "text": "Ich ordne meine Dateien in übersichtlichen Ordnern an.",
+      "difficulty": "medium"
+    }
+  ]
+}

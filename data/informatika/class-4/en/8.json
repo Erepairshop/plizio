@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Lists",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'List' in Scratch?",
+      "options": [
+        "A collection of multiple items",
+        "A single variable",
+        "A type of sprite",
+        "A background image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you add an item to a list?",
+      "options": [
+        "Add [item] to [list]",
+        "Set [list] to [item]",
+        "Change [list] by 1",
+        "Show [list]"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'index' of an item in a list?",
+      "options": [
+        "Its position number",
+        "Its name",
+        "Its color",
+        "Its size"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the index of the first item in a Scratch list?",
+      "options": [
+        "1",
+        "0",
+        "A",
+        "Start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block removes an item from a list?",
+      "options": [
+        "Delete [1] of [list]",
+        "Remove [item]",
+        "Clear [list]",
+        "Subtract"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Length of [list]' tell you?",
+      "options": [
+        "How many items are in the list",
+        "How wide the list is on stage",
+        "How long the words are",
+        "The volume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a list store both numbers and text?",
+      "options": [
+        "Yes",
+        "No, only numbers",
+        "No, only text",
+        "Only in Scratch 2.0"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block checks if an item is in a list?",
+      "options": [
+        "[list] contains [thing]?",
+        "Is [thing] in [list]?",
+        "Find [thing]",
+        "Search [list]"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you empty an entire list?",
+      "options": [
+        "Delete all of [list]",
+        "Empty [list]",
+        "Set [list] to nothing",
+        "Add nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are List blocks?",
+      "options": [
+        "Dark Red / Crimson",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you hide a list from the stage?",
+      "options": [
+        "Yes, using 'Hide list' block",
+        "No, it is always there",
+        "Only by deleting it",
+        "Only if it is empty"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Insert [thing] at [1] of [list]' do?",
+      "options": [
+        "Adds thing at the start and shifts others",
+        "Overwrites the first item",
+        "Adds thing to the end",
+        "Deletes the list"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category are Lists in?",
+      "options": [
+        "Variables",
+        "Control",
+        "Operations",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you ask for 'Item 10' of a list with only 5 items?",
+      "options": [
+        "It returns empty (nothing)",
+        "It crashes the project",
+        "It gives you item 5",
+        "It gives you item 1"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you import a text file into a Scratch list?",
+      "options": [
+        "Yes, by right-clicking the list on stage",
+        "No, you must type every item",
+        "Only with code",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'List' used for in an Inventory system?",
+      "options": [
+        "Storing collected items",
+        "Moving the player",
+        "Playing music",
+        "Saving the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can two lists have the same name?",
+      "options": [
+        "No, it would be confusing",
+        "Yes",
+        "Only if they are in different sprites",
+        "Only on Tuesdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Replace item [1] of [list] with [thing]' do?",
+      "options": [
+        "Changes item 1 to thing",
+        "Adds thing at position 1",
+        "Deletes item 1",
+        "Swaps item 1 and 2"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a List block?",
+      "options": [
+        "Add [ ] to [list]",
+        "Move 10 steps",
+        "If on edge, bounce",
+        "Say Hello"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the maximum number of items in a Scratch list?",
+      "options": [
+        "200,000",
+        "100",
+        "1,000",
+        "Infinite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a variable as an index for a list?",
+      "options": [
+        "Yes, very common",
+        "No, only numbers",
+        "Only for sound",
+        "Only in My Blocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to a list when the project stops?",
+      "options": [
+        "It keeps its items",
+        "It resets to empty",
+        "It gets deleted",
+        "It turns into a variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can lists be 'Cloud' lists?",
+      "options": [
+        "Not directly, but you can simulate them",
+        "Yes, always",
+        "Only for developers",
+        "No"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you show a list monitor on the stage?",
+      "options": [
+        "Check the box in Variables category",
+        "Click the Stage",
+        "Type 'List'",
+        "Wait 10 seconds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block tells you the position of a specific item?",
+      "options": [
+        "Item # of [thing] in [list]",
+        "Where is [thing]?",
+        "Find [thing]",
+        "Get pos [thing]"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: List",
+      "answer": "List"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Item",
+      "answer": "Item"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Add",
+      "answer": "Add"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Delete",
+      "answer": "Delete"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Length",
+      "answer": "Length"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Insert",
+      "answer": "Insert"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Replace",
+      "answer": "Replace"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Contains",
+      "answer": "Contains"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Index",
+      "answer": "Index"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Data",
+      "answer": "Data"
+    }
+  ]
+}

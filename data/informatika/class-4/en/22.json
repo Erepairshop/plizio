@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Ethical Issues",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'Ethics' in technology?",
+      "options": [
+        "Knowing what is right and wrong when using tech",
+        "Knowing how to fix a PC",
+        "Knowing how to play games",
+        "Knowing how to draw"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to copy someone else's Scratch project and say it's yours?",
+      "options": [
+        "No, that is plagiarism",
+        "Yes, if I like it",
+        "Only if I change the color",
+        "Only if I am a kid"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you see someone being bullied online?",
+      "options": [
+        "Tell a teacher or parent",
+        "Join in",
+        "Do nothing",
+        "Laugh"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Netiquette'?",
+      "options": [
+        "Rules for being polite online",
+        "A type of computer net",
+        "A game",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it ethical to peek at someone's private messages?",
+      "options": [
+        "No, it's a violation of privacy",
+        "Yes, if I'm curious",
+        "Only if I'm a friend",
+        "Only at school"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Digital Divide'?",
+      "options": [
+        "The gap between people with and without internet access",
+        "A type of math",
+        "A computer part",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you ask for permission before posting a photo of a friend?",
+      "options": [
+        "Yes, it is respectful",
+        "No, it's my phone",
+        "Only if they are famous",
+        "Only if they look bad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Copyright'?",
+      "options": [
+        "Legal protection for creators of original work",
+        "Copying correctly",
+        "Right side of a book",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to download movies for free from illegal sites?",
+      "options": [
+        "No, it hurts the creators",
+        "Yes, everyone does it",
+        "Only if I have no money",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Inclusion' in technology?",
+      "options": [
+        "Making sure everyone can use and access tech",
+        "Adding more sprites",
+        "Including sounds",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'E-waste'?",
+      "options": [
+        "Discarded electronic devices that can hurt the environment",
+        "Electric food",
+        "A type of code",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it ethical to use AI to write your whole school essay?",
+      "options": [
+        "No, it's cheating unless allowed",
+        "Yes, it is smart",
+        "Only if I am lazy",
+        "Only in college"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fair Use'?",
+      "options": [
+        "Using small parts of work for education or news",
+        "Winning a game fairly",
+        "A fun fair",
+        "Using a PC for an hour"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Online Reputation'?",
+      "options": [
+        "How others see you based on your online actions",
+        "A type of score",
+        "A variable name",
+        "A sprite look"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you believe every 'Review' you read online?",
+      "options": [
+        "No, some might be fake or biased",
+        "Yes, always",
+        "Only if they have 5 stars",
+        "Only for games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Screen Time'?",
+      "options": [
+        "Amount of time spent using devices",
+        "The size of the screen",
+        "The speed of the cat",
+        "A timer variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to 'Prank' someone online?",
+      "options": [
+        "Only if it is harmless and they find it funny too",
+        "Yes, always",
+        "No, never",
+        "Only if I am bored"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Self-Regulation'?",
+      "options": [
+        "Knowing when to stop using tech and take a break",
+        "Fixing the computer",
+        "Naming a sprite",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Media Balance'?",
+      "options": [
+        "Balancing time between tech and other activities",
+        "Weighting the monitor",
+        "A type of code",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can your online words hurt someone's feelings?",
+      "options": [
+        "Yes, words are powerful",
+        "No, it's just the internet",
+        "Only if they are sensitive",
+        "Only in English"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Global Citizenship'?",
+      "options": [
+        "Understanding you are part of a worldwide online community",
+        "Living in many countries",
+        "Being a robot",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you report a bug if you find one in someone's project?",
+      "options": [
+        "Yes, it helps them improve",
+        "No, laugh at them",
+        "Only if it is my friend",
+        "Only if I get paid"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use 'Cheats' in multiplayer games?",
+      "options": [
+        "No, it makes it unfair for others",
+        "Yes, if I want to win",
+        "Only if I don't get caught",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Responsibility'?",
+      "options": [
+        "Being accountable for your actions online",
+        "Having a big job",
+        "Fixed the computer",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is technology neutral?",
+      "options": [
+        "No, it depends on how we choose to use it",
+        "Yes, always",
+        "Only if it is off",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Ethics",
+      "answer": "Ethics"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Right",
+      "answer": "Right"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wrong",
+      "answer": "Wrong"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Kind",
+      "answer": "Kind"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fair",
+      "answer": "Fair"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Truth",
+      "answer": "Truth"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Respect",
+      "answer": "Respect"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Share",
+      "answer": "Share"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Think",
+      "answer": "Think"
+    }
+  ]
+}

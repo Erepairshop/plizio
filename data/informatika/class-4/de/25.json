@@ -1,0 +1,58 @@
+{
+  "class": 4,
+  "theme": "Zusammenfassung K4",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_25_1",
+      "type": "mcq",
+      "question": "K4 geschafft?",
+      "options": [
+        "Ja, bereit für K5!",
+        "Nein",
+        "Fast",
+        "Zufall"
+      ],
+      "answer": "Ja, bereit für K5!",
+      "explanation": "Glückwunsch."
+    },
+    {
+      "id": "mcq_25_2",
+      "type": "mcq",
+      "question": "Wichtigstes Tool?",
+      "options": [
+        "Logik",
+        "Glück",
+        "Hammer",
+        "Wasser"
+      ],
+      "answer": "Logik",
+      "explanation": "Basis IT."
+    },
+    {
+      "id": "typing_25_1",
+      "type": "typing",
+      "text": "Ich bin nun ein kleiner Profi in der Informatik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "mcq_25_25",
+      "type": "mcq",
+      "question": "Informatik ist ...?",
+      "options": [
+        "Überall",
+        "Nirgends",
+        "Nur im PC",
+        "Zufall"
+      ],
+      "answer": "Überall",
+      "explanation": "Unsere Zukunft."
+    },
+    {
+      "id": "typing_25_10",
+      "type": "typing",
+      "text": "Das war das Schuljahr vier im Bereich Technik und IT.",
+      "difficulty": "medium"
+    }
+  ]
+}

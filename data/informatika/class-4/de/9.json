@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Eigene Blöcke (Funktionen)",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_9_1",
+      "type": "mcq",
+      "question": "Warum eigene Blöcke?",
+      "options": [
+        "Ordnung/Wiederholung",
+        "Nur Deko",
+        "Macht PC schneller",
+        "Zufall"
+      ],
+      "answer": "Ordnung/Wiederholung",
+      "explanation": "Struktur schaffen."
+    },
+    {
+      "id": "mcq_9_2",
+      "type": "mcq",
+      "question": "Wo erstellt man sie?",
+      "options": [
+        "Meine Blöcke",
+        "Bewegung",
+        "Sound",
+        "Löschen"
+      ],
+      "answer": "Meine Blöcke",
+      "explanation": "Pinke Kategorie."
+    },
+    {
+      "id": "mcq_9_3",
+      "type": "mcq",
+      "question": "Was ist 'Definiere'?",
+      "options": [
+        "Inhalt festlegen",
+        "Starten",
+        "Stoppen",
+        "Malen"
+      ],
+      "answer": "Inhalt festlegen",
+      "explanation": "Was der Block tut."
+    },
+    {
+      "id": "mcq_9_4",
+      "type": "mcq",
+      "question": "Kann man Werte übergeben?",
+      "options": [
+        "Ja, Argumente/Inputs",
+        "Nein",
+        "Nur am Montag",
+        "Nur Profis"
+      ],
+      "answer": "Ja, Argumente/Inputs",
+      "explanation": "Zahlen oder Text."
+    },
+    {
+      "id": "mcq_9_5",
+      "type": "mcq",
+      "question": "Ohne Bildschirmaktualisierung?",
+      "options": [
+        "Läuft blitzschnell",
+        "Läuft langsam",
+        "Läuft gar nicht",
+        "Blinkt"
+      ],
+      "answer": "Läuft blitzschnell",
+      "explanation": "Für Turbo-Aktionen."
+    },
+    {
+      "id": "mcq_9_6",
+      "type": "mcq",
+      "question": "Name eines Blocks?",
+      "options": [
+        "Sinnvoll wählen",
+        "Nur 'Block'",
+        "Zufall",
+        "Gar keiner"
+      ],
+      "answer": "Sinnvoll wählen",
+      "explanation": "Zum Beispiel 'Springe'."
+    },
+    {
+      "id": "mcq_9_7",
+      "type": "mcq",
+      "question": "Wie nutzt man den Block?",
+      "options": [
+        "In Skripte ziehen",
+        "Nur anschauen",
+        "Wegwerfen",
+        "Draufklicken"
+      ],
+      "answer": "In Skripte ziehen",
+      "explanation": "Wie ein normaler Block."
+    },
+    {
+      "id": "mcq_9_8",
+      "type": "mcq",
+      "question": "Sparen eigene Blöcke Platz?",
+      "options": [
+        "Ja, weniger Wiederholungen",
+        "Nein",
+        "Gleich viel",
+        "Zufall"
+      ],
+      "answer": "Ja, weniger Wiederholungen",
+      "explanation": "Abstraktion."
+    },
+    {
+      "id": "mcq_9_9",
+      "type": "mcq",
+      "question": "Was ist eine Funktion?",
+      "options": [
+        "Programmierbaustein",
+        "Ein Fest",
+        "Eine Party",
+        "Ein PC"
+      ],
+      "answer": "Programmierbaustein",
+      "explanation": "Anderes Wort."
+    },
+    {
+      "id": "mcq_9_10",
+      "type": "mcq",
+      "question": "Kann man Blöcke bearbeiten?",
+      "options": [
+        "Ja, jederzeit",
+        "Nein",
+        "Nur am Anfang",
+        "Nur Ende"
+      ],
+      "answer": "Ja, jederzeit",
+      "explanation": "Rechtsklick -> Bearbeiten."
+    },
+    {
+      "id": "mcq_9_11",
+      "type": "mcq",
+      "question": "Farbe Eigene Blöcke?",
+      "options": [
+        "Pink",
+        "Lila",
+        "Blau",
+        "Grün"
+      ],
+      "answer": "Pink",
+      "explanation": "Leicht zu finden."
+    },
+    {
+      "id": "mcq_9_12",
+      "type": "mcq",
+      "question": "Eingabe 'Zahl'? ",
+      "options": [
+        "Feld für Ziffern",
+        "Feld für Töne",
+        "Feld für Bilder",
+        "Feld für Mausklicks"
+      ],
+      "answer": "Feld für Ziffern",
+      "explanation": "Für Berechnungen."
+    },
+    {
+      "id": "mcq_9_13",
+      "type": "mcq",
+      "question": "Eingabe 'Text'?",
+      "options": [
+        "Feld für Wörter",
+        "Feld für Töne",
+        "Feld für Farben",
+        "Feld für Fehler"
+      ],
+      "answer": "Feld für Wörter",
+      "explanation": "Für Sprache."
+    },
+    {
+      "id": "mcq_9_14",
+      "type": "mcq",
+      "question": "Eingabe 'Boolean'?",
+      "options": [
+        "Wahr/Falsch Frage",
+        "Zahl",
+        "Text",
+        "Bild"
+      ],
+      "answer": "Wahr/Falsch Frage",
+      "explanation": "Sechseckiges Feld."
+    },
+    {
+      "id": "mcq_9_15",
+      "type": "mcq",
+      "question": "Was ist ein Label?",
+      "options": [
+        "Beschriftung im Block",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Beschriftung im Block",
+      "explanation": "Damit man ihn liest."
+    },
+    {
+      "id": "mcq_9_16",
+      "type": "mcq",
+      "question": "Kann ein Block sich selbst aufrufen?",
+      "options": [
+        "Ja (Rekursion)",
+        "Nein",
+        "Nur am Sonntag",
+        "Zufall"
+      ],
+      "answer": "Ja (Rekursion)",
+      "explanation": "Vorsicht vor Endlosschleifen."
+    },
+    {
+      "id": "mcq_9_17",
+      "type": "mcq",
+      "question": "Werden sie gespeichert?",
+      "options": [
+        "Ja, im Projekt",
+        "Nein",
+        "Nur am PC",
+        "Nur im USB"
+      ],
+      "answer": "Ja, im Projekt",
+      "explanation": "Sie gehören dazu."
+    },
+    {
+      "id": "mcq_9_18",
+      "type": "mcq",
+      "question": "Sind sie in allen Sprites?",
+      "options": [
+        "Nur im Ersteller-Sprite",
+        "Überall",
+        "Nur im Hintergrund",
+        "Nirgends"
+      ],
+      "answer": "Nur im Ersteller-Sprite",
+      "explanation": "Sie sind lokal."
+    },
+    {
+      "id": "mcq_9_19",
+      "type": "mcq",
+      "question": "Können sie Töne abspielen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Musik",
+        "Nur Lärm"
+      ],
+      "answer": "Ja",
+      "explanation": "Jeder Befehl geht."
+    },
+    {
+      "id": "mcq_9_20",
+      "type": "mcq",
+      "question": "Können sie malen?",
+      "options": [
+        "Ja, mit Stift-Erweiterung",
+        "Nein",
+        "Nur mit Kreide",
+        "Nur am Papier"
+      ],
+      "answer": "Ja, with Stift-Erweiterung",
+      "explanation": "Mal-Funktionen gehen."
+    },
+    {
+      "id": "mcq_9_21",
+      "type": "mcq",
+      "question": "Was ist Modularität?",
+      "options": [
+        "In Teile zerlegen",
+        "Alles zusammen",
+        "PC kaputt",
+        "Ton aus"
+      ],
+      "answer": "In Teile zerlegen",
+      "explanation": "Vorteil von Funktionen."
+    },
+    {
+      "id": "mcq_9_22",
+      "type": "mcq",
+      "question": "Kann man Blöcke löschen?",
+      "options": [
+        "Nur wenn ungenutzt",
+        "Immer",
+        "Nie",
+        "Zufall"
+      ],
+      "answer": "Nur wenn ungenutzt",
+      "explanation": "Erst aus Skripten entfernen."
+    },
+    {
+      "id": "mcq_9_23",
+      "type": "mcq",
+      "question": "Was macht 'Definiere Springe'?",
+      "options": [
+        "Erklärt das Springen",
+        "Lässt PC hüpfen",
+        "Macht Musik",
+        "Endet Spiel"
+      ],
+      "answer": "Erklärt das Springen",
+      "explanation": "Befehlskette."
+    },
+    {
+      "id": "mcq_9_24",
+      "type": "mcq",
+      "question": "Eigene Blöcke für Anfänger?",
+      "options": [
+        "Ja, sehr nützlich",
+        "Nein, zu schwer",
+        "Nur für Studenten",
+        "Zufall"
+      ],
+      "answer": "Ja, sehr nützlich",
+      "explanation": "Gute Gewohnheit."
+    },
+    {
+      "id": "mcq_9_25",
+      "type": "mcq",
+      "question": "Was ist eine Prozedur?",
+      "options": [
+        "Anderes Wort für Funktion",
+        "Ein Test",
+        "Ein Spiel",
+        "Ein Bild"
+      ],
+      "answer": "Anderes Wort für Funktion",
+      "explanation": "In der Informatik üblich."
+    },
+    {
+      "id": "typing_9_1",
+      "type": "typing",
+      "text": "Ich erstelle einen eigenen Block für das Springen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_2",
+      "type": "typing",
+      "text": "Definiere genau was meine Figur tun soll.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_3",
+      "type": "typing",
+      "text": "Wir sparen Platz im Skript durch eigene Funktionen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_4",
+      "type": "typing",
+      "text": "Ich nutze Argumente um Werte an Blöcke zu geben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_5",
+      "type": "typing",
+      "text": "Pinke Blöcke machen meinen Code viel übersichtlicher.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_6",
+      "type": "typing",
+      "text": "Gute Programmierer strukturieren ihre Aufgaben sorgfältig.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_7",
+      "type": "typing",
+      "text": "Ich kann einen Block beliebig oft wiederverwenden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_8",
+      "type": "typing",
+      "text": "Turbo-Modus ohne Bildschirmaktualisierung spart viel Zeit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_9",
+      "type": "typing",
+      "text": "Logisches Denken ist der Schlüssel zum Erfolg.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_9_10",
+      "type": "typing",
+      "text": "Wir bauen heute unsere eigene Block-Bibliothek.",
+      "difficulty": "medium"
+    }
+  ]
+}

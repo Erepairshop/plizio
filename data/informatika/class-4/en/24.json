@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Summary K4",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What language have we used for coding?",
+      "options": [
+        "Scratch",
+        "HTML",
+        "Both A and B",
+        "None"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the most important part of programming?",
+      "options": [
+        "Logical thinking and problem solving",
+        "Typing fast",
+        "Having a cool name",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is used for an endless loop?",
+      "options": [
+        "Forever",
+        "Repeat 10",
+        "Once",
+        "Wait until"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tool helps us organize data in a program?",
+      "options": [
+        "Variables and Lists",
+        "Sounds",
+        "Costumes",
+        "Backdrops"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the first step when starting a new project?",
+      "options": [
+        "Planning",
+        "Coding",
+        "Drawing",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you find errors in your code?",
+      "options": [
+        "Debugging",
+        "Deleting",
+        "Ignoring",
+        "Drawing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What makes a game fun for others?",
+      "options": [
+        "Good mechanics and clear feedback",
+        "Having 100 sprites",
+        "Being very loud",
+        "Being very hard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'HTML' primarily for?",
+      "options": [
+        "Web structure",
+        "Game logic",
+        "Sound editing",
+        "Photo editing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is internet safety important?",
+      "options": [
+        "To protect your private info and stay safe",
+        "To win games",
+        "To get a high score",
+        "To make it faster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the smallest unit of digital data?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Atom",
+        "Pixel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block category is blue in Scratch?",
+      "options": [
+        "Motion",
+        "Looks",
+        "Control",
+        "Events"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the characters in Scratch?",
+      "options": [
+        "Sprites",
+        "Actors",
+        "Puppets",
+        "Images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Function' or 'My Block'?",
+      "options": [
+        "A custom block that reuses code",
+        "A type of loop",
+        "A variable",
+        "A sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Netiquette'?",
+      "options": [
+        "Polite behavior online",
+        "A fishing net",
+        "A computer error",
+        "A type of code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is larger, 1 GB or 1 MB?",
+      "options": [
+        "1 GB",
+        "1 MB",
+        "They are same",
+        "Neither"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Variable' do?",
+      "options": [
+        "Stores a value like a score",
+        "Changes the color",
+        "Deletes a sprite",
+        "Plays music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you react to a 'Broadcast'?",
+      "options": [
+        "When I receive [message] block",
+        "Say [message]",
+        "Wait 1 sec",
+        "Broadcast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'If-Then' block for?",
+      "options": [
+        "Decision making / Conditions",
+        "Repeating code",
+        "Starting code",
+        "Sound effects"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collaboration' in digital work?",
+      "options": [
+        "Working together online",
+        "Working alone",
+        "Playing games",
+        "Deleting files"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Search Engine' for?",
+      "options": [
+        "Finding info online",
+        "Sending emails",
+        "Drawing sprites",
+        "Winning games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tag is for a paragraph in HTML?",
+      "options": [
+        "<p>",
+        "<h1>",
+        "<a>",
+        "<body>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Plagiarism'?",
+      "options": [
+        "Stealing work and saying it's yours",
+        "A type of virus",
+        "A sound effect",
+        "A screen color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite bounce off walls?",
+      "options": [
+        "If on edge, bounce",
+        "Wait 1 sec",
+        "Next costume",
+        "Hide"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Digital Footprint'?",
+      "options": [
+        "The trail you leave online",
+        "A picture",
+        "A code",
+        "A cat name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are you ready for the next grade in IT?",
+      "options": [
+        "Yes!",
+        "Maybe",
+        "No",
+        "I love Scratch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Finish",
+      "answer": "Finish"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Learn",
+      "answer": "Learn"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Super",
+      "answer": "Super"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Done",
+      "answer": "Done"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Ready",
+      "answer": "Ready"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Coding",
+      "answer": "Coding"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Future",
+      "answer": "Future"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smart",
+      "answer": "Smart"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Digital",
+      "answer": "Digital"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Winner",
+      "answer": "Winner"
+    }
+  ]
+}

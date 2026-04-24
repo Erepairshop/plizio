@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Random Numbers",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which block generates a random number?",
+      "options": [
+        "Pick random [1] to [10]",
+        "Any number",
+        "Random sprite",
+        "Choose number"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find the 'Pick random' block?",
+      "options": [
+        "Operations category",
+        "Motion category",
+        "Variables category",
+        "Control category"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Random Number'?",
+      "options": [
+        "A number chosen by chance within a range",
+        "The number 7",
+        "A big number",
+        "A hidden number"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Operations blocks?",
+      "options": [
+        "Green",
+        "Blue",
+        "Orange",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pick random 1 to 100' useful for?",
+      "options": [
+        "Creating a game where things appear in different spots",
+        "Making a score zero",
+        "Saving a project",
+        "Changing the cat's name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can 'Pick random' generate negative numbers?",
+      "options": [
+        "Yes, like -10 to 10",
+        "No, only positive",
+        "Only for X position",
+        "Only on Tuesdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite glide to a random spot?",
+      "options": [
+        "Glide [1] secs to [random position]",
+        "Glide [1] secs to X:[pick random] Y:[pick random]",
+        "Both A and B",
+        "Move steps"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Pick random 1 to 10' output?",
+      "options": [
+        "A whole number like 1, 2, 3... 10",
+        "A decimal like 1.5",
+        "Only 1 or 10",
+        "A random color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use 'Pick random' in a 'Point in direction' block?",
+      "options": [
+        "Yes, to make the sprite face a random way",
+        "No",
+        "Only for the cat",
+        "Only for 90 degrees"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you set 'Pick random 10 to 1'?",
+      "options": [
+        "It still works correctly (1 to 10)",
+        "It causes an error",
+        "It only gives 1",
+        "It only gives 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite change to a random costume?",
+      "options": [
+        "Switch costume to [pick random 1 to 10]",
+        "Next costume",
+        "Random look",
+        "Both A and B"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Probability'?",
+      "options": [
+        "The chance of something happening",
+        "A type of code",
+        "A math block",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these uses randomness?",
+      "options": [
+        "Dice roll",
+        "Moving 10 steps",
+        "Wait 1 second",
+        "Showing a sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use 'Pick random' for colors?",
+      "options": [
+        "Yes, 'Set color effect to [pick random 0 to 200]'",
+        "No",
+        "Only for the cat",
+        "Only for the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Pick random 0 to 1' return?",
+      "options": [
+        "0 or 1",
+        "Any decimal between 0 and 1",
+        "Only 0",
+        "Only 1"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is randomness important in games?",
+      "options": [
+        "It makes games unpredictable and fun",
+        "It makes them faster",
+        "It saves memory",
+        "It stops bugs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is '+' and '-' blocks in?",
+      "options": [
+        "Operations",
+        "Variables",
+        "Control",
+        "Motion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category is 'Pick random' in?",
+      "options": [
+        "Operations",
+        "Motion",
+        "Control",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you pick a random item from a list?",
+      "options": [
+        "Item [pick random 1 to length of list] of [list]",
+        "Random list",
+        "Pick list",
+        "Get item"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a computer be truly random?",
+      "options": [
+        "No, it uses math (pseudo-random)",
+        "Yes, perfectly",
+        "Only if it is hot",
+        "Only with a microphone"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you use 'Pick random 1.0 to 10.0'?",
+      "options": [
+        "It gives random decimals",
+        "It gives whole numbers",
+        "It crashes",
+        "It gives only 1 or 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a random block?",
+      "options": [
+        "Move 10 steps",
+        "Pick random",
+        "Go to random position",
+        "Point towards random position"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of 'Pick random 5 to 5'?",
+      "options": [
+        "5",
+        "0",
+        "1",
+        "Random"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use random numbers for a timer?",
+      "options": [
+        "Yes, 'Wait [pick random 1 to 5] seconds'",
+        "No",
+        "Only for score",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Seed' in randomness?",
+      "options": [
+        "A starting value for random number generator",
+        "A plant",
+        "A type of sprite",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Random",
+      "answer": "Random"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pick",
+      "answer": "Pick"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Number",
+      "answer": "Number"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Operation",
+      "answer": "Operation"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Chance",
+      "answer": "Chance"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Range",
+      "answer": "Range"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Math",
+      "answer": "Math"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Value",
+      "answer": "Value"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Choice",
+      "answer": "Choice"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Result",
+      "answer": "Result"
+    }
+  ]
+}

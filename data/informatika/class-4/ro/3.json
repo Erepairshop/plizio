@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Sprite-uri (Personaje)",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este un Sprite?",
+        "options": [
+          "Un obiect sau personaj",
+          "O băutură",
+          "O tastă",
+          "Un ecran"
+        ],
+        "answer": "Un obiect sau personaj"
+      },
+      {
+        "question": "Unde vedem lista de Sprite-uri?",
+        "options": [
+          "Sub scenă, în dreapta",
+          "Sus",
+          "În stânga",
+          "Nu există"
+        ],
+        "answer": "Sub scenă, în dreapta"
+      },
+      {
+        "question": "Cum adăugăm un Sprite nou?",
+        "options": [
+          "Butonul 'Alege un personaj'",
+          "Apăsăm Enter",
+          "Închidem programul",
+          "Desenăm pe monitor"
+        ],
+        "answer": "Butonul 'Alege un personaj'"
+      },
+      {
+        "question": "Putem desena propriul personaj?",
+        "options": [
+          "Da, folosind editorul de pictură",
+          "Nu",
+          "Doar în alb-negru",
+          "Doar cu mouse-ul"
+        ],
+        "answer": "Da, folosind editorul de pictură"
+      },
+      {
+        "question": "Cum redenumim un Sprite?",
+        "options": [
+          "În câmpul 'Personaj' de sub scenă",
+          "Nu se poate",
+          "Prin strigarea numelui",
+          "În meniul Fișier"
+        ],
+        "answer": "În câmpul 'Personaj' de sub scenă"
+      },
+      {
+        "question": "Ce este dimensiunea unui Sprite?",
+        "options": [
+          "Cât de mare apare pe scenă",
+          "Cât cântărește",
+          "Câte blocuri are",
+          "Vârsta lui"
+        ],
+        "answer": "Cât de mare apare pe scenă"
+      },
+      {
+        "question": "Cum putem ascunde un Sprite?",
+        "options": [
+          "Butonul cu ochiul tăiat",
+          "Îl ștergem",
+          "Îl mutăm sub masă",
+          "Închidem ochii"
+        ],
+        "answer": "Butonul cu ochiul tăiat"
+      },
+      {
+        "question": "Ce reprezintă coordonatele X și Y?",
+        "options": [
+          "Poziția pe scenă",
+          "Numele lui",
+          "Culoarea lui",
+          "Viteza lui"
+        ],
+        "answer": "Poziția pe scenă"
+      },
+      {
+        "question": "Ce este direcția unui Sprite?",
+        "options": [
+          "În ce parte privește",
+          "Unde locuiește",
+          "Cum se numește",
+          "Cât de mare e"
+        ],
+        "answer": "În ce parte privește"
+      },
+      {
+        "question": "Cum ștergem un Sprite?",
+        "options": [
+          "Click pe iconița cu coș de gunoi",
+          "Îl rugăm frumos",
+          "Oprim curentul",
+          "Apăsăm Esc"
+        ],
+        "answer": "Click pe iconița cu coș de gunoi"
+      },
+      {
+        "question": "Putem avea două personaje identice?",
+        "options": [
+          "Da, prin duplicare",
+          "Nu",
+          "Doar unul pe proiect",
+          "Doar dacă au culori diferite"
+        ],
+        "answer": "Da, prin duplicare"
+      },
+      {
+        "question": "Ce face tab-ul 'Costume'?",
+        "options": [
+          "Permite editarea aspectului",
+          "Schimbă muzica",
+          "Adaugă cod",
+          "Șterge proiectul"
+        ],
+        "answer": "Permite editarea aspectului"
+      },
+      {
+        "question": "Putem face un personaj să se rotească?",
+        "options": [
+          "Da, schimbând direcția",
+          "Nu",
+          "Doar dacă e cerc",
+          "Doar în 3D"
+        ],
+        "answer": "Da, schimbând direcția"
+      },
+      {
+        "question": "Ce este centrul unui personaj?",
+        "options": [
+          "Punctul în jurul căruia se rotește",
+          "Buricul lui",
+          "Ochiul lui",
+          "Nu are centru"
+        ],
+        "answer": "Punctul în jurul căruia se rotește"
+      },
+      {
+        "question": "Cum putem micșora un personaj rapid?",
+        "options": [
+          "Schimbăm valoarea 'Mărime'",
+          "Îl tăiem cu foarfeca",
+          "Îl punem la soare",
+          "Nu se poate"
+        ],
+        "answer": "Schimbăm valoarea 'Mărime'"
+      },
+      {
+        "question": "Ce este biblioteca de personaje?",
+        "options": [
+          "Colecția de personaje gata făcute",
+          "O clădire cu cărți",
+          "Un cod secret",
+          "O listă de prieteni"
+        ],
+        "answer": "Colecția de personaje gata făcute"
+      },
+      {
+        "question": "Putem exporta un personaj?",
+        "options": [
+          "Da, pentru a-l folosi în alt proiect",
+          "Nu",
+          "Doar dacă e pisică",
+          "Doar prin e-mail"
+        ],
+        "answer": "Da, pentru a-l folosi în alt proiect"
+      },
+      {
+        "question": "Ce se întâmplă dacă selectăm un alt personaj?",
+        "options": [
+          "Vedem codul lui specific",
+          "Codul rămâne același",
+          "Personajul vechi dispare",
+          "Se schimbă fundalul"
+        ],
+        "answer": "Vedem codul lui specific"
+      },
+      {
+        "question": "Putem înregistra sunet pentru un personaj?",
+        "options": [
+          "Da, în tab-ul Sunete",
+          "Nu",
+          "Doar dacă avem radio",
+          "Doar sunete de pisică"
+        ],
+        "answer": "Da, în tab-ul Sunete"
+      },
+      {
+        "question": "Ce înseamnă 'X=0, Y=0'?",
+        "options": [
+          "Centrul scenei",
+          "Colțul stânga sus",
+          "Colțul dreapta jos",
+          "În afara scenei"
+        ],
+        "answer": "Centrul scenei"
+      },
+      {
+        "question": "Putem mări un personaj la 200%?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar până la 100",
+          "Doar până la 150"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce face butonul 'Surpriză' la personaje?",
+        "options": [
+          "Adaugă un personaj la întâmplare",
+          "Șterge tot",
+          "Schimbă culoarea ecranului",
+          "Închide browserul"
+        ],
+        "answer": "Adaugă un personaj la întâmplare"
+      },
+      {
+        "question": "Putem grupa mai multe obiecte într-un singur personaj?",
+        "options": [
+          "Da, în editor",
+          "Nu",
+          "Doar dacă sunt mici",
+          "Doar dacă sunt verzi"
+        ],
+        "answer": "Da, în editor"
+      },
+      {
+        "question": "Ce este modul de desen 'Vector'?",
+        "options": [
+          "Desen bazat pe forme matematice",
+          "Desen cu pixeli",
+          "Desen pe hârtie",
+          "Nu există"
+        ],
+        "answer": "Desen bazat pe forme matematice"
+      },
+      {
+        "question": "Ce este modul de desen 'Bitmap'?",
+        "options": [
+          "Desen bazat pe puncte (pixeli)",
+          "Desen 3D",
+          "Un fel de hartă",
+          "Un sunet"
+        ],
+        "answer": "Desen bazat pe puncte (pixeli)"
+      }
+    ],
+    "typing": [
+      "personaj",
+      "dimensiune",
+      "poziție",
+      "direcție",
+      "costum",
+      "vector",
+      "bitmap",
+      "centru",
+      "coordonate",
+      "vizibil"
+    ]
+  }
+}

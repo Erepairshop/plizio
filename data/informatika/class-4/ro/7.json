@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Variabile",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este o variabilă în Scratch?",
+        "options": [
+          "Un loc unde păstrăm o valoare care se poate schimba",
+          "Un personaj nou",
+          "Un fundal colorat",
+          "O eroare de cod"
+        ],
+        "answer": "Un loc unde păstrăm o valoare care se poate schimba"
+      },
+      {
+        "question": "Cum creăm o variabilă?",
+        "options": [
+          "Butonul 'Creează o variabilă' în categoria Variabile",
+          "Apăsăm Enter",
+          "Desenăm o cutie",
+          "Nu se poate"
+        ],
+        "answer": "Butonul 'Creează o variabilă' în categoria Variabile"
+      },
+      {
+        "question": "Ce nume este bun pentru o variabilă de scor?",
+        "options": [
+          "scor",
+          "variabila1",
+          "aaa",
+          "x"
+        ],
+        "answer": "scor"
+      },
+      {
+        "question": "Ce face blocul 'setează [variabilă] la 0'?",
+        "options": [
+          "Pune valoarea 0 în variabilă",
+          "Șterge variabila",
+          "Ascunde variabila",
+          "Oprește jocul"
+        ],
+        "answer": "Pune valoarea 0 în variabilă"
+      },
+      {
+        "question": "Cum creștem scorul cu 1?",
+        "options": [
+          "Blocul 'modifică [scor] cu 1'",
+          "Blocul 'setează la 1'",
+          "Nu se poate",
+          "Scriem pe ecran"
+        ],
+        "answer": "Blocul 'modifică [scor] cu 1'"
+      },
+      {
+        "question": "Putem afișa variabila pe scenă?",
+        "options": [
+          "Da, bifând căsuța de lângă ea",
+          "Nu",
+          "Doar în modul editare",
+          "Doar dacă e număr"
+        ],
+        "answer": "Da, bifând căsuța de lângă ea"
+      },
+      {
+        "question": "Ce este o variabilă 'doar pentru acest personaj'?",
+        "options": [
+          "O variabilă locală",
+          "O variabilă globală",
+          "O variabilă secretă",
+          "O variabilă de sistem"
+        ],
+        "answer": "O variabilă locală"
+      },
+      {
+        "question": "Ce este o variabilă 'pentru toate personajele'?",
+        "options": [
+          "O variabilă globală",
+          "O variabilă locală",
+          "O variabilă fixă",
+          "O variabilă de text"
+        ],
+        "answer": "O variabilă globală"
+      },
+      {
+        "question": "Putem păstra text într-o variabilă?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar litera A",
+          "Doar nume de personaje"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce face blocul 'arată variabila'?",
+        "options": [
+          "O face vizibilă pe scenă",
+          "O citește cu voce tare",
+          "O trimite prin e-mail",
+          "O dublează"
+        ],
+        "answer": "O face vizibilă pe scenă"
+      },
+      {
+        "question": "Ce face blocul 'ascunde variabila'?",
+        "options": [
+          "O scoate de pe scenă (dar rămâne în memorie)",
+          "O șterge de tot",
+          "O face 0",
+          "O schimbă"
+        ],
+        "answer": "O scoate de pe scenă (dar rămâne în memorie)"
+      },
+      {
+        "question": "Putem schimba numele unei variabile?",
+        "options": [
+          "Da, click dreapta -> Redenumește",
+          "Nu",
+          "Doar dacă o ștergem și o facem iar",
+          "Doar în Scratch Pro"
+        ],
+        "answer": "Da, click dreapta -> Redenumește"
+      },
+      {
+        "question": "Ce este un 'Cloud Variable'?",
+        "options": [
+          "O variabilă salvată pe server (pentru scoruri mari globale)",
+          "O variabilă în formă de nor",
+          "O variabilă care plouă",
+          "O eroare"
+        ],
+        "answer": "O variabilă salvată pe server (pentru scoruri mari globale)"
+      },
+      {
+        "question": "Cum resetăm scorul la începutul jocului?",
+        "options": [
+          "Folosim 'setează scor la 0' sub steagul verde",
+          "Nu îl resetăm",
+          "Oprim calculatorul",
+          "Ștergem variabila"
+        ],
+        "answer": "Folosim 'setează scor la 0' sub steagul verde"
+      },
+      {
+        "question": "Ce se întâmplă dacă modificăm o variabilă cu un număr negativ?",
+        "options": [
+          "Valoarea scade",
+          "Valoarea crește",
+          "Valoarea devine 0",
+          "Se produce o eroare"
+        ],
+        "answer": "Valoarea scade"
+      },
+      {
+        "question": "Unde găsim blocurile de Variabile?",
+        "options": [
+          "Categoria portocalie de jos",
+          "Categoria albastră",
+          "Categoria verde",
+          "Categoria mov"
+        ],
+        "answer": "Categoria portocalie de jos"
+      },
+      {
+        "question": "Ce este valoarea inițială?",
+        "options": [
+          "Valoarea pe care o are la început",
+          "Valoarea de la final",
+          "Numele ei",
+          "Culoarea ei"
+        ],
+        "answer": "Valoarea pe care o are la început"
+      },
+      {
+        "question": "Putem folosi o variabilă în calcule matematice?",
+        "options": [
+          "Da, trăgând-ul în blocurile de Operatori",
+          "Nu",
+          "Doar pentru adunare",
+          "Doar pentru scădere"
+        ],
+        "answer": "Da, trăgând-ul în blocurile de Operatori"
+      },
+      {
+        "question": "Cum vedem valoarea unei variabile fără să o punem pe scenă?",
+        "options": [
+          "Privind în paleta de blocuri",
+          "Nu se poate",
+          "Strigând",
+          "Dând click pe personaj"
+        ],
+        "answer": "Privind în paleta de blocuri"
+      },
+      {
+        "question": "Ce este un 'slider' la o variabilă?",
+        "options": [
+          "O bară de care tragem pentru a schimba valoarea",
+          "Un joc cu mașini",
+          "O eroare grafică",
+          "Un costum"
+        ],
+        "answer": "O bară de care tragem pentru a schimba valoarea"
+      },
+      {
+        "question": "Câte variabile putem avea?",
+        "options": [
+          "Oricâte",
+          "Doar 1",
+          "Maxim 10",
+          "Fix 100"
+        ],
+        "answer": "Oricâte"
+      },
+      {
+        "question": "Putem folosi variabile pentru a seta viteza?",
+        "options": [
+          "Da, 'mergi [viteza] pași'",
+          "Nu",
+          "Doar pentru scor",
+          "Doar pentru timp"
+        ],
+        "answer": "Da, 'mergi [viteza] pași'"
+      },
+      {
+        "question": "Ce se întâmplă dacă ștergem o variabilă folosită în cod?",
+        "options": [
+          "Blocurile care o foloseau vor avea erori sau vor dispărea",
+          "Nu se întâmplă nimic",
+          "Jocul merge mai bine",
+          "Se schimbă fundalul"
+        ],
+        "answer": "Blocurile care o foloseau vor avea erori sau vor dispărea"
+      },
+      {
+        "question": "Ce este o variabilă booleană?",
+        "options": [
+          "O variabilă care e doar Adevărat sau Fals",
+          "O variabilă cu numere",
+          "O variabilă cu text",
+          "Nu există în Scratch direct"
+        ],
+        "answer": "O variabilă care e doar Adevărat sau Fals"
+      },
+      {
+        "question": "De ce folosim variabile?",
+        "options": [
+          "Pentru a face programe dinamice și inteligente",
+          "Pentru că arată bine",
+          "Pentru a ocupa spațiu",
+          "Pentru a încetini PC-ul"
+        ],
+        "answer": "Pentru a face programe dinamice și inteligente"
+      }
+    ],
+    "typing": [
+      "variabilă",
+      "valoare",
+      "stocare",
+      "global",
+      "local",
+      "scor",
+      "setare",
+      "modificare",
+      "nume",
+      "date"
+    ]
+  }
+}

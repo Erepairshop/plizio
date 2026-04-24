@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Jocul Labirint",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Care este scopul într-un joc de tip labirint?",
+        "options": [
+          "Găsirea ieșirii fără a atinge pereții",
+          "Ștergerea labirintului",
+          "Colorarea personajului",
+          "Ascultarea muzicii"
+        ],
+        "answer": "Găsirea ieșirii fără a atinge pereții"
+      },
+      {
+        "question": "Cum desenăm pereții labirintului?",
+        "options": [
+          "Ca un personaj nou sau pe fundal",
+          "Nu se desenează",
+          "Cu blocuri de mișcare",
+          "Cu sunete"
+        ],
+        "answer": "Ca un personaj nou sau pe fundal"
+      },
+      {
+        "question": "Cum detectăm dacă personajul a atins peretele?",
+        "options": [
+          "dacă atinge [culoarea peretelui] sau [personajul labirint]",
+          "dacă spune ceva",
+          "dacă se rotește",
+          "dacă sare"
+        ],
+        "answer": "dacă atinge [culoarea peretelui] sau [personajul labirint]"
+      },
+      {
+        "question": "Ce se întâmplă de obicei când atingem peretele?",
+        "options": [
+          "Ne întoarcem la start sau pierdem o viață",
+          "Trecem prin el",
+          "Câștigăm puncte",
+          "Schimbăm culoarea"
+        ],
+        "answer": "Ne întoarcem la start sau pierdem o viață"
+      },
+      {
+        "question": "Cum controlăm personajul în labirint?",
+        "options": [
+          "Cu săgețile de la tastatură",
+          "Cu vocea",
+          "Se mișcă singur",
+          "Cu ochii"
+        ],
+        "answer": "Cu săgețile de la tastatură"
+      },
+      {
+        "question": "Ce bloc folosim pentru mișcarea continuă lină?",
+        "options": [
+          "dacă tasta [ ] apăsată -> modifică x/y",
+          "când tasta [ ] apăsată",
+          "mergi 100 pași",
+          "glisează"
+        ],
+        "answer": "dacă tasta [ ] apăsată -> modifică x/y"
+      },
+      {
+        "question": "Cum marcăm finalul labirintului?",
+        "options": [
+          "Cu un obiect special (ex. o poartă sau un premiu)",
+          "Prin oprirea PC-ului",
+          "Prin strigăt",
+          "Nu există final"
+        ],
+        "answer": "Cu un obiect special (ex. o poartă sau un premiu)"
+      },
+      {
+        "question": "Putem avea inamici care patrulează în labirint?",
+        "options": [
+          "Da, folosind blocuri de mișcare repetitivă",
+          "Nu",
+          "Doar dacă e labirint 3D",
+          "Doar în Scratch Pro"
+        ],
+        "answer": "Da, folosind blocuri de mișcare repetitivă"
+      },
+      {
+        "question": "Ce este 'ricoșeul' de perete în labirint?",
+        "options": [
+          "Mișcarea în sens invers cu câțiva pași la atingere",
+          "Distrugerea peretelui",
+          "Săritura peste perete",
+          "O eroare"
+        ],
+        "answer": "Mișcarea în sens invers cu câțiva pași la atingere"
+      },
+      {
+        "question": "De ce e important să lăsăm drumul destul de larg?",
+        "options": [
+          "Pentru ca personajul să poată trece fără să se blocheze",
+          "Pentru a consuma cerneală",
+          "Pentru a arăta urât",
+          "Nu e important"
+        ],
+        "answer": "Pentru ca personajul să poată trece fără să se blocheze"
+      },
+      {
+        "question": "Putem schimba labirintul când trecem la nivelul 2?",
+        "options": [
+          "Da, schimbând decorul sau costumul labirintului",
+          "Nu, e fix",
+          "Doar culoarea",
+          "Doar mărimea"
+        ],
+        "answer": "Da, schimbând decorul sau costumul labirintului"
+      },
+      {
+        "question": "Cum facem un 'timer' pentru labirint?",
+        "options": [
+          "Variabilă timp -> scade la fiecare secundă",
+          "mergi repede",
+          "sunet de ceas",
+          "nu se poate"
+        ],
+        "answer": "Variabilă timp -> scade la fiecare secundă"
+      },
+      {
+        "question": "Ce este 'fog of war' (ceața)?",
+        "options": [
+          "Când vezi doar o mică parte din labirint în jurul tău",
+          "O eroare de desen",
+          "Un sunet de vânt",
+          "O culoare gri"
+        ],
+        "answer": "Când vezi doar o mică parte din labirint în jurul tău"
+      },
+      {
+        "question": "Cum verificăm victoria?",
+        "options": [
+          "dacă atinge [Premiul] atunci spune 'Victorie!'",
+          "dacă atinge peretele",
+          "dacă atinge marginea",
+          "dacă sare"
+        ],
+        "answer": "dacă atinge [Premiul] atunci spune 'Victorie!'"
+      },
+      {
+        "question": "Ce este un labirint generat procedural?",
+        "options": [
+          "Un labirint creat automat de cod la fiecare joc",
+          "Un labirint desenat de mână",
+          "Un labirint fără ieșire",
+          "O eroare"
+        ],
+        "answer": "Un labirint creat automat de cod la fiecare joc"
+      },
+      {
+        "question": "Cum facem personajul să nu treacă prin pereți?",
+        "options": [
+          "După mișcare, dacă atinge peretele, fă pasul înapoi",
+          "Îl rugăm frumos",
+          "Oprim codul",
+          "Îl facem transparent"
+        ],
+        "answer": "După mișcare, dacă atinge peretele, fă pasul înapoi"
+      },
+      {
+        "question": "Ce reprezintă 'start_x' și 'start_y'?",
+        "options": [
+          "Coordonatele de început unde se resetează personajul",
+          "Numele lui",
+          "Viteza lui",
+          "Mărimea lui"
+        ],
+        "answer": "Coordonatele de început unde se resetează personajul"
+      },
+      {
+        "question": "Putem colecta obiecte în labirint?",
+        "options": [
+          "Da, pentru puncte bonus",
+          "Nu, e doar pentru mers",
+          "Doar dacă sunt pereți",
+          "Doar cu mouse-ul"
+        ],
+        "answer": "Da, pentru puncte bonus"
+      },
+      {
+        "question": "Ce este o 'scurtătură' într-un labirint?",
+        "options": [
+          "Un drum ascuns sau mai rapid",
+          "O eroare de desen",
+          "O tăietură pe monitor",
+          "Nu există"
+        ],
+        "answer": "Un drum ascuns sau mai rapid"
+      },
+      {
+        "question": "Cum facem labirintul mai greu?",
+        "options": [
+          "Drumuri mai înguste, inamici, timp limită",
+          "Muzică mai tare",
+          "Personaj mai mare",
+          "Culori mai vii"
+        ],
+        "answer": "Drumuri mai înguste, inamici, timp limită"
+      },
+      {
+        "question": "Putem folosi Scratch Pen pentru a desena labirintul?",
+        "options": [
+          "Da, prin cod",
+          "Nu",
+          "Doar linii curbe",
+          "Doar în negru"
+        ],
+        "answer": "Da, prin cod"
+      },
+      {
+        "question": "Ce facem dacă personajul e prea mare pentru labirint?",
+        "options": [
+          "Îi micșorăm mărimea la 50% sau mai puțin",
+          "Mărim monitorul",
+          "Tăiem din pereți",
+          "Îl rotim"
+        ],
+        "answer": "Îi micșorăm mărimea la 50% sau mai puțin"
+      },
+      {
+        "question": "Putem avea o busolă în joc?",
+        "options": [
+          "Da, un personaj care arată spre ieșire",
+          "Nu",
+          "Doar dacă avem magnet",
+          "Doar în modul real"
+        ],
+        "answer": "Da, un personaj care arată spre ieșire"
+      },
+      {
+        "question": "Ce înseamnă un 'dead end'?",
+        "options": [
+          "Un drum înfundat (fără ieșire)",
+          "Finalul jocului",
+          "O eroare fatală",
+          "Un personaj mort"
+        ],
+        "answer": "Un drum înfundat (fără ieșire)"
+      },
+      {
+        "question": "De ce e distractiv un labirint?",
+        "options": [
+          "Pentru provocarea de a găsi soluția",
+          "Pentru că e greu de desenat",
+          "Pentru că are culori",
+          "Pentru că e lung"
+        ],
+        "answer": "Pentru provocarea de a găsi soluția"
+      }
+    ],
+    "typing": [
+      "labirint",
+      "perete",
+      "ieșire",
+      "drum",
+      "start",
+      "victorie",
+      "eroare",
+      "colecție",
+      "viteză",
+      "direcție"
+    ]
+  }
+}

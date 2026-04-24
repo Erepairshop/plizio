@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Internet-Recherche",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_19_1",
+      "type": "mcq",
+      "question": "Was ist eine Suchmaschine?",
+      "options": [
+        "Google/Bing",
+        "Monitor",
+        "Tastatur",
+        "Maus"
+      ],
+      "answer": "Google/Bing",
+      "explanation": "Sucht im Web."
+    },
+    {
+      "id": "mcq_19_2",
+      "type": "mcq",
+      "question": "Was sind Keywords?",
+      "options": [
+        "Suchbegriffe",
+        "Passwörter",
+        "Töne",
+        "Bilder"
+      ],
+      "answer": "Suchbegriffe",
+      "explanation": "Wichtige Wörter."
+    },
+    {
+      "id": "mcq_19_3",
+      "type": "mcq",
+      "question": "Alles glauben?",
+      "options": [
+        "Nein, Quellen prüfen",
+        "Ja, immer",
+        "Nur Bilder",
+        "Nur Videos"
+      ],
+      "answer": "Nein, ohne Quellen prüfen",
+      "explanation": "Fake News Gefahr."
+    },
+    {
+      "id": "mcq_19_4",
+      "type": "mcq",
+      "question": "Was ist eine 'Quelle'?",
+      "options": [
+        "Herkunft der Info",
+        "Wasser im Wald",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Herkunft der Info",
+      "explanation": "Urheber."
+    },
+    {
+      "id": "mcq_19_5",
+      "type": "mcq",
+      "question": "Wikipedia?",
+      "options": [
+        "Online-Lexikon",
+        "Ein Spiel",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Online-Lexikon",
+      "explanation": "Wissenssammlung."
+    },
+    {
+      "id": "mcq_19_6",
+      "type": "mcq",
+      "question": "Suchergebnisse?",
+      "options": [
+        "Links zu Seiten",
+        "Nur Bilder",
+        "Nur Texte",
+        "PC aus"
+      ],
+      "answer": "Links zu Seiten",
+      "explanation": "Ergebnisliste."
+    },
+    {
+      "id": "mcq_19_7",
+      "type": "mcq",
+      "question": "Werbe-Ergebnisse?",
+      "options": [
+        "Ganz oben (Anzeige)",
+        "Gar nicht",
+        "Nur unten",
+        "Zufall"
+      ],
+      "answer": "Ganz oben (Anzeige)",
+      "explanation": "Bezahlte Plätze."
+    },
+    {
+      "id": "mcq_19_8",
+      "type": "mcq",
+      "question": "Was ist 'Download'?",
+      "options": [
+        "Herunterladen",
+        "Hochladen",
+        "Löschen",
+        "Warten"
+      ],
+      "answer": "Herunterladen",
+      "explanation": "Auf PC speichern."
+    },
+    {
+      "id": "mcq_19_9",
+      "type": "mcq",
+      "question": "Was ist 'Upload'?",
+      "options": [
+        "Hochladen",
+        "Herunterladen",
+        "Löschen",
+        "PC aus"
+      ],
+      "answer": "Hochladen",
+      "explanation": "Ins Netz stellen."
+    },
+    {
+      "id": "mcq_19_10",
+      "type": "mcq",
+      "question": "Spezielle Suche für Kinder?",
+      "options": [
+        "Frag Finn / Blinde Kuh",
+        "Google nur",
+        "Amazon",
+        "Zufall"
+      ],
+      "answer": "Frag Finn / Blinde Kuh",
+      "explanation": "Sicherer Bereich."
+    },
+    {
+      "id": "mcq_19_11",
+      "type": "mcq",
+      "question": "Copyright?",
+      "options": [
+        "Urheberrecht",
+        "Kopie-Recht",
+        "Alles frei",
+        "Zufall"
+      ],
+      "answer": "Urheberrecht",
+      "explanation": "Wem gehört es?"
+    },
+    {
+      "id": "mcq_19_12",
+      "type": "mcq",
+      "question": "Creative Commons?",
+      "options": [
+        "Freie Lizenzen",
+        "Nur Geld",
+        "Nichts",
+        "Zufall"
+      ],
+      "answer": "Freie Lizenzen",
+      "explanation": "Erlaubtes Teilen."
+    },
+    {
+      "id": "mcq_19_13",
+      "type": "mcq",
+      "question": "Was ist ein 'Tab'?",
+      "options": [
+        "Registerkarte im Browser",
+        "Eine Taste",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Registerkarte im Browser",
+      "explanation": "Mehrere Seiten offen."
+    },
+    {
+      "id": "mcq_19_14",
+      "type": "mcq",
+      "question": "Lesezeichen?",
+      "options": [
+        "Favoriten speichern",
+        "Echtes Buch",
+        "Ein Stift",
+        "Zufall"
+      ],
+      "answer": "Favoriten speichern",
+      "explanation": "Bookmark."
+    },
+    {
+      "id": "mcq_19_15",
+      "type": "mcq",
+      "question": "Was ist der Verlauf?",
+      "options": [
+        "Liste besuchter Seiten",
+        "Ein Berg",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Liste besuchter Seiten",
+      "explanation": "History."
+    },
+    {
+      "id": "mcq_19_16",
+      "type": "mcq",
+      "question": "Sicheres Suchen?",
+      "options": [
+        "Keine privaten Daten",
+        "Alles sagen",
+        "PC aus",
+        "Zufall"
+      ],
+      "answer": "Keine privaten Daten",
+      "explanation": "Privatsphäre."
+    },
+    {
+      "id": "mcq_19_17",
+      "type": "mcq",
+      "question": "Was ist ein 'Bot'?",
+      "options": [
+        "Automatisches Programm",
+        "Ein Mensch",
+        "Ein Boot",
+        "Ein Ton"
+      ],
+      "answer": "Automatisches Programm",
+      "explanation": "Software-Roboter."
+    },
+    {
+      "id": "mcq_19_18",
+      "type": "mcq",
+      "question": "Was ist SEO?",
+      "options": [
+        "Suchmaschinenoptimierung",
+        "Essen",
+        "Sport",
+        "Schule"
+      ],
+      "answer": "Suchmaschinenoptimierung",
+      "explanation": "Besser gefunden werden."
+    },
+    {
+      "id": "mcq_19_19",
+      "type": "mcq",
+      "question": "Filterblase?",
+      "options": [
+        "Nur ähnliche Infos",
+        "Seifenblase",
+        "PC Blase",
+        "Zufall"
+      ],
+      "answer": "Nur ähnliche Infos",
+      "explanation": "Algorithmus-Folge."
+    },
+    {
+      "id": "mcq_19_20",
+      "type": "mcq",
+      "question": "Zitieren?",
+      "options": [
+        "Quelle angeben",
+        "Abschreiben",
+        "Löschen",
+        "Warten"
+      ],
+      "answer": "Quelle angeben",
+      "explanation": "Ehrlich sein."
+    },
+    {
+      "id": "mcq_19_21",
+      "type": "mcq",
+      "question": "Was ist eine Domain?",
+      "options": [
+        "Web-Endung (.de, .com)",
+        "Ein Haus",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Web-Endung (.de, .com)",
+      "explanation": "Adress-Teil."
+    },
+    {
+      "id": "mcq_19_22",
+      "type": "mcq",
+      "question": "Was ist ein Provider?",
+      "options": [
+        "Internet-Anbieter",
+        "Ein Koch",
+        "Ein Spiel",
+        "Ein PC"
+      ],
+      "answer": "Internet-Anbieter",
+      "explanation": "Telekom/Vodafone etc."
+    },
+    {
+      "id": "mcq_19_23",
+      "type": "mcq",
+      "question": "Echtzeit-Suche?",
+      "options": [
+        "Aktuelle News",
+        "Alte Sachen",
+        "Gar nichts",
+        "Zufall"
+      ],
+      "answer": "Aktuelle News",
+      "explanation": "Sofort-Infos."
+    },
+    {
+      "id": "mcq_19_24",
+      "type": "mcq",
+      "question": "Bildersuche?",
+      "options": [
+        "Sucht nur Grafiken",
+        "Sucht Töne",
+        "Sucht Texte",
+        "Zufall"
+      ],
+      "answer": "Sucht nur Grafiken",
+      "explanation": "Spezieller Modus."
+    },
+    {
+      "id": "mcq_19_25",
+      "type": "mcq",
+      "question": "Warum Recherche?",
+      "options": [
+        "Wissen erweitern",
+        "Zeit totschlagen",
+        "PC putzen",
+        "Zufall"
+      ],
+      "answer": "Wissen erweitern",
+      "explanation": "Lernen."
+    },
+    {
+      "id": "typing_19_1",
+      "type": "typing",
+      "text": "Ich nutze präzise Suchbegriffe um schnell Informationen zu finden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_2",
+      "type": "typing",
+      "text": "Kindersuchmaschinen bieten eine sichere Umgebung für meine Recherche.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_3",
+      "type": "typing",
+      "text": "Wir vergleichen verschiedene Quellen um die Wahrheit herauszufinden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_4",
+      "type": "typing",
+      "text": "Das Internet ist eine riesige Bibliothek mit unendlich viel Wissen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_5",
+      "type": "typing",
+      "text": "Achte darauf keine persönlichen Daten in Suchmasken einzugeben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_6",
+      "type": "typing",
+      "text": "Lesezeichen helfen mir dabei wichtige Webseiten später wiederzufinden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_7",
+      "type": "typing",
+      "text": "Urheberrechtlich geschützte Werke dürfen nicht einfach kopiert werden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_8",
+      "type": "typing",
+      "text": "Kritisches Denken ist beim Surfen im Internet extrem wichtig.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_9",
+      "type": "typing",
+      "text": "Informatik lehrt uns den verantwortungsvollen Umgang mit Medien.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_19_10",
+      "type": "typing",
+      "text": "Viel Erfolg bei deiner nächsten Suche im großen Weltweiten Netz.",
+      "difficulty": "medium"
+    }
+  ]
+}

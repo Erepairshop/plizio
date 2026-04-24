@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Motion Commands",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which block moves a sprite forward?",
+      "options": [
+        "Move 10 steps",
+        "Turn right",
+        "Go to X:0 Y:0",
+        "Glide 1 sec"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Turn 15 degrees' do?",
+      "options": [
+        "Rotates the sprite",
+        "Moves it forward",
+        "Changes its color",
+        "Makes it jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are X and Y in Scratch?",
+      "options": [
+        "Coordinates for position",
+        "Types of sprites",
+        "Code block names",
+        "Cat names"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which way does X increase?",
+      "options": [
+        "To the right",
+        "To the left",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which way does Y increase?",
+      "options": [
+        "Upwards",
+        "Downwards",
+        "To the right",
+        "To the left"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the coordinate for the exact center of the stage?",
+      "options": [
+        "X:0, Y:0",
+        "X:100, Y:100",
+        "X:-240, Y:-180",
+        "X:240, Y:180"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block moves a sprite instantly to a specific spot?",
+      "options": [
+        "Go to X: Y:",
+        "Glide to X: Y:",
+        "Move steps",
+        "Change X by"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Glide 1 secs to X: Y:' do?",
+      "options": [
+        "Moves smoothly to a spot",
+        "Moves instantly to a spot",
+        "Teleports",
+        "Jumps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block makes a sprite bounce when it hits the edge?",
+      "options": [
+        "If on edge, bounce",
+        "Bounce off wall",
+        "Touch edge",
+        "Turn around"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Point in direction 90' mean?",
+      "options": [
+        "Face to the right",
+        "Face upwards",
+        "Face downwards",
+        "Face to the left"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category is 'Go to mouse-pointer' in?",
+      "options": [
+        "Motion",
+        "Sensing",
+        "Looks",
+        "Control"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you change only the vertical position?",
+      "options": [
+        "Change Y by",
+        "Change X by",
+        "Turn degrees",
+        "Move steps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you change only the horizontal position?",
+      "options": [
+        "Change X by",
+        "Change Y by",
+        "Move steps",
+        "Turn degrees"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Set rotation style' used for?",
+      "options": [
+        "Prevents sprite from flipping upside down",
+        "Speeds up rotation",
+        "Changes the costume",
+        "Makes the sprite bigger"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Point towards mouse-pointer' do?",
+      "options": [
+        "The sprite looks at the mouse",
+        "The sprite follows the mouse",
+        "The mouse moves to the sprite",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you use 'Move -10 steps'?",
+      "options": [
+        "Moves backwards",
+        "Moves faster",
+        "Stops moving",
+        "Moves up"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is blue?",
+      "options": [
+        "Move 10 steps",
+        "Wait 1 sec",
+        "Play sound",
+        "Show"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the range of X coordinates?",
+      "options": [
+        "-240 to 240",
+        "-180 to 180",
+        "0 to 100",
+        "1 to 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the range of Y coordinates?",
+      "options": [
+        "-180 to 180",
+        "-240 to 240",
+        "0 to 500",
+        "-100 to 100"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block makes a sprite follow another sprite?",
+      "options": [
+        "Point towards [Sprite Name]",
+        "Go to [Sprite Name]",
+        "Both A and B",
+        "Neither"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Change X by 10' equivalent to?",
+      "options": [
+        "Moving right",
+        "Moving left",
+        "Moving up",
+        "Moving down"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Change Y by -10' equivalent to?",
+      "options": [
+        "Moving down",
+        "Moving up",
+        "Moving right",
+        "Moving left"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use decimals in 'Move steps' (like 0.5)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for rotation",
+        "Only in pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Rotation style: Left-Right' mean?",
+      "options": [
+        "Sprite only faces left or right",
+        "Sprite can spin",
+        "Sprite cannot move",
+        "Sprite is invisible"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you see the current X and Y of a sprite?",
+      "options": [
+        "Under the stage in Sprite Info",
+        "In the backpack",
+        "On the keyboard",
+        "In the sounds tab"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Motion",
+      "answer": "Motion"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Steps",
+      "answer": "Steps"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Degree",
+      "answer": "Degree"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Glide",
+      "answer": "Glide"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Point",
+      "answer": "Point"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Position",
+      "answer": "Position"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: X-axis",
+      "answer": "X-axis"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Y-axis",
+      "answer": "Y-axis"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Turn",
+      "answer": "Turn"
+    }
+  ]
+}

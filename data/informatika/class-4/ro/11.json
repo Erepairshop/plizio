@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Cicluri (Repetări)",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este un ciclu (buclă) în programare?",
+        "options": [
+          "O structură care repetă un set de instrucțiuni",
+          "Un cerc desenat",
+          "O eroare de cod",
+          "Un sunet care se aude o dată"
+        ],
+        "answer": "O structură care repetă un set de instrucțiuni"
+      },
+      {
+        "question": "Ce face blocul 'repetă de 10 ori'?",
+        "options": [
+          "Execută codul din interior de exact 10 ori",
+          "Execută la infinit",
+          "Nu execută deloc",
+          "Execută până apăsăm Space"
+        ],
+        "answer": "Execută codul din interior de exact 10 ori"
+      },
+      {
+        "question": "Ce face blocul 'la infinit' (forever)?",
+        "options": [
+          "Repetă codul continuu până când programul este oprit",
+          "Repetă de 100 de ori",
+          "Oprește programul",
+          "Sare la următorul personaj"
+        ],
+        "answer": "Repetă codul continuu până când programul este oprit"
+      },
+      {
+        "question": "Unde găsim blocurile de cicluri?",
+        "options": [
+          "În categoria Control",
+          "În Mișcare",
+          "În Evenimente",
+          "În Variabile"
+        ],
+        "answer": "În categoria Control"
+      },
+      {
+        "question": "Ce face blocul 'repetă până când'?",
+        "options": [
+          "Repetă codul până când o condiție devine adevărată",
+          "Repetă de 10 ori",
+          "Repetă la infinit",
+          "Nu repetă deloc"
+        ],
+        "answer": "Repetă până când o condiție devine adevărată"
+      },
+      {
+        "question": "Putem pune un ciclu în interiorul altui ciclu?",
+        "options": [
+          "Da (cicluri imbricate)",
+          "Nu",
+          "Doar dacă sunt de același fel",
+          "Doar maxim două"
+        ],
+        "answer": "Da (cicluri imbricate)"
+      },
+      {
+        "question": "Cum oprim toate ciclurile dintr-un program?",
+        "options": [
+          "Butonul roșu (Stop) sau blocul 'oprește tot'",
+          "Apăsăm Enter",
+          "Închidem monitorul",
+          "Nu se pot opri"
+        ],
+        "answer": "Butonul roșu (Stop) sau blocul 'oprește tot'"
+      },
+      {
+        "question": "De ce folosim cicluri?",
+        "options": [
+          "Pentru a eficientiza codul și a evita scrierea repetată a aceleiași comenzi",
+          "Pentru a face codul mai lung",
+          "Pentru a încetini programul",
+          "Pentru a-l face mai colorat"
+        ],
+        "answer": "Pentru a eficientiza codul și a evita scrierea repetată a aceleiași comenzi"
+      },
+      {
+        "question": "Ce se întâmplă dacă un ciclu 'la infinit' nu are pauze (așteaptă)?",
+        "options": [
+          "Codul rulează foarte rapid și poate sacada programul",
+          "Nu se întâmplă nimic",
+          "Programul se șterge",
+          "Se aude un bip"
+        ],
+        "answer": "Codul rulează foarte rapid și poate sacada programul"
+      },
+      {
+        "question": "Putem folosi o variabilă pentru numărul de repetări?",
+        "options": [
+          "Da, în blocul 'repetă de [variabilă] ori'",
+          "Nu, trebuie să fie un număr fix",
+          "Doar numărul 10",
+          "Doar numere pare"
+        ],
+        "answer": "Da, în blocul 'repetă de [variabilă] ori'"
+      },
+      {
+        "question": "Ce face blocul 'oprește acest script'?",
+        "options": [
+          "Oprește doar scriptul curent",
+          "Oprește tot programul",
+          "Oprește sunetul",
+          "Resetează jocul"
+        ],
+        "answer": "Oprește acest script"
+      },
+      {
+        "question": "Câte instrucțiuni putem pune într-un ciclu?",
+        "options": [
+          "Oricâte",
+          "Doar una",
+          "Maxim 10",
+          "Fix 5"
+        ],
+        "answer": "Oricâte"
+      },
+      {
+        "question": "Ce este o buclă infinită accidentală?",
+        "options": [
+          "Un ciclu care nu se mai termină pentru că condiția de oprire nu e atinsă",
+          "O buclă frumoasă",
+          "Un stil de dans",
+          "O metodă de calcul"
+        ],
+        "answer": "Un ciclu care nu se mai termină pentru că condiția de oprire nu e atinsă"
+      },
+      {
+        "question": "Cum facem un personaj să se rotească continuu?",
+        "options": [
+          "Bucla 'la infinit' + 'rotește-te cu 5 grade'",
+          "Blocul 'mergi'",
+          "Blocul 'spune'",
+          "Nu se poate"
+        ],
+        "answer": "Bucla 'la infinit' + 'rotește-te cu 5 grade'"
+      },
+      {
+        "question": "Ce culoare au blocurile de Control?",
+        "options": [
+          "Portocaliu",
+          "Albastru",
+          "Verde",
+          "Galben"
+        ],
+        "answer": "Portocaliu"
+      },
+      {
+        "question": "Putem folosi cicluri pentru a desena forme geometrice?",
+        "options": [
+          "Da (ex. repetă de 4 ori pentru un pătrat)",
+          "Nu",
+          "Doar cercuri",
+          "Doar linii drepte"
+        ],
+        "answer": "Da (ex. repetă de 4 ori pentru un pătrat)"
+      },
+      {
+        "question": "Ce se întâmplă după ce un ciclu 'repetă de 10 ori' se termină?",
+        "options": [
+          "Codul continuă cu blocurile de sub ciclu",
+          "Programul se oprește",
+          "Ciclu o ia de la capăt",
+          "Personajul dispare"
+        ],
+        "answer": "Codul continuă cu blocurile de sub ciclu"
+      },
+      {
+        "question": "Este bucla 'la infinit' utilă pentru jocuri care rulează constant?",
+        "options": [
+          "Da, foarte utilă",
+          "Nu, e periculoasă",
+          "Doar pentru meniuri",
+          "Doar pentru sunet"
+        ],
+        "answer": "Da, foarte utilă"
+      },
+      {
+        "question": "Cum facem o pauză scurtă în fiecare iterație a unui ciclu?",
+        "options": [
+          "Adăugăm un bloc 'așteaptă 0.1 secunde'",
+          "Nu se poate",
+          "Oprim curentul",
+          "Sufllăm în microfon"
+        ],
+        "answer": "Adăugăm un bloc 'așteaptă 0.1 secunde'"
+      },
+      {
+        "question": "Ce este 'iterația'?",
+        "options": [
+          "O singură execuție a codului din interiorul buclei",
+          "Numele buclei",
+          "O eroare",
+          "Un personaj"
+        ],
+        "answer": "O singură execuție a codului din interiorul buclei"
+      },
+      {
+        "question": "Putem ieși forțat dintr-un ciclu 'la infinit'?",
+        "options": [
+          "Da, cu blocul 'oprește acest script' sau 'oprește tot'",
+          "Nu, niciodată",
+          "Doar dacă se stinge becul",
+          "Doar prin strigăt"
+        ],
+        "answer": "Da, cu blocul 'oprește acest script' sau 'oprește tot'"
+      },
+      {
+        "question": "Ce face blocul 'repetă până când [tasta space apăsată]'?",
+        "options": [
+          "Repetă codul până când utilizatorul apasă Space",
+          "Repetă doar când Space e apăsat",
+          "Oprește Space",
+          "Nu face nimic"
+        ],
+        "answer": "Repetă până când [tasta space apăsată]"
+      },
+      {
+        "question": "Sunt buclele prezente în toate limbajele de programare?",
+        "options": [
+          "Da, sunt concepte fundamentale",
+          "Nu, doar în Scratch",
+          "Doar în limbajele vechi",
+          "Doar în cele noi"
+        ],
+        "answer": "Da, sunt concepte fundamentale"
+      },
+      {
+        "question": "Ce formă au blocurile de ciclu în Scratch?",
+        "options": [
+          "Forma literei C (pentru a cuprinde alte blocuri)",
+          "Pătrate",
+          "Cerc",
+          "Linie dreaptă"
+        ],
+        "answer": "Forma literei C (pentru a cuprinde alte blocuri)"
+      },
+      {
+        "question": "Cum facem un cronometru simplu?",
+        "options": [
+          "La infinit -> așteaptă 1 sec -> modifică timp cu 1",
+          "La infinit -> mergi",
+          "Repetă de 10 ori -> sunet",
+          "Nu se poate"
+        ],
+        "answer": "La infinit -> așteaptă 1 sec -> modifică timp cu 1"
+      }
+    ],
+    "typing": [
+      "repetare",
+      "buclă",
+      "ciclu",
+      "infinit",
+      "control",
+      "iterație",
+      "pauză",
+      "condiție",
+      "structură",
+      "eficiență"
+    ]
+  }
+}

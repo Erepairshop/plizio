@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Liste",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este o listă în Scratch?",
+        "options": [
+          "O colecție de mai multe valori sub același nume",
+          "Un singur număr",
+          "Un personaj",
+          "O imagine"
+        ],
+        "answer": "O colecție de mai multe valori sub același nume"
+      },
+      {
+        "question": "Cum adăugăm un element la o listă?",
+        "options": [
+          "Blocul 'adaugă [lucru] la [listă]'",
+          "Îl scriem pe monitor",
+          "Apăsăm Space",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'adaugă [lucru] la [listă]'"
+      },
+      {
+        "question": "Ce este indexul unui element?",
+        "options": [
+          "Poziția lui în listă (1, 2, 3...)",
+          "Numele lui",
+          "Culoarea lui",
+          "Valoarea lui"
+        ],
+        "answer": "Poziția lui în listă (1, 2, 3...)"
+      },
+      {
+        "question": "Cum ștergem primul element din listă?",
+        "options": [
+          "Blocul 'șterge 1 din [listă]'",
+          "Blocul 'șterge tot'",
+          "Îl tăiem",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'șterge 1 din [listă]'"
+      },
+      {
+        "question": "Ce face blocul 'șterge tot din [listă]'?",
+        "options": [
+          "Golește lista complet",
+          "Șterge lista definitiv",
+          "Șterge personajul",
+          "Resetează scorul"
+        ],
+        "answer": "Golește lista complet"
+      },
+      {
+        "question": "Cum aflăm lungimea unei liste?",
+        "options": [
+          "Blocul 'lungime de [listă]'",
+          "O numărăm singuri",
+          "Nu se poate",
+          "Scriem un cod lung"
+        ],
+        "answer": "Blocul 'lungime de [listă]'"
+      },
+      {
+        "question": "Putem verifica dacă o listă conține un anumit cuvânt?",
+        "options": [
+          "Da, blocul '[listă] conține [lucru]?'",
+          "Nu",
+          "Doar dacă e prima",
+          "Doar dacă e ultima"
+        ],
+        "answer": "Da, blocul '[listă] conține [lucru]?'"
+      },
+      {
+        "question": "Unde găsim blocurile de Liste?",
+        "options": [
+          "În categoria Variabile (jos)",
+          "În Mișcare",
+          "În Sunet",
+          "În Control"
+        ],
+        "answer": "În categoria Variabile (jos)"
+      },
+      {
+        "question": "Putem insera un element la o anumită poziție?",
+        "options": [
+          "Da, 'inserează la [index]'",
+          "Nu, doar la final",
+          "Doar la început",
+          "Doar la întâmplare"
+        ],
+        "answer": "Da, 'inserează la [index]'"
+      },
+      {
+        "question": "Ce face blocul 'înlocuiește elementul [index] cu [lucru]'?",
+        "options": [
+          "Schimbă valoarea de la acea poziție",
+          "Șterge elementul",
+          "Adaugă unul nou",
+          "Mută lista"
+        ],
+        "answer": "Schimbă valoarea de la acea poziție"
+      },
+      {
+        "question": "Putem vedea lista pe scenă?",
+        "options": [
+          "Da, ca un tabel mare",
+          "Nu",
+          "Doar un element",
+          "Doar dacă e mică"
+        ],
+        "answer": "Da, ca un tabel mare"
+      },
+      {
+        "question": "Câte elemente poate avea o listă?",
+        "options": [
+          "Mii (până la limita memoriei)",
+          "Maxim 10",
+          "Doar 100",
+          "Fix 50"
+        ],
+        "answer": "Mii (până la limita memoriei)"
+      },
+      {
+        "question": "Putem importa o listă dintr-un fișier text?",
+        "options": [
+          "Da, click dreapta pe lista de pe scenă -> Import",
+          "Nu",
+          "Doar prin e-mail",
+          "Doar manual"
+        ],
+        "answer": "Da, click dreapta on the list on stage -> Import"
+      },
+      {
+        "question": "Ce face butonul '+' de pe lista afișată pe scenă?",
+        "options": [
+          "Adaugă manual un element",
+          "Mărește lista",
+          "Adună numerele",
+          "Nu face nimic"
+        ],
+        "answer": "Adaugă manual un element"
+      },
+      {
+        "question": "Ce este un inventar într-un joc?",
+        "options": [
+          "O listă cu obiectele personajului",
+          "O hartă",
+          "Un magazin",
+          "Un sunet"
+        ],
+        "answer": "O listă cu obiectele personajului"
+      },
+      {
+        "question": "Putem sorta o listă automat în Scratch?",
+        "options": [
+          "Nu direct, trebuie să scriem un algoritm",
+          "Da, butonul Sort",
+          "Nu, listele sunt fixe",
+          "Doar alfabetic"
+        ],
+        "answer": "Nu direct, trebuie să scriem un algoritm"
+      },
+      {
+        "question": "Ce se întâmplă dacă cerem elementul 100 dintr-o listă de 10?",
+        "options": [
+          "Returnează nimic (gol)",
+          "Produce o eroare gravă",
+          "Închide jocul",
+          "Afișează elementul 10"
+        ],
+        "answer": "Returnează nimic (gol)"
+      },
+      {
+        "question": "Putem exporta o listă?",
+        "options": [
+          "Da, ca fișier .txt",
+          "Nu",
+          "Doar ca imagine",
+          "Doar ca PDF"
+        ],
+        "answer": "Da, ca fișier .txt"
+      },
+      {
+        "question": "Ce este o listă de liste?",
+        "options": [
+          "Nu există direct în Scratch, dar se poate simula",
+          "O listă dublă",
+          "O eroare",
+          "Un tabel 3D"
+        ],
+        "answer": "Nu există direct în Scratch, dar se poate simula"
+      },
+      {
+        "question": "Cum aflăm poziția unui element în listă?",
+        "options": [
+          "Blocul 'poziția lui [lucru] în [listă]'",
+          "Îl căutăm cu ochii",
+          "Nu se poate",
+          "Întrebăm personajul"
+        ],
+        "answer": "Blocul 'poziția lui [lucru] în [listă]'"
+      },
+      {
+        "question": "Putem schimba mărimea listei afișate pe scenă?",
+        "options": [
+          "Da, trăgând de colțul ei",
+          "Nu",
+          "Doar din cod",
+          "Doar în setări"
+        ],
+        "answer": "Da, trăgând de colțul ei"
+      },
+      {
+        "question": "Ce este o listă goală?",
+        "options": [
+          "O listă cu lungimea 0",
+          "O listă care nu are nume",
+          "O listă de fundal",
+          "O eroare"
+        ],
+        "answer": "O listă cu lungimea 0"
+      },
+      {
+        "question": "Putem folosi liste pentru a salva dialoguri?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar dacă sunt scurte",
+          "Doar în engleză"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce culoare au blocurile de liste?",
+        "options": [
+          "Roșu închis / Portocaliu",
+          "Verde",
+          "Albastru",
+          "Galben"
+        ],
+        "answer": "Roșu închis / Portocaliu"
+      },
+      {
+        "question": "De ce sunt utile listele?",
+        "options": [
+          "Pentru a gestiona volume mari de date",
+          "Pentru a desena",
+          "Pentru a face zgomot",
+          "Pentru a strica codul"
+        ],
+        "answer": "Pentru a gestiona volume mari de date"
+      }
+    ],
+    "typing": [
+      "listă",
+      "element",
+      "index",
+      "adăugare",
+      "ștergere",
+      "lungime",
+      "inserare",
+      "căutare",
+      "inventar",
+      "colecție"
+    ]
+  }
+}

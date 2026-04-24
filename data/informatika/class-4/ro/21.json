@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Munca digitală",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce înseamnă munca digitală?",
+        "options": [
+          "Folosirea uneltelor informatice pentru a crea sau rezolva sarcini",
+          "Săpatul în grădină",
+          "Jocul pe consolă",
+          "Mersul pe jos"
+        ],
+        "answer": "Folosirea uneltelor informatice pentru a crea sau rezolva sarcini"
+      },
+      {
+        "question": "Ce este un 'document' digital?",
+        "options": [
+          "Un fișier cu text (ex. .docx, .pdf)",
+          "O foaie de hârtie",
+          "O piatră",
+          "Un sunet"
+        ],
+        "answer": "Un fișier cu text (ex. .docx, .pdf)"
+      },
+      {
+        "question": "Ce este munca colaborativă online?",
+        "options": [
+          "Mai multe persoane lucrează la același fișier în același timp",
+          "Fiecare lucrează singur",
+          "Privitul la TV",
+          "Trimiterea de scrisori"
+        ],
+        "answer": "Mai multe persoane lucrează la același fișier în același timp"
+      },
+      {
+        "question": "Care este un exemplu de unealtă pentru colaborare?",
+        "options": [
+          "Google Docs",
+          "Notepad (simplu)",
+          "Calculatorul de mână",
+          "Pixul"
+        ],
+        "answer": "Google Docs"
+      },
+      {
+        "question": "Ce este 'Cloud Computing'?",
+        "options": [
+          "Salvarea și folosirea datelor pe internet (servere), nu doar pe PC local",
+          "Calculatul norilor",
+          "Vremea la TV",
+          "O eroare de monitor"
+        ],
+        "answer": "Salvarea și folosirea datelor pe internet (servere), nu doar pe PC local"
+      },
+      {
+        "question": "De ce e util să salvăm în Cloud?",
+        "options": [
+          "Putem accesa fișierele de pe orice dispozitiv",
+          "Pentru că e la modă",
+          "Pentru a consuma curent",
+          "Nu e util"
+        ],
+        "answer": "Putem accesa fișierele de pe orice dispozitiv"
+      },
+      {
+        "question": "Ce este un 'folder' (dosar)?",
+        "options": [
+          "Un loc unde organizăm mai multe fișiere",
+          "O piesă de hardware",
+          "Un virus",
+          "O tastă"
+        ],
+        "answer": "Un loc unde organizăm mai multe fișiere"
+      },
+      {
+        "question": "De ce este importantă organizarea fișierelor?",
+        "options": [
+          "Pentru a le găsi repede și a nu le pierde",
+          "Pentru a părea ordonați",
+          "Pentru a ocupa spațiu",
+          "E obligatoriu"
+        ],
+        "answer": "Pentru a le găsi repede și a nu le pierde"
+      },
+      {
+        "question": "Ce înseamnă să 'partajezi' (share) un fișier?",
+        "options": [
+          "Să dai acces și altora să-l vadă sau să-l editeze",
+          "Să-l rupi în două",
+          "Să-l ștergi",
+          "Să-l colorezi"
+        ],
+        "answer": "Să dai acces și altora să-l vadă sau să-l editeze"
+      },
+      {
+        "question": "Ce este un comentariu într-un document colaborativ?",
+        "options": [
+          "O notă pentru colegi despre o parte din text",
+          "O jignire",
+          "Un titlu mare",
+          "O poză"
+        ],
+        "answer": "O notă pentru colegi despre o parte din text"
+      },
+      {
+        "question": "Ce este 'istoricul versiunilor'?",
+        "options": [
+          "O listă cu toate schimbările făcute în timp în document",
+          "O carte de istorie",
+          "O listă de prieteni",
+          "Nu există"
+        ],
+        "answer": "O listă cu toate schimbările făcute în timp în document"
+      },
+      {
+        "question": "Putem lucra la proiecte școlare pe calculator?",
+        "options": [
+          "Da, este foarte util și arată profesional",
+          "Nu, e interzis",
+          "Doar dacă avem 18 ani",
+          "Doar la ora de info"
+        ],
+        "answer": "Da, este foarte util și arată profesional"
+      },
+      {
+        "question": "Ce este o foaie de calcul (spreadsheet)?",
+        "options": [
+          "Un tabel pentru date și calcule (ex. Excel)",
+          "O foaie de desen",
+          "O pătură",
+          "Un sunet"
+        ],
+        "answer": "Un tabel pentru date și calcule (ex. Excel)"
+      },
+      {
+        "question": "Ce este o prezentare digitală?",
+        "options": [
+          "O serie de slide-uri cu imagini și text (ex. PowerPoint)",
+          "Un film la cinema",
+          "Un radio",
+          "O carte"
+        ],
+        "answer": "O serie de slide-uri cu imagini și text (ex. PowerPoint)"
+      },
+      {
+        "question": "Ce înseamnă 'Remote Work' (telemuncă)?",
+        "options": [
+          "Munca de acasă folosind internetul",
+          "Munca în spațiu",
+          "Munca cu telecomanda",
+          "Munca grea"
+        ],
+        "answer": "Munca de acasă folosind internetul"
+      },
+      {
+        "question": "Cum trimitem un proiect profesorului rapid?",
+        "options": [
+          "Prin e-mail sau platforme școlare (ex. Classroom)",
+          "Prin poștă",
+          "Îl scriem pe gard",
+          "Nu-l trimitem"
+        ],
+        "answer": "Prin e-mail sau platforme școlare (ex. Classroom)"
+      },
+      {
+        "question": "Ce este 'neticheta' (eticheta pe net)?",
+        "options": [
+          "Regulile de bună purtare în mediul digital",
+          "O etichetă de preț",
+          "Un virus",
+          "O rețea de pescuit"
+        ],
+        "answer": "Regulile de bună purtare în mediul digital"
+      },
+      {
+        "question": "De ce nu e bine să scriem totul cu LITERE MARI?",
+        "options": [
+          "Pare că țipăm la ceilalți",
+          "E mai greu de tastat",
+          "Consumă mai multă baterie",
+          "E interzis de Google"
+        ],
+        "answer": "Pare că țipăm la ceilalți"
+      },
+      {
+        "question": "Ce este un 'avatar'?",
+        "options": [
+          "O imagine care ne reprezintă online",
+          "Un film cu oameni albaștri",
+          "O eroare de poză",
+          "Un virus"
+        ],
+        "answer": "O imagine care ne reprezintă online"
+      },
+      {
+        "question": "Ce este 'ergonomia' la calculator?",
+        "options": [
+          "Poziția corectă a corpului pentru a nu ne durea spatele/ochii",
+          "Mărimea monitorului",
+          "Prețul PC-ului",
+          "Viteza netului"
+        ],
+        "answer": "Poziția corectă a corpului pentru a nu ne durea spatele/ochii"
+      },
+      {
+        "question": "Cât de des ar trebui să facem pauze de la ecran?",
+        "options": [
+          "La fiecare 20-30 de minute (regula 20-20-20)",
+          "O dată pe zi",
+          "Niciodată",
+          "Doar când se termină bateria"
+        ],
+        "answer": "La fiecare 20-30 de minute (regula 20-20-20)"
+      },
+      {
+        "question": "Ce este 'backup-ul'?",
+        "options": [
+          "O copie de rezervă a fișierelor importante",
+          "Mersul cu spatele",
+          "O eroare de sistem",
+          "Un joc vechi"
+        ],
+        "answer": "O copie de rezervă a fișierelor importante"
+      },
+      {
+        "question": "Este important să fim politicoși în mesaje?",
+        "options": [
+          "Da, respectul e esențial și online",
+          "Nu, nu ne vede nimeni",
+          "Doar cu profesorii",
+          "Doar cu prietenii"
+        ],
+        "answer": "Da, respectul e esențial și online"
+      },
+      {
+        "question": "Ce este un 'link de vizualizare'?",
+        "options": [
+          "Un link prin care alții pot doar să vadă, nu să modifice",
+          "Un ochi digital",
+          "O eroare",
+          "Un site de filme"
+        ],
+        "answer": "Un link prin care alții pot doar să vadă, nu să modifice"
+      },
+      {
+        "question": "Munca digitală ajută la protejarea mediului?",
+        "options": [
+          "Da, consumăm mai puțină hârtie",
+          "Nu, consumă curent",
+          "Nu are legătură",
+          "Doar dacă PC-ul e verde"
+        ],
+        "answer": "Da, consumăm mai puțină hârtie"
+      }
+    ],
+    "typing": [
+      "colaborare",
+      "document",
+      "dosar",
+      "partajare",
+      "proiect",
+      "digital",
+      "comunicare",
+      "eficiență",
+      "organizare",
+      "respect"
+    ]
+  }
+}

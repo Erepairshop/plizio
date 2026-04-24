@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Website Security",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Strong Password'?",
+      "options": [
+        "A long mix of letters, numbers, and symbols",
+        "Your name",
+        "123456",
+        "Your birthday"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you share your password with friends?",
+      "options": [
+        "No, keep it secret from everyone",
+        "Yes, only best friends",
+        "Only if they ask",
+        "Only at school"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'HTTPS' in a URL indicate?",
+      "options": [
+        "The connection is secure (encrypted)",
+        "The website is fast",
+        "The website is free",
+        "The website has music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Phishing'?",
+      "options": [
+        "Tricking people into giving secrets via fake emails/sites",
+        "Catching fish",
+        "Playing a game",
+        "Drawing a sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Malware'?",
+      "options": [
+        "Harmful software (viruses, etc.)",
+        "A good software",
+        "A computer part",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Firewall'?",
+      "options": [
+        "Security that blocks unauthorized access",
+        "A wall made of fire",
+        "A computer monitor",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you get a message saying you won a free phone?",
+      "options": [
+        "Ignore it, it's likely a scam",
+        "Click it immediately",
+        "Give them your address",
+        "Tell your friends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Two-Factor Authentication' (2FA)?",
+      "options": [
+        "Using two steps to log in (like password + code)",
+        "Using two computers",
+        "Using two passwords",
+        "Two people logging in"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Private Account'?",
+      "options": [
+        "An account where only friends see your posts",
+        "A hidden account",
+        "A paid account",
+        "A school account"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it safe to download files from unknown websites?",
+      "options": [
+        "No, they could contain viruses",
+        "Yes, always",
+        "Only if they are small",
+        "Only for games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Identity Theft'?",
+      "options": [
+        "Stealing someone's personal info to act like them",
+        "Stealing a computer",
+        "Naming a sprite",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Lock icon' in the browser address bar for?",
+      "options": [
+        "Shows the site uses a secure connection",
+        "Locked website",
+        "Deleted website",
+        "A secret website"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Anti-virus' software?",
+      "options": [
+        "Program that protects against malware",
+        "A virus",
+        "A game",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you use the same password for every website?",
+      "options": [
+        "No, use different ones for safety",
+        "Yes, it is easier",
+        "Only for social media",
+        "Only for games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cyberbullying'?",
+      "options": [
+        "Being mean or threatening to others online",
+        "Playing a game",
+        "Drawing a sprite",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Footprint'?",
+      "options": [
+        "The trail of data you leave online",
+        "A picture of your foot",
+        "A type of code",
+        "A sprite look"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to meet someone in person you only know from online?",
+      "options": [
+        "No, unless parents go with you and agree",
+        "Yes, if they seem nice",
+        "Only in the park",
+        "Only during the day"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Privacy Policy'?",
+      "options": [
+        "Rules on how a site uses your data",
+        "A secret document",
+        "A game rule",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Encryption'?",
+      "options": [
+        "Scrambling data so only authorized people can read it",
+        "Deleting data",
+        "Printing data",
+        "Saving data"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Spam'?",
+      "options": [
+        "Unwanted junk emails or messages",
+        "A type of food",
+        "A fast sprite",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can websites track your location?",
+      "options": [
+        "Yes, often",
+        "No, never",
+        "Only if you have a GPS",
+        "Only on Thursdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Adware'?",
+      "options": [
+        "Software that shows unwanted ads",
+        "Good software",
+        "A computer part",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who should you talk to if something online makes you uncomfortable?",
+      "options": [
+        "A trusted adult (parent or teacher)",
+        "Nobody",
+        "Your cat",
+        "The computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bot'?",
+      "options": [
+        "An automated program",
+        "A real person",
+        "A sprite name",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it good to update your software often?",
+      "options": [
+        "Yes, to get the latest security fixes",
+        "No, it wastes time",
+        "Only for games",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Safe",
+      "answer": "Safe"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Secure",
+      "answer": "Secure"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Guard",
+      "answer": "Guard"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Secret",
+      "answer": "Secret"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Shield",
+      "answer": "Shield"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Rule",
+      "answer": "Rule"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stop",
+      "answer": "Stop"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hide",
+      "answer": "Hide"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Alert",
+      "answer": "Alert"
+    }
+  ]
+}

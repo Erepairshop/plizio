@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Animație",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este o animație în Scratch?",
+        "options": [
+          "Schimbarea rapidă a costumelor",
+          "Un singur desen",
+          "Un sunet lung",
+          "Un text fix"
+        ],
+        "answer": "Schimbarea rapidă a costumelor"
+      },
+      {
+        "question": "Ce bloc folosim pentru a trece la costumul următor?",
+        "options": [
+          "Costumul următor",
+          "Costumul precedent",
+          "Schimbă fundalul",
+          "Mergi la pas"
+        ],
+        "answer": "Costumul următor"
+      },
+      {
+        "question": "Cum facem o animație să se repete?",
+        "options": [
+          "Folosim un bloc 'la infinit'",
+          "O scriem de 100 de ori",
+          "Nu se poate repeta",
+          "Apăsăm Enter mereu"
+        ],
+        "answer": "Folosim un bloc 'la infinit'"
+      },
+      {
+        "question": "De ce avem nevoie de blocul 'așteaptă' în animație?",
+        "options": [
+          "Pentru a nu se mișca prea repede",
+          "Pentru a opri calculatorul",
+          "Pentru a schimba culoarea",
+          "Pentru a mări personajul"
+        ],
+        "answer": "Pentru a nu se mișca prea repede"
+      },
+      {
+        "question": "Ce face blocul 'modifică efectul culoare'?",
+        "options": [
+          "Schimbă culoarea personajului",
+          "Schimbă muzica",
+          "Șterge ecranul",
+          "Schimbă limba"
+        ],
+        "answer": "Schimbă culoarea personajului"
+      },
+      {
+        "question": "Cum facem un personaj să pară că merge?",
+        "options": [
+          "Alternăm două costume de mers",
+          "Îl mutăm 100 de pași",
+          "Îl rotim",
+          "Îl ascundem și îl arătăm"
+        ],
+        "answer": "Alternăm două costume de mers"
+      },
+      {
+        "question": "Ce este efectul 'ochi de pește' (fisheye)?",
+        "options": [
+          "Umflă centrul personajului",
+          "Îl face verde",
+          "Îl face să dispară",
+          "Îl rotește"
+        ],
+        "answer": "Umflă centrul personajului"
+      },
+      {
+        "question": "Cum resetăm toate efectele grafice?",
+        "options": [
+          "Blocul 'anulează efectele grafice'",
+          "Închidem Scratch",
+          "Ștergem personajul",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'anulează efectele grafice'"
+      },
+      {
+        "question": "Ce face efectul 'vârtej' (whirl)?",
+        "options": [
+          "Răsucește personajul",
+          "Îl face transparent",
+          "Îl multiplică",
+          "Îl face pătrățos"
+        ],
+        "answer": "Răsucește personajul"
+      },
+      {
+        "question": "Ce face efectul 'mozaic'?",
+        "options": [
+          "Multiplică imaginea personajului",
+          "O face gri",
+          "O face să dispară",
+          "O transformă în text"
+        ],
+        "answer": "Multiplică imaginea personajului"
+      },
+      {
+        "question": "Cum facem un personaj să devină transparent?",
+        "options": [
+          "Efectul 'fantomă' (ghost)",
+          "Efectul 'culoare'",
+          "Efectul 'vârtej'",
+          "Efectul 'mozaic'"
+        ],
+        "answer": "Efectul 'fantomă' (ghost)"
+      },
+      {
+        "question": "Unde desenăm costumele noi?",
+        "options": [
+          "În tab-ul Costume",
+          "În tab-ul Cod",
+          "În tab-ul Sunete",
+          "În Word"
+        ],
+        "answer": "În tab-ul Costume"
+      },
+      {
+        "question": "Ce este o animație 'frame by frame'?",
+        "options": [
+          "Animație cadru cu cadru",
+          "O animație automată",
+          "Un sunet",
+          "Un joc"
+        ],
+        "answer": "Animație cadru cu cadru"
+      },
+      {
+        "question": "Cum schimbăm dimensiunea în timpul animației?",
+        "options": [
+          "Blocul 'modifică mărimea cu 10'",
+          "Blocul 'mergi'",
+          "Blocul 'spune'",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'modifică mărimea cu 10'"
+      },
+      {
+        "question": "Ce face blocul 'treci la costumul [nume]'?",
+        "options": [
+          "Alege un costum specific",
+          "Alege unul la întâmplare",
+          "Șterge costumul",
+          "Schimbă fundalul"
+        ],
+        "answer": "Alege un costum specific"
+      },
+      {
+        "question": "Putem anima fundalul?",
+        "options": [
+          "Da, prin schimbarea decorurilor",
+          "Nu, fundalul e fix",
+          "Doar dacă e alb",
+          "Doar în modul demo"
+        ],
+        "answer": "Da, prin schimbarea decorurilor"
+      },
+      {
+        "question": "Câte costume poate avea un personaj?",
+        "options": [
+          "Oricâte (limita memoria PC-ului)",
+          "Maxim 2",
+          "Doar 10",
+          "Fix 100"
+        ],
+        "answer": "Oricâte (limita memoria PC-ului)"
+      },
+      {
+        "question": "Ce face butonul 'Oglindă' în editorul de costume?",
+        "options": [
+          "Întoarce imaginea",
+          "O face mai strălucitoare",
+          "O dublează",
+          "O șterge"
+        ],
+        "answer": "Întoarce imaginea"
+      },
+      {
+        "question": "Putem importa un GIF animat în Scratch?",
+        "options": [
+          "Da, se va transforma în mai multe costume",
+          "Nu",
+          "Doar ca fundal",
+          "Doar ca sunet"
+        ],
+        "answer": "Da, se va transforma în mai multe costume"
+      },
+      {
+        "question": "Ce face blocul 'treci la decorul următor'?",
+        "options": [
+          "Schimbă imaginea de fundal cu următoarea",
+          "Schimbă personajul",
+          "Oprește animația",
+          "Săre la final"
+        ],
+        "answer": "Schimbă imaginea de fundal cu următoarea"
+      },
+      {
+        "question": "Ce este viteza de animație?",
+        "options": [
+          "Cât de repede se schimbă costumele",
+          "Viteza de mers",
+          "Viteza sunetului",
+          "Timpul de încărcare"
+        ],
+        "answer": "Cât de repede se schimbă costumele"
+      },
+      {
+        "question": "Cum facem un personaj să 'pulseze'?",
+        "options": [
+          "Ciclul de mărire și micșorare repetat",
+          "Blocul 'mergi'",
+          "Un sunet tare",
+          "Schimbarea culorii"
+        ],
+        "answer": "Ciclul de mărire și micșorare repetat"
+      },
+      {
+        "question": "Ce face efectul 'pixelare'?",
+        "options": [
+          "Face imaginea din pătrățele mari",
+          "O face clară",
+          "O face invizibilă",
+          "O rotește"
+        ],
+        "answer": "Face imaginea din pătrățele mari"
+      },
+      {
+        "question": "Putem copia un costum de la un personaj la altul?",
+        "options": [
+          "Da, prin tragere în lista lor",
+          "Nu",
+          "Doar prin re-desenare",
+          "Doar prin e-mail"
+        ],
+        "answer": "Da, prin tragere în lista lor"
+      },
+      {
+        "question": "Ce este 'scrubbing' în animație?",
+        "options": [
+          "Trecerea manuală prin cadre",
+          "Curățarea monitorului",
+          "Ștergerea codului",
+          "Un stil de mers"
+        ],
+        "answer": "Trecerea manuală prin cadre"
+      }
+    ],
+    "typing": [
+      "animație",
+      "costum",
+      "fantomă",
+      "mozaic",
+      "pixelare",
+      "vârtej",
+      "mărime",
+      "decor",
+      "cadru",
+      "repetare"
+    ]
+  }
+}

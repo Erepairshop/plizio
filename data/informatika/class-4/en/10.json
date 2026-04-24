@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Conditions",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does an 'If-Then' block do?",
+      "options": [
+        "Runs code only if a condition is true",
+        "Runs code forever",
+        "Stops the program",
+        "Changes the cat's color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the difference between 'If' and 'If-Else'?",
+      "options": [
+        "If-Else has an alternative if the condition is false",
+        "If is faster",
+        "If-Else is only for sounds",
+        "There is no difference"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shape are condition blocks (Booleans)?",
+      "options": [
+        "Diamond / Hexagon",
+        "Oval",
+        "Circle",
+        "Square"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block checks if a sprite is touching the mouse pointer?",
+      "options": [
+        "Touching [mouse-pointer]?",
+        "Is mouse touching?",
+        "Clicking?",
+        "Near mouse?"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Touching color [ ]?' check for?",
+      "options": [
+        "If the sprite touches a specific color on stage",
+        "If the sprite's costume is that color",
+        "If the mouse is that color",
+        "If the background is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find 'If-Then' blocks?",
+      "options": [
+        "Control category",
+        "Events category",
+        "Motion category",
+        "Sensing category"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the '=' operator check?",
+      "options": [
+        "If two values are exactly the same",
+        "If the first is bigger",
+        "If the first is smaller",
+        "If they are both colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Wait until [ ]' do?",
+      "options": [
+        "Pauses code until the condition is true",
+        "Wait for 1 second",
+        "Stops the program forever",
+        "Wait for a mouse click"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put an 'If' block inside another 'If' block?",
+      "options": [
+        "Yes, this is called 'nesting'",
+        "No",
+        "Only in the pro version",
+        "Only for variables"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the '<' operator mean?",
+      "options": [
+        "Less than",
+        "Greater than",
+        "Equal to",
+        "Not equal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category contains 'Touching?' and 'Distance to?'?",
+      "options": [
+        "Sensing",
+        "Control",
+        "Motion",
+        "Operations"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of '10 > 5'?",
+      "options": [
+        "True",
+        "False",
+        "15",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Not [condition]' do?",
+      "options": [
+        "Reverses the result (True becomes False)",
+        "Makes it False always",
+        "Makes it True always",
+        "Deletes the condition"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you check if two conditions are both true?",
+      "options": [
+        "Use the 'and' block",
+        "Use the 'or' block",
+        "Use two 'If' blocks",
+        "Use a 'Wait' block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "When does the 'Else' part of an 'If-Else' block run?",
+      "options": [
+        "When the condition is False",
+        "When the condition is True",
+        "Always",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a Boolean (diamond) block?",
+      "options": [
+        "Key [space] pressed?",
+        "Move 10 steps",
+        "Wait 1 sec",
+        "Set score to 0"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Repeat until [ ]' do?",
+      "options": [
+        "Loops until the condition becomes true",
+        "Loops once",
+        "Loops forever",
+        "Wait for a sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Sensing blocks?",
+      "options": [
+        "Light Blue",
+        "Green",
+        "Orange",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Operators blocks?",
+      "options": [
+        "Green",
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Control flow'?",
+      "options": [
+        "The order in which code runs",
+        "Moving a sprite with a joystick",
+        "Changing the volume",
+        "Saving your work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a variable in a condition like 'If score > 10'?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for health",
+        "Only in My Blocks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'or' block do?",
+      "options": [
+        "True if at least one condition is true",
+        "True only if both are true",
+        "False always",
+        "True only if both are false"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block would you use for a 'Game Over' condition?",
+      "options": [
+        "If lives < 1",
+        "Repeat 10",
+        "Move 10 steps",
+        "Say Hello"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you check if the mouse button is down?",
+      "options": [
+        "Mouse down? block",
+        "Clicking? block",
+        "If mouse",
+        "Sensing mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'True' and 'False' the only Boolean values?",
+      "options": [
+        "Yes",
+        "No, there is 'Maybe'",
+        "No, there is 'None'",
+        "Only in Scratch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Condition",
+      "answer": "Condition"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Boolean",
+      "answer": "Boolean"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: True",
+      "answer": "True"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: False",
+      "answer": "False"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: If",
+      "answer": "If"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Else",
+      "answer": "Else"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sensing",
+      "answer": "Sensing"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Operator",
+      "answer": "Operator"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wait",
+      "answer": "Wait"
+    }
+  ]
+}

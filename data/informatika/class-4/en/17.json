@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Presentation Task",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the goal of a presentation?",
+      "options": [
+        "To share information with others",
+        "To be quiet",
+        "To play games",
+        "To sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which software is commonly used for presentations?",
+      "options": [
+        "PowerPoint / Google Slides",
+        "Word",
+        "Excel",
+        "Photoshop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Slide'?",
+      "options": [
+        "A single page in a presentation",
+        "A playground toy",
+        "A type of code",
+        "A cat name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you put too much text on one slide?",
+      "options": [
+        "No, keep it simple and easy to read",
+        "Yes, as much as possible",
+        "Only if it is red",
+        "Only for the teacher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Body Language'?",
+      "options": [
+        "How you use your posture and gestures while talking",
+        "A type of variable",
+        "A sound effect",
+        "The cat's position"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How should you speak during a presentation?",
+      "options": [
+        "Clearly and loudly enough for everyone",
+        "Whisper",
+        "Shout at one person",
+        "Don't talk at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Audience'?",
+      "options": [
+        "The people watching your presentation",
+        "Your family",
+        "The computer",
+        "The cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why use 'Visual Aids' (images, charts)?",
+      "options": [
+        "To help the audience understand better",
+        "To waste time",
+        "To hide the text",
+        "To make it longer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Eye Contact'?",
+      "options": [
+        "Looking at your audience while speaking",
+        "Looking at the floor",
+        "Looking at your notes only",
+        "Closing your eyes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Title Slide'?",
+      "options": [
+        "The first slide with the topic name",
+        "The last slide",
+        "A hidden slide",
+        "The slide with music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bullet Point'?",
+      "options": [
+        "A short item in a list",
+        "A type of gun",
+        "A circle on the stage",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it important to practice your presentation?",
+      "options": [
+        "Yes, to be confident and prepared",
+        "No, just wing it",
+        "Only for adults",
+        "Only if you have time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do at the end of a presentation?",
+      "options": [
+        "Thank the audience and ask for questions",
+        "Run away",
+        "Start a game",
+        "Turn off the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Clarity'?",
+      "options": [
+        "Being easy to understand",
+        "Being very loud",
+        "Being very fast",
+        "Being colorful"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use Scratch to make a presentation?",
+      "options": [
+        "Yes, using backdrops and speech bubbles",
+        "No, never",
+        "Only for games",
+        "Only for music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Tone of Voice'?",
+      "options": [
+        "The emotion and style of your speaking",
+        "How loud you are",
+        "A type of music",
+        "A variable name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you read exactly what's on the slide?",
+      "options": [
+        "No, explain it in your own words",
+        "Yes, word for word",
+        "Only if you forget",
+        "Only if it is short"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Outline'?",
+      "options": [
+        "A plan of what you will say",
+        "A border around a sprite",
+        "The end of a project",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Design' important in slides?",
+      "options": [
+        "It makes it professional and attractive",
+        "It makes it take longer",
+        "It changes the grade",
+        "It stops bugs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Transition' in presentations?",
+      "options": [
+        "The way you move between slides",
+        "A type of code",
+        "A sound effect",
+        "A costume change"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you handle 'Stage Fright'?",
+      "options": [
+        "Take deep breaths and focus",
+        "Don't show up",
+        "Cry",
+        "Shout"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Timing'?",
+      "options": [
+        "How long you spend on each part",
+        "The clock on the wall",
+        "A variable name",
+        "A loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to use humor in a presentation?",
+      "options": [
+        "Yes, if it fits the topic",
+        "No, never",
+        "Only if the teacher laughs",
+        "Only for kids"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Summary'?",
+      "options": [
+        "The key points at the end",
+        "A season",
+        "The cat's name",
+        "A type of variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you show a video in a presentation?",
+      "options": [
+        "Yes, most software allows it",
+        "No",
+        "Only if it is silent",
+        "Only in space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Slide",
+      "answer": "Slide"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Speak",
+      "answer": "Speak"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Listen",
+      "answer": "Listen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Show",
+      "answer": "Show"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Topic",
+      "answer": "Topic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Plan",
+      "answer": "Plan"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Idea",
+      "answer": "Idea"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Clear",
+      "answer": "Clear"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Share",
+      "answer": "Share"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Learn",
+      "answer": "Learn"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "class": 4,
+  "theme": "Netiquette & Cybermobbing",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_22_1",
+      "type": "mcq",
+      "question": "Was ist Netiquette?",
+      "options": [
+        "Höflichkeit im Netz",
+        "Ein Spiel",
+        "Ein Fisch",
+        "Ein PC"
+      ],
+      "answer": "Höflichkeit im Netz",
+      "explanation": "Gutes Benehmen."
+    },
+    {
+      "id": "mcq_22_2",
+      "type": "mcq",
+      "question": "Cybermobbing?",
+      "options": [
+        "Beleidigung online",
+        "Fahrrad fahren",
+        "Essen",
+        "Sport"
+      ],
+      "answer": "Beleidigung online",
+      "explanation": "Internet-Gewalt."
+    },
+    {
+      "id": "typing_22_1",
+      "type": "typing",
+      "text": "Ich verhalte mich höflich und nett zu anderen Usern.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "mcq_22_25",
+      "type": "mcq",
+      "question": "Hilfe holen?",
+      "options": [
+        "Immer bei Mobbing",
+        "Niemals",
+        "Mitmachen",
+        "PC aus"
+      ],
+      "answer": "Immer bei Mobbing",
+      "explanation": "Wichtig!"
+    },
+    {
+      "id": "typing_22_10",
+      "type": "typing",
+      "text": "Gemeinsam sorgen wir für ein freundliches Miteinander online.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "class": 4,
+  "theme": "Digitales Arbeiten & Cloud",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_21_1",
+      "type": "mcq",
+      "question": "Was ist die Cloud?",
+      "options": [
+        "Speicher im Internet",
+        "Wetterwolke",
+        "Ein Spiel",
+        "Ein PC"
+      ],
+      "answer": "Speicher im Internet",
+      "explanation": "Online-Festplatte."
+    },
+    {
+      "id": "mcq_21_2",
+      "type": "mcq",
+      "question": "Vorteil Cloud?",
+      "options": [
+        "Zugriff von überall",
+        "Nur zu Hause",
+        "Kostet immer Millionen",
+        "PC kaputt"
+      ],
+      "answer": "Zugriff von überall",
+      "explanation": "Flexibilität."
+    },
+    {
+      "id": "typing_21_1",
+      "type": "typing",
+      "text": "Ich speichere meine Hausaufgaben in der Cloud ab.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "mcq_21_25",
+      "type": "mcq",
+      "question": "Zusammenarbeit?",
+      "options": [
+        "Gleichzeitig editieren",
+        "Nur nacheinander",
+        "Verboten",
+        "Zufall"
+      ],
+      "answer": "Gleichzeitig editieren",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "typing_21_10",
+      "type": "typing",
+      "text": "Digitales Arbeiten erleichtert die Organisation im Team.",
+      "difficulty": "medium"
+    }
+  ]
+}

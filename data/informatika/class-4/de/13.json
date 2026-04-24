@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Sound und Musik im Programm",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_13_1",
+      "type": "mcq",
+      "question": "Was ist Sound?",
+      "options": [
+        "Ton/Geräusch",
+        "Bild",
+        "Text",
+        "Variable"
+      ],
+      "answer": "Ton/Geräusch",
+      "explanation": "Akustik."
+    },
+    {
+      "id": "mcq_13_2",
+      "type": "mcq",
+      "question": "Sound-Tab?",
+      "options": [
+        "Dort verwaltet man Töne",
+        "Dort malt man",
+        "Dort tippt man",
+        "Zufall"
+      ],
+      "answer": "Dort verwaltet man Töne",
+      "explanation": "Editor."
+    },
+    {
+      "id": "mcq_13_3",
+      "type": "mcq",
+      "question": "Ton abspielen?",
+      "options": [
+        "Spiele Ganz Block",
+        "Gehe Block",
+        "Malt Block",
+        "Variable"
+      ],
+      "answer": "Spiele Ganz Block",
+      "explanation": "Bis zum Ende."
+    },
+    {
+      "id": "mcq_13_4",
+      "type": "mcq",
+      "question": "Ton starten?",
+      "options": [
+        "Starte Klang Block",
+        "Warte Block",
+        "Lösche Block",
+        "Fahne"
+      ],
+      "answer": "Starte Klang Block",
+      "explanation": "Läuft parallel weiter."
+    },
+    {
+      "id": "mcq_13_5",
+      "type": "mcq",
+      "question": "Alle Klänge stoppen?",
+      "options": [
+        "Stoppt alles",
+        "Stoppt einen",
+        "Pause",
+        "Zufall"
+      ],
+      "answer": "Stoppt alles",
+      "explanation": "Ruhe."
+    },
+    {
+      "id": "mcq_13_6",
+      "type": "mcq",
+      "question": "Lautstärke ändern?",
+      "options": [
+        "Ändere Lautstärke um ...",
+        "Setze Farbe auf ...",
+        "Gehe Schritte",
+        "PC aus"
+      ],
+      "answer": "Ändere Lautstärke um ...",
+      "explanation": "Lauter/Leiser."
+    },
+    {
+      "id": "mcq_13_7",
+      "type": "mcq",
+      "question": "Lautstärke auf 100%?",
+      "options": [
+        "Volle Kraft",
+        "Stumm",
+        "Halb laut",
+        "Zufall"
+      ],
+      "answer": "Volle Kraft",
+      "explanation": "Maximum."
+    },
+    {
+      "id": "mcq_13_8",
+      "type": "mcq",
+      "question": "Was ist Pitch?",
+      "options": [
+        "Tonhöhe",
+        "Lautstärke",
+        "Helligkeit",
+        "Dauer"
+      ],
+      "answer": "Tonhöhe",
+      "explanation": "Hoch oder Tief."
+    },
+    {
+      "id": "mcq_13_9",
+      "type": "mcq",
+      "question": "Pan Effekt?",
+      "options": [
+        "Links/Rechts Lautsprecher",
+        "Oben/Unten",
+        "Zufall",
+        "Löschen"
+      ],
+      "answer": "Links/Rechts Lautsprecher",
+      "explanation": "Stereo."
+    },
+    {
+      "id": "mcq_13_10",
+      "type": "mcq",
+      "question": "Klang-Effekte löschen?",
+      "options": [
+        "Block nutzen",
+        "PC neustarten",
+        "Pusten",
+        "Warten"
+      ],
+      "answer": "Block nutzen",
+      "explanation": "Reset."
+    },
+    {
+      "id": "mcq_13_11",
+      "type": "mcq",
+      "question": "Sound aufnehmen?",
+      "options": [
+        "Ja, mit Mikrofon",
+        "Nein",
+        "Nur am Radio",
+        "Nur mit CD"
+      ],
+      "answer": "Ja, mit Mikrofon",
+      "explanation": "Eigene Stimme."
+    },
+    {
+      "id": "mcq_13_12",
+      "type": "mcq",
+      "question": "Sound zuschneiden?",
+      "options": [
+        "Ja, im Editor",
+        "Nein",
+        "Nur Profis",
+        "Nur am Handy"
+      ],
+      "answer": "Ja, im Editor",
+      "explanation": "Bearbeiten."
+    },
+    {
+      "id": "mcq_13_13",
+      "type": "mcq",
+      "question": "Klang-Bibliothek?",
+      "options": [
+        "Vorgegebene Töne",
+        "Nur Musik",
+        "Nur Lärm",
+        "Nichts"
+      ],
+      "answer": "Vorgegebene Töne",
+      "explanation": "Viel Auswahl."
+    },
+    {
+      "id": "mcq_13_14",
+      "type": "mcq",
+      "question": "Was ist ein 'Loop' bei Sound?",
+      "options": [
+        "Ständige Wiederholung",
+        "Einmal hören",
+        "Leiser machen",
+        "Löschen"
+      ],
+      "answer": "Ständige Wiederholung",
+      "explanation": "Endlosmusik."
+    },
+    {
+      "id": "mcq_13_15",
+      "type": "mcq",
+      "question": "Was ist die 'Lautstärke' Variable?",
+      "options": [
+        "Reporter für Pegel",
+        "Ein Knopf",
+        "Ein Bild",
+        "Ein PC"
+      ],
+      "answer": "Reporter für Pegel",
+      "explanation": "Aktueller Wert."
+    },
+    {
+      "id": "mcq_13_16",
+      "type": "mcq",
+      "question": "Erweiterung 'Musik'?",
+      "options": [
+        "Instrumente/Noten",
+        "Nur Bilder",
+        "Nur Text",
+        "Nur Spiele"
+      ],
+      "answer": "Instrumente/Noten",
+      "explanation": "Zusatz-Blöcke."
+    },
+    {
+      "id": "mcq_13_17",
+      "type": "mcq",
+      "question": "Schlagzeug spielen?",
+      "options": [
+        "Musik-Erweiterung",
+        "Bewegung",
+        "Aussehen",
+        "Zufall"
+      ],
+      "answer": "Musik-Erweiterung",
+      "explanation": "Percussion."
+    },
+    {
+      "id": "mcq_13_18",
+      "type": "mcq",
+      "question": "Note spielen?",
+      "options": [
+        "Klavier-Sim",
+        "Malen",
+        "Schreiben",
+        "Hüpfen"
+      ],
+      "answer": "Klavier-Sim",
+      "explanation": "MIDI-Töne."
+    },
+    {
+      "id": "mcq_13_19",
+      "type": "mcq",
+      "question": "Tempo ändern?",
+      "options": [
+        "BPM einstellen",
+        "Farbe einstellen",
+        "PC schneller",
+        "Zufall"
+      ],
+      "answer": "BPM einstellen",
+      "explanation": "Geschwindigkeit."
+    },
+    {
+      "id": "mcq_13_20",
+      "type": "mcq",
+      "question": "Was ist BPM?",
+      "options": [
+        "Beats Per Minute",
+        "Brot Pro Mittag",
+        "Bilder Pro Monitor",
+        "Zufall"
+      ],
+      "answer": "Beats Per Minute",
+      "explanation": "Taktschläge."
+    },
+    {
+      "id": "mcq_13_21",
+      "type": "mcq",
+      "question": "Sound für Kollision?",
+      "options": [
+        "Pling/Puff",
+        "Hallo",
+        "Tschüss",
+        "Zufall"
+      ],
+      "answer": "Pling/Puff",
+      "explanation": "Feedback."
+    },
+    {
+      "id": "mcq_13_22",
+      "type": "mcq",
+      "question": "Hintergrundmusik?",
+      "options": [
+        "Dauerschleife",
+        "Nur am Anfang",
+        "Nur am Ende",
+        "Zufall"
+      ],
+      "answer": "Dauerschleife",
+      "explanation": "Atmosphäre."
+    },
+    {
+      "id": "mcq_13_23",
+      "type": "mcq",
+      "question": "Kann man Sound löschen?",
+      "options": [
+        "Ja, im Editor",
+        "Nein",
+        "Nur am USB",
+        "Gar nicht"
+      ],
+      "answer": "Ja, im Editor",
+      "explanation": "Normales Handling."
+    },
+    {
+      "id": "mcq_13_24",
+      "type": "mcq",
+      "question": "Was ist Echo?",
+      "options": [
+        "Wiederhall",
+        "Licht",
+        "Farbe",
+        "Text"
+      ],
+      "answer": "Wiederhall",
+      "explanation": "Effekt."
+    },
+    {
+      "id": "mcq_13_25",
+      "type": "mcq",
+      "question": "Sound-Export?",
+      "options": [
+        "Ja, als .wav",
+        "Nein",
+        "Nur am Monitor",
+        "Zufall"
+      ],
+      "answer": "Ja, als .wav",
+      "explanation": "Speichern."
+    },
+    {
+      "id": "typing_13_1",
+      "type": "typing",
+      "text": "Ich spiele einen lustigen Soundeffekt in meinem Spiel ab.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_2",
+      "type": "typing",
+      "text": "Die Musik macht die Atmosphäre viel spannender für alle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_3",
+      "type": "typing",
+      "text": "Ich kann meine eigene Stimme mit dem Mikrofon aufnehmen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_4",
+      "type": "typing",
+      "text": "Wir nutzen Instrumente um eine Melodie zu komponieren.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_5",
+      "type": "typing",
+      "text": "Die Lautstärke wird leiser wenn die Figur weit weg ist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_6",
+      "type": "typing",
+      "text": "Ich bearbeite den Klang im integrierten Sound-Editor.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_7",
+      "type": "typing",
+      "text": "Ein Plopp-Geräusch signalisiert dass ein Punkt erzielt wurde.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_8",
+      "type": "typing",
+      "text": "Rhythmus und Tempo sind wichtig für gute Computerspiele.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_9",
+      "type": "typing",
+      "text": "Informatik verbindet Technik mit Musik und anderen Künsten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_13_10",
+      "type": "typing",
+      "text": "Viel Freude beim Experimentieren mit neuen Klängen heute.",
+      "difficulty": "medium"
+    }
+  ]
+}

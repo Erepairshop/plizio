@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Sicherheit und Passwörter",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_20_1",
+      "type": "mcq",
+      "question": "Sicheres Passwort?",
+      "options": [
+        "Lang/Mix (Zahlen/Zeichen)",
+        "12345",
+        "Passwort",
+        "Name"
+      ],
+      "answer": "Lang/Mix (Zahlen/Zeichen)",
+      "explanation": "Schwer zu raten."
+    },
+    {
+      "id": "mcq_20_2",
+      "type": "mcq",
+      "question": "Passwort teilen?",
+      "options": [
+        "Nein, nur Eltern",
+        "Ja, Freunde",
+        "Ja, jedem",
+        "Zufall"
+      ],
+      "answer": "Nein, nur Eltern",
+      "explanation": "Geheimnis."
+    },
+    {
+      "id": "mcq_20_3",
+      "type": "mcq",
+      "question": "Was sind persönliche Daten?",
+      "options": [
+        "Name/Adresse/Telefon",
+        "Wetter",
+        "Farbe vom PC",
+        "Lieblingsessen"
+      ],
+      "answer": "Name/Adresse/Telefon",
+      "explanation": "Privatsphäre schützen."
+    },
+    {
+      "id": "mcq_20_4",
+      "type": "mcq",
+      "question": "Fremde Nachrichten?",
+      "options": [
+        "Ignorieren/Eltern zeigen",
+        "Immer antworten",
+        "Anklicken",
+        "Weiterleiten"
+      ],
+      "answer": "Ignorieren/Eltern zeigen",
+      "explanation": "Vorsicht vor Unbekannten."
+    },
+    {
+      "id": "mcq_20_5",
+      "type": "mcq",
+      "question": "Was ist Viren-Schutz?",
+      "options": [
+        "Programm gegen Schädlinge",
+        "Ein Medikament",
+        "Ein Bild",
+        "Ein PC-Gehäuse"
+      ],
+      "answer": "Programm gegen Schädlinge",
+      "explanation": "Sicherheit-Software."
+    },
+    {
+      "id": "mcq_20_6",
+      "type": "mcq",
+      "question": "Phishing?",
+      "options": [
+        "Datenklau per Mail",
+        "Angeln gehen",
+        "PC spielen",
+        "Ton machen"
+      ],
+      "answer": "Datenklau per Mail",
+      "explanation": "Betrugsversuch."
+    },
+    {
+      "id": "mcq_20_7",
+      "type": "mcq",
+      "question": "Sichere Webseite?",
+      "options": [
+        "Schloss-Symbol (https)",
+        "Viel Werbung",
+        "Keine Bilder",
+        "PC Name"
+      ],
+      "answer": "Schloss-Symbol (https)",
+      "explanation": "Verschlüsselt."
+    },
+    {
+      "id": "mcq_20_8",
+      "type": "mcq",
+      "question": "Was ist Firewall?",
+      "options": [
+        "Digitaler Schutzwall",
+        "Eine echte Wand",
+        "Ein Feuer",
+        "Ein PC"
+      ],
+      "answer": "Digitaler Schutzwall",
+      "explanation": "Netzwerksicherheit."
+    },
+    {
+      "id": "mcq_20_9",
+      "type": "mcq",
+      "question": "Webcam abdecken?",
+      "options": [
+        "Ja, wenn ungenutzt",
+        "Nein, verboten",
+        "Nur bei Licht",
+        "Zufall"
+      ],
+      "answer": "Ja, wenn ungenutzt",
+      "explanation": "Spionageschutz."
+    },
+    {
+      "id": "mcq_20_10",
+      "type": "mcq",
+      "question": "Was ist ein Hacker?",
+      "options": [
+        "Einbruch in Systeme",
+        "Ein Koch",
+        "Ein Sportler",
+        "Ein Bild"
+      ],
+      "answer": "Einbruch in Systeme",
+      "explanation": "Oft kriminell."
+    },
+    {
+      "id": "mcq_20_11",
+      "type": "mcq",
+      "question": "Öffentliches WLAN?",
+      "options": [
+        "Vorsicht bei Bankdaten",
+        "Immer sicher",
+        "Gibt es nicht",
+        "PC aus"
+      ],
+      "answer": "Vorsicht bei Bankdaten",
+      "explanation": "Kann mitgehört werden."
+    },
+    {
+      "id": "mcq_20_12",
+      "type": "mcq",
+      "question": "Backup?",
+      "options": [
+        "Sicherungskopie",
+        "Rückwärts laufen",
+        "PC ausschalten",
+        "Löschen"
+      ],
+      "answer": "Sicherungskopie",
+      "explanation": "Datenverlust verhindern."
+    },
+    {
+      "id": "mcq_20_13",
+      "type": "mcq",
+      "question": "Updates machen?",
+      "options": [
+        "Ja, schließt Lücken",
+        "Nein, nervt nur",
+        "Nur am Montag",
+        "Zufall"
+      ],
+      "answer": "Ja, schließt Lücken",
+      "explanation": "Wichtig für Sicherheit."
+    },
+    {
+      "id": "mcq_20_14",
+      "type": "mcq",
+      "question": "Pop-ups?",
+      "options": [
+        "Oft Werbung/Gefahr",
+        "Immer Geschenke",
+        "Immer Bilder",
+        "Zufall"
+      ],
+      "answer": "Oft Werbung/Gefahr",
+      "explanation": "Nicht blind klicken."
+    },
+    {
+      "id": "mcq_20_15",
+      "type": "mcq",
+      "question": "Was ist Identitätsdiebstahl?",
+      "options": [
+        "Jemand gibt sich als du aus",
+        "Pass verloren",
+        "PC geklaut",
+        "Bild weg"
+      ],
+      "answer": "Jemand gibt sich als du aus",
+      "explanation": "Große Gefahr."
+    },
+    {
+      "id": "mcq_20_16",
+      "type": "mcq",
+      "question": "Sicher abmelden?",
+      "options": [
+        "Logout-Button nutzen",
+        "Einfach Tab schließen",
+        "PC anlassen",
+        "Zufall"
+      ],
+      "answer": "Logout-Button nutzen",
+      "explanation": "Sitzung beenden."
+    },
+    {
+      "id": "mcq_20_17",
+      "type": "mcq",
+      "question": "Was ist Trojaner?",
+      "options": [
+        "Verstecktes Schadprogramm",
+        "Ein Pferd",
+        "Ein Spiel",
+        "Ein PC"
+      ],
+      "answer": "Verstecktes Schadprogramm",
+      "explanation": "Tarnung."
+    },
+    {
+      "id": "mcq_20_18",
+      "type": "mcq",
+      "question": "Passwort-Manager?",
+      "options": [
+        "Tool für Passwörter",
+        "Ein Buch",
+        "Ein PC",
+        "Ein Zettel"
+      ],
+      "answer": "Tool für Passwörter",
+      "explanation": "Sicher speichern."
+    },
+    {
+      "id": "mcq_20_19",
+      "type": "mcq",
+      "question": "Zwei-Faktor-Authentifizierung?",
+      "options": [
+        "Code aufs Handy",
+        "Zwei Namen",
+        "Zwei PCs",
+        "Zwei Mäuse"
+      ],
+      "answer": "Code aufs Handy",
+      "explanation": "Doppelt sicher."
+    },
+    {
+      "id": "mcq_20_20",
+      "type": "mcq",
+      "question": "Bilder posten?",
+      "options": [
+        "Erst fragen (Recht am Bild)",
+        "Immer erlaubt",
+        "Egal",
+        "Zufall"
+      ],
+      "answer": "Erst fragen (Recht am Bild)",
+      "explanation": "Rechtliche Lage."
+    },
+    {
+      "id": "mcq_20_21",
+      "type": "mcq",
+      "question": "Was ist Spam?",
+      "options": [
+        "Unerwünschte Mails",
+        "Schinken",
+        "Ein Spiel",
+        "Ein PC"
+      ],
+      "answer": "Unerwünschte Mails",
+      "explanation": "Müll-Nachrichten."
+    },
+    {
+      "id": "mcq_20_22",
+      "type": "mcq",
+      "question": "Social Engineering?",
+      "options": [
+        "Manipulation von Menschen",
+        "Technik bauen",
+        "Sport",
+        "Malen"
+      ],
+      "answer": "Manipulation von Menschen",
+      "explanation": "Trickbetrug."
+    },
+    {
+      "id": "mcq_20_23",
+      "type": "mcq",
+      "question": "Inkognito-Modus?",
+      "options": [
+        "Kein Verlauf lokal",
+        "Völlig unsichtbar",
+        "Hacker-Modus",
+        "Zufall"
+      ],
+      "answer": "Kein Verlauf lokal",
+      "explanation": "Browser-Funktion."
+    },
+    {
+      "id": "mcq_20_24",
+      "type": "mcq",
+      "question": "Sicherheitsfrage?",
+      "options": [
+        "Zusatz-Schutz",
+        "Ein Witz",
+        "Ein Bild",
+        "Ein PC"
+      ],
+      "answer": "Zusatz-Schutz",
+      "explanation": "Z.B. Haustiername."
+    },
+    {
+      "id": "mcq_20_25",
+      "type": "mcq",
+      "question": "Wer hilft bei Problemen?",
+      "options": [
+        "Eltern/Lehrer",
+        "Niemand",
+        "Der Hacker",
+        "Zufall"
+      ],
+      "answer": "Eltern/Lehrer",
+      "explanation": "Vertrauenspersonen."
+    },
+    {
+      "id": "typing_20_1",
+      "type": "typing",
+      "text": "Ich schütze meine Privatsphäre im Internet sehr sorgfältig.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_2",
+      "type": "typing",
+      "text": "Ein starkes Passwort enthält Großbuchstaben und Sonderzeichen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_3",
+      "type": "typing",
+      "text": "Wir klicken niemals auf verdächtige Links in unbekannten E-Mails.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_4",
+      "type": "typing",
+      "text": "Datenschutz ist ein wichtiges Menschenrecht in der digitalen Welt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_5",
+      "type": "typing",
+      "text": "Ich frage meine Eltern bevor ich eine neue App herunterlade.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_6",
+      "type": "typing",
+      "text": "Sicherheits-Updates schließen gefährliche Lücken in meinem System.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_7",
+      "type": "typing",
+      "text": "Ein Schloss-Symbol im Browser zeigt eine sichere Verbindung an.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_8",
+      "type": "typing",
+      "text": "Hacker versuchen oft an die Passwörter von anderen zu kommen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_9",
+      "type": "typing",
+      "text": "Informatik hilft uns Gefahren im Internet besser zu verstehen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_20_10",
+      "type": "typing",
+      "text": "Viel Erfolg beim sicheren Surfen auf deinen Lieblingsseiten.",
+      "difficulty": "medium"
+    }
+  ]
+}

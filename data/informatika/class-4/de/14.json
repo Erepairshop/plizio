@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Grundlagen der Spieleentwicklung",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_14_1",
+      "type": "mcq",
+      "question": "Was ist Spieldesign?",
+      "options": [
+        "Regeln und Spielspaß",
+        "Nur Bilder malen",
+        "Nur am PC sitzen",
+        "Zufall"
+      ],
+      "answer": "Regeln und Spielspaß",
+      "explanation": "Konzept."
+    },
+    {
+      "id": "mcq_14_2",
+      "type": "mcq",
+      "question": "Was ist ein Prototyp?",
+      "options": [
+        "Erste Testversion",
+        "Ein Auto",
+        "Ein fertiges Spiel",
+        "Ein Roboter"
+      ],
+      "answer": "Erste Testversion",
+      "explanation": "Zum Ausprobieren."
+    },
+    {
+      "id": "mcq_14_3",
+      "type": "mcq",
+      "question": "Was ist das Ziel?",
+      "options": [
+        "Was man erreichen muss",
+        "Das Ende vom PC",
+        "Ein Sportgerät",
+        "Zufall"
+      ],
+      "answer": "Was man erreichen muss",
+      "explanation": "Sieg-Bedingung."
+    },
+    {
+      "id": "mcq_14_4",
+      "type": "mcq",
+      "question": "Was sind Hindernisse?",
+      "options": [
+        "Erschweren das Ziel",
+        "Helfen beim Ziel",
+        "Sind unsichtbar",
+        "Essen"
+      ],
+      "answer": "Erschweren das Ziel",
+      "explanation": "Herausforderung."
+    },
+    {
+      "id": "mcq_14_5",
+      "type": "mcq",
+      "question": "Was ist Feedback?",
+      "options": [
+        "Reaktion des Spiels",
+        "Essen",
+        "Sport",
+        "Schlafen"
+      ],
+      "answer": "Reaktion des Spiels",
+      "explanation": "Töne/Blitze."
+    },
+    {
+      "id": "mcq_14_6",
+      "type": "mcq",
+      "question": "Wer ist der Spieler?",
+      "options": [
+        "Der Mensch vor dem PC",
+        "Der Sprite",
+        "Der Monitor",
+        "Die Maus"
+      ],
+      "answer": "Der Mensch vor dem PC",
+      "explanation": "User."
+    },
+    {
+      "id": "mcq_14_7",
+      "type": "mcq",
+      "question": "Was ist eine Highscore?",
+      "options": [
+        "Bestenliste",
+        "Ein Berg",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Bestenliste",
+      "explanation": "Rekorde."
+    },
+    {
+      "id": "mcq_14_8",
+      "type": "mcq",
+      "question": "Was ist ein Level?",
+      "options": [
+        "Spielabschnitt",
+        "Eine Wasserwaage",
+        "Ein Ton",
+        "Ein Bild"
+      ],
+      "answer": "Spielabschnitt",
+      "explanation": "Stufen."
+    },
+    {
+      "id": "mcq_14_9",
+      "type": "mcq",
+      "question": "Was ist die Steuerung?",
+      "options": [
+        "Wie man eingreift",
+        "Das Gehäuse",
+        "Der Strom",
+        "Der Tisch"
+      ],
+      "answer": "Wie man eingreift",
+      "explanation": "Maus/Tastatur."
+    },
+    {
+      "id": "mcq_14_10",
+      "type": "mcq",
+      "question": "Was ist eine Story?",
+      "options": [
+        "Geschichte des Spiels",
+        "Ein Laden",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Geschichte des Spiels",
+      "explanation": "Hintergrund."
+    },
+    {
+      "id": "mcq_14_11",
+      "type": "mcq",
+      "question": "Was ist ein Bug?",
+      "options": [
+        "Spielfehler",
+        "Käfer",
+        "Name",
+        "Block"
+      ],
+      "answer": "Spielfehler",
+      "explanation": "Muss behoben werden."
+    },
+    {
+      "id": "mcq_14_12",
+      "type": "mcq",
+      "question": "Was ist Playtesting?",
+      "options": [
+        "Testen durch Spielen",
+        "Singen",
+        "Tanzen",
+        "Malen"
+      ],
+      "answer": "Testen durch Spielen",
+      "explanation": "Fehler finden."
+    },
+    {
+      "id": "mcq_14_13",
+      "type": "mcq",
+      "question": "Was ist Balancing?",
+      "options": [
+        "Schwierigkeit anpassen",
+        "Auf einem Bein stehen",
+        "PC putzen",
+        "Zufall"
+      ],
+      "answer": "Schwierigkeit anpassen",
+      "explanation": "Nicht zu schwer."
+    },
+    {
+      "id": "mcq_14_14",
+      "type": "mcq",
+      "question": "Was ist ein Interface?",
+      "options": [
+        "Anzeigen (Leben/Punkte)",
+        "Ein Gesicht",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Anzeigen (Leben/Punkte)",
+      "explanation": "Benutzeroberfläche."
+    },
+    {
+      "id": "mcq_14_15",
+      "type": "mcq",
+      "question": "Was ist ein NPC?",
+      "options": [
+        "Nicht-Spieler-Figur",
+        "Neuer PC",
+        "Name",
+        "Block"
+      ],
+      "answer": "Nicht-Spieler-Figur",
+      "explanation": "Computerfiguren."
+    },
+    {
+      "id": "mcq_14_16",
+      "type": "mcq",
+      "question": "Was ist Grafik?",
+      "options": [
+        "Alles Visuelle",
+        "Alles Hörbare",
+        "Alles Fühlbare",
+        "Nichts"
+      ],
+      "answer": "Alles Visuelle",
+      "explanation": "Bilder/Animationen."
+    },
+    {
+      "id": "mcq_14_17",
+      "type": "mcq",
+      "question": "Was ist Sounddesign?",
+      "options": [
+        "Passende Geräusche",
+        "Möbel bauen",
+        "Essen",
+        "Sport"
+      ],
+      "answer": "Passante Geräusche",
+      "explanation": "Akustik."
+    },
+    {
+      "id": "mcq_14_18",
+      "type": "mcq",
+      "question": "Was ist KI (AI)?",
+      "options": [
+        "Verhalten von Gegnern",
+        "Ein Name",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Verhalten von Gegnern",
+      "explanation": "Intelligenz."
+    },
+    {
+      "id": "mcq_14_19",
+      "type": "mcq",
+      "question": "Was ist ein Endgegner?",
+      "options": [
+        "Starke Figur am Schluss",
+        "Ein Freund",
+        "Ein Lehrer",
+        "Zufall"
+      ],
+      "answer": "Starke Figur am Schluss",
+      "explanation": "Boss."
+    },
+    {
+      "id": "mcq_14_20",
+      "type": "mcq",
+      "question": "Was ist ein Power-Up?",
+      "options": [
+        "Vorteil für Spieler",
+        "PC ausschalten",
+        "Licht an",
+        "Essen"
+      ],
+      "answer": "Vorteil für Spieler",
+      "explanation": "Extra-Hilfe."
+    },
+    {
+      "id": "mcq_14_21",
+      "type": "mcq",
+      "question": "Was ist ein Tutorial?",
+      "options": [
+        "Erklärung am Anfang",
+        "Ein Buch",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Erklärung am Anfang",
+      "explanation": "Lernen."
+    },
+    {
+      "id": "mcq_14_22",
+      "type": "mcq",
+      "question": "Warum planen?",
+      "options": [
+        "Spart Zeit beim Coden",
+        "Gar nicht",
+        "Zufall",
+        "Nur für Lehrer"
+      ],
+      "answer": "Spart Zeit beim Coden",
+      "explanation": "Gute Vorbereitung."
+    },
+    {
+      "id": "mcq_14_23",
+      "type": "mcq",
+      "question": "Skizze machen?",
+      "options": [
+        "Ja, hilft beim Malen",
+        "Nein",
+        "Nur am PC",
+        "Gar nicht"
+      ],
+      "answer": "Ja, hilft beim Malen",
+      "explanation": "Entwurf."
+    },
+    {
+      "id": "mcq_14_24",
+      "type": "mcq",
+      "question": "Ist Programmieren kreativ?",
+      "options": [
+        "Ja, sehr",
+        "Nein, nur trocken",
+        "Zufall",
+        "PC"
+      ],
+      "answer": "Ja, sehr",
+      "explanation": "Eigene Welten bauen."
+    },
+    {
+      "id": "mcq_14_25",
+      "type": "mcq",
+      "question": "Was ist der Game Loop?",
+      "options": [
+        "Haupt-Schleife",
+        "Ein Ring",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Haupt-Schleife",
+      "explanation": "Hält Spiel am Laufen."
+    },
+    {
+      "id": "typing_14_1",
+      "type": "typing",
+      "text": "Ich entwerfe die Regeln für mein eigenes Computerspiel.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_2",
+      "type": "typing",
+      "text": "Ein guter Spieleentwickler hört auf das Feedback der Tester.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_3",
+      "type": "typing",
+      "text": "Die Spielmechanik entscheidet darüber wie viel Spaß es macht.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_4",
+      "type": "typing",
+      "text": "Wir erstellen zuerst einen einfachen Prototyp zum Ausprobieren.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_5",
+      "type": "typing",
+      "text": "Hindernisse und Gegner machen das Erreichen des Ziels schwerer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_6",
+      "type": "typing",
+      "text": "Ein übersichtliches Interface hilft dem Spieler beim Verstehen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_7",
+      "type": "typing",
+      "text": "Kreativität und Logik sind die wichtigsten Werkzeuge für uns.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_8",
+      "type": "typing",
+      "text": "Ich programmiere verschiedene Level mit steigender Schwierigkeit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_9",
+      "type": "typing",
+      "text": "Informatik ermöglicht es uns unsere Träume digital umzusetzen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_14_10",
+      "type": "typing",
+      "text": "Viel Erfolg bei deiner Karriere als junger Spieleentwickler.",
+      "difficulty": "medium"
+    }
+  ]
+}

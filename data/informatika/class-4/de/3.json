@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Figuren und Sprites",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_3_1",
+      "type": "mcq",
+      "question": "Was ist ein Sprite?",
+      "options": [
+        "Figur",
+        "Getränk",
+        "Block",
+        "Feld"
+      ],
+      "answer": "Figur",
+      "explanation": "Objekt."
+    },
+    {
+      "id": "mcq_3_2",
+      "type": "mcq",
+      "question": "Standardfigur?",
+      "options": [
+        "Katze",
+        "Hund",
+        "Maus",
+        "Vogel"
+      ],
+      "answer": "Katze",
+      "explanation": "Scratch-Katze."
+    },
+    {
+      "id": "mcq_3_3",
+      "type": "mcq",
+      "question": "Sprite hinzufügen?",
+      "options": [
+        "Bibliothek",
+        "Tasche",
+        "Auto",
+        "Wald"
+      ],
+      "answer": "Bibliothek",
+      "explanation": "Dort sind viele."
+    },
+    {
+      "id": "mcq_3_4",
+      "type": "mcq",
+      "question": "Sprite malen?",
+      "options": [
+        "Pinsel",
+        "Hammer",
+        "Lupe",
+        "Schere"
+      ],
+      "answer": "Pinsel",
+      "explanation": "Im Editor."
+    },
+    {
+      "id": "mcq_3_5",
+      "type": "mcq",
+      "question": "Löschen?",
+      "options": [
+        "Mülleimer",
+        "Herz",
+        "Stern",
+        "Pfeil"
+      ],
+      "answer": "Mülleimer",
+      "explanation": "Weg damit."
+    },
+    {
+      "id": "mcq_3_6",
+      "type": "mcq",
+      "question": "Größe ändern?",
+      "options": [
+        "Größenfeld",
+        "Namensfeld",
+        "Tonfeld",
+        "Zufall"
+      ],
+      "answer": "Größenfeld",
+      "explanation": "Zahl eingeben."
+    },
+    {
+      "id": "mcq_3_7",
+      "type": "mcq",
+      "question": "Richtung?",
+      "options": [
+        "Winkel",
+        "Farbe",
+        "Name",
+        "Ton"
+      ],
+      "answer": "Winkel",
+      "explanation": "Gradzahl."
+    },
+    {
+      "id": "mcq_3_8",
+      "type": "mcq",
+      "question": "Verstecken?",
+      "options": [
+        "Auge",
+        "Ohr",
+        "Nase",
+        "Mund"
+      ],
+      "answer": "Auge",
+      "explanation": "Unsichtbar machen."
+    },
+    {
+      "id": "mcq_3_9",
+      "type": "mcq",
+      "question": "X-Achse?",
+      "options": [
+        "Waagerecht",
+        "Senkrecht",
+        "Farbe",
+        "Größe"
+      ],
+      "answer": "Waagerecht",
+      "explanation": "Links und Rechts."
+    },
+    {
+      "id": "mcq_3_10",
+      "type": "mcq",
+      "question": "Y-Achse?",
+      "options": [
+        "Senkrecht",
+        "Waagerecht",
+        "Name",
+        "Ton"
+      ],
+      "answer": "Senkrecht",
+      "explanation": "Oben und Unten."
+    },
+    {
+      "id": "mcq_3_11",
+      "type": "mcq",
+      "question": "Mitte?",
+      "options": [
+        "0,0",
+        "100,100",
+        "-100,-100",
+        "50,50"
+      ],
+      "answer": "0,0",
+      "explanation": "Zentrum."
+    },
+    {
+      "id": "mcq_3_12",
+      "type": "mcq",
+      "question": "Kostüm?",
+      "options": [
+        "Anderes Bild",
+        "Hose",
+        "Schuh",
+        "Hut"
+      ],
+      "answer": "Anderes Bild",
+      "explanation": "Für Animation."
+    },
+    {
+      "id": "mcq_3_13",
+      "type": "mcq",
+      "question": "Nächstes Kostüm?",
+      "options": [
+        "Block",
+        "Taste",
+        "Maus",
+        "Monitor"
+      ],
+      "answer": "Block",
+      "explanation": "Schaltet weiter."
+    },
+    {
+      "id": "mcq_3_14",
+      "type": "mcq",
+      "question": "Kopieren?",
+      "options": [
+        "Duplizieren",
+        "Löschen",
+        "Malen",
+        "Warten"
+      ],
+      "answer": "Duplizieren",
+      "explanation": "Noch ein Sprite."
+    },
+    {
+      "id": "mcq_3_15",
+      "type": "mcq",
+      "question": "X maximal rechts?",
+      "options": [
+        "240",
+        "180",
+        "480",
+        "100"
+      ],
+      "answer": "240",
+      "explanation": "Bühnenrand."
+    },
+    {
+      "id": "mcq_3_16",
+      "type": "mcq",
+      "question": "X maximal links?",
+      "options": [
+        "-240",
+        "-180",
+        "0",
+        "100"
+      ],
+      "answer": "-240",
+      "explanation": "Linker Rand."
+    },
+    {
+      "id": "mcq_3_17",
+      "type": "mcq",
+      "question": "Y maximal oben?",
+      "options": [
+        "180",
+        "240",
+        "0",
+        "100"
+      ],
+      "answer": "180",
+      "explanation": "Oberer Rand."
+    },
+    {
+      "id": "mcq_3_18",
+      "type": "mcq",
+      "question": "Y maximal unten?",
+      "options": [
+        "-180",
+        "-240",
+        "0",
+        "100"
+      ],
+      "answer": "-180",
+      "explanation": "Unterer Rand."
+    },
+    {
+      "id": "mcq_3_19",
+      "type": "mcq",
+      "question": "Was ist ein Layer?",
+      "options": [
+        "Ebene",
+        "Farbe",
+        "Ton",
+        "Name"
+      ],
+      "answer": "Ebene",
+      "explanation": "Wer vorne ist."
+    },
+    {
+      "id": "mcq_3_20",
+      "type": "mcq",
+      "question": "Ganz nach vorne?",
+      "options": [
+        "Ebenen-Block",
+        "Gehe-Block",
+        "Drehe-Block",
+        "Ton-Block"
+      ],
+      "answer": "Ebenen-Block",
+      "explanation": "Vor andere Sprites."
+    },
+    {
+      "id": "mcq_3_21",
+      "type": "mcq",
+      "question": "Berührt Mauszeiger?",
+      "options": [
+        "Fühlen",
+        "Malen",
+        "Ton",
+        "Start"
+      ],
+      "answer": "Fühlen",
+      "explanation": "Interaktion."
+    },
+    {
+      "id": "mcq_3_22",
+      "type": "mcq",
+      "question": "Drehtyp?",
+      "options": [
+        "Rundherum/Links-Rechts",
+        "Nur oben",
+        "Nur unten",
+        "Gar nicht"
+      ],
+      "answer": "Rundherum/Links-Rechts",
+      "explanation": "Wie er sich dreht."
+    },
+    {
+      "id": "mcq_3_23",
+      "type": "mcq",
+      "question": "Transparenz?",
+      "options": [
+        "Durchsichtig",
+        "Bunt",
+        "Laut",
+        "Stumm"
+      ],
+      "answer": "Durchsichtig",
+      "explanation": "Geistereffekt."
+    },
+    {
+      "id": "mcq_3_24",
+      "type": "mcq",
+      "question": "Farbeffekt?",
+      "options": [
+        "Ändert Farbe",
+        "Löscht Bild",
+        "Macht Musik",
+        "Wartet"
+      ],
+      "answer": "Ändert Farbe",
+      "explanation": "Bunter Sprite."
+    },
+    {
+      "id": "mcq_3_25",
+      "type": "mcq",
+      "question": "Grafikeffekte löschen?",
+      "options": [
+        "Block",
+        "Wasser",
+        "Besen",
+        "Hand"
+      ],
+      "answer": "Block",
+      "explanation": "Setzt alles zurück."
+    },
+    {
+      "id": "typing_3_1",
+      "type": "typing",
+      "text": "Ich füge eine neue Figur hinzu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_2",
+      "type": "typing",
+      "text": "Die Katze steht in der Mitte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_3",
+      "type": "typing",
+      "text": "X und Y sind Koordinaten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_4",
+      "type": "typing",
+      "text": "Ich ändere das Kostüm der Figur.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_5",
+      "type": "typing",
+      "text": "Ein Sprite kann viele Bilder haben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_6",
+      "type": "typing",
+      "text": "Ich benenne meinen Sprite um.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_7",
+      "type": "typing",
+      "text": "Die Richtung ist neunzig Grad.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_8",
+      "type": "typing",
+      "text": "Ich nutze die Sprit-Bibliothek.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_9",
+      "type": "typing",
+      "text": "Meine Figur wird unsichtbar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_3_10",
+      "type": "typing",
+      "text": "Informatik macht mir viel Freude.",
+      "difficulty": "medium"
+    }
+  ]
+}

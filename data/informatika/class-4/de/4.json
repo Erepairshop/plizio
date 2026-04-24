@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Bewegungsbefehle",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_4_1",
+      "type": "mcq",
+      "question": "Gehe 10 Schritte?",
+      "options": [
+        "Vorwärts",
+        "Rückwärts",
+        "Hoch",
+        "Runter"
+      ],
+      "answer": "Vorwärts",
+      "explanation": "In Blickrichtung."
+    },
+    {
+      "id": "mcq_4_2",
+      "type": "mcq",
+      "question": "Drehe dich 15 Grad?",
+      "options": [
+        "Rechts/Links",
+        "Oben",
+        "Unten",
+        "Zufall"
+      ],
+      "answer": "Rechts/Links",
+      "explanation": "Rotation."
+    },
+    {
+      "id": "mcq_4_3",
+      "type": "mcq",
+      "question": "Gehe zu X, Y?",
+      "options": [
+        "Teleport",
+        "Laufen",
+        "Springen",
+        "Fliegen"
+      ],
+      "answer": "Teleport",
+      "explanation": "Sofort da."
+    },
+    {
+      "id": "mcq_4_4",
+      "type": "mcq",
+      "question": "Gleite in 1 Sekunde?",
+      "options": [
+        "Flüssige Bewegung",
+        "Sofort",
+        "Warten",
+        "Stopp"
+      ],
+      "answer": "Flüssige Bewegung",
+      "explanation": "Sanftes Bewegen."
+    },
+    {
+      "id": "mcq_4_5",
+      "type": "mcq",
+      "question": "Setze X auf?",
+      "options": [
+        "Nur X ändern",
+        "Y ändern",
+        "Beides",
+        "Nichts"
+      ],
+      "answer": "Nur X ändern",
+      "explanation": "Waagerecht."
+    },
+    {
+      "id": "mcq_4_6",
+      "type": "mcq",
+      "question": "Setze Y auf?",
+      "options": [
+        "Nur Y ändern",
+        "X ändern",
+        "Beides",
+        "Nichts"
+      ],
+      "answer": "Nur Y ändern",
+      "explanation": "Senkrecht."
+    },
+    {
+      "id": "mcq_4_7",
+      "type": "mcq",
+      "question": "Pralle vom Rand ab?",
+      "options": [
+        "Umkehren",
+        "Stoppen",
+        "Löschen",
+        "Springen"
+      ],
+      "answer": "Umkehren",
+      "explanation": "Nicht rauslaufen."
+    },
+    {
+      "id": "mcq_4_8",
+      "type": "mcq",
+      "question": "Setze Drehtyp auf?",
+      "options": [
+        "Rotation festlegen",
+        "Farbe",
+        "Ton",
+        "Name"
+      ],
+      "answer": "Rotation festlegen",
+      "explanation": "Wie er sich dreht."
+    },
+    {
+      "id": "mcq_4_9",
+      "type": "mcq",
+      "question": "Gehe zu Zufallsposition?",
+      "options": [
+        "Irgendwohin",
+        "Mitte",
+        "Ecke",
+        "Rand"
+      ],
+      "answer": "Irgendwohin",
+      "explanation": "Zufällig."
+    },
+    {
+      "id": "mcq_4_10",
+      "type": "mcq",
+      "question": "Gehe zu Mauszeiger?",
+      "options": [
+        "Folgt Maus",
+        "Folgt Katze",
+        "Folgt Hund",
+        "Folgt Vogel"
+      ],
+      "answer": "Folgt Maus",
+      "explanation": "Interaktion."
+    },
+    {
+      "id": "mcq_4_11",
+      "type": "mcq",
+      "question": "Setze Richtung auf 0?",
+      "options": [
+        "Nach Oben",
+        "Nach Rechts",
+        "Nach Unten",
+        "Nach Links"
+      ],
+      "answer": "Nach Oben",
+      "explanation": "0 Grad ist Oben."
+    },
+    {
+      "id": "mcq_4_12",
+      "type": "mcq",
+      "question": "Setze Richtung auf 90?",
+      "options": [
+        "Nach Rechts",
+        "Nach Oben",
+        "Nach Unten",
+        "Nach Links"
+      ],
+      "answer": "Nach Rechts",
+      "explanation": "Standardrichtung."
+    },
+    {
+      "id": "mcq_4_13",
+      "type": "mcq",
+      "question": "Setze Richtung auf 180?",
+      "options": [
+        "Nach Unten",
+        "Nach Oben",
+        "Nach Rechts",
+        "Nach Links"
+      ],
+      "answer": "Nach Unten",
+      "explanation": "Süden."
+    },
+    {
+      "id": "mcq_4_14",
+      "type": "mcq",
+      "question": "Setze Richtung auf -90?",
+      "options": [
+        "Nach Links",
+        "Nach Oben",
+        "Nach Rechts",
+        "Nach Unten"
+      ],
+      "answer": "Nach Links",
+      "explanation": "Westen."
+    },
+    {
+      "id": "mcq_4_15",
+      "type": "mcq",
+      "question": "Drehe zu Sprite 1?",
+      "options": [
+        "Anschauen",
+        "Weglaufen",
+        "Springen",
+        "Löschen"
+      ],
+      "answer": "Anschauen",
+      "explanation": "Ausrichten."
+    },
+    {
+      "id": "mcq_4_16",
+      "type": "mcq",
+      "question": "Ändere X um 10?",
+      "options": [
+        "Nach Rechts",
+        "Nach Links",
+        "Nach Oben",
+        "Nach Unten"
+      ],
+      "answer": "Nach Rechts",
+      "explanation": "Plus X."
+    },
+    {
+      "id": "mcq_4_17",
+      "type": "mcq",
+      "question": "Ändere X um -10?",
+      "options": [
+        "Nach Links",
+        "Nach Rechts",
+        "Nach Oben",
+        "Nach Unten"
+      ],
+      "answer": "Nach Links",
+      "explanation": "Minus X."
+    },
+    {
+      "id": "mcq_4_18",
+      "type": "mcq",
+      "question": "Ändere Y um 10?",
+      "options": [
+        "Nach Oben",
+        "Nach Unten",
+        "Nach Rechts",
+        "Nach Links"
+      ],
+      "answer": "Nach Oben",
+      "explanation": "Plus Y."
+    },
+    {
+      "id": "mcq_4_19",
+      "type": "mcq",
+      "question": "Ändere Y um -10?",
+      "options": [
+        "Nach Unten",
+        "Nach Oben",
+        "Nach Rechts",
+        "Nach Links"
+      ],
+      "answer": "Nach Unten",
+      "explanation": "Minus Y."
+    },
+    {
+      "id": "mcq_4_20",
+      "type": "mcq",
+      "question": "Was ist die X-Position?",
+      "options": [
+        "Reporter-Block",
+        "Hut-Block",
+        "Stapel-Block",
+        "C-Block"
+      ],
+      "answer": "Reporter-Block",
+      "explanation": "Gibt Zahl zurück."
+    },
+    {
+      "id": "mcq_4_21",
+      "type": "mcq",
+      "question": "Was ist die Richtung?",
+      "options": [
+        "Reporter-Block",
+        "Start-Block",
+        "End-Block",
+        "Mal-Block"
+      ],
+      "answer": "Reporter-Block",
+      "explanation": "Aktueller Winkel."
+    },
+    {
+      "id": "mcq_4_22",
+      "type": "mcq",
+      "question": "Gehe Schritte bei Richtung 180?",
+      "options": [
+        "Nach Unten",
+        "Nach Oben",
+        "Nach Rechts",
+        "Nach Links"
+      ],
+      "answer": "Nach Unten",
+      "explanation": "Blickrichtung."
+    },
+    {
+      "id": "mcq_4_23",
+      "type": "mcq",
+      "question": "Gleite zu Sprite?",
+      "options": [
+        "Verfolgen",
+        "Teleport",
+        "Verschwinden",
+        "Warten"
+      ],
+      "answer": "Verfolgen",
+      "explanation": "Langsam hin."
+    },
+    {
+      "id": "mcq_4_24",
+      "type": "mcq",
+      "question": "Kann man X auf 1000 setzen?",
+      "options": [
+        "Ja, aber Rand bremst",
+        "Nein",
+        "Nur mit Passwort",
+        "Nur am Montag"
+      ],
+      "answer": "Ja, aber Rand bremst",
+      "explanation": "Bühne ist begrenzt."
+    },
+    {
+      "id": "mcq_4_25",
+      "type": "mcq",
+      "question": "Bewegungsblöcke Farbe?",
+      "options": [
+        "Blau",
+        "Lila",
+        "Grün",
+        "Gelb"
+      ],
+      "answer": "Blau",
+      "explanation": "Immer Blau."
+    },
+    {
+      "id": "typing_4_1",
+      "type": "typing",
+      "text": "Ich bewege meine Figur über die Bühne.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_2",
+      "type": "typing",
+      "text": "Gehe zehn Schritte nach vorne.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_3",
+      "type": "typing",
+      "text": "Drehe dich um fünfzehn Grad nach rechts.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_4",
+      "type": "typing",
+      "text": "Gleite in zwei Sekunden zur Mitte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_5",
+      "type": "typing",
+      "text": "Setze die X-Position auf Null.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_6",
+      "type": "typing",
+      "text": "Setze die Y-Position auf einhundert.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_7",
+      "type": "typing",
+      "text": "Pralle vom Rand der Bühne ab.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_8",
+      "type": "typing",
+      "text": "Die Figur schaut zum Mauszeiger.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_9",
+      "type": "typing",
+      "text": "Springe zu einer zufälligen Position.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_4_10",
+      "type": "typing",
+      "text": "Bewegung ist die Basis für jedes Spiel.",
+      "difficulty": "medium"
+    }
+  ]
+}

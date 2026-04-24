@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Proiect Final",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce reprezintă proiectul final?",
+        "options": [
+          "Ocazia de a aplica tot ce am învățat într-o creație proprie",
+          "O pedeapsă",
+          "Un test de mate",
+          "O joacă scurtă"
+        ],
+        "answer": "Ocazia de a aplica tot ce am învățat într-o creație proprie"
+      },
+      {
+        "question": "Care este primul pas în proiectul final?",
+        "options": [
+          "Alegerea unei idei și planificarea ei",
+          "Scrierea codului la întâmplare",
+          "Desenarea finalului",
+          "Mâncatul"
+        ],
+        "answer": "Alegerea unei idei și planificarea ei"
+      },
+      {
+        "question": "Ce putem crea?",
+        "options": [
+          "Jocuri, povești, animații sau simulări",
+          "Doar desene",
+          "Doar sunete",
+          "Nimic"
+        ],
+        "answer": "Jocuri, povești, animații sau simulări"
+      },
+      {
+        "question": "De ce e importantă planificarea?",
+        "options": [
+          "Pentru a ști ce avem de făcut și a nu ne bloca",
+          "Pentru a pierde timpul",
+          "Pentru a folosi hârtie",
+          "Nu e importantă"
+        ],
+        "answer": "Pentru a ști ce avem de făcut și a nu ne bloca"
+      },
+      {
+        "question": "Trebuie să folosim variabile în proiectul final?",
+        "options": [
+          "Dacă jocul are scor sau timp, da, sunt foarte utile",
+          "Nu, sunt interzise",
+          "Doar dacă sunt colorate",
+          "Doar marțea"
+        ],
+        "answer": "Dacă jocul are scor sau timp, da, sunt foarte utile"
+      },
+      {
+        "question": "Putem folosi cod din proiectele vechi?",
+        "options": [
+          "Da, se numește reutilizarea codului și e o practică bună",
+          "Nu, e trișat",
+          "Doar dacă ne dă voie colegul",
+          "Doar dacă e în engleză"
+        ],
+        "answer": "Da, se numește reutilizarea codului și e o practică bună"
+      },
+      {
+        "question": "Cum ne asigurăm că proiectul funcționează bine?",
+        "options": [
+          "Îl testăm des și reparăm bug-urile găsite",
+          "Nu îl testăm",
+          "Îl închidem și îl deschidem",
+          "Îl rugăm să meargă"
+        ],
+        "answer": "Îl testăm des și reparăm bug-urile găsite"
+      },
+      {
+        "question": "Ce facem dacă ne blocăm la un cod greu?",
+        "options": [
+          "Căutăm în tutoriale sau întrebăm profesorul",
+          "Abandonăm proiectul",
+          "Plângem",
+          "Ștergem tot"
+        ],
+        "answer": "Căutăm în tutoriale sau întrebăm profesorul"
+      },
+      {
+        "question": "Ce înseamnă un proiect 'finalizat'?",
+        "options": [
+          "Are un început, o desfășurare și un sfârșit clar",
+          "Are doar o poză",
+          "Nu are cod deloc",
+          "E doar o idee"
+        ],
+        "answer": "Are un început, o desfășurare și un sfârșit clar"
+      },
+      {
+        "question": "Putem adăuga muzică originală?",
+        "options": [
+          "Da, înregistrată sau compusă în Scratch",
+          "Nu",
+          "Doar dacă avem radio",
+          "Doar de pe YouTube"
+        ],
+        "answer": "Da, înregistrată sau compusă în Scratch"
+      },
+      {
+        "question": "Ce este creativitatea în IT?",
+        "options": [
+          "Găsirea de soluții noi și idei originale",
+          "Copierea exactă",
+          "Plictiseala",
+          "O eroare"
+        ],
+        "answer": "Găsirea de soluții noi și idei originale"
+      },
+      {
+        "question": "Cum ar trebui să arate interfața jocului nostru?",
+        "options": [
+          "Atractivă și ușor de înțeles pentru jucător",
+          "Foarte complicată",
+          "Fără culori",
+          "Fără butoane"
+        ],
+        "answer": "Atractivă și ușor de înțeles pentru jucător"
+      },
+      {
+        "question": "Ce reprezintă 'instrucțiunile' jocului?",
+        "options": [
+          "Textul care explică jucătorului ce taste să folosească",
+          "Codul nostru",
+          "O eroare",
+          "Numele nostru"
+        ],
+        "answer": "Textul care explică jucătorului ce taste să folosească"
+      },
+      {
+        "question": "Putem lucra în perechi la proiectul final?",
+        "options": [
+          "Dacă profesorul permite, colaborarea este excelentă",
+          "Nu, niciodată",
+          "Doar singur",
+          "Doar cu cineva din altă clasă"
+        ],
+        "answer": "Dacă profesorul permite, colaborarea este excelentă"
+      },
+      {
+        "question": "Ce este 'mândria de creator'?",
+        "options": [
+          "Sentimentul bun că ai realizat ceva funcțional și interesant",
+          "Să crezi că ești cel mai bun din lume",
+          "O eroare",
+          "Plictiseală"
+        ],
+        "answer": "Sentimentul bun că ai realizat ceva funcțional și interesant"
+      },
+      {
+        "question": "Cum ne numim proiectul?",
+        "options": [
+          "Cu un nume reprezentativ și interesant",
+          "Proiect1",
+          "aaa",
+          "Fără nume"
+        ],
+        "answer": "Cu un nume reprezentativ și interesant"
+      },
+      {
+        "question": "Ce facem dacă proiectul e prea mare pentru timpul rămas?",
+        "options": [
+          "Îl simplificăm și ne concentrăm pe partea cea mai importantă",
+          "Nu mai facem nimic",
+          "Lucrăm toată noaptea",
+          "Îl ștergem"
+        ],
+        "answer": "Îl simplificăm și ne concentrăm pe partea cea mai importantă"
+      },
+      {
+        "question": "Putem adăuga un sistem de 'High Score'?",
+        "options": [
+          "Da, folosind variabile",
+          "Nu",
+          "Doar dacă e online",
+          "Doar cu sunete"
+        ],
+        "answer": "Da, folosind variabile"
+      },
+      {
+        "question": "Ce este 'polizarea' proiectului?",
+        "options": [
+          "Retușarea micilor detalii pentru a-l face perfect",
+          "Spălarea monitorului",
+          "O eroare de text",
+          "Nu există"
+        ],
+        "answer": "Retușarea micilor detalii pentru a-l face perfect"
+      },
+      {
+        "question": "Putem prezenta proiectul în fața clasei?",
+        "options": [
+          "Da, este momentul tău de glorie!",
+          "Nu, e secret",
+          "Doar pe ascuns",
+          "Doar marțea"
+        ],
+        "answer": "Da, este momentul tău de glorie!"
+      },
+      {
+        "question": "Ce învățăm din proiectele altora?",
+        "options": [
+          "Idei noi și tehnici de programare diferite",
+          "Nimic",
+          "Că suntem mai buni",
+          "Că suntem mai slabi"
+        ],
+        "answer": "Idei noi și tehnici de programare diferite"
+      },
+      {
+        "question": "Este important să salvăm des?",
+        "options": [
+          "Da, ca să nu pierdem munca în caz de eroare",
+          "Nu, se salvează singur (uneori)",
+          "Doar la final",
+          "O dată pe oră"
+        ],
+        "answer": "Da, ca să nu pierdem munca în caz de eroare"
+      },
+      {
+        "question": "Ce facem cu feedback-ul de la colegi?",
+        "options": [
+          "Îl ascultăm și ne gândim cum putem îmbunătăți proiectul",
+          "Îl ignorăm",
+          "Ne supărăm",
+          "Râdem de ei"
+        ],
+        "answer": "Îl ascultăm și ne gândim cum putem îmbunătăți proiectul"
+      },
+      {
+        "question": "Proiectul final este sfârșitul învățării?",
+        "options": [
+          "Nu, este doar începutul călătoriei tale în IT!",
+          "Da, gata!",
+          "Poate",
+          "Sperăm"
+        ],
+        "answer": "Nu, este doar începutul călătoriei tale în IT!"
+      },
+      {
+        "question": "Ești mândru de tine?",
+        "options": [
+          "Da, am terminat cursul K4!",
+          "Nu",
+          "Poate",
+          "Somn"
+        ],
+        "answer": "Da, am terminat cursul K4!"
+      }
+    ],
+    "typing": [
+      "proiect",
+      "final",
+      "creație",
+      "plan",
+      "joc",
+      "animație",
+      "succes",
+      "rezultat",
+      "originalitate",
+      "prezentare"
+    ]
+  }
+}

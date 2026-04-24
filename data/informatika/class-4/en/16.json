@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Debugging",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Bug' in programming?",
+      "options": [
+        "An error or mistake in the code",
+        "An insect on the screen",
+        "A fast sprite",
+        "A secret feature"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Debugging'?",
+      "options": [
+        "The process of finding and fixing bugs",
+        "Deleting the code",
+        "Drawing a sprite",
+        "Buying a new computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If a sprite doesn't move when you click the flag, what is the first check?",
+      "options": [
+        "Is there a 'When Green Flag clicked' block?",
+        "Is the monitor on?",
+        "Is the cat hungry?",
+        "Is the keyboard plugged in?"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Broken script' mean?",
+      "options": [
+        "A group of blocks that doesn't do what's intended",
+        "A physically broken keyboard",
+        "A deleted project",
+        "A script that runs too fast"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you test a small part of your code?",
+      "options": [
+        "Click on the blocks to run them alone",
+        "Restart the whole game",
+        "Delete other sprites",
+        "Ask a friend to play"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Logic Error'?",
+      "options": [
+        "The code runs but does the wrong thing",
+        "The code won't run at all",
+        "The computer crashes",
+        "The colors are wrong"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Syntax'?",
+      "options": [
+        "The rules of how code is written",
+        "A type of variable",
+        "A sound effect",
+        "A cat name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If your score increases by 100 instead of 1, where is the bug?",
+      "options": [
+        "In the 'Change score' block",
+        "In the 'Wait' block",
+        "In the 'Hide' block",
+        "In the backdrop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Troubleshooting'?",
+      "options": [
+        "Solving technical problems",
+        "Shooting targets",
+        "Drawing in Scratch",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How does 'Say [variable]' help with debugging?",
+      "options": [
+        "It shows you the current value while playing",
+        "It makes the cat talk",
+        "It saves the game",
+        "It changes the color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If a sprite stays hidden and never shows up, what block is missing?",
+      "options": [
+        "Show",
+        "Hide",
+        "Move",
+        "Next costume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Trial and Error'?",
+      "options": [
+        "Trying something, seeing if it works, and fixing it",
+        "A type of loop",
+        "A math block",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can comments help with debugging?",
+      "options": [
+        "Yes, they explain what the code should do",
+        "No, they slow down the code",
+        "Only for sounds",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If two sprites move at the same time but only one should, what check?",
+      "options": [
+        "Check the broadcast messages and events",
+        "Check the cat's speed",
+        "Check the stage color",
+        "Check the volume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Step-by-step execution'?",
+      "options": [
+        "Running code one block at a time to find errors",
+        "Walking slowly",
+        "A type of loop",
+        "Winning the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you have an 'Infinite Loop' by mistake?",
+      "options": [
+        "The project might freeze or run forever",
+        "The computer explodes",
+        "The score becomes infinite",
+        "The cat flies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why should you name your variables clearly (like 'PlayerScore')?",
+      "options": [
+        "To avoid confusion and bugs",
+        "To make it look pretty",
+        "To save memory",
+        "To make it faster"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Rubber Duck Debugging'?",
+      "options": [
+        "Explaining your code to an object to find errors",
+        "A game with ducks",
+        "Deleting code",
+        "A type of sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If a 'Forever' loop is skipping an 'If' statement, what might be wrong?",
+      "options": [
+        "The condition is never becoming true",
+        "The loop is too fast",
+        "The computer is sleeping",
+        "The cat is hidden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you fix a sprite that is upside down?",
+      "options": [
+        "Change the 'Rotation style'",
+        "Delete the sprite",
+        "Rotate the monitor",
+        "Say 'Flip'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Beta Testing'?",
+      "options": [
+        "Having others test your game before it's finished",
+        "Testing only the cat",
+        "Winning the game",
+        "A type of variable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "If the sound is too loud, which block needs fixing?",
+      "options": [
+        "Set volume to [ ]",
+        "Play sound",
+        "Wait 1 sec",
+        "Show"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use the 'Backpack' to fix code?",
+      "options": [
+        "Yes, by comparing with working code from another project",
+        "No",
+        "Only for sounds",
+        "Only for images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Clean code'?",
+      "options": [
+        "Code that is easy to read and organized",
+        "Code without any bugs",
+        "Code that has been deleted",
+        "Code for a cleaning game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you give up if you have a bug?",
+      "options": [
+        "No, debugging is part of learning!",
+        "Yes, immediately",
+        "Only if it is hard",
+        "Only if it is raining"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Bug",
+      "answer": "Bug"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Debug",
+      "answer": "Debug"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Error",
+      "answer": "Error"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fix",
+      "answer": "Fix"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Test",
+      "answer": "Test"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Check",
+      "answer": "Check"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Code",
+      "answer": "Code"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Solve",
+      "answer": "Solve"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Help",
+      "answer": "Help"
+    }
+  ]
+}

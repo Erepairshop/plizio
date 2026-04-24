@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Condiții (Dacă... atunci)",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce face blocul 'dacă... atunci'?",
+        "options": [
+          "Execută codul din interior doar dacă condiția este adevărată",
+          "Execută mereu",
+          "Oprește programul",
+          "Sare la final"
+        ],
+        "answer": "Execută codul din interior doar dacă condiția este adevărată"
+      },
+      {
+        "question": "Ce formă au blocurile de condiție (senzori/operatori)?",
+        "options": [
+          "Hexagonale (cu colțuri ascuțite)",
+          "Rotunde",
+          "Pătrate",
+          "Triunghiulare"
+        ],
+        "answer": "Hexagonale (cu colțuri ascuțite)"
+      },
+      {
+        "question": "Ce face blocul 'dacă... atunci... altfel'?",
+        "options": [
+          "Execută o parte dacă e adevărat, alta dacă e fals",
+          "Execută tot",
+          "Nu execută nimic",
+          "Alege la întâmplare"
+        ],
+        "answer": "Execută o parte dacă e adevărat, alta dacă e fals"
+      },
+      {
+        "question": "Cum verificăm dacă personajul atinge marginea?",
+        "options": [
+          "Senzorul 'atinge [marginea]?'",
+          "Blocul 'mergi'",
+          "Blocul 'spune'",
+          "Nu se poate"
+        ],
+        "answer": "Senzorul 'atinge [marginea]?'"
+      },
+      {
+        "question": "Cum verificăm dacă o variabilă este mai mare de 10?",
+        "options": [
+          "Operatorul '>' (mai mare)",
+          "Operatorul '<' (mai mic)",
+          "Operatorul '=' (egal)",
+          "Nu se poate"
+        ],
+        "answer": "Operatorul '>' (mai mare)"
+      },
+      {
+        "question": "Unde găsim blocurile 'Dacă'?",
+        "options": [
+          "În categoria Control",
+          "În Mișcare",
+          "În Sunet",
+          "În Variabile"
+        ],
+        "answer": "În categoria Control"
+      },
+      {
+        "question": "Putem pune o condiție în interiorul altei condiții?",
+        "options": [
+          "Da (condiții imbricate)",
+          "Nu",
+          "Doar o dată",
+          "Doar dacă au culori diferite"
+        ],
+        "answer": "Da (condiții imbricate)"
+      },
+      {
+        "question": "Ce face operatorul 'și' (and)?",
+        "options": [
+          "Ambele condiții trebuie să fie adevărate",
+          "Doar una",
+          "Niciuna",
+          "Le adună"
+        ],
+        "answer": "Ambele condiții trebuie să fie adevărate"
+      },
+      {
+        "question": "Ce face operatorul 'sau' (or)?",
+        "options": [
+          "Cel puțin o condiție trebuie să fie adevărată",
+          "Ambele trebuie să fie adevărate",
+          "Niciuna",
+          "Le scade"
+        ],
+        "answer": "Cel puțin o condiție trebuie să fie adevărată"
+      },
+      {
+        "question": "Ce face operatorul 'nu' (not)?",
+        "options": [
+          "Inversează rezultatul (Adevărat devine Fals)",
+          "Nu face nimic",
+          "Oprește codul",
+          "Șterge condiția"
+        ],
+        "answer": "Inversează rezultatul (Adevărat devine Fals)"
+      },
+      {
+        "question": "Cum verificăm dacă tasta Space este apăsată?",
+        "options": [
+          "Senzorul 'tasta [space] apăsată?'",
+          "Blocul de eveniment Space",
+          "Blocul de mișcare",
+          "Nu se poate"
+        ],
+        "answer": "Senzorul 'tasta [space] apăsată?'"
+      },
+      {
+        "question": "Care este diferența între 'când tasta apăsată' și 'dacă tasta apăsată'?",
+        "options": [
+          "Primul e un eveniment, al doilea trebuie verificat într-o buclă",
+          "Sunt identice",
+          "Primul e mai lent",
+          "Al doilea e doar pentru mouse"
+        ],
+        "answer": "Primul e un eveniment, al doilea trebuie verificat într-o buclă"
+      },
+      {
+        "question": "Ce face blocul 'așteaptă până când'?",
+        "options": [
+          "Pune pauză până când condiția devine adevărată",
+          "Oprește programul definitiv",
+          "Sare peste cod",
+          "Cântă o melodie"
+        ],
+        "answer": "Pune pauză până când condiția devine adevărată"
+      },
+      {
+        "question": "Ce face blocul 'repetă până când'?",
+        "options": [
+          "Repetă codul până când condiția este îndeplinită",
+          "Repetă la infinit",
+          "Nu repetă deloc",
+          "Repetă de 10 ori"
+        ],
+        "answer": "Repetă până când"
+      },
+      {
+        "question": "Cum verificăm dacă atingem o anumită culoare?",
+        "options": [
+          "Senzorul 'atinge culoarea [ ]?'",
+          "Senzorul 'atinge personajul'",
+          "Operatorul '='",
+          "Nu se poate"
+        ],
+        "answer": "Senzorul 'atinge culoarea [ ]?'"
+      },
+      {
+        "question": "Ce este o valoare Booleană?",
+        "options": [
+          "O valoare care poate fi doar Adevărat sau Fals",
+          "Un număr întreg",
+          "Un text lung",
+          "O imagine"
+        ],
+        "answer": "O valoare care poate fi doar Adevărat sau Fals"
+      },
+      {
+        "question": "Putem folosi condiții pentru a crea un meniu?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar în Scratch 1.4",
+          "Doar cu sunete"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce se întâmplă dacă condiția dintr-un 'Dacă' este mereu falsă?",
+        "options": [
+          "Codul din interior nu va fi executat niciodată",
+          "Codul va rula oricum",
+          "Programul se va bloca",
+          "Se va auzi un sunet de eroare"
+        ],
+        "answer": "Codul din interior nu va fi executat niciodată"
+      },
+      {
+        "question": "Unde găsim senzorii?",
+        "options": [
+          "În categoria Senzori (albastru deschis)",
+          "În categoria Mișcare",
+          "În Operatori",
+          "În Variabile"
+        ],
+        "answer": "În categoria Senzori (albastru deschis)"
+      },
+      {
+        "question": "Cum verificăm distanța până la mouse?",
+        "options": [
+          "Senzorul 'distanța până la indicator mouse'",
+          "Blocul de mișcare",
+          "Nu se poate",
+          "Cu o riglă"
+        ],
+        "answer": "Senzorul 'distanța până la indicator mouse'"
+      },
+      {
+        "question": "Putem compara două texte în Scratch?",
+        "options": [
+          "Da, folosind operatorul '='",
+          "Nu, doar numere",
+          "Doar dacă sunt scurte",
+          "Doar dacă încep cu A"
+        ],
+        "answer": "Da, folosind operatorul '='"
+      },
+      {
+        "question": "Ce face blocul 'dacă [mouse apăsat] atunci'?",
+        "options": [
+          "Execută codul când dăm click oriunde pe scenă",
+          "Execută când dăm click pe personaj",
+          "Execută când mișcăm mouse-ul",
+          "Nu face nimic"
+        ],
+        "answer": "Execută codul când dăm click oriunde pe scenă"
+      },
+      {
+        "question": "De ce sunt condițiile numite 'structuri de decizie'?",
+        "options": [
+          "Pentru că permit programului să 'decidă' ce cale să urmeze",
+          "Pentru că decid mărimea ecranului",
+          "Pentru că decid culorile",
+          "Pentru că sunt grele"
+        ],
+        "answer": "Pentru că permit programului să 'decidă' ce cale să urmeze"
+      },
+      {
+        "question": "Sunt condițiile necesare pentru inteligența artificială simplă?",
+        "options": [
+          "Da, pentru a reacționa la mediu",
+          "Nu, e nevoie doar de mișcare",
+          "Doar dacă robotul e verde",
+          "Doar pentru sunet"
+        ],
+        "answer": "Da, pentru a reacționa la mediu"
+      },
+      {
+        "question": "Ce culoare au blocurile de Operatori?",
+        "options": [
+          "Verde",
+          "Albastru",
+          "Galben",
+          "Roșu"
+        ],
+        "answer": "Verde"
+      }
+    ],
+    "typing": [
+      "condiție",
+      "adevărat",
+      "fals",
+      "dacă",
+      "altfel",
+      "senzor",
+      "operator",
+      "logică",
+      "egal",
+      "comparație"
+    ]
+  }
+}

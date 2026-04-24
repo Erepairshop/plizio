@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Bazele dezvoltării jocurilor",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este cel mai important într-un joc?",
+        "options": [
+          "Regulile și scopul (gameplay-ul)",
+          "Câte culori are",
+          "Numele creatorului",
+          "Cât de mare e fișierul"
+        ],
+        "answer": "Regulile și scopul (gameplay-ul)"
+      },
+      {
+        "question": "Ce reprezintă 'User Input' într-un joc?",
+        "options": [
+          "Comenzile date de jucător (tastatură, mouse)",
+          "Curentul electric",
+          "Desenul personajului",
+          "Muzica de fundal"
+        ],
+        "answer": "Comenzile date de jucător (tastatură, mouse)"
+      },
+      {
+        "question": "Ce este un 'Game Loop'?",
+        "options": [
+          "O buclă care rulează continuu jocul",
+          "Un cerc din joc",
+          "O eroare care se repetă",
+          "Un personaj rotund"
+        ],
+        "answer": "O buclă care rulează continuu jocul"
+      },
+      {
+        "question": "Cum definim pierderea jocului (Game Over)?",
+        "options": [
+          "Când se îndeplinește o condiție negativă (ex. viață = 0)",
+          "Când se stinge becul",
+          "Când ne plictisim",
+          "Când mutăm mouse-ul"
+        ],
+        "answer": "Când se îndeplinește o condiție negativă (ex. viață = 0)"
+      },
+      {
+        "question": "Ce sunt 'viețile' într-un joc?",
+        "options": [
+          "O variabilă care numără încercările rămase",
+          "Personaje prietene",
+          "Culoarea verde",
+          "O eroare"
+        ],
+        "answer": "O variabilă care numără încercările rămase"
+      },
+      {
+        "question": "Ce este un inamic (NPC)?",
+        "options": [
+          "Un personaj controlat de calculator",
+          "Un alt jucător",
+          "O tastă stricată",
+          "Monitorul"
+        ],
+        "answer": "Un personaj controlat de calculator"
+      },
+      {
+        "question": "Cum facem un joc mai greu pe măsură ce avansăm?",
+        "options": [
+          "Crestem viteza sau numărul inamicilor",
+          "Scădem volumul",
+          "Schimbăm culoarea",
+          "Oprim jocul"
+        ],
+        "answer": "Crestem viteza sau numărul inamicilor"
+      },
+      {
+        "question": "Ce este 'coliziunea'?",
+        "options": [
+          "Când două personaje se ating",
+          "Când se termină muzica",
+          "Când salvăm jocul",
+          "Când tastăm un nume"
+        ],
+        "answer": "Când două personaje se ating"
+      },
+      {
+        "question": "Ce reprezintă 'scorul'?",
+        "options": [
+          "O variabilă care măsoară succesul jucătorului",
+          "Numele jocului",
+          "Vârsta jucătorului",
+          "Dificultatea"
+        ],
+        "answer": "O variabilă care măsoară succesul jucătorului"
+      },
+      {
+        "question": "Ce este un 'Power-up'?",
+        "options": [
+          "Un obiect care oferă avantaje temporare",
+          "Un cablu de curent",
+          "Un sunet tare",
+          "O eroare"
+        ],
+        "answer": "Un obiect care oferă avantaje temporare"
+      },
+      {
+        "question": "Ce este 'interfața' (UI) a unui joc?",
+        "options": [
+          "Elementele vizuale ca butoanele și scorul",
+          "Spatele monitorului",
+          "Codul secret",
+          "Limba română"
+        ],
+        "answer": "Elementele vizuale ca butoanele și scorul"
+      },
+      {
+        "question": "De ce e nevoie de un ecran de 'Start'?",
+        "options": [
+          "Pentru a explica regulile și a porni jocul la alegere",
+          "Pentru a ocupa spațiu",
+          "Pentru a pune poze",
+          "Nu e nevoie"
+        ],
+        "answer": "Pentru a explica regulile și a porni jocul la alegere"
+      },
+      {
+        "question": "Ce este 'echilibrarea' unui joc?",
+        "options": [
+          "Ajustarea dificultății să nu fie nici prea ușor, nici prea greu",
+          "Statul într-un picior",
+          "Folosirea aceleiași culori",
+          "Muzică egală"
+        ],
+        "answer": "Ajustarea dificultății să nu fie nici prea ușor, nici prea greu"
+      },
+      {
+        "question": "Ce reprezintă 'nivelele' într-un joc?",
+        "options": [
+          "Etape diferite cu dificultate crescătoare",
+          "Înălțimea personajului",
+          "Volumul sunetului",
+          "Mărimea ecranului"
+        ],
+        "answer": "Etape diferite cu dificultate crescătoare"
+      },
+      {
+        "question": "Ce este 'mecanica' jocului?",
+        "options": [
+          "Regulile despre cum se mișcă și interacționează lucrurile",
+          "Repararea calculatorului",
+          "Desenarea mașinilor",
+          "Codul de sunet"
+        ],
+        "answer": "Regulile despre cum se mișcă și interacționează lucrurile"
+      },
+      {
+        "question": "Cum facem un personaj să sară?",
+        "options": [
+          "Schimbăm Y în sus, așteptăm, apoi Y în jos",
+          "Schimbăm X",
+          "Îl rotim",
+          "Îl ascundem"
+        ],
+        "answer": "Schimbăm Y în sus, așteptăm, apoi Y în jos"
+      },
+      {
+        "question": "Ce este 'gravitația' într-un joc?",
+        "options": [
+          "O forță care trage personajul în jos mereu",
+          "O culoare grea",
+          "Un sunet jos",
+          "O eroare de mișcare"
+        ],
+        "answer": "O forță care trage personajul în jos mereu"
+      },
+      {
+        "question": "Ce este 'feedback-ul' vizual?",
+        "options": [
+          "Efecte care arată jucătorului ce s-a întâmplat (ex. sclipiri la puncte)",
+          "Oglinda",
+          "O cameră web",
+          "Nu există"
+        ],
+        "answer": "Efecte care arată jucătorului ce s-a întâmplat (ex. sclipiri la puncte)"
+      },
+      {
+        "question": "Ce este un 'clon' în Scratch?",
+        "options": [
+          "O copie a unui personaj creată în timpul rulării",
+          "Un frate geamăn",
+          "O eroare de duplicare",
+          "Un virus"
+        ],
+        "answer": "O copie a unui personaj creată în timpul rulării"
+      },
+      {
+        "question": "De ce folosim clone pentru gloanțe sau inamici mulți?",
+        "options": [
+          "Pentru a nu face 100 de personaje manual",
+          "Pentru că arată mai bine",
+          "Pentru a încetini jocul",
+          "Pentru sunet"
+        ],
+        "answer": "Pentru a nu face 100 de personaje manual"
+      },
+      {
+        "question": "Ce face blocul 'când încep ca clonă'?",
+        "options": [
+          "Pornește codul pentru fiecare copie nouă",
+          "Oprește copia",
+          "Șterge copia",
+          "Schimbă originalul"
+        ],
+        "answer": "Pornește codul pentru fiecare copie nouă"
+      },
+      {
+        "question": "Ce este 'hitbox-ul' unui personaj?",
+        "options": [
+          "Zona invizibilă care detectează atingerile",
+          "O cutie cu muzică",
+          "Capul personajului",
+          "Picioarele lui"
+        ],
+        "answer": "Zona invizibilă care detectează atingerile"
+      },
+      {
+        "question": "Ce este 'playtesting-ul'?",
+        "options": [
+          "Testarea jocului pentru a găsi erori și a vedea dacă e distractiv",
+          "Jocul pe ascuns",
+          "Un concurs",
+          "O pauză"
+        ],
+        "answer": "Testarea jocului pentru a găsi erori și a vedea dacă e distractiv"
+      },
+      {
+        "question": "Cum se numește documentul cu ideile jocului?",
+        "options": [
+          "Game Design Document (GDD)",
+          "Caiet de mate",
+          "Fișier text",
+          "Lista de cumpărături"
+        ],
+        "answer": "Game Design Document (GDD)"
+      },
+      {
+        "question": "Poate un joc Scratch să fie multiplayer?",
+        "options": [
+          "Da, pe același PC sau folosind variabile cloud",
+          "Nu, niciodată",
+          "Doar cu două mouse-uri",
+          "Doar cu două tastaturi"
+        ],
+        "answer": "Da, pe același PC sau folosind variabile cloud"
+      }
+    ],
+    "typing": [
+      "dezvoltare",
+      "joc",
+      "mecanică",
+      "nivel",
+      "scor",
+      "coliziune",
+      "feedback",
+      "interfață",
+      "jucător",
+      "distracție"
+    ]
+  }
+}

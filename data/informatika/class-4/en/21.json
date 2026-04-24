@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Digital Work",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'Cloud Storage'?",
+      "options": [
+        "Saving files on the internet (like Google Drive)",
+        "Saving files in the sky",
+        "A type of weather",
+        "A hidden file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collaboration'?",
+      "options": [
+        "Working together with others on a project",
+        "Working alone",
+        "Playing a game",
+        "Drawing a sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Digital Document'?",
+      "options": [
+        "A file like a report or story on a computer",
+        "A paper book",
+        "A type of code",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Syncing'?",
+      "options": [
+        "Keeping files the same across different devices",
+        "Sinking a ship",
+        "A type of music",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Spreadsheet' used for?",
+      "options": [
+        "Organizing data and doing math (Excel)",
+        "Writing a story",
+        "Drawing",
+        "Watching movies"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Folder' in a computer?",
+      "options": [
+        "A way to organize and group files",
+        "A physical paper folder",
+        "A type of sprite",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Remote Work'?",
+      "options": [
+        "Working from home using the internet",
+        "Working with a TV remote",
+        "Working in space",
+        "Working in a car"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Backup'?",
+      "options": [
+        "Making a copy of files in case of loss",
+        "Walking backwards",
+        "Deleting a file",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'USB Flash Drive'?",
+      "options": [
+        "A small portable storage device",
+        "A type of computer",
+        "A monitor part",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Email'?",
+      "options": [
+        "Electronic Mail for sending messages",
+        "A type of paper",
+        "A fast car",
+        "A sprite name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Attachment' in an email?",
+      "options": [
+        "A file sent along with a message",
+        "A piece of tape",
+        "A type of code",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Multiplayer' in work context?",
+      "options": [
+        "Collaborative editing",
+        "Playing a game",
+        "Having many bosses",
+        "Using many mice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Version History'?",
+      "options": [
+        "The ability to see and restore previous versions of a file",
+        "A history book",
+        "A type of code",
+        "A sprite look"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'PDF'?",
+      "options": [
+        "A file format that looks the same on all devices",
+        "A type of music",
+        "A photo",
+        "A game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Video Conferencing'?",
+      "options": [
+        "Talking with others using video (Zoom, Teams)",
+        "Watching a movie",
+        "Taking a photo",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Desktop'?",
+      "options": [
+        "The main screen area of a computer",
+        "A real desk",
+        "A type of chair",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Download'?",
+      "options": [
+        "Transferring a file from the internet to your computer",
+        "Transferring to the internet",
+        "Deleting a file",
+        "Saving a file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Upload'?",
+      "options": [
+        "Transferring a file from your computer to the internet",
+        "Downloading",
+        "Deleting",
+        "Printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Efficiency' in digital work?",
+      "options": [
+        "Doing work faster and better with tools",
+        "Being slow",
+        "Doing nothing",
+        "Using more electricity"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Task Manager'?",
+      "options": [
+        "A list or app for organizing work to be done",
+        "A person who shouts",
+        "A computer part",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you work on the same document at the same time as a friend?",
+      "options": [
+        "Yes, with cloud tools",
+        "No, only one at a time",
+        "Only in the same room",
+        "Only if you are a pro"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Creative Commons'?",
+      "options": [
+        "Licenses that allow sharing and using work legally",
+        "A park",
+        "A type of code",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'File Extension' (like .docx, .png)?",
+      "options": [
+        "Suffix that tells what type of file it is",
+        "The file name",
+        "The file size",
+        "The file color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Digital Citizenship'?",
+      "options": [
+        "Acting responsibly and safely online",
+        "Being a robot",
+        "Living in a computer",
+        "Winning a game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is it important to organize your files?",
+      "options": [
+        "Yes, so you can find them easily",
+        "No, just search",
+        "Only for teachers",
+        "Only for adults"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Work",
+      "answer": "Work"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Team",
+      "answer": "Team"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: File",
+      "answer": "File"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Folder",
+      "answer": "Folder"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Cloud",
+      "answer": "Cloud"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Store",
+      "answer": "Store"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Share",
+      "answer": "Share"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Save",
+      "answer": "Save"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tool",
+      "answer": "Tool"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Send",
+      "answer": "Send"
+    }
+  ]
+}

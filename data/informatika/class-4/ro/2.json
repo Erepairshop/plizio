@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Scripturi și blocuri",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este un script?",
+        "options": [
+          "O serie de blocuri conectate",
+          "Un desen",
+          "O tastă",
+          "Un sunet"
+        ],
+        "answer": "O serie de blocuri conectate"
+      },
+      {
+        "question": "Cum se conectează blocurile?",
+        "options": [
+          "Se potrivesc ca piesele de puzzle",
+          "Cu lipici",
+          "Cu sârmă",
+          "Nu se conectează"
+        ],
+        "answer": "Se potrivesc ca piesele de puzzle"
+      },
+      {
+        "question": "Unde tragem blocurile pentru a crea un script?",
+        "options": [
+          "În zona de scripturi",
+          "Pe ecranul altui coleg",
+          "În coșul de gunoi",
+          "Pe tastatură"
+        ],
+        "answer": "În zona de scripturi"
+      },
+      {
+        "question": "Ce se întâmplă dacă blocurile nu sunt conectate?",
+        "options": [
+          "Nu vor rula împreună",
+          "Se vor șterge",
+          "Vor exploda",
+          "Vor schimba culoarea"
+        ],
+        "answer": "Nu vor rula împreună"
+      },
+      {
+        "question": "Putem avea mai multe scripturi pentru același personaj?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar unul singur",
+          "Maxim două"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Cum pornim un script individual?",
+        "options": [
+          "Dăm click pe el",
+          "Îl privim fix",
+          "Suflăm în microfon",
+          "Apăsăm Enter"
+        ],
+        "answer": "Dăm click pe el"
+      },
+      {
+        "question": "Ce formă au blocurile care încep un script?",
+        "options": [
+          "Rotunjită sus (Hat blocks)",
+          "Pătrată",
+          "Triunghiulară",
+          "Cerc"
+        ],
+        "answer": "Rotunjită sus (Hat blocks)"
+      },
+      {
+        "question": "Ce culoare au blocurile de Mișcare?",
+        "options": [
+          "Albastru închis",
+          "Galben",
+          "Verde",
+          "Roz"
+        ],
+        "answer": "Albastru închis"
+      },
+      {
+        "question": "Ce face un bloc 'spune'? ",
+        "options": [
+          "Afișează un balon de text",
+          "Cântă o melodie",
+          "Șterge personajul",
+          "Închide Scratch"
+        ],
+        "answer": "Afișează un balon de text"
+      },
+      {
+        "question": "Cum duplicăm un script?",
+        "options": [
+          "Click dreapta -> Duplică",
+          "Îl scriem din nou",
+          "Îl fotografiem",
+          "Îl tragem afară"
+        ],
+        "answer": "Click dreapta -> Duplică"
+      },
+      {
+        "question": "Ce este categoria de blocuri 'Control'?",
+        "options": [
+          "Blocuri pentru bucle și condiții",
+          "Blocuri de desen",
+          "Blocuri de sunet",
+          "Blocuri de mișcare"
+        ],
+        "answer": "Blocuri pentru bucle și condiții"
+      },
+      {
+        "question": "Unde se află lista categoriilor de blocuri?",
+        "options": [
+          "În partea stângă",
+          "În partea dreaptă",
+          "Sus",
+          "Jos"
+        ],
+        "answer": "În partea stângă"
+      },
+      {
+        "question": "Putem adăuga extensii de blocuri?",
+        "options": [
+          "Da, din colțul stânga-jos",
+          "Nu",
+          "Doar dacă plătim",
+          "Doar în versiunea veche"
+        ],
+        "answer": "Da, din colțul stânga-jos"
+      },
+      {
+        "question": "Ce face blocurile de Sunet?",
+        "options": [
+          "Redau sunete sau note",
+          "Schimbă fundalul",
+          "Mută personajul",
+          "Șterg codul"
+        ],
+        "answer": "Redau sunete sau note"
+      },
+      {
+        "question": "Ce este un bloc 'așteaptă 1 secundă'?",
+        "options": [
+          "O pauză în execuție",
+          "O comandă de viteză",
+          "Un bloc de mișcare",
+          "Un bloc de final"
+        ],
+        "answer": "O pauză în execuție"
+      },
+      {
+        "question": "Cum se execută codul într-un script?",
+        "options": [
+          "De sus în jos",
+          "De jos în sus",
+          "Aleatoriu",
+          "De la dreapta la stânga"
+        ],
+        "answer": "De sus în jos"
+      },
+      {
+        "question": "Ce înseamnă un bloc strălucitor în timp ce rulează?",
+        "options": [
+          "Că scriptul este activ",
+          "Că are o eroare",
+          "Că se va șterge",
+          "Că este selectat"
+        ],
+        "answer": "Că scriptul este activ"
+      },
+      {
+        "question": "Ce sunt blocurile de Evenimente?",
+        "options": [
+          "Blocuri care declanșează scriptul",
+          "Blocuri de calcul",
+          "Blocuri de text",
+          "Blocuri de culoare"
+        ],
+        "answer": "Blocuri care declanșează scriptul"
+      },
+      {
+        "question": "Care bloc pornește totul de obicei?",
+        "options": [
+          "Când se dă click pe steag",
+          "Când tasta space e apăsată",
+          "Când personajul e atins",
+          "Niciunul"
+        ],
+        "answer": "Când se dă click pe steag"
+      },
+      {
+        "question": "Putem șterge un singur bloc din mijlocul unui script?",
+        "options": [
+          "Da, îl detașăm întâi",
+          "Nu",
+          "Doar dacă ștergem tot",
+          "Doar cu foarfeca"
+        ],
+        "answer": "Da, îl detașăm întâi"
+      },
+      {
+        "question": "Ce este paleta de blocuri?",
+        "options": [
+          "Locul unde găsim toate blocurile",
+          "O pictură",
+          "Zona de desen",
+          "Un personaj"
+        ],
+        "answer": "Locul unde găsim toate blocurile"
+      },
+      {
+        "question": "Ce face blocurile de Operatori?",
+        "options": [
+          "Calcule matematice și logică",
+          "Muzică",
+          "Desen",
+          "Mișcare"
+        ],
+        "answer": "Calcule matematice și logică"
+      },
+      {
+        "question": "Ce culoare are categoria Evenimente?",
+        "options": [
+          "Galben",
+          "Verde",
+          "Albastru",
+          "Lila"
+        ],
+        "answer": "Galben"
+      },
+      {
+        "question": "Putem schimba ordinea blocurilor?",
+        "options": [
+          "Da, prin tragere",
+          "Nu",
+          "Doar la început",
+          "Doar în scripturi noi"
+        ],
+        "answer": "Da, prin tragere"
+      },
+      {
+        "question": "Ce este un comentariu în script?",
+        "options": [
+          "O notă explicativă pentru noi",
+          "Un sunet",
+          "O eroare",
+          "O comandă ascunsă"
+        ],
+        "answer": "O notă explicativă pentru noi"
+      }
+    ],
+    "typing": [
+      "script",
+      "conectare",
+      "puzzle",
+      "categorie",
+      "execuție",
+      "ordine",
+      "comentariu",
+      "control",
+      "eveniment",
+      "duplicare"
+    ]
+  }
+}

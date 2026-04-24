@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Volumul de date",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este un 'bit'?",
+        "options": [
+          "Cea mai mică unitate de date (0 sau 1)",
+          "O mușcătură",
+          "Un personaj",
+          "O tastă"
+        ],
+        "answer": "Cea mai mică unitate de date (0 sau 1)"
+      },
+      {
+        "question": "Câți biți are un 'Byte'?",
+        "options": [
+          "8",
+          "10",
+          "100",
+          "2"
+        ],
+        "answer": "8"
+      },
+      {
+        "question": "Ce unitate de măsură urmează după Kilobyte (KB)?",
+        "options": [
+          "Megabyte (MB)",
+          "Gigabyte (GB)",
+          "Byte",
+          "Terabyte (TB)"
+        ],
+        "answer": "Megabyte (MB)"
+      },
+      {
+        "question": "Aproximativ câți MB are un GB?",
+        "options": [
+          "1000 (1024)",
+          "10",
+          "100",
+          "500"
+        ],
+        "answer": "1000 (1024)"
+      },
+      {
+        "question": "Care unitate este cea mai mare?",
+        "options": [
+          "Terabyte (TB)",
+          "Gigabyte (GB)",
+          "Megabyte (MB)",
+          "Kilobyte (KB)"
+        ],
+        "answer": "Terabyte (TB)"
+      },
+      {
+        "question": "Ce ocupă de obicei cel mai mult spațiu?",
+        "options": [
+          "Un videoclip HD",
+          "Un fișier text",
+          "O melodie",
+          "O imagine mică"
+        ],
+        "answer": "Un videoclip HD"
+      },
+      {
+        "question": "Ce este 'capacitatea de stocare'?",
+        "options": [
+          "Cât spațiu are un disc sau card pentru fișiere",
+          "Viteza netului",
+          "Mărimea monitorului",
+          "Greutatea PC-ului"
+        ],
+        "answer": "Cât spațiu are un disc sau card pentru fișiere"
+      },
+      {
+        "question": "Ce este un 'Hard Disk'?",
+        "options": [
+          "Piesa principală de stocare din calculator",
+          "Un disc greu",
+          "O eroare",
+          "O tastă"
+        ],
+        "answer": "Piesa principală de stocare din calculator"
+      },
+      {
+        "question": "Ce este un SSD?",
+        "options": [
+          "O unitate de stocare foarte rapidă",
+          "Un sunet",
+          "O eroare",
+          "O imagine"
+        ],
+        "answer": "O unitate de stocare foarte rapidă"
+      },
+      {
+        "question": "Ce înseamnă să 'comprimi' (zip) un fișier?",
+        "options": [
+          "Să-i micșorezi dimensiunea pentru a ocupa mai puțin spațiu",
+          "Să-l ștergi",
+          "Să-l colorezi",
+          "Să-l trimiți prin e-mail"
+        ],
+        "answer": "Să-i micșorezi dimensiunea pentru a ocupa mai puțin spațiu"
+      },
+      {
+        "question": "Cât ocupă aproximativ o poză făcută cu telefonul?",
+        "options": [
+          "2-5 Megabytes (MB)",
+          "1 Gigabyte",
+          "10 Bytes",
+          "1000 Kilobytes"
+        ],
+        "answer": "2-5 Megabytes (MB)"
+      },
+      {
+        "question": "Ce este un 'Cloud' în termeni de date?",
+        "options": [
+          "Stocare pe internet, pe servere la distanță",
+          "Un nor pe cer",
+          "O eroare de vreme",
+          "Un joc"
+        ],
+        "answer": "Stocare pe internet, pe servere la distanță"
+      },
+      {
+        "question": "De ce e bine să mai ștergem fișierele vechi?",
+        "options": [
+          "Pentru a elibera spațiu și a face PC-ul mai rapid",
+          "Pentru a ne plictisi",
+          "Nu e bine, trebuie păstrat tot",
+          "E periculos"
+        ],
+        "answer": "Pentru a elibera spațiu și a face PC-ul mai rapid"
+      },
+      {
+        "question": "Ce înseamnă 'download speed'?",
+        "options": [
+          "Viteza cu care primim date de pe internet",
+          "Cât de repede scriem",
+          "Cât de repede merge mouse-ul",
+          "Cât de repede se stinge PC-ul"
+        ],
+        "answer": "Viteza cu care primim date de pe internet"
+      },
+      {
+        "question": "Ce este 'streaming-ul'?",
+        "options": [
+          "Vizionarea unui video fără a-l descărca de tot înainte",
+          "Un pârâu",
+          "O eroare de imagine",
+          "Un joc vechi"
+        ],
+        "answer": "Vizionarea unui video fără a-l descărca de tot înainte"
+      },
+      {
+        "question": "Cum se măsoară viteza internetului?",
+        "options": [
+          "Mbps (Megabiți pe secundă)",
+          "Kilograme",
+          "Metri",
+          "Litri"
+        ],
+        "answer": "Mbps (Megabiți pe secundă)"
+      },
+      {
+        "question": "Ce este un USB Flash Drive?",
+        "options": [
+          "Un stick mic de memorie portabil",
+          "O lanternă",
+          "O eroare",
+          "O tastă"
+        ],
+        "answer": "Un stick mic de memorie portabil"
+      },
+      {
+        "question": "Ce înseamnă 'upload'?",
+        "options": [
+          "Trimiterea datelor de la noi pe internet",
+          "Descărcarea",
+          "Ștergerea",
+          "Repararea"
+        ],
+        "answer": "Trimiterea datelor de la noi pe internet"
+      },
+      {
+        "question": "Câte poze de 1 MB încap într-un GB?",
+        "options": [
+          "Aproximativ 1000",
+          "10",
+          "100",
+          "5000"
+        ],
+        "answer": "Aproximativ 1000"
+      },
+      {
+        "question": "Ce este 'metadatele' unui fișier?",
+        "options": [
+          "Informații despre fișier (data, mărime, autor)",
+          "O eroare mare",
+          "O muzică de fundal",
+          "Un virus"
+        ],
+        "answer": "Informații despre fișier (data, mărime, autor)"
+      },
+      {
+        "question": "Ce fișier are extensia .txt?",
+        "options": [
+          "Un fișier de text simplu",
+          "O imagine",
+          "Un video",
+          "O muzică"
+        ],
+        "answer": "Un fișier de text simplu"
+      },
+      {
+        "question": "Ce fișier are extensia .mp4?",
+        "options": [
+          "Un fișier video",
+          "O poză",
+          "Un text",
+          "O eroare"
+        ],
+        "answer": "Un fișier video"
+      },
+      {
+        "question": "Ce înseamnă 'rezoluție' la o imagine?",
+        "options": [
+          "Numărul de pixeli (puncte) care formează imaginea",
+          "Numele pozei",
+          "Culoarea pozei",
+          "Data când a fost făcută"
+        ],
+        "answer": "Numărul de pixeli (puncte) care formează imaginea"
+      },
+      {
+        "question": "De ce fișierele video sunt mai mari decât cele audio?",
+        "options": [
+          "Pentru că au și imagini în mișcare (multe cadre pe secundă)",
+          "Sunt la fel",
+          "Muzica e mai grea",
+          "Nu sunt mai mari"
+        ],
+        "answer": "Pentru că au și imagini în mișcare (multe cadre pe secundă)"
+      },
+      {
+        "question": "Este important să avem spațiu liber pe disc?",
+        "options": [
+          "Da, sistemul de operare are nevoie de el pentru a funcționa corect",
+          "Nu contează",
+          "Doar dacă ne jucăm",
+          "Doar dacă descărcăm filme"
+        ],
+        "answer": "Da, sistemul de operare are nevoie de el pentru a funcționa corect"
+      }
+    ],
+    "typing": [
+      "byte",
+      "megabyte",
+      "gigabyte",
+      "stocare",
+      "fișier",
+      "viteză",
+      "date",
+      "memorie",
+      "stick",
+      "cloud"
+    ]
+  }
+}

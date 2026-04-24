@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Animation",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite look like it's walking?",
+      "options": [
+        "Switch between costumes in a loop",
+        "Move it very fast",
+        "Change its color",
+        "Click it many times"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is essential for timing in animation?",
+      "options": [
+        "Wait [ ] seconds",
+        "Move [ ] steps",
+        "Say [ ]",
+        "Hide"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Next Costume' do in a loop?",
+      "options": [
+        "Creates a cycling animation",
+        "Deletes the costume",
+        "Makes the sprite bigger",
+        "Stops the script"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you don't use 'Wait' in an animation loop?",
+      "options": [
+        "It happens too fast to see",
+        "It doesn't work at all",
+        "The computer crashes",
+        "The sprite turns red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is best for a continuous background move?",
+      "options": [
+        "Forever",
+        "Repeat 10",
+        "Once",
+        "Wait until"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'FPS' in animation?",
+      "options": [
+        "Frames Per Second",
+        "Feet Per Second",
+        "Fast Program Start",
+        "Fun Per Sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite fade out?",
+      "options": [
+        "Change Ghost effect by 10",
+        "Set size to 0",
+        "Wait 10 seconds",
+        "Move to (0,0)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Frame'?",
+      "options": [
+        "A single image in an animation",
+        "A border around the stage",
+        "A code block",
+        "A cat costume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you animate the backdrop?",
+      "options": [
+        "Yes, using 'Next Backdrop'",
+        "No, only sprites",
+        "Only in the pro version",
+        "Only with sounds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which effect makes a sprite spin like a whirlpool?",
+      "options": [
+        "Whirl",
+        "Fisheye",
+        "Pixelate",
+        "Color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you reset all graphic effects?",
+      "options": [
+        "Clear graphic effects",
+        "Stop all",
+        "Next costume",
+        "Change color by 0"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Change color effect by 25' do?",
+      "options": [
+        "Cycles through different colors",
+        "Makes it white",
+        "Makes it black",
+        "Changes the background"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Smooth movement' usually done with?",
+      "options": [
+        "Glide block",
+        "Jump block",
+        "Teleport",
+        "Wait 10 seconds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite grow and shrink?",
+      "options": [
+        "Change size by 10 then by -10",
+        "Set size to 100",
+        "Next costume",
+        "Hide and Show"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which loop runs code a specific number of times?",
+      "options": [
+        "Repeat [ ]",
+        "Forever",
+        "If",
+        "While"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pixelate' effect?",
+      "options": [
+        "Makes the sprite look blocky",
+        "Makes it invisible",
+        "Makes it spin",
+        "Changes its color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you sync animation with sound?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for music",
+        "Only in offline version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Costume 1' usually?",
+      "options": [
+        "The first appearance of a sprite",
+        "The last frame",
+        "A hidden frame",
+        "A sound name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a sprite 'jump'?",
+      "options": [
+        "Change Y by 50, Wait, Change Y by -50",
+        "Change X by 50, Change X by -50",
+        "Move 10 steps",
+        "Turn 360 degrees"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which category contains 'Next costume'?",
+      "options": [
+        "Looks",
+        "Motion",
+        "Control",
+        "Events"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of 'Switch backdrop to...'?",
+      "options": [
+        "To change the scene",
+        "To move the sprite",
+        "To play a video",
+        "To save the project"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you make a sprite 'blink'?",
+      "options": [
+        "Repeat [Show, Wait, Hide, Wait]",
+        "Say nothing",
+        "Move left and right",
+        "Change size"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tool helps you draw precise frames?",
+      "options": [
+        "Vector editor",
+        "Hammer",
+        "Glue",
+        "Scissors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Onion skinning' in animation?",
+      "options": [
+        "Seeing previous frames while drawing",
+        "A type of vegetable",
+        "Deleting layers",
+        "Cooking in Scratch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is animation just moving images quickly?",
+      "options": [
+        "Yes",
+        "No, it is magic",
+        "No, it is a video",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Animation",
+      "answer": "Animation"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Frame",
+      "answer": "Frame"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wait",
+      "answer": "Wait"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Repeat",
+      "answer": "Repeat"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Smooth",
+      "answer": "Smooth"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Walk",
+      "answer": "Walk"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Action",
+      "answer": "Action"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Speed",
+      "answer": "Speed"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Next",
+      "answer": "Next"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Loop",
+      "answer": "Loop"
+    }
+  ]
+}

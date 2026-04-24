@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Sound and Music",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Where do you add sound files in Scratch?",
+      "options": [
+        "Sounds tab",
+        "Code tab",
+        "Costumes tab",
+        "File menu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block plays a sound until it finishes?",
+      "options": [
+        "Play sound [ ] until done",
+        "Start sound [ ]",
+        "Say sound",
+        "Wait for sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the difference between 'Play sound... until done' and 'Start sound'?",
+      "options": [
+        "Until done pauses the script, Start doesn't",
+        "Start is louder",
+        "Until done is only for music",
+        "There is no difference"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you stop all sounds?",
+      "options": [
+        "Stop all sounds block",
+        "Stop script",
+        "Click the cat",
+        "Turn off speakers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category is 'Play note' in?",
+      "options": [
+        "Music extension",
+        "Sound",
+        "Events",
+        "Operators"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you add the Music blocks to Scratch?",
+      "options": [
+        "Click 'Add Extension' (bottom left)",
+        "They are there by default",
+        "Right click the stage",
+        "Download a plugin"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Sound blocks?",
+      "options": [
+        "Purple / Pink",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Set volume to 100%' mean?",
+      "options": [
+        "Full volume",
+        "Mute",
+        "Half volume",
+        "The cat is 100 pixels tall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you record your own voice in Scratch?",
+      "options": [
+        "Yes, using the microphone icon",
+        "No, only pre-made sounds",
+        "Only with a special pro account",
+        "Only in the offline version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Tempo' in music?",
+      "options": [
+        "The speed of the music",
+        "The loudness",
+        "The name of the song",
+        "A type of instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block changes the pitch of a sound?",
+      "options": [
+        "Change [pitch] effect by 10",
+        "Set pitch to 0",
+        "Both A and B",
+        "Change volume"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you use a high pitch effect?",
+      "options": [
+        "Sound gets squeakier / higher",
+        "Sound gets deeper",
+        "Sound stops",
+        "Sound gets louder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you edit sounds in Scratch?",
+      "options": [
+        "Yes, you can trim, fade, and reverse",
+        "No, only play them",
+        "Only by deleting them",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block sets the instrument for music blocks?",
+      "options": [
+        "Set instrument to [piano]",
+        "Play instrument",
+        "Use piano",
+        "Change instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Pan' effect?",
+      "options": [
+        "Moves sound between left and right speakers",
+        "Makes sound like a frying pan",
+        "Deletes sound",
+        "Changes tempo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many beats is a standard 'Play note' block?",
+      "options": [
+        "0.25 beats (default)",
+        "1 beat",
+        "10 beats",
+        "0.1 seconds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Mute'?",
+      "options": [
+        "Setting volume to 0",
+        "Playing sound backwards",
+        "Stopping the script",
+        "Deleting the sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is 'Clear sound effects' in?",
+      "options": [
+        "Sound",
+        "Looks",
+        "Control",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you play two sounds at the same time?",
+      "options": [
+        "Yes, using 'Start sound'",
+        "No, only one",
+        "Only in the stage",
+        "Only if they are different colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the Sound Library?",
+      "options": [
+        "A collection of sounds built into Scratch",
+        "Where you keep books",
+        "A music website",
+        "The Scratch server"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Change tempo by 20' do?",
+      "options": [
+        "Makes the music faster",
+        "Makes the music slower",
+        "Makes the music louder",
+        "Changes the song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which instrument is #1 in Scratch Music?",
+      "options": [
+        "Piano",
+        "Drum",
+        "Guitar",
+        "Flute"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a sprite react to loudness?",
+      "options": [
+        "Yes, with the 'Loudness' sensing block",
+        "No",
+        "Only if it is a dog",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Reverb'?",
+      "options": [
+        "Echo effect",
+        "Deleting sound",
+        "Playing faster",
+        "Changing volume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is music part of a good game experience?",
+      "options": [
+        "Yes, it adds atmosphere",
+        "No, it is annoying",
+        "No, games should be silent",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sound",
+      "answer": "Sound"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Music",
+      "answer": "Music"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Voice",
+      "answer": "Voice"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Note",
+      "answer": "Note"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Pitch",
+      "answer": "Pitch"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Volume",
+      "answer": "Volume"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tempo",
+      "answer": "Tempo"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Record",
+      "answer": "Record"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Listen",
+      "answer": "Listen"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Beat",
+      "answer": "Beat"
+    }
+  ]
+}

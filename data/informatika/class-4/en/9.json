@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Functions and Custom Blocks",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What are 'My Blocks' in Scratch?",
+      "options": [
+        "Custom functions you create",
+        "Pre-made blocks",
+        "Hidden blocks",
+        "Blocks you buy"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why would you create a custom block?",
+      "options": [
+        "To reuse a group of blocks easily",
+        "To change the cat's color",
+        "To stop the project",
+        "To save space on disk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is another name for a custom block in programming?",
+      "options": [
+        "Function or Procedure",
+        "Variable",
+        "Sprite",
+        "Loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you start making a custom block?",
+      "options": [
+        "Click 'Make a Block' in My Blocks",
+        "Right click the stage",
+        "Press Ctrl+F",
+        "Type 'Function'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are 'My Blocks'?",
+      "options": [
+        "Pink / Dark Pink",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Input' in a custom block?",
+      "options": [
+        "A value passed to the function",
+        "A sound effect",
+        "A keyboard key",
+        "A mouse click"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you add a number input to a custom block?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for variables",
+        "Only in the pro version"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Define [block]' mean?",
+      "options": [
+        "Telling Scratch what the block does",
+        "Giving it a name",
+        "Deleting the block",
+        "Running the block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Run without screen refresh' option for?",
+      "options": [
+        "Making the code run instantly/faster",
+        "Saving battery",
+        "Hiding the stage",
+        "Turning off the monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a custom block in a different sprite?",
+      "options": [
+        "No, they are usually local to one sprite",
+        "Yes, always",
+        "Only if you broadcast it",
+        "Only with the backpack"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many inputs can a custom block have?",
+      "options": [
+        "As many as you need",
+        "Only one",
+        "Up to five",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you define a block but never call it?",
+      "options": [
+        "Nothing happens, it never runs",
+        "It runs once at start",
+        "It errors",
+        "The cat disappears"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a loop inside a custom block definition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only 'Repeat'",
+        "Only 'Forever'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT an input type for My Blocks?",
+      "options": [
+        "Sound file",
+        "Number or Text",
+        "Boolean (Condition)",
+        "Label"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Abstraction' in programming?",
+      "options": [
+        "Hiding complex details behind a simple block",
+        "Drawing abstract art",
+        "Deleting code",
+        "Making code hard to read"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do defined custom blocks live in the editor?",
+      "options": [
+        "In the My Blocks category",
+        "On the stage",
+        "In the backpack",
+        "In the sounds tab"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a custom block call another custom block?",
+      "options": [
+        "Yes, this is very powerful",
+        "No, it causes a crash",
+        "Only if they have the same name",
+        "Only on weekends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Boolean' input?",
+      "options": [
+        "A true/false condition (diamond shape)",
+        "A number",
+        "A sound",
+        "A color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you rename a custom block?",
+      "options": [
+        "Right-click the 'Define' block and 'Edit'",
+        "Type over its name",
+        "You must delete and recreate it",
+        "Click the stage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Run without screen refresh' good for drawing?",
+      "options": [
+        "It makes the whole drawing appear instantly",
+        "It changes the pen color",
+        "It clears the screen",
+        "It saves the image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Call' of a function?",
+      "options": [
+        "Using the block in a script",
+        "Shouting at the computer",
+        "Defining what it does",
+        "Naming it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a custom block inside a 'Forever' loop?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it has no inputs",
+        "Only if it is pink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'My Blocks' available in Scratch Jr?",
+      "options": [
+        "No",
+        "Yes",
+        "Only on tablets",
+        "Only for animals"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Recursion'?",
+      "options": [
+        "A function calling itself",
+        "Deleting code",
+        "A type of variable",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does creating My Blocks make code easier to read?",
+      "options": [
+        "Yes, it organizes it better",
+        "No, it makes it harder",
+        "Only for experts",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Define",
+      "answer": "Define"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Input",
+      "answer": "Input"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Custom",
+      "answer": "Custom"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Reuse",
+      "answer": "Reuse"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Function",
+      "answer": "Function"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Refresh",
+      "answer": "Refresh"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Label",
+      "answer": "Label"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Code",
+      "answer": "Code"
+    }
+  ]
+}

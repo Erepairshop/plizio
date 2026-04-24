@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Data Volume",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the smallest unit of computer data?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many bits are in one Byte?",
+      "options": [
+        "8",
+        "10",
+        "100",
+        "1024"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'KB' stand for?",
+      "options": [
+        "Kilobyte",
+        "Keybyte",
+        "Kindbyte",
+        "Kingbyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'MB' stand for?",
+      "options": [
+        "Megabyte",
+        "Mainbyte",
+        "Moonbyte",
+        "Morebyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'GB' stand for?",
+      "options": [
+        "Gigabyte",
+        "Greatbyte",
+        "Greenbyte",
+        "Goalbyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'TB' stand for?",
+      "options": [
+        "Terabyte",
+        "Totalbyte",
+        "Topbyte",
+        "Tenthbyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is larger: 1 MB or 1 GB?",
+      "options": [
+        "1 GB",
+        "1 MB",
+        "They are the same",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Approximately how many Kilobytes are in a Megabyte?",
+      "options": [
+        "1000",
+        "10",
+        "100",
+        "1,000,000"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Approximately how many Megabytes are in a Gigabyte?",
+      "options": [
+        "1000",
+        "10",
+        "100",
+        "1,000,000"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which file usually takes more space?",
+      "options": [
+        "A high-quality movie",
+        "A short text note",
+        "A simple image",
+        "An icon"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Storage Capacity'?",
+      "options": [
+        "How much data a device can hold",
+        "How big a computer is",
+        "How fast the internet is",
+        "The volume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Binary'?",
+      "options": [
+        "A system using only 0 and 1",
+        "A system using letters",
+        "A system for music",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do we use 'Giga' and 'Tera' now?",
+      "options": [
+        "Because files and drives are getting much bigger",
+        "To sound cool",
+        "To make math harder",
+        "Because bytes are old"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Compression'?",
+      "options": [
+        "Making a file smaller to save space",
+        "Making a file bigger",
+        "Deleting a file",
+        "Printing a file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which takes more space: 1 minute of Video or 1 minute of Audio?",
+      "options": [
+        "Video",
+        "Audio",
+        "They are the same",
+        "Neither"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bandwidth'?",
+      "options": [
+        "How much data can be sent per second (internet speed)",
+        "The width of the computer",
+        "The size of a monitor",
+        "A type of music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many bits are needed to represent a 'Yes' or 'No'?",
+      "options": [
+        "1 bit",
+        "8 bits",
+        "100 bits",
+        "0 bits"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Hard Drive'?",
+      "options": [
+        "The main storage part of a computer",
+        "A fast car",
+        "A type of screen",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'SSD'?",
+      "options": [
+        "Solid State Drive (a fast type of storage)",
+        "Super Speed Device",
+        "Secret Sound Disk",
+        "Small Screen Data"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the correct order from smallest to largest?",
+      "options": [
+        "Bit < Byte < KB < MB < GB < TB",
+        "TB < GB < MB < KB < Byte < Bit",
+        "Bit < KB < Byte < MB",
+        "Byte < Bit < MB"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a 1 TB drive hold more than 1000 GB?",
+      "options": [
+        "Yes, slightly more (1024 GB)",
+        "No, exactly 1000",
+        "No, less",
+        "Only on Tuesdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Metadata'?",
+      "options": [
+        "Data that describes other data (like date taken)",
+        "A big file",
+        "A type of code",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 1 KB exactly 1000 Bytes?",
+      "options": [
+        "Usually it's 1024, but often rounded to 1000",
+        "Yes, exactly",
+        "No, it is 8",
+        "No, it is 100"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What takes the most space in a game?",
+      "options": [
+        "High-res 3D graphics and sound",
+        "The code text",
+        "The score variable",
+        "The cat sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is it important to know file sizes?",
+      "options": [
+        "To know if they fit on your drive or can be emailed",
+        "To win a game",
+        "To name a file",
+        "To change the color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Bit",
+      "answer": "Bit"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Byte",
+      "answer": "Byte"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Kilo",
+      "answer": "Kilo"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Mega",
+      "answer": "Mega"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Giga",
+      "answer": "Giga"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tera",
+      "answer": "Tera"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Data",
+      "answer": "Data"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Size",
+      "answer": "Size"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Unit",
+      "answer": "Unit"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Memory",
+      "answer": "Memory"
+    }
+  ]
+}

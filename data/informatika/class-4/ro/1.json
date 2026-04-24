@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Introducere în Scratch",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este Scratch?",
+        "options": [
+          "Limbaj de programare vizual",
+          "Un tip de mâncare",
+          "Un hardware",
+          "Sistem de operare"
+        ],
+        "answer": "Limbaj de programare vizual"
+      },
+      {
+        "question": "Cine a creat Scratch?",
+        "options": [
+          "MIT Media Lab",
+          "Google",
+          "Microsoft",
+          "NASA"
+        ],
+        "answer": "MIT Media Lab"
+      },
+      {
+        "question": "Care este simbolul Scratch?",
+        "options": [
+          "O pisică",
+          "Un câine",
+          "Un șoarece",
+          "Un urs"
+        ],
+        "answer": "O pisică"
+      },
+      {
+        "question": "Unde putem folosi Scratch?",
+        "options": [
+          "În browser",
+          "Doar pe hârtie",
+          "Doar la TV",
+          "Doar pe telefon"
+        ],
+        "answer": "În browser"
+      },
+      {
+        "question": "La ce este bun Scratch?",
+        "options": [
+          "Jocuri și animații",
+          "Gătit",
+          "Sport",
+          "Condus"
+        ],
+        "answer": "Jocuri și animații"
+      },
+      {
+        "question": "Ce este un 'personaj' (sprite)?",
+        "options": [
+          "Un obiect programabil",
+          "Tastatura",
+          "Monitorul",
+          "Utilizatorul"
+        ],
+        "answer": "Un obiect programabil"
+      },
+      {
+        "question": "Ce este 'scena'?",
+        "options": [
+          "Fundalul proiectului",
+          "Spatele calculatorului",
+          "Un cod",
+          "Un sunet"
+        ],
+        "answer": "Fundalul proiectului"
+      },
+      {
+        "question": "Cu ce blocuri începem un program?",
+        "options": [
+          "Evenimente",
+          "Mișcare",
+          "Variabile",
+          "Sunet"
+        ],
+        "answer": "Evenimente"
+      },
+      {
+        "question": "Ce înseamnă 'drag and drop'?",
+        "options": [
+          "Tragerea blocurilor cu mouse-ul",
+          "Oprirea calculatorului",
+          "Desenat",
+          "Tastat"
+        ],
+        "answer": "Tragerea blocurilor cu mouse-ul"
+      },
+      {
+        "question": "Ce este comunitatea Scratch?",
+        "options": [
+          "Loc pentru partajarea proiectelor",
+          "Un magazin",
+          "O școală",
+          "Un club sportiv"
+        ],
+        "answer": "Loc pentru partajarea proiectelor"
+      },
+      {
+        "question": "Putem folosi Scratch în limba română?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar parțial",
+          "Doar în engleză"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Unde se mișcă personajele?",
+        "options": [
+          "Pe scenă",
+          "Pe tastatură",
+          "Pe mousepad",
+          "Pe scaun"
+        ],
+        "answer": "Pe scenă"
+      },
+      {
+        "question": "Cum salvăm munca?",
+        "options": [
+          "Meniul Fișier",
+          "Nu se poate",
+          "Închizând PC-ul",
+          "Strigând"
+        ],
+        "answer": "Meniul Fișier"
+      },
+      {
+        "question": "Ce culoare au blocurile 'Aspect'?",
+        "options": [
+          "Mov",
+          "Albastru",
+          "Verde",
+          "Galben"
+        ],
+        "answer": "Mov"
+      },
+      {
+        "question": "Ce este programarea bazată pe blocuri?",
+        "options": [
+          "Îmbinarea blocurilor de cod",
+          "Tastarea codului",
+          "Privitul la poze",
+          "Nimic"
+        ],
+        "answer": "Îmbinarea blocurilor de cod"
+      },
+      {
+        "question": "Ce vârstă este recomandată?",
+        "options": [
+          "8-16 ani",
+          "0-2 ani",
+          "Peste 99",
+          "Doar adulți"
+        ],
+        "answer": "8-16 ani"
+      },
+      {
+        "question": "Ce este Scratch Desktop?",
+        "options": [
+          "Versiunea offline",
+          "Un birou",
+          "Un mouse",
+          "Un caiet"
+        ],
+        "answer": "Versiunea offline"
+      },
+      {
+        "question": "Ce face steagul verde?",
+        "options": [
+          "Pornește programul",
+          "Oprește programul",
+          "Șterge codul",
+          "Colorează fundalul"
+        ],
+        "answer": "Pornește programul"
+      },
+      {
+        "question": "Ce face hexagonul roșu?",
+        "options": [
+          "Oprește programul",
+          "Pornește",
+          "Accelerează",
+          "Încetinește"
+        ],
+        "answer": "Oprește programul"
+      },
+      {
+        "question": "Ce este un 'costum'?",
+        "options": [
+          "O înfățișare a personajului",
+          "Haine pentru om",
+          "Numele fundalului",
+          "Numele sunetului"
+        ],
+        "answer": "O înfățișare a personajului"
+      },
+      {
+        "question": "Putem încărca propria imagine?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar alb-negru",
+          "Doar desenată"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce este 'rucsacul'?",
+        "options": [
+          "Copierea codului între proiecte",
+          "O geantă",
+          "Răcirea PC-ului",
+          "Ștergerea fișierelor"
+        ],
+        "answer": "Copierea codului între proiecte"
+      },
+      {
+        "question": "Cum ștergem un bloc?",
+        "options": [
+          "Îl tragem înapoi în meniu",
+          "Suflăm pe el",
+          "Închidem PC-ul",
+          "Apăsăm Space"
+        ],
+        "answer": "Îl tragem înapoi în meniu"
+      },
+      {
+        "question": "La ce ajută meniul 'Tutoriale'?",
+        "options": [
+          "Ghiduri de învățare",
+          "Comandă mâncare",
+          "Joc",
+          "Somn"
+        ],
+        "answer": "Ghiduri de învățare"
+      },
+      {
+        "question": "Ce este numele proiectului?",
+        "options": [
+          "Titlul muncii noastre",
+          "Numele utilizatorului",
+          "Tipul PC-ului",
+          "Data"
+        ],
+        "answer": "Titlul muncii noastre"
+      }
+    ],
+    "typing": [
+      "Scratch",
+      "programare",
+      "cod",
+      "personaj",
+      "bloc",
+      "scenă",
+      "algoritm",
+      "info",
+      "pisică",
+      "proiect"
+    ]
+  }
+}

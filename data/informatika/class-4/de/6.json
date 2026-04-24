@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Ereignisse",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_6_1",
+      "type": "mcq",
+      "question": "Was ist ein Ereignis?",
+      "options": [
+        "Auslöser",
+        "Bild",
+        "Ton",
+        "Variable"
+      ],
+      "answer": "Auslöser",
+      "explanation": "Startet ein Skript."
+    },
+    {
+      "id": "mcq_6_2",
+      "type": "mcq",
+      "question": "Grüne Fahne angeklickt?",
+      "options": [
+        "Startet alles",
+        "Stoppt alles",
+        "Löscht alles",
+        "Macht Musik"
+      ],
+      "answer": "Startet alles",
+      "explanation": "Häufigster Start."
+    },
+    {
+      "id": "mcq_6_3",
+      "type": "mcq",
+      "question": "Taste Leertaste gedrückt?",
+      "options": [
+        "Interaktion",
+        "Ende",
+        "Start",
+        "Pause"
+      ],
+      "answer": "Interaktion",
+      "explanation": "Eingabe per Tastatur."
+    },
+    {
+      "id": "mcq_6_4",
+      "type": "mcq",
+      "question": "Figur angeklickt?",
+      "options": [
+        "Sprite reagiert",
+        "PC geht aus",
+        "Bild wird schwarz",
+        "Ton aus"
+      ],
+      "answer": "Sprite reagiert",
+      "explanation": "Direkte Klick-Aktion."
+    },
+    {
+      "id": "mcq_6_5",
+      "type": "mcq",
+      "question": "Bühnenbild wechselt zu?",
+      "options": [
+        "Reaktion auf Level",
+        "Nur Start",
+        "Nur Ende",
+        "Zufall"
+      ],
+      "answer": "Reaktion auf Level",
+      "explanation": "Startet Skripte bei neuem Bild."
+    },
+    {
+      "id": "mcq_6_6",
+      "type": "mcq",
+      "question": "Lautstärke > 10?",
+      "options": [
+        "Mikrofon-Start",
+        "Bild-Start",
+        "Maus-Start",
+        "Tastatur-Start"
+      ],
+      "answer": "Mikrofon-Start",
+      "explanation": "Reagiert auf Geräusche."
+    },
+    {
+      "id": "mcq_6_7",
+      "type": "mcq",
+      "question": "Nachricht empfangen?",
+      "options": [
+        "Signal von anderem Sprite",
+        "E-Mail",
+        "Post",
+        "SMS"
+      ],
+      "answer": "Signal von anderem Sprite",
+      "explanation": "Zusammenarbeit."
+    },
+    {
+      "id": "mcq_6_8",
+      "type": "mcq",
+      "question": "Sende Nachricht?",
+      "options": [
+        "Signal geben",
+        "Signal löschen",
+        "Ton aus",
+        "Bild aus"
+      ],
+      "answer": "Signal geben",
+      "explanation": "Nachricht verschicken."
+    },
+    {
+      "id": "mcq_6_9",
+      "type": "mcq",
+      "question": "Sende Nachricht und warte?",
+      "options": [
+        "Wartet auf Antwort",
+        "Rennt weg",
+        "Springt",
+        "Löscht"
+      ],
+      "answer": "Wartet auf Antwort",
+      "explanation": "Skript pausiert kurz."
+    },
+    {
+      "id": "mcq_6_10",
+      "type": "mcq",
+      "question": "Wann startet 'Wenn ich empfange'?",
+      "options": [
+        "Nach dem Senden",
+        "Beim Start",
+        "Beim Stopp",
+        "Zufall"
+      ],
+      "answer": "Nach dem Senden",
+      "explanation": "Reaktion."
+    },
+    {
+      "id": "mcq_6_11",
+      "type": "mcq",
+      "question": "Können mehrere Skripte gleichzeitig starten?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur zwei",
+        "Nur zehn"
+      ],
+      "answer": "Ja",
+      "explanation": "Parallelisierung."
+    },
+    {
+      "id": "mcq_6_12",
+      "type": "mcq",
+      "question": "Farbe der Ereignis-Blöcke?",
+      "options": [
+        "Gelb",
+        "Blau",
+        "Lila",
+        "Grün"
+      ],
+      "answer": "Gelb",
+      "explanation": "Gelb steht für Start."
+    },
+    {
+      "id": "mcq_6_13",
+      "type": "mcq",
+      "question": "Was ist ein 'Input'?",
+      "options": [
+        "Eingabe (Taste/Maus)",
+        "Ausgabe (Bild)",
+        "Ton",
+        "Kabel"
+      ],
+      "answer": "Eingabe (Taste/Maus)",
+      "explanation": "Was wir dem PC geben."
+    },
+    {
+      "id": "mcq_6_14",
+      "type": "mcq",
+      "question": "Maus klickt Sprite?",
+      "options": [
+        "Sprite-Ereignis",
+        "Hintergrund-Ereignis",
+        "Sound-Ereignis",
+        "Kein Ereignis"
+      ],
+      "answer": "Sprite-Ereignis",
+      "explanation": "Klick-Block."
+    },
+    {
+      "id": "mcq_6_15",
+      "type": "mcq",
+      "question": "Timer > ?",
+      "options": [
+        "Zeit-Ereignis",
+        "Ton-Ereignis",
+        "Bild-Ereignis",
+        "Maus-Ereignis"
+      ],
+      "answer": "Zeit-Ereignis",
+      "explanation": "Reagiert auf Uhr."
+    },
+    {
+      "id": "mcq_6_16",
+      "type": "mcq",
+      "question": "Was ist Broadcast?",
+      "options": [
+        "Nachricht an alle",
+        "Radio",
+        "Fernsehen",
+        "Zeitung"
+      ],
+      "answer": "Nachricht an alle",
+      "explanation": "Englisch für Senden."
+    },
+    {
+      "id": "mcq_6_17",
+      "type": "mcq",
+      "question": "Reagiert Scratch auf Video?",
+      "options": [
+        "Ja, mit Erweiterung",
+        "Nein",
+        "Nur am TV",
+        "Nur mit CD"
+      ],
+      "answer": "Ja, mit Erweiterung",
+      "explanation": "Kamera-Interaktion."
+    },
+    {
+      "id": "mcq_6_18",
+      "type": "mcq",
+      "question": "Welche Taste geht nicht?",
+      "options": [
+        "Alle gehen (auch Pfeile)",
+        "Nur Buchstaben",
+        "Nur Zahlen",
+        "Gar keine"
+      ],
+      "answer": "Alle gehen (auch Pfeile)",
+      "explanation": "Tastatur-Ereignis."
+    },
+    {
+      "id": "mcq_6_19",
+      "type": "mcq",
+      "question": "Startet die Fahne alle Sprites?",
+      "options": [
+        "Ja, wenn sie den Block haben",
+        "Nur Sprite 1",
+        "Nur den Hintergrund",
+        "Zufall"
+      ],
+      "answer": "Ja, wenn sie den Block haben",
+      "explanation": "Globaler Start."
+    },
+    {
+      "id": "mcq_6_20",
+      "type": "mcq",
+      "question": "Was passiert ohne Ereignis-Block?",
+      "options": [
+        "Skript startet nie",
+        "Skript startet sofort",
+        "Skript löscht sich",
+        "PC explodiert"
+      ],
+      "answer": "Skript startet nie",
+      "explanation": "Jedes Skript braucht einen Start."
+    },
+    {
+      "id": "mcq_6_21",
+      "type": "mcq",
+      "question": "Nachrichtennamen?",
+      "options": [
+        "Frei wählbar",
+        "Nur Zahlen",
+        "Nur 'Nachricht1'",
+        "Gar nicht"
+      ],
+      "answer": "Frei wählbar",
+      "explanation": "Gute Namen helfen."
+    },
+    {
+      "id": "mcq_6_22",
+      "type": "mcq",
+      "question": "Kann ein Sprite sich selbst senden?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Profis",
+        "Nur am Montag"
+      ],
+      "answer": "Ja",
+      "explanation": "Er empfängt es auch."
+    },
+    {
+      "id": "mcq_6_23",
+      "type": "mcq",
+      "question": "Wo liegt 'Wenn Taste gedrückt'?",
+      "options": [
+        "Ereignisse",
+        "Bewegung",
+        "Aussehen",
+        "Sound"
+      ],
+      "answer": "Ereignisse",
+      "explanation": "Gelbe Kategorie."
+    },
+    {
+      "id": "mcq_6_24",
+      "type": "mcq",
+      "question": "Stoppt die Fahne?",
+      "options": [
+        "Nein, sie startet",
+        "Ja",
+        "Nur manchmal",
+        "Nur bei Regen"
+      ],
+      "answer": "Nein, sie startet",
+      "explanation": "Stopp ist rot."
+    },
+    {
+      "id": "mcq_6_25",
+      "type": "mcq",
+      "question": "Was ist ein Trigger?",
+      "options": [
+        "Auslöser (Ereignis)",
+        "Pistole",
+        "Hund",
+        "Block"
+      ],
+      "answer": "Auslöser (Ereignis)",
+      "explanation": "Anderes Wort."
+    },
+    {
+      "id": "typing_6_1",
+      "type": "typing",
+      "text": "Ich drücke die grüne Fahne zum Starten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_2",
+      "type": "typing",
+      "text": "Wenn ich die Leertaste drücke, springt die Figur.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_3",
+      "type": "typing",
+      "text": "Nachrichten helfen den Figuren beim Sprechen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_4",
+      "type": "typing",
+      "text": "Ich sende ein Signal an alle anderen Sprites.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_5",
+      "type": "typing",
+      "text": "Ereignisse sind die Auslöser für meine Skripte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_6",
+      "type": "typing",
+      "text": "Die Figur reagiert auf einen Klick mit der Maus.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_7",
+      "type": "typing",
+      "text": "Gelbe Blöcke stehen immer ganz oben im Stapel.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_8",
+      "type": "typing",
+      "text": "Wir programmieren heute interaktive Geschichten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_9",
+      "type": "typing",
+      "text": "Der Computer wartet auf eine Eingabe von uns.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_6_10",
+      "type": "typing",
+      "text": "Informatik ist die Kunst der Logik und Kreativität.",
+      "difficulty": "medium"
+    }
+  ]
+}

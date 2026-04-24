@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Probleme de etică",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este etica în lumea digitală?",
+        "options": [
+          "Regulile despre ce este bine și rău în folosirea tehnologiei",
+          "O materie grea",
+          "Un tip de calculator",
+          "Un joc video"
+        ],
+        "answer": "Regulile despre ce este bine și rău în folosirea tehnologiei"
+      },
+      {
+        "question": "Este corect să descarci jocuri de pe site-uri ilegale?",
+        "options": [
+          "Nu, este furt și poate aduce viruși",
+          "Da, dacă sunt scumpe",
+          "Da, toată lumea face asta",
+          "Doar dacă nu te prinde"
+        ],
+        "answer": "Nu, este furt și poate aduce viruși"
+      },
+      {
+        "question": "Ce înseamnă 'Copyright' (drept de autor)?",
+        "options": [
+          "Dreptul legal al creatorului asupra operei sale",
+          "Dreptul de a copia tot",
+          "O eroare de scriere",
+          "Numele unui site"
+        ],
+        "answer": "Dreptul legal al creatorului asupra operei sale"
+      },
+      {
+        "question": "Putem folosi un desen de pe internet fără să spunem al cui e?",
+        "options": [
+          "Nu, trebuie să cerem voie sau să menționăm sursa",
+          "Da, e pe net",
+          "Doar dacă e mic",
+          "Doar dacă îl colorăm noi"
+        ],
+        "answer": "Nu, trebuie să cerem voie sau să menționăm sursa"
+      },
+      {
+        "question": "Ce este 'Cyberbullying'?",
+        "options": [
+          "Hărțuirea sau jignirea unei persoane prin internet",
+          "Un sport nou",
+          "Un joc de strategie",
+          "O eroare de rețea"
+        ],
+        "answer": "Hărțuirea sau jignirea unei persoane prin internet"
+      },
+      {
+        "question": "Ce facem dacă vedem pe cineva jignit online?",
+        "options": [
+          "Nu participăm și raportăm comportamentul",
+          "Râdem și noi",
+          "Îl jignim și pe celălalt",
+          "Nu facem nimic"
+        ],
+        "answer": "Nu participăm și raportăm comportamentul"
+      },
+      {
+        "question": "Ce este 'incluziunea digitală'?",
+        "options": [
+          "Asigurarea că toată lumea are acces la tehnologie",
+          "Un virus",
+          "O cutie cu fire",
+          "O eroare de login"
+        ],
+        "answer": "Asigurarea că toată lumea are acces la tehnologie"
+      },
+      {
+        "question": "Este etic să spargi parola unui prieten 'ca glumă'?",
+        "options": [
+          "Nu, este o încălcare gravă a intimității și a regulilor",
+          "Da, e amuzant",
+          "Doar dacă i-o spui după",
+          "Doar dacă nu schimbi nimic"
+        ],
+        "answer": "Nu, este o încălcare gravă a intimității și a regulilor"
+      },
+      {
+        "question": "Ce înseamnă 'Fair Use' (utilizare rezonabilă)?",
+        "options": [
+          "Folosirea unor mici părți din opere pentru educație sau critică",
+          "Folosirea a tot ce vrei",
+          "Un joc corect",
+          "O eroare"
+        ],
+        "answer": "Folosirea unor mici părți din opere pentru educație sau critică"
+      },
+      {
+        "question": "Ce este responsabilitatea digitală?",
+        "options": [
+          "Să fim atenți la ce postăm și cum îi influențăm pe alții",
+          "Să avem baterie la telefon",
+          "Să știm să tastăm repede",
+          "Să avem mulți urmăritori"
+        ],
+        "answer": "Să fim atenți la ce postăm și cum îi influențăm pe alții"
+      },
+      {
+        "question": "Putem avea încredere totală în AI (Inteligența Artificială)?",
+        "options": [
+          "Nu, poate face greșeli sau poate fi părtinitoare",
+          "Da, știe tot",
+          "Doar dacă e Google",
+          "Doar dacă e Robot"
+        ],
+        "answer": "Nu, poate face greșeli sau poate fi părtinitoare"
+      },
+      {
+        "question": "Ce este 'ecuația digitală'?",
+        "options": [
+          "Echilibrul între timpul la ecrane și viața reală",
+          "O problemă de mate",
+          "Un virus",
+          "O tastă"
+        ],
+        "answer": "Echilibrul între timpul la ecrane și viața reală"
+      },
+      {
+        "question": "Ce înseamnă 'sustenabilitatea' în IT?",
+        "options": [
+          "Reducerea poluării prin reciclarea electronicelor",
+          "Mărirea vitezei",
+          "Cumpărarea de telefoane noi des",
+          "O eroare"
+        ],
+        "answer": "Reducerea poluării prin reciclarea electronicelor"
+      },
+      {
+        "question": "Ce facem cu un calculator vechi stricat?",
+        "options": [
+          "Îl ducem la un centru de reciclare special",
+          "Îl aruncăm la gunoiul normal",
+          "Îl lăsăm în pădure",
+          "Îl îngropăm"
+        ],
+        "answer": "Îl ducem la un centru de reciclare special"
+      },
+      {
+        "question": "Este bine să creăm conturi cu vârstă falsă?",
+        "options": [
+          "Nu, regulile de vârstă sunt acolo pentru protecția noastră",
+          "Da, ca să ne jucăm orice",
+          "Da, nu contează",
+          "Doar dacă avem barbă"
+        ],
+        "answer": "Nu, regulile de vârstă sunt acolo pentru protecția noastră"
+      },
+      {
+        "question": "Ce este 'Deepfake'?",
+        "options": [
+          "Videoclipuri editate cu AI care par reale dar sunt false",
+          "Un joc adânc",
+          "O eroare de cameră",
+          "Un sunet de fundal"
+        ],
+        "answer": "Videoclipuri editate cu AI care par reale dar sunt false"
+      },
+      {
+        "question": "De ce e periculos Deepfake-ul?",
+        "options": [
+          "Poate păcăli oamenii sau poate strica reputația cuiva",
+          "E plictisitor",
+          "Consumă mult net",
+          "E prea colorat"
+        ],
+        "answer": "Poate păcăli oamenii sau poate strica reputația cuiva"
+      },
+      {
+        "question": "Ce înseamnă 'onestitate' în proiecte online?",
+        "options": [
+          "Să spui ce e făcut de tine și ce e luat din altă parte",
+          "Să spui că ai terminat deși nu ai",
+          "Să nu spui nimic",
+          "Să fii cel mai bun"
+        ],
+        "answer": "Să spui ce e făcut de tine și ce e luat din altă parte"
+      },
+      {
+        "question": "Ce sunt 'Trolii' pe internet?",
+        "options": [
+          "Persoane care enervează intenționat pe alții prin comentarii",
+          "Creaturi din povești",
+          "O eroare de server",
+          "Un tip de mouse"
+        ],
+        "answer": "Persoane care enervează intenționat pe alții prin comentarii"
+      },
+      {
+        "question": "Cum ne comportăm într-un chat școlar?",
+        "options": [
+          "Politicos, la subiect și fără jigniri",
+          "Ca la joacă",
+          "Scriem doar emoticoane",
+          "Nu scriem deloc"
+        ],
+        "answer": "Politicos, la subiect și fără jigniri"
+      },
+      {
+        "question": "Ce este 'confidențialitatea'?",
+        "options": [
+          "Dreptul de a păstra datele noastre secrete",
+          "O eroare",
+          "O metodă de a vedea tot",
+          "Un sunet"
+        ],
+        "answer": "Dreptul de a păstra datele noastre secrete"
+      },
+      {
+        "question": "Ce este un 'influencer' responsabil?",
+        "options": [
+          "Cineva care promovează valori bune și adevărul",
+          "Cineva care are multe haine",
+          "Cineva care țipă în video",
+          "Oricine are YouTube"
+        ],
+        "answer": "Cineva care promovează valori bune și adevărul"
+      },
+      {
+        "question": "Putem raporta un conținut nepotrivit?",
+        "options": [
+          "Da, majoritatea site-urilor au butoane de Report",
+          "Nu",
+          "Doar dacă suntem adulți",
+          "Doar dacă plătim"
+        ],
+        "answer": "Da, majoritatea site-urilor au butoane de Report"
+      },
+      {
+        "question": "De ce e importantă empatia online?",
+        "options": [
+          "Pentru că în spatele ecranelor sunt tot oameni cu sentimente",
+          "Nu e importantă",
+          "Pentru că așa spune codul",
+          "Pentru a primi like-uri"
+        ],
+        "answer": "Pentru că în spatele ecranelor sunt tot oameni cu sentimente"
+      },
+      {
+        "question": "Tehnologia este bună sau rea?",
+        "options": [
+          "Depinde de cum alegem noi să o folosim",
+          "E doar bună",
+          "E doar rea",
+          "E doar plictisitoare"
+        ],
+        "answer": "Depinde de cum alegem noi să o folosim"
+      }
+    ],
+    "typing": [
+      "etică",
+      "respect",
+      "copyright",
+      "valori",
+      "onestitate",
+      "protecție",
+      "empatie",
+      "raportare",
+      "adevăr",
+      "alegere"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Game Development Basics",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the first step in creating a game?",
+      "options": [
+        "Planning and Design",
+        "Writing code",
+        "Buying a computer",
+        "Winning"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the main rules of a game?",
+      "options": [
+        "Mechanics",
+        "Tools",
+        "Sprites",
+        "Backgrounds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'UX' in game design?",
+      "options": [
+        "User Experience",
+        "Under X-ray",
+        "Universal Extra",
+        "Using Xbox"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Level Design'?",
+      "options": [
+        "Creating the world and challenges",
+        "Naming the game",
+        "Buying a license",
+        "Writing the end screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Win Condition'?",
+      "options": [
+        "What the player must do to win",
+        "The weather",
+        "The cat's color",
+        "The volume level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Feedback' for a player?",
+      "options": [
+        "Visual or sound cues for their actions",
+        "Eating dinner",
+        "Getting a high score",
+        "Closing the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Prototype'?",
+      "options": [
+        "A simple, early version of the game",
+        "A finished game",
+        "A cheat code",
+        "A type of sprite"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'Playtesting' important?",
+      "options": [
+        "To find bugs and see if it's fun",
+        "To get a high score",
+        "To record a video",
+        "To sell the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Difficulty Curve'?",
+      "options": [
+        "How the game gets harder over time",
+        "A bent line on the stage",
+        "A type of code",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'HUD' in a game?",
+      "options": [
+        "Heads-Up Display (Score, Health, etc.)",
+        "Hidden Under Desk",
+        "Happy User Dance",
+        "Hard User Data"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is best for movement in an arcade game?",
+      "options": [
+        "When [key] pressed",
+        "Move 10 steps",
+        "Both A and B",
+        "Wait 1 sec"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Game Balance'?",
+      "options": [
+        "Making sure the game isn't too hard or easy",
+        "The weight of the mouse",
+        "The position of the monitor",
+        "The number of sprites"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Asset' in game dev?",
+      "options": [
+        "Images, sounds, and code used in the game",
+        "A mistake",
+        "A player",
+        "The computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collision Detection'?",
+      "options": [
+        "Checking if two sprites touch",
+        "Driving a car",
+        "Deleting a project",
+        "Saving a file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'High Score' variable for?",
+      "options": [
+        "Saving the best result ever",
+        "Restarting the game",
+        "Changing the player's name",
+        "Ending the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Theme'?",
+      "options": [
+        "The style and setting (Space, Jungle, etc.)",
+        "A block category",
+        "A variable name",
+        "A music file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Power-up'?",
+      "options": [
+        "An item that gives the player an advantage",
+        "Turning on the computer",
+        "A loud sound",
+        "Winning the game"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Spawn'?",
+      "options": [
+        "When a sprite appears in the game",
+        "A type of fish",
+        "Deleting a sprite",
+        "Winning a level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do games have a 'Start Menu'?",
+      "options": [
+        "To give players options before playing",
+        "To slow down the computer",
+        "To show the code",
+        "To waste time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Game Loop'?",
+      "options": [
+        "The main code that updates everything continuously",
+        "A circle around the stage",
+        "A music loop",
+        "A repeated level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Inventory'?",
+      "options": [
+        "A place to store collected items",
+        "The credits screen",
+        "The mouse position",
+        "The cat's home"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Boss' in a game?",
+      "options": [
+        "A difficult enemy at the end of a level",
+        "The game developer",
+        "The teacher",
+        "A special code block"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Narrative'?",
+      "options": [
+        "The story of the game",
+        "The volume level",
+        "The cat's speed",
+        "The background color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Tutorial'?",
+      "options": [
+        "A level that teaches how to play",
+        "A type of music",
+        "A cheat code",
+        "The end screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is making games a team effort sometimes?",
+      "options": [
+        "Yes, often",
+        "No, always alone",
+        "Only in space",
+        "Only for adults"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Game",
+      "answer": "Game"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Player",
+      "answer": "Player"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Score",
+      "answer": "Score"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Level",
+      "answer": "Level"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Design",
+      "answer": "Design"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Fun",
+      "answer": "Fun"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Rule",
+      "answer": "Rule"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Win",
+      "answer": "Win"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Play",
+      "answer": "Play"
+    }
+  ]
+}

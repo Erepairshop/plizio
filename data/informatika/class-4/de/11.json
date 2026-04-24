@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Schleifen (Wiederholungen)",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_11_1",
+      "type": "mcq",
+      "question": "Was ist eine Schleife?",
+      "options": [
+        "Wiederholung von Code",
+        "Ein Knoten",
+        "Ein Bild",
+        "Ein Ton"
+      ],
+      "answer": "Wiederholung von Code",
+      "explanation": "Dinge mehrmals machen."
+    },
+    {
+      "id": "mcq_11_2",
+      "type": "mcq",
+      "question": "Wiederhole fortlaufend?",
+      "options": [
+        "Endlosschleife",
+        "Nur einmal",
+        "Zehnmal",
+        "Gar nicht"
+      ],
+      "answer": "Endlosschleife",
+      "explanation": "Hört nie auf."
+    },
+    {
+      "id": "mcq_11_3",
+      "type": "mcq",
+      "question": "Wiederhole 10 Mal?",
+      "options": [
+        "Zählschleife",
+        "Endlos",
+        "Einmal",
+        "Zufall"
+      ],
+      "answer": "Zählschleife",
+      "explanation": "Feste Anzahl."
+    },
+    {
+      "id": "mcq_11_4",
+      "type": "mcq",
+      "question": "Farbe der Schleifen?",
+      "options": [
+        "Orange",
+        "Blau",
+        "Grün",
+        "Lila"
+      ],
+      "answer": "Orange",
+      "explanation": "Steuerung-Kategorie."
+    },
+    {
+      "id": "mcq_11_5",
+      "type": "mcq",
+      "question": "Was ist ein Loop?",
+      "options": [
+        "Englisch für Schleife",
+        "Ein Ring",
+        "Ein PC",
+        "Ein Bild"
+      ],
+      "answer": "Englisch für Schleife",
+      "explanation": "Fachbegriff."
+    },
+    {
+      "id": "mcq_11_6",
+      "type": "mcq",
+      "question": "Wiederhole bis ...?",
+      "options": [
+        "Bedingte Schleife",
+        "Immer",
+        "Nie",
+        "Zufall"
+      ],
+      "answer": "Bedingte Schleife",
+      "explanation": "Bis Ziel erreicht."
+    },
+    {
+      "id": "mcq_11_7",
+      "type": "mcq",
+      "question": "Was passiert in Schleifen?",
+      "options": [
+        "Code wird wiederholt",
+        "Code wird gelöscht",
+        "PC wird heiß",
+        "Ton wird laut"
+      ],
+      "answer": "Code wird wiederholt",
+      "explanation": "Effizienz."
+    },
+    {
+      "id": "mcq_11_8",
+      "type": "mcq",
+      "question": "Wie stoppt man fortlaufend?",
+      "options": [
+        "Stopp-Schild",
+        "PC aus",
+        "Warten",
+        "Singen"
+      ],
+      "answer": "Stopp-Schild",
+      "explanation": "Roter Knopf."
+    },
+    {
+      "id": "mcq_11_9",
+      "type": "mcq",
+      "question": "Schleife in Schleife?",
+      "options": [
+        "Verschachtelung",
+        "Knoten",
+        "Fehler",
+        "Zufall"
+      ],
+      "answer": "Verschachtelung",
+      "explanation": "Geht problemlos."
+    },
+    {
+      "id": "mcq_11_10",
+      "type": "mcq",
+      "question": "Animation mit Schleifen?",
+      "options": [
+        "Sehr nützlich",
+        "Gar nicht",
+        "Verboten",
+        "Nur Profis"
+      ],
+      "answer": "Sehr nützlich",
+      "explanation": "Bilder wechseln."
+    },
+    {
+      "id": "mcq_11_11",
+      "type": "mcq",
+      "question": "Gehe 10 Schritte in Schleife?",
+      "options": [
+        "Läuft weit",
+        "Hüpft",
+        "Dreht sich",
+        "Löscht"
+      ],
+      "answer": "Läuft weit",
+      "explanation": "Summiert sich."
+    },
+    {
+      "id": "mcq_11_12",
+      "type": "mcq",
+      "question": "Warte-Block in Schleife?",
+      "options": [
+        "Macht Pause",
+        "Macht Musik",
+        "Macht Bild",
+        "Nichts"
+      ],
+      "answer": "Macht Pause",
+      "explanation": "Timing."
+    },
+    {
+      "id": "mcq_11_13",
+      "type": "mcq",
+      "question": "Was ist ein 'Iteration'?",
+      "options": [
+        "Durchlauf einer Schleife",
+        "Ein Name",
+        "Ein PC",
+        "Ein Bild"
+      ],
+      "answer": "Durchlauf einer Schleife",
+      "explanation": "Schritt."
+    },
+    {
+      "id": "mcq_11_14",
+      "type": "mcq",
+      "question": "Kann Schleife leer sein?",
+      "options": [
+        "Ja, tut dann nichts",
+        "Nein",
+        "PC explodiert",
+        "Zufall"
+      ],
+      "answer": "Ja, tut dann nichts",
+      "explanation": "Sinnlos aber möglich."
+    },
+    {
+      "id": "mcq_11_15",
+      "type": "mcq",
+      "question": "Endlosschleife gefährlich?",
+      "options": [
+        "Kann Programm einfrieren",
+        "Nein",
+        "Macht PC kaputt",
+        "Zufall"
+      ],
+      "answer": "Kann Programm einfrieren",
+      "explanation": "Vorsicht."
+    },
+    {
+      "id": "mcq_11_16",
+      "type": "mcq",
+      "question": "Woher kommt der Name Loop?",
+      "options": [
+        "Kreisform",
+        "Zufall",
+        "Name vom Erfinder",
+        "Essen"
+      ],
+      "answer": "Kreisform",
+      "explanation": "Geht zum Start zurück."
+    },
+    {
+      "id": "mcq_11_17",
+      "type": "mcq",
+      "question": "Zählschleife 0 mal?",
+      "options": [
+        "Wird nie ausgeführt",
+        "Läuft einmal",
+        "Läuft immer",
+        "Zufall"
+      ],
+      "answer": "Wird nie ausgeführt",
+      "explanation": "Bedingung 0."
+    },
+    {
+      "id": "mcq_11_18",
+      "type": "mcq",
+      "question": "Kann man Schleifen löschen?",
+      "options": [
+        "Ja, wie jeden Block",
+        "Nein",
+        "Nur am Montag",
+        "Nur Profis"
+      ],
+      "answer": "Ja, wie jeden Block",
+      "explanation": "Normales Handling."
+    },
+    {
+      "id": "mcq_11_19",
+      "type": "mcq",
+      "question": "Wofür nutzt man fortlaufend?",
+      "options": [
+        "Steuerung/Hintergrund",
+        "Nur einmal",
+        "Nur Ende",
+        "Zufall"
+      ],
+      "answer": "Steuerung/Hintergrund",
+      "explanation": "Dauerprüfung."
+    },
+    {
+      "id": "mcq_11_20",
+      "type": "mcq",
+      "question": "Schleife für Musik?",
+      "options": [
+        "Ja, Begleitmusik",
+        "Nein",
+        "Nur Lärm",
+        "Zufall"
+      ],
+      "answer": "Ja, Begleitmusik",
+      "explanation": "Loopen."
+    },
+    {
+      "id": "mcq_11_21",
+      "type": "mcq",
+      "question": "Variable in Schleife ändern?",
+      "options": [
+        "Häufig genutzt",
+        "Verboten",
+        "Geht nicht",
+        "Nur Profis"
+      ],
+      "answer": "Häufig genutzt",
+      "explanation": "Zähler."
+    },
+    {
+      "id": "mcq_11_22",
+      "type": "mcq",
+      "question": "Wiederhole bis berührt?",
+      "options": [
+        "Bewegung bis Kontakt",
+        "Sofort Stopp",
+        "Zufall",
+        "Ton aus"
+      ],
+      "answer": "Bewegung bis Kontakt",
+      "explanation": "Für Spiele."
+    },
+    {
+      "id": "mcq_11_23",
+      "type": "mcq",
+      "question": "Was ist der Body?",
+      "options": [
+        "Inhalt der Schleife",
+        "Der Computer",
+        "Der Mensch",
+        "Das Bild"
+      ],
+      "answer": "Inhalt der Schleife",
+      "explanation": "Der Code darin."
+    },
+    {
+      "id": "mcq_11_24",
+      "type": "mcq",
+      "question": "Können Schleifen blinken?",
+      "options": [
+        "Ja, mit Kostümwechsel",
+        "Nein",
+        "Zufall",
+        "PC kaputt"
+      ],
+      "answer": "Ja, mit Kostümwechsel",
+      "explanation": "Animation."
+    },
+    {
+      "id": "mcq_11_25",
+      "type": "mcq",
+      "question": "Schleife beenden?",
+      "options": [
+        "Bedingung oder Stopp",
+        "Pusten",
+        "Klatschen",
+        "Warten"
+      ],
+      "answer": "Bedingung oder Stopp",
+      "explanation": "Exit."
+    },
+    {
+      "id": "typing_11_1",
+      "type": "typing",
+      "text": "Ich nutze Schleifen für wiederkehrende Aufgaben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_2",
+      "type": "typing",
+      "text": "Wiederhole fortlaufend meine Animation im Programm.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_3",
+      "type": "typing",
+      "text": "Die Figur geht in einer Schleife zehn Schritte.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_4",
+      "type": "typing",
+      "text": "Wir sparen viel Zeit durch geschickte Wiederholungen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_5",
+      "type": "typing",
+      "text": "Eine Endlosschleife läuft solange das Projekt aktiv ist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_6",
+      "type": "typing",
+      "text": "Der Computer ist sehr schnell beim Wiederholen von Code.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_7",
+      "type": "typing",
+      "text": "Ich programmiere eine Schleife die fünfmal ausgeführt wird.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_8",
+      "type": "typing",
+      "text": "Logik hilft uns die richtige Anzahl an Durchläufen zu finden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_9",
+      "type": "typing",
+      "text": "Informatik ist die Wissenschaft der Automatisierung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_11_10",
+      "type": "typing",
+      "text": "Viel Erfolg beim Testen deiner neuen Skripte.",
+      "difficulty": "medium"
+    }
+  ]
+}

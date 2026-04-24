@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Animation und Kostüme",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_5_1",
+      "type": "mcq",
+      "question": "Was ist Animation?",
+      "options": [
+        "Bewegte Bilder",
+        "Standbild",
+        "Ton",
+        "Text"
+      ],
+      "answer": "Bewegte Bilder",
+      "explanation": "Schneller Bildwechsel."
+    },
+    {
+      "id": "mcq_5_2",
+      "type": "mcq",
+      "question": "Was ist ein Kostüm?",
+      "options": [
+        "Anderes Bild des Sprites",
+        "Kleidung",
+        "Maske",
+        "Block"
+      ],
+      "answer": "Anderes Bild des Sprites",
+      "explanation": "Einzelbild."
+    },
+    {
+      "id": "mcq_5_3",
+      "type": "mcq",
+      "question": "Kostüm wechseln?",
+      "options": [
+        "Nächstes Kostüm",
+        "Gehe-Block",
+        "Ton-Block",
+        "Fahne"
+      ],
+      "answer": "Nächstes Kostüm",
+      "explanation": "Schaltet um."
+    },
+    {
+      "id": "mcq_5_4",
+      "type": "mcq",
+      "question": "Kostüm-Name?",
+      "options": [
+        "Kann man ändern",
+        "Zufall",
+        "Nur Zahlen",
+        "Gar nicht"
+      ],
+      "answer": "Kann man ändern",
+      "explanation": "Gute Namen helfen."
+    },
+    {
+      "id": "mcq_5_5",
+      "type": "mcq",
+      "question": "Animation verlangsamen?",
+      "options": [
+        "Warte-Block",
+        "Gehe-Block",
+        "Drehe-Block",
+        "Stopp-Block"
+      ],
+      "answer": "Warte-Block",
+      "explanation": "Pause einbauen."
+    },
+    {
+      "id": "mcq_5_6",
+      "type": "mcq",
+      "question": "Endlosschleife Animation?",
+      "options": [
+        "Wiederhole fortlaufend",
+        "Einmal",
+        "Zehnmal",
+        "Gar nicht"
+      ],
+      "answer": "Wiederhole fortlaufend",
+      "explanation": "Läuft immer weiter."
+    },
+    {
+      "id": "mcq_5_7",
+      "type": "mcq",
+      "question": "Wie viele Kostüme?",
+      "options": [
+        "Beliebig viele",
+        "Nur zwei",
+        "Nur zehn",
+        "Nur hundert"
+      ],
+      "answer": "Beliebig viele",
+      "explanation": "Kein Limit."
+    },
+    {
+      "id": "mcq_5_8",
+      "type": "mcq",
+      "question": "Kostüm malen?",
+      "options": [
+        "Im Kostüm-Tab",
+        "Im Skript-Tab",
+        "Im Sound-Tab",
+        "Gar nicht"
+      ],
+      "answer": "Im Kostüm-Tab",
+      "explanation": "Dort ist der Editor."
+    },
+    {
+      "id": "mcq_5_9",
+      "type": "mcq",
+      "question": "Was ist 'Wechsle zu Kostüm'?",
+      "options": [
+        "Gezielter Wechsel",
+        "Zufall",
+        "Löschen",
+        "Warten"
+      ],
+      "answer": "Gezielter Wechsel",
+      "explanation": "Name wählen."
+    },
+    {
+      "id": "mcq_5_10",
+      "type": "mcq",
+      "question": "Farbeffekt?",
+      "options": [
+        "Aussehen-Kategorie",
+        "Bewegung",
+        "Sound",
+        "Ereignis"
+      ],
+      "answer": "Aussehen-Kategorie",
+      "explanation": "Lila Blöcke."
+    },
+    {
+      "id": "mcq_5_11",
+      "type": "mcq",
+      "question": "Wirbeleffekt?",
+      "options": [
+        "Verzerrt Bild",
+        "Macht Ton",
+        "Dreht PC",
+        "Löscht alles"
+      ],
+      "answer": "Verzerrt Bild",
+      "explanation": "Grafikeffekt."
+    },
+    {
+      "id": "mcq_5_12",
+      "type": "mcq",
+      "question": "Pixeleffekt?",
+      "options": [
+        "Macht Bild eckig",
+        "Macht Ton laut",
+        "Macht Bild rund",
+        "Nichts"
+      ],
+      "answer": "Macht Bild eckig",
+      "explanation": "Mosaik-Look."
+    },
+    {
+      "id": "mcq_5_13",
+      "type": "mcq",
+      "question": "Grafikeffekte löschen?",
+      "options": [
+        "Block nutzen",
+        "PC neustarten",
+        "Monitor putzen",
+        "Warten"
+      ],
+      "answer": "Block nutzen",
+      "explanation": "Setzt Effekte zurück."
+    },
+    {
+      "id": "mcq_5_14",
+      "type": "mcq",
+      "question": "Sprechblase?",
+      "options": [
+        "Sage-Block",
+        "Denke-Block",
+        "Mal-Block",
+        "Ton-Block"
+      ],
+      "answer": "Sage-Block",
+      "explanation": "Text zeigen."
+    },
+    {
+      "id": "mcq_5_15",
+      "type": "mcq",
+      "question": "Animation für Gehen?",
+      "options": [
+        "Kostüme nacheinander",
+        "Nur Gehe-Block",
+        "Nur Warte-Block",
+        "Gar nicht"
+      ],
+      "answer": "Kostüme nacheinander",
+      "explanation": "Beine bewegen."
+    },
+    {
+      "id": "mcq_5_16",
+      "type": "mcq",
+      "question": "Kostüm kopieren?",
+      "options": [
+        "Duplizieren",
+        "Löschen",
+        "Warten",
+        "Malen"
+      ],
+      "answer": "Duplizieren",
+      "explanation": "Rechtsklick im Tab."
+    },
+    {
+      "id": "mcq_5_17",
+      "type": "mcq",
+      "question": "Hintergrund wechseln?",
+      "options": [
+        "Nächstes Bühnenbild",
+        "Nächstes Kostüm",
+        "Gehe-Block",
+        "Ton-Block"
+      ],
+      "answer": "Nächstes Bühnenbild",
+      "explanation": "Für neue Level."
+    },
+    {
+      "id": "mcq_5_18",
+      "type": "mcq",
+      "question": "Kostüm spiegeln?",
+      "options": [
+        "Horizontal/Vertikal",
+        "Farbe ändern",
+        "Größe ändern",
+        "Gar nicht"
+      ],
+      "answer": "Horizontal/Vertikal",
+      "explanation": "Im Editor möglich."
+    },
+    {
+      "id": "mcq_5_19",
+      "type": "mcq",
+      "question": "Was ist der Mal-Editor?",
+      "options": [
+        "Zeichenprogramm",
+        "Schreibprogramm",
+        "Rechenprogramm",
+        "Spiel"
+      ],
+      "answer": "Zeichenprogramm",
+      "explanation": "In Scratch eingebaut."
+    },
+    {
+      "id": "mcq_5_20",
+      "type": "mcq",
+      "question": "Vektor vs. Bitmap?",
+      "options": [
+        "Zwei Bildtypen",
+        "Zwei Töne",
+        "Zwei Blöcke",
+        "Zwei PCs"
+      ],
+      "answer": "Zwei Bildtypen",
+      "explanation": "Qualitätsunterschied."
+    },
+    {
+      "id": "mcq_5_21",
+      "type": "mcq",
+      "question": "Was ist eine 'Frame'?",
+      "options": [
+        "Einzelbild",
+        "Rahmen",
+        "Fenster",
+        "Tür"
+      ],
+      "answer": "Einzelbild",
+      "explanation": "Teil der Animation."
+    },
+    {
+      "id": "mcq_5_22",
+      "type": "mcq",
+      "question": "Warum ruckelt es?",
+      "options": [
+        "Zu wenig Bilder/Warten",
+        "Zu viel Strom",
+        "Zu wenig Platz",
+        "Zufall"
+      ],
+      "answer": "Zu wenig Bilder/Warten",
+      "explanation": "Timing prüfen."
+    },
+    {
+      "id": "mcq_5_23",
+      "type": "mcq",
+      "question": "Kann man Fotos nutzen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Profis",
+        "Nur am Handy"
+      ],
+      "answer": "Ja",
+      "explanation": "Als Kostüm hochladen."
+    },
+    {
+      "id": "mcq_5_24",
+      "type": "mcq",
+      "question": "Was ist 'Denke'?",
+      "options": [
+        "Gedankenblase",
+        "Sprechblase",
+        "Ton",
+        "Bild"
+      ],
+      "answer": "Gedankenblase",
+      "explanation": "Mit Punkten."
+    },
+    {
+      "id": "mcq_5_25",
+      "type": "mcq",
+      "question": "Größe auf 200%?",
+      "options": [
+        "Doppelt so groß",
+        "Halb so groß",
+        "Gleich groß",
+        "Verschwunden"
+      ],
+      "answer": "Doppelt so groß",
+      "explanation": "Vergrößern."
+    },
+    {
+      "id": "typing_5_1",
+      "type": "typing",
+      "text": "Ich erstelle eine lustige Animation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_2",
+      "type": "typing",
+      "text": "Wechsle zum nächsten Kostüm der Figur.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_3",
+      "type": "typing",
+      "text": "Warte eine halbe Sekunde zwischen den Bildern.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_4",
+      "type": "typing",
+      "text": "Die Katze läuft jetzt wie ein Profi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_5",
+      "type": "typing",
+      "text": "Ich male ein neues Kostüm für mein Monster.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_6",
+      "type": "typing",
+      "text": "Grafikeffekte machen das Spiel bunter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_7",
+      "type": "typing",
+      "text": "Wir nutzen Schleifen für die Bewegung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_8",
+      "type": "typing",
+      "text": "Der Hintergrund wechselt in das nächste Level.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_9",
+      "type": "typing",
+      "text": "Meine Animation sieht sehr flüssig aus.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_5_10",
+      "type": "typing",
+      "text": "Informatik und Kunst gehören zusammen.",
+      "difficulty": "medium"
+    }
+  ]
+}

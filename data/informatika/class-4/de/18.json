@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Webseiten-Grundlagen (HTML)",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_18_1",
+      "type": "mcq",
+      "question": "Was ist HTML?",
+      "options": [
+        "Webseiten-Sprache",
+        "Ein Bild",
+        "Ein Spiel",
+        "Ein PC"
+      ],
+      "answer": "Webseiten-Sprache",
+      "explanation": "HyperText Markup Language."
+    },
+    {
+      "id": "mcq_18_2",
+      "type": "mcq",
+      "question": "Was ist ein Tag?",
+      "options": [
+        "Befehl in Klammern <>",
+        "Ein Wochentag",
+        "Ein Bild",
+        "Ein PC"
+      ],
+      "answer": "Befehl in Klammern <>",
+      "explanation": "Code-Element."
+    },
+    {
+      "id": "mcq_18_3",
+      "type": "mcq",
+      "question": "Start-Tag für HTML?",
+      "options": [
+        "<html>",
+        "<body>",
+        "<head>",
+        "<p>"
+      ],
+      "answer": "<html>",
+      "explanation": "Beginn des Dokuments."
+    },
+    {
+      "id": "mcq_18_4",
+      "type": "mcq",
+      "question": "Tag für Überschrift?",
+      "options": [
+        "<h1>",
+        "<p>",
+        "<img>",
+        "<a>"
+      ],
+      "answer": "<h1>",
+      "explanation": "Heading 1."
+    },
+    {
+      "id": "mcq_18_5",
+      "type": "mcq",
+      "question": "Tag für Textabsatz?",
+      "options": [
+        "<p>",
+        "<h1>",
+        "<body>",
+        "<html>"
+      ],
+      "answer": "<p>",
+      "explanation": "Paragraph."
+    },
+    {
+      "id": "mcq_18_6",
+      "type": "mcq",
+      "question": "Was ist der Browser?",
+      "options": [
+        "Programm zum Anzeigen",
+        "Ein Spiel",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Programm zum Anzeigen",
+      "explanation": "Chrome/Firefox/Safari."
+    },
+    {
+      "id": "mcq_18_7",
+      "type": "mcq",
+      "question": "End-Tag Kennzeichen?",
+      "options": [
+        "Schrägstrich /",
+        "Punkt .",
+        "Komma ,",
+        "Stern *"
+      ],
+      "answer": "Schrägstrich /",
+      "explanation": "Z.B. </html>."
+    },
+    {
+      "id": "mcq_18_8",
+      "type": "mcq",
+      "question": "Was ist das Internet?",
+      "options": [
+        "Weltweites Netz",
+        "Nur ein Kabel",
+        "Nur ein PC",
+        "Nur ein Bild"
+      ],
+      "answer": "Weltweites Netz",
+      "explanation": "Verbundene Computer."
+    },
+    {
+      "id": "mcq_18_9",
+      "type": "mcq",
+      "question": "Tag für Bilder?",
+      "options": [
+        "<img>",
+        "<a>",
+        "<h1>",
+        "<li>"
+      ],
+      "answer": "<img>",
+      "explanation": "Image."
+    },
+    {
+      "id": "mcq_18_10",
+      "type": "mcq",
+      "question": "Tag für Links?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<img>",
+        "<p>"
+      ],
+      "answer": "<a>",
+      "explanation": "Anchor (Anker)."
+    },
+    {
+      "id": "mcq_18_11",
+      "type": "mcq",
+      "question": "URL?",
+      "options": [
+        "Web-Adresse",
+        "Ein Name",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Web-Adresse",
+      "explanation": "Z.B. www.google.de."
+    },
+    {
+      "id": "mcq_18_12",
+      "type": "mcq",
+      "question": "Was ist der Body?",
+      "options": [
+        "Sichtbarer Inhalt",
+        "Der Kopf",
+        "Der Fuß",
+        "Der PC"
+      ],
+      "answer": "Sichtbarer Inhalt",
+      "explanation": "Hauptbereich."
+    },
+    {
+      "id": "mcq_18_13",
+      "type": "mcq",
+      "question": "Was ist der Head?",
+      "options": [
+        "Infos im Hintergrund",
+        "Bilder",
+        "Texte",
+        "PC"
+      ],
+      "answer": "Infos im Hintergrund",
+      "explanation": "Kopfdaten."
+    },
+    {
+      "id": "mcq_18_14",
+      "type": "mcq",
+      "question": "Was ist Title?",
+      "options": [
+        "Name im Tab",
+        "Überschrift 1",
+        "Absatz",
+        "PC Name"
+      ],
+      "answer": "Name im Tab",
+      "explanation": "Fenstertitel."
+    },
+    {
+      "id": "mcq_18_15",
+      "type": "mcq",
+      "question": "Tag für Liste?",
+      "options": [
+        "<ul> / <li>",
+        "<h1>",
+        "<p>",
+        "<img>"
+      ],
+      "answer": "<ul> / <li>",
+      "explanation": "Unordered List."
+    },
+    {
+      "id": "mcq_18_16",
+      "type": "mcq",
+      "question": "Was ist CSS?",
+      "options": [
+        "Design (Farben/Layout)",
+        "Text",
+        "Bild",
+        "PC"
+      ],
+      "answer": "Design (Farben/Layout)",
+      "explanation": "Cascading Style Sheets."
+    },
+    {
+      "id": "mcq_18_17",
+      "type": "mcq",
+      "question": "Was ist JavaScript?",
+      "options": [
+        "Interaktion (Funktionen)",
+        "Bilder",
+        "Töne",
+        "PC"
+      ],
+      "answer": "Interaktion (Funktionen)",
+      "explanation": "Web-Programmierung."
+    },
+    {
+      "id": "mcq_18_18",
+      "type": "mcq",
+      "question": "Was ist ein Server?",
+      "options": [
+        "Speicherort im Netz",
+        "Ein Monitor",
+        "Eine Maus",
+        "Ein PC"
+      ],
+      "answer": "Speicherort im Netz",
+      "explanation": "Dort liegen Webseiten."
+    },
+    {
+      "id": "mcq_18_19",
+      "type": "mcq",
+      "question": "Was ist ein Hyperlink?",
+      "options": [
+        "Verbindung zu Seite",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Verbindung zu Seite",
+      "explanation": "Querverweis."
+    },
+    {
+      "id": "mcq_18_20",
+      "type": "mcq",
+      "question": "Ist HTML eine Programmiersprache?",
+      "options": [
+        "Markup-Sprache",
+        "Ja",
+        "Nein",
+        "Zufall"
+      ],
+      "answer": "Markup-Sprache",
+      "explanation": "Struktursprache."
+    },
+    {
+      "id": "mcq_18_21",
+      "type": "mcq",
+      "question": "Was bedeutet HTTP?",
+      "options": [
+        "Übertragungsprotokoll",
+        "Name vom PC",
+        "Bild",
+        "Ton"
+      ],
+      "answer": "Übertragungsprotokoll",
+      "explanation": "Daten-Regel."
+    },
+    {
+      "id": "mcq_18_22",
+      "type": "mcq",
+      "question": "Was ist WWW?",
+      "options": [
+        "World Wide Web",
+        "Wilde Welt West",
+        "Wir Wissen Wenig",
+        "Zufall"
+      ],
+      "answer": "World Wide Web",
+      "explanation": "Weltweites Netz."
+    },
+    {
+      "id": "mcq_18_23",
+      "type": "mcq",
+      "question": "Quelltext anzeigen?",
+      "options": [
+        "Rechtsklick im Browser",
+        "PC schütteln",
+        "Monitor drehen",
+        "Zufall"
+      ],
+      "answer": "Rechtsklick im Browser",
+      "explanation": "Code anschauen."
+    },
+    {
+      "id": "mcq_18_24",
+      "type": "mcq",
+      "question": "Attribute?",
+      "options": [
+        "Zusatzinfos im Tag",
+        "Nur Deko",
+        "Nur PC Name",
+        "Zufall"
+      ],
+      "answer": "Zusatzinfos im Tag",
+      "explanation": "Z.B. src=\"...\"."
+    },
+    {
+      "id": "mcq_18_25",
+      "type": "mcq",
+      "question": "Warum HTML lernen?",
+      "options": [
+        "Web verstehen/bauen",
+        "Nur zum Spaß",
+        "PC putzen",
+        "Zufall"
+      ],
+      "answer": "Web verstehen/bauen",
+      "explanation": "Grundlage Digitalisierung."
+    },
+    {
+      "id": "typing_18_1",
+      "type": "typing",
+      "text": "Ich schreibe mein erstes HTML-Dokument mit einem Editor.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_2",
+      "type": "typing",
+      "text": "Tags in spitzen Klammern strukturieren den Text der Seite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_3",
+      "type": "typing",
+      "text": "Der Browser liest den Code und zeigt uns die Webseite an.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_4",
+      "type": "typing",
+      "text": "Hyperlinks verbinden verschiedene Dokumente auf der ganzen Welt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_5",
+      "type": "typing",
+      "text": "Überschriften und Absätze sind wichtig für die Lesbarkeit im Netz.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_6",
+      "type": "typing",
+      "text": "CSS sorgt für die richtigen Farben und ein schönes Layout.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_7",
+      "type": "typing",
+      "text": "Das World Wide Web ist ein großer Teil unseres täglichen Lebens.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_8",
+      "type": "typing",
+      "text": "Ich lerne wie man Bilder richtig in eine Webseite einfügt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_9",
+      "type": "typing",
+      "text": "Informatik ist die Basis für das Internet und moderne Kommunikation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_18_10",
+      "type": "typing",
+      "text": "Viel Erfolg beim Erstellen deiner ersten eigenen Internetseite.",
+      "difficulty": "medium"
+    }
+  ]
+}

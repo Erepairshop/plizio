@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Projekt: Labyrinth-Spiel",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_15_1",
+      "type": "mcq",
+      "question": "Was ist das Labyrinth?",
+      "options": [
+        "Spielfeld mit Gängen",
+        "Ein Wald",
+        "Ein Berg",
+        "Ein PC"
+      ],
+      "answer": "Spielfeld mit Gängen",
+      "explanation": "Level-Design."
+    },
+    {
+      "id": "mcq_15_2",
+      "type": "mcq",
+      "question": "Wie steuert man?",
+      "options": [
+        "Pfeiltasten",
+        "Gar nicht",
+        "Pusten",
+        "Singen"
+      ],
+      "answer": "Pfeiltasten",
+      "explanation": "Klassische Bewegung."
+    },
+    {
+      "id": "mcq_15_3",
+      "type": "mcq",
+      "question": "Wand berührt?",
+      "options": [
+        "Abprallen/Stoppen",
+        "Sieg",
+        "Löschen",
+        "PC aus"
+      ],
+      "answer": "Abprallen/Stoppen",
+      "explanation": "Regel prüfen."
+    },
+    {
+      "id": "mcq_15_4",
+      "type": "mcq",
+      "question": "Sieg-Bedingung?",
+      "options": [
+        "Ziel-Farbe berühren",
+        "Verlaufen",
+        "Warten",
+        "PC aus"
+      ],
+      "answer": "Ziel-Farbe berühren",
+      "explanation": "Gewinnen."
+    },
+    {
+      "id": "mcq_15_5",
+      "type": "mcq",
+      "question": "Hindernis im Weg?",
+      "options": [
+        "Bewegte Balken",
+        "Nur Luft",
+        "Nur Ton",
+        "Zufall"
+      ],
+      "answer": "Bewegte Balken",
+      "explanation": "Gefahr."
+    },
+    {
+      "id": "mcq_15_6",
+      "type": "mcq",
+      "question": "Items sammeln?",
+      "options": [
+        "Zusatzpunkte",
+        "Abzug",
+        "Löschen",
+        "Warten"
+      ],
+      "answer": "Zusatzpunkte",
+      "explanation": "Belohnung."
+    },
+    {
+      "id": "mcq_15_7",
+      "type": "mcq",
+      "question": "Variable Zeit?",
+      "options": [
+        "Zählt Sekunden",
+        "Zählt Bilder",
+        "Zählt Töne",
+        "Zufall"
+      ],
+      "answer": "Zählt Sekunden",
+      "explanation": "Druck erhöhen."
+    },
+    {
+      "id": "mcq_15_8",
+      "type": "mcq",
+      "question": "Mehrere Level?",
+      "options": [
+        "Neue Hintergründe",
+        "Nur einer",
+        "Nur Ende",
+        "Gar nicht"
+      ],
+      "answer": "Neue Hintergründe",
+      "explanation": "Fortschritt."
+    },
+    {
+      "id": "mcq_15_9",
+      "type": "mcq",
+      "question": "Sound bei Sieg?",
+      "options": [
+        "Fanfare",
+        "Stille",
+        "Weinen",
+        "PC aus"
+      ],
+      "answer": "Fanfare",
+      "explanation": "Erfolg."
+    },
+    {
+      "id": "mcq_15_10",
+      "type": "mcq",
+      "question": "Sound bei Fehler?",
+      "options": [
+        "Plopp/Boing",
+        "Musik",
+        "Singen",
+        "Zufall"
+      ],
+      "answer": "Plopp/Boing",
+      "explanation": "Hinweis."
+    },
+    {
+      "id": "mcq_15_11",
+      "type": "mcq",
+      "question": "Startposition?",
+      "options": [
+        "Fester X/Y Punkt",
+        "Zufall",
+        "Ecke",
+        "Rand"
+      ],
+      "answer": "Fester X/Y Punkt",
+      "explanation": "Reset."
+    },
+    {
+      "id": "mcq_15_12",
+      "type": "mcq",
+      "question": "Wie malen?",
+      "options": [
+        "Als Hintergrundbild",
+        "Als Sprite",
+        "Beides geht",
+        "Gar nicht"
+      ],
+      "answer": "Beides geht",
+      "explanation": "Level-Bau."
+    },
+    {
+      "id": "mcq_15_13",
+      "type": "mcq",
+      "question": "Gegner im Labyrinth?",
+      "options": [
+        "Patrouille",
+        "Schlafen",
+        "Essen",
+        "Sport"
+      ],
+      "answer": "Patrouille",
+      "explanation": "Bewegte Gefahr."
+    },
+    {
+      "id": "mcq_15_14",
+      "type": "mcq",
+      "question": "Was ist 'Wird Farbe berührt'?",
+      "options": [
+        "Wand-Test",
+        "Ton-Test",
+        "Name-Test",
+        "PC-Test"
+      ],
+      "answer": "Wand-Test",
+      "explanation": "Fühlen-Block."
+    },
+    {
+      "id": "mcq_15_15",
+      "type": "mcq",
+      "question": "Sichtfeld begrenzen?",
+      "options": [
+        "Dunkler Effekt",
+        "Alles hell",
+        "Alles bunt",
+        "Zufall"
+      ],
+      "answer": "Dunkler Effekt",
+      "explanation": "Grusel-Modus."
+    },
+    {
+      "id": "mcq_15_16",
+      "type": "mcq",
+      "question": "Was macht 'Gehe zu Start'?",
+      "options": [
+        "Reset-Funktion",
+        "Sieg",
+        "PC aus",
+        "Ton laut"
+      ],
+      "answer": "Reset-Funktion",
+      "explanation": "Nach Fehler."
+    },
+    {
+      "id": "mcq_15_17",
+      "type": "mcq",
+      "question": "Leben-Variable?",
+      "options": [
+        "Zählt Versuche",
+        "Zählt Töne",
+        "Zählt Bilder",
+        "Zufall"
+      ],
+      "answer": "Zählt Versuche",
+      "explanation": "Status."
+    },
+    {
+      "id": "mcq_15_18",
+      "type": "mcq",
+      "question": "Teleporter?",
+      "options": [
+        "Springt zu Punkt",
+        "Laufen",
+        "Gehen",
+        "Warten"
+      ],
+      "answer": "Springt zu Punkt",
+      "explanation": "Feature."
+    },
+    {
+      "id": "mcq_15_19",
+      "type": "mcq",
+      "question": "Schlüssel finden?",
+      "options": [
+        "Öffnet Tür",
+        "Macht Musik",
+        "Macht Bild",
+        "Nichts"
+      ],
+      "answer": "Öffnet Tür",
+      "explanation": "Quest."
+    },
+    {
+      "id": "mcq_15_20",
+      "type": "mcq",
+      "question": "Blinkende Wände?",
+      "options": [
+        "Verschwinden/Erscheinen",
+        "Immer da",
+        "Immer weg",
+        "Zufall"
+      ],
+      "answer": "Verschwinden/Erscheinen",
+      "explanation": "Timing-Test."
+    },
+    {
+      "id": "mcq_15_21",
+      "type": "mcq",
+      "question": "Warum Labyrinth?",
+      "options": [
+        "Gute Übung für Logik",
+        "Nur zum Spaß",
+        "Zufall",
+        "Gar nicht"
+      ],
+      "answer": "Gute Übung für Logik",
+      "explanation": "Basisprojekt."
+    },
+    {
+      "id": "mcq_15_22",
+      "type": "mcq",
+      "question": "Was ist der Spieler?",
+      "options": [
+        "Oft ein kleiner Sprite",
+        "Der Monitor",
+        "Die Maus",
+        "Das Kabel"
+      ],
+      "answer": "Oft ein kleiner Sprite",
+      "explanation": "Avatar."
+    },
+    {
+      "id": "mcq_15_23",
+      "type": "mcq",
+      "question": "Können Wände Töne machen?",
+      "options": [
+        "Ja, bei Berührung",
+        "Nein",
+        "Nur am TV",
+        "Zufall"
+      ],
+      "answer": "Ja, bei Berührung",
+      "explanation": "Feedback."
+    },
+    {
+      "id": "mcq_15_24",
+      "type": "mcq",
+      "question": "Start-Bildschirm?",
+      "options": [
+        "Erklärt Regeln",
+        "Nur Spiel",
+        "Nur Ende",
+        "PC aus"
+      ],
+      "answer": "Erklärt Regeln",
+      "explanation": "Einleitung."
+    },
+    {
+      "id": "mcq_15_25",
+      "type": "mcq",
+      "question": "End-Bildschirm?",
+      "options": [
+        "Gratuliert zum Sieg",
+        "Schaltet PC aus",
+        "Macht Musik",
+        "Zufall"
+      ],
+      "answer": "Gratuliert zum Sieg",
+      "explanation": "Abschluss."
+    },
+    {
+      "id": "typing_15_1",
+      "type": "typing",
+      "text": "Ich steuere meine Figur sicher durch die engen Gänge.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_2",
+      "type": "typing",
+      "text": "Berühre nicht die schwarzen Wände in diesem schwierigen Level.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_3",
+      "type": "typing",
+      "text": "Das Ziel des Spiels ist das Erreichen des gelben Quadrats.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_4",
+      "type": "typing",
+      "text": "Wir nutzen Koordinaten um die Startposition genau festzulegen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_5",
+      "type": "typing",
+      "text": "Ein Labyrinth ist ein tolles Projekt für angehende Programmierer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_6",
+      "type": "typing",
+      "text": "Ich füge bewegliche Hindernisse für mehr Action hinzu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_7",
+      "type": "typing",
+      "text": "Die Logik hinter der Kollisionsabfrage ist sehr wichtig.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_8",
+      "type": "typing",
+      "text": "Ich habe alle Fehler in meinem Labyrinth-Spiel gefunden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_9",
+      "type": "typing",
+      "text": "Informatik hilft uns beim Erschaffen von eigenen Welten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_15_10",
+      "type": "typing",
+      "text": "Viel Spaß beim Meistern deines selbst gebauten Labyrinths.",
+      "difficulty": "medium"
+    }
+  ]
+}

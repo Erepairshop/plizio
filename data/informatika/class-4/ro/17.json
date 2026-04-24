@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Sarcini de prezentare",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Care este scopul unei prezentări de proiect?",
+        "options": [
+          "Să explici altora ce ai lucrat și cum funcționează",
+          "Să te lauzi",
+          "Să ocupi timpul",
+          "Să primești dulciuri"
+        ],
+        "answer": "Să explici altora ce ai lucrat și cum funcționează"
+      },
+      {
+        "question": "Ce trebuie să conțină prima parte a prezentării?",
+        "options": [
+          "Numele proiectului și scopul lui",
+          "Codul cel mai greu",
+          "Muzica de final",
+          "Lista de bug-uri"
+        ],
+        "answer": "Numele proiectului și scopul lui"
+      },
+      {
+        "question": "Cum ar trebui să fie textul pe slide-uri/ecran?",
+        "options": [
+          "Scurt, clar și ușor de citit",
+          "Foarte lung",
+          "Scris cu galben pe alb",
+          "Invizibil"
+        ],
+        "answer": "Scurt, clar și ușor de citit"
+      },
+      {
+        "question": "De ce e bine să facem un demo (o demonstrație) live?",
+        "options": [
+          "Pentru a arăta că proiectul chiar funcționează",
+          "Pentru a pierde timpul",
+          "Pentru a ne juca singuri",
+          "Nu e bine"
+        ],
+        "answer": "Pentru a arăta că proiectul chiar funcționează"
+      },
+      {
+        "question": "Ce facem dacă ceva nu merge în timpul prezentării?",
+        "options": [
+          "Explicăm sincer și trecem mai departe cu calm",
+          "Plângem",
+          "Fugim din clasă",
+          "Dăm vina pe calculator"
+        ],
+        "answer": "Explicăm sincer și trecem mai departe cu calm"
+      },
+      {
+        "question": "Cui ar trebui să ne adresăm când vorbim?",
+        "options": [
+          "Publicului (colegilor, profesorului)",
+          "Monitorului",
+          "Podelei",
+          "Tavanului"
+        ],
+        "answer": "Publicului (colegilor, profesorului)"
+      },
+      {
+        "question": "Ce este feedback-ul de la public?",
+        "options": [
+          "Părerile și sugestiile celor care te ascultă",
+          "Zgomotul din sală",
+          "Mâncarea",
+          "O eroare de sunet"
+        ],
+        "answer": "Părerile și sugestiile celor care te ascultă"
+      },
+      {
+        "question": "Cum ne pregătim pentru întrebări?",
+        "options": [
+          "Ne gândim dinainte ce ar putea fi neclar",
+          "Nu ne pregătim",
+          "Spunem 'nu știu' la tot",
+          "Închidem prezentarea repede"
+        ],
+        "answer": "Ne gândim dinainte ce ar putea fi neclar"
+      },
+      {
+        "question": "De ce e util să arătăm și codul, nu doar jocul?",
+        "options": [
+          "Pentru a explica logica din spate",
+          "Pentru că e colorat",
+          "Pentru a-i plictisi pe alții",
+          "Nu e util"
+        ],
+        "answer": "Pentru a explica logica din spate"
+      },
+      {
+        "question": "Ce înseamnă o prezentare 'structurată'?",
+        "options": [
+          "Are un început, un cuprins și o încheiere",
+          "E făcută din blocuri",
+          "E colorată",
+          "E lungă"
+        ],
+        "answer": "Are un început, un cuprins și o încheiere"
+      },
+      {
+        "question": "Cum ar trebui să fie vocea noastră?",
+        "options": [
+          "Clară și destul de tare",
+          "În șoaptă",
+          "Țipând",
+          "Foarte rapidă"
+        ],
+        "answer": "Clară și destul de tare"
+      },
+      {
+        "question": "Putem folosi imagini în prezentare?",
+        "options": [
+          "Da, ajută la înțelegere",
+          "Nu, doar text",
+          "Doar dacă le desenăm noi",
+          "Doar poze cu pisici"
+        ],
+        "answer": "Da, ajută la înțelegere"
+      },
+      {
+        "question": "Ce facem la finalul prezentării?",
+        "options": [
+          "Mulțumim publicului și întrebăm dacă sunt curiozități",
+          "Fugim",
+          "Închidem PC-ul brusc",
+          "Dormim"
+        ],
+        "answer": "Mulțumim publicului și întrebăm dacă sunt curiozități"
+      },
+      {
+        "question": "Cât ar trebui să dureze o prezentare de elev?",
+        "options": [
+          "Câteva minute (3-5)",
+          "O oră",
+          "10 secunde",
+          "Toată ziua"
+        ],
+        "answer": "Câteva minute (3-5)"
+      },
+      {
+        "question": "Putem primi critici?",
+        "options": [
+          "Da, dacă sunt constructive ne ajută să învățăm",
+          "Nu, e interzis",
+          "Doar dacă vrem",
+          "Doar de la prieteni"
+        ],
+        "answer": "Da, dacă sunt constructive ne ajută să învățăm"
+      },
+      {
+        "question": "De ce e important contactul vizual?",
+        "options": [
+          "Pentru a capta atenția publicului",
+          "Pentru a vedea dacă dorm",
+          "Pentru a vedea musca",
+          "Nu e important"
+        ],
+        "answer": "Pentru a capta atenția publicului"
+      },
+      {
+        "question": "Putem folosi notițe?",
+        "options": [
+          "Da, mici idei pe o foaie care să ne ajute",
+          "Nu, trebuie tot pe de rost",
+          "Doar dacă le citim pe tot parcursul",
+          "Doar dacă ne dă voie colegul"
+        ],
+        "answer": "Da, mici idei pe o foaie care să ne ajute"
+      },
+      {
+        "question": "Ce este entuziasmul în prezentare?",
+        "options": [
+          "Să arăți că îți place ce ai creat",
+          "Să sari în sus",
+          "Să țipi",
+          "Să râzi non-stop"
+        ],
+        "answer": "Să arăți că îți place ce ai creat"
+      },
+      {
+        "question": "Cum explicăm un algoritm greu?",
+        "options": [
+          "Folosind cuvinte simple și exemple",
+          "Folosind termeni tehnici necunoscuți",
+          "Sărind peste el",
+          "Desenând cercuri"
+        ],
+        "answer": "Folosind cuvinte simple și exemple"
+      },
+      {
+        "question": "Ce este o 'concluzie'?",
+        "options": [
+          "Rezumatul celor mai importante idei",
+          "Numele prezentatorului",
+          "O eroare",
+          "Ultimul slide gol"
+        ],
+        "answer": "Rezumatul celor mai importante idei"
+      },
+      {
+        "question": "Putem prezenta în echipă?",
+        "options": [
+          "Da, împărțind rolurile egal",
+          "Nu, doar singur",
+          "Doar dacă suntem 10",
+          "Doar dacă suntem gemeni"
+        ],
+        "answer": "Da, împărțind rolurile egal"
+      },
+      {
+        "question": "Ce facem dacă cineva ne întrerupe?",
+        "options": [
+          "Răspundem politicos sau rugăm să aștepte finalul",
+          "Ne supărăm",
+          "Îl dăm afară",
+          "Tăcem"
+        ],
+        "answer": "Răspundem politicos sau rugăm să aștepte finalul"
+      },
+      {
+        "question": "De ce e bine să exersăm acasă înainte?",
+        "options": [
+          "Pentru a fi mai siguri pe noi și a ne încadra în timp",
+          "Pentru a ne plictisi",
+          "Nu e nevoie",
+          "Pentru a consuma curent"
+        ],
+        "answer": "Pentru a fi mai siguri pe noi și a ne încadra în timp"
+      },
+      {
+        "question": "Ce este 'body language' (limbajul corpului)?",
+        "options": [
+          "Poziția noastră și gesturile în timp ce vorbim",
+          "O limbă străină",
+          "Un cod de programare",
+          "O eroare de mișcare"
+        ],
+        "answer": "Poziția noastră și gesturile în timp ce vorbim"
+      },
+      {
+        "question": "Care este succesul unei prezentări?",
+        "options": [
+          "Când publicul a înțeles ideea ta și i-a plăcut",
+          "Când ai terminat repede",
+          "Când nu te-a întrebat nimeni nimic",
+          "Când ai avut multe slide-uri"
+        ],
+        "answer": "Când publicul a înțeles ideea ta și i-a plăcut"
+      }
+    ],
+    "typing": [
+      "prezentare",
+      "public",
+      "comunicare",
+      "structură",
+      "demo",
+      "feedback",
+      "claritate",
+      "audiție",
+      "concluzie",
+      "exprimare"
+    ]
+  }
+}

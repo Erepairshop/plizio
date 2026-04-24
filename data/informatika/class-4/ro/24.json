@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Recapitulare K4",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Care este conceptul de bază al programării vizuale?",
+        "options": [
+          "Folosirea blocurilor pentru a crea logica",
+          "Scrierea de cod complicat",
+          "Doar desenarea",
+          "Folosirea unui singur buton"
+        ],
+        "answer": "Folosirea blocurilor pentru a crea logica"
+      },
+      {
+        "question": "Ce este un algoritm?",
+        "options": [
+          "O listă de pași pentru a rezolva o problemă",
+          "Un personaj negativ",
+          "Un tip de calculator",
+          "O culoare"
+        ],
+        "answer": "O listă de pași pentru a rezolva o problemă"
+      },
+      {
+        "question": "Ce am învățat despre variabile?",
+        "options": [
+          "Sunt containere pentru date care se pot schimba",
+          "Sunt sunete",
+          "Sunt costume",
+          "Nu se pot schimba"
+        ],
+        "answer": "Sunt containere pentru date care se pot schimba"
+      },
+      {
+        "question": "Ce fac condițiile 'Dacă'?",
+        "options": [
+          "Permit programului să ia decizii",
+          "Repetă codul",
+          "Șterg codul",
+          "Oprește programul"
+        ],
+        "answer": "Permit programului să ia decizii"
+      },
+      {
+        "question": "Ce fac buclele?",
+        "options": [
+          "Repetă instrucțiunile",
+          "Opresc instrucțiunile",
+          "Sunt erori",
+          "Sunt imagini"
+        ],
+        "answer": "Repetă instrucțiunile"
+      },
+      {
+        "question": "La ce folosește Scratch?",
+        "options": [
+          "Jocuri, animații și povești interactive",
+          "Doar calcule matematice",
+          "Doar scris",
+          "Gătit"
+        ],
+        "answer": "Jocuri, animații și povești interactive"
+      },
+      {
+        "question": "Ce este cel mai important la siguranța online?",
+        "options": [
+          "Protejarea datelor personale și comportamentul politicos",
+          "Să ai cel mai bun calculator",
+          "Să știi să spargi parole",
+          "Să ai multe poze"
+        ],
+        "answer": "Protejarea datelor personale și comportamentul politicos"
+      },
+      {
+        "question": "Ce am învățat despre munca digitală?",
+        "options": [
+          "Putem colabora cu alții pe internet la același proiect",
+          "Trebuie să lucrăm mereu singuri",
+          "Calculatoarele sunt doar pentru jocuri",
+          "Internetul e periculos mereu"
+        ],
+        "answer": "Putem colabora cu alții pe internet la același proiect"
+      },
+      {
+        "question": "Ce este HTML?",
+        "options": [
+          "Limbajul pentru structura paginilor web",
+          "Un joc",
+          "Un sunet",
+          "Un program de desen"
+        ],
+        "answer": "Limbajul pentru structura paginilor web"
+      },
+      {
+        "question": "Cum reparăm o eroare în cod?",
+        "options": [
+          "Prin depanare (debugging)",
+          "Prin ștergerea totului",
+          "Prin plâns",
+          "Nu se poate repara"
+        ],
+        "answer": "Prin depanare (debugging)"
+      },
+      {
+        "question": "Ce este un Sprite?",
+        "options": [
+          "Un personaj sau obiect programabil",
+          "O băutură",
+          "O eroare",
+          "Un fundal"
+        ],
+        "answer": "Un personaj sau obiect programabil"
+      },
+      {
+        "question": "Ce înseamnă 'broadcast' (difuzare)?",
+        "options": [
+          "Trimiterea unui mesaj între personaje",
+          "Un post de radio",
+          "O poză mare",
+          "Un sunet lung"
+        ],
+        "answer": "Trimiterea unui mesaj între personaje"
+      },
+      {
+        "question": "Ce face extensia 'Muzică'?",
+        "options": [
+          "Permite crearea propriilor melodii cu note",
+          "Cântă singură",
+          "Oprește sunetul",
+          "Șterge instrumentele"
+        ],
+        "answer": "Permite crearea propriilor melodii cu note"
+      },
+      {
+        "question": "De ce folosim 'Blocurile mele'?",
+        "options": [
+          "Pentru a crea propriile comenzi și a organiza codul",
+          "Pentru că sunt roz",
+          "Sunt obligatorii",
+          "Nu au niciun rost"
+        ],
+        "answer": "Pentru a crea propriile comenzi și a organiza codul"
+      },
+      {
+        "question": "Ce unitate urmează după Byte?",
+        "options": [
+          "Kilobyte",
+          "Megabyte",
+          "Gigabyte",
+          "Bit"
+        ],
+        "answer": "Kilobyte"
+      },
+      {
+        "question": "Ce este un motor de căutare?",
+        "options": [
+          "Un site precum Google pentru a găsi informații",
+          "O piesă auto",
+          "Un virus",
+          "O tastă"
+        ],
+        "answer": "Un site precum Google pentru a găsi informații"
+      },
+      {
+        "question": "Ce este neticheta?",
+        "options": [
+          "Regulile de bună purtare online",
+          "O plasă",
+          "Un virus",
+          "O eroare"
+        ],
+        "answer": "Regulile de bună purtare online"
+      },
+      {
+        "question": "Putem desena în Scratch?",
+        "options": [
+          "Da, în editorul de costume și decoruri",
+          "Nu",
+          "Doar în negru",
+          "Doar linii"
+        ],
+        "answer": "Da, în editorul de costume și decoruri"
+      },
+      {
+        "question": "Ce face tasta Space de obicei într-un joc creat de noi?",
+        "options": [
+          "Săritură sau tragere (depinde de codul nostru)",
+          "Oprește calculatorul",
+          "Șterge scorul",
+          "Nu face nimic"
+        ],
+        "answer": "Săritură sau tragere (depinde de codul nostru)"
+      },
+      {
+        "question": "Care este rolul coordonatelor X și Y?",
+        "options": [
+          "Stabilesc poziția pe ecran",
+          "Stabilesc culoarea",
+          "Stabilesc viteza",
+          "Sunt doar numere"
+        ],
+        "answer": "Stabilesc poziția pe ecran"
+      },
+      {
+        "question": "Ce am învățat despre etică?",
+        "options": [
+          "Să respectăm munca altora și să fim onești",
+          "Să copiem tot",
+          "Să fim răi",
+          "Să nu folosim netul"
+        ],
+        "answer": "Să respectăm munca altora și să fim onești"
+      },
+      {
+        "question": "Ce este un 'Cloud Variable'?",
+        "options": [
+          "O variabilă salvată pe net (pentru scoruri globale)",
+          "Un nor",
+          "O eroare de vreme",
+          "Un joc în cer"
+        ],
+        "answer": "O variabilă salvată pe net (pentru scoruri globale)"
+      },
+      {
+        "question": "Ce înseamnă HTTPS (lacătul)?",
+        "options": [
+          "Site-ul este securizat",
+          "Site-ul este închis",
+          "Site-ul este vechi",
+          "O eroare"
+        ],
+        "answer": "Site-ul este securizat"
+      },
+      {
+        "question": "Cum prezentăm un proiect?",
+        "options": [
+          "Cu încredere, explicând logica și arătând rezultatul",
+          "În șoaptă",
+          "Fugind",
+          "Fără să vorbim"
+        ],
+        "answer": "Cu încredere, explicând logica și arătând rezultatul"
+      },
+      {
+        "question": "Suntem gata pentru noi provocări în informatică?",
+        "options": [
+          "Da, am învățat bazele!",
+          "Nu",
+          "Poate",
+          "Somn"
+        ],
+        "answer": "Da, am învățat bazele!"
+      }
+    ],
+    "typing": [
+      "recapitulare",
+      "cunoștințe",
+      "succes",
+      "viitor",
+      "învățare",
+      "progres",
+      "evaluare",
+      "echipă",
+      "creație",
+      "final"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Scripts and Blocks",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What happens if blocks are not connected?",
+      "options": [
+        "They won't run together",
+        "They turn red",
+        "The computer restarts",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block shape indicates it can have blocks inside it?",
+      "options": [
+        "C-shape",
+        "Oval",
+        "Diamond",
+        "Square"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Script'?",
+      "options": [
+        "A stack of connected blocks",
+        "A single block",
+        "A sound file",
+        "The background"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the order of blocks in a stack?",
+      "options": [
+        "Yes, by dragging them",
+        "No, never",
+        "Only if you delete them",
+        "Only on Tuesdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a hat-shaped block do?",
+      "options": [
+        "Starts a script",
+        "Ends a script",
+        "Plays a sound",
+        "Changes color"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block allows a script to repeat?",
+      "options": [
+        "Repeat",
+        "Once",
+        "Stop",
+        "Wait"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Forever' block do?",
+      "options": [
+        "Repeats code endlessly",
+        "Runs code once",
+        "Deletes code",
+        "Stops the program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you drag blocks from?",
+      "options": [
+        "The Blocks Palette",
+        "The Stage",
+        "The Sprite List",
+        "The Trash"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of 'When Space Key Pressed'?",
+      "options": [
+        "It is an event block",
+        "It changes the backdrop",
+        "It plays a music",
+        "It turns off computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you copy a script to another sprite?",
+      "options": [
+        "Drag it to the sprite in sprite list",
+        "Copy-paste with Ctrl+C",
+        "Right click and share",
+        "You cannot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category is 'Wait' in?",
+      "options": [
+        "Control",
+        "Motion",
+        "Looks",
+        "Events"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block is used to clear drawing lines?",
+      "options": [
+        "Erase all",
+        "Clean",
+        "Wipe",
+        "Delete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block shape fits into a condition slot?",
+      "options": [
+        "Diamond",
+        "Oval",
+        "Rectangle",
+        "Circle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Broadcast' block do?",
+      "options": [
+        "Sends a message to all sprites",
+        "Plays a radio",
+        "Shows a movie",
+        "Changes the cat's name"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Control blocks?",
+      "options": [
+        "Gold/Orange",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Sensing blocks?",
+      "options": [
+        "Light Blue",
+        "Dark Blue",
+        "Green",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you run a single block to test it?",
+      "options": [
+        "Click on the block",
+        "Drag it to the cat",
+        "Type its name",
+        "Restart Scratch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block starts a script when the cat is clicked?",
+      "options": [
+        "When this sprite clicked",
+        "If clicked",
+        "On sprite",
+        "Touch me"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a 'Forever' block inside another 'Forever' block?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Thursdays",
+        "Only for 5 seconds"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to the blocks when you delete a sprite?",
+      "options": [
+        "They are also deleted",
+        "They stay on screen",
+        "They go to the stage",
+        "They turn into a cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is used to move exactly 10 steps?",
+      "options": [
+        "Move 10 steps",
+        "Go 10",
+        "Jump 10",
+        "Step 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Backpack' in Scratch for?",
+      "options": [
+        "Storing code to use in other projects",
+        "Saving your account",
+        "Buying new sprites",
+        "Writing notes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you zoom in on the code area?",
+      "options": [
+        "Click the magnifying glass icon",
+        "Scroll the mouse wheel",
+        "Press Z",
+        "All of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block allows you to leave a note for yourself?",
+      "options": [
+        "Add comment",
+        "Note",
+        "Text",
+        "Memo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is the order of blocks important in a script?",
+      "options": [
+        "Yes, very important",
+        "No, it does not matter",
+        "Only for sounds",
+        "Only for colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Script",
+      "answer": "Script"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stack",
+      "answer": "Stack"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Command",
+      "answer": "Command"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Logic",
+      "answer": "Logic"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Connect",
+      "answer": "Connect"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Order",
+      "answer": "Order"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Snap",
+      "answer": "Snap"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Trigger",
+      "answer": "Trigger"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Run",
+      "answer": "Run"
+    }
+  ]
+}

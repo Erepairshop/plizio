@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Evenimente",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este un eveniment în Scratch?",
+        "options": [
+          "O acțiune care declanșează codul",
+          "O petrecere",
+          "O eroare",
+          "Un sunet"
+        ],
+        "answer": "O acțiune care declanșează codul"
+      },
+      {
+        "question": "Care este cel mai comun bloc de eveniment?",
+        "options": [
+          "Când se dă click pe steag",
+          "Când tasta space e apăsată",
+          "Când primesc mesaj",
+          "Când se schimbă decorul"
+        ],
+        "answer": "Când se dă click pe steag"
+      },
+      {
+        "question": "Ce face blocul 'difuzează mesaj'?",
+        "options": [
+          "Trimite un semnal către alte personaje",
+          "Afișează un text pe ecran",
+          "Cântă un sunet",
+          "Oprește programul"
+        ],
+        "answer": "Trimite un semnal către alte personaje"
+      },
+      {
+        "question": "Cum facem un personaj să reacționeze la tastatura?",
+        "options": [
+          "Blocul 'când tasta [x] este apăsată'",
+          "Blocul 'mergi'",
+          "Blocul 'spune'",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'când tasta [x] este apăsată'"
+      },
+      {
+        "question": "Putem folosi orice tastă ca eveniment?",
+        "options": [
+          "Majoritatea tastelor standard",
+          "Doar Space",
+          "Doar săgețile",
+          "Doar literele"
+        ],
+        "answer": "Majoritatea tastelor standard"
+      },
+      {
+        "question": "Ce face blocul 'când se dă click pe acest personaj'?",
+        "options": [
+          "Execută codul când utilizatorul dă click pe el",
+          "Îl șterge",
+          "Îl ascunde",
+          "Îl mută"
+        ],
+        "answer": "Execută codul când utilizatorul dă click pe el"
+      },
+      {
+        "question": "Ce este un mesaj (broadcast)?",
+        "options": [
+          "Un semnal invizibil între scripturi",
+          "Un e-mail",
+          "Un sunet",
+          "O variabilă"
+        ],
+        "answer": "Un semnal invizibil între scripturi"
+      },
+      {
+        "question": "Ce face 'difuzează [mesaj] și așteaptă'?",
+        "options": [
+          "Trimite mesajul și stă până codul primitor se termină",
+          "Trimite și șterge",
+          "Trimite și închide",
+          "Nu așteaptă nimic"
+        ],
+        "answer": "Trimite mesajul și stă până codul primitor se termină"
+      },
+      {
+        "question": "Ce face 'când decorul se schimbă la [nume]'?",
+        "options": [
+          "Pornește codul când fundalul se modifică",
+          "Schimbă fundalul",
+          "Șterge fundalul",
+          "Oprește muzica"
+        ],
+        "answer": "Pornește codul când fundalul se modifică"
+      },
+      {
+        "question": "Putem porni un cod când volumul sunetului e mare?",
+        "options": [
+          "Da, folosind evenimentul de senzitivitate",
+          "Nu",
+          "Doar dacă avem boxe mari",
+          "Doar în modul profesional"
+        ],
+        "answer": "Da, folosind evenimentul de senzitivitate"
+      },
+      {
+        "question": "Câte personaje pot primi același mesaj?",
+        "options": [
+          "Toate personajele care au blocul de primire",
+          "Doar unul",
+          "Maxim două",
+          "Niciunul"
+        ],
+        "answer": "Toate personajele care au blocul de primire"
+      },
+      {
+        "question": "Ce culoare au blocurile de Evenimente?",
+        "options": [
+          "Galben/Portocaliu",
+          "Verde",
+          "Albastru",
+          "Lila"
+        ],
+        "answer": "Galben/Portocaliu"
+      },
+      {
+        "question": "Putem crea mesaje noi?",
+        "options": [
+          "Da, le putem numi cum dorim",
+          "Nu, sunt fixe",
+          "Doar numere",
+          "Doar în engleză"
+        ],
+        "answer": "Da, le putem numi cum dorim"
+      },
+      {
+        "question": "Ce se întâmplă dacă dăm click pe steag de mai multe ori?",
+        "options": [
+          "Programul repornește",
+          "Se blochează",
+          "Se șterge",
+          "Se dublează viteza"
+        ],
+        "answer": "Programul repornește"
+      },
+      {
+        "question": "Ce face 'când cronometrul > 10'?",
+        "options": [
+          "Pornește codul după 10 secunde",
+          "Oprește timpul",
+          "Resetează timpul",
+          "Schimbă ceasul"
+        ],
+        "answer": "Pornește codul după 10 secunde"
+      },
+      {
+        "question": "Pot două evenimente diferite să pornească același cod?",
+        "options": [
+          "Nu direct, dar pot difuza același mesaj",
+          "Da, oricâte",
+          "Nu, niciodată",
+          "Doar dacă sunt vecine"
+        ],
+        "answer": "Nu direct, dar pot difuza același mesaj"
+      },
+      {
+        "question": "Ce este un declanșator (trigger)?",
+        "options": [
+          "Un alt nume pentru eveniment",
+          "O armă",
+          "O eroare",
+          "Un sunet"
+        ],
+        "answer": "Un alt nume pentru eveniment"
+      },
+      {
+        "question": "Ce face evenimentul 'când primesc [mesaj]'?",
+        "options": [
+          "Așteaptă semnalul pentru a porni codul",
+          "Trimite un semnal",
+          "Șterge mesajul",
+          "Afișează mesajul"
+        ],
+        "answer": "Așteaptă semnalul pentru a porni codul"
+      },
+      {
+        "question": "Putem opri un eveniment?",
+        "options": [
+          "Putem opri scriptul pe care l-a pornit",
+          "Nu, odată pornit nu se mai oprește",
+          "Doar cu apă",
+          "Doar cu tasta Esc"
+        ],
+        "answer": "Putem opri scriptul pe care l-a pornit"
+      },
+      {
+        "question": "Ce se întâmplă dacă nu avem niciun bloc de eveniment?",
+        "options": [
+          "Codul nu va rula automat",
+          "Codul va rula singur",
+          "Programul se va șterge",
+          "Se va colora în roșu"
+        ],
+        "answer": "Codul nu va rula automat"
+      },
+      {
+        "question": "Unde se află categoria Evenimente?",
+        "options": [
+          "A patra de sus",
+          "Prima",
+          "Ultima",
+          "Nu există"
+        ],
+        "answer": "A patra de sus"
+      },
+      {
+        "question": "Putem difuza un mesaj din fundal?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar din personaje",
+          "Doar dacă e alb"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce este 'latența' unui eveniment?",
+        "options": [
+          "Timpul mic de reacție",
+          "O eroare gravă",
+          "Un sunet",
+          "Un personaj"
+        ],
+        "answer": "Timpul mic de reacție"
+      },
+      {
+        "question": "Putem folosi tasta 'orice' (any) ca eveniment?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar litere",
+          "Doar cifre"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce face blocul 'când sunetul > 10'?",
+        "options": [
+          "Reacționează la zgomotul din cameră",
+          "Mărește volumul",
+          "Oprește muzica",
+          "Schimbă piesa"
+        ],
+        "answer": "Reacționează la zgomotul din cameră"
+      }
+    ],
+    "typing": [
+      "eveniment",
+      "difuzare",
+      "mesaj",
+      "semnal",
+      "tastă",
+      "steag",
+      "declanșator",
+      "recepție",
+      "cronometru",
+      "volum"
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Bazele creării paginilor web (HTML)",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce înseamnă HTML?",
+        "options": [
+          "HyperText Markup Language",
+          "Hot Mail",
+          "Hard Tool",
+          "Hi Tech Music"
+        ],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "question": "La ce se folosește HTML?",
+        "options": [
+          "Pentru a structura conținutul unei pagini web",
+          "Pentru a edita fotografii",
+          "Pentru a repara mașini",
+          "Pentru a face cafea"
+        ],
+        "answer": "Pentru a structura conținutul unei pagini web"
+      },
+      {
+        "question": "Ce este un 'tag' (etichetă) HTML?",
+        "options": [
+          "O comandă între paranteze unghiulare (ex. <p>)",
+          "Un preț",
+          "Un sunet",
+          "O imagine"
+        ],
+        "answer": "O comandă între paranteze unghiulare (ex. <p>)"
+      },
+      {
+        "question": "Care este tag-ul pentru cel mai mare titlu?",
+        "options": [
+          "<h1>",
+          "<h6>",
+          "<p>",
+          "<body>"
+        ],
+        "answer": "<h1>"
+      },
+      {
+        "question": "Cum se închide un tag în HTML?",
+        "options": [
+          "Folosind un slash (ex. </p>)",
+          "Folosind punct",
+          "Nu se închide",
+          "Folosind space"
+        ],
+        "answer": "Folosind un slash (ex. </p>)"
+      },
+      {
+        "question": "Unde punem titlul care apare în tab-ul browserului?",
+        "options": [
+          "<title>",
+          "<body>",
+          "<h1>",
+          "<footer>"
+        ],
+        "answer": "<title>"
+      },
+      {
+        "question": "Ce conține tag-ul <body>?",
+        "options": [
+          "Tot ce se vede pe pagina web",
+          "Doar titlul",
+          "Doar codul secret",
+          "Nimic"
+        ],
+        "answer": "Tot ce se vede pe pagina web"
+      },
+      {
+        "question": "Care este tag-ul pentru un paragraf de text?",
+        "options": [
+          "<p>",
+          "<a>",
+          "<img>",
+          "<div>"
+        ],
+        "answer": "<p>"
+      },
+      {
+        "question": "Cum inserăm o imagine?",
+        "options": [
+          "<img src='url'>",
+          "<picture>",
+          "<photo>",
+          "<a>"
+        ],
+        "answer": "<img src='url'>"
+      },
+      {
+        "question": "Ce este un 'hyperlink'?",
+        "options": [
+          "Un link care te trimite la altă pagină",
+          "Un joc rapid",
+          "O eroare",
+          "Un text colorat"
+        ],
+        "answer": "Un link care te trimite la altă pagină"
+      },
+      {
+        "question": "Care este tag-ul pentru un link?",
+        "options": [
+          "<a href='url'>",
+          "<link>",
+          "<go>",
+          "<url>"
+        ],
+        "answer": "<a href='url'>"
+      },
+      {
+        "question": "Ce înseamnă 'WWW'?",
+        "options": [
+          "World Wide Web",
+          "World War West",
+          "Welcome Web",
+          "White Web"
+        ],
+        "answer": "World Wide Web"
+      },
+      {
+        "question": "Ce face un browser web (ex. Chrome)?",
+        "options": [
+          "Citește codul HTML și îl afișează frumos",
+          "Scrie codul",
+          "Repară internetul",
+          "Șterge fișierele"
+        ],
+        "answer": "Citește codul HTML și îl afișează frumos"
+      },
+      {
+        "question": "Putem face o listă în HTML?",
+        "options": [
+          "Da, folosind <ul> sau <ol>",
+          "Nu",
+          "Doar pe hârtie",
+          "Doar cu imagini"
+        ],
+        "answer": "Da, folosind <ul> sau <ol>"
+      },
+      {
+        "question": "Ce este un 'element' HTML?",
+        "options": [
+          "Tot de la tag-ul de deschidere la cel de închidere",
+          "Doar tag-ul",
+          "O eroare",
+          "Un sunet"
+        ],
+        "answer": "Tot de la tag-ul de deschidere la cel de închidere"
+      },
+      {
+        "question": "Ce este un atribut HTML?",
+        "options": [
+          "Informație extra în tag (ex. src la img)",
+          "Un premiu",
+          "O culoare",
+          "O tastă"
+        ],
+        "answer": "Informație extra în tag (ex. src la img)"
+      },
+      {
+        "question": "HTML este un limbaj de programare (ca Scratch)?",
+        "options": [
+          "Este un limbaj de marcare, nu de programare propriu-zis",
+          "Da, exact la fel",
+          "Nu, e o aplicație",
+          "E un virus"
+        ],
+        "answer": "Este un limbaj de marcare, nu de programare propriu-zis"
+      },
+      {
+        "question": "Ce este CSS?",
+        "options": [
+          "Limbaj pentru designul paginii (culori, fonturi)",
+          "Un tip de fișier audio",
+          "Un site de jocuri",
+          "O tastă"
+        ],
+        "answer": "Limbaj pentru designul paginii (culori, fonturi)"
+      },
+      {
+        "question": "Cum facem textul îngroșat?",
+        "options": [
+          "<strong> sau <b>",
+          "<i>",
+          "<u>",
+          "<p>"
+        ],
+        "answer": "<strong> sau <b>"
+      },
+      {
+        "question": "Cum facem textul înclinat (italic)?",
+        "options": [
+          "<em> sau <i>",
+          "<b>",
+          "<u>",
+          "<br>"
+        ],
+        "answer": "<em> sau <i>"
+      },
+      {
+        "question": "Ce face tag-ul <br>?",
+        "options": [
+          "Trece la rând nou (break)",
+          "Face textul mare",
+          "Șterge rândul",
+          "Face o linie"
+        ],
+        "answer": "Trece la rând nou (break)"
+      },
+      {
+        "question": "Ce este un 'server' web?",
+        "options": [
+          "Un calculator care găzduiește site-urile",
+          "Un chelner",
+          "Un mouse mare",
+          "O tastatură"
+        ],
+        "answer": "Un calculator care găzduiește site-urile"
+      },
+      {
+        "question": "Este importantă ordinea tag-urilor?",
+        "options": [
+          "Da, trebuie deschise și închise corect",
+          "Nu",
+          "Doar la început",
+          "Doar la final"
+        ],
+        "answer": "Da, trebuie deschise și închise corect"
+      },
+      {
+        "question": "Ce este un editor de cod (ex. Notepad++)?",
+        "options": [
+          "Un program unde scriem codul",
+          "Un browser",
+          "Un joc",
+          "O imagine"
+        ],
+        "answer": "Un program unde scriem codul"
+      },
+      {
+        "question": "Poate oricine să creeze o pagină web?",
+        "options": [
+          "Da, oricine învață bazele HTML",
+          "Nu, e doar pentru experți",
+          "Doar dacă ai 18 ani",
+          "Doar dacă plătești mult"
+        ],
+        "answer": "Da, oricine învață bazele HTML"
+      }
+    ],
+    "typing": [
+      "html",
+      "web",
+      "pagina",
+      "etichetă",
+      "link",
+      "titlu",
+      "paragraf",
+      "imagine",
+      "structură",
+      "browser"
+    ]
+  }
+}

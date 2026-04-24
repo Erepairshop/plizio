@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Digitale Präsentationen",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_17_1",
+      "type": "mcq",
+      "question": "Was ist eine Präsentation?",
+      "options": [
+        "Vortrag mit Bildern",
+        "Ein Spiel",
+        "Ein Buch",
+        "Ein PC"
+      ],
+      "answer": "Vortrag mit Bildern",
+      "explanation": "Infos zeigen."
+    },
+    {
+      "id": "mcq_17_2",
+      "type": "mcq",
+      "question": "Präsentations-Software?",
+      "options": [
+        "PowerPoint/Slides",
+        "Excel",
+        "Calculator",
+        "Solitär"
+      ],
+      "answer": "PowerPoint/Slides",
+      "explanation": "Standardtools."
+    },
+    {
+      "id": "mcq_17_3",
+      "type": "mcq",
+      "question": "Was ist eine Folie?",
+      "options": [
+        "Eine Seite",
+        "Ein Film",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Eine Seite",
+      "explanation": "Baustein der Show."
+    },
+    {
+      "id": "mcq_17_4",
+      "type": "mcq",
+      "question": "Wenig Text?",
+      "options": [
+        "Ja, besser lesbar",
+        "Nein, viel Text",
+        "Zufall",
+        "PC aus"
+      ],
+      "answer": "Ja, besser lesbar",
+      "explanation": "Regel: Weniger ist mehr."
+    },
+    {
+      "id": "mcq_17_5",
+      "type": "mcq",
+      "question": "Bilder einfügen?",
+      "options": [
+        "Ja, lockert auf",
+        "Nein, verboten",
+        "Nur schwarz",
+        "Zufall"
+      ],
+      "answer": "Ja, lockert auf",
+      "explanation": "Visualisierung."
+    },
+    {
+      "id": "mcq_17_6",
+      "type": "mcq",
+      "question": "Was ist Animation?",
+      "options": [
+        "Bewegte Objekte",
+        "Standbild",
+        "Ton",
+        "PC"
+      ],
+      "answer": "Bewegte Objekte",
+      "explanation": "Effekte."
+    },
+    {
+      "id": "mcq_17_7",
+      "type": "mcq",
+      "question": "Was ist ein Übergang?",
+      "options": [
+        "Wechsel zwischen Folien",
+        "Ein Ton",
+        "Ein Bild",
+        "Ein PC"
+      ],
+      "answer": "Wechsel zwischen Folien",
+      "explanation": "Slide change."
+    },
+    {
+      "id": "mcq_17_8",
+      "type": "mcq",
+      "question": "Schriftgröße?",
+      "options": [
+        "Groß und deutlich",
+        "Winzig",
+        "Gar keine",
+        "Zufall"
+      ],
+      "answer": "Groß und deutlich",
+      "explanation": "Lesbarkeit."
+    },
+    {
+      "id": "mcq_17_9",
+      "type": "mcq",
+      "question": "Kontrast?",
+      "options": [
+        "Schrift vs Hintergrund",
+        "Ton vs Bild",
+        "PC vs Tisch",
+        "Zufall"
+      ],
+      "answer": "Schrift vs Hintergrund",
+      "explanation": "Helle Schrift auf Dunkel."
+    },
+    {
+      "id": "mcq_17_10",
+      "type": "mcq",
+      "question": "Urheberrecht Bilder?",
+      "options": [
+        "Beachten!",
+        "Egal",
+        "Nur für Profis",
+        "Zufall"
+      ],
+      "answer": "Beachten!",
+      "explanation": "Wichtige Regel."
+    },
+    {
+      "id": "mcq_17_11",
+      "type": "mcq",
+      "question": "Zuhörer?",
+      "options": [
+        "Das Publikum",
+        "Der PC",
+        "Die Wand",
+        "Der Stuhl"
+      ],
+      "answer": "Das Publikum",
+      "explanation": "Für wen man spricht."
+    },
+    {
+      "id": "mcq_17_12",
+      "type": "mcq",
+      "question": "Lampenfieber?",
+      "options": [
+        "Aufregung vor Start",
+        "Licht am PC",
+        "PC wird heiß",
+        "Zufall"
+      ],
+      "answer": "Aufregung vor Start",
+      "explanation": "Ganz normal."
+    },
+    {
+      "id": "mcq_17_13",
+      "type": "mcq",
+      "question": "Was ist ein Handout?",
+      "options": [
+        "Zusammenfassung Blatt",
+        "Ein PC",
+        "Ein Spiel",
+        "Zufall"
+      ],
+      "answer": "Zusammenfassung Blatt",
+      "explanation": "Für später."
+    },
+    {
+      "id": "mcq_17_14",
+      "type": "mcq",
+      "question": "Laut sprechen?",
+      "options": [
+        "Ja, für alle",
+        "Flüstern",
+        "Schreien",
+        "Zufall"
+      ],
+      "answer": "Ja, für alle",
+      "explanation": "Klarheit."
+    },
+    {
+      "id": "mcq_17_15",
+      "type": "mcq",
+      "question": "Augenkontakt?",
+      "options": [
+        "Ja, zum Publikum",
+        "Auf den Boden",
+        "Zum Monitor",
+        "Zufall"
+      ],
+      "answer": "Ja, zum Publikum",
+      "explanation": "Präsenz."
+    },
+    {
+      "id": "mcq_17_16",
+      "type": "mcq",
+      "question": "Struktur?",
+      "options": [
+        "Einleitung/Hauptteil/Schluss",
+        "Durcheinander",
+        "Gar keine",
+        "Zufall"
+      ],
+      "answer": "Einleitung/Hauptteil/Schluss",
+      "explanation": "Roter Faden."
+    },
+    {
+      "id": "mcq_17_17",
+      "type": "mcq",
+      "question": "Was ist ein Diagramm?",
+      "options": [
+        "Zahlen als Bild",
+        "Ein Ton",
+        "Ein PC",
+        "Zufall"
+      ],
+      "answer": "Zahlen als Bild",
+      "explanation": "Grafik."
+    },
+    {
+      "id": "mcq_17_18",
+      "type": "mcq",
+      "question": "Was ist eine Vorlage (Template)?",
+      "options": [
+        "Fertiges Design",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Fertiges Design",
+      "explanation": "Schneller Start."
+    },
+    {
+      "id": "mcq_17_19",
+      "type": "mcq",
+      "question": "Präsentationsmodus?",
+      "options": [
+        "Ganzbildschirm",
+        "Kleinfenster",
+        "PC aus",
+        "Zufall"
+      ],
+      "answer": "Ganzbildschirm",
+      "explanation": "Vollbild."
+    },
+    {
+      "id": "mcq_17_20",
+      "type": "mcq",
+      "question": "Fragerunde?",
+      "options": [
+        "Am Ende klären",
+        "Gar nicht",
+        "Währenddessen",
+        "Zufall"
+      ],
+      "answer": "Am Ende klären",
+      "explanation": "Diskussion."
+    },
+    {
+      "id": "mcq_17_21",
+      "type": "mcq",
+      "question": "USB-Stick?",
+      "options": [
+        "Zum Transport",
+        "Zum Essen",
+        "Zum Malen",
+        "Zufall"
+      ],
+      "answer": "Zum Transport",
+      "explanation": "Speichermedium."
+    },
+    {
+      "id": "mcq_17_22",
+      "type": "mcq",
+      "question": "Beamer?",
+      "options": [
+        "Projektor an Wand",
+        "Ein Spiel",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Projektor an Wand",
+      "explanation": "Hardware."
+    },
+    {
+      "id": "mcq_17_23",
+      "type": "mcq",
+      "question": "Fernbedienung (Clicker)?",
+      "options": [
+        "Folien weiterdrücken",
+        "PC aus",
+        "Ton aus",
+        "Zufall"
+      ],
+      "answer": "Folien weiterdrücken",
+      "explanation": "Zubehör."
+    },
+    {
+      "id": "mcq_17_24",
+      "type": "mcq",
+      "question": "Was ist ein Video-Clip?",
+      "options": [
+        "Kurzfilm in Folie",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein PC"
+      ],
+      "answer": "Kurzfilm in Folie",
+      "explanation": "Medienmix."
+    },
+    {
+      "id": "mcq_17_25",
+      "type": "mcq",
+      "question": "Inhaltsverzeichnis?",
+      "options": [
+        "Übersicht am Start",
+        "Nur ein Name",
+        "Nur Ende",
+        "Zufall"
+      ],
+      "answer": "Übersicht am Start",
+      "explanation": "Orientierung."
+    },
+    {
+      "id": "typing_17_1",
+      "type": "typing",
+      "text": "Ich gestalte eine moderne Präsentation über mein Hobby.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_2",
+      "type": "typing",
+      "text": "Wichtige Punkte stehen auf den Folien als Stichwörter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_3",
+      "type": "typing",
+      "text": "Die Bilder müssen eine gute Qualität für den Beamer haben.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_4",
+      "type": "typing",
+      "text": "Ich übe meinen Vortrag laut vor dem Spiegel in meinem Zimmer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_5",
+      "type": "typing",
+      "text": "Ein guter Übergang macht die Präsentation viel professioneller.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_6",
+      "type": "typing",
+      "text": "Wir nutzen Diagramme um schwierige Zahlen einfach darzustellen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_7",
+      "type": "typing",
+      "text": "Achte auf die Quellenangaben bei den verwendeten Bildern.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_8",
+      "type": "typing",
+      "text": "Die Zuhörer freuen sich über einen spannenden Einleitungssatz.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_9",
+      "type": "typing",
+      "text": "Informatik hilft uns beim Teilen von Wissen mit anderen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_17_10",
+      "type": "typing",
+      "text": "Viel Erfolg bei deinem nächsten Referat in der Schule.",
+      "difficulty": "medium"
+    }
+  ]
+}

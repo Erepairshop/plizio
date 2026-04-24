@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Skripte und Blöcke",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_2_1",
+      "type": "mcq",
+      "question": "Was ist ein Stapel?",
+      "options": [
+        "Mehrere Blöcke",
+        "Ein Block",
+        "Ein Bild",
+        "Ein Name"
+      ],
+      "answer": "Mehrere Blöcke",
+      "explanation": "Zusammengeklickte Blöcke."
+    },
+    {
+      "id": "mcq_2_2",
+      "type": "mcq",
+      "question": "Wie löscht man Blöcke?",
+      "options": [
+        "Zurückziehen",
+        "Klatschen",
+        "Pusten",
+        "Schütteln"
+      ],
+      "answer": "Zurückziehen",
+      "explanation": "Einfach in die Liste werfen."
+    },
+    {
+      "id": "mcq_2_3",
+      "type": "mcq",
+      "question": "Was ist ein Hut-Block?",
+      "options": [
+        "Anfang",
+        "Ende",
+        "Mitte",
+        "Fehler"
+      ],
+      "answer": "Anfang",
+      "explanation": "Er steht ganz oben."
+    },
+    {
+      "id": "mcq_2_4",
+      "type": "mcq",
+      "question": "Was ist ein C-Block?",
+      "options": [
+        "Wiederholung",
+        "Start",
+        "Ende",
+        "Variable"
+      ],
+      "answer": "Wiederholung",
+      "explanation": "Er umschließt andere Blöcke."
+    },
+    {
+      "id": "mcq_2_5",
+      "type": "mcq",
+      "question": "Farbe von 'Bewegung'?",
+      "options": [
+        "Blau",
+        "Gelb",
+        "Grün",
+        "Rot"
+      ],
+      "answer": "Blau",
+      "explanation": "Blaue Blöcke bewegen."
+    },
+    {
+      "id": "mcq_2_6",
+      "type": "mcq",
+      "question": "Farbe von 'Aussehen'?",
+      "options": [
+        "Lila",
+        "Blau",
+        "Grün",
+        "Orange"
+      ],
+      "answer": "Lila",
+      "explanation": "Lila Blöcke ändern das Bild."
+    },
+    {
+      "id": "mcq_2_7",
+      "type": "mcq",
+      "question": "Farbe von 'Ereignisse'?",
+      "options": [
+        "Gelb",
+        "Blau",
+        "Grün",
+        "Rot"
+      ],
+      "answer": "Gelb",
+      "explanation": "Gelbe Blöcke sind Starter."
+    },
+    {
+      "id": "mcq_2_8",
+      "type": "mcq",
+      "question": "Reihenfolge der Blöcke?",
+      "options": [
+        "Oben nach unten",
+        "Unten nach oben",
+        "Zufall",
+        "Gar nicht"
+      ],
+      "answer": "Oben nach unten",
+      "explanation": "Nacheinander abarbeiten."
+    },
+    {
+      "id": "mcq_2_9",
+      "type": "mcq",
+      "question": "Was ist ein Parameter?",
+      "options": [
+        "Wert im Block",
+        "Name vom PC",
+        "Ein Kabel",
+        "Ein Monitor"
+      ],
+      "answer": "Wert im Block",
+      "explanation": "Die Zahl oder der Text im Feld."
+    },
+    {
+      "id": "mcq_2_10",
+      "type": "mcq",
+      "question": "Was ist ein Reporter?",
+      "options": [
+        "Runder Block",
+        "Eckiger Block",
+        "Hut-Block",
+        "C-Block"
+      ],
+      "answer": "Runder Block",
+      "explanation": "Er gibt einen Wert zurück."
+    },
+    {
+      "id": "mcq_2_11",
+      "type": "mcq",
+      "question": "Sechseckiger Block?",
+      "options": [
+        "Bedingung",
+        "Start",
+        "Ende",
+        "Zahl"
+      ],
+      "answer": "Bedingung",
+      "explanation": "Wahr oder Falsch Frage."
+    },
+    {
+      "id": "mcq_2_12",
+      "type": "mcq",
+      "question": "Blöcke trennen?",
+      "options": [
+        "Auseinanderziehen",
+        "Schneiden",
+        "Löschen",
+        "Anklicken"
+      ],
+      "answer": "Auseinanderziehen",
+      "explanation": "Einfach wegziehen."
+    },
+    {
+      "id": "mcq_2_13",
+      "type": "mcq",
+      "question": "Was ist 'Warten'?",
+      "options": [
+        "Pause",
+        "Start",
+        "Ende",
+        "Bewegung"
+      ],
+      "answer": "Pause",
+      "explanation": "Pausiert das Skript."
+    },
+    {
+      "id": "mcq_2_14",
+      "type": "mcq",
+      "question": "Was ist 'Wiederhole'?",
+      "options": [
+        "Schleife",
+        "Start",
+        "Ende",
+        "Name"
+      ],
+      "answer": "Schleife",
+      "explanation": "Macht Dinge mehrmals."
+    },
+    {
+      "id": "mcq_2_15",
+      "type": "mcq",
+      "question": "Was ist 'Falls'?",
+      "options": [
+        "Entscheidung",
+        "Zahl",
+        "Bild",
+        "Ton"
+      ],
+      "answer": "Entscheidung",
+      "explanation": "Prüft eine Regel."
+    },
+    {
+      "id": "mcq_2_16",
+      "type": "mcq",
+      "question": "Kommentare einfügen?",
+      "options": [
+        "Ja, zur Erklärung",
+        "Nein",
+        "Nur für Profis",
+        "Nur im Bild"
+      ],
+      "answer": "Ja, zur Erklärung",
+      "explanation": "Hilft anderen zu verstehen."
+    },
+    {
+      "id": "mcq_2_17",
+      "type": "mcq",
+      "question": "Was ist ein Bug?",
+      "options": [
+        "Fehler",
+        "Käfer",
+        "Name",
+        "Block"
+      ],
+      "answer": "Fehler",
+      "explanation": "Wenn etwas nicht klappt."
+    },
+    {
+      "id": "mcq_2_18",
+      "type": "mcq",
+      "question": "Debugging?",
+      "options": [
+        "Fehlersuche",
+        "Malen",
+        "Spielen",
+        "Drucken"
+      ],
+      "answer": "Fehlersuche",
+      "explanation": "Fehler finden und beheben."
+    },
+    {
+      "id": "mcq_2_19",
+      "type": "mcq",
+      "question": "Blöcke duplizieren?",
+      "options": [
+        "Rechtsklick",
+        "Linksklick",
+        "Tastatur",
+        "Gar nicht"
+      ],
+      "answer": "Rechtsklick",
+      "explanation": "Kopiert das Skript."
+    },
+    {
+      "id": "mcq_2_20",
+      "type": "mcq",
+      "question": "Was ist 'Stoppe'?",
+      "options": [
+        "Beendet Skript",
+        "Startet neu",
+        "Macht Musik",
+        "Wartet"
+      ],
+      "answer": "Beendet Skript",
+      "explanation": "Ein Endblock."
+    },
+    {
+      "id": "mcq_2_21",
+      "type": "mcq",
+      "question": "Farbe von 'Steuerung'?",
+      "options": [
+        "Orange",
+        "Blau",
+        "Grün",
+        "Gelb"
+      ],
+      "answer": "Orange",
+      "explanation": "Dort sind Schleifen."
+    },
+    {
+      "id": "mcq_2_22",
+      "type": "mcq",
+      "question": "Farbe von 'Fühlen'?",
+      "options": [
+        "Hellblau",
+        "Lila",
+        "Grün",
+        "Rot"
+      ],
+      "answer": "Hellblau",
+      "explanation": "Interaktion mit Maus/Tasten."
+    },
+    {
+      "id": "mcq_2_23",
+      "type": "mcq",
+      "question": "Kann man Blöcke stapeln?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur zwei",
+        "Nur zehn"
+      ],
+      "answer": "Ja",
+      "explanation": "So baut man Programme."
+    },
+    {
+      "id": "mcq_2_24",
+      "type": "mcq",
+      "question": "Was ist eine Nachricht?",
+      "options": [
+        "Signal an andere Sprites",
+        "E-Mail",
+        "Postkarte",
+        "SMS"
+      ],
+      "answer": "Signal an andere Sprites",
+      "explanation": "Kommunikation zwischen Figuren."
+    },
+    {
+      "id": "mcq_2_25",
+      "type": "mcq",
+      "question": "Was ist 'Sende'?",
+      "options": [
+        "Nachricht schicken",
+        "Bild malen",
+        "Ton aus",
+        "PC aus"
+      ],
+      "answer": "Nachricht schicken",
+      "explanation": "Löst andere Skripte aus."
+    },
+    {
+      "id": "typing_2_1",
+      "type": "typing",
+      "text": "Ich klicke meine Blöcke zusammen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_2",
+      "type": "typing",
+      "text": "Blaue Blöcke sind für die Bewegung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_3",
+      "type": "typing",
+      "text": "Ein Skript ist eine Folge von Befehlen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_4",
+      "type": "typing",
+      "text": "Ich kann Blöcke auch wieder löschen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_5",
+      "type": "typing",
+      "text": "Gelbe Blöcke starten mein Programm.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_6",
+      "type": "typing",
+      "text": "Wir programmieren Schritt für Schritt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_7",
+      "type": "typing",
+      "text": "Farben helfen uns bei der Suche.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_8",
+      "type": "typing",
+      "text": "Jeder Block hat eine eigene Aufgabe.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_9",
+      "type": "typing",
+      "text": "Ich finde Fehler in meinem Skript.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_2_10",
+      "type": "typing",
+      "text": "Viel Erfolg beim Programmieren heute.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Sprites",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Costume' in Scratch?",
+      "options": [
+        "A different look for a sprite",
+        "Clothes for the user",
+        "A background image",
+        "A type of code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you add a new sprite?",
+      "options": [
+        "Click 'Choose a Sprite'",
+        "Click 'New Code'",
+        "Restart Scratch",
+        "Type 'Sprite'"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the sprite list located?",
+      "options": [
+        "Below the stage",
+        "Above the code",
+        "In the sounds tab",
+        "Inside the backpack"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you rename a sprite?",
+      "options": [
+        "Type in the 'Sprite' box",
+        "Right-click and Rename",
+        "Click the sprite's nose",
+        "You cannot rename it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Size' setting do?",
+      "options": [
+        "Changes how big the sprite is",
+        "Changes the stage size",
+        "Changes the code font",
+        "Changes the volume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you hide a sprite on the stage?",
+      "options": [
+        "Click the 'eye' icon with a line",
+        "Delete it",
+        "Move it to (999,999)",
+        "Turn off the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Direction' setting for?",
+      "options": [
+        "Tells which way the sprite faces",
+        "Changes the sprite's speed",
+        "Changes the sprite's color",
+        "Moves the sprite to (0,0)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block changes a sprite to its next costume?",
+      "options": [
+        "Next costume",
+        "Switch look",
+        "Change dress",
+        "New image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a sprite have sound effects?",
+      "options": [
+        "Yes, in the Sounds tab",
+        "No, only music",
+        "Only the cat",
+        "Only if you record them"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a sprite?",
+      "options": [
+        "Click the trash can icon",
+        "Drag it to the trash",
+        "Press Backspace",
+        "All of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Library' in Scratch context?",
+      "options": [
+        "A collection of pre-made assets",
+        "Where you keep books",
+        "A special code block",
+        "The Scratch server"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw your own costume?",
+      "options": [
+        "Yes, in the Paint editor",
+        "No, never",
+        "Only with a camera",
+        "Only if you are a pro"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool allows you to color a whole shape?",
+      "options": [
+        "Fill / Paint Bucket",
+        "Brush",
+        "Eraser",
+        "Line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Duplicate' do to a sprite?",
+      "options": [
+        "Makes an exact copy",
+        "Deletes it",
+        "Changes its color",
+        "Flips it upside down"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you flip a sprite horizontally in the editor?",
+      "options": [
+        "Flip Horizontal button",
+        "Turn it 180 degrees",
+        "Rotate the screen",
+        "Move it backwards"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are the X and Y boxes under the stage for?",
+      "options": [
+        "To set the sprite's position",
+        "To set the sprite's name",
+        "To set the sprite's color",
+        "To set the timer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can one sprite have many costumes?",
+      "options": [
+        "Yes, hundreds if needed",
+        "No, only one",
+        "Only two",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block changes the sprite's size by 10?",
+      "options": [
+        "Change size by 10",
+        "Set size to 10",
+        "Grow 10",
+        "Bigger 10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if a sprite is at 'Set size to 100%'?",
+      "options": [
+        "It is its normal size",
+        "It is very small",
+        "It is very big",
+        "It is invisible"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'center' of a costume?",
+      "options": [
+        "The point where it rotates",
+        "The top left corner",
+        "The color black",
+        "The sprite's feet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you upload your own image as a sprite?",
+      "options": [
+        "Click 'Upload Sprite' icon",
+        "Drag a file from desktop",
+        "Both A and B",
+        "You cannot"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What category is 'Switch costume to' in?",
+      "options": [
+        "Looks",
+        "Motion",
+        "Events",
+        "Sensing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block makes a sprite reappear?",
+      "options": [
+        "Show",
+        "Appear",
+        "Visible",
+        "Look at me"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you rotate a sprite 360 degrees?",
+      "options": [
+        "Yes",
+        "No, only 180",
+        "Only if it is a circle",
+        "Only with code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Ghost effect' do?",
+      "options": [
+        "Makes the sprite transparent",
+        "Makes it fly",
+        "Makes it scary",
+        "Deletes it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Costume",
+      "answer": "Costume"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sprite",
+      "answer": "Sprite"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Look",
+      "answer": "Look"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Change",
+      "answer": "Change"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Switch",
+      "answer": "Switch"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Design",
+      "answer": "Design"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Editor",
+      "answer": "Editor"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Hide",
+      "answer": "Hide"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Show",
+      "answer": "Show"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Graphic",
+      "answer": "Graphic"
+    }
+  ]
+}

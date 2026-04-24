@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Funcții în Scratch",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce sunt 'Blocurile mele' în Scratch?",
+        "options": [
+          "Funcții create de utilizator pentru a reutiliza codul",
+          "Blocuri de mișcare",
+          "Blocuri de sunet",
+          "Blocuri de control"
+        ],
+        "answer": "Funcții create de utilizator pentru a reutiliza codul"
+      },
+      {
+        "question": "Cum creăm un bloc nou?",
+        "options": [
+          "Butonul 'Creează un bloc' în My Blocks",
+          "Apăsăm Space",
+          "Îl desenăm",
+          "Nu se poate"
+        ],
+        "answer": "Butonul 'Creează un bloc' în My Blocks"
+      },
+      {
+        "question": "Ce este 'Definirea' unui bloc?",
+        "options": [
+          "Scrierea codului care spune ce face blocul",
+          "Darea unui nume",
+          "Ștergerea lui",
+          "Executarea lui"
+        ],
+        "answer": "Scrierea codului care spune ce face blocul"
+      },
+      {
+        "question": "De ce folosim funcții?",
+        "options": [
+          "Pentru a evita repetarea codului și a-l organiza mai bine",
+          "Pentru a face codul mai lung",
+          "Pentru a încetini programul",
+          "Pentru a colora blocurile"
+        ],
+        "answer": "Pentru a evita repetarea codului și a-l organiza mai bine"
+      },
+      {
+        "question": "Ce este un 'argument' sau 'input' la un bloc?",
+        "options": [
+          "O valoare pe care o dăm blocului pentru a-și schimba comportamentul",
+          "O ceartă",
+          "O eroare",
+          "Un sunet"
+        ],
+        "answer": "O valoare pe care o dăm blocului pentru a-și schimba comportamentul"
+      },
+      {
+        "question": "Putem adăuga un input numeric la un bloc?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar dacă e 0",
+          "Doar dacă e 1"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Putem adăuga un input de tip text la un bloc?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar numele nostru",
+          "Doar în engleză"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce face opțiunea 'Rulează fără împrospătarea ecranului'?",
+        "options": [
+          "Execută codul instantaneu (fără animație vizibilă)",
+          "Oprește ecranul",
+          "Șterge ecranul",
+          "Face ecranul negru"
+        ],
+        "answer": "Execută codul instantaneu (fără animație vizibilă)"
+      },
+      {
+        "question": "Unde găsim blocurile pe care le-am creat?",
+        "options": [
+          "În categoria 'Blocurile mele' (roz)",
+          "În Mișcare",
+          "În Evenimente",
+          "În Control"
+        ],
+        "answer": "În categoria 'Blocurile mele' (roz)"
+      },
+      {
+        "question": "Putem folosi un bloc creat în mai multe scripturi?",
+        "options": [
+          "Da, de oricâte ori",
+          "Doar o dată",
+          "Doar într-un singur script",
+          "Nu"
+        ],
+        "answer": "Da, de oricâte ori"
+      },
+      {
+        "question": "Ce se întâmplă dacă ștergem blocul 'Definire'?",
+        "options": [
+          "Toate utilizările acelui bloc vor înceta să funcționeze",
+          "Nimic",
+          "Blocul se re-creează singur",
+          "Se schimbă fundalul"
+        ],
+        "answer": "Toate utilizările acelui bloc vor înceta să funcționeze"
+      },
+      {
+        "question": "Putem avea mai multe definiții pentru același bloc?",
+        "options": [
+          "Nu, doar una singură",
+          "Da, oricâte",
+          "Maxim două",
+          "Una pentru fiecare personaj"
+        ],
+        "answer": "Nu, doar una singură"
+      },
+      {
+        "question": "Cum se numește procesul de a împărți un program în funcții?",
+        "options": [
+          "Descompunere",
+          "Distrugere",
+          "Amestecare",
+          "Colorare"
+        ],
+        "answer": "Descompunere"
+      },
+      {
+        "question": "Putem adăuga un input de tip Boolean (Adevărat/Fals)?",
+        "options": [
+          "Da",
+          "Nu",
+          "Doar în Scratch 3.0",
+          "Doar în Scratch Desktop"
+        ],
+        "answer": "Da"
+      },
+      {
+        "question": "Ce este o funcție recursivă?",
+        "options": [
+          "O funcție care se apelează pe ea însăși",
+          "O funcție care merge înapoi",
+          "O funcție care doarme",
+          "O eroare"
+        ],
+        "answer": "O funcție care se apelează pe ea însăși"
+      },
+      {
+        "question": "Câte inputuri poate avea un bloc?",
+        "options": [
+          "Multe (până la limita ecranului)",
+          "Doar unul",
+          "Maxim 3",
+          "Niciunul"
+        ],
+        "answer": "Multe (până la limita ecranului)"
+      },
+      {
+        "question": "Putem redenumi un bloc după ce l-am creat?",
+        "options": [
+          "Nu direct, trebuie editat în meniul de creare",
+          "Da, oricând",
+          "Doar dacă îl ștergem",
+          "Doar prin e-mail"
+        ],
+        "answer": "Nu direct, trebuie editat în meniul de creare"
+      },
+      {
+        "question": "Blocurile mele sunt vizibile pentru toate personajele?",
+        "options": [
+          "Nu, sunt doar pentru personajul în care au fost create",
+          "Da, peste tot",
+          "Doar dacă le punem în rucsac",
+          "Doar pentru fundal"
+        ],
+        "answer": "Nu, sunt doar pentru personajul în care au fost create"
+      },
+      {
+        "question": "Ce culoare are categoria 'Blocurile mele'?",
+        "options": [
+          "Roz / Grena",
+          "Verde",
+          "Albastru",
+          "Portocaliu"
+        ],
+        "answer": "Roz / Grena"
+      },
+      {
+        "question": "Cum transmitem date unei funcții?",
+        "options": [
+          "Prin inputuri (parametri)",
+          "Prin sunete",
+          "Prin culori",
+          "Prin mișcare"
+        ],
+        "answer": "Prin inputuri (parametri)"
+      },
+      {
+        "question": "Ce face un bloc 'Sari' creat de noi?",
+        "options": [
+          "Ce scriem noi în definiția lui",
+          "Sare automat la tavan",
+          "Șterge personajul",
+          "Închide browserul"
+        ],
+        "answer": "Ce scriem noi în definiția lui"
+      },
+      {
+        "question": "De ce e util să numim clar funcțiile?",
+        "options": [
+          "Pentru ca oricine (inclusiv noi) să înțeleagă ce face codul",
+          "Pentru că e obligatoriu",
+          "Pentru a ocupa timp",
+          "Pentru a mări fișierul"
+        ],
+        "answer": "Pentru ca oricine (inclusiv noi) să înțeleagă ce face codul"
+      },
+      {
+        "question": "Pot funcțiile să returneze o valoare direct în Scratch?",
+        "options": [
+          "Nu direct ca în Python, dar pot seta o variabilă globală",
+          "Da, au un bloc return",
+          "Nu, funcțiile nu fac nimic",
+          "Doar numere"
+        ],
+        "answer": "Nu direct ca în Python, dar pot seta o variabilă globală"
+      },
+      {
+        "question": "Ce înseamnă modularitate?",
+        "options": [
+          "Construirea programului din piese (module) separate",
+          "Folosirea mouse-ului",
+          "Desenarea costumelor",
+          "Adăugarea sunetelor"
+        ],
+        "answer": "Construirea programului din piese (module) separate"
+      },
+      {
+        "question": "Sunt funcțiile esențiale pentru programe complexe?",
+        "options": [
+          "Da, fac codul mult mai ușor de gestionat",
+          "Nu, sunt doar de decor",
+          "Doar pentru jocuri 3D",
+          "Doar pentru profesori"
+        ],
+        "answer": "Da, fac codul mult mai ușor de gestionat"
+      }
+    ],
+    "typing": [
+      "funcție",
+      "bloc",
+      "definiție",
+      "parametru",
+      "argument",
+      "reutilizare",
+      "descompunere",
+      "input",
+      "modularitate",
+      "procedură"
+    ]
+  }
+}

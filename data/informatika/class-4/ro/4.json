@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Comenzi de mișcare",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce face blocul 'mergi 10 pași'?",
+        "options": [
+          "Mută personajul înainte",
+          "Îl rotește",
+          "Îl face să sară",
+          "Îl șterge"
+        ],
+        "answer": "Mută personajul înainte"
+      },
+      {
+        "question": "În ce direcție se mișcă personajul la 'mergi 10 pași'?",
+        "options": [
+          "În direcția în care privește",
+          "Spre dreapta mereu",
+          "Spre stânga mereu",
+          "Spre sus"
+        ],
+        "answer": "În direcția în care privește"
+      },
+      {
+        "question": "Cum întoarcem personajul la dreapta cu 15 grade?",
+        "options": [
+          "Blocul 'rotește-te la dreapta'",
+          "Blocul 'mergi'",
+          "Nu se poate",
+          "Întoarcem monitorul"
+        ],
+        "answer": "Blocul 'rotește-te la dreapta'"
+      },
+      {
+        "question": "Ce face blocul 'mergi la x:0 y:0'?",
+        "options": [
+          "Îl pune în centrul scenei",
+          "Îl pune în colț",
+          "Îl ascunde",
+          "Îl rotește"
+        ],
+        "answer": "Îl pune în centrul scenei"
+      },
+      {
+        "question": "Cum facem personajul să alunece lin spre o poziție?",
+        "options": [
+          "Blocul 'glisează'",
+          "Blocul 'mergi'",
+          "Blocul 'sari'",
+          "Blocul 'fugi'"
+        ],
+        "answer": "Blocul 'glisează'"
+      },
+      {
+        "question": "Ce face blocul 'dacă atingi marginea, ricoșează'?",
+        "options": [
+          "Se întoarce când atinge marginea",
+          "Se oprește",
+          "Dispăre",
+          "Se mărește"
+        ],
+        "answer": "Se întoarce când atinge marginea"
+      },
+      {
+        "question": "Cum fixăm stilul de rotație?",
+        "options": [
+          "Blocul 'setează stilul de rotație'",
+          "Nu se poate",
+          "Cu mouse-ul",
+          "Cu tastatura"
+        ],
+        "answer": "Blocul 'setează stilul de rotație'"
+      },
+      {
+        "question": "Ce înseamnă 'orientare spre 90' grade?",
+        "options": [
+          "Privirea spre dreapta",
+          "Privirea spre stânga",
+          "Privirea în sus",
+          "Privirea în jos"
+        ],
+        "answer": "Privirea spre dreapta"
+      },
+      {
+        "question": "Ce înseamnă 'orientare spre 0' grade?",
+        "options": [
+          "Privirea în sus",
+          "Privirea în jos",
+          "Privirea spre dreapta",
+          "Privirea spre stânga"
+        ],
+        "answer": "Privirea în sus"
+      },
+      {
+        "question": "Ce face blocul 'mergi la poziție aleatorie'?",
+        "options": [
+          "Îl mută oriunde pe scenă la întâmplare",
+          "Îl mută la mouse",
+          "Îl șterge",
+          "Îl dublează"
+        ],
+        "answer": "Îl mută oriunde pe scenă la întâmplare"
+      },
+      {
+        "question": "Cum creștem doar valoarea X a poziției?",
+        "options": [
+          "Blocul 'modifică x cu 10'",
+          "Blocul 'mergi'",
+          "Blocul 'modifică y'",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'modifică x cu 10'"
+      },
+      {
+        "question": "Cum creștem doar valoarea Y a poziției?",
+        "options": [
+          "Blocul 'modifică y cu 10'",
+          "Blocul 'mergi'",
+          "Blocul 'modifică x'",
+          "Nu se poate"
+        ],
+        "answer": "Blocul 'modifică y cu 10'"
+      },
+      {
+        "question": "Ce face 'mergi la indicator mouse'?",
+        "options": [
+          "Urmărește cursorul mouse-ului",
+          "Fuge de mouse",
+          "Oprește mouse-ul",
+          "Schimbă mouse-ul"
+        ],
+        "answer": "Urmărește cursorul mouse-ului"
+      },
+      {
+        "question": "Poate un personaj să iasă de tot de pe scenă?",
+        "options": [
+          "De obicei marginea îl oprește parțial",
+          "Da, dispar de tot",
+          "Nu, niciodată",
+          "Doar dacă vrea"
+        ],
+        "answer": "De obicei marginea îl oprește parțial"
+      },
+      {
+        "question": "Ce reprezintă valoarea negativă la 'mergi (-10) pași'?",
+        "options": [
+          "Mersul înapoi",
+          "Mersul mai rapid",
+          "Mersul în sus",
+          "Mersul în jos"
+        ],
+        "answer": "Mersul înapoi"
+      },
+      {
+        "question": "Care este valoarea maximă pentru X pe scenă (aproximativ)?",
+        "options": [
+          "240",
+          "100",
+          "500",
+          "1000"
+        ],
+        "answer": "240"
+      },
+      {
+        "question": "Care este valoarea minimă pentru Y pe scenă (aproximativ)?",
+        "options": [
+          "-180",
+          "0",
+          "-500",
+          "-100"
+        ],
+        "answer": "-180"
+      },
+      {
+        "question": "Ce face 'orientare spre personaj 1'?",
+        "options": [
+          "Se întoarce spre acel personaj",
+          "Fuge de el",
+          "Îl salută",
+          "Se transformă în el"
+        ],
+        "answer": "Se întoarce spre acel personaj"
+      },
+      {
+        "question": "Ce culoare au toate blocurile de mișcare?",
+        "options": [
+          "Albastru",
+          "Sânge",
+          "Iarbă",
+          "Soare"
+        ],
+        "answer": "Albastru"
+      },
+      {
+        "question": "Putem mișca fundalul cu blocuri de mișcare?",
+        "options": [
+          "Nu, fundalul nu are blocuri de mișcare",
+          "Da, la fel ca personajele",
+          "Doar dacă e fundal special",
+          "Doar în Scratch 1.0"
+        ],
+        "answer": "Nu, fundalul nu are blocuri de mișcare"
+      },
+      {
+        "question": "Ce face blocul 'setează x la 100'?",
+        "options": [
+          "Îl pune exact la coloana 100",
+          "Îl mută cu 100 de pași",
+          "Îl face de mărime 100",
+          "Nu face nimic"
+        ],
+        "answer": "Îl pune exact la coloana 100"
+      },
+      {
+        "question": "Ce face blocul 'setează y la 50'?",
+        "options": [
+          "Îl pune exact la rândul 50",
+          "Îl ridică cu 50",
+          "Îl rotește cu 50",
+          "Îl ascunde"
+        ],
+        "answer": "Îl pune exact la rândul 50"
+      },
+      {
+        "question": "Cum facem personajul să se uite la mouse mereu?",
+        "options": [
+          "Ciclul la infinit + 'orientare spre mouse'",
+          "Blocul 'mergi'",
+          "Nu se poate",
+          "Cu un sunet"
+        ],
+        "answer": "Ciclul la infinit + 'orientare spre mouse'"
+      },
+      {
+        "question": "Ce se întâmplă dacă stilul de rotație este 'stânga-dreapta'?",
+        "options": [
+          "Nu se mai vede răsturnat",
+          "Nu se mai mișcă",
+          "Se mișcă doar în sus",
+          "Se rotește rapid"
+        ],
+        "answer": "Nu se mai vede răsturnat"
+      },
+      {
+        "question": "Putem vedea valorile X și Y pe ecran?",
+        "options": [
+          "Da, bifând căsuțele din dreptul blocurilor",
+          "Nu",
+          "Doar dacă le scriem",
+          "Doar la final"
+        ],
+        "answer": "Da, bifând căsuțele din dreptul blocurilor"
+      }
+    ],
+    "typing": [
+      "mișcare",
+      "pași",
+      "rotație",
+      "glisare",
+      "coordonate",
+      "centru",
+      "direcție",
+      "margine",
+      "ricoșeu",
+      "poziție"
+    ]
+  }
+}

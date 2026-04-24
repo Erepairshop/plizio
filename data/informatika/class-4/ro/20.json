@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Securitatea site-urilor web",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce este o parolă sigură?",
+        "options": [
+          "Lungă, cu litere mari/mici, cifre și simboluri",
+          "Numele meu123",
+          "123456",
+          "parola"
+        ],
+        "answer": "Lungă, cu litere mari/mici, cifre și simboluri"
+      },
+      {
+        "question": "De ce nu trebuie să dăm parola nimănui?",
+        "options": [
+          "Pentru ca alții să nu ne poată fura identitatea sau datele",
+          "Pentru că e un secret plictisitor",
+          "Pentru că uităm",
+          "Pentru că e scurtă"
+        ],
+        "answer": "Pentru ca alții să nu ne poată fura identitatea sau datele"
+      },
+      {
+        "question": "Ce înseamnă simbolul 'lacăt' de lângă adresa site-ului?",
+        "options": [
+          "Conexiunea este securizată (HTTPS)",
+          "Site-ul este închis",
+          "Ai nevoie de cheie fizică",
+          "E o eroare"
+        ],
+        "answer": "Conexiunea este securizată (HTTPS)"
+      },
+      {
+        "question": "Ce este 'Phishing-ul'?",
+        "options": [
+          "Încercarea de a păcăli pe cineva să-și dea datele prin mesaje false",
+          "Pescuitul pe lac",
+          "Un joc cu pești",
+          "O metodă de a mări viteza netului"
+        ],
+        "answer": "Încercarea de a păcăli pe cineva să-și dea datele prin mesaje false"
+      },
+      {
+        "question": "Ce facem dacă primim un mesaj de la un străin care ne cere poze sau adresa?",
+        "options": [
+          "Nu răspundem și blocăm, anunțăm părinții",
+          "Îi dăm datele",
+          "Îi trimitem o glumă",
+          "Îl întrebăm cum îl cheamă"
+        ],
+        "answer": "Nu răspundem și blocăm, anunțăm părinții"
+      },
+      {
+        "question": "Ce este un virus de calculator?",
+        "options": [
+          "Un program periculos care poate strica datele sau spiona",
+          "O boală pe care o iau oamenii",
+          "O piesă stricată",
+          "O imagine urâtă"
+        ],
+        "answer": "Un program periculos care poate strica datele sau spiona"
+      },
+      {
+        "question": "Cum ne protejăm de viruși?",
+        "options": [
+          "Folosim un antivirus și nu descărcăm fișiere dubioase",
+          "Spălăm monitorul",
+          "Nu pornim PC-ul",
+          "Țipăm la el"
+        ],
+        "answer": "Folosim un antivirus și nu descărcăm fișiere dubioase"
+      },
+      {
+        "question": "Ce este un 'pop-up'?",
+        "options": [
+          "O fereastră care apare brusc (adesea cu reclame)",
+          "Un stil de muzică",
+          "O băutură",
+          "Un personaj de desene"
+        ],
+        "answer": "O fereastră care apare brusc (adesea cu reclame)"
+      },
+      {
+        "question": "Este sigur să ne conectăm la Wi-Fi public fără parolă?",
+        "options": [
+          "Nu prea, datele noastre pot fi interceptate mai ușor",
+          "Da, e gratuit și bun",
+          "Doar dacă suntem în parc",
+          "Doar dacă avem telefon"
+        ],
+        "answer": "Nu prea, datele noastre pot fi interceptate mai ușor"
+      },
+      {
+        "question": "Ce sunt 'datele personale'?",
+        "options": [
+          "Numele, adresa, școala, numărul de telefon",
+          "Jocurile preferate",
+          "Culoarea ochilor",
+          "Muzica ascultată"
+        ],
+        "answer": "Numele, adresa, școala, numărul de telefon"
+      },
+      {
+        "question": "Ce înseamnă 'Digital Footprint' (amprenta digitală)?",
+        "options": [
+          "Urmele lăsate de noi pe internet prin activitatea noastră",
+          "O poză cu piciorul",
+          "O eroare de tastatură",
+          "O metodă de scanare"
+        ],
+        "answer": "Urmele lăsate de noi pe internet prin activitatea noastră"
+      },
+      {
+        "question": "Putem șterge complet ceva de pe internet?",
+        "options": [
+          "Este foarte greu, aproape imposibil odată ce a fost partajat",
+          "Da, butonul Delete",
+          "Da, dacă închidem netul",
+          "Da, marțea"
+        ],
+        "answer": "Este foarte greu, aproape imposibil odată ce a fost partajat"
+      },
+      {
+        "question": "Ce este un 'firewall'?",
+        "options": [
+          "Un zid de protecție între calculator și internet",
+          "Un foc în birou",
+          "O eroare de monitor",
+          "O tastatură fierbinte"
+        ],
+        "answer": "Un zid de protecție între calculator și internet"
+      },
+      {
+        "question": "Ce facem înainte de a descărca un joc nou?",
+        "options": [
+          "Întrebăm un adult și verificăm dacă sursa e oficială",
+          "Îl descărcăm imediat",
+          "Închidem antivirusul",
+          "Dăm click pe toate reclamele"
+        ],
+        "answer": "Întrebăm un adult și verificăm dacă sursa e oficială"
+      },
+      {
+        "question": "Ce înseamnă 2FA (autentificare în doi pași)?",
+        "options": [
+          "O metodă extra de securitate (ex. cod pe telefon)",
+          "Doi programatori",
+          "Două parole la fel",
+          "Două calculatoare"
+        ],
+        "answer": "O metodă extra de securitate (ex. cod pe telefon)"
+      },
+      {
+        "question": "Ce facem dacă cineva ne jignește online (Cyberbullying)?",
+        "options": [
+          "Blocăm, raportăm și vorbim cu un adult de încredere",
+          "Îl jignim și noi",
+          "Nu facem nimic",
+          "Ștergem tot internetul"
+        ],
+        "answer": "Blocăm, raportăm și vorbim cu un adult de încredere"
+      },
+      {
+        "question": "Este bine să postăm poze cu prietenii fără să-i întrebăm?",
+        "options": [
+          "Nu, trebuie să le respectăm intimitatea",
+          "Da, sunt prietenii mei",
+          "Doar dacă ies bine în poză",
+          "Doar dacă avem multe like-uri"
+        ],
+        "answer": "Nu, trebuie să le respectăm intimitatea"
+      },
+      {
+        "question": "Ce este un 'update' (actualizare) de securitate?",
+        "options": [
+          "O reparare a programelor pentru a bloca noi pericole",
+          "O poză nouă",
+          "O muzică nouă",
+          "O eroare"
+        ],
+        "answer": "O reparare a programelor pentru a bloca noi pericole"
+      },
+      {
+        "question": "Ce facem dacă browserul ne avertizează că un site e periculos?",
+        "options": [
+          "Îl părăsim imediat",
+          "Dăm click pe 'Continuă oricum'",
+          "Oprim curentul",
+          "Nu citim mesajul"
+        ],
+        "answer": "Îl părăsim imediat"
+      },
+      {
+        "question": "Ce înseamnă 'Cookies'?",
+        "options": [
+          "Mici fișiere de date salvate de site-uri în browser",
+          "Biscuiți",
+          "Viruși",
+          "Poze mici"
+        ],
+        "answer": "Mici fișiere de date salvate de site-uri în browser"
+      },
+      {
+        "question": "De ce sunt reclamele uneori periculoase?",
+        "options": [
+          "Pot conține link-uri către site-uri cu viruși",
+          "Sunt urâte",
+          "Sunt prea multe",
+          "Nu sunt periculoase"
+        ],
+        "answer": "Pot conține link-uri către site-uri cu viruși"
+      },
+      {
+        "question": "Putem avea încredere în concursuri care spun că ai câștigat un iPhone gratis?",
+        "options": [
+          "De obicei sunt păcăleli (scam)",
+          "Da, am noroc",
+          "Doar dacă scrie mare",
+          "Doar dacă e pe Facebook"
+        ],
+        "answer": "De obicei sunt păcăleli (scam)"
+      },
+      {
+        "question": "Ce este identitatea digitală?",
+        "options": [
+          "Cine suntem noi pe internet",
+          "Numele calculatorului",
+          "O poză",
+          "Un cod de bare"
+        ],
+        "answer": "Cine suntem noi pe internet"
+      },
+      {
+        "question": "Ce este un 'hacker'?",
+        "options": [
+          "Persoană care încearcă să spargă sisteme informatice",
+          "Un jucător bun",
+          "Un programator de jocuri",
+          "Un vânzător de PC-uri"
+        ],
+        "answer": "Persoană care încearcă să spargă sisteme informatice"
+      },
+      {
+        "question": "Siguranța online este o responsabilitate?",
+        "options": [
+          "Da, a noastră și a celor din jur",
+          "Nu, e doar a poliției",
+          "Nu, e doar a profesorilor",
+          "Nu e importantă"
+        ],
+        "answer": "Da, a noastră și a celor din jur"
+      }
+    ],
+    "typing": [
+      "securitate",
+      "parolă",
+      "protecție",
+      "privat",
+      "siguranță",
+      "identitate",
+      "lacăt",
+      "antivirus",
+      "atenție",
+      "respect"
+    ]
+  }
+}

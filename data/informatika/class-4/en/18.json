@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "HTML Basics",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Multi Link",
+        "Hyper Text Main Line"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is HTML used for?",
+      "options": [
+        "Creating the structure of websites",
+        "Editing photos",
+        "Calculating math",
+        "Playing music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the symbols like <html> or <p>?",
+      "options": [
+        "Tags",
+        "Blocks",
+        "Sprites",
+        "Links"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tag is used for the largest heading?",
+      "options": [
+        "<h1>",
+        "<h6>",
+        "<head>",
+        "<body>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you 'close' most HTML tags?",
+      "options": [
+        "By adding a forward slash / like </p>",
+        "By typing STOP",
+        "By deleting it",
+        "By clicking it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where does the visible content of a webpage go?",
+      "options": [
+        "Inside <body>",
+        "Inside <head>",
+        "Inside <title>",
+        "Inside <html>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tag starts a paragraph?",
+      "options": [
+        "<p>",
+        "<a>",
+        "<br>",
+        "<div>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the <title> tag for?",
+      "options": [
+        "The text shown in the browser tab",
+        "The biggest text on page",
+        "The author's name",
+        "A music file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tag is used for an image?",
+      "options": [
+        "<img>",
+        "<pic>",
+        "<photo>",
+        "<a>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What tag is used for a link (anchor)?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<u>",
+        "<url>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'href' in a link?",
+      "options": [
+        "The destination URL (address)",
+        "The color of the link",
+        "The name of the link",
+        "A type of tag"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does <ul> stand for?",
+      "options": [
+        "Unordered List (bullets)",
+        "Underline",
+        "Universal Link",
+        "User List"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does <li> stand for?",
+      "options": [
+        "List Item",
+        "Line",
+        "Link",
+        "Light"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'src' in an image tag?",
+      "options": [
+        "The source (file name or URL)",
+        "The size",
+        "The secret",
+        "The screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tag is used for the smallest heading?",
+      "options": [
+        "<h6>",
+        "<h1>",
+        "<h9>",
+        "<h4>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you see the HTML code of any website?",
+      "options": [
+        "Yes, by right-clicking and 'View Page Source'",
+        "No, it is a secret",
+        "Only if you are a hacker",
+        "Only on Thursdays"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Web Browser'?",
+      "options": [
+        "Software used to view websites (Chrome, Edge, etc.)",
+        "A type of website",
+        "A computer monitor",
+        "A sound effect"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is HTML a programming language?",
+      "options": [
+        "No, it's a markup language",
+        "Yes, just like Python",
+        "Yes, just like Scratch",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is CSS used for?",
+      "options": [
+        "Styling and layout (colors, fonts)",
+        "Structure",
+        "Logic",
+        "Databases"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the very first line of a modern HTML file?",
+      "options": [
+        "<!DOCTYPE html>",
+        "<html>",
+        "<start>",
+        "Hello"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tag makes text bold?",
+      "options": [
+        "<strong> or <b>",
+        "<i>",
+        "<u>",
+        "<big>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tag makes text italic?",
+      "options": [
+        "<em> or <i>",
+        "<b>",
+        "<u>",
+        "<small>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does <br> do?",
+      "options": [
+        "Inserts a line break",
+        "Makes text blue",
+        "Stops the page",
+        "Deletes a word"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you put a link inside a paragraph?",
+      "options": [
+        "Yes",
+        "No",
+        "Only at the end",
+        "Only for images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the <head> section for?",
+      "options": [
+        "Metadata and information about the page",
+        "Visible text",
+        "Images",
+        "Links"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: HTML",
+      "answer": "HTML"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Website",
+      "answer": "Website"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Tag",
+      "answer": "Tag"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Body",
+      "answer": "Body"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Header",
+      "answer": "Header"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Link",
+      "answer": "Link"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Image",
+      "answer": "Image"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Browser",
+      "answer": "Browser"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Text",
+      "answer": "Text"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Page",
+      "answer": "Page"
+    }
+  ]
+}

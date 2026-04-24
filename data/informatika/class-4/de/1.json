@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Einführung in Scratch",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_1_1",
+      "type": "mcq",
+      "question": "Was ist Scratch?",
+      "options": [
+        "Programmiersprache",
+        "Spiel",
+        "Video",
+        "Bild"
+      ],
+      "answer": "Programmiersprache",
+      "explanation": "Scratch ist zum Programmieren."
+    },
+    {
+      "id": "mcq_1_2",
+      "type": "mcq",
+      "question": "Wer hat es erfunden?",
+      "options": [
+        "MIT",
+        "Google",
+        "Apple",
+        "Microsoft"
+      ],
+      "answer": "MIT",
+      "explanation": "Das MIT Media Lab."
+    },
+    {
+      "id": "mcq_1_3",
+      "type": "mcq",
+      "question": "Was ist das Logo?",
+      "options": [
+        "Katze",
+        "Hund",
+        "Maus",
+        "Vogel"
+      ],
+      "answer": "Katze",
+      "explanation": "Die Scratch-Katze."
+    },
+    {
+      "id": "mcq_1_4",
+      "type": "mcq",
+      "question": "Woher kommt der Name?",
+      "options": [
+        "DJ-Technik",
+        "Kratzen",
+        "Laufen",
+        "Springen"
+      ],
+      "answer": "DJ-Technik",
+      "explanation": "Vom 'Scratchen' beim Mixen."
+    },
+    {
+      "id": "mcq_1_5",
+      "type": "mcq",
+      "question": "Ist Scratch kostenlos?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur für Schulen",
+        "Nur im Abo"
+      ],
+      "answer": "Ja",
+      "explanation": "Es ist ein Bildungsprojekt."
+    },
+    {
+      "id": "mcq_1_6",
+      "type": "mcq",
+      "question": "Was ist ein Sprite?",
+      "options": [
+        "Figur",
+        "Getränk",
+        "Block",
+        "Hintergrund"
+      ],
+      "answer": "Figur",
+      "explanation": "So heißen Objekte."
+    },
+    {
+      "id": "mcq_1_7",
+      "type": "mcq",
+      "question": "Was ist die Bühne?",
+      "options": [
+        "Anzeigebereich",
+        "Tastatur",
+        "Maus",
+        "Monitor"
+      ],
+      "answer": "Anzeigebereich",
+      "explanation": "Dort sieht man das Ergebnis."
+    },
+    {
+      "id": "mcq_1_8",
+      "type": "mcq",
+      "question": "Was ist ein Skript?",
+      "options": [
+        "Folge von Blöcken",
+        "Einzelner Block",
+        "Name",
+        "Farbe"
+      ],
+      "answer": "Folge von Blöcken",
+      "explanation": "Blöcke bilden Skripte."
+    },
+    {
+      "id": "mcq_1_9",
+      "type": "mcq",
+      "question": "Was ist ein Block?",
+      "options": [
+        "Befehl",
+        "Bild",
+        "Ton",
+        "Fehler"
+      ],
+      "answer": "Befehl",
+      "explanation": "Jeder Block ist ein Befehl."
+    },
+    {
+      "id": "mcq_1_10",
+      "type": "mcq",
+      "question": "Wo sind die Blöcke?",
+      "options": [
+        "Block-Palette",
+        "Bühne",
+        "Rucksack",
+        "Menü"
+      ],
+      "answer": "Block-Palette",
+      "explanation": "Dort wählt man sie aus."
+    },
+    {
+      "id": "mcq_1_11",
+      "type": "mcq",
+      "question": "Was macht die grüne Fahne?",
+      "options": [
+        "Startet Projekt",
+        "Stoppt Projekt",
+        "Löscht alles",
+        "Speichert"
+      ],
+      "answer": "Startet Projekt",
+      "explanation": "Sie ist das Startsignal."
+    },
+    {
+      "id": "mcq_1_12",
+      "type": "mcq",
+      "question": "Was macht der rote Knopf?",
+      "options": [
+        "Stoppt Projekt",
+        "Startet Projekt",
+        "Macht Musik",
+        "Hilfe"
+      ],
+      "answer": "Stoppt Projekt",
+      "explanation": "Er beendet die Ausführung."
+    },
+    {
+      "id": "mcq_1_13",
+      "type": "mcq",
+      "question": "Kann man online speichern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur am PC",
+        "Nur mit USB"
+      ],
+      "answer": "Ja",
+      "explanation": "Mit einem Account geht das."
+    },
+    {
+      "id": "mcq_1_14",
+      "type": "mcq",
+      "question": "Was ist ein Kostüm?",
+      "options": [
+        "Aussehen",
+        "Befehl",
+        "Hintergrund",
+        "Variable"
+      ],
+      "answer": "Aussehen",
+      "explanation": "Figuren können Kostüme wechseln."
+    },
+    {
+      "id": "mcq_1_15",
+      "type": "mcq",
+      "question": "Was ist ein Hintergrund?",
+      "options": [
+        "Bild der Bühne",
+        "Name der Figur",
+        "Ein Ton",
+        "Ein Fehler"
+      ],
+      "answer": "Bild der Bühne",
+      "explanation": "Die Bühne hat Hintergründe."
+    },
+    {
+      "id": "mcq_1_16",
+      "type": "mcq",
+      "question": "Was ist ein Projekt?",
+      "options": [
+        "Dein Programm",
+        "Der Computer",
+        "Die Tastatur",
+        "Das Internet"
+      ],
+      "answer": "Dein Programm",
+      "explanation": "Alles zusammen ist ein Projekt."
+    },
+    {
+      "id": "mcq_1_17",
+      "type": "mcq",
+      "question": "Kann man Scratch teilen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit Erlaubnis",
+        "Nur am Montag"
+      ],
+      "answer": "Ja",
+      "explanation": "Man kann es veröffentlichen."
+    },
+    {
+      "id": "mcq_1_18",
+      "type": "mcq",
+      "question": "Gibt es Scratch in Deutsch?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Englisch",
+        "Nur Französisch"
+      ],
+      "answer": "Ja",
+      "explanation": "Es unterstützt viele Sprachen."
+    },
+    {
+      "id": "mcq_1_19",
+      "type": "mcq",
+      "question": "Was ist der Editor?",
+      "options": [
+        "Arbeitsbereich",
+        "Drucker",
+        "Mauspad",
+        "Kamera"
+      ],
+      "answer": "Arbeitsbereich",
+      "explanation": "Dort programmierst du."
+    },
+    {
+      "id": "mcq_1_20",
+      "type": "mcq",
+      "question": "Was ist ein Remix?",
+      "options": [
+        "Kopie mit Änderungen",
+        "Neues Bild",
+        "Ein Ton",
+        "Ein Fehler"
+      ],
+      "answer": "Kopie mit Änderungen",
+      "explanation": "Projekte von anderen verbessern."
+    },
+    {
+      "id": "mcq_1_21",
+      "type": "mcq",
+      "question": "Braucht man Strom?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur manchmal",
+        "Nur bei Sonne"
+      ],
+      "answer": "Ja",
+      "explanation": "Computer brauchen Strom."
+    },
+    {
+      "id": "mcq_1_22",
+      "type": "mcq",
+      "question": "Was ist Informatik?",
+      "options": [
+        "Wissenschaft der Daten",
+        "Sport",
+        "Kochen",
+        "Malen"
+      ],
+      "answer": "Wissenschaft der Daten",
+      "explanation": "Dazu gehört Programmieren."
+    },
+    {
+      "id": "mcq_1_23",
+      "type": "mcq",
+      "question": "Ist Scratch schwer?",
+      "options": [
+        "Nein, gut zum Lernen",
+        "Ja, unmöglich",
+        "Nur für Profis",
+        "Nur für Erwachsene"
+      ],
+      "answer": "Nein, gut zum Lernen",
+      "explanation": "Es ist für Einsteiger gemacht."
+    },
+    {
+      "id": "mcq_1_24",
+      "type": "mcq",
+      "question": "Kann man Töne aufnehmen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Profis",
+        "Nur mit CD"
+      ],
+      "answer": "Ja",
+      "explanation": "Es gibt ein Sound-Studio."
+    },
+    {
+      "id": "mcq_1_25",
+      "type": "mcq",
+      "question": "Was ist ein Algorithmus?",
+      "options": [
+        "Anleitung",
+        "Zahl",
+        "Buchstabe",
+        "Farbe"
+      ],
+      "answer": "Anleitung",
+      "explanation": "Ein Rezept für den Computer."
+    },
+    {
+      "id": "typing_1_1",
+      "type": "typing",
+      "text": "Ich lerne heute Scratch.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_2",
+      "type": "typing",
+      "text": "Die Katze ist mein Maskottchen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_3",
+      "type": "typing",
+      "text": "Programmieren macht viel Spaß.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_4",
+      "type": "typing",
+      "text": "Blöcke sind wie Bausteine.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_5",
+      "type": "typing",
+      "text": "Meine Figur kann tanzen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_6",
+      "type": "typing",
+      "text": "Ich starte mit der grünen Fahne.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_7",
+      "type": "typing",
+      "text": "Wir erstellen eigene Spiele.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_8",
+      "type": "typing",
+      "text": "Computer verstehen nur Befehle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_9",
+      "type": "typing",
+      "text": "Informatik ist super spannend.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_1_10",
+      "type": "typing",
+      "text": "Willkommen in der Welt der IT.",
+      "difficulty": "medium"
+    }
+  ]
+}

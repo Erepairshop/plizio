@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Labyrinth Game",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a 'Labyrinth' (Maze) game?",
+      "options": [
+        "A game where you find a path through walls",
+        "A shooter game",
+        "A racing game",
+        "A coloring app"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you stop a sprite from going through walls?",
+      "options": [
+        "If touching [Wall Color], move -5 steps",
+        "If touching [Wall Color], hide",
+        "Change background",
+        "Wait 1 second"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which sensing block is most useful for mazes?",
+      "options": [
+        "Touching color [ ]?",
+        "Distance to [ ]",
+        "Loudness",
+        "Timer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where should the player start in a maze?",
+      "options": [
+        "At the entrance (start point)",
+        "In the middle",
+        "At the exit",
+        "At a random spot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you detect if the player reached the end?",
+      "options": [
+        "If touching [Exit Sprite] or [Goal Color]",
+        "If time > 10",
+        "If score = 0",
+        "If cat clicked"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a good way to move the player in a maze?",
+      "options": [
+        "Arrow keys or WASD keys",
+        "Automatic movement",
+        "Mouse click only",
+        "Shouting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if a maze is too hard?",
+      "options": [
+        "Players get frustrated",
+        "The computer gets hot",
+        "The cat turns red",
+        "The score increases"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have 'Traps' in a labyrinth game?",
+      "options": [
+        "Yes, like moving spikes or lava",
+        "No, only walls",
+        "Only in the pro version",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block resets the player to the start?",
+      "options": [
+        "Go to X: [startPos] Y: [startPos]",
+        "Move 10 steps",
+        "Hide",
+        "Next backdrop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Level' in a maze game?",
+      "options": [
+        "A new maze design",
+        "The volume",
+        "The cat's name",
+        "The screen size"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make the walls?",
+      "options": [
+        "Draw them on the Backdrop or as a Sprite",
+        "Type 'Wall'",
+        "Use the 'Move' block",
+        "Click the screen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should the player sprite be smaller than the maze paths?",
+      "options": [
+        "Yes, otherwise it gets stuck",
+        "No, bigger is better",
+        "It doesn't matter",
+        "Only if it's blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you add a timer to a maze?",
+      "options": [
+        "Use a variable and a 'Wait 1 sec' loop",
+        "Ask the teacher",
+        "Change color",
+        "Move 10 steps"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Key' in a maze game?",
+      "options": [
+        "An item needed to open a door/exit",
+        "A button on the keyboard",
+        "A code block",
+        "A cat costume"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have moving enemies in a maze?",
+      "options": [
+        "Yes, using 'Glide' or 'Move' blocks",
+        "No",
+        "Only if you pay",
+        "Only in Scratch 1.4"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is 'Touching color?' in?",
+      "options": [
+        "Sensing",
+        "Looks",
+        "Control",
+        "Motion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is 'If touching [Wall] move back' better than 'Stop'?",
+      "options": [
+        "It prevents the sprite from getting 'stuck' inside the wall",
+        "It is faster",
+        "It looks cooler",
+        "It plays a sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you go to Level 2?",
+      "options": [
+        "Switch backdrop and reset player position",
+        "Delete the project",
+        "Winning is level 2",
+        "Buy it"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fog of War' in a maze?",
+      "options": [
+        "Only showing the area around the player",
+        "A mistake",
+        "A sound effect",
+        "A type of wall"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use the mouse to navigate a maze?",
+      "options": [
+        "Yes, with 'Go to mouse-pointer' but it's hard to stop at walls",
+        "No",
+        "Only if it is a wireless mouse",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which color should walls usually NOT be if the background is the same color?",
+      "options": [
+        "The same color as the background",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Collision'?",
+      "options": [
+        "When two things touch each other",
+        "Winning the game",
+        "Drawing a wall",
+        "A loud sound"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you make a 'Restart' button?",
+      "options": [
+        "A sprite that broadcasts 'Start' when clicked",
+        "Turn off the monitor",
+        "Press Space",
+        "Delete the code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is a labyrinth game a good project for beginners?",
+      "options": [
+        "Yes, it teaches conditions and movement",
+        "No, it's too hard",
+        "Only for adults",
+        "Only in Hungarian"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Goal'?",
+      "options": [
+        "The destination of the maze",
+        "A sound effect",
+        "A variable name",
+        "A sprite look"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Maze",
+      "answer": "Maze"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Path",
+      "answer": "Path"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Wall",
+      "answer": "Wall"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Goal",
+      "answer": "Goal"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Exit",
+      "answer": "Exit"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Key",
+      "answer": "Key"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Door",
+      "answer": "Door"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Move",
+      "answer": "Move"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Trap",
+      "answer": "Trap"
+    }
+  ]
+}

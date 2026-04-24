@@ -1,0 +1,392 @@
+{
+  "class": 4,
+  "theme": "Listen",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_8_1",
+      "type": "mcq",
+      "question": "Was ist eine Liste?",
+      "options": [
+        "Sammlung von Werten",
+        "Ein Bild",
+        "Ein Ton",
+        "Ein Kabel"
+      ],
+      "answer": "Sammlung von Werten",
+      "explanation": "Wie eine digitale Liste."
+    },
+    {
+      "id": "mcq_8_2",
+      "type": "mcq",
+      "question": "Was ist ein Item?",
+      "options": [
+        "Eintrag",
+        "Maus",
+        "Tastatur",
+        "Monitor"
+      ],
+      "answer": "Eintrag",
+      "explanation": "Ein Element der Liste."
+    },
+    {
+      "id": "mcq_8_3",
+      "type": "mcq",
+      "question": "Item hinzufügen?",
+      "options": [
+        "Füge hinzu Block",
+        "Lösche Block",
+        "Warte Block",
+        "Gehe Block"
+      ],
+      "answer": "Füge hinzu Block",
+      "explanation": "Erweitert die Liste."
+    },
+    {
+      "id": "mcq_8_4",
+      "type": "mcq",
+      "question": "Länge einer Liste?",
+      "options": [
+        "Anzahl der Items",
+        "Gewicht",
+        "Farbe",
+        "Name"
+      ],
+      "answer": "Anzahl der Items",
+      "explanation": "Wie viele drin sind."
+    },
+    {
+      "id": "mcq_8_5",
+      "type": "mcq",
+      "question": "Item löschen?",
+      "options": [
+        "Lösche Block",
+        "Füge hinzu",
+        "Zeige",
+        "Verstecke"
+      ],
+      "answer": "Lösche Block",
+      "explanation": "Entfernt einen Eintrag."
+    },
+    {
+      "id": "mcq_8_6",
+      "type": "mcq",
+      "question": "Alle löschen?",
+      "options": [
+        "Lösche alles",
+        "Lösche 1",
+        "Lösche 10",
+        "Zufall"
+      ],
+      "answer": "Lösche alles",
+      "explanation": "Macht die Liste leer."
+    },
+    {
+      "id": "mcq_8_7",
+      "type": "mcq",
+      "question": "Item an Position?",
+      "options": [
+        "Einfügen bei",
+        "Löschen",
+        "Warten",
+        "Drehen"
+      ],
+      "answer": "Einfügen bei",
+      "explanation": "An bestimmter Stelle."
+    },
+    {
+      "id": "mcq_8_8",
+      "type": "mcq",
+      "question": "Ersetze Item?",
+      "options": [
+        "Tauscht Wert aus",
+        "Löscht Wert",
+        "Macht Ton",
+        "Macht Bild"
+      ],
+      "answer": "Tauscht Wert aus",
+      "explanation": "Überschreiben."
+    },
+    {
+      "id": "mcq_8_9",
+      "type": "mcq",
+      "question": "Enthält Liste ...?",
+      "options": [
+        "Prüft Eintrag",
+        "Löscht Eintrag",
+        "Sucht PC",
+        "Macht Musik"
+      ],
+      "answer": "Prüft Eintrag",
+      "explanation": "Suchen-Funktion."
+    },
+    {
+      "id": "mcq_8_10",
+      "type": "mcq",
+      "question": "Was ist der Index?",
+      "options": [
+        "Die Nummer in der Liste",
+        "Die Farbe",
+        "Der Name",
+        "Der PC"
+      ],
+      "answer": "Die Nummer in der Liste",
+      "explanation": "Position (1, 2, 3...)."
+    },
+    {
+      "id": "mcq_8_11",
+      "type": "mcq",
+      "question": "Index des ersten Items?",
+      "options": [
+        "1",
+        "0",
+        "10",
+        "100"
+      ],
+      "answer": "1",
+      "explanation": "Scratch beginnt bei 1."
+    },
+    {
+      "id": "mcq_8_12",
+      "type": "mcq",
+      "question": "Index des letzten Items?",
+      "options": [
+        "Länge der Liste",
+        "0",
+        "1",
+        "Zufall"
+      ],
+      "answer": "Länge der Liste",
+      "explanation": "Die Gesamtzahl."
+    },
+    {
+      "id": "mcq_8_13",
+      "type": "mcq",
+      "question": "Item von Liste?",
+      "options": [
+        "Gibt Wert zurück",
+        "Löscht Wert",
+        "Ändert Wert",
+        "Wartet"
+      ],
+      "answer": "Gibt Wert zurück",
+      "explanation": "Reporter-Block."
+    },
+    {
+      "id": "mcq_8_14",
+      "type": "mcq",
+      "question": "Liste anzeigen?",
+      "options": [
+        "Häkchen setzen",
+        "Gar nicht",
+        "Nur im Skript",
+        "Nur am Ende"
+      ],
+      "answer": "Häkchen setzen",
+      "explanation": "Erscheint auf der Bühne."
+    },
+    {
+      "id": "mcq_8_15",
+      "type": "mcq",
+      "question": "Liste verstecken?",
+      "options": [
+        "Häkchen weg",
+        "PC aus",
+        "Monitor aus",
+        "Zufall"
+      ],
+      "answer": "Häkchen weg",
+      "explanation": "Wird unsichtbar."
+    },
+    {
+      "id": "mcq_8_16",
+      "type": "mcq",
+      "question": "Wofür nutzt man Listen?",
+      "options": [
+        "Inventar/Highscore",
+        "Nur zum Malen",
+        "Nur zum Schlafen",
+        "Nur zum Essen"
+      ],
+      "answer": "Inventar/Highscore",
+      "explanation": "Viele Daten speichern."
+    },
+    {
+      "id": "mcq_8_17",
+      "type": "mcq",
+      "question": "Kann Liste Text speichern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Zahlen",
+        "Nur Töne"
+      ],
+      "answer": "Ja",
+      "explanation": "Wörter sind möglich."
+    },
+    {
+      "id": "mcq_8_18",
+      "type": "mcq",
+      "question": "Kann Liste Zahlen speichern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur Wörter",
+        "Nur Bilder"
+      ],
+      "answer": "Ja",
+      "explanation": "Mathe-Werte."
+    },
+    {
+      "id": "mcq_8_19",
+      "type": "mcq",
+      "question": "Farbe der Listen-Blöcke?",
+      "options": [
+        "Dunkelrot/Dunkelorange",
+        "Blau",
+        "Lila",
+        "Grün"
+      ],
+      "answer": "Dunkelrot/Dunkelorange",
+      "explanation": "Unter Variablen."
+    },
+    {
+      "id": "mcq_8_20",
+      "type": "mcq",
+      "question": "Importieren aus Datei?",
+      "options": [
+        "Ja, per Rechtsklick",
+        "Nein",
+        "Nur am Handy",
+        "Nur am TV"
+      ],
+      "answer": "Ja, per Rechtsklick",
+      "explanation": "Daten laden."
+    },
+    {
+      "id": "mcq_8_21",
+      "type": "mcq",
+      "question": "Exportieren?",
+      "options": [
+        "Ja, als .txt",
+        "Nein",
+        "Nur am Drucker",
+        "Gar nicht"
+      ],
+      "answer": "Ja, als .txt",
+      "explanation": "Daten speichern."
+    },
+    {
+      "id": "mcq_8_22",
+      "type": "mcq",
+      "question": "Größe der Liste auf Bühne?",
+      "options": [
+        "Ecken ziehen",
+        "Gar nicht",
+        "Nur klein",
+        "Zufall"
+      ],
+      "answer": "Ecken ziehen",
+      "explanation": "Verstellbar."
+    },
+    {
+      "id": "mcq_8_23",
+      "type": "mcq",
+      "question": "Ist Liste eine Variable?",
+      "options": [
+        "Ja, eine besondere",
+        "Nein",
+        "Zufall",
+        "PC"
+      ],
+      "answer": "Ja, eine besondere",
+      "explanation": "Listenvariable."
+    },
+    {
+      "id": "mcq_8_24",
+      "type": "mcq",
+      "question": "Kann man Items mischen?",
+      "options": [
+        "Ja, per Code",
+        "Nein",
+        "Nur per Hand",
+        "Gar nicht"
+      ],
+      "answer": "Ja, per Code",
+      "explanation": "Zufall nutzen."
+    },
+    {
+      "id": "mcq_8_25",
+      "type": "mcq",
+      "question": "Was ist Item 1?",
+      "options": [
+        "Das erste Ding",
+        "Das letzte Ding",
+        "Das mittlere Ding",
+        "Zufall"
+      ],
+      "answer": "Das erste Ding",
+      "explanation": "Ganz oben."
+    },
+    {
+      "id": "typing_8_1",
+      "type": "typing",
+      "text": "Ich erstelle eine Liste mit meinen Lieblingsspielen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_2",
+      "type": "typing",
+      "text": "Füge die Zahl einhundert zur Liste hinzu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_3",
+      "type": "typing",
+      "text": "Lösche das erste Element aus der Sammlung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_4",
+      "type": "typing",
+      "text": "Die Liste zeigt mir alle meine Items an.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_5",
+      "type": "typing",
+      "text": "Der Index hilft mir beim Finden von Einträgen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_6",
+      "type": "typing",
+      "text": "Scratch kann sich viele Wörter in Listen merken.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_7",
+      "type": "typing",
+      "text": "Ich programmiere eine digitale Einkaufsliste.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_8",
+      "type": "typing",
+      "text": "Prüfe ob ein bestimmtes Wort in der Liste steht.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_9",
+      "type": "typing",
+      "text": "Daten sind sehr wichtig für moderne Computer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "typing_8_10",
+      "type": "typing",
+      "text": "Viel Spaß beim Arbeiten mit großen Tabellen.",
+      "difficulty": "medium"
+    }
+  ]
+}

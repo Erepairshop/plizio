@@ -1,0 +1,58 @@
+{
+  "class": 4,
+  "theme": "Algorithmen im Alltag",
+  "language": "de",
+  "tasks": [
+    {
+      "id": "mcq_24_1",
+      "type": "mcq",
+      "question": "Was ist ein Algorithmus?",
+      "options": [
+        "Schritt-Anleitung",
+        "Ein Tier",
+        "Ein Berg",
+        "Ein Ton"
+      ],
+      "answer": "Schritt-Anleitung",
+      "explanation": "Handlungsplan."
+    },
+    {
+      "id": "mcq_24_2",
+      "type": "mcq",
+      "question": "Beispiel Alltag?",
+      "options": [
+        "Kochrezept",
+        "Schlafen",
+        "Träumen",
+        "Zufall"
+      ],
+      "answer": "Kochrezept",
+      "explanation": "Klare Schritte."
+    },
+    {
+      "id": "typing_24_1",
+      "type": "typing",
+      "text": "Ein Algorithmus löst ein Problem in festen Schritten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "mcq_24_25",
+      "type": "mcq",
+      "question": "Computer-Programm?",
+      "options": [
+        "Ist ein Algorithmus",
+        "Nur ein Bild",
+        "Nur ein Ton",
+        "PC aus"
+      ],
+      "answer": "Ist ein Algorithmus",
+      "explanation": "In Code gegossen."
+    },
+    {
+      "id": "typing_24_10",
+      "type": "typing",
+      "text": "Wir programmieren heute einen Plan für den Roboter.",
+      "difficulty": "medium"
+    }
+  ]
+}

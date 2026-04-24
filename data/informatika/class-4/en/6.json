@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Events",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What color are Events blocks?",
+      "options": [
+        "Yellow/Orange",
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block starts most Scratch projects?",
+      "options": [
+        "When Green Flag clicked",
+        "When Space key pressed",
+        "When this sprite clicked",
+        "Start"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Broadcast'?",
+      "options": [
+        "A message sent to all sprites",
+        "A TV show",
+        "A loud sound",
+        "A way to delete code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block catches a broadcast message?",
+      "options": [
+        "When I receive [message]",
+        "Broadcast [message]",
+        "Say [message]",
+        "Wait for [message]"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use the Up Arrow key as an event?",
+      "options": [
+        "Yes, with 'When key pressed' block",
+        "No, only Space",
+        "Only if you use a gamepad",
+        "Only for the cat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you click the Stop sign?",
+      "options": [
+        "All scripts stop",
+        "The computer turns off",
+        "The project is deleted",
+        "A car stops"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Event' in programming?",
+      "options": [
+        "Something that triggers code to run",
+        "A party",
+        "A holiday",
+        "A mistake"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block runs code when you click a sprite?",
+      "options": [
+        "When this sprite clicked",
+        "If clicked",
+        "On click",
+        "Touch me"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can 'When I receive' blocks be in many sprites?",
+      "options": [
+        "Yes, many sprites can react to one message",
+        "No, only one",
+        "Only in the stage",
+        "Only in the backpack"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'When backdrop switches to' event for?",
+      "options": [
+        "Changing behavior in new levels",
+        "Moving the mouse",
+        "Playing music",
+        "Saving your work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block waits for a broadcast to finish before continuing?",
+      "options": [
+        "Broadcast [ ] and wait",
+        "Broadcast [ ]",
+        "Wait [ ] seconds",
+        "Stop all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'When loudness > 10' do?",
+      "options": [
+        "Triggers code if sound is loud",
+        "Makes the computer louder",
+        "Mutes the sound",
+        "Plays a song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a script have two 'When Green Flag clicked' blocks?",
+      "options": [
+        "Yes, they will both run",
+        "No, it will error",
+        "Only in one sprite",
+        "Only if they are different colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which key is the default for the 'When key pressed' block?",
+      "options": [
+        "Space",
+        "Enter",
+        "A",
+        "Up Arrow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What category is 'Broadcast' in?",
+      "options": [
+        "Events",
+        "Control",
+        "Sensing",
+        "Motion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Message' in Scratch?",
+      "options": [
+        "A label used for broadcasting",
+        "An email",
+        "A text message",
+        "A sound file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can the Backdrop send a broadcast?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is clicked",
+        "Only if it is red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which event happens when you use a microphone?",
+      "options": [
+        "When loudness > [ ]",
+        "When I shout",
+        "When noise",
+        "When mic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block starts code when the timer gets high?",
+      "options": [
+        "When timer > [ ]",
+        "If timer is big",
+        "After 10 seconds",
+        "Wait for timer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you create a new broadcast message?",
+      "options": [
+        "Click 'New message' in the dropdown",
+        "Type it in a Say block",
+        "Ask a teacher",
+        "You cannot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'When I receive' a hat-shaped block?",
+      "options": [
+        "Yes",
+        "No, it is square",
+        "No, it is a circle",
+        "It depends"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What event starts when you enter the project page?",
+      "options": [
+        "When Green Flag clicked",
+        "On Start",
+        "Enter Page",
+        "Hello"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT an event block?",
+      "options": [
+        "Move 10 steps",
+        "When space key pressed",
+        "When I receive message",
+        "When backdrop switches"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use letters like 'Z' for events?",
+      "options": [
+        "Yes",
+        "No, only arrows",
+        "No, only space",
+        "Only in Scratch 1.4"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why are events important?",
+      "options": [
+        "They let projects be interactive",
+        "They make code faster",
+        "They save memory",
+        "They change colors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Event",
+      "answer": "Event"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Broadcast",
+      "answer": "Broadcast"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Message",
+      "answer": "Message"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Receive",
+      "answer": "Receive"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Trigger",
+      "answer": "Trigger"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Flag",
+      "answer": "Flag"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Key",
+      "answer": "Key"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Start",
+      "answer": "Start"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Click",
+      "answer": "Click"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Timer",
+      "answer": "Timer"
+    }
+  ]
+}

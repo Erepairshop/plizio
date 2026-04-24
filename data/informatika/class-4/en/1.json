@@ -1,0 +1,332 @@
+{
+  "class": 4,
+  "theme": "Introduction to Scratch",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the 'Stage' in Scratch?",
+      "options": [
+        "Where the action happens",
+        "Where you write code",
+        "Where you save files",
+        "A place to sleep"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who is the mascot of Scratch?",
+      "options": [
+        "A dog",
+        "A cat",
+        "A bird",
+        "A robot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the characters in Scratch?",
+      "options": [
+        "Actors",
+        "Puppets",
+        "Sprites",
+        "Images"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find the programming blocks?",
+      "options": [
+        "Blocks Palette",
+        "Backdrop Library",
+        "Sounds Tab",
+        "Settings"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you start a project in Scratch?",
+      "options": [
+        "Click the Green Flag",
+        "Press the Red Button",
+        "Shout 'Go!'",
+        "Close the window"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a category of blocks in Scratch?",
+      "options": [
+        "Motion",
+        "Jump",
+        "Fly",
+        "Run"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Backdrop' refer to?",
+      "options": [
+        "The background image",
+        "The code script",
+        "A sprite costume",
+        "The volume level"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you have more than one sprite in a project?",
+      "options": [
+        "Yes, as many as you need",
+        "No, only one",
+        "Only two",
+        "Only if you pay"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the Scratch website URL ends with?",
+      "options": [
+        ".mit.edu",
+        ".com",
+        ".org",
+        ".gov"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you drag a block to the scripting area?",
+      "options": [
+        "It becomes part of your program",
+        "It gets deleted",
+        "It changes color",
+        "Nothing happens"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tab allows you to change how a sprite looks?",
+      "options": [
+        "Costumes",
+        "Code",
+        "Sounds",
+        "Files"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the coordinates center (0,0) in Scratch?",
+      "options": [
+        "The middle of the stage",
+        "The top left corner",
+        "The bottom right corner",
+        "The cat's nose"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you stop a Scratch project?",
+      "options": [
+        "Click the Red Stop sign",
+        "Click the Green Flag",
+        "Turn off the monitor",
+        "Press Space"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Motion blocks?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Purple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What color are Events blocks?",
+      "options": [
+        "Yellow",
+        "Orange",
+        "Blue",
+        "Red"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is used to wait for a few seconds?",
+      "options": [
+        "Wait 1 seconds",
+        "Sleep",
+        "Pause",
+        "Stop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Remix' in Scratch?",
+      "options": [
+        "A copy of a project you can change",
+        "A deleted project",
+        "A new account",
+        "A music file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you draw your own sprites in Scratch?",
+      "options": [
+        "Yes, using the Paint editor",
+        "No, only pre-made ones",
+        "Only if you use a camera",
+        "Only with a subscription"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the 'Save now' button located?",
+      "options": [
+        "In the File menu",
+        "Under the stage",
+        "In the sounds tab",
+        "On the keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the maximum X coordinate in Scratch?",
+      "options": [
+        "240",
+        "180",
+        "480",
+        "100"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the maximum Y coordinate in Scratch?",
+      "options": [
+        "180",
+        "240",
+        "360",
+        "90"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which block is needed to make a sprite follow the mouse?",
+      "options": [
+        "Go to mouse-pointer",
+        "Move to mouse",
+        "Follow me",
+        "Chase cursor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What block category is 'Say Hello' in?",
+      "options": [
+        "Looks",
+        "Sound",
+        "Motion",
+        "Control"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you delete a block?",
+      "options": [
+        "Drag it back to the palette",
+        "Right-click and delete",
+        "Press Delete key",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Is Scratch a block-based language?",
+      "options": [
+        "Yes",
+        "No, it is text-based",
+        "No, it is only for drawing",
+        "Maybe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Scratch",
+      "answer": "Scratch"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Sprite",
+      "answer": "Sprite"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Block",
+      "answer": "Block"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Stage",
+      "answer": "Stage"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Code",
+      "answer": "Code"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Flag",
+      "answer": "Flag"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Script",
+      "answer": "Script"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Motion",
+      "answer": "Motion"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Event",
+      "answer": "Event"
+    },
+    {
+      "type": "typing",
+      "question": "Type the word: Project",
+      "answer": "Project"
+    }
+  ]
+}

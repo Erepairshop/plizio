@@ -1,0 +1,271 @@
+{
+  "class": 4,
+  "theme": "Online kutatás",
+  "language": "ro",
+  "tasks": {
+    "mcq": [
+      {
+        "question": "Ce înseamnă cercetarea online?",
+        "options": [
+          "Căutarea de informații pe internet folosind diverse surse",
+          "Jocul pe internet",
+          "Vânzarea de obiecte",
+          "Vizionarea filmelor"
+        ],
+        "answer": "Căutarea de informații pe internet folosind diverse surse"
+      },
+      {
+        "question": "Ce este un 'motor de căutare'?",
+        "options": [
+          "Un site care te ajută să găsești informații (ex. Google)",
+          "O piesă de mașină",
+          "Un virus",
+          "O tastatură"
+        ],
+        "answer": "Un site care te ajută să găsești informații (ex. Google)"
+      },
+      {
+        "question": "Cum alegem cuvintele cheie (keywords)?",
+        "options": [
+          "Folosim cuvintele cele mai importante despre subiect",
+          "Scriem o poveste lungă",
+          "Punem doar puncte",
+          "Nu folosim cuvinte"
+        ],
+        "answer": "Folosim cuvintele cele mai importante despre subiect"
+      },
+      {
+        "question": "Toate informațiile de pe internet sunt adevărate?",
+        "options": [
+          "Nu, oricine poate posta orice, deci trebuie verificate",
+          "Da, absolut toate",
+          "Doar cele cu poze",
+          "Doar cele lungi"
+        ],
+        "answer": "Nu, oricine poate posta orice, deci trebuie verificate"
+      },
+      {
+        "question": "Ce este Wikipedia?",
+        "options": [
+          "O enciclopedie online colaborativă",
+          "Un magazin de pantofi",
+          "Un joc video",
+          "Un site de muzică"
+        ],
+        "answer": "O enciclopedie online colaborativă"
+      },
+      {
+        "question": "Cum verificăm dacă un site este de încredere?",
+        "options": [
+          "Vedem cine l-a scris, data și dacă are surse",
+          "După cât de colorat e",
+          "Dacă are jocuri pe el",
+          "Dacă are reclame multe"
+        ],
+        "answer": "Vedem cine l-a scris, data și dacă are surse"
+      },
+      {
+        "question": "Ce înseamnă 'Fake News'?",
+        "options": [
+          "Știri false create pentru a induce în eroare",
+          "Știri despre vedete",
+          "Știri noi",
+          "Știri din viitor"
+        ],
+        "answer": "Știri false create pentru a induce în eroare"
+      },
+      {
+        "question": "Ce facem dacă găsim informații diferite pe două site-uri?",
+        "options": [
+          "Mai căutăm pe al treilea și verificăm sursele oficiale",
+          "Credem primul site",
+          "Credem ultimul site",
+          "Le ștergem pe amândouă"
+        ],
+        "answer": "Mai căutăm pe al treilea și verificăm sursele oficiale"
+      },
+      {
+        "question": "Ce este o sursă primară?",
+        "options": [
+          "Informație direct de la martori sau documente originale",
+          "O poveste de la un prieten",
+          "O glumă",
+          "O poză editată"
+        ],
+        "answer": "Informație direct de la martori sau documente originale"
+      },
+      {
+        "question": "De ce e important să menționăm sursa?",
+        "options": [
+          "Pentru a respecta munca altora și a arăta de unde avem datele",
+          "Pentru a părea deștepți",
+          "Pentru a ocupa spațiu",
+          "E obligatoriu prin legea internetului"
+        ],
+        "answer": "Pentru a respecta munca altora și a arăta de unde avem datele"
+      },
+      {
+        "question": "Ce înseamnă să filtrezi informația?",
+        "options": [
+          "Să alegi doar ce e relevant și corect",
+          "Să o cureți cu apă",
+          "Să o colorezi",
+          "Să o trimiți la prieteni"
+        ],
+        "answer": "Să alegi doar ce e relevant și corect"
+      },
+      {
+        "question": "Putem folosi imagini găsite pe Google în proiectul nostru?",
+        "options": [
+          "Doar dacă avem permisiune sau sunt libere de drepturi",
+          "Da, orice e pe net e liber",
+          "Doar dacă le micșorăm",
+          "Doar dacă nu ne vede nimeni"
+        ],
+        "answer": "Doar dacă avem permisiune sau sunt libere de drepturi"
+      },
+      {
+        "question": "Ce este 'Creative Commons'?",
+        "options": [
+          "O licență care permite folosirea gratuită în anumite condiții",
+          "O echipă de fotbal",
+          "O firmă de calculatoare",
+          "Un virus"
+        ],
+        "answer": "O licență care permite folosirea gratuită în anumite condiții"
+      },
+      {
+        "question": "Cum căutăm o frază exactă pe Google?",
+        "options": [
+          "O punem între ghilimele (ex. 'istorie computer')",
+          "O scriem cu litere mari",
+          "O punem între paranteze",
+          "O scriem de 3 ori"
+        ],
+        "answer": "O punem între ghilimele (ex. 'istorie computer')"
+      },
+      {
+        "question": "Ce este 'plagiatul'?",
+        "options": [
+          "Copierea muncii altuia și prezentarea ei ca fiind a ta",
+          "Un tip de joc",
+          "O boală",
+          "O eroare de browser"
+        ],
+        "answer": "Copierea muncii altuia și prezentarea ei ca fiind a ta"
+      },
+      {
+        "question": "Care extensie de domeniu e de obicei pentru educație?",
+        "options": [
+          ".edu",
+          ".com",
+          ".net",
+          ".biz"
+        ],
+        "answer": ".edu"
+      },
+      {
+        "question": "Care extensie e de obicei pentru organizații non-profit?",
+        "options": [
+          ".org",
+          ".ro",
+          ".it",
+          ".shop"
+        ],
+        "answer": ".org"
+      },
+      {
+        "question": "Care extensie e pentru site-uri guvernamentale?",
+        "options": [
+          ".gov",
+          ".com",
+          ".store",
+          ".info"
+        ],
+        "answer": ".gov"
+      },
+      {
+        "question": "Ce este istoricul de navigare?",
+        "options": [
+          "Lista site-urilor pe care le-ai vizitat",
+          "O carte de istorie",
+          "O eroare de timp",
+          "Viitorul internetului"
+        ],
+        "answer": "Lista site-urilor pe care le-ai vizitat"
+      },
+      {
+        "question": "Ce este modul 'Incognito'?",
+        "options": [
+          "Browserul nu salvează istoricul vizitelor",
+          "Un mod de a deveni invizibil în realitate",
+          "Un virus periculos",
+          "Un joc de spionaj"
+        ],
+        "answer": "Browserul nu salvează istoricul vizitelor"
+      },
+      {
+        "question": "Putem găsi cărți întregi online?",
+        "options": [
+          "Da, în biblioteci digitale",
+          "Nu, doar poze",
+          "Doar dacă le cumpărăm fizic",
+          "Doar la televizor"
+        ],
+        "answer": "Da, în biblioteci digitale"
+      },
+      {
+        "question": "Ce facem dacă dăm peste un site periculos sau nepotrivit?",
+        "options": [
+          "Îl închidem imediat și anunțăm un adult",
+          "Ne uităm în continuare",
+          "Îl trimitem colegilor",
+          "Îl salvăm la favorite"
+        ],
+        "answer": "Îl închidem imediat și anunțăm un adult"
+      },
+      {
+        "question": "De ce e bine să folosim mai multe motoare de căutare?",
+        "options": [
+          "Pot oferi rezultate diferite și mai complete",
+          "Pentru că e plictisitor unul singur",
+          "Nu e bine, Google e singurul",
+          "Pentru a consuma trafic"
+        ],
+        "answer": "Pot oferi rezultate diferite și mai complete"
+      },
+      {
+        "question": "Ce este un 'bookmark' (semn de carte)?",
+        "options": [
+          "O salvare a unui site preferat pentru a-l găsi ușor",
+          "Un obiect din hârtie",
+          "O eroare de text",
+          "Un sunet"
+        ],
+        "answer": "O salvare a unui site preferat pentru a-l găsi ușor"
+      },
+      {
+        "question": "Este internetul o bibliotecă infinită?",
+        "options": [
+          "Seamănă, dar trebuie să fim critici cu ce găsim",
+          "Da, are tot adevărul lumii",
+          "Nu, e doar pentru jocuri",
+          "E doar o reclamă mare"
+        ],
+        "answer": "Seamănă, dar trebuie să fim critici cu ce găsim"
+      }
+    ],
+    "typing": [
+      "căutare",
+      "informație",
+      "verificare",
+      "sursă",
+      "internet",
+      "motor",
+      "ghilimele",
+      "subiect",
+      "site",
+      "adevăr"
+    ]
+  }
+}
