@@ -1,10 +1,8 @@
-import { projectCoordsBG } from "../maps/bulgaria.svg";
-
 export const bulgariaAllPoi = [
   {
     id: "bg-country",
     type: "country",
-    coords: projectCoordsBG(25.4858, 42.7339),
+    coords: [25.4858, 42.7339],
     name: {
       de: "Bulgarien",
       hu: "Bulgária",
@@ -35,7 +33,7 @@ export const bulgariaAllPoi = [
     id: "bg-sofia",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3219, 42.6977),
+    coords: [23.3219, 42.6977],
     name: {
       de: "Sofia",
       hu: "Szófia",
@@ -66,7 +64,7 @@ export const bulgariaAllPoi = [
     id: "bg-plovdiv",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(24.7453, 42.1421),
+    coords: [24.7453, 42.1421],
     name: {
       de: "Plowdiw",
       hu: "Plovdiv",
@@ -97,7 +95,7 @@ export const bulgariaAllPoi = [
     id: "bg-varna",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(27.9147, 43.2141),
+    coords: [27.9147, 43.2141],
     name: {
       de: "Warna",
       hu: "Várna",
@@ -128,7 +126,7 @@ export const bulgariaAllPoi = [
     id: "bg-rila",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3400, 42.1333),
+    coords: [23.3400, 42.1333],
     name: {
       de: "Rila-Kloster",
       hu: "Rilai kolostor",
@@ -153,7 +151,7 @@ export const bulgariaAllPoi = [
     id: "bg-veliko-tarnovo",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(25.6172, 43.0757),
+    coords: [25.6172, 43.0757],
     name: {
       de: "Weliko Tarnowo",
       hu: "Veliko Tarnovo",
@@ -178,7 +176,7 @@ export const bulgariaAllPoi = [
     id: "bg-bansko",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.4857, 41.8383),
+    coords: [23.4857, 41.8383],
     name: {
       de: "Bansko",
       hu: "Banszko",
@@ -203,7 +201,7 @@ export const bulgariaAllPoi = [
     id: "bg-nessebar",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(27.7360, 42.6593),
+    coords: [27.7360, 42.6593],
     name: {
       de: "Nessebar",
       hu: "Neszebar",
@@ -228,7 +226,7 @@ export const bulgariaAllPoi = [
     id: "bg-pirin",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.4000, 41.7500),
+    coords: [23.4000, 41.7500],
     name: {
       de: "Nationalpark Pirin",
       hu: "Pirin Nemzeti Park",
@@ -256,7 +254,7 @@ export const bulgariaCities = [
     id: "city-sofia",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3219, 42.6977),
+    coords: [23.3219, 42.6977],
     name: {
       de: "Sofia",
       hu: "Szófia",
@@ -281,7 +279,7 @@ export const bulgariaCities = [
     id: "city-plovdiv",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(24.7453, 42.1354),
+    coords: [24.7453, 42.1354],
     name: {
       de: "Plowdiw",
       hu: "Plovdiv",
@@ -306,7 +304,7 @@ export const bulgariaCities = [
     id: "city-varna",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(27.9147, 43.2141),
+    coords: [27.9147, 43.2141],
     name: {
       de: "Warna",
       hu: "Várna",
@@ -331,7 +329,7 @@ export const bulgariaCities = [
     id: "city-burgas",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(27.4626, 42.5048),
+    coords: [27.4626, 42.5048],
     name: {
       de: "Burgas",
       hu: "Burgasz",
@@ -356,7 +354,7 @@ export const bulgariaCities = [
     id: "city-veliko-tarnovo",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(25.6172, 43.0757),
+    coords: [25.6172, 43.0757],
     name: {
       de: "Weliko Tarnowo",
       hu: "Veliko Tarnovo",
@@ -381,7 +379,7 @@ export const bulgariaCities = [
     id: "city-vidin",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(22.8828, 43.9930),
+    coords: [22.8828, 43.9930],
     name: {
       de: "Vidin",
       hu: "Vidin",
@@ -406,7 +404,7 @@ export const bulgariaCities = [
     id: "city-vratsa",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.5588, 43.2105),
+    coords: [23.5588, 43.2105],
     name: {
       de: "Vratsa",
       hu: "Vraca",
@@ -431,7 +429,7 @@ export const bulgariaCities = [
     id: "city-shumen",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(26.9294, 43.2706),
+    coords: [26.9294, 43.2706],
     name: {
       de: "Schumen",
       hu: "Sumen",
@@ -456,7 +454,7 @@ export const bulgariaCities = [
     id: "city-dobrich",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(27.8300, 43.5667),
+    coords: [27.8300, 43.5667],
     name: {
       de: "Dobritsch",
       hu: "Dobrics",
@@ -481,7 +479,7 @@ export const bulgariaCities = [
     id: "city-sliven",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(26.3333, 42.6817),
+    coords: [26.3333, 42.6817],
     name: {
       de: "Sliwen",
       hu: "Szliven",
@@ -506,7 +504,7 @@ export const bulgariaCities = [
     id: "city-stara-zagora",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(25.6257, 42.4258),
+    coords: [25.6257, 42.4258],
     name: {
       de: "Stara Sagora",
       hu: "Sztara Zagora",
@@ -531,7 +529,7 @@ export const bulgariaCities = [
     id: "city-blagoevgrad",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.0920, 42.0209),
+    coords: [23.0920, 42.0209],
     name: {
       de: "Blagoewgrad",
       hu: "Blagoevgrad",
@@ -556,7 +554,7 @@ export const bulgariaCities = [
     id: "city-haskovo",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(25.5560, 41.9341),
+    coords: [25.5560, 41.9341],
     name: {
       de: "Haskowo",
       hu: "Haskovo",
@@ -581,7 +579,7 @@ export const bulgariaCities = [
     id: "city-pazardzhik",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(24.3336, 42.1928),
+    coords: [24.3336, 42.1928],
     name: {
       de: "Pasardschik",
       hu: "Pazardzsik",
@@ -606,7 +604,7 @@ export const bulgariaCities = [
     id: "city-pernik",
     type: "city",
     parent: "bg-country",
-    coords: projectCoordsBG(23.0200, 42.6050),
+    coords: [23.0200, 42.6050],
     name: {
       de: "Pernik",
       hu: "Pernik",
@@ -634,7 +632,7 @@ export const bulgariaCulture = [
     id: "cult-rila-monastery",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3405, 42.1333),
+    coords: [23.3405, 42.1333],
     name: {
       de: "Rila-Kloster",
       hu: "Rilai kolostor",
@@ -659,7 +657,7 @@ export const bulgariaCulture = [
     id: "cult-boyana",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.265, 42.6435),
+    coords: [23.265, 42.6435],
     name: {
       de: "Boyana-Kirche",
       hu: "Boyana templom",
@@ -684,7 +682,7 @@ export const bulgariaCulture = [
     id: "cult-nessebar",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(27.7269, 42.6587),
+    coords: [27.7269, 42.6587],
     name: {
       de: "Alt-Nessebar",
       hu: "Neszebár óváros",
@@ -709,7 +707,7 @@ export const bulgariaCulture = [
     id: "cult-kazanlak",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(25.3942, 42.6175),
+    coords: [25.3942, 42.6175],
     name: {
       de: "Thrakische Grabkammer von Kazanlak",
       hu: "Kazanlaki trák sír",
@@ -734,7 +732,7 @@ export const bulgariaCulture = [
     id: "cult-madara",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(27.1177, 43.2856),
+    coords: [27.1177, 43.2856],
     name: {
       de: "Madarareiter",
       hu: "Madarai lovas",
@@ -759,7 +757,7 @@ export const bulgariaCulture = [
     id: "hist-belogradchik-fortress",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(22.6848, 43.6257),
+    coords: [22.6848, 43.6257],
     name: {
       de: "Belogradtschik-Festung",
       hu: "Belogradcsik erőd",
@@ -784,7 +782,7 @@ export const bulgariaCulture = [
     id: "hist-tsarevets-fortress",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(25.6170, 43.0862),
+    coords: [25.6170, 43.0862],
     name: {
       de: "Zarewez-Festung",
       hu: "Carevec erőd",
@@ -809,7 +807,7 @@ export const bulgariaCulture = [
     id: "hist-perperikon",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(25.6465, 41.6760),
+    coords: [25.6465, 41.6760],
     name: {
       de: "Perperikon",
       hu: "Perperikon",
@@ -834,7 +832,7 @@ export const bulgariaCulture = [
     id: "hist-baba-vida",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(22.8890, 43.9950),
+    coords: [22.8890, 43.9950],
     name: {
       de: "Baba Vida",
       hu: "Baba Vida",
@@ -859,7 +857,7 @@ export const bulgariaCulture = [
     id: "hist-cherven-fortress",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(25.9700, 43.6340),
+    coords: [25.9700, 43.6340],
     name: {
       de: "Festung Tscherwen",
       hu: "Cserven erőd",
@@ -884,7 +882,7 @@ export const bulgariaCulture = [
     id: "hist-shipka-battlefield",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(25.4000, 42.7510),
+    coords: [25.4000, 42.7510],
     name: {
       de: "Schipka-Pass",
       hu: "Shipka-hágó",
@@ -909,7 +907,7 @@ export const bulgariaCulture = [
     id: "hist-nesebar-old-town",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(27.7360, 42.6591),
+    coords: [27.7360, 42.6591],
     name: {
       de: "Alt-Nesebar",
       hu: "Ó-Neszebar",
@@ -934,7 +932,7 @@ export const bulgariaCulture = [
     id: "hist-hisarya-fortress",
     type: "historical",
     parent: "bg-country",
-    coords: projectCoordsBG(24.7088, 42.5038),
+    coords: [24.7088, 42.5038],
     name: {
       de: "Hisarja-Ruinen",
       hu: "Hisarja erődromjai",
@@ -959,7 +957,7 @@ export const bulgariaCulture = [
     id: "land-alexander-nevsky-cathedral",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3325, 42.6951),
+    coords: [23.3325, 42.6951],
     name: {
       de: "Alexander-Newski-Kathedrale",
       hu: "Alekszandr Nyevszkij-székesegyház",
@@ -984,7 +982,7 @@ export const bulgariaCulture = [
     id: "land-national-palace-culture",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3206, 42.6809),
+    coords: [23.3206, 42.6809],
     name: {
       de: "Nationaler Kulturpalast",
       hu: "Nemzeti Kultúrpalota",
@@ -1009,7 +1007,7 @@ export const bulgariaCulture = [
     id: "land-ivan-vazov-theatre",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3240, 42.6938),
+    coords: [23.3240, 42.6938],
     name: {
       de: "Nationaltheater Iwan Wasow",
       hu: "Ivan Vazov Nemzeti Színház",
@@ -1034,7 +1032,7 @@ export const bulgariaCulture = [
     id: "land-central-mineral-baths",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3235, 42.6972),
+    coords: [23.3235, 42.6972],
     name: {
       de: "Zentralbäder Sofia",
       hu: "Szófia központi fürdői",
@@ -1059,7 +1057,7 @@ export const bulgariaCulture = [
     id: "land-ancient-theatre-plovdiv",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(24.7465, 42.1461),
+    coords: [24.7465, 42.1461],
     name: {
       de: "Antikes Theater Plowdiw",
       hu: "Plovdivi ókori színház",
@@ -1084,7 +1082,7 @@ export const bulgariaCulture = [
     id: "land-varna-archaeological-museum",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(27.9140, 43.2134),
+    coords: [27.9140, 43.2134],
     name: {
       de: "Archäologisches Museum Warna",
       hu: "Várnai Régészeti Múzeum",
@@ -1109,7 +1107,7 @@ export const bulgariaCulture = [
     id: "land-national-history-museum",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.2750, 42.6450),
+    coords: [23.2750, 42.6450],
     name: {
       de: "Nationalhistorisches Museum",
       hu: "Nemzeti Történeti Múzeum",
@@ -1134,7 +1132,7 @@ export const bulgariaCulture = [
     id: "land-saint-george-rotunda",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3220, 42.7000),
+    coords: [23.3220, 42.7000],
     name: {
       de: "St.-Georgs-Rotunde",
       hu: "Szent György rotunda",
@@ -1159,7 +1157,7 @@ export const bulgariaCulture = [
     id: "port-varna",
     type: "port",
     parent: "bg-country",
-    coords: projectCoordsBG(27.9098, 43.2160),
+    coords: [27.9098, 43.2160],
     name: {
       de: "Hafen Warna",
       hu: "Várna kikötője",
@@ -1184,7 +1182,7 @@ export const bulgariaCulture = [
     id: "port-burgas",
     type: "port",
     parent: "bg-country",
-    coords: projectCoordsBG(27.4805, 42.5054),
+    coords: [27.4805, 42.5054],
     name: {
       de: "Hafen Burgas",
       hu: "Burgasz kikötője",
@@ -1209,7 +1207,7 @@ export const bulgariaCulture = [
     id: "industry-maritsa-east-complex",
     type: "industry",
     parent: "bg-country",
-    coords: projectCoordsBG(25.9000, 42.3000),
+    coords: [25.9000, 42.3000],
     name: {
       de: "Mariza-Ost-Komplex",
       hu: "Marica keleti komplexum",
@@ -1234,7 +1232,7 @@ export const bulgariaCulture = [
     id: "industry-kozloduy-npp",
     type: "industry",
     parent: "bg-country",
-    coords: projectCoordsBG(23.7330, 43.7810),
+    coords: [23.7330, 43.7810],
     name: {
       de: "Kozloduj-Kernkraftwerk",
       hu: "Kozloduj atomerőmű",
@@ -1259,7 +1257,7 @@ export const bulgariaCulture = [
     id: "agriculture-rose-valley-kazanlak",
     type: "agriculture",
     parent: "bg-country",
-    coords: projectCoordsBG(25.3980, 42.6200),
+    coords: [25.3980, 42.6200],
     name: {
       de: "Rosen Tal bei Kasanlak",
       hu: "Rózsák völgye Kazanlaknál",
@@ -1284,7 +1282,7 @@ export const bulgariaCulture = [
     id: "agriculture-melnik-vineyards",
     type: "agriculture",
     parent: "bg-country",
-    coords: projectCoordsBG(23.4000, 41.5250),
+    coords: [23.4000, 41.5250],
     name: {
       de: "Weinberge von Melnik",
       hu: "Melnik szőlőhegyei",
@@ -1312,7 +1310,7 @@ export const bulgariaNature = [
     id: "nat-pirin",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.43, 41.73),
+    coords: [23.43, 41.73],
     name: {
       de: "Pirin-Nationalpark",
       hu: "Pirin Nemzeti Park",
@@ -1337,7 +1335,7 @@ export const bulgariaNature = [
     id: "nat-rila",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.55, 42.19),
+    coords: [23.55, 42.19],
     name: {
       de: "Rila-Nationalpark",
       hu: "Rilai Nemzeti Park",
@@ -1362,7 +1360,7 @@ export const bulgariaNature = [
     id: "nat-vitosha",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.28, 42.56),
+    coords: [23.28, 42.56],
     name: {
       de: "Witoscha",
       hu: "Vitosa",
@@ -1387,7 +1385,7 @@ export const bulgariaNature = [
     id: "nat-seven-rila",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3205, 42.2333),
+    coords: [23.3205, 42.2333],
     name: {
       de: "Sieben Rila-Seen",
       hu: "Hét Rilai-tó",
@@ -1412,7 +1410,7 @@ export const bulgariaNature = [
     id: "nat-bansko",
     type: "landmark",
     parent: "bg-country",
-    coords: projectCoordsBG(23.487, 41.8389),
+    coords: [23.487, 41.8389],
     name: {
       de: "Bansko",
       hu: "Banszko síparadicsom",
@@ -1437,7 +1435,7 @@ export const bulgariaNature = [
     id: "nat-musala",
     type: "mountain",
     parent: "bg-country",
-    coords: projectCoordsBG(23.5856, 42.1798),
+    coords: [23.5856, 42.1798],
     name: {
       de: "Musala",
       hu: "Muszala",
@@ -1462,7 +1460,7 @@ export const bulgariaNature = [
     id: "nat-vihren",
     type: "mountain",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3965, 41.7695),
+    coords: [23.3965, 41.7695],
     name: {
       de: "Vihren",
       hu: "Vihren",
@@ -1487,7 +1485,7 @@ export const bulgariaNature = [
     id: "nat-botev-peak",
     type: "mountain",
     parent: "bg-country",
-    coords: projectCoordsBG(24.9140, 42.7030),
+    coords: [24.9140, 42.7030],
     name: {
       de: "Botev-Gipfel",
       hu: "Botev-csúcs",
@@ -1512,7 +1510,7 @@ export const bulgariaNature = [
     id: "nat-rhodopes",
     type: "mountain",
     parent: "bg-country",
-    coords: projectCoordsBG(24.6000, 41.8000),
+    coords: [24.6000, 41.8000],
     name: {
       de: "Rhodopen",
       hu: "Rodope-hegység",
@@ -1537,7 +1535,7 @@ export const bulgariaNature = [
     id: "nat-srebarna-lake",
     type: "lake",
     parent: "bg-country",
-    coords: projectCoordsBG(27.0330, 44.1055),
+    coords: [27.0330, 44.1055],
     name: {
       de: "Sreburna-See",
       hu: "Srebarna-tó",
@@ -1562,7 +1560,7 @@ export const bulgariaNature = [
     id: "nat-atanasovsko-lake",
     type: "lake",
     parent: "bg-country",
-    coords: projectCoordsBG(27.4800, 42.5400),
+    coords: [27.4800, 42.5400],
     name: {
       de: "Atanasowo-See",
       hu: "Atanaszovo-tó",
@@ -1587,7 +1585,7 @@ export const bulgariaNature = [
     id: "nat-iskar-river",
     type: "river",
     parent: "bg-country",
-    coords: projectCoordsBG(23.3920, 42.9500),
+    coords: [23.3920, 42.9500],
     name: {
       de: "Iskar",
       hu: "Iszkar folyó",
@@ -1612,7 +1610,7 @@ export const bulgariaNature = [
     id: "nat-st-anastasia-island",
     type: "island",
     parent: "bg-country",
-    coords: projectCoordsBG(27.9620, 42.4540),
+    coords: [27.9620, 42.4540],
     name: {
       de: "Sankt-Anastasia-Insel",
       hu: "Szent Anasztázia-sziget",
