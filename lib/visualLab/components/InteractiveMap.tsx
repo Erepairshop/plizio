@@ -692,6 +692,7 @@ export const InteractiveMap = ({
             className="
               fixed left-1/2 -translate-x-1/2 bottom-4
               w-[92%] max-w-md
+              max-h-[60vh] flex flex-col
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
@@ -699,7 +700,7 @@ export const InteractiveMap = ({
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2">
+            <div className="flex items-start gap-3 mb-2 shrink-0">
               {selectedPoiFromState?.coa && (
                 <img
                   src={selectedPoiFromState.coa}
@@ -723,45 +724,49 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {selectedPoiFromState?.description?.[displayLang] && (
-              <p className="text-white/75 text-sm leading-relaxed mb-2">
-                {selectedPoiFromState.description[displayLang]}
-              </p>
-            )}
+            <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain pr-1">
+              {selectedPoiFromState?.description?.[displayLang] && (
+                <p className="text-white/75 text-sm leading-relaxed mb-2">
+                  {selectedPoiFromState.description[displayLang]}
+                </p>
+              )}
 
-            {selectedPoiFromState?.facts?.[displayLang]?.length ? (
-              <div className="flex flex-wrap gap-1.5 mb-3">
-                {selectedPoiFromState.facts[displayLang].map((f, i) => (
-                  <span
-                    key={i}
-                    className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
-                  >
-                    {f}
-                  </span>
-                ))}
-              </div>
-            ) : null}
+              {selectedPoiFromState?.facts?.[displayLang]?.length ? (
+                <div className="flex flex-wrap gap-1.5 mb-3">
+                  {selectedPoiFromState.facts[displayLang].map((f, i) => (
+                    <span
+                      key={i}
+                      className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
+                    >
+                      {f}
+                    </span>
+                  ))}
+                </div>
+              ) : null}
+            </div>
 
-            <button
-              onClick={() => setDetailFor(selected.id)}
-              className="
-                w-full flex items-center justify-center gap-1.5
-                py-2 rounded-lg
-                bg-gradient-to-r from-cyan-600 to-sky-700
-                hover:from-cyan-500 hover:to-sky-600
-                text-white text-sm font-medium
-                shadow-md
-              "
-            >
-              {t.detail}
-              <ChevronRight size={16} />
-            </button>
-            <a
-              href={buildStatePath(seoLang, selected.id)}
-              className="mt-2 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
-            >
-              {moreLabel}
-            </a>
+            <div className="shrink-0 mt-2">
+              <button
+                onClick={() => setDetailFor(selected.id)}
+                className="
+                  w-full flex items-center justify-center gap-1.5
+                  py-2 rounded-lg
+                  bg-gradient-to-r from-cyan-600 to-sky-700
+                  hover:from-cyan-500 hover:to-sky-600
+                  text-white text-sm font-medium
+                  shadow-md
+                "
+              >
+                {t.detail}
+                <ChevronRight size={16} />
+              </button>
+              <a
+                href={buildStatePath(seoLang, selected.id)}
+                className="mt-2 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
+              >
+                {moreLabel}
+              </a>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
@@ -782,6 +787,7 @@ export const InteractiveMap = ({
             className="
               fixed left-1/2 -translate-x-1/2 bottom-4
               w-[92%] max-w-md
+              max-h-[60vh] flex flex-col
               rounded-2xl border border-cyan-400/40
               bg-[#0A1929]/95 backdrop-blur-md
               shadow-[0_8px_32px_rgba(34,211,238,0.25)]
@@ -789,7 +795,7 @@ export const InteractiveMap = ({
               z-[130]
             "
           >
-            <div className="flex items-start gap-3 mb-2">
+            <div className="flex items-start gap-3 mb-2 shrink-0">
               {selectedPoi.image ? (
                 <img
                   src={selectedPoi.image}
@@ -853,39 +859,41 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {selectedPoi.description?.[displayLang] && (
-              <p className="text-white/75 text-sm leading-relaxed mb-2">
-                {selectedPoi.description[displayLang]}
-              </p>
-            )}
+            <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain pr-1">
+              {selectedPoi.description?.[displayLang] && (
+                <p className="text-white/75 text-sm leading-relaxed mb-2">
+                  {selectedPoi.description[displayLang]}
+                </p>
+              )}
 
-            {(() => {
-              const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
-              const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
-              const useAdv = grade >= 5 && advFactsRaw.length > 0;
-              const allFacts = useAdv ? [...baseFacts, ...advFactsRaw] : baseFacts;
-              if (allFacts.length === 0) return null;
-              return (
-                <div className="flex flex-wrap gap-1.5">
-                  {allFacts.map((f, i) => (
-                    <span
-                      key={i}
-                      className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
-                    >
-                      {f}
-                    </span>
-                  ))}
-                </div>
-              );
-            })()}
-            {buildPoiPathById(seoLang, selectedPoi.id) ? (
-              <a
-                href={buildPoiPathById(seoLang, selectedPoi.id)!}
-                className="mt-3 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
-              >
-                {moreLabel}
-              </a>
-            ) : null}
+              {(() => {
+                const baseFacts = selectedPoi.facts?.[displayLang] ?? [];
+                const advFactsRaw = (selectedPoi as POI & { factsAdvanced?: POI["facts"] }).factsAdvanced?.[displayLang] ?? [];
+                const useAdv = grade >= 5 && advFactsRaw.length > 0;
+                const allFacts = useAdv ? [...baseFacts, ...advFactsRaw] : baseFacts;
+                if (allFacts.length === 0) return null;
+                return (
+                  <div className="flex flex-wrap gap-1.5">
+                    {allFacts.map((f, i) => (
+                      <span
+                        key={i}
+                        className="text-[11px] bg-cyan-500/10 text-cyan-200/90 px-2.5 py-1 rounded-md border border-cyan-400/15"
+                      >
+                        {f}
+                      </span>
+                    ))}
+                  </div>
+                );
+              })()}
+              {buildPoiPathById(seoLang, selectedPoi.id) ? (
+                <a
+                  href={buildPoiPathById(seoLang, selectedPoi.id)!}
+                  className="mt-3 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
+                >
+                  {moreLabel}
+                </a>
+              ) : null}
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
@@ -1127,7 +1135,7 @@ function SubRegionView({
               z-[150]
             "
           >
-            <div className="flex items-start gap-3 mb-2">
+            <div className="flex items-start gap-3 mb-2 shrink-0">
               {selectedPoi.image ? (
                 <img src={selectedPoi.image} alt="" className="w-14 h-14 rounded-lg bg-white/5 border border-white/10 object-cover"
                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />
