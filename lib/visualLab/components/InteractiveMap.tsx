@@ -852,12 +852,12 @@ export const InteractiveMap = ({
               </button>
             </div>
 
-            {/* Action buttons moved to top — sticky right below the title header */}
-            <div className="shrink-0 mb-3 flex flex-col sm:flex-row gap-2 sticky top-[60px] -mx-4 px-4 py-2 bg-[#0A1929]/95 backdrop-blur-md z-[9]">
+            {/* Detail gomb FIX felül — sticky a cím alatt */}
+            <div className="sticky top-[70px] -mx-4 px-4 py-2 bg-[#0A1929]/95 backdrop-blur-md z-[9] mb-3">
               <button
                 onClick={() => setDetailFor(selected.id)}
                 className="
-                  flex-1 flex items-center justify-center gap-1.5
+                  w-full flex items-center justify-center gap-1.5
                   py-2 rounded-lg
                   bg-gradient-to-r from-cyan-600 to-sky-700
                   hover:from-cyan-500 hover:to-sky-600
@@ -868,12 +868,6 @@ export const InteractiveMap = ({
                 {t.detail}
                 <ChevronRight size={16} />
               </button>
-              <a
-                href={buildStatePath(seoLang, selected.id)}
-                className="flex-1 flex items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
-              >
-                {moreLabel}
-              </a>
             </div>
 
             <div>
@@ -895,6 +889,14 @@ export const InteractiveMap = ({
                   ))}
                 </div>
               ) : null}
+
+              {/* Mehr gomb alul — scroll után */}
+              <a
+                href={buildStatePath(seoLang, selected.id)}
+                className="mt-3 flex w-full items-center justify-center rounded-lg border border-cyan-400/25 px-3 py-2 text-sm text-cyan-200 hover:border-cyan-300/45 hover:text-white"
+              >
+                {moreLabel}
+              </a>
             </div>
           </motion.div>
         )}
