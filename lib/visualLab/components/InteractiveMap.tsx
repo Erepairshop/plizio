@@ -544,12 +544,12 @@ export const InteractiveMap = ({
           </defs>
 
           <g transform={`translate(${view.x} ${view.y}) scale(${view.scale})`}>
-            {deutschlandMap.map((b) => {
+            {deutschlandMap.map((b, idx) => {
               const isHover = hovered === b.id;
               const isSelected = selected?.id === b.id;
               return (
                 <path
-                  key={b.id}
+                  key={`${b.id}-${idx}`}
                   d={b.path}
                   fill={isSelected || isHover ? "url(#bl-hot)" : "url(#bl-idle)"}
                   stroke={isSelected ? "#67E8F9" : isHover ? "#22D3EE" : "#0EA5E9"}
@@ -565,9 +565,9 @@ export const InteractiveMap = ({
             })}
 
             <g pointerEvents="none">
-              {deutschlandMap.map((b) => (
+              {deutschlandMap.map((b, idx) => (
                 <text
-                  key={`lbl-${b.id}`}
+                  key={`lbl-${b.id}-${idx}`}
                   x={b.labelX}
                   y={b.labelY}
                   textAnchor="middle"
