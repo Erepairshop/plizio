@@ -688,7 +688,7 @@ export const InteractiveMap = ({
                 const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
-                const baseR = isSimplified ? 11 : 8;
+                const baseR = isSimplified ? 12 : 9;
                 const r = (isSel ? baseR + 2 : baseR) / view.scale;
                 // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
                 const touchR = Math.max(r * 2.2, 14 / view.scale);
@@ -699,10 +699,10 @@ export const InteractiveMap = ({
                 const vbHeight = parseFloat((deutschlandViewBox || "0 0 1000 1200").split(" ")[3] || "1200");
                 const smallCountry = vbHeight < 700;
                 const baseFont = isSimplified
-                  ? (p.type === "state-capital" ? 18 : 14)
+                  ? (p.type === "state-capital" ? 20 : 16)
                   : smallCountry
-                    ? (p.type === "state-capital" ? 10 : 7)
-                    : (p.type === "state-capital" ? 14 : 11);
+                    ? (p.type === "state-capital" ? 12 : 9)
+                    : (p.type === "state-capital" ? 17 : 14);
                 const fontSize = baseFont / view.scale;  // konstans pixel-méret minden zoom szinten
                 const label = p.name[displayLang] ?? p.name.de;
                 return (
