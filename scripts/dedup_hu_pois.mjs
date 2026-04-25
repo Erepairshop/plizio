@@ -39,7 +39,8 @@ function parseEntries(body) {
         const txt = body.slice(start, i + 1);
         const idM = /id:\s*"([^"]+)"/.exec(txt);
         const parentM = /parent:\s*"([^"]+)"/.exec(txt);
-        const nameDeM = /name:\s*\{[^}]*"de":\s*"([^"]+)"/.exec(txt) || /name:\s*\{[^}]*de:\s*"([^"]+)"/.exec(txt);
+        // Use HU name (more stable: pl. "Budapest" vs "Burg X" vs different DE translations)
+        const nameDeM = /name:\s*\{[^}]*"hu":\s*"([^"]+)"/.exec(txt) || /name:\s*\{[^}]*hu:\s*"([^"]+)"/.exec(txt) || /name:\s*\{[^}]*"de":\s*"([^"]+)"/.exec(txt);
         const hasImage = /image:\s*"[^"]+"/.test(txt) && !/image:\s*"\s*"/.test(txt);
         entries.push({
           start, end: i + 1, text: txt,
