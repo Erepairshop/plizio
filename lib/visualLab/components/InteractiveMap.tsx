@@ -1072,7 +1072,7 @@ function SubRegionView({
   const [selected, setSelected] = useState<string | null>(null);
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);
   const [subLayer, setSubLayer] = useState<Layer>("all");
-  const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200" });
+  const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200", maxScale: 50 });
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
   const { lang: userLang } = useLang();
   const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
@@ -1225,9 +1225,9 @@ function SubRegionView({
                       const [cx, cy] = projectInState(detail.projection, p.coords[0], p.coords[1]);
                       const color = poiColor(p.type);
                       const label = p.name[displayLang] ?? p.name.de;
-                      const baseFont = p.type === "state-capital" ? 14 : 11;
+                      const baseFont = p.type === "state-capital" ? 17 : 14;
                       const fontSize = baseFont / pz.view.scale;  // konstans pixel-méret minden zoom szinten
-                      const r = 5 / pz.view.scale;
+                      const r = 7 / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
                       const hitR = Math.max(14 / pz.view.scale, r * 3);
