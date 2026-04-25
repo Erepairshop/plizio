@@ -1099,7 +1099,14 @@ function SubRegionView({
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);
   const [selectedRiver, setSelectedRiver] = useState<{ name: string; path: string } | null>(null);
   const [subLayer, setSubLayer] = useState<Layer>("all");
+  const [subMode, setSubMode] = useState<"browse" | "quiz">("browse");
   const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200", maxScale: 50 });
+  const subProject = useCallback(
+    (lon: number, lat: number): [number, number] =>
+      detail?.projection ? projectInState(detail.projection, lon, lat) : [0, 0],
+    [detail?.projection]
+  );
+  const subQuiz = useQuizEngine({ countryCode: stateId, pois });
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
   const { lang: userLang } = useLang();
   const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
@@ -1141,11 +1148,12 @@ function SubRegionView({
         </button>
       </header>
 
-      {/* Mode tabs: Browse / Ruler / Quiz (placeholder — works only in browse for now) */}
+      {/* Mode tabs: Browse / Ruler / Quiz (Quiz aktiv DE-megyekre, Ruler meg coming) */}
       <div className="flex justify-center px-4 pt-2 pb-1">
         <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
           {(["browse", "ruler", "quiz"] as const).map((mode) => {
-            const active = mode === "browse"; // for now only browse is functional
+            const enabled = mode === "browse" || mode === "quiz";
+            const active = subMode === mode;
             const Icon = mode === "ruler" ? Ruler : mode === "quiz" ? Brain : MapIcon;
             const labels: Record<typeof mode, Record<Lang, string>> = {
               browse: { de: "Erkunden", hu: "Böngészés", ro: "Explorare", en: "Browse" },
@@ -1155,11 +1163,11 @@ function SubRegionView({
             return (
               <button
                 key={mode}
-                disabled={mode !== "browse"}
-                onClick={() => {/* TODO: enable ruler+quiz on admin-2 */}}
+                disabled={!enabled}
+                onClick={() => { if (enabled) setSubMode(mode as "browse" | "quiz"); }}
                 className={`flex items-center gap-1.5 px-3 py-1 rounded-full transition text-xs
-                  ${active ? "bg-cyan-500/30 text-cyan-100" : "text-cyan-200/40 hover:text-cyan-200/60 cursor-not-allowed opacity-60"}`}
-                title={mode !== "browse" ? "Coming soon" : ""}
+                  ${active ? "bg-cyan-500/30 text-cyan-100" : enabled ? "text-cyan-200/70 hover:text-cyan-100" : "text-cyan-200/40 cursor-not-allowed opacity-60"}`}
+                title={!enabled ? "Coming soon" : ""}
               >
                 <Icon size={13} />
                 <span>{labels[mode][displayLang]}</span>
@@ -1266,7 +1274,11 @@ function SubRegionView({
                       opacity={hovered && !isHover && !isSelected ? 0.55 : 1}
                       onMouseEnter={() => setHovered(c.id)}
                       onMouseLeave={() => setHovered(null)}
-                      onClick={() => { if (!pz.dragged.current) setSelected(c.id); }}
+                      onClick={() => {
+                        if (pz.dragged.current) return;
+                        if (subMode === "quiz") { subQuiz.handleCountyClick(stateId); return; }
+                        setSelected(c.id);
+                      }}
                       style={{ cursor: "pointer", transition: "opacity 200ms, stroke 200ms" }}
                     />
                   );
@@ -1309,12 +1321,18 @@ function SubRegionView({
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
                       const hitR = Math.max(14 / pz.view.scale, r * 3);
+                      const handlePoiTap = (e: React.PointerEvent | React.MouseEvent) => {
+                        e.stopPropagation();
+                        if (pz.dragged.current) return;
+                        if (subMode === "quiz") { subQuiz.handlePoiClick(p); return; }
+                        setSelectedPoiId(p.id);
+                      };
                       return (
                         <g
                           key={p.id}
-                          onClick={(e) => { e.stopPropagation(); if (!pz.dragged.current) setSelectedPoiId(p.id); }}
+                          onClick={handlePoiTap}
                           onPointerDown={(e) => { e.stopPropagation(); }}
-                          onPointerUp={(e) => { e.stopPropagation(); if (!pz.dragged.current) setSelectedPoiId(p.id); }}
+                          onPointerUp={handlePoiTap}
                           style={{ cursor: "pointer", touchAction: "manipulation" }}
                         >
                           {/* Invisible large hit area for easy tapping */}
@@ -1338,6 +1356,16 @@ function SubRegionView({
                       );
                     })}
                 </g>
+
+                {/* Quiz SVG overlay (subregion-szinten) */}
+                {subMode === "quiz" && (
+                  <QuizSvgOverlay
+                    engineState={subQuiz.engineState}
+                    pois={pois}
+                    projectCoords={subProject}
+                    viewScale={pz.view.scale}
+                  />
+                )}
               </g>
             </svg>
 
@@ -1438,6 +1466,19 @@ function SubRegionView({
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Quiz panel (subregion-szinten) */}
+      {subMode === "quiz" && (
+        <QuizPanel
+          lang={displayLang}
+          engineState={subQuiz.engineState}
+          score={subQuiz.score}
+          onNext={subQuiz.handleNext}
+          onRetry={subQuiz.handleRetry}
+          onClose={() => setSubMode("browse")}
+          pois={pois}
+        />
+      )}
 
       {/* River info card */}
       <AnimatePresence>

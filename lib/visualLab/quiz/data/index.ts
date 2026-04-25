@@ -5,6 +5,7 @@ import { huQuizTasks } from "./huQuiz";
 import { frQuizTasks } from "./frQuiz";
 import { itQuizTasks } from "./itQuiz";
 import { usQuizTasks } from "./usQuiz";
+import { deBundeslandQuiz } from "./de";
 
 const POOL: Record<string, QuizTask[]> = {
   DE: deQuizTasks,
@@ -16,5 +17,8 @@ const POOL: Record<string, QuizTask[]> = {
 };
 
 export function getQuizPool(countryCode: string): QuizTask[] {
-  return POOL[countryCode.toUpperCase()] ?? [];
+  // Bundesland-szintu pool ha kapott formaja "DE-BY", "DE-NW" stb
+  const upper = countryCode.toUpperCase();
+  if (deBundeslandQuiz[upper]) return deBundeslandQuiz[upper];
+  return POOL[upper] ?? [];
 }
