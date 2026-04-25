@@ -83,7 +83,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "budapest",
     type: "region",
-    parent: "HU",
+    parent: "HU-BU",
     coords: [19.0402, 47.4979],
     name: {"de": "Budapest", "hu": "Budapest", "ro": "Budapesta", "en": "Budapest"},
     description: {
@@ -152,7 +152,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "baranya",
     type: "region",
-    parent: "HU",
+    parent: "HU-BA",
     coords: [18.2323, 46.0727],
     name: {"de": "Branau", "hu": "Baranya", "ro": "Baranya", "en": "Baranya"},
     image: "/geo-images/hungary/baranya.webp",
@@ -216,7 +216,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "bacs-kiskun",
     type: "region",
-    parent: "HU",
+    parent: "HU-BK",
     coords: [19.6913, 46.9062],
     name: {"de": "Bács-Kiskun", "hu": "Bács-Kiskun", "ro": "Bács-Kiskun", "en": "Bács-Kiskun"},
     image: "/geo-images/hungary/bacs-kiskun.webp",
@@ -280,7 +280,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "bekes",
     type: "region",
-    parent: "HU",
+    parent: "HU-BE",
     coords: [21.0978, 46.6797],
     name: {"de": "Békés", "hu": "Békés", "ro": "Békés", "en": "Békés"},
     image: "/geo-images/hungary/bekes.webp",
@@ -344,7 +344,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "borsod-abauj-zemplen",
     type: "region",
-    parent: "HU",
+    parent: "HU-BZ",
     coords: [20.79, 48.1],
     name: {"de": "Borsod-Abaúj-Zemplén", "hu": "Borsod-Abaúj-Zemplén", "ro": "Borsod-Abaúj-Zemplén", "en": "Borsod-Abaúj-Zemplén"},
     description: {
@@ -407,7 +407,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "csongrad-csanad",
     type: "region",
-    parent: "HU",
+    parent: "HU-CS",
     coords: [20.1414, 46.253],
     name: {"de": "Csongrád-Csanád", "hu": "Csongrád-Csanád", "ro": "Csongrád-Csanád", "en": "Csongrád-Csanád"},
     image: "/geo-images/hungary/csongrad-csanad.webp",
@@ -471,7 +471,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "fejer",
     type: "region",
-    parent: "HU",
+    parent: "HU-FE",
     coords: [18.4103, 47.1899],
     name: {"de": "Weißenburg", "hu": "Fejér", "ro": "Fejér", "en": "Fejér"},
     image: "/geo-images/hungary/fejer.webp",
@@ -535,7 +535,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "gyor-moson-sopron",
     type: "region",
-    parent: "HU",
+    parent: "HU-GS",
     coords: [17.6351, 47.6833],
     name: {"de": "Raab-Wieselburg-Ödenburg", "hu": "Győr-Moson-Sopron", "ro": "Győr-Moson-Sopron", "en": "Győr-Moson-Sopron"},
     image: "/geo-images/hungary/gyor-moson-sopron.webp",
@@ -599,7 +599,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "hajdu-bihar",
     type: "region",
-    parent: "HU",
+    parent: "HU-HB",
     coords: [21.6273, 47.5316],
     name: {"de": "Hajdú-Bihar", "hu": "Hajdú-Bihar", "ro": "Hajdú-Bihar", "en": "Hajdú-Bihar"},
     image: "/geo-images/hungary/hajdu-bihar.webp",
@@ -663,7 +663,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "heves",
     type: "region",
-    parent: "HU",
+    parent: "HU-HE",
     coords: [20.3739, 47.9025],
     name: {"de": "Heves", "hu": "Heves", "ro": "Heves", "en": "Heves"},
     image: "/geo-images/hungary/heves.webp",
@@ -727,7 +727,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "jasz-nagykun-szolnok",
     type: "region",
-    parent: "HU",
+    parent: "HU-JN",
     coords: [20.2, 47.1833],
     name: {"de": "Jász-Nagykun-Szolnok", "hu": "Jász-Nagykun-Szolnok", "ro": "Jász-Nagykun-Szolnok", "en": "Jász-Nagykun-Szolnok"},
     description: {
@@ -790,7 +790,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "komarom-esztergom",
     type: "region",
-    parent: "HU",
+    parent: "HU-KE",
     coords: [18.4222, 47.58],
     name: {"de": "Komárom-Esztergom", "hu": "Komárom-Esztergom", "ro": "Komárom-Esztergom", "en": "Komárom-Esztergom"},
     image: "/geo-images/hungary/komarom-esztergom.webp",
@@ -854,7 +854,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "nograd",
     type: "region",
-    parent: "HU",
+    parent: "HU-NO",
     coords: [19.8053, 48.0986],
     name: {"de": "Neograd", "hu": "Nógrád", "ro": "Nógrád", "en": "Nógrád"},
     image: "/geo-images/hungary/nograd.webp",
@@ -918,7 +918,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "pest",
     type: "region",
-    parent: "HU",
+    parent: "HU-BU",
     coords: [19.0761, 47.6694],
     name: {"de": "Pest", "hu": "Pest", "ro": "Pest", "en": "Pest"},
     image: "/geo-images/hungary/pest.webp",
@@ -982,7 +982,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "somogy",
     type: "region",
-    parent: "HU",
+    parent: "HU-SO",
     coords: [17.7897, 46.3592],
     name: {"de": "Schomodei", "hu": "Somogy", "ro": "Somogy", "en": "Somogy"},
     image: "/geo-images/hungary/somogy.webp",
@@ -1046,7 +1046,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "szabolcs-szatmar-bereg",
     type: "region",
-    parent: "HU",
+    parent: "HU-SZ",
     coords: [21.7167, 47.95],
     name: {"de": "Szabolcs-Szatmár-Bereg", "hu": "Szabolcs-Szatmár-Bereg", "ro": "Szabolcs-Szatmár-Bereg", "en": "Szabolcs-Szatmár-Bereg"},
     image: "/geo-images/hungary/szabolcs-szatmar-bereg.webp",
@@ -1110,7 +1110,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "tolna",
     type: "region",
-    parent: "HU",
+    parent: "HU-TO",
     coords: [18.7, 46.35],
     name: {"de": "Tolnau", "hu": "Tolna", "ro": "Tolna", "en": "Tolna"},
     description: {
@@ -1173,7 +1173,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "vas",
     type: "region",
-    parent: "HU",
+    parent: "HU-VA",
     coords: [16.6217, 47.2306],
     name: {"de": "Eisenburg", "hu": "Vas", "ro": "Vas", "en": "Vas"},
     image: "/geo-images/hungary/vas.webp",
@@ -1237,7 +1237,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "veszprem",
     type: "region",
-    parent: "HU",
+    parent: "HU-VE",
     coords: [17.9114, 47.0928],
     name: {"de": "Wesprim", "hu": "Veszprém", "ro": "Veszprém", "en": "Veszprém"},
     image: "/geo-images/hungary/veszprem.webp",
@@ -1301,7 +1301,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "zala",
     type: "region",
-    parent: "HU",
+    parent: "HU-ZA",
     coords: [16.8439, 46.8417],
     name: {"de": "Zala", "hu": "Zala", "ro": "Zala", "en": "Zala"},
     image: "/geo-images/hungary/zala.webp",
@@ -3813,7 +3813,7 @@ export const hungaryCities: POI[] = [
     {
     id: "balaton-to",
     type: "lake",
-    parent: "HU",
+    parent: "HU-VE",
     coords: [17.88, 46.88],
     name: {"de": "Plattensee", "hu": "Balaton", "ro": "Lacul Balaton", "en": "Lake Balaton"},
     image: "/geo-images/hungary/balaton-to.webp",
@@ -3823,7 +3823,7 @@ export const hungaryCities: POI[] = [
     {
     id: "tisza-folyo",
     type: "river",
-    parent: "HU",
+    parent: "HU-CS",
     coords: [20.15, 46.25],
     name: {"de": "Theiß", "hu": "Tisza", "ro": "Tisa", "en": "Tisza"},
     image: "/geo-images/hungary/tisza-folyo.webp",
@@ -3833,7 +3833,7 @@ export const hungaryCities: POI[] = [
     {
     id: "duna-folyo",
     type: "river",
-    parent: "HU",
+    parent: "HU-BU",
     coords: [19.04, 47.50],
     name: {"de": "Donau", "hu": "Duna", "ro": "Dunărea", "en": "Danube"},
     image: "/geo-images/hungary/duna-folyo.webp",
