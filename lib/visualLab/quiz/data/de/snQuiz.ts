@@ -8,10 +8,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Dresden!",
-      hu: "Kattints ide: Dresden!",
-      ro: "Apas\u0103 pe Dresden!",
-      en: "Click on Dresden!"
+      de: "Klicke auf Dresden auf der Karte!",
+      hu: "Kattints a térképen a következőre: Dresden!",
+      ro: "Apasă pe Dresden pe hartă!",
+      en: "Click on Dresden on the map!",
     },
     targetPoiId: "city-dresden"
   },
@@ -19,10 +19,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Sachsen auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Sachsen a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Sachsen pe hart\u0103?",
-      en: "Where is Sachsen on the map?"
+      de: "Klicke auf das Bundesland Sachsen!",
+      hu: "Kattints a tartományra: Sachsen!",
+      ro: "Apasă pe landul Sachsen!",
+      en: "Click on the state of Sachsen!",
     },
     targetCountyId: "DE-SN"
   },
@@ -30,10 +30,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Zwinger!",
-      hu: "Keresd meg: Zwinger!",
-      ro: "G\u0103se\u0219te Zwinger!",
-      en: "Find Zwinger!"
+      de: "Klicke auf Zwinger auf der Karte!",
+      hu: "Kattints a térképen a következőre: Zwinger!",
+      ro: "Apasă pe Zwinger pe hartă!",
+      en: "Click on Zwinger on the map!",
     },
     targetPoiId: "landmark-zwinger"
   },
@@ -41,10 +41,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Meißen nach Freiberg?",
-      hu: "Milyen messze van Meißen és Freiberg egymástól?",
-      ro: "Cât de departe este Meißen de Freiberg?",
-      en: "How far is it from Meißen to Freiberg?"
+      de: "Wie weit ist Meißen (Porzellan) von Freiberg entfernt?",
+      hu: "Milyen messze van Meißen (Porzellan) és Freiberg egymástól?",
+      ro: "Cât de departe este Meißen (Porzellan) de Freiberg?",
+      en: "How far is Meißen (Porzellan) from Freiberg?",
     },
     targetPoiId: "city-meissen",
     targetPoiId2: "city-freiberg-sachsen-extra",
@@ -54,10 +54,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Fichtelberg?",
-      hu: "Hol található: Fichtelberg?",
-      ro: "Unde se află Fichtelberg?",
-      en: "Where is Fichtelberg located?"
+      de: "Klicke auf Fichtelberg auf der Karte!",
+      hu: "Kattints a térképen a következőre: Fichtelberg!",
+      ro: "Apasă pe Fichtelberg pe hartă!",
+      en: "Click on Fichtelberg on the map!",
     },
     targetPoiId: "mnt-fichtelberg"
   },
@@ -65,15 +65,15 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
-      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
-      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "city-goerlitz",
       "city-leipzig",
-      "city-chemnitz",
+      "city-chemnitz-extra",
       "mnt-bastei-saechsische-schweiz",
       "kid-landmark-belantis"
     ],
@@ -83,10 +83,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatról keletre!",
-      ro: "Ordonează aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "industry-leipzig",
@@ -100,10 +100,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-hard-2",
     type: "distance_guess",
     question: {
-      de: "Schätze die Entfernung zwischen Meißen (Porzellan) und Görlitz!",
-      hu: "Tippeld meg a távolságot Meißen (Porzellan) és Görlitz között!",
-      ro: "Estimează distanța dintre Meißen (Porzellan) și Görlitz!",
-      en: "Guess the distance between Meißen (Porcelain) and Görlitz!"
+      de: "Wie weit ist Meißen (Porzellan) von Görlitz entfernt?",
+      hu: "Milyen messze van Meißen (Porzellan) és Görlitz egymástól?",
+      ro: "Cât de departe este Meißen (Porzellan) de Görlitz?",
+      en: "How far is Meißen (Porzellan) from Görlitz?",
     },
     targetPoiId: "city-meissen",
     targetPoiId2: "city-goerlitz",
@@ -113,10 +113,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-leipzig-montagsdemos",
@@ -131,10 +131,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "mnt-bastei-saechsische-schweiz",

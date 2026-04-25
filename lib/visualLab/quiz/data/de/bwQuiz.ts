@@ -8,10 +8,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Stuttgart!",
-      hu: "Kattints ide: Stuttgart!",
-      ro: "Apas\u0103 pe Stuttgart!",
-      en: "Click on Stuttgart!"
+      de: "Klicke auf Stuttgart auf der Karte!",
+      hu: "Kattints a térképen a következőre: Stuttgart!",
+      ro: "Apasă pe Stuttgart pe hartă!",
+      en: "Click on Stuttgart on the map!",
     },
     targetPoiId: "city-stuttgart"
   },
@@ -19,10 +19,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Baden-W\u00fcrttemberg auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Baden-W\u00fcrttemberg a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Baden-W\u00fcrttemberg pe hart\u0103?",
-      en: "Where is Baden-W\u00fcrttemberg on the map?"
+      de: "Klicke auf das Bundesland Baden-Württemberg!",
+      hu: "Kattints a tartományra: Baden-Württemberg!",
+      ro: "Apasă pe landul Baden-Württemberg!",
+      en: "Click on the state of Baden-Württemberg!",
     },
     targetCountyId: "DE-BW"
   },
@@ -30,10 +30,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Heidelberger Schloss!",
-      hu: "Keresd meg: Heidelberger Schloss!",
-      ro: "G\u0103se\u0219te Heidelberger Schloss!",
-      en: "Find Heidelberger Schloss!"
+      de: "Klicke auf Heidelberger Schloss auf der Karte!",
+      hu: "Kattints a térképen a következőre: Heidelberger Schloss!",
+      ro: "Apasă pe Heidelberger Schloss pe hartă!",
+      en: "Click on Heidelberger Schloss on the map!",
     },
     targetPoiId: "landmark-heidelberg-castle"
   },
@@ -41,10 +41,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Schloss Sigmaringen nach Feldberg (Schwarzwald)?",
+      de: "Wie weit ist Schloss Sigmaringen von Feldberg (Schwarzwald) entfernt?",
       hu: "Milyen messze van Schloss Sigmaringen és Feldberg (Schwarzwald) egymástól?",
       ro: "Cât de departe este Schloss Sigmaringen de Feldberg (Schwarzwald)?",
-      en: "How far is it from Schloss Sigmaringen to Feldberg (Schwarzwald)?"
+      en: "How far is Schloss Sigmaringen from Feldberg (Schwarzwald)?",
     },
     targetPoiId: "hist-schloss-sigmaringen",
     targetPoiId2: "mnt-feldberg",
@@ -54,10 +54,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Feldberg (Schwarzwald)?",
-      hu: "Hol tal\u00e1lhat\u00f3: Feldberg (Schwarzwald)?",
-      ro: "Unde se afl\u0103 Feldberg (Schwarzwald)?",
-      en: "Where is Feldberg (Schwarzwald) located?"
+      de: "Klicke auf Feldberg (Schwarzwald) auf der Karte!",
+      hu: "Kattints a térképen a következőre: Feldberg (Schwarzwald)!",
+      ro: "Apasă pe Feldberg (Schwarzwald) pe hartă!",
+      en: "Click on Feldberg (Schwarzwald) on the map!",
     },
     targetPoiId: "mnt-feldberg"
   },
@@ -65,10 +65,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "city-heidelberg",
@@ -83,10 +83,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "mnt-feldberg",
@@ -100,10 +100,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-hard-2",
     type: "distance_guess",
     question: {
-      de: "Schätze die Entfernung zwischen Insel Mainau und Nordschwarzwald!",
-      hu: "Tippeld meg a távolságot Insel Mainau és Nordschwarzwald között!",
-      ro: "Estimează distanța dintre Insel Mainau și Nordschwarzwald!",
-      en: "Guess the distance between Insel Mainau and Nordschwarzwald!"
+      de: "Wie weit ist Insel Mainau von Nordschwarzwald entfernt?",
+      hu: "Milyen messze van Insel Mainau és Nordschwarzwald egymástól?",
+      ro: "Cât de departe este Insel Mainau de Nordschwarzwald?",
+      en: "How far is Insel Mainau from Nordschwarzwald?",
     },
     targetPoiId: "island-mainau",
     targetPoiId2: "forest-schwarzwald-nord-extra",
@@ -113,10 +113,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a többihez?",
-      ro: "Ce nu se potrivește cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-burg-hohenzollern",
@@ -131,10 +131,10 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "landmark-schloss-lichtenstein",

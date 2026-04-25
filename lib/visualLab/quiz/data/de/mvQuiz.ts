@@ -8,10 +8,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Schwerin!",
-      hu: "Kattints ide: Schwerin!",
-      ro: "Apas\u0103 pe Schwerin!",
-      en: "Click on Schwerin!"
+      de: "Klicke auf Schwerin auf der Karte!",
+      hu: "Kattints a térképen a következőre: Schwerin!",
+      ro: "Apasă pe Schwerin pe hartă!",
+      en: "Click on Schwerin on the map!",
     },
     targetPoiId: "city-schwerin"
   },
@@ -19,10 +19,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Mecklenburg-Vorpommern auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Mecklenburg-Vorpommern a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Mecklenburg-Vorpommern pe hart\u0103?",
-      en: "Where is Mecklenburg-Vorpommern on the map?"
+      de: "Klicke auf das Bundesland Mecklenburg-Vorpommern!",
+      hu: "Kattints a tartományra: Mecklenburg-Vorpommern!",
+      ro: "Apasă pe landul Mecklenburg-Vorpommern!",
+      en: "Click on the state of Mecklenburg-Vorpommern!",
     },
     targetCountyId: "DE-MV"
   },
@@ -30,10 +30,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Schweriner Schloss!",
-      hu: "Keresd meg: Schweriner Schloss!",
-      ro: "G\u0103se\u0219te Schweriner Schloss!",
-      en: "Find Schweriner Schloss!"
+      de: "Klicke auf Schweriner Schloss auf der Karte!",
+      hu: "Kattints a térképen a következőre: Schweriner Schloss!",
+      ro: "Apasă pe Schweriner Schloss pe hartă!",
+      en: "Click on Schweriner Schloss on the map!",
     },
     targetPoiId: "landmark-schwerin-castle"
   },
@@ -41,10 +41,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es vom Schweriner See nach Stralsund?",
-      hu: "Milyen messze van a Schweriner See és Stralsund egymástól?",
-      ro: "Cât de departe este Schweriner See de Stralsund?",
-      en: "How far is it from Schweriner See to Stralsund?"
+      de: "Wie weit ist Schweriner See von Hansestadt Stralsund entfernt?",
+      hu: "Milyen messze van Schweriner See és Hansestadt Stralsund egymástól?",
+      ro: "Cât de departe este Schweriner See de Hansestadt Stralsund?",
+      en: "How far is Schweriner See from Hansestadt Stralsund?",
     },
     targetPoiId: "lake-schweriner-see",
     targetPoiId2: "hist-stralsund-hansestadt",
@@ -54,10 +54,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich M\u00fcritz?",
-      hu: "Hol tal\u00e1lhat\u00f3: M\u00fcritz?",
-      ro: "Unde se afl\u0103 M\u00fcritz?",
-      en: "Where is M\u00fcritz located?"
+      de: "Klicke auf Müritz auf der Karte!",
+      hu: "Kattints a térképen a következőre: Müritz!",
+      ro: "Apasă pe Müritz pe hartă!",
+      en: "Click on Müritz on the map!",
     },
     targetPoiId: "lake-mueritz"
   },
@@ -65,15 +65,15 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
-      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
-      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "port-rostock",
       "city-schwerin",
-      "city-wismar",
+      "city-schwerin",
       "hist-stralsund-hansestadt",
       "hist-peenemuende"
     ],
@@ -83,10 +83,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "city-rostock",
@@ -100,28 +100,28 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Schweriner See und Peenem\u00fcnde!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Schweriner See \u00e9s Peenem\u00fcnde k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Schweriner See \u0219i Peenem\u00fcnde!",
-      en: "Guess the distance between Schweriner See and Peenem\u00fcnde!"
+      de: "Wie weit ist Schweriner See von Peenemünde entfernt?",
+      hu: "Milyen messze van Schweriner See és Peenemünde egymástól?",
+      ro: "Cât de departe este Schweriner See de Peenemünde?",
+      en: "How far is Schweriner See from Peenemünde?",
     },
     targetPoiId: "lake-schweriner-see",
     targetPoiId2: "hist-peenemuende",
-    expectedKm: 162
+    expectedKm: 164
   },
   {
     id: "de-mv-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a többihez?",
-      ro: "Ce nu se potrivește cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-stralsund-hansestadt",
       "city-rostock",
-      "city-greifswald",
+      "city-rostock-extra",
       "city-schwerin",
       "island-usedom"
     ],
@@ -131,10 +131,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "hist-stralsund-hansestadt",

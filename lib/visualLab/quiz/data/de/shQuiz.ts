@@ -8,10 +8,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Kiel!",
-      hu: "Kattints ide: Kiel!",
-      ro: "Apas\u0103 pe Kiel!",
-      en: "Click on Kiel!"
+      de: "Klicke auf Kiel auf der Karte!",
+      hu: "Kattints a térképen a következőre: Kiel!",
+      ro: "Apasă pe Kiel pe hartă!",
+      en: "Click on Kiel on the map!",
     },
     targetPoiId: "city-kiel"
   },
@@ -19,10 +19,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Schleswig-Holstein auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Schleswig-Holstein a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Schleswig-Holstein pe hart\u0103?",
-      en: "Where is Schleswig-Holstein on the map?"
+      de: "Klicke auf das Bundesland Schleswig-Holstein!",
+      hu: "Kattints a tartományra: Schleswig-Holstein!",
+      ro: "Apasă pe landul Schleswig-Holstein!",
+      en: "Click on the state of Schleswig-Holstein!",
     },
     targetCountyId: "DE-SH"
   },
@@ -30,10 +30,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde L\u00fcbeck!",
-      hu: "Keresd meg: L\u00fcbeck!",
-      ro: "G\u0103se\u0219te L\u00fcbeck!",
-      en: "Find L\u00fcbeck!"
+      de: "Klicke auf Lübeck auf der Karte!",
+      hu: "Kattints a térképen a következőre: Lübeck!",
+      ro: "Apasă pe Lübeck pe hartă!",
+      en: "Click on Lübeck on the map!",
     },
     targetPoiId: "hist-luebeck"
   },
@@ -41,10 +41,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von der Flensburger Förde nach Kiel?",
-      hu: "Milyen messze van a Flensburgi öböl és Kiel egymástól?",
+      de: "Wie weit ist Flensburger Förde von Kiel entfernt?",
+      hu: "Milyen messze van Flensburger Förde és Kiel egymástól?",
       ro: "Cât de departe este Flensburger Förde de Kiel?",
-      en: "How far is it from Flensburg Fjord to Kiel?"
+      en: "How far is Flensburger Förde from Kiel?",
     },
     targetPoiId: "landmark-flensburger-foerde",
     targetPoiId2: "city-kiel",
@@ -54,10 +54,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Wattenmeer \u2013 Seehunde?",
-      hu: "Hol tal\u00e1lhat\u00f3: Wattenmeer \u2013 Seehunde?",
-      ro: "Unde se afl\u0103 Wattenmeer \u2013 Seehunde?",
-      en: "Where is Wattenmeer \u2013 Seehunde located?"
+      de: "Klicke auf Wattenmeer – Seehunde auf der Karte!",
+      hu: "Kattints a térképen a következőre: Wattenmeer – Seehunde!",
+      ro: "Apasă pe Wattenmeer – Seehunde pe hartă!",
+      en: "Click on Wattenmeer – Seehunde on the map!",
     },
     targetPoiId: "animal-wattenmeer-seehunde"
   },
@@ -65,10 +65,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-kiel-matrosenaufstand",
@@ -83,10 +83,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "hist-kiel-matrosenaufstand",
@@ -100,10 +100,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-hard-2",
     type: "distance_guess",
     question: {
-      de: "Schätze die Entfernung zwischen Lübeck und Sylt (Westerland)!",
-      hu: "Tippeld meg a távolságot Lübeck és Sylt (Westerland) között!",
-      ro: "Estimează distanța dintre Lübeck și Sylt (Westerland)!",
-      en: "Guess the distance between Lübeck and Sylt (Westerland)!"
+      de: "Wie weit ist Lübeck von Sylt entfernt?",
+      hu: "Milyen messze van Lübeck és Sylt egymástól?",
+      ro: "Cât de departe este Lübeck de Sylt?",
+      en: "How far is Lübeck from Sylt?",
     },
     targetPoiId: "city-luebeck",
     targetPoiId2: "island-sylt",
@@ -113,10 +113,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "city-luebeck",
@@ -131,10 +131,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "kidlm-hansa-park",

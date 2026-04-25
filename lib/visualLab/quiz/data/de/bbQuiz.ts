@@ -8,10 +8,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Potsdam!",
-      hu: "Kattints ide: Potsdam!",
-      ro: "Apas\u0103 pe Potsdam!",
-      en: "Click on Potsdam!"
+      de: "Klicke auf Potsdam auf der Karte!",
+      hu: "Kattints a térképen a következőre: Potsdam!",
+      ro: "Apasă pe Potsdam pe hartă!",
+      en: "Click on Potsdam on the map!",
     },
     targetPoiId: "city-potsdam"
   },
@@ -19,10 +19,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Brandenburg auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Brandenburg a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Brandenburg pe hart\u0103?",
-      en: "Where is Brandenburg on the map?"
+      de: "Klicke auf das Bundesland Brandenburg!",
+      hu: "Kattints a tartományra: Brandenburg!",
+      ro: "Apasă pe landul Brandenburg!",
+      en: "Click on the state of Brandenburg!",
     },
     targetCountyId: "DE-BB"
   },
@@ -30,10 +30,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Schloss Sanssouci!",
-      hu: "Keresd meg: Schloss Sanssouci!",
-      ro: "G\u0103se\u0219te Schloss Sanssouci!",
-      en: "Find Schloss Sanssouci!"
+      de: "Klicke auf Schloss Sanssouci auf der Karte!",
+      hu: "Kattints a térképen a következőre: Schloss Sanssouci!",
+      ro: "Apasă pe Schloss Sanssouci pe hartă!",
+      en: "Click on Schloss Sanssouci on the map!",
     },
     targetPoiId: "landmark-sanssouci"
   },
@@ -41,10 +41,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Glienicker Br\u00fccke nach Filmpark Babelsberg?",
-      hu: "Milyen messze van Glienicker Br\u00fccke \u00e9s Filmpark Babelsberg egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Glienicker Br\u00fccke de Filmpark Babelsberg?",
-      en: "How far is it from Glienicker Br\u00fccke to Filmpark Babelsberg?"
+      de: "Wie weit ist Glienicker Brücke von Filmpark Babelsberg entfernt?",
+      hu: "Milyen messze van Glienicker Brücke és Filmpark Babelsberg egymástól?",
+      ro: "Cât de departe este Glienicker Brücke de Filmpark Babelsberg?",
+      en: "How far is Glienicker Brücke from Filmpark Babelsberg?",
     },
     targetPoiId: "hist-glienicker-bruecke",
     targetPoiId2: "landmark-filmpark-babelsberg",
@@ -54,10 +54,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Spreewald?",
-      hu: "Hol tal\u00e1lhat\u00f3: Spreewald?",
-      ro: "Unde se afl\u0103 Spreewald?",
-      en: "Where is Spreewald located?"
+      de: "Klicke auf Spreewald auf der Karte!",
+      hu: "Kattints a térképen a következőre: Spreewald!",
+      ro: "Apasă pe Spreewald pe hartă!",
+      en: "Click on Spreewald on the map!",
     },
     targetPoiId: "forest-spreewald"
   },
@@ -65,10 +65,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
-      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
-      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "forest-spreewald",
@@ -83,10 +83,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "nature-schwielowsee",
@@ -99,10 +99,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-hard-2",
     type: "distance_guess",
     question: {
-      de: "Schätze die Entfernung zwischen Schloss Rheinsberg und Gedenkstätte Sachsenhausen!",
-      hu: "Tippeld meg a távolságot Schloss Rheinsberg és Gedenkstätte Sachsenhausen között!",
-      ro: "Estimează distanța dintre Schloss Rheinsberg și Gedenkstätte Sachsenhausen!",
-      en: "Guess the distance between Schloss Rheinsberg and Gedenkstätte Sachsenhausen!"
+      de: "Wie weit ist Schloss Rheinsberg von Gedenkstätte Sachsenhausen entfernt?",
+      hu: "Milyen messze van Schloss Rheinsberg és Gedenkstätte Sachsenhausen egymástól?",
+      ro: "Cât de departe este Schloss Rheinsberg de Gedenkstätte Sachsenhausen?",
+      en: "How far is Schloss Rheinsberg from Gedenkstätte Sachsenhausen?",
     },
     targetPoiId: "hist-schloss-rheinsberg-extra",
     targetPoiId2: "hist-sachsenhausen",
@@ -112,10 +112,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a többihez?",
-      ro: "Ce nu se potrivește cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "city-potsdam",
@@ -130,10 +130,10 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "agri-spreewald-gurken",

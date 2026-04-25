@@ -8,10 +8,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf M\u00fcnchen!",
-      hu: "Kattints ide: M\u00fcnchen!",
-      ro: "Apas\u0103 pe M\u00fcnchen!",
-      en: "Click on M\u00fcnchen!"
+      de: "Klicke auf München auf der Karte!",
+      hu: "Kattints a térképen a következőre: München!",
+      ro: "Apasă pe München pe hartă!",
+      en: "Click on München on the map!",
     },
     targetPoiId: "city-muenchen"
   },
@@ -19,10 +19,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Bayern auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Bayern a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Bayern pe hart\u0103?",
-      en: "Where is Bayern on the map?"
+      de: "Klicke auf das Bundesland Bayern!",
+      hu: "Kattints a tartományra: Bayern!",
+      ro: "Apasă pe landul Bayern!",
+      en: "Click on the state of Bayern!",
     },
     targetCountyId: "DE-BY"
   },
@@ -30,10 +30,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Schloss Neuschwanstein!",
-      hu: "Keresd meg: Schloss Neuschwanstein!",
-      ro: "G\u0103se\u0219te Schloss Neuschwanstein!",
-      en: "Find Schloss Neuschwanstein!"
+      de: "Klicke auf Schloss Neuschwanstein auf der Karte!",
+      hu: "Kattints a térképen a következőre: Schloss Neuschwanstein!",
+      ro: "Apasă pe Schloss Neuschwanstein pe hartă!",
+      en: "Click on Schloss Neuschwanstein on the map!",
     },
     targetPoiId: "landmark-neuschwanstein"
   },
@@ -41,10 +41,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Burg Trausnitz nach Schloss Nymphenburg?",
-      hu: "Milyen messze van Burg Trausnitz \u00e9s Schloss Nymphenburg egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Burg Trausnitz de Schloss Nymphenburg?",
-      en: "How far is it from Burg Trausnitz to Schloss Nymphenburg?"
+      de: "Wie weit ist Burg Trausnitz von Schloss Nymphenburg entfernt?",
+      hu: "Milyen messze van Burg Trausnitz és Schloss Nymphenburg egymástól?",
+      ro: "Cât de departe este Burg Trausnitz de Schloss Nymphenburg?",
+      en: "How far is Burg Trausnitz from Schloss Nymphenburg?",
     },
     targetPoiId: "landmark-burg-trausnitz",
     targetPoiId2: "landmark-nymphenburg-extra",
@@ -54,10 +54,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Zugspitze?",
-      hu: "Hol tal\u00e1lhat\u00f3: Zugspitze?",
-      ro: "Unde se afl\u0103 Zugspitze?",
-      en: "Where is Zugspitze located?"
+      de: "Klicke auf Zugspitze auf der Karte!",
+      hu: "Kattints a térképen a következőre: Zugspitze!",
+      ro: "Apasă pe Zugspitze pe hartă!",
+      en: "Click on Zugspitze on the map!",
     },
     targetPoiId: "mnt-zugspitze"
   },
@@ -65,10 +65,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-nuernberg-justizpalast",
@@ -83,10 +83,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "hist-kaiserburg-nuernberg",
@@ -100,10 +100,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen BMW Welt & Museum und Rothenburg ob der Tauber!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got BMW Welt & Museum \u00e9s Rothenburg ob der Tauber k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre BMW Welt & Museum \u0219i Rothenburg ob der Tauber!",
-      en: "Guess the distance between BMW Welt & Museum and Rothenburg ob der Tauber!"
+      de: "Wie weit ist BMW Welt & Museum von Rothenburg ob der Tauber entfernt?",
+      hu: "Milyen messze van BMW Welt & Museum és Rothenburg ob der Tauber egymástól?",
+      ro: "Cât de departe este BMW Welt & Museum de Rothenburg ob der Tauber?",
+      en: "How far is BMW Welt & Museum from Rothenburg ob der Tauber?",
     },
     targetPoiId: "landmark-bmw-welt",
     targetPoiId2: "hist-rothenburg",
@@ -113,10 +113,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "landmark-lechfall",
@@ -131,10 +131,10 @@ export const byQuiz: QuizTask[] = [
     id: "de-by-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "kidlm-deutsches-museum-muenchen",

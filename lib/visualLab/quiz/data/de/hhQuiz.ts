@@ -8,10 +8,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Hamburg!",
-      hu: "Kattints ide: Hamburg!",
-      ro: "Apas\u0103 pe Hamburg!",
-      en: "Click on Hamburg!"
+      de: "Klicke auf Hamburg auf der Karte!",
+      hu: "Kattints a térképen a következőre: Hamburg!",
+      ro: "Apasă pe Hamburg pe hartă!",
+      en: "Click on Hamburg on the map!",
     },
     targetPoiId: "city-hamburg"
   },
@@ -19,10 +19,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Hamburg auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Hamburg a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Hamburg pe hart\u0103?",
-      en: "Where is Hamburg on the map?"
+      de: "Klicke auf das Bundesland Hamburg!",
+      hu: "Kattints a tartományra: Hamburg!",
+      ro: "Apasă pe landul Hamburg!",
+      en: "Click on the state of Hamburg!",
     },
     targetCountyId: "DE-HH"
   },
@@ -30,10 +30,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Elbphilharmonie!",
-      hu: "Keresd meg: Elbphilharmonie!",
-      ro: "G\u0103se\u0219te Elbphilharmonie!",
-      en: "Find Elbphilharmonie!"
+      de: "Klicke auf Elbphilharmonie auf der Karte!",
+      hu: "Kattints a térképen a következőre: Elbphilharmonie!",
+      ro: "Apasă pe Elbphilharmonie pe hartă!",
+      en: "Click on Elbphilharmonie on the map!",
     },
     targetPoiId: "landmark-elbphilharmonie"
   },
@@ -41,10 +41,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es vom Mahnmal St. Nikolai nach Tierpark Hagenbeck?",
-      hu: "Milyen messze van a St. Nikolai emlékmű és a Hagenbeck Állatpark egymástól?",
-      ro: "Cât de departe este Memorialul St. Nikolai de Grădina Zoologică Hagenbeck?",
-      en: "How far is it from St. Nikolai Memorial to Hagenbeck Zoo?"
+      de: "Wie weit ist Mahnmal St. Nikolai Hamburg von Tierpark Hagenbeck Hamburg entfernt?",
+      hu: "Milyen messze van Mahnmal St. Nikolai Hamburg és Tierpark Hagenbeck Hamburg egymástól?",
+      ro: "Cât de departe este Mahnmal St. Nikolai Hamburg de Tierpark Hagenbeck Hamburg?",
+      en: "How far is Mahnmal St. Nikolai Hamburg from Tierpark Hagenbeck Hamburg?",
     },
     targetPoiId: "hist-st-nikolai-hamburg",
     targetPoiId2: "zoo-hagenbeck-hamburg",
@@ -54,10 +54,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Alster Hamburg?",
-      hu: "Hol tal\u00e1lhat\u00f3: Alster Hamburg?",
-      ro: "Unde se afl\u0103 Alster Hamburg?",
-      en: "Where is Alster Hamburg located?"
+      de: "Klicke auf Alster Hamburg auf der Karte!",
+      hu: "Kattints a térképen a következőre: Alster Hamburg!",
+      ro: "Apasă pe Alster Hamburg pe hartă!",
+      en: "Click on Alster Hamburg on the map!",
     },
     targetPoiId: "landmark-alster"
   },
@@ -65,10 +65,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "landmark-reeperbahn",
@@ -83,10 +83,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "landmark-fischmarkt-hamburg",
@@ -100,10 +100,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Hamburg und Reeperbahn St. Pauli!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Hamburg \u00e9s Reeperbahn St. Pauli k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Hamburg \u0219i Reeperbahn St. Pauli!",
-      en: "Guess the distance between Hamburg and Reeperbahn St. Pauli!"
+      de: "Wie weit ist Hamburg von Reeperbahn St. Pauli entfernt?",
+      hu: "Milyen messze van Hamburg és Reeperbahn St. Pauli egymástól?",
+      ro: "Cât de departe este Hamburg de Reeperbahn St. Pauli?",
+      en: "How far is Hamburg from Reeperbahn St. Pauli?",
     },
     targetPoiId: "city-hamburg",
     targetPoiId2: "landmark-reeperbahn",
@@ -113,10 +113,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-speicherstadt",
@@ -131,10 +131,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "landmark-alster",

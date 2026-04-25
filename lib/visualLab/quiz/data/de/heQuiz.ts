@@ -8,10 +8,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Wiesbaden!",
-      hu: "Kattints ide: Wiesbaden!",
-      ro: "Apas\u0103 pe Wiesbaden!",
-      en: "Click on Wiesbaden!"
+      de: "Klicke auf Wiesbaden auf der Karte!",
+      hu: "Kattints a térképen a következőre: Wiesbaden!",
+      ro: "Apasă pe Wiesbaden pe hartă!",
+      en: "Click on Wiesbaden on the map!",
     },
     targetPoiId: "city-wiesbaden"
   },
@@ -19,10 +19,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Hessen auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Hessen a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Hessen pe hart\u0103?",
-      en: "Where is Hessen on the map?"
+      de: "Klicke auf das Bundesland Hessen!",
+      hu: "Kattints a tartományra: Hessen!",
+      ro: "Apasă pe landul Hessen!",
+      en: "Click on the state of Hessen!",
     },
     targetCountyId: "DE-HE"
   },
@@ -30,10 +30,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Frankfurter Paulskirche!",
-      hu: "Keresd meg: Frankfurter Paulskirche!",
-      ro: "G\u0103se\u0219te Frankfurter Paulskirche!",
-      en: "Find Frankfurter Paulskirche!"
+      de: "Klicke auf Frankfurter Paulskirche auf der Karte!",
+      hu: "Kattints a térképen a következőre: Frankfurter Paulskirche!",
+      ro: "Apasă pe Frankfurter Paulskirche pe hartă!",
+      en: "Click on Frankfurter Paulskirche on the map!",
     },
     targetPoiId: "hist-paulskirche"
   },
@@ -41,10 +41,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Frankfurt am Main nach Gro\u00dfer Feldberg?",
-      hu: "Milyen messze van Frankfurt am Main \u00e9s Gro\u00dfer Feldberg egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Frankfurt am Main de Gro\u00dfer Feldberg?",
-      en: "How far is it from Frankfurt am Main to Gro\u00dfer Feldberg?"
+      de: "Wie weit ist Frankfurt am Main von Großer Feldberg entfernt?",
+      hu: "Milyen messze van Frankfurt am Main és Großer Feldberg egymástól?",
+      ro: "Cât de departe este Frankfurt am Main de Großer Feldberg?",
+      en: "How far is Frankfurt am Main from Großer Feldberg?",
     },
     targetPoiId: "city-frankfurt",
     targetPoiId2: "mnt-grosser-feldberg",
@@ -54,10 +54,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Wasserkuppe?",
-      hu: "Hol tal\u00e1lhat\u00f3: Wasserkuppe?",
-      ro: "Unde se afl\u0103 Wasserkuppe?",
-      en: "Where is Wasserkuppe located?"
+      de: "Klicke auf Wasserkuppe auf der Karte!",
+      hu: "Kattints a térképen a következőre: Wasserkuppe!",
+      ro: "Apasă pe Wasserkuppe pe hartă!",
+      en: "Click on Wasserkuppe on the map!",
     },
     targetPoiId: "mnt-wasserkuppe"
   },
@@ -65,10 +65,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-paulskirche",
@@ -83,10 +83,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "city-darmstadt",
@@ -99,10 +99,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-hard-2",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Wiesbaden nach Frankfurt am Main?",
-      hu: "Milyen messze van Wiesbaden Frankfurttól?",
+      de: "Wie weit ist Wiesbaden von Frankfurt am Main entfernt?",
+      hu: "Milyen messze van Wiesbaden és Frankfurt am Main egymástól?",
       ro: "Cât de departe este Wiesbaden de Frankfurt am Main?",
-      en: "How far is it from Wiesbaden to Frankfurt am Main?"
+      en: "How far is Wiesbaden from Frankfurt am Main?",
     },
     targetPoiId: "city-wiesbaden",
     targetPoiId2: "city-frankfurt",
@@ -112,10 +112,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-paulskirche",
@@ -130,10 +130,10 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "hist-wilhelmshoehe",

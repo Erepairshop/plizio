@@ -8,10 +8,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-easy-1",
     type: "click_poi",
     question: {
-      de: "Klicke auf Mainz!",
-      hu: "Kattints ide: Mainz!",
-      ro: "Apas\u0103 pe Mainz!",
-      en: "Click on Mainz!"
+      de: "Klicke auf Mainz auf der Karte!",
+      hu: "Kattints a térképen a következőre: Mainz!",
+      ro: "Apasă pe Mainz pe hartă!",
+      en: "Click on Mainz on the map!",
     },
     targetPoiId: "city-mainz"
   },
@@ -19,10 +19,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-easy-2",
     type: "click_county",
     question: {
-      de: "Wo liegt Rheinland-Pfalz auf der Karte?",
-      hu: "Hol tal\u00e1lhat\u00f3 Rheinland-Pfalz a t\u00e9rk\u00e9pen?",
-      ro: "Unde se afl\u0103 Rheinland-Pfalz pe hart\u0103?",
-      en: "Where is Rheinland-Pfalz on the map?"
+      de: "Klicke auf das Bundesland Rheinland-Pfalz!",
+      hu: "Kattints a tartományra: Rheinland-Pfalz!",
+      ro: "Apasă pe landul Rheinland-Pfalz!",
+      en: "Click on the state of Rheinland-Pfalz!",
     },
     targetCountyId: "DE-RP"
   },
@@ -30,10 +30,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-easy-3",
     type: "click_poi",
     question: {
-      de: "Finde Speyerer Dom!",
-      hu: "Keresd meg: Speyerer Dom!",
-      ro: "G\u0103se\u0219te Speyerer Dom!",
-      en: "Find Speyerer Dom!"
+      de: "Klicke auf Speyerer Dom auf der Karte!",
+      hu: "Kattints a térképen a következőre: Speyerer Dom!",
+      ro: "Apasă pe Speyerer Dom pe hartă!",
+      en: "Click on Speyerer Dom on the map!",
     },
     targetPoiId: "landmark-speyer-cathedral"
   },
@@ -41,10 +41,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Deutsches Eck nach Reichsburg Cochem?",
-      hu: "Milyen messze van Deutsches Eck \u00e9s Reichsburg Cochem egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Deutsches Eck de Reichsburg Cochem?",
-      en: "How far is it from Deutsches Eck to Reichsburg Cochem?"
+      de: "Wie weit ist Deutsches Eck von Reichsburg Cochem entfernt?",
+      hu: "Milyen messze van Deutsches Eck és Reichsburg Cochem egymástól?",
+      ro: "Cât de departe este Deutsches Eck de Reichsburg Cochem?",
+      en: "How far is Deutsches Eck from Reichsburg Cochem?",
     },
     targetPoiId: "landmark-deutsches-eck-extra",
     targetPoiId2: "landmark-burg-cochem",
@@ -54,10 +54,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-med-2",
     type: "click_poi",
     question: {
-      de: "Wo befindet sich Ludwigshafen (BASF \u2013 Chemie)?",
-      hu: "Hol tal\u00e1lhat\u00f3: Ludwigshafen (BASF \u2013 Chemie)?",
-      ro: "Unde se afl\u0103 Ludwigshafen (BASF \u2013 Chemie)?",
-      en: "Where is Ludwigshafen (BASF \u2013 Chemie) located?"
+      de: "Klicke auf Ludwigshafen (BASF – Chemie) auf der Karte!",
+      hu: "Kattints a térképen a következőre: Ludwigshafen (BASF – Chemie)!",
+      ro: "Apasă pe Ludwigshafen (BASF – Chemie) pe hartă!",
+      en: "Click on Ludwigshafen (BASF – Chemie) on the map!",
     },
     targetPoiId: "industry-ludwigshafen"
   },
@@ -65,10 +65,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
-      en: "Spot the error: Which place belongs to a different category?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-marksburg",
@@ -83,10 +83,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-hard-1",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
-      en: "Order these places from west to east!"
+      de: "Klicke die Orte von West nach Ost an!",
+      hu: "Kattints a helyekre nyugatról keletre!",
+      ro: "Apasă pe locuri de la vest la est!",
+      en: "Click the places from west to east!",
     },
     orderedPoiIds: [
       "hist-burg-eltz",
@@ -100,10 +100,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Mainz und Burg Katz!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Mainz \u00e9s Burg Katz k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Mainz \u0219i Burg Katz!",
-      en: "Guess the distance between Mainz and Burg Katz!"
+      de: "Wie weit ist Mainz von Burg Katz entfernt?",
+      hu: "Milyen messze van Mainz és Burg Katz egymástól?",
+      ro: "Cât de departe este Mainz de Burg Katz?",
+      en: "How far is Mainz from Burg Katz?",
     },
     targetPoiId: "city-mainz",
     targetPoiId2: "landmark-burg-katz",
@@ -113,10 +113,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-hard-3",
     type: "spot_error",
     question: {
-      de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
-      en: "What does not fit with the others?"
+      de: "Welcher Ort passt nicht zu den anderen?",
+      hu: "Melyik hely nem illik a többihez?",
+      ro: "Care loc nu se potrivește cu celelalte?",
+      en: "Which place doesn't match the others?",
     },
     optionPoiIds: [
       "hist-hambach",
@@ -131,10 +131,10 @@ export const rpQuiz: QuizTask[] = [
     id: "de-rp-special",
     type: "order_by",
     question: {
-      de: "Ordne diese Orte von Osten nach Westen!",
-      hu: "Rendezd ezeket a helyeket keletr\u0151l nyugatra!",
-      ro: "Ordoneaz\u0103 aceste locuri de la est la vest!",
-      en: "Order these places from east to west!"
+      de: "Klicke die Orte von Ost nach West an!",
+      hu: "Kattints a helyekre keletről nyugatra!",
+      ro: "Apasă pe locuri de la est la vest!",
+      en: "Click the places from east to west!",
     },
     orderedPoiIds: [
       "hist-speyer",
