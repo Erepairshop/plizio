@@ -721,14 +721,10 @@ export const InteractiveMap = ({
                 // Country-map: csak varos-nevek alapertelmezesben, tobbi POI csak 10x+ zoom utan
                 const isCityLabel = p.type === "city" || p.type === "state-capital";
                 const showLabel = isCityLabel || view.scale >= 10;
-                // Small-country scale: viewBox height < 700 → shrink labels (many POIs on tight map)
-                const vbHeight = parseFloat((deutschlandViewBox || "0 0 1000 1200").split(" ")[3] || "1200");
-                const smallCountry = vbHeight < 700;
+                // Egyseges felirat-meret minden orszagterkepre (HU/DE/IT/etc azonos)
                 const baseFont = isSimplified
                   ? (p.type === "state-capital" ? 20 : 16)
-                  : smallCountry
-                    ? (p.type === "state-capital" ? 12 : 9)
-                    : (p.type === "state-capital" ? 17 : 14);
+                  : (p.type === "state-capital" ? 17 : 14);
                 // Font max 2x-re no max zoomig (sqrt-progression, nem extrem)
                 const fontGrow = Math.min(2, Math.sqrt(view.scale));
                 const fontSize = baseFont * fontGrow / view.scale;
