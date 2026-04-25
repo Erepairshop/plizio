@@ -1229,16 +1229,22 @@ function SubRegionView({
                       const fontSize = baseFont / pz.view.scale;  // konstans pixel-méret minden zoom szinten
                       const r = 5 / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
+                      // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
+                      const hitR = Math.max(14 / pz.view.scale, r * 3);
                       return (
                         <g
                           key={p.id}
                           onClick={(e) => { e.stopPropagation(); if (!pz.dragged.current) setSelectedPoiId(p.id); }}
-                          style={{ cursor: "pointer" }}
+                          onPointerDown={(e) => { e.stopPropagation(); }}
+                          onPointerUp={(e) => { e.stopPropagation(); if (!pz.dragged.current) setSelectedPoiId(p.id); }}
+                          style={{ cursor: "pointer", touchAction: "manipulation" }}
                         >
-                          <circle cx={cx} cy={cy} r={r * 2.2} fill={color} opacity={0.22} />
-                          <circle cx={cx} cy={cy} r={isSel ? r * 1.4 : r} fill={color} stroke="#020408" strokeWidth={1.2 / pz.view.scale} />
+                          {/* Invisible large hit area for easy tapping */}
+                          <circle cx={cx} cy={cy} r={hitR} fill="transparent" pointerEvents="all" />
+                          <circle cx={cx} cy={cy} r={r * 2.2} fill={color} opacity={0.22} pointerEvents="none" />
+                          <circle cx={cx} cy={cy} r={isSel ? r * 1.4 : r} fill={color} stroke="#020408" strokeWidth={1.2 / pz.view.scale} pointerEvents="none" />
                           {isSel && (
-                            <circle cx={cx} cy={cy} r={r * 2} fill="none" stroke={color} strokeWidth={1.6 / pz.view.scale} opacity={0.8} />
+                            <circle cx={cx} cy={cy} r={r * 2} fill="none" stroke={color} strokeWidth={1.6 / pz.view.scale} opacity={0.8} pointerEvents="none" />
                           )}
                           <text
                             x={cx + r + 3 / pz.view.scale}
