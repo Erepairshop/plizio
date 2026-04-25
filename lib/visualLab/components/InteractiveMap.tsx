@@ -694,8 +694,9 @@ export const InteractiveMap = ({
                 // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
                 const touchR = Math.max(r * 2.2, 14 / view.scale);
                 const color = poiColor(p.type);
-                // Show label for all POI types (as user requested: like DE map — neveket kiírjuk)
-                const showLabel = true;
+                // Country-map: csak varos-nevek alapertelmezesben, tobbi POI csak 10x+ zoom utan
+                const isCityLabel = p.type === "city" || p.type === "state-capital";
+                const showLabel = isCityLabel || view.scale >= 10;
                 // Small-country scale: viewBox height < 700 → shrink labels (many POIs on tight map)
                 const vbHeight = parseFloat((deutschlandViewBox || "0 0 1000 1200").split(" ")[3] || "1200");
                 const smallCountry = vbHeight < 700;
