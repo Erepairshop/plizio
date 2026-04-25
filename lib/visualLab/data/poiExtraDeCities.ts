@@ -1,124 +1,6 @@
 import type { POI } from "./poi";
 
-export const poiExtraDeCities: POI[] = [
-  {
-    "id": "passau-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      13.46,
-      48.57
-    ],
-    "name": {
-      "de": "Passau",
-      "hu": "Passau",
-      "ro": "Passau",
-      "en": "Passau"
-    },
-    "description": {
-      "de": "Passau ist die Dreiflüssestadt.",
-      "hu": "Passau a három folyó városa.",
-      "ro": "Passau este orașul celor trei râuri.",
-      "en": "Passau is the city of three rivers."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier fließen Donau, Inn und Ilz zusammen. Die Altstadt liegt auf einer Halbinsel. Geographie K7 — Flüsse und Städte",
-      "hu": "Itt folyik össze a Duna, az Inn és az Ilz. Az óváros egy félszigeten fekszik. Földrajz K7 — Folyók és városok",
-      "ro": "Aici se unesc Dunărea, Inn și Ilz. Orașul vechi este pe o peninsulă. Geografie K7 — Râuri și orașe",
-      "en": "The Danube, Inn, and Ilz flow together here. The old town is on a peninsula. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Drei Flüsse",
-        "Stephansdom",
-        "Veste Oberhaus",
-        "Grenzstadt"
-      ],
-      "hu": [
-        "Három folyó",
-        "Szent István-dóm",
-        "Veste Oberhaus",
-        "Határváros"
-      ],
-      "ro": [
-        "Trei râuri",
-        "Domul Sf. Ștefan",
-        "Veste Oberhaus",
-        "Oraș de graniță"
-      ],
-      "en": [
-        "Three rivers",
-        "St. Stephen's Cathedral",
-        "Veste Oberhaus",
-        "Border city"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn 3 Flüsse zusammenfließen, wie viele Ufer gibt es?",
-      "hu": "Ha 3 folyó találkozik, hány part van?",
-      "ro": "Dacă 3 râuri se unesc, câte maluri sunt?",
-      "en": "If 3 rivers meet, how many banks are there?"
-    }
-  },
-  {
-    "id": "wuerzburg-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      9.93,
-      49.79
-    ],
-    "name": {
-      "de": "Würzburg",
-      "hu": "Würzburg",
-      "ro": "Würzburg",
-      "en": "Würzburg"
-    },
-    "description": {
-      "de": "Würzburg ist bekannt für seine Residenz.",
-      "hu": "Würzburg a rezidenciájáról ismert.",
-      "ro": "Würzburg este cunoscut pentru reședința sa.",
-      "en": "Würzburg is known for its residence."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt liegt am Main und ist von Weinbergen umgeben. Die Residenz ist UNESCO-Weltkulturerbe. Geographie K7 — Flüsse und Städte",
-      "hu": "A város a Majna mentén fekszik, és szőlőültetvények veszik körül. A rezidencia UNESCO világörökség. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul este situat pe râul Main și înconjurat de podgorii. Reședința este în patrimoniul UNESCO. Geografie K7 — Râuri și orașe",
-      "en": "The city lies on the Main river and is surrounded by vineyards. The Residence is a UNESCO site. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Am Main",
-        "Würzburger Residenz",
-        "Festung Marienberg",
-        "Weinfranken"
-      ],
-      "hu": [
-        "A Majnánál",
-        "Würzburgi rezidencia",
-        "Marienberg erőd",
-        "Borvidék"
-      ],
-      "ro": [
-        "Pe Main",
-        "Reședința Würzburg",
-        "Cetatea Marienberg",
-        "Regiune viticolă"
-      ],
-      "en": [
-        "On the Main",
-        "Würzburg Residence",
-        "Marienberg Fortress",
-        "Wine region"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wie viele Buchstaben hat der Fluss, an dem die Stadt liegt?",
-      "hu": "Hány betűből áll a folyó neve, amelyen a város fekszik?",
-      "ro": "Câte litere are râul pe care se află orașul?",
-      "en": "How many letters are in the river the city is on?"
-    }
-  },
+export const poiExtraDeCities = ([
   {
     "id": "bamberg-extra",
     "type": "city",
@@ -178,183 +60,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "7 hills minus 3 = ?"
     }
   },
-  {
-    "id": "regensburg-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      12.1,
-      49.02
-    ],
-    "name": {
-      "de": "Regensburg",
-      "hu": "Regensburg",
-      "ro": "Regensburg",
-      "en": "Regensburg"
-    },
-    "description": {
-      "de": "Regensburg hat eine sehr gut erhaltene mittelalterliche Altstadt.",
-      "hu": "Regensburg nagyon jól megőrzött középkori óvárossal rendelkezik.",
-      "ro": "Regensburg are un oraș vechi medieval foarte bine conservat.",
-      "en": "Regensburg has a very well-preserved medieval old town."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Steinerne Brücke führt hier über die Donau. Sie war ein Wunderwerk der mittelalterlichen Baukunst. Geographie K7 — Flüsse und Städte",
-      "hu": "A Kőhíd itt vezet át a Dunán. A középkori építészet csodája volt. Földrajz K7 — Folyók és városok",
-      "ro": "Podul de Piatră traversează Dunărea aici. A fost o minune a arhitecturii medievale. Geografie K7 — Râuri și orașe",
-      "en": "The Stone Bridge crosses the Danube here. It was a marvel of medieval engineering. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "An der Donau",
-        "Steinerne Brücke",
-        "Regensburger Dom",
-        "Römerlager"
-      ],
-      "hu": [
-        "A Dunánál",
-        "Kőhíd",
-        "Regensburgi dóm",
-        "Római tábor"
-      ],
-      "ro": [
-        "Pe Dunăre",
-        "Podul de Piatră",
-        "Domul din Regensburg",
-        "Tabără romană"
-      ],
-      "en": [
-        "On the Danube",
-        "Stone Bridge",
-        "Regensburg Cathedral",
-        "Roman camp"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn eine Brücke 300 Meter lang ist, wie viele Schritte (zu 1m) brauchst du?",
-      "hu": "Ha egy híd 300 méter hosszú, hány lépés (1m) kell?",
-      "ro": "Dacă un pod are 300m, câți pași (de 1m) ai nevoie?",
-      "en": "If a bridge is 300 meters long, how many steps (of 1m) do you need?"
-    }
-  },
-  {
-    "id": "ingolstadt-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      11.42,
-      48.76
-    ],
-    "name": {
-      "de": "Ingolstadt",
-      "hu": "Ingolstadt",
-      "ro": "Ingolstadt",
-      "en": "Ingolstadt"
-    },
-    "description": {
-      "de": "Ingolstadt ist bekannt für seine Automobilindustrie.",
-      "hu": "Ingolstadt az autóiparáról ismert.",
-      "ro": "Ingolstadt este cunoscut pentru industria sa auto.",
-      "en": "Ingolstadt is known for its automotive industry."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt liegt an der Donau und hat eine historische Festung. Sie ist auch Schauplatz des Romans Frankenstein. Geographie K7 — Flüsse und Städte",
-      "hu": "A város a Duna mentén fekszik, és történelmi erőddel rendelkezik. A Frankenstein regény helyszíne is. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul este pe Dunăre și are o fortăreață istorică. Este, de asemenea, decorul romanului Frankenstein. Geografie K7 — Râuri și orașe",
-      "en": "The city is on the Danube and has a historic fortress. It is also the setting for the novel Frankenstein. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "An der Donau",
-        "Audi-Zentrum",
-        "Frankenstein-Stadt",
-        "Bayerische Festung"
-      ],
-      "hu": [
-        "A Dunánál",
-        "Audi központ",
-        "Frankenstein városa",
-        "Bajor erőd"
-      ],
-      "ro": [
-        "Pe Dunăre",
-        "Centrul Audi",
-        "Orașul Frankenstein",
-        "Fortăreață bavareză"
-      ],
-      "en": [
-        "On the Danube",
-        "Audi center",
-        "Frankenstein city",
-        "Bavarian fortress"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wie viele Räder haben 5 Autos?",
-      "hu": "Hány kereke van 5 autónak?",
-      "ro": "Câte roți au 5 mașini?",
-      "en": "How many wheels do 5 cars have?"
-    }
-  },
-  {
-    "id": "augsburg-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      10.9,
-      48.37
-    ],
-    "name": {
-      "de": "Augsburg",
-      "hu": "Augsburg",
-      "ro": "Augsburg",
-      "en": "Augsburg"
-    },
-    "description": {
-      "de": "Augsburg ist eine der ältesten Städte Deutschlands.",
-      "hu": "Augsburg Németország egyik legrégebbi városa.",
-      "ro": "Augsburg este unul dintre cele mai vechi orașe din Germania.",
-      "en": "Augsburg is one of the oldest cities in Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Sie wurde von den Römern gegründet und liegt an den Flüssen Lech und Wertach. Die Fuggerei ist die älteste Sozialsiedlung. Geographie K7 — Flüsse und Städte",
-      "hu": "A rómaiak alapították, és a Lech és Wertach folyók partján fekszik. A Fuggerei a legrégebbi szociális lakónegyed. Földrajz K7 — Folyók és városok",
-      "ro": "A fost fondat de romani și se află pe râurile Lech și Wertach. Fuggerei este cel mai vechi complex de locuințe sociale. Geografie K7 — Râuri și orașe",
-      "en": "It was founded by the Romans and lies on the Lech and Wertach rivers. The Fuggerei is the oldest social housing. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Römerstadt",
-        "Fuggerei",
-        "Am Lech",
-        "Renaissance-Rathaus"
-      ],
-      "hu": [
-        "Római város",
-        "Fuggerei",
-        "A Lech folyónál",
-        "Reneszánsz városháza"
-      ],
-      "ro": [
-        "Oraș roman",
-        "Fuggerei",
-        "Pe Lech",
-        "Primăria renascentistă"
-      ],
-      "en": [
-        "Roman city",
-        "Fuggerei",
-        "On the Lech",
-        "Renaissance City Hall"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Das Jahr 1521 minus 20 Jahre = ?",
-      "hu": "Az 1521-es év mínusz 20 év = ?",
-      "ro": "Anul 1521 minus 20 de ani = ?",
-      "en": "The year 1521 minus 20 years = ?"
-    }
-  },
+  ,
   {
     "id": "rosenheim-extra",
     "type": "city",
@@ -414,6 +120,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 rivers + 3 mountains = ?"
     }
   },
+  ,
   {
     "id": "garmisch-extra",
     "type": "city",
@@ -473,6 +180,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If the mountain is 2962m, how much is missing to 3000m?"
     }
   },
+  ,
   {
     "id": "berchtesgaden-extra",
     "type": "city",
@@ -532,6 +240,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "3 mountains + 2 lakes = ?"
     }
   },
+  ,
   {
     "id": "fuessen-extra",
     "type": "city",
@@ -591,65 +300,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 5 castles have 4 towers each, how many towers is that?"
     }
   },
-  {
-    "id": "bayreuth-extra",
-    "type": "city",
-    "parent": "DE-BY",
-    "coords": [
-      11.58,
-      49.95
-    ],
-    "name": {
-      "de": "Bayreuth",
-      "hu": "Bayreuth",
-      "ro": "Bayreuth",
-      "en": "Bayreuth"
-    },
-    "description": {
-      "de": "Bayreuth ist weltberühmt für die Richard-Wagner-Festspiele.",
-      "hu": "Bayreuth világhírű a Richard Wagner Ünnepi Játékokról.",
-      "ro": "Bayreuth este faimos în întreaga lume pentru Festivalul Richard Wagner.",
-      "en": "Bayreuth is world-famous for the Richard Wagner Festival."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt liegt am Roten Main. Das Markgräfliche Opernhaus ist ein prachtvolles UNESCO-Weltkulturerbe. Geographie K7 — Flüsse und Städte",
-      "hu": "A város a Vörös-Majna partján fekszik. A Őrgrófi Operaház lenyűgöző UNESCO világörökség. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul este situat pe Mainul Roșu. Opera Margrafială este un splendid patrimoniu UNESCO. Geografie K7 — Râuri și orașe",
-      "en": "The city lies on the Red Main. The Margravial Opera House is a splendid UNESCO World Heritage site. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Roter Main",
-        "Festspielhaus",
-        "Richard Wagner",
-        "Opernhaus"
-      ],
-      "hu": [
-        "Vörös-Majna",
-        "Fesztiválpalota",
-        "Richard Wagner",
-        "Operaház"
-      ],
-      "ro": [
-        "Mainul Roșu",
-        "Casa Festivalului",
-        "Richard Wagner",
-        "Teatrul de Operă"
-      ],
-      "en": [
-        "Red Main",
-        "Festival Theatre",
-        "Richard Wagner",
-        "Opera House"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Richard Wagner lebte im 19. Jahrhundert. Welches Jahr ist 19. Jahrhundert? 1850 oder 1950?",
-      "hu": "Richard Wagner a 19. században élt. Melyik év 19. századi? 1850 vagy 1950?",
-      "ro": "Richard Wagner a trăit în secolul 19. Care an este în secolul 19? 1850 sau 1950?",
-      "en": "Richard Wagner lived in the 19th century. Which year is 19th century? 1850 or 1950?"
-    }
-  },
+  ,
   {
     "id": "erlangen-extra",
     "type": "city",
@@ -709,6 +360,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 100 students go into 4 rooms, how many are in one room?"
     }
   },
+  ,
   {
     "id": "aschaffenburg-extra",
     "type": "city",
@@ -768,6 +420,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Castle (Schloss) has 7 letters. Nice has 5. Together?"
     }
   },
+  ,
   {
     "id": "hof-extra",
     "type": "city",
@@ -827,6 +480,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a movie is 90 minutes long, how many hours is that?"
     }
   },
+  ,
   {
     "id": "coburg-extra",
     "type": "city",
@@ -886,301 +540,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A fortress has 4 walls with 3 guards each. How many guards?"
     }
   },
-  {
-    "id": "bochum-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      7.22,
-      51.48
-    ],
-    "name": {
-      "de": "Bochum",
-      "hu": "Bochum",
-      "ro": "Bochum",
-      "en": "Bochum"
-    },
-    "description": {
-      "de": "Bochum ist eine Industriestadt im Ruhrgebiet.",
-      "hu": "Bochum iparváros a Ruhr-vidéken.",
-      "ro": "Bochum este un oraș industrial în regiunea Ruhr.",
-      "en": "Bochum is an industrial city in the Ruhr area."
-    },
-    "descriptionAdvanced": {
-      "de": "Früher war sie vom Bergbau geprägt. Heute ist die Ruhr-Universität ein wichtiges Forschungszentrum. Geographie K7 — Flüsse und Städte",
-      "hu": "Korábban a bányászat jellemezte. Ma a Ruhr-Egyetem fontos kutatóközpont. Földrajz K7 — Folyók és városok",
-      "ro": "În trecut a fost dominat de minerit. Astăzi, Universitatea Ruhr este un important centru de cercetare. Geografie K7 — Râuri și orașe",
-      "en": "It used to be dominated by mining. Today, the Ruhr University is an important research center. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Ruhrgebiet",
-        "Bergbaumuseum",
-        "Planetarium",
-        "Starlight Express"
-      ],
-      "hu": [
-        "Ruhr-vidék",
-        "Bányászati Múzeum",
-        "Planetárium",
-        "Starlight Express"
-      ],
-      "ro": [
-        "Regiunea Ruhr",
-        "Muzeul Mineritului",
-        "Planetariu",
-        "Starlight Express"
-      ],
-      "en": [
-        "Ruhr area",
-        "Mining Museum",
-        "Planetarium",
-        "Starlight Express"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn ein Bergwerk 500m tief ist, wie tief sind 2?",
-      "hu": "Ha egy bánya 500m mély, milyen mély 2 bánya?",
-      "ro": "Dacă o mină are 500m adâncime, cât au 2?",
-      "en": "If a mine is 500m deep, how deep are 2?"
-    }
-  },
-  {
-    "id": "aachen-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      6.08,
-      50.78
-    ],
-    "name": {
-      "de": "Aachen",
-      "hu": "Aachen",
-      "ro": "Aachen",
-      "en": "Aachen"
-    },
-    "description": {
-      "de": "Aachen ist die westlichste Großstadt Deutschlands.",
-      "hu": "Aachen Németország legnyugatibb nagyvárosa.",
-      "ro": "Aachen este cel mai vestic oraș mare din Germania.",
-      "en": "Aachen is the westernmost large city in Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Karl der Große machte Aachen zu seiner Residenz. Der Aachener Dom ist das erste deutsche UNESCO-Welterbe. Geographie K7 — Flüsse und Städte",
-      "hu": "Nagy Károly Aachent tette rezidenciájává. Az aacheni dóm az első német UNESCO világörökség. Földrajz K7 — Folyók és városok",
-      "ro": "Carol cel Mare a făcut din Aachen reședința sa. Domul din Aachen este primul patrimoniu UNESCO german. Geografie K7 — Râuri și orașe",
-      "en": "Charlemagne made Aachen his residence. Aachen Cathedral is the first German UNESCO World Heritage site. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Dreiländereck",
-        "Aachener Dom",
-        "Karl der Große",
-        "Printen"
-      ],
-      "hu": [
-        "Hármashatár",
-        "Aacheni dóm",
-        "Nagy Károly",
-        "Printen (sütemény)"
-      ],
-      "ro": [
-        "Granița triplă",
-        "Domul din Aachen",
-        "Carol cel Mare",
-        "Turta dulce Printen"
-      ],
-      "en": [
-        "Tri-border",
-        "Aachen Cathedral",
-        "Charlemagne",
-        "Printen (gingerbread)"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "3 Länder grenzen aneinander. Wie viele Grenzen gibt es?",
-      "hu": "3 ország határos egymással. Hány határ van?",
-      "ro": "3 țări se învecinează. Câte granițe sunt?",
-      "en": "3 countries border each other. How many borders are there?"
-    }
-  },
-  {
-    "id": "muenster-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      7.63,
-      51.96
-    ],
-    "name": {
-      "de": "Münster",
-      "hu": "Münster",
-      "ro": "Münster",
-      "en": "Münster"
-    },
-    "description": {
-      "de": "Münster ist als Fahrradstadt bekannt.",
-      "hu": "Münster kerékpáros városként ismert.",
-      "ro": "Münster este cunoscut ca orașul bicicletelor.",
-      "en": "Münster is known as a bicycle city."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier wurde 1648 der Westfälische Friede geschlossen. Die Aa fließt durch die lebhafte Studentenstadt. Geographie K7 — Flüsse und Städte",
-      "hu": "Itt kötötték meg 1648-ban a vesztfáliai békét. Az Aa folyó szeli át a nyüzsgő diákvárost. Földrajz K7 — Folyók és városok",
-      "ro": "Pacea de la Westfalia a fost semnată aici în 1648. Râul Aa curge prin orașul studențesc plin de viață. Geografie K7 — Râuri și orașe",
-      "en": "The Peace of Westphalia was signed here in 1648. The Aa river flows through the lively student city. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Fahrradstadt",
-        "Friedenssaal",
-        "Prinzipalmarkt",
-        "Fluss Aa"
-      ],
-      "hu": [
-        "Kerékpáros város",
-        "Béke terme",
-        "Prinzipalmarkt",
-        "Aa folyó"
-      ],
-      "ro": [
-        "Orașul bicicletelor",
-        "Sala Păcii",
-        "Prinzipalmarkt",
-        "Râul Aa"
-      ],
-      "en": [
-        "Bicycle city",
-        "Hall of Peace",
-        "Prinzipalmarkt",
-        "River Aa"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn 50 Studenten 100 Fahrräder haben, wie viele Fahrräder pro Student?",
-      "hu": "Ha 50 diáknak 100 kerékpárja van, hány kerékpár jut egy diákra?",
-      "ro": "Dacă 50 de studenți au 100 de biciclete, câte biciclete per student?",
-      "en": "If 50 students have 100 bicycles, how many bicycles per student?"
-    }
-  },
-  {
-    "id": "bielefeld-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      8.53,
-      52.03
-    ],
-    "name": {
-      "de": "Bielefeld",
-      "hu": "Bielefeld",
-      "ro": "Bielefeld",
-      "en": "Bielefeld"
-    },
-    "description": {
-      "de": "Bielefeld liegt am Rand des Teutoburger Waldes.",
-      "hu": "Bielefeld a Teutoburgi-erdő szélén fekszik.",
-      "ro": "Bielefeld este situat la marginea Pădurii Teutoburg.",
-      "en": "Bielefeld is located on the edge of the Teutoburg Forest."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Sparrenburg ist das Wahrzeichen der Stadt. Ein Internet-Scherz behauptet fälschlicherweise, die Stadt existiere nicht. Geographie K7 — Flüsse und Städte",
-      "hu": "A Sparrenburg a város jelképe. Egy internetes vicc tévesen azt állítja, hogy a város nem létezik. Földrajz K7 — Folyók és városok",
-      "ro": "Castelul Sparrenburg este simbolul orașului. O glumă pe internet susține în mod fals că orașul nu există. Geografie K7 — Râuri și orașe",
-      "en": "Sparrenburg Castle is the landmark of the city. An internet joke falsely claims the city doesn't exist. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Sparrenburg",
-        "Teutoburger Wald",
-        "Oetker",
-        "Bielefeld-Verschwörung"
-      ],
-      "hu": [
-        "Sparrenburg",
-        "Teutoburgi-erdő",
-        "Oetker",
-        "Bielefeld-összeesküvés"
-      ],
-      "ro": [
-        "Sparrenburg",
-        "Pădurea Teutoburg",
-        "Oetker",
-        "Conspirația Bielefeld"
-      ],
-      "en": [
-        "Sparrenburg",
-        "Teutoburg Forest",
-        "Oetker",
-        "Bielefeld conspiracy"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "1 Burg + 1 Wald + 1 Stadt = ?",
-      "hu": "1 vár + 1 erdő + 1 város = ?",
-      "ro": "1 castel + 1 pădure + 1 oraș = ?",
-      "en": "1 castle + 1 forest + 1 city = ?"
-    }
-  },
-  {
-    "id": "wuppertal-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      7.18,
-      51.26
-    ],
-    "name": {
-      "de": "Wuppertal",
-      "hu": "Wuppertal",
-      "ro": "Wuppertal",
-      "en": "Wuppertal"
-    },
-    "description": {
-      "de": "Wuppertal ist berühmt für seine Schwebebahn.",
-      "hu": "Wuppertal híres a függővasútjáról.",
-      "ro": "Wuppertal este renumit pentru calea ferată suspendată.",
-      "en": "Wuppertal is famous for its suspension railway."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Bahn fährt über dem Fluss Wupper durch das Tal. Die Stadt hat viele Treppen und steile Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A vonat a Wupper folyó felett halad a völgyben. A városnak sok lépcsője és meredek utcája van. Földrajz K7 — Folyók és városok",
-      "ro": "Trenul merge deasupra râului Wupper prin vale. Orașul are multe scări și străzi abrupte. Geografie K7 — Râuri și orașe",
-      "en": "The train runs above the river Wupper through the valley. The city has many stairs and steep streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Schwebebahn",
-        "An der Wupper",
-        "Bergisches Land",
-        "Elefant Tuffi"
-      ],
-      "hu": [
-        "Függővasút",
-        "A Wupper folyónál",
-        "Bergisches Land",
-        "Tuffi elefánt"
-      ],
-      "ro": [
-        "Trenul suspendat",
-        "Pe râul Wupper",
-        "Bergisches Land",
-        "Elefantul Tuffi"
-      ],
-      "en": [
-        "Suspension railway",
-        "On the Wupper",
-        "Bergisches Land",
-        "Elephant Tuffi"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn die Schwebebahn 13 km lang ist, wie viel sind hin und zurück?",
-      "hu": "Ha a függővasút 13 km hosszú, mennyi oda-vissza?",
-      "ro": "Dacă trenul suspendat are 13 km, cât înseamnă dus-întors?",
-      "en": "If the suspension railway is 13 km long, how much is round trip?"
-    }
-  },
+  ,
   {
     "id": "moenchengladbach-extra",
     "type": "city",
@@ -1240,6 +600,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "11 players + 11 players = ?"
     }
   },
+  ,
   {
     "id": "solingen-extra",
     "type": "city",
@@ -1299,6 +660,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 1 pair of scissors has 2 blades, how many blades do 5 scissors have?"
     }
   },
+  ,
   {
     "id": "krefeld-extra",
     "type": "city",
@@ -1358,6 +720,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Velvet and silk: 2 fabrics + 2 colors = ?"
     }
   },
+  ,
   {
     "id": "paderborn-extra",
     "type": "city",
@@ -1417,6 +780,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If the river is 4000 meters long, how many kilometers is that?"
     }
   },
+  ,
   {
     "id": "siegen-extra",
     "type": "city",
@@ -1476,6 +840,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a painter paints 5 pictures a month, how many in a year?"
     }
   },
+  ,
   {
     "id": "hamm-extra",
     "type": "city",
@@ -1535,6 +900,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "An elephant weighs 4000 kg. How much do 2 elephants weigh?"
     }
   },
+  ,
   {
     "id": "hagen-extra",
     "type": "city",
@@ -1594,6 +960,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If Hagen has 4 rivers, how many banks are there?"
     }
   },
+  ,
   {
     "id": "leverkusen-extra",
     "type": "city",
@@ -1653,65 +1020,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 4 football matches last 90 minutes each, how many minutes in total?"
     }
   },
-  {
-    "id": "bonn-extra",
-    "type": "city",
-    "parent": "DE-NW",
-    "coords": [
-      7.1,
-      50.73
-    ],
-    "name": {
-      "de": "Bonn",
-      "hu": "Bonn",
-      "ro": "Bonn",
-      "en": "Bonn"
-    },
-    "description": {
-      "de": "Bonn war die Hauptstadt der Bundesrepublik Deutschland.",
-      "hu": "Bonn volt a Német Szövetségi Köztársaság fővárosa.",
-      "ro": "Bonn a fost capitala Republicii Federale Germania.",
-      "en": "Bonn was the capital of the Federal Republic of Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier wurde 1770 der berühmte Komponist Ludwig van Beethoven geboren. Die Stadt am Rhein ist heute ein wichtiger UN-Standort. Geographie K7 — Flüsse und Städte",
-      "hu": "Itt született 1770-ben a híres zeneszerző, Ludwig van Beethoven. A Rajna-parti város ma fontos ENSZ-központ. Földrajz K7 — Folyók és városok",
-      "ro": "Faimosul compozitor Ludwig van Beethoven s-a născut aici în 1770. Orașul de pe Rin este astăzi o importantă locație a ONU. Geografie K7 — Râuri și orașe",
-      "en": "The famous composer Ludwig van Beethoven was born here in 1770. The city on the Rhine is today an important UN location. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Ehemalige Hauptstadt",
-        "Beethoven-Haus",
-        "Am Rhein",
-        "UN-Campus"
-      ],
-      "hu": [
-        "Egykori főváros",
-        "Beethoven-ház",
-        "A Rajna mentén",
-        "ENSZ-kampusz"
-      ],
-      "ro": [
-        "Fostă capitală",
-        "Casa Beethoven",
-        "Pe Rin",
-        "Campusul ONU"
-      ],
-      "en": [
-        "Former capital",
-        "Beethoven House",
-        "On the Rhine",
-        "UN Campus"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2024 minus 1770 = ?",
-      "hu": "2024 mínusz 1770 = ?",
-      "ro": "2024 minus 1770 = ?",
-      "en": "2024 minus 1770 = ?"
-    }
-  },
+  ,
   {
     "id": "recklinghausen-extra",
     "type": "city",
@@ -1771,6 +1080,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a festival lasts 3 weeks, how many days is that?"
     }
   },
+  ,
   {
     "id": "mannheim-extra",
     "type": "city",
@@ -1830,6 +1140,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A chessboard has 8x8 squares. How many squares is that?"
     }
   },
+  ,
   {
     "id": "karlsruhe-extra",
     "type": "city",
@@ -1889,242 +1200,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A fan has 32 ribs. Half are broken. How many are left?"
     }
   },
-  {
-    "id": "heidelberg-extra",
-    "type": "city",
-    "parent": "DE-BW",
-    "coords": [
-      8.71,
-      49.41
-    ],
-    "name": {
-      "de": "Heidelberg",
-      "hu": "Heidelberg",
-      "ro": "Heidelberg",
-      "en": "Heidelberg"
-    },
-    "description": {
-      "de": "Heidelberg ist für seine romantische Schlossruine berühmt.",
-      "hu": "Heidelberg híres romantikus kastélyromjáról.",
-      "ro": "Heidelberg este faimos pentru ruina sa romantică a castelului.",
-      "en": "Heidelberg is famous for its romantic castle ruin."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt am Neckar beherbergt die älteste Universität Deutschlands. Die malerische Altstadt zieht Touristen aus aller Welt an. Geographie K7 — Flüsse und Städte",
-      "hu": "A Neckar menti város ad otthont Németország legrégebbi egyetemének. A festői óváros a világ minden tájáról vonzza a turistákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul de pe Neckar găzduiește cea mai veche universitate din Germania. Orașul vechi pitoresc atrage turiști din întreaga lume. Geografie K7 — Râuri și orașe",
-      "en": "The city on the Neckar is home to the oldest university in Germany. The picturesque old town attracts tourists from all over the world. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Heidelberger Schloss",
-        "Älteste Universität",
-        "Am Neckar",
-        "Alte Brücke"
-      ],
-      "hu": [
-        "Heidelbergi kastély",
-        "Legrégebbi egyetem",
-        "A Neckar mentén",
-        "Öreg híd"
-      ],
-      "ro": [
-        "Castelul Heidelberg",
-        "Cea mai veche universitate",
-        "Pe Neckar",
-        "Podul Vechi"
-      ],
-      "en": [
-        "Heidelberg Castle",
-        "Oldest university",
-        "On the Neckar",
-        "Old Bridge"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn die Universität 1386 gegründet wurde, wie alt ist sie 2086?",
-      "hu": "Ha az egyetemet 1386-ban alapították, hány éves lesz 2086-ban?",
-      "ro": "Dacă universitatea a fost fondată în 1386, câți ani va avea în 2086?",
-      "en": "If the university was founded in 1386, how old is it in 2086?"
-    }
-  },
-  {
-    "id": "freiburg-extra",
-    "type": "city",
-    "parent": "DE-BW",
-    "coords": [
-      7.85,
-      47.99
-    ],
-    "name": {
-      "de": "Freiburg im Breisgau",
-      "hu": "Freiburg im Breisgau",
-      "ro": "Freiburg im Breisgau",
-      "en": "Freiburg im Breisgau"
-    },
-    "description": {
-      "de": "Freiburg hat die meisten Sonnenstunden in Deutschland.",
-      "hu": "Freiburgban van a legtöbb napsütéses óra Németországban.",
-      "ro": "Freiburg are cele mai multe ore de soare din Germania.",
-      "en": "Freiburg has the most sunshine hours in Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Bächle fließen durch die gesamte Altstadt. Die Stadt liegt am Rande des Schwarzwaldes. Geographie K7 — Flüsse und Städte",
-      "hu": "A Bächle (kis patakok) átfolynak az egész óvároson. A város a Fekete-erdő szélén fekszik. Földrajz K7 — Folyók és városok",
-      "ro": "Bächle (mici pâraie) curg prin tot orașul vechi. Orașul este situat la marginea Pădurii Negre. Geografie K7 — Râuri și orașe",
-      "en": "The Bächle (small streams) flow through the entire old town. The city is located on the edge of the Black Forest. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Freiburger Münster",
-        "Schwarzwald",
-        "Freiburger Bächle",
-        "Sonnenstadt"
-      ],
-      "hu": [
-        "Freiburgi dóm",
-        "Fekete-erdő",
-        "Freiburgi Bächle",
-        "Napfény városa"
-      ],
-      "ro": [
-        "Domul din Freiburg",
-        "Pădurea Neagră",
-        "Pâraiele Bächle",
-        "Orașul soarelui"
-      ],
-      "en": [
-        "Freiburg Minster",
-        "Black Forest",
-        "Freiburg Bächle",
-        "Sun city"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn die Sonne 8 Stunden am Tag scheint, wie viele Stunden in einer Woche?",
-      "hu": "Ha a nap napi 8 órát süt, hány órát süt egy héten?",
-      "ro": "Dacă soarele strălucește 8 ore pe zi, câte ore într-o săptămână?",
-      "en": "If the sun shines 8 hours a day, how many hours in a week?"
-    }
-  },
-  {
-    "id": "tuebingen-extra",
-    "type": "city",
-    "parent": "DE-BW",
-    "coords": [
-      9.05,
-      48.52
-    ],
-    "name": {
-      "de": "Tübingen",
-      "hu": "Tübingen",
-      "ro": "Tübingen",
-      "en": "Tübingen"
-    },
-    "description": {
-      "de": "Tübingen ist eine malerische Universitätsstadt.",
-      "hu": "Tübingen festői egyetemváros.",
-      "ro": "Tübingen este un oraș universitar pitoresc.",
-      "en": "Tübingen is a picturesque university town."
-    },
-    "descriptionAdvanced": {
-      "de": "Typisch sind die Stocherkähne auf dem Neckar. Viele berühmte Dichter und Denker haben hier studiert. Geographie K7 — Flüsse und Städte",
-      "hu": "Tipikusak a Stocherkahn-ok (csónakok) a Neckaron. Számos híres költő és gondolkodó tanult itt. Földrajz K7 — Folyók és városok",
-      "ro": "Bărcile cu prăjină (Stocherkähne) pe Neckar sunt tipice. Mulți poeți și gânditori celebri au studiat aici. Geografie K7 — Râuri și orașe",
-      "en": "Punt boats (Stocherkähne) on the Neckar are typical. Many famous poets and thinkers studied here. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Universitätsstadt",
-        "Stocherkahn",
-        "Am Neckar",
-        "Hölderlinturm"
-      ],
-      "hu": [
-        "Egyetemváros",
-        "Stocherkahn",
-        "A Neckar mentén",
-        "Hölderlin-torony"
-      ],
-      "ro": [
-        "Oraș universitar",
-        "Bărci cu prăjină",
-        "Pe Neckar",
-        "Turnul Hölderlin"
-      ],
-      "en": [
-        "University town",
-        "Punt boats",
-        "On the Neckar",
-        "Hölderlin Tower"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn 6 Leute in einen Kahn passen, wie viele Kähne für 24 Leute?",
-      "hu": "Ha 6 ember fér egy csónakba, hány csónak kell 24 embernek?",
-      "ro": "Dacă 6 oameni încap într-o barcă, de câte bărci e nevoie pentru 24 de oameni?",
-      "en": "If 6 people fit in a punt, how many punts for 24 people?"
-    }
-  },
-  {
-    "id": "ulm-extra",
-    "type": "city",
-    "parent": "DE-BW",
-    "coords": [
-      9.98,
-      48.4
-    ],
-    "name": {
-      "de": "Ulm",
-      "hu": "Ulm",
-      "ro": "Ulm",
-      "en": "Ulm"
-    },
-    "description": {
-      "de": "Ulm hat den höchsten Kirchturm der Welt.",
-      "hu": "Ulmban van a világ legmagasabb templomtornya.",
-      "ro": "Ulm are cel mai înalt turn de biserică din lume.",
-      "en": "Ulm has the tallest church tower in the world."
-    },
-    "descriptionAdvanced": {
-      "de": "Das Ulmer Münster dominiert die Stadt an der Donau. Albert Einstein wurde hier geboren. Geographie K7 — Flüsse und Städte",
-      "hu": "Az ulmi dóm uralja a Duna-parti várost. Itt született Albert Einstein. Földrajz K7 — Folyók és városok",
-      "ro": "Domul din Ulm domină orașul de pe Dunăre. Albert Einstein s-a născut aici. Geografie K7 — Râuri și orașe",
-      "en": "Ulm Minster dominates the city on the Danube. Albert Einstein was born here. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Ulmer Münster (161m)",
-        "An der Donau",
-        "Albert Einstein",
-        "Fischerviertel"
-      ],
-      "hu": [
-        "Ulmi dóm (161m)",
-        "A Dunánál",
-        "Albert Einstein",
-        "Halásznegyed"
-      ],
-      "ro": [
-        "Domul din Ulm (161m)",
-        "Pe Dunăre",
-        "Albert Einstein",
-        "Cartierul pescarilor"
-      ],
-      "en": [
-        "Ulm Minster (161m)",
-        "On the Danube",
-        "Albert Einstein",
-        "Fishermen's Quarter"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Der Turm hat 768 Stufen. Du hast 300 geschafft. Wie viele fehlen?",
-      "hu": "A toronynak 768 lépcsője van. 300-at megtettél. Mennyi hiányzik?",
-      "ro": "Turnul are 768 de trepte. Ai urcat 300. Câte mai sunt?",
-      "en": "The tower has 768 steps. You climbed 300. How many are missing?"
-    }
-  },
+  ,
   {
     "id": "heilbronn-extra",
     "type": "city",
@@ -2184,6 +1260,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 3 boxes have 12 grapes each, how many grapes is that?"
     }
   },
+  ,
   {
     "id": "pforzheim-extra",
     "type": "city",
@@ -2243,6 +1320,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Gold shines. 3 watches + 4 rings = how many pieces of jewelry?"
     }
   },
+  ,
   {
     "id": "reutlingen-extra",
     "type": "city",
@@ -2302,65 +1380,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a street is 31 cm wide, how many mm is that?"
     }
   },
-  {
-    "id": "konstanz-extra",
-    "type": "city",
-    "parent": "DE-BW",
-    "coords": [
-      9.17,
-      47.66
-    ],
-    "name": {
-      "de": "Konstanz",
-      "hu": "Konstanz",
-      "ro": "Konstanz",
-      "en": "Konstanz"
-    },
-    "description": {
-      "de": "Konstanz ist die größte Stadt am Bodensee.",
-      "hu": "Konstanz a Bóden-tó legnagyobb városa.",
-      "ro": "Konstanz este cel mai mare oraș de pe Lacul Constanța.",
-      "en": "Konstanz is the largest city on Lake Constance."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier verlässt der Rhein den Bodensee. Das historische Konzilgebäude erinnert an das Konstanzer Konzil (1414–1418). Geographie K7 — Flüsse und Städte",
-      "hu": "Itt hagyja el a Rajna a Bóden-tavat. A történelmi zsinati épület emlékeztet a konstanzi zsinatra (1414–1418). Földrajz K7 — Folyók és városok",
-      "ro": "Aici Rinul părăsește Lacul Constanța. Clădirea istorică a consiliului amintește de Consiliul de la Constanța (1414-1418). Geografie K7 — Râuri și orașe",
-      "en": "The Rhine leaves Lake Constance here. The historic council building commemorates the Council of Constance (1414–1418). Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Bodensee",
-        "Konstanzer Konzil",
-        "Imperia",
-        "Grenze zur Schweiz"
-      ],
-      "hu": [
-        "Bóden-tó",
-        "Konstanzi zsinat",
-        "Imperia",
-        "Svájci határ"
-      ],
-      "ro": [
-        "Lacul Constanța",
-        "Consiliul de la Constanța",
-        "Imperia",
-        "Granița cu Elveția"
-      ],
-      "en": [
-        "Lake Constance",
-        "Council of Constance",
-        "Imperia",
-        "Border with Switzerland"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Das Konzil dauerte von 1414 bis 1418. Wie viele Jahre sind das?",
-      "hu": "A zsinat 1414-től 1418-ig tartott. Hány év ez?",
-      "ro": "Consiliul a durat din 1414 până în 1418. Câți ani sunt?",
-      "en": "The council lasted from 1414 to 1418. How many years is that?"
-    }
-  },
+  ,
   {
     "id": "esslingen-extra",
     "type": "city",
@@ -2420,6 +1440,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a half-timbered house is 400 years old, what century is it from?"
     }
   },
+  ,
   {
     "id": "sindelfingen-extra",
     "type": "city",
@@ -2479,6 +1500,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If the factory builds 1000 cars a day, how many in 5 days?"
     }
   },
+  ,
   {
     "id": "aalen-extra",
     "type": "city",
@@ -2538,6 +1560,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 50 Romans sleep in 5 tents, how many Romans per tent?"
     }
   },
+  ,
   {
     "id": "schwaebisch-gmuend-extra",
     "type": "city",
@@ -2597,6 +1620,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "1 gold ring + 2 silver chains = how many pieces of jewelry?"
     }
   },
+  ,
   {
     "id": "ravensburg-extra",
     "type": "city",
@@ -2656,242 +1680,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a game has 4 players and 3 games are running, how many players are playing?"
     }
   },
-  {
-    "id": "darmstadt-extra",
-    "type": "city",
-    "parent": "DE-HE",
-    "coords": [
-      8.65,
-      49.87
-    ],
-    "name": {
-      "de": "Darmstadt",
-      "hu": "Darmstadt",
-      "ro": "Darmstadt",
-      "en": "Darmstadt"
-    },
-    "description": {
-      "de": "Darmstadt trägt den offiziellen Titel 'Wissenschaftsstadt'.",
-      "hu": "Darmstadt a 'Tudomány városa' hivatalos címet viseli.",
-      "ro": "Darmstadt poartă titlul oficial de 'Oraș al Științei'.",
-      "en": "Darmstadt bears the official title 'City of Science'."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier gibt es viele Forschungseinrichtungen. Die Mathildenhöhe ist ein Zentrum des Jugendstils. Geographie K7 — Flüsse und Städte",
-      "hu": "Számos kutatóintézet található itt. A Mathildenhöhe a szecesszió központja. Földrajz K7 — Folyók és városok",
-      "ro": "Există multe instituții de cercetare aici. Mathildenhöhe este un centru al Art Nouveau. Geografie K7 — Râuri și orașe",
-      "en": "There are many research institutions here. The Mathildenhöhe is a center of Art Nouveau. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Wissenschaftsstadt",
-        "Mathildenhöhe",
-        "Jugendstil",
-        "ESA-Zentrum"
-      ],
-      "hu": [
-        "Tudomány városa",
-        "Mathildenhöhe",
-        "Szecesszió",
-        "ESA-központ"
-      ],
-      "ro": [
-        "Orașul științei",
-        "Mathildenhöhe",
-        "Art Nouveau",
-        "Centrul ESA"
-      ],
-      "en": [
-        "City of science",
-        "Mathildenhöhe",
-        "Art Nouveau",
-        "ESA center"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Eine Rakete fliegt 10 km hoch, dann nochmal 20 km. Wie hoch ist sie?",
-      "hu": "Egy rakéta 10 km magasra repül, majd még 20 km-t. Milyen magasan van?",
-      "ro": "O rachetă zboară 10 km sus, apoi încă 20 km. La ce altitudine este?",
-      "en": "A rocket flies 10 km high, then another 20 km. How high is it?"
-    }
-  },
-  {
-    "id": "kassel-extra",
-    "type": "city",
-    "parent": "DE-HE",
-    "coords": [
-      9.5,
-      51.31
-    ],
-    "name": {
-      "de": "Kassel",
-      "hu": "Kassel",
-      "ro": "Kassel",
-      "en": "Kassel"
-    },
-    "description": {
-      "de": "Kassel ist berühmt für die Kunstausstellung documenta.",
-      "hu": "Kassel híres a documenta művészeti kiállításról.",
-      "ro": "Kassel este renumit pentru expoziția de artă documenta.",
-      "en": "Kassel is famous for the documenta art exhibition."
-    },
-    "descriptionAdvanced": {
-      "de": "Der Bergpark Wilhelmshöhe mit dem Herkules-Denkmal ist UNESCO-Welterbe. Kassel liegt an der Fulda. Geographie K7 — Flüsse und Städte",
-      "hu": "A Wilhelmshöhe hegyipark a Herkules-emlékművel UNESCO világörökség. Kassel a Fulda folyó partján fekszik. Földrajz K7 — Folyók és városok",
-      "ro": "Parcul montan Wilhelmshöhe cu monumentul lui Hercule este patrimoniu UNESCO. Kassel este pe râul Fulda. Geografie K7 — Râuri și orașe",
-      "en": "The Bergpark Wilhelmshöhe with the Hercules monument is a UNESCO World Heritage site. Kassel is on the Fulda river. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "documenta",
-        "Bergpark Wilhelmshöhe",
-        "Herkules",
-        "An der Fulda"
-      ],
-      "hu": [
-        "documenta",
-        "Wilhelmshöhe hegyipark",
-        "Herkules",
-        "A Fulda mentén"
-      ],
-      "ro": [
-        "documenta",
-        "Parcul montan Wilhelmshöhe",
-        "Hercule",
-        "Pe râul Fulda"
-      ],
-      "en": [
-        "documenta",
-        "Bergpark Wilhelmshöhe",
-        "Hercules",
-        "On the Fulda"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Die documenta findet alle 5 Jahre statt. Wenn sie 2022 war, wann ist die nächste?",
-      "hu": "A documenta ötévente van. Ha 2022-ben volt, mikor lesz a következő?",
-      "ro": "Documenta are loc la fiecare 5 ani. Dacă a fost în 2022, când este următoarea?",
-      "en": "The documenta takes place every 5 years. If it was in 2022, when is the next one?"
-    }
-  },
-  {
-    "id": "marburg-extra",
-    "type": "city",
-    "parent": "DE-HE",
-    "coords": [
-      8.77,
-      50.8
-    ],
-    "name": {
-      "de": "Marburg",
-      "hu": "Marburg",
-      "ro": "Marburg",
-      "en": "Marburg"
-    },
-    "description": {
-      "de": "Marburg ist eine klassische Studentenstadt.",
-      "hu": "Marburg klasszikus diákváros.",
-      "ro": "Marburg este un oraș studențesc clasic.",
-      "en": "Marburg is a classic student city."
-    },
-    "descriptionAdvanced": {
-      "de": "Sie liegt im Lahntal. Die Elisabethkirche und das Landgrafenschloss prägen das Stadtbild. Geographie K7 — Flüsse und Städte",
-      "hu": "A Lahn völgyében fekszik. Az Erzsébet-templom és az őrgrófi kastély uralja a városképet. Földrajz K7 — Folyók és városok",
-      "ro": "Este situat în valea Lahn. Biserica Elisabeta și castelul landgrafului domină peisajul urban. Geografie K7 — Râuri și orașe",
-      "en": "It is located in the Lahn valley. The Elisabeth Church and the Landgrave's Castle dominate the cityscape. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "An der Lahn",
-        "Universitätsstadt",
-        "Elisabethkirche",
-        "Landgrafenschloss"
-      ],
-      "hu": [
-        "A Lahn mentén",
-        "Egyetemváros",
-        "Erzsébet-templom",
-        "Őrgrófi kastély"
-      ],
-      "ro": [
-        "Pe Lahn",
-        "Oraș universitar",
-        "Biserica Elisabeta",
-        "Castelul Landgrafului"
-      ],
-      "en": [
-        "On the Lahn",
-        "University town",
-        "Elisabeth Church",
-        "Landgrave's Castle"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Ein Schloss hat 4 Türme. 3 Schlösser haben wie viele Türme?",
-      "hu": "Egy kastélynak 4 tornya van. 3 kastélynak hány tornya van?",
-      "ro": "Un castel are 4 turnuri. 3 castele au câte turnuri?",
-      "en": "A castle has 4 towers. 3 castles have how many towers?"
-    }
-  },
-  {
-    "id": "giessen-extra",
-    "type": "city",
-    "parent": "DE-HE",
-    "coords": [
-      8.67,
-      50.58
-    ],
-    "name": {
-      "de": "Gießen",
-      "hu": "Gießen",
-      "ro": "Gießen",
-      "en": "Gießen"
-    },
-    "description": {
-      "de": "Gießen hat eine der höchsten Studentendichten in Deutschland.",
-      "hu": "Gießenben az egyik legmagasabb a hallgatók aránya Németországban.",
-      "ro": "Gießen are una dintre cele mai mari densități de studenți din Germania.",
-      "en": "Gießen has one of the highest student densities in Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt liegt an der Lahn. Justus Liebig, der berühmte Chemiker, lehrte hier an der Universität. Geographie K7 — Flüsse und Städte",
-      "hu": "A város a Lahn folyó mentén fekszik. Justus Liebig, a híres kémikus itt tanított az egyetemen. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul este pe râul Lahn. Justus Liebig, faimosul chimist, a predat aici la universitate. Geografie K7 — Râuri și orașe",
-      "en": "The city is on the Lahn river. Justus Liebig, the famous chemist, taught here at the university. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Studentenstadt",
-        "An der Lahn",
-        "Justus Liebig",
-        "Mathematikum"
-      ],
-      "hu": [
-        "Diákváros",
-        "A Lahn mentén",
-        "Justus Liebig",
-        "Mathematikum"
-      ],
-      "ro": [
-        "Oraș studențesc",
-        "Pe râul Lahn",
-        "Justus Liebig",
-        "Mathematikum"
-      ],
-      "en": [
-        "Student city",
-        "On the Lahn",
-        "Justus Liebig",
-        "Mathematikum"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn in einem Reagenzglas 20ml und im anderen 30ml sind, wie viel zusammen?",
-      "hu": "Ha egy kémcsőben 20 ml, a másikban 30 ml van, mennyi az összesen?",
-      "ro": "Dacă într-o eprubetă sunt 20 ml și în alta 30 ml, cât este împreună?",
-      "en": "If in one test tube is 20ml and in the other 30ml, how much together?"
-    }
-  },
+  ,
   {
     "id": "fulda-extra",
     "type": "city",
@@ -2951,6 +1740,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "River Fulda has 5 letters, the city Fulda too. Together?"
     }
   },
+  ,
   {
     "id": "offenbach-extra",
     "type": "city",
@@ -3010,6 +1800,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a bag consists of 3 pieces of leather, how many in 4 bags?"
     }
   },
+  ,
   {
     "id": "hanau-extra",
     "type": "city",
@@ -3069,6 +1860,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Snow White has 7 dwarfs. How many dwarfs do 3 Snow Whites have?"
     }
   },
+  ,
   {
     "id": "wetzlar-extra",
     "type": "city",
@@ -3128,6 +1920,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a pair of binoculars has 2 lenses, how many lenses do 6 binoculars have?"
     }
   },
+  ,
   {
     "id": "limburg-extra",
     "type": "city",
@@ -3187,6 +1980,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The cathedral has 7 towers. 2 towers are in front. How many in back?"
     }
   },
+  ,
   {
     "id": "bad-homburg-extra",
     "type": "city",
@@ -3246,6 +2040,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 3 springs yield 5 liters of water per minute each, how much together?"
     }
   },
+  ,
   {
     "id": "friedberg-extra",
     "type": "city",
@@ -3305,6 +2100,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Elvis was in Friedberg for 2 years. How many months is that?"
     }
   },
+  ,
   {
     "id": "ruesselsheim-extra",
     "type": "city",
@@ -3364,6 +2160,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 4 cars have 5 seats each, how many people can ride?"
     }
   },
+  ,
   {
     "id": "bensheim-extra",
     "type": "city",
@@ -3423,6 +2220,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 10 almond trees give 5 kilos of almonds each, how many kilos?"
     }
   },
+  ,
   {
     "id": "eschwege-extra",
     "type": "city",
@@ -3482,6 +2280,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A lake is 2 km long and 1 km wide. 2 + 1 = ?"
     }
   },
+  ,
   {
     "id": "neu-isenburg-extra",
     "type": "city",
@@ -3541,124 +2340,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If an airplane has 4 engines, how many do 2 airplanes have?"
     }
   },
-  {
-    "id": "braunschweig-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      10.5211,
-      52.2689
-    ],
-    "name": {
-      "de": "Braunschweig",
-      "hu": "Braunschweig",
-      "ro": "Braunschweig",
-      "en": "Brunswick"
-    },
-    "description": {
-      "de": "Braunschweig ist als die Stadt Heinrichs des Löwen bekannt.",
-      "hu": "Braunschweig Oroszlán Henrik városaként ismert.",
-      "ro": "Braunschweig este cunoscut ca orașul lui Henric Leul.",
-      "en": "Brunswick is known as the city of Henry the Lion."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt war ein wichtiges Zentrum des Handels im Mittelalter. Heute ist sie ein bedeutender Standort für Wissenschaft und Forschung in Europa. Geographie K7 — Flüsse und Städte",
-      "hu": "A város fontos kereskedelmi központ volt a középkorban. Ma Európa egyik jelentős tudományos és kutatási központja. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul a fost un important centru comercial în Evul Mediu. Astăzi este un centru major pentru știință și cercetare. Geografie K7 — Râuri și orașe",
-      "en": "The city was an important trade center in the Middle Ages. Today it is a major European hub for science and research. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt der Wissenschaft",
-        "Residenz der Welfen",
-        "Zentrum der Autoindustrie",
-        "Braunschweiger Löwe"
-      ],
-      "hu": [
-        "Tudományok városa",
-        "Welfek rezidenciája",
-        "Autóipar központja",
-        "Braunschweigi oroszlán"
-      ],
-      "ro": [
-        "Orașul științei",
-        "Reședința Welfilor",
-        "Centru auto",
-        "Leul din Braunschweig"
-      ],
-      "en": [
-        "City of Science",
-        "Welf residence",
-        "Car industry hub",
-        "Brunswick Lion"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn der Braunschweiger Löwe 1166 gegossen wurde, wie alt ist er im Jahr 2024?",
-      "hu": "Ha a braunschweigi oroszlánt 1166-ban öntötték, hány éves 2024-ben?",
-      "ro": "Dacă Leul a fost turnat în 1166, câți ani are în 2024?",
-      "en": "If the Brunswick Lion was cast in 1166, how old is it in 2024?"
-    }
-  },
-  {
-    "id": "osnabrueck-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      8.0497,
-      52.2799
-    ],
-    "name": {
-      "de": "Osnabrück",
-      "hu": "Osnabrück",
-      "ro": "Osnabrück",
-      "en": "Osnabrück"
-    },
-    "description": {
-      "de": "Osnabrück ist bekannt als die Stadt des Westfälischen Friedens.",
-      "hu": "Osnabrück a vesztfáliai béke városaként ismert.",
-      "ro": "Osnabrück este cunoscut ca orașul Păcii din Westfalia.",
-      "en": "Osnabrück is known as the city of the Peace of Westphalia."
-    },
-    "descriptionAdvanced": {
-      "de": "Hier wurde 1648 ein Teil des Friedensvertrags unterzeichnet, der den Dreißigjährigen Krieg beendete. Die historische Altstadt zieht viele Besucher an. Geographie K7 — Flüsse und Städte",
-      "hu": "Itt írták alá 1648-ban a harmincéves háborút lezáró békeszerződés egy részét. A történelmi óváros sok látogatót vonz. Földrajz K7 — Folyók és városok",
-      "ro": "Aici s-a semnat o parte a tratatului de pace în 1648 care a pus capăt Războiului de Treizeci de Ani. Orașul vechi atrage mulți vizitatori. Geografie K7 — Râuri și orașe",
-      "en": "Part of the peace treaty ending the Thirty Years' War was signed here in 1648. The historic old town attracts many visitors. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Friedensstadt",
-        "Bistumssitz",
-        "Felix-Nussbaum-Haus",
-        "Historisches Rathaus"
-      ],
-      "hu": [
-        "A béke városa",
-        "Püspöki székhely",
-        "Felix Nussbaum Ház",
-        "Történelmi városháza"
-      ],
-      "ro": [
-        "Orașul păcii",
-        "Sediul episcopiei",
-        "Casa Felix Nussbaum",
-        "Primăria istorică"
-      ],
-      "en": [
-        "City of Peace",
-        "Bishop's seat",
-        "Felix Nussbaum House",
-        "Historic town hall"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Der Krieg dauerte von 1618 bis 1648. Wie viele Jahre sind das?",
-      "hu": "A háború 1618-tól 1648-ig tartott. Hány év ez?",
-      "ro": "Războiul a durat de la 1618 la 1648. Câți ani înseamnă asta?",
-      "en": "The war lasted from 1618 to 1648. How many years is that?"
-    }
-  },
+  ,
   {
     "id": "oldenburg-extra",
     "type": "city",
@@ -3718,124 +2400,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 15,000 students live here out of a population of 170,000, how many are not students?"
     }
   },
-  {
-    "id": "goettingen-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      9.936,
-      51.5413
-    ],
-    "name": {
-      "de": "Göttingen",
-      "hu": "Göttingen",
-      "ro": "Göttingen",
-      "en": "Göttingen"
-    },
-    "description": {
-      "de": "Göttingen ist eine berühmte Universitätsstadt mit vielen Nobelpreisträgern.",
-      "hu": "Göttingen híres egyetemi város, sok Nobel-díjassal.",
-      "ro": "Göttingen este un celebru oraș universitar cu mulți laureați Nobel.",
-      "en": "Göttingen is a famous university city with many Nobel laureates."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Georg-August-Universität gehört zu den ältesten in Niedersachsen. Das Wahrzeichen der Stadt ist die Gänseliesel auf dem Marktplatz. Geographie K7 — Flüsse und Städte",
-      "hu": "A Georg-August Egyetem Alsó-Szászország egyik legrégebbi egyeteme. A város jelképe a Gänseliesel a piactéren. Földrajz K7 — Folyók és városok",
-      "ro": "Universitatea Georg-August este printre cele mai vechi din Saxonia Inferioară. Simbolul orașului este Gänseliesel în piața pieței. Geografie K7 — Râuri și orașe",
-      "en": "The Georg-August University is among the oldest in Lower Saxony. The city's landmark is the Gänseliesel on the market square. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt der Wissenschaft",
-        "Über 40 Nobelpreisträger",
-        "Gänseliesel-Brunnen",
-        "Alte Sternwarte"
-      ],
-      "hu": [
-        "Tudomány városa",
-        "Több mint 40 Nobel-díjas",
-        "Gänseliesel kút",
-        "Régi csillagvizsgáló"
-      ],
-      "ro": [
-        "Orașul științei",
-        "Peste 40 laureați Nobel",
-        "Fântâna Gänseliesel",
-        "Vechiul observator"
-      ],
-      "en": [
-        "City of science",
-        "Over 40 Nobel laureates",
-        "Gänseliesel fountain",
-        "Old observatory"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn 44 Nobelpreisträger aus Göttingen kommen und 4 noch leben, wie viele sind bereits verstorben?",
-      "hu": "Ha 44 Nobel-díjas származik Göttingenből és 4 még él, hányan haltak meg?",
-      "ro": "Dacă 44 de laureați Nobel sunt din Göttingen și 4 mai trăiesc, câți au decedat?",
-      "en": "If 44 Nobel laureates are from Göttingen and 4 are still alive, how many have passed away?"
-    }
-  },
-  {
-    "id": "wolfsburg-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      10.7865,
-      52.4227
-    ],
-    "name": {
-      "de": "Wolfsburg",
-      "hu": "Wolfsburg",
-      "ro": "Wolfsburg",
-      "en": "Wolfsburg"
-    },
-    "description": {
-      "de": "Wolfsburg ist weltweit bekannt als der Hauptsitz von Volkswagen.",
-      "hu": "Wolfsburg világszerte a Volkswagen központjaként ismert.",
-      "ro": "Wolfsburg este cunoscut la nivel mondial ca sediul Volkswagen.",
-      "en": "Wolfsburg is globally known as the headquarters of Volkswagen."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt wurde 1938 eigens für die Arbeiter der Autofabrik gegründet. Neben Autos bietet sie das interaktive Wissenschaftsmuseum Phaeno. Geographie K7 — Flüsse und Städte",
-      "hu": "A várost 1938-ban alapították az autógyári munkások számára. Az autók mellett itt található a Phaeno interaktív tudományos múzeum. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul a fost fondat în 1938 special pentru muncitorii de la fabrica de mașini. Pe lângă mașini, oferă muzeul interactiv de știință Phaeno. Geografie K7 — Râuri și orașe",
-      "en": "The city was founded in 1938 specifically for the car factory workers. Besides cars, it offers the interactive science museum Phaeno. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Autostadt",
-        "Hauptsitz VW",
-        "Phaeno Museum",
-        "Schloss Wolfsburg"
-      ],
-      "hu": [
-        "Autóváros",
-        "VW központ",
-        "Phaeno Múzeum",
-        "Wolfsburgi kastély"
-      ],
-      "ro": [
-        "Orașul auto",
-        "Sediul VW",
-        "Muzeul Phaeno",
-        "Castelul Wolfsburg"
-      ],
-      "en": [
-        "Car city",
-        "VW headquarters",
-        "Phaeno Museum",
-        "Wolfsburg Castle"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Ein VW-Werk produziert 3.500 Autos pro Tag. Wie viele Autos werden in einer Woche (7 Tage) produziert?",
-      "hu": "Egy VW-gyár naponta 3500 autót gyárt. Hány autót gyártanak egy héten (7 nap) alatt?",
-      "ro": "O fabrică VW produce 3.500 de mașini pe zi. Câte mașini sunt produse într-o săptămână (7 zile)?",
-      "en": "A VW plant produces 3,500 cars per day. How many cars are produced in a week (7 days)?"
-    }
-  },
+  ,
   {
     "id": "salzgitter-extra",
     "type": "city",
@@ -3895,124 +2460,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 30,000 tons of steel are produced in Salzgitter in 3 days, how many tons is that per day?"
     }
   },
-  {
-    "id": "hildesheim-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      9.9511,
-      52.1508
-    ],
-    "name": {
-      "de": "Hildesheim",
-      "hu": "Hildesheim",
-      "ro": "Hildesheim",
-      "en": "Hildesheim"
-    },
-    "description": {
-      "de": "Hildesheim ist berühmt für seine historischen Kirchenbauten.",
-      "hu": "Hildesheim híres történelmi templomépületeiről.",
-      "ro": "Hildesheim este faimos pentru clădirile sale bisericești istorice.",
-      "en": "Hildesheim is famous for its historic church buildings."
-    },
-    "descriptionAdvanced": {
-      "de": "Der Mariendom und die Michaeliskirche gehören zum UNESCO-Welterbe. Auch der sagenhafte Tausendjährige Rosenstock zieht Besucher an. Geographie K7 — Flüsse und Städte",
-      "hu": "A Mária-dóm és a Mihály-templom az UNESCO világörökség része. A legendás ezeréves rózsabokor is vonzza a látogatókat. Földrajz K7 — Folyók és városok",
-      "ro": "Catedrala Sf. Maria și Biserica Sf. Mihail aparțin Patrimoniului Mondial UNESCO. Legendarul tufiș de trandafiri de o mie de ani atrage, de asemenea, vizitatori. Geografie K7 — Râuri și orașe",
-      "en": "St. Mary's Cathedral and St. Michael's Church belong to the UNESCO World Heritage. The legendary Thousand-Year Rosebush also attracts visitors. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "UNESCO-Welterbe",
-        "Mariendom",
-        "St. Michaelis",
-        "Tausendjähriger Rosenstock"
-      ],
-      "hu": [
-        "UNESCO Világörökség",
-        "Mária-dóm",
-        "Szent Mihály",
-        "Ezeréves rózsabokor"
-      ],
-      "ro": [
-        "Patrimoniul UNESCO",
-        "Catedrala Maria",
-        "Sf. Mihail",
-        "Tufa de trandafiri de o mie de ani"
-      ],
-      "en": [
-        "UNESCO World Heritage",
-        "St. Mary's Cathedral",
-        "St. Michael's",
-        "Thousand-Year Rosebush"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn der Rosenstock 815 gepflanzt wurde, wie alt ist er im Jahr 2025?",
-      "hu": "Ha a rózsabokrot 815-ben ültették, hány éves lesz 2025-ben?",
-      "ro": "Dacă tufa de trandafiri a fost plantată în 815, câți ani va avea în 2025?",
-      "en": "If the rosebush was planted in 815, how old will it be in 2025?"
-    }
-  },
-  {
-    "id": "wilhelmshaven-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      8.113,
-      53.52
-    ],
-    "name": {
-      "de": "Wilhelmshaven",
-      "hu": "Wilhelmshaven",
-      "ro": "Wilhelmshaven",
-      "en": "Wilhelmshaven"
-    },
-    "description": {
-      "de": "Wilhelmshaven ist Deutschlands größter Marinestützpunkt.",
-      "hu": "Wilhelmshaven Németország legnagyobb haditengerészeti támaszpontja.",
-      "ro": "Wilhelmshaven este cea mai mare bază navală a Germaniei.",
-      "en": "Wilhelmshaven is Germany's largest naval base."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat den einzigen Tiefwasserhafen des Landes. Sie liegt direkt am Jadebusen an der Nordsee. Geographie K7 — Flüsse und Städte",
-      "hu": "A város rendelkezik az ország egyetlen mélyvízi kikötőjével. Közvetlenül a Jade-öbölben fekszik az Északi-tengernél. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are singurul port de apă adâncă din țară. Este situat direct pe Golful Jade la Marea Nordului. Geografie K7 — Râuri și orașe",
-      "en": "The city has the only deep-water port in the country. It is located directly on the Jade Bight at the North Sea. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Marinestützpunkt",
-        "Tiefwasserhafen",
-        "Jadebusen",
-        "Marinemuseum"
-      ],
-      "hu": [
-        "Haditengerészeti bázis",
-        "Mélyvízi kikötő",
-        "Jade-öböl",
-        "Tengerészeti múzeum"
-      ],
-      "ro": [
-        "Bază navală",
-        "Port cu apă adâncă",
-        "Golful Jade",
-        "Muzeul Naval"
-      ],
-      "en": [
-        "Naval base",
-        "Deep-water port",
-        "Jade Bight",
-        "Naval Museum"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Ein Schiff fährt mit 40 km/h. Wie lange braucht es für 200 km Strecke?",
-      "hu": "Egy hajó 40 km/h sebességgel halad. Mennyi idő alatt tesz meg 200 km-t?",
-      "ro": "O navă merge cu 40 km/h. Cât durează să parcurgă 200 km?",
-      "en": "A ship travels at 40 km/h. How long does it take to cover 200 km?"
-    }
-  },
+  ,
   {
     "id": "lueneburg-extra",
     "type": "city",
@@ -4072,65 +2520,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 1 liter of water contains 30 grams of salt, how much salt is in 50 liters?"
     }
   },
-  {
-    "id": "celle-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      10.0826,
-      52.6253
-    ],
-    "name": {
-      "de": "Celle",
-      "hu": "Celle",
-      "ro": "Celle",
-      "en": "Celle"
-    },
-    "description": {
-      "de": "Celle ist berühmt für sein Schloss und über 400 Fachwerkhäuser.",
-      "hu": "Celle híres kastélyáról és több mint 400 favázas házáról.",
-      "ro": "Celle este faimos pentru castelul său și peste 400 de case pe structură de lemn.",
-      "en": "Celle is famous for its castle and over 400 half-timbered houses."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Altstadt ist eine der schönsten Fachwerkstädte Europas. Das Welfenschloss ist das älteste Gebäude der Stadt. Geographie K7 — Flüsse und Städte",
-      "hu": "Az óváros Európa egyik legszebb favázas városa. A Welf-kastély a város legrégebbi épülete. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul vechi este unul dintre cele mai frumoase orașe cu case de lemn din Europa. Castelul Welf este cea mai veche clădire din oraș. Geografie K7 — Râuri și orașe",
-      "en": "The old town is one of the most beautiful half-timbered towns in Europe. The Welf Castle is the oldest building in the city. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Celler Schloss",
-        "Fachwerkstadt",
-        "Lüneburger Heide",
-        "Welfenresidenz"
-      ],
-      "hu": [
-        "Celle-i kastély",
-        "Favázas város",
-        "Lüneburgi-puszta",
-        "Welf rezidencia"
-      ],
-      "ro": [
-        "Castelul Celle",
-        "Orașul caselor de lemn",
-        "Lüneburger Heide",
-        "Reședință Welf"
-      ],
-      "en": [
-        "Celle Castle",
-        "Half-timbered city",
-        "Lüneburg Heath",
-        "Welf residence"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn 400 Häuser in 10 Straßen aufgeteilt werden, wie viele Häuser sind im Durchschnitt in einer Straße?",
-      "hu": "Ha 400 házat 10 utcára osztanak szét, átlagosan hány ház van egy utcában?",
-      "ro": "Dacă 400 de case sunt împărțite pe 10 străzi, câte case sunt în medie pe o stradă?",
-      "en": "If 400 houses are divided into 10 streets, how many houses are in a street on average?"
-    }
-  },
+  ,
   {
     "id": "emden-extra",
     "type": "city",
@@ -4190,6 +2580,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A cargo ship loads 2,500 cars. How many cars do 4 such ships load?"
     }
   },
+  ,
   {
     "id": "stade-extra",
     "type": "city",
@@ -4249,6 +2640,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Sweden ruled Stade from 1645 to 1712. How many years was that?"
     }
   },
+  ,
   {
     "id": "cuxhaven-extra",
     "type": "city",
@@ -4308,65 +2700,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The mudflat hike is 10 km long. At 4 km/h, how long does it take?"
     }
   },
-  {
-    "id": "goslar-extra",
-    "type": "city",
-    "parent": "DE-NI",
-    "coords": [
-      10.4293,
-      51.906
-    ],
-    "name": {
-      "de": "Goslar",
-      "hu": "Goslar",
-      "ro": "Goslar",
-      "en": "Goslar"
-    },
-    "description": {
-      "de": "Goslar ist eine historische Kaiserstadt am Rande des Harzes.",
-      "hu": "Goslar egy történelmi császárváros a Harz-hegység szélén.",
-      "ro": "Goslar este un oraș imperial istoric la marginea munților Harz.",
-      "en": "Goslar is a historic imperial city at the edge of the Harz mountains."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Altstadt und das Bergwerk Rammelsberg sind UNESCO-Weltkulturerbe. Im Mittelalter tagten hier die deutschen Könige. Geographie K7 — Flüsse und Städte",
-      "hu": "Az óváros és a rammelsbergi bánya az UNESCO világörökség része. A középkorban itt üléseztek a német királyok. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul vechi și mina Rammelsberg sunt în Patrimoniul Mondial UNESCO. În Evul Mediu, regii germani se întruneau aici. Geografie K7 — Râuri și orașe",
-      "en": "The old town and the Rammelsberg mine are UNESCO World Heritage. In the Middle Ages, German kings held their assemblies here. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "UNESCO-Welterbe",
-        "Kaiserpfalz",
-        "Bergwerk Rammelsberg",
-        "Harz"
-      ],
-      "hu": [
-        "UNESCO Világörökség",
-        "Császári palota",
-        "Rammelsberg bánya",
-        "Harz-hegység"
-      ],
-      "ro": [
-        "Patrimoniul UNESCO",
-        "Palatul Imperial",
-        "Mina Rammelsberg",
-        "Munții Harz"
-      ],
-      "en": [
-        "UNESCO World Heritage",
-        "Imperial Palace",
-        "Rammelsberg Mine",
-        "Harz"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Das Bergwerk lief 1.000 Jahre ununterbrochen bis 1988. In welchem Jahr wurde es geöffnet?",
-      "hu": "A bánya 1000 évig működött megszakítás nélkül 1988-ig. Melyik évben nyitották meg?",
-      "ro": "Mina a funcționat 1.000 de ani neîntrerupt până în 1988. În ce an a fost deschisă?",
-      "en": "The mine operated continuously for 1,000 years until 1988. What year was it opened?"
-    }
-  },
+  ,
   {
     "id": "lingen-extra",
     "type": "city",
@@ -4426,124 +2760,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 6 wind turbines produce 2 megawatts each, how many megawatts is that in total?"
     }
   },
-  {
-    "id": "koblenz-extra",
-    "type": "city",
-    "parent": "DE-RP",
-    "coords": [
-      7.596,
-      50.3567
-    ],
-    "name": {
-      "de": "Koblenz",
-      "hu": "Koblenz",
-      "ro": "Koblenz",
-      "en": "Koblenz"
-    },
-    "description": {
-      "de": "In Koblenz fließen Mosel und Rhein am Deutschen Eck zusammen.",
-      "hu": "Koblenzben folyik össze a Mosel és a Rajna a Deutsches Ecknél.",
-      "ro": "În Koblenz, râurile Mosela și Rin se întâlnesc la Deutsches Eck.",
-      "en": "In Koblenz, the Moselle and Rhine rivers meet at the Deutsches Eck."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt wurde von den Römern gegründet und hat eine beeindruckende Festung namens Ehrenbreitstein. Geographie K7 — Flüsse und Städte",
-      "hu": "A várost a rómaiak alapították, és lenyűgöző Ehrenbreitstein nevű erőddel rendelkezik. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul a fost fondat de romani și are o fortăreață impresionantă numită Ehrenbreitstein. Geografie K7 — Râuri și orașe",
-      "en": "The city was founded by the Romans and has an impressive fortress called Ehrenbreitstein. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Deutsches Eck",
-        "Rhein und Mosel",
-        "Festung Ehrenbreitstein",
-        "Seilbahn"
-      ],
-      "hu": [
-        "Deutsches Eck",
-        "Rajna és Mosel",
-        "Ehrenbreitstein erőd",
-        "Felvonó"
-      ],
-      "ro": [
-        "Deutsches Eck",
-        "Rin și Mosela",
-        "Fortăreața Ehrenbreitstein",
-        "Telecabină"
-      ],
-      "en": [
-        "Deutsches Eck",
-        "Rhine and Moselle",
-        "Ehrenbreitstein Fortress",
-        "Cable car"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Die Seilbahn kann 3.800 Menschen pro Stunde transportieren. Wie viele Menschen kann sie in 2 Stunden transportieren?",
-      "hu": "A felvonó óránként 3800 embert tud szállítani. Hány embert tud szállítani 2 óra alatt?",
-      "ro": "Telecabina poate transporta 3.800 de oameni pe oră. Câți oameni poate transporta în 2 ore?",
-      "en": "The cable car can transport 3,800 people per hour. How many people can it transport in 2 hours?"
-    }
-  },
-  {
-    "id": "trier-extra",
-    "type": "city",
-    "parent": "DE-RP",
-    "coords": [
-      6.6414,
-      49.7499
-    ],
-    "name": {
-      "de": "Trier",
-      "hu": "Trier",
-      "ro": "Trier",
-      "en": "Trier"
-    },
-    "description": {
-      "de": "Trier gilt als die älteste Stadt Deutschlands.",
-      "hu": "Trier Németország legrégebbi városának számít.",
-      "ro": "Trier este considerat cel mai vechi oraș din Germania.",
-      "en": "Trier is considered the oldest city in Germany."
-    },
-    "descriptionAdvanced": {
-      "de": "Die römischen Baudenkmäler, wie die Porta Nigra und die Kaiserthermen, sind weltweit berühmt. Karl Marx wurde hier geboren. Geographie K7 — Flüsse und Städte",
-      "hu": "A római műemlékek, mint a Porta Nigra és a császári fürdők világhírűek. Itt született Karl Marx. Földrajz K7 — Folyók és városok",
-      "ro": "Monumentele romane, cum ar fi Porta Nigra și Băile Imperiale, sunt faimoase la nivel mondial. Karl Marx s-a născut aici. Geografie K7 — Râuri și orașe",
-      "en": "Roman monuments like the Porta Nigra and the Imperial Baths are world-famous. Karl Marx was born here. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Porta Nigra",
-        "Römerstadt",
-        "Karl-Marx-Haus",
-        "UNESCO-Welterbe"
-      ],
-      "hu": [
-        "Porta Nigra",
-        "Római város",
-        "Karl-Marx-Ház",
-        "UNESCO Világörökség"
-      ],
-      "ro": [
-        "Porta Nigra",
-        "Oraș roman",
-        "Casa Karl Marx",
-        "Patrimoniul UNESCO"
-      ],
-      "en": [
-        "Porta Nigra",
-        "Roman city",
-        "Karl Marx House",
-        "UNESCO World Heritage"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Trier wurde 16 v. Chr. gegründet. Wie viele Jahre vergingen von der Gründung bis zum Jahr 2024?",
-      "hu": "Trier i.e. 16-ban alakult. Hány év telt el az alapítástól 2024-ig?",
-      "ro": "Trier a fost fondat în 16 î.Hr. Câți ani au trecut de la fondare până în 2024?",
-      "en": "Trier was founded in 16 BC. How many years passed from its founding until 2024?"
-    }
-  },
+  ,
   {
     "id": "kaiserslautern-extra",
     "type": "city",
@@ -4603,124 +2820,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A football match lasts 90 minutes. How many minutes do 3 matches last in total?"
     }
   },
-  {
-    "id": "ludwigshafen-extra",
-    "type": "city",
-    "parent": "DE-RP",
-    "coords": [
-      8.4452,
-      49.4815
-    ],
-    "name": {
-      "de": "Ludwigshafen",
-      "hu": "Ludwigshafen",
-      "ro": "Ludwigshafen",
-      "en": "Ludwigshafen"
-    },
-    "description": {
-      "de": "Ludwigshafen ist die Heimat der BASF, des größten Chemieunternehmens der Welt.",
-      "hu": "Ludwigshafen a BASF, a világ legnagyobb vegyipari vállalatának otthona.",
-      "ro": "Ludwigshafen este casa BASF, cea mai mare companie chimică din lume.",
-      "en": "Ludwigshafen is home to BASF, the world's largest chemical company."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Industriestadt liegt direkt am Rhein gegenüber von Mannheim. Sie ist die zweitgrößte Stadt in Rheinland-Pfalz. Geographie K7 — Flüsse und Städte",
-      "hu": "Az iparváros közvetlenül a Rajna partján fekszik, Mannheimmel szemben. Rajna-Pfalz második legnagyobb városa. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul industrial este situat direct pe Rin, vizavi de Mannheim. Este al doilea oraș ca mărime din Renania-Palatinat. Geografie K7 — Râuri și orașe",
-      "en": "The industrial city is located directly on the Rhine opposite Mannheim. It is the second-largest city in Rhineland-Palatinate. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Chemiestadt",
-        "BASF Hauptsitz",
-        "Am Rhein",
-        "Wilhelm-Hack-Museum"
-      ],
-      "hu": [
-        "Vegyipari város",
-        "BASF központ",
-        "A Rajna partján",
-        "Wilhelm Hack Múzeum"
-      ],
-      "ro": [
-        "Orașul chimiei",
-        "Sediul BASF",
-        "Pe Rin",
-        "Muzeul Wilhelm Hack"
-      ],
-      "en": [
-        "Chemical city",
-        "BASF headquarters",
-        "On the Rhine",
-        "Wilhelm Hack Museum"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn in einem Labor 5 Reagenzgläser mit je 20 ml Flüssigkeit sind, wie viel ml ist es insgesamt?",
-      "hu": "Ha egy laborban 5 kémcső van egyenként 20 ml folyadékkal, mennyi ml ez összesen?",
-      "ro": "Dacă într-un laborator sunt 5 eprubete cu 20 ml lichid fiecare, câți ml sunt în total?",
-      "en": "If a lab has 5 test tubes with 20 ml of liquid each, how many ml is that in total?"
-    }
-  },
-  {
-    "id": "worms-extra",
-    "type": "city",
-    "parent": "DE-RP",
-    "coords": [
-      8.3585,
-      49.6328
-    ],
-    "name": {
-      "de": "Worms",
-      "hu": "Worms",
-      "ro": "Worms",
-      "en": "Worms"
-    },
-    "description": {
-      "de": "Worms ist berühmt als Nibelungenstadt und Ort des Reichstags zu Worms.",
-      "hu": "Worms Nibelung-városként és a wormsi birodalmi gyűlés helyszíneként híres.",
-      "ro": "Worms este faimos ca orașul Nibelungilor și locul Dietei de la Worms.",
-      "en": "Worms is famous as a Nibelungen city and the site of the Diet of Worms."
-    },
-    "descriptionAdvanced": {
-      "de": "Martin Luther weigerte sich hier 1521, seine Schriften zu widerrufen. Der Wormser Dom gehört zu den romanischen Kaiserdomen. Geographie K7 — Flüsse und Städte",
-      "hu": "Luther Márton 1521-ben itt tagadta meg írásainak visszavonását. A wormsi dóm a román császári dómok közé tartozik. Földrajz K7 — Folyók és városok",
-      "ro": "Martin Luther a refuzat aici să-și retragă scrierile în 1521. Catedrala din Worms este una dintre catedralele imperiale romanice. Geografie K7 — Râuri și orașe",
-      "en": "Martin Luther refused to retract his writings here in 1521. Worms Cathedral is one of the Romanesque imperial cathedrals. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Nibelungenstadt",
-        "Wormser Dom",
-        "Lutherdenkmal",
-        "Jüdischer Friedhof"
-      ],
-      "hu": [
-        "Nibelung-város",
-        "Wormsi dóm",
-        "Luther-emlékmű",
-        "Zsidó temető"
-      ],
-      "ro": [
-        "Orașul Nibelungilor",
-        "Catedrala din Worms",
-        "Monumentul Luther",
-        "Cimitirul evreiesc"
-      ],
-      "en": [
-        "Nibelungen city",
-        "Worms Cathedral",
-        "Luther Monument",
-        "Jewish cemetery"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Der Wormser Dom hat 4 Türme. Wenn jede Tür 2 Fenster hat, wie viele Fenster sind es in den Türmen?",
-      "hu": "A wormsi dómnak 4 tornya van. Ha minden toronynak 2 ablaka van, hány ablak van a tornyokban?",
-      "ro": "Catedrala din Worms are 4 turnuri. Dacă fiecare are 2 ferestre, câte ferestre sunt în turnuri?",
-      "en": "Worms Cathedral has 4 towers. If each has 2 windows, how many windows are there in the towers?"
-    }
-  },
+  ,
   {
     "id": "speyer-extra",
     "type": "city",
@@ -4780,6 +2880,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The cathedral was started in 1030 and consecrated in 1061. How long did the construction take?"
     }
   },
+  ,
   {
     "id": "neustadt-extra",
     "type": "city",
@@ -4839,6 +2940,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 1,500 glasses are filled per day at a wine festival, how many are filled in 4 days?"
     }
   },
+  ,
   {
     "id": "idar-oberstein-extra",
     "type": "city",
@@ -4898,6 +3000,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A polisher finishes 4 gemstones in 1 hour. How many hours does it take for 28 gemstones?"
     }
   },
+  ,
   {
     "id": "bad-kreuznach-extra",
     "type": "city",
@@ -4957,6 +3060,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If there are 4 bridge houses and each has 2 floors, how many floors is that in total?"
     }
   },
+  ,
   {
     "id": "pirmasens-extra",
     "type": "city",
@@ -5016,6 +3120,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a factory makes 500 pairs of shoes a day, how many pairs are made in 5 days?"
     }
   },
+  ,
   {
     "id": "andernach-extra",
     "type": "city",
@@ -5075,6 +3180,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If the geyser is 60 meters high, how much is that in centimeters?"
     }
   },
+  ,
   {
     "id": "bingen-extra",
     "type": "city",
@@ -5134,6 +3240,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a tower is 30 meters high and each floor is 5 meters, how many floors does it have?"
     }
   },
+  ,
   {
     "id": "frankenthal-extra",
     "type": "city",
@@ -5193,6 +3300,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 2 city gates are each 15 meters wide, how wide are they together?"
     }
   },
+  ,
   {
     "id": "neuwied-extra",
     "type": "city",
@@ -5252,6 +3360,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The dyke is 7.5 kilometers long. How many meters is that?"
     }
   },
+  ,
   {
     "id": "zweibruecken-extra",
     "type": "city",
@@ -5311,124 +3420,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If 60,000 roses bloom in the rose garden and 10,000 are red, how many are other colors?"
     }
   },
-  {
-    "id": "chemnitz-extra",
-    "type": "city",
-    "parent": "DE-SN",
-    "coords": [
-      12.9214,
-      50.8323
-    ],
-    "name": {
-      "de": "Chemnitz",
-      "hu": "Chemnitz",
-      "ro": "Chemnitz",
-      "en": "Chemnitz"
-    },
-    "description": {
-      "de": "Chemnitz ist eine Großstadt in Sachsen und ein Zentrum des Maschinenbaus.",
-      "hu": "Chemnitz egy szászországi nagyváros és gépipari központ.",
-      "ro": "Chemnitz este un oraș mare în Saxonia și un centru al ingineriei mecanice.",
-      "en": "Chemnitz is a large city in Saxony and a center for mechanical engineering."
-    },
-    "descriptionAdvanced": {
-      "de": "Von 1953 bis 1990 hieß sie Karl-Marx-Stadt. Das riesige Karl-Marx-Monument, der 'Nischel', prägt die Innenstadt. Geographie K7 — Flüsse und Städte",
-      "hu": "1953 és 1990 között Karl-Marx-Stadt volt a neve. A hatalmas Karl Marx emlékmű uralja a belvárost. Földrajz K7 — Folyók és városok",
-      "ro": "Din 1953 până în 1990 a fost numit Karl-Marx-Stadt. Uriașul Monument Karl Marx domină centrul orașului. Geografie K7 — Râuri și orașe",
-      "en": "From 1953 to 1990 it was called Karl-Marx-Stadt. The huge Karl Marx Monument dominates the city center. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Karl-Marx-Monument",
-        "Ehemals Karl-Marx-Stadt",
-        "Maschinenbau",
-        "Opernhaus Chemnitz"
-      ],
-      "hu": [
-        "Karl Marx emlékmű",
-        "Egykor Karl-Marx-Stadt",
-        "Gépgyártás",
-        "Chemnitzi Operaház"
-      ],
-      "ro": [
-        "Monumentul Karl Marx",
-        "Fost Karl-Marx-Stadt",
-        "Inginerie",
-        "Opera din Chemnitz"
-      ],
-      "en": [
-        "Karl Marx Monument",
-        "Formerly Karl-Marx-Stadt",
-        "Mechanical engineering",
-        "Chemnitz Opera House"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Der Kopf von Karl Marx ist 7 Meter hoch. Wie viel sind das in Zentimetern?",
-      "hu": "A Karl Marx fej 7 méter magas. Mennyi az centiméterben?",
-      "ro": "Capul lui Karl Marx are 7 metri înălțime. Cât înseamnă asta în centimetri?",
-      "en": "The head of Karl Marx is 7 meters high. How much is that in centimeters?"
-    }
-  },
-  {
-    "id": "zwickau-extra",
-    "type": "city",
-    "parent": "DE-SN",
-    "coords": [
-      12.4925,
-      50.7189
-    ],
-    "name": {
-      "de": "Zwickau",
-      "hu": "Zwickau",
-      "ro": "Zwickau",
-      "en": "Zwickau"
-    },
-    "description": {
-      "de": "Zwickau ist die Geburtsstadt des Komponisten Robert Schumann und der Automobilmarke Audi.",
-      "hu": "Zwickau Robert Schumann zeneszerző és az Audi autómárka szülővárosa.",
-      "ro": "Zwickau este locul de naștere al compozitorului Robert Schumann și al mărcii Audi.",
-      "en": "Zwickau is the birthplace of composer Robert Schumann and the Audi car brand."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Automobilproduktion hat hier eine über 100-jährige Tradition. Auch der Trabant wurde in Zwickau gebaut. Geographie K7 — Flüsse und Städte",
-      "hu": "Az autógyártásnak itt több mint 100 éves hagyománya van. A Trabantot is Zwickauban gyártották. Földrajz K7 — Folyók és városok",
-      "ro": "Producția de mașini are aici o tradiție de peste 100 de ani. De asemenea, Trabant a fost construit în Zwickau. Geografie K7 — Râuri și orașe",
-      "en": "Car production has an over 100-year tradition here. The Trabant was also built in Zwickau. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Automobilhochburg",
-        "Robert Schumann",
-        "August-Horch-Museum",
-        "Trabant-Herstellung"
-      ],
-      "hu": [
-        "Autóipari fellegvár",
-        "Robert Schumann",
-        "August Horch Múzeum",
-        "Trabant gyártás"
-      ],
-      "ro": [
-        "Centru auto",
-        "Robert Schumann",
-        "Muzeul August Horch",
-        "Producția de Trabant"
-      ],
-      "en": [
-        "Automotive center",
-        "Robert Schumann",
-        "August Horch Museum",
-        "Trabant production"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn in einem Museum 40 historische Autos stehen und pro Halle 10, wie viele Hallen gibt es?",
-      "hu": "Ha egy múzeumban 40 történelmi autó van és csarnokonként 10, hány csarnok van?",
-      "ro": "Dacă un muzeu are 40 de mașini istorice și 10 pe hală, câte hale sunt?",
-      "en": "If a museum has 40 historic cars and 10 per hall, how many halls are there?"
-    }
-  },
+  ,
   {
     "id": "plauen-extra",
     "type": "city",
@@ -5488,65 +3480,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A piece of lace costs 15 euros. How much do 4 pieces cost?"
     }
   },
-  {
-    "id": "goerlitz-extra",
-    "type": "city",
-    "parent": "DE-SN",
-    "coords": [
-      14.9873,
-      51.1506
-    ],
-    "name": {
-      "de": "Görlitz",
-      "hu": "Görlitz",
-      "ro": "Görlitz",
-      "en": "Görlitz"
-    },
-    "description": {
-      "de": "Görlitz ist die östlichste Stadt Deutschlands an der Grenze zu Polen.",
-      "hu": "Görlitz Németország legkeletebbi városa, a lengyel határon.",
-      "ro": "Görlitz este cel mai estic oraș din Germania, la granița cu Polonia.",
-      "en": "Görlitz is the easternmost city in Germany, on the border with Poland."
-    },
-    "descriptionAdvanced": {
-      "de": "Aufgrund der gut erhaltenen Altstadt wird Görlitz oft 'Görliwood' genannt und als Filmkulisse genutzt. Geographie K7 — Flüsse und Städte",
-      "hu": "A jól megőrzött óváros miatt Görlitzet gyakran 'Görliwood'-nak hívják, és filmes díszletként használják. Földrajz K7 — Folyók és városok",
-      "ro": "Datorită orașului vechi bine conservat, Görlitz este adesea numit 'Görliwood' și folosit ca platou de filmare. Geografie K7 — Râuri și orașe",
-      "en": "Due to the well-preserved old town, Görlitz is often called 'Görliwood' and used as a film set. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Östlichste Stadt",
-        "Görliwood",
-        "Europastadt",
-        "Peterskirche"
-      ],
-      "hu": [
-        "Legkeletebbi város",
-        "Görliwood",
-        "Európaváros",
-        "Péter-templom"
-      ],
-      "ro": [
-        "Cel mai estic oraș",
-        "Görliwood",
-        "Oraș European",
-        "Biserica Sf. Petru"
-      ],
-      "en": [
-        "Easternmost city",
-        "Görliwood",
-        "European City",
-        "St. Peter's Church"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Ein Filmteam dreht 2 Wochen in Görlitz. Wie viele Tage sind das?",
-      "hu": "Egy stáb 2 hetet forgat Görlitzben. Hány nap ez?",
-      "ro": "O echipă de filmare filmează 2 săptămâni în Görlitz. Câte zile sunt acestea?",
-      "en": "A film crew shoots for 2 weeks in Görlitz. How many days is that?"
-    }
-  },
+  ,
   {
     "id": "bautzen-extra",
     "type": "city",
@@ -5606,65 +3540,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Bautzen has 17 towers. If you have visited 4, how many are left?"
     }
   },
-  {
-    "id": "freiberg-extra",
-    "type": "city",
-    "parent": "DE-SN",
-    "coords": [
-      13.3423,
-      50.9119
-    ],
-    "name": {
-      "de": "Freiberg",
-      "hu": "Freiberg",
-      "ro": "Freiberg",
-      "en": "Freiberg"
-    },
-    "description": {
-      "de": "Freiberg ist eine historische Silberbergbaustadt im Erzgebirge.",
-      "hu": "Freiberg történelmi ezüstbányász város az Érchegységben.",
-      "ro": "Freiberg este un oraș istoric minier de argint în Munții Metaliferi.",
-      "en": "Freiberg is a historic silver mining town in the Ore Mountains."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Bergakademie Freiberg ist die älteste noch bestehende montanwissenschaftliche Hochschule der Welt. Geographie K7 — Flüsse und Städte",
-      "hu": "A Freibergi Bányászati Akadémia a világ legrégebbi, még ma is működő bányászati egyeteme. Földrajz K7 — Folyók és városok",
-      "ro": "Academia Minieră Freiberg este cea mai veche universitate de științe miniere încă existentă din lume. Geografie K7 — Râuri și orașe",
-      "en": "The Freiberg University of Mining and Technology is the oldest existing mining science university in the world. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Silberstadt",
-        "Bergakademie",
-        "Freiberger Dom",
-        "Erzgebirge"
-      ],
-      "hu": [
-        "Ezüstváros",
-        "Bányászati Akadémia",
-        "Freibergi dóm",
-        "Érchegység"
-      ],
-      "ro": [
-        "Orașul Argintului",
-        "Academia Minieră",
-        "Catedrala Freiberg",
-        "Munții Metaliferi"
-      ],
-      "en": [
-        "Silver city",
-        "Mining Academy",
-        "Freiberg Cathedral",
-        "Ore Mountains"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Die Akademie wurde 1765 gegründet. Wie alt ist sie im Jahr 2025?",
-      "hu": "Az akadémiát 1765-ben alapították. Hány éves lesz 2025-ben?",
-      "ro": "Academia a fost fondată în 1765. Câți ani va avea în 2025?",
-      "en": "The academy was founded in 1765. How old will it be in 2025?"
-    }
-  },
+  ,
   {
     "id": "pirna-extra",
     "type": "city",
@@ -5724,65 +3600,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A hike into Saxon Switzerland takes 3 hours there and 2.5 hours back. How long is that in total?"
     }
   },
-  {
-    "id": "meissen-extra",
-    "type": "city",
-    "parent": "DE-SN",
-    "coords": [
-      13.4735,
-      51.1633
-    ],
-    "name": {
-      "de": "Meißen",
-      "hu": "Meißen",
-      "ro": "Meißen",
-      "en": "Meissen"
-    },
-    "description": {
-      "de": "Meißen ist weltbekannt für die Herstellung des ersten europäischen Porzellans.",
-      "hu": "Meißen világszerte ismert az első európai porcelán gyártásáról.",
-      "ro": "Meissen este renumit la nivel mondial pentru producția primului porțelan european.",
-      "en": "Meissen is world-renowned for the production of the first European porcelain."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Albrechtsburg thront über der Elbe und gilt als ältester Schlossbau Deutschlands. Geographie K7 — Flüsse und Städte",
-      "hu": "Az Albrechtsburg az Elba fölött magasodik, és Németország legrégebbi kastélyának számít. Földrajz K7 — Folyók és városok",
-      "ro": "Castelul Albrechtsburg domină Elba și este considerat cel mai vechi castel din Germania. Geografie K7 — Râuri și orașe",
-      "en": "The Albrechtsburg towers over the Elbe and is considered the oldest castle building in Germany. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Meissener Porzellan",
-        "Albrechtsburg",
-        "Meißner Dom",
-        "Wiege Sachsens"
-      ],
-      "hu": [
-        "Meisseni porcelán",
-        "Albrechtsburg",
-        "Meisseni dóm",
-        "Szászország bölcsője"
-      ],
-      "ro": [
-        "Porțelan de Meissen",
-        "Albrechtsburg",
-        "Catedrala Meissen",
-        "Leagănul Saxoniei"
-      ],
-      "en": [
-        "Meissen porcelain",
-        "Albrechtsburg",
-        "Meissen Cathedral",
-        "Cradle of Saxony"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Die Porzellanmanufaktur wurde 1710 gegründet. Wie viele Jahre feierte sie 2010?",
-      "hu": "A porcelánmanufaktúrát 1710-ben alapították. Hányadik évfordulóját ünnepelte 2010-ben?",
-      "ro": "Manufactura de porțelan a fost fondată în 1710. Câți ani a sărbătorit în 2010?",
-      "en": "The porcelain manufactory was founded in 1710. How many years did it celebrate in 2010?"
-    }
-  },
+  ,
   {
     "id": "hoyerswerda-extra",
     "type": "city",
@@ -5842,6 +3660,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A lake is 4 km long and 2 km wide. What is its area (length times width)?"
     }
   },
+  ,
   {
     "id": "riesa-extra",
     "type": "city",
@@ -5901,6 +3720,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If a factory produces 5,000 packs of pasta a day, how many in 2 days?"
     }
   },
+  ,
   {
     "id": "radebeul-extra",
     "type": "city",
@@ -5960,6 +3780,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "Karl May wrote over 70 books. If he wrote 2 books a year, how many years did he need?"
     }
   },
+  ,
   {
     "id": "glauchau-extra",
     "type": "city",
@@ -6019,6 +3840,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If there are 5 benches in a castle courtyard and 3 people fit on each, how many people can sit?"
     }
   },
+  ,
   {
     "id": "crimmitschau-extra",
     "type": "city",
@@ -6078,6 +3900,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "An ice hockey game has 3 periods of 20 minutes each. How many minutes is the regular playing time?"
     }
   },
+  ,
   {
     "id": "annaberg-buchholz-extra",
     "type": "city",
@@ -6137,65 +3960,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A miner mines 5 kg of silver ore a day. How much does he mine in 6 days?"
     }
   },
-  {
-    "id": "dessau-rosslau-extra",
-    "type": "city",
-    "parent": "DE-ST",
-    "coords": [
-      12.2458,
-      51.8386
-    ],
-    "name": {
-      "de": "Dessau-Roßlau",
-      "hu": "Dessau-Roßlau",
-      "ro": "Dessau-Roßlau",
-      "en": "Dessau-Roßlau"
-    },
-    "description": {
-      "de": "Dessau ist weltbekannt für die Architektur- und Designschule Bauhaus.",
-      "hu": "Dessau világszerte ismert a Bauhaus építészeti és formatervezési iskoláról.",
-      "ro": "Dessau este faimos la nivel mondial pentru școala de arhitectură și design Bauhaus.",
-      "en": "Dessau is world-famous for the Bauhaus architecture and design school."
-    },
-    "descriptionAdvanced": {
-      "de": "Das Bauhausgebäude und die Meisterhäuser zählen zum UNESCO-Welterbe. Auch das Dessau-Wörlitzer Gartenreich zieht viele Touristen an. Geographie K7 — Flüsse und Städte",
-      "hu": "A Bauhaus épület és a Mesterházak az UNESCO világörökség részét képezik. A Dessau-Wörlitzi kertbirodalom is sok turistát vonz. Földrajz K7 — Folyók és városok",
-      "ro": "Clădirea Bauhaus și Casele Maeștrilor aparțin Patrimoniului Mondial UNESCO. Regatul Grădinilor Dessau-Wörlitz atrage, de asemenea, mulți turiști. Geografie K7 — Râuri și orașe",
-      "en": "The Bauhaus building and the Masters' Houses belong to the UNESCO World Heritage. The Dessau-Wörlitz Garden Realm also attracts many tourists. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Bauhausstadt",
-        "Meisterhäuser",
-        "Gartenreich Wörlitz",
-        "Junkers-Werke"
-      ],
-      "hu": [
-        "Bauhaus-város",
-        "Mesterházak",
-        "Wörlitzi kertbirodalom",
-        "Junkers Művek"
-      ],
-      "ro": [
-        "Orașul Bauhaus",
-        "Casele Maeștrilor",
-        "Regatul Grădinilor Wörlitz",
-        "Uzinele Junkers"
-      ],
-      "en": [
-        "Bauhaus City",
-        "Masters' Houses",
-        "Wörlitz Garden Realm",
-        "Junkers works"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Das Bauhaus zog 1925 nach Dessau. Wie viele Jahre war das vor 2025?",
-      "hu": "A Bauhaus 1925-ben költözött Dessauba. Hány évvel ezelőtt volt ez 2025-höz képest?",
-      "ro": "Bauhaus s-a mutat la Dessau în 1925. Cu câți ani a fost asta înainte de 2025?",
-      "en": "The Bauhaus moved to Dessau in 1925. How many years was that before 2025?"
-    }
-  },
+  ,
   {
     "id": "wittenberg-extra",
     "type": "city",
@@ -6255,65 +4020,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If Luther had 95 theses and wrote them on 5 sheets, how many theses were on average on one sheet?"
     }
   },
-  {
-    "id": "quedlinburg-extra",
-    "type": "city",
-    "parent": "DE-ST",
-    "coords": [
-      11.1417,
-      51.7833
-    ],
-    "name": {
-      "de": "Quedlinburg",
-      "hu": "Quedlinburg",
-      "ro": "Quedlinburg",
-      "en": "Quedlinburg"
-    },
-    "description": {
-      "de": "Quedlinburg besticht durch seine Altstadt mit über 2000 Fachwerkhäusern.",
-      "hu": "Quedlinburg több mint 2000 favázas házzal rendelkező óvárosával hódít.",
-      "ro": "Quedlinburg impresionează prin orașul său vechi cu peste 2000 de case cu cadru de lemn.",
-      "en": "Quedlinburg impresses with its old town with over 2000 half-timbered houses."
-    },
-    "descriptionAdvanced": {
-      "de": "Die gesamte Altstadt, das Schloss und die Stiftskirche stehen auf der UNESCO-Welterbeliste. Sie war im Mittelalter eine wichtige Königspfalz. Geographie K7 — Flüsse und Städte",
-      "hu": "Az egész óváros, a kastély és a társaskáptalani templom az UNESCO világörökségi listáján szerepel. A középkorban fontos királyi rezidencia volt. Földrajz K7 — Folyók és városok",
-      "ro": "Întregul oraș vechi, castelul și biserica colegială sunt pe lista Patrimoniului Mondial UNESCO. În Evul Mediu a fost o importantă reședință regală. Geografie K7 — Râuri și orașe",
-      "en": "The entire old town, the castle, and the collegiate church are on the UNESCO World Heritage List. In the Middle Ages, it was an important royal residence. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Fachwerkstadt",
-        "UNESCO-Welterbe",
-        "Schlossberg",
-        "König Heinrich I."
-      ],
-      "hu": [
-        "Favázas város",
-        "UNESCO Világörökség",
-        "Várhegy",
-        "I. Henrik király"
-      ],
-      "ro": [
-        "Orașul caselor de lemn",
-        "Patrimoniul UNESCO",
-        "Dealul Castelului",
-        "Regele Henric I"
-      ],
-      "en": [
-        "Half-timbered town",
-        "UNESCO World Heritage",
-        "Castle Hill",
-        "King Henry I"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "Wenn man pro Tag 100 Fachwerkhäuser anschaut, wie viele Tage braucht man für 2.000 Häuser?",
-      "hu": "Ha naponta 100 favázas házat nézel meg, hány napra van szükség 2000 házhoz?",
-      "ro": "Dacă te uiți la 100 de case cu cadru de lemn pe zi, de câte zile ai nevoie pentru 2.000 de case?",
-      "en": "If you look at 100 half-timbered houses a day, how many days do you need for 2,000 houses?"
-    }
-  },
+  ,
   {
     "id": "wernigerode-extra",
     "type": "city",
@@ -6373,6 +4080,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The train goes up the Brocken at 20 km/h. How long does it need for 10 km?"
     }
   },
+  ,
   {
     "id": "halberstadt-extra",
     "type": "city",
@@ -6432,6 +4140,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The piece of music is supposed to last 639 years. It started in 2001. In what year does it end?"
     }
   },
+  ,
   {
     "id": "stendal-extra",
     "type": "city",
@@ -6491,6 +4200,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The Roland statue is 7.8 meters tall. How much is missing to 10 meters?"
     }
   },
+  ,
   {
     "id": "aschersleben-extra",
     "type": "city",
@@ -6550,6 +4260,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "The first mention was in 753. How old was the city in 2003?"
     }
   },
+  ,
   {
     "id": "naumburg-extra",
     "type": "city",
@@ -6609,6 +4320,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "There are 12 founder figures in the cathedral. If 2 are women, how many men are there?"
     }
   },
+  ,
   {
     "id": "bernburg-extra",
     "type": "city",
@@ -6668,6 +4380,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "A brown bear eats 10 kg of apples a week. How much do 2 bears eat in 3 weeks?"
     }
   },
+  ,
   {
     "id": "bitterfeld-wolfen-extra",
     "type": "city",
@@ -6727,6 +4440,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If the lake is 6 km² and a boat needs half an hour for 1 km², how long does it take for the whole lake?"
     }
   },
+  ,
   {
     "id": "sangerhausen-extra",
     "type": "city",
@@ -6786,124 +4500,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "If you can see 400 different rose varieties a day, how many days do you need for 8,000 varieties?"
     }
   },
-  {
-    "id": "lubeck-extra",
-    "type": "city",
-    "parent": "DE-SH",
-    "coords": [
-      10.6865,
-      53.8654
-    ],
-    "name": {
-      "de": "Lübeck",
-      "hu": "Lübeck",
-      "ro": "Lübeck",
-      "en": "Lübeck"
-    },
-    "description": {
-      "de": "Lübeck ist eine schöne Stadt.",
-      "hu": "Lübeck egy szép város.",
-      "ro": "Lübeck este un oraș frumos.",
-      "en": "Lübeck is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Lübeck = ?",
-      "hu": "2 fa + 3 fa Lübeck területén = ?",
-      "ro": "2 copaci + 3 copaci în Lübeck = ?",
-      "en": "2 trees + 3 trees in Lübeck = ?"
-    }
-  },
-  {
-    "id": "flensburg-extra",
-    "type": "city",
-    "parent": "DE-SH",
-    "coords": [
-      9.4366,
-      54.7819
-    ],
-    "name": {
-      "de": "Flensburg",
-      "hu": "Flensburg",
-      "ro": "Flensburg",
-      "en": "Flensburg"
-    },
-    "description": {
-      "de": "Flensburg ist eine schöne Stadt.",
-      "hu": "Flensburg egy szép város.",
-      "ro": "Flensburg este un oraș frumos.",
-      "en": "Flensburg is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Flensburg = ?",
-      "hu": "2 fa + 3 fa Flensburg területén = ?",
-      "ro": "2 copaci + 3 copaci în Flensburg = ?",
-      "en": "2 trees + 3 trees in Flensburg = ?"
-    }
-  },
+  ,
   {
     "id": "neumunster-extra",
     "type": "city",
@@ -6963,6 +4560,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Neumünster = ?"
     }
   },
+  ,
   {
     "id": "norderstedt-extra",
     "type": "city",
@@ -7022,6 +4620,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Norderstedt = ?"
     }
   },
+  ,
   {
     "id": "pinneberg-extra",
     "type": "city",
@@ -7081,6 +4680,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Pinneberg = ?"
     }
   },
+  ,
   {
     "id": "itzehoe-extra",
     "type": "city",
@@ -7140,6 +4740,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Itzehoe = ?"
     }
   },
+  ,
   {
     "id": "elmshorn-extra",
     "type": "city",
@@ -7199,6 +4800,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Elmshorn = ?"
     }
   },
+  ,
   {
     "id": "schleswig-extra",
     "type": "city",
@@ -7258,6 +4860,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Schleswig = ?"
     }
   },
+  ,
   {
     "id": "rendsburg-extra",
     "type": "city",
@@ -7317,6 +4920,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Rendsburg = ?"
     }
   },
+  ,
   {
     "id": "heide-extra",
     "type": "city",
@@ -7376,6 +4980,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Heide = ?"
     }
   },
+  ,
   {
     "id": "husum-extra",
     "type": "city",
@@ -7435,6 +5040,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Husum = ?"
     }
   },
+  ,
   {
     "id": "eckernforde-extra",
     "type": "city",
@@ -7494,65 +5100,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Eckernförde = ?"
     }
   },
-  {
-    "id": "neunkirchen-extra",
-    "type": "city",
-    "parent": "DE-SL",
-    "coords": [
-      7.1772,
-      49.3444
-    ],
-    "name": {
-      "de": "Neunkirchen",
-      "hu": "Neunkirchen",
-      "ro": "Neunkirchen",
-      "en": "Neunkirchen"
-    },
-    "description": {
-      "de": "Neunkirchen ist eine schöne Stadt.",
-      "hu": "Neunkirchen egy szép város.",
-      "ro": "Neunkirchen este un oraș frumos.",
-      "en": "Neunkirchen is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Neunkirchen = ?",
-      "hu": "2 fa + 3 fa Neunkirchen területén = ?",
-      "ro": "2 copaci + 3 copaci în Neunkirchen = ?",
-      "en": "2 trees + 3 trees in Neunkirchen = ?"
-    }
-  },
+  ,
   {
     "id": "homburg-extra",
     "type": "city",
@@ -7612,6 +5160,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Homburg = ?"
     }
   },
+  ,
   {
     "id": "volklingen-extra",
     "type": "city",
@@ -7671,6 +5220,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Völklingen = ?"
     }
   },
+  ,
   {
     "id": "st-wendel-extra",
     "type": "city",
@@ -7730,6 +5280,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in St. Wendel = ?"
     }
   },
+  ,
   {
     "id": "merzig-extra",
     "type": "city",
@@ -7789,65 +5340,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Merzig = ?"
     }
   },
-  {
-    "id": "saarlouis-extra",
-    "type": "city",
-    "parent": "DE-SL",
-    "coords": [
-      6.749,
-      49.3175
-    ],
-    "name": {
-      "de": "Saarlouis",
-      "hu": "Saarlouis",
-      "ro": "Saarlouis",
-      "en": "Saarlouis"
-    },
-    "description": {
-      "de": "Saarlouis ist eine schöne Stadt.",
-      "hu": "Saarlouis egy szép város.",
-      "ro": "Saarlouis este un oraș frumos.",
-      "en": "Saarlouis is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Saarlouis = ?",
-      "hu": "2 fa + 3 fa Saarlouis területén = ?",
-      "ro": "2 copaci + 3 copaci în Saarlouis = ?",
-      "en": "2 trees + 3 trees in Saarlouis = ?"
-    }
-  },
+  ,
   {
     "id": "dillingen-extra",
     "type": "city",
@@ -7907,6 +5400,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Dillingen = ?"
     }
   },
+  ,
   {
     "id": "lebach-extra",
     "type": "city",
@@ -7966,65 +5460,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Lebach = ?"
     }
   },
-  {
-    "id": "gera-extra",
-    "type": "city",
-    "parent": "DE-TH",
-    "coords": [
-      12.0798,
-      50.8787
-    ],
-    "name": {
-      "de": "Gera",
-      "hu": "Gera",
-      "ro": "Gera",
-      "en": "Gera"
-    },
-    "description": {
-      "de": "Gera ist eine schöne Stadt.",
-      "hu": "Gera egy szép város.",
-      "ro": "Gera este un oraș frumos.",
-      "en": "Gera is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Gera = ?",
-      "hu": "2 fa + 3 fa Gera területén = ?",
-      "ro": "2 copaci + 3 copaci în Gera = ?",
-      "en": "2 trees + 3 trees in Gera = ?"
-    }
-  },
+  ,
   {
     "id": "suhl-extra",
     "type": "city",
@@ -8084,65 +5520,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Suhl = ?"
     }
   },
-  {
-    "id": "eisenach-extra",
-    "type": "city",
-    "parent": "DE-TH",
-    "coords": [
-      10.3235,
-      50.9796
-    ],
-    "name": {
-      "de": "Eisenach",
-      "hu": "Eisenach",
-      "ro": "Eisenach",
-      "en": "Eisenach"
-    },
-    "description": {
-      "de": "Eisenach ist eine schöne Stadt.",
-      "hu": "Eisenach egy szép város.",
-      "ro": "Eisenach este un oraș frumos.",
-      "en": "Eisenach is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Eisenach = ?",
-      "hu": "2 fa + 3 fa Eisenach területén = ?",
-      "ro": "2 copaci + 3 copaci în Eisenach = ?",
-      "en": "2 trees + 3 trees in Eisenach = ?"
-    }
-  },
+  ,
   {
     "id": "muhlhausen-extra",
     "type": "city",
@@ -8202,65 +5580,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Mühlhausen = ?"
     }
   },
-  {
-    "id": "gotha-extra",
-    "type": "city",
-    "parent": "DE-TH",
-    "coords": [
-      10.7027,
-      50.9482
-    ],
-    "name": {
-      "de": "Gotha",
-      "hu": "Gotha",
-      "ro": "Gotha",
-      "en": "Gotha"
-    },
-    "description": {
-      "de": "Gotha ist eine schöne Stadt.",
-      "hu": "Gotha egy szép város.",
-      "ro": "Gotha este un oraș frumos.",
-      "en": "Gotha is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Gotha = ?",
-      "hu": "2 fa + 3 fa Gotha területén = ?",
-      "ro": "2 copaci + 3 copaci în Gotha = ?",
-      "en": "2 trees + 3 trees in Gotha = ?"
-    }
-  },
+  ,
   {
     "id": "nordhausen-extra",
     "type": "city",
@@ -8320,6 +5640,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Nordhausen = ?"
     }
   },
+  ,
   {
     "id": "altenburg-extra",
     "type": "city",
@@ -8379,6 +5700,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Altenburg = ?"
     }
   },
+  ,
   {
     "id": "sondershausen-extra",
     "type": "city",
@@ -8438,6 +5760,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Sondershausen = ?"
     }
   },
+  ,
   {
     "id": "apolda-extra",
     "type": "city",
@@ -8497,6 +5820,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Apolda = ?"
     }
   },
+  ,
   {
     "id": "ilmenau-extra",
     "type": "city",
@@ -8556,6 +5880,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Ilmenau = ?"
     }
   },
+  ,
   {
     "id": "schmalkalden-extra",
     "type": "city",
@@ -8615,242 +5940,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Schmalkalden = ?"
     }
   },
-  {
-    "id": "stralsund-extra",
-    "type": "city",
-    "parent": "DE-MV",
-    "coords": [
-      13.0896,
-      54.3138
-    ],
-    "name": {
-      "de": "Stralsund",
-      "hu": "Stralsund",
-      "ro": "Stralsund",
-      "en": "Stralsund"
-    },
-    "description": {
-      "de": "Stralsund ist eine schöne Stadt.",
-      "hu": "Stralsund egy szép város.",
-      "ro": "Stralsund este un oraș frumos.",
-      "en": "Stralsund is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Stralsund = ?",
-      "hu": "2 fa + 3 fa Stralsund területén = ?",
-      "ro": "2 copaci + 3 copaci în Stralsund = ?",
-      "en": "2 trees + 3 trees in Stralsund = ?"
-    }
-  },
-  {
-    "id": "wismar-extra",
-    "type": "city",
-    "parent": "DE-MV",
-    "coords": [
-      11.4646,
-      53.8924
-    ],
-    "name": {
-      "de": "Wismar",
-      "hu": "Wismar",
-      "ro": "Wismar",
-      "en": "Wismar"
-    },
-    "description": {
-      "de": "Wismar ist eine schöne Stadt.",
-      "hu": "Wismar egy szép város.",
-      "ro": "Wismar este un oraș frumos.",
-      "en": "Wismar is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Wismar = ?",
-      "hu": "2 fa + 3 fa Wismar területén = ?",
-      "ro": "2 copaci + 3 copaci în Wismar = ?",
-      "en": "2 trees + 3 trees in Wismar = ?"
-    }
-  },
-  {
-    "id": "greifswald-extra",
-    "type": "city",
-    "parent": "DE-MV",
-    "coords": [
-      13.3813,
-      54.0963
-    ],
-    "name": {
-      "de": "Greifswald",
-      "hu": "Greifswald",
-      "ro": "Greifswald",
-      "en": "Greifswald"
-    },
-    "description": {
-      "de": "Greifswald ist eine schöne Stadt.",
-      "hu": "Greifswald egy szép város.",
-      "ro": "Greifswald este un oraș frumos.",
-      "en": "Greifswald is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Greifswald = ?",
-      "hu": "2 fa + 3 fa Greifswald területén = ?",
-      "ro": "2 copaci + 3 copaci în Greifswald = ?",
-      "en": "2 trees + 3 trees in Greifswald = ?"
-    }
-  },
-  {
-    "id": "neubrandenburg-extra",
-    "type": "city",
-    "parent": "DE-MV",
-    "coords": [
-      13.2612,
-      53.5568
-    ],
-    "name": {
-      "de": "Neubrandenburg",
-      "hu": "Neubrandenburg",
-      "ro": "Neubrandenburg",
-      "en": "Neubrandenburg"
-    },
-    "description": {
-      "de": "Neubrandenburg ist eine schöne Stadt.",
-      "hu": "Neubrandenburg egy szép város.",
-      "ro": "Neubrandenburg este un oraș frumos.",
-      "en": "Neubrandenburg is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Neubrandenburg = ?",
-      "hu": "2 fa + 3 fa Neubrandenburg területén = ?",
-      "ro": "2 copaci + 3 copaci în Neubrandenburg = ?",
-      "en": "2 trees + 3 trees in Neubrandenburg = ?"
-    }
-  },
+  ,
   {
     "id": "anklam-extra",
     "type": "city",
@@ -8910,6 +6000,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Anklam = ?"
     }
   },
+  ,
   {
     "id": "waren-extra",
     "type": "city",
@@ -8969,6 +6060,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Waren = ?"
     }
   },
+  ,
   {
     "id": "gustrow-extra",
     "type": "city",
@@ -9028,6 +6120,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Güstrow = ?"
     }
   },
+  ,
   {
     "id": "parchim-extra",
     "type": "city",
@@ -9087,6 +6180,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Parchim = ?"
     }
   },
+  ,
   {
     "id": "demmin-extra",
     "type": "city",
@@ -9146,6 +6240,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Demmin = ?"
     }
   },
+  ,
   {
     "id": "bad-doberan-extra",
     "type": "city",
@@ -9205,6 +6300,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Bad Doberan = ?"
     }
   },
+  ,
   {
     "id": "ribnitz-extra",
     "type": "city",
@@ -9264,65 +6360,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Ribnitz = ?"
     }
   },
-  {
-    "id": "cottbus-extra",
-    "type": "city",
-    "parent": "DE-BB",
-    "coords": [
-      14.3312,
-      51.7563
-    ],
-    "name": {
-      "de": "Cottbus",
-      "hu": "Cottbus",
-      "ro": "Cottbus",
-      "en": "Cottbus"
-    },
-    "description": {
-      "de": "Cottbus ist eine schöne Stadt.",
-      "hu": "Cottbus egy szép város.",
-      "ro": "Cottbus este un oraș frumos.",
-      "en": "Cottbus is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Cottbus = ?",
-      "hu": "2 fa + 3 fa Cottbus területén = ?",
-      "ro": "2 copaci + 3 copaci în Cottbus = ?",
-      "en": "2 trees + 3 trees in Cottbus = ?"
-    }
-  },
+  ,
   {
     "id": "brandenburg-an-der-havel-extra",
     "type": "city",
@@ -9382,65 +6420,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Brandenburg an der Havel = ?"
     }
   },
-  {
-    "id": "frankfurt-oder-extra",
-    "type": "city",
-    "parent": "DE-BB",
-    "coords": [
-      14.5506,
-      52.3424
-    ],
-    "name": {
-      "de": "Frankfurt (Oder)",
-      "hu": "Frankfurt (Oder)",
-      "ro": "Frankfurt (Oder)",
-      "en": "Frankfurt (Oder)"
-    },
-    "description": {
-      "de": "Frankfurt (Oder) ist eine schöne Stadt.",
-      "hu": "Frankfurt (Oder) egy szép város.",
-      "ro": "Frankfurt (Oder) este un oraș frumos.",
-      "en": "Frankfurt (Oder) is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Frankfurt (Oder) = ?",
-      "hu": "2 fa + 3 fa Frankfurt (Oder) területén = ?",
-      "ro": "2 copaci + 3 copaci în Frankfurt (Oder) = ?",
-      "en": "2 trees + 3 trees in Frankfurt (Oder) = ?"
-    }
-  },
+  ,
   {
     "id": "eberswalde-extra",
     "type": "city",
@@ -9500,6 +6480,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Eberswalde = ?"
     }
   },
+  ,
   {
     "id": "bernau-extra",
     "type": "city",
@@ -9559,6 +6540,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Bernau = ?"
     }
   },
+  ,
   {
     "id": "konigs-wusterhausen-extra",
     "type": "city",
@@ -9618,6 +6600,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Königs Wusterhausen = ?"
     }
   },
+  ,
   {
     "id": "oranienburg-extra",
     "type": "city",
@@ -9677,6 +6660,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Oranienburg = ?"
     }
   },
+  ,
   {
     "id": "falkensee-extra",
     "type": "city",
@@ -9736,6 +6720,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Falkensee = ?"
     }
   },
+  ,
   {
     "id": "strausberg-extra",
     "type": "city",
@@ -9795,6 +6780,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Strausberg = ?"
     }
   },
+  ,
   {
     "id": "werder-extra",
     "type": "city",
@@ -9854,6 +6840,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Werder = ?"
     }
   },
+  ,
   {
     "id": "senftenberg-extra",
     "type": "city",
@@ -9913,6 +6900,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Senftenberg = ?"
     }
   },
+  ,
   {
     "id": "mitte-extra",
     "type": "city",
@@ -9972,6 +6960,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Mitte = ?"
     }
   },
+  ,
   {
     "id": "charlottenburg-extra",
     "type": "city",
@@ -10031,6 +7020,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Charlottenburg = ?"
     }
   },
+  ,
   {
     "id": "kreuzberg-extra",
     "type": "city",
@@ -10090,6 +7080,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Kreuzberg = ?"
     }
   },
+  ,
   {
     "id": "prenzlauer-berg-extra",
     "type": "city",
@@ -10149,6 +7140,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Prenzlauer Berg = ?"
     }
   },
+  ,
   {
     "id": "steglitz-extra",
     "type": "city",
@@ -10208,6 +7200,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Steglitz = ?"
     }
   },
+  ,
   {
     "id": "vegesack-extra",
     "type": "city",
@@ -10267,6 +7260,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Vegesack = ?"
     }
   },
+  ,
   {
     "id": "findorff-extra",
     "type": "city",
@@ -10326,6 +7320,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Findorff = ?"
     }
   },
+  ,
   {
     "id": "schwachhausen-extra",
     "type": "city",
@@ -10385,65 +7380,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Schwachhausen = ?"
     }
   },
-  {
-    "id": "altona-extra",
-    "type": "city",
-    "parent": "DE-HH",
-    "coords": [
-      9.9349,
-      53.5511
-    ],
-    "name": {
-      "de": "Altona",
-      "hu": "Altona",
-      "ro": "Altona",
-      "en": "Altona"
-    },
-    "description": {
-      "de": "Altona ist eine schöne Stadt.",
-      "hu": "Altona egy szép város.",
-      "ro": "Altona este un oraș frumos.",
-      "en": "Altona is a beautiful city."
-    },
-    "descriptionAdvanced": {
-      "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
-    },
-    "facts": {
-      "de": [
-        "Stadt",
-        "Kultur",
-        "Natur",
-        "Architektur"
-      ],
-      "hu": [
-        "Város",
-        "Kultúra",
-        "Természet",
-        "Építészet"
-      ],
-      "ro": [
-        "Oraș",
-        "Cultură",
-        "Natură",
-        "Arhitectură"
-      ],
-      "en": [
-        "City",
-        "Culture",
-        "Nature",
-        "Architecture"
-      ]
-    },
-    "plizioChallenge": {
-      "de": "2 Bäume + 3 Bäume in Altona = ?",
-      "hu": "2 fa + 3 fa Altona területén = ?",
-      "ro": "2 copaci + 3 copaci în Altona = ?",
-      "en": "2 trees + 3 trees in Altona = ?"
-    }
-  },
+  ,
   {
     "id": "st-pauli-extra",
     "type": "city",
@@ -10503,6 +7440,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in St. Pauli = ?"
     }
   },
+  ,
   {
     "id": "eimsbuttel-extra",
     "type": "city",
@@ -10562,6 +7500,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Eimsbüttel = ?"
     }
   },
+  ,
   {
     "id": "wandsbek-extra",
     "type": "city",
@@ -10621,6 +7560,7 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Wandsbek = ?"
     }
   },
+  ,
   {
     "id": "harburg-extra",
     "type": "city",
@@ -10680,4 +7620,4 @@ export const poiExtraDeCities: POI[] = [
       "en": "2 trees + 3 trees in Harburg = ?"
     }
   }
-];
+] as POI[]);
