@@ -1336,10 +1336,8 @@ function SubRegionView({
                       const allowedTypes = new Set(LAYER_TYPES[subLayer]);
                       return allowedTypes.has(p.type);
                     });
-                    // De-cluster: ha 2 POI tul kozel van, kis offset (csigavonal)
-                    const _vbDC = (detail?.viewBox ?? "0 0 1000 1200").split(" ").map(Number);
-                    const dcSizeNorm = Math.max(_vbDC[2] || 1000, _vbDC[3] || 1200) / 1200;
-                    const minDist = 18 * dcSizeNorm / pz.view.scale; // POI dot-atmero kb
+                    // De-cluster: screen-pixel-szinten kb 30 px (label is olvashato)
+                    const minDist = 30 / pz.view.scale;
                     const positions: Array<[number, number]> = filtered.map(p =>
                       projectInState(detail.projection, p.coords[0], p.coords[1])
                     );
