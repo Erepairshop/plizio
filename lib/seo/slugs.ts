@@ -276,12 +276,16 @@ export function countrySlugFor(lang: Lang, countryId: string = "germany") {
 const HU_PARENT_TO_SLUG = new Map<string, string>(
   hungaryRegions.filter(r => r.parent?.startsWith("HU-")).map(r => [r.parent!, r.id])
 );
+const HU_LEGACY_IDS = new Set<string>(hungaryRegions.map(r => r.id));
 
 export function stateSlugFor(stateId: string, lang: Lang) {
+  // HU ISO kod -> legacy slug (HU-FE -> "fejer")
   if (stateId.startsWith("HU-")) {
     const slug = HU_PARENT_TO_SLUG.get(stateId);
     if (slug) return slug;
   }
+  // HU legacy id (pl "fejer") -> ugyanaz
+  if (HU_LEGACY_IDS.has(stateId)) return stateId;
   return STATE_SLUGS[stateId]?.[lang] ?? slugify(REGION_BY_ID.get(stateId)?.name[lang] || REGION_BY_ID.get(stateId)?.name.de || stateId);
 }
 
