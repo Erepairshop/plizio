@@ -918,7 +918,7 @@ export const hungaryRegions: POI[] = [
   {
     id: "pest",
     type: "region",
-    parent: "HU-BU",
+    parent: "HU-PE",
     coords: [19.0761, 47.6694],
     name: {"de": "Pest", "hu": "Pest", "ro": "Pest", "en": "Pest"},
     image: "/geo-images/hungary/pest.webp",
@@ -3211,7 +3211,7 @@ export const hungaryCities: POI[] = [
   {
     id: "paks",
     type: "city",
-    parent: "HU-TO",
+    parent: "HU-BK",
     coords: [18.8667, 46.6167],
     name: {"de": "Paks", "hu": "Paks", "ro": "Paks", "en": "Paks"},
     image: "/geo-images/hungary/paks.webp",
@@ -3973,7 +3973,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szalajka-volgy",
     type: "landmark",
-    parent: "HU-BZ",
+    parent: "HU-HE",
     coords: [20.39, 48.10],
     name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
     image: "/geo-images/hungary/szalajka-volgy.webp",
@@ -4013,7 +4013,7 @@ export const hungaryCities: POI[] = [
   {
     id: "visegradi-fellegvar",
     type: "historical",
-    parent: "HU-BU",
+    parent: "HU-PE",
     coords: [18.98, 47.79],
     name: {"de": "Zitadelle Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea Visegrád", "en": "Visegrád Citadel"},
     image: "/geo-images/hungary/visegrad.webp",
@@ -4023,7 +4023,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szigetvari-var",
     type: "historical",
-    parent: "HU-SO",
+    parent: "HU-BA",
     coords: [17.79, 46.05],
     name: {"de": "Burg Szigetvár", "hu": "Szigetvári vár", "ro": "Castelul Szigetvár", "en": "Castle of Szigetvár"},
     image: "/geo-images/hungary/szigetvari-var.webp",
@@ -4063,7 +4063,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szentendrei-skanzen",
     type: "historical",
-    parent: "HU-BU",
+    parent: "HU-PE",
     coords: [19.04, 47.69],
     name: {"de": "Skanzen Szentendre", "hu": "Szentendrei Skanzen", "ro": "Skanzen Szentendre", "en": "Szentendre Skanzen"},
     image: "/geo-images/hungary/szentendrei-skanzen.webp",
@@ -4083,7 +4083,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pannonhalmi-foapatsag",
     type: "historical",
-    parent: "HU-VE",
+    parent: "HU-GS",
     coords: [17.76, 47.55],
     name: {"de": "Erzabtei Pannonhalma", "hu": "Pannonhalmi Főapátság", "ro": "Arhiabația Pannonhalma", "en": "Pannonhalma Archabbey"},
     image: "/geo-images/hungary/pannonhalmi-foapatsag.webp",
@@ -4682,7 +4682,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nadasdy-kastely",
     type: "landmark",
-    parent: "HU-FE",
+    parent: "HU-VE",
     coords: [18.22, 47.21],
     name: {"de": "Schloss Nádasdy", "hu": "Nádasdy-kastély", "ro": "Castelul Nádasdy", "en": "Nádasdy Mansion"},
     description: {"de": "Einzigartiges neugotisches Schloss im Tudor-Stil in Nádasdladány.", "hu": "Egyedülálló neogótikus, Tudor-stílusú kastély Nádasdladányban.", "ro": "Castel neogotic unic în stil Tudor în Nádasdladány.", "en": "Unique Neo-Gothic Tudor-style mansion in Nádasdladány."},
@@ -4700,7 +4700,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tiszadob-kastely",
     type: "landmark",
-    parent: "HU-SZ",
+    parent: "HU-HB",
     coords: [21.17, 47.92],
     name: {"de": "Schloss Andrássy", "hu": "Tiszadobi Andrássy-kastély", "ro": "Castelul Andrássy din Tiszadob", "en": "Tiszadob Andrássy Castle"},
     description: {"de": "Märchenhaftes historistisches Schloss an der Theiß mit Labyrinth.", "hu": "Mesebeli historizáló kastély a Tisza partján, labirintussal.", "ro": "Castel istoric de basm pe malul Tisei, cu un labirint.", "en": "Fairytale-like Historicist castle on the Tisza with a labyrinth."},
