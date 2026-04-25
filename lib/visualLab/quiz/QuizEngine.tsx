@@ -303,7 +303,11 @@ export function useQuizEngine({
         }
 
         if (task.type === "spot_error") {
-          const correct = poi.id === task.wrongPoiId;
+          let correct = poi.id === task.wrongPoiId;
+          if (!correct && task.wrongPoiId) {
+            const wrong = pois.find((p) => p.id === task.wrongPoiId);
+            if (wrong && wrong.name?.de && poi.name?.de === wrong.name.de) correct = true;
+          }
           advanceScore(correct);
           return {
             ...prev,
@@ -313,10 +317,17 @@ export function useQuizEngine({
         }
 
         if (task.type === "distance_guess") {
+          // ID-match VAGY nev-match (duplikatum POI-k)
+          const matchesId = (id?: string) => {
+            if (!id) return false;
+            if (poi.id === id) return true;
+            const tp = pois.find((p) => p.id === id);
+            return !!(tp && tp.name?.de && poi.name?.de === tp.name.de);
+          };
           if (prev.phase === "waiting") {
             // Elso kattintas: ha nem az egyik target -> rossz valasz azonnal
-            const isTargetA = poi.id === task.targetPoiId;
-            const isTargetB = poi.id === task.targetPoiId2;
+            const isTargetA = matchesId(task.targetPoiId);
+            const isTargetB = matchesId(task.targetPoiId2);
             if (!isTargetA && !isTargetB) {
               advanceScore(false);
               return { ...prev, phase: "answered", distancePoiA: poi, result: { correct: false } };
@@ -325,8 +336,7 @@ export function useQuizEngine({
           }
           if (prev.phase === "distance_a" && prev.distancePoiA) {
             if (poi.id === prev.distancePoiA.id) return prev; // ugyanaz, ignoraljuk
-            const isOtherTarget =
-              poi.id === task.targetPoiId || poi.id === task.targetPoiId2;
+            const isOtherTarget = matchesId(task.targetPoiId) || matchesId(task.targetPoiId2);
             const km = haversineKm(
               [prev.distancePoiA.coords[0], prev.distancePoiA.coords[1]],
               [poi.coords[0], poi.coords[1]]
@@ -343,7 +353,13 @@ export function useQuizEngine({
         if (task.type === "order_by") {
           const ordered = task.orderedPoiIds ?? [];
           const expected = ordered[prev.orderProgress];
-          if (poi.id !== expected) {
+          // Pontos ID-match VAGY ugyanazon nev (duplikatumok eseten)
+          let matches = poi.id === expected;
+          if (!matches && expected) {
+            const expPoi = pois.find((p) => p.id === expected);
+            if (expPoi && expPoi.name?.de && poi.name?.de === expPoi.name.de) matches = true;
+          }
+          if (!matches) {
             // wrong order — show wrong result, user must retry
             return {
               ...prev,
