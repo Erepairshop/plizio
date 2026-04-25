@@ -10,9 +10,11 @@ from duckduckgo_search import DDGS
 # Suppress the specific RuntimeWarning from duckduckgo_search
 warnings.filterwarnings("ignore", category=RuntimeWarning, module="duckduckgo_search")
 
-# Konfiguráció
-DATA_DIR = 'C:/Users/User/plizio-repo/lib/visualLab/data'
-PUBLIC_DIR = 'C:/Users/User/plizio-repo/public'
+# Konfiguráció — env-override ha be van állítva, különben repo-relativ a script alapján
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_REPO = os.path.dirname(_HERE)
+DATA_DIR = os.environ.get('PLIZIO_DATA_DIR') or os.path.join(_REPO, 'lib/visualLab/data')
+PUBLIC_DIR = os.environ.get('PLIZIO_PUBLIC_DIR') or os.path.join(_REPO, 'public')
 MAX_IMAGE_SIZE = 1024
 QUALITY = 80
 
@@ -62,6 +64,23 @@ COUNTRY_CONFIG = {
     'northmacedoniaPoi.ts': 'northmacedonia',
     'belarusPoi.ts': 'belarus',
     'ukrainePoi.ts': 'ukraine',
+    # North America
+    'usaPoi.ts': 'usa',
+    'canadaPoi.ts': 'canada',
+    'mexicoPoi.ts': 'mexico',
+    'guatemalaPoi.ts': 'guatemala',
+    'hondurasPoi.ts': 'honduras',
+    'nicaraguaPoi.ts': 'nicaragua',
+    'costaricaPoi.ts': 'costa-rica',
+    'panamaPoi.ts': 'panama',
+    'cubaPoi.ts': 'cuba',
+    'dominicanrepublicPoi.ts': 'dominican-republic',
+    'haitiPoi.ts': 'haiti',
+    'jamaicaPoi.ts': 'jamaica',
+    'bahamasPoi.ts': 'bahamas',
+    'trinidadPoi.ts': 'trinidad',
+    'belizePoi.ts': 'belize',
+    'elsalvadorPoi.ts': 'el-salvador',
 }
 
 def to_kebab_case(s):
@@ -100,9 +119,22 @@ def download_and_convert(url, target_path):
         print(f"  Letöltési hiba: {e}")
     return False
 
+import urllib.request
+import urllib.parse
+
+NTFY_TOPIC = "https://ntfy.sh/plizio-borota25-alerts"
+
+def ntfy(msg):
+    try:
+        req = urllib.request.Request(NTFY_TOPIC, data=msg.encode("utf-8"), method="POST")
+        urllib.request.urlopen(req, timeout=5)
+    except Exception:
+        pass
+
 def process_all_pois():
     processed_count = 0
     success_count = 0
+    error_streak = 0
     
     for filename, country in COUNTRY_CONFIG.items():
         filepath = os.path.join(DATA_DIR, filename)
@@ -141,13 +173,29 @@ def process_all_pois():
                     if download_and_convert(img_url, target_abs):
                         print(f"  SIKER: {image_path}")
                         success_count += 1
+                        error_streak = 0
                     else:
                         print(f"  HIBA: Letöltés sikertelen.")
+                        error_streak += 1
                 else:
                     print(f"  Nincs találat.")
-                
-                time.sleep(3) # Biztonságosabb szünet
+                    error_streak += 1
 
+                # Notif minden 100 check utan
+                if processed_count % 100 == 0:
+                    ntfy(f"Letolto: {processed_count} check, {success_count} siker (~{int(success_count*100/max(processed_count,1))}%)")
+
+                # Notif ha 20+ folyamatos hiba (komoly baj)
+                if error_streak == 20:
+                    ntfy(f"Letolto HIBA: 20 egymas utani sikertelen (talan rate-limit). Foly: {country}, {name_en}")
+                if error_streak >= 50:
+                    ntfy(f"Letolto LEALL: 50+ folyamatos hiba, leallitom. {processed_count} check, {success_count} siker")
+                    print(f"\n50+ continuous errors, aborting.")
+                    return
+
+                time.sleep(3)
+
+    ntfy(f"Letolto VEGZETT: {processed_count} check, {success_count} siker")
     print(f"\nKÉSZ! Összesen megpróbálva: {processed_count}, Sikeres: {success_count}")
 
 if __name__ == "__main__":
