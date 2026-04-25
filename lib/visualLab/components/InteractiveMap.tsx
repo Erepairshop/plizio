@@ -70,8 +70,8 @@ const LAYER_TYPES: Record<Layer, POI["type"][]> = {
 };
 
 const DEFAULT_LAYER_BY_SUBJECT: Record<Subject, Layer> = {
-  sachkunde: "all",
-  geographie: "all",
+  sachkunde: "cities",
+  geographie: "cities",
   geschichte: "history",
 };
 
@@ -1306,10 +1306,9 @@ function SubRegionView({
                   {pois
                     .filter((p) => {
                       if (p.type === "region" || p.parent !== stateId) return false;
-                      // Quiz mode: csak a feladathoz relevans POI-k
+                      // Quiz mode: tipus-szuro (varos-task -> minden varos, geo-task -> minden geo POI)
+                      // NEM csak a 2-5 feladat-specifikus POI; igy a felhasznalo a tobbiek kozott valaszt
                       if (subMode === "quiz") {
-                        const quizIds = subQuiz.visiblePoiIds;
-                        if (quizIds !== null) return quizIds.has(p.id);
                         const quizTypes = subQuiz.visiblePoiTypes;
                         if (quizTypes === null) return true;
                         if (quizTypes.length === 0) return false;
