@@ -42,13 +42,13 @@ export const bwQuiz: QuizTask[] = [
     type: "distance_guess",
     question: {
       de: "Wie weit ist es von Schloss Sigmaringen nach Feldberg (Schwarzwald)?",
-      hu: "Milyen messze van Schloss Sigmaringen \u00e9s Feldberg (Schwarzwald) egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Schloss Sigmaringen de Feldberg (Schwarzwald)?",
+      hu: "Milyen messze van Schloss Sigmaringen és Feldberg (Schwarzwald) egymástól?",
+      ro: "Cât de departe este Schloss Sigmaringen de Feldberg (Schwarzwald)?",
       en: "How far is it from Schloss Sigmaringen to Feldberg (Schwarzwald)?"
     },
     targetPoiId: "hist-schloss-sigmaringen",
-    targetPoiId2: "landmark-donauversickerung",
-    expectedKm: 38
+    targetPoiId2: "mnt-feldberg",
+    expectedKm: 93
   },
   {
     id: "de-bw-med-2",
@@ -100,32 +100,32 @@ export const bwQuiz: QuizTask[] = [
     id: "de-bw-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Insel Mainau und Nordschwarzwald!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Insel Mainau \u00e9s Nordschwarzwald k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Insel Mainau \u0219i Nordschwarzwald!",
+      de: "Schätze die Entfernung zwischen Insel Mainau und Nordschwarzwald!",
+      hu: "Tippeld meg a távolságot Insel Mainau és Nordschwarzwald között!",
+      ro: "Estimează distanța dintre Insel Mainau și Nordschwarzwald!",
       en: "Guess the distance between Insel Mainau and Nordschwarzwald!"
     },
     targetPoiId: "island-mainau",
-    targetPoiId2: "mnt-feldberg",
-    expectedKm: 91
+    targetPoiId2: "forest-schwarzwald-nord-extra",
+    expectedKm: 135
   },
   {
     id: "de-bw-hard-3",
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
-      "city-freiburg",
       "hist-burg-hohenzollern",
-      "city-heidelberg",
-      "city-stuttgart",
-      "landmark-schloss-lichtenstein"
+      "landmark-schloss-lichtenstein",
+      "hist-schloss-sigmaringen",
+      "landmark-heidelberg-castle",
+      "city-stuttgart"
     ],
-    wrongPoiId: "hist-burg-hohenzollern"
+    wrongPoiId: "city-stuttgart"
   },
   {
     id: "de-bw-special",

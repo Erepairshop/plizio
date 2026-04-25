@@ -46,9 +46,9 @@ export const niQuiz: QuizTask[] = [
       ro: "C\u00e2t de departe este Celle de L\u00fcneburger Heide?",
       en: "How far is it from Celle to L\u00fcneburger Heide?"
     },
-    targetPoiId: "relief-lueneburger-heide",
+    targetPoiId: "city-celle-extra",
     targetPoiId2: "forest-lueneburger-heide",
-    expectedKm: 11
+    expectedKm: 55
   },
   {
     id: "de-ni-med-2",
@@ -75,9 +75,9 @@ export const niQuiz: QuizTask[] = [
       "city-braunschweig",
       "city-osnabrueck",
       "city-goettingen",
-      "city-braunschweig"
+      "city-hildesheim-extra"
     ],
-    wrongPoiId: "city-braunschweig"
+    wrongPoiId: "industry-wolfsburg"
   },
   {
     id: "de-ni-hard-1",
@@ -91,8 +91,7 @@ export const niQuiz: QuizTask[] = [
     orderedPoiIds: [
       "city-hannover",
       "mountain-wilseder-berg",
-      "forest-lueneburger-heide",
-      "relief-lueneburger-heide"
+      "forest-lueneburger-heide"
     ],
     orderBy: "west_to_east"
   },
@@ -105,9 +104,9 @@ export const niQuiz: QuizTask[] = [
       ro: "Estimeaz\u0103 distan\u021ba dintre Osnabr\u00fcck \u0219i Goslar!",
       en: "Guess the distance between Osnabr\u00fcck and Goslar!"
     },
-    targetPoiId: "kidlm-heide-park-soltau",
-    targetPoiId2: "industry-wolfsburg",
-    expectedKm: 91
+    targetPoiId: "city-osnabrueck",
+    targetPoiId2: "hist-goslar-kaiserpfalz",
+    expectedKm: 168
   },
   {
     id: "de-ni-hard-3",

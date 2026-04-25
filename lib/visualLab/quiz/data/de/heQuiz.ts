@@ -71,13 +71,13 @@ export const heQuiz: QuizTask[] = [
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
-      "city-frankfurt",
+      "hist-paulskirche",
       "landmark-burg-frankenstein",
       "landmark-goethehaus-frankfurt",
       "hist-wilhelmshoehe",
       "city-kassel"
     ],
-    wrongPoiId: "city-frankfurt"
+    wrongPoiId: "city-kassel"
   },
   {
     id: "de-he-hard-1",
@@ -91,7 +91,6 @@ export const heQuiz: QuizTask[] = [
     orderedPoiIds: [
       "city-darmstadt",
       "city-frankfurt",
-      "city-kassel",
       "city-kassel"
     ],
     orderBy: "west_to_east"
@@ -100,13 +99,13 @@ export const heQuiz: QuizTask[] = [
     id: "de-he-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Wiesbaden und Rheingau!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Wiesbaden \u00e9s Rheingau k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Wiesbaden \u0219i Rheingau!",
-      en: "Guess the distance between Wiesbaden and Rheingau!"
+      de: "Wie weit ist es von Wiesbaden nach Frankfurt am Main?",
+      hu: "Milyen messze van Wiesbaden Frankfurttól?",
+      ro: "Cât de departe este Wiesbaden de Frankfurt am Main?",
+      en: "How far is it from Wiesbaden to Frankfurt am Main?"
     },
     targetPoiId: "city-wiesbaden",
-    targetPoiId2: "industry-frankfurt",
+    targetPoiId2: "city-frankfurt",
     expectedKm: 32
   },
   {

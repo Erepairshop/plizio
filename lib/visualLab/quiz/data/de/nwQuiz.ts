@@ -74,7 +74,7 @@ export const nwQuiz: QuizTask[] = [
       "city-bielefeld",
       "city-oberhausen",
       "port-duisburg",
-      "city-bielefeld",
+      "city-bonn",
       "city-gelsenkirchen"
     ],
     wrongPoiId: "port-duisburg"
@@ -105,7 +105,7 @@ export const nwQuiz: QuizTask[] = [
       ro: "Estimeaz\u0103 distan\u021ba dintre Wupper \u0219i Schloss Nordkirchen!",
       en: "Guess the distance between Wupper and Schloss Nordkirchen!"
     },
-    targetPoiId: "hist-paderborn-dom",
+    targetPoiId: "river-wupper-extra",
     targetPoiId2: "landmark-schloss-nordkirchen",
     expectedKm: 65
   },
@@ -123,7 +123,7 @@ export const nwQuiz: QuizTask[] = [
       "landmark-gasometer-oberhausen",
       "landmark-cologne-cathedral",
       "landmark-schloss-nordkirchen",
-      "hist-hermannsdenkmal"
+      "landmark-zeche-zollverein"
     ],
     wrongPoiId: "hist-hermannsdenkmal"
   },
