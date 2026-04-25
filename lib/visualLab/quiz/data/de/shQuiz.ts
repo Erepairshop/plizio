@@ -41,10 +41,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Nord-Ostsee-Kanal nach L\u00fcbeck?",
-      hu: "Milyen messze van Nord-Ostsee-Kanal \u00e9s L\u00fcbeck egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Nord-Ostsee-Kanal de L\u00fcbeck?",
-      en: "How far is it from Nord-Ostsee-Kanal to L\u00fcbeck?"
+      de: "Wie weit ist es von der Flensburger Förde nach Kiel?",
+      hu: "Milyen messze van a Flensburgi öböl és Kiel egymástól?",
+      ro: "Cât de departe este Flensburger Förde de Kiel?",
+      en: "How far is it from Flensburg Fjord to Kiel?"
     },
     targetPoiId: "landmark-flensburger-foerde",
     targetPoiId2: "city-kiel",
@@ -100,10 +100,10 @@ export const shQuiz: QuizTask[] = [
     id: "de-sh-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Nordertor Flensburg und Eider!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Nordertor Flensburg \u00e9s Eider k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Nordertor Flensburg \u0219i Eider!",
-      en: "Guess the distance between Nordertor Flensburg and Eider!"
+      de: "Schätze die Entfernung zwischen Lübeck und Sylt (Westerland)!",
+      hu: "Tippeld meg a távolságot Lübeck és Sylt (Westerland) között!",
+      ro: "Estimează distanța dintre Lübeck și Sylt (Westerland)!",
+      en: "Guess the distance between Lübeck and Sylt (Westerland)!"
     },
     targetPoiId: "city-luebeck",
     targetPoiId2: "island-sylt",
@@ -137,8 +137,8 @@ export const shQuiz: QuizTask[] = [
       en: "Order these places from east to west!"
     },
     orderedPoiIds: [
+      "kidlm-hansa-park",
       "city-luebeck",
-      "hist-luebeck",
       "hist-skagerrakschlacht"
     ],
     orderBy: "east_to_west"

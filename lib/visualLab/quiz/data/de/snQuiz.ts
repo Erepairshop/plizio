@@ -41,22 +41,22 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Mei\u00dfen nach Freiberg?",
-      hu: "Milyen messze van Mei\u00dfen \u00e9s Freiberg egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Mei\u00dfen de Freiberg?",
-      en: "How far is it from Mei\u00dfen to Freiberg?"
+      de: "Wie weit ist es von Meißen nach Freiberg?",
+      hu: "Milyen messze van Meißen és Freiberg egymástól?",
+      ro: "Cât de departe este Meißen de Freiberg?",
+      en: "How far is it from Meißen to Freiberg?"
     },
-    targetPoiId: "hist-colditz",
-    targetPoiId2: "city-goerlitz",
-    expectedKm: 152
+    targetPoiId: "city-meissen",
+    targetPoiId2: "city-freiberg-sachsen-extra",
+    expectedKm: 29
   },
   {
     id: "de-sn-med-2",
     type: "click_poi",
     question: {
       de: "Wo befindet sich Fichtelberg?",
-      hu: "Hol tal\u00e1lhat\u00f3: Fichtelberg?",
-      ro: "Unde se afl\u0103 Fichtelberg?",
+      hu: "Hol található: Fichtelberg?",
+      ro: "Unde se află Fichtelberg?",
       en: "Where is Fichtelberg located?"
     },
     targetPoiId: "mnt-fichtelberg"
@@ -65,27 +65,27 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
       "city-goerlitz",
       "city-leipzig",
-      "city-goerlitz",
+      "city-chemnitz",
       "mnt-bastei-saechsische-schweiz",
       "kid-landmark-belantis"
     ],
-    wrongPoiId: "kid-landmark-belantis"
+    wrongPoiId: "mnt-bastei-saechsische-schweiz"
   },
   {
     id: "de-sn-hard-1",
     type: "order_by",
     question: {
       de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
+      hu: "Rendezd ezeket a helyeket nyugatról keletre!",
+      ro: "Ordonează aceste locuri de la vest la est!",
       en: "Order these places from west to east!"
     },
     orderedPoiIds: [
@@ -100,10 +100,10 @@ export const snQuiz: QuizTask[] = [
     id: "de-sn-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Mei\u00dfen (Porzellan) und Freiberg!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Mei\u00dfen (Porzellan) \u00e9s Freiberg k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Mei\u00dfen (Porzellan) \u0219i Freiberg!",
-      en: "Guess the distance between Mei\u00dfen (Porzellan) and Freiberg!"
+      de: "Schätze die Entfernung zwischen Meißen (Porzellan) und Görlitz!",
+      hu: "Tippeld meg a távolságot Meißen (Porzellan) és Görlitz között!",
+      ro: "Estimează distanța dintre Meißen (Porzellan) și Görlitz!",
+      en: "Guess the distance between Meißen (Porcelain) and Görlitz!"
     },
     targetPoiId: "city-meissen",
     targetPoiId2: "city-goerlitz",

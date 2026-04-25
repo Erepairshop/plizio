@@ -41,10 +41,10 @@ export const thQuiz: QuizTask[] = [
     id: "de-th-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Weimar nach Kr\u00e4merbr\u00fccke Erfurt?",
-      hu: "Milyen messze van Weimar \u00e9s Kr\u00e4merbr\u00fccke Erfurt egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Weimar de Kr\u00e4merbr\u00fccke Erfurt?",
-      en: "How far is it from Weimar to Kr\u00e4merbr\u00fccke Erfurt?"
+      de: "Wie weit ist es von Weimar nach Wartburg?",
+      hu: "Milyen messze van Weimar és Wartburg egymástól?",
+      ro: "Cât de departe este Weimar de Wartburg?",
+      en: "How far is it from Weimar to Wartburg?"
     },
     targetPoiId: "hist-weimar",
     targetPoiId2: "landmark-wartburg",
@@ -59,7 +59,7 @@ export const thQuiz: QuizTask[] = [
       ro: "Unde se afl\u0103 Gro\u00dfer Beerberg?",
       en: "Where is Gro\u00dfer Beerberg located?"
     },
-    targetPoiId: "hist-weimar"
+    targetPoiId: "mountain-grosser-beerberg-extra"
   },
   {
     id: "de-th-med-3",
@@ -73,7 +73,7 @@ export const thQuiz: QuizTask[] = [
     optionPoiIds: [
       "hist-erfurter-dom",
       "landmark-wartburg",
-      "hist-erfurter-dom",
+      "hist-weimar",
       "city-gera",
       "hist-buchenwald"
     ],
@@ -137,9 +137,8 @@ export const thQuiz: QuizTask[] = [
       en: "Order these places from east to west!"
     },
     orderedPoiIds: [
-      "landmark-saalfelder-feengrotten",
+      "city-gera",
       "hist-erfurter-dom",
-      "hist-wartburg",
       "hist-wartburg"
     ],
     orderBy: "east_to_west"

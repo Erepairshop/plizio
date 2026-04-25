@@ -41,10 +41,10 @@ export const hbQuiz: QuizTask[] = [
     id: "de-hb-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Bremer Altstadt nach Universum\u00ae Bremen?",
-      hu: "Milyen messze van Bremer Altstadt \u00e9s Universum\u00ae Bremen egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Bremer Altstadt de Universum\u00ae Bremen?",
-      en: "How far is it from Bremer Altstadt to Universum\u00ae Bremen?"
+      de: "Wie weit ist es von der Bremer Altstadt nach Bremerhaven?",
+      hu: "Milyen messze van a brémai óváros és Bremerhaven egymástól?",
+      ro: "Cât de departe este orașul vechi din Bremen de Bremerhaven?",
+      en: "How far is it from Bremen Old Town to Bremerhaven?"
     },
     targetPoiId: "city-bremen",
     targetPoiId2: "port-bremerhaven",
@@ -59,7 +59,7 @@ export const hbQuiz: QuizTask[] = [
       ro: "Unde se afl\u0103 Weser (Bremen)?",
       en: "Where is Weser (Bremen) located?"
     },
-    targetPoiId: "landmark-universum-bremen"
+    targetPoiId: "river-weser-hafen-hb"
   },
   {
     id: "de-hb-med-3",
@@ -122,9 +122,9 @@ export const hbQuiz: QuizTask[] = [
       "port-bremerhaven",
       "river-weser-hafen-hb",
       "hist-auswandererhaus",
-      "hist-buergerweide"
+      "landmark-stadtmusikanten"
     ],
-    wrongPoiId: "river-weser-hafen-hb"
+    wrongPoiId: "port-bremerhaven"
   },
   {
     id: "de-hb-special",

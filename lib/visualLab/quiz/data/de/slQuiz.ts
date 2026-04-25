@@ -41,10 +41,10 @@ export const slQuiz: QuizTask[] = [
     id: "de-sl-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von V\u00f6lklinger H\u00fctte nach Alte Abtei Mettlach?",
-      hu: "Milyen messze van V\u00f6lklinger H\u00fctte \u00e9s Alte Abtei Mettlach egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este V\u00f6lklinger H\u00fctte de Alte Abtei Mettlach?",
-      en: "How far is it from V\u00f6lklinger H\u00fctte to Alte Abtei Mettlach?"
+      de: "Wie weit ist es von der Völklinger Hütte nach Saarbrücken?",
+      hu: "Milyen messze van a Völklinger Hütte és Saarbrücken egymástól?",
+      ro: "Cât de departe este Völklinger Hütte de Saarbrücken?",
+      en: "How far is it from Völklinger Hütte to Saarbrücken?"
     },
     targetPoiId: "landmark-voelklinger-huette",
     targetPoiId2: "city-saarbruecken",
@@ -55,8 +55,8 @@ export const slQuiz: QuizTask[] = [
     type: "click_poi",
     question: {
       de: "Wo befindet sich Bostalsee?",
-      hu: "Hol tal\u00e1lhat\u00f3: Bostalsee?",
-      ro: "Unde se afl\u0103 Bostalsee?",
+      hu: "Hol található: Bostalsee?",
+      ro: "Unde se află Bostalsee?",
       en: "Where is Bostalsee located?"
     },
     targetPoiId: "nature-bostalsee"
@@ -65,9 +65,9 @@ export const slQuiz: QuizTask[] = [
     id: "de-sl-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
@@ -77,21 +77,21 @@ export const slQuiz: QuizTask[] = [
       "landmark-voelklinger-huette",
       "landmark-saarschleife"
     ],
-    wrongPoiId: "landmark-voelklinger-huette"
+    wrongPoiId: "landmark-saarschleife"
   },
   {
     id: "de-sl-hard-1",
     type: "order_by",
     question: {
       de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
+      hu: "Rendezd ezeket a helyeket nyugatról keletre!",
+      ro: "Ordonează aceste locuri de la vest la est!",
       en: "Order these places from west to east!"
     },
     orderedPoiIds: [
       "landmark-voelklinger-huette",
       "hist-ludwigskirche-saarbruecken",
-      "city-saarbruecken"
+      "city-homburg-saar"
     ],
     orderBy: "west_to_east"
   },
@@ -99,10 +99,10 @@ export const slQuiz: QuizTask[] = [
     id: "de-sl-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Bostalsee und Bergbaumuseum Bexbach!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Bostalsee \u00e9s Bergbaumuseum Bexbach k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Bostalsee \u0219i Bergbaumuseum Bexbach!",
-      en: "Guess the distance between Bostalsee and Bergbaumuseum Bexbach!"
+      de: "Schätze die Entfernung zwischen Bostalsee und Homburg (Saar)!",
+      hu: "Tippeld meg a távolságot a Bostalsee és Homburg (Saar) között!",
+      ro: "Estimează distanța dintre Bostalsee și Homburg (Saar)!",
+      en: "Guess the distance between Bostalsee and Homburg (Saar)!"
     },
     targetPoiId: "nature-bostalsee",
     targetPoiId2: "city-homburg-saar",
@@ -113,18 +113,18 @@ export const slQuiz: QuizTask[] = [
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
       "hist-ludwigskirche-saarbruecken",
       "city-homburg-saar",
-      "hist-ludwigskirche-saarbruecken",
+      "city-saarbruecken",
       "landmark-saarschleife",
       "city-saarlouis"
     ],
-    wrongPoiId: "hist-ludwigskirche-saarbruecken"
+    wrongPoiId: "landmark-saarschleife"
   },
   {
     id: "de-sl-special",

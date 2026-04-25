@@ -41,10 +41,10 @@ export const stQuiz: QuizTask[] = [
     id: "de-st-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Saale (Sachsen-Anhalt) nach Bauhaus Dessau?",
-      hu: "Milyen messze van Saale (Sachsen-Anhalt) \u00e9s Bauhaus Dessau egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Saale (Sachsen-Anhalt) de Bauhaus Dessau?",
-      en: "How far is it from Saale (Sachsen-Anhalt) to Bauhaus Dessau?"
+      de: "Wie weit ist es von der Teufelsmauer nach Lutherstadt Eisleben?",
+      hu: "Milyen messze van a Teufelsmauer és Lutherstadt Eisleben egymástól?",
+      ro: "Cât de departe este Teufelsmauer de Lutherstadt Eisleben?",
+      en: "How far is it from Teufelsmauer to Lutherstadt Eisleben?"
     },
     targetPoiId: "landmark-teufelsmauer",
     targetPoiId2: "hist-eisleben",
@@ -55,8 +55,8 @@ export const stQuiz: QuizTask[] = [
     type: "click_poi",
     question: {
       de: "Wo befindet sich Brocken?",
-      hu: "Hol tal\u00e1lhat\u00f3: Brocken?",
-      ro: "Unde se afl\u0103 Brocken?",
+      hu: "Hol található: Brocken?",
+      ro: "Unde se află Brocken?",
       en: "Where is Brocken located?"
     },
     targetPoiId: "mnt-brocken"
@@ -65,17 +65,17 @@ export const stQuiz: QuizTask[] = [
     id: "de-st-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
       "city-magdeburg",
       "hist-bauhaus-dessau",
-      "hist-bauhaus-dessau",
+      "hist-wittenberg-schlosskirche",
       "hist-quedlinburg",
-      "hist-bauhaus-dessau"
+      "hist-eisleben"
     ],
     wrongPoiId: "city-magdeburg"
   },
@@ -84,13 +84,13 @@ export const stQuiz: QuizTask[] = [
     type: "order_by",
     question: {
       de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
+      hu: "Rendezd ezeket a helyeket nyugatról keletre!",
+      ro: "Ordonează aceste locuri de la vest la est!",
       en: "Order these places from west to east!"
     },
     orderedPoiIds: [
       "landmark-teufelsmauer",
-      "landmark-teufelsmauer",
+      "city-magdeburg",
       "city-halle-saale",
       "hist-bauhaus-dessau"
     ],
@@ -100,10 +100,10 @@ export const stQuiz: QuizTask[] = [
     id: "de-st-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Quedlinburg und Dessau-Ro\u00dflau!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Quedlinburg \u00e9s Dessau-Ro\u00dflau k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Quedlinburg \u0219i Dessau-Ro\u00dflau!",
-      en: "Guess the distance between Quedlinburg and Dessau-Ro\u00dflau!"
+      de: "Schätze die Entfernung zwischen Nationalpark Harz und Magdeburg!",
+      hu: "Tippeld meg a távolságot a Harz Nemzeti Park és Magdeburg között!",
+      ro: "Estimează distanța dintre Parcul Național Harz și Magdeburg!",
+      en: "Guess the distance between Harz National Park and Magdeburg!"
     },
     targetPoiId: "forest-harz",
     targetPoiId2: "city-magdeburg",
@@ -114,18 +114,18 @@ export const stQuiz: QuizTask[] = [
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
       "landmark-teufelsmauer",
       "hist-wittenberg-schlosskirche",
       "city-magdeburg",
-      "landmark-teufelsmauer",
+      "mnt-brocken",
       "city-halle-saale"
     ],
-    wrongPoiId: "city-halle-saale"
+    wrongPoiId: "hist-wittenberg-schlosskirche"
   },
   {
     id: "de-st-special",

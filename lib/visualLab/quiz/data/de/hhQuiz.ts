@@ -41,10 +41,10 @@ export const hhQuiz: QuizTask[] = [
     id: "de-hh-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Mahnmal St. Nikolai Hamburg nach Alster?",
-      hu: "Milyen messze van Mahnmal St. Nikolai Hamburg \u00e9s Alster egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Mahnmal St. Nikolai Hamburg de Alster?",
-      en: "How far is it from Mahnmal St. Nikolai Hamburg to Alster?"
+      de: "Wie weit ist es vom Mahnmal St. Nikolai nach Tierpark Hagenbeck?",
+      hu: "Milyen messze van a St. Nikolai emlékmű és a Hagenbeck Állatpark egymástól?",
+      ro: "Cât de departe este Memorialul St. Nikolai de Grădina Zoologică Hagenbeck?",
+      en: "How far is it from St. Nikolai Memorial to Hagenbeck Zoo?"
     },
     targetPoiId: "hist-st-nikolai-hamburg",
     targetPoiId2: "zoo-hagenbeck-hamburg",
@@ -138,7 +138,7 @@ export const hhQuiz: QuizTask[] = [
     },
     orderedPoiIds: [
       "landmark-alster",
-      "landmark-alster",
+      "hist-speicherstadt",
       "kidlm-miniatur-wunderland",
       "port-hamburger-hafen"
     ],

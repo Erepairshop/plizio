@@ -55,19 +55,19 @@ export const beQuiz: QuizTask[] = [
     type: "click_poi",
     question: {
       de: "Wo befindet sich Grunewald?",
-      hu: "Hol tal\u00e1lhat\u00f3: Grunewald?",
-      ro: "Unde se afl\u0103 Grunewald?",
+      hu: "Hol található: Grunewald?",
+      ro: "Unde se află Grunewald?",
       en: "Where is Grunewald located?"
     },
-    targetPoiId: "landmark-brandenburg-gate"
+    targetPoiId: "forest-grunewald-extra"
   },
   {
     id: "de-be-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
@@ -75,23 +75,23 @@ export const beQuiz: QuizTask[] = [
       "hist-wannsee",
       "hist-checkpoint-charlie",
       "landmark-east-side-gallery",
-      "landmark-east-side-gallery"
+      "landmark-brandenburg-gate"
     ],
-    wrongPoiId: "landmark-east-side-gallery"
+    wrongPoiId: "hist-wannsee"
   },
   {
     id: "de-be-hard-1",
     type: "order_by",
     question: {
       de: "Ordne diese Orte von Westen nach Osten!",
-      hu: "Rendezd ezeket a helyeket nyugatr\u00f3l keletre!",
-      ro: "Ordoneaz\u0103 aceste locuri de la vest la est!",
+      hu: "Rendezd ezeket a helyeket nyugatról keletre!",
+      ro: "Ordonează aceste locuri de la vest la est!",
       en: "Order these places from west to east!"
     },
     orderedPoiIds: [
       "zoo-berlin",
       "landmark-reichstag",
-      "hist-november-revolution",
+      "hist-berliner-mauer",
       "hist-ddr-museum"
     ],
     orderBy: "west_to_east"
@@ -100,10 +100,10 @@ export const beQuiz: QuizTask[] = [
     id: "de-be-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Havel (Berlin) und East Side Gallery Berlin!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Havel (Berlin) \u00e9s East Side Gallery Berlin k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Havel (Berlin) \u0219i East Side Gallery Berlin!",
-      en: "Guess the distance between Havel (Berlin) and East Side Gallery Berlin!"
+      de: "Schätze die Entfernung zwischen Stasi-Museum und East Side Gallery!",
+      hu: "Tippeld meg a távolságot a Stasi-Museum és az East Side Gallery között!",
+      ro: "Estimează distanța dintre Stasi-Museum și East Side Gallery!",
+      en: "Guess the distance between Stasi-Museum and East Side Gallery!"
     },
     targetPoiId: "hist-stasi-museum",
     targetPoiId2: "landmark-east-side-gallery",
@@ -114,15 +114,15 @@ export const beQuiz: QuizTask[] = [
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
       "landmark-museumsinsel-berlin",
       "city-berlin",
-      "landmark-museumsinsel-berlin",
       "landmark-brandenburg-gate",
+      "landmark-tv-tower",
       "landmark-schloss-pfaueninsel"
     ],
     wrongPoiId: "city-berlin"

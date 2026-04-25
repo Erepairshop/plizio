@@ -41,10 +41,10 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-med-1",
     type: "distance_guess",
     question: {
-      de: "Wie weit ist es von Schweriner See nach Neubrandenburg?",
-      hu: "Milyen messze van Schweriner See \u00e9s Neubrandenburg egym\u00e1st\u00f3l?",
-      ro: "C\u00e2t de departe este Schweriner See de Neubrandenburg?",
-      en: "How far is it from Schweriner See to Neubrandenburg?"
+      de: "Wie weit ist es vom Schweriner See nach Stralsund?",
+      hu: "Milyen messze van a Schweriner See és Stralsund egymástól?",
+      ro: "Cât de departe este Schweriner See de Stralsund?",
+      en: "How far is it from Schweriner See to Stralsund?"
     },
     targetPoiId: "lake-schweriner-see",
     targetPoiId2: "hist-stralsund-hansestadt",
@@ -65,19 +65,19 @@ export const mvQuiz: QuizTask[] = [
     id: "de-mv-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
       "port-rostock",
-      "city-rostock",
-      "city-rostock",
+      "city-schwerin",
+      "city-wismar",
       "hist-stralsund-hansestadt",
       "hist-peenemuende"
     ],
-    wrongPoiId: "city-rostock"
+    wrongPoiId: "port-rostock"
   },
   {
     id: "de-mv-hard-1",
@@ -114,18 +114,18 @@ export const mvQuiz: QuizTask[] = [
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
       "hist-stralsund-hansestadt",
       "city-rostock",
-      "city-rostock",
+      "city-greifswald",
       "city-schwerin",
       "island-usedom"
     ],
-    wrongPoiId: "city-schwerin"
+    wrongPoiId: "island-usedom"
   },
   {
     id: "de-mv-special",

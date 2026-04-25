@@ -46,9 +46,9 @@ export const rpQuiz: QuizTask[] = [
       ro: "C\u00e2t de departe este Deutsches Eck de Reichsburg Cochem?",
       en: "How far is it from Deutsches Eck to Reichsburg Cochem?"
     },
-    targetPoiId: "landmark-porta-nigra",
+    targetPoiId: "landmark-deutsches-eck-extra",
     targetPoiId2: "landmark-burg-cochem",
-    expectedKm: 56
+    expectedKm: 40
   },
   {
     id: "de-rp-med-2",
@@ -77,7 +77,7 @@ export const rpQuiz: QuizTask[] = [
       "industry-ludwigshafen",
       "hist-schloss-stolzenfels"
     ],
-    wrongPoiId: "hist-marksburg"
+    wrongPoiId: "industry-ludwigshafen"
   },
   {
     id: "de-rp-hard-1",

@@ -65,19 +65,19 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-med-3",
     type: "spot_error",
     question: {
-      de: "Finde den Fehler: Welcher Ort geh\u00f6rt zu einer anderen Kategorie?",
-      hu: "Keresd a hib\u00e1t: Melyik hely tartozik m\u00e1s kateg\u00f3ri\u00e1ba?",
-      ro: "G\u0103se\u0219te gre\u0219eala: Care loc apar\u021bine unei alte categorii?",
+      de: "Finde den Fehler: Welcher Ort gehört zu einer anderen Kategorie?",
+      hu: "Keresd a hibát: Melyik hely tartozik más kategóriába?",
+      ro: "Găsește greșeala: Care loc aparține unei alte categorii?",
       en: "Spot the error: Which place belongs to a different category?"
     },
     optionPoiIds: [
       "forest-spreewald",
-      "landmark-sanssouci",
+      "nature-schwielowsee",
       "hist-glienicker-bruecke",
       "hist-cecilienhof-konferenz",
       "hist-cecilienhof"
     ],
-    wrongPoiId: "landmark-sanssouci"
+    wrongPoiId: "nature-schwielowsee"
   },
   {
     id: "de-bb-hard-1",
@@ -99,12 +99,12 @@ export const bbQuiz: QuizTask[] = [
     id: "de-bb-hard-2",
     type: "distance_guess",
     question: {
-      de: "Sch\u00e4tze die Entfernung zwischen Schloss Rheinsberg und Gedenkst\u00e4tte Sachsenhausen!",
-      hu: "Tippeld meg a t\u00e1vols\u00e1got Schloss Rheinsberg \u00e9s Gedenkst\u00e4tte Sachsenhausen k\u00f6z\u00f6tt!",
-      ro: "Estimeaz\u0103 distan\u021ba dintre Schloss Rheinsberg \u0219i Gedenkst\u00e4tte Sachsenhausen!",
-      en: "Guess the distance between Schloss Rheinsberg and Gedenkst\u00e4tte Sachsenhausen!"
+      de: "Schätze die Entfernung zwischen Schloss Rheinsberg und Gedenkstätte Sachsenhausen!",
+      hu: "Tippeld meg a távolságot Schloss Rheinsberg és Gedenkstätte Sachsenhausen között!",
+      ro: "Estimează distanța dintre Schloss Rheinsberg și Gedenkstätte Sachsenhausen!",
+      en: "Guess the distance between Schloss Rheinsberg and Gedenkstätte Sachsenhausen!"
     },
-    targetPoiId: "hist-cecilienhof-konferenz",
+    targetPoiId: "hist-schloss-rheinsberg-extra",
     targetPoiId2: "hist-sachsenhausen",
     expectedKm: 44
   },
@@ -113,12 +113,12 @@ export const bbQuiz: QuizTask[] = [
     type: "spot_error",
     question: {
       de: "Was passt nicht zu den anderen?",
-      hu: "Mi nem illik a t\u00f6bbihez?",
-      ro: "Ce nu se potrive\u0219te cu celelalte?",
+      hu: "Mi nem illik a többihez?",
+      ro: "Ce nu se potrivește cu celelalte?",
       en: "What does not fit with the others?"
     },
     optionPoiIds: [
-      "hist-cecilienhof-konferenz",
+      "city-potsdam",
       "hist-cecilienhof",
       "agri-spreewald-gurken",
       "landmark-sanssouci",
