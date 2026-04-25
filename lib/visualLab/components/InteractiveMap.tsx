@@ -708,8 +708,31 @@ export const InteractiveMap = ({
 
             {/* POI markers */}
             <g>
-              {visiblePOIs.map((p) => {
-                const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
+              {(() => {
+                // De-cluster orszagterkepen is: szetlokjuk az atfedo POI-kat (~30 screen px)
+                const minDistC = 30 / view.scale;
+                const positionsC: Array<[number, number]> = visiblePOIs.map(p => projectCoords(p.coords[0], p.coords[1]));
+                for (let i = 0; i < positionsC.length; i++) {
+                  for (let j = 0; j < i; j++) {
+                    let dx = positionsC[i][0] - positionsC[j][0];
+                    let dy = positionsC[i][1] - positionsC[j][1];
+                    const dist = Math.hypot(dx, dy);
+                    if (dist < minDistC && dist > 0) {
+                      const push = (minDistC - dist) / 2;
+                      const ux = dx / dist, uy = dy / dist;
+                      positionsC[i][0] += ux * push;
+                      positionsC[i][1] += uy * push;
+                      positionsC[j][0] -= ux * push;
+                      positionsC[j][1] -= uy * push;
+                    } else if (dist === 0) {
+                      const angle = (i * 1.7) % (2 * Math.PI);
+                      positionsC[i][0] += Math.cos(angle) * minDistC / 2;
+                      positionsC[i][1] += Math.sin(angle) * minDistC / 2;
+                    }
+                  }
+                }
+                return visiblePOIs.map((p, _idx) => {
+                const [cx, cy] = positionsC[_idx];
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
                 const baseR = isSimplified ? 15 : 12;
@@ -781,7 +804,8 @@ export const InteractiveMap = ({
                     )}
                   </g>
                 );
-              })}
+                });
+              })()}
             </g>
 
             {/* Ruler SVG overlay */}
