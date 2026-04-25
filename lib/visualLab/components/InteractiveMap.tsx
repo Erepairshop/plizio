@@ -18,6 +18,7 @@ import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/se
 import { useRuler, RulerPanel, RulerSvgOverlay } from "../quiz/RulerOverlay";
 import { useQuizEngine, QuizPanel, QuizSvgOverlay } from "../quiz/QuizEngine";
 import type { RulerState } from "../quiz/RulerOverlay";
+import { deRivers } from "../maps/rivers/deRivers";
 
 type Lang = "de" | "hu" | "ro" | "en";
 type Subject = "sachkunde" | "geographie" | "geschichte";
@@ -1204,6 +1205,19 @@ function SubRegionView({
               </defs>
 
               <g transform={`translate(${pz.view.x} ${pz.view.y}) scale(${pz.view.scale})`}>
+                {/* Rivers overlay — below Bundesland paths so borders stay on top */}
+                {(deRivers[stateId] ?? []).map((r, i) => (
+                  <path
+                    key={`river-${i}`}
+                    d={r.path}
+                    fill="none"
+                    stroke="rgba(56, 189, 248, 0.55)"
+                    strokeWidth={1.2 / pz.view.scale}
+                    strokeLinejoin="round"
+                    pointerEvents="none"
+                  />
+                ))}
+
                 {detail.children.map((c: any) => {
                   const isHover = hovered === c.id;
                   const isSelected = selected === c.id;
