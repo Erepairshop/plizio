@@ -5,6 +5,7 @@ import type { CountryFaqMap, FaqItem } from "./types";
 import { deFaq } from "./deFaq";
 import { huFaq } from "./huFaq";
 import { roFaq } from "./roFaq";
+import { franceFaq } from "./franceFaq";
 
 // Placeholder for future FAQ imports (Gemini will generate e.g. ./deFaq, ./huFaq, ./roFaq).
 // Register new imports here as they are created.
@@ -13,6 +14,7 @@ const ALL_FAQ: CountryFaqMap = {
   ...deFaq,
   ...huFaq,
   ...roFaq,
+  ...franceFaq,
 };
 
 export type Lang = "de" | "hu" | "ro" | "en";
