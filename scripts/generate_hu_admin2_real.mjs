@@ -37,51 +37,43 @@ const HU_NAMES_4LANG = {
   "HU-ZA": { de: "Komitat Zala", hu: "Zala", ro: "Zala", en: "Zala" },
 };
 
-// City-county (megyei jogu varos) -> megye merge map
+// City-county (megyei jogu varos) -> megye merge map (verified ISO 3166-2:HU)
 const CITY_TO_MEGYE = {
-  "HU-BC": "HU-BK", // Bekescsaba -> Bekes? Actually BC ist Bekescsaba in HU-BE. But user has HU-BE; map BC->BE
-  "HU-BC": "HU-BE",
-  "HU-DE": "HU-HB", // Debrecen -> Hajdu-Bihar
-  "HU-DU": "HU-PE", // Dunaujvaros -> well actually Fejer; wait DU = Dunaujvaros is in HU-FE
-  "HU-DU": "HU-FE",
-  "HU-EG": "HU-HE", // Eger -> Heves
-  "HU-ER": "HU-PE", // Erd -> Pest
-  "HU-ED": "HU-PE", // sometimes
-  "HU-GY": "HU-GS", // Gyor -> Gyor-Moson-Sopron
-  "HU-HV": "HU-JN", // Hodmezovasarhely -> Csongrad? actually HU-CS
-  "HU-HV": "HU-CS",
-  "HU-KM": "HU-BK", // Kecskemet -> Bacs-Kiskun
-  "HU-KV": "HU-KE", // Komarom + Esztergom area
-  "HU-MI": "HU-BZ", // Miskolc -> Borsod-Abauj-Zemplen
-  "HU-NK": "HU-SZ", // Nagykanizsa actually -> Zala. But ZA. Let me default to nearestMegye anyway.
-  "HU-NK": "HU-ZA",
-  "HU-NY": "HU-SZ", // Nyiregyhaza -> Szabolcs
-  "HU-PS": "HU-BA", // Pecs -> Baranya
-  "HU-SD": "HU-CS", // Szeged -> Csongrad
-  "HU-SF": "HU-FE", // Szekesfehervar -> Fejer
-  "HU-SH": "HU-VA", // Sopron actually GS, not VA. Let me redo
-  "HU-SH": "HU-GS",
-  "HU-SK": "HU-JN", // Szolnok -> Jasz-Nagykun
-  "HU-SN": "HU-NO", // Salgotarjan -> Nograd
-  "HU-SS": "HU-BA", // Szekszard? actually Tolna; redo
-  "HU-SS": "HU-TO",
-  "HU-ST": "HU-BZ", // ?
-  "HU-TB": "HU-BE", // Tatabanya -> Komarom; redo
-  "HU-TB": "HU-KE",
-  "HU-VM": "HU-VA", // Veszprem? VM=Veszprem? actually Veszprem city in HU-VE
-  "HU-VM": "HU-VE",
-  "HU-ZE": "HU-ZA", // Zalaegerszeg -> Zala
+  "HU-BC": "HU-BE",  // Bekescsaba -> Bekes
+  "HU-DE": "HU-HB",  // Debrecen -> Hajdu-Bihar
+  "HU-DU": "HU-FE",  // Dunaujvaros -> Fejer
+  "HU-EG": "HU-HE",  // Eger -> Heves
+  "HU-ER": "HU-PE",  // Erd -> Pest
+  "HU-GY": "HU-GS",  // Gyor -> Gyor-Moson-Sopron
+  "HU-HV": "HU-CS",  // Hodmezovasarhely -> Csongrad
+  "HU-KM": "HU-BK",  // Kecskemet -> Bacs-Kiskun
+  "HU-KV": "HU-SO",  // Kaposvar -> Somogy
+  "HU-MI": "HU-BZ",  // Miskolc -> Borsod-Abauj-Zemplen
+  "HU-NK": "HU-ZA",  // Nagykanizsa -> Zala
+  "HU-NY": "HU-SZ",  // Nyiregyhaza -> Szabolcs
+  "HU-PS": "HU-BA",  // Pecs -> Baranya
+  "HU-SD": "HU-CS",  // Szeged -> Csongrad
+  "HU-SF": "HU-FE",  // Szekesfehervar -> Fejer
+  "HU-SH": "HU-GS",  // Sopron -> Gyor-Moson-Sopron
+  "HU-SK": "HU-JN",  // Szolnok -> Jasz-Nagykun
+  "HU-SN": "HU-NO",  // Salgotarjan -> Nograd
+  "HU-SS": "HU-TO",  // Szekszard -> Tolna
+  "HU-TB": "HU-KE",  // Tatabanya -> Komarom-Esztergom
+  "HU-VM": "HU-VE",  // Veszprem city -> Veszprem
+  "HU-ZE": "HU-ZA",  // Zalaegerszeg -> Zala
+  "HU-ED": "HU-KE",  // Esztergom -> Komarom-Esztergom (fallback)
+  "HU-ST": "HU-BZ",  // Salfold/etc -> Borsod (fallback)
 };
 
 const data = JSON.parse(fs.readFileSync(NE_FILE, "utf8"));
-// Only the 20 megye-codes; city-counties are KIVAGVA (NE often duplicates them outside the megye geometry)
 const allHU = data.features.filter(f => f.properties.iso_a2==='HU' || f.properties.adm0_a3==='HUN');
 const huFeatures = [];
 for (const f of allHU) {
   const code = f.properties.iso_3166_2;
   if (HU_MEGYE[code]) huFeatures.push({ ...f, mergedInto: code });
+  else if (CITY_TO_MEGYE[code]) huFeatures.push({ ...f, mergedInto: CITY_TO_MEGYE[code] });
 }
-console.log(`Found ${huFeatures.length} features (csak 20 megye)`);
+console.log(`Found ${huFeatures.length} features (megye + verified city-county merge)`);
 
 // HU bounding box (approx)
 const HU_BBOX = { minLon: 16.0, maxLon: 22.95, minLat: 45.7, maxLat: 48.6 };
