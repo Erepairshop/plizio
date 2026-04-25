@@ -1306,6 +1306,15 @@ function SubRegionView({
                   {pois
                     .filter((p) => {
                       if (p.type === "region" || p.parent !== stateId) return false;
+                      // Quiz mode: csak a feladathoz relevans POI-k
+                      if (subMode === "quiz") {
+                        const quizIds = subQuiz.visiblePoiIds;
+                        if (quizIds !== null) return quizIds.has(p.id);
+                        const quizTypes = subQuiz.visiblePoiTypes;
+                        if (quizTypes === null) return true;
+                        if (quizTypes.length === 0) return false;
+                        return (quizTypes as readonly string[]).includes(p.type);
+                      }
                       const allowedTypes = new Set(LAYER_TYPES[subLayer]);
                       return allowedTypes.has(p.type);
                     })
