@@ -44,6 +44,66 @@ export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
     ro: "vatican",
     en: "vatican",
   },
+  // Additional EU countries (auto-generated, ISO2 lowercase + localized variants)
+  austria:        { de: "oesterreich", hu: "ausztria", ro: "austria", en: "austria" },
+  switzerland:    { de: "schweiz", hu: "svajc", ro: "elvetia", en: "switzerland" },
+  france:         { de: "frankreich", hu: "franciaorszag", ro: "franta", en: "france" },
+  italy:          { de: "italien", hu: "olaszorszag", ro: "italia", en: "italy" },
+  spain:          { de: "spanien", hu: "spanyolorszag", ro: "spania", en: "spain" },
+  portugal:       { de: "portugal", hu: "portugalia", ro: "portugalia", en: "portugal" },
+  netherlands:    { de: "niederlande", hu: "hollandia", ro: "olanda", en: "netherlands" },
+  belgium:        { de: "belgien", hu: "belgium", ro: "belgia", en: "belgium" },
+  luxembourg:     { de: "luxemburg", hu: "luxemburg", ro: "luxemburg", en: "luxembourg" },
+  "united-kingdom": { de: "vereinigtes-koenigreich", hu: "egyesult-kiralysag", ro: "regatul-unit", en: "united-kingdom" },
+  ireland:        { de: "irland", hu: "irorszag", ro: "irlanda", en: "ireland" },
+  poland:         { de: "polen", hu: "lengyelorszag", ro: "polonia", en: "poland" },
+  "czech-republic": { de: "tschechien", hu: "csehorszag", ro: "cehia", en: "czech-republic" },
+  slovakia:       { de: "slowakei", hu: "szlovakia", ro: "slovacia", en: "slovakia" },
+  slovenia:       { de: "slowenien", hu: "szlovenia", ro: "slovenia", en: "slovenia" },
+  croatia:        { de: "kroatien", hu: "horvatorszag", ro: "croatia", en: "croatia" },
+  serbia:         { de: "serbien", hu: "szerbia", ro: "serbia", en: "serbia" },
+  bosnia:         { de: "bosnien", hu: "bosznia", ro: "bosnia", en: "bosnia" },
+  montenegro:     { de: "montenegro", hu: "montenegro", ro: "muntenegru", en: "montenegro" },
+  "north-macedonia": { de: "nordmazedonien", hu: "eszak-macedonia", ro: "macedonia-de-nord", en: "north-macedonia" },
+  albania:        { de: "albanien", hu: "albania", ro: "albania", en: "albania" },
+  kosovo:         { de: "kosovo", hu: "koszovo", ro: "kosovo", en: "kosovo" },
+  bulgaria:       { de: "bulgarien", hu: "bulgaria", ro: "bulgaria", en: "bulgaria" },
+  greece:         { de: "griechenland", hu: "gorogorszag", ro: "grecia", en: "greece" },
+  turkey:         { de: "tuerkei", hu: "torokorszag", ro: "turcia", en: "turkey" },
+  cyprus:         { de: "zypern", hu: "ciprus", ro: "cipru", en: "cyprus" },
+  malta:          { de: "malta", hu: "malta", ro: "malta", en: "malta" },
+  denmark:        { de: "daenemark", hu: "dania", ro: "danemarca", en: "denmark" },
+  norway:         { de: "norwegen", hu: "norvegia", ro: "norvegia", en: "norway" },
+  sweden:         { de: "schweden", hu: "svedorszag", ro: "suedia", en: "sweden" },
+  finland:        { de: "finnland", hu: "finnorszag", ro: "finlanda", en: "finland" },
+  iceland:        { de: "island", hu: "izland", ro: "islanda", en: "iceland" },
+  estonia:        { de: "estland", hu: "esztorszag", ro: "estonia", en: "estonia" },
+  latvia:         { de: "lettland", hu: "lettorszag", ro: "letonia", en: "latvia" },
+  lithuania:      { de: "litauen", hu: "litvania", ro: "lituania", en: "lithuania" },
+  belarus:        { de: "belarus", hu: "feheroroszorszag", ro: "belarus", en: "belarus" },
+  ukraine:        { de: "ukraine", hu: "ukrajna", ro: "ucraina", en: "ukraine" },
+  moldova:        { de: "moldau", hu: "moldova", ro: "moldova", en: "moldova" },
+  andorra:        { de: "andorra", hu: "andorra", ro: "andorra", en: "andorra" },
+  monaco:         { de: "monaco", hu: "monaco", ro: "monaco", en: "monaco" },
+  "san-marino":   { de: "san-marino", hu: "san-marino", ro: "san-marino", en: "san-marino" },
+  liechtenstein:  { de: "liechtenstein", hu: "liechtenstein", ro: "liechtenstein", en: "liechtenstein" },
+  // North America
+  usa:            { de: "usa", hu: "amerikai-egyesult-allamok", ro: "sua", en: "usa" },
+  canada:         { de: "kanada", hu: "kanada", ro: "canada", en: "canada" },
+  mexico:         { de: "mexiko", hu: "mexiko", ro: "mexic", en: "mexico" },
+  guatemala:      { de: "guatemala", hu: "guatemala", ro: "guatemala", en: "guatemala" },
+  honduras:       { de: "honduras", hu: "honduras", ro: "honduras", en: "honduras" },
+  nicaragua:      { de: "nicaragua", hu: "nicaragua", ro: "nicaragua", en: "nicaragua" },
+  "costa-rica":   { de: "costa-rica", hu: "costa-rica", ro: "costa-rica", en: "costa-rica" },
+  panama:         { de: "panama", hu: "panama", ro: "panama", en: "panama" },
+  cuba:           { de: "kuba", hu: "kuba", ro: "cuba", en: "cuba" },
+  "dominican-republic": { de: "dominikanische-republik", hu: "dominikai-koztarsasag", ro: "republica-dominicana", en: "dominican-republic" },
+  haiti:          { de: "haiti", hu: "haiti", ro: "haiti", en: "haiti" },
+  jamaica:        { de: "jamaika", hu: "jamaica", ro: "jamaica", en: "jamaica" },
+  bahamas:        { de: "bahamas", hu: "bahamak", ro: "bahamas", en: "bahamas" },
+  trinidad:       { de: "trinidad-und-tobago", hu: "trinidad-es-tobago", ro: "trinidad-tobago", en: "trinidad-tobago" },
+  belize:         { de: "belize", hu: "belize", ro: "belize", en: "belize" },
+  "el-salvador":  { de: "el-salvador", hu: "el-salvador", ro: "el-salvador", en: "el-salvador" },
 };
 
 export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
@@ -180,12 +240,32 @@ export function findPoiBySlug(lang: Lang, poiSlugValue: string) {
   return poisOnly.find((poi) => POI_SLUGS[poi.id]?.[lang] === poiSlugValue) ?? null;
 }
 
+// Map of ISO2/state-prefix to country-id (used as slug key in COUNTRY_SLUGS)
+const ISO2_TO_COUNTRY: Record<string, string> = {
+  DE: "germany", AT: "austria", CH: "switzerland", FR: "france", IT: "italy",
+  ES: "spain", PT: "portugal", NL: "netherlands", BE: "belgium", LU: "luxembourg",
+  GB: "united-kingdom", UK: "united-kingdom", IE: "ireland",
+  PL: "poland", CZ: "czech-republic", SK: "slovakia",
+  HU: "hungary", RO: "romania", SI: "slovenia", HR: "croatia",
+  RS: "serbia", BA: "bosnia", ME: "montenegro", MK: "north-macedonia",
+  AL: "albania", XK: "kosovo", BG: "bulgaria", GR: "greece",
+  TR: "turkey", CY: "cyprus", MT: "malta",
+  DK: "denmark", NO: "norway", SE: "sweden", FI: "finland", IS: "iceland",
+  EE: "estonia", LV: "latvia", LT: "lithuania", BY: "belarus", UA: "ukraine", MD: "moldova",
+  AD: "andorra", MC: "monaco", SM: "san-marino", LI: "liechtenstein", VA: "vatican",
+  US: "usa", CA: "canada", MX: "mexico", GT: "guatemala", HN: "honduras",
+  NI: "nicaragua", CR: "costa-rica", PA: "panama", CU: "cuba", DO: "dominican-republic",
+  HT: "haiti", JM: "jamaica", BS: "bahamas", TT: "trinidad", BZ: "belize", SV: "el-salvador",
+};
+
 export function getCountryId(id: string) {
-  if (id.startsWith("DE-") || id === "DE") return "germany";
-  if (id.startsWith("RO-") || id === "RO") return "romania";
-  if (id === "HU" || regions.some(r => r.id === id && r.parent === "HU")) return "hungary";
-  if (id === "country-vatican" || id === "VA") return "vatican";
-  return "germany";
+  if (!id) return "germany";
+  // Hungarian regions use bare slugs like "budapest", "baranya" — keep legacy detection
+  if (regions.some(r => r.id === id && r.parent === "HU")) return "hungary";
+  if (id === "country-vatican") return "vatican";
+  // Strip "XX-YY" prefix to get ISO2
+  const iso2 = id.includes("-") ? id.split("-")[0].toUpperCase() : id.toUpperCase();
+  return ISO2_TO_COUNTRY[iso2] ?? "germany";
 }
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
