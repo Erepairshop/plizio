@@ -1,8 +1,9 @@
 // Spain Admin-2 province paths per autonomous community
-// Placeholder paths generated from approximate bounding boxes.
-// Replace with real GeoJSON-derived paths when internet access is available.
-//
-// Spain: 17 autonomous communities (ccaa), 50 provinces
+// Auto-generated from real GeoJSON via Node HTTPS fetch.
+// Source: https://raw.githubusercontent.com/codeforgermany/click_that_hood/main/public/data/spain-provinces.geojson (MIT)
+// Each CCAA uses an equirectangular projection fit to a 1000x1200 viewBox.
+// Simplification applied (every 6th coordinate kept) to reduce file size.
+// Spain: 17 autonomous communities (ccaa) + Ceuta + Melilla, 52 provinces total.
 // ISO 3166-2:ES province codes used as IDs.
 
 export interface SpainProvinceSubregion {
@@ -16,121 +17,131 @@ export interface SpainProvinceSubregion {
 // Per-CCAA province list. Keys match the RegionPath IDs in spain.svg.ts.
 export const spainAdmin2Map: Record<string, SpainProvinceSubregion[]> = {
 
-  // ── Andalucía (ES-AN) ─── 8 provinces ─────────────────────────────────────
+  // -- Andalucia (ES-AN) -- 8 provinces --
   "ES-AN": [
-    { id: "ES-AL", name: { de: "Almería",   hu: "Almería",   ro: "Almeria",   en: "Almería"   }, labelX: 810, labelY: 1000, path: "M700,900 L960,900 L960,1150 L700,1150 Z" },
-    { id: "ES-CA", name: { de: "Cádiz",     hu: "Cádiz",     ro: "Cadiz",     en: "Cádiz"     }, labelX: 140, labelY: 1100, path: "M40,1000 L280,1000 L280,1150 L40,1150 Z" },
-    { id: "ES-CO", name: { de: "Córdoba",   hu: "Córdoba",   ro: "Córdoba",   en: "Córdoba"   }, labelX: 420, labelY: 800,  path: "M290,700 L560,700 L560,930 L290,930 Z"  },
-    { id: "ES-GR", name: { de: "Granada",   hu: "Granada",   ro: "Granada",   en: "Granada"   }, labelX: 640, labelY: 1000, path: "M570,900 L700,900 L700,1100 L570,1100 Z" },
-    { id: "ES-H",  name: { de: "Huelva",    hu: "Huelva",    ro: "Huelva",    en: "Huelva"    }, labelX: 130, labelY: 900,  path: "M40,780 L280,780 L280,1000 L40,1000 Z"  },
-    { id: "ES-J",  name: { de: "Jaén",      hu: "Jaén",      ro: "Jaén",      en: "Jaén"      }, labelX: 580, labelY: 780,  path: "M500,680 L700,680 L700,900 L500,900 Z"  },
-    { id: "ES-MA", name: { de: "Málaga",    hu: "Málaga",    ro: "Malaga",    en: "Málaga"    }, labelX: 380, labelY: 1050, path: "M280,950 L560,950 L560,1150 L280,1150 Z" },
-    { id: "ES-SE", name: { de: "Sevilla",   hu: "Sevilla",   ro: "Sevilla",   en: "Sevilla"   }, labelX: 280, labelY: 870,  path: "M40,780 L500,780 L500,960 L40,960 Z"    },
+    { id: "ES-AL", name: { de: "Almeria", hu: "Almeria", ro: "Almeria", en: "Almeria" }, labelX: 898, labelY: 611, path: "M854.6,484.5 L885.4,490.1 L885,536.6 L929.4,586.1 L914.9,607.3 L886.4,670.7 L863.2,701.8 L812.8,684.3 L760.8,706.6 L729.2,680.8 L732.6,647.5 L752,608.8 L783,598.7 L814,557 L828.3,536.1 L837.9,488.6 L854.6,484.5 Z" },
+    { id: "ES-CA", name: { de: "Cadiz", hu: "Cadiz", ro: "Cadiz", en: "Cadiz" }, labelX: 322, labelY: 755, path: "M373.4,642.5 L392.5,644.9 L421,659.4 L397.3,673.4 L389.3,712.7 L347.2,742.7 L396.1,775.3 L379.3,804.4 L372,815 L346.8,838.1 L301.8,803.7 L246.4,740.6 L245.9,738.9 L255.1,752 L255.2,740.3 L241.8,724.1 L231.7,721 L251.6,671.6 L331.6,666.7 L356.4,664.9 L373.4,642.5 Z" },
+    { id: "ES-CO", name: { de: "Cordoba", hu: "Cordoba", ro: "Cordoba", en: "Cordoba" }, labelX: 461, labelY: 493, path: "M432,330.3 L481.1,362.6 L542.8,401.8 L555.6,425.7 L549.8,456.8 L554.8,506.8 L559.6,538.2 L578.2,564.7 L550.4,596.5 L530.3,611.8 L511.6,610.3 L487.9,595.2 L477.4,589.4 L454.3,570.3 L444.9,554.7 L430.3,518.1 L426.9,529.1 L411.1,525.1 L376.1,528 L391.7,521.6 L367,470.2 L357.3,435.7 L350.7,390.9 L380.5,365.1 L405.5,344.8 L422.6,333.8 L432,330.3 Z" },
+    { id: "ES-GR", name: { de: "Granada", hu: "Granada", ro: "Granada", en: "Granada" }, labelX: 710, labelY: 590, path: "M800.2,450.2 L837.9,488.6 L828.3,536.1 L814,557 L783,598.7 L752,608.8 L732.6,647.5 L729.2,680.8 L662,708.3 L622.6,700.7 L578.6,670 L536.9,617.5 L562,588.1 L618.5,563.1 L689.6,542.3 L736.7,539.6 L752.3,504.4 L791.7,454.2 L800.2,450.2 Z" },
+    { id: "ES-H", name: { de: "Huelva", hu: "Huelva", ro: "Huelva", en: "Huelva" }, labelX: 181, labelY: 539, path: "M151.9,427.5 L197,447.5 L234.8,456.5 L270.7,483.3 L256.3,514.1 L214.9,527.5 L234.9,552.1 L237.9,583.7 L239.4,620.3 L240.2,670.7 L153.4,619 L132.2,612.6 L75.6,594 L63.6,548.8 L78.7,510.5 L121.4,465.6 L142.9,446.3 L151.9,427.5 Z" },
+    { id: "ES-J", name: { de: "Jaen", hu: "Jaen", ro: "Jaen", en: "Jaen" }, labelX: 660, labelY: 459, path: "M768,366.3 L809.7,409.7 L793.3,455.7 L751.2,510.3 L725.9,536.7 L674.3,546.8 L617.1,560.4 L576.5,557.7 L551.6,532.7 L547.2,476.9 L553.7,448.9 L553.3,419.6 L545.7,391.5 L644.9,391.4 L670.6,389.8 L723.9,376.5 L766.1,370.7 L768,366.3 Z" },
+    { id: "ES-MA", name: { de: "Malaga", hu: "Malaga", ro: "Malaga", en: "Malaga" }, labelX: 473, labelY: 675, path: "M525.2,600.8 L542.9,629.6 L595.8,673.7 L591.7,702.9 L524.2,704.4 L475.7,748.2 L404.7,768.2 L364.4,738.2 L369.8,722.7 L386.8,685.5 L424.4,669.5 L450.8,630.5 L455.7,622.4 L479,607.2 L511.6,610.3 L525.2,600.8 Z" },
+    { id: "ES-SE", name: { de: "Sevilla", hu: "Sevilla", ro: "Sevilla", en: "Sevilla" }, labelX: 362, labelY: 562, path: "M329.9,429.1 L328.4,449.5 L375.7,476.1 L388.8,523 L376,531.7 L418.1,521.7 L430.3,518.1 L444.8,554.6 L454.3,570.3 L477.4,589.4 L487.5,597 L476.4,606.3 L458.9,614.9 L451.6,626 L392.8,649.3 L375.1,649.4 L350.9,667.7 L307.5,671.5 L240.2,670.7 L239.4,620.3 L237.9,583.7 L234.9,552.1 L214.9,527.5 L256.3,514.1 L270.7,483.4 L296,466.5 L329.9,429.1 Z M433.4,540.2 L432.7,538.1 L433.4,540.2 Z" },
   ],
 
-  // ── Aragón (ES-AR) ─── 3 provinces ────────────────────────────────────────
+  // -- Aragon (ES-AR) -- 3 provinces --
   "ES-AR": [
-    { id: "ES-HU", name: { de: "Huesca",    hu: "Huesca",    ro: "Huesca",    en: "Huesca"    }, labelX: 500, labelY: 280,  path: "M40,40 L960,40 L960,550 L40,550 Z"      },
-    { id: "ES-TE", name: { de: "Teruel",    hu: "Teruel",    ro: "Teruel",    en: "Teruel"    }, labelX: 500, labelY: 900,  path: "M40,800 L960,800 L960,1150 L40,1150 Z"  },
-    { id: "ES-Z",  name: { de: "Zaragoza",  hu: "Zaragoza",  ro: "Zaragoza",  en: "Zaragoza"  }, labelX: 500, labelY: 680,  path: "M40,550 L960,550 L960,800 L40,800 Z"    },
+    { id: "ES-HU", name: { de: "Huesca", hu: "Huesca", ro: "Huesca", en: "Huesca" }, labelX: 636, labelY: 322, path: "M488.4,90 L524.2,129 L574.4,130.1 L656.9,164.8 L713.6,150.3 L814,164.1 L851.5,212.8 L847.2,271.1 L844.9,336.8 L826.5,391.7 L815.8,416.8 L796.5,447.7 L750.8,493.7 L767.5,555.7 L715.3,586.9 L668.8,602.1 L632.5,523.3 L562.1,486.3 L523.5,428.1 L463.1,381.5 L486.5,360.5 L489,279.8 L453.4,311.9 L450.2,242.6 L442.8,203.7 L450,158.4 L471,107.2 L488.4,90 Z" },
+    { id: "ES-TE", name: { de: "Teruel", hu: "Teruel", ro: "Teruel", en: "Teruel" }, labelX: 479, labelY: 818, path: "M548.1,599.9 L588.4,636.7 L689.9,689 L733.8,710.4 L713.5,794.9 L677.1,814.4 L622.6,785.3 L580.3,840.8 L601.1,914.7 L577.1,954.2 L521,1017.6 L465.6,1064.8 L443.3,1054.7 L406.1,1028.6 L355.2,973.1 L317.2,993.1 L250.7,949.7 L235.1,906 L293.6,846.8 L275.1,754.1 L317.7,720.2 L356.6,699.3 L397,671.3 L438.2,690.6 L484.9,660 L524.3,611.5 L529.8,613.1 L548.1,599.9 Z" },
+    { id: "ES-Z", name: { de: "Zaragoza", hu: "Zaragoza", ro: "Zaragoza", en: "Zaragoza" }, labelX: 437, labelY: 475, path: "M448.9,148 L450,195.1 L456.5,239.8 L446.5,306.3 L491,269.7 L485,347.7 L461.6,373.4 L525.4,422.6 L551.3,477.2 L620.5,519.3 L658.6,597.9 L710.6,583 L761.9,600.8 L732.4,666.3 L689.9,689 L588.4,636.7 L548.1,599.9 L541,641.1 L521.9,652.8 L455.2,666.8 L417.1,671.4 L360.5,681.6 L324.8,705.5 L272.7,731.4 L147,655.2 L157.9,570.2 L194,577.2 L201.5,520.6 L230.1,469.6 L220.8,394.1 L290.2,417.9 L337.2,355.2 L346.4,274.4 L371.5,213.6 L389.6,179.3 L448.9,148 Z" },
   ],
 
-  // ── Asturias (ES-AS) ─── 1 province (single-province region) ──────────────
+  // -- Asturias (ES-AS) -- 1 province --
   "ES-AS": [
-    { id: "ES-O",  name: { de: "Asturien",  hu: "Asztúria",  ro: "Asturia",   en: "Asturias"  }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-O", name: { de: "Asturien", hu: "Aszturias", ro: "Asturia", en: "Asturias" }, labelX: 371, labelY: 466, path: "M501.9,416.8 L555.7,457 L649.8,475.5 L800.7,505.7 L928.7,547.9 L905.1,578.3 L818.6,610.8 L728.3,661.5 L615.3,703.6 L477.8,716.4 L405.3,703.7 L332.6,686.4 L293.7,717.1 L213.8,750.2 L152.5,717.6 L133.5,687.5 L165.2,632.5 L132.7,621.5 L103.7,576.2 L66.7,520.1 L117.6,463.7 L152.6,459 L214,463.7 L294.9,466.3 L304.9,462.1 L350.7,460.4 L362.5,453.4 L399.5,457.1 L419.7,462.7 L444.3,449.2 L493.5,429.9 L501.9,416.8 Z" },
   ],
 
-  // ── Islas Baleares (ES-IB) ─── 1 province (island group) ─────────────────
+  // -- Islas Baleares (ES-IB) -- 1 province --
   "ES-IB": [
-    { id: "ES-PM", name: { de: "Balearen",  hu: "Baleárok",  ro: "Baleare",   en: "Balearic Islands" }, labelX: 500, labelY: 600, path: "M40,40 L960,40 L960,1150 L40,1150 Z" },
+    { id: "ES-PM", name: { de: "Balearen", hu: "Balearok", ro: "Baleare", en: "Balearic Islands" }, labelX: 449, labelY: 580, path: "M629.7,380.1 L593.9,409.3 L620,421.7 L689.8,455.7 L696.4,487.3 L662.2,528.6 L638.2,586.6 L589.8,626 L547.1,595.5 L501.6,539.2 L461.1,524.8 L454.2,531 L426.7,555 L409.5,529.1 L393.6,505.4 L479.9,438.9 L557.2,393.4 L616.5,379.2 L629.7,380.1 Z M872.1,333.6 L883.7,341.1 L899.9,353.5 L916.3,367.5 L931.4,407.6 L930.8,412.9 L862.3,398.4 L788.5,359.2 L850.6,345.2 L872.1,333.6 Z M166.9,678.9 L191.4,711.1 L160.8,740 L141.1,755.7 L114.8,766.9 L90.6,771 L83.4,730.1 L121.1,698.2 L155.9,684.8 L166.9,678.9 Z M140.3,805.8 L143.4,833.2 L140.3,805.8 Z M557.4,662.1 L552.1,670 L557.4,662.1 Z" },
   ],
 
-  // ── Islas Canarias (ES-CN) ─── 2 provinces ────────────────────────────────
+  // -- Islas Canarias (ES-CN) -- 2 provinces --
   "ES-CN": [
-    { id: "ES-GC", name: { de: "Las Palmas",       hu: "Las Palmas",       ro: "Las Palmas",       en: "Las Palmas"        }, labelX: 500, labelY: 350,  path: "M40,40 L960,40 L960,700 L40,700 Z"      },
-    { id: "ES-TF", name: { de: "Santa Cruz de Tenerife", hu: "Santa Cruz de Tenerife", ro: "Santa Cruz de Tenerife", en: "Santa Cruz de Tenerife" }, labelX: 500, labelY: 900, path: "M40,700 L960,700 L960,1150 L40,1150 Z" },
+    { id: "ES-GC", name: { de: "Las Palmas", hu: "Las Palmas", ro: "Las Palmas", en: "Las Palmas" }, labelX: 822, labelY: 500, path: "M835.7,542.9 L813.6,655.9 L734.5,678 L797.8,600.8 L835.7,542.9 Z M559.4,661.5 L557.8,668.5 L568.1,699.9 L565.6,713.7 L532,752.7 L484.3,704.6 L514.6,666.1 L556,670.3 L559.4,661.5 Z M912.2,445.7 L908.8,494.4 L837.3,516.3 L878.9,469.3 L906.9,448 L912.2,445.7 Z M905.4,407.3 L901.1,413.6 L905.4,407.3 Z" },
+    { id: "ES-TF", name: { de: "Santa Cruz de Tenerife", hu: "Santa Cruz de Tenerife", ro: "Santa Cruz de Tenerife", en: "Santa Cruz de Tenerife" }, labelX: 256, labelY: 629, path: "M425.9,577.6 L431.6,589.1 L389.2,620.5 L337.9,697.9 L308.5,662.7 L303.9,617.7 L357.9,612.9 L394.9,579.9 L425.9,577.6 Z M108.9,522.2 L133,525.8 L116.5,601.2 L102.5,525.3 L108.9,522.2 Z M226.4,653.8 L254.9,672.2 L211,667.4 L223.5,653.8 L226.4,653.8 Z M106.3,729.6 L96.8,772.8 L67.4,746.8 L94.7,739.8 L106.3,729.6 Z" },
   ],
 
-  // ── Cantabria (ES-CB) ─── 1 province ──────────────────────────────────────
+  // -- Cantabria (ES-CB) -- 1 province --
   "ES-CB": [
-    { id: "ES-S",  name: { de: "Kantabrien",hu: "Kantábria",  ro: "Cantabria", en: "Cantabria" }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-S", name: { de: "Kantabrien", hu: "Kantabria", ro: "Cantabria", en: "Cantabria" }, labelX: 608, labelY: 422, path: "M711.1,324.2 L761.7,386.7 L849.5,402.2 L906.6,486.1 L799.7,591.7 L621.6,628.5 L524.9,685.5 L587.7,735.4 L544.5,784 L554.9,823.1 L459,853.4 L436,786.4 L271,644.4 L173.1,673.8 L81.4,620.4 L125.5,504.5 L232.6,449.3 L356.9,412.6 L554.7,354.3 L587.7,379.4 L615.7,369.4 L711.1,324.2 Z" },
   ],
 
-  // ── Castilla-La Mancha (ES-CM) ─── 5 provinces ────────────────────────────
+  // -- Castilla-La Mancha (ES-CM) -- 5 provinces --
   "ES-CM": [
-    { id: "ES-AB", name: { de: "Albacete",  hu: "Albacete",  ro: "Albacete",  en: "Albacete"  }, labelX: 760, labelY: 900,  path: "M600,700 L960,700 L960,1100 L600,1100 Z" },
-    { id: "ES-CR", name: { de: "Ciudad Real",hu:"Ciudad Real",ro: "Ciudad Real",en: "Ciudad Real"},labelX: 400, labelY: 850, path: "M40,700 L600,700 L600,1100 L40,1100 Z"  },
-    { id: "ES-CU", name: { de: "Cuenca",    hu: "Cuenca",    ro: "Cuenca",    en: "Cuenca"    }, labelX: 730, labelY: 450,  path: "M580,200 L960,200 L960,700 L580,700 Z"  },
-    { id: "ES-GU", name: { de: "Guadalajara",hu:"Guadalajara",ro:"Guadalajara",en:"Guadalajara"}, labelX: 500, labelY: 250,  path: "M40,40 L580,40 L580,500 L40,500 Z"      },
-    { id: "ES-TO", name: { de: "Toledo",    hu: "Toledo",    ro: "Toledo",    en: "Toledo"    }, labelX: 280, labelY: 650,  path: "M40,500 L600,500 L600,850 L40,850 Z"    },
+    { id: "ES-AB", name: { de: "Albacete", hu: "Albacete", ro: "Albacete", en: "Albacete" }, labelX: 745, labelY: 805, path: "M826,655 L832.8,665.1 L859.2,674 L891.5,778.5 L933.8,815.2 L896.7,826.9 L833,849.2 L811.5,931 L770.1,921 L713.2,938 L643.6,1004.7 L631.9,913.1 L580.5,875.1 L601.6,827.5 L568.2,754.6 L605.3,674.8 L669.5,703.4 L727.6,686.5 L826,655 Z" },
+    { id: "ES-CR", name: { de: "Ciudad Real", hu: "Ciudad Real", ro: "Ciudad Real", en: "Ciudad Real" }, labelX: 356, labelY: 747, path: "M309.9,617.6 L308.1,669 L364.6,695.4 L439.8,666.7 L495.4,637.4 L545.3,641.8 L571.5,660.2 L563.9,754.8 L583.3,815.7 L579.9,857.7 L538.4,894.1 L467.8,891.4 L418,899.2 L353.4,920 L248.9,911.9 L199.4,868.7 L144.5,826.4 L149.9,745.8 L179.4,710.3 L206.8,653.4 L227.8,626 L247.2,639.8 L309.9,617.6 Z M187.7,630.4 L167.7,667.6 L187.7,630.4 Z" },
+    { id: "ES-CU", name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca" }, labelX: 679, labelY: 503, path: "M696.1,342 L740.5,358.7 L768.8,409.2 L820.7,456.7 L846.8,504 L878.2,556.4 L830.2,615 L817.2,645.9 L747.6,683.7 L692.9,689.7 L619,679 L564.2,671 L549.1,598.4 L503.6,511.9 L512.4,469.2 L555.8,464.3 L577.9,396.5 L594.8,394.8 L622.9,382.3 L651.8,370.9 L670,358.6 L696.1,342 Z" },
+    { id: "ES-GU", name: { de: "Guadalajara", hu: "Guadalajara", ro: "Guadalajara", en: "Guadalajara" }, labelX: 579, labelY: 312, path: "M550.5,173.4 L586.3,186 L604.7,208.1 L631.9,226.2 L680.5,231.1 L716.4,217.1 L799.2,285.8 L814,357.8 L763.3,407.6 L728.5,360.3 L668.3,350.8 L645.6,375.4 L622.9,382.3 L594.8,394.8 L577.9,396.5 L555.8,464.3 L518.1,468.3 L493.5,445.5 L492.7,396.5 L468.8,353.5 L454.8,333.3 L442.1,310.8 L445,279.1 L432.3,221.2 L453.6,191.3 L465.9,191.7 L492.5,178.7 L550.5,173.4 Z" },
+    { id: "ES-TO", name: { de: "Toledo", hu: "Toledo", ro: "Toledo", en: "Toledo" }, labelX: 310, labelY: 545, path: "M264,428.8 L288.7,439.1 L322.8,441.1 L350.3,456.6 L390.9,470.8 L395.3,503.2 L381.5,520.6 L368,522.8 L407.3,511.1 L457.9,489.2 L503.6,511.9 L549.1,598.4 L517.8,646.9 L471.2,659.9 L390.9,692.6 L316.6,674.5 L331.1,628.8 L263.6,635.4 L233.7,626.4 L216.8,645.9 L169.2,620.2 L108.8,570.9 L81.8,552.5 L72.7,480.8 L139,468 L179.9,448.7 L209.8,458.1 L262.4,435.1 L264,428.8 Z" },
   ],
 
-  // ── Castilla y León (ES-CL) ─── 9 provinces ───────────────────────────────
+  // -- Castilla y Leon (ES-CL) -- 9 provinces --
   "ES-CL": [
-    { id: "ES-AV", name: { de: "Ávila",     hu: "Ávila",     ro: "Avila",     en: "Ávila"     }, labelX: 420, labelY: 820,  path: "M300,700 L560,700 L560,960 L300,960 Z"  },
-    { id: "ES-BU", name: { de: "Burgos",    hu: "Burgos",    ro: "Burgos",    en: "Burgos"    }, labelX: 570, labelY: 280,  path: "M420,40 L720,40 L720,560 L420,560 Z"    },
-    { id: "ES-LE", name: { de: "León",      hu: "León",      ro: "León",      en: "León"      }, labelX: 220, labelY: 280,  path: "M40,40 L420,40 L420,560 L40,560 Z"      },
-    { id: "ES-P",  name: { de: "Palencia",  hu: "Palencia",  ro: "Palencia",  en: "Palencia"  }, labelX: 510, labelY: 500,  path: "M420,200 L590,200 L590,700 L420,700 Z"  },
-    { id: "ES-SA", name: { de: "Salamanca", hu: "Salamanca", ro: "Salamanca", en: "Salamanca" }, labelX: 230, labelY: 820,  path: "M40,650 L420,650 L420,1000 L40,1000 Z"  },
-    { id: "ES-SG", name: { de: "Segovia",   hu: "Segovia",   ro: "Segovia",   en: "Segovia"   }, labelX: 590, labelY: 760,  path: "M560,650 L800,650 L800,920 L560,920 Z"  },
-    { id: "ES-SO", name: { de: "Soria",     hu: "Soria",     ro: "Soria",     en: "Soria"     }, labelX: 760, labelY: 500,  path: "M720,200 L960,200 L960,750 L720,750 Z"  },
-    { id: "ES-VA", name: { de: "Valladolid",hu:"Valladolid", ro:"Valladolid", en:"Valladolid" }, labelX: 380, labelY: 560,  path: "M230,400 L560,400 L560,700 L230,700 Z"  },
-    { id: "ES-ZA", name: { de: "Zamora",    hu: "Zamora",    ro: "Zamora",    en: "Zamora"    }, labelX: 200, labelY: 580,  path: "M40,400 L310,400 L310,790 L40,790 Z"    },
+    { id: "ES-AV", name: { de: "Avila", hu: "Avila", ro: "Avila", en: "Avila" }, labelX: 415, labelY: 833, path: "M403.3,699.3 L452.8,721.8 L478.5,771.6 L528,812.3 L529.8,823.1 L516.1,838.3 L498,878.1 L483,891.3 L444.8,898.4 L412.7,926.5 L382.3,935.6 L348.9,897.5 L298.7,900.8 L291.8,862.9 L321.6,853.7 L323.3,827.7 L369.5,785.5 L390.8,736.3 L389.1,703.1 L403.3,699.3 Z" },
+    { id: "ES-BU", name: { de: "Burgos", hu: "Burgos", ro: "Burgos", en: "Burgos" }, labelX: 642, labelY: 415, path: "M693.8,251.7 L708.7,278.5 L737.9,308.2 L693.9,314.2 L708,326.4 L726.6,346.5 L751.9,370.9 L712.7,395.8 L721.2,427.6 L716.7,437.8 L742.9,516.5 L706.6,560.8 L676.4,573.1 L645.6,608.3 L615.6,629.9 L599.2,629.5 L557.5,573.9 L564,543.2 L584.9,515.9 L557,507.1 L550.4,487 L526.6,437.5 L515,420.3 L525.4,400.6 L521.8,381.8 L552.1,353.5 L592.7,341.9 L587,321.2 L597.6,312.9 L574.3,314.2 L597.9,280.8 L634,257.5 L693.8,251.7 Z M763.1,341.6 L805.1,355.4 L790.9,367 L763.1,341.6 Z" },
+    { id: "ES-LE", name: { de: "Leon", hu: "Leon", ro: "Leon", en: "Leon" }, labelX: 268, labelY: 382, path: "M423.1,242.3 L449.3,284.5 L422.3,325 L422.9,377.7 L419.7,426.8 L399.2,449.7 L363.7,462.4 L346.1,465.6 L326.4,503.6 L308.7,498.1 L283.2,490.2 L249.5,483.9 L189.5,469.7 L111.8,459.3 L107.9,411.9 L63.6,403.2 L75.6,373.5 L98.1,341.7 L101.3,313.7 L169.6,308.1 L173.3,291.1 L203.6,292.9 L237.6,282.8 L285.6,285.5 L344.8,274 L406.1,256.7 L423.1,242.3 Z" },
+    { id: "ES-P", name: { de: "Palencia", hu: "Palencia", ro: "Palencia", en: "Palencia" }, labelX: 503, labelY: 428, path: "M495,282.3 L533.2,326.4 L543.8,330.8 L552.1,353.5 L521.8,381.8 L525.4,400.6 L515,422.7 L526.6,437.5 L550.4,487 L557,507.1 L588,515.9 L555.5,543.7 L549.9,557.6 L487.7,565.6 L479.8,552.4 L445.3,553.6 L404.7,528.9 L417.5,482.1 L404,464.3 L408.1,440.7 L422,415.9 L419.4,356.4 L427.7,325.6 L465.1,291.2 L495,282.3 Z" },
+    { id: "ES-SA", name: { de: "Salamanca", hu: "Salamanca", ro: "Salamanca", en: "Salamanca" }, labelX: 238, labelY: 786, path: "M162.6,672.2 L236.4,696.1 L257.8,683 L325.7,696.1 L346.8,704.5 L369.6,700.4 L390.8,736.3 L369.5,785.5 L331.9,828.2 L328.7,853.6 L301.2,854.4 L273.5,890.5 L238.2,886.1 L230.2,868.5 L195.6,854.8 L148.7,883.4 L116.6,903.2 L103.5,865.9 L104.1,790 L99.3,746.8 L125.5,695.8 L155,674.7 L162.6,672.2 Z" },
+    { id: "ES-SG", name: { de: "Segovia", hu: "Segovia", ro: "Segovia", en: "Segovia" }, labelX: 572, labelY: 681, path: "M576.1,606.4 L608.1,634.1 L640.5,610.9 L665,621.8 L692.9,678.6 L666.4,675.3 L649.8,699.8 L580.4,751.6 L515.4,815.5 L478.5,771.6 L452.8,721.8 L471.1,668.8 L487.1,659 L510.5,636.4 L570.2,621.8 L576.1,606.4 Z" },
+    { id: "ES-SO", name: { de: "Soria", hu: "Soria", ro: "Soria", en: "Soria" }, labelX: 813, labelY: 603, path: "M842.8,483.1 L872.7,500.5 L904.3,533 L931.3,569.2 L912,603.7 L907,642 L880.2,641.9 L890.9,703.2 L861.2,714.1 L820,709.9 L797,694.1 L781.4,674.8 L753.1,663.9 L680.4,634 L645.6,601.5 L688.1,540.8 L718.8,541.4 L753.9,513.1 L774.7,508 L819.7,491.8 L842.8,483.1 Z" },
+    { id: "ES-VA", name: { de: "Valladolid", hu: "Valladolid", ro: "Valladolid", en: "Valladolid" }, labelX: 417, labelY: 567, path: "M387.1,446.5 L403.5,473.4 L414.2,503.2 L417.4,533.9 L477,556.5 L489.9,554.8 L534.9,559.4 L564.4,598.8 L527.2,636.2 L485.4,645.3 L478.1,668.9 L458.1,694.6 L385,706.4 L349.5,692.8 L349.7,641.7 L351.4,599.8 L344.6,564.1 L350.4,529 L344.4,486.5 L365.8,467.9 L387.1,446.5 Z M320.5,494.6 L325.7,518.5 L320.5,494.6 Z" },
+    { id: "ES-ZA", name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora" }, labelX: 239, labelY: 571, path: "M115.6,462.3 L170.5,470.7 L248.6,487.9 L281.2,485.1 L301,497.1 L318.9,492.3 L331.9,512.2 L350.4,529 L341.1,568 L361,603.1 L354.9,644.3 L351.2,696.4 L336.7,694.2 L308.8,690.9 L255.2,696.2 L230.7,686.8 L172.4,658.9 L190.6,636.5 L167.8,584.6 L146.9,540.8 L117.4,527.7 L85.9,527.5 L74.4,503.6 L92.6,473.4 L115.6,462.3 Z" },
   ],
 
-  // ── Cataluña (ES-CT) ─── 4 provinces ──────────────────────────────────────
+  // -- Cataluna (ES-CT) -- 4 provinces --
   "ES-CT": [
-    { id: "ES-B",  name: { de: "Barcelona", hu: "Barcelona", ro: "Barcelona", en: "Barcelona" }, labelX: 430, labelY: 750,  path: "M40,550 L700,550 L700,960 L40,960 Z"    },
-    { id: "ES-GI", name: { de: "Girona",    hu: "Girona",    ro: "Girona",    en: "Girona"    }, labelX: 680, labelY: 280,  path: "M400,40 L960,40 L960,550 L400,550 Z"    },
-    { id: "ES-L",  name: { de: "Lleida",    hu: "Lleida",    ro: "Lleida",    en: "Lleida"    }, labelX: 260, labelY: 420,  path: "M40,40 L400,40 L400,820 L40,820 Z"      },
-    { id: "ES-T",  name: { de: "Tarragona", hu: "Tarragona", ro: "Tarragona", en: "Tarragona" }, labelX: 600, labelY: 830,  path: "M400,700 L960,700 L960,1150 L400,1150 Z" },
+    { id: "ES-B", name: { de: "Barcelona", hu: "Barcelona", ro: "Barcelona", en: "Barcelona" }, labelX: 542, labelY: 539, path: "M547.4,359 L571.2,416.4 L571,421 L629.1,423.8 L678.4,444.1 L707.1,475.5 L691.6,517.5 L666.6,546.2 L783.5,573.5 L624.4,701.9 L471.2,757.7 L456.6,736.3 L425,704.1 L403.9,655.5 L402.9,632.6 L411.3,592.4 L421.7,558.3 L458.1,557.9 L474.5,502.3 L486.8,470.7 L485.3,459.1 L497.8,406.3 L479.2,372.3 L547.4,359 Z" },
+    { id: "ES-GI", name: { de: "Girona", hu: "Girona", ro: "Girona", en: "Girona" }, labelX: 883, labelY: 460, path: "M500.8,293.8 L593.2,342.9 L702.1,350.5 L754.7,327.5 L835.9,304.7 L887.8,326.2 L889.7,343.3 L933.5,358.5 L921.1,373 L889.6,378.8 L899.6,457.9 L905.5,504.7 L881.2,534.3 L856.9,557.7 L827,581 L783.8,605 L698.9,557.9 L675.1,523.4 L704.1,481.7 L695.9,446.9 L652.3,426.7 L595.3,422.9 L571.9,404.6 L574.5,390.3 L523.1,335.6 L500.8,293.8 Z" },
+    { id: "ES-L", name: { de: "Lleida", hu: "Lleida", ro: "Lleida", en: "Lleida" }, labelX: 331, labelY: 460, path: "M216.8,160 L340.6,215 L401.4,229.8 L418.8,277.2 L449.2,307.2 L494.4,290.3 L524.4,345.3 L482,393.5 L485,444 L473,476 L480.6,482.5 L463,543.2 L427.6,553.1 L411.7,574.5 L393.8,618.4 L340.2,647.5 L315.5,675.5 L226.5,727.3 L158.3,737.7 L122.4,714.2 L137.7,622.5 L129.5,565.3 L179.4,531 L181.3,488.3 L199.1,466.4 L230.1,357.3 L223.3,290 L211.2,233.4 L197.3,187.7 L216.8,160 Z" },
+    { id: "ES-T", name: { de: "Tarragona", hu: "Tarragona", ro: "Tarragona", en: "Tarragona" }, labelX: 232, labelY: 911, path: "M415.5,632.4 L428.1,669.5 L425,704.1 L456.6,736.3 L471.2,757.7 L363.4,804.4 L257,863.9 L230.5,920.9 L212.9,998.9 L201.5,994.8 L167.8,1003.8 L93.5,970.3 L65.1,940.1 L96.4,910.3 L83.2,824 L103.3,783.8 L148.9,722.5 L192.6,737.2 L279.8,715.6 L344.6,664.6 L403.6,631.7 L415.5,632.4 Z" },
   ],
 
-  // ── Extremadura (ES-EX) ─── 2 provinces ───────────────────────────────────
+  // -- Extremadura (ES-EX) -- 2 provinces --
   "ES-EX": [
-    { id: "ES-BA", name: { de: "Badajoz",   hu: "Badajoz",   ro: "Badajoz",   en: "Badajoz"   }, labelX: 500, labelY: 820,  path: "M40,550 L960,550 L960,1150 L40,1150 Z"  },
-    { id: "ES-CC", name: { de: "Cáceres",   hu: "Cáceres",   ro: "Cáceres",   en: "Cáceres"   }, labelX: 500, labelY: 280,  path: "M40,40 L960,40 L960,550 L40,550 Z"      },
+    { id: "ES-BA", name: { de: "Badajoz", hu: "Badajoz", ro: "Badajoz", en: "Badajoz" }, labelX: 508, labelY: 750, path: "M927.6,504 L936.4,609 L866.7,660.6 L847.6,729.8 L775.1,805.5 L718.5,835.1 L684.6,881.9 L672.1,959.4 L639.7,1008.4 L624.4,1000.7 L556.6,1037.7 L437.7,1070.6 L385.6,1059.1 L297.1,1023.5 L247,976.4 L184.8,968.6 L130.6,876.1 L201,743.6 L229.1,634.6 L153.2,574.4 L174.2,544.3 L197.1,538.4 L212.9,503.3 L287.8,580 L356.1,611.6 L459.6,638.2 L546.6,631 L603,621.7 L656.8,614.5 L706.2,612.1 L796.3,522.5 L869.5,529.9 L927.6,504 Z" },
+    { id: "ES-CC", name: { de: "Caceres", hu: "Caceres", ro: "Caceres", en: "Caceres" }, labelX: 462, labelY: 395, path: "M459.7,94.9 L503.5,132.3 L548,174.9 L591.5,172.7 L688.7,203.3 L719.4,245.3 L737.7,377.5 L789,395.1 L814.3,532.2 L725.4,582.3 L664.5,589.2 L635.9,633.4 L548,640.6 L481.8,651.6 L366.4,602.5 L324,604.3 L286.8,521.3 L203.9,552 L174.2,544.5 L112.9,481.9 L127.5,423.8 L256.9,334.3 L229.8,240.4 L242.7,183.7 L326.8,181.8 L403,128.9 L459.7,94.9 Z" },
   ],
 
-  // ── Galicia (ES-GA) ─── 4 provinces ───────────────────────────────────────
+  // -- Galicia (ES-GA) -- 4 provinces --
   "ES-GA": [
-    { id: "ES-C",  name: { de: "A Coruña",  hu: "A Coruña",  ro: "A Coruña",  en: "A Coruña"  }, labelX: 280, labelY: 230,  path: "M40,40 L560,40 L560,600 L40,600 Z"      },
-    { id: "ES-LU", name: { de: "Lugo",      hu: "Lugo",      ro: "Lugo",      en: "Lugo"      }, labelX: 680, labelY: 280,  path: "M560,40 L960,40 L960,600 L560,600 Z"    },
-    { id: "ES-OR", name: { de: "Ourense",   hu: "Ourense",   ro: "Ourense",   en: "Ourense"   }, labelX: 500, labelY: 870,  path: "M200,600 L800,600 L800,1150 L200,1150 Z" },
-    { id: "ES-PO", name: { de: "Pontevedra",hu:"Pontevedra", ro:"Pontevedra", en:"Pontevedra" }, labelX: 180, labelY: 820,  path: "M40,580 L380,580 L380,1150 L40,1150 Z"  },
+    { id: "ES-C", name: { de: "A Coruna", hu: "A Coruna", ro: "A Coruna", en: "A Coruna" }, labelX: 240, labelY: 469, path: "M614.7,132.6 L595.9,209.1 L546.1,308.5 L534.3,456.4 L507.6,566.6 L435.6,578.3 L393.3,592.5 L316.8,608.2 L252.1,659.1 L218.9,642.3 L214.6,679.7 L170.1,698.4 L135.2,692.8 L152.3,665.3 L198.7,583.6 L197,591.7 L160,598.8 L120.3,594.3 L116.6,558.8 L101.8,536.5 L64.8,532.9 L91,456.3 L100.6,440.7 L115.1,406.8 L145.8,411.6 L174,375.9 L196.2,356.9 L239.2,356.5 L312.9,352.9 L367,326.2 L385,338.1 L447,302.8 L437.5,284.2 L421.5,276.7 L405.3,249.4 L474.3,188.5 L483.4,181.1 L505.9,170.6 L550.8,139.8 L548.1,162.2 L550.8,174 L569.7,160.7 L614.7,132.6 Z" },
+    { id: "ES-LU", name: { de: "Lugo", hu: "Lugo", ro: "Lugo", en: "Lugo" }, labelX: 718, labelY: 320, path: "M629.7,148.5 L643.1,190.3 L656.6,159.1 L689.6,167.1 L753.8,236.7 L811.4,299.3 L811.6,356.6 L845.4,401.3 L890.7,409.3 L857.9,481.2 L892.1,505 L902.4,551.9 L855.1,624.7 L834.5,690 L777,809.7 L673.4,781.4 L603.5,751 L535.5,725.1 L543.5,643.8 L520.8,571.5 L525.4,466 L545.1,323.4 L588,261.7 L611,194.3 L629.7,148.5 Z" },
+    { id: "ES-OR", name: { de: "Ourense", hu: "Ourense", ro: "Ourense", en: "Ourense" }, labelX: 653, labelY: 863, path: "M533.1,698.1 L573.5,738.2 L608.7,761.6 L710.2,758.8 L795.2,758.5 L893.5,734.2 L936.4,794.2 L887.3,858.9 L834.5,926.2 L816.2,972.7 L766.8,1022.1 L675.2,1021 L558.7,1015.5 L532.9,1016.6 L438.1,1018.9 L442.3,926 L428,852.7 L381.5,734.8 L508.6,695.4 L533.1,698.1 Z" },
+    { id: "ES-PO", name: { de: "Pontevedra", hu: "Pontevedra", ro: "Pontevedra", en: "Pontevedra" }, labelX: 216, labelY: 804, path: "M444.5,563 L520.8,571.5 L543.5,643.8 L456.1,706.4 L395.6,800.7 L440.7,863.7 L393.2,921.6 L249.2,990.8 L208,959.5 L199.8,908.6 L228.6,873.7 L281.3,828.6 L280.9,816.4 L215.3,839.5 L223.3,831.8 L255.5,786.1 L283.8,763.3 L251.5,773.8 L220.8,782.6 L203.2,735.2 L215.2,741.6 L223.6,736.2 L225.4,711 L243.5,685.7 L302.1,616.3 L372.7,594.9 L411,584.9 L444.5,563 Z M208,694.3 L208.8,699.6 L208,694.3 Z" },
   ],
 
-  // ── La Rioja (ES-RI) ─── 1 province ───────────────────────────────────────
+  // -- La Rioja (ES-RI) -- 1 province --
   "ES-RI": [
-    { id: "ES-LO", name: { de: "La Rioja",  hu: "La Rioja",  ro: "La Rioja",  en: "La Rioja"  }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-LO", name: { de: "La Rioja", hu: "La Rioja", ro: "La Rioja", en: "La Rioja" }, labelX: 446, labelY: 554, path: "M145.9,296.9 L252.2,337.9 L335.9,335.5 L403.2,416.9 L536.7,451.6 L677,477 L761.5,530.9 L834.3,607.3 L936.4,694.6 L803.2,793.5 L727.2,855.4 L667.8,752.3 L481.1,706.3 L296,810.1 L210.5,809.1 L78.4,532.6 L94.6,495.3 L63.6,378 L145.9,296.9 Z" },
   ],
 
-  // ── Madrid (ES-MD) ─── 1 province ─────────────────────────────────────────
+  // -- Madrid (ES-MD) -- 1 province --
   "ES-MD": [
-    { id: "ES-M",  name: { de: "Madrid",    hu: "Madrid",    ro: "Madrid",    en: "Madrid"    }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-M", name: { de: "Madrid", hu: "Madrid", ro: "Madrid", en: "Madrid" }, labelX: 522, labelY: 685, path: "M660.3,107.8 L713.5,299.6 L704.9,394.5 L742.6,461.6 L805.4,555 L893.6,678.8 L880.3,785.7 L936.4,899.1 L810.2,949.3 L670,969.2 L469.7,1057 L529.9,1009.6 L554.9,996.8 L575.8,885.1 L467.6,841.3 L380.2,796.9 L277.3,781.9 L189.3,751.8 L90.7,833.8 L91.3,724.4 L151.7,678 L234,529.1 L294.7,508.6 L421.5,309.6 L660.3,107.8 Z" },
   ],
 
-  // ── Murcia (ES-MU) ─── 1 province ─────────────────────────────────────────
+  // -- Murcia (ES-MU) -- 1 province --
   "ES-MU": [
-    { id: "ES-MC", name: { de: "Murcia",    hu: "Murcia",    ro: "Murcia",    en: "Murcia"    }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-MC", name: { de: "Murcia", hu: "Murcia", ro: "Murcia", en: "Murcia" }, labelX: 788, labelY: 815, path: "M677.8,143.9 L748,307.1 L760.9,501.6 L883.4,748.8 L828.7,819.8 L886,824.7 L885.7,775.7 L889.9,805.9 L847.8,910.4 L759.1,893 L689.5,925.4 L623.2,921.8 L432,1042 L241.8,810.2 L188,712.6 L69.7,589.4 L287.3,437.2 L400.7,392.8 L507.7,318.1 L566.1,171.4 L677.8,143.9 Z" },
   ],
 
-  // ── Navarra (ES-NC) ─── 1 province ────────────────────────────────────────
+  // -- Navarra (ES-NC) -- 1 province --
   "ES-NC": [
-    { id: "ES-NA", name: { de: "Navarra",   hu: "Navarra",   ro: "Navarra",   en: "Navarre"   }, labelX: 500, labelY: 600,  path: "M40,40 L960,40 L960,1150 L40,1150 Z"   },
+    { id: "ES-NA", name: { de: "Navarra", hu: "Navarra", ro: "Navarra", en: "Navarre" }, labelX: 490, labelY: 552, path: "M480,123.6 L523.4,137.9 L602.9,212 L667.9,251.8 L744.3,314.8 L920.6,352.1 L869.5,465.3 L825.9,523.5 L712.3,590.9 L666.6,676.8 L595.4,856.9 L650.8,970 L423.7,1001.5 L437,898.7 L444.1,855.4 L349.1,780.3 L254.1,718.2 L139.5,697.3 L102.1,593.2 L124.1,564.1 L153.3,504.9 L193.3,379.8 L295.2,331.6 L348.1,230.2 L409.9,165.8 L480,123.6 Z" },
   ],
 
-  // ── País Vasco (ES-PV) ─── 3 provinces ────────────────────────────────────
+  // -- Pais Vasco (ES-PV) -- 3 provinces --
   "ES-PV": [
-    { id: "ES-BI", name: { de: "Biskaya",   hu: "Vizcaya",   ro: "Vizcaya",   en: "Biscay"    }, labelX: 180, labelY: 680,  path: "M40,400 L380,400 L380,960 L40,960 Z"    },
-    { id: "ES-SS", name: { de: "Gipuzkoa",  hu: "Gipuzkoa",  ro: "Gipuzkoa",  en: "Gipuzkoa"  }, labelX: 760, labelY: 350,  path: "M540,40 L960,40 L960,700 L540,700 Z"    },
-    { id: "ES-VI", name: { de: "Álava",     hu: "Álava",     ro: "Alava",     en: "Álava"     }, labelX: 430, labelY: 820,  path: "M200,650 L720,650 L720,1150 L200,1150 Z" },
+    { id: "ES-BI", name: { de: "Biskaya", hu: "Vizcaya", ro: "Vizcaya", en: "Biscay" }, labelX: 413, labelY: 346, path: "M417.6,249.1 L544,313.2 L546.3,413.3 L477.5,552 L301.7,425.8 L253.6,464.3 L63.6,402.2 L214.6,353 L250.3,321.8 L275.4,325.4 L271.4,306.9 L417.6,249.1 Z M152.1,382.3 L165,385.7 L152.1,382.3 Z M266.7,533.8 L289.2,577.8 L266.7,533.8 Z" },
+    { id: "ES-SS", name: { de: "Gipuzkoa", hu: "Gipuzkoa", ro: "Gipuzkoa", en: "Gipuzkoa" }, labelX: 714, labelY: 401, path: "M905.2,291.6 L909,366.9 L842.6,409.6 L778,545.2 L707.2,610.8 L619,600.4 L532.7,534.3 L577.5,396.8 L702.8,363 L867.5,307.5 L905.2,291.6 Z" },
+    { id: "ES-VI", name: { de: "Alava", hu: "Alava", ro: "Alava", en: "Alava" }, labelX: 400, labelY: 690, path: "M277.9,415.6 L304,496.8 L532.7,534.3 L527.4,584.2 L638.2,746.5 L608.1,808 L569,866 L537.8,919.4 L491.8,910.1 L411.4,827.3 L371.8,837.2 L282.9,745.3 L234.1,662.1 L148.1,652.1 L244.8,636 L298.6,557.4 L201.3,550.5 L209.4,458.8 L277.9,415.6 Z M375,707.1 L536.4,811.1 L499.9,738.9 L375,707.1 Z" },
   ],
 
-  // ── Valencia (ES-VC) ─── 3 provinces ──────────────────────────────────────
+  // -- Valencia (ES-VC) -- 3 provinces --
   "ES-VC": [
-    { id: "ES-A",  name: { de: "Alicante",  hu: "Alicante",  ro: "Alicante",  en: "Alicante"  }, labelX: 500, labelY: 930,  path: "M40,700 L960,700 L960,1150 L40,1150 Z"  },
-    { id: "ES-CS", name: { de: "Castellón", hu: "Castellón", ro: "Castellon", en: "Castellón" }, labelX: 500, labelY: 250,  path: "M40,40 L960,40 L960,480 L40,480 Z"      },
-    { id: "ES-V",  name: { de: "Valencia",  hu: "Valencia",  ro: "Valencia",  en: "Valencia"  }, labelX: 500, labelY: 600,  path: "M40,480 L960,480 L960,700 L40,700 Z"    },
+    { id: "ES-A", name: { de: "Alicante", hu: "Alicante", ro: "Alicante", en: "Alicante" }, labelX: 520, labelY: 902, path: "M568.2,737.6 L614.2,744.3 L669.3,778.2 L636.1,809.2 L593.9,840.1 L504,918.2 L439.8,1038 L391.4,1083.8 L350,928.9 L340.3,860.2 L365.9,771.5 L440.8,790.4 L454.7,767.1 L568.2,737.6 Z" },
+    { id: "ES-CS", name: { de: "Castellon", hu: "Castellon", ro: "Castellon", en: "Castellon" }, labelX: 683, labelY: 340, path: "M566.8,90 L621.3,123.2 L686.9,124 L745.1,182.7 L649,329.9 L540.7,444.6 L470.6,427.4 L422.8,420.4 L405.7,358.6 L458,311.4 L508,253.7 L538.5,197 L523.7,126.8 L566.8,90 Z" },
+    { id: "ES-V", name: { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencia" }, labelX: 386, labelY: 542, path: "M350.6,364.6 L401.4,398.4 L442.9,443.8 L510.8,426.1 L553.4,475.3 L523.4,541.1 L536.9,603.4 L569.1,698.7 L571.2,746.2 L488.7,763.4 L440.9,790.6 L364.6,768.1 L277.8,682.7 L264.9,581.4 L229.1,569.5 L218.6,561.5 L212.2,542.2 L237.3,475.4 L294.6,406.1 L350.6,364.6 Z M270.1,287.7 L311.9,352.7 L229.1,308.7 L270.1,287.7 Z" },
+  ],
+
+  // -- Ceuta (ES-CE) -- autonomous city --
+  "ES-CE": [
+    { id: "ES-CE", name: { de: "Ceuta", hu: "Ceuta", ro: "Ceuta", en: "Ceuta" }, labelX: 358, labelY: 466, path: "M118.2,273.4 L96.3,261.3 L91.6,229.9 L140.2,255.7 L170.1,245.4 L118.2,273.4 Z" },
+  ],
+
+  // -- Melilla (ES-ML) -- autonomous city --
+  "ES-ML": [
+    { id: "ES-ML", name: { de: "Melilla", hu: "Melilla", ro: "Melilla", en: "Melilla" }, labelX: 485, labelY: 639, path: "M478.1,784.8 L363.7,620 L466.2,395.2 L636.3,609.1 L478.1,784.8 Z" },
   ],
 };
