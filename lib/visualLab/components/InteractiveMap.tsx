@@ -1344,11 +1344,14 @@ function SubRegionView({
                       const baseFont = p.type === "state-capital" ? 17 : 14;
                       // Font max 2x-re no max zoomig (sqrt-progression, nem extrem)
                       const fontGrow = Math.min(2, Math.sqrt(pz.view.scale));
-                      const fontSize = baseFont * fontGrow / pz.view.scale;
-                      const r = 11 / pz.view.scale;
+                      // ViewBox-normalizalas: HU 500x350 -> kisebb sizeNorm, igy POI nem lesz overgrown
+                      const _vb = (detail?.viewBox ?? "0 0 1000 1200").split(" ").map(Number);
+                      const subSizeNorm = Math.max(_vb[2] || 1000, _vb[3] || 1200) / 1200;
+                      const fontSize = baseFont * fontGrow * subSizeNorm / pz.view.scale;
+                      const r = 11 * subSizeNorm / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
-                      const hitR = Math.max(14 / pz.view.scale, r * 3);
+                      const hitR = Math.max(14 * subSizeNorm / pz.view.scale, r * 3);
                       const handlePoiTap = (e: React.MouseEvent) => {
                         e.stopPropagation();
                         if (pz.dragged.current) return;
