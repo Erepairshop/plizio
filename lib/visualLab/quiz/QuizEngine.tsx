@@ -303,34 +303,28 @@ export function useQuizEngine({
 
         if (task.type === "distance_guess") {
           if (prev.phase === "waiting") {
-            // First click — accept any of the two target POIs
+            // Elso kattintas: ha nem az egyik target -> rossz valasz azonnal
             const isTargetA = poi.id === task.targetPoiId;
             const isTargetB = poi.id === task.targetPoiId2;
-            if (!isTargetA && !isTargetB) return prev; // not a relevant POI
-            return {
-              ...prev,
-              phase: "distance_a",
-              distancePoiA: poi,
-            };
+            if (!isTargetA && !isTargetB) {
+              advanceScore(false);
+              return { ...prev, phase: "answered", distancePoiA: poi, result: { correct: false } };
+            }
+            return { ...prev, phase: "distance_a", distancePoiA: poi };
           }
           if (prev.phase === "distance_a" && prev.distancePoiA) {
-            if (poi.id === prev.distancePoiA.id) return prev; // same poi
+            if (poi.id === prev.distancePoiA.id) return prev; // ugyanaz, ignoraljuk
             const isOtherTarget =
               poi.id === task.targetPoiId || poi.id === task.targetPoiId2;
-            if (!isOtherTarget) return prev;
             const km = haversineKm(
               [prev.distancePoiA.coords[0], prev.distancePoiA.coords[1]],
               [poi.coords[0], poi.coords[1]]
             );
             const expected = task.expectedKm ?? 0;
-            const correct = expected > 0 && Math.abs(km - expected) <= expected * 0.15;
+            // Helyes csak ha mindket POI a celpontja ÉS a tavolsag a tureshatáron belul
+            const correct = isOtherTarget && expected > 0 && Math.abs(km - expected) <= expected * 0.15;
             advanceScore(correct);
-            return {
-              ...prev,
-              phase: "answered",
-              distancePoiB: poi,
-              result: { correct },
-            };
+            return { ...prev, phase: "answered", distancePoiB: poi, result: { correct } };
           }
           return prev;
         }
