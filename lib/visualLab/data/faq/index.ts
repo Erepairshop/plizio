@@ -9,6 +9,7 @@ import { franceFaq } from "./franceFaq";
 import { portugalFaq } from "./portugalFaq";
 import { spainFaq } from "./spainFaq";
 import { netherlandsFaq } from "./netherlandsFaq";
+import { belgiumFaq } from "./belgiumFaq";
 
 // Placeholder for future FAQ imports (Gemini will generate e.g. ./deFaq, ./huFaq, ./roFaq).
 // Register new imports here as they are created.
@@ -21,6 +22,7 @@ const ALL_FAQ: CountryFaqMap = {
   ...portugalFaq,
   ...spainFaq,
   ...netherlandsFaq,
+  ...belgiumFaq,
 };
 
 export type Lang = "de" | "hu" | "ro" | "en";
