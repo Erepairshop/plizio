@@ -23,6 +23,7 @@ import { poiExtraDe3b } from "../data/poiExtraDe3b";
 import { poiExtraDe4a } from "../data/poiExtraDe4a";
 import { poiExtraDe4b } from "../data/poiExtraDe4b";
 import { poiExtraDeCities } from "../data/poiExtraDeCities";
+import { poiExtraDeLebenWirtschaft } from "../data/poiExtraDeLebenWirtschaft";
 
 const deutschlandPois = [
   ...deutschlandPoisBase,
@@ -33,6 +34,7 @@ const deutschlandPois = [
   ...poiExtraDe3b,
   ...poiExtraDe4a,
   ...poiExtraDe4b,
+  ...poiExtraDeLebenWirtschaft,
 ];
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
 import { poiExtraRo1 } from "../data/poiExtraRo1";

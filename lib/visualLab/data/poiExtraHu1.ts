@@ -53,31 +53,6 @@ export const poiExtraHu1: POI[] = [
     }
   },
   {
-    id: "geo-gellert-hegy-extra",
-    type: "geo",
-    parent: "HU-BU",
-    coords: [19.047, 47.486],
-    name: { de: "Gellértberg", hu: "Gellért-hegy", ro: "Dealul Gellért", en: "Gellért Hill" },
-    description: {
-      de: "Der Gellértberg bietet den besten Panoramablick über Budapest und beherbergt die Citadella.",
-      hu: "A Gellért-hegy kínálja a legjobb panorámát Budapestre, és itt található a Citadella is.",
-      ro: "Dealul Gellért oferă cea mai bună vedere panoramică asupra Budapestei și găzduiește Citadela.",
-      en: "Gellért Hill offers the best panoramic view over Budapest and is home to the Citadella."
-    },
-    descriptionAdvanced: {
-      de: "Der 235 Meter hohe Gellértberg erhebt sich am Donauufer in Buda. Er wurde nach dem Heiligen Gellért benannt, der dort den Märtyrertod starb. Auf dem Gipfel befindet sich die Citadella, eine Festung aus dem 19. Jahrhundert, sowie die Freiheitsstatue, die von fast überall in der Stadt aus sichtbar ist. Der Berg gehört zum UNESCO-Welterbe.",
-      hu: "A 235 méter magas Gellért-hegy a Duna partján magasodik Budán. Szent Gellértről nevezték el, aki itt halt mártírhalált. A hegytetőn található a Citadella, egy 19. századi erőd, valamint a Szabadság-szobor, amely a város szinte minden pontjáról látható. A hegy az UNESCO Világörökség része.",
-      ro: "Dealul Gellért, înalt de 235 de metri, se ridică pe malul Dunării în Buda. A fost numit după Sfântul Gellért, care a murit acolo ca martir. În vârf se află Citadela, o fortăreață din secolul al XIX-lea, precum și Statuia Libertății, care este vizibilă de aproape oriunde din oraș. Dealul face parte din patrimoniul mondial UNESCO.",
-      en: "The 235-meter-high Gellért Hill rises on the banks of the Danube in Buda. It was named after Saint Gellért, who died there as a martyr. At the summit is the Citadella, a 19th-century fortress, and the Liberty Statue, which is visible from almost everywhere in the city. The hill is a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["UNESCO-Welterbestätte.", "235 Meter hoch.", "Beherbergt die Freiheitsstatue.", "Bekannt für seine natürlichen Höhlen."],
-      hu: ["UNESCO Világörökségi helyszín.", "235 méter magas.", "Itt áll a Szabadság-szobor.", "Természetes barlangjairól is ismert."],
-      ro: ["Sit al patrimoniului mondial UNESCO.", "235 de metri înălțime.", "Găzduiește Statuia Libertății.", "Cunoscut pentru peșterile sale naturale."],
-      en: ["UNESCO World Heritage site.", "235 meters high.", "Home to the Liberty Statue.", "Known for its natural caves."]
-    }
-  },
-  {
     id: "geschichte-citadella-extra",
     type: "geschichte",
     parent: "HU-BU",
@@ -102,57 +77,8 @@ export const poiExtraHu1: POI[] = [
       en: ["Built by the Habsburgs.", "Strategic viewpoint.", "Houses World War II exhibitions.", "Part of the UNESCO World Heritage."]
     }
   },
-  {
-    id: "geschichte-vajdahunyad-vara-extra",
-    type: "geschichte",
-    parent: "HU-BU",
-    coords: [19.082, 47.514],
-    name: { de: "Burg Vajdahunyad", hu: "Vajdahunyad vára", ro: "Castelul Vajdahunyad", en: "Vajdahunyad Castle" },
-    description: {
-      de: "Ein märchenhaftes Schloss im Stadtwäldchen, das verschiedene ungarische Baustile vereint.",
-      hu: "Egy mesebeli vár a Városligetben, amely különböző magyar építészeti stílusokat ötvöz.",
-      ro: "Un castel de poveste în Parcul Orașului, care îmbină diverse stiluri arhitecturale maghiare.",
-      en: "A fairytale castle in the City Park, combining various Hungarian architectural styles."
-    },
-    descriptionAdvanced: {
-      de: "Die Burg Vajdahunyad wurde 1896 für die Milleniumsausstellung erbaut, um die 1000-jährige Geschichte Ungarns zu feiern. Ursprünglich aus Holz und Pappe errichtet, war sie so beliebt, dass sie später aus Stein neu gebaut wurde. Die Burg zeigt Kopien berühmter Gebäude aus dem historischen Ungarn, darunter die Burg von Hunedoara (Hunyadi-Burg) in Siebenbürgen.",
-      hu: "A Vajdahunyad vára 1896-ban épült a millenniumi kiállításra, Magyarország 1000 éves történelmének megünneplésére. Eredetileg fából és kartonból készült, de annyira népszerű volt, hogy később kőből újjáépítették. A vár a történelmi Magyarország híres épületeinek másolatait mutatja be, köztük az erdélyi Vajdahunyad várát.",
-      ro: "Castelul Vajdahunyad a fost construit în 1896 pentru expoziția milenară, celebrând cei 1000 de ani de istorie ai Ungariei. Construit inițial din lemn și carton, a fost atât de popular încât a fost reconstruit ulterior din piatră. Castelul prezintă copii ale unor clădiri faimoase din Ungaria istorică, inclusiv Castelul Huniazilor din Transilvania.",
-      en: "Vajdahunyad Castle was built in 1896 for the Millennial Exhibition to celebrate 1000 years of Hungarian history. Originally made of wood and cardboard, it was so popular that it was later rebuilt in stone. The castle features copies of famous buildings from historical Hungary, including the Castle of Hunedoara (Hunyadi Castle) in Transylvania."
-    },
-    facts: {
-      de: ["Beherbergt das Landwirtschaftsmuseum.", "Kombiniert Romanik, Gotik, Renaissance und Barock.", "Steht auf einer Insel im Stadtwäldchen-See.", "Davor steht die Statue von 'Anonymus'."],
-      hu: ["A Mezőgazdasági Múzeumnak ad otthont.", "Ötvözi a román, gótikus, reneszánsz és barokk stílusokat.", "A Városligeti-tó egyik szigetén áll.", "Előtte áll Anonymus szobra."],
-      ro: ["Găzduiește Muzeul Agriculturii.", "Combină stilurile romanic, gotic, renașcentist și baroc.", "Se află pe o insulă în lacul din Parcul Orașului.", "În fața sa se află statuia lui 'Anonymus'."],
-      en: ["Houses the Museum of Agriculture.", "Combines Romanesque, Gothic, Renaissance, and Baroque styles.", "Stands on an island in the City Park lake.", "The statue of 'Anonymus' stands in front of it."]
-    }
-  },
   // HU-BA: Baranya
-  {
-    id: "city-komlo-extra",
-    type: "city",
-    parent: "HU-BA",
-    coords: [18.26, 46.19],
-    name: { de: "Komló", hu: "Komló", ro: "Komló", en: "Komló" },
-    description: {
-      de: "Komló ist eine ehemalige Bergbaustadt im Mecsek-Gebirge.",
-      hu: "Komló egykori bányászváros a Mecsek hegységben.",
-      ro: "Komló este un fost oraș minier din munții Mecsek.",
-      en: "Komló is a former mining town in the Mecsek Mountains."
-    },
-    descriptionAdvanced: {
-      de: "Komló entwickelte sich im 20. Jahrhundert zu einem bedeutenden Zentrum des Steinkohlebergbaus in Ungarn. Nach der Schließung der Minen hat sich die Stadt zu einem Tor zum wunderschönen Mecsek-Gebirge gewandelt. Die Umgebung bietet zahlreiche Wanderwege und Naturerlebnisse.",
-      hu: "Komló a 20. században Magyarország egyik jelentős feketekőszén-bányászati központjává fejlődött. A bányák bezárása után a város a gyönyörű Mecsek hegység kapujává vált. A környék számos túraútvonalat és természeti élményt kínál.",
-      ro: "Komló s-a dezvoltat într-un centru important de minierit al cărbunelui în Ungaria în secolul al XX-lea. După închiderea minelor, orașul s-a transformat într-o poartă către minunații munți Mecsek. Împrejurimile oferă numeroase trasee de drumeție și experiențe în natură.",
-      en: "Komló developed into a significant center for hard coal mining in Hungary during the 20th century. After the mines closed, the town transformed into a gateway to the beautiful Mecsek Mountains. The surrounding area offers numerous hiking trails and nature experiences."
-    },
-    facts: {
-      de: ["Ehemaliges Bergbauzentrum.", "Liegt im Mecsek-Gebirge.", "Zweitgrößte Stadt im Komitat Baranya.", "Bekannt für das Komlóer Mini-Zoo."],
-      hu: ["Egykori bányászati központ.", "A Mecsek hegységben fekszik.", "Baranya vármegye második legnagyobb városa.", "Az úti cél az újkori Komlói Mini Zoo."],
-      ro: ["Fost centru minier.", "Situat în munții Mecsek.", "Al doilea oraș ca mărime din județul Baranya.", "Cunoscut pentru Mini Zoo din Komló."],
-      en: ["Former mining center.", "Located in the Mecsek Mountains.", "Second largest city in Baranya county.", "Known for the Komló Mini Zoo."]
-    }
-  },
+  
   {
     id: "city-szentlorinc-extra",
     type: "city",
@@ -380,31 +306,7 @@ export const poiExtraHu1: POI[] = [
     }
   },
   // HU-BE: Békés
-  {
-    id: "city-bekes-city-extra",
-    type: "city",
-    parent: "HU-BE",
-    coords: [21.13, 46.77],
-    name: { de: "Békés", hu: "Békés", ro: "Békés", en: "Békés" },
-    description: {
-      de: "Die namensgebende Stadt des Komitats Békés am Ufer der Körös.",
-      hu: "Békés vármegye névadó városa a Körös partján.",
-      ro: "Orașul care dă numele județului Békés, pe malul râului Körös.",
-      en: "The namesake city of Békés county on the banks of the Körös river."
-    },
-    descriptionAdvanced: {
-      de: "Békés ist eine der ältesten Siedlungen der Region und liegt am Zusammenfluss der Weißen und Schwarzen Körös. Die Stadt hat ein ruhiges, kleinstädtisches Flair und ist bekannt für ihre Brücken und die umliegenden Gewässer, die hervorragende Möglichkeiten zum Angeln und Wassersport bieten.",
-      hu: "Békés a régió egyik legrégebbi települése, a Fehér- és a Fekete-Körös találkozásánál fekszik. A város nyugodt, kisvárosi hangulattal rendelkezik, hídjairól és a környező vizekről ismert, amelyek kiváló horgászati és vízisportolási lehetőségeket kínálnak.",
-      ro: "Békés este una dintre cele mai vechi așezări din regiune, situată la confluența râurilor Körös Alb și Körös Negru. Orașul are o atmosferă liniștită de orășel și este cunoscut pentru podurile sale și apele înconjurătoare, care oferă oportunități excelente pentru pescuit și sporturi nautice.",
-      en: "Békés is one of the oldest settlements in the region, located at the confluence of the White and Black Körös rivers. The city has a quiet, small-town atmosphere and is known for its bridges and the surrounding waters, which offer excellent opportunities for fishing and water sports."
-    },
-    facts: {
-      de: ["Namensgeber des Komitats.", "Stadt der Brücken.", "Liegt an der Körös.", "Wichtiges Zentrum für Kanufahrer."],
-      hu: ["A vármegye névadója.", "A hidak városa.", "A Körös partján fekszik.", "Fontos kajak-kenu központ."],
-      ro: ["Orașul care dă numele județului.", "Orașul podurilor.", "Situat pe râul Körös.", "Centru important pentru canotaj."],
-      en: ["Namesake of the county.", "City of bridges.", "Located on the Körös river.", "Important center for canoeing."]
-    }
-  },
+  
   {
     id: "city-gyomaendrod-extra",
     type: "city",
@@ -428,31 +330,6 @@ export const poiExtraHu1: POI[] = [
       hu: ["A híres Kner Nyomda hazája.", "16 híddal rendelkezik.", "Halászlevéről is nevezetes.", "Jelentős gyógyfürdője van."],
       ro: ["Patria faimoasei tipografii Kner.", "Deține 16 poduri.", "Cunoscut pentru ciorba de pește.", "Stațiune balneară importantă."],
       en: ["Home of the famous Kner printing house.", "Has 16 bridges.", "Known for its fish soup.", "Significant medicinal spa."]
-    }
-  },
-  {
-    id: "geo-koros-maros-nemzeti-park-extra",
-    type: "geo",
-    parent: "HU-BE",
-    coords: [21.15, 46.5],
-    name: { de: "Körös-Maros-Nationalpark", hu: "Körös-Maros Nemzeti Park", ro: "Parcul Național Körös-Maros", en: "Körös-Maros National Park" },
-    description: {
-      de: "Ein Nationalpark, der die Steppen und Flussauen in Südostungarn schützt.",
-      hu: "Nemzeti park, amely a délkelet-magyarországi pusztákat és folyóártereket védi.",
-      ro: "Un parc național care protejează stepele și luncile râurilor din sud-estul Ungariei.",
-      en: "A national park protecting the steppes and floodplains in southeastern Hungary."
-    },
-    descriptionAdvanced: {
-      de: "Der Körös-Maros-Nationalpark bewahrt die charakteristische Landschaft der Region Tiszántúl. Er beherbergt die größte Trappentrappen-Population Mitteleuropas. Der Park umfasst wichtige Feuchtgebiete entlang der Flüsse Körös und Maros sowie ausgedehnte Salzwiesen.",
-      hu: "A Körös-Maros Nemzeti Park a Tiszántúl jellegzetes tájait őrzi. Itt él Közép-Európa legnagyobb túzokpopulációja. A park fontos vizes élőhelyeket foglal magában a Körös és a Maros mentén, valamint kiterjedt szikes pusztákat.",
-      ro: "Parcul Național Körös-Maros conservă peisajul caracteristic al regiunii Tiszántúl. Găzduiește cea mai mare populație de dropii din Europa Centrală. Parcul cuprinde zone umede importante de-a lungul râurilor Körös și Maros, precum și puste sărate întinse.",
-      en: "The Körös-Maros National Park preserves the characteristic landscape of the Tiszántúl region. It is home to the largest Great Bustard population in Central Europe. The park includes important wetlands along the Körös and Maros rivers as well as extensive salt steppes."
-    },
-    facts: {
-      de: ["Schutzgebiet für die Großtrappe.", "Reiche Vogelwelt.", "Sumpfgebiete und Salzwiesen.", "Bedeutendes Naturschutzgebiet."],
-      hu: ["A túzok védett élőhelye.", "Gazdag madárvilág.", "Mocsarak és szikes puszták.", "Jelentős természetvédelmi terület."],
-      ro: ["Zonă protejată pentru dropie.", "Lume a păsărilor bogată.", "Zone mlăștinoase și puste sărate.", "Rezervație naturală importantă."],
-      en: ["Protected area for the Great Bustard.", "Rich birdlife.", "Marshlands and salt steppes.", "Significant nature reserve."]
     }
   },
   {
@@ -507,106 +384,6 @@ export const poiExtraHu1: POI[] = [
   },
   // HU-BZ: Borsod-Abaúj-Zemplén
   {
-    id: "city-kazincbarcika-extra",
-    type: "city",
-    parent: "HU-BZ",
-    coords: [20.62, 48.25],
-    name: { de: "Kazincbarcika", hu: "Kazincbarcika", ro: "Kazincbarcika", en: "Kazincbarcika" },
-    description: {
-      de: "Kazincbarcika ist die 'Bunte Stadt', bekannt für ihre Wandmalereien und Industrie.",
-      hu: "Kazincbarcika a 'Színes Város', falfestményeiről és iparáról ismert.",
-      ro: "Kazincbarcika este 'Orașul Colorat', cunoscut pentru picturile sale murale și industrie.",
-      en: "Kazincbarcika is the 'Colorful City', known for its murals and industry."
-    },
-    descriptionAdvanced: {
-      de: "Kazincbarcika war eine geplante sozialistische Industriestadt, hat sich aber in den letzten Jahren durch das Projekt 'KolorCity' komplett gewandelt. Die grauen Fassaden der Plattenbauten wurden durch riesige, farbenfrohe Kunstwerke ersetzt, was die Stadt zu einer Freiluftgalerie macht.",
-      hu: "Kazincbarcika egy tervezett szocialista iparváros volt, de az elmúlt években a 'KolorCity' projekt révén teljesen átalakult. A lakótelepek szürke homlokzatait óriási, színes műalkotások váltották fel, így a város egy szabadtéri galériává vált.",
-      ro: "Kazincbarcika a fost un oraș industrial socialist planificat, dar s-a transformat complet în ultimii ani prin proiectul 'KolorCity'. Fațadele gri ale blocurilor au fost înlocuite de opere de artă uriașe și colorate, transformând orașul într-o galerie în aer liber.",
-      en: "Kazincbarcika was a planned socialist industrial city, but it has completely transformed in recent years through the 'KolorCity' project. The gray facades of the apartment buildings were replaced by huge, colorful artworks, turning the city into an open-air gallery."
-    },
-    facts: {
-      de: ["Bekannt als 'KolorCity'.", "Riesige Wandmalereien (Murals).", "Ehemalige sozialistische Industriestadt.", "Beherbergt das Kolor-Festival."],
-      hu: ["'KolorCity' néven is ismert.", "Hatalmas falfestmények (muralok) díszítik.", "Egykori szocialista iparváros.", "A Kolorcity Fesztivál helyszíne."],
-      ro: ["Cunoscut sub numele de 'KolorCity'.", "Picturi murale uriașe.", "Fost oraș industrial socialist.", "Găzduiește Festivalul Kolor."],
-      en: ["Known as 'KolorCity'.", "Huge murals.", "Former socialist industrial city.", "Hosts the Kolor Festival."]
-    }
-  },
-  {
-    id: "city-mezokovesd-extra",
-    type: "city",
-    parent: "HU-BZ",
-    coords: [20.58, 47.81],
-    name: { de: "Mezőkövesd", hu: "Mezőkövesd", ro: "Mezőkövesd", en: "Mezőkövesd" },
-    description: {
-      de: "Das Zentrum der Matyó-Volkskunst und bekannt für das Zsóry-Heilbad.",
-      hu: "A Matyó népművészet központja és a Zsóry-fürdőről nevezetes.",
-      ro: "Centrul artei populare Matyó și faimos pentru băile termale Zsóry.",
-      en: "The center of Matyó folk art and famous for the Zsóry medicinal bath."
-    },
-    descriptionAdvanced: {
-      de: "Mezőkövesd ist die Heimat der Matyó, einer Volksgruppe mit einzigartigen Sticktraditionen, die zum UNESCO-Weltkulturerbe gehören. Das historische Stadtviertel 'Hadas' bewahrt das alte dörfliche Leben. Das Zsóry-Heilbad ist eines der beliebtesten Bäder in Nordungarn.",
-      hu: "Mezőkövesd a matyók hazája, akiknek egyedülálló hímzési hagyománya az UNESCO szellemi világörökség része. A 'Hadas' városrész őrzi a régi falusi életformát. A Zsóry-fürdő Észak-Magyarország egyik legnépszerűbb gyógyfürdője.",
-      ro: "Mezőkövesd este patria poporului Matyó, a cărui tradiție unică de broderie face parte din patrimoniul mondial UNESCO. Cartierul istoric 'Hadas' păstrează vechea viață rurală. Baia termală Zsóry este una dintre cele mai populare băi din nordul Ungariei.",
-      en: "Mezőkövesd is the home of the Matyó, a folk group with unique embroidery traditions that belong to the UNESCO World Heritage. The 'Hadas' historic district preserves the old village life. The Zsóry medicinal bath is one of the most popular baths in northern Hungary."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe Matyó-Stickerei.", "Besitzt das Zsóry-Heilbad.", "Historisches Viertel 'Hadas'.", "Heimat des Landwirtschaftsmaschinen-Museums."],
-      hu: ["Matyó hímzés - UNESCO világörökség.", "Itt található a Zsóry-fürdő.", "Történelmi 'Hadas' városrész.", "Mezőgazdasági Gépmúzeumnak is otthont ad."],
-      ro: ["Broderia Matyó - patrimoniu mondial UNESCO.", "Deține băile termale Zsóry.", "Cartierul istoric 'Hadas'.", "Găzduiește Muzeul Mașinilor Agricole."],
-      en: ["UNESCO World Heritage Matyó embroidery.", "Features the Zsóry medicinal bath.", "Hadas historic district.", "Home to the Agricultural Machinery Museum."]
-    }
-  },
-  {
-    id: "geo-bukk-nemzeti-park-extra",
-    type: "geo",
-    parent: "HU-BZ",
-    coords: [20.52, 48.05],
-    name: { de: "Bükk-Nationalpark", hu: "Bükki Nemzeti Park", ro: "Parcul Național Bükk", en: "Bükk National Park" },
-    description: {
-      de: "Ungarns größter Berg-Nationalpark mit ausgedehnten Buchenwäldern.",
-      hu: "Magyarország legnagyobb hegyvidéki nemzeti parkja kiterjedt bükkösökkel.",
-      ro: "Cel mai mare parc național montan din Ungaria, cu păduri vaste de fag.",
-      en: "Hungary's largest mountainous national park with extensive beech forests."
-    },
-    descriptionAdvanced: {
-      de: "Der Bükk-Nationalpark umfasst das Bükk-Gebirge, ein Kalksteingebirge mit Hunderten von Höhlen. Er ist bekannt für seine reiche Artenvielfalt und spektakuläre Karstlandschaften. Das Bükk-Plateau ist eine einzigartige Hochebene mit alpiner Vegetation. Der Park bietet unzählige Wanderwege und Aussichtspunkte.",
-      hu: "A Bükki Nemzeti Park a Bükk-hegységet foglalja magában, amely egy több száz barlanggal rendelkező mészkőhegység. Gazdag biológiai sokféleségéről és látványos karsztformáiról ismert. A Bükk-fennsík egyedülálló magaslati terület alpesi növényzettel. A park számtalan túraútvonalat és kilátót kínál.",
-      ro: "Parcul Național Bükk cuprinde munții Bükk, un lanț muntos de calcar cu sute de peșteri. Este cunoscut pentru biodiversitatea sa bogată și peisajele carstice spectaculoase. Platoul Bükk este o zonă înaltă unică cu vegetație alpină. Parcul oferă nenumărate trasee de drumeție și puncte de observație.",
-      en: "The Bükk National Park encompasses the Bükk Mountains, a limestone range with hundreds of caves. It is known for its rich biodiversity and spectacular karst landscapes. The Bükk Plateau is a unique high-altitude area with alpine vegetation. The park offers countless hiking trails and viewpoints."
-    },
-    facts: {
-      de: ["Größter Nationalpark Ungarns.", "Hunderte von Höhlen.", "Berühmt für das Bükk-Plateau.", "Reiche Flora und Fauna."],
-      hu: ["Magyarország legnagyobb kiterjedésű nemzeti parkja.", "Több száz barlang található itt.", "Híres a Bükk-fennsíkról.", "Gazdag növény- és állatvilág."],
-      ro: ["Cel mai mare parc național din Ungaria.", "Sute de peșteri.", "Faimos pentru platoul Bükk.", "Floră și faună bogată."],
-      en: ["Largest national park in Hungary.", "Hundreds of caves.", "Famous for the Bükk Plateau.", "Rich flora and fauna."]
-    }
-  },
-  {
-    id: "geschichte-fuzeri-var-extra",
-    type: "geschichte",
-    parent: "HU-BZ",
-    coords: [21.46, 48.54],
-    name: { de: "Burg von Füzér", hu: "Füzéri vár", ro: "Cetatea Füzér", en: "Füzér Castle" },
-    description: {
-      de: "Eine spektakuläre mittelalterliche Burg auf einem vulkanischen Gipfel.",
-      hu: "Látványos középkori vár egy vulkáni csúcson.",
-      ro: "O cetate medievală spectaculoasă pe un vârf vulcanic.",
-      en: "A spectacular medieval castle on a volcanic peak."
-    },
-    descriptionAdvanced: {
-      de: "Die Burg von Füzér ist eine der ältesten Steinburgen Ungarns und thront auf einem steilen Vulkankegel in den Zemplén-Bergen. Sie wurde nach der ungarischen Niederlage bei Mohács genutzt, um die ungarische Krone vor den Türken zu verstecken. Die Burg wurde in den letzten Jahren aufwendig restauriert.",
-      hu: "A füzéri vár Magyarország egyik legrégebbi kővára, amely a Zempléni-hegység egyik meredek vulkáni kúpján trónol. A mohácsi vész után itt őrizték a Szent Koronát, hogy megmentsék a törököktől. A várat az elmúlt években jelentősen felújították.",
-      ro: "Cetatea Füzér este una dintre cele mai vechi cetăți de piatră din Ungaria, situată pe un con vulcanic abrupt în munții Zemplén. A fost folosită după înfrângerea maghiară de la Mohács pentru a ascunde Coroana Sfântă de turci. Cetatea a fost restaurată extensiv în ultimii ani.",
-      en: "Füzér Castle is one of Hungary's oldest stone castles, perched on a steep volcanic cone in the Zemplén Mountains. It was used after the Hungarian defeat at Mohács to hide the Holy Crown from the Turks. The castle has been extensively restored in recent years."
-    },
-    facts: {
-      de: ["Erbaut auf einem Vulkankegel.", "Die Heilige Krone wurde hier aufbewahrt.", "Eine der ältesten Burgen Ungarns.", "Bietet eine fantastische Aussicht."],
-      hu: ["Vulkáni kúpon épült.", "Itt őrizték a Szent Koronát.", "Magyarország egyik legrégebbi vára.", "Fantasztikus kilátást nyújt."],
-      ro: ["Construită pe un con vulcanic.", "Sfânta Coroană a fost păstrată aici.", "Una dintre cele mai vechi cetăți din Ungaria.", "Oferă o vedere fantastică."],
-      en: ["Built on a volcanic cone.", "The Holy Crown was kept here.", "One of the oldest castles in Hungary.", "Offers a fantastic view."]
-    }
-  },
-  {
     id: "geschichte-edelenyi-kastelysziget-extra",
     type: "geschichte",
     parent: "HU-BZ",
@@ -633,31 +410,7 @@ export const poiExtraHu1: POI[] = [
     
     },
     // HU-CS: Csongrád-Csanád
-    {
-    id: "city-csongrad-city-extra",
-    type: "city",
-    parent: "HU-CS",
-    coords: [20.14, 46.71],
-    name: { de: "Csongrád", hu: "Csongrád", ro: "Csongrád", en: "Csongrád" },
-    description: {
-      de: "Csongrád ist eine historische Stadt an der Theiß, bekannt für ihr 'Körös-torok'-Ufer.",
-      hu: "Csongrád történelmi város a Tisza partján, a 'Körös-torok' homokos strandjáról ismert.",
-      ro: "Csongrád este un oraș istoric pe malul Tisei, cunoscut pentru plaja 'Körös-torok'.",
-      en: "Csongrád is a historic town on the banks of the Tisza, known for its 'Körös-torok' sandy beach."
-    },
-    descriptionAdvanced: {
-      de: "Csongrád liegt am Zusammenfluss von Theiß und Körös. Die Altstadt (Belsőváros) bewahrt mit ihren reetgedeckten Fischerhäusern den Charme vergangener Jahrhunderte. Das 'Körös-torok' ist im Sommer ein beliebter Badeort mit einem feinen Sandstrand, der an das Meer erinnert.",
-      hu: "Csongrád a Tisza és a Körös találkozásánál fekszik. A Belsőváros nádtetős halászházaival a múlt századok hangulatát idézi. A Körös-torok nyáron népszerű üdülőhely finomhomokos strandjával, amely a tengerpartra emlékeztet.",
-      ro: "Csongrád se află la confluența râurilor Tisa și Körös. Orașul vechi (Belsőváros) păstrează farmecul secolelor trecute cu casele sale de pescari acoperite cu stuf. 'Körös-torok' este o stațiune populară de vară, cu o plajă de nisip fin care amintește de litoral.",
-      en: "Csongrád is located at the confluence of the Tisza and Körös rivers. The Old Town (Belsőváros) preserves the charm of past centuries with its thatched fishermen's houses. The 'Körös-torok' is a popular summer resort with a fine sandy beach that reminds one of the seaside."
-    },
-    facts: {
-      de: ["Historisches Fischerviertel.", "Bekannter Sandstrand am Fluss.", "Liegt an der Theiß.", "Berühmt für seinen Wein (Csongrádi Kadarka)."],
-      hu: ["Történelmi halásznegyed.", "Híres folyóparti homokstrand.", "A Tisza partján fekszik.", "Csongrádi Kadarka boráról nevezetes."],
-      ro: ["Cartier istoric de pescari.", "Plajă de nisip renumită pe râu.", "Situat pe Tisa.", "Faimos pentru vinul său (Kadarka de Csongrád)."],
-      en: ["Historic fishermen's quarter.", "Famous riverside sandy beach.", "Located on the Tisza.", "Famous for its wine (Csongrádi Kadarka)."]
-    }
-    },
+  
     {
     id: "city-szentes-extra",
     type: "city",
@@ -733,57 +486,8 @@ export const poiExtraHu1: POI[] = [
       en: ["Home to the Feszty Panorama.", "Site of the first Hungarian national assembly.", "Large open-air museum.", "Historic symbol of Hungarian unity."]
     }
     },
-    {
-    id: "geschichte-szegedi-dom-extra",
-    type: "geschichte",
-    parent: "HU-CS",
-    coords: [20.149, 46.248],
-    name: { de: "Votivkirche von Szeged", hu: "Szegedi Dóm", ro: "Catedrala din Szeged", en: "Votive Church of Szeged" },
-    description: {
-      de: "Die Kathedrale von Szeged ist ein beeindruckendes neoromanisches Bauwerk auf dem Domplatz.",
-      hu: "A szegedi dóm egy lenyűgöző neoromán épület a Dóm téren.",
-      ro: "Catedrala din Szeged este o construcție neoromanică impresionantă în Piața Domului.",
-      en: "The Votive Church of Szeged is an impressive Neo-Romanesque building on Cathedral Square."
-    },
-    descriptionAdvanced: {
-      de: "Die Votivkirche wurde nach der großen Flut von 1879 erbaut, als die Bürger von Szeged gelobten, eine prachtvolle Kirche zu errichten, wenn die Stadt wieder aufgebaut wird. Sie ist die viertgrößte Kirche Ungarns. Der Domplatz ist im Sommer Austragungsort der berühmten Szegeder Freilichtspiele.",
-      hu: "A Fogadalmi Templom az 1879-es nagy árvíz után épült, amikor a szegediek megfogadták, hogy pompás templomot emelnek, ha a város újjáépül. Ez Magyarország negyedik legnagyobb temploma. A Dóm tér nyáron a híres Szegedi Szabadtéri Játékok helyszíne.",
-      ro: "Biserica Votivă a fost construită după marea inundație din 1879, când cetățenii din Szeged au jurat să ridice o biserică magnifică dacă orașul va fi reconstruit. Este a patra biserică ca mărime din Ungaria. Piața Domului găzduiește vara faimoasele Jocuri în Aer Liber din Szeged.",
-      en: "The Votive Church was built after the great flood of 1879, when the citizens of Szeged vowed to build a magnificent church if the city was rebuilt. It is the fourth largest church in Hungary. Cathedral Square is the venue for the famous Szeged Open-Air Festival in summer."
-    },
-    facts: {
-      de: ["Erbaut als Einlösung eines Gelübdes.", "Neoromanischer Stil.", "Zwei 81 Meter hohe Türme.", "Besitzt eine der größten Orgeln Europas."],
-      hu: ["Fogadalomból épült.", "Neoromán stílusú.", "Két 81 méter magas tornya van.", "Európa egyik legnagyobb orgonájával rendelkezik."],
-      ro: ["Construită ca îndeplinire a unui jurământ.", "Stil neoromanic.", "Două turnuri de 81 de metri înălțime.", "Deține una dintre cele mai mari orgi din Europa."],
-      en: ["Built as the fulfillment of a vow.", "Neo-Romanesque style.", "Two 81-meter-high towers.", "Has one of the largest organs in Europe."]
-    }
-    },
-    // HU-FE: Fejér
-    {
-    id: "city-mor-extra",
-    type: "city",
-    parent: "HU-FE",
-    coords: [18.20, 47.37],
-    name: { de: "Mór", hu: "Mór", ro: "Mór", en: "Mór" },
-    description: {
-      de: "Mór ist das Zentrum einer berühmten Weinregion, bekannt für den Wein 'Móri Ezerjó'.",
-      hu: "Mór egy híres borvidék központja, a 'Móri Ezerjó' boráról ismert.",
-      ro: "Mór este centrul unei regiuni viticole faimoase, cunoscut pentru vinul 'Móri Ezerjó'.",
-      en: "Mór is the center of a famous wine region, known for the 'Móri Ezerjó' wine."
-    },
-    descriptionAdvanced: {
-      de: "Mór liegt zwischen dem Vértes- und Bakony-Gebirge. Die Stadt blickt auf eine lange Weinbautradition zurück, die von deutschen Siedlern geprägt wurde. Das Lamberg-Schloss, ein wunderschönes Barockbauwerk, ist das kulturelle Herz der Stadt. Jedes Jahr finden hier die bekannten Mórer Weintage statt.",
-      hu: "Mór a Vértes és a Bakony között fekszik. A város hosszú borászati hagyományokkal rendelkezik, amelyet a német telepesek is formáltak. A Lamberg-kastély, egy gyönyörű barokk épület, a város kulturális szíve. Minden évben itt rendezik meg a híres Móri Bornapokat.",
-      ro: "Mór se află între munții Vértes și Bakony. Orașul are o lungă tradiție viticolă, influențată de coloniștii germani. Castelul Lamberg, o frumoasă clădire barocă, este inima culturală a orașului. În fiecare an, aici au loc faimoasele Zile ale Vinului din Mór.",
-      en: "Mór is located between the Vértes and Bakony mountains. The city has a long winemaking tradition, shaped by German settlers. The Lamberg Castle, a beautiful Baroque building, is the cultural heart of the city. Every year, the famous Mór Wine Days are held here."
-    },
-    facts: {
-      de: ["Zentrum der Weinregion Mór.", "Bekannt für den 'Ezerjó'-Wein.", "Besitzt das barocke Lamberg-Schloss.", "Starke deutsche Traditionen."],
-      hu: ["A Móri borvidék központja.", "Az 'Ezerjó' boráról híres.", "Itt található a barokk Lamberg-kastély.", "Erős német hagyományok."],
-      ro: ["Centrul regiunii viticole Mór.", "Faimos pentru vinul 'Ezerjó'.", "Deține castelul baroc Lamberg.", "Tradiții germane puternice."],
-      en: ["Center of the Mór wine region.", "Famous for 'Ezerjó' wine.", "Home to the Baroque Lamberg Castle.", "Strong German traditions."]
-    }
-    },
+  // HU-FE: Fejér
+  
     {
     id: "city-bicske-extra",
     type: "city",
@@ -885,31 +589,7 @@ export const poiExtraHu1: POI[] = [
     }
     },
     // HU-GS: Győr-Moson-Sopron
-    {
-    id: "city-mosonmagyarovar-extra",
-    type: "city",
-    parent: "HU-GS",
-    coords: [17.27, 47.87],
-    name: { de: "Mosonmagyaróvár", hu: "Mosonmagyaróvár", ro: "Mosonmagyaróvár", en: "Mosonmagyaróvár" },
-    description: {
-      de: "Eine Stadt im Nordwesten Ungarns, bekannt für ihr Thermalwasser und die Universität für Landwirtschaft.",
-      hu: "Város Északnyugat-Magyarországon, termálvizéről és agrár-egyeteméről ismert.",
-      ro: "Un oraș în nord-vestul Ungariei, cunoscut pentru apa sa termală și universitatea de agricultură.",
-      en: "A city in northwestern Hungary, known for its thermal water and agricultural university."
-    },
-    descriptionAdvanced: {
-      de: "Mosonmagyaróvár entstand durch die Vereinigung der Städte Moson und Magyaróvár. Die Stadt liegt an der Leitha und der Donau. Sie ist ein bekanntes Zentrum für Zahntourismus und beherbergt eine der ältesten landwirtschaftlichen Bildungseinrichtungen der Welt. Die Burg von Magyaróvár ist ein bedeutendes Wahrzeichen.",
-      hu: "Mosonmagyaróvár Moson és Magyaróvár városok egyesülésével jött létre. A város a Lajta és a Duna mentén fekszik. A fogászati turizmus ismert központja, és itt működik a világ egyik legrégebbi agrár-felsőoktatási intézménye. A magyaróvári vár a város jelentős jelképe.",
-      ro: "Mosonmagyaróvár a fost format prin unirea orașelor Moson și Magyaróvár. Orașul se află pe malul râurilor Leitha și Dunăre. Este un centru cunoscut pentru turismul dentar și găzduiește una dintre cele mai vechi instituții de învățământ agricol din lume. Cetatea din Magyaróvár este un simbol important.",
-      en: "Mosonmagyaróvár was formed through the merger of Moson and Magyaróvár. The city is located on the Leitha and Danube rivers. It is a well-known center for dental tourism and houses one of the oldest agricultural educational institutions in the world. The Castle of Magyaróvár is a significant landmark."
-    },
-    facts: {
-      de: ["Zentrum des Zahntourismus.", "Besitzt eine Burg aus dem 13. Jahrhundert.", "Wichtige Universität für Landwirtschaft.", "Liegt am Dreiländereck (AT-SK-HU)."],
-      hu: ["A fogászati turizmus központja.", "13. századi várral rendelkezik.", "Fontos agrár-egyetem városa.", "A hármashatár közelében fekszik (AT-SK-HU)."],
-      ro: ["Centru al turismului dentar.", "Deține o cetate din secolul al XIII-lea.", "Universitate importantă de agricultură.", "Situat lângă triplex confinium (AT-SK-HU)."],
-      en: ["Center for dental tourism.", "Has a 13th-century castle.", "Important agricultural university.", "Located near the triple border (AT-SK-HU)."]
-    }
-    },
+  
     {
     id: "city-csorna-extra",
     type: "city",
@@ -933,31 +613,6 @@ export const poiExtraHu1: POI[] = [
       hu: ["A premontrei apátság székhelye.", "A Rábaköz központja.", "Fontos közlekedési csomópont.", "Hagyományos népművészetéről ismert."],
       ro: ["Sediul abației premonstratense.", "Centrul regiunii Rábaköz.", "Nod de transport important.", "Cunoscut pentru arta populară tradițională."],
       en: ["Seat of the Premonstratensian Abbey.", "Center of the Rábaköz region.", "Important transport hub.", "Known for traditional folk art."]
-    }
-    },
-    {
-    id: "geo-fert-to-extra",
-    type: "geo",
-    parent: "HU-GS",
-    coords: [16.75, 47.75],
-    name: { de: "Neusiedler See", hu: "Fertő-tó", ro: "Lacul Fertő", en: "Lake Neusiedl" },
-    description: {
-      de: "Der zweitgrößte Steppensee Mitteleuropas, geteilt zwischen Österreich und Ungarn.",
-      hu: "Közép-Európa második legnagyobb sztyepptava, Ausztria és Magyarország között megosztva.",
-      ro: "Al doilea cel mai mare lac de stepă din Europa Centrală, împărțit între Austria și Ungaria.",
-      en: "The second largest steppe lake in Central Europe, shared between Austria and Hungary."
-    },
-    descriptionAdvanced: {
-      de: "Der Neusiedler See (Fertő-tó) ist ein UNESCO-Welterbe. Er ist bekannt für seinen ausgedehnten Schilfgürtel, seine geringe Tiefe und seine einzigartige Vogelwelt. Der ungarische Teil gehört zum Nationalpark Fertő-Hanság. Der See ist ein Paradies für Segler, Surfer und Naturbeobachter.",
-      hu: "A Fertő-tó az UNESCO Világörökség része. Hatalmas nádasairól, sekély mélységéről és egyedülálló madárvilágáról ismert. A magyar rész a Fertő-Hanság Nemzeti Parkhoz tartozik. A tó a vitorlázók, szörfösök és természetmegfigyelők paradicsoma.",
-      ro: "Lacul Fertő face parte din patrimoniul mondial UNESCO. Este cunoscut pentru stuful său vast, adâncimea mică și lumea unică a păsărilor. Partea maghiară aparține Parcului Național Fertő-Hanság. Lacul este un paradis pentru navigatori, surferi și observatori de natură.",
-      en: "Lake Neusiedl (Fertő-tó) is a UNESCO World Heritage site. It is known for its extensive reed belt, shallow depth, and unique birdlife. The Hungarian part belongs to the Fertő-Hanság National Park. The lake is a paradise for sailors, surfers, and nature watchers."
-    },
-    facts: {
-      de: ["UNESCO-Welterbe.", "Grenzüberschreitender Nationalpark.", "Durchschnittliche Tiefe nur ca. 1 Meter.", "Wichtiges Vogelschutzgebiet."],
-      hu: ["UNESCO Világörökségi helyszín.", "Határon átnyúló nemzeti park.", "Átlagos mélysége mindössze kb. 1 méter.", "Fontos madárvédelmi terület."],
-      ro: ["Patrimoniu mondial UNESCO.", "Parc național transfrontalier.", "Adâncimea medie de doar aproximativ 1 metru.", "Zonă importantă de protecție a păsărilor."],
-      en: ["UNESCO World Heritage site.", "Cross-border national park.", "Average depth only about 1 meter.", "Important bird sanctuary."]
     }
     },
     {
@@ -985,83 +640,8 @@ export const poiExtraHu1: POI[] = [
       en: ["Largest Rococo palace in Hungary.", "Workplace of Joseph Haydn.", "Hundreds of rooms.", "Beautiful French gardens."]
     }
     },
-    {
-    id: "geschichte-pannonhalmi-foapatsag-extra",
-    type: "geschichte",
-    parent: "HU-GS",
-    coords: [17.76, 47.55],
-    name: { de: "Erzabtei Pannonhalma", hu: "Pannonhalmi Főapátság", ro: "Abația Pannonhalma", en: "Archabbey of Pannonhalma" },
-    description: {
-      de: "Eine der ältesten historischen Denkmäler Ungarns und ein UNESCO-Welterbe.",
-      hu: "Magyarország egyik legrégebbi történelmi emléke és UNESCO Világörökségi helyszín.",
-      ro: "Unul dintre cele mai vechi monumente istorice din Ungaria și patrimoniu mondial UNESCO.",
-      en: "One of Hungary's oldest historic monuments and a UNESCO World Heritage site."
-    },
-    descriptionAdvanced: {
-      de: "Die Erzabtei von Pannonhalma wurde 996 gegründet und ist das geistige Zentrum des Benediktinerordens in Ungarn. Das Kloster beherbergt eine wertvolle Bibliothek mit über 400.000 Bänden und das Gründungsdokument der Abtei von Tihany. Die Basilika und die Krypta sind herausragende Beispiele mittelalterlicher Architektur.",
-      hu: "A Pannonhalmi Főapátságot 996-ban alapították, és a magyarországi bencés rend szellemi központja. A kolostor több mint 400 000 kötetes értékes könyvtárnak és a tihanyi apátság alapítólevelének ad otthont. A bazilika és a kripta a középkori építészet kiemelkedő példái.",
-      ro: "Abația Pannonhalma a fost fondată în 996 și este centrul spiritual al ordinului benedictin din Ungaria. Mănăstirea găzduiește o bibliotecă valoroasă cu peste 400.000 de volume și documentul de ctitorire al abației Tihany. Bazilica și cripta sunt exemple remarcabile de arhitectură medievală.",
-      en: "The Archabbey of Pannonhalma was founded in 996 and is the spiritual center of the Benedictine order in Hungary. The monastery houses a valuable library with over 400,000 volumes and the founding charter of the Tihany Abbey. The basilica and the crypt are outstanding examples of medieval architecture."
-    },
-    facts: {
-      de: ["Gegründet im Jahr 996.", "UNESCO-Welterbe.", "Besitzt eine riesige Bibliothek.", "Produziert eigenen Wein und Lavendelprodukte."],
-      hu: ["996-ban alapították.", "UNESCO Világörökségi helyszín.", "Hatalmas könyvtárral rendelkezik.", "Saját bort és levendula-termékeket állít elő."],
-      ro: ["Fondată în anul 996.", "Patrimoniu mondial UNESCO.", "Deține o bibliotecă uriașă.", "Produce propriul vin și produse din levănțică."],
-      en: ["Founded in 996.", "UNESCO World Heritage site.", "Has a huge library.", "Produces its own wine and lavender products."]
-    }
-    },
-    // HU-HB: Hajdú-Bihar
-    {
-    id: "city-hajduboszormeny-extra",
-    type: "city",
-    parent: "HU-HB",
-    coords: [21.51, 47.67],
-    name: { de: "Hajdúböszörmény", hu: "Hajdúböszörmény", ro: "Hajdúböszörmény", en: "Hajdúböszörmény" },
-    description: {
-      de: "Die größte Heiduckenstadt mit einer einzigartigen ringförmigen Stadtstruktur.",
-      hu: "A legnagyobb hajdúváros egyedülálló, gyűrűs városszerkezettel.",
-      ro: "Cel mai mare oraș al haiducilor, cu o structură urbană circulară unică.",
-      en: "The largest Hajdú (Haiduck) town with a unique ring-shaped urban structure."
-    },
-    descriptionAdvanced: {
-      de: "Hajdúböszörmény war das Zentrum des Heiducken-Distrikts. Die Stadtstruktur ist außergewöhnlich: Die inneren Grundstücke sind kreisförmig angeordnet, umgeben von einem äußeren Ring von Gärten und Ställen. Dies diente in der Vergangenheit Verteidigungszwecken. Das Hajdúsági-Museum präsentiert die Geschichte der Heiducken.",
-      hu: "Hajdúböszörmény volt a Hajdúkerület központja. A város szerkezete rendkívüli: a belső telkek kör alakban helyezkednek el, melyeket kertek és istállók külső gyűrűje vesz körül. Ez a múltban védelmi célokat szolgált. A Hajdúsági Múzeum a hajdúk történetét mutatja be.",
-      ro: "Hajdúböszörmény a fost centrul districtului haiducilor. Structura orașului este extraordinară: loturile interioare sunt dispuse circular, înconjurate de un inel exterior de grădini și grajduri. Acest lucru a servit în trecut unor scopuri defensive. Muzeul Hajdúsági prezintă istoria haiducilor.",
-      en: "Hajdúböszörmény was the center of the Hajdú district. The town structure is extraordinary: the inner plots are arranged in a circular fashion, surrounded by an outer ring of gardens and stables. This served defensive purposes in the past. The Hajdúsági Museum presents the history of the Hajdú people."
-    },
-    facts: {
-      de: ["Einzigartige ringförmige Struktur.", "Ehemaliges Heiduckenzentrum.", "Besitzt das Hajdúsági-Museum.", "Liegt in der Nähe von Debrecen."],
-      hu: ["Egyedülálló gyűrűs városszerkezet.", "Egykori hajdúközpont.", "Hajdúsági Múzeumnak ad otthont.", "Debrecen közelében fekszik."],
-      ro: ["Structură circulară unică.", "Fost centru al haiducilor.", "Găzduiește Muzeul Hajdúsági.", "Situat lângă Debrecen."],
-      en: ["Unique ring-shaped structure.", "Former Hajdú center.", "Home to the Hajdúsági Museum.", "Located near Debrecen."]
-    }
-    },
-    {
-    id: "city-berettyoujfalu-extra",
-    type: "city",
-    parent: "HU-HB",
-    coords: [21.54, 47.22],
-    name: { de: "Berettyóújfalu", hu: "Berettyóújfalu", ro: "Berettyóújfalu", en: "Berettyóújfalu" },
-    description: {
-      de: "Eine Stadt im Süden des Komitats, bekannt für das Bihar-Museum und sein Heilwasser.",
-      hu: "Város a vármegye déli részén, a Bihari Múzeumról és gyógyvizéről ismert.",
-      ro: "Un oraș în sudul județului, cunoscut pentru Muzeul Bihar și apa sa curativă.",
-      en: "A town in the south of the county, known for the Bihar Museum and its medicinal water."
-    },
-    descriptionAdvanced: {
-      de: "Berettyóújfalu liegt am Ufer des Flusses Berettyó. Die Stadt ist ein wichtiges regionales Zentrum in der Region Bihar. Das Bihar-Museum bewahrt das kulturelle Erbe des historischen Komitats Bihar. Das örtliche Thermalbad bietet Entspannung in brom- und jodhaltigem Heilwasser.",
-      hu: "Berettyóújfalu a Berettyó folyó partján fekszik. A város Bihar vidékének fontos regionális központja. A Bihari Múzeum a történelmi Bihar vármegye kulturális örökségét őrzi. A helyi termálfürdő brómos-jódos gyógyvízzel várja a pihenni vágyókat.",
-      ro: "Berettyóújfalu se află pe malul râului Berettyó. Orașul este un centru regional important în regiunea Bihar. Muzeul Bihar păstrează moștenirea culturală a județului istoric Bihar. Baia termală locală oferă relaxare în apă curativă bogată în brom și iod.",
-      en: "Berettyóújfalu is located on the banks of the Berettyó river. The town is an important regional center in the Bihar region. The Bihar Museum preserves the cultural heritage of the historical Bihar county. The local thermal bath offers relaxation in medicinal water containing bromine and iodine."
-    },
-    facts: {
-      de: ["Liegt am Fluss Berettyó.", "Beherbergt das Bihar-Museum.", "Bekannt für sein Heilwasser.", "Regionales Zentrum von Bihar."],
-      hu: ["A Berettyó folyó partján fekszik.", "A Bihari Múzeumnak ad otthont.", "Gyógyvizéről ismert.", "Bihar regionális központja."],
-      ro: ["Situat pe râul Berettyó.", "Găzduiește Muzeul Bihar.", "Cunoscut pentru apa sa curativă.", "Centru regional al Biharului."],
-      en: ["Located on the Berettyó river.", "Home to the Bihar Museum.", "Known for its medicinal water.", "Regional center of Bihar."]
-    }
-    },
-    {
+  // HU-HB: Hajdú-Bihar
+  {
     id: "geo-nagyerdo-extra",
     type: "geo",
     parent: "HU-HB",
@@ -1137,31 +717,7 @@ export const poiExtraHu1: POI[] = [
     }
     },
     // HU-HE: Heves
-    {
-    id: "city-hatvan-extra",
-    type: "city",
-    parent: "HU-HE",
-    coords: [19.67, 47.67],
-    name: { de: "Hatvan", hu: "Hatvan", ro: "Hatvan", en: "Hatvan" },
-    description: {
-      de: "Eine Stadt an der Zagyva, bekannt für ihr Jagdmuseum und ihre Schokoladenfabrik.",
-      hu: "Város a Zagyva partján, vadászati múzeumáról és csokoládégyáráról ismert.",
-      ro: "Un oraș pe râul Zagyva, cunoscut pentru muzeul de vânătoare și fabrica de ciocolată.",
-      en: "A town on the Zagyva river, known for its hunting museum and chocolate factory."
-    },
-    descriptionAdvanced: {
-      de: "Hatvan bedeutet wörtlich 'Sechzig'. Die Stadt liegt an einem wichtigen Verkehrsknotenpunkt. Das Grassalkovich-Schloss beherbergt heute das Ungarische Jagdmuseum. Hatvan ist auch bekannt für seine Industriegeschichte und die Produktion von Süßwaren.",
-      hu: "Hatvan neve szó szerint a 60-as számot jelenti. A város fontos közlekedési csomópontban fekszik. A Grassalkovich-kastély ma a Magyar Vadászati Múzeumnak ad otthont. Hatvan ipari múltjáról és édességgyártásáról is ismert.",
-      ro: "Hatvan înseamnă literalmente 'șaizeci'. Orașul se află la un nod important de transport. Castelul Grassalkovich găzduiește astăzi Muzeul Maghiar de Vânătoare. Hatvan este, de asemenea, cunoscut pentru istoria sa industrială și producția de dulciuri.",
-      en: "Hatvan literally means 'sixty'. The town is located at an important transport hub. The Grassalkovich Castle now houses the Hungarian Hunting Museum. Hatvan is also known for its industrial history and confectionery production."
-    },
-    facts: {
-      de: ["Name bedeutet 'Sechzig'.", "Besitzt ein prächtiges Grassalkovich-Schloss.", "Heimat des Ungarischen Jagdmuseums.", "Wichtiger Eisenbahnknotenpunkt."],
-      hu: ["Neve a 60-as számot jelenti.", "Itt található a Grassalkovich-kastély.", "A Magyar Vadászati Múzeum székhelye.", "Fontos vasúti csomópont."],
-      ro: ["Numele înseamnă 'șaizeci'.", "Deține castelul magnific Grassalkovich.", "Patria Muzeului Maghiar de Vânătoare.", "Nod feroviar important."],
-      en: ["Name means 'sixty'.", "Features a magnificent Grassalkovich Castle.", "Home to the Hungarian Hunting Museum.", "Important railway junction."]
-    }
-    },
+  
     {
     id: "city-fuzesabony-extra",
     type: "city",
@@ -1187,57 +743,7 @@ export const poiExtraHu1: POI[] = [
       en: ["Significant Bronze Age finds.", "Strategic railway junction.", "Located between Eger and Lake Tisza.", "Gateway to the Bükk Mountains."]
     }
     },
-    {
-    id: "geo-kekes-teto-extra",
-    type: "geo",
-    parent: "HU-HE",
-    coords: [20.01, 47.87],
-    name: { de: "Kékes", hu: "Kékes-tető", ro: "Vârful Kékes", en: "Kékes Peak" },
-    description: {
-      de: "Der höchste Berg Ungarns, gelegen im Mátra-Gebirge.",
-      hu: "Magyarország legmagasabb hegycsúcsa, a Mátra hegységben található.",
-      ro: "Cel mai înalt munte din Ungaria, situat în munții Mátra.",
-      en: "The highest peak in Hungary, located in the Mátra Mountains."
-    },
-    descriptionAdvanced: {
-      de: "Der Kékestető ist mit 1014 Metern der höchste Punkt Ungarns. Sein Name bedeutet 'bläulicher Gipfel'. Auf dem Gipfel befindet sich ein Fernsehturm mit einer Aussichtsplattform. Die Region ist ein beliebtes Ziel für Wanderer im Sommer und Skifahrer im Winter. Die Luft hier gilt als besonders gesundheitsfördernd.",
-      hu: "A Kékestető 1014 méteres magasságával Magyarország legmagasabb pontja. Nevét kékes árnyalatáról kapta. A csúcson egy tévétorony található kilátóval. A régió népszerű célpont a túrázók számára nyáron és a síelőknek télen. A levegő itt különösen jó hatással van az egészségre.",
-      ro: "Kékestető este cel mai înalt punct din Ungaria, având 1014 metri. Numele său înseamnă „vârf albăstrui”. În vârf se află un turn de televiziune cu o platformă de observare. Regiunea este o destinație populară pentru drumeți vara și schiori iarna. Aerul de aici este considerat a fi deosebit de benefic pentru sănătate.",
-      en: "Kékestető is the highest point in Hungary at 1014 meters. Its name means 'bluish peak'. At the summit is a television tower with a viewing platform. The region is a popular destination for hikers in summer and skiers in winter. The air here is considered particularly beneficial for health."
-    },
-    facts: {
-      de: ["Höchster Punkt Ungarns (1014 m).", "Liegt im Mátra-Gebirge.", "Fernseh- und Aussichtsturm auf dem Gipfel.", "Beliebtes Skigebiet."],
-      hu: ["Magyarország legmagasabb pontja (1014 m).", "A Mátra hegységben található.", "Tévétorony és kilátó a csúcson.", "Népszerű síterep."],
-      ro: ["Cel mai înalt punct din Ungaria (1014 m).", "Situat în munții Mátra.", "Turn de televiziune și observație în vârf.", "Stațiune de schi populară."],
-      en: ["Highest point in Hungary (1014 m).", "Located in the Mátra Mountains.", "TV and lookout tower on the summit.", "Popular ski resort."]
-    }
-    },
-    {
-    id: "geschichte-sirok-vara-extra",
-    type: "geschichte",
-    parent: "HU-HE",
-    coords: [20.19, 47.94],
-    name: { de: "Burg von Sirok", hu: "Siroki vár", ro: "Cetatea Sirok", en: "Sirok Castle" },
-    description: {
-      de: "Eine faszinierende Felsenburg im Mátra-Gebirge, teilweise in den Tuffstein gehauen.",
-      hu: "Lenyűgöző sziklavár a Mátrában, részben a tufába vésve.",
-      ro: "O cetate spectaculoasă în stâncă în munții Mátra, parțial săpată în tuf.",
-      en: "A fascinating rock castle in the Mátra Mountains, partly carved into the tuff."
-    },
-    descriptionAdvanced: {
-      de: "Die Burg von Sirok ist die am spektakulärsten gelegene Felsenburg Ungarns. Ein großer Teil der Burg wurde direkt in den Berggipfel gehauen, einschließlich Tunneln und Gängen. Sie bietet einen herrlichen Rundblick auf das Mátra- und Bükk-Gebirge. Die 'Barát' (Mönch) und 'Apáca' (Nonne) genannten Felsformationen in der Nähe sind ebenfalls sehenswert.",
-      hu: "A siroki vár Magyarország leglátványosabb elhelyezkedésű sziklavára. A vár nagy részét közvetlenül a hegycsúcsba vésték, alagutakkal és folyosókkal együtt. Csodálatos körpanorámát nyújt a Mátrára és a Bükkre. A közelben található 'Barát' és 'Apáca' sziklaformációk szintén figyelemre méltóak.",
-      ro: "Cetatea Sirok este cetatea din stâncă cu cea mai spectaculoasă locație din Ungaria. O mare parte a cetății a fost săpată direct în vârful muntelui, inclusiv tuneluri și pasaje. Oferă o vedere panoramică superbă asupra munților Mátra și Bükk. Formațiunile stâncoase din apropiere, numite 'Călugărul' (Barát) și 'Călugărița' (Apáca), merită de asemenea vizitate.",
-      en: "Sirok Castle is the most spectacularly located rock castle in Hungary. A large part of the castle was carved directly into the mountain peak, including tunnels and passages. It offers a magnificent circular view of the Mátra and Bükk mountains. The rock formations nearby called 'Monk' (Barát) and 'Nun' (Apáca) are also worth seeing."
-    },
-    facts: {
-      de: ["In den Fels gehauene Burg.", "Gelegen im östlichen Mátra-Gebirge.", "Bietet Panoramablick.", "Einzigartige Höhlensysteme in der Burg."],
-      hu: ["Sziklába vájt vár.", "A Keleti-Mátrában található.", "Panorámás kilátást nyújt.", "Egyedülálló barlangrendszer a váron belül."],
-      ro: ["Cetate săpată în stâncă.", "Situată în munții Mátra de Est.", "Oferă vedere panoramică.", "Sisteme de peșteri unice în interiorul cetății."],
-      en: ["Castle carved into rock.", "Located in the Eastern Mátra Mountains.", "Offers panoramic views.", "Unique cave systems within the castle."]
-    }
-    },
-    {
+  {
     id: "geschichte-egri-bazilika-extra",
     type: "geschichte",
     parent: "HU-HE",
@@ -1263,57 +769,7 @@ export const poiExtraHu1: POI[] = [
     }
     },
     // HU-JN: Jász-Nagykun-Szolnok
-    {
-    id: "city-karcag-extra",
-    type: "city",
-    parent: "HU-JN",
-    coords: [20.92, 47.31],
-    name: { de: "Karcag", hu: "Karcag", ro: "Karcag", en: "Karcag" },
-    description: {
-      de: "Die Hauptstadt der Großkumanien-Region, bekannt für ihre Hammelgulasch-Tradition.",
-      hu: "Nagykunság fővárosa, híres birkapörkölt-hagyományairól.",
-      ro: "Capitala regiunii Cumania Mare, faimoasă pentru tradiția gulașului de berbec.",
-      en: "The capital of the Great Cumania region, famous for its mutton stew tradition."
-    },
-    descriptionAdvanced: {
-      de: "Karcag ist das geistige und kulturelle Zentrum von Großkumanien (Nagykunság). Die Stadt bewahrt stolz das Erbe der Kumanen. Das Karcager Hammelgulasch ist ein UNESCO-geschütztes immaterielles Kulturerbe. Sehenswert sind auch die Windmühle und das Györffy-István-Nagykun-Museum.",
-      hu: "Karcag a Nagykunság szellemi és kulturális központja. A város büszkén őrzi a kunok örökségét. A karcagi birkapörkölt az UNESCO szellemi világörökség része. Látnivalói közé tartozik a szélmalom és a Györffy István Nagykun Múzeum.",
-      ro: "Karcag este centrul spiritual și cultural al Cumaniei Mari (Nagykunság). Orașul păstrează cu mândrie moștenirea cumanilor. Gulașul de berbec din Karcag face parte din patrimoniul cultural imaterial UNESCO. Printre atracții se numără moara de vânt și Muzeul Nagykun Györffy István.",
-      en: "Karcag is the spiritual and cultural center of Great Cumania (Nagykunság). The town proudly preserves the Cuman heritage. The Karcag mutton stew is part of the UNESCO intangible cultural heritage. Sights include the windmill and the Györffy István Nagykun Museum."
-    },
-    facts: {
-      de: ["Hauptstadt von Großkumanien.", "Berühmt für Hammelgulasch.", "Besitzt eine historische Windmühle.", "Zentrum der Kumanen-Kultur."],
-      hu: ["A Nagykunság fővárosa.", "Híres a birkapörköltjéről.", "Történelmi szélmalommal rendelkezik.", "A kunkultúra központja."],
-      ro: ["Capitala Cumaniei Mari.", "Faimos pentru gulașul de berbec.", "Deține o moară de vânt istorică.", "Centrul culturii cumane."],
-      en: ["Capital of Great Cumania.", "Famous for mutton stew.", "Has a historic windmill.", "Center of Cuman culture."]
-    }
-    },
-    {
-    id: "city-tiszafured-extra",
-    type: "city",
-    parent: "HU-JN",
-    coords: [20.75, 47.61],
-    name: { de: "Tiszafüred", hu: "Tiszafüred", ro: "Tiszafüred", en: "Tiszafüred" },
-    description: {
-      de: "Die Hauptstadt des Theiß-Sees, ein Paradies für Ökotourismus.",
-      hu: "A Tisza-tó fővárosa, az ökoturizmus paradicsoma.",
-      ro: "Capitala lacului Tisa, un paradis pentru ecoturism.",
-      en: "The capital of Lake Tisza, a paradise for ecotourism."
-    },
-    descriptionAdvanced: {
-      de: "Tiszafüred ist das wichtigste touristische Zentrum am Theiß-See. Die Stadt bietet zahlreiche Möglichkeiten für Wassersport, Angeln und Naturbeobachtungen. Das Kiss-Pál-Museum präsentiert die lokale Geschichte und die berühmte Tiszafüreder Keramik. In der Nähe befindet sich der Hortobágy-Nationalpark.",
-      hu: "Tiszafüred a Tisza-tó legfontosabb turisztikai központja. A város számos lehetőséget kínál vízi sportokra, horgászatra és természetmegfigyelésre. A Kiss Pál Múzeum a helytörténetet és a híres tiszafüredi kerámiát mutatja be. A közelben található a Hortobágyi Nemzeti Park.",
-      ro: "Tiszafüred este cel mai important centru turistic de la lacul Tisa. Orașul oferă numeroase oportunități pentru sporturi nautice, pescuit și observarea naturii. Muzeul Kiss Pál prezintă istoria locală și faimoasa ceramică de Tiszafüred. În apropiere se află Parcul Național Hortobágy.",
-      en: "Tiszafüred is the most important tourist center on Lake Tisza. The town offers numerous opportunities for water sports, fishing, and nature watching. The Kiss Pál Museum presents local history and the famous Tiszafüred ceramics. Nearby is the Hortobágy National Park."
-    },
-    facts: {
-      de: ["Tor zum Theiß-See.", "Zentrum der Keramikherstellung.", "Beliebter Badeort.", "Reiche Vogelwelt in der Umgebung."],
-      hu: ["A Tisza-tó kapuja.", "Kerámiagyártás központja.", "Népszerű üdülőhely.", "Gazdag madárvilág a környéken."],
-      ro: ["Poarta către lacul Tisa.", "Centru de fabricare a ceramicii.", "Stațiune populară.", "Lume a păsărilor bogată în împrejurimi."],
-      en: ["Gateway to Lake Tisza.", "Center of ceramics production.", "Popular resort town.", "Rich birdlife in the area."]
-    }
-    },
-    {
+  {
     id: "geo-tisza-to-extra",
     type: "geo",
     parent: "HU-JN",
@@ -1541,31 +997,6 @@ export const poiExtraHu1: POI[] = [
     }
     },
     {
-    id: "city-szecseny-extra",
-    type: "city",
-    parent: "HU-NO",
-    coords: [19.51, 48.08],
-    name: { de: "Szécsény", hu: "Szécsény", ro: "Szécsény", en: "Szécsény" },
-    description: {
-      de: "Szécsény ist eine historische Stadt, in der wichtige Nationalversammlungen stattfanden.",
-      hu: "Szécsény történelmi város, ahol fontos országgyűléseket tartottak.",
-      ro: "Szécsény este un oraș istoric unde au avut loc adunări naționale importante.",
-      en: "Szécsény is a historic town where important national assemblies were held."
-    },
-    descriptionAdvanced: {
-      de: "Szécsény ist berühmt für die Nationalversammlung von 1705, bei der Ferenc Rákóczi II. zum regierenden Fürsten gewählt wurde. Das Forgách-Schloss ist ein bedeutendes Barockgebäude, das heute das Kubinyi-Ferenc-Museum beherbergt. Die Altstadt bewahrt viele mittelalterliche und barocke Gebäude.",
-      hu: "Szécsény az 1705-ös országgyűlésről nevezetes, ahol II. Rákóczi Ferencet vezérlő fejedelemmé választották. A Forgách-kastély jelentős barokk épület, amely ma a Kubinyi Ferenc Múzeumnak ad otthont. Az óváros számos középkori és barokk épületet őriz.",
-      ro: "Szécsény este faimos pentru adunarea națională din 1705, unde Francisc Rákóczi al II-lea a fost ales principe regent. Castelul Forgách este o clădire barocă importantă, care găzduiește astăzi Muzeul Kubinyi Ferenc. Orașul vechi păstrează multe clădiri medievale și baroce.",
-      en: "Szécsény is famous for the national assembly of 1705, where Ferenc Rákóczi II was elected ruling prince. The Forgách Castle is a significant Baroque building that today houses the Kubinyi Ferenc Museum. The old town preserves many medieval and Baroque buildings."
-    },
-    facts: {
-      de: ["Ort der Rákóczi-Nationalversammlung.", "Besitzt das Forgách-Schloss.", "Historischer Hauptplatz.", "Bedeutendes Franziskanerkloster."],
-      hu: ["Rákóczi-országgyűlés helyszíne.", "Forgách-kastély otthona.", "Történelmi főtér.", "Jelentős ferences kolostor."],
-      ro: ["Locul adunării naționale a lui Rákóczi.", "Găzduiește castelul Forgách.", "Piață principală istorică.", "Mănăstire franciscană importantă."],
-      en: ["Site of the Rákóczi national assembly.", "Home to the Forgách Castle.", "Historic main square.", "Significant Franciscan monastery."]
-    }
-    },
-    {
     id: "geo-karanc-extra",
     type: "geo",
     parent: "HU-NO",
@@ -1741,83 +1172,8 @@ export const poiExtraHu1: POI[] = [
       en: ["Masterpiece of Classicism.", "Statues by József Bechert.", "Frescoes by Maulbertsch.", "Monumental appearance."]
     }
     },
-    {
-    id: "geschichte-zambek-romtemplom-extra",
-    type: "geschichte",
-    parent: "HU-PE",
-    coords: [18.71, 47.54],
-    name: { de: "Kirchenruine von Zsámbék", hu: "Zsámbéki romtemplom", ro: "Ruina bisericii din Zsámbék", en: "Zsámbék Church Ruin" },
-    description: {
-      de: "Die Ruine einer spätromanisch-gotischen Basilika, eines der schönsten Denkmäler Ungarns.",
-      hu: "Késő román-gótikus bazilika romja, Magyarország egyik legszebb műemléke.",
-      ro: "Ruina unei bazilici în stil romanic târziu și gotic, unul dintre cele mai frumoase monumente din Ungaria.",
-      en: "The ruin of a late Romanesque-Gothic basilica, one of Hungary's most beautiful monuments."
-    },
-    descriptionAdvanced: {
-      de: "Die Klosterkirche in Zsámbék wurde im 13. Jahrhundert für den Prämonstratenserorden erbaut. Sie wurde 1763 durch ein schweres Erdbeben zerstört und nie wieder aufgebaut. Die Ruine bewahrt beeindruckende Details der romanischen und gotischen Architektur. Neben der Kirche befinden sich die Überreste des Klosters.",
-      hu: "A zsámbéki kolostortemplom a 13. században épült a premontrei rend számára. 1763-ban egy súlyos földrengés rombolta le, és soha nem építették újjá. A rom a román és gótikus építészet lenyűgöző részleteit őrzi. A templom mellett a kolostor maradványai is láthatók.",
-      ro: "Biserica mănăstirii din Zsámbék a fost construită în secolul al XIII-lea pentru ordinul premonstratens. A fost distrusă de un cutremur puternic în 1763 și nu a mai fost reconstruită niciodată. Ruina păstrează detalii impresionante ale arhitecturii romanice și gotice. Lângă biserică se află resturile mănăstirii.",
-      en: "The monastery church in Zsámbék was built in the 13th century for the Premonstratensian order. It was destroyed by a severe earthquake in 1763 and was never rebuilt. The ruin preserves impressive details of Romanesque and Gothic architecture. Beside the church are the remains of the monastery."
-    },
-    facts: {
-      de: ["Erbaut im 13. Jahrhundert.", "Zerstört durch Erdbeben 1763.", "Spätromanischer und gotischer Stil.", "Ikonische Silhouette."],
-      hu: ["A 13. században épült.", "1763-as földrengés pusztította el.", "Késő román és gótikus stílus.", "Ikonikus sziluett."],
-      ro: ["Construită în secolul al XIII-lea.", "Distrusă de cutremurul din 1763.", "Stil romanic târziu și gotic.", "Siluetă iconică."],
-      en: ["Built in the 13th century.", "Destroyed by earthquake in 1763.", "Late Romanesque and Gothic style.", "Iconic silhouette."]
-    }
-    },
-    // HU-SO: Somogy
-    {
-    id: "city-fonyod-extra",
-    type: "city",
-    parent: "HU-SO",
-    coords: [17.55, 46.74],
-    name: { de: "Fonyód", hu: "Fonyód", ro: "Fonyód", en: "Fonyód" },
-    description: {
-      de: "Eine Stadt am Südufer des Balatons, bekannt für ihre Aussichtspunkte und Strände.",
-      hu: "Város a Balaton déli partján, kilátóiról és strandjairól ismert.",
-      ro: "Un oraș pe malul sudic al lacului Balaton, cunoscut pentru punctele sale de observație și plaje.",
-      en: "A town on the southern shore of Lake Balaton, known for its lookout points and beaches."
-    },
-    descriptionAdvanced: {
-      de: "Fonyód liegt auf zwei markanten Hügeln am Südufer des Balatons. Vom Sipos-hegy und Vár-hegy bietet sich der wohl schönste Blick über den See auf die Basaltberge des Nordufers. Die Stadt hat den längsten Pier am See und ist ein beliebter Ferienort mit zahlreichen kostenlosen Stränden.",
-      hu: "Fonyód két jellegzetes dombon fekszik a Balaton déli partján. A Sipos-hegyről és a Vár-hegyről nyílik talán a legszebb kilátás a tóra és az északi part bazalthegyeire. A város rendelkezik a tó leghosszabb mólójával, és népszerű üdülőhely számos szabadstranddal.",
-      ro: "Fonyód se află pe două dealuri distinctive pe malul sudic al lacului Balaton. De pe Sipos-hegy și Vár-hegy se oferă probabil cea mai frumoasă vedere asupra lacului către munții de bazalt de pe malul nordic. Orașul are cel mai lung dig de pe lac și este o stațiune populară cu numeroase plaje gratuite.",
-      en: "Fonyód is located on two distinctive hills on the southern shore of Lake Balaton. From Sipos Hill and Vár Hill, one can enjoy perhaps the most beautiful view over the lake towards the basalt mountains of the northern shore. The town has the longest pier on the lake and is a popular resort with numerous free beaches."
-    },
-    facts: {
-      de: ["Besitzt den längsten Pier am Balaton.", "Toller Blick auf den Badacsony.", "Zwei markante Aussichtshügel.", "Beliebter Ferienort."],
-      hu: ["Itt van a Balaton leghosszabb mólója.", "Pazar kilátás a Badacsonyra.", "Két jellegzetes kilátóhegy.", "Népszerű üdülőváros."],
-      ro: ["Deține cel mai lung dig de pe Balaton.", "Vedere superbă spre Badacsony.", "Două dealuri de observație distinctive.", "Stațiune de vacanță populară."],
-      en: ["Has the longest pier on Lake Balaton.", "Great view of Badacsony.", "Two distinctive lookout hills.", "Popular holiday resort."]
-    }
-    },
-    {
-    id: "city-barcs-extra",
-    type: "city",
-    parent: "HU-SO",
-    coords: [17.46, 45.96],
-    name: { de: "Barcs", hu: "Barcs", ro: "Barcs", en: "Barcs" },
-    description: {
-      de: "Eine Grenzstadt an der Drau, das Zentrum des Drau-Naturschutzgebiets.",
-      hu: "Határváros a Dráva partján, a Dráva menti természetvédelmi terület központja.",
-      ro: "Un oraș de frontieră pe malul râului Drava, centrul rezervației naturale Drava.",
-      en: "A border town on the Drava river, the center of the Drava nature reserve."
-    },
-    descriptionAdvanced: {
-      de: "Barcs liegt direkt an der Grenze zu Kroatien. Die Drau ist hier einer der saubersten und unberührtesten Flüsse Europas. Die Stadt ist das Tor zum Donau-Drau-Nationalpark. Besonders beliebt sind die Bootstouren auf der Drau und das lokale Thermalbad.",
-      hu: "Barcs közvetlenül a horvát határ mentén fekszik. A Dráva itt Európa egyik legtisztább és legérintetlenebb folyója. A város a Duna-Dráva Nemzeti Park kapuja. Különösen népszerűek a drávai hajókirándulások és a helyi termálfürdő.",
-      ro: "Barcs se află chiar pe granița cu Croația. Râul Drava este aici unul dintre cele mai curate și neatinse râuri din Europa. Orașul este poarta către Parcul Național Dunăre-Drava. Sunt deosebit de populare excursiile cu barca pe Drava și baia termală locală.",
-      en: "Barcs is located right on the border with Croatia. The Drava river here is one of the cleanest and most untouched rivers in Europe. The town is the gateway to the Danube-Drava National Park. Boat trips on the Drava and the local thermal bath are particularly popular."
-    },
-    facts: {
-      de: ["Grenzstadt zu Kroatien.", "Liegt an der unberührten Drau.", "Besitzt ein schönes Thermalbad.", "Tor zum Donau-Drau-Nationalpark."],
-      hu: ["Határváros Horvátország felé.", "Az érintetlen Dráva partján fekszik.", "Szép termálfürdővel rendelkezik.", "A Duna-Dráva Nemzeti Park kapuja."],
-      ro: ["Oraș de frontieră cu Croația.", "Situat pe râul virgin Drava.", "Deține o baie termală frumoasă.", "Poarta către Parcul Național Dunăre-Drava."],
-      en: ["Border town to Croatia.", "Located on the untouched Drava river.", "Has a beautiful thermal bath.", "Gateway to the Danube-Drava National Park."]
-    }
-    },
-    {
+  // HU-SO: Somogy
+  {
     id: "geo-zselic-extra",
     type: "geo",
     parent: "HU-SO",
@@ -2042,31 +1398,6 @@ export const poiExtraHu1: POI[] = [
       hu: ["Népszerű termálfürdő.", "Gyulaji vadaskert a közelben.", "Dámvad-főváros.", "Szép természeti környezet."],
       ro: ["Băi termale populare.", "Parcul de vânătoare Gyulaj în apropiere.", "Capitala cerbilor lopătari.", "Cadru natural frumos."],
       en: ["Popular thermal bath.", "Gyulaj game park nearby.", "Fallow deer capital.", "Beautiful natural surroundings."]
-    }
-  },
-  {
-    id: "city-tolna-city-extra",
-    type: "city",
-    parent: "HU-TO",
-    coords: [18.783, 46.425],
-    name: { de: "Tolna", hu: "Tolna", ro: "Tolna", en: "Tolna" },
-    description: {
-      de: "Tolna ist eine historische Stadt an einem Toten Arm der Donau.",
-      hu: "Tolna történelmi város a Duna egyik holtága mentén.",
-      ro: "Tolna este un oraș istoric situat pe un braț mort al Dunării.",
-      en: "Tolna is a historic town along a dead arm of the Danube."
-    },
-    descriptionAdvanced: {
-      de: "Die Stadt gab dem Komitat Tolna seinen Namen. Früher lag sie direkt an der Donau, heute an der Tolnaer Donau-Altarm. Bekannt ist sie für ihre Seidenspinnerei-Tradition und das Blaufärber-Handwerk.",
-      hu: "A város Tolna vármegye névadója. Korábban közvetlenül a Dunánál feküdt, ma a Tolnai-Duna-holtág mellett. Ismert a selyemfonó hagyományairól és a kékfestő mesterségről.",
-      ro: "Orașul a dat numele județului Tolna. Anterior se afla direct pe Dunăre, astăzi lângă brațul mort Tolnai-Duna. Este cunoscut pentru tradițiile sale de filatură de mătase și meșteșugul vopsitului în albastru.",
-      en: "The town gave Tolna County its name. Previously it was located directly on the Danube, today by the Tolna-Danube oxbow lake. It is known for its silk spinning traditions and blue-dyeing craft."
-    },
-    facts: {
-      de: ["Namensgeber des Komitats.", "Am Donau-Altarm gelegen.", "Seidenspinnerei-Museum.", "Blaufärber-Tradition."],
-      hu: ["A vármegye névadója.", "A Duna-holtág mentén fekszik.", "Selyemfonó múzeum.", "Kékfestő hagyományok."],
-      ro: ["Eponimul județului.", "Situat pe brațul mort al Dunării.", "Muzeul filaturii de mătase.", "Tradiția vopsitului în albastru."],
-      en: ["Namesake of the county.", "Located by the Danube oxbow lake.", "Silk spinning museum.", "Blue-dyeing tradition."]
     }
   },
   {

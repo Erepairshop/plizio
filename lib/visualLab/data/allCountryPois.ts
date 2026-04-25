@@ -136,6 +136,7 @@ import { poiExtraDe3b } from "./poiExtraDe3b";
 import { poiExtraDe4a } from "./poiExtraDe4a";
 import { poiExtraDe4b } from "./poiExtraDe4b";
 import { poiExtraDeCities } from "./poiExtraDeCities";
+import { poiExtraDeLebenWirtschaft } from "./poiExtraDeLebenWirtschaft";
 export const ALL_DE_EXTRA_POIS: POI[] = [
   ...poiExtraDeCities,
   ...poiExtraDe1,
@@ -144,4 +145,5 @@ export const ALL_DE_EXTRA_POIS: POI[] = [
   ...poiExtraDe3b,
   ...poiExtraDe4a,
   ...poiExtraDe4b,
+  ...poiExtraDeLebenWirtschaft,
 ];
