@@ -125,7 +125,9 @@ import { poiExtraDe3a } from "./poiExtraDe3a";
 import { poiExtraDe3b } from "./poiExtraDe3b";
 import { poiExtraDe4a } from "./poiExtraDe4a";
 import { poiExtraDe4b } from "./poiExtraDe4b";
+import { poiExtraDeCities } from "./poiExtraDeCities";
 export const ALL_DE_EXTRA_POIS: POI[] = [
+  ...poiExtraDeCities,
   ...poiExtraDe1,
   ...poiExtraDe2,
   ...poiExtraDe3a,

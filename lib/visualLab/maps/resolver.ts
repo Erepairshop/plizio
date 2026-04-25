@@ -22,9 +22,11 @@ import { poiExtraDe3a } from "../data/poiExtraDe3a";
 import { poiExtraDe3b } from "../data/poiExtraDe3b";
 import { poiExtraDe4a } from "../data/poiExtraDe4a";
 import { poiExtraDe4b } from "../data/poiExtraDe4b";
+import { poiExtraDeCities } from "../data/poiExtraDeCities";
 
 const deutschlandPois = [
   ...deutschlandPoisBase,
+  ...poiExtraDeCities,
   ...poiExtraDe1,
   ...poiExtraDe2,
   ...poiExtraDe3a,

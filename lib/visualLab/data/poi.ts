@@ -24,6 +24,7 @@ export type POI = {
   image?: string;
   coa?: string;
   audio?: string;
+  plizioChallenge?: { de: string; hu: string; ro: string; en: string };
 };
 
 // Minden tartomány (id megegyezik az SVG id-vel)
