@@ -260,8 +260,9 @@ const ISO2_TO_COUNTRY: Record<string, string> = {
 
 export function getCountryId(id: string) {
   if (!id) return "germany";
-  // Hungarian regions use bare slugs like "budapest", "baranya" — keep legacy detection
-  if (regions.some(r => r.id === id && r.parent === "HU")) return "hungary";
+  // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
+  const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
+  if (huMatch) return "hungary";
   if (id === "country-vatican") return "vatican";
   // Strip "XX-YY" prefix to get ISO2
   const iso2 = id.includes("-") ? id.split("-")[0].toUpperCase() : id.toUpperCase();
