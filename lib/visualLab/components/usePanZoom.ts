@@ -138,5 +138,5 @@ export function usePanZoom({ viewBox, minScale = 1, maxScale = 6 }: Options) {
 
   const reset = () => setView({ x: 0, y: 0, scale: 1 });
 
-  return { view, zoomAt, reset, svgRef, handlers, dragged };
+  return { view, setView, zoomAt, reset, svgRef, handlers, dragged };
 }

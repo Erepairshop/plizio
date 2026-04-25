@@ -1100,6 +1100,27 @@ function SubRegionView({
   const [subLayer, setSubLayer] = useState<Layer>("all");
   const [subMode, setSubMode] = useState<"browse" | "quiz">("browse");
   const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200", maxScale: 50 });
+  // Auto-fit a kivalasztott megye-shape-re (bbox-bol szamolva)
+  useEffect(() => {
+    if (!detail?.children?.[0]?.path) return;
+    const path = detail.children[0].path as string;
+    const nums = path.match(/-?\d+\.?\d*/g)?.map(Number) ?? [];
+    let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+    for (let i = 0; i < nums.length - 1; i += 2) {
+      minX = Math.min(minX, nums[i]); maxX = Math.max(maxX, nums[i]);
+      minY = Math.min(minY, nums[i + 1]); maxY = Math.max(maxY, nums[i + 1]);
+    }
+    if (!isFinite(minX)) return;
+    const bw = maxX - minX, bh = maxY - minY;
+    if (bw <= 0 || bh <= 0) return;
+    const [, , vbW, vbH] = (detail.viewBox as string).split(" ").map(Number);
+    const padding = 1.2;
+    const scale = Math.min(50, Math.min(vbW / (bw * padding), vbH / (bh * padding)));
+    const cx = (minX + maxX) / 2;
+    const cy = (minY + maxY) / 2;
+    pz.setView({ scale, x: vbW / 2 - cx * scale, y: vbH / 2 - cy * scale });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [stateId]);
   const subProject = useCallback(
     (lon: number, lat: number): [number, number] =>
       detail?.projection ? projectInState(detail.projection, lon, lat) : [0, 0],
