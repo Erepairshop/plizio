@@ -1262,12 +1262,12 @@ function SubRegionView({
                   );
                 })}
 
-                {detail.children.map((c: any) => {
+                {detail.children.map((c: any, idx: number) => {
                   const isHover = hovered === c.id;
                   const isSelected = selected === c.id;
                   return (
                     <path
-                      key={c.id}
+                      key={`${c.id}-${idx}`}
                       d={c.path}
                       fill={isSelected || isHover ? "url(#sub-hot)" : "url(#sub-idle)"}
                       stroke={isSelected ? "#67E8F9" : isHover ? "#22D3EE" : "#0EA5E9"}
@@ -1287,9 +1287,9 @@ function SubRegionView({
                 })}
 
                 <g pointerEvents="none">
-                  {detail.children.map((c: any) => (
+                  {detail.children.map((c: any, idx: number) => (
                     <text
-                      key={`lbl-${c.id}`}
+                      key={`lbl-${c.id}-${idx}`}
                       x={c.labelX}
                       y={c.labelY}
                       textAnchor="middle"
