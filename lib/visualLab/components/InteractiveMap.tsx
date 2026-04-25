@@ -713,10 +713,11 @@ export const InteractiveMap = ({
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
                 const baseR = isSimplified ? 15 : 12;
-                // konstans screen-pixel meret minden zoom szinten (nem no, nem kisebbedik)
-                const r = (isSel ? baseR + 2 : baseR) / view.scale;
-                // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
-                const touchR = Math.max(r * 2.2, 14 / view.scale);
+                // ViewBox-normalizalas: HU/DE/IT eltero viewBox -> egyseges screen-pixel meret
+                const _vb = (deutschlandViewBox || "0 0 1000 1200").split(" ").map(Number);
+                const sizeNorm = Math.max(_vb[2] || 1000, _vb[3] || 1200) / 1200;
+                const r = (isSel ? baseR + 2 : baseR) * sizeNorm / view.scale;
+                const touchR = Math.max(r * 2.2, 14 * sizeNorm / view.scale);
                 const color = poiColor(p.type);
                 // Country-map: csak varos-nevek alapertelmezesben, tobbi POI csak 10x+ zoom utan
                 const isCityLabel = p.type === "city" || p.type === "state-capital";
@@ -727,7 +728,7 @@ export const InteractiveMap = ({
                   : (p.type === "state-capital" ? 17 : 14);
                 // Font max 2x-re no max zoomig (sqrt-progression, nem extrem)
                 const fontGrow = Math.min(2, Math.sqrt(view.scale));
-                const fontSize = baseFont * fontGrow / view.scale;
+                const fontSize = baseFont * fontGrow * sizeNorm / view.scale;
                 const label = p.name[displayLang] ?? p.name.de;
                 return (
                   <g
