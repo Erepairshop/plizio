@@ -61,7 +61,9 @@ import { unitedkingdomAllPoi } from "@/lib/visualLab/data/unitedkingdomPoi";
 import { usaAllPoi } from "@/lib/visualLab/data/usaPoi";
 import { poiExtraHu1 } from "./poiExtraHu1";
 import { poiExtraHu2 } from "./poiExtraHu2";
+import { poiExtraHu3 } from "./poiExtraHu3";
 import { poiExtraRo1 } from "./poiExtraRo1";
+import { poiExtraRo2 } from "./poiExtraRo2";
 
 export const ALL_COUNTRY_POIS = ([
   ...albaniaAllPoi,
@@ -92,6 +94,7 @@ export const ALL_COUNTRY_POIS = ([
   ...hungaryAllPoi,
   ...poiExtraHu1,
   ...poiExtraHu2,
+  ...poiExtraHu3,
   ...irelandAllPoi,
   ...italyAllPoi,
   ...jamaicaAllPoi,
@@ -112,6 +115,7 @@ export const ALL_COUNTRY_POIS = ([
   ...portugalAllPoi,
   ...romaniaAllPois,
   ...poiExtraRo1,
+  ...poiExtraRo2,
   ...sanmarinoAllPoi,
   ...serbiaAllPoi,
   ...slovakiaAllPoi,
