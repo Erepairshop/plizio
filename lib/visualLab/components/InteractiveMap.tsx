@@ -1071,6 +1071,7 @@ function SubRegionView({
   const [hovered, setHovered] = useState<string | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);
+  const [subLayer, setSubLayer] = useState<Layer>("all");
   const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200" });
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
   const { lang: userLang } = useLang();
@@ -1081,6 +1082,7 @@ function SubRegionView({
   const seoLang = displayLang as SeoLang;
   const moreLabel = MORE_LABEL[seoLang];
 
+  const subT = T[displayLang] ?? T.de;
   const title = lang === "hu" ? "Részletek" : lang === "ro" ? "Detalii" : lang === "en" ? "Details" : "Details";
   const empty = lang === "hu" ? "Nincs aldivízió erre az államra."
     : lang === "ro" ? "Nu există subdiviziuni pentru acest stat."
@@ -1111,6 +1113,37 @@ function SubRegionView({
           <X size={20} />
         </button>
       </header>
+
+      {/* Layer filter chips — same as country-level browse */}
+      <div className="flex justify-center px-4 pt-2">
+        <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm overflow-x-auto max-w-full">
+          {(Object.keys(LAYER_TYPES) as Layer[]).map((l) => {
+            const active = subLayer === l;
+            const Icon = l === "cities" ? Building2
+              : l === "nature" ? Mountain
+              : l === "history" ? LandmarkIcon
+              : l === "landmarks" ? Eye
+              : l === "life" ? Sprout
+              : l === "economic" ? Factory
+              : l === "relief" ? MapIcon
+              : Layers;
+            return (
+              <button
+                key={l}
+                onClick={() => setSubLayer(l)}
+                title={subT[l]}
+                className={`
+                  flex items-center gap-1.5 px-2.5 py-1 rounded-full transition text-xs whitespace-nowrap
+                  ${active ? "bg-cyan-500/30 text-cyan-100" : "text-cyan-200/70 hover:text-white hover:bg-cyan-500/15"}
+                `}
+              >
+                <Icon size={13} />
+                <span className="hidden sm:inline">{subT[l]}</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
 
       <div className="flex-1 overflow-y-auto p-4">
         {detail && detail.children.length > 0 ? (
@@ -1180,10 +1213,14 @@ function SubRegionView({
                   ))}
                 </g>
 
-                {/* POIs located inside this Bundesland */}
+                {/* POIs located inside this Bundesland (filtered by sub-layer) */}
                 <g>
                   {pois
-                    .filter((p) => p.type !== "region" && p.parent === stateId)
+                    .filter((p) => {
+                      if (p.type === "region" || p.parent !== stateId) return false;
+                      const allowedTypes = new Set(LAYER_TYPES[subLayer]);
+                      return allowedTypes.has(p.type);
+                    })
                     .map((p) => {
                       const [cx, cy] = projectInState(detail.projection, p.coords[0], p.coords[1]);
                       const color = poiColor(p.type);
