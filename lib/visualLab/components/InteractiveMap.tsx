@@ -1308,13 +1308,13 @@ function SubRegionView({
                   {pois
                     .filter((p) => {
                       if (p.type === "region" || p.parent !== stateId) return false;
-                      // Quiz mode: tipus-szuro (varos-task -> minden varos, geo-task -> minden geo POI)
-                      // NEM csak a 2-5 feladat-specifikus POI; igy a felhasznalo a tobbiek kozott valaszt
+                      // Quiz mode: minden varos + a feladat tipusa lathato (igy nem csak a target lathato)
                       if (subMode === "quiz") {
                         const quizTypes = subQuiz.visiblePoiTypes;
                         if (quizTypes === null) return true;
                         if (quizTypes.length === 0) return false;
-                        return (quizTypes as readonly string[]).includes(p.type);
+                        const allowed = new Set<string>([...quizTypes, "city", "state-capital"]);
+                        return allowed.has(p.type);
                       }
                       const allowedTypes = new Set(LAYER_TYPES[subLayer]);
                       return allowedTypes.has(p.type);

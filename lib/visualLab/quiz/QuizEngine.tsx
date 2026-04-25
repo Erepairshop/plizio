@@ -286,7 +286,14 @@ export function useQuizEngine({
         const { task } = prev;
 
         if (task.type === "click_poi") {
-          const correct = poi.id === task.targetPoiId;
+          // Pontos ID-match VAGY ugyanazon nev (duplikatumok eseten, pl 2 Brocken)
+          let correct = poi.id === task.targetPoiId;
+          if (!correct && task.targetPoiId) {
+            const targetPoi = pois.find((p) => p.id === task.targetPoiId);
+            if (targetPoi && targetPoi.name?.de && poi.name?.de === targetPoi.name.de) {
+              correct = true;
+            }
+          }
           advanceScore(correct);
           return {
             ...prev,
