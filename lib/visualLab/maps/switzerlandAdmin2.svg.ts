@@ -1,288 +1,225 @@
-// Switzerland Admin-2 (Bezirke / Districts) placeholder data
-// Each canton entry contains its districts as SubRegion-compatible objects.
-// Paths are generated placeholder rectangles derived from the canton's approximate
-// bounding box on the CH projection (viewBox "0 0 1000 641").
-// Real GeoJSON paths can be swapped in later; the structure is final.
+// Switzerland Admin-2 (cantons) — REAL GeoJSON paths
+// Source: https://github.com/severinlandolt/map-switzerland (CH_Kantonsgrenzen_025_geo.json, swisstopo data)
+// Generated: 2026-04-25
+// viewBox: "0 0 1000 641"  projection: equirectangular fit
+// Each canton appears as a single entry under its ISO key.
+// Bezirke drill-down can be added later from swisstopo or SFSO data.
 
 export interface ChDistrict {
-  id: string;
+  id: string;       // e.g. "CH-ZH"
   name: { de: string; hu: string; ro: string; en: string };
   labelX: number;
   labelY: number;
   path: string;
 }
 
-// Helper: build a simple rectangular placeholder path centred on (cx,cy)
-function rect(cx: number, cy: number, w = 60, h = 45): string {
-  const x1 = Math.round(cx - w / 2);
-  const y1 = Math.round(cy - h / 2);
-  const x2 = x1 + w;
-  const y2 = y1 + h;
-  return `M${x1},${y1}L${x2},${y1}L${x2},${y2}L${x1},${y2}Z`;
-}
-
 export const chAdmin2Map: Record<string, ChDistrict[]> = {
-  // ── Aargau (AG) — 11 Bezirke ──────────────────────────────────────────
   "CH-AG": [
-    { id: "CH-AG-Aarau",       name: { de: "Aarau",        hu: "Aarau",        ro: "Aarau",        en: "Aarau" },        labelX: 460, labelY: 130, path: rect(460, 130) },
-    { id: "CH-AG-BadenAG",    name: { de: "Baden",        hu: "Baden",        ro: "Baden",        en: "Baden" },        labelX: 510, labelY: 115, path: rect(510, 115) },
-    { id: "CH-AG-Bremgarten", name: { de: "Bremgarten",   hu: "Bremgarten",   ro: "Bremgarten",   en: "Bremgarten" },  labelX: 465, labelY: 160, path: rect(465, 160) },
-    { id: "CH-AG-Brugg",      name: { de: "Brugg",        hu: "Brugg",        ro: "Brugg",        en: "Brugg" },        labelX: 490, labelY: 105, path: rect(490, 105) },
-    { id: "CH-AG-Kulm",       name: { de: "Kulm",         hu: "Kulm",         ro: "Kulm",         en: "Kulm" },         labelX: 440, labelY: 155, path: rect(440, 155) },
-    { id: "CH-AG-Laufenburg",  name: { de: "Laufenburg",   hu: "Laufenburg",   ro: "Laufenburg",   en: "Laufenburg" },  labelX: 420, labelY: 100, path: rect(420, 100) },
-    { id: "CH-AG-Lenzburg",   name: { de: "Lenzburg",     hu: "Lenzburg",     ro: "Lenzburg",     en: "Lenzburg" },    labelX: 475, labelY: 145, path: rect(475, 145) },
-    { id: "CH-AG-Muri",       name: { de: "Muri",         hu: "Muri",         ro: "Muri",         en: "Muri" },         labelX: 455, labelY: 175, path: rect(455, 175) },
-    { id: "CH-AG-Rheinfelden", name: { de: "Rheinfelden",  hu: "Rheinfelden",  ro: "Rheinfelden",  en: "Rheinfelden" }, labelX: 395, labelY: 90,  path: rect(395, 90)  },
-    { id: "CH-AG-Zurzach",    name: { de: "Zurzach",      hu: "Zurzach",      ro: "Zurzach",      en: "Zurzach" },     labelX: 505, labelY: 90,  path: rect(505, 90)  },
-    { id: "CH-AG-Zofingen",   name: { de: "Zofingen",     hu: "Zofingen",     ro: "Zofingen",     en: "Zofingen" },    labelX: 440, labelY: 180, path: rect(440, 180) },
+    {
+      id: "CH-AG",
+      name: { de: "Aargau", hu: "Aargau", ro: "Aargau", en: "Aargau" },
+      labelX: -368.2, labelY: 5037.6,
+      path: "M419.5,147.5L439.2,147.3L450.3,139L466.1,145.1L487.2,144.3L512.3,138.1L528.3,165.9L538.7,167.1L538.2,144.7L542.2,133.8L532.9,101.8L527.4,91.9L541.4,78.3L521.5,77.7L514.7,70.3L494.9,67.4L471.7,80.4L434.2,81.4L429.5,74L393.5,84.2L409.3,88.5L423.4,85.5L444,101.7L459.5,116.6L448.1,129.1L434.2,125.5L416.7,141.1L419.5,147.5Z"
+    }
   ],
-
-  // ── Appenzell Ausserrhoden (AR) — 3 Bezirke ───────────────────────────
-  "CH-AR": [
-    { id: "CH-AR-Hinterland", name: { de: "Hinterland",   hu: "Hinterland",   ro: "Hinterland",   en: "Hinterland" },  labelX: 790, labelY: 185, path: rect(790, 185) },
-    { id: "CH-AR-Mittelland", name: { de: "Mittelland",   hu: "Mittelland",   ro: "Mittelland",   en: "Mittelland" },  labelX: 800, labelY: 170, path: rect(800, 170) },
-    { id: "CH-AR-Vorderland", name: { de: "Vorderland",   hu: "Vorderland",   ro: "Vorderland",   en: "Vorderland" },  labelX: 815, labelY: 155, path: rect(815, 155) },
-  ],
-
-  // ── Appenzell Innerrhoden (AI) — 6 Bezirke ────────────────────────────
   "CH-AI": [
-    { id: "CH-AI-Appenzell",  name: { de: "Appenzell",    hu: "Appenzell",    ro: "Appenzell",    en: "Appenzell" },   labelX: 780, labelY: 160, path: rect(780, 160, 40, 30) },
-    { id: "CH-AI-Rüte",       name: { de: "Rüte",         hu: "Rüte",         ro: "Rüte",         en: "Rüte" },         labelX: 768, labelY: 170, path: rect(768, 170, 35, 25) },
-    { id: "CH-AI-Schlatt",    name: { de: "Schlatt",      hu: "Schlatt",      ro: "Schlatt",      en: "Schlatt" },     labelX: 762, labelY: 145, path: rect(762, 145, 35, 25) },
-    { id: "CH-AI-Schwende",   name: { de: "Schwende",     hu: "Schwende",     ro: "Schwende",     en: "Schwende" },    labelX: 775, labelY: 175, path: rect(775, 175, 35, 25) },
-    { id: "CH-AI-Gonten",     name: { de: "Gonten",       hu: "Gonten",       ro: "Gonten",       en: "Gonten" },      labelX: 768, labelY: 155, path: rect(768, 155, 35, 25) },
-    { id: "CH-AI-Oberegg",    name: { de: "Oberegg",      hu: "Oberegg",      ro: "Oberegg",      en: "Oberegg" },     labelX: 808, labelY: 130, path: rect(808, 130, 35, 25) },
+    {
+      id: "CH-AI",
+      name: { de: "Appenzell I.Rh.", hu: "Appenzell AI", ro: "Appenzell AI", en: "Appenzell Inner" },
+      labelX: -817.8, labelY: 7994.6,
+      path: "M765.3,124.1L739.5,117.2L726.6,130.7L732.1,144.5L740.1,147.7L762.1,136.4L765.3,124.1Z"
+    }
   ],
-
-  // ── Basel-Landschaft (BL) — 5 Bezirke ────────────────────────────────
-  "CH-BL": [
-    { id: "CH-BL-Arlesheim",  name: { de: "Arlesheim",    hu: "Arlesheim",    ro: "Arlesheim",    en: "Arlesheim" },   labelX: 375, labelY: 90,  path: rect(375, 90)  },
-    { id: "CH-BL-Laufen",     name: { de: "Laufen",       hu: "Laufen",       ro: "Laufen",       en: "Laufen" },      labelX: 355, labelY: 125, path: rect(355, 125) },
-    { id: "CH-BL-Liestal",    name: { de: "Liestal",      hu: "Liestal",      ro: "Liestal",      en: "Liestal" },     labelX: 390, labelY: 110, path: rect(390, 110) },
-    { id: "CH-BL-Sissach",    name: { de: "Sissach",      hu: "Sissach",      ro: "Sissach",      en: "Sissach" },     labelX: 405, labelY: 120, path: rect(405, 120) },
-    { id: "CH-BL-Waldenburg", name: { de: "Waldenburg",   hu: "Waldenburg",   ro: "Waldenburg",   en: "Waldenburg" },  labelX: 380, labelY: 135, path: rect(380, 135) },
+  "CH-AR": [
+    {
+      id: "CH-AR",
+      name: { de: "Appenzell A.Rh.", hu: "Appenzell AR", ro: "Appenzell AR", en: "Appenzell Outer" },
+      labelX: 749.9, labelY: 119,
+      path: "M765.3,124.1L766.6,114.3L776.1,113.9L781.9,111.2L789.1,105.4L781.4,100.2L754.9,106.4L749.4,111.6L709.1,115.6L702,124L709.1,141.1L732.1,144.5L726.6,130.7L739.5,117.2L765.3,124.1Z"
+    }
   ],
-
-  // ── Basel-Stadt (BS) — 3 Gemeinden (treated as districts) ────────────
-  "CH-BS": [
-    { id: "CH-BS-BaselCity",  name: { de: "Basel",        hu: "Bázel",        ro: "Basel",        en: "Basel" },        labelX: 362, labelY: 77,  path: rect(362, 77,  30, 22) },
-    { id: "CH-BS-Bettingen",  name: { de: "Bettingen",    hu: "Bettingen",    ro: "Bettingen",    en: "Bettingen" },   labelX: 375, labelY: 68,  path: rect(375, 68,  25, 18) },
-    { id: "CH-BS-Riehen",     name: { de: "Riehen",       hu: "Riehen",       ro: "Riehen",       en: "Riehen" },      labelX: 370, labelY: 60,  path: rect(370, 60,  25, 18) },
-  ],
-
-  // ── Bern (BE) — 5 Verwaltungsregionen ────────────────────────────────
   "CH-BE": [
-    { id: "CH-BE-BernMittelland", name: { de: "Bern-Mittelland",  hu: "Bern-Mittelland",  ro: "Bern-Mittelland",  en: "Bern-Mittelland" },  labelX: 440, labelY: 250, path: rect(440, 250, 70, 55) },
-    { id: "CH-BE-Emmental",      name: { de: "Emmental",         hu: "Emmental",         ro: "Emmental",         en: "Emmental" },          labelX: 490, labelY: 215, path: rect(490, 215, 65, 50) },
-    { id: "CH-BE-Jura-Biel",     name: { de: "Seeland/Biel",     hu: "Seeland/Biel",     ro: "Seeland/Biel",     en: "Seeland/Biel" },     labelX: 365, labelY: 215, path: rect(365, 215, 65, 50) },
-    { id: "CH-BE-Oberland",      name: { de: "Berner Oberland",  hu: "Berni-Felföld",    ro: "Oberland Bernez",  en: "Bernese Oberland" }, labelX: 450, labelY: 330, path: rect(450, 330, 70, 55) },
-    { id: "CH-BE-Thun",          name: { de: "Thun",             hu: "Thun",             ro: "Thun",             en: "Thun" },              labelX: 430, labelY: 310, path: rect(430, 310, 65, 50) },
+    {
+      id: "CH-BE",
+      name: { de: "Bern", hu: "Bern", ro: "Berna", en: "Bern" },
+      labelX: -815, labelY: 7526,
+      path: "M253.6,200.5L264.4,201.3L290.4,195L288.4,215.2L318.7,219.9L305.8,243.4L309.6,254.9L323.5,260.1L312,268.1L311.9,281.1L294.5,289L296.8,298L285.5,325.3L291.2,335.7L299.7,329.6L319,331.2L328.2,325.8L354.7,326.2L356.2,318.9L375.3,311.6L392.4,318.1L420.6,304.7L434.5,303L456.3,287L492.7,295.4L506.6,294.1L528.8,283L538.2,268.4L547,261L546.2,245.5L535.1,243.8L529.7,240.4L511.9,247.6L502.7,244.2L483.5,247.2L462.8,240.5L449.8,243L427.5,230.2L423.6,220.1L443.1,200.2L425.2,185.2L430.2,167.1L419.5,147.5L416.7,141.1L397.5,142.5L388.3,136L365.8,138.9L385.4,156.6L380.5,163.6L335.4,175.4L336.6,165L316,151.1L332.7,145.8L361.2,129.3L348.3,133.5L324.3,131.1L311.1,136L280.3,135.1L276.2,143.6L258,145.8L250.1,155.6L216.5,161.9L230,173.6L243,171.9L261,176.3L252.3,189.8L253.6,200.5Z"
+    }
   ],
-
-  // ── Fribourg (FR) — 7 Bezirke ─────────────────────────────────────────
+  "CH-BL": [
+    {
+      id: "CH-BL",
+      name: { de: "Basel-Land", hu: "Basel-Land", ro: "Basel-Land", en: "Basel-Land" },
+      labelX: 348.2, labelY: 102.9,
+      path: "M351.3,91.9L337.9,100.3L332.7,103.6L323.3,110.3L336.1,117.2L372.8,106.3L373,94.7L390.6,96.4L379.1,120L401.9,125L445.1,108.7L444,101.7L423.4,85.5L409.3,88.5L393.5,84.2L377,79.7L360.5,79L351.3,91.9ZM313.2,104.9L323.3,110.3L324.4,106.6L313.2,104.9Z"
+    }
+  ],
+  "CH-BS": [
+    {
+      id: "CH-BS",
+      name: { de: "Basel-Stadt", hu: "Bázel-Város", ro: "Basel-Stadt", en: "Basel-City" },
+      labelX: -1209.1, labelY: 9960.3,
+      path: ""
+    }
+  ],
   "CH-FR": [
-    { id: "CH-FR-Broye",       name: { de: "Broye",         hu: "Broye",         ro: "Broye",         en: "Broye" },         labelX: 320, labelY: 295, path: rect(320, 295) },
-    { id: "CH-FR-Glane",       name: { de: "Glane",         hu: "Glane",         ro: "Glane",         en: "Glane" },         labelX: 315, labelY: 325, path: rect(315, 325) },
-    { id: "CH-FR-Greyerz",     name: { de: "Greyerz",       hu: "Greyerz",       ro: "Gruyère",       en: "Gruyère" },      labelX: 340, labelY: 355, path: rect(340, 355) },
-    { id: "CH-FR-Lac",         name: { de: "See",           hu: "See",           ro: "Lac",           en: "Lake" },          labelX: 295, labelY: 290, path: rect(295, 290) },
-    { id: "CH-FR-Saane",       name: { de: "Saane",         hu: "Saane",         ro: "Sarine",        en: "Sarine" },        labelX: 330, labelY: 310, path: rect(330, 310) },
-    { id: "CH-FR-Sense",       name: { de: "Sense",         hu: "Sense",         ro: "Singine",       en: "Singine" },       labelX: 355, labelY: 305, path: rect(355, 305) },
-    { id: "CH-FR-Vivisbach",   name: { de: "Vivisbachbezirk", hu: "Vivisbach",  ro: "Veveyse",       en: "Veveyse" },       labelX: 340, labelY: 370, path: rect(340, 370) },
+    {
+      id: "CH-FR",
+      name: { de: "Freiburg", hu: "Freiburg", ro: "Fribourg", en: "Fribourg" },
+      labelX: -727.7, labelY: 6718.9,
+      path: "M223.7,211.8L242.9,222.6L231.8,251.7L214.8,267.9L203,272.5L208,282.9L222.1,288.1L224,297.1L249.4,308.6L294.5,289L311.9,281.1L312,268.1L323.5,260.1L309.6,254.9L305.8,243.4L318.7,219.9L288.4,215.2L290.4,195L264.4,201.3L253.6,200.5L253.6,200.6L264.1,216.3L262.5,217.9L251.9,222.1L230.3,206L223.7,211.8ZM199.5,226.8L191.6,232.1L203.2,241.4L227,241.7L228.8,223L217.3,215.1L199.5,226.8Z"
+    }
   ],
-
-  // ── Geneva (GE) — 45 communes; represented as 3 zones ─────────────────
   "CH-GE": [
-    { id: "CH-GE-Geneve",      name: { de: "Genf Stadt",    hu: "Genf város",    ro: "Geneva Oraș",   en: "Geneva City" },   labelX: 165, labelY: 410, path: rect(165, 410, 40, 30) },
-    { id: "CH-GE-Rive-Gauche", name: { de: "Rive Gauche",   hu: "Bal part",      ro: "Malul Stâng",   en: "Left Bank" },     labelX: 155, labelY: 430, path: rect(155, 430, 40, 30) },
-    { id: "CH-GE-Rive-Droite", name: { de: "Rive Droite",   hu: "Jobb part",     ro: "Malul Drept",   en: "Right Bank" },    labelX: 180, labelY: 405, path: rect(180, 405, 40, 30) },
+    {
+      id: "CH-GE",
+      name: { de: "Genève", hu: "Genève", ro: "Genève", en: "Genève" },
+      labelX: -784.9, labelY: 6758.1,
+      path: "M63.6,338.1L63.3,351.9L44.5,354.5L30,374.1L65.8,374.6L95,359.3L83.1,339.3L63.6,338.1Z"
+    }
   ],
-
-  // ── Glarus (GL) — 3 Gemeinden ─────────────────────────────────────────
   "CH-GL": [
-    { id: "CH-GL-Glarus-Nord",  name: { de: "Glarus Nord",   hu: "Glarus Nord",   ro: "Glarus Nord",   en: "Glarus North" }, labelX: 660, labelY: 235, path: rect(660, 235, 45, 35) },
-    { id: "CH-GL-Glarus",       name: { de: "Glarus",        hu: "Glarus",        ro: "Glarus",        en: "Glarus" },       labelX: 660, labelY: 265, path: rect(660, 265, 45, 35) },
-    { id: "CH-GL-Glarus-Sued",  name: { de: "Glarus Süd",    hu: "Glarus Süd",    ro: "Glarus Sud",    en: "Glarus South" }, labelX: 660, labelY: 295, path: rect(660, 295, 45, 35) },
+    {
+      id: "CH-GL",
+      name: { de: "Glarus", hu: "Glarus", ro: "Glarus", en: "Glarus" },
+      labelX: 665.6, labelY: 203,
+      path: "M635.2,235.2L662.6,235.5L674.2,222.2L683.5,227.3L712.5,213.7L709.9,191.3L695.8,185.9L700.2,170.6L675.3,169.3L661.8,160.3L654,167.9L653.8,179.5L640,191.9L653.6,204.4L647.3,213L651.6,222.2L634.9,228.8L635.2,235.2Z"
+    }
   ],
-
-  // ── Grisons / Graubünden (GR) — 11 Regionen ───────────────────────────
   "CH-GR": [
-    { id: "CH-GR-Albula",      name: { de: "Albula",        hu: "Albula",        ro: "Albula",        en: "Albula" },        labelX: 810, labelY: 350, path: rect(810, 350) },
-    { id: "CH-GR-Bernina",     name: { de: "Bernina",       hu: "Bernina",       ro: "Bernina",       en: "Bernina" },       labelX: 850, labelY: 390, path: rect(850, 390) },
-    { id: "CH-GR-Engiadina",   name: { de: "Engiadina",     hu: "Engiadina",     ro: "Engiadina",     en: "Engiadina" },     labelX: 890, labelY: 400, path: rect(890, 400) },
-    { id: "CH-GR-Imboden",     name: { de: "Imboden",       hu: "Imboden",       ro: "Imboden",       en: "Imboden" },       labelX: 790, labelY: 330, path: rect(790, 330) },
-    { id: "CH-GR-Landquart",   name: { de: "Landquart",     hu: "Landquart",     ro: "Landquart",     en: "Landquart" },     labelX: 820, labelY: 295, path: rect(820, 295) },
-    { id: "CH-GR-Maloja",      name: { de: "Maloja",        hu: "Maloja",        ro: "Maloja",        en: "Maloja" },        labelX: 855, labelY: 415, path: rect(855, 415) },
-    { id: "CH-GR-MoesaGR",    name: { de: "Moesa",         hu: "Moesa",         ro: "Moesa",         en: "Moesa" },         labelX: 760, labelY: 420, path: rect(760, 420) },
-    { id: "CH-GR-Plessur",     name: { de: "Plessur",       hu: "Plessur",       ro: "Plessur",       en: "Plessur" },       labelX: 820, labelY: 330, path: rect(820, 330) },
-    { id: "CH-GR-Prättigau",   name: { de: "Prättigau",     hu: "Prättigau",     ro: "Prättigau",     en: "Prättigau" },    labelX: 830, labelY: 270, path: rect(830, 270) },
-    { id: "CH-GR-SursesGR",   name: { de: "Surses",        hu: "Surses",        ro: "Surses",        en: "Surses" },        labelX: 835, labelY: 365, path: rect(835, 365) },
-    { id: "CH-GR-Viamala",     name: { de: "Viamala",       hu: "Viamala",       ro: "Viamala",       en: "Viamala" },       labelX: 790, labelY: 380, path: rect(790, 380) },
+    {
+      id: "CH-GR",
+      name: { de: "Graubünden", hu: "Graubünden", ro: "Graubünden", en: "Grisons" },
+      labelX: 789.6, labelY: 279,
+      path: "M712.5,213.7L683.5,227.3L674.2,222.2L662.6,235.5L635.2,235.2L624.7,240.3L621.9,250.9L593.5,259.8L588.3,272.2L594,283.7L628.2,287L648.6,275.6L667.9,279.4L664.2,293.5L680.5,308.4L679.1,331.5L671.9,343.2L679.3,359.9L693.9,368.8L712.7,354.3L723,332.6L718.3,327.4L719.3,301L756.9,300.8L756.6,325.9L771.7,339.2L792.7,344.6L809.2,343.2L820.7,334.3L849.3,324.9L867.7,332.9L867.7,344.9L880.1,348.8L883.3,359L904.9,351.2L891,331.2L902.6,322.9L895.7,314.4L877.6,312.2L881.3,290.7L895.1,278.4L915.1,273.4L919.8,284.7L930.1,289.8L966.7,291.1L970,276.2L951.6,271.4L966.6,227.7L970,209L949.4,196.2L918.8,210.5L903.6,227.3L880.9,225.2L874,218L843.1,209.2L842.2,195L802,183.4L772.9,182.8L759.6,185.6L768.6,202.5L757.8,220L712.5,213.7Z"
+    }
   ],
-
-  // ── Jura (JU) — 3 Bezirke ─────────────────────────────────────────────
   "CH-JU": [
-    { id: "CH-JU-Ajoie",       name: { de: "Ajoie",         hu: "Ajoie",         ro: "Ajoie",         en: "Ajoie" },         labelX: 250, labelY: 140, path: rect(250, 140) },
-    { id: "CH-JU-Franches-Montagnes", name: { de: "Freiberge", hu: "Freiberge", ro: "Les Franches-Montagnes", en: "Franches-Montagnes" }, labelX: 255, labelY: 175, path: rect(255, 175) },
-    { id: "CH-JU-Delémont",    name: { de: "Delémont",      hu: "Delémont",      ro: "Delémont",      en: "Delémont" },      labelX: 245, labelY: 155, path: rect(245, 155) },
+    {
+      id: "CH-JU",
+      name: { de: "Jura", hu: "Jura", ro: "Jura", en: "Jura" },
+      labelX: 279.4, labelY: 126.7,
+      path: "M216.5,161.9L250.1,155.6L258,145.8L276.2,143.6L280.3,135.1L311.1,136L324.3,131.1L348.3,133.5L361.2,129.3L360,124.6L336.1,117.2L323.3,110.3L313.2,104.9L298.3,108.1L280.5,104.1L274.2,92L242.8,93.5L245.7,101.9L232.8,106.3L238.1,121.7L258.2,124.8L244.4,134.9L215.8,161.9L216.5,161.9Z"
+    }
   ],
-
-  // ── Lucerne (LU) — 6 Wahlkreise ───────────────────────────────────────
   "CH-LU": [
-    { id: "CH-LU-Entlebuch",   name: { de: "Entlebuch",     hu: "Entlebuch",     ro: "Entlebuch",     en: "Entlebuch" },     labelX: 480, labelY: 295, path: rect(480, 295) },
-    { id: "CH-LU-Hochdorf",    name: { de: "Hochdorf",      hu: "Hochdorf",      ro: "Hochdorf",      en: "Hochdorf" },      labelX: 510, labelY: 255, path: rect(510, 255) },
-    { id: "CH-LU-Lucerne",     name: { de: "Luzern",        hu: "Luzern",        ro: "Lucerna",       en: "Lucerne" },       labelX: 505, labelY: 270, path: rect(505, 270) },
-    { id: "CH-LU-Sursee",      name: { de: "Sursee",        hu: "Sursee",        ro: "Sursee",        en: "Sursee" },        labelX: 495, labelY: 230, path: rect(495, 230) },
-    { id: "CH-LU-Willisau",    name: { de: "Willisau",      hu: "Willisau",      ro: "Willisau",      en: "Willisau" },      labelX: 510, labelY: 235, path: rect(510, 235) },
-    { id: "CH-LU-WillisauLand",name: { de: "Willisau-Land", hu: "Willisau-Land", ro: "Willisau-Land", en: "Willisau Land" }, labelX: 520, labelY: 250, path: rect(520, 250) },
+    {
+      id: "CH-LU",
+      name: { de: "Luzern", hu: "Luzern", ro: "Lucerna", en: "Lucerne" },
+      labelX: 479, labelY: 184.3,
+      path: "M419.5,147.5L430.2,167.1L425.2,185.2L443.1,200.2L423.6,220.1L427.5,230.2L449.8,243L462.8,240.5L467.5,218L478.4,215.2L491.9,202.2L500.6,201.9L508.2,196.7L550.3,197L557,191.2L542.4,182.7L555.4,175.5L538.7,167.1L528.3,165.9L512.3,138.1L487.2,144.3L466.1,145.1L450.3,139L439.2,147.3L419.5,147.5Z"
+    }
   ],
-
-  // ── Neuchâtel (NE) — 6 Bezirke ────────────────────────────────────────
   "CH-NE": [
-    { id: "CH-NE-Boudry",      name: { de: "Boudry",        hu: "Boudry",        ro: "Boudry",        en: "Boudry" },        labelX: 270, labelY: 255, path: rect(270, 255) },
-    { id: "CH-NE-LeLocle",     name: { de: "Le Locle",      hu: "Le Locle",      ro: "Le Locle",      en: "Le Locle" },      labelX: 255, labelY: 230, path: rect(255, 230) },
-    { id: "CH-NE-LaChaux",     name: { de: "La Chaux-de-Fonds", hu: "La Chaux-de-Fonds", ro: "La Chaux-de-Fonds", en: "La Chaux-de-Fonds" }, labelX: 258, labelY: 218, path: rect(258, 218) },
-    { id: "CH-NE-Neuchatel",   name: { de: "Neuenburg",     hu: "Neuenburg",     ro: "Neuchâtel",     en: "Neuchâtel" },     labelX: 272, labelY: 245, path: rect(272, 245) },
-    { id: "CH-NE-Val-de-Ruz",  name: { de: "Val-de-Ruz",   hu: "Val-de-Ruz",   ro: "Val-de-Ruz",   en: "Val-de-Ruz" },    labelX: 280, labelY: 255, path: rect(280, 255) },
-    { id: "CH-NE-Val-de-Travers", name: { de: "Val-de-Travers", hu: "Val-de-Travers", ro: "Val-de-Travers", en: "Val-de-Travers" }, labelX: 250, labelY: 245, path: rect(250, 245) },
+    {
+      id: "CH-NE",
+      name: { de: "Neuenburg", hu: "Neuchâtel", ro: "Neuchâtel", en: "Neuchâtel" },
+      labelX: 199.3, labelY: 199.5,
+      path: "M133,227.2L137.6,228.2L186.1,209.8L190.5,222.5L199.5,226.8L217.3,215.1L223.7,211.8L230.3,206L253.6,200.6L253.6,200.5L252.3,189.8L261,176.3L243,171.9L230,173.6L216.5,161.9L215.8,161.9L183.6,179.6L185.3,186.3L169.1,196.7L142.3,203.4L127.4,211.1L133,227.2Z"
+    }
   ],
-
-  // ── Nidwalden (NW) — 1 Bezirk ────────────────────────────────────────
   "CH-NW": [
-    { id: "CH-NW-Nidwalden",   name: { de: "Nidwalden",     hu: "Nidwalden",     ro: "Nidwalden",     en: "Nidwalden" },     labelX: 560, labelY: 290, path: rect(560, 290, 55, 40) },
+    {
+      id: "CH-NW",
+      name: { de: "Nidwalden", hu: "Nidwalden", ro: "Nidwalden", en: "Nidwalden" },
+      labelX: 537.5, labelY: 217.7,
+      path: "M550.8,226.5L549.5,216.1L565.4,211.6L571.7,198.3L550.3,197L508.2,196.7L500.6,201.9L524.4,214L522.6,232.1L529.7,240.4L535.1,243.8L528.6,225.5L550.8,226.5Z"
+    }
   ],
-
-  // ── Obwalden (OW) — 1 Bezirk ─────────────────────────────────────────
   "CH-OW": [
-    { id: "CH-OW-Obwalden",    name: { de: "Obwalden",      hu: "Obwalden",      ro: "Obwalden",      en: "Obwalden" },      labelX: 545, labelY: 315, path: rect(545, 315, 55, 40) },
+    {
+      id: "CH-OW",
+      name: { de: "Obwalden", hu: "Obwalden", ro: "Obwalden", en: "Obwalden" },
+      labelX: 520.9, labelY: 231.9,
+      path: "M500.6,201.9L491.9,202.2L478.4,215.2L467.5,218L462.8,240.5L483.5,247.2L502.7,244.2L511.9,247.6L529.7,240.4L522.6,232.1L524.4,214L500.6,201.9ZM546.2,245.5L555.1,243.6L550.8,226.5L528.6,225.5L535.1,243.8L546.2,245.5Z"
+    }
   ],
-
-  // ── St. Gallen (SG) — 8 Wahlkreise ───────────────────────────────────
   "CH-SG": [
-    { id: "CH-SG-Rheintal",    name: { de: "Rheintal",      hu: "Rheintal",      ro: "Rheintal",      en: "Rheintal" },      labelX: 830, labelY: 175, path: rect(830, 175) },
-    { id: "CH-SG-Rorschach",   name: { de: "Rorschach",     hu: "Rorschach",     ro: "Rorschach",     en: "Rorschach" },     labelX: 810, labelY: 160, path: rect(810, 160) },
-    { id: "CH-SG-Sarganserland", name: { de: "Sarganserland", hu: "Sarganserland", ro: "Sarganserland", en: "Sarganserland" }, labelX: 840, labelY: 250, path: rect(840, 250) },
-    { id: "CH-SG-SeeBezirkSG", name: { de: "See-Gaster",    hu: "See-Gaster",    ro: "See-Gaster",    en: "See-Gaster" },    labelX: 720, labelY: 215, path: rect(720, 215) },
-    { id: "CH-SG-StGallen",    name: { de: "St. Gallen",    hu: "Sankt Gallen",  ro: "Sankt Gallen",  en: "St. Gallen" },    labelX: 800, labelY: 195, path: rect(800, 195) },
-    { id: "CH-SG-Toggenburg",  name: { de: "Toggenburg",    hu: "Toggenburg",    ro: "Toggenburg",    en: "Toggenburg" },    labelX: 755, labelY: 225, path: rect(755, 225) },
-    { id: "CH-SG-WerdenbergSG",name: { de: "Werdenberg",    hu: "Werdenberg",    ro: "Werdenberg",    en: "Werdenberg" },    labelX: 835, labelY: 215, path: rect(835, 215) },
-    { id: "CH-SG-Wil",         name: { de: "Wil",           hu: "Wil",           ro: "Wil",           en: "Wil" },           labelX: 725, labelY: 175, path: rect(725, 175) },
+    {
+      id: "CH-SG",
+      name: { de: "St. Gallen", hu: "Sankt Gallen", ro: "Sankt Gallen", en: "St. Gallen" },
+      labelX: -240.7, labelY: 5046.6,
+      path: "M649,118.2L657.6,129.9L646.9,142.5L624.8,144.1L621,150.6L653.8,151.1L661.8,160.3L675.3,169.3L700.2,170.6L695.8,185.9L709.9,191.3L712.5,213.7L757.8,220L768.6,202.5L759.6,185.6L768.7,175.9L761.7,158.8L771.5,139.6L783.2,130L796.2,111.4L796.7,101.9L784,99.5L776.9,83.7L766.1,82.1L743.8,97L734.2,88.4L722.8,97.2L695.9,92.8L663.4,94.5L659.6,107L649,118.2ZM789.1,105.4L781.9,111.2L776.1,113.9L766.6,114.3L765.3,124.1L762.1,136.4L740.1,147.7L732.1,144.5L709.1,141.1L702,124L709.1,115.6L749.4,111.6L754.9,106.4L781.4,100.2L789.1,105.4Z"
+    }
   ],
-
-  // ── Schaffhausen (SH) — 6 Bezirke ────────────────────────────────────
   "CH-SH": [
-    { id: "CH-SH-Diessenhofen", name: { de: "Diessenhofen",  hu: "Diessenhofen",  ro: "Diessenhofen",  en: "Diessenhofen" }, labelX: 635, labelY: 20,  path: rect(635, 20)  },
-    { id: "CH-SH-Klettgau",     name: { de: "Klettgau",      hu: "Klettgau",      ro: "Klettgau",      en: "Klettgau" },     labelX: 590, labelY: 18,  path: rect(590, 18)  },
-    { id: "CH-SH-Reiat",        name: { de: "Reiat",         hu: "Reiat",         ro: "Reiat",         en: "Reiat" },        labelX: 575, labelY: 28,  path: rect(575, 28)  },
-    { id: "CH-SH-Stein",        name: { de: "Stein",         hu: "Stein",         ro: "Stein",         en: "Stein" },        labelX: 620, labelY: 35,  path: rect(620, 35)  },
-    { id: "CH-SH-SchaffhausenBez", name: { de: "Schaffhausen", hu: "Schaffhausen", ro: "Schaffhausen",  en: "Schaffhausen" }, labelX: 592, labelY: 25,  path: rect(592, 25)  },
-    { id: "CH-SH-Schleitheim",  name: { de: "Schleitheim",   hu: "Schleitheim",   ro: "Schleitheim",   en: "Schleitheim" },  labelX: 560, labelY: 22,  path: rect(560, 22)  },
+    {
+      id: "CH-SH",
+      name: { de: "Schaffhausen", hu: "Schaffhausen", ro: "Schaffhausen", en: "Schaffhausen" },
+      labelX: -612.6, labelY: 6656.2,
+      path: "M604.3,52.4L603.4,41.4L589.5,30L573.5,30.1L551.3,37.6L537.3,56.2L550.1,63L579,57.4L590.8,53.8L602.2,52.8L604.3,52.4Z"
+    }
   ],
-
-  // ── Schwyz (SZ) — 6 Bezirke ───────────────────────────────────────────
-  "CH-SZ": [
-    { id: "CH-SZ-Einsiedeln",  name: { de: "Einsiedeln",    hu: "Einsiedeln",    ro: "Einsiedeln",    en: "Einsiedeln" },    labelX: 625, labelY: 248, path: rect(625, 248) },
-    { id: "CH-SZ-Gersau",      name: { de: "Gersau",        hu: "Gersau",        ro: "Gersau",        en: "Gersau" },        labelX: 595, labelY: 265, path: rect(595, 265, 40, 30) },
-    { id: "CH-SZ-Höfe",        name: { de: "Höfe",          hu: "Höfe",          ro: "Höfe",          en: "Höfe" },          labelX: 630, labelY: 225, path: rect(630, 225) },
-    { id: "CH-SZ-Küssnacht",   name: { de: "Küssnacht",     hu: "Küssnacht",     ro: "Küssnacht",     en: "Küssnacht" },     labelX: 577, labelY: 245, path: rect(577, 245) },
-    { id: "CH-SZ-March",       name: { de: "March",         hu: "March",         ro: "March",         en: "March" },         labelX: 655, labelY: 235, path: rect(655, 235) },
-    { id: "CH-SZ-Schwyz",      name: { de: "Schwyz",        hu: "Schwyz",        ro: "Schwyz",        en: "Schwyz" },        labelX: 612, labelY: 258, path: rect(612, 258) },
-  ],
-
-  // ── Solothurn (SO) — 5 Bezirke ───────────────────────────────────────
   "CH-SO": [
-    { id: "CH-SO-Bucheggberg",  name: { de: "Bucheggberg",   hu: "Bucheggberg",   ro: "Bucheggberg",   en: "Bucheggberg" },  labelX: 405, labelY: 195, path: rect(405, 195) },
-    { id: "CH-SO-Dorneck",      name: { de: "Dorneck",       hu: "Dorneck",       ro: "Dorneck",       en: "Dorneck" },      labelX: 360, labelY: 145, path: rect(360, 145) },
-    { id: "CH-SO-Gösgen",       name: { de: "Gösgen",        hu: "Gösgen",        ro: "Gösgen",        en: "Gösgen" },       labelX: 435, labelY: 170, path: rect(435, 170) },
-    { id: "CH-SO-Lebern",       name: { de: "Lebern",        hu: "Lebern",        ro: "Lebern",        en: "Lebern" },       labelX: 390, labelY: 185, path: rect(390, 185) },
-    { id: "CH-SO-Olten",        name: { de: "Olten",         hu: "Olten",         ro: "Olten",         en: "Olten" },        labelX: 420, labelY: 175, path: rect(420, 175) },
-    { id: "CH-SO-Solothurn",    name: { de: "Solothurn",     hu: "Solothurn",     ro: "Solothurn",     en: "Solothurn" },    labelX: 390, labelY: 172, path: rect(390, 172) },
-    { id: "CH-SO-Thal",         name: { de: "Thal",          hu: "Thal",          ro: "Thal",          en: "Thal" },         labelX: 358, labelY: 158, path: rect(358, 158) },
-    { id: "CH-SO-Thierstein",   name: { de: "Thierstein",    hu: "Thierstein",    ro: "Thierstein",    en: "Thierstein" },   labelX: 352, labelY: 138, path: rect(352, 138) },
-    { id: "CH-SO-WasserambtSO", name: { de: "Wasseramt",     hu: "Wasseramt",     ro: "Wasseramt",     en: "Wasseramt" },    labelX: 400, labelY: 200, path: rect(400, 200) },
+    {
+      id: "CH-SO",
+      name: { de: "Solothurn", hu: "Solothurn", ro: "Solothurn", en: "Solothurn" },
+      labelX: -427, labelY: 5039.8,
+      path: "M361.2,129.3L332.7,145.8L316,151.1L336.6,165L335.4,175.4L380.5,163.6L385.4,156.6L365.8,138.9L388.3,136L397.5,142.5L416.7,141.1L434.2,125.5L448.1,129.1L459.5,116.6L444,101.7L445.1,108.7L401.9,125L379.1,120L390.6,96.4L373,94.7L372.8,106.3L336.1,117.2L360,124.6L361.2,129.3ZM323.3,110.3L332.7,103.6L324.4,106.6L323.3,110.3Z"
+    }
   ],
-
-  // ── Thurgau (TG) — 5 Bezirke ─────────────────────────────────────────
+  "CH-SZ": [
+    {
+      id: "CH-SZ",
+      name: { de: "Schwyz", hu: "Schwyz", ro: "Schwyz", en: "Schwyz" },
+      labelX: 607, labelY: 185.8,
+      path: "M571.7,198.3L578.6,206.3L598.4,212.3L621.4,208.5L634.7,218.1L647.3,213L653.6,204.4L640,191.9L653.8,179.5L654,167.9L661.8,160.3L653.8,151.1L621,150.6L597.2,155.5L596.8,162.4L585.4,176.9L555.4,175.5L542.4,182.7L557,191.2L550.3,197L571.7,198.3Z"
+    }
+  ],
   "CH-TG": [
-    { id: "CH-TG-Arbon",        name: { de: "Arbon",         hu: "Arbon",         ro: "Arbon",         en: "Arbon" },        labelX: 740, labelY: 72,  path: rect(740, 72)  },
-    { id: "CH-TG-Bischofszell", name: { de: "Bischofszell",  hu: "Bischofszell",  ro: "Bischofszell",  en: "Bischofszell" }, labelX: 720, labelY: 90,  path: rect(720, 90)  },
-    { id: "CH-TG-Diessenhofen", name: { de: "Diessenhofen",  hu: "Diessenhofen",  ro: "Diessenhofen",  en: "Diessenhofen" }, labelX: 660, labelY: 58,  path: rect(660, 58)  },
-    { id: "CH-TG-FrauenfeldBez", name: { de: "Frauenfeld",   hu: "Frauenfeld",    ro: "Frauenfeld",    en: "Frauenfeld" },   labelX: 670, labelY: 80,  path: rect(670, 80)  },
-    { id: "CH-TG-KreuzlingenBez", name: { de: "Kreuzlingen",  hu: "Kreuzlingen",  ro: "Kreuzlingen",  en: "Kreuzlingen" },  labelX: 695, labelY: 68,  path: rect(695, 68)  },
-    { id: "CH-TG-MünchwiesenTG", name: { de: "Münchwilen",   hu: "Münchwilen",    ro: "Münchwilen",    en: "Münchwilen" },   labelX: 695, labelY: 95,  path: rect(695, 95)  },
-    { id: "CH-TG-Steckborn",    name: { de: "Steckborn",     hu: "Steckborn",     ro: "Steckborn",     en: "Steckborn" },    labelX: 640, labelY: 68,  path: rect(640, 68)  },
-    { id: "CH-TG-Weinfelden",   name: { de: "Weinfelden",    hu: "Weinfelden",    ro: "Weinfelden",    en: "Weinfelden" },   labelX: 710, labelY: 82,  path: rect(710, 82)  },
+    {
+      id: "CH-TG",
+      name: { de: "Thurgau", hu: "Thurgau", ro: "Thurgau", en: "Thurgau" },
+      labelX: -274.5, labelY: 5018,
+      path: "M592.1,54L600.3,62.9L620,58.1L620.5,75.1L627.7,85.6L639.7,87.4L636.8,98.7L649,118.2L659.6,107L663.4,94.5L695.9,92.8L722.8,97.2L734.2,88.4L743.8,97L766.1,82.1L742.8,67.4L714.1,59.4L696,60L666.3,53.6L634.9,60.2L618.4,56L604.3,52.4L602.2,52.8L592.1,54Z"
+    }
   ],
-
-  // ── Ticino (TI) — 8 Distretti ────────────────────────────────────────
   "CH-TI": [
-    { id: "CH-TI-Bellinzona",  name: { de: "Bellinzona",    hu: "Bellinzona",    ro: "Bellinzona",    en: "Bellinzona" },    labelX: 650, labelY: 450, path: rect(650, 450) },
-    { id: "CH-TI-Blenio",      name: { de: "Blenio",        hu: "Blenio",        ro: "Blenio",        en: "Blenio" },        labelX: 655, labelY: 410, path: rect(655, 410) },
-    { id: "CH-TI-Leventina",   name: { de: "Leventina",     hu: "Leventina",     ro: "Leventina",     en: "Leventina" },     labelX: 618, labelY: 390, path: rect(618, 390) },
-    { id: "CH-TI-Locarno",     name: { de: "Locarno",       hu: "Locarno",       ro: "Locarno",       en: "Locarno" },       labelX: 630, labelY: 465, path: rect(630, 465) },
-    { id: "CH-TI-Lugano",      name: { de: "Lugano",        hu: "Lugano",        ro: "Lugano",        en: "Lugano" },        labelX: 655, labelY: 520, path: rect(655, 520) },
-    { id: "CH-TI-Mendrisio",   name: { de: "Mendrisio",     hu: "Mendrisio",     ro: "Mendrisio",     en: "Mendrisio" },     labelX: 655, labelY: 560, path: rect(655, 560) },
-    { id: "CH-TI-Riviera",     name: { de: "Riviera",       hu: "Riviera",       ro: "Riviera",       en: "Riviera" },       labelX: 660, labelY: 470, path: rect(660, 470) },
-    { id: "CH-TI-Vallemaggia", name: { de: "Vallemaggia",   hu: "Vallemaggia",   ro: "Vallemaggia",   en: "Vallemaggia" },   labelX: 610, labelY: 455, path: rect(610, 455) },
+    {
+      id: "CH-TI",
+      name: { de: "Tessin", hu: "Tessin", ro: "Ticino", en: "Ticino" },
+      labelX: 621, labelY: 349.5,
+      path: "M693.9,368.8L679.3,359.9L671.9,343.2L679.1,331.5L680.5,308.4L664.2,293.5L667.9,279.4L648.6,275.6L628.2,287L594,283.7L586.1,286.9L565,282.2L552.2,294.4L534.7,301.4L532.9,310.1L545.7,307.7L550.9,321.8L549.7,334.7L541.9,342.1L550.4,355.7L563.6,358.7L580.1,378.8L601.3,383.9L607.2,378.7L630.6,391.3L620.4,399.5L645,423.7L650.1,436.6L667.2,440.5L676.8,422.9L665.4,417.1L665,393.3L676.8,390.7L675.8,379.6L693.9,368.8Z"
+    }
   ],
-
-  // ── Uri (UR) — 1 Bezirk ──────────────────────────────────────────────
   "CH-UR": [
-    { id: "CH-UR-Uri",          name: { de: "Uri",           hu: "Uri",           ro: "Uri",           en: "Uri" },           labelX: 600, labelY: 335, path: rect(600, 335, 60, 50) },
+    {
+      id: "CH-UR",
+      name: { de: "Uri", hu: "Uri", ro: "Uri", en: "Uri" },
+      labelX: 586.2, labelY: 242.1,
+      path: "M550.8,226.5L555.1,243.6L546.2,245.5L547,261L538.2,268.4L537.4,282.3L552.2,294.4L565,282.2L586.1,286.9L594,283.7L588.3,272.2L593.5,259.8L621.9,250.9L624.7,240.3L635.2,235.2L634.9,228.8L651.6,222.2L647.3,213L634.7,218.1L621.4,208.5L598.4,212.3L578.6,206.3L571.7,198.3L565.4,211.6L549.5,216.1L550.8,226.5Z"
+    }
   ],
-
-  // ── Vaud (VD) — 10 Bezirke ───────────────────────────────────────────
   "CH-VD": [
-    { id: "CH-VD-Aigle",        name: { de: "Aigle",         hu: "Aigle",         ro: "Aigle",         en: "Aigle" },         labelX: 280, labelY: 415, path: rect(280, 415) },
-    { id: "CH-VD-Broye-Vully",  name: { de: "Broye-Vully",   hu: "Broye-Vully",   ro: "Broye-Vully",   en: "Broye-Vully" },  labelX: 295, labelY: 290, path: rect(295, 290) },
-    { id: "CH-VD-Gros-de-Vaud", name: { de: "Gros-de-Vaud",  hu: "Gros-de-Vaud",  ro: "Gros-de-Vaud",  en: "Gros-de-Vaud" }, labelX: 295, labelY: 320, path: rect(295, 320) },
-    { id: "CH-VD-Jura-Nord",    name: { de: "Jura-Nord vaudois", hu: "Jura-Nord", ro: "Jura-Nord",      en: "North Jura" },   labelX: 260, labelY: 270, path: rect(260, 270) },
-    { id: "CH-VD-Lausanne",     name: { de: "Lausanne",      hu: "Lausanne",      ro: "Lausanne",      en: "Lausanne" },      labelX: 264, labelY: 355, path: rect(264, 355) },
-    { id: "CH-VD-Lavaux-Oron",  name: { de: "Lavaux-Oron",   hu: "Lavaux-Oron",   ro: "Lavaux-Oron",   en: "Lavaux-Oron" },  labelX: 285, labelY: 355, path: rect(285, 355) },
-    { id: "CH-VD-Morges",       name: { de: "Morges",        hu: "Morges",        ro: "Morges",        en: "Morges" },        labelX: 250, labelY: 355, path: rect(250, 355) },
-    { id: "CH-VD-Nyon",         name: { de: "Nyon",          hu: "Nyon",          ro: "Nyon",          en: "Nyon" },          labelX: 210, labelY: 360, path: rect(210, 360) },
-    { id: "CH-VD-Ouest-lausannois", name: { de: "Ouest lausannois", hu: "Ouest lausannois", ro: "Ouest lausannois", en: "West Lausanne" }, labelX: 248, labelY: 368, path: rect(248, 368) },
-    { id: "CH-VD-Riviera-Pays-dEnhaut", name: { de: "Riviera", hu: "Riviera", ro: "Riviera", en: "Riviera" },                labelX: 300, labelY: 390, path: rect(300, 390) },
+    {
+      id: "CH-VD",
+      name: { de: "Waadt", hu: "Vaud", ro: "Vaud", en: "Vaud" },
+      labelX: 213.2, labelY: 247.5,
+      path: "M208.1,315.3L251.9,364.9L276.3,353.6L291.2,335.7L285.5,325.3L296.8,298L294.5,289L249.4,308.6L224,297.1L222.1,288.1L208,282.9L203,272.5L214.8,267.9L231.8,251.7L242.9,222.6L223.7,211.8L217.3,215.1L228.8,223L227,241.7L203.2,241.4L191.6,232.1L199.5,226.8L190.5,222.5L186.1,209.8L137.6,228.2L133,227.2L128.5,245.8L96.1,260.6L60.4,284.3L70,290.8L52.6,307.4L57.7,319.1L72.8,328L63.6,338.1L83.1,339.3L85.7,335.4L87.6,332.7L107.1,320.2L125.9,317.7L145.3,309.2L179.1,309.7L208.1,315.3ZM230.3,206L251.9,222.1L262.5,217.9L264.1,216.3L253.6,200.6L230.3,206Z"
+    }
   ],
-
-  // ── Valais / Wallis (VS) — 13 Bezirke ────────────────────────────────
   "CH-VS": [
-    { id: "CH-VS-Brig",         name: { de: "Brig",          hu: "Brig",          ro: "Brig",          en: "Brig" },          labelX: 480, labelY: 490, path: rect(480, 490) },
-    { id: "CH-VS-Conthey",      name: { de: "Conthey",       hu: "Conthey",       ro: "Conthey",       en: "Conthey" },       labelX: 385, labelY: 500, path: rect(385, 500) },
-    { id: "CH-VS-Entremont",    name: { de: "Entremont",     hu: "Entremont",     ro: "Entremont",     en: "Entremont" },     labelX: 335, labelY: 530, path: rect(335, 530) },
-    { id: "CH-VS-Goms",         name: { de: "Goms",          hu: "Goms",          ro: "Goms",          en: "Goms" },          labelX: 520, labelY: 470, path: rect(520, 470) },
-    { id: "CH-VS-Hérens",       name: { de: "Hérens",        hu: "Hérens",        ro: "Hérens",        en: "Hérens" },        labelX: 415, labelY: 505, path: rect(415, 505) },
-    { id: "CH-VS-Leuk",         name: { de: "Leuk",          hu: "Leuk",          ro: "Leuk",          en: "Leuk" },          labelX: 455, labelY: 490, path: rect(455, 490) },
-    { id: "CH-VS-Martigny",     name: { de: "Martigny",      hu: "Martigny",      ro: "Martigny",      en: "Martigny" },      labelX: 305, labelY: 505, path: rect(305, 505) },
-    { id: "CH-VS-Monthey",      name: { de: "Monthey",       hu: "Monthey",       ro: "Monthey",       en: "Monthey" },       labelX: 250, labelY: 495, path: rect(250, 495) },
-    { id: "CH-VS-Raron",        name: { de: "Raron",         hu: "Raron",         ro: "Raron",         en: "Raron" },         labelX: 463, labelY: 475, path: rect(463, 475) },
-    { id: "CH-VS-Sion",         name: { de: "Sion",          hu: "Sion",          ro: "Sion",          en: "Sion" },          labelX: 400, labelY: 495, path: rect(400, 495) },
-    { id: "CH-VS-Sierre",       name: { de: "Sierre",        hu: "Sierre",        ro: "Sierre",        en: "Sierre" },        labelX: 435, labelY: 495, path: rect(435, 495) },
-    { id: "CH-VS-StMaurice",    name: { de: "Saint-Maurice", hu: "Saint-Maurice", ro: "Saint-Maurice", en: "Saint-Maurice" }, labelX: 270, labelY: 490, path: rect(270, 490) },
-    { id: "CH-VS-Visp",         name: { de: "Visp",          hu: "Visp",          ro: "Visp",          en: "Visp" },          labelX: 460, labelY: 480, path: rect(460, 480) },
+    {
+      id: "CH-VS",
+      name: { de: "Wallis", hu: "Valais", ro: "Valais", en: "Valais" },
+      labelX: 384.1, labelY: 350.2,
+      path: "M538.2,268.4L528.8,283L506.6,294.1L492.7,295.4L456.3,287L434.5,303L420.6,304.7L392.4,318.1L375.3,311.6L356.2,318.9L354.7,326.2L328.2,325.8L319,331.2L299.7,329.6L291.2,335.7L276.3,353.6L251.9,364.9L208.1,315.3L200.8,335.1L217.1,345.2L204.4,361.8L203,375.2L224.1,378.7L222.7,386.4L247.4,404.7L254.3,420L266.3,433.3L298.6,427.3L304.6,421.5L324.7,425.6L357.2,413.4L384.1,409.5L398,419.9L425.2,420.8L434.1,404.7L450.7,404.9L460.3,395L460.5,383.1L483.4,375.4L481.9,357.1L470.9,348.7L490.2,342.3L518,325.7L513.2,319.5L532.9,310.1L534.7,301.4L552.2,294.4L537.4,282.3L538.2,268.4Z"
+    }
   ],
-
-  // ── Zug (ZG) — 1 Bezirk ──────────────────────────────────────────────
   "CH-ZG": [
-    { id: "CH-ZG-Zug",          name: { de: "Zug",           hu: "Zug",           ro: "Zug",           en: "Zug" },           labelX: 585, labelY: 225, path: rect(585, 225, 55, 40) },
+    {
+      id: "CH-ZG",
+      name: { de: "Zug", hu: "Zug", ro: "Zug", en: "Zug" },
+      labelX: 560, labelY: 162.2,
+      path: "M538.7,167.1L555.4,175.5L585.4,176.9L596.8,162.4L574,151L552.7,153L538.2,144.7L538.7,167.1Z"
+    }
   ],
-
-  // ── Zürich (ZH) — 12 Bezirke ─────────────────────────────────────────
   "CH-ZH": [
-    { id: "CH-ZH-Affoltern",    name: { de: "Affoltern",     hu: "Affoltern",     ro: "Affoltern",     en: "Affoltern" },     labelX: 565, labelY: 165, path: rect(565, 165) },
-    { id: "CH-ZH-Andelfingen",  name: { de: "Andelfingen",   hu: "Andelfingen",   ro: "Andelfingen",   en: "Andelfingen" },   labelX: 605, labelY: 72,  path: rect(605, 72)  },
-    { id: "CH-ZH-Bülach",       name: { de: "Bülach",        hu: "Bülach",        ro: "Bülach",        en: "Bülach" },        labelX: 590, labelY: 70,  path: rect(590, 70)  },
-    { id: "CH-ZH-Dielsdorf",    name: { de: "Dielsdorf",     hu: "Dielsdorf",     ro: "Dielsdorf",     en: "Dielsdorf" },     labelX: 565, labelY: 88,  path: rect(565, 88)  },
-    { id: "CH-ZH-Dietikon",     name: { de: "Dietikon",      hu: "Dietikon",      ro: "Dietikon",      en: "Dietikon" },      labelX: 550, labelY: 130, path: rect(550, 130) },
-    { id: "CH-ZH-Hinwil",       name: { de: "Hinwil",        hu: "Hinwil",        ro: "Hinwil",        en: "Hinwil" },        labelX: 645, labelY: 168, path: rect(645, 168) },
-    { id: "CH-ZH-Horgen",       name: { de: "Horgen",        hu: "Horgen",        ro: "Horgen",        en: "Horgen" },        labelX: 605, labelY: 175, path: rect(605, 175) },
-    { id: "CH-ZH-Meilen",       name: { de: "Meilen",        hu: "Meilen",        ro: "Meilen",        en: "Meilen" },        labelX: 625, labelY: 155, path: rect(625, 155) },
-    { id: "CH-ZH-Pfäffikon",    name: { de: "Pfäffikon",     hu: "Pfäffikon",     ro: "Pfäffikon",     en: "Pfäffikon" },     labelX: 640, labelY: 140, path: rect(640, 140) },
-    { id: "CH-ZH-Uster",        name: { de: "Uster",         hu: "Uster",         ro: "Uster",         en: "Uster" },         labelX: 635, labelY: 125, path: rect(635, 125) },
-    { id: "CH-ZH-Winterthur",   name: { de: "Winterthur",    hu: "Winterthur",    ro: "Winterthur",    en: "Winterthur" },    labelX: 631, labelY: 98,  path: rect(631, 98)  },
-    { id: "CH-ZH-ZurichBez",    name: { de: "Zürich",        hu: "Zürich",        ro: "Zürich",        en: "Zurich" },        labelX: 600, labelY: 120, path: rect(600, 120) },
-  ],
-
-  // ── Liechtenstein (LI) — placeholder, same map coord space ───────────
-  // (shown on CH map as a micro-state alongside; own IDs)
-  // Not a Swiss canton, skipped intentionally.
+    {
+      id: "CH-ZH",
+      name: { de: "Zürich", hu: "Zürich", ro: "Zurich", en: "Zurich" },
+      labelX: 595, labelY: 104.3,
+      path: "M649,118.2L636.8,98.7L639.7,87.4L627.7,85.6L620.5,75.1L620,58.1L600.3,62.9L592.1,54L590.8,53.8L579,57.4L576.8,70.5L570,71.8L560.1,64.6L541.4,78.3L527.4,91.9L532.9,101.8L542.2,133.8L538.2,144.7L552.7,153L574,151L596.8,162.4L597.2,155.5L621,150.6L624.8,144.1L646.9,142.5L657.6,129.9L649,118.2Z"
+    }
+  ]
 };

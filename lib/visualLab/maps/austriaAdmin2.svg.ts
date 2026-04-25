@@ -1,190 +1,745 @@
-// Austria Admin-2 (Bezirke) — placeholder geometry
-// Austria has 9 Bundesländer and ~94 Bezirke.
-// Paths are placeholder rectangles until real GeoJSON data is available.
-// labelX/labelY are projected into a 1000x1200 viewBox per Bundesland.
+// Austria Admin-2 (Bezirke) — REAL GeoJSON paths
+// Source: https://github.com/ginseng666/GeoJSON-TopoJSON-Austria (2021/simplified-99.5/bezirke_995_geo.json)
+// Generated: 2026-04-25
+// Each region has its own equirectangular projection fit to a 1000x800 viewBox.
+// Total: 117 Bezirke across 9 Bundesländer
 
 export interface AustriaDistrict {
-  id: string;
+  id: string;       // e.g. "AT-101"
   name: { de: string; hu: string; ro: string; en: string };
-  centerLat: number;
-  centerLng: number;
   labelX: number;
   labelY: number;
   path: string;
 }
 
-// Helper: placeholder rect path
-function rect(x: number, y: number, w = 140, h = 100): string {
-  return `M${x},${y} L${x + w},${y} L${x + w},${y + h} L${x},${y + h} Z`;
-}
-
-// AT-1 — Burgenland (7 Bezirke)
-const burgenlandDistricts: AustriaDistrict[] = [
-  { id: "AT-1-EU", name: { de: "Eisenstadt-Umgebung", hu: "Kismarton-környéke", ro: "Eisenstadt-Umgebung", en: "Eisenstadt-Umgebung" }, centerLat: 47.85, centerLng: 16.52, labelX: 480, labelY: 175, path: rect(410, 125) },
-  { id: "AT-1-GF", name: { de: "Güssing", hu: "Németújvár", ro: "Güssing", en: "Güssing" }, centerLat: 47.06, centerLng: 16.32, labelX: 340, labelY: 825, path: rect(270, 775) },
-  { id: "AT-1-JE", name: { de: "Jennersdorf", hu: "Gyanafalva", ro: "Jennersdorf", en: "Jennersdorf" }, centerLat: 46.94, centerLng: 16.13, labelX: 200, labelY: 975, path: rect(130, 925) },
-  { id: "AT-1-MA", name: { de: "Mattersburg", hu: "Mattersburg", ro: "Mattersburg", en: "Mattersburg" }, centerLat: 47.74, centerLng: 16.4, labelX: 340, labelY: 325, path: rect(270, 275) },
-  { id: "AT-1-ND", name: { de: "Neusiedl am See", hu: "Nezsider", ro: "Neusiedl am See", en: "Neusiedl am See" }, centerLat: 47.95, centerLng: 16.85, labelX: 620, labelY: 75, path: rect(550, 25) },
-  { id: "AT-1-OP", name: { de: "Oberpullendorf", hu: "Felsőpulya", ro: "Oberpullendorf", en: "Oberpullendorf" }, centerLat: 47.5, centerLng: 16.5, labelX: 480, labelY: 525, path: rect(410, 475) },
-  { id: "AT-1-OW", name: { de: "Oberwart", hu: "Felsőőr", ro: "Oberwart", en: "Oberwart" }, centerLat: 47.29, centerLng: 16.2, labelX: 340, labelY: 675, path: rect(270, 625) },
-];
-
-// AT-2 — Carinthia / Kärnten (10 Bezirke)
-const carinthiaDistricts: AustriaDistrict[] = [
-  { id: "AT-2-FE", name: { de: "Feldkirchen", hu: "Feldkirchen", ro: "Feldkirchen", en: "Feldkirchen" }, centerLat: 46.72, centerLng: 14.1, labelX: 410, labelY: 175, path: rect(340, 125) },
-  { id: "AT-2-HE", name: { de: "Hermagor", hu: "Hermász", ro: "Hermagor", en: "Hermagor" }, centerLat: 46.63, centerLng: 13.37, labelX: 130, labelY: 325, path: rect(60, 275) },
-  { id: "AT-2-KL", name: { de: "Klagenfurt-Land", hu: "Klagenfurt-Land", ro: "Klagenfurt-Land", en: "Klagenfurt-Land" }, centerLat: 46.6, centerLng: 14.4, labelX: 550, labelY: 475, path: rect(480, 425) },
-  { id: "AT-2-KS", name: { de: "Klagenfurt-Stadt", hu: "Klagenfurt város", ro: "Klagenfurt-Stadt", en: "Klagenfurt Stadt" }, centerLat: 46.62, centerLng: 14.31, labelX: 410, labelY: 475, path: rect(340, 425) },
-  { id: "AT-2-SP", name: { de: "Spittal an der Drau", hu: "Spittal an der Drau", ro: "Spittal an der Drau", en: "Spittal an der Drau" }, centerLat: 46.79, centerLng: 13.49, labelX: 200, labelY: 175, path: rect(130, 125) },
-  { id: "AT-2-SV", name: { de: "St. Veit an der Glan", hu: "Sankt Veit an der Glan", ro: "St. Veit an der Glan", en: "St. Veit an der Glan" }, centerLat: 46.77, centerLng: 14.36, labelX: 550, labelY: 275, path: rect(480, 225) },
-  { id: "AT-2-VK", name: { de: "Völkermarkt", hu: "Völkermarkt", ro: "Völkermarkt", en: "Völkermarkt" }, centerLat: 46.66, centerLng: 14.63, labelX: 690, labelY: 475, path: rect(620, 425) },
-  { id: "AT-2-VL", name: { de: "Villach-Land", hu: "Villach-Land", ro: "Villach-Land", en: "Villach-Land" }, centerLat: 46.61, centerLng: 13.85, labelX: 270, labelY: 475, path: rect(200, 425) },
-  { id: "AT-2-VS", name: { de: "Villach-Stadt", hu: "Villach város", ro: "Villach-Stadt", en: "Villach Stadt" }, centerLat: 46.62, centerLng: 13.85, labelX: 270, labelY: 375, path: rect(200, 325) },
-  { id: "AT-2-WO", name: { de: "Wolfsberg", hu: "Wolfsberg", ro: "Wolfsberg", en: "Wolfsberg" }, centerLat: 46.84, centerLng: 14.84, labelX: 760, labelY: 175, path: rect(690, 125) },
-];
-
-// AT-3 — Lower Austria / Niederösterreich (21 Bezirke)
-const lowerAustriaDistricts: AustriaDistrict[] = [
-  { id: "AT-3-AM", name: { de: "Amstetten", hu: "Amstetten", ro: "Amstetten", en: "Amstetten" }, centerLat: 48.12, centerLng: 14.87, labelX: 200, labelY: 675, path: rect(130, 625) },
-  { id: "AT-3-BA", name: { de: "Baden", hu: "Baden", ro: "Baden", en: "Baden" }, centerLat: 48.01, centerLng: 16.23, labelX: 760, labelY: 775, path: rect(690, 725) },
-  { id: "AT-3-BL", name: { de: "Bruck an der Leitha", hu: "Bruck an der Leitha", ro: "Bruck an der Leitha", en: "Bruck an der Leitha" }, centerLat: 48.03, centerLng: 16.78, labelX: 900, labelY: 775, path: rect(830, 725) },
-  { id: "AT-3-BM", name: { de: "Bruck an der Mur (NÖ)", hu: "Bruck (NÖ)", ro: "Bruck (NÖ)", en: "Bruck (NÖ)" }, centerLat: 48.0, centerLng: 15.6, labelX: 480, labelY: 775, path: rect(410, 725) },
-  { id: "AT-3-GD", name: { de: "Gmünd", hu: "Gmünd", ro: "Gmünd", en: "Gmünd" }, centerLat: 48.77, centerLng: 14.98, labelX: 270, labelY: 75, path: rect(200, 25) },
-  { id: "AT-3-GF", name: { de: "Gänserndorf", hu: "Gänserndorf", ro: "Gänserndorf", en: "Gänserndorf" }, centerLat: 48.34, centerLng: 16.72, labelX: 900, labelY: 375, path: rect(830, 325) },
-  { id: "AT-3-GK", name: { de: "Grieskirchen (NÖ)", hu: "Grieskirchen (NÖ)", ro: "Grieskirchen (NÖ)", en: "Grieskirchen (NÖ)" }, centerLat: 48.2, centerLng: 15.5, labelX: 410, labelY: 525, path: rect(340, 475) },
-  { id: "AT-3-HL", name: { de: "Hollabrunn", hu: "Hollabrunn", ro: "Hollabrunn", en: "Hollabrunn" }, centerLat: 48.56, centerLng: 16.08, labelX: 690, labelY: 175, path: rect(620, 125) },
-  { id: "AT-3-HO", name: { de: "Horn", hu: "Horn", ro: "Horn", en: "Horn" }, centerLat: 48.66, centerLng: 15.66, labelX: 550, labelY: 125, path: rect(480, 75) },
-  { id: "AT-3-KO", name: { de: "Korneuburg", hu: "Korneuburg", ro: "Korneuburg", en: "Korneuburg" }, centerLat: 48.35, centerLng: 16.33, labelX: 830, labelY: 375, path: rect(760, 325) },
-  { id: "AT-3-KR", name: { de: "Krems-Land", hu: "Krems-Land", ro: "Krems-Land", en: "Krems-Land" }, centerLat: 48.41, centerLng: 15.61, labelX: 550, labelY: 325, path: rect(480, 275) },
-  { id: "AT-3-KS", name: { de: "Krems-Stadt", hu: "Krems város", ro: "Krems-Stadt", en: "Krems Stadt" }, centerLat: 48.41, centerLng: 15.61, labelX: 410, labelY: 325, path: rect(340, 275) },
-  { id: "AT-3-LF", name: { de: "Lilienfeld", hu: "Lilienfeld", ro: "Lilienfeld", en: "Lilienfeld" }, centerLat: 48.01, centerLng: 15.6, labelX: 480, labelY: 825, path: rect(410, 775) },
-  { id: "AT-3-MD", name: { de: "Mödling", hu: "Mödling", ro: "Mödling", en: "Mödling" }, centerLat: 48.1, centerLng: 16.28, labelX: 830, labelY: 675, path: rect(760, 625) },
-  { id: "AT-3-ME", name: { de: "Melk", hu: "Melk", ro: "Melk", en: "Melk" }, centerLat: 48.23, centerLng: 15.33, labelX: 270, labelY: 525, path: rect(200, 475) },
-  { id: "AT-3-MI", name: { de: "Mistelbach", hu: "Mistelbach", ro: "Mistelbach", en: "Mistelbach" }, centerLat: 48.57, centerLng: 16.57, labelX: 900, labelY: 175, path: rect(830, 125) },
-  { id: "AT-3-MK", name: { de: "Neunkirchen", hu: "Neunkirchen", ro: "Neunkirchen", en: "Neunkirchen" }, centerLat: 47.72, centerLng: 16.08, labelX: 760, labelY: 975, path: rect(690, 925) },
-  { id: "AT-3-PL", name: { de: "St. Pölten-Land", hu: "Sankt Pölten-Land", ro: "St. Pölten-Land", en: "St. Pölten-Land" }, centerLat: 48.18, centerLng: 15.62, labelX: 550, labelY: 525, path: rect(480, 475) },
-  { id: "AT-3-PS", name: { de: "St. Pölten-Stadt", hu: "Sankt Pölten város", ro: "St. Pölten-Stadt", en: "St. Pölten Stadt" }, centerLat: 48.2, centerLng: 15.62, labelX: 410, labelY: 525, path: rect(340, 475) },
-  { id: "AT-3-SB", name: { de: "Scheibbs", hu: "Scheibbs", ro: "Scheibbs", en: "Scheibbs" }, centerLat: 47.99, centerLng: 15.16, labelX: 270, labelY: 825, path: rect(200, 775) },
-  { id: "AT-3-TU", name: { de: "Tulln", hu: "Tulln", ro: "Tulln", en: "Tulln" }, centerLat: 48.33, centerLng: 15.97, labelX: 690, labelY: 375, path: rect(620, 325) },
-  { id: "AT-3-WB", name: { de: "Wiener Neustadt-Land", hu: "Wiener Neustadt-Land", ro: "Wiener Neustadt-Land", en: "Wiener Neustadt-Land" }, centerLat: 47.83, centerLng: 16.25, labelX: 830, labelY: 875, path: rect(760, 825) },
-  { id: "AT-3-WN", name: { de: "Wiener Neustadt-Stadt", hu: "Wiener Neustadt város", ro: "Wiener Neustadt-Stadt", en: "Wiener Neustadt Stadt" }, centerLat: 47.81, centerLng: 16.24, labelX: 830, labelY: 975, path: rect(760, 925) },
-  { id: "AT-3-WU", name: { de: "Wien-Umgebung", hu: "Bécs-környéke", ro: "Wien-Umgebung", en: "Vienna environs" }, centerLat: 48.15, centerLng: 16.3, labelX: 900, labelY: 575, path: rect(830, 525) },
-  { id: "AT-3-ZT", name: { de: "Zwettl", hu: "Zwettl", ro: "Zwettl", en: "Zwettl" }, centerLat: 48.6, centerLng: 15.16, labelX: 270, labelY: 175, path: rect(200, 125) },
-];
-
-// AT-4 — Upper Austria / Oberösterreich (15 Bezirke)
-const upperAustriaDistricts: AustriaDistrict[] = [
-  { id: "AT-4-BM", name: { de: "Braunau am Inn", hu: "Braunau am Inn", ro: "Braunau am Inn", en: "Braunau am Inn" }, centerLat: 48.26, centerLng: 13.04, labelX: 130, labelY: 175, path: rect(60, 125) },
-  { id: "AT-4-EF", name: { de: "Eferding", hu: "Eferding", ro: "Eferding", en: "Eferding" }, centerLat: 48.31, centerLng: 13.98, labelX: 410, labelY: 175, path: rect(340, 125) },
-  { id: "AT-4-FK", name: { de: "Freistadt", hu: "Freistadt", ro: "Freistadt", en: "Freistadt" }, centerLat: 48.51, centerLng: 14.5, labelX: 690, labelY: 75, path: rect(620, 25) },
-  { id: "AT-4-GM", name: { de: "Gmunden", hu: "Gmunden", ro: "Gmunden", en: "Gmunden" }, centerLat: 47.92, centerLng: 13.8, labelX: 410, labelY: 575, path: rect(340, 525) },
-  { id: "AT-4-GR", name: { de: "Grieskirchen", hu: "Grieskirchen", ro: "Grieskirchen", en: "Grieskirchen" }, centerLat: 48.23, centerLng: 13.83, labelX: 340, labelY: 275, path: rect(270, 225) },
-  { id: "AT-4-KI", name: { de: "Kirchdorf an der Krems", hu: "Kirchdorf an der Krems", ro: "Kirchdorf an der Krems", en: "Kirchdorf an der Krems" }, centerLat: 47.9, centerLng: 14.12, labelX: 550, labelY: 575, path: rect(480, 525) },
-  { id: "AT-4-LI", name: { de: "Linz-Land", hu: "Linz-Land", ro: "Linz-Land", en: "Linz-Land" }, centerLat: 48.25, centerLng: 14.3, labelX: 620, labelY: 275, path: rect(550, 225) },
-  { id: "AT-4-LL", name: { de: "Linz-Stadt", hu: "Linz város", ro: "Linz-Stadt", en: "Linz Stadt" }, centerLat: 48.3, centerLng: 14.29, labelX: 620, labelY: 175, path: rect(550, 125) },
-  { id: "AT-4-PE", name: { de: "Perg", hu: "Perg", ro: "Perg", en: "Perg" }, centerLat: 48.25, centerLng: 14.63, labelX: 760, labelY: 275, path: rect(690, 225) },
-  { id: "AT-4-PL", name: { de: "Pfarrkirchen im Mühlkreis", hu: "Pfarrkirchen im Mühlkreis", ro: "Pfarrkirchen im Mühlkreis", en: "Pfarrkirchen im Mühlkreis" }, centerLat: 48.44, centerLng: 13.72, labelX: 270, labelY: 75, path: rect(200, 25) },
-  { id: "AT-4-RO", name: { de: "Rohrbach", hu: "Rohrbach", ro: "Rohrbach", en: "Rohrbach" }, centerLat: 48.57, centerLng: 13.99, labelX: 480, labelY: 75, path: rect(410, 25) },
-  { id: "AT-4-SD", name: { de: "Schärding", hu: "Schärding", ro: "Schärding", en: "Schärding" }, centerLat: 48.46, centerLng: 13.43, labelX: 200, labelY: 75, path: rect(130, 25) },
-  { id: "AT-4-SR", name: { de: "Steyr-Land", hu: "Steyr-Land", ro: "Steyr-Land", en: "Steyr-Land" }, centerLat: 48.02, centerLng: 14.43, labelX: 620, labelY: 575, path: rect(550, 525) },
-  { id: "AT-4-ST", name: { de: "Steyr-Stadt", hu: "Steyr város", ro: "Steyr-Stadt", en: "Steyr Stadt" }, centerLat: 48.04, centerLng: 14.42, labelX: 620, labelY: 475, path: rect(550, 425) },
-  { id: "AT-4-UU", name: { de: "Urfahr-Umgebung", hu: "Urfahr-Umgebung", ro: "Urfahr-Umgebung", en: "Urfahr-Umgebung" }, centerLat: 48.38, centerLng: 14.25, labelX: 550, labelY: 175, path: rect(480, 125) },
-  { id: "AT-4-VB", name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Vöcklabruck" }, centerLat: 47.99, centerLng: 13.64, labelX: 270, labelY: 475, path: rect(200, 425) },
-  { id: "AT-4-WE", name: { de: "Wels-Land", hu: "Wels-Land", ro: "Wels-Land", en: "Wels-Land" }, centerLat: 48.15, centerLng: 13.98, labelX: 410, labelY: 375, path: rect(340, 325) },
-  { id: "AT-4-WL", name: { de: "Wels-Stadt", hu: "Wels város", ro: "Wels-Stadt", en: "Wels Stadt" }, centerLat: 48.16, centerLng: 14.03, labelX: 480, labelY: 375, path: rect(410, 325) },
-];
-
-// AT-5 — Salzburg (6 Bezirke)
-const salzburgDistricts: AustriaDistrict[] = [
-  { id: "AT-5-HА", name: { de: "Hallein", hu: "Hallein", ro: "Hallein", en: "Hallein" }, centerLat: 47.68, centerLng: 13.1, labelX: 480, labelY: 575, path: rect(410, 525) },
-  { id: "AT-5-JO", name: { de: "St. Johann im Pongau", hu: "St. Johann im Pongau", ro: "St. Johann im Pongau", en: "St. Johann im Pongau" }, centerLat: 47.34, centerLng: 13.2, labelX: 480, labelY: 825, path: rect(410, 775) },
-  { id: "AT-5-LU", name: { de: "Lungau", hu: "Lungau", ro: "Lungau", en: "Lungau" }, centerLat: 47.1, centerLng: 13.8, labelX: 760, labelY: 975, path: rect(690, 925) },
-  { id: "AT-5-PG", name: { de: "Pinzgau", hu: "Pinzgau", ro: "Pinzgau", en: "Pinzgau" }, centerLat: 47.3, centerLng: 12.6, labelX: 200, labelY: 875, path: rect(130, 825) },
-  { id: "AT-5-PT", name: { de: "Pongau", hu: "Pongau", ro: "Pongau", en: "Pongau" }, centerLat: 47.32, centerLng: 13.1, labelX: 340, labelY: 875, path: rect(270, 825) },
-  { id: "AT-5-SL", name: { de: "Salzburg-Land", hu: "Salzburg-Land", ro: "Salzburg-Land", en: "Salzburg-Land" }, centerLat: 47.7, centerLng: 13.17, labelX: 340, labelY: 475, path: rect(270, 425) },
-  { id: "AT-5-SS", name: { de: "Salzburg-Stadt", hu: "Salzburg város", ro: "Salzburg-Stadt", en: "Salzburg Stadt" }, centerLat: 47.8, centerLng: 13.05, labelX: 340, labelY: 275, path: rect(270, 225) },
-  { id: "AT-5-TA", name: { de: "Tamsweg", hu: "Tamsweg", ro: "Tamsweg", en: "Tamsweg" }, centerLat: 47.13, centerLng: 13.81, labelX: 760, labelY: 875, path: rect(690, 825) },
-  { id: "AT-5-ZE", name: { de: "Zell am See", hu: "Zell am See", ro: "Zell am See", en: "Zell am See" }, centerLat: 47.32, centerLng: 12.79, labelX: 270, labelY: 875, path: rect(200, 825) },
-];
-
-// AT-6 — Styria / Steiermark (13 Bezirke)
-const styriaDistricts: AustriaDistrict[] = [
-  { id: "AT-6-BM", name: { de: "Bruck-Mürzzuschlag", hu: "Bruck-Mürzzuschlag", ro: "Bruck-Mürzzuschlag", en: "Bruck-Mürzzuschlag" }, centerLat: 47.55, centerLng: 15.3, labelX: 480, labelY: 175, path: rect(410, 125) },
-  { id: "AT-6-DL", name: { de: "Deutschlandsberg", hu: "Deutschlandsberg", ro: "Deutschlandsberg", en: "Deutschlandsberg" }, centerLat: 46.81, centerLng: 15.22, labelX: 270, labelY: 775, path: rect(200, 725) },
-  { id: "AT-6-EF", name: { de: "Feldbach", hu: "Feldbach", ro: "Feldbach", en: "Feldbach" }, centerLat: 46.95, centerLng: 15.88, labelX: 690, labelY: 675, path: rect(620, 625) },
-  { id: "AT-6-FF", name: { de: "Fürstenfeld", hu: "Fürstenfeld", ro: "Fürstenfeld", en: "Fürstenfeld" }, centerLat: 47.05, centerLng: 16.08, labelX: 830, labelY: 575, path: rect(760, 525) },
-  { id: "AT-6-GB", name: { de: "Graz-Umgebung", hu: "Graz-Umgebung", ro: "Graz-Umgebung", en: "Graz-Umgebung" }, centerLat: 47.0, centerLng: 15.4, labelX: 480, labelY: 575, path: rect(410, 525) },
-  { id: "AT-6-GR", name: { de: "Graz-Stadt", hu: "Graz város", ro: "Graz-Stadt", en: "Graz Stadt" }, centerLat: 47.07, centerLng: 15.44, labelX: 550, labelY: 575, path: rect(480, 525) },
-  { id: "AT-6-HB", name: { de: "Hartberg-Fürstenfeld", hu: "Hartberg-Fürstenfeld", ro: "Hartberg-Fürstenfeld", en: "Hartberg-Fürstenfeld" }, centerLat: 47.28, centerLng: 15.98, labelX: 760, labelY: 375, path: rect(690, 325) },
-  { id: "AT-6-JE", name: { de: "Jennersdorf", hu: "Jennersdorf", ro: "Jennersdorf", en: "Jennersdorf" }, centerLat: 46.94, centerLng: 16.14, labelX: 900, labelY: 775, path: rect(830, 725) },
-  { id: "AT-6-KF", name: { de: "Knittelfeld", hu: "Knittelfeld", ro: "Knittelfeld", en: "Knittelfeld" }, centerLat: 47.22, centerLng: 14.83, labelX: 200, labelY: 475, path: rect(130, 425) },
-  { id: "AT-6-LB", name: { de: "Leibnitz", hu: "Leibnitz", ro: "Leibnitz", en: "Leibnitz" }, centerLat: 46.78, centerLng: 15.54, labelX: 550, labelY: 875, path: rect(480, 825) },
-  { id: "AT-6-LE", name: { de: "Leoben", hu: "Leoben", ro: "Leoben", en: "Leoben" }, centerLat: 47.38, centerLng: 15.09, labelX: 340, labelY: 275, path: rect(270, 225) },
-  { id: "AT-6-LI", name: { de: "Liezen", hu: "Liezen", ro: "Liezen", en: "Liezen" }, centerLat: 47.56, centerLng: 14.24, labelX: 130, labelY: 175, path: rect(60, 125) },
-  { id: "AT-6-MK", name: { de: "Murau", hu: "Murau", ro: "Murau", en: "Murau" }, centerLat: 47.1, centerLng: 14.17, labelX: 130, labelY: 575, path: rect(60, 525) },
-  { id: "AT-6-MT", name: { de: "Murtal", hu: "Murtal", ro: "Murtal", en: "Murtal" }, centerLat: 47.2, centerLng: 14.65, labelX: 270, labelY: 475, path: rect(200, 425) },
-  { id: "AT-6-PB", name: { de: "Leibnitz-Land", hu: "Leibnitz-Land", ro: "Leibnitz-Land", en: "Leibnitz-Land" }, centerLat: 46.82, centerLng: 15.45, labelX: 410, labelY: 875, path: rect(340, 825) },
-  { id: "AT-6-RA", name: { de: "Radkersburg", hu: "Radkersburg", ro: "Radkersburg", en: "Radkersburg" }, centerLat: 46.68, centerLng: 15.98, labelX: 760, labelY: 1025, path: rect(690, 975) },
-  { id: "AT-6-VO", name: { de: "Voitsberg", hu: "Voitsberg", ro: "Voitsberg", en: "Voitsberg" }, centerLat: 47.04, centerLng: 15.14, labelX: 270, labelY: 675, path: rect(200, 625) },
-  { id: "AT-6-WK", name: { de: "Weiz", hu: "Weiz", ro: "Weiz", en: "Weiz" }, centerLat: 47.22, centerLng: 15.63, labelX: 620, labelY: 475, path: rect(550, 425) },
-];
-
-// AT-7 — Tyrol / Tirol (9 Bezirke)
-const tyrolDistricts: AustriaDistrict[] = [
-  { id: "AT-7-EL", name: { de: "Innsbruck-Land", hu: "Innsbruck-Land", ro: "Innsbruck-Land", en: "Innsbruck-Land" }, centerLat: 47.27, centerLng: 11.4, labelX: 550, labelY: 475, path: rect(480, 425) },
-  { id: "AT-7-IL", name: { de: "Imst", hu: "Imst", ro: "Imst", en: "Imst" }, centerLat: 47.24, centerLng: 10.74, labelX: 270, labelY: 475, path: rect(200, 425) },
-  { id: "AT-7-IS", name: { de: "Innsbruck-Stadt", hu: "Innsbruck város", ro: "Innsbruck-Stadt", en: "Innsbruck Stadt" }, centerLat: 47.27, centerLng: 11.39, labelX: 480, labelY: 375, path: rect(410, 325) },
-  { id: "AT-7-KB", name: { de: "Kitzbühel", hu: "Kitzbühel", ro: "Kitzbühel", en: "Kitzbühel" }, centerLat: 47.45, centerLng: 12.39, labelX: 830, labelY: 275, path: rect(760, 225) },
-  { id: "AT-7-KU", name: { de: "Kufstein", hu: "Kufstein", ro: "Kufstein", en: "Kufstein" }, centerLat: 47.58, centerLng: 12.17, labelX: 760, labelY: 175, path: rect(690, 125) },
-  { id: "AT-7-LA", name: { de: "Landeck", hu: "Landeck", ro: "Landeck", en: "Landeck" }, centerLat: 47.14, centerLng: 10.56, labelX: 130, labelY: 575, path: rect(60, 525) },
-  { id: "AT-7-LI", name: { de: "Lienz", hu: "Lienz", ro: "Lienz", en: "Lienz" }, centerLat: 46.83, centerLng: 12.77, labelX: 900, labelY: 875, path: rect(830, 825) },
-  { id: "AT-7-RE", name: { de: "Reutte", hu: "Reutte", ro: "Reutte", en: "Reutte" }, centerLat: 47.48, centerLng: 10.71, labelX: 200, labelY: 175, path: rect(130, 125) },
-  { id: "AT-7-SZ", name: { de: "Schwaz", hu: "Schwaz", ro: "Schwaz", en: "Schwaz" }, centerLat: 47.35, centerLng: 11.7, labelX: 690, labelY: 375, path: rect(620, 325) },
-];
-
-// AT-8 — Vorarlberg (4 Bezirke)
-const vorarlbergDistricts: AustriaDistrict[] = [
-  { id: "AT-8-BL", name: { de: "Bludenz", hu: "Bludenz", ro: "Bludenz", en: "Bludenz" }, centerLat: 47.15, centerLng: 9.82, labelX: 340, labelY: 675, path: rect(270, 625) },
-  { id: "AT-8-BR", name: { de: "Bregenz", hu: "Bregenz", ro: "Bregenz", en: "Bregenz" }, centerLat: 47.51, centerLng: 9.74, labelX: 270, labelY: 175, path: rect(200, 125) },
-  { id: "AT-8-DL", name: { de: "Dornbirn", hu: "Dornbirn", ro: "Dornbirn", en: "Dornbirn" }, centerLat: 47.41, centerLng: 9.74, labelX: 270, labelY: 375, path: rect(200, 325) },
-  { id: "AT-8-FK", name: { de: "Feldkirch", hu: "Feldkirch", ro: "Feldkirch", en: "Feldkirch" }, centerLat: 47.24, centerLng: 9.6, labelX: 200, labelY: 525, path: rect(130, 475) },
-];
-
-// AT-9 — Vienna / Wien (23 Gemeindebezirke)
-const viennaDistricts: AustriaDistrict[] = [
-  { id: "AT-9-01", name: { de: "Innere Stadt", hu: "Belváros", ro: "Innere Stadt", en: "Innere Stadt" }, centerLat: 48.21, centerLng: 16.37, labelX: 480, labelY: 525, path: rect(440, 500, 80, 60) },
-  { id: "AT-9-02", name: { de: "Leopoldstadt", hu: "Leopoldstadt", ro: "Leopoldstadt", en: "Leopoldstadt" }, centerLat: 48.22, centerLng: 16.39, labelX: 620, labelY: 475, path: rect(580, 450, 80, 60) },
-  { id: "AT-9-03", name: { de: "Landstraße", hu: "Landstraße", ro: "Landstraße", en: "Landstraße" }, centerLat: 48.2, centerLng: 16.39, labelX: 620, labelY: 575, path: rect(580, 550, 80, 60) },
-  { id: "AT-9-04", name: { de: "Wieden", hu: "Wieden", ro: "Wieden", en: "Wieden" }, centerLat: 48.19, centerLng: 16.36, labelX: 480, labelY: 625, path: rect(440, 600, 80, 60) },
-  { id: "AT-9-05", name: { de: "Margareten", hu: "Margareten", ro: "Margareten", en: "Margareten" }, centerLat: 48.18, centerLng: 16.35, labelX: 340, labelY: 675, path: rect(300, 650, 80, 60) },
-  { id: "AT-9-06", name: { de: "Mariahilf", hu: "Mariahilf", ro: "Mariahilf", en: "Mariahilf" }, centerLat: 48.2, centerLng: 16.35, labelX: 340, labelY: 575, path: rect(300, 550, 80, 60) },
-  { id: "AT-9-07", name: { de: "Neubau", hu: "Neubau", ro: "Neubau", en: "Neubau" }, centerLat: 48.2, centerLng: 16.35, labelX: 200, labelY: 575, path: rect(160, 550, 80, 60) },
-  { id: "AT-9-08", name: { de: "Josefstadt", hu: "Josefstadt", ro: "Josefstadt", en: "Josefstadt" }, centerLat: 48.21, centerLng: 16.34, labelX: 200, labelY: 475, path: rect(160, 450, 80, 60) },
-  { id: "AT-9-09", name: { de: "Alsergrund", hu: "Alsergrund", ro: "Alsergrund", en: "Alsergrund" }, centerLat: 48.22, centerLng: 16.35, labelX: 340, labelY: 375, path: rect(300, 350, 80, 60) },
-  { id: "AT-9-10", name: { de: "Favoriten", hu: "Favoriten", ro: "Favoriten", en: "Favoriten" }, centerLat: 48.16, centerLng: 16.37, labelX: 480, labelY: 775, path: rect(440, 750, 80, 60) },
-  { id: "AT-9-11", name: { de: "Simmering", hu: "Simmering", ro: "Simmering", en: "Simmering" }, centerLat: 48.17, centerLng: 16.43, labelX: 760, labelY: 725, path: rect(720, 700, 80, 60) },
-  { id: "AT-9-12", name: { de: "Meidling", hu: "Meidling", ro: "Meidling", en: "Meidling" }, centerLat: 48.17, centerLng: 16.33, labelX: 340, labelY: 725, path: rect(300, 700, 80, 60) },
-  { id: "AT-9-13", name: { de: "Hietzing", hu: "Hietzing", ro: "Hietzing", en: "Hietzing" }, centerLat: 48.18, centerLng: 16.28, labelX: 130, labelY: 675, path: rect(90, 650, 80, 60) },
-  { id: "AT-9-14", name: { de: "Penzing", hu: "Penzing", ro: "Penzing", en: "Penzing" }, centerLat: 48.2, centerLng: 16.29, labelX: 130, labelY: 575, path: rect(90, 550, 80, 60) },
-  { id: "AT-9-15", name: { de: "Rudolfsheim-Fünfhaus", hu: "Rudolfsheim-Fünfhaus", ro: "Rudolfsheim-Fünfhaus", en: "Rudolfsheim-Fünfhaus" }, centerLat: 48.2, centerLng: 16.33, labelX: 200, labelY: 575, path: rect(160, 550, 80, 60) },
-  { id: "AT-9-16", name: { de: "Ottakring", hu: "Ottakring", ro: "Ottakring", en: "Ottakring" }, centerLat: 48.21, centerLng: 16.31, labelX: 130, labelY: 475, path: rect(90, 450, 80, 60) },
-  { id: "AT-9-17", name: { de: "Hernals", hu: "Hernals", ro: "Hernals", en: "Hernals" }, centerLat: 48.22, centerLng: 16.31, labelX: 130, labelY: 375, path: rect(90, 350, 80, 60) },
-  { id: "AT-9-18", name: { de: "Währing", hu: "Währing", ro: "Währing", en: "Währing" }, centerLat: 48.23, centerLng: 16.33, labelX: 200, labelY: 325, path: rect(160, 300, 80, 60) },
-  { id: "AT-9-19", name: { de: "Döbling", hu: "Döbling", ro: "Döbling", en: "Döbling" }, centerLat: 48.25, centerLng: 16.35, labelX: 340, labelY: 225, path: rect(300, 200, 80, 60) },
-  { id: "AT-9-20", name: { de: "Brigittenau", hu: "Brigittenau", ro: "Brigittenau", en: "Brigittenau" }, centerLat: 48.24, centerLng: 16.37, labelX: 480, labelY: 325, path: rect(440, 300, 80, 60) },
-  { id: "AT-9-21", name: { de: "Floridsdorf", hu: "Floridsdorf", ro: "Floridsdorf", en: "Floridsdorf" }, centerLat: 48.27, centerLng: 16.4, labelX: 620, labelY: 175, path: rect(580, 150, 80, 60) },
-  { id: "AT-9-22", name: { de: "Donaustadt", hu: "Donaustadt", ro: "Donaustadt", en: "Donaustadt" }, centerLat: 48.23, centerLng: 16.45, labelX: 760, labelY: 325, path: rect(720, 300, 80, 60) },
-  { id: "AT-9-23", name: { de: "Liesing", hu: "Liesing", ro: "Liesing", en: "Liesing" }, centerLat: 48.14, centerLng: 16.28, labelX: 130, labelY: 875, path: rect(90, 850, 80, 60) },
-];
-
 export const atAdmin2Map: Record<string, AustriaDistrict[]> = {
-  "AT-1": burgenlandDistricts,
-  "AT-2": carinthiaDistricts,
-  "AT-3": lowerAustriaDistricts,
-  "AT-4": upperAustriaDistricts,
-  "AT-5": salzburgDistricts,
-  "AT-6": styriaDistricts,
-  "AT-7": tyrolDistricts,
-  "AT-8": vorarlbergDistricts,
-  "AT-9": viennaDistricts,
+  // Burgenland
+  "AT-1": [
+    {
+      id: "AT-101",
+      name: { de: "Eisenstadt(Stadt)", hu: "Eisenstadt(Stadt)", ro: "Eisenstadt(Stadt)", en: "Eisenstadt(Stadt)" },
+      labelX: 341.4, labelY: 197.3,
+      path: "M347.6,221.4L349.8,200.9L369.3,186.5L349.1,175L312.6,179.6L315.5,201.6L338.8,221.8L347.6,221.4Z"
+    },
+    {
+      id: "AT-103",
+      name: { de: "Eisenstadt-Umgebung", hu: "Eisenstadt-Umgebung", ro: "Eisenstadt-Umgebung", en: "Eisenstadt-Umgebung" },
+      labelX: 356, labelY: 194.2,
+      path: "M372.5,241.6L348.4,245.2L342.6,251.7L326.9,241.7L324.1,229.9L304.7,221.7L291.9,216.3L283.8,218.1L267.5,218.9L244.7,205.1L259,194.3L236.6,180L256,175.5L265.9,175.7L278.5,161.2L286.4,146.8L314.3,138.4L332.1,137.9L353.3,161.1L363,169.9L376,160.1L395.4,143.6L399.8,136.6L433,125.2L445.9,127.5L491.7,160.8L484.1,167.7L470.7,180L453.3,204.9L419.5,208.7L405.6,204.9L405.9,219.6L423.3,224.9L444.4,238.5L409.5,250.8L396.7,241L382.7,240.3L372.5,241.6ZM312.6,179.6L315.5,201.6L338.8,221.8L343.1,206.5L366.5,196.2L358.8,171.3L336.3,176.3L312.6,179.6Z"
+    },
+    {
+      id: "AT-102",
+      name: { de: "Rust(Stadt)", hu: "Rust(Stadt)", ro: "Rust(Stadt)", en: "Rust(Stadt)" },
+      labelX: 423.3, labelY: 214.8,
+      path: "M451.2,212.9L415.1,203.7L401,207.7L413.7,224.9L447.1,228.3L451.2,212.9Z"
+    },
+    {
+      id: "AT-105",
+      name: { de: "Jennersdorf", hu: "Jennersdorf", ro: "Jennersdorf", en: "Jennersdorf" },
+      labelX: 118.5, labelY: 678.2,
+      path: "M78.8,749.3L57.4,754.2L40,757.4L46.8,744.8L55.2,728L63.3,718.7L82.9,701.3L95.4,691L110.1,670.6L128.5,670.5L115.2,658.6L108.4,639.1L91.1,624.7L93.6,614.6L99,602.4L119.2,592.2L129.2,607.9L122.2,625.8L134.1,644.2L149.5,640.2L178.3,641L186.5,656.2L203.2,655.4L203.8,657.8L196.6,686.2L179.9,693.6L159.5,697.5L142.3,717.5L119.7,729.5L93.5,741L78.8,749.3Z"
+    },
+    {
+      id: "AT-104",
+      name: { de: "Güssing", hu: "Güssing", ro: "Güssing", en: "Güssing" },
+      labelX: 218.1, labelY: 611.5,
+      path: "M222.4,663.9L209.1,661.9L203.5,655.4L192.2,654.3L172.7,654.3L169.4,638.3L144.3,639.1L125,636.9L114.2,622.9L120,600.9L106.4,590.9L103.2,572.1L93.3,554.4L88.6,540.9L96.8,534.6L114.9,546.7L140.9,553.6L169.3,546.2L187.1,554L201.5,560.8L225.3,565.5L225.2,587.1L262.2,589.6L274.2,592.5L291.6,593.9L316.3,582.1L337.7,588.6L321.5,596.4L313.1,608L314.5,626.9L333.1,630.9L312.7,638.6L287.4,648.7L301.1,647.3L326.5,663.3L294.4,663L281.1,669.2L258.2,665.1L245.9,661.2L233.8,665.9L222.4,663.9Z"
+    },
+    {
+      id: "AT-107",
+      name: { de: "Neusiedl am See", hu: "Neusiedl am See", ro: "Neusiedl am See", en: "Neusiedl am See" },
+      labelX: 571.4, labelY: 148.7,
+      path: "M578.4,278.1L529.4,279.6L520.4,267.9L505.2,283.7L455.7,276.7L445.1,254.3L447.1,228.3L453.3,204.9L470.7,180L484.1,167.7L491.7,160.8L445.9,127.5L434.6,99.8L466.9,98.7L503.4,90L515.1,75.3L539.7,64.7L554.4,68.5L556.2,77.8L583.8,83.4L593.6,90.1L610.2,65.2L585,50.1L599.9,45.4L621.2,59.2L636.9,45L644.4,47.1L643.8,58.2L650.2,80.8L651.4,95.3L672,94.6L690.9,102.7L666.5,128.2L664.1,146.9L659.4,162.7L644.6,174.8L623.5,180.8L607.4,186.1L627.3,202.3L629.6,221.5L640.7,246.1L653.1,269.4L623.6,271.6L578.4,278.1Z"
+    },
+    {
+      id: "AT-106",
+      name: { de: "Mattersburg", hu: "Mattersburg", ro: "Mattersburg", en: "Mattersburg" },
+      labelX: 263.6, labelY: 251.4,
+      path: "M277.8,293.4L271.3,302.3L254.6,310L238.7,289.8L228.4,286L214.9,281.2L207,265.5L207.4,250.4L208.9,239.5L211.9,226.9L192.3,223.1L201.9,211.7L214,223.3L227.5,217.9L240.4,206.6L257.5,214.6L269.2,216.4L287.4,218.1L302.2,224.8L322.3,225.6L320.2,238.3L333.2,249.1L342,253.6L344.2,267.4L320.4,272.1L307.5,284.5L292.2,276.1L277.8,293.4Z"
+    },
+    {
+      id: "AT-109",
+      name: { de: "Oberwart", hu: "Oberwart", ro: "Oberwart", en: "Oberwart" },
+      labelX: 194, labelY: 501.3,
+      path: "M277.5,555.2L295.5,560.2L295.4,577.2L291.6,593.9L274.2,592.5L262.2,589.6L225.2,587.1L225.3,565.5L201.5,560.8L187.1,554L169.3,546.2L140.9,553.6L114.9,546.7L96.8,534.6L88,519.1L83.9,511.8L75.4,489.4L61.4,466.6L61.1,457.3L75,450.8L82.4,439.5L94.1,447.3L98.7,433.5L121.3,432L138.1,429.2L166.8,426.6L193,410.4L207.5,411.8L210.6,425.4L218,439.1L238.1,444.5L250.2,462.9L253.2,471.8L284.6,468.1L300.9,477.6L315.7,508.7L309.6,518.4L282.7,525.4L286.2,548L277.5,555.2Z"
+    },
+    {
+      id: "AT-108",
+      name: { de: "Oberpullendorf", hu: "Oberpullendorf", ro: "Oberpullendorf", en: "Oberpullendorf" },
+      labelX: 305.2, labelY: 384.6,
+      path: "M298.5,434.5L297.9,450.2L284.6,468.1L253.2,471.8L250.2,462.9L238.1,444.5L218,439.1L210.6,425.4L207.5,411.8L211.4,404.1L232,376.8L217.5,362L226.7,339.8L226,331.1L240.1,318.8L250.3,306.2L266.7,309.9L277.9,293.8L310,301.9L330.8,304.6L362.2,318.8L397.1,314.4L410.8,326.5L412.8,347.4L424.5,351.6L436.5,372.9L406.8,385.7L412.2,410.6L392.5,418.5L370.7,429L347.5,438.6L331.1,435.8L319.7,447.4L298.5,434.5Z"
+    }
+  ],
+  // Kärnten
+  "AT-2": [
+    {
+      id: "AT-210",
+      name: { de: "Feldkirchen", hu: "Feldkirchen", ro: "Feldkirchen", en: "Feldkirchen" },
+      labelX: 558.2, labelY: 172.2,
+      path: "M558.1,217.7L540.4,222.6L525.2,224.8L534.6,218.5L536.6,214.3L526.5,203.1L538.2,198.7L530.6,183.6L516.5,179.4L498.3,174.1L487.3,173.1L491.7,162.7L493.3,149.8L472.1,135.3L474.5,124.7L482.6,121.2L502.1,120.6L515,115.4L528.1,110.8L531.2,115.7L546.8,121.5L553.4,136.3L564.3,147.9L590.6,152.6L604.3,146.6L601.5,151.3L594.3,162.4L607.8,162L614.6,169.1L623.1,175.1L632.5,174.5L624.1,181.5L629.5,189.8L652.5,193.5L642.3,204.6L620,209.8L607.3,209.6L596,214.3L573,219.5L558.1,217.7Z"
+    },
+    {
+      id: "AT-202",
+      name: { de: "Villach Stadt", hu: "Villach Stadt", ro: "Villach Stadt", en: "Villach Stadt" },
+      labelX: 496.4, labelY: 236.7,
+      path: "M544.9,245.2L527.1,238.5L532,222.7L535.2,217.7L516.6,221.3L492.6,222.8L480,216.8L476.6,225.6L462.9,229.5L449.2,234.5L436.5,239.7L456.1,247.1L465,258.7L491.6,254L506.3,248.3L530.1,251.6L538.1,249.2L544.9,245.2Z"
+    },
+    {
+      id: "AT-201",
+      name: { de: "Klagenfurt Stadt", hu: "Klagenfurt Stadt", ro: "Klagenfurt Stadt", en: "Klagenfurt Stadt" },
+      labelX: 670.5, labelY: 227.6,
+      path: "M648,251.2L663,252.3L676.4,246.5L688.6,236.2L709.8,231.9L705.7,225.6L692.2,219.8L688.3,218.9L680.2,214.1L665.6,215.2L668.5,201.5L648.6,205.6L635.2,212.6L645.6,232.5L644.5,240.4L648,251.2Z"
+    },
+    {
+      id: "AT-204",
+      name: { de: "Klagenfurt Land", hu: "Klagenfurt Land", ro: "Klagenfurt Land", en: "Klagenfurt Land" },
+      labelX: 670.2, labelY: 245.6,
+      path: "M725.6,274.2L739.2,278.8L729.6,296.6L719.1,302.8L699.1,304.3L680,307.1L668.4,304.6L651.5,304.3L635.4,302.8L626.1,302.5L612.2,305.6L604.7,296.8L595.7,289.1L598.4,271.6L592.9,265.6L585.3,262L576.2,249.9L583.3,242.5L574.9,233.5L573,219.5L596,214.3L607.3,209.6L620,209.8L642.3,204.6L635.2,212.6L645.6,232.5L644.5,240.4L648,251.2L663,252.3L676.4,246.5L688.6,236.2L709.8,231.9L705.7,225.6L692.2,219.8L688.3,218.9L680.2,214.1L665.6,215.2L668.4,207.1L684.3,204.1L690.9,196.1L699.6,194.9L708.6,196.3L720.3,196.6L732.4,203.3L738.9,208L750.5,213.8L746.4,224.3L754,239.8L743.1,249.2L734.3,258.2L727.6,256.5L732.2,264.2L725.6,274.2Z"
+    },
+    {
+      id: "AT-203",
+      name: { de: "Hermagor", hu: "Hermagor", ro: "Hermagor", en: "Hermagor" },
+      labelX: 222.9, labelY: 223.8,
+      path: "M348.7,221.4L364.5,222.3L375.9,221.3L389.7,221.1L382.8,231.1L386.6,241.7L379.9,251.5L363.7,255.7L332.9,258.7L327.4,253.7L309.7,254.3L294.1,260.7L279.8,258.9L262.7,261.2L250.9,254.6L235.5,247.1L204.6,242.4L183.5,244.4L166.2,243.1L152.1,241.8L129.2,240.1L114.9,241L108.9,232.4L85.5,225L73.7,228.4L62.9,224.2L52.3,214.9L60.7,202.7L66,188L74.9,186.5L98.5,183.1L111.2,188.6L121.3,194.3L134,194L153.7,194.8L169.7,200.7L185.2,204.2L203.4,204.3L210.2,210.6L224.3,210.5L249.8,206.7L258.4,200.1L281.1,208.1L291,206.3L308.8,215.3L323.7,218.5L336.4,221L348.7,221.4Z"
+    },
+    {
+      id: "AT-206",
+      name: { de: "Spittal an der Drau", hu: "Spittal an der Drau", ro: "Spittal an der Drau", en: "Spittal an der Drau" },
+      labelX: 255.7, labelY: 132.4,
+      path: "M332.5,193.5L339.8,203.8L331.4,209.9L336.4,221L323.7,218.5L308.8,215.3L291,206.3L281.1,208.1L258.4,200.1L249.8,206.7L224.3,210.5L210.2,210.6L203.4,204.3L185.2,204.2L169.7,200.7L153.7,194.8L134,194L121.3,194.3L111.2,188.6L116.4,181.7L132.7,175.3L144.9,180.2L153.5,173.1L157.1,167L135.6,157.8L131.2,156.6L110.4,143.1L109.9,131L108.8,123.5L97.9,119.6L89.5,113.1L79.2,106.6L72.2,101.9L66.4,93L77.5,80.5L69.8,74.1L57,63.1L45.3,49.2L58.2,43.4L71.3,51.7L84.3,51.5L96.5,52.6L108.7,58.4L121.8,57.1L140.3,58.9L149.4,67.4L157.7,75.1L172.3,73.3L178.7,78.5L201.8,79.8L222,76.7L241.6,73.3L265.9,70.7L266.5,56.6L285.7,56.5L306.5,52.9L317,59.4L334.4,59L346,59.4L384.6,68.7L398.1,68.7L414.7,68.8L433.4,74.8L438.2,88.8L451.4,94.2L465.9,98.8L470.8,111.5L479.2,121.2L475.5,130L483.3,141.4L494.4,154.5L493.2,167.3L486.2,173.3L476.9,170.3L460.7,172L448.7,171.6L432.6,169.3L419.5,179.3L401.8,179.7L395.6,187.8L377.6,183.1L359.4,183.8L344.8,178.1L338.2,190.9L332.5,193.5Z"
+    },
+    {
+      id: "AT-205",
+      name: { de: "Sankt Veit an der Glan", hu: "Sankt Veit an der Glan", ro: "Sankt Veit an der Glan", en: "Sankt Veit an der Glan" },
+      labelX: 677.5, labelY: 142.2,
+      path: "M780.1,181.1L782,190.1L769.3,196.9L758,188.9L754.6,200.2L743.1,209.8L731.4,209.3L730.5,198.2L713.1,192.4L702.8,198.1L696.2,198L689.7,200.5L680.9,201.8L665.7,206.2L657.5,201.8L641.5,205.9L643.9,199.8L649.3,188.8L624.6,186.3L631.2,180.9L628.1,171.8L614.1,172.8L619.4,167.3L604.6,164.8L601.1,155.6L605,146.5L595.7,152.7L586.4,149.4L552.6,141.6L550.3,124.3L533.9,121.1L532.8,112.7L540.9,104.2L559.4,94.2L563.2,87.5L580.7,85.2L592,75.5L600.3,68.7L614.8,70L630.4,61L638.9,76.5L643.9,79.2L653,79.8L683.4,81L699.3,85.2L700.5,97.7L717.5,89.9L728.8,85.6L735.7,82.6L754.5,86.5L779.6,89.4L795.6,98.5L814.7,107.2L810.4,111.3L805.3,130.1L797.9,138.9L802.3,156.6L800.2,165.5L795.7,172L780.1,181.1Z"
+    },
+    {
+      id: "AT-208",
+      name: { de: "Völkermarkt", hu: "Völkermarkt", ro: "Völkermarkt", en: "Völkermarkt" },
+      labelX: 800.2, labelY: 246.5,
+      path: "M843.1,279.4L836.3,279.1L826.2,281.1L819.7,290.7L812.2,295.4L805.1,302.3L785.9,304.2L775.9,313.2L774,328L760.2,317.9L752.6,310.1L741.1,314.3L723.8,311L719.1,302.8L729.6,296.6L739.2,278.8L725.6,274.2L732.2,264.2L727.6,256.5L734.3,258.2L743.1,249.2L754,239.8L746.4,224.3L750.5,213.8L747.7,202.5L755.2,191.3L764.8,192.3L773.2,192.4L784,185.9L795.2,185.4L800.7,168.4L804.1,160.4L816.9,163.5L826,170L832.8,179L841.1,192.6L847.6,199.5L861.1,213.9L881.6,213.1L887.9,222.9L918.2,230.3L904.8,236.7L899.2,240.8L889.2,238.6L871.9,256.9L867.4,267.9L852.8,281.2L843.1,279.4Z"
+    },
+    {
+      id: "AT-207",
+      name: { de: "Villach Land", hu: "Villach Land", ro: "Villach Land", en: "Villach Land" },
+      labelX: 471.6, labelY: 229.3,
+      path: "M585.3,262L592.9,265.6L598.4,271.6L595.7,289.1L579.6,285.8L566.3,284.5L555.6,288.2L541.5,282.3L519.5,273L498.9,275.7L480.8,278.8L459.1,274.2L448.4,272.2L425.8,270.8L395.4,264L386.4,261.5L367.8,262.4L370.5,254.8L384.1,246.3L378.8,234.9L390.5,226.9L386.6,222.5L371.6,222.9L354.4,216.7L336.4,221L331.4,209.9L339.8,203.8L332.5,193.5L334.5,186.4L346.4,182.2L365.5,187.2L387.7,184.6L402.7,185L407.6,175.4L428.6,170L443.8,169.9L456.9,170.2L466.6,168.9L485.7,173.3L487.3,173.1L498.3,174.1L516.5,179.4L530.6,183.6L538.2,198.7L526.5,203.1L536.6,214.3L524.3,220.8L511.4,224L486.2,218L476.5,219.1L473.5,230.3L456.7,233.7L449.7,237.8L443.8,246L455.7,255.9L475.5,255L494.5,250.4L512,250.4L533.3,248.4L544.9,245.2L527.1,238.5L535.4,222.2L547,221.7L572.1,218.1L575.7,229.5L579.8,236.7L574,244.6L589,258.3L585.3,262Z"
+    },
+    {
+      id: "AT-209",
+      name: { de: "Wolfsberg", hu: "Wolfsberg", ro: "Wolfsberg", en: "Wolfsberg" },
+      labelX: 880.7, labelY: 154.1,
+      path: "M951.3,196.7L946.7,212.1L954,217.2L951.9,222.9L933.3,234.5L927.2,242.3L918.2,230.3L887.9,222.9L881.6,213.1L861.1,213.9L847.6,199.5L841.1,192.6L832.8,179L826,170L816.9,163.5L801.6,150.2L799.9,133.2L812.2,118.1L814.5,108.6L807.1,102.5L788.2,90.8L807.1,83L830.8,81.9L848.9,75L861.7,75.2L875.7,71.7L886.7,81.4L898.4,89.9L922.5,97L941.7,119.6L940.8,135.4L939,145.6L939.7,154L928.2,164.2L933.9,173.8L947.2,187.2L951.3,196.7Z"
+    }
+  ],
+  // Niederösterreich
+  "AT-3": [
+    {
+      id: "AT-310",
+      name: { de: "Hollabrunn", hu: "Hollabrunn", ro: "Hollabrunn", en: "Hollabrunn" },
+      labelX: 577.2, labelY: 174.3,
+      path: "M592.6,225.1L579.5,223.1L570.7,226.7L555.8,230L550.5,226.4L533.6,225.3L527.7,227.8L513.8,228.2L503,223L496.6,216.6L491,209.6L495.2,204.8L499.2,194.1L513.4,192.7L520.5,187.9L541.6,187L551,180.5L563.2,164.6L549.3,160.9L524.7,157.7L517.4,148.7L518.9,140.2L535.4,135.8L543.5,129.2L544.5,122.9L533.6,121.3L522,113.5L513.6,109.1L490.1,107.4L506.4,91.3L526.6,90.6L536.4,99.2L555.8,104L561.3,111L566.3,115.8L582.1,125L606.9,133.6L620.3,136.9L636.9,137.7L662.8,138.8L663.6,150.9L659.9,156.2L655.1,171.1L666.9,167.9L674.5,180.4L691.2,185.7L685.7,191.6L683.7,204.4L671,199.6L662,201.4L651.4,209L651.3,219.6L647.4,227.7L638.4,231.4L628.5,236.4L618.4,235.7L609.3,225.4L592.6,225.1Z"
+    },
+    {
+      id: "AT-312",
+      name: { de: "Korneuburg", hu: "Korneuburg", ro: "Korneuburg", en: "Korneuburg" },
+      labelX: 681.4, labelY: 247.2,
+      path: "M723.3,285.9L719.3,291.4L706.1,293.4L701.9,284.3L686.6,276.6L683,273.8L668.4,274L650.7,270.3L643.1,273.4L635.3,275.1L629.9,278.7L616.3,272.9L605.8,268.6L591,266.2L579.9,266.9L582.1,249.8L590.6,239.2L593.3,226.5L607.2,232.2L622.2,232.3L633.7,235.6L644,233.2L650.7,225.8L647.8,216.1L659.9,207.7L665.8,198.4L677.8,198L686,200L694.3,191.6L696.6,192.2L704,189.1L712.5,190.9L718,197.5L712.7,205.9L730.3,211.8L727.1,212.2L734.6,218.9L734.7,222.1L737.3,231.9L727.8,241.3L738.5,243.9L740.9,250.1L734.4,258.7L740.5,270.8L747.4,276.8L759.9,278.9L769.3,283.8L761,297.3L754.4,301L739.3,296.7L734.9,286.7L723.3,285.9ZM582.2,249.4L579,246.7L582.2,249.4Z"
+    },
+    {
+      id: "AT-311",
+      name: { de: "Horn", hu: "Horn", ro: "Horn", en: "Horn" },
+      labelX: 467.9, labelY: 150.6,
+      path: "M489.6,194.1L480.8,198.2L467,198.8L456.8,197.4L451.9,201.8L442.1,191.1L434.9,184.2L426.9,180.1L417.7,177.8L416,172.3L403.2,169.5L393.4,171.1L382.8,161.9L392.3,159.5L383.2,152.4L390.9,142.7L405.8,139.7L408.6,130.4L415.1,128.7L415.5,122.6L420.3,110.2L434.6,104.1L443.6,98.4L436.6,86.3L450,84L461.7,88.5L483.1,97.2L490.1,107.4L513.6,109.1L522,113.5L533.6,121.3L544.5,122.9L543.5,129.2L535.4,135.8L518.9,140.2L517.4,148.7L524.7,157.7L549.3,160.9L563.2,164.6L551,180.5L541.6,187L520.5,187.9L513.4,192.7L499.2,194.1L489.6,194.1Z"
+    },
+    {
+      id: "AT-314",
+      name: { de: "Lilienfeld", hu: "Lilienfeld", ro: "Lilienfeld", en: "Lilienfeld" },
+      labelX: 431.8, labelY: 427.3,
+      path: "M537.7,400.5L536.9,409.5L534.1,418.1L520.2,421.5L506.8,423.5L492,428.1L483.1,432.4L466.7,433.8L451.6,443.7L448.6,455.7L454.1,464.5L446.4,476.1L447.2,487.3L412.7,488.9L410.2,481.4L394.1,480.8L384.4,473.1L373.7,470L365.4,461.8L353.3,461L337.3,462.7L333.5,473.2L314.2,470.5L307.9,468.2L295.1,460.9L292.8,452.2L321.6,445.7L326.6,442.6L342.1,439L358.4,438L371.6,433.8L378.4,427.5L384.1,414.6L396.3,413.6L407.3,406.5L419.7,396.7L414.9,390.3L418.1,384.1L428.5,374.4L451.6,375.6L464,370.1L474.8,368.3L489.7,372.3L505.7,374.4L529.6,377.7L540.2,372.8L550.5,382.2L561,384.4L560.5,396.2L552.5,402.1L537.7,400.5Z"
+    },
+    {
+      id: "AT-313",
+      name: { de: "Krems(Land)", hu: "Krems(Land)", ro: "Krems(Land)", en: "Krems(Land)" },
+      labelX: 413, labelY: 240.2,
+      path: "M376.2,285.2L373.7,298.9L366.5,303.8L355,300.9L333.5,301L338.8,287.5L350.5,278.2L338.5,276.3L327,267.9L335.1,263.8L351,263L360.4,251.1L351.6,249.4L346.8,241L333,235.3L335.7,225.7L345.6,222.7L346.8,210.5L340.3,195L344.8,188.4L353.4,184.1L365.9,195.6L378.4,192.8L382.3,187.3L396.1,182.8L411.2,189L408.8,180.6L417.7,177.8L426.9,180.1L434.9,184.2L442.1,191.1L451.9,201.8L456.8,197.4L467,198.8L480.8,198.2L489.6,194.1L495.2,204.8L491,209.6L496.6,216.6L503,223L507.2,229.9L498.5,254.2L489.4,264.2L484.5,264.1L469.8,261.8L463.5,256.1L455.8,246.1L453.7,241.2L441.3,243.4L421,244.8L418.9,255L428.8,261.7L444.9,257.7L455.4,261.6L462.2,266.9L467.5,278.1L456.7,281.6L448.3,282.4L435.8,278.8L418.9,284.1L410.6,287L395.4,288.2L387.3,285.5L376.2,285.2Z"
+    },
+    {
+      id: "AT-316",
+      name: { de: "Mistelbach", hu: "Mistelbach", ro: "Mistelbach", en: "Mistelbach" },
+      labelX: 776.8, labelY: 194.1,
+      path: "M794.8,265.8L810.4,274.5L817,280.5L801.5,288.3L785.3,284.6L776.2,285L764.5,281.7L753.9,275.5L740.2,274.4L730.8,265.9L737.5,256.3L737.7,248.6L728.7,245.4L732,238.9L737.7,227.7L735.8,218.9L726.3,219.3L730.1,211.8L720.8,209.7L723.3,197.2L713.3,194.8L707.1,188.2L705.3,196L696.1,190.5L692.7,198.9L685.7,191.6L691.2,185.7L674.5,180.4L666.9,167.9L655.1,171.1L659.9,156.2L663.6,150.9L662.8,138.8L680.3,138.4L693.4,141L704.1,137.8L710.9,143L728.4,137.8L735,130.9L742.2,117.9L752.7,116.9L772.3,113.9L783.1,119.8L793.1,123.8L813.6,122.9L823.9,135.5L824.6,143L831.2,140.1L847.4,141.6L857.5,148.7L875.6,149L896.1,147.1L907.6,155L909.4,163.9L911.3,174.5L903.6,179.2L886.9,176.1L886.1,184.8L874.6,182.7L864.7,178.1L858.6,175.7L842.7,178.5L834.4,180.7L822.6,177.8L831.3,187.2L823.9,197.7L825.9,203.5L826.7,212.3L818.3,215.6L808.1,222.6L815.7,230.3L800,232.4L793.1,233.8L780.8,248.3L788.9,251.5L791.7,261.2L794.8,265.8Z"
+    },
+    {
+      id: "AT-315",
+      name: { de: "Melk", hu: "Melk", ro: "Melk", en: "Melk" },
+      labelX: 319.1, labelY: 320.9,
+      path: "M362,386.1L347.4,392.4L329,397.2L325.5,382.4L331.6,374.6L318.3,367.5L306.7,360.3L298.9,354.6L288.8,358.6L281.5,348.1L274.8,349.7L257.5,350.1L245.8,354.6L237.1,358.3L224.9,360.6L222.9,348.5L221.3,339.3L229.2,330.7L222.6,329.5L214.8,322.4L228.9,309.4L226.4,294.2L217.7,284.9L213.2,282.1L219.1,266.2L225.4,267L237,270.1L251.3,274.5L270.8,282.7L281,278.1L293.1,275.7L298.7,274.9L311.4,273L317.6,267.2L327,267.9L338.5,276.3L350.5,278.2L338.8,287.5L333.5,301L355,300.9L366.5,303.8L373.7,298.9L376.2,285.2L387.3,285.5L395.4,288.2L410.6,287L416.4,290.2L415.3,299.5L406.1,302.3L402,308.3L394.1,313.7L385.9,321.4L386.8,330.4L388.5,337.2L393.8,344L399,349.2L414.1,350.6L409.4,358.2L388.5,363.8L387.3,371.8L377,379.8L362,386.1Z"
+    },
+    {
+      id: "AT-318",
+      name: { de: "Neunkirchen", hu: "Neunkirchen", ro: "Neunkirchen", en: "Neunkirchen" },
+      labelX: 569.9, labelY: 512,
+      path: "M635.8,559.6L638.9,571.5L640.3,587.4L627.2,585.7L623.3,568.1L614.9,573.3L607,580.6L593.3,571.3L575.7,568.7L556.1,565.2L550.3,560.9L544.6,550.7L536.3,552.6L529.3,545.4L534.9,534.7L521.3,527.2L507,525.7L493.3,525.7L488.5,518L485.1,501.9L470.9,505.7L461.4,499.1L447.2,487.3L446.4,476.1L454.1,464.5L448.6,455.7L455.7,451.1L476.8,449.6L492.5,448.2L507.4,455.5L512.2,463.4L511.3,475.4L520.3,470.5L534.8,463.2L551.1,460.5L560.3,466L572,461.1L584.6,464.6L592.4,465.8L602,467.8L615.1,470.1L628.9,468.5L640.8,475.1L635.7,485.9L645.6,488.7L653.2,487.7L648.9,494.8L654.3,497.3L656.6,511.2L656.7,519.7L651.5,532.5L646.2,536.7L651,545.7L649.3,555.3L654.8,563.7L645.1,560.9L634.3,556.1L635.8,559.6Z"
+    },
+    {
+      id: "AT-317",
+      name: { de: "Mödling", hu: "Mödling", ro: "Mödling", en: "Mödling" },
+      labelX: 668.1, labelY: 366.9,
+      path: "M726,380.8L730.7,391.4L722.1,398.5L709.5,391.6L690.9,384.2L677.8,387.5L662.8,389.9L651.5,386L640.9,376.9L624.3,373.3L613.7,374.2L606.6,367.8L598.7,365L604.6,353L616.7,349.4L628.8,348.5L639.2,340.1L652.3,341L662.7,345.6L662.5,351.9L663.6,355.4L678.2,352.5L689.3,355.5L698.5,351.1L713,354.4L716.3,364.6L730.5,368.1L726,380.8Z"
+    },
+    {
+      id: "AT-319",
+      name: { de: "Sankt Pölten(Land)", hu: "Sankt Pölten(Land)", ro: "Sankt Pölten(Land)", en: "Sankt Pölten(Land)" },
+      labelX: 478.8, labelY: 338.3,
+      path: "M384.1,414.6L378.4,427.5L371.6,433.8L358.4,438L347.2,436.3L345.3,422.3L335.8,422.1L328.5,416L328.6,409.4L329,397.2L347.4,392.4L362,386.1L377,379.8L387.3,371.8L388.5,363.8L409.4,358.2L414.1,350.6L399,349.2L393.8,344L388.5,337.2L386.8,330.4L385.9,321.4L394.1,313.7L402,308.3L406.1,302.3L415.3,299.5L416.4,290.2L410.6,287L418.9,284.1L435.8,278.8L448.3,282.4L456.7,281.6L467.5,278.1L473.4,269.2L487.3,266.1L495.4,264.6L503.9,266.6L519.1,271L522.1,281.4L507.5,281.1L499.6,289L510.6,293.6L519.1,297.6L525.3,298.3L526.7,302.8L528.3,311L528.3,318.4L546.1,313.6L555.6,307.2L568.9,308.1L574.4,315.5L579.7,322.6L588.6,330.9L597.8,324.4L591.7,321L603,317.9L616.1,314.1L624.8,309.2L633.5,305.3L640.2,301L646.7,302.1L657.4,306.5L649.3,321L657.2,328.3L648.2,339.3L636.5,344.9L624.2,353.1L612.1,353.8L601.4,351L590,351.2L570.8,354.5L553.5,361.9L549.5,370.9L536.6,375.5L517.9,372.1L500.8,371.5L484.7,370.2L465.1,368.7L452,372.8L443.6,375.8L417.4,379.7L414.8,386.3L419.2,394.9L407.1,401.3L404.8,410L389,413.6L384.1,414.6ZM434.5,324.7L427.6,335.4L430.7,342.3L440.6,347.1L437.6,354.2L457.6,357.8L462.5,352.7L458.5,344.3L466.2,335.9L475.7,330.3L486.7,325.2L487.6,311.7L491.1,305.7L481.3,305.1L467.4,307.5L456.4,312.2L443.2,317.8L434.5,324.7Z"
+    },
+    {
+      id: "AT-301",
+      name: { de: "Krems an der Donau(Stadt)", hu: "Krems an der Donau(Stadt)", ro: "Krems an der Donau(Stadt)", en: "Krems an der Donau(Stadt)" },
+      labelX: 453.4, labelY: 256.7,
+      path: "M444.9,257.7L455.4,261.6L462.2,266.9L473.4,269.2L487.3,266.1L475.8,263.6L468.6,255.7L457.8,252.6L459.3,242.6L448.3,245L436,246.7L419.1,251L426.8,254.3L438.3,258.3L444.9,257.7Z"
+    },
+    {
+      id: "AT-303",
+      name: { de: "Waidhofen an der Ybbs(Stadt)", hu: "Waidhofen an der Ybbs(Stadt)", ro: "Waidhofen an der Ybbs(Stadt)", en: "Waidhofen an der Ybbs(Stadt)" },
+      labelX: 152.9, labelY: 414,
+      path: "M173.8,430.2L172,410.8L195.7,407.1L193.5,402.3L182.2,391.5L175.6,395.1L165.9,402.3L144.2,406.7L130.5,399.1L122.8,406.5L114.3,412.1L108,420L127.3,425.8L135.8,422.5L141.3,428.7L150.5,442L168,432.3L173.8,430.2Z"
+    },
+    {
+      id: "AT-302",
+      name: { de: "Sankt Pölten(Stadt)", hu: "Sankt Pölten(Stadt)", ro: "Sankt Pölten(Stadt)", en: "Sankt Pölten(Stadt)" },
+      labelX: 459.1, labelY: 330.7,
+      path: "M459.5,356.5L462.6,346.5L459.2,337.7L467.7,329.8L476.5,327.4L491.3,318.6L490.6,308.6L484.2,307L476.8,307.4L465.2,314.1L449.6,315.6L436.3,319.3L434.1,332.5L428.6,341L439.7,341.1L436.9,348.9L445,356.5L459.5,356.5Z"
+    },
+    {
+      id: "AT-305",
+      name: { de: "Amstetten", hu: "Amstetten", ro: "Amstetten", en: "Amstetten" },
+      labelX: 153.9, labelY: 397,
+      path: "M112.1,409.5L113.2,419.6L101.2,419.8L93.5,417.5L74.9,406.7L53.1,400.3L51.1,395.4L40,384.4L40.6,368.4L53,360.9L47.1,349.8L49.4,339.2L48.8,328.5L60.9,317.1L76.9,318.2L94.7,330.6L106.1,337.9L116.4,342.7L127.8,342.3L139.8,339L150.3,336.5L171.3,333L181.1,325.1L191.4,317.6L201.8,317.6L218.4,328.3L224.5,330.1L225,330.9L221.2,343.8L223,358.8L227.9,358.6L235.2,369.1L226.2,374L219.7,380L210.2,385.3L199.9,389.2L192.8,390.6L182.1,392.9L168,399.6L153.6,403.7L138.7,402.2L122.2,402.6L112.1,409.5ZM191.2,467.4L176.7,473.6L187.4,481.7L181.6,491.1L167.6,489.8L143.7,492.6L138.6,484.6L130.1,473.6L130.6,465.4L134,458.7L129.5,452.2L144.5,446.9L150.5,442L168,432.3L168.4,418.4L186.6,409.8L203.7,408.7L216.6,414.1L212,425L230.5,424.4L220.3,434.2L212.7,443.1L207.8,447.7L213.2,456.3L196.9,465.3L191.2,467.4Z"
+    },
+    {
+      id: "AT-304",
+      name: { de: "Wiener Neustadt(Stadt)", hu: "Wiener Neustadt(Stadt)", ro: "Wiener Neustadt(Stadt)", en: "Wiener Neustadt(Stadt)" },
+      labelX: 662.3, labelY: 468.5,
+      path: "M651.3,467.5L646.9,479.3L638.9,489L649.3,485.1L659.9,487.3L669.2,479.3L678.8,473.2L684.8,466.1L678.4,459.8L680.1,450.9L662.2,453.5L656.5,446.5L651.8,454.3L651.3,467.5Z"
+    },
+    {
+      id: "AT-307",
+      name: { de: "Bruck an der Leitha", hu: "Bruck an der Leitha", ro: "Bruck an der Leitha", en: "Bruck an der Leitha" },
+      labelX: 835.4, labelY: 377.5,
+      path: "M798.5,430.5L788.6,438.9L785.9,437.1L774.7,427.9L771.6,417.2L778.3,408.1L776.3,399.5L758.5,392.5L745.5,404L729.2,399.2L727.8,397.5L731,382.2L725.4,371.4L725.7,366.4L720.9,355.4L733.1,356.2L737.8,351L752.7,344.4L775.5,349.1L787.4,348.7L800.3,352.1L812.6,355L820.6,358.5L845.9,353.6L850.5,357.4L864.7,356.9L874.7,357.8L882.9,349.9L891.2,347.3L910.3,342.9L920.1,337.9L928.1,338.9L945.8,349.7L958.4,356.3L959,360.9L949.2,369.9L935.7,361.2L926.3,364.2L942.2,373.7L931.8,389.4L925.6,385.2L908.1,381.6L907,375.8L897.7,373.3L882.2,380.1L874.9,389.3L851.9,394.8L831.5,395.5L830.5,411.5L809.5,418.7L806.8,423.1L798.5,430.5Z"
+    },
+    {
+      id: "AT-306",
+      name: { de: "Baden", hu: "Baden", ro: "Baden", en: "Baden" },
+      labelX: 644.3, labelY: 404.7,
+      path: "M655.9,432.9L645.6,436.6L636.8,440.3L636.5,440.6L623.2,443.3L601,434.6L588.3,437.3L583.3,426.6L583.4,420L572.3,422.7L566.6,419.9L555.3,415.1L538.9,413.7L539.4,407.2L540.6,399.3L565.8,400.2L562.1,393.3L557,380.8L542.3,380.6L549.5,370.9L553.5,361.9L570.8,354.5L590,351.2L601.4,351L598.1,356.3L600.8,370.7L612.5,368.7L621.3,377.9L631.1,372.2L641.1,382.7L655,385.8L672.4,385.6L684.6,389.3L696.2,387.1L708.9,393.4L727.8,397.5L729.2,399.2L745.5,404L758.5,392.5L776.3,399.5L778.3,408.1L771.6,417.2L761.7,420.9L743.5,422.8L731.8,430.3L730.8,438.2L721.1,441.3L717.4,433.8L702.6,435.4L687.4,430.9L670,430.9L663.2,429.6L655.9,432.9Z"
+    },
+    {
+      id: "AT-309",
+      name: { de: "Gmünd", hu: "Gmünd", ro: "Gmünd", en: "Gmünd" },
+      labelX: 221.9, labelY: 132.7,
+      path: "M197.8,180.5L185.4,182.3L171.9,190.2L161.1,189.9L164.3,200L155.1,202.2L148.1,200.9L138.7,204.8L122.8,193.7L133.4,187.3L133.7,174.6L134.2,161.5L140.3,152.5L151.5,149L164.1,141L165.2,131.3L171.5,124.6L179.2,125.7L198.6,129.3L216.1,132.5L224.9,126.4L216.4,122L221,109.3L222.1,91.4L227.4,84.1L224.3,72.6L223.4,62.8L226.2,51.9L233.6,42.7L246.1,43.2L254.4,47.3L282,48.3L291.5,60.3L288.1,67.8L297.6,74.4L295.1,85.6L293.3,88.7L292.2,97.5L283.5,102.9L291.6,112.4L286.6,118.6L276.3,124.6L272.9,131.9L282.7,139.9L284.1,151.1L277.3,154.8L267.2,149.3L269.2,156.4L255.5,154.5L243.5,151.1L229.1,151.4L223.5,161.6L233.6,169.7L234.9,172.5L227.5,176L213.6,177.4L199.7,182.5L197.8,180.5Z"
+    },
+    {
+      id: "AT-308",
+      name: { de: "Gänserndorf", hu: "Gänserndorf", ro: "Gänserndorf", en: "Gänserndorf" },
+      labelX: 847.2, labelY: 265.4,
+      path: "M819.9,356.8L809.4,353.4L791.7,348.6L784.3,342L773.1,337.2L773.1,329L778.9,315.4L776.8,306.9L762.6,303.2L761,297.3L769.3,283.8L777.6,282.6L796.6,288.8L813,284.1L808.1,277.9L798.3,266.2L794.4,261.9L787.7,255.9L787.8,249L777.4,235.3L797.8,235.7L808.6,235.7L806.6,227.1L813.3,220.5L822.1,214.5L830.9,212.8L823.7,201.8L831.4,192.7L828,181.3L822.9,177.4L839.7,186L851.6,179.1L860.2,177.2L869.9,182.5L882.2,185.6L882.4,179.8L897.9,178.8L906.6,172.4L908.9,180.6L913.5,187.4L914.8,200.4L920.2,208.2L908.8,217.9L906.2,225.4L896.9,232L891.3,235.2L884,245L883.7,255.6L880.5,268.8L883.5,276.9L891.8,280.8L899.3,290.1L909.9,303.9L919.6,308.8L923.1,323L928.1,338.9L920.1,337.9L910.3,342.9L891.2,347.3L882.9,349.9L874.7,357.8L864.7,356.9L850.5,357.4L845.9,353.6L820.6,358.5L819.9,356.8Z"
+    },
+    {
+      id: "AT-321",
+      name: { de: "Tulln", hu: "Tulln", ro: "Tulln", en: "Tulln" },
+      labelX: 588.7, labelY: 280.5,
+      path: "M624.8,309.2L616.1,314.1L603,317.9L591.7,321L597.8,324.4L588.6,330.9L579.7,322.6L574.4,315.5L568.9,308.1L555.6,307.2L546.1,313.6L528.3,318.4L528.3,311L526.7,302.8L525.3,298.3L519.1,297.6L510.6,293.6L499.6,289L507.5,281.1L522.1,281.4L519.1,271L503.9,266.6L495.4,264.6L490.7,259.5L500.4,246.8L507.9,228.3L518.1,224.4L532.4,229.7L545.1,224.9L552.4,231.1L559.3,230.9L576.1,227L583.5,225L593.3,226.5L590.6,239.2L582.1,249.8L579.9,266.9L591,266.2L605.8,268.6L616.3,272.9L629.9,278.7L635.3,275.1L643.1,273.4L650.7,270.3L668.4,274L683,273.8L686.6,276.6L701.9,284.3L706.1,293.4L709.5,299.8L694.9,303.1L684.7,308.6L674.5,315.1L666.5,311.4L655.1,305.2L646.7,300.1L639.1,306.3L630.8,308.9L624.8,309.2ZM579,246.7L582.2,249.4L579,246.7Z"
+    },
+    {
+      id: "AT-320",
+      name: { de: "Scheibbs", hu: "Scheibbs", ro: "Scheibbs", en: "Scheibbs" },
+      labelX: 260.3, labelY: 425.6,
+      path: "M243.9,486.7L222.1,490L206.2,501.6L188.2,499.7L181.6,491.1L187.4,481.7L176.7,473.6L191.2,467.4L198.8,459.7L213.5,453.9L210.6,446.2L219.9,438.7L235.2,429.7L224.9,423.8L212.6,419.2L214.6,408.9L193.5,402.3L182.2,391.5L197.2,392.3L205.9,386.3L222.4,384.9L220.1,375.8L231.9,374.4L237.1,358.3L245.8,354.6L257.5,350.1L274.8,349.7L281.5,348.1L288.8,358.6L298.9,354.6L306.7,360.3L318.3,367.5L331.6,374.6L325.5,382.4L329,397.2L328.6,409.4L328.5,416L335.8,422.1L345.3,422.3L347.2,436.3L342.1,439L326.6,442.6L321.6,445.7L292.8,452.2L295.1,460.9L307.9,468.2L305,474.4L301.9,486.5L291.1,486.4L279.2,484.9L263.1,490.7L243.9,486.7Z"
+    },
+    {
+      id: "AT-323",
+      name: { de: "Wiener Neustadt(Land)", hu: "Wiener Neustadt(Land)", ro: "Wiener Neustadt(Land)", en: "Wiener Neustadt(Land)" },
+      labelX: 628.5, labelY: 481.6,
+      path: "M673.3,594.1L657,602.4L634.8,597.7L632.7,589.4L642.3,575.3L639.2,566.3L634.3,556.1L645.1,560.9L654.8,563.7L649.3,555.3L651,545.7L646.2,536.7L651.5,532.5L656.7,519.7L656.6,511.2L654.3,497.3L648.9,494.8L653.2,487.7L663.4,478.6L670.5,472.5L681.1,472.6L687.6,481.3L689.6,483.8L686.7,495.2L693,507L698.2,511.2L709.8,512.6L715.3,525.6L708.9,533.5L700,541.3L700.4,546.8L694.6,560.8L703.8,570.1L690.8,587.3L679.2,591.3L673.3,594.1ZM651.3,467.5L646.9,479.3L636.8,474.4L615.7,471.2L613,468.9L594.7,463.8L585,465.1L573.6,467.6L564.4,463.2L555.1,466.2L543.4,462.7L532,468.8L516.8,475.5L514.2,468.3L513.5,459.1L499.9,458L483.9,447.7L469.2,447.9L453.4,450.8L460.7,440.4L474.9,436.6L483.6,429.8L499.1,422.6L513,422.2L523,419.3L538.9,413.7L555.3,415.1L566.6,419.9L572.3,422.7L583.4,420L583.3,426.6L588.3,437.3L601,434.6L623.2,443.3L636.5,440.6L636.8,440.3L645.6,436.6L655.9,432.9L663.2,429.6L670,430.9L687.4,430.9L702.6,435.4L717.4,433.8L721.1,441.3L709.1,446.8L716.1,451.6L717,460.5L709.1,462.8L700.9,469.9L692.4,473.3L684.8,466.1L678.4,459.8L680.1,450.9L662.2,453.5L656.5,446.5L651.8,454.3L651.3,467.5Z"
+    },
+    {
+      id: "AT-322",
+      name: { de: "Waidhofen an der Thaya", hu: "Waidhofen an der Thaya", ro: "Waidhofen an der Thaya", en: "Waidhofen an der Thaya" },
+      labelX: 346.4, labelY: 108.2,
+      path: "M315.6,135L300.9,142.8L289.2,146.3L290.6,152.7L286.8,146L282.5,136L278.8,127.5L283.5,117.6L287.4,114.1L286.9,108.8L286.7,97.6L289,92.4L297.8,89.7L295.5,75.7L287.8,68L294.1,65.6L302.2,64.1L323.8,63.4L334.2,52.7L348.7,52.6L368.8,56.9L383,64.4L400.9,67.1L409.8,74.9L429,81L436.6,86.3L443.6,98.4L434.6,104.1L420.3,110.2L415.5,122.6L415.1,128.7L408.6,130.4L405.8,139.7L390.9,142.7L383.5,142.2L378.8,136.5L368.2,126.6L358.8,129.6L350.1,126.7L341.3,134.1L332.4,135.1L325.6,132.2L315.6,135Z"
+    },
+    {
+      id: "AT-325",
+      name: { de: "Zwettl", hu: "Zwettl", ro: "Zwettl", en: "Zwettl" },
+      labelX: 296.1, labelY: 198.3,
+      path: "M281,278.1L270.8,282.7L251.3,274.5L237,270.1L225.4,267L219.1,266.2L207.9,260.7L210.2,250.5L200.6,246.4L187.7,239L185.4,231L193.7,223.8L203.8,221.4L187.7,213.6L172.2,206.8L164.3,200L161.1,189.9L171.9,190.2L185.4,182.3L197.8,180.5L209.4,182.6L221.8,179.6L231.8,178.9L237.7,170.7L230.9,165.7L227.8,158.5L237.7,152.8L250.4,152.2L259.9,152.4L271.4,154.2L275.6,148.7L280.7,157L290.6,152.7L289.2,146.3L300.9,142.8L315.6,135L325.6,132.2L332.4,135.1L341.3,134.1L350.1,126.7L358.8,129.6L368.2,126.6L378.8,136.5L383.5,142.2L383.2,152.4L392.3,159.5L382.8,161.9L393.4,171.1L403.2,169.5L416,172.3L417.7,177.8L408.8,180.6L411.2,189L396.1,182.8L382.3,187.3L378.4,192.8L365.9,195.6L353.4,184.1L344.8,188.4L340.3,195L346.8,210.5L345.6,222.7L335.7,225.7L333,235.3L346.8,241L351.6,249.4L360.4,251.1L351,263L335.1,263.8L327,267.9L317.6,267.2L311.4,273L298.7,274.9L293.1,275.7L281,278.1Z"
+    }
+  ],
+  // Oberösterreich
+  "AT-4": [
+    {
+      id: "AT-411",
+      name: { de: "Perg", hu: "Perg", ro: "Perg", en: "Perg" },
+      labelX: 853.1, labelY: 239.8,
+      path: "M943.6,266.8L952.7,275.1L940.5,263.4L920.9,263.1L906.2,263.5L897.7,277.2L883.7,279.7L865.4,283.8L846.4,283.4L835.4,292.2L824.3,286.5L808.6,278.4L795.6,267.2L766.7,259.2L742.1,259.6L731.9,258.5L720.6,254.8L719.8,237.5L734.5,235.2L742.2,228.5L755.6,222.4L765.6,227.2L779.9,223.8L788.3,226.4L791.1,234.6L804.7,232.6L813,218.2L831.1,229.8L844.9,218L858.6,217.5L872.5,215.8L880.8,213.2L888,206.8L900.6,204.8L917.9,191.9L934.7,188L938.2,183L935.6,194.9L948.7,201.4L941.7,219.9L947,223.1L957.1,233.9L960,251.7L943.6,266.8Z"
+    },
+    {
+      id: "AT-410",
+      name: { de: "Linz-Land", hu: "Linz-Land", ro: "Linz-Land", en: "Linz-Land" },
+      labelX: 669.3, labelY: 275.9,
+      path: "M636.3,322.3L622.7,328.3L618.6,310.4L600.9,305.8L613.5,294.9L616.1,279.7L616.1,266.3L599.3,263.7L591.9,257.1L591,251.8L609.3,247.2L620.3,242.9L615.6,235.4L612.2,227.3L622.8,222.4L636.4,224.8L648.6,230.4L662.7,237.2L667.5,252.9L668.4,260.6L686.1,270L698.8,263.3L711.1,262L720.6,254.8L731.9,258.5L742.1,259.6L766.7,259.2L753.8,265.6L750.7,283.4L744.9,296.1L748.1,307.1L749.4,313.9L727.5,312.3L715.7,304L711.8,300.9L701.7,301.2L687.5,310L672.5,309.4L655.4,313.7L651.5,321.3L636.3,322.3Z"
+    },
+    {
+      id: "AT-413",
+      name: { de: "Rohrbach", hu: "Rohrbach", ro: "Rohrbach", en: "Rohrbach" },
+      labelX: 540.7, labelY: 130,
+      path: "M586.1,185.7L581,193.7L574.8,198.1L565.2,203.5L552,185.9L542.8,184.7L529.6,191.2L519.4,172.4L506.3,174.1L499.1,181.9L493.1,180.2L466.5,165.4L450,156.2L443.4,141.1L447.8,133.2L456.1,126.6L466.8,122L473.7,117L481.3,102.8L477.8,86.3L477.5,71.5L486,69.3L471.2,62.6L479.4,47L487,40L502.3,42.3L522.6,55.2L543.2,64.8L560.1,73.1L577.4,80.4L562.9,88.8L565.8,99.2L570.1,105.2L588.2,110.4L600.4,114.9L616.2,112.1L622.2,116.7L623,138.2L632.8,141.5L635.6,148.4L629.8,154.4L622.2,153.6L618.4,171.7L607.6,177.9L595.5,176.9L586.1,185.7Z"
+    },
+    {
+      id: "AT-412",
+      name: { de: "Ried", hu: "Ried", ro: "Ried", en: "Ried" },
+      labelX: 323.3, labelY: 270.5,
+      path: "M330.9,312.8L318.3,317.4L308.6,321.9L303.3,332.6L297.8,333.1L287.3,334L277.8,328.2L273.9,318L278.3,302.6L280.1,288.2L287.2,275.9L280.3,267.2L273.9,258.3L258.2,252.6L244.6,249.1L241.6,243.9L225.6,246.7L246.5,236.4L282.5,220.6L295.9,210.4L310.1,209.7L316.7,214.2L333.3,219.5L347.5,219.8L360.7,220.5L372.4,227L380.8,233.4L398.2,234.1L398.6,243.3L384.9,252.6L376.5,260.9L382.4,269.2L393.2,273.6L393.4,287.4L391.8,298.2L390.1,305.8L381.3,309.5L358.7,309.5L337.9,313.1L330.9,312.8Z"
+    },
+    {
+      id: "AT-415",
+      name: { de: "Steyr-Land", hu: "Steyr-Land", ro: "Steyr-Land", en: "Steyr-Land" },
+      labelX: 737.3, labelY: 386,
+      path: "M844.2,418L849.5,425.6L845.5,433.3L845,442.9L854.9,455.7L838.9,452.8L820.5,464.1L804.8,467.3L793.3,472.4L771,474.3L769.4,481.8L759.3,488.8L754.6,482.3L743.9,476.9L750.3,471.2L745.3,450.8L733.4,440.7L722.9,439.1L713.8,429.4L717.9,414.9L716.8,404.8L700.7,395.6L674.6,394.9L678.8,387.3L677.1,378.4L683,371.4L673.5,361.9L667.2,358.7L662.8,367.7L646.3,367.4L634.6,367.2L626.1,357.6L622.3,349.1L627.2,341.5L622.7,337.1L614.4,333.2L630,326.5L640,324.1L656.5,317L663.9,313.3L684.5,312.4L690,306.1L706.3,304.4L715.3,302.2L726.6,305.4L736.8,310.6L740.8,320.3L731.1,323.8L721.2,325.4L707.6,338.6L740,339L752.9,351.8L755.2,357.5L780.7,365L802.3,377.5L811.4,380.2L828.1,383.5L843.8,384.7L852.7,388.3L864.6,397.6L865.9,409.2L854.4,412.7L844.2,418Z"
+    },
+    {
+      id: "AT-414",
+      name: { de: "Schärding", hu: "Schärding", ro: "Schärding", en: "Schärding" },
+      labelX: 392.2, labelY: 185.7,
+      path: "M410.8,239.7L409.8,254L391.7,255.9L394.2,248.5L400,237.5L392.3,234L376.6,229.7L373.1,222L355.7,222.6L342.9,221.8L326.6,218.8L317,211.9L309.8,204L314.8,192.5L320.6,174L322.8,160.1L330.1,147.3L327.3,137L322.6,127.4L332.6,129.3L349.2,121.7L352.3,114.1L368.7,122.4L382,126.4L391,124L405.5,129.9L415.1,137.5L432,144.2L450,156.2L466.5,165.4L493.1,180.2L493.7,186.6L473.4,184.1L460.5,176.9L447.3,172.5L428.3,178.2L423.6,189.7L431.4,198.2L441,206.6L438.3,216.3L434,220.1L418.9,231.5L413,240.2L410.8,239.7Z"
+    },
+    {
+      id: "AT-417",
+      name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Vöcklabruck" },
+      labelX: 357.5, labelY: 371.2,
+      path: "M395.9,417.2L405.5,432.6L392,444.2L379.3,454.7L370.4,449L359.7,440L350.8,442.5L340.7,438.8L321,438.7L303.7,441L284.1,433.5L268.8,429.9L260.6,421.4L256.9,407.5L257.7,395.9L259.4,386.3L268.6,371.5L280.8,375.5L289.5,381.4L290.4,375L275.4,359.9L267.1,353.5L264.3,344.7L277.8,328.2L287.3,334L297.8,333.1L303.3,332.6L308.6,321.9L318.3,317.4L330.9,312.8L346.5,312.8L368.8,307.6L384.3,306.3L391.2,302.3L415,305L422.7,303.5L433.7,305.8L451.8,308.3L465.4,314.7L471.6,321.9L481.5,324.8L485.4,337.6L468.6,353.7L460.5,355L446.2,364.6L446.7,381L432.8,386.5L418,393.4L414.4,406.9L402,411.3L395.9,417.2Z"
+    },
+    {
+      id: "AT-416",
+      name: { de: "Urfahr-Umgebung", hu: "Urfahr-Umgebung", ro: "Urfahr-Umgebung", en: "Urfahr-Umgebung" },
+      labelX: 667.6, labelY: 183.6,
+      path: "M724.1,231.7L718.5,251.2L700.6,244.4L689.8,230L693.1,223.2L694.4,221.7L688.8,212.7L673.7,210.8L672.2,202L666.4,213.9L658.3,222.7L648.6,230.4L636.4,224.8L622.8,222.4L612.2,227.3L600.1,229.8L580.1,225.6L563.4,217.9L565.2,203.5L574.8,198.1L581,193.7L586.1,185.7L595.5,176.9L607.6,177.9L618.4,171.7L622.2,153.6L629.8,154.4L635.6,148.4L632.8,141.5L623,138.2L622.2,116.7L627.4,112.9L651.8,119.6L667.3,121L685,125.6L692.9,129L712.1,122L718.1,122.2L726.8,134.2L726.9,136.8L718.2,134L706,137.4L705.2,147.8L717.3,159.5L722.5,172.7L728.7,181.1L737.5,188.4L744.2,200.6L730.4,206.7L741.6,212.1L749,222L750.7,232.5L724.1,231.7Z"
+    },
+    {
+      id: "AT-418",
+      name: { de: "Wels-Land", hu: "Wels-Land", ro: "Wels-Land", en: "Wels-Land" },
+      labelX: 546.6, labelY: 298.6,
+      path: "M568.3,334.7L562.3,351.3L547.6,355.6L538.5,346.8L524.6,346L507.3,347.4L500.9,342.7L485.4,337.6L481.5,324.8L471.6,321.9L465.4,314.7L451.8,308.3L459.8,297.5L472.5,296.6L484.5,288.5L497.6,280.7L488.4,272.4L515.7,267L524.1,268.9L533.9,267L550.2,267.5L549.3,259.3L562.3,254.6L577,253.4L591,251.8L591.9,257.1L599.3,263.7L616.1,266.3L616.1,279.7L613.5,294.9L600.9,305.8L618.6,310.4L603.8,320.2L595.6,325.3L588.7,327.3L582.7,335.9L568.3,334.7ZM541,305.1L552.6,298.5L575.2,292.1L585.9,283.4L574,276.1L566.7,270L551.3,272.4L537.8,281.7L538.7,298L541,305.1Z"
+    },
+    {
+      id: "AT-402",
+      name: { de: "Stadt Steyr", hu: "Stadt Steyr", ro: "Stadt Steyr", en: "Stadt Steyr" },
+      labelX: 727.4, labelY: 331.9,
+      path: "M723.8,347L741.1,326.3L735.7,324.6L724.5,327L711.4,332.1L723.8,347Z"
+    },
+    {
+      id: "AT-401",
+      name: { de: "Stadt Linz", hu: "Stadt Linz", ro: "Stadt Linz", en: "Stadt Linz" },
+      labelX: 685, labelY: 237.1,
+      path: "M686.1,270L698.8,263.3L711.1,262L720.6,254.8L710.1,246.6L694.2,240.3L682.5,224.8L700.3,223.5L695.9,216.5L677.5,209.8L672.7,201.6L671.9,208.2L657.7,216.5L654.7,229.5L665.7,243.6L660.6,255.4L677.7,261.6L686.1,270Z"
+    },
+    {
+      id: "AT-404",
+      name: { de: "Braunau", hu: "Braunau", ro: "Braunau", en: "Braunau" },
+      labelX: 181.2, labelY: 311.2,
+      path: "M278.3,302.6L273.9,318L277.8,328.2L264.3,344.7L267.1,353.5L258.1,357.1L242,360L228.5,365.4L201.9,367.2L193.4,358.3L184.5,357.7L172.4,350.2L161.7,345.5L154.3,343.4L138.1,345.3L126.5,343.3L116.9,342L106.3,347.3L98,360.4L85,358.1L74.2,345.2L41,321.1L40.1,310.6L53.3,306.3L60.3,296.3L74.6,289.4L87.1,275.4L124,270.9L149.8,251.5L179.8,242.5L200.9,240.6L222.6,235.4L227.1,248.9L247.7,244.3L254.1,253.3L268.2,259.2L284,265.3L288.3,271.6L275,281.1L278.4,292.6L278.3,302.6Z"
+    },
+    {
+      id: "AT-403",
+      name: { de: "Stadt Wels", hu: "Stadt Wels", ro: "Stadt Wels", en: "Stadt Wels" },
+      labelX: 559.3, labelY: 286.2,
+      path: "M541,305.1L552.6,298.5L575.2,292.1L585.9,283.4L574,276.1L566.7,270L551.3,272.4L537.8,281.7L538.7,298L541,305.1Z"
+    },
+    {
+      id: "AT-406",
+      name: { de: "Freistadt", hu: "Freistadt", ro: "Freistadt", en: "Freistadt" },
+      labelX: 807.1, labelY: 167.3,
+      path: "M779.9,223.8L765.6,227.2L755.6,222.4L742.1,214.9L733.6,210.6L739.8,201L744.2,194.3L731.7,187.6L722.8,179.5L718.3,168.8L708.1,154.5L706.6,139.4L712.9,139.3L723.6,133.6L731.9,134.1L720.1,131L714.4,119.7L723.3,113.5L734.9,108.7L735,92.6L755,96.8L777.6,104.8L794.9,103.2L806.4,101.4L818.4,106.4L825.1,117.8L845,119.2L860.5,125.7L870.8,128.7L885.7,129.4L901.1,136.7L921.2,142.2L929.6,151.8L918,157L912.8,166.1L921.6,171.8L933.8,182.8L927.9,190.7L907.8,201.2L894.5,207.6L885.5,211.8L876.9,218.6L864,218.4L855.2,220.8L831.4,229L816.2,217.4L811.9,227.8L797.3,231.7L787.9,231.8L784,225L779.9,223.8Z"
+    },
+    {
+      id: "AT-405",
+      name: { de: "Eferding", hu: "Eferding", ro: "Eferding", en: "Eferding" },
+      labelX: 548.1, labelY: 221.8,
+      path: "M580.1,225.6L600.1,229.8L612.2,227.3L615.6,235.4L620.3,242.9L609.3,247.2L591,251.8L577,253.4L562.3,254.6L549.3,259.3L539.6,255.8L524.4,255.3L504.8,242.4L510.9,234.8L493.4,237.6L502.6,228.7L508.4,213.1L514,203.4L519.3,193.7L502.5,186.4L493.1,172.7L514.5,170L522.8,185.5L535.3,185.3L544.3,183.8L563.7,199.8L562,211.6L568,221.3L580.1,225.6Z"
+    },
+    {
+      id: "AT-408",
+      name: { de: "Grieskirchen", hu: "Grieskirchen", ro: "Grieskirchen", en: "Grieskirchen" },
+      labelX: 463.1, labelY: 245.1,
+      path: "M509.8,253.3L529.2,253.9L540,259.1L552.3,264.1L541,265.4L532.8,269.9L518.4,266L504,271.7L488.7,274.6L500.7,289.5L482,285.1L463.8,295.6L459.2,304.5L449.4,311.4L423.6,306.6L415.5,304.2L405.8,302.1L391.8,298.2L393.4,287.4L393.2,273.6L382.4,269.2L376.5,260.9L384.9,252.6L400.1,253.8L409.1,248.7L413,240.2L418.9,231.5L434,220.1L438.3,216.3L441,206.6L431.4,198.2L423.6,189.7L428.3,178.2L447.3,172.5L460.5,176.9L473.4,184.1L493.7,186.6L499.1,181.9L509.2,190.8L519.1,196.9L510.9,203.9L516.3,217.5L492.6,235.8L498.2,238.4L514.8,240.1L509.8,253.3Z"
+    },
+    {
+      id: "AT-407",
+      name: { de: "Gmunden", hu: "Gmunden", ro: "Gmunden", en: "Gmunden" },
+      labelX: 452.7, labelY: 456.7,
+      path: "M427.5,529.4L444.2,530.3L448.6,544.4L454.6,553.6L441.5,565.9L438.9,577.5L416.4,577.2L392.2,572.1L382.7,572.3L354.2,563.4L343.5,556.5L341.3,540.3L338.7,534L350.2,520.6L355.9,511.4L343.4,508.4L347.7,496.7L354.5,489.9L363.5,480.5L338,469.9L325.5,450.3L342.1,446.1L362.1,448.6L372.9,453.5L391,449.8L400,434.6L394.8,428.4L399.9,416.3L409.9,410.6L411.1,401.6L426.5,391.5L433.3,385.7L448,373.6L457.6,362.8L468.7,358.1L475.6,345.6L491.1,334.5L504.4,350.8L520.8,344.5L530.2,343.9L539.8,350.5L547.8,359L539.3,368.3L547,378L548.7,387.5L546.9,396.3L549.5,406.3L567.9,408.6L588.2,419.4L591.7,427L564.9,437.1L554.5,444.2L569.7,461.5L578.8,472.9L565.1,474.6L553.5,478.6L533,475.9L510.1,472.7L495.5,468.7L487.2,472.2L461.5,472.3L450,485L444.9,490.5L432.9,497.7L429.1,520L427.5,529.4Z"
+    },
+    {
+      id: "AT-409",
+      name: { de: "Kirchdorf", hu: "Kirchdorf", ro: "Kirchdorf", en: "Kirchdorf" },
+      labelX: 634.7, labelY: 416.5,
+      path: "M725.5,497.7L713.5,506.1L691.4,513.1L674.5,517.7L661.3,516.6L644.4,503.6L637.3,499.3L612.6,505.7L598.2,509.7L579.4,514.4L572.8,505.7L560.9,483.6L565.1,474.6L578.8,472.9L569.7,461.5L554.5,444.2L564.9,437.1L591.7,427L588.2,419.4L567.9,408.6L549.5,406.3L546.9,396.3L548.7,387.5L547,378L539.3,368.3L547.8,359L553.2,355.1L566.1,347.7L581.1,334.5L588.9,333.5L592.1,324.2L600.3,318.8L608.4,316.3L630,326.5L614.4,333.2L622.7,337.1L627.2,341.5L622.3,349.1L626.1,357.6L634.6,367.2L646.3,367.4L662.8,367.7L667.2,358.7L673.5,361.9L683,371.4L677.1,378.4L678.8,387.3L674.6,394.9L700.7,395.6L716.8,404.8L717.9,414.9L713.8,429.4L722.9,439.1L733.4,440.7L745.3,450.8L750.3,471.2L743.9,476.9L754.6,482.3L737.2,494.7L725.5,497.7Z"
+    }
+  ],
+  // Salzburg
+  "AT-5": [
+    {
+      id: "AT-506",
+      name: { de: "Zell am See", hu: "Zell am See", ro: "Zell am See", en: "Zell am See" },
+      labelX: 309.7, labelY: 387.7,
+      path: "M502.9,420L504.4,445.1L498.6,457.9L494.2,467L498,480.3L501.6,494.5L483.8,513.2L476.4,520.8L460.9,514.2L453.3,501.4L431.9,498.9L416.1,499.2L397.2,491L378.8,493.4L366.4,491L354.3,475L323.2,478.9L318.7,490.1L299.4,479.6L285.5,474.5L268.8,476.6L253.8,465.6L226.9,468.6L212.1,465.7L195.2,464.6L175.6,481.8L153.8,488.5L139.7,493.5L119,504.7L92.7,493.7L68.8,499.2L64.8,485.2L57.1,471.4L48.4,461L52.7,424.4L51.8,414L41.2,405.8L58.5,390.8L82.5,393.2L108.6,388.6L117.4,393.2L130.2,392.8L164.4,380.2L183.3,388.5L200.4,387.4L215.6,380.2L233.1,381.2L242.3,371.3L235.1,356.5L246.4,348.7L265.2,346.8L281.2,349.5L303.2,335.1L309.5,328.4L312.9,313.2L339.3,308.5L322.7,295L305,274.1L316.4,264.4L317.2,255.7L279.2,247.5L279.5,234.4L293.1,215.3L314.8,216.2L341.9,211L354.7,211.7L366.9,219.7L378.3,234.2L399.2,244.1L383.3,250.7L380.9,265.3L396,276.4L412.3,283.1L428,291.8L450.8,303.8L476.5,306.8L492,310.1L496.4,324.7L508.9,336.2L506,349.1L514.9,365.4L496.9,380.9L499.9,391.6L520,400L502.9,420Z"
+    },
+    {
+      id: "AT-501",
+      name: { de: "Salzburg(Stadt)", hu: "Salzburg(Stadt)", ro: "Salzburg(Stadt)", en: "Salzburg(Stadt)" },
+      labelX: 508.6, labelY: 153.6,
+      path: "M521.4,175.5L538.5,161.4L544.3,152.9L526.1,149L520.8,136.2L507.7,139L484.1,127.8L478.2,138.6L476.5,156L484.3,172.4L506.9,173.2L521.4,175.5Z"
+    },
+    {
+      id: "AT-503",
+      name: { de: "Salzburg-Umgebung", hu: "Salzburg-Umgebung", ro: "Salzburg-Umgebung", en: "Salzburg-Umgebung" },
+      labelX: 573.8, labelY: 134.7,
+      path: "M747.8,195.1L739.6,209.4L723.4,216.8L715.8,230L714,238L689.2,223L652.6,215.9L641.2,212L606.4,206.3L600.1,190.7L589.5,189.2L580.9,178.6L570.5,169.6L558.6,173.6L540.9,181.2L522.4,181L508.4,190.4L488.5,190.9L477.3,198.4L441.7,193.6L445.7,180.7L456.3,171.7L469,150.8L486.4,144.5L484.7,162.8L491,177.3L512,172.2L519.4,167.8L540.2,154.6L531,147.9L525.8,140.8L512.2,133.4L500.4,139.7L477.5,120.7L456.4,93.5L447.5,87.2L441,78.5L421.6,74L424.3,59.6L434.4,55.2L446.2,46.3L454.4,40.5L469.7,46.5L489.3,40.4L506,40L511.1,51.6L522,56.5L533.3,59.5L544,63.3L578.8,70.3L585.5,66.3L606.8,62.2L619.5,54.6L628,60.2L661.8,71.4L657.7,84.8L646.4,84.9L633.7,78.2L618,79.7L617.1,95.7L613.1,110L624.1,123.3L622.5,142.2L633.3,147.8L651.9,149.2L674.5,154.9L699.6,152.1L716.7,158.3L728.7,155.4L740.4,165.4L717,162.5L697.7,167.4L712.2,190.3L747.8,195.1Z"
+    },
+    {
+      id: "AT-502",
+      name: { de: "Hallein", hu: "Hallein", ro: "Hallein", en: "Hallein" },
+      labelX: 616, labelY: 246.5,
+      path: "M712.3,283.4L724.4,292.3L725.2,305.3L711.1,311.9L692.6,317.9L672.7,306.2L659.9,289L649.3,291.9L626.7,291.8L596,283.5L577.6,275.4L563.3,272L552.9,279L531,290.2L498.3,282.3L503.4,261.2L517.8,254.8L518.2,244.5L520.3,215.9L512.7,203.3L508.4,190.4L522.4,181L540.9,181.2L558.6,173.6L570.5,169.6L580.9,178.6L589.5,189.2L600.1,190.7L606.4,206.3L641.2,212L652.6,215.9L689.2,223L714,238L728.8,234.6L734.6,241.1L726,258.6L714.4,268.3L712.3,283.4Z"
+    },
+    {
+      id: "AT-505",
+      name: { de: "Tamsweg", hu: "Tamsweg", ro: "Tamsweg", en: "Tamsweg" },
+      labelX: 807.6, labelY: 472.5,
+      path: "M868,561.3L855.1,560.6L840.9,540.8L823.6,540.1L816.4,535L793.3,518.5L778.9,509.5L762.2,512.9L733.8,505L694.2,500.5L678.5,504.7L665.9,493.5L652.2,487.5L644.8,469.2L644.1,455L653,443.2L661.9,434L673.4,438.9L701.7,433.5L728.3,428.2L748.9,422.5L761.4,415.1L775.2,401.9L786.5,406.4L817.3,410.7L825.1,413.3L844.1,405.4L859.7,405.8L879.6,397.2L898.2,416.9L891.5,427.7L907.8,440.2L924.9,455.5L940.5,459L960,469.6L941.3,477.8L932.5,473.1L905.1,489.7L918.7,504.2L907,518.9L898.4,539.7L883,550.5L873.7,561L868,561.3Z"
+    },
+    {
+      id: "AT-504",
+      name: { de: "Sankt Johann im Pongau", hu: "Sankt Johann im Pongau", ro: "Sankt Johann im Pongau", en: "Sankt Johann im Pongau" },
+      labelX: 611.3, labelY: 395.5,
+      path: "M616.5,492.2L601.3,505.3L586.5,516.7L561.2,520.1L544.4,524.9L518.5,531.5L493.6,519L483.8,513.2L501.6,494.5L498,480.3L494.2,467L498.6,457.9L504.4,445.1L502.9,420L520,400L499.9,391.6L496.9,380.9L514.9,365.4L506,349.1L508.9,336.2L496.4,324.7L492,310.1L506.3,301.7L531,290.2L552.9,279L563.3,272L577.6,275.4L596,283.5L626.7,291.8L649.3,291.9L659.9,289L672.7,306.2L692.6,317.9L711.1,311.9L725.2,305.3L739.9,300.3L767.9,316.6L754.4,337.9L758.1,349.2L763,361L769.2,385.5L770.3,397L761.9,410.3L754.6,416.5L737.9,423.2L715.9,428.3L694.8,431.8L667,438L655.4,437.9L643.1,448.5L636,461.6L643.1,477.9L653.6,491.3L627.4,495.8L616.5,492.2Z"
+    }
+  ],
+  // Steiermark
+  "AT-6": [
+    {
+      id: "AT-620",
+      name: { de: "Murtal", hu: "Murtal", ro: "Murtal", en: "Murtal" },
+      labelX: 418.1, labelY: 244.3,
+      path: "M493.8,311.8L486.8,313.8L473.8,318.5L452.1,321.9L440.3,325.6L415.3,326.5L402.9,330.8L399.9,321.2L391.5,307.4L387.8,304.8L384.3,292.6L386.3,288.4L375.4,275.6L354.2,272.5L343.4,271.8L337.6,269.8L326.4,257.9L324.9,237.1L311,236.2L300.1,228.3L287.9,219.5L274.1,215.2L276.5,200.7L295.3,195.6L309.5,188.5L326.5,183.1L334.6,170.6L343.4,169.5L359.6,169.4L367,170.4L374.5,168.3L394.4,175.6L406.5,180.8L410.7,195.5L418,199.3L434.4,203.1L451.1,211.5L462.3,205.4L471,201.3L483,205.3L496,209L503.7,216.2L513.3,226.8L523.2,231.8L526.7,225.4L540.9,231.8L557.3,245L565.2,256.8L544.7,264.2L530.1,276.5L524.6,286.1L517.6,299.8L505.4,301.6L493.8,311.8Z"
+    },
+    {
+      id: "AT-622",
+      name: { de: "Hartberg-Fürstenfeld", hu: "Hartberg-Fürstenfeld", ro: "Hartberg-Fürstenfeld", en: "Hartberg-Fürstenfeld" },
+      labelX: 885.6, labelY: 240.1,
+      path: "M945.5,327.1L953.9,334.6L942.3,334.6L934.7,337.5L921,333.6L918.4,332L906,328.8L895.2,323.6L892.2,317.9L883.9,310.7L874.8,314.7L856.2,317L855.1,308.3L843,302.5L850.2,299.7L848.1,286.8L862.5,299.3L860.4,285L854.5,276.4L848.8,269.5L837.7,268.4L820.5,257.3L816.8,253.2L814.7,246.3L813.7,236.6L814.3,229.2L805.6,222L811,210L819.8,205.5L819.5,192.2L811.5,181.1L810.6,169.2L797.3,163.8L807,159.1L827.6,155.8L835.9,153.6L852.3,153.2L862.8,151.4L871.4,144.3L891.1,147.8L908.7,150.5L922.4,159.8L930.2,152.4L938.6,147.2L942.6,164.8L946,171.6L960,182.3L949.4,184L935.1,185L932.2,193.7L924.8,188.8L920.1,195.9L911.4,200L911.6,205.9L920.4,220.3L925.8,234.4L928.4,239.1L928.7,252.8L931.7,261.3L938,272.5L940,284.3L932.8,291.7L929.9,300.3L934.1,309.8L941.6,319.9L945.5,327.1Z"
+    },
+    {
+      id: "AT-621",
+      name: { de: "Bruck-Mürzzuschlag", hu: "Bruck-Mürzzuschlag", ro: "Bruck-Mürzzuschlag", en: "Bruck-Mürzzuschlag" },
+      labelX: 681.5, labelY: 127.7,
+      path: "M696,203.8L687.4,215.4L684.7,222.8L666.4,221.2L657.9,215.3L640.3,211.5L628.2,212.3L617,204.5L616.5,191.9L609.2,189L599.8,177.7L596.3,173.2L579.8,175.3L564.3,159.9L550.5,143.2L538.7,140.1L535.7,130.5L525,127.7L530.4,120L545.9,118.3L565.7,117L572.7,107.9L575.8,94.2L577.6,80.4L590.2,73.4L595.4,69.2L593,67.5L602.7,63.8L611.3,64.4L620.8,62.1L623.3,50.5L636.1,51.6L649.8,45.7L661.3,41.5L668.6,40L689.3,45.3L691.9,54.6L705.3,58.4L717.5,59.4L728.7,62.1L741,66.9L771,78.9L783.1,80.8L792.4,79.8L798.6,85.1L802.4,103.3L811.1,108.3L831.4,107.2L843.1,113.3L848.8,118.5L845.4,131L829.3,128L818.2,132.5L808.4,137.7L791.1,148.2L775.5,153.4L771.7,160.4L757.2,164.3L755.8,170.1L754,180.4L747.6,187.8L734,193.2L734.1,203.4L716.5,205L703.5,202.4L696,203.8Z"
+    },
+    {
+      id: "AT-623",
+      name: { de: "Südoststeiermark", hu: "Südoststeiermark", ro: "Südoststeiermark", en: "Südoststeiermark" },
+      labelX: 848.6, labelY: 371.3,
+      path: "M897.2,426.4L914.4,442.3L902.4,449L893.6,442.6L871.3,435.1L839.6,429.5L817.9,437.5L808.2,433L799.9,428.9L802.2,420.6L808.1,408.8L799.8,408.3L787.1,394.3L790.2,383.1L785.4,380.3L781.2,371.2L773.5,367.8L761.2,366.4L757.9,355.8L756.6,339.1L774.3,332.8L779.6,338.6L790.8,335L799.2,330.9L802.3,322.5L816,325.6L829.8,315.9L838.6,320.1L852.3,321.2L857.8,318.3L877.3,310.5L888.8,312.5L890.7,322.5L897.6,327.6L906.9,328.3L922.5,330.6L928.2,338.9L937.4,343.6L932.8,354.5L918.5,363L911.9,369.1L902.8,374.7L900.3,385.3L894.5,392.2L896.9,400.4L895.7,416.5L897.2,426.4Z"
+    },
+    {
+      id: "AT-611",
+      name: { de: "Leoben", hu: "Leoben", ro: "Leoben", en: "Leoben" },
+      labelX: 517.2, labelY: 182.5,
+      path: "M581.1,239L569.9,246.3L563.7,251.2L548.3,239L535.6,233.1L526.7,230.4L517.9,230.3L510.6,218.5L498.5,207.5L487.4,207.4L479.4,206.1L468.1,204.8L459.3,210.2L447.7,208.6L420.9,198L410.3,197.7L405.9,189.8L410.2,175.6L419.7,164.3L423,155.6L434.8,145.8L442.9,141.7L463.1,125.7L472.2,130.2L480.5,137.1L485.9,127.1L497.6,122.5L515.1,118L524.1,116L530.4,120L525,127.7L535.7,130.5L538.7,140.1L550.5,143.2L564.3,159.9L579.8,175.3L596.3,173.2L599.8,177.7L609.2,189L616.5,191.9L617,204.5L628.2,212.3L613,225.7L598.5,232.1L587.5,237.9L581.1,239Z"
+    },
+    {
+      id: "AT-610",
+      name: { de: "Leibnitz", hu: "Leibnitz", ro: "Leibnitz", en: "Leibnitz" },
+      labelX: 734.7, labelY: 405,
+      path: "M788.2,391.2L789,407.8L803.2,411.4L811.4,414.6L798.4,425L808.5,430.2L812.1,437.9L791.5,437.4L775.9,435.1L771.2,440.6L763.4,443.5L747.7,443.9L739.3,447.7L738.4,461.1L727.2,466.6L713.4,468.2L701.6,458.4L681.7,454.2L659.7,455.6L658.7,448.6L660,441.3L665.6,434.5L666,426.6L665,420.7L671.2,414.7L669.3,410L678.5,402.4L690.7,393.9L697.3,384.9L696.4,377.8L697.7,373.3L702.4,369.2L715.6,362.1L727.6,361.1L733,355.2L739.4,339.4L741.3,334.2L753.8,324.6L764,330.4L754,343.2L762.1,360.4L769,368.5L781.6,369L784.4,375.2L790.6,379.8L788.2,391.2Z"
+    },
+    {
+      id: "AT-612",
+      name: { de: "Liezen", hu: "Liezen", ro: "Liezen", en: "Liezen" },
+      labelX: 292, labelY: 142,
+      path: "M132.2,227.9L117.5,234.2L106.1,233.9L92.1,239.8L86.4,237.8L63.8,234.7L55.5,231.3L53.3,221.4L52.6,211.1L45.9,195.9L43.4,188.1L40,183.8L47.6,163.8L55.7,163.7L76.5,168.1L95.9,168.3L98.1,158.4L109.3,147.8L104.2,139.8L100.4,127.8L86,127L87.4,118.9L90.7,99.7L101,93.5L105.4,88.8L115.3,77.9L137.4,77.8L144.5,74.8L157.1,78.2L176.7,81L194.4,83.3L200.8,87.6L211,106.6L216.6,114L232.8,110L245.2,106.6L266.4,101.1L272.5,104.8L287.1,116L298.4,116.9L312.9,112.9L331.9,107L342.3,99.7L352.3,97.1L371.2,92L379.9,86L381.4,79.6L400.5,77.9L410.4,73.6L423.9,70.8L439.7,61.2L458.5,71.6L482.5,68.8L496.5,70.1L503.1,78.7L521.1,80.6L537,69L558.8,65.8L578.1,69.7L595.7,72.3L581.4,77.4L572.9,89.4L570.3,101.5L569.6,116.1L550.6,118.9L533.1,120.7L533.2,115.7L516.2,114.5L502.1,119.9L487.2,122.9L481.3,130.2L475.5,134.4L466.1,125.8L449.7,135.5L438.6,142.3L428.8,156.1L417.7,157.1L415.9,174.2L406.5,180.8L394.4,175.6L374.5,168.3L367,170.4L359.6,169.4L343.4,169.5L334.6,170.6L326.5,183.1L309.5,188.5L295.3,195.6L276.5,200.7L274.1,215.2L253.9,222.6L243.5,226.7L228.5,238.6L217.8,235.5L203.9,235L198.3,238.8L184.7,236.7L169.2,243.6L145.9,242.4L132.2,227.9Z"
+    },
+    {
+      id: "AT-614",
+      name: { de: "Murau", hu: "Murau", ro: "Murau", en: "Murau" },
+      labelX: 247.4, labelY: 293.6,
+      path: "M175,352.3L162.5,355L152.1,360.3L140.2,363.3L117.8,351.1L127.8,348.3L134.6,340.6L146,332.7L152.3,317.4L160.9,306.6L150.9,295.9L171.1,283.7L177.5,287.1L191.3,281.1L176.9,273.3L165.4,270.7L152.9,259.5L140.9,250.3L145.9,242.4L169.2,243.6L184.7,236.7L198.3,238.8L203.9,235L217.8,235.5L228.5,238.6L243.5,226.7L253.9,222.6L274.1,215.2L287.9,219.5L300.1,228.3L311,236.2L324.9,237.1L326.4,257.9L337.6,269.8L343.4,271.8L354.2,272.5L375.4,275.6L386.3,288.4L384.3,292.6L387.8,304.8L391.5,307.4L399.9,321.2L379.8,328.1L362.4,324.5L356,327.3L345.6,331.2L329.9,338.4L328.8,326.8L314.1,322.9L286.1,321.8L277.6,321.3L273,318.8L265.2,304.6L250.8,312.8L237.4,311.6L229.7,317.9L219.3,326.9L203.1,329L199.6,335.2L182.5,344.4L175,352.3Z"
+    },
+    {
+      id: "AT-617",
+      name: { de: "Weiz", hu: "Weiz", ro: "Weiz", en: "Weiz" },
+      labelX: 795.2, labelY: 228,
+      path: "M829.8,315.9L816,325.6L802.3,322.5L788.1,320.7L785.5,310.8L769.8,300L777.4,293.8L774.3,286.7L760.8,278.2L754.8,264.7L751.9,266.4L733.3,260.6L718.5,258.6L710.8,261.3L701,242.8L704.7,239.1L692.5,231.1L686.6,221.2L694,210.3L703.5,202.4L716.5,205L734.1,203.4L734,193.2L747.6,187.8L754,180.4L755.8,170.1L757.2,164.3L771.7,160.4L775.5,153.4L791.1,148.2L808.4,137.7L818.2,132.5L829.3,128L845.4,131L855.1,129.1L866,133.8L869,144.2L858,153.4L844.6,156.3L832.7,154.4L818.1,151.5L801.7,160.3L803.2,168.5L813.2,176.4L819.1,188.5L829,199.7L808.9,207.4L807.3,214.2L807.5,225.7L814.5,230L819.9,245.7L814.4,251.6L819,254.6L826.8,258.4L842.6,266L850.4,274.4L856.1,282.3L865.9,294.9L852.6,289L850.3,291.9L845.9,299.1L848.6,308L856.9,311.1L852.3,321.2L838.6,320.1L829.8,315.9Z"
+    },
+    {
+      id: "AT-616",
+      name: { de: "Voitsberg", hu: "Voitsberg", ro: "Voitsberg", en: "Voitsberg" },
+      labelX: 584.3, labelY: 314.7,
+      path: "M651.8,337.5L650.3,349.5L639.8,345.1L632.3,344.1L610.4,347L593.1,344.8L588.5,353.6L579.7,360L564.5,360.9L552.6,358.6L534.9,337.8L512.7,331.2L501.9,323.4L491.7,314.4L497.8,311.9L516.1,305.8L517.1,291.8L527,276.9L540.2,269.6L557,262.2L574.3,256L594.1,256.8L603.7,259.8L611,277.7L613.3,290L620.8,299.9L626.4,300.8L638,309.3L639.2,315.5L638.4,322.1L651.7,328.6L651.8,337.5Z"
+    },
+    {
+      id: "AT-601",
+      name: { de: "Graz(Stadt)", hu: "Graz(Stadt)", ro: "Graz(Stadt)", en: "Graz(Stadt)" },
+      labelX: 699.8, labelY: 304.5,
+      path: "M678.2,323.2L701,323.9L707.4,323.7L719,324L724.5,317.2L725.7,305.2L732.4,296.5L728.3,286L710.8,285L693.6,286.6L684.8,291.5L673.3,289.2L670.4,295.6L676,302.9L673.6,313.2L678.2,323.2Z"
+    },
+    {
+      id: "AT-603",
+      name: { de: "Deutschlandsberg", hu: "Deutschlandsberg", ro: "Deutschlandsberg", en: "Deutschlandsberg" },
+      labelX: 622, labelY: 400.7,
+      path: "M569.6,454.1L555.2,447.9L559.5,433.8L557.7,421L545.4,408.7L540.2,399.8L550.9,390.4L550.1,382.7L551.8,373.2L564.5,360.9L579.7,360L588.5,353.6L593.1,344.8L610.4,347L632.3,344.1L639.8,345.1L650.3,349.5L665,343.8L666.5,352.8L674.3,358.6L688.7,374.9L696.4,377.8L697.3,384.9L690.7,393.9L678.5,402.4L669.3,410L671.2,414.7L665,420.7L666,426.6L665.6,434.5L660,441.3L658.7,448.6L650.1,454L639.2,456.7L616.2,456.3L605.4,453.3L592.9,454.6L575.7,456.5L569.6,454.1Z"
+    },
+    {
+      id: "AT-606",
+      name: { de: "Graz-Umgebung", hu: "Graz-Umgebung", ro: "Graz-Umgebung", en: "Graz-Umgebung" },
+      labelX: 691.3, labelY: 295.8,
+      path: "M705.3,364.9L693.8,368.9L692.6,374.4L679.8,365.3L669.6,358L669.4,347.8L657.3,341L656.8,333.6L643.5,327.9L640.1,318.9L637.5,313.5L632.9,303.1L623.9,301.8L615.8,291.4L607.1,281.8L611.9,272L598.5,260.3L586.1,258.3L565.2,256.8L568,249.8L576,245.8L587.5,237.9L598.5,232.1L613,225.7L628.2,212.3L640.3,211.5L657.9,215.3L666.4,221.2L684.7,222.8L690.2,225L694.3,235.4L711.1,239L702.6,252.8L711.6,257.3L725.9,264.2L747.3,262.9L754,264.2L752.3,272.1L766.8,281.2L778.8,287.5L770.2,299.5L772.4,308L789.2,314.5L791.6,322.6L803.8,330L795.4,335.2L787.4,338.3L775.7,337.1L764,330.4L753.8,324.6L741.3,334.2L739.4,339.4L733,355.2L727.6,361.1L715.6,362.1L705.3,364.9ZM673.6,313.2L686.7,325.6L702.1,325.7L709.2,327.1L717.5,320.3L722.5,314.4L728.1,299.9L730.5,288.9L721.4,287.5L701.1,286.1L686.8,284.6L680.3,291.7L674.8,292.6L674.9,296.3L680.6,306.7L673.6,313.2Z"
+    }
+  ],
+  // Tirol
+  "AT-7": [
+    {
+      id: "AT-701",
+      name: { de: "Innsbruck-Stadt", hu: "Innsbruck-Stadt", ro: "Innsbruck-Stadt", en: "Innsbruck-Stadt" },
+      labelX: 455.1, labelY: 189.2,
+      path: "M475,209.6L462.3,198.2L475.1,194.6L473.5,186.6L462.9,183.4L466,175.1L466.4,166.8L454.9,165.3L435.6,167.9L437.1,177.3L426.1,191.2L432.9,193L440.2,200L454.3,201.6L455.9,209.8L464.1,208.9L475,209.6Z"
+    },
+    {
+      id: "AT-703",
+      name: { de: "Innsbruck-Land", hu: "Innsbruck-Land", ro: "Innsbruck-Land", en: "Innsbruck-Land" },
+      labelX: 444.9, labelY: 208.4,
+      path: "M537.6,262.9L530.8,270L518.6,276.2L502.1,283L482.9,274.4L475.2,280.2L468.8,286.2L458.1,289.1L444.5,281.1L432.1,280.4L423.8,282.4L406.9,287.6L385.3,289.9L377.1,289.5L362.9,284.2L360.2,278L364.3,270.4L361.9,256.9L349.7,241.4L349.5,231.6L343.1,219.9L346.5,212.4L359.7,205.7L348.2,199L350.8,183.8L338.8,183.4L335.4,180.2L326,171.3L332.7,159.6L347.1,150.9L369,149.7L380,142.6L395.2,138.7L409.5,139.2L416.8,150.2L422.7,140.9L437.1,134L464.5,135.2L466.4,141.5L484,152.7L496.8,155.8L489.7,161.4L495.1,165L508.1,165L521.4,166.1L528.6,178.8L538.4,183.6L539.2,186L553.3,201.1L555.6,208.6L548.9,214.7L544.6,220.2L545,226.5L532.3,233L532.8,244.5L535.8,250.7L537.6,262.9ZM440.2,200L454.3,201.6L455.9,209.8L464.1,208.9L466.4,204.7L467.9,198.7L474.7,192.1L468.5,183.1L457.6,176.8L466.5,166.8L460,165L444.2,162.4L438,174.2L427.5,184.3L427.2,193.1L440.9,198.6L440.2,200Z"
+    },
+    {
+      id: "AT-702",
+      name: { de: "Imst", hu: "Imst", ro: "Imst", en: "Imst" },
+      labelX: 286.6, labelY: 244.8,
+      path: "M358.2,281.6L367.9,284.9L382,288.9L379,299.1L366.3,299.9L359.8,307.4L357.8,316.8L356.1,334.8L345.4,339.3L336.4,353L328.1,352.6L303,350.1L291.8,354L278.2,347.9L269.7,350.1L258.8,344.7L242.7,345.8L247.8,340.6L260,330.2L262.7,323.5L257.7,313.2L260.7,304.9L259.5,295.5L262.5,279.3L268.9,273.4L265.3,263.8L262.6,257L251.6,248L243.1,244.4L233.5,232.3L225.6,225.8L226.3,212.9L221.5,205.1L211.2,198.7L202.7,202.5L189.8,198.4L185.8,187.3L182.1,182.8L197,186.8L209.1,190.2L219,184.7L210.3,178L204.1,172.5L217.6,174L230.6,169.9L243.9,163.3L256.4,155.4L271.5,154.2L283.6,166.8L291.6,168.7L301.6,164.9L319.8,160.5L326.5,150.8L332.7,159.6L326,171.3L335.4,180.2L338.8,183.4L350.8,183.8L348.2,199L359.7,205.7L346.5,212.4L343.1,219.9L349.5,231.6L349.7,241.4L361.9,256.9L364.3,270.4L360.2,278L358.2,281.6Z"
+    },
+    {
+      id: "AT-705",
+      name: { de: "Kufstein", hu: "Kufstein", ro: "Kufstein", en: "Kufstein" },
+      labelX: 672.4, labelY: 106.2,
+      path: "M657.5,174.7L643.7,171.1L627.3,170.4L614.7,156.2L598.6,150.1L592.1,148.9L584.7,141.2L577.3,138.3L587,128.4L595.9,122.5L596.6,111.9L596.5,105.3L584.3,99.3L575.2,93.6L578,88.5L601.2,91.1L616.2,82.7L628.8,81.3L656.4,81.6L670.7,79.4L687.1,81.7L698.1,82.6L707.3,85.1L716.9,80.9L710.1,67L703.8,59L709,53.2L730.3,40L729.4,49.8L732.7,60L755.1,54.8L764.1,64.3L755.1,72.2L752.5,84L754.1,87.9L749.5,93.3L751.5,114.6L749.2,125.7L730,124.4L715.5,128.6L711.3,124.3L698,122.2L693.2,127.7L685.3,128.8L682.9,139.7L672.1,143.1L677.2,157.8L657.5,174.7Z"
+    },
+    {
+      id: "AT-704",
+      name: { de: "Kitzbühel", hu: "Kitzbühel", ro: "Kitzbühel", en: "Kitzbühel" },
+      labelX: 766.5, labelY: 130.5,
+      path: "M803.8,159.8L809,169.7L800.9,174L784.5,174.7L773.9,177L762.7,175.7L745.3,172.7L731.9,179.1L723.9,177.8L716.9,181L696.4,185.5L680.4,186.3L672.2,188.5L651.5,190.8L657.5,174.7L677.2,157.8L672.1,143.1L682.9,139.7L685.3,128.8L693.2,127.7L698,122.2L711.3,124.3L715.5,128.6L730,124.4L749.2,125.7L751.5,114.6L749.5,93.3L754.1,87.9L752.5,84L755.1,72.2L764.1,64.3L764.7,56.4L778.9,55.8L791.6,61.7L807.8,73.6L818.7,75.5L834.6,75L834.5,83.8L859.8,89.3L859.3,95.1L851.7,101.6L863.5,115.6L874.6,124.6L857,127.7L854.7,137.8L850.5,142.4L835.8,152L825.1,150.2L812.5,151.5L805,156.7L803.8,159.8Z"
+    },
+    {
+      id: "AT-707",
+      name: { de: "Lienz", hu: "Lienz", ro: "Lienz", en: "Lienz" },
+      labelX: 827.6, labelY: 310.1,
+      path: "M878.5,362.7L872.3,373.6L871.7,388L856,389.6L843.8,388.2L832.7,389.8L815.8,381.1L802.9,378.8L787.2,374.5L771.3,367L749.3,346.9L740.1,345.4L740.9,337.3L743.1,323.9L738.5,318.4L725.9,313.6L713.3,312.3L701.4,307.1L704.2,297.7L694.5,291.9L689,276L702.9,271.8L715.9,269.3L719.6,259.1L734,254.6L749.2,248L761,242.9L766.7,232.6L782.6,231.9L794.8,231.8L805.3,227.3L819.5,233.8L831.9,234.3L840.2,237.8L855.3,244.2L875.1,255.3L885.9,264.5L892.3,269.9L883,280.4L887.9,287.9L893.8,291.8L902.5,297.3L909.5,302.7L918.7,306L919.6,312.3L920,322.5L937.5,333.8L941.2,334.8L959.3,342.5L956.2,347.7L949,353.6L938.7,349.5L925,354.9L910,356.1L890.2,358.9L882.7,360.2L878.5,362.7Z"
+    },
+    {
+      id: "AT-706",
+      name: { de: "Landeck", hu: "Landeck", ro: "Landeck", en: "Landeck" },
+      labelX: 157.4, labelY: 271.9,
+      path: "M208.8,321.4L186.7,329.3L175.6,327.5L167.1,325.2L159.7,318.7L160.9,311.8L164.5,305L155,293.5L145.5,285.9L128,280.8L114.2,289.4L107.7,293.9L110.2,301.7L94.1,300.7L85.8,304.4L83.8,314.9L70.6,320.8L55,325.7L46.1,314.7L43.4,307.3L47.2,297.8L52.5,286.8L59.8,283.1L50.5,273.7L54.8,267.1L56.9,258.1L51.3,252.9L68.3,236.5L73.7,232.2L76.8,227.4L97.5,226.6L104.7,222.7L122.5,222.1L130.2,219.5L141.2,220.9L151.2,209.2L152.3,203.4L167.1,201.6L179.2,201.4L186.6,198L194.7,201.9L207.2,197.4L215.1,203.4L222.4,210L227.7,221.9L224.4,227.9L231.8,236.1L245.1,247.2L260,251.5L265.4,259L272.1,269.7L264.4,274.2L264.7,284.5L262.5,300.7L256.6,307.1L263.3,316L257.5,327L253.6,334.8L240.3,329.9L231.2,325.3L222.6,317.9L208.8,321.4Z"
+    },
+    {
+      id: "AT-709",
+      name: { de: "Schwaz", hu: "Schwaz", ro: "Schwaz", en: "Schwaz" },
+      labelX: 573.5, labelY: 185.9,
+      path: "M609.7,274.7L597.8,280L580.1,280.3L569,287.9L557.6,280.1L542.5,280.5L530.5,273.6L536.9,268.1L540.6,260.9L537.5,249.1L533.9,238.4L535.6,232.6L541.9,223L543.2,214.5L555,212.1L552.9,204.4L551.1,194L538.5,183.6L532.1,178L525.3,174.9L514.7,166.8L501,163.2L488.4,164.6L494.7,160.6L494.3,153.3L470.7,146L469.1,137.4L460.7,128.2L454.9,123.1L463,116.8L473.5,115.2L493.8,115.5L518,109.3L522,95.7L529.2,90.5L540.5,90.5L554,89L578,88.5L575.2,93.6L584.3,99.3L596.5,105.3L596.6,111.9L595.9,122.5L587,128.4L577.3,138.3L584.7,141.2L592.1,148.9L598.6,150.1L614.7,156.2L627.3,170.4L643.7,171.1L657.5,174.7L651.5,190.8L672.2,188.5L674.6,191.4L685.5,200.8L676.7,215.1L680.1,231.1L686.6,237.9L690.3,248.2L688.3,254.4L676.8,255.5L662.9,258.5L643.5,261.9L636.3,264L628.6,265.9L609.7,274.7Z"
+    },
+    {
+      id: "AT-708",
+      name: { de: "Reutte", hu: "Reutte", ro: "Reutte", en: "Reutte" },
+      labelX: 188.3, labelY: 157.5,
+      path: "M181.2,183.6L191,188.9L186.6,198L179.2,201.4L167.1,201.6L152.3,203.4L151.2,209.2L141.2,220.9L130.2,219.5L122.5,222.1L104.7,222.7L97.5,226.6L76.8,227.4L72.6,219.6L76.7,212.4L71.9,202L70.1,194.1L73.1,189.1L83,191.1L98.9,185.6L114.5,180.1L123,169.8L133.2,159.3L143.1,154.5L146.2,152.5L154.7,143.1L160.9,139.5L159.3,127.6L149.7,121.8L146.9,116.3L149.2,109.9L160,101.1L168.2,105L189.1,105.9L200.3,95.1L212.1,98.6L226,99.5L231.3,103.1L246,105.1L253.5,111.2L269.4,109L282.2,106.8L299.1,111.9L288,123.4L301.2,122.2L307.7,127.8L324.1,139.9L319.9,149.6L324.7,159.6L304.3,159.8L297.9,165L285.1,169.8L271.8,159.2L271.3,154.1L251.8,162.6L235.2,161.8L224.9,168.5L213.3,172L205.8,177.3L211.9,183.8L217.6,192.1L199.5,190.3L186.4,181.6L181.2,183.6ZM154.3,99.6L147.5,95.2L154.7,91L160.4,94.7L154.3,99.6Z"
+    }
+  ],
+  // Vorarlberg
+  "AT-8": [
+    {
+      id: "AT-802",
+      name: { de: "Bregenz", hu: "Bregenz", ro: "Bregenz", en: "Bregenz" },
+      labelX: 425.2, labelY: 231.5,
+      path: "M618.5,368.3L589.8,380.6L548.9,389.4L530.7,372.4L506.2,352.8L482.4,351.8L436.2,341.5L420.4,332.5L349.5,345.5L344.4,352.5L326.6,337.1L340.2,319.9L313.2,312.2L320.6,270.3L333.5,247.4L298,211.5L298.4,182.3L251,190.5L213.1,179.5L183.9,166.8L162.7,177.8L113,159.8L90.3,149.5L69.7,127.1L121.9,118L170.7,109.5L235.2,86.6L255.4,55.3L299.1,40L321.7,72.9L325.2,89L367.8,104.2L394.1,89.3L431.3,95L454.2,109.5L487.1,147.7L523.2,141.8L572.9,169.2L586.6,197.7L557.7,213.1L566.5,232.6L582.7,270L619,257.4L649.1,240.3L690,244.9L713.5,251.9L677.8,297L679.8,322.8L651.6,342.1L670.6,359.2L676.1,382.7L627.7,372.5L618.5,368.3Z"
+    },
+    {
+      id: "AT-801",
+      name: { de: "Bludenz", hu: "Bludenz", ro: "Bludenz", en: "Bludenz" },
+      labelX: 433.9, labelY: 516.6,
+      path: "M615.8,580.3L634.8,603.1L625.5,624.1L616.2,650.9L581.2,677.6L591.3,708.4L621.8,727.3L604.7,752.8L570.9,740.6L537.5,726.6L493.2,704.8L466.4,688.5L413.9,686.2L369.5,670.1L368,634.9L381.5,607.6L369.5,588L347.1,592.6L319.8,589.6L281.9,571.5L244.5,569.1L209.2,557.9L179.9,549.7L140.9,559L112.8,550.3L137.5,528.9L127,504.7L125.7,463.7L142.5,407.2L172.4,412.1L209.1,422.5L245.1,408.9L249.5,394.1L263.6,385L294.5,357.7L322.8,366.9L344.4,352.5L349.5,345.5L420.4,332.5L436.2,341.5L482.4,351.8L506.2,352.8L530.7,372.4L548.9,389.4L589.8,380.6L618.5,368.3L672.9,377L690.4,394.4L675.2,422.9L689.1,444.9L699.1,465.8L684.7,483.5L625.7,515.8L615.9,547.4L637.2,561.7L615.8,580.3Z"
+    },
+    {
+      id: "AT-804",
+      name: { de: "Feldkirch", hu: "Feldkirch", ro: "Feldkirch", en: "Feldkirch" },
+      labelX: 185, labelY: 364.1,
+      path: "M125.7,463.7L107,457L79.9,426.3L76.7,399.1L75,378.5L48.4,359L54.9,341L94.9,305.5L111.6,272.7L153.3,257.9L200.3,277.9L223.2,279L248.1,312.8L275.5,315.6L316.9,331.9L326.2,348L326.9,359.5L310.9,358.3L279.6,378.6L255.4,382.4L253.2,403.5L224.9,411L182,417.3L160.2,402.1L125.8,445.9L125.7,463.7Z"
+    },
+    {
+      id: "AT-803",
+      name: { de: "Dornbirn", hu: "Dornbirn", ro: "Dornbirn", en: "Dornbirn" },
+      labelX: 247.8, labelY: 253.1,
+      path: "M223.2,279L200.3,277.9L153.3,257.9L176,244.5L162.1,228.2L150,189.5L177.2,170.2L199.8,180.2L235.5,184.1L276.6,184.8L309.3,191.3L310.1,232L339,264.7L313,285.3L322.6,318L343.1,329.4L316.9,331.9L275.5,315.6L248.1,312.8L223.2,279Z"
+    }
+  ],
+  // Wien
+  "AT-9": [
+    {
+      id: "AT-919",
+      name: { de: "Wien 19.,Döbling", hu: "Wien 19.,Döbling", ro: "Wien 19.,Döbling", en: "Wien 19.,Döbling" },
+      labelX: 385.6, labelY: 191.8,
+      path: "M288,206.7L440.2,250.9L481.8,208.6L445.3,131.3L349,153.1L281.4,189.6L288,206.7Z"
+    },
+    {
+      id: "AT-901",
+      name: { de: "Wien  1.,Innere Stadt", hu: "Wien  1.,Innere Stadt", ro: "Wien  1.,Innere Stadt", en: "Wien  1.,Innere Stadt" },
+      labelX: 471, labelY: 309.9,
+      path: "M468.6,326.1L512.7,299L446.6,292L458.3,319.2L468.6,326.1Z"
+    },
+    {
+      id: "AT-900",
+      name: { de: "Wien(Stadt)", hu: "Wien(Stadt)", ro: "Wien(Stadt)", en: "Wien(Stadt)" },
+      labelX: 495.2, labelY: 312.9,
+      path: "M812.8,421L957.8,476.2L939.4,410.1L865.2,378.8L865.2,324.4L903.5,234.6L890.1,178.7L796.3,154L785.8,115L742.2,139.3L641.9,111.4L613.1,45.1L505.2,52.7L462.1,133.7L418.6,127.2L289.4,161.2L250.4,194.6L178.9,236.2L100.9,176.1L47.6,271.4L99.4,319.9L40,392.8L77.4,431.2L105.1,447.4L124.3,492.9L150,495L310,489.6L343.4,512.8L467.8,491.5L520.7,499.2L601.2,504.5L632.2,469.8L730.6,426.5L812.8,421Z"
+    },
+    {
+      id: "AT-903",
+      name: { de: "Wien  3.,Landstraße", hu: "Wien  3.,Landstraße", ro: "Wien  3.,Landstraße", en: "Wien  3.,Landstraße" },
+      labelX: 536.9, labelY: 351.9,
+      path: "M537.3,382.4L620.3,357.2L490.1,325.5L537.3,382.4Z"
+    },
+    {
+      id: "AT-902",
+      name: { de: "Wien  2.,Leopoldstadt", hu: "Wien  2.,Leopoldstadt", ro: "Wien  2.,Leopoldstadt", en: "Wien  2.,Leopoldstadt" },
+      labelX: 568.4, labelY: 307.2,
+      path: "M512.7,299L773.9,403.9L543.5,240.7L478.4,282.3L512.7,299Z"
+    },
+    {
+      id: "AT-905",
+      name: { de: "Wien  5.,Margareten", hu: "Wien  5.,Margareten", ro: "Wien  5.,Margareten", en: "Wien  5.,Margareten" },
+      labelX: 440.5, labelY: 359.2,
+      path: "M430.8,373.8L453.3,333L430.8,373.8Z"
+    },
+    {
+      id: "AT-904",
+      name: { de: "Wien  4.,Wieden", hu: "Wien  4.,Wieden", ro: "Wien  4.,Wieden", en: "Wien  4.,Wieden" },
+      labelX: 477.7, labelY: 344,
+      path: "M475.3,363L490.1,325.5L453.3,333L475.3,363Z"
+    },
+    {
+      id: "AT-907",
+      name: { de: "Wien  7.,Neubau", hu: "Wien  7.,Neubau", ro: "Wien  7.,Neubau", en: "Wien  7.,Neubau" },
+      labelX: 420.3, labelY: 319.9,
+      path: "M406.4,335L445.1,309.3L401.2,315.6L406.4,335Z"
+    },
+    {
+      id: "AT-906",
+      name: { de: "Wien  6.,Mariahilf", hu: "Wien  6.,Mariahilf", ro: "Wien  6.,Mariahilf", en: "Wien  6.,Mariahilf" },
+      labelX: 431, labelY: 338.6,
+      path: "M412.2,352.2L468.6,326.1L406.4,335L412.2,352.2Z"
+    },
+    {
+      id: "AT-909",
+      name: { de: "Wien  9.,Alsergrund", hu: "Wien  9.,Alsergrund", ro: "Wien  9.,Alsergrund", en: "Wien  9.,Alsergrund" },
+      labelX: 441.1, labelY: 274.8,
+      path: "M410.2,290.1L478.4,282.3L458.5,240.8L412.8,285.2L410.2,290.1Z"
+    },
+    {
+      id: "AT-908",
+      name: { de: "Wien  8.,Josefstadt", hu: "Wien  8.,Josefstadt", ro: "Wien  8.,Josefstadt", en: "Wien  8.,Josefstadt" },
+      labelX: 419.6, labelY: 299.9,
+      path: "M404.5,305.4L446.6,292L406.4,297.1L404.5,305.4Z"
+    },
+    {
+      id: "AT-921",
+      name: { de: "Wien 21.,Floridsdorf", hu: "Wien 21.,Floridsdorf", ro: "Wien 21.,Floridsdorf", en: "Wien 21.,Floridsdorf" },
+      labelX: 571.2, labelY: 140.7,
+      path: "M543.5,240.7L612.8,216.6L671,178.7L641.9,111.4L613.1,45.1L505.2,52.7L462.1,133.7L483.6,179.3L543.5,240.7Z"
+    },
+    {
+      id: "AT-920",
+      name: { de: "Wien 20.,Brigittenau", hu: "Wien 20.,Brigittenau", ro: "Wien 20.,Brigittenau", en: "Wien 20.,Brigittenau" },
+      labelX: 485.3, labelY: 233.9,
+      path: "M472.1,266.9L483.6,179.3L458.5,240.8L472.1,266.9Z"
+    },
+    {
+      id: "AT-923",
+      name: { de: "Wien 23.,Liesing", hu: "Wien 23.,Liesing", ro: "Wien 23.,Liesing", en: "Wien 23.,Liesing" },
+      labelX: 264.9, labelY: 462.6,
+      path: "M124.3,492.9L150,495L310,489.6L343.4,512.8L467.8,491.5L410.8,434.3L386.2,429.2L252.2,428.2L152.2,443.1L105.1,447.4L124.3,492.9Z"
+    },
+    {
+      id: "AT-922",
+      name: { de: "Wien 22.,Donaustadt", hu: "Wien 22.,Donaustadt", ro: "Wien 22.,Donaustadt", en: "Wien 22.,Donaustadt" },
+      labelX: 801.9, labelY: 277.9,
+      path: "M960,454.8L904.3,413.7L878,345.3L887.8,287.6L872.5,225.6L829.2,175L815.4,126.2L737.4,108.4L721.8,150L633.9,181.9L578.6,219.9L633.9,308.3L812.8,421L957.8,476.2L960,454.8Z"
+    },
+    {
+      id: "AT-910",
+      name: { de: "Wien 10.,Favoriten", hu: "Wien 10.,Favoriten", ro: "Wien 10.,Favoriten", en: "Wien 10.,Favoriten" },
+      labelX: 525.3, labelY: 451.2,
+      path: "M634.1,511.8L617.6,448L503.6,353.1L430.8,373.8L410.8,434.3L467.8,491.5L520.7,499.2L601.2,504.5L634.1,511.8Z"
+    },
+    {
+      id: "AT-912",
+      name: { de: "Wien 12.,Meidling", hu: "Wien 12.,Meidling", ro: "Wien 12.,Meidling", en: "Wien 12.,Meidling" },
+      labelX: 380.3, labelY: 390.4,
+      path: "M398,420.2L412.2,352.2L361.9,358.4L296,413.2L398,420.2Z"
+    },
+    {
+      id: "AT-911",
+      name: { de: "Wien 11.,Simmering", hu: "Wien 11.,Simmering", ro: "Wien 11.,Simmering", en: "Wien 11.,Simmering" },
+      labelX: 658.6, labelY: 421,
+      path: "M632.2,469.8L730.6,426.5L773.9,403.9L557.3,363.8L617.6,448L632.2,469.8Z"
+    },
+    {
+      id: "AT-914",
+      name: { de: "Wien 14.,Penzing", hu: "Wien 14.,Penzing", ro: "Wien 14.,Penzing", en: "Wien 14.,Penzing" },
+      labelX: 181.6, labelY: 278.1,
+      path: "M99.4,319.9L234.3,339.5L339.9,318.7L280.7,292.8L214,232.5L160.9,208.3L73.6,209.2L73.1,271L99.4,319.9Z"
+    },
+    {
+      id: "AT-913",
+      name: { de: "Wien 13.,Hietzing", hu: "Wien 13.,Hietzing", ro: "Wien 13.,Hietzing", en: "Wien 13.,Hietzing" },
+      labelX: 197.2, labelY: 388.7,
+      path: "M296,413.2L361.9,358.4L234.3,339.5L99.4,319.9L40,392.8L77.4,431.2L152.2,443.1L252.2,428.2L296,413.2Z"
+    },
+    {
+      id: "AT-916",
+      name: { de: "Wien 16.,Ottakring", hu: "Wien 16.,Ottakring", ro: "Wien 16.,Ottakring", en: "Wien 16.,Ottakring" },
+      labelX: 315.2, labelY: 292.8,
+      path: "M207,275.4L282.1,307.7L401.2,315.6L406.4,297.1L259.6,262.4L207,275.4Z"
+    },
+    {
+      id: "AT-915",
+      name: { de: "Wien 15.,Rudolfsheim-Fünfhaus", hu: "Wien 15.,Rudolfsheim-Fünfhaus", ro: "Wien 15.,Rudolfsheim-Fünfhaus", en: "Wien 15.,Rudolfsheim-Fünfhaus" },
+      labelX: 375.1, labelY: 342,
+      path: "M361.9,358.4L406.4,335L339.9,318.7L361.9,358.4Z"
+    },
+    {
+      id: "AT-918",
+      name: { de: "Wien 18.,Währing", hu: "Wien 18.,Währing", ro: "Wien 18.,Währing", en: "Wien 18.,Währing" },
+      labelX: 382.5, labelY: 255.7,
+      path: "M412.8,285.2L403,246.6L320.4,243.4L412.8,285.2Z"
+    },
+    {
+      id: "AT-917",
+      name: { de: "Wien 17.,Hernals", hu: "Wien 17.,Hernals", ro: "Wien 17.,Hernals", en: "Wien 17.,Hernals" },
+      labelX: 325, labelY: 255.1,
+      path: "M410.2,290.1L400.5,272.2L288,206.7L250.4,194.6L207,275.4L363.7,277.6L410.2,290.1Z"
+    }
+  ]
 };
