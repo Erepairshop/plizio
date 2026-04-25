@@ -1324,28 +1324,8 @@ function SubRegionView({
                 {/* POIs located inside this Bundesland (filtered by sub-layer) */}
                 <g>
                   {(() => {
-                    // Megye-bbox: a path strgbol szamoljuk, hogy lon/lat alapjan is be tudjuk vonni
-                    // a szomszedos POI-kat (parent reassign nem volt pontos a hatarokon)
-                    const _path = (detail?.children?.[0] as any)?.path as string | undefined;
-                    let bbox: { minX: number; maxX: number; minY: number; maxY: number } | null = null;
-                    if (_path) {
-                      const _nums = _path.match(/-?\d+\.?\d*/g)?.map(Number) ?? [];
-                      let mnX = Infinity, mxX = -Infinity, mnY = Infinity, mxY = -Infinity;
-                      for (let i = 0; i < _nums.length - 1; i += 2) {
-                        mnX = Math.min(mnX, _nums[i]); mxX = Math.max(mxX, _nums[i]);
-                        mnY = Math.min(mnY, _nums[i + 1]); mxY = Math.max(mxY, _nums[i + 1]);
-                      }
-                      if (isFinite(mnX)) bbox = { minX: mnX, maxX: mxX, minY: mnY, maxY: mxY };
-                    }
-                    const inBBox = (lon: number, lat: number): boolean => {
-                      if (!bbox || !detail?.projection) return false;
-                      const [px, py] = projectInState(detail.projection, lon, lat);
-                      return px >= bbox.minX && px <= bbox.maxX && py >= bbox.minY && py <= bbox.maxY;
-                    };
                     const filtered = pois.filter((p) => {
-                      if (p.type === "region") return false;
-                      // bbox-ban van VAGY parent egyezik (rugalmasabb a hatarokon)
-                      if (p.parent !== stateId && !inBBox(p.coords[0], p.coords[1])) return false;
+                      if (p.type === "region" || p.parent !== stateId) return false;
                       if (subMode === "quiz") {
                         const quizTypes = subQuiz.visiblePoiTypes;
                         if (quizTypes === null) return true;
