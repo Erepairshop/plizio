@@ -1073,6 +1073,7 @@ function SubRegionView({
   const [hovered, setHovered] = useState<string | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);
+  const [selectedRiver, setSelectedRiver] = useState<{ name: string; path: string } | null>(null);
   const [subLayer, setSubLayer] = useState<Layer>("all");
   const pz = usePanZoom({ viewBox: detail?.viewBox ?? "0 0 1000 1200", maxScale: 50 });
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
@@ -1206,18 +1207,26 @@ function SubRegionView({
               </defs>
 
               <g transform={`translate(${pz.view.x} ${pz.view.y}) scale(${pz.view.scale})`}>
-                {/* Rivers overlay — below Bundesland paths so borders stay on top */}
-                {(deRivers[stateId] ?? []).map((r, i) => (
-                  <path
-                    key={`river-${i}`}
-                    d={r.path}
-                    fill="none"
-                    stroke="rgba(56, 189, 248, 0.55)"
-                    strokeWidth={1.2 / pz.view.scale}
-                    strokeLinejoin="round"
-                    pointerEvents="none"
-                  />
-                ))}
+                {/* Rivers overlay — kattinthato, info-kartya mint POIknal */}
+                {(deRivers[stateId] ?? []).map((r, i) => {
+                  const isSel = selectedRiver?.name === r.name && selectedRiver?.path === r.path;
+                  return (
+                    <g key={`river-${i}`} style={{ cursor: "pointer" }}
+                      onClick={(e) => { e.stopPropagation(); if (!pz.dragged.current) { setSelectedRiver(r); setSelectedPoiId(null); } }}
+                    >
+                      {/* lathatatlan szeles hit-line */}
+                      <path d={r.path} fill="none" stroke="transparent"
+                        strokeWidth={14 / pz.view.scale} strokeLinejoin="round" strokeLinecap="round"
+                        style={{ pointerEvents: "stroke" }} />
+                      {/* lathato folyo-vonal */}
+                      <path d={r.path} fill="none"
+                        stroke={isSel ? "rgba(125,211,252,0.95)" : "rgba(56, 189, 248, 0.7)"}
+                        strokeWidth={(isSel ? 2.6 : 1.8) / pz.view.scale}
+                        strokeLinejoin="round" strokeLinecap="round"
+                        pointerEvents="none" />
+                    </g>
+                  );
+                })}
 
                 {detail.children.map((c: any) => {
                   const isHover = hovered === c.id;
@@ -1400,6 +1409,33 @@ function SubRegionView({
                 {moreLabel}
               </a>
             ) : null}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* River info card */}
+      <AnimatePresence>
+        {selectedRiver && !selectedPoi && (
+          <motion.div
+            key={`sub-river-${selectedRiver.name}`}
+            initial={{ y: 60, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            exit={{ y: 60, opacity: 0 }}
+            transition={{ type: "spring", stiffness: 260, damping: 24 }}
+            className="fixed left-1/2 -translate-x-1/2 bottom-4 w-[92%] max-w-md rounded-2xl border border-sky-400/40 bg-[#0A1929]/95 backdrop-blur-md shadow-[0_8px_32px_rgba(56,189,248,0.25)] p-4 z-[150]"
+          >
+            <div className="flex items-start gap-3">
+              <div className="w-12 h-12 rounded-lg bg-sky-500/15 border border-sky-400/25 flex items-center justify-center text-2xl">🌊</div>
+              <div className="flex-1 min-w-0">
+                <div className="text-[11px] uppercase tracking-wider text-sky-300/70 mb-0.5">
+                  {displayLang === "hu" ? "Folyó" : displayLang === "ro" ? "Râu" : displayLang === "en" ? "River" : "Fluss"}
+                </div>
+                <h3 className="text-sky-200 font-semibold text-base leading-tight">{selectedRiver.name}</h3>
+              </div>
+              <button onClick={() => setSelectedRiver(null)} className="text-white/60 hover:text-white p-1 rounded hover:bg-white/5">
+                <X size={16} />
+              </button>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
