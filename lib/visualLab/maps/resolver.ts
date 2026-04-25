@@ -35,8 +35,10 @@ const deutschlandPois = [
   ...poiExtraDe4b,
 ];
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
+import { poiExtraRo1 } from "../data/poiExtraRo1";
 import { hungaryAllPoi } from "../data/hungaryPoi";
 import { poiExtraHu1 } from "../data/poiExtraHu1";
+import { poiExtraHu2 } from "../data/poiExtraHu2";
 import { franceAllPoi } from "../data/francePoi";
 import { italyAllPoi } from "../data/italyPoi";
 import { polandAllPoi } from "../data/polandPoi";
@@ -263,7 +265,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: romaniaMap as BundeslandPath[],
         viewBox: romaniaViewBox,
         projectCoords: projectCoordsRO,
-        pois: romaniaAllPois,
+        pois: [...romaniaAllPois, ...poiExtraRo1],
         subregions: romaniaJudetSubregions,
       };
     case "hu":
@@ -272,7 +274,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: magyarorszagMap as unknown as BundeslandPath[],
         viewBox: magyarorszagViewBox,
         projectCoords: projectCoordsHU,
-        pois: [...hungaryAllPoi, ...poiExtraHu1],
+        pois: [...hungaryAllPoi, ...poiExtraHu1, ...poiExtraHu2],
         subregions: hungarySubregions,
       };
     case "pl":
