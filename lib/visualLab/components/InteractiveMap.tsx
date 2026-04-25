@@ -712,7 +712,9 @@ export const InteractiveMap = ({
                   : smallCountry
                     ? (p.type === "state-capital" ? 12 : 9)
                     : (p.type === "state-capital" ? 17 : 14);
-                const fontSize = baseFont / view.scale;  // konstans pixel-méret minden zoom szinten
+                // Font max 2x-re no max zoomig (sqrt-progression, nem extrem)
+                const fontGrow = Math.min(2, Math.sqrt(view.scale));
+                const fontSize = baseFont * fontGrow / view.scale;
                 const label = p.name[displayLang] ?? p.name.de;
                 return (
                   <g
@@ -1285,8 +1287,9 @@ function SubRegionView({
                       const color = poiColor(p.type);
                       const label = p.name[displayLang] ?? p.name.de;
                       const baseFont = p.type === "state-capital" ? 17 : 14;
-                      // konstans screen-pixel meret minden zoom szinten (nem no, nem kisebbedik)
-                      const fontSize = baseFont / pz.view.scale;
+                      // Font max 2x-re no max zoomig (sqrt-progression, nem extrem)
+                      const fontGrow = Math.min(2, Math.sqrt(pz.view.scale));
+                      const fontSize = baseFont * fontGrow / pz.view.scale;
                       const r = 11 / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
