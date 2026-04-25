@@ -74,14 +74,14 @@ const CITY_TO_MEGYE = {
 };
 
 const data = JSON.parse(fs.readFileSync(NE_FILE, "utf8"));
+// Only the 20 megye-codes; city-counties are KIVAGVA (NE often duplicates them outside the megye geometry)
 const allHU = data.features.filter(f => f.properties.iso_a2==='HU' || f.properties.adm0_a3==='HUN');
 const huFeatures = [];
 for (const f of allHU) {
   const code = f.properties.iso_3166_2;
   if (HU_MEGYE[code]) huFeatures.push({ ...f, mergedInto: code });
-  else if (CITY_TO_MEGYE[code]) huFeatures.push({ ...f, mergedInto: CITY_TO_MEGYE[code] });
 }
-console.log(`Found ${huFeatures.length} features (megye + merged city-counties)`);
+console.log(`Found ${huFeatures.length} features (csak 20 megye)`);
 
 // HU bounding box (approx)
 const HU_BBOX = { minLon: 16.0, maxLon: 22.95, minLat: 45.7, maxLat: 48.6 };
