@@ -1329,7 +1329,7 @@ function SubRegionView({
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
                       const hitR = Math.max(14 / pz.view.scale, r * 3);
-                      const handlePoiTap = (e: React.PointerEvent | React.MouseEvent) => {
+                      const handlePoiTap = (e: React.MouseEvent) => {
                         e.stopPropagation();
                         if (pz.dragged.current) return;
                         if (subMode === "quiz") { subQuiz.handlePoiClick(p); return; }
@@ -1340,7 +1340,6 @@ function SubRegionView({
                           key={p.id}
                           onClick={handlePoiTap}
                           onPointerDown={(e) => { e.stopPropagation(); }}
-                          onPointerUp={handlePoiTap}
                           style={{ cursor: "pointer", touchAction: "manipulation" }}
                         >
                           {/* Invisible large hit area for easy tapping */}
