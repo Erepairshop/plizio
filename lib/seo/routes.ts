@@ -174,7 +174,8 @@ export function getPoiByRouteParams(lang: Lang, country: string, state: string, 
   if (!region || getCountryId(region.id) !== countryId) return null;
 
   const poi = findPoiBySlug(lang, poiSlugValue);
-  if (!poi || poi.parent !== region.id) return null;
+  // POI parent egyezhet region.id-vel (legacy slug pl "budapest") VAGY region.parent-tel (HU-BU ISO kod)
+  if (!poi || (poi.parent !== region.id && poi.parent !== region.parent)) return null;
   return { poi, region };
 }
 
