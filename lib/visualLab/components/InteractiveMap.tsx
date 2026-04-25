@@ -1323,10 +1323,9 @@ function SubRegionView({
 
                 {/* POIs located inside this Bundesland (filtered by sub-layer) */}
                 <g>
-                  {pois
-                    .filter((p) => {
+                  {(() => {
+                    const filtered = pois.filter((p) => {
                       if (p.type === "region" || p.parent !== stateId) return false;
-                      // Quiz mode: minden varos + a feladat tipusa lathato (igy nem csak a target lathato)
                       if (subMode === "quiz") {
                         const quizTypes = subQuiz.visiblePoiTypes;
                         if (quizTypes === null) return true;
@@ -1336,9 +1335,36 @@ function SubRegionView({
                       }
                       const allowedTypes = new Set(LAYER_TYPES[subLayer]);
                       return allowedTypes.has(p.type);
-                    })
-                    .map((p) => {
-                      const [cx, cy] = projectInState(detail.projection, p.coords[0], p.coords[1]);
+                    });
+                    // De-cluster: ha 2 POI tul kozel van, kis offset (csigavonal)
+                    const _vbDC = (detail?.viewBox ?? "0 0 1000 1200").split(" ").map(Number);
+                    const dcSizeNorm = Math.max(_vbDC[2] || 1000, _vbDC[3] || 1200) / 1200;
+                    const minDist = 18 * dcSizeNorm / pz.view.scale; // POI dot-atmero kb
+                    const positions: Array<[number, number]> = filtered.map(p =>
+                      projectInState(detail.projection, p.coords[0], p.coords[1])
+                    );
+                    for (let i = 0; i < positions.length; i++) {
+                      for (let j = 0; j < i; j++) {
+                        let dx = positions[i][0] - positions[j][0];
+                        let dy = positions[i][1] - positions[j][1];
+                        const dist = Math.hypot(dx, dy);
+                        if (dist < minDist && dist > 0) {
+                          const push = (minDist - dist) / 2;
+                          const ux = dx / dist, uy = dy / dist;
+                          positions[i][0] += ux * push;
+                          positions[i][1] += uy * push;
+                          positions[j][0] -= ux * push;
+                          positions[j][1] -= uy * push;
+                        } else if (dist === 0) {
+                          // Exakt-egyezo coords -> kis radial offset
+                          const angle = (i * 1.7) % (2 * Math.PI);
+                          positions[i][0] += Math.cos(angle) * minDist / 2;
+                          positions[i][1] += Math.sin(angle) * minDist / 2;
+                        }
+                      }
+                    }
+                    return filtered.map((p, idx) => {
+                      const [cx, cy] = positions[idx];
                       const color = poiColor(p.type);
                       const label = p.name[displayLang] ?? p.name.de;
                       const baseFont = p.type === "state-capital" ? 17 : 14;
@@ -1384,7 +1410,8 @@ function SubRegionView({
                           </text>
                         </g>
                       );
-                    })}
+                    });
+                  })()}
                 </g>
 
                 {/* Quiz SVG overlay (subregion-szinten) */}
