@@ -1,6 +1,6 @@
 import type { POI } from "./poi";
 
-export const poiExtraDeCities = ([
+export const poiExtraDeCities: POI[] = [
   {
     "id": "bamberg-extra",
     "type": "city",
@@ -60,7 +60,6 @@ export const poiExtraDeCities = ([
       "en": "7 hills minus 3 = ?"
     }
   },
-  ,
   {
     "id": "rosenheim-extra",
     "type": "city",
@@ -120,7 +119,6 @@ export const poiExtraDeCities = ([
       "en": "2 rivers + 3 mountains = ?"
     }
   },
-  ,
   {
     "id": "garmisch-extra",
     "type": "city",
@@ -180,7 +178,6 @@ export const poiExtraDeCities = ([
       "en": "If the mountain is 2962m, how much is missing to 3000m?"
     }
   },
-  ,
   {
     "id": "berchtesgaden-extra",
     "type": "city",
@@ -240,7 +237,6 @@ export const poiExtraDeCities = ([
       "en": "3 mountains + 2 lakes = ?"
     }
   },
-  ,
   {
     "id": "fuessen-extra",
     "type": "city",
@@ -300,7 +296,6 @@ export const poiExtraDeCities = ([
       "en": "If 5 castles have 4 towers each, how many towers is that?"
     }
   },
-  ,
   {
     "id": "erlangen-extra",
     "type": "city",
@@ -360,7 +355,6 @@ export const poiExtraDeCities = ([
       "en": "If 100 students go into 4 rooms, how many are in one room?"
     }
   },
-  ,
   {
     "id": "aschaffenburg-extra",
     "type": "city",
@@ -420,7 +414,6 @@ export const poiExtraDeCities = ([
       "en": "Castle (Schloss) has 7 letters. Nice has 5. Together?"
     }
   },
-  ,
   {
     "id": "hof-extra",
     "type": "city",
@@ -480,7 +473,6 @@ export const poiExtraDeCities = ([
       "en": "If a movie is 90 minutes long, how many hours is that?"
     }
   },
-  ,
   {
     "id": "coburg-extra",
     "type": "city",
@@ -540,7 +532,6 @@ export const poiExtraDeCities = ([
       "en": "A fortress has 4 walls with 3 guards each. How many guards?"
     }
   },
-  ,
   {
     "id": "moenchengladbach-extra",
     "type": "city",
@@ -600,7 +591,6 @@ export const poiExtraDeCities = ([
       "en": "11 players + 11 players = ?"
     }
   },
-  ,
   {
     "id": "solingen-extra",
     "type": "city",
@@ -660,7 +650,6 @@ export const poiExtraDeCities = ([
       "en": "If 1 pair of scissors has 2 blades, how many blades do 5 scissors have?"
     }
   },
-  ,
   {
     "id": "krefeld-extra",
     "type": "city",
@@ -720,7 +709,6 @@ export const poiExtraDeCities = ([
       "en": "Velvet and silk: 2 fabrics + 2 colors = ?"
     }
   },
-  ,
   {
     "id": "paderborn-extra",
     "type": "city",
@@ -780,7 +768,6 @@ export const poiExtraDeCities = ([
       "en": "If the river is 4000 meters long, how many kilometers is that?"
     }
   },
-  ,
   {
     "id": "siegen-extra",
     "type": "city",
@@ -840,7 +827,6 @@ export const poiExtraDeCities = ([
       "en": "If a painter paints 5 pictures a month, how many in a year?"
     }
   },
-  ,
   {
     "id": "hamm-extra",
     "type": "city",
@@ -900,7 +886,6 @@ export const poiExtraDeCities = ([
       "en": "An elephant weighs 4000 kg. How much do 2 elephants weigh?"
     }
   },
-  ,
   {
     "id": "hagen-extra",
     "type": "city",
@@ -960,7 +945,6 @@ export const poiExtraDeCities = ([
       "en": "If Hagen has 4 rivers, how many banks are there?"
     }
   },
-  ,
   {
     "id": "leverkusen-extra",
     "type": "city",
@@ -1020,7 +1004,6 @@ export const poiExtraDeCities = ([
       "en": "If 4 football matches last 90 minutes each, how many minutes in total?"
     }
   },
-  ,
   {
     "id": "recklinghausen-extra",
     "type": "city",
@@ -1080,7 +1063,6 @@ export const poiExtraDeCities = ([
       "en": "If a festival lasts 3 weeks, how many days is that?"
     }
   },
-  ,
   {
     "id": "mannheim-extra",
     "type": "city",
@@ -1140,7 +1122,6 @@ export const poiExtraDeCities = ([
       "en": "A chessboard has 8x8 squares. How many squares is that?"
     }
   },
-  ,
   {
     "id": "karlsruhe-extra",
     "type": "city",
@@ -1200,7 +1181,6 @@ export const poiExtraDeCities = ([
       "en": "A fan has 32 ribs. Half are broken. How many are left?"
     }
   },
-  ,
   {
     "id": "heilbronn-extra",
     "type": "city",
@@ -1260,7 +1240,6 @@ export const poiExtraDeCities = ([
       "en": "If 3 boxes have 12 grapes each, how many grapes is that?"
     }
   },
-  ,
   {
     "id": "pforzheim-extra",
     "type": "city",
@@ -1320,7 +1299,6 @@ export const poiExtraDeCities = ([
       "en": "Gold shines. 3 watches + 4 rings = how many pieces of jewelry?"
     }
   },
-  ,
   {
     "id": "reutlingen-extra",
     "type": "city",
@@ -1380,7 +1358,6 @@ export const poiExtraDeCities = ([
       "en": "If a street is 31 cm wide, how many mm is that?"
     }
   },
-  ,
   {
     "id": "esslingen-extra",
     "type": "city",
@@ -1440,7 +1417,6 @@ export const poiExtraDeCities = ([
       "en": "If a half-timbered house is 400 years old, what century is it from?"
     }
   },
-  ,
   {
     "id": "sindelfingen-extra",
     "type": "city",
@@ -1500,7 +1476,6 @@ export const poiExtraDeCities = ([
       "en": "If the factory builds 1000 cars a day, how many in 5 days?"
     }
   },
-  ,
   {
     "id": "aalen-extra",
     "type": "city",
@@ -1560,7 +1535,6 @@ export const poiExtraDeCities = ([
       "en": "If 50 Romans sleep in 5 tents, how many Romans per tent?"
     }
   },
-  ,
   {
     "id": "schwaebisch-gmuend-extra",
     "type": "city",
@@ -1620,7 +1594,6 @@ export const poiExtraDeCities = ([
       "en": "1 gold ring + 2 silver chains = how many pieces of jewelry?"
     }
   },
-  ,
   {
     "id": "ravensburg-extra",
     "type": "city",
@@ -1680,7 +1653,6 @@ export const poiExtraDeCities = ([
       "en": "If a game has 4 players and 3 games are running, how many players are playing?"
     }
   },
-  ,
   {
     "id": "fulda-extra",
     "type": "city",
@@ -1740,7 +1712,6 @@ export const poiExtraDeCities = ([
       "en": "River Fulda has 5 letters, the city Fulda too. Together?"
     }
   },
-  ,
   {
     "id": "offenbach-extra",
     "type": "city",
@@ -1800,7 +1771,6 @@ export const poiExtraDeCities = ([
       "en": "If a bag consists of 3 pieces of leather, how many in 4 bags?"
     }
   },
-  ,
   {
     "id": "hanau-extra",
     "type": "city",
@@ -1860,7 +1830,6 @@ export const poiExtraDeCities = ([
       "en": "Snow White has 7 dwarfs. How many dwarfs do 3 Snow Whites have?"
     }
   },
-  ,
   {
     "id": "wetzlar-extra",
     "type": "city",
@@ -1920,7 +1889,6 @@ export const poiExtraDeCities = ([
       "en": "If a pair of binoculars has 2 lenses, how many lenses do 6 binoculars have?"
     }
   },
-  ,
   {
     "id": "limburg-extra",
     "type": "city",
@@ -1980,7 +1948,6 @@ export const poiExtraDeCities = ([
       "en": "The cathedral has 7 towers. 2 towers are in front. How many in back?"
     }
   },
-  ,
   {
     "id": "bad-homburg-extra",
     "type": "city",
@@ -2040,7 +2007,6 @@ export const poiExtraDeCities = ([
       "en": "If 3 springs yield 5 liters of water per minute each, how much together?"
     }
   },
-  ,
   {
     "id": "friedberg-extra",
     "type": "city",
@@ -2100,7 +2066,6 @@ export const poiExtraDeCities = ([
       "en": "Elvis was in Friedberg for 2 years. How many months is that?"
     }
   },
-  ,
   {
     "id": "ruesselsheim-extra",
     "type": "city",
@@ -2160,7 +2125,6 @@ export const poiExtraDeCities = ([
       "en": "If 4 cars have 5 seats each, how many people can ride?"
     }
   },
-  ,
   {
     "id": "bensheim-extra",
     "type": "city",
@@ -2220,7 +2184,6 @@ export const poiExtraDeCities = ([
       "en": "If 10 almond trees give 5 kilos of almonds each, how many kilos?"
     }
   },
-  ,
   {
     "id": "eschwege-extra",
     "type": "city",
@@ -2280,7 +2243,6 @@ export const poiExtraDeCities = ([
       "en": "A lake is 2 km long and 1 km wide. 2 + 1 = ?"
     }
   },
-  ,
   {
     "id": "neu-isenburg-extra",
     "type": "city",
@@ -2340,7 +2302,6 @@ export const poiExtraDeCities = ([
       "en": "If an airplane has 4 engines, how many do 2 airplanes have?"
     }
   },
-  ,
   {
     "id": "oldenburg-extra",
     "type": "city",
@@ -2400,7 +2361,6 @@ export const poiExtraDeCities = ([
       "en": "If 15,000 students live here out of a population of 170,000, how many are not students?"
     }
   },
-  ,
   {
     "id": "salzgitter-extra",
     "type": "city",
@@ -2460,7 +2420,6 @@ export const poiExtraDeCities = ([
       "en": "If 30,000 tons of steel are produced in Salzgitter in 3 days, how many tons is that per day?"
     }
   },
-  ,
   {
     "id": "lueneburg-extra",
     "type": "city",
@@ -2520,7 +2479,6 @@ export const poiExtraDeCities = ([
       "en": "If 1 liter of water contains 30 grams of salt, how much salt is in 50 liters?"
     }
   },
-  ,
   {
     "id": "emden-extra",
     "type": "city",
@@ -2580,7 +2538,6 @@ export const poiExtraDeCities = ([
       "en": "A cargo ship loads 2,500 cars. How many cars do 4 such ships load?"
     }
   },
-  ,
   {
     "id": "stade-extra",
     "type": "city",
@@ -2640,7 +2597,6 @@ export const poiExtraDeCities = ([
       "en": "Sweden ruled Stade from 1645 to 1712. How many years was that?"
     }
   },
-  ,
   {
     "id": "cuxhaven-extra",
     "type": "city",
@@ -2700,7 +2656,6 @@ export const poiExtraDeCities = ([
       "en": "The mudflat hike is 10 km long. At 4 km/h, how long does it take?"
     }
   },
-  ,
   {
     "id": "lingen-extra",
     "type": "city",
@@ -2760,7 +2715,6 @@ export const poiExtraDeCities = ([
       "en": "If 6 wind turbines produce 2 megawatts each, how many megawatts is that in total?"
     }
   },
-  ,
   {
     "id": "kaiserslautern-extra",
     "type": "city",
@@ -2820,7 +2774,6 @@ export const poiExtraDeCities = ([
       "en": "A football match lasts 90 minutes. How many minutes do 3 matches last in total?"
     }
   },
-  ,
   {
     "id": "speyer-extra",
     "type": "city",
@@ -2880,7 +2833,6 @@ export const poiExtraDeCities = ([
       "en": "The cathedral was started in 1030 and consecrated in 1061. How long did the construction take?"
     }
   },
-  ,
   {
     "id": "neustadt-extra",
     "type": "city",
@@ -2940,7 +2892,6 @@ export const poiExtraDeCities = ([
       "en": "If 1,500 glasses are filled per day at a wine festival, how many are filled in 4 days?"
     }
   },
-  ,
   {
     "id": "idar-oberstein-extra",
     "type": "city",
@@ -3000,7 +2951,6 @@ export const poiExtraDeCities = ([
       "en": "A polisher finishes 4 gemstones in 1 hour. How many hours does it take for 28 gemstones?"
     }
   },
-  ,
   {
     "id": "bad-kreuznach-extra",
     "type": "city",
@@ -3060,7 +3010,6 @@ export const poiExtraDeCities = ([
       "en": "If there are 4 bridge houses and each has 2 floors, how many floors is that in total?"
     }
   },
-  ,
   {
     "id": "pirmasens-extra",
     "type": "city",
@@ -3120,7 +3069,6 @@ export const poiExtraDeCities = ([
       "en": "If a factory makes 500 pairs of shoes a day, how many pairs are made in 5 days?"
     }
   },
-  ,
   {
     "id": "andernach-extra",
     "type": "city",
@@ -3180,7 +3128,6 @@ export const poiExtraDeCities = ([
       "en": "If the geyser is 60 meters high, how much is that in centimeters?"
     }
   },
-  ,
   {
     "id": "bingen-extra",
     "type": "city",
@@ -3240,7 +3187,6 @@ export const poiExtraDeCities = ([
       "en": "If a tower is 30 meters high and each floor is 5 meters, how many floors does it have?"
     }
   },
-  ,
   {
     "id": "frankenthal-extra",
     "type": "city",
@@ -3300,7 +3246,6 @@ export const poiExtraDeCities = ([
       "en": "If 2 city gates are each 15 meters wide, how wide are they together?"
     }
   },
-  ,
   {
     "id": "neuwied-extra",
     "type": "city",
@@ -3360,7 +3305,6 @@ export const poiExtraDeCities = ([
       "en": "The dyke is 7.5 kilometers long. How many meters is that?"
     }
   },
-  ,
   {
     "id": "zweibruecken-extra",
     "type": "city",
@@ -3420,7 +3364,6 @@ export const poiExtraDeCities = ([
       "en": "If 60,000 roses bloom in the rose garden and 10,000 are red, how many are other colors?"
     }
   },
-  ,
   {
     "id": "plauen-extra",
     "type": "city",
@@ -3480,7 +3423,6 @@ export const poiExtraDeCities = ([
       "en": "A piece of lace costs 15 euros. How much do 4 pieces cost?"
     }
   },
-  ,
   {
     "id": "bautzen-extra",
     "type": "city",
@@ -3540,7 +3482,6 @@ export const poiExtraDeCities = ([
       "en": "Bautzen has 17 towers. If you have visited 4, how many are left?"
     }
   },
-  ,
   {
     "id": "pirna-extra",
     "type": "city",
@@ -3600,7 +3541,6 @@ export const poiExtraDeCities = ([
       "en": "A hike into Saxon Switzerland takes 3 hours there and 2.5 hours back. How long is that in total?"
     }
   },
-  ,
   {
     "id": "hoyerswerda-extra",
     "type": "city",
@@ -3660,7 +3600,6 @@ export const poiExtraDeCities = ([
       "en": "A lake is 4 km long and 2 km wide. What is its area (length times width)?"
     }
   },
-  ,
   {
     "id": "riesa-extra",
     "type": "city",
@@ -3720,7 +3659,6 @@ export const poiExtraDeCities = ([
       "en": "If a factory produces 5,000 packs of pasta a day, how many in 2 days?"
     }
   },
-  ,
   {
     "id": "radebeul-extra",
     "type": "city",
@@ -3780,7 +3718,6 @@ export const poiExtraDeCities = ([
       "en": "Karl May wrote over 70 books. If he wrote 2 books a year, how many years did he need?"
     }
   },
-  ,
   {
     "id": "glauchau-extra",
     "type": "city",
@@ -3840,7 +3777,6 @@ export const poiExtraDeCities = ([
       "en": "If there are 5 benches in a castle courtyard and 3 people fit on each, how many people can sit?"
     }
   },
-  ,
   {
     "id": "crimmitschau-extra",
     "type": "city",
@@ -3900,7 +3836,6 @@ export const poiExtraDeCities = ([
       "en": "An ice hockey game has 3 periods of 20 minutes each. How many minutes is the regular playing time?"
     }
   },
-  ,
   {
     "id": "annaberg-buchholz-extra",
     "type": "city",
@@ -3960,7 +3895,6 @@ export const poiExtraDeCities = ([
       "en": "A miner mines 5 kg of silver ore a day. How much does he mine in 6 days?"
     }
   },
-  ,
   {
     "id": "wittenberg-extra",
     "type": "city",
@@ -4020,7 +3954,6 @@ export const poiExtraDeCities = ([
       "en": "If Luther had 95 theses and wrote them on 5 sheets, how many theses were on average on one sheet?"
     }
   },
-  ,
   {
     "id": "wernigerode-extra",
     "type": "city",
@@ -4080,7 +4013,6 @@ export const poiExtraDeCities = ([
       "en": "The train goes up the Brocken at 20 km/h. How long does it need for 10 km?"
     }
   },
-  ,
   {
     "id": "halberstadt-extra",
     "type": "city",
@@ -4140,7 +4072,6 @@ export const poiExtraDeCities = ([
       "en": "The piece of music is supposed to last 639 years. It started in 2001. In what year does it end?"
     }
   },
-  ,
   {
     "id": "stendal-extra",
     "type": "city",
@@ -4200,7 +4131,6 @@ export const poiExtraDeCities = ([
       "en": "The Roland statue is 7.8 meters tall. How much is missing to 10 meters?"
     }
   },
-  ,
   {
     "id": "aschersleben-extra",
     "type": "city",
@@ -4260,7 +4190,6 @@ export const poiExtraDeCities = ([
       "en": "The first mention was in 753. How old was the city in 2003?"
     }
   },
-  ,
   {
     "id": "naumburg-extra",
     "type": "city",
@@ -4320,7 +4249,6 @@ export const poiExtraDeCities = ([
       "en": "There are 12 founder figures in the cathedral. If 2 are women, how many men are there?"
     }
   },
-  ,
   {
     "id": "bernburg-extra",
     "type": "city",
@@ -4380,7 +4308,6 @@ export const poiExtraDeCities = ([
       "en": "A brown bear eats 10 kg of apples a week. How much do 2 bears eat in 3 weeks?"
     }
   },
-  ,
   {
     "id": "bitterfeld-wolfen-extra",
     "type": "city",
@@ -4440,7 +4367,6 @@ export const poiExtraDeCities = ([
       "en": "If the lake is 6 km² and a boat needs half an hour for 1 km², how long does it take for the whole lake?"
     }
   },
-  ,
   {
     "id": "sangerhausen-extra",
     "type": "city",
@@ -4500,7 +4426,6 @@ export const poiExtraDeCities = ([
       "en": "If you can see 400 different rose varieties a day, how many days do you need for 8,000 varieties?"
     }
   },
-  ,
   {
     "id": "neumunster-extra",
     "type": "city",
@@ -4560,7 +4485,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Neumünster = ?"
     }
   },
-  ,
   {
     "id": "norderstedt-extra",
     "type": "city",
@@ -4620,7 +4544,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Norderstedt = ?"
     }
   },
-  ,
   {
     "id": "pinneberg-extra",
     "type": "city",
@@ -4680,7 +4603,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Pinneberg = ?"
     }
   },
-  ,
   {
     "id": "itzehoe-extra",
     "type": "city",
@@ -4740,7 +4662,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Itzehoe = ?"
     }
   },
-  ,
   {
     "id": "elmshorn-extra",
     "type": "city",
@@ -4800,7 +4721,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Elmshorn = ?"
     }
   },
-  ,
   {
     "id": "schleswig-extra",
     "type": "city",
@@ -4860,7 +4780,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Schleswig = ?"
     }
   },
-  ,
   {
     "id": "rendsburg-extra",
     "type": "city",
@@ -4920,7 +4839,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Rendsburg = ?"
     }
   },
-  ,
   {
     "id": "heide-extra",
     "type": "city",
@@ -4980,7 +4898,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Heide = ?"
     }
   },
-  ,
   {
     "id": "husum-extra",
     "type": "city",
@@ -5040,7 +4957,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Husum = ?"
     }
   },
-  ,
   {
     "id": "eckernforde-extra",
     "type": "city",
@@ -5100,7 +5016,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Eckernförde = ?"
     }
   },
-  ,
   {
     "id": "homburg-extra",
     "type": "city",
@@ -5160,7 +5075,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Homburg = ?"
     }
   },
-  ,
   {
     "id": "volklingen-extra",
     "type": "city",
@@ -5220,7 +5134,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Völklingen = ?"
     }
   },
-  ,
   {
     "id": "st-wendel-extra",
     "type": "city",
@@ -5280,7 +5193,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in St. Wendel = ?"
     }
   },
-  ,
   {
     "id": "merzig-extra",
     "type": "city",
@@ -5340,7 +5252,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Merzig = ?"
     }
   },
-  ,
   {
     "id": "dillingen-extra",
     "type": "city",
@@ -5400,7 +5311,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Dillingen = ?"
     }
   },
-  ,
   {
     "id": "lebach-extra",
     "type": "city",
@@ -5460,7 +5370,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Lebach = ?"
     }
   },
-  ,
   {
     "id": "suhl-extra",
     "type": "city",
@@ -5520,7 +5429,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Suhl = ?"
     }
   },
-  ,
   {
     "id": "muhlhausen-extra",
     "type": "city",
@@ -5580,7 +5488,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Mühlhausen = ?"
     }
   },
-  ,
   {
     "id": "nordhausen-extra",
     "type": "city",
@@ -5640,7 +5547,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Nordhausen = ?"
     }
   },
-  ,
   {
     "id": "altenburg-extra",
     "type": "city",
@@ -5700,7 +5606,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Altenburg = ?"
     }
   },
-  ,
   {
     "id": "sondershausen-extra",
     "type": "city",
@@ -5760,7 +5665,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Sondershausen = ?"
     }
   },
-  ,
   {
     "id": "apolda-extra",
     "type": "city",
@@ -5820,7 +5724,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Apolda = ?"
     }
   },
-  ,
   {
     "id": "ilmenau-extra",
     "type": "city",
@@ -5880,7 +5783,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Ilmenau = ?"
     }
   },
-  ,
   {
     "id": "schmalkalden-extra",
     "type": "city",
@@ -5940,7 +5842,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Schmalkalden = ?"
     }
   },
-  ,
   {
     "id": "anklam-extra",
     "type": "city",
@@ -6000,7 +5901,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Anklam = ?"
     }
   },
-  ,
   {
     "id": "waren-extra",
     "type": "city",
@@ -6060,7 +5960,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Waren = ?"
     }
   },
-  ,
   {
     "id": "gustrow-extra",
     "type": "city",
@@ -6120,7 +6019,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Güstrow = ?"
     }
   },
-  ,
   {
     "id": "parchim-extra",
     "type": "city",
@@ -6180,7 +6078,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Parchim = ?"
     }
   },
-  ,
   {
     "id": "demmin-extra",
     "type": "city",
@@ -6240,7 +6137,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Demmin = ?"
     }
   },
-  ,
   {
     "id": "bad-doberan-extra",
     "type": "city",
@@ -6300,7 +6196,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Bad Doberan = ?"
     }
   },
-  ,
   {
     "id": "ribnitz-extra",
     "type": "city",
@@ -6360,7 +6255,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Ribnitz = ?"
     }
   },
-  ,
   {
     "id": "brandenburg-an-der-havel-extra",
     "type": "city",
@@ -6420,7 +6314,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Brandenburg an der Havel = ?"
     }
   },
-  ,
   {
     "id": "eberswalde-extra",
     "type": "city",
@@ -6480,7 +6373,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Eberswalde = ?"
     }
   },
-  ,
   {
     "id": "bernau-extra",
     "type": "city",
@@ -6540,7 +6432,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Bernau = ?"
     }
   },
-  ,
   {
     "id": "konigs-wusterhausen-extra",
     "type": "city",
@@ -6600,7 +6491,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Königs Wusterhausen = ?"
     }
   },
-  ,
   {
     "id": "oranienburg-extra",
     "type": "city",
@@ -6660,7 +6550,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Oranienburg = ?"
     }
   },
-  ,
   {
     "id": "falkensee-extra",
     "type": "city",
@@ -6720,7 +6609,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Falkensee = ?"
     }
   },
-  ,
   {
     "id": "strausberg-extra",
     "type": "city",
@@ -6780,7 +6668,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Strausberg = ?"
     }
   },
-  ,
   {
     "id": "werder-extra",
     "type": "city",
@@ -6840,7 +6727,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Werder = ?"
     }
   },
-  ,
   {
     "id": "senftenberg-extra",
     "type": "city",
@@ -6900,7 +6786,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Senftenberg = ?"
     }
   },
-  ,
   {
     "id": "mitte-extra",
     "type": "city",
@@ -6960,7 +6845,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Mitte = ?"
     }
   },
-  ,
   {
     "id": "charlottenburg-extra",
     "type": "city",
@@ -7020,7 +6904,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Charlottenburg = ?"
     }
   },
-  ,
   {
     "id": "kreuzberg-extra",
     "type": "city",
@@ -7080,7 +6963,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Kreuzberg = ?"
     }
   },
-  ,
   {
     "id": "prenzlauer-berg-extra",
     "type": "city",
@@ -7140,7 +7022,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Prenzlauer Berg = ?"
     }
   },
-  ,
   {
     "id": "steglitz-extra",
     "type": "city",
@@ -7200,7 +7081,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Steglitz = ?"
     }
   },
-  ,
   {
     "id": "vegesack-extra",
     "type": "city",
@@ -7260,7 +7140,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Vegesack = ?"
     }
   },
-  ,
   {
     "id": "findorff-extra",
     "type": "city",
@@ -7320,7 +7199,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Findorff = ?"
     }
   },
-  ,
   {
     "id": "schwachhausen-extra",
     "type": "city",
@@ -7380,7 +7258,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Schwachhausen = ?"
     }
   },
-  ,
   {
     "id": "st-pauli-extra",
     "type": "city",
@@ -7440,7 +7317,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in St. Pauli = ?"
     }
   },
-  ,
   {
     "id": "eimsbuttel-extra",
     "type": "city",
@@ -7500,7 +7376,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Eimsbüttel = ?"
     }
   },
-  ,
   {
     "id": "wandsbek-extra",
     "type": "city",
@@ -7560,7 +7435,6 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Wandsbek = ?"
     }
   },
-  ,
   {
     "id": "harburg-extra",
     "type": "city",
@@ -7620,4 +7494,4 @@ export const poiExtraDeCities = ([
       "en": "2 trees + 3 trees in Harburg = ?"
     }
   }
-] as POI[]);
+];
