@@ -629,14 +629,16 @@ export function QuizSvgOverlay({
 
   return (
     <>
-      {/* Highlight ring for spot_error / order_by / click_poi options */}
+      {/* Highlight ring CSAK valasz utan (helyes/rossz visszajelzes), VAGY distance_guess kozben az elso kattintasra */}
       {highlightPoiIds.map((poiId) => {
         const poi = pois.find((p) => p.id === poiId);
         if (!poi) return null;
-        const [cx, cy] = projectCoords(poi.coords[0], poi.coords[1]);
         const isWrong = task.type === "spot_error" && poiId === task.wrongPoiId && phase === "answered";
         const isDistA = poiId === distancePoiA?.id;
-        const color = isWrong ? "#EF4444" : isDistA ? "#22D3EE" : "#FBBF24";
+        // Csak ha rossz valasz utan (piros) VAGY distance_guess elso POI ki van valasztva (kek visszajelzes)
+        if (!isWrong && !isDistA) return null;
+        const [cx, cy] = projectCoords(poi.coords[0], poi.coords[1]);
+        const color = isWrong ? "#EF4444" : "#22D3EE";
         return (
           <circle
             key={`quiz-ring-${poiId}`}
