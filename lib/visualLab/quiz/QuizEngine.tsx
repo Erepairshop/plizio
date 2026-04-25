@@ -139,6 +139,7 @@ const QT: Record<Lang, Record<string, string>> = {
     km: "km",
     expectedKm: "Erwartete Entfernung",
     tolerance: "±25%",
+    skip: "Überspringen",
   },
   hu: {
     quiz: "Térkép-kvíz",
@@ -160,6 +161,7 @@ const QT: Record<Lang, Record<string, string>> = {
     km: "km",
     expectedKm: "Elvárt távolság",
     tolerance: "±25%",
+    skip: "Kihagyás",
   },
   ro: {
     quiz: "Quiz harta",
@@ -181,6 +183,7 @@ const QT: Record<Lang, Record<string, string>> = {
     km: "km",
     expectedKm: "Distanța așteptată",
     tolerance: "±25%",
+    skip: "Sari peste",
   },
   en: {
     quiz: "Map Quiz",
@@ -202,6 +205,7 @@ const QT: Record<Lang, Record<string, string>> = {
     km: "km",
     expectedKm: "Expected distance",
     tolerance: "±25%",
+    skip: "Skip",
   },
 };
 
@@ -540,6 +544,18 @@ export function QuizPanel({
       {task.type === "distance_guess" && phase === "distance_a" && distancePoiA && (
         <div className="px-1 text-xs text-cyan-300/80">
           A: {getPoiName(distancePoiA, lang)} → {t.distanceB}
+        </div>
+      )}
+
+      {/* Skip gomb — csak ha meg nem valaszolt */}
+      {phase !== "answered" && (
+        <div className="flex justify-end">
+          <button
+            onClick={onNext}
+            className="flex items-center gap-1 px-2.5 py-1 rounded-md text-[11px] text-white/55 hover:text-white/85 hover:bg-white/5 transition"
+          >
+            {t.skip} <ChevronRight size={11} />
+          </button>
         </div>
       )}
 
