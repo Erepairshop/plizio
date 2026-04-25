@@ -248,20 +248,22 @@ export const InteractiveMap = ({
   // Filter POIs by layer + grade. Subject only filters when layer="all"
   // In quiz mode: replaced by visiblePoiTypes filter from quiz engine.
   const visiblePOIs = useMemo(() => {
+    // Vedellem: a pois tomb tartalmazhat undefined elemet (sparse hole, korruptalt import) -> defenziv ellenorzes
+    const safePois = pois.filter((p): p is POI => p != null && typeof p.type === "string");
     if (mapMode === "quiz") {
       // If the task restricts to specific POI ids (spot_error, order_by, distance_guess), use that.
       const quizIds = quiz.visiblePoiIds;
       if (quizIds !== null) {
-        return pois.filter((p) => quizIds.has(p.id));
+        return safePois.filter((p) => quizIds.has(p.id));
       }
       const quizTypes = quiz.visiblePoiTypes;
-      if (quizTypes === null) return pois.filter((p) => p.type !== "region");
+      if (quizTypes === null) return safePois.filter((p) => p.type !== "region");
       if (quizTypes.length === 0) return [];
       const allowed = new Set(quizTypes);
-      return pois.filter((p) => p.type !== "region" && allowed.has(p.type as typeof quizTypes[number]));
+      return safePois.filter((p) => p.type !== "region" && allowed.has(p.type as typeof quizTypes[number]));
     }
     const allowedTypes = new Set(LAYER_TYPES[layer]);
-    return pois.filter((p) => {
+    return safePois.filter((p) => {
       if (p.type === "region") return false;
       if (!allowedTypes.has(p.type)) return false;
       if (layer === "all" && p.subjects && !p.subjects.includes(subject)) return false;
