@@ -10,7 +10,7 @@ export const hungaryCountry: POI[] = [
   {
     id: "HU",
     type: "country",
-    parent: "EU",
+    parent: "HU-PE",
     coords: [19.5033, 47.1625],
     name: {"de": "Ungarn", "hu": "Magyarország", "ro": "Ungaria", "en": "Hungary"},
     image: "/geo-images/hungary/HU.webp",
@@ -1368,7 +1368,7 @@ export const hungaryCities: POI[] = [
   {
     id: "budapest-city",
     type: "city",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0402, 47.4979],
     name: {"de": "Budapest", "hu": "Budapest", "ro": "Budapesta", "en": "Budapest"},
     image: "/geo-images/hungary/budapest-city.webp",
@@ -1424,7 +1424,7 @@ export const hungaryCities: POI[] = [
   {
     id: "budai-var",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0396, 47.4962],
     name: {"de": "Budaer Burg", "hu": "Budai Vár", "ro": "Castelul Buda", "en": "Buda Castle"},
     description: {
@@ -1487,7 +1487,7 @@ export const hungaryCities: POI[] = [
   {
     id: "orszaghaz",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0456, 47.5071],
     name: {"de": "Parlamentsgebäude", "hu": "Országház", "ro": "Parlamentul", "en": "Parliament Building"},
     image: "/geo-images/hungary/orszaghaz.webp",
@@ -1551,7 +1551,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hosok-tere",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0782, 47.5149],
     name: {"de": "Heldenplatz", "hu": "Hősök tere", "ro": "Piața Eroilor", "en": "Heroes' Square"},
     description: {
@@ -1614,7 +1614,7 @@ export const hungaryCities: POI[] = [
   {
     id: "dunapart",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.045, 47.498],
     name: {"de": "Donauufer", "hu": "Dunapart", "ro": "Malul Dunării", "en": "Danube Promenade"},
     image: "/geo-images/hungary/dunapart.webp",
@@ -1678,7 +1678,7 @@ export const hungaryCities: POI[] = [
   {
     id: "margitsziget",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0475, 47.5266],
     name: {"de": "Margareteninsel", "hu": "Margitsziget", "ro": "Insula Margareta", "en": "Margaret Island"},
     description: {
@@ -1741,7 +1741,7 @@ export const hungaryCities: POI[] = [
   {
     id: "varosliget",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0844, 47.5144],
     name: {"de": "Stadtwäldchen", "hu": "Városliget", "ro": "Parcul Orașului", "en": "City Park"},
     image: "/geo-images/hungary/varosliget.webp",
@@ -1805,7 +1805,7 @@ export const hungaryCities: POI[] = [
   {
     id: "andrassy-ut",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.065, 47.5069],
     name: {"de": "Andrássy-Straße", "hu": "Andrássy út", "ro": "Bulevardul Andrássy", "en": "Andrássy Avenue"},
     image: "/geo-images/hungary/andrassy-ut.webp",
@@ -1869,7 +1869,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nyugati-palyaudvar",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0583, 47.5106],
     name: {"de": "Westbahnhof", "hu": "Nyugati pályaudvar", "ro": "Gara de Vest", "en": "Nyugati Railway Station"},
     description: {
@@ -1932,7 +1932,7 @@ export const hungaryCities: POI[] = [
   {
     id: "lanchid",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.0436, 47.499],
     name: {"de": "Kettenbrücke", "hu": "Lánchíd", "ro": "Podul cu Lanțuri", "en": "Chain Bridge"},
     image: "/geo-images/hungary/lanchid.webp",
@@ -1996,7 +1996,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pecs",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.2323, 46.0727],
     name: {"de": "Fünfkirchen", "hu": "Pécs", "ro": "Pécs", "en": "Pécs"},
     image: "/geo-images/hungary/pecs.webp",
@@ -2052,7 +2052,7 @@ export const hungaryCities: POI[] = [
   {
     id: "siklos",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.2975, 45.855],
     name: {"de": "Siklós", "hu": "Siklós", "ro": "Siklós", "en": "Siklós"},
     image: "/geo-images/hungary/siklos.webp",
@@ -2062,7 +2062,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mohacs",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.6814, 45.9956],
     name: {"de": "Mohatsch", "hu": "Mohács", "ro": "Mohács", "en": "Mohács"},
     image: "/geo-images/hungary/mohacs.webp",
@@ -2072,7 +2072,7 @@ export const hungaryCities: POI[] = [
   {
     id: "villany",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.4547, 45.8694],
     name: {"de": "Wieland", "hu": "Villány", "ro": "Villány", "en": "Villány"},    description: {"de": "Zentrum einer der berühmtesten Rotweinregionen Ungarns.", "hu": "Magyarország egyik leghíresebb vörösborvidékének központja.", "ro": "Centrul uneia dintre cele mai faimoase regiuni de vin roșu din Ungaria.", "en": "Center of one of Hungary's most famous red wine regions."},
     facts: {"de": ["Bekannt für vollmundige Rotweine.", "Beliebtes Ziel für Weintourismus."], "hu": ["Testes vörösborairól ismert.", "Népszerű borturisztikai célpont."], "ro": ["Cunoscut pentru vinurile roșii corpolente.", "Destinație populară pentru turismul viticol."], "en": ["Known for full-bodied red wines.", "Popular destination for wine tourism."]},
@@ -2080,7 +2080,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kecskemet",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [19.6913, 46.9062],
     name: {"de": "Kecskemét", "hu": "Kecskemét", "ro": "Kecskemét", "en": "Kecskemét"},
     image: "/geo-images/hungary/kecskemet.webp",
@@ -2136,7 +2136,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kalocsa",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [18.9803, 46.5297],
     name: {"de": "Kollotschau", "hu": "Kalocsa", "ro": "Kalocsa", "en": "Kalocsa"},
     image: "/geo-images/hungary/kalocsa.webp",
@@ -2146,7 +2146,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kiskunmajsa",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [19.7381, 46.4919],
     name: {"de": "Kiskunmajsa", "hu": "Kiskunmajsa", "ro": "Kiskunmajsa", "en": "Kiskunmajsa"},
     image: "/geo-images/hungary/kiskunmajsa.webp",
@@ -2156,7 +2156,7 @@ export const hungaryCities: POI[] = [
   {
     id: "bekescsaba",
     type: "city",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [21.0978, 46.6797],
     name: {"de": "Tschaba", "hu": "Békéscsaba", "ro": "Bichișciaba", "en": "Békéscsaba"},
     image: "/geo-images/hungary/bekescsaba.webp",
@@ -2212,7 +2212,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gyula",
     type: "city",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [21.2811, 46.6447],
     name: {"de": "Jula", "hu": "Gyula", "ro": "Jula", "en": "Gyula"},
     image: "/geo-images/hungary/gyula.webp",
@@ -2222,7 +2222,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szarvas",
     type: "city",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [20.55, 46.8667],
     name: {"de": "Szarvas", "hu": "Szarvas", "ro": "Szarvas", "en": "Szarvas"},
     image: "/geo-images/hungary/szarvas.webp",
@@ -2232,7 +2232,7 @@ export const hungaryCities: POI[] = [
   {
     id: "miskolc",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.79, 48.1],
     name: {"de": "Mischkolz", "hu": "Miskolc", "ro": "Miskolc", "en": "Miskolc"},
     image: "/geo-images/hungary/miskolc.webp",
@@ -2288,7 +2288,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szerencs",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.2053, 48.1631],
     name: {"de": "Szerencs", "hu": "Szerencs", "ro": "Szerencs", "en": "Szerencs"},    description: {"de": "Das 'Tor zu Tokaj', bekannt für seine Schokoladenfabrik.", "hu": "A 'Tokaji kapu', csokoládégyáráról ismert.", "ro": "'Poarta către Tokaj', cunoscut pentru fabrica sa de ciocolată.", "en": "The 'Gateway to Tokaj', known for its chocolate factory."},
     facts: {"de": ["Hat eine Burg aus der Renaissancezeit.", "Traditionelle Zucker- und Schokoladenproduktion."], "hu": ["Reneszánsz kori várral rendelkezik.", "Hagyományos cukor- és csokoládégyártás."], "ro": ["Are un castel din perioada Renașterii.", "Producție tradițională de zahăr și ciocolată."], "en": ["Has a Renaissance-era castle.", "Traditional sugar and chocolate production."]},
@@ -2296,7 +2296,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tokaj",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.4108, 48.1225],
     name: {"de": "Tokaj", "hu": "Tokaj", "ro": "Tokaj", "en": "Tokaj"},
     image: "/geo-images/hungary/tokaj.webp",
@@ -2306,7 +2306,7 @@ export const hungaryCities: POI[] = [
   {
     id: "aggtelek",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.4547, 48.4719],
     name: {"de": "Aggtelek", "hu": "Aggtelek", "ro": "Aggtelek", "en": "Aggtelek"},    description: {"de": "Nationalpark, berühmt für sein ausgedehntes Tropfsteinhöhlensystem.", "hu": "Nemzeti park, kiterjedt cseppkőbarlang-rendszeréről híres.", "ro": "Parc național, faimos pentru sistemul său extins de peșteri cu stalactite.", "en": "National park, famous for its extensive stalactite cave system."},
     facts: {"de": ["Die Baradla-Höhle ist Teil des UNESCO-Welterbes.", "Erstreckt sich über die Grenze zur Slowakei."], "hu": ["A Baradla-barlang az UNESCO világörökség része.", "Átnyúlik a szlovák határon."], "ro": ["Peștera Baradla este parte a Patrimoniului Mondial UNESCO.", "Se extinde peste granița cu Slovacia."], "en": ["The Baradla Cave is part of the UNESCO World Heritage site.", "Extends across the border into Slovakia."]},
@@ -2314,7 +2314,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szeged",
     type: "city",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.1414, 46.253],
     name: {"de": "Szegedin", "hu": "Szeged", "ro": "Seghedin", "en": "Szeged"},
     image: "/geo-images/hungary/szeged.webp",
@@ -2370,7 +2370,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hodmezovasarhely",
     type: "city",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.3189, 46.4308],
     name: {"de": "Neumarkt an der Theiß", "hu": "Hódmezővásárhely", "ro": "Hódmezővásárhely", "en": "Hódmezővásárhely"},
     image: "/geo-images/hungary/hodmezovasarhely.webp",
@@ -2380,7 +2380,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mako",
     type: "city",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.4806, 46.2167],
     name: {"de": "Makó", "hu": "Makó", "ro": "Macău", "en": "Makó"},
     image: "/geo-images/hungary/mako.webp",
@@ -2390,7 +2390,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szekesfehervar",
     type: "city",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.4103, 47.1899],
     name: {"de": "Stuhlweißenburg", "hu": "Székesfehérvár", "ro": "Székesfehérvár", "en": "Székesfehérvár"},
     image: "/geo-images/hungary/szekesfehervar.webp",
@@ -2446,7 +2446,7 @@ export const hungaryCities: POI[] = [
   {
     id: "dunaujvaros",
     type: "city",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.9397, 46.9619],
     name: {"de": "Neustadt an der Donau", "hu": "Dunaújváros", "ro": "Dunaújváros", "en": "Dunaújváros"},    description: {"de": "Industriestadt an der Donau, erbaut in den 1950er Jahren.", "hu": "Ipari város a Duna partján, az 1950-es években épült.", "ro": "Oraș industrial pe Dunăre, construit în anii 1950.", "en": "Industrial city on the Danube, built in the 1950s."},
     facts: {"de": ["Hieß früher Sztálinváros (Stalinstadt).", "Zentrum der ungarischen Stahlindustrie."], "hu": ["Korábban Sztálinvárosnak hívták.", "A magyar acélipar központja."], "ro": ["Se numea anterior Sztálinváros (Orașul lui Stalin).", "Centrul industriei siderurgice maghiare."], "en": ["Formerly called Sztálinváros (Stalin City).", "Center of the Hungarian steel industry."]},
@@ -2454,7 +2454,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gardony",
     type: "city",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.6167, 47.1978],
     name: {"de": "Gárdony", "hu": "Gárdony", "ro": "Gárdony", "en": "Gárdony"},
     image: "/geo-images/hungary/gardony.webp",
@@ -2464,7 +2464,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gyor",
     type: "city",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [17.6351, 47.6833],
     name: {"de": "Raab", "hu": "Győr", "ro": "Győr", "en": "Győr"},
     image: "/geo-images/hungary/gyor.webp",
@@ -2520,7 +2520,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sopron",
     type: "city",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [16.5905, 47.6817],
     name: {"de": "Ödenburg", "hu": "Sopron", "ro": "Sopron", "en": "Sopron"},
     image: "/geo-images/hungary/sopron.webp",
@@ -2576,7 +2576,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pannonhalma",
     type: "landmark",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [17.7606, 47.5536],
     name: {"de": "Martinsberg", "hu": "Pannonhalma", "ro": "Pannonhalma", "en": "Pannonhalma"},
     image: "/geo-images/hungary/pannonhalma.webp",
@@ -2586,7 +2586,7 @@ export const hungaryCities: POI[] = [
   {
     id: "debrecen",
     type: "city",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.6273, 47.5316],
     name: {"de": "Debrezin", "hu": "Debrecen", "ro": "Debrețin", "en": "Debrecen"},
     image: "/geo-images/hungary/debrecen.webp",
@@ -2642,7 +2642,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hortobagy",
     type: "landmark",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.15, 47.5833],
     name: {"de": "Hortobágy", "hu": "Hortobágy", "ro": "Hortobágy", "en": "Hortobágy"},
     image: "/geo-images/hungary/hortobagy.webp",
@@ -2652,7 +2652,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hajduszoboszlo",
     type: "city",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.4, 47.45],
     name: {"de": "Hajdúszoboszló", "hu": "Hajdúszoboszló", "ro": "Hajdúszoboszló", "en": "Hajdúszoboszló"},    description: {"de": "Berühmter Kurort mit dem größten Bäderkomplex Europas.", "hu": "Híres fürdőváros Európa legnagyobb fürdőkomplexumával.", "ro": "Faimoasă stațiune balneară cu cel mai mare complex de băi din Europa.", "en": "Famous spa town with the largest bath complex in Europe."},
     facts: {"de": ["Das Thermalwasser wurde 1925 entdeckt.", "Beliebtes Ziel für Gesundheitstourismus."], "hu": ["A termálvizet 1925-ben fedezték fel.", "Népszerű egészségturisztikai célpont."], "ro": ["Apa termală a fost descoperită în 1925.", "Destinație populară pentru turismul de sănătate."], "en": ["The thermal water was discovered in 1925.", "Popular destination for health tourism."]},
@@ -2660,7 +2660,7 @@ export const hungaryCities: POI[] = [
   {
     id: "eger",
     type: "city",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.3739, 47.9025],
     name: {"de": "Erlau", "hu": "Eger", "ro": "Eger", "en": "Eger"},
     image: "/geo-images/hungary/eger.webp",
@@ -2716,7 +2716,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gyongyos",
     type: "city",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [19.9281, 47.7833],
     name: {"de": "Gyöngyös", "hu": "Gyöngyös", "ro": "Gyöngyös", "en": "Gyöngyös"},
     image: "/geo-images/hungary/gyongyos.webp",
@@ -2726,7 +2726,7 @@ export const hungaryCities: POI[] = [
   {
     id: "matra",
     type: "landmark",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [19.9833, 47.8833],
     name: {"de": "Mátra", "hu": "Mátra", "ro": "Mátra", "en": "Mátra"},
     image: "/geo-images/hungary/matra.webp",
@@ -2736,7 +2736,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szolnok",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.2, 47.1833],
     name: {"de": "Sollnock", "hu": "Szolnok", "ro": "Szolnok", "en": "Szolnok"},
     description: {
@@ -2791,7 +2791,7 @@ export const hungaryCities: POI[] = [
   {
     id: "jaszbereny",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [19.9167, 47.5],
     name: {"de": "Jászberény", "hu": "Jászberény", "ro": "Jászberény", "en": "Jászberény"},
     image: "/geo-images/hungary/jaszbereny.webp",
@@ -2801,7 +2801,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kisujszallas",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.7667, 47.2167],
     name: {"de": "Kisújszállás", "hu": "Kisújszállás", "ro": "Kisújszállás", "en": "Kisújszállás"},
     image: "/geo-images/hungary/kisujszallas.webp",
@@ -2811,7 +2811,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tatabanya",
     type: "city",
-    parent: "komarom-esztergom",
+    parent: "HU-KE",
     coords: [18.4222, 47.58],
     name: {"de": "Totiserkolonie", "hu": "Tatabánya", "ro": "Tatabánya", "en": "Tatabánya"},
     image: "/geo-images/hungary/tatabanya.webp",
@@ -2867,7 +2867,7 @@ export const hungaryCities: POI[] = [
   {
     id: "esztergom",
     type: "city",
-    parent: "komarom-esztergom",
+    parent: "HU-KE",
     coords: [18.7394, 47.7914],
     name: {"de": "Gran", "hu": "Esztergom", "ro": "Esztergom", "en": "Esztergom"},
     image: "/geo-images/hungary/esztergom.webp",
@@ -2923,7 +2923,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tata",
     type: "city",
-    parent: "komarom-esztergom",
+    parent: "HU-KE",
     coords: [18.3167, 47.65],
     name: {"de": "Totis", "hu": "Tata", "ro": "Tata", "en": "Tata"},
     image: "/geo-images/hungary/tata.webp",
@@ -2933,7 +2933,7 @@ export const hungaryCities: POI[] = [
   {
     id: "salgotarjan",
     type: "city",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.8053, 48.0986],
     name: {"de": "Salgótarján", "hu": "Salgótarján", "ro": "Salgótarján", "en": "Salgótarján"},
     image: "/geo-images/hungary/salgotarjan.webp",
@@ -2943,7 +2943,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balassagyarmat",
     type: "city",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.2944, 48.0792],
     name: {"de": "Jahrmarkt", "hu": "Balassagyarmat", "ro": "Balassagyarmat", "en": "Balassagyarmat"},
     image: "/geo-images/hungary/balassagyarmat.webp",
@@ -2953,7 +2953,7 @@ export const hungaryCities: POI[] = [
   {
     id: "holloko",
     type: "landmark",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.5833, 47.9964],
     name: {"de": "Hollókő", "hu": "Hollókő", "ro": "Hollókő", "en": "Hollókő"},
     image: "/geo-images/hungary/holloko.webp",
@@ -2963,7 +2963,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szentendre",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.0761, 47.6694],
     name: {"de": "Sankt Andrä", "hu": "Szentendre", "ro": "Szentendre", "en": "Szentendre"},
     image: "/geo-images/hungary/szentendre.webp",
@@ -3019,7 +3019,7 @@ export const hungaryCities: POI[] = [
   {
     id: "godollo",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.3478, 47.5969],
     name: {"de": "Gödöllő", "hu": "Gödöllő", "ro": "Gödöllő", "en": "Gödöllő"},
     image: "/geo-images/hungary/godollo.webp",
@@ -3029,7 +3029,7 @@ export const hungaryCities: POI[] = [
   {
     id: "vac",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.1306, 47.7756],
     name: {"de": "Waitzen", "hu": "Vác", "ro": "Vác", "en": "Vác"},
     image: "/geo-images/hungary/vac.webp",
@@ -3039,7 +3039,7 @@ export const hungaryCities: POI[] = [
   {
     id: "visegrad",
     type: "landmark",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.9667, 47.7833],
     name: {"de": "Plintenburg", "hu": "Visegrád", "ro": "Visegrád", "en": "Visegrád"},
     image: "/geo-images/hungary/visegrad.webp",
@@ -3049,7 +3049,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kaposvar",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.7897, 46.3592],
     name: {"de": "Kopisch", "hu": "Kaposvár", "ro": "Kaposvár", "en": "Kaposvár"},
     image: "/geo-images/hungary/kaposvar.webp",
@@ -3105,7 +3105,7 @@ export const hungaryCities: POI[] = [
   {
     id: "siofok",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [18.05, 46.9],
     name: {"de": "Siófok", "hu": "Siófok", "ro": "Siófok", "en": "Siófok"},
     image: "/geo-images/hungary/siofok.webp",
@@ -3115,7 +3115,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balatonfoldvar",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.8833, 46.85],
     name: {"de": "Balatonföldvár", "hu": "Balatonföldvár", "ro": "Balatonföldvár", "en": "Balatonföldvár"},
     image: "/geo-images/hungary/balatonfoldvar.webp",
@@ -3125,7 +3125,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nyiregyhaza",
     type: "city",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [21.7167, 47.95],
     name: {"de": "Nyíregyháza", "hu": "Nyíregyháza", "ro": "Nyíregyháza", "en": "Nyíregyháza"},
     image: "/geo-images/hungary/nyiregyhaza.webp",
@@ -3181,7 +3181,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mateszalka",
     type: "city",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [22.3167, 47.95],
     name: {"de": "Mátészalka", "hu": "Mátészalka", "ro": "Mátészalka", "en": "Mátészalka"},
     image: "/geo-images/hungary/mateszalka.webp",
@@ -3191,7 +3191,7 @@ export const hungaryCities: POI[] = [
   {
     id: "vasarosnameny",
     type: "city",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [22.3167, 48.1167],
     name: {"de": "Vásárosnamény", "hu": "Vásárosnamény", "ro": "Vásárosnamény", "en": "Vásárosnamény"},
     image: "/geo-images/hungary/vasarosnameny.webp",
@@ -3201,7 +3201,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szekszard",
     type: "city",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.7, 46.35],
     name: {"de": "Sechshard", "hu": "Szekszárd", "ro": "Szekszárd", "en": "Szekszárd"},
     image: "/geo-images/hungary/szekszard.webp",
@@ -3211,7 +3211,7 @@ export const hungaryCities: POI[] = [
   {
     id: "paks",
     type: "city",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.8667, 46.6167],
     name: {"de": "Paks", "hu": "Paks", "ro": "Paks", "en": "Paks"},
     image: "/geo-images/hungary/paks.webp",
@@ -3221,7 +3221,7 @@ export const hungaryCities: POI[] = [
   {
     id: "bonyhad",
     type: "city",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.5333, 46.3],
     name: {"de": "Bonnhard", "hu": "Bonyhád", "ro": "Bonyhád", "en": "Bonyhád"},
     image: "/geo-images/hungary/bonyhad.webp",
@@ -3231,7 +3231,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szombathely",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.6217, 47.2306],
     name: {"de": "Steinamanger", "hu": "Szombathely", "ro": "Szombathely", "en": "Szombathely"},
     image: "/geo-images/hungary/szombathely.webp",
@@ -3287,7 +3287,7 @@ export const hungaryCities: POI[] = [
   {
     id: "koszeg",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.5406, 47.3892],
     name: {"de": "Güns", "hu": "Kőszeg", "ro": "Kőszeg", "en": "Kőszeg"},
     image: "/geo-images/hungary/koszeg.webp",
@@ -3297,7 +3297,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sarvar",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.9333, 47.25],
     name: {"de": "Kotenburg", "hu": "Sárvár", "ro": "Sárvár", "en": "Sárvár"},
     image: "/geo-images/hungary/sarvar.webp",
@@ -3307,7 +3307,7 @@ export const hungaryCities: POI[] = [
   {
     id: "veszprem-city",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.9114, 47.0928],
     name: {"de": "Wesprim", "hu": "Veszprém", "ro": "Veszprém", "en": "Veszprém"},
     image: "/geo-images/hungary/veszprem-city.webp",
@@ -3363,7 +3363,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balatonfured",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.8833, 46.95],
     name: {"de": "Balatonfüred", "hu": "Balatonfüred", "ro": "Balatonfüred", "en": "Balatonfüred"},
     image: "/geo-images/hungary/balatonfured.webp",
@@ -3373,7 +3373,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tihany",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.8833, 46.9167],
     name: {"de": "Tihany", "hu": "Tihany", "ro": "Tihany", "en": "Tihany"},
     image: "/geo-images/hungary/tihany.webp",
@@ -3383,7 +3383,7 @@ export const hungaryCities: POI[] = [
   {
     id: "zalaegerszeg",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [16.8439, 46.8417],
     name: {"de": "Egersee", "hu": "Zalaegerszeg", "ro": "Zalaegerszeg", "en": "Zalaegerszeg"},
     image: "/geo-images/hungary/zalaegerszeg.webp",
@@ -3439,7 +3439,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nagykanizsa",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [16.9911, 46.45],
     name: {"de": "Großkirchen", "hu": "Nagykanizsa", "ro": "Nagykanizsa", "en": "Nagykanizsa"},
     image: "/geo-images/hungary/nagykanizsa.webp",
@@ -3449,7 +3449,7 @@ export const hungaryCities: POI[] = [
   {
     id: "keszthely",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [17.2431, 46.7681],
     name: {"de": "Kesthell", "hu": "Keszthely", "ro": "Keszthely", "en": "Keszthely"},
     image: "/geo-images/hungary/keszthely.webp",
@@ -3459,7 +3459,7 @@ export const hungaryCities: POI[] = [
   {
     id: "harkany",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.2386, 45.8494],
     name: {"de": "Harkány", "hu": "Harkány", "ro": "Harkány", "en": "Harkány"},
     description: {"de": "Berühmte Kurstadt im Süden Ungarns, bekannt für ihr schwefelhaltiges Thermalwasser.", "hu": "Híres fürdőváros Dél-Magyarországon, kénes termálvizéről ismert.", "ro": "Faimos oraș balnear în sudul Ungariei, cunoscut pentru apa sa termală sulfuroasă.", "en": "Famous spa town in southern Hungary, known for its sulfurous thermal water."},
@@ -3468,7 +3468,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szigetvar",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [17.7981, 46.0494],
     name: {"de": "Inselburg", "hu": "Szigetvár", "ro": "Szigetvár", "en": "Szigetvár"},
     description: {"de": "Historische Stadt, bekannt für die heldenhafte Verteidigung ihrer Burg gegen die Osmanen.", "hu": "Történelmi város, a vár oszmánok elleni hősies védelméről ismert.", "ro": "Oraș istoric, cunoscut pentru apărarea eroică a cetății sale împotriva otomanilor.", "en": "Historic town known for the heroic defense of its castle against the Ottomans."},
@@ -3477,7 +3477,7 @@ export const hungaryCities: POI[] = [
   {
     id: "baja",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [18.95, 46.1833],
     name: {"de": "Frankenstadt", "hu": "Baja", "ro": "Baja", "en": "Baja"},
     image: "/geo-images/hungary/baja.webp",
@@ -3487,7 +3487,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kiskunfelegyhaza",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [19.85, 46.7167],
     name: {"de": "Feledihas", "hu": "Kiskunfélegyháza", "ro": "Kiskunfélegyháza", "en": "Kiskunfélegyháza"},
     description: {"de": "Stadt in der Großen Tiefebene mit beeindruckender Jugendstilarchitektur.", "hu": "Alföldi város lenyűgöző szecessziós építészettel.", "ro": "Oraș în Marea Câmpie cu o arhitectură Art Nouveau impresionantă.", "en": "City in the Great Plain with impressive Art Nouveau architecture."},
@@ -3496,7 +3496,7 @@ export const hungaryCities: POI[] = [
   {
     id: "bugac",
     type: "landmark",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [19.6833, 46.6833],
     name: {"de": "Bugac", "hu": "Bugac", "ro": "Bugac", "en": "Bugac"},
     description: {"de": "Teil des Kiskunság-Nationalparks, bekannt für seine traditionelle Puszta-Landschaft.", "hu": "A Kiskunsági Nemzeti Park része, hagyományos pusztai tájáról ismert.", "ro": "Parte a Parcului Național Kiskunság, cunoscut pentru peisajul său tradițional de puszta.", "en": "Part of the Kiskunság National Park, known for its traditional puszta landscape."},
@@ -3505,7 +3505,7 @@ export const hungaryCities: POI[] = [
   {
     id: "oroshaza",
     type: "city",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [20.6667, 46.5667],
     name: {"de": "Orosháza", "hu": "Orosháza", "ro": "Orosháza", "en": "Orosháza"},
     description: {"de": "Stadt in Südostungarn, bekannt für das Heil- und Strandbad Gyopárosfürdő.", "hu": "Délkelet-magyarországi város, a Gyopárosfürdő gyógy- és strandfürdőről ismert.", "ro": "Oraș în sud-estul Ungariei, cunoscut pentru băile curative și de ștrand Gyopárosfürdő.", "en": "City in southeastern Hungary, known for the Gyopárosfürdő medicinal and thermal bath."},
@@ -3514,7 +3514,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mezohegyes",
     type: "city",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [20.8167, 46.3167],
     name: {"de": "Mezőhegyes", "hu": "Mezőhegyes", "ro": "Mezőhegyes", "en": "Mezőhegyes"},
     description: {"de": "Stadt bekannt für ihr staatliches Gestüt und ihre reiche Pferdezuchttradition.", "hu": "Állami ménesbirtokáról és gazdag lótartási hagyományairól ismert város.", "ro": "Oraș cunoscut pentru herghelia sa de stat și bogata tradiție în creșterea cailor.", "en": "Town known for its state stud farm and rich horse-breeding tradition."},
@@ -3523,7 +3523,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sarospatak",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.5667, 48.3167],
     name: {"de": "Scharoschpatak", "hu": "Sárospatak", "ro": "Sárospatak", "en": "Sárospatak"},
     description: {"de": "Historische Stadt am Fluss Bodrog, bekannt für ihre Renaissanceburg und das Kollegium.", "hu": "Történelmi város a Bodrog partján, reneszánsz váráról és kollégiumáról ismert.", "ro": "Oraș istoric pe râul Bodrog, cunoscut pentru castelul său renascentist și colegiu.", "en": "Historic town on the Bodrog river, known for its Renaissance castle and college."},
@@ -3532,7 +3532,7 @@ export const hungaryCities: POI[] = [
   {
     id: "lillafured",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.6167, 48.1],
     name: {"de": "Lillafüred", "hu": "Lillafüred", "ro": "Lillafüred", "en": "Lillafüred"},
     description: {"de": "Malerischer Ferienort im Bükk-Gebirge, bekannt für sein Schlosshotel und den Wasserfall.", "hu": "Festői üdülőhely a Bükkben, kastélyszállójáról és vízeséséről ismert.", "ro": "Stațiune pitorească în munții Bükk, cunoscută pentru hotelul său castel și cascadă.", "en": "Picturesque resort in the Bükk Mountains, known for its castle hotel and waterfall."},
@@ -3541,7 +3541,7 @@ export const hungaryCities: POI[] = [
   {
     id: "opusztaszer",
     type: "landmark",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.0833, 46.4833],
     name: {"de": "Ópusztaszer", "hu": "Ópusztaszer", "ro": "Ópusztaszer", "en": "Ópusztaszer"},
     description: {"de": "Nationaler Historischer Gedenkpark, Ort der ersten ungarischen Nationalversammlung.", "hu": "Nemzeti Történeti Emlékpark, az első magyar országgyűlés helyszíne.", "ro": "Parcul Memorial Istoric Național, locul primei adunări naționale maghiare.", "en": "National Historical Memorial Park, site of the first Hungarian national assembly."},
@@ -3550,7 +3550,7 @@ export const hungaryCities: POI[] = [
   {
     id: "csongrad-city",
     type: "city",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.15, 46.7167],
     name: {"de": "Csongrád", "hu": "Csongrád", "ro": "Csongrád", "en": "Csongrád"},
     description: {"de": "Stadt an der Mündung der Körös in die Theiß, bekannt für ihre Altstadt und den Sandstrand.", "hu": "Város a Körös tiszai torkolatánál, óvárosáról és homokos strandjáról ismert.", "ro": "Oraș la confluența râurilor Körös și Tisa, cunoscut pentru orașul vechi și plaja de nisip.", "en": "City at the confluence of the Körös and Tisza rivers, known for its old town and sandy beach."},
@@ -3559,7 +3559,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mor",
     type: "city",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.2, 47.3667],
     name: {"de": "Moor", "hu": "Mór", "ro": "Mór", "en": "Mór"},
     description: {"de": "Stadt im Vértes-Gebirge, Zentrum einer berühmten Weißweinregion.", "hu": "Város a Vértes lábánál, egy híres fehérborvidék központja.", "ro": "Oraș în munții Vértes, centrul unei faimoase regiuni de vin alb.", "en": "City in the Vértes Mountains, center of a famous white wine region."},
@@ -3568,7 +3568,7 @@ export const hungaryCities: POI[] = [
   {
     id: "martonvasar",
     type: "city",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.7833, 47.3167],
     name: {"de": "Martonwaschar", "hu": "Martonvásár", "ro": "Martonvásár", "en": "Martonvásár"},
     description: {"de": "Stadt bekannt für das neugotische Schloss Brunszvik und seine Verbindung zu Beethoven.", "hu": "A neogótikus Brunszvik-kastélyról és Beethovenhez fűződő kapcsolatáról ismert város.", "ro": "Oraș cunoscut pentru castelul neogotic Brunszvik și legătura sa cu Beethoven.", "en": "Town known for the neo-Gothic Brunszvik Castle and its connection to Beethoven."},
@@ -3577,7 +3577,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mosonmagyarovar",
     type: "city",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [17.2667, 47.8667],
     name: {"de": "Wieselburg-Ungarisch Altenburg", "hu": "Mosonmagyaróvár", "ro": "Mosonmagyaróvár", "en": "Mosonmagyaróvár"},
     description: {"de": "Stadt an der Grenze zu Österreich und der Slowakei, bekannt für ihr Thermalbad.", "hu": "Város az osztrák és szlovák határ közelében, termálfürdőjéről ismert.", "ro": "Oraș lângă granița cu Austria și Slovacia, cunoscut pentru baia sa termală.", "en": "City near the Austrian and Slovak borders, known for its thermal bath."},
@@ -3586,7 +3586,7 @@ export const hungaryCities: POI[] = [
   {
     id: "fertod",
     type: "city",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [16.8667, 47.6167],
     name: {"de": "Fertőd", "hu": "Fertőd", "ro": "Fertőd", "en": "Fertőd"},
     image: "/geo-images/hungary/fertod.webp",
@@ -3596,7 +3596,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hajduboszormeny",
     type: "city",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.5167, 47.6667],
     name: {"de": "Hajdúböszörmény", "hu": "Hajdúböszörmény", "ro": "Hajdúböszörmény", "en": "Hajdúböszörmény"},
     description: {"de": "Die größte der Hajdú-Städte mit einer einzigartigen kreisförmigen Stadtstruktur.", "hu": "A legnagyobb hajdúváros, egyedülálló körgyűrűs városszerkezettel.", "ro": "Cel mai mare dintre orașele Hajdú, cu o structură urbană circulară unică.", "en": "The largest of the Hajdú towns with a unique circular city structure."},
@@ -3605,7 +3605,7 @@ export const hungaryCities: POI[] = [
   {
     id: "berettyoujfalu",
     type: "city",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.5, 47.2167],
     name: {"de": "Berettyóújfalu", "hu": "Berettyóújfalu", "ro": "Berettyóújfalu", "en": "Berettyóújfalu"},
     description: {"de": "Stadt im Osten Ungarns, das Zentrum der Region Bihar.", "hu": "Kelet-magyarországi város, a Bihar régió központja.", "ro": "Oraș în estul Ungariei, centrul regiunii Bihar.", "en": "City in eastern Hungary, the center of the Bihar region."},
@@ -3614,7 +3614,7 @@ export const hungaryCities: POI[] = [
   {
     id: "parad",
     type: "city",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.0333, 47.9167],
     name: {"de": "Parád", "hu": "Parád", "ro": "Parád", "en": "Parád"},
     image: "/geo-images/hungary/parad.webp",
@@ -3624,7 +3624,7 @@ export const hungaryCities: POI[] = [
   {
     id: "belapatfalva",
     type: "city",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.35, 48.05],
     name: {"de": "Bélapátfalva", "hu": "Bélapátfalva", "ro": "Bélapátfalva", "en": "Bélapátfalva"},
     description: {"de": "Stadt am Fuße des Bükk-Gebirges, berühmt für ihre mittelalterliche Zisterzienserabtei.", "hu": "Város a Bükk lábánál, középkori ciszterci apátságáról híres.", "ro": "Oraș la poalele munților Bükk, faimos pentru abația sa cisterciană medievală.", "en": "Town at the foot of the Bükk Mountains, famous for its medieval Cistercian abbey."},
@@ -3633,7 +3633,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mezotur",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.6167, 47.0],
     name: {"de": "Mezőtúr", "hu": "Mezőtúr", "ro": "Mezőtúr", "en": "Mezőtúr"},
     description: {"de": "Stadt in der Tiefebene, bekannt für ihre jahrhundertealte Töpfertradition.", "hu": "Alföldi város, évszázados fazekas hagyományairól ismert.", "ro": "Oraș în câmpie, cunoscut pentru tradiția sa seculară în olărit.", "en": "City in the plains, known for its centuries-old pottery tradition."},
@@ -3642,7 +3642,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tiszafured",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.75, 47.6167],
     name: {"de": "Tiszafüred", "hu": "Tiszafüred", "ro": "Tiszafüred", "en": "Tiszafüred"},
     description: {"de": "Die 'Hauptstadt des Theiß-Sees', ein Zentrum für Ökotourismus und Wassersport.", "hu": "A 'Tisza-tó fővárosa', az ökoturizmus és a vízisportok központja.", "ro": "'Capitala Lacului Tisa', un centru pentru ecoturism și sporturi nautice.", "en": "The 'Capital of Lake Tisza', a center for ecotourism and water sports."},
@@ -3651,7 +3651,7 @@ export const hungaryCities: POI[] = [
   {
     id: "komarom",
     type: "city",
-    parent: "komarom-esztergom",
+    parent: "HU-KE",
     coords: [18.1167, 47.75],
     name: {"de": "Komorn", "hu": "Komárom", "ro": "Komárom", "en": "Komárom"},
     description: {"de": "Grenzstadt an der Donau, bekannt für ihr riesiges Festungssystem.", "hu": "Duna-parti határváros, hatalmas erődrendszeréről ismert.", "ro": "Oraș de graniță pe Dunăre, cunoscut pentru sistemul său imens de fortificații.", "en": "Border city on the Danube, known for its massive fortress system."},
@@ -3660,7 +3660,7 @@ export const hungaryCities: POI[] = [
   {
     id: "babolna",
     type: "city",
-    parent: "komarom-esztergom",
+    parent: "HU-KE",
     coords: [17.9833, 47.65],
     name: {"de": "Bábolna", "hu": "Bábolna", "ro": "Bábolna", "en": "Bábolna"},
     description: {"de": "Stadt berühmt für ihr historisches Gestüt und die Pferdezucht.", "hu": "Történelmi ménesbirtokáról és lótartásáról híres város.", "ro": "Oraș faimos pentru herghelia sa istorică și creșterea cailor.", "en": "Town famous for its historic stud farm and horse breeding."},
@@ -3669,7 +3669,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szecseny",
     type: "city",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.5167, 48.0833],
     name: {"de": "Szecseny", "hu": "Szécsény", "ro": "Szécsény", "en": "Szécsény"},
     description: {"de": "Historische Stadt in Nordungarn, bekannt für das Barockschloss Forgách.", "hu": "Észak-magyarországi történelmi város, a barokk Forgách-kastélyról ismert.", "ro": "Oraș istoric în nordul Ungariei, cunoscut pentru castelul baroc Forgách.", "en": "Historic town in northern Hungary, known for the Baroque Forgách Castle."},
@@ -3678,7 +3678,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tar",
     type: "city",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.75, 47.95],
     name: {"de": "Tar", "hu": "Tar", "ro": "Tar", "en": "Tar"},
     description: {"de": "Dorf am Fuße der Mátra, bekannt für seinen buddhistischen Stupa.", "hu": "Falu a Mátra lábánál, buddhista sztúpájáról ismert.", "ro": "Sat la poalele munților Mátra, cunoscut pentru stupa sa budistă.", "en": "Village at the foot of the Mátra, known for its Buddhist stupa."},
@@ -3687,7 +3687,7 @@ export const hungaryCities: POI[] = [
   {
     id: "erd",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.9167, 47.3833],
     name: {"de": "Hanselbeck", "hu": "Érd", "ro": "Érd", "en": "Érd"},
     description: {"de": "Große Stadt in der Agglomeration von Budapest, bekannt für ihr osmanisches Minarett.", "hu": "Nagyváros Budapest agglomerációjában, oszmán minaretjéről ismert.", "ro": "Oraș mare în aglomerația Budapestei, cunoscut pentru minaretul său otoman.", "en": "Large city in the Budapest agglomeration, known for its Ottoman minaret."},
@@ -3696,7 +3696,7 @@ export const hungaryCities: POI[] = [
   {
     id: "cegled",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.8, 47.1833],
     name: {"de": "Ziegled", "hu": "Cegléd", "ro": "Cegléd", "en": "Cegléd"},
     description: {"de": "Stadt in der Tiefebene, bekannt für ihr Thermalbad und die Verbindung zu Lajos Kossuth.", "hu": "Alföldi város, termálfürdőjéről és Kossuth Lajoshoz fűződő kapcsolatáról ismert.", "ro": "Oraș în câmpie, cunoscut pentru baia sa termală și legătura cu Lajos Kossuth.", "en": "City in the plains, known for its thermal bath and connection to Lajos Kossuth."},
@@ -3705,7 +3705,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balatonlelle",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.7, 46.7833],
     name: {"de": "Lelle", "hu": "Balatonlelle", "ro": "Balatonlelle", "en": "Balatonlelle"},
     description: {"de": "Beliebter Ferienort am Südufer des Plattensees mit Sandstrand.", "hu": "Népszerű üdülőhely a Balaton déli partján, homokos stranddal.", "ro": "Stațiune populară pe malul sudic al Lacului Balaton, cu plajă de nisip.", "en": "Popular resort town on the southern shore of Lake Balaton with a sandy beach."},
@@ -3714,7 +3714,7 @@ export const hungaryCities: POI[] = [
   {
     id: "fonyod",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.55, 46.75],
     name: {"de": "Fonyód", "hu": "Fonyód", "ro": "Fonyód", "en": "Fonyód"},
     description: {"de": "Stadt am Südufer des Plattensees, bekannt für ihre Aussichtspunkte und den Hafen.", "hu": "Város a Balaton déli partján, kilátóiról és kikötőjéről ismert.", "ro": "Oraș pe malul sudic al Lacului Balaton, cunoscut pentru punctele sale de belvedere și port.", "en": "City on the southern shore of Lake Balaton, known for its viewpoints and harbor."},
@@ -3723,7 +3723,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kisvarda",
     type: "city",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [22.0833, 48.2167],
     name: {"de": "Kleinwardein", "hu": "Kisvárda", "ro": "Kisvárda", "en": "Kisvárda"},
     description: {"de": "Stadt im Nordosten Ungarns, bekannt für ihre Burgruine und das Thermalbad.", "hu": "Északkelet-magyarországi város, várromjáról és termálfürdőjéről ismert.", "ro": "Oraș în nord-estul Ungariei, cunoscut pentru ruinele cetății și baia termală.", "en": "City in northeastern Hungary, known for its castle ruins and thermal bath."},
@@ -3732,7 +3732,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tiszadada",
     type: "city",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [21.1167, 48.0333],
     name: {"de": "Tiszadada", "hu": "Tiszadada", "ro": "Tiszadada", "en": "Tiszadada"},
     description: {"de": "Dorf an der Theiß, bekannt für das Schloss Andrássy.", "hu": "Tisza-parti falu, az Andrássy-kastélyról ismert.", "ro": "Sat pe râul Tisa, cunoscut pentru Castelul Andrássy.", "en": "Village on the Tisza river, known for the Andrássy Castle."},
@@ -3741,7 +3741,7 @@ export const hungaryCities: POI[] = [
   {
     id: "dombovar",
     type: "city",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.1333, 46.3667],
     name: {"de": "Dombovar", "hu": "Dombóvár", "ro": "Dombóvár", "en": "Dombóvár"},
     description: {"de": "Stadt in Südtransdanubien, bekannt für das Gunaras-Heilbad.", "hu": "Dél-dunántúli város, a Gunaras gyógyfürdőről ismert.", "ro": "Oraș în Transdanubia de Sud, cunoscut pentru baia curativă Gunaras.", "en": "City in Southern Transdanubia, known for the Gunaras medicinal bath."},
@@ -3750,7 +3750,7 @@ export const hungaryCities: POI[] = [
   {
     id: "dunafoldvar",
     type: "city",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.9167, 46.8],
     name: {"de": "Donafeldwar", "hu": "Dunaföldvár", "ro": "Dunaföldvár", "en": "Dunaföldvár"},
     description: {"de": "Stadt an der Donau, bekannt für ihre Burg und die Brücke.", "hu": "Duna-parti város, váráról és hídjáról ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru cetatea și podul său.", "en": "City on the Danube, known for its castle and bridge."},
@@ -3759,7 +3759,7 @@ export const hungaryCities: POI[] = [
   {
     id: "buk",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.75, 47.3833],
     name: {"de": "Bük", "hu": "Bük", "ro": "Bük", "en": "Bük"},
     description: {"de": "Einer der bekanntesten Kurorte Ungarns mit einem riesigen Thermalbad.", "hu": "Magyarország egyik legismertebb fürdővárosa hatalmas termálfürdővel.", "ro": "Una dintre cele mai cunoscute stațiuni balneare din Ungaria, cu o baie termală imensă.", "en": "One of Hungary's best-known spa towns with a massive thermal bath."},
@@ -3768,7 +3768,7 @@ export const hungaryCities: POI[] = [
   {
     id: "oriszentpeter",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.4167, 46.8333],
     name: {"de": "Sankt Peter in der Wart", "hu": "Őriszentpéter", "ro": "Őriszentpéter", "en": "Őriszentpéter"},
     description: {"de": "Das Zentrum der Region Őrség, bekannt für seine traditionelle Architektur und Natur.", "hu": "Az Őrség központja, hagyományos építészetéről és természetéről ismert.", "ro": "Centrul regiunii Őrség, cunoscut pentru arhitectura tradițională și natură.", "en": "The center of the Őrség region, known for its traditional architecture and nature."},
@@ -3777,7 +3777,7 @@ export const hungaryCities: POI[] = [
   {
     id: "papa",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.4667, 47.3333],
     name: {"de": "Papa", "hu": "Pápa", "ro": "Pápa", "en": "Pápa"},
     description: {"de": "Historische Stadt mit barocker Architektur und einem berühmten Thermalbad.", "hu": "Történelmi város barokk építészettel és híres termálfürdővel.", "ro": "Oraș istoric cu arhitectură barocă și o faimoasă baie termală.", "en": "Historic city with Baroque architecture and a famous thermal bath."},
@@ -3786,7 +3786,7 @@ export const hungaryCities: POI[] = [
   {
     id: "badacsony",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.5, 46.8],
     name: {"de": "Badacsony", "hu": "Badacsony", "ro": "Badacsony", "en": "Badacsony"},
     description: {"de": "Vulkanberg am Plattensee, berühmt für seine Weine und Basaltformationen.", "hu": "Vulkanikus hegy a Balatonnál, borairól és bazaltorgonáiról híres.", "ro": "Munte vulcanic la Lacul Balaton, faimos pentru vinurile sale și formațiunile de bazalt.", "en": "Volcanic mountain at Lake Balaton, famous for its wines and basalt formations."},
@@ -3795,7 +3795,7 @@ export const hungaryCities: POI[] = [
   {
     id: "heviz",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [17.1833, 46.7833],
     name: {"de": "Heiwis", "hu": "Hévíz", "ro": "Hévíz", "en": "Hévíz"},
     description: {"de": "Weltberühmter Kurort mit dem größten biologisch aktiven Thermalsee der Welt.", "hu": "Világhírű fürdőváros a világ legnagyobb biológiailag aktív termáltavával.", "ro": "Stațiune balneară renumită în întreaga lume, cu cel mai mare lac termal activ biologic din lume.", "en": "World-famous spa town with the largest biologically active thermal lake in the world."},
@@ -3804,7 +3804,7 @@ export const hungaryCities: POI[] = [
   {
     id: "zalakaros",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [17.1167, 46.55],
     name: {"de": "Zalakaros", "hu": "Zalakaros", "ro": "Zalakaros", "en": "Zalakaros"},
     description: {"de": "Beliebte Kurstadt im Südwesten Ungarns mit einem modernen Erlebnisbad.", "hu": "Népszerű fürdőváros Délnyugat-Magyarországon, modern élményfürdővel.", "ro": "Oraș balnear popular în sud-vestul Ungariei, cu o baie de aventură modernă.", "en": "Popular spa town in southwestern Hungary with a modern adventure bath."},
@@ -3843,7 +3843,7 @@ export const hungaryCities: POI[] = [
     {
     id: "kekes-teto",
     type: "mountain",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.0108, 47.8728],
     name: {"de": "Kékes", "hu": "Kékes-tető", "ro": "Kékes", "en": "Kékes"},
     image: "/geo-images/hungary/kekes-teto.webp",
@@ -3853,7 +3853,7 @@ export const hungaryCities: POI[] = [
     {
     id: "baradla-barlang-poi",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.48, 48.47],
     name: {"de": "Baradla-Höhle", "hu": "Baradla-barlang", "ro": "Peștera Baradla", "en": "Baradla Cave"},
     image: "/geo-images/hungary/baradla-barlang.webp",
@@ -3863,7 +3863,7 @@ export const hungaryCities: POI[] = [
     {
     id: "bukki-nemzeti-park-poi",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.5, 48.0],
     name: {"de": "Nationalpark Bükk", "hu": "Bükki Nemzeti Park", "ro": "Parcul Național Bükk", "en": "Bükk National Park"},
     image: "/geo-images/hungary/bukki-nemzeti-park.webp",
@@ -3873,7 +3873,7 @@ export const hungaryCities: POI[] = [
     {
     id: "ferto-to-poi",
     type: "lake",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [16.7, 47.7],
     name: {"de": "Neusiedler See", "hu": "Fertő-tó", "ro": "Lacul Fertő", "en": "Lake Neusiedl"},
     image: "/geo-images/hungary/ferto-to.webp",
@@ -3883,7 +3883,7 @@ export const hungaryCities: POI[] = [
     {
     id: "velencei-to-poi",
     type: "lake",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.6, 47.2],
     name: {"de": "Velencer See", "hu": "Velencei-tó", "ro": "Lacul Velence", "en": "Lake Velence"},
     image: "/geo-images/hungary/velencei-to.webp",
@@ -3893,7 +3893,7 @@ export const hungaryCities: POI[] = [
     {
     id: "szalajka-volgy-poi",
     type: "landmark",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.4, 48.1],
     name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
     image: "/geo-images/hungary/szalajka-volgy.webp",
@@ -3903,7 +3903,7 @@ export const hungaryCities: POI[] = [
     {
     id: "borzsony-hegyseg",
     type: "mountain",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.9, 47.9],
     name: {"de": "Börzsöny", "hu": "Börzsöny", "ro": "Börzsöny", "en": "Börzsöny"},
     image: "/geo-images/hungary/borzsony.webp",
@@ -3913,7 +3913,7 @@ export const hungaryCities: POI[] = [
     {
     id: "villanyi-borvidek-poi",
     type: "landmark",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.45, 45.87],
     name: {"de": "Weinregion Villány", "hu": "Villányi borvidék", "ro": "Regiunea viticolă Villány", "en": "Villány Wine Region"},
     image: "/geo-images/hungary/villanyi-borvidek.webp",
@@ -3923,7 +3923,7 @@ export const hungaryCities: POI[] = [
     {
     id: "gemenci-erdo-poi",
     type: "forest",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.8, 46.2],
     name: {"de": "Gemencer Wald", "hu": "Gemenci erdő", "ro": "Pădurea Gemenc", "en": "Gemenc Forest"},
     image: "/geo-images/hungary/gemenci-erdo.webp",
@@ -3933,7 +3933,7 @@ export const hungaryCities: POI[] = [
     {
     id: "egri-var-poi",
     type: "historical",
-    parent: "eger",
+    parent: "HU-HE",
     coords: [20.37, 47.90],
     name: {"de": "Burg von Eger", "hu": "Egri vár", "ro": "Cetatea din Eger", "en": "Castle of Eger"},
     image: "/geo-images/hungary/egri-var.webp",
@@ -3943,7 +3943,7 @@ export const hungaryCities: POI[] = [
     {
     id: "visegradi-fellegvar-poi",
     type: "historical",
-    parent: "visegrad",
+    parent: "HU-BU",
     coords: [18.98, 47.79],
     name: {"de": "Zitadelle von Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea din Visegrád", "en": "Visegrád Citadel"},
     image: "/geo-images/hungary/visegrad.webp",
@@ -3953,7 +3953,7 @@ export const hungaryCities: POI[] = [
     {
     id: "szigetvari-var-poi",
     type: "historical",
-    parent: "szigetvar",
+    parent: "HU-SO",
     coords: [17.80, 46.05],
     name: {"de": "Burg von Szigetvár", "hu": "Szigetvári vár", "ro": "Cetatea din Szigetvár", "en": "Szigetvár Castle"},
     image: "/geo-images/hungary/szigetvari-var.webp",
@@ -3963,7 +3963,7 @@ export const hungaryCities: POI[] = [
     {
     id: "sarvari-var-poi",
     type: "historical",
-    parent: "sarvar",
+    parent: "HU-VA",
     coords: [16.93, 47.25],
     name: {"de": "Burg Nádasdy", "hu": "Sárvári vár", "ro": "Cetatea Nádasdy", "en": "Nádasdy Castle"},
     image: "/geo-images/hungary/sarvari-var.webp",
@@ -3973,7 +3973,7 @@ export const hungaryCities: POI[] = [
     {
     id: "diosgyori-var-poi",
     type: "historical",
-    parent: "miskolc",
+    parent: "HU-BZ",
     coords: [20.68, 48.09],
     name: {"de": "Burg Diósgyőr", "hu": "Diósgyőri vár", "ro": "Cetatea Diósgyőr", "en": "Diósgyőr Castle"},
     image: "/geo-images/hungary/diosgyori-var.webp",
@@ -3983,7 +3983,7 @@ export const hungaryCities: POI[] = [
     {
     id: "esztergomi-bazilika-poi",
     type: "historical",
-    parent: "esztergom",
+    parent: "HU-KE",
     coords: [18.73, 47.79],
     name: {"de": "Kathedrale von Esztergom", "hu": "Esztergomi Bazilika", "ro": "Bazilica din Esztergom", "en": "Esztergom Basilica"},
     image: "/geo-images/hungary/esztergomi-bazilika.webp",
@@ -3993,7 +3993,7 @@ export const hungaryCities: POI[] = [
     {
     id: "szentendrei-skanzen-poi",
     type: "historical",
-    parent: "szentendre",
+    parent: "HU-BU",
     coords: [19.05, 47.69],
     name: {"de": "Skanzen Szentendre", "hu": "Szentendrei Skanzen", "ro": "Skanzen Szentendre", "en": "Skanzen Szentendre"},
     image: "/geo-images/hungary/szentendrei-skanzen.webp",
@@ -4003,7 +4003,7 @@ export const hungaryCities: POI[] = [
     {
     id: "sumegi-var-poi",
     type: "historical",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.435, 46.982],
     name: {"de": "Burg Sümeg", "hu": "Sümegi vár", "ro": "Cetatea Sümeg", "en": "Sümeg Castle"},
     image: "/geo-images/hungary/sumegi-var.webp",
@@ -4013,7 +4013,7 @@ export const hungaryCities: POI[] = [
     {
     id: "fuzeri-var-poi",
     type: "historical",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.46, 48.54],
     name: {"de": "Burg Füzér", "hu": "Füzéri vár", "ro": "Cetatea Füzér", "en": "Füzér Castle"},
     image: "/geo-images/hungary/fuzeri-var.webp",
@@ -4023,7 +4023,7 @@ export const hungaryCities: POI[] = [
     {
     id: "boldogkoi-var-poi",
     type: "historical",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.23, 48.34],
     name: {"de": "Burg Boldogkő", "hu": "Boldogkői vár", "ro": "Cetatea Boldogkő", "en": "Boldogkő Castle"},
     image: "/geo-images/hungary/boldogkoi-var.webp",
@@ -4033,7 +4033,7 @@ export const hungaryCities: POI[] = [
     {
     id: "szepmuveszeti-muzeum-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.07, 47.51],
     name: {"de": "Museum der Bildenden Künste", "hu": "Szépművészeti Múzeum", "ro": "Muzeul de Arte Frumoase", "en": "Museum of Fine Arts"},
     image: "/geo-images/hungary/szepmuveszeti-muzeum.webp",
@@ -4043,7 +4043,7 @@ export const hungaryCities: POI[] = [
     {
     id: "nemzeti-muzeum-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.06, 47.49],
     name: {"de": "Ungarisches Nationalmuseum", "hu": "Magyar Nemzeti Múzeum", "ro": "Muzeul Național Maghiar", "en": "Hungarian National Museum"},
     image: "/geo-images/hungary/nemzeti-muzeum.webp",
@@ -4053,7 +4053,7 @@ export const hungaryCities: POI[] = [
     {
     id: "aquaworld-budapest",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.11, 47.60],
     name: {"de": "Aquaworld Budapest", "hu": "Aquaworld Budapest", "ro": "Aquaworld Budapesta", "en": "Aquaworld Budapest"},
     image: "/geo-images/hungary/aquaworld-budapest.webp",
@@ -4063,7 +4063,7 @@ export const hungaryCities: POI[] = [
     {
     id: "fovarosi-allatkert",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.07, 47.51],
     name: {"de": "Budapester Zoo", "hu": "Fővárosi Állat- és Növénykert", "ro": "Grădina Zoologică din Budapesta", "en": "Budapest Zoo"},
     image: "/geo-images/hungary/fovarosi-allatkert.webp",
@@ -4073,7 +4073,7 @@ export const hungaryCities: POI[] = [
     {
     id: "gellert-hegy-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.05, 47.48],
     name: {"de": "Gellértberg", "hu": "Gellért-hegy", "ro": "Dealul Gellért", "en": "Gellért Hill"},
     image: "/geo-images/hungary/gellert-hegy.webp",
@@ -4083,7 +4083,7 @@ export const hungaryCities: POI[] = [
     {
     id: "normafa-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [18.96, 47.50],
     name: {"de": "Normafa", "hu": "Normafa", "ro": "Normafa", "en": "Normafa"},
     image: "/geo-images/hungary/normafa.webp",
@@ -4093,7 +4093,7 @@ export const hungaryCities: POI[] = [
     {
     id: "vajdahunyad-vara-poi",
     type: "historical",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.08, 47.51],
     name: {"de": "Burg Vajdahunyad", "hu": "Vajdahunyad vára", "ro": "Castelul Vajdahunyad", "en": "Vajdahunyad Castle"},
     image: "/geo-images/hungary/vajdahunyad-vara.webp",
@@ -4103,7 +4103,7 @@ export const hungaryCities: POI[] = [
     {
     id: "matyas-templom-poi",
     type: "historical",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.03, 47.50],
     name: {"de": "Matthiaskirche", "hu": "Mátyás-templom", "ro": "Biserica Mátyás", "en": "Matthias Church"},
     image: "/geo-images/hungary/matyas-templom.webp",
@@ -4113,7 +4113,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balaton-to-second",
     type: "lake",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.72, 46.84],
     name: {"de": "Plattensee", "hu": "Balaton", "ro": "Lacul Balaton", "en": "Lake Balaton"},
     image: "/geo-images/hungary/balaton-to.webp",
@@ -4123,7 +4123,7 @@ export const hungaryCities: POI[] = [
   {
     id: "baradla-barlang",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.49, 48.47],
     name: {"de": "Baradla-Höhle", "hu": "Baradla-barlang", "ro": "Peștera Baradla", "en": "Baradla Cave"},
     image: "/geo-images/hungary/baradla-barlang.webp",
@@ -4133,7 +4133,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hortobagyi-nemzeti-park",
     type: "landmark",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.09, 47.58],
     name: {"de": "Nationalpark Hortobágy", "hu": "Hortobágyi Nemzeti Park", "ro": "Parcul Național Hortobágy", "en": "Hortobágy National Park"},
     image: "/geo-images/hungary/hortobagyi-nemzeti-park.webp",
@@ -4143,7 +4143,7 @@ export const hungaryCities: POI[] = [
   {
     id: "bukki-nemzeti-park",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.52, 48.05],
     name: {"de": "Nationalpark Bükk", "hu": "Bükki Nemzeti Park", "ro": "Parcul Național Bükk", "en": "Bükk National Park"},
     image: "/geo-images/hungary/bukki-nemzeti-park.webp",
@@ -4153,7 +4153,7 @@ export const hungaryCities: POI[] = [
   {
     id: "ferto-to",
     type: "lake",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [16.73, 47.74],
     name: {"de": "Neusiedler See", "hu": "Fertő-tó", "ro": "Lacul Neusiedl", "en": "Lake Neusiedl"},
     image: "/geo-images/hungary/ferto-to.webp",
@@ -4163,7 +4163,7 @@ export const hungaryCities: POI[] = [
   {
     id: "velencei-to",
     type: "lake",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.59, 47.20],
     name: {"de": "Velencer See", "hu": "Velencei-tó", "ro": "Lacul Velence", "en": "Lake Velence"},
     image: "/geo-images/hungary/velencei-to.webp",
@@ -4173,7 +4173,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szalajka-volgy",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.39, 48.10],
     name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
     image: "/geo-images/hungary/szalajka-volgy.webp",
@@ -4183,7 +4183,7 @@ export const hungaryCities: POI[] = [
   {
     id: "borzsony",
     type: "mountain",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.91, 47.92],
     name: {"de": "Börzsöny", "hu": "Börzsöny", "ro": "Börzsöny", "en": "Börzsöny"},
     image: "/geo-images/hungary/borzsony.webp",
@@ -4193,7 +4193,7 @@ export const hungaryCities: POI[] = [
   {
     id: "villanyi-borvidek",
     type: "landmark",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.45, 45.86],
     name: {"de": "Weinregion Villány", "hu": "Villányi borvidék", "ro": "Regiunea viticolă Villány", "en": "Villány Wine Region"},
     image: "/geo-images/hungary/villanyi-borvidek.webp",
@@ -4203,7 +4203,7 @@ export const hungaryCities: POI[] = [
   {
     id: "egri-var",
     type: "historical",
-    parent: "eger",
+    parent: "HU-HE",
     coords: [20.38, 47.90],
     name: {"de": "Burg Eger", "hu": "Egri vár", "ro": "Castelul Eger", "en": "Castle of Eger"},
     image: "/geo-images/hungary/egri-var.webp",
@@ -4213,7 +4213,7 @@ export const hungaryCities: POI[] = [
   {
     id: "visegradi-fellegvar",
     type: "historical",
-    parent: "visegrad",
+    parent: "HU-BU",
     coords: [18.98, 47.79],
     name: {"de": "Zitadelle Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea Visegrád", "en": "Visegrád Citadel"},
     image: "/geo-images/hungary/visegrad.webp",
@@ -4223,7 +4223,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szigetvari-var",
     type: "historical",
-    parent: "szigetvar",
+    parent: "HU-SO",
     coords: [17.79, 46.05],
     name: {"de": "Burg Szigetvár", "hu": "Szigetvári vár", "ro": "Castelul Szigetvár", "en": "Castle of Szigetvár"},
     image: "/geo-images/hungary/szigetvari-var.webp",
@@ -4233,7 +4233,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sarvari-var",
     type: "historical",
-    parent: "sarvar",
+    parent: "HU-VA",
     coords: [16.93, 47.25],
     name: {"de": "Burg Sárvár", "hu": "Sárvári vár", "ro": "Castelul Sárvár", "en": "Castle of Sárvár"},
     image: "/geo-images/hungary/sarvari-var.webp",
@@ -4243,7 +4243,7 @@ export const hungaryCities: POI[] = [
   {
     id: "diosgyori-var",
     type: "historical",
-    parent: "miskolc",
+    parent: "HU-BZ",
     coords: [20.69, 48.09],
     name: {"de": "Burg Diósgyőr", "hu": "Diósgyőri vár", "ro": "Castelul Diósgyőr", "en": "Castle of Diósgyőr"},
     image: "/geo-images/hungary/diosgyori-var.webp",
@@ -4253,7 +4253,7 @@ export const hungaryCities: POI[] = [
   {
     id: "esztergomi-bazilika",
     type: "historical",
-    parent: "esztergom",
+    parent: "HU-KE",
     coords: [18.73, 47.79],
     name: {"de": "Basilika von Esztergom", "hu": "Esztergomi Bazilika", "ro": "Bazilica din Esztergom", "en": "Esztergom Basilica"},
     image: "/geo-images/hungary/esztergomi-bazilika.webp",
@@ -4263,7 +4263,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szentendrei-skanzen",
     type: "historical",
-    parent: "szentendre",
+    parent: "HU-BU",
     coords: [19.04, 47.69],
     name: {"de": "Skanzen Szentendre", "hu": "Szentendrei Skanzen", "ro": "Skanzen Szentendre", "en": "Szentendre Skanzen"},
     image: "/geo-images/hungary/szentendrei-skanzen.webp",
@@ -4273,7 +4273,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tihanyi-apatsag",
     type: "historical",
-    parent: "tihany",
+    parent: "HU-VE",
     coords: [17.88, 46.91],
     name: {"de": "Abtei Tihany", "hu": "Tihanyi Apátság", "ro": "Abația Tihany", "en": "Tihany Abbey"},
     image: "/geo-images/hungary/tihanyi-apatsag.webp",
@@ -4283,7 +4283,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pannonhalmi-foapatsag",
     type: "historical",
-    parent: "pannonhalma",
+    parent: "HU-VE",
     coords: [17.76, 47.55],
     name: {"de": "Erzabtei Pannonhalma", "hu": "Pannonhalmi Főapátság", "ro": "Arhiabația Pannonhalma", "en": "Pannonhalma Archabbey"},
     image: "/geo-images/hungary/pannonhalmi-foapatsag.webp",
@@ -4293,7 +4293,7 @@ export const hungaryCities: POI[] = [
   {
     id: "holloko-ofalu",
     type: "historical",
-    parent: "holloko",
+    parent: "HU-NO",
     coords: [19.58, 47.99],
     name: {"de": "Altes Dorf Hollókő", "hu": "Hollókő Ófalu", "ro": "Satul vechi Hollókő", "en": "Hollókő Old Village"},
     image: "/geo-images/hungary/holloko-ofalu.webp",
@@ -4303,7 +4303,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szepmuveszeti-muzeum",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.07, 47.51],
     name: {"de": "Museum der Bildenden Künste", "hu": "Szépművészeti Múzeum", "ro": "Muzeul de Arte Frumoase", "en": "Museum of Fine Arts"},
     image: "/geo-images/hungary/szepmuveszeti-muzeum.webp",
@@ -4313,7 +4313,7 @@ export const hungaryCities: POI[] = [
   {
     id: "magyar-nemzeti-muzeum",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.06, 47.49],
     name: {"de": "Ungarisches Nationalmuseum", "hu": "Magyar Nemzeti Múzeum", "ro": "Muzeul Național Maghiar", "en": "Hungarian National Museum"},
     image: "/geo-images/hungary/magyar-nemzeti-muzeum.webp",
@@ -4323,7 +4323,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gellert-hegy",
     type: "mountain",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.04, 47.48],
     name: {"de": "Gellértberg", "hu": "Gellért-hegy", "ro": "Dealul Gellért", "en": "Gellért Hill"},
     image: "/geo-images/hungary/gellert-hegy.webp",
@@ -4333,7 +4333,7 @@ export const hungaryCities: POI[] = [
   {
     id: "normafa",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [18.96, 47.50],
     name: {"de": "Normafa", "hu": "Normafa", "ro": "Normafa", "en": "Normafa"},
     image: "/geo-images/hungary/normafa.webp",
@@ -4343,7 +4343,7 @@ export const hungaryCities: POI[] = [
   {
     id: "magyar-allami-operahaz",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.05, 47.50],
     name: {"de": "Staatsoper", "hu": "Magyar Állami Operaház", "ro": "Opera de Stat", "en": "State Opera"},
     image: "/geo-images/hungary/magyar-allami-operahaz.webp",
@@ -4353,7 +4353,7 @@ export const hungaryCities: POI[] = [
   {
     id: "csodak-palotaja",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.03, 47.53],
     name: {"de": "Palast der Wunder", "hu": "Csodák Palotája", "ro": "Palatul Minunilor", "en": "Center of Scientific Wonders"},
     image: "/geo-images/hungary/csodak-palotaja.webp",
@@ -4363,7 +4363,7 @@ export const hungaryCities: POI[] = [
   {
     id: "boldogko-var-b2",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.23, 48.34],
     name: {"de": "Burg Boldogkő", "hu": "Boldogkői vár", "ro": "Cetatea Boldogkő", "en": "Boldogkő Castle"},
     image: "/geo-images/hungary/boldogko-var.webp",
@@ -4373,7 +4373,7 @@ export const hungaryCities: POI[] = [
   {
     id: "fuzer-var-b2",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.46, 48.54],
     name: {"de": "Burg Füzér", "hu": "Füzéri vár", "ro": "Cetatea Füzér", "en": "Füzér Castle"},
     image: "/geo-images/hungary/fuzer-var.webp",
@@ -4383,7 +4383,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sirok-var",
     type: "landmark",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [20.19, 47.93],
     name: {"de": "Burg Sirok", "hu": "Siroki vár", "ro": "Cetatea Sirok", "en": "Sirok Castle"},
     image: "/geo-images/hungary/sirok-var.webp",
@@ -4393,7 +4393,7 @@ export const hungaryCities: POI[] = [
   {
     id: "sumeg-var-b2",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.43, 46.98],
     name: {"de": "Burg Sümeg", "hu": "Sümegi vár", "ro": "Cetatea Sümeg", "en": "Sümeg Castle"},
     image: "/geo-images/hungary/sumeg-var.webp",
@@ -4403,7 +4403,7 @@ export const hungaryCities: POI[] = [
   {
     id: "somlo-var",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.37, 47.15],
     name: {"de": "Burg Somló", "hu": "Somlói vár", "ro": "Cetatea Somló", "en": "Somló Castle"},
     image: "/geo-images/hungary/somlo-var.webp",
@@ -4413,7 +4413,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nagyvazsony-kinizsi-var",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.69, 46.98],
     name: {"de": "Kinizsi-Burg", "hu": "Nagyvázsonyi Kinizsi-vár", "ro": "Cetatea Kinizsi", "en": "Kinizsi Castle"},
     image: "/geo-images/hungary/nagyvazsony-var.webp",
@@ -4423,7 +4423,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szerencs-var",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.20, 48.16],
     name: {"de": "Burg Szerencs", "hu": "Szerencsi vár", "ro": "Cetatea Szerencs", "en": "Szerencs Castle"},
     image: "/geo-images/hungary/szerencs-var.webp",
@@ -4433,7 +4433,7 @@ export const hungaryCities: POI[] = [
   {
     id: "koszeg-jurisics-var",
     type: "landmark",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.54, 47.39],
     name: {"de": "Jurisics-Burg", "hu": "Kőszegi Jurisics-vár", "ro": "Cetatea Jurisics", "en": "Jurisics Castle"},
     image: "/geo-images/hungary/koszeg-var.webp",
@@ -4443,7 +4443,7 @@ export const hungaryCities: POI[] = [
   {
     id: "simontornya-var",
     type: "landmark",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.55, 46.75],
     name: {"de": "Burg Simontornya", "hu": "Simontornyai vár", "ro": "Cetatea Simontornya", "en": "Simontornya Castle"},
     image: "/geo-images/hungary/simontornya-var.webp",
@@ -4453,7 +4453,7 @@ export const hungaryCities: POI[] = [
   {
     id: "varpalota-thury-var",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [18.14, 47.20],
     name: {"de": "Thury-Burg", "hu": "Várpalotai Thury-vár", "ro": "Cetatea Thury", "en": "Thury Castle"},
     image: "/geo-images/hungary/varpalota-var.webp",
@@ -4463,7 +4463,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szelce-volgy",
     type: "landmark",
-    parent: "nograd",
+    parent: "HU-NO",
     coords: [19.06, 48.15],
     name: {"de": "Szelce-Tal", "hu": "Szelce-völgy", "ro": "Valea Szelce", "en": "Szelce Valley"},
     image: "/geo-images/hungary/szelce-volgy.webp",
@@ -4473,7 +4473,7 @@ export const hungaryCities: POI[] = [
   {
     id: "palvolgyi-barlang",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.016, 47.532],
     name: {"de": "Pálvölgyi-Höhle", "hu": "Pálvölgyi-barlang", "ro": "Peștera Pálvölgyi", "en": "Pálvölgyi Cave"},
     image: "/geo-images/hungary/palvolgyi-barlang.webp",
@@ -4483,7 +4483,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mecsek-hegyseg",
     type: "landmark",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.23, 46.10],
     name: {"de": "Mecsek-Gebirge", "hu": "Mecsek hegység", "ro": "Munții Mecsek", "en": "Mecsek Mountains"},
     image: "/geo-images/hungary/mecsek.webp",
@@ -4493,7 +4493,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balatonfelvideki-np",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.80, 46.90],
     name: {"de": "NP Balaton-Oberland", "hu": "Balaton-felvidéki Nemzeti Park", "ro": "PN Balatonul de Sus", "en": "Balaton Uplands NP"},
     image: "/geo-images/hungary/balaton-felvidek.webp",
@@ -4503,7 +4503,7 @@ export const hungaryCities: POI[] = [
   {
     id: "koros-maros-np",
     type: "landmark",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [21.00, 46.50],
     name: {"de": "NP Körös-Maros", "hu": "Körös-Maros Nemzeti Park", "ro": "PN Criș-Mureș", "en": "Körös-Maros NP"},
     image: "/geo-images/hungary/koros-maros-np.webp",
@@ -4513,7 +4513,7 @@ export const hungaryCities: POI[] = [
   {
     id: "oreg-bakony",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.75, 47.25],
     name: {"de": "Alter Bakony", "hu": "Öreg-Bakony", "ro": "Bakonyul Vechi", "en": "Old Bakony"},
     image: "/geo-images/hungary/bakony.webp",
@@ -4523,7 +4523,7 @@ export const hungaryCities: POI[] = [
   {
     id: "zempleni-hegyseg-b2",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.40, 48.40],
     name: {"de": "Zemplén-Gebirge", "hu": "Zempléni-hegység", "ro": "Munții Zemplén", "en": "Zemplén Mountains"},
     image: "/geo-images/hungary/zemplen.webp",
@@ -4533,7 +4533,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pilis-hegyseg",
     type: "landmark",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.90, 47.70],
     name: {"de": "Pilis-Gebirge", "hu": "Pilis hegység", "ro": "Munții Pilis", "en": "Pilis Mountains"},
     image: "/geo-images/hungary/pilis.webp",
@@ -4543,7 +4543,7 @@ export const hungaryCities: POI[] = [
   {
     id: "vertes-hegyseg",
     type: "landmark",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.40, 47.40],
     name: {"de": "Vértes-Gebirge", "hu": "Vértes hegység", "ro": "Munții Vértes", "en": "Vértes Mountains"},
     image: "/geo-images/hungary/vertes.webp",
@@ -4553,7 +4553,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gemenc-arter-b2",
     type: "landmark",
-    parent: "tolna",
+    parent: "HU-TO",
     coords: [18.85, 46.25],
     name: {"de": "Gemenc-Aue", "hu": "Gemenc ártér", "ro": "Lunca Gemenc", "en": "Gemenc Floodplain"},
     image: "/geo-images/hungary/gemenc.webp",
@@ -4563,7 +4563,7 @@ export const hungaryCities: POI[] = [
   {
     id: "debreceni-allatkert",
     type: "landmark",
-    parent: "hajdu-bihar",
+    parent: "HU-HB",
     coords: [21.638, 47.552],
     name: {"de": "Zoo Debrecen", "hu": "Debreceni Állatkert", "ro": "Grădina Zoologică Debrețin", "en": "Debrecen Zoo"},
     image: "/geo-images/hungary/debrecen.webp",
@@ -4573,7 +4573,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nyiregyhazi-allatkert",
     type: "landmark",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [21.724, 48.006],
     name: {"de": "Sóstó Zoo", "hu": "Nyíregyházi Állatkert", "ro": "Grădina Zoologică Nyíregyháza", "en": "Nyíregyháza Zoo"},
     image: "/geo-images/hungary/nyiregyhaza-zoo.webp",
@@ -4583,7 +4583,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tropicarium-budapest",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.017, 47.410],
     name: {"de": "Tropicarium", "hu": "Tropicarium Budapest", "ro": "Tropicarium Budapesta", "en": "Tropicarium Budapest"},
     image: "/geo-images/hungary/tropicarium.webp",
@@ -4593,7 +4593,7 @@ export const hungaryCities: POI[] = [
   {
     id: "miskolctapolca-barlangfurdo",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.744, 48.061],
     name: {"de": "Höhlenbad Miskolctapolca", "hu": "Miskolctapolca Barlangfürdő", "ro": "Baia în Peșteră Miskolctapolca", "en": "Miskolctapolca Cave Bath"},
     image: "/geo-images/hungary/barlangfurdo.webp",
@@ -4603,7 +4603,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mohacsi-busojaras-poi",
     type: "landmark",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.683, 45.991],
     name: {"de": "Busójárás-Ort", "hu": "Mohácsi Busójárás helye", "ro": "Locul Busójárás", "en": "Mohács Busójárás Site"},
     image: "/geo-images/hungary/mohacs.webp",
@@ -4613,7 +4613,7 @@ export const hungaryCities: POI[] = [
   {
     id: "zsolnay-negyed",
     type: "landmark",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.243, 46.084],
     name: {"de": "Zsolnay-Viertel", "hu": "Zsolnay Kulturális Negyed", "ro": "Cartierul Zsolnay", "en": "Zsolnay Cultural Quarter"},
     image: "/geo-images/hungary/zsolnay-negyed.webp",
@@ -4623,7 +4623,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szegedi-dom",
     type: "landmark",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.148, 46.248],
     name: {"de": "Votivkirche Szeged", "hu": "Szegedi Dóm", "ro": "Catedrala din Seghedin", "en": "Votive Church of Szeged"},
     image: "/geo-images/hungary/szeged.webp",
@@ -4633,7 +4633,7 @@ export const hungaryCities: POI[] = [
   {
     id: "pannonhalmi-leveltar",
     type: "landmark",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [17.761, 47.554],
     name: {"de": "Archiv Pannonhalma", "hu": "Pannonhalmi Apátsági Levéltár", "ro": "Arhiva Pannonhalma", "en": "Pannonhalma Abbey Archives"},
     image: "/geo-images/hungary/pannonhalma.webp",
@@ -4643,7 +4643,7 @@ export const hungaryCities: POI[] = [
   {
     id: "magyar-nemzeti-galeria-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.039, 47.496],
     name: {"de": "Nationalgalerie", "hu": "Magyar Nemzeti Galéria", "ro": "Galeria Națională", "en": "Hungarian National Gallery"},
     image: "/geo-images/hungary/nemzeti-galeria.webp",
@@ -4653,7 +4653,7 @@ export const hungaryCities: POI[] = [
   {
     id: "corvin-negyed-poi",
     type: "landmark",
-    parent: "budapest",
+    parent: "HU-BU",
     coords: [19.073, 47.486],
     name: {"de": "Corvin-Viertel", "hu": "Corvin Negyed", "ro": "Cartierul Corvin", "en": "Corvin Quarter"},
     image: "/geo-images/hungary/corvin-negyed.webp",
@@ -4663,7 +4663,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hatvan",
     type: "city",
-    parent: "heves",
+    parent: "HU-HE",
     coords: [19.6833, 47.6667],
     name: {"de": "Hatvan", "hu": "Hatvan", "ro": "Hatvan", "en": "Hatvan"},
     image: "/geo-images/hungary/hatvan.webp",
@@ -4673,7 +4673,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tapolca",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.4333, 46.8833],
     name: {"de": "Tapolca", "hu": "Tapolca", "ro": "Tapolca", "en": "Tapolca"},
     image: "/geo-images/hungary/tapolca.webp",
@@ -4683,7 +4683,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kazincbarcika",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.6333, 48.25],
     name: {"de": "Kazincbarcika", "hu": "Kazincbarcika", "ro": "Kazincbarcika", "en": "Kazincbarcika"},
     description: {"de": "Industriestadt im Sajó-Tal, bekannt als die 'Stadt der Farben'.", "hu": "Ipari város a Sajó-völgyben, a 'Színes város' néven ismert.", "ro": "Oraș industrial în valea Sajó, cunoscut ca 'orașul culorilor'.", "en": "Industrial city in the Sajó Valley, known as the 'City of Colors'."},
@@ -4692,7 +4692,7 @@ export const hungaryCities: POI[] = [
   {
     id: "ozd",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.2833, 48.2167],
     name: {"de": "Ózd", "hu": "Ózd", "ro": "Ózd", "en": "Ózd"},
     description: {"de": "Ehemaliges Zentrum der ungarischen Schwerindustrie in Nordungarn.", "hu": "A magyar nehézipar egykori központja Észak-Magyarországon.", "ro": "Fost centru al industriei grele maghiare în nordul Ungariei.", "en": "Former center of Hungarian heavy industry in northern Hungary."},
@@ -4701,7 +4701,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szigliget",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.4333, 46.8],
     name: {"de": "Szigliget", "hu": "Szigliget", "ro": "Szigliget", "en": "Szigliget"},
     description: {"de": "Malerisches Dorf am Nordufer des Plattensees, bekannt für seine Burg.", "hu": "Festői falu a Balaton északi partján, váráról ismert.", "ro": "Sat pitoresc pe malul nordic al Lacului Balaton, cunoscut pentru cetatea sa.", "en": "Picturesque village on the northern shore of Lake Balaton, known for its castle."},
@@ -4710,7 +4710,7 @@ export const hungaryCities: POI[] = [
   {
     id: "herend",
     type: "city",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.8167, 47.1333],
     name: {"de": "Herend", "hu": "Herend", "ro": "Herend", "en": "Herend"},
     image: "/geo-images/hungary/herend.webp",
@@ -4720,7 +4720,7 @@ export const hungaryCities: POI[] = [
   {
     id: "mezokovesd",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.5833, 47.8167],
     name: {"de": "Mezőkövesd", "hu": "Mezőkövesd", "ro": "Mezőkövesd", "en": "Mezőkövesd"},
     description: {"de": "Zentrum der Matyó-Kultur, bekannt für ihre farbenfrohen Stickereien.", "hu": "A matyó kultúra központja, színes hímzéseiről ismert.", "ro": "Centrul culturii Matyó, cunoscut pentru broderiile sale colorate.", "en": "Center of the Matyó culture, known for its colorful embroideries."},
@@ -4729,7 +4729,7 @@ export const hungaryCities: POI[] = [
   {
     id: "hajos",
     type: "city",
-    parent: "bacs-kiskun",
+    parent: "HU-BK",
     coords: [19.1167, 46.4],
     name: {"de": "Hajós", "hu": "Hajós", "ro": "Hajós", "en": "Hajós"},
     image: "/geo-images/hungary/hajos.webp",
@@ -4739,7 +4739,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szentgotthard",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.2833, 46.95],
     name: {"de": "Szentgotthárd", "hu": "Szentgotthárd", "ro": "Szentgotthárd", "en": "Szentgotthárd"},
     description: {"de": "Westlichste Stadt Ungarns an der Grenze zu Österreich.", "hu": "Magyarország legnyugatibb városa az osztrák határnál.", "ro": "Cel mai vestic oraș din Ungaria, la granița cu Austria.", "en": "Hungary's westernmost city at the Austrian border."},
@@ -4748,7 +4748,7 @@ export const hungaryCities: POI[] = [
   {
     id: "lenti",
     type: "city",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [16.5333, 46.6167],
     name: {"de": "Lenti", "hu": "Lenti", "ro": "Lenti", "en": "Lenti"},
     description: {"de": "Stadt im Südwesten, bekannt für ihr Thermalbad und den Energiepark.", "hu": "Délnyugati város, termálfürdőjéről és energiaparkjáról ismert.", "ro": "Oraș în sud-vest, cunoscut pentru baia sa termală și parcul energetic.", "en": "Southwestern city, known for its thermal bath and energy park."},
@@ -4757,7 +4757,7 @@ export const hungaryCities: POI[] = [
   {
     id: "karcag",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.9167, 47.3167],
     name: {"de": "Karcag", "hu": "Karcag", "ro": "Karcag", "en": "Karcag"},
     description: {"de": "Hauptstadt der Region Groß-Kumanien, bewahrt kumanische Traditionen.", "hu": "A Nagykunság fővárosa, a kun hagyományok őrzője.", "ro": "Capitala regiunii Cumania Mare, păstrează tradițiile cumane.", "en": "Capital of the Greater Cumania region, preserving Cuman traditions."},
@@ -4766,7 +4766,7 @@ export const hungaryCities: POI[] = [
   {
     id: "jaszapati",
     type: "city",
-    parent: "jasz-nagykun-szolnok",
+    parent: "HU-JN",
     coords: [20.15, 47.52],
     name: {"de": "Jászapáti", "hu": "Jászapáti", "ro": "Jászapáti", "en": "Jászapáti"},
     description: {"de": "Kleinstadt im Jászság, bekannt für ihr Thermalbad und die barocke Kirche.", "hu": "Jászsági kisváros, termálfürdőjéről és barokk templomáról ismert.", "ro": "Oraș mic în Jászság, cunoscut pentru baia sa termală și biserica barocă.", "en": "Small town in Jászság, known for its thermal bath and Baroque church."},
@@ -4775,7 +4775,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tiszaujvaros",
     type: "city",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.05, 47.93],
     name: {"de": "Tiszaújváros", "hu": "Tiszaújváros", "ro": "Tiszaújváros", "en": "Tiszaújváros"},
     description: {"de": "Moderne Industriestadt an der Theiß, bekannt für Chemie und Sport.", "hu": "Modern iparváros a Tisza partján, vegyiparáról és sportéletéről ismert.", "ro": "Oraș industrial modern pe Tisa, cunoscut pentru industria chimică și sport.", "en": "Modern industrial city on the Tisza, known for chemistry and sports."},
@@ -4784,7 +4784,7 @@ export const hungaryCities: POI[] = [
   {
     id: "komlo",
     type: "city",
-    parent: "baranya",
+    parent: "HU-BA",
     coords: [18.27, 46.19],
     name: {"de": "Komló", "hu": "Komló", "ro": "Komló", "en": "Komló"},
     description: {"de": "Ehemalige Bergbaustadt im Mecsek-Gebirge mit schöner natürlicher Umgebung.", "hu": "Egykori bányászváros a Mecsekben, szép természeti környezettel.", "ro": "Fost oraș minier în munții Mecsek cu împrejurimi naturale frumoase.", "en": "Former mining town in the Mecsek Mountains with beautiful natural surroundings."},
@@ -4793,7 +4793,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szazhalombatta",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.91, 47.32],
     name: {"de": "Százhalombatta", "hu": "Százhalombatta", "ro": "Százhalombatta", "en": "Százhalombatta"},
     description: {"de": "Industriestadt an der Donau, bekannt für ihre Raffinerie und Archäologie.", "hu": "Duna-parti iparváros, finomítójáról és régészeti parkjáról ismert.", "ro": "Oraș industrial pe Dunăre, cunoscut pentru rafinăria sa și parkul arheologic.", "en": "Industrial city on the Danube, known for its refinery and archaeological park."},
@@ -4802,7 +4802,7 @@ export const hungaryCities: POI[] = [
   {
     id: "monor",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.45, 47.35],
     name: {"de": "Monor", "hu": "Monor", "ro": "Monor", "en": "Monor"},
     description: {"de": "Stadt am Rande des Gödöllő-Hügellandes, bekannt für ihr Kellerdorf.", "hu": "Város a Gödöllői-dombság szélén, pincefalujáról ismert.", "ro": "Oraș la poalele dealurilor Gödöllő, cunoscut pentru satul său de crame.", "en": "City at the edge of the Gödöllő Hills, known for its cellar village."},
@@ -4811,7 +4811,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nagykoros",
     type: "city",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.78, 47.03],
     name: {"de": "Nagykőrös", "hu": "Nagykőrös", "ro": "Nagykőrös", "en": "Nagykőrös"},
     description: {"de": "Historische Stadt in der Tiefebene, berühmt für Landwirtschaft und Arany János.", "hu": "Történelmi alföldi város, mezőgazdaságáról és Arany Jánosról híres.", "ro": "Oraș istoric în câmpie, faimos pentru agricultură și Arany János.", "en": "Historic city in the plains, famous for agriculture and Arany János."},
@@ -4820,7 +4820,7 @@ export const hungaryCities: POI[] = [
   {
     id: "marcali",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.41, 46.58],
     name: {"de": "Marcali", "hu": "Marcali", "ro": "Marcali", "en": "Marcali"},
     description: {"de": "Kleinstadt südlich des Plattensees mit einem modernen Thermalbad.", "hu": "Kisváros a Balatontól délre, modern termálfürdővel.", "ro": "Oraș mic la sud de Lacul Balaton, cu o baie termală modernă.", "en": "Small town south of Lake Balaton with a modern thermal bath."},
@@ -4829,7 +4829,7 @@ export const hungaryCities: POI[] = [
   {
     id: "barcs",
     type: "city",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [17.46, 45.96],
     name: {"de": "Barcs", "hu": "Barcs", "ro": "Barcs", "en": "Barcs"},
     description: {"de": "Grenzstadt an der Drau, Tor zum Nationalpark Donau-Drau.", "hu": "Határváros a Dráva partján, a Duna–Dráva Nemzeti Park kapuja.", "ro": "Oraș de graniță pe râul Drava, poarta către Parcul Național Dunăre-Drava.", "en": "Border city on the Drava river, gateway to the Danube-Drava National Park."},
@@ -4838,7 +4838,7 @@ export const hungaryCities: POI[] = [
   {
     id: "celldomolk",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [17.15, 47.25],
     name: {"de": "Celldömölk", "hu": "Celldömölk", "ro": "Celldömölk", "en": "Celldömölk"},
     description: {"de": "Stadt am Fuße des Berges Ság, bekannt für den Wallfahrtsort Kemenesalja.", "hu": "Város a Ság-hegy lábánál, a kemenesaljai búcsújáróhelyről ismert.", "ro": "Oraș la poalele muntelui Ság, cunoscut pentru locul de pelerinaj Kemenesalja.", "en": "City at the foot of Ság Mountain, known for the Kemenesalja pilgrimage site."},
@@ -4847,7 +4847,7 @@ export const hungaryCities: POI[] = [
   {
     id: "kormend",
     type: "city",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.61, 47.01],
     name: {"de": "Körmend", "hu": "Körmend", "ro": "Körmend", "en": "Körmend"},
     description: {"de": "Stadt an der Raab, berühmt für das Schloss Batthyány-Strattmann.", "hu": "Rába-parti város, a Batthyány–Strattmann-kastélyról híres.", "ro": "Oraș pe râul Rába, faimos pentru Castelul Batthyány-Strattmann.", "en": "City on the Rába river, famous for the Batthyány-Strattmann Castle."},
@@ -4856,7 +4856,7 @@ export const hungaryCities: POI[] = [
   {
     id: "jaki-templom",
     type: "landmark",
-    parent: "vas",
+    parent: "HU-VA",
     coords: [16.58, 47.14],
     name: {"de": "Kirche von Ják", "hu": "Jáki templom", "ro": "Biserica din Ják", "en": "Church of Ják"},
     description: {"de": "Meisterwerk der romanischen Architektur in Ungarn mit berühmtem Portal.", "hu": "A magyarországi román stílusú építészet remekműve, híres bélletes kapujával.", "ro": "Capodoperă a arhitecturii romanice din Ungaria cu celebrul său portal.", "en": "A masterpiece of Romanesque architecture in Hungary with its famous portal."},
@@ -4865,7 +4865,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nyirbatori-templom",
     type: "landmark",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [22.13, 47.84],
     name: {"de": "Reformierte Kirche Nyírbátor", "hu": "Nyírbátori református templom", "ro": "Biserica reformată din Nyírbátor", "en": "Nyírbátor Reformed Church"},
     description: {"de": "Spätgotische Hallenkirche mit beeindruckendem Netzgewölbe.", "hu": "Késő gótikus csarnoktemplom lenyűgöző hálóboltozattal.", "ro": "Biserică hală în stil gotic târziu cu o boltă în rețea impresionantă.", "en": "Late Gothic hall church with an impressive net vault."},
@@ -4874,7 +4874,7 @@ export const hungaryCities: POI[] = [
   {
     id: "edelenyi-kastely",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [20.74, 48.30],
     name: {"de": "Schloss Edelény", "hu": "Edelényi kastély", "ro": "Castelul din Edelény", "en": "Edelény Palace"},
     description: {"de": "Eines der größten und prächtigsten Barockschlösser Ungarns.", "hu": "Magyarország egyik legnagyobb és legpompásabb barokk kastélya.", "ro": "Unul dintre cele mai mari și mai splendide castele baroce din Ungaria.", "en": "One of the largest and most magnificent Baroque palaces in Hungary."},
@@ -4883,7 +4883,7 @@ export const hungaryCities: POI[] = [
   {
     id: "csakvari-kastely",
     type: "landmark",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.46, 47.39],
     name: {"de": "Schloss Csákvár", "hu": "Csákvári Esterházy-kastély", "ro": "Castelul Esterházy din Csákvár", "en": "Csákvár Esterházy Palace"},
     description: {"de": "Klassizistisches Schloss der Familie Esterházy im Vértes-Gebirge.", "hu": "Az Esterházy család klasszicista kastélya a Vértes lábánál.", "ro": "Castelul clasicist al familiei Esterházy la poalele munților Vértes.", "en": "Neoclassical palace of the Esterházy family at the foot of the Vértes."},
@@ -4892,7 +4892,7 @@ export const hungaryCities: POI[] = [
   {
     id: "nadasdy-kastely",
     type: "landmark",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.22, 47.21],
     name: {"de": "Schloss Nádasdy", "hu": "Nádasdy-kastély", "ro": "Castelul Nádasdy", "en": "Nádasdy Mansion"},
     description: {"de": "Einzigartiges neugotisches Schloss im Tudor-Stil in Nádasdladány.", "hu": "Egyedülálló neogótikus, Tudor-stílusú kastély Nádasdladányban.", "ro": "Castel neogotic unic în stil Tudor în Nádasdladány.", "en": "Unique Neo-Gothic Tudor-style mansion in Nádasdladány."},
@@ -4901,7 +4901,7 @@ export const hungaryCities: POI[] = [
   {
     id: "deg-kastely",
     type: "landmark",
-    parent: "fejer",
+    parent: "HU-FE",
     coords: [18.44, 46.88],
     name: {"de": "Schloss Dég", "hu": "Dégi Festetics-kastély", "ro": "Castelul Festetics din Dég", "en": "Dég Festetics Palace"},
     description: {"de": "Eines der bedeutendsten klassizistischen Schlösser mit dem größten englischen Garten.", "hu": "Az ország egyik legjelentősebb klasszicista kastélya a legnagyobb angolparkkal.", "ro": "Unul dintre cele mai importante castele clasiciste cu cel mai mare parc englezesc.", "en": "One of the most significant Neoclassical palaces with the largest English garden."},
@@ -4910,7 +4910,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tiszadob-kastely",
     type: "landmark",
-    parent: "szabolcs-szatmar-bereg",
+    parent: "HU-SZ",
     coords: [21.17, 47.92],
     name: {"de": "Schloss Andrássy", "hu": "Tiszadobi Andrássy-kastély", "ro": "Castelul Andrássy din Tiszadob", "en": "Tiszadob Andrássy Castle"},
     description: {"de": "Märchenhaftes historistisches Schloss an der Theiß mit Labyrinth.", "hu": "Mesebeli historizáló kastély a Tisza partján, labirintussal.", "ro": "Castel istoric de basm pe malul Tisei, cu un labirint.", "en": "Fairytale-like Historicist castle on the Tisza with a labyrinth."},
@@ -4919,7 +4919,7 @@ export const hungaryCities: POI[] = [
   {
     id: "fuzerradvany-kastely",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.53, 48.48],
     name: {"de": "Schloss Füzérradvány", "hu": "Füzérradványi Károlyi-kastély", "ro": "Castelul Károlyi din Füzérradvány", "en": "Füzérradvány Károlyi Palace"},
     description: {"de": "Prächtiges Schloss im eklektischen Stil mit riesigem Landschaftspark.", "hu": "Pompás eklektikus kastély hatalmas tájképi kerttel a Zemplénben.", "ro": "Castel splendid în stil eclectic cu un imens parc peisagistic.", "en": "Magnificent eclectic-style palace with a huge landscape park in Zemplén."},
@@ -4928,7 +4928,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szabadkigyos-kastely",
     type: "landmark",
-    parent: "bekes",
+    parent: "HU-BE",
     coords: [21.08, 46.61],
     name: {"de": "Schloss Wenckheim", "hu": "Szabadkígyósi Wenckheim-kastély", "ro": "Castelul Wenckheim din Szabadkígyós", "en": "Szabadkígyós Wenckheim Palace"},
     description: {"de": "Meisterwerk von Miklós Ybl im eklektischen und Neorenaissance-Stil.", "hu": "Ybl Miklós remekműve eklektikus és neoreneszánsz stílusban.", "ro": "Capodoperă a lui Miklós Ybl în stil eclectic și neorenascentist.", "en": "A masterpiece by Miklós Ybl in eclectic and Neo-Renaissance style."},
@@ -4937,7 +4937,7 @@ export const hungaryCities: POI[] = [
   {
     id: "zsambek-romtemplom",
     type: "landmark",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.72, 47.55],
     name: {"de": "Kirchenruine von Zsámbék", "hu": "Zsámbéki romtemplom", "ro": "Biserica ruină din Zsámbék", "en": "Zsámbék Church Ruins"},
     description: {"de": "Beeindruckende Ruine einer spätromanisch-gotischen Basilika.", "hu": "Késő román-kori és gótikus bazilika lenyűgöző romjai.", "ro": "Ruinele impresionante ale unei bazilici în stil romanic târziu și gotic.", "en": "Impressive ruins of a late Romanesque and Gothic basilica."},
@@ -4946,7 +4946,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szentendre-varazshegy",
     type: "landmark",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [19.04, 47.67],
     name: {"de": "Varázsciki Völgy", "hu": "Varázsciki Völgy", "ro": "Varázsciki Völgy", "en": "Varázsciki Valley"},
     description: {"de": "Ein versteckter Märchenpark und Erlebnispfad in Szentendre.", "hu": "Rejtett mesepark és élményösvény Szentendrén.", "ro": "Un parc de basm ascuns și o potecă de aventură în Szentendre.", "en": "A hidden fairytale park and adventure trail in Szentendre."},
@@ -4955,7 +4955,7 @@ export const hungaryCities: POI[] = [
   {
     id: "balatonalmadi-strand",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [18.02, 47.03],
     name: {"de": "Strand Balatonalmádi", "hu": "Balatonalmádi strand", "ro": "Plaja Balatonalmádi", "en": "Balatonalmádi Beach"},
     description: {"de": "Gepflegter Strand am Nordostufer des Plattensees.", "hu": "Gondozott strand a Balaton északkeleti partján.", "ro": "Plajă bine întreținută pe malul de nord-est al Lacului Balaton.", "en": "Well-kept beach on the northeastern shore of Lake Balaton."},
@@ -4964,7 +4964,7 @@ export const hungaryCities: POI[] = [
   {
     id: "keszthely-strand",
     type: "landmark",
-    parent: "zala",
+    parent: "HU-ZA",
     coords: [17.25, 46.76],
     name: {"de": "Städtischer Strand Keszthely", "hu": "Keszthelyi városi strand", "ro": "Plaja municipală Keszthely", "en": "Keszthely City Beach"},
     description: {"de": "Historischer Strand mit dem ikonischen Inselbadgebäude.", "hu": "Történelmi strand az ikonikus Szigetfürdő épületével.", "ro": "Plajă istorică cu clădirea iconică Szigetfürdő.", "en": "Historic beach with the iconic Szigetfürdő island bath building."},
@@ -4973,7 +4973,7 @@ export const hungaryCities: POI[] = [
   {
     id: "siofok-strand",
     type: "landmark",
-    parent: "somogy",
+    parent: "HU-SO",
     coords: [18.05, 46.91],
     name: {"de": "Nagystrand Siófok", "hu": "Siófoki Nagystrand", "ro": "Plaja Mare Siófok", "en": "Siófok Great Beach"},
     description: {"de": "Größter und belebtester Strand am Südufer mit Clubatmosphäre.", "hu": "A déli part legnagyobb és legpezsgőbb strandja klubhangulattal.", "ro": "Cea mai mare și mai animată plajă de pe malul sudic.", "en": "The largest and busiest beach on the southern shore with a club atmosphere."},
@@ -4982,7 +4982,7 @@ export const hungaryCities: POI[] = [
   {
     id: "gyor-gyerekvonat",
     type: "landmark",
-    parent: "gyor-moson-sopron",
+    parent: "HU-GS",
     coords: [17.63, 47.68],
     name: {"de": "Kindereisenbahn Győr", "hu": "Győri gyerekvonat", "ro": "Trenulețul copiilor din Győr", "en": "Győr Children's Train"},
     description: {"de": "Kleine Parkeisenbahn, ein Favorit für Familien in Győr.", "hu": "Győri kerti vasút, a családok kedvence a püspökvári kertben.", "ro": "Trenuleț de parc, un favorit al familiilor din Győr.", "en": "Small park railway, a favorite for families in Győr."},
@@ -4991,7 +4991,7 @@ export const hungaryCities: POI[] = [
   {
     id: "budakeszi-vadaspark",
     type: "landmark",
-    parent: "pest",
+    parent: "HU-PE",
     coords: [18.91, 47.51],
     name: {"de": "Wildpark Budakeszi", "hu": "Budakeszi Vadaspark", "ro": "Parcul de animale sălbatice Budakeszi", "en": "Budakeszi Wildlife Park"},
     description: {"de": "Wildpark in der Nähe von Budapest mit einheimischen Tierarten.", "hu": "Budapest közeli vadaspark őshonos állatfajokkal.", "ro": "Parc de animale sălbatice lângă Budapesta cu specii native.", "en": "Wildlife park near Budapest featuring native species."},
@@ -5000,7 +5000,7 @@ export const hungaryCities: POI[] = [
   {
     id: "veszpremi-allatkert",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.89, 47.10],
     name: {"de": "Zoo Veszprém", "hu": "Veszprémi Állatkert", "ro": "Grădina Zoologică Veszprém", "en": "Veszprém Zoo"},
     description: {"de": "Einer der schönsten Zoos Ungarns mit weiten Gehegen und Dinopark.", "hu": "Az ország egyik legszebb állatkertje tágas kifutókkal és dinóparkkal.", "ro": "Una dintre cele mai frumoase grădini zoologice din Ungaria cu parc de dinozauri.", "en": "One of the most beautiful zoos in Hungary with spacious enclosures and a dino park."},
@@ -5009,7 +5009,7 @@ export const hungaryCities: POI[] = [
   {
     id: "szegedi-vadaspark",
     type: "landmark",
-    parent: "csongrad-csanad",
+    parent: "HU-CS",
     coords: [20.12, 46.25],
     name: {"de": "Wildpark Szeged", "hu": "Szegedi Vadaspark", "ro": "Grădina Zoologică Seghedin", "en": "Szeged Wildlife Park"},
     description: {"de": "Großflächiger Tierpark, der sich auf den Schutz seltener Arten konzentriert.", "hu": "Nagy területű állatpark, amely ritka fajok védelmére összpontosít.", "ro": "Parc zoologic întins, concentrat pe protecția speciilor rare.", "en": "Large-scale wildlife park focused on the protection of rare species."},
@@ -5018,7 +5018,7 @@ export const hungaryCities: POI[] = [
   {
     id: "tihany-levendulamezo",
     type: "landmark",
-    parent: "veszprem",
+    parent: "HU-VE",
     coords: [17.88, 46.91],
     name: {"de": "Lavendelfelder Tihany", "hu": "Tihanyi levendulamező", "ro": "Câmpurile de lavandă din Tihany", "en": "Tihany Lavender Fields"},
     description: {"de": "Wunderschöne Lavendelfelder, die die Halbinsel Tihany im Juni lila färben.", "hu": "Gyönyörű levendulamezők, melyek júniusban lilára festik a félszigetet.", "ro": "Câmpuri superbe de lavandă care colorează peninsula în violet în iunie.", "en": "Beautiful lavender fields that turn the peninsula purple in June."},
@@ -5027,7 +5027,7 @@ export const hungaryCities: POI[] = [
   {
     id: "megyer-hegyi-tengerszem",
     type: "landmark",
-    parent: "borsod-abauj-zemplen",
+    parent: "HU-BZ",
     coords: [21.57, 48.34],
     name: {"de": "Megyer-hegy Meerauge", "hu": "Megyer-hegyi tengerszem", "ro": "Ochiul de mare de pe muntele Megyer", "en": "Megyer-hegy Tarn"},
     description: {"de": "Eindrucksvoller Bergsee in einem ehemaligen Mühlsteinbruch.", "hu": "Lenyűgöző tó egy egykori malomkőbánya helyén.", "ro": "Lac montan impresionant în locul unei foste cariere de pietre de moară.", "en": "Impressive mountain lake in a former millstone quarry."},
