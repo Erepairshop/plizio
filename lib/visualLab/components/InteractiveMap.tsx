@@ -689,7 +689,7 @@ export const InteractiveMap = ({
                 const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
-                const baseR = isSimplified ? 12 : 9;
+                const baseR = isSimplified ? 15 : 12;
                 // konstans screen-pixel meret minden zoom szinten (nem no, nem kisebbedik)
                 const r = (isSel ? baseR + 2 : baseR) / view.scale;
                 // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
@@ -1281,7 +1281,7 @@ function SubRegionView({
                       const baseFont = p.type === "state-capital" ? 17 : 14;
                       // konstans screen-pixel meret minden zoom szinten (nem no, nem kisebbedik)
                       const fontSize = baseFont / pz.view.scale;
-                      const r = 7 / pz.view.scale;
+                      const r = 11 / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
                       // Mobile-friendly: minimum hit-radius 14px (CSS px), regardless of zoom.
                       const hitR = Math.max(14 / pz.view.scale, r * 3);
