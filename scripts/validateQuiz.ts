@@ -44,7 +44,7 @@ const QuizTaskSchema = z.object({
 
 function collectAllPoiFiles() {
   const dataDir = join(repoRoot, "lib/visualLab/data");
-  const files = readdirSync(dataDir).filter((f) => (f.endsWith("Poi.ts") || f === "poi.ts"));
+  const files = readdirSync(dataDir).filter((f) => (f.endsWith("Poi.ts") || f.startsWith("poi") && f.endsWith(".ts")));
   return files.map((f) => join(dataDir, f));
 }
 
@@ -98,20 +98,25 @@ function isOrdered(values, dir) {
 
 async function loadQuizTasks() {
   const dataDir = join(repoRoot, "lib/visualLab/quiz/data");
-  const files = readdirSync(dataDir).filter((f) => f.endsWith("Quiz.ts"));
+  const topFiles = readdirSync(dataDir).filter((f) => f.endsWith("Quiz.ts")).map((f) => join(dataDir, f));
+  // Includes country-subdirs (e.g. data/de/byQuiz.ts) for Bundesland-szintu kvizek
+  const subdirs = readdirSync(dataDir, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
+  const subFiles: string[] = [];
+  for (const sd of subdirs) {
+    const subDir = join(dataDir, sd);
+    for (const f of readdirSync(subDir).filter((f) => f.endsWith("Quiz.ts"))) {
+      subFiles.push(join(subDir, f));
+    }
+  }
+  const allFiles = [...topFiles, ...subFiles];
   const results = [];
-  for (const f of files) {
-    // crude: pull the array literal body and eval-ish via regex → this is brittle;
-    // but we just need field-level inspection, not runtime values. Strategy: extract
-    // each object literal between balanced braces, then convert to JSON-like and parse via JSON5-style.
-    // For now, use a TS->JS transpile via esbuild or a simpler JSON5 parse.
-    // Simpler approach: use dynamic import with ?ts→ no. Use tsx/ts-node? Too heavy.
-    // Workaround: parse via node's --experimental-strip-types OR shell out to tsx.
-    const full = join(dataDir, f);
+  for (const full of allFiles) {
+    const f = full.replace(dataDir, "").replace(/\\/g, "/").replace(/^\//, "");
     try {
       const mod = await import(`file://${full.replace(/\\/g, "/")}`);
-      const exportName = Object.keys(mod).find((k) => k.toLowerCase().includes("quiztasks"));
-      if (exportName && Array.isArray(mod[exportName])) {
+      // Accept exports ending with "Quiz", "QuizTasks" (any case) and arrays
+      const arrays = Object.keys(mod).filter((k) => Array.isArray(mod[k]));
+      for (const exportName of arrays) {
         for (const t of mod[exportName]) {
           results.push({ file: f, task: t });
         }

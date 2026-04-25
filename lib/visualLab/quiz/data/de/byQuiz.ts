@@ -47,7 +47,7 @@ export const byQuiz: QuizTask[] = [
       en: "How far is it from Burg Trausnitz to Schloss Nymphenburg?"
     },
     targetPoiId: "landmark-burg-trausnitz",
-    targetPoiId2: "industry-ingolstadt",
+    targetPoiId2: "landmark-nymphenburg-extra",
     expectedKm: 63
   },
   {

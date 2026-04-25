@@ -138,7 +138,7 @@ const QT: Record<Lang, Record<string, string>> = {
     distanceResult: "Gemessene Entfernung",
     km: "km",
     expectedKm: "Erwartete Entfernung",
-    tolerance: "±15%",
+    tolerance: "±25%",
   },
   hu: {
     quiz: "Térkép-kvíz",
@@ -159,7 +159,7 @@ const QT: Record<Lang, Record<string, string>> = {
     distanceResult: "Mért távolság",
     km: "km",
     expectedKm: "Elvárt távolság",
-    tolerance: "±15%",
+    tolerance: "±25%",
   },
   ro: {
     quiz: "Quiz harta",
@@ -180,7 +180,7 @@ const QT: Record<Lang, Record<string, string>> = {
     distanceResult: "Distanța măsurată",
     km: "km",
     expectedKm: "Distanța așteptată",
-    tolerance: "±15%",
+    tolerance: "±25%",
   },
   en: {
     quiz: "Map Quiz",
@@ -201,7 +201,7 @@ const QT: Record<Lang, Record<string, string>> = {
     distanceResult: "Measured distance",
     km: "km",
     expectedKm: "Expected distance",
-    tolerance: "±15%",
+    tolerance: "±25%",
   },
 };
 
