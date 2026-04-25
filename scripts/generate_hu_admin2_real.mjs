@@ -37,13 +37,14 @@ const HU_NAMES_4LANG = {
   "HU-ZA": { de: "Komitat Zala", hu: "Zala", ro: "Zala", en: "Zala" },
 };
 
-// City-county (megyei jogu varos) -> megye merge map (verified ISO 3166-2:HU)
+// City-county (megyei jogu varos) -> megye merge map
+// Codes are NATURAL EARTH codes (NOT exactly ISO 3166-2)
 const CITY_TO_MEGYE = {
   "HU-BC": "HU-BE",  // Bekescsaba -> Bekes
   "HU-DE": "HU-HB",  // Debrecen -> Hajdu-Bihar
   "HU-DU": "HU-FE",  // Dunaujvaros -> Fejer
+  "HU-ED": "HU-PE",  // Erd -> Pest
   "HU-EG": "HU-HE",  // Eger -> Heves
-  "HU-ER": "HU-PE",  // Erd -> Pest
   "HU-GY": "HU-GS",  // Gyor -> Gyor-Moson-Sopron
   "HU-HV": "HU-CS",  // Hodmezovasarhely -> Csongrad
   "HU-KM": "HU-BK",  // Kecskemet -> Bacs-Kiskun
@@ -54,15 +55,14 @@ const CITY_TO_MEGYE = {
   "HU-PS": "HU-BA",  // Pecs -> Baranya
   "HU-SD": "HU-CS",  // Szeged -> Csongrad
   "HU-SF": "HU-FE",  // Szekesfehervar -> Fejer
-  "HU-SH": "HU-GS",  // Sopron -> Gyor-Moson-Sopron
+  "HU-SH": "HU-VA",  // Szombathely (NOT Sopron!) -> Vas
   "HU-SK": "HU-JN",  // Szolnok -> Jasz-Nagykun
-  "HU-SN": "HU-NO",  // Salgotarjan -> Nograd
+  "HU-SN": "HU-GS",  // Sopron (NE-ben SN, nem SH!) -> Gyor-Moson-Sopron
   "HU-SS": "HU-TO",  // Szekszard -> Tolna
+  "HU-ST": "HU-NO",  // Salgotarjan -> Nograd
   "HU-TB": "HU-KE",  // Tatabanya -> Komarom-Esztergom
   "HU-VM": "HU-VE",  // Veszprem city -> Veszprem
   "HU-ZE": "HU-ZA",  // Zalaegerszeg -> Zala
-  "HU-ED": "HU-KE",  // Esztergom -> Komarom-Esztergom (fallback)
-  "HU-ST": "HU-BZ",  // Salfold/etc -> Borsod (fallback)
 };
 
 const data = JSON.parse(fs.readFileSync(NE_FILE, "utf8"));
