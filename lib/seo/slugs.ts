@@ -272,7 +272,16 @@ export function countrySlugFor(lang: Lang, countryId: string = "germany") {
   return COUNTRY_SLUGS[countryId]?.[lang] ?? COUNTRY_SLUGS.germany[lang];
 }
 
+// HU: POI parent is "HU-XX" (ISO), but the URL slug is the legacy region.id (pl. "budapest", "pest")
+const HU_PARENT_TO_SLUG = new Map<string, string>(
+  hungaryRegions.filter(r => r.parent?.startsWith("HU-")).map(r => [r.parent!, r.id])
+);
+
 export function stateSlugFor(stateId: string, lang: Lang) {
+  if (stateId.startsWith("HU-")) {
+    const slug = HU_PARENT_TO_SLUG.get(stateId);
+    if (slug) return slug;
+  }
   return STATE_SLUGS[stateId]?.[lang] ?? slugify(REGION_BY_ID.get(stateId)?.name[lang] || REGION_BY_ID.get(stateId)?.name.de || stateId);
 }
 
