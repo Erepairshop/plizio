@@ -1,4 +1,5 @@
 // Auto-generated per-county detail data for Romania
+import { roAdmin2Map } from "./romaniaAdmin2.svg";
 // Each county = own zoomed viewBox + projection + its own path
 // Matches the shape of bundeslandSubregions.ts for InteractiveMap compatibility
 
@@ -1002,3 +1003,10 @@ export const romaniaJudetSubregions: Record<string, JudetDetail> = {
     ]
   }
 };
+
+// Merge dummy Admin-2 paths into children
+for (const [judetId, detail] of Object.entries(romaniaJudetSubregions)) {
+  if (roAdmin2Map[judetId]) {
+    detail.children = roAdmin2Map[judetId] as any;
+  }
+}

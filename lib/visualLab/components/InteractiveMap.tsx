@@ -1175,7 +1175,7 @@ function SubRegionView({
                       fontWeight={selected === c.id ? 700 : 500}
                       style={{ paintOrder: "stroke", stroke: "#020408", strokeWidth: 3 / pz.view.scale, strokeOpacity: 0.7 }}
                     >
-                      {c.name}
+                      {typeof c.name === "object" ? c.name[displayLang] ?? c.name.en ?? c.name.de : c.name}
                     </text>
                   ))}
                 </g>
