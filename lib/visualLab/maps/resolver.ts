@@ -10,6 +10,11 @@ import { polandMap, polandViewBox, projectCoordsPL } from "./poland.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { hungarySubregions } from "./hungarySubregions";
+import { polandSubregions } from "./polandSubregions";
+import { austriaSubregions } from "./austriaSubregions";
+import { spainSubregions } from "./spainSubregions";
+import { franceSubregions } from "./franceSubregions";
+import { italySubregions } from "./italySubregions";
 import { pois as deutschlandPoisBase } from "../data/poi";
 import { poiExtraDe1 } from "../data/poiExtraDe1";
 import { poiExtraDe2 } from "../data/poiExtraDe2";
@@ -57,6 +62,7 @@ import { norwayAllPoi } from "../data/norwayPoi";
 import { finlandMap, finlandViewBox, projectCoordsFI } from "./finland.svg";
 import { finlandAllPoi } from "../data/finlandPoi";
 import { switzerlandMap, switzerlandViewBox, projectCoordsCH } from "./switzerland.svg";
+import { switzerlandSubregions } from "./switzerlandSubregions";
 import { switzerlandAllPoi } from "../data/switzerlandPoi";
 import { czechRepublicMap, czechRepublicViewBox, projectCoordsCZ } from "./czechRepublic.svg";
 import { czechRepublicAllPoi } from "../data/czechRepublicPoi";
@@ -273,7 +279,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: polandViewBox,
         projectCoords: projectCoordsPL,
         pois: polandAllPoi,
-        subregions: [],
+        subregions: polandSubregions,
       };
     case "es":
       return {
@@ -282,7 +288,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: spainViewBox,
         projectCoords: projectCoordsES,
         pois: spainAllPoi,
-        subregions: {}, // No specific subregions map for now
+        subregions: spainSubregions,
       };
     case "fr":
       return {
@@ -291,7 +297,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: franceViewBox,
         projectCoords: projectCoordsFR,
         pois: franceAllPoi,
-        subregions: {}, // No specific subregions map for now
+        subregions: franceSubregions,
       };
     case "it":
       return {
@@ -300,7 +306,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: italyViewBox,
         projectCoords: projectCoordsIT,
         pois: italyAllPoi,
-        subregions: [],
+        subregions: italySubregions,
       };
     case "en":
     case "gb":
@@ -328,7 +334,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: austriaViewBox,
         projectCoords: projectCoordsAT,
         pois: austriaAllPoi,
-        subregions: {}, // No specific subregions map for now
+        subregions: austriaSubregions,
       };
     case "be":
       return {
@@ -409,7 +415,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: switzerlandViewBox,
         projectCoords: projectCoordsCH,
         pois: switzerlandAllPoi,
-        subregions: {},
+        subregions: switzerlandSubregions,
       };
     case "cz":
       return {
