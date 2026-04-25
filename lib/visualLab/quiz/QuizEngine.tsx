@@ -322,7 +322,7 @@ export function useQuizEngine({
             );
             const expected = task.expectedKm ?? 0;
             // Helyes csak ha mindket POI a celpontja ÉS a tavolsag a tureshatáron belul
-            const correct = isOtherTarget && expected > 0 && Math.abs(km - expected) <= expected * 0.15;
+            const correct = isOtherTarget && expected > 0 && Math.abs(km - expected) <= expected * 0.25;
             advanceScore(correct);
             return { ...prev, phase: "answered", distancePoiB: poi, result: { correct } };
           }
