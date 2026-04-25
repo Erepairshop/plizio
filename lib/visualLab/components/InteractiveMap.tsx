@@ -1114,6 +1114,34 @@ function SubRegionView({
         </button>
       </header>
 
+      {/* Mode tabs: Browse / Ruler / Quiz (placeholder — works only in browse for now) */}
+      <div className="flex justify-center px-4 pt-2 pb-1">
+        <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm">
+          {(["browse", "ruler", "quiz"] as const).map((mode) => {
+            const active = mode === "browse"; // for now only browse is functional
+            const Icon = mode === "ruler" ? Ruler : mode === "quiz" ? Brain : MapIcon;
+            const labels: Record<typeof mode, Record<Lang, string>> = {
+              browse: { de: "Erkunden", hu: "Böngészés", ro: "Explorare", en: "Browse" },
+              ruler:  { de: "Entfernung", hu: "Távolság", ro: "Distanță", en: "Ruler" },
+              quiz:   { de: "Quiz", hu: "Kvíz", ro: "Quiz", en: "Quiz" },
+            };
+            return (
+              <button
+                key={mode}
+                disabled={mode !== "browse"}
+                onClick={() => {/* TODO: enable ruler+quiz on admin-2 */}}
+                className={`flex items-center gap-1.5 px-3 py-1 rounded-full transition text-xs
+                  ${active ? "bg-cyan-500/30 text-cyan-100" : "text-cyan-200/40 hover:text-cyan-200/60 cursor-not-allowed opacity-60"}`}
+                title={mode !== "browse" ? "Coming soon" : ""}
+              >
+                <Icon size={13} />
+                <span>{labels[mode][displayLang]}</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
       {/* Layer filter chips — same as country-level browse */}
       <div className="flex justify-center px-4 pt-2">
         <div className="inline-flex gap-1 bg-[#0A1929]/80 border border-cyan-400/25 rounded-full px-1 py-1 backdrop-blur-sm overflow-x-auto max-w-full">
