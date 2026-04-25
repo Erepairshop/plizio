@@ -158,15 +158,30 @@ export const InteractiveMap = ({
 
   const [hovered, setHovered] = useState<string | null>(null);
   const [selected, setSelected] = useState<BundeslandPath | null>(null);
-  const [selectedPoiId, setSelectedPoiId] = useState<string | null>(initPoiId);
-  const [detailFor, setDetailFor] = useState<string | null>(initState);
+  // SSR-safe: alap-default-ok eloszor, URL-bol patch csak mount utan (hydration mismatch elkerulese)
+  const [selectedPoiId, setSelectedPoiId] = useState<string | null>(initialPoiId ?? null);
+  const [detailFor, setDetailFor] = useState<string | null>(null);
   const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
-  const [layer, setLayer] = useState<Layer>(initLayer);
-  const [period, setPeriod] = useState<HistoryPeriod>(initPeriod);
-  // SSR-safe: ures keszlet eloszor, localStorage csak mount utan (hydration mismatch elkerulese)
+  const [layer, setLayer] = useState<Layer>((DEFAULT_LAYER_BY_SUBJECT[subject] ?? "all") as Layer);
+  const [period, setPeriod] = useState<HistoryPeriod>("all");
   const [favorites, setFavorites] = useState<Set<string>>(() => new Set<string>());
-  useEffect(() => { setFavorites(readFavs()); }, []);
-  const [onlyFavorites, setOnlyFavorites] = useState<boolean>(initFavOnly);
+  const [onlyFavorites, setOnlyFavorites] = useState<boolean>(false);
+  useEffect(() => {
+    // Mount utan: localStorage + URL-params
+    setFavorites(readFavs());
+    if (searchParams) {
+      const layerV = searchParams.get("layer");
+      if (layerV && VALID_LAYERS.has(layerV)) setLayer(layerV as Layer);
+      const periodV = searchParams.get("period");
+      if (periodV && VALID_PERIODS.has(periodV)) setPeriod(periodV as HistoryPeriod);
+      const poiV = searchParams.get("poi");
+      if (poiV) setSelectedPoiId(poiV);
+      const stateV = searchParams.get("state");
+      if (stateV) setDetailFor(stateV);
+      if (searchParams.get("fav") === "1") setOnlyFavorites(true);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   // ---- Map mode (browse / ruler / quiz) ------------------------------------
   const [mapMode, setMapMode] = useState<"browse" | "ruler" | "quiz">("browse");
