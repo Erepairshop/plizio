@@ -163,7 +163,9 @@ export const InteractiveMap = ({
   const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
   const [layer, setLayer] = useState<Layer>(initLayer);
   const [period, setPeriod] = useState<HistoryPeriod>(initPeriod);
-  const [favorites, setFavorites] = useState<Set<string>>(() => readFavs());
+  // SSR-safe: ures keszlet eloszor, localStorage csak mount utan (hydration mismatch elkerulese)
+  const [favorites, setFavorites] = useState<Set<string>>(() => new Set<string>());
+  useEffect(() => { setFavorites(readFavs()); }, []);
   const [onlyFavorites, setOnlyFavorites] = useState<boolean>(initFavOnly);
 
   // ---- Map mode (browse / ruler / quiz) ------------------------------------
