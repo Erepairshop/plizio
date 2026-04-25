@@ -112,17 +112,27 @@ export function usePanZoom({ viewBox, minScale = 1, maxScale = 6 }: Options) {
     onPointerUp: (e) => {
       pointers.current.delete(e.pointerId);
       if (pointers.current.size < 2) lastPinch.current = null;
-      if (pointers.current.size === 0) lastPan.current = null;
+      if (pointers.current.size === 0) {
+        lastPan.current = null;
+        // Drag-flag rovid kesleltetessel reseteljuk, hogy a kovetkezo POI-tap kattinthato legyen
+        setTimeout(() => { dragged.current = false; }, 80);
+      }
     },
     onPointerCancel: (e) => {
       pointers.current.delete(e.pointerId);
       if (pointers.current.size < 2) lastPinch.current = null;
-      if (pointers.current.size === 0) lastPan.current = null;
+      if (pointers.current.size === 0) {
+        lastPan.current = null;
+        setTimeout(() => { dragged.current = false; }, 80);
+      }
     },
     onPointerLeave: (e) => {
       pointers.current.delete(e.pointerId);
       if (pointers.current.size < 2) lastPinch.current = null;
-      if (pointers.current.size === 0) lastPan.current = null;
+      if (pointers.current.size === 0) {
+        lastPan.current = null;
+        setTimeout(() => { dragged.current = false; }, 80);
+      }
     },
   };
 

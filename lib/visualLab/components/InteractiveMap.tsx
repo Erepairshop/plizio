@@ -413,7 +413,11 @@ export const InteractiveMap = ({
   const onPointerUp = (e: RPointerEvent<SVGSVGElement>) => {
     pointers.current.delete(e.pointerId);
     if (pointers.current.size < 2) lastPinch.current = null;
-    if (pointers.current.size === 0) lastPan.current = null;
+    if (pointers.current.size === 0) {
+      lastPan.current = null;
+      // Drag-flag rovid kesleltetessel reseteljuk, hogy a kovetkezo POI-tap kattinthato legyen
+      setTimeout(() => { dragged.current = false; }, 80);
+    }
   };
 
   const handleRegionClick = useCallback(
