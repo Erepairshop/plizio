@@ -28,7 +28,7 @@ function addK5PracticeTopics(
   labels: Record<string, Record<string, string>>,
   pool: PoolTopicDef[],
   theme: L10n,
-  summary?: { qa: L10n; qb: L10n; qc: L10n; qd: L10n }
+  summary: { qa: L10n; qb: L10n; qc: L10n; qd: L10n }
 ): void {
   const topics: K5PracticeTopic[] = [
     {
@@ -160,10 +160,10 @@ function addK5PracticeTopics(
       h1: L("Denke an Körper, Funktion und Umwelt.", "Think of body, function, and environment.", "Gondolj a testre, működésre és környezetre.", "Gândește-te la corp, funcție și mediu."),
       h2: L("Nutze die wichtigsten Begriffe.", "Use the core terms.", "Használd a legfontosabb fogalmakat.", "Folosește termenii-cheie."),
       q: L(`Welche Zusammenfassung zu ${theme.de} ist korrekt?`, `Which summary about ${theme.en} is correct?`, `Melyik összefoglalás helyes a(z) ${theme.hu} témáról?`, `Care rezumat despre ${theme.ro} este corect?`),
-      qa: summary ? summary.qa : L("Zusammenfassung A", "Summary A", "A összefoglalás", "Rezumatul A"),
-      qb: summary ? summary.qb : L("Zusammenfassung B", "Summary B", "B összefoglalás", "Rezumatul B"),
-      qc: summary ? summary.qc : L("Zusammenfassung C", "Summary C", "C összefoglalás", "Rezumatul C"),
-      qd: summary ? summary.qd : L("Zusammenfassung D", "Summary D", "D összefoglalás", "Rezumatul D"),
+      qa: summary.qa,
+      qb: summary.qb,
+      qc: summary.qc,
+      qd: summary.qd,
       icon: "🏁",
       color: "#DC2626",
       interactive: (p) => ({
