@@ -22,7 +22,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Raffinerie Petrobrazi, südlich von Ploiești gelegen, ist eine der bedeutendsten Säulen der rumänischen Energiewirtschaft. Als Teil der OMV Petrom Gruppe blickt der Standort auf eine lange Tradition zurück und wurde in den letzten Jahren umfassend modernisiert, um höchsten europäischen Umwelt- und Effizienzstandards zu entsprechen. Mit einer Verarbeitungskapazität von mehreren Millionen Tonnen Rohöl pro Jahr sichert die Anlage die Versorgung des Landes mit hochwertigen Kraftstoffen und chemischen Grundstoffen. Strategisch günstig an wichtigen Transportwegen gelegen, spielt Petrobrazi eine Schlüsselrolle für den gesamten Balkanraum. Die kontinuierlichen Investitionen in grüne Technologien und CO2-Reduktion unterstreichen das Engagement für eine nachhaltige industrielle Zukunft Rumäniens, während der Standort gleichzeitig Tausende von qualifizierten Arbeitsplätzen in der Region Prahova sichert und die lokale Wirtschaft maßgeblich stützt.",
-      hu: "",
+      hu: "A Petrobrazi finomító, amely Ploiești-től délre található, a román energiaipar egyik legfontosabb oszlopa. Az OMV Petrom csoport részeként a létesítmény hosszú múltra tekint vissza, és az elmúlt években jelentős modernizáción esett át, hogy megfeleljen a legmagasabb európai környezetvédelmi és hatékonysági előírásoknak. Évente több millió tonna nyersolaj feldolgozási kapacitásával az üzem biztosítja az ország kiváló minőségű üzemanyagokkal és vegyipari alapanyagokkal való ellátását. Stratégiailag előnyös elhelyezkedése a fontos szállítási útvonalak mentén kulcsszerepet biztosít számára az egész balkáni régióban. A zöld technológiákba és a szén-dioxid-kibocsátás csökkentésébe történő folyamatos beruházások hangsúlyozzák Románia fenntartható ipari jövője iránti elkötelezettségét, miközben a telephely több ezer szakképzett munkahelyet biztosít Prahova megyében.",
       ro: "",
       en: ""
     },
@@ -37,7 +37,7 @@ export const poiExtraRo2: POI[] = [
         "Der Betrieb erfüllt strenge EU-Umweltnormen zur Emissionskontrolle.",
         "Die Anlage ist ein zentraler Wirtschaftsfaktor für den Kreis Prahova."
       ],
-      hu: [],
+      hu: ["A Petrobrazi Délkelet-Európa egyik legmodernebb kőolajfinomítója.", "A létesítmény többségi tulajdonosa az OMV Petrom csoport.", "Évente körülbelül 4,5 millió tonna nyersolajat dolgoznak fel itt.", "A finomító a benzin, gázolaj és repülőgép-üzemanyag egyik fő előállítója.", "Jelentős beruházások történtek a kéntelenítő berendezések és a hatékonyság növelése érdekében.", "A Petrobrazi saját vasúti és csővezetéki összeköttetéssel rendelkezik.", "Az üzem megfelel a szigorú uniós környezetvédelmi normáknak a kibocsátás-ellenőrzés terén.", "A létesítmény Prahova megye központi gazdasági tényezője."],
       ro: [],
       en: []
     }
@@ -63,7 +63,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Hafen Constanța Süd am Schwarzen Meer ist der bedeutendste Seehafen Rumäniens und einer der größten Logistik-Hubs in ganz Europa. Durch seine strategische Lage am östlichen Ende des Paneuropäischen Transportkorridors VII (Donau-Main-Rhein) fungiert er als entscheidendes Bindeglied zwischen Zentralasien, dem Fernen Osten und dem europäischen Kontinent. Der Hafen ist für die Abwicklung massiver Güterströme, insbesondere im Bereich Containerverkehr, Getreide- und Energieexporte, ausgelegt. Mit tiefen Fahrrinnen, die selbst größten Schiffstypen den Zugang ermöglichen, bietet Constanța Süd eine hochmoderne Infrastruktur für den internationalen Welthandel. Die stetige Erweiterung der Terminals und die Anbindung an das Schienen- und Autobahnnetz machen den Standort zu einem Motor für die wirtschaftliche Entwicklung der gesamten Region Dobrudscha und stärken Rumäniens Position als maritime Großmacht am Schwarzen Meer.",
-      hu: "",
+      hu: "A Fekete-tenger partján fekvő Konstancai déli kikötő Románia legfontosabb tengeri kikötője és Európa egyik legnagyobb logisztikai központja. Stratégiai elhelyezkedése a VII. páneurópai folyosó (Duna-Majna-Rajna) keleti végén döntő kapocsként szolgál Közép-Ázsia, a Távol-Kelet és az európai kontinens között. A kikötőt hatalmas áruforgalom, különösen a konténeres szállítás, a gabona- és az energiaexport kezelésére tervezték. Mélyvízi csatornáival, amelyek a legnagyobb hajótípusok számára is hozzáférést biztosítanak, Konstanca-Dél ultramodern infrastruktúrát kínál a nemzetközi világkereskedelem számára. A terminálok folyamatos bővítése, valamint a vasúti és autópálya-hálózathoz való csatlakozás a teljes Dobrudzsa régió gazdasági fejlődésének motorjává teszi, erősítve Románia tengeri nagyhatalmi pozícióját.",
       ro: "",
       en: ""
     },
@@ -78,7 +78,7 @@ export const poiExtraRo2: POI[] = [
         "Ständige Erweiterungen sichern die Abwicklung wachsender Handelsvolumen.",
         "Der Standort ist als Freihandelszone mit besonderen Zollvorteilen eingestuft."
       ],
-      hu: [],
+      hu: ["Konstanca-Dél a Fekete-tenger legmélyebb és legnagyobb kikötője.", "Az Ázsia és Európa közötti tengeri kereskedelem kapuját alkotja.", "A kikötő specializált terminálokkal rendelkezik konténerek, olaj és szén számára.", "A Duna-Fekete-tenger csatornához való közvetlen csatlakozás lehetővé teszi a belvízi hajózást.", "A modern logisztikai központok hatalmas raktárkapacitást kínálnak a tranzitáruk számára.", "A kikötő a mezőgazdasági termékek fontos átrakodóhelye.", "A folyamatos bővítések biztosítják a növekvő kereskedelmi volumen kezelését.", "A helyszín különleges vámszabályokkal rendelkező szabadkereskedelmi övezetnek minősül."],
       ro: [],
       en: []
     }
@@ -104,7 +104,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Dacia-Werk in Mioveni bei Pitești ist das pulsierende Herz der rumänischen Automobilindustrie und ein Symbol für den erfolgreichen industriellen Wandel des Landes. Als Hauptproduktionsstätte der Marke Dacia, die heute zum Renault-Konzern gehört, werden hier weltweit gefragte Modelle wie der Dacia Duster und Logan gefertigt. Die Fabrik ist eine der größten und effizientesten Industrieanlagen in Südosteuropa und vereint alle Schritte der Fahrzeugherstellung unter einem Dach – von der Presserei über den Karosseriebau bis hin zur Endmontage und Motorenfertigung. Mit einer beeindruckenden Exportquote in über 40 Länder leistet das Werk einen massiven Beitrag zum rumänischen Bruttoinlandsprodukt. Durch den Einsatz modernster Robotertechnik und kontinuierliche Prozessoptimierung hat sich Mioveni zu einem globalen Referenzzentrum für erschwingliche und robuste Mobilität entwickelt, das gleichzeitig Tausende hochqualifizierte Arbeitsplätze sichert.",
-      hu: "",
+      hu: "A Pitești melletti Mioveniben található Dacia gyár a román autóipar lüktető szíve és az ország sikeres ipari átalakulásának szimbóluma. A ma már a Renault-csoporthoz tartozó Dacia márka fő gyártóbázisaként itt készülnek a világszerte keresett modellek, mint például a Dacia Duster és a Logan. A gyár Délkelet-Európa egyik legnagyobb és leghatékonyabb ipari létesítménye, amely a járműgyártás minden lépését egy fedél alatt egyesíti – a présüzemtől és a karosszériaépítéstől kezdve a végső összeszerelésig és a motorgyártásig. Több mint 40 országba irányuló lenyűgöző exportarányával a gyár jelentős mértékben hozzájárul a román bruttó hazai termékhez. A legmodernebb robottechnika alkalmazásával és a folyamatos optimalizálással Mioveni a megfizethető és robusztus mobilitás globális referencia-központjává vált.",
       ro: "",
       en: ""
     },
@@ -119,7 +119,7 @@ export const poiExtraRo2: POI[] = [
         "Das Werk ist einer der bedeutendsten Arbeitgeber in der Region Argeș.",
         "Nachhaltigkeit spielt eine wachsende Rolle in der Energieversorgung der Anlage."
       ],
-      hu: [],
+      hu: ["A mioveni gyár Románia legnagyobb ipari vállalata.", "Évente több százezer Dacia márkájú gépjárművet gyártanak itt.", "A telephely saját sebességváltó- és motorgyártó egységgel rendelkezik.", "A Dacia Mioveni termelésének több mint 90%-át külföldre exportálja.", "A gyár a Renault-Nissan Szövetség legmodernebb szabványai szerint működik.", "Mioveni ad otthont egy nagy kutatási és tervező központnak is.", "Az üzem Argeș megye egyik legjelentősebb munkaadója.", "A fenntarthatóság növekvő szerepet játszik a létesítmény energiaellátásában."],
       ro: [],
       en: []
     }
@@ -145,7 +145,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Continental-Standort in Temeswar ist ein führendes Kompetenzzentrum für Automobiltechnologie und Reifenproduktion im Westen Rumäniens. Die Anlage vereint hochmoderne Fertigungskapazitäten mit innovativen Forschungs- und Entwicklungsabteilungen, die an den Mobilitätslösungen von morgen arbeiten. Continental hat in Temeswar massiv in die Produktion von High-Tech-Reifen sowie elektronischen Komponenten für Fahrassistenzsysteme und Getriebesteuerungen investiert. Durch die enge Kooperation mit lokalen Universitäten ist der Standort ein Magnet für hochqualifizierte Ingenieure und Fachkräfte geworden. Die Fabrik zeichnet sich durch einen hohen Automatisierungsgrad und die Anwendung von Industrie 4.0 Prinzipien aus. Mit einem klaren Fokus auf Qualität und Innovation trägt Continental Temeswar maßgeblich dazu bei, Rumänien als wichtigen Akteur in der globalen Automobil-Zulieferkette zu festigen und treibt die digitale Transformation der Branche voran.",
-      hu: "",
+      hu: "A Continental temesvári telephelye a gépjárm-technológia és a gumiabroncs-gyártás vezető kompetenciaközpontja Nyugat-Romániában. A létesítmény a legmodernebb gyártási kapacitásokat ötvözi az innovatív kutatási és fejlesztési részlegekkel, amelyek a jövő mobilitási megoldásain dolgoznak. A Continental Temesváron jelentős összegeket fektetett be a csúcstechnológiás gumiabroncsok, valamint a vezetéstámogató rendszerek és a sebességváltó-vezérlés elektronikai alkatrészeinek gyártásába. A helyi egyetemekkel való szoros együttműködés révén a telephely a magasan képzett mérnökök és szakemberek mágnesévé vált. A gyárat magas fokú automatizálás és az Ipar 4.0 elveinek alkalmazása jellemzi. A minőségre és az innovációra való egyértelmű összpontosítással a Continental Temesvár jelentősen hozzájárul Románia globális autóipari beszállítói láncban betöltött pozíciójának megerősítéséhez.",
       ro: "",
       en: ""
     },
@@ -160,7 +160,7 @@ export const poiExtraRo2: POI[] = [
         "Die Fabrik nutzt modernste Smart-Factory-Technologien.",
         "Jährlich werden Millionen von Reifen für PKW und leichte Nutzfahrzeuge produziert."
       ],
-      hu: [],
+      hu: ["A Continental Temesvár Európa egyik legnagyobb gumiabroncs-gyárát üzemelteti.", "A telephely az autóelektronika központi fejlesztési központja.", "Temesváron modern szoftvermegoldásokat fejlesztenek az autonóm vezetéshez.", "A gyár szinte az összes nagy globális autógyártót kiszolgálja.", "A Continental Temes megye egyik legnagyobb magánmunkaadója.", "Jelentős szűrőberendezéseket telepítettek a kibocsátás csökkentése érdekében.", "A gyár a legmodernebb okosgyár (Smart Factory) technológiákat alkalmazza.", "Évente több millió gumiabroncsot gyártanak itt személygépkocsik és könnyű teherautók számára."],
       ro: [],
       en: []
     }
@@ -186,7 +186,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Ford Otosan Werk in Craiova ist eine der modernsten Automobilfabriken in Europa und ein zentraler Pfeiler der Wirtschaft im Südwesten Rumäniens. Nach umfangreichen Investitionen wurde der Standort zu einem Vorreiter für die Produktion von Elektrofahrzeugen und effizienten Hybridmodellen umgebaut. Das Werk ist bekannt für die Fertigung beliebter Modelle wie dem Ford Puma, der weltweit exportiert wird. Die hochautomatisierte Produktion umfasst Presswerke, Lackierereien und Montagelinien, die nach höchsten globalen Qualitätsstandards operieren. Ford Otosan Craiova spielt eine entscheidende Rolle in der europäischen Strategie des Konzerns für leichte Nutzfahrzeuge und E-Mobilität. Neben der Fahrzeugherstellung ist der Standort auch ein bedeutendes Zentrum für die Motorenproduktion. Die kontinuierliche Weiterentwicklung der Belegschaft und die Integration lokaler Zulieferer machen Craiova zu einem dynamischen industriellen Ökosystem, das weit über die Landesgrenzen hinaus ausstrahlt.",
-      hu: "",
+      hu: "A craiovai Ford Otosan gyár Európa egyik legmodernebb autógyára és Délnyugat-Románia gazdaságának központi pillére. Jelentős beruházások után a telephelyet az elektromos járművek és a hatékony hibrid modellek gyártásának úttörőjévé alakították át. A gyár az olyan népszerű modellek gyártásáról ismert, mint a Ford Puma, amelyet világszerte exportálnak. A nagymértékben automatizált termelés présüzemeket, fényezőműhelyeket és összeszerelő sorokat foglal magában, amelyek a legmagasabb globális minőségi szabványok szerint működnek. A Ford Otosan Craiova döntő szerepet játszik a konszern könnyű haszongépjárművekre és e-mobilitásra vonatkozó európai stratégiájában. A járműgyártás mellett a telephely a motorgyártás jelentős központja is. A munkaerő folyamatos fejlesztése és a helyi beszállítók integrálása dinamikus ipari ökoszisztémává teszi Craiovát.",
       ro: "",
       en: ""
     },
@@ -201,7 +201,7 @@ export const poiExtraRo2: POI[] = [
         "Es werden konsequent Maßnahmen zur CO2-neutralen Produktion umgesetzt.",
         "Das Werk bietet direkte Beschäftigung für Tausende von Mitarbeitern."
       ],
-      hu: [],
+      hu: ["Craiova a Ford Puma gyártásának kulcsfontosságú helyszíne.", "A gyárat az elektromos járművek gyártásához modernizálták.", "Itt található a konszern egyik leghatékonyabb motorgyártó üzeme.", "Több mint 600 robot segíti a nagy pontosságú gyártást a csarnokokban.", "A Ford Otosan Olténia régió legnagyobb exportőre.", "A telephely hosszú hagyományokkal rendelkezik a járműgyártásban (korábban Oltcit/Daewoo).", "Következetesen végrehajtják a szén-dioxid-semleges termelésre irányuló intézkedéseket.", "A gyár több ezer alkalmazottnak nyújt közvetlen munkalehetőséget."],
       ro: [],
       en: []
     }
@@ -227,7 +227,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Stahlwerk Liberty Galați, direkt an der Donau gelegen, ist das größte integrierte Hüttenwerk Rumäniens und ein monumentales Zeugnis industrieller Kraft. Die Anlage deckt die gesamte Produktionskette von der Roheisenerzeugung bis hin zu hochwertigen Flachstahlprodukten ab, die im Schiffbau, im Bauwesen und in der Automobilindustrie weltweit Verwendung finden. Durch den strategischen Zugang zum Fluss ist das Werk optimal an internationale Rohstoff- und Absatzmärkte angebunden. Unter der Leitung von Liberty Steel durchläuft der Standort derzeit eine tiefgreifende Transformation hin zu \"Green Steel\", mit dem Ziel, die CO2-Emissionen durch den Einsatz von Elektrolichtbogenöfen und erneuerbaren Energien drastisch zu senken. Galați ist nicht nur ein bedeutender Wirtschaftsmotor für den Osten Rumäniens, sondern auch ein Zentrum für metallurgisches Know-how, das die industrielle Unabhängigkeit des Landes stärkt und die Basis für zahlreiche nachgelagerte Industrien bildet.",
-      hu: "",
+      hu: "A közvetlenül a Duna partján fekvő Liberty Galați acélmű Románia legnagyobb integrált kohászati üzeme és az ipari erő monumentális bizonyítéka. A létesítmény a teljes gyártási láncot lefedi a nyersvasgyártástól a kiváló minőségű lapos acéltermékekig, amelyeket világszerte használnak a hajógyártásban, az építőiparban és az autóiparban. A folyóhoz való stratégiai hozzáférés révén a gyár optimálisan kapcsolódik a nemzetközi nyersanyag- és értékesítési piacokhoz. A Liberty Steel irányítása alatt a telephely jelenleg mélyreható átalakuláson megy keresztül a \"zöld acél\" irányába, azzal a céllal, hogy elektromos ívkemencék és megújuló energiák használatával drasztikusan csökkentsék a szén-dioxid-kibocsátást. Galați nemcsak Kelet-Románia jelentős gazdasági motorja, hanem a kohászati szakértelem központja is.",
       ro: "",
       en: ""
     },
@@ -242,7 +242,7 @@ export const poiExtraRo2: POI[] = [
         "Die jährliche Produktionskapazität liegt bei mehreren Millionen Tonnen Stahl.",
         "Liberty Galați ist ein wichtiger Lieferant für große Infrastrukturprojekte."
       ],
-      hu: [],
+      hu: ["A Liberty Galați az ország legnagyobb acéltermelője.", "A telephely saját kikötővel rendelkezik a nyersanyagimport számára.", "A gyár speciális acélokat állít elő a globális hajógyártás számára.", "Jelentős összegeket fektetnek be a termelés dekarbonizációjába.", "A komplexum hatalmas nagyolvasztókat és hengerműveket foglal magában.", "Az acélmű Galați városának legfontosabb munkaadója.", "Az éves gyártási kapacitás több millió tonna acél.", "A Liberty Galați fontos beszállítója a nagy infrastrukturális projekteknek."],
       ro: [],
       en: []
     }
@@ -268,7 +268,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Aerostar Bacău ist das Aushängeschild der rumänischen Luft- und Raumfahrtindustrie und ein weltweit anerkannter Partner für Flugzeugwartung und die Herstellung von Komponenten. Mit einer über 70-jährigen Geschichte hat sich das Unternehmen von einer staatlichen Fabrik zu einem modernen High-Tech-Zentrum entwickelt. Aerostar ist spezialisiert auf das MRO-Geschäft (Maintenance, Repair, and Overhaul) für zivile Verkehrsflugzeuge wie die Airbus A320-Familie und Boeing 737, betreut aber auch intensiv die militärische Luftflotte Rumäniens, insbesondere die F-16 Kampfjets. Die hochpräzise Fertigungsabteilung produziert komplexe Bauteile für globale Giganten wie Airbus und Gulfstream. Durch kontinuierliche Investitionen in modernste Hangars und Zertifizierungen nach internationalen Luftfahrtstandards sichert Aerostar Bacău die technologische Souveränität des Landes und positioniert Rumänien als kompetenten Akteur in der globalen Aerospace-Zulieferkette.",
-      hu: "",
+      hu: "Az Aerostar Bákó a román légi- és űripar zászlóshajója, valamint a repülőgép-karbantartás és alkatrészgyártás világszerte elismert partnere. Több mint 70 éves múltjával a vállalat állami gyárból modern csúcstechnológiai központtá fejlődött. Az Aerostar a polgári utasszállító repülőgépek, például az Airbus A320 család és a Boeing 737-esek MRO-üzletágára (karbantartás, javítás és nagyjavítás) szakosodott, de intenzíven gondozza Románia katonai légiflottáját is, különösen az F-16-os vadászgépeket. A nagy pontosságú gyártási részleg olyan globális óriások számára állít elő összetett alkatrészeket, mint az Airbus és a Gulfstream. A legmodernebb hangárokba történő folyamatos beruházásokkal az Aerostar Bákó biztosítja az ország technológiai szuverenitását a légi közlekedésben.",
       ro: "",
       en: ""
     },
@@ -283,7 +283,7 @@ export const poiExtraRo2: POI[] = [
         "Das Unternehmen betreibt ein eigenes Schulungszentrum für Luftfahrttechniker.",
         "Aerostar spielt eine Schlüsselrolle in den Verteidigungsprogrammen der NATO."
       ],
-      hu: [],
+      hu: ["Az Aerostar az F-16-os vadászgépek engedélyezett karbantartó központja.", "A vállalat Kelet-Románia egyik legnagyobb munkaadója.", "Hidraulikus alkatrészeket és futóműveket gyárt utasszállító repülőgépekhez.", "Az Aerostar a legmodernebb hangárokkal rendelkezik a nagyméretű repülőgépek karbantartásához.", "A vállalatot jegyzik a bukaresti tőzsdén.", "Számos nemzetközi légitársaság Bákóban tartatja karban flottáját.", "A vállalat saját képzési központot üzemeltet repülőgép-technikusok számára.", "Az Aerostar kulcsszerepet játszik a NATO védelmi programjaiban."],
       ro: [],
       en: []
     }
@@ -309,7 +309,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Autoliv Brașov (Kronstadt) ist ein weltweit führender Standort für automobile Sicherheitssysteme und ein zentraler Knotenpunkt im globalen Netzwerk des schwedischen Autoliv-Konzerns. In den Werken der Region werden lebensrettende Komponenten wie Airbags, Sicherheitsgurte und Lenkräder für nahezu alle namhaften Automobilhersteller produziert. Der Standort zeichnet sich durch extrem hohe Qualitätsstandards und eine Null-Fehler-Toleranz aus, da die Produkte im Ernstfall über Leben und Tod entscheiden. Neben der reinen Fertigung beherbergt Brașov bedeutende Engineering-Zentren, in denen neue Sicherheitstechnologien entwickelt und getestet werden. Durch die Kombination aus effizienter Produktion und technischer Innovation hat sich Autoliv zum größten Arbeitgeber in der Region Siebenbürgen entwickelt. Das Unternehmen fördert intensiv die lokale Fachkräfteausbildung und setzt Maßstäbe in der Arbeitssicherheit und Ergonomie, was den Standort zu einem Vorbild für moderne Industriearbeitsplätze in Rumänien macht.",
-      hu: "",
+      hu: "Az Autoliv Brassó a gépjármű-biztonsági rendszerek világszerte vezető telephelye és a svéd Autoliv konszern globális hálózatának központi csomópontja. A régió gyáraiban olyan életmentő alkatrészeket gyártanak, mint a légzsákok, biztonsági övek és kormánykerekek szinte minden neves autógyártó számára. A telephelyet rendkívül magas minőségi szabványok és zéró hiba tolerancia jellemzi, mivel a termékek vészhelyzetben élet és halál kérdéséről döntenek. A tiszta gyártás mellett Brassó jelentős mérnöki központoknak ad otthont, ahol új biztonsági technológiákat fejlesztenek és tesztelnek. A hatékony termelés és a technikai innováció kombinációjával az Autoliv Erdély régió legnagyobb munkaadójává vált. A vállalat intenzíven támogatja a helyi szakképzést és mércét állít a munkabiztonság terén.",
       ro: "",
       en: ""
     },
@@ -324,7 +324,7 @@ export const poiExtraRo2: POI[] = [
         "Autoliv engagiert sich stark in sozialen Projekten der Region.",
         "Die Produktion ist hochgradig automatisiert und digital vernetzt."
       ],
-      hu: [],
+      hu: ["Az Autoliv Brassó a világ legnagyobb biztonságiöv-gyártója.", "A vállalat több gyárat üzemeltet Brassóban és környékén.", "A tesztlaboratóriumokban összetett baleseti szimulációkat végeznek.", "Az Autoliv olyan prémium márkákat szolgál ki, mint a BMW, az Audi és a Mercedes-Benz.", "A telephely egész Romániából vonzza a mérnököket.", "Másodpercenként több száz biztonsági termék hagyja el az összeszerelő sorokat.", "Az Autoliv erőteljesen elkötelezett a régió társadalmi projektjei mellett.", "A termelés nagymértékben automatizált és digitálisan hálózatba kapcsolt."],
       ro: [],
       en: []
     }
@@ -350,7 +350,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Kraftwerk Mintia bei Deva war über Jahrzehnte eines der leistungsstärksten Wärmekraftwerke Rumäniens und ein Eckpfeiler der Energieversorgung im Westen des Landes. Gelegen am Ufer des Mures, nutzte die Anlage traditionell Steinkohle aus dem Schiltal, um Strom und Fernwärme zu erzeugen. Nach einer Phase des Stillstands wird der Standort derzeit grundlegend transformiert und zu einem hochmodernen Gaskraftwerk mit kombiniertem Zyklus umgebaut. Diese Neuausrichtung ist Teil der rumänischen Strategie zum Ausstieg aus der Kohleverstromung und zum Übergang zu emissionsärmeren Energieträgern. Das neue Projekt in Mintia soll eines der effizientesten Kraftwerke in ganz Europa werden und eine entscheidende Rolle bei der Stabilisierung des nationalen Stromnetzes spielen, insbesondere als Backup für erneuerbare Energien. Die Revitalisierung des Standorts sichert die industrielle Bedeutung der Region Hunedoara und markiert den Beginn einer neuen Ära der nachhaltigen Energiegewinnung.",
-      hu: "",
+      hu: "A Déva melletti Mintia erőmű évtizedeken át Románia egyik legnagyobb teljesítményű hőerőműve és az ország nyugati részének energiaellátási sarokköve volt. A Maros partján fekvő létesítmény hagyományosan a Zsil-völgyéből származó kőszenet használta áram- és távhőtermelésre. Egy leállási fázis után a telephelyet jelenleg alapjaiban alakítják át, és egy ultramodern, kombinált ciklusú gázerőművé építik át. Ez az átirányítás része Románia azon stratégiájának, amely a szén alapú energiatermelés kivezetésére és az alacsonyabb kibocsátású energiahordozókra való áttérésre irányul. Az új mintiai projekt Európa egyik leghatékonyabb erőműve lesz, és döntő szerepet játszik a nemzeti villamosenergia-hálózat stabilizálásában. A telephely revitalizációja biztosítja Hunyad megye ipari jelentőségét.",
       ro: "",
       en: ""
     },
@@ -365,7 +365,7 @@ export const poiExtraRo2: POI[] = [
         "Es soll eine Schlüsselrolle beim Kohleausstieg Rumäniens spielen.",
         "Die neuen Gasturbinen gehören zur modernsten Generation weltweit."
       ],
-      hu: [],
+      hu: ["A Mintia erőművet jelenleg Románia legnagyobb gázerőművévé alakítják át.", "Az új létesítmény lényegesen magasabb energiahatékonysággal fog rendelkezni.", "A telephely stratégiailag fontos hálózati csatlakozással rendelkezik.", "Eredetileg a Valea Jiului régióból származó szénnel üzemeltették az erőművet.", "A modernizáció az energiaszektor egyik legnagyobb magánberuházása.", "Az erőmű a Maros folyó vizét használja hűtésre.", "Kulcsszerepet kell játszania Románia szénkivezetési folyamatában.", "Az új gázturbinák a világ legmodernebb generációjához tartoznak."],
       ro: [],
       en: []
     }
@@ -391,7 +391,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Stahlwerk in Reșița ist die Geburtsstätte der rumänischen Schwerindustrie und blickt auf eine beeindruckende Geschichte von über 250 Jahren zurück. Einst das Zentrum der Donaumonarchie für Metallurgie und Lokomotivbau, hat sich der Standort heute als moderner Produzent von Spezialstählen und nahtlosen Rohren neu erfunden. Als Teil der TMK-Gruppe (jetzt ARTROM) spezialisiert sich das Werk auf die Herstellung hochwertiger Knüppel für die Rohrindustrie. Die tief verwurzelte industrielle Tradition der Stadt Reșița spiegelt sich in der Expertise der Belegschaft wider, die auch schwierigste metallurgische Herausforderungen meistert. Trotz des Strukturwandels bleibt das Stahlwerk das wirtschaftliche Rückgrat der Region Karasch-Severin. Durch Investitionen in moderne Elektrolichtbogenöfen und Umweltschutzmaßnahmen wird versucht, die historische Bedeutung des Standorts mit den Anforderungen einer modernen, nachhaltigen Stahlproduktion in Einklang zu bringen.",
-      hu: "",
+      hu: "A resicabányai acélmű a román nehézipar szülőhelye, amely lenyűgöző, több mint 250 éves múltra tekint vissza. Valaha a Duna menti monarchia kohászati és mozdonygyártási központja volt, mára a telephely a speciális acélok és varrat nélküli csövek modern gyártójaként született újjá. A TMK-csoport (ma ARTROM) részeként a gyár a csőipar számára készülő kiváló minőségű tuskók gyártására szakosodott. Resicabánya mélyen gyökerező ipari hagyományai tükröződnek a munkaerő szakértelmében, amely a legnehezebb kohászati kihívásokkal is megbirkózik. A szerkezeti átalakítás ellenére az acélmű marad Krassó-Szörény megye gazdasági gerince. A modern elektromos ívkemencékbe és környezetvédelmi intézkedésekbe történő beruházásokkal próbálják a történelmi jelentőséget összhangba hozni a modern, fenntartható acélgyártás követelményeivel.",
       ro: "",
       en: ""
     },
@@ -406,7 +406,7 @@ export const poiExtraRo2: POI[] = [
         "Es werden strenge Qualitätskontrollen nach internationalen Standards durchgeführt.",
         "Das Unternehmen investiert kontinuierlich in die Reduzierung der Umweltbelastung."
       ],
-      hu: [],
+      hu: ["Resicabánya Délkelet-Európa egyik legrégebbi ipari helyszíne (1771 óta).", "A gyár kiváló minőségű acéltuskókat készít a csőgyártáshoz.", "Itt készültek Románia első gőzmozdonyai.", "A telephely modern elektromos ívkemencéket használ az acélolvasztáshoz.", "A resicai acélt világszerte használják az energia- és építőiparban.", "A gyár szorosan kapcsolódik a város identitásához és történelméhez.", "Szigorú minőségellenőrzést végeznek a nemzetközi szabványoknak megfelelően.", "A vállalat folyamatosan fektet be a környezeti hatások csökkentésébe."],
       ro: [],
       en: []
     }
@@ -432,7 +432,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Kraftwerk Rovinari ist einer der größten und wichtigsten Energieproduzenten Rumäniens und bildet das Rückgrat der nationalen Stromversorgung. Gelegen im Herzen des Oltenia-Kohlebeckens, nutzt dieses massive Braunkohlekraftwerk die unmittelbar benachbarten Tagebaue für eine effiziente Brennstoffversorgung. Die Anlage besteht aus mehreren leistungsstarken Blöcken, die kontinuierlich modernisiert werden, um die strengen europäischen Emissionsgrenzwerte einzuhalten und die Netzsicherheit zu gewährleisten. Rovinari spielt eine entscheidende Rolle für die energetische Unabhängigkeit des Landes, insbesondere in Zeiten hoher Last oder geringer Erzeugung aus erneuerbaren Quellen. Die gigantischen Kühltürme der Anlage sind weithin sichtbar und markieren ein industrielles Zentrum, das Tausende von Arbeitsplätzen im Bergbau und in der Energieerzeugung sichert und den Kreis Gorj wirtschaftlich maßgeblich prägt.",
-      hu: "",
+      hu: "A Rovinari erőmű Románia egyik legnagyobb és legfontosabb energiatermelője, amely a nemzeti áramellátás gerincét alkotja. Az Olténia-szénmedence szívében található masszív lignit-tüzelésű erőmű a közvetlen szomszédságában lévő külszíni fejtéseket használja a hatékony üzemanyag-ellátás érdekében. A létesítmény több nagy teljesítményű blokkból áll, amelyeket folyamatosan modernizálnak, hogy megfeleljenek a szigorú európai kibocsátási határértékeknek és garantálják a hálózatbiztonságot. Rovinari döntő szerepet játszik az ország energetikai függetlenségében, különösen a nagy terhelésű időszakokban vagy a megújuló forrásokból származó alacsony termelés esetén. A létesítmény gigantikus hűtőtornyai messziről láthatóak, és egy olyan ipari központot jelölnek, amely több ezer munkahelyet biztosít a bányászatban és az energiatermelésben.",
       ro: "",
       en: ""
     },
@@ -447,7 +447,7 @@ export const poiExtraRo2: POI[] = [
         "Die Anlage sichert die Grundlastversorgung des Landes rund um die Uhr.",
         "Der Standort ist ein bedeutender Wirtschaftsfaktor für den Südwesten Rumäniens."
       ],
-      hu: [],
+      hu: ["Rovinari Délkelet-Európa egyik legnagyobb hőerőműve.", "A létesítményt közvetlenül a szomszédos lignitbányák látják el szénnel.", "Az erőmű a román villamosenergia-hálózat stabilitásának központi pillére.", "Jelentős kéntelenítő berendezéseket telepítettek a kibocsátás mérséklésére.", "A beépített teljesítmény meghaladja az 1300 megawattot.", "Rovinari az állami Olténia Energetikai Komplexum (CEO) része.", "A létesítmény éjjel-nappal biztosítja az ország alapvető áramellátását.", "A helyszín Délnyugat-Románia egyik legjelentősebb gazdasági tényezője."],
       ro: [],
       en: []
     }
@@ -473,7 +473,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Oltchim Râmnicu Vâlcea war über Jahrzehnte der Stolz der rumänischen Chemieindustrie und einer der größten Industriekomplexe des Landes. Spezialisiert auf die Herstellung von Polyolen, PVC und Natronlauge, belieferte das Unternehmen zahlreiche Branchen von der Bauindustrie bis zur Kunststoffverarbeitung im In- und Ausland. Trotz wirtschaftlicher Herausforderungen in der Vergangenheit bleibt der Standort ein wichtiges Zentrum für chemisches Know-how. Die Anlagen in Râmnicu Vâlcea sind technologisch komplex und eng in die regionale Infrastruktur eingebunden. Heute werden Teile des Komplexes unter neuer Führung modernisiert, um den Anforderungen an eine nachhaltige und wettbewerbsfähige Chemieproduktion im 21. Jahrhundert gerecht zu werden. Die strategische Lage und die vorhandene Expertise machen Oltchim weiterhin zu einem potenziellen Motor für industrielle Innovationen in der Region Vâlcea.",
-      hu: "",
+      hu: "Az Oltchim Râmnicu Vâlcea évtizedeken át a román vegyipar büszkesége és az ország egyik legnagyobb ipari komplexuma volt. A poliolok, PVC és nátronlúg gyártására szakosodott vállalat számos ágazatot szolgált ki az építőipartól a műanyagfeldolgozásig belföldön és külföldön egyaránt. A múltbeli gazdasági kihívások ellenére a telephely a vegyipari szakértelem fontos központja marad. A Râmnicu Vâlcea-i létesítmények technológiailag összetettek és szorosan integrálódtak a regionális infrastruktúrába. Ma a komplexum egyes részeit új vezetés alatt modernizálják, hogy megfeleljenek a 21. századi fenntartható és versenyképes vegyipari termelés követelményeinek. A stratégiai elhelyezkedés és a meglévő szakértelem továbbra is az ipari innováció potenciális motorjává teszi az Oltchim-et Vâlcea megyében.",
       ro: "",
       en: ""
     },
@@ -488,7 +488,7 @@ export const poiExtraRo2: POI[] = [
         "Der Standort ist mit wichtigen Transportwegen und Pipelines vernetzt.",
         "Die Revitalisierung der Anlagen ist ein Schwerpunkt regionaler Wirtschaftspolitik."
       ],
-      hu: [],
+      hu: ["Az Oltchim a poliéter-poliolok vezető gyártója volt Európában.", "A komplexum speciális berendezéseket tartalmaz a klór-alkáli elektrolízishez.", "A vállalat fontos exportőr volt az egész balkáni régió számára.", "Râmnicu Vâlcea az Oltchim révén hosszú ipari hagyományokkal rendelkezik.", "A berendezések a kiváló minőségű PVC gyártásáról ismertek.", "Az Oltchim kulcsszerepet játszott a vegyipar vertikális integrációjában.", "A telephely fontos szállítási útvonalakkal és csővezetékekkel van összekötve.", "A létesítmények revitalizációja a regionális gazdaságpolitika prioritása."],
       ro: [],
       en: []
     }
@@ -514,7 +514,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "TenarisSilcotub in Zalău ist ein weltweit führendes Werk für die Herstellung von nahtlosen Stahlrohren mit kleinem Durchmesser, die vor allem in der Energieindustrie, im Automobilbau und im Maschinenbau Anwendung finden. Als Teil des globalen Tenaris-Netzwerks wurde der Standort in Zalău umfassend modernisiert und mit hochmodernen Walzstraßen sowie spezialisierten Veredelungsanlagen ausgestattet. Die Fabrik zeichnet sich durch eine extreme Präzision und strenge Qualitätskontrollen aus, um den hohen Anforderungen internationaler Öl- und Gasunternehmen gerecht zu werden. Neben der Produktion ist Zalău auch ein wichtiges Logistikzentrum für den Vertrieb der Produkte in ganz Europa und darüber hinaus. Durch kontinuierliche Investitionen in Sicherheit, Umweltschutz und die Ausbildung junger Talente hat Tenaris den Standort Zalău zu einem industriellen Vorzeigeprojekt in Nordwest-Rumänien entwickelt.",
-      hu: "",
+      hu: "A zilahi TenarisSilcotub a kis átmérőjű, varrat nélküli acélcsövek gyártásának világszerte vezető üzeme, amelyeket elsősorban az energiaiparban, az autógyártásban és a gépgyártásban használnak. A globális Tenaris-hálózat részeként a zilahi telephelyet átfogóan modernizálták, és ultramodern hengerművekkel, valamint speciális kikészítő berendezésekkel szerelték fel. A gyárat rendkívüli precizitás és szigorú minőségellenőrzés jellemzi, hogy megfeleljen a nemzetközi olaj- és gázipari vállalatok magas követelményeinek. A gyártás mellett Zilah fontos logisztikai központ is a termékek európai és azon túli forgalmazásához. A biztonságba, a környezetvédelembe és a fiatal tehetségek képzésébe történő folyamatos beruházásokkal a Tenaris Északnyugat-Románia ipari bemutatóprojektjévé fejlesztette a zilahi telephelyet.",
       ro: "",
       en: ""
     },
@@ -529,7 +529,7 @@ export const poiExtraRo2: POI[] = [
         "Die Produkte werden für anspruchsvolle Bohrungen und Pipelines verwendet.",
         "Das Werk setzt hohe Standards im Bereich industrielle Nachhaltigkeit."
       ],
-      hu: [],
+      hu: ["A TenarisSilcotub Zilah a varrat nélküli acélcsövek specialistája.", "A gyár a világ legnagyobb olaj- és gázipari konszernjeit szolgálja ki.", "Zilahon a legmodernebb roncsolásmentes vizsgálati módszereket alkalmazzák.", "A telephely a világszerte tevékenykedő Tenaris-csoport része.", "A Tenaris Szilágy megye legjelentősebb magánmunkaadója.", "Átfogó oktatási programok segítik a helyi műszaki képzést.", "A termékeket igényes fúrásokhoz és csővezetékekhez használják.", "A gyár magas szintű követelményeket támaszt az ipari fenntarthatóság terén."],
       ro: [],
       en: []
     }
@@ -555,7 +555,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Dräxlmaier-Werk in Sathmar (Satu Mare) ist ein bedeutender Pfeiler der deutschen Automobilzulieferindustrie in Rumänien und ein wichtiger Partner für globale Premiummarken. Seit seiner Eröffnung hat sich der Standort zu einem der größten und modernsten Werke des Konzerns entwickelt, spezialisiert auf die Fertigung von komplexen Bordnetzsystemen und hochwertigen Interieur-Komponenten. Die Produktion in Sathmar zeichnet sich durch einen hohen Grad an handwerklicher Präzision kombiniert mit automatisierter Fertigungstechnik aus. Dräxlmaier ist bekannt für seine Vorreiterrolle bei der Einführung des dualen Ausbildungssystems in Rumänien, wodurch der Standort kontinuierlich hochqualifizierten Nachwuchs sichert. Die Fabrik leistet einen massiven Beitrag zur wirtschaftlichen Stabilität der Region und ist ein Musterbeispiel für die erfolgreiche Ansiedlung deutscher Hochtechnologie im rumänischen Nordwesten.",
-      hu: "",
+      hu: "A szatmárnémeti Dräxlmaier gyár a német autóipari beszállító ipar jelentős pillére Romániában és a globális prémium márkák fontos partnere. Megnyitása óta a telephely a konszern egyik legnagyobb és legmodernebb gyárává fejlődött, amely összetett kábelkötegek és kiváló minőségű belsőépítészeti alkatrészek gyártására szakosodott. A szatmári termelést a kézműves precizitás és az automatizált gyártási technológia magas szintű kombinációja jellemzi. A Dräxlmaier ismert úttörő szerepéről a duális szakképzési rendszer romániai bevezetésében, amellyel a telephely folyamatosan biztosítja a magasan képzett utánpótlást. A gyár jelentősen hozzájárul a régió gazdasági stabilitásához, és példája a német csúcstechnológia sikeres letelepedésének a romániai északnyugati régióban.",
       ro: "",
       en: ""
     },
@@ -570,7 +570,7 @@ export const poiExtraRo2: POI[] = [
         "Nachhaltige Produktion und Ressourceneffizienz sind zentrale Unternehmensziele.",
         "Sathmar ist ein strategischer Knotenpunkt in der globalen Dräxlmaier-Logistik."
       ],
-      hu: [],
+      hu: ["A Dräxlmaier Szatmárnémeti kábelkötegeket gyárt vezető német autómárkáknak.", "A gyár Északnyugat-Románia egyik legnagyobb munkaadója.", "Szatmárnémetiben a német mintájú duális képzési programot alkalmazzák.", "A telephely luxuskategóriás belső rendszereket is gyárt.", "A Dräxlmaier jelentősen befektet az e-mobilitási alkatrészekbe Romániában.", "A gyár tanúsítvánnyal rendelkezik a legmagasabb IATF minőségi szabványok szerint.", "A fenntartható termelés és az erőforrás-hatékonyság központi vállalati célok.", "Szatmárnémeti stratégiai csomópont a globális Dräxlmaier-logisztikában."],
       ro: [],
       en: []
     }
@@ -596,7 +596,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Faist Mekatronic in Großwardein (Oradea) ist ein hochmodernes Zentrum für die Produktion von Präzisionskomponenten, das vor allem die Telekommunikations- und Automobilindustrie weltweit beliefert. In dem hochautomatisierten Werk werden komplexe Aluminium-Druckgussteile sowie mechanische Komponenten für 5G-Basisstationen und moderne Fahrzeugsysteme gefertigt. Die Fabrik im Industriepark von Oradea gilt als eine der effizientesten des FAIST-Konzerns und nutzt modernste Bearbeitungszentren sowie Robotertechnik für die Oberflächenveredelung und Montage. Durch die strategische Nähe zur ungarischen Grenze profitiert der Standort von einer exzellenten logistischen Anbindung an die europäischen Märkte. Faist Mekatronic steht für technologische Exzellenz und ist ein Paradebeispiel für den rasanten Aufstieg von Oradea zu einem neuen Hotspot der High-Tech-Industrie in Rumänien.",
-      hu: "",
+      hu: "A nagyváradi Faist Mekatronic a precíziós alkatrészek gyártásának ultramodern központja, amely elsősorban a távközlési és az autóipart szolgálja ki világszerte. A nagymértékben automatizált gyárban összetett alumíniumöntvényeket, valamint mechanikai alkatrészeket gyártanak 5G bázisállomásokhoz és modern járműrendszerekhez. A Nagyvárad ipari parkjában található gyár a FAIST-csoport egyik leghatékonyabb egységének számít, ahol a legmodernebb megmunkáló központokat és robottechnikát alkalmazzák a felületkezeléshez és az összeszereléshez. A magyar határ stratégiai közelsége révén a telephely kiváló logisztikai összeköttetéssel rendelkezik az európai piacokhoz. A Faist Mekatronic a technológiai kiválóságot képviseli és példája Nagyvárad gyors felemelkedésének az ipari központok közé.",
       ro: "",
       en: ""
     },
@@ -611,7 +611,7 @@ export const poiExtraRo2: POI[] = [
         "Kontinuierliche Investitionen fließen in Forschung und Entwicklung vor Ort.",
         "Das Unternehmen fördert intensiv die MINT-Ausbildung in der Region Bihor."
       ],
-      hu: [],
+      hu: ["A Faist Mekatronic a globális 5G infrastruktúra kulcsfontosságú beszállítója.", "A gyár alumíniumöntésre és mechanikai megmunkálásra specializálódott.", "Románia egyik legmodernebb ipari parkjában található Nagyváradon.", "A termelésben több száz nagy pontosságú CNC gépet használnak.", "A Faist olyan óriásokat szolgál ki, mint az Ericsson, a Nokia és neves autógyártók.", "A telephelyet igen magas exportarány jellemzi.", "Folyamatos beruházások irányulnak a helyi kutatás-fejlesztésbe.", "A vállalat intenzíven támogatja a STEM-oktatást Bihar megyében."],
       ro: [],
       en: []
     }
@@ -637,7 +637,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Astra Vagoane Călători in Arad ist ein traditionsreiches Traditionsunternehmen und der führende rumänische Hersteller von Schienenfahrzeugen. Mit einer Geschichte, die bis ins 19. Jahrhundert zurückreicht, hat sich das Unternehmen heute auf den Bau von modernen Reisezugwagen und Straßenbahnen spezialisiert. Besonders bekannt ist die Imperio-Straßenbahn, die in vielen rumänischen Städten zum Einsatz kommt und nach modernsten europäischen Standards für Komfort und Effizienz entwickelt wurde. Die Werke in Arad verfügen über eine beeindruckende Fertigungstiefe, vom Stahlbau bis zum hochwertigen Innenausbau. Astra Vagoane ist ein Symbol für die Renaissance des Schienenverkehrs in Rumänien und exportiert seine Waggons erfolgreich in verschiedene Märkte weltweit. Durch die Kombination von bewährter Ingenieurskunst und moderner Technik sichert Astra die Mobilität der Zukunft auf Schienen.",
-      hu: "",
+      hu: "Az aradi Astra Vagoane Călători egy nagy múltú hagyományokkal rendelkező vállalat és Románia vezető vasúti járműgyártója. A 19. századig visszanyúló történetével a cég mára a modern személykocsik és villamosok gyártására szakosodott. Különösen ismert az Imperio villamos, amelyet számos román városban használnak, és a legmodernebb európai kényelmi és hatékonysági szabványok szerint fejlesztettek ki. Az aradi gyárak lenyűgöző gyártási mélységgel rendelkeznek az acélszerkezettől a kiváló minőségű belső berendezésig. Az Astra Vagoane a romániai vasúti közlekedés reneszánszának szimbóluma, és sikeresen exportálja kocsijait a világ különböző piacaira. A bizonyított mérnöki tudás és a modern technika ötvözésével az Astra biztosítja a jövő mobilitását a síneken.",
       ro: "",
       en: ""
     },
@@ -652,7 +652,7 @@ export const poiExtraRo2: POI[] = [
         "Astra-Waggons sind für ihre Langlebigkeit und Robustheit bekannt.",
         "Die Produktion erfüllt alle europäischen Interoperabilitäts-Standards (TSI)."
       ],
-      hu: [],
+      hu: ["Az Astra Vagoane Aradot már 1891-ben alapították.", "A vállalat Románia legfontosabb villamosgyártója.", "Az 'Imperio' villamos a jelenlegi termelés zászlóshajója.", "Az Astra luxus személyvagonokat is gyárt nemzetközi piacokra.", "Az aradi telephely a vasúti technológia jelentős központja.", "A vállalat szilárd román kézben van és támogatja a helyi szaktudást.", "Az Astra vagonok tartósságukról és robusztusságukról ismertek.", "A gyártás megfelel az összes európai interoperabilitási szabványnak (TSI)."],
       ro: [],
       en: []
     }
@@ -678,7 +678,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Star Assembly in Mühlbach (Sebeș) ist eine 100-prozentige Tochtergesellschaft von Mercedes-Benz und einer der modernsten Standorte für Getriebemontage weltweit. In den hochautomatisierten Werkhallen werden komplexe Automatikgetriebe, wie das 9G-Tronic, für die gesamte Modellpalette von Mercedes-Benz produziert. Die Anlage in Sebeș ist ein Musterbeispiel für Industrie 4.0, in der modernste Robotertechnik und digitale Überwachungssysteme eine Null-Fehler-Qualität garantieren. Durch massive Investitionen wurde der Standort kontinuierlich erweitert und spielt nun eine zentrale Rolle in der globalen Powertrain-Produktionskette des deutschen Automobilriesen. Star Assembly ist nicht nur ein bedeutender Exporteur, sondern auch ein Motor für die Entwicklung der Region Alba, indem es höchste Standards in der technischen Ausbildung und im Umweltschutz setzt und eng mit lokalen Zulieferern zusammenarbeitet.",
-      hu: "",
+      hu: "A szászsebesi Star Assembly a Mercedes-Benz 100%-os tulajdonú leányvállalata, és a világ egyik legmodernebb sebességváltó-összeszerelő telephelye. A nagymértékben automatizált csarnokokban összetett automata váltókat, például a 9G-Tronic-ot gyártják a Mercedes-Benz teljes modellpalettájához. A szászsebesi létesítmény az Ipar 4.0 mintapéldája, ahol a legmodernebb robottechnika és digitális felügyeleti rendszerek garantálják a zéró hiba minőséget. A jelentős beruházások révén a telephelyet folyamatosan bővítették, és most központi szerepet játszik a német autóóriás globális hajtáslánc-gyártási láncában. A Star Assembly nemcsak jelentős exportőr, hanem Fehér megye fejlődésének motorja is, amely a legmagasabb szintű műszaki képzési és környezetvédelmi szabványokat alkalmazza.",
       ro: "",
       en: ""
     },
@@ -693,7 +693,7 @@ export const poiExtraRo2: POI[] = [
         "Hunderte von hochspezialisierten Ingenieuren sind vor Ort tätig.",
         "Das Werk exportiert fast 100 % seiner Produktion an Mercedes-Benz Werke weltweit."
       ],
-      hu: [],
+      hu: ["A Star Assembly a Mercedes-Benz gyártási hálózatának szerves része.", "Szászsebesen többek között a korszerű 9-fokozatú automata váltót szerelik össze.", "A telephelyet milliárdos nagyságrendű beruházásokkal építették ki.", "A gyár a német autóipar legszigorúbb minőségi előírásai szerint működik.", "Fehér megye egyik legnagyobb és technológiailag legfejlettebb munkaadója.", "A Star Assembly telephelyei szén-dioxid-semleges energiaellátásra törekszenek.", "Több száz magasan képzett mérnök dolgozik a helyszínen.", "A gyár termelésének szinte 100%-át a Mercedes-Benz gyárakba exportálja világszerte."],
       ro: [],
       en: []
     }
@@ -719,7 +719,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Continental-Standort in Hermannstadt (Sibiu) ist weit mehr als eine Fabrik – er ist eines der bedeutendsten Forschungs- und Entwicklungszentren für automobile Elektronik in Südosteuropa. In Sibiu werden innovative Systeme für autonomes Fahren, fortschrittliche Bremssteuerungen und intelligente Sensorik entwickelt und direkt vor Ort in hochmodernen Linien produziert. Das Werk ist ein Paradebeispiel für die Verbindung von Engineering und Fertigung. Tausende von Ingenieuren arbeiten hier an der Software und Hardware für die Fahrzeuge der Zukunft. Durch die enge Kooperation mit der Lucian-Blaga-Universität hat sich Sibiu zu einem akademischen und industriellen Hotspot entwickelt, der Talente aus dem ganzen Land anzieht. Continental Sibiu ist ein entscheidender Treiber für den technologischen Aufstieg Rumäniens zum High-Tech-Standort und setzt Maßstäbe in der digitalen Vernetzung der Automobilindustrie.",
-      hu: "",
+      hu: "A Continental nagyszebeni telephelye sokkal több, mint egy gyár – ez Délkelet-Európa egyik legjelentősebb autóelektronikai kutatási és fejlesztési központja. Nagyszebenben az autonóm vezetéshez szükséges innovatív rendszereket, fejlett fékvezérléseket és intelligens érzékelőket fejlesztenek, és közvetlenül a helyszínen, ultramodern sorokon gyártják le. A gyár a mérnöki tevékenység és a gyártás összekapcsolásának mintapéldája. Több ezer mérnök dolgozik itt a jövő járműveinek szoftverén és hardverén. A Lucian Blaga Egyetemmel való szoros együttműködés révén Nagyszeben tudományos és ipari központtá vált, amely az egész országból vonzza a tehetségeket. A Continental Nagyszeben döntő hajtóereje Románia technológiai felemelkedésének, és mércét állít az autóipar digitális hálózatba kapcsolásában.",
       ro: "",
       en: ""
     },
@@ -734,7 +734,7 @@ export const poiExtraRo2: POI[] = [
         "Das Werk verfügt über hochmoderne Teststrecken und Labore vor Ort.",
         "Sibiu ist ein Schlüsselstandort in der globalen Elektronikstrategie von Continental."
       ],
-      hu: [],
+      hu: ["A Continental Nagyszeben egy óriási kutatási és fejlesztési központnak ad otthont.", "Itt fejlesztik a vezetéstámogató rendszerek (ADAS) alapvető alkatrészeit.", "A gyár összetett elektronikus vezérlőegységeket készít globális autómárkák számára.", "Nagyszebenben több mint 4000 alkalmazott dolgozik, nagy részük a mérnöki területen.", "A telephely úttörő az autonóm vezetés és a hálózatba kapcsolt mobilitás terén.", "A Continental a helyi informatikai és technológiai szcéna legfontosabb motorja.", "A gyár ultramodern tesztpályákkal és laboratóriumokkal rendelkezik a helyszínen.", "Nagyszeben kulcsfontosságú helyszín a Continental globális elektronikai stratégiájában."],
       ro: [],
       en: []
     }
@@ -760,7 +760,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Bosch-Werk in Jucu, nahe Klausenburg (Cluj-Napoca), ist ein hochmoderner Standort für elektronische Automobilkomponenten und ein Kernstück der Bosch-Präsenz in Rumänien. In der Fabrik werden spezialisierte Steuergeräte für Fahrassistenzsysteme, E-Mobilität und vernetzte Fahrzeugfunktionen produziert. Jucu zeichnet sich durch einen extrem hohen Automatisierungsgrad und die Anwendung modernster Fertigungstechnologien aus. In enger Verbindung mit dem Bosch Engineering Center in Cluj-Napoca bildet das Werk ein integriertes Innovations-Ökosystem. Bosch hat in den Standort Jucu massiv investiert, um ihn zu einem globalen Kompetenzzentrum für Elektronikfertigung auszubauen. Durch nachhaltige Produktionsmethoden und eine starke Förderung der beruflichen Bildung setzt Bosch Maßstäbe für die industrielle Entwicklung in Siebenbürgen und festigt den Ruf von Cluj als das 'Silicon Valley' Rumäniens.",
-      hu: "",
+      hu: "A Kolozsvár melletti Jucuban található Bosch gyár az elektronikus autóalkatrészek ultramodern telephelye és a Bosch romániai jelenlétének központi eleme. A gyárban speciális vezérlőegységeket gyártanak vezetéstámogató rendszerekhez, e-mobilitáshoz és hálózatba kapcsolt járműfunkciókhoz. Jucut rendkívül magas fokú automatizálás és a legmodernebb gyártási technológiák alkalmazása jellemzi. A kolozsvári Bosch Mérnöki Központtal szoros kapcsolatban a gyár integrált innovációs ökoszisztémát alkot. A Bosch jelentős összegeket fektetett be a jucu-i telephelybe, hogy az elektronikai gyártás globális kompetenciaközpontjává fejlessze. A fenntartható gyártási módszerekkel és a szakképzés erős támogatásával a Bosch mércét állít az erdélyi ipari fejlődés számára, megerősítve Kolozsvár hírnevét.",
       ro: "",
       en: ""
     },
@@ -775,7 +775,7 @@ export const poiExtraRo2: POI[] = [
         "Zahlreiche Ausbildungsprogramme für Lehrlinge und Studenten werden angeboten.",
         "Bosch ist einer der attraktivsten Arbeitgeber für Techniker in der Region Cluj."
       ],
-      hu: [],
+      hu: ["A jucu-i gyár elektronikus vezérlőegységekre (ECU) specializálódott.", "A Bosch itt gyártja a modern járműbiztonsági rendszerek alkatrészeit.", "A telephely a stratégiailag fontos Tetarom III ipari parkban található.", "A Bosch Kolozsváron egy nagy szoftverfejlesztő központot is üzemeltet.", "Jucuban évente több millió elektronikai modult gyártanak.", "A gyár az Ipar 4.0 megoldások úttörője a Bosch-csoporton belül.", "Számos képzési programot kínálnak tanoncok és hallgatók számára.", "A Bosch az egyik legvonzóbb munkaadó a technikusok számára Kolozsvár régiójában."],
       ro: [],
       en: []
     }
@@ -801,7 +801,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Azomureș in Neumarkt (Târgu Mureș) ist der bedeutendste Produzent von Düngemitteln in Rumänien und ein unverzichtbarer Partner für die nationale Landwirtschaft. Der riesige Chemiekomplex stellt eine breite Palette von Produkten wie Ammoniumnitrat, Harnstoff und Mehrnährstoffdünger her, die entscheidend für die Ertragssicherung der rumänischen Landwirte sind. Azomureș ist fest in die industrielle Infrastruktur der Region integriert und blickt auf eine jahrzehntelange Tradition in der chemischen Synthese zurück. In den letzten Jahren wurden umfangreiche Investitionen in den Umweltschutz und die Modernisierung der Anlagen getätigt, um die Emissionen zu senken und die Energieeffizienz zu steigern. Trotz der Volatilität der globalen Energiemärkte bleibt Azomureș ein strategischer Garant für die Ernährungssicherheit des Landes und ein wirtschaftliches Schwergewicht im Herzen Siebenbürgens.",
-      hu: "",
+      hu: "A marosvásárhelyi Azomureș Románia legjelentősebb műtrágyagyártója és a nemzeti mezőgazdaság nélkülözhetetlen partnere. A hatalmas vegyipari komplexum termékek széles skáláját állítja elő, mint például ammónium-nitrátot, karbamidot és összetett műtrágyákat, amelyek döntő fontosságúak a román gazdák terméshozamának biztosításához. Az Azomureș szilárdan beépült a régió ipari infrastruktúrájába, és évtizedes hagyományokra tekint vissza a vegyi szintézis területén. Az elmúlt években jelentős beruházások történtek a környezetvédelem és a berendezések modernizálása érdekében a kibocsátás csökkentése és az energiahatékonyság növelése céljából. A globális energiapiacok ingadozása ellenére az Azomureș stratégiai garanciát jelent az ország élelmiszerbiztonságára és gazdasági súlyt képvisel Erdély szívében.",
       ro: "",
       en: ""
     },
@@ -816,7 +816,7 @@ export const poiExtraRo2: POI[] = [
         "Azomureș ist einer der größten Arbeitgeber im Kreis Mureș.",
         "Der Komplex spielt eine Schlüsselrolle in der lokalen industriellen Wertschöpfung."
       ],
-      hu: [],
+      hu: ["Az Azomureș a legnagyobb műtrágyagyártó Romániában.", "A vállalat fedezi a belföldi agrárvegyipari szükséglet nagy részét.", "A marosvásárhelyi telephely hatalmas ipari létesítményekkel rendelkezik az ammóniaszintézishez.", "Az Azomureș a román földgáz egyik legfontosabb felvevője.", "A vállalat jelentős összegeket fektet be a kibocsátáscsökkentő technológiákba.", "A termékeket szigorú minőségellenőrzés mellett gyártják a világpiac számára.", "Az Azomureș Maros megye egyik legnagyobb munkaadója.", "A komplexum kulcsszerepet játszik a helyi ipari értékteremtésben."],
       ro: [],
       en: []
     }
@@ -842,7 +842,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Leoni Wiring Systems in Bistritz (Bistrița) ist ein internationaler Spitzenstandort für die Herstellung von Bordnetzen und Kabelsätzen für die globale Automobilindustrie. Als Teil der deutschen Leoni-Gruppe hat sich der Standort zu einem der größten Arbeitgeber in Nordrumänien entwickelt. In den weitläufigen Produktionshallen werden hochkomplexe Kabelsysteme für führende Fahrzeughersteller gefertigt, wobei sowohl hochautomatisierte Prozesse als auch präzise Handarbeit zum Einsatz kommen. Leoni Bistrița zeichnet sich durch eine exzellente Logistik und ein ausgeklügeltes Qualitätsmanagement aus. Der Standort ist eng mit der lokalen Gemeinschaft verwurzelt und trägt durch kontinuierliche Investitionen in die Belegschaft und moderne Produktionstechnologien maßgeblich zur industriellen Dynamik der Region bei. Leoni ist ein Paradebeispiel für die erfolgreiche Integration rumänischer Standorte in die globale Supply Chain der Automobilbranche.",
-      hu: "",
+      hu: "A besztercei Leoni Wiring Systems a globális autóipar számára készülő fedélzeti hálózatok és kábelkötegek gyártásának nemzetközi csúcsteljesítményű helyszíne. A német Leoni-csoport részeként a telephely Észak-Románia egyik legnagyobb munkaadójává fejlődött. A kiterjedt gyártócsarnokokban rendkívül összetett kábelrendszereket gyártanak vezető járműgyártók számára, ahol mind a nagymértékben automatizált folyamatokat, mind a precíz kézi munkát alkalmazzák. A Leoni Beszterce kiváló logisztikával és kifinomult minőségirányítással tűnik ki. A telephely szorosan gyökerezik a helyi közösségben, és a munkaerőbe, valamint a modern gyártási technológiákba történő folyamatos beruházásokkal jelentősen hozzájárul a régió ipari dinamikájához. A Leoni kiváló példája a romániai telephelyek sikeres integrációjának az autóipar globális ellátási láncába.",
       ro: "",
       en: ""
     },
@@ -857,7 +857,7 @@ export const poiExtraRo2: POI[] = [
         "Leoni fördert die lokale Ausbildung durch Kooperationen mit Schulen.",
         "Der Standort ist ein Musterbeispiel für effiziente Massenproduktion."
       ],
-      hu: [],
+      hu: ["A Leoni Beszterce a világ legismertebb autómárkái számára gyárt kábelkötegeket.", "A telephely Beszterce-Naszód megye legnagyobb munkaadója.", "Összetett fedélzeti hálózatokat gyártanak személygépkocsikhoz és haszongépjárművekhez.", "A Leoni több specializált gyárat üzemeltet a régióban.", "A vállalat termékeit Európa összes nagy autógyárába exportálja.", "A minőségre és a munkabiztonságra vonatkozó magas szabványok jellemzik az üzemet.", "A Leoni az iskolákkal való együttműködés révén támogatja a helyi képzést.", "A telephely a hatékony tömegtermelés mintapéldája."],
       ro: [],
       en: []
     }
@@ -883,7 +883,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Egger-Werk in Rädăuți (Rădăuți) ist einer der modernsten Holzverarbeitungsstandorte in Osteuropa und ein zentraler Pfeiler der rumänischen Möbel- und Bauzulieferindustrie. In dem riesigen Werk werden hochwertige Spanplatten, MDF-Platten und Laminate produziert, die in die ganze Welt exportiert werden. Egger setzt in Rädăuți auf ein integriertes Standortkonzept, das eine effiziente Nutzung von Rohstoffen und Energie ermöglicht. Besonders hervorzuheben ist das Engagement im Bereich Nachhaltigkeit: Das Werk verfügt über modernste Recyclinganlagen für Altholz und ein eigenes Biomassekraftwerk zur Energieerzeugung. Durch diese Kreislaufwirtschaft minimiert Egger seinen ökologischen Fußabdruck. Als bedeutender Arbeitgeber in der Bukowina sichert das Unternehmen nicht nur direkt Tausende von Jobs, sondern unterstützt auch indirekt eine Vielzahl lokaler Dienstleister und Forstbetriebe.",
-      hu: "",
+      hu: "A radóci (Rădăuți) Egger gyár Kelet-Európa egyik legmodernebb fafeldolgozó telephelye és a román bútor- és építőipari beszállító ipar központi pillére. A hatalmas gyárban kiváló minőségű forgácslapokat, MDF-lapokat és laminátumokat gyártanak, amelyeket a világ minden tájára exportálnak. Az Egger Radócon integrált telephely-koncepcióra épít, amely lehetővé teszi a nyersanyagok és az energia hatékony felhasználását. Különösen kiemelendő a fenntarthatóság melletti elkötelezettség: a gyár a legmodernebb újrahasznosító berendezésekkel rendelkezik a hulladékfa számára, és saját biomassza-erőművel termel energiát. Ezzel a körforgásos gazdasággal az Egger minimalizálja ökológiai lábnyomát. Bukovina jelentős munkaadójaként a vállalat nemcsak közvetlenül biztosít több ezer munkahelyet, hanem közvetve helyi szolgáltatókat is támogat.",
       ro: "",
       en: ""
     },
@@ -898,7 +898,7 @@ export const poiExtraRo2: POI[] = [
         "Das Werk ist ein entscheidender Wirtschaftsmotor für den Kreis Suceava.",
         "Umfangreiche Filteranlagen sorgen für saubere Luft am Produktionsstandort."
       ],
-      hu: [],
+      hu: ["Az Egger Radóc Románia egyik legnagyobb fafeldolgozó üzeme.", "A gyártásban a legmodernebb technológiákat alkalmazzák a forgács- és farostlemezekhez.", "A telephely saját biomassza-erőművel rendelkezik az áramtermeléshez.", "Az Egger Radócon az egyik legfejlettebb hulladékfa-újrahasznosító üzemet működteti.", "A vállalat the globális bútoripart szolgálja ki, beleértve az IKEA-t is.", "A fenntarthatóság és az FSC-tanúsítás a stratégia központi elemei.", "A gyár Suceava megye döntő fontosságú gazdasági motorja.", "Átfogó szűrőberendezések gondoskodnak a tiszta levegőről a gyártási helyszínen."],
       ro: [],
       en: []
     }
@@ -924,7 +924,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Rifil in Săvinești ist ein traditionsreicher Name in der rumänischen Textilindustrie und gilt als Pionier in der Herstellung von synthetischen Garnen. Das Unternehmen, das aus einer erfolgreichen italienisch-rumänischen Partnerschaft hervorging, hat den industriellen Charakter der Region Neamț über Jahrzehnte geprägt. Rifil ist spezialisiert auf hochwertige Acrylgarne und Mischgewebe, die für die globale Mode- und Heimtextilindustrie produziert werden. Durch kontinuierliche Innovationen in der Spinnereitechnologie und ein starkes Augenmerk auf Umweltstandards hat Rifil die schwierigen Zeiten des Strukturwandels erfolgreich gemeistert. Heute steht Rifil für Qualität 'Made in Romania' und ist ein geschätzter Lieferant für namhafte internationale Marken. Das Unternehmen ist nicht nur ein bedeutender Exporteur, sondern auch ein wichtiger sozialer Akteur und Arbeitgeber in der Region Moldau.",
-      hu: "",
+      hu: "A Săvinești-i Rifil patinás név a román textiliparban, és a szintetikus fonalak gyártásának úttörőjeként tartják számon. A sikeres olasz-román partnerségből létrejött vállalat évtizedek óta meghatározza Neamț megye ipari karakterét. A Rifil kiváló minőségű akrilfonalakra és kevert szövetekre specializálódott, amelyeket a globális divat- és lakástextil-ipar számára gyártanak. A fonástechnológia folyamatos innovációja és a környezetvédelmi szabványokra való fokozott figyelem révén a Rifil sikeresen vette a szerkezeti átalakítás nehézségeit. Ma a Rifil a 'Made in Romania' minőséget képviseli, és neves nemzetközi márkák megbecsült beszállítója. A vállalat nemcsak jelentős exportőr, hanem fontos társadalmi szereplő és munkaadó is a moldvai régióban.",
       ro: "",
       en: ""
     },
@@ -939,7 +939,7 @@ export const poiExtraRo2: POI[] = [
         "Rifil ist das wirtschaftliche Herzstück des Industriestandorts Săvinești.",
         "Die Garne finden Anwendung in hochwertiger Strickmode und Webstoffen."
       ],
-      hu: [],
+      hu: ["A Rifil Săvinești volt az első vegyesvállalat egy nyugati és egy román cég között.", "A vállalat az akrilfonalak vezető európai gyártója.", "Săvinești-ben több mint 50 éves tapasztalatra tekintenek vissza a textilgyártásban.", "A Rifil termelésének nagy részét az Európai Unióba exportálja.", "Az olasz partnerség a legmodernebb technikát és tervezési szaktudást hozta el.", "A vállalat következetesen fektet be az ökológiai festési technológiákba.", "A Rifil a săvinești-i ipari telephely gazdasági központja.", "A fonalakat kiváló minőségű kötött divatárukban és szőtt anyagokban használják."],
       ro: [],
       en: []
     }
@@ -965,7 +965,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Delphi-Werk (jetzt Teil von Phinia / BorgWarner) in Jassy (Iași) ist ein hochmodernes Zentrum für die Produktion von Diesel-Einspritzsystemen und Komponenten für das Kraftstoffmanagement. Die Fabrik im Industriepark Miroslava ist eines der technologisch fortschrittlichsten Werke in ganz Nordost-Rumänien. Hier werden Hochpräzisionskomponenten gefertigt, die für die Reduzierung von Fahrzeugemissionen und die Steigerung der Motoreffizienz entscheidend sind. Der Standort Iași profitiert massiv von der Nähe zur Technischen Universität, was einen stetigen Zustrom von hochqualifizierten Ingenieuren garantiert. Durch den Einsatz von Reinraumtechnologie und automatisierten Prüfsystemen erfüllt Delphi höchste globale Qualitätsstandards. Das Werk ist ein zentraler Baustein in der Strategie für saubere Mobilität und ein bedeutender Wirtschaftsfaktor, der Iași als modernen Industriestandort auf der europäischen Landkarte festigt.",
-      hu: "",
+      hu: "A jászvásári (Iași) Delphi gyár (ma a Phinia / BorgWarner része) a dízelbefecskendező rendszerek és az üzemanyag-kezelési alkatrészek gyártásának ultramodern központja. A Miroslava ipari parkban található gyár Északkelet-Románia egyik technológiailag legfejlettebb üzeme. Itt olyan nagy pontosságú alkatrészek készülnek, amelyek döntő fontosságúak a járművek kibocsátásának csökkentésében és a motor hatékonyságának növelésében. A jászvásári telephely sokat profitál a Műszaki Egyetem közelségéből, ami garantálja a magasan képzett mérnökök folyamatos utánpótlását. A tisztatéri technológia és az automatizált tesztrendszerek alkalmazásával a Delphi a legmagasabb globális minőségi szabványoknak felel meg. A gyár a tiszta mobilitási stratégia központi eleme és jelentős gazdasági tényező Jászvásáron.",
       ro: "",
       en: ""
     },
@@ -980,7 +980,7 @@ export const poiExtraRo2: POI[] = [
         "Delphi Iași exportiert Komponenten an fast alle großen Automobilhersteller.",
         "Nachhaltige Fertigungsprozesse sind ein Kernbestandteil der Standortstrategie."
       ],
-      hu: [],
+      hu: ["A jászvásári gyár nagynyomású szivattyúkat és injektorokat készít dízelmotorokhoz.", "A kibocsátáscsökkentő technológiák kulcsfontosságú helyszíne.", "A gyártás szigorú tisztatéri körülmények között zajlik.", "A jászvásári telephely a műszaki szakokon végzettek mágnese.", "A gyár a hajtástechnológiák globális hálózatának része.", "Miroslavában több száz millió eurót fektettek a legmodernebb berendezésekbe.", "A Delphi Iași szinte az összes nagy autógyártónak exportál alkatrészeket.", "A fenntartható gyártási folyamatok a telephely stratégiájának alapvető részét képezik."],
       ro: [],
       en: []
     }
@@ -1006,7 +1006,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Rulmenți Bârlad ist ein Traditionsunternehmen der rumänischen Schwerindustrie und ein weltweit anerkannter Hersteller von Wälzlagern. Unter der globalen Marke URB bekannt, liefert das Unternehmen Lagerlösungen für verschiedenste Anwendungen – vom allgemeinen Maschinenbau über den Bergbau bis hin zur Eisenbahntechnik. Der Standort in Bârlad blickt auf eine jahrzehntelange Erfahrung zurück und hat sich durch ständige Modernisierung seines Maschinenparks an die internationalen Qualitätsstandards angepasst. Heute gehört das Unternehmen zur türkischen Kombassan-Gruppe und exportiert seine Produkte in über 80 Länder. Rulmenți Bârlad ist das wirtschaftliche Rückgrat des Kreises Vaslui und ein Beweis für die Beständigkeit rumänischer Ingenieurskunst im globalen Wettbewerb. Das Unternehmen investiert kontinuierlich in Forschung und Entwicklung, um auch in Zukunft innovative und langlebige Lagerlösungen für die Weltindustrie anzubieten.",
-      hu: "",
+      hu: "A Rulmenți Bârlad a román nehézipar hagyományőrző vállalata és a gördülőcsapágyak világszerte elismert gyártója. Az URB globális márkanéven ismert vállalat csapágymegoldásokat szállít a legkülönbözőbb alkalmazásokhoz – az általános gépgyártástól a bányászaton át a vasúti technikáig. A bârladi telephely évtizedes tapasztalatra tekint vissza, és gépparkjának állandó modernizálásával alkalmazkodott a nemzetközi minőségi szabványokhoz. Ma a vállalat a török Kombassan-csoporthoz tartozik, és termékeit több mint 80 országba exportálja. A Rulmenți Bârlad Vaslui megye gazdasági gerince és bizonyítéka a román mérnöki tudás állandóságának a globális versenyben. A vállalat folyamatosan fektet be a kutatásba és fejlesztésbe, hogy a jövőben is innovatív és tartós csapágymegoldásokat kínáljon.",
       ro: "",
       en: ""
     },
@@ -1021,7 +1021,7 @@ export const poiExtraRo2: POI[] = [
         "In den letzten Jahren wurden die Fertigungslinien umfassend automatisiert.",
         "Bârlad ist ein anerkanntes Kompetenzzentrum für Wälzlagertechnik."
       ],
-      hu: [],
+      hu: ["A Rulmenți Bârlad a világszerte ismert URB márkanév alatt gyárt.", "A vállalat termelésének több mint 90%-át minden kontinensre exportálja.", "A bârladi üzemet már 1953-ban megalapították.", "A termékpaletta több ezer különböző csapágytípust foglal magában.", "A Rulmenți Vaslui megye legjelentősebb munkaadója.", "A vállalat a nehézipar és a vasúti járművek számára szállít csapágyakat.", "Az elmúlt években a gyártósorokat átfogóan automatizálták.", "Bârlad a gördülőcsapágy-technológia elismert kompetenciaközpontja."],
       ro: [],
       en: []
     }
@@ -1047,7 +1047,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Damen Werft in Galatz (Galați) ist einer der modernsten und leistungsfähigsten Schiffbaustandorte an der Donau. Als Teil der niederländischen Damen Shipyards Group verbindet die Werft rumänische Schiffbautradition mit westlichem High-Tech-Management. In Galați werden hochkomplexe Spezialschiffe gebaut, darunter Superyachten, Patrouillenboote der Küstenwache, Forschungsschiffe und Versorgungsschiffe für die Offshore-Industrie. Die Werft verfügt über beeindruckende Trockendocks und eine enorme Fertigungskapazität, die es ermöglicht, Schiffe von der ersten Stahlplatte bis zur Endausrüstung komplett vor Ort zu realisieren. Damen Galați ist ein wichtiger technologischer Motor für den Osten Rumäniens und sichert durch seine globale Ausrichtung Tausende von hochqualifizierten Arbeitsplätzen im Schiffbau und in verwandten Ingenieursdisziplinen. Die Werft ist ein Aushängeschild für rumänische Präzision auf den Weltmeeren.",
-      hu: "",
+      hu: "A galaci (Galați) Damen hajógyár a Duna egyik legmodernebb és legnagyobb teljesítményű hajóépítő helyszíne. A holland Damen Shipyards Group részeként a hajógyár a román hajóépítési hagyományokat ötvözi a nyugati csúcstechnológiás menedzsmenttel. Galacon rendkívül összetett speciális hajókat építenek, beleértve a szuperjachtokat, a partvédelmi járőrhajókat, a kutatóhajókat és az offshore ipar kiszolgálóhajóit. A hajógyár lenyűgöző szárazdokkokkal és hatalmas gyártási kapacitással rendelkezik, amely lehetővé teszi a hajók teljes megvalósítását az első acéllemeztől a végső felszerelésig. A Damen Galați Kelet-Románia fontos technológiai motorja, amely globális orientációja révén több ezer magasan képzett munkahelyet biztosít a hajóépítésben és a kapcsolódó mérnöki tudományokban.",
       ro: "",
       en: ""
     },
@@ -1062,7 +1062,7 @@ export const poiExtraRo2: POI[] = [
         "In Galați wurde die größte in Rumänien gebaute Privatyacht fertiggestellt.",
         "Die Werft nutzt modernste 3D-Design- und Fertigungssoftware."
       ],
-      hu: [],
+      hu: ["A Damen Galați a román hajóépítő ipar zászlóshajója.", "A hajógyár világszerte készít nagy szakértelmet igénylő hajókat az ügyfeleknek.", "Galacon építették a NATO legfejlettebb hadihajói közül néhányat.", "A telephely az al-dunai szakasz egyik legnagyobb szárazdokkjával rendelkezik.", "A hajógyár a nemzetközileg tevékenykedő Damen Shipyards Group része.", "Több mint 2000 szakember dolgozik közvetlenül a hajógyárban.", "Galacon készült el a legnagyobb Romániában épített magánjacht.", "A hajógyár a legmodernebb 3D tervező és gyártó szoftvereket használja."],
       ro: [],
       en: []
     }
@@ -1088,7 +1088,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Vard Werft in Brăila ist ein bedeutender Standort für den Schiffbau an der Donau und Teil der norwegischen Vard-Gruppe (einer Tochter von Fincantieri). Die Werft ist spezialisiert auf den Bau von anspruchsvollen Schiffsrümpfen und Spezialschiffen für die Offshore-Energieerzeugung, Fischerei und Expeditionskreuzfahrten. Brăila blickt auf eine lange maritime Geschichte zurück, und die Werft nutzt diese Erfahrung, um komplexe Strukturen nach höchsten skandinavischen Standards zu fertigen. In enger Zusammenarbeit mit der Vard-Werft in Tulcea bildet Brăila ein leistungsstarkes industrielles Cluster. Durch kontinuierliche Investitionen in die Modernisierung der Anlagen und die Ausbildung der Belegschaft bleibt die Werft ein wettbewerbsfähiger Akteur auf dem Weltmarkt. Vard Brăila leistet einen entscheidenden Beitrag zur wirtschaftlichen Stabilität der Stadt und zur Bewahrung des schiffbaulichen Erbes an der Donau.",
-      hu: "",
+      hu: "A brăilai Vard hajógyár a Duna menti hajóépítés jelentős helyszíne, és a norvég Vard-csoport (a Fincantieri leányvállalata) része. A hajógyár igényes hajótestek és speciális hajók építésére szakosodott az offshore energiatermelés, a halászat és az expedíciós körutazások számára. Brăila hosszú tengerészeti múltra tekint vissza, és a hajógyár ezt a tapasztalatot használja fel az összetett szerkezetek gyártásához a legmagasabb skandináv szabványok szerint. A tulcsai Vard hajógyárral szoros együttműködésben Brăila egy nagy teljesítményű ipari klasztert alkot. A berendezések modernizálásába és a munkaerő képzésébe történő folyamatos beruházásokkal a hajógyár versenyképes szereplő marad a világpiacon. A Vard Brăila döntő mértékben hozzájárul a város gazdasági stabilitásához.",
       ro: "",
       en: ""
     },
@@ -1103,7 +1103,7 @@ export const poiExtraRo2: POI[] = [
         "Moderne Schweißtechnologien und Stahlverarbeitung prägen den Betrieb.",
         "Die Werft engagiert sich für umweltfreundlichere Produktionsverfahren."
       ],
-      hu: [],
+      hu: ["A Vard Brăila a neves norvég Vard-csoporthoz tartozik.", "A hajógyár speciális hajók összetett hajótesteire szakosodott.", "Brăilában luxus expedíciós üdülőhajók testei is készülnek.", "A telephely profitál a Dunához és a Fekete-tengerhez való közvetlen hozzáférésből.", "A Vard Brăila legfontosabb ipari munkaadója.", "A hajógyár szorosan együttműködik a norvégiai társtelephelyekkel.", "A modern hegesztési technológiák és az acélmegmunkálás jellemzik az üzemet.", "A hajógyár elkötelezett a környezetbarátabb gyártási folyamatok mellett."],
       ro: [],
       en: []
     }
@@ -1129,7 +1129,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Vard Werft in Tulcea, gelegen am Tor zum Donaudelta, ist einer der größten und wichtigsten Schiffbaustandorte Rumäniens. Als Teil der Vard-Gruppe (Fincantieri) ist Tulcea ein Kompetenzzentrum für den Bau von hochkomplexen Schiffsrümpfen und die Teilmontage von Spezialschiffen für die internationale Seefahrt. Die Werft zeichnet sich durch ihre enorme Größe und die Fähigkeit aus, gleichzeitig an mehreren Großprojekten zu arbeiten. Rümpfe aus Tulcea werden oft nach Norwegen geschleppt, um dort endausgerüstet zu werden, was die tiefe Integration des Standorts in die globale Schiffbau-Wertschöpfungskette unterstreicht. Mit tausenden Beschäftigten ist Vard Tulcea das wirtschaftliche Herz der Region und ein wichtiger Faktor für die soziale Stabilität in der Dobrudscha. Die Werft steht für Qualität, Robustheit und modernste Fertigungstechniken unter anspruchsvollen Bedingungen.",
-      hu: "",
+      hu: "A Duna-delta kapujában található tulcsai (Tulcea) Vard hajógyár Románia egyik legnagyobb és legfontosabb hajóépítő telephelye. A Vard-csoport (Fincantieri) részeként Tulcsa kompetenciaközpont a rendkívül összetett hajótestek építése és a nemzetközi hajózás számára készülő speciális hajók részleges összeszerelése terén. A hajógyár hatalmas méreteivel és azzal a képességével tűnik ki, hogy egyszerre több nagyszabású projekten dolgozzon. A Tulcsában készült hajótesteket gyakran Norvégiába vontatják a végső felszereléshez, ami hangsúlyozza a telephely mély integrációját a globális hajóépítési értékláncba. Több ezer alkalmazottjával a Vard Tulcea a régió gazdasági szíve és Dobrudzsa társadalmi stabilitásának fontos tényezője. A minőséget, a robusztusságot és a legmodernebb gyártási technikákat képviseli.",
       ro: "",
       en: ""
     },
@@ -1144,7 +1144,7 @@ export const poiExtraRo2: POI[] = [
         "Die Werft ist ein zentraler Pfeiler der industriellen Identität von Tulcea.",
         "Investitionen in digitale Fertigungsplanung sichern die Wettbewerbsfähigkeit."
       ],
-      hu: [],
+      hu: ["A Vard Tulcea Délkelet-Románia egyik legnagyobb magánmunkaadója.", "Itt készülnek a világ legfejlettebb offshore hajói közül néhánynak a testei.", "A hajógyár hatalmas kapacitásokkal rendelkezik a nehéz acélszerkezetekhez.", "Tulcsa a nemzetközi haditengerészet számára is gyárt alkatrészeket.", "A telephely a globális Fincantieri konszern része.", "Sok Tulcsában épült hajót használnak az Arktiszon és az Antarktiszon.", "A hajógyár Tulcsa ipari identitásának központi pillére.", "A digitális gyártástervezésbe történő beruházások biztosítják a versenyképességet."],
       ro: [],
       en: []
     }
@@ -1170,7 +1170,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Raffinerie Petromidia in Năvodari, direkt an der Schwarzmeerküste gelegen, ist die größte und modernste Erdölraffinerie Rumäniens. Als Flaggschiff der KMG International Gruppe (Rompetrol) spielt sie eine strategische Rolle für die Energieversorgung im gesamten Schwarzmeerraum. Durch ihren direkten Zugang zum Hafen Midia können Rohölimporte per Tankschiff effizient entladen und die Endprodukte weltweit exportiert werden. Petromidia wurde in den letzten Jahren mit Milliardeninvestitionen modernisiert, um eine maximale Ausbeute an hochwertigen Euro-5-Kraftstoffen zu erreichen. Die Raffinerie ist ein hocheffizienter Komplex, der auch über bedeutende petrochemische Anlagen verfügt. Die Kombination aus maritimer Logistik, modernster Verfahrenstechnik und strategischer Lage macht Petromidia zu einem der wertvollsten Industrie-Assets Südosteuropas und einem zentralen Stabilitätsfaktor für den rumänischen Energiemarkt.",
-      hu: "",
+      hu: "A közvetlenül a Fekete-tenger partján fekvő Năvodari-i Petromidia finomító Románia legnagyobb és legmodernebb kőolajfinomítója. A KMG International csoport (Rompetrol) zászlóshajójaként stratégiai szerepet játszik az egész fekete-tengeri régió energiaellátásában. A Midia kikötőhöz való közvetlen hozzáférés révén a nyersolajimport tartályhajókkal hatékonyan rakodható le, a késztermékek pedig világszerte exportálhatók. A Petromidiát az elmúlt években milliárdos beruházásokkal modernizálták a kiváló minőségű Euro-5-ös üzemanyagok maximális kihozatala érdekében. A finomító egy nagy hatékonyságú komplexum, amely jelentős petrokémiai létesítményekkel is rendelkezik. A tengeri logisztika, a legmodernebb eljárástechnika és a stratégiai elhelyezkedés kombinációja Petromidiát Délkelet-Európa egyik legértékesebb ipari eszközévé teszi.",
       ro: "",
       en: ""
     },
@@ -1185,7 +1185,7 @@ export const poiExtraRo2: POI[] = [
         "Der Standort umfasst die einzige funktionierende Petrochemie-Abteilung in RO.",
         "Petromidia ist ein entscheidender Devisenbringer durch umfangreiche Exporte."
       ],
-      hu: [],
+      hu: ["A Petromidia az egyetlen román finomító saját tengeri kikötői kapcsolattal.", "A telephely az ország legnagyobb üzemanyaggyártója.", "A Petromidia a régió egyik legmagasabb komplexitási mutatójával (Nelson-index) rendelkezik.", "Évente több mint 5 millió tonna nyersanyagot dolgoznak fel itt.", "A finomító a KMG International (KazMunayGas) csoport része.", "Az átfogó környezetvédelmi beruházások csökkentették az ökológiai lábnyomot.", "A telephelyen található az ország egyetlen működő petrokémiai részlege.", "A Petromidia jelentős devizabevételt hoz az országnak a kiterjedt export révén."],
       ro: [],
       en: []
     }
@@ -1211,7 +1211,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Policolor Bukarest ist eine Ikone der rumänischen Chemieindustrie und seit über 50 Jahren der führende Name für Lacke und Farben im Land. Das Unternehmen hat die Entwicklung moderner Beschichtungslösungen in Rumänien maßgeblich geprägt, von Automobillacken über Industriebeschichtungen bis hin zu dekorativen Farben für den Heimwerkersektor. Mit einem starken Fokus auf Forschung und Entwicklung betreibt Policolor in der Hauptstadt ein Innovationszentrum, das kontinuierlich an umweltfreundlichen und langlebigen Rezepturen arbeitet. Trotz des wachsenden Wettbewerbs durch internationale Konzerne behauptet sich Policolor durch lokale Marktanpassung und eine traditionsreiche Markenloyalität. Die Verlagerung der Produktion in neue, modernere Anlagen unterstreicht das Engagement des Unternehmens für eine effiziente und nachhaltige Zukunft am Standort Bukarest, während es gleichzeitig seine Präsenz in der gesamten Balkanregion ausbaut.",
-      hu: "",
+      hu: "A Policolor Bukarest a román vegyipar ikonja, és több mint 50 éve a lakkok és festékek vezető neve az országban. A vállalat döntően befolyásolta a modern bevonati megoldások fejlődését Romániában, az autóipari lakkoktól kezdve az ipari bevonatokon át a barkácsszektor dekorációs festékeiig. A kutatás-fejlesztésre helyezett erős hangsúllyal a Policolor a fővárosban egy innovációs központot működtet, amely folyamatosan környezetbarát és tartós recepteken dolgozik. A nemzetközi konszernek növekvő versenye ellenére a Policolor a helyi piaci alkalmazkodás és a hagyományőrző márkahűség révén őrzi pozícióját. A termelés új, modernebb létesítményekbe való áthelyezése hangsúlyozza a vállalat elkötelezettségét a hatékony és fenntartható jövő iránt a bukaresti telephelyen.",
       ro: "",
       en: ""
     },
@@ -1226,7 +1226,7 @@ export const poiExtraRo2: POI[] = [
         "Der Standort Bukarest ist das logistische Zentrum der gesamten Gruppe.",
         "Die Marke Spor, ein Policolor-Produkt, ist ein Synonym für Wandfarben in RO."
       ],
-      hu: [],
+      hu: ["A Policolort 1965-ben alapították, és Románia egyik legismertebb márkája.", "A vállalat piacvezető a festék- és lakkpiac számos szegmensében.", "A Policolor saját kutatóközpontot üzemeltet a kémiai képletek kidolgozására.", "A termékpaletta építészeti, ipari és autóipari megoldásokat is tartalmaz.", "A vállalat kiterjedt értékesítési hálózattal rendelkezik egész Délkelet-Európában.", "A Policolor jelentősen befektet a vizes bázisú és ökológiai festékrendszerekbe.", "A bukaresti telephely a teljes csoport logisztikai központja.", "A Spor márka, egy Policolor termék, Romániában a falfestékek szinonimája."],
       ro: [],
       en: []
     }
