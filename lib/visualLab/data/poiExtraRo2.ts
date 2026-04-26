@@ -1252,7 +1252,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Werk von Philip Morris in Otopeni, nördlich von Bukarest, hat sich in den letzten Jahren von einer traditionellen Zigarettenfabrik zu einem der weltweit modernsten Standorte für die Produktion von rauchfreien Tabakprodukten gewandelt. Nach massiven Investitionen von über einer halben Milliarde Euro fertigt das Werk heute innovative Heets-Produkte für das IQOS-System, die in zahlreiche Märkte weltweit exportiert werden. Otopeni spielt damit eine Schlüsselrolle in der globalen Vision des Konzerns für eine rauchfreie Zukunft. Die Anlage zeichnet sich durch extrem hohe Standards in der Digitalisierung, Robotik und Qualitätskontrolle aus. Als einer der größten Steuerzahler und Exporteure des Landes ist Philip Morris in Otopeni ein unverzichtbarer Wirtschaftsfaktor für Rumänien. Die Transformation des Standorts ist ein Paradebeispiel für den erfolgreichen industriellen Wandel hin zu technologisch anspruchsvollen und zukunftsorientierten Konsumgütern.",
-      hu: "",
+      hu: "Az Otopeni-ben található Philip Morris International (PMI) gyár a vállalat globális hálózatának egyik legfontosabb és legmodernebb egysége, amely az új generációs, füstmentes termékek gyártására szakosodott. A több száz millió eurós beruházás révén a telephelyet csúcstechnológiás központtá alakították át, ahol a hagyományos cigaretták helyett innovatív dohánytölteteket állítanak elő. A gyár nagymértékben automatizált sorai a legmagasabb minőségi és biztonsági szabványok szerint működnek, biztosítva a nemzetközi piacok ellátását. Az otopeni-i üzem nemcsak jelentős munkaadó Ilfov megyében, hanem a fenntarthatóság és a digitális gyártás (Ipar 4.0) úttörője is a régióban. A vállalat folyamatosan fektet be a helyi munkaerő képzésébe és a környezetvédelmi technológiákba, hogy csökkentse az ökológiai lábnyomát.",
       ro: "",
       en: ""
     },
@@ -1267,7 +1267,7 @@ export const poiExtraRo2: POI[] = [
         "PMI Otopeni ist einer der bedeutendsten Beitragszahler zum rumänischen Staatshaushalt.",
         "Die Produktion wird kontinuierlich um neue innovative Tabak-Technologien erweitert."
       ],
-      hu: [],
+      hu: ["Az otopeni-i gyár a PMI egyik globális központja a füstmentes termékek számára.", "A telephelyet több mint 500 millió eurós beruházással modernizálták.", "A gyártás jelentős része a nemzetközi piacokra, több mint 50 országba irányul.", "A gyárban szigorú minőségellenőrzési rendszereket alkalmaznak minden szakaszban.", "A PMI Otopeni Ilfov megye egyik legnagyobb és legmodernebb munkaadója.", "A létesítmény az energiahatékonyság terén is élen jár a régióban.", "A telephely saját kutatási és fejlesztési támogatással rendelkezik.", "A modernizáció során nagy hangsúlyt fektettek a hulladékmentes gyártásra."],
       ro: [],
       en: []
     }
@@ -1293,7 +1293,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Arctic Găești ist ein wahrer Riese der europäischen Hausgeräteindustrie und das größte Werk für Kühlgeräte auf dem gesamten Kontinent. Seit der Übernahme durch die türkische Arçelik-Gruppe hat sich Arctic zu einem globalen Export-Champion entwickelt, dessen Produkte (unter den Marken Arctic und Beko) in Millionen Haushalten weltweit zu finden sind. Das Werk in Găești zeichnet sich durch eine beeindruckende Skalierbarkeit und hocheffiziente Produktionslinien aus. In Ergänzung zum Standort in Ulmi, wo modernste Waschmaschinen gefertigt werden, bildet Găești das Herzstück eines industriellen Clusters im Kreis Dâmbovița. Arctic ist ein Symbol für die Fähigkeit Rumäniens, in der globalen Massenfertigung von langlebigen Konsumgütern wettbewerbsfähig zu bleiben, und setzt dabei verstärkt auf grüne Logistik und energieeffiziente Produkttechnologien.",
-      hu: "",
+      hu: "A Găești-ben található Arctic gyár Románia és Európa egyik legnagyobb háztartási gépgyártó üzeme, amely mára az Arçelik csoport részeként működik. A gyár elsősorban hűtőszekrények és fagyasztók gyártására szakosodott, és az ország egyik legfontosabb exportőre. A folyamatos beruházásoknak köszönhetően a telephely a legmodernebb technológiákkal van felszerelve, amelyek lehetővé teszik a nagy volumenű, mégis energiahatékony termelést. Az Arctic Găești nemcsak a román ipari örökség része, hanem a modern európai ellátási lánc döntő fontosságú eleme is. A gyárban készült termékek több tucat országba jutnak el, képviselve a romániai mérnöki tudás és precizitás minőségét. A telephely jelentős szerepet játszik Dâmbovița megye gazdasági életében, több ezer család megélhetését biztosítva.",
       ro: "",
       en: ""
     },
@@ -1308,7 +1308,7 @@ export const poiExtraRo2: POI[] = [
         "Arctic leistet einen massiven Beitrag zum BIP des Kreises Dâmbovița.",
         "Das Unternehmen setzt auf kreislauforientierte Produktion und Recycling."
       ],
-      hu: [],
+      hu: ["Az Arctic Găești Európa egyik legnagyobb hűtőszekrény-gyára.", "A gyár az Arçelik globális vállalatcsoport tagja.", "Évente több millió háztartási készüléket állítanak elő a telephelyen.", "A termelés több mint 80%-át a világ különböző piacaira exportálják.", "A gyár híres az energiahatékony (A+++ kategóriás) készülékek gyártásáról.", "Jelentős beruházások történtek a robotizált gyártósorok kiépítésébe.", "Az Arctic a legrégebbi és legismertebb román háztartási gép márka.", "A telephely Dâmbovița megye legfontosabb ipari központja."],
       ro: [],
       en: []
     }
@@ -1334,7 +1334,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Koyo Romania in Alexandria ist ein spezialisiertes Werk für die Produktion von hochwertigen Wälzlagerlösungen und Teil des japanischen JTEKT-Konzerns. Die Fabrik in der Region Teleorman hat sich einen exzellenten Ruf für die Fertigung von Präzisionslagern erarbeitet, die in der Automobilindustrie, im Maschinenbau und in der Landwirtschaft weltweit zum Einsatz kommen. Durch die Integration japanischer Managementprinzipien (Kaizen) und modernster Fertigungstechnologien hat Koyo den Standort Alexandria zu einem hocheffizienten Produktionszentrum ausgebaut. Das Werk ist ein wichtiger Brückenkopf für JTEKT in Europa und liefert Komponenten an namhafte Fahrzeughersteller. Für die Stadt Alexandria ist Koyo der bedeutendste industrielle Arbeitgeber und ein Motor für technisches Know-how in einer ansonsten stark landwirtschaftlich geprägten Region.",
-      hu: "",
+      hu: "A târgoviștei Koyo gyár (a JTEKT csoport tagja) a precíziós csapágyak gyártásának nemzetközi hírű központja Romániában. A gyárban készült alkatrészeket világszerte használják az autóiparban, a mezőgazdasági gépekben és az általános gépgyártásban. A telephelyet a japán precizitás és a legmagasabb szintű minőségirányítás jellemzi, ami garantálja a csapágyak hosszú élettartamát és megbízhatóságát a legnehezebb körülmények között is. A Koyo Târgoviște az elmúlt években jelentős technológiai frissítésen esett át, hogy megfeleljen az elektromos járművek és a modern ipari automatizálás kihívásainak. A gyár nemcsak az exportpiacokon sikeres, hanem a helyi közösség fontos partnere is, támogatva a műszaki oktatást és a szakmai képzést a régióban.",
       ro: "",
       en: ""
     },
@@ -1349,7 +1349,7 @@ export const poiExtraRo2: POI[] = [
         "Regelmäßige Investitionen fließen in die Automatisierung der Fertigungslinien.",
         "Das Werk verfügt über ein eigenes Labor für Materialprüfung und Präzisionsmessung."
       ],
-      hu: [],
+      hu: ["A Koyo Târgoviște a japán JTEKT Corporation része.", "A gyár golyós- és görgőscsapágyak széles választékát állítja elő.", "A termékek jelentős része a globális autóipari óriásokhoz kerül.", "A telephelyen szigorú japán minőségbiztosítási rendszereket alkalmaznak.", "A gyár Románia egyik legfontosabb gépipari exportőre.", "Târgoviște városának egyik legnagyobb és legstabilabb munkaadója.", "Folyamatosak a fejlesztések a súrlódáscsökkentő technológiák terén.", "A gyár modern CNC megmunkáló központokkal van felszerelve."],
       ro: [],
       en: []
     }
@@ -1375,7 +1375,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Werft in Giurgiu (Șantierul Naval Giurgiu) ist ein traditionsreicher Standort für den Bau und die Reparatur von Binnenschiffen an der unteren Donau. Durch ihre strategische Lage an der Grenze zu Bulgarien und in der Nähe von Bukarest fungiert sie als wichtiger Dienstleister für die Flussschifffahrt auf dem Rhein-Main-Donau-Korridor. Die Werft ist spezialisiert auf den Bau von Schuten, Prahmen und kleineren Schleppern sowie auf die Wartung von Passagierschiffen. Giurgiu verfügt über Slipanlagen und Werkstätten für komplexe Stahlbauarbeiten und Motoreninstandsetzungen. Trotz des Wettbewerbs durch größere Werften behauptet sich der Standort durch Flexibilität und spezialisiertes Fachwissen. Die Werft ist ein zentraler Bestandteil der maritimen Infrastruktur Rumäniens und trägt zur Aufrechterhaltung der Logistikketten auf der Donau bei.",
-      hu: "",
+      hu: "A giurgiui hajógyár a Duna menti hajóépítés és -javítás egyik nagy múltú helyszíne, amely stratégiai elhelyezkedése révén fontos szerepet játszik a folyami közlekedésben. A hajógyár elsősorban uszályok, vontatóhajók és kisebb folyami egységek építésére, valamint nagyobb hajók szerkezeti javítására szakosodott. A telephely modern emelőberendezésekkel és sólyaterekkel rendelkezik, amelyek lehetővé teszik a hajók hatékony karbantartását. Giurgiu városa és a kikötő szoros kapcsolata révén a hajógyár a helyi gazdaság egyik alappillére, amely megőrzi a dunai hajózáshoz kapcsolódó szakmai tudást. A modernizációs törekvések célja a hatékonyabb acélszerkezet-gyártás és a környezetbarátabb üzemeltetés, biztosítva a telephely versenyképességét a nemzetközi folyami piacon.",
       ro: "",
       en: ""
     },
@@ -1390,7 +1390,7 @@ export const poiExtraRo2: POI[] = [
         "Giurgiu ist ein strategischer Hafenstandort an der Grenze zu Bulgarien.",
         "Die Werft trägt zur Bewahrung des schiffbaulichen Wissens in der Region bei."
       ],
-      hu: [],
+      hu: ["A giurgiui hajógyár fontos központ a Duna menti hajójavításban.", "A telephely speciális folyami szállítóegységek építésére alkalmas.", "Saját sólyatérrel rendelkezik a hajók szárazra emeléséhez.", "A hajógyár Giurgiu megye egyik legjelentősebb ipari létesítménye.", "A telephely szorosan kapcsolódik a Giurgiu-Ruse dunai logisztikai folyosóhoz.", "Számos nemzetközi folyami hajózási társaság veszi igénybe a szolgáltatásait.", "A gyár tapasztalt szakembergárdával rendelkezik az acélszerkezetek terén.", "Folyamatosak a törekvések a technológiai park megújítására."],
       ro: [],
       en: []
     }
@@ -1416,7 +1416,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "TenarisDonasid in Călărași ist ein spezialisiertes Stahlwerk, das innerhalb der globalen Tenaris-Gruppe eine Schlüsselrolle bei der Versorgung mit Vormaterial für die Rohrproduktion spielt. In Călărași wird in einem modernen Elektrolichtbogenofen hochwertiger Stahl aus recyceltem Schrott erschmolzen und zu Rundstahl (Knüppeln) vergossen. Diese Knüppel dienen als Basis für die nahtlosen Rohre, die im Tenaris-Werk in Zalău endgefertigt werden. Der Standort zeichnet sich durch einen hohen Grad an Ressourceneffizienz und ein ausgeklügeltes Recycling-Management aus. Durch den direkten Zugang zur Donau verfügt das Werk über exzellente logistische Möglichkeiten für den Transport von Schrott und Fertigprodukten. TenarisDonasid ist ein bedeutender Wirtschaftsfaktor im Südosten Rumäniens und setzt hohe Maßstäbe für eine umweltfreundlichere Stahlproduktion durch Dekarbonisierung.",
-      hu: "",
+      hu: "A Tenaris călărași-i acélműve a TenarisSilcotub hálózatának integrált része, amely az acélgyártás kezdeti szakaszára, az elektromos ívkemencés olvasztásra és a tuskógyártásra szakosodott. Ez a telephely látja el alapanyaggal a zilahi csőgyárat, így a romániai vertikális integráció kulcsfontosságú eleme. A gyárat a legmodernebb környezetvédelmi technológiákkal szerelték fel, beleértve a hatékony füstgázszűrő rendszereket, hogy minimalizálják az ipari tevékenység hatását a környezetre. Călărași-ban a hangsúly a nagy tisztaságú acél előállításán van, amely elengedhetetlen a speciális olajipari és energetikai csövek gyártásához. A Tenaris jelentős beruházásokat eszközölt a telephelyen a hatékonyság növelése és a munkabiztonság javítása érdekében, megerősítve a város ipari jelentőségét.",
       ro: "",
       en: ""
     },
@@ -1431,7 +1431,7 @@ export const poiExtraRo2: POI[] = [
         "TenarisDonasid ist einer der größten Arbeitgeber im Kreis Călărași.",
         "Strenge Sicherheits- und Umweltstandards prägen den gesamten Betrieb."
       ],
-      hu: [],
+      hu: ["A călărași-i acélmű a Tenaris-csoport fontos nyersanyaggyártó egysége.", "Modern elektromos ívkemencéket használnak az acélgyártáshoz.", "A telephely speciális acéltuskókat szállít a zilahi csőhengerlőbe.", "A gyár Călărași megye egyik legnagyobb ipari beruházója.", "Szigorú környezetvédelmi szabványok szerint működik a létesítmény.", "A Tenaris saját szakképzési programokat indított a helyi fiatalok számára.", "A gyártási folyamat nagymértékben automatizált és digitálisan felügyelt.", "A telephely stratégiai fontosságú a romániai acélipari láncban."],
       ro: [],
       en: []
     }
@@ -1457,7 +1457,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Chemiekombinat in Slobozia (Chemgas) ist ein bedeutender Produzent von Stickstoffdüngemitteln und ein zentraler Akteur in der Agrarwirtschaft der Bărăgan-Steppe, Rumäniens wichtigster Kornkammer. Die Anlage stellt Ammoniak, Harnstoff und Ammoniumnitrat her, die für die Steigerung der landwirtschaftlichen Erträge in der Region unerlässlich sind. Der Standort profitiert von seiner Nähe zu den großen Anbaugebieten, was die Logistikkosten für die lokalen Landwirte reduziert. Trotz der Herausforderungen durch schwankende Energiepreise bleibt das Werk in Slobozia ein strategischer Pfeiler für die regionale Industrieentwicklung. Die Integration des Kombinats in die lokale Wirtschaft sichert zahlreiche Arbeitsplätze und fördert verwandte Dienstleistungsbranchen im Kreis Ialomița. Kontinuierliche Bemühungen um technologische Anpassungen zielen darauf ab, die Produktion effizienter und wettbewerbsfähiger zu gestalten.",
-      hu: "",
+      hu: "A sloboziai Amonil (ma Chemgas néven ismert) vegyipari kombinát a román műtrágyagyártás egyik meghatározó szereplője az Alföld (Bărăgan) szívében. A telephely elsősorban ammónia, karbamid és egyéb nitrogénalapú műtrágyák előállítására szakosodott, amelyek elengedhetetlenek a régió intenzív mezőgazdasága számára. Stratégiai elhelyezkedése lehetővé teszi a gazdák gyors és hatékony kiszolgálását az ország egyik legfontosabb gabonatermelő övezetében. A kombinát története során számos kihívással nézett szembe az energiapiaci változások miatt, de továbbra is fontos ipari csomópont marad Ialomița megyében. A modernizációs tervek a gázfelhasználás hatékonyságának javítására és a környezetvédelmi normákhoz való jobb alkalmazkodásra fókuszálnak, biztosítva a termelés hosszú távú fenntarthatóságát.",
       ro: "",
       en: ""
     },
@@ -1472,7 +1472,7 @@ export const poiExtraRo2: POI[] = [
         "Es werden kontinuierlich Maßnahmen zur Verbesserung der Energieeffizienz geprüft.",
         "Das Kombinat ist einer der bedeutendsten Arbeitgeber in der Stadt Slobozia."
       ],
-      hu: [],
+      hu: ["A sloboziai kombinát a Bărăgan-alföld mezőgazdaságának fő kiszolgálója.", "A gyár ammónia és karbamid gyártására specializálódott.", "Ialomița megye egyik legjelentősebb nehézipari létesítménye.", "A telephely közvetlen hozzáféréssel rendelkezik a földgáz-vezetékrendszerhez.", "A termelés nagyban függ a nemzetközi gázárak alakulásától.", "A kombinát fontos munkahelyeket teremt Slobozia városában.", "A termékek egy részét a nemzetközi piacokon is értékesítik.", "Folyamatosak a fejlesztések a biztonságos vegyipari technológiák terén."],
       ro: [],
       en: []
     }
@@ -1498,7 +1498,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Ursus Brauerei in Buzău ist eine der modernsten und größten Produktionsstätten für Bier in Rumänien. Als Teil der Ursus Breweries Gruppe (gehörend zu Asahi Europe & International) werden hier bekannte Marken wie Ursus, Timișoreana und Ciucaș in riesigen Mengen gebraut. Das Werk in Buzău hat in den letzten Jahren massive Investitionen in hochmoderne Abfüllanlagen, Filtrationstechnik und nachhaltige Brauprozesse erhalten. Die Brauerei zeichnet sich durch ein vorbildliches Umweltmanagement aus, das auf die Reduzierung von Wasserverbrauch und CO2-Emissionen abzielt. Durch ihre zentrale Lage ist die Brauerei Buzău ein wichtiger Logistikknotenpunkt für den Vertrieb von Getränken im ganzen Land. Das Traditionsbewusstsein der Marke Ursus gepaart mit japanischer Prozessdisziplin macht den Standort zu einem Vorreiter in der rumänischen Lebensmittel- und Getränkeindustrie.",
-      hu: "",
+      hu: "A bodzavásári (Buzău) Ursus sörgyár a román söripar egyik legmodernebb és legnagyobb kapacitású létesítménye, amely az Asahi Europe & International csoport tagja. A gyárban készülnek Románia legnépszerűbb sörmárkái, köztük az Ursus, a Timișoreana és a Ciucaș. A telephelyet az elmúlt években jelentős összegekből modernizálták, bevezetve a legújabb főzési, szűrési és palackozási technológiákat. A fenntarthatóság jegyében a gyár nagy hangsúlyt fektet a víz- és energiafelhasználás csökkentésére, valamint a csomagolási hulladék minimalizálására. Az Ursus Buzău nemcsak a sörimádók számára fontos helyszín, hanem a város egyik legstabilabb gazdasági motorja is, amely több száz embernek ad munkát és támogatja a helyi beszállítókat. A gyár minőségirányítási rendszere garantálja, hogy minden pohár sör megfeleljen a legmagasabb elvárásoknak.",
       ro: "",
       en: ""
     },
@@ -1513,7 +1513,7 @@ export const poiExtraRo2: POI[] = [
         "Die Brauerei fördert verantwortungsvollen Alkoholkonsum durch lokale Kampagnen.",
         "In Buzău werden auch alkoholfreie Biere mit modernsten Verfahren hergestellt."
       ],
-      hu: [],
+      hu: ["A buzăui Ursus gyár az egyik legmodernebb sörfőzde Romániában.", "A létesítmény az Asahi japán italgyártó óriás tulajdonában van.", "Itt gyártják az ország piacvezető sörmárkáinak jelentős részét.", "A gyár saját szennyvízkezelő és energia-visszanyerő rendszerrel rendelkezik.", "A palackozósorok óránként több tízezer egység kezelésére képesek.", "Az Ursus a legrégebbi folyamatosan működő sörgyár a régióban.", "A telephely Buzău megye egyik legnagyobb adófizetője.", "Szigorú alapanyag-ellenőrzést végeznek a maláta és a komló beszerzésekor."],
       ro: [],
       en: []
     }
@@ -1539,7 +1539,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Pandora Prod in Focșani ist ein herausragendes Beispiel für die Leistungsfähigkeit der rumänischen Textilindustrie im High-End-Segment. Das Unternehmen hat sich auf die Herstellung von hochwertiger Damen- und Herrenbekleidung für internationale Luxusmarken spezialisiert. In den modernen Ateliers von Focșani verbinden sich handwerkliches Können und modernste CAD/CAM-Technologien zu Produkten höchster Güte. Pandora Prod gilt als einer der innovativsten Textilhersteller des Landes und investiert kontinuierlich in Forschung, Design und nachhaltige Produktionsmethoden. Die Region Vrancea ist traditionell ein Zentrum der Bekleidungsindustrie, und Pandora führt dieses Erbe durch Kooperationen mit globalen Designern in die Zukunft. Das Unternehmen ist ein wichtiger Exporteur und trägt maßgeblich zum Ruf Rumäniens als Standort für exzellente Modefertigung in Europa bei.",
-      hu: "",
+      hu: "A foksányi (Focșani) Pandora gyár a román textil- és ruhaipar egyik legsikeresebb szereplője, amely a luxus és prémium kategóriás világmárkák megbecsült partnere. A gyár a precíz szabásról, a kiváló minőségű varrásról és a modern gyártásszervezésről ismert. A Pandora folyamatosan fektet be a legújabb technológiákba, mint például az automata szabászgépek és a digitális tervezőrendszerek, hogy versenyképes maradjon a globális piacon. Vrancea megye egyik legnagyobb munkaadójaként a vállalat nagy hangsúlyt fektet a dolgozók képzésére és a modern munkakörülmények biztosítására. A gyár rugalmassága és a bonyolult modellek megvalósításának képessége tette lehetővé, hogy neves divatházak állandó beszállítójává váljon, bizonyítva a román könnyűipar magas színvonalát.",
       ro: "",
       en: ""
     },
@@ -1554,7 +1554,7 @@ export const poiExtraRo2: POI[] = [
         "Nachhaltige Stoffe und ressourcenschonende Fertigung gewinnen an Bedeutung.",
         "Focșani ist durch Pandora ein fester Name auf der europäischen Modekarte."
       ],
-      hu: [],
+      hu: ["A Pandora Focșani neves nemzetközi luxusmárkáknak gyárt ruházati termékeket.", "A gyár Vrancea megye egyik legjelentősebb exportőre.", "Modern CAD/CAM rendszereket használnak a tervezéshez és szabáshoz.", "A vállalat nagy hangsúlyt fektet az etikus gyártásra és a fenntarthatóságra.", "A telephely több mint 1000 szakképzett munkavállalót foglalkoztat.", "A Pandora híres a bonyolult technikai megoldások precíz kivitelezéséről.", "A gyár termékei a világ legexkluzívabb üzleteinek polcaira kerülnek.", "Folyamatos a technológiai megújulás a hatékonyság növelése érdekében."],
       ro: [],
       en: []
     }
@@ -1580,7 +1580,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Chimcomplex Borzești ist der wichtigste chemische Industriekomplex in der Region Moldau und ein strategischer Akteur in der rumänischen Wirtschaft. Nach der Übernahme von Vermögenswerten von Oltchim hat sich Chimcomplex zum größten Chemieunternehmen des Landes entwickelt. Der Standort in Borzești ist spezialisiert auf die Chlor-Alkali-Chemie, die Herstellung von Polyolen und verschiedenen anorganischen Chemikalien, die in unzähligen Industriezweigen Anwendung finden. Das Unternehmen verfolgt eine ambitionierte Wachstumsstrategie, die auf Modernisierung, Energieeffizienz und die Entwicklung grüner Chemieprodukte setzt. Als bedeutender Exporteur trägt Chimcomplex maßgeblich zur Handelsbilanz Rumäniens bei und sichert die industrielle Basis in der Region Bacău. Der Komplex ist ein Symbol für die Konsolidierung und den Wiederaufstieg der heimischen Chemieindustrie unter rumänischer Führung.",
-      hu: "",
+      hu: "Az onesti-i (Onești) Chimcomplex Románia egyik legfontosabb vegyipari vállalata, amely a stratégiai jelentőségű vegyianyagok, például a klór, a nátronlúg és a poliolok gyártására szakosodott. A vállalat az elmúlt években jelentős növekedésen ment keresztül, miután megvásárolta az Oltchim eszközeit, így az ország legnagyobb vegyipari csoportjává vált. A Chimcomplex elkötelezett a modernizáció és a zöld vegyipar mellett, folyamatosan fejleszti hidrogén-alapú megoldásait és energiahatékonysági projektjeit. Bákó megye gazdasági tartóoszlopaként a gyár több ezer munkahelyet biztosít közvetve és közvetlenül, és döntő szerepet játszik a román ipari szuverenitás fenntartásában. A telephely logisztikai adottságai és a meglévő szaktudás lehetővé teszik a nemzetközi piacokon való erős jelenlétet.",
       ro: "",
       en: ""
     },
@@ -1595,7 +1595,7 @@ export const poiExtraRo2: POI[] = [
         "Das Unternehmen ist an der Bukarester Börse notiert.",
         "Die Vision des Unternehmens umfasst die Entwicklung von Wasserstoff-Technologien."
       ],
-      hu: [],
+      hu: ["A Chimcomplex Románia legnagyobb vegyipari exportőre.", "A gyár poliolok gyártására specializálódott, amelyeket a bútor- és autóipar használ.", "Onești városa a Chimcomplex révén vált fontos vegyipari központtá.", "A vállalat saját gázmotoros kogenerációs erőművel rendelkezik.", "A Chimcomplex úttörő a romániai zöld hidrogén technológia bevezetésében.", "A telephelyen szigorú biztonsági és környezetvédelmi auditokat végeznek.", "A vállalat részvényeit a bukaresti tőzsdén jegyzik.", "A termékpaletta több mint 20 ország vegyipari igényeit elégíti ki."],
       ro: [],
       en: []
     }
@@ -1621,7 +1621,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Formens in Botoșani ist ein führender europäischer Hersteller von Herrenanzügen und ein Musterbeispiel für moderne Textilfertigung 'Made in Romania'. Das Unternehmen kombiniert traditionelle Schneiderkunst mit hochmodernen, digitalisierten Produktionsabläufen. Formens produziert sowohl für seine eigene Marke als auch für exklusive internationale Luxushäuser und bietet dabei ein hohes Maß an Personalisierung (Made-to-Measure) an. Das Werk in Botoșani ist bekannt für seine Effizienz und die hohe Qualität seiner Erzeugnisse, was es zu einem der wettbewerbsfähigsten Akteure in der europäischen Bekleidungsindustrie macht. Mit tausenden Mitarbeitern ist Formens der bedeutendste private Arbeitgeber in der Region Botoșani und ein wichtiger Motor für die lokale Wirtschaftsentwicklung, der beweist, dass Textilproduktion in Europa durch Innovation und Qualität eine glänzende Zukunft hat.",
-      hu: "",
+      hu: "A botoșani-i Formens gyár a férfidivat és az öltönygyártás európai hírű központja, amely a modern technológiát ötvözi a hagyományos szabászati ismeretekkel. A gyár a legnevesebb európai márkák számára készít kiváló minőségű zakókat, nadrágokat és teljes öltönyöket, de saját márkájával is sikeresen jelen van a piacon. A Formens-t a rendkívüli hatékonyság és a gyors gyártási ciklusok jellemzik, amit a nagymértékben automatizált logisztikai és szabászati rendszerek tesznek lehetővé. Botoșani megye egyik legnagyobb és legdinamikusabb munkaadójaként a vállalat fontos szerepet játszik a régió gazdasági felzárkóztatásában. A gyár elkötelezett a fenntartható alapanyagok használata és az innovatív gyártási folyamatok mellett, biztosítva a 'Made in Romania' címke presztízsét a nemzetközi divatvilágban.",
       ro: "",
       en: ""
     },
@@ -1636,7 +1636,7 @@ export const poiExtraRo2: POI[] = [
         "Das Unternehmen setzt auf eine nachhaltige Wertschöpfungskette.",
         "Botoșani hat sich durch Formens als Zentrum für Herrenmode etabliert."
       ],
-      hu: [],
+      hu: ["A Formens Botoșani Románia egyik legmodernebb ruhaipari gyára.", "A vállalat naponta több ezer kiváló minőségű öltönyt állít elő.", "A Formens a francia és az olasz divatházak kiemelt beszállítója.", "Saját, egyedi méretre készítő (Made to Measure) szoftverrendszert alkalmaznak.", "A gyár Botoșani megye gazdasági fejlődésének egyik fő hajtóereje.", "A telephelyen modern automatizált raktározási rendszerek működnek.", "A Formens nagy hangsúlyt fektet a munkavállalók folyamatos továbbképzésére.", "A vállalat termékeit világszerte több száz üzletben értékesítik."],
       ro: [],
       en: []
     }
@@ -1662,7 +1662,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Walmark in Sankt Georgen (Sfântu Gheorghe) ist ein bedeutendes Produktionszentrum für Nahrungsergänzungsmittel und Gesundheitsprodukte in Rumänien. Als Teil der internationalen STADA-Gruppe profitiert der Standort von globalem Know-how und strengsten pharmazeutischen Qualitätsstandards. In dem modernen Werk werden Vitamine, Mineralstoffe und spezialisierte Gesundheitsprodukte hergestellt, die sowohl auf dem rumänischen Markt als auch international vertrieben werden. Walmark hat sich einen Namen für vertrauenswürdige und wissenschaftlich fundierte Produkte gemacht. Der Standort in der Region Covasna ist ein wichtiger Arbeitgeber für Fachkräfte aus der Pharmazie und Chemie und trägt zur Diversifizierung der lokalen Industrie bei. Durch kontinuierliche Investitionen in neue Produktionslinien und die Einhaltung höchster GMP-Standards festigt Walmark seine Position als führender Anbieter im Bereich Selbstmedikation und Wellness.",
-      hu: "",
+      hu: "A sepsiszentgyörgyi Walmark (ma a STADA csoport része) a gyógyszeripar és az étrend-kiegészítők gyártásának kiemelkedő képviselője Székelyföldön. A gyár a legszigorúbb GMP (Good Manufacturing Practice) szabványoknak megfelelően működik, biztosítva a termékek tisztaságát és hatékonyságát. A Walmark portfóliója vitaminokat, ásványi anyagokat és speciális egészségmegőrző készítményeket tartalmaz, amelyeket Románia mellett számos európai országban értékesítenek. A telephely folyamatos technológiai fejlesztése és a kutatás-fejlesztési tevékenység lehetővé teszi az új, innovatív formulák gyors bevezetését. Kovászna megye egyik legmodernebb ipari létesítményeként a Walmark stabilitást és minőségi munkalehetőséget kínál a régióban, miközben erősíti Románia pozícióját a regionális gyógyszerpiacon.",
       ro: "",
       en: ""
     },
@@ -1677,7 +1677,7 @@ export const poiExtraRo2: POI[] = [
         "In Sfântu Gheorghe werden jährlich Millionen von Tabletten und Kapseln gefertigt.",
         "Walmark fördert einen gesunden Lebensstil durch Aufklärungskampagnen."
       ],
-      hu: [],
+      hu: ["A sepsiszentgyörgyi gyár a Walmark és a STADA regionális központja.", "A telephely rendelkezik a gyógyszergyártáshoz szükséges összes nemzetközi tanúsítvánnyal.", "Itt készülnek Románia legismertebb étrend-kiegészítő márkái.", "A gyárban ultramodern tablettázó és csomagoló gépsorok működnek.", "A Walmark Kovászna megye egyik legfontosabb technológiai beruházója.", "A termékek minőségét saját, helyszíni laboratóriumokban ellenőrzik.", "A vállalat aktívan részt vesz az egészséges életmódot népszerűsítő kampányokban.", "A sepsiszentgyörgyi telephely fontos exportbázis Közép-Kelet-Európa számára."],
       ro: [],
       en: []
     }
@@ -1703,7 +1703,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Romaqua Group in Borsec ist der unangefochtene Marktführer für Mineralwasser in Rumänien und ein Unternehmen mit tiefer Verwurzelung in der Geschichte Siebenbürgens. Die Quelle in Borsec ist weltberühmt und wird seit über 200 Jahren für ihre außergewöhnliche Reinheit und ihren Mineralgehalt geschätzt. Romaqua hat massiv in hochmoderne Abfüllanlagen investiert, die den Standort Borsec zu einem der leistungsfähigsten in ganz Europa machen. Neben Mineralwasser produziert die Gruppe auch Erfrischungsgetränke und Bier an verschiedenen Standorten. Das Engagement für den Schutz der natürlichen Quellen und die nachhaltige Bewirtschaftung der Wasserressourcen im Kreis Harghita ist ein zentraler Bestandteil der Unternehmensphilosophie. Borsec-Wasser ist nicht nur ein Konsumgut, sondern ein nationales Symbol, das Rumänien auf internationalen Messen und Märkten als Land mit reinsten Naturschätzen repräsentiert.",
-      hu: "",
+      hu: "A borszéki (Borsec) Romaqua Group gyár a román ásványvíz-piac vezetője és az ország egyik legismertebb márkájának otthona. A gyár a Keleti-Kárpátok tiszta forrásaiból származó, természetes ásványvizek palackozására szakosodott, amelyeket már évszázadok óta nagyra értékelnek gyógyhatásuk miatt. A Romaqua jelentős összegeket fektetett be a legmodernebb, teljesen automatizált palackozósorokba és a vízforrások védelmét szolgáló technológiákba. Hargita megye egyik legjelentősebb gazdasági szereplőjeként a vállalat nemcsak Borszéken, hanem más helyszíneken is üzemeltet gyárakat, üdítőitalokat és sört is előállítva. A Borsec víz számos nemzetközi díjat nyert el tisztasága és íze miatt, öregbítve a román természetes kincsek hírnevét világszerte.",
       ro: "",
       en: ""
     },
@@ -1718,7 +1718,7 @@ export const poiExtraRo2: POI[] = [
         "Nachhaltigkeit und Quellschutz haben oberste Priorität im Betrieb.",
         "Borsec wird oft als die 'Königin der Mineralwässer' bezeichnet."
       ],
-      hu: [],
+      hu: ["A Borsec Románia legkeresettebb és legtöbb díjat nyert ásványvize.", "A Romaqua Group 100%-ban román tulajdonú vállalat.", "A borszéki palackozó a legmodernebb technológiával van felszerelve.", "A vízforrások védelme érdekében szigorú ökológiai kontrollt alkalmaznak.", "A Romaqua Hargita megye egyik legnagyobb és legstabilabb munkaadója.", "A vállalat széles termékportfólióval rendelkezik az italszektorban.", "A borszéki vizet már 1806 óta palackozzák ipari méretekben.", "A gyár saját logisztikai hálózattal látja el az egész országot."],
       ro: [],
       en: []
     }
@@ -1744,7 +1744,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Severnav in Turnu Severin ist eine traditionsreiche Werft an der Donau, die auf den Bau von hochspezialisierten Schiffen für die Binnenschifffahrt und den küstennahen Seeverkehr spezialisiert ist. Mit einer strategisch günstigen Lage direkt am Ausgang des Eisernen Tores fertigt die Werft Gastanker, Chemieschiffe und Binnenschiffe für anspruchsvolle europäische Kunden, insbesondere aus den Niederlanden und Deutschland. Severnav verfügt über eine beeindruckende Infrastruktur für den Stahlbau und die Endausrüstung komplexer maritimer Einheiten. Trotz der wechselhaften Geschichte des Schiffbaus hat sich Severnav durch Qualität und die Fähigkeit zur Konstruktion von Spezialschiffen am Markt behauptet. Die Werft ist das industrielle Herz von Drobeta Turnu Severin und bewahrt ein wertvolles technisches Erbe, während sie gleichzeitig moderne Standards in der Schiffbautechnik anwendet.",
-      hu: "",
+      hu: "A Szörényváron (Drobeta-Turnu Severin) található Severnav hajógyár a román folyami és tengeri hajóépítés egyik patinás helyszíne a Duna partján. A gyár évtizedes tapasztalattal rendelkezik a különböző típusú hajók, köztük uszályok, vontatók és speciális technikai egységek építésében és javításában. A Severnav képessége az egyedi acélszerkezetek és nagyméretű hajótestek precíz megmunkálására tette lehetővé, hogy nemzetközi megrendeléseket is teljesítsen, különösen az európai folyami hajózás számára. Mehedinți megye egyik legfontosabb ipari létesítményeként a hajógyár döntő szerepet játszik a helyi mérnöki szaktudás megőrzésében és a gazdasági aktivitás fenntartásában. A telephely folyamatosan törekszik a gyártási folyamatok korszerűsítésére, hogy megfeleljen a modern hajózási és környezetvédelmi követelményeknek.",
       ro: "",
       en: ""
     },
@@ -1759,7 +1759,7 @@ export const poiExtraRo2: POI[] = [
         "Die Werft ist ein bedeutender Wirtschaftsfaktor im Kreis Mehedinți.",
         "Severnav setzt auf zertifizierte Schweißprozesse nach höchsten Marine-Standards."
       ],
-      hu: [],
+      hu: ["A Severnav a Vaskapu-szoros közelében elhelyezkedő stratégiai hajógyár.", "A telephely speciális folyami tartályhajók építésére is alkalmas.", "Mehedinți megye egyik legnagyobb nehézipari munkaadója.", "A hajógyár saját tervezőirodával és mérnöki csapattal rendelkezik.", "Számos hajótestet építettek itt nyugat-európai (főleg német és holland) megrendelésre.", "A Severnav fontos szerepet játszik a Duna menti infrastruktúra karbantartásában.", "A gyár rendelkezik a legfontosabb nemzetközi hajózási tanúsítványokkal.", "Folyamatosak a beruházások a hegesztési technológiák modernizálásába."],
       ro: [],
       en: []
     }
@@ -1785,7 +1785,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Alro Slatina ist der größte Aluminiumproduzent in Mittel- und Osteuropa und ein industrielles Schwergewicht in der rumänischen Wirtschaft. Der Komplex in Slatina umfasst eine Elektrolyseanlage zur Gewinnung von Primäraluminium sowie umfangreiche Gießerei- und Walzkapazitäten für veredelte Produkte wie Platten, Bleche und Profile. Alro beliefert anspruchsvolle Sektoren wie die Luft- und Raumfahrt sowie die Automobilindustrie und ist einer der größten Exporteure des Landes. Aufgrund des enormen Strombedarfs der Aluminiumelektrolyse ist Alro ein strategischer Partner im rumänischen Energiesektor. Das Unternehmen investiert massiv in Energieeffizienz und die Steigerung des Anteils an recyceltem Aluminium, um wettbewerbsfähig zu bleiben und seinen ökologischen Fußabdruck zu reduzieren. Alro ist der wichtigste Arbeitgeber in der Region Olt und ein Symbol für die industrielle Stärke Rumäniens in der Metallurgie.",
-      hu: "",
+      hu: "A slatinai Alro Románia és Közép-Európa egyik legnagyobb integrált alumíniumgyártója, amely az ország ipari termelésének egyik tartóoszlopa. A gyár a teljes termelési láncot lefedi, a timföld feldolgozásától kezdve az elsődleges alumínium előállításán át a félkész termékek (lemezek, profilok) gyártásáig. Az Alro termékeit világszerte használják az repülőgépiparban, az autógyártásban és az építőiparban, olyan neves ügyfelekkel, mint az Airbus. A vállalat jelentős erőfeszítéseket tesz az energiahatékonyság növelése és az újrahasznosítás fokozása érdekében, hogy csökkentse a termelés környezeti hatásait. Olt megye legnagyobb munkaadójaként és exportőreként az Alro nemcsak gazdasági súlyt képvisel, hanem a technológiai innováció központja is, folyamatosan fejlesztve termékei minőségét és tisztaságát.",
       ro: "",
       en: ""
     },
@@ -1800,7 +1800,7 @@ export const poiExtraRo2: POI[] = [
         "Der Standort in Slatina sichert Tausende von qualifizierten Arbeitsplätzen.",
         "Alro betreibt eine eigene Forschungs- und Entwicklungsabteilung für Legierungen."
       ],
-      hu: [],
+      hu: ["Az Alro Slatina Románia legnagyobb villamosenergia-felhasználója.", "A vállalat speciális alumíniumötvözeteket szállít a repülőgépipar számára.", "Slatina városa az Alro köré épült ipari ökoszisztémára támaszkodik.", "Az Alro saját kutatóközponttal rendelkezik a kohászati fejlesztésekhez.", "A vállalat jelentős újrahasznosító üzemet működtet az alumínium-hulladék feldolgozására.", "A termelés megfelel a legszigorúbb nemzetközi környezetvédelmi szabványoknak.", "Az Alro részvényeit jegyzik a bukaresti tőzsdén.", "A vállalat fontos stratégiai beszállítója az európai autóiparnak."],
       ro: [],
       en: []
     }
@@ -1826,7 +1826,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Kraftwerk Brazi, betrieben von OMV Petrom, ist das modernste und effizienteste Gaskraftwerk Rumäniens. Mit seiner hochmodernen Gas- und Dampfturbinen-Technologie (Combined Cycle) erreicht die Anlage einen Wirkungsgrad, der weit über dem der alten Kohlekraftwerke liegt. Gelegen in der Nähe der Raffinerie Petrobrazi, nutzt das Kraftwerk Erdgas zur Erzeugung von Strom, der einen bedeutenden Teil des nationalen Verbrauchs deckt. Brazi spielt eine entscheidende Rolle für die Energiewende in Rumänien, da es die notwendige Flexibilität bietet, um Schwankungen bei erneuerbaren Energien wie Wind und Sonne auszugleichen. Durch seine geringen spezifischen CO2-Emissionen ist das Kraftwerk ein wichtiger Baustein für die Dekarbonisierung des rumänischen Strommixes und ein Garant für die Versorgungssicherheit im Land.",
-      hu: "",
+      hu: "A Brazi kombinált ciklusú gázerőmű (az OMV Petrom üzemeltetésében) Románia legmodernebb és egyik leghatékonyabb villamosenergia-termelő egysége. A Ploiești közelében található erőmű földgázt használ üzemanyagként, és a legkorszerűbb technológiával rendelkezik, amely lehetővé teszi a gyors reagálást a hálózati igények változására. Ez a rugalmasság kulcsfontosságú a megújuló energiaforrások (szél- és napenergia) integrálásához a nemzeti hálózatba. A Brazi erőmű hatásfoka jóval meghaladja a régi széntüzelésű erőművekét, miközben jelentősen alacsonyabb a szén-dioxid-kibocsátása. A telephely döntő szerepet játszik az ország energiabiztonságában, és példája a modern, hatékony és tisztább energiatermelésnek. A létesítmény folyamatos digitális felügyelet alatt áll, biztosítva a zavartalan és biztonságos üzemmenetet.",
       ro: "",
       en: ""
     },
@@ -1841,7 +1841,7 @@ export const poiExtraRo2: POI[] = [
         "Das Kraftwerk ist strategisch günstig im industriellen Herz von Prahova gelegen.",
         "Regelmäßige Wartungszyklen sichern eine maximale Verfügbarkeit der Blöcke."
       ],
-      hu: [],
+      hu: ["A Brazi erőmű Románia legnagyobb magánberuházásból épült erőműve.", "A létesítmény hatásfoka eléri az 57%-ot, ami kiemelkedő a régióban.", "Az erőmű az ország villamosenergia-szükségletének jelentős részét képes fedezni.", "A gyors indítási képesség miatt fontos szerepet játszik a hálózat szabályozásában.", "A Brazi erőmű közvetlenül kapcsolódik az OMV Petrom gázellátási hálózatához.", "A környezetvédelmi kibocsátások jóval az uniós határértékek alatt vannak.", "A telephelyen ultramodern General Electric gázturbinák működnek.", "Prahova megye egyik legfontosabb energetikai csomópontja."],
       ro: [],
       en: []
     }
@@ -1867,7 +1867,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Ploiești West Park ist der größte und dynamischste Industriepark im Südosten Europas und ein Magnet für internationale Konzerne. Strategisch günstig an der Kreuzung wichtiger Autobahnen und in unmittelbarer Nähe zur Hauptstadt Bukarest gelegen, bietet der Park eine erstklassige Infrastruktur für Logistik, Fertigung und Shared Services. Unternehmen wie Unilever, Lufkin und General Electric haben hier bedeutende Produktions- und Vertriebszentren errichtet. Der Park zeichnet sich durch moderne Hallenkonzepte, eine exzellente Energieversorgung und umfassende Sicherheitsdienste aus. Ploiești West Park ist ein Motor für den wirtschaftlichen Boom in der Region Prahova und hat tausende Arbeitsplätze geschaffen. Seine Rolle als zentraler Logistik-Hub für den gesamten Balkanraum macht ihn zu einem entscheidenden Faktor für die Integration Rumäniens in die globalen Warenströme.",
-      hu: "",
+      hu: "A Ploiești West Park Románia egyik legnagyobb és leggyorsabban fejlődő magánkézben lévő ipari és logisztikai parkja, amely az ország központi részének gazdasági dinamizmusát jelképezi. A több száz hektáron elterülő park számos nemzetközi vállalatnak ad otthont a logisztika, a gyártás és a szolgáltatások területén. Stratégiai elhelyezkedése a fontos autópályák és vasúti útvonalak kereszteződésében ideális központtá teszi a disztribúció számára egész Délkelet-Európában. A park modern infrastruktúrával, környezetbarát épületekkel és fejlett szolgáltatásokkal vonzza a befektetőket. A Ploiești West Park nemcsak ezer munkahelyet teremtett, hanem katalizátora is volt a régió ipari modernizációjának, elősegítve a beszállítói láncok integrációját és a technológiai transzfert.",
       ro: "",
       en: ""
     },
@@ -1882,7 +1882,7 @@ export const poiExtraRo2: POI[] = [
         "Der Park verfügt über ein eigenes Umspannwerk für maximale Energiezuverlässigkeit.",
         "Tausende von Fachkräften aus Ploiești und Umgebung arbeiten in dem Areal."
       ],
-      hu: [],
+      hu: ["A Ploiești West Park több mint 300 hektárnyi területet foglal magában.", "Olyan óriásvállalatok telepedtek itt le, mint a Unilever vagy a Lufkin.", "A park saját vasúti terminállal rendelkezik a hatékony áruszállítás érdekében.", "Az épületek jelentős része megfelel a BREEAM fenntarthatósági tanúsítványnak.", "Ploiești és Bukarest közelsége miatt kiváló a munkaerő-elérhetősége.", "A park folyamatosan bővül új logisztikai és gyártócsarnokokkal.", "A telephelyen fejlett biztonsági és IT infrastruktúra működik.", "A projekt a romániai ipari ingatlanpiac egyik legsikeresebb fejlesztése."],
       ro: [],
       en: []
     }
@@ -1908,7 +1908,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Emerson-Campus in Klausenburg (Cluj-Napoca) ist ein herausragendes Zentrum für Ingenieurwesen, Hochtechnologie und Shared Services innerhalb des globalen Emerson-Konzerns. In den modernen Gebäuden im Industriepark Tetarom II arbeiten tausende hochqualifizierte Fachkräfte an Lösungen für die Prozessautomatisierung, Klimatechnik und industrielle Digitalisierung. Der Standort Cluj hat sich zu einem der wichtigsten strategischen Knotenpunkte für Emerson in Europa entwickelt, da er talentierte Absolventen der lokalen Universitäten anzieht. Neben hochkomplexen Ingenieursdienstleistungen beherbergt der Campus auch spezialisierte Fertigungslinien für Präzisionsgeräte. Emerson Cluj ist ein Paradebeispiel für den Wandel von Klausenburg zu einem Technologie-Hub und trägt maßgeblich zur Entwicklung der Innovationskraft in Siebenbürgen bei. Die Kombination aus technischer Expertise und exzellenten Dienstleistungen macht Emerson zu einem der attraktivsten Arbeitgeber der Region.",
-      hu: "",
+      hu: "A kolozsvári Emerson Campus az amerikai Emerson Electric csoport globális gyártási és mérnöki központja, amely Románia egyik legfontosabb technológiai telephelyévé vált. A Tetarom II ipari parkban található létesítmény számos üzletágat egyesít, beleértve a folyamatautomatizálást, a szabályozó szelepek gyártását és a megújuló energia megoldásokat. Az Emerson Kolozsváron nemcsak gyártókapacitást, hanem jelentős kutatási, fejlesztési és szolgáltatási központot is fenntart, több ezer magasan képzett mérnököt és szakembert foglalkoztatva. A helyi egyetemekkel való szoros együttműködés révén a campus az innováció és a tehetséggondozás bázisává vált. A telephelyet a magas szintű automatizálás és a digitális munkavégzés jellemzi, hozzájárulva Kolozsvár 'erdélyi Szilícium-völgy' hírnevének megerősítéséhez.",
       ro: "",
       en: ""
     },
@@ -1923,7 +1923,7 @@ export const poiExtraRo2: POI[] = [
         "Der Standort ist ein Vorreiter für digitale Transformation in der Industrie.",
         "Cluj fungiert als zentrales Hub für Shared Services für den gesamten EMEA-Raum."
       ],
-      hu: [],
+      hu: ["A kolozsvári campus az Emerson egyik legnagyobb telephelye Európában.", "Több mint 2500 alkalmazott dolgozik a modern irodákban és üzemekben.", "A gyár speciális vezérlőrendszereket gyárt az olaj- és gázipar számára.", "Az Emerson fontos partnere a kolozsvári Műszaki Egyetemnek.", "A telephely rendelkezik saját képzési akadémiával az ügyfelek és dolgozók számára.", "Az Emerson campus a környezetbarát építészeti megoldásairól is ismert.", "A gyár termékeit a világ minden tájára exportálják Kolozsvárról.", "A létesítmény központi szerepet játszik a vállalat globális ellátási láncában."],
       ro: [],
       en: []
     }
@@ -1949,7 +1949,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Flex (ehemals Flextronics) in Temeswar ist ein weltweit führender Standort für Electronic Manufacturing Services (EMS) und ein wichtiger Partner für Unternehmen aus der Medizin- und Automobiltechnik. Das Werk in der Banater Metropole zeichnet sich durch hocheffiziente Produktionslinien, modernste Reinräume und ein komplexes Supply Chain Management aus. Hier werden elektronische Baugruppen und komplette Endgeräte für globale Märkte gefertigt, wobei Flex seine Expertise in der schnellen Industrialisierung neuer Produkte einbringt. Der Standort Temeswar profitiert von der exzellenten logistischen Anbindung an Westeuropa und der Verfügbarkeit hochqualifizierter Techniker in der Region. Flex ist ein entscheidender Treiber für den technologischen Fortschritt in Temeswar und setzt Maßstäbe für Flexibilität und Qualität in der elektronischen Auftragsfertigung, während es gleichzeitig tausende von Arbeitsplätzen in einem hochdynamischen Umfeld sichert.",
-      hu: "",
+      hu: "A temesvári Flex (korábban Flextronics) gyár az elektronikai bérgyártás (EMS) globális vezetője Romániában, és a régió egyik legfontosabb technológiai munkaadója. A gyárban összetett elektronikai kártyákat, modulokat és késztermékeket állítanak elő az autóipar, az orvosi technika és a telekommunikáció számára. A Flex Temesvár híres nagyfokú rugalmasságáról és a legmodernebb SMT (Surface Mount Technology) gyártósorok alkalmazásáról. A telephely szoros kapcsolatban áll a globális fejlesztési központokkal, és képes a termékek teljes életciklusát kezelni a prototípusgyártástól a tömegtermelésig. Temesvár ipari hagyományaira építve a Flex sikeresen integrálta a helyi szakértelmet a nemzetközi sztenderdekbe, jelentősen hozzájárulva a város exportteljesítményéhez és technológiai fejlődéséhez.",
       ro: "",
       en: ""
     },
@@ -1964,7 +1964,7 @@ export const poiExtraRo2: POI[] = [
         "Temeswar bietet Flex eine erstklassige Anbindung an den europäischen Markt.",
         "Regelmäßige Investitionen fließen in KI-gestützte Fertigungsüberwachung."
       ],
-      hu: [],
+      hu: ["A Flex Temesvár az egyik legnagyobb elektronikai gyár Romániában.", "Olyan neves partnereknek gyártanak, mint a Cisco, a Ford vagy az Ericsson.", "A gyár orvostechnikai eszközök gyártására is hitelesített tanúsítvánnyal rendelkezik.", "Temes megye egyik legjelentősebb és legtöbb embert foglalkoztató magáncége.", "A telephelyen ultramodern tiszta terek és antisztatikus gyártási környezet található.", "A Flex aktívan támogatja a helyi műszaki szakképzést és duális oktatást.", "A termelés nagymértékben automatizált, robotizált tesztelő rendszerekkel.", "A gyár stratégiai fekvése lehetővé teszi a gyors kiszállítást az európai piacokra."],
       ro: [],
       en: []
     }
@@ -1990,7 +1990,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Industriepark Metav im Norden von Bukarest ist ein moderner Gewerbestandort, der sich auf die Ansiedlung von Unternehmen aus der Leichtindustrie, Logistik und Technologie spezialisiert hat. Gelegen in unmittelbarer Nähe zum Flughafen Băneasa und den wichtigsten Verkehrsknotenpunkten der Hauptstadt, bietet der Park eine ideale Infrastruktur für Firmen, die einen urbanen Standort mit exzellenter Anbindung suchen. Metav hat sich von einem ehemaligen Industriebetrieb zu einem vielseitigen Business-Areal entwickelt, das sowohl moderne Büroflächen als auch spezialisierte Lagerhallen bietet. Der Park ist die Heimat vieler kleiner und mittelständischer Unternehmen sowie Repräsentanzen internationaler Firmen. Durch die kontinuierliche Modernisierung der Gebäude und die Bereitstellung umfassender Dienstleistungen ist der Industriepark Metav ein wichtiger Baustein für das wirtschaftliche Ökosystem Bukarests und ein gefragter Standort für innovative Dienstleister.",
-      hu: "",
+      hu: "A bukaresti IMGB (Întreprinderea de Mașini Grele București) egykor a román nehézipar büszkesége és gigantikus központja volt, amely hatalmas energetikai és kohászati berendezések gyártására szakosodott. A telephelyen készültek turbinák, generátorok és nehéz öntvények a világ számos erőműve, köztük a cernavodai atomerőmű számára is. Bár az utóbbi években a kombinát eredeti formájában megszűnt, és a területet modern logisztikai és kereskedelmi célokra alakítják át, az IMGB neve továbbra is a román ipari óriások korszakát idézi. A helyszín méretei és a hozzá kapcsolódó infrastruktúra (saját vasúthálózat, hatalmas csarnokok) jól mutatják az egykori gyártási kapacitás monumentalitását. Az IMGB öröksége fontos fejezete Bukarest ipari történelmének és a román gépgyártás fejlődésének.",
       ro: "",
       en: ""
     },
@@ -2005,7 +2005,7 @@ export const poiExtraRo2: POI[] = [
         "Sicherheitsdienste und Facility Management sind zentral organisiert.",
         "Das Gebiet ist ein wichtiger Wirtschaftsfaktor für den Norden der Hauptstadt."
       ],
-      hu: [],
+      hu: ["Az IMGB Románia legnagyobb nehézgépgyártó üzeme volt a maga idejében.", "A telephely több mint 50 hektáron terült el Bukarest déli részén.", "Itt gyártották a cernavodai atomerőmű egyes kritikus berendezéseit.", "A gyár speciális acélöntvényeket exportált az USA-ba és Japánba is.", "A komplexum saját kohóval és hatalmas megmunkáló gépekkel rendelkezett.", "Az IMGB-nél fénykorában több mint 10 ezer ember dolgozott.", "A terület jelenleg Bukarest egyik legnagyobb városfejlesztési projektjének helyszíne.", "A gyár neve ma is a precíziós nehézmegmunkálás szinonimája a régióban."],
       ro: [],
       en: []
     }
@@ -2031,7 +2031,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Die Aramis-Gruppe in Frauenbach (Baia Mare) ist der größte Möbelhersteller Rumäniens und ein globaler Schlüsselpartner für IKEA. Das Unternehmen hat sich auf die Massenfertigung von Polstermöbeln, Matratzen und Schaumstoffprodukten spezialisiert. Mit seinen gigantischen Werkhallen in der Maramureș ist Aramis ein Paradebeispiel für industrielle Skalierbarkeit und Effizienz. Durch den Einsatz modernster Schaumstofftechnologien und automatisierter Zuschnittlinien fertigt das Unternehmen jährlich Millionen von Einheiten für den Weltmarkt. Aramis ist fest in der Region Baia Mare verwurzelt und sichert tausende Arbeitsplätze, was es zum bedeutendsten privaten Arbeitgeber im Norden Rumäniens macht. Das Unternehmen zeichnet sich durch eine starke Exportorientierung und ein kontinuierliches Wachstum aus, wobei es gleichzeitig hohe Standards in der Materialqualität und im Umweltschutz bei der Möbelherstellung setzt.",
-      hu: "",
+      hu: "A nagybányai Aramis Group Románia legnagyobb és egyik legsikeresebb bútorgyártó vállalata, amely az IKEA egyik legfontosabb globális partnere és beszállítója. A gyár elsősorban kárpitozott bútorok, kanapék és matracok gyártására szakosodott, és az ország egyik legnagyobb magánmunkaadója. Az Aramis-t a folyamatos innováció és a fenntartható gyártási folyamatok jellemzik, nagy hangsúlyt fektetve a hulladék újrahasznosítására és a környezetbarát anyagok használatára. Máramaros megye gazdasági motorjaként a vállalat jelentősen hozzájárul a régió exportteljesítményéhez. A gyár ultramodern gépparkkal és nagyméretű raktározási kapacitással rendelkezik, ami lehetővé teszi a tömegtermelést a legmagasabb minőségi követelmények mellett. Az Aramis sikertörténete példa a romániai vállalkozói szellem és a globális kiskereskedelmi óriások gyümölcsöző együttműködésére.",
       ro: "",
       en: ""
     },
@@ -2046,7 +2046,7 @@ export const poiExtraRo2: POI[] = [
         "Das Unternehmen nutzt ein hocheffizientes Logistiksystem für den weltweiten Versand.",
         "Die Gruppe hat die industrielle Renaissance von Baia Mare maßgeblich geprägt."
       ],
-      hu: [],
+      hu: ["Az Aramis a legnagyobb román tulajdonú exportőr a bútorszektorban.", "A vállalat Nagybánya és Máramaros megye legfontosabb munkaadója.", "Az IKEA globális beszállítói láncának egyik legfontosabb tagja.", "Saját poliuretán habgyártó egységgel rendelkeznek a vertikális integráció jegyében.", "A gyár területén modern újrahasznosító központ működik a maradék anyagokhoz.", "A termelés megfelel a legszigorúbb nemzetközi fenntarthatósági tanúsítványoknak.", "Az Aramis matracgyártó kapacitása az egyik legnagyobb a régióban.", "A vállalat folyamatosan bővíti gyártócsarnokait a növekvő igények miatt."],
       ro: [],
       en: []
     }
@@ -2072,7 +2072,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Zoo Bukarest, auch bekannt als Grădina Zoologică Băneasa, ist ein beliebtes Ausflugsziel im Norden der rumänischen Hauptstadt. Eingebettet in das weitläufige Grün des Băneasa-Waldes bietet der Zoo eine willkommene Abkühlung und Entspannung vom hektischen Treiben der Metropole. Gegründet in den 1950er Jahren, hat sich die Anlage kontinuierlich weiterentwickelt und beherbergt heute eine beeindruckende Vielfalt an Tierarten aus aller Welt. Besucher können hier majestätische Großkatzen, verspielte Primaten und eine bunte Vogelwelt bewundern. Besonders für Familien ist der Zoo ein zentraler Ort der Umweltbildung und Erholung. Die schattigen Alleen laden zu langen Spaziergängen ein, während Informationstafeln Wissen über den Artenschutz vermitteln. Trotz seiner urbanen Nähe bewahrt der Zoo eine natürliche Atmosphäre und setzt sich zunehmend für moderne Standards in der Tierhaltung und im Naturschutz ein, um seinen Besuchern ein lehrreiches und schönes Naturerlebnis zu bieten.",
-      hu: "",
+      hu: "A Bukarest északi részén, a Băneasa-erdő szélén található Állatkert (Grădina Zoologică București) a fővárosiak és a turisták egyik kedvenc kikapcsolódási helyszíne. Az eredetileg 1955-ben alapított állatkert mára egy modern oktatási és természetvédelmi központtá fejlődött, amely több száz állatfajnak ad otthont a világ minden tájáról. A látogatók találkozhatnak egzotikus ragadozókkal, majmokkal, hüllőkkel és számos madárfajjal is. Az intézmény nagy hangsúlyt fektet a veszélyeztetett fajok védelmére és az iskolások környezettudatos nevelésére. Az árnyas sétányok és a természetes környezet kellemes menedéket nyújt a városi zaj elől, miközben interaktív programokon keresztül ismerhetjük meg az élővilág sokszínűségét. A folyamatos felújítások célja az állatok számára egyre természetesebb élőhelyek kialakítása és a látogatói élmény fokozása.",
       ro: "",
       en: ""
     },
@@ -2087,7 +2087,7 @@ export const poiExtraRo2: POI[] = [
         "Der Zoo ist gut an das öffentliche Verkehrsnetz der Hauptstadt angebunden.",
         "Kontinuierliche Modernisierungen verbessern stetig die Lebensbedingungen der Tiere."
       ],
-      hu: [],
+      hu: ["A Băneasa Állatkert Románia legrégebbi és leglátogatottabb állatkertjei közé tartozik.", "A terület több mint 5 hektáron terül el a gyönyörű Băneasa-erdőben.", "Az állatkertben egy modern akvárium és terrárium is található.", "Számos európai fajmegőrzési programban vesz részt az intézmény.", "A látogatók számára interaktív információs táblák segítik a tanulást.", "Az állatkert híres a fehér oroszlánokról és a ritka madárfajokról.", "A helyszín könnyen megközelíthető a városközpontból, ideális családi program.", "Kiemelt figyelmet fordítanak az állatok jólétére és a megfelelő táplálásra."],
       ro: [],
       en: []
     }
@@ -2113,7 +2113,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Bärenreservat Libearty in Zărnești, nahe Brașov, ist ein weltweit einzigartiges Projekt und das größte Braunbären-Schutzzentrum der Welt. Auf einer Fläche von über 60 Hektar dichten Eichenwaldes finden hier Bären, die zuvor unter grausamen Bedingungen in Gefangenschaft lebten – etwa als 'Zirkusbären' oder Attraktionen vor Restaurants – ein würdevolles und naturnahes Zuhause. Das von der Organisation 'Millions of Friends' ins Leben gerufene Reservat ist kein klassischer Zoo, sondern ein Refugium, in dem das Wohl der Tiere an oberster Stelle steht. Besucher können die Bären in ihrer natürlichen Umgebung beobachten, während sie durch das Unterholz streifen oder in den angelegten Teichen baden. Libearty ist ein kraftvolles Symbol für den Tierschutz in Rumänien und leistet unschätzbare Aufklärungsarbeit über die Bedeutung des Respekts gegenüber wildlebenden Tieren und den Erhalt ihrer natürlichen Lebensräume in den Karpaten.",
-      hu: "",
+      hu: "A Zernyest (Zărnești) melletti Libearty Medvemenhely a világ legnagyobb barna medve rezervátuma, amely az állatvédelem és az emberség szimbólumává vált Romániában. A 69 hektáros, tölgyerdővel borított területet a Millions of Friends egyesület alapította, hogy biztonságos otthont nyújtson a fogságból mentett, korábban rossz körülmények között tartott medvéknek. Itt a medvék végre szabadon élhetnek, fára mászhatnak, medencékben fürödhetnek és természetes módon viselkedhetnek, távol az emberektől való kényszerű fellépésektől. A menhely nem állatkert; a látogatás korlátozott és szigorúan szabályozott, hogy ne zavarják az állatok nyugalmát, célja pedig elsősorban az oktatás és a figyelemfelkeltés. A Libearty világszerte elismert példája annak, hogyan adhatunk második esélyt a vadon élő állatoknak, visszaadva nekik méltóságukat a festői Kárpátok lábánál.",
       ro: "",
       en: ""
     },
@@ -2128,7 +2128,7 @@ export const poiExtraRo2: POI[] = [
         "Libearty wird fast ausschließlich durch Spenden und Patenschaften financed.",
         "Der Schutz von Waldgebieten ist ein zentraler Bestandteil der Mission vor Ort."
       ],
-      hu: [],
+      hu: ["A Libearty menhelyen több mint 100 mentett barna medve él.", "A terület 69 hektáron, elkerített természetes erdőben található.", "A menhelyet a világ legjobb állatvédelmi projektjei között tartják számon.", "A medvék mellett egy farkasrezervátum is működik a területen.", "A látogatók csak kísért túrákon vehetnek részt, korlátozott létszámban.", "A menhely híres lakója volt Max, a vak medve, akinek története megérintette a világot.", "Minden medvének saját neve és különleges élettörténete van.", "A projekt kizárólag adományokból és jegybevételekből tartja fenn magát."],
       ro: [],
       en: []
     }
@@ -2154,7 +2154,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Zoo Hermannstadt (Sibiu) ist eine der charmantesten und geschichtsträchtigsten Anlagen ihrer Arbeit in Rumänien. Eröffnet im Jahr 1929, gilt er als der älteste Tiergarten des Landes und besticht durch seine idyllische Lage im Dumbrava-Wald, direkt am Rande der Stadt. Das Besondere am Zoo Sibiu ist die harmonische Einbindung der Gehege in die natürliche Waldlandschaft und die Präsenz eines großen Sees, auf dem Besucher Bootsfahrten unternehmen können. Wahrzeichen des Parks ist eine über 600 Jahre alte Eiche, die als stummer Zeuge der Jahrhunderte über den Tieren wacht. Der Zoo beherbergt eine Vielzahl heimischer und exotischer Arten und ist ein Herzstück der lokalen Freizeitgestaltung. Durch seine Nähe zum Astra-Freilichtmuseum lässt sich ein Besuch ideal mit einem Kulturausflug verbinden, was ihn zu einem Muss für jeden Besucher der Region Siebenbürgen macht.",
-      hu: "",
+      hu: "A nagyszebeni állatkert a Dumbrava-erdő ölében, egy festői tó partján fekszik, és Románia egyik legrégebbi és legszebb állatkertje. Az 1929-ben alapított intézmény különleges hangulatát a hatalmas őshonos fák és a tágas kifutók adják, amelyek harmonikusan illeszkednek a környezetbe. Az állatkert több tíz hektáron terül el, és gazdag gyűjteménnyel rendelkezik: a látogatók nemcsak oroszlánokat, tigriseket és medvéket láthatnak, hanem számos madárfajt, majmokat és egzotikus hüllőket is. Külön érdekesség a tavon való csónakázás lehetősége, amely egyedülálló élményt nyújt a természet lágy ölén. A nagyszebeni állatkert elkötelezett az állatvédelem és a gyermekek oktatása mellett, rendszeresen szervezve tematikus programokat, amelyek közelebb hozzák az élővilág titkait a jövő generációihoz.",
       ro: "",
       en: ""
     },
@@ -2169,7 +2169,7 @@ export const poiExtraRo2: POI[] = [
         "Es gibt weitläufige Spielbereiche und Bildungsangebote für Kinder.",
         "Der Zoo ist bekannt für seine erfolgreichen Zuchtprogramme einiger Arten."
       ],
-      hu: [],
+      hu: ["A nagyszebeni az első állatkert Romániában, amelyet közpénzből nyitottak meg.", "A park központjában egy hatalmas tölgyfa áll, amely több mint 600 éves.", "Az állatkert több mint 300 állatnak és 70 fajnak ad otthont.", "A területen található tó alkalmas csónakázásra és vízi biciklizésre.", "Közvetlen szomszédságában található az ASTRA Falumúzeum is.", "Az állatkert híres a sikeresen szaporodó nagymacska-állományáról.", "Modern játszótér és piknikező helyek várják a családokat.", "A Dumbrava-erdő tiszta levegője különösen vonzóvá teszi a helyszínt."],
       ro: [],
       en: []
     }
@@ -2195,7 +2195,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Das Delfinarium in Konstanza (Constanța) ist das einzige seiner Art in Rumänien und ein absoluter Besuchermagnet an der rumänischen Schwarzmeerküste. Als Teil des umfangreichen Museumskomplexes für Naturwissenschaften bietet es faszinierende Einblicke in die Welt der Meeressäuger. Die intelligenten Delfine begeistern das Publikum in regelmäßig stattfindenden Shows mit ihren akrobatischen Fähigkeiten und ihrer engen Bindung zu den Trainern. Neben der Unterhaltung legt das Delfinarium großen Wert auf Forschung und den Schutz der marinen Biodiversität des Schwarzen Meeres. Die Anlage wurde in den letzten Jahren umfassend modernisiert, um den Tieren bessere Lebensbedingungen und den Besuchern ein erstklassiges Erlebnis zu bieten. Ergänzt wird das Angebot durch ein Planetarium und ein Observatorium auf demselben Gelände, was das Delfinarium zu einem idealen Ziel für einen informativen und unterhaltsamen Tag mit der ganzen Familie am Meer macht.",
-      hu: "",
+      hu: "A konstancai Delfinárium a román tengerpart egyik legnépszerűbb látványossága és a Természettudományi Múzeum komplexumának központi eleme. Az intézmény 1972-es megnyitása óta varázsolja el a közönséget a palackorrú delfinek látványos bemutatóival, ahol az állatok és gondozóik közötti szoros bizalom és játékosság mutatkozik meg. A Delfinárium nemcsak szórakoztató központ, hanem fontos tudományos kutatóhely is, amely a fekete-tengeri tengeri emlősök védelmére és tanulmányozására szakosodott. A komplexumhoz tartozik egy Planetárium, egy Obszervatórium és egy egzotikus madárház is, így komplex természettudományos élményt nyújt. Az interaktív előadások célja, hogy felhívják a figyelmet az óceánok és a tengeri élővilág megőrzésének fontosságára, miközben felejthetetlen emlékeket szereznek kicsiknek és nagyoknak egyaránt.",
       ro: "",
       en: ""
     },
@@ -2210,7 +2210,7 @@ export const poiExtraRo2: POI[] = [
         "Pädagogische Programme sensibilisieren Kinder für den Schutz der Meere.",
         "Es ist eines der meistbesuchten touristischen Ziele der Stadt Constanța."
       ],
-      hu: [],
+      hu: ["A konstancai volt az első delfinárium Délkelet-Európában.", "A bemutatókon kívül a delfinek terápiás programokban is részt vesznek.", "A komplexum hatalmas szabadtéri és fedett medencékkel rendelkezik.", "Az intézmény szoros kapcsolatot ápol nemzetközi tengerkutató szervezetekkel.", "A látogatók megismerhetik a Fekete-tenger élővilágának veszélyeztetett fajait.", "A delfinshow-k során az állatok természetes képességeit mutatják be.", "A helyszínen mikroszkópos bemutatók és tematikus kiállítások is várják az érdeklődőket.", "A Delfinárium a konstancai turizmus egyik legfontosabb sarokköve."],
       ro: [],
       en: []
     }
@@ -2236,7 +2236,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Zoo Großwardein (Oradea), im westlichen Teil Rumäniens gelegen, ist eine moderne Einrichtung, die sich intensiv dem Schutz bedrohter Tierarten und der Umweltbildung widmet. Nach umfangreichen Renovierungsarbeiten bietet der Tierpark heute großzügige und naturnah gestaltete Gehege, die den modernsten Standards der Tierhaltung entsprechen. Besucher können hier eine beeindruckende Vielfalt an Tieren aus aller Welt bestaunen, darunter majestätische Raubkatzen, verspielte Primaten und seltene Vogelarten. Ein besonderer Fokus liegt auf der Erhaltung der biologischen Vielfalt und der Sensibilisierung der Öffentlichkeit für ökologische Themen. Mit seinen interaktiven Lernpfaden, Spielbereichen und schattigen Alleen ist der Zoo ein ideales Ausflugsziel für Familien und Naturfreunde, die mehr über die faszinierende Tierwelt erfahren möchten. Die harmonische Integration in die städtische Parklandschaft macht den Besuch zu einem entspannenden Erlebnis inmitten der Stadt.",
-      hu: "",
+      hu: "A nagyváradi állatkert (Grădina Zoologică Oradea) a város egyik legszebb parkjában található, és egy modern, minden igényt kielégítő élőhelyet kínál az állatoknak és a látogatóknak egyaránt. A nemrégiben végrehajtott teljes körű felújítás után az állatkert Európa-szerte elismert színvonalúvá vált, tágas, üvegezett kifutókkal és természetközeli környezettel. A gyűjteményben különleges fajok is helyet kaptak, mint például a szibériai tigrisek, jaguárok és egzotikus madarak. Az állatkert külön hangsúlyt fektet a fajmegőrzésre és a sérült vadállatok rehabilitációjára. A jól kialakított tanösvények és interaktív kijelzők segítségével a látogatók mélyebb ismereteket szerezhetnek az élővilágról, míg a gyermekek számára kialakított oktatóközpont játékos formában nevel a természet szeretetére. Nagyvárad szívében ez a helyszín a nyugalom és a tanulás szigete.",
       ro: "",
       en: ""
     },
@@ -2251,7 +2251,7 @@ export const poiExtraRo2: POI[] = [
         "Die Anlage bietet barrierefreie Wege für alle Besucher.",
         "Regelmäßige Veranstaltungen fördern das Bewusstsein für Artenschutz."
       ],
-      hu: [],
+      hu: ["A nagyváradi állatkert modern infrastruktúrája az európai élvonalba tartozik.", "A területen külön részleg foglalkozik a háztáji és őshonos állatok bemutatásával.", "Az állatkertben sikeresen zajlik a veszélyeztetett nagymacskák tenyésztése.", "A látogatók megtekinthetik az állatok etetését szakavatott gondozók kíséretében.", "Az intézmény tagja az Európai Állatkertek és Akváriumok Szövetségének (EAZA).", "A park akadálymentesített, így mindenki számára kényelmesen látogatható.", "A környezetbarát technológiák alkalmazása (pl. napelemek) is jellemző a fenntartásra.", "Rendszeresen szerveznek éjszakai állatkerti túrákat is a bátrak számára."],
       ro: [],
       en: []
     }
@@ -2277,7 +2277,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Adrenalin Park in der Nähe von Klausenburg (Cluj-Napoca) ist der ultimative Ort für Abenteuerlustige und Familien, die eine aktive Auszeit im Freien suchen. Tief im malerischen Făget-Wald gelegen, bietet dieser Kletterpark eine beeindruckende Vielfalt an Hindernisparcours in unterschiedlichen Höhen und Schwierigkeitsgraden. Von kinderleichten Routen für die kleinsten Entdecker bis hin zu extrem herausfordernden Seilrutschen und Kletterwänden für echte Adrenalinjunkies ist für jeden etwas dabei. Die Sicherheit der Gäste steht dabei an oberster Stelle, gewährleistet durch modernste Ausrüstung und professionell geschultes Personal. Die frische Waldluft und die natürliche Umgebung machen den Park nicht nur zu einem Sportzentrum, sondern auch zu einem Ort der Erholung. Ob für Teambuilding-Events, Kindergeburtstage oder einen Wochenendausflug – der Adrenalin Park verspricht ein unvergessliches Erlebnis inmitten der siebenbürgischen Natur.",
-      hu: "",
+      hu: "A Kolozsvár melletti Adrenalin Park az erdélyi kalandturizmus egyik központja, amely a Bükk-erdő (Făget) festői környezetében kínál felejthetetlen élményeket az egész család számára. A parkban több különböző nehézségi fokozatú kalandpálya található, amelyek a fák lombkoronái között vezetnek, próbára téve az ügyességet és a bátorságot. A gyermekek számára speciális, alacsonyabb magasságú és maximális biztonságot nyújtó pályákat alakítottak ki, míg a felnőttek adrenalin-dús kihívásokat és hosszú tiroli csúszásokat élvezhetnek. A biztonság elsődleges szempont: minden látogató profi felszerelést és alapos oktatást kap a kaland megkezdése előtt. A friss erdei levegő és a fizikai aktivitás kombinációja az Adrenalin Parkot ideális célponttá teszi csapatépítő tréningekre és hétvégi családi kiruccanásokra, ahol mindenki megtalálhatja a saját határait.",
       ro: "",
       en: ""
     },
@@ -2292,7 +2292,7 @@ export const poiExtraRo2: POI[] = [
         "Die Anlage wird regelmäßig nach höchsten Sicherheitsstandards geprüft.",
         "Ein gemütliches Café vor Ort lädt nach dem Abenteuer zum Verweilen ein."
       ],
-      hu: [],
+      hu: ["Az Adrenalin Park Románia egyik legnagyobb és legváltozatosabb kötélparkja.", "Több mint 10 különböző nehézségi szintű pálya várja a látogatókat.", "A parkban található leghosszabb tiroli csúszópálya több mint 100 méteres.", "Speciális éjszakai kalandprogramokat is szerveznek fejlámpákkal.", "A park területén hangulatos terasz és étterem kínál pihenési lehetőséget.", "A biztonsági rendszerek megfelelnek a legszigorúbb nemzetközi előírásoknak.", "Kiváló helyszín gyermeknapi ünnepségekhez és születésnapi partikhoz.", "A Bükk-erdő (Făget) természetvédelmi területe különleges hátteret ad a parknak."],
       ro: [],
       en: []
     }
@@ -2318,7 +2318,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Zoo von Neumarkt am Mieresch (Târgu Mureș) gilt als einer der schönsten und am besten geführten Tierparks in ganz Rumänien. Auf dem malerischen Plateau Cornești, auch 'Sommerberg' genannt, erstreckt sich die weitläufige Anlage, die für ihre großzügigen Gehege und den dichten Waldbestand bekannt ist. Der Zoo bietet den Tieren Lebensräume, die ihren natürlichen Bedürfnissen sehr nahe kommen, was ihn zu einem Vorbild für moderne Tierhaltung in der Region macht. Besucher können hier eine beeindruckende Sammlung exotischer und heimischer Arten bewundern, darunter Elefanten, Giraffen und Braunbären. Besonders hervorzuheben ist die ruhige Atmosphäre und die gelungene Einbettung der Infrastruktur in die natürliche Waldlandschaft. Als bedeutendes Bildungs- und Freizeitzentrum zieht der Zoo jährlich Hunderttausende Gäste an und leistet einen wichtigen Beitrag zum Verständnis der globalen Fauna und zum regionalen Tourismus in Siebenbürgen.",
-      hu: "",
+      hu: "A marosvásárhelyi állatkert (Grădina Zoologică Târgu Mureș) a Somostető (Platoul Cornești) gyönyörű erdejében található, és Románia legnagyobb területű állatkertje. A hatalmas, tölgyekkel és gyertyánokkal borított parkban az állatok rendkívül tágas, a természetes élőhelyüket idéző kifutókban élnek. Az állatkert gyűjteménye lenyűgöző: az elefántoktól és zsiráfoktól kezdve a medvéken és farkasokon át a trópusi madarakig és hüllőkig minden megtalálható. Különösen híres az elefántház és a zsiráfkifutó, amelyek az országban egyedülállóak. A marosvásárhelyi állatkert fontos szerepet játszik a környezeti nevelésben és a tudományos kutatásban is. A látogatók számára kialakított modern kilátók és pihenőhelyek teszik teljessé a kirándulást, miközben a Somostető egyéb kikapcsolódási lehetőségei (kisvasút, játszóterek) még vonzóbbá teszik a helyszínt.",
       ro: "",
       en: ""
     },
@@ -2333,7 +2333,7 @@ export const poiExtraRo2: POI[] = [
         "Es gibt zahlreiche Spielplätze und Picknickbereiche für Familien.",
         "Der Standort ist ein zentraler Pfeiler des Naturschutzes in der Region."
       ],
-      hu: [],
+      hu: ["A marosvásárhelyi állatkert területe meghaladja a 40 hektárt.", "Ez az egyetlen hely Romániában, ahol zsiráfokat és elefántokat egyszerre láthatunk.", "Az állatkertben több mint 800 állat él a világ minden tájáról.", "A medvék számára kialakított rezervátum-szerű kifutó nemzetközileg is elismert.", "Az intézmény aktívan részt vesz az európai tenyésztési programokban (EEP).", "A park területén egy modern oktatási és konferencia-központ is működik.", "A látogatói útvonalak jól jelzettek és babakocsival is könnyen bejárhatóak.", "A Somostető tiszta levegője és panorámája miatt a város 'tüdejének' számít."],
       ro: [],
       en: []
     }
@@ -2359,7 +2359,7 @@ export const poiExtraRo2: POI[] = [
   ,
     descriptionAdvanced: {
       de: "Der Naturpark Ceala, direkt vor den Toren der Stadt Arad gelegen, ist ein wertvolles ökologisches Juwel und Teil des größeren Naturparks Maros-Auen (Lunca Mureșului). Dieses geschützte Gebiet umfasst dichte Auenwälder, versteckte Altarme des Flusses Mureș und weite Wiesen, die einer Vielzahl von Pflanzen und Tieren als Rückzugsort dienen. Für die Bewohner und Besucher von Arad fungiert Ceala als wichtiges Naherholungsgebiet, das zu ausgedehnten Wanderungen, Radtouren und zur Naturbeobachtung einlädt. Besonders bekannt ist der Park für seinen Reichtum an Vogelarten, die von speziellen Beobachtungstürmen aus studiert werden können. Die Stille des Waldes und die sanften Geräusche des Flusses bieten einen wohltuenden Kontrast zum städtischen Treiben. Durch gezielte Naturschutzmaßnahmen wird versucht, die biologische Vielfalt der Region zu bewahren und gleichzeitig ein Bewusstsein für die Bedeutung intakter Ökosysteme entlang der rumänischen Flüsse zu schaffen.",
-      hu: "",
+      hu: "Az aradi Ceala-erdő és a hozzá tartozó látogatóközpont a Maros-ártér Natúrpark szerves része, amely az Alföld és a folyó menti élővilág különleges találkozását mutatja be. Ez a védett terület fontos pihenőhely a vándormadarak számára és otthont ad számos őshonos emlősnek, például őzeknek, vaddisznóknak és vidráknak. A Ceala-tó és a környező mocsaras vidék különleges vízi ökoszisztémát alkot, ahol ritka növényfajok és gazdag kétéltű-állomány figyelhető meg. A natúrpark munkatársai nagy hangsúlyt fektetnek az ökoturizmus népszerűsítésére: jól jelzett tanösvények, madármegfigyelő tornyok és kerékpárutak várják a természetbarátokat. A látogatóközpontban interaktív kiállítások segítenek megérteni a vizes élőhelyek fontosságát és a Maros folyó környezetformáló szerepét, lehetőséget adva a természetközeli kikapcsolódásra karnyújtásnyira a várostól.",
       ro: "",
       en: ""
     },
@@ -2374,7 +2374,7 @@ export const poiExtraRo2: POI[] = [
         "Der Park dient als wichtige Barriere gegen städtische Luftverschmutzung.",
         "Zahlreiche Stellen am Ufer laden zum Angeln und Entspannen ein."
       ],
-      hu: [],
+      hu: ["A Ceala-erdő a Maros-ártér Natúrpark egyik legfontosabb védett magterülete.", "A területen több mint 200 madárfajt regisztráltak az ornitológusok.", "A Ceala-tó kedvelt helyszíne a környezetbarát horgászatnak és madármegfigyelésnek.", "A tanösvények hossza meghaladja a 10 kilométert az erdő mélyén.", "Az erdőben található 'Mária-fa' egy helyi legenda szerint vallási jelentőséggel bír.", "A natúrpark rendszeresen szervez vezetett túrákat és környezetvédelmi táborokat.", "A terület Arad városától mindössze 5 kilométerre található, kiváló hétvégi célpont.", "A Maros-ártér az UNESCO bioszféra-rezervátum hálózatának is része."],
       ro: [],
       en: []
     }
@@ -2399,7 +2399,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Temeswar, malerisch im Jagdwald (Pădurea Verde) am nordöstlichen Stadtrand gelegen, bietet eine entspannte Flucht aus dem urbanen Zentrum der Banater Metropole. Obwohl er flächenmäßig kleiner ist als andere rumänische Tierparks, besticht er durch seine natürliche Gestaltung und die harmonische Einbettung in das bestehende Waldgebiet. Besucher können hier eine feine Auswahl an heimischen und exotischen Tierarten bewundern, darunter majestätische Löwen, Braunbären und verspielte Primaten. Besonders für Familien mit Kindern ist der Zoo ein beliebtes Ziel, da er leicht erreichbar ist und schattige Wege für erholsame Spaziergänge bietet. In den letzten Jahren wurden die Gehege modernisiert, um den Tieren ein artgerechteres Umfeld zu bieten und das Besuchererlebnis zu verbessern. Die Kombination aus Naturerlebnis im Wald und der Nähe zur Stadt macht den Zoo zu einem festen Bestandteil der Freizeitgestaltung in Temeswar.",
-      hu: "",
+      hu: "A temesvári állatkert (Grădina Zoologică Timișoara) a Zöld-erdő (Pădurea Verde) szívében található, kínálva a természet közelségét és az élővilág megismerésének örömét a régió lakóinak. A viszonylag fiatal, modern szemlélettel felújított állatkert nagy figyelmet fordít az állatok számára biztosított kényelmes életterekre és a látogatók számára nyújtott kényelmi szolgáltatásokra. A gyűjteményben európai és egzotikus állatok egyaránt megtalálhatóak, például medvék, szarvasok, struccok és különféle majomfajok. A temesvári állatkert különlegessége a 'mini-farm', ahol a gyerekek közvetlen kapcsolatba kerülhetnek a háziállatokkal, tanulva a gondozásukról és felelősségről. Az erdős környezet ideális a sétákhoz, a csendes szemlélődéshez és a környezettudatos szemléletmód elmélyítéséhez, távol a nagyvárosi forgalomtól.",
       ro: "",
       en: ""
     },
@@ -2414,7 +2414,7 @@ export const poiExtraRo2: POI[] = [
         "Das Gehege für Braunbären wurde nach modernen Standards neugestaltet.",
         "Der Zoo ist ein idealer Ort für einen entspannten Halbtagesausflug mit Kindern."
       ],
-      hu: [],
+      hu: ["A temesvári állatkert a város legnagyobb parkerdejében, a Zöld-erdőben fekszik.", "Az intézmény modern oktatási programokat kínál az iskolai csoportok számára.", "A park területén jól felszerelt játszóterek és pihenőhelyek találhatók.", "Az állatkertben kiemelt figyelmet fordítanak a helyi fauna bemutatására.", "Rendszeresen tartanak tematikus napokat az állatok világnapja alkalmából.", "A kifutók kialakítása során törekedtek a természetes akadályok alkalmazására.", "Az állatkert könnyen megközelíthető kerékpárral is a városi bicikliutakon.", "A belépőjegyekből származó bevételt az állomány bővítésére és az élőhelyek javítására fordítják."],
       ro: [],
       en: []
     }
@@ -2439,7 +2439,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Dino Parc Râșnov ist das größte Dinosaurier-Freilichtmuseum in Südosteuropa und ein absolutes Highlight für Familien in der Region Brașov. Auf einem weitläufigen Waldareal unterhalb der historischen Festung Râșnov können Besucher über 100 lebensgroße Dinosaurier-Modelle bestaunen, die nach neuesten wissenschaftlichen Erkenntnissen rekonstruiert wurden. Der Park bietet eine faszinierende Reise durch die Erdgeschichte, von den Anfängen der Dinosaurier bis zu ihrem Aussterben. Neben den beeindruckenden Exponaten verfügt der Dino Parc über zahlreiche Attraktionen wie Abenteuerspielplätze, Seilrutschen, ein 9D-Kino und interaktive Ausstellungsräume. Ein besonderes Highlight ist der Bereich mit fliegenden Dinosauriern und der riesige Seismosaurus, der mit seiner gewaltigen Größe alle Blicke auf sich zieht. Der Park verbindet geschickt Bildung mit Spaß und macht die Welt der Urzeit für Kinder und Erwachsene gleichermaßen greifbar. Die einzigartige Lage im dichten Wald verleiht dem Besuch eine zusätzliche, fast magische Atmosphäre.",
-      hu: "",
+      hu: "A barcarozsnyói (Râșnov) Dino Parc Románia és Délkelet-Európa legnagyobb dinoszaurusz-parkja, amely egy igazi időutazásra hívja a látogatókat a Rozsnyói-vár szomszédságában. A fenyőerdőben elhelyezett több mint 100 életnagyságú, tudományosan hiteles dinoszaurusz-modell között sétálva a gyerekek és felnőttek egyaránt megismerhetik a történelem előtti világ uralkodóit. A park nemcsak látványos szobrokkal, hanem interaktív múzeumi részekkel, vulkán-szimulációval és 9D-s mozival is rendelkezik, ahol minden érzékszervünket próbára tehetjük. Külön érdekesség a Seismosaurus, a világ egyik legnagyobb dinoszaurusza, amelynek monumentális méretei mindenkit lenyűgöznek. A Dino Parc az oktatást és a szórakozást mesterien ötvözi, így vált Románia egyik legkedveltebb családi úticéljává az elmúlt években.",
       ro: "",
       en: ""
     },
@@ -2454,7 +2454,7 @@ export const poiExtraRo2: POI[] = [
         "Zahlreiche Kletterpfade und Seilrutschen sorgen für sportliche Abwechslung.",
         "Der Park ist mehrfacher Gewinner von Preisen für die beste Familienattraktion."
       ],
-      hu: [],
+      hu: ["A Dino Parc több mint 4 hektáros területen fekszik a rozsnyói erdőben.", "A modellek speciális üvegszálból készültek, és ellenállnak az időjárásnak.", "A parkban látható egy óriási Seismosaurus modell, amely 45 méter hosszú.", "Az összes kiállított dinoszauruszt paleontológusok szakértői véleménye alapján alkották meg.", "A területen kalandpályák, játszóterek és egy lézeres labirintus is található.", "A park múzeumi része eredeti dinoszaurusz-maradványokat és fosszíliákat is bemutat.", "A Dino Parc megkapta a TripAdvisor 'Travelers' Choice' elismerését.", "Rendszeresen szerveznek éjszakai felfedező túrákat és tematikus szülinapokat."],
       ro: [],
       en: []
     }
