@@ -32,6 +32,9 @@ import { hondurasAllPoi } from "@/lib/visualLab/data/hondurasPoi";
 import { hungaryAllPoi } from "@/lib/visualLab/data/hungaryPoi";
 import { irelandAllPoi } from "@/lib/visualLab/data/irelandPoi";
 import { italyAllPoi } from "@/lib/visualLab/data/italyPoi";
+import { poiExtraItalyCitiesC1 } from "./poiExtraItalyCitiesC1";
+import { poiExtraItalyNatureGeschichteC2 } from "./poiExtraItalyNatureGeschichteC2";
+import { poiExtraItalyWirtschaftLebenC3 } from "./poiExtraItalyWirtschaftLebenC3";
 import { jamaicaAllPoi } from "@/lib/visualLab/data/jamaicaPoi";
 import { kosovoAllPoi } from "@/lib/visualLab/data/kosovoPoi";
 import { latviaAllPoi } from "@/lib/visualLab/data/latviaPoi";
@@ -97,6 +100,9 @@ export const ALL_COUNTRY_POIS = ([
   ...poiExtraHu3,
   ...irelandAllPoi,
   ...italyAllPoi,
+  ...poiExtraItalyCitiesC1,
+  ...poiExtraItalyNatureGeschichteC2,
+  ...poiExtraItalyWirtschaftLebenC3,
   ...jamaicaAllPoi,
   ...kosovoAllPoi,
   ...latviaAllPoi,
