@@ -19,6 +19,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Procesează milioane de tone de petrol anual.", "Sit energetic important."],
       en: ["Processes millions of tons of crude oil annually.", "Important energy facility."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Die Raffinerie Petrobrazi, südlich von Ploiești gelegen, ist eine der bedeutendsten Säulen der rumänischen Energiewirtschaft. Als Teil der OMV Petrom Gruppe blickt der Standort auf eine lange Tradition zurück und wurde in den letzten Jahren umfassend modernisiert, um höchsten europäischen Umwelt- und Effizienzstandards zu entsprechen. Mit einer Verarbeitungskapazität von mehreren Millionen Tonnen Rohöl pro Jahr sichert die Anlage die Versorgung des Landes mit hochwertigen Kraftstoffen und chemischen Grundstoffen. Strategisch günstig an wichtigen Transportwegen gelegen, spielt Petrobrazi eine Schlüsselrolle für den gesamten Balkanraum. Die kontinuierlichen Investitionen in grüne Technologien und CO2-Reduktion unterstreichen das Engagement für eine nachhaltige industrielle Zukunft Rumäniens, während der Standort gleichzeitig Tausende von qualifizierten Arbeitsplätzen in der Region Prahova sichert und die lokale Wirtschaft maßgeblich stützt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Petrobrazi ist eine der modernsten Erdölraffinerien in Südosteuropa.",
+        "Der Standort gehört mehrheitlich zur OMV Petrom Gruppe.",
+        "Jährlich werden hier rund 4,5 Millionen Tonnen Rohöl verarbeitet.",
+        "Die Raffinerie ist ein wichtiger Produzent von Benzin, Diesel und Flugkraftstoff.",
+        "Umfangreiche Investitionen flossen in die Entschwefelungsanlagen und Effizienzsteigerung.",
+        "Petrobrazi verfügt über eine eigene Schienen- und Pipeline-Anbindung.",
+        "Der Betrieb erfüllt strenge EU-Umweltnormen zur Emissionskontrolle.",
+        "Die Anlage ist ein zentraler Wirtschaftsfaktor für den Kreis Prahova."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "port-constanta-south-extra",
@@ -37,6 +59,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Európát köti össze a Kaszpi-tengerrel.", "Mélyvízi csatornákkal rendelkezik."],
       ro: ["Conectează Europa cu Marea Caspică.", "Are dane de mare adâncime."],
       en: ["Connects Europe with the Caspian Sea.", "Features deep-water berths."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Der Hafen Constanța Süd am Schwarzen Meer ist der bedeutendste Seehafen Rumäniens und einer der größten Logistik-Hubs in ganz Europa. Durch seine strategische Lage am östlichen Ende des Paneuropäischen Transportkorridors VII (Donau-Main-Rhein) fungiert er als entscheidendes Bindeglied zwischen Zentralasien, dem Fernen Osten und dem europäischen Kontinent. Der Hafen ist für die Abwicklung massiver Güterströme, insbesondere im Bereich Containerverkehr, Getreide- und Energieexporte, ausgelegt. Mit tiefen Fahrrinnen, die selbst größten Schiffstypen den Zugang ermöglichen, bietet Constanța Süd eine hochmoderne Infrastruktur für den internationalen Welthandel. Die stetige Erweiterung der Terminals und die Anbindung an das Schienen- und Autobahnnetz machen den Standort zu einem Motor für die wirtschaftliche Entwicklung der gesamten Region Dobrudscha und stärken Rumäniens Position als maritime Großmacht am Schwarzen Meer.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Constanța Süd ist der tiefste und größte Hafen am Schwarzen Meer.",
+        "Er bildet das Tor für den Seehandel zwischen Asien und Europa.",
+        "Der Hafen verfügt über spezialisierte Terminals für Container, Öl und Kohle.",
+        "Die direkte Anbindung an den Donau-Schwarzmeer-Kanal ermöglicht Binnenschifffahrt.",
+        "Moderne Logistikzentren bieten umfangreiche Lagerkapazitäten für Transitgüter.",
+        "Der Hafen ist ein wichtiger Umschlagplatz für landwirtschaftliche Produkte.",
+        "Ständige Erweiterungen sichern die Abwicklung wachsender Handelsvolumen.",
+        "Der Standort ist als Freihandelszone mit besonderen Zollvorteilen eingestuft."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -57,6 +101,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Exportă mașini în peste 40 de țări.", "Cea mai mare companie din România."],
       en: ["Exports cars to over 40 countries.", "Romania's largest company by revenue."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Dacia-Werk in Mioveni bei Pitești ist das pulsierende Herz der rumänischen Automobilindustrie und ein Symbol für den erfolgreichen industriellen Wandel des Landes. Als Hauptproduktionsstätte der Marke Dacia, die heute zum Renault-Konzern gehört, werden hier weltweit gefragte Modelle wie der Dacia Duster und Logan gefertigt. Die Fabrik ist eine der größten und effizientesten Industrieanlagen in Südosteuropa und vereint alle Schritte der Fahrzeugherstellung unter einem Dach – von der Presserei über den Karosseriebau bis hin zur Endmontage und Motorenfertigung. Mit einer beeindruckenden Exportquote in über 40 Länder leistet das Werk einen massiven Beitrag zum rumänischen Bruttoinlandsprodukt. Durch den Einsatz modernster Robotertechnik und kontinuierliche Prozessoptimierung hat sich Mioveni zu einem globalen Referenzzentrum für erschwingliche und robuste Mobilität entwickelt, das gleichzeitig Tausende hochqualifizierte Arbeitsplätze sichert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Werk Mioveni ist der größte Industriebetrieb Rumäniens.",
+        "Hier werden jährlich Hunderttausende Fahrzeuge der Marke Dacia produziert.",
+        "Der Standort umfasst eine eigene Getriebe- und Motorenfertigung.",
+        "Dacia Mioveni exportiert über 90 % seiner Produktion ins Ausland.",
+        "Die Fabrik arbeitet nach den modernsten Standards der Renault-Nissan-Allianz.",
+        "Mioveni beherbergt auch ein großes Forschungs- und Designzentrum.",
+        "Das Werk ist einer der bedeutendsten Arbeitgeber in der Region Argeș.",
+        "Nachhaltigkeit spielt eine wachsende Rolle in der Energieversorgung der Anlage."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-continental-timisoara-extra",
@@ -75,6 +141,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["A nyugati régió egyik legnagyobb munkaadója.", "Modern kutatóközpontok."],
       ro: ["Unul dintre cei mai mari angajatori din vest.", "Centre de cercetare moderne."],
       en: ["One of the largest employers in Western Romania.", "Features modern research centers."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Der Continental-Standort in Temeswar ist ein führendes Kompetenzzentrum für Automobiltechnologie und Reifenproduktion im Westen Rumäniens. Die Anlage vereint hochmoderne Fertigungskapazitäten mit innovativen Forschungs- und Entwicklungsabteilungen, die an den Mobilitätslösungen von morgen arbeiten. Continental hat in Temeswar massiv in die Produktion von High-Tech-Reifen sowie elektronischen Komponenten für Fahrassistenzsysteme und Getriebesteuerungen investiert. Durch die enge Kooperation mit lokalen Universitäten ist der Standort ein Magnet für hochqualifizierte Ingenieure und Fachkräfte geworden. Die Fabrik zeichnet sich durch einen hohen Automatisierungsgrad und die Anwendung von Industrie 4.0 Prinzipien aus. Mit einem klaren Fokus auf Qualität und Innovation trägt Continental Temeswar maßgeblich dazu bei, Rumänien als wichtigen Akteur in der globalen Automobil-Zulieferkette zu festigen und treibt die digitale Transformation der Branche voran.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Continental Temeswar betreibt eines der größten Reifenwerke in Europa.",
+        "Der Standort ist ein zentrales Entwicklungszentrum für Automobilelektronik.",
+        "In Temeswar werden moderne Softwarelösungen für autonomes Fahren entwickelt.",
+        "Das Werk beliefert fast alle großen Automobilhersteller weltweit.",
+        "Continental ist einer der größten privaten Arbeitgeber in der Region Temesch.",
+        "Es wurden umfangreiche Filteranlagen zur Reduzierung von Emissionen installiert.",
+        "Die Fabrik nutzt modernste Smart-Factory-Technologien.",
+        "Jährlich werden Millionen von Reifen für PKW und leichte Nutzfahrzeuge produziert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -95,6 +183,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Produce și motoare moderne.", "Sute de roboți utilizați."],
       en: ["Also produces modern engines.", "Hundreds of robots in use."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Ford Otosan Werk in Craiova ist eine der modernsten Automobilfabriken in Europa und ein zentraler Pfeiler der Wirtschaft im Südwesten Rumäniens. Nach umfangreichen Investitionen wurde der Standort zu einem Vorreiter für die Produktion von Elektrofahrzeugen und effizienten Hybridmodellen umgebaut. Das Werk ist bekannt für die Fertigung beliebter Modelle wie dem Ford Puma, der weltweit exportiert wird. Die hochautomatisierte Produktion umfasst Presswerke, Lackierereien und Montagelinien, die nach höchsten globalen Qualitätsstandards operieren. Ford Otosan Craiova spielt eine entscheidende Rolle in der europäischen Strategie des Konzerns für leichte Nutzfahrzeuge und E-Mobilität. Neben der Fahrzeugherstellung ist der Standort auch ein bedeutendes Zentrum für die Motorenproduktion. Die kontinuierliche Weiterentwicklung der Belegschaft und die Integration lokaler Zulieferer machen Craiova zu einem dynamischen industriellen Ökosystem, das weit über die Landesgrenzen hinaus ausstrahlt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Craiova ist ein Schlüsselstandort für die Produktion des Ford Puma.",
+        "Das Werk wurde für die Produktion von Elektrofahrzeugen modernisiert.",
+        "Hier befindet sich eine der effizientesten Motorenfertigungen des Konzerns.",
+        "Über 600 Roboter unterstützen die hochpräzise Fertigung in den Werkshallen.",
+        "Ford Otosan ist der größte Exporteur in der Region Oltenien.",
+        "Der Standort hat eine lange Tradition im Fahrzeugbau (ehemals Oltcit/Daewoo).",
+        "Es werden konsequent Maßnahmen zur CO2-neutralen Produktion umgesetzt.",
+        "Das Werk bietet direkte Beschäftigung für Tausende von Mitarbeitern."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-liberty-galati-extra",
@@ -113,6 +223,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Fontos beszállító az építőipar számára.", "Közvetlenül a Duna mentén fekszik."],
       ro: ["Furnizor important pentru construcții.", "Situat direct pe malul Dunării."],
       en: ["Major supplier for construction.", "Located directly on the Danube."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Stahlwerk Liberty Galați, direkt an der Donau gelegen, ist das größte integrierte Hüttenwerk Rumäniens und ein monumentales Zeugnis industrieller Kraft. Die Anlage deckt die gesamte Produktionskette von der Roheisenerzeugung bis hin zu hochwertigen Flachstahlprodukten ab, die im Schiffbau, im Bauwesen und in der Automobilindustrie weltweit Verwendung finden. Durch den strategischen Zugang zum Fluss ist das Werk optimal an internationale Rohstoff- und Absatzmärkte angebunden. Unter der Leitung von Liberty Steel durchläuft der Standort derzeit eine tiefgreifende Transformation hin zu \"Green Steel\", mit dem Ziel, die CO2-Emissionen durch den Einsatz von Elektrolichtbogenöfen und erneuerbaren Energien drastisch zu senken. Galați ist nicht nur ein bedeutender Wirtschaftsmotor für den Osten Rumäniens, sondern auch ein Zentrum für metallurgisches Know-how, das die industrielle Unabhängigkeit des Landes stärkt und die Basis für zahlreiche nachgelagerte Industrien bildet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Liberty Galați ist der größte Stahlproduzent des Landes.",
+        "Der Standort verfügt über einen eigenen Hafen für Rohstoffimporte.",
+        "Das Werk produziert Spezialstähle für den globalen Schiffbau.",
+        "Es wird massiv in die Dekarbonisierung der Produktion investiert.",
+        "Der Komplex umfasst riesige Hochöfen und Walzwerke.",
+        "Das Stahlwerk ist der wichtigste Arbeitgeber in der Stadt Galați.",
+        "Die jährliche Produktionskapazität liegt bei mehreren Millionen Tonnen Stahl.",
+        "Liberty Galați ist ein wichtiger Lieferant für große Infrastrukturprojekte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -133,6 +265,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Întreține avioane militare.", "Produce componente aviatice."],
       en: ["Maintains military aircraft.", "Produces aviation components."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Aerostar Bacău ist das Aushängeschild der rumänischen Luft- und Raumfahrtindustrie und ein weltweit anerkannter Partner für Flugzeugwartung und die Herstellung von Komponenten. Mit einer über 70-jährigen Geschichte hat sich das Unternehmen von einer staatlichen Fabrik zu einem modernen High-Tech-Zentrum entwickelt. Aerostar ist spezialisiert auf das MRO-Geschäft (Maintenance, Repair, and Overhaul) für zivile Verkehrsflugzeuge wie die Airbus A320-Familie und Boeing 737, betreut aber auch intensiv die militärische Luftflotte Rumäniens, insbesondere die F-16 Kampfjets. Die hochpräzise Fertigungsabteilung produziert komplexe Bauteile für globale Giganten wie Airbus und Gulfstream. Durch kontinuierliche Investitionen in modernste Hangars und Zertifizierungen nach internationalen Luftfahrtstandards sichert Aerostar Bacău die technologische Souveränität des Landes und positioniert Rumänien als kompetenten Akteur in der globalen Aerospace-Zulieferkette.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Aerostar ist ein autorisiertes Wartungszentrum für F-16 Kampfflugzeuge.",
+        "Das Unternehmen ist einer der größten Arbeitgeber im Osten Rumäniens.",
+        "Es produziert Hydraulikkomponenten und Fahrwerke für Verkehrsflugzeuge.",
+        "Aerostar verfügt über modernste Hangars für die Wartung von Großraumjets.",
+        "Das Unternehmen ist an der Bukarester Börse notiert.",
+        "Zahlreiche internationale Fluggesellschaften lassen ihre Flotten in Bacău warten.",
+        "Das Unternehmen betreibt ein eigenes Schulungszentrum für Luftfahrttechniker.",
+        "Aerostar spielt eine Schlüsselrolle in den Verteidigungsprogrammen der NATO."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-autoliv-brasov-extra",
@@ -151,6 +305,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Több gyára van a régióban.", "Az utasvédelemre összpontosít."],
       ro: ["Mai multe fabrici în regiune.", "Accent pe protecția ocupanților."],
       en: ["Multiple plants in the region.", "Focus on occupant protection."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Autoliv Brașov (Kronstadt) ist ein weltweit führender Standort für automobile Sicherheitssysteme und ein zentraler Knotenpunkt im globalen Netzwerk des schwedischen Autoliv-Konzerns. In den Werken der Region werden lebensrettende Komponenten wie Airbags, Sicherheitsgurte und Lenkräder für nahezu alle namhaften Automobilhersteller produziert. Der Standort zeichnet sich durch extrem hohe Qualitätsstandards und eine Null-Fehler-Toleranz aus, da die Produkte im Ernstfall über Leben und Tod entscheiden. Neben der reinen Fertigung beherbergt Brașov bedeutende Engineering-Zentren, in denen neue Sicherheitstechnologien entwickelt und getestet werden. Durch die Kombination aus effizienter Produktion und technischer Innovation hat sich Autoliv zum größten Arbeitgeber in der Region Siebenbürgen entwickelt. Das Unternehmen fördert intensiv die lokale Fachkräfteausbildung und setzt Maßstäbe in der Arbeitssicherheit und Ergonomie, was den Standort zu einem Vorbild für moderne Industriearbeitsplätze in Rumänien macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Autoliv Brașov ist der weltweit größte Produzent von Sicherheitsgurten.",
+        "Das Unternehmen betreibt mehrere Werke in und um Brașov.",
+        "In den Testlaboren werden komplexe Simulationen von Unfällen durchgeführt.",
+        "Autoliv beliefert Premiummarken wie BMW, Audi und Mercedes-Benz.",
+        "Der Standort ist ein Magnet für Ingenieure aus ganz Rumänien.",
+        "Pro Sekunde verlassen hunderte Sicherheitsprodukte die Montagelinien.",
+        "Autoliv engagiert sich stark in sozialen Projekten der Region.",
+        "Die Produktion ist hochgradig automatisiert und digital vernetzt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -171,6 +347,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["În curs de modernizare.", "Funcționează pe cărbune sau gaz."],
       en: ["Undergoing modernization.", "Operates on coal or gas."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Mintia bei Deva war über Jahrzehnte eines der leistungsstärksten Wärmekraftwerke Rumäniens und ein Eckpfeiler der Energieversorgung im Westen des Landes. Gelegen am Ufer des Mures, nutzte die Anlage traditionell Steinkohle aus dem Schiltal, um Strom und Fernwärme zu erzeugen. Nach einer Phase des Stillstands wird der Standort derzeit grundlegend transformiert und zu einem hochmodernen Gaskraftwerk mit kombiniertem Zyklus umgebaut. Diese Neuausrichtung ist Teil der rumänischen Strategie zum Ausstieg aus der Kohleverstromung und zum Übergang zu emissionsärmeren Energieträgern. Das neue Projekt in Mintia soll eines der effizientesten Kraftwerke in ganz Europa werden und eine entscheidende Rolle bei der Stabilisierung des nationalen Stromnetzes spielen, insbesondere als Backup für erneuerbare Energien. Die Revitalisierung des Standorts sichert die industrielle Bedeutung der Region Hunedoara und markiert den Beginn einer neuen Ära der nachhaltigen Energiegewinnung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Kraftwerk Mintia wird derzeit zum größten Gaskraftwerk Rumäniens umgebaut.",
+        "Die neue Anlage wird eine deutlich höhere Energieeffizienz aufweisen.",
+        "Der Standort verfügt über eine strategisch wichtige Netzanbindung.",
+        "Ursprünglich wurde das Kraftwerk mit Kohle aus der Region Valea Jiului betrieben.",
+        "Die Modernisierung ist eine der größten Privatinvestitionen im Energiesektor.",
+        "Das Kraftwerk nutzt Wasser aus dem Fluss Mures zur Kühlung.",
+        "Es soll eine Schlüsselrolle beim Kohleausstieg Rumäniens spielen.",
+        "Die neuen Gasturbinen gehören zur modernsten Generation weltweit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-resita-steel-extra",
@@ -189,6 +387,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Hosszú hagyomány a gépgyártásban.", "Speciális acélokat gyárt."],
       ro: ["Tradiție lungă în metalurgie.", "Produce oțeluri speciale."],
       en: ["Long tradition in metallurgy.", "Produces special steels."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Stahlwerk in Reșița ist die Geburtsstätte der rumänischen Schwerindustrie und blickt auf eine beeindruckende Geschichte von über 250 Jahren zurück. Einst das Zentrum der Donaumonarchie für Metallurgie und Lokomotivbau, hat sich der Standort heute als moderner Produzent von Spezialstählen und nahtlosen Rohren neu erfunden. Als Teil der TMK-Gruppe (jetzt ARTROM) spezialisiert sich das Werk auf die Herstellung hochwertiger Knüppel für die Rohrindustrie. Die tief verwurzelte industrielle Tradition der Stadt Reșița spiegelt sich in der Expertise der Belegschaft wider, die auch schwierigste metallurgische Herausforderungen meistert. Trotz des Strukturwandels bleibt das Stahlwerk das wirtschaftliche Rückgrat der Region Karasch-Severin. Durch Investitionen in moderne Elektrolichtbogenöfen und Umweltschutzmaßnahmen wird versucht, die historische Bedeutung des Standorts mit den Anforderungen einer modernen, nachhaltigen Stahlproduktion in Einklang zu bringen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Reșița ist einer der ältesten Industriestandorte in Südosteuropa (seit 1771).",
+        "Das Werk fertigt hochwertige Stahlknüppel für die Rohrproduktion.",
+        "Hier wurden die ersten Dampflokomotiven Rumäniens gebaut.",
+        "Der Standort nutzt moderne Elektrolichtbogenöfen für die Stahlschmelze.",
+        "Reșița-Stahl wird in der Energie- und Bauindustrie weltweit eingesetzt.",
+        "Die Fabrik ist eng mit der Identität und Geschichte der Stadt verbunden.",
+        "Es werden strenge Qualitätskontrollen nach internationalen Standards durchgeführt.",
+        "Das Unternehmen investiert kontinuierlich in die Reduzierung der Umweltbelastung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -209,6 +429,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Utilizează lignit din mine locale.", "Turnuri de răcire uriașe."],
       en: ["Uses lignite from local mines.", "Features massive cooling towers."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Rovinari ist einer der größten und wichtigsten Energieproduzenten Rumäniens und bildet das Rückgrat der nationalen Stromversorgung. Gelegen im Herzen des Oltenia-Kohlebeckens, nutzt dieses massive Braunkohlekraftwerk die unmittelbar benachbarten Tagebaue für eine effiziente Brennstoffversorgung. Die Anlage besteht aus mehreren leistungsstarken Blöcken, die kontinuierlich modernisiert werden, um die strengen europäischen Emissionsgrenzwerte einzuhalten und die Netzsicherheit zu gewährleisten. Rovinari spielt eine entscheidende Rolle für die energetische Unabhängigkeit des Landes, insbesondere in Zeiten hoher Last oder geringer Erzeugung aus erneuerbaren Quellen. Die gigantischen Kühltürme der Anlage sind weithin sichtbar und markieren ein industrielles Zentrum, das Tausende von Arbeitsplätzen im Bergbau und in der Energieerzeugung sichert und den Kreis Gorj wirtschaftlich maßgeblich prägt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Rovinari ist eines der größten Wärmekraftwerke in Südosteuropa.",
+        "Die Anlage wird direkt durch die angrenzenden Braunkohletagebaue versorgt.",
+        "Das Kraftwerk ist ein zentraler Pfeiler für die Stabilität des rumänischen Stromnetzes.",
+        "Umfangreiche Entschwefelungsanlagen wurden zur Emissionsminderung installiert.",
+        "Die installierte Leistung beträgt über 1.300 Megawatt.",
+        "Rovinari ist Teil des staatlichen Energiekomplexes Oltenia (CEO).",
+        "Die Anlage sichert die Grundlastversorgung des Landes rund um die Uhr.",
+        "Der Standort ist ein bedeutender Wirtschaftsfaktor für den Südwesten Rumäniens."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-oltchim-vl-extra",
@@ -227,6 +469,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Polimereket és PVC-t gyárt.", "Fontos a vegyipar számára."],
       ro: ["Produce polimeri și PVC.", "Important pentru industria chimică."],
       en: ["Produces polymers and PVC.", "Crucial for the chemical industry."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Oltchim Râmnicu Vâlcea war über Jahrzehnte der Stolz der rumänischen Chemieindustrie und einer der größten Industriekomplexe des Landes. Spezialisiert auf die Herstellung von Polyolen, PVC und Natronlauge, belieferte das Unternehmen zahlreiche Branchen von der Bauindustrie bis zur Kunststoffverarbeitung im In- und Ausland. Trotz wirtschaftlicher Herausforderungen in der Vergangenheit bleibt der Standort ein wichtiges Zentrum für chemisches Know-how. Die Anlagen in Râmnicu Vâlcea sind technologisch komplex und eng in die regionale Infrastruktur eingebunden. Heute werden Teile des Komplexes unter neuer Führung modernisiert, um den Anforderungen an eine nachhaltige und wettbewerbsfähige Chemieproduktion im 21. Jahrhundert gerecht zu werden. Die strategische Lage und die vorhandene Expertise machen Oltchim weiterhin zu einem potenziellen Motor für industrielle Innovationen in der Region Vâlcea.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Oltchim war ein führender Hersteller von Polyether-Polyolen in Europa.",
+        "Der Komplex umfasst spezialisierte Anlagen für die Chlor-Alkali-Elektrolyse.",
+        "Das Unternehmen war ein wichtiger Exporteur für den gesamten Balkanraum.",
+        "Râmnicu Vâlcea verfügt durch Oltchim über eine lange industrielle Tradition.",
+        "Die Anlagen sind für die Produktion von hochwertigem PVC bekannt.",
+        "Oltchim spielte eine Schlüsselrolle in der vertikalen Integration der Chemieindustrie.",
+        "Der Standort ist mit wichtigen Transportwegen und Pipelines vernetzt.",
+        "Die Revitalisierung der Anlagen ist ein Schwerpunkt regionaler Wirtschaftspolitik."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -247,6 +511,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Produsele sunt exportate global.", "Situl industrial este modern."],
       en: ["Products are exported globally.", "Modern industrial site."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "TenarisSilcotub in Zalău ist ein weltweit führendes Werk für die Herstellung von nahtlosen Stahlrohren mit kleinem Durchmesser, die vor allem in der Energieindustrie, im Automobilbau und im Maschinenbau Anwendung finden. Als Teil des globalen Tenaris-Netzwerks wurde der Standort in Zalău umfassend modernisiert und mit hochmodernen Walzstraßen sowie spezialisierten Veredelungsanlagen ausgestattet. Die Fabrik zeichnet sich durch eine extreme Präzision und strenge Qualitätskontrollen aus, um den hohen Anforderungen internationaler Öl- und Gasunternehmen gerecht zu werden. Neben der Produktion ist Zalău auch ein wichtiges Logistikzentrum für den Vertrieb der Produkte in ganz Europa und darüber hinaus. Durch kontinuierliche Investitionen in Sicherheit, Umweltschutz und die Ausbildung junger Talente hat Tenaris den Standort Zalău zu einem industriellen Vorzeigeprojekt in Nordwest-Rumänien entwickelt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "TenarisSilcotub Zalău ist ein Spezialist für nahtlose Stahlrohre.",
+        "Das Werk beliefert die weltweit größten Öl- und Gaskonzerne.",
+        "In Zalău kommen modernste zerstörungsfreie Prüfverfahren zum Einsatz.",
+        "Der Standort ist Teil der weltweit agierenden Tenaris-Gruppe.",
+        "Tenaris ist der bedeutendste private Arbeitgeber im Kreis Sălaj.",
+        "Umfangreiche Bildungsprogramme fördern die lokale technische Ausbildung.",
+        "Die Produkte werden für anspruchsvolle Bohrungen und Pipelines verwendet.",
+        "Das Werk setzt hohe Standards im Bereich industrielle Nachhaltigkeit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-draexlmaier-sm-extra",
@@ -265,6 +551,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Kábelkötegeket gyárt.", "Szatmár egyik legnagyobb munkaadója."],
       ro: ["Produce sisteme de cablaj.", "Unul dintre cei mai mari angajatori din SM."],
       en: ["Produces wiring systems.", "One of the largest employers in SM."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Dräxlmaier-Werk in Sathmar (Satu Mare) ist ein bedeutender Pfeiler der deutschen Automobilzulieferindustrie in Rumänien und ein wichtiger Partner für globale Premiummarken. Seit seiner Eröffnung hat sich der Standort zu einem der größten und modernsten Werke des Konzerns entwickelt, spezialisiert auf die Fertigung von komplexen Bordnetzsystemen und hochwertigen Interieur-Komponenten. Die Produktion in Sathmar zeichnet sich durch einen hohen Grad an handwerklicher Präzision kombiniert mit automatisierter Fertigungstechnik aus. Dräxlmaier ist bekannt für seine Vorreiterrolle bei der Einführung des dualen Ausbildungssystems in Rumänien, wodurch der Standort kontinuierlich hochqualifizierten Nachwuchs sichert. Die Fabrik leistet einen massiven Beitrag zur wirtschaftlichen Stabilität der Region und ist ein Musterbeispiel für die erfolgreiche Ansiedlung deutscher Hochtechnologie im rumänischen Nordwesten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Dräxlmaier Sathmar produziert Kabelsätze für führende deutsche Automarken.",
+        "Das Werk ist einer der größten Arbeitgeber im Nordwesten Rumäniens.",
+        "In Sathmar wird das duale Ausbildungsprogramm nach deutschem Vorbild praktiziert.",
+        "Der Standort fertigt auch Interieur-Systeme für die Luxusklasse.",
+        "Dräxlmaier investiert massiv in E-Mobilitäts-Komponenten in Rumänien.",
+        "Das Werk ist zertifiziert nach den höchsten IATF-Qualitätsstandards.",
+        "Nachhaltige Produktion und Ressourceneffizienz sind zentrale Unternehmensziele.",
+        "Sathmar ist ein strategischer Knotenpunkt in der globalen Dräxlmaier-Logistik."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -285,6 +593,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Tehnologie modernă de turnare.", "Infrastructură în parcul industrial."],
       en: ["State-of-the-art casting technology.", "Located in the industrial park."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Faist Mekatronic in Großwardein (Oradea) ist ein hochmodernes Zentrum für die Produktion von Präzisionskomponenten, das vor allem die Telekommunikations- und Automobilindustrie weltweit beliefert. In dem hochautomatisierten Werk werden komplexe Aluminium-Druckgussteile sowie mechanische Komponenten für 5G-Basisstationen und moderne Fahrzeugsysteme gefertigt. Die Fabrik im Industriepark von Oradea gilt als eine der effizientesten des FAIST-Konzerns und nutzt modernste Bearbeitungszentren sowie Robotertechnik für die Oberflächenveredelung und Montage. Durch die strategische Nähe zur ungarischen Grenze profitiert der Standort von einer exzellenten logistischen Anbindung an die europäischen Märkte. Faist Mekatronic steht für technologische Exzellenz und ist ein Paradebeispiel für den rasanten Aufstieg von Oradea zu einem neuen Hotspot der High-Tech-Industrie in Rumänien.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Faist Mekatronic ist ein Schlüssellieferant für die globale 5G-Infrastruktur.",
+        "Das Werk ist auf Aluminium-Druckguss und mechanische Bearbeitung spezialisiert.",
+        "Es befindet sich in einem der modernsten Industrieparks Rumäniens in Oradea.",
+        "In der Produktion kommen hunderte hochpräzise CNC-Maschinen zum Einsatz.",
+        "Faist beliefert Giganten wie Ericsson, Nokia und namhafte Automobilhersteller.",
+        "Der Standort zeichnet sich durch eine sehr hohe Exportquote aus.",
+        "Kontinuierliche Investitionen fließen in Forschung und Entwicklung vor Ort.",
+        "Das Unternehmen fördert intensiv die MINT-Ausbildung in der Region Bihor."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-astra-vagoane-arad-extra",
@@ -303,6 +633,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Imperio villamosokat építi.", "Hosszú múlt, 1891 óta."],
       ro: ["Construiește tramvaiele Imperio.", "Istorie lungă din 1891."],
       en: ["Builds the Imperio trams.", "Long history since 1891."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Astra Vagoane Călători in Arad ist ein traditionsreiches Traditionsunternehmen und der führende rumänische Hersteller von Schienenfahrzeugen. Mit einer Geschichte, die bis ins 19. Jahrhundert zurückreicht, hat sich das Unternehmen heute auf den Bau von modernen Reisezugwagen und Straßenbahnen spezialisiert. Besonders bekannt ist die Imperio-Straßenbahn, die in vielen rumänischen Städten zum Einsatz kommt und nach modernsten europäischen Standards für Komfort und Effizienz entwickelt wurde. Die Werke in Arad verfügen über eine beeindruckende Fertigungstiefe, vom Stahlbau bis zum hochwertigen Innenausbau. Astra Vagoane ist ein Symbol für die Renaissance des Schienenverkehrs in Rumänien und exportiert seine Waggons erfolgreich in verschiedene Märkte weltweit. Durch die Kombination von bewährter Ingenieurskunst und moderner Technik sichert Astra die Mobilität der Zukunft auf Schienen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Astra Vagoane Arad wurde bereits im Jahr 1891 gegründet.",
+        "Das Unternehmen ist der wichtigste Hersteller von Straßenbahnen in Rumänien.",
+        "Die 'Imperio'-Straßenbahn ist das Aushängeschild der aktuellen Produktion.",
+        "Astra fertigt auch Luxus-Reisezugwagen für internationale Märkte.",
+        "Der Standort Arad ist ein bedeutendes Zentrum für Eisenbahntechnik.",
+        "Das Unternehmen ist fest in rumänischer Hand und fördert lokales Know-how.",
+        "Astra-Waggons sind für ihre Langlebigkeit und Robustheit bekannt.",
+        "Die Produktion erfüllt alle europäischen Interoperabilitäts-Standards (TSI)."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -323,6 +675,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Produce cutii 9G-Tronic.", "Investiție de miliarde."],
       en: ["Produces 9G-Tronic gearboxes.", "Billion-euro investment."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Star Assembly in Mühlbach (Sebeș) ist eine 100-prozentige Tochtergesellschaft von Mercedes-Benz und einer der modernsten Standorte für Getriebemontage weltweit. In den hochautomatisierten Werkhallen werden komplexe Automatikgetriebe, wie das 9G-Tronic, für die gesamte Modellpalette von Mercedes-Benz produziert. Die Anlage in Sebeș ist ein Musterbeispiel für Industrie 4.0, in der modernste Robotertechnik und digitale Überwachungssysteme eine Null-Fehler-Qualität garantieren. Durch massive Investitionen wurde der Standort kontinuierlich erweitert und spielt nun eine zentrale Rolle in der globalen Powertrain-Produktionskette des deutschen Automobilriesen. Star Assembly ist nicht nur ein bedeutender Exporteur, sondern auch ein Motor für die Entwicklung der Region Alba, indem es höchste Standards in der technischen Ausbildung und im Umweltschutz setzt und eng mit lokalen Zulieferern zusammenarbeitet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Star Assembly ist ein integraler Teil des Mercedes-Benz Produktionsnetzwerks.",
+        "In Sebeș wird unter anderem das hochmoderne 9-Gang-Automatikgetriebe montiert.",
+        "Der Standort wurde mit Investitionen in Milliardenhöhe aufgebaut.",
+        "Das Werk arbeitet nach den strengsten Qualitätsvorgaben der deutschen Automobilindustrie.",
+        "Es ist einer der größten und technologisch fortschrittlichsten Arbeitgeber in der Region Alba.",
+        "Star Assembly setzt auf eine CO2-neutrale Energieversorgung seiner Standorte.",
+        "Hunderte von hochspezialisierten Ingenieuren sind vor Ort tätig.",
+        "Das Werk exportiert fast 100 % seiner Produktion an Mercedes-Benz Werke weltweit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-continental-sibiu-extra",
@@ -341,6 +715,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Autonóm vezetést fejleszt.", "Nagy K+F központ."],
       ro: ["Dezvoltă conducerea autonomă.", "Centru mare de R&D."],
       en: ["Develops autonomous driving.", "Large R&D center."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Der Continental-Standort in Hermannstadt (Sibiu) ist weit mehr als eine Fabrik – er ist eines der bedeutendsten Forschungs- und Entwicklungszentren für automobile Elektronik in Südosteuropa. In Sibiu werden innovative Systeme für autonomes Fahren, fortschrittliche Bremssteuerungen und intelligente Sensorik entwickelt und direkt vor Ort in hochmodernen Linien produziert. Das Werk ist ein Paradebeispiel für die Verbindung von Engineering und Fertigung. Tausende von Ingenieuren arbeiten hier an der Software und Hardware für die Fahrzeuge der Zukunft. Durch die enge Kooperation mit der Lucian-Blaga-Universität hat sich Sibiu zu einem akademischen und industriellen Hotspot entwickelt, der Talente aus dem ganzen Land anzieht. Continental Sibiu ist ein entscheidender Treiber für den technologischen Aufstieg Rumäniens zum High-Tech-Standort und setzt Maßstäbe in der digitalen Vernetzung der Automobilindustrie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Continental Sibiu beherbergt ein riesiges Forschungs- und Entwicklungszentrum.",
+        "Hier werden Kernkomponenten für Fahrassistenzsysteme (ADAS) entwickelt.",
+        "Das Werk fertigt komplexe elektronische Steuergeräte für globale Automobilmarken.",
+        "In Sibiu arbeiten über 4.000 Mitarbeiter, ein Großteil davon im Engineering.",
+        "Der Standort ist ein Vorreiter für autonomes Fahren und vernetzte Mobilität.",
+        "Continental ist der wichtigste Motor für die lokale IT- und Technikszene.",
+        "Das Werk verfügt über hochmoderne Teststrecken und Labore vor Ort.",
+        "Sibiu ist ein Schlüsselstandort in der globalen Elektronikstrategie von Continental."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -361,6 +757,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Situată în parcul Tetarom III.", "Importantă pentru e-mobilitate."],
       en: ["Located in Tetarom III park.", "Crucial for e-mobility."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Bosch-Werk in Jucu, nahe Klausenburg (Cluj-Napoca), ist ein hochmoderner Standort für elektronische Automobilkomponenten und ein Kernstück der Bosch-Präsenz in Rumänien. In der Fabrik werden spezialisierte Steuergeräte für Fahrassistenzsysteme, E-Mobilität und vernetzte Fahrzeugfunktionen produziert. Jucu zeichnet sich durch einen extrem hohen Automatisierungsgrad und die Anwendung modernster Fertigungstechnologien aus. In enger Verbindung mit dem Bosch Engineering Center in Cluj-Napoca bildet das Werk ein integriertes Innovations-Ökosystem. Bosch hat in den Standort Jucu massiv investiert, um ihn zu einem globalen Kompetenzzentrum für Elektronikfertigung auszubauen. Durch nachhaltige Produktionsmethoden und eine starke Förderung der beruflichen Bildung setzt Bosch Maßstäbe für die industrielle Entwicklung in Siebenbürgen und festigt den Ruf von Cluj als das 'Silicon Valley' Rumäniens.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Werk Jucu ist spezialisiert auf elektronische Steuergeräte (ECUs).",
+        "Bosch fertigt hier Komponenten für moderne Sicherheitssysteme in Fahrzeugen.",
+        "Der Standort liegt im strategisch wichtigen Industriepark Tetarom III.",
+        "Bosch betreibt in Cluj auch ein großes Software-Entwicklungszentrum.",
+        "In Jucu werden jährlich Millionen von Elektronikmodulen produziert.",
+        "Das Werk ist ein Vorreiter für Industrie 4.0 Lösungen innerhalb der Bosch-Gruppe.",
+        "Zahlreiche Ausbildungsprogramme für Lehrlinge und Studenten werden angeboten.",
+        "Bosch ist einer der attraktivsten Arbeitgeber für Techniker in der Region Cluj."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-azomures-ms-extra",
@@ -379,6 +797,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Fontos szereplő az agrárágazatban.", "Hatalmas ipari létesítmények."],
       ro: ["Jucător cheie în sectorul agrar.", "Instalații industriale mari."],
       en: ["Key player in the agrar sector.", "Massive industrial facilities."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Azomureș in Neumarkt (Târgu Mureș) ist der bedeutendste Produzent von Düngemitteln in Rumänien und ein unverzichtbarer Partner für die nationale Landwirtschaft. Der riesige Chemiekomplex stellt eine breite Palette von Produkten wie Ammoniumnitrat, Harnstoff und Mehrnährstoffdünger her, die entscheidend für die Ertragssicherung der rumänischen Landwirte sind. Azomureș ist fest in die industrielle Infrastruktur der Region integriert und blickt auf eine jahrzehntelange Tradition in der chemischen Synthese zurück. In den letzten Jahren wurden umfangreiche Investitionen in den Umweltschutz und die Modernisierung der Anlagen getätigt, um die Emissionen zu senken und die Energieeffizienz zu steigern. Trotz der Volatilität der globalen Energiemärkte bleibt Azomureș ein strategischer Garant für die Ernährungssicherheit des Landes und ein wirtschaftliches Schwergewicht im Herzen Siebenbürgens.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Azomureș ist der größte Düngemittelhersteller in Rumänien.",
+        "Das Unternehmen deckt einen Großteil des Inlandsbedarfs an Agrarchemikalien.",
+        "Der Standort Târgu Mureș verfügt über riesige Industrieanlagen zur Ammoniaksynthese.",
+        "Azomureș ist ein wichtiger Abnehmer für rumänisches Erdgas.",
+        "Das Unternehmen investiert massiv in Technologien zur Emissionsminderung.",
+        "Die Produkte werden unter strengen Qualitätskontrollen für den Weltmarkt gefertigt.",
+        "Azomureș ist einer der größten Arbeitgeber im Kreis Mureș.",
+        "Der Komplex spielt eine Schlüsselrolle in der lokalen industriellen Wertschöpfung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -399,6 +839,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Exportă în întreaga UE.", "Mii de angajați la nivel local."],
       en: ["Exports throughout the EU.", "Thousands of local employees."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Leoni Wiring Systems in Bistritz (Bistrița) ist ein internationaler Spitzenstandort für die Herstellung von Bordnetzen und Kabelsätzen für die globale Automobilindustrie. Als Teil der deutschen Leoni-Gruppe hat sich der Standort zu einem der größten Arbeitgeber in Nordrumänien entwickelt. In den weitläufigen Produktionshallen werden hochkomplexe Kabelsysteme für führende Fahrzeughersteller gefertigt, wobei sowohl hochautomatisierte Prozesse als auch präzise Handarbeit zum Einsatz kommen. Leoni Bistrița zeichnet sich durch eine exzellente Logistik und ein ausgeklügeltes Qualitätsmanagement aus. Der Standort ist eng mit der lokalen Gemeinschaft verwurzelt und trägt durch kontinuierliche Investitionen in die Belegschaft und moderne Produktionstechnologien maßgeblich zur industriellen Dynamik der Region bei. Leoni ist ein Paradebeispiel für die erfolgreiche Integration rumänischer Standorte in die globale Supply Chain der Automobilbranche.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Leoni Bistrița produziert Kabelsätze für die weltweit bekanntesten Automarken.",
+        "Der Standort ist der größte Arbeitgeber im Kreis Bistrița-Năsăud.",
+        "Es werden komplexe Bordnetze für PKW und Nutzfahrzeuge gefertigt.",
+        "Leoni betreibt mehrere spezialisierte Werke in der Region.",
+        "Das Unternehmen exportiert seine Produkte in alle großen Automobilwerke Europas.",
+        "Hohe Standards bei Qualität und Arbeitssicherheit prägen den Betrieb.",
+        "Leoni fördert die lokale Ausbildung durch Kooperationen mit Schulen.",
+        "Der Standort ist ein Musterbeispiel für effiziente Massenproduktion."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-egger-sv-extra",
@@ -417,6 +879,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Legmodernebb újrahasznosító üzemek.", "Helyi faforrásokat használ."],
       ro: ["Instalații de reciclare moderne.", "Utilizează resurse locale de lemn."],
       en: ["State-of-the-art recycling facilities.", "Uses local wood resources."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Egger-Werk in Rädăuți (Rădăuți) ist einer der modernsten Holzverarbeitungsstandorte in Osteuropa und ein zentraler Pfeiler der rumänischen Möbel- und Bauzulieferindustrie. In dem riesigen Werk werden hochwertige Spanplatten, MDF-Platten und Laminate produziert, die in die ganze Welt exportiert werden. Egger setzt in Rädăuți auf ein integriertes Standortkonzept, das eine effiziente Nutzung von Rohstoffen und Energie ermöglicht. Besonders hervorzuheben ist das Engagement im Bereich Nachhaltigkeit: Das Werk verfügt über modernste Recyclinganlagen für Altholz und ein eigenes Biomassekraftwerk zur Energieerzeugung. Durch diese Kreislaufwirtschaft minimiert Egger seinen ökologischen Fußabdruck. Als bedeutender Arbeitgeber in der Bukowina sichert das Unternehmen nicht nur direkt Tausende von Jobs, sondern unterstützt auch indirekt eine Vielzahl lokaler Dienstleister und Forstbetriebe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Egger Rădăuți ist eines der größten Holzverarbeitungswerke in Rumänien.",
+        "In der Produktion werden modernste Technologien für Span- und Faserplatten genutzt.",
+        "Der Standort verfügt über ein eigenes Biomassekraftwerk zur Stromerzeugung.",
+        "Egger betreibt in Rädăuți eine der fortschrittlichsten Altholz-Recyclinganlagen.",
+        "Das Unternehmen beliefert die globale Möbelindustrie, einschließlich IKEA.",
+        "Nachhaltigkeit und FSC-Zertifizierung sind zentrale Bestandteile der Strategie.",
+        "Das Werk ist ein entscheidender Wirtschaftsmotor für den Kreis Suceava.",
+        "Umfangreiche Filteranlagen sorgen für saubere Luft am Produktionsstandort."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -437,6 +921,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Produce fire sintetice.", "Parteneriat cu firme italiene."],
       en: ["Produces synthetic yarns.", "Partnership with Italian firms."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Rifil in Săvinești ist ein traditionsreicher Name in der rumänischen Textilindustrie und gilt als Pionier in der Herstellung von synthetischen Garnen. Das Unternehmen, das aus einer erfolgreichen italienisch-rumänischen Partnerschaft hervorging, hat den industriellen Charakter der Region Neamț über Jahrzehnte geprägt. Rifil ist spezialisiert auf hochwertige Acrylgarne und Mischgewebe, die für die globale Mode- und Heimtextilindustrie produziert werden. Durch kontinuierliche Innovationen in der Spinnereitechnologie und ein starkes Augenmerk auf Umweltstandards hat Rifil die schwierigen Zeiten des Strukturwandels erfolgreich gemeistert. Heute steht Rifil für Qualität 'Made in Romania' und ist ein geschätzter Lieferant für namhafte internationale Marken. Das Unternehmen ist nicht nur ein bedeutender Exporteur, sondern auch ein wichtiger sozialer Akteur und Arbeitgeber in der Region Moldau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Rifil Săvinești war das erste Joint Venture zwischen einem westlichen und einem rumänischen Unternehmen.",
+        "Das Unternehmen ist ein führender europäischer Produzent von Acrylgarnen.",
+        "In Săvinești blickt man auf über 50 Jahre Erfahrung in der Textilherstellung zurück.",
+        "Rifil exportiert den Großteil seiner Produktion in die Europäische Union.",
+        "Die italienische Partnerschaft brachte modernste Technik und Design-Know-how.",
+        "Das Unternehmen investiert konsequent in ökologische Färbetechnologien.",
+        "Rifil ist das wirtschaftliche Herzstück des Industriestandorts Săvinești.",
+        "Die Garne finden Anwendung in hochwertiger Strickmode und Webstoffen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-delphi-is-extra",
@@ -455,6 +961,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Miroslava ipari parkban található.", "Nagy pontosságú gyártás."],
       ro: ["Situată în parcul Miroslava.", "Producție de înaltă precizie."],
       en: ["Located in Miroslava park.", "High-precision manufacturing."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Delphi-Werk (jetzt Teil von Phinia / BorgWarner) in Jassy (Iași) ist ein hochmodernes Zentrum für die Produktion von Diesel-Einspritzsystemen und Komponenten für das Kraftstoffmanagement. Die Fabrik im Industriepark Miroslava ist eines der technologisch fortschrittlichsten Werke in ganz Nordost-Rumänien. Hier werden Hochpräzisionskomponenten gefertigt, die für die Reduzierung von Fahrzeugemissionen und die Steigerung der Motoreffizienz entscheidend sind. Der Standort Iași profitiert massiv von der Nähe zur Technischen Universität, was einen stetigen Zustrom von hochqualifizierten Ingenieuren garantiert. Durch den Einsatz von Reinraumtechnologie und automatisierten Prüfsystemen erfüllt Delphi höchste globale Qualitätsstandards. Das Werk ist ein zentraler Baustein in der Strategie für saubere Mobilität und ein bedeutender Wirtschaftsfaktor, der Iași als modernen Industriestandort auf der europäischen Landkarte festigt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Werk in Iași fertigt Hochdruckpumpen und Injektoren für Dieselmotoren.",
+        "Es ist ein Schlüsselstandort für Technologien zur Emissionsreduzierung.",
+        "Die Produktion erfolgt unter strengsten Reinraum-Bedingungen.",
+        "Der Standort Iași ist ein Magnet für Absolventen technischer Studiengänge.",
+        "Das Werk ist Teil eines globalen Netzwerks für Antriebstechnologien.",
+        "In Miroslava wurden hunderte Millionen Euro in modernste Anlagen investiert.",
+        "Delphi Iași exportiert Komponenten an fast alle großen Automobilhersteller.",
+        "Nachhaltige Fertigungsprozesse sind ein Kernbestandteil der Standortstrategie."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -475,6 +1003,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Exportă sub marca URB.", "Fondată în anii 1950."],
       en: ["Exports under the URB brand.", "Founded in the 1950s."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Rulmenți Bârlad ist ein Traditionsunternehmen der rumänischen Schwerindustrie und ein weltweit anerkannter Hersteller von Wälzlagern. Unter der globalen Marke URB bekannt, liefert das Unternehmen Lagerlösungen für verschiedenste Anwendungen – vom allgemeinen Maschinenbau über den Bergbau bis hin zur Eisenbahntechnik. Der Standort in Bârlad blickt auf eine jahrzehntelange Erfahrung zurück und hat sich durch ständige Modernisierung seines Maschinenparks an die internationalen Qualitätsstandards angepasst. Heute gehört das Unternehmen zur türkischen Kombassan-Gruppe und exportiert seine Produkte in über 80 Länder. Rulmenți Bârlad ist das wirtschaftliche Rückgrat des Kreises Vaslui und ein Beweis für die Beständigkeit rumänischer Ingenieurskunst im globalen Wettbewerb. Das Unternehmen investiert kontinuierlich in Forschung und Entwicklung, um auch in Zukunft innovative und langlebige Lagerlösungen für die Weltindustrie anzubieten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Rulmenți Bârlad produziert unter der weltweit bekannten Marke URB.",
+        "Das Unternehmen exportiert über 90 % seiner Produktion in alle Kontinente.",
+        "Gegründet wurde der Betrieb in Bârlad bereits im Jahr 1953.",
+        "Das Produktsortiment umfasst tausende verschiedene Lagertypen.",
+        "Rulmenți ist der bedeutendste Arbeitgeber im Kreis Vaslui.",
+        "Das Unternehmen liefert Lager für die Schwerindustrie und Schienenfahrzeuge.",
+        "In den letzten Jahren wurden die Fertigungslinien umfassend automatisiert.",
+        "Bârlad ist ein anerkanntes Kompetenzzentrum für Wälzlagertechnik."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-damen-galati-extra",
@@ -493,6 +1043,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Speciális hajókat és jachtokat épít.", "A holland Damen-csoport része."],
       ro: ["Construiește nave speciale și iahturi.", "Face parte din grupul olandez Damen."],
       en: ["Builds specialized ships and yachts.", "Part of the Dutch Damen Group."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Die Damen Werft in Galatz (Galați) ist einer der modernsten und leistungsfähigsten Schiffbaustandorte an der Donau. Als Teil der niederländischen Damen Shipyards Group verbindet die Werft rumänische Schiffbautradition mit westlichem High-Tech-Management. In Galați werden hochkomplexe Spezialschiffe gebaut, darunter Superyachten, Patrouillenboote der Küstenwache, Forschungsschiffe und Versorgungsschiffe für die Offshore-Industrie. Die Werft verfügt über beeindruckende Trockendocks und eine enorme Fertigungskapazität, die es ermöglicht, Schiffe von der ersten Stahlplatte bis zur Endausrüstung komplett vor Ort zu realisieren. Damen Galați ist ein wichtiger technologischer Motor für den Osten Rumäniens und sichert durch seine globale Ausrichtung Tausende von hochqualifizierten Arbeitsplätzen im Schiffbau und in verwandten Ingenieursdisziplinen. Die Werft ist ein Aushängeschild für rumänische Präzision auf den Weltmeeren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Damen Galați ist das Flaggschiff der rumänischen Schiffbauindustrie.",
+        "Die Werft fertigt hochspezialisierte Schiffe für Kunden weltweit.",
+        "In Galați wurden einige der fortschrittlichsten Marineschiffe für die NATO gebaut.",
+        "Der Standort verfügt über eines der größten Trockendocks an der unteren Donau.",
+        "Die Werft ist Teil der international agierenden Damen Shipyards Group.",
+        "Über 2.000 Fachkräfte sind direkt auf der Werft beschäftigt.",
+        "In Galați wurde die größte in Rumänien gebaute Privatyacht fertiggestellt.",
+        "Die Werft nutzt modernste 3D-Design- und Fertigungssoftware."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -513,6 +1085,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Specializat în nave de aprovizionare.", "Parte a grupului Fincantieri."],
       en: ["Specialized in offshore vessels.", "Part of the Fincantieri Group."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Die Vard Werft in Brăila ist ein bedeutender Standort für den Schiffbau an der Donau und Teil der norwegischen Vard-Gruppe (einer Tochter von Fincantieri). Die Werft ist spezialisiert auf den Bau von anspruchsvollen Schiffsrümpfen und Spezialschiffen für die Offshore-Energieerzeugung, Fischerei und Expeditionskreuzfahrten. Brăila blickt auf eine lange maritime Geschichte zurück, und die Werft nutzt diese Erfahrung, um komplexe Strukturen nach höchsten skandinavischen Standards zu fertigen. In enger Zusammenarbeit mit der Vard-Werft in Tulcea bildet Brăila ein leistungsstarkes industrielles Cluster. Durch kontinuierliche Investitionen in die Modernisierung der Anlagen und die Ausbildung der Belegschaft bleibt die Werft ein wettbewerbsfähiger Akteur auf dem Weltmarkt. Vard Brăila leistet einen entscheidenden Beitrag zur wirtschaftlichen Stabilität der Stadt und zur Bewahrung des schiffbaulichen Erbes an der Donau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Vard Brăila gehört zur renommierten norwegischen Vard-Gruppe.",
+        "Die Werft ist spezialisiert auf komplexe Schiffsrümpfe für Spezialschiffe.",
+        "In Brăila werden Rümpfe für Luxus-Expeditionskreuzfahrtschiffe gefertigt.",
+        "Der Standort profitiert vom direkten Zugang zur Donau und zum Schwarzen Meer.",
+        "Vard ist der wichtigste industrielle Arbeitgeber in Brăila.",
+        "Die Werft arbeitet eng mit den Schwesterstandorten in Norwegen zusammen.",
+        "Moderne Schweißtechnologien und Stahlverarbeitung prägen den Betrieb.",
+        "Die Werft engagiert sich für umweltfreundlichere Produktionsverfahren."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-vard-tulcea-extra",
@@ -531,6 +1125,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Összetett hajótesteket épít.", "Tulcsa fontos munkaadója."],
       ro: ["Construiește cocă de navă complexă.", "Angajator major în Tulcea."],
       en: ["Builds complex ship hulls.", "Major employer in Tulcea."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Die Vard Werft in Tulcea, gelegen am Tor zum Donaudelta, ist einer der größten und wichtigsten Schiffbaustandorte Rumäniens. Als Teil der Vard-Gruppe (Fincantieri) ist Tulcea ein Kompetenzzentrum für den Bau von hochkomplexen Schiffsrümpfen und die Teilmontage von Spezialschiffen für die internationale Seefahrt. Die Werft zeichnet sich durch ihre enorme Größe und die Fähigkeit aus, gleichzeitig an mehreren Großprojekten zu arbeiten. Rümpfe aus Tulcea werden oft nach Norwegen geschleppt, um dort endausgerüstet zu werden, was die tiefe Integration des Standorts in die globale Schiffbau-Wertschöpfungskette unterstreicht. Mit tausenden Beschäftigten ist Vard Tulcea das wirtschaftliche Herz der Region und ein wichtiger Faktor für die soziale Stabilität in der Dobrudscha. Die Werft steht für Qualität, Robustheit und modernste Fertigungstechniken unter anspruchsvollen Bedingungen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Vard Tulcea ist einer der größten privaten Arbeitgeber in Südostrumänien.",
+        "Hier werden Rümpfe für einige der weltweit fortschrittlichsten Offshore-Schiffe gebaut.",
+        "Die Werft verfügt über umfangreiche Kapazitäten für schwere Stahlkonstruktionen.",
+        "Tulcea fertigt auch Komponenten für die internationale Marineschifffahrt.",
+        "Der Standort ist Teil des globalen Fincantieri-Konzerns.",
+        "Viele in Tulcea gebaute Schiffe kommen in der Arktis und Antarktis zum Einsatz.",
+        "Die Werft ist ein zentraler Pfeiler der industriellen Identität von Tulcea.",
+        "Investitionen in digitale Fertigungsplanung sichern die Wettbewerbsfähigkeit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -551,6 +1167,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Situată direct la malul mării.", "Produce combustibili Euro 5."],
       en: ["Located directly on the seashore.", "Produces Euro 5 fuels."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Die Raffinerie Petromidia in Năvodari, direkt an der Schwarzmeerküste gelegen, ist die größte und modernste Erdölraffinerie Rumäniens. Als Flaggschiff der KMG International Gruppe (Rompetrol) spielt sie eine strategische Rolle für die Energieversorgung im gesamten Schwarzmeerraum. Durch ihren direkten Zugang zum Hafen Midia können Rohölimporte per Tankschiff effizient entladen und die Endprodukte weltweit exportiert werden. Petromidia wurde in den letzten Jahren mit Milliardeninvestitionen modernisiert, um eine maximale Ausbeute an hochwertigen Euro-5-Kraftstoffen zu erreichen. Die Raffinerie ist ein hocheffizienter Komplex, der auch über bedeutende petrochemische Anlagen verfügt. Die Kombination aus maritimer Logistik, modernster Verfahrenstechnik und strategischer Lage macht Petromidia zu einem der wertvollsten Industrie-Assets Südosteuropas und einem zentralen Stabilitätsfaktor für den rumänischen Energiemarkt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Petromidia ist die einzige Raffinerie Rumäniens mit eigenem Seehafen-Zugang.",
+        "Der Standort ist der größte Produzent von Kraftstoffen im Land.",
+        "Petromidia verfügt über eine der höchsten Komplexitätsraten (Nelson-Index) in der Region.",
+        "Hier werden jährlich über 5 Millionen Tonnen Rohstoffe verarbeitet.",
+        "Die Raffinerie ist Teil der KMG International (KazMunayGas) Gruppe.",
+        "Umfangreiche Umweltinvestitionen haben den ökologischen Fußabdruck reduziert.",
+        "Der Standort umfasst die einzige funktionierende Petrochemie-Abteilung in RO.",
+        "Petromidia ist ein entscheidender Devisenbringer durch umfangreiche Exporte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-policolor-b-extra",
@@ -569,6 +1207,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Jól ismert márka Romániában.", "Innovációs központ a bevonatok számára."],
       ro: ["Marcă bine cunoscută în România.", "Centru de inovare pentru vopsele."],
       en: ["Well-known brand in Romania.", "Innovation center for coatings."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Policolor Bukarest ist eine Ikone der rumänischen Chemieindustrie und seit über 50 Jahren der führende Name für Lacke und Farben im Land. Das Unternehmen hat die Entwicklung moderner Beschichtungslösungen in Rumänien maßgeblich geprägt, von Automobillacken über Industriebeschichtungen bis hin zu dekorativen Farben für den Heimwerkersektor. Mit einem starken Fokus auf Forschung und Entwicklung betreibt Policolor in der Hauptstadt ein Innovationszentrum, das kontinuierlich an umweltfreundlichen und langlebigen Rezepturen arbeitet. Trotz des wachsenden Wettbewerbs durch internationale Konzerne behauptet sich Policolor durch lokale Marktanpassung und eine traditionsreiche Markenloyalität. Die Verlagerung der Produktion in neue, modernere Anlagen unterstreicht das Engagement des Unternehmens für eine effiziente und nachhaltige Zukunft am Standort Bukarest, während es gleichzeitig seine Präsenz in der gesamten Balkanregion ausbaut.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Policolor wurde 1965 gegründet und ist eine der bekanntesten Marken Rumäniens.",
+        "Das Unternehmen ist Marktführer in vielen Segmenten des Farb- und Lackmarktes.",
+        "Policolor betreibt ein eigenes Forschungszentrum für chemische Formeln.",
+        "Die Produktpalette umfasst Lösungen für Architektur, Industrie und Automotive.",
+        "Das Unternehmen verfügt über ein weitreichendes Vertriebsnetz in ganz Südosteuropa.",
+        "Policolor investiert massiv in wasserbasierte und ökologische Farbsysteme.",
+        "Der Standort Bukarest ist das logistische Zentrum der gesamten Gruppe.",
+        "Die Marke Spor, ein Policolor-Produkt, ist ein Synonym für Wandfarben in RO."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -589,6 +1249,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Exportă în numeroase țări.", "Produce produse fără fum."],
       en: ["Exports to many countries.", "Produces smoke-free products."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Werk von Philip Morris in Otopeni, nördlich von Bukarest, hat sich in den letzten Jahren von einer traditionellen Zigarettenfabrik zu einem der weltweit modernsten Standorte für die Produktion von rauchfreien Tabakprodukten gewandelt. Nach massiven Investitionen von über einer halben Milliarde Euro fertigt das Werk heute innovative Heets-Produkte für das IQOS-System, die in zahlreiche Märkte weltweit exportiert werden. Otopeni spielt damit eine Schlüsselrolle in der globalen Vision des Konzerns für eine rauchfreie Zukunft. Die Anlage zeichnet sich durch extrem hohe Standards in der Digitalisierung, Robotik und Qualitätskontrolle aus. Als einer der größten Steuerzahler und Exporteure des Landes ist Philip Morris in Otopeni ein unverzichtbarer Wirtschaftsfaktor für Rumänien. Die Transformation des Standorts ist ein Paradebeispiel für den erfolgreichen industriellen Wandel hin zu technologisch anspruchsvollen und zukunftsorientierten Konsumgütern.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Otopeni ist einer der wenigen Standorte weltweit, die rauchfreie Produkte herstellen.",
+        "Philip Morris hat den Standort mit über 500 Millionen Euro modernisiert.",
+        "Das Werk exportiert fast 90 % seiner Produktion in über 50 Länder.",
+        "Die Fabrik arbeitet mit modernster Automatisierungstechnik und KI-Systemen.",
+        "Otopeni ist ein zertifizierter Top-Arbeitgeber in Rumänien.",
+        "Das Werk erfüllt höchste Standards bei der Wasser- und Energieeffizienz.",
+        "PMI Otopeni ist einer der bedeutendsten Beitragszahler zum rumänischen Staatshaushalt.",
+        "Die Produktion wird kontinuierlich um neue innovative Tabak-Technologien erweitert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-arctic-gaesti-extra",
@@ -607,6 +1289,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Arçelik-csoport része.", "Évente több millió készülék."],
       ro: ["Face parte din grupul Arçelik.", "Milioane de unități pe an."],
       en: ["Part of the Arçelik Group.", "Millions of units per year."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Arctic Găești ist ein wahrer Riese der europäischen Hausgeräteindustrie und das größte Werk für Kühlgeräte auf dem gesamten Kontinent. Seit der Übernahme durch die türkische Arçelik-Gruppe hat sich Arctic zu einem globalen Export-Champion entwickelt, dessen Produkte (unter den Marken Arctic und Beko) in Millionen Haushalten weltweit zu finden sind. Das Werk in Găești zeichnet sich durch eine beeindruckende Skalierbarkeit und hocheffiziente Produktionslinien aus. In Ergänzung zum Standort in Ulmi, wo modernste Waschmaschinen gefertigt werden, bildet Găești das Herzstück eines industriellen Clusters im Kreis Dâmbovița. Arctic ist ein Symbol für die Fähigkeit Rumäniens, in der globalen Massenfertigung von langlebigen Konsumgütern wettbewerbsfähig zu bleiben, und setzt dabei verstärkt auf grüne Logistik und energieeffiziente Produkttechnologien.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Arctic Găești ist die größte Kühlschrankfabrik in Kontinentaleuropa.",
+        "Über 80 % der in Găești produzierten Geräte werden weltweit exportiert.",
+        "Das Unternehmen gehört zur global agierenden Arçelik-Gruppe.",
+        "Arctic ist eine der traditionsreichsten und vertrauenswürdigsten Marken Rumäniens.",
+        "In Găești werden jährlich mehrere Millionen Kühlgeräte gefertigt.",
+        "Das Werk ist ein Vorreiter für Industrie 4.0 Anwendungen in Rumänien.",
+        "Arctic leistet einen massiven Beitrag zum BIP des Kreises Dâmbovița.",
+        "Das Unternehmen setzt auf kreislauforientierte Produktion und Recycling."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -627,6 +1331,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Investiție japoneză (JTEKT).", "Importantă pentru export."],
       en: ["Japanese investment (JTEKT).", "Key for exports."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Koyo Romania in Alexandria ist ein spezialisiertes Werk für die Produktion von hochwertigen Wälzlagerlösungen und Teil des japanischen JTEKT-Konzerns. Die Fabrik in der Region Teleorman hat sich einen exzellenten Ruf für die Fertigung von Präzisionslagern erarbeitet, die in der Automobilindustrie, im Maschinenbau und in der Landwirtschaft weltweit zum Einsatz kommen. Durch die Integration japanischer Managementprinzipien (Kaizen) und modernster Fertigungstechnologien hat Koyo den Standort Alexandria zu einem hocheffizienten Produktionszentrum ausgebaut. Das Werk ist ein wichtiger Brückenkopf für JTEKT in Europa und liefert Komponenten an namhafte Fahrzeughersteller. Für die Stadt Alexandria ist Koyo der bedeutendste industrielle Arbeitgeber und ein Motor für technisches Know-how in einer ansonsten stark landwirtschaftlich geprägten Region.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Koyo Alexandria gehört zum japanischen JTEKT-Konzern.",
+        "Das Werk ist auf die Produktion von Kegelrollenlagern spezialisiert.",
+        "Die japanische Arbeitsphilosophie Kaizen wird konsequent umgesetzt.",
+        "Koyo beliefert globale Automobilgiganten wie Toyota, Renault und Volkswagen.",
+        "Der Standort ist der größte industrielle Arbeitgeber im Kreis Teleorman.",
+        "Die Produkte aus Alexandria werden in alle Welt exportiert.",
+        "Regelmäßige Investitionen fließen in die Automatisierung der Fertigungslinien.",
+        "Das Werk verfügt über ein eigenes Labor für Materialprüfung und Präzisionsmessung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-shipyard-gr-extra",
@@ -645,6 +1371,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Bárkákat és uszályokat épít.", "Stratégiai elhelyezkedés a határon."],
       ro: ["Construiește barje și pontoane.", "Poziție strategică la frontieră."],
       en: ["Builds barges and pontoons.", "Strategic border location."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Die Werft in Giurgiu (Șantierul Naval Giurgiu) ist ein traditionsreicher Standort für den Bau und die Reparatur von Binnenschiffen an der unteren Donau. Durch ihre strategische Lage an der Grenze zu Bulgarien und in der Nähe von Bukarest fungiert sie als wichtiger Dienstleister für die Flussschifffahrt auf dem Rhein-Main-Donau-Korridor. Die Werft ist spezialisiert auf den Bau von Schuten, Prahmen und kleineren Schleppern sowie auf die Wartung von Passagierschiffen. Giurgiu verfügt über Slipanlagen und Werkstätten für komplexe Stahlbauarbeiten und Motoreninstandsetzungen. Trotz des Wettbewerbs durch größere Werften behauptet sich der Standort durch Flexibilität und spezialisiertes Fachwissen. Die Werft ist ein zentraler Bestandteil der maritimen Infrastruktur Rumäniens und trägt zur Aufrechterhaltung der Logistikketten auf der Donau bei.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Werft Giurgiu ist ein wichtiger Knotenpunkt für die Donauschifffahrt.",
+        "Sie ist spezialisiert auf die Wartung und den Bau von Flussfahrzeugen.",
+        "Der Standort verfügt über eine lange Tradition im Stahlbau.",
+        "Die Nähe zur Hauptstadt Bukarest bietet logistische Vorteile.",
+        "Hier werden spezialisierte Binnenschiffe für den europäischen Markt gefertigt.",
+        "Die Werft bietet umfangreiche Reparaturdienstleistungen für Havariefälle.",
+        "Giurgiu ist ein strategischer Hafenstandort an der Grenze zu Bulgarien.",
+        "Die Werft trägt zur Bewahrung des schiffbaulichen Wissens in der Region bei."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -665,6 +1413,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Utilizează cuptor cu arc electric.", "Acces direct la Dunăre."],
       en: ["Uses electric arc furnace.", "Direct access to the Danube."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "TenarisDonasid in Călărași ist ein spezialisiertes Stahlwerk, das innerhalb der globalen Tenaris-Gruppe eine Schlüsselrolle bei der Versorgung mit Vormaterial für die Rohrproduktion spielt. In Călărași wird in einem modernen Elektrolichtbogenofen hochwertiger Stahl aus recyceltem Schrott erschmolzen und zu Rundstahl (Knüppeln) vergossen. Diese Knüppel dienen als Basis für die nahtlosen Rohre, die im Tenaris-Werk in Zalău endgefertigt werden. Der Standort zeichnet sich durch einen hohen Grad an Ressourceneffizienz und ein ausgeklügeltes Recycling-Management aus. Durch den direkten Zugang zur Donau verfügt das Werk über exzellente logistische Möglichkeiten für den Transport von Schrott und Fertigprodukten. TenarisDonasid ist ein bedeutender Wirtschaftsfaktor im Südosten Rumäniens und setzt hohe Maßstäbe für eine umweltfreundlichere Stahlproduktion durch Dekarbonisierung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "TenarisDonasid nutzt einen Elektrolichtbogenofen zur Stahlerzeugung.",
+        "Der Standort ist spezialisiert auf Rundstahl für die nahtlose Rohrherstellung.",
+        "Das Werk ist ein zentraler Bestandteil der Kreislaufwirtschaft durch Stahlschrott-Recycling.",
+        "Tenaris investiert massiv in die Verringerung der CO2-Intensität in Călărași.",
+        "Der direkte Donauzugang ermöglicht kosteneffiziente Logistiklösungen.",
+        "Das Werk liefert das Vormaterial für das Tenaris-Werk in Zalău.",
+        "TenarisDonasid ist einer der größten Arbeitgeber im Kreis Călărași.",
+        "Strenge Sicherheits- und Umweltstandards prägen den gesamten Betrieb."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-combinat-slobozia-extra",
@@ -683,6 +1453,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Támogatja a helyi mezőgazdaságot.", "Ammóniát gyárt."],
       ro: ["Susține agricultura locală.", "Produce amoniac."],
       en: ["Supports local agriculture.", "Produces ammonia."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Der Chemiekombinat in Slobozia (Chemgas) ist ein bedeutender Produzent von Stickstoffdüngemitteln und ein zentraler Akteur in der Agrarwirtschaft der Bărăgan-Steppe, Rumäniens wichtigster Kornkammer. Die Anlage stellt Ammoniak, Harnstoff und Ammoniumnitrat her, die für die Steigerung der landwirtschaftlichen Erträge in der Region unerlässlich sind. Der Standort profitiert von seiner Nähe zu den großen Anbaugebieten, was die Logistikkosten für die lokalen Landwirte reduziert. Trotz der Herausforderungen durch schwankende Energiepreise bleibt das Werk in Slobozia ein strategischer Pfeiler für die regionale Industrieentwicklung. Die Integration des Kombinats in die lokale Wirtschaft sichert zahlreiche Arbeitsplätze und fördert verwandte Dienstleistungsbranchen im Kreis Ialomița. Kontinuierliche Bemühungen um technologische Anpassungen zielen darauf ab, die Produktion effizienter und wettbewerbsfähiger zu gestalten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Kombinat Slobozia ist ein Schlüsselproduzent für Stickstoffdünger.",
+        "Die Anlage liegt strategisch günstig im Herzen der Bărăgan-Getreideregion.",
+        "Hauptprodukte sind Ammoniak, Harnstoff und verschiedene Nitrate.",
+        "Das Werk ist ein wichtiger Abnehmer für den Energiesektor.",
+        "Slobozia verfügt über eine starke industrielle Tradition in der Chemie.",
+        "Das Unternehmen sichert die Düngemittelversorgung für Südostrumänien.",
+        "Es werden kontinuierlich Maßnahmen zur Verbesserung der Energieeffizienz geprüft.",
+        "Das Kombinat ist einer der bedeutendsten Arbeitgeber in der Stadt Slobozia."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -703,6 +1495,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Produce mărci de bere celebre.", "Standarde ecologice ridicate."],
       en: ["Produces famous beer brands.", "High environmental standards."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Die Ursus Brauerei in Buzău ist eine der modernsten und größten Produktionsstätten für Bier in Rumänien. Als Teil der Ursus Breweries Gruppe (gehörend zu Asahi Europe & International) werden hier bekannte Marken wie Ursus, Timișoreana und Ciucaș in riesigen Mengen gebraut. Das Werk in Buzău hat in den letzten Jahren massive Investitionen in hochmoderne Abfüllanlagen, Filtrationstechnik und nachhaltige Brauprozesse erhalten. Die Brauerei zeichnet sich durch ein vorbildliches Umweltmanagement aus, das auf die Reduzierung von Wasserverbrauch und CO2-Emissionen abzielt. Durch ihre zentrale Lage ist die Brauerei Buzău ein wichtiger Logistikknotenpunkt für den Vertrieb von Getränken im ganzen Land. Das Traditionsbewusstsein der Marke Ursus gepaart mit japanischer Prozessdisziplin macht den Standort zu einem Vorreiter in der rumänischen Lebensmittel- und Getränkeindustrie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Ursus Buzău gehört zur größten Brauereigruppe Rumäniens.",
+        "Hier werden die beliebtesten Biermarken des Landes produziert.",
+        "Die Brauerei ist ein Vorreiter bei der Nutzung erneuerbarer Energien im Betrieb.",
+        "Moderne Abfülllinien in Buzău können tausende Flaschen pro Stunde verarbeiten.",
+        "Der Standort ist Teil des globalen Asahi-Netzwerks.",
+        "Ursus Breweries ist ein mehrfach ausgezeichneter Top-Arbeitgeber.",
+        "Die Brauerei fördert verantwortungsvollen Alkoholkonsum durch lokale Kampagnen.",
+        "In Buzău werden auch alkoholfreie Biere mit modernsten Verfahren hergestellt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-pandora-vn-extra",
@@ -721,6 +1535,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Kiváló minőségű textilgyártás.", "Modern géppark."],
       ro: ["Producție textilă de calitate.", "Parc de utilaje modern."],
       en: ["High-quality textile production.", "Modern machinery."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Pandora Prod in Focșani ist ein herausragendes Beispiel für die Leistungsfähigkeit der rumänischen Textilindustrie im High-End-Segment. Das Unternehmen hat sich auf die Herstellung von hochwertiger Damen- und Herrenbekleidung für internationale Luxusmarken spezialisiert. In den modernen Ateliers von Focșani verbinden sich handwerkliches Können und modernste CAD/CAM-Technologien zu Produkten höchster Güte. Pandora Prod gilt als einer der innovativsten Textilhersteller des Landes und investiert kontinuierlich in Forschung, Design und nachhaltige Produktionsmethoden. Die Region Vrancea ist traditionell ein Zentrum der Bekleidungsindustrie, und Pandora führt dieses Erbe durch Kooperationen mit globalen Designern in die Zukunft. Das Unternehmen ist ein wichtiger Exporteur und trägt maßgeblich zum Ruf Rumäniens als Standort für exzellente Modefertigung in Europa bei.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Pandora Prod fertigt für weltweit führende Luxus-Modemarken.",
+        "Das Unternehmen ist bekannt für seine hohe technische Expertise in der Schneiderei.",
+        "In Focșani werden modernste 3D-Designprogramme für die Kollektionsentwicklung genutzt.",
+        "Pandora Prod ist ein wichtiger Arbeitgeber für Fachkräfte im Kreis Vrancea.",
+        "Das Unternehmen setzt auf faire Arbeitsbedingungen und hohe Sozialstandards.",
+        "Die Exportquote von Pandora Prod liegt bei nahezu 100 %.",
+        "Nachhaltige Stoffe und ressourcenschonende Fertigung gewinnen an Bedeutung.",
+        "Focșani ist durch Pandora ein fester Name auf der europäischen Modekarte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -741,6 +1577,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Cel mai mare exportator regional.", "Accent pe chimia anorganică."],
       en: ["Largest regional exporter.", "Focus on inorganic chemistry."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Chimcomplex Borzești ist der wichtigste chemische Industriekomplex in der Region Moldau und ein strategischer Akteur in der rumänischen Wirtschaft. Nach der Übernahme von Vermögenswerten von Oltchim hat sich Chimcomplex zum größten Chemieunternehmen des Landes entwickelt. Der Standort in Borzești ist spezialisiert auf die Chlor-Alkali-Chemie, die Herstellung von Polyolen und verschiedenen anorganischen Chemikalien, die in unzähligen Industriezweigen Anwendung finden. Das Unternehmen verfolgt eine ambitionierte Wachstumsstrategie, die auf Modernisierung, Energieeffizienz und die Entwicklung grüner Chemieprodukte setzt. Als bedeutender Exporteur trägt Chimcomplex maßgeblich zur Handelsbilanz Rumäniens bei und sichert die industrielle Basis in der Region Bacău. Der Komplex ist ein Symbol für die Konsolidierung und den Wiederaufstieg der heimischen Chemieindustrie unter rumänischer Führung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Chimcomplex ist heute das größte Chemieunternehmen in Rumänien.",
+        "Der Standort Borzești blickt auf eine jahrzehntelange industrielle Geschichte zurück.",
+        "Das Unternehmen ist ein führender europäischer Produzent von Polyolen.",
+        "Chimcomplex investiert massiv in Kraft-Wärme-Kopplung zur Energieeinsparung.",
+        "Die Produkte finden Verwendung in der Pharmazie, Bauindustrie und Wasseraufbereitung.",
+        "Chimcomplex ist einer der größten Exporteure in der Region Moldau.",
+        "Das Unternehmen ist an der Bukarester Börse notiert.",
+        "Die Vision des Unternehmens umfasst die Entwicklung von Wasserstoff-Technologien."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-formens-bt-extra",
@@ -759,6 +1617,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Modern CAD-rendszereket használ.", "Exkluzív márkáknak dolgozik."],
       ro: ["Utilizează sisteme CAD moderne.", "Lucrează pentru mărci exclusive."],
       en: ["Uses modern CAD systems.", "Works for exclusive brands."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Formens in Botoșani ist ein führender europäischer Hersteller von Herrenanzügen und ein Musterbeispiel für moderne Textilfertigung 'Made in Romania'. Das Unternehmen kombiniert traditionelle Schneiderkunst mit hochmodernen, digitalisierten Produktionsabläufen. Formens produziert sowohl für seine eigene Marke als auch für exklusive internationale Luxushäuser und bietet dabei ein hohes Maß an Personalisierung (Made-to-Measure) an. Das Werk in Botoșani ist bekannt für seine Effizienz und die hohe Qualität seiner Erzeugnisse, was es zu einem der wettbewerbsfähigsten Akteure in der europäischen Bekleidungsindustrie macht. Mit tausenden Mitarbeitern ist Formens der bedeutendste private Arbeitgeber in der Region Botoșani und ein wichtiger Motor für die lokale Wirtschaftsentwicklung, der beweist, dass Textilproduktion in Europa durch Innovation und Qualität eine glänzende Zukunft hat.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Formens ist einer der größten Hersteller von Herrenanzügen in Europa.",
+        "Das Unternehmen ist spezialisiert auf hochwertige Made-to-Measure-Lösungen.",
+        "In Botoșani werden jährlich hunderttausende Anzüge gefertigt.",
+        "Formens nutzt modernste CAD-Systeme und automatisierte Zuschneidemaschinen.",
+        "Das Unternehmen beliefert Luxusboutiquen in ganz Westeuropa.",
+        "Formens ist der wichtigste private Arbeitgeber im Kreis Botoșani.",
+        "Das Unternehmen setzt auf eine nachhaltige Wertschöpfungskette.",
+        "Botoșani hat sich durch Formens als Zentrum für Herrenmode etabliert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -779,6 +1659,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Parte dintr-un grup internațional.", "Standarde farmaceutice."],
       en: ["Part of an international group.", "Pharmaceutical standards."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Walmark in Sankt Georgen (Sfântu Gheorghe) ist ein bedeutendes Produktionszentrum für Nahrungsergänzungsmittel und Gesundheitsprodukte in Rumänien. Als Teil der internationalen STADA-Gruppe profitiert der Standort von globalem Know-how und strengsten pharmazeutischen Qualitätsstandards. In dem modernen Werk werden Vitamine, Mineralstoffe und spezialisierte Gesundheitsprodukte hergestellt, die sowohl auf dem rumänischen Markt als auch international vertrieben werden. Walmark hat sich einen Namen für vertrauenswürdige und wissenschaftlich fundierte Produkte gemacht. Der Standort in der Region Covasna ist ein wichtiger Arbeitgeber für Fachkräfte aus der Pharmazie und Chemie und trägt zur Diversifizierung der lokalen Industrie bei. Durch kontinuierliche Investitionen in neue Produktionslinien und die Einhaltung höchster GMP-Standards festigt Walmark seine Position als führender Anbieter im Bereich Selbstmedikation und Wellness.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Walmark Sfântu Gheorghe ist Teil der globalen STADA-Gruppe.",
+        "Das Werk produziert eine breite Palette von Vitaminen und Supplementen.",
+        "Die Produktion erfolgt nach strengen GMP (Good Manufacturing Practice) Standards.",
+        "Walmark ist eine der bekanntesten Marken für Nahrungsergänzungsmittel in RO.",
+        "Der Standort ist ein wichtiger Arbeitgeber in der Region Covasna.",
+        "Die Produkte werden in zahlreiche europäische Länder exportiert.",
+        "In Sfântu Gheorghe werden jährlich Millionen von Tabletten und Kapseln gefertigt.",
+        "Walmark fördert einen gesunden Lebensstil durch Aufklärungskampagnen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-romaqua-hr-extra",
@@ -797,6 +1699,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Többszörösen díjazott víz.", "Hagyomány 1806 óta."],
       ro: ["Apă premiată internațional.", "Tradiție din anul 1806."],
       en: ["Internationally awarded water.", "Tradition since 1806."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Die Romaqua Group in Borsec ist der unangefochtene Marktführer für Mineralwasser in Rumänien und ein Unternehmen mit tiefer Verwurzelung in der Geschichte Siebenbürgens. Die Quelle in Borsec ist weltberühmt und wird seit über 200 Jahren für ihre außergewöhnliche Reinheit und ihren Mineralgehalt geschätzt. Romaqua hat massiv in hochmoderne Abfüllanlagen investiert, die den Standort Borsec zu einem der leistungsfähigsten in ganz Europa machen. Neben Mineralwasser produziert die Gruppe auch Erfrischungsgetränke und Bier an verschiedenen Standorten. Das Engagement für den Schutz der natürlichen Quellen und die nachhaltige Bewirtschaftung der Wasserressourcen im Kreis Harghita ist ein zentraler Bestandteil der Unternehmensphilosophie. Borsec-Wasser ist nicht nur ein Konsumgut, sondern ein nationales Symbol, das Rumänien auf internationalen Messen und Märkten als Land mit reinsten Naturschätzen repräsentiert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Borsec ist eine der ältesten und renommiertesten Mineralwassermarken Europas.",
+        "Die industrielle Abfüllung in Borsec begann bereits im Jahr 1806.",
+        "Romaqua Group ist das größte rumänische Unternehmen in der Getränkeindustrie.",
+        "Das Wasser aus Borsec hat zahlreiche internationale Auszeichnungen erhalten.",
+        "Der Standort verfügt über hochmoderne, vollautomatisierte Abfülllinien.",
+        "Romaqua ist der wichtigste Arbeitgeber in der Bergregion des Kreises Harghita.",
+        "Nachhaltigkeit und Quellschutz haben oberste Priorität im Betrieb.",
+        "Borsec wird oft als die 'Königin der Mineralwässer' bezeichnet."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -817,6 +1741,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Construiește tancuri de gaz și chimice.", "Poziție strategică la Porțile de Fier."],
       en: ["Builds gas and chemical tankers.", "Strategic location at Iron Gates."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Severnav in Turnu Severin ist eine traditionsreiche Werft an der Donau, die auf den Bau von hochspezialisierten Schiffen für die Binnenschifffahrt und den küstennahen Seeverkehr spezialisiert ist. Mit einer strategisch günstigen Lage direkt am Ausgang des Eisernen Tores fertigt die Werft Gastanker, Chemieschiffe und Binnenschiffe für anspruchsvolle europäische Kunden, insbesondere aus den Niederlanden und Deutschland. Severnav verfügt über eine beeindruckende Infrastruktur für den Stahlbau und die Endausrüstung komplexer maritimer Einheiten. Trotz der wechselhaften Geschichte des Schiffbaus hat sich Severnav durch Qualität und die Fähigkeit zur Konstruktion von Spezialschiffen am Markt behauptet. Die Werft ist das industrielle Herz von Drobeta Turnu Severin und bewahrt ein wertvolles technisches Erbe, während sie gleichzeitig moderne Standards in der Schiffbautechnik anwendet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Severnav ist spezialisiert auf den Bau von Tankern für Flüssiggas und Chemikalien.",
+        "Die Werft hat eine lange Geschichte, die bis ins Jahr 1852 zurückreicht.",
+        "Der Standort liegt strategisch günstig an der Donau in der Nähe von Serbien.",
+        "Severnav exportiert fast alle seine Schiffe an westeuropäische Eigner.",
+        "Das Unternehmen verfügt über Kapazitäten für Schiffe bis zu 110 Metern Länge.",
+        "In Turnu Severin werden komplexe Rumpfkonstruktionen und Endausrüstungen durchgeführt.",
+        "Die Werft ist ein bedeutender Wirtschaftsfaktor im Kreis Mehedinți.",
+        "Severnav setzt auf zertifizierte Schweißprozesse nach höchsten Marine-Standards."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-alro-ot-extra",
@@ -835,6 +1781,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Világszerte exportál.", "Jelentős elektromos energiát fogyaszt."],
       ro: ["Exportă în întreaga lume.", "Consumă multă energie electrică."],
       en: ["Exports worldwide.", "Significant consumer of electricity."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Alro Slatina ist der größte Aluminiumproduzent in Mittel- und Osteuropa und ein industrielles Schwergewicht in der rumänischen Wirtschaft. Der Komplex in Slatina umfasst eine Elektrolyseanlage zur Gewinnung von Primäraluminium sowie umfangreiche Gießerei- und Walzkapazitäten für veredelte Produkte wie Platten, Bleche und Profile. Alro beliefert anspruchsvolle Sektoren wie die Luft- und Raumfahrt sowie die Automobilindustrie und ist einer der größten Exporteure des Landes. Aufgrund des enormen Strombedarfs der Aluminiumelektrolyse ist Alro ein strategischer Partner im rumänischen Energiesektor. Das Unternehmen investiert massiv in Energieeffizienz und die Steigerung des Anteils an recyceltem Aluminium, um wettbewerbsfähig zu bleiben und seinen ökologischen Fußabdruck zu reduzieren. Alro ist der wichtigste Arbeitgeber in der Region Olt und ein Symbol für die industrielle Stärke Rumäniens in der Metallurgie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Alro Slatina ist das einzige Unternehmen in Rumänien, das Primäraluminium herstellt.",
+        "Das Werk ist einer der größten vertikal integrierten Aluminiumproduzenten Europas.",
+        "Alro ist ein zertifizierter Lieferant für die internationale Luftfahrtindustrie.",
+        "Die Fabrik ist der größte Stromverbraucher im rumänischen Netz.",
+        "Das Unternehmen exportiert seine Produkte in über 50 Länder weltweit.",
+        "Alro investiert in eine eigene Photovoltaik-Anlage zur Eigenversorgung.",
+        "Der Standort in Slatina sichert Tausende von qualifizierten Arbeitsplätzen.",
+        "Alro betreibt eine eigene Forschungs- und Entwicklungsabteilung für Legierungen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -855,6 +1823,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Crucială pentru stabilitatea rețelei.", "Operată de OMV Petrom."],
       en: ["Crucial for grid stability.", "Operated by OMV Petrom."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Brazi, betrieben von OMV Petrom, ist das modernste und effizienteste Gaskraftwerk Rumäniens. Mit seiner hochmodernen Gas- und Dampfturbinen-Technologie (Combined Cycle) erreicht die Anlage einen Wirkungsgrad, der weit über dem der alten Kohlekraftwerke liegt. Gelegen in der Nähe der Raffinerie Petrobrazi, nutzt das Kraftwerk Erdgas zur Erzeugung von Strom, der einen bedeutenden Teil des nationalen Verbrauchs deckt. Brazi spielt eine entscheidende Rolle für die Energiewende in Rumänien, da es die notwendige Flexibilität bietet, um Schwankungen bei erneuerbaren Energien wie Wind und Sonne auszugleichen. Durch seine geringen spezifischen CO2-Emissionen ist das Kraftwerk ein wichtiger Baustein für die Dekarbonisierung des rumänischen Strommixes und ein Garant für die Versorgungssicherheit im Land.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Kraftwerk Brazi ist das größte Gaskraftwerk in Privatbesitz in Rumänien.",
+        "Es nutzt eine hocheffiziente Gas- und Dampfturbinen-Kombination.",
+        "Die installierte Leistung von 860 MW deckt bis zu 10 % des rumänischen Strombedarfs.",
+        "Brazi ist eines der flexibelsten Kraftwerke zur Stabilisierung des Netzes.",
+        "Die Anlage hat deutlich niedrigere CO2-Emissionen als herkömmliche Kraftwerke.",
+        "Der Bau der Anlage war eine der größten Einzelinvestitionen im rumänischen Energiesektor.",
+        "Das Kraftwerk ist strategisch günstig im industriellen Herz von Prahova gelegen.",
+        "Regelmäßige Wartungszyklen sichern eine maximale Verfügbarkeit der Blöcke."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-ploiesti-west-park-extra",
@@ -873,6 +1863,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Kiváló közlekedési kapcsolatok.", "Románia egyik legnagyobb parkja."],
       ro: ["Acces facil la transport.", "Unul dintre cele mai mari din RO."],
       en: ["Excellent transport links.", "One of the largest in RO."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Ploiești West Park ist der größte und dynamischste Industriepark im Südosten Europas und ein Magnet für internationale Konzerne. Strategisch günstig an der Kreuzung wichtiger Autobahnen und in unmittelbarer Nähe zur Hauptstadt Bukarest gelegen, bietet der Park eine erstklassige Infrastruktur für Logistik, Fertigung und Shared Services. Unternehmen wie Unilever, Lufkin und General Electric haben hier bedeutende Produktions- und Vertriebszentren errichtet. Der Park zeichnet sich durch moderne Hallenkonzepte, eine exzellente Energieversorgung und umfassende Sicherheitsdienste aus. Ploiești West Park ist ein Motor für den wirtschaftlichen Boom in der Region Prahova und hat tausende Arbeitsplätze geschaffen. Seine Rolle als zentraler Logistik-Hub für den gesamten Balkanraum macht ihn zu einem entscheidenden Faktor für die Integration Rumäniens in die globalen Warenströme.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Ploiești West Park umfasst eine Fläche von über 300 Hektar.",
+        "Es ist der bedeutendste Standort für multinationale Konzerne in Rumänien.",
+        "Der Park bietet einen eigenen Bahnanschluss für schwere Logistiktransporte.",
+        "Die Lage an der Autobahn A3 sichert eine schnelle Anbindung an den Flughafen.",
+        "Im Park sind führende Unternehmen aus den Bereichen Öl, Gas und FMCG ansässig.",
+        "Es werden kontinuierlich neue Lager- und Produktionsflächen nach LEED-Standards gebaut.",
+        "Der Park verfügt über ein eigenes Umspannwerk für maximale Energiezuverlässigkeit.",
+        "Tausende von Fachkräften aus Ploiești und Umgebung arbeiten in dem Areal."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -893,6 +1905,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Mii de locuri de muncă calificate.", "Accent pe automatizări industriale."],
       en: ["Thousands of highly skilled jobs.", "Focus on industrial automation."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Emerson-Campus in Klausenburg (Cluj-Napoca) ist ein herausragendes Zentrum für Ingenieurwesen, Hochtechnologie und Shared Services innerhalb des globalen Emerson-Konzerns. In den modernen Gebäuden im Industriepark Tetarom II arbeiten tausende hochqualifizierte Fachkräfte an Lösungen für die Prozessautomatisierung, Klimatechnik und industrielle Digitalisierung. Der Standort Cluj hat sich zu einem der wichtigsten strategischen Knotenpunkte für Emerson in Europa entwickelt, da er talentierte Absolventen der lokalen Universitäten anzieht. Neben hochkomplexen Ingenieursdienstleistungen beherbergt der Campus auch spezialisierte Fertigungslinien für Präzisionsgeräte. Emerson Cluj ist ein Paradebeispiel für den Wandel von Klausenburg zu einem Technologie-Hub und trägt maßgeblich zur Entwicklung der Innovationskraft in Siebenbürgen bei. Die Kombination aus technischer Expertise und exzellenten Dienstleistungen macht Emerson zu einem der attraktivsten Arbeitgeber der Region.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Emerson Cluj ist einer der größten Arbeitgeber im Bereich Hochtechnologie in RO.",
+        "Der Campus beherbergt ein globales Zentrum für Projektmanagement und Engineering.",
+        "Cluj ist ein wichtiger Standort für die Entwicklung von Automatisierungssoftware.",
+        "Das Unternehmen arbeitet eng mit der Technischen Universität Cluj-Napoca zusammen.",
+        "In den Werkhallen werden spezialisierte Ventile und Steuerungssysteme gefertigt.",
+        "Emerson fördert intensiv die Ausbildung junger Talente durch Praktika.",
+        "Der Standort ist ein Vorreiter für digitale Transformation in der Industrie.",
+        "Cluj fungiert als zentrales Hub für Shared Services für den gesamten EMEA-Raum."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-flextronics-tm-extra",
@@ -911,6 +1945,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Orvosi és autóipari eszközöket gyárt.", "Hatalmas tisztaterek."],
       ro: ["Produce echipamente medicale și auto.", "Săli curate de mari dimensiuni."],
       en: ["Builds medical and automotive devices.", "Large cleanroom facilities."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Flex (ehemals Flextronics) in Temeswar ist ein weltweit führender Standort für Electronic Manufacturing Services (EMS) und ein wichtiger Partner für Unternehmen aus der Medizin- und Automobiltechnik. Das Werk in der Banater Metropole zeichnet sich durch hocheffiziente Produktionslinien, modernste Reinräume und ein komplexes Supply Chain Management aus. Hier werden elektronische Baugruppen und komplette Endgeräte für globale Märkte gefertigt, wobei Flex seine Expertise in der schnellen Industrialisierung neuer Produkte einbringt. Der Standort Temeswar profitiert von der exzellenten logistischen Anbindung an Westeuropa und der Verfügbarkeit hochqualifizierter Techniker in der Region. Flex ist ein entscheidender Treiber für den technologischen Fortschritt in Temeswar und setzt Maßstäbe für Flexibilität und Qualität in der elektronischen Auftragsfertigung, während es gleichzeitig tausende von Arbeitsplätzen in einem hochdynamischen Umfeld sichert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Flex Temeswar ist einer der größten EMS-Anbieter in Südosteuropa.",
+        "Das Werk ist auf komplexe Elektronik für die Medizintechnik spezialisiert.",
+        "In Temeswar werden modernste Reinräume nach ISO-Standards betrieben.",
+        "Das Unternehmen fertigt auch Baugruppen für vernetzte Fahrzeuge.",
+        "Flex ist ein wichtiger Partner für globale Marken bei der Markteinführung neuer Gadgets.",
+        "Der Standort ist ein bedeutender Arbeitgeber im Westen Rumäniens.",
+        "Temeswar bietet Flex eine erstklassige Anbindung an den europäischen Markt.",
+        "Regelmäßige Investitionen fließen in KI-gestützte Fertigungsüberwachung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -931,6 +1987,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Sediul multor IMM-uri.", "Poziție logistică excelentă."],
       en: ["Hosts many SMEs.", "Excellent logistical location."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Industriepark Metav im Norden von Bukarest ist ein moderner Gewerbestandort, der sich auf die Ansiedlung von Unternehmen aus der Leichtindustrie, Logistik und Technologie spezialisiert hat. Gelegen in unmittelbarer Nähe zum Flughafen Băneasa und den wichtigsten Verkehrsknotenpunkten der Hauptstadt, bietet der Park eine ideale Infrastruktur für Firmen, die einen urbanen Standort mit exzellenter Anbindung suchen. Metav hat sich von einem ehemaligen Industriebetrieb zu einem vielseitigen Business-Areal entwickelt, das sowohl moderne Büroflächen als auch spezialisierte Lagerhallen bietet. Der Park ist die Heimat vieler kleiner und mittelständischer Unternehmen sowie Repräsentanzen internationaler Firmen. Durch die kontinuierliche Modernisierung der Gebäude und die Bereitstellung umfassender Dienstleistungen ist der Industriepark Metav ein wichtiger Baustein für das wirtschaftliche Ökosystem Bukarests und ein gefragter Standort für innovative Dienstleister.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Industriepark Metav liegt in einer der begehrtesten Lagen von Bukarest.",
+        "Er beherbergt eine Vielzahl von Firmen aus den Bereichen Logistik und IT.",
+        "Der Standort bietet eine erstklassige Anbindung an den internationalen Flughafen.",
+        "Das Areal verfügt über eine moderne Energie- und Telekommunikationsinfrastruktur.",
+        "Metav bietet flexible Flächen für Produktion und Verwaltung an.",
+        "Der Park ist ein Musterbeispiel für die Umnutzung ehemaliger Industriegebiete.",
+        "Sicherheitsdienste und Facility Management sind zentral organisiert.",
+        "Das Gebiet ist ein wichtiger Wirtschaftsfaktor für den Norden der Hauptstadt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "industry-aramis-mm-extra",
@@ -949,6 +2027,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Világszerte szállít az IKEA-nak.", "Modern géppark."],
       ro: ["Furnizează global pentru IKEA.", "Parc de utilaje modern."],
       en: ["Supplies IKEA worldwide.", "Modern machinery."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Die Aramis-Gruppe in Frauenbach (Baia Mare) ist der größte Möbelhersteller Rumäniens und ein globaler Schlüsselpartner für IKEA. Das Unternehmen hat sich auf die Massenfertigung von Polstermöbeln, Matratzen und Schaumstoffprodukten spezialisiert. Mit seinen gigantischen Werkhallen in der Maramureș ist Aramis ein Paradebeispiel für industrielle Skalierbarkeit und Effizienz. Durch den Einsatz modernster Schaumstofftechnologien und automatisierter Zuschnittlinien fertigt das Unternehmen jährlich Millionen von Einheiten für den Weltmarkt. Aramis ist fest in der Region Baia Mare verwurzelt und sichert tausende Arbeitsplätze, was es zum bedeutendsten privaten Arbeitgeber im Norden Rumäniens macht. Das Unternehmen zeichnet sich durch eine starke Exportorientierung und ein kontinuierliches Wachstum aus, wobei es gleichzeitig hohe Standards in der Materialqualität und im Umweltschutz bei der Möbelherstellung setzt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Aramis ist der größte rumänische Möbelexporteur.",
+        "Das Unternehmen ist einer der weltweit wichtigsten Zulieferer für IKEA.",
+        "In Baia Mare werden jährlich Millionen von Matratzen und Sofas produziert.",
+        "Aramis verfügt über eine eigene, hochmoderne Polyurethan-Schaumstoffproduktion.",
+        "Das Werk ist der größte private Arbeitgeber im Kreis Maramureș.",
+        "Aramis investiert massiv in Solarenergie zur Versorgung seiner Werke.",
+        "Das Unternehmen nutzt ein hocheffizientes Logistiksystem für den weltweiten Versand.",
+        "Die Gruppe hat die industrielle Renaissance von Baia Mare maßgeblich geprägt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -969,6 +2069,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Adăpostește specii exotice.", "Fondată în anul 1955."],
       en: ["Home to exotic animal species.", "Founded in 1955."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Zoo Bukarest, auch bekannt als Grădina Zoologică Băneasa, ist ein beliebtes Ausflugsziel im Norden der rumänischen Hauptstadt. Eingebettet in das weitläufige Grün des Băneasa-Waldes bietet der Zoo eine willkommene Abkühlung und Entspannung vom hektischen Treiben der Metropole. Gegründet in den 1950er Jahren, hat sich die Anlage kontinuierlich weiterentwickelt und beherbergt heute eine beeindruckende Vielfalt an Tierarten aus aller Welt. Besucher können hier majestätische Großkatzen, verspielte Primaten und eine bunte Vogelwelt bewundern. Besonders für Familien ist der Zoo ein zentraler Ort der Umweltbildung und Erholung. Die schattigen Alleen laden zu langen Spaziergängen ein, während Informationstafeln Wissen über den Artenschutz vermitteln. Trotz seiner urbanen Nähe bewahrt der Zoo eine natürliche Atmosphäre und setzt sich zunehmend für moderne Standards in der Tierhaltung und im Naturschutz ein, um seinen Besuchern ein lehrreiches und schönes Naturerlebnis zu bieten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo liegt im malerischen Waldgebiet Băneasa am nördlichen Stadtrand.",
+        "Er wurde offiziell im Jahr 1955 eröffnet und ist der größte des Landes.",
+        "Besucher können seltene Tierarten wie Sibirische Tiger und Löwen sehen.",
+        "Der Zoo Bukarest legt einen starken Fokus auf die Umweltbildung von Kindern.",
+        "Zahlreiche schattige Wege machen den Besuch auch im heißen Sommer angenehm.",
+        "Es gibt spezialisierte Abteilungen für Reptilien und exotische Vögel.",
+        "Der Zoo ist gut an das öffentliche Verkehrsnetz der Hauptstadt angebunden.",
+        "Kontinuierliche Modernisierungen verbessern stetig die Lebensbedingungen der Tiere."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "animal-habitat-libearty-zarnesti-extra",
@@ -987,6 +2109,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Fogságban tartott medvéket ment meg.", "Több mint 60 hektár erdő."],
       ro: ["Salvează urși din captivitate.", "Peste 60 de hectare de pădure."],
       en: ["Rescues bears from captivity.", "Over 60 hectares of forest."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Bärenreservat Libearty in Zărnești, nahe Brașov, ist ein weltweit einzigartiges Projekt und das größte Braunbären-Schutzzentrum der Welt. Auf einer Fläche von über 60 Hektar dichten Eichenwaldes finden hier Bären, die zuvor unter grausamen Bedingungen in Gefangenschaft lebten – etwa als 'Zirkusbären' oder Attraktionen vor Restaurants – ein würdevolles und naturnahes Zuhause. Das von der Organisation 'Millions of Friends' ins Leben gerufene Reservat ist kein klassischer Zoo, sondern ein Refugium, in dem das Wohl der Tiere an oberster Stelle steht. Besucher können die Bären in ihrer natürlichen Umgebung beobachten, während sie durch das Unterholz streifen oder in den angelegten Teichen baden. Libearty ist ein kraftvolles Symbol für den Tierschutz in Rumänien und leistet unschätzbare Aufklärungsarbeit über die Bedeutung des Respekts gegenüber wildlebenden Tieren und den Erhalt ihrer natürlichen Lebensräume in den Karpaten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Libearty beherbergt über 100 gerettete Braunbären auf einem riesigen Areal.",
+        "Das Reservat wurde zum Gedenken an die Bärin Maya gegründet.",
+        "Es ist als eines der ethischsten Tierschutzprojekte weltweit anerkannt.",
+        "Die Bären leben hier in großen, eingezäunten Waldstücken ohne Gitterstäbe.",
+        "Geführte Touren klären Besucher über die tragischen Schicksale der Tiere auf.",
+        "Das Zentrum verfügt über eine eigene Tierklinik zur Versorgung der Bären.",
+        "Libearty wird fast ausschließlich durch Spenden und Patenschaften financed.",
+        "Der Schutz von Waldgebieten ist ein zentraler Bestandteil der Mission vor Ort."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1007,6 +2151,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Are un stejar de 600 de ani.", "Fondată în anul 1929."],
       en: ["Features a 600-year-old oak tree.", "Founded in 1929."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Zoo Hermannstadt (Sibiu) ist eine der charmantesten und geschichtsträchtigsten Anlagen ihrer Arbeit in Rumänien. Eröffnet im Jahr 1929, gilt er als der älteste Tiergarten des Landes und besticht durch seine idyllische Lage im Dumbrava-Wald, direkt am Rande der Stadt. Das Besondere am Zoo Sibiu ist die harmonische Einbindung der Gehege in die natürliche Waldlandschaft und die Präsenz eines großen Sees, auf dem Besucher Bootsfahrten unternehmen können. Wahrzeichen des Parks ist eine über 600 Jahre alte Eiche, die als stummer Zeuge der Jahrhunderte über den Tieren wacht. Der Zoo beherbergt eine Vielzahl heimischer und exotischer Arten und ist ein Herzstück der lokalen Freizeitgestaltung. Durch seine Nähe zum Astra-Freilichtmuseum lässt sich ein Besuch ideal mit einem Kulturausflug verbinden, was ihn zu einem Muss für jeden Besucher der Region Siebenbürgen macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Hermannstadt eröffnete 1929 den ersten zoologischen Garten Rumäniens.",
+        "Der Park liegt mitten im Naturschutzgebiet des Dumbrava-Waldes.",
+        "Eine imposante 600-jährige Eiche steht direkt am Eingang des Zoos.",
+        "Ein großer See innerhalb der Anlage bietet Möglichkeiten zum Ruderbootfahren.",
+        "Der Zoo beherbergt seltene Tierarten wie weiße Tiger und Jaguare.",
+        "Die unmittelbare Nähe zum Astra-Museum macht den Standort touristisch attraktiv.",
+        "Es gibt weitläufige Spielbereiche und Bildungsangebote für Kinder.",
+        "Der Zoo ist bekannt für seine erfolgreichen Zuchtprogramme einiger Arten."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "animal-habitat-dolphinarium-ct-extra",
@@ -1025,6 +2191,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Delfinshow-kat kínál.", "A múzeumi komplexum része."],
       ro: ["Oferă spectacole cu delfini.", "Parte a complexului muzeal."],
       en: ["Offers dolphin shows.", "Part of the museum complex."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Das Delfinarium in Konstanza (Constanța) ist das einzige seiner Art in Rumänien und ein absoluter Besuchermagnet an der rumänischen Schwarzmeerküste. Als Teil des umfangreichen Museumskomplexes für Naturwissenschaften bietet es faszinierende Einblicke in die Welt der Meeressäuger. Die intelligenten Delfine begeistern das Publikum in regelmäßig stattfindenden Shows mit ihren akrobatischen Fähigkeiten und ihrer engen Bindung zu den Trainern. Neben der Unterhaltung legt das Delfinarium großen Wert auf Forschung und den Schutz der marinen Biodiversität des Schwarzen Meeres. Die Anlage wurde in den letzten Jahren umfassend modernisiert, um den Tieren bessere Lebensbedingungen und den Besuchern ein erstklassiges Erlebnis zu bieten. Ergänzt wird das Angebot durch ein Planetarium und ein Observatorium auf demselben Gelände, was das Delfinarium zu einem idealen Ziel für einen informativen und unterhaltsamen Tag mit der ganzen Familie am Meer macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Delfinarium Constanța wurde 1972 als erstes seiner Art in Südosteuropa eröffnet.",
+        "Es ist Teil eines großen Komplexes mit Planetarium und Mikro-Reservat.",
+        "Die Shows zeigen die beeindruckende Intelligenz der Großen Tümmler.",
+        "Das Zentrum engagiert sich aktiv für die Rettung verletzter Meerestiere.",
+        "Besucher können hier viel über das Ökosystem des Schwarzen Meeres lernen.",
+        "Die Anlage ist ganzjährig geöffnet und bietet überdachte Zuschauerplätze.",
+        "Pädagogische Programme sensibilisieren Kinder für den Schutz der Meere.",
+        "Es ist eines der meistbesuchten touristischen Ziele der Stadt Constanța."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1045,6 +2233,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Recent renovată.", "Multe zone interactive."],
       en: ["Recently renovated.", "Features many interactive areas."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Zoo Großwardein (Oradea), im westlichen Teil Rumäniens gelegen, ist eine moderne Einrichtung, die sich intensiv dem Schutz bedrohter Tierarten und der Umweltbildung widmet. Nach umfangreichen Renovierungsarbeiten bietet der Tierpark heute großzügige und naturnah gestaltete Gehege, die den modernsten Standards der Tierhaltung entsprechen. Besucher können hier eine beeindruckende Vielfalt an Tieren aus aller Welt bestaunen, darunter majestätische Raubkatzen, verspielte Primaten und seltene Vogelarten. Ein besonderer Fokus liegt auf der Erhaltung der biologischen Vielfalt und der Sensibilisierung der Öffentlichkeit für ökologische Themen. Mit seinen interaktiven Lernpfaden, Spielbereichen und schattigen Alleen ist der Zoo ein ideales Ausflugsziel für Familien und Naturfreunde, die mehr über die faszinierende Tierwelt erfahren möchten. Die harmonische Integration in die städtische Parklandschaft macht den Besuch zu einem entspannenden Erlebnis inmitten der Stadt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo wurde in den letzten Jahren komplett modernisiert.",
+        "Er beherbergt eine Vielzahl von bedrohten Tierarten.",
+        "Die Gehege sind nach ökologischen und tiergerechten Kriterien gestaltet.",
+        "Es gibt zahlreiche interaktive Stationen für Kinder und Schüler.",
+        "Der Zoo nimmt an internationalen Erhaltungsprogrammen teil.",
+        "Er ist ein zentrales Zentrum für Umweltbildung in der Region Bihor.",
+        "Die Anlage bietet barrierefreie Wege für alle Besucher.",
+        "Regelmäßige Veranstaltungen fördern das Bewusstsein für Artenschutz."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "kid-landmark-adrenalin-park-cj-extra",
@@ -1063,6 +2273,28 @@ export const poiExtraRo2: POI[] = [
       hu: ["Különböző nehézségi szintek.", "Biztonsági felszerelés biztosított."],
       ro: ["Diverse grade de dificultate.", "Echipament de siguranță inclus."],
       en: ["Various difficulty levels.", "Safety equipment included."]
+    }
+  ,
+    descriptionAdvanced: {
+      de: "Der Adrenalin Park in der Nähe von Klausenburg (Cluj-Napoca) ist der ultimative Ort für Abenteuerlustige und Familien, die eine aktive Auszeit im Freien suchen. Tief im malerischen Făget-Wald gelegen, bietet dieser Kletterpark eine beeindruckende Vielfalt an Hindernisparcours in unterschiedlichen Höhen und Schwierigkeitsgraden. Von kinderleichten Routen für die kleinsten Entdecker bis hin zu extrem herausfordernden Seilrutschen und Kletterwänden für echte Adrenalinjunkies ist für jeden etwas dabei. Die Sicherheit der Gäste steht dabei an oberster Stelle, gewährleistet durch modernste Ausrüstung und professionell geschultes Personal. Die frische Waldluft und die natürliche Umgebung machen den Park nicht nur zu einem Sportzentrum, sondern auch zu einem Ort der Erholung. Ob für Teambuilding-Events, Kindergeburtstage oder einen Wochenendausflug – der Adrenalin Park verspricht ein unvergessliches Erlebnis inmitten der siebenbürgischen Natur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Park befindet sich im geschützten Făget-Waldgebiet.",
+        "Es gibt spezielle Parcours für Kinder ab einem Alter von drei Jahren.",
+        "Die extremsten Routen führen in schwindelerregende Baumhöhen.",
+        "Alle Kletterer erhalten eine umfassende Sicherheitseinweisung vorab.",
+        "Der Park ist ein beliebtes Ziel für Firmenveranstaltungen und Teambuilding.",
+        "Seilrutschen (Ziplines) bieten spektakuläre Ausblicke über den Wald.",
+        "Die Anlage wird regelmäßig nach höchsten Sicherheitsstandards geprüft.",
+        "Ein gemütliches Café vor Ort lädt nach dem Abenteuer zum Verweilen ein."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1083,6 +2315,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Cea mai mare grădină din Ardeal.", "Destinație populară de weekend."],
       en: ["Largest zoo in Transylvania.", "Popular weekend destination."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Zoo von Neumarkt am Mieresch (Târgu Mureș) gilt als einer der schönsten und am besten geführten Tierparks in ganz Rumänien. Auf dem malerischen Plateau Cornești, auch 'Sommerberg' genannt, erstreckt sich die weitläufige Anlage, die für ihre großzügigen Gehege und den dichten Waldbestand bekannt ist. Der Zoo bietet den Tieren Lebensräume, die ihren natürlichen Bedürfnissen sehr nahe kommen, was ihn zu einem Vorbild für moderne Tierhaltung in der Region macht. Besucher können hier eine beeindruckende Sammlung exotischer und heimischer Arten bewundern, darunter Elefanten, Giraffen und Braunbären. Besonders hervorzuheben ist die ruhige Atmosphäre und die gelungene Einbettung der Infrastruktur in die natürliche Waldlandschaft. Als bedeutendes Bildungs- und Freizeitzentrum zieht der Zoo jährlich Hunderttausende Gäste an und leistet einen wichtigen Beitrag zum Verständnis der globalen Fauna und zum regionalen Tourismus in Siebenbürgen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Zoo Neumarkt ist flächenmäßig der größte Tierpark Rumäniens.",
+        "Er befindet sich auf dem idyllischen Plateau Cornești oberhalb der Stadt.",
+        "Die Anlage ist bekannt für ihre erfolgreiche Zucht seltener Tierarten.",
+        "Große Waldflächen innerhalb des Zoos bieten natürlichen Schatten.",
+        "Besucher können Elefanten und Giraffen in modernen Anlagen sehen.",
+        "Der Zoo verfügt über ein modernes Primatenhaus und große Volieren.",
+        "Es gibt zahlreiche Spielplätze und Picknickbereiche für Familien.",
+        "Der Standort ist ein zentraler Pfeiler des Naturschutzes in der Region."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "animal-habitat-ceala-extra",
@@ -1102,6 +2356,28 @@ export const poiExtraRo2: POI[] = [
       ro: ["Parte din Lunca Mureșului.", "Puncte de observare a păsărilor."],
       en: ["Part of the Mureș Floodplain.", "Features bird watching points."]
     }
+  ,
+    descriptionAdvanced: {
+      de: "Der Naturpark Ceala, direkt vor den Toren der Stadt Arad gelegen, ist ein wertvolles ökologisches Juwel und Teil des größeren Naturparks Maros-Auen (Lunca Mureșului). Dieses geschützte Gebiet umfasst dichte Auenwälder, versteckte Altarme des Flusses Mureș und weite Wiesen, die einer Vielzahl von Pflanzen und Tieren als Rückzugsort dienen. Für die Bewohner und Besucher von Arad fungiert Ceala als wichtiges Naherholungsgebiet, das zu ausgedehnten Wanderungen, Radtouren und zur Naturbeobachtung einlädt. Besonders bekannt ist der Park für seinen Reichtum an Vogelarten, die von speziellen Beobachtungstürmen aus studiert werden können. Die Stille des Waldes und die sanften Geräusche des Flusses bieten einen wohltuenden Kontrast zum städtischen Treiben. Durch gezielte Naturschutzmaßnahmen wird versucht, die biologische Vielfalt der Region zu bewahren und gleichzeitig ein Bewusstsein für die Bedeutung intakter Ökosysteme entlang der rumänischen Flüsse zu schaffen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Park ist ein integraler Bestandteil des Naturparks Maros-Auen.",
+        "Er beherbergt seltene Baumarten und typische Auenvegetation.",
+        "Über 200 Vogelarten wurden im Parkgebiet bereits nachgewiesen.",
+        "Der Mureș-Fluss prägt die Landschaft durch seine Windungen.",
+        "Es gibt gut markierte Wander- und Radwege für Naturliebhaber.",
+        "Informationszentren bieten Einblicke in die lokale Flora und Fauna.",
+        "Der Park dient als wichtige Barriere gegen städtische Luftverschmutzung.",
+        "Zahlreiche Stellen am Ufer laden zum Angeln und Entspannen ein."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "animal-habitat-tm-zoo-extra",
@@ -1120,6 +2396,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Kicsi, de szép létesítmény.", "Busszal könnyen megközelíthető."],
       ro: ["Grădină mică, dar cochetă.", "Acces ușor cu transportul public."],
       en: ["Small but charming facility.", "Easy access by public transport."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Temeswar, malerisch im Jagdwald (Pădurea Verde) am nordöstlichen Stadtrand gelegen, bietet eine entspannte Flucht aus dem urbanen Zentrum der Banater Metropole. Obwohl er flächenmäßig kleiner ist als andere rumänische Tierparks, besticht er durch seine natürliche Gestaltung und die harmonische Einbettung in das bestehende Waldgebiet. Besucher können hier eine feine Auswahl an heimischen und exotischen Tierarten bewundern, darunter majestätische Löwen, Braunbären und verspielte Primaten. Besonders für Familien mit Kindern ist der Zoo ein beliebtes Ziel, da er leicht erreichbar ist und schattige Wege für erholsame Spaziergänge bietet. In den letzten Jahren wurden die Gehege modernisiert, um den Tieren ein artgerechteres Umfeld zu bieten und das Besuchererlebnis zu verbessern. Die Kombination aus Naturerlebnis im Wald und der Nähe zur Stadt macht den Zoo zu einem festen Bestandteil der Freizeitgestaltung in Temeswar.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Befindet sich im Pădurea Verde, der 'grünen Lunge' von Temeswar.",
+        "Beherbergt eine Mischung aus europäischen Wildtieren und exotischen Gästen.",
+        "Die Anlage ist bekannt für ihre schattigen, waldreichen Spazierwege.",
+        "Der Zoo legt großen Wert auf Umweltbildung für lokale Schulklassen.",
+        "Er ist bequem mit dem öffentlichen Nahverkehr aus der Innenstadt erreichbar.",
+        "In der Nähe befinden sich das Dorfmuseum und der Rosenpark.",
+        "Das Gehege für Braunbären wurde nach modernen Standards neugestaltet.",
+        "Der Zoo ist ein idealer Ort für einen entspannten Halbtagesausflug mit Kindern."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1136,9 +2433,30 @@ export const poiExtraRo2: POI[] = [
     },
     facts: {
       de: ["Über 100 Dinosaurier-Exponate.", "Abenteuerspielplätze."],
-      hu: ["Több mint 100 dinoszaurusz kiállítva.", "Kalandjátszóterek."],
+      hu: ["Több mit 100 dinoszaurusz kiállítva.", "Kalandjátszóterek."],
       ro: ["Peste 100 de dinozauri expuși.", "Locuri de joacă cu aventuri."],
       en: ["Over 100 dinosaurs on display.", "Features adventure playgrounds."]
+    },
+    descriptionAdvanced: {
+      de: "Der Dino Parc Râșnov ist das größte Dinosaurier-Freilichtmuseum in Südosteuropa und ein absolutes Highlight für Familien in der Region Brașov. Auf einem weitläufigen Waldareal unterhalb der historischen Festung Râșnov können Besucher über 100 lebensgroße Dinosaurier-Modelle bestaunen, die nach neuesten wissenschaftlichen Erkenntnissen rekonstruiert wurden. Der Park bietet eine faszinierende Reise durch die Erdgeschichte, von den Anfängen der Dinosaurier bis zu ihrem Aussterben. Neben den beeindruckenden Exponaten verfügt der Dino Parc über zahlreiche Attraktionen wie Abenteuerspielplätze, Seilrutschen, ein 9D-Kino und interaktive Ausstellungsräume. Ein besonderes Highlight ist der Bereich mit fliegenden Dinosauriern und der riesige Seismosaurus, der mit seiner gewaltigen Größe alle Blicke auf sich zieht. Der Park verbindet geschickt Bildung mit Spaß und macht die Welt der Urzeit für Kinder und Erwachsene gleichermaßen greifbar. Die einzigartige Lage im dichten Wald verleiht dem Besuch eine zusätzliche, fast magische Atmosphäre.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Dino Parc Râșnov beherbergt über 100 lebensgroße Dinosaurier-Modelle.",
+        "Es ist das größte Dinosaurier-Freilichtmuseum in ganz Südosteuropa.",
+        "Die Exponate sind aus Glasfaserkunstharz gefertigt und sehr langlebig.",
+        "Ein 9D-Kino bietet virtuelle Reisen in die Urzeit für die Besucher.",
+        "Der Park liegt direkt am Weg zur berühmten Bauernburg von Râșnov.",
+        "Es gibt einen speziellen Bereich für den 'Transylvanosaurus', eine lokale Entdeckung.",
+        "Zahlreiche Kletterpfade und Seilrutschen sorgen für sportliche Abwechslung.",
+        "Der Park ist mehrfacher Gewinner von Preisen für die beste Familienattraktion."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1158,6 +2476,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Lombház szállások.", "Íjászat és paintball."],
       ro: ["Cazare în căsuțe în copaci.", "Tir cu arcul și paintball."],
       en: ["Treehouse accommodations.", "Archery and paintball available."]
+    },
+    descriptionAdvanced: {
+      de: "Der Edenland Park in Balotești, nur eine kurze Fahrt nördlich von Bukarest gelegen, ist einer der größten und vielseitigsten Abenteuerparks Rumäniens. Eingebettet in einen dichten Wald, bietet der Park eine beeindruckende Palette an Outdoor-Aktivitäten für alle Altersgruppen. Das Herzstück sind die zahlreichen Kletterparcours mit unterschiedlichen Schwierigkeitsgraden, die sicher durch die Baumwipfel führen. Für Adrenalinjunkies gibt es Paintball-Felder, Bogenschießen und die Möglichkeit zum Reiten. Eine Besonderheit des Edenland Parks sind die charmanten Baumhaushotels, in denen man eine Nacht mitten im Wald verbringen kann – ein einzigartiges Erlebnis in der Nähe der Hauptstadt. Der Park legt großen Wert auf Sicherheit und professionelle Betreuung, sodass sowohl Kinder als auch Erwachsene ihre Grenzen in einer geschützten Umgebung austesten können. Ob für einen Tagesausflug mit der Familie, einen Kindergeburtstag oder ein Firmenevent, der Edenland Park bietet eine perfekte Kombination aus Sport, Abenteuer und Erholung in der Natur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Edenland Park ist einer der größten Abenteuerparks in der Region Bukarest.",
+        "Er bietet 14 verschiedene Kletterparcours mit unterschiedlichen Schwierigkeitsstufen.",
+        "Die Übernachtung in voll ausgestatteten Baumhäusern ist eine Hauptattraktion.",
+        "Zum Angebot gehören auch Bogenschießen, Paintball und Airsoft.",
+        "Es gibt spezielle Bereiche für Kindergeburtstage und Firmenveranstaltungen.",
+        "Ein eigener kleiner Zoo (Eden Ranch) beherbergt Tiere zum Beobachten.",
+        "Der Park verfügt über ein Restaurant mit regionalen und internationalen Speisen.",
+        "Die gesamte Anlage ist auf Nachhaltigkeit und Naturschutz ausgerichtet."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1177,6 +2516,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Chindia-torony közelében.", "Árnyékos sétautak."],
       ro: ["Lângă Turnul Chindiei.", "Alei umbrite pentru plimbare."],
       en: ["Near the Chindia Tower.", "Shady paths for walking."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Târgoviște, idyllisch innerhalb des historischen Chindia-Parks gelegen, ist ein charmantes Ausflugsziel, das Natur und Geschichte miteinander verbindet. In unmittelbarer Nähe zum berühmten Chindia-Turm und den Ruinen des ehemaligen Fürstenhofs bietet der Tiergarten ein Zuhause für eine beeindruckende Vielfalt an heimischen und exotischen Tierarten. Besucher können majestätische Tiger, Löwen und Braunbären bewundern sowie eine bunte Welt von Vögeln und Reptilien entdecken. Die Anlage zeichnet sich durch ihre gepflegten Wege und die dichte, schattige Vegetation aus, die auch an heißen Sommertagen für eine angenehme Atmosphäre sorgt. Der Zoo Târgoviște ist besonders bei Familien beliebt, da er ideal in einen Spaziergang durch den weitläufigen Stadtpark integriert werden kann. Durch kontinuierliche Modernisierungen wird stetig an der Verbesserung der Tiergehege und des Besucherservices gearbeitet, um den Tiergarten als festen Bestandteil des kulturellen und touristischen Lebens der Stadt zu bewahren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo liegt direkt neben dem Wahrzeichen der Stadt, dem Chindia-Turm.",
+        "Er ist Teil des weitläufigen Chindia-Parks, der ehemaligen Fürstenresidenz.",
+        "Die Sammlung umfasst Raubkatzen, Bären und viele Huftierarten.",
+        "Ein moderner Pavillon für exotische Vögel ist ein Highlight der Anlage.",
+        "Der Zoo blickt auf eine lange Tradition in der Stadt Târgoviște zurück.",
+        "Zahlreiche Informationstafeln bieten Wissenswertes zum Artenschutz.",
+        "Die Anlage ist barrierefrei und bietet viele Sitzmöglichkeiten zum Ausruhen.",
+        "In der Nähe kann man Boote mieten, um auf dem Parksee zu fahren."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1196,6 +2556,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Ideális gyermekes családoknak.", "A természet lágy ölén."],
       ro: ["Ideală pentru familii cu copii.", "În mijlocul naturii."],
       en: ["Ideal for families with children.", "Surrounded by nature."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Pitești ist eine grüne Oase im Nordosten der Stadt, direkt am Rande des wunderschönen Trivale-Waldes gelegen. Dieser Tiergarten zeichnet sich durch seine ruhige, fast familiäre Atmosphäre aus und ist ein idealer Ort für Naturliebhaber und Familien. Die Gehege sind harmonisch in die natürliche Topografie des Geländes eingebettet, was den Tieren Rückzugsmöglichkeiten und den Besuchern authentische Einblicke bietet. Man findet hier eine interessante Mischung aus lokalen Waldbewohnern wie Hirschen und Wildschweinen sowie exotischen Gästen wie Löwen, Tigern und verschiedenen Affenarten. Ein besonderes Augenmerk wird im Zoo Pitești auf die Pflege der Grünanlagen und die Erhaltung des dichten Baumbestandes gelegt, was den Besuch zu einem erholsamen Waldspaziergang macht. In den letzten Jahren wurden die pädagogischen Angebote für Kinder erweitert, um das Bewusstsein für den Naturschutz und die heimische Fauna zu stärken. Die Kombination aus Waldidylle und Tierbeobachtung macht den Zoo zu einem der beliebtesten Freizeitorte im Kreis Argeș.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Pitești liegt am Rande des ausgedehnten Trivale-Waldes.",
+        "Die Anlage ist bekannt für ihre natürliche Gestaltung und viel Schatten.",
+        "Besucher können hier seltene Weiße Löwen und Sibirische Tiger sehen.",
+        "Ein spezielles Gehege für Braunbären wurde nach modernen Richtlinien gebaut.",
+        "Es gibt einen Bereich mit Ponys und Eseln, der besonders bei Kindern beliebt ist.",
+        "Der Zoo ist Partner lokaler Schulen für Biologie- und Umweltprojekte.",
+        "Zahlreiche Wanderwege führen vom Zoo weiter in den Trivale-Wald hinein.",
+        "Die Anlage ist gut gepflegt und bietet eine hohe Aufenthaltsqualität."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1215,6 +2596,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Kis helyi gyűjtemény.", "Szép kilátás a folyóra."],
       ro: ["Colecție locală mică.", "Vedere frumoasă spre fluviu."],
       en: ["Small local collection.", "Nice view of the river."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo in Drobeta-Turnu Severin, auch bekannt als Zoo Severin, bietet Besuchern ein entspanntes Erlebnis direkt an den Ufern der majestätischen Donau. Gelegen im westlichen Teil der Stadt, ist dieser Tiergarten ein Ort der Ruhe und Erholung. Die Anlage beherbergt eine kompakte, aber gut gepflegte Sammlung von Tierarten, darunter stolze Raubtiere wie Löwen und Wölfe sowie verschiedene Vogelarten und Pflanzenfresser. Ein Spaziergang durch den Zoo ermöglicht nicht nur Tierbeobachtungen, sondern bietet auch immer wieder schöne Ausblicke auf den mächtigen Fluss und die serbischen Berge am gegenüberliegenden Ufer. Für die Bewohner der Region ist der Zoo ein wichtiges Ausflugsziel, besonders an Wochenenden. Die Kombination aus der maritimen Atmosphäre der Donau und dem Charme eines städtischen Tierparks macht den Besuch in Drobeta-Turnu Severin zu einem abwechslungsreichen Erlebnis für Jung und Alt, bei dem man die Natur inmitten der Geschichte der Stadt genießen kann.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Severin liegt in unmittelbarer Nähe zum Ufer der Donau.",
+        "Er bietet eine interessante Sammlung von Raubtieren, darunter Wölfe und Löwen.",
+        "Die Lage am Fluss sorgt für eine stetige, angenehme Brise im Sommer.",
+        "Von einigen Punkten des Zoos hat man einen weiten Blick über die Donau.",
+        "Die Anlage ist ein wichtiger Bestandteil des kulturellen Lebens in Mehedinți.",
+        "Es gibt spezielle Bereiche für die heimische Fauna der Region am Eisernen Tor.",
+        "Der Zoo ist in einen größeren Parkbereich integriert, der zum Wandern einlädt.",
+        "Bildungsstationen informieren über die Fischwelt der Donau und deren Schutz."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1234,6 +2636,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A belépés gyakran ingyenes.", "Történelmi parkvidék."],
       ro: ["Accesul este adesea gratuit.", "Peisaj istoric de parc."],
       en: ["Entrance is often free.", "Historic park landscape."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Craiova ist ein integraler und faszinierender Bestandteil des Nicolae-Romanescu-Parks, einer der größten und prachtvollsten Parkanlagen in ganz Osteuropa. Die Lage des Tiergartens inmitten dieser historischen Parklandschaft verleiht ihm einen ganz besonderen Zauber. Besucher können hier durch weite Alleen spazieren und dabei eine Vielfalt an Tieren entdecken, die in gut strukturierten Gehegen leben. Von exotischen Tieren wie Löwen und Tigern bis hin zu verschiedenen Huftier- und Vogelarten bietet der Zoo ein breites Spektrum an Entdeckungen. Da der Eintritt in den Park und oft auch in den Zoo-Bereich kostenlos oder sehr günstig ist, fungiert er als zentraler sozialer Treffpunkt für die Bürger der Stadt und Besucher aus der ganzen Region Oltenien. Die Kombination aus monumentaler Parkarchitektur, wie der Hängebrücke und dem verzauberten Schloss in unmittelbarer Nähe, und der lebendigen Tierwelt macht den Zoo Craiova zu einem einzigartigen Gesamtkunstwerk, das Erholung, Bildung und Ästhetik perfekt miteinander verbindet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Craiova befindet sich im monumentalen Nicolae-Romanescu-Park.",
+        "Dieser Park wurde Anfang des 20. Jahrhunderts von einem französischen Architekten entworfen.",
+        "Er ist einer der wenigen Zoos in Rumänien mit einem historischen Ambiente.",
+        "Die Anlage beherbergt eine große Vielfalt an Wasservögeln auf den Parkseen.",
+        "Besucher können seltene Tierarten in einer sehr weitläufigen Umgebung sehen.",
+        "Der Eintritt für die Öffentlichkeit ist in der Regel frei zugänglich.",
+        "In der Nähe befindet sich eine berühmte Hängebrücke, ein Wahrzeichen der Stadt.",
+        "Der Zoo ist ein beliebtes Ziel für Fotografen und Naturfreunde in Craiova."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1253,6 +2676,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Számos mászóútvonal.", "Grillezőhelyek a közelben."],
       ro: ["Mai multe trasee de cățărare.", "Zone de grătar în apropiere."],
       en: ["Multiple climbing routes.", "Barbecue areas nearby."]
+    },
+    descriptionAdvanced: {
+      de: "Der Abenteuerpark Gârboavele, gelegen im gleichnamigen Wald in der Nähe von Galați, ist das führende Ziel für Outdoor-Sport und Action im Osten Rumäniens. Dieser Kletterpark bietet eine Vielzahl von Parcours in den Baumwipfeln, die speziell dafür entwickelt wurden, Geschicklichkeit, Mut und Kraft zu fordern. Mit unterschiedlichen Schwierigkeitsgraden ist der Park sowohl für Kinder als auch für erfahrene Kletterer bestens geeignet. Die Seilrutschen (Ziplines) bieten rasante Abfahrten durch den dichten Wald und sorgen für den nötigen Adrenalinkick. Sicherheit wird durch modernste Gurtsysteme und eine fachkundige Einweisung durch das Personal großgeschrieben. Neben den Kletteraktivitäten bietet der Gârboavele-Wald auch weite Flächen zum Picknicken, Grillplätze und Wanderwege, was den Park zu einem idealen Ort für einen kompletten Tag im Freien macht. Er ist ein wichtiger Motor für den Aktivtourismus in der Region und bietet eine willkommene Abwechslung zum urbanen Leben an der Donau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Park befindet sich im Gârboavele-Wald, einem beliebten Naherholungsgebiet.",
+        "Er bietet insgesamt 15 verschiedene Kletterrouten für alle Altersstufen.",
+        "Die Ziplines gehören zu den längsten in der gesamten Region Galați.",
+        "Professionelle Trainer stehen für Einweisungen und Hilfestellungen bereit.",
+        "Der Park ist ein Top-Ziel für Teambuilding-Maßnahmen lokaler Unternehmen.",
+        "In unmittelbarer Nähe befindet sich ein ethnografisches Freilichtmuseum.",
+        "Es gibt spezielle Sicherheitsausrüstungen für Kleinkinder ab 4 Jahren.",
+        "Der Wald bietet zahlreiche markierte Wege für Mountainbiker und Wanderer."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1272,6 +2716,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A város szívében található.", "Oktatási programok iskoláknak."],
       ro: ["Situat în centrul orașului.", "Programe educative pentru școli."],
       en: ["Located in the city center.", "Educational programs for schools."]
+    },
+    descriptionAdvanced: {
+      de: "Das Vivarium in Bacău ist eine spezialisierte und faszinierende Abteilung des Naturwissenschaftlichen Museumskomplexes und ein einzigartiges Ziel für alle, die sich für Reptilien, Amphibien und exotische Fische interessieren. Mitten im Stadtzentrum gelegen, bietet es Besuchern eine Reise in die Welt der wechselwarmen Tiere. Die Ausstellungen sind sorgfältig in thematische Bereiche unterteilt, in denen man farbenfrohe tropische Fische, beeindruckende Schlangen, Echsen und verschiedene Froscharten in detailgetreuen Terrarien und Aquarien bewundern kann. Das Vivarium legt einen starken Fokus auf Bildung und Wissenschaft; regelmäßig finden hier Workshops und Führungen für Schulklassen statt, um ein tieferes Verständnis für die oft verkannten Tiergruppen zu fördern. Ein Highlight ist die Sammlung exotischer Vögel, die den Besuch akustisch und visuell bereichert. Trotz seiner kompakten Größe bietet das Vivarium eine enorme Informationsdichte und ist ein wichtiger Ort für den Artenschutz und die Umweltpädagogik in der Region Moldau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Vivarium Bacău ist Teil des renommierten Museums für Naturwissenschaften.",
+        "Es beherbergt eine einer der bedeutendsten Reptilienkollektionen Rumäniens.",
+        "Die Aquarienabteilung zeigt sowohl Süßwasser- als auch Meerwasserarten.",
+        "Ein Bereich ist der Zucht von seltenen einheimischen Amphibien gewidmet.",
+        "Das Zentrum bietet interaktive Programme für Kinder zur Tierpflege an.",
+        "Es ist ein wichtiger Ort für die Forschung zur regionalen Biodiversität.",
+        "Das Vivarium ist in einem historischen Gebäude im Stadtzentrum untergebracht.",
+        "Die Ausstellungen werden regelmäßig um neue, spannende Exponate erweitert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1291,6 +2756,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Népszerű piknikezőhely.", "Változatos madárvilág."],
       ro: ["Populară pentru picnicuri.", "Diversitate de păsări."],
       en: ["Popular for picnics.", "Features a variety of birds."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Jassy (Iași), eingebettet in den malerischen Ciric-Wald am östlichen Stadtrand, ist ein beliebtes Ziel für Erholungssuchende und Naturliebhaber in der Kulturhauptstadt der Moldau. Nach umfangreichen Modernisierungsmaßnahmen präsentiert sich der Tiergarten heute als zeitgemäße Einrichtung mit großzügigen Gehegen und einem klaren Fokus auf das Tierwohl. Besucher können hier eine Vielfalt an Tieren aus verschiedenen Kontinenten bestaunen, darunter kräftige Löwen, verspielte Affen und anmutige Hirsche. Besonders hervorzuheben ist die wunderschöne Waldlandschaft, die den Zoo umgibt und zu jeder Jahreszeit einen besonderen Reiz ausstrahlt – vom satten Grün des Frühlings bis hin zu den goldenen Farben des Herbstes. Der Zoo Iași ist eng mit dem Naherholungsgebiet Ciric verbunden, wo Besucher auch Bootsfahrten unternehmen oder Picknickplätze nutzen können. Damit ist der Zoo ein zentraler Baustein für das Freizeitangebot der Stadt und bietet eine perfekte Kombination aus Tierbeobachtung und Naturerlebnis in unmittelbarer Stadtnähe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Jassy liegt im malerischen und geschützten Ciric-Waldgebiet.",
+        "Er wurde in den letzten Jahren umfassend saniert und modernisiert.",
+        "Die Anlage beherbergt seltene Tierarten wie den Amur-Tiger.",
+        "Ein großes Gehege für Braunbären ermöglicht naturnahe Beobachtungen.",
+        "Der Zoo ist Teil eines größeren Freizeitkomplexes mit Seen und Parks.",
+        "Es gibt spezielle Bildungsangebote für Studenten der lokalen Universitäten.",
+        "Die Wanderwege im Zoo sind ideal für Familien mit Kinderwagen geeignet.",
+        "Der Tiergarten spielt eine aktive Rolle in regionalen Naturschutzprogrammen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1310,6 +2796,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Helyi vadon élő állatok.", "Családias légkör."],
       ro: ["Animale sălbatice locale.", "Atmosferă familială."],
       en: ["Local wildlife exhibits.", "Family-friendly atmosphere."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Frauenbach (Baia Mare) liegt idyllisch am Fuße des Gutâi-Gebirges im Norden Rumäniens und bietet Besuchern eine charmante Begegnung mit der Tierwelt der Karpaten sowie exotischen Arten. Trotz seiner vergleichsweise geringen Größe besticht der Tiergarten durch seine gepflegten Anlagen und die naturnahe Gestaltung der Gehege, die harmonisch in die hügelige Landschaft eingebettet sind. Ein Schwerpunkt des Zoos liegt auf der Präsentation der heimischen Fauna, wobei Braunbären, Wölfe und Luchse zu den Hauptattraktionen zählen. In den letzten Jahren wurden kontinuierliche Verbesserungen vorgenommen, um den Tieren mehr Raum und Beschäftigungsmöglichkeiten zu bieten. Der Zoo ist ein beliebtes Ziel für Familien aus der Region Maramureș, da er nicht nur Bildung bietet, sondern auch einen ruhigen Rückzugsort vom städtischen Alltag darstellt. Die Kombination aus frischer Bergluft, dichtem Baumbestand und interessanten Tierbeobachtungen macht den Besuch zu einem lohnenswerten Erlebnis für Jung und Alt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Baia Mare beherbergt eine bedeutende Sammlung karpatischer Raubtiere.",
+        "Er gilt als einer der am schönsten gelegenen Berg-Zoos in Nordrumänien.",
+        "Die Anlage legt großen Wert auf die Rehabilitation verletzter Wildtiere.",
+        "Besucher können hier die seltenen europäischen Luchse aus nächster Nähe beobachten.",
+        "Der Zoo verfügt über einen integrierten Spielplatz für jüngere Besucher.",
+        "Es gibt geführte Touren, die die ökologische Bedeutung der Maramureș-Region erklären.",
+        "Die Gehege sind so gestaltet, dass sie den natürlichen Lebensraum der Berge imitieren.",
+        "Ein kleiner See innerhalb des Geländes dient als Rastplatz für verschiedene Wasservögel."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1329,6 +2836,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Zöldterületek sétára.", "Pónilovaglás gyerekeknek."],
       ro: ["Spații verzi pentru plimbare.", "Plimbări cu ponei pentru copii."],
       en: ["Green spaces for walking.", "Pony rides for children."]
+    },
+    descriptionAdvanced: {
+      de: "Der Zoo Sathmar (Satu Mare) ist eine grüne Oase im Nordwesten Rumäniens und ein zentraler Anlaufpunkt für Naturfreunde in der Region Partium. Die Anlage zeichnet sich durch ihre weitläufigen Grünflächen und den alten Baumbestand aus, der an heißen Sommertagen angenehmen Schatten spendet. Besucher können hier eine Vielzahl von Tieren bestaunen, von heimischen Wildarten bis hin zu exotischen Bewohnern aus fernen Ländern. Besonders stolz ist der Zoo auf seine Bildungsarbeit, die vor allem Kindern die Bedeutung des Artenschutzes und den respektvollen Umgang mit der Natur vermittelt. Die entspannte Atmosphäre lädt zu ausgiebigen Spaziergängen ein, während die gut platzierten Rastplätze zum Verweilen einladen. Als wichtiger Bestandteil des lokalen Freizeitangebots verbindet der Zoo Satu Mare gekonnt Unterhaltung mit Information und ist somit ein ideales Ziel für einen entspannten Familienausflug, bei dem man die Vielfalt der Fauna in einer ruhigen, parkähnlichen Umgebung genießen kann.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Zoo Satu Mare ist bekannt für seine erfolgreiche Zucht einiger Huftierarten.",
+        "Die Parkanlage umfasst mehrere Hektar mit einer Vielzahl an botanischen Besonderheiten.",
+        "Es gibt ein spezielles Gehege, in dem Kinder bestimmte Haustiere füttern dürfen.",
+        "Der Zoo beteiligt sich aktiv an grenzüberschreitenden Projekten zum Naturschutz.",
+        "Regelmäßig finden pädagogische Workshops für Schulklassen der Region statt.",
+        "Die Volieren beherbergen eine beeindruckende Sammlung bunter Papageienarten.",
+        "Innerhalb des Zoos gibt es moderne Entspannungszonen mit interaktiven Infotafeln.",
+        "Der Tiergarten ist barrierefrei gestaltet und für alle Altersgruppen leicht zugänglich."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1348,6 +2876,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Egész évben nyitva.", "Nagy wellness részleg."],
       ro: ["Deschis tot anul.", "Zonă mare de wellness."],
       en: ["Open year-round.", "Large wellness area."]
+    },
+    descriptionAdvanced: {
+      de: "Der Nymphaea Wasserpark in Großwardein (Oradea) ist einer der modernsten und größten Aquaparks in Südosteuropa und setzt neue Maßstäbe im Bereich Freizeit und Wellness. Auf einer beeindruckenden Fläche bietet die Anlage eine perfekte Kombination aus Adrenalin und Entspannung. Während Abenteuerlustige auf den zahlreichen High-Tech-Rutschen voll auf ihre Kosten kommen, finden Erholungssuchende in den weitläufigen Thermalbecken und dem exklusiven Spa-Bereich Ruhe. Die Architektur des Parks ist futuristisch und funktional zugleich, wobei große Glasfronten viel natürliches Licht hereinlassen und einen Blick auf die umliegenden Grünanlagen ermöglichen. Dank der Nutzung der lokalen Thermalquellen ist der Park ein ganzjähriges Reiseziel, das auch im Winter karibisches Flair verbreitet. Ob für Familien mit Kindern, die in den speziellen Spielbereichen sicher toben können, oder für Paare, die ein Wellness-Wochenende genießen möchten – der Nymphaea Aquapark ist ein touristisches Highlight, das Besucher weit über die Grenzen Rumäniens hinaus anzieht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Aquapark Nymphaea erstreckt sich über eine Gesamtfläche von rund 7 Hektar.",
+        "Er verfügt über 10 aufregende Wasserrutschen mit unterschiedlichen Schwierigkeitsgraden.",
+        "Die Anlage nutzt das natürliche Thermalwasser der Region für ihre Becken.",
+        "Es gibt 15 verschiedene Innen- und Außenbecken für alle Altersklassen.",
+        "Der Wellness-Bereich umfasst Saunen, türkische Bäder und Massagezimmer.",
+        "Ein modernes Restaurant und mehrere Bars sorgen für das leibliche Wohl der Gäste.",
+        "Der Park bietet auch Sporteinrichtungen wie Beachvolleyball und Fußballplätze.",
+        "Dank moderner Filtertechnik erfüllt das Wasser höchste hygienische Standards."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1358,7 +2907,7 @@ export const poiExtraRo2: POI[] = [
     name: { de: "Aqua Magic Mamaia", hu: "Aqua Magic Mamaia", ro: "Aqua Magic Mamaia", en: "Aqua Magic Mamaia" },
     description: {
       de: "Der erste moderne Wasserpark in Rumänien, direkt am Meer.",
-      hu: "Románia első modern aquaparkja, közvetlenül a tengerparton.",
+      hu: "Románia első modern aquaparkja, gemeinsam direkt am Meer.",
       ro: "Primul aquapark modern din România, situat la mare.",
       en: "The first modern aquapark in Romania, located at the seaside."
     },
@@ -1367,6 +2916,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Csak nyáron van nyitva.", "Mamaia üdülőhelyen található."],
       ro: ["Deschis doar vara.", "Situat în stațiunea Mamaia."],
       en: ["Open during summer only.", "Located in Mamaia resort."]
+    },
+    descriptionAdvanced: {
+      de: "Aqua Magic Mamaia ist der legendäre Wasserpark an der rumänischen Schwarzmeerküste und gilt als Pionier der modernen Freizeitkultur im Land. Am Eingang des berühmten Badeortes Mamaia gelegen, bietet der Park eine explosive Mischung aus Wasserspaß, Musik und Unterhaltung. Mit einer Kapazität von Tausenden von Besuchern täglich ist er das pulsierende Herz der sommerlichen Action in der Region Constanța. Die Vielfalt der Attraktionen reicht von rasanten Rutschen wie dem 'Kamikaze' bis hin zum entspannten Treibenlassen im 'Lazy River'. Besonders attraktiv macht den Park seine Lage zwischen dem Schwarzen Meer und dem Siutghiol-See, was für eine ständige frische Brise sorgt. Täglich organisierte Shows, Live-DJ-Sets und Poolpartys machen Aqua Magic zu weit mehr als nur einem Schwimmbad – es ist ein Erlebniszentrum, das den Lifestyle der rumänischen Riviera perfekt verkörpert und Generationen von Urlaubern unvergessliche Sommermomente beschert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Aqua Magic war der erste große Wasserpark, der in Rumänien eröffnet wurde.",
+        "Der Park bietet über 20 verschiedene Wasserattraktionen für alle Altersgruppen.",
+        "Die Gesamtwasserfläche der Anlage beträgt mehrere tausend Quadratmeter.",
+        "In der Hochsaison finden täglich professionelle Unterhaltungsprogramme statt.",
+        "Es gibt spezielle Kinderzonen mit flachem Wasser und sicheren Mini-Rutschen.",
+        "Ein breites gastronomisches Angebot reicht von Fast Food bis hin zu Cocktails.",
+        "Sicherheitsmitarbeiter und Rettungsschwimmer überwachen ständig alle Bereiche.",
+        "Der Park ist ein fester Bestandteil der Tourismusstrategie der Region Mamaia."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1386,6 +2956,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Trópusi növényvilág.", "Hatalmas vízi csúszdák."],
       ro: ["Vegetație tropicală.", "Tobogane de apă uriașe."],
       en: ["Tropical vegetation.", "Features massive water slides."]
+    },
+    descriptionAdvanced: {
+      de: "Die Therme Bukarest, gelegen in Balotești in der Nähe des Flughafens Otopeni, ist das größte Wellness- und Unterhaltungszentrum in Europa und eine architektonische Meisterleistung aus Glas und Stahl. Dieser spektakuläre Komplex bietet Besuchern eine einzigartige tropische Erfahrung mit einer konstanten Innentemperatur von 30 Grad Celsius, unabhängig von der Jahreszeit. Die Therme ist in verschiedene Bereiche unterteilt: 'Galaxy' für Familien mit beeindruckenden Wasserrutschen, 'The Palm' für Entspannung unter echten Palmen und 'Elysium' für gehobene Saunaerlebnisse und Wellness-Behandlungen. Mit über 800.000 Pflanzen, darunter die größte Sammlung von Palmen in Europa, fühlt man sich wie in einem botanischen Garten der Extraklasse. Das mineralhaltige Thermalwasser, das aus großer Tiefe gefördert wird, speist die zahlreichen Becken und bietet gesundheitsfördernde Vorteile. Die Therme Bukarest ist nicht nur ein Ort der Erholung, sondern auch ein Ort für Events, Konzerte und erstklassige Gastronomie, was sie zu einem der meistbesuchten touristischen Ziele in ganz Rumänien macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Therme Bukarest beherbergt über 800.000 Pflanzen und 1.500 Palmen.",
+        "Sie verfügt über das größte System von Wasserrutschen in Zentral- und Osteuropa.",
+        "Das Gebäude hat eine der größten freitragenden Glaskuppeln der Welt.",
+        "Das Thermalwasser wird aus einer Tiefe von mehr als 3.100 Metern gewonnen.",
+        "Besucher können aus 9 verschiedenen Themen-Saunen mit unterschiedlichen Aufgüssen wählen.",
+        "Die Anlage bietet Platz für bis zu 4.000 Gäste gleichzeitig.",
+        "Es gibt spezielle Mineralbecken, die mit Salz aus dem Toten Meer angereichert sind.",
+        "Die Therme wurde mit prestigeträchtigen internationalen Design- und Architekturpreisen ausgezeichnet."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1405,6 +2996,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Tiroli kötélpályák az erdőben.", "Friss hegyi levegő."],
       ro: ["Tiroliene prin pădure.", "Aer curat de munte."],
       en: ["Ziplines through the forest.", "Fresh mountain air."]
+    },
+    descriptionAdvanced: {
+      de: "Der Arka Park Păltiniș ist ein aufregendes Outdoor-Abenteuerzentrum im Herzen des Cindrel-Gebirges, unweit des bekannten Skiorts Păltiniș in der Region Hermannstadt (Sibiu). Auf einer beeindruckenden Höhe von rund 1.400 Metern gelegen, bietet der Park eine Vielzahl von Parcours, die in die dichten Nadelwälder integriert sind. Die Herausforderungen reichen von einfachen Seilbrücken für Kinder bis hin zu anspruchsvollen Hindernissen in schwindelerregender Höhe für erfahrene Kletterer. Ein absolutes Highlight sind die rasanten Seilrutschen (Ziplines), die den Besuchern das Gefühl geben, wie Vögel über das Tal zu gleiten, während sie die frische, saubere Bergluft einatmen. Sicherheit steht an erster Stelle: Alle Teilnehmer werden professionell eingewiesen und mit modernstem Equipment ausgestattet. Der Arka Park ist der ideale Ort für Teambuilding-Events, Schulausflüge oder einen aktiven Tag mit der Familie, bei dem körperliche Geschicklichkeit und Mut in einer atemberaubenden alpinen Umgebung gefordert werden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Park bietet verschiedene Parcours mit unterschiedlichen Schwierigkeitsgraden.",
+        "Er liegt in einem der höchstgelegenen Luftkurorte Rumäniens.",
+        "Es gibt spezielle Sicherheitsgurte und Helme für alle Teilnehmer.",
+        "Der Park ist harmonisch in den natürlichen Waldbestand eingebettet.",
+        "Die Seilrutschen bieten spektakuläre Ausblicke auf die umliegenden Berggipfel.",
+        "Qualifizierte Instruktoren begleiten die Besucher während des gesamten Klettervorgangs.",
+        "Zusätzlich zum Klettern gibt es oft Möglichkeiten für Bogenschießen oder Minigolf.",
+        "Der Park ist ein beliebtes Ziel für Sommercamps und Jugendgruppen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1424,6 +3036,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Bio termékek közvetlenül a farmról.", "Rusztikus építészeti stílus."],
       ro: ["Produse bio direct de la fermă.", "Stil arhitectural rustic."],
       en: ["Organic products from the farm.", "Rustic architectural style."]
+    },
+    descriptionAdvanced: {
+      de: "Ferma Dacilor, gelegen in der malerischen Hügellandschaft der Region Prahova bei Gura Vadului, ist weit mehr als nur ein landwirtschaftlicher Betrieb; es ist eine Hommage an die dakischen Wurzeln Rumäniens und ein Zentrum für authentischen Agrotourismus. Der Ort besticht durch seine rustikale Architektur, bei der Stein und Holz dominieren und eine warme, ursprüngliche Atmosphäre schaffen. Besucher können hier die traditionelle rumänische Lebensweise hautnah erleben, von der Tierhaltung bis zur Ernte. Ein besonderer Schwerpunkt liegt auf der Gastronomie: In dem weitläufigen Restaurant werden Gerichte serviert, die ausschließlich aus frischen, lokal produzierten Bio-Zutaten bestehen, wobei traditionelle Rezepte über offenem Feuer zubereitet werden. Die Farm bietet auch komfortable Unterkünfte in rustikalen Hütten, die modernen Komfort mit antikem Charme verbinden. Inmitten von Weinbergen und Wäldern gelegen, ist die Dakische Farm der perfekte Ort für alle, die dem Lärm der Stadt entfliehen und die spirituelle Kraft und die einfachen Freuden des ländlichen Lebens wiederentdecken möchten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Farm ist bekannt für ihre authentische Zubereitung von Wildfleischgerichten.",
+        "Alle verwendeten Zutaten stammen aus eigenem Anbau oder von lokalen Partnern.",
+        "Die Architektur ist von historischen dakischen Siedlungen inspiriert.",
+        "Es gibt Möglichkeiten für Ausritte und Wanderungen in der direkten Umgebung.",
+        "Die Farm produziert eigene Weine und traditionelle Destillate.",
+        "Ein großer Außenbereich bietet Platz für traditionelle Feste und Hochzeiten.",
+        "Der Ort fördert aktiv den Erhalt alter rumänischer Handwerkstraditionen.",
+        "Die Unterkünfte bieten einen atemberaubenden Blick auf die sanften Hügel von Dealu Mare."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1443,6 +3076,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Iza-völgyön folyik keresztül.", "A Tiszába torkollik."],
       ro: ["Curge prin Valea Izei.", "Se varsă în Tisa."],
       en: ["Flows through the Iza Valley.", "Tributary of the Tisa River."]
+    },
+    descriptionAdvanced: {
+      de: "Der Fluss Iza ist die Lebensader der historischen Region Maramureș im Norden Rumäniens und fließt durch ein Tal, das als 'Seele der rumänischen Tradition' gilt. Entspringend im Rodna-Gebirge, windet sich der Fluss durch malerische Dörfer, in denen die Zeit stillzustehen scheint. Das Iza-Tal ist weltberühmt für seine monumentalen geschnitzten Holztore und die zum UNESCO-Weltkulturerbe gehörenden Holzkirchen, die das kulturelle Erbe der Region widerspiegeln. Der Fluss selbst prägt die Landschaft mit seinen sanften Windungen und bietet Lebensraum für zahlreiche Fischarten, was ihn bei lokalen Anglern sehr beliebt macht. Entlang seines Laufs kann man das tägliche Leben der Bauern beobachten, die ihre Felder noch oft mit traditionellen Methoden bearbeiten. Die Iza ist nicht nur ein geografisches Merkmal, sondern ein Symbol für die Beständigkeit und die tiefe Verbundenheit der Menschen mit ihrem Land und ihrer Geschichte, was sie zu einem unverzichtbaren Teil jeder Reise durch den Norden Rumäniens macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Iza ist etwa 80 Kilometer lang und mündet bei Sighetu Marmației in die Theiß.",
+        "Das Iza-Tal beherbergt einige der schönsten Holzkirchen Rumäniens.",
+        "Der Fluss entspringt am Nordhang des Berges Pietrosu im Rodna-Gebirge.",
+        "Entlang des Flusses findet man zahlreiche traditionelle Wassermühlen.",
+        "Die Region ist bekannt für die 'Iza-Wolle', die lokal verarbeitet wird.",
+        "Wanderwege entlang des Ufers bieten Einblicke in die unberührte Natur.",
+        "In den Wintermonaten friert der Fluss teilweise zu und bietet eine märchenhafte Kulisse.",
+        "Das Tal ist ein Zentrum für traditionelle rumänische Volksmusik und Tänze."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1460,8 +3114,29 @@ export const poiExtraRo2: POI[] = [
     facts: {
       de: ["Größter Zufluss der Donau in RO.", "Stauseen zur Stromerzeugung."],
       hu: ["A Duna legnagyobb hazai mellékfolyója.", "Víztározók áramtermeléshez."],
-      ro: ["Cel mai mare afluent al Dunării în RO.", "Lacuri de acumulare pentru energie."],
+      ro: ["Cel mai mare afluent al Dunării în RO.", "Lacuri de acumulare für energie."],
       en: ["Largest Danube tributary in RO.", "Features dams for power."]
+    },
+    descriptionAdvanced: {
+      de: "Der Siret ist einer der bedeutendsten Flüsse Rumäniens und der wasserreichste Zufluss der Donau auf rumänischem Staatsgebiet. Er entspringt in den ukrainischen Karpaten und durchfließt den Osten Rumäniens von Norden nach Süden, wobei er die historische Region Moldau maßgeblich prägt. Sein Lauf ist von großer wirtschaftlicher Bedeutung, insbesondere für die Energieerzeugung durch eine Kette von Stauseen und Wasserkraftwerken. Die fruchtbaren Ebenen entlang des Siret sind wichtige landwirtschaftliche Gebiete, während der Fluss selbst ein komplexes Ökosystem für zahlreiche Fisch- und Vogelarten darstellt. Historisch diente der Siret als wichtige Handelsroute und natürliche Grenze. Heute ist das Siret-Tal eine abwechslungsreiche Landschaft, die von sanften Hügeln im Norden bis zu weiten Tiefebenen im Süden reicht, bevor der Fluss bei Galați majestätisch in die Donau mündet und so den Kreislauf des Wassers in dieser Region vervollständigt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Siret hat die größte Abflussmenge aller Donauzuflüsse in Rumänien.",
+        "Sein Einzugsgebiet umfasst einen großen Teil der Region Moldau.",
+        "Entlang des Flusses wurden zahlreiche Deiche zum Hochwasserschutz errichtet.",
+        "Der Fluss bildet an einigen Stellen breite Auenlandschaften mit reicher Flora.",
+        "Wichtige Städte wie Bacău und Roman liegen in unmittelbarer Nähe seines Laufs.",
+        "Die Stauseen am Siret werden auch für die industrielle Wasserversorgung genutzt.",
+        "Der Siret ist bekannt für seine Vorkommen an Welsen und Hechten.",
+        "In der Antike wurde der Fluss unter dem Namen 'Hierasus' erwähnt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1481,6 +3156,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Románia második leghosszabb folyója.", "Galacnál ömlik a Dunába."],
       ro: ["Al doilea râu ca lungime din RO.", "Se varsă în Dunăre la Galați."],
       en: ["Second longest river in Romania.", "Flows into the Danube near Galați."]
+    },
+    descriptionAdvanced: {
+      de: "Der Pruth (Prut) ist nicht nur ein bedeutendes Gewässer, sondern auch ein Fluss mit enormer politischer und historischer Symbolkraft, da er die Grenze zwischen Rumänien und der Republik Moldau bildet. Er entspringt in den Waldkarpaten der Ukraine und fließt über fast 1.000 Kilometer bis zu seiner Mündung in die Donau. Die Ufer des Pruth sind von einer wilden Schönheit geprägt, mit weiten Auen und Feuchtgebieten, die unter Naturschutz stehen und ein Paradies für Zugvögel sind. Für die Menschen in der Region ist der Fluss eine lebenswichtige Wasserquelle und ein Symbol der Verbundenheit über nationale Grenzen hinweg. Historisch war der Pruth Schauplatz zahlreicher Friedensverträge und militärischer Auseinandersetzungen, die die Landkarte Südosteuropas formten. Heute ist der Fluss ein ruhiger Strom, der zu Naturbeobachtungen einlädt und durch seine unberührten Landschaften und die reiche Fischfauna besticht, was ihn zu einem wichtigen ökologischen Korridor in Osteuropa macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Pruth ist nach der Donau der zweitlängste Fluss Rumäniens.",
+        "Große Teile des Flusslaufs gehören zum Biosphärenreservat Unterer Pruth.",
+        "Die berühmte 'Eiffelturm-Brücke' bei Ungheni überquert diesen Fluss.",
+        "Der Pruth ist für seine großen Bestände an Wildkarpfen bekannt.",
+        "An seinen Ufern finden sich zahlreiche archäologische Stätten der Cucuteni-Kultur.",
+        "Der Salzgehalt des Wassers nimmt im Unterlauf aufgrund von Bodenbeschaffenheiten zu.",
+        "Der Fluss markiert die östliche Außengrenze der Europäischen Union.",
+        "Früher war der Pruth schiffbar und diente dem Transport von Getreide und Holz."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1500,6 +3196,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Áthalad a Békási-víztározón.", "Népszerű a vízi sportokhoz."],
       ro: ["Traversează lacul Izvorul Muntelui.", "Popular pentru sporturi nautice."],
       en: ["Crosses the Bicaz Reservoir.", "Popular for water sports."]
+    },
+    descriptionAdvanced: {
+      de: "Die Bistritz (Bistrița) ist einer der landschaftlich reizvollsten Gebirgsflüsse Rumäniens und fließt durch das Herz der Ostkarpaten. Bekannt für ihr klares Wasser und ihre reißende Strömung im Oberlauf, war die Bistritz über Jahrhunderte der Hauptweg für die Flößerei, bei der riesige Holzmengen aus den Bergwäldern in die Ebenen transportiert wurden. Ein monumentales Merkmal des Flusses ist der Izvorul-Muntelui-Stausee (auch Bicaz-See genannt), der durch eine der größten Talsperren des Landes gebildet wird und den Fluss in ein ruhiges 'Binnenmeer' verwandelt. Die Bistritz durchschneidet spektakuläre Schluchten und bietet atemberaubende Ausblicke auf das Ceahlău-Massiv. Heute ist der Fluss ein Magnet für Touristen, die Wassersportarten wie Kajakfahren schätzen oder einfach die Ruhe an seinen bewaldeten Ufern genießen möchten. Die Kombination aus industrieller Nutzung durch Wasserkraft und wilder, unberührter Natur macht die Bistritz zu einem faszinierenden Beispiel für die Kraft und Vielseitigkeit der rumänischen Flüsse.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Bistritz ist der längste ausschließlich in Rumänien fließende Gebirgsfluss.",
+        "Der Name stammt aus dem Slawischen und bedeutet 'die Schnelle'.",
+        "An ihrem Lauf befindet sich das größte Wasserkraftwerk in den Karpaten.",
+        "Die Flößerei auf der Bistritz wurde erst in den 1960er Jahren eingestellt.",
+        "Der Fluss beherbergt die seltene Huchen-Fischart (Donaulachs).",
+        "Die Talsperre von Bicaz ist über 120 Meter hoch.",
+        "Entlang der Bistritz befinden sich zahlreiche traditionsreiche Klöster.",
+        "Der Fluss ist eine wichtige Quelle für Trinkwasser in der Region Moldau."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1519,6 +3236,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Korábban fontos szállítási útvonal.", "Sok fürdőhely a völgyben."],
       ro: ["Vechi drum comercial.", "Multe stațiuni în lungul văii."],
       en: ["Old commercial route.", "Many resorts along the valley."]
+    },
+    descriptionAdvanced: {
+      de: "Der Trotuș (Tatros) ist ein charaktervoller Fluss der Ostkarpaten, der durch ein geschichtsträchtiges Tal fließt, das Siebenbürgen mit der Region Moldau verbindet. Sein Lauf ist geprägt von einer abwechslungsreichen Geologie, die zur Entstehung zahlreicher Salz- und Erdölvorkommen geführt hat, was dem Tal eine große industrielle Bedeutung verlieh. Doch jenseits der Industrie bietet der Trotuș eine wunderschöne Naturkulisse mit bewaldeten Hängen und weiten Terrassen. Das Trotuș-Tal ist bekannt für seine Kurorte wie Slănic Moldova und seine strategische Rolle als Verteidigungslinie in vergangenen Kriegen. Der Fluss selbst ist ein lebendiges Gewässer, das sich durch schmale Schluchten und breite Becken schlängelt. Für Wanderer und Naturliebhaber bietet das Tal zahlreiche Pfade, die zu Panoramapunkten führen, von denen aus man den glitzernden Lauf des Trotuș über Kilometer verfolgen kann. Es ist ein Ort, an dem Naturgeschichte und menschliche Aktivität auf engem Raum miteinander verwoben sind.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Trotuș entspringt im Ciuc-Gebirge in den Ostkarpaten.",
+        "Das Tal war im Ersten Weltkrieg Schauplatz erbitterter Kämpfe (Oituz-Ebene).",
+        "Wichtige Industriestädte wie Onești und Comănești liegen am Trotuș.",
+        "Der Fluss ist bekannt für seine Forellenvorkommen im Oberlauf.",
+        "In der Nähe des Flusses befindet sich das berühmte Salzbergwerk Târgu Ocna.",
+        "Der Trotuș mündet nach etwa 160 Kilometern in den Siret.",
+        "Das Tal ist eine wichtige Route für die Eisenbahnverbindung nach Siebenbürgen.",
+        "Zahlreiche Mineralwasserquellen entspringen in der Nähe des Flussbettes."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1537,7 +3275,28 @@ export const poiExtraRo2: POI[] = [
       de: ["Hat die Putna-Schlucht.", "Wilde Gebirgslandschaft."],
       hu: ["Itt található a Putna-szurdok.", "Vadon hegyi táj."],
       ro: ["Formează Cascada Putnei.", "Peisaj montan sălbatic."],
-      en: ["Forms the Putna Waterfall.", "Wild mountain landscape."]
+      en: ["Flows through the Putna Gorge.", "Wild mountain landscape."]
+    },
+    descriptionAdvanced: {
+      de: "Der Fluss Putna ist die wilde Seele des Vrancea-Gebirges und bekannt für seine unbändige Kraft, die sich in spektakulären geologischen Formationen manifestiert. Das absolute Highlight ist der Putna-Wasserfall, ein beeindruckendes Naturdenkmal, bei dem der Fluss über massive Felsstufen in ein tiefes Becken stürzt und dabei eine ständige Gischtwolke erzeugt. Die Putna-Schlucht bietet Wanderern ein dramatisches Panorama aus steilen Kalksteinwänden und dichtem Grün. Der Fluss ist ein wichtiges Element des regionalen Naturparks Putna-Vrancea, der zum Schutz der Artenvielfalt in den Karpaten eingerichtet wurde. Historisch gesehen war die Region um die Putna ein Rückzugsort und ein Ort spiritueller Bedeutung, was sich in den nahegelegenen alten Klöstern widerspiegelt. Für Abenteurer und Fotografen ist die Putna ein ideales Ziel, um die rohe Schönheit der rumänischen Bergwelt in ihrer reinsten Form festzuhalten, weit weg von den großen Touristenströmen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Putna-Wasserfall ist etwa 12 Meter hoch und steht unter Naturschutz.",
+        "Der Fluss bildet die spektakuläre Putna-Schlucht mit einer Länge von 300 Metern.",
+        "Die Region ist Lebensraum für Braunbären, Wölfe und Luchse.",
+        "In der Nähe befindet sich das berühmte Kloster Putna, ein bedeutendes Kulturdenkmal.",
+        "Der Fluss hat eine starke Erosionskraft, die den Fels ständig neu formt.",
+        "Im Frühjahr führt die Putna aufgrund der Schneeschmelze oft Hochwasser.",
+        "Es gibt zahlreiche Legenden über die Entstehung des Wasserfalls.",
+        "Der Flusslauf ist ein beliebtes Ziel für ökotouristische Wanderungen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1557,6 +3316,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Szeretbe torkollik.", "Átszeli a Kárpátokat."],
       ro: ["Se varsă în Siret.", "Traversează munții Buzăului."],
       en: ["Flows into the Siret River.", "Crosses the Buzău Mountains."]
+    },
+    descriptionAdvanced: {
+      de: "Der Fluss Buzău ist ein dynamisches Gewässer, das eine der interessantesten Regionen Rumäniens durchquert, wo sich geologische Kuriositäten und Outdoor-Abenteuer vereinen. Entspringend in den Karpaten, hat sich der Buzău tief in das Gebirge eingegraben und bildet spektakuläre Täler, die heute zu den besten Revieren für Wildwasser-Rafting im ganzen Land zählen. Das Buzău-Tal ist berühmt für seine 'lebendigen Feuer' und die nahegelegenen Schlammvulkane, was der Region eine fast außerirdische Atmosphäre verleiht. Der Fluss ist eine wichtige Ressource für die Energiegewinnung und Bewässerung, bietet aber gleichzeitig weite Flächen für die Erholung. Die landschaftliche Vielfalt entlang seines Laufs, von dichten Bergwäldern bis hin zu sonnigen Weinhügeln im Vorland, macht den Buzău zu einem Symbol für den Reichtum der Natur in der Walachei. Besucher schätzen die Region für ihre Ursprünglichkeit und die vielfältigen Möglichkeiten, Natur und Kultur miteinander zu verknüpfen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Buzău ist einer der besten Flüsse Rumäniens für professionelles Rafting.",
+        "Er durchbricht die Karpaten in einer spektakulären Querung.",
+        "An seinem Oberlauf liegt der Siriu-Stausee mit einem beeindruckenden Erddamm.",
+        "Der Fluss ist bekannt für seine plötzlichen Pegelschwankungen nach Regenfällen.",
+        "Das Buzău-Tal beherbergt einzigartige Höhlenkirchen aus dem Mittelalter.",
+        "Der Fluss dient als natürliche Wanderroute für zahlreiche Wildtierarten.",
+        "Im Unterlauf wird das Wasser intensiv für den Weinbau in der Region Dealu Mare genutzt.",
+        "In der Nähe finden sich fossile Bernsteinfunde, die weltweit bekannt sind."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1576,6 +3356,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A régió fővárosán folyik keresztül.", "Fontos az öntözés számára."],
       ro: ["Traversează Slobozia.", "Important pentru irigații."],
       en: ["Flows through Slobozia.", "Crucial for irrigation."]
+    },
+    descriptionAdvanced: {
+      de: "Die Ialomița ist einer der wichtigsten Flüsse im Süden Rumäniens und ein Symbol für die weite Walachische Tiefebene. Sie entspringt in den majestätischen Bucegi-Bergen, wo sie durch spektakuläre Schluchten und Höhlen fließt, bevor sie die Ebene erreicht und sich in einen ruhigen, breiten Strom verwandelt. Die Ialomița durchquert das landwirtschaftliche Herz Rumäniens, den Bărăgan, und ist seit jeher eine lebenswichtige Wasserquelle für die Bewässerung der fruchtbaren Felder. Entlang ihres Laufs liegen bedeutende Städte und historische Siedlungen, die von der strategischen Bedeutung des Flusses zeugen. Die Ialomița mündet schließlich in die Donau und bildet dabei weite Auenlandschaften, die reich an Flora und Fauna sind. Für die Menschen in der Region ist der Fluss nicht nur ein geografisches Element, sondern ein Teil ihrer kulturellen Identität, besungen in zahlreichen Volksliedern und Legenden über die Weite und Melancholie der rumänischen Steppe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ialomița hat eine Gesamtlänge von etwa 417 Kilometern.",
+        "An ihrem Oberlauf befindet sich die berühmte Ialomița-Höhle mit einem Kloster.",
+        "Der Fluss ist die Hauptwasserquelle für den Kreis Ialomița.",
+        "In der Antike war der Fluss unter dem Namen 'Naparis' bekannt.",
+        "Die Ialomița durchfließt den Bărăgan, die trockenste Region Rumäniens.",
+        "An seinen Ufern finden sich wichtige archäologische Überreste der Geto-Daker.",
+        "Der Fluss bildet zahlreiche Mäander und Altwasserarme in der Ebene.",
+        "Die Ialomița spielt eine zentrale Rolle in der rumänischen Literatur und Folklore."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1595,6 +3396,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Halakban gazdag.", "Egy öntözőrendszer része."],
       ro: ["Bogat în diverse specii de pești.", "Parte dintr-un sistem hidro."],
       en: ["Rich in fish species.", "Part of a hydro-irrigation system."]
+    },
+    descriptionAdvanced: {
+      de: "Der Mostiștea-See ist einer der größten und bedeutendsten Seen im Süden Rumäniens, gelegen in der fruchtbaren Donauebene des Kreises Călărași. Dieses weitläufige Gewässer ist ein wahres Paradies für Sportfischer und Naturliebhaber gleichermaßen. Mit seiner beeindruckenden Fläche und dem Reichtum an verschiedenen Fischarten wie Karpfen, Wels und Zander zieht der See jährlich zahlreiche Besucher an, die die Ruhe und die unberührte Natur suchen. Ursprünglich Teil eines komplexen Systems von Seen entlang des Mostiștea-Flusses, spielt er heute eine zentrale Rolle in der regionalen Wasserwirtschaft und dient als wichtiges Reservoir für die Bewässerung der umliegenden landwirtschaftlichen Flächen. Die sanften Ufer und die weite Horizontlinie der Bărăgan-Steppe verleihen dem Ort eine fast meditative Atmosphäre. Neben seiner wirtschaftlichen Bedeutung ist der See auch ein wertvoller Lebensraum für zahlreiche Wasservögel, was ihn zu einem wichtigen ökologischen Refugium in der ansonsten intensiv genutzten Agrarlandschaft macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Mostiștea-See ist eines der größten Binnengewässer im Süden der Walachei.",
+        "Er ist bekannt für seine hervorragenden Bedingungen für das Sportfischen auf Raubfische.",
+        "Der See ist Teil einer Kette von anthropogenen Seen entlang des gleichnamigen Flusses.",
+        "Er dient als strategisches Wasserreservoir für die Bewässerung in der Bărăgan-Steppe.",
+        "Zahlreiche Zugvögel nutzen das Gewässer als Rastplatz auf ihrer Route nach Süden.",
+        "Die Umgebung des Sees ist geprägt von einer reichen, steppentypischen flora.",
+        "Der See hat eine große Bedeutung für die lokale Fischereiwirtschaft der Region.",
+        "In der Nähe finden sich archäologische Spuren früherer Siedlungen aus der Bronzezeit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1614,6 +3436,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Egykori tengeri lagúna.", "Fontos élőhely a madaraknak."],
       ro: ["Fostă lagună marină.", "Habitat important pentru păsări."],
       en: ["Former marine lagoon.", "Important habitat for birds."]
+    },
+    descriptionAdvanced: {
+      de: "Der Razim-See (oder Razelm) ist der flächenmäßig größte Süßwassersee Rumäniens und bildet den nördlichen Teil des gewaltigen Razim-Sinoe-Lagunenkomplexes. Gelegen südlich des Donaudeltas, war er ursprünglich eine Meeresbucht des Schwarzen Meeres, die durch die Ablagerung von Flusssedimenten und die Bildung von Sandnehrungen vom offenen Meer getrennt wurde. Heute ist der See ein ökologisches Juwel von europäischem Rang und Teil des Biosphärenreservats Donaudelta. Die schier endlose Wasserfläche bietet einen atemberaubenden Anblick, besonders bei Sonnenuntergang, wenn sich der Himmel im spiegelglatten Wasser bricht. Für die Vogelwelt ist der Razim-See ein lebensnotwendiges Refugium; tausende von Pelikanen, Reihern und seltenen Zugvögeln finden hier ideale Brut- und Rastbedingungen. Die traditionelle Fischerei prägt seit Jahrhunderten das Leben in den umliegenden Dörfern, wo die Zeit oft langsamer zu laufen scheint. Für Reisende bietet der See eine einzigartige Mischung aus maritimer Weite und der mystischen Stille der Delta-Landschaft, fernab von ausgetretenen Touristenpfaden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Razim-See ist das größte Süßwasserbecken im gesamten Donaudelta-System.",
+        "Er entstand durch die Abtrennung einer ehemaligen Schwarzmeerbucht vom offenen Meer.",
+        "Der See ist ein Schlüsselhabitat für den Schutz des Krauskopf-Pelikans in Europa.",
+        "Mit einer Tiefe von meist nur wenigen Metern ist er ein typisches Lagunengewässer.",
+        "Der See ist über Kanäle direkt mit dem Sfântu-Gheorghe-Arm der Donau verbunden.",
+        "In der Mitte des Sees liegt die Insel Popina, ein geschütztes Naturreservat.",
+        "Die Region um den See ist reich an griechischen und römischen Ruinen (z.B. Enisala).",
+        "Der Razim-See ist ein bedeutendes Fanggebiet für Süßwasserfische wie Brachsen und Hechte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1633,6 +3476,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Románia legrégebbi városa közelében.", "A Duna-delta rezervátum része."],
       ro: ["Lângă cea mai veche așezare.", "Parte din rezervația Deltei."],
       en: ["Near the oldest RO settlement.", "Part of the Danube Delta Reserve."]
+    },
+    descriptionAdvanced: {
+      de: "Der Sinoe-See ist ein faszinierendes Brackwassergebiet an der rumänischen Schwarzmeerküste und der südlichste Teil des Razim-Sinoe-Komplexes. Im Gegensatz zum nördlich gelegenen Razim-See weist der Sinoe-See einen höheren Salzgehalt auf, da er noch einen begrenzten Austausch mit dem Meer besitzt. Diese besondere chemische Zusammensetzung schafft ein einzigartiges Ökosystem, das eine spezialisierte Flora und Fauna beherbergt. Weltweite Bekanntheit erlangte die Region vor allem durch die antike Stadt Histria, die älteste städtische Siedlung auf rumänischem Boden, die einst als griechische Kolonie am Ufer dieses damals noch offenen Golfs gegründet wurde. Heute liegen die Ruinen malerisch am Rande des Sees und bieten eine tiefgreifende historische Dimension inmitten der wilden Natur. Der Sinoe-See ist ein Paradies für Ornithologen, da er als wichtiger Rastplatz auf der via pontica, einer der Hauptzugvogelrouten Europas, dient. Die weite, flache Landschaft, geprägt von Schilfgürteln und salzigen Wiesen, strahlt eine archaische Ruhe aus, die Besucher in ihren Bann zieht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Sinoe-See ist bekannt für seine Lage unmittelbar neben den Ruinen von Histria.",
+        "Er ist ein Brackwassersee mit schwankendem Salzgehalt je nach Meeresverbindung.",
+        "Der See gehört zum UNESCO-Weltnaturerbe Biosphärenreservat Donaudelta.",
+        "Er dient als wichtiges Überwinterungsquartier für die seltene Rothalsgans.",
+        "Die Wassertiefe des Sees ist sehr gering und überschreitet selten zwei Meter.",
+        "Der See ist durch Sanddünen und Nehrungen vom Schwarzen Meer getrennt.",
+        "In der Antike war das Gebiet ein schiffbarer Golf, der den Zugang zu Histria ermöglichte.",
+        "Die Fischfauna besteht aus einer Mischung aus Süßwasser- und Meeresarten."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1652,6 +3516,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Románia legnagyobb sós tava.", "Fontos gyógyhely."],
       ro: ["Cel mai mare lac sărat din țară.", "Stațiune balneară importantă."],
       en: ["Largest salt lake in Romania.", "Important balneary resort."]
+    },
+    descriptionAdvanced: {
+      de: "Der Techirghiol-See, direkt südlich von Konstanza gelegen, ist eine weltweit bekannte Naturbesonderheit und der größte Salzsee Rumäniens. Berühmt wurde das Gewässer vor allem durch seinen heilkräftigen Sapropel-Schlamm, der in Kombination mit dem hoch konzentrierten Salzwasser bei der Behandlung von rheumatischen und dermatologischen Erkrankungen wahre Wunder wirkt. Die Legende besagt, dass ein blinder und gelähmter alter Mann namens Techir durch das Bad im See geheilt wurde, was dem See seinen Namen gab. Heute ist Techirghiol ein bedeutendes Zentrum für Balneologie, das Gäste aus aller Welt anzieht. Der Salzgehalt des Sees ist so hoch, dass man – ähnlich wie im Toten Meer – mühelos an der Oberfläche treiben kann. Neben seiner medizinischen Bedeutung ist der See auch ein ökologisch wertvolles Gebiet; trotz des hohen Salzgehalts hat sich hier eine spezialisierte Mikrofauna entwickelt, die als Grundlage für den Heilprozess gilt. Die ruhige Atmosphäre am Ufer, gepaart mit der gesunden Meeresluft, macht Techirghiol zu einem Ort der Regeneration für Körper und Geist.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Techirghiol ist der salzhaltigste See Rumäniens mit einer hohen Mineralkonzentration.",
+        "Der schwarze Sapropel-Schlamm des Sees ist international für seine Heilkraft zertifiziert.",
+        "Der See liegt nur wenige hundert Meter vom Schwarzen Meer entfernt.",
+        "Die Heilbehandlungen in Techirghiol haben eine Tradition, die bis ins 19. Jahrhundert zurückreicht.",
+        "Durch die hohe Dichte des Wassers können Schwimmer kaum untergehen.",
+        "Der See ist ein geschütztes Gebiet für seltene Wasservögel, die im salzigen Wasser Nahrung finden.",
+        "Die Schlammablagerungen am Boden des Sees benötigen Jahrtausende für ihre Bildung.",
+        "Am Ufer befindet sich das berühmte Sanatorium und das Kloster Heiliger Maria."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1671,6 +3556,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Híres a vadlovairól.", "Homokdűnék és liánok."],
       ro: ["Faimoasă pentru caii sălbatici.", "Dune de nisip și liane."],
       en: ["Famous for wild horses.", "Features sand dunes and lianas."]
+    },
+    descriptionAdvanced: {
+      de: "Der Letea-Wald ist ein Naturwunder von archaischer Schönheit und der nördlichste subtropische Wald Europas, tief im Herzen des Donaudeltas gelegen. Dieser einzigartige Urwald wächst in den Senken zwischen hohen Sanddünen und bietet einen Anblick, der eher an eine ferne Tropeninsel als an Osteuropa erinnert. Uralte Eichen, die teilweise über 500 Jahre alt sind, werden hier von exotischen Lianen (Wilder Wein und Waldreben) umschlungen, die von den Ästen herabhängen. Weltweit berühmt ist Letea jedoch für seine Wildpferde – hunderte von ihnen leben hier völlig frei und galoppieren über die Sandflächen, was dem Ort eine unvergleichliche Wildwest-Atmosphäre verleiht. Der Wald steht unter strengem Naturschutz und darf nur auf markierten Wegen und in Begleitung von Rangern besucht werden. Die Kombination aus Wüstenlandschaft (Sanddünen), üppigem Dschungel und einer reichen Fauna mit Seeadlern und Schildkröten macht Letea zu einem der faszinierendsten und mystischsten Orte Rumäniens, der die unbändige Kraft der unberührten Natur verkörpert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Letea ist das älteste Naturreservat Rumäniens (geschützt seit 1938).",
+        "Hier wachsen subtropische Kletterpflanzen wie die Griechische Liane.",
+        "Die Wildpferde von Letea sind eine der letzten frei lebenden Populationen in Europa.",
+        "Der Wald wächst auf den Überresten antiker Sanddünen des Schwarzen Meeres.",
+        "Einige der Eichen im Wald haben einen Stammumfang von über zwei Metern.",
+        "Der Wald beherbergt seltene Reptilien wie die Maurische Landschildkröte.",
+        "Letea ist ein Rückzugsort für den majestätischen Seeadler.",
+        "Das Dorf Letea in der Nähe ist bekannt für seine traditionellen blau-weißen Holzhäuser."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1690,6 +3596,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Népszerű síterep.", "Ősi bükkerdők."],
       ro: ["Destinație populară de schi.", "Păduri de fag virgine."],
       en: ["Popular skiing destination.", "Features virgin beech forests."]
+    },
+    descriptionAdvanced: {
+      de: "Das Semenic-Gebirge im Banat ist ein faszinierendes Naturparadies im Südwesten Rumäniens und ein bedeutender Teil des Banater Gebirges. Die Region ist bekannt für ihre sanften Gipfel, ausgedehnten Buchenwälder und das gleichnamige Hochplateau, das auf über 1.400 Metern Höhe liegt. Als beliebtes Ziel für Outdoor-Enthusiasten bietet das Gebirge im Winter hervorragende Bedingungen für Skifahrer und Snowboarder, während es im Sommer Wanderer mit einem dichten Netz an markierten Wegen anzieht. Besonders sehenswert ist der Nationalpark Semenic-Cheile Carașului, der mit seinen spektakulären Schluchten und einer einzigartigen Flora und Fauna besticht. Die Region ist zudem für ihre klare Gebirgsluft und die idyllischen Stauseen wie den Trei Ape See bekannt, die ideale Bedingungen für Erholung und Wassersport bieten. Mit seiner Mischung aus wilder Natur und touristischer Infrastruktur ist das Semenic-Gebirge ein Juwel in der Region Karasch-Severin.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Semenic-Gipfel ist mit 1.447 Metern die höchste Erhebung des Gebirges.",
+        "Die Region beherbergt einen der größten zusammenhängenden Buchenurwälder Europas.",
+        "Das Skigebiet Semenic gilt als eines der schneesichersten Gebiete im Banat.",
+        "Der Nationalpark Semenic-Cheile Carașului umfasst beeindruckende Karstlandschaften.",
+        "Die Schluchten des Flusses Caraș gehören zu den längsten und wildesten in Rumänien.",
+        "Das Hochplateau bietet spektakuläre Panorama-Aussichten bis weit in die Donau-Ebene.",
+        "In der Region finden sich zahlreiche seltene Pflanzenarten und geschützte Orchideen.",
+        "Die Stauseen der Umgebung dienen sowohl der Energiegewinnung als auch der Naherholung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1709,6 +3636,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Vas és márvány bányászata.", "Sűrű vegyes erdők."],
       ro: ["Exploatări de fier și marmură.", "Păduri dese de amestec."],
       en: ["Mining of iron and marble.", "Dense mixed forests."]
+    },
+    descriptionAdvanced: {
+      de: "Das Poiana-Ruscă-Gebirge erstreckt sich als markantes Massiv zwischen dem Banat und Siebenbürgen und ist für seine reiche geologische Vielfalt bekannt. Dieses Gebirge spielt eine zentrale Rolle in der Geschichte der rumänischen Industrie, da es bedeutende Vorkommen an Eisenerz und den berühmten Marmor von Rușchița beherbergt, der weltweit für seine Qualität geschätzt wird. Die Landschaft ist geprägt von dichten Mischwäldern, tiefen Tälern und abgerundeten Bergrücken, die ideale Bedingungen für ausgedehnte Wanderungen und Naturbeobachtungen bieten. Abseits der industriellen Zentren bewahrt das Poiana-Ruscă-Gebirge eine wilde Ursprünglichkeit, in der seltene Tierarten wie Braunbären und Luchse ihren Lebensraum finden. Die traditionellen Dörfer am Fuße des Gebirges pflegen bis heute ein reiches kulturelles Erbe und eine authentische Gastfreundschaft. Für Reisende bietet das Massiv eine einzigartige Kombination aus industriegeschichtlicher Bedeutung und unberührter Naturschönheit, die weit entfernt vom Massentourismus liegt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Massiv wird durch die Flüsse Mureș im Norden und Bega im Süden begrenzt.",
+        "Der höchste Gipfel ist der Padeș mit einer Höhe von 1.374 Metern.",
+        "Der Marmor aus Rușchița wurde unter anderem für den Bau des Palastes des Volkes in Bukarest verwendet.",
+        "Das Gebirge ist ein wichtiges Wassereinzugsgebiet für die Flüsse Bega und Timiș.",
+        "Die Region Ghelari ist seit der Antike für den Abbau von hochwertigem Eisenerz bekannt.",
+        "Das Gebiet beherbergt ausgedehnte Buchen- und Fichtenwälder mit reichem Wildbestand.",
+        "Das Gebirge bildet eine natürliche Brücke zwischen den Süd- und den Westkarpaten.",
+        "Zahlreiche Höhlen und Karstformationen finden sich in den Kalksteinzonen des Gebirges."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1720,7 +3668,7 @@ export const poiExtraRo2: POI[] = [
     description: {
       de: "Bekannt für spektakuläre Kalksteinformationen und traditionelle Dörfer.",
       hu: "Látványos mészkőalakzatairól és hagyományos falvairól ismert.",
-      ro: "Cunoscuți pentru formațiuni calcaroase spectaculoase.",
+      ro: "Cunoscuți für formațiuni calcaroase spectaculoase.",
       en: "Known for spectacular limestone formations and traditional villages."
     },
     facts: {
@@ -1728,6 +3676,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Itt található Torockó falu.", "Számos mászóhely."],
       ro: ["Adăpostesc satul Rimetea.", "Multe zone de escaladă."],
       en: ["Home to Rimetea village.", "Features many climbing areas."]
+    },
+    descriptionAdvanced: {
+      de: "Das Trascău-Gebirge im Osten des Apuseni-Massivs ist eine der spektakulärsten Landschaften Siebenbürgens, geprägt von schroffen Kalksteinfelsen und malerischen Tälern. Bekannt für seine dramatischen Schluchten wie die Turda-Schlucht (Cheile Turzii) und die Schluchten von Râmeț, bietet das Gebirge eine atemberaubende Kulisse für Wanderer, Kletterer und Naturfotografen. Ein besonderes Highlight ist das Dorf Rimetea, das am Fuße des markanten Piatra Secuiului liegt und für seine einzigartige Architektur und das reiche ungarische Kulturerbe mit dem Europa-Nostra-Preis ausgezeichnet wurde. Die Region ist durchzogen von versteckten Höhlen, sprudelnden Quellen und traditionellen Almwirtschaften, die das Bild einer zeitlosen Kulturlandschaft vermitteln. Die Kombination aus extremen Höhenunterschieden, seltener Alpenflora und der herzlichen Gastfreundschaft der Bewohner macht das Trascău-Gebirge zu einem unvergesslichen Ziel.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Turda-Schlucht ist eines der bedeutendsten Naturreservate Rumäniens mit über 1.000 Pflanzenarten.",
+        "Das Dorf Rimetea (Eisenburg) ist berühmt dafür, dass die Sonne dort zweimal am Tag 'aufgeht'.",
+        "Der Piatra Secuiului ist ein imposanter Kalksteinfelsen, der das Dorf Rimetea überragt.",
+        "Die Râmeț-Schlucht bietet abenteuerliche Wanderwege direkt im Flussbett.",
+        "Zahlreiche mittelalterliche Festungsruinen, wie die Burg Trascăului, thronen auf den Gipfeln.",
+        "Das Gebirge beherbergt die Huda-lui-Papară-Höhle, eine der größten Fledermauskolonien Europas.",
+        "Die Region ist ein Paradies für Paraglider aufgrund der exzellenten Thermik am Piatra Secuiului.",
+        "Traditionelle Kalkbrennöfen sind in einigen Teilen des Gebirges noch heute in Betrieb."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1747,6 +3716,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Összefolyással keletkezik.", "Fontos a város történelmében."],
       ro: ["Format prin confluență.", "Important pentru istoria Clujului."],
       en: ["Formed by confluence.", "Key to the city's history."]
+    },
+    descriptionAdvanced: {
+      de: "Der Kleine Somesch (Someșul Mic) ist die Lebensader von Klausenburg (Cluj-Napoca) und spielt eine zentrale Rolle für die Identität und Geschichte der Stadt. Er entsteht durch den Zusammenfluss des Warmen und Kalten Somesch (Someșul Cald und Someșul Rece) bei Gilău und schlängelt sich durch das fruchtbare Klausenburger Becken. Entlang seiner Ufer in der Stadt finden sich zahlreiche Parks, Promenaden und moderne Freizeitflächen, die den Fluss zu einem beliebten Treffpunkt für Einwohner und Besucher machen. Strategisch war der Kleine Somesch entscheidend für die Ansiedlung der ersten Bewohner in der Antike und diente über Jahrhunderte als Energiequelle für Mühlen und Industriebetriebe. Heute wird der Fluss als grüner Korridor geschützt und revitalisiert, um das Stadtklima zu verbessern und die Artenvielfalt zu fördern. Mit seinen sanften Kurven und den malerischen Brücken prägt der Kleine Somesch das Stadtbild maßgeblich.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Fluss entsteht westlich von Klausenburg aus der Vereinigung zweier Quellflüsse.",
+        "Er durchquert das Stadtgebiet von West nach Ost auf einer Länge von etwa 15 Kilometern.",
+        "In Klausenburg wurden in den letzten Jahren umfangreiche Revitalisierungsprojekte am Ufer umgesetzt.",
+        "Der Fluss ist ein wichtiger Lebensraum für Wasservögel und verschiedene Fischarten mitten in der Stadt.",
+        "Historisch gesehen war der Kleine Somesch die Basis für das mittelalterliche Handwerk der Stadt.",
+        "Zahlreiche Brücken, darunter die berühmte Horea-Brücke, verbinden die Stadtteile über den Fluss.",
+        "Der Fluss speist mehrere künstliche Seen in der Umgebung, die der Erholung dienen.",
+        "Nach Verlassen der Stadt vereinigt er sich bei Dej mit dem Großen Somesch zum eigentlichen Somesch."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1766,6 +3756,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Világos, tiszta hegyi folyó.", "Később a Szamosba ömlik."],
       ro: ["Râu de munte cu ape limpezi.", "Se unește apoi cu Someșul Mic."],
       en: ["Clear mountain river.", "Later joins the Someșul Mic."]
+    },
+    descriptionAdvanced: {
+      de: "Der Große Somesch (Someșul Mare) ist einer der bedeutendsten Flüsse Nordrumäniens und entspringt in den majestätischen Höhen des Rodna-Gebirges. Auf seinem Weg durch die historische Region Năsăud und das nach ihm benannte Tal prägt er eine Landschaft von herber Schönheit und großer ökologischer Bedeutung. Als typischer Gebirgsfluss führt er im Oberlauf kristallklares, sauerstoffreiches Wasser, das ideale Lebensbedingungen für Forellen und andere empfindliche Fischarten bietet. Das Tal des Großen Somesch ist bekannt für seine reiche Tradition, die authentische Folklore und die gut erhaltenen Bräuche der Bewohner. Historisch gesehen war der Fluss ein wichtiger Transportweg für Holz und diente als Lebensgrundlage für zahlreiche Siedlungen am Fuße der Karpaten. Heute ist der Große Somesch nicht nur für Angler und Naturliebhaber attraktiv, sondern spielt auch eine wichtige Rolle für die regionale Wasserversorgung und die Landwirtschaft, bevor er sich bei Dej mit seinem Pendant zum Somesch vereint.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Große Somesch hat eine Gesamtlänge von etwa 130 Kilometern bis zum Zusammenfluss bei Dej.",
+        "Seine Quellen liegen im Rodna-Gebirge auf einer Höhe von über 2.000 Metern.",
+        "Der Fluss durchfließt bedeutende Orte wie Sângeorz-Băi, Beclean und Năsăud.",
+        "In seinem Oberlauf befinden sich spektakuläre Stromschnellen, die bei Kanufahrern beliebt sind.",
+        "Das Tal des Großen Somesch ist berühmt für die traditionellen Trachten der Region Năsăud.",
+        "Der Fluss ist bekannt für seinen Reichtum an Bachforellen und Äschen.",
+        "Zahlreiche Mineralwasserquellen entspringen in der geologischen Bruchzone entlang des Flusstals.",
+        "Der Someșul Mare trägt maßgeblich zur Wasserführung des Hauptflusses Somesch bei, der schließlich in die Theiß mündet."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1785,6 +3796,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Ókori római határvonal (limes).", "Túraútvonalak Zilah közelében."],
       ro: ["Vechiul limes roman.", "Trasee de drumeție lângă Zalău."],
       en: ["Ancient Roman limes location.", "Hiking trails near Zalău."]
+    },
+    descriptionAdvanced: {
+      de: "Das Meseș-Gebirge im Nordwesten Rumäniens ist eine sanfte, aber geschichtlich äußerst bedeutsame Gebirgskette, die eine natürliche Grenze zwischen dem Siebenbürgischen Becken und der Kreisch-Region bildet. Trotz seiner moderaten Höhenlagen besticht das Gebirge durch dichte Laubwälder, idyllische Lichtungen und eine Vielzahl von Wanderwegen, die besonders von der nahegelegenen Stadt Zalău aus leicht erreichbar sind. In der Antike war das Meseș-Gebirge von strategischer Bedeutung, da hier ein Teil des römischen Limes verlief, der das römische Dazien vor den Angriffen der 'freien Daker' schützte. Reste von Wachtürmen und Befestigungsanlagen zeugen noch heute von dieser bewegten Vergangenheit. Die Region bietet eine friedliche Atmosphäre abseits der großen Touristenströme und ist ideal für Tagesausflüge, bei denen man die Kombination aus unberührter Natur und archäologischen Entdeckungen genießen kann. Von den Kammwegen aus bieten sich weite Ausblicke über das Somesch-Plateau und das umliegende Hügelland.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der höchste Punkt des Meseș-Gebirges ist der Măgura Priei mit einer Höhe von 996 Metern.",
+        "Das Gebirge bildet eine markante Barriere für die feuchten Luftmassen aus dem Westen.",
+        "Auf den Kämmen des Meseș verlief die Außengrenze der römischen Provinz Dacia Porolissensis.",
+        "Das Gebirge besteht hauptsächlich aus kristallinen Schiefern und vulkanischen Gesteinen.",
+        "Die Wälder bestehen überwiegend aus Buchen, Eichen und Hainbuchen mit reichem Pilzvorkommen.",
+        "Zalău, die Hauptstadt des Kreises Sălaj, liegt direkt am Fuße des Gebirges.",
+        "Die Passstraße über das Meseș-Gebirge ist eine wichtige Verkehrsverbindung zwischen Cluj und Oradea.",
+        "Zahlreiche Quellen im Gebirge speisen die umliegenden Bäche der Region Sălaj."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1804,6 +3836,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Népszerű rafting helyszín.", "Átszeli a Király-hágót."],
       ro: ["Popular pentru rafting.", "Traversează Pasul Craiului."],
       en: ["Popular for rafting.", "Crosses the King's Pass."]
+    },
+    descriptionAdvanced: {
+      de: "Die Schnelle Kreisch (Crișul Repede) ist einer der dynamischsten und malerischsten Flüsse Westrumäniens und prägt maßgeblich das Gesicht der Stadt Oradea (Großwardein). Sie entspringt in den Tiefen des Apuseni-Gebirges und stürzt sich durch spektakuläre Kalksteinschluchten, bevor sie das flachere Hügelland erreicht. Besonders bekannt ist der Durchbruch des Flusses bei Șuncuiuș und Vadu Crișului, der mit seinen steilen Felswänden und zahlreichen Höhlen ein Paradies für Outdoor-Sportler wie Rafting-Begeisterte und Kletterer ist. In Oradea fließt die Schnelle Kreisch direkt durch das historische Zentrum und bildet mit ihren gepflegten Promenaden und dem Blick auf die prächtigen Jugendstilbauten das elegante Herzstück der Stadt. Der Fluss ist nicht nur ein ökologisch wertvoller Lebensraum, sondern auch ein Symbol für die Vitalität und den Charme der Region Bihor. Mit seinem kristallklaren Wasser im Oberlauf und der ruhigen Eleganz in der Stadt verbindet er wilde Natur mit urbaner Ästhetik.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Schnelle Kreisch hat eine Gesamtlänge von rund 209 Kilometern, wovon der Großteil in Rumänien liegt.",
+        "In der Schlucht von Vadu Crișului befindet sich ein spektakulärer Wasserfall direkt am Ufer.",
+        "Der Fluss ist eines der besten Reviere für Rafting und Kajaksport in ganz Rumänien.",
+        "Oradea nutzt die Ufer des Flusses für weitläufige Parkanlagen und moderne Fahrradwege.",
+        "Historisch gesehen war der Fluss ein wichtiger Handelsweg zwischen Siebenbürgen und der Pannonischen Tiefebene.",
+        "Der Name 'Repede' bezieht sich auf die hohe Fließgeschwindigkeit in den Gebirgsabschnitten.",
+        "In der Nähe des Flusses finden sich zahlreiche Thermalquellen, für die die Region Bihor berühmt ist.",
+        "Die Crișul Repede vereinigt sich in Ungarn mit der Weißen und Schwarzen Kreisch zur Kreisch (Körös)."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1823,6 +3876,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Történelmi bányavidék.", "Számos túraösvény."],
       ro: ["Regiune minieră istorică.", "Multe poteci de drumeție."],
       en: ["Historic mining region.", "Many hiking paths."]
+    },
+    descriptionAdvanced: {
+      de: "Das Zărand-Gebirge im Westen Rumäniens ist ein Teil des Apuseni-Massivs und besticht durch seine sanften Formen und die fast lückenlose Bewaldung. Es erstreckt sich nördlich des Flusses Mureș im Kreis Arad und bietet eine ruhige, oft unterschätzte Naturlandschaft. Die Landschaft ist geprägt von dichten Eichen- und Buchenwäldern, die zahlreichen Tierarten Schutz bieten und im Herbst in spektakulären Farben leuchten. Historisch gesehen war das Zărand-Gebirge eine wichtige Bergbauregion, in der Gold und andere Mineralien abgebaut wurden, was heute noch in verlassenen Stollen und kleinen Bergbausiedlungen sichtbar ist. Für Wanderer bietet das Gebirge ein weitläufiges Netz an Pfaden, die oft zu spektakulären Aussichtspunkten über das Mureș-Tal oder zu verborgenen Klöstern wie Maria Radna am Fuße des Massivs führen. Die Abgeschiedenheit und die reine Waldluft machen das Zărand-Gebirge zu einem idealen Rückzugsort für Erholungssuchende, die die Stille der Natur fernab der großen Touristenrouten schätzen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der höchste Gipfel des Zărand-Gebirges ist der Highiș mit einer Höhe von 799 Metern.",
+        "Das Gebirge wird im Süden durch das tief eingeschnittene Tal des Flusses Mureș begrenzt.",
+        "Die Festung Șiria am Rand des Gebirges ist ein bedeutendes historisches Denkmal mit Panoramablick.",
+        "Die Region ist bekannt für den Weinanbau an den sonnigen Hängen des Gebirges (Podgoria Aradului).",
+        "Das Zărand-Gebirge beherbergt eine Vielzahl von Heilpflanzen und seltenen Pilzarten.",
+        "Es gibt zahlreiche Mineralwasserquellen, die seit Jahrhunderten von der lokalen Bevölkerung genutzt werden.",
+        "Die dichten Wälder bieten Lebensraum für Rehe, Wildschweine und eine reiche Vogelwelt.",
+        "Das Gebirge spielt eine wichtige Rolle als lokaler Erholungsraum für die Bewohner der Stadt Arad."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1842,6 +3916,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az első hajózható csatorna Romániában.", "Kerékpárutak a parton."],
       ro: ["Primul canal navigabil din RO.", "Piste de biciclete pe mal."],
       en: ["First navigable canal in RO.", "Bike paths along the banks."]
+    },
+    descriptionAdvanced: {
+      de: "Die Bega ist der zentrale Fluss von Temeswar (Timișoara) und ein herausragendes Beispiel für die gelungene Transformation eines natürlichen Wasserlaufs in ein urbanes Schmuckstück. Als erster schiffbarer Kanal Rumäniens hat die Bega eine enorme historische Bedeutung für den Handel und die Entwicklung des Banats. In der Stadt Temeswar wurde der Fluss kanalisiert und seine Ufer in prächtige Parks und Grünanlagen verwandelt, die heute das kulturelle und soziale Leben der Stadt prägen. Mit den charakteristischen Wassertaxis, den zahlreichen Brücken und den kilometerlangen Fahrradwegen am Ufer bietet die Bega eine Lebensqualität, die Temeswar oft den Beinamen 'Klein-Wien' eingebracht hat. Der Fluss verbindet das historische Stadtzentrum mit den modernen Wohnvierteln und mündet schließlich in Serbien in die Theiß. Die Revitalisierung des Bega-Kanals ist ein Vorzeigeprojekt für nachhaltige Stadtentwicklung und macht den Fluss zu einem unverwechselbaren Wahrzeichen der Banater Metropole.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Bega wurde bereits im 18. Jahrhundert unter habsburgischer Verwaltung kanalisiert.",
+        "Der Bega-Kanal verbindet Temeswar über die Theiß und die Donau mit dem europäischen Schifffahrtsnetz.",
+        "Temeswar war die erste Stadt in Rumänien, die einen öffentlichen Nahverkehr auf dem Wasser einführte.",
+        "Die Radwege entlang der Bega führen von Temeswar bis weit über die Grenze nach Serbien.",
+        "Der Fluss ist ein beliebter Ort für Ruderwettbewerbe und Freizeitpaddler.",
+        "Zahlreiche Cafés und Kulturzentren auf Schiffen beleben das Ufer im Stadtzentrum.",
+        "Die Bega dient auch der Regulierung des Grundwasserspiegels in der banatischen Tiefebene.",
+        "Das Wasserkraftwerk an der Bega in Temeswar ist eines der ältesten in Rumänien."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1861,6 +3956,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Herkulesfürdő közelében.", "Látványos mészkősziklák."],
       ro: ["Lângă Băile Herculane.", "Stânci calcaroase spectaculoase."],
       en: ["Near Băile Herculane resort.", "Spectacular limestone cliffs."]
+    },
+    descriptionAdvanced: {
+      de: "Das Mehedinți-Gebirge im Südwesten Rumäniens ist eine spektakuläre Kalksteinlandschaft, die für ihre wilden Karstformationen, tiefen Schluchten und mystischen Höhlen bekannt ist. Als Teil der Südkarpaten bietet es eine der dramatischsten Naturkulissen des Landes, besonders in der Nähe des traditionsreichen Kurortes Herkulesbad (Băile Herculane). Die schroffen, weißen Felswände stehen im starken Kontrast zu den dichten Wälder und den smaragdgrünen Bächen, die sich durch das Gebirge schlängeln. Wanderer finden hier anspruchsvolle Pfade, die zu atemberaubenden Aussichtspunkten über das Cerna-Tal führen. Einzigartig ist das submediterrane Klima der Region, das eine außergewöhnliche Flora mit seltenen Pflanzen wie der Banater Schwarzkiefer ermöglicht. Die Kombination aus Thermalquellen, unberührter Wildnis und der reichen Mythologie, die eng mit dem antiken Helden Herkules verknüpft ist, verleiht dem Mehedinți-Gebirge eine ganz besondere, fast magische Atmosphäre, die Abenteurer und Erholungssuchende gleichermaßen in ihren Bann zieht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der höchste Gipfel ist der Vârful lui Stan mit einer Höhe von 1.466 Metern.",
+        "Das Gebirge ist berühmt für die Banater Schwarzkiefer, die an den steilen Felswänden wächst.",
+        "Zahlreiche Höhlen wie die Peștera Piatra Mare bieten faszinierende Einblicke in die Unterwelt.",
+        "Die Schluchten der Cerna gehören zu den tiefsten und spektakulärsten Tälern der Karpaten.",
+        "Das Gebiet gehört zum Nationalpark Domogled-Valea Cernei, dem größten Nationalpark Rumäniens.",
+        "In der Region finden sich seltene Insektenarten und eine große Vielfalt an Schmetterlingen.",
+        "Herkulesbad am Fuße des Gebirges ist seit der Römerzeit für seine heilenden Thermalquellen bekannt.",
+        "Das Gebirge bietet exzellente Bedingungen für Felsklettern an Kalksteinwänden."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1880,6 +3996,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["Számos vízierőmű található rajta.", "Az Olt-völgyet alkotja."],
       ro: ["Numeroase hidrocentrale.", "Formează Valea Oltului."],
       en: ["Numerous hydroelectric plants.", "Forms the Olt Valley."]
+    },
+    descriptionAdvanced: {
+      de: "Der Alt (Olt) ist einer der mächtigsten und geschichtsträchtigsten Flüsse Rumäniens, der das Land wie ein blaues Band von Norden nach Süden durchzieht. Er entspringt im Hășmaș-Gebirge in den Ostkarpaten und hat sich auf seinem Weg durch die Südkarpaten einen der spektakulärsten Durchbrüche Europas geschaffen – das Olt-Tal (Valea Oltului). Diese Schlucht ist seit der Antike eine lebenswichtige Verkehrsverbindung zwischen Siebenbürgen und der Walachei und beherbergt heute zahlreiche Klöster wie Cozia, die direkt am Ufer thronen. Der Olt ist zudem der am stärksten für die Wasserkraft genutzte Fluss des Landes, mit einer Kette von Stauseen, die die Landschaft prägen und als wichtige Energiequelle dienen. Trotz der intensiven Nutzung bewahrt der Fluss in vielen Abschnitten seine natürliche Schönheit und bietet wichtige Rückzugsräume für Wasservögel und seltene Fischarten. Mit seiner Mischung aus wilder Gebirgskraft und ruhiger Präsenz in der Ebene ist der Olt ein unverzichtbares Element der rumänischen Geografie und Kulturgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Mit über 600 Kilometern Länge ist der Olt einer der längsten Flüsse, die ausschließlich in Rumänien fließen.",
+        "Das Olt-Tal durchschneidet die Südkarpaten und trennt das Făgăraș- vom Parâng-Gebirge.",
+        "Entlang des Flusses wurden über 30 Wasserkraftwerke errichtet, die einen großen Teil des Stroms liefern.",
+        "Das Kloster Cozia am Olt ist eines der wertvollsten Denkmäler mittelalterlicher Kunst in Rumänien.",
+        "Der Fluss durchfließt bedeutende Städte wie Slatina, Râmnicu Vâlcea und Sfântu Gheorghe.",
+        "In der Antike verlief entlang des Olt der römische Limes Alutanus zur Verteidigung der Provinz.",
+        "Die Stauseen des Olt sind wichtige Rastplätze für Zugvögel auf ihrem Weg nach Süden.",
+        "Der Olt mündet schließlich im Süden bei Islaz in die Donau."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1899,6 +4036,27 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Dunába torkollik.", "Fontos a mezőgazdaság számára."],
       ro: ["Se varsă în Dunăre.", "Crucial pentru agricultură."],
       en: ["Flows into the Danube.", "Crucial for agriculture."]
+    },
+    descriptionAdvanced: {
+      de: "Die Vedea ist ein charakteristischer Fluss der Walachischen Tiefebene im Süden Rumäniens und ein lebenswichtiger Faktor für die dortige Landwirtschaft. Sie entspringt in den sanften Hügeln des Gethischen Vorlandes und schlängelt sich durch die weiten Ebenen der Kreise Argeș, Teleorman und Olt, bevor sie in die Donau mündet. Auf ihrem Weg passiert sie die Stadt Alexandria, wo sie das lokale Landschaftsbild prägt. Die Vedea ist bekannt für ihre ruhige Fließgeschwindigkeit und die fruchtbaren Schwemmlandböden in ihrem Tal, die seit Jahrhunderten für den Anbau von Getreide und Gemüse genutzt werden. Trotz ihrer eher bescheidenen Größe spielt sie eine entscheidende Rolle im hydrologischen System Südrumäniens und dient als wichtige Bewässerungsquelle während der trockenen Sommermonate. Die Ufer der Vedea bieten ruhige Naturräume mit typischer Auenvegetation, die besonders für Angler und Naturliebhaber aus der Region einen geschätzten Erholungsort darstellen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Vedea hat eine Gesamtlänge von etwa 224 Kilometern.",
+        "Der Name des Flusses hat vermutlich dako-thrakische Wurzeln und bedeutet 'Wasser'.",
+        "Die Vedea durchfließt die Stadt Alexandria, die Hauptstadt des Kreises Teleorman.",
+        "Der Fluss mündet in der Nähe der Stadt Bujoru direkt in die Donau.",
+        "Das Tal der Vedea ist eines der fruchtbarsten Gebiete der Walachischen Tiefebene.",
+        "Während der Schneeschmelze im Frühjahr kann der Flusspegel deutlich ansteigen.",
+        "Die Fischfauna umfasst typische Arten der Tieflandflüsse wie Karpfen und Brassen.",
+        "Die Vedea ist ein wichtiger Bestandteil der regionalen Bewässerungssysteme für die Landwirtschaft."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];

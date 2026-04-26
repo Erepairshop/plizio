@@ -45,6 +45,20 @@ export const poiExtraDe4a: POI[] = [
         "The Egapark Erfurt is one of Germany's largest horticultural parks.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Erfurt, Türingia tartomány lenyűgöző fővárosa, Németország egyik legszebb és leginkább épségben maradt középkori történelmi magjával büszkélkedhet. A város több mint 1200 éves múltra tekint vissza, és a Kereskedők hídja (Krämerbrücke), valamint az Erfurti dóm ikonikus sziluettje is a gazdag örökségről tanúskodik. Luther Márton is itt tanult az egyetemen, amely Európa egyik legrégebbi oktatási intézménye. A dombokkal körülvett, folyóparti település ma a középkori kereskedelem emlékét őrzi, miközben modern, pezsgő egyetemi és kulturális központként vonzza a látogatókat.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A város lakossága meghaladja a 210 000 főt, ezzel Türingia legnagyobb városa.",
+        "Erfurtot először 742-ben említette írásban Szent Bonifác.",
+        "A híres Kereskedők hídja 120 méter hosszú és 32 beépített házzal rendelkezik.",
+        "Az Erfurti dóm, a Mariendom építése 1154-ben kezdődött román stílusban.",
+        "A helyi egyetemet 1392-ben alapították, amely a német nyelvterület egyik legrégebbi egyeteme.",
+        "A város tengerszint feletti magassága átlagosan 200 méter."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -88,6 +102,20 @@ export const poiExtraDe4a: POI[] = [
         "The Duchess Anna Amalia Library holds over one million books.",
         "Weimar Classicism had a lasting influence on German literature.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "Weimar a német kultúra, irodalom és filozófia lüktető szíve, amely az UNESCO világörökségének is része. Ez a türingiai kisváros Goethe és Schiller egykori otthonaként vált a weimari klasszicizmus központjává. Emellett a huszadik század elején itt alapították a forradalmi Bauhaus építészeti és művészeti mozgalmat, és itt jött létre az 1919-es weimari köztársaság is. Lenyűgöző kastélyai, történelmi parkjai és a világviszonylatban is egyedülálló Anna Amalia Könyvtár olyan atmoszférát teremtenek, amely mindenkit azonnal a múltba kalauzol.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A weimari Anna Amalia Könyvtárban több mint 1 millió kötetet őriznek.",
+        "Johann Wolfgang von Goethe 50 éven át, egészen haláláig élt a városban.",
+        "A híres Bauhaus művészeti iskolát 1919-ben alapította itt Walter Gropius.",
+        "A történelmi belváros és a kastélyok 1998-ban kerültek az UNESCO világörökségi listájára.",
+        "Weimar lakossága napjainkban hozzávetőlegesen 65 000 fő.",
+        "Az 1919-ben kikiáltott weimari köztársaság nemzetgyűlése a helyi Nemzeti Színházban ülésezett."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -133,6 +161,20 @@ export const poiExtraDe4a: POI[] = [
         "Jena is located in the Saale valley surrounded by impressive limestone cliffs.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Jena nem csupán egy festői fekvésű város a Saale folyó völgyében, hanem a német optikai és finommechanikai ipar szülőhazája is. Carl Zeiss, Ernst Abbe és Otto Schott itt alapozták meg a modern üveg- és lencsegyártást a 19. században. A 16. században alapított egyeteme a német filozófia fellegvára volt, ahol olyan nevek tanítottak, mint Hegel és Schiller. A modern Jena egyszerre büszke tudományos örökségére, a lenyűgöző planetáriumára és a környező hegyek nyújtotta páratlan panorámára.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A jenai Friedrich Schiller Egyetemet 1558-ban alapították.",
+        "A város optikai iparát megalapozó Carl Zeiss Műveket 1846-ban hozták létre.",
+        "A Zeiss Planetárium a világ legrégebbi, folyamatosan működő planetáriuma, amely 1926-ban nyílt meg.",
+        "A Jentower 144 méteres magasságával a város legmagasabb felhőkarcolója.",
+        "Jena lakossága több mint 110 000 fő, így Türingia második legnagyobb települése.",
+        "A város a tengerszint felett 143 méteren fekszik, hegyekkel körülvéve."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -177,6 +219,20 @@ export const poiExtraDe4a: POI[] = [
         "Elizabeth of Thuringia lived at the Wartburg in the 13th century.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Wartburg vára nemcsak Németország egyik legismertebb erődítménye, hanem az európai történelem egyik legfontosabb szimbóluma is. Az Eisenach felett magasodó vár 1999 óta az UNESCO világörökség része. Ez a helyszín nyújtott menedéket 1521-ben Luther Mártonnak, aki itt fordította le az Újszövetséget németre mindössze tizenegy hét alatt, megteremtve ezzel a modern német irodalmi nyelvet. Emellett a középkori lovagi kultúra és a trubadúrok dalnokversenyeinek legendás helyszíneként is a történelem elválaszthatatlan része.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A várat a hagyomány szerint 1067-ben alapította Ugró Lajos türingiai gróf.",
+        "Luther Márton 1521 és 1522 között, 300 napig élt itt álruhában.",
+        "Az erődítmény 400 méteres tengerszint feletti magasságban trónol.",
+        "Az Újszövetség német nyelvű fordítását mindössze 11 hét alatt készítette el Luther.",
+        "A Wartburg volt a helyszíne a híres 1817-es wartburgi diákünnepélynek.",
+        "A vár évente több mint 350 000 látogatót fogad a világ minden tájáról."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -220,6 +276,20 @@ export const poiExtraDe4a: POI[] = [
         "The summit features a weather station and transmission masts.",
         "In winter, the surrounding slopes offer cross-country ski trails and toboggan runs.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Großer Beerberg a Türingiai-erdő legmagasabb pontja, amely vadregényes tájaival és sűrű fenyveseivel lenyűgözi a természetjárókat. A hegycsúcs vulkanikus eredetű kőzetekből épül fel, és környezete szigorúan védett természetvédelmi terület, amely ritka alpesi növényfajoknak ad otthont. A csúcs közelében található a híres Rennsteig túraútvonal, amely a gerinc mentén halad, történelmi határkövek és lélegzetelállító kilátópontok mellett, ahonnan tiszta időben akár a környező tartományokig is ellátni.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A hegycsúcs pontosan 982,9 méter magas a tengerszint felett.",
+        "A csúcs alatt található a Plänckners Aussicht, amely a hegy egyik legmagasabb kilátópontja (973 méter).",
+        "A hegy egy kihunyt vulkán maradványaiból, főként porfir kőzetből áll.",
+        "A hegycsúcs közelében húzódik a 169 km hosszú Rennsteig gerincút.",
+        "A terület magashegyi lápvidéke 1939 óta szigorúan védett természetvédelmi övezet.",
+        "A csúcs az Ilm és a Werra folyók közötti természetes vízválasztót alkotja."
+      ],
+      ro: [],
+      en: [],
     },
     elevation: 982,
   },
@@ -266,6 +336,20 @@ export const poiExtraDe4a: POI[] = [
         "The forest is home to rare animals such as the lynx and wildcat.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Türingiai-erdő Németország 'zöld szíveként' is ismert; ez a hegyvidéki erdőség végtelennek tűnő fenyveseivel és romantikus völgyeivel a természetjárók paradicsoma. A hegység gerincén húzódik Németország legrégebbi és legnépszerűbb túraútvonala, a történelmi Rennsteig, amely évszázadokon át kereskedelmi útként és határvonalként is szolgált. A régió nem csupán a túrázásról szól: a gazdag üvegfúvó hagyományok, az egykori bányászvárosok és a tiszta levegő egész évben felejthetetlen természeti élményt kínálnak a látogatóknak.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A hegyvonulat hossza hozzávetőlegesen 120 kilométer, szélessége pedig 35 kilométer.",
+        "A legnépszerűbb túraútvonal, a Rennsteig 169,3 kilométer hosszú.",
+        "A régió több mint 70 százalékát sűrű lucfenyő- és bükkerdők borítják.",
+        "A legmagasabb pontja a Großer Beerberg, amely 983 méter magasra emelkedik.",
+        "A terület egy részét már 1990-ben Naturpark (természeti park) minősítéssel látták el.",
+        "A Türingiai-erdő évente több millió turistát vonz a túrázás és a téli sportok miatt."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -309,6 +393,20 @@ export const poiExtraDe4a: POI[] = [
         "The Bleiloch Reservoir is the largest reservoir in Thuringia.",
         "The Saale Cascade comprises several dams and reservoirs.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Saale folyó Németország egyik legfestőibb vízfolyása, amely kanyarogva szeli át Türingia, Szászország és Szász-Anhalt tartományait, mielőtt az Elbába ömlik. Történelme és gazdasági jelentősége óriási: völgyében sűrűn sorakoznak a középkori várak, várromok és romantikus borvidékek. A folyón kialakított völgyzáró gátak és hatalmas mesterséges tavak – mint a Bleilochtalsperre – kiváló lehetőséget biztosítanak a vízi sportok szerelmeseinek. A Saale a német történelem és a természeti erőforrások tökéletes harmóniáját testesíti meg.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A Saale folyó teljes hossza 413 kilométer, amivel az Elba második leghosszabb mellékfolyója.",
+        "A folyó vízgyűjtő területe mintegy 24 100 négyzetkilométer.",
+        "A forrása a Fichtel-hegységben található, 728 méteres magasságban.",
+        "Türingia területén a folyó 5 gátból álló, egybefüggő víztározó-rendszert alkot.",
+        "A Saale mentén halad az egyik legkedveltebb német kerékpárút, a Saaleradweg (403 km).",
+        "A folyó völgyében terül el a Saale-Unstrut borvidék, amely a legészakibb minőségi bortermelő régió Németországban."
+      ],
+      ro: [],
+      en: [],
     },
     length: 427,
   },
@@ -355,6 +453,20 @@ export const poiExtraDe4a: POI[] = [
         "Downstream of the dam lies the Hofner Highland.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Bleilochtalsperre Németország legnagyobb víztározója térfogatát tekintve, amelyet a Saale folyó felduzzasztásával hoztak létre Türingiában az 1930-as években. A mesterséges tó kígyózó alakjával egy norvég fjordra emlékeztet, és hosszan kanyarog az erdőkkel borított dombok között. Eredetileg áramtermelésre és árvízvédelemre épült, ma azonban a régió egyik legnépszerűbb rekreációs központja, amely a vitorlázóktól kezdve a horgászokon át egészen az elektronikus zenei fesztiválok rajongóiig mindenkit vonz.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A víztározó maximális befogadóképessége lenyűgöző, eléri a 215 millió köbmétert.",
+        "A tó teljes hossza megközelítőleg 28 kilométer.",
+        "A gát építése 1926-ban kezdődött és 1932-ben fejeződött be.",
+        "A tó felszíni területe maximális vízállásnál eléri a 9,2 négyzetkilométert.",
+        "A duzzasztógát hossza 205 méter, magassága pedig 65 méter a folyómedertől számítva.",
+        "Minden év augusztusában a partján rendezik meg a híres 'SonneMondSterne' elektronikus zenei fesztivált."
+      ],
+      ro: [],
+      en: [],
+    },
     area: 9.2,
   },
 
@@ -400,6 +512,20 @@ export const poiExtraDe4a: POI[] = [
         "BMW produced cars in Eisenach for decades.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Eisenach történelmi városa a Türingiai-erdő északnyugati lábánál fekszik, és elválaszthatatlanul összefonódott Németország zenei és vallási múltjával. Ez a település volt Johann Sebastian Bach szülővárosa, aki itt tette meg első zenei lépéseit. Emellett a város határában magasodik a híres Wartburg vára is. Eisenach a 19. század óta fontos ipari központ is, a német autógyártás egyik bölcsőjeként ismerték. A város lenyűgöző polgárházai, zenei múzeumai és pezsgő kulturális élete minden látogatót magával ragad.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A zseniális zeneszerző, Johann Sebastian Bach 1685-ben született Eisenachban.",
+        "A városban működik az 1907-ben megnyitott, a világ első Bach-múzeuma.",
+        "Eisenach lakossága napjainkban megközelítőleg 42 000 fő.",
+        "Az első eisenachi autót, a Wartburg-motorkocsit 1898-ban gyártották le.",
+        "1869-ben itt alapították a Német Szociáldemokrata Párt egyik elődjét, az SDAP-t.",
+        "Eisenach tengerszint feletti magassága 215 méter, dombos, erdős vidéken terül el."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -443,6 +569,20 @@ export const poiExtraDe4a: POI[] = [
         "After 1945, the grounds were used by the Soviet Union as Special Camp No. 2.",
         "Today the memorial is one of the most visited in Germany.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Buchenwald Emlékhely Németország történelmének egyik legsötétebb fejezetét mutatja be, Weimar városának közelében az Ettersberg hegyen. Ez az egykori koncentrációs tábor 1937 és 1945 között százezrek számára jelentett szenvedést és sokaknak halált. Ma a komplexum múzeumként és emlékhelyként működik, amely mélyrehatóan tárja fel a holokauszt borzalmait és az emlékezés fontosságát. A helyszínen megmaradt barakk-alapok, az őrtornyok és a krematórium ma néma, de annál erőteljesebb figyelmeztetésként szolgálnak a jövő generációi számára.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A tábort 1937 nyarán hozták létre, hivatalosan Konzentrationslager Buchenwald néven.",
+        "1937 és 1945 között több mint 280 000 embert zártak itt be egész Európából.",
+        "A kegyetlenségek, az éhezés és a betegségek következtében mintegy 56 000 fogoly vesztette életét.",
+        "A tábort az amerikai csapatok szabadították fel 1945. április 11-én.",
+        "A második világháború után a szovjet megszállók 1950-ig szintén internálótáborként használták.",
+        "A hatalmas, több mint 50 méter magas Buchenwaldi Emlékművet 1958-ban adták át."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -488,6 +628,20 @@ export const poiExtraDe4a: POI[] = [
         "The botanical garden and the zoo are popular excursion destinations.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Gera Kelet-Türingia legfontosabb városa, amely a Fehér-Elster folyó festői völgyében terül el. A település egykor Európa textiliperának egyik legfontosabb központja volt, és a gazdag posztógyárosok által építtetett elegáns villák ma is meghatározzák a városképet. Bár a második világháború jelentős pusztítást végzett, a történelmi piac tér a reneszánsz városházával és a kiterjedt 'Geraer Höhler' (föld alatti sörpincék hálózata) egyedülálló hangulatot kölcsönöz a városnak. Gera emellett Otto Dix híres festőművész szülővárosa is.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A város lakossága meghaladja a 90 000 főt, ezzel Türingia harmadik legnépesebb települése.",
+        "Gera történelmi sörpince-hálózata (Geraer Höhler) összesen mintegy 9 kilométer hosszú.",
+        "A város híres szülötte, Otto Dix expresszionista festőművész 1891-ben látta meg itt a napvilágot.",
+        "A gerai városháza portálját 1576-ban építették kora reneszánsz stílusban.",
+        "A város már a 19. század végén saját, elektromos árammal működő villamoshálózatot kapott 1892-ben.",
+        "Az Otto Dix ház 1991 óta múzeumként működik és több mint 400 műalkotást mutat be."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -532,6 +686,20 @@ export const poiExtraDe4a: POI[] = [
         "The bridge measures 79 metres in length.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Az erfurti Kereskedők hídja (Krämerbrücke) Európa egyik legkülönlegesebb és legépebb középkori hídja, amely egyenesen a történelemkönyvek lapjairól lépett elő. A Gera folyó felett átívelő kőhíd teljes hosszában fagerendás házakkal van beépítve, melyekben ma kézművesek, antikváriusok és kis kávézók működnek. Az eredetileg fából, majd később kőből épült szerkezet az olaszországi Ponte Vecchio méltó párja az Alpoktól északra. Sétálni a macskakövein olyan, mintha egy élő múzeumban barangolnánk a középkori kereskedelem szívében.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A kőhidat 1325-ben építették újjá, miután a korábbi fahidak többször is leégtek.",
+        "A híd teljes hossza eléri a 120 métert, a szélessége pedig a 18 métert.",
+        "Eredetileg 62 épület kapott helyet rajta, melyeket mára 32 nagyobb házzá vontak össze.",
+        "Ez a leghosszabb, mindkét oldalán folyamatosan lakott hidja Európának az Alpoktól északra.",
+        "A híd íveit alkotó 6 boltozat homokkőből és mészkőből épült fel.",
+        "Minden év júniusában a város itt rendezi meg Közép-Németország legnagyobb óvárosi ünnepét, a Krämerbrückenfestet."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -575,6 +743,20 @@ export const poiExtraDe4a: POI[] = [
         "Bad Salzungen and Meiningen are located on the Werra.",
         "In the past, potash mining heavily polluted the Werra.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Werra a Weser folyó egyik legfőbb forrásfolyója, amely mély völgyeket és drámai mészkősziklákat vájva halad át Türingián. A folyó partja történelmi várakban, apró favázas házakkal büszkélkedő falvakban és dús erdőségekben gazdag. Különleges ökológiai sajátossága a környék sóbányászatából származó sós víz, amely egyedi állat- és növényvilágot alakított ki a mederben és annak partjain. A Werra völgye a kerékpárosok és a vízitúrázók egyik legnépszerűbb célpontja a térségben.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A Werra folyó hossza pontosan 299,6 kilométer, mielőtt Hann. Mündennél egyesül a Fuldával.",
+        "A folyó két különálló forrásból ered a Türingiai-erdő déli lejtőin, 797 és 800 méteres magasságban.",
+        "Vízgyűjtő területe megközelítőleg 5 496 négyzetkilométer.",
+        "A folyó esése a forrástól a torkolatig mintegy 680 méter.",
+        "A partján futó Werratal-Radweg (Werra-völgyi kerékpárút) körülbelül 300 kilométer hosszú.",
+        "A Werra vize a helyi kálisó-bányászat miatt történelmileg magas sótartalommal rendelkezik."
+      ],
+      ro: [],
+      en: [],
     },
     length: 292,
   },
@@ -621,6 +803,20 @@ export const poiExtraDe4a: POI[] = [
         "In Gotha the 1875 Gotha Programme of social democracy was formulated.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Gotha a türingiai történelem egyik legfontosabb városa, mely évszázadokon keresztül a Szász-Gotha hercegség pompás rezidenciájaként működött. A város sziluettjét uralja a hatalmas Friedenstein kastély, Németország legnagyobb kora barokk kastélyegyüttese, amely hihetetlenül gazdag művészeti és természettudományi gyűjteményeket rejt. Gotha nemcsak az európai nemesség találkozóhelye volt, hanem a modern biztosítási ipar és a térképészet németországi bölcsője is, ami a várost a tudomány és a gazdaság úttörőjévé tette.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A város lakossága hozzávetőlegesen 45 000 főt számlál.",
+        "A Friedenstein kastélyt 1643 és 1654 között építtette I. Ernő herceg.",
+        "Az épületegyüttes a legnagyobb fennmaradt 17. századi kora barokk kastély Németországban.",
+        "A kastély színháza, az Ekhof-színház a világ legrégebbi máig működő eredeti barokk színpadtechnikájával rendelkezik (1681).",
+        "Itt alapították meg az első német életbiztosító társaságot 1827-ben (Gothaer Lebensversicherungsbank).",
+        "A híres Gothai Almanach, az európai nemesi családok családfáinak gyűjteménye először 1763-ban jelent meg itt."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -664,6 +860,20 @@ export const poiExtraDe4a: POI[] = [
         "On clear days the Alpine peaks can be seen.",
         "The nearby municipality of Brotterode-Trusetal is close by.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Großer Inselsberg a Türingiai-erdő egyik legikonikusabb és legismertebb hegycsúcsa, amely már a távolból is felismerhető jellegzetes adótornyairól. Bár nem ez a hegység legmagasabb pontja, fekvése és relatív magassága miatt Észak-Türingia egyik legszebb kilátóhelyének számít. Tiszta napokon a látóhatár egészen a Harz hegységig, a Rhön hegyeiig vagy akár a távoli Brocken csúcsáig is elér. A hegycsúcs és a hozzá vezető szerpentines erdei utak a túrázók és a téli sportok kedvelőinek állandó zarándokhelyei.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A hegy csúcsa pontosan 916,5 méter magasan emelkedik a tengerszint felett.",
+        "A csúcson található kilátótorony és antenna 1939-ben épült, de a jelenlegi 43 méter magas adótornyot 1974-ben állították fel.",
+        "Tiszta, páramentes időben a kilátás távolsága meghaladhatja a 100 kilométert is.",
+        "A csúcs alatt halad át a híres Rennsteig túraútvonal egy meredek szakasza.",
+        "A hegy jelentős része kemény porfir vulkáni kőzetből áll.",
+        "A nyári szezonban a csúcsra vezető Sommerrodelbahn (nyári bobpálya) 1000 méter hosszú, 14 kanyarral."
+      ],
+      ro: [],
+      en: [],
     },
     elevation: 916,
   },
@@ -712,6 +922,20 @@ export const poiExtraDe4a: POI[] = [
         "The Market Square is the central square of the Free Hanseatic City of Bremen.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Brémai Városháza az európai építészet egyik legkiemelkedőbb remekműve és a szabad Hanza-városok autonómiájának szimbóluma, amely 2004 óta az UNESCO világörökség része. A piactéren álló monumentális épület a Weser-reneszánsz stílus legszebb példája, gazdagon díszített homlokzata több mint 400 éve hirdeti a város kereskedelmi erejét és büszkeségét. A boltívek alatt, a történelmi tanácstermekben megkötött szerződések és a pincéjében rejlő több száz éves német borok a német történelem legmélyebb rétegeibe vezetnek.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az eredeti gótikus városházát 1405 és 1410 között építették.",
+        "A híres Weser-reneszánsz homlokzatot 1608 és 1612 között alakították ki.",
+        "Az épület és a mellette álló Roland-szobor együtt kerültek a világörökségi listára 2004-ben.",
+        "A városháza alatti pincében (Bremer Ratskeller) őrzik Németország legrégebbi hordós borát, amely 1653-ból származik.",
+        "A felső csarnok (Obere Rathaushalle) hossza eléri a 41 métert, szélessége a 15 métert.",
+        "A második világháború bombázásai során a városháza szinte teljesen épségben maradt."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -755,6 +979,20 @@ export const poiExtraDe4a: POI[] = [
         "A legend states: as long as the Roland stands, Bremen remains free.",
         "The original was carved from stone; the current figure is a restoration.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Brémai Roland-szobor Németország egyik legismertebb emlékműve, amely a piactéren, a városháza előtt őrzi a város szabadságát és kereskedelmi jogait. A középkori lovagot, Nagy Károly hős paladinját ábrázoló hatalmas kőszobor az igazságszolgáltatás és a császári kiváltságok sziklaszilárd jelképe a 15. század óta. A hagyomány szerint Bréma addig marad szabad és független város, amíg Roland kardja a tér felé néz. Méretei, részletes faragásai és a helyiek legendái Európa egyik legkedveltebb történelmi emlékművévé tették.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A kőszobrot 1404-ben állították fel a piactéren, felváltva egy korábbi fából készült szobrot.",
+        "A Roland-szobor magassága eléri az 5,47 métert, de a talapzattal és a baldachinnal együtt 10,21 méter magas.",
+        "Több mint 60 hasonló Roland-szobor létezik Németországban, de a brémai a legnagyobb és legrégebbi fennmaradt példány.",
+        "A szobor térdei közötti távolság pontosan egy 'Brémai rőf' (Bremer Elle), amely hivatalos hosszmérték volt (55,372 cm).",
+        "A szobor eredetileg színes volt, de mára a mészkő természetes színét mutatja.",
+        "A műemléket a második világháború alatt vastag téglafalakkal vették körül, hogy megóvják a bombázásoktól."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -800,6 +1038,20 @@ export const poiExtraDe4a: POI[] = [
         "Bremerhaven was founded in 1827 to provide Bremen with access to the North Sea.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Bremerhaveni kikötő Európa egyik legfontosabb tengeri kapuja, amely Bréma városától északra, a Weser folyó torkolatánál fekszik. Ez a hatalmas logisztikai központ nemcsak az óceánjáró teherhajók és kontinensnyi konténerek birodalma, hanem Európa legnagyobb autóterminálja is. A 19. század óta fontos szerepet játszott az Amerikába kivándorló európaiak millióinak életében is. A végtelennek tűnő rakpartokon tornyosuló daruk és a gigantikus óceánjárók lenyűgöző képet festenek a modern globális kereskedelem lüktető erejéről.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A kikötő hivatalosan 1827-ben nyílt meg, miután Bréma földet vásárolt Hannovertől a tengerparton.",
+        "Ez Európa egyik legnagyobb gépjármű-átrakodó központja, évente mintegy 2,2 millió jármű fordul meg itt.",
+        "A konténerterminál rakpartja megközelíti az 5 kilométeres hosszt, így a leghosszabb összefüggő terminál a világon.",
+        "Évente több mint 4,7 millió TEU (szabványos konténer) árut forgalmaznak a kikötőn keresztül.",
+        "A 19. és 20. század folyamán több mint 7 millió ember vándorolt ki innen az Újvilágba.",
+        "A kikötő vízmélysége lehetővé teszi, hogy a világ legnagyobb, akár 400 méter hosszú konténerszállító hajói is kikössenek."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -843,6 +1095,20 @@ export const poiExtraDe4a: POI[] = [
         "The Weser was for centuries the most important shipping route for Bremen.",
         "The Weserstadion, home of Werder Bremen, is located directly on the river.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Weser folyó Bréma ütőere, amely nemcsak a várost köti össze az Északi-tengerrel, hanem formálta is annak történelmét, gazdaságát és kultúráját. A folyó mentén kiépített sétányok, a Schlachte lüktető éjszakai élete és a Hanza-város patinás hajóépítő múltja mind a vízhez kötődik. Bár a modern óceánjárók már inkább Bremerhavenben kötnek ki, a Weser ma is tele van vitorlásokkal, folyami hajókkal és a rakparton pihenő turistákkal, akik a víz tükröződésében csodálhatják meg a város festői naplementéit.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A Weser teljes hossza 452 kilométer a Werra és a Fulda folyók összefolyásától az Északi-tengerig.",
+        "A folyó brémai szakaszán (Unterweser) már érezhető az árapály hatása a tengertől mért több mint 60 kilométeres távolság ellenére is.",
+        "Az átlagos árapály-különbség Bréma központjában eléri a 4 métert.",
+        "A brémai Schlachte (folyóparti sétány) története a 13. századig nyúlik vissza, mint az első kikötői terület.",
+        "A folyó vízgyűjtő területe mintegy 46 000 négyzetkilométer, ami teljesen Németország területére esik.",
+        "A 19. század végi folyószabályozás (Weserkorrektion) Ludwig Franzius tervei alapján tette hajózhatóvá mélyebb merülésű hajók számára is."
+      ],
+      ro: [],
+      en: [],
     },
     length: 452,
   },
@@ -889,6 +1155,20 @@ export const poiExtraDe4a: POI[] = [
         "The Market Square with the City Hall and Roland is on the UNESCO World Heritage list.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Bréma óvárosa (Altstadt) egy varázslatos történelmi negyed, amely a város 1200 éves hanza-múltját tárja a látogatók elé. A szűk, macskaköves utcák, az impozáns piactér a reneszánsz városházával és a fenséges Szent Péter-dómmal tökéletes harmóniát alkotnak. Az óváros szívében sétálva szinte életre kel a középkor: a kereskedőházak, az apró kávézók és a nyüzsgő tér olyan atmoszférát teremt, amely nemcsak Európa egyik leghangulatosabb sétálóutcájává, hanem Németország legszebb kulturális központjainak egyikévé is teszi.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az óváros magja az ősi dűne, a 'Bremer Düne' körül alakult ki, ami a Weser folyó áradásai ellen védte a telepeseket.",
+        "A Marktplatz (Piactér) körüli épületegyüttes nagy része a 15-17. században nyerte el mai formáját.",
+        "A brémai dóm (St. Petri Dom) alapjait a 11. században rakták le, és 99 méter magas tornyai uralják a városképet.",
+        "Az óvárost a középkorban egy védművekkel és vizesárokkal övezett falrendszer vette körül, amelynek nyomai a mai Wallanlagen parkokban láthatók.",
+        "A híres Schütting épülete 1538-ban épült, és a brémai kereskedők céhének (Kaufmannschaft) központjaként működött.",
+        "Az óvárosban található a Parlament épülete is (Haus der Bürgerschaft), amelyet 1966-ban modern stílusban adtak át."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -932,6 +1212,20 @@ export const poiExtraDe4a: POI[] = [
         "A smaller copy stands in the partner city of Tel Aviv.",
         "The fairy tale was collected by brothers Jacob and Wilhelm Grimm.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Brémai Muzsikusok bronzszobra a város legbájosabb és világszerte legismertebb jelképe. A Grimm-testvérek híres meséjének négy hőse – a szamár, a kutya, a macska és a kakas – egymás hátán állva figyel a városháza nyugati falánál. A történet a reményről és az újrakezdésről szól, ami a Hanza-város szabad szellemiségét is tükrözi. A szobrot megérinteni ma már kötelező rituálé minden látogató számára: a hiedelem szerint a szamár mellső lábainak megsimítása szerencsét hoz, ami az évtizedek alatt fényesre koptatta a bronzot.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A világhírű bronzszobrot Gerhard Marcks német szobrász alkotta meg 1953-ban.",
+        "A szobor pontosan 2 méter magas az alsó szamár patáitól a kakas taréjáig.",
+        "A Grimm fivérek 1819-ben publikálták először a 'Brémai Muzsikusok' meséjét a gyűjteményük második kiadásában.",
+        "A mese érdekessége, hogy a négy állat a történet szerint valójában soha nem érkezett meg Brémába.",
+        "A turisták általi simogatás miatt a szamár orra és mellső lábai mindig fényesen csillognak.",
+        "A szobrot az alkotó Gerhard Marcks csak adományokból és egy helyi gyűjtésből tudta megvalósítani a háború után."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -977,6 +1271,20 @@ export const poiExtraDe4a: POI[] = [
         "The quarter survived World War II largely undamaged.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Schnoor Bréma legrégebbi és legromantikusabb negyede, egy valódi középkori labirintus a Weser folyó közelében. Az apró, színes faházak olyan szorosan simulnak egymáshoz, mint a gyöngyök a zsinóron – a név is innen ered (Schnoor, azaz zsinór). Ez a negyed egykor halászok, hajókészítők és kézművesek otthona volt, ma pedig exkluzív butikok, kézműves műhelyek, kis galériák és hangulatos kávézók otthona. A szűk sikátorokban sétálva a látogatók több évszázadnyi történelmet és hamisítatlan hanza-bájt élhetnek át.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A negyed neve az alnémet 'Snoor' (zsinór) szóból származik, utalva a szorosan egymás mellett álló házakra.",
+        "A legszűkebb utcácskák mindössze egy méter szélesek.",
+        "A Schnoorban fennmaradt legrégebbi épület a 15. század elején, 1402 körül épült.",
+        "A negyedben mintegy 100 történelmi ház maradt fenn, többségük a 17. és 18. századból származik.",
+        "Az 1950-es években a területet le akarták bontani, de 1959-ben védetté nyilvánították és helyreállították.",
+        "Itt található a Schifferhaus, amely 1630 óta áll és hagyományos vendéglőként üzemel."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1020,6 +1328,20 @@ export const poiExtraDe4a: POI[] = [
         "Bremerhaven hosts an important fish processing industry.",
         "The Klimahaus 8° Ost is an innovative climate experience museum.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "Bremerhaven belvárosa a tengeri kalandok, a globális migráció és az Északi-tenger vad arcának találkozási pontja. A Weser torkolatánál fekvő városközpont, a híres 'Havenwelten' (Kikötővilág) modern építészeti csodákkal és interaktív múzeumokkal csábítja a látogatókat. A Német Kivándorlási Központtól (Deutsches Auswandererhaus) a Klímaházig minden a tengerészek és a felfedezők örökségét ünnepli. Ez a szeles, sós levegőjű negyed tökéletes célpont azoknak, akik szeretnék megérteni a hajózás és az óceánok formáló erejét.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Bremerhaven városát viszonylag későn, 1827-ben alapították, amikor Bréma területet vett a kikötő számára.",
+        "A Havenwelten központjában épült Sail City Hotel egy óriási, 140 méter magas, duzzadó vitorlát formáz.",
+        "A város lakossága körülbelül 113 000 fő, amivel Bréma tartomány második legnagyobb városa.",
+        "A Deutsches Auswandererhaus (Kivándorlási Központ) 2007-ben elnyerte az 'Európa Legjobb Múzeuma' díjat.",
+        "A Klimahaus 8° Ost interaktív múzeumban a látogatók a Föld 8. hosszúsági köre mentén utazhatnak végig a klímazónákon.",
+        "A városközpont ikonikus világítótornya, a Simon-Loschen-Leuchtturm 1855-ben épült téglából."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1065,6 +1387,20 @@ export const poiExtraDe4a: POI[] = [
         "The cathedral belongs to the Evangelical Lutheran Church.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Brémai Szent Péter-dóm (St. Petri Dom) a város fölé magasodó, lenyűgöző homokkő és tégla építmény, amely több mint 1200 év történelmét hordozza magában. A kettős tornyú bazilika román és gótikus stílusjegyeket egyaránt felvonultat, miután az évszázadok során többször is átépítették. A sötét és misztikus 'Bleikeller' (Ólompince), amely természetes módon mumifikálódott testeket rejt, és az égbe törő tornyokból nyíló pazar kilátás felejthetetlen élményt nyújtanak az idelátogatóknak.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A dóm építését a 11. században, 1041-ben kezdte meg Bezelin püspök egy korábbi fatemplom helyén.",
+        "A lenyűgöző ikertornyok magassága eléri a 89, illetve a 92 métert.",
+        "A déli torony, amely nyitva áll a látogatók előtt, pontosan 265 lépcsőfokkal közelíthető meg.",
+        "A dóm kriptájában (Bleikeller) a 17. század óta 8 természetes módon mumifikálódott holttest található.",
+        "A templom belső hossza 93 méter, ami az egyik legnagyobb a régióban.",
+        "Az épületet a 19. század végén jelentősen, neoromán stílusban restaurálták, miután évtizedekig omladozott."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1108,6 +1444,20 @@ export const poiExtraDe4a: POI[] = [
         "The Bremen Institute for Aerospace closely collaborates with Airbus.",
         "Bremen Airport is located near the plant.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "Az Airbus brémai központja Németország egyik legfejlettebb repülőgép- és űripari komplexuma. Ez a hatalmas ipari bázis a globális légi közlekedés jövőjének egyik meghatározó alakítója. Itt tervezik és gyártják az Airbus kereskedelmi repülőgépeinek kulcsfontosságú szárny-elemeit, valamint jelentős szerepet vállalnak az európai űrkutatásban, többek között az Ariane rakéták és az ISS űrállomás moduljainak fejlesztésében. A precíziós mérnöki munka és a jövő technológiája iránt érdeklődők számára Bréma repülős öröksége lenyűgöző.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A brémai Airbus gyár mintegy 4500 magasan képzett alkalmazottat foglalkoztat.",
+        "Ez a második legnagyobb Airbus-telephely Németországban, Hamburg-Finkenwerder után.",
+        "A gyár kulcsfontosságú szerepet játszik minden Airbus modell szárnyainak összeszerelésében és tesztelésében.",
+        "Az űrkutatási részleg felel az európai Columbus-modul fejlesztéséért, amely a Nemzetközi Űrállomáson működik.",
+        "A brémai telephely repülőgépgyártó múltja a Focke-Wulf Flugzeugbau 1924-es megalapításáig nyúlik vissza.",
+        "Itt készülnek az A350 és A330 típusú repülőgépek csúcstechnológiás fékszárnyai."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1153,6 +1503,20 @@ export const poiExtraDe4a: POI[] = [
         "The Roselius House houses a collection of medieval art.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A Böttcherstraße egy egyedülálló, expresszionista téglaművészeti remekmű, egy mindössze 100 méter hosszú, rejtett utca Bréma óvárosában. Ezt az architektonikai gyöngyszemet Ludwig Roselius kávékereskedő, a koffeinmentes kávé feltalálója építtette az 1920-as években. A hagyományos és a modern művészet találkozása itt különleges hangulatot áraszt: harangjáték, galériák, apró butikok és múzeumok várják a látogatókat. Ez a különleges sikátor a Hanza-város modernizmusának legtitokzatosabb és legszebb lenyomata.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az utcát az 1920-as években alakították át mai formájába, Bernhard Hoetger építész tervei alapján.",
+        "A sikátor mindössze 108 méter hosszú, mégis évente milliók látogatják.",
+        "Az utcát finanszírozó Ludwig Roselius a Kaffee HAG (a világ első koffeinmentes kávéja) feltalálója volt.",
+        "A Haus des Glockenspiels (Harangjáték-ház) 30 meisseni porcelán harangból álló óraszerkezettel büszkélkedhet.",
+        "Az épületek különleges 'tégla-expresszionista' stílusban készültek, amely Észak-Németország sajátossága.",
+        "A teljes utcát 1973-ban műemlékvédelem alá helyezték."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1196,6 +1560,20 @@ export const poiExtraDe4a: POI[] = [
         "Bremerhaven is Germany's second-largest container port after Hamburg.",
         "Direct rail connections enable rapid distribution to the hinterland.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A Bremerhaven Konténerterminál a globális hajózás egyik leghatalmasabb és legforgalmasabb csomópontja, amely a horizonton sorakozó gigantikus kék és piros daruival letaglózó látványt nyújt. Ez a mélyvízi kikötő kulcsfontosságú kapocsként szolgál Európa és a világ többi része között. A logisztikai precizitás és a modern automatizáció lenyűgöző táncát láthatjuk itt, ahol a világ legnagyobb teherhajói mindennapos vendégek. Ez a mérnöki csoda a nemzetközi kereskedelem dobogó szíveként működik.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A konténerterminál rakpartja 4 680 méter hosszú, ezzel a világ leghosszabb összefüggő folyami rakpartja.",
+        "A terminál több mint 3 millió négyzetméteres területen helyezkedik el.",
+        "Több mint 40 gigantikus portáldaru (Containerbrücke) végzi a hajók rakodását.",
+        "Évente megközelítőleg 5 millió TEU (húsz láb egyenértékű egység) konténert mozgatnak itt meg.",
+        "A kikötő képes fogadni a legújabb, több mint 23 000 TEU kapacitású, 400 méter hosszú tengerjárókat is.",
+        "A terminálon található a világ egyik legfejlettebb, részben automatizált logisztikai nyomkövető rendszere."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1241,6 +1619,20 @@ export const poiExtraDe4a: POI[] = [
         "Regularly changing special exhibitions complement the offering.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A brémai Universum egy lenyűgöző, interaktív tudományos központ, amely úgy néz ki, mintha egy óriási fémes bálna vagy UFO emelkedett volna ki a tóból. A kiállítások a felfedezés öröméről szólnak: a látogatók több száz állomáson tesztelhetik a fizika törvényeit, megérthetik az emberi test működését, vagy szimulálhatnak egy földrengést. Ez a futurisztikus épület nem csak a gyermekek, de a felnőttek számára is az Univerzum, a Föld és az emberiség csodáinak élményszerű megismerését kínálja.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A különleges, bálna alakú épületet Thomas Klumpp brémai építész tervezte és 2000-ben adták át.",
+        "Az épületet több mint 40 000 darab csillogó rozsdamentes acél pikkely borítja.",
+        "A múzeum több mint 300 interaktív kísérleti állomással várja a kíváncsi látogatókat.",
+        "A kiállítási terület több mint 4 000 négyzetméteren terül el, három fő témakörre (Ember, Természet, Technika) osztva.",
+        "Évente átlagosan 450 000 látogató fordul meg a komplexumban.",
+        "Az épület egy mesterséges tavon lebeg, amit 2007-ben egy szabadtéri felfedező parkkal is kiegészítettek."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1284,6 +1676,25 @@ export const poiExtraDe4a: POI[] = [
         "Center of Bremen's gay and lesbian culture.",
         "Located near the city center and the Weser.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A brémai 'Viertel' (A Negyed) a város legszínesebb, legbohémabb és legélénkebb kulturális központja, amely az Ostertor és Steintor negyedekből áll össze. A Weser partjától nem messze található utcák telis-tele vannak egyedi dizájner boltokkal, vintage ruhaüzletekkel, kultikus kocsmákkal és nemzetközi éttermekkel. Ez az a hely, ahol a művészek, a diákok és a színházba járók találkoznak. A gyönyörű, 19. századi 'Bremer Haus' épületek és a falakat borító street art tökéletes harmóniája mindenkit magával ragad.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A 'Viertel' történelmileg két városrészt foglal magába: az Ostertort és a Steintort.",
+        "A negyedben található Bréma legtöbb klasszikus 'Bremer Haus' típusú épülete, melyeket a 19. század végén és a 20. század elején építettek.",
+        "A Viertel a város kulináris központja: több mint 100 különböző kávézó, bár és étterem működik itt.",
+        "A negyed ad otthont a brémai Goetheplatz Színháznak és a Kunsthalle múzeumnak.",
+        "Az 1960-as években a városvezetés le akarta bontani a negyedet egy gyorsforgalmi út építése miatt, de a lakossági tiltakozások megvédték.",
+        "A negyed főutcáján, az Ostertorsteinwegen szigorú sebességkorlátozás van érvényben a gyalogosok védelmében."
+      ],
+      ro: [],
+      en: []
     },
   },
 ];

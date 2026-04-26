@@ -20,6 +20,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Universitatea din Rostock a fost fondată în 1419, una dintre cele mai vechi din Europa.", "Portul orașului este un loc de întâlnire popular cu nave istorice.", "Warnemünde este o stațiune marină pitorească în perimetrul orașului."],
       en: ["The University of Rostock was founded in 1419 and is one of the oldest in Europe.", "The city harbour is a popular meeting point with historical ships.", "Warnemünde is a picturesque seaside resort within the city limits."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Rostock egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rostock ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Rostock területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Rostock tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-stralsund-extra",
@@ -38,6 +57,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Stralsund óvárosa UNESCO világörökség.", "Az Ozeaneum modern, világszínvonalú tengerimúzeum.", "Rügendamm és a Rügen-híd köti össze Rügennel."],
       ro: ["Centrul istoric din Stralsund este sit UNESCO.", "Ozeaneum este un muzeu modern al oceanelor de talie mondială.", "Legat de Rügen prin Rügendamm și podul Rügen."],
       en: ["The old town of Stralsund is a UNESCO World Heritage Site.", "The Ozeaneum is a world-class modern ocean museum.", "Connected to Rügen by the Rügendamm causeway and Rügen Bridge."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Stralsund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Stralsund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Stralsund területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Stralsund tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -58,6 +96,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Rügen, cu 926 km², este cea mai mare insulă din Germania.", "Falezele de calcar din Parcul Național Jasmund sunt sit natural UNESCO.", "Binz este cea mai cunoscută stațiune de pe insulă."],
       en: ["Rügen, at 926 km², is Germany's largest island.", "The chalk cliffs in Jasmund National Park are a UNESCO Natural World Heritage site.", "Binz is the most famous seaside resort on the island."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Rügen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rügen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Rügen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Rügen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "island-usedom-extra",
@@ -76,6 +133,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Usedom Rügen után Németország második legnagyobb szigete.", "Az Ahlbeck, Heringsdorf és Bansin 'császárfürdők' neves tengerparti üdülők.", "Peenemünde a 2. világháborúban fontos rakétakutató állomás volt."],
       ro: ["Usedom este a doua cea mai mare insulă din Germania după Rügen.", "Stațiunile imperiale Ahlbeck, Heringsdorf și Bansin sunt celebre.", "Peenemünde a fost o importantă stație de cercetare a rachetelor în al 2-lea Război Mondial."],
       en: ["Usedom is Germany's second-largest island after Rügen.", "The 'Kaiser resorts' of Ahlbeck, Heringsdorf and Bansin are renowned seaside destinations.", "Peenemünde on Usedom was a major rocket research station in World War II."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Usedom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Usedom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Usedom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Usedom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -96,6 +172,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Castelul Schwerin este situat pe o insulă în Lacul Schwerin.", "Orașul este numit 'Orașul celor șapte lacuri'.", "Castelul este candidat la lista UNESCO."],
       en: ["Schwerin Castle stands on an island in Lake Schwerin.", "The city is called the 'City of Seven Lakes'.", "The castle is a candidate for the UNESCO World Heritage list."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schwerin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwerin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schwerin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schwerin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "lake-mueritz-extra",
@@ -114,6 +209,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["A Müritz kb. 117 km² kiterjedésű.", "A Müritz Nemzeti Park Németország egyetlen belföldi tónemzeti parkja.", "A régió vitorlázókat, kenusokat és madármegfigyelőket vonz."],
       ro: ["Müritz are o suprafață de aproximativ 117 km².", "Parcul Național Müritz este singurul parc național al lacurilor interioare din Germania.", "Regiunea atrage velieri, caiaciști și ornitologi."],
       en: ["Lake Müritz covers approximately 117 km².", "Müritz National Park is Germany's only inland lake national park.", "The region attracts sailors, canoeists and birdwatchers."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Müritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Müritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Müritz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Müritz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -134,6 +248,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Warnow are o lungime de aproximativ 155 km.", "Trece prin capitala Schwerin și prin marele oraș Rostock.", "Valea Warnow este o zonă de agrement populară."],
       en: ["The Warnow is approximately 155 km long.", "It flows through the state capital Schwerin and the city of Rostock.", "The Warnow valley is a popular recreation area."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Warnow egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Warnow ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Warnow területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Warnow tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "port-wismar-extra",
@@ -152,6 +285,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Wismar óvárosa Stralsunddal együtt UNESCO világörökség.", "Wismar több mint 150 évig (1648–1803) svéd uralom alatt állt.", "Az Öreg Kikötő Németország egyik legépebben megmaradt középkori kikötője."],
       ro: ["Centrul istoric din Wismar este sit UNESCO împreună cu Stralsund.", "Wismar a fost suedez peste 150 de ani (1648–1803).", "Portul Vechi este unul din cele mai bine conservate porturi medievale din Germania."],
       en: ["The old town of Wismar is a UNESCO World Heritage site together with Stralsund.", "Wismar was under Swedish rule for over 150 years (1648–1803).", "The Old Harbour is one of the best-preserved medieval harbours in Germany."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wismar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wismar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wismar területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wismar tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -172,6 +324,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Pădurea primară de pe Darß este printre ultimele păduri costiere din Germania.", "Darß este un loc important de odihnă pentru păsările migratoare, în special gru.", "Weststrand este una dintre cele mai frumoase plaje naturale din Germania."],
       en: ["The primeval forest on the Darß is among the last coastal forests in Germany.", "The Darß is a vital resting area for migratory birds, especially cranes.", "Weststrand is one of Germany's most beautiful natural beaches."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Darß egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Darß ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Darß területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Darß tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-greifswald-extra",
@@ -190,6 +361,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["A Greifswald Egyetemet 1456-ban alapították.", "A Marienkirche a téglagótika egyik legszebb emléke.", "Caspar David Friedrich, a híres romantikus festő, Greifswaldban született."],
       ro: ["Universitatea din Greifswald a fost fondată în 1456.", "Marienkirche este considerată una dintre cele mai frumoase clădiri gotice din cărămidă.", "Caspar David Friedrich, celebrul pictor romantic, s-a născut la Greifswald."],
       en: ["The University of Greifswald was founded in 1456.", "The Marienkirche is considered one of the finest examples of Brick Gothic architecture.", "Caspar David Friedrich, the famous Romantic painter, was born in Greifswald."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Greifswald német város Mecklenburg-Elő-Pomeránia északkeleti részén, a Ryck folyó mentén, 5 km-re a Balti-tenger Greifswalder Bodden nevű öblétől fekszik. Egykori Hanza-város. A(z) Greifswald egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Greifswald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Greifswald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -210,6 +400,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Castelul servește astăzi ca Parlament al landului Mecklenburg-Pomerania Inferioară.", "Este înconjurat de grădini și parcuri în stil englezesc și francez.", "Castelul se află pe Lista Tentativă a UNESCO."],
       en: ["The castle today serves as the state parliament of Mecklenburg-Western Pomerania.", "It is surrounded by several gardens and parks in English and French style.", "The castle is on the UNESCO Tentative List."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schweriner Schloss egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schweriner Schloss ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schweriner Schloss területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schweriner Schloss tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-kloster-eldena-extra",
@@ -228,6 +437,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["A kolostort 1199-ben alapították.", "Caspar David Friedrich többször festette a romokat, világhírűvé téve azokat.", "A rom ma kedvelt park és rendezvényhelyszín."],
       ro: ["Mănăstirea a fost fondată în 1199.", "Caspar David Friedrich a pictat ruinele de mai multe ori, făcându-le celebre la nivel mondial.", "Ruinele sunt astăzi un parc popular și loc de evenimente."],
       en: ["The monastery was founded in 1199.", "Caspar David Friedrich painted the ruins several times, making them world-famous.", "The ruins are today a popular park and event venue."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Klosterruine Eldena egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Klosterruine Eldena ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Klosterruine Eldena területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Klosterruine Eldena tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -248,6 +476,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Lacul Schwerin are o suprafață de aproximativ 61 km².", "Pe o insulă din lac se află faimosul Castel Schwerin.", "Lacul este o zonă populară pentru sporturi nautice și activități de agrement."],
       en: ["Lake Schwerin covers approximately 61 km².", "On one of its islands stands the famous Schwerin Castle.", "The lake is a popular area for water sports and leisure activities."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schweriner See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schweriner See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schweriner See területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schweriner See tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-neubrandenburg-extra",
@@ -267,6 +514,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Zidul orașului cu cele patru turnuri de poartă s-a păstrat aproape intact.", "Orașul este situat direct pe malul Lacului Tollense.", "Fondată în 1248, a fost un important oraș comercial medieval."],
       en: ["The town wall with four gate towers is almost entirely intact.", "The city is situated directly on Lake Tollense.", "Founded in 1248, it was a significant medieval trading town."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Neubrandenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neubrandenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Neubrandenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Neubrandenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "animal-habitat-mv-kraniche-extra",
@@ -285,6 +551,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Évente több mint 60 000 daru pihen a régióban.", "A daruvonulás szezonia októbertől novemberig tart.", "A közeli Linum-tó Európa egyik legnagyobb darualvóhelye."],
       ro: ["Anual, peste 60.000 de gru se odihnesc în regiune.", "Sezonul migrației gruitelor durează din octombrie până în noiembrie.", "Lacul Linum din apropiere este unul dintre cele mai mari locuri de dormit pentru gru din Europa."],
       en: ["Over 60,000 cranes rest in the region each year.", "The crane migration season lasts from October to November.", "Nearby Lake Linum is one of the largest crane roosting sites in Europe."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kranich-Rastplätze Mecklenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kranich-Rastplätze Mecklenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kranich-Rastplätze Mecklenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kranich-Rastplätze Mecklenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
 
@@ -307,6 +592,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Kieler Woche este cel mai mare eveniment de navigație cu pânze din lume.", "Canalul Kiel începe la Kiel.", "Kiel este portul de bază al Marinei Germane."],
       en: ["Kiel Week (Kieler Woche) is the world's largest sailing event.", "The Kiel Canal begins in Kiel.", "Kiel is the home port of the German Navy."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kiel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kiel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kiel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kiel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-luebeck-extra",
@@ -325,6 +629,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Lübeck óvárosa 1987 óta UNESCO világörökség.", "Lübeck marcipánjáról hírneves.", "Thomas Mann és családja Lübeckből származik."],
       ro: ["Centrul istoric din Lübeck este sit UNESCO din 1987.", "Lübeck este renumit pentru marcipanul său.", "Thomas Mann și familia sa provin din Lübeck."],
       en: ["Lübeck's old town has been a UNESCO World Heritage site since 1987.", "Lübeck is famous for its marzipan.", "Thomas Mann and his family came from Lübeck."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Lübeck város Észak-Németországban. Schleswig-Holstein szövetségi tartomány második legnagyobb városa. Évszázadokig a Hanza-szövetség központja volt, és építészeti hagyatéka miatt a világörökség része. A(z) Lübeck egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lübeck területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lübeck tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -345,6 +668,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Sylt este cunoscut pentru plajele sale albe de nisip și pentru Marea Wadden.", "Westerland este centrul insulei.", "Insula este legată de continent prin digul Hindenburg."],
       en: ["Sylt is known for its white sandy beaches and the Wadden Sea.", "Westerland is the centre of the island.", "The island is connected to the mainland by the Hindenburg Causeway."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Sylt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sylt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Sylt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Sylt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "river-eider-extra",
@@ -363,6 +705,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Az Eider kb. 188 km hosszú.", "Az Eider-zsilip védi a partot a viharáradásoktól.", "Történelmileg az Eider alkotta a határt a Német-Római Birodalom és Dánia között."],
       ro: ["Eider are o lungime de aproximativ 188 km.", "Barajul Eider protejează coasta împotriva inundațiilor de furtună.", "Istoric, Eider a format granița dintre Sfântul Imperiu Roman și Danemarca."],
       en: ["The Eider is approximately 188 km long.", "The Eider Barrage protects the coast from storm surges.", "Historically, the Eider formed the border between the Holy Roman Empire and Denmark."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Eider egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eider ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Eider területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Eider tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -383,6 +744,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Canalul are 98 km lungime și a fost inaugurat în 1895.", "Anual, peste 30.000 de nave traversează canalul.", "Scutește navele de lungul ocol în jurul Peninsulei Iutlanda."],
       en: ["The canal is 98 km long and was inaugurated in 1895.", "More than 30,000 ships pass through the canal annually.", "It saves ships the long detour around the Jutland Peninsula."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nord-Ostsee-Kanal egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nord-Ostsee-Kanal ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nord-Ostsee-Kanal területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nord-Ostsee-Kanal tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-schleswig-dom-extra",
@@ -401,6 +781,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["A dómot 1100 és 1894 között építették.", "Hans Brüggemann Bordesholm-oltárműve a faragóművészet mestermunkája.", "Schleswig a schleswig-holsteini hercegek rezidencia-városa volt."],
       ro: ["Catedrala a fost construită între 1100 și 1894.", "Retabloul din Bordesholm de Hans Brüggemann este o capodoperă a artei sculptate.", "Schleswig a fost orașul de reședință al ducelui de Schleswig-Holstein."],
       en: ["The cathedral was built between 1100 and 1894.", "The Bordesholm Altarpiece by Hans Brüggemann is considered a masterpiece of carved art.", "Schleswig was the residence city of the Dukes of Schleswig-Holstein."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schleswig Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schleswig Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schleswig Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schleswig Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -421,6 +820,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Holstentor a fost construit în 1478.", "Până în 1975 a apărut pe bancnota de 50 de mărci.", "Poarta se înclină puternic lateral deoarece a fost construită pe teren moale."],
       en: ["The Holstentor was built in 1478.", "Until 1975 it appeared on the 50-Mark banknote.", "The gate leans noticeably to the side because it was built on soft ground."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Holstentor Lübeck egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Holstentor Lübeck ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Holstentor Lübeck területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Holstentor Lübeck tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "island-foehr-extra",
@@ -439,6 +857,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Föhrt lapos, zöld tájáról 'Zöld szigetnek' nevezik.", "A sziget az UNESCO Watt-tenger részét képezi.", "Wyk auf Föhr az egyetlen város az észak-fríz szigeteken."],
       ro: ["Föhr este numită 'Insula Verde' datorită peisajului plat și fertil.", "Insula face parte din Marea Wadden UNESCO.", "Wyk auf Föhr este singurul oraș de pe insulele Nord-Friziei."],
       en: ["Föhr is called the 'Green Island' due to its flat, green landscape.", "The island is part of the UNESCO Wadden Sea.", "Wyk auf Föhr is the only town on the North Frisian islands."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Föhr egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Föhr ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Föhr területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Föhr tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -459,6 +896,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Lacul Plön are o suprafață de aproximativ 28 km².", "Castelul Plön este situat direct pe malul lacului.", "Elveția Holsteiniană este zona lacurilor din jurul Plön."],
       en: ["Lake Plön covers approximately 28 km².", "Plön Castle stands directly on the lake shore.", "Holstein Switzerland is the lake district around Plön."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Plöner See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Plöner See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Plöner See területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Plöner See tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "historical-haithabu-extra",
@@ -477,6 +933,26 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Haithabu a 8. és 11. század között virágzott.", "Fontos kereskedelmi csomópont volt Skandinávia, Nyugat-Európa és Bizánc között.", "A Haithabu Viking Múzeum jelentős régészeti leleteket mutat be."],
       ro: ["Haithabu a prosperat între sec. VIII și XI.", "A fost un important nod comercial între Scandinavia, Europa Occidentală și Bizanț.", "Muzeul Viking Haithabu expune importante descoperiri arheologice."],
       en: ["Haithabu flourished between the 8th and 11th centuries.", "It was a major trading hub between Scandinavia, Western Europe and Byzantium.", "The Viking Museum Haithabu displays important archaeological finds."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8. és 11. század között virágzó első igazi középkori kereskedőváros volt Észak-Európában. A modern nemzetközi történeti és régészeti irodalomban a Hedeby névváltozat a leginkább használatos.
+Haithabu a Schlei tengeröböl partján jött létre, a Balti-tenger és az Északi-tenger között egy évszázadok óta használatos fontos kereskedelmi útvonal mellett. A terület ma Busdorf községhez tartozik, Schleswigtől néhány kilométerre, Schleswig-Flensburg járásban, Németországban. 1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át. A település maradványai a közeli dán sáncvonallal, a Danevirkéval együtt Schleswig-Holstein legjelentősebb régészeti emlékei közé tartoznak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8.",
+        "1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át.",
+        "A(z) Haithabu (Hedeby) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Haithabu (Hedeby) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -497,6 +973,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Sachsenwald a fost dăruit lui Bismarck de Împăratul Wilhelm I în 1871.", "Bismarck a locuit la Friedrichsruh în Sachsenwald până la moartea sa în 1898.", "Muzeul Bismarck se află în pădure."],
       en: ["The Sachsenwald was gifted to Bismarck by Emperor Wilhelm I in 1871.", "Bismarck lived at Gut Friedrichsruh in the Sachsenwald until his death in 1898.", "The Bismarck Museum is located within the forest."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Sachsenwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sachsenwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Sachsenwald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Sachsenwald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "sea-wattenmeer-sh-extra",
@@ -515,6 +1010,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["A Watt-tenger a világ legnagyobb összefüggő iszap- és homokfelülete.", "Millió számra élnek itt vonuló madarak.", "A fókák és a szürke fókák a legismertebb lakói."],
       ro: ["Marea Wadden este cea mai mare zonă continuă de noroi și nisip din lume.", "Găzduiește milioane de păsări migratoare.", "Focile și focile cenușii sunt printre cei mai cunoscuți locuitori."],
       en: ["The Wadden Sea is the world's largest unbroken expanse of mudflats and sandflats.", "It is home to millions of migratory birds.", "Harbour seals and grey seals are among the best-known inhabitants."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schleswig-Holsteinisches Wattenmeer egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schleswig-Holsteinisches Wattenmeer ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schleswig-Holsteinisches Wattenmeer területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schleswig-Holsteinisches Wattenmeer tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -535,6 +1049,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Flensburg se află la 7 km de granița daneză.", "Orașul a fost cândva un important centru al comerțului cu rom.", "Oficiul Federal al Vehiculelor Motorrizate ține în Flensburg registrul central al permiselor de conducere."],
       en: ["Flensburg is located 7 km from the Danish border.", "The city was once a significant centre of the rum trade.", "The Federal Motor Transport Authority in Flensburg maintains Germany's central driving licence register ('points in Flensburg')."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Flensburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Flensburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Flensburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Flensburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "landmark-nordertor-flensburg-extra",
@@ -554,6 +1087,25 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Nordertor a fost construit în jurul anului 1595.", "Este singura poartă medievală a orașului Flensburg care s-a păstrat.", "Poarta se află la capătul nordic al centrului istoric."],
       en: ["The Nordertor was built around 1595.", "It is the only surviving city gate of Flensburg.", "The gate is located at the northern end of the old town."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nordertor Flensburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nordertor Flensburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nordertor Flensburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nordertor Flensburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "port-hamburg-altona-sh-extra",
@@ -572,6 +1124,25 @@ export const poiExtraDe3a: POI[] = [
       hu: ["Altona 1864-ig dán volt és Schleswig-Holsteinhez tartozott.", "Az Altonaer Fischmarkt minden vasárnap reggel megtartják.", "Az 1898-ból való Altonai Városháza lenyűgöző vilmos-kori épület."],
       ro: ["Altona a fost daneză până în 1864 și a aparținut de Schleswig-Holstein.", "Altonaer Fischmarkt se desfășoară în fiecare duminică dimineața.", "Primăria Altona din 1898 este o impozantă clădire wilhelminiană."],
       en: ["Altona was Danish until 1864 and belonged to Schleswig-Holstein.", "The Altonaer Fischmarkt fish market takes place every Sunday morning.", "Altona Town Hall from 1898 is an imposing Wilhelmine building."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Altona (historisch Schleswig-Holstein) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Altona (historisch Schleswig-Holstein) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Altona (historisch Schleswig-Holstein) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Altona (historisch Schleswig-Holstein) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
 ];

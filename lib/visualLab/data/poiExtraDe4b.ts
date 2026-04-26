@@ -45,6 +45,20 @@ export const poiExtraDe4b: POI[] = [
         "The Plaza at 37 metres elevation is freely accessible.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Elbphilharmonie egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbphilharmonie ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Elbphilharmonie területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Elbphilharmonie tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -88,6 +102,20 @@ export const poiExtraDe4b: POI[] = [
         "Today the district houses museums, agencies, and showrooms.",
         "Canals between warehouses make it Hamburg's little Venice.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Speicherstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Speicherstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Speicherstadt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Speicherstadt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -133,6 +161,20 @@ export const poiExtraDe4b: POI[] = [
         "Hamburg is known as 'Gateway to the World' for its global trade links.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Hamburger Hafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hamburger Hafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hamburger Hafen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hamburger Hafen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -176,6 +218,20 @@ export const poiExtraDe4b: POI[] = [
         "In front of the town hall lies the Rathausmarkt, a popular city square.",
         "Hamburg as an independent city-state was always a significant trading republic.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Hamburger Rathaus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hamburger Rathaus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hamburger Rathaus területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hamburger Rathaus tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -221,6 +277,20 @@ export const poiExtraDe4b: POI[] = [
         "The annual Reeperbahn Festival is one of Europe's most important music festivals.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Reeperbahn (St. Pauli) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Reeperbahn (St. Pauli) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Reeperbahn (St. Pauli) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Reeperbahn (St. Pauli) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -264,6 +334,20 @@ export const poiExtraDe4b: POI[] = [
         "White Alster steamers operate as ferries between various landings.",
         "The Alster originates north of Hamburg in the Segeberg district of Schleswig-Holstein.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "Az Alster az Elba folyó 52 km hosszú jobb oldali mellékfolyója. A(z) Alster egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az Alster az Elba folyó 52 km hosszú jobb oldali mellékfolyója.",
+        "A(z) Alster területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Alster tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -309,6 +393,20 @@ export const poiExtraDe4b: POI[] = [
         "Altona's town hall is one of Hamburg's most impressive buildings.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Altona egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Altona ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Altona területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Altona tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -352,6 +450,20 @@ export const poiExtraDe4b: POI[] = [
         "The Elbphilharmonie is located in the heart of HafenCity.",
         "Climate resilience and flood protection are core planning principles.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) HafenCity egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a HafenCity ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) HafenCity területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A HafenCity tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -397,6 +509,20 @@ export const poiExtraDe4b: POI[] = [
         "It is Hamburg's largest Lutheran church.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Hauptkirche St. Michaelis egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hauptkirche St. Michaelis ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hauptkirche St. Michaelis területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hauptkirche St. Michaelis tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -440,6 +566,20 @@ export const poiExtraDe4b: POI[] = [
         "The Hamburg Observatory in Bergedorf is a historic research site.",
         "The Sachsenwald, the largest contiguous forest in Schleswig-Holstein, borders Bergedorf.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Bergedorf egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bergedorf ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bergedorf területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bergedorf tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -485,6 +625,20 @@ export const poiExtraDe4b: POI[] = [
         "The island is an important resting place for migratory birds.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Insel Neuwerk egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Insel Neuwerk ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Insel Neuwerk területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Insel Neuwerk tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -528,6 +682,20 @@ export const poiExtraDe4b: POI[] = [
         "The Kramer-Amtsstuben is a rare example of preserved Hamburg civic architecture.",
         "It is a listed monument and well-visited by tourists.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Kramer-Amtsstuben egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kramer-Amtsstuben ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kramer-Amtsstuben területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kramer-Amtsstuben tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -573,6 +741,20 @@ export const poiExtraDe4b: POI[] = [
         "The Harburg Hills offer recreational opportunities close to the city.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Hamburg-Harburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hamburg-Harburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hamburg-Harburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hamburg-Harburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -617,6 +799,20 @@ export const poiExtraDe4b: POI[] = [
         "Day and night alternate in the complex every few minutes daily.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Miniatur Wunderland egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Miniatur Wunderland ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Miniatur Wunderland területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Miniatur Wunderland tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -660,6 +856,20 @@ export const poiExtraDe4b: POI[] = [
         "Numerous hiking and cycling trails cross the area.",
         "In autumn, the foliage turns into a colourful spectacle.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Volksdorfer Wald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Volksdorfer Wald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Volksdorfer Wald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Volksdorfer Wald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -707,6 +917,20 @@ export const poiExtraDe4b: POI[] = [
         "St. Johanner Markt is the historic and social centre.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Saarbrücken egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saarbrücken ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saarbrücken területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saarbrücken tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -750,6 +974,20 @@ export const poiExtraDe4b: POI[] = [
         "Today a cultural centre with exhibitions, events, and concerts.",
         "The blast furnace blower is a uniquely preserved blast furnace blower worldwide.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Völklinger Hütte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Völklinger Hütte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Völklinger Hütte területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Völklinger Hütte tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -795,6 +1033,20 @@ export const poiExtraDe4b: POI[] = [
         "Along the river runs the Saar Cycle Route as a popular cycling route.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Saar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saar területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saar tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -838,6 +1090,20 @@ export const poiExtraDe4b: POI[] = [
         "In autumn, the colourful spectacle of the deciduous forests attracts many visitors.",
         "Hiking trails and a treetop walkway make the region accessible.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Saarschleife egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saarschleife ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saarschleife területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saarschleife tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -883,6 +1149,20 @@ export const poiExtraDe4b: POI[] = [
         "Clear nights allow undisturbed stargazing.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Hohe Warte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hohe Warte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hohe Warte területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hohe Warte tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -926,6 +1206,20 @@ export const poiExtraDe4b: POI[] = [
         "Neunkirchen is located in the geographical centre of Saarland.",
         "The city has around 47,000 inhabitants.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Neunkirchen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neunkirchen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Neunkirchen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Neunkirchen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -971,6 +1265,20 @@ export const poiExtraDe4b: POI[] = [
         "The remains of the Karlsberg Fortress show the city's significant history.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "Homburg település Németországban, azon belül Saar-vidék tartományban. Lakosainak száma 42 498 fő (2023. december 31.). A(z) Homburg (Saar) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Lakosainak száma 42 498 fő (2023.",
+        "A(z) Homburg (Saar) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Homburg (Saar) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1014,6 +1322,20 @@ export const poiExtraDe4b: POI[] = [
         "The Bliesgau Biosphere Reserve protects the nature-rich river landscape.",
         "Along the Blies runs the Bliestalradweg as a popular leisure route.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Blies egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Blies ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Blies területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Blies tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1059,6 +1381,20 @@ export const poiExtraDe4b: POI[] = [
         "Blieskastel has around 21,000 inhabitants.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Blieskastel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Blieskastel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Blieskastel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Blieskastel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1102,6 +1438,20 @@ export const poiExtraDe4b: POI[] = [
         "The mountain is composed geologically of Buntsandstein (red sandstone).",
         "Nearby lies Tholey Abbey, one of Germany's oldest abbeys.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Schaumberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schaumberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schaumberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schaumberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1147,6 +1497,20 @@ export const poiExtraDe4b: POI[] = [
         "The lake lies within the Saar-Hunsrück Nature Park.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Bostalsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bostalsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bostalsee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bostalsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1190,6 +1554,20 @@ export const poiExtraDe4b: POI[] = [
         "The mining museum displays tools, uniforms, and documents from the mining era.",
         "The structural shift from mining to the knowledge economy is an important regional theme.",
       ],
+    },
+    descriptionAdvanced: { de: "", hu: "A(z) Bergbaumuseum Bexbach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bergbaumuseum Bexbach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bergbaumuseum Bexbach területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bergbaumuseum Bexbach tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
     },
   },
 
@@ -1235,6 +1613,20 @@ export const poiExtraDe4b: POI[] = [
         "The area is part of the Saar-Lor-Lux Euroregion.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Warndt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Warndt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Warndt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Warndt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1279,6 +1671,20 @@ export const poiExtraDe4b: POI[] = [
         "Saarlouis has around 35,000 inhabitants.",
       ],
     },
+    descriptionAdvanced: { de: "", hu: "A(z) Saarlouis egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saarlouis ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.", ro: "", en: "" },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saarlouis területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saarlouis tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: [],
+    },
   },
 
   {
@@ -1322,6 +1728,25 @@ export const poiExtraDe4b: POI[] = [
         "The ceramics museum in the old monastery rooms tells the company's history.",
         "The abbey church holds the tomb of St. Liutwin, founder of the Diocese of Trier.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Alte Abtei Mettlach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Alte Abtei Mettlach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Alte Abtei Mettlach területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Alte Abtei Mettlach tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
 ];

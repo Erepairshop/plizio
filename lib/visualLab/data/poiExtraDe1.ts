@@ -45,6 +45,25 @@ export const poiExtraDe1: POI[] = [
         "Strategically located on the Danube river.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ingolstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ingolstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ingolstadt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ingolstadt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -163,6 +182,25 @@ export const poiExtraDe1: POI[] = [
         "A historically significant bishopric since the 5th century.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Passau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Passau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Passau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Passau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -265,6 +303,25 @@ export const poiExtraDe1: POI[] = [
         "On clear days it offers panoramic views of the Alps.",
         "Popular for hiking and ski tours.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wendelstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wendelstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wendelstein területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wendelstein tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -384,6 +441,25 @@ export const poiExtraDe1: POI[] = [
         "An important waterway for the historic salt trade.",
         "Part of the Danube river basin.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Salzach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Salzach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Salzach területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Salzach tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -505,6 +581,25 @@ export const poiExtraDe1: POI[] = [
         "Known through the painting 'Der Walchensee' by Lovis Corinth.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Walchensee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Walchensee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Walchensee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Walchensee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -623,6 +718,25 @@ export const poiExtraDe1: POI[] = [
         "Listed as a UNESCO World Heritage Site since 1981.",
         "Set within the Hofgarten, a historic baroque garden.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Würzburger Residenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Würzburger Residenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Würzburger Residenz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Würzburger Residenz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -744,6 +858,25 @@ export const poiExtraDe1: POI[] = [
         "Nearby stands Germany's oldest surviving stone bridge from the 12th century.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Regensburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Regensburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Regensburger Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Regensburger Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -861,6 +994,25 @@ export const poiExtraDe1: POI[] = [
         "Known for the Rennsteig, a historic ridge path.",
         "An important recreational area for the Upper Franconia region.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Frankenwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankenwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Frankenwald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Frankenwald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -981,6 +1133,25 @@ export const poiExtraDe1: POI[] = [
         "Today the palace houses several museums.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Nymphenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Nymphenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Nymphenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Nymphenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -1098,6 +1269,25 @@ export const poiExtraDe1: POI[] = [
         "Hops are an essential raw material for beer production.",
         "Partly protected by a Protected Geographical Indication (PGI).",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Hallertau Hopfenanbaugebiet egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hallertau Hopfenanbaugebiet ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hallertau Hopfenanbaugebiet területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hallertau Hopfenanbaugebiet tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -1219,6 +1409,25 @@ export const poiExtraDe1: POI[] = [
         "Münster lies in the Münsterland, a flat parkland landscape.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Münster egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Münster ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Münster területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Münster tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -1336,6 +1545,25 @@ export const poiExtraDe1: POI[] = [
         "The Von der Heydt Museum holds a significant art collection.",
         "Wuppertal was created in 1929 by the merger of several towns.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wuppertal egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wuppertal ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wuppertal területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wuppertal tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -1455,6 +1683,25 @@ export const poiExtraDe1: POI[] = [
         "Today natural revitalisation of the Lippe floodplains is under way.",
         "Gives its name to the Lippe district.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Lippe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lippe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lippe területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lippe tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -1576,6 +1823,25 @@ export const poiExtraDe1: POI[] = [
         "Popular excursion destination in the East Westphalia region.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Externsteine egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Externsteine ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Externsteine területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Externsteine tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -1694,6 +1960,25 @@ export const poiExtraDe1: POI[] = [
         "The Krupp family's Villa Hügel stands on the shore.",
         "Part of the Ruhr Valley cycle route.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Baldeneysee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Baldeneysee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Baldeneysee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Baldeneysee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -1815,6 +2100,25 @@ export const poiExtraDe1: POI[] = [
         "Combines Carolingian, Byzantine and Gothic architectural elements.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Aachener Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Aachener Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Aachener Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Aachener Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -1933,6 +2237,25 @@ export const poiExtraDe1: POI[] = [
         "The Externsteine are an important rock monument in the forest.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Teutoburger Wald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Teutoburger Wald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Teutoburger Wald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Teutoburger Wald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -2050,6 +2373,25 @@ export const poiExtraDe1: POI[] = [
         "Structural transformation towards services, technology and culture.",
         "Ruhr2010 was the European Capital of Culture.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ruhrgebiet – Industriekultur egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ruhrgebiet – Industriekultur ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ruhrgebiet – Industriekultur területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ruhrgebiet – Industriekultur tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -2170,6 +2512,25 @@ export const poiExtraDe1: POI[] = [
         "The palace park is designed in French style.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Augustusburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Augustusburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Augustusburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Augustusburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -2288,6 +2649,25 @@ export const poiExtraDe1: POI[] = [
         "Reservoirs such as the Wupper Dam secure the water supply.",
         "Gives its name to the city of Wuppertal.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wupper egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wupper ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wupper területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wupper tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -2409,6 +2789,25 @@ export const poiExtraDe1: POI[] = [
         "Ulm University of Applied Sciences and the University of Ulm are important educational institutions.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ulm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ulm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ulm területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ulm tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -2527,6 +2926,25 @@ export const poiExtraDe1: POI[] = [
         "A weather station and a tower stand on the summit.",
         "Clear views of the Alps possible on good days.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Feldberg (Schwarzwald) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Feldberg (Schwarzwald) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Feldberg (Schwarzwald) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Feldberg (Schwarzwald) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -2647,6 +3065,25 @@ export const poiExtraDe1: POI[] = [
         "Important waterway for navigation and tourism.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Neckar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neckar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Neckar területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Neckar tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -2764,6 +3201,25 @@ export const poiExtraDe1: POI[] = [
         "The Stiftskirche dominates the medieval old town.",
         "The annual punting race on the Neckar is a popular folk festival.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Tübingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Tübingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Tübingen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Tübingen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -2885,6 +3341,25 @@ export const poiExtraDe1: POI[] = [
         "Approximately 350,000 visitors annually.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Burg Hohenzollern egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Hohenzollern ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Burg Hohenzollern területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Burg Hohenzollern tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -3004,6 +3479,25 @@ export const poiExtraDe1: POI[] = [
         "Titisee-Neustadt is a well-known spa resort.",
         "Nearby lies the Feldberg, the highest point in Baden-Württemberg.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Titisee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Titisee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Titisee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Titisee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -3125,6 +3619,25 @@ export const poiExtraDe1: POI[] = [
         "Today the monastery houses a grammar school.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kloster Maulbronn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Maulbronn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kloster Maulbronn területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kloster Maulbronn tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -3242,6 +3755,25 @@ export const poiExtraDe1: POI[] = [
         "The old town remained largely undestroyed in the Second World War.",
         "Known for its harbour and the Imperia monument.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Konstanz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Konstanz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Konstanz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Konstanz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -3361,6 +3893,25 @@ export const poiExtraDe1: POI[] = [
         "Schwarzwälder Kirschtorte (Black Forest gateau) is a world-famous regional speciality.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nordschwarzwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nordschwarzwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nordschwarzwald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nordschwarzwald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -3478,6 +4029,25 @@ export const poiExtraDe1: POI[] = [
         "Pioneer in solar energy and sustainability.",
         "Freiburg Minster is regarded as a jewel of the Gothic.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Freiburg im Breisgau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiburg im Breisgau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Freiburg im Breisgau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Freiburg im Breisgau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -3600,6 +4170,25 @@ export const poiExtraDe1: POI[] = [
         "The Neues Museum contains the famous bust of Nefertiti.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Museumsinsel Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Museumsinsel Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Museumsinsel Berlin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Museumsinsel Berlin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -3720,6 +4309,25 @@ export const poiExtraDe1: POI[] = [
         "Official cultural monument since 1991.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) East Side Gallery egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a East Side Gallery ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) East Side Gallery területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A East Side Gallery tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -3838,6 +4446,25 @@ export const poiExtraDe1: POI[] = [
         "Severely damaged in the Second World War, subsequently restored.",
         "Houses important collections of porcelain, paintings and decorative arts.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Charlottenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Charlottenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Charlottenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Charlottenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -3958,6 +4585,25 @@ export const poiExtraDe1: POI[] = [
         "Important part of Berlin's fresh air corridor.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Grunewald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Grunewald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Grunewald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Grunewald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -4076,6 +4722,25 @@ export const poiExtraDe1: POI[] = [
         "Pfaueninsel (Peacock Island) lies on the Berlin section of the Havel.",
         "Part of the federal waterway network.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Havel (Berlin) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Berlin) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Havel (Berlin) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Havel (Berlin) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -4197,6 +4862,25 @@ export const poiExtraDe1: POI[] = [
         "Under heritage protection and modernised in 2004.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Olympiastadion Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Olympiastadion Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Olympiastadion Berlin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Olympiastadion Berlin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -4317,6 +5001,25 @@ export const poiExtraDe1: POI[] = [
         "Over 500,000 people visit the memorial annually.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Holocaust-Mahnmal Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Holocaust-Mahnmal Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Holocaust-Mahnmal Berlin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Holocaust-Mahnmal Berlin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -4434,6 +5137,25 @@ export const poiExtraDe1: POI[] = [
         "Centre of West Berlin life during the division.",
         "One of Germany's most famous shopping destinations.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kurfürstendamm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kurfürstendamm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kurfürstendamm területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kurfürstendamm tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [
@@ -4554,6 +5276,25 @@ export const poiExtraDe1: POI[] = [
         "The Spree connects the lake to the rest of Berlin's waterway system.",
       ],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Müggelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Müggelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Müggelsee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Müggelsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
       "de": [
         {
@@ -4673,6 +5414,25 @@ export const poiExtraDe1: POI[] = [
         "Permanent exhibition on the history of the conference and the Holocaust.",
         "An important learning site in Germany's culture of remembrance.",
       ],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wannsee-Konferenz Gedenkstätte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wannsee-Konferenz Gedenkstätte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wannsee-Konferenz Gedenkstätte területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wannsee-Konferenz Gedenkstätte tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
       "de": [

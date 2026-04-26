@@ -19,6 +19,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Németország egyik leglátogatottabb állatkertje.", "Híres az emberszabású majmok házáról.", "Több mint 1200 állatfaj.", "Jelentős botanikai gyűjtemények."],
       ro: ["Una dintre cele mai vizitate grădini zoologice din Germania.", "Faimoasă pentru casa maimuțelor antropoide.", "Peste 1.200 de specii de animale.", "Colecții botanice importante."],
       en: ["One of the most visited zoos in Germany.", "Famous for its great ape house.", "Home to over 1,200 animal species.", "Significant botanical collections."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wilhelma Stuttgart egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wilhelma Stuttgart ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wilhelma Stuttgart területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wilhelma Stuttgart tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -38,6 +57,26 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 100 attrakció és show.", "Többször választották a világ legjobb vidámparkjának.", "Saját 'Rulantica' vízi világ.", "Évente több mint 5 millió látogató."],
       ro: ["Peste 100 de atracții și spectacole.", "Premiat de mai multe ori ca cel mai bun parc de distracții din lume.", "Lume acvatică proprie 'Rulantica'.", "Peste 5 milioane de vizitatori anual."],
       en: ["Over 100 attractions and shows.", "Multiple-time winner of the world's best theme park award.", "Features its own water world, 'Rulantica'.", "Welcomes over 5 million visitors per year."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Europa-Park egy témapark a németországi Baden-Württemberg tartományban található Rust településen. A park egy 95 hektáros területen helyezkedik el, és húsz tematikus zónában mintegy száz attrakciót kínál, köztük előadásokat és tizennégy hullámvasútat. A parkhoz tartozik továbbá hat szálloda, egy kemping, egy tipi-falu, egy mozi, valamint egy konferenciaközpont is.
+2022-ben a látogatók száma elérte az 5,4 millió főt. A(z) Europa-Park Rust egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "2022-ben a látogatók száma elérte az 5,4 millió főt.",
+        "A(z) Europa-Park Rust területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Europa-Park Rust tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -57,6 +96,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Farkasok, hiúzok és vidrák otthona.", "Tanösvény az erdő ökológiájáról.", "A hazai állatok fajvédelmére összpontosít.", "Egész évben nyitva."],
       ro: ["Adăpostește lupi, râși și vidre.", "Traseu educativ despre ecologia pădurii.", "Accent pe conservarea speciilor locale.", "Deschis tot anul."],
       en: ["Home to wolves, lynxes, and otters.", "Educational trail about forest ecology.", "Focuses on the conservation of native species.", "Open year-round."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Bayerwald-Tierpark Lohberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bayerwald-Tierpark Lohberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bayerwald-Tierpark Lohberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bayerwald-Tierpark Lohberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -76,6 +134,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Ragadozómadár-bemutatók.", "Szabadon kószáló dámvadak.", "Nagy kalandjátszótér.", "Medvék és farkasok természetközeli kifutókban."],
       ro: ["Spectacole cu păsări de pradă.", "Cerbi lopătari care circulă liber.", "Teren mare de joacă pentru aventură.", "Urși și lupi în țarcuri naturale."],
       en: ["Bird of prey flight demonstrations.", "Free-roaming fallow deer.", "Large adventure playground.", "Bears and wolves in naturalistic enclosures."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wildpark Poing egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wildpark Poing ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wildpark Poing területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wildpark Poing tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -95,6 +172,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Nagy Trópusi Ház a világ egyik legmagasabbja.", "Több mint 20 000 növényfaj.", "Botanikai múzeum a helyszínen.", "Fontos kutatási helyszín."],
       ro: ["Marea Casă Tropicală este una dintre cele mai înalte din lume.", "Peste 20.000 de specii de plante.", "Muzeu botanic la fața locului.", "Sediu important de cercetare."],
       en: ["The Great Tropical House is one of the world's tallest.", "Home to over 20,000 plant species.", "Features an on-site Botanical Museum.", "A major center for botanical research."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Botanischer Garten Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Botanischer Garten Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Botanischer Garten Berlin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Botanischer Garten Berlin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -114,6 +210,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 20 000 trópusi növény.", "Óránkénti vihar villámlással és dörgéssel.", "Tengeralattjáró-szimuláció a mélytengeri kutatáshoz.", "Egész évben trópusi klíma."],
       ro: ["Peste 20.000 de plante tropicale.", "Furtună orară cu fulgere și tunete.", "Simulare de submarin pentru cercetarea abisală.", "Climat tropical tot anul."],
       en: ["Home to over 20,000 tropical plants.", "Simulated hourly thunderstorms with lightning.", "Deep-sea research submarine simulation.", "Tropical climate maintained year-round."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Biosphäre Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Biosphäre Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Biosphäre Potsdam területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Biosphäre Potsdam tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -133,6 +248,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Nagy bemutatókert.", "Ritka haszonállat-fajták otthona.", "A Brandenburgi Mezőgazdasági Kiállítás helyszíne.", "Kalandjátszótér gyerekeknek."],
       ro: ["Grădină demonstrativă mare.", "Adăpostește rase rare de animale domestice.", "Locul de desfășurare a Expoziției Agricole din Brandenburg.", "Teren de joacă pentru copii."],
       en: ["Features a large demonstration garden.", "Home to rare breeds of farm animals.", "Host of the Brandenburg Agricultural Exhibition.", "Includes an adventure playground for children."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) MAFZ Erlebnispark Paaren egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a MAFZ Erlebnispark Paaren ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) MAFZ Erlebnispark Paaren területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A MAFZ Erlebnispark Paaren tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -152,6 +286,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 600 vadon élő faj és 3000 nemesített változat.", "A májusi virágzás látványos.", "Interaktív kiállítások a botanikában.", "Ingyenes belépés a parkba."],
       ro: ["Peste 600 de specii sălbatice și 3.000 de hibrizi.", "Înflorirea în luna mai este spectaculoasă.", "Expoziții interactive în 'botanika'.", "Intrare gratuită în parc."],
       en: ["Over 600 wild species and 3,000 hybrids.", "Spectacular blooming season in May.", "Interactive science exhibitions at botanika.", "Free admission to the park area."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Rhododendron-Park Bremen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rhododendron-Park Bremen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Rhododendron-Park Bremen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Rhododendron-Park Bremen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -171,6 +324,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Állatok természetes környezetben.", "45 méter magas Elbára néző kilátó.", "Napi ragadozómadár-bemutatók.", "Simogatható csüngőhasú malacok."],
       ro: ["Animale în mediul lor natural.", "Turn de 45 de metri cu vedere la Elba.", "Spectacole zilnice cu păsări de pradă.", "Porci vietnamezi care pot fi mângâiați."],
       en: ["Animals kept in naturalistic habitats.", "Features a 45-meter Elbe View Tower.", "Daily flight demonstrations with birds of prey.", "Includes a petting area with pot-bellied pigs."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wildpark Schwarze Berge egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wildpark Schwarze Berge ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wildpark Schwarze Berge területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wildpark Schwarze Berge tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -190,6 +362,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Pálmaházat 1871-ben nyitották meg.", "Növények szinte minden éghajlati övből.", "Csónakázási lehetőség a tavon.", "Népszerű úti cél családoknak."],
       ro: ["Casa Palmierilor a fost deschisă în 1871.", "Plante din aproape toate zonele climatice.", "Posibilitatea de plimbare cu barca pe iaz.", "Destinație populară pentru familii."],
       en: ["The Palm House was opened in 1871.", "Showcases plants from nearly all climate zones.", "Boating is available on the park pond.", "A popular destination for families and tourists."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Palmengarten Frankfurt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Palmengarten Frankfurt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Palmengarten Frankfurt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Palmengarten Frankfurt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -209,6 +400,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Georg von Opel alapította.", "Nagy elefántkifutó.", "Sok állat besétálható kifutókban.", "Integrált erdei tanösvény."],
       ro: ["Fondată de Georg von Opel.", "Țarc mare pentru elefanți.", "Multe animale în țarcuri accesibile.", "Traseu educativ forestier integrat."],
       en: ["Founded by Georg von Opel.", "Home to a large elephant enclosure.", "Many animals are kept in walk-through areas.", "Includes an integrated forest nature trail."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Opel-Zoo Kronberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Opel-Zoo Kronberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Opel-Zoo Kronberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Opel-Zoo Kronberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -228,6 +438,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Hatalmas erdei kifutók barna medvéknek.", "A látogatók megfigyelhetik a medvéket.", "Állatvédelmi információs központ.", "A NÉGY MANCS (VIER PFOTEN) projektje."],
       ro: ["Țarcuri forestiere mari pentru urși bruni.", "Vizitatorii pot observa urșii.", "Centru de informare despre protecția animalelor.", "Un proiect al fundației VIER PFOTEN."],
       en: ["Spacious forest enclosures for brown bears.", "Visitors can observe bears in a natural setting.", "Educational center for animal welfare.", "A project by the FOUR PAWS organization."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Bärenwald Müritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bärenwald Müritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bärenwald Müritz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bärenwald Müritz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -247,6 +476,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Lenyűgöző 'A tengerek óriásai 1:1' kiállítás.", "Nagy akváriumok az Északi- és Balti-tengerről.", "Pingvinek a tetőn.", "Építészetileg díjnyertes épület."],
       ro: ["Expoziție impresionantă 'Giganții mărilor 1:1'.", "Acvarii mari pentru Marea Nordului și Marea Baltică.", "Pinguini pe acoperiș.", "Clădire premiată pentru arhitectură."],
       en: ["Features the impressive '1:1 Giants of the Seas' exhibit.", "Large aquariums for the North and Baltic Seas.", "Home to penguins on the roof terrace.", "Housed in an architecturally award-winning building."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) OZEANEUM Stralsund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a OZEANEUM Stralsund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) OZEANEUM Stralsund területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A OZEANEUM Stralsund tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -266,6 +514,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Itt található a 'Colossos', az egyik legmagasabb fahullámvasút.", "Tematikus részlegek, mint az 'Elfelejtettek földje'.", "Saját kalandszállodák.", "Több mint 40 attrakció."],
       ro: ["Găzduiește 'Colossos', unul dintre cele mai înalte roller coastere din lemn.", "Zone tematice precum 'Țara celor uitați'.", "Hoteluri tematice proprii.", "Peste 40 de atracții."],
       en: ["Home to 'Colossos', one of the tallest wooden roller coasters.", "Includes theme areas like 'Land of the Forgotten'.", "Features on-site adventure hotels.", "Offers over 40 different rides and attractions."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Heide Park Resort egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Heide Park Resort ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Heide Park Resort területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Heide Park Resort tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -285,6 +552,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 4000 madár 650 fajból.", "Látványos repülési bemutatók.", "Tenyésztési programok veszélyeztetett madaraknak.", "24 hektáros parkterület."],
       ro: ["Peste 4.000 de păsări din 650 de specii.", "Spectacole de zbor spectaculoase.", "Programe de reproducere pentru păsări amenințate.", "24 de hectare de suprafață."],
       en: ["Home to over 4,000 birds from 650 species.", "Features world-class bird flight shows.", "Focuses on breeding programs for endangered birds.", "Covers 24 hectares of parkland."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Weltvogelpark Walsrode egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Weltvogelpark Walsrode ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Weltvogelpark Walsrode területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Weltvogelpark Walsrode tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -304,6 +590,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Rendkívül részletgazdag tematikus világairól ismert.", "Többszörösen díjazott hullámvasutak.", "Legmagasabb színvonalú show-műsorok.", "Saját élményszállodák."],
       ro: ["Cunoscut pentru lumi tematice extrem de detaliate.", "Roller coastere premiate de mai multe ori.", "Spectacole la cel mai înalt nivel.", "Hoteluri tematice proprii."],
       en: ["Famous for its extremely detailed immersive worlds.", "Home to multiple award-winning roller coasters.", "Offers high-quality entertainment and shows.", "Includes several on-site themed hotels."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Phantasialand Brühl egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Phantasialand Brühl ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Phantasialand Brühl területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Phantasialand Brühl tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -323,6 +628,27 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Természetközeli kifutók látható rácsok nélkül.", "Csónaktúra az Afrika-világban.", "Jegesmedve-kifutó az Alaszka-világban.", "Beltéri játszótér gyerekeknek."],
       ro: ["Țarcuri naturale fără gratii vizibile.", "Plimbare cu barca în lumea Africa.", "Țarc pentru urși polari în lumea Alaska.", "Teren de joacă interior pentru copii."],
       en: ["Naturalistic enclosures without visible barriers.", "Includes a boat safari in the Africa section.", "Features a large polar bear area in the Alaska section.", "Offers an indoor playground for children."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Zoom 2015-ben bemutatott kanadai–brazil vegyes technikájú film, amelyben valós és számítógéppel animált díszletek, élő és számítógéppel animált szereplők közösen szerepelnek. A filmet Pedro Morelli rendezte.
+A forgatókönyvet Matthew Hansen írta. A producerei Niv Fichman, Fernando Meirelles és Paulo Morelli. A főszerepekben Gael García Bernal, Alison Pill, Mariana Ximenes, Tyler Labine és Jason Priestley láthatók. A film zeneszerzője Kid Koala. A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures. Műfaja filmvígjáték és filmdráma. 
+Kanadában 2015. szeptember 11-én, Brazíliában 2016. március 31-én mutatták be a mozikban. Magyarországon elsőként az HBO Gon volt elérhető.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures.",
+        "szeptember 11-én, Brazíliában 2016.",
+        "március 31-én mutatták be a mozikban.",
+        "A(z) Zoom Erlebniswelt Gelsenkirchen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -342,6 +668,45 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az Expedition GeForce-t a világ egyik legjobb hullámvasútjaként tartják számon.", "Maja a méhecske és Wickie tematikus részlegek.", "Napi vízisí-show.", "A Plopsa-csoport tagja."],
       ro: ["Expedition GeForce este considerat unul dintre cele mai bune roller coastere din lume.", "Zone tematice cu Maya Albina și Wickie.", "Spectacol zilnic de schi nautic.", "Parte a grupului Plopsa."],
       en: ["Expedition GeForce is consistently ranked among the world's best roller coasters.", "Features areas themed after Maya the Bee and Vicky the Viking.", "Known for its daily water ski shows.", "Member of the Plopsa entertainment group."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Zene
+Holiday, Alaska in Winter-album (2008)
+Holiday, America-album (1974)
+Holiday, Bee Gees-dal
+Holiday, Dilana-dal
+Holiday, Dizzee Rascal-dal
+Holiday, Green Day-dal
+Holiday, KSI-dal
+Holiday, Lil Nas X-dal
+Holiday, Madonna-dal
+Holiday, The Magnetic Fields-album (1999)
+Holiday, Naughty by Nature-dal
+Holiday, Russ Freeman-album (1995)
+Holiday, Roberta Flack-album (1997)
+Holiday, Sammi Cheng-album (1991)
+Holiday, Vampire Weekend-dal
+Holiday, Vanessa Amorosi-dal
+Holiday, Volkova Sisters-album (2015)
+Filmek
+Holiday, 1930-as amerikai film
+Holiday (The Holiday), 2006-os amerikai film A(z) Holiday Park Haßloch egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Holiday Park Haßloch területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Holiday Park Haßloch tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -361,6 +726,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 200 vadállat, például medvék és farkasok.", "Nyári bobpálya és számos játék.", "Ragadozómadár-bemutató.", "Ideális gyermekes családoknak."],
       ro: ["Peste 200 de animale sălbatice, cum ar fi urși și lupi.", "Pistă de bob de vară și multe atracții.", "Spectacol cu păsări de pradă.", "Ideal pentru familii cu copii."],
       en: ["Home to over 200 wild animals, including bears and wolves.", "Features a summer toboggan run and many rides.", "Includes a bird of prey flight show.", "A perfect destination for families with children."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Eifelpark Gondorf egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eifelpark Gondorf ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Eifelpark Gondorf területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Eifelpark Gondorf tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -380,6 +764,38 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A világ legnagyobb dinoszaurusz-show-ja.", "Realisztikus őskori tájak.", "Interaktív időutazó állomások.", "Fedett attrakció egy egykori bányában."],
       ro: ["Cel mai mare spectacol cu dinozauri din lume.", "Peisaje preistorice realiste.", "Stații interactive de călătorie în timp.", "Atracție interioară într-o fostă mină."],
       en: ["Features the world's largest dinosaur show.", "Realistic prehistoric landscapes and environments.", "Includes interactive time-travel stations.", "An indoor attraction located at a former coal mine."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Gondwana több jelentésben alkalmazott szó:
+
+Gondwana, az egyik őskontinens, a déli szárazulatok összefoglaló neve
+Gondwana, India egyik kora újkori állama
+Gondwana, India egyik mai régiója, az előbbinek helyén
+Gondwana, az Antarktisz egyik kutatóállomása
+Gondwana, az ős- és ókori bemutató- és szórakoztatóközpont
+Gondwana Nemzeti Park, Dél-Afrikában
+Gondwana, chilei reggae-zenekar
+Gondwana, Ausztrália és Új-Kaledónia között lefektetett kommunikációs kábel
+Hasonló névvel:
+
+Gondwanaland, ausztrál világzenét játszó zenekar
+Gondwanaland, a Steroid Maximus zenekar albuma A(z) Gondwana – Das Praehistorium egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Gondwana – Das Praehistorium területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Gondwana – Das Praehistorium tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -399,6 +815,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Különböző kontinensekről származó farkasok otthona.", "Werner Freund viselkedéskutató alapította.", "Ingyenes belépés.", "Nyilvános vezetések lehetségesek."],
       ro: ["Adăpostește lupi de pe diverse continente.", "Fondat de cercetătorul Werner Freund.", "Intrare gratuită.", "Posibilitatea de tururi ghidate publice."],
       en: ["Home to wolves from different parts of the world.", "Founded by behaviorist researcher Werner Freund.", "Offers free admission to the public.", "Public guided tours are available."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wolfspark Werner Freund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wolfspark Werner Freund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wolfspark Werner Freund területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wolfspark Werner Freund tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -418,6 +853,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Németország legmagasabb csúszdatornya.", "Több mint 200 állat a vadasparkban.", "Hatalmas 'In-Sola' beltéri játszótér.", "Ideális családi kirándulásokhoz."],
       ro: ["Cel mai înalt turn cu tobogane din Germania.", "Peste 200 de animale în parcul de vânătoare.", "Teren de joacă interior uriaș 'In-Sola'.", "Ideal pentru excursii în familie."],
       en: ["Features Germany's tallest slide tower.", "Home to over 200 animals in the wildlife area.", "Includes a massive indoor playground called 'In-Sola'.", "An ideal destination for family day trips."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Sonnenlandpark Lichtenau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sonnenlandpark Lichtenau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Sonnenlandpark Lichtenau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Sonnenlandpark Lichtenau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -437,6 +891,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Életnagyságú dinoszaurusz-rekonstrukciók.", "Interaktív állomások gyerekeknek.", "Szomszédos labirintus.", "Izgalmas őskori élmény."],
       ro: ["Reconstrucții de dinozauri în mărime naturală.", "Stații interactive pentru copii.", "Labirint adiacent.", "Experiență preistorică captivantă."],
       en: ["Showcases life-sized dinosaur reconstructions.", "Includes hands-on interactive stations for kids.", "Features an adjacent maze/labyrinth.", "An exciting journey into the prehistoric past."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Saurierpark Kleinwelka egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saurierpark Kleinwelka ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saurierpark Kleinwelka területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saurierpark Kleinwelka tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -456,6 +929,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Öreg tölgyfák a parkban.", "Nagy besétálható kenguru-kifutó.", "Állatsimogató gyerekeknek.", "Elkötelezett a fajvédelem mellett."],
       ro: ["Stejari bătrâni în parc.", "Țarc mare pentru canguri în care se poate intra.", "Țarc cu animale pentru mângâiat.", "Implicat în conservarea speciilor."],
       en: ["Features old oak trees throughout the park.", "Includes a large walk-through kangaroo area.", "Offers a petting zoo for children.", "Active in species conservation programs."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Tiergarten ill. hivatalosan Großer Tiergarten Berlin egyik nagy belvárosi parkja, csak a neve „állatkert”. Területe 210 hektár és így a tempelhofi park után a város második, és Németország harmadik legnagyobb belvárosi parkja. Összehasonlításul: a müncheni Englischer Garten 417 hektár, a londoni Hyde Park 141 hektár, a New York-i Central Park 341 hektár. Több forgalmas út is áthalad a területén, többek között a Straße des 17. Juni; az utak kereszteződésében áll a Siegessäule, egy porosz győzelmi emlékmű. Itt fut a Budapester Straße is.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Területe 210 hektár és így a tempelhofi park után a város második, és Németország harmadik legnagyobb belvárosi parkja.",
+        "Összehasonlításul: a müncheni Englischer Garten 417 hektár, a londoni Hyde Park 141 hektár, a New York-i Central Park 341 hektár.",
+        "Több forgalmas út is áthalad a területén, többek között a Straße des 17.",
+        "A(z) Tiergarten Stendal területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -475,6 +967,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Jahrtausendturm a világ egyik legmagasabb faépülete.", "Nyári bobpálya és kalandpark.", "Pillangóház.", "Változatos tematikus kertek."],
       ro: ["Turnul Mileniului este una dintre cele mai înalte clădiri din lemn din lume.", "Pistă de bob de vară și parc de cățărat.", "Casa fluturilor.", "Diverse grădini tematice."],
       en: ["The Millennium Tower is one of the world's tallest wooden buildings.", "Features a summer toboggan run and climbing park.", "Home to a tropical butterfly house.", "Boasts a variety of beautiful themed gardens."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Elbauenpark Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbauenpark Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Elbauenpark Magdeburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Elbauenpark Magdeburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -494,6 +1005,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Közvetlenül a Balti-tenger partján fekszik.", "Látványos 'Kärnan' hullámvasút.", "'Hanza Európában' tematikus világ.", "Családbarát attrakciók."],
       ro: ["Situat direct la Marea Baltică.", "Roller coaster spectaculos 'Kärnan'.", "Lume tematică 'Hansa în Europa'.", "Atracții pentru întreaga familie."],
       en: ["Located directly on the Baltic Sea coast.", "Home to the spectacular 'Kärnan' roller coaster.", "Features the 'Hanseatic League in Europe' theme world.", "Offers a wide range of family-friendly attractions."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Hansa-Park Sierksdorf egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hansa-Park Sierksdorf ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hansa-Park Sierksdorf területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hansa-Park Sierksdorf tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -513,6 +1043,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Egy zátonyra futott nagy ámbráscet csontváza.", "Óriás akvárium panorámaablakkal.", "Interaktív állomások a Watt-tengerről.", "Ideális az Északi-tenger megismeréséhez."],
       ro: ["Scheletul unui cașalot eșuat.", "Acvariu uriaș cu geam panoramic.", "Stații interactive despre Marea Wadden.", "Ideal pentru a înțelege Marea Nordului."],
       en: ["Displays the skeleton of a stranded sperm whale.", "Features a large aquarium with a panoramic view.", "Includes interactive stations about the Wadden Sea ecosystem.", "The best place to learn about the North Sea."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Multimar Wattforum Tönning egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Multimar Wattforum Tönning ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Multimar Wattforum Tönning területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Multimar Wattforum Tönning tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -532,6 +1081,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Németország harmadik legnagyobb állatkertje terület alapján.", "Nagy elefántkifutó.", "Orrszarvú-tenyésztési program.", "Szép kilátás Erfurtra."],
       ro: ["A treia cea mai mare grădină zoologică din Germania ca suprafață.", "Țarc mare pentru elefanți.", "Program de reproducere pentru rinoceri.", "Vedere frumoasă asupra orașului Erfurt."],
       en: ["Germany's third-largest zoo by land area.", "Home to a significant elephant enclosure.", "Participates in rhinoceros breeding programs.", "Offers beautiful panoramic views over Erfurt."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Thüringer Zoopark Erfurt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Thüringer Zoopark Erfurt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Thüringer Zoopark Erfurt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Thüringer Zoopark Erfurt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -551,6 +1119,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az UNESCO világörökség részét képező Hainich közepén.", "44 méter magas kilátótorony.", "Interaktív környezeti nevelés.", "Akadálymentesen látogatható."],
       ro: ["În mijlocul Patrimoniului Mondial UNESCO Hainich.", "Turn de observație de 44 de metri înălțime.", "Educație ecologică interactivă.", "Accesibil pentru persoanele cu dizabilități."],
       en: ["Located within the Hainich UNESCO World Heritage site.", "Features a 44-meter-tall observation tower.", "Offers interactive environmental education.", "Fully accessible for visitors with disabilities."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Baumkronenpfad Hainich egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Baumkronenpfad Hainich ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Baumkronenpfad Hainich területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Baumkronenpfad Hainich tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -570,6 +1157,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Kínai, japán és orientális kert.", "Libegő a park felett.", "Az IGA 2017 helyszíne.", "Nagy vízi játszótér."],
       ro: ["Grădină chinezească, japoneză și orientală.", "Telecabină deasupra parcului.", "Gazda expoziției IGA 2017.", "Teren mare de joacă cu apă."],
       en: ["Features Chinese, Japanese, and Oriental gardens.", "Includes a cable car ride over the park grounds.", "Venue for the International Garden Exhibition 2017.", "Boasts a large water playground for children."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Gärten der Welt Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gärten der Welt Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Gärten der Welt Berlin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Gärten der Welt Berlin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
 
@@ -591,6 +1197,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az S-osztály gyártási helye.", "A saját 'Factory 56' ultramodern.", "Tízezernyi alkalmazott.", "Kiterjedt kutatási részleg."],
       ro: ["Locul de producție al clasei S.", "Propria 'Factory 56' este ultramodernă.", "Zeci de mii de angajați.", "Departament extins de cercetare."],
       en: ["The primary production site for the S-Class.", "Home to the state-of-the-art 'Factory 56'.", "Employs tens of thousands of workers.", "Includes an extensive research and development department."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Mercedes-Benz német járműmárka a német Mercedes-Benz Group AG cég számos országban bejegyzett védjegye. Magyarországon a Mercedes-Benz Group leányvállalatának neve Mercedes-Benz Manufacturing Hungary. A cég elsődlegesen személygépkocsikat, tehergépkocsikat, autóbuszokat és beléjük való motorokat gyárt és forgalmaz. A(z) Mercedes-Benz Werk Sindelfingen egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Mercedes-Benz Werk Sindelfingen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Mercedes-Benz Werk Sindelfingen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -610,6 +1235,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A világ legnagyobb Bosch-telephelye.", "Fókuszban az elektromobilitás és a hidrogén.", "Hosszú ipari múlt 1910 óta.", "Fontos képzési központ."],
       ro: ["Cea mai mare locație Bosch din lume.", "Accent pe electromobilitate și hidrogen.", "Istorie industrială lungă din 1910.", "Centru important de formare profesională."],
       en: ["The largest Bosch site globally.", "Focuses on electric mobility and hydrogen technology.", "Rich industrial history dating back to 1910.", "A major center for vocational training."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Robert Bosch Werk Feuerbach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Robert Bosch Werk Feuerbach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Robert Bosch Werk Feuerbach területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Robert Bosch Werk Feuerbach tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -629,6 +1273,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 40 000 alkalmazott a telephelyen.", "Az A3, A4 és A5 modellek gyártása.", "Audi Forum múzeummal a helyszínen.", "A régió legfontosabb gazdasági motorja."],
       ro: ["Peste 40.000 de angajați în locație.", "Producția modelelor A3, A4 și A5.", "Audi Forum cu muzeu la fața locului.", "Cel mai important motor economic al regiunii."],
       en: ["Employs over 40,000 people at this site.", "Produces the A3, A4, and A5 car models.", "Features the Audi Forum and on-site museum.", "The most significant economic driver for the region."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Audi AG német autógyártó vállalat székhelye a németországi Ingolstadtban található. 1964 óta 99,7%-ban a Volkswagen AG leányvállalata. Gépjárműveit a felső-közép, illetve a felső kategóriába pozicionálja. A cég egyik fontos jármű-, és motorgyára található Győrben, az Audi Hungaria Zrt. A(z) Audi Werk Ingolstadt egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "1964 óta 99,7%-ban a Volkswagen AG leányvállalata.",
+        "A(z) Audi Werk Ingolstadt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Audi Werk Ingolstadt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -648,6 +1311,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Simatic vezérlőket gyárt.", "Magas, 75% feletti automatizáltsági fok.", "Többször választották az 'Év gyárának'.", "A gyártás digitális ikertestvére."],
       ro: ["Produce controlere Simatic.", "Grad ridicat de automatizare de peste 75%.", "Premiată de mai multe ori ca 'Fabrica anului'.", "Gemănul digital al producției."],
       en: ["Manufactures Simatic control units.", "Boasts a high automation level of over 75%.", "Multiple-time winner of 'Factory of the Year'.", "Utilizes a digital twin of the entire production."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Siemens AG egy német multinacionális technológiai konglomerátum. Központja Berlinben és Münchenben található. A vállalat portfóliója az ipar automatizálására és digitalizálására, épületek infrastruktúrájára, decentralizált energiarendszerekre, vasúti és közúti mobilitási megoldásokra, valamint orvostechnikára is kiterjed. 1989-ben megvásárolta az Simmering-Graz-Pauker-t. A(z) Siemens Werk Amberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "1989-ben megvásárolta az Simmering-Graz-Pauker-t.",
+        "A(z) Siemens Werk Amberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Siemens Werk Amberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -667,6 +1349,26 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A világ legnagyobb Siemens-beruházása.", "Lakás, munka és kutatás kombinációja.", "Jelképe a Siemens-torony.", "Az UNESCO világörökség része."],
       ro: ["Cea mai mare investiție Siemens la nivel mondial.", "Combinație de locuințe, muncă și cercetare.", "Simbolul este Turnul Siemens.", "Parte a Patrimoniului Mondial UNESCO."],
       en: ["Siemens' largest investment project globally.", "Mixes residential living, working, and research.", "The Siemens Tower is its most famous landmark.", "Part of the area is a UNESCO World Heritage site."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Siemensstadt (németül: Großsiedlung Siemensstadt) avagy a Körtelep (Ringsiedlung) társadalmilag fontos lakónegyed Berlinben, részben Charlottenburg-Wilmersdorf kerület északi részén, Charlottenburg-Nord városrészben. 1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként. A Neues Bauen stílusban emelt tömbök tervezésében részt vettek a Weimari Köztársaság olyan híres építészei, mint Walter Gropius, Otto Bartning, Hugo Häring, Fred Forbat (Forbát Alfréd) és Paul Rudolf Henning. A beépítetlen területeket Leberecht Migge alakította ki. Mivel a Kör (Der Ring) néven működő építészegylet a szoros együttműködésre támaszkodott a munkában, a lakónegyed a Körtelep (Ringsiedlung) melléknevet viseli.
+Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként.",
+        "Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
+        "A(z) Siemensstadt Square területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Siemensstadt Square tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -686,6 +1388,40 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Model Y típust gyártja.", "Saját akkumulátorcella-gyártást terveznek.", "Több ezer új munkahely a régióban.", "Fókuszban a fenntartható gyártás."],
       ro: ["Produce Model Y.", "Planificată producția proprie de celule de baterii.", "Mii de locuri de muncă noi în regiune.", "Accent pe producția sustenabilă."],
       en: ["Currently produces the Model Y.", "Planned site for in-house battery cell production.", "Created thousands of new jobs in the region.", "Focuses on sustainable manufacturing processes."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Tesla, Nikola Tesla (1856–1943) fizikus, feltaláló, villamosmérnök, filozófus
+Tudomány
+tesla, a mágneses indukció mértékegysége
+Tesla holdkráter
+Tesla-tekercs, Nikola Tesla találmánya
+2244 Tesla, a Naprendszer kisbolygóövében található aszteroida
+TESLA, TeV-Energy Superconducting Linear Accelerator projekt rövidítése (2000)
+Zene
+Tesla, Constantine Koukias operája
+Tesla, amerikai hard rock együttes
+Cégek
+Tesla, csehországi elektronikai vállalat
+Nikola Tesla (Radioindustrija Nikola Tesla; Beograd), jugoszláv rádiógyártó vállalat 1947 és 1959 között
+Tesla, Inc. (korábban Tesla Motors), kaliforniai elektromos autókat, napelemek és energia tároló egységeket fejlesztő és gyártó cég
+egyéb
+Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime és manga mellékszereplője",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Tesla Gigafactory Berlin-Brandenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Tesla Gigafactory Berlin-Brandenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -705,6 +1441,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Üzemanyaggal látja el Berlint és Brandenburgot.", "Egykor a Barátság-vezeték végpontja volt.", "Zöld hidrogénre való átállást terveznek.", "Az Uckermark régió egyik legnagyobb munkáltatója."],
       ro: ["Aprovizionează Berlinul și Brandenburgul cu combustibil.", "Fost punct terminus al conductei Druzhba.", "Transformare planificată către hidrogen verde.", "Unul dintre cei mai mari angajatori din Uckermark."],
       en: ["Supplies fuel to Berlin and Brandenburg.", "Formerly the terminus of the Druzhba pipeline.", "Planning a transition to green hydrogen production.", "One of the largest employers in the Uckermark region."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) PCK Raffinerie Schwedt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a PCK Raffinerie Schwedt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) PCK Raffinerie Schwedt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A PCK Raffinerie Schwedt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -724,6 +1479,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A C-osztályt és a GLC-t gyártja.", "Bréma legnagyobb magánfoglalkoztatója.", "Gyárlátogatások látogatóknak.", "Erős fókusz a bremerhaveni exportra."],
       ro: ["Produce clasa C și GLC.", "Cel mai mare angajator privat din Bremen.", "Tururi de vizitare pentru vizitatori.", "Accent puternic pe exportul prin Bremerhaven."],
       en: ["Primary production site for C-Class and GLC.", "The largest private employer in the city of Bremen.", "Offers guided tours for interested visitors.", "Focuses heavily on global exports via Bremerhaven."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Mercedes-Benz német járműmárka a német Mercedes-Benz Group AG cég számos országban bejegyzett védjegye. Magyarországon a Mercedes-Benz Group leányvállalatának neve Mercedes-Benz Manufacturing Hungary. A cég elsődlegesen személygépkocsikat, tehergépkocsikat, autóbuszokat és beléjük való motorokat gyárt és forgalmaz. A(z) Mercedes-Benz Werk Bremen egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Mercedes-Benz Werk Bremen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Mercedes-Benz Werk Bremen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -743,6 +1517,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Szinte teljesen automatizált működés.", "Vezető nélküli szállítórendszerek (AGV) használata.", "Magas rakodási teljesítmény.", "Úttörő a kikötői klímavédelemben."],
       ro: ["Operare aproape complet automatizată.", "Utilizarea sistemelor de transport fără șofer (AGV).", "Capacitate mare de transbordare.", "Pionier în protecția climei în port."],
       en: ["Operates almost entirely automatically.", "Uses driverless Automated Guided Vehicles (AGVs).", "Boasts extremely high cargo handling efficiency.", "A leader in climate protection within the port."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Container Terminal Altenwerder egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Container Terminal Altenwerder ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Container Terminal Altenwerder területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Container Terminal Altenwerder tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -762,6 +1555,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az A320-as család végösszeszerelő sora.", "Saját gyári repülőtér.", "A kabinok belső berendezése.", "Tízezernyi magasan képzett alkalmazott."],
       ro: ["Linie de asamblare finală pentru familia A320.", "Aeroport propriu al uzinei.", "Echiparea interioară a cabinelor.", "Zeci de mii de angajați înalt calificați."],
       en: ["Final assembly line for the A320 family.", "Features its own private factory airport.", "Handles the complete interior outfitting of cabins.", "Employs tens of thousands of highly skilled staff."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Airbus Werk Finkenwerder egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Airbus Werk Finkenwerder ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Airbus Werk Finkenwerder területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Airbus Werk Finkenwerder tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -781,6 +1593,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 90 vállalat a telephelyen.", "Saját energia- és vízellátás.", "A Hoechst AG történelmi törzsgyára.", "Kutatási és innovációs központ."],
       ro: ["Peste 90 de companii în locație.", "Aprovizionare proprie cu energie și apă.", "Fabrica istorică principală a Hoechst AG.", "Centru de cercetare și inovare."],
       en: ["Home to over 90 different companies.", "Features its own energy and water supply systems.", "The historic main plant of the former Hoechst AG.", "A major hub for research and innovation."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Industriepark Höchst egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Industriepark Höchst ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Industriepark Höchst területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Industriepark Höchst tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -800,6 +1631,26 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az Opel Astra gyártási helye.", "Az Opel márka alapítási helye.", "Legmodernebb gyártási technológiák.", "A Stellantis-csoport fontos tagja."],
       ro: ["Locul de producție al modelului Opel Astra.", "Locul de fondare a mărcii Opel.", "Tehnologii de producție ultramoderne.", "Parte importantă a grupului Stellantis."],
       en: ["The primary production site for the Opel Astra.", "Where the Opel brand was originally founded.", "Utilizes state-of-the-art manufacturing technologies.", "A key part of the global Stellantis group."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Opel (teljes nevén Opel Automobile GmbH) Németország egyik legfontosabb autóipari cége. Legnagyobb üzeme Rüsselsheimben található. 2018-ban az Opel 20 év után újra nyereséges lett, 502 000 000 eurós hasznot termelt, köszönhetően az új modelleknek (Crossland X, Grandland X, új Insignia család), a régi modellek csekély árcsökkentésének, és a korszerű, takarékos motoroknak. Számokban annyit tesz ki, hogy az Opel több mint 572 000 autót adott el. (Az adatok 2018 első félévre vonatkoznak.) 2018-ban „történelmi esemény” zajlott le: 19 év után 2018 volt az első teljes év, amelyben az Opel márka nyereséget könyvelhetett el. A General Motors (GM) vezetése alatt 1998 volt az utolsó év, amikor a leányvállalat nyereséggel számolhatott volna. Egyes források szerint a GM azért nem tudott profitálni, mert túl sokat költött egy modell fejlesztésére, meg a motorok korszerűsítésére. Akkortájt az Opel 9 platformra építette modelljeit, és 10 motorcsaládot fejlesztett. Ezek fejlesztése és tervezése óriási összegeket emésztett fel (volt...",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Számokban annyit tesz ki, hogy az Opel több mint 572 000 autót adott el.",
+        "(Az adatok 2018 első félévre vonatkoznak.",
+        ")
+2018-ban „történelmi esemény” zajlott le: 19 év után 2018 volt az első teljes év, amelyben az Opel márka nyereséget könyvelhetett el.",
+        "A General Motors (GM) vezetése alatt 1998 volt az utolsó év, amikor a leányvállalat nyereséggel számolhatott volna.",
+        "Akkortájt az Opel 9 platformra építette modelljeit, és 10 motorcsaládot fejlesztett.",
+        "Ezek fejlesztése és tervezése óriási összegeket emésztett fel (volt olyan év, amikor 400 000 000 € veszteség érte a márkát)."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -819,6 +1670,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Hadihajók karbantartására specializálódott.", "A Balti-tenger egyik legnagyobb dokkmedencéje.", "Hosszú múlt a teherszállító hajók építésében.", "Fontos munkáltató Rostockban."],
       ro: ["Specializat în întreținerea navelor militare.", "Unul dintre cele mai mari bazine de doc la Marea Baltică.", "Istorie lungă în construcția de nave cargo.", "Angajator important în Rostock."],
       en: ["Specializes in the maintenance of naval vessels.", "Features one of the largest dry docks on the Baltic.", "Long history of building cargo ships.", "A significant employer in the Rostock area."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Marinearsenal Warnowwerft egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Marinearsenal Warnowwerft ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Marinearsenal Warnowwerft területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Marinearsenal Warnowwerft tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -838,6 +1708,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A skandináv forgalom legfontosabb kikötője.", "Nagy terminál üdülőhajók számára.", "Ömlesztett áruk és konténerek rakodása.", "Mélyvízi kikötő jó összeköttetésekkel."],
       ro: ["Cel mai important port pentru traficul spre Scandinavia.", "Terminal mare pentru nave de croazieră.", "Transbordare de mărfuri în vrac și containere.", "Port de adâncime cu legături bune."],
       en: ["Key port for traffic to and from Scandinavia.", "Includes a major terminal for cruise ships.", "Handles bulk goods and container shipments.", "A deep-water port with excellent connectivity."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Seehafen Rostock egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Seehafen Rostock ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Seehafen Rostock területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Seehafen Rostock tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -857,6 +1746,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A hajók építése óriási fedett csarnokokban történik.", "A hajók átvezetése az Ems folyón.", "Látogatóközpontja ezreket vonz.", "Nagy múltú családi vállalkozás."],
       ro: ["Construcția navelor în hale acoperite uriașe.", "Transferul navelor pe râul Ems.", "Centrul pentru vizitatori atrage mii de oameni.", "Afacere de familie bogată în tradiție."],
       en: ["Ships are built inside massive covered docks.", "Spectacular transfer of ships down the Ems River.", "Visitor center attracts thousands of tourists.", "A historic and traditional family-owned company."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Meyer Werft Papenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Meyer Werft Papenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Meyer Werft Papenburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Meyer Werft Papenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -876,6 +1784,31 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A gumiabroncs-divízió székhelye.", "Nagy teherautó-gumiabroncs gyártás.", "Kutatási és fejlesztési központ.", "Az autóipar fontos partnere."],
       ro: ["Sediul diviziei de anvelope.", "Producție mare de anvelope pentru camioane.", "Centru de cercetare și dezvoltare.", "Partener important al industriei auto."],
       en: ["Headquarters of the tire division.", "Focuses on large truck tire production.", "Home to a research and development center.", "Key partner for the global automotive industry."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Continental AG, hannoveri székhelyű német vállalat
+Continental Airlines, houstoni székhelyű légitársaság
+Continental (autómárka), egykori brit autómárka
+Continental (együttes)
+Continental Railway Solution Kft., vasúttársaság
+Continental (The Gay Divorcee), 1934-es amerikai zenés film, rendezte Mark Sandrich
+Continental, 1989-es spanyol filmthriller, rendezte Xavier Villaverde A(z) Continental Werk Stöcken egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Continental Werk Stöcken területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Continental Werk Stöcken tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -895,6 +1828,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az 'Új Selyemút' fontos csomópontja.", "Összeköttetés az északi-tengeri kikötőkkel a Rajnán.", "Logport-területek egykori ipari helyszíneken.", "Évente több ezer vonat és hajó."],
       ro: ["Nod important al 'Noului Drum al Mătăsii'.", "Legătură cu porturile de la Marea Nordului prin Rin.", "Zone Logport pe foste terenuri industriale.", "Mii de trenuri și nave anual."],
       en: ["Key hub for the 'New Silk Road' rail links.", "Connected to North Sea ports via the Rhine.", "Logport areas built on former industrial sites.", "Handles thousands of trains and ships per year."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Duisburger Hafen (duisport) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Duisburger Hafen (duisport) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Duisburger Hafen (duisport) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Duisburger Hafen (duisport) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -914,6 +1866,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az aszpirin kifejlesztéséről ismert.", "Chempark sok partnervállalattal.", "Jelképe a Bayer-kereszt.", "Az élettudományi kutatások központja."],
       ro: ["Cunoscut pentru dezvoltarea aspirinei.", "Chempark cu multe companii partenere.", "Simbolul este Crucea Bayer.", "Centru pentru cercetarea în științele vieții."],
       en: ["Famous for the development of Aspirin.", "Features a 'Chempark' with partner companies.", "The Bayer Cross is its iconic landmark.", "A major center for life science research."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Bayer-Werk Leverkusen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bayer-Werk Leverkusen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bayer-Werk Leverkusen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bayer-Werk Leverkusen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -933,6 +1904,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az új Explorer EV gyártási helye.", "Történelmi telephely 1930 óta.", "Saját tervező- és fejlesztőközpont.", "Fontos európai exporthelyszín."],
       ro: ["Locul de producție al noului Explorer EV.", "Locație istorică din 1930.", "Centru propriu de design și dezvoltare.", "Locație importantă de export pentru Europa."],
       en: ["Production site for the new Explorer EV.", "Historic site operational since 1930.", "Home to a design and development center.", "Significant export hub for the European market."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ford-Werke Köln-Niehl egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ford-Werke Köln-Niehl ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ford-Werke Köln-Niehl területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ford-Werke Köln-Niehl tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -952,6 +1942,26 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Több mint 2000 épület a területen.", "Saját kikötő a Rajnán.", "Világpiaci vezető számos vegyipari ágazatban.", "Tízezernyi alkalmazott."],
       ro: ["Peste 2.000 de clădiri în complex.", "Port propriu pe Rin.", "Lider de piață mondial în multe domenii chimice.", "Zeci de mii de angajați."],
       en: ["Home to over 2,000 buildings on site.", "Features its own private port on the Rhine.", "A global market leader in chemical production.", "Employs tens of thousands of people."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865. április 6-án alapították Mannheimben. Székhelye Ludwigshafenben található.
+A cégnek 170 országban 122 000 munkatársa van 150 termelő telephelyen. A vevőkapcsolatok 200 országra terjednek ki. 2009-ben a vállalatcsoport összárbevétele meghaladta az 50 milliárd eurót. Forgalma alapján a BASF a világ legnagyobb vegyipari vállalata. Magyarországon három telephelye működik. A BASF Hungária 2009-ben 140 főt foglalkoztatott. A BASF Csoport Magyarországon elért árbevétele meghaladta a 172 millió eurót. A BASF részvényei benne vannak a DAX-indexben, ezenkívül jegyzik a New-York-i, a londoni és a zürichi tőzsdén is.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865.",
+        "április 6-án alapították Mannheimben.",
+        "A cégnek 170 országban 122 000 munkatársa van 150 termelő telephelyen.",
+        "A vevőkapcsolatok 200 országra terjednek ki.",
+        "2009-ben a vállalatcsoport összárbevétele meghaladta az 50 milliárd eurót.",
+        "A BASF Hungária 2009-ben 140 főt foglalkoztatott."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -971,6 +1981,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A vállalat legnagyobb telephelye.", "Fókuszban a légúti és szív-érrendszeri betegségek.", "Jelentős biotechnológiai beruházások.", "Fontos képzési központ."],
       ro: ["Cea mai mare locație a companiei.", "Accent pe boli respiratorii și cardiovasculare.", "Investiții mari în biotehnologie.", "Centru important de formare profesională."],
       en: ["The company's largest global site.", "Focuses on respiratory and cardiovascular medicine.", "Heavy investment in biotechnology projects.", "A major center for vocational education."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Boehringer Ingelheim Stammwerk egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Boehringer Ingelheim Stammwerk ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Boehringer Ingelheim Stammwerk területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Boehringer Ingelheim Stammwerk tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -990,6 +2019,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Németország legrégebbi részvénytársasága (alapítva 1685).", "Speciális acél felhőkarcolókhoz és hidakhoz.", "Saját nagyolvasztók.", "A Saar-vidéki ipar fontos pillére."],
       ro: ["Cea mai veche societate pe acțiuni din Germania (fondată în 1685).", "Oțel special pentru zgârie-nori și poduri.", "Furnale proprii.", "Pilon important al industriei din Saarland."],
       en: ["Germany's oldest stock corporation (est. 1685).", "Supplies steel for skyscrapers and bridges.", "Operates its own blast furnaces.", "A cornerstone of the industry in Saarland."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Dillinger Hütte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dillinger Hütte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Dillinger Hütte területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Dillinger Hütte tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1009,6 +2057,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Ford Focus hosszú ideig tartó gyártási helye.", "Közvetlen összeköttetés a beszállítói parkkal.", "Magas exportarány.", "A járás gazdasági szíve."],
       ro: ["Loc de producție de lungă durată pentru Ford Focus.", "Legătură directă cu parcul de furnizori.", "Cifră de export ridicată.", "Inima economică a districtului."],
       en: ["Long-time production site for the Ford Focus.", "Directly connected to a supplier industrial park.", "Boasts a high percentage of export sales.", "The economic heart of the surrounding district."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ford-Werke Saarlouis egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ford-Werke Saarlouis ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ford-Werke Saarlouis területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ford-Werke Saarlouis tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1028,6 +2095,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az ID.3 gyártási helye.", "Korábban a VW Phaeton gyártása.", "Az elektromobilitás központja.", "Közvetlenül a Großer Garten mellett fekszik."],
       ro: ["Locul de producție al modelului ID.3.", "Anterior, locul de asamblare al VW Phaeton.", "Centru pentru electromobilitate.", "Situată direct lângă Großer Garten."],
       en: ["Current production site for the ID.3.", "Formerly where the VW Phaeton was built.", "A major center for electric mobility.", "Located directly next to the Großer Garten park."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Gläserne Manufaktur Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gläserne Manufaktur Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Gläserne Manufaktur Dresden területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Gläserne Manufaktur Dresden tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1047,6 +2133,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Saját versenypálya tesztvezetésekhez.", "Gyémánt formájú látogatóközpont.", "Több mint 4000 alkalmazott.", "Fenntartható gyár saját napelemparkkal."],
       ro: ["Circuit propriu pentru teste.", "Centru pentru vizitatori în formă de diamant.", "Peste 4.000 de angajați.", "Fabrică sustenabilă cu parc solar propriu."],
       en: ["Features an on-site track for test drives.", "Visitor center shaped like a giant diamond.", "Employs over 4,000 workers.", "Sustainable factory with its own solar park."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Porsche Werk Leipzig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Porsche Werk Leipzig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Porsche Werk Leipzig területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Porsche Werk Leipzig tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1066,6 +2171,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["TotalEnergies finomító a helyszínen.", "Több mint 100 éves ipari múlt.", "A jövő zöld vegyiparának központja.", "Területileg igen nagy kiterjedésű."],
       ro: ["Rafinăria TotalEnergies la fața locului.", "Peste 100 de ani de istorie industrială.", "Centru pentru chimia verde a viitorului.", "Zonă foarte mare ca suprafață."],
       en: ["Includes a major TotalEnergies refinery.", "Boasts over 100 years of industrial history.", "Transitioning into a hub for green chemistry.", "Covers a very large geographical area."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Chemiestandort Leuna egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemiestandort Leuna ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Chemiestandort Leuna területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Chemiestandort Leuna tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1085,6 +2209,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Jelentős a mezőgazdaság számára (műtrágya).", "Saját kikötő az Elbán.", "Növénytáplálási kutatóközpont.", "Fontos munkáltató Szász-Anhaltban."],
       ro: ["Important pentru agricultură (îngrășăminte).", "Port propriu pe Elba.", "Centru de cercetare pentru nutriția plantelor.", "Angajator important în Saxonia-Anhalt."],
       en: ["Crucial for the agricultural sector (fertilizers).", "Features its own private port on the Elbe.", "Includes a research center for plant nutrition.", "A key employer in the Saxony-Anhalt region."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) SKW Stickstoffwerke Piesteritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a SKW Stickstoffwerke Piesteritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) SKW Stickstoffwerke Piesteritz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A SKW Stickstoffwerke Piesteritz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1104,6 +2247,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Lopakodó technológiára specializálódott.", "Hosszú hajógyári múlt Kielben.", "Vevők az egész világon.", "Ultramodern gyártócsarnokok."],
       ro: ["Specializare în tehnologie stealth.", "Tradiție lungă de șantier naval în Kiel.", "Clienți în întreaga lume.", "Hale de producție ultramoderne."],
       en: ["Specializes in advanced stealth technology.", "Deep-rooted shipbuilding tradition in Kiel.", "Serves a global customer base.", "Features state-of-the-art manufacturing halls."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) ThyssenKrupp Marine Systems Kiel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a ThyssenKrupp Marine Systems Kiel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) ThyssenKrupp Marine Systems Kiel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A ThyssenKrupp Marine Systems Kiel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1123,6 +2285,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A skandináv papír fő rakodóhelye.", "Erős RoRo-összeköttetések.", "Dél-Németország kapuja a Balti-tengerre.", "Számos modern terminál."],
       ro: ["Principalul punct de transbordare pentru hârtie din Scandinavia.", "Legături puternice RoRo.", "Poarta către Marea Baltică pentru sudul Germaniei.", "Mai multe terminale moderne."],
       en: ["The primary hub for paper imports from Scandinavia.", "Strong 'Roll-on Roll-off' (RoRo) connections.", "Considered the Baltic gateway for southern Germany.", "Consists of several modern shipping terminals."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Lübecker Hafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lübecker Hafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lübecker Hafen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lübecker Hafen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1142,6 +2323,25 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["1846-ban alapította Carl Zeiss.", "A türingiai 'Optical Valley' központja.", "Mikroszkópok és méréstechnika gyártása.", "Szoros együttműködés kutatóintézetekkel."],
       ro: ["Fondată în 1846 de Carl Zeiss.", "Centrul regiunii 'Optical Valley' din Turingia.", "Producția de microscoape și tehnologie de măsurare.", "Cooperare strânsă cu instituții de cercetare."],
       en: ["Founded in 1846 by Carl Zeiss.", "The hub of Thuringia's 'Optical Valley'.", "Produces high-end microscopes and measurement tools.", "Maintains close ties with research institutions."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Carl Zeiss Werk Jena egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Carl Zeiss Werk Jena ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Carl Zeiss Werk Jena területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Carl Zeiss Werk Jena tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     }
   }
 ];

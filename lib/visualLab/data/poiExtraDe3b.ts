@@ -20,6 +20,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Sanssouci face parte din Patrimoniul Mondial UNESCO.", "Frederic cel Mare a construit castelul în 1745.", "Conferința de la Potsdam din 1945 a avut loc în Castelul Cecilienhof.", "Potsdam are peste 170.000 de locuitori."],
       en: ["Sanssouci is part of the UNESCO World Heritage.", "Frederick the Great had the palace built in 1745.", "The 1945 Potsdam Conference took place at Cecilienhof Palace.", "Potsdam has over 170,000 inhabitants."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Potsdam területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Potsdam tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-cottbus-extra",
@@ -38,6 +57,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Cottbusban szorb nyelvű kisebbség él.", "A Branitz parkot Pückler herceg tervezte.", "A Cottbusi Műszaki Egyetem neves intézmény.", "A régió a szénbányászat megszűnése után erősen átalakul."],
       ro: ["Cottbus are o minoritate vorbitoare de limbă sorbă.", "Parcul Branitz a fost amenajat de Prințul Pückler.", "Universitatea din Cottbus este o universitate tehnică.", "Regiunea se schimbă semnificativ după renunțarea la cărbune."],
       en: ["Cottbus has a Sorbian-speaking minority.", "Branitz Park was designed by Prince Pückler.", "Cottbus University is a technical university.", "The region is undergoing major change after coal phase-out."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Cottbus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Cottbus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Cottbus területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Cottbus tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -58,6 +96,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Spree are 403 km lungime.", "Curge prin Rezervația Biosferei UNESCO Spreewald.", "Bărcile Spreewald sunt un mijloc tipic de transport în zonă.", "Spree se varsă în Havel la Berlin."],
       en: ["The Spree is 403 km long.", "It flows through the UNESCO Biosphere Reserve Spreewald.", "Spreewald punts (Spreewaldkähne) are a typical means of transport.", "The Spree flows into the Havel in Berlin."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Spree (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spree (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Spree (Brandenburg) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Spree (Brandenburg) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "river-havel-bb-extra",
@@ -76,6 +133,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A Havel 343 km hosszú.", "Több mint 20 tavat köt össze Brandenburgban.", "A Havel kerékpárút több mint 400 km hosszú.", "Potsdam közvetlenül a Havel partján fekszik."],
       ro: ["Havel are 343 km lungime.", "Leagă peste 20 de lacuri în Brandenburg.", "Pista de ciclism Havel are peste 400 km.", "Potsdam se află direct pe malul Havelului."],
       en: ["The Havel is 343 km long.", "It links over 20 lakes in Brandenburg.", "The Havel cycling route is over 400 km long.", "Potsdam lies directly on the Havel."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Havel (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Havel (Brandenburg) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Havel (Brandenburg) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -96,6 +172,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Scharmützelsee are o suprafață de 13 km².", "Se află în apropierea localității Bad Saarow.", "Lacul este cunoscut pentru plaja sa nisipoasă curată.", "Iarna îngheață în mod regulat."],
       en: ["Scharmützelsee has an area of 13 km².", "It is located near Bad Saarow.", "The lake is known for its clear sandy beach.", "It regularly freezes over in winter."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Scharmützelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Scharmützelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Scharmützelsee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Scharmützelsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "lake-schwielowsee-extra",
@@ -114,6 +209,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A Schwielowsee a Westhavelland Természeti Park része.", "Fontos területe a vízimadaraknak.", "Partjait nádszegélyek kísérik.", "Caputh, a tóparti kis falu, Albert Einstein nyári otthona volt."],
       ro: ["Schwielowsee face parte din Parcul Natural Westhavelland.", "Este o zonă importantă pentru păsările de apă.", "Malurile sunt mărginite de stufărișuri.", "Caputh, un sat de pe malul lacului, a fost reședința de vară a lui Albert Einstein."],
       en: ["Schwielowsee is part of the Westhavelland Nature Park.", "It is an important area for waterfowl.", "The shores are lined with reed belts.", "Caputh, a village on the lake, was Albert Einstein's summer residence."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schwielowsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwielowsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schwielowsee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schwielowsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -134,6 +248,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Flämingul se întinde din Brandenburg în Saxonia-Anhalt.", "Cel mai înalt punct este Hagelberg cu 178 m.", "Parcul Natural Hoher Fläming protejează peisajul.", "Sparanghelul din Fläming este cunoscut cu mult dincolo de granițele Brandenburgului."],
       en: ["The Fläming stretches from Brandenburg into Saxony-Anhalt.", "The highest point is Hagelberg at 178 m.", "The Hoher Fläming Nature Park protects the landscape.", "Fläming asparagus is well known far beyond Brandenburg."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Fläming egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Fläming ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Fläming területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Fläming tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "landmark-brandenburger-dom-extra",
@@ -152,6 +285,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A dóm építése a 12. században kezdődött.", "Brandenburg egyik legrégebbi téglaépülete.", "A lehnini kelimszőnyeg értékes középkori textília a dómban.", "Brandenburg an der Havel a szövetségi tartomány névadó városa."],
       ro: ["Construcția catedralei a început în secolul al XII-lea.", "Este una dintre cele mai vechi clădiri din cărămidă din Brandenburg.", "Covorul Kilim de la Lehnin este un valoros textil medieval din catedrală.", "Brandenburg an der Havel este orașul care a dat numele landului."],
       en: ["The cathedral was begun in the 12th century.", "It is one of Brandenburg's oldest brick buildings.", "The Lehnin Kilim cloth is a valuable medieval textile housed in the cathedral.", "Brandenburg an der Havel is the city that gave the state its name."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Brandenburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brandenburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Brandenburger Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Brandenburger Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -172,6 +324,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Mânăstirea a fost fondată în 1258.", "Este unul dintre cele mai frumoase exemple de gotică în cărămidă din nordul Germaniei.", "Karl Friedrich Schinkel a condus primele lucrări de restaurare.", "Choriner Musiksommer sunt concerte anuale în ruine."],
       en: ["The abbey was founded in 1258.", "It is one of the finest examples of North German brick Gothic.", "Karl Friedrich Schinkel led the first restoration works.", "The Chorin Music Summer is an annual concert series held in the ruins."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kloster Chorin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Chorin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kloster Chorin területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kloster Chorin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "hist-schloss-rheinsberg-extra",
@@ -190,6 +361,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["II. Frigyes 1736-tól 1740-ig élt Rheinsbergben.", "A kastély a Grienericksee tükrében csillog.", "Kurt Tucholsky egy azonos nevű regényben örökítette meg Rheinsberget.", "A kastély ma zenei színházi fesztivált ad otthont."],
       ro: ["Frederic cel Mare a locuit la Rheinsberg din 1736 până în 1740.", "Castelul se reflectă în lacul Grienericksee.", "Kurt Tucholsky a imortalizat Rheinsbergul într-un roman cu același nume.", "Castelul găzduiește astăzi un festival de teatru muzical."],
       en: ["Frederick the Great lived at Rheinsberg from 1736 to 1740.", "The palace is reflected in the Grienericksee.", "Kurt Tucholsky immortalized Rheinsberg in a novel of the same name.", "The palace today hosts a music theatre festival."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Rheinsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Rheinsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Rheinsberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Rheinsberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -210,6 +400,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Zona Spreewald are aproximativ 1.500 km de căi navigabile.", "Este rezervație a biosferei UNESCO din 1991.", "Castraveții din Spreewald sunt un produs regional protejat.", "Sorbii păstrează în Spreewald cultura lor unică."],
       en: ["The Spreewald area has about 1,500 km of waterways.", "It has been a UNESCO Biosphere Reserve since 1991.", "Spreewald cucumbers are a protected regional product.", "The Sorbs preserve their unique culture in the Spreewald."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Spreewald Kahnfahrt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald Kahnfahrt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Spreewald Kahnfahrt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Spreewald Kahnfahrt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "agriculture-spargel-beelitz-extra",
@@ -228,6 +437,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Beelitz Németország legrégebbi spárgatermesztési területe.", "Több mint 130 éve folyik a termesztés.", "A beelitzi spárga EU-védett földrajzi jelzéssel rendelkezik.", "Évente több mint 2000 tonna spárgát szüretelnek."],
       ro: ["Beelitz este cea mai veche zonă de cultivare a sparanghelului din Germania.", "Cultivat de peste 130 de ani.", "Sparanghelul din Beelitz are o indicație geografică protejată de UE.", "Anual sunt recoltate peste 2.000 de tone de sparanghel."],
       en: ["Beelitz is Germany's oldest asparagus growing region.", "Cultivation has been ongoing for over 130 years.", "Beelitz asparagus holds an EU-protected geographical indication.", "Over 2,000 tonnes of asparagus are harvested annually."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Beelitzer Spargel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Beelitzer Spargel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Beelitzer Spargel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Beelitzer Spargel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -248,6 +476,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Castraveții din Spreewald au o indicație geografică protejată de UE.", "Anual sunt procesate peste 40.000 de tone.", "Castraveții sunt oferiți în peste 30 de variante diferite.", "Festivalul castraveților din Golßen celebrează anual recolta."],
       en: ["Spreewald cucumbers hold an EU-protected geographical indication.", "Over 40,000 tonnes are processed annually.", "The cucumbers are offered in over 30 different varieties.", "The cucumber festival in Golßen celebrates the harvest annually."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Spreewald-Gurken egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald-Gurken ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Spreewald-Gurken területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Spreewald-Gurken tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "hist-filmpark-babelsberg-extra",
@@ -267,6 +514,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Babelsberg a fost fondată în 1912.", "Aici au fost filmate clasice precum 'Metropolis'.", "Este cel mai mare studio de film din Europa.", "Producții internaționale precum 'Inglourious Basterds' au fost filmate aici."],
       en: ["Babelsberg was founded in 1912.", "Classics such as 'Metropolis' were filmed here.", "It is Europe's largest film studio.", "International productions like 'Inglourious Basterds' were shot here."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Filmpark Babelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Filmpark Babelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Filmpark Babelsberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Filmpark Babelsberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-frankfurt-oder-extra",
@@ -285,6 +551,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Frankfurt (Oder) közvetlenül Lengyelország határán fekszik.", "A Viadrina Egyetemet 1506-ban alapították.", "Az Odera elválasztja és összeköti Németországot és Lengyelországot.", "Heinrich von Kleist Frankfurtban (Oder) született."],
       ro: ["Frankfurt (Oder) se învecinează direct cu Polonia.", "Universitatea Viadrina a fost fondată în 1506.", "Oderul desparte și unește Germania și Polonia.", "Heinrich von Kleist s-a născut la Frankfurt (Oder)."],
       en: ["Frankfurt (Oder) borders Poland directly.", "Viadrina University was founded in 1506.", "The Oder river separates and connects Germany and Poland.", "Heinrich von Kleist was born in Frankfurt (Oder)."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Frankfurt (Oder) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankfurt (Oder) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Frankfurt (Oder) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Frankfurt (Oder) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
 
@@ -307,6 +592,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Magdeburg are aproximativ 238.000 de locuitori.", "Construcția domului a început în secolul al XIII-lea.", "Magdeburg a fost aproape complet distrus în Războiul de Treizeci de Ani în 1631.", "Otto cel Mare a fost îngropat la Magdeburg."],
       en: ["Magdeburg has approximately 238,000 inhabitants.", "Construction of the cathedral began in the 13th century.", "Magdeburg was almost completely destroyed in the Thirty Years' War in 1631.", "Otto the Great was buried in Magdeburg."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Magdeburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Magdeburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "city-halle-saale-extra",
@@ -325,6 +629,31 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Georg Friedrich Händel 1685-ben született Halléban.", "A Marthin-Luther Egyetemet 1694-ben alapították.", "Halle évszázadokon át fontos sóközpont volt.", "A városnak élénk művészeti élete van."],
       ro: ["Georg Friedrich Händel s-a născut la Halle în 1685.", "Universitatea Martin Luther a fost fondată în 1694.", "Halle a fost timp de secole un important centru al sării.", "Orașul are o scenă artistică vibrantă."],
       en: ["Georg Friedrich Händel was born in Halle in 1685.", "Martin Luther University was founded in 1694.", "Halle was an important salt centre for centuries.", "The city has a vibrant arts scene."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország
+Halle, város Észak-Rajna-Vesztfália tartományban, Németország
+Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban
+Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban
+Halle, város Belgiumban
+Halle, kanton Belgium Halle-Vilvoorde járásában
+Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Halle (Saale) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Halle (Saale) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -345,6 +674,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Bauhaus s-a mutat la Dessau în 1925.", "Walter Gropius a fondat Bauhaus în 1919.", "Regatul Grădinilor Dessau-Wörlitz este Patrimoniu Mondial UNESCO din 2000.", "Dessau-Roßlau se află în Rezervația Biosferei Mittelelbe."],
       en: ["The Bauhaus relocated to Dessau in 1925.", "Walter Gropius founded the Bauhaus in 1919.", "The Dessau-Wörlitz Garden Kingdom has been a UNESCO World Heritage site since 2000.", "Dessau-Roßlau lies in the Middle Elbe Biosphere Reserve."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Dessau-Roßlau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dessau-Roßlau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Dessau-Roßlau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Dessau-Roßlau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "river-elbe-st-extra",
@@ -363,6 +711,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Az Elba 1091 km hosszú.", "Magdeburg közvetlenül az Elba partján fekszik.", "A Középső Elba bioszféra-rezervátum védi az ártéri tájat.", "Az Elba évszázadokon át kereskedelmi útvonalként szolgált."],
       ro: ["Elba are 1.091 km lungime.", "Magdeburg se află direct pe malul Elbei.", "Rezervația Biosferei Mittlere Elbe protejează peisajul de luncă.", "Elba a servit timp de secole ca rută comercială."],
       en: ["The Elbe is 1,091 km long.", "Magdeburg lies directly on the Elbe.", "The Middle Elbe Biosphere Reserve protects the floodplain landscape.", "The Elbe served as a trade route for centuries."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Elbe (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Elbe (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Elbe (Sachsen-Anhalt) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -383,6 +750,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Saale are 413 km lungime.", "Valea Saalei este o zonă viticolă renumită.", "Naumburg am Dom se află direct pe malul Saalei.", "Saale se varsă în Elba la Barby."],
       en: ["The Saale is 413 km long.", "The Saale valley is a well-known wine-growing region.", "Naumburg am Dom lies directly on the Saale.", "The Saale flows into the Elbe at Barby."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Saale (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saale (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Saale (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Saale (Sachsen-Anhalt) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "lake-arendsee-extra",
@@ -401,6 +787,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["Az Arendsee 28 m mély.", "Valószínűleg egy középkori beomlással keletkezett.", "A víz különösen tiszta és tápanyagszegény.", "Észak-Németország egyik kedvelt búvárkodási területe."],
       ro: ["Arendsee are 28 m adâncime.", "S-a format probabil printr-o surpare medievală.", "Apa este deosebit de clară și săracă în nutrienți.", "Este o zonă populară de scufundări în nordul Germaniei."],
       en: ["Arendsee is 28 m deep.", "It was probably formed by a medieval subsidence.", "The water is exceptionally clear and nutrient-poor.", "It is a popular diving area in northern Germany."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Arendsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Arendsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Arendsee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Arendsee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -421,6 +826,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Brocken are 1.141 m înălțime.", "Se află în Parcul Național Harz, pe teritoriul Saxoniei-Anhalt.", "Noaptea Walpurgis pe 30 aprilie este o sărbătoare populară.", "Trenul Brocken merge de la Wernigerode până pe vârf."],
       en: ["The Brocken is 1,141 m high.", "It lies in the Harz National Park in Saxony-Anhalt.", "Walpurgis Night on 30 April is a popular festival.", "The Brocken railway runs from Wernigerode to the summit."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Brocken (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brocken (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Brocken (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Brocken (Sachsen-Anhalt) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "forest-harz-nationalpark-extra",
@@ -439,6 +863,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A Harz Nemzeti Parkot 1990-ben alapították.", "247 km² területet foglal el.", "A hiúzokat sikeresen visszatelepítették.", "A Brocken a park legmagasabb pontja."],
       ro: ["Parcul Național Harz a fost înființat în 1990.", "Acoperă 247 km².", "Râșii au fost reintroduși cu succes.", "Brocken este cel mai înalt punct al parcului."],
       en: ["The Harz National Park was established in 1990.", "It covers 247 km².", "Lynxes were successfully reintroduced.", "The Brocken is the highest point in the park."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nationalpark Harz (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Harz (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nationalpark Harz (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nationalpark Harz (Sachsen-Anhalt) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -459,6 +902,27 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Luther și-a afișat tezele pe 31 octombrie 1517.", "Biserica orășenească este cea mai veche biserică a Reformei.", "Philip Melanchthon a activat și el la Wittenberg.", "Patrimoniu Mondial UNESCO din 1996."],
       en: ["Luther nailed his theses on 31 October 1517.", "The Town Church is the oldest Reformation church.", "Philip Melanchthon also worked in Wittenberg.", "UNESCO World Heritage site since 1996."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Németország
+Lutherstadt Eisleben, település Németországban, Szász-Anhalt tartományban
+Lutherstadt Wittenberg, város Németországban, Szász-Anhalt tartományban A(z) Lutherstadt Wittenberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lutherstadt Wittenberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lutherstadt Wittenberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "hist-naumburg-dom-extra",
@@ -477,6 +941,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["2018 óta UNESCO-világörökség.", "Az Uta alapítói szobor világhíres.", "A dóm a 13. században épült.", "Naumburg a Saale partján fekszik."],
       ro: ["Patrimoniu Mondial UNESCO din 2018.", "Figura fondatoarei Uta este renumită în întreaga lume.", "Domul a fost construit în secolul al XIII-lea.", "Naumburg se află pe malul Saalei."],
       en: ["UNESCO World Heritage site since 2018.", "The founder figure of Uta is world-famous.", "The cathedral was built in the 13th century.", "Naumburg lies on the Saale."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Naumburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Naumburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Naumburger Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Naumburger Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -497,6 +980,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Discul are aproximativ 3.600 de ani.", "A fost săpat ilegal în 1999.", "Este Patrimoniu Documentar UNESCO.", "Originalul se află la Muzeul de Preistorie din Halle."],
       en: ["The disc is approximately 3,600 years old.", "It was illegally excavated in 1999.", "It is a UNESCO Memory of the World document.", "The original is at the State Museum of Prehistory in Halle."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Himmelsscheibe von Nebra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Himmelsscheibe von Nebra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Himmelsscheibe von Nebra területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Himmelsscheibe von Nebra tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "landmark-bauhaus-dessau-extra",
@@ -515,6 +1017,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A Bauhaus-épület 1926-ban készült el.", "1996 óta UNESCO-világörökség.", "Walter Gropius tervezte az épületet.", "A Bauhaus a tervezés és az építészet területén világszerte hatást gyakorolt."],
       ro: ["Clădirea Bauhaus a fost finalizată în 1926.", "Patrimoniu Mondial UNESCO din 1996.", "Walter Gropius a proiectat clădirea.", "Bauhaus a influențat designul și arhitectura la nivel mondial."],
       en: ["The Bauhaus building was completed in 1926.", "UNESCO World Heritage site since 1996.", "Walter Gropius designed the building.", "The Bauhaus influenced design and architecture worldwide."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Bauhaus Dessau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bauhaus Dessau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Bauhaus Dessau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Bauhaus Dessau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
   {
@@ -535,6 +1056,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Câmpia Magdeburg este una dintre cele mai fertile regiuni din Germania.", "Saxonia-Anhalt este unul dintre cei mai mari producători de sfeclă de zahăr.", "Sfecla de zahăr este prelucrată în zahăr și bioetanol.", "Recolta are loc toamna."],
       en: ["The Magdeburg Borde is one of Germany's most fertile regions.", "Saxony-Anhalt is one of the largest sugar beet producers.", "Sugar beets are processed into sugar and bioethanol.", "Harvesting takes place in autumn."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Zuckerrübenanbau (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zuckerrübenanbau (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Zuckerrübenanbau (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Zuckerrübenanbau (Sachsen-Anhalt) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "landmark-quedlinburg-st-extra",
@@ -554,6 +1094,25 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1994.", "Sunt conservate peste 1.300 de case cu schelet de lemn.", "Regele Henric I a fost îngropat la Quedlinburg.", "Mânăstirea are o istorie de 1.000 de ani."],
       en: ["UNESCO World Heritage site since 1994.", "Over 1,300 half-timbered houses are preserved.", "King Henry I was buried in Quedlinburg.", "The collegiate church has a 1,000-year history."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Quedlinburg város Németországban, Szász-Anhalt szövetségi államban található. Európa egyik legjobban megmaradt középkori óvárosa, több mint 2100 favázas házzal és az Ottó kori fejedelmi központtal. A második világháborútól a Németország újraegyesítéséig az  NDK-hoz tartozott. A román kori és reneszánsz építészeti remekeket felvonultató óváros 1994 óta a világörökség része. A(z) Quedlinburg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Európa egyik legjobban megmaradt középkori óvárosa, több mint 2100 favázas házzal és az Ottó kori fejedelmi központtal.",
+        "A román kori és reneszánsz építészeti remekeket felvonultató óváros 1994 óta a világörökség része.",
+        "A(z) Quedlinburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Quedlinburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik."
+      ],
+      ro: [],
+      en: []
+    },
   },
   {
     id: "industry-leuna-buna-extra",
@@ -572,6 +1131,25 @@ export const poiExtraDe3b: POI[] = [
       hu: ["A Leuna Műveket 1916-ban alapították.", "Itt fejlesztették ki a szintetikus üzemanyagot.", "1990 után tömeges átalakulás és modernizálás zajlott.", "Ma a vegyipar fontos központja."],
       ro: ["Uzinele Leuna au fost fondată în 1916.", "Aici a fost dezvoltat combustibilul sintetic.", "Transformare masivă și modernizare după 1990.", "Astăzi un important centru al industriei chimice."],
       en: ["Leuna Works was founded in 1916.", "Synthetic fuel was developed here.", "Massive restructuring and modernisation after 1990.", "Today an important centre of the chemical industry."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Chemiedreieck Leuna-Buna egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemiedreieck Leuna-Buna ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Chemiedreieck Leuna-Buna területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Chemiedreieck Leuna-Buna tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
   },
 ];

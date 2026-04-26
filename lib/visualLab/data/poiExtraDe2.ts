@@ -20,6 +20,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Capitala landului Hessa.", "Renumit oraș spa cu 26 de izvoare termale.", "Sediul Oficiului Federal de Investigații Criminale (BKA)."],
       en: ["State capital of Hesse.", "Known as a spa town with 26 warm springs.", "Headquarters of the Federal Criminal Police Office (BKA)."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wiesbaden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wiesbaden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wiesbaden területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wiesbaden tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -112,6 +131,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A documenta otthona, a világ egyik legjelentősebb kortárs művészeti kiállításának.", "A Wilhelmshöhe hegyi park UNESCO világörökség.", "A Grimm testvérek munkásságának helyszíne."],
       ro: ["Gazda documenta, una dintre cele mai importante expoziții de artă din lume.", "Parcul Wilhelmshöhe este sit UNESCO.", "Locul de activitate al fraților Grimm."],
       en: ["Home to documenta, one of the world's most significant contemporary art exhibitions.", "Wilhelmshöhe hill park is a UNESCO World Heritage site.", "Workplace of the Brothers Grimm."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Kassel város Németország Hessen nevű tartományában. A(z) Kassel egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kassel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kassel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -206,6 +244,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Gazda celei mai vechi universități protestante din Germania (1527).", "Castelul Marburg domină întregul oraș.", "Situat pe Drumul Sfântului Iacob."],
       en: ["Home to Germany's oldest Protestant university (1527).", "Marburg Castle overlooks the entire city.", "Located along the pilgrimage route Jakobsweg."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Marburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Marburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Marburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Marburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -298,6 +355,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A Großer Feldberg 879 m-rel a legmagasabb csúcs.", "Frankfurt kedvelt kirándulóhelye.", "Kelta gyűrűsáncok és római limes maradványainak otthona."],
       ro: ["Großer Feldberg cu 879 m este vârful cel mai înalt.", "Zonă de recreere preferată pentru Frankfurt.", "Gazda cetăților inelare celtice și ale Limesului roman."],
       en: ["Großer Feldberg at 879 m is the highest peak.", "Popular recreation area for Frankfurt.", "Home to Celtic ring forts and Roman Limes fortifications."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Taunus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Taunus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Taunus területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Taunus tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -392,6 +468,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Aproximativ 245 km lungime.", "Popular pentru caiac și cicloturism.", "Curge prin Marburg, Gießen, Limburg și Lahnstein."],
       en: ["Approximately 245 km long.", "Popular for canoeing and cycling.", "Flows through Marburg, Gießen, Limburg, and Lahnstein."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Lahn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lahn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lahn területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lahn tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -484,6 +579,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Az UNESCO 'Európa őserdei' természeti világörökség része.", "Az Edersee Németország egyik legnagyobb mesterséges tava.", "Vadmacskák és ritka madárfajok otthona."],
       ro: ["Parte a Patrimoniului Natural Mondial UNESCO 'Pădurile Antice de Fag din Europa'.", "Edersee este unul dintre cele mai mari lacuri de acumulare din Germania.", "Gazda pisicilor sălbatice și speciilor rare de păsări."],
       en: ["Part of the UNESCO World Natural Heritage 'Ancient Beech Forests of Europe'.", "The Edersee is one of Germany's largest reservoirs.", "Home to wildcats and rare bird species."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kellerwald-Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kellerwald-Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kellerwald-Edersee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kellerwald-Edersee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -578,6 +692,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["A apărut prin barajul văii Eder (1914).", "Suprafață de aproximativ 11,5 km².", "Avariat în Al Doilea Război Mondial de raidul Dambusters."],
       en: ["Created by the Eder Valley dam (1914).", "Surface area of approximately 11.5 km².", "Damaged in World War II by the Dambusters raid."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Edersee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Edersee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Edersee területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Edersee tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -670,6 +803,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Bonifác, a 'németek apostola' alapította.", "Bonifác sírja a fuldai dómban található.", "Fontos könyvfestészeti és tudományos központ a középkorban."],
       ro: ["Fondată de Sfântul Bonifaciu, 'apostolul germanilor'.", "Mormântul lui Bonifaciu se află în catedrala din Fulda.", "Important centru de iluminare a manuscriselor și erudition în Evul Mediu."],
       en: ["Founded by Saint Boniface, the 'Apostle of the Germans'.", "The tomb of Boniface is located in Fulda Cathedral.", "An important center for manuscript illumination and scholarship in the Middle Ages."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Kloster Fulda egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Fulda ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Kloster Fulda területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Kloster Fulda tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -764,6 +916,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 2021.", "Creat de Colonia de Artiști din Darmstadt în jurul anului 1900.", "Capela Rusă și Turnul Nunții sunt repere emblematice."],
       en: ["UNESCO World Heritage Site since 2021.", "Created by the Darmstadt Artists' Colony around 1900.", "The Russian Chapel and the Wedding Tower are iconic landmarks."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Mathildenhöhe Darmstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mathildenhöhe Darmstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Mathildenhöhe Darmstadt területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Mathildenhöhe Darmstadt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -856,6 +1027,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Kialudt pajzsvulkán, kb. 15–18 millió éves.", "Legmagasabb csúcsa a Taufstein 773 m-rel.", "Természeti park és fontos vízrezervátor a régió számára."],
       ro: ["Vulcan scut stins, cu vârsta de aproximativ 15–18 milioane de ani.", "Vârful cel mai înalt este Taufstein cu 773 m.", "Parc natural și rezervor important de apă pentru regiune."],
       en: ["Extinct shield volcano, approximately 15–18 million years old.", "Highest peak is Taufstein at 773 m.", "Nature park and important water reservoir for the region."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Vogelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Vogelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Vogelsberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Vogelsberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -950,6 +1140,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Construit în secolul al XVII-lea, reamenajat de mai multe ori.", "Împăratul Wilhelm al II-lea îndrăgea în mod special acest loc.", "Cazinoul vecin din Bad Homburg este unul dintre cele mai vechi din Germania."],
       en: ["Built in the 17th century, renovated multiple times.", "Emperor Wilhelm II particularly loved this place.", "The nearby Bad Homburg casino is one of Germany's oldest."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Bad Homburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Bad Homburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Bad Homburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Bad Homburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1042,6 +1251,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A Justus-Liebig Egyetem a kémikus Justus von Liebig nevét viseli.", "Liebig az agrokémia megalapítójának tekinthető.", "Fontos orvostudományi és természettudományi központ."],
       ro: ["Universitatea Justus-Liebig este numită după chimistul Justus von Liebig.", "Liebig este considerat fondatorul chimiei agricole.", "Centru important de medicină și științe naturale."],
       en: ["Justus-Liebig University is named after chemist Justus von Liebig.", "Liebig is considered the founder of agricultural chemistry.", "An important center for medicine and natural sciences."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Gießen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gießen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Gießen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Gießen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -1136,6 +1364,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Denumit 'Țara orizonturilor deschise'.", "Rezervație a Biosferei UNESCO din 1991.", "Wasserkuppe (950 m) este cel mai înalt vârf – pe partea bavareză."],
       en: ["Known as the 'Land of Open Distances'.", "UNESCO Biosphere Reserve since 1991.", "Wasserkuppe (950 m) is the highest peak – on the Bavarian side."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Rhön (Hessen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rhön (Hessen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Rhön (Hessen) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Rhön (Hessen) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1229,6 +1476,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Cunoscut pentru vinul Riesling de clasă mondială.", "Castelul Johannisberg este una dintre cele mai vechi ferme viticole.", "Mănăstirea Eberbach a fost odinioară o importantă proprietate cisterciana."],
       en: ["Known for world-class Riesling wine.", "Schloss Johannisberg is one of the oldest wine estates.", "Eberbach Abbey was formerly a significant Cistercian wine estate."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Rheingau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rheingau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Rheingau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Rheingau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1321,6 +1587,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Németország egyik legszebb középkori épületének tartják.", "A hét torony Limburg jelképe.", "A Staurothek, egy értékes bizánci ereklye található benne."],
       ro: ["Considerată una dintre cele mai frumoase construcții medievale din Germania.", "Cele șapte turnuri sunt simbolul Limburgului.", "Conține Staurothek-ul, o valoroasă relicvă bizantină."],
       en: ["Considered one of Germany's most beautiful medieval buildings.", "The seven towers are the landmark of Limburg.", "Contains the Staurothek, a valuable Byzantine relic."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Limburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Limburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Limburger Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Limburger Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -1417,6 +1702,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Orașul a fost fondat în 1938 pentru muncitorii VW.", "Uzina Volkswagen este cea mai mare fabrică de automobile din lume.", "Autostadt este un parc tematic auto de renume mondial."],
       en: ["The city was founded in 1938 for VW workers.", "The Volkswagen plant is the world's largest automobile factory.", "The Autostadt is a world-class automotive theme park."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wolfsburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wolfsburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wolfsburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wolfsburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1509,6 +1813,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A Burgplatz-on álló Burglöwe (oroszlán) a város jelképe.", "A világhírű DLR kutatóközpont otthona.", "A Braunschweigi Műszaki Egyetem Németország legrégebbjei közé tartozik."],
       ro: ["Leul Burglöwe de pe Burgplatz este simbolul orașului.", "Gazda centrului de cercetare DLR de renume mondial.", "Universitatea Tehnică din Braunschweig este una dintre cele mai vechi din Germania."],
       en: ["The Burglöwe (castle lion) on Burgplatz is the city's landmark.", "Home of the world-renowned DLR research center.", "Braunschweig Technical University is one of Germany's oldest."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Braunschweig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Braunschweig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Braunschweig területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Braunschweig tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -1603,6 +1926,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Brocken (1141 m) este vârful cel mai înalt.", "Cunoscut din 'Faust' al lui Goethe și legenda Nopții Valpurgiei.", "Trenul cu cale îngustă Harz este un tren cu abur și cremalieră istoric."],
       en: ["Brocken (1141 m) is the highest peak.", "Known from Goethe's 'Faust' and the Walpurgis Night legend.", "The Harz narrow-gauge railway is a historic steam rack railway."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Harz (Niedersachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Harz (Niedersachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Harz (Niedersachsen) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Harz (Niedersachsen) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1695,6 +2037,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Nyár végi virágzó hangafüves területeiről ismert.", "A Heidschnucke juh, egy régi mezei fajta otthona.", "A Heidepark Soltau egy ismert vidámpark."],
       ro: ["Faimoasă pentru câmpurile de iarbă-de-nalbă înflorite la sfârșitul verii.", "Gazda oii Heidschnucke, o rasă veche de țară.", "Heidepark Soltau este un parc de distracții cunoscut."],
       en: ["Famous for blooming heather fields in late summer.", "Home to the Heidschnucke sheep, an old local breed.", "Heidepark Soltau is a well-known amusement park."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Lüneburger Heide (lüneburgi puszta) természetvédelmi terület és natúrpark Németországban. Németország első természetvédelmi parkja volt. A(z) Lüneburger Heide egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Lüneburger Heide területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Lüneburger Heide tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -1789,6 +2150,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Unul dintre locurile de semnare a Păcii Westfalice (1648).", "Locul de naștere al autorului Erich Maria Remarque ('Pe frontul de vest, nimic nou').", "Gazda unei importante catedrale medievale."],
       en: ["Co-signing location of the Peace of Westphalia (1648).", "Birthplace of author Erich Maria Remarque ('All Quiet on the Western Front').", "Home to an important medieval cathedral."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Osnabrück egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Osnabrück ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Osnabrück területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Osnabrück tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -1881,6 +2261,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Kb. 452 km hosszú, a Werra és a Fulda összefolyásából ered.", "A Weserbergland kedvelt túráz terület.", "A hamelni patkányfogó mondája szorosan kötődik a Weserhez."],
       ro: ["Aproximativ 452 km lungime, rezultând din confluența Werra și Fulda.", "Weserbergland este o zonă populară de drumeții.", "Legenda Fluierașului din Hameln este strâns legată de Weser."],
       en: ["Approximately 452 km long, formed by the confluence of Werra and Fulda.", "The Weser Uplands are a popular hiking area.", "The Pied Piper legend from Hamelin is closely linked to the Weser."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Weser egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Weser ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Weser területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Weser tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -1975,6 +2374,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Patrimoniu UNESCO: Catedrala St. Marien și Biserica St. Michaeliskirche.", "Trandafirul de o mie de ani de lângă catedrală ar fi vechi de 1000 de ani.", "Important centru al artei ottoniene."],
       en: ["UNESCO World Heritage: St. Marien Cathedral and St. Michael's Church.", "The Thousand-Year Rose at the Cathedral is said to be 1000 years old.", "An important center of Ottonian art."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Hildesheim egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hildesheim ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hildesheim területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hildesheim tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2067,6 +2485,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Németország második tengeri fürdőhelye, 1797-ben nyílt.", "A Wattenmeer Nemzeti Parkról ismert.", "Hosszú homokos strandjaiért népszerű a turisták körében."],
       ro: ["A doua stațiune balneară germană, deschisă în 1797.", "Cunoscut pentru Parcul Național Wattenmeer.", "Popular printre turiști pentru plajele lungi de nisip."],
       en: ["Germany's second seaside resort, opened in 1797.", "Known for the Wadden Sea National Park.", "Popular with tourists for its long sandy beaches."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Norderney egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Norderney ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Norderney területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Norderney tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -2161,6 +2598,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Legenda Fluierașului datează din secolul al XIII-lea.", "În fiecare duminică de vară au loc spectacole în aer liber despre legendă.", "Numeroase case cu cadre din lemn în stil Renaștere al Weserului caracterizează panorama urbană."],
       en: ["The Pied Piper legend dates from the 13th century.", "Every summer Sunday there are open-air performances about the legend.", "Numerous Weser Renaissance half-timbered houses characterize the townscape."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Hameln egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hameln ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Hameln területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Hameln tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2253,6 +2709,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A göttingeni hét, hét professzor, 1837-ben tiltakozott a király ellen.", "Számos Nobel-díjas tanított vagy tanult itt.", "A Gänseliesel-szobor a város szimbóluma."],
       ro: ["Cei Șapte din Göttingen, șapte profesori, au protestat în 1837 împotriva regelui.", "Numeroși laureați Nobel au predat sau studiat aici.", "Monumentul Gänseliesel este un simbol al orașului."],
       en: ["The Göttingen Seven, seven professors, protested against the king in 1837.", "Numerous Nobel Prize winners taught or studied here.", "The Gänseliesel monument is a symbol of the city."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Göttingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Göttingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Göttingen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Göttingen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -2347,6 +2822,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Singurul port real de apă adâncă din Germania pentru supertancuri.", "Gazda Muzeului Naval German.", "Locație importantă pentru importul de petrol și rafinării."],
       en: ["Germany's only genuine deep-water port for supertankers.", "Home to the German Naval Museum.", "An important location for oil imports and refineries."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Wilhelmshaven egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wilhelmshaven ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Wilhelmshaven területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Wilhelmshaven tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2439,6 +2933,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Területe kb. 29 km², átlagos mélysége mindössze 1,4 m.", "Természetvédelmi terület és madárparadicsom.", "A tóban lévő Wilhelmstein sziget egy történelmi erődöt rejt."],
       ro: ["Suprafață de aproximativ 29 km², adâncime medie de doar 1,4 m.", "Arie protejată și paradis pentru păsări.", "Insula Wilhelmstein din lac adăpostește o fortăreață istorică."],
       en: ["Surface area approximately 29 km², average depth only 1.4 m.", "Nature reserve and bird paradise.", "Wilhelmstein island in the lake houses a historic fortress."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Steinhuder Meer egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Steinhuder Meer ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Steinhuder Meer területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Steinhuder Meer tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -2533,6 +3046,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Peste 500 de case cu cadre din lemn caracterizează panorama urbană.", "Castelul Celle a fost reședința ducelui de Braunschweig-Lüneburg.", "Cunoscut pentru parada anuală a armăsarilor de la Hergstrüt din Celle."],
       en: ["Over 500 half-timbered houses shape the townscape.", "Celle Palace was the residence of the Dukes of Brunswick-Lüneburg.", "Known for the annual stallion parade of Celle State Stud."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Celle egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Celle ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Celle területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Celle tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2626,6 +3158,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Kaiserpfalz este unul dintre cele mai importante palate palatine romanice.", "Centrul vechi este Patrimoniu UNESCO.", "Mina Rammelsberg din apropiere (tot UNESCO) a funcționat peste 1000 de ani."],
       en: ["The Kaiserpfalz is one of the most significant Romanesque palatine structures.", "The old town is a UNESCO World Heritage Site.", "The nearby Rammelsberg mine (also UNESCO) operated for over 1000 years."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Goslar, teljes nevén Goslar Alte Kaiserstadt (Goslar Régi Császárváros) egy német város, tartományi körzet központja Alsó-Szászország tartományban. Része az UNESCO világörökségének. A(z) Goslar egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Goslar területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Goslar tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2718,6 +3269,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Kb. 371 km hosszú.", "Fontos a papenburgi Meyerwerft hajógyár számára, ahol óceánjárókat építenek.", "A Dortmund-Ems csatorna összeköti a Ruhr-vidéket az Északi-tengerrel."],
       ro: ["Aproximativ 371 km lungime.", "Important pentru șantierul naval Meyerwerft din Papenburg, unde se construiesc nave de croazieră.", "Canalul Dortmund-Ems leagă regiunea Ruhr de Marea Nordului."],
       en: ["Approximately 371 km long.", "Important for the Meyerwerft shipyard in Papenburg, where cruise ships are built.", "The Dortmund-Ems Canal connects the Ruhr area with the North Sea."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ems egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ems ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ems területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ems tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -2814,6 +3384,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Cunoscut ca Karl-Marx-Stadt în RDG.", "Monumentul Karl Marx este unul dintre cele mai mari monumente portret din lume.", "Capitală Culturală Europeană 2025."],
       en: ["Known as Karl-Marx-Stadt in the GDR.", "The Karl Marx Monument is one of the world's largest portrait monuments.", "European Capital of Culture 2025."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Chemnitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemnitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Chemnitz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Chemnitz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -2906,6 +3495,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Robert Schumann zeneszerző szülővárosa (1810).", "Az autógyártás hagyományos központja – itt gyártották a Trabantot.", "Az Audi elődeinek alapítási helyszíne."],
       ro: ["Locul de naștere al compozitorului Robert Schumann (1810).", "Centrul tradițional al industriei auto – aici a fost fabricat Trabantul.", "Locul fondării predecesorilor Audi."],
       en: ["Birthplace of composer Robert Schumann (1810).", "Traditional center of automobile manufacturing – the Trabant was made here.", "Founding location of Audi's predecessor companies."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Zwickau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zwickau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Zwickau területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Zwickau tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3000,6 +3608,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Fichtelberg (1215 m) este cel mai înalt munte saxon.", "Cunoscut pentru ornamente de Crăciun, spărgătoare de nuci și figurine fumătoare.", "Patrimoniu Mondial UNESCO 'Montanregion Erzgebirge/Krušnohoří' din 2019."],
       en: ["Fichtelberg (1215 m) is the highest Saxon mountain.", "Known for Christmas ornaments, nutcrackers, and incense smokers.", "UNESCO World Heritage 'Montanregion Erzgebirge/Krušnohoří' since 2019."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Erzgebirge egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Erzgebirge ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Erzgebirge területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Erzgebirge tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -3092,6 +3719,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A Szász Svájc Nemzeti Park védi a sziklatájat.", "A Bastei a legismertebb kirándulóhely.", "Kedvelt hegymászó- és túrázó terület."],
       ro: ["Parcul Național Elveția Saxonă protejează peisajul stâncos.", "Bastei este cea mai cunoscută destinație turistică.", "Zonă populară pentru alpinism și drumeții."],
       en: ["Saxon Switzerland National Park protects the rocky landscape.", "The Bastei is the most famous excursion destination.", "A popular area for climbing and hiking."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Sächsische Schweiz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Sächsische Schweiz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3186,6 +3832,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Valea Elbei din Dresda este de o valoare remarcabilă ca peisaj cultural.", "Elveția Saxonă a fost formată prin eroziunea Elbei de-a lungul a milioane de ani.", "Rută importantă de navigație de la Evul Mediu."],
       en: ["The Elbe valley in Dresden is of outstanding value as a cultural landscape.", "Saxon Switzerland was created by Elbe erosion over millions of years.", "An important shipping route since the Middle Ages."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Elbe (Sachsen) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Elbe (Sachsen) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Elbe (Sachsen) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -3278,6 +3943,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A meisseni porcelánmanufaktúra 1710-ben alapult.", "Az Albrechtsburg kastély egy ideig a titkos porcelánreceptnek adott otthont.", "A híres meisseni porcelánt 'fehér aranynak' nevezik."],
       ro: ["Manufactura de porțelan Meissen a fost fondată în 1710.", "Castelul Albrechtsburg a găzduit temporar formula secretă a porțelanului.", "Porțelanul faimos Meissen este numit 'aur alb'."],
       en: ["The Meissen Porcelain Manufactory was founded in 1710.", "Albrechtsburg Castle temporarily housed the secret porcelain formula.", "The famous Meissen porcelain is called 'white gold'."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Meißen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Meißen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Meißen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Meißen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3372,6 +4056,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Cu 91 m, unul dintre cele mai mari monumente din Europa.", "Inaugurat în 1913, la centenarul bătăliei.", "Bătălia Națiunilor a fost una dintre cele mai mari bătălii ale Războaielor Napoleoniene."],
       en: ["At 91 m, one of the largest monuments in Europe.", "Inaugurated in 1913 on the 100th anniversary of the battle.", "The Battle of the Nations was one of the largest battles of the Napoleonic Wars."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Völkerschlachtdenkmal Leipzig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Völkerschlachtdenkmal Leipzig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Völkerschlachtdenkmal Leipzig területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Völkerschlachtdenkmal Leipzig tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -3464,6 +4167,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Az Elba feletti első kőhíd Szászországban, eredetileg 1319-ben épült.", "A második világháborúban megsemmisült, majd az eredeti mintájára újjáépítették.", "Az óvárost összeköti az újvárossal."],
       ro: ["Primul pod de piatră peste Elba din Saxonia, construit inițial în 1319.", "Distrus în Al Doilea Război Mondial, reconstruit după modelul istoric.", "Leagă Orașul Vechi de Orașul Nou."],
       en: ["First stone bridge over the Elbe in Saxony, originally built in 1319.", "Destroyed in World War II, rebuilt following historical design.", "Connects the Old Town with the New Town."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Augustusbrücke Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Augustusbrücke Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Augustusbrücke Dresden területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Augustusbrücke Dresden tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3558,6 +4280,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Considerată unul dintre cele mai bine conservate orașe vechi din Europa.", "Locație populară pentru filmări ('Inglourious Basterds', 'The Grand Budapest Hotel').", "Orașul geamăn polonez Zgorzelec se află pe cealaltă parte a Neisei."],
       en: ["Considered one of Europe's best-preserved old towns.", "Popular filming location ('Inglourious Basterds', 'The Grand Budapest Hotel').", "The Polish twin city of Zgorzelec lies on the other side of the Neisse."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Görlitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Görlitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Görlitz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Görlitz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -3650,6 +4391,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["1927-ben készült el, Szászország egyik legrégebbike.", "A tó feletti Kriebstein vár Szászország legszebb lovagvárának tartják.", "Kedvelt célpont vízisportokhoz és túrázáshoz."],
       ro: ["Finalizat în 1927, unul dintre cele mai vechi din Saxonia.", "Castelul Kriebstein deasupra lacului este considerat cel mai frumos castel cavaleresc din Saxonia.", "Destinație populară pentru sporturi nautice și drumeții."],
       en: ["Completed in 1927, one of Saxony's oldest reservoirs.", "Kriebstein Castle above the lake is considered Saxony's most beautiful knight's castle.", "A popular destination for water sports and hiking."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Talsperre Kriebstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Talsperre Kriebstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Talsperre Kriebstein területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Talsperre Kriebstein tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3744,6 +4504,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Fondat în 1990, unul dintre cele mai tinere parcuri naționale germane.", "Cunoscut pentru stânci de gresie, chei adânci și păduri dese.", "Transfrontalier cu Parcul Național Elveția Boemă din Republica Cehă."],
       en: ["Founded in 1990, one of Germany's youngest national parks.", "Known for sandstone cliffs, deep gorges, and dense forests.", "Cross-border with Czech Bohemian Switzerland National Park."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nationalpark Sächsische Schweiz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Sächsische Schweiz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nationalpark Sächsische Schweiz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nationalpark Sächsische Schweiz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -3836,6 +4615,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Az Erős Ágost szász választófejedelem építtette.", "A kastélyt négy mesterséges tó veszi körül.", "A 'Három mogyoró Hamupipőkébe' c. film itt forgatták."],
       ro: ["Construit de August cel Puternic, elector al Saxoniei.", "Castelul este înconjurat de patru iazuri artificiale.", "Filmul 'Trei nuci pentru Cenușăreasa' a fost filmat aici."],
       en: ["Built by Augustus the Strong, Elector of Saxony.", "The palace is surrounded by four artificial ponds.", "The film 'Three Hazelnuts for Cinderella' was filmed here."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Schloss Moritzburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Moritzburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Schloss Moritzburg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Schloss Moritzburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -3930,6 +4728,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Gazda TU Bergakademie Freiberg (1765), cea mai veche universitate minieră din lume.", "Munții Metaliferi bogați în argint au adus prosperitate orașului.", "Parte a Patrimoniului UNESCO 'Montanregion Erzgebirge'."],
       en: ["Home to TU Bergakademie Freiberg (1765), the world's oldest mining university.", "The silver-rich Ore Mountains brought wealth to the city.", "Part of the UNESCO World Heritage 'Montanregion Erzgebirge'."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Freiberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Freiberg területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Freiberg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4023,6 +4840,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Oficial numită 'Loschwitzer Brücke'.", "Particularitate: niciun pilon în albia râului.", "A supraviețuit celui de-Al Doilea Război Mondial ca unul dintre puținele poduri din Dresda."],
       en: ["Officially named 'Loschwitzer Brücke'.", "Special feature: no piers in the riverbed.", "Survived World War II as one of the few Dresden bridges left standing."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Blaues Wunder Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Blaues Wunder Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Blaues Wunder Dresden területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Blaues Wunder Dresden tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4115,6 +4951,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Az Erős Ágost tervezte ünnepteremnek és orangeriának.", "A Régi Mesterek képtárának otthona Raffaello Sixtusi Madonnájával.", "A második világháborúban súlyosan elpusztult, majd gondosan rekonstruálták."],
       ro: ["Conceput de August cel Puternic ca sală de festivități și orangerie.", "Gazda Galeriei de Pictură a Vechilor Maeștri cu Madonna Sixtină a lui Rafael.", "Grav distrus în Al Doilea Război Mondial și reconstruit elaborat."],
       en: ["Conceived by Augustus the Strong as a festival hall and orangery.", "Home to the Old Masters Picture Gallery featuring Raphael's Sistine Madonna.", "Severely destroyed in World War II and extensively reconstructed."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Dresdner Zwinger egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dresdner Zwinger ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Dresdner Zwinger területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Dresdner Zwinger tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -4211,6 +5066,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Colțul German este simbolul orașului.", "Fortăreața Ehrenbreitstein domină orașul din față.", "Poartă spre peisajul cultural protejat UNESCO al Rinului Mijlociu Superior."],
       en: ["The Deutsches Eck is the symbol of the city.", "Ehrenbreitstein Fortress rises opposite the city.", "Gateway to the UNESCO-protected Upper Middle Rhine Valley cultural landscape."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Koblenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Koblenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Koblenz területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Koblenz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4303,6 +5177,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Németország egyik leghíresebb borfolyója meredek palavidékkel.", "A Bremmnél lévő Mosel-kanyar Európa egyik legszűkebb folyókanyarulata.", "Franciaországot (Lotaringiát) köti össze Németországgal."],
       ro: ["Unul dintre cele mai cunoscute râuri viticole din Germania, cu pante de șist abrupte.", "Cotul Mosellei de la Bremm este unul dintre cele mai înguste meandre din Europa.", "Leagă Franța (Lorena) de Germania."],
       en: ["One of Germany's most famous wine rivers with steep slate slopes.", "The Moselle bend near Bremm is one of Europe's tightest river bends.", "Connects France (Lorraine) with Germany."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Mosel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Mosel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Mosel területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Mosel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -4397,6 +5290,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Gazda BASF SE, una dintre cele mai mari companii chimice din lume.", "Uzina BASF este cea mai mare fabrică chimică contiguă din lume.", "Locul de naștere al cancelarului federal Helmut Kohl."],
       en: ["Home to BASF SE, one of the world's largest chemical companies.", "The BASF plant is the world's largest contiguous chemical plant.", "Birthplace of Federal Chancellor Helmut Kohl."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Ludwigshafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ludwigshafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Ludwigshafen területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Ludwigshafen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4489,6 +5401,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["UNESCO világörökség a 'trieri római műemlékek' részeként.", "Kr.u. 2. században épült.", "A középkorban templomként használták."],
       ro: ["Patrimoniu UNESCO ca parte a 'Monumentelor romane din Trier'.", "Construit în secolul al II-lea d.Hr.", "Folosit ca biserică în Evul Mediu."],
       en: ["UNESCO World Heritage as part of the 'Roman Monuments in Trier'.", "Built in the 2nd century AD.", "Used as a church in the Middle Ages."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Trier – Porta Nigra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Trier – Porta Nigra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Trier – Porta Nigra területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Trier – Porta Nigra tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -4583,6 +5514,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO din 1992.", "Cunoscut pentru ruine de castele, stânci de gresie roșie și trasee de drumeție.", "Se învecinează direct cu Rezervația Biosferei Vosges du Nord din Franța."],
       en: ["UNESCO Biosphere Reserve since 1992.", "Known for castle ruins, red sandstone rocks, and hiking trails.", "Directly adjoins the Northern Vosges Biosphere Reserve in France."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Pfälzerwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Pfälzerwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Pfälzerwald területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Pfälzerwald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4675,6 +5625,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Bad Kreuznachon folyik át és Bingennél torkollik a Rajnába.", "A Nahe borvidék Németország egyik legkisebb minőségi bortermő vidéke.", "A régió gyógyköveivel és ékköveivel is híressé vált."],
       ro: ["Curge prin Bad Kreuznach și se varsă în Rin la Bingen.", "Regiunea viticolă Nahe este una dintre cele mai mici zone de vin de calitate din Germania.", "Renumit și pentru pietrele prețioase și pietrele vindecătoare din regiune."],
       en: ["Flows through Bad Kreuznach and joins the Rhine at Bingen.", "The Nahe wine-growing region is one of Germany's smallest quality wine areas.", "Famous for healing stones and gemstones in the region."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Nahe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nahe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Nahe területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Nahe tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -4769,6 +5738,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Statuia ecvestră a împăratului Wilhelm I se află aici.", "Distrus în Al Doilea Război Mondial, refăcut în 1993.", "Unul dintre cele mai vizitate repere din Renania-Palatinat."],
       en: ["An equestrian statue of Emperor Wilhelm I stands here.", "Destroyed in World War II, re-erected in 1993.", "One of the most visited landmarks in Rhineland-Palatinate."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Deutsches Eck egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Deutsches Eck ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Deutsches Eck területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Deutsches Eck tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -4861,6 +5849,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["Vulkánjairól és maárjairól ismert (pl. Laacher See).", "A Nürburgring az Eifelben található.", "Az Eifel Nemzeti Park 2004-ben nyílt meg."],
       ro: ["Cunoscut pentru vulcani și maare (de ex. Laacher See).", "Nürburgring se află în Eifel.", "Parcul Național Eifel a fost deschis în 2004."],
       en: ["Known for volcanoes and maar lakes (e.g., Laacher See).", "The Nürburgring is located in the Eifel.", "Eifel National Park opened in 2004."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Eifel (Rheinland-Pfalz) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eifel (Rheinland-Pfalz) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Eifel (Rheinland-Pfalz) területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Eifel (Rheinland-Pfalz) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -4955,6 +5962,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Format printr-o erupție vulcanică acum aproximativ 12.900 de ani.", "Încă apar degajări de CO₂ la suprafața lacului.", "Abația Maria Laach este situată direct pe malul lacului."],
       en: ["Formed by a volcanic eruption approximately 12,900 years ago.", "CO₂ emissions still occur on the lake surface today.", "Maria Laach Abbey is located directly on the lakeshore."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Laacher See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Laacher See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Laacher See területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Laacher See tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -5047,6 +6073,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["1981 óta UNESCO világörökség.", "A világ egyik legnagyobb román kori épülete.", "Több saliai és stauf császár temetkezési helye."],
       ro: ["Patrimoniu UNESCO din 1981.", "Una dintre cele mai mari construcții romanice din lume.", "Loc de înmormântare al mai multor împărați salici și Hohenstaufen."],
       en: ["UNESCO World Heritage Site since 1981.", "One of the largest Romanesque buildings in the world.", "Burial site of several Salian and Staufen emperors."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Speyerer Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Speyerer Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Speyerer Dom területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Speyerer Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -5141,6 +6186,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Strimtoarea de la Loreley este cel mai periculos loc de pe Rin pentru navigație.", "Legenda frumoasei Loreley a fost făcută faimoasă la nivel mondial de Heinrich Heine.", "Parte a Patrimoniului UNESCO 'Valea Rinului Mijlociu Superior'."],
       en: ["The narrows at the Loreley are the most dangerous stretch of the Rhine for shipping.", "The legend of the beautiful Loreley was made world-famous by Heinrich Heine.", "Part of the UNESCO World Heritage 'Upper Middle Rhine Valley'."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Loreley egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Loreley ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Loreley területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Loreley tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -5233,6 +6297,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["1521-ben itt tartották azt a birodalmi gyűlést, ahol Luther azt mondta: 'Hier stehe ich'.", "A Wormsi dóm egy fontos román kori épület.", "'Nibelungenstadtnak' is hívják a mondaápolás miatt."],
       ro: ["Aici a avut loc în 1521 Dieta unde Luther a spus 'Hier stehe ich'.", "Catedrala din Worms este o importantă construcție romanică.", "Cunoscut ca 'Orașul Nibelungilor' datorită tradițiilor legendare."],
       en: ["The 1521 Imperial Diet took place here, where Luther said 'Here I stand'.", "Worms Cathedral is a significant Romanesque building.", "Known as 'Nibelung City' due to its legendary traditions."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Worms területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Worms tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
@@ -5327,6 +6410,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["Prima mențiune în 1051, distrus în secolul al XVII-lea și reconstruit neogotic în secolul al XIX-lea.", "Domină valea Moselei de pe o stâncă de 100 m înălțime.", "Vizitat de mii de turiști anual."],
       en: ["First mentioned in 1051, destroyed in the 17th century and rebuilt in Neo-Gothic style in the 19th century.", "Towers over the Moselle Valley from a 100 m high rock.", "Visited by thousands of tourists annually."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Burg Cochem egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Cochem ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Burg Cochem területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Burg Cochem tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -5420,6 +6522,25 @@ export const poiExtraDe2: POI[] = [
       ro: ["'Orașele SchUM' (Speyer, Worms, Mainz) sunt Patrimoniu UNESCO din 2021.", "Cimitirul Evreiesc (Heiliger Sand) este cel mai vechi cimitir evreiesc conservat din Europa.", "Sinagoga a fost distrusă și reconstruită de mai multe ori în Evul Mediu."],
       en: ["The 'SchUM Cities' (Speyer, Worms, Mainz) have been UNESCO World Heritage since 2021.", "The Jewish cemetery (Heiliger Sand) is the oldest preserved Jewish cemetery in Europe.", "The synagogue was destroyed and rebuilt multiple times during the Middle Ages."],
     },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Jüdisches Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Jüdisches Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Jüdisches Worms területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Jüdisches Worms tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
+    },
     faq: {
         "de": [
             {
@@ -5512,6 +6633,25 @@ export const poiExtraDe2: POI[] = [
       hu: ["A 19. században Friedrich Wilhelm porosz herceg restauráltatta.", "A Közép-Rajna-völgy UNESCO világörökség területének romantikus Rajna-táj része.", "A Közép-Rajna-völgy egyik legismertebb vára."],
       ro: ["Restaurat în secolul al XIX-lea de Prințul Friedrich Wilhelm al Prusiei.", "Parte a peisajului romantic al Rinului în zona Patrimoniului UNESCO.", "Unul dintre cele mai cunoscute castele din Valea Rinului Mijlociu."],
       en: ["Restored in the 19th century by Prince Friedrich Wilhelm of Prussia.", "Part of the romantic Rhine landscape in the UNESCO World Heritage area.", "One of the best-known castles in the Middle Rhine Valley."],
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A(z) Burg Rheinstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Rheinstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "A(z) Burg Rheinstein területén évente több mint 100 000 látogató fordul meg.",
+        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
+        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
+        "A Burg Rheinstein tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
+        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
+        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
+      ],
+      ro: [],
+      en: []
     },
     faq: {
         "de": [
