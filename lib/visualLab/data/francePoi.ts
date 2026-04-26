@@ -1,4 +1,5 @@
 import type { POI } from "./poi";
+import { franceCitiesExtra } from "./franceCitiesExtra";
 
 export const franceCountry: POI[] = [
   {
@@ -1358,4 +1359,4 @@ export const franceCities: POI[] = [
   },
 ];
 
-export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities];
+export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities, ...franceCitiesExtra];
