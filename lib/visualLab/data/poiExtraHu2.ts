@@ -23,7 +23,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der János-Berg ist mit einer Höhe von 527 Metern der stolze Gipfel der ungarischen Hauptstadt Budapest. Gelegen in den malerischen Budaer Bergen, bietet dieser Ort eine Oase der Ruhe fernab des städtischen Trubels. Das markanteste Merkmal auf dem Gipfel ist die Erzsébet-Aussichtswarte, ein neoromanisches Meisterwerk, das zu Ehren der Kaiserin Elisabeth errichtet wurde. Von hier aus genießen Besucher einen atemberaubenden 360-Grad-Panoramablick über die gesamte Stadt, das Donauknie und bei klarer Sicht sogar bis zu den Gipfeln der Hohen Tatra. Die historische Bedeutung des Berges als Erholungsgebiet reicht weit zurück und ist heute eng mit der Libegő-Sesselbahn und der Kindereisenbahn verknüpft, was ihn zu einem Favoriten für Familien und Wanderer macht.",
       hu: "A 527 méteres János-hegy Budapest legmagasabb pontja, a Budai-hegység koronázó csúcsa. A tetőn áll az 1910-ben Erzsébet királyné emlékére emelt neoromán Erzsébet-kilátó, amely 23 méter magas és 360 fokos panorámát kínál a városra. A csúcsra felvezet a Libegő, a kétszemélyes lánckerékpályás drótkötélpálya 1970 óta, valamint a Gyermekvasút, amelyet úttörő gyerekek üzemeltetnek 1948 óta. A hegy az UNESCO világörökség részét képező Budai-hegység természetvédelmi területén belül helyezkedik el.",
-      ro: "",
+      ro: "Vârful János-hegy reprezintă cel mai înalt punct geografic al Budapestei, atingând o altitudine de 528 de metri. Acesta este situat în sectorul XII și face parte integrantă din Munții Buda, oferind o panoramă spectaculoasă asupra întregii capitale maghiare. Principala atracție este Turnul de observație Erzsébet, construit în stil neoromanic între anii 1908 și 1910. Accesul către vârf este facilitat de telecabina Zugligeti Libegő, o modalitate populară de transport pentru turiști. Zona este înconjurată de păduri dense, fiind o destinație preferată pentru drumeții și activități în aer liber în orice anotimp.",
       en: ""
     },
     factsAdvanced: {
@@ -38,7 +38,7 @@ export const poiExtraHu2: POI[] = [
         "Die untere Station der berühmten Kindereisenbahn befindet sich in unmittelbarer Nähe in den Wäldern."
       ],
       hu: ["527 méter magas, Budapest legmagasabb pontja.", "Erzsébet-kilátó 1910-ben épült Erzsébet királyné emlékére.", "A kilátó 23 méter magas, neoromán stílusú.", "Libegő 1970 óta üzemel.", "Gyermekvasút 1948 óta szállít gyerekeket úttörő-mintán.", "A Budai Tájvédelmi Körzet része."],
-      ro: [],
+      ro: ["Altitudinea maximă este de 528 metri deasupra nivelului mării.", "Turnul Erzsébet a fost proiectat de arhitectul Frigyes Schulek.", "Telecabina Libegő parcurge o distanță de 1.040 de metri.", "Turnul a fost numit după împărăteasa Elisabeta (Sisi) a Austriei.", "Vizibilitatea de pe vârf poate ajunge până la Munții Tatra în zilele senine.", "Structura turnului are patru nivele de observare circulare."],
       en: []
     }
   },
@@ -63,7 +63,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Hármashatár-hegy, übersetzt als Drei-Grenzen-Berg, ist einer der vielseitigsten Gipfel der Budaer Berge. Sein Name erinnert an das 19. Jahrhundert, als hier die Verwaltungsgrenzen der damals noch eigenständigen Städte Buda, Óbuda und der Gemeinde Pesthidegkút aufeinandertrafen. Heute ist der 495 Meter hohe Berg vor allem für seine herausragende Thermik bekannt, die ihn zu einem Mekka für Segelflieger und Gleitschirmpiloten gemacht hat. Die weitläufigen, oft windgepeitschten Plateaus bieten eine einzigartige Flora, während Wanderwege wie der berühmte Blaue Pfad den Berg queren. Die Kombination aus technischer Infrastruktur, wie Funkmasten, und naturbelassenen Wanderpfaden verleiht dem Gebiet einen ganz eigenen Charakter, der Sportler und Naturfreunde gleichermaßen anzieht.",
       hu: "A Hármashatár-hegy 495 méteres csúcsa Budapest harmadik legmagasabb pontja, és Buda északnyugati peremén emelkedik. Nevét a 19. századi közigazgatási határáról kapta, amely Buda, Óbuda és Pesthidegkút községeket választotta el. Ma a hegy elsősorban a vitorlázó- és siklóernyős sportoké – ideális termikája miatt egész Európából érkeznek pilóták. A csúcsról a Duna-kanyar és a Dunántúli-középhegység is látható tiszta időben. A vidéket a Kék körtúra és számos turistautak hálózata szeli át.",
-      ro: "",
+      ro: "Muntele Hármashatár-hegy, cu o înălțime de 495 de metri, este situat în partea de nord-vest a Budapestei. Numele său tradus înseamnă 'Muntele celor trei granițe', deoarece în secolul al XIX-lea marca punctul de întâlnire al orașelor Buda, Óbuda și satului Pesthidegkút. Astăzi, zona este extrem de populară printre pasionații de sporturi aerodinamice, precum parapanta și planorismul, datorită curenților de aer favorabili. Pe vârf se află un centru modern pentru vizitatori și numeroase trasee de drumeție care fac parte din Traseul Albastru Național maghiar. Vegetația este diversă, predominând pădurile de fag și gorun.",
       en: ""
     },
     factsAdvanced: {
@@ -78,7 +78,7 @@ export const poiExtraHu2: POI[] = [
         "Das Gebiet ist ein wichtiger Lebensraum für die geschützte pannonische Flora, insbesondere Trockenrasenarten."
       ],
       hu: ["495 méter magas, Budapest harmadik legmagasabb pontja.", "Nevét három község (Buda, Óbuda, Pesthidegkút) határáról kapta.", "Ideális termikája miatt vitorlázó- és siklóernyős központ.", "A Kék körtúra hivatalos turistaútja vezet keresztül.", "Tiszta időben a Duna-kanyar és Dunántúli-középhegység is látszik.", "Műholdas-/rádióadótornyok találhatók a csúcson."],
-      ro: [],
+      ro: ["Vârful atinge o înălțime de 495 de metri.", "Aici a fost înființat primul club de planorism din Ungaria în 1933.", "Turnul de observație Guckler Károly oferă o vedere de 360 de grade.", "Zona face parte din Parcul Național Dunăre-Ipoly.", "Traseul Albastru Național (Országos Kéktúra) traversează acest munte.", "Numele provine de la granița administrativă din anul 1873."],
       en: []
     }
   },
@@ -103,7 +103,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Mitten im dicht besiedelten Budapest erhebt sich der Sas-hegy (Adlerberg) als ein ökologisches Juwel von unschätzbarem Wert. Dieses 30 Hektar große Naturschutzgebiet ist ein Relikt aus der Eiszeit und beherbergt Pflanzen- und Tierarten, die sonst nirgendwo in der Region zu finden sind. Die zerklüfteten Dolomitfelsen bieten ideale Bedingungen für wärmeliebende Organismen. Ein gut ausgebauter Lehrpfad führt Besucher durch die empfindliche Landschaft und informiert über den Schutz der Biodiversität. Trotz der urbanen Umgebung hat sich hier ein Mikrokosmos erhalten, der einen scharfen Kontrast zur geschäftigen Metropole bildet. Von den Aussichtspunkten des Berges erschließt sich zudem eine ungewöhnliche Perspektive auf die nahegelegene Zitadelle und das südliche Buda.",
       hu: "A budai Sas-hegy egy 266 méter magas dolomitkiemelkedés, amely Budapest egyik legértékesebb természetvédelmi területe. A hegy különlegessége a jégkorszakból fennmaradt reliktum növénytársulásokban rejlik, amelyek a déli fekvésű, kopár sziklagyepeken találtak menedéket. Olyan ritka fajok élnek itt, mint a magyar gurgolya vagy az István király-szegfű. A terület 1958 óta áll védelem alatt, és ma látogatóközpont, valamint tanösvény segít megismerni az itteni ökoszisztémát. A csúcsról lenyűgöző panoráma nyílik a Gellért-hegyre, a Budai Várra és a pesti oldalra. Geológiailag a hegyet triász kori dolomit építi fel, amelynek porladó felszíne sajátos mikroklímát biztosít a hőt kedvelő hüllőknek, például a pannon gyíknak.",
-      ro: "",
+      ro: "Dealul Sas-hegy, situat în inima Budei, este o rezervație naturală unică ce conservă ecosistemul original al zonei înainte de urbanizare. Cu o înălțime de 266 de metri, acest afloriment de dolomit găzduiește numeroase specii de plante și animale relicte, supraviețuitoare ale perioadelor glaciare. Din motive de conservare, vizitarea centrului rezervației este permisă doar în cadrul tururilor ghidate pe un traseu educațional amenajat. De pe platforma panoramică de pe vârf, vizitatorii pot admira Castelul Buda și Dealul Gellért dintr-o perspectivă inedită. Este un exemplu remarcabil de conservare a biodiversității într-un mediu urban dens.",
       en: ""
     },
     factsAdvanced: {
@@ -118,7 +118,7 @@ export const poiExtraHu2: POI[] = [
         "Der Berg bietet einen der besten botanischen Panoramablicke auf das Budaer Schloss und den Gellértberg."
       ],
       hu: ["A Sas-hegy tengerszint feletti magassága 266 méter.", "A terület 1958-ban kapott országos jelentőségű védett státuszt.", "A hegyen fészkel a ritka és védett pannon gyík populációja.", "A sziklákon virágzik az endemikus magyar gurgolya növényfaj.", "A hegy gyomrában az ELTE szeizmológiai állomása működik.", "A látogatóközpont interaktív kiállítással várja az érdeklődőket.", "A panoráma tanösvény 850 méter hosszú és akadálymentesített.", "A hegyet a 17. században még Adlersberg néven emlegették."],
-      ro: [],
+      ro: ["Rezervația naturală a fost înființată în anul 1958.", "Aici trăiește șopârla de munte Ablepharus kitaibelii fitzingeri.", "Flora include specii rare de orhidee și plante endemice de dolomit.", "Altitudinea vârfului este de 266 de metri.", "Traseul educațional are o lungime de aproximativ 850 de metri.", "Dealul este compus în principal din dolomit de vârstă triasică."],
       en: []
     }
   },
@@ -143,7 +143,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Naplás-tó, auch bekannt als Szilas-pataki-víztározó, ist ein künstlich angelegter See im XVI. Bezirk von Budapest, der sich im Laufe der Jahrzehnte zu einem bedeutenden Naturparadies entwickelt hat. Als größtes stehendes Gewässer der ungarischen Hauptstadt dient er heute nicht nur dem Hochwasserschutz des Szilas-Baches, sondern ist auch ein geschütztes Biotop. Die umliegenden Wälder und Sumpfgebiete bieten einen Rückzugsort für zahlreiche geschützte Arten. Besonders hervorzuheben ist die im Jahr 2021 errichtete moderne Aussichtswarte, die durch ihre architektonische Gestaltung besticht und einen weiten Blick über das ökologische Schutzgebiet Cinkota bietet. Für die Budapester Stadtbevölkerung ist der See ein unverzichtbares Ziel für Wanderungen, Radtouren und Naturbeobachtungen.",
       hu: "A Naplás-tó, hivatalos nevén Szilas-pataki árvízvédelmi víztározó, Budapest legnagyobb kiterjedésű állóvize a XVI. kerületben. Az 1978-ban létrehozott mesterséges tó mára fontos ökológiai folyosóvá és természetvédelmi területté vált. A tó és környezete, a Cinkotai-erdővel együtt, számos védett madárfaj és hüllő, köztük a mocsári teknős egyik utolsó fővárosi menedékhelye. 2021-ben egy modern, 22 méter magas kilátót adtak át a tó partján, amely különleges faépítészeti megoldásaival a környék jelképévé vált. A terület népszerű a kirándulók, horgászok és kerékpárosok körében, mivel a városi környezetben is képes megőrizni természetközeli jellegét.",
-      ro: "",
+      ro: "Lacul Naplás, situat în sectorul XVI al Budapestei, este cel mai mare lac stătător din capitală și face parte dintr-o zonă protejată de interes local. Creat artificial în 1978 prin bararea pârâului Szilas, lacul a devenit un refugiu crucial pentru biodiversitate, în special pentru păsările migratoare și broaștele țestoase de mlaștină. Zona este înconjurată de mlaștini și păduri, oferind un mediu propice pentru recreere, pescuit și observarea naturii. Recent, a fost construit un turn de observație modern din lemn, cu o arhitectură premiată, care oferă o vedere panoramică asupra lacului și a bazinului Szilas. Este considerat plămânul verde al părții de est a orașului.",
       en: ""
     },
     factsAdvanced: {
@@ -158,7 +158,7 @@ export const poiExtraHu2: POI[] = [
         "Im Winter ist der See bei anhaltendem Frost ein beliebtes inoffizielles Ziel für Schlittschuhläufer."
       ],
       hu: ["A tó vízfelülete körülbelül 16 hektár kiterjedésű.", "Az árvízvédelmi tározót 1978-ban alakították ki a Szilas-patakon.", "A tó melletti kilátó 2021-ben épült fenntartható faanyagból.", "A Naplás-tó környéke 1997 óta fővárosi védett terület.", "Itt található Budapest legnagyobb mocsári teknős populációja.", "A területen több mint 150 madárfajt figyeltek meg eddig.", "A tó partján 4 kilométer hosszú tanösvény fut körbe.", "A víz átlagos mélysége 2 méter körül mozog a mederben."],
-      ro: [],
+      ro: ["Lacul are o suprafață de aproximativ 16 hectare.", "A fost declarat zonă protejată în anul 1997.", "Turnul de observație din lemn are o înălțime de 22 de metri.", "Peste 200 de specii de păsări au fost identificate în zonă.", "Este un sit important pentru protejarea broaștei țestoase europene.", "Barajul a fost construit inițial pentru controlul inundațiilor."],
       en: []
     }
   },
@@ -183,7 +183,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Soroksári-Duna, oft auch als 'Kleine Donau' bezeichnet, ist ein 58 Kilometer langer Nebenarm des Hauptstroms, der die Insel Csepel vom Pester Festland trennt. Durch Schleusensysteme im Norden und Süden reguliert, weist der Arm eine sehr geringe Strömung auf, was ihn zu einem idealen Habitat für aquatische Lebensformen gemacht hat. Entlang der Ufer finden sich ausgedehnte Schilfgürtel und seltene schwimmende Moore, die in Europa als ökologische Besonderheit gelten. Die ruhigen Wasserwege sind ein Paradies für Kanufahrer und Angler, die hier Erholung suchen. Historisch spielte der Arm eine wichtige Rolle für die Mühlenindustrie und den lokalen Warentransport, heute steht jedoch der Freizeitwert und der Schutz der Artenvielfalt im Vordergrund der regionalen Entwicklung.",
       hu: "A Soroksári-Duna, vagy más néven Ráckevei-Duna, a folyam 58 kilométer hosszú mellékága, amely a Csepel-szigetet választja el a pesti oldaltól. A folyószakasz két zsilip, a Kvassay- és a Tassi-zsilip között helyezkedik el, ami lehetővé teszi a vízszint szabályozását és a lassú áramlást. Ez a nyugodt víztükör ideális feltételeket teremtett az úszólápok kialakulásához, amelyek Európa-szerte ritka természeti képződmények. A Soroksári-Duna partja mentén horgásztanyák, csónakházak és üdülőövezetek sorakoznak, jelentős rekreációs értéket képviselve a fővárosiak számára. Ökológiai szempontból kiemelkedő a nádasok és a vízi növényzet szerepe a biodiverzitás megőrzésében.",
-      ro: "",
+      ro: "Brațul Soroksár al Dunării, cunoscut și sub numele de Dunărea Mică (Ráckevei-Duna), este un braț secundar al fluviului ce se întinde la sud de Budapesta. Cu o lungime de 57 de kilometri, acesta este separat de brațul principal prin insula Csepel și este controlat prin ecluze la ambele capete (Kvassay și Tass). Datorită curentului lent și a calității apei, este o destinație de top pentru canotaj, pescuit și sporturi nautice. Malurile sale sunt bogate în stufărișuri și zone umede protejate, adăpostind numeroase specii de pești și păsări de apă. Este considerat una dintre cele mai importante zone de agrement acvatic din regiunea centrală a Ungariei.",
       en: ""
     },
     factsAdvanced: {
@@ -198,7 +198,7 @@ export const poiExtraHu2: POI[] = [
         "Die Insel Molnár-sziget innerhalb des Arms ist ein bekannter lokaler Ausflugsort mit Gartenstadtcharakter."
       ],
       hu: ["A mellékág teljes hossza 58 kilométer Budapest és Tass között.", "A vízszintet az 1920-as években épült Kvassay-zsilip szabályozza.", "A folyóágon található úszólápok védett természeti értékek.", "A Molnár-sziget a mellékág egyik legnépszerűbb kirándulóhelye.", "A víz átlagos mélysége 3 és 4 méter között változik.", "A partvonal mentén több mint 20 horgászegyesület működik.", "A lassú folyás miatt a kajakosok és kenusok kedvelt edzőpályája.", "A terület fészkelőhelye a jégmadárnak és több kócsagfajnak."],
-      ro: [],
+      ro: ["Lungimea totală a brațului este de 57,3 kilometri.", "Ecluza Kvassay a fost finalizată în anul 1927.", "Adâncimea medie a apei variază între 2 și 4 metri.", "Insula Csepel este delimitată de acest braț în partea de est.", "Găzduiește numeroase colonii de case de vacanță pe piloni.", "Este o zonă de importanță internațională pentru pescuitul sportiv."],
       en: []
     }
   },
@@ -224,7 +224,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Zengő ist mit 682 Metern die höchste Erhebung des Mecsek-Gebirges in Südungarn und ein Symbol der regionalen Naturverbundenheit. Der Berg, dessen Name übersetzt 'der Resonante' oder 'der Dröhnende' bedeutet, ist sagenumwoben und spielt eine zentrale Rolle in der lokalen Folklore. Er ist fast vollständig von dichten Laubwäldern bedeckt, in denen die seltene Banater Pfingstrose blüht – eine botanische Kostbarkeit, die fast ausschließlich hier vorkommt. Auf dem Gipfel thront eine im Jahr 2020 eingeweihte, moderne Aussichtswarte, die Wanderern einen unvergleichlichen Blick über das Baranya-Hügelland bis hinüber nach Kroatien bietet. Geschichtlich ist der Berg auch für die 'Schlacht am Zengő' bekannt, bei der Umweltschützer erfolgreich den Bau einer NATO-Radarstation verhinderten.",
       hu: "A 682 méter magas Zengő a Mecsek-hegység és egyben Baranya vármegye legmagasabb csúsa. A hegy nevét a néphit szerint a mélyéből hallatszó zengő hangról kapta, amelyet a népmesék a kincskereső pásztorok történetével magyaráznak. A hegytetőn 2020-ban adták át a modern, hét szintes kilátót, amely egy régi geodéziai torony köré épült, és pazar kilátást nyújt a Villányi-hegységre, sőt tiszta időben Horvátországig is ellátni. A Zengő északi oldala ad otthont a világszerte ritka bánáti bazsarózsa állományának több mint 90 százalékának. A hegy történelmébe bevonult a 'zengői csata' is, amikor a helyi lakosok és természetvédők megakadályozták egy NATO-radarállomás felépítését.",
-      ro: "",
+      ro: "Vârful Zengő este cel mai înalt punct al munților Mecsek din sudul Ungariei, atingând o altitudine de 682 de metri. Situat în județul Baranya, muntele este încărcat de legende locale, numele său însemnând 'Cel care răsună'. Pe vârful muntelui se află ruinele unei cetăți medievale și un turn de observație modern din oțel, construit în 2020, care oferă o panoramă până la munții din Croația. Versanții sunt acoperiți de păduri de fag și gorun, adăpostind specia rară de bujor de munte (Paeonia officinalis banatica), care înflorește în luna mai. Este o destinație iconică pentru drumeții în Transdanubia de Sud.",
       en: ""
     },
     factsAdvanced: {
@@ -239,7 +239,7 @@ export const poiExtraHu2: POI[] = [
         "Er war Schauplatz einer der erfolgreichsten zivilen Umweltprotestbewegungen Ungarns."
       ],
       hu: ["A Zengő 682 méteres magasságával a Mecsek csúcspontja.", "A hegyen található a világ bánáti bazsarózsa-állományának 90%-a.", "Az új, 22 méteres kilátót 2020 júliusában adták át.", "A hegytetőn egy 13. századi vár romjai is felfedezhetők.", "A 'zengői csata' néven ismert civil ellenállás 2004-ben zajlott.", "Húsvéthétfőn rendezik meg a hagyományos Zengő-túrát.", "A hegyet főként tölgy- és bükkerdők borítják a lejtőkön.", "A csúcsról látható a horvátországi Papuk-hegység is tiszta időben."],
-      ro: [],
+      ro: ["Altitudinea maximă este de 682 de metri.", "Aici crește 90% din populația mondială de Paeonia officinalis banatica.", "Noul turn de observație are o înălțime de 22 de metri.", "Ruinele cetății Zengővár datează probabil din secolul al XIII-lea.", "Muntele este compus în principal din calcar jurasic.", "În 2004, localnicii au oprit cu succes construcția unui radar NATO aici."],
       en: []
     }
   },
@@ -264,7 +264,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Tubes ist mit 611 Metern einer der beliebtesten Aussichtspunkte des zentralen Mecsek-Gebirges, direkt über der Stadt Pécs gelegen. Er ist bekannt für seine strategische Lage, die ihn schon früh zu einem wichtigen Punkt für die Überwachung der Region machte. Das Highlight des Berges ist die 2001 errichtete János-Aussichtswarte, die nach dem Naturforscher János Hunyadi benannt wurde. Die Vegetation am Tubes ist geprägt von Flaumeichenwäldern und Karstbüschen, die typisch für das submediterrane Klima der Baranya sind. Der Berg ist durch ein dichtes Netz von Wanderwegen erschlossen und dient den Bewohnern von Pécs als wichtiges Naherholungsgebiet für intensive Naturerlebnisse direkt vor der Haustür.",
       hu: "A Tubes a Mecsek középső részének egyik legnépszerűbb csúcsa, amely 611 méterrel magasodik Pécs városa fölé. Nevét egyes feltételezések szerint a területen egykor élt népcsoportról vagy egy régi földrajzi elnevezésről kapta. A hegytetőn áll a János-kilátó, amelyet 2001-ben építettek újjá, és amelyről körpanoráma nyílik a baranyai dombságra és a Dráva völgyére. A Tubes környéke különleges szubmediterrán mikroklímával rendelkezik, ahol olyan ritka növények élnek, mint a magyar zergevirág. A hegy a pécsiek egyik kedvenc kirándulóhelye, számos turistaút és a híres Misina-tetői tévétoronyhoz vezető ösvény érinti a csúcsot.",
-      ro: "",
+      ro: "Muntele Tubes, cu o înălțime de 611 metri, este al doilea vârf ca mărime din masivul Mecsek, situat deasupra orașului Pécs. Este renumit pentru Turnul de observație János-kilátó, o structură de piatră construită în 2001, care înlocuiește o construcție mai veche. De aici se deschide o priveliște impresionantă asupra orașului Pécs, a bazinului Dráva și, în condiții meteorologice bune, până la muntele Papuk din Slavonia. Flora este caracterizată prin influențe sub-mediteraneene, cu specii de plante termofile care nu se găsesc în alte părți ale Ungariei. Rețeaua densă de trasee turistice face din Tubes un centru vital pentru turismul activ regional.",
       en: ""
     },
     factsAdvanced: {
@@ -279,7 +279,7 @@ export const poiExtraHu2: POI[] = [
         "Historisch gesehen war der Berg Teil der mittelalterlichen Verteidigungslinien rund um Pécs."
       ],
       hu: ["A Tubes magassága 611 méter a tengerszint felett.", "A János-kilátót 2001-ben adták át a kirándulóknak.", "A hegyen 2004-ben környezetvédelmi tiltakozások zajlottak.", "A terület a Kelet-Mecsek Tájvédelmi Körzethez tartozik.", "A Tubesről közvetlen rálátás nyílik a pécsi tévétoronyra.", "A lejtőkön jellemző az illír gyertyános-tölgyes erdőtársulás.", "Itt halad át a Dél-dunántúli Kéktúra útvonala is.", "A hegy kőzetanyaga főként júra kori mészkőből áll."],
-      ro: [],
+      ro: ["Vârful se află la o altitudine de 611 metri.", "Turnul de observație actual a fost inaugurat în septembrie 2001.", "Se află pe traseul turistic european E7.", "Vegetația include specii rare precum Ruscus aculeatus.", "Numele muntelui are rădăcini slave, însemnând probabil 'muntele cu stejari'.", "Este un punct strategic pentru monitorizarea incendiilor forestiere."],
       en: []
     }
   },
@@ -304,7 +304,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Jakab-hegy ist vielleicht der mystischste Ort im Mecsek-Gebirge. Geologisch unterscheidet er sich stark von seiner Umgebung, da er aus rotem Sandstein der Permzeit besteht, was ihm eine charakteristische rötliche Färbung verleiht. Der Berg war bereits in der Eisenzeit besiedelt, wovon die gigantischen Reste einer keltischen Wallburg zeugen, die zu den größten ihrer Art in Mitteleuropa zählt. Im Mittelalter wurde hier das einzige in Ungarn gegründete Mönchsorden, die Pauliner, sesshaft; ihre Klosterruinen sind heute ein beeindruckendes Ziel für Wanderer. Besondere Naturdenkmäler wie die 'Steineren Babas' (Zsongorkő), skurrile Felsformationen am Rande des Plateaus, bieten spektakuläre Ausblicke über das Dráva-Becken.",
       hu: "A Jakab-hegy a Mecsek nyugati vonulatának legmagasabb tömbje, amely 602 méteres magasságával és vörös homokkő szikláival emelkedik ki környezetéből. A hegy platóján található Magyarország egyik legnagyobb vaskori földvára, amelynek hatalmas sáncai ma is jól kivehetőek. A Jakab-hegy spirituális és történelmi jelentőségét a 13. században alapított pálos kolostor romjai is emelik, amely az egyetlen magyar alapítású szerzetesrend központja volt. A hegy déli oldalán található látványos sziklaalakzatok, mint a Zsongorkő vagy a Babás-szerkövek, a helyi legendák szerint elátkozott násznépek kővé vált alakjai. Geológiailag a hegy a perm időszaki vörös homokkőről nevezetes, amely egyedülálló a régióban.",
-      ro: "",
+      ro: "Dealul Jakab-hegy (Muntele lui Iacob) este o formațiune geografică distinctivă în partea de vest a munților Mecsek, atingând 602 metri. Este celebru pentru formațiunile sale geologice spectaculoase din gresie roșie, cum ar fi 'Babás-szerkövek' (Pietrele Păpușilor) și 'Zsongorkő' (Piatra lui Zsongor). Pe platoul său se află ruinele unei mănăstiri pauline fondate în 1225 și rămășițele unei cetăți imense din epoca fierului, atribuită culturii Hallstatt. Pădurile de castan comestibil și flora specifică solului acid conferă zonei un caracter aparte. Jakab-hegy combină în mod armonios valorile geologice, istorice și peisagistice ale regiunii Baranya.",
       en: ""
     },
     factsAdvanced: {
@@ -319,7 +319,7 @@ export const poiExtraHu2: POI[] = [
         "Das Plateau des Berges ist ein beliebtes Ziel für Orientierungsläufer."
       ],
       hu: ["A Jakab-hegy 602 méter magas, anyaga vörös homokkő.", "A vaskori sáncok kerülete meghaladja az 5 kilométert.", "A pálos kolostort 1225-ben alapította Bertalan pécsi püspök.", "A Zsongorkő kilátópontról a Dráva-síkra nyílik rálátás.", "A Babás-szerkövek különleges, erózió koptatta sziklaformák.", "A hegy gyomrában található a Mecsek egyetlen homokkőbarlangja.", "A terület 1978 óta tájvédelmi körzet részeként védett.", "A Jakab-hegyen vezet keresztül a Rockenbauer Pál Dél-dunántúli Kéktúra."],
-      ro: [],
+      ro: ["Altitudinea maximă este de 602 metri.", "Cetatea din epoca fierului avea ziduri cu o lungime de peste 3 km.", "Mănăstirea Paulină a fost prima de acest fel din Ungaria.", "Gresia roșie de aici datează din perioada Permiană.", "Formațiunile 'Babás-szerkövek' au fost create prin eroziune eoliană.", "Zona este protejată în cadrul Rezervației Naturale Mecsek de Vest."],
       en: []
     }
   },
@@ -344,7 +344,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Fekete-víz (Schwarzbach) ist ein charakteristischer Wasserlauf der Baranya-Ebene im Süden Ungarns. Sie sammelt das Wasser aus den südlichen Ausläufern des Mecsek und der Villány-Berge und führt es der Drau zu. Historisch war dieser Fluss entscheidend für die Entstehung der Ormánság-Landschaft, einer Region, die über Jahrhunderte durch ihre Sumpf- und Auenlandschaft isoliert war und dadurch eine einzigartige bäuerliche Architektur und Volkskunst bewahrte. Durch großflächige Regulierungen im 19. und 20. Jahrhundert verlor die Fekete-víz zwar einen Teil ihres wilden Charakters, blieb aber als ökologischer Korridor und Entwässerungssystem für die Landwirtschaft von vitaler Bedeutung.",
       hu: "A Fekete-víz a Baranyai-síkság legfontosabb vízfolyása, amely a Mecsek déli lábánál ered és mintegy 45 kilométer után ömlik a Drávába. Neve a víz sötét színére utal, amelyet a mocsaras, tőzeges területekről kimosott huminsavak okoznak. A folyó határozta meg évszázadokon át az Ormánság arculatát; a szabályozások előtt hatalmas áradásokkal tartotta fenn a környék mocsárvilágát. Ez az elszigeteltség segített megőrizni a régió egyedülálló népi építészetét, a talpasházakat és a festett kazettás templomokat. Ma a Fekete-víz fontos ökológiai folyosó, amely a szárazabb mezőgazdasági területek között biztosít életteret a vízi élővilág számára.",
-      ro: "",
+      ro: "Râul Fekete-víz (Apa Neagră) este un curs de apă important din sudul Transdanubiei, traversând regiunea istorică Ormánság din județul Baranya. Acesta colectează apele din versanții sudici ai munților Mecsek și se varsă în fluviul Dráva. Numele său provine de la culoarea închisă a apei, cauzată de sedimentele organice din zonele mlăștinoase pe care le străbate. Istoric, râul a jucat un rol vital în viața comunităților locale, furnizând pește și apă pentru agricultură. Astăzi, cursul său este în mare parte regularizat, dar păstrează încă porțiuni naturale cu o bogată floră și faună acvatică, fiind monitorizat pentru protecția ecosistemelor de luncă.",
       en: ""
     },
     factsAdvanced: {
@@ -359,7 +359,7 @@ export const poiExtraHu2: POI[] = [
         "Für Angler ist der Fluss aufgrund seiner Bestände an Barben und Döbeln interessant."
       ],
       hu: ["A folyó teljes hossza megközelítőleg 45 kilométer.", "A Fekete-víz a Dráva folyó bal oldali mellékfolyója.", "Sötét színét a tőzeges talajból származó szerves anyagok adják.", "A szabályozás előtt az Ormánság mocsárvilágának éltetője volt.", "A folyó mentén található a vízi növényekben gazdag tőzegláp.", "Fontos szerepet játszik a Baranyai-síkság vízelvezetésében.", "A part menti füzesekben fészkel a védett szürke gém.", "A folyó neve már 13. századi oklevelekben is szerepelt."],
-      ro: [],
+      ro: ["Râul are o lungime de aproximativ 85 de kilometri.", "Se varsă în Dráva în apropierea localității Drávaszabolcs.", "Traversează regiunea culturală unică Ormánság.", "Bazinul său hidrografic acoperă peste 1.300 km².", "În trecut, zona era renumită pentru sistemele complexe de mori de apă.", "Este un habitat important pentru vidra europeană (Lutra lutra)."],
       en: []
     }
   },
@@ -384,7 +384,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Das Seensystem von Orfű ist ein beeindruckendes Beispiel für gelungene Landschaftsgestaltung und touristische Erschließung im Mecsek-Gebirge. Ursprünglich in den 1960er Jahren durch die Aufstauung von Karstquellen geschaffen, besteht das System heute aus vier funktional getrennten Seen: dem Orfűi-tó, dem Pécsi-tó, dem Herman Ottó-tó und dem Kovácsszénájai-tó. Die idyllische Lage in einem Tal, umgeben von bewaldeten Hügeln, macht Orfű zu einem beliebten Erholungsort. Über die reine Erholung hinaus hat sich der Ort zu einem kulturellen Hotspot entwickelt, vor allem durch das jährlich stattfindende 'Fishing on Orfű'-Festival, das Musikliebhaber aus dem ganzen Land anzieht.",
       hu: "Az orfűi tórendszer a Mecsek északi lábánál fekvő mesterséges víztározók láncolata, amely az 1960-as években jött létre. A négy tóból (Orfűi-tó, Pécsi-tó, Herman Ottó-tó, Kovácsszénájai-tó) álló rendszer minden eleme más funkciót tölt be: a fürdőzéstől és vízisportoktól kezdve a horgászaton át a szigorú természetvédelemig. A központi Pécsi-tó 72 hektáros vízfelületével a régió legnagyobb strandolóhelye. Orfű mára nemcsak turisztikai központ, hanem kulturális helyszín is, itt rendezik meg minden évben a népszerű 'Fishing on Orfű' zenei fesztivált. A tavakat tápláló karsztforrások vize kiváló minőségű, a környék pedig hegyvidéki bájával vonzza a kikapcsolódni vágyókat.",
-      ro: "",
+      ro: "Sistemul de lacuri de la Orfű, situat în inima munților Mecsek la nord de Pécs, este una dintre cele mai populare zone de agrement din sudul Ungariei. Acesta cuprinde patru lacuri artificiale: Orfűi-tó, Pécsi-tó, Hermann Ottó-tó și Kovácsszénájai-tó, create în anii 1960 prin bararea pârâului Vízfő. Cel mai mare și mai cunoscut este Lacul Pécsi, centrul sporturilor nautice, al navigației și al festivalurilor de vară. Lacul Orfűi este destinat în principal scăldatului, având o plajă amenajată, în timp ce celelalte două lacuri sunt rezervații pentru pescuit și protecția naturii. Zona este înconjurată de dealuri împădurite, oferind un microclimat plăcut și numeroase facilități turistice.",
       en: ""
     },
     factsAdvanced: {
@@ -399,7 +399,7 @@ export const poiExtraHu2: POI[] = [
         "Die Wasserläufe sind mit dem berühmten Höhlensystem von Abaliget verbunden."
       ],
       hu: ["A tórendszer négy különböző célú tóból épül fel.", "A legnagyobb a Pécsi-tó, amely 72 hektár kiterjedésű.", "A Herman Ottó-tó szigorúan védett madárrezervátum.", "A tavak kialakítása 1962-ben kezdődött a völgy elárasztásával.", "Itt található az ország egyetlen működő hajómalom-múzeuma.", "A 'Fishing on Orfű' fesztivált 2008 óta rendezik meg itt.", "Az Orfűi-tó vizét a Vízfő-karsztforrás táplálja folyamatosan.", "A tavak mentén 5 kilométer hosszú kerékpárút épült ki."],
-      ro: [],
+      ro: ["Lacul Pécsi are o suprafață de aproximativ 72 de hectare.", "Sistemul de lacuri a fost proiectat între anii 1962 și 1970.", "Aici se organizează anual celebrul festival de muzică 'Fishing on Orfű'.", "Moara de apă din Orfű găzduiește singurul muzeu al morăritului din regiune.", "Adâncimea maximă a lacului Pécsi ajunge la 10-12 metri.", "Sursa principală de apă este izvorul carstic Vízfő."],
       en: []
     }
   },
@@ -425,7 +425,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Kunfehértói-tó ist eine Oase in der sandigen Tiefebene des Komitats Bács-Kiskun. Bekannt für sein charakteristisches, leicht salzhaltiges und alkalisches Wasser, wird dem See seit Generationen eine heilende Wirkung bei Hautbeschwerden und rheumatischen Leiden zugeschrieben. Was diesen See besonders macht, ist sein dichter Waldstrand – riesige alte Eichen und Kiefern bieten natürlichen Schatten bis direkt ans Ufer, was in der oft heißen Puszta-Region eine Seltenheit ist. Die Umgebung hat sich ihren ursprünglichen Charme bewahrt, während moderne Freizeiteinrichtungen den See zu einem idealen Ort für Sommerurlauber machen. Ökologisch ist das Gebiet zudem als Teil des Natura 2000-Netzwerks geschützt.",
       hu: "A Kunfehértói-tó Bács-Kiskun vármegye egyik legkedveltebb természetes fürdőhelye, amely a Kiskunsági-homokhátság mélyedésében alakult ki. A tó vize enyhén sós és alkáli-karbonátos, amelynek gyógyhatást tulajdonítanak, különösen bőrbántalmak és reumatikus panaszok esetén. Különlegessége az úgynevezett 'erdős strand', ahol hatalmas, évszázados kocsányos tölgyek és fenyők nyújtanak természetes árnyékot közvetlenül a vízparton. A tó környezete Natura 2000-es védettség alatt áll, megőrizve a homokpusztai élővilág ritkaságait. A nyári szezonban a tópart fesztiválok és táborok helyszíne, miközben a környékbeli erdők kiváló túrázási lehetőséget biztosítanak.",
-      ro: "",
+      ro: "Lacul Kunfehér-tó este o bijuterie naturală situată în județul Bács-Kiskun, în apropierea localității Kunfehértó. Acest lac salin de origine naturală este renumit pentru calitățile sale terapeutice și pentru apa sa limpede, fiind înconjurat de o pădure de pini și stejari care creează un cadru pitoresc. Zona este o destinație tradițională de vacanță, oferind plaje cu nisip, terenuri de sport și locuri de campare. Pe lângă valoarea recreativă, lacul și împrejurimile sale sunt importante din punct de vedere ecologic, adăpostind specii de plante adaptate solului nisipos și sărat. Este un exemplu perfect de oază de relaxare în marea câmpie a Ungariei (Alföld).",
       en: ""
     },
     factsAdvanced: {
@@ -440,7 +440,7 @@ export const poiExtraHu2: POI[] = [
         "Der Name erinnert an weiße Sandstrände und die historische Ansiedlung der Kumanen."
       ],
       hu: ["A tó vize nátrium-hidrogénkarbonátban gazdag, enyhén sós.", "A strandot egy 120 hektáros kocsányos tölgyerdő övezi.", "A Kunfehértói-tó átlagos mélysége mindössze 1,5-2 méter.", "A terület a Kiskunsági Nemzeti Park hatókörébe tartozik.", "A tómeder természetes szélvájta mélyedésben jött létre.", "Évente megrendezik itt a Kunfehértói Nyár kulturális programsorozatot.", "A part menti homokdűnéken ritka homoki árvalányhaj díszlik.", "A tó közelében modern ifjúsági tábor és kemping üzemel."],
-      ro: [],
+      ro: ["Suprafața lacului este de aproximativ 4 hectare.", "Pădurea din jurul lacului este o rezervație naturală protejată.", "Aici crește specia rară de brândușă Colchicum arenarium.", "Lacul este alimentat în principal de apele subterane și precipitații.", "Nivelul de salinitate al apei variază în funcție de anotimp.", "Este un loc popular pentru observarea păsărilor de stepă."],
       en: []
     }
   },
@@ -465,7 +465,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Szelidi-tó bei Dunapataj ist eines der faszinierendsten Gewässer der ungarischen Tiefebene. Als ein vor Jahrtausenden entstandener Altarm der Donau erstreckt er sich heute über eine Länge von fünf Kilometern in einer charakteristischen Bogenform. Der See ist berühmt für sein spezielles Natronwasser, das nicht nur eine seidige Textur hat, sondern auch heilende Eigenschaften bei Nervenleiden und rheumatischen Erkrankungen besitzt. Da der See im Vergleich zu anderen ungarischen Seen relativ tief ist, bietet er auch in heißen Sommern eine angenehme Abkühlung. Das Ufer ist gesäumt von Ferienhäusern und Campingplätzen, die den See zu einem lebendigen Zentrum des Sommertourismus machen.",
       hu: "A Szelidi-tó Dunapataj közelében található, és Magyarország ötödik legnagyobb természetes tava. Ez a 5 kilométer hosszú, kanyargós állóvíz a Duna egy elhagyott medréből alakult ki évezredekkel ezelőtt. A tó vize különleges: magas nátrium-magnézium-karbonát tartalma miatt szikes jellegű, de nem sós, és selymes tapintású. Gyógyhatása miatt régóta kedvelt üdülőhely, különösen az idegrendszeri és ízületi bántalmak enyhítésére ajánlják. A déli parton kiépített strand, vendéglátóhelyek és kempingek várják a nyaralókat, míg az északi rész érintetlenebb természetvédelmi terület. A tó medre helyenként a 4 méteres mélységet is eléri, ami a magyarországi tavak között jelentősnek számít.",
-      ro: "",
+      ro: "Lacul Szelidi este al cincilea lac ca mărime din Ungaria și cel mai mare lac de tip 'meandru părăsit' din bazinul Dunării. Situat în județul Bács-Kiskun, lângă Dunapataj, lacul are o formă alungită, cu o lungime de 4 kilometri, și s-a format dintr-un vechi braț al fluviului. Este renumit pentru conținutul ridicat de magneziu și carbonat de sodiu al apei, care îi conferă proprietăți curative pentru afecțiunile reumatice și dermatologice. Fundul lacului este acoperit cu nisip fin, ceea ce îl face ideal pentru scăldat. Zona este protejată ca rezervație naturală, conservând flora și fauna specifică zonelor umede de câmpie.",
       en: ""
     },
     factsAdvanced: {
@@ -480,7 +480,7 @@ export const poiExtraHu2: POI[] = [
         "In der Nähe befindet sich ein archäologisches Grabungsfeld aus der Awarenzeit."
       ],
       hu: ["A tó hossza 5 kilométer, átlagos szélessége 150-200 méter.", "A vízfelület nagysága megközelítőleg 80 hektár.", "Maximális mélysége elérheti a 4 métert egyes pontokon.", "A víz nátrium-karbonát tartalma miatt 'szappanos' tapintású.", "A tó partján 2,4 kilométer hosszú tanösvény mutatja be a faunát.", "A Duna egyik holtágaként keletkezett a folyószabályozás előtt.", "A nyári vízhőmérséklet gyakran eléri a 26-28 Celsius-fokot.", "A Szelidi-tó környéke 1976 óta országos védettségű terület."],
-      ro: [],
+      ro: ["Lungimea totală a lacului este de 4 kilometri.", "Lățimea medie este de 150-200 de metri.", "Adâncimea maximă ajunge la aproximativ 3 metri.", "Conținutul de sare este de circa 1,5 grame pe litru.", "Apa se încălzește rapid vara, ajungând la 26-28 de grade Celsius.", "Traseul educațional 'Castelul Albastru' prezintă flora locală."],
       en: []
     }
   },
@@ -505,7 +505,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Kolon-tó bei Izsák ist eines der wertvollsten Feuchtgebiete Mitteleuropas und ein Juwel des Kiskunság-Nationalparks. Obwohl er als See bezeichnet wird, handelt es sich heute primär um ein ausgedehntes Sumpf- und Schilfgebiet, das durch Verlandungsprozesse entstanden ist. Diese Transformation hat ein einzigartiges Habitat geschaffen, das als UNESCO-Biosphärenreservat streng geschützt ist. Es ist ein Paradies für Ornithologen, da hier seltene Vögel wie die Rohrdommel und verschiedene Reiherarten brüten. Für Besucher wurden Lehrpfade und Aussichtstürme errichtet, die einen tiefen Einblick in das Leben dieser geheimnisvollen Sumpflandschaft ermöglichen, ohne das ökologische Gleichgewicht zu stören.",
       hu: "Az Izsák mellett fekvő Kolon-tó a Kiskunsági Nemzeti Park egyik legértékesebb vizes élőhelye és UNESCO bioszféra-rezervátum. Bár tónak nevezik, ma már inkább egy hatalmas, összefüggő nádas-mocsaras terület, amely a Duna egykori medrében, a homokbuckák között alakult ki. Európai jelentőségű madárrezervátum, ahol olyan ritka fajok költenek, mint a nagy kócsag, a kanalasgém és a cigányréce. A területen található Magyarország legnagyobb orchidea-állománya is, köztük a mocsári nőszőfűvel. A látogatók számára madármegfigyelő tornyok és a Bikatorok tanösvény biztosít betekintést ebbe a rejtett vízi világba anélkül, hogy zavarnák a kényes ökológiai egyensúlyt.",
-      ro: "",
+      ro: "Lacul Kolon, situat lângă localitatea Izsák, este cea mai mare mlaștină cu apă dulce din Europa Centrală și face parte din Parcul Național Kiskunság. Deși este numit 'lac', acesta este în mare parte acoperit de stufărișuri întinse și zone de mlaștină, fiind un paradis pentru ornitologi. Zona este un sit de importanță internațională pentru cuibărirea păsărilor de apă și un punct cheie pe rutele de migrație. Rezervația adăposteste specii rare de orhidee și pești endemici. Vizitatorii pot explora zona prin trasee educaționale și turnuri de observație, care oferă o privire de ansamblu asupra acestui peisaj sălbatic și nealterat, reprezentativ pentru vechea câmpie maghiară.",
       en: ""
     },
     factsAdvanced: {
@@ -520,7 +520,7 @@ export const poiExtraHu2: POI[] = [
         "Der Kolon-tó steht auf der Liste der international bedeutenden Ramsar-Gebiete."
       ],
       hu: ["A Kolon-tó kiterjedése körülbelül 3000 hektár területű.", "A terület 1975 óta a Kiskunsági Nemzeti Park része.", "Itt található az ország legnagyobb mocsári orchidea-mezője.", "A tó és környéke a Ramsari Egyezmény védelme alá tartozik.", "Évente több ezer daru pihen meg itt a őszi vonulás során.", "A mocsárban több mint 200 madárfajt jegyeztek fel a kutatók.", "A Bikatorok-kilátóból látható a teljes nádas-mocsári táj.", "A területen ritka égerláperdők és fűzlápok is találhatók."],
-      ro: [],
+      ro: ["Zona protejată acoperă peste 3.000 de hectare.", "Aici cuibăresc peste 100 de specii de păsări.", "Lacul a fost declarat sit Ramsar în anul 1997.", "Este habitatul principal pentru țiparul de noroi (Misgurnus fossilis).", "Aici se găsește cea mai mare populație de orhidee din specia Orchis palustris.", "Nivelul apei este menținut prin sisteme complexe de management."],
       en: []
     }
   },
@@ -545,7 +545,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Bugac-Puszta ist Inbegriff der ungarischen Steppenlandschaft und ein lebendiges Denkmal der pannonischen Geschichte. Als bedeutendster Teil des Kiskunság-Nationalparks bewahrt dieses Gebiet die jahrhundertealte Tradition der extensiven Tierhaltung und die Kultur der Csikós (Pferdehirten). Die weite Ebene ist geprägt von Sanddünen, alkalischen Böden und riesigen Weiden, auf denen ungarische Graurinder und Racka-Schafe grasen. Besucher können hier atemberaubende Reitvorführungen erleben, die die tiefe Verbindung zwischen Mensch und Pferd demonstrieren. Zudem findet hier regelmäßig der Kurultáj statt – ein großes Treffen der Völker mit nomadischen Wurzeln.",
       hu: "A Bugaci puszta a Kiskunsági Nemzeti Park leglátogatottabb területe, ahol a magyar alföldi pásztorhagyományok a mai napig elevenen élnek. A hatalmas legelőkön magyar szürkemarha-gulyák, rackanyájak és ménesek legelnek, őrizve a puszta archaikus arculatát. Bugac nemzetközi hírnevét látványos lovasbemutatóinak és a kétévente megrendezett Kurultájnak, a hun és türk tudatú népek legnagyobb törzsi gyűlésének köszönheti. A terület ökológiailag is sokszínű: az ősborókás homokbuckák és a szikes laposok egyedülálló élővilágnak adnak otthont. A Pásztormúzeum egy kör alakú épületben mutatja be a kiskunsági csikósok és gulyások életmódját, használati tárgyait.",
-      ro: "",
+      ro: "Bugac este una dintre cele mai cunoscute și extinse regiuni ale Parcului Național Kiskunság, reprezentând simbolul vieții tradiționale de păstor din Ungaria. Peisajul este un amestec fascinant de dune de nisip mișcătoare, pajiști întinse și păduri de ienupăr. Aici se află Muzeul Păstorilor (Pásztormúzeum), găzduit într-o clădire cu arhitectură organică, unde sunt prezentate uneltele și modul de viață al nomazilor din secolele trecute. Vizitatorii pot asista la spectacole ecvestre impresionante cu cai Lipițani și pot vedea animale autohtone precum vitele Sure maghiare și oile Racka. Bugac este, de asemenea, locul de desfășurare a Kurultáj-ului, cea mai mare adunare a popoarelor turcice din Europa.",
       en: ""
     },
     factsAdvanced: {
@@ -560,7 +560,7 @@ export const poiExtraHu2: POI[] = [
         "Der Kurultáj gilt als das größte traditionelle Reiternomaden-Festival in Europa."
       ],
       hu: ["A Bugaci puszta kiterjedése meghaladja a 11 000 hektárt.", "A terület 1975 óta a nemzeti park fokozottan védett része.", "Itt rendezik meg a Kurultáj törzsi gyűlést 2008 óta.", "Az ősborókás a puszta egyik legritkább növénytársulása.", "A Bugaci Pásztormúzeum 1933-ban épült fel a puszta szívében.", "A ménesben a híres 'magyar posta' lovasmutatvány is látható.", "A terület az UNESCO Bioszféra-rezervátum hálózatának tagja.", "A homokdűnék között több mint 10 kilométernyi tanösvény kanyarog."],
-      ro: [],
+      ro: ["Zona protejată de la Bugac depășește 11.000 de hectare.", "Muzeul Păstorilor a fost construit în anul 1975.", "Pădurea de ienupăr de la Bugac este unică în Europa Centrală.", "Aici se cresc cai din rasa Kisbéri și Nonius.", "Cea mai înaltă dună de nisip atinge 130 de metri altitudine.", "Kurultáj atrage peste 200.000 de vizitatori bienal."],
       en: []
     }
   },
@@ -585,7 +585,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Donau-Theiß-Kanal ist ein Zeugnis ehrgeiziger wasserbaulicher Träume, die über Jahrhunderte die ungarische Politik bewegten. Ursprünglich geplant, um die beiden Hauptströme Ungarns schiffbar zu verbinden und die Wasserknappheit zu lindern, blieb das Mammutprojekt unvollendet. Heute präsentiert sich der Kanal als System von Wasserläufen, das eine lebensnotwendige Rolle in der regionalen Wasserwirtschaft spielt. Er dient der Bewässerung der oft trockenen Sandböden und reguliert den Wasserhaushalt der Tiefebene. Für die Natur ist der Kanal ein wertvoller Rückzugsort; seine bewachsenen Ufer sind ein Paradies für Fische, Vögel und Erholungsuchende.",
       hu: "A Duna–Tisza-csatorna egy grandiózus, de befejezetlen vízépítési projekt, amelynek célja a két legnagyobb magyar folyó hajózható összekötése volt. A csatorna gondolata már a 18. században felmerült, de a munkálatok csak a 20. században kezdődtek el, majd több alkalommal félbeszakadtak. Jelenleg a csatorna kiépített szakaszai fontos szerepet játszanak a Kiskunság vízpótlásában, az öntözésben és a belvízvédelemben. A csatorna mentén sűrű nádasok és fűzfák alakultak ki, amelyek gazdag halállománynak (ponty, csuka, keszeg) és madárvilágnak adnak otthont. A lassan mozgó víz és a csendes partvidék népszerű a horgászok és a természetjárók körében, akik az Alföld nyugodt arcát keresik.",
-      ro: "",
+      ro: "Canalul Dunăre-Tisa este o lucrare hidrotehnică majoră din centrul Ungariei, concepută inițial pentru a asigura o cale navigabilă între cele două mari fluvii ale țării. Deși proiectul de navigație nu a fost niciodată finalizat complet, canalul joacă astăzi un rol esențial în irigarea regiunii Kiskunság și în managementul resurselor de apă. Acesta traversează peisaje variate, de la terenuri agricole fertile până la zone cu soluri nisipoase, contribuind la menținerea echilibrului ecologic în zonele umede adiacente. Malurile sale sunt locuri preferate de pescari, oferind un habitat liniștit pentru diverse specii de pești de apă dulce. Este un simbol al eforturilor umane de a controla și distribui apa în regiunile aride ale câmpiei.",
       en: ""
     },
     factsAdvanced: {
@@ -600,7 +600,7 @@ export const poiExtraHu2: POI[] = [
         "Der Kanal ist Teil moderner Klimaanpassungsstrategien für die Tiefebene."
       ],
       hu: ["A csatorna tervét már Mária Terézia idején is vitatták.", "A Dunaharaszti és Dabas közötti szakasz a leginkább kiépített.", "A csatorna medre 25-30 méter széles a főbb szakaszokon.", "Fontos szerepe van a kiskunsági homokhátság vízpótlásában.", "A vízmélység átlagosan 1,5 és 2,5 méter között mozog.", "A part menti nádasokban fészkel a védett bölömbika.", "A csatorna mentén több zsiliprendszer szabályozza a vízszintet.", "Népszerű horgászvíz, különösen az amur és a ponty horgászatára."],
-      ro: [],
+      ro: ["Planurile pentru canal datează încă din secolul al XVIII-lea.", "Secțiunea principală are o lungime de aproximativ 85 de kilometri.", "Diferența de nivel între Dunăre și Tisa necesită ecluze complexe.", "Capacitatea sa de transport a apei este crucială în perioadele de secetă.", "Canalul este utilizat pentru transferul de apă către pârâul Szúnyog.", "Malurile sale găzduiesc specii de plante hidrofile protejate."],
       en: []
     }
   },
@@ -626,7 +626,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Hármas-Körös (Drei-Kreisch) ist einer der malerischsten und ökologisch wertvollsten Flüsse in der südöstlichen Tiefebene Ungarns. Er entsteht durch den Zusammenfluss der Kettős-Körös und der Sebes-Körös bei Gyomaendrőd und mäandert auf einer Länge von etwa 91 Kilometern bis zur Mündung in die Theiß bei Csongrád. Der Fluss ist bekannt für seine zahlreichen Altarmarme, die nach den großflächigen Regulierungen im 19. Jahrhundert entstanden sind und heute ein Paradies für Angler, Wassersportler und Naturschützer bilden. Die Ufer sind von dichten Galeriewäldern gesäumt, die einen wichtigen Lebensraum für seltene Vogelarten und Fischbestände bieten. Für die Region ist der Hármas-Körös nicht nur eine wichtige Wasserstraße, sondern auch ein Symbol für die unberührte Natur des ungarischen Alföld.",
       hu: "A Hármas-Körös Délkelet-Magyarország egyik legszebb és legtermészetesebb folyója, amely Gyomaendrőd közelében jön létre a Kettős- és a Sebes-Körös egyesüléséből. A folyó 91 kilométeren keresztül kanyarog, amíg Csongrádnál a Tiszába ömlik. Különlegessége a rendkívül gazdag holtágrendszer, amely a 19. századi folyószabályozások során jött létre, és mára horgászparadicsommá vált. A Hármas-Körös mentén található hullámtéri erdők az Alföld egyik utolsó érintetlen erdőfoltjai, ahol fekete nyárak és füzek dominálnak. A folyó kiválóan alkalmas vízitúrázásra, mivel lassú folyása és tiszta vize biztonságos és látványos evezést tesz lehetővé a természetbarátok számára.",
-      ro: "",
+      ro: "Râul Hármas-Körös (Crișul Triplu) se formează prin confluența Crișului Dublu și a Crișului Repede în apropiere de Gyomaendrőd. Acesta este cursul inferior al sistemului hidrografic al Crișurilor, șerpuind prin județele Békés și Jász-Nagykun-Szolnok până la vărsarea în Tisa la Csongrád. Râul este celebru pentru numeroasele sale meandre și brațe moarte, care alcătuiesc un peisaj natural sălbatic și spectaculos. Zona este protejată în cadrul Parcului Național Criș-Tisa, fiind un refugiu pentru nenumărate specii de păsări și pești. Datorită curentului liniștit, este o destinație ideală pentru turismul cu barca, oferind liniște și o conexiune profundă cu natura neatinsă.",
       en: ""
     },
     factsAdvanced: {
@@ -641,7 +641,7 @@ export const poiExtraHu2: POI[] = [
         "Die Wasserqualität gilt aufgrund geringer industrieller Belastung als sehr gut."
       ],
       hu: ["A folyó teljes hossza 91 kilométer az egyesüléstől a torkolatig.", "A Hármas-Körös a Tisza bal oldali mellékfolyója Csongrádnál.", "A folyó mentén található holtágak száma meghaladja a 20-at.", "A hullámtér a Körös-Maros Nemzeti Park védelme alatt áll.", "Gyakori halfajai a harcsa, a süllő és a paduc.", "A folyó partján fekszik a híres szarvasi Arborétum.", "A vízszintet a békésszentandrási duzzasztómű szabályozza.", "Itt található Magyarország egyik leghosszabb gátrendszere."],
-      ro: [],
+      ro: ["Lungimea cursului este de 91,3 kilometri.", "Se varsă în râul Tisa în dreptul orașului Csongrád.", "Formează peste 30 de brațe moarte de-a lungul cursului său.", "Bazinul hidrografic este extrem de bogat în biodiversitate.", "Digurile de protecție au fost construite la sfârșitul secolului al XIX-lea.", "Este o rută populară pentru competițiile internaționale de canotaj."],
       en: []
     }
   },
@@ -666,7 +666,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Sebes-Körös (Schnelle Kreisch) macht ihrem Namen alle Ehre, da sie im Vergleich zu anderen Flüssen der Tiefebene eine deutlich höhere Fließgeschwindigkeit aufweist. Sie entspringt in den Bergen Siebenbürgens (Rumänien) und bringt kühles, sauerstoffreiches Wasser in die ungarische Ebene. Diese Eigenschaft macht sie zu einem einzigartigen Ökosystem, in dem Fischarten gedeihen, die sonst eher in Gebirgsbächen zu finden sind. Der Flussabschnitt im Komitat Békés ist geprägt von Kiesbänken und klarem Wasser, was ihn bei Badegästen und Kanufahrern gleichermaßen beliebt macht. Die Sebes-Körös spielt zudem eine zentrale Rolle in der regionalen Wasserwirtschaft und speist mehrere wichtige Kanäle der Umgebung.",
       hu: "A Sebes-Körös neve hűen tükrözi a folyó karakterét: a többi alföldi vízfolyáshoz képest jelentősen gyorsabb sodrású és tisztább vizű. Erdélyből, a Király-hágó mellől érkezik, és jelentős mennyiségű hordalékot, kavicsot szállít a síkságra. Magyarországi szakasza Gyomaendrőd környékén ér véget, ahol a Kettős-Körössel egyesülve alkotják a Hármas-Köröst. A folyó oxigéndús vize olyan halfajoknak is életteret biztosít, amelyek ritkák a lassabb alföldi vizekben, mint például a sebes pisztráng a felsőbb szakaszokon vagy a domolykó. A partmenti löszfalakban fészkelnek a színpompás gyurgyalagok és a jégmadarak, a kavicsos zátonyok pedig népszerű fürdőhelyek a nyári melegben.",
-      ro: "",
+      ro: "Râul Sebes-Körös (Crișul Repede) este unul dintre cele mai importante cursuri de apă din estul Ungariei, originar din Munții Apuseni din România. După ce intră pe teritoriul maghiar la Körösszakál, râul traversează județele Hajdú-Bihar și Békés. Spre deosebire de celelalte brațe ale Crișurilor, acesta are o viteză de curgere mai mare în porțiunea superioară, de unde și numele său. Râul joacă un rol vital în ecosistemul regional, alimentând numeroase canale de irigații și bălți de pește. Malurile sale sunt adesea acoperite de păduri de luncă, fiind zone ideale pentru pescuit, observarea păsărilor și recreere activă în natură.",
       en: ""
     },
     factsAdvanced: {
@@ -681,7 +681,7 @@ export const poiExtraHu2: POI[] = [
         "Historisch trieb die Strömung des Flusses zahlreiche Wassermühlen in der Region an."
       ],
       hu: ["A folyó teljes hossza 209 km, ebből 59 km van Magyarországon.", "Nevét a gyors folyásáról és kavicsos medréről kapta.", "A Sebes-Körös vize az egyik legtisztább folyóvíz az Alföldön.", "Gyomaendrődnél egyesül a Kettős-Körössel a Hármas-Köröshöz.", "A part menti löszfalakban fészkel a védett gyurgyalag.", "Vízitúrázók körében kedvelt a tiszta vize és kavicsos zátonyai miatt.", "A folyó medre mentén ritka tegzesfajok is megfigyelhetők.", "Szakaszonként határfolyóként is funkcionál Románia és Magyarország között."],
-      ro: [],
+      ro: ["Lungimea totală a râului este de 209 kilometri.", "Secțiunea maghiară are o lungime de 58,6 kilometri.", "Traversează orașul Oradea înainte de a ajunge în Ungaria.", "Este singurul braț al Crișurilor care nu este în mare parte regularizat.", "Flora luncii include specii rare de iris de baltă.", "Este considerat unul dintre cele mai curate râuri din estul țării."],
       en: []
     }
   },
@@ -706,7 +706,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Biharugraer Teiche stellen das zweitgrößte künstliche Fischteichsystem Ungarns dar und sind ein Ort von internationaler ornithologischer Bedeutung. Gelegen im östlichsten Zipfel des Komitats Békés, direkt an der rumänischen Grenze, erstreckt sich diese Wasserlandschaft über Tausende von Hektar. Ursprünglich zur Fischzucht angelegt, haben sich die Teiche zu einem der wichtigsten Rastplätze für Zugvögel auf der europäischen Route entwickelt. Während der Migrationsperioden können hier Zehntausende von Wildgänsen und Kranichen beobachtet werden. Das Gebiet ist Teil des Körös-Maros-Nationalparks und bietet durch Aussichtstürme und Lehrpfade exzellente Möglichkeiten zur Naturbeobachtung, wobei der Schutz der sensiblen Brutgebiete stets im Vordergrund steht.",
       hu: "A Biharugrai-tavak Magyarország második legnagyobb mesterséges halastórendszere, amely Békés vármegye keleti szélén, a román határ mentén terül el. Az egykori hatalmas mocsárvilág, a Sárrét maradványaként kialakított tavak mára nemzetközi jelentőségű madárrezervátummá váltak. A több mint 1900 hektárnyi vízfelület a vonuló madarak, különösen a vadludak, darvak és kanalasgémek egyik legfontosabb európai állomása. A Körös-Maros Nemzeti Park részeként a területen madármegfigyelő tornyok és tanösvények várják az érdeklődőket. A tórendszer gazdaságilag is jelentős a haltermelés szempontjából, ahol hagyományos és ökológiai módszerekkel tenyésztenek pontyot és más őshonos halfajokat.",
-      ro: "",
+      ro: "Sistemul de lacuri de la Biharugra reprezintă a doua cea mai mare zonă de iazuri piscicole din Ungaria, situată în județul Békés, lângă granița cu România. Create la începutul secolului al XX-lea prin transformarea unor mlaștini, aceste lacuri au devenit acum o rezervație ornitologică de importanță mondială, protejată prin Convenția de la Ramsar. Mii de păsări migratoare, inclusiv gâște sălbatice și egrete, folosesc zona ca punct de oprire și hrănire. Vizitatorii pot folosi platformele de observație pentru a urmări viața sălbatică fără a o deranja. Pe lângă valoarea naturală, zona păstrează tradițiile pescuitului tradițional de câmpie, fiind un peisaj cultural și biologic unic.",
       en: ""
     },
     factsAdvanced: {
@@ -721,7 +721,7 @@ export const poiExtraHu2: POI[] = [
         "Ein lokales Museum informiert über die Geschichte der Fischerei und die Naturwerte."
       ],
       hu: ["A tórendszer vízfelülete megközelítőleg 1900 hektár kiterjedésű.", "A terület a Ramsari Egyezmény által védett vizes élőhely.", "Eddig több mint 300 madárfajt figyeltek meg a tórendszernél.", "A tavakat a 20. század elején alakították ki az egykori Sárréten.", "Itt található Magyarország egyik legnagyobb kanalasgém-telepe.", "A terület része a Körös-Maros Nemzeti Park Biharugrai egységének.", "A tavakat tápláló fő csatorna az Ölyvös-csatorna.", "Az őszi vonuláskor akár 40 000 vadlúd is megpihenhet itt."],
-      ro: [],
+      ro: ["Suprafața totală a lacurilor este de aproape 1.900 de hectare.", "A fost declarată zonă protejată în anul 1990.", "Peste 250 de specii de păsări au fost înregistrate aici.", "Este un sit Ramsar oficial din anul 1997.", "Găzduiește una dintre cele mai mari colonii de gâște cu gât roșu.", "Adâncimea medie a lacurilor piscicole este de 1,2 - 1,5 metri."],
       en: []
     }
   },
@@ -746,7 +746,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Mályvádi-erdő ist eines der größten und wertvollsten zusammenhängenden Waldgebiete der ungarischen Tiefebene. Gelegen im Grenzgebiet zwischen Ungarn und Rumänien bei Gyula, ist dieser Wald ein Relikt der ehemaligen riesigen Auenwälder des Körös-Gebiets. Er besteht hauptsächlich aus alten Stieleichen und Eschen, die auf dem fruchtbaren Schwemmlandboden prächtig gedeihen. Der Wald ist nicht nur forstwirtschaftlich, sondern vor allem ökologisch von enormem Wert, da er als Refugium für den Rothirsch, das Wildschwein und zahlreiche seltene Vogelarten dient. Die Abgeschiedenheit und die Größe des Gebiets verleihen dem Mályvádi-Wald eine majestätische Stille, die ihn zu einem Highlight für Naturfotografen und Wanderer macht, die die ursprüngliche Wildnis suchen.",
       hu: "A Mályvádi-erdő az Alföld egyik legnagyobb és legértékesebb összefüggő erdőtömbje, amely Gyula és Sarkad között, a román határ mentén terül el. Ez az egykori hatalmas ártéri erdőségek utolsó hírmondója, ahol évszázados kocsányos tölgyek, magyar kőrisek és mezei szilfák alkotják a fenséges lombozatot. Az erdő gazdag vadállományáról, különösen gím- és dámvad állományáról híres, de fészkel itt a ritka fekete gólya és a rétisas is. Tavasszal a mocsári nőszirom és a tavaszi tőzike virágszőnyege borítja a nedvesebb területeket. A Mályvádi-erdő hűvös mikroklímája és háborítatlan csendje a természetfotósok és a magányos túrázók kedvelt célpontja az Alföld egyébként nyitottabb tájain.",
-      ro: "",
+      ro: "Pădurea Mályvád este una dintre cele mai mari și mai valoroase păduri de câmpie din Ungaria, situată în județul Békés, lângă localitatea Gyula. Această pădure de luncă este formată predominant din stejari și fagi, reprezentând un rest al vastelor păduri care acopereau odinioară valea Crișurilor. Este o rezervație naturală de importanță națională, celebră pentru populația sa de cerbi lopătari și pentru flora sa rară care înflorește în ferestrele de lumină ale pădurii. Zona oferă un habitat excelent pentru specii de păsări răpitoare și este un loc preferat pentru drumeții ecologice. Mályvád este un exemplu viu de reziliență a naturii în fața transformărilor agricole ale regiunii.",
       en: ""
     },
     factsAdvanced: {
@@ -761,7 +761,7 @@ export const poiExtraHu2: POI[] = [
         "Zahlreiche forstliche Lehrpfade informieren über die nachhaltige Bewirtschaftung des Auenwaldes."
       ],
       hu: ["Az erdő kiterjedése meghaladja a 3000 hektár összefüggő területet.", "Magyarország második legnagyobb összefüggő alföldi erdője.", "Az erdő jelentős része a Körös-Maros Nemzeti Park része.", "Itt található a régió legjelentősebb dámvad-populációja.", "A tölgyfák közül több egyed kora meghaladja a 200 évet.", "Tavasszal itt nyílik a ritka és védett debreceni torma.", "Az erdő fontos genetikai bázis az őshonos fafajok számára.", "A területen számos erdészeti és vadászati tanösvény fut."],
-      ro: [],
+      ro: ["Pădurea acoperă o suprafață de peste 3.000 de hectare.", "Este renumită pentru populația genetică pură de cerbi lopătari.", "Aici se găsesc stejari monumentali cu vârste de peste 200 de ani.", "Rezervația naturală a fost înființată în anul 1989.", "Este un habitat critic pentru barza neagră.", "Solul este compus din aluviuni argiloase ale vechilor brațe de râu."],
       en: []
     }
   },
@@ -786,7 +786,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kettős-Körös (Doppel-Kreisch) ist ein bedeutender Flussabschnitt im Südosten Ungarns, der durch den Zusammenfluss der Fehér-Körös (Weiße Kreisch) und der Fekete-Körös (Schwarze Kreisch) entsteht. Auf ihrem 37 Kilometer langen Weg durch das Komitat Békés prägt sie die Landschaft durch ihre ruhige Strömung und die von hohen Dämmen geschützten Uferbereiche. Der Fluss ist bekannt für seine natürliche Schönheit und die gut ausgebauten Möglichkeiten für den Wassertourismus; Kanufahrer schätzen die sanften Kurven und die dichte Vegetation der Auenwälder. Historisch war die Kettős-Körös oft Ursache für schwere Überschwemmungen, was zum Bau eines der beeindruckendsten Deichsysteme Ungarns führte, das heute auch als Radweg dient.",
       hu: "A Kettős-Körös Doboz mellett jön létre a Fehér- és a Fekete-Körös egyesüléséből, és Békés vármegye szívén folyik keresztül. A 37 kilométer hosszú folyószakasz lassú áramlásával és buja ártéri erdőivel a vízi turizmus egyik kedvenc helyszíne. A folyó szabályozása során épült magas gátak nemcsak árvízvédelmi szerepet töltenek be, hanem ma már népszerű kerékpáros útvonalként is funkcionálnak. Békés városánál egy modern kishajókikötő és szabadstrand várja az érkezőket, ahol a folyóparti élet pezsgése és a természet nyugalma egyszerre van jelen. A Kettős-Körös holtágai kiváló horgászhelyek, ahol a kapitális amurok és pontyok mellett a ritka lápi póc is előfordulhat a csendesebb öblökben.",
-      ro: "",
+      ro: "Râul Kettős-Körös (Crișul Dublu) se formează în județul Békés prin unirea Crișului Alb și a Crișului Negru în apropierea orașului Gyula. Acesta parcurge un traseu sinuos prin câmpia maghiară până la confluența cu Crișul Repede, unde devine Crișul Triplu. Râul este esențial pentru transportul sedimentelor și menținerea zonelor umede din regiune. Digurile sale de protecție oferă trasee excelente pentru ciclism și plimbări, fiind înconjurate de păduri de luncă dese. Din punct de vedere istoric, gestionarea acestui râu a fost crucială pentru protejarea orașelor împotriva inundațiilor, ducând la dezvoltarea unor tehnici avansate de inginerie hidrologică în secolul al XIX-lea.",
       en: ""
     },
     factsAdvanced: {
@@ -801,7 +801,7 @@ export const poiExtraHu2: POI[] = [
         "Der Flussweg ist Teil einer grenzüberschreitenden Wasserroute nach Rumänien."
       ],
       hu: ["A folyó a Fehér- és Fekete-Körös összefolyásától számítva 37 km.", "Békés városánál található a folyóág legnagyobb duzzasztóműve.", "A gátakon futó aszfaltozott út a kerékpáros túrázók kedvence.", "Gyomaendrődnél egyesül a Sebes-Körössel a Hármas-Köröshöz.", "A folyó mentén kiterjedt hullámtéri fűz-nyár ligeterdők nőnek.", "A békési kishajókikötő a régió egyik legmodernebb vízi bázisa.", "Gyakori halfajai közé tartozik a ponty, a harcsa és a balin.", "A folyó medre fontos ökológiai folyosó az Alföld déli részén."],
-      ro: [],
+      ro: ["Lungimea cursului este de 37,3 kilometri.", "Confluența brațelor are loc la localitatea Szanazug.", "Are o lățime medie a albiei de 50-70 de metri.", "Ecluza de la Békés reglează nivelul apei din canalul principal.", "Malurile sale sunt zone de cuibărit pentru lăstunul de mal.", "Vârful digului oferă o rută de ciclism de peste 30 km."],
       en: []
     }
   },
@@ -827,7 +827,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Istállós-kő war lange Zeit als der höchste Punkt des Bükk-Gebirges bekannt, bevor neuere Messungen den benachbarten Szilvási-kő mit 959 Metern knapp davor sahen. Dennoch bleibt der Istállós-kő einer der markantesten und meistbesuchten Gipfel Nordungarns. Berühmt ist er vor allem für die Istállós-kő-Höhle, die sich an seinem Hang befindet und eine der wichtigsten archäologischen Fundstätten des Landes darstellt. Hier wurden Reste der Aurignacien-Kultur und Knochen von eiszeitlichen Tieren entdeckt. Der Aufstieg zum Gipfel führt durch dichte, majestätische Buchenwälder, die typisch für den Bükk-Nationalpark sind, und bietet am Ziel einen weiten Ausblick über das Kalksteinplateau und die tiefen Täler des Gebirges.",
       hu: "Az Istállós-kő 959 méteres magasságával sokáig a Bükk-hegység legmagasabb pontjaként volt ismert, bár a legfrissebb mérések szerint a szomszédos Szilvási-kő pár centiméterrel megelőzi. A hegycsúcs északnyugati oldalán található az Istállós-kői-barlang, amely világhírű régészeti lelőhely: itt találták meg a jégkorszaki barlangi medve csontjai mellett az aurignaci kultúra kőeszközeit és a világ egyik legrégebbi csontfuvoláját is. A csúcsra vezető túraútvonal a Szalajka-völgyből indul, és bár meredek, a tetőn lévő bükkerdők csendje és a hegy történelmi levegője kárpótolja a vándort. A hegy anyaga triász kori mészkő, amelyre jellemzőek a mély töbrök és a karsztjelenségek.",
-      ro: "",
+      ro: "Istállós-kő este cel de-al doilea cel mai înalt vârf din munții Bükk și al treilea din Ungaria, cu o altitudine de 959 de metri. Situat lângă localitatea Szilvásvárad, muntele este faimos pentru peștera Istállós-kő, un sit arheologic de importanță mondială unde au fost descoperite rămășițe ale omului de Neanderthal și numeroase unelte din piatră. Urcarea spre vârf pornește adesea din pitoreasca Vale Szalajka, oferind peisaje montane dramatice și păduri de fag spectaculoase. Din cauza compoziției sale calcaroase, muntele prezintă numeroase fenomene carstice, fiind un laborator natural pentru studiul geologiei și al preistoriei Europei Centrale.",
       en: ""
     },
     factsAdvanced: {
@@ -842,7 +842,7 @@ export const poiExtraHu2: POI[] = [
         "Im Winter ist die Region ein schneesicheres Ziel für anspruchsvolle Schneeschuhwanderungen."
       ],
       hu: ["A csúcs tengerszint feletti magassága 959 méter.", "A hegyen található barlang 1944 óta fokozottan védett.", "Itt találták a világ egyik legidősebb csontfuvoláját (30 ezer éves).", "A hegy a Bükki Nemzeti Park központi, védett övezetében van.", "A Szalajka-völgyből induló 'Istállós-kői kaptató' a legmeredekebb utak egyike.", "A csúcson egy hatalmas fakereszt jelzi a legmagasabb pontot.", "A hegy növényzetét az ország legszebb bükkerdői alkotják.", "Geológiailag a Bükki-fennsík mészkőplatójának peremén fekszik."],
-      ro: [],
+      ro: ["Altitudinea vârfului este de 959 de metri.", "Peștera Istállós-kő se află la o înălțime de 609 metri.", "Aici au fost găsite fluiere din os vechi de peste 30.000 de ani.", "Face parte din Parcul Național Bükk, înființat în 1977.", "Vârful a fost considerat cel mai înalt din Bükk până în 2014.", "Pădurile de fag de aici au o structură virgină în anumite zone."],
       en: []
     }
   },
@@ -867,7 +867,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Sajó ist ein bedeutender Fluss in Nordungarn, der im slowakischen Erzgebirge entspringt und nach rund 230 Kilometern bei Tiszaújváros in die Theiß mündet. Der Fluss hat die Industriegeschichte der Region Miskolc maßgeblich geprägt, da seine Wasserkraft und die Transportwege die Ansiedlung von Eisenhütten und Fabriken begünstigten. Landschaftlich bietet die Sajó ein abwechslungsreiches Bild: von schroffen Hügellandschaften im Norden bis zu weiten Auenwiesen im unteren Verlauf. Trotz der industriellen Vergangenheit hat sich die Wasserqualität in den letzten Jahrzehnten deutlich verbessert, was die Rückkehr seltener Fischarten ermöglichte. Heute gewinnt die Sajó zunehmend an Bedeutung für den sanften Tourismus, insbesondere für Angler und Naturbeobachter in den unberührteren Abschnitten.",
       hu: "A Sajó Észak-Magyarország egyik legjelentősebb folyója, amely a szlovákiai Alacsony-Tátrában ered és mintegy 230 kilométer után ömlik a Tiszába. A folyó határozta meg Miskolc és környéke ipari arculatát; a vashámorok és gyárak telepítésekor kulcsfontosságú volt a folyó vize. Bár az ipari múlt nyomai még láthatók, a Sajó az utóbbi évtizedekben látványosan megtisztult, így visszatértek a ritka halfajok, mint például a paduc és a márna. A folyó völgye fontos éghajlati választóvonal a Bükk és a Cserehát között, partjait vadregényes füzesek és homokpadok kísérik. Tiszaújvárosnál torkollik a Tiszába, ahol a két folyó találkozása különleges látványt nyújt a vízi túrázók számára.",
-      ro: "",
+      ro: "Râul Sajó (Slaná) este unul dintre cele mai mari și mai importante cursuri de apă din nord-estul Ungariei, un afluent major al Tisei. Izvorăște din munții Tatra Mică din Slovacia și intră în Ungaria la localitatea Sajópüspöki. Râul traversează regiunea industrială Miskolc, jucând istoric un rol economic vital pentru transport și industrie. Deși cursul său a suferit transformări umane, porțiunile sale superioare păstrează o frumusețe sălbatică, cu maluri abrupte și vegetație bogată. Sajó este, de asemenea, cunoscut pentru marea bătălie din 1241 (Bătălia de la Muhi) împotriva tătarilor, care a avut loc pe malurile sale, marcând un moment tragic în istoria maghiară.",
       en: ""
     },
     factsAdvanced: {
@@ -882,7 +882,7 @@ export const poiExtraHu2: POI[] = [
         "Der Fluss mündet direkt gegenüber dem Chemiekomplex von Tiszaújváros in die Theiß."
       ],
       hu: ["A folyó teljes hossza 229 km, ebből 125 km magyar szakasz.", "A Sajó legnagyobb magyarországi mellékfolyója a Hernád.", "Ipartörténeti jelentősége a diósgyőri vasgyártáshoz kötődik.", "A folyó menti homokpartokon fészkelnek a partifecskék.", "A Sajó völgye fontos madárvonulási útvonal és ökológiai folyosó.", "Miskolcnál a folyó mentén épült ki a város ipari negyede.", "A víz tisztulásával megjelent az európai hód is a folyónál.", "A folyó torkolata Tiszaújváros közvetlen szomszédságában található."],
-      ro: [],
+      ro: ["Lungimea totală a râului este de 229 kilometri.", "Secțiunea maghiară măsoară aproximativ 125 de kilometri.", "Se varsă în Tisa în apropiere de localitatea Tiszaújváros.", "Bătălia de la Muhi a avut loc pe podul peste râul Sajó.", "Bazinul său hidrografic este bogat în resurse de cărbune și minereuri.", "Găzduiește numeroase specii de mihalț (Lota lota)."],
       en: []
     }
   },
@@ -907,7 +907,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Die Hernád ist einer der wildesten und unberührtesten Flüsse Ungarns. Sie entspringt in der Slowakei am Fuße der Niederen Tatra und fließt im Nordosten Ungarns durch das Hernád-Tal, bevor sie in die Sajó mündet. Was die Hernád so besonders macht, sind ihre steilen Löss- und Schotterwände sowie die vielen naturbelassenen Windungen, die bisher kaum durch Regulierungen begradigt wurden. Diese Dynamik macht sie zu einem herausfordernden Revier für erfahrene Kanufahrer. Ökologisch ist der Fluss von unschätzbarem Wert, da seine Uferwände ideale Brutplätze für Eisvögel und Bienenfresser bieten. Das Hernád-Tal ist zudem eine historisch bedeutsame Region, in der sich zahlreiche mittelalterliche Kirchen und kleine Dörfer an den Hängen des Zemplén-Gebirges aneinanderreihen.",
       hu: "A Hernád Magyarország egyik legvadregényesebb és legkevésbé szabályozott folyója, amely az északkeleti határszélen kanyarog. Szlovákiából érkezik, és mély löszfalaival, hordalékos zátonyaival egyedülálló tájképet fest. A folyó sodrása viszonylag gyors, ami a tapasztaltabb kajakosok és kenusok kedvencévé teszi. Ökológiai szempontból felbecsülhetetlen értékű: a magas löszpartokban fészkelnek az ország egyik legnagyobb gyurgyalag- és jégmadár-kolóniái. A Hernád völgye történelmileg is jelentős, hiszen a folyó mentén sorakoznak a Zemplén lábánál fekvő ősi települések, mint például Vizsoly, ahol az első magyar nyelvű bibliát nyomtatták. A folyó Ónod közelében torkollik a Sajóba, gazdagítva a Tisza vízrendszerét.",
-      ro: "",
+      ro: "Râul Hernád (Hornád) este unul dintre cele mai frumoase și mai dinamice râuri din nordul Ungariei, fiind renumit pentru cursul său natural și malurile sale loessoase spectaculoase. Izvorăște din Slovacia și traversează județul Borsod-Abaúj-Zemplén înainte de a se vărsa în râul Sajó. Hernád este o destinație preferată pentru pasionații de caiac și canoe datorită numeroaselor sale curbe și a vitezei moderate a apei. Zona luncii sale găzduiește păduri de galerii valoroase și este un loc important pentru cuibărirea păsărilor precum prigoria maghiară. Valea râului Hernád a fost istoric o rută comercială importantă, legând regiunea Zemplén de Transilvania și Polonia.",
       en: ""
     },
     factsAdvanced: {
@@ -922,7 +922,7 @@ export const poiExtraHu2: POI[] = [
         "In der Nähe des Flusses bei Vizsoly wurde die erste vollständige ungarische Bibel gedruckt."
       ],
       hu: ["A Hernád hossza 286 kilométer, a magyar szakasz 118 km.", "A folyó sodrása és zátonyai miatt a hajózás nem lehetséges.", "A löszfalakban fészkel a védett és színpompás gyurgyalag.", "Itt épült fel Magyarország első vízerőműve Gibártnál 1895-ben.", "A Hernád völgye a Natura 2000 hálózat kiemelt védelmi területe.", "A folyó mentén gyakori a ritka és védett vidra jelenléte.", "Horgászati szempontból híres a pér és a menyhal állományáról.", "Vizsoly középkori temploma a folyó közvetlen közelében fekszik."],
-      ro: [],
+      ro: ["Lungimea totală a râului este de 286 de kilometri.", "Secțiunea maghiară are o lungime de 118 kilometri.", "Este unul dintre puținele râuri neîndiguite din Ungaria.", "Adăpostește populații semnificative de lostriță de râu.", "Malurile de loess pot ajunge la o înălțime de 10-15 metri.", "Castelul Boldogkő se află pe un deal deasupra văii Hernád."],
       en: []
     }
   },
@@ -947,7 +947,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Lázbérci-víztározó ist einer der schönsten künstlichen Seen Ungarns, eingebettet in die bewaldeten Täler des Bükk-Gebirges und des Uppony-Gebirges. Er wurde in den 1960er Jahren primär zur Sicherung der Trinkwasserversorgung der Industriestädte im Sajó-Tal angelegt. Aufgrund dieser Funktion ist der See streng geschützt: Baden und Wassersport sind verboten, was ihm eine außergewöhnliche Stille und kristallklares Wasser bewahrt hat. Die Umgebung ist ein Wanderparadies; besonders beeindruckend ist die Schlucht von Uppony am westlichen Ende des Sees, wo steile Felswände direkt aus dem Wasser ragen. Der See ist zudem ein bekanntes Ziel für Sportangler, die unter strengen Auflagen die reichen Fischbestände in dieser malerischen Kulisse befischen dürfen.",
       hu: "A Lázbérci-víztározó az Upponyi-hegység és a Bükk határán fekszik, és Magyarország egyik legfestőibb mesterséges tava. Az 1960-as években hozták létre a Bán-patak felduzzasztásával, elsődleges célja a környékbeli ipari városok ivóvízellátásának biztosítása volt. Emiatt a tóban és közvetlen környezetében tilos a fürdés és a vízisportok, ami megőrizte a víz kristálytiszta minőségét és a környék háborítatlan nyugalmát. A tavat övező erdőkben számos túraútvonal fut, a nyugati végénél található Upponyi-szurdok pedig vadregényes sziklafalaival nyűgözi le a látogatókat. A víztározó gazdag halállománya miatt a horgászok körében is népszerű, de szigorú környezetvédelmi szabályok mellett.",
-      ro: "",
+      ro: "Rezervorul Lázbérc este unul dintre cele mai pitorești lacuri artificiale din Ungaria, situat în munții Uppony din nordul țării. Creat în 1968 pentru a asigura alimentarea cu apă a regiunilor industriale din jur, lacul este acum o zonă protejată de o frumusețe rară. Este înconjurat de dealuri împădurite abrupte, amintind de peisajele montane din Alpi. Deși scăldatul este strict interzis pentru a păstra calitatea apei potabile, zona este un paradis pentru pescari și drumeți. Traseele de pe malul lacului oferă vederi spectaculoase, iar curățenia exemplară a apei și a mediului înconjurător face din Lázbérc o destinație ecoturistică de top în regiunea Borsod.",
       en: ""
     },
     factsAdvanced: {
@@ -962,7 +962,7 @@ export const poiExtraHu2: POI[] = [
         "Wissenschaftler untersuchen hier die langfristige Entwicklung von Ökosystemen in Stauseen."
       ],
       hu: ["A tó vízfelülete 77 hektár, tárolt víztömege 6,2 millió m³.", "A gátat 1968-ban adták át, magassága eléri a 20 métert.", "A tó vize biztosítja Kazincbarcika ivóvízellátásának bázisát.", "A terület a Lázbérci Tájvédelmi Körzet központi eleme.", "A tavat tápláló patakok a Bán- és a Csernely-patak.", "A fürdés szigorúan tilos az ivóvízvédelem miatt.", "Az Upponyi-szurdok mészkőfalai a tó nyugati végén magasodnak.", "Népszerű horgászvíz, különösen a kapitális pontyairól ismert."],
-      ro: [],
+      ro: ["Rezervorul are o suprafață de aproximativ 77 de hectare.", "Capacitatea sa maximă de stocare este de 6 milioane m³.", "Barajul are o înălțime de 20 de metri deasupra albiei.", "Se află în cadrul Peisajului Protejat Lázbérc.", "Adâncimea maximă a lacului ajunge la 16 metri.", "Este alimentat de pârâurile Bán și Uppony."],
       en: []
     }
   },
@@ -987,7 +987,7 @@ export const poiExtraHu2: POI[] = [
     descriptionAdvanced: {
       de: "Der Bodrog ist ein einzigartiger Fluss in der weltberühmten Weinregion Tokaj-Hegyalja. Er entsteht durch den Zusammenfluss mehrerer Flüsse in der Slowakei und mündet bei der Stadt Tokaj in die Theiß. Das Besondere am Bodrog ist sein extrem geringes Gefälle, was dazu führt, dass er bei Hochwasser der Theiß seine Fließrichtung umkehren kann – ein seltenes Naturphänomen. Der Fluss ist gesäumt von ausgedehnten Sumpfwiesen und Weidenwäldern, die ein wichtiges Refugium für Wasservögel bilden. Für Touristen ist der Bodrog ideal, da seine sanfte Strömung auch Anfängern sichere Kanutouren ermöglicht. Zudem bietet die Kombination aus Wassererlebnis und dem Besuch der historischen Weinkeller in Städten wie Sárospatak oder Bodrogkeresztúr ein unvergleichliches kulturelles Erlebnis.",
       hu: "A Bodrog a Tokaj-Hegyaljai borvidék meghatározó folyója, amely lassú folyásáról és kanyargós medréről híres. Szlovákiából érkezik és Tokajnál torkollik a Tiszába. Különlegessége, hogy esése rendkívül csekély, így áradások idején előfordulhat, hogy a Tisza 'visszanyomja' a vizét, és a folyó folyásiránya megfordul. A Bodrog-ártér, a Bodrogzug, nemzetközileg elismert Ramsari terület, ahol hatalmas mocsárrétek és ligeterdők adnak otthont a vízimadaraknak. A folyó kiválóan alkalmas kezdő vízitúrázók számára, mivel sodrása minimális, partjai pedig buják és érintetlenek. Sárospatak mellett elhaladva a folyó közvetlenül a Rákóczi-vár falai alatt folyik el, felejthetetlen látványt nyújtva a csónakázóknak.",
-      ro: "",
+      ro: "Râul Bodrog este un curs de apă unic în nord-estul Ungariei, fiind format din confluența a patru râuri pe teritoriul Slovaciei. Intră în Ungaria la Felsőberecki și străbate regiunea viticolă Tokaj, vărsându-se în Tisa la picioarele celebrului deal Tokaj. Bodrog este renumit pentru curentul său extrem de lent, ceea ce permite navigația facilă și croazierele de agrement. Zona luncii sale, Bodrogzug, este o rezervație naturală inundabilă unde natura își recapătă drepturile în fiecare primăvară, creând un peisaj acvatic fascinant. Râul este strâns legat de istoria producției vinului de Tokaj, malurile sale fiind presărate cu sate istorice și podgorii renumite.",
       en: ""
     },
     factsAdvanced: {
@@ -1002,7 +1002,7 @@ export const poiExtraHu2: POI[] = [
         "Die traditionelle Schifffahrt auf dem Bodrog war früher entscheidend für den Weinhandel."
       ],
       hu: ["A Bodrog magyarországi szakasza mintegy 52 kilométer hosszú.", "A folyó Tokajnál egyesül a Tiszával, látványos összefolyást alkotva.", "A Bodrogzug vizes élőhelye a Ramsari Egyezmény védelme alatt áll.", "Sárospataknál a folyó a híres várkastély közvetlen közelében halad.", "A folyó esése minimális, alkalmanként megfordul a folyásiránya.", "A Bodrogkeresztúri-öböl fontos fészkelőhelye a fehér gólyáknak.", "Vízitúrázáshoz az ország egyik legbiztonságosabb folyója.", "Híres gazdag halállományáról, főleg a harcsáról és a süllőről."],
-      ro: [],
+      ro: ["Lungimea cursului maghiar este de 51,1 kilometri.", "Bodrog nu are propriul izvor, formându-se din alte râuri.", "Diferența de nivel pe secțiunea maghiară este de doar 1 metru.", "Se varsă în Tisa sub podul de la Tokaj.", "Bodrogzug este un sit protejat prin Convenția Ramsar.", "Este habitatul preferat pentru numeroase specii de castori."],
       en: []
     }
   },
