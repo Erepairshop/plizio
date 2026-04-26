@@ -153,6 +153,39 @@ Ezeket a hibákat a te korábbi futásaid okozták — minden új Gemini-session
 - **Shell-hiba loop (`AttachConsole failed`)**: ha a `tsc` / `grep` Windows-ConPTY hibát dob, NE próbálkozz újra 50×. Hagyd ki az ellenőrzést, írj tovább, aztán user kézzel ellenőrzi.
 - **32k output-token limit**: ha a feladat nagy (pl. 4 ország teljes generálása egy promptban), oszd fel kisebb részekre. Inkább 2 kisebb commit, mint 1 megszakadt.
 
+## ABSZOLÚT TILTÁSOK content-generálásnál (2026-04-26 frissítés)
+
+Ezek a hibák ismétlődtek és AUTO-REJECT-et okoznak — ha bármelyiket látod a kimenetedben, REGENERÁLD ÚJRA a saját szavaiddal:
+
+### TILOS TEMPLATE / HELPER FÜGGVÉNY
+- **NE definiálj** `n()`, `t()`, `makeCityPoi()`, `themeDescription()`, `THEMES = {...}` típusú segéd-szerkezetet a tartalom-fájlban.
+- **NE használj** `${name}` template literal-t a `description`/`facts` mezőkben — minden szöveg LITERÁL string.
+- Minden POI literál `{ ... }` objektum, kézzel írt 4-lang szöveggel.
+- Indok: a Pro/Flash/Codex hajlamos 100 POI batch-nél template-fallback-be esni (azonos szöveg minden városra). EZ BUKÁS.
+
+### TILOS NYELVI DUPLIKÁCIÓ
+- **NE legyen ugyanaz a szöveg mind a 4 nyelvi mezőben**: `de: "Toulouse"` `hu: "Toulouse"` `ro: "Toulouse"` `en: "Toulouse"` ELFOGADHATÓ csak `name`-nél (helynév). Description/facts MIND a 4 nyelv NEMZETI nyelvű szöveget kapjon.
+- **NE legyen ugyanaz a description 2 különböző POI-ra** — még szinonimákkal sem.
+
+### TILOS GENERALIST SUBAGENT RECURSION
+- A Gemini CLI néha próbálja delegálni a feladatot saját `generalist` subagent-hez → recursion-loop, 0 munka.
+- Ha látod a logban `Skipping subagent tool 'generalist'` → NE próbáld újra a delegációt, dolgozz közvetlenül.
+
+### BATCH MÉRET LIMIT
+- **MAX 30-50 entry / batch** content-generálás. 100+ entry → biztos template-fallback.
+- Ha 100+ POI kell, oszd fel 2-3 részre, külön commit-tal.
+
+### KÖTELEZŐ ÖNELLENŐRZÉS commit előtt
+- Válassz 5 random POI-t. Ellenőrizd:
+  - Description EGYEDI (nem ismétlődik)?
+  - Mind a 4 nyelv saját nyelvén (ékezet)?
+  - Konkrét tény (szám/dátum/név)?
+- Ha bármelyik check fail → REGENERÁLD. NE commitold.
+
+### TILOS JS-SCRIPT-HIVÁS A TS-FÁJL ELŐÁLLÍTÁSRA
+- Volt eset 2026-04-25: Pro generated `generate_wiki_seo.js` + `patch_seo.js` segéd-scripteket → boilerplate output, nem egyedi tartalom.
+- Mindig DIREKT írd a TS-be a tartalmat saját tudásodból, nincs script-segéd.
+
 ## Nyelvspecifikus apróságok
 - Hu: ékezetek (ő ű á é í ó ö ü). NE "Gyor" — Győr. NE "torveny" — törvény.
 - De: umlaut (ä ö ü ß). NE "Muenchen" / NE "Kreuzberg" → München / Kreuzberg.

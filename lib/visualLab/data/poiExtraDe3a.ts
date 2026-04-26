@@ -21,21 +21,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The University of Rostock was founded in 1419 and is one of the oldest in Europe.", "The city harbour is a popular meeting point with historical ships.", "Warnemünde is a picturesque seaside resort within the city limits."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Rostock egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rostock ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Rostock, die einwohnerreichste Stadt in Mecklenburg-Vorpommern, ist ein faszinierendes Zentrum der Hansegeschichte an der Ostseeküste. Die Stadt, die im Jahr 1218 das Lübische Stadtrecht erhielt, erstreckt sich entlang des Flusses Warnow bis zu dessen Mündung im Seebad Warnemünde. Rostock ist berühmt für seine gut erhaltene Backsteingotik, darunter die imposante Marienkirche mit ihrer astronomischen Uhr aus dem 15. Jahrhundert. Wirtschaftlich spielt der Seehafen eine entscheidende Rolle für den Fährverkehr und den Güterumschlag im Ostseeraum. Zudem beherbergt die Stadt die Universität Rostock, die 1419 gegründet wurde und somit die älteste Hochschule im Ostseeraum darstellt. Jedes Jahr lockt die Hanse Sail, eines der weltweit größten maritimen Feste für Traditionssegler, über eine Million Besucher in die Stadt.",
+      hu: "Rostock, Mecklenburg-Elő-Pomeránia legnépesebb városa, a Hanza-szövetség történetének lenyűgöző központja a Balti-tenger partján. A város, amely 1218-ban kapta meg a lübecki városjogot, a Warnow folyó mentén húzódik egészen annak torkolatáig, Warnemünde tengerparti üdülőhelyéig. Rostock híres a jó állapotban fennmaradt téglagótikus építészetéről, köztük az impozáns Mária-templomról, amelynek 15. századi csillagászati órája világhírű. Gazdaságilag a tengeri kikötő döntő szerepet játszik a kompforgalomban és az árufuvarozásban a balti-tengeri térségben. Emellett a város ad otthont az 1419-ben alapított Rostocki Egyetemnek, amely a legrégebbi felsőoktatási intézmény a Balti-tenger térségében. A Hanse Sail, a világ egyik legnagyobb hagyományőrző vitorlásfesztiválja, évente több mint egymillió látogatót vonz.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Rostock hat etwa 210.000 Einwohner und ist damit die größte Stadt des Bundeslandes.",
+      "Die Universität Rostock wurde im Jahr 1419 als erste Universität im Ostseeraum gegründet.",
+      "Die Astronomische Uhr in der Marienkirche funktioniert seit 1472 nahezu ununterbrochen.",
+      "Das Seebad Warnemünde ist ein wichtiger Anlaufhafen für Kreuzfahrtschiffe in Deutschland.",
+      "Die Hanse Sail findet jährlich im August statt und zieht über eine Million Besucher an.",
+      "Rostock wurde 1218 offiziell das Stadtrecht nach lübischem Vorbild verliehen.",
+      "Der Rostocker Seehafen ist ein bedeutender Knotenpunkt für den Fährverkehr nach Skandinavien."
+    ],
       hu: [
-        "A(z) Rostock területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Rostock tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Rostock lakossága körülbelül 210 000 fő, amivel a tartomány legnagyobb városa.",
+      "A Rostocki Egyetemet 1419-ben alapították, így a Balti-tenger térségének legrégebbi egyeteme.",
+      "A Mária-templomban található csillagászati óra 1472 óta szinte folyamatosan működik.",
+      "Warnemünde tengerparti üdülőhelye a tengerjáró hajók egyik legfontosabb németországi kikötője.",
+      "A Hanse Sail fesztivált minden év augusztusában rendezik meg, és több mint egymillió látogatót vonz.",
+      "Rostock 1218-ban kapta meg hivatalosan a városjogot lübecki mintára.",
+      "A rostocki tengeri kikötő a Skandináviába irányuló kompforgalom egyik fő csomópontja."
+    ],
       ro: [],
       en: []
     },
@@ -59,21 +68,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The old town of Stralsund is a UNESCO World Heritage Site.", "The Ozeaneum is a world-class modern ocean museum.", "Connected to Rügen by the Rügendamm causeway and Rügen Bridge."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Stralsund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Stralsund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Stralsund, malerisch am Strelasund gelegen, gilt als das Tor zur Insel Rügen und ist eine der bedeutendsten historischen Hansestädte Deutschlands. Gegründet im Jahr 1234, erlangte die Stadt schnell Reichtum und Macht innerhalb der Hanse, was sich noch heute in der prachtvollen Backsteingotik widerspiegelt. Aufgrund ihres außergewöhnlich gut erhaltenen mittelalterlichen Stadtkerns mit dem prächtigen Rathaus und den markanten Pfarrkirchen wurde die Altstadt 2002 in die UNESCO-Welterbeliste aufgenommen. Nach dem Dreißigjährigen Krieg stand Stralsund fast 200 Jahre lang unter schwedischer Herrschaft, was deutliche kulturelle Spuren hinterließ. Heute ist die Stadt nicht nur ein beliebtes Touristenziel, sondern beherbergt mit dem Ozeaneum, einem hochmodernen Meeresmuseum, auch eine überregional bekannte wissenschaftliche und kulturelle Einrichtung.",
+      hu: "A festői Strelasund partján fekvő Stralsund a Rügen szigetének kapuja, és Németország egyik legjelentősebb történelmi Hanza-városa. Az 1234-ben alapított város gyorsan meggazdagodott és megerősödött a Hanza-szövetségen belül, ami ma is visszatükröződik a pompás téglagótikus épületekben. A kivételesen jó állapotban fennmaradt középkori történelmi központját, a lenyűgöző városházával és a jellegzetes plébániatemplomokkal együtt 2002-ben felvették az UNESCO világörökségi listájára. A harmincéves háború után Stralsund csaknem 200 évig svéd uralom alatt állt, ami mély kulturális nyomokat hagyott. Ma a város nemcsak népszerű turisztikai célpont, hanem itt található az Ozeaneum is, egy ultramodern tengerészeti múzeum, amely országosan is elismert tudományos és kulturális intézmény.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Stralsund wurde im Jahr 1234 das lübische Stadtrecht verliehen.",
+      "Die historische Altstadt gehört seit 2002 zum UNESCO-Weltkulturerbe.",
+      "Von 1648 bis 1815 gehörte die Stadt zum Königreich Schweden.",
+      "Das Ozeaneum in Stralsund wurde 2010 als Europäisches Museum des Jahres ausgezeichnet.",
+      "Die Rügenbrücke verbindet Stralsund mit der Insel Rügen über den Strelasund.",
+      "Das Stralsunder Rathaus gilt als eines der profanbaukünstlerischen Meisterwerke der Backsteingotik.",
+      "Mit dem Stralsunder Frieden 1370 endete der Krieg zwischen der Hanse und Dänemark."
+    ],
       hu: [
-        "A(z) Stralsund területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Stralsund tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Stralsund 1234-ben kapta meg a lübecki városjogot.",
+      "A történelmi óváros 2002 óta az UNESCO világörökség része.",
+      "A város 1648 és 1815 között a Svéd Királysághoz tartozott.",
+      "A stralsundi Ozeaneum 2010-ben elnyerte az Év Európai Múzeuma díjat.",
+      "A Rügenbrücke köti össze Stralsundot a Rügen szigettel a Strelasund felett.",
+      "A stralsundi városháza a téglagótika egyik legkiválóbb világi építészeti remekműve.",
+      "Az 1370-es stralsundi békével ért véget a Hanza és Dánia közötti háború."
+    ],
       ro: [],
       en: []
     },
@@ -97,21 +115,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Rügen, at 926 km², is Germany's largest island.", "The chalk cliffs in Jasmund National Park are a UNESCO Natural World Heritage site.", "Binz is the most famous seaside resort on the island."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Rügen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rügen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Rügen ist mit einer Fläche von 926 Quadratkilometern die größte und zugleich bevölkerungsreichste Insel Deutschlands. Gelegen vor der pommerschen Ostseeküste in Mecklenburg-Vorpommern, fasziniert die Insel durch eine außergewöhnlich abwechslungsreiche Landschaft. Weltberühmt sind die blendend weißen Kreidefelsen im Nationalpark Jasmund, die vom Romantik-Maler Caspar David Friedrich im 19. Jahrhundert unsterblich gemacht wurden. Neben den imposanten Steilküsten bietet Rügen kilometerlange, feinsandige Strände, dichte Buchenwälder und mondäne Seebäder wie Binz und Sellin, die für ihre elegante Bäderarchitektur bekannt sind. Die Insel ist über den Rügendamm und die moderne Rügenbrücke mit der Hansestadt Stralsund auf dem Festland verbunden. Rügen spielt seit dem späten 19. Jahrhundert eine zentrale Rolle im deutschen Badetourismus.",
+      hu: "Rügen a maga 926 négyzetkilométeres területével Németország legnagyobb és egyben legnépesebb szigete. A pomerániai balti-tengeri partoknál, Mecklenburg-Elő-Pomeránia tartományban fekvő sziget rendkívül változatos tájaival nyűgözi le a látogatókat. Világhírűek a Jasmund Nemzeti Park vakítóan fehér krétasziklái, amelyeket Caspar David Friedrich romantikus festő halhatatlanná tett a 19. században. Az impozáns meredek partok mellett Rügen kilométereken át elnyúló, finom homokos strandokat, sűrű bükkerdőket és olyan elegáns tengerparti üdülőhelyeket kínál, mint Binz és Sellin, amelyek fürdőépítészetükről ismertek. A szigetet a Rügendamm és a modern Rügenbrücke köti össze a szárazföldön fekvő Stralsund Hanza-várossal. Rügen a 19. század vége óta központi szerepet játszik a német fürdőturizmusban.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Rügen ist mit 926 Quadratkilometern die größte Insel Deutschlands.",
+      "Der Königsstuhl ist mit 118 Metern der höchste Kreidefelsen im Nationalpark Jasmund.",
+      "Die alten Buchenwälder auf Rügen gehören zum UNESCO-Weltnaturerbe.",
+      "Kap Arkona markiert den nördlichsten Punkt der Insel und der ehemaligen DDR.",
+      "Die dampfbetriebene Schmalspurbahn \'Rasender Roland\' fährt seit 1895 auf Rügen.",
+      "Das Seebad Prora wurde in der NS-Zeit geplant und ist heute ein gigantischer, teils sanierter Gebäudekomplex.",
+      "Die Rügenbrücke, fertiggestellt im Jahr 2007, ist mit 2,8 Kilometern die längste Brücke Deutschlands."
+    ],
       hu: [
-        "A(z) Rügen területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Rügen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Rügen 926 négyzetkilométeres területével Németország legnagyobb szigete.",
+      "A Königsstuhl (Királyszék) a maga 118 méterével a Jasmund Nemzeti Park legmagasabb krétasziklája.",
+      "A rügeni ősbükkösök az UNESCO világörökség részét képezik.",
+      "Az Arkona-fok jelöli a sziget és az egykori NDK legészakibb pontját.",
+      "A \'Rasender Roland\' nevű gőzhajtású keskeny nyomtávú vasút 1895 óta közlekedik Rügenen.",
+      "A prora-i üdülőt a náci korszakban tervezték, ma gigantikus, részben felújított épületkomplexum.",
+      "A 2007-ben átadott Rügenbrücke 2,8 kilométeres hosszával Németország leghosszabb hídja."
+    ],
       ro: [],
       en: []
     },
@@ -135,21 +162,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Usedom is Germany's second-largest island after Rügen.", "The 'Kaiser resorts' of Ahlbeck, Heringsdorf and Bansin are renowned seaside destinations.", "Peenemünde on Usedom was a major rocket research station in World War II."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Usedom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Usedom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Usedom, malerisch im Mündungsgebiet der Oder in die Ostsee gelegen, ist eine grenzüberschreitende Insel, deren westlicher Teil zu Deutschland und östlicher Teil zu Polen gehört. Mit durchschnittlich 1906 Sonnenstunden im Jahr wird Usedom oft als die sonnenreichste Region Deutschlands bezeichnet. Die Insel beeindruckt mit einem 42 Kilometer langen, durchgehenden Sandstrand, an dem sich die berühmten Kaiserbäder Ahlbeck, Heringsdorf und Bansin aneinanderreihen. Diese Badeorte sind geprägt von der eleganten Bäderarchitektur des 19. Jahrhunderts, die wohlhabende Berliner während der Kaiserzeit anlockte. Eine weitere historische Besonderheit befindet sich in Peenemünde, wo während des Zweiten Weltkriegs unter Wernher von Braun Raketen entwickelt wurden, darunter die V2. Heute ist Usedom ein Paradies für Naturfreunde, Radfahrer und Wellnessurlauber.",
+      hu: "Az Odera Balti-tengerbe való torkolatánál festői környezetben fekvő Usedom egy határon átnyúló sziget, amelynek nyugati része Németországhoz, keleti része pedig Lengyelországhoz tartozik. Az évi átlagosan 1906 napsütéses órával Usedomot gyakran Németország legnaposabb régiójaként emlegetik. A sziget lenyűgöző, 42 kilométer hosszú, egybefüggő homokos strandjával büszkélkedhet, amely mentén a híres császári üdülőhelyek, Ahlbeck, Heringsdorf és Bansin sorakoznak. Ezeket az üdülőhelyeket a 19. századi elegáns fürdőépítészet jellemzi, amely a császárkorban a tehetős berliniek kedvelt célpontja volt. Egy másik történelmi különlegesség Peenemündében található, ahol a második világháború alatt Wernher von Braun irányításával rakétákat, köztük a V2-t is fejlesztették. Ma Usedom a természetkedvelők, a kerékpárosok és a wellness szerelmeseinek paradicsoma.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Usedom ist mit 445 Quadratkilometern die zweitgrößte Insel Deutschlands.",
+      "Rund 80 Prozent der Inselfläche gehören zu Deutschland, 20 Prozent zu Polen.",
+      "Die Seebrücke in Heringsdorf ist mit 508 Metern die längste in Kontinentaleuropa.",
+      "Mit durchschnittlich 1906 Sonnenstunden jährlich ist sie die sonnenreichste Insel des Landes.",
+      "Die Kaiserbäder Ahlbeck, Heringsdorf und Bansin sind für ihre Bäderarchitektur berühmt.",
+      "Das Historisch-Technische Museum Peenemünde dokumentiert die Entwicklung der V2-Rakete.",
+      "Die längste grenzüberschreitende Strandpromenade Europas verbindet Bansin mit dem polnischen Swinemünde."
+    ],
       hu: [
-        "A(z) Usedom területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Usedom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Usedom 445 négyzetkilométeres területével Németország második legnagyobb szigete.",
+      "A sziget területének mintegy 80 százaléka Németországhoz, 20 százaléka pedig Lengyelországhoz tartozik.",
+      "A heringsdorfi móló a maga 508 méterével a leghosszabb a kontinentális Európában.",
+      "Évi átlagosan 1906 napsütéses órájával az ország legnaposabb szigete.",
+      "Ahlbeck, Heringsdorf és Bansin császári üdülőhelyek híresek fürdőépítészetükről.",
+      "A peenemündei Történelmi-Műszaki Múzeum a V2-es rakéta fejlesztését mutatja be.",
+      "Európa leghosszabb határon átnyúló tengerparti sétánya köti össze Bansint a lengyelországi Świnoujściével."
+    ],
       ro: [],
       en: []
     },
@@ -173,21 +209,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Schwerin Castle stands on an island in Lake Schwerin.", "The city is called the 'City of Seven Lakes'.", "The castle is a candidate for the UNESCO World Heritage list."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Schwerin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwerin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Schwerin, eingebettet in eine malerische Wald- und Seenlandschaft, ist die Landeshauptstadt von Mecklenburg-Vorpommern. Obwohl sie die kleinste Landeshauptstadt Deutschlands ist, besticht sie durch ihren immensen historischen und kulturellen Reichtum. Das absolute Wahrzeichen der Stadt ist das Schweriner Schloss, ein architektonisches Meisterwerk des romantischen Historismus, das majestätisch auf einer Insel im Schweriner See thront. Das Schloss diente jahrhundertelang als Residenz der mecklenburgischen Herzöge und Großherzöge und beherbergt heute den Landtag von Mecklenburg-Vorpommern. Das harmonische Stadtbild wird von klassizistischen Repräsentativbauten, dem gotischen Dom St. Marien und St. Johannis sowie großzügigen Gartenanlagen geprägt. Im Jahr 1160 erhielt Schwerin von Heinrich dem Löwen das Stadtrecht und blickt somit auf eine lange und stolze Geschichte als Zentrum politischer Macht zurück.",
+      hu: "A festői erdők és tavak vidékébe ágyazott Schwerin Mecklenburg-Elő-Pomeránia tartomány fővárosa. Bár Németország legkisebb tartományi fővárosa, lenyűgöző történelmi és kulturális gazdagsággal büszkélkedhet. A város abszolút jelképe a schwerini kastély, a romantikus historizmus építészeti remekműve, amely fenségesen magasodik egy szigeten a Schwerini-tóban. A kastély évszázadokon át a mecklenburgi hercegek és nagyhercegek rezidenciájaként szolgált, ma pedig a Mecklenburg-Elő-Pomeránia tartományi parlamentjének ad otthont. A harmonikus városképet klasszicista reprezentatív épületek, a gótikus Szent Mária és Szent János dóm, valamint tágas kertek határozzák meg. Schwerin 1160-ban kapott városjogot Oroszlán Henriktől, így hosszú és büszke múltra tekinthet vissza a politikai hatalom központjaként.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Schwerin ist mit rund 95.000 Einwohnern die kleinste Landeshauptstadt in Deutschland.",
+      "Die Stadt wurde im Jahr 1160 von Heinrich dem Löwen offiziell gegründet.",
+      "Das Schweriner Schloss wird oft als das \'Neuschwanstein des Nordens\' bezeichnet.",
+      "Der Schweriner See ist der viertgrößte See Deutschlands.",
+      "Etwa ein Drittel des gesamten Stadtgebiets besteht aus Wasserflächen.",
+      "Der Turm des Schweriner Doms ist 117,5 Meter hoch und bietet einen weiten Ausblick.",
+      "Seit 1990 ist das Schloss der Sitz des Landtages von Mecklenburg-Vorpommern."
+    ],
       hu: [
-        "A(z) Schwerin területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schwerin tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Schwerin mintegy 95 000 lakosával Németország legkisebb tartományi fővárosa.",
+      "A várost hivatalosan 1160-ban alapította Oroszlán Henrik.",
+      "A schwerini kastélyt gyakran az \'Észak Neuschwansteinjének\' is nevezik.",
+      "A Schwerini-tó Németország negyedik legnagyobb tava.",
+      "A teljes városterület mintegy egyharmada vízfelület.",
+      "A schwerini dóm tornya 117,5 méter magas, és messzire nyúló kilátást nyújt.",
+      "1990 óta a kastély ad otthont Mecklenburg-Elő-Pomeránia tartományi parlamentjének."
+    ],
       ro: [],
       en: []
     },
@@ -211,21 +256,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Lake Müritz covers approximately 117 km².", "Müritz National Park is Germany's only inland lake national park.", "The region attracts sailors, canoeists and birdwatchers."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Müritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Müritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Die Müritz, deren Name aus dem Slawischen stammt und so viel wie 'kleines Meer' bedeutet, ist der größte See, der vollständig innerhalb der deutschen Staatsgrenzen liegt. Das Gewässer im Zentrum der Mecklenburgischen Seenplatte erstreckt sich über eine Fläche von beeindruckenden 117 Quadratkilometern. Das Ostufer der Müritz ist Teil des Müritz-Nationalparks, eines der wichtigsten Naturschutzgebiete Deutschlands, das durch ausgedehnte Kiefern- und Buchenwälder, Moore und Schilfzonen besticht. Diese unberührte Natur ist ein Paradies für Vogelbeobachter, da hier seltene Arten wie Seeadler, Fischadler und Kraniche in großer Zahl brüten und rasten. Neben der Bedeutung für den Naturschutz ist die Müritz ein Magnet für Wassersportler; Segler, Kanuten und Hausboot-Urlauber schätzen das ausgedehnte, vernetzte Wassersystem, das über Flüsse und Kanäle bis nach Berlin reicht.",
+      hu: "A Müritz, amelynek neve a szláv nyelvből származik és 'kis tengert' jelent, a legnagyobb olyan tó, amely teljes egészében Németország határain belül fekszik. A Mecklenburgi-tóvidék szívében található víztömeg lenyűgöző, 117 négyzetkilométeres területen terül el. A Müritz keleti partja a Müritz Nemzeti Park része, amely Németország egyik legfontosabb természetvédelmi területe, kiterjedt fenyő- és bükkerdőkkel, lápokkal és nádasokkal. Ez az érintetlen természet a madármegfigyelők paradicsoma, mivel ritka fajok, például rétisasok, halászsasok és darvak fészkelnek és pihennek itt nagy számban. Természetvédelmi jelentősége mellett a Müritz a vízisportok szerelmeseinek mágnesként vonzza; a vitorlázók, kenusok és lakóhajós nyaralók értékelik a kiterjedt, hálózatba kapcsolt vízrendszert, amely folyókon és csatornákon keresztül egészen Berlinig ér.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Die Müritz ist mit 117 Quadratkilometern der größte vollständig innerdeutsche Binnensee.",
+      "Ihre maximale Tiefe beträgt an der tiefsten Stelle etwa 31 Meter.",
+      "Der See ist über die Havel-Oder-Wasserstraße direkt mit Berlin verbunden.",
+      "Der angrenzende Müritz-Nationalpark wurde 1990 zum Schutz der einzigartigen Natur gegründet.",
+      "Der See beherbergt eine der höchsten Dichten an brütenden Fischadlern in Deutschland.",
+      "Die Hauptorte am Ufer der Müritz sind Waren (Müritz), Röbel und Rechlin.",
+      "Das Ostufer ist sehr flach, während das Westufer tiefere Rinnen und Buchten aufweist."
+    ],
       hu: [
-        "A(z) Müritz területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Müritz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Müritz a maga 117 négyzetkilométerével a legnagyobb, teljes egészében belföldi német tó.",
+      "Legnagyobb mélysége a legmélyebb pontján körülbelül 31 méter.",
+      "A tavat a Havel-Odera vízi út köti össze közvetlenül Berlinnel.",
+      "A szomszédos Müritz Nemzeti Parkot 1990-ben alapították az egyedülálló természet védelme érdekében.",
+      "A tó ad otthont a költő halászsasok egyik legnagyobb sűrűségének Németországban.",
+      "A Müritz partján található főbb települések Waren (Müritz), Röbel és Rechlin.",
+      "A keleti part nagyon sekély, míg a nyugati parton mélyebb árkok és öblök találhatók."
+    ],
       ro: [],
       en: []
     },
@@ -249,21 +303,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Warnow is approximately 155 km long.", "It flows through the state capital Schwerin and the city of Rostock.", "The Warnow valley is a popular recreation area."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Warnow egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Warnow ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Die Warnow, ein etwa 155 Kilometer langer Fluss im Herzen von Mecklenburg-Vorpommern, ist ein landschaftlich und wirtschaftlich bedeutsames Fließgewässer der Region. Sie entspringt in einem kleinen Moorgebiet nahe Grebbin und bahnt sich ihren Weg durch malerische, teils unberührte Naturlandschaften und Endmoränentäler nach Norden. Besonders bemerkenswert ist das Durchbruchstal bei Sternberg, wo der Fluss ein für Norddeutschland ungewöhnlich tief eingeschnittenes Tal geformt hat. Auf ihrem Weg durchfließt die Warnow Bützow und Schwaan, bevor sie schließlich in Rostock zum schiffbaren Fluss wird. Hier verbreitert sie sich dramatisch und bildet die Unterwarnow, die als natürlicher und tiefwasserreicher Hafen dient, bevor sie bei Warnemünde in die Ostsee mündet. Die Warnow ist nicht nur ein beliebtes Revier für Wasserwanderer und Kanuten, sondern war historisch die Lebensader für die Entwicklung Rostocks zur bedeutenden Hansestadt.",
+      hu: "A Warnow, egy körülbelül 155 kilométer hosszú folyó Mecklenburg-Elő-Pomeránia szívében, a régió tájképi és gazdasági szempontból is jelentős vízfolyása. Egy kis mocsaras területen ered Grebbin közelében, és észak felé tartva festői, részben érintetlen természeti tájakon és végmoréna-völgyeken halad keresztül. Különösen figyelemre méltó a Sternberg melletti áttöréses völgy, ahol a folyó egy észak-németországi viszonylatban szokatlanul mélyen bevágódott völgyet alakított ki. Útja során átszeli Bützow és Schwaan városát, mielőtt Rostocknál végül hajózható folyóvá válik. Itt drámaian kiszélesedik, és létrehozza az Unterwarnow-t, amely természetes és mélyvizű kikötőként szolgál, mielőtt Warnemündénél a Balti-tengerbe torkollik. A Warnow nemcsak a vízi túrázók és kenusok kedvelt területe, hanem történelmileg is a rostocki Hanza-város fejlődésének éltető ereje volt.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Die Warnow hat eine Gesamtlänge von rund 155 Kilometern.",
+      "Sie ist der zweitlängste Fluss, der vollständig in Mecklenburg-Vorpommern fließt.",
+      "Das Warnow-Durchbruchstal bei Sternberg steht seit 1935 unter Naturschutz.",
+      "In Rostock verläuft unter der Warnow der 2003 eröffnete Warnowtunnel.",
+      "Der Flussname hat slawische Wurzeln und bedeutet \'Krähenfluss\'.",
+      "Die Warnow entwässert ein Einzugsgebiet von über 3.300 Quadratkilometern.",
+      "Die Unterwarnow vor Rostock ist tief genug, um Hochseeschiffe aufzunehmen."
+    ],
       hu: [
-        "A(z) Warnow területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Warnow tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Warnow teljes hossza körülbelül 155 kilométer.",
+      "Ez a második leghosszabb folyó, amely teljes egészében Mecklenburg-Elő-Pomerániában folyik.",
+      "A Sternberg melletti Warnow-áttörés völgye 1935 óta természetvédelem alatt áll.",
+      "Rostockban a folyó alatt halad a 2003-ban átadott Warnow-alagút.",
+      "A folyó neve szláv gyökerű, jelentése \'Varjú-folyó\'.",
+      "A Warnow több mint 3300 négyzetkilométeres vízgyűjtő területet ürít le.",
+      "A Rostock előtti Unterwarnow elég mély ahhoz, hogy tengerjáró hajókat is fogadjon."
+    ],
       ro: [],
       en: []
     },
@@ -287,21 +350,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The old town of Wismar is a UNESCO World Heritage site together with Stralsund.", "Wismar was under Swedish rule for over 150 years (1648–1803).", "The Old Harbour is one of the best-preserved medieval harbours in Germany."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Wismar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wismar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Wismar, an der südlichen Spitze der Wismarer Bucht in der Ostsee gelegen, ist eine Stadt, die ihre hanseatische und schwedische Vergangenheit bis heute lebendig hält. Die 1229 gegründete Stadt gehörte zu den florierendsten Mitgliedern der Hanse. Wismar ist bekannt für sein bemerkenswert geschlossenes Stadtbild der Backsteingotik, weshalb die Altstadt 2002 gemeinsam mit Stralsund zum UNESCO-Weltkulturerbe erklärt wurde. Der riesige, ein Hektar große Marktplatz mit der charakteristischen 'Wasserkunst' aus dem 16. Jahrhundert bildet das Herzstück der Altstadt. Ein faszinierendes Kapitel der Stadtgeschichte ist die Zugehörigkeit zum schwedischen Königreich von 1648 bis 1903, was jährlich mit dem farbenprächtigen 'Schwedenfest' gefeiert wird. Der alte Stadthafen ist heute ein idyllischer Anziehungspunkt, während der Seehafen weiterhin wirtschaftliche Bedeutung für den Holz- und Güterumschlag besitzt.",
+      hu: "A Balti-tenger Wismari-öblének déli csücskén fekvő Wismar olyan város, amely a mai napig életben tartja hanza és svéd múltját. Az 1229-ben alapított város a Hanza-szövetség egyik legvirágzóbb tagja volt. Wismar a téglagótika rendkívül egységes városképéről ismert, ezért az óvárost 2002-ben Stralsunddal együtt az UNESCO világörökség részévé nyilvánították. A hatalmas, egyhektáros piactér, a 16. századból származó jellegzetes 'Wasserkunst' vízművel az óváros szíve. A város történetének lenyűgöző fejezete a Svéd Királysághoz tartozás 1648 és 1903 között, amit évente a színpompás 'Svéd Fesztivállal' (Schwedenfest) ünnepelnek meg. A régi városi kikötő ma idilli vonzerejű hely, miközben a tengeri kikötő továbbra is gazdasági jelentőséggel bír a fa- és árufuvarozásban.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Marktplatz von Wismar gehört mit 10.000 Quadratmetern zu den größten in Norddeutschland.",
+      "Wismar stand ab dem Westfälischen Frieden 1648 bis 1903 offiziell unter schwedischer Herrschaft.",
+      "Die Altstadt wurde 2002 gemeinsam mit Stralsund in die UNESCO-Welterbeliste aufgenommen.",
+      "Die St.-Georgen-Kirche besaß einen der massivsten Baukörper der Backsteingotik, bevor sie im 2. Weltkrieg stark beschädigt wurde.",
+      "Das Gebäude \'Alter Schwede\' von 1380 ist das älteste bekannte Bürgerhaus der Stadt.",
+      "Die \'Wasserkunst\' auf dem Marktplatz versorgte die Stadt jahrhundertelang mit Trinkwasser.",
+      "Der Wismarer Hafen war im Mittelalter ein wichtiger Umschlagplatz für Heringe und Bier."
+    ],
       hu: [
-        "A(z) Wismar területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Wismar tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A wismari piactér a maga 10 000 négyzetméterével Észak-Németország egyik legnagyobbja.",
+      "Wismar az 1648-as vesztfáliai béke után 1903-ig hivatalosan svéd uralom alatt állt.",
+      "Az óvárost 2002-ben Stralsunddal együtt felvették az UNESCO világörökségi listájára.",
+      "A Szent György-templom a téglagótika egyik legmasszívabb építménye volt, mielőtt a II. világháborúban súlyosan megsérült.",
+      "Az 1380-ból származó \'Alter Schwede\' épület a város legrégebbi ismert polgárháza.",
+      "A piactéren található \'Wasserkunst\' évszázadokon át ivóvízzel látta el a várost.",
+      "A wismari kikötő a középkorban a hering és a sör fontos rakodóhelye volt."
+    ],
       ro: [],
       en: []
     },
@@ -325,21 +397,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The primeval forest on the Darß is among the last coastal forests in Germany.", "The Darß is a vital resting area for migratory birds, especially cranes.", "Weststrand is one of Germany's most beautiful natural beaches."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Darß egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Darß ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Darß bildet den mittleren Teil der reizvollen Halbinsel Fischland-Darß-Zingst an der Ostseeküste Mecklenburg-Vorpommerns. Diese Landschaft wurde durch Sandablagerungen und Meeresströmungen über Jahrtausende geformt. Der Großteil des Darß wird vom dichten, urwüchsigen Darßwald bedeckt, der eine Fläche von etwa 5.800 Hektar einnimmt und ein wesentlicher Bestandteil des Nationalparks Vorpommersche Boddenlandschaft ist. Diese Region ist berühmt für ihren wildromantischen Weststrand, an dem vom Wind geformte Kiefern, die sogenannten 'Windflüchter', steil über den Sandstrand hinausragen. Einst ein isoliertes Rückzugsgebiet für Seefahrer und Fischer, ist der Darß heute bekannt für seine reetgedeckten Häuser mit den bunten, traditionell geschnitzten Darßer Türen. Im Herbst wird die Boddenlandschaft zum Schauplatz eines spektakulären Naturschauspiels, wenn zehntausende Kraniche auf ihrem Vogelzug hier rasten.",
+      hu: "A Darß alkotja a mecklenburg-elő-pomerániai Balti-tenger partján fekvő festői Fischland-Darß-Zingst félsziget középső részét. Ezt a tájat évezredek alatt a homoklerakódások és az óceáni áramlatok alakították ki. A Darß nagy részét a sűrű, ősi Darßwald erdő borítja, amely mintegy 5800 hektáron terül el, és szerves része az Elő-pomerániai Bodden-táj Nemzeti Parknak. Ez a régió a vadregényes nyugati strandjáról (Weststrand) híres, ahol a szél által formált fenyők, az úgynevezett 'szélmenekülők' (Windflüchter) meredeken nyúlnak a homokos part fölé. Az egykor a tengerészek és halászok elszigetelt menedékének számító Darß ma már ismert a nádfedeles házairól és a színes, hagyományosan faragott darß-i ajtóiról. Ősszel a Bodden-táj egy látványos természeti esemény helyszínévé válik, amikor is több tízezer daru pihen meg itt madárvonulása során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Darßwald nimmt mit 5.800 Hektar einen Großteil der Halbinsel ein.",
+      "Der Weststrand wurde aufgrund seiner Wildheit oft zu einem der schönsten Strände Europas gewählt.",
+      "Der Leuchtturm Darßer Ort, erbaut 1848, steht an der nordwestlichsten Spitze der Halbinsel.",
+      "Der Darß gehört vollständig zum Nationalpark Vorpommersche Boddenlandschaft.",
+      "Traditionelle, kunstvoll bemalte \'Darßer Türen\' sind ein kulturelles Markenzeichen der Region.",
+      "Die sogenannten \'Windflüchter\' sind Bäume, deren Wuchs durch den starken Westwind einseitig geprägt ist.",
+      "Im Herbst rasten bis zu 70.000 Kraniche in den seichten Boddengewässern rund um den Darß."
+    ],
       hu: [
-        "A(z) Darß területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Darß tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Darßwald 5800 hektárjával a félsziget nagy részét elfoglalja.",
+      "A vadregényes Weststrandot (Nyugati strand) gyakran Európa legszebb strandjai közé választják.",
+      "Az 1848-ban épült Darßer Ort világítótorony a félsziget legészaknyugatibb csücskén áll.",
+      "A Darß teljes egészében az Elő-pomerániai Bodden-táj Nemzeti Parkhoz tartozik.",
+      "A hagyományos, művészien festett \'darß-i ajtók\' a régió kulturális védjegyei.",
+      "A \'szélmenekülők\' (Windflüchter) olyan fák, amelyek növekedését az erős nyugati szél egyoldalúan alakította.",
+      "Ősszel akár 70 000 daru is megpihen a Darß körüli sekély boddeni vizekben."
+    ],
       ro: [],
       en: []
     },
@@ -363,21 +444,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The University of Greifswald was founded in 1456.", "The Marienkirche is considered one of the finest examples of Brick Gothic architecture.", "Caspar David Friedrich, the famous Romantic painter, was born in Greifswald."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "Greifswald német város Mecklenburg-Elő-Pomeránia északkeleti részén, a Ryck folyó mentén, 5 km-re a Balti-tenger Greifswalder Bodden nevű öblétől fekszik. Egykori Hanza-város. A(z) Greifswald egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      de: "Die Universitäts- und Hansestadt Greifswald, idyllisch am Fluss Ryck nahe der Mündung in die Ostsee gelegen, ist eine Stadt, in der Wissenschaft und mittelalterliche Geschichte eng miteinander verwoben sind. Die im Jahr 1456 gegründete Universität Greifswald ist die zweitälteste im Ostseeraum und prägt das geistige und kulturelle Leben der Stadt bis heute entscheidend. Greifswald war die Geburtsstadt des bedeutendsten deutschen Malers der Romantik, Caspar David Friedrich, dessen Motive oft die heimische Landschaft und die nahen Klosterruinen von Eldena zeigten. Den historischen Stadtkern dominieren eindrucksvolle Giebelhäuser der Backsteingotik sowie drei große Stadtkirchen, die von den Einheimischen liebevoll 'Der dicke Marie', 'Der lange Nikolaus' und 'Der kleine Jakob' genannt werden. Der Museumshafen mit seinen traditionellen Segelschiffen unterstreicht das tief verwurzelte maritime Erbe der Stadt.",
+      hu: "Az egyetemi és Hanza-város Greifswald, amely idillikus környezetben fekszik a Ryck folyó partján, a Balti-tengeri torkolat közelében, egy olyan hely, ahol a tudomány és a középkori történelem szorosan összefonódik. Az 1456-ban alapított Greifswaldi Egyetem a Balti-tenger térségének második legrégebbi egyeteme, és a mai napig meghatározó szerepet játszik a város szellemi és kulturális életében. Greifswald a romantika legjelentősebb német festőjének, Caspar David Friedrichnek a szülővárosa, akinek motívumai gyakran a helyi tájat és a közeli eldenai kolostorromokat ábrázolták. A történelmi városközpontot lenyűgöző téglagótikus oromzatos házak, valamint három nagy városi templom uralja, amelyeket a helyiek szeretettel 'Kövér Máriának', 'Hosszú Miklósnak' és 'Kis Jakabnak' neveznek. A múzeumkikötő a hagyományos vitorlásokkal alátámasztja a város mélyen gyökerező tengeri örökségét.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Die Universität Greifswald wurde 1456 gegründet und ist eine der ältesten in Mitteleuropa.",
+      "Greifswald ist der Geburtsort des berühmten Romantik-Malers Caspar David Friedrich (geboren 1774).",
+      "Die Stadt war wie Stralsund und Wismar fast 200 Jahre lang Teil des Königreichs Schweden.",
+      "Der Dom St. Nikolai (der \'lange Nikolaus\') besitzt einen knapp 100 Meter hohen Turm.",
+      "Greifswald blieb während des Zweiten Weltkriegs dank kampfloser Übergabe weitgehend unzerstört.",
+      "Der Museumshafen Greifswald beherbergt eine der größten Flotten historischer Arbeitsschiffe Deutschlands.",
+      "In Greifswald befindet sich das Max-Planck-Institut für Plasmaphysik mit dem Forschungsreaktor Wendelstein 7-X."
+    ],
       hu: [
-        "A(z) Greifswald területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Greifswald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Greifswaldi Egyetemet 1456-ban alapították, és Közép-Európa egyik legrégebbi egyeteme.",
+      "Greifswald a híres romantikus festő, Caspar David Friedrich (született 1774-ben) szülőhelye.",
+      "A város, akárcsak Stralsund és Wismar, közel 200 évig a Svéd Királyság része volt.",
+      "A Szent Miklós-dóm (a \'hosszú Miklós\') majdnem 100 méter magas toronnyal rendelkezik.",
+      "Greifswald a harc nélküli átadásnak köszönhetően nagyrészt sértetlen maradt a második világháború alatt.",
+      "A greifswaldi múzeumkikötő Németország egyik legnagyobb történelmi munkahajó-flottájának ad otthont.",
+      "Greifswaldban található a Max Planck Plazmafizikai Intézet a Wendelstein 7-X kutatóreaktorral."
+    ],
       ro: [],
       en: []
     },
@@ -401,21 +491,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The castle today serves as the state parliament of Mecklenburg-Western Pomerania.", "It is surrounded by several gardens and parks in English and French style.", "The castle is on the UNESCO Tentative List."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Schweriner Schloss egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schweriner Schloss ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Das Schweriner Schloss ist ein architektonisches Juwel des romantischen Historismus und wird oft als das 'Neuschwanstein des Nordens' bezeichnet. Majestätisch auf einer kleinen Insel im Schweriner See gelegen, besticht es durch seine verspielte Fassade mit zahlreichen Türmchen, Erkern und goldenen Kuppeln. Das heutige Erscheinungsbild, das stark an die französischen Loire-Schlösser erinnert, entstand Mitte des 19. Jahrhunderts unter dem Architekten Georg Adolf Demmler. Historisch diente das Schloss über Jahrhunderte als Hauptresidenz der Herzöge und Großherzöge von Mecklenburg. Die prächtigen Innenräume, darunter der prunkvolle Thronsaal und die Ahnengalerie, zeugen von der einstigen Macht und dem Reichtum der Dynastie. Heute ist das Schweriner Schloss nicht nur ein beliebtes Museum, sondern auch der repräsentative Sitz des Landtages von Mecklenburg-Vorpommern, umgeben von einem herrlichen barocken Burggarten.",
+      hu: "A schwerini kastély a romantikus historizmus építészeti gyöngyszeme, amelyet gyakran 'Észak Neuschwansteinjeként' emlegetnek. A Schwerini-tó egy kis szigetén fenségesen elhelyezkedő épület játékos homlokzatával, számos tornyocskájával, zárkózott erkélyeivel és aranykupoláival bűvöli el a látogatókat. Mai, a franciaországi Loire-menti kastélyokra erősen emlékeztető megjelenése a 19. század közepén alakult ki Georg Adolf Demmler építész irányításával. Történelmileg a kastély évszázadokon át a mecklenburgi hercegek és nagyhercegek főrezidenciájaként szolgált. A pompás belső terek, köztük a fényűző trónterem és az ősgaléria, a dinasztia egykori hatalmáról és gazdagságáról tanúskodnak. Ma a schwerini kastély nemcsak népszerű múzeum, hanem Mecklenburg-Elő-Pomeránia tartományi parlamentjének reprezentatív székhelye is, amelyet egy gyönyörű barokk kastélypark vesz körül.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Das Schweriner Schloss liegt auf einer Insel zwischen dem Schweriner See und dem Burgsee.",
+      "Der großflächige Umbau zum heutigen Aussehen fand zwischen 1845 und 1857 statt.",
+      "Das Gebäude verfügt über genau 653 Räume, von denen viele prunkvoll ausgestattet sind.",
+      "Seit 1990 ist das Schloss der offizielle Sitz des Landtages von Mecklenburg-Vorpommern.",
+      "Der Legende nach spukt im Schloss der gutmütige Schlossgeist \'Petermännchen\'.",
+      "Die Architektur ist stark von dem französischen Schloss Chambord an der Loire inspiriert.",
+      "Das Schloss und das Residenzensemble Schwerin sind Kandidaten für das UNESCO-Weltkulturerbe."
+    ],
       hu: [
-        "A(z) Schweriner Schloss területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schweriner Schloss tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A schwerini kastély egy szigeten fekszik a Schwerini-tó és a Burgsee között.",
+      "A mai megjelenést eredményező nagyszabású átépítés 1845 és 1857 között zajlott.",
+      "Az épület pontosan 653 helyiséggel rendelkezik, amelyek közül sok pompásan berendezett.",
+      "1990 óta a kastély Mecklenburg-Elő-Pomeránia tartományi parlamentjének hivatalos székhelye.",
+      "A legenda szerint a kastélyban kísért a jóindulatú kastélyszellem, \'Petermännchen\'.",
+      "Az építészetet erősen inspirálta a franciaországi Chambord kastély a Loire mentén.",
+      "A kastély és a schwerini rezidenciaegyüttes az UNESCO világörökségi listájának várományosa."
+    ],
       ro: [],
       en: []
     },
@@ -439,21 +538,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The monastery was founded in 1199.", "Caspar David Friedrich painted the ruins several times, making them world-famous.", "The ruins are today a popular park and event venue."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Klosterruine Eldena egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Klosterruine Eldena ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Die Ruine des Zisterzienserklosters Eldena, gelegen am Stadtrand von Greifswald, ist eines der berühmtesten Denkmäler der deutschen Romantik. Gegründet im Jahr 1199 von dänischen Mönchen, erlangte das Kloster im Mittelalter große wirtschaftliche und geistliche Bedeutung und war maßgeblich an der Gründung der Universität Greifswald beteiligt. Während der Reformation wurde das Kloster im 16. Jahrhundert säkularisiert und verfiel im Dreißigjährigen Krieg. Weltweite Berühmtheit erlangten die imposanten, von Efeu umrankten Backsteinruinen im 19. Jahrhundert durch den in Greifswald geborenen Maler Caspar David Friedrich. Er machte die Ruine in seinen Gemälden, wie der 'Klosterruine Eldena im Riesengebirge', zum Symbol der Vergänglichkeit und der romantischen Sehnsucht. Heute dient die mystische Anlage als idyllischer Park und atmosphärische Kulisse für Open-Air-Konzerte und kulturelle Veranstaltungen.",
+      hu: "Az eldenai ciszterci kolostor Greifswald szélén található romja a német romantika egyik leghíresebb műemléke. Az 1199-ben dán szerzetesek által alapított kolostor a középkorban nagy gazdasági és szellemi jelentőségre tett szert, és kulcsszerepet játszott a Greifswaldi Egyetem megalapításában. A reformáció idején, a 16. században a kolostort szekularizálták, majd a harmincéves háborúban elpusztult. A borostyánnal benőtt, impozáns téglaromok a 19. században tettek szert világhírnévre a Greifswaldban született festő, Caspar David Friedrich révén. Festményein, mint például az 'Eldenai kolostorrom az Óriás-hegységben' című művén, a romot a mulandóság és a romantikus vágyakozás szimbólumává tette. Ma a misztikus terület idilli parkként, valamint szabadtéri koncertek és kulturális rendezvények hangulatos helyszíneként szolgál.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Das Kloster Eldena wurde im Jahr 1199 vom Fürsten Jaromar I. von Rügen gegründet.",
+      "Es gehörte zum Zisterzienserorden und war ein Zentrum der Christianisierung in der Region.",
+      "Die Mönche von Eldena gründeten 1250 offiziell die Stadt Greifswald.",
+      "Nach der Säkularisation 1536 wurden die Steine der Gebäude teilweise für Stadtbefestigungen genutzt.",
+      "Caspar David Friedrich machte die Ruine durch seine romantischen Gemälde weltberühmt.",
+      "Das Ruinengelände wurde im 19. Jahrhundert nach Plänen von Peter Joseph Lenné als Park gestaltet.",
+      "Im Sommer ist die Ruine ein beliebter Veranstaltungsort für die \'Eldenaer Jazz Evenings\'."
+    ],
       hu: [
-        "A(z) Klosterruine Eldena területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Klosterruine Eldena tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Az eldenai kolostort 1199-ben alapította I. Jaromar rügeni fejedelem.",
+      "A ciszterci rendhez tartozott, és a régió keresztényesítésének egyik központja volt.",
+      "Az eldenai szerzetesek alapították hivatalosan Greifswald városát 1250-ben.",
+      "Az 1536-os szekularizáció után az épületek köveit részben a város erődítményeihez használták fel.",
+      "Caspar David Friedrich romantikus festményei tették világhírűvé a romokat.",
+      "A romterületet a 19. században Peter Joseph Lenné tervei alapján parkká alakították.",
+      "Nyáron a rom a népszerű \'Eldenaer Jazz Evenings\' (Eldenai Jazz Estek) rendezvényhelyszíne."
+    ],
       ro: [],
       en: []
     },
@@ -477,21 +585,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Lake Schwerin covers approximately 61 km².", "On one of its islands stands the famous Schwerin Castle.", "The lake is a popular area for water sports and leisure activities."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Schweriner See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schweriner See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Schweriner See ist mit einer Fläche von 61,5 Quadratkilometern der viertgrößte See Deutschlands und das landschaftliche Herzstück der Landeshauptstadt Schwerin. Das eiszeitlich geprägte Gewässer in der westlichen Mecklenburgischen Seenplatte gliedert sich in einen tieferen Innensee und einen flacheren Außensee, getrennt durch den Paulsdamm. Der See ist bekannt für seine hervorragende Wasserqualität und seine vielfältige Flora und Fauna, weshalb große Teile als Vogelschutzgebiet ausgewiesen sind. Touristisch und kulturell ist der See von unschätzbarem Wert: Er bietet ideale Bedingungen für Segler, Surfer und Angler. Das absolute Highlight ist das Schweriner Schloss, das auf einer Insel direkt im See liegt und ein unvergleichliches Fotomotiv bietet. Darüber hinaus verbindet der Störkanal den See mit der Elde, wodurch ein direkter Wasserweg bis zur Elbe und zur Nordsee entsteht.",
+      hu: "A Schwerini-tó 61,5 négyzetkilométeres területével Németország negyedik legnagyobb tava, és a tartományi főváros, Schwerin tájképi központja. A nyugat-mecklenburgi tóvidék jégkorszaki eredetű vízfelülete egy mélyebb belső tóra és egy sekélyebb külső tóra tagolódik, amelyeket a Paulsdamm választ el egymástól. A tó kiváló vízminőségéről, valamint változatos növény- és állatvilágáról ismert, ezért jelentős része madárvédelmi területként van nyilvántartva. Turisztikai és kulturális szempontból a tó felbecsülhetetlen értékű: ideális körülményeket kínál a vitorlázók, szörfösök és horgászok számára. Az abszolút fénypont a schwerini kastély, amely közvetlenül a tó egyik szigetén fekszik, és páratlan fotótémát nyújt. Ezenkívül a Stör-csatorna összeköti a tavat az Elde folyóval, közvetlen vízi utat teremtve az Elbához és az Északi-tengerhez.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Schweriner See ist der viertgrößte natürliche See in Deutschland.",
+      "Er hat eine maximale Tiefe von beeindruckenden 52,4 Metern im Innensee.",
+      "In der Mitte des Sees verläuft der künstlich angelegte Paulsdamm, der den See in zwei Teile teilt.",
+      "Die Inseln im See, wie Kaninchenwerder und Ziegelwerder, stehen unter Naturschutz.",
+      "Das Gewässer ist ein Überbleibsel der Weichsel-Kaltzeit vor etwa 12.000 Jahren.",
+      "Der Schweriner See gehört zur Bundeswasserstraße Stör-Wasserstraße.",
+      "Die Personenschifffahrt auf dem See hat eine lange Tradition, die \'Weiße Flotte\' ist sehr beliebt."
+    ],
       hu: [
-        "A(z) Schweriner See területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schweriner See tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Schwerini-tó Németország negyedik legnagyobb természetes tava.",
+      "Legnagyobb mélysége a belső tóban eléri a lenyűgöző 52,4 métert.",
+      "A tó közepén húzódik a mesterségesen létrehozott Paulsdamm, amely két részre osztja a tavat.",
+      "A tó szigetei, mint például Kaninchenwerder és Ziegelwerder, természetvédelem alatt állnak.",
+      "A víztömeg a körülbelül 12 000 évvel ezelőtti Weichsel-jégkorszak (visztulai eljegesedés) maradványa.",
+      "A Schwerini-tó a Stör szövetségi vízi út része.",
+      "A tó személyhajózása hosszú hagyományokra tekint vissza, a \'Weiße Flotte\' (Fehér Flotta) nagyon népszerű."
+    ],
       ro: [],
       en: []
     },
@@ -515,21 +632,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The town wall with four gate towers is almost entirely intact.", "The city is situated directly on Lake Tollense.", "Founded in 1248, it was a significant medieval trading town."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Neubrandenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neubrandenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Neubrandenburg, idyllisch am nördlichen Ufer des Tollensesees in der Mecklenburgischen Seenplatte gelegen, trägt stolz den Beinamen 'Stadt der Vier Tore'. Die 1248 gegründete Stadt ist berühmt für ihre nahezu vollständig erhaltene, kreisförmige mittelalterliche Stadtmauer, die eine Länge von über 2,3 Kilometern aufweist. Eingebettet in diese historische Wehranlage sind vier prachtvolle, gotische Backsteintore aus dem 14. und 15. Jahrhundert – das Friedländer, Stargarder, Treptower und Neue Tor. Obwohl das Stadtzentrum am Ende des Zweiten Weltkriegs schwer zerstört wurde, konnte die Backsteingotik in weiten Teilen gerettet oder restauriert werden. Ein herausragendes Beispiel hierfür ist die Konzertkirche (ehemals Marienkirche), die heute für ihre fantastische Akustik weltweit geschätzt wird. Neubrandenburg ist nicht nur ein historisches Kleinod, sondern auch das wirtschaftliche und kulturelle Zentrum der Region.",
+      hu: "A Mecklenburgi-tóvidéken, a Tollensesee északi partján idillikus környezetben fekvő Neubrandenburg büszkén viseli a 'Négy Kapu Városa' becenevet. Az 1248-ban alapított város híres a szinte teljes épségben megmaradt, körkörös középkori városfaláról, amely több mint 2,3 kilométer hosszú. Ebbe a történelmi erődítményrendszerbe ágyazódik be négy pompás, a 14. és 15. századból származó gótikus téglakapu – a Friedlandi, a Stargardi, a Treptowi és az Új kapu (Neue Tor). Bár a városközpont a második világháború végén súlyosan megrongálódott, a téglagótikát nagyrészt sikerült megmenteni vagy helyreállítani. Ennek kiemelkedő példája a Konzertkirche (egykor Mária-templom), amelyet ma fantasztikus akusztikája miatt világszerte elismernek. Neubrandenburg nemcsak történelmi gyöngyszem, hanem a régió gazdasági és kulturális központja is.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Die historische Stadtmauer von Neubrandenburg ist 2.300 Meter lang und noch fast komplett erhalten.",
+      "Die vier markanten Backsteintore brachten der Stadt den Namen \'Stadt der Vier Tore\' ein.",
+      "Neubrandenburg wurde 1248 durch den Markgrafen Johann I. von Brandenburg gegründet.",
+      "In die historische Marienkirche wurde ein hochmoderner Konzertsaal von einem finnischen Architekten eingebaut.",
+      "Der benachbarte Tollensesee ist 10 Kilometer lang und ein beliebtes Naherholungsgebiet.",
+      "In den Wehranlagen der Stadtmauer sind historische Fachwerkhäuser, die \'Wiekhäuser\', integriert.",
+      "Die Stadt ist das wirtschaftliche Oberzentrum der Mecklenburgischen Seenplatte."
+    ],
       hu: [
-        "A(z) Neubrandenburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Neubrandenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Neubrandenburg történelmi városfala 2300 méter hosszú, és szinte teljesen épen maradt.",
+      "A négy jellegzetes téglakapu miatt kapta a \'Négy Kapu Városa\' nevet.",
+      "Neubrandenburgot 1248-ban alapította I. János brandenburgi őrgróf.",
+      "A történelmi Mária-templomba egy finn építész egy ultramodern koncerttermet épített be.",
+      "A szomszédos Tollensesee 10 kilométer hosszú, és egy népszerű helyi rekreációs terület.",
+      "A városfal erődítményeibe történelmi favázas házak, az úgynevezett \'Wiekhäuser\'-ek épültek be.",
+      "A város a Mecklenburgi-tóvidék gazdasági központja."
+    ],
       ro: [],
       en: []
     },
@@ -553,21 +679,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Over 60,000 cranes rest in the region each year.", "The crane migration season lasts from October to November.", "Nearby Lake Linum is one of the largest crane roosting sites in Europe."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Kranich-Rastplätze Mecklenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kranich-Rastplätze Mecklenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Die seichten Boddengewässer und weiten Felder in Mecklenburg-Vorpommern, insbesondere in der Nationalparkregion Vorpommersche Boddenlandschaft, sind Europas wichtigster Rastplatz für Graukraniche. Jedes Jahr im Herbst, von September bis November, verwandelt sich die Region in eine Bühne für eines der beeindruckendsten Naturschauspiele des Kontinents. Bis zu 70.000 Kraniche aus Skandinavien, dem Baltikum und Osteuropa legen hier auf ihrem Weg in die südlichen Winterquartiere eine mehrwöchige Pause ein. Tagsüber suchen die eleganten, bis zu 1,30 Meter großen Vögel auf den abgeernteten Mais- und Getreidefeldern nach Nahrung. In der Abenddämmerung fliegen sie in großen Schwärmen, begleitet von ihren typischen trompetenartigen Rufen, zu ihren sicheren Schlafplätzen in die knietiefen Gewässer. Dieses faszinierende Phänomen zieht jährlich zehntausende Naturbeobachter und Fotografen an, die das Schauspiel von speziellen Beobachtungsstationen aus bewundern.",
+      hu: "Mecklenburg-Elő-Pomeránia sekély boddeni vizei és tágas mezői, különösen az Elő-pomerániai Bodden-táj Nemzeti Park régiójában, a szürke darvak legfontosabb európai pihenőhelyei. Minden év őszén, szeptembertől novemberig a régió a kontinens egyik leglenyűgözőbb természeti látványosságának színpadává válik. Skandináviából, a balti államokból és Kelet-Európából akár 70 000 daru is megpihen itt több hétre, útban a déli telelőhelyek felé. Napközben az elegáns, akár 1,30 méter magas madarak a learatott kukorica- és gabonaföldeken keresnek táplálékot. Alkonyatkor hatalmas csapatokban, jellegzetes trombitaszerű hangjuk kíséretében repülnek a biztonságos, térdig érő vizekben lévő alvóhelyeikre. Ez a lenyűgöző jelenség évente több tízezer természetmegfigyelőt és fotóst vonz, akik speciális megfigyelőállomásokról csodálják a látványt.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "In der Vorpommerschen Boddenlandschaft rasten im Herbst bis zu 70.000 Graukraniche gleichzeitig.",
+      "Die Kraniche nutzen die flachen Gewässer (Bodden) als Schutz vor Raubtieren wie Füchsen.",
+      "Ein Graukranich hat eine Flügelspannweite von über zwei Metern.",
+      "Das Kranich-Informationszentrum in Groß Mohrdorf widmet sich dem Schutz und der Erforschung der Vögel.",
+      "Tagsüber fressen die Vögel auf den Feldern bis zu 300 Gramm Getreide und Mais, um Energiereserven aufzubauen.",
+      "Der charakteristische, laute Ruf der Kraniche wird durch eine extrem lange, gewundene Luftröhre erzeugt.",
+      "Die Vögel fliegen von hier aus oft in einem Non-Stop-Flug bis nach Spanien oder Nordafrika."
+    ],
       hu: [
-        "A(z) Kranich-Rastplätze Mecklenburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Kranich-Rastplätze Mecklenburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Az Elő-pomerániai Bodden-tájon ősszel akár 70 000 szürke daru is pihenhet egyszerre.",
+      "A darvak a sekély vizeket (boddeneket) használják védelemként a ragadozók, például a rókák ellen.",
+      "A szürke daru szárnyfesztávolsága meghaladja a két métert.",
+      "A Groß Mohrdorf-i Daru Információs Központ a madarak védelmének és kutatásának szenteli magát.",
+      "Napközben a madarak akár 300 gramm gabonát és kukoricát is megesznek a földeken, hogy energiatartalékokat halmozzanak fel.",
+      "A darvak jellegzetes, hangos kiáltását a rendkívül hosszú, kanyargós légcső hozza létre.",
+      "A madarak innen gyakran megállás nélkül repülnek egészen Spanyolországig vagy Észak-Afrikáig."
+    ],
       ro: [],
       en: []
     },
@@ -593,21 +728,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Kiel Week (Kieler Woche) is the world's largest sailing event.", "The Kiel Canal begins in Kiel.", "Kiel is the home port of the German Navy."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Kiel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kiel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Kiel, die maritime Landeshauptstadt von Schleswig-Holstein, liegt an der tief ins Land einschneidenden Kieler Förde, einer Bucht der Ostsee. Im Jahr 1242 gegründet, wuchs die Stadt vor allem durch ihre strategisch günstige Lage und wurde im 19. Jahrhundert zum wichtigsten Reichskriegshafen Deutschlands ausgebaut. Heute ist Kiel das wirtschaftliche und politische Zentrum des nördlichsten Bundeslandes, geprägt von Werften, Hafenanlagen und der rennomierten Christian-Albrechts-Universität (gegründet 1665). Weltweite Bekanntheit genießt die Stadt durch die Kieler Woche, das größte Segelsportereignis der Welt und gleichzeitig ein riesiges Sommerfest, das jährlich Millionen Besucher anzieht. Ein weiteres Highlight ist der Nord-Ostsee-Kanal, die meistbefahrene künstliche Wasserstraße der Erde, der im Kieler Stadtteil Holtenau in die Ostsee mündet und der Stadt ihren internationalen maritimen Charakter verleiht.",
+      hu: "Kiel, Schleswig-Holstein tengeri tartományi fővárosa, a szárazföldbe mélyen benyúló Kieli-öbölben, a Balti-tenger partján fekszik. Az 1242-ben alapított város elsősorban stratégiailag kedvező fekvésének köszönhetően növekedett, a 19. században pedig Németország legfontosabb birodalmi hadikikötőjévé fejlesztették. Ma Kiel a legészakibb szövetségi tartomány gazdasági és politikai központja, amelyet hajógyárak, kikötői létesítmények és a neves Christian-Albrecht Egyetem (alapítva 1665) jellemeznek. A város a világ legnagyobb vitorlás sporteseményéről, a Kieli Hétről (Kieler Woche) világhírű, amely egyben egy hatalmas nyári fesztivál is, és évente több millió látogatót vonz. További fénypont az Északi-tenger–Balti-tenger-csatorna (Nord-Ostsee-Kanal), a világ legforgalmasabb mesterséges vízi útja, amely a kieli Holtenau városrészben torkollik a Balti-tengerbe, és nemzetközi tengeri karaktert kölcsönöz a városnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Kiel ist die nördlichste Großstadt in Deutschland mit rund 246.000 Einwohnern.",
+      "Die Kieler Woche findet jährlich im Juni statt und ist das größte Segelsportereignis der Welt.",
+      "In Kiel endet der Nord-Ostsee-Kanal, der die Nordsee mit der Ostsee verbindet.",
+      "Die Christian-Albrechts-Universität zu Kiel wurde 1665 gegründet.",
+      "Der Kieler Matrosenaufstand 1918 war der Ausgangspunkt für die Novemberrevolution in Deutschland.",
+      "Kiel ist der Stützpunkt der Einsatzflottille 1 der Deutschen Marine.",
+      "Das Segelschulschiff \'Gorch Fock\' hat seinen Heimathafen in Kiel."
+    ],
       hu: [
-        "A(z) Kiel területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Kiel tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Kiel Németország legészakibb nagyvárosa, mintegy 246 000 lakossal.",
+      "A Kieli Hetet minden év júniusában rendezik meg, és ez a világ legnagyobb vitorlás sporteseménye.",
+      "Kielben ér véget az Északi-tenger–Balti-tenger-csatorna, amely az Északi-tengert köti össze a Balti-tengerrel.",
+      "A kieli Christian-Albrecht Egyetemet 1665-ben alapították.",
+      "Az 1918-as kieli matrózlázadás volt a németországi novemberi forradalom kiindulópontja.",
+      "Kiel a német haditengerészet 1-es bevetési flottillájának bázisa.",
+      "A \'Gorch Fock\' kiképző vitorláshajó honos kikötője Kielben található."
+    ],
       ro: [],
       en: []
     },
@@ -631,21 +775,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Lübeck's old town has been a UNESCO World Heritage site since 1987.", "Lübeck is famous for its marzipan.", "Thomas Mann and his family came from Lübeck."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "Lübeck város Észak-Németországban. Schleswig-Holstein szövetségi tartomány második legnagyobb városa. Évszázadokig a Hanza-szövetség központja volt, és építészeti hagyatéka miatt a világörökség része. A(z) Lübeck egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      de: "Lübeck, die traditionsreiche 'Königin der Hanse', ist eine der faszinierendsten historischen Städte Norddeutschlands und liegt an der schiffbaren Trave in Schleswig-Holstein. Als langjähriges Haupt der mächtigen Hanse erlangte die Stadt im Mittelalter enormen Reichtum und politische Bedeutung. Die fast vollständig von Wasser umschlossene historische Altstadt auf der Altstadtinsel zeugt bis heute von dieser glanzvollen Epoche und wurde 1987 aufgrund ihrer hervorragend erhaltenen Backsteingotik als erstes Flächendenkmal in Nordeuropa in die UNESCO-Welterbeliste aufgenommen. Weltberühmt ist das Holstentor, ein wehrhaftes Stadttor aus dem 15. Jahrhundert, das zum Wahrzeichen der Stadt wurde. Das Stadtbild wird zudem geprägt durch die beeindruckenden sieben Kirchtürme, versteckte Gänge und historische Kaufmannshäuser. Ein kulinarisches Erbe von Weltrang ist das berühmte Lübecker Marzipan, das seit Jahrhunderten in höchster Qualität hergestellt wird.",
+      hu: "Lübeck, a nagy hagyományokkal rendelkező 'Hanza királynője' Észak-Németország egyik leglenyűgözőbb történelmi városa, amely a hajózható Trave folyó partján, Schleswig-Holsteinben fekszik. A hatalmas Hanza-szövetség hosszú ideig tartó vezetőjeként a város a középkorban hatalmas gazdagságra és politikai jelentőségre tett szert. Az óvárosi szigeten található, szinte teljesen vízzel körülvett történelmi városközpont a mai napig erről a dicsőséges korszakról tanúskodik. Kiváló állapotban fennmaradt téglagótikus építészetének köszönhetően 1987-ben Észak-Európában elsőként vették fel egybefüggő műemlékként az UNESCO világörökségi listájára. Világhírű a Holstentor, egy 15. századi masszív városkapu, amely a város jelképévé vált. A városképet ezenkívül a hét lenyűgöző templomtorony, a rejtett átjárók és a történelmi kereskedőházak határozzák meg. Világszínvonalú kulináris örökség a híres lübecki marcipán, amelyet évszázadok óta a legmagasabb minőségben készítenek.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Lübeck war über Jahrhunderte die wichtigste Stadt und das Zentrum der Hanse.",
+      "Die gesamte historische Altstadtinsel ist seit 1987 UNESCO-Weltkulturerbe.",
+      "Die Marienkirche in Lübeck gilt als die \'Mutterkirche der Backsteingotik\' im Ostseeraum.",
+      "Drei Literaturnobelpreisträger sind eng mit Lübeck verbunden: Thomas Mann, Willy Brandt und Günter Grass.",
+      "Das berühmte Holstentor war auf dem deutschen 50-DM-Schein abgebildet.",
+      "Niederegger ist der bekannteste Hersteller des originalen Lübecker Marzipans.",
+      "Travemünde, ein Stadtteil von Lübeck, ist eines der ältesten und traditionellsten Seebäder Deutschlands."
+    ],
       hu: [
-        "A(z) Lübeck területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Lübeck tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Lübeck évszázadokon át a Hanza legfontosabb városa és központja volt.",
+      "A teljes történelmi óvárosi sziget 1987 óta az UNESCO világörökség része.",
+      "A lübecki Mária-templomot a balti-tengeri térség \'téglagótikájának anyatemplomaként\' tartják számon.",
+      "Három irodalmi Nobel-díjas áll szoros kapcsolatban Lübeckkel: Thomas Mann, Willy Brandt és Günter Grass.",
+      "A híres Holstentor a német 50 márkás bankjegyen is szerepelt.",
+      "A Niederegger az eredeti lübecki marcipán legismertebb gyártója.",
+      "Travemünde, Lübeck egyik városrésze, Németország egyik legrégebbi és leghagyományosabb tengerparti üdülőhelye."
+    ],
       ro: [],
       en: []
     },
@@ -669,21 +822,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Sylt is known for its white sandy beaches and the Wadden Sea.", "Westerland is the centre of the island.", "The island is connected to the mainland by the Hindenburg Causeway."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Sylt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sylt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Sylt ist die größte der Nordfriesischen Inseln und zweifellos das bekannteste und exklusivste Seebad an der deutschen Nordseeküste. Bekannt für ihre unverwechselbare, langgestreckte Form erstreckt sich die Insel über fast 40 Kilometer vor der Küste Schleswig-Holsteins und ist über den 11 Kilometer langen Hindenburgdamm mit dem Festland verbunden. Sylt fasziniert durch extreme landschaftliche Kontraste: Im Westen brandet die raue Nordsee an den fast 40 Kilometer langen, feinsandigen Strand, während sich im Osten die ruhige, dem Gezeitenwechsel unterworfene Wattenmeer-Landschaft (ein UNESCO-Weltnaturerbe) ausbreitet. Neben der unberührten Natur mit ihren majestätischen Dünenlandschaften, wie den berühmten Wanderdünen bei List, ist Sylt auch berühmt für mondäne Orte wie Kampen und Westerland, die Prominenz und wohlhabende Touristen anziehen. Die Reetdachhäuser in Kapitänsdörfern wie Keitum unterstreichen den charmanten, friesischen Charakter der Insel.",
+      hu: "Sylt a legnagyobb az Észak-fríz-szigetek közül, és kétségtelenül a legismertebb és legexkluzívabb tengerparti üdülőhely a német Északi-tenger partján. A jellegzetes, elnyújtott formájáról ismert sziget csaknem 40 kilométer hosszan nyúlik el Schleswig-Holstein partjai előtt, és a 11 kilométer hosszú Hindenburgdamm köti össze a szárazfölddel. Sylt szélsőséges táji kontrasztjaival nyűgözi le a látogatókat: nyugaton a zord Északi-tenger hullámai mossák a majdnem 40 kilométer hosszú finom homokos strandot, míg keleten a nyugodt, az árapály váltakozásának kitett Watt-tengeri táj (az UNESCO világörökség része) terül el. Az érintetlen természet és a fenséges dűnék, mint például a híres listi vándordűnék mellett Sylt olyan elegáns településekről is híres, mint Kampen és Westerland, amelyek a hírességeket és a tehetős turistákat vonzzák. Az olyan kapitányfalvak nádfedeles házai, mint Keitum, kiemelik a sziget elbűvölő fríz karakterét.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Sylt ist mit 99 Quadratkilometern die viertgrößte Insel Deutschlands.",
+      "Der Hindenburgdamm verbindet Sylt seit 1927 mit dem Festland; er wird nur vom Zugverkehr genutzt.",
+      "An der Westküste gibt es einen durchgehenden Sandstrand von knapp 40 Kilometern Länge.",
+      "Die Uwe-Düne in Kampen ist mit 52,5 Metern die höchste natürliche Erhebung der Insel.",
+      "Der Lister Ellenbogen im Norden beherbergt die einzige echte Wanderdüne Deutschlands.",
+      "Die Insel ist stark von Küstenerosion bedroht, weshalb jährlich Millionen Kubikmeter Sand aufgespült werden.",
+      "In List befindet sich die nördlichste Gemeinde und der nördlichste Punkt Deutschlands."
+    ],
       hu: [
-        "A(z) Sylt területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Sylt tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Sylt a maga 99 négyzetkilométerével Németország negyedik legnagyobb szigete.",
+      "A Hindenburgdamm 1927 óta köti össze Syltet a szárazfölddel; kizárólag vonatok közlekednek rajta.",
+      "A nyugati parton egy közel 40 kilométer hosszú, egybefüggő homokos strand található.",
+      "A kampeni Uwe-dűne 52,5 méteres magasságával a sziget legmagasabb természetes kiemelkedése.",
+      "Az északon található Lister Ellenbogen ad otthont Németország egyetlen valódi vándordűnéjének.",
+      "A szigetet erősen fenyegeti a part menti erózió, ezért évente több millió köbméter homokot töltenek fel a partokra.",
+      "Listben található Németország legészakibb települése és legészakibb pontja."
+    ],
       ro: [],
       en: []
     },
@@ -707,21 +869,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Eider is approximately 188 km long.", "The Eider Barrage protects the coast from storm surges.", "Historically, the Eider formed the border between the Holy Roman Empire and Denmark."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Eider egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eider ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Die Eider ist mit 188 Kilometern der längste Fluss Schleswig-Holsteins und ein Gewässer von immenser historischer und landschaftlicher Bedeutung. Sie entspringt südlich von Kiel in der Nähe von Bordesholm, schlängelt sich quer durch das Bundesland und mündet bei Tönning im Westen in die Nordsee. Historisch gesehen bildete die Eider über viele Jahrhunderte die natürliche und politische Grenze zwischen den Herzogtümern Schleswig und Holstein und somit zeitweise zwischen dem dänischen Königreich und dem Römisch-Deutschen Reich. Um die gefährlichen Sturmfluten der Nordsee abzuwehren, wurde an der Mündung das Eidersperrwerk errichtet, eines der gewaltigsten Küstenschutzbauwerke Europas. Heute ist die idyllische, teils unberührte Flusslandschaft ein Paradies für Wasserwanderer, Angler und Naturliebhaber. Der Flusslauf durchquert zudem die flache und grüne Marschlandschaft Eiderstedt.",
+      hu: "A 188 kilométer hosszú Eider Schleswig-Holstein leghosszabb folyója, és óriási történelmi és tájképi jelentőséggel bír. Kieltől délre, Bordesholm közelében ered, átszeli a szövetségi tartományt, majd nyugaton, Tönningnél az Északi-tengerbe torkollik. Történelmi szempontból az Eider évszázadokon át természetes és politikai határt képezett Schleswig és Holstein hercegségei között, így időnként a Dán Királyság és a Német-római Birodalom között is. Az Északi-tenger veszélyes vihardagályainak elhárítása érdekében a torkolatnál épült meg az Eider-gát (Eidersperrwerk), amely Európa egyik leghatalmasabb partvédelmi építménye. Ma az idilli, részben érintetlen folyóparti táj a vízi túrázók, horgászok és természetkedvelők paradicsoma. A folyó emellett átszeli az Eiderstedt sík és zöld mocsárvidékét.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Die Eider ist mit rund 188 Kilometern der längste Fluss in Schleswig-Holstein.",
+      "Historisch war die Eider die Grenze zwischen dem Heiligen Römischen Reich und Dänemark.",
+      "Das Eidersperrwerk wurde 1973 fertiggestellt und ist das größte Küstenschutzbauwerk Deutschlands.",
+      "Teile der Eider wurden im 18. Jahrhundert in den Schleswig-Holsteinischen Kanal (Eiderkanal) integriert.",
+      "Der Unterlauf der Eider ist stark von den Gezeiten der Nordsee geprägt.",
+      "Im Mündungsgebiet befindet sich das Naturschutzgebiet Katinger Watt, das ein wichtiges Vogelbrutgebiet ist.",
+      "Die Flusslandschaft Eider-Treene-Sorge ist die größte Flussniederung in Schleswig-Holstein."
+    ],
       hu: [
-        "A(z) Eider területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Eider tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Az Eider mintegy 188 kilométerével Schleswig-Holstein leghosszabb folyója.",
+      "Történelmileg az Eider volt a határ a Német-római Birodalom és Dánia között.",
+      "Az Eider-gát 1973-ban készült el, és ez Németország legnagyobb partvédelmi építménye.",
+      "A 18. században az Eider egyes részeit integrálták a Schleswig-Holstein-csatornába (Eider-csatornába).",
+      "Az Eider alsó folyására erős hatással vannak az Északi-tenger árapályjelenségei.",
+      "A torkolatvidéken található a Katinger Watt természetvédelmi terület, amely fontos madárköltő hely.",
+      "Az Eider-Treene-Sorge folyóvidék a legnagyobb ártéri terület Schleswig-Holsteinben."
+    ],
       ro: [],
       en: []
     },
@@ -745,21 +916,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The canal is 98 km long and was inaugurated in 1895.", "More than 30,000 ships pass through the canal annually.", "It saves ships the long detour around the Jutland Peninsula."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Nord-Ostsee-Kanal egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nord-Ostsee-Kanal ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Nord-Ostsee-Kanal (international Kiel Canal genannt) ist eines der beeindruckendsten technischen Meisterwerke Norddeutschlands und die meistbefahrene künstliche Wasserstraße der Welt. Auf einer Länge von rund 98 Kilometern zerschneidet der Kanal das Bundesland Schleswig-Holstein und verbindet die Elbmündung bei Brunsbüttel an der Nordsee mit der Kieler Förde an der Ostsee. Der Bau, der 1895 unter Kaiser Wilhelm II. abgeschlossen wurde, revolutionierte die Schifffahrt, da er den Schiffen den gefährlichen und weitaus längeren Umweg um die dänische Halbinsel Jütland (Skagerrak) ersparte (Ersparnis von etwa 460 Kilometern). Die Durchfahrt durch die landwirtschaftlich geprägte und flache Geest- und Marschlandschaft ist ein spektakuläres Erlebnis, besonders wenn riesige Containerschiffe scheinbar durch grüne Wiesen gleiten. Entlang des Kanals gibt es gut ausgebaute Radwege, die die technische Faszination der Schleusenanlagen mit purer Natur verbinden.",
+      hu: "Az Északi-tenger–Balti-tenger-csatorna (nemzetközileg Kieli-csatorna néven ismert) Észak-Németország egyik leglenyűgözőbb mérnöki remekműve, és a világ legforgalmasabb mesterséges vízi útja. A mintegy 98 kilométer hosszú csatorna átszeli Schleswig-Holstein szövetségi tartományt, és összeköti az Északi-tengeren fekvő Brunsbüttel melletti Elba-torkolatot a Balti-tengeren található Kieli-öböllel. Az 1895-ben, II. Vilmos császár uralkodása alatt befejezett építkezés forradalmasította a hajózást, mivel megkímélte a hajókat a dán Jylland-félsziget (Skagerrak) megkerülésével járó veszélyes és sokkal hosszabb kitérőtől (mintegy 460 kilométeres megtakarítás). A mezőgazdasági jellegű, sík geest- és mocsárvidéken való áthaladás látványos élmény, különösen, amikor a hatalmas konténerszállító hajók látszólag a zöld réteken siklanak keresztül. A csatorna mentén jól kiépített kerékpárutak találhatók, amelyek a zsiliprendszerek technikai varázsát a tiszta természettel ötvözik.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Nord-Ostsee-Kanal ist fast 100 Kilometer lang und wurde am 21. Juni 1895 eröffnet.",
+      "Er ist die meistbefahrene künstliche Seeschifffahrtsstraße der Welt (nach Anzahl der Schiffe).",
+      "Durch die Nutzung des Kanals sparen Schiffe etwa 460 Kilometer im Vergleich zur Route um Skagen.",
+      "An beiden Enden in Kiel-Holtenau und Brunsbüttel befinden sich riesige Doppelschleusen.",
+      "In Rendsburg überquert die imposante Rendsburger Hochbrücke (eine Eisenbahnbrücke mit Schwebefähre) den Kanal.",
+      "Der Kanal hieß ursprünglich \'Kaiser-Wilhelm-Kanal\' und wurde nach dem Ersten Weltkrieg umbenannt.",
+      "Zehntausende Schiffe, von Sportbooten bis zu großen Containerschiffen, passieren den Kanal jedes Jahr."
+    ],
       hu: [
-        "A(z) Nord-Ostsee-Kanal területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Nord-Ostsee-Kanal tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Az Északi-tenger–Balti-tenger-csatorna majdnem 100 kilométer hosszú, és 1895. június 21-én nyitották meg.",
+      "A hajók számát tekintve ez a világ legforgalmasabb mesterséges tengeri útvonala.",
+      "A csatorna használatával a hajók mintegy 460 kilométert takarítanak meg a Skagen megkerülésével járó útvonalhoz képest.",
+      "Kiel-Holtenaunál és Brunsbüttelnél, a csatorna két végén hatalmas ikerzsilipek találhatók.",
+      "Rendsburgban az impozáns Rendsburgi Magashíd (egy lebegő komppal ellátott vasúti híd) ível át a csatornán.",
+      "A csatorna eredeti neve \'Kaiser-Wilhelm-Kanal\' volt, az első világháború után nevezték át.",
+      "Évente hajók tízezrei haladnak át a csatornán, a kedvtelési célú kishajóktól a nagy konténerszállítókig."
+    ],
       ro: [],
       en: []
     },
@@ -783,21 +963,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The cathedral was built between 1100 and 1894.", "The Bordesholm Altarpiece by Hans Brüggemann is considered a masterpiece of carved art.", "Schleswig was the residence city of the Dukes of Schleswig-Holstein."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Schleswig Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schleswig Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Schleswiger Dom, offiziell St. Petri-Dom zu Schleswig, ist eines der bedeutendsten Bauwerke der norddeutschen Backsteingotik und thront majestätisch über der Schlei. Der im 11. Jahrhundert begonnene Bau spiegelt eine über 800-jährige Bau- und Kunstgeschichte wider, von romanischen Anfängen bis zur spätgotischen Vollendung. Weltberühmt ist der Dom vor allem für den Bordesholmer Altar, ein monumentales, filigran geschnitztes Meisterwerk aus Eichenholz, das der Künstler Hans Brüggemann im Jahr 1521 vollendete und das 392 Figuren umfasst. Das Bauwerk beherbergt zudem prächtige Grabmäler der dänischen Könige und der schleswig-holsteinischen Herzöge. Der markante, 112 Meter hohe neugotische Westturm wurde erst Ende des 19. Jahrhunderts hinzugefügt und bietet einen weiten Blick über die historische Herzogsstadt und die malerische Schleilandschaft.",
+      hu: "A schleswigi dóm, hivatalos nevén Schleswigi Szent Péter-dóm, az észak-német téglagótika egyik legjelentősebb építménye, amely fenségesen magasodik a Schlei fölé. A 11. században megkezdett építkezés több mint 800 év építészeti és művészettörténetét tükrözi, a román kori kezdetektől a késő gótikus befejezésig. A dóm világhírű elsősorban a bordesholmi oltárról: ez egy monumentális, aprólékosan faragott tölgyfa remekmű, amelyet Hans Brüggemann művész 1521-ben fejezett be, és amely 392 alakot tartalmaz. Az épület emellett dán királyok és schleswig-holsteini hercegek pompás síremlékeinek ad otthont. A jellegzetes, 112 méter magas neogótikus nyugati tornyot csak a 19. század végén építették hozzá, és messzire nyúló kilátást nyújt a történelmi hercegi városra és a festői Schlei tájára.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der erste Bau des Doms geht auf das Jahr 1134 zurück.",
+      "Der berühmte Bordesholmer Altar ist über 12 Meter hoch und besteht aus Eichenholz.",
+      "Der 112 Meter hohe Turm wurde erst im Jahr 1894 unter Kaiser Wilhelm II. vollendet.",
+      "Im Dom befindet sich das prunkvolle Grabmal des dänischen Königs Friedrich I.",
+      "Der Kreuzgang des Doms, der sogenannte Schwahl, ist für seine mittelalterlichen Wandmalereien bekannt.",
+      "Die Domorgel verfügt über fast 4.000 Pfeifen und gehört zu den besten Norddeutschlands.",
+      "Der Dom liegt am Ende der Schlei, einem 42 Kilometer langen Meeresarm der Ostsee."
+    ],
       hu: [
-        "A(z) Schleswig Dom területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schleswig Dom tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A dóm első épülete 1134-re nyúlik vissza.",
+      "A híres bordesholmi oltár több mint 12 méter magas és tölgyfából készült.",
+      "A 112 méter magas tornyot csak 1894-ben, II. Vilmos császár uralkodása alatt fejezték be.",
+      "A dómban található I. Frigyes dán király pompás síremléke.",
+      "A dóm kerengője, az úgynevezett Schwahl, középkori falfestményeiről ismert.",
+      "A dóm orgonája közel 4000 síppal rendelkezik, és Észak-Németország legjobbjai közé tartozik.",
+      "A dóm a Schlei, egy 42 kilométer hosszú balti-tengeri öböl végén található."
+    ],
       ro: [],
       en: []
     },
@@ -821,21 +1010,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Holstentor was built in 1478.", "Until 1975 it appeared on the 50-Mark banknote.", "The gate leans noticeably to the side because it was built on soft ground."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Holstentor Lübeck egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Holstentor Lübeck ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Das Holstentor in Lübeck ist nicht nur das Wahrzeichen der Hansestadt, sondern eines der bekanntesten deutschen Baudenkmäler überhaupt. Erbaut zwischen 1464 und 1478 im Stil der Spätgotik, diente es sowohl als wehrhaftes Stadttor zur Verteidigung als auch als repräsentatives Symbol für den Reichtum und die Unabhängigkeit der reichen Kaufmannsstadt. Die markante Architektur mit den zwei massiven, runden Flankentürmen und dem Giebelmittelbau beeindruckt durch ihre gewaltige Ziegelfassade. Über dem Torbogen prangt in goldenen Lettern der lateinische Leitspruch der Hanse: 'Concordia domi foris pax' (Eintracht drinnen, Frieden draußen). Aufgrund des sumpfigen Untergrunds neigten sich die Türme über die Jahrhunderte bedrohlich nach innen, was heute den besonderen Charme des Bauwerks ausmacht. Im Inneren beherbergt das Tor heute das stadtgeschichtliche Museum Lübecks.",
+      hu: "A lübecki Holstentor nemcsak a Hanza-város jelképe, hanem az egyik legismertebb német műemlék. Az 1464 és 1478 között késő gótikus stílusban épült kapu egyszerre szolgált védelmi célokat erős városkapuként, és reprezentatív szimbóluma volt a gazdag kereskedőváros jólétének és függetlenségének. A jellegzetes építészet a két masszív, kerek oldaltoronnyal és az oromzatos középső épülettel hatalmas téglafalazatával nyűgöz le. A kapuív felett arany betűkkel a Hanza-szövetség latin mottója díszeleg: 'Concordia domi foris pax' (Befelé egyetértés, kifelé béke). A mocsaras altalaj miatt a tornyok az évszázadok során fenyegetően befelé dőltek, ami ma az épület különleges varázsát adja. A kapu belsejében ma Lübeck várostörténeti múzeuma található.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Das Holstentor war von 1990 bis 2001 auf dem 50-D-Mark-Schein der Bundesbank abgebildet.",
+      "Die Mauern der Türme sind an einigen Stellen bis zu 3,50 Meter dick.",
+      "Das Gebäude wurde zwischen 1464 und 1478 von dem Lübecker Ratsbaumeister Hinrich Helmstede errichtet.",
+      "Die lateinische Inschrift \'Concordia domi foris pax\' wurde erst 1871 hinzugefügt.",
+      "Aufgrund des weichen Bodens neigen sich die Türme; die Sinktiefe beträgt fast 50 Zentimeter.",
+      "Das Tor ist Teil der Lübecker Stadtbefestigung, die aus ursprünglich vier hintereinander liegenden Toren bestand.",
+      "Das Holstentor ist, wie die gesamte Lübecker Altstadt, seit 1987 UNESCO-Weltkulturerbe."
+    ],
       hu: [
-        "A(z) Holstentor Lübeck területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Holstentor Lübeck tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Holstentor 1990 és 2001 között a német jegybank 50 márkás bankjegyén is szerepelt.",
+      "A tornyok falai helyenként akár 3,50 méter vastagok is lehetnek.",
+      "Az épületet 1464 és 1478 között építette Hinrich Helmstede lübecki tanácsi építőmester.",
+      "A latin nyelvű \'Concordia domi foris pax\' feliratot csak 1871-ben adták hozzá.",
+      "A puha talaj miatt a tornyok megdőltek; a süllyedés mértéke eléri a közel 50 centimétert.",
+      "A kapu a lübecki városi erődítmény része, amely eredetileg négy egymás mögötti kapuból állt.",
+      "A Holstentor a teljes lübecki óvároshoz hasonlóan 1987 óta az UNESCO világörökség része."
+    ],
       ro: [],
       en: []
     },
@@ -859,21 +1057,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Föhr is called the 'Green Island' due to its flat, green landscape.", "The island is part of the UNESCO Wadden Sea.", "Wyk auf Föhr is the only town on the North Frisian islands."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Föhr egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Föhr ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Föhr, oft liebevoll als die 'Grüne Insel' der Nordsee bezeichnet, ist die zweitgrößte der Nordfriesischen Inseln. Im Gegensatz zu ihren Nachbarinseln Sylt und Amrum ist Föhr durch ihre windgeschützte Lage hinter den Inseln vor der rauen Nordseebrandung abgeschirmt. Dies begünstigt eine außergewöhnlich üppige und artenreiche Vegetation, die der Insel ihren Beinamen gab. Föhr besticht durch weitläufige, landwirtschaftlich genutzte Marschlandschaften, feine weiße Sandstrände im Süden und charmante Friesendörfer mit historischen Reetdachhäusern, wie beispielsweise Nieblum. Die Insel hat eine lange Seefahrertradition: Im 18. und 19. Jahrhundert fuhren viele Föhrer Kapitäne erfolgreich auf Walfang nach Grönland und brachten Reichtum auf die Insel. Heute ist Föhr ein Paradies für Radfahrer, Ruhesuchende und Familien, die das milde Reizklima und die entspannte Atmosphäre schätzen.",
+      hu: "Föhr, amelyet gyakran az Északi-tenger 'zöld szigeteként' emlegetnek, a második legnagyobb az Észak-fríz-szigetek közül. Szomszédaival, Sylttel és Amrummal ellentétben Föhr a többi sziget mögötti szélvédett fekvésének köszönhetően védve van a zord északi-tengeri hullámveréstől. Ez elősegíti a kivételesen buja és fajgazdag növényzetet, amely a sziget becenevét is adta. Föhr lenyűgöző a kiterjedt, mezőgazdaságilag hasznosított mocsárvidékeivel, délen található finom, fehér homokos strandjaival és a történelmi nádfedeles házakkal büszkélkedő bájos fríz falvaival, mint amilyen például Nieblum. A sziget hosszú tengerész hagyományokkal rendelkezik: a 18. és 19. században sok föhri kapitány járt sikeresen bálnavadászatra Grönlandra, és hozott gazdagságot a szigetre. Ma Föhr a kerékpárosok, a nyugalmat keresők és a családok paradicsoma, akik értékelik az enyhe stimuláló klímát és a nyugodt légkört.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Föhr hat eine Fläche von 82 Quadratkilometern und ist damit die zweitgrößte nordfriesische Insel.",
+      "Die Insel ist komplett vom Nationalpark Schleswig-Holsteinisches Wattenmeer umgeben.",
+      "In der Blütezeit des Walfangs stammten zeitweise bis zu 150 Kapitäne von der Insel Föhr.",
+      "Föhr besitzt über 15 Kilometer ununterbrochenen, feinsandigen Sandstrand im Süden.",
+      "Auf Föhr wird noch heute von einem Teil der Bevölkerung der friesische Dialekt \'Fering\' gesprochen.",
+      "Nieblum wird oft wegen seiner gut erhaltenen Reetdachhäuser als das \'schönste Dorf Föhrs\' bezeichnet.",
+      "Die Insel ist nur per Fähre ab Dagebüll oder per Kleinflugzeug zu erreichen."
+    ],
       hu: [
-        "A(z) Föhr területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Föhr tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Föhr területe 82 négyzetkilométer, amivel a második legnagyobb észak-fríz sziget.",
+      "A szigetet teljesen körülveszi a Schleswig-Holstein-i Watt-tenger Nemzeti Park.",
+      "A bálnavadászat virágkorában egy időben akár 150 kapitány is Föhr szigetéről származott.",
+      "Föhr déli részén több mint 15 kilométernyi, megszakítás nélküli finom homokos strand található.",
+      "Föhr lakosságának egy része még ma is a \'Fering\' nevű fríz dialektust beszéli.",
+      "Nieblumot jól megőrzött nádfedeles házai miatt gyakran \'Föhr legszebb falujának\' nevezik.",
+      "A sziget csak komppal Dagebüllből, vagy kisrepülőgéppel közelíthető meg."
+    ],
       ro: [],
       en: []
     },
@@ -897,21 +1104,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Lake Plön covers approximately 28 km².", "Plön Castle stands directly on the lake shore.", "Holstein Switzerland is the lake district around Plön."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Plöner See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Plöner See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Große Plöner See ist mit fast 30 Quadratkilometern Fläche der größte und tiefste See in Schleswig-Holstein und das funkelnde Herzstück des Naturparks Holsteinische Schweiz. Geformt während der letzten Eiszeit, zeichnet sich das Gewässer durch eine komplexe, buchtenreiche Uferlinie und mehr als 20 Inseln aus, von denen viele als Vogelschutzgebiete streng geschützt sind. An seinem Nordufer thront das prächtige Plöner Schloss, eine ehemalige herzögliche Residenz aus dem 17. Jahrhundert, die als eines der bedeutendsten Renaissance-Bauwerke des Landes gilt. Der See ist ein äußerst beliebtes Naherholungsgebiet für Segler, Kanuten und Schwimmer, aber auch für Naturbeobachter, die hier oft Seeadler bei der Jagd erspähen können. Dank seiner weiten Wasserflächen und der umgebenden hügeligen Waldlandschaft bietet der Große Plöner See eine der malerischsten Kulissen Norddeutschlands.",
+      hu: "A Nagy Plöni-tó (Großer Plöner See) közel 30 négyzetkilométeres területével Schleswig-Holstein legnagyobb és legmélyebb tava, és a Holstein-Svájc (Holsteinische Schweiz) Natúrpark csillogó központja. A legutóbbi jégkorszakban kialakult víztömeget összetett, öblökben gazdag partvonal és több mint 20 sziget jellemzi, amelyek közül sokat madárvédelmi területként szigorúan védenek. Északi partján magasodik a pompás plöni kastély, egy 17. századi egykori hercegi rezidencia, amely a tartomány egyik legjelentősebb reneszánsz építményének számít. A tó rendkívül népszerű pihenőhely a vitorlázók, kenusok és úszók, de a természetmegfigyelők körében is, akik itt gyakran megpillanthatják a vadászó rétisasokat. Hatalmas vízfelületeinek és a környező dombos erdőknek köszönhetően a Nagy Plöni-tó Észak-Németország egyik legfestőibb táját kínálja.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Große Plöner See ist mit einer maximalen Tiefe von 58 Metern der tiefste See Schleswig-Holsteins.",
+      "Die Fläche des Sees beträgt rund 29,97 Quadratkilometer.",
+      "Im See liegen 21 Inseln, darunter die geschützte Prinzeninsel.",
+      "Das Plöner Schloss am Ufer wurde im 17. Jahrhundert im Stil der Renaissance erbaut.",
+      "Der See ist ein wichtiger Lebensraum für den majestätischen Seeadler.",
+      "Er wird von der Schwentine, einem der längsten Flüsse Schleswig-Holsteins, durchflossen.",
+      "Eine Flotte von Ausflugsschiffen bietet regelmäßige Rundfahrten auf dem See an."
+    ],
       hu: [
-        "A(z) Plöner See területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Plöner See tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Nagy Plöni-tó 58 méteres maximális mélységével Schleswig-Holstein legmélyebb tava.",
+      "A tó területe mintegy 29,97 négyzetkilométer.",
+      "A tóban 21 sziget található, köztük a védett Prinzeninsel (Herceg-sziget).",
+      "A parton álló plöni kastély a 17. században épült reneszánsz stílusban.",
+      "A tó fontos élőhelye a fenséges rétisasnak.",
+      "Keresztülfolyik rajta a Schwentine, Schleswig-Holstein egyik leghosszabb folyója.",
+      "Kirándulóhajók flottája kínál rendszeres sétahajózást a tavon."
+    ],
       ro: [],
       en: []
     },
@@ -935,21 +1151,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Haithabu flourished between the 8th and 11th centuries.", "It was a major trading hub between Scandinavia, Western Europe and Byzantium.", "The Viking Museum Haithabu displays important archaeological finds."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8. és 11. század között virágzó első igazi középkori kereskedőváros volt Észak-Európában. A modern nemzetközi történeti és régészeti irodalomban a Hedeby névváltozat a leginkább használatos. Haithabu a Schlei tengeröböl partján jött létre, a Balti-tenger és az Északi-tenger között egy évszázadok óta használatos fontos kereskedelmi útvonal mellett. A terület ma Busdorf községhez tartozik, Schleswigtől néhány kilométerre, Schleswig-Flensburg járásban, Németországban. 1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át. A település maradványai a közeli dán sáncvonallal, a Danevirkéval együtt Schleswig-Holstein legjelentősebb régészeti emlékei közé tartoznak.",
+      de: "Haithabu, gelegen am inneren Ende der Schlei bei Schleswig, war im frühen Mittelalter eine der größten und bedeutendsten Handelsmetropolen Nordeuropas. Vom 8. bis zum 11. Jahrhundert diente die Siedlung an der Schnittstelle zwischen Nord- und Ostsee als zentraler Knotenpunkt für den internationalen Warenaustausch der Wikinger. Haithabu war durch einen halbkreisförmigen Erdwall geschützt und verfügte über einen eigenen Hafen, von dem aus Handelsrouten bis nach Byzanz und in den Orient reichten. Nach ihrer Zerstörung im Jahr 1066 geriet die Stadt in Vergessenheit und wurde nie wieder überbaut, was sie zu einem unschätzbaren archäologischen Freiluftarchiv machte. Heute ist Haithabu mit seinem faszinierenden Wikinger-Museum und den originalgetreu rekonstruierten Häusern eine der wichtigsten Ausgrabungsstätten der Wikingerzeit und gehört seit 2018 zum UNESCO-Weltkulturerbe.",
+      hu: "Haithabu (Hedeby), amely a Schlei belső végén, Schleswignél fekszik, a kora középkorban Észak-Európa egyik legnagyobb és legfontosabb kereskedelmi metropolisza volt. A 8. és 11. század között az Északi- és a Balti-tenger metszéspontjában fekvő település a vikingek nemzetközi árucseréjének központi csomópontjaként szolgált. Haithabut egy félkör alakú földsánc védte, és saját kikötővel rendelkezett, ahonnan a kereskedelmi útvonalak egészen Bizáncig és a Keletig nyúltak. 1066-os elpusztítása után a város feledésbe merült, és soha többé nem építették be, ami felbecsülhetetlen értékű régészeti szabadtéri archívummá tette. Ma Haithabu a lenyűgöző Viking Múzeummal és a hűen rekonstruált házakkal a viking kor egyik legfontosabb ásatási helyszíne, és 2018 óta az UNESCO világörökség része.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Haithabu war vom 8. bis zum 11. Jahrhundert das wichtigste Handelszentrum der Wikinger.",
+      "Die Siedlung war von einem noch heute sichtbaren, massiven Halbkreiswall umgeben.",
+      "Aufgrund der ungestörten Lage im feuchten Boden sind organische Materialien wie Holz und Stoffe extrem gut erhalten.",
+      "Im Jahr 2018 wurde Haithabu gemeinsam mit dem Danewerk in die UNESCO-Welterbeliste aufgenommen.",
+      "In Haithabu fanden Archäologen das Langschiff \'Haithabu 1\', ein bedeutendes Kriegsschiff.",
+      "Das Wikinger-Museum zeigt neben den Fundstücken sieben originalgetreu nachgebaute Wikingerhäuser.",
+      "Die Stadt wurde 1066 bei einem Angriff westslawischer Truppen endgültig zerstört."
+    ],
       hu: [
-        "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8.",
-        "1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át.",
-        "A(z) Haithabu (Hedeby) területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Haithabu (Hedeby) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik."
-      ],
+      "Haithabu a 8. és a 11. század között a vikingek legfontosabb kereskedelmi központja volt.",
+      "A települést egy ma is látható, masszív, félkör alakú földsánc vette körül.",
+      "A nedves talajban lévő háborítatlan fekvésnek köszönhetően az olyan szerves anyagok, mint a fa és a szövet, rendkívül jól megőrződtek.",
+      "2018-ban Haithabut a Danewerkkel (Danevirke) együtt felvették az UNESCO világörökségi listájára.",
+      "Haithabuban a régészek megtalálták a \'Haithabu 1\' nevű hosszúhajót, egy jelentős hadihajót.",
+      "A Viking Múzeum a leletek mellett hét hűen rekonstruált viking házat is bemutat.",
+      "A várost 1066-ban nyugati szláv csapatok támadása során végleg elpusztították."
+    ],
       ro: [],
       en: []
     },
@@ -973,21 +1198,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Sachsenwald was gifted to Bismarck by Emperor Wilhelm I in 1871.", "Bismarck lived at Gut Friedrichsruh in the Sachsenwald until his death in 1898.", "The Bismarck Museum is located within the forest."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Sachsenwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sachsenwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Der Sachsenwald, das größte zusammenhängende Waldgebiet Schleswig-Holsteins, ist ein historisch und ökologisch faszinierendes Forstgebiet vor den Toren Hamburgs. Mit einer Fläche von fast 60 Quadratkilometern, überwiegend bestanden aus dichten Laubmischwäldern, Buchen und Eichen, bietet er einen ruhigen Rückzugsort für Erholungssuchende. Historische Bekanntheit erlangte der Sachsenwald, als Kaiser Wilhelm I. das Gut Friedrichsruh im Jahr 1871 dem ersten deutschen Reichskanzler, Otto von Bismarck, als Dank für seine Verdienste um die Reichsgründung schenkte. Seitdem befindet sich ein Großteil des Waldes im Besitz der Familie von Bismarck. Heute ist der Sachsenwald ein beliebtes Ausflugsziel; Besucher können das Bismarck-Museum, das Mausoleum der Familie und den malerischen Schmetterlingsgarten besichtigen. Zudem durchziehen zahlreiche gut ausgebaute Wander- und Reitwege das urwüchsige Waldgebiet.",
+      hu: "A Sachsenwald, Schleswig-Holstein legnagyobb egybefüggő erdőterülete, történelmileg és ökológiailag is lenyűgöző erdőség Hamburg kapujában. A közel 60 négyzetkilométeres, főként sűrű lombhullató vegyes erdőkből, bükkökből és tölgyekből álló terület csendes menedéket nyújt a kikapcsolódásra vágyóknak. A Sachsenwald akkor tett szert történelmi ismertségre, amikor I. Vilmos császár 1871-ben a friedrichsruhi birtokot az első német kancellárnak, Otto von Bismarcknak adományozta a birodalomalapításban szerzett érdemei elismeréseként. Az erdő nagy része azóta is a Bismarck család tulajdonában van. Ma a Sachsenwald népszerű kirándulóhely; a látogatók megtekinthetik a Bismarck Múzeumot, a család mauzóleumát és a festői Pillangókertet. Emellett számos jól kiépített túra- és lovasútvonal szeli át az ősi erdőt.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Sachsenwald ist mit knapp 60 Quadratkilometern das größte Waldgebiet in Schleswig-Holstein.",
+      "Otto von Bismarck erhielt den Wald 1871 als kaiserliches Geschenk zur Reichsgründung.",
+      "Der Wald ist bis heute größtenteils im Privatbesitz der Familie von Bismarck.",
+      "Im Ort Friedrichsruh befindet sich das Bismarck-Mausoleum, die Grabstätte des Reichskanzlers.",
+      "Der Wald besteht überwiegend aus alten Buchen- und Eichenbeständen.",
+      "Zahlreiche prähistorische Hügelgräber (\'Hünengräber\') sind im Wald versteckt.",
+      "Der Fluss Bille schlängelt sich malerisch durch den nördlichen Teil des Waldes."
+    ],
       hu: [
-        "A(z) Sachsenwald területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Sachsenwald tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Sachsenwald a maga közel 60 négyzetkilométerével a legnagyobb erdőterület Schleswig-Holsteinben.",
+      "Otto von Bismarck 1871-ben kapta az erdőt császári ajándékként a birodalom alapításáért.",
+      "Az erdő a mai napig nagyrészt a Bismarck család magántulajdonában van.",
+      "Friedrichsruh településen található a Bismarck-mauzóleum, a kancellár sírhelye.",
+      "Az erdő túlnyomórészt idős bükk- és tölgyállományokból áll.",
+      "Számos történelem előtti halomsír (\'Hünengräber\') bújik meg az erdőben.",
+      "A Bille folyó festőien kanyarog az erdő északi részén."
+    ],
       ro: [],
       en: []
     },
@@ -1011,21 +1245,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Wadden Sea is the world's largest unbroken expanse of mudflats and sandflats.", "It is home to millions of migratory birds.", "Harbour seals and grey seals are among the best-known inhabitants."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Schleswig-Holsteinisches Wattenmeer egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schleswig-Holsteinisches Wattenmeer ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Das Schleswig-Holsteinische Wattenmeer ist der größte Nationalpark Mitteleuropas und bildet zusammen mit den Wattenmeeren Niedersachsens und der Niederlande ein einzigartiges, grenzübergreifendes UNESCO-Weltnaturerbe. Dieses außergewöhnliche Ökosystem entlang der Nordseeküste wird geprägt durch den ständigen Rhythmus von Ebbe und Flut, der zweimal täglich riesige Schlick- und Sandflächen freilegt. Diese Wattflächen sind eine der biologisch produktivsten Landschaften der Erde und dienen als lebenswichtige Kinderstube für Fische und Krabben sowie als unverzichtbarer Rastplatz für jährlich bis zu 12 Millionen Zugvögel. Seehunde und Kegelrobben nutzen die trockenfallenden Sandbänke zum Ausruhen. Die dynamische Landschaft aus Salzwiesen, Prielen, Dünen und Watt bietet ein unvergessliches Naturerlebnis. Geführte Wattwanderungen ermöglichen es Besuchern, diese empfindliche und faszinierende Welt sicher und hautnah zu entdecken.",
+      hu: "A Schleswig-Holstein-i Watt-tenger Közép-Európa legnagyobb nemzeti parkja, és Alsó-Szászország, valamint Hollandia Watt-tengereivel együtt egyedülálló, határokon átnyúló UNESCO világörökséget alkot. Ezt az Északi-tenger partja mentén fekvő rendkívüli ökoszisztémát az árapály állandó ritmusa határozza meg, amely naponta kétszer hatalmas iszap- és homokfelületeket tesz szabaddá. Ezek az iszapos síkságok a Föld biológiailag legtermékenyebb tájai közé tartoznak: létfontosságú 'óvodaként' szolgálnak a halak és a rákok számára, valamint elengedhetetlen pihenőhelyet jelentenek az évente akár 12 millió vonuló madár számára is. A borjúfókák és a kúpos fókák a szárazra kerülő homokpadokat használják pihenésre. A sós rétekből, árapálycsatornákból, dűnékből és iszapmezőkből álló dinamikus táj felejthetetlen természeti élményt nyújt. A vezetett iszaptúrák (Wattwanderung) lehetővé teszik a látogatók számára, hogy biztonságosan és testközelből fedezzék fel ezt az érzékeny és lenyűgöző világot.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Der Nationalpark Schleswig-Holsteinisches Wattenmeer umfasst eine Fläche von 4.410 Quadratkilometern.",
+      "Zusammen mit anderen Watt-Gebieten gehört es seit 2009 zum UNESCO-Weltnaturerbe.",
+      "Jährlich nutzen zwischen 10 und 12 Millionen Zugvögel das Wattenmeer als Rast- und Futterplatz.",
+      "Das Wattenmeer ist der wichtigste Lebensraum für den Seehund in Deutschland.",
+      "Zweimal am Tag (alle ca. 12,5 Stunden) wechseln sich Ebbe und Flut ab.",
+      "Ein einziger Quadratmeter Schlickboden kann Millionen von winzigen Lebewesen (wie Wattwürmer und Schnecken) beherbergen.",
+      "Auf den unbewohnten Außensänden, wie dem Trischen, gibt es eine absolut unberührte, wilde Natur."
+    ],
       hu: [
-        "A(z) Schleswig-Holsteinisches Wattenmeer területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Schleswig-Holsteinisches Wattenmeer tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Schleswig-Holstein-i Watt-tenger Nemzeti Park 4410 négyzetkilométeres területet ölel fel.",
+      "Más watt-területekkel együtt 2009 óta az UNESCO világörökség része.",
+      "Évente 10-12 millió vándormadár használja a Watt-tengert pihenő- és táplálkozóhelyként.",
+      "A Watt-tenger a borjúfókák legfontosabb élőhelye Németországban.",
+      "Naponta kétszer (kb. 12,5 óránként) váltakozik az apály és a dagály.",
+      "Egyetlen négyzetméternyi iszapos talaj milliónyi apró élőlénynek (pl. csaliférgeknek és csigáknak) adhat otthont.",
+      "A lakatlan külső homokpadokon, mint amilyen a Trischen, teljesen érintetlen, vad természet található."
+    ],
       ro: [],
       en: []
     },
@@ -1049,21 +1292,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Flensburg is located 7 km from the Danish border.", "The city was once a significant centre of the rum trade.", "The Federal Motor Transport Authority in Flensburg maintains Germany's central driving licence register ('points in Flensburg')."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Flensburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Flensburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Flensburg ist die nördlichste kreisfreie Stadt Deutschlands und liegt malerisch am Ende der Flensburger Förde, unmittelbar an der Grenze zu Dänemark. Diese Grenzlage prägt die Stadt zutiefst; Flensburg ist eine zweisprachige Stadt, in der deutsche und dänische Kultur harmonisch verschmelzen. Historischen Reichtum erlangte Flensburg im 18. und 19. Jahrhundert durch den Westindienhandel, als die Flotte der Stadt Rohrzucker aus der Karibik importierte und ihn zu Rum veredelte – was Flensburg den Titel 'Rumstadt' einbrachte. Die malerische Altstadt besticht durch liebevoll restaurierte Kaufmannshöfe, schmale Gassen (wie die Rote Straße) und Speicher aus der Zeit der Renaissance. Der idyllische Museumshafen unterstreicht das maritime Erbe, während das historische Nordertor bis heute das Wahrzeichen von Flensburgs stolzer Handelstradition ist.",
+      hu: "Flensburg Németország legészakibb független (járási jogú) városa, amely festői környezetben, a Flensburgi-öböl végén, közvetlenül a dán határnál fekszik. Ez a határmenti fekvés mélyen meghatározza a várost; Flensburg egy kétnyelvű város, ahol a német és a dán kultúra harmonikusan egybeolvad. Flensburg a 18. és 19. században tett szert történelmi gazdagságra a nyugat-indiai kereskedelem révén, amikor a város flottája nádcukrot importált a Karib-térségből, és rumba finomította azt – ami Flensburgnak a 'Rumváros' címet is meghozta. A festői óváros gondosan felújított kereskedőudvaraival, szűk utcácskáival (mint például a Rote Straße) és reneszánsz kori raktáraival bűvöli el a látogatókat. Az idilli múzeumkikötő a tengeri örökséget hangsúlyozza, míg a történelmi Északi Kapu (Nordertor) a mai napig Flensburg büszke kereskedelmi hagyományainak szimbóluma.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Flensburg liegt nur wenige Kilometer von der dänischen Grenze entfernt.",
+      "Die Stadt beheimatet eine starke dänische Minderheit mit eigenen Schulen und Kultureinrichtungen.",
+      "Im 19. Jahrhundert gab es in Flensburg über 200 Rumhäuser, heute sind es nur noch wenige traditionsreiche Manufakturen.",
+      "Das Kraftfahrt-Bundesamt in Flensburg speichert die \'Punkte\' (Verkehrssünderkartei) deutscher Autofahrer.",
+      "Die Rote Straße ist berühmt für ihre alten Kaufmannshöfe und malerischen Boutiquen.",
+      "Die Marine-Schule Mürwik, die Ausbildungsstätte der deutschen Marineoffiziere, befindet sich hier.",
+      "Der historische Museumshafen beherbergt klassische Segelschiffe und alte Fischkutter."
+    ],
       hu: [
-        "A(z) Flensburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Flensburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Flensburg mindössze néhány kilométerre fekszik a dán határtól.",
+      "A város egy erős dán kisebbségnek ad otthont, saját iskolákkal és kulturális intézményekkel.",
+      "A 19. században Flensburgban több mint 200 rumház működött, ma már csak néhány nagy múltú manufaktúra maradt.",
+      "A flensburgi Szövetségi Gépjárműhivatal tartja nyilván a német autósok \'pontjait\' (közlekedési szabálysértők nyilvántartása).",
+      "A Rote Straße régi kereskedőudvarairól és festői butikjairól híres.",
+      "Itt található a mürwiki Tengerészeti Iskola, a német haditengerészeti tisztek kiképzőközpontja.",
+      "A történelmi múzeumkikötő klasszikus vitorlás hajóknak és régi halászhajóknak ad otthont."
+    ],
       ro: [],
       en: []
     },
@@ -1087,21 +1339,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["The Nordertor was built around 1595.", "It is the only surviving city gate of Flensburg.", "The gate is located at the northern end of the old town."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Nordertor Flensburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nordertor Flensburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Das Nordertor ist das absolute Wahrzeichen der Stadt Flensburg und das letzte erhaltene Stadttor der einstigen Stadtbefestigung. Erbaut um das Jahr 1595 im Stil der Backsteinrenaissance, diente es jahrhundertelang als Kontroll- und Zollpunkt an der nördlichen Grenze der Stadt. Die markante Treppengiebel-Architektur des Tors wurde so konzipiert, dass es nicht primär militärischen Abwehrzwecken diente, sondern vielmehr ein repräsentatives Symbol für den Wohlstand und das Selbstbewusstsein der Flensburger Kaufmannschaft war. Über dem Torbogen sind zwei Wappen angebracht: das königlich-dänische und das städtische Wappen, die die lange historische Verbundenheit Flensburgs mit Dänemark dokumentieren. Bis 1796 schloss das Tor jeden Abend die Stadt nach Norden hin ab. Heute ist das prächtige Backsteinbauwerk ein beliebtes Fotomotiv und Symbol der deutsch-dänischen Grenzregion.",
+      hu: "A Nordertor (Északi Kapu) Flensburg városának abszolút jelképe és az egykori városi erődítményrendszer utolsó fennmaradt városkapuja. Az 1595 körül, a tégla-reneszánsz stílusában épült kapu évszázadokon át ellenőrző és vámvizsgáló pontként szolgált a város északi határán. A kapu jellegzetes lépcsős oromzatos építészetét úgy tervezték, hogy ne elsősorban katonai védelmi célokat szolgáljon, hanem inkább a flensburgi kereskedők jólétének és önbizalmának reprezentatív szimbóluma legyen. A kapuív felett két címer található: a dán királyi és a városi címer, amelyek Flensburg Dániával való hosszú történelmi kapcsolatát dokumentálják. 1796-ig a kapu minden este elzárta a várost északi irányban. Ma a pompás téglaépület népszerű fotótéma, és a német-dán határvidék szimbóluma.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Das Nordertor wurde um das Jahr 1595 fertiggestellt.",
+      "Es ist das letzte erhaltene Stadttor der historischen Flensburger Stadtbefestigung.",
+      "Das Bauwerk wurde im charakteristischen Stil der Backsteinrenaissance errichtet.",
+      "Die beiden Wappen über dem Tor zeigen den dänischen König Christian IV. und die Stadt Flensburg.",
+      "Die städtische Bebauung endete bis ins 19. Jahrhundert am Nordertor.",
+      "Im Jahr 1990 ehrte die Deutsche Bundespost das Tor mit einer eigenen Briefmarke.",
+      "Es überstand glücklicherweise Abrisspläne im frühen 20. Jahrhundert und wurde stattdessen aufwendig restauriert."
+    ],
       hu: [
-        "A(z) Nordertor Flensburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Nordertor Flensburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "A Nordertor 1595 körül készült el.",
+      "Ez a történelmi flensburgi városi erődítmény utolsó fennmaradt városkapuja.",
+      "Az épület a tégla-reneszánsz jellegzetes stílusában épült.",
+      "A kapu feletti két címer IV. Keresztély dán királyt és Flensburg városát ábrázolja.",
+      "A városi beépítettség egészen a 19. századig a Nordertornál ért véget.",
+      "1990-ben a Német Szövetségi Posta saját bélyeggel tisztelte meg a kaput.",
+      "Szerencsére túlélte a 20. század eleji bontási terveket, és ehelyett gondosan felújították."
+    ],
       ro: [],
       en: []
     },
@@ -1125,21 +1386,30 @@ export const poiExtraDe3a: POI[] = [
       en: ["Altona was Danish until 1864 and belonged to Schleswig-Holstein.", "The Altonaer Fischmarkt fish market takes place every Sunday morning.", "Altona Town Hall from 1898 is an imposing Wilhelmine building."],
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A(z) Altona (historisch Schleswig-Holstein) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Altona (historisch Schleswig-Holstein) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
+      de: "Altona, heute ein lebendiger und zentraler Bezirk im Westen Hamburgs, blickt auf eine faszinierende eigenständige Geschichte zurück. Jahrhundertelang gehörte Altona nicht zu Hamburg, sondern zum Herzogtum Holstein und stand ab 1640 für mehr als 200 Jahre unter dänischer Verwaltung. In dieser Zeit entwickelte sich Altona als Freihäfen zu einer der größten und wichtigsten Städte des dänischen Gesamtstaates, oft in direkter Konkurrenz zum mächtigen Hamburg. Diese Phase endete erst 1864 mit dem Deutsch-Dänischen Krieg. Erst 1937 wurde Altona durch das Groß-Hamburg-Gesetz offiziell nach Hamburg eingemeindet. Heute vereint der Bezirk historische Prachtbauten entlang der Palmaille, lebendige Szeneviertel wie Ottensen und das beeindruckende Panorama der Elbe mit dem Altonaer Balkon und dem historischen Fischmarkt. Altona bleibt ein Paradebeispiel für die komplexe Grenz- und Handelsgeschichte Norddeutschlands.",
+      hu: "Altona, amely ma Hamburg egyik nyüzsgő és központi kerülete a város nyugati részén, lenyűgöző független múltra tekint vissza. Altona évszázadokon át nem Hamburghoz, hanem a Holsteini Hercegséghez tartozott, és 1640-től több mint 200 évig dán közigazgatás alatt állt. Ebben az időszakban Altona szabadkikötőként az egységes dán állam egyik legnagyobb és legfontosabb városává fejlődött, gyakran közvetlen versenyben a hatalmas Hamburggal. Ez a korszak csak 1864-ben, a porosz-dán háborúval ért véget. Altonát csak 1937-ben olvasztották be hivatalosan Hamburgba a Nagy-Hamburg-törvény (Groß-Hamburg-Gesetz) révén. Ma a kerület egyesíti a Palmaille mentén található történelmi pompájú épületeket, az olyan pezsgő divatos negyedeket, mint Ottensen, valamint az Elba lenyűgöző panorámáját az Altona Balkonnal (Altonaer Balkon) és a történelmi Halpiaccal. Altona továbbra is Észak-Németország összetett határ- és kereskedelemtörténetének mintapéldája.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: [
+      "Altona war von 1640 bis 1864 Teil der dänischen Monarchie.",
+      "Unter dänischer Herrschaft war Altona zeitweise die zweitgrößte Stadt des Königreichs nach Kopenhagen.",
+      "Die Eingemeindung in die Hansestadt Hamburg erfolgte erst 1937 durch das Groß-Hamburg-Gesetz.",
+      "Der Altonaer Fischmarkt ist seit über 300 Jahren eine Institution und zieht sonntags tausende Besucher an.",
+      "Das Altonaer Rathaus, ein prächtiges, weißes Gebäude im klassizistischen Stil, war ursprünglich ein Bahnhof.",
+      "Der \'Altonaer Balkon\' bietet eine der besten Aussichten über den Hamburger Hafen und die Elbe.",
+      "Altona war historisch für seine ausgeprägte Religionsfreiheit bekannt, was viele Andersdenkende anlockte."
+    ],
       hu: [
-        "A(z) Altona (historisch Schleswig-Holstein) területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Altona (historisch Schleswig-Holstein) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
+      "Altona 1640 és 1864 között a dán monarchia része volt.",
+      "A dán uralom alatt Altona egy ideig a királyság második legnagyobb városa volt Koppenhága után.",
+      "A Hanza-város Hamburgba történő beolvasztásra csak 1937-ben került sor a Nagy-Hamburg-törvény alapján.",
+      "Az Altonai Halpiac több mint 300 éve intézménynek számít, és vasárnaponként látogatók ezreit vonzza.",
+      "A pompás, fehér, klasszicista stílusú Altonai Városháza eredetileg vasútállomás volt.",
+      "Az \'Altona Balkon\' (Altonaer Balkon) az egyik legjobb kilátást nyújtja a hamburgi kikötőre és az Elbára.",
+      "Altona történelmileg széles körű vallásszabadságáról volt ismert, ami sok másként gondolkodót vonzott."
+    ],
       ro: [],
       en: []
     },
