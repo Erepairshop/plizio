@@ -30,7 +30,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Sebeș, im Deutschen als Mühlbach bekannt, ist eine historisch bedeutsame Stadt im Kreis Alba in Siebenbürgen, Rumänien. Gegründet von den Siebenbürger Sachsen im 12. Jahrhundert, entwickelte sich die Stadt schnell zu einem wichtigen wirtschaftlichen und kulturellen Zentrum. Die Architektur von Mühlbach spiegelt seine reiche mittelalterliche Vergangenheit wider, insbesondere die beeindruckende evangelische Stadtpfarrkirche, die ein Meisterwerk gotischer Baukunst darstellt. Geografisch liegt die Stadt am Ufer des Flusses Sebeș und dient als strategischer Knotenpunkt zwischen den Regionen Südsiebenbürgens. Neben seiner historischen Bedeutung ist Sebeș heute ein dynamischer Industriestandort, der Tradition und Moderne verbindet. Besucher schätzen die gut erhaltene Altstadt und die Nähe zu den spektakulären Berglandschaften der Karpaten, was die Stadt zu einem idealen Ausgangspunkt für kulturelle und naturbezogene Erkundungen macht.",
       "hu": "",
-      "ro": "",
+      "ro": "Sebeș, cunoscut în germană ca Mühlbach, este un oraș cu o importanță istorică deosebită în județul Alba, Transilvania. Fondat de sașii transilvăneni în secolul al XII-lea, orașul a devenit rapid un centru economic și cultural. Arhitectura sa reflectă un bogat trecut medieval, evidențiat de impresionanta biserică evanghelică, o capodoperă a stilului gotic. Situat strategic pe malul râului Sebeș, este un nod vital care leagă regiunile din sudul Transilvaniei. Pe lângă moștenirea sa istorică, Sebeșul este astăzi un centru industrial dinamic. Vizitatorii apreciază centrul vechi bine conservat și proximitatea față de peisajele spectaculoase ale Munților Carpați.",
       "en": ""
 },
     "factsAdvanced": {
@@ -45,7 +45,7 @@ export const poiExtraRo1: POI[] = [
             "Die Stadt ist ein bedeutendes Zentrum der holzverarbeitenden Industrie in Rumänien."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Sebeș a fost fondat în jurul anului 1150 de coloniști germani (sași).", "Biserica evanghelică deține unul dintre cele mai valoroase altare poliptice din Transilvania, datând din secolul al XVI-lea.", "În Evul Mediu, a fost una dintre cele 'Șapte Cetăți' (Siebenbürgen) săsești.", "Zidurile orașului, cu turnurile de apărare, datează din secolul al XIV-lea.", "Aici se intersectează autostrada A1 și drumul național DN7.", "Muzeul Municipal 'Ioan Raica' este găzduit în istorica Casă Zápolya.", "Orașul este un centru major al industriei de prelucrare a lemnului din România."],
       "en": []
 }
   },
@@ -78,7 +78,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Aiud, in der deutschen Geschichte als Straßburg am Mieresch bekannt, ist eine charmante Stadt in Siebenbürgen mit einer tief verwurzelten kulturellen Identität. Sie ist besonders berühmt für ihre mittelalterliche Burg, eine der ältesten und am besten erhaltenen ihrer Art in der Region, die heute das Historische Museum beherbergt. Die Stadt war über Jahrhunderte hinweg ein bedeutendes Bildungszentrum, geprägt durch das renommierte Bethlen-Gábor-Kollegium, das im 17. Jahrhundert gegründet wurde und die intellektuelle Elite der Region formte. Geografisch liegt Aiud am Mittellauf des Flusses Mieresch (Mureș) und ist von sanften Hügeln umgeben, die für den Weinbau bekannt sind. Die Mischung aus ungarischen, rumänischen und sächsischen Einflüssen verleiht Aiud eine einzigartige Atmosphäre, die sich in der Architektur, den religiösen Bauwerken und den lokalen Traditionen widerspiegelt.",
       "hu": "",
-      "ro": "",
+      "ro": "Aiud, cunoscut în istoria germană ca Straßburg am Mieresch, este un oraș fermecător în Transilvania, cu o identitate culturală adânc înrădăcinată. Este renumit pentru cetatea sa medievală, una dintre cele mai vechi și mai bine conservate din regiune, care astăzi găzduiește Muzeul de Istorie. Timp de secole, a fost un centru educațional de prim rang, marcat de prestigiosul Colegiu Bethlen Gábor, fondat în secolul al XVII-lea. Situat pe cursul mijlociu al râului Mureș, Aiudul este înconjurat de dealuri renumite pentru viticultură. Amestecul de influențe maghiare, românești și săsești îi conferă o atmosferă unică, vizibilă în arhitectură și tradiții.",
       "en": ""
 },
     "factsAdvanced": {
@@ -93,7 +93,7 @@ export const poiExtraRo1: POI[] = [
             "Während der kommunistischen Ära war das Gefängnis von Aiud berüchtigt für die Inhaftierung politischer Gefangener."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Cetatea Aiudului datează din secolul al XIV-lea și include nouă turnuri de apărare.", "Colegiul Bethlen Gábor a fost fondat în 1622 de principele Gabriel Bethlen.", "Aiudul găzduiește unul dintre cele mai vechi muzee de științe naturale din România, fondat în 1796.", "Orașul a fost un centru important al Reformei în Transilvania.", "Biserica reformată din interiorul cetății prezintă elemente impresionante de stil gotic.", "În perioada comunistă, închisoarea din Aiud era cunoscută pentru deținerea prizonierilor politici."],
       "en": []
 }
   },
@@ -126,7 +126,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Blaj, im Deutschen Blasendorf genannt, nimmt einen heiligen Platz in der Geschichte der rumänischen nationalen Wiedergeburt ein. Gelegen am Zusammenfluss der Großen und Kleinen Kokel (Târnava Mare und Târnava Mică), war die Stadt über Jahrhunderte das geistige und kulturelle Zentrum der griechisch-katholischen Kirche in Siebenbürgen. Hier wurde 1848 auf der berühmten 'Wiese der Freiheit' die nationale Unabhängigkeit der Rumänen in Siebenbürgen proklamiert. Die Architektur der Stadt wird von der majestätischen Kathedrale der Heiligen Dreifaltigkeit und den zahlreichen kirchlichen Bildungseinrichtungen dominiert, die Blaj den Beinamen 'Klein-Rom' einbrachten. Neben seiner historischen und religiösen Bedeutung ist Blaj heute ein modernes Wirtschaftszentrum, das seine Wurzeln pflegt und gleichzeitig in innovative Industrien investiert. Die umliegende Hügellandschaft bietet zudem exzellente Bedingungen für den Weinbau, der eine lange Tradition in der Region hat.",
       "hu": "",
-      "ro": "",
+      "ro": "Blajul, numit în germană Blasendorf, ocupă un loc sacru în istoria renașterii naționale românești. Situat la confluența Târnavei Mari cu Târnava Mică, a fost timp de secole centrul spiritual și cultural al Bisericii Greco-Catolice din Transilvania. Aici, pe 'Câmpia Libertății', a fost proclamată independența națională a românilor din Transilvania în 1848. Arhitectura este dominată de majestuoasa Catedrală a Sfintei Treimi, care i-a adus supranumele de 'Mica Romă'. Pe lângă importanța sa istorică și religioasă, Blajul este astăzi un centru economic modern, care investește în industrii inovatoare, păstrându-și în același timp rădăcinile.",
       "en": ""
 },
     "factsAdvanced": {
@@ -141,7 +141,7 @@ export const poiExtraRo1: POI[] = [
             "Der ungarische Dichter Sándor Petőfi beschrieb die Stadt als ein wichtiges kulturelles Zentrum seiner Zeit."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Blajul a fost menționat documentar pentru prima dată în anul 1252.", "Orașul este considerat locul de naștere al limbii române literare moderne.", "Adunarea Națională de la 1848 de pe Câmpia Libertății a avut peste 40.000 de participanți.", "Catedrala din Blaj a fost construită între anii 1741 și 1749 în stil baroc.", "La Blaj s-a deschis prima școală publică cu predare în limba română din Transilvania.", "Orașul este renumit pentru vinurile albe de înaltă calitate din podgoria Târnave."],
       "en": []
 }
   },
@@ -174,7 +174,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Pecica, auf Deutsch Petschka, ist eine geschichtsträchtige Stadt im Kreis Arad, nahe der ungarischen Grenze. Die Region ist seit der Antike besiedelt, was durch bedeutende archäologische Funde aus der Bronzezeit (Pecica-Kultur) belegt wird. Heute ist die Stadt vor allem für ihre fruchtbaren Böden und ihre starke landwirtschaftliche Tradition bekannt, wobei das 'Pecica-Brot' in ganz Rumänien als Delikatesse gilt. Die geografische Lage in der Maros-Ebene macht Pecica zu einem wichtigen Verkehrsknotenpunkt zwischen Mitteleuropa und dem Balkan. Kulturell ist die Stadt durch ein harmonisches Zusammenleben verschiedener Ethnien geprägt, was sich in den lokalen Festen und der vielfältigen Architektur der Sakralbauten zeigt. Besucher können die nahegelegenen Auen des Flusses Maros erkunden, die Teil eines ausgedehnten Naturparks sind und eine reiche Flora und Fauna beherbergen.",
       "hu": "",
-      "ro": "",
+      "ro": "Pecica, în germană Petschka, este un oraș cu o istorie bogată în județul Arad, aproape de granița cu Ungaria. Regiunea este locuită încă din antichitate, fapt dovedit de importante descoperiri arheologice din Epoca Bronzului (Cultura Pecica). Astăzi, orașul este cunoscut pentru solurile sale fertile și tradiția agricolă, 'Pâinea de Pecica' fiind o delicatesă în toată România. Poziția sa în Câmpia Mureșului face din Pecica un nod de transport important. Cultural, orașul este marcat de o conviețuire armonioasă a diferitelor etnii, reflectată în festivalurile locale. Vizitatorii pot explora luncile din apropiere ale râului Mureș, parte a unui parc natural extins.",
       "en": ""
 },
     "factsAdvanced": {
@@ -189,7 +189,7 @@ export const poiExtraRo1: POI[] = [
             "Jedes Jahr findet das 'Fest des neuen Brotes' statt, das die landwirtschaftlichen Wurzeln der Stadt feiert."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Săpăturile arheologice de la 'Șanțul Mare' au scos la iveală așezări din Epoca Bronzului.", "Faimoasa 'Pâine de Pecica' era coaptă tradițional în cuptoare speciale de lut.", "Pecica a primit statutul de oraș în anul 2004.", "Parcul Natural Lunca Mureșului începe în imediata apropiere a orașului.", "Biserica romano-catolică din oraș este o construcție impresionantă de la sfârșitul secolului al XIX-lea.", "În fiecare an are loc 'Sărbătoarea Pâinii Noi', care celebrează rădăcinile agricole ale orașului."],
       "en": []
 }
   },
@@ -222,7 +222,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Sântana, bekannt unter dem deutschen Namen Sanktanna, ist eine Stadt im Westen Rumäniens, die tief von der Geschichte der Banater Schwaben geprägt wurde. Im 18. Jahrhundert von deutschen Siedlern gegründet, entwickelte sich der Ort schnell zu einer blühenden Gemeinde mit einer charakteristischen Architektur und einer effizienten Landwirtschaft. Die breiten Straßen und gepflegten Häuser im alten Ortskern zeugen noch heute vom Erbe der sächsischen und schwäbischen Baumeister. Geografisch liegt Sântana in der weiten Arader Ebene, einer Region, die für ihre Getreideproduktion und ihren Weinbau bekannt ist. Obwohl ein Großteil der deutschen Bevölkerung im 20. Jahrhundert auswanderte, bleibt das kulturelle Erbe in den lokalen Traditionen und dem Gemeinschaftsgeist lebendig. Heute ist Sântana ein wichtiger Bahnknotenpunkt und ein wachsendes wirtschaftliches Zentrum, das seine historische Identität mit moderner Entwicklung verknüpft.",
       "hu": "",
-      "ro": "",
+      "ro": "Sântana, cunoscută sub numele german de Sanktanna, este un oraș din vestul României, profund marcat de istoria șvabilor bănățeni. Fondată în secolul al XVIII-lea de coloniști germani, localitatea s-a transformat rapid într-o comunitate înfloritoare. Străzile largi și casele îngrijite din centrul vechi încă mărturisesc moștenirea arhitecților sași și șvabi. Geografic, Sântana se află în vasta Câmpie a Aradului, o regiune cunoscută pentru producția de cereale. Deși o mare parte a populației germane a emigrat, moștenirea culturală rămâne vie. Astăzi, Sântana este un important nod feroviar și un centru economic în creștere.",
       "en": ""
 },
     "factsAdvanced": {
@@ -237,7 +237,7 @@ export const poiExtraRo1: POI[] = [
             "In der Stadt gibt es ein Museum, das sich der Geschichte und den Bräuchen der lokalen Bevölkerung widmet."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Sântana a fost fondată în anul 1736 la inițiativa împărătesei Maria Terezia.", "Orașul a fost odinioară una dintre cele mai mari comunități germane din Ținutul Aradului.", "Biserica catolică 'Sfânta Ana' este un monument arhitectural central al orașului.", "Sântana se află pe importanta linie de cale ferată dintre Arad și Oradea.", "Regiunea din jurul Sântanei este considerată una dintre cele mai fertile zone agricole din România.", "Sântana a fost declarată oficial oraș în anul 2003."],
       "en": []
 }
   },
@@ -270,7 +270,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Lipova, im Deutschen als Lippa bekannt, ist eine malerische Stadt im Kreis Arad, die am Ufer des Flusses Mureș liegt. Die Stadt hat eine reiche Geschichte, die bis in die Römerzeit zurückreicht, und war im Mittelalter eine strategisch wichtige Festung. Besonders sehenswert ist die Festung Șoimoș, die auf einem Hügel über der Stadt thront und einen atemberaubenden Blick über das Mureș-Tal bietet. Lipova ist auch für sein Thermalbad und die Mineralwasserquellen bekannt, die seit dem 19. Jahrhundert Besucher anziehen. Die Architektur der Stadt zeigt eine Mischung aus barocken und neoklassizistischen Einflüssen, insbesondere in der Nähe des alten Marktplatzes. Kulturell ist Lipova ein Schmelztiegel, in dem rumänische, ungarische und deutsche Traditionen aufeinandertreffen, was sich in der lokalen Gastronomie und den jährlichen Festen widerspiegelt. Die umliegende Natur lädt zu Wanderungen und Erholung in einer der schönsten Flusslandschaften Westrumäniens ein.",
       "hu": "",
-      "ro": "",
+      "ro": "Lipova, cunoscută în germană ca Lippa, este un oraș pitoresc din județul Arad, situat pe malul râului Mureș. Orașul are o istorie bogată, datând din perioada romană, și a fost o fortăreață strategică în Evul Mediu. Deosebit de impresionantă este Cetatea Șoimoș, care domină orașul de pe un deal. Lipova este, de asemenea, cunoscută pentru băile sale termale, care atrag vizitatori din secolul al XIX-lea. Arhitectura prezintă un amestec de influențe baroce și neoclasice. Cultural, Lipova este un creuzet unde se întâlnesc tradiții românești, maghiare și germane, reflectate în gastronomia locală.",
       "en": ""
 },
     "factsAdvanced": {
@@ -285,7 +285,7 @@ export const poiExtraRo1: POI[] = [
             "In der Nähe befindet sich das Kloster Maria Radna, einer der wichtigsten katholischen Wallfahrtsorte im Südosten Europas."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Lipova a fost menționată documentar pentru prima dată în anul 1245.", "Cetatea Șoimoș a fost construită în secolul al XIII-lea pentru protecție împotriva invaziilor tătare.", "Apele minerale de la Lipova au fost premiate pentru efectele lor curative încă din 1818.", "În apropiere se află Mănăstirea Maria Radna, unul dintre cele mai importante locuri de pelerinaj catolic din sud-estul Europei.", "Orașul se află pe ruta comercială istorică ce lega Transilvania de Câmpia Panonică.", "În timpul războaielor otomane, a fost disputată între habsburgi și turci."],
       "en": []
 }
   },
@@ -318,7 +318,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Curtea de Argeș, einst die stolze Hauptstadt des Fürstentums Walachei, ist eine der geschichtsträchtigsten Städte Rumäniens. Sie liegt am Fuße der Făgăraș-Berge und wird vom Fluss Argeș durchflossen. Die Stadt ist weltberühmt für das Kloster Curtea de Argeș, ein architektonisches Juwel aus dem frühen 16. Jahrhundert, das als Grabstätte der rumänischen Königsfamilie dient. Die Legende von Meister Manole, der seine Frau in die Mauern einmauerte, um den Bau zu vollenden, ist tief mit diesem Ort verbunden. Neben dem Kloster beherbergt die Stadt die Fürstenkirche St. Nikolaus, die für ihre byzantinischen Fresken bekannt ist. Curtea de Argeș strahlt eine Atmosphäre von aristokratischer Gelassenheit aus und ist ein wichtiges Ziel für Pilger und Kulturliebhaber. Die geografische Lage macht die Stadt zudem zu einem idealen Ausgangspunkt für Touren auf der spektakulären Transfăgărășan-Hochstraße.",
       "hu": "",
-      "ro": "",
+      "ro": "Curtea de Argeș, odinioară capitala mândră a Țării Românești, este unul dintre cele mai istorice orașe ale României. Situat la poalele Munților Făgăraș, este renumit mondial pentru Mănăstirea Curtea de Argeș, o bijuterie arhitecturală din secolul al XVI-lea, care servește drept necropolă regală. Legenda Meșterului Manole este profund legată de acest loc. Pe lângă mănăstire, orașul găzduiește Biserica Domnească 'Sfântul Nicolae', cunoscută pentru frescele sale bizantine. Curtea de Argeș emană o atmosferă de seninătate aristocratică și este o destinație importantă pentru pelerini și iubitorii de cultură, fiind și un punct de plecare ideal pentru tururi pe spectaculoasa șosea Transfăgărășan.",
       "en": ""
 },
     "factsAdvanced": {
@@ -333,7 +333,7 @@ export const poiExtraRo1: POI[] = [
             "Die nahegelegene Ruine der Burg Poenari gilt als das eigentliche Schloss von Vlad Țepeș (Dracula)."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Curtea de Argeș a fost prima reședință a domnitorilor Țării Românești în secolul al XIV-lea.", "Mănăstirea a fost construită de Neagoe Basarab între anii 1512 și 1517.", "În catedrala mănăstirii sunt înmormântați toți regii României, de la Carol I la Mihai I.", "Biserica Domnească este pe lista de candidați pentru Patrimoniul Mondial UNESCO.", "Numele orașului înseamnă 'Curtea de pe Argeș'.", "Ruinele din apropiere ale Cetății Poenari sunt considerate a fi adevăratul castel al lui Vlad Țepeș."],
       "en": []
 }
   },
@@ -366,7 +366,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Câmpulung, oft Câmpulung Muscel genannt, war die erste Residenz der walachischen Herrscher und ist eine Stadt voller mittelalterlichem Charme. Geografisch liegt sie in einer Senke zwischen den Ausläufern der Karpaten und bietet ein angenehmes Klima und eine beeindruckende Bergkulisse. Die Stadt ist bekannt für ihre gut erhaltene Architektur, die von der langen Geschichte als Handelszentrum zeugt. Besonders hervorzuheben ist das Kloster Negru Vodă, ein bedeutendes religiöses und kulturelles Denkmal. Câmpulung war über Jahrhunderte ein Ort, an dem sich rumänische, sächsische und andere kulturelle Einflüsse vermischten, was sich in den Bräuchen und der lokalen Kunsthandwerkstradition niederschlägt. Die Stadt ist auch berühmt für das erste schriftliche Dokument in rumänischer Sprache, den Brief von Neacșu, der hier seinen Ursprung hat. Heute ist Câmpulung ein beliebtes Ziel für Touristen, die Geschichte, Natur und authentische rumänische Gastfreundschaft suchen.",
       "hu": "",
-      "ro": "",
+      "ro": "Câmpulung, adesea numit Câmpulung Muscel, a fost prima reședință a domnitorilor Țării Românești și este un oraș plin de farmec medieval. Geografic, este situat într-o depresiune între poalele Carpaților, oferind o climă plăcută și un peisaj montan impresionant. Orașul este cunoscut pentru arhitectura sa bine conservată și pentru Mănăstirea Negru Vodă. Câmpulung a fost un loc unde s-au amestecat influențe culturale românești și săsești. Este, de asemenea, faimos pentru primul document scris în limba română, Scrisoarea lui Neacșu. Astăzi, este o destinație populară pentru turiștii care caută istorie și natură.",
       "en": ""
 },
     "factsAdvanced": {
@@ -381,7 +381,7 @@ export const poiExtraRo1: POI[] = [
             "In der Nähe befindet sich das Mausoleum von Mateiaș, das den Helden des Ersten Weltkriegs gewidmet ist."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Câmpulung a fost menționat pentru prima dată în 1300 și a fost capitala Țării Românești până în 1369.", "Aici a fost redactată în 1521 Scrisoarea lui Neacșu, cel mai vechi document păstrat în limba română.", "Mănăstirea Negru Vodă a fost ridicată, conform legendei, de miticul fondator al Țării Românești în 1215.", "În Evul Mediu, a fost un important centru comercial cu Transilvania.", "În apropiere se află Mausoleul de la Mateiaș, dedicat eroilor din Primul Război Mondial."],
       "en": []
 }
   },
@@ -414,7 +414,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Mioveni ist eine dynamische Industriestadt im Kreis Argeș, die vor allem als Herz der rumänischen Automobilindustrie bekannt ist. Hier befindet sich das riesige Werk von Automobile Dacia, das einen entscheidenden Beitrag zur nationalen Wirtschaft leistet. Die Stadt hat sich in den letzten Jahrzehnten von einer kleinen Siedlung zu einem modernen urbanen Zentrum entwickelt, das seinen Bewohnern eine hohe Lebensqualität bietet. Geografisch liegt Mioveni in der hügeligen Region der Getischen Hochebene, unweit der Stadt Pitești. Neben der Industrie legt die Stadt großen Wert auf Sport und Bildung, was sich in modernen Sportanlagen und kulturellen Einrichtungen widerspiegelt. Mioveni ist auch für sein Forschungsinstitut für Kernenergie bekannt, was die Stadt zu einem Standort für Hochtechnologie macht. Trotz des industriellen Charakters ist die Umgebung von Mioveni von grünen Landschaften und traditionellen Dörfern geprägt, die einen interessanten Kontrast zum modernen Stadtleben bilden.",
       "hu": "",
-      "ro": "",
+      "ro": "Mioveni este un oraș industrial dinamic din județul Argeș, cunoscut în principal ca inima industriei auto din România, găzduind uzina Automobile Dacia. În ultimele decenii, s-a transformat dintr-o mică așezare într-un centru urban modern. Geografic, Mioveni se află în regiunea deluroasă a Podișului Getic. Pe lângă industrie, orașul pune un mare accent pe sport și educație. Mioveni este, de asemenea, cunoscut pentru Institutul de Cercetări Nucleare, ceea ce îl face un centru de înaltă tehnologie. În ciuda caracterului său industrial, împrejurimile sunt marcate de peisaje verzi și sate tradiționale.",
       "en": ""
 },
     "factsAdvanced": {
@@ -429,7 +429,7 @@ export const poiExtraRo1: POI[] = [
             "Der Automobilsektor macht über 90% der lokalen Wirtschaftsleistung aus."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Între anii 1964 și 1996, orașul s-a numit 'Colibași'.", "Uzina Dacia din Mioveni produce anual sute de mii de vehicule pentru piața mondială.", "Aici a fost fabricat primul Dacia 1100 în 1968, sub licență franceză.", "Mioveni găzduiește unicul Institut de Cercetări Nucleare (ICN) din România.", "Orașul dispune de o arenă sportivă modernă care găzduiește competiții naționale.", "Sectorul auto reprezintă peste 90% din performanța economică locală."],
       "en": []
 }
   },
@@ -462,7 +462,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Onești ist eine bedeutende Industriestadt im Kreis Bacău, gelegen am Zusammenfluss der Flüsse Trotuș, Cașin, Oituz und Tazlău. Die Stadt wurde in den 1950er Jahren als geplantes Industriezentrum massiv ausgebaut und war zeitweise nach dem kommunistischen Führer Gheorghe Gheorghiu-Dej benannt. Onești ist weltweit bekannt als die Heimatstadt der legendären Turnerin Nadia Comăneci, die hier ihre Karriere begann. Wirtschaftlich ist die Stadt durch die chemische Industrie und den Energiesektor geprägt, insbesondere durch den Borzești-Komplex. Geografisch liegt Onești in einer strategisch günstigen Senke, die den Übergang zwischen den Karpaten und der moldauischen Hochebene bildet. Die Stadt ist von bewaldeten Hügeln umgeben, die zahlreiche Freizeitmöglichkeiten bieten. Kulturell hat sich Onești zu einem regionalen Zentrum mit Museen, Theatern und Parks entwickelt, die die industrielle Geschichte und den sportlichen Ruhm der Stadt würdigen.",
       "hu": "",
-      "ro": "",
+      "ro": "Onești este un important oraș industrial din județul Bacău, situat la confluența râurilor Trotuș, Cașin, Oituz și Tazlău. Orașul a fost masiv extins în anii 1950 ca un centru industrial planificat și a fost numit temporar după liderul comunist Gheorghe Gheorghiu-Dej. Onești este cunoscut la nivel mondial ca fiind orașul natal al legendarei gimnaste Nadia Comăneci. Economic, orașul este marcat de industria chimică și sectorul energetic, în special prin complexul Borzești. Geografic, Onești se află într-o depresiune strategică. Cultural, s-a dezvoltat într-un centru regional cu muzee, teatre și parcuri.",
       "en": ""
 },
     "factsAdvanced": {
@@ -477,7 +477,7 @@ export const poiExtraRo1: POI[] = [
             "Die umliegenden Wälder beherbergen eine reiche Fauna, darunter Hirsche und Wildschweine."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Între 1958 și 1996, orașul a purtat numele Gheorghe Gheorghiu-Dej.", "Nadia Comăneci, prima gimnastă care a obținut nota 10 perfect la Jocurile Olimpice din 1976, s-a născut aici.", "Combinatul chimic de la Borzești a fost odată unul dintre cele mai mari din Europa de Est.", "Biserica din Borzești, ctitorită de Ștefan cel Mare în 1494, este un important monument istoric.", "Orașul este un nod important pentru transportul feroviar și rutier în regiunea Moldova.", "La Onești există un liceu special pentru performanțe sportive de înaltă clasă."],
       "en": []
 }
   },
@@ -510,7 +510,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Moinești ist eine Stadt im Kreis Bacău, die tief mit der Geschichte der Erdölförderung in Rumänien verbunden ist. Die Region gilt als eine der ältesten Zonen der Welt, in denen Erdöl industriell gewonnen wurde. Die Landschaft um Moinești ist geprägt von den sanften Ausläufern der Karpaten und bietet eine beeindruckende Naturkulisse. Kulturell hat die Stadt eine besondere Bedeutung als Geburtsort von Tristan Tzara, dem Mitbegründer der Dadaismus-Bewegung. Zu seinem Gedenken wurde in der Stadt ein monumentales Denkmal errichtet. Neben der Ölindustrie ist Moinești auch für seine heilenden Mineralquellen bekannt, die bereits im 19. Jahrhundert genutzt wurden. Die Stadt hat sich in den letzten Jahren bemüht, ihr industrielles Erbe mit ökologischem Tourismus und kulturellen Initiativen zu verbinden. Besucher können die 'Dada'-Atmosphäre schnuppern oder in den umliegenden Wäldern wandern, was Moinești zu einem facettenreichen Ziel in der Region Moldau macht.",
       "hu": "",
-      "ro": "",
+      "ro": "Moinești este un oraș din județul Bacău, profund legat de istoria extracției de petrol din România, fiind considerată una dintre cele mai vechi zone din lume unde petrolul a fost extras industrial. Peisajul din jurul Moineștiului este marcat de poalele blânde ale Carpaților. Cultural, orașul are o semnificație deosebită ca loc de naștere al lui Tristan Tzara, co-fondatorul mișcării Dada. În memoria sa, a fost ridicat un monument impresionant. Pe lângă industria petrolieră, Moinești este cunoscut și pentru izvoarele sale minerale curative. Orașul se străduiește să combine moștenirea industrială cu turismul ecologic și inițiativele culturale.",
       "en": ""
 },
     "factsAdvanced": {
@@ -525,7 +525,7 @@ export const poiExtraRo1: POI[] = [
             "Der 'Parcul Pinilor' (Kiefernpark) ist ein beliebtes Erholungsgebiet mit alten Nadelbaumbeständen."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["La Moinești, prima utilizare a petrolului a fost documentată încă din 1445.", "Tristan Tzara, liderul dadaismului, s-a născut aici în 1896 ca Samuel Rosenstock.", "Monumentul Dada a fost creat în 1996 de sculptorul Ingo Glass, la 100 de ani de la nașterea lui Tzara.", "Orașul deține izvoare curative cu conținut de clor, sodiu și sulf.", "Extracția de petrol din regiune este operată astăzi în principal de OMV Petrom.", "Parcul Pinilor este o zonă populară de agrement cu arbori de conifere vechi."],
       "en": []
 }
   },
@@ -558,7 +558,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Comănești liegt idyllisch im Trotuș-Tal im Kreis Bacău und ist von den dichten Wäldern der Ostkarpaten umgeben. Die Stadt hat eine lange industrielle Tradition, die eng mit der Forstwirtschaft und dem Bergbau verknüpft ist. Besonders sehenswert ist der Ghika-Palast, ein architektonisches Meisterwerk aus dem späten 19. Jahrhundert, das einst der Adelsfamilie Ghika gehörte und heute ein Museum beherbergt. Der Palast ist von einem weitläufigen Park umgeben, der zu entspannten Spaziergängen einlädt. Geografisch ist Comănești ein wichtiger Ausgangspunkt für Wanderungen in die nahegelegenen Berge, wie das Tarcău- oder Ciuc-Gebirge. Die Stadt pflegt ihre moldauischen Traditionen, was besonders bei den Winterfestspielen mit ihren charakteristischen Bärenumzügen deutlich wird. Comănești verbindet die raue Schönheit der Industriegeschichte mit dem kulturellen Glanz der Vergangenheit und der unberührten Natur der Karpaten.",
       "hu": "",
-      "ro": "",
+      "ro": "Comănești este situat idilic în Valea Trotușului, în județul Bacău, înconjurat de pădurile dese ale Carpaților Orientali. Orașul are o lungă tradiție industrială, strâns legată de silvicultură și minerit. Deosebit de remarcabil este Palatul Ghika, o capodoperă arhitecturală de la sfârșitul secolului al XIX-lea, care a aparținut familiei nobiliare Ghika și astăzi găzduiește un muzeu. Geografic, Comănești este un punct de plecare important pentru drumeții în munții din apropiere. Orașul își păstrează tradițiile moldovenești, ceea ce este evident în special la festivalurile de iarnă, cu paradele lor caracteristice de urși.",
       "en": ""
 },
     "factsAdvanced": {
@@ -573,7 +573,7 @@ export const poiExtraRo1: POI[] = [
             "Comănești liegt auf einer Höhe von etwa 400 Metern über dem Meeresspiegel."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Palatul Ghika a fost proiectat în 1890 de arhitectul italian Albert Galleron.", "Comănești este renumit pentru 'Jocul Urșilor', un obicei spectaculos de Anul Nou.", "Orașul se află pe linia ferată strategică ce leagă Moldova de Transilvania.", "În trecut, Comănești a fost un centru important pentru extracția de cărbune în regiune.", "Muzeul orășenesc din Palatul Ghika prezintă exponate de etnografie și artă contemporană.", "Silvicultura joacă și astăzi un rol central în economia locală."],
       "en": []
 }
   },
@@ -606,7 +606,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Salonta, im Deutschen Groß-Salontha genannt, ist eine geschichtsträchtige Stadt im Kreis Bihor, direkt an der Grenze zu Ungarn. Sie ist weit über die Region hinaus als Heimatort des berühmten ungarischen Dichters János Arany bekannt. Das Wahrzeichen der Stadt ist der 'Csonkatorony' (Stumpfer Turm), der Rest einer einstigen Festung, in dem heute das Arany-János-Gedenkmuseum untergebracht ist. Die Stadt ist geprägt von einer ruhigen, ländlichen Atmosphäre und einer Architektur, die typisch für die Pannonische Tiefebene ist. Die weiten Ebenen um Salonta bieten ideale Bedingungen für die Landwirtschaft, die seit Jahrhunderten die wirtschaftliche Basis der Gemeinde bildet. Kulturell ist Salonta ein Ort des engen Zusammenlebens zwischen Rumänen und Ungarn, was sich in der zweisprachigen Kultur und den vielfältigen Veranstaltungen widerspiegelt. Die Stadt ist ein Symbol für literarische Tradition und grenzüberschreitende Verbundenheit.",
       "hu": "",
-      "ro": "",
+      "ro": "Salonta, cunoscută în germană ca Groß-Salontha, este un oraș istoric din județul Bihor, situat chiar la granița cu Ungaria. Este cunoscut ca locul de naștere al celebrului poet maghiar János Arany. Simbolul orașului este 'Turnul Ciunt', rămășița unei foste cetăți, care acum găzduiește Muzeul Memorial Arany János. Orașul are o atmosferă rurală liniștită. Câmpiile largi din jurul Salontei oferă condiții ideale pentru agricultură. Cultural, Salonta este un loc de strânsă conviețuire între români și maghiari, reflectată în cultura bilingvă și evenimentele diverse.",
       "en": ""
 },
     "factsAdvanced": {
@@ -621,7 +621,7 @@ export const poiExtraRo1: POI[] = [
             "In der Umgebung von Salonta gibt es bedeutende Schutzgebiete für die Großtrappe, einen seltenen Steppenvogel."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Salonta a fost fondată în 1606 de principele István Bocskai ca așezare pentru 300 de haiduci.", "János Arany, unul dintre cei mai importanți poeți lirici maghiari, s-a născut la Salonta în 1817.", "Turnul Ciunt a făcut parte dintr-o cetate care în secolul al XVII-lea servea la protecția împotriva otomanilor.", "Salonta este al doilea cel mai mare oraș din județul Bihor, după Oradea.", "Salonta este renumită pentru producția sa tradițională de salam și mezeluri.", "În împrejurimile Salontei există arii protejate importante pentru dropie, o pasăre rară de stepă."],
       "en": []
 }
   },
@@ -654,7 +654,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Marghita, auf Deutsch Margarethen, ist eine lebendige Stadt im Norden des Kreises Bihor. Sie liegt eingebettet in die sanfte Hügellandschaft des Barcău-Tals und dient als wichtiges wirtschaftliches Zentrum für die umliegenden Gemeinden. Die Stadt hat eine lange Geschichte, die durch verschiedene kulturelle Einflüsse geprägt wurde, was sich heute in einem harmonischen Miteinander von Rumänen, Ungarn und anderen Ethnien zeigt. Ein besonderes Highlight von Marghita ist das Thermalbad, dessen heilendes Wasser Besucher aus der ganzen Region anzieht. Die Architektur im Stadtzentrum umfasst historische Gebäude sowie moderne Einrichtungen, die die stetige Entwicklung widerspiegeln. Geografisch ist Marghita von fruchtbarem Ackerland und Weinbergen umgeben, die der Region einen malerischen Charakter verleihen. Die Stadt ist zudem ein idealer Ausgangspunkt, um die unberührte Natur Nordwestrumäniens zu erkunden und lokale Traditionen hautnah zu erleben.",
       "hu": "",
-      "ro": "",
+      "ro": "Marghita, în germană Margarethen, este un oraș vibrant în nordul județului Bihor. Este situat în peisajul deluros al Văii Barcăului și servește ca un important centru economic. Orașul are o istorie lungă, marcată de diverse influențe culturale, ceea ce se reflectă într-o conviețuire armonioasă. O atracție specială a Marghitei este ștrandul termal, ale cărui ape curative atrag vizitatori. Arhitectura include clădiri istorice și facilități moderne. Geografic, Marghita este înconjurată de terenuri agricole fertile și podgorii, fiind un punct de plecare ideal pentru a explora natura nealterată a nord-vestului României.",
       "en": ""
 },
     "factsAdvanced": {
@@ -669,7 +669,7 @@ export const poiExtraRo1: POI[] = [
             "Das jährliche Stadtfest im Sommer ist ein Höhepunkt des kulturellen Lebens mit Musik und traditionellem Handwerk."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Marghita a fost menționată pentru prima dată în anul 1216.", "Ștrandul termal din Marghita este cunoscut pentru eficacitatea sa în tratarea afecțiunilor reumatice.", "Marghita a primit oficial statutul de municipiu în anul 2003.", "Orașul găzduiește Castelul Csáky, o importantă construcție barocă ce servește astăzi ca primărie.", "Economia este marcată de industria textilă, prelucrarea alimentelor și agricultură.", "Sărbătoarea anuală a orașului este un punct culminant al vieții culturale."],
       "en": []
 }
   },
@@ -702,7 +702,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Beiuș, im Deutschen Binsch genannt, ist ein bedeutendes kulturelles und bildungspolitisches Zentrum im Südosten des Kreises Bihor. Die Stadt liegt in der malerischen Beiuș-Senke, die vom Fluss Crișul Negru durchflossen wird und von den majestätischen Apuseni-Bergen umgeben ist. Beiuș ist bekannt für seine lange Tradition als Schulstadt, insbesondere durch das renommierte Samuil-Vulcan-Gymnasium, das im frühen 19. Jahrhundert gegründet wurde. Die Architektur der Stadt spiegelt ihre Bedeutung als administratives Zentrum der Region wider, mit eleganten Gebäuden und gepflegten Parks. Geografisch ist Beiuș ein Tor zum Naturpark Apuseni und bietet schnellen Zugang zu berühmten Sehenswürdigkeiten wie der Bärenhöhle (Peștera Urșilor). Die Region um Beiuș ist zudem reich an geothermischen Ressourcen, die zunehmend für Heizzwecke und den Tourismus genutzt werden. Die Mischung aus intellektuellem Erbe, Naturverbundenheit und Gastfreundschaft macht Beiuș zu einem einzigartigen Ort in Westrumänien.",
       "hu": "",
-      "ro": "",
+      "ro": "Beiuș, cunoscut în germană ca Binsch, este un important centru cultural și educațional în sud-estul județului Bihor. Orașul este situat în pitoreasca Depresiune a Beiușului, traversată de râul Crișul Negru și înconjurată de Munții Apuseni. Beiuș este cunoscut pentru lunga sa tradiție ca oraș școlar, în special prin renumitul Colegiu Național 'Samuil Vulcan', fondat la începutul secolului al XIX-lea. Geografic, Beiuș este o poartă către Parcul Natural Apuseni, oferind acces rapid la obiective turistice renumite precum Peștera Urșilor. Regiunea este, de asemenea, bogată în resurse geotermale. Amestecul de moștenire intelectuală și natură face din Beiuș un loc unic.",
       "en": ""
 },
     "factsAdvanced": {
@@ -717,7 +717,7 @@ export const poiExtraRo1: POI[] = [
             "Die Bevölkerung von Beiuș ist überwiegend rumänisch, mit einer bedeutenden ungarischen Minderheit."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Beiuș a fost menționat pentru prima dată în documente în 1263, după marea invazie tătară.", "Colegiul Național 'Samuil Vulcan', fondat în 1828, a fost una dintre primele instituții de învățământ românești din Transilvania.", "Orașul utilizează energia geotermală pentru încălzirea unei mari părți a clădirilor publice.", "În apropierea Beiușului se află satul Meziad, cu una dintre cele mai mari peșteri din România.", "Biserica ortodoxă 'Sfântul Dumitru' este un monument arhitectural central al orașului."],
       "en": []
 }
   },
@@ -750,7 +750,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Năsăud, im Deutschen als Nassod bekannt, ist eine geschichtsträchtige Stadt im Norden Siebenbürgens, die oft als 'Stadt der Gelehrten' bezeichnet wird. Diese prestigeträchtige Bezeichnung verdankt sie ihrer langen Tradition als Bildungszentrum, insbesondere durch das renommierte rumänische Grenzregiment, das die Entwicklung einer starken intellektuellen Elite förderte. Geografisch liegt die Stadt malerisch im Tal des Großen Somesch (Someșul Mare) und ist von den sanften Hügeln des nassoder Landes umgeben. Die Architektur von Nassod spiegelt die militärische Vergangenheit und den bürgerlichen Wohlstand des 19. Jahrhunderts wider. Besonders hervorzuheben ist das Museum des Grenzregiments, das tiefere Einblicke in die lokale Identität und die stolzen Traditionen der Region bietet. Kulturell bleibt Năsăud ein lebendiger Ort, an dem traditionelle Trachten und Bräuche mit großem Stolz gepflegt werden, was die Stadt zu einem authentischen Ziel für Geschichtsinteressierte macht.",
       "hu": "",
-      "ro": "",
+      "ro": "Năsăud, cunoscut în germană ca Nassod, este un oraș istoric din nordul Transilvaniei, adesea numit 'Orașul Academicienilor'. Această denumire prestigioasă se datorează lungii sale tradiții ca centru educațional, în special prin renumitul regiment de graniță românesc care a promovat dezvoltarea unei elite intelectuale puternice. Geografic, orașul este situat pitoresc în valea Someșului Mare. Arhitectura Năsăudului reflectă trecutul militar și prosperitatea burgheză a secolului al XIX-lea. De remarcat este Muzeul Grăniceresc, care oferă perspective asupra identității locale. Cultural, Năsăudul rămâne un loc vibrant unde costumele și obiceiurile tradiționale sunt păstrate cu mândrie.",
       "en": ""
 },
     "factsAdvanced": {
@@ -765,7 +765,7 @@ export const poiExtraRo1: POI[] = [
             "Năsăud ist ein wichtiger Ausgangspunkt für Erkundungen im Rodna-Gebirge."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Năsăud a fost menționat pentru prima dată în 1245.", "Orașul a fost centrul celui de-al 2-lea Regiment Românesc de Graniță din Imperiul Habsburgic.", "Peste 20 de membri ai Academiei Române provin din Năsăud sau din imediata apropiere.", "Muzeul Grăniceresc este găzduit într-o fostă cazarmă din secolul al XVIII-lea.", "În fiecare an, în luna mai, are loc parada 'Maial', unde sunt prezentate costume tradiționale.", "Năsăud este un punct de plecare important pentru explorări în Munții Rodnei."],
       "en": []
 }
   },
@@ -798,7 +798,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Beclean, auf Deutsch Bethlen, ist ein strategisch wichtiger Verkehrsknotenpunkt und ein wachsendes Touristenzentrum im Kreis Bistrița-Năsăud. Die Stadt liegt am Zusammenfluss der Flüsse Someșul Mare und Șieu und blickt auf eine reiche mittelalterliche Geschichte zurück, die eng mit der ungarischen Adelsfamilie Bethlen verbunden ist. Heute ist Beclean vor allem für das moderne Resort 'Băile Figa' bekannt, das für seine heilenden Schlämme und Salzwasserquellen berühmt ist und Besucher aus dem ganzen Land anzieht. Geografisch bildet die Stadt das Tor zu den nördlichen Regionen Siebenbürgens und verbindet wichtige Handelswege. Die Architektur von Beclean zeigt eine interessante Mischung aus barocken Einflüssen und moderner Entwicklung. Neben den Kurmöglichkeiten bietet die Umgebung von Beclean zahlreiche Gelegenheiten für Naturbeobachtungen und Wanderungen in einer unberührten Flusslandschaft, was die Stadt zu einem vielseitigen Ziel für Erholungssuchende macht.",
       "hu": "",
-      "ro": "",
+      "ro": "Beclean, în germană Bethlen, este un nod de transport strategic și un centru turistic în creștere în județul Bistrița-Năsăud. Orașul este situat la confluența râurilor Someșul Mare și Șieu și are o istorie medievală bogată, strâns legată de familia nobiliară maghiară Bethlen. Astăzi, Beclean este renumit în special pentru stațiunea modernă 'Băile Figa', celebră pentru nămolurile sale curative și izvoarele de apă sărată. Geografic, orașul este poarta către regiunile nordice ale Transilvaniei. Arhitectura Becleanului prezintă un amestec interesant de influențe baroce și dezvoltare modernă.",
       "en": ""
 },
     "factsAdvanced": {
@@ -813,7 +813,7 @@ export const poiExtraRo1: POI[] = [
             "In der Nähe fand 1848 eine bedeutende Schlacht der ungarischen Revolution statt."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Beclean a fost menționat pentru prima dată în 1235 sub numele de Bethleem.", "Castelul Bethlen este un important monument de arhitectură barocă în centrul orașului.", "Stațiunea Băile Figa se întinde pe 15 hectare și oferă bazine cu apă sărată terapeutică.", "Beclean este un nod feroviar important în nordul României.", "Herghelia Beclean este renumită pentru creșterea cailor din rasa Lipițan.", "În apropiere a avut loc în 1848 o bătălie importantă a Revoluției Maghiare."],
       "en": []
 }
   },
@@ -846,7 +846,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Sângeorz-Băi, bekannt unter dem deutschen Namen Sankt Georgen, ist einer der traditionsreichsten Kurorte Rumäniens, gelegen am südlichen Fuße des Rodna-Gebirges. Die Stadt ist weltberühmt für ihre mineralhaltigen Heilquellen, deren Wasser bereits seit dem 18. Jahrhundert für seine heilende Wirkung bei Verdauungs- und Stoffwechselerkrankungen geschätzt wird. Die malerische Lage im Tal des Flusses Cormaia, umgeben von dichten Nadelwäldern, bietet ein einzigartiges Mikroklima mit ionisierter Luft, das die Regeneration fördert. Sângeorz-Băi hat sich seinen authentischen Charme bewahrt, wobei moderne Wellness-Einrichtungen harmonisch neben traditioneller Architektur und lokalen Bräuchen existieren. Kulturell ist die Stadt für das 'Museum für vergleichende Kunst' bekannt, das einen interessanten Kontrast zum ländlichen Umfeld bildet. Für Naturliebhaber dient der Ort als idealer Ausgangspunkt für anspruchsvolle Wanderungen in die alpine Welt der Karpaten.",
       "hu": "",
-      "ro": "",
+      "ro": "Sângeorz-Băi, cunoscut sub numele german de Sankt Georgen, este una dintre cele mai tradiționale stațiuni balneare din România, situată la poalele sudice ale Munților Rodnei. Orașul este renumit mondial pentru izvoarele sale minerale curative, ale căror ape sunt apreciate încă din secolul al XVIII-lea. Poziția pitorească în valea râului Cormaia, înconjurată de păduri dese de conifere, oferă un microclimat unic. Sângeorz-Băi și-a păstrat farmecul autentic. Cultural, orașul este cunoscut pentru 'Muzeul de Artă Comparată'. Pentru iubitorii de natură, localitatea servește ca un punct de plecare ideal pentru drumeții în lumea alpină a Carpaților.",
       "en": ""
 },
     "factsAdvanced": {
@@ -861,7 +861,7 @@ export const poiExtraRo1: POI[] = [
             "Der Kurort bietet neun verschiedene Mineralquellen mit unterschiedlicher chemischer Zusammensetzung."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Efectul curativ al izvoarelor locale a fost documentat oficial pentru prima dată în 1770.", "Apa minerală de la Sângeorz-Băi a fost distribuită în toată Europa în secolul al XIX-lea sub numele 'Hebe'.", "Muzeul de Artă Comparată din oraș găzduiește lucrări ale artiștilor internaționali.", "Sângeorz-Băi a primit statutul de oraș în 1960.", "Stațiunea balneară oferă nouă izvoare minerale diferite, cu compoziții chimice variate.", "Anual, aici au loc numeroase simpozioane de sculptură."],
       "en": []
 }
   },
@@ -894,7 +894,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Dorohoi ist eine geschichtsträchtige Stadt im Norden der Region Moldau, die durch ihre Bedeutung als mittelalterliches Handelszentrum geprägt wurde. Gelegen am Ufer des Flusses Jijia, war die Stadt über Jahrhunderte ein wichtiger Knotenpunkt für den Warenaustausch zwischen Mitteleuropa und dem Orient. Das architektonische Highlight von Dorohoi ist die vom moldauischen Fürsten Stefan dem Großen im Jahr 1495 errichtete Nikolaus-Kirche, die ein herausragendes Beispiel der moldauischen Architektur darstellt. Die Stadt strahlt eine ruhige Eleganz aus, mit gut erhaltenen Bürgerhäusern aus dem späten 19. und frühen 20. Jahrhundert. Neben ihrer historischen Bedeutung ist Dorohoi heute ein kulturelles Zentrum mit Museen, die dem Komponisten George Enescu gewidmet sind, der in der Nähe geboren wurde. Die umliegende Landschaft ist geprägt von sanften Hügeln und fruchtbarem Ackerland, was der Region einen typisch moldauischen Charme verleiht.",
       "hu": "",
-      "ro": "",
+      "ro": "Dorohoi este un oraș istoric din nordul regiunii Moldova, marcat de importanța sa ca centru comercial medieval. Situat pe malul râului Jijia, a fost un nod important pentru schimbul de mărfuri între Europa Centrală și Orient. Punctul culminant arhitectural este Biserica Sfântul Nicolae, ctitorită de Ștefan cel Mare în 1495. Orașul emană o eleganță liniștită, cu case burgheze bine conservate. Pe lângă importanța sa istorică, Dorohoi este astăzi un centru cultural cu muzee dedicate compozitorului George Enescu, care s-a născut în apropiere. Peisajul înconjurător este caracterizat de dealuri blânde.",
       "en": ""
 },
     "factsAdvanced": {
@@ -909,7 +909,7 @@ export const poiExtraRo1: POI[] = [
             "Die jüdische Gemeinde von Dorohoi spielte historisch eine zentrale Rolle in der wirtschaftlichen Entwicklung der Stadt."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Dorohoi a fost menționat pentru prima dată în 1407 într-un tratat comercial cu negustorii din Lviv.", "Biserica Sfântul Nicolae posedă fresce exterioare impresionante din secolul al XV-lea.", "La Dorohoi se află Muzeul Memorial George Enescu, în fosta casă a tatălui artistului.", "Până în 1950, a fost capitala județului omonim Dorohoi.", "Comunitatea evreiască din Dorohoi a jucat un rol central în dezvoltarea economică a orașului.", "Primăria orașului este o clădire neoclasică splendidă de la începutul secolului XX."],
       "en": []
 }
   },
@@ -942,7 +942,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Darabani hat die Besonderheit, die nördlichste Stadt Rumäniens zu sein, und liegt im Dreiländereck nahe der Grenzen zu Moldawien und der Ukraine. Die Stadt ist ein Paradebeispiel für eine ländlich geprägte Kleinstadt in der Region Moldau, die trotz ihrer abgelegenen Lage eine wichtige administrative und kulturelle Funktion für das Umland erfüllt. Geografisch wird Darabani vom Fluss Prut im Norden begrenzt, dessen Auenlandschaften eine unberührte Natur bieten. Die Geschichte der Stadt ist eng mit dem Leben an der Grenze und dem Handel verbunden, was sich in der Architektur des 19. Jahrhunderts widerspiegelt. Ein besonderes Wahrzeichen ist die lokale Kirche mit ihren markanten Türmen und die umliegenden Parks, die als grüne Oasen dienen. Heute bemüht sich Darabani, durch grenzüberschreitende Projekte und die Förderung lokaler Traditionen an Bedeutung zu gewinnen und Besuchern einen Einblick in das authentische Leben im hohen Norden Rumäniens zu ermöglichen.",
       "hu": "",
-      "ro": "",
+      "ro": "Darabani are particularitatea de a fi cel mai nordic oraș din România, situat la intersecția a trei țări, aproape de granițele cu Moldova și Ucraina. Orașul este un exemplu de mic oraș rural din regiunea Moldovei, care, în ciuda locației sale izolate, îndeplinește o funcție administrativă și culturală importantă. Geografic, Darabani este mărginit la nord de râul Prut. Istoria orașului este strâns legată de viața la frontieră și de comerț, ceea ce se reflectă în arhitectura secolului al XIX-lea. Astăzi, Darabani se străduiește să câștige importanță prin proiecte transfrontaliere și promovarea tradițiilor locale.",
       "en": ""
 },
     "factsAdvanced": {
@@ -957,7 +957,7 @@ export const poiExtraRo1: POI[] = [
             "Die Wirtschaft der Stadt basiert hauptsächlich auf Landwirtschaft und lokalem Kleingewerbe."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Darabani este cel mai nordic punct al României cu statut de oraș.", "Orașul a fost fondat în 1837 la inițiativa nobilului Teodor Balș.", "La Darabani se află cea mai veche școală de stat din județul Botoșani, fondată în 1841.", "Parcul 'Poiana Teioasa' din Darabani este unul dintre cele mai mari și mai vechi parcuri naturale din regiune.", "Darabani este cunoscut pentru festivalul anual 'Zilele Nordului', care celebrează cultura și muzica.", "Distanța până la granița cu Ucraina este mai mică de 10 kilometri."],
       "en": []
 }
   },
@@ -990,7 +990,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Săveni ist eine charmante Kleinstadt im Kreis Botoșani, die für ihre starke landwirtschaftliche Identität und ihre kulinarischen Spezialitäten bekannt ist. Die Stadt liegt in der sanften Hügellandschaft der moldauischen Ebene und hat sich über die Jahre zu einem wichtigen lokalen Wirtschaftszentrum entwickelt. Das absolute Aushängeschild der Region ist der 'Cașcaval de Săveni', ein traditioneller Käse, der für seine hohe Qualität und seinen einzigartigen Geschmack weit über die Landesgrenzen hinaus geschätzt wird. Geografisch wird die Stadt von kleinen Flüssen und fruchtbaren Feldern umgeben, die das Rückgrat der lokalen Wirtschaft bilden. Kulturell pflegt Săveni ein ruhiges, traditionelles Leben, wobei die lokalen Märkte ein zentraler Treffpunkt für den Austausch von Waren und Neuigkeiten sind. Für Besucher bietet Săveni einen authentischen Einblick in das ländliche Leben der Region Moldau, geprägt von Gastfreundschaft und einer engen Verbundenheit mit der Natur.",
       "hu": "",
-      "ro": "",
+      "ro": "Săveni este un fermecător orășel din județul Botoșani, cunoscut pentru identitatea sa agricolă puternică și specialitățile culinare. Situat în peisajul deluros al Câmpiei Moldovei, orașul a devenit un important centru economic local. Produsul emblematic al regiunii este 'Cașcavalul de Săveni', un produs tradițional apreciat pentru calitatea sa înaltă. Geografic, orașul este înconjurat de mici râuri și câmpuri fertile. Cultural, Săveni menține o viață liniștită, tradițională, piețele locale fiind un punct central de întâlnire. Pentru vizitatori, Săveni oferă o perspectivă autentică asupra vieții rurale din Moldova.",
       "en": ""
 },
     "factsAdvanced": {
@@ -1005,7 +1005,7 @@ export const poiExtraRo1: POI[] = [
             "Die Bevölkerung der Stadt beträgt etwa 7.000 Einwohner."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Săveni a fost menționat pentru prima dată în 1546.", "Cașcavalul de Săveni deține o Indicație Geografică Protejată (IGP) în UE.", "Orașul se află pe malul râului Bașeu, la o altitudine de aproximativ 100 de metri.", "Săveni a primit oficial statutul de oraș în anul 1968.", "Muzeul local de arheologie și științe naturale prezintă descoperiri importante din regiune.", "Economia orașului este puternic marcată de prelucrarea alimentelor și agricultură."],
       "en": []
 }
   },
@@ -1038,7 +1038,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Făgăraș, im Deutschen als Fogarasch bekannt, ist eine der historisch bedeutendsten Städte Siebenbürgens und liegt strategisch günstig am Fuße des majestätischen Făgăraș-Gebirges. Das absolute Wahrzeichen der Stadt ist die beeindruckende Festung Făgăraș, die im 14. Jahrhundert erbaut wurde und über Jahrhunderte als Residenz für transsilvanische Fürsten und als strategisches Militärzentrum diente. Die Festung gilt als eine der am besten erhaltenen Burganlagen Rumäniens und ist heute ein Magnet für Touristen aus aller Welt. Geografisch liegt die Stadt im malerischen Olt-Tal und dient als ideales Basislager für Expeditionen in die höchsten Gipfel der Südkarpaten. Die Architektur von Fogarasch ist geprägt von einer Mischung aus mittelalterlichen Elementen, barocken Kirchen und Gebäuden aus der Zeit der habsburgischen Herrschaft. Kulturell ist die Stadt ein Symbol für den Widerstand und die Standhaftigkeit der Region, was sich in den zahlreichen Museen und Denkmälern widerspiegelt.",
       "hu": "",
-      "ro": "",
+      "ro": "Făgăraș, cunoscut în germană ca Fogarasch, este unul dintre cele mai importante orașe istorice ale Transilvaniei, situat strategic la poalele majestuoșilor Munți Făgăraș. Simbolul absolut al orașului este impresionanta Cetate Făgăraș, construită în secolul al XIV-lea. Cetatea este considerată una dintre cele mai bine conservate din România. Geografic, orașul se află în pitoreasca Vale a Oltului și servește ca bază ideală pentru expediții. Arhitectura Făgărașului este marcată de un amestec de elemente medievale, biserici baroce și clădiri din perioada dominației habsburgice. Cultural, orașul este un simbol al rezistenței.",
       "en": ""
 },
     "factsAdvanced": {
@@ -1053,7 +1053,7 @@ export const poiExtraRo1: POI[] = [
             "In der Nähe befindet sich das Kloster Sâmbăta de Sus, ein bedeutendes spirituelles Zentrum der Orthodoxie."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Cetatea Făgăraș nu a fost niciodată cucerită militar printr-un asediu.", "În secolul al XVII-lea, orașul a fost capitala neoficială a Transilvaniei.", "Făgăraș a fost menționat pentru prima dată în 1291.", "Cetatea este înconjurată de un șanț larg cu apă, care este și astăzi inundat.", "În perioada comunistă, cetatea a fost folosită ca o închisoare de temut pentru deținuții politici.", "Biserica barocă 'Sfântul Nicolae' a fost ctitorită de domnitorul Constantin Brâncoveanu."],
       "en": []
 }
   },
@@ -1086,7 +1086,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Săcele, im Deutschen Siebendörfer genannt, ist eine einzigartige Stadt, die sich am südöstlichen Rand des Burzenlandes, direkt am Fuße des Piatra-Mare-Massivs, erstreckt. Wie der Name schon sagt, entstand die Stadt durch den Zusammenschluss von sieben ursprünglichen Dörfern, was ihr eine besondere langgestreckte Struktur verleiht. Săcele ist tief verwurzelt in der Tradition der 'Mocani', einer Gemeinschaft von rumänischen Schafhirten, die über Jahrhunderte den Reichtum der Region durch den Fernhandel mit Vieh begründeten. Die Architektur der Stadt ist geprägt von den massiven, wehrhaften Toren der alten Bauernhäuser und einer Vielzahl von Kirchen verschiedener Konfessionen, was die multikulturelle Geschichte der Region widerspiegelt. Geografisch bietet Săcele einen direkten Zugang zu spektakulären Naturdenkmälern wie der Sieben-Leitern-Klamm (Canionul Șapte Scări). Die Nähe zur Großstadt Brașov macht Săcele zu einem attraktiven Wohn- und Erholungsort, der Tradition und Moderne auf charmante Weise verbindet.",
       "hu": "",
-      "ro": "",
+      "ro": "Săcele, numit în germană Siebendörfer, este un oraș unic, care se întinde la marginea de sud-est a Țării Bârsei, direct la poalele Masivului Piatra Mare. Așa cum sugerează și numele, orașul a luat naștere prin unirea a șapte sate originale. Săcele este adânc înrădăcinat în tradiția 'mocanilor', o comunitate de oieri români care au constituit bogăția regiunii. Arhitectura este marcată de porțile masive, fortificate, ale vechilor case țărănești. Geografic, Săcele oferă acces direct la monumente naturale spectaculoase, precum Canionul Șapte Scări. Apropierea de Brașov face din Săcele un loc atractiv.",
       "en": ""
 },
     "factsAdvanced": {
@@ -1101,7 +1101,7 @@ export const poiExtraRo1: POI[] = [
             "Die evangelische Kirche in Satulung ist ein bedeutendes Baudenkmal aus dem 18. Jahrhundert."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Cele șapte sate fondatoare sunt Baciu, Turcheș, Cernatu, Satulung, Tărlungeni, Zizin și Purcăreni.", "Săcele a fost menționat pentru prima dată în 1366 într-un document al regelui maghiar Ludovic I.", "Regiunea este renumită pentru izvoarele de apă minerală de la Zizin, utilizate încă din secolul al XIX-lea.", "Mocanii din Săcele dețineau în secolul al XIX-lea sute de mii de oi.", "În Săcele există un interesant Muzeu Etnografic, dedicat culturii celor șapte sate."],
       "en": []
 }
   },
@@ -1134,7 +1134,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Zărnești, auf Deutsch Zernescht, ist das pulsierende Herz des Ökotourismus in Rumänien und dient als wichtigstes Tor zum Nationalpark Piatra Craiului. Die Stadt liegt in einer spektakulären Senke, umgeben von den schroffen Kalksteingipfeln der Karpaten, und bietet eine atemberaubende Naturkulisse. Zărnești hat sich von einer einstigen Industriestadt zu einem Zentrum für Naturschutz und Abenteuersport entwickelt. Ein besonderes Highlight ist das 'Libearty'-Bärenreservat, das größte Braunbärenschutzzentrum der Welt, das geretteten Tieren ein würdevolles Leben in natürlicher Umgebung ermöglicht. Die Umgebung ist ein Paradies für Bergsteiger, Wanderer und Mountainbiker, wobei die berühmten Zărnești-Schluchten (Prăpastiile Zărneștilor) zu den beeindruckendsten Naturformationen des Landes zählen. Kulturell ist die Stadt eng mit den Traditionen der Bergregion verbunden, was sich in der lokalen Gastronomie und den jährlich stattfindenden Naturfestivals zeigt. Zărnești ist ein Ort, an dem die wilde Schönheit der Karpaten unmittelbar erlebbar wird.",
       "hu": "",
-      "ro": "",
+      "ro": "Zărnești, în germană Zernescht, este inima vibrantă a ecoturismului din România și servește ca principala poartă de acces către Parcul Național Piatra Craiului. Orașul este situat într-o depresiune spectaculoasă, înconjurat de vârfurile calcaroase ale Carpaților. Zărnești s-a transformat dintr-un oraș industrial într-un centru pentru conservarea naturii și sporturi de aventură. O atracție specială este sanctuarul de urși 'Libearty', cel mai mare centru de protecție a urșilor bruni din lume. Împrejurimile sunt un paradis pentru alpiniști, drumeți și cicliști montani, Cheile Zărneștilor fiind printre cele mai impresionante formațiuni naturale.",
       "en": ""
 },
     "factsAdvanced": {
@@ -1149,7 +1149,7 @@ export const poiExtraRo1: POI[] = [
             "Der Nationalpark Piatra Craiului beherbergt die weltweit einzigartige Nelkenart 'Dianthus callizonus'."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Zărnești a fost menționat pentru prima dată documentar în anul 1373.", "Sanctuarul de urși 'Libearty' găzduiește peste 100 de urși bruni salvați pe o suprafață de 69 de hectare.", "Cheile Zărneștilor sunt un defileu de calcar lung de 2 km, cu pereți de până la 200 m înălțime.", "Zărnești este principalul punct de plecare pentru ascensiunea pe creasta Pietrei Craiului.", "Parcul Național Piatra Craiului găzduiește specia de garoafă unică în lume, 'Dianthus callizonus'."],
       "en": []
 }
   },
@@ -1182,7 +1182,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Ianca ist eine bedeutende Kleinstadt im Kreis Brăila, die tief in der weiten und fruchtbaren Bărăgan-Ebene verwurzelt ist. Als wichtiges Agrarzentrum spielt die Stadt eine zentrale Rolle in der Getreideproduktion und der Lebensmittelverarbeitung Ost-Rumäniens. Die Geschichte von Ianca ist geprägt von der Entwicklung des Eisenbahnwesens und der Modernisierung der Landwirtschaft im 19. und 20. Jahrhundert. Geografisch bietet die Region das typische Panorama der Steppenlandschaft, das durch weite Horizonte und intensive Landwirtschaft besticht. Trotz ihres eher funktionalen Charakters hat Ianca in den letzten Jahren in die städtische Infrastruktur und Grünanlagen investiert, um die Lebensqualität ihrer Bewohner zu erhöhen. Kulturell ist die Stadt ein Spiegelbild des ländlichen Lebens in der Walachei, wobei lokale Märkte und traditionelle Feste den Rhythmus des Gemeinschaftslebens bestimmen. Für Reisende ist Ianca ein wichtiger Stopp auf dem Weg zu den Donauhäfen, der einen Einblick in das agrarische Herz Rumäniens bietet.",
       "hu": "",
-      "ro": "",
+      "ro": "Ianca este un orășel important din județul Brăila, adânc înrădăcinat în vasta și fertila Câmpie a Bărăganului. Ca un centru agricol important, orașul joacă un rol central în producția de cereale și prelucrarea alimentelor din estul României. Istoria Iancăi este marcată de dezvoltarea căilor ferate și modernizarea agriculturii. Geografic, regiunea oferă panorama tipică a peisajului de stepă. Cultural, orașul este o reflectare a vieții rurale din Muntenia. Pentru călători, Ianca este o oprire importantă pe drumul către porturile dunărene, oferind o perspectivă asupra inimii agricole a României.",
       "en": ""
 },
     "factsAdvanced": {
@@ -1197,7 +1197,7 @@ export const poiExtraRo1: POI[] = [
             "Die Umgebung ist reich an kleinen Seen und Kanälen, die für die Bewässerung genutzt werden."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Ianca a primit statutul de oraș în anul 1989.", "Orașul este un nod feroviar important pe linia dintre București și Galați.", "Economia se bazează aproape exclusiv pe cultivarea cerealelor, floarea-soarelui și porumbului.", "Regiunea din jurul Iancăi este cunoscută pentru condițiile sale climatice extreme.", "În oraș există un muzeu dedicat istoriei și agriculturii locale."],
       "en": []
 }
   },
@@ -1230,7 +1230,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Însurăței ist eine Kleinstadt im Kreis Brăila, die tief in der landwirtschaftlichen Tradition der Bărăgan-Ebene verwurzelt ist. Die Stadt ist vor allem für ihre fruchtbaren Böden bekannt, die ideale Bedingungen für den großflächigen Anbau von Getreide und Sonnenblumen bieten. Ein besonderes Merkmal der Region ist jedoch der Weinbau, der in Însurăței eine lange Geschichte hat und für qualitativ hochwertige lokale Weine sorgt. Die geografische Lage der Stadt, geprägt durch die weiten Horizonte der Steppe, verleiht ihr einen typischen walachischen Charme. In den letzten Jahren hat sich Însurăței zu einem wichtigen lokalen Dienstleistungszentrum entwickelt, das die umliegenden ländlichen Gemeinden unterstützt. Besucher können hier die authentische Gastfreundschaft der Region erleben und Einblicke in das moderne Agrarleben Rumäniens gewinnen, während sie die Ruhe der weiten Landschaften genießen.",
       "hu": "",
-      "ro": "",
+      "ro": "Însurăței este un mic oraș din județul Brăila, adânc înrădăcinat în tradiția agricolă a Câmpiei Bărăganului. Orașul este cunoscut în special pentru solurile sale fertile, care oferă condiții ideale pentru cultivarea pe scară largă a cerealelor și a florii-soarelui. O caracteristică specială a regiunii este viticultura, care are o istorie lungă în Însurăței și produce vinuri locale de înaltă calitate. Poziția geografică a orașului, caracterizată de orizonturile largi ale stepei, îi conferă un farmec tipic muntenesc. În ultimii ani, Însurăței s-a dezvoltat într-un important centru de servicii locale. Vizitatorii pot experimenta aici ospitalitatea autentică a regiunii.",
       "en": ""
     },
     "factsAdvanced": {
@@ -1245,7 +1245,7 @@ export const poiExtraRo1: POI[] = [
         "In der Umgebung gibt es zahlreiche archäologische Fundstätten, die auf eine frühe Besiedlung hinweisen."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Însurăței a primit oficial statutul de oraș în anul 1989.", "Viticultura joacă un rol central în economia și identitatea locală.", "Orașul este un nod important pentru comerțul regional cu cereale.", "Clima este caracterizată de veri calde și secetoase, tipice pentru stepa românească.", "Populația orașului este formată predominant din români cu o legătură puternică cu pământul.", "În împrejurimi există numeroase situri arheologice."],
       "en": []
     }
   },
@@ -1278,7 +1278,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Făurei ist eine Stadt im Kreis Brăila, die landesweit als einer der bedeutendsten Eisenbahnknotenpunkte Rumäniens bekannt ist. Ihre strategische Lage macht sie zu einem unverzichtbaren Bindeglied im Schienenverkehr zwischen Bukarest, der Region Moldau und der Schwarzmeerküste. Eine Besonderheit, die Făurei international bekannt macht, ist der hiesige Eisenbahn-Testring, eine der modernsten Anlagen dieser Art in Europa. Hier werden Lokomotiven und Waggons unter extremen Geschwindigkeiten und Belastungen getestet. Die Stadt selbst hat sich um diesen logistischen Kern herum entwickelt und strahlt eine pragmatische, industrielle Atmosphäre aus. Trotz ihrer funktionalen Ausrichtung bietet Făurei eine interessante Perspektive auf die technische Entwicklung Rumäniens. Die Umgebung ist von der weiten Agrarlandschaft der Bărăgan-Ebene geprägt, die einen reizvollen Kontrast zur technisierten Welt der Schienenwege bildet.",
       "hu": "",
-      "ro": "",
+      "ro": "Făurei este un oraș din județul Brăila, cunoscut la nivel național ca unul dintre cele mai importante noduri feroviare din România. Poziția sa strategică îl face o legătură esențială în transportul feroviar. O particularitate care face Făurei cunoscut la nivel internațional este inelul de testare feroviar, una dintre cele mai moderne instalații de acest tip din Europa. Aici sunt testate locomotive și vagoane la viteze și sarcini extreme. Orașul însuși s-a dezvoltat în jurul acestui nucleu logistic. Împrejurimile sunt caracterizate de vastul peisaj agricol al Câmpiei Bărăganului.",
       "en": ""
     },
     "factsAdvanced": {
@@ -1293,7 +1293,7 @@ export const poiExtraRo1: POI[] = [
         "In der Nähe der Stadt befinden sich mehrere Stauseen, die für den Hochwasserschutz wichtig sind."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Făurei este renumit pentru inelul său de testare feroviar, care permite viteze de până la 200 km/h.", "Orașul a devenit important în secolul al XIX-lea prin construcția liniei ferate București-Galați.", "Inelul de testare are o circumferință de aproximativ 13,7 kilometri.", "Economia orașului este aproape complet orientată spre transportul feroviar și logistică.", "Făurei a primit statutul de oraș în anul 1968."],
       "en": []
     }
   },
@@ -1326,7 +1326,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Râmnicu Sărat, historisch auch als Rümnick bekannt, ist eine geschichtsträchtige Stadt im Kreis Buzău, die am Ufer des gleichnamigen Flusses liegt. Sie war über Jahrhunderte ein bedeutendes administratives und wirtschaftliches Zentrum an der Grenze zwischen der Walachei und der Moldau. Die Architektur im Stadtkern zeugt von dieser glanzvollen Vergangenheit, mit Kirchen und Gebäuden aus dem 18. und 19. Jahrhundert. Ein dunkles Kapitel der Stadtgeschichte ist das berüchtigte Gefängnis von Râmnicu Sărat, das während der kommunistischen Ära zur Inhaftierung politischer Elite genutzt wurde und heute eine Gedenkstätte ist. Geografisch liegt die Stadt in einer malerischen Übergangszone zwischen der Ebene und den Karpatenvorbergen. Heute ist Râmnicu Sărat ein lebendiger Ort, der sein reiches kulturelles Erbe pflegt und gleichzeitig moderne Industriebereiche wie die Lebensmittel- und Textilherstellung entwickelt.",
       "hu": "",
-      "ro": "",
+      "ro": "Râmnicu Sărat, cunoscut istoric și ca Rümnick, este un oraș istoric din județul Buzău, situat pe malul râului omonim. A fost timp de secole un important centru administrativ și economic la granița dintre Muntenia și Moldova. Arhitectura din centrul orașului mărturisește acest trecut glorios. Un capitol întunecat al istoriei orașului este faimoasa închisoare din Râmnicu Sărat, folosită în perioada comunistă pentru încarcerarea elitei politice, astăzi un memorial. Geografic, orașul se află într-o zonă de tranziție pitorească. Astăzi, Râmnicu Sărat este un loc vibrant care își cultivă bogata moșnenire culturală.",
       "en": ""
     },
     "factsAdvanced": {
@@ -1341,7 +1341,7 @@ export const poiExtraRo1: POI[] = [
         "Râmnicu Sărat liegt an der wichtigen Straßenverbindung E85 zwischen Bukarest und der Moldau."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Râmnicu Sărat a fost menționat pentru prima dată documentar în 1439.", "Închisoarea din Râmnicu Sărat a fost cunoscută ca 'închisoarea tăcerii'.", "Numele orașului provine de la râu, care este numit 'Sărat' datorită conținutului său de sare.", "În apropiere a avut loc în 1789 o bătălie importantă între armata ruso-austriacă și otomani.", "Biserica 'Adormirea Maicii Domnului' a fost ctitorită de Constantin Brâncoveanu la sfârșitul secolului al XVII-lea."],
       "en": []
     }
   },
@@ -1374,7 +1374,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Nehoiu ist eine malerische Stadt im Oberlauf des Buzău-Tals, eingebettet in die dichten Wälder der Ostkarpaten. Die Stadt ist traditionell eng mit der Forstwirtschaft und Holzverarbeitung verbunden, was ihr über Jahrzehnte wirtschaftliche Stabilität verlieh. Geografisch bietet Nehoiu eine beeindruckende Kulisse mit steilen Berghängen und dem rauschenden Fluss Buzău, der ein beliebtes Ziel für Rafting- und Kajakfreunde ist. Die Region ist bekannt für ihre unberührte Natur und dient als idealer Ausgangspunkt für Wanderungen zu den nahegelegenen Bergseen wie dem Siriu-Stausee. Trotz des industriellen Erbes hat sich Nehoiu zu einem attraktiven Ziel für den Ökotourismus entwickelt. Die Stadt strahlt eine ruhige, bergbäuerliche Atmosphäre aus, in der lokale Traditionen und Gastfreundschaft großgeschrieben werden. Wer die Karpaten in ihrer authentischen Form erleben möchte, findet in Nehoiu und seiner Umgebung ein perfektes Refugium.",
       "hu": "",
-      "ro": "",
+      "ro": "Nehoiu este un oraș pitoresc pe cursul superior al Văii Buzăului, așezat printre pădurile dese ale Carpaților Orientali. Orașul este tradițional strâns legat de silvicultură și prelucrarea lemnului. Geografic, Nehoiu oferă un cadru impresionant, cu versanți abrupți și râul Buzău, o destinație populară pentru rafting și caiac. Regiunea este cunoscută pentru natura sa neatinsă și servește ca punct de plecare ideal pentru drumeții către lacurile montane din apropiere, cum ar fi lacul de acumulare Siriu. În ciuda moștenirii sale industriale, Nehoiu s-a dezvoltat într-o destinație atractivă pentru ecoturism. Orașul emană o atmosferă liniștită, montană-rurală.",
       "en": ""
     },
     "factsAdvanced": {
@@ -1389,7 +1389,7 @@ export const poiExtraRo1: POI[] = [
         "Die Flora der Umgebung umfasst seltene Orchideenarten und riesige Buchenwälder."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Nehoiu a primit oficial statutul de oraș în anul 1989.", "Fabrica de prelucrare a lemnului din Nehoiu a fost una dintre cele mai mari de acest fel din Europa.", "În apropiere se află impresionantul baraj Siriu și lacul aferent.", "Biserica ortodoxă 'Sfântul Gheorghe' este un reper arhitectural distinctiv al orașului.", "Regiunea este un centru pentru sporturi montane, în special rafting pe Buzău.", "Flora din jur include specii rare de orhidee și păduri uriașe de fag."],
       "en": []
     }
   },
@@ -1422,7 +1422,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Pogoanele ist eine typische Kleinstadt im Herzen der Bărăgan-Ebene im Kreis Buzău, geprägt von der endlosen Weite und Fruchtbarkeit der rumänischen Steppe. Die Stadt dient als zentraler Anlaufpunkt für die umliegende Agrarregion, wobei die Landwirtschaft das wirtschaftliche Rückgrat der Gemeinde bildet. Getreide, Sonnenblumen und Mais dominieren das Landschaftsbild um Pogoanele und prägen den Lebensrhythmus seiner Bewohner. Die Geschichte der Stadt ist eng mit der Besiedlung der Steppe im 19. Jahrhundert verbunden, als Bauern aus anderen Regionen hier neues Land erschlossen. Pogoanele bietet einen authentischen Einblick in das ländliche Leben Ost-Rumäniens, fernab der großen Touristenströme. Die Architektur ist schlicht und funktional, ergänzt durch moderne Infrastrukturprojekte, die die Stadt als regionales Dienstleistungszentrum stärken. Für Reisende, die sich für die agrarische Seele Rumäniens interessieren, bietet Pogoanele eine ehrliche und gastfreundliche Atmosphäre.",
       "hu": "",
-      "ro": "",
+      "ro": "Pogoanele este un orășel tipic în inima Câmpiei Bărăganului din județul Buzău, caracterizat de întinderea și fertilitatea nesfârșită a stepei românești. Orașul servește ca punct central pentru regiunea agricolă înconjurătoare, agricultura fiind coloana vertebrală a economiei. Istoria orașului este strâns legată de colonizarea stepei în secolul al XIX-lea. Pogoanele oferă o perspectivă autentică asupra vieții rurale din estul României, departe de marile fluxuri turistice. Arhitectura este simplă și funcțională. Pentru călătorii interesați de sufletul agrar al României, Pogoanele oferă o atmosferă onestă și ospitalieră.",
       "en": ""
     },
     "factsAdvanced": {
@@ -1437,7 +1437,7 @@ export const poiExtraRo1: POI[] = [
         "In Pogoanele gibt es ein lokales Kulturhaus, das als Zentrum für Gemeinschaftsveranstaltungen dient."
       ],
       "hu": [],
-      "ro": [],
+      "ro": ["Pogoanele a primit statutul de oraș în 1989.", "Producția și depozitarea cerealelor sunt principalele ramuri economice.", "Pogoanele este un nod de transport important pentru drumurile regionale din Câmpia Bărăganului.", "Clima este caracterizată de diferențe extreme de temperatură între vară și iarnă.", "Populația păstrează sărbători tradiționale țărănești, strâns legate de ciclul recoltei.", "La Pogoanele există o casă de cultură locală."],
       "en": []
     }
   },
@@ -2046,7 +2046,7 @@ export const poiExtraRo1: POI[] = [
     "descriptionAdvanced": {
       "de": "Târgu Secuiesc, im Deutschen Szekler Neumarkt und auf Ungarisch Kézdivásárhely, ist eine architektonisch einzigartige Stadt im Szeklerland. Sie ist berühmt als die 'Stadt der Zünfte und der Hofgassen'. Der zentrale Marktplatz ist von 73 schmalen, sackgassenartigen Höfen (Udvarterek) umgeben, die ursprünglich von Handwerkerfamilien bewohnt wurden – ein städtebauliches Phänomen, das weltweit seinesgleichen sucht. Die Stadt blickt auf eine stolze Geschichte als Zentrum des Handwerks und des Widerstands zurück, insbesondere während der ungarischen Revolution von 1848, als hier Kanonen für den Freiheitskampf gegossen wurden. Die Atmosphäre in Târgu Secuiesc ist geprägt von ungarischer Kultur, Tradition und einem starken Gemeinschaftsgeist. Besucher können das faszinierende Zunftmuseum besichtigen oder die Puppenausstellung bewundern, die zu den größten der Region gehört. Die malerische Lage im Oberen Drei-Stühle-Becken macht die Stadt zudem zu einem idealen Ausgangspunkt für Erkundungen der Ostkarpaten.",
       "hu": "",
-      "ro": "",
+      "ro": "Târgu Secuiesc, cunoscut în germană ca Szekler Neumarkt, este un oraș cu o arhitectură unică în Ținutul Secuiesc. Este renumit ca 'orașul breslelor și al curților interioare'. Piața centrală este înconjurată de 73 de curți înguste, asemănătoare unor fundături (udvarterek), locuite inițial de familii de meșteșugari – un fenomen urbanistic fără egal în lume. Orașul are o istorie mândră ca centru al meșteșugurilor și al rezistenței, în special în timpul Revoluției Maghiare de la 1848, când aici s-au turnat tunuri pentru lupta de eliberare. Atmosfera din Târgu Secuiesc este marcată de cultura maghiară, tradiție și un puternic spirit comunitar. Vizitatorii pot explora fascinantul Muzeu al Breslelor sau pot admira expoziția de păpuși, una dintre cele mai mari din regiune. Poziția pitorească în Depresiunea Târgu Secuiesc face din oraș un punct de plecare ideal pentru explorarea Carpaților Orientali.",
       "en": ""
     },
     "factsAdvanced": {
@@ -2061,7 +2061,16 @@ export const poiExtraRo1: POI[] = [
         "In der Stadt gibt es eine berühmte Sammlung von über 1.000 Porzellanpuppen in Volkstrachten."
       ],
       "hu": [],
-      "ro": [],
+      "ro": [
+        "Cele 73 de curți interioare sunt cea mai distinctivă trăsătură a planificării urbane medievale.",
+        "În secolul al XIX-lea, Târgu Secuiesc a fost centrul producției maghiare de tunuri sub conducerea lui Áron Gábor.",
+        "Muzeul Breslelor (Incze László) găzduiește ateliere de cizmari, turti-dulci și alți meșteșugari.",
+        "Orașul este adesea numit 'Micul Paris al Ținutului Secuiesc' datorită arhitecturii sale.",
+        "Aproape 90% din populație aparține minorității maghiare.",
+        "Biserica reformată din centrul orașului este o construcție clasicistă impresionantă.",
+        "Festivalul anual al breslelor celebrează lunga tradiție meșteșugărească prin parade și târguri.",
+        "În oraș există o faimoasă colecție de peste 1.000 de păpuși de porțelan în costume populare."
+      ],
       "en": []
     }
   },

@@ -3039,7 +3039,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Ferma Dacilor, gelegen in der malerischen Hügellandschaft der Region Prahova bei Gura Vadului, ist weit mehr als nur ein landwirtschaftlicher Betrieb; es ist eine Hommage an die dakischen Wurzeln Rumäniens und ein Zentrum für authentischen Agrotourismus. Der Ort besticht durch seine rustikale Architektur, bei der Stein und Holz dominieren und eine warme, ursprüngliche Atmosphäre schaffen. Besucher können hier die traditionelle rumänische Lebensweise hautnah erleben, von der Tierhaltung bis zur Ernte. Ein besonderer Schwerpunkt liegt auf der Gastronomie: In dem weitläufigen Restaurant werden Gerichte serviert, die ausschließlich aus frischen, lokal produzierten Bio-Zutaten bestehen, wobei traditionelle Rezepte über offenem Feuer zubereitet werden. Die Farm bietet auch komfortable Unterkünfte in rustikalen Hütten, die modernen Komfort mit antikem Charme verbinden. Inmitten von Weinbergen und Wäldern gelegen, ist die Dakische Farm der perfekte Ort für alle, die dem Lärm der Stadt entfliehen und die spirituelle Kraft und die einfachen Freuden des ländlichen Lebens wiederentdecken möchten.",
-      hu: "",
+      hu: "A Prahova megyei Gura Vitioarei-ban található Ferma Dacilor egy agroturisztikai komplexum, amely a hagyományos román és dák örökség újjáélesztésére összpontosít. A komplexum nem csupán szálláshely, hanem egy élő gazdaság is, ahol őshonos állatfajtákat tenyésztenek és helyi, organikus alapanyagokból készült ételeket kínálnak. A vendégek megismerkedhetnek a vidéki élettel, részt vehetnek a gazdaság körüli teendőkben, és élvezhetik a természet közelségét. Az épületek tervezésekor a dák erődítmények stílusát idézték meg, modern komforttal ötvözve. A Ferma Dacilor célja, hogy bemutassa a fenntartható gazdálkodás és a kulturális hagyományok harmonikus egységét, egyedülálló élményt nyújtva a látogatóknak.",
       ro: "",
       en: ""
     },
@@ -3054,7 +3054,14 @@ export const poiExtraRo2: POI[] = [
         "Der Ort fördert aktiv den Erhalt alter rumänischer Handwerkstraditionen.",
         "Die Unterkünfte bieten einen atemberaubenden Blick auf die sanften Hügel von Dealu Mare."
       ],
-      hu: [],
+      hu: [
+        "A komplexum egy tragikus tűzeset után újjáépült, a közösségi összefogás jelképeként.",
+        "Az étterem kizárólag a farmon termesztett vagy helyi termelőktől származó alapanyagokat használ.",
+        "A területen több mint 70 állatfaj található, köztük lovak, szarvasmarhák és juhok.",
+        "A farmon lovaglási és íjászati lehetőségek is várják a vendégeket.",
+        "A szálláshelyek között dák kunyhókat idéző házak is találhatók.",
+        "A projekt célja a román vidéki turizmus és a helyi gazdaság fellendítése."
+      ],
       ro: [],
       en: []
     }
