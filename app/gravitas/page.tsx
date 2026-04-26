@@ -98,7 +98,10 @@ export default function GravitasPage() {
     <div className="relative h-screen w-full bg-[#020408] overflow-hidden font-sans selection:bg-cyan-500/30">
       {/* Background FX */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,_rgba(16,24,48,1)_0%,_rgba(2,4,8,1)_100%)]" />
-      <div className="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')]" />
+      <div
+        className="absolute inset-0 opacity-20"
+        style={{ backgroundImage: "url(https://www.transparenttextures.com/patterns/stardust.png)" }}
+      />
       
       {/* Impact Flash */}
       <AnimatePresence>
