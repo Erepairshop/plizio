@@ -2479,7 +2479,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Edenland Park in Balotești, nur eine kurze Fahrt nördlich von Bukarest gelegen, ist einer der größten und vielseitigsten Abenteuerparks Rumäniens. Eingebettet in einen dichten Wald, bietet der Park eine beeindruckende Palette an Outdoor-Aktivitäten für alle Altersgruppen. Das Herzstück sind die zahlreichen Kletterparcours mit unterschiedlichen Schwierigkeitsgraden, die sicher durch die Baumwipfel führen. Für Adrenalinjunkies gibt es Paintball-Felder, Bogenschießen und die Möglichkeit zum Reiten. Eine Besonderheit des Edenland Parks sind die charmanten Baumhaushotels, in denen man eine Nacht mitten im Wald verbringen kann – ein einzigartiges Erlebnis in der Nähe der Hauptstadt. Der Park legt großen Wert auf Sicherheit und professionelle Betreuung, sodass sowohl Kinder als auch Erwachsene ihre Grenzen in einer geschützten Umgebung austesten können. Ob für einen Tagesausflug mit der Familie, einen Kindergeburtstag oder ein Firmenevent, der Edenland Park bietet eine perfekte Kombination aus Sport, Abenteuer und Erholung in der Natur.",
-      hu: "",
+      hu: "A Balotești-ben, Bukaresttől északra található Edenland Park Románia egyik legnagyobb és legnépszerűbb kalandparkja, amely az aktív kikapcsolódást kereső családok paradicsoma. A hatalmas erdei területen kialakított parkban 14 különböző nehézségi fokozatú kalandpálya várja a látogatókat, a legkisebbektől a profi mászókig. Az Edenland egyik legkülönlegesebb vonzereje az erdei faházakban való szálláslehetőség, amely teljes elvonulást kínál a természetben. A mászáson kívül íjászat, paintball, lovaglás és egy kis állatkert is színesíti a programot, ahol a gyerekek közvetlen kapcsolatba kerülhetnek az állatokkal. A park modern infrastruktúrával és kiváló étteremmel rendelkezik, így ideális helyszín egy egész napos családi kiránduláshoz vagy emlékezetes születésnapi rendezvényekhez a friss levegőn.",
       ro: "",
       en: ""
     },
@@ -2494,7 +2494,7 @@ export const poiExtraRo2: POI[] = [
         "Der Park verfügt über ein Restaurant mit regionalen und internationalen Speisen.",
         "Die gesamte Anlage ist auf Nachhaltigkeit und Naturschutz ausgerichtet."
       ],
-      hu: [],
+      hu: ["Az Edenland Park több mint 20 hektáros erdei területen fekszik.", "A park 14 különböző kalandpályával rendelkezik minden korosztály számára.", "Itt található Románia egyik legérdekesebb erdei lombházaiból álló szálláshelye.", "A biztonságos mászást folyamatosan felügyelő instruktorok garantálják.", "A parkban egy különleges mini-zoo is helyet kapott mentett állatokkal.", "A területen paintball pálya és profi íjászpálya is működik.", "Az Edenland híres a fenntartható és természetbarát kialakításáról.", "Hétvégenként a park a bukarestiek egyik kedvenc menekülési pontja a városi zaj elől."],
       ro: [],
       en: []
     }
@@ -2519,7 +2519,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Târgoviște, idyllisch innerhalb des historischen Chindia-Parks gelegen, ist ein charmantes Ausflugsziel, das Natur und Geschichte miteinander verbindet. In unmittelbarer Nähe zum berühmten Chindia-Turm und den Ruinen des ehemaligen Fürstenhofs bietet der Tiergarten ein Zuhause für eine beeindruckende Vielfalt an heimischen und exotischen Tierarten. Besucher können majestätische Tiger, Löwen und Braunbären bewundern sowie eine bunte Welt von Vögeln und Reptilien entdecken. Die Anlage zeichnet sich durch ihre gepflegten Wege und die dichte, schattige Vegetation aus, die auch an heißen Sommertagen für eine angenehme Atmosphäre sorgt. Der Zoo Târgoviște ist besonders bei Familien beliebt, da er ideal in einen Spaziergang durch den weitläufigen Stadtpark integriert werden kann. Durch kontinuierliche Modernisierungen wird stetig an der Verbesserung der Tiergehege und des Besucherservices gearbeitet, um den Tiergarten als festen Bestandteil des kulturellen und touristischen Lebens der Stadt zu bewahren.",
-      hu: "",
+      hu: "A târgoviștei állatkert (Grădina Zoologică Târgoviște) a város történelmi központjában, a Chindia-park szomszédságában található, és egyike az ország legrégebbi ilyen jellegű intézményeinek. Az állatkert hangulatos, évszázados fák alatt kínál pihenést és tanulási lehetőséget, ahol a látogatók öt kontinens állatvilágával ismerkedhetnek meg. Különösen népszerűek a vízi madarak, a nagymacskák és a majomfajok, de az intézmény nagy hangsúlyt fektet a helyi fauna bemutatására is. A nemrégiben végrehajtott modernizáció során az állatok kifutóit tágasabbá és természetközelibbé tették, javítva az életterüket és a látogatói élményt. Târgoviște állatkertje fontos szerepet játszik a közösség életében, rendszeresen szervezve iskolai programokat és természetvédelmi rendezvényeket a Chindia-torony árnyékában.",
       ro: "",
       en: ""
     },
@@ -2534,7 +2534,7 @@ export const poiExtraRo2: POI[] = [
         "Die Anlage ist barrierefrei und bietet viele Sitzmöglichkeiten zum Ausruhen.",
         "In der Nähe kann man Boote mieten, um auf dem Parksee zu fahren."
       ],
-      hu: [],
+      hu: ["A târgoviștei állatkertet eredetileg már a 16. században említik uralkodói vadaskertként.", "A modern állatkert a festői Chindia-park területén fekszik.", "Az intézményben több mint 80 állatfaj közel 600 egyede látható.", "Híresek az itt élő vízi madarak és a tágas majomház.", "Az állatkert szorosan együttműködik a helyi természetvédelmi egyesületekkel.", "A terület akadálymentesített, így babakocsival is könnyen bejárható.", "A parkban egy gyönyörű tó is található, amely számos madárfajnak nyújt pihenőt.", "A látogatás kiválóan összeköthető a közeli Fejedelmi Udvar megtekintésével."],
       ro: [],
       en: []
     }
@@ -2559,7 +2559,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Pitești ist eine grüne Oase im Nordosten der Stadt, direkt am Rande des wunderschönen Trivale-Waldes gelegen. Dieser Tiergarten zeichnet sich durch seine ruhige, fast familiäre Atmosphäre aus und ist ein idealer Ort für Naturliebhaber und Familien. Die Gehege sind harmonisch in die natürliche Topografie des Geländes eingebettet, was den Tieren Rückzugsmöglichkeiten und den Besuchern authentische Einblicke bietet. Man findet hier eine interessante Mischung aus lokalen Waldbewohnern wie Hirschen und Wildschweinen sowie exotischen Gästen wie Löwen, Tigern und verschiedenen Affenarten. Ein besonderes Augenmerk wird im Zoo Pitești auf die Pflege der Grünanlagen und die Erhaltung des dichten Baumbestandes gelegt, was den Besuch zu einem erholsamen Waldspaziergang macht. In den letzten Jahren wurden die pädagogischen Angebote für Kinder erweitert, um das Bewusstsein für den Naturschutz und die heimische Fauna zu stärken. Die Kombination aus Waldidylle und Tierbeobachtung macht den Zoo zu einem der beliebtesten Freizeitorte im Kreis Argeș.",
-      hu: "",
+      hu: "A Pitești melletti Trivale-erdőben található állatkert (Grădina Zoologică Pitești) egy igazi zöld oázis, amely a természetes környezetbe ágyazva mutatja be az élővilág sokszínűségét. Az intézményt az elmúlt években teljesen újjáépítették, így ma már modern, európai színvonalú kifutókkal büszkélkedhet, ahol az állatok jóléte az elsődleges szempont. A látogatók találkozhatnak oroszlánokkal, tigrisekkel, medvékkel és számos egzotikus madárfajjal, valamint egy jól felszerelt terráriummal és akváriummal is. A Trivale-erdő hűvös levegője különösen vonzóvá teszi a helyszínt a forró nyári napokon. Az állatkert elkötelezett az oktatás mellett, interaktív információs táblákkal és szervezett csoportos túrákkal segítve a gyermekeket a természet titkainak felfedezésében és az állatok tiszteletében.",
       ro: "",
       en: ""
     },
@@ -2574,7 +2574,7 @@ export const poiExtraRo2: POI[] = [
         "Zahlreiche Wanderwege führen vom Zoo weiter in den Trivale-Wald hinein.",
         "Die Anlage ist gut gepflegt und bietet eine hohe Aufenthaltsqualität."
       ],
-      hu: [],
+      hu: ["A pitești-i állatkert a gyönyörű Trivale-erdő szívében terül el.", "A park teljes területe több mint 12 hektár.", "Az intézményben több mint 60 állatfaj képviselteti magát a világ minden tájáról.", "Híres az állatkert farkas- és medve-kifutója, amely a természetes élőhelyüket idézi.", "A gyermekek számára modern játszótér és oktatóközpont is rendelkezésre áll.", "Az állatkert részt vesz a sérült vadállatok rehabilitációjában is.", "A területen számos ritka növényfaj és évszázados fa is megfigyelhető.", "A látogatói útvonalak árnyasak, így egész nap kényelmes sétát kínálnak."],
       ro: [],
       en: []
     }
@@ -2599,7 +2599,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo in Drobeta-Turnu Severin, auch bekannt als Zoo Severin, bietet Besuchern ein entspanntes Erlebnis direkt an den Ufern der majestätischen Donau. Gelegen im westlichen Teil der Stadt, ist dieser Tiergarten ein Ort der Ruhe und Erholung. Die Anlage beherbergt eine kompakte, aber gut gepflegte Sammlung von Tierarten, darunter stolze Raubtiere wie Löwen und Wölfe sowie verschiedene Vogelarten und Pflanzenfresser. Ein Spaziergang durch den Zoo ermöglicht nicht nur Tierbeobachtungen, sondern bietet auch immer wieder schöne Ausblicke auf den mächtigen Fluss und die serbischen Berge am gegenüberliegenden Ufer. Für die Bewohner der Region ist der Zoo ein wichtiges Ausflugsziel, besonders an Wochenenden. Die Kombination aus der maritimen Atmosphäre der Donau und dem Charme eines städtischen Tierparks macht den Besuch in Drobeta-Turnu Severin zu einem abwechslungsreichen Erlebnis für Jung und Alt, bei dem man die Natur inmitten der Geschichte der Stadt genießen kann.",
-      hu: "",
+      hu: "A Szörényváron (Drobeta-Turnu Severin) található állatkert egy kisebb, de annál hangulatosabb intézmény, amely a Duna menti város egyik kedvelt zöldövezeti célpontja. Az állatkert elsősorban a környék és Románia őshonos fajainak bemutatására koncentrál, de néhány egzotikus lakóval is büszkélkedhet, mint például majmokkal és hüllőkkel. A helyszín ideális a kisgyermekes családok számára, akik egy nyugodt sétát szeretnének tenni és közelebb kerülni az állatokhoz. A folyamatos fejlesztések célja a kifutók korszerűsítése és az állatjóléti feltételek javítása. Az állatkert fontos szerepet tölt be a helyi közösség életében, mint oktatási helyszín, ahol a gyerekek játékos formában tanulhatnak a természetvédelemről és a Duna menti ökoszisztéma gazdagságáról a város szívében.",
       ro: "",
       en: ""
     },
@@ -2614,7 +2614,7 @@ export const poiExtraRo2: POI[] = [
         "Der Zoo ist in einen größeren Parkbereich integriert, der zum Wandern einlädt.",
         "Bildungsstationen informieren über die Fischwelt der Donau und deren Schutz."
       ],
-      hu: [],
+      hu: ["A szörényvári állatkert a város egyik legrégebbi szabadidős központja.", "Az intézmény kiemelt figyelmet fordít a dunai fauna bemutatására.", "A park területén egy kis terrárium is várja a hüllők iránt érdeklődőket.", "A látogatás családias hangulatú, ideális kisgyermekek első állatkerti élményéhez.", "Az állatkert szorosan együttműködik a Vaskapu Natúrpark szakembereivel.", "Saját kis madárházzal rendelkezik, ahol ritka énekesmadarak is láthatóak.", "A belépődíjak jelképesek, így mindenki számára elérhető a kikapcsolódás.", "A területen kényelmes padok és árnyas pihenőhelyek találhatók."],
       ro: [],
       en: []
     }
@@ -2639,7 +2639,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Craiova ist ein integraler und faszinierender Bestandteil des Nicolae-Romanescu-Parks, einer der größten und prachtvollsten Parkanlagen in ganz Osteuropa. Die Lage des Tiergartens inmitten dieser historischen Parklandschaft verleiht ihm einen ganz besonderen Zauber. Besucher können hier durch weite Alleen spazieren und dabei eine Vielfalt an Tieren entdecken, die in gut strukturierten Gehegen leben. Von exotischen Tieren wie Löwen und Tigern bis hin zu verschiedenen Huftier- und Vogelarten bietet der Zoo ein breites Spektrum an Entdeckungen. Da der Eintritt in den Park und oft auch in den Zoo-Bereich kostenlos oder sehr günstig ist, fungiert er als zentraler sozialer Treffpunkt für die Bürger der Stadt und Besucher aus der ganzen Region Oltenien. Die Kombination aus monumentaler Parkarchitektur, wie der Hängebrücke und dem verzauberten Schloss in unmittelbarer Nähe, und der lebendigen Tierwelt macht den Zoo Craiova zu einem einzigartigen Gesamtkunstwerk, das Erholung, Bildung und Ästhetik perfekt miteinander verbindet.",
-      hu: "",
+      hu: "A craiovai állatkert a lenyűgöző Nicolae Romanescu-park szívében található, amely Európa egyik legnagyobb és legszebb tájképi kertje. Az állatkert ingyenesen látogatható, és harmonikusan illeszkedik a park vadregényes tájába, tavak és hidak szomszédságában. A látogatók olyan állatokat figyelhetnek meg, mint az oroszlánok, medvék, szarvasok és különféle vízi madarak, amelyek a park hatalmas taván élnek. A környezet különlegessége, hogy az állatok kifutói szinte eggyé válnak a természetes növényzettel. A craiovai állatkert nemcsak a helyiek kedvelt sétálóhelye, hanem a turisták számára is fontos állomás, ahol a természet és az épített örökség találkozik. Az állatkert látogatása tökéletesen összeköthető a Romanescu-park egyéb látnivalóival, mint például a függőhíddal vagy a lovas versenypályával.",
       ro: "",
       en: ""
     },
@@ -2654,7 +2654,7 @@ export const poiExtraRo2: POI[] = [
         "In der Nähe befindet sich eine berühmte Hängebrücke, ein Wahrzeichen der Stadt.",
         "Der Zoo ist ein beliebtes Ziel für Fotografen und Naturfreunde in Craiova."
       ],
-      hu: [],
+      hu: ["A craiovai állatkert az egyik legszebb fekvésű ilyen intézmény Romániában.", "A Nicolae Romanescu-parkon belül, több hektáron terül el.", "Az állatkert látogatása teljesen ingyenes a nyilvánosság számára.", "A park taván élő hattyúk és vadkacsák az állatkert szerves részét képezik.", "Híres a medvék tágas és sziklás kifutója a park domboldalában.", "Az állatkert a hét minden napján nyitva áll a látogatók előtt.", "A helyszín az ország egyik legnépszerűbb családi fotózási helyszíne.", "Kiemelt figyelmet fordítanak a park és az állatkert biodiverzitásának megőrzésére."],
       ro: [],
       en: []
     }
@@ -2679,7 +2679,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Abenteuerpark Gârboavele, gelegen im gleichnamigen Wald in der Nähe von Galați, ist das führende Ziel für Outdoor-Sport und Action im Osten Rumäniens. Dieser Kletterpark bietet eine Vielzahl von Parcours in den Baumwipfeln, die speziell dafür entwickelt wurden, Geschicklichkeit, Mut und Kraft zu fordern. Mit unterschiedlichen Schwierigkeitsgraden ist der Park sowohl für Kinder als auch für erfahrene Kletterer bestens geeignet. Die Seilrutschen (Ziplines) bieten rasante Abfahrten durch den dichten Wald und sorgen für den nötigen Adrenalinkick. Sicherheit wird durch modernste Gurtsysteme und eine fachkundige Einweisung durch das Personal großgeschrieben. Neben den Kletteraktivitäten bietet der Gârboavele-Wald auch weite Flächen zum Picknicken, Grillplätze und Wanderwege, was den Park zu einem idealen Ort für einen kompletten Tag im Freien macht. Er ist ein wichtiger Motor für den Aktivtourismus in der Region und bietet eine willkommene Abwechslung zum urbanen Leben an der Donau.",
-      hu: "",
+      hu: "A Galați melletti Gârboavele-erdő a régió egyik legfontosabb szabadidős és rekreációs központja, amely hatalmas területen kínál változatos kikapcsolódást. Az erdőben található egy vadaspark (Zoo Galați), ahol természetes környezetben láthatunk farkasokat, medvéket és szarvasokat, valamint egy néprajzi múzeum is, amely a hagyományos falusi életet mutatja be. A kalandvágyók számára kiépített kötélpályák és tiroli csúszdák nyújtanak adrenalin-dús élményt a fák között. Gârboavele ideális helyszín piknikezéshez, túrázáshoz vagy akár sportoláshoz is a friss levegőn. A terület gazdag növény- és állatvilága, valamint a jól kialakított infrastruktúra miatt Galați lakóinak első számú hétvégi úticélja, ahol a kultúra, a természet és a szórakozás tökéletes egyensúlyban van jelen.",
       ro: "",
       en: ""
     },
@@ -2694,7 +2694,7 @@ export const poiExtraRo2: POI[] = [
         "Es gibt spezielle Sicherheitsausrüstungen für Kleinkinder ab 4 Jahren.",
         "Der Wald bietet zahlreiche markierte Wege für Mountainbiker und Wanderer."
       ],
-      hu: [],
+      hu: ["A Gârboavele-erdő egy több mint 200 hektáros védett természeti terület.", "Itt található a Galați Állatkert, amely híres a tágas medvekifutójáról.", "A területen egy szabadtéri néprajzi múzeum is működik (Muzeul Satului).", "A kalandparkban különböző nehézségi fokozatú akadálypályák várják a gyerekeket.", "Az erdő területén kijelölt grill- és piknikező helyek állnak a látogatók rendelkezésére.", "Gârboavele fontos tudományos kutatóhely a helyi biodiverzitás tanulmányozására.", "Számos sporteseményt, például terepfutó versenyeket is rendeznek itt.", "A park könnyen megközelíthető autóval Galați városából."],
       ro: [],
       en: []
     }
@@ -2719,7 +2719,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Vivarium in Bacău ist eine spezialisierte und faszinierende Abteilung des Naturwissenschaftlichen Museumskomplexes und ein einzigartiges Ziel für alle, die sich für Reptilien, Amphibien und exotische Fische interessieren. Mitten im Stadtzentrum gelegen, bietet es Besuchern eine Reise in die Welt der wechselwarmen Tiere. Die Ausstellungen sind sorgfältig in thematische Bereiche unterteilt, in denen man farbenfrohe tropische Fische, beeindruckende Schlangen, Echsen und verschiedene Froscharten in detailgetreuen Terrarien und Aquarien bewundern kann. Das Vivarium legt einen starken Fokus auf Bildung und Wissenschaft; regelmäßig finden hier Workshops und Führungen für Schulklassen statt, um ein tieferes Verständnis für die oft verkannten Tiergruppen zu fördern. Ein Highlight ist die Sammlung exotischer Vögel, die den Besuch akustisch und visuell bereichert. Trotz seiner kompakten Größe bietet das Vivarium eine enorme Informationsdichte und ist ein wichtiger Ort für den Artenschutz und die Umweltpädagogik in der Region Moldau.",
-      hu: "",
+      hu: "A bákói (Bacău) Vivárium egy különleges tudományos és oktatási intézmény, amely a hüllők, halak és egzotikus madarak világába kalauzolja el a látogatókat. A Természettudományi Múzeum részlegeként működő Vivárium Románia egyik legjelentősebb élőgyűjteményével rendelkezik, ahol számos ritka és veszélyeztetett fajt is megtekinthetünk. A gondosan kialakított akváriumok és terráriumok a trópusi és hazai vizek, illetve szárazföldi területek élővilágát mutatják be, nagy hangsúlyt fektetve az ökológiai összefüggésekre. Az intézmény célja az ismeretterjesztés: az iskolai csoportok interaktív órákon vehetnek részt, ahol közelebbről is megismerhetik ezeket a gyakran félreértett állatokat. A bákói Vivárium a város szívében várja a természet és a különleges élőlények iránt érdeklődőket egy izgalmas felfedezésre.",
       ro: "",
       en: ""
     },
@@ -2734,7 +2734,7 @@ export const poiExtraRo2: POI[] = [
         "Das Vivarium ist in einem historischen Gebäude im Stadtzentrum untergebracht.",
         "Die Ausstellungen werden regelmäßig um neue, spannende Exponate erweitert."
       ],
-      hu: [],
+      hu: ["A bákói Vivárium az egyik leggazdagabb élő hüllőgyűjteménnyel rendelkezik az országban.", "Több mint 100 különböző faj képviselteti magát az akváriumokban és terráriumokban.", "Külön részleg foglalkozik az egzotikus madarak, például papagájok bemutatásával.", "Az intézmény fontos kutatásokat végez a kétéltűek védelmével kapcsolatban.", "A Vivárium egy történelmi épületben, a régi megyei bíróság épületében kapott helyet.", "Rendszeresen szerveznek tematikus kiállításokat és 'ismerkedő' órákat állatokkal.", "A látogatók megismerhetik a romániai kígyó- és gyíkfajokat is.", "Az intézmény egész évben nyitva tart, ideális beltéri program a családoknak."],
       ro: [],
       en: []
     }
@@ -2759,7 +2759,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Jassy (Iași), eingebettet in den malerischen Ciric-Wald am östlichen Stadtrand, ist ein beliebtes Ziel für Erholungssuchende und Naturliebhaber in der Kulturhauptstadt der Moldau. Nach umfangreichen Modernisierungsmaßnahmen präsentiert sich der Tiergarten heute als zeitgemäße Einrichtung mit großzügigen Gehegen und einem klaren Fokus auf das Tierwohl. Besucher können hier eine Vielfalt an Tieren aus verschiedenen Kontinenten bestaunen, darunter kräftige Löwen, verspielte Affen und anmutige Hirsche. Besonders hervorzuheben ist die wunderschöne Waldlandschaft, die den Zoo umgibt und zu jeder Jahreszeit einen besonderen Reiz ausstrahlt – vom satten Grün des Frühlings bis hin zu den goldenen Farben des Herbstes. Der Zoo Iași ist eng mit dem Naherholungsgebiet Ciric verbunden, wo Besucher auch Bootsfahrten unternehmen oder Picknickplätze nutzen können. Damit ist der Zoo ein zentraler Baustein für das Freizeitangebot der Stadt und bietet eine perfekte Kombination aus Tierbeobachtung und Naturerlebnis in unmittelbarer Stadtnähe.",
-      hu: "",
+      hu: "A jászvásári (Iași) állatkert a város déli részén, a Păun-erdő szélén található, és kellemes kikapcsolódást nyújt a Moldva fővárosában élőknek. A tágas, erdős területen fekvő állatkertben számos állatfaj él, az oroszlánoktól és tigrisektől kezdve a medvéken és farkasokon át a majmokig és egzotikus madarakig. Az intézmény az elmúlt években jelentős fejlődésen ment keresztül, új, modern kifutókat alakítottak ki, amelyek jobban megfelelnek az állatok igényeinek. A látogatókat kényelmes sétányok, játszóterek és pihenőhelyek várják a természet lágy ölén. A jászvásári állatkert nemcsak szórakoztató központ, hanem fontos oktatási helyszín is, ahol a gyermekek megismerhetik a vadon élő állatok védelmének fontosságát és az élővilág sokszínűségét egy nyugodt, erdei környezetben.",
       ro: "",
       en: ""
     },
@@ -2774,7 +2774,7 @@ export const poiExtraRo2: POI[] = [
         "Die Wanderwege im Zoo sind ideal für Familien mit Kinderwagen geeignet.",
         "Der Tiergarten spielt eine aktive Rolle in regionalen Naturschutzprogrammen."
       ],
-      hu: [],
+      hu: ["A jászvásári állatkert több mint 5 hektáros területen fekszik.", "Az intézményben közel 400 állat és 90 különböző faj látható.", "Híres az állatkert nagymacska-állománya, különösen az oroszlánok és tigrisek.", "A területen egy modern oktatóközpont is működik a gyermekek számára.", "Az állatkert könnyen megközelíthető a városközpontból tömegközlekedéssel.", "Számos pad és piknikező hely várja a látogatókat az árnyas fák alatt.", "Rendszeresen tartanak állatvédelmi napokat és interaktív bemutatókat.", "A belépődíjakat a kifutók folyamatos modernizálására fordítják."],
       ro: [],
       en: []
     }
@@ -2799,7 +2799,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Frauenbach (Baia Mare) liegt idyllisch am Fuße des Gutâi-Gebirges im Norden Rumäniens und bietet Besuchern eine charmante Begegnung mit der Tierwelt der Karpaten sowie exotischen Arten. Trotz seiner vergleichsweise geringen Größe besticht der Tiergarten durch seine gepflegten Anlagen und die naturnahe Gestaltung der Gehege, die harmonisch in die hügelige Landschaft eingebettet sind. Ein Schwerpunkt des Zoos liegt auf der Präsentation der heimischen Fauna, wobei Braunbären, Wölfe und Luchse zu den Hauptattraktionen zählen. In den letzten Jahren wurden kontinuierliche Verbesserungen vorgenommen, um den Tieren mehr Raum und Beschäftigungsmöglichkeiten zu bieten. Der Zoo ist ein beliebtes Ziel für Familien aus der Region Maramureș, da er nicht nur Bildung bietet, sondern auch einen ruhigen Rückzugsort vom städtischen Alltag darstellt. Die Kombination aus frischer Bergluft, dichtem Baumbestand und interessanten Tierbeobachtungen macht den Besuch zu einem lohnenswerten Erlebnis für Jung und Alt.",
-      hu: "",
+      hu: "A nagybányai állatkert (Grădina Zoologică Baia Mare) a város egyik legkedveltebb szabadidős helyszíne, amely a festői környezetben elhelyezkedő parkban kínál betekintést az állatvilág titkaiba. Az intézmény elsősorban a Kárpátok őshonos fajaira, mint például a medvékre, farkasokra és szarvasokra koncentrál, de néhány egzotikus lakót is bemutat a látogatóknak. A nagybányai állatkert barátságos és családias hangulatával tűnik ki, ahol a hangsúly a természetközeli élményen és az oktatáson van. A folyamatos karbantartásnak és fejlesztéseknek köszönhetően a kifutók egyre kényelmesebbek az állatok számára, a látogatókat pedig tiszta, rendezett sétányok és pihenőhelyek várják. A helyszín ideális egy könnyed délutáni sétához, ahol a gyerekek játékos formában ismerkedhetnek meg az állatokkal Máramaros szívében.",
       ro: "",
       en: ""
     },
@@ -2814,7 +2814,7 @@ export const poiExtraRo2: POI[] = [
         "Die Gehege sind so gestaltet, dass sie den natürlichen Lebensraum der Berge imitieren.",
         "Ein kleiner See innerhalb des Geländes dient als Rastplatz für verschiedene Wasservögel."
       ],
-      hu: [],
+      hu: ["A nagybányai állatkert már több mint 50 éve fogadja a látogatókat.", "A park területén egy gyönyörű tó is található vízi madarakkal.", "Különösen népszerű a medvék és a farkasok kifutója.", "Az állatkert fontos szerepet játszik a helyi iskolások környezeti nevelésében.", "A látogatás családias és nyugodt környezetet biztosít minden korosztálynak.", "A belépőjegyek ára rendkívül kedvező, ösztönözve a rendszeres látogatást.", "Az intézmény részt vesz a romániai állatkertek közötti szakmai együttműködésekben.", "A területen kényelmes pihenőpadok és információs táblák segítik a tájékozódást."],
       ro: [],
       en: []
     }
@@ -2839,7 +2839,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zoo Sathmar (Satu Mare) ist eine grüne Oase im Nordwesten Rumäniens und ein zentraler Anlaufpunkt für Naturfreunde in der Region Partium. Die Anlage zeichnet sich durch ihre weitläufigen Grünflächen und den alten Baumbestand aus, der an heißen Sommertagen angenehmen Schatten spendet. Besucher können hier eine Vielzahl von Tieren bestaunen, von heimischen Wildarten bis hin zu exotischen Bewohnern aus fernen Ländern. Besonders stolz ist der Zoo auf seine Bildungsarbeit, die vor allem Kindern die Bedeutung des Artenschutzes und den respektvollen Umgang mit der Natur vermittelt. Die entspannte Atmosphäre lädt zu ausgiebigen Spaziergängen ein, während die gut platzierten Rastplätze zum Verweilen einladen. Als wichtiger Bestandteil des lokalen Freizeitangebots verbindet der Zoo Satu Mare gekonnt Unterhaltung mit Information und ist somit ein ideales Ziel für einen entspannten Familienausflug, bei dem man die Vielfalt der Fauna in einer ruhigen, parkähnlichen Umgebung genießen kann.",
-      hu: "",
+      hu: "A szatmárnémeti állatkert (Grădina Zoologică Satu Mare) a város egyik legfontosabb zöldövezeti látványossága, amely modernizált kifutókkal és változatos állatállománnyal várja az érdeklődőket. A parkban olyan állatokat láthatunk, mint az oroszlánok, tigrisek, medvék, valamint számos patás és egzotikus madárfaj. Az állatkert különlegessége a 'háztáji udvar', ahol a gyerekek testközelből ismerhetik meg a háziállatokat és azok gondozását. A jól kialakított sétányok és pihenőhelyek kellemes kikapcsolódást nyújtanak minden korosztálynak. A szatmári állatkert nagy hangsúlyt fektet a fajmegőrzésre és az oktatásra, rendszeresen szervezve tematikus programokat és iskolai foglalkozásokat, amelyek célja a természet iránti tisztelet és a környezettudatos szemlélet kialakítása már korai életkorban.",
       ro: "",
       en: ""
     },
@@ -2854,7 +2854,7 @@ export const poiExtraRo2: POI[] = [
         "Innerhalb des Zoos gibt es moderne Entspannungszonen mit interaktiven Infotafeln.",
         "Der Tiergarten ist barrierefrei gestaltet und für alle Altersgruppen leicht zugänglich."
       ],
-      hu: [],
+      hu: ["A szatmárnémeti állatkert Románia északnyugati régiójának egyik legmodernebbje.", "Az intézmény több mint 7 hektáros területen fekszik.", "Közel 60 állatfaj több száz egyede látható a kifutókban.", "Híres az állatkert madárháza és a tágas nagymacska-kifutók.", "Az állatkertben interaktív oktatótáblák segítik a fajok megismerését.", "A park akadálymentesített és kényelmes pihenőhelyekkel van felszerelve.", "Rendszeresen szerveznek ingyenes tematikus napokat gyermekeknek.", "A szatmári állatkert fontos turisztikai vonzerő a határmenti régióban."],
       ro: [],
       en: []
     }
@@ -2879,7 +2879,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Nymphaea Wasserpark in Großwardein (Oradea) ist einer der modernsten und größten Aquaparks in Südosteuropa und setzt neue Maßstäbe im Bereich Freizeit und Wellness. Auf einer beeindruckenden Fläche bietet die Anlage eine perfekte Kombination aus Adrenalin und Entspannung. Während Abenteuerlustige auf den zahlreichen High-Tech-Rutschen voll auf ihre Kosten kommen, finden Erholungssuchende in den weitläufigen Thermalbecken und dem exklusiven Spa-Bereich Ruhe. Die Architektur des Parks ist futuristisch und funktional zugleich, wobei große Glasfronten viel natürliches Licht hereinlassen und einen Blick auf die umliegenden Grünanlagen ermöglichen. Dank der Nutzung der lokalen Thermalquellen ist der Park ein ganzjähriges Reiseziel, das auch im Winter karibisches Flair verbreitet. Ob für Familien mit Kindern, die in den speziellen Spielbereichen sicher toben können, oder für Paare, die ein Wellness-Wochenende genießen möchten – der Nymphaea Aquapark ist ein touristisches Highlight, das Besucher weit über die Grenzen Rumäniens hinaus anzieht.",
-      hu: "",
+      hu: "A nagyváradi Nymphaea Aquapark Románia és a régió egyik legmodernebb vízi szórakoztató komplexuma, amely minden korosztály számára felejthetetlen élményeket kínál. A Sebes-Körös partján elterülő hatalmas aquapark hét hektáron egyesíti a beltéri és kültéri medencéket, látványos csúszdákat és a luxus wellness-szolgáltatásokat. A gyermekeket tematikus medencék és izgalmas vizes játszóterek várják, míg a felnőttek termálvizes medencékben, szaunákban és professzionális gyógykezelésekben lazíthatnak. A Nymphaea kiemelkedik ultramodern építészetével, tiszta és biztonságos környezetével, valamint magas színvonalú szolgáltatásaival. Legyen szó nyári hűsölésről vagy téli wellness-hétvégéről, az aquapark egész évben várja a látogatókat, megerősítve Nagyvárad pozícióját mint Románia egyik vezető gyógy- és élményturisztikai központja.",
       ro: "",
       en: ""
     },
@@ -2894,7 +2894,7 @@ export const poiExtraRo2: POI[] = [
         "Der Park bietet auch Sporteinrichtungen wie Beachvolleyball und Fußballplätze.",
         "Dank moderner Filtertechnik erfüllt das Wasser höchste hygienische Standards."
       ],
-      hu: [],
+      hu: ["A Nymphaea Aquapark hét hektáros területével a legnagyobb a régióban.", "Összesen 10 látványos csúszda és 15 különböző medence áll rendelkezésre.", "A komplexum saját termálvíz-forrással rendelkezik a gyógyvizes medencékhez.", "A beltéri részleg lehetővé teszi a fürdőzést a leghidegebb téli napokon is.", "Modern szaunavilág, törökfürdő és masszázsszalonok várják a pihenni vágyókat.", "A gyermekmedencék speciális, biztonságos burkolattal és játékokkal felszereltek.", "Az aquapark területén több étterem és bár kínál frissítőket.", "A Nymphaea megnyitása óta Nagyvárad egyik legfontosabb turisztikai mágnese."],
       ro: [],
       en: []
     }
@@ -2919,7 +2919,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Aqua Magic Mamaia ist der legendäre Wasserpark an der rumänischen Schwarzmeerküste und gilt als Pionier der modernen Freizeitkultur im Land. Am Eingang des berühmten Badeortes Mamaia gelegen, bietet der Park eine explosive Mischung aus Wasserspaß, Musik und Unterhaltung. Mit einer Kapazität von Tausenden von Besuchern täglich ist er das pulsierende Herz der sommerlichen Action in der Region Constanța. Die Vielfalt der Attraktionen reicht von rasanten Rutschen wie dem 'Kamikaze' bis hin zum entspannten Treibenlassen im 'Lazy River'. Besonders attraktiv macht den Park seine Lage zwischen dem Schwarzen Meer und dem Siutghiol-See, was für eine ständige frische Brise sorgt. Täglich organisierte Shows, Live-DJ-Sets und Poolpartys machen Aqua Magic zu weit mehr als nur einem Schwimmbad – es ist ein Erlebniszentrum, das den Lifestyle der rumänischen Riviera perfekt verkörpert und Generationen von Urlaubern unvergessliche Sommermomente beschert.",
-      hu: "",
+      hu: "A mamaiai (Konstanca) Aqua Magic Románia első és egyik legismertebb aquaparkja, amely a tengerparti nyaralások elengedhetetlen állomása. A park közvetlenül a tengerpart és a Siutghiol-tó között helyezkedik el, kínálva a vizes kalandok végtelen sorát: hatalmas csúszdák, kanyargó vadvizek és interaktív medencék várják a látogatókat. Az Aqua Magic különlegessége a fergeteges hangulat, amelyet napközbeni partik, játékok és bemutatók színesítenek a medencék partján. A gyerekek számára külön kialakított biztonságos zónák és minicsúszdák biztosítják a felhőtlen szórakozást, míg a bátrabbak a szédítő magasságú extrém csúszdákon tehetik próbára merészségüket. A park modern infrastruktúrával, számos étkezőhellyel és pihenőzónával rendelkezik, garantálva a tökéletes családi napot a ragyogó napsütésben.",
       ro: "",
       en: ""
     },
@@ -2934,7 +2934,7 @@ export const poiExtraRo2: POI[] = [
         "Sicherheitsmitarbeiter und Rettungsschwimmer überwachen ständig alle Bereiche.",
         "Der Park ist ein fester Bestandteil der Tourismusstrategie der Region Mamaia."
       ],
-      hu: [],
+      hu: ["Az Aqua Magic volt az első modern vízi vidámpark a román tengerparton.", "A park területe meghaladja a 27 ezer négyzetmétert.", "Összesen 14 különböző vízi attrakció és csúszda várja a vendégeket.", "A park naponta több mint 9000 látogató fogadására alkalmas.", "Híres a 'River Ride' és a 'Kamikaze' csúszdákról.", "Napközben profi animátorcsapat szórakoztatja a gyerekeket és felnőtteket.", "Az Aqua Magic területén különleges 'wet bar' is található a medencében.", "A biztonságért képzett vízimentők és folyamatos felügyelet felel."],
       ro: [],
       en: []
     }
@@ -2959,7 +2959,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Therme Bukarest, gelegen in Balotești in der Nähe des Flughafens Otopeni, ist das größte Wellness- und Unterhaltungszentrum in Europa und eine architektonische Meisterleistung aus Glas und Stahl. Dieser spektakuläre Komplex bietet Besuchern eine einzigartige tropische Erfahrung mit einer konstanten Innentemperatur von 30 Grad Celsius, unabhängig von der Jahreszeit. Die Therme ist in verschiedene Bereiche unterteilt: 'Galaxy' für Familien mit beeindruckenden Wasserrutschen, 'The Palm' für Entspannung unter echten Palmen und 'Elysium' für gehobene Saunaerlebnisse und Wellness-Behandlungen. Mit über 800.000 Pflanzen, darunter die größte Sammlung von Palmen in Europa, fühlt man sich wie in einem botanischen Garten der Extraklasse. Das mineralhaltige Thermalwasser, das aus großer Tiefe gefördert wird, speist die zahlreichen Becken und bietet gesundheitsfördernde Vorteile. Die Therme Bukarest ist nicht nur ein Ort der Erholung, sondern auch ein Ort für Events, Konzerte und erstklassige Gastronomie, was sie zu einem der meistbesuchten touristischen Ziele in ganz Rumänien macht.",
-      hu: "",
+      hu: "A Bukarest melletti Therme București Európa legnagyobb és legmodernebb termálfürdő és wellness-központja, amely egy igazi trópusi paradicsomot varázsol a román főváros szomszédságába. A hatalmas üvegtető alatt több mint 800 ezer egzotikus növény, köztük igazi pálmaerdők között élvezhetjük a termálvizet egész évben. A Therme három fő zónára oszlik: a Galaxy a családok és a vízi kalandok világa látványos csúszdákkal, a The Palm a relaxáció és a pálmafás medencék birodalma, míg az Elysium a luxus szaunák és gyógykezelések helyszíne. A fenntartható és környezetbarát technológiákat alkalmazó komplexum a legmagasabb szintű pihenést kínálja, legyen szó egy pörgős családi napról vagy egy csendes wellness-hétvégéről. A Therme nemcsak egy fürdő, hanem egy életérzés, ahol a trópusi nyár sosem ér véget.",
       ro: "",
       en: ""
     },
@@ -2974,7 +2974,7 @@ export const poiExtraRo2: POI[] = [
         "Es gibt spezielle Mineralbecken, die mit Salz aus dem Toten Meer angereichert sind.",
         "Die Therme wurde mit prestigeträchtigen internationalen Design- und Architekturpreisen ausgezeichnet."
       ],
-      hu: [],
+      hu: ["A Therme București Európa legnagyobb zöldmezős wellness-beruházása.", "A komplexum több mint 800 ezer növényével Románia legnagyobb botanikus kertje is egyben.", "A termálvizet több mint 3000 méter mélyről nyerik ki a földből.", "A Galaxy zónában Románia leghosszabb beltéri csúszdarendszere található.", "A tető szerkezete speciális üvegből készült, amely átereszti az UV sugárzást.", "Minden zónában különböző hőmérsékletű és ásványi anyag tartalmú medencék vannak.", "A Therme saját, ultramodern vízszűrő és tisztító technológiával rendelkezik.", "A helyszín mindössze 10 percre található a nemzetközi repülőtértől."],
       ro: [],
       en: []
     }
@@ -2999,7 +2999,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Arka Park Păltiniș ist ein aufregendes Outdoor-Abenteuerzentrum im Herzen des Cindrel-Gebirges, unweit des bekannten Skiorts Păltiniș in der Region Hermannstadt (Sibiu). Auf einer beeindruckenden Höhe von rund 1.400 Metern gelegen, bietet der Park eine Vielzahl von Parcours, die in die dichten Nadelwälder integriert sind. Die Herausforderungen reichen von einfachen Seilbrücken für Kinder bis hin zu anspruchsvollen Hindernissen in schwindelerregender Höhe für erfahrene Kletterer. Ein absolutes Highlight sind die rasanten Seilrutschen (Ziplines), die den Besuchern das Gefühl geben, wie Vögel über das Tal zu gleiten, während sie die frische, saubere Bergluft einatmen. Sicherheit steht an erster Stelle: Alle Teilnehmer werden professionell eingewiesen und mit modernstem Equipment ausgestattet. Der Arka Park ist der ideale Ort für Teambuilding-Events, Schulausflüge oder einen aktiven Tag mit der Familie, bei dem körperliche Geschicklichkeit und Mut in einer atemberaubenden alpinen Umgebung gefordert werden.",
-      hu: "",
+      hu: "A Nagyszeben melletti Arka Park Păltiniș a Szebeni-havasok tiszta levegőjén és gyönyörű fenyőerdőiben kínál izgalmas kalandokat minden korosztálynak. A parkban kialakított kötélpályák különböző magasságokban és nehézségi szinteken vezetik végig a látogatókat, próbára téve az egyensúlyérzéket és a fizikai erőnlétet. A gyerekek számára speciális, alacsonyabb és extra biztonságos pályákat hoztak létre, ahol játszva fejleszthetik ügyességüket, míg a felnőttek és profik extrém kihívásokkal és lélegzetelállító tiroli csúszásokkal nézhetnek szembe. Az Arka Park nagy hangsúlyt fektet a biztonságra: a legmodernebb biztosítóberendezésekkel és szakértő instruktorokkal várják a vendégeket. A lenyűgöző hegyi panoráma és a természetközeli élmény az Arka Parkot a régió egyik legvonzóbb outdoor célpontjává teszi, ahol a sport és a szórakozás tökéletesen összekapcsolódik.",
       ro: "",
       en: ""
     },
@@ -3014,7 +3014,7 @@ export const poiExtraRo2: POI[] = [
         "Zusätzlich zum Klettern gibt es oft Möglichkeiten für Bogenschießen oder Minigolf.",
         "Der Park ist ein beliebtes Ziel für Sommercamps und Jugendgruppen."
       ],
-      hu: [],
+      hu: ["Az Arka Park Păltiniș 1200 méteres tengerszint feletti magasságban található.", "Összesen 11 különböző nehézségi fokozatú kalandpálya áll rendelkezésre.", "A parkban található az egyik leglátványosabb hegyi tiroli csúszópálya.", "Minden látogató kötelező biztonsági oktatáson vesz részt a kaland előtt.", "A park egész évben nyitva tart, így télen is különleges élményt nyújt.", "Kiváló helyszín iskolai kirándulásokhoz és outdoor csapatépítőkhöz.", "A pályák kialakítása során maximálisan figyeltek az erdő védelmére.", "A park területén kényelmes pihenőzónák és büfé várja a felfrissülni vágyókat."],
       ro: [],
       en: []
     }
@@ -3086,7 +3086,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Fluss Iza ist die Lebensader der historischen Region Maramureș im Norden Rumäniens und fließt durch ein Tal, das als 'Seele der rumänischen Tradition' gilt. Entspringend im Rodna-Gebirge, windet sich der Fluss durch malerische Dörfer, in denen die Zeit stillzustehen scheint. Das Iza-Tal ist weltberühmt für seine monumentalen geschnitzten Holztore und die zum UNESCO-Weltkulturerbe gehörenden Holzkirchen, die das kulturelle Erbe der Region widerspiegeln. Der Fluss selbst prägt die Landschaft mit seinen sanften Windungen und bietet Lebensraum für zahlreiche Fischarten, was ihn bei lokalen Anglern sehr beliebt macht. Entlang seines Laufs kann man das tägliche Leben der Bauern beobachten, die ihre Felder noch oft mit traditionellen Methoden bearbeiten. Die Iza ist nicht nur ein geografisches Merkmal, sondern ein Symbol für die Beständigkeit und die tiefe Verbundenheit der Menschen mit ihrem Land und ihrer Geschichte, was sie zu einem unverzichtbaren Teil jeder Reise durch den Norden Rumäniens macht.",
-      hu: "",
+      hu: "Az Iza folyó Máramaros lelke és egyik legfontosabb jelképe, amely a Radnai-havasokban ered és végigkanyarog az Iza-völgyén, mielőtt a Tiszába ömlene. A folyó mentén sorakoznak azok a híres máramarosi falvak, amelyek megőrizték az archaikus paraszti életformát, a gyönyörű fatemplomokat és a monumentális faragott kapukat. Az Iza völgye egy élő skanzen, ahol a folyó vize egykor malmokat, posztóverőket és pálinkafőzőket hajtott, ma pedig a táj nyugalmát és tisztaságát szimbolizálja. A folyó menti legelők és kaszálók biodiverzitása egyedülálló, számos ritka növény- és állatfajnak nyújtva otthont. Az Iza nemcsak egy vízfolyás, hanem a máramarosi identitás hordozója, amelynek mentén sétálva vagy kerékpározva felfedezhetjük Észak-Románia legautentikusabb arcát és vendégszeretetét.",
       ro: "",
       en: ""
     },
@@ -3101,7 +3101,7 @@ export const poiExtraRo2: POI[] = [
         "In den Wintermonaten friert der Fluss teilweise zu und bietet eine märchenhafte Kulisse.",
         "Das Tal ist ein Zentrum für traditionelle rumänische Volksmusik und Tänze."
       ],
-      hu: [],
+      hu: ["Az Iza folyó hossza körülbelül 83 kilométer.", "Völgye az UNESCO világörökség részét képező fatemplomok hazája.", "A folyó a máramarosi faépítészet és kultúra bölcsője.", "Az Iza vize kristálytiszta, ideális a horgászathoz és a pihenéshez.", "A völgyben számos hagyományos vízi szerkezet (pl. ványoló) ma is működik.", "Télen az Iza fagyott partjai különleges, mesebeli látványt nyújtanak.", "A folyó fontos ökológiai folyosó a kárpáti élővilág számára.", "Máramaros-szigetnél az Iza vize egyesül a Tiszával."],
       ro: [],
       en: []
     }
@@ -3126,7 +3126,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Siret ist einer der bedeutendsten Flüsse Rumäniens und der wasserreichste Zufluss der Donau auf rumänischem Staatsgebiet. Er entspringt in den ukrainischen Karpaten und durchfließt den Osten Rumäniens von Norden nach Süden, wobei er die historische Region Moldau maßgeblich prägt. Sein Lauf ist von großer wirtschaftlicher Bedeutung, insbesondere für die Energieerzeugung durch eine Kette von Stauseen und Wasserkraftwerken. Die fruchtbaren Ebenen entlang des Siret sind wichtige landwirtschaftliche Gebiete, während der Fluss selbst ein komplexes Ökosystem für zahlreiche Fisch- und Vogelarten darstellt. Historisch diente der Siret als wichtige Handelsroute und natürliche Grenze. Heute ist das Siret-Tal eine abwechslungsreiche Landschaft, die von sanften Hügeln im Norden bis zu weiten Tiefebenen im Süden reicht, bevor der Fluss bei Galați majestätisch in die Donau mündet und so den Kreislauf des Wassers in dieser Region vervollständigt.",
-      hu: "",
+      hu: "A Szeret (Siret) folyó Kelet-Románia leghosszabb és egyik legjelentősebb vízfolyása, amely az ukrán Kárpátokban ered és a Duna bal oldali mellékfolyójaként ömlik a tengerbe Galați közelében. A Szeret völgye Moldva gazdasági és ökológiai gerince, amely évszázadokon át meghatározta a régió fejlődését és kereskedelmi útvonalait. A folyó mentén számos víztározó és vízerőmű épült, amelyek fontos szerepet játszanak az ország energiatermelésében és az árvízvédelemben. A Szeret ártere gazdag élővilággal rendelkezik, fontos madárvonulási útvonal és horgászparadicsom. Bár a folyó néha pusztító áradásokkal emlékeztet erejére, szabályozása és a völgyében folyó mezőgazdaság döntő fontosságú a román élelmiszerbiztonság szempontjából. A Szeret mentén sétálva feltárul Moldva változatos tája, a domboktól egészen a dunai torkolatvidékig.",
       ro: "",
       en: ""
     },
@@ -3141,7 +3141,7 @@ export const poiExtraRo2: POI[] = [
         "Der Siret ist bekannt für seine Vorkommen an Welsen und Hechten.",
         "In der Antike wurde der Fluss unter dem Namen 'Hierasus' erwähnt."
       ],
-      hu: [],
+      hu: ["A Szeret folyó teljes hossza 706 kilométer, ebből 559 km Romániában.", "Vízgyűjtő területe a legnagyobb az összes romániai folyó közül.", "A folyón több nagy víztározó tó is található (pl. Beresti, Galbeni).", "A Szeret a Duna legnagyobb mellékfolyója a vízhozam tekintetében.", "Az ártér számos ritka vízi növény- és madárfaj védett élőhelye.", "Történelmileg a Szeret fontos védelmi vonalként is szolgált Moldvában.", "A folyó torkolatánál jelentős ipari központok és kikötők alakultak ki.", "A Szeret menti alluviális talajok kiválóak a gabonatermesztésre."],
       ro: [],
       en: []
     }
@@ -3166,7 +3166,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Pruth (Prut) ist nicht nur ein bedeutendes Gewässer, sondern auch ein Fluss mit enormer politischer und historischer Symbolkraft, da er die Grenze zwischen Rumänien und der Republik Moldau bildet. Er entspringt in den Waldkarpaten der Ukraine und fließt über fast 1.000 Kilometer bis zu seiner Mündung in die Donau. Die Ufer des Pruth sind von einer wilden Schönheit geprägt, mit weiten Auen und Feuchtgebieten, die unter Naturschutz stehen und ein Paradies für Zugvögel sind. Für die Menschen in der Region ist der Fluss eine lebenswichtige Wasserquelle und ein Symbol der Verbundenheit über nationale Grenzen hinweg. Historisch war der Pruth Schauplatz zahlreicher Friedensverträge und militärischer Auseinandersetzungen, die die Landkarte Südosteuropas formten. Heute ist der Fluss ein ruhiger Strom, der zu Naturbeobachtungen einlädt und durch seine unberührten Landschaften und die reiche Fischfauna besticht, was ihn zu einem wichtigen ökologischen Korridor in Osteuropa macht.",
-      hu: "",
+      hu: "A Prut folyó Románia keleti határfolyója, amely méltóságteljesen kanyarog és választja el az országot a Moldovai Köztársaságtól, mielőtt a Dunába torkollna. Az ukrán Kárpátokból eredő folyó nemcsak politikai határ, hanem egyedülálló ökológiai folyosó is, amely érintetlen ártéri erdőknek és mocsaras vidékeknek ad otthont. A Prut mentén található számos védett terület, mint például a Stânca-Costești víztározó vagy az Alsó-Prut ártere, ahol ritka madárfajok és gazdag halállomány figyelhető meg. A folyó története szorosan összefonódik a román nép történelmével, számos dalban és irodalmi műben is megjelenik mint a testvéri egység és a távolság szimbóluma. A Prut mente ideális helyszín a csendes természetjárásra, a madármegfigyelésre és a határmenti régiók kulturális örökségének felfedezésére, ahol az idő mintha lassabban telne.",
       ro: "",
       en: ""
     },
@@ -3181,7 +3181,7 @@ export const poiExtraRo2: POI[] = [
         "Der Fluss markiert die östliche Außengrenze der Europäischen Union.",
         "Früher war der Pruth schiffbar und diente dem Transport von Getreide und Holz."
       ],
-      hu: [],
+      hu: ["A Prut folyó hossza 953 kilométer, amivel Európa egyik leghosszabb folyója.", "711 kilométeren keresztül képezi Románia és Moldova államhatárát.", "A Stânca-Costești gát a folyó egyik legnagyobb technikai létesítménye.", "A Prut torkolata a Duna-deltához hasonlóan gazdag biodiverzitással rendelkezik.", "A folyó menti holtágak fontos ívóhelyek a dunai halak számára.", "Számos régészeti lelőhely tanúskodik a Prut menti korai emberi településekről.", "A folyó vízminősége javult az elmúlt évtizedek közös védelmi projektjei révén.", "A Prut-völgy híres a finom borairól és a határ menti vendégszeretetről."],
       ro: [],
       en: []
     }
@@ -3206,7 +3206,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Bistritz (Bistrița) ist einer der landschaftlich reizvollsten Gebirgsflüsse Rumäniens und fließt durch das Herz der Ostkarpaten. Bekannt für ihr klares Wasser und ihre reißende Strömung im Oberlauf, war die Bistritz über Jahrhunderte der Hauptweg für die Flößerei, bei der riesige Holzmengen aus den Bergwäldern in die Ebenen transportiert wurden. Ein monumentales Merkmal des Flusses ist der Izvorul-Muntelui-Stausee (auch Bicaz-See genannt), der durch eine der größten Talsperren des Landes gebildet wird und den Fluss in ein ruhiges 'Binnenmeer' verwandelt. Die Bistritz durchschneidet spektakuläre Schluchten und bietet atemberaubende Ausblicke auf das Ceahlău-Massiv. Heute ist der Fluss ein Magnet für Touristen, die Wassersportarten wie Kajakfahren schätzen oder einfach die Ruhe an seinen bewaldeten Ufern genießen möchten. Die Kombination aus industrieller Nutzung durch Wasserkraft und wilder, unberührter Natur macht die Bistritz zu einem faszinierenden Beispiel für die Kraft und Vielseitigkeit der rumänischen Flüsse.",
-      hu: "",
+      hu: "Az Aranyos-Beszterce (Bistrița Aurie) a Keleti-Kárpátok egyik leggyönyörűbb és legdinamikusabb folyója, amely a Radnai-havasokból eredve szeli át Bukovinát és Moldvát. Nevét a medrében egykoron talált aranyról kapta, ma pedig 'kék aranyként', azaz fontos energiaforrásként tisztelik. A folyón található Románia egyik legnagyobb víztározója és gátja, a Bicaz-tó (Izvorul Muntelui), amely monumentális méreteivel uralja a tájat. A Beszterce felső szakasza népszerű a vadvízi evezősök és a horgászok körében, míg alsóbb szakaszai az ipart és a mezőgazdaságot szolgálják. A folyó völgye lenyűgöző szorosokon (pl. Zugrenilor-szoros) vezet keresztül, ahol a meredek sziklafalak és a zúgó víz vadsága lenyűgözi a látogatókat. A Beszterce nemcsak a természet erejét, hanem az emberi mérnöki tudás nagyszerűségét is hirdeti a hegyek között.",
       ro: "",
       en: ""
     },
@@ -3221,7 +3221,7 @@ export const poiExtraRo2: POI[] = [
         "Entlang der Bistritz befinden sich zahlreiche traditionsreiche Klöster.",
         "Der Fluss ist eine wichtige Quelle für Trinkwasser in der Region Moldau."
       ],
-      hu: [],
+      hu: ["A Beszterce folyó hossza 283 kilométer a torkolatig.", "Ez Románia legfontosabb folyója a vízenergia-termelés szempontjából.", "A folyón kiépített 'Beszterce-lépcső' összesen 13 vízerőművet foglal magában.", "Felső szakasza híres a pisztrángállományáról és a tiszta hegyi vizéről.", "A Beszterce mentén egykoron jelentős volt a faúsztatás a hegyekből a síkságra.", "A Bicaz-gát építése az 1950-es évek egyik legnagyobb romániai beruházása volt.", "A folyó völgye fontos közlekedési folyosó Erdély és Moldva között.", "A Beszterce vize végül a Szeret folyóba ömlik Bákó közelében."],
       ro: [],
       en: []
     }
@@ -3246,7 +3246,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Trotuș (Tatros) ist ein charaktervoller Fluss der Ostkarpaten, der durch ein geschichtsträchtiges Tal fließt, das Siebenbürgen mit der Region Moldau verbindet. Sein Lauf ist geprägt von einer abwechslungsreichen Geologie, die zur Entstehung zahlreicher Salz- und Erdölvorkommen geführt hat, was dem Tal eine große industrielle Bedeutung verlieh. Doch jenseits der Industrie bietet der Trotuș eine wunderschöne Naturkulisse mit bewaldeten Hängen und weiten Terrassen. Das Trotuș-Tal ist bekannt für seine Kurorte wie Slănic Moldova und seine strategische Rolle als Verteidigungslinie in vergangenen Kriegen. Der Fluss selbst ist ein lebendiges Gewässer, das sich durch schmale Schluchten und breite Becken schlängelt. Für Wanderer und Naturliebhaber bietet das Tal zahlreiche Pfade, die zu Panoramapunkten führen, von denen aus man den glitzernden Lauf des Trotuș über Kilometer verfolgen kann. Es ist ein Ort, an dem Naturgeschichte und menschliche Aktivität auf engem Raum miteinander verwoben sind.",
-      hu: "",
+      hu: "A Tatros (Trotuș) folyó a Keleti-Kárpátokban ered és a Szeret folyó egyik legjelentősebb mellékfolyója, amely mentén Moldva egyik legfontosabb ipari és kulturális völgye alakult ki. A Tatros völgye híres a sóbányászatáról (Târgu Ocna) és a kőolaj-kitermeléséről, amelyek évszázadok óta meghatározzák a régió gazdasági karakterét. A folyó festői szorosokon és tágas medencéken halad keresztül, ahol történelmi emlékek, mint a Ghimes-szoros várai és emlékművei őrzik a múltat. A Tatros mente népszerű a túrázók körében is, hiszen a környező hegyek könnyen megközelíthetőek és gyönyörű panorámát kínálnak. A folyó vize fontos szerepet játszik a helyi mezőgazdaságban és iparban, miközben partjai mentén megmaradt a hagyományos moldvai és csángó falvak autentikus hangulata és vendégszeretete.",
       ro: "",
       en: ""
     },
@@ -3261,7 +3261,7 @@ export const poiExtraRo2: POI[] = [
         "Das Tal ist eine wichtige Route für die Eisenbahnverbindung nach Siebenbürgen.",
         "Zahlreiche Mineralwasserquellen entspringen in der Nähe des Flussbettes."
       ],
-      hu: [],
+      hu: ["A Tatros folyó hossza körülbelül 162 kilométer.", "Völgye az egyik legrégebbi ipari terület Romániában a só és olaj miatt.", "A folyó mentén található az ezeréves határ (Gyimesbükk) történelmi helyszíne.", "A Tatros völgye fontos néprajzi tájegység a csángó kultúra megőrzésében.", "A folyó vízgyűjtője gazdag ásványvíz-forrásokban is.", "Számos víztározó épült a folyón az árvizek megfékezése érdekében.", "A Tatros menti erdők gazdag vadállománnyal, köztük medvékkel rendelkeznek.", "A folyó Adjud közelében ömlik a Szeret folyóba."],
       ro: [],
       en: []
     }
@@ -3286,7 +3286,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Fluss Putna ist die wilde Seele des Vrancea-Gebirges und bekannt für seine unbändige Kraft, die sich in spektakulären geologischen Formationen manifestiert. Das absolute Highlight ist der Putna-Wasserfall, ein beeindruckendes Naturdenkmal, bei dem der Fluss über massive Felsstufen in ein tiefes Becken stürzt und dabei eine ständige Gischtwolke erzeugt. Die Putna-Schlucht bietet Wanderern ein dramatisches Panorama aus steilen Kalksteinwänden und dichtem Grün. Der Fluss ist ein wichtiges Element des regionalen Naturparks Putna-Vrancea, der zum Schutz der Artenvielfalt in den Karpaten eingerichtet wurde. Historisch gesehen war die Region um die Putna ein Rückzugsort und ein Ort spiritueller Bedeutung, was sich in den nahegelegenen alten Klöstern widerspiegelt. Für Abenteurer und Fotografen ist die Putna ein ideales Ziel, um die rohe Schönheit der rumänischen Bergwelt in ihrer reinsten Form festzuhalten, weit weg von den großen Touristenströmen.",
-      hu: "",
+      hu: "A Putna folyó Vrancea megye egyik legszebb hegyi folyója, amely a Vranceai-havasok vadregényes tájairól ered és lenyűgöző természeti látványosságokon vezet keresztül. A folyó leghíresebb szakasza a Putna-vízesés, ahol a víz nagy robajjal zúdul alá a sziklák között, népszerű kirándulóhellyé téve a környéket. A Putna-szoros természetvédelmi terület, ahol a folyó mélyen bevágódott a kőzetbe, meredek sziklafalakat és különleges geomorfológiai formákat hozva létre. A folyó völgye gazdag történelmi emlékekben is, hiszen itt található a híres Putna kolostor, bár maga a folyó távolabb torkollik, a Putna név összefonódik Moldva szent helyeivel. A folyó mente ideális a természetfotózáshoz, a vadregényes túrákhoz és a csendes kikapcsolódáshoz, ahol a víz zúgása és az erdők nyugalma segít a feltöltődésben.",
       ro: "",
       en: ""
     },
@@ -3301,7 +3301,7 @@ export const poiExtraRo2: POI[] = [
         "Es gibt zahlreiche Legenden über die Entstehung des Wasserfalls.",
         "Der Flusslauf ist ein beliebtes Ziel für ökotouristische Wanderungen."
       ],
-      hu: [],
+      hu: ["A Putna folyó hossza körülbelül 153 kilométer.", "A Putna-vízesés Románia egyik leglátványosabb védett természeti emléke.", "A folyó völgye a Vranceai Szeizmikus Zóna szívében fekszik.", "A Putna-szorosban számos ritka növényfaj és védett ragadozó madár él.", "A folyó mente népszerű a vadvízi túrázók és kempingezők körében.", "Vize fontos öntözőforrás a Vranceai-síkság mezőgazdasága számára.", "A folyó a Szeret mellékfolyójaként zárja útját.", "A Putna völgye híres a hagyományos népi építészetéről és fafaragásairól."],
       ro: [],
       en: []
     }
@@ -3326,7 +3326,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Fluss Buzău ist ein dynamisches Gewässer, das eine der interessantesten Regionen Rumäniens durchquert, wo sich geologische Kuriositäten und Outdoor-Abenteuer vereinen. Entspringend in den Karpaten, hat sich der Buzău tief in das Gebirge eingegraben und bildet spektakuläre Täler, die heute zu den besten Revieren für Wildwasser-Rafting im ganzen Land zählen. Das Buzău-Tal ist berühmt für seine 'lebendigen Feuer' und die nahegelegenen Schlammvulkane, was der Region eine fast außerirdische Atmosphäre verleiht. Der Fluss ist eine wichtige Ressource für die Energiegewinnung und Bewässerung, bietet aber gleichzeitig weite Flächen für die Erholung. Die landschaftliche Vielfalt entlang seines Laufs, von dichten Bergwäldern bis hin zu sonnigen Weinhügeln im Vorland, macht den Buzău zu einem Symbol für den Reichtum der Natur in der Walachei. Besucher schätzen die Region für ihre Ursprünglichkeit und die vielfältigen Möglichkeiten, Natur und Kultur miteinander zu verknüpfen.",
-      hu: "",
+      hu: "A Bodza (Buzău) folyó a Kárpát-kanyar egyik legváltozatosabb vízfolyása, amely Erdélyből ered és az Előkárpátokon keresztül éri el a román Alföldet. A folyó felső szakasza a vadvízi evezés (rafting) egyik legjobb helyszíne Romániában, köszönhetően a Siriu-víztározó szabályozott vízhozamának és a folyó természetes zúgóinak. A Siriu-gát és a hozzá tartozó hatalmas tó nemcsak technikai bravúr, hanem festői szépségű turisztikai célpont is a hegyek között. Lefelé haladva a Bodza mentén különleges geológiai képződményeket találunk, mint például a híres Iszapvulkánokat, amelyek a folyó vízgyűjtő területének egyedülálló jelenségei. A folyó völgye gazdag történelmi emlékekben, barlangtemplomokban és bortermelő vidékekben, ahol a természet ereje és az emberi kultúra évszázadok óta szimbiózisban él egymással.",
       ro: "",
       en: ""
     },
@@ -3341,7 +3341,7 @@ export const poiExtraRo2: POI[] = [
         "Im Unterlauf wird das Wasser intensiv für den Weinbau in der Region Dealu Mare genutzt.",
         "In der Nähe finden sich fossile Bernsteinfunde, die weltweit bekannt sind."
       ],
-      hu: [],
+      hu: ["A Bodza folyó hossza 302 kilométer.", "A Siriu-gát Románia egyik legmagasabb, agyagmaggal épült gátja.", "A folyó felső szakasza nemzetközi rafting versenyek helyszíne.", "Völgye híres az 'Amber' (borostyán) lelőhelyekről Colți környékén.", "A Bodza vize fontos szerepet játszik Délkelet-Románia vízellátásában.", "A folyó árterében számos ritka madárfaj fészkel a vándorlási időszakban.", "Történelmileg fontos határvonal volt a román fejedelemségek között.", "A Bodza végül a Szeret folyóba torkollik Galați megyében."],
       ro: [],
       en: []
     }
@@ -3366,7 +3366,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Ialomița ist einer der wichtigsten Flüsse im Süden Rumäniens und ein Symbol für die weite Walachische Tiefebene. Sie entspringt in den majestätischen Bucegi-Bergen, wo sie durch spektakuläre Schluchten und Höhlen fließt, bevor sie die Ebene erreicht und sich in einen ruhigen, breiten Strom verwandelt. Die Ialomița durchquert das landwirtschaftliche Herz Rumäniens, den Bărăgan, und ist seit jeher eine lebenswichtige Wasserquelle für die Bewässerung der fruchtbaren Felder. Entlang ihres Laufs liegen bedeutende Städte und historische Siedlungen, die von der strategischen Bedeutung des Flusses zeugen. Die Ialomița mündet schließlich in die Donau und bildet dabei weite Auenlandschaften, die reich an Flora und Fauna sind. Für die Menschen in der Region ist der Fluss nicht nur ein geografisches Element, sondern ein Teil ihrer kulturellen Identität, besungen in zahlreichen Volksliedern und Legenden über die Weite und Melancholie der rumänischen Steppe.",
-      hu: "",
+      hu: "A Jalomica (Ialomita) folyó a Déli-Kárpátokból, a Bucsecs-hegység szívéből indul útjára, és végigszeli a román Alföldet, hogy végül a Dunába ömöljön. Felső szakasza lenyűgöző szurdokokon (pl. Tatar-szoros) és magashegyi tájakon halad keresztül, ahol a híres Jalomica-barlang és a mellette lévő kolostor spirituális és turisztikai központ. A síkságra érve a folyó lassabbá válik, és Ialomița megye névadójaként a mezőgazdaság éltető erejévé válik. A Jalomica völgye fontos történelmi útvonal volt Erdély és a Duna között, számos régi város és kulturális emlék őrzi a múlt nyomait. A folyó mente gazdag halállománnyal rendelkezik, népszerű a horgászok körében, ártere pedig fontos élőhely a pusztai és vízi állatvilág számára, megteremtve a kapcsolatot a hegyek vadsága és a rónák békéje között.",
       ro: "",
       en: ""
     },
@@ -3381,7 +3381,7 @@ export const poiExtraRo2: POI[] = [
         "Der Fluss bildet zahlreiche Mäander und Altwasserarme in der Ebene.",
         "Die Ialomița spielt eine zentrale Rolle in der rumänischen Literatur und Folklore."
       ],
-      hu: [],
+      hu: ["A Jalomica folyó hossza 417 kilométer.", "Forrása több mint 2000 méter magasan, a Bucsecs-hegységben található.", "A folyón épült Bolboci-gátat 'a Kárpátok tengerének' is nevezik.", "Az Ialomița-barlang és kolostor a folyó felső szakaszának legismertebb látványossága.", "A folyó menti Bărăgan-síkság Románia legfontosabb gabonatermő vidéke.", "Számos víztározó tó szabályozza a folyó vízszintjét az Alföldön.", "Történelmileg a folyó mentén alakult ki az egyik legfontosabb középkori kereskedelmi út.", "A Jalomica vize a Duna-delta előtt, Giurgeni-nél éri el a Dunát."],
       ro: [],
       en: []
     }
@@ -3406,7 +3406,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Mostiștea-See ist einer der größten und bedeutendsten Seen im Süden Rumäniens, gelegen in der fruchtbaren Donauebene des Kreises Călărași. Dieses weitläufige Gewässer ist ein wahres Paradies für Sportfischer und Naturliebhaber gleichermaßen. Mit seiner beeindruckenden Fläche und dem Reichtum an verschiedenen Fischarten wie Karpfen, Wels und Zander zieht der See jährlich zahlreiche Besucher an, die die Ruhe und die unberührte Natur suchen. Ursprünglich Teil eines komplexen Systems von Seen entlang des Mostiștea-Flusses, spielt er heute eine zentrale Rolle in der regionalen Wasserwirtschaft und dient als wichtiges Reservoir für die Bewässerung der umliegenden landwirtschaftlichen Flächen. Die sanften Ufer und die weite Horizontlinie der Bărăgan-Steppe verleihen dem Ort eine fast meditative Atmosphäre. Neben seiner wirtschaftlichen Bedeutung ist der See auch ein wertvoller Lebensraum für zahlreiche Wasservögel, was ihn zu einem wichtigen ökologischen Refugium in der ansonsten intensiv genutzten Agrarlandschaft macht.",
-      hu: "",
+      hu: "A Mostiștea-tó a román Alföld egyik legnagyobb és legfontosabb limán-típusa, amely a Mostiștea folyó völgyének elzáródásával és későbbi mesterséges duzzasztásával jött létre. A Călărași megyében található hatalmas vízfelület döntő szerepet játszik a környező mezőgazdasági területek öntözésében és a haltenyésztésben. A tó és az azt övező mocsaras vidék gazdag biodiverzitással rendelkezik, fontos fészkelő- és táplálkozóhely számos madárfaj, köztük kócsagok, gémek és vadkacsák számára. A Mostiștea környéke népszerű a horgászok és a természetjárók körében, akik a pusztai táj nyugalmát és a vízi világ gazdagságát keresik. Bár a tó környezete emberi beavatkozás révén alakult ki, mára egy stabil ökoszisztémává vált, amely elengedhetetlen a dél-romániai táj egyensúlyához és a helyi gazdaság fenntarthatóságához.",
       ro: "",
       en: ""
     },
@@ -3421,7 +3421,7 @@ export const poiExtraRo2: POI[] = [
         "Der See hat eine große Bedeutung für die lokale Fischereiwirtschaft der Region.",
         "In der Nähe finden sich archäologische Spuren früherer Siedlungen aus der Bronzezeit."
       ],
-      hu: [],
+      hu: ["A Mostiștea-tó Románia egyik legnagyobb mesterségesen szabályozott tava az Alföldön.", "Vízfelülete a duzzasztások következtében több ezer hektárt tesz ki.", "A tórendszer fontos szerepet játszik az aszályos időszakok elleni védekezésben.", "Számos haltenyésztő gazdaság működik a tó területén.", "A Mostiștea völgye gazdag régészeti leletekben a neolitikum idejéből.", "A tó környéke kiváló madármegfigyelő hely az ornitológusok számára.", "A vízminőséget rendszeresen ellenőrzik az öntözés és a halászat miatt.", "A tó partján több kisebb, autentikus alföldi falu osztozik."],
       ro: [],
       en: []
     }
@@ -3446,7 +3446,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Razim-See (oder Razelm) ist der flächenmäßig größte Süßwassersee Rumäniens und bildet den nördlichen Teil des gewaltigen Razim-Sinoe-Lagunenkomplexes. Gelegen südlich des Donaudeltas, war er ursprünglich eine Meeresbucht des Schwarzen Meeres, die durch die Ablagerung von Flusssedimenten und die Bildung von Sandnehrungen vom offenen Meer getrennt wurde. Heute ist der See ein ökologisches Juwel von europäischem Rang und Teil des Biosphärenreservats Donaudelta. Die schier endlose Wasserfläche bietet einen atemberaubenden Anblick, besonders bei Sonnenuntergang, wenn sich der Himmel im spiegelglatten Wasser bricht. Für die Vogelwelt ist der Razim-See ein lebensnotwendiges Refugium; tausende von Pelikanen, Reihern und seltenen Zugvögeln finden hier ideale Brut- und Rastbedingungen. Die traditionelle Fischerei prägt seit Jahrhunderten das Leben in den umliegenden Dörfern, wo die Zeit oft langsamer zu laufen scheint. Für Reisende bietet der See eine einzigartige Mischung aus maritimer Weite und der mystischen Stille der Delta-Landschaft, fernab von ausgetretenen Touristenpfaden.",
-      hu: "",
+      hu: "A Razim-tó (vagy Razelm) Románia legnagyobb édesvizű tava és a Razim-Sinoe komplexum központi eleme a Fekete-tenger partján, a Duna-deltától délre. Ez a hatalmas lagúna-rendszer egykor tengeröböl volt, de a folyami hordalék elzárta a tengertől, mára pedig Európa egyik legfontosabb vizes élőhelyévé vált. A Razim-tó sekély vize és hatalmas nádasai ideális fészkelőhelyet biztosítanak számtalan ritka madárfajnak, köztük pelikánoknak és kárókatonáknak. A tó partján fekszik az ókori görög-római város, Argamum (Orgame) romja, ahonnan lélegzetelállító panoráma nyílik a vízfelületre és a Popina-szigetre. A Razim nemcsak természeti kincs és halászati központ, hanem a csendes turizmus és a vitorlázás kedvelt helyszíne is, ahol a végtelen horizont és a természet vadsága egyedülálló élményt nyújt a látogatóknak.",
       ro: "",
       en: ""
     },
@@ -3461,7 +3461,7 @@ export const poiExtraRo2: POI[] = [
         "Die Region um den See ist reich an griechischen und römischen Ruinen (z.B. Enisala).",
         "Der Razim-See ist ein bedeutendes Fanggebiet für Süßwasserfische wie Brachsen und Hechte."
       ],
-      hu: [],
+      hu: ["A Razim-tó vízfelülete több mint 400 négyzetkilométer.", "Ez a Razim-Sinoe lagúna-komplexum legészakibb és legnagyobb tagja.", "A tó közepén található Popina-sziget szigorúan védett természeti rezervátum.", "A tó vize a Duna csatornáin keresztül frissül, ezért mára édesvizűvé vált.", "A Razim partján találhatók Románia legrégebbi görög kolóniájának romjai.", "A tó híres a gazdag halállományáról, különösen a süllőről és pontyról.", "Fontos állomása a madárvonulási útvonalaknak a Fekete-tenger mentén.", "A tó környéki falvakban ma is élő a hagyományos lipován halászkultúra."],
       ro: [],
       en: []
     }
@@ -3486,7 +3486,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Sinoe-See ist ein faszinierendes Brackwassergebiet an der rumänischen Schwarzmeerküste und der südlichste Teil des Razim-Sinoe-Komplexes. Im Gegensatz zum nördlich gelegenen Razim-See weist der Sinoe-See einen höheren Salzgehalt auf, da er noch einen begrenzten Austausch mit dem Meer besitzt. Diese besondere chemische Zusammensetzung schafft ein einzigartiges Ökosystem, das eine spezialisierte Flora und Fauna beherbergt. Weltweite Bekanntheit erlangte die Region vor allem durch die antike Stadt Histria, die älteste städtische Siedlung auf rumänischem Boden, die einst als griechische Kolonie am Ufer dieses damals noch offenen Golfs gegründet wurde. Heute liegen die Ruinen malerisch am Rande des Sees und bieten eine tiefgreifende historische Dimension inmitten der wilden Natur. Der Sinoe-See ist ein Paradies für Ornithologen, da er als wichtiger Rastplatz auf der via pontica, einer der Hauptzugvogelrouten Europas, dient. Die weite, flache Landschaft, geprägt von Schilfgürteln und salzigen Wiesen, strahlt eine archaische Ruhe aus, die Besucher in ihren Bann zieht.",
-      hu: "",
+      hu: "A Sinoe-tó a Razim-Sinoe lagúna-komplexum déli tagja, amely közvetlen kapcsolatban áll a Fekete-tengerrel, így vize félsós karakterű. Ez a különleges környezet egyedi élővilágot teremt, ahol a tengeri és édesvízi fajok egyaránt megtalálhatók. A Sinoe-tó partján fekszik a híres ókori város, Histria romja, amely Románia legrégebbi dokumentált települése. A tó és a környező mocsarak a Duna-delta Bioszféra Rezervátum részét képezik, biztosítva a ritka költözőmadarak és a part menti növényzet védelmét. A Sinoe-tó vadsága, a sós levegő és a történelmi romok misztikus hangulatot árasztanak, vonzva a régészet és az érintetlen természet szerelmeseit. A lagúna sekély vize fontos ökológiai pufferzóna a tenger és a szárazföld között, kulcsszerepet játszva a part menti biodiverzitás fenntartásában.",
       ro: "",
       en: ""
     },
@@ -3501,7 +3501,7 @@ export const poiExtraRo2: POI[] = [
         "In der Antike war das Gebiet ein schiffbarer Golf, der den Zugang zu Histria ermöglichte.",
         "Die Fischfauna besteht aus einer Mischung aus Süßwasser- und Meeresarten."
       ],
-      hu: [],
+      hu: ["A Sinoe-tó vize a tengeri kapcsolat miatt sósabb, mint a Razim-tóé.", "Partján található Histria, az i.e. 7. században alapított milétoszi görög gyarmatváros.", "A tó fontos táplálkozóhely a pelikánok és flamingók (ritkábban) számára.", "Vízfelülete körülbelül 135 négyzetkilométer.", "A Sinoe-tó a madármegfigyelők egyik kedvenc helyszíne Dobrudzsában.", "A tó medre igen sekély, átlagosan mindössze 1-2 méter mély.", "Számos csatorna köti össze a szomszédos Razim-tóval.", "A terület a Ramsari egyezmény alapján nemzetközileg is védett vizes élőhely."],
       ro: [],
       en: []
     }
@@ -3526,7 +3526,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Techirghiol-See, direkt südlich von Konstanza gelegen, ist eine weltweit bekannte Naturbesonderheit und der größte Salzsee Rumäniens. Berühmt wurde das Gewässer vor allem durch seinen heilkräftigen Sapropel-Schlamm, der in Kombination mit dem hoch konzentrierten Salzwasser bei der Behandlung von rheumatischen und dermatologischen Erkrankungen wahre Wunder wirkt. Die Legende besagt, dass ein blinder und gelähmter alter Mann namens Techir durch das Bad im See geheilt wurde, was dem See seinen Namen gab. Heute ist Techirghiol ein bedeutendes Zentrum für Balneologie, das Gäste aus aller Welt anzieht. Der Salzgehalt des Sees ist so hoch, dass man – ähnlich wie im Toten Meer – mühelos an der Oberfläche treiben kann. Neben seiner medizinischen Bedeutung ist der See auch ein ökologisch wertvolles Gebiet; trotz des hohen Salzgehalts hat sich hier eine spezialisierte Mikrofauna entwickelt, die als Grundlage für den Heilprozess gilt. Die ruhige Atmosphäre am Ufer, gepaart mit der gesunden Meeresluft, macht Techirghiol zu einem Ort der Regeneration für Körper und Geist.",
-      hu: "",
+      hu: "A Techirghiol-tó Románia legismertebb sós vizű tava a Fekete-tenger partján, amely világhírét gyógyhatású iszapjának és rendkívül sós vizének köszönheti. A tó vize ötször sósabb, mint a tengeré, ami lehetővé teszi, hogy a fürdőzők könnyedén lebegjenek a felszínén. A tó fenekén található szapropel iszap gazdag ásványi anyagokban és szerves összetevőkben, amelyeket évtizedek óta sikeresen alkalmaznak mozgásszervi és bőrbetegségek kezelésére a közeli Eforie Nord és Techirghiol szanatóriumaiban. A legenda szerint a tó gyógyerejét egy vak öregember, Techir és beteg szamara fedezte fel véletlenül. A Techirghiol-tó nemcsak gyógyhely, hanem különleges ökoszisztéma is, ahol a sókedvelő növények és madárfajok találnak otthonra, a partján fekvő városka pedig a nyugodt pihenés és regenerálódás jelképe.",
       ro: "",
       en: ""
     },
@@ -3541,7 +3541,7 @@ export const poiExtraRo2: POI[] = [
         "Die Schlammablagerungen am Boden des Sees benötigen Jahrtausende für ihre Bildung.",
         "Am Ufer befindet sich das berühmte Sanatorium und das Kloster Heiliger Maria."
       ],
-      hu: [],
+      hu: ["A Techirghiol-tó Románia legnagyobb sós tava, vízfelülete közel 12 négyzetkilométer.", "Sótartalma eléri a 80-90 grammot literenként.", "A tóból kinyert gyógyiszap számos nemzetközi elismerést és aranyérmet nyert.", "A tó partján található Techirghiol kolostor híres fatemplomáról is.", "A tó vize soha nem fagy be a magas sótartalom miatt.", "Egyedülálló mikrofaunával rendelkezik, mint például az Artemia salina rákocska.", "A tó és környéke Natura 2000-es védett terület a madárvilág védelme érdekében.", "A Techirghiol név török eredetű, jelentése: 'Csíkos tó'."],
       ro: [],
       en: []
     }
@@ -3566,7 +3566,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Letea-Wald ist ein Naturwunder von archaischer Schönheit und der nördlichste subtropische Wald Europas, tief im Herzen des Donaudeltas gelegen. Dieser einzigartige Urwald wächst in den Senken zwischen hohen Sanddünen und bietet einen Anblick, der eher an eine ferne Tropeninsel als an Osteuropa erinnert. Uralte Eichen, die teilweise über 500 Jahre alt sind, werden hier von exotischen Lianen (Wilder Wein und Waldreben) umschlungen, die von den Ästen herabhängen. Weltweit berühmt ist Letea jedoch für seine Wildpferde – hunderte von ihnen leben hier völlig frei und galoppieren über die Sandflächen, was dem Ort eine unvergleichliche Wildwest-Atmosphäre verleiht. Der Wald steht unter strengem Naturschutz und darf nur auf markierten Wegen und in Begleitung von Rangern besucht werden. Die Kombination aus Wüstenlandschaft (Sanddünen), üppigem Dschungel und einer reichen Fauna mit Seeadlern und Schildkröten macht Letea zu einem der faszinierendsten und mystischsten Orte Rumäniens, der die unbändige Kraft der unberührten Natur verkörpert.",
-      hu: "",
+      hu: "A Letea-erdő a Duna-delta legészakibb részén található, és Románia legrégebbi természeti rezervátuma, egyben Európa legészakibb szubtrópusi jellegű erdeje. A homokdűnék között elhelyezkedő erdő különlegessége a hatalmas, több száz éves tölgyfákra felfutó vadszőlő és liana-szerű növényzet, amely trópusi dzsungelre emlékeztető hangulatot áraszt. Letea leglátványosabb és egyben legvitatottabb lakói a vadlovak, amelyek az egykori házi lovak elvadult leszármazottai, és szabadon kóborolnak a dűnék között. Az erdő szigorúan védett terület, ahol ritka orchideafajok, különleges rovarok és számos ragadozó madár él háborítatlanul. Letea meglátogatása egyedülálló élmény: a homokbuckák vadsága, a sűrű erdők rejtelmei és a vadlovak látványa egy olyan világba kalauzol, ahol a természet az úr, és az idő megállt.",
       ro: "",
       en: ""
     },
@@ -3581,7 +3581,7 @@ export const poiExtraRo2: POI[] = [
         "Letea ist ein Rückzugsort für den majestätischen Seeadler.",
         "Das Dorf Letea in der Nähe ist bekannt für seine traditionellen blau-weißen Holzhäuser."
       ],
-      hu: [],
+      hu: ["A Letea-erdőt már 1938-ban természetvédelmi területté nyilvánították.", "Itt találhatók Románia egyetlen természetes homokdűnéi, amelyek magassága a 10 métert is elérheti.", "Az erdőben több mint 700 éves tölgyfák is élnek.", "A becslések szerint több ezer vadló él a Duna-delta ezen részén.", "Letea az UNESCO Világörökség és a Bioszféra Rezervátum része.", "Az erdő talaja tengeri eredetű homok, ami különleges növénytársulásokat tesz lehetővé.", "A területen ritka vipera- és sakálpopuláció is megfigyelhető.", "Látogatása csak engedéllyel és szakavatott vezető kíséretében lehetséges."],
       ro: [],
       en: []
     }
@@ -3606,7 +3606,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Semenic-Gebirge im Banat ist ein faszinierendes Naturparadies im Südwesten Rumäniens und ein bedeutender Teil des Banater Gebirges. Die Region ist bekannt für ihre sanften Gipfel, ausgedehnten Buchenwälder und das gleichnamige Hochplateau, das auf über 1.400 Metern Höhe liegt. Als beliebtes Ziel für Outdoor-Enthusiasten bietet das Gebirge im Winter hervorragende Bedingungen für Skifahrer und Snowboarder, während es im Sommer Wanderer mit einem dichten Netz an markierten Wegen anzieht. Besonders sehenswert ist der Nationalpark Semenic-Cheile Carașului, der mit seinen spektakulären Schluchten und einer einzigartigen Flora und Fauna besticht. Die Region ist zudem für ihre klare Gebirgsluft und die idyllischen Stauseen wie den Trei Ape See bekannt, die ideale Bedingungen für Erholung und Wassersport bieten. Mit seiner Mischung aus wilder Natur und touristischer Infrastruktur ist das Semenic-Gebirge ein Juwel in der Region Karasch-Severin.",
-      hu: "",
+      hu: "A Semenic-hegység a Bánáti-hegyek egyik legkedveltebb turisztikai célpontja Krassó-Szörény megyében, amely télen és nyáron egyaránt várja a természet szerelmeseit. A hegység legmagasabb csúcsa, a Piatra Goznei (1444 m), lélegzetelállító kilátást nyújt a környező dombságokra és erdőkre. Semenic híres hosszú teleiről és a bőséges hótakaróról, így a régió egyik legfontosabb síközpontja. Nyáron a hegység hűvös erdei, tiszta forrásai és a közelében található gyűjtőtavak (pl. Trei Ape) kínálnak felfrissülést a túrázóknak és a vízi sportok kedvelőinek. A Semenic-Krassó-szurdok Nemzeti Park részeként a terület gazdag biodiverzitással rendelkezik, beleértve a hatalmas bükkerdőket és a különleges karsztformákat. A hegység nyugalma és a tiszta hegyi levegő ideális a kikapcsolódáshoz és az aktív rekreációhoz Erdély és a Bánság határán.",
       ro: "",
       en: ""
     },
@@ -3621,7 +3621,7 @@ export const poiExtraRo2: POI[] = [
         "In der Region finden sich zahlreiche seltene Pflanzenarten und geschützte Orchideen.",
         "Die Stauseen der Umgebung dienen sowohl der Energiegewinnung als auch der Naherholung."
       ],
-      hu: [],
+      hu: ["A Semenic-hegység Románia egyik legcsapadékosabb és leghavasabb vidéke.", "Itt található Európa egyik legnagyobb szűz bükkerdő-rezervátuma (Izvoarele Nerei).", "A hegység fontos víztoronyként szolgál a Bánság folyói (pl. Néra, Temes) számára.", "Semenic a nevét az itt őshonos havasi gyopár (Semenic) népi nevéről kapta.", "A Piatra Goznei csúcsról tiszta időben egészen a Dunáig ellátni.", "A hegységben számos jól jelzett turistaútvonal várja a gyalogosokat és a bringásokat.", "Kiemelkedő a karsztvidék barlangjainak és szurdokvölgyeinek száma a környéken.", "A Semenic-tetőn kialakított üdülőtelep az ország egyik legmagasabban fekvő települése."],
       ro: [],
       en: []
     }
@@ -3646,7 +3646,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Poiana-Ruscă-Gebirge erstreckt sich als markantes Massiv zwischen dem Banat und Siebenbürgen und ist für seine reiche geologische Vielfalt bekannt. Dieses Gebirge spielt eine zentrale Rolle in der Geschichte der rumänischen Industrie, da es bedeutende Vorkommen an Eisenerz und den berühmten Marmor von Rușchița beherbergt, der weltweit für seine Qualität geschätzt wird. Die Landschaft ist geprägt von dichten Mischwäldern, tiefen Tälern und abgerundeten Bergrücken, die ideale Bedingungen für ausgedehnte Wanderungen und Naturbeobachtungen bieten. Abseits der industriellen Zentren bewahrt das Poiana-Ruscă-Gebirge eine wilde Ursprünglichkeit, in der seltene Tierarten wie Braunbären und Luchse ihren Lebensraum finden. Die traditionellen Dörfer am Fuße des Gebirges pflegen bis heute ein reiches kulturelles Erbe und eine authentische Gastfreundschaft. Für Reisende bietet das Massiv eine einzigartige Kombination aus industriegeschichtlicher Bedeutung und unberührter Naturschönheit, die weit entfernt vom Massentourismus liegt.",
-      hu: "",
+      hu: "A Pojána-Ruszka-hegység a Déli- és Nyugati-Kárpátok találkozásánál fekszik, egy különleges átmeneti zónát alkotva Hunyad, Temes és Krassó-Szörény megyék határán. A hegységet sűrű erdők, mély völgyek és szelídebb hegyhátak jellemzik, amelyek ideálisak a bakancsos turizmushoz és a terepkerékpározáshoz. Legmagasabb pontja a Ruszka-csúcs (Padeș, 1374 m), amely panorámás kilátást nyújt a környező medencékre. A hegység gazdag ásványkincsekben, különösen márványban (Ruszkica) és vasércben, ami évszázadokon át meghatározta a környék ipari fejlődését. A Pojána-Ruszka rejtelmes erdői között számos autentikus hegyi falu és kolostor bújik meg, megőrizve a hagyományos életformát. A természetkedvelők számára a hegység vadsága és a tömegturizmustól való mentessége jelenti a legnagyobb vonzerőt, ahol a természet csendje és a kristálytiszta patakok világa fogadja az utazót.",
       ro: "",
       en: ""
     },
@@ -3661,7 +3661,7 @@ export const poiExtraRo2: POI[] = [
         "Das Gebirge bildet eine natürliche Brücke zwischen den Süd- und den Westkarpaten.",
         "Zahlreiche Höhlen und Karstformationen finden sich in den Kalksteinzonen des Gebirges."
       ],
-      hu: [],
+      hu: ["A Pojána-Ruszka-hegység híres a ruszkicai fehér márványról, amelyet világszerte ismernek.", "A hegység a Kárpátok egyik legkevésbé felfedezett, vadregényes tája.", "Gazdag vadállománnyal rendelkezik, különösen jelentős a farkas- és barnamedve-populáció.", "A Ruszka-csúcs (Padeș) az Erdélyi-érchegység és a Bánság határköve.", "A hegységben található a híres foksányi márványtemplom is.", "Számos hegyi patak ered itt, amelyek a Maros és a Temes vízgyűjtőjéhez tartoznak.", "A terület kiválóan alkalmas terepkerékpározásra és off-road túrákra.", "A Pojána-Ruszka karsztformái között számos kisebb, felfedezetlen barlang rejlik."],
       ro: [],
       en: []
     }
@@ -3686,7 +3686,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Trascău-Gebirge im Osten des Apuseni-Massivs ist eine der spektakulärsten Landschaften Siebenbürgens, geprägt von schroffen Kalksteinfelsen und malerischen Tälern. Bekannt für seine dramatischen Schluchten wie die Turda-Schlucht (Cheile Turzii) und die Schluchten von Râmeț, bietet das Gebirge eine atemberaubende Kulisse für Wanderer, Kletterer und Naturfotografen. Ein besonderes Highlight ist das Dorf Rimetea, das am Fuße des markanten Piatra Secuiului liegt und für seine einzigartige Architektur und das reiche ungarische Kulturerbe mit dem Europa-Nostra-Preis ausgezeichnet wurde. Die Region ist durchzogen von versteckten Höhlen, sprudelnden Quellen und traditionellen Almwirtschaften, die das Bild einer zeitlosen Kulturlandschaft vermitteln. Die Kombination aus extremen Höhenunterschieden, seltener Alpenflora und der herzlichen Gastfreundschaft der Bewohner macht das Trascău-Gebirge zu einem unvergesslichen Ziel.",
-      hu: "",
+      hu: "A Torockói-hegység (Munții Trascăului) az Erdélyi-szigethegység egyik leglátványosabb és legváltozatosabb karsztvidéke, amely Fehér és Kolozs megyék területén húzódik. A hegység jellegzetes mészkővonulatai, mint például a Székelykő vagy a Tordai-hasadék sziklatornyai, drámai hátteret adnak a tájnak. Torockó és Torockószentgyörgy falvai a magyar kultúra és építészet gyöngyszemei a hegyek lábánál, ahol a hagyományok ma is élnek. A hegység paradicsom a túrázók, sziklamászók és barlangászok számára, hiszen a területen olyan természeti csodák találhatók, mint a Bedellő-tető víznyelői vagy a Huda lui Papară barlang. A Trascău-hegység vadsága és az emberi települések harmóniája egyedülálló atmoszférát teremt, ahol a fehér sziklák, a zöld legelők és a középkori várak romjai mesélnek a múlt titkairól.",
       ro: "",
       en: ""
     },
@@ -3701,7 +3701,7 @@ export const poiExtraRo2: POI[] = [
         "Die Region ist ein Paradies für Paraglider aufgrund der exzellenten Thermik am Piatra Secuiului.",
         "Traditionelle Kalkbrennöfen sind in einigen Teilen des Gebirges noch heute in Betrieb."
       ],
-      hu: [],
+      hu: ["A Torockói-hegység legmagasabb pontja a Dâmbău-csúcs (1390 m).", "Itt található a Székelykő, ahol a nap állítólag kétszer kel fel egy nap.", "A hegység Románia egyik leggazdagabb karsztvidéke, több száz barlanggal.", "A Tordai-hasadék egy több mint 2 kilométer hosszú, monumentális mészkőszoros.", "A Torockói-medence néprajzi szempontból is kiemelkedő, híres népviseletéről és vasművességéről.", "Számos középkori várrom (pl. Torockószentgyörgy vára) látható a sziklákon.", "A hegység flórája számos ritka, endemikus mészkőkedvelő növényt tartalmaz.", "A terület a siklóernyősök egyik legnépszerűbb starthelye Erdélyben."],
       ro: [],
       en: []
     }
@@ -3726,7 +3726,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Kleine Somesch (Someșul Mic) ist die Lebensader von Klausenburg (Cluj-Napoca) und spielt eine zentrale Rolle für die Identität und Geschichte der Stadt. Er entsteht durch den Zusammenfluss des Warmen und Kalten Somesch (Someșul Cald und Someșul Rece) bei Gilău und schlängelt sich durch das fruchtbare Klausenburger Becken. Entlang seiner Ufer in der Stadt finden sich zahlreiche Parks, Promenaden und moderne Freizeitflächen, die den Fluss zu einem beliebten Treffpunkt für Einwohner und Besucher machen. Strategisch war der Kleine Somesch entscheidend für die Ansiedlung der ersten Bewohner in der Antike und diente über Jahrhunderte als Energiequelle für Mühlen und Industriebetriebe. Heute wird der Fluss als grüner Korridor geschützt und revitalisiert, um das Stadtklima zu verbessern und die Artenvielfalt zu fördern. Mit seinen sanften Kurven und den malerischen Brücken prägt der Kleine Somesch das Stadtbild maßgeblich.",
-      hu: "",
+      hu: "A Kis-Szamos (Someșul Mic) Erdély egyik legfontosabb folyója, amely Kolozsvár szívén folyik keresztül, meghatározva a város arculatát és hangulatát. A folyó a Meleg-Szamos és a Hideg-Szamos egyesüléséből jön létre Gyalu (Gilău) közelében, és északkelet felé tartva végül a Nagy-Szamossal egyesülve alkotja a Szamos folyót. Kolozsváron a folyópart az elmúlt években jelentős megújuláson ment keresztül, modern sétaterekkel és zöldövezetekkel gazdagodva, amelyek a helyiek kedvenc pihenőhelyeivé váltak. A Kis-Szamos völgye fontos ökológiai folyosó és vízi erőforrás, amely évszázadok óta élteti a környező településeket és ipart. A folyó mentén sétálva felfedezhetjük Kolozsvár dinamikus fejlődését és a természet közelségét az erdélyi metropolisz szívében.",
       ro: "",
       en: ""
     },
@@ -3741,7 +3741,7 @@ export const poiExtraRo2: POI[] = [
         "Der Fluss speist mehrere künstliche Seen in der Umgebung, die der Erholung dienen.",
         "Nach Verlassen der Stadt vereinigt er sich bei Dej mit dem Großen Somesch zum eigentlichen Somesch."
       ],
-      hu: [],
+      hu: ["A Kis-Szamos hossza körülbelül 178 kilométer az egyesüléstől a torkolatig.", "A folyó keresztülhalad Kolozsvár történelmi központján.", "Vízhozamát több nagy víztározó tó (pl. Tárnica, Béles) szabályozza a forrásvidéken.", "A folyóparti 'Szamos-part' projekt nemzetközi építészeti díjakat is nyert.", "Dezs (Dej) közelében egyesül a Nagy-Szamossal.", "A Kis-Szamos vize fontos szerepet játszik a régió ivóvízellátásában.", "A folyó mentén számos középkori vár és kastély (pl. Bonchida) található.", "Völgye az egyik legsűrűbben lakott terület Erdélyben."],
       ro: [],
       en: []
     }
@@ -3766,7 +3766,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Große Somesch (Someșul Mare) ist einer der bedeutendsten Flüsse Nordrumäniens und entspringt in den majestätischen Höhen des Rodna-Gebirges. Auf seinem Weg durch die historische Region Năsăud und das nach ihm benannte Tal prägt er eine Landschaft von herber Schönheit und großer ökologischer Bedeutung. Als typischer Gebirgsfluss führt er im Oberlauf kristallklares, sauerstoffreiches Wasser, das ideale Lebensbedingungen für Forellen und andere empfindliche Fischarten bietet. Das Tal des Großen Somesch ist bekannt für seine reiche Tradition, die authentische Folklore und die gut erhaltenen Bräuche der Bewohner. Historisch gesehen war der Fluss ein wichtiger Transportweg für Holz und diente als Lebensgrundlage für zahlreiche Siedlungen am Fuße der Karpaten. Heute ist der Große Somesch nicht nur für Angler und Naturliebhaber attraktiv, sondern spielt auch eine wichtige Rolle für die regionale Wasserversorgung und die Landwirtschaft, bevor er sich bei Dej mit seinem Pendant zum Somesch vereint.",
-      hu: "",
+      hu: "A Nagy-Szamos (Someșul Mare) a Keleti-Kárpátokból, a Radnai-havasok lábától indul útjára, és vadregényes völgyeken keresztül szeli át Beszterce-Naszód megyét. A folyó híres tiszta vizéről és gazdag halállományáról, különösen a felső szakaszán, ahol sebes hegyi patakként kanyarog a sziklák között. A Nagy-Szamos völgye a román irodalom és kultúra egyik bölcsője, olyan híres írók szülőföldje, mint Liviu Rebreanu vagy George Coșbuc. A folyó mentén sorakozó falvak megőrizték autentikus néprajzi értékeiket és hagyományaikat. Dezs városánál egyesül a Kis-Szamossal, hogy együtt folytassák útjukat a Tisza felé. A Nagy-Szamos nemcsak egy vízfolyás, hanem a kárpáti táj erejének és nyugalmának szimbóluma, amely ideális helyszín a természetjárók és a horgászok számára.",
       ro: "",
       en: ""
     },
@@ -3781,7 +3781,7 @@ export const poiExtraRo2: POI[] = [
         "Zahlreiche Mineralwasserquellen entspringen in der geologischen Bruchzone entlang des Flusstals.",
         "Der Someșul Mare trägt maßgeblich zur Wasserführung des Hauptflusses Somesch bei, der schließlich in die Theiß mündet."
       ],
-      hu: [],
+      hu: ["A Nagy-Szamos hossza körülbelül 130 kilométer.", "Forrása a Radnai-havasokban, több mint 1000 méter magasan található.", "Völgye híres az 'Inasa-völgye' néprajzi tájegységről.", "A folyó felső szakasza népszerű a vadvízi horgászat kedvelői körében.", "A Nagy-Szamos vize kristálytiszta, köszönhetően a magashegyi eredetnek.", "Számos kisebb vízerőmű hasznosítja a folyó energiáját Beszterce megyében.", "A folyó mente fontos vándorlási útvonal a kárpáti vadon élő állatok számára.", "Történelmileg fontos határvonal és védelmi pont volt a régióban."],
       ro: [],
       en: []
     }
@@ -3806,7 +3806,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Meseș-Gebirge im Nordwesten Rumäniens ist eine sanfte, aber geschichtlich äußerst bedeutsame Gebirgskette, die eine natürliche Grenze zwischen dem Siebenbürgischen Becken und der Kreisch-Region bildet. Trotz seiner moderaten Höhenlagen besticht das Gebirge durch dichte Laubwälder, idyllische Lichtungen und eine Vielzahl von Wanderwegen, die besonders von der nahegelegenen Stadt Zalău aus leicht erreichbar sind. In der Antike war das Meseș-Gebirge von strategischer Bedeutung, da hier ein Teil des römischen Limes verlief, der das römische Dazien vor den Angriffen der 'freien Daker' schützte. Reste von Wachtürmen und Befestigungsanlagen zeugen noch heute von dieser bewegten Vergangenheit. Die Region bietet eine friedliche Atmosphäre abseits der großen Touristenströme und ist ideal für Tagesausflüge, bei denen man die Kombination aus unberührter Natur und archäologischen Entdeckungen genießen kann. Von den Kammwegen aus bieten sich weite Ausblicke über das Somesch-Plateau und das umliegende Hügelland.",
-      hu: "",
+      hu: "A Meszes-hegység (Munții Meseș) az Erdélyi-szigethegység északnyugati kapuja, amely Szilágy megye területén húzódik, elválasztva az Erdélyi-medencét a Partiumtól. A hegység bár nem tartozik a legmagasabbak közé, stratégiai elhelyezkedése miatt a történelem során mindig is kiemelt jelentőséggel bírt. Itt haladt keresztül a római Limes, és Zilah városa a hegység lábánál épült fel. A Meszes sűrű bükk- és tölgyerdői, valamint a hűvös völgyek kiváló túrázási lehetőségeket kínálnak a természet kedvelőinek. Legmagasabb pontja a Meszes-csúcs (Vârful Măgura Priei, 996 m), ahonnan tiszta időben messzire ellátni a környező dombságokra. A hegység gazdag flórával és faunával rendelkezik, és számos barlangot, sziklaformációt rejt, amelyek felfedezésre várnak a látogatók számára.",
       ro: "",
       en: ""
     },
@@ -3821,7 +3821,7 @@ export const poiExtraRo2: POI[] = [
         "Die Passstraße über das Meseș-Gebirge ist eine wichtige Verkehrsverbindung zwischen Cluj und Oradea.",
         "Zahlreiche Quellen im Gebirge speisen die umliegenden Bäche der Region Sălaj."
       ],
-      hu: [],
+      hu: ["A Meszes-hegység legmagasabb pontja a Măgura Priei, 996 méter.", "A hegységben találhatók a Porolissum római erőd maradványai és a védművek nyomai.", "A Meszes-hágó (Pasul Meseș) fontos közúti összeköttetés Zilah és Kolozsvár között.", "A hegység híres a gazdag vadállományáról, különösen a vaddisznókról és őzekről.", "Számos jól jelzett turistaútvonal indul Zilah városából a hegyekbe.", "A Meszes növényvilága több ritka orchideafajt is tartalmaz.", "A hegység kőzetei főleg kristályos palából és mészkőből állnak.", "A terület kedvelt helyszíne a hegyi kerékpározásnak és a terepfutásnak."],
       ro: [],
       en: []
     }
@@ -3846,7 +3846,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Schnelle Kreisch (Crișul Repede) ist einer der dynamischsten und malerischsten Flüsse Westrumäniens und prägt maßgeblich das Gesicht der Stadt Oradea (Großwardein). Sie entspringt in den Tiefen des Apuseni-Gebirges und stürzt sich durch spektakuläre Kalksteinschluchten, bevor sie das flachere Hügelland erreicht. Besonders bekannt ist der Durchbruch des Flusses bei Șuncuiuș und Vadu Crișului, der mit seinen steilen Felswänden und zahlreichen Höhlen ein Paradies für Outdoor-Sportler wie Rafting-Begeisterte und Kletterer ist. In Oradea fließt die Schnelle Kreisch direkt durch das historische Zentrum und bildet mit ihren gepflegten Promenaden und dem Blick auf die prächtigen Jugendstilbauten das elegante Herzstück der Stadt. Der Fluss ist nicht nur ein ökologisch wertvoller Lebensraum, sondern auch ein Symbol für die Vitalität und den Charme der Region Bihor. Mit seinem kristallklaren Wasser im Oberlauf und der ruhigen Eleganz in der Stadt verbindet er wilde Natur mit urbaner Ästhetik.",
-      hu: "",
+      hu: "A Sebes-Körös (Crișul Repede) Erdély és a Partium egyik legdinamikusabb és leglátványosabb folyója, amely az Erdélyi-szigethegységben ered és Nagyvárad városán keresztül éri el a magyar határt. Nevét sebes folyásáról és a hegyekből lezúduló víztömegeiről kapta, amely látványos szurdokokat vájt a mészkőbe, mint például a híres Rév-köröstopai szorost. A Sebes-Körös völgye a vadvízi evezés (rafting) és a sziklamászás paradicsoma, de híres barlangjairól (pl. Szelek barlangja) is. Nagyváradon a folyóparti sétányok a városi élet központjai, ahol a szecessziós épületek tükröződnek a víz felszínén. A folyó fontos szerepet játszik az energiatermelésben és az öntözésben is, miközben kristálytiszta hegyi vize és festői környezete évről évre több turistát vonz a régióba.",
       ro: "",
       en: ""
     },
@@ -3861,7 +3861,7 @@ export const poiExtraRo2: POI[] = [
         "In der Nähe des Flusses finden sich zahlreiche Thermalquellen, für die die Region Bihor berühmt ist.",
         "Die Crișul Repede vereinigt sich in Ungarn mit der Weißen und Schwarzen Kreisch zur Kreisch (Körös)."
       ],
-      hu: [],
+      hu: ["A Sebes-Körös teljes hossza 209 kilométer.", "Völgye az egyik legfontosabb közlekedési és vasúti folyosó Erdély és Magyarország között.", "A folyón több nagy víztározó és vízerőmű épült (pl. Élesd, Lugas).", "A Rév-i szurdokvölgy szigorúan védett természeti rezervátum.", "A folyóban számos nemes halfaj, köztük pisztráng és paduc él.", "A Sebes-Körös menti barlangok Románia leghosszabb barlangrendszereit rejtik.", "Nagyváradnál a folyó kiszélesedik és lassabbá válik az Alföld felé tartva.", "A folyó vize egyesül a Fekete- és Fehér-Körössel Magyarország területén."],
       ro: [],
       en: []
     }
@@ -3886,7 +3886,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Zărand-Gebirge im Westen Rumäniens ist ein Teil des Apuseni-Massivs und besticht durch seine sanften Formen und die fast lückenlose Bewaldung. Es erstreckt sich nördlich des Flusses Mureș im Kreis Arad und bietet eine ruhige, oft unterschätzte Naturlandschaft. Die Landschaft ist geprägt von dichten Eichen- und Buchenwäldern, die zahlreichen Tierarten Schutz bieten und im Herbst in spektakulären Farben leuchten. Historisch gesehen war das Zărand-Gebirge eine wichtige Bergbauregion, in der Gold und andere Mineralien abgebaut wurden, was heute noch in verlassenen Stollen und kleinen Bergbausiedlungen sichtbar ist. Für Wanderer bietet das Gebirge ein weitläufiges Netz an Pfaden, die oft zu spektakulären Aussichtspunkten über das Mureș-Tal oder zu verborgenen Klöstern wie Maria Radna am Fuße des Massivs führen. Die Abgeschiedenheit und die reine Waldluft machen das Zărand-Gebirge zu einem idealen Rückzugsort für Erholungssuchende, die die Stille der Natur fernab der großen Touristenrouten schätzen.",
-      hu: "",
+      hu: "A Zarándi-hegység (Munții Zarandului) a Nyugati-Kárpátok déli részén, Arad megyében található, és egy különleges, alacsonyabb, de annál erdősebb hegyvidéket alkot. A hegység híres sűrű erdőiről, amelyekben bükkösök és tölgyesek váltják egymást, menedéket nyújtva a gazdag vadállománynak. Legmagasabb pontja a Highiș-csúcs (943 m), amely népszerű célpont a helyi túrázók körében. A Zarándi-hegység lábánál található a híres Ménesi borvidék, ahol a hegyoldalak napsütötte lejtőin kiváló minőségű szőlő terem. A terület gazdag történelmi emlékekben is, mint például Világos vára vagy a máriaradnai kegyhely. A hegység vadsága, a csendes völgyek és a történelmi utak találkozása különleges bájt kölcsönöz a vidéknek, amely ideális a bakancsos turizmushoz és a lelki feltöltődéshez.",
       ro: "",
       en: ""
     },
@@ -3901,7 +3901,7 @@ export const poiExtraRo2: POI[] = [
         "Die dichten Wälder bieten Lebensraum für Rehe, Wildschweine und eine reiche Vogelwelt.",
         "Das Gebirge spielt eine wichtige Rolle als lokaler Erholungsraum für die Bewohner der Stadt Arad."
       ],
-      hu: [],
+      hu: ["A Zarándi-hegység főleg vulkanikus és kristályos kőzetekből épül fel.", "Itt található Románia egyik legrégebbi és legfontosabb vörösbortermelő vidéke (Ménes).", "A hegység területén fekszik a Világosi várrom, az 1849-es fegyverletétel helyszínének közelében.", "A Highiș-csúcsról gyönyörű kilátás nyílik az Alföldre és a Maros völgyére.", "Számos jól jelzett turistaútvonal köti össze a hegység falvait.", "A Zarándi-hegység erdei híresek a szarvas- és vaddisznó-állományukról.", "A területen több kolostor és erdei remetelak is található.", "A hegység klímája enyhébb, köszönhetően a nyugati fekvésnek és az alacsonyabb tengerszint feletti magasságnak."],
       ro: [],
       en: []
     }
@@ -3926,7 +3926,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Bega ist der zentrale Fluss von Temeswar (Timișoara) und ein herausragendes Beispiel für die gelungene Transformation eines natürlichen Wasserlaufs in ein urbanes Schmuckstück. Als erster schiffbarer Kanal Rumäniens hat die Bega eine enorme historische Bedeutung für den Handel und die Entwicklung des Banats. In der Stadt Temeswar wurde der Fluss kanalisiert und seine Ufer in prächtige Parks und Grünanlagen verwandelt, die heute das kulturelle und soziale Leben der Stadt prägen. Mit den charakteristischen Wassertaxis, den zahlreichen Brücken und den kilometerlangen Fahrradwegen am Ufer bietet die Bega eine Lebensqualität, die Temeswar oft den Beinamen 'Klein-Wien' eingebracht hat. Der Fluss verbindet das historische Stadtzentrum mit den modernen Wohnvierteln und mündet schließlich in Serbien in die Theiß. Die Revitalisierung des Bega-Kanals ist ein Vorzeigeprojekt für nachhaltige Stadtentwicklung und macht den Fluss zu einem unverwechselbaren Wahrzeichen der Banater Metropole.",
-      hu: "",
+      hu: "A Béga (Bega) folyó Temesvár életének és történelmének legfontosabb ütőere, amely a határmenti régió egyik legérdekesebb vízfolyása. A Béga volt az első csatornázott folyó Romániában, aminek köszönhetően Temesvár már a 18. században fontos kikötővárossá válhatott, közvetlen vízi összeköttetéssel Európa többi részével. A városi szakaszon a Béga-csatorna partja egy hatalmas zöld parkrendszerré alakult, ahol sétaterek, bicikliutak és teraszok várják a pihenni vágyókat. A folyón ma is közlekednek a 'vaporetto' jellegű vízi buszok, egyedülálló közlekedési módot kínálva. A Béga nemcsak gazdasági szempontból volt döntő, hanem a város modern identitását is meghatározza, mint a kultúra és a kikapcsolódás színtere. A folyó mente a Bánság egyik legélhetőbb és legvonzóbb területe.",
       ro: "",
       en: ""
     },
@@ -3941,7 +3941,7 @@ export const poiExtraRo2: POI[] = [
         "Die Bega dient auch der Regulierung des Grundwasserspiegels in der banatischen Tiefebene.",
         "Das Wasserkraftwerk an der Bega in Temeswar ist eines der ältesten in Rumänien."
       ],
-      hu: [],
+      hu: ["A Béga folyó hossza 244 kilométer, amelyből 168 km van Románia területén.", "A Béga-csatornát 1728-ban kezdték el építeni gróf Mercy irányításával.", "Temesvár volt az első város a mai Románia területén, ahol folyami tömegközlekedés indult.", "A folyó vize a forrásvidéken (Pojána-Ruszka) kristálytiszta, az Alföldön pedig szabályozott.", "A Béga partján található Temesvár legtöbb fontos közparkja.", "A folyó a Bánsági-alföld egyik legfontosabb öntözővizét biztosítja.", "A Béga vize Szerbiában egyesül a Tiszával.", "A Béga-parti kerékpárút egészen a szerb határig vezet, több mint 37 kilométer hosszan."],
       ro: [],
       en: []
     }
@@ -3966,7 +3966,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Mehedinți-Gebirge im Südwesten Rumäniens ist eine spektakuläre Kalksteinlandschaft, die für ihre wilden Karstformationen, tiefen Schluchten und mystischen Höhlen bekannt ist. Als Teil der Südkarpaten bietet es eine der dramatischsten Naturkulissen des Landes, besonders in der Nähe des traditionsreichen Kurortes Herkulesbad (Băile Herculane). Die schroffen, weißen Felswände stehen im starken Kontrast zu den dichten Wälder und den smaragdgrünen Bächen, die sich durch das Gebirge schlängeln. Wanderer finden hier anspruchsvolle Pfade, die zu atemberaubenden Aussichtspunkten über das Cerna-Tal führen. Einzigartig ist das submediterrane Klima der Region, das eine außergewöhnliche Flora mit seltenen Pflanzen wie der Banater Schwarzkiefer ermöglicht. Die Kombination aus Thermalquellen, unberührter Wildnis und der reichen Mythologie, die eng mit dem antiken Helden Herkules verknüpft ist, verleiht dem Mehedinți-Gebirge eine ganz besondere, fast magische Atmosphäre, die Abenteurer und Erholungssuchende gleichermaßen in ihren Bann zieht.",
-      hu: "",
+      hu: "A Mehedinți-hegység a Déli-Kárpátok legdélebbi, látványos mészkővonulata, amely meredek falaival és mély szurdokaival uralja a Cserna-völgy és a Duna közötti tájat. A hegység a karsztjelenségek paradicsoma: tágas barlangok, hatalmas víznyelők és szédítő mészkőszirtek jellemzik. Legmagasabb pontja a Stan-csúcs (Vârful lui Stan, 1466 m), ahonnan lélegzetelállító panoráma nyílik a Cserna-havasokra és a Dunára. A Mehedinți-hegység a Domogled-Cserna-völgy Nemzeti Park része, és gazdag szubmediterrán flórával rendelkezik, beleértve a híres bánáti feketefenyőt. A hegység vadsága és nehezen megközelíthető sziklavilága vonzza a tapasztalt túrázókat és hegymászókat, akik az érintetlen természetet és a drámai tájképeket keresik a Kárpátok ezen eldugott sarkában.",
       ro: "",
       en: ""
     },
@@ -3981,7 +3981,7 @@ export const poiExtraRo2: POI[] = [
         "Herkulesbad am Fuße des Gebirges ist seit der Römerzeit für seine heilenden Thermalquellen bekannt.",
         "Das Gebirge bietet exzellente Bedingungen für Felsklettern an Kalksteinwänden."
       ],
-      hu: [],
+      hu: ["A Mehedinți-hegység Románia egyik legkarakteresebb mészkőhegysége.", "Itt található a Domogled-hegy, amely híres különleges növényvilágáról és lepkefaunájáról.", "A hegység lábánál fekszik Herkulesfürdő, Európa egyik legrégebbi gyógyhelye.", "A Stan-csúcsra vezető túra az egyik leglátványosabb gerinctúra a Déli-Kárpátokban.", "Számos barlangot ( pl. Pestera cu Apa din Cheile Lazului) rejt a hegység mélye.", "A szubmediterrán hatás miatt a területen számos ritka hüllőfaj, például a homoki vipera is él.", "A hegység karsztforrásai táplálják a környék híres termálvizeit.", "A terület az UNESCO Világörökség részét képező bükkerdőkkel is büszkélkedhet."],
       ro: [],
       en: []
     }
@@ -4006,7 +4006,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Alt (Olt) ist einer der mächtigsten und geschichtsträchtigsten Flüsse Rumäniens, der das Land wie ein blaues Band von Norden nach Süden durchzieht. Er entspringt im Hășmaș-Gebirge in den Ostkarpaten und hat sich auf seinem Weg durch die Südkarpaten einen der spektakulärsten Durchbrüche Europas geschaffen – das Olt-Tal (Valea Oltului). Diese Schlucht ist seit der Antike eine lebenswichtige Verkehrsverbindung zwischen Siebenbürgen und der Walachei und beherbergt heute zahlreiche Klöster wie Cozia, die direkt am Ufer thronen. Der Olt ist zudem der am stärksten für die Wasserkraft genutzte Fluss des Landes, mit einer Kette von Stauseen, die die Landschaft prägen und als wichtige Energiequelle dienen. Trotz der intensiven Nutzung bewahrt der Fluss in vielen Abschnitten seine natürliche Schönheit und bietet wichtige Rückzugsräume für Wasservögel und seltene Fischarten. Mit seiner Mischung aus wilder Gebirgskraft und ruhiger Präsenz in der Ebene ist der Olt ein unverzichtbares Element der rumänischen Geografie und Kulturgeschichte.",
-      hu: "",
+      hu: "Az Olt Románia egyik legfontosabb és leghosszabb folyója, amely kizárólag az ország területén folyik, a Gyergyói-havasoktól egészen a Dunáig. Az Olt völgye az ország egyik legfontosabb történelmi és közlekedési tengelye, amely összeköti Erdélyt Havasalfölddel a drámai Vöröstoronyi-szoroson keresztül. A folyó mentén számos vízerőmű és víztározó épült, amelyek Románia vízenergia-termelésének jelentős részét adják. Az Olt partján olyan nagyvárosok fekszenek, mint Sepsiszentgyörgy, Fogaras vagy Râmnicu Vâlcea, mindegyikük gazdag épített örökséggel és ipari hagyományokkal. A folyó mente ökológiai szempontból is kiemelkedő, árterei fontos védett területek a költözőmadarak és a vízi élővilág számára. Az Olt nemcsak egy vízfolyás, hanem a nemzeti egység és a természet erejének monumentális szimbóluma.",
       ro: "",
       en: ""
     },
@@ -4021,7 +4021,7 @@ export const poiExtraRo2: POI[] = [
         "Die Stauseen des Olt sind wichtige Rastplätze für Zugvögel auf ihrem Weg nach Süden.",
         "Der Olt mündet schließlich im Süden bei Islaz in die Donau."
       ],
-      hu: [],
+      hu: ["Az Olt folyó teljes hossza körülbelül 615 kilométer.", "Ez az egyetlen folyó, amely áttöri a Déli-Kárpátok hegyláncát.", "Az Olton több mint 30 víztározó tó és erőmű működik, alkotva az 'Olt-lépcsőt'.", "A Vöröstoronyi-szoros évszázadokig fontos vámhely és katonai védelmi vonal volt.", "A folyó völgye híres a középkori kolostorairól (pl. Cozia).", "Az Olt menti síkság Havasalföld egyik leggazdagabb mezőgazdasági vidéke.", "A folyó torkolata Turnu Măgurele közelében található.", "Számos népdal és ballada emlékezik meg az Olt vadságáról és szépségéről."],
       ro: [],
       en: []
     }
@@ -4046,7 +4046,7 @@ export const poiExtraRo2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Vedea ist ein charakteristischer Fluss der Walachischen Tiefebene im Süden Rumäniens und ein lebenswichtiger Faktor für die dortige Landwirtschaft. Sie entspringt in den sanften Hügeln des Gethischen Vorlandes und schlängelt sich durch die weiten Ebenen der Kreise Argeș, Teleorman und Olt, bevor sie in die Donau mündet. Auf ihrem Weg passiert sie die Stadt Alexandria, wo sie das lokale Landschaftsbild prägt. Die Vedea ist bekannt für ihre ruhige Fließgeschwindigkeit und die fruchtbaren Schwemmlandböden in ihrem Tal, die seit Jahrhunderten für den Anbau von Getreide und Gemüse genutzt werden. Trotz ihrer eher bescheidenen Größe spielt sie eine entscheidende Rolle im hydrologischen System Südrumäniens und dient als wichtige Bewässerungsquelle während der trockenen Sommermonate. Die Ufer der Vedea bieten ruhige Naturräume mit typischer Auenvegetation, die besonders für Angler und Naturliebhaber aus der Region einen geschätzten Erholungsort darstellen.",
-      hu: "",
+      hu: "A Vedea folyó Dél-Románia egyik jelentős vízfolyása, amely az Előkárpátok dombvidékén ered és a román Alföldön keresztül tart a Duna felé. A folyó völgye hagyományosan fontos mezőgazdasági terület, amely évezredek óta biztosítja az itt élő közösségek megélhetését. A Vedea mentén fekszik Alexandria városa, a folyó pedig meghatározza Teleorman megye tájképét és gazdasági tevékenységét. Bár vízhozama az év során jelentősen változhat, ártere gazdag alluviális talajokkal rendelkezik, amelyek ideálisak a gabonatermesztéshez. A folyó mente csendes, rurális környezetet kínál, ahol a természetes növényzet és a hagyományos falusi életmód harmonikusan él egymás mellett. A Vedea völgye fontos régészeti lelőhelyeket is rejt, tanúskodva a környék ősi benépesüléséről és a folyó menti korai civilizációkról.",
       ro: "",
       en: ""
     },
@@ -4061,7 +4061,7 @@ export const poiExtraRo2: POI[] = [
         "Die Fischfauna umfasst typische Arten der Tieflandflüsse wie Karpfen und Brassen.",
         "Die Vedea ist ein wichtiger Bestandteil der regionalen Bewässerungssysteme für die Landwirtschaft."
       ],
-      hu: [],
+      hu: ["A Vedea folyó hossza körülbelül 224 kilométer.", "Forrása az Argeș-dombságban, közel 600 méteres magasságban található.", "A folyó vize fontos szerepet játszik a Teleorman-síkság öntözésében.", "Völgye gazdag dák és római kori régészeti leletekben.", "A Vedea mente kedvelt helyszíne a hagyományos horgászatnak.", "A folyó vize végül Bujoru közelében ömlik a Dunába.", "Számos kisebb mellékfolyója hálózza be a dél-romániai rónaságot.", "A folyó neve egyes feltételezések szerint dák eredetű, jelentése 'víz'."],
       ro: [],
       en: []
     }
