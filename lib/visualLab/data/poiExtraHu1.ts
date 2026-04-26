@@ -16,9 +16,24 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Óbuda, heute der III. Bezirk von Budapest, war einst eine eigenständige Stadt mit einer Geschichte, die bis in die Römerzeit zurückreicht, als sie als Aquincum bekannt war. Besucher können heute noch die Überreste der römischen Zivilisation in Form von Amphitheatern und Ruinenfeldern besichtigen. Das Zentrum von Óbuda bewahrt mit seinem barocken Hauptplatz und den gemütlichen Restaurants den Charme einer Kleinstadt inmitten der Metropole.",
-      hu: "Óbuda, ma Budapest III. kerülete, egykor önálló város volt, melynek történelme a római korig nyúlik vissza, amikor Aquincum néven volt ismert. A látogatók ma is megtekinthetik a római civilizáció maradványait amfiteátrumok és romkertek formájában. Óbuda központja a barokk Fő térrel és hangulatos éttermeivel megőrizte kisvárosi báját a világváros közepén.",
+      hu: "Óbuda Budapest egyik legizgalmasabb és legtöbb réteggel rendelkező városrésze, ahol a történelem minden utcasarkon megelevenedik. A terület múltja egészen a római korig nyúlik vissza, amikor Aquincum néven a tartomány központja volt; ma is megcsodálhatjuk az egykori polgárváros és katonai amfiteátrumok romjait. A középkorban királyi és királynéi székhely volt, majd a barokk korban nyerte el ma is látható, hangulatos arculatát a Fő tér környékén. Az ide látogatókat macskaköves utcák, muskátlis ablakú vendéglők és olyan kulturális kincsek várják, mint a Kassák Múzeum vagy a Vasarely Múzeum. Óbuda különleges báját az adja, hogy a panelházak gyűrűjében is sikerült megőriznie egyfajta békebeli, kisvárosi atmoszférát, ahol a dunai közelség és a Hajógyári-sziget zöldje kínál kikapcsolódást.",
       ro: "Óbuda, astăzi sectorul III al Budapestei, a fost odată un oraș independent cu o istorie care datează din epoca romană, când era cunoscut sub numele de Aquincum. Vizitatorii pot vedea și astăzi rămășițele civilizației romane sub formă de amfiteatre și câmpuri de ruine. Centrul orașului Óbuda, cu piața sa principală barocă și restaurantele primitoare, păstrează farmecul unui orășel în mijlocul metropolei.",
       en: "Óbuda, today the 3rd district of Budapest, was once an independent city with a history dating back to Roman times when it was known as Aquincum. Visitors can still see the remains of Roman civilization today in the form of amphitheaters and ruin fields. The center of Óbuda, with its Baroque main square and cozy restaurants, has preserved its small-town charm in the middle of the metropolis."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az ókori római Pannonia provincia székhelye, Aquincum itt terült el.",
+        "Két római kori amfiteátrummal is büszkélkedhet: a polgárvárosival és a katonaival.",
+        "A barokk stílusú Fő tér Budapest egyik leghangulatosabb történelmi tere.",
+        "Itt található a világhírű képzőművész, Victor Vasarely emlékmúzeuma.",
+        "A Hajógyári-sziget minden évben a Sziget Fesztivál nemzetközi helyszíne.",
+        "Óbuda egykor híres volt hajógyártásáról és textiliparáról is.",
+        "A környék vendéglői a mai napig őrzik a hagyományos óbudai gasztronómiát.",
+        "Krúdy Gyula, a híres magyar író életének utolsó éveit ebben a kerületben töltötte."
+      ],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Heimat der antiken römischen Stadt Aquincum.", "Besitzt zwei römische Amphitheater.", "Der Hauptplatz ist für seine barocke Architektur bekannt.", "Austragungsort des Sziget-Festivals auf der Óbuda-Insel."],
@@ -41,9 +56,24 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Újpest wurde im 19. Jahrhundert als Industriezentrum gegründet und im Jahr 1950 an Budapest angeschlossen. Der Stadtteil beherbergt den Újpest FC, einen der ältesten und erfolgreichsten Fußballvereine Ungarns. Das Rathaus von Újpest ist ein beeindruckendes Beispiel für eklektische Architektur und steht im Zentrum des Bezirks.",
-      hu: "Újpestet a 19. században alapították ipari központként, és 1950-ben csatolták Budapesthez. A kerület ad otthont az Újpest FC-nek, Magyarország egyik legrégebbi és legsikeresebb futballcsapatának. Az újpesti városháza az eklektikus építészet lenyűgöző példája, és a kerület központjában áll.",
+      hu: "Újpest Budapest egyik legkarakteresebb kerülete, amely a 19. század közepén indult el a várossá válás útján. Eredetileg ipari központként jött létre, ahol a bőrgyártás, a faipar és a vegyipar (például az ikonikus Tungsram gyár) meghatározó szerepet játszott a fejlődésben. A kerület szíve az eklektikus stílusú városháza, amely az ország egyik legszebb ilyen jellegű épülete. Újpest neve elválaszthatatlanul összefonódott a lila-fehér színekkel és a nagy múltú Újpest FC futballcsapatával, amelynek Szusza Ferenc Stadionja a sportbarátok zarándokhelye. A Duna-parti szakasz és a Népsziget közelsége kiváló lehetőséget nyújt a szabadidős tevékenységekre és a vízi sportokra. Bár ma már modern lakótelepek és zöldövezetek váltják egymást, a kerület büszkén őrzi munkásmúltjának emlékeit és erős lokálpatrióta közösségét.",
       ro: "Újpest a fost fondat în secolul al XIX-lea ca centru industrial și a fost anexat Budapestei în 1950. Sectorul găzduiește Újpest FC, unul dintre cele mai vechi și mai de succes cluburi de fotbal din Ungaria. Primăria din Újpest este un exemplu impresionant de arhitectură eclectică și se află în centrul districtului.",
       en: "Újpest was founded in the 19th century as an industrial center and was annexed to Budapest in 1950. The district is home to Újpest FC, one of Hungary's oldest and most successful football clubs. The Újpest City Hall is a stunning example of eclectic architecture and stands at the heart of the district."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "1840-ben alapították, és 1907-ben kapott városi rangot.",
+        "Az ország egyik legrégebbi sportegyesülete, az ÚTE (Újpesti Torna Egylet) otthona.",
+        "Itt működött a világhírű Tungsram gyár, amely forradalmasította az izzógyártást.",
+        "Az Újpesti Városháza az eklektikus és a szecessziós építészet remekműve.",
+        "A kerület 1950-ben vált Budapest részévé Nagy-Budapest létrehozásakor.",
+        "A Népsziget népszerű kirándulóhely, amely részben a kerülethez tartozik.",
+        "Újpest híres volt a bőr- és asztalosiparáról, melynek emlékeit múzeumok őrzik.",
+        "A kerületben született és élt számos olimpiai bajnok és neves művész."
+      ],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gegründet im Jahr 1840.", "Bekannt für den Fußballverein Újpest FC.", "Besitzt ein prächtiges eklektisches Rathaus.", "Einst ein Zentrum der Leder- und Möbelindustrie."],
@@ -66,9 +96,24 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Citadella wurde 1854 von den Habsburgern erbaut, um die Stadt nach der ungarischen Revolution von 1848 zu kontrollieren. Sie ist etwa 220 Meter lang und hat 4 Meter dicke Mauern. Heute ist sie ein beliebtes Touristenziel mit Museen und einem atemberaubenden Ausblick auf die Donau und die Stadt.",
-      hu: "A Citadellát a Habsburgok építtették 1854-ben, hogy ellenőrizzék a várost az 1848-as forradalom után. Körülbelül 220 méter hosszú, falai pedig 4 méter vastagok. Ma népszerű turisztikai célpont múzeumokkal és lenyűgöző kilátással a Dunára és a városra.",
+      hu: "A Citadella a budapesti Gellért-hegy tetején magasodó erődítmény, amely nemcsak a városkép meghatározó eleme, hanem a magyar történelem viharos korszakainak tanúja is. Az 1848–49-es szabadságharc leverése után, 1854-ben emelték a Habsburgok, elsősorban azért, hogy a lázadó magyar lakosságot megfélemlítsék és ellenőrizzék. Az erőd falaiból lenyűgöző panoráma nyílik a Dunára, a parlamentre és Pest háztetőire, ami miatt az UNESCO Világörökség részévé választották. A Citadella szomszédságában áll a monumentális Szabadság-szobor, amely a város felszabadulásának jelképeként 1947 óta őrzi a békét. Az erőd ma jelentős felújításon esik át, hogy a jövőben modern kulturális és szabadidős központként, kiállításokkal és parkokkal várja a látogatókat, bemutatva a helyszín katonai múltját és Budapest fejlődését.",
       ro: "Citadela a fost construită de habsburgi în 1854 pentru a controla orașul după Revoluția Maghiară din 1848. Are aproximativ 220 de metri lungime și ziduri groase de 4 metri. Astăzi este o destinație turistică populară, cu muzee și o vedere uluitoare asupra Dunării și a orașului.",
       en: "The Citadella was built by the Habsburgs in 1854 to control the city after the Hungarian Revolution of 1848. It is about 220 meters long and has 4-meter-thick walls. Today, it is a popular tourist destination with museums and a breathtaking view of the Danube and the city."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [
+        "Az 1848–49-es szabadságharc után építették az osztrákok a magyarok megfigyelésére.",
+        "Az erőd fala 4 méter vastag, hossza pedig eléri a 220 métert.",
+        "A Citadella udvarán korábban híres panoptikum és vendéglő is működött.",
+        "A mellette álló Szabadság-szobor Kisfaludi Strobl Zsigmond alkotása.",
+        "Stratégiai elhelyezkedése miatt a második világháborúban fontos légvédelmi bázis volt.",
+        "1987 óta az UNESCO Világörökség részét képezi a Duna-parti látképpel együtt.",
+        "Az erőd területéről látható Budapest egyik legszebb, 360 fokos körpanorámája.",
+        "Jelenleg nagyszabású rekonstrukció alatt áll, hogy megújulva fogadja a turistákat."
+      ],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Erbaut von den Habsburgern.", "Strategischer Aussichtspunkt.", "Beherbergt Ausstellungen zum Zweiten Weltkrieg.", "Teil des UNESCO-Welterbes."],
