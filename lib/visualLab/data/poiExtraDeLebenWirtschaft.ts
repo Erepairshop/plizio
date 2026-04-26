@@ -60,8 +60,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Az Europa-Park egy témapark a németországi Baden-Württemberg tartományban található Rust településen. A park egy 95 hektáros területen helyezkedik el, és húsz tematikus zónában mintegy száz attrakciót kínál, köztük előadásokat és tizennégy hullámvasútat. A parkhoz tartozik továbbá hat szálloda, egy kemping, egy tipi-falu, egy mozi, valamint egy konferenciaközpont is.
-2022-ben a látogatók száma elérte az 5,4 millió főt. A(z) Europa-Park Rust egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Az Europa-Park egy témapark a németországi Baden-Württemberg tartományban található Rust településen. A park egy 95 hektáros területen helyezkedik el, és húsz tematikus zónában mintegy száz attrakciót kínál, köztük előadásokat és tizennégy hullámvasútat. A parkhoz tartozik továbbá hat szálloda, egy kemping, egy tipi-falu, egy mozi, valamint egy konferenciaközpont is. 2022-ben a látogatók száma elérte az 5,4 millió főt. A(z) Europa-Park Rust egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
@@ -631,9 +630,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "A Zoom 2015-ben bemutatott kanadai–brazil vegyes technikájú film, amelyben valós és számítógéppel animált díszletek, élő és számítógéppel animált szereplők közösen szerepelnek. A filmet Pedro Morelli rendezte.
-A forgatókönyvet Matthew Hansen írta. A producerei Niv Fichman, Fernando Meirelles és Paulo Morelli. A főszerepekben Gael García Bernal, Alison Pill, Mariana Ximenes, Tyler Labine és Jason Priestley láthatók. A film zeneszerzője Kid Koala. A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures. Műfaja filmvígjáték és filmdráma. 
-Kanadában 2015. szeptember 11-én, Brazíliában 2016. március 31-én mutatták be a mozikban. Magyarországon elsőként az HBO Gon volt elérhető.",
+      hu: "A Zoom 2015-ben bemutatott kanadai–brazil vegyes technikájú film, amelyben valós és számítógéppel animált díszletek, élő és számítógéppel animált szereplők közösen szerepelnek. A filmet Pedro Morelli rendezte. A forgatókönyvet Matthew Hansen írta. A producerei Niv Fichman, Fernando Meirelles és Paulo Morelli. A főszerepekben Gael García Bernal, Alison Pill, Mariana Ximenes, Tyler Labine és Jason Priestley láthatók. A film zeneszerzője Kid Koala. A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures. Műfaja filmvígjáték és filmdráma.  Kanadában 2015. szeptember 11-én, Brazíliában 2016. március 31-én mutatták be a mozikban. Magyarországon elsőként az HBO Gon volt elérhető.",
       ro: "",
       en: ""
     },
@@ -671,27 +668,7 @@ Kanadában 2015. szeptember 11-én, Brazíliában 2016. március 31-én mutattá
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Zene
-Holiday, Alaska in Winter-album (2008)
-Holiday, America-album (1974)
-Holiday, Bee Gees-dal
-Holiday, Dilana-dal
-Holiday, Dizzee Rascal-dal
-Holiday, Green Day-dal
-Holiday, KSI-dal
-Holiday, Lil Nas X-dal
-Holiday, Madonna-dal
-Holiday, The Magnetic Fields-album (1999)
-Holiday, Naughty by Nature-dal
-Holiday, Russ Freeman-album (1995)
-Holiday, Roberta Flack-album (1997)
-Holiday, Sammi Cheng-album (1991)
-Holiday, Vampire Weekend-dal
-Holiday, Vanessa Amorosi-dal
-Holiday, Volkova Sisters-album (2015)
-Filmek
-Holiday, 1930-as amerikai film
-Holiday (The Holiday), 2006-os amerikai film A(z) Holiday Park Haßloch egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Zene Holiday, Alaska in Winter-album (2008) Holiday, America-album (1974) Holiday, Bee Gees-dal Holiday, Dilana-dal Holiday, Dizzee Rascal-dal Holiday, Green Day-dal Holiday, KSI-dal Holiday, Lil Nas X-dal Holiday, Madonna-dal Holiday, The Magnetic Fields-album (1999) Holiday, Naughty by Nature-dal Holiday, Russ Freeman-album (1995) Holiday, Roberta Flack-album (1997) Holiday, Sammi Cheng-album (1991) Holiday, Vampire Weekend-dal Holiday, Vanessa Amorosi-dal Holiday, Volkova Sisters-album (2015) Filmek Holiday, 1930-as amerikai film Holiday (The Holiday), 2006-os amerikai film A(z) Holiday Park Haßloch egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
@@ -767,20 +744,7 @@ Holiday (The Holiday), 2006-os amerikai film A(z) Holiday Park Haßloch egy jele
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Gondwana több jelentésben alkalmazott szó:
-
-Gondwana, az egyik őskontinens, a déli szárazulatok összefoglaló neve
-Gondwana, India egyik kora újkori állama
-Gondwana, India egyik mai régiója, az előbbinek helyén
-Gondwana, az Antarktisz egyik kutatóállomása
-Gondwana, az ős- és ókori bemutató- és szórakoztatóközpont
-Gondwana Nemzeti Park, Dél-Afrikában
-Gondwana, chilei reggae-zenekar
-Gondwana, Ausztrália és Új-Kaledónia között lefektetett kommunikációs kábel
-Hasonló névvel:
-
-Gondwanaland, ausztrál világzenét játszó zenekar
-Gondwanaland, a Steroid Maximus zenekar albuma A(z) Gondwana – Das Praehistorium egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Gondwana több jelentésben alkalmazott szó:  Gondwana, az egyik őskontinens, a déli szárazulatok összefoglaló neve Gondwana, India egyik kora újkori állama Gondwana, India egyik mai régiója, az előbbinek helyén Gondwana, az Antarktisz egyik kutatóállomása Gondwana, az ős- és ókori bemutató- és szórakoztatóközpont Gondwana Nemzeti Park, Dél-Afrikában Gondwana, chilei reggae-zenekar Gondwana, Ausztrália és Új-Kaledónia között lefektetett kommunikációs kábel Hasonló névvel:  Gondwanaland, ausztrál világzenét játszó zenekar Gondwanaland, a Steroid Maximus zenekar albuma A(z) Gondwana – Das Praehistorium egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
@@ -1352,8 +1316,7 @@ Gondwanaland, a Steroid Maximus zenekar albuma A(z) Gondwana – Das Praehistori
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Siemensstadt (németül: Großsiedlung Siemensstadt) avagy a Körtelep (Ringsiedlung) társadalmilag fontos lakónegyed Berlinben, részben Charlottenburg-Wilmersdorf kerület északi részén, Charlottenburg-Nord városrészben. 1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként. A Neues Bauen stílusban emelt tömbök tervezésében részt vettek a Weimari Köztársaság olyan híres építészei, mint Walter Gropius, Otto Bartning, Hugo Häring, Fred Forbat (Forbát Alfréd) és Paul Rudolf Henning. A beépítetlen területeket Leberecht Migge alakította ki. Mivel a Kör (Der Ring) néven működő építészegylet a szoros együttműködésre támaszkodott a munkában, a lakónegyed a Körtelep (Ringsiedlung) melléknevet viseli.
-Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
+      hu: "Siemensstadt (németül: Großsiedlung Siemensstadt) avagy a Körtelep (Ringsiedlung) társadalmilag fontos lakónegyed Berlinben, részben Charlottenburg-Wilmersdorf kerület északi részén, Charlottenburg-Nord városrészben. 1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként. A Neues Bauen stílusban emelt tömbök tervezésében részt vettek a Weimari Köztársaság olyan híres építészei, mint Walter Gropius, Otto Bartning, Hugo Häring, Fred Forbat (Forbát Alfréd) és Paul Rudolf Henning. A beépítetlen területeket Leberecht Migge alakította ki. Mivel a Kör (Der Ring) néven működő építészegylet a szoros együttműködésre támaszkodott a munkában, a lakónegyed a Körtelep (Ringsiedlung) melléknevet viseli. Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
       ro: "",
       en: ""
     },
@@ -1391,22 +1354,7 @@ Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyike
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Tesla, Nikola Tesla (1856–1943) fizikus, feltaláló, villamosmérnök, filozófus
-Tudomány
-tesla, a mágneses indukció mértékegysége
-Tesla holdkráter
-Tesla-tekercs, Nikola Tesla találmánya
-2244 Tesla, a Naprendszer kisbolygóövében található aszteroida
-TESLA, TeV-Energy Superconducting Linear Accelerator projekt rövidítése (2000)
-Zene
-Tesla, Constantine Koukias operája
-Tesla, amerikai hard rock együttes
-Cégek
-Tesla, csehországi elektronikai vállalat
-Nikola Tesla (Radioindustrija Nikola Tesla; Beograd), jugoszláv rádiógyártó vállalat 1947 és 1959 között
-Tesla, Inc. (korábban Tesla Motors), kaliforniai elektromos autókat, napelemek és energia tároló egységeket fejlesztő és gyártó cég
-egyéb
-Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime és manga mellékszereplője",
+      hu: "Tesla, Nikola Tesla (1856–1943) fizikus, feltaláló, villamosmérnök, filozófus Tudomány tesla, a mágneses indukció mértékegysége Tesla holdkráter Tesla-tekercs, Nikola Tesla találmánya 2244 Tesla, a Naprendszer kisbolygóövében található aszteroida TESLA, TeV-Energy Superconducting Linear Accelerator projekt rövidítése (2000) Zene Tesla, Constantine Koukias operája Tesla, amerikai hard rock együttes Cégek Tesla, csehországi elektronikai vállalat Nikola Tesla (Radioindustrija Nikola Tesla; Beograd), jugoszláv rádiógyártó vállalat 1947 és 1959 között Tesla, Inc. (korábban Tesla Motors), kaliforniai elektromos autókat, napelemek és energia tároló egységeket fejlesztő és gyártó cég egyéb Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime és manga mellékszereplője",
       ro: "",
       en: ""
     },
@@ -1643,8 +1591,7 @@ Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime é
       hu: [
         "Számokban annyit tesz ki, hogy az Opel több mint 572 000 autót adott el.",
         "(Az adatok 2018 első félévre vonatkoznak.",
-        ")
-2018-ban „történelmi esemény” zajlott le: 19 év után 2018 volt az első teljes év, amelyben az Opel márka nyereséget könyvelhetett el.",
+        ") 2018-ban „történelmi esemény” zajlott le: 19 év után 2018 volt az első teljes év, amelyben az Opel márka nyereséget könyvelhetett el.",
         "A General Motors (GM) vezetése alatt 1998 volt az utolsó év, amikor a leányvállalat nyereséggel számolhatott volna.",
         "Akkortájt az Opel 9 platformra építette modelljeit, és 10 motorcsaládot fejlesztett.",
         "Ezek fejlesztése és tervezése óriási összegeket emésztett fel (volt olyan év, amikor 400 000 000 € veszteség érte a márkát)."
@@ -1787,13 +1734,7 @@ Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime é
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Continental AG, hannoveri székhelyű német vállalat
-Continental Airlines, houstoni székhelyű légitársaság
-Continental (autómárka), egykori brit autómárka
-Continental (együttes)
-Continental Railway Solution Kft., vasúttársaság
-Continental (The Gay Divorcee), 1934-es amerikai zenés film, rendezte Mark Sandrich
-Continental, 1989-es spanyol filmthriller, rendezte Xavier Villaverde A(z) Continental Werk Stöcken egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Continental AG, hannoveri székhelyű német vállalat Continental Airlines, houstoni székhelyű légitársaság Continental (autómárka), egykori brit autómárka Continental (együttes) Continental Railway Solution Kft., vasúttársaság Continental (The Gay Divorcee), 1934-es amerikai zenés film, rendezte Mark Sandrich Continental, 1989-es spanyol filmthriller, rendezte Xavier Villaverde A(z) Continental Werk Stöcken egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
@@ -1945,8 +1886,7 @@ Continental, 1989-es spanyol filmthriller, rendezte Xavier Villaverde A(z) Conti
     },
     descriptionAdvanced: {
       de: "",
-      hu: "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865. április 6-án alapították Mannheimben. Székhelye Ludwigshafenben található.
-A cégnek 170 országban 122 000 munkatársa van 150 termelő telephelyen. A vevőkapcsolatok 200 országra terjednek ki. 2009-ben a vállalatcsoport összárbevétele meghaladta az 50 milliárd eurót. Forgalma alapján a BASF a világ legnagyobb vegyipari vállalata. Magyarországon három telephelye működik. A BASF Hungária 2009-ben 140 főt foglalkoztatott. A BASF Csoport Magyarországon elért árbevétele meghaladta a 172 millió eurót. A BASF részvényei benne vannak a DAX-indexben, ezenkívül jegyzik a New-York-i, a londoni és a zürichi tőzsdén is.",
+      hu: "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865. április 6-án alapították Mannheimben. Székhelye Ludwigshafenben található. A cégnek 170 országban 122 000 munkatársa van 150 termelő telephelyen. A vevőkapcsolatok 200 országra terjednek ki. 2009-ben a vállalatcsoport összárbevétele meghaladta az 50 milliárd eurót. Forgalma alapján a BASF a világ legnagyobb vegyipari vállalata. Magyarországon három telephelye működik. A BASF Hungária 2009-ben 140 főt foglalkoztatott. A BASF Csoport Magyarországon elért árbevétele meghaladta a 172 millió eurót. A BASF részvényei benne vannak a DAX-indexben, ezenkívül jegyzik a New-York-i, a londoni és a zürichi tőzsdén is.",
       ro: "",
       en: ""
     },

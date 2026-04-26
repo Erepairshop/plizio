@@ -632,13 +632,7 @@ export const poiExtraDe3b: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország
-Halle, város Észak-Rajna-Vesztfália tartományban, Németország
-Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban
-Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban
-Halle, város Belgiumban
-Halle, kanton Belgium Halle-Vilvoorde járásában
-Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország Halle, város Észak-Rajna-Vesztfália tartományban, Németország Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban Halle, város Belgiumban Halle, kanton Belgium Halle-Vilvoorde járásában Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
@@ -904,9 +898,7 @@ Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turiszt
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Németország
-Lutherstadt Eisleben, település Németországban, Szász-Anhalt tartományban
-Lutherstadt Wittenberg, város Németországban, Szász-Anhalt tartományban A(z) Lutherstadt Wittenberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
+      hu: "Németország Lutherstadt Eisleben, település Németországban, Szász-Anhalt tartományban Lutherstadt Wittenberg, város Németországban, Szász-Anhalt tartományban A(z) Lutherstadt Wittenberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },

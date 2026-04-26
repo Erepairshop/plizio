@@ -936,8 +936,7 @@ export const poiExtraDe3a: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8. és 11. század között virágzó első igazi középkori kereskedőváros volt Észak-Európában. A modern nemzetközi történeti és régészeti irodalomban a Hedeby névváltozat a leginkább használatos.
-Haithabu a Schlei tengeröböl partján jött létre, a Balti-tenger és az Északi-tenger között egy évszázadok óta használatos fontos kereskedelmi útvonal mellett. A terület ma Busdorf községhez tartozik, Schleswigtől néhány kilométerre, Schleswig-Flensburg járásban, Németországban. 1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át. A település maradványai a közeli dán sáncvonallal, a Danevirkéval együtt Schleswig-Holstein legjelentősebb régészeti emlékei közé tartoznak.",
+      hu: "Haithabu (óészakiul Heiðabýr, dánul Hedeby, latinul Heidiba, mai német nyelven Haithabu vagy Haddeby) a 8. és 11. század között virágzó első igazi középkori kereskedőváros volt Észak-Európában. A modern nemzetközi történeti és régészeti irodalomban a Hedeby névváltozat a leginkább használatos. Haithabu a Schlei tengeröböl partján jött létre, a Balti-tenger és az Északi-tenger között egy évszázadok óta használatos fontos kereskedelmi útvonal mellett. A terület ma Busdorf községhez tartozik, Schleswigtől néhány kilométerre, Schleswig-Flensburg járásban, Németországban. 1066-ban lerombolták, kereskedelmi szerepét Schleswig városa vette át. A település maradványai a közeli dán sáncvonallal, a Danevirkéval együtt Schleswig-Holstein legjelentősebb régészeti emlékei közé tartoznak.",
       ro: "",
       en: ""
     },
