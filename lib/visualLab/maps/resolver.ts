@@ -53,6 +53,7 @@ import { unitedkingdomMap, unitedkingdomViewBox, projectCoordsUK } from "./unite
 import { unitedkingdomAllPoi } from "../data/unitedkingdomPoi";
 import { netherlandsMap, netherlandsViewBox, projectCoordsNL } from "./netherlands.svg";
 import { netherlandsAllPoi } from "../data/netherlandsPoi";
+import { poiExtraNetherlandsCities } from "../data/poiExtraNetherlandsCities";
 import { austriaMap, austriaViewBox, projectCoordsAT } from "./austria.svg";
 import { austriaAllPoi } from "../data/austriaPoi";
 import { belgiumMap, belgiumViewBox, projectCoordsBE } from "./belgium.svg";
@@ -335,7 +336,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: netherlandsMap as unknown as BundeslandPath[],
         viewBox: netherlandsViewBox,
         projectCoords: projectCoordsNL,
-        pois: netherlandsAllPoi,
+        pois: [...netherlandsAllPoi, ...poiExtraNetherlandsCities],
         subregions: {}, // No specific subregions map for now
       };
     case "at":

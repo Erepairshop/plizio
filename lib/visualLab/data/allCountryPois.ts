@@ -48,6 +48,7 @@ import { moldovaAllPoi } from "@/lib/visualLab/data/moldovaPoi";
 import { monacoAllPoi } from "@/lib/visualLab/data/monacoPoi";
 import { montenegroAllPoi } from "@/lib/visualLab/data/montenegroPoi";
 import { netherlandsAllPoi } from "@/lib/visualLab/data/netherlandsPoi";
+import { poiExtraNetherlandsCities } from "./poiExtraNetherlandsCities";
 import { nicaraguaAllPoi } from "@/lib/visualLab/data/nicaraguaPoi";
 import { norwayAllPoi } from "@/lib/visualLab/data/norwayPoi";
 import { panamaAllPoi } from "@/lib/visualLab/data/panamaPoi";
@@ -120,6 +121,7 @@ export const ALL_COUNTRY_POIS = ([
   ...monacoAllPoi,
   ...montenegroAllPoi,
   ...netherlandsAllPoi,
+  ...poiExtraNetherlandsCities,
   ...nicaraguaAllPoi,
   ...norwayAllPoi,
   ...panamaAllPoi,
