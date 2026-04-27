@@ -5627,13 +5627,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Flows through Bad Kreuznach and joins the Rhine at Bingen.", "The Nahe wine-growing region is one of Germany's smallest quality wine areas.", "Famous for healing stones and gemstones in the region."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Nahe ist ein 125 Kilometer langer linker Nebenfluss des Rheins, der eine der geologisch abwechslungsreichsten Landschaften Deutschlands durchfließt. Weltbekannt ist das Nahetal für Idar-Oberstein, die 'Edelsteinstadt', deren Tradition auf den Funden von Achaten und Amethysten im 14. Jahrhundert beruht. Ein spektakuläres Naturdenkmal am Flusslauf ist der Rotenfels, die höchste Steilwand nördlich der Alpen. Die Naheregion ist zudem ein renommiertes Weinanbaugebiet, das für seine charakterstarken Rieslinge auf vulkanischem Boden geschätzt wird. Historische Brückenhäuser in Bad Kreuznach und die Mündung in den Rhein bei Bingen prägen den Lauf dieses faszinierenden Flusses. Geographie K7 – Gesteinsvielfalt und regionale Wirtschaftskreisläufe.",
       hu: "A(z) Nahe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nahe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 125 km mit Mündung in den Rhein bei Bingen.", "Zentrum der deutschen Edelsteinindustrie in Idar-Oberstein.", "Der Rotenfels am Ufer ist mit 202 m die höchste Steilwand Deutschlands.", "Erste urkundliche Erwähnung durch Tacitus als 'Navas' (ca. 100 n. Chr.).", "Besitzt eines der vielfältigsten Weinbaugebiete auf engstem Raum.", "Die Drususbrücke in Bingen ist eine der ältesten Steinbrücken des Landes."],
       hu: [
         "A(z) Nahe területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5739,13 +5739,13 @@ export const poiExtraDe2: POI[] = [
       en: ["An equestrian statue of Emperor Wilhelm I stands here.", "Destroyed in World War II, re-erected in 1993.", "One of the most visited landmarks in Rhineland-Palatinate."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Deutsche Eck in Koblenz ist eine künstlich angelegte Landzunge am Zusammenfluss von Rhein und Mosel und einer der symbolträchtigsten Orte der deutschen Einheit. Seinen Namen verdankt der Ort dem Deutschen Orden, der sich hier im Jahr 1216 niederließ. Das monumentale Reiterstandbild von Kaiser Wilhelm I., das 1897 errichtet wurde, sollte die Gründung des Deutschen Reiches feiern. Nach seiner Zerstörung im Zweiten Weltkrieg diente der Sockel als Mahnmal für die deutsche Einheit, bevor das Standbild 1993 rekonstruiert wurde. Heute ist das Deutsche Eck ein Magnet für Touristen aus aller Welt und der Ausgangspunkt für die Seilbahn zur Festung Ehrenbreitstein. Geschichte K7 – Reichsgründung und nationale Denkmäler.",
       hu: "A(z) Deutsches Eck egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Deutsches Eck ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Markiert den Zusammenfluss der Bundeswasserstraßen Rhein und Mosel.", "Das Reiterstandbild ist insgesamt 37 Meter hoch (Figur 14 Meter).", "Benannt nach der Niederlassung des Deutschen Ordens im 13. Jahrhundert.", "Diente von 1953 bis 1993 als Mahnmal für die deutsche Wiedervereinigung.", "Gehört zum UNESCO-Welterbe Oberes Mittelrheintal.", "Besitzt Flaggenmasten aller 16 deutschen Bundesländer am Uferweg."],
       hu: [
         "A(z) Deutsches Eck területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5851,13 +5851,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Known for volcanoes and maar lakes (e.g., Laacher See).", "The Nürburgring is located in the Eifel.", "Eifel National Park opened in 2004."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Eifel ist ein faszinierendes Mittelgebirge vulkanischen Ursprungs, das sich über Rheinland-Pfalz und Nordrhein-Westfalen erstreckt. Einzigartig in Deutschland sind die 'Maare' – wassergefüllte Kraterseen, die durch gewaltige Wasserdampfexplosionen entstanden sind und als 'Augen der Eifel' bezeichnet werden. Die Region ist geologisch noch immer aktiv, was sich an aufsteigenden Gasen im Laacher See zeigt. Neben spektakulärer Natur bietet die Eifel historische Schätze wie die Burg Eltz und das mittelalterliche Monschau. Der Nürburgring, eine der berühmtesten Rennstrecken der Welt, ist ebenfalls hier beheimatet. Die Eifel ist heute ein bedeutendes Schutzgebiet mit dem ersten Nationalpark in Nordrhein-Westfalen. Geographie K6 – Vulkanismus und Formschatz der Mittelgebirge.",
       hu: "A(z) Eifel (Rheinland-Pfalz) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eifel (Rheinland-Pfalz) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umfasst eine Gesamtfläche von ca. 5.300 Quadratkilometern.", "Besitzt mit dem Pulvermaar eines der tiefsten Maare Deutschlands (72 m).", "Letzter großer Vulkanausbruch erfolgte vor nur ca. 13.000 Jahren.", "Standort des Nürburgrings, der 'Grünen Hölle' der Eifel.", "Besteht geologisch aus dem rheinischen Schiefergebirge.", "UNESCO Global Geopark Vulkaneifel schützt das erdgeschichtliche Erbe."],
       hu: [
         "A(z) Eifel (Rheinland-Pfalz) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -5963,13 +5963,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Formed by a volcanic eruption approximately 12,900 years ago.", "CO₂ emissions still occur on the lake surface today.", "Maria Laach Abbey is located directly on the lakeshore."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Laacher See in der Vulkaneifel ist kein gewöhnlicher See, sondern die wassergefüllte Caldera eines schlafenden Vulkans. Er entstand nach der gewaltigen Eruption des Laacher Vulkans vor etwa 13.000 Jahren, die ganz Mitteleuropa mit Asche bedeckte. Heute ist er der größte See in Rheinland-Pfalz und ein Naturschutzgebiet von europäischem Rang. An seinem Ostufer steigen noch immer vulkanische Gase (Mofetten) in Form von Bläschen auf – ein Zeichen für die magmatische Aktivität im Untergrund. Direkt am Seeufer liegt die prachtvolle hochromanische Abtei Maria Laach, ein kulturelles Juwel des Mittelalters. Der See verbindet auf faszinierende Weise Erdgeschichte mit sakraler Architektur. Geographie K6 – Magmatismus und Vulkanformen in Deutschland.",
       hu: "A(z) Laacher See egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Laacher See ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter See in Rheinland-Pfalz mit ca. 3,3 km² Wasserfläche.", "Entstand durch einen der gewaltigsten Vulkanausbrüche Europas.", "Maximaltiefe des Sees beträgt 51 Meter.", "Aufsteigende CO2-Bläschen am Ufer belegen den aktiven Vulkanismus.", "Heimat der berühmten Benediktinerabtei Maria Laach (gegründet 1093).", "Das gesamte Gebiet steht seit 1935 unter Naturschutz."],
       hu: [
         "A(z) Laacher See területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6075,13 +6075,13 @@ export const poiExtraDe2: POI[] = [
       en: ["UNESCO World Heritage Site since 1981.", "One of the largest Romanesque buildings in the world.", "Burial site of several Salian and Staufen emperors."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kaiserdom zu Speyer ist das bedeutendste Baudenkmal der Romanik und war 1981 eines der ersten deutschen Denkmäler auf der UNESCO-Welterbeliste. Errichtet ab 1030 unter Konrad II., sollte er die größte Kirche der christlichen Welt sein und den Machtanspruch der salischen Kaiser untermauern. Mit seiner monumentalen Krypta beherbergt er die Grablege von acht mittelalterlichen Kaisern und Königen. Die Architektur mit dem einzigartigen Blendarkaden-System und dem Zwerggalerie-Umlauf beeinflusste den Kirchenbau in ganz Europa. Der Speyerer Dom ist ein Symbol für das Heilige Römische Reich und eine spirituelle Landmarke am Rhein, die fast 1.000 Jahre Geschichte atmet. Geschichte K6 – Das salische Kaisertum und romanische Sakralbauten.",
       hu: "A(z) Speyerer Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Speyerer Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größte erhaltene romanische Kirche der Welt (UNESCO-Welterbe seit 1981).", "Grablege von acht mittelalterlichen Kaisern und Königen.", "Die Krypta ist die größte romanische Hallenkrypta in Europa.", "Erbaut als monumentale Grabstätte der Salier-Dynastie ab ca. 1030.", "Besitzt eine Gesamtlänge von 134 Metern und eine Turmhöhe von 71 Metern.", "Überlebte die Zerstörung der Stadt im Pfälzischen Erbfolgekrieg 1689 teilweise."],
       hu: [
         "A(z) Speyerer Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6187,13 +6187,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The narrows at the Loreley are the most dangerous stretch of the Rhine for shipping.", "The legend of the beautiful Loreley was made world-famous by Heinrich Heine.", "Part of the UNESCO World Heritage 'Upper Middle Rhine Valley'."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Loreley-Felsen bei Sankt Goarshausen ist der Inbegriff der Rheinromantik und gehört zum UNESCO-Welterbe Oberes Mittelrheintal. Der 132 Meter hohe Schieferfelsen ragt steil an einer der engsten und tiefsten Stellen des Rheins auf, wo die starke Strömung früher vielen Schiffern zum Verhängnis wurde. Die Legende der schönen Nixe, die mit ihrem Gesang Seeleute ins Verderben lockt, wurde durch das Gedicht von Heinrich Heine weltweit berühmt. Das Plateau bietet einen spektakulären Panoramablick auf den Rheinverlauf und die Burgen Katz und Rheinfels. Heute ist die Loreley mit ihrem modernen Besucherzentrum und der legendären Freilichtbühne ein Magnet für Kulturtouristen aus aller Welt. Literatur K7 – Deutsche Romantik und die Mythen des Rheins.",
       hu: "A(z) Loreley egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Loreley ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Steiler Schieferfelsen mit einer Höhe von 132 m über dem Wasserspiegel.", "Engste und tiefste Stelle des schiffbaren Rheins (113 m breit, 25 m tief).", "Teil des UNESCO-Welterbes Oberes Mittelrheintal seit 2002.", "Weltberühmt durch Heinrich Heines Gedicht 'Ich weiß nicht, was soll es bedeuten'.", "Die Freilichtbühne auf dem Felsen ist ein renommierter Veranstaltungsort.", "Eine Bronzestatue der Loreley bewacht die Hafeneinfahrt am Fuße des Berges."],
       hu: [
         "A(z) Loreley területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6299,13 +6299,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The 1521 Imperial Diet took place here, where Luther said 'Here I stand'.", "Worms Cathedral is a significant Romanesque building.", "Known as 'Nibelung City' due to its legendary traditions."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Worms ist eine der ältesten Städte Deutschlands und ein Schauplatz von welthistorischer Bedeutung. Hier treffen die Sagenwelt der Nibelungen und die Geburtsstunde der Reformation aufeinander. Im Mittelalter war Worms ein Zentrum kaiserlicher Macht, wovon der prächtige romanische Dom St. Peter zeugt. Weltberühmt wurde die Stadt durch den Reichstag von 1521, auf dem Martin Luther vor Kaiser Karl V. seine Thesen verteidigte. Heute erinnert das größte Reformationsdenkmal der Welt an dieses Ereignis. Zudem ist Worms als 'SchUM-Stadt' Teil des UNESCO-Welterbes und beherbergt mit dem 'Heiligen Sand' den ältesten erhaltenen jüdischen Friedhof Europas. Geschichte K7 – Reformation und jüdisches Erbe in Deutschland.",
       hu: "A(z) Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet von den Kelten (Borbetomagus), eine der ältesten Städte Deutschlands.", "Ort des Reichstags von 1521, auf dem Luther seine Lehre verteidigte.", "Hauptschauplatz des Nibelungenliedes (Siegfried und Kriemhild).", "Besitzt einen der drei rheinischen Kaiserdome aus der Stauferzeit.", "Der jüdische Friedhof 'Heiliger Sand' stammt aus dem 11. Jahrhundert.", "Namensgeber für den Wein 'Liebfraumilch' (nach der Liebfrauenkirche)."],
       hu: [
         "A(z) Worms területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6411,13 +6411,13 @@ export const poiExtraDe2: POI[] = [
       en: ["First mentioned in 1051, destroyed in the 17th century and rebuilt in Neo-Gothic style in the 19th century.", "Towers over the Moselle Valley from a 100 m high rock.", "Visited by thousands of tourists annually."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Reichsburg Cochem ist das Wahrzeichen der Moselregion und thront majestätisch auf einem steilen Felskegel über der Stadt Cochem. Ursprünglich im 11. Jahrhundert als Zollburg erbaut, wurde sie im 17. Jahrhundert von Truppen Ludwigs XIV. zerstört. Ihr heutiges Erscheinungsbild im Stil der Neugotik verdankt sie dem Berliner Industriellen Louis Ravené, der die Burg im 19. Jahrhundert als Sommerresidenz prachtvoll wiederaufbauen ließ. Die Anlage mit ihren vielen Türmen und Zinnen gilt als Inbegriff der Rhein- und Moselromantik. Besucher können heute prächtige Rittersäle und Kemenaten bewundern, die mit Renaissance- und Barockmöbeln ausgestattet sind und einen tiefen Einblick in das höfische Leben vergangener Zeiten bieten. Kunstgeschichte K7 – Historismus und die Romantik im 19. Jahrhundert.",
       hu: "A(z) Burg Cochem egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Cochem ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wahrzeichen der Mosel, 100 Meter über dem Flusspegel gelegen.", "Erste urkundliche Erwähnung im Jahr 1130 als Reichsburg.", "Wurde 1868–1877 im Stil des Historismus prachtvoll rekonstruiert.", "Das 'Hexentürmchen' überstand als einziger Teil die Zerstörung von 1689.", "Beherbergt wertvolle Renaissance-Möbel und historische Wandteppiche.", "Alljährliche Burgfestspiele locken tausende Besucher nach Cochem."],
       hu: [
         "A(z) Burg Cochem területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6523,13 +6523,13 @@ export const poiExtraDe2: POI[] = [
       en: ["The 'SchUM Cities' (Speyer, Worms, Mainz) have been UNESCO World Heritage since 2021.", "The Jewish cemetery (Heiliger Sand) is the oldest preserved Jewish cemetery in Europe.", "The synagogue was destroyed and rebuilt multiple times during the Middle Ages."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das historische Judenviertel in Worms war über Jahrhunderte ein geistiges Zentrum des aschkenasischen Judentums und gehört heute als Teil der 'SchUM-Stätten' zum UNESCO-Weltkulturerbe. Die Gemeinde in Worms war im Mittelalter so bedeutend, dass die Stadt auch als 'Klein-Jerusalem' bezeichnet wurde. Herzstück des Viertels ist die 1034 errichtete Synagoge mit dem rituellen Tauchbad (Mikwe), das zu den ältesten seiner Art in Europa zählt. Trotz mehrfacher Zerstörungen und Wiederaufbaus blieb der Grundriss des Viertels über 1.000 Jahre erhalten. In Worms wirkte der berühmte Gelehrte Raschi, dessen Erbe noch heute Forscher und Gläubige aus aller Welt anzieht. Geschichte K8 – Jüdische Kultur und ihre Bedeutung im Mittelalter.",
       hu: "A(z) Jüdisches Worms egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Jüdisches Worms ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil des UNESCO-Weltkulturerbes 'SchUM-Stätten Speyer, Worms und Mainz'.", "Worms wurde im Mittelalter aufgrund seiner Bedeutung 'Klein-Jerusalem' genannt.", "Die Mikwe (Tauchanlage) wurde bereits im Jahr 1185/86 erbaut.", "Wirkungsstätte des berühmten Talmud-Kommentators Raschi.", "Das Viertel bewahrt den mittelalterlichen Grundriss der 'Judengasse'.", "Jüdisches Museum im Raschi-Haus dokumentiert 1.000 Jahre Geschichte."],
       hu: [
         "A(z) Jüdisches Worms területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -6635,13 +6635,13 @@ export const poiExtraDe2: POI[] = [
       en: ["Restored in the 19th century by Prince Friedrich Wilhelm of Prussia.", "Part of the romantic Rhine landscape in the UNESCO World Heritage area.", "One of the best-known castles in the Middle Rhine Valley."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Burg Rheinstein bei Trechtingshausen gilt als die Geburtsstätte der rheinischen Burgenromantik. Im frühen 19. Jahrhundert war sie die erste verfallene Ruine am Mittelrhein, die als steingewordenes Ideal des Rittertums wiederaufgebaut wurde. Prinz Friedrich von Preußen ließ die Anlage ab 1823 prachtvoll restaurieren und nutzte sie als Sommerresidenz. Die Burg besticht durch ihre filigrane neugotische Architektur, farbenprächtige Glasmalereien und den prunkvollen Rittersaal. Die hängenden Gärten und der weite Blick über den Rhein machen sie zu einem der romantischsten Orte im Welterbetal. Rheinstein ist ein herausragendes Beispiel für den Wunsch des preußischen Königshauses, die Geschichte des Mittelalters wieder lebendig werden zu lassen. Kunstgeschichte K7 – Die preußische Rheinromantik und der Burgenbau.",
       hu: "A(z) Burg Rheinstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Rheinstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erbaut im 14. Jahrhundert als Zollburg (Vaitzburg).", "Erste Ruine am Mittelrhein, die im 19. Jahrhundert wiederaufgebaut wurde.", "Sommerresidenz des preußischen Prinzen Friedrich Wilhelm Ludwig.", "Beherbergt ein Mausoleum für den Prinzen und seine Familie.", "Besitzt eine Sammlung historischer Rüstungen und Kanonen aus dem 16. Jh.", "Wegbereiter für den heutigen UNESCO-Welterbestatus des Tals."],
       hu: [
         "A(z) Burg Rheinstein területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",

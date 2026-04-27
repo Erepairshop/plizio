@@ -21,13 +21,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Sanssouci is part of the UNESCO World Heritage.", "Frederick the Great had the palace built in 1745.", "The 1945 Potsdam Conference took place at Cecilienhof Palace.", "Potsdam has over 170,000 inhabitants."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Potsdam, die Hauptstadt Brandenburgs, ist ein Juwel europäischer Kulturgeschichte und war über Jahrhunderte die glanzvolle Residenzstadt der preußischen Könige. Die Stadt ist weltbekannt für ihr einzigartiges Ensemble aus Schlössern und Gärten, allen voran Park Sanssouci mit dem berühmten Sommerschloss Friedrichs des Großen. Neben der preußischen Pracht ist Potsdam ein Ort der Weltgeschichte: Im Schloss Cecilienhof fand 1945 die Potsdamer Konferenz statt. Die Stadt besticht zudem durch Viertel wie das Holländische Viertel oder die russische Kolonie Alexandrowka. Heute ist Potsdam ein führender Wissenschaftsstandort und das Zentrum der deutschen Filmindustrie mit den traditionsreichen Babelsberger Studios. Geschichte K7 – Preußische Geschichte und europäische Diplomatie.",
       hu: "A(z) Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt von Brandenburg und ehemalige preußische Residenzstadt.", "Über 75 % der Stadtfläche gehören zum UNESCO-Weltkulturerbe.", "Beherbergt 12 Schlösser, darunter Sanssouci, Cecilienhof und Babelsberg.", "Ort der Potsdamer Konferenz 1945 zum Ende des Zweiten Weltkriegs.", "Sitz des ältesten Großfilmstudios der Welt (Studio Babelsberg).", "Das Holländische Viertel besitzt 134 Häuser aus roten Ziegeln."],
       hu: [
         "A(z) Potsdam területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -59,13 +59,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Cottbus has a Sorbian-speaking minority.", "Branitz Park was designed by Prince Pückler.", "Cottbus University is a technical university.", "The region is undergoing major change after coal phase-out."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Cottbus ist das wirtschaftliche und kulturelle Zentrum der Lausitz und das Tor zum Spreewald. Die Stadt blickt auf eine über 850-jährige Geschichte zurück und ist heute eine bedeutende Universitätsstadt. Ein architektonisches Meisterwerk von europäischem Rang ist der Branitzer Park des exzentrischen Fürsten Pückler, der für seine Erdpyramiden und die Gestaltung als englischer Landschaftsgarten berühmt ist. Cottbus ist zudem das Zentrum der sorbischen Kultur in Brandenburg, was sich im zweisprachigen Stadtbild widerspiegelt. Die Stadt hat den Strukturwandel vom Braunkohlerevier zum modernen Technologiestandort erfolgreich eingeleitet und ist Sitz der BTU Cottbus-Senftenberg. Geographie K7 – Strukturwandel in ehemaligen Energie-Regionen.",
       hu: "A(z) Cottbus egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Cottbus ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zweitgrößte Stadt Brandenburgs und Zentrum der sorbischen Minderheit.", "Der Branitzer Park ist berühmt für die weltweit einzigartigen Erdpyramiden.", "Wirkungsstätte des Parkgestüters und Weltreisenden Fürst Pückler.", "Sitz der Brandenburgischen Technischen Universität (BTU).", "Bedeutender Eisenbahnknotenpunkt im Verkehr nach Osteuropa.", "Das Staatstheater Cottbus ist das einzige Mehrspartentheater Brandenburgs."],
       hu: [
         "A(z) Cottbus területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -97,13 +97,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Spree is 403 km long.", "It flows through the UNESCO Biosphere Reserve Spreewald.", "Spreewald punts (Spreewaldkähne) are a typical means of transport.", "The Spree flows into the Havel in Berlin."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Spree ist der Lebensstrom Brandenburgs und Berlins und durchfließt auf ihrem Weg von der Lausitz bis zur Havel faszinierende Naturräume. Besonders einzigartig ist der Spreewald in Brandenburg, ein UNESCO-Biosphärenreservat, in dem sich der Fluss in hunderte kleine Kanäle verzweigt. Diese Lagunenlandschaft ist die Heimat der Sorben und eine der bedeutendsten Kulturlandschaften Mitteleuropas. Die Spree dient nicht nur der Naherholung durch die berühmten Kahnfahrten, sondern ist auch ökologisch als Rückzugsraum für seltene Tierarten wie den Fischotter von unschätzbarem Wert. In ihrem weiteren Verlauf speist sie Talsperren und bildet die Wasserader der deutschen Hauptstadt. Geographie K8 – Flussverzweigungen und UNESCO-Biosphärenreservate.",
       hu: "A(z) Spree (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spree (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Längster Nebenfluss der Havel mit ca. 400 Kilometern Gesamtlänge.", "Bildet im Spreewald ein Netz aus rund 300 Kanälen (Fließen).", "UNESCO-Biosphärenreservat Spreewald schützt über 18.000 Tier- und Pflanzenarten.", "Wichtigste Wasserquelle für die Trinkwasserversorgung von Berlin.", "Diente im Mittelalter als Hauptverkehrsweg für den Salz- und Holzhandel.", "Passiert auf brandenburgischem Gebiet bedeutende Kraftwerksstandorte."],
       hu: [
         "A(z) Spree (Brandenburg) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -135,13 +135,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Havel is 343 km long.", "It links over 20 lakes in Brandenburg.", "The Havel cycling route is over 400 km long.", "Potsdam lies directly on the Havel."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Havel ist einer der wasserreichsten und seenreichsten Flüsse Deutschlands und durchfließt Brandenburg in einem weiten Bogen. Charakteristisch für die Havel ist ihr extrem geringes Gefälle, weshalb sie an vielen Stellen kaum zu fließen scheint und weite Seenketten bildet. Historisch war der Fluss die Lebensader der Mark Brandenburg; Städte wie Brandenburg an der Havel, Potsdam und Rathenow verdanken ihr ihre Entstehung und ihren Reichtum. Die Havellandschaft mit ihren flachen Ufern, weiten Wiesen und dem Naturpark Westhavelland ist ein Rückzugsraum für seltene Vogelarten. Durch die Bundesgartenschau 2015 wurde die Havelregion zudem als ein zusammenhängendes touristisches Gebiet von nationalem Rang gewürdigt. Geographie K7 – Flusslandschaften und historische Stadtgründungen.",
       hu: "A(z) Havel (Brandenburg) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Brandenburg) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gesamtlänge von 334 km bei einem Höhenunterschied von nur 40 Metern.", "Fließt durch das Havelland, die Heimat des Dichters Theodor Fontane.", "Der Fluss bildet im Verlauf über 40 Seen allein in Brandenburg.", "Brandenburg an der Havel ist die älteste Stadt der Mark Brandenburg.", "Wichtiges Zentrum für den Wassertourismus in Ostdeutschland.", "Naturpark Westhavelland ist als erster deutscher Sternenpark zertifiziert."],
       hu: [
         "A(z) Havel (Brandenburg) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -173,13 +173,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Scharmützelsee has an area of 13 km².", "It is located near Bad Saarow.", "The lake is known for its clear sandy beach.", "It regularly freezes over in winter."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Scharmützelsee im Osten Brandenburgs wird aufgrund seiner Größe und Schönheit oft als das 'Märkische Meer' bezeichnet. Er ist der zweitgrößte natürliche See des Landes und das Herzstück des Erholungsortes Bad Saarow. Der See entstand während der letzten Eiszeit als Rinnensee und besticht heute durch seine ausgezeichnete Wasserqualität und die bewaldeten Ufer. Historisch entwickelte sich der See Anfang des 20. Jahrhunderts zum Treffpunkt der Berliner Prominenz, was sich in der prächtigen Architektur der Villen in Bad Saarow widerspiegelt. Mit seinen Heilmooren und Thermalquellen ist die Region ein Zentrum für Gesundheit und Wellness in Brandenburg und ein beliebtes Revier für Segler und Wanderer. Geographie K6 – Glaziale Entstehung von Rinnenseen und Tourismus.",
       hu: "A(z) Scharmützelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Scharmützelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zweitgrößter natürlicher See Brandenburgs (ca. 12 km² Fläche).", "Liegt in der sogenannten 'Saarower Hügelware' der Weichsel-Eiszeit.", "Zentrum des staatlich anerkannten Thermalsole-Heilbades Bad Saarow.", "Bietet eine schiffbare Verbindung über Kanäle bis nach Berlin.", "Wirkungsstätte des Schriftstellers Maxim Gorki in den 1920er Jahren.", "Besitzt eine maximale Wassertiefe von etwa 29 Metern."],
       hu: [
         "A(z) Scharmützelsee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -211,13 +211,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Schwielowsee is part of the Westhavelland Nature Park.", "It is an important area for waterfowl.", "The shores are lined with reed belts.", "Caputh, a village on the lake, was Albert Einstein's summer residence."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Schwielowsee südwestlich von Potsdam gilt als einer der landschaftlich schönsten Seen im Verlauf der Havel. Theodor Fontane pries ihn als 'Gottes weite Welt', da er sich fast quadratisch auf über sieben Quadratkilometern ausdehnt. Die Orte rund um den See, wie Werder (Havel), Ferch und Caputh, sind Inbegriffe brandenburgischer Idylle. Besonders Caputh erlangte Weltruhm durch Albert Einstein, der hier in den Sommermonaten in seinem Holzhaus wohnte und auf dem See segelte. Der See ist nicht nur ein beliebtes Naherholungsgebiet für Berliner und Potsdamer, sondern auch ein Zentrum des Segelsports. Die Verbindung von Kulturlandschaft, Geschichte und Wassersport macht ihn einzigartig in Brandenburg. Geographie K6 – Die Havelseen als Teil der preußischen Kulturlandschaft.",
       hu: "A(z) Schwielowsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schwielowsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Breiteste Stelle im Lauf der Havel mit ca. 7,8 km² Wasserfläche.", "Sommerresidenz des Physikers Albert Einstein in Caputh (1929–1932).", "Wichtigster Schauplatz in Fontanes 'Wanderungen durch die Mark Brandenburg'.", "Beherbergt das Schloss Caputh, das älteste erhaltene Schloss der Hohenzollern.", "Gilt als Wiege des brandenburgischen Obstanbaus (Werder).", "Bekannt für das jährliche Blütenfest in Werder am Nordufer."],
       hu: [
         "A(z) Schwielowsee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -249,13 +249,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Fläming stretches from Brandenburg into Saxony-Anhalt.", "The highest point is Hagelberg at 178 m.", "The Hoher Fläming Nature Park protects the landscape.", "Fläming asparagus is well known far beyond Brandenburg."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Fläming ist ein sanft gewellter Höhenzug in Brandenburg und Sachsen-Anhalt, der durch die gewaltigen Eismassen der vorletzten Eiszeit geformt wurde. Seinen Namen verdankt die Region flämischen Siedlern, die im 12. Jahrhundert hierherkamen und die Landwirtschaft sowie den Bau markanter Feldsteinkirchen prägten. Als Nationaler Naturpark bietet der Fläming weite Wälder, klare Bäche und idyllische Dörfer. Einzigartig ist der 'Fläming-Skate', ein über 200 Kilometer langes Netz aus asphaltierten Wegen für Inlineskater und Radfahrer, das quer durch die Natur führt. Die Region ist zudem bekannt für ihre historischen Mühlen und den Erhalt alter Handwerkstraditionen. Geographie K6 – Altmoränenlandschaften und mittelalterliche Kolonisation.",
       hu: "A(z) Fläming egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Fläming ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchste Erhebung im Hohen Fläming ist der Hagelberg (201 m).", "Namensgebung durch Siedler aus Flandern im Rahmen der Ostsiedlung.", "Beherbergt mit dem 'Fläming-Skate' Europas größten Skating-Rundkurs.", "Besteht geologisch aus Endmoränenmaterial der Saale-Eiszeit.", "Bekannt für die typischen Feldsteinkirchen aus dem 12. und 13. Jahrhundert.", "Drei Naturparks schützen heute die Vielfalt dieser Kulturlandschaft."],
       hu: [
         "A(z) Fläming területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -287,13 +287,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The cathedral was begun in the 12th century.", "It is one of Brandenburg's oldest brick buildings.", "The Lehnin Kilim cloth is a valuable medieval textile housed in the cathedral.", "Brandenburg an der Havel is the city that gave the state its name."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Dom St. Peter und Paul in Brandenburg an der Havel gilt als die 'Mutterkirche' der Mark Brandenburg und ist ein Monument von höchster historischer Bedeutung. Errichtet auf der Dominsel ab dem Jahr 1165, markiert er die Festigung des Christentums und der askanischen Herrschaft im Osten. Die Architektur verbindet romanische Ursprünge mit prächtiger Backsteingotik. Besonders wertvoll ist die Ausstattung des Doms, darunter der Böhmische Altar und die Wagner-Orgel. Das Domensemble mit Kreuzgang und Klausurgebäuden ist fast vollständig erhalten. Als geistiges Zentrum der Region bewahrt der Dom zudem ein umfangreiches Archiv mit Dokumenten aus über 800 Jahren Geschichte. Geschichte K6 – Entstehung der Mark Brandenburg und christliche Missionierung.",
       hu: "A(z) Brandenburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brandenburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Grundsteinlegung im Jahr 1165 durch Markgraf Albrecht den Bären.", "Gilt als architektonische Wiege des preußischen Staates.", "Ältestes Backsteinbauwerk der Mark Brandenburg.", "Beherbergt die weltberühmte Joachim-Wagner-Orgel von 1723.", "Das Domstiftsarchiv ist eines der bedeutendsten in Ostdeutschland.", "Das Kirchenschiff wurde auf Pfahlgründungen im feuchten Moorgrund errichtet."],
       hu: [
         "A(z) Brandenburger Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -325,13 +325,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The abbey was founded in 1258.", "It is one of the finest examples of North German brick Gothic.", "Karl Friedrich Schinkel led the first restoration works.", "The Chorin Music Summer is an annual concert series held in the ruins."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kloster Chorin ist eines der bedeutendsten Baudenkmäler der frühen Backsteingotik in Norddeutschland. Die ehemalige Zisterzienserabtei wurde 1273 gegründet und besticht durch ihre architektonische Klarheit und die kunstvolle Verwendung roter Backsteine. Die Westfassade der Klosterkirche gilt als Meisterwerk mittelalterlicher Baukunst. Nach der Säkularisierung im 16. Jahrhundert verfiel die Anlage teilweise, wurde aber im 19. Jahrhundert von Karl Friedrich Schinkel als romantisches Denkmal wiederentdeckt und gesichert. Heute ist Chorin nicht nur ein Magnet für Architekturfreunde, sondern auch ein Ort hochkarätiger Kulturveranstaltungen wie des Choriner Musiksommers, eingebettet in das Biosphärenreservat Schorfheide-Chorin. Kunstgeschichte K6 – Zisterzienserarchitektur und Backsteingotik.",
       hu: "A(z) Kloster Chorin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Chorin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1273 durch brandenburgische Markgrafen.", "Wichtigstes Beispiel der frühen Backsteingotik in der Mark.", "Die Westfassade ist ein Musterbeispiel für mittelalterliche Geometrie.", "Nach 1542 als landwirtschaftliches Domänengut und Steinbruch genutzt.", "Restaurierung ab 1817 unter Leitung von Karl Friedrich Schinkel.", "Veranstaltungsort des berühmten 'Choriner Musiksommers'."],
       hu: [
         "A(z) Kloster Chorin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -363,13 +363,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Frederick the Great lived at Rheinsberg from 1736 to 1740.", "The palace is reflected in the Grienericksee.", "Kurt Tucholsky immortalized Rheinsberg in a novel of the same name.", "The palace today hosts a music theatre festival."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Schloss Rheinsberg im Norden Brandenburgs gilt als Musterbeispiel für den preußischen Rokoko und als Schicksalsort Friedrichs des Großen. Hier verbrachte er als Kronprinz seine glücklichsten Jahre und entwickelte zusammen mit dem Architekten Knobelsdorff die Visionen, die später in Sanssouci ihre Vollendung fanden. Das Schloss liegt malerisch direkt am Grienericksee und ist durch seine symmetrische Bauweise mit den zwei Rundtürmen markant. Berühmt wurde Rheinsberg auch durch Kurt Tucholskys Erzählung 'Rheinsberg: Ein Bilderbuch für Verliebte' sowie durch die Erwähnung in Fontanes Wanderungen. Heute beherbergt das Schloss zudem ein bedeutendes Opernhaus und ist ein Zentrum für junge Opernsänger. Geschichte K7 – Friedrich der Große und die rheinsberger Aufklärung.",
       hu: "A(z) Schloss Rheinsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Rheinsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Residenz Friedrichs des Großen als Kronprinz von 1736 bis 1740.", "Gilt als architektonisches Vorbild für Schloss Sanssouci in Potsdam.", "Diente im 18. Jahrhundert als bedeutendes Zentrum für Musik und Literatur.", "Literarisch verewigt durch Kurt Tucholsky im Jahr 1912.", "Sitz der Kammerakademie Potsdam und des Bundes- und Landesmusikakademie.", "Der Garten wurde als einer der ersten in Deutschland zum Landschaftspark umgestaltet."],
       hu: [
         "A(z) Schloss Rheinsberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -401,13 +401,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Spreewald area has about 1,500 km of waterways.", "It has been a UNESCO Biosphere Reserve since 1991.", "Spreewald cucumbers are a protected regional product.", "The Sorbs preserve their unique culture in the Spreewald."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Eine Kahnfahrt im Spreewald ist ein weltweit einzigartiges Kulturerlebnis in einer faszinierenden Wasserlandschaft. Inmitten des UNESCO-Biosphärenreservats verzweigt sich die Spree in über 300 schmale Kanäle, die sogenannten Fließe. Die traditionellen Holzkähne werden von den Fährleuten mit langen Rudelstangen (Rudel) fast lautlos durch das Labyrinth geschoben. Historisch waren diese Kähne die einzige Möglichkeit, Personen und Güter zwischen den oft nur über Wasser erreichbaren Gehöften zu transportieren. Für die sorbische/wendische Minderheit ist der Kahn bis heute ein Symbol ihrer Identität. Besucher erleben auf dem Wasser eine verwunschene Erlenbruchwald-Natur und erfahren viel über die traditionelle Lebensweise in der Lagunenlandschaft. Sachkunde K3 – Traditionelle Verkehrsmittel und Naturerfahrung.",
       hu: "A(z) Spreewald Kahnfahrt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald Kahnfahrt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Traditionelles Fortbewegungsmittel seit hunderten von Jahren.", "Die Kähne werden mit einer ca. 4 Meter langen Esche-Stange (Rudel) bewegt.", "Hauptzentren für Abfahrten sind Lübbenau, Lehde und Burg.", "Früher wurden sogar Post und Vieh ausschließlich per Kahn transportiert.", "In Lehde gibt es das einzige Gurkenmuseum Deutschlands direkt am Fließ.", "Spreewaldkähne haben keinen Kiel und einen extrem flachen Boden."],
       hu: [
         "A(z) Spreewald Kahnfahrt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -439,13 +439,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Beelitz is Germany's oldest asparagus growing region.", "Cultivation has been ongoing for over 130 years.", "Beelitz asparagus holds an EU-protected geographical indication.", "Over 2,000 tonnes of asparagus are harvested annually."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Beelitzer Spargel ist weit über die Grenzen Brandenburgs hinaus ein Inbegriff für höchste Qualität und kulinarische Tradition. Das Anbaugebiet rund um die Stadt Beelitz profitiert von den lockeren, sandigen Böden der Zauche, die sich perfekt für den Anbau des 'Edelgemüses' eignen. Bereits 1861 wurde hier der erste Spargel professionell kultiviert. Von April bis Juni prägen die typischen Folientunnel und Erdwälle das Landschaftsbild. Beelitz ist heute das größte zusammenhängende Spargelanbaugebiet Brandenburgs und ein bedeutender Wirtschaftsfaktor. Während der Saison locken Spargelhöfe und Museen zehntausende Besucher an, die die Erntehelfer bei ihrer mühsamen Handarbeit beobachten und den frisch gestochenen Spargel genießen können. Geographie K7 – Spezialisierte Landwirtschaft und regionale Vermarktung.",
       hu: "A(z) Beelitzer Spargel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Beelitzer Spargel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes zusammenhängendes Spargelanbaugebiet in Ostdeutschland.", "Produktion auf einer Fläche von rund 1.500 Hektar.", "Gegründet durch den Beelitzer Ackerbürger Karl Friedrich Wilhelm Herrmann.", "Beherbergt das einzige Spargelmuseum in Brandenburg.", "Erntezeit (Spargelsaison) endet traditionell am Johannistag (24. Juni).", "Der 'Beelitzer Spargel' ist als geschützte geografische Angabe eingetragen."],
       hu: [
         "A(z) Beelitzer Spargel területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -477,13 +477,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Spreewald cucumbers hold an EU-protected geographical indication.", "Over 40,000 tonnes are processed annually.", "The cucumbers are offered in over 30 different varieties.", "The cucumber festival in Golßen celebrates the harvest annually."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Spreewälder Gurken sind eine weltweit bekannte Spezialität und das kulinarische Markenzeichen Brandenburgs. Seit dem 16. Jahrhundert werden Gurken in der mineralstoffreichen Moorniederung des Spreewalds angebaut. Die Veredelung mit geheimen Rezepturen aus Kräutern, Gewürzen und Zwiebeln in großen Fässern hat eine lange Tradition. Ob Salzgurke, Senfgurke oder Gewürzgurke – die Qualität ist durch die EU als geschützte geografische Angabe (g.g.A.) streng zertifiziert. Für die Region ist der Gurkenanbau ein bedeutender Wirtschaftsfaktor, der eng mit dem Tourismus verknüpft ist. Der Spreewald-Gurkenradweg verbindet die Anbauflächen mit den traditionsreichen Einlegereien und bietet Einblicke in die moderne Lebensmittelverarbeitung. Wirtschaft K7 – Spezialitäten und Herkunftsschutz in der Landwirtschaft.",
       hu: "A(z) Spreewald-Gurken egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Spreewald-Gurken ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Geschützte geografische Angabe (g.g.A.) seit März 1999.", "Anbau von rund 40.000 Tonnen Gurken pro Jahr im Spreewald.", "Traditionelle Verarbeitung in großen Bottichen mit bis zu 10.000 Litern.", "Die berühmte 'Gurkenmeile' in Lübbenau ist ein Touristenmagnet.", "Beinhaltet Sorten wie die Spreewälder Salz-Dill-Gurken und Senfgurken.", "Über 2.000 Hektar landwirtschaftliche Fläche werden für den Anbau genutzt."],
       hu: [
         "A(z) Spreewald-Gurken területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -515,13 +515,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Babelsberg was founded in 1912.", "Classics such as 'Metropolis' were filmed here.", "It is Europe's largest film studio.", "International productions like 'Inglourious Basterds' were shot here."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Filmpark Babelsberg in Potsdam ist Teil der ältesten Großfilmstudios der Welt und ein faszinierendes Ausflugsziel für Cineasten. In Babelsberg wurde Filmgeschichte geschrieben – von Stummfilmklassikern wie 'Metropolis' bis hin zu modernen Hollywood-Produktionen wie 'Inglourious Basterds'. Der Filmpark ermöglicht einen Blick hinter die Kulissen der Traumfabrik: Stunt-Shows, Kulissen aus bekannten Filmen wie 'GZSZ' oder das 'Ganseliesel'-Dorf entführen Besucher in die Welt der Illusionen. Besonders beeindruckend ist das Atelier der Traumwerker, wo Maskenbildner und Kostümbildner ihr Handwerk zeigen. Babelsberg ist das Herz des Medienstandortes Deutschland und ein Symbol für die künstlerische Innovationskraft Brandenburgs. Geschichte K8 – Filmgeschichte und Medientechnologie im 20. Jahrhundert.",
       hu: "A(z) Filmpark Babelsberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Filmpark Babelsberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Standort der ältesten Großfilmstudios weltweit (gegründet 1912).", "Hier entstanden Meilensteine wie 'Der Blaue Engel' mit Marlene Dietrich.", "Studio Babelsberg umfasst 21 moderne Filmstudios auf 46 Hektar.", "Der Filmpark zeigt Originalkulissen aus der Serie 'Gute Zeiten, schlechte Zeiten'.", "Zentrum des ersten UNESCO Creative City of Film in Deutschland.", "Besitzt eine der größten Stunt-Arenen in ganz Europa."],
       hu: [
         "A(z) Filmpark Babelsberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -553,13 +553,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Frankfurt (Oder) borders Poland directly.", "Viadrina University was founded in 1506.", "The Oder river separates and connects Germany and Poland.", "Heinrich von Kleist was born in Frankfurt (Oder)."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Frankfurt (Oder) im Osten Brandenburgs ist eine Stadt an der Schnittstelle zweier Kulturen und ein bedeutender Wissenschaftsstandort. Durch ihre Lage direkt an der Oder, die hier die Grenze zu Polen bildet, fungiert die Stadt als Tor nach Osteuropa. Die 1991 wiedergegründete Europa-Universität Viadrina prägt das internationale Flair und die enge Zusammenarbeit mit der polnischen Nachbarstadt Słubice. Historisch war Frankfurt eine reiche Hansestadt und ein Zentrum des Buchdrucks und Handels. Das markante Rathaus und die gotische Marienkirche mit ihren Glasmalereien zeugen von dieser Blütezeit. Die Stadt ist zudem als Geburtsort des Dichters Heinrich von Kleist bekannt und beherbergt das bedeutende Kleist-Museum. Geschichte K7 – Hanseatische Tradition und moderne Grenzzusammenarbeit.",
       hu: "A(z) Frankfurt (Oder) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankfurt (Oder) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bedeutende Hansestadt an der Oder seit dem 14. Jahrhundert.", "Sitz der Europa-Universität Viadrina mit Studenten aus über 100 Ländern.", "Die Marienkirche besitzt die größten mittelalterlichen Glasmalereien Deutschlands.", "Geburtsstadt des bedeutenden Dichters Heinrich von Kleist (1777).", "Bildet zusammen mit dem polnischen Słubice eine Europastadt.", "Wichtiger Standort für die Solarindustrie und Mikroelektronik."],
       hu: [
         "A(z) Frankfurt (Oder) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -593,13 +593,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Magdeburg has approximately 238,000 inhabitants.", "Construction of the cathedral began in the 13th century.", "Magdeburg was almost completely destroyed in the Thirty Years' War in 1631.", "Otto the Great was buried in Magdeburg."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Magdeburg, die Hauptstadt Sachsen-Anhalts, blickt auf eine über 1.200-jährige Geschichte als Kaiserresidenz und Hansestadt zurück. Otto der Große, der erste Kaiser des Heiligen Römischen Reiches, machte Magdeburg zu seinem Lieblingsort, wovon der imposante Dom St. Mauritius und St. Katharina – der erste gotische Dom auf deutschem Boden – zeugt. Die Stadt war zudem Schauplatz wegweisender Experimente durch Otto von Guericke. Heute besticht Magdeburg durch eine Mischung aus historischem Erbe und moderner Architektur, wie Hundertwassers 'Grüner Zitadelle'. Als bedeutender Binnenhafen und Wissenschaftsstandort hat sich die Stadt zu einem dynamischen Zentrum an der Elbe entwickelt. Geschichte K6 – Das Heilige Römische Reich unter den Ottonen.",
       hu: "A(z) Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Residenzstadt Ottos des Großen und Sitz des Erzbistums seit 968.", "Der Magdeburger Dom beherbergt die Grablege des Kaisers Otto I.", "Berühmt für die 'Magdeburger Halbkugeln' des Erfinders Otto von Guericke.", "Besitzt mit der 'Grünen Zitadelle' das letzte Bauwerk von Friedensreich Hundertwasser.", "Wichtigster Elbhafen in Sachsen-Anhalt und logistisches Drehkreuz.", "Diente im Mittelalter als Namensgeber für das verbreitete 'Magdeburger Recht'."],
       hu: [
         "A(z) Magdeburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -631,13 +631,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Georg Friedrich Händel was born in Halle in 1685.", "Martin Luther University was founded in 1694.", "Halle was an important salt centre for centuries.", "The city has a vibrant arts scene."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Halle an der Saale ist eine Stadt der Kunst, Kultur und Wissenschaft mit einer über 1.000-jährigen Salztradition. Der Reichtum aus den Solequellen machte Halle im Mittelalter zu einer wohlhabenden Hansestadt. Das Wahrzeichen der Stadt ist der Marktplatz mit den fünf Türmen der Marktkirche und dem Roten Turm. Halle ist zudem die Geburtsstadt des Komponisten Georg Friedrich Händel, dessen Erbe alljährlich mit den Händel-Festspielen gefeiert wird. Mit der Leopoldina, der ältesten naturwissenschaftlichen Akademie der Welt, ist die Stadt ein internationales Zentrum der Forschung. Das fast vollständig erhaltene historische Stadtbild und die lebendige Kunsthochschule Burg Giebichenstein verleihen Halle ein einzigartiges Flair. Geschichte K7 – Salzhandel und hanseatische Handelsgeschichte.",
       hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország Halle, város Észak-Rajna-Vesztfália tartományban, Németország Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban Halle, város Belgiumban Halle, kanton Belgium Halle-Vilvoorde járásában Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Älteste wissenschaftliche Akademie der Welt (Leopoldina) hat hier ihren Sitz.", "Geburtsstadt des Weltkomponisten Georg Friedrich Händel (1685).", "Wahrzeichen: Die vier Türme der Marktkirche Unser Lieben Frauen.", "Beherbergt die 'Himmelsscheibe von Nebra' im Landesmuseum für Vorgeschichte.", "Historisches Zentrum der Salzgewinnung durch die Bruderschaft der Halloren.", "Größte Stadt in Sachsen-Anhalt und bedeutender Hochschulstandort."],
       hu: [
         "A(z) Halle (Saale) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -669,13 +669,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Bauhaus relocated to Dessau in 1925.", "Walter Gropius founded the Bauhaus in 1919.", "The Dessau-Wörlitz Garden Kingdom has been a UNESCO World Heritage site since 2000.", "Dessau-Roßlau lies in the Middle Elbe Biosphere Reserve."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Dessau-Roßlau ist weltweit berühmt als Wirkungsstätte des Bauhauses, der bedeutendsten Schule für Architektur und Design des 20. Jahrhunderts. Die Bauhausbauten von Walter Gropius gehören zum UNESCO-Weltkulturerbe und ziehen Besucher aus aller Welt an. Doch Dessau bietet weit mehr: Das Dessau-Wörlitzer Gartenreich ist ein einzigartiges Beispiel für die Aufklärung und Gartenkunst des 18. Jahrhunderts und ebenfalls UNESCO-Welterbe. Die Stadt an der Mündung der Mulde in die Elbe vereint somit moderne Radikalität mit klassischer Harmonie. Dessau ist zudem ein wichtiger Standort der Luftfahrtgeschichte (Hugo Junkers) und heute ein modernes Verwaltungszentrum in Sachsen-Anhalt. Kunstgeschichte K8 – Bauhaus-Moderne und Aufklärung im Gartenreich.",
       hu: "A(z) Dessau-Roßlau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dessau-Roßlau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Heimat des berühmten Bauhaus-Gebäudes (UNESCO-Welterbe seit 1996).", "Zentrum des Dessau-Wörlitzer Gartenreiches mit prachtvollen Parks.", "Wirkungsstätte von Hugo Junkers, dem Pionier des Ganzmetallflugzeugbaus.", "Sitz des Umweltbundesamtes in einem preisgekrönten ökologischen Neubau.", "Beherbergt die Meisterhäuser der Künstler Kandinsky und Klee.", "Das Anhaltische Theater Dessau ist eines der größten Bühnenhäuser der Region."],
       hu: [
         "A(z) Dessau-Roßlau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -707,13 +707,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Elbe is 1,091 km long.", "Magdeburg lies directly on the Elbe.", "The Middle Elbe Biosphere Reserve protects the floodplain landscape.", "The Elbe served as a trade route for centuries."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Elbe prägt Sachsen-Anhalt als mächtige Wasserstraße und wertvoller Naturraum auf einer Länge von rund 300 Kilometern. Einzigartig ist das UNESCO-Biosphärenreservat Mittelelbe, das eine der letzten naturnahen Auenlandschaften Mitteleuropas schützt. Hier finden Biber, Seeadler und seltene Pflanzenarten einen geschützten Lebensraum. Historisch war die Elbe die Hauptschlagader für den Handel in Magdeburg und Wittenberg. Das Wasserstraßenkreuz Magdeburg, an dem der Mittellandkanal die Elbe in einer Trogbrücke überquert, ist ein Meisterwerk der Ingenieurskunst. Die Elbe ist heute ein Symbol für die Verbindung von hochmoderner Logistik und strengem Naturschutz. Geographie K7 – Flussökologie und Wasserbautechnik an der Elbe.",
       hu: "A(z) Elbe (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbe (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Durchfließt Sachsen-Anhalt auf einer Länge von ca. 300 Kilometern.", "Kernzone des UNESCO-Biosphärenreservats Mittelelbe.", "Heimat des Elbebibers, der hier erfolgreich vor dem Aussterben gerettet wurde.", "Das Wasserstraßenkreuz Magdeburg ist die größte Kanalbrücke Europas.", "Wichtiger Schifffahrtsweg für die Verbindung Hamburg-Magdeburg-Prag.", "Die Elbauen dienen als natürliche Retentionsflächen bei Hochwasser."],
       hu: [
         "A(z) Elbe (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -745,13 +745,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Saale is 413 km long.", "The Saale valley is a well-known wine-growing region.", "Naumburg am Dom lies directly on the Saale.", "The Saale flows into the Elbe at Barby."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Saale ist der zweitlängste Nebenfluss der Elbe und prägt im Süden Sachsen-Anhalts eine der faszinierendsten Kulturlandschaften Deutschlands. Besonders bekannt ist das Saale-Unstrut-Gebiet, das nördlichste Qualitätsweinbaugebiet Deutschlands, wo an steilen Muschelkalkhängen seit über 1.000 Jahren Wein kultiviert wird. Die Flusslandschaft ist gesäumt von imposanten Burgen wie der Rudelsburg und historischen Städten wie Naumburg und Halle. Die Saale windet sich hier durch tiefe Täler und bietet spektakuläre Ausblicke auf weiße Felsen. Der Fluss war jahrhundertelang der Transportweg für die Salzproduktion in Halle und ist heute ein beliebtes Ziel für Wasserwanderer und Radfahrer. Geographie K7 – Flusslandschaften und Weinbauökologie.",
       hu: "A(z) Saale (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saale (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Mündet bei Barby nach 413 Kilometern in die Elbe.", "Das Saale-Unstrut-Tal ist berühmt für seinen Weinbau auf Muschelkalk.", "Passiert die historische Stadt Naumburg mit ihrem UNESCO-Dom.", "Die Saale-Burgen-Route verbindet über 30 historische Festungsanlagen.", "Wichtiger Standort für die historische Salzschifffahrt der Halloren.", "Der Saaleradweg gehört zu den anspruchsvollsten Flussradwegen Deutschlands."],
       hu: [
         "A(z) Saale (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -783,13 +783,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Arendsee is 28 m deep.", "It was probably formed by a medieval subsidence.", "The water is exceptionally clear and nutrient-poor.", "It is a popular diving area in northern Germany."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Arendsee in der Altmark ist mit einer Tiefe von bis zu 50 Metern der größte und tiefste natürliche See in Sachsen-Anhalt. Er ist kein gewöhnlicher See, sondern ein Einbruchsee, der durch das Einstürzen eines unterirdischen Salzstocks vor tausenden Jahren entstand. Das kristallklare Wasser und die unberührte Natur machen ihn zu einer Perle Norddeutschlands. Die Stadt Arendsee am Ufer blickt auf eine lange Tradition als Luftkurort zurück. Ein technisches Denkmal ist das Schaufelradschiff 'Queen Arendsee', das Fahrgäste über das Gewässer bringt. Der See ist zudem für seine seltenen Fischarten wie die Große Maräne bekannt und ein Magnet für Taucher und Segler in der Region. Geographie K6 – Geologische Einbruchsseen und regionale Limnologie.",
       hu: "A(z) Arendsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Arendsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Tiefster natürlicher See in Sachsen-Anhalt (max. 50 Meter).", "Entstanden durch Subrosion (Einsturz) eines Salzhutes im Untergrund.", "Besitzt eine fast kreisrunde Form mit ca. 5,1 km² Wasserfläche.", "Heimat der Maräne, einer seltenen und geschätzten Fischart.", "Bekannt als 'Perle der Altmark' und staatlich anerkannter Luftkurort.", "Das Kloster Arendsee am Ufer stammt aus dem 12. Jahrhundert."],
       hu: [
         "A(z) Arendsee területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -821,13 +821,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Brocken is 1,141 m high.", "It lies in the Harz National Park in Saxony-Anhalt.", "Walpurgis Night on 30 April is a popular festival.", "The Brocken railway runs from Wernigerode to the summit."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Brocken, auch Blocksberg genannt, ist mit 1.141 Metern der höchste Berg des Harzes und Sachsen-Anhalts. Er ist ein Ort voller Legenden und Schauplatz der Walpurgisnacht, wie sie Goethe im 'Faust' beschrieb. Aufgrund seiner exponierten Lage herrscht auf dem Gipfel ein extremes, fast alpines Klima mit viel Nebel und Wind. Während der deutschen Teilung war der Brocken militärisches Sperrgebiet und beherbergte mächtige Abhörstationen. Heute ist der Gipfel im Nationalpark Harz wieder frei zugänglich und mit der historischen Brockenbahn erreichbar. Die einzigartige Flora im Brockengarten schützt seltene Hochgebirgspflanzen, die hier seit der Eiszeit überlebt haben. Geographie K6 – Klimazonen der Mittelgebirge und Zeitgeschichte.",
       hu: "A(z) Brocken (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Brocken (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchster Gipfel in ganz Norddeutschland (1.141 m).", "Schauplatz der mystischen Walpurgisnacht am 30. April.", "Täglich mit den Dampfzügen der Brockenbahn erreichbar.", "Der Brocken-Sender war die erste Abhörstation der DDR-Staatssicherheit.", "Das 'Brockengespenst' ist ein hier oft beobachtetes optisches Phänomen.", "Heimat des Brockengartens mit über 1.500 Hochgebirgspflanzenarten."],
       hu: [
         "A(z) Brocken (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -859,13 +859,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Harz National Park was established in 1990.", "It covers 247 km².", "Lynxes were successfully reintroduced.", "The Brocken is the highest point in the park."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Nationalpark Harz schützt eine der wildesten Mittelgebirgslandschaften Deutschlands und erstreckt sich länderübergreifend über Niedersachsen und Sachsen-Anhalt. Hier darf sich die Natur nach dem Motto 'Natur Natur sein lassen' ohne menschliche Eingriffe entwickeln. Berühmt ist der Park für seine urigen Fichtenwälder, tiefen Moore und bizarren Granitklippen. Ein besonderer Erfolg des Naturschutzes ist die Wiederansiedlung des Luchses, der hier wieder eine Heimat gefunden hat. Für Wanderer bietet der Park mit dem Harzer-Hexen-Stieg ein unvergessliches Naturerlebnis. Die Region ist zudem ein wichtiges Trinkwasserreservoir für Norddeutschland und schützt wertvolle Bergwiesen mit einer enormen Artenvielfalt. Biologie K6 – Ökosystem Nationalpark und Artenschutz.",
       hu: "A(z) Nationalpark Harz (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nationalpark Harz (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Länderübergreifender Nationalpark (Niedersachsen & Sachsen-Anhalt).", "Umfasst eine Gesamtfläche von rund 24.700 Hektar Mittelgebirgswald.", "Erfolgreiches Wiederansiedlungsgebiet für den Europäischen Luchs.", "Beherbergt die höchsten Hochmoore Deutschlands außerhalb der Alpen.", "Der Harzer-Hexen-Stieg gehört zu den besten Weitwanderwegen.", "Schützt wertvolle Buchen- und Fichtenurwälder in den Hochlagen."],
       hu: [
         "A(z) Nationalpark Harz (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -897,13 +897,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Luther nailed his theses on 31 October 1517.", "The Town Church is the oldest Reformation church.", "Philip Melanchthon also worked in Wittenberg.", "UNESCO World Heritage site since 1996."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Stadtkirche St. Marien in Lutherstadt Wittenberg ist das älteste Gebäude der Stadt und die Mutterkirche der Reformation. Hier predigte Martin Luther regelmäßig und setzte die reformatorischen Ideen in die Tat um. In dieser Kirche fand 1521 der erste evangelische Gottesdienst in deutscher Sprache und die erste Feier des Abendmahls in beiderlei Gestalt statt. Ein herausragendes Kunstwerk ist der Reformationsaltar von Lucas Cranach dem Älteren, der die Reformatoren als Zeitzeugen darstellt. Zusammen mit den anderen Luthergedenkstätten gehört die Stadtkirche zum UNESCO-Weltkulturerbe und ist ein Ort von welthistorischer Bedeutung für den Protestantismus. Geschichte K7 – Martin Luther und die Wittenberger Reformation.",
       hu: "Németország Lutherstadt Eisleben, település Németországban, Szász-Anhalt tartományban Lutherstadt Wittenberg, város Németországban, Szász-Anhalt tartományban A(z) Lutherstadt Wittenberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Predigtkirche Martin Luthers und UNESCO-Weltkulturerbe seit 1996.", "Ort der ersten evangelischen Taufe und Trauung (Luther und Katharina von Bora).", "Beherbergt den weltberühmten Flügelaltar von Lucas Cranach d. Ä.", "Das Taufbecken aus dem Jahr 1457 wurde von Hermann Vischer gegossen.", "Besitzt zwei weithin sichtbare Türme aus dem 14. Jahrhundert.", "Historischer Schauplatz der Einführung des deutschen Gottesdienstes."],
       hu: [
         "A(z) Lutherstadt Wittenberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -935,13 +935,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["UNESCO World Heritage site since 2018.", "The founder figure of Uta is world-famous.", "The cathedral was built in the 13th century.", "Naumburg lies on the Saale."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Naumburger Dom St. Peter und Paul ist ein Meisterwerk der Architektur und Bildhauerkunst des hohen Mittelalters und gehört seit 2018 zum UNESCO-Weltkulturerbe. Weltberühmt ist er vor allem für den Westchor mit den zwölf lebensgroßen Stifterfiguren des sogenannten Naumburger Meisters. Die Figur der Markgräfin Uta gilt als die 'schönste Frau des Mittelalters' und ist eine Ikone der europäischen Kunstgeschichte. Die Architektur des Doms markiert in einzigartiger Weise den Übergang von der Spätromanik zur Frühgotik. Die geschlossene mittelalterliche Ausstattung und die eindrucksvollen Glasmalereien machen den Dom zu einem der bedeutendsten Kulturgüter Europas. Kunstgeschichte K8 – Mittelalterliche Bildhauerkunst und Kathedralbau.",
       hu: "A(z) Naumburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Naumburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 2018 als Meisterwerk menschlicher Schöpferkraft.", "Die Stifterfigur 'Uta von Ballenstedt' ist eine Ikone der Bildhauerei.", "Besitzt zwei Chöre (Ost- und Westchor), was für Dome extrem selten ist.", "Die Lettner (Trennwände zwischen Chor und Schiff) sind meisterhaft verziert.", "Der Naumburger Meister ist ein namentlich unbekannter, genialer Bildhauer.", "Die ältesten Glasmalereien im Dom stammen aus der Zeit um 1250."],
       hu: [
         "A(z) Naumburger Dom területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -973,13 +973,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The disc is approximately 3,600 years old.", "It was illegally excavated in 1999.", "It is a UNESCO Memory of the World document.", "The original is at the State Museum of Prehistory in Halle."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Himmelsscheibe von Nebra ist der bedeutendste archäologische Fund des 21. Jahrhunderts und ein Schlüsseldokument für das astronomische Wissen der Menschheit vor 3.600 Jahren. Die kreisförmige Bronzescheibe mit Goldauflagen ist die weltweit älteste konkrete Darstellung des Kosmos und der Gestirne. Sie wurde 1999 von Raubgräbern auf dem Mittelberg bei Nebra entdeckt und ist heute das Herzstück des Landesmuseums für Vorgeschichte in Halle. Die Scheibe zeigt Sonne, Mond und Sterne, darunter die Plejaden, die zur Synchronisation des Mond- und Sonnenkalenders dienten. Dieses Wissen war für die prähistorische Landwirtschaft von existentieller Bedeutung. Geschichte K5 – Bronzezeit und frühe Himmelskunde.",
       hu: "A(z) Himmelsscheibe von Nebra egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Himmelsscheibe von Nebra ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltweit älteste Darstellung kosmischer Phänomene (ca. 1600 v. Chr.).", "Teil des UNESCO-Weltdokumentenerbes 'Memory of the World'.", "Gefunden auf dem Mittelberg (252 m) bei Nebra im Jahr 1999.", "Besteht aus Bronze mit Goldapplikationen für Sonne, Mond und Sterne.", "Diente als komplexes astronomisches Instrument für den Erntekalender.", "Das Besucherzentrum 'Arche Nebra' markiert den genauen Fundort."],
       hu: [
         "A(z) Himmelsscheibe von Nebra területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1011,13 +1011,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Bauhaus building was completed in 1926.", "UNESCO World Heritage site since 1996.", "Walter Gropius designed the building.", "The Bauhaus influenced design and architecture worldwide."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Bauhaus Dessau ist das weltweit bekannteste Bauwerk der klassischen Moderne und war von 1925 bis 1932 Sitz der berühmten Designschule. Entworfen von Walter Gropius, verkörpert es mit seiner Glasvorhangfassade und der funktionalen Trennung der Gebäudeteile die radikale Erneuerung der Architektur. Hier lehrten Künstler wie Kandinsky, Klee und Moholy-Nagy an der Vision einer neuen Gestaltung für den modernen Menschen. Zusammen mit den Meisterhäusern gehört das Ensemble zum UNESCO-Weltkulturerbe. Heute ist die Stiftung Bauhaus Dessau ein Ort der Forschung, Lehre und Gestaltung, der jährlich hunderttausende Besucher anzieht, die den Geist der Avantgarde hautnah erleben wollen. Kunstgeschichte K8 – Die Moderne und das Prinzip 'Form follows Function'.",
       hu: "A(z) Bauhaus Dessau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bauhaus Dessau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptsitz der Bauhaus-Schule unter Walter Gropius ab 1925.", "UNESCO-Weltkulturerbe seit 1996 als Ikone der Moderne.", "Markenzeichen ist die gläserne 'Curtain Wall' des Werkstättentraktes.", "Geburtsstätte zahlreicher Design-Klassiker (z. B. Freischwinger-Stühle).", "Beherbergt heute das neue Bauhaus-Museum Dessau im Stadtzentrum.", "In den Meisterhäusern lebten und arbeiteten die berühmtesten Bauhaus-Lehrer."],
       hu: [
         "A(z) Bauhaus Dessau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1049,13 +1049,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["The Magdeburg Borde is one of Germany's most fertile regions.", "Saxony-Anhalt is one of the largest sugar beet producers.", "Sugar beets are processed into sugar and bioethanol.", "Harvesting takes place in autumn."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Sachsen-Anhalt, insbesondere die fruchtbare Magdeburger Börde, ist das historische und moderne Zentrum des deutschen Zuckerrübenanbaus. Die tiefgründigen Lößböden der Region gehören zu den ertragreichsten Böden Deutschlands und boten bereits im 19. Jahrhundert ideale Bedingungen für das 'Weiße Gold'. Im Jahr 1801 wurde in Cunern die weltweit erste Rübenzuckerfabrik errichtet, was eine industrielle Revolution in der Landwirtschaft auslöste. Heute wird der Anbau durch hochmoderne Zuckerfabriken wie in Klein Wanzleben flankiert, die zu den leistungsfähigsten in Europa gehören. Die Zuckerrübe ist ein entscheidender Pfeiler für die regionale Wertschöpfung und die Ernährungsindustrie in Sachsen-Anhalt. Geographie K7 – Bodenfruchtbarkeit und industrielle Landwirtschaft.",
       hu: "A(z) Zuckerrübenanbau (Sachsen-Anhalt) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Zuckerrübenanbau (Sachsen-Anhalt) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Magdeburger Börde besitzt die besten Ackerböden Deutschlands (Bodenwertzahl 100).", "Weltweit erste Rübenzuckerfabrik wurde 1801 in der Region gegründet.", "Sachsen-Anhalt ist Spitzenreiter beim Ertrag pro Hektar bei Zuckerrüben.", "Zentrum der Züchtung neuer widerstandsfähiger Rübensorten (Klein Wanzleben).", "Der Rübenanbau legte den Grundstein für den Maschinenbau in Magdeburg.", "Nachhaltige Nutzung: Neben Zucker werden Bioethanol und Viehfutter erzeugt."],
       hu: [
         "A(z) Zuckerrübenanbau (Sachsen-Anhalt) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1087,13 +1087,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["UNESCO World Heritage site since 1994.", "Over 1,300 half-timbered houses are preserved.", "King Henry I was buried in Quedlinburg.", "The collegiate church has a 1,000-year history."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Quedlinburg am Nordrand des Harzes ist ein architektonisches Juwel von Weltrang und gehört seit 1994 zum UNESCO-Weltkulturerbe. Mit über 1.200 Fachwerkhäusern aus sechs Jahrhunderten besitzt die Stadt eines der größten geschlossenen Fachwerk-Ensembles Europas. Hoch über der Stadt thront der Schlossberg mit der romanischen Stiftskirche St. Servatius, einem Hauptwerk der Straße der Romanik. Hier liegt der erste deutsche König, Heinrich I., begraben. Quedlinburg war über Jahrhunderte ein kaiserliches Damenstift von enormem politischem Gewicht. Das historische Stadtbild ist nahezu lückenlos erhalten und vermittelt ein lebendiges Bild einer mittelalterlichen Königsresidenz. Geschichte K6 – Mittelalterliche Königsherrschaft und Fachwerkarchitektur.",
       hu: "Quedlinburg város Németországban, Szász-Anhalt szövetségi államban található. Európa egyik legjobban megmaradt középkori óvárosa, több mint 2100 favázas házzal és az Ottó kori fejedelmi központtal. A második világháborútól a Németország újraegyesítéséig az  NDK-hoz tartozott. A román kori és reneszánsz építészeti remekeket felvonultató óváros 1994 óta a világörökség része. A(z) Quedlinburg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1994 aufgrund seiner einzigartigen Altstadt.", "Besitzt über 1.200 denkmalgeschützte Fachwerkhäuser in der Innenstadt.", "Grablege von Heinrich I. (919–936), dem Begründer des deutschen Königtums.", "Der Domschatz von Quedlinburg gehört zu den bedeutendsten in Deutschland.", "Einstiges freiweltliches Damenstift mit politischer Unabhängigkeit.", "Das Rathaus besitzt eine Roland-Statue als Symbol für die Stadtrechte."],
       hu: [
         "Európa egyik legjobban megmaradt középkori óvárosa, több mint 2100 favázas házzal és az Ottó kori fejedelmi központtal.",
         "A román kori és reneszánsz építészeti remekeket felvonultató óváros 1994 óta a világörökség része.",
@@ -1125,13 +1125,13 @@ export const poiExtraDe3b: POI[] = [
       en: ["Leuna Works was founded in 1916.", "Synthetic fuel was developed here.", "Massive restructuring and modernisation after 1990.", "Today an important centre of the chemical industry."],
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Chemiedreieck Leuna-Buna in Sachsen-Anhalt ist einer der traditionsreichsten und heute modernsten Industriestandorte Europas. Seit über 100 Jahren wird hier industrielle Geschichte geschrieben – von der weltweit ersten Ammoniaksynthese in Leuna bis zur Entwicklung des synthetischen Kautschuks (Buna) in Schkopau. Nach 1990 erlebte der Standort eine gigantische Transformation und wurde zum modernsten Chemiepark Deutschlands ausgebaut. Heute produzieren hier über 100 internationale Unternehmen in engem Stoffverbund. Die Region ist ein Vorreiter bei der Entwicklung der grünen Chemie und der Wasserstoffwirtschaft. Leuna-Buna zeigt eindrucksvoll den Wandel von der Kohlechemie hin zur nachhaltigen Kreislaufwirtschaft. Geographie K7 – Industrielle Verbundstandorte und ökologische Erneuerung.",
       hu: "A(z) Chemiedreieck Leuna-Buna egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemiedreieck Leuna-Buna ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Einst Zentrum der weltweiten Produktion von synthetischem Benzin.", "Hier gelang 1913 die industrielle Ammoniaksynthese (Haber-Bosch-Verfahren).", "Buna-Werke in Schkopau erfanden den ersten brauchbaren Kunstkautschuk.", "Größter Chemiepark Deutschlands mit einer Fläche von 1.300 Hektar.", "Investition von über 6 Milliarden Euro in die Modernisierung seit 1990.", "Führender Standort für die Forschung an E-Fuels und grünem Wasserstoff."],
       hu: [
         "A(z) Chemiedreieck Leuna-Buna területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
