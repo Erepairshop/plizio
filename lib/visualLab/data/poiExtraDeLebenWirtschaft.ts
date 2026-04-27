@@ -21,13 +21,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["One of the most visited zoos in Germany.", "Famous for its great ape house.", "Home to over 1,200 animal species.", "Significant botanical collections."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Wilhelma in Stuttgart ist eine in Europa einzigartige Verbindung aus zoologischem Garten, botanischer Anlage und historischem Schlosspark. Ursprünglich ab 1846 als privater Rückzugsort für König Wilhelm I. von Württemberg im maurischen Stil erbaut, entwickelte sich das Areal nach dem Zweiten Weltkrieg zu einem modernen Zoo. Auf einer Fläche von rund 30 Hektar beherbergt die Wilhelma heute etwa 1.200 Tierarten und über 8.500 Pflanzenarten. Besonders beeindruckend ist der Maurische Garten mit seinen historischen Gebäuden und dem großen Seerosenteich. Als einziger Landeszoo Deutschlands verbindet er Denkmalschutz mit modernem Artenschutz. Sachkunde K3 – Lebensräume von Tieren und Pflanzen.",
       hu: "A(z) Wilhelma Stuttgart egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wilhelma Stuttgart ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1846 als königlicher Privatgarten im maurischen Baustil.", "Beherbergt rund 1.200 Tierarten und ca. 8.500 verschiedene Pflanzenarten.", "Die Parkanlage umfasst eine Gesamtfläche von etwa 30 Hektar.", "Das Menschenaffenhaus gilt als eines der modernsten seiner Art weltweit.", "Jährlich besuchen etwa 1,8 Millionen Menschen die Anlage in Stuttgart.", "Einzigartiger 'Maurischer Garten' mit historischer Architektur des 19. Jahrhunderts."],
       hu: [
         "A(z) Wilhelma Stuttgart területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -59,13 +59,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Over 100 attractions and shows.", "Multiple-time winner of the world's best theme park award.", "Features its own water world, 'Rulantica'.", "Welcomes over 5 million visitors per year."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Europa-Park in Rust ist der meistbesuchte Freizeitpark im deutschsprachigen Raum und weltweit führend in Sachen Innovation und Thematisierung. Seit seiner Eröffnung im Jahr 1975 durch die Familie Mack hat sich der Park auf eine Fläche von rund 95 Hektar ausgedehnt. Das Konzept basiert auf europäischen Themenbereichen, die mit originalgetreuer Architektur und landestypischer Gastronomie gestaltet sind. Mit über 100 Attraktionen, darunter 14 Achterbahnen wie der 'Silver Star' oder der innovative Multi-Launch-Coaster 'Voltron Nevera', bietet er Unterhaltung für alle Altersgruppen. Angeschlossen ist die Wasserwelt Rulantica sowie ein preisgekröntes Hotel-Resort. Geographie K7 – Tourismus und Freizeitwirtschaft in Europa.",
       hu: "Az Europa-Park egy témapark a németországi Baden-Württemberg tartományban található Rust településen. A park egy 95 hektáros területen helyezkedik el, és húsz tematikus zónában mintegy száz attrakciót kínál, köztük előadásokat és tizennégy hullámvasútat. A parkhoz tartozik továbbá hat szálloda, egy kemping, egy tipi-falu, egy mozi, valamint egy konferenciaközpont is. 2022-ben a látogatók száma elérte az 5,4 millió főt. A(z) Europa-Park Rust egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet am 12. Juli 1975 von Franz Mack und seinem Sohn Roland.", "Gesamtfläche des Parks beträgt heute etwa 95 Hektar.", "Verfügt über 14 Achterbahnen und über 100 verschiedene Attraktionen.", "Jährlich verzeichnet der Park über 6 Millionen Besucher.", "Eigener Wasserpark 'Rulantica' mit 32.600 m² Indoor-Fläche.", "Inhabergeführtes Familienunternehmen der Mack-Dynastie (Mack Rides)."],
       hu: [
         "2022-ben a látogatók száma elérte az 5,4 millió főt.",
         "A(z) Europa-Park Rust területén évente több mint 100 000 látogató fordul meg.",
@@ -97,13 +97,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to wolves, lynxes, and otters.", "Educational trail about forest ecology.", "Focuses on the conservation of native species.", "Open year-round."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Bayerwald-Tierpark Lohberg ist eine spezialisierte Einrichtung, die sich ausschließlich der heimischen Tierwelt des bayerisch-böhmischen Grenzgebirges widmet. Auf einem rund 10 Hektar großen Areal können Besucher etwa 100 Tierarten in weitläufigen, naturnah gestalteten Gehegen beobachten. Der 1989 gegründete Tierpark liegt am Fuße des Großen Arbers und bietet einen tiefen Einblick in die Biodiversität des Bayerischen Waldes. Zu den Highlights zählen die Gehege für Wölfe, Luchse, Fischotter und Elche. Durch den alten Baumbestand und die hügelige Landschaft wirkt der Rundweg wie eine Wanderung durch die Wildnis des Nationalparks. Biologie K6 – Ökosystem Wald und heimische Wildtiere.",
       hu: "A(z) Bayerwald-Tierpark Lohberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bayerwald-Tierpark Lohberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1989 mit Fokus auf die Fauna des Bayerischen Waldes.", "Die Anlage erstreckt sich über eine Fläche von rund 10 Hektar.", "Beherbergt ca. 100 Tierarten in rund 400 einzelnen Tieren.", "Einziger Zoo in der Oberpfalz, der ausschließlich heimische Arten zeigt.", "Der Rundweg durch den Park hat eine Länge von etwa 1,5 Kilometern.", "Erfolgreiche Zuchtprogramme für seltene Arten wie das Auerhuhn."],
       hu: [
         "A(z) Bayerwald-Tierpark Lohberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -135,13 +135,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Bird of prey flight demonstrations.", "Free-roaming fallow deer.", "Large adventure playground.", "Bears and wolves in naturalistic enclosures."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Wildpark Poing östlich von München ist für seine weitläufigen Freigehege und die naturnahe Gestaltung bekannt. Auf 57 Hektar Wald- und Wiesenfläche können Besucher einheimische Wildarten oft ohne trennende Zäune erleben. Der 1959 gegründete Park wurde mehrfach für seine Umweltbildung ausgezeichnet. Ein besonderes Erlebnis sind die Greifvogel-Flugvorführungen auf der großen Tribüne sowie das Bären- und Wolfsgehege. Die Gestaltung folgt einem 4 Kilometer langen Wanderweg, der durch verschiedene Biotope führt. Hier steht der direkte Kontakt zum Tier im Vordergrund, wobei das Füttern mit speziellem Parkfutter bei vielen Arten erlaubt ist. Sachkunde K3 – Heimische Waldtiere und ihre Lebensweise.",
       hu: "A(z) Wildpark Poing egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wildpark Poing ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1959 auf einem ehemaligen Waldgelände.", "Umfasst eine großzügige Fläche von etwa 57 Hektar.", "Beherbergt rund 50 verschiedene europäische Wildtierarten.", "Ausgezeichnet mit der Bayerischen Staatsmedaille für Umweltschutz.", "Der Rundwanderweg ist etwa 4 Kilometer lang und barrierefrei.", "Tägliche Greifvogel-Flugshows mit Adlern, Falken und Eulen."],
       hu: [
         "A(z) Wildpark Poing területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -173,13 +173,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The Great Tropical House is one of the world's tallest.", "Home to over 20,000 plant species.", "Features an on-site Botanical Museum.", "A major center for botanical research."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Botanische Garten Berlin in Dahlem zählt mit einer Fläche von über 43 Hektar und rund 20.000 Pflanzenarten zu den bedeutendsten botanischen Gärten der Welt. Er wurde zwischen 1897 und 1910 unter der Leitung von Adolf Engler angelegt, um die Flora der damaligen deutschen Kolonien und der Welt zu präsentieren. Das architektonische Meisterwerk der Anlage ist das Große Tropenhaus, eines der größten und höchsten freitragenden Gewächshäuser der Welt (25 Meter hoch). Neben den Schaugewächshäusern bietet das Freigelände eine Reise durch die Vegetationszonen der Nordhalbkugel, von den Alpen bis zum Kaukasus. Biologie K7 – Pflanzenmorphologie und globale Vegetationszonen.",
       hu: "A(z) Botanischer Garten Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Botanischer Garten Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet am ursprünglichen Standort 1679; Umzug nach Dahlem 1897.", "Gesamtfläche von 43 Hektar mit etwa 20.000 verschiedenen Pflanzenarten.", "Das Große Tropenhaus ist 60 Meter lang und 25 Meter hoch.", "Beherbergt das einzige Botanische Museum in Mitteleuropa.", "Die Gewächshausanlage umfasst insgesamt 15 Schauhäuser.", "Jährlich besuchen rund 500.000 Gäste die Berliner Anlage."],
       hu: [
         "A(z) Botanischer Garten Berlin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -211,13 +211,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to over 20,000 tropical plants.", "Simulated hourly thunderstorms with lightning.", "Deep-sea research submarine simulation.", "Tropical climate maintained year-round."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Biosphäre Potsdam ist eine Tropenerlebniswelt, die in einer ehemaligen Blumenhalle der Bundesgartenschau 2001 untergebracht ist. Auf rund 5.000 m² bietet die Halle ein authentisches Dschungelklima mit über 20.000 tropischen Pflanzen und rund 350 verschiedenen Tierarten. Besucher wandern über Pfade durch dichte Vegetation, vorbei an Wasserfällen und einem Schmetterlingshaus mit hunderten bunten Faltern. Ein besonderes Highlight ist das stündliche Tropengewitter mit Blitz und Donner. Die Anlage dient nicht nur der Naherholung, sondern vermittelt auch Wissen über den Schutz der Regenwälder und ökologische Zusammenhänge. Geographie K8 – Ökosystem tropischer Regenwald.",
       hu: "A(z) Biosphäre Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Biosphäre Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 2001 anlässlich der Bundesgartenschau in Potsdam.", "Bietet rund 5.000 m² Fläche unter einer beeindruckenden Glaskonstruktion.", "Heimat für über 20.000 tropische Pflanzen und ca. 350 Tierarten.", "Integriertes Schmetterlingshaus mit rund 150 verschiedenen Arten.", "Verfügt über ein künstliches Tropencamp mit stündlicher Gewittersimulation.", "Ursprünglich auf einem ehemals militärisch genutzten Gelände errichtet."],
       hu: [
         "A(z) Biosphäre Potsdam területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -249,13 +249,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features a large demonstration garden.", "Home to rare breeds of farm animals.", "Host of the Brandenburg Agricultural Exhibition.", "Includes an adventure playground for children."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Erlebnispark Paaren (ehemals MAKK) in Paaren im Glien ist ein bedeutendes Zentrum für ländliches Brauchtum, Landwirtschaft und Freizeit in Brandenburg. Auf 22 Hektar vereint das Gelände einen Arche-Haustierpark, Schaugärten und große Veranstaltungshallen wie die Brandenburghalle. Ziel ist es, den Besuchern die bäuerliche Arbeitswelt und den Wert alter Haustierrassen näherzubringen. Der Park ist Schauplatz überregionaler Messen wie der BraLa (Brandenburgische Landwirtschaftsausstellung). Für Kinder gibt es große Spielplätze und Wasserspiele, während der Arche-Park seltene Rinder, Schafe und Schweine zeigt, die vom Aussterben bedroht sind. Geschichte K5 – Entwicklung der Landwirtschaft in der Region.",
       hu: "A(z) MAFZ Erlebnispark Paaren egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a MAFZ Erlebnispark Paaren ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1991 als Ausstellungs- und Freizeitzentrum.", "Das Gelände umfasst eine Gesamtfläche von etwa 22 Hektar.", "Beherbergt einen zertifizierten Arche-Haustierpark mit seltenen Nutztierrassen.", "Standort der jährlich stattfindenden BraLa-Landwirtschaftsmesse.", "Verfügt über einen 500 m² großen Wasserspielplatz für Kinder.", "Die Brandenburghalle bietet Platz für Veranstaltungen mit bis zu 5.000 Gästen."],
       hu: [
         "A(z) MAFZ Erlebnispark Paaren területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -287,13 +287,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Over 600 wild species and 3,000 hybrids.", "Spectacular blooming season in May.", "Interactive science exhibitions at botanika.", "Free admission to the park area."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Rhododendron-Park Bremen beherbergt mit über 600 Arten und 3.500 Sorten eine der weltweit bedeutendsten Sammlungen dieser Pflanzengattung. Auf 46 Hektar bietet der Park besonders zur Blütezeit im Mai ein spektakuläres Farbenmeer. Ein zentraler Teil der Anlage ist die 'botanika', ein Grünes Science Center, das in verschiedenen asiatischen Landschaften die Herkunft der Rhododendren zeigt. Hier können Besucher auch das zweitgrößte Buddha-Standbild außerhalb Asiens bewundern. Der Park verbindet wissenschaftliche Forschung mit ästhetischer Parkgestaltung und dient als wichtiges Zentrum für den Schutz seltener Pflanzenarten aus dem Himalaya und Japan. Sachkunde K4 – Pflanzenvielfalt und ferne Kulturen.",
       hu: "A(z) Rhododendron-Park Bremen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Rhododendron-Park Bremen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1933 auf privater Initiative hin.", "Umfasst eine Parkfläche von insgesamt 46 Hektar.", "Weltweit eine der größten Sammlungen mit ca. 600 Rhododendron-Arten.", "Die Erlebniswelt 'botanika' wurde im Jahr 2003 integriert.", "Besitzt eine 800 m² große Schauhausanlage für tropische Arten.", "Jährlich verzeichnet der Park rund 300.000 Besucher."],
       hu: [
         "A(z) Rhododendron-Park Bremen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -325,13 +325,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Animals kept in naturalistic habitats.", "Features a 45-meter Elbe View Tower.", "Daily flight demonstrations with birds of prey.", "Includes a petting area with pot-bellied pigs."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Wildpark Schwarze Berge in den Harburger Bergen bei Hamburg bietet auf 50 Hektar eine eindrucksvolle Mittelgebirgslandschaft mit heimischen Wildtieren. Seit der Gründung im Jahr 1969 hat sich der Park zu einem der beliebtesten Ausflugsziele Norddeutschlands entwickelt. Besucher können durch weitläufige Gehege für Wölfe, Bären und Luchse wandern oder Hängebauchschweine im Streichelzoo füttern. Ein Highlight ist der 45 Meter hohe Elbblickturm, der eine Fernsicht bis nach Hamburg bietet. Der Park legt großen Wert auf Umweltpädagogik und bietet tägliche Flugvorführungen sowie Schaufütterungen an, um das Bewusstsein für die heimische Fauna zu stärken. Biologie K6 – Räuber-Beute-Beziehungen in europäischen Wäldern.",
       hu: "A(z) Wildpark Schwarze Berge egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wildpark Schwarze Berge ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1969 in der hügeligen Landschaft der Harburger Berge.", "Die Gesamtfläche des Wildparks beträgt rund 50 Hektar.", "Beherbergt ca. 100 Tierarten mit insgesamt rund 1.000 Individuen.", "Der Elbblickturm ist 45 Meter hoch und bietet 213 Stufen zur Plattform.", "Besitzt ein Freigehege für Wölfe, das direkt am Rundweg liegt.", "Jedes Jahr besuchen etwa 350.000 Menschen den Park."],
       hu: [
         "A(z) Wildpark Schwarze Berge területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -363,13 +363,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The Palm House was opened in 1871.", "Showcases plants from nearly all climate zones.", "Boating is available on the park pond.", "A popular destination for families and tourists."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Palmengarten Frankfurt ist eine grüne Oase im Herzen der Mainmetropole und einer der renommiertesten botanischen Gärten Deutschlands. Gegründet 1871 durch die Bürger Frankfurts, besticht er durch das historische Gesellschaftshaus und das riesige Palmenhaus aus Eisen und Glas. Auf 22 Hektar zeigt der Garten Pflanzen aus allen Klimazonen der Erde, vom Regenwald bis zur Wüste. Besonders spektakulär ist das Tropicarium, ein modernes Gewächshaus-Ensemble, das verschiedene tropische Lebensräume nachbildet. Der Garten ist nicht nur ein Ort der Ruhe, sondern auch ein Zentrum für kulturelle Veranstaltungen wie das Lichterfest oder Open-Air-Konzerte. Geographie K7 – Klimazonen und ihre spezifische Vegetation.",
       hu: "A(z) Palmengarten Frankfurt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Palmengarten Frankfurt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1871 auf Initiative Frankfurter Bürger.", "Die Parkanlage erstreckt sich über ca. 22 Hektar Fläche.", "Beherbergt rund 13.000 verschiedene Pflanzenarten weltweit.", "Das historische Palmenhaus wurde 1869 als Stahl-Glas-Konstruktion erbaut.", "Das Tropicarium besteht aus acht klimatisch unterschiedlichen Gewächshäusern.", "Der Garten zieht jährlich rund 800.000 Besucher an."],
       hu: [
         "A(z) Palmengarten Frankfurt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -401,13 +401,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Founded by Georg von Opel.", "Home to a large elephant enclosure.", "Many animals are kept in walk-through areas.", "Includes an integrated forest nature trail."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Opel-Zoo in Kronberg im Taunus wurde 1956 von Georg von Opel als Freigehege für die Tierforschung gegründet. Auf 27 Hektar bietet der Zoo eine einzigartige Hanglage mit weitem Blick über das Rhein-Main-Gebiet. Bekannt ist der Park vor allem für seine Elefantenhaltung, die einzige in ganz Hessen. Die weitläufigen Gehege sind so gestaltet, dass die Tiere viel Bewegungsfreiheit haben, wie etwa in der 2013 eröffneten Afrika-Anlage für Giraffen und Zebras. Der Zoo finanziert sich fast ausschließlich durch Spenden und Eintrittsgelder und engagiert sich stark im internationalen Zuchtbuch für bedrohte Arten wie den Mesopotamischen Damhirsch. Biologie K7 – Artenschutz und Zuchtprogramme in Zoos.",
       hu: "A(z) Opel-Zoo Kronberg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Opel-Zoo Kronberg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1956 durch den Enkel des Firmengründers Adam Opel.", "Gesamtfläche von ca. 27 Hektar in landschaftlich reizvoller Taunuslage.", "Heimat für etwa 1.700 Tiere aus rund 200 verschiedenen Arten.", "Hält als einziger Zoo in Hessen Afrikanische Elefanten.", "Die Afrika-Savanne umfasst eine Fläche von 2,2 Hektar.", "Rund 580.000 Besucher kommen jährlich in den Kronberger Zoo."],
       hu: [
         "A(z) Opel-Zoo Kronberg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -439,13 +439,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Spacious forest enclosures for brown bears.", "Visitors can observe bears in a natural setting.", "Educational center for animal welfare.", "A project by the FOUR PAWS organization."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der BÄRENWALD Müritz bei Stuer ist das größte Bärenschutzzentrum Westeuropas und bietet ehemals schlecht gehaltenen Braunbären ein neues, artgerechtes Zuhause. Auf 16 Hektar naturbelassenem Mischwald können die Tiere ihre natürlichen Instinkte wiederentdecken, Höhlen graben und im Teich baden. Das Projekt der Tierschutzstiftung VIER PFOTEN ermöglicht es Besuchern, die Bären aus sicherer Entfernung bei ihrem neuen Leben zu beobachten, ohne sie dabei zu stören. Die Anlage ist kein Zoo im klassischen Sinne, sondern ein Refugium, in dem die Bären den Rest ihres Lebens unter professioneller Aufsicht verbringen können. Geschichte K5 – Tierschutz und Mensch-Tier-Beziehung.",
       hu: "A(z) Bärenwald Müritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bärenwald Müritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 2006 durch die Stiftung VIER PFOTEN.", "Das Schutzzentrum umfasst eine Waldfläche von 16 Hektar.", "Bietet Platz für bis zu 20 Braunbären aus Zirkus- oder privater Haltung.", "Westlich der Müritz gelegen, ist es das größte Zentrum dieser Art in Westeuropa.", "Der Park verzeichnet etwa 90.000 Besucher pro Jahr.", "Pädagogische Ausstellungen informieren über das Leben der Wildbären."],
       hu: [
         "A(z) Bärenwald Müritz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -477,13 +477,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features the impressive '1:1 Giants of the Seas' exhibit.", "Large aquariums for the North and Baltic Seas.", "Home to penguins on the roof terrace.", "Housed in an architecturally award-winning building."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das OZEANEUM in Stralsund ist ein preisgekröntes Museum, das sich der Meereskunde der nördlichen Weltmeere widmet. Der futuristische Bau am Hafen wurde 2008 eröffnet und ist Teil des Deutschen Meeresmuseums. In riesigen Aquarien werden die Lebensräume von der Ostsee über die Nordsee bis zum Nordatlantik nachgebildet. Das Highlight ist die Ausstellung '1:1 Riesen der Meere', in der lebensgroße Modelle von Walen in einer 20 Meter hohen Halle schweben. Besucher können zudem die Humboldt-Pinguine auf der Dachterrasse bewundern. Das OZEANEUM verbindet faszinierende Einblicke in die Unterwasserwelt mit wichtigen Botschaften zum Schutz der Ozeane. Geographie K8 – Ökosystem Meer und anthropogene Einflüsse.",
       hu: "A(z) OZEANEUM Stralsund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a OZEANEUM Stralsund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 2008 als vierter Standort des Deutschen Meeresmuseums.", "Umfasst 8.700 m² Ausstellungsfläche mit insgesamt 50 Aquarien.", "Das größte Becken 'Offener Atlantik' fasst 2,6 Millionen Liter Wasser.", "Das Modell des Blauwals in der Wale-Halle ist 26 Meter lang.", "Wurde im Jahr 2010 als 'Europas Museum des Jahres' ausgezeichnet.", "Rund 600.000 Menschen besuchen das Ozeaneum jährlich."],
       hu: [
         "A(z) OZEANEUM Stralsund területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -515,13 +515,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to 'Colossos', one of the tallest wooden roller coasters.", "Includes theme areas like 'Land of the Forgotten'.", "Features on-site adventure hotels.", "Offers over 40 different rides and attractions."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Heide Park Resort in Soltau ist Norddeutschlands größter Freizeitpark und bekannt für seine spektakulären Fahrgeschäfte inmitten der Lüneburger Heide. Seit 1978 bietet der Park Nervenkitzel für Adrenalin-Fans. Zu den bekanntesten Attraktionen gehört 'Colossos – Kampf der Giganten', eine der höchsten Holzachterbahnen der Welt. Auf rund 85 Hektar Fläche finden sich zudem Themenbereiche wie 'Bucht der Piraten' oder 'Drachenzähmen leicht gemacht'. Der Park hat sich von einer regionalen Attraktion zu einem internationalen Resort mit eigenem Abenteuerhotel und Holiday Camp entwickelt. Geographie K7 – Die Lüneburger Heide als Freizeit- und Tourismusregion.",
       hu: "A(z) Heide Park Resort egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Heide Park Resort ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet am 19. August 1978 auf dem Gelände eines ehemaligen Wildparks.", "Gesamtfläche des Resorts beträgt etwa 85 Hektar.", "Bietet über 40 Fahrgeschäfte, darunter 9 Achterbahnen.", "Die Holzachterbahn 'Colossos' ist 60 Meter hoch und 110 km/h schnell.", "Jährlich besuchen rund 1,7 Millionen Menschen das Heide Park Resort.", "Beherbergt mit 'Scream' einen der weltweit höchsten Gyro-Drop-Tower (71m Fall)."],
       hu: [
         "A(z) Heide Park Resort területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -553,13 +553,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to over 4,000 birds from 650 species.", "Features world-class bird flight shows.", "Focuses on breeding programs for endangered birds.", "Covers 24 hectares of parkland."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Weltvogelpark Walsrode ist der weltweit größte und artenreichste Vogelpark und liegt in der malerischen Lüneburger Heide. Auf 24 Hektar Parklandschaft können Besucher rund 4.000 Vögel aus über 650 Arten und allen Kontinenten erleben. Gegründet 1962, hat sich der Park zu einem bedeutenden Zentrum für den Artenschutz und die Nachzucht seltener Vögel entwickelt. Besonders beeindruckend sind die täglichen Flugshows auf einer der größten Freilichtbühnen Europas, bei denen Kondore, Adler und Papageien ihre Flugkünste zeigen. Die Anlage ist zudem für ihre prachtvolle Gartenarchitektur mit tausenden Rhododendren und Rosen bekannt. Biologie K7 – Vielfalt der Wirbeltiere: Fokus Vögel.",
       hu: "A(z) Weltvogelpark Walsrode egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Weltvogelpark Walsrode ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1962 durch den Kaufmann Fritz Geschke.", "Gesamtfläche von ca. 24 Hektar mit weitläufigen Volieren und Freianlagen.", "Beherbergt ca. 4.000 Vögel aus rund 650 verschiedenen Arten.", "Größter Vogelpark der Welt gemessen an Artenvielfalt und Fläche.", "Die Freiflughalle 'Pukara' ist eine der größten ihrer Art weltweit.", "Rund 300.000 Besucher kommen jedes Jahr nach Walsrode."],
       hu: [
         "A(z) Weltvogelpark Walsrode területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -591,13 +591,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Famous for its extremely detailed immersive worlds.", "Home to multiple award-winning roller coasters.", "Offers high-quality entertainment and shows.", "Includes several on-site themed hotels."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Phantasialand in Brühl bei Köln gehört zu den kreativsten und meistbesuchten Freizeitparks Europas. Auf einer vergleichsweise kompakten Fläche von 28 Hektar bietet der Park eine außergewöhnliche Dichte an weltweit einzigartigen Attraktionen, eingebettet in detailverliebte Themenwelten wie Klugheim, Rookburgh oder Afrika. Besonders berühmt ist der Multi-Launch-Coaster 'Taron', der durch eine künstliche Felsenlandschaft rast, sowie der Flying Coaster 'F.L.Y.'. Der Park ist bekannt dafür, dass Technik und Thematisierung perfekt miteinander verschmelzen, was ihm zahlreiche internationale Preise eingebracht hat. Geographie K7 – Bedeutung von Themenparks für den Regionaltourismus.",
       hu: "A(z) Phantasialand Brühl egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Phantasialand Brühl ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1967 in einem ehemaligen Braunkohle-Tagebau.", "Parkfläche umfasst ca. 28 Hektar, davon 12 Hektar reine Attraktionsfläche.", "Verzeichnet jährlich rund 2,1 Millionen Besucher (Stand 2023).", "Die Achterbahn 'Taron' hält zwei Weltrekorde für Multi-Launch-Coaster.", "Beherbergt den weltweit ersten Flying Launch Coaster namens 'F.L.Y.'.", "Wurde mehrfach als bester Freizeitpark Deutschlands ausgezeichnet."],
       hu: [
         "A(z) Phantasialand Brühl területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -629,13 +629,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Naturalistic enclosures without visible barriers.", "Includes a boat safari in the Africa section.", "Features a large polar bear area in the Alaska section.", "Offers an indoor playground for children."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die ZOOM Erlebniswelt in Gelsenkirchen ist einer der modernsten Zoos Deutschlands und setzt konsequent auf das Konzept der 'unsichtbaren' Barrieren. Auf 31 Hektar wurden die drei großen Themenwelten Alaska, Afrika und Asien geschaffen, in denen die Tiere in riesigen, naturnahen Lebensräumen wohnen. Der ehemalige Ruhr-Zoo wurde ab 2004 komplett umgestaltet und bietet heute Erlebnisse wie eine Bootsfahrt auf dem 'African Queen' oder einen Spaziergang durch einen Glastunnel unter der Seelöwenanlage. Ziel ist es, den Besuchern eine Weltreise an einem Tag zu ermöglichen und gleichzeitig Wissen über ökologische Zusammenhänge zu vermitteln. Geographie K7 – Landschaftszonen der Erde am Beispiel eines Erlebnisparks.",
       hu: "A Zoom 2015-ben bemutatott kanadai–brazil vegyes technikájú film, amelyben valós és számítógéppel animált díszletek, élő és számítógéppel animált szereplők közösen szerepelnek. A filmet Pedro Morelli rendezte. A forgatókönyvet Matthew Hansen írta. A producerei Niv Fichman, Fernando Meirelles és Paulo Morelli. A főszerepekben Gael García Bernal, Alison Pill, Mariana Ximenes, Tyler Labine és Jason Priestley láthatók. A film zeneszerzője Kid Koala. A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures. Műfaja filmvígjáték és filmdráma.  Kanadában 2015. szeptember 11-én, Brazíliában 2016. március 31-én mutatták be a mozikban. Magyarországon elsőként az HBO Gon volt elérhető.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet als Ruhr-Zoo 1949; Umbau zur ZOOM Erlebniswelt ab 2004.", "Das Gelände umfasst eine Gesamtfläche von ca. 31 Hektar.", "Beherbergt rund 100 Tierarten in großzügigen Landschaftsgehegen.", "Die Themenwelt 'Afrika' ist mit 14 Hektar die größte der Anlage.", "Jährlich verzeichnet der Zoo rund 840.000 Besucher.", "Besitzt eine der größten Schimpansenanlagen in Europa."],
       hu: [
         "A film gyártója a Rhombus és a O2 Filmes, forgalmazója az Elevation Pictures.",
         "szeptember 11-én, Brazíliában 2016.",
@@ -667,13 +667,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Expedition GeForce is consistently ranked among the world's best roller coasters.", "Features areas themed after Maya the Bee and Vicky the Viking.", "Known for its daily water ski shows.", "Member of the Plopsa entertainment group."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Holiday Park in Haßloch (Pfalz) ist einer der traditionsreichsten Freizeitparks Deutschlands und heute Teil der internationalen Plopsa-Gruppe. Auf 40 Hektar bietet der Park eine Mischung aus rasanten Achterbahnen und familienfreundlichen Themenbereichen wie dem 'Majaland'. Weltberühmt unter Adrenalin-Fans ist die Achterbahn 'Expedition GeForce', die mehrfach zur besten Achterbahn der Welt gewählt wurde. Der Park besticht durch seine waldreiche Lage und die Integration bekannter TV-Charaktere wie Biene Maja oder Wickie. Neben den Fahrgeschäften sind die täglichen Wasserski-Shows auf dem großen See ein Markenzeichen des Parks. Geographie K7 – Strukturwandel und Freizeitwirtschaft in Rheinland-Pfalz.",
       hu: "Zene Holiday, Alaska in Winter-album (2008) Holiday, America-album (1974) Holiday, Bee Gees-dal Holiday, Dilana-dal Holiday, Dizzee Rascal-dal Holiday, Green Day-dal Holiday, KSI-dal Holiday, Lil Nas X-dal Holiday, Madonna-dal Holiday, The Magnetic Fields-album (1999) Holiday, Naughty by Nature-dal Holiday, Russ Freeman-album (1995) Holiday, Roberta Flack-album (1997) Holiday, Sammi Cheng-album (1991) Holiday, Vampire Weekend-dal Holiday, Vanessa Amorosi-dal Holiday, Volkova Sisters-album (2015) Filmek Holiday, 1930-as amerikai film Holiday (The Holiday), 2006-os amerikai film A(z) Holiday Park Haßloch egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1971 durch die Familie Schneider.", "Gesamtfläche des Parks beträgt etwa 40 Hektar.", "Die Achterbahn 'Expedition GeForce' erreicht Geschwindigkeiten von 120 km/h.", "Gehört seit 2010 zur belgischen Themenparkgruppe Plopsa.", "Jährlich besuchen etwa 800.000 Menschen die Anlage in Haßloch.", "Beherbergt eine der größten Wasserski-Showbühnen in Europa."],
       hu: [
         "A(z) Holiday Park Haßloch területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -705,13 +705,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to over 200 wild animals, including bears and wolves.", "Features a summer toboggan run and many rides.", "Includes a bird of prey flight show.", "A perfect destination for families with children."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Eifelpark Gondorf verbindet das Konzept eines klassischen Wildparks mit dem eines modernen Freizeitparks. Auf einer weitläufigen Fläche von 75 Hektar in der Südeifel können Besucher sowohl Braunbären, Wölfe und Luchse beobachten als auch zahlreiche Fahrgeschäfte nutzen. Seit seiner Eröffnung im Jahr 1964 steht die Begegnung mit der heimischen Tierwelt im Vordergrund, wobei die Bärenschlucht eine der bekanntesten Anlagen ist. In den letzten Jahren wurde der Park um moderne Attraktionen wie Achterbahnen und Wasserfahrgeschäfte erweitert, ohne seinen ursprünglichen Naturcharakter zu verlieren. Die hügelige Topographie bietet zudem weite Ausblicke über die Eifellandschaft. Biologie K6 – Heimische Raubtiere und ihre Lebensräume.",
       hu: "A(z) Eifelpark Gondorf egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Eifelpark Gondorf ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1964 als erster Hochwildpark in Deutschland.", "Umfasst eine Gesamtfläche von ca. 75 Hektar im Kylltal.", "Heimat für rund 200 Tiere, darunter Bären, Wölfe und Rotwild.", "Der 'Eifel-Coaster' ist eine 715 Meter lange Sommerrodelbahn.", "Jährlich besuchen rund 220.000 Gäste den Park.", "Besitzt eine historische Falknerei mit täglichen Flugvorführungen."],
       hu: [
         "A(z) Eifelpark Gondorf területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -743,13 +743,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features the world's largest dinosaur show.", "Realistic prehistoric landscapes and environments.", "Includes interactive time-travel stations.", "An indoor attraction located at a former coal mine."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "GONDWANA – Das Praehistorium in Schiffweiler ist ein weltweit einzigartiger Indoor-Themenpark, der die Geschichte der Erde und ihrer Bewohner lebendig werden lässt. In aufwendig gestalteten Landschaften wandern Besucher durch die Erdzeitalter, vom Urknall bis zur Entstehung des Menschen. Das Highlight sind die lebensgroßen, teils animatronischen Dinosaurier, die in naturgetreuen Szenarien präsentiert werden. Ein besonderes Erlebnis ist die weltweit größte Dinosaurier-Show, bei der Giganten wie der Giganotosaurus aufeinandertreffen. Die Anlage nutzt modernste Medientechnik und 4D-Kinos, um wissenschaftliche Erkenntnisse über Evolution und Geologie spannend zu vermitteln. Geschichte K6 – Evolution des Lebens und Erdzeitalter.",
       hu: "Gondwana több jelentésben alkalmazott szó:  Gondwana, az egyik őskontinens, a déli szárazulatok összefoglaló neve Gondwana, India egyik kora újkori állama Gondwana, India egyik mai régiója, az előbbinek helyén Gondwana, az Antarktisz egyik kutatóállomása Gondwana, az ős- és ókori bemutató- és szórakoztatóközpont Gondwana Nemzeti Park, Dél-Afrikában Gondwana, chilei reggae-zenekar Gondwana, Ausztrália és Új-Kaledónia között lefektetett kommunikációs kábel Hasonló névvel:  Gondwanaland, ausztrál világzenét játszó zenekar Gondwanaland, a Steroid Maximus zenekar albuma A(z) Gondwana – Das Praehistorium egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 2008 auf dem Gelände der ehemaligen Grube Reden.", "Die Ausstellungsfläche umfasst rund 10.000 m² in klimatisierten Hallen.", "Beherbergt das weltweit größte Skelett eines Argentinosaurus.", "Nutzt modernste Robotertechnik für die Dinosaurier-Animationen.", "Verzeichnet jährlich rund 110.000 Besucher im saarländischen Schiffweiler.", "Bietet eine 4D-Simulation des urzeitlichen Riesenhais Megalodon."],
       hu: [
         "A(z) Gondwana – Das Praehistorium területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -781,13 +781,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to wolves from different parts of the world.", "Founded by behaviorist researcher Werner Freund.", "Offers free admission to the public.", "Public guided tours are available."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Wolfspark Werner Freund in Merzig ist eine weltweit renommierte Forschungseinrichtung und ein Wildpark, der sich ganz dem Studium von Wölfen widmet. Gegründet 1977 von dem Verhaltensforscher Werner Freund, wurde der Park berühmt durch dessen Methode, als 'Wolf unter Wölfen' mit den Tieren zu leben. Auf rund 8 Hektar Waldfläche leben verschiedene Wolfsrassen aus aller Welt, darunter Polarwölfe, Timberwölfe und europäische Grauwölfe. Ziel ist es, Vorurteile gegenüber dem Wolf abzubauen und sein komplexes Sozialverhalten zu erforschen. Nach dem Tod von Freund wird seine Arbeit von seiner langjährigen Mitarbeiterin Tatjana Schneider fortgeführt. Biologie K7 – Sozialstrukturen und Kommunikation bei Raubtieren.",
       hu: "A(z) Wolfspark Werner Freund egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wolfspark Werner Freund ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1977 durch den Wolfsforscher Werner Freund.", "Umfasst eine Fläche von ca. 8 Hektar im Merziger Kammerforst.", "Beherbergt etwa 20 bis 30 Wölfe in 7 verschiedenen Rudeln.", "Eintritt in den Park ist kostenfrei; Führungen finden monatlich statt.", "Jährlich besuchen rund 100.000 Menschen den Wolfspark.", "Zeigt Wölfe aus Europa, Kanada, der Mongolei und der Arktis."],
       hu: [
         "A(z) Wolfspark Werner Freund területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -819,13 +819,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features Germany's tallest slide tower.", "Home to over 200 animals in the wildlife area.", "Includes a massive indoor playground called 'In-Sola'.", "An ideal destination for family day trips."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Sonnenlandpark Lichtenau in Sachsen ist ein kombiniertes Ausflugsziel aus Freizeitpark, Wildpark und Indoor-Spielplatz. Seit der Eröffnung im Jahr 2006 hat sich das 30 Hektar große Areal zu einem der beliebtesten Familienziele der Region entwickelt. Besonders markant ist der 30 Meter hohe Rutschenturm, einer der höchsten Deutschlands, sowie das weithin sichtbare Riesenrad. Im angrenzenden Wildpark können Besucher über 200 Tiere wie Hirsche und Steinböcke beobachten. Durch die wetterunabhängige Indoor-Halle 'IN-Sola' und die winterlichen Lichterfeste ist der Park das ganze Jahr über attraktiv. Sachkunde K3 – Freizeitgestaltung und Naturerfahrung im lokalen Umfeld.",
       hu: "A(z) Sonnenlandpark Lichtenau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Sonnenlandpark Lichtenau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet am 24. Juni 2006 im sächsischen Lichtenau bei Chemnitz.", "Gesamtfläche der Anlage beträgt ca. 30 Hektar.", "Der Rutschenturm ist 30 Meter hoch und bietet 11 verschiedene Rutschen.", "Der Wildpark beherbergt über 200 Tiere in weitläufigen Freigehegen.", "Verfügt über eine Ganzjahres-Indoorspielwelt auf über 1.000 m².", "Das Riesenrad bietet einen Panoramablick bis in das Erzgebirge."],
       hu: [
         "A(z) Sonnenlandpark Lichtenau területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -857,13 +857,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Showcases life-sized dinosaur reconstructions.", "Includes hands-on interactive stations for kids.", "Features an adjacent maze/labyrinth.", "An exciting journey into the prehistoric past."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Saurierpark Kleinwelka bei Bautzen ist Deutschlands bekanntester Dinosaurierpark und nimmt Besucher mit auf eine Reise in die Urzeit. Auf 16 Hektar Waldfläche finden sich über 200 lebensgroße Modelle von Urzeitriesen, die nach neuesten wissenschaftlichen Erkenntnissen gestaltet wurden. Die Ursprünge des Parks gehen auf den Bildhauer Franz Gruß zurück, der 1981 mit den ersten Modellen begann. Heute bietet der Park neben den beeindruckenden Statuen auch interaktive Stationen wie das Mitoseum (Eingangsgebäude), ein Forschercamp und einen galaktischen Spielplatz. Er vermittelt anschaulich Wissen über das Aussterben der Saurier und die Entstehung des Lebens. Geschichte K6 – Paläontologie und die Ära der Dinosaurier.",
       hu: "A(z) Saurierpark Kleinwelka egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Saurierpark Kleinwelka ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1981 (erste Modelle) durch Franz Gruß.", "Umfasst eine Parkfläche von insgesamt ca. 16 Hektar.", "Zeigt über 200 lebensgroße Dinosaurier-Modelle und Urzeittiere.", "Das 'Mitoseum' ist ein architektonisch preisgekrönter Bau am Eingang.", "Jährlich besuchen rund 200.000 Gäste den Park in Sachsen.", "Bietet eine Kletterwelt im 'Jura-Dschungel' für Kinder."],
       hu: [
         "A(z) Saurierpark Kleinwelka területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -895,13 +895,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features old oak trees throughout the park.", "Includes a large walk-through kangaroo area.", "Offers a petting zoo for children.", "Active in species conservation programs."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Tiergarten Stendal liegt am Rande der historischen Hansestadt in der Altmark und ist eine Oase der Ruhe und Naturerfahrung. Auf rund 6 Hektar Land werden etwa 75 Tierarten präsentiert, wobei ein Schwerpunkt auf der heimischen Fauna und alten Nutztierrassen liegt. Besonders beliebt ist die begehbare Anlage für Hirsche sowie der Biberbau, in dem die Lebensweise der Elbe-Biber anschaulich erklärt wird. Der 1952 gegründete Zoo engagiert sich stark in der Umweltbildung und bietet Schulen und Familien einen lebendigen Lernort. Trotz seiner überschaubaren Größe beherbergt er auch einige Exoten wie Tiger und Affen, eingebettet in einen alten Parkbaumbestand. Sachkunde K3 – Heimische Wildtiere und Nutztierrassen.",
       hu: "A Tiergarten ill. hivatalosan Großer Tiergarten Berlin egyik nagy belvárosi parkja, csak a neve „állatkert”. Területe 210 hektár és így a tempelhofi park után a város második, és Németország harmadik legnagyobb belvárosi parkja. Összehasonlításul: a müncheni Englischer Garten 417 hektár, a londoni Hyde Park 141 hektár, a New York-i Central Park 341 hektár. Több forgalmas út is áthalad a területén, többek között a Straße des 17. Juni; az utak kereszteződésében áll a Siegessäule, egy porosz győzelmi emlékmű. Itt fut a Budapester Straße is.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1952 im Norden von Sachsen-Anhalt.", "Die Parkfläche umfasst etwa 6 Hektar am Stadtsee von Stendal.", "Beherbergt ca. 500 Tiere aus rund 75 verschiedenen Arten.", "Schwerpunkt liegt auf der Erhaltung seltener Haustierrassen.", "Der Tiergarten verzeichnet jährlich rund 80.000 Besucher.", "Besitzt ein modernes Bildungszentrum für Natur- und Artenschutz."],
       hu: [
         "Területe 210 hektár és így a tempelhofi park után a város második, és Németország harmadik legnagyobb belvárosi parkja.",
         "Összehasonlításul: a müncheni Englischer Garten 417 hektár, a londoni Hyde Park 141 hektár, a New York-i Central Park 341 hektár.",
@@ -933,13 +933,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The Millennium Tower is one of the world's tallest wooden buildings.", "Features a summer toboggan run and climbing park.", "Home to a tropical butterfly house.", "Boasts a variety of beautiful themed gardens."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Elbauenpark in Magdeburg entstand zur Bundesgartenschau 1999 auf einem ehemaligen Militärgelände und ist heute eine der bedeutendsten Freizeit- und Parkanlagen Sachsen-Anhalts. Auf 100 Hektar bietet der Park eine Mischung aus Natur, Technik und Unterhaltung. Das weithin sichtbare Wahrzeichen ist der 60 Meter hohe Jahrtausendturm, in dem 6.000 Jahre Menschheitsgeschichte interaktiv präsentiert werden. Neben thematischen Gärten finden Besucher hier ein Schmetterlingshaus, eine Sommerrodelbahn und die Seebühne für Konzerte. Der Park ist ein Paradebeispiel für die gelungene Konversion einer Brachfläche in einen hochwertigen urbanen Erholungsraum. Geschichte K8 – Wissenschaftsgeschichte und urbane Transformation.",
       hu: "A(z) Elbauenpark Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Elbauenpark Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet am 23. April 1999 anlässlich der Bundesgartenschau (BUGA).", "Gesamtfläche des Parks beträgt ca. 100 Hektar auf dem 'Großen Anger'.", "Der Jahrtausendturm ist mit 60 Metern einer der höchsten Holztürme der Welt.", "Über 8,5 Millionen Menschen haben den Park seit der Eröffnung besucht.", "Beherbergt das größte Schmetterlingshaus in Sachsen-Anhalt.", "Standort der Elbe-Radrennbahn und einer 450 Meter langen Sommerrodelbahn."],
       hu: [
         "A(z) Elbauenpark Magdeburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -971,13 +971,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Located directly on the Baltic Sea coast.", "Home to the spectacular 'Kärnan' roller coaster.", "Features the 'Hanseatic League in Europe' theme world.", "Offers a wide range of family-friendly attractions."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Hansa-Park in Sierksdorf ist Deutschlands einziger Erlebnispark direkt am Meer und bietet eine einzigartige Kombination aus maritimem Flair und modernem Fahrspaß. Seit 1977 begeistert der Park an der Ostseeküste Besucher mit Themenwelten, die die Geschichte der Hanse widerspiegeln, wie etwa die originalgetreu nachgebauten Hanse-Fassaden am Eingang. Auf 46 Hektar finden sich über 125 Attraktionen, darunter der Hypercoaster 'Der Schwur des Kärnan' mit seinem markanten 79 Meter hohen Turm. Der Park legt großen Wert auf Familienspaß und nordeuropäische Geschichte, was ihn zu einem wichtigen Pfeiler des Tourismus an der Lübecker Bucht macht. Geographie K7 – Tourismuswirtschaft an der Ostseeküste.",
       hu: "A(z) Hansa-Park Sierksdorf egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hansa-Park Sierksdorf ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1977 unter dem Namen 'Hansaland'.", "Umfasst eine Parkfläche von rund 46 Hektar direkt an der Ostsee.", "Bietet über 125 Attraktionen in 11 verschiedenen Themenwelten.", "Achterbahn 'Kärnan' besitzt einen 79 Meter hohen, weithin sichtbaren Turm.", "Jährlich verzeichnet der Park rund 1,4 Millionen Besucher.", "Einzige Themenpark-Anlage weltweit mit Fokus auf die Geschichte der Hanse."],
       hu: [
         "A(z) Hansa-Park Sierksdorf területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1009,13 +1009,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Displays the skeleton of a stranded sperm whale.", "Features a large aquarium with a panoramic view.", "Includes interactive stations about the Wadden Sea ecosystem.", "The best place to learn about the North Sea."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Multimar Wattforum in Tönning ist das zentrale Informationszentrum für den Nationalpark Schleswig-Holsteinisches Wattenmeer, das zum UNESCO-Weltnaturerbe gehört. Auf über 3.000 m² Ausstellungsfläche erfahren Besucher alles über die faszinierende Welt zwischen Ebbe und Flut. In 37 Aquarien werden rund 280 Tierarten der Nordsee gezeigt, von Seepferdchen bis zum Hummer. Ein besonderes Highlight ist das Walhaus, in dem das 17,5 Meter lange Skelett eines im Wattenmeer gestrandeten Pottwals ausgestellt ist. Das Forum nutzt interaktive Medien, um die ökologische Bedeutung dieses einzigartigen Ökosystems und die Notwendigkeit seines Schutzes zu vermitteln. Geographie K8 – UNESCO-Welterbe und Küstenökologie.",
       hu: "A(z) Multimar Wattforum Tönning egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Multimar Wattforum Tönning ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1999 als Haupt-Informationszentrum des Nationalparks.", "Verfügt über 3.125 m² interaktive Ausstellungsfläche auf zwei Ebenen.", "In 37 Aquarien leben ca. 280 verschiedene Tierarten der Nordsee.", "Beherbergt ein 17,5 Meter langes Skelett eines echten Pottwals.", "Jährlich besuchen rund 150.000 Menschen das Wattforum in Tönning.", "Das Großaquarium fasst 250.000 Liter und besitzt eine 6x6m Panoramascheibe."],
       hu: [
         "A(z) Multimar Wattforum Tönning területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1047,13 +1047,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Germany's third-largest zoo by land area.", "Home to a significant elephant enclosure.", "Participates in rhinoceros breeding programs.", "Offers beautiful panoramic views over Erfurt."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Thüringer Zoopark Erfurt, auf dem 'Roten Berg' gelegen, ist der größte Zoo des Freistaates und bekannt für seine weitläufigen Landschaftsanlagen. Auf rund 63 Hektar bietet der Zoo viel Raum für bedrohte Tierarten aus aller Welt. Ein Herzstück ist die Afrikanische Savanne, in der Elefanten, Zebras und Strauße gemeinsam leben. Besonders beliebt sind die begehbaren Anlagen wie der 'Berberberg' für Affen oder die Känguru-Wiese, die einen direkten Kontakt zu den Tieren ermöglichen. Der 1959 eröffnete Zoo engagiert sich stark in internationalen Zuchtprogrammen, beispielsweise für Geparden und Nashörner, und bietet einen weiten Blick über die thüringische Landeshauptstadt. Biologie K7 – Zoologische Gärten als Orte der Bildung und des Artenschutzes.",
       hu: "A(z) Thüringer Zoopark Erfurt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Thüringer Zoopark Erfurt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 1959 auf dem Roter Berg im Norden von Erfurt.", "Mit ca. 63 Hektar Fläche ist es der flächengrößte Zoo Thüringens.", "Heimat für rund 1.050 Tiere aus etwa 145 verschiedenen Arten.", "Die Afrikanische Elefantenanlage ist 15.000 m² groß und modern gestaltet.", "Jährlich verzeichnet der Zoopark rund 300.000 Besucher.", "Besitzt einen der größten künstlich angelegten Berberaffen-Berge in Europa."],
       hu: [
         "A(z) Thüringer Zoopark Erfurt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1085,13 +1085,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Located within the Hainich UNESCO World Heritage site.", "Features a 44-meter-tall observation tower.", "Offers interactive environmental education.", "Fully accessible for visitors with disabilities."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Baumkronenpfad im Nationalpark Hainich (UNESCO-Weltnaturerbe) bietet eine einzigartige Perspektive auf das 'Urwaldherz' Deutschlands. In einer Höhe von bis zu 44 Metern über dem Waldboden können Besucher durch die Wipfel alter Buchen wandern und die Stockwerke des Waldes aus nächster Nähe erleben. Der 530 Meter lange Pfad bei der Thiemsburg wurde 2005 eröffnet und führt durch einen Bereich des Waldes, der sich seit Jahrzehnten ohne menschliche Eingriffe entwickeln darf. Auf zwei Rundwegen erfahren Besucher an interaktiven Stationen Wissenswertes über die Biodiversität, Fledermäuse und das Ökosystem Laubwald. Biologie K6 – Ökosystem Wald und Schichtung der Vegetation.",
       hu: "A(z) Baumkronenpfad Hainich egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Baumkronenpfad Hainich ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet im Jahr 2005 im Nationalpark Hainich bei Bad Langensalza.", "Der Pfad hat eine Gesamtlänge von ca. 530 Metern.", "Der Aussichtsturm erreicht eine Höhe von 44 Metern über dem Boden.", "Befindet sich in einem UNESCO-Weltnaturerbe-Buchenwald.", "Rund 150.000 Besucher nutzen jährlich den Pfad für Naturbeobachtungen.", "Barrierefreier Zugang über einen Aufzug am markanten Turm."],
       hu: [
         "A(z) Baumkronenpfad Hainich területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1123,13 +1123,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features Chinese, Japanese, and Oriental gardens.", "Includes a cable car ride over the park grounds.", "Venue for the International Garden Exhibition 2017.", "Boasts a large water playground for children."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Gärten der Welt in Berlin-Marzahn sind ein preisgekrönter Landschaftspark, der die Gartenkunst verschiedenster Kulturen und Epochen auf 43 Hektar vereint. Ursprünglich 1987 zur 750-Jahr-Feier Berlins eröffnet, wurde die Anlage kontinuierlich um internationale Gärten erweitert, darunter der größte Chinesische Garten Deutschlands, der Japanische Garten und der Orientalische 'Garten der vier Ströme'. Seit der Internationalen Gartenausstellung (IGA) 2017 ist der Park zudem über eine Seilbahn erreichbar. Die Gärten bieten nicht nur botanische Vielfalt, sondern sind auch Orte der interkulturellen Begegnung und Meditation inmitten der Großstadt. Geographie K7 – Kulturelle Einflüsse auf die Gestaltung urbaner Grünräume.",
       hu: "A(z) Gärten der Welt Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gärten der Welt Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Eröffnet am 9. Mai 1987 als 'Berliner Gartenschau' in Ost-Berlin.", "Gesamtfläche des Parks beträgt ca. 43 Hektar.", "Beherbergt 10 internationale Themengärten, darunter Bali und Korea.", "Die Seilbahn ist 1,5 km lang und verbindet den Park mit dem Kienberg.", "Über 1 Million Menschen besuchen jährlich diese Berliner Sehenswürdigkeit.", "Der Chinesische Garten ist mit 2,7 Hektar der größte seiner Art in Europa."],
       hu: [
         "A(z) Gärten der Welt Berlin területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
