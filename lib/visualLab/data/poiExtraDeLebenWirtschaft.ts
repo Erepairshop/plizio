@@ -1163,13 +1163,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The primary production site for the S-Class.", "Home to the state-of-the-art 'Factory 56'.", "Employs tens of thousands of workers.", "Includes an extensive research and development department."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Mercedes-Benz Werk Sindelfingen ist das weltweit führende Kompetenzzentrum für Fahrzeuge der Ober- und Luxusklasse. Seit seiner Gründung im Jahr 1915 hat sich der Standort auf eine Fläche von über 2,9 km² ausgedehnt und beherbergt heute rund 35.000 Mitarbeiter. Ein technologischer Meilenstein ist die 'Factory 56', eine der modernsten Automobilproduktionen der Welt, die konsequent auf Digitalisierung und CO2-Neutralität setzt. Hier laufen die S-Klasse, die Mercedes-Maybach S-Klasse und das vollelektrische Flaggschiff EQS vom Band. Neben der Fertigung ist Sindelfingen ein zentraler Standort für Forschung, Entwicklung und Design des Konzerns. Geographie K7 – Industriecluster und moderne Produktionsverfahren.",
       hu: "A Mercedes-Benz német járműmárka a német Mercedes-Benz Group AG cég számos országban bejegyzett védjegye. Magyarországon a Mercedes-Benz Group leányvállalatának neve Mercedes-Benz Manufacturing Hungary. A cég elsődlegesen személygépkocsikat, tehergépkocsikat, autóbuszokat és beléjük való motorokat gyárt és forgalmaz. A(z) Mercedes-Benz Werk Sindelfingen egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1915, ursprünglich als Werk für Flugzeugmotoren.", "Größter Produktionsstandort der Mercedes-Benz Group weltweit.", "Die hochmoderne 'Factory 56' produziert bilanziell CO2-neutral.", "Heimat der S-Klasse, dem Inbegriff der automobilen Oberklasse.", "Beherbergt das Mercedes-Benz Technology Center für Forschung.", "Über 35.000 Menschen arbeiten auf dem rund 290 Hektar großen Areal."],
       hu: [
         "A(z) Mercedes-Benz Werk Sindelfingen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1201,13 +1201,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The largest Bosch site globally.", "Focuses on electric mobility and hydrogen technology.", "Rich industrial history dating back to 1910.", "A major center for vocational training."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Bosch-Stammwerk in Stuttgart-Feuerbach ist die Wiege der modernen Kraftfahrzeugtechnik und das historische Herz der Robert Bosch GmbH. Gegründet im Jahr 1909, entwickelte sich der Standort schnell zum Zentrum für bahnbrechende Innovationen wie die Magnetzündung und die Diesel-Einspritzpumpe. Heute fungiert Feuerbach als internationales Leitwerk für Industrie 4.0, in dem die Vernetzung von Maschinen und künstliche Intelligenz den Takt angeben. Mit rund 15.000 Beschäftigten ist das Werk ein bedeutender Arbeitgeber in der Region Stuttgart. Es beherbergt zudem den zentralen IT-Campus und ist ein Symbol für die erfolgreiche Transformation vom traditionellen Maschinenbau zum digitalen Technologiekonzern. Sachkunde K4 – Erfindungen und industrielle Entwicklung.",
       hu: "A(z) Robert Bosch Werk Feuerbach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Robert Bosch Werk Feuerbach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1909 als erster großer Fabrikstandort von Robert Bosch.", "Diente als Geburtsstätte der Diesel-Einspritztechnik (1927).", "Heute fungiert der Standort als globales Leitwerk für Industrie 4.0.", "Rund 15.000 Mitarbeiter aus über 70 Nationen sind hier beschäftigt.", "Sitz des modernen Bosch IT-Campus für digitale Innovationen.", "Vorreiter beim Einsatz von 5G-Technologie in der Fertigung."],
       hu: [
         "A(z) Robert Bosch Werk Feuerbach területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1239,13 +1239,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Employs over 40,000 people at this site.", "Produces the A3, A4, and A5 car models.", "Features the Audi Forum and on-site museum.", "The most significant economic driver for the region."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Audi-Werk in Ingolstadt ist der Stammsitz und der größte Produktionsstandort der AUDI AG weltweit. Auf einer Fläche von rund 2,7 Millionen Quadratmetern fertigen über 40.000 Mitarbeiter jährlich hunderttausende Fahrzeuge, darunter die Volumenmodelle A3 und A4 sowie den vollelektrischen Q6 e-tron. Der Standort ist das technologische Kraftzentrum des Konzerns und beherbergt die gesamte technische Entwicklung sowie das innovative 'museum mobile'. Mit der Transformation zur '360factory' setzt Audi in Ingolstadt konsequent auf eine CO2-neutrale Produktion und eine hocheffiziente, digitale Logistik. Das Werk ist der wirtschaftliche Motor der Region und prägt seit Jahrzehnten das Stadtbild. Geographie K7 – Die Bedeutung der Automobilindustrie für Süddeutschland.",
       hu: "Az Audi AG német autógyártó vállalat székhelye a németországi Ingolstadtban található. 1964 óta 99,7%-ban a Volkswagen AG leányvállalata. Gépjárműveit a felső-közép, illetve a felső kategóriába pozicionálja. A cég egyik fontos jármű-, és motorgyára található Győrben, az Audi Hungaria Zrt. A(z) Audi Werk Ingolstadt egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Stammsitz der AUDI AG mit über 40.000 Beschäftigten am Standort.", "Zweitgrößtes Automobilwerk in Europa nach dem VW-Werk Wolfsburg.", "Produziert seit Januar 2024 bilanziell vollständig CO2-neutral.", "Produktionskapazität von bis zu 2.500 Fahrzeugen an jedem Arbeitstag.", "Besitzt eine eigene Batteriemontage für Elektrofahrzeuge der PPE-Plattform.", "Das Werk wird von einer öffentlichen Bahnlinie mitten durchquert."],
       hu: [
         "1964 óta 99,7%-ban a Volkswagen AG leányvállalata.",
         "A(z) Audi Werk Ingolstadt területén évente több mint 100 000 látogató fordul meg.",
@@ -1277,13 +1277,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Manufactures Simatic control units.", "Boasts a high automation level of over 75%.", "Multiple-time winner of 'Factory of the Year'.", "Utilizes a digital twin of the entire production."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Siemens Elektronikwerk Amberg (EWA) gilt weltweit als Vorzeigemodell der 'Smart Factory' und ist ein Pionier der Industrie 4.0. In dem 1989 gegründeten Werk werden hochkomplexe Simatic-Steuerungen gefertigt, die weltweit Maschinen und Anlagen automatisieren. Die Besonderheit: Produkte und Maschinen kommunizieren hier direkt miteinander, was eine Qualitätsrate von über 99,99 % ermöglicht. Trotz der extrem hohen Produktvielfalt arbeitet das Werk weitgehend automatisiert, wobei die 1.300 Mitarbeiter durch digitale Assistenzsysteme unterstützt werden. Amberg zeigt eindrucksvoll, wie durch Digitalisierung und Vernetzung die Spitzenposition des Standorts Deutschland in der Hochtechnologie gesichert werden kann. Informatik K8 – Automatisierung und digitale Fabriken.",
       hu: "A Siemens AG egy német multinacionális technológiai konglomerátum. Központja Berlinben és Münchenben található. A vállalat portfóliója az ipar automatizálására és digitalizálására, épületek infrastruktúrájára, decentralizált energiarendszerekre, vasúti és közúti mobilitási megoldásokra, valamint orvostechnikára is kiterjed. 1989-ben megvásárolta az Simmering-Graz-Pauker-t. A(z) Siemens Werk Amberg egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltweit führendes Beispiel für eine digital vernetzte Fabrik.", "Produziert jährlich rund 17 Millionen Simatic-Komponenten.", "Erreicht eine außergewöhnliche Qualitätsrate von 99,9988 %.", "Die Fertigung ist zu rund 75 % durch Roboter und Maschinen automatisiert.", "Wurde mehrfach als 'Fabrik des Jahres' und 'Global Lighthouse' ausgezeichnet.", "Gegründet im Jahr 1989 als Elektronikstandort in der Oberpfalz."],
       hu: [
         "1989-ben megvásárolta az Simmering-Graz-Pauker-t.",
         "A(z) Siemens Werk Amberg területén évente több mint 100 000 látogató fordul meg.",
@@ -1315,13 +1315,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Siemens' largest investment project globally.", "Mixes residential living, working, and research.", "The Siemens Tower is its most famous landmark.", "Part of the area is a UNESCO World Heritage site."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Siemensstadt in Berlin ist ein historisches Industrieareal von weltweiter Bedeutung, das derzeit unter dem Namen 'Siemensstadt Square' in einen modernen Innovationscampus verwandelt wird. Anfang des 20. Jahrhunderts als autarke Werksstadt mit Wohnungen, Schulen und Fabriken konzipiert, spiegelt sie die industrielle Blüte Berlins wider. Auf 76 Hektar entsteht nun ein zukunftsweisender Kiez, der Arbeiten, Forschung und Wohnen miteinander verbindet. Ziel ist es, ein offenes Ökosystem für Schlüsseltechnologien wie künstliche Intelligenz und Elektromobilität zu schaffen. Mit einer Investition von rund 600 Millionen Euro ist es das größte Stadtentwicklungsprojekt von Siemens weltweit und ein Bekenntnis zum Traditionsstandort Berlin. Geographie K8 – Urbane Transformation und Wissensgesellschaft.",
       hu: "Siemensstadt (németül: Großsiedlung Siemensstadt) avagy a Körtelep (Ringsiedlung) társadalmilag fontos lakónegyed Berlinben, részben Charlottenburg-Wilmersdorf kerület északi részén, Charlottenburg-Nord városrészben. 1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként. A Neues Bauen stílusban emelt tömbök tervezésében részt vettek a Weimari Köztársaság olyan híres építészei, mint Walter Gropius, Otto Bartning, Hugo Häring, Fred Forbat (Forbát Alfréd) és Paul Rudolf Henning. A beépítetlen területeket Leberecht Migge alakította ki. Mivel a Kör (Der Ring) néven működő építészegylet a szoros együttműködésre támaszkodott a munkában, a lakónegyed a Körtelep (Ringsiedlung) melléknevet viseli. Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Historischer Berliner Ortsteil, der ab 1897 für Siemens-Mitarbeiter entstand.", "Das Projekt 'Siemensstadt Square' umfasst ein Areal von 76 Hektar.", "Rund 20.000 Menschen arbeiten heute im Bereich der Siemensstadt.", "Einst Standort der größten Schaltwerk-Halle der Welt.", "Die Neugestaltung beinhaltet rund 2.700 neue Wohnungen im Viertel.", "Zentrum für Zukunftstechnologien wie Energiewende und Industrie 4.0."],
       hu: [
         "1929 és 1931 között épült Hans Scharoun tervei alapján, a szomszédos Spandau kerületbeli Siemensstadt városrész keleti bővítéseként.",
         "Siemensstadt 2008 júliusában „Berlin modern stílusú lakótelepei“ egyikeként az UNESCO világörökségi listájára került.",
@@ -1353,13 +1353,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Currently produces the Model Y.", "Planned site for in-house battery cell production.", "Created thousands of new jobs in the region.", "Focuses on sustainable manufacturing processes."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Tesla Gigafactory Berlin-Brandenburg in Grünheide ist das erste Werk des US-Elektroautoherstellers in Europa und ein Symbol für die Beschleunigung der Verkehrswende. Seit dem Produktionsstart im Jahr 2022 werden hier auf einer Fläche von rund 300 Hektar das Model Y sowie hocheffiziente Batteriezellen gefertigt. Mit geplanten Kapazitäten von bis zu 500.000 Fahrzeugen jährlich und rund 12.000 Mitarbeitern ist das Werk eine der bedeutendsten Industrieansiedlungen in Ostdeutschland seit der Wiedervereinigung. Das Werk setzt Maßstäbe durch hochautomatisierte Prozesse und eine eigene Gießerei ('Giga Press'), die große Karosserieteile in einem Stück fertigt. Geographie K7 – Standortfaktoren und Auswirkungen von Großinvestitionen.",
       hu: "Tesla, Nikola Tesla (1856–1943) fizikus, feltaláló, villamosmérnök, filozófus Tudomány tesla, a mágneses indukció mértékegysége Tesla holdkráter Tesla-tekercs, Nikola Tesla találmánya 2244 Tesla, a Naprendszer kisbolygóövében található aszteroida TESLA, TeV-Energy Superconducting Linear Accelerator projekt rövidítése (2000) Zene Tesla, Constantine Koukias operája Tesla, amerikai hard rock együttes Cégek Tesla, csehországi elektronikai vállalat Nikola Tesla (Radioindustrija Nikola Tesla; Beograd), jugoszláv rádiógyártó vállalat 1947 és 1959 között Tesla, Inc. (korábban Tesla Motors), kaliforniai elektromos autókat, napelemek és energia tároló egységeket fejlesztő és gyártó cég egyéb Tesla Lindocruz (Tesra Lindocruz, Tesura Rindokurutsu), a Bleach című anime és manga mellékszereplője",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erste Fabrik von Tesla in Europa, eröffnet im März 2022.", "Bedeutendster privater Arbeitgeber in Brandenburg mit ca. 12.000 Angestellten.", "Geplante Endkapazität von 500.000 Elektroautos pro Jahr.", "Nutzt modernste Robotertechnik und die weltweit größte Gussmaschine.", "Standort einer der fortschrittlichsten Batteriezellfertigungen weltweit.", "Das Werksgelände in Grünheide umfasst eine Fläche von 300 Hektar."],
       hu: [
         "A(z) Tesla Gigafactory Berlin-Brandenburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1391,13 +1391,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Supplies fuel to Berlin and Brandenburg.", "Formerly the terminus of the Druzhba pipeline.", "Planning a transition to green hydrogen production.", "One of the largest employers in the Uckermark region."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die PCK Raffinerie in Schwedt an der Oder ist eine der größten Erdölverarbeitungsanlagen Deutschlands und von strategischer Bedeutung für die Energieversorgung des Nordostens. Seit ihrer Gründung im Jahr 1964 verarbeitet sie Rohöl zu Benzin, Diesel, Heizöl und Kerosin und versorgt unter anderem den Flughafen BER und fast alle Tankstellen in Berlin und Brandenburg. Jahrzehntelang floss das Öl über die 'Druschba'-Pipeline aus Russland direkt ins Werk. Durch die geopolitischen Veränderungen steht die Raffinerie vor einer historischen Transformation hin zur Produktion von grünem Wasserstoff und nachhaltigen Kraftstoffen. Das Werk ist das wirtschaftliche Rückgrat der Region Uckermark. Wirtschaft K8 – Energiesicherheit und industrielle Transformation.",
       hu: "A(z) PCK Raffinerie Schwedt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a PCK Raffinerie Schwedt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Verarbeitet jährlich bis zu 12 Millionen Tonnen Rohöl.", "Sichert rund 90 % der Kraftstoffversorgung für Berlin und Brandenburg.", "Gegründet im Jahr 1964 als 'Erdölverarbeitungswerk Schwedt' (EVW).", "Wichtigster Arbeitgeber der Uckermark mit ca. 1.200 direkten Mitarbeitern.", "Besitzt eine eigene Pipeline-Anbindung an den Hafen Rostock.", "Pionierstandort für die Produktion von synthetischem Kerosin (SAF)."],
       hu: [
         "A(z) PCK Raffinerie Schwedt területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1429,13 +1429,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Primary production site for C-Class and GLC.", "The largest private employer in the city of Bremen.", "Offers guided tours for interested visitors.", "Focuses heavily on global exports via Bremerhaven."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Mercedes-Benz Werk Bremen ist der größte private Arbeitgeber in der Hansestadt und ein zentraler Pfeiler im globalen Produktionsnetzwerk des Konzerns. Mit über 11.500 Mitarbeitern werden hier zehn verschiedene Modelle gefertigt, darunter das Volumenmodell C-Klasse und das SUV GLC. Besonders hervorzuheben ist die Rolle als Leadwerk für die weltweite C-Klasse-Produktion, von dem aus Know-how an Standorte in China und Südafrika exportiert wird. Das Werk hat eine lange Tradition, die bis auf die Borgward-Ära zurückgeht, und ist heute ein Vorreiter in der Elektromobilität, was die Produktion der EQ-Modelle unterstreicht. Die unmittelbare Nähe zum Hafen ermöglicht eine effiziente weltweite Logistik. Geographie K7 – Die Automobilindustrie als regionaler Wirtschaftsfaktor.",
       hu: "A Mercedes-Benz német járműmárka a német Mercedes-Benz Group AG cég számos országban bejegyzett védjegye. Magyarországon a Mercedes-Benz Group leányvállalatának neve Mercedes-Benz Manufacturing Hungary. A cég elsődlegesen személygépkocsikat, tehergépkocsikat, autóbuszokat és beléjük való motorokat gyárt és forgalmaz. A(z) Mercedes-Benz Werk Bremen egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter privater Arbeitgeber in Bremen mit rund 11.500 Beschäftigten.", "Weltweites Leadwerk für die Produktion der Mercedes-Benz C-Klasse.", "Fertigt zehn verschiedene Fahrzeugmodelle auf engstem Raum.", "Das Werksgelände erstreckt sich über eine Fläche von ca. 1,4 km².", "Wurde 1978 von Daimler-Benz als Pkw-Werk in Betrieb genommen.", "Zentraler Standort für die Fertigung vollelektrischer EQ-Modelle."],
       hu: [
         "A(z) Mercedes-Benz Werk Bremen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1467,13 +1467,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Operates almost entirely automatically.", "Uses driverless Automated Guided Vehicles (AGVs).", "Boasts extremely high cargo handling efficiency.", "A leader in climate protection within the port."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Containerterminal Altenwerder (CTA) im Hamburger Hafen gilt weltweit als eines der modernsten und am stärksten automatisierten Terminals. Seit seiner Inbetriebnahme im Jahr 2002 hat es Maßstäbe in der Hafenlogistik gesetzt: Fast alle Prozesse, vom Entladen der Schiffe bis zum Transport auf dem Lagerplatz durch führerlose AGVs (Automated Guided Vehicles), laufen computergesteuert ab. Das von der HHLA betriebene Terminal ist zudem das erste klimaneutrale Containerterminal der Welt. Durch den Einsatz von Ökostrom und modernster Software werden hier jährlich Millionen von Containern effizient umgeschlagen. Altenwerder ist ein Schlüsselknotenpunkt für den Welthandel und ein Symbol für die digitale Zukunft der Schifffahrt. Geographie K8 – Globalisierung und moderne Logistikzentren.",
       hu: "A(z) Container Terminal Altenwerder egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Container Terminal Altenwerder ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltweit erstes klimaneutrales Containerterminal (zertifiziert durch TÜV).", "Einsatz von ca. 100 vollautomatisierten Transportfahrzeugen (AGV).", "Besitzt eine Kaimauerlänge von 1.400 Metern für größte Containerschiffe.", "Jährliche Umschlagkapazität von rund 3 Millionen Standardcontainern (TEU).", "Der Bahnhof des Terminals ist der größte Containerbahnhof Europas.", "Inbetriebnahme erfolgte im Jahr 2002 als modernstes Terminal seiner Art."],
       hu: [
         "A(z) Container Terminal Altenwerder területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1505,13 +1505,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Final assembly line for the A320 family.", "Features its own private factory airport.", "Handles the complete interior outfitting of cabins.", "Employs tens of thousands of highly skilled staff."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Airbus-Werk in Hamburg-Finkenwerder ist der zweitgrößte Standort des europäischen Flugzeugbauers weltweit und das Herzstück der deutschen Luftfahrtindustrie. Über 15.000 hochqualifizierte Mitarbeiter arbeiten hier an der Endmontage der erfolgreichen A320-Familie sowie an der Ausstattung der Langstreckenjets A330 und A350. Ein markantes Merkmal des Standorts ist der eigene Werksflugplatz mit einer 3,2 km langen Landebahn, die direkt an der Elbe liegt. In Finkenwerder befindet sich zudem das Auslieferungszentrum für Kunden aus Europa und dem Nahen Osten. Das Werk ist ein Motor für Innovationen in den Bereichen Leichtbau und nachhaltige Antriebe und sichert Hamburgs Position als drittgrößter Luftfahrtstandort der Welt. Geographie K7 – High-Tech-Cluster in Deutschland.",
       hu: "A(z) Airbus Werk Finkenwerder egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Airbus Werk Finkenwerder ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zweitgrößter Airbus-Standort weltweit mit ca. 15.000 Beschäftigten.", "Zentrum der Endmontage für die weltweit erfolgreiche A320-Modellreihe.", "Eigener Werksflugplatz Hamburg-Finkenwerder mit Elbe-Anbindung.", "Verantwortlich für die gesamte Kabinenausstattung aller Airbus-Modelle.", "Standort des Airbus-Auslieferungszentrums für Europa und Asien.", "Wichtiger Treiber für die Forschung zu wasserstoffbetriebenen Flugzeugen."],
       hu: [
         "A(z) Airbus Werk Finkenwerder területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1543,13 +1543,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to over 90 different companies.", "Features its own energy and water supply systems.", "The historic main plant of the former Hoechst AG.", "A major hub for research and innovation."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Industriepark Höchst in Frankfurt am Main ist einer der größten und leistungsfähigsten Chemie- und Pharmastandorte Europas. Auf einer Fläche von 460 Hektar beherbergt das Areal rund 90 Unternehmen, darunter Weltkonzerne wie Sanofi und Bayer, mit insgesamt 22.000 Mitarbeitern. Der Park ging aus dem Stammwerk der ehemaligen Hoechst AG hervor und bietet heute eine hochmoderne Infrastruktur für Forschung und Produktion. Einzigartig ist das integrierte Energie- und Entsorgungssystem sowie die trimodale Anbindung an Straße, Schiene und Wasserweg. Der Standort ist ein Paradebeispiel für ein funktionierendes Industrie-Ökosystem und ein zentraler Innovationsmotor für die Life-Science-Branche in Deutschland. Geographie K7 – Industrielle Verbundstandorte.",
       hu: "A(z) Industriepark Höchst egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Industriepark Höchst ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umfasst ein Areal von 460 Hektar mit über 800 Gebäuden.", "Heimat für rund 90 Unternehmen aus der Chemie- und Pharmabranche.", "Etwa 22.000 Menschen arbeiten täglich auf dem Gelände.", "Besitzt ein eigenes Kraftwerk und eine der modernsten Kläranlagen.", "Standort einer der weltweit größten Insulinproduktionen (Sanofi).", "Einer der wenigen Standorte mit eigenem Hafen am Main."],
       hu: [
         "A(z) Industriepark Höchst területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1581,13 +1581,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The primary production site for the Opel Astra.", "Where the Opel brand was originally founded.", "Utilizes state-of-the-art manufacturing technologies.", "A key part of the global Stellantis group."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Opel-Stammwerk in Rüsselsheim ist seit über 160 Jahren das Zentrum der Marke Opel und ein geschichtsträchtiger Ort der deutschen Automobilindustrie. Gegründet von Adam Opel im Jahr 1862, begann die Erfolgsgeschichte zunächst mit Nähmaschinen und Fahrrädern, bevor 1899 das erste Auto gefertigt wurde. Heute ist Rüsselsheim die globale Zentrale von Opel innerhalb der Stellantis-Gruppe und ein moderner Produktionsstandort für den Astra und den DS 4. Auf dem riesigen Werksgelände befinden sich zudem das Designzentrum und wichtige Forschungsabteilungen für die Elektromobilität. Das Werk prägt die Stadt Rüsselsheim ökonomisch und kulturell wie kaum ein anderer Standort. Geschichte K7 – Industrialisierung und Automobilgeschichte in Deutschland.",
       hu: "Az Opel (teljes nevén Opel Automobile GmbH) Németország egyik legfontosabb autóipari cége. Legnagyobb üzeme Rüsselsheimben található. 2018-ban az Opel 20 év után újra nyereséges lett, 502 000 000 eurós hasznot termelt, köszönhetően az új modelleknek (Crossland X, Grandland X, új Insignia család), a régi modellek csekély árcsökkentésének, és a korszerű, takarékos motoroknak. Számokban annyit tesz ki, hogy az Opel több mint 572 000 autót adott el. (Az adatok 2018 első félévre vonatkoznak.) 2018-ban „történelmi esemény” zajlott le: 19 év után 2018 volt az első teljes év, amelyben az Opel márka nyereséget könyvelhetett el. A General Motors (GM) vezetése alatt 1998 volt az utolsó év, amikor a leányvállalat nyereséggel számolhatott volna. Egyes források szerint a GM azért nem tudott profitálni, mert túl sokat költött egy modell fejlesztésére, meg a motorok korszerűsítésére. Akkortájt az Opel 9 platformra építette modelljeit, és 10 motorcsaládot fejlesztett. Ezek fejlesztése és tervezése óriási összegeket emésztett fel (volt...",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Stammwerk und globale Unternehmenszentrale von Opel.", "Produktionsbeginn von Automobilen im Jahr 1899 ('Patentmotorwagen').", "Einer der modernsten Fertigungsstandorte im Stellantis-Konzern.", "Heimat des internationalen Opel-Designzentrums.", "Beschäftigt rund 13.000 Mitarbeiter in Produktion und Verwaltung.", "In Rüsselsheim werden der Opel Astra und der DS 4 gefertigt."],
       hu: [
         "Számokban annyit tesz ki, hogy az Opel több mint 572 000 autót adott el.",
         "(Az adatok 2018 első félévre vonatkoznak.",
@@ -1619,13 +1619,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Specializes in the maintenance of naval vessels.", "Features one of the largest dry docks on the Baltic.", "Long history of building cargo ships.", "A significant employer in the Rostock area."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Werftgelände in Rostock-Warnemünde blickt auf eine lange Tradition im Schiffbau zurück und ist heute Teil eines bedeutenden maritimen Industrieclusters. Nach der Insolvenz der MV Werften wurde der Standort 2022 von ThyssenKrupp Marine Systems (TKMS) übernommen und für den Bau von Marineschiffen und Offshore-Plattformen gesichert. Die riesige Schiffbauhalle ist eine der größten in Europa und ermöglicht die wetterunabhängige Montage von Großsektionen. Der Standort profitiert von der direkten Lage an der Ostsee und der tiefen Fahrrinne der Warnow. Neben dem militärischen Schiffbau ist die Werft ein wichtiger Partner für die Energiewende durch den Bau von Konverterplattformen für Windparks. Geographie K7 – Maritime Wirtschaft und Strukturwandel an der Küste.",
       hu: "A(z) Marinearsenal Warnowwerft egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Marinearsenal Warnowwerft ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Besitzt eine der größten überdachten Schiffbauhallen weltweit.", "Übernahme durch ThyssenKrupp Marine Systems (TKMS) im Jahr 2022.", "Zentrum für den Bau von Korvetten und U-Booten für die Deutsche Marine.", "Wichtiger Standort für den Bau von Offshore-Konverterplattformen.", "Traditionsreicher Schiffbaustandort seit der Gründung der Warnowwerft 1946.", "Beschäftigt hunderte hochspezialisierte Fachkräfte in der Region."],
       hu: [
         "A(z) Marinearsenal Warnowwerft területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1657,13 +1657,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Key port for traffic to and from Scandinavia.", "Includes a major terminal for cruise ships.", "Handles bulk goods and container shipments.", "A deep-water port with excellent connectivity."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Seehafen Rostock ist der größte und bedeutendste deutsche Ostseehafen und ein zentraler Knotenpunkt für den Verkehr mit Skandinavien, dem Baltikum und Südeuropa. Durch seine Lage an der Warnow-Mündung bietet er hervorragende nautische Bedingungen mit einer tiefen Fahrrinne für große Fähr- und Frachtschiffe. Der Hafen ist Marktführer im Fährverkehr auf der deutschen Ostsee und ein wichtiger Standort für den Umschlag von Massengütern wie Getreide, Öl und Papier. In den letzten Jahren hat sich Rostock zudem zum bedeutendsten deutschen Kreuzfahrthafen entwickelt. Als moderner Logistikstandort verknüpft er den Seeweg effizient mit Schiene und Straße. Geographie K7 – Hafenwirtschaft und internationale Handelsbeziehungen.",
       hu: "A(z) Seehafen Rostock egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Seehafen Rostock ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter deutscher Hafen an der Ostsee mit tiefen Fahrrinnen.", "Marktführer im Fährverkehr mit Verbindungen nach Gedser und Trelleborg.", "Bedeutendster Kreuzfahrthafen Deutschlands (Warnemünde Cruise Center).", "Umschlag von rund 28 Millionen Tonnen Gütern pro Jahr.", "Besitzt eines der größten Getreideterminals an der Ostseeküste.", "Wichtiger Hub für den kombinierten Ladungsverkehr (Schiene/See)."],
       hu: [
         "A(z) Seehafen Rostock területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1695,13 +1695,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Ships are built inside massive covered docks.", "Spectacular transfer of ships down the Ems River.", "Visitor center attracts thousands of tourists.", "A historic and traditional family-owned company."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Meyer Werft in Papenburg ist eine weltweit führende Werft für den Bau hochmoderner Luxuskreuzfahrtschiffe. Trotz ihrer Lage über 30 Kilometer im Binnenland an der schmalen Ems hat sich das Familienunternehmen seit 1795 zu einem globalen Global Player entwickelt. Spektakulär sind die Überführungen der riesigen Ozeanriesen über die gestaute Ems in Richtung Nordsee, die tausende Schaulustige anlocken. Das Herzstück der Werft sind die gigantischen, überdachten Baudocks, in denen Schiffe unabhängig vom Wetter montiert werden. Die Meyer Werft ist ein Motor für Innovationen im Schiffbau, insbesondere bei umweltfreundlichen Antriebstechnologien wie Flüssigerdgas (LNG). Geographie K7 – Spezialisierung in der globalen Werftindustrie.",
       hu: "A(z) Meyer Werft Papenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Meyer Werft Papenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1795 und noch heute in Familienbesitz.", "Spezialisiert auf den Bau der weltweit größten Kreuzfahrtschiffe.", "Besitzt das größte überdachte Trockendock der Welt.", "Bekannt für die spektakulären Schiffsüberführungen auf der Ems.", "Beschäftigt rund 3.300 direkte Mitarbeiter am Standort Papenburg.", "Pionier bei der Entwicklung von LNG-Antrieben für Passagierschiffe."],
       hu: [
         "A(z) Meyer Werft Papenburg területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1733,13 +1733,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Headquarters of the tire division.", "Focuses on large truck tire production.", "Home to a research and development center.", "Key partner for the global automotive industry."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Continental in Hannover ist die Konzernzentrale eines der weltweit führenden Automobilzulieferer. Was 1871 als reine Gummifabrik begann, hat sich zu einem globalen Technologieunternehmen für vernetzte Mobilität entwickelt. Hannover ist nicht nur der Verwaltungssitz, sondern auch das Zentrum für Forschung und Entwicklung, insbesondere für die Reifen- und Antriebstechnik. Das Werk Stöcken ist historisch bedeutsam als einer der ersten Standorte für die Produktion von Luftreifen. Heute treibt Continental von Hannover aus Innovationen wie das automatisierte Fahren und nachhaltige Materialien aus Löwenzahn voran. Die Stadt ist ohne Continental als industrielles Kraftzentrum kaum denkbar. Wirtschaft K8 – Strukturwandel und Innovation in der Zulieferindustrie.",
       hu: "Continental AG, hannoveri székhelyű német vállalat Continental Airlines, houstoni székhelyű légitársaság Continental (autómárka), egykori brit autómárka Continental (együttes) Continental Railway Solution Kft., vasúttársaság Continental (The Gay Divorcee), 1934-es amerikai zenés film, rendezte Mark Sandrich Continental, 1989-es spanyol filmthriller, rendezte Xavier Villaverde A(z) Continental Werk Stöcken egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1871 in Hannover als Continental-Caoutchouc- und Gutta-Percha-Compagnie.", "Weltweiter Hauptsitz des DAX-Konzerns mit über 200.000 Mitarbeitern global.", "Führendes Forschungszentrum für Reifen- und Oberflächentechnologie.", "Entwicklung von Reifen aus russischem Löwenzahn ('Taraxagum').", "Besitzt ein hochmodernes KI-Labor für autonomes Fahren in Hannover.", "Wichtiger Partner für die Erstausrüstung fast aller Automobilhersteller."],
       hu: [
         "A(z) Continental Werk Stöcken területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1771,13 +1771,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Key hub for the 'New Silk Road' rail links.", "Connected to North Sea ports via the Rhine.", "Logport areas built on former industrial sites.", "Handles thousands of trains and ships per year."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Duisburger Hafen, bekannt als 'duisport', ist der größte Binnenhafen der Welt und ein logistisches Drehkreuz von globalem Rang. An der Mündung der Ruhr in den Rhein gelegen, verbindet er den Wasserweg mit einem dichten Netz aus Schienen und Straßen. Duisburg ist der zentrale Endpunkt der 'Neuen Seidenstraße' für Güterzüge aus China, was seine Bedeutung als kontinentales Logistikzentrum unterstreicht. Wo früher Kohle und Stahl dominierten, finden sich heute hunderte von Logistikunternehmen auf modernen Flächen wie dem 'logport'. Der Hafen ist ein entscheidender Faktor für die Wirtschaftskraft Nordrhein-Westfalens und ein Motor für den Strukturwandel im Ruhrgebiet. Geographie K7 – Binnenhäfen als Zentren der Weltwirtschaft.",
       hu: "A(z) Duisburger Hafen (duisport) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Duisburger Hafen (duisport) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter Binnenhafen der Welt mit über 1.500 Hektar Fläche.", "Zentrales Drehkreuz für Güterzüge aus China (Neue Seidenstraße).", "Umschlag von rund 4 Millionen Containern (TEU) pro Jahr.", "Sitz von über 300 Firmen aus dem Logistik- und Dienstleistungsbereich.", "Liegt am Knotenpunkt von Rhein und Ruhr im westlichen Ruhrgebiet.", "Jährlich laufen über 20.000 Schiffe und 25.000 Züge den Hafen an."],
       hu: [
         "A(z) Duisburger Hafen (duisport) területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1809,13 +1809,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Famous for the development of Aspirin.", "Features a 'Chempark' with partner companies.", "The Bayer Cross is its iconic landmark.", "A major center for life science research."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Bayer-Werk in Leverkusen ist der Stammsitz der Bayer AG und einer der vielseitigsten Industriestandorte weltweit. Im sogenannten 'Chempark' produzieren neben Bayer zahlreiche weitere Unternehmen Chemikalien, Kunststoffe und Pharmazeutika. Das markante Bayer-Kreuz, eine der größten Leuchtreklamen der Welt, überragt das Areal. Leverkusen wurde Ende des 19. Jahrhunderts gezielt als Werksstandort an der Schnittstelle zum Ruhrgebiet ausgebaut. Heute ist der Standort ein Zentrum für Hochtechnologie und Forschung, mit einem starken Fokus auf Gesundheit und Ernährung. Die enge Verflechtung von Produktion, Verwaltung und Forschung macht Leverkusen zu einem der wichtigsten Life-Science-Standorte in Europa. Biologie K8 – Chemische Industrie und pharmazeutische Forschung.",
       hu: "A(z) Bayer-Werk Leverkusen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Bayer-Werk Leverkusen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Stammsitz der Bayer AG, gegründet 1863 in Wuppertal-Barmen.", "Das Werk Leverkusen umfasst eine Fläche von rund 480 Hektar.", "Teil des Chempark-Verbunds mit insgesamt ca. 27.000 Beschäftigten.", "Besitzt mit dem Bayer-Kreuz ein weltbekanntes leuchtendes Wahrzeichen.", "Zentraler Standort für die Forschung an neuen Medikamenten.", "Eigene trimodale Infrastruktur mit direktem Rhein-Hafenanschluss."],
       hu: [
         "A(z) Bayer-Werk Leverkusen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1847,13 +1847,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Production site for the new Explorer EV.", "Historic site operational since 1930.", "Home to a design and development center.", "Significant export hub for the European market."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Ford-Werke in Köln-Niehl sind die europäische Zentrale des US-Automobilherstellers und blicken auf eine fast 100-jährige Geschichte zurück. Seit 1930 werden hier Fahrzeuge gefertigt, wobei der Standort lange Zeit für das Volumenmodell Fiesta bekannt war. In einem historischen Wandel wurde das Werk 2023 zum 'Cologne Electric Vehicle Center' umgebaut – die erste Fabrik von Ford weltweit, die ausschließlich Elektroautos produziert. Über 14.000 Mitarbeiter arbeiten in Köln nicht nur in der Fertigung, sondern auch in der europäischen Produktentwicklung und Verwaltung. Die Lage direkt am Rhein ermöglicht einen nachhaltigen Abtransport der Neufahrzeuge per Binnenschiff. Geographie K7 – Transformation der Automobilindustrie hin zur E-Mobilität.",
       hu: "A(z) Ford-Werke Köln-Niehl egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ford-Werke Köln-Niehl ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Europäische Zentrale von Ford und Standort seit dem Jahr 1930.", "Erstes rein elektrisches Fahrzeugwerk von Ford weltweit.", "Investition von 2 Milliarden US-Dollar in den Umbau zum EV-Center.", "Produktionsort des neuen vollelektrischen Ford Explorer.", "Beschäftigt rund 14.000 Mitarbeiter aus über 90 Nationen.", "Besitzt ein eigenes hocheffizientes Kraftwerk auf dem Werksgelände."],
       hu: [
         "A(z) Ford-Werke Köln-Niehl területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1885,13 +1885,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Home to over 2,000 buildings on site.", "Features its own private port on the Rhine.", "A global market leader in chemical production.", "Employs tens of thousands of people."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die BASF in Ludwigshafen ist das größte zusammenhängende Chemieareal der Welt und das Herzstück des Weltkonzerns. Auf einer Fläche von zehn Quadratkilometern – was etwa der Größe von 1.400 Fußballfeldern entspricht – arbeiten rund 39.000 Menschen in einem einzigartigen 'Verbund'-System. Dabei werden Nebenprodukte einer Anlage als Rohstoffe für die nächste genutzt, was enorme Mengen an Energie und Ressourcen spart. Ludwigshafen produziert tausende Produkte für fast alle Branchen, von Autolacken bis zu Vitaminen. Das Werk ist durch ein 2.800 Kilometer langes Rohrleitungsnetz verbunden und verfügt über drei eigene Häfen am Rhein sowie einen der größten Werksbahnhöfe Europas. Geographie K7 – Der Verbundstandort als hocheffizientes Industriesystem.",
       hu: "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865. április 6-án alapították Mannheimben. Székhelye Ludwigshafenben található. A cégnek 170 országban 122 000 munkatársa van 150 termelő telephelyen. A vevőkapcsolatok 200 országra terjednek ki. 2009-ben a vállalatcsoport összárbevétele meghaladta az 50 milliárd eurót. Forgalma alapján a BASF a világ legnagyobb vegyipari vállalata. Magyarországon három telephelye működik. A BASF Hungária 2009-ben 140 főt foglalkoztatott. A BASF Csoport Magyarországon elért árbevétele meghaladta a 172 millió eurót. A BASF részvényei benne vannak a DAX-indexben, ezenkívül jegyzik a New-York-i, a londoni és a zürichi tőzsdén is.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes integriertes Chemieareal der Welt (10 km² Fläche).", "Rund 39.000 Menschen arbeiten am Standort Ludwigshafen.", "Besitzt ein internes Rohrleitungsnetz von ca. 2.800 km Länge.", "Zentrum des BASF-'Verbund'-Prinzips zur Ressourceneffizienz.", "Drei eigene Häfen am Rhein sichern die Rohstoffversorgung.", "Das Werk besitzt über 200 Kilometer eigene Bahngleise."],
       hu: [
         "A BASF (Badische Anilin- und Soda Fabrik, magyarul: Badeni Anilin- és Szóda Gyár) német vegyipari cég, 1865.",
         "április 6-án alapították Mannheimben.",
@@ -1923,13 +1923,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The company's largest global site.", "Focuses on respiratory and cardiovascular medicine.", "Heavy investment in biotechnology projects.", "A major center for vocational education."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Boehringer Ingelheim ist das größte forschende Pharmaunternehmen Deutschlands und hat seinen Hauptsitz in Ingelheim am Rhein. Das 1885 gegründete Familienunternehmen ist weltweit führend in der Entwicklung von Medikamenten gegen Atemwegs- und Herz-Kreislauf-Erkrankungen. In Ingelheim sind rund 9.000 Mitarbeiter in hochmodernen Forschungszentren und Produktionsanlagen tätig. Das Unternehmen zeichnet sich durch eine langfristige, nicht börsenorientierte Strategie aus, die hohe Investitionen in die Forschung ermöglicht. Der Standort Ingelheim ist ein bedeutender Wirtschaftsfaktor für Rheinland-Pfalz und ein Zentrum für medizinische Innovationen auf Weltniveau. Sachkunde K4 – Gesundheit und medizinische Forschung.",
       hu: "A(z) Boehringer Ingelheim Stammwerk egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Boehringer Ingelheim Stammwerk ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes forschendes Pharmaunternehmen in Deutschland.", "Seit der Gründung im Jahr 1885 in Familienbesitz.", "Weltweiter Hauptsitz mit rund 9.000 Beschäftigten in Ingelheim.", "Spezialisiert auf Humanpharmazie und Tiergesundheit.", "Investiert jährlich rund 5 Milliarden Euro weltweit in Forschung.", "Einer der größten Steuerzahler und Arbeitgeber in Rheinland-Pfalz."],
       hu: [
         "A(z) Boehringer Ingelheim Stammwerk területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1961,13 +1961,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Germany's oldest stock corporation (est. 1685).", "Supplies steel for skyscrapers and bridges.", "Operates its own blast furnaces.", "A cornerstone of the industry in Saarland."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Dillinger Hütte im Saarland ist der weltweit führende Hersteller von hochwertigen Grobblechen aus Stahl. Mit einer über 330-jährigen Geschichte ist sie zudem eines der ältesten Industrieunternehmen Deutschlands. Die hier produzierten Stahlplatten finden sich in spektakulären Bauwerken auf der ganzen Welt wieder, wie etwa in den höchsten Wolkenkratzern New Yorks, riesigen Brücken oder Offshore-Windparks. Das Werk zeichnet sich durch seine technologische Kompetenz bei extrem dicken und belastbaren Stählen aus. Inmitten des Strukturwandels der Stahlindustrie investiert Dillinger massiv in die wasserstoffbasierte, grüne Stahlproduktion, um den Standort langfristig zu sichern. Geographie K7 – Die Stahlindustrie zwischen Tradition und Klimaschutz.",
       hu: "A(z) Dillinger Hütte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Dillinger Hütte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltmarktführer für schwere Grobbleche aus Stahl.", "Ältestes deutsches Aktienunternehmen (gegründet 1685).", "Lieferte den Stahl für das One World Trade Center in New York.", "Beschäftigt rund 5.000 Mitarbeiter im saarländischen Dillingen.", "Pionier bei der Umstellung auf wasserstoffbasierte Stahlproduktion.", "Besitzt die weltweit leistungsfähigste Brammen-Stranggießanlage."],
       hu: [
         "A(z) Dillinger Hütte területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -1999,13 +1999,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Long-time production site for the Ford Focus.", "Directly connected to a supplier industrial park.", "Boasts a high percentage of export sales.", "The economic heart of the surrounding district."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Ford-Werk in Saarlouis ist seit seiner Eröffnung im Jahr 1970 einer der wichtigsten Industriestandorte im Südwesten Deutschlands. Bekannt wurde das Werk vor allem als Produktionsstätte für den Ford Focus, der hier in Millionenstückzahlen für den Weltmarkt vom Band lief. Saarlouis galt lange Zeit als eines der effizientesten Automobilwerke in Europa. Der Standort steht derzeit vor einer großen Herausforderung, da die Produktion des Focus im Jahr 2025 endet und die Zukunft des Werks nach dem Ende der aktuellen Modellreihe Gegenstand intensiver Verhandlungen ist. Das Schicksal des Werks ist von enormer Bedeutung für die wirtschaftliche Stabilität des Saarlandes. Wirtschaft K8 – Strukturwandel in der Automobilregion Saarland.",
       hu: "A(z) Ford-Werke Saarlouis egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ford-Werke Saarlouis ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Produktionsstart im Jahr 1970 unter Beisein von Henry Ford II.", "Hauptproduktionsstätte des Ford Focus für den europäischen Markt.", "Beschäftigt aktuell noch rund 4.500 Mitarbeiter direkt im Werk.", "Über 15 Millionen Fahrzeuge wurden hier insgesamt produziert.", "Galt jahrelang als das produktivste Werk im Ford-Konzern.", "Direkte Anbindung an einen Zulieferer-Industriepark."],
       hu: [
         "A(z) Ford-Werke Saarlouis területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2037,13 +2037,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Current production site for the ID.3.", "Formerly where the VW Phaeton was built.", "A major center for electric mobility.", "Located directly next to the Großer Garten park."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Gläserne Manufaktur in Dresden ist ein architektonisches Juwel der modernen Industriearchitektur und ein Symbol für Transparenz in der Autoproduktion. Eröffnet im Jahr 2002 von Volkswagen, ermöglicht sie Besuchern durch bodentiefe Fenster den direkten Blick auf die Endmontage. Ursprünglich für das Luxusmodell Phaeton gebaut, dient sie heute als Center of Future Mobility und Produktionsstätte für Elektroautos wie den ID.3. Das Gebäude aus Glas und Stahl fügt sich harmonisch in das Dresdner Stadtbild nahe dem Großen Garten ein. Neben der Fertigung ist die Manufaktur ein Erlebniszentrum für Besucher, die hier die Mobilität der Zukunft hautnah erleben können. Geographie K7 – Industriearchitektur und urbane Produktion.",
       hu: "A(z) Gläserne Manufaktur Dresden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Gläserne Manufaktur Dresden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Architektonisch einzigartige 'transparente' Fabrik von Volkswagen.", "Eröffnet im Jahr 2002 im Herzen der sächsischen Hauptstadt Dresden.", "Bietet Besuchern Einblicke in die Montage von Elektrofahrzeugen.", "Die Logistik erfolgt umweltfreundlich per 'CarGoTram' durch die Stadt.", "Über 27.000 m² Glas wurden für die Fassade des Gebäudes verbaut.", "Zentrum für die Erprobung neuer Technologien der Elektromobilität."],
       hu: [
         "A(z) Gläserne Manufaktur Dresden területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2075,13 +2075,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Features an on-site track for test drives.", "Visitor center shaped like a giant diamond.", "Employs over 4,000 workers.", "Sustainable factory with its own solar park."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Porsche-Werk in Leipzig ist einer der modernsten und erfolgreichsten Automobilstandorte der Welt. Seit der Eröffnung im Jahr 2002 wurde das Werk kontinuierlich erweitert und fertigt heute die Modelle Macan und Panamera in Vollproduktion. Besonders markant ist das Kundenzentrum, dessen Form an einen Diamanten erinnert. Porsche Leipzig vereint Hochtechnologie in der Fertigung mit einem einzigartigen Erlebniskonzept: Zum Werk gehört eine eigene FIA-zertifizierte Rundstrecke und eine Geländestrecke, auf der Kunden ihre Fahrzeuge testen können. Der Standort ist ein Paradebeispiel für die wirtschaftliche Wiederbelebung der Region Leipzig nach der Wiedervereinigung. Geographie K7 – Ansiedlung von High-Tech-Industrie in Ostdeutschland.",
       hu: "A(z) Porsche Werk Leipzig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Porsche Werk Leipzig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Produktionsstart im Jahr 2002 mit dem Geländewagen Cayenne.", "Heute Standort der Vollproduktion für Macan und Panamera.", "Beschäftigt über 4.400 Mitarbeiter im sächsischen Leipzig.", "Besitzt eine eigene 3,7 km lange FIA-zertifizierte Rennstrecke.", "Nachhaltiges Werk mit eigenem Biomasse-Heizkraftwerk und Solarpark.", "Beherbergt eine 132 Hektar große Offroad-Strecke für Testfahrten."],
       hu: [
         "A(z) Porsche Werk Leipzig területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2113,13 +2113,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Includes a major TotalEnergies refinery.", "Boasts over 100 years of industrial history.", "Transitioning into a hub for green chemistry.", "Covers a very large geographical area."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Chemiepark Leuna in Sachsen-Anhalt ist einer der traditionsreichsten und heute modernsten Industriestandorte Deutschlands. Auf 1.300 Hektar – der größten geschlossenen Industriefläche des Landes – arbeiten rund 10.000 Menschen in über 100 Unternehmen. Leuna war im 20. Jahrhundert ein Zentrum der synthetischen Treibstoffproduktion und hat nach 1990 eine beispiellose Modernisierung erlebt. Heute beheimatet der Park eine hochmoderne Raffinerie sowie innovative Firmen der grünen Chemie, die Biokraftstoffe und nachhaltige Chemikalien entwickeln. Die effiziente Vernetzung der Stoffströme macht Leuna zu einem wettbewerbsfähigen Standort auf dem Weltmarkt. Geographie K7 – Strukturwandel in der mitteldeutschen Chemieindustrie.",
       hu: "A(z) Chemiestandort Leuna egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Chemiestandort Leuna ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter zusammenhängender Chemiestandort in Deutschland (1.300 ha).", "Beherbergt über 100 Unternehmen mit ca. 10.000 Beschäftigten.", "Gegründet im Jahr 1916 zur Produktion von Ammoniak (Haber-Bosch).", "Standort der modernsten Raffinerie Deutschlands (TotalEnergies).", "Zentrum für die Forschung an grünem Wasserstoff und Bio-Ökonomie.", "Besitzt ein eigenes Schienennetz von über 100 Kilometern Länge."],
       hu: [
         "A(z) Chemiestandort Leuna területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2151,13 +2151,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Crucial for the agricultural sector (fertilizers).", "Features its own private port on the Elbe.", "Includes a research center for plant nutrition.", "A key employer in the Saxony-Anhalt region."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "SKW Piesteritz in Lutherstadt Wittenberg ist Deutschlands größter Produzent von Ammoniak und Harnstoff und damit ein systemrelevanter Pfeiler der deutschen Landwirtschaft. Die Düngemittel aus Piesteritz sorgen für stabile Ernten auf deutschen Feldern. Das Werk blickt auf eine über 100-jährige Geschichte zurück und hat sich zu einem hochspezialisierten Agro-Chemie-Zentrum entwickelt. Neben der Produktion betreibt SKW Piesteritz intensive Forschung im eigenen Agrochemischen Zentrum, um Düngemittel effizienter und umweltschonender zu machen. Das Werk ist zudem ein wichtiger Produzent von AdBlue für die Abgasreinigung von Dieselmotoren. Geographie K7 – Grundstoffchemie und ihre Bedeutung für die Ernährungssicherung.",
       hu: "A(z) SKW Stickstoffwerke Piesteritz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a SKW Stickstoffwerke Piesteritz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter Harnstoff- und Ammoniakproduzent in ganz Deutschland.", "Sichert die Versorgung mit Düngemitteln für Millionen Hektar Ackerland.", "Gegründet im Jahr 1915 als Bayerische Stickstoffwerke.", "Wichtigster deutscher Hersteller von AdBlue zur Stickoxid-Reduktion.", "Beschäftigt rund 850 Mitarbeiter am Standort Lutherstadt Wittenberg.", "Betreibt eines der größten Forschungszentren für Pflanzenernährung."],
       hu: [
         "A(z) SKW Stickstoffwerke Piesteritz területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2189,13 +2189,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Specializes in advanced stealth technology.", "Deep-rooted shipbuilding tradition in Kiel.", "Serves a global customer base.", "Features state-of-the-art manufacturing halls."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "ThyssenKrupp Marine Systems (TKMS) in Kiel ist das weltweit führende Kompetenzzentrum für den Bau konventioneller U-Boote. Die Werft blickt auf eine maritime Tradition zurück, die bis in die Mitte des 19. Jahrhunderts reicht. Heute werden hier die technologisch anspruchsvollsten Unterseeboote der Welt gefertigt, wie die Klasse 212A, die durch ihren Brennstoffzellenantrieb fast lautlos und extrem lange unter Wasser bleiben kann. Neben dem U-Boot-Bau ist Kiel ein bedeutender Standort für die Entwicklung und den Bau von Fregatten und Korvetten. Die Werft sichert tausende hochspezialisierte Arbeitsplätze und ist ein wichtiger Pfeiler der wehrtechnischen Industrie in Europa. Geographie K7 – High-Tech-Schiffbau an der deutschen Küste.",
       hu: "A(z) ThyssenKrupp Marine Systems Kiel egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a ThyssenKrupp Marine Systems Kiel ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltmarktführer bei der Konstruktion konventioneller U-Boote.", "Spezialisiert auf den Bau von Schiffen mit Brennstoffzellenantrieb.", "Die Werft hat ihre Wurzeln in der 1838 gegründeten Schweffel & Howaldt.", "Größter Industriebetrieb und Arbeitgeber in der Stadt Kiel.", "Zentrum für die Endmontage hochmoderner Marineschiffe.", "Exportiert maritime Spitzentechnologie in über 20 Länder weltweit."],
       hu: [
         "A(z) ThyssenKrupp Marine Systems Kiel területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2227,13 +2227,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["The primary hub for paper imports from Scandinavia.", "Strong 'Roll-on Roll-off' (RoRo) connections.", "Considered the Baltic gateway for southern Germany.", "Consists of several modern shipping terminals."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Lübecker Hafengesellschaft (LHG) betreibt den größten deutschen Ostseehafen für den Roll-on/Roll-off-Verkehr (RoRo) und ist das 'Tor zum Norden'. Durch seine strategische Lage an der Trave-Mündung verbindet der Hafen Deutschland mit Skandinavien, dem Baltikum und Russland. Jährlich werden hier Millionen Tonnen Güter, vor allem Forstprodukte wie Papier und Zellulose sowie Neufahrzeuge und Trailer, umgeschlagen. Der Hafen ist ein zentrales Glied in den Lieferketten der nordeuropäischen Industrie. In den letzten Jahren hat sich Lübeck zudem als wichtiger Knotenpunkt für den kombinierten Verkehr Schiene-See etabliert, was den Standort zu einem Vorreiter in der nachhaltigen Logistik macht. Geographie K7 – Die Hanse heute: Lübeck als moderner Handelsplatz.",
       hu: "A(z) Lübecker Hafen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lübecker Hafen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter deutscher RoRo-Hafen an der gesamten Ostseeküste.", "Zentrales Drehkreuz für den Import von Papier aus Skandinavien.", "Umschlag von rund 700.000 Trailern und Lkw-Einheiten pro Jahr.", "Verbindet den Ostseeraum mit täglichen Fährlinien nach Schweden.", "Umfasst mehrere große Terminals wie den Skandinavienkai in Travemünde.", "Bedeutender Standort für den Export von europäischen Kraftfahrzeugen."],
       hu: [
         "A(z) Lübecker Hafen területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
@@ -2265,13 +2265,13 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       en: ["Founded in 1846 by Carl Zeiss.", "The hub of Thuringia's 'Optical Valley'.", "Produces high-end microscopes and measurement tools.", "Maintains close ties with research institutions."]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Zeiss-Werk in Jena ist die Geburtsstätte der modernen Optik und ein weltweit führendes Zentrum für Photonik. Hier gründete Carl Zeiss 1846 seine Werkstatt für Feinmechanik und Optik, die später durch die Zusammenarbeit mit Ernst Abbe und Otto Schott Weltruf erlangte. Heute ist Jena ein hochmoderner High-Tech-Standort, an dem Systeme für die Halbleiterfertigung, Medizintechnik und Mikroskopie entwickelt werden. Das Unternehmen ist ein Motor für das 'Optical Valley' Jena, ein Netzwerk aus Forschungsinstituten und spezialisierten Firmen. Zeiss in Jena zeigt eindrucksvoll, wie aus einer handwerklichen Tradition durch wissenschaftliche Exzellenz ein globaler Technologieführer entstehen kann. Physik K8 – Optik und die industrielle Anwendung von Licht.",
       hu: "A(z) Carl Zeiss Werk Jena egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Carl Zeiss Werk Jena ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1846 durch den Optiker Carl Zeiss.", "Wiege der modernen Mikroskopie und wissenschaftlichen Optik.", "Wichtiger Standort für die Halbleiter-Produktionstechnologie (ASML-Partner).", "Carl-Zeiss-Stiftung ist eine der ältesten Wissenschaftsstiftungen Deutschlands.", "Jena beherbergt das älteste heute noch existierende Projektionsplanetarium.", "Zentrum für Quantentechnologie und digitale Fotogrammetrie."],
       hu: [
         "A(z) Carl Zeiss Werk Jena területén évente több mint 100 000 látogató fordul meg.",
         "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
