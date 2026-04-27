@@ -7,6 +7,11 @@ import type { POI } from "@/lib/visualLab/data/poi";
 import { albaniaAllPoi } from "@/lib/visualLab/data/albaniaPoi";
 import { andorraAllPoi } from "@/lib/visualLab/data/andorraPoi";
 import { austriaAllPoi } from "@/lib/visualLab/data/austriaPoi";
+import { poiExtraAustriaCities } from "./poiExtraAustriaCities";
+import { poiExtraAustriaHistorical } from "./poiExtraAustriaHistorical";
+import { poiExtraAustriaIndustry } from "./poiExtraAustriaIndustry";
+import { poiExtraAustriaLife } from "./poiExtraAustriaLife";
+import { poiExtraAustriaNature } from "./poiExtraAustriaNature";
 import { bahamasAllPoi } from "@/lib/visualLab/data/bahamasPoi";
 import { belarusAllPoi } from "@/lib/visualLab/data/belarusPoi";
 import { belgiumAllPoi } from "@/lib/visualLab/data/belgiumPoi";
@@ -28,6 +33,7 @@ import { finlandAllPoi } from "@/lib/visualLab/data/finlandPoi";
 import { franceAllPoi } from "@/lib/visualLab/data/francePoi";
 import { poiExtraFranceCities } from "./poiExtraFranceCities";
 import { greeceAllPoi } from "@/lib/visualLab/data/greecePoi";
+import { poiExtraGreeceCities } from "./poiExtraGreeceCities";
 import { guatemalaAllPoi } from "@/lib/visualLab/data/guatemalaPoi";
 import { haitiAllPoi } from "@/lib/visualLab/data/haitiPoi";
 import { hondurasAllPoi } from "@/lib/visualLab/data/hondurasPoi";
@@ -78,6 +84,11 @@ export const ALL_COUNTRY_POIS = ([
   ...albaniaAllPoi,
   ...andorraAllPoi,
   ...austriaAllPoi,
+  ...poiExtraAustriaCities,
+  ...poiExtraAustriaHistorical,
+  ...poiExtraAustriaIndustry,
+  ...poiExtraAustriaLife,
+  ...poiExtraAustriaNature,
   ...bahamasAllPoi,
   ...belarusAllPoi,
   ...belgiumAllPoi,
@@ -99,6 +110,7 @@ export const ALL_COUNTRY_POIS = ([
   ...franceAllPoi,
   ...poiExtraFranceCities,
   ...greeceAllPoi,
+  ...poiExtraGreeceCities,
   ...guatemalaAllPoi,
   ...haitiAllPoi,
   ...hondurasAllPoi,

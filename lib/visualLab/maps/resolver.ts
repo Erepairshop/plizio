@@ -57,12 +57,18 @@ import { netherlandsAllPoi } from "../data/netherlandsPoi";
 import { poiExtraNetherlandsCities } from "../data/poiExtraNetherlandsCities";
 import { austriaMap, austriaViewBox, projectCoordsAT } from "./austria.svg";
 import { austriaAllPoi } from "../data/austriaPoi";
+import { poiExtraAustriaCities } from "../data/poiExtraAustriaCities";
+import { poiExtraAustriaHistorical } from "../data/poiExtraAustriaHistorical";
+import { poiExtraAustriaIndustry } from "../data/poiExtraAustriaIndustry";
+import { poiExtraAustriaLife } from "../data/poiExtraAustriaLife";
+import { poiExtraAustriaNature } from "../data/poiExtraAustriaNature";
 import { belgiumMap, belgiumViewBox, projectCoordsBE } from "./belgium.svg";
 import { belgiumAllPoi } from "../data/belgiumPoi";
 import { portugalMap, portugalViewBox, projectCoordsPT } from "./portugal.svg";
 import { portugalAllPoi } from "../data/portugalPoi";
 import { greeceMap, greeceViewBox, projectCoordsGR } from "./greece.svg";
 import { greeceAllPoi } from "../data/greecePoi";
+import { poiExtraGreeceCities } from "../data/poiExtraGreeceCities";
 import { irelandMap, irelandViewBox, projectCoordsIE } from "./ireland.svg";
 import { irelandAllPoi } from "../data/irelandPoi";
 import { denmarkMap, denmarkViewBox, projectCoordsDK } from "./denmark.svg";
@@ -346,7 +352,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: austriaMap as unknown as BundeslandPath[],
         viewBox: austriaViewBox,
         projectCoords: projectCoordsAT,
-        pois: austriaAllPoi,
+        pois: [...austriaAllPoi, ...poiExtraAustriaCities, ...poiExtraAustriaHistorical, ...poiExtraAustriaIndustry, ...poiExtraAustriaLife, ...poiExtraAustriaNature],
         subregions: austriaSubregions,
       };
     case "be":
@@ -373,7 +379,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: greeceMap as unknown as BundeslandPath[],
         viewBox: greeceViewBox,
         projectCoords: projectCoordsGR,
-        pois: greeceAllPoi,
+        pois: [...greeceAllPoi, ...poiExtraGreeceCities],
         subregions: {},
       };
     case "ie":
