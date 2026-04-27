@@ -47,6 +47,7 @@ import { franceAllPoi } from "../data/francePoi";
 import { poiExtraFranceCities } from "../data/poiExtraFranceCities";
 import { italyAllPoi } from "../data/italyPoi";
 import { polandAllPoi } from "../data/polandPoi";
+import { poiExtraPolandCities } from "../data/poiExtraPolandCities";
 import { spainMap, spainViewBox, projectCoordsES } from "./spain.svg";
 import { spainAllPoi } from "../data/spainPoi";
 import { unitedkingdomMap, unitedkingdomViewBox, projectCoordsUK } from "./unitedkingdom.svg";
@@ -290,7 +291,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: polandMap as unknown as BundeslandPath[],
         viewBox: polandViewBox,
         projectCoords: projectCoordsPL,
-        pois: polandAllPoi,
+        pois: [...polandAllPoi, ...poiExtraPolandCities],
         subregions: polandSubregions,
       };
     case "es":
