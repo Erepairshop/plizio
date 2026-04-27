@@ -19,6 +19,7 @@ import { croatiaAllPoi } from "@/lib/visualLab/data/croatiaPoi";
 import { cubaAllPoi } from "@/lib/visualLab/data/cubaPoi";
 import { cyprusAllPoi } from "@/lib/visualLab/data/cyprusPoi";
 import { czechRepublicAllPoi } from "@/lib/visualLab/data/czechRepublicPoi";
+import { poiExtraCzechRepublicCities } from "./poiExtraCzechRepublicCities";
 import { denmarkAllPoi } from "@/lib/visualLab/data/denmarkPoi";
 import { dominicanrepublicAllPoi } from "@/lib/visualLab/data/dominicanrepublicPoi";
 import { elsalvadorAllPoi } from "@/lib/visualLab/data/elsalvadorPoi";
@@ -87,6 +88,7 @@ export const ALL_COUNTRY_POIS = ([
   ...cubaAllPoi,
   ...cyprusAllPoi,
   ...czechRepublicAllPoi,
+  ...poiExtraCzechRepublicCities,
   ...denmarkAllPoi,
   ...dominicanrepublicAllPoi,
   ...elsalvadorAllPoi,

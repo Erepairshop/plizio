@@ -76,6 +76,7 @@ import { switzerlandSubregions } from "./switzerlandSubregions";
 import { switzerlandAllPoi } from "../data/switzerlandPoi";
 import { czechRepublicMap, czechRepublicViewBox, projectCoordsCZ } from "./czechRepublic.svg";
 import { czechRepublicAllPoi } from "../data/czechRepublicPoi";
+import { poiExtraCzechRepublicCities } from "../data/poiExtraCzechRepublicCities";
 import { slovakiaMap, slovakiaViewBox, projectCoordsSK } from "./slovakia.svg";
 import { slovakiaAllPoi } from "../data/slovakiaPoi";
 import { sloveniaMap, sloveniaViewBox, projectCoordsSI } from "./slovenia.svg";
@@ -433,7 +434,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: czechRepublicMap as unknown as BundeslandPath[],
         viewBox: czechRepublicViewBox,
         projectCoords: projectCoordsCZ,
-        pois: czechRepublicAllPoi,
+        pois: [...czechRepublicAllPoi, ...poiExtraCzechRepublicCities],
         subregions: {},
       };
     case "sk":
