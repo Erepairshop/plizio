@@ -5,7 +5,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-bologna",
     name: { de: "Bologna", hu: "Bologna", ro: "Bologna", en: "Bologna" },
-    region: "IT-BO",
+    parent: "IT-BO",
     type: "state-capital",
     coords: [11.3426, 44.4949],
     description: {
@@ -36,7 +36,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-genoa",
     name: { de: "Genua", hu: "Genova", ro: "Genova", en: "Genoa" },
-    region: "IT-GE",
+    parent: "IT-GE",
     type: "state-capital",
     coords: [8.9463, 44.4056],
     description: {
@@ -67,7 +67,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-turin",
     name: { de: "Turin", hu: "Torino", ro: "Torino", en: "Turin" },
-    region: "IT-TO",
+    parent: "IT-TO",
     type: "state-capital",
     coords: [7.6868, 45.0703],
     description: {
@@ -98,7 +98,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-palermo",
     name: { de: "Palermo", hu: "Palermo", ro: "Palermo", en: "Palermo" },
-    region: "IT-PA",
+    parent: "IT-PA",
     type: "state-capital",
     coords: [13.3613, 38.1157],
     description: {
@@ -129,7 +129,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-catania",
     name: { de: "Catania", hu: "Catania", ro: "Catania", en: "Catania" },
-    region: "IT-CT",
+    parent: "IT-CT",
     type: "city",
     coords: [15.0873, 37.5025],
     description: {
@@ -160,7 +160,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-verona",
     name: { de: "Verona", hu: "Verona", ro: "Verona", en: "Verona" },
-    region: "IT-VR",
+    parent: "IT-VR",
     type: "city",
     coords: [10.9916, 45.4384],
     description: {
@@ -192,7 +192,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-trieste",
     name: { de: "Triest", hu: "Trieszt", ro: "Trieste", en: "Trieste" },
-    region: "IT-TS",
+    parent: "IT-TS",
     type: "state-capital",
     coords: [13.7768, 45.6531],
     description: {
@@ -223,7 +223,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
   {
     id: "city-it-padua",
     name: { de: "Padua", hu: "Padova", ro: "Padova", en: "Padua" },
-    region: "IT-PD",
+    parent: "IT-PD",
     type: "city",
     coords: [11.8768, 45.4064],
     description: {

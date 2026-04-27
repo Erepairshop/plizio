@@ -66,6 +66,12 @@ import { belgiumMap, belgiumViewBox, projectCoordsBE } from "./belgium.svg";
 import { belgiumAllPoi } from "../data/belgiumPoi";
 import { portugalMap, portugalViewBox, projectCoordsPT } from "./portugal.svg";
 import { portugalAllPoi } from "../data/portugalPoi";
+import { poiExtraPortugalCities } from "../data/poiExtraPortugalCities";
+import { poiExtraPortugalFinal } from "../data/poiExtraPortugalFinal";
+import { poiExtraPortugalHistorical } from "../data/poiExtraPortugalHistorical";
+import { poiExtraPortugalIndustry } from "../data/poiExtraPortugalIndustry";
+import { poiExtraPortugalMixed } from "../data/poiExtraPortugalMixed";
+import { poiExtraPortugalNature } from "../data/poiExtraPortugalNature";
 import { greeceMap, greeceViewBox, projectCoordsGR } from "./greece.svg";
 import { greeceAllPoi } from "../data/greecePoi";
 import { poiExtraGreeceCities } from "../data/poiExtraGreeceCities";
@@ -370,7 +376,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         map: portugalMap as unknown as BundeslandPath[],
         viewBox: portugalViewBox,
         projectCoords: projectCoordsPT,
-        pois: portugalAllPoi,
+        pois: [
+          ...portugalAllPoi,
+          ...poiExtraPortugalCities,
+          ...poiExtraPortugalFinal,
+          ...poiExtraPortugalHistorical,
+          ...poiExtraPortugalIndustry,
+          ...poiExtraPortugalMixed,
+          ...poiExtraPortugalNature,
+        ],
         subregions: {},
       };
     case "gr":

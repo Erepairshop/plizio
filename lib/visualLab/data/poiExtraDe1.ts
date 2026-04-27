@@ -49,7 +49,7 @@ export const poiExtraDe1: POI[] = [
       de: "Ingolstadt an der Donau ist eine Stadt mit einer faszinierenden Mischung aus herzoglicher Geschichte und hochmoderner Industrie. Erstmals 806 n. Chr. erwähnt, wurde sie später zur ersten bayerischen Landesuniversität (1472) und zur bedeutenden bayerischen Landesfestung. Heute ist Ingolstadt untrennbar mit der Automobilindustrie verbunden, da hier der Hauptsitz und das Stammwerk von Audi beheimatet sind. Die historische Altstadt mit dem prächtigen Liebfrauenmünster und dem Neuen Schloss zeugt von der Bedeutung als Residenzstadt der bayerischen Herzöge. Auch literarisch erlangte die Stadt Weltruhm als Schauplatz von Mary Shelleys Roman 'Frankenstein'. Geographie K7 – Industrie- und Technologiestandorte in Deutschland.",
       hu: "A(z) Ingolstadt egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ingolstadt ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Ingolstadt an der Donau is a city where Bavarian ducal history meets high-tech industrial power. First mentioned in 806 AD, it became home to Bavaria's first state university in 1472, which served as a major center of learning for over 300 years. The city is also famous as the setting of Mary Shelley's 'Frankenstein,' where the fictional scientist allegedly created his monster. Today, Ingolstadt is synonymous with the automotive giant Audi, which has its global headquarters and largest factory here. The historic old town, with its massive Liebfrauenmünster and the 'New Castle,' offers a striking contrast to the ultra-modern 'Audi Forum' and the surrounding industrial zones. Földrajz K7 – Industrial centers and technological development."
     },
     factsAdvanced: {
       de: ["Erste bayerische Landesuniversität wurde hier im Jahr 1472 gegründet.", "Hauptsitz der Audi AG mit über 31.000 Mitarbeitern am Standort.", "Das Liebfrauenmünster besitzt einen der größten Dachstühle Süddeutschlands.", "Bekannt als Schauplatz von Mary Shelleys berühmtem Roman 'Frankenstein'.", "Historische bayerische Landesfestung mit gut erhaltenen Verteidigungsanlagen.", "Verkündungsort des bayerischen Reinheitsgebots für Bier im Jahr 1516."],
@@ -62,7 +62,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Home to Bavaria's first state university, founded in 1472.", "Global headquarters and largest production site of Audi AG.", "The setting for Mary Shelley's world-famous novel 'Frankenstein'.", "The Bavarian Purity Law (Reinheitsgebot) for beer was issued here in 1516.", "Features the largest roof structure in Southern Germany at Liebfrauenmünster.", "A historic ducal residence and powerful Bavarian state fortress."]
     },
     faq: {
       "de": [
@@ -186,7 +186,7 @@ export const poiExtraDe1: POI[] = [
       de: "Passau, die 'Dreiflüssestadt', liegt am einzigartigen Zusammenfluss von Donau, Inn und Ilz. Diese geographische Besonderheit prägt das Stadtbild und macht Passau zu einem der schönsten Orte Bayerns. Die Altstadt, die nach einem Stadtbrand im 17. Jahrhundert von italienischen Meistern im Barockstil wiederaufgebaut wurde, verströmt ein fast mediterranes Flair. Überragt wird die Szenerie vom Stephansdom, der die größte Domorgel der Welt beherbergt. Historisch war Passau ein mächtiges Fürstbistum und ein zentraler Knotenpunkt für den Handel auf der Donau. Heute ist die Stadt zudem ein beliebter Ausgangspunkt für Flusskreuzfahrten und Radreisen. Geographie K7 – Stadtentwicklung an großen Flüssen.",
       hu: "A(z) Passau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Passau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Passau, known as the 'City of Three Rivers,' is one of Germany's most beautiful and geographically unique cities. It lies at the confluence of the Danube, the Inn, and the Ilz, where the three distinct colors of the rivers merge in a spectacular natural display. The city's silhouette is dominated by the Italian-Baroque St. Stephen's Cathedral, which houses the world's largest cathedral organ. For centuries, Passau was an independent prince-bishopric, and its wealthy history is reflected in the narrow winding streets and grand plazas of its old town. Perched high above the rivers, the 'Veste Oberhaus' fortress offers breathtaking views of the city and the surrounding Bavarian and Austrian landscapes. Földrajz K7 – River confluences and historical trade routes."
     },
     factsAdvanced: {
       de: ["Zusammenfluss von Donau, Inn und Ilz am sogenannten 'Dreiflüsseeck'.", "Der Stephansdom beherbergt mit 17.774 Pfeifen die größte Domorgel weltweit.", "Die Veste Oberhaus ist eine der größten erhaltenen Burganlagen Europas.", "Wurde im 17. Jahrhundert im Stil des italienischen Barocks neu gestaltet.", "Gisela von Bayern, erste Königin von Ungarn, liegt hier begraben.", "Wichtiger Knotenpunkt für Donau-Kreuzfahrten mit über 50.000 Passagieren jährlich."],
@@ -199,7 +199,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Located at the confluence of the Danube, Inn, and Ilz rivers.", "St. Stephen's Cathedral houses the world's largest cathedral organ.", "Known as the 'Three Rivers City' (Dreiflüssestadt).", "The Veste Oberhaus is one of the largest preserved fortress complexes in Europe.", "A historic independent prince-bishopric with a rich Baroque heritage.", "An important gateway for river cruises between Germany and Austria."]
     },
     faq: {
       "de": [
@@ -308,7 +308,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der 1.838 Meter hohe Wendelstein ist einer der markantesten Aussichtsgipfel der Bayerischen Alpen. Er ist nicht nur für sein beeindruckendes Panorama bekannt, das vom Großglockner bis zum Wettersteingebirge reicht, sondern auch für seine Pionierrolle in der Erschließung der Berge. Die Wendelsteinbahn, die 1912 in Betrieb ging, ist die älteste elektrische Zahnradbahn Deutschlands und ein technisches Denkmal. Auf dem Gipfel befinden sich eine Sternwarte der Universität München, eine Wetterstation und das höchstgelegene Kirchlein Deutschlands. Eine geologische Besonderheit ist die Wendelsteinhöhle, die höchste Schauhöhle des Landes. Geographie K6 – Erschließung und Nutzung der Hochgebirge.",
       hu: "A(z) Wendelstein egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wendelstein ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Wendelstein is one of the most prominent and beloved peaks in the Bavarian Alps, standing at 1,838 meters. It is famous for its spectacular 360-degree views that stretch from the peaks of the Central Alps to the Bavarian foothills. Since 1912, the summit has been accessible via Germany's oldest rack railway, a masterpiece of alpine engineering that still operates today alongside a modern cable car. The summit is also a center for science, housing an observatory and a high-altitude meteorological station. Visitors can explore Germany's highest church and a fascinating ice cave, making the Wendelstein a unique destination where nature, technology, and spirituality meet high above the clouds. Földrajz K7 – High mountains and alpine tourism."
     },
     factsAdvanced: {
       de: ["Gipfelhöhe von 1.838 Metern über dem Meeresspiegel in den Voralpen.", "Die Wendelstein-Zahnradbahn wurde bereits im Jahr 1912 eröffnet.", "Auf dem Gipfel steht das Wendelsteinkircherl, Deutschlands höchste Kirche.", "Die Wendelsteinhöhle ist die höchstgelegene Schauhöhle in ganz Deutschland.", "Beherbergt ein Observatorium für astronomische und solare Forschung.", "Bietet einen Rundweg mit 360-Grad-Panorama auf über 200 Alpengipfel."],
@@ -321,7 +321,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Summit height of 1,838 meters in the Mangfall Mountains.", "Home to Germany's oldest rack railway, opened in 1912.", "Features Germany's highest church, the Wendelsteinkirchlein.", "Hosts a world-class solar and astronomical observatory at the top.", "Includes a natural ice cave located at 1,711 meters altitude.", "Offers views of over 200 Alpine peaks on a clear day."]
     },
     faq: {
       "de": [
@@ -446,7 +446,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Salzach ist der bedeutendste Fluss im Land Salzburg und ein mächtiger rechter Nebenfluss des Inns. Auf ihrem 225 Kilometer langen Weg von den Kitzbüheler Alpen bis zur Mündung bei Haiming prägt sie die Landschaft und Geschichte der Region. Historisch war die Salzach die Lebensader für den Transport des 'Weißen Goldes' – des Salzes aus den Minen von Hallein. Heute bildet sie über lange Strecken die natürliche Grenze zwischen Bayern und Österreich. In Städten wie Burghausen bietet sie eine spektakuläre Kulisse für die weltlängste Burg. Der Fluss ist zudem ein wichtiger Energielieferant durch zahlreiche Wasserkraftwerke. Geographie K7 – Flusssysteme und historische Handelswege.",
       hu: "A(z) Salzach egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Salzach ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Salzach is a powerful alpine river that has shaped the history and geography of the Austro-Bavarian border for millennia. Its name, meaning 'Salt River,' refers to the vital role it played in transporting the 'white gold' from the mines of Hallein and Berchtesgaden to the markets of Europe. As the largest tributary of the Inn, it flows through spectacular gorges and historic towns like Burghausen, which boasts the world's longest castle. Today, the Salzach is a popular destination for cycling and hiking, and its restoration projects have made it a model for river conservation in Central Europe. It remains a living boundary between nations and a vital artery of the Eastern Alps. Földrajz K7 – Alpine rivers and historical trade routes."
     },
     factsAdvanced: {
       de: ["Gesamtlänge von ca. 225 km und wichtigster Zufluss des Inns.", "Namensgeber für das Land Salzburg durch den historischen Salzhandel.", "Bildet eine 59 Kilometer lange natürliche Grenze zwischen Deutschland und Österreich.", "Passiert die Burg zu Burghausen, die mit 1.051 m längste Burg der Welt.", "Entspringt in den Kitzbüheler Alpen auf etwa 2.300 Metern Höhe.", "Wichtige Rolle bei der Holztrift und dem Transport von Gütern im Mittelalter."],
@@ -459,7 +459,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The largest and most important tributary of the Inn river.", "Served as the primary transport route for salt for centuries.", "Flows past the world's longest castle in the town of Burghausen.", "The river is approximately 225 kilometers long.", "Forms the natural border between Germany and Austria for 59 km.", "Famous for its dramatic 'Salzachöfen' gorge near Golling."]
     },
     faq: {
       "de": [
@@ -585,7 +585,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Walchensee ist einer der tiefsten und größten Alpenseen Deutschlands und besticht durch sein türkisfarbenes, klares Wasser. Inmitten der Bayerischen Voralpen auf 800 Metern Höhe gelegen, ist er ein Paradies für Taucher, Windsurfer und Wanderer. Eine technische Meisterleistung ist das Walchenseekraftwerk, das den Höhenunterschied von 200 Metern zum Kochelsee zur Stromerzeugung nutzt. Der See entstand vor etwa 18.000 Jahren durch Gletschereinwirkung und ist heute ein Landschaftsschutzgebiet. Durch seine windgeschützte Lage zwischen den Bergen Jochberg und Herzogstand herrscht hier ein besonderes Kleinklima, das ihn zu einem beliebten Drehort für internationale Filmproduktionen macht. Geographie K6 – Glaziale Seenlandschaften und erneuerbare Energien.",
       hu: "A(z) Walchensee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Walchensee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Lake Walchensee is one of Germany's deepest and largest alpine lakes, frequently called the 'Bavarian Caribbean' because of its stunning turquoise and emerald waters. Located at an altitude of 800 meters, the lake is surrounded by the dramatic peaks of the Karwendel and Wetterstein mountains. Its unique location creates reliable thermal winds, making it a world-class destination for windsurfers and sailors. Beyond its beauty, the lake plays a critical role in energy production; the Walchensee Hydroelectric Power Station, opened in 1924, uses the 200-meter drop to Lake Kochelsee to generate green energy. The lake's pristine environment and crystal-clear water also make it a popular spot for divers and nature photographers. Földrajz K7 – Alpine lakes and renewable energy production."
     },
     factsAdvanced: {
       de: ["Mit bis zu 190 Metern Tiefe einer der tiefsten Alpenseen Deutschlands.", "Die Wasserfläche des Sees beträgt rund 16,4 Quadratkilometer.", "Das Walchenseekraftwerk wurde 1924 als größtes Speicherkraftwerk eröffnet.", "Der See liegt auf einer Höhe von 800 Metern über dem Meeresspiegel.", "Bekannt als Drehort für Filme wie 'Wickie und die starken Männer'.", "Bietet Sichtweiten von bis zu 40 Metern, ideal für Sporttaucher."],
@@ -598,7 +598,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["One of Germany's deepest alpine lakes, reaching 192 meters.", "Known for its striking turquoise color and crystal-clear water.", "Forms a giant natural reservoir for the Walchensee power station.", "Situated at an altitude of 800 meters above sea level.", "A premier European destination for windsurfing and sailing.", "The entire lake is a protected landscape and nature area."]
     },
     faq: {
       "de": [
@@ -723,7 +723,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Würzburger Residenz gilt als eines der bedeutendsten Barockschlösser Europas und wurde 1981 als eines der ersten deutschen Denkmäler in die UNESCO-Welterbeliste aufgenommen. Erbaut zwischen 1720 und 1744 unter der Leitung von Balthasar Neumann, vereint sie französische Schlossarchitektur, Wiener Barock und oberitalienischen Palaststil. Das architektonische Juwel ist das Treppenhaus mit seinem freitragenden Muldengewölbe, das mit dem weltgrößten zusammenhängenden Deckenfresko von Giovanni Battista Tiepolo geschmückt ist. Die über 300 Prunkräume und der prächtige Hofgarten spiegeln die Macht und den Glanz der Würzburger Fürstbischöfe wider. Kunstgeschichte K8 – Höfische Architektur und Malerei des Barock.",
       hu: "A(z) Würzburger Residenz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Würzburger Residenz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Würzburg Residence is a masterpiece of South German Baroque and one of the most important palaces in Europe, recognized as a UNESCO World Heritage site since 1981. Built in the 18th century for the Prince-Bishops of Würzburg, it was designed by the visionary architect Balthasar Neumann. The palace is world-famous for its magnificent grand staircase, which is topped by the largest single-piece fresco in the world, painted by the Venetian master Giovanni Battista Tiepolo. The fresco depicts the four known continents of the time in vibrant, allegorical detail. Surrounded by the beautiful Court Gardens, the Residence stands as a symbol of the wealth and cultural ambition of the Baroque era. Geschichte K8 – Baroque architecture and the age of absolute rulers."
     },
     factsAdvanced: {
       de: ["Erbaut von 1720 bis 1744 unter dem Architekten Balthasar Neumann.", "Beherbergt das größte zusammenhängende Deckenfresko der Welt (600 m²).", "Das Deckengemälde von Tiepolo stellt die damals bekannten vier Kontinente dar.", "Das Muldengewölbe über der Treppe ist eine bautechnische Meisterleistung.", "UNESCO-Welterbe seit 1981 aufgrund seiner künstlerischen Geschlossenheit.", "Überstand die Zerstörung Würzburgs 1945 durch seine massiven Gewölbe."],
@@ -736,7 +736,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site since 1981.", "Designed by Balthasar Neumann, a leading Baroque architect.", "Contains the world's largest single-piece fresco by Tiepolo.", "Completed in 1744 after 24 years of construction.", "The Grand Staircase is an engineering marvel of its time.", "Includes the magnificent Mirror Cabinet, a pinnacle of Rococo art."]
     },
     faq: {
       "de": [
@@ -862,7 +862,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Regensburger Dom St. Peter ist die bedeutendste Kathedrale Bayerns und ein Meisterwerk der französischen Gotik auf deutschem Boden. Der Bau begann um 1273 und wurde erst nach über 600 Jahren mit der Vollendung der 105 Meter hohen Türme im 19. Jahrhundert abgeschlossen. Besonders kostbar sind die mittelalterlichen Glasmalereien aus dem 13. und 14. Jahrhundert, die das Innere in ein mystisches Licht tauchen. Der Dom ist zudem die Heimat der Regensburger Domspatzen, eines der ältesten und berühmtesten Knabenchöre der Welt. Als Teil der Regensburger Altstadt gehört er zum UNESCO-Welterbe und ist ein spirituelles Zentrum von europäischem Rang. Geschichte K6 – Religiöses Leben und Kathedralbau im Mittelalter.",
       hu: "A(z) Regensburger Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Regensburger Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Regensburg Cathedral, dedicated to St. Peter, is the most significant Gothic building in Bavaria and a landmark of the UNESCO-listed Old Town of Regensburg. Construction began around 1273, and the cathedral stands as a testament to the city's medieval wealth and importance as a center of the Holy Roman Empire. It is famous for its unique stained glass windows, some dating back to the 13th century, and its role as the home of the 'Regensburger Domspatzen,' one of the oldest and most famous boys' choirs in the world. The twin spires, reaching 105 meters, were only completed in the 19th century, following the original medieval plans. It remains a place of deep spiritual resonance and artistic grandeur. Geschichte K8 – Gothic architecture and the medieval church."
     },
     factsAdvanced: {
       de: ["Hauptwerk der Gotik in Bayern, begonnen um das Jahr 1273.", "Die markanten Domtürme erreichen eine Höhe von jeweils 105 Metern.", "Besitzt einen der umfangreichsten Bestände an originalen Glasmalereien.", "Sitz der Regensburger Domspatzen, die bereits im Jahr 975 erwähnt wurden.", "Berühmte Skulptur des 'Lachenden Engels' im Inneren des Doms.", "Der Dom wurde fast vollständig aus lokalem Kalkstein errichtet."],
@@ -875,7 +875,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The primary example of French Gothic architecture in Bavaria.", "Home to the 'Regensburger Domspatzen' boys' choir since 975 AD.", "Features a spectacular set of original 13th-century stained glass.", "The twin spires are 105 meters high and dominate the skyline.", "Construction spanned over 600 years from 1273 to 1872.", "Located in the heart of the UNESCO World Heritage site of Regensburg."]
     },
     faq: {
       "de": [
@@ -999,7 +999,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Frankenwald, oft als die 'Grüne Krone Bayerns' bezeichnet, ist ein waldreiches Mittelgebirge im Norden Bayerns. Auf rund 1.000 Quadratkilometern erstreckt sich eine Landschaft aus tief eingeschnittenen Tälern und weiten Hochflächen aus Schiefergestein. Historisch war die Region durch die Flößerei geprägt, die das Holz des Waldes bis nach Holland brachte, sowie durch die Glasherstellung. Heute ist der Frankenwald als Qualitäts-Wanderregion bekannt und beherbergt den berühmten Rennsteig an seiner Nordgrenze. Der Naturpark schützt seltene Lebensräume wie Bergwiesen und lichte Nadelwälder und ist ein Geheimtipp für Ruhesuchende abseits der großen Touristenströme. Geographie K6 – Wirtschaftsweisen im Mittelgebirge.",
       hu: "A(z) Frankenwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Frankenwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Frankenwald (Franconian Forest) is a vast, rolling upland in northern Bavaria, characterized by dense spruce forests, deep valleys, and mist-covered plateaus. Known as the 'Green Crown of Bavaria,' it was historically a center for glassmaking and charcoal production, and its rivers were once used for timber rafting. Today, the Frankenwald is Germany's first certified 'Quality Hiking Region,' offering over 3,500 kilometers of pristine trails through its rugged landscape. It is a haven for biodiversity, providing a home for rare species like the black stork and the wildcat. The region's quiet, untouched nature makes it an ideal destination for those seeking a peaceful escape from modern urban life. Földrajz K7 – Uplands and forest ecosystems in Germany."
     },
     factsAdvanced: {
       de: ["Umfasst eine Gesamtfläche von ca. 1.000 Quadratkilometern in Oberfranken.", "Bekannt für den historischen Berufsstand der Flößer auf der Rodach.", "Die höchste Erhebung ist der Döbraberg mit 794 Metern Höhe.", "Besteht geologisch größtenteils aus paläozoischem Schiefergestein.", "Trägt aufgrund seines dichten Baumbestandes den Namen 'Grüne Krone'.", "Lucas Cranach der Ältere wurde 1472 in der Frankenwaldstadt Kronach geboren."],
@@ -1012,7 +1012,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Known as the 'Green Crown of Bavaria' for its dense forests.", "The first certified 'Quality Hiking Region' in Germany.", "Historically famous for timber rafting on the Rodach and Main rivers.", "Covers an area of approximately 1,200 square kilometers.", "Highest peak is the Döbraberg at 794 meters altitude.", "Home to rare species like the black stork and the European wildcat."]
     },
     faq: {
       "de": [
@@ -1137,7 +1137,7 @@ export const poiExtraDe1: POI[] = [
       de: "Schloss Nymphenburg in München war über Jahrhunderte die Sommerresidenz der bayerischen Herrscher aus dem Hause Wittelsbach. Das prunkvolle Ensemble zählt mit einer Spannweite von 632 Metern zu den größten Königsschlössern Europas. Besonders sehenswert ist der prächtige 'Steinerne Saal', die berühmte Schönheitengalerie König Ludwigs I. und die weltweit renommierte Nymphenburger Porzellanmanufaktur, die noch heute im Schlossgelände produziert. Der weitläufige Schlosspark im Stil eines englischen Landschaftsgartens beherbergt zudem kostbare Parkburgen wie die Amalienburg. Nymphenburg ist ein Paradebeispiel barocker Architektur und bayerischer Repräsentationskultur. Geschichte K7 – Absolutismus und höfische Kultur in Bayern.",
       hu: "A(z) Schloss Nymphenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Nymphenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Nymphenburg Palace in Munich was the primary summer residence of the Wittelsbach dynasty, the long-reigning rulers of Bavaria. This sprawling Baroque complex, begun in 1664, is one of the largest royal palaces in Europe, outshining even Versailles in its breadth. The palace is surrounded by a magnificent 200-hectare park, which was transformed from a formal French garden into a naturalistic English landscape in the 19th century. Highlights include the 'Gallery of Beauties' commissioned by King Ludwig I and the world-famous Nymphenburg Porcelain Manufactory. The park also hides several charming pavilions like the Amalienburg, a Rococo gem. It remains a beloved site for both history enthusiasts and locals seeking a royal stroll. Geschichte K8 – Absolutism and royal garden design."
     },
     factsAdvanced: {
       de: ["Erbaut ab 1664 als Geschenk für die Kurfürstin Henriette Adelheid.", "Die Hauptfassade hat eine Gesamtlänge von beeindruckenden 632 Metern.", "Beherbergt die 'Schönheitengalerie' mit 36 Porträts von Joseph Stieler.", "Geburtsort von König Ludwig II., dem späteren 'Märchenkönig'.", "Sitz der Porzellanmanufaktur Nymphenburg (gegründet 1747).", "Der Schlosspark umfasst eine Fläche von etwa 180 Hektar."],
@@ -1150,7 +1150,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Primary summer residence of the Bavarian Kings (Wittelsbachs).", "The palace front is over 600 meters wide, broader than Versailles.", "Birthplace of the 'Fairytale King' Ludwig II in 1845.", "Houses the world-renowned Nymphenburg Porcelain Manufactory.", "The 200-hectare park is a masterpiece of garden architecture.", "Features the 'Gallery of Beauties' with 36 portraits of women."]
     },
     faq: {
       "de": [
@@ -1274,7 +1274,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Hallertau in Bayern ist das größte zusammenhängende Hopfenanbaugebiet der Welt und liefert rund ein Drittel des weltweiten Hopfenbedarfs. Auf einer Fläche von rund 2.400 Quadratkilometern prägen die bis zu sieben Meter hohen Hopfengärten das Landschaftsbild. Das 'Grüne Gold' wird hier bereits seit dem 8. Jahrhundert kultiviert und ist der wichtigste Rohstoff für die Bitterkeit und das Aroma des Bieres. Mit dem Forschungszentrum Hüll ist die Region zudem weltweit führend in der Züchtung neuer, klimaresistenter Hopfensorten. Die Ernte im September ist ein kulturelles Highlight der Region und lockt zahlreiche Besucher zu Volksfesten und Führungen an. Geographie K8 – Spezialisierte Landwirtschaft und Weltmarktbeziehungen.",
       hu: "A(z) Hallertau Hopfenanbaugebiet egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Hallertau Hopfenanbaugebiet ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Hallertau in central Bavaria is the largest continuous hop-growing region in the world, producing a significant portion of the global supply of 'green gold.' This unique landscape is defined by thousands of towering hop trellises, which can reach heights of up to seven meters, creating a 'forest of poles' that is especially striking in late summer. The region's mild climate and fertile soil are perfect for cultivating the delicate hop plants, which give German beer its characteristic bitterness and aroma. Hop farming here is a tradition dating back over a thousand years, and the harvest season is celebrated with local festivals and customs. The Hallertau is a vital pillar of the global brewing industry and a symbol of Bavarian agricultural excellence. Földrajz K7 – Specialized agriculture and cultural landscapes."
     },
     factsAdvanced: {
       de: ["Größtes zusammenhängendes Hopfenanbaugebiet der Welt (ca. 17.000 ha).", "Rund 34 % der weltweiten Hopfenernte stammt aus dieser Region.", "Die Hopfenpflanzen wachsen an 7 Meter hohen Drahtgerüsten empor.", "Erste urkundliche Erwähnung des Hopfenanbaus im Jahr 736 n. Chr.", "Wachstumsrekorde von bis zu 30 cm an einem einzigen Tag möglich.", "Sitz des weltweit bedeutendsten Hopfenforschungszentrums in Hüll."],
@@ -1287,7 +1287,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The largest continuous hop-growing region on Earth.", "Supplies approximately 25% of the entire world's hop demand.", "Hop cultivation in the region dates back to the year 736 AD.", "Trellises reach heights of up to 7 meters above the ground.", "The region spans roughly 2,400 square kilometers of Bavaria.", "Home to the German Hop Museum in the town of Wolnzach."]
     },
     faq: {
       "de": [
@@ -1413,7 +1413,7 @@ export const poiExtraDe1: POI[] = [
       de: "Münster ist eine der bedeutendsten Universitätsstädte Deutschlands und weltweit als 'Fahrradhauptstadt' bekannt. Über 500.000 Fahrräder bei rund 310.000 Einwohnern prägen den Alltag und das Stadtbild, besonders auf der Promenade, einem grünen Gürtel um die Altstadt. Historisch erlangte Münster Weltruhm als Ort des Westfälischen Friedens von 1648, der den Dreißigjährigen Krieg beendete. Das historische Rathaus am Prinzipalmarkt mit seinen charakteristischen Giebelhäusern zeugt von der Macht der hansischen Kaufleute. Münster verbindet eine traditionsreiche Geschichte mit einer jungen, lebendigen Atmosphäre und ist regelmäßig unter den Städten mit der höchsten Lebensqualität weltweit. Geschichte K7 – Der Westfälische Friede und die europäische Ordnung.",
       hu: "A(z) Münster egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Münster ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Münster, the historic capital of Westphalia, is a city of peace, bicycles, and stunning medieval architecture. It gained global significance in 1648 as the site of the signing of the Peace of Westphalia, which ended the Thirty Years' War and laid the foundations for modern international law. The city's heart is the Prinzipalmarkt, a beautiful square lined with gabled houses and the historic town hall. Münster is also known as the 'Bicycle Capital' of Germany, with over 500,000 bikes and a dedicated ring-road just for cyclists. The massive St. Paulus Cathedral, with its 16th-century astronomical clock, and the surrounding Aasee lake make Münster one of Germany's most livable and historically rich cities. Geschichte K8 – The Peace of Westphalia and urban development."
     },
     factsAdvanced: {
       de: ["Ort des Westfälischen Friedensschlusses 1648 im Historischen Rathaus.", "Gilt mit über 500.000 Leezen (Fahrrädern) als Fahrradhauptstadt.", "Die Universität Münster gehört mit 45.000 Studenten zu den größten Deutschlands.", "Der Prinzipalmarkt ist eine der schönsten Kaufmannsstraßen Europas.", "St. Paulus-Dom besitzt eine astronomische Uhr aus dem 16. Jahrhundert.", "Die Promenade ist ein 4,5 km langer, autofreier Grünring um die City."],
@@ -1426,7 +1426,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Site of the 1648 Peace of Westphalia, ending the Thirty Years' War.", "Officially named Germany's 'Bicycle Capital' with millions of trips.", "The Prinzipalmarkt features 48 unique gabled houses.", "Home to the University of Münster, one of Germany's largest.", "The astronomical clock in the cathedral dates back to 1540.", "Features the 'Lamberti' cages where Anabaptist leaders were hung."]
     },
     faq: {
       "de": [
@@ -1550,7 +1550,7 @@ export const poiExtraDe1: POI[] = [
       de: "Wuppertal ist das Industrie- und Kulturzentrum des Bergischen Landes und weltweit berühmt für sein technisches Wahrzeichen: die Schwebebahn. Seit 1901 gleiten die Wagen dieser weltweit ältesten elektrischen Hochbahn sicher über die Wupper und die Straßen der Stadt. Wuppertal war eine Wiege der Industrialisierung in Deutschland, was sich noch heute in den prächtigen Villenvierteln der Textilbarone widerspiegelt. Die Stadt liegt in einem schmalen Tal und ist von bewaldeten Hängen umgeben, was ihr den Ruf als eine der grünsten Großstädte Deutschlands einbrachte. Auch kulturell setzt Wuppertal mit dem renommierten Von der Heydt-Museum und dem Pina Bausch Tanztheater internationale Akzente. Geographie K7 – Stadtentwicklung in Tallagen und Industriegeschichte.",
       hu: "A(z) Wuppertal egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wuppertal ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Wuppertal is a unique industrial city nestled in the narrow, steep valley of the Wupper river. It is world-famous for its 'Schwebebahn' (Suspension Railway), a futuristic-looking overhead train that has been gliding above the river and streets since 1901. This engineering marvel was a pioneering solution to the city's difficult terrain and remains a vital part of daily life. Wuppertal was a major center of the early industrial revolution in Germany, particularly for the textile and chemical industries – it was here that Bayer was founded. The city is also a cultural hub, home to the world-renowned Tanztheater Pina Bausch and the Von der Heydt Museum, which houses one of Germany's finest collections of modern art. Földrajz K7 – Industrial valleys and innovative transportation."
     },
     factsAdvanced: {
       de: ["Heimat der Wuppertaler Schwebebahn, eröffnet im Jahr 1901.", "Früher bedeutendes Zentrum der Textilindustrie in Preußen.", "Die Stadt entstand 1929 durch den Zusammenschluss von Elberfeld und Barmen.", "Besitzt eines der bedeutendsten Kunstmuseen Deutschlands (Von der Heydt).", "Wuppertal gilt mit über 400 km Wanderwegen als sehr grüne Stadt.", "Die Gesamtlänge der Schwebebahnstrecke beträgt 13,3 Kilometer."],
@@ -1563,7 +1563,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Home to the unique Suspension Railway (Schwebebahn), opened in 1901.", "The birthplace of the global pharmaceutical giant Bayer.", "Known as the 'Staircase City' due to its steep, hilly terrain.", "Features the world-famous Tanztheater founded by Pina Bausch.", "The Schwebebahn covers a distance of 13.3 kilometers.", "Historically a major European center for textile manufacturing."]
     },
     faq: {
       "de": [
@@ -1688,7 +1688,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Lippe ist mit 220 Kilometern der längste Fluss Westfalens und ein wichtiger rechter Nebenfluss des Rheins. Historisch war die Lippe von enormer strategischer Bedeutung: Schon die Römer nutzten sie als Transportweg für ihre Feldzüge und errichteten entlang des Flusses bedeutende Lager wie in Haltern. Im Mittelalter diente sie als wichtige Grenze und Handelsweg. Heute ist die Lippe-Region durch den Kontrast zwischen industrieller Nutzung im Ruhrgebiet und idyllischen Auenlandschaften geprägt. Umfangreiche Renaturierungsprojekte haben den Fluss in weiten Teilen wieder in einen naturnahen Zustand versetzt, was ihn zu einem wichtigen Lebensraum für seltene Vogelarten und Fische macht. Geographie K7 – Flüsse als historische Grenzen und moderne Lebensadern.",
       hu: "A(z) Lippe egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Lippe ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Lippe is a vital river in North Rhine-Westphalia, flowing through the historic Lippe Valley and serving as a lifeline for the region's industry and nature. Stretching 220 kilometers from its source in Bad Lippspringe to its confluence with the Rhine in Wesel, it passes through the heart of the Ruhr area. Historically, the river was an important transport route for coal and steel, and today it is parallel to the Datteln-Hamm Canal, one of Europe's busiest waterways. In recent years, massive restoration projects have returned many sections of the Lippe to their natural, meandering state, creating a lush corridor for rare birds and plants. It is a perfect example of a river that balances industrial utility with ecological recovery. Földrajz K7 – Industrial rivers and ecological restoration."
     },
     factsAdvanced: {
       de: ["Längster Fluss Westfalens mit einer Gesamtlänge von ca. 220 km.", "Diente den Römern als wichtige Aufmarschroute nach Germanien.", "Entspringt aus einer Karstquelle in Bad Lippspringe.", "Verbindet das Paderborner Land mit dem Niederrhein bei Wesel.", "Wichtiger Schifffahrtsweg durch den parallel verlaufenden Lippe-Seitenkanal.", "Renaturierte Lippe-Auen sind heute bedeutende Naturschutzgebiete."],
@@ -1701,7 +1701,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The longest river that flows entirely within North Rhine-Westphalia.", "Historically defined the northern boundary of the Roman Empire.", "Parallel to the Datteln-Hamm Canal, a key European waterway.", "Approximately 220 kilometers long from source to mouth.", "Home to the 'Lippe-Aue' nature reserve, a bird sanctuary.", "Passes through major cities like Hamm, Lünen, and Wesel."]
     },
     faq: {
       "de": [
@@ -1827,7 +1827,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Kölner Dom ist das unangefochtene Wahrzeichen der Stadt und ein Meisterwerk der hochgotischen Architektur. Als drittgrößte gotische Kathedrale der Welt beeindruckt er durch seine riesigen Ausmaße und die beiden 157 Meter hohen Türme. Der Bau begann 1248, um die Gebeine der Heiligen Drei Könige würdig aufzubewahren, blieb aber über Jahrhunderte unvollendet und wurde erst 1880 fertiggestellt. Der Dom beherbergt unschätzbare Kunstschätze wie den Dreikönigenschrein und die Mailänder Madonna. Seit 1996 gehört er zum UNESCO-Weltkulturerbe und ist mit über sechs Millionen Besuchern jährlich die meistbesuchte Sehenswürdigkeit Deutschlands. Geschichte K6 – Architektur und Symbolik gotischer Kathedralen.",
       hu: "A(z) Externsteine egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Externsteine ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Cologne Cathedral, a UNESCO World Heritage site, is a titan of Gothic architecture and one of Germany's most visited landmarks. Standing 157 meters tall, its twin spires dominate the city skyline and were the tallest structures in the world when completed in 1880. The cathedral was built to house the 'Shrine of the Three Kings,' a massive golden reliquary that made Cologne one of the most important pilgrimage sites in Christendom. Construction began in 1248 but halted for over 300 years, leaving the half-finished towers as a symbol of the city until the 19th-century Romantic movement inspired its completion. Today, it stands as a monument to human persistence and artistic mastery, attracting millions of people from around the globe. Geschichte K8 – High Gothic architecture and religious art."
     },
     factsAdvanced: {
       de: ["Bauzeit erstreckte sich mit Unterbrechungen von 1248 bis 1880.", "Die beiden Haupttürme sind exakt 157 Meter hoch.", "UNESCO-Weltkulturerbe seit 1996 als Meisterwerk der Gotik.", "Beherbergt den Schrein der Heiligen Drei Könige aus dem 12. Jahrhundert.", "Die Domfassade ist die größte Kirchenfassade der Welt.", "Die Petersglocke (D'r Decke Pitter) ist die größte schwingende Glocke."],
@@ -1840,7 +1840,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site and Germany's most visited landmark.", "The world's tallest twin-spired church at 157 meters.", "Houses the Shrine of the Three Kings, a medieval masterpiece.", "Construction lasted over 600 years from 1248 to 1880.", "The cathedral's floor area covers almost 8,000 square meters.", "Features the 'Petersglocke', the world's largest free-swinging bell."]
     },
     faq: {
       "de": [
@@ -1965,7 +1965,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Baldeneysee im Süden von Essen ist der größte der sechs Ruhrstauseen und ein zentrales Naherholungsgebiet für die Metropole Ruhr. Er wurde zwischen 1931 und 1933 angelegt, ursprünglich um die Ruhr biologisch zu reinigen, indem sich Schwebstoffe absetzen konnten. Heute ist der See ein Hotspot für Wassersportler mit zahlreichen Segel- und Rudervereinen. Ein 14 Kilometer langer Wander- und Radweg führt um das Gewässer, vorbei an Sehenswürdigkeiten wie der herrschaftlichen Villa Hügel. Die 'Weiße Flotte' bietet Ausflugsfahrten an, während der Seaside Beach mit seinem Sandstrand für Urlaubsstimmung sorgt. Geographie K7 – Strukturwandel und Freizeitnutzung im Ruhrgebiet.",
       hu: "A(z) Baldeneysee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Baldeneysee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Lake Baldeneysee is a massive reservoir in the south of Essen, created in the 1930s by damming the Ruhr river. Originally intended as a settling basin for the river's sediment, it has transformed into the Ruhr area's premier destination for sailing, rowing, and recreation. The lake is surrounded by lush hills and historic sites, including the Villa Hügel, the former palatial residence of the Krupp industrial family. A popular excursion boat line connects the lakeside resorts, and a 14-kilometer trail around the shore is a favorite for hikers and cyclists. Baldeneysee is a prime example of how former industrial infrastructure can be repurposed into a high-quality leisure landscape for millions of people. Földrajz K7 – Artificial lakes and post-industrial recreation."
     },
     factsAdvanced: {
       de: ["Größter der sechs Stauseen im Verlauf der Ruhr (ca. 2,6 km²).", "Erbaut in den Jahren 1931 bis 1933 als Arbeitsbeschaffungsmaßnahme.", "Wichtiges Zentrum für den Regattasport mit über 20 Segelvereinen.", "Die Villa Hügel der Industriellenfamilie Krupp überragt den See.", "Besitzt ein eigenes Wasserkraftwerk zur regenerativen Stromerzeugung.", "Ein Rundweg von ca. 14 km ist ideal für Radfahrer und Skater."],
@@ -1978,7 +1978,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The largest of the six reservoirs on the Ruhr river.", "Created in 1931-1933 as part of an industrial purification project.", "Home to more than 20 sailing and rowing clubs.", "The perimeter trail is exactly 14.7 kilometers long.", "Overlooked by the historic Villa Hügel, the seat of the Krupp family.", "A central venue for the 'Krupp Cup', a major rowing regatta."]
     },
     faq: {
       "de": [
@@ -2104,7 +2104,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Aachener Dom ist eines der historisch bedeutendsten Bauwerke Europas und war 1978 das erste deutsche Denkmal auf der UNESCO-Welterbeliste. Den Kern bildet die karolingische Pfalzkapelle, die um 800 n. Chr. von Karl dem Großen als Zentrum seines Reiches errichtet wurde. Hier befand sich über 600 Jahre lang die Krönungsstätte der deutschen Könige. Der Dom beherbergt das Grab Karls des Großen und kostbare Reliquien, die Ziel der Aachener Heiligtumsfahrt sind. Architektonisch ist das Oktogon mit seinen antiken Säulen ein einzigartiges Zeugnis der Karolingischen Renaissance und verbindet byzantinische Einflüsse mit germanischer Baukunst. Geschichte K6 – Das Frankenreich unter Karl dem Großen.",
       hu: "A(z) Aachener Dom egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Aachener Dom ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Aachen Cathedral is one of the most historically significant buildings in Europe, commissioned by Charlemagne around 796 AD as the centerpiece of his imperial palace. As the first UNESCO World Heritage site in Germany, it served as the coronation site for 31 German kings over 600 years. The heart of the cathedral is the 'Palatine Chapel,' an octagonal masterpiece inspired by the churches of the Eastern Roman Empire. It houses the 'Karlsschrein' (Shrine of Charlemagne) and the imperial throne, where the Holy Roman Emperors were once crowned. Aachen was the 'Rome of the North,' and its cathedral remains a powerful symbol of the birth of Europe and the fusion of Roman, Christian, and Germanic traditions. Geschichte K8 – Charlemagne and the Carolingian Empire."
     },
     factsAdvanced: {
       de: ["Erstes UNESCO-Weltkulturerbe in Deutschland (aufgenommen 1978).", "Krönungsort von 30 deutschen Königen zwischen 936 und 1531.", "Karl der Große wurde hier im Jahr 814 begraben.", "Das Oktogon war über 200 Jahre das höchste Bauwerk nördlich der Alpen.", "Beherbergt den Karlsthron und den Barbarossaleuchter.", "Ziel der Aachener Heiligtumsfahrt, die alle sieben Jahre stattfindet."],
@@ -2117,7 +2117,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The first site in Germany to be designated a UNESCO World Heritage site.", "Coronation site for 31 German kings between 936 and 1531.", "Commissioned by Charlemagne and completed around 800 AD.", "Features the original 'Aachen Gospels' and the Shrine of Charlemagne.", "The Octagon was once the largest dome north of the Alps.", "Burial place of Charlemagne, who died in Aachen in 814 AD."]
     },
     faq: {
       "de": [
@@ -2241,7 +2241,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Teutoburger Wald ist ein langgestreckter Gebirgszug in Nordrhein-Westfalen und Niedersachsen, der vor allem durch die legendäre 'Varusschlacht' im Jahr 9 n. Chr. weltbekannt wurde. Hier besiegten germanische Stämme unter Führung von Arminius drei römische Legionen. Das gewaltige Hermannsdenkmal bei Detmold erinnert an dieses Ereignis. Die Region bietet jedoch mehr als Geschichte: Die Externsteine, eine markante Sandstein-Felsformation, gelten als mystischer Ort und Naturdenkmal. Als Naturpark bietet der Wald vielfältige Wandermöglichkeiten auf dem Hermannsweg und schützt wertvolle Buchenmischwälder. Die Kurorte der Region wie Bad Meinberg nutzen zudem die natürlichen Heilmittel des Waldes. Geschichte K5 – Römer und Germanen im Teutoburger Wald.",
       hu: "A(z) Teutoburger Wald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Teutoburger Wald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Teutoburg Forest is a long, narrow ridge of forested hills that stretches across Lower Saxony and North Rhine-Westphalia. It is most famous as the legendary site of the Battle of the Teutoburg Forest in 9 AD, where Germanic tribes led by Arminius defeated three Roman legions, stopping the Roman expansion into Germania. This historic event is commemorated by the massive Hermannsdenkmal (Hermann Monument) near Detmold. Beyond history, the forest is a geological marvel, home to the striking 'Externsteine' sandstone rock formations, which have been a place of spiritual and cultural significance for thousands of years. Today, it is a protected nature park offering hundreds of kilometers of hiking trails through its diverse and ancient woodlands. Geschichte K5 – Roman-Germanic relations and the Varus Battle."
     },
     factsAdvanced: {
       de: ["Schauplatz der Varusschlacht (9 n. Chr.) zwischen Römern und Germanen.", "Das Hermannsdenkmal ist mit 53 Metern Höhe die höchste Statue Deutschlands.", "Die Externsteine sind eine markante Felsformation aus Sandstein.", "Der Kammweg 'Hermannsweg' gehört zu den Top-Wanderwegen Deutschlands.", "Die höchste Erhebung ist der Barnacken mit 446 Metern Höhe.", "Umfasst den Naturpark Teutoburger Wald / Eggegebirge."],
@@ -2254,7 +2254,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Site of the Varus Battle in 9 AD, a turning point in history.", "Home to the Hermannsdenkmal, a 53-meter tall monument.", "Features the Externsteine, mysterious 40-meter high rock formations.", "A designated Nature Park covering over 2,700 square kilometers.", "The highest point is the Barnacken at 446 meters altitude.", "A major European destination for hiking and health tourism."]
     },
     faq: {
       "de": [
@@ -2378,7 +2378,7 @@ export const poiExtraDe1: POI[] = [
       de: "Das Ruhrgebiet ist mit über fünf Millionen Einwohnern der größte Ballungsraum Deutschlands und ein Paradebeispiel für den industriellen Strukturwandel. Einst das pulsierende Herz der europäischen Kohle- und Stahlindustrie, hat sich die Region zu einer vielfältigen Wissenschafts- und Kulturlandschaft entwickelt. Die Zeche Zollverein in Essen, heute UNESCO-Welterbe, steht symbolisch für diesen Wandel und ist ein Zentrum für Design und Kultur. Wo früher Schlote rauchten, finden sich heute Technologieparks, moderne Universitäten und grüne Erholungsräume auf ehemaligen Industriebrachen. Die Industriekultur wird durch die 'Route der Industriekultur' lebendig gehalten, die ehemalige Fabriken als Museen und Eventorte verbindet. Geographie K7 – Strukturwandel von der Industrie zur Dienstleistung.",
       hu: "A(z) Ruhrgebiet – Industriekultur egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ruhrgebiet – Industriekultur ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Ruhrgebiet (Ruhr Area) is Germany's largest urban agglomeration and a former industrial powerhouse that has undergone one of the most successful structural transformations in history. For over 150 years, it was the coal and steel heart of the nation, defined by thousands of mines, blast furnaces, and smoking chimneys. Following the decline of heavy industry, the region repurposed its massive sites into cultural landmarks, such as the Zollverein Coal Mine Industrial Complex, a UNESCO World Heritage site. Today, the Ruhr is a vibrant metropolitan region known for its high density of universities, theaters, and green spaces, where former industrial waste heaps are now parks with spectacular art installations. It is a living laboratory for post-industrial urban living. Földrajz K7 – Structural change and metropolitan development."
     },
     factsAdvanced: {
       de: ["Größter Ballungsraum Deutschlands mit über 5 Millionen Einwohnern.", "Die Zeche Zollverein in Essen ist seit 2001 UNESCO-Weltkulturerbe.", "Besitzt mit der 'Route der Industriekultur' ein weltweit einzigartiges Netz.", "Zentrum des Strukturwandels von Kohle und Stahl hin zur Technologie.", "Beherbergt die höchste Dichte an Universitäten in ganz Europa.", "Gasometer Oberhausen ist die höchste Ausstellungs- und Veranstaltungshalle."],
@@ -2391,7 +2391,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Germany's largest urban area with over 5 million residents.", "Home to the Zollverein Coal Mine, a UNESCO World Heritage site.", "Features the 'Industrial Heritage Trail' connecting 25 major sites.", "The highest density of universities in Germany is found here.", "Transformed from the 'Land of 1,000 Fires' into a green metropolis.", "Hosts the 'Ruhrtriennale', one of Europe's largest arts festivals."]
     },
     faq: {
       "de": [
@@ -2516,7 +2516,7 @@ export const poiExtraDe1: POI[] = [
       de: "Schloss Augustusburg in Brühl zählt zu den frühesten und bedeutendsten Schöpfungen des Rokoko in Deutschland. Es wurde ab 1725 im Auftrag des Kölner Kurfürsten Clemens August errichtet. Besonders berühmt ist das prunkvolle Treppenhaus von Balthasar Neumann, das durch seine farbenprächtige Gestaltung und architektonische Leichtigkeit besticht. Zusammen mit dem Jagdschloss Falkenlust und den barocken Gartenanlagen bildet es ein Ensemble von internationalem Rang, das bereits 1984 in die UNESCO-Welterbeliste aufgenommen wurde. Die Schlösser dienten früher als repräsentativer Rahmen für höfische Feste und die Falkenjagd und sind heute ein wichtiges Zeugnis absolutistischer Lebensart. Kunstgeschichte K8 – Architektur und Gartenkunst des Rokoko.",
       hu: "A(z) Schloss Augustusburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Augustusburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Augustusburg Palace in Brühl is a pinnacle of German Rococo architecture and has been a UNESCO World Heritage site since 1984. Built in the 18th century for Clemens August, the Prince-Elector of Cologne, it was designed as a magnificent hunting lodge and summer residence. The palace is world-renowned for its grand staircase, another masterpiece by Balthasar Neumann, which features a breathtaking sense of light and space. The adjacent Falkenlust hunting lodge and the sprawling formal gardens, designed in the French style, complete the royal ensemble. For decades, the palace served as the prestigious site for official state receptions by the German President, hosting world leaders in its gilded halls. Geschichte K8 – Rococo art and courtly life in the 18th century."
     },
     factsAdvanced: {
       de: ["UNESCO-Weltkulturerbe seit 1984 als Meisterwerk des Rokoko.", "Das Prunktreppenhaus wurde vom berühmten Balthasar Neumann entworfen.", "Erbaut im Auftrag des Kurfürsten und Erzbischofs Clemens August.", "Der Schlosspark ist einer der wenigen authentisch erhaltenen Barockgärten.", "Diente lange Zeit als Repräsentationsschloss für Staatsgäste der BRD.", "Angeschlossen ist das Jagdschloss Falkenlust in Sichtweite."],
@@ -2529,7 +2529,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site since 1984.", "Features a world-famous grand staircase by Balthasar Neumann.", "The primary residence for state receptions of the early West German Republic.", "Commissioned by Prince-Elector Clemens August of Cologne.", "The gardens were designed by Dominique Girard in the French style.", "Includes the nearby Falkenlust hunting lodge, a Rococo gem."]
     },
     faq: {
       "de": [
@@ -2654,7 +2654,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Wupper ist die Lebensader des Bergischen Landes und ein Fluss mit einer bewegten Industriegeschichte. Auf ihrem 116 Kilometer langen Weg durch enge Täler bot sie schon früh die Wasserkraft für Schleifkotten und Webereien, was die Region zu einem Zentrum der frühen Industrialisierung machte. In Wuppertal wird sie auf einer Länge von über 10 Kilometern von der berühmten Schwebebahn überspannt. Einst als 'dreckigster Fluss Deutschlands' verschrien, hat sich die Wupper durch intensive Klär- und Renaturierungsmaßnahmen in den letzten Jahrzehnten wieder in ein sauberes Gewässer verwandelt. Heute ist sie ein beliebtes Revier für Kanufahrer und ein wertvoller Lebensraum für Lachse und Eisvögel. Geographie K7 – Flussnutzung und ökologische Erneuerung.",
       hu: "A(z) Wupper egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wupper ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Wupper is a dynamic river that winds through the hilly Bergisches Land, playing a starring role in the history of German industrialization. Stretching 116 kilometers, it flows through the city of Wuppertal, where the world-famous Suspension Railway (Schwebebahn) glides directly above its waters. In the 19th century, the Wupper's water power fueled hundreds of textile mills and metal workshops, earning it the nickname 'the hardest working river in Germany.' After decades of heavy pollution, the river has seen a dramatic comeback thanks to modern environmental protection, and today it is a clean, green corridor popular with kayakers and hikers. It is a symbol of the region's ability to innovate and its commitment to ecological renewal. Földrajz K7 – Industrial history and environmental recovery."
     },
     factsAdvanced: {
       de: ["Gesamtlänge von 116 km mit Einmündung in den Rhein bei Leverkusen.", "Früher der am stärksten verschmutzte Industriefluss Deutschlands.", "Wird in Wuppertal auf ca. 10 km von der Schwebebahn überquert.", "Trieb früher hunderte von Schleifkotten und Hammerwerke an.", "Beherbergt heute wieder Lachse durch aufwendige Fischtreppen.", "Die Müngstener Brücke überquert das Wuppertal in 107 Metern Höhe."],
@@ -2667,7 +2667,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Famous as the river directly beneath the Wuppertal Suspension Railway.", "Stretches for 116 kilometers through the Bergisches Land region.", "Historically the primary power source for the early textile industry.", "The river rises as the 'Wipper' before changing its name.", "Now a prime location for canoeing and nature observation.", "Home to the massive Müngsten Bridge, Germany's highest railway bridge."]
     },
     faq: {
       "de": [
@@ -2793,7 +2793,7 @@ export const poiExtraDe1: POI[] = [
       de: "Ulm ist eine traditionsreiche Reichsstadt am Ufer der Donau und weltweit bekannt für ihr gewaltiges Münster. Der Turm des Ulmer Münsters ist mit 161,5 Metern der höchste Kirchturm der Welt und ein Meisterwerk der Gotik. Die Stadt verbindet historische Schätze wie das malerische Fischerviertel mit moderner Architektur in der 'Neuen Mitte'. Berühmt ist Ulm auch als Geburtsort von Albert Einstein. Das Ulmer Rathaus besticht durch seine opulente Fassadenmalerei und die astronomische Uhr. Durch seine Lage an der Grenze zwischen Baden-Württemberg und Bayern sowie die renommierte Universität ist Ulm ein dynamisches Zentrum für Wissenschaft und Kultur in Süddeutschland. Geschichte K6 – Freie Reichsstädte und gotische Kathedralbaukunst.",
       hu: "A(z) Ulm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Ulm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Ulm is a city of superlatives, perched on the banks of the Danube at the border between Baden-Württemberg and Bavaria. It is world-famous for the Ulm Minster, which boasts the tallest church steeple in the world at 161.5 meters. Visitors who climb the 768 steps are rewarded with a view that reaches all the way to the Alps. Ulm is also the birthplace of Albert Einstein, and while his childhood home was destroyed in World War II, his legacy is celebrated throughout the city. The historic 'Fishermen's Quarter' (Fischerviertel), with its narrow canals and the famously 'Crooked House' (Schiefes Haus), offers a picturesque look at the city's medieval past. Ulm is a vibrant center for science and industry, blending its gothic grandeur with modern innovation. Földrajz K7 – River cities and architectural landmarks."
     },
     factsAdvanced: {
       de: ["Das Ulmer Münster besitzt mit 161,5 m den höchsten Kirchturm der Welt.", "Geburtsstadt des Physikers und Nobelpreisträgers Albert Einstein (1879).", "Das historische Fischerviertel ist für seine Fachwerkhäuser direkt am Wasser bekannt.", "Das Ulmer Rathaus besitzt eine astronomische Uhr aus dem Jahr 1520.", "Die Stadtmauer bietet einen beliebten Spazierweg direkt an der Donau.", "Besitzt mit dem 'Löwenmenschen' eines der ältesten Kunstwerke der Menschheit."],
@@ -2806,7 +2806,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Home to the Ulm Minster, with the world's tallest church steeple.", "The birthplace of the world-famous physicist Albert Einstein.", "Features the 'Schiefes Haus' (Crooked House), a record-holding hotel.", "Located at the confluence of the Danube, Blau, and Iller rivers.", "The 161.5-meter spire was completed in 1890 after 500 years.", "The historic Fishermen's Quarter is built over the Blau river."]
     },
     faq: {
       "de": [
@@ -2931,7 +2931,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Feldberg ist mit 1.493 Metern der höchste Gipfel im Schwarzwald und die höchste Erhebung aller deutschen Mittelgebirge. Er ist das Herzstück des ältesten und größten Naturschutzgebietes in Baden-Württemberg. Im Winter verwandelt sich der Berg in ein erstklassiges Skigebiet, während er im Sommer Wanderer mit atemberaubenden Ausblicken bis zu den Alpen und den Vogesen anlockt. Die Hochlagen des Feldbergs beherbergen eine einzigartige subalpine Flora und Fauna, die sonst nur in den Alpen zu finden ist. Mit dem Feldbergturm und der Feldbergbahn ist der Gipfel touristisch bestens erschlossen und ein Symbol für die Naturschönheit des Hochschwarzwalds. Geographie K6 – Naturraum Schwarzwald und Tourismus.",
       hu: "A(z) Feldberg (Schwarzwald) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Feldberg (Schwarzwald) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Feldberg is the highest peak in the Black Forest and the highest point in Germany outside the Alps, standing at 1,493 meters. It is the heart of a vast nature reserve that offers some of the best hiking and skiing in Southern Germany. The summit provides a panoramic view that can stretch to the Swiss Alps and the French Vosges mountains on clear days. The Feldberg is a vital ecosystem, home to rare alpine plants and the elusive capercaillie bird. Since the 19th century, it has been a pioneer in winter sports, hosting some of the first ski competitions in Germany. Today, it remains a beloved destination for outdoor enthusiasts, combining rugged nature with well-developed alpine infrastructure. Földrajz K7 – High-altitude ecosystems and alpine tourism."
     },
     factsAdvanced: {
       de: ["Höchster Gipfel des Schwarzwalds mit 1.493 Metern Höhe.", "Höchster Berg in Deutschland außerhalb der Alpenregion.", "Das Naturschutzgebiet Feldberg umfasst eine Fläche von 42 km².", "Bietet bei Inversionswetterlagen Fernsicht bis zum Mont Blanc.", "Zentrum des ersten deutschen Skiverbands (gegründet 1891 am Feldberg).", "Auf dem Gipfel wachsen seltene Eiszeitrelikte wie die Alpen-Anemone."],
@@ -2944,7 +2944,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The highest peak in the Black Forest at 1,493 meters.", "The highest mountain in Germany outside of the Alps.", "Home to a 42-hectare nature reserve with rare alpine flora.", "Features the oldest ski club in Germany, founded in 1891.", "The Feldberg Tower offers views of Mont Blanc on clear days.", "A central hub for winter sports with 31 lifts and 60 km of runs."]
     },
     faq: {
       "de": [
@@ -3069,7 +3069,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Neckar ist der bedeutendste Fluss Baden-Württembergs und ein wichtiger Nebenfluss des Rheins. Auf seinem 367 Kilometer langen Weg verbindet er die raue Alb mit dem fruchtbaren Unterland und dem Pfälzer Raum. Der Neckar ist nicht nur eine lebenswichtige Wasserstraße, sondern auch ein Kulturstrom, der durch historische Städte wie Tübingen, Stuttgart und Heidelberg fließt. Die steilen Hänge des mittleren Neckartals sind berühmt für ihren Weinbau auf Terrassen, die oft schon seit dem Mittelalter bestehen. In den letzten Jahren wurden viele Abschnitte des Flusses renaturiert, um die Artenvielfalt zu fördern und den Freizeitwert für die Bevölkerung zu steigern. Geographie K7 – Der Neckar als Wirtschafts- und Kulturraum.",
       hu: "A(z) Neckar egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Neckar ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Neckar is a vital and picturesque river that flows through the heart of Baden-Württemberg, connecting the Black Forest with the Rhine. Stretching 367 kilometers, it winds through steep-sided valleys famous for their terraced vineyards and romantic castles. The river is the lifeblood of major cities like Stuttgart, Heilbronn, and Heidelberg, where it flows under the iconic Old Bridge. Historically, the Neckar was a challenging river for navigation, but a series of locks and canals built in the 20th century transformed it into a major waterway for industrial transport. Today, it is also a popular destination for cycling along the 'Neckartal-Radweg' and for boat tours that offer a unique perspective on the region's rich cultural landscape. Földrajz K7 – River valleys and cultural landscapes."
     },
     factsAdvanced: {
       de: ["Gesamtlänge von 367 km und wichtigster Fluss Baden-Württembergs.", "Entspringt im Schwenninger Moos auf der Baar.", "Wichtige Bundeswasserstraße mit 27 Staustufen bis Plochingen.", "Berühmt für den Weinbau in Steillagen (Terrassenweinbau).", "Passiert das Heidelberger Schloss, eines der bekanntesten Ruinen der Welt.", "Mündet in Mannheim in den Rhein."],
@@ -3082,7 +3082,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The primary river of the state of Baden-Württemberg.", "Stretches 367 kilometers from the Black Forest to the Rhine.", "Famous for the romantic riverfront in the city of Heidelberg.", "A major industrial waterway with 27 separate locks.", "The Neckar valley is one of Germany's premier wine-growing regions.", "Hosts the 'Neckartal-Radweg', one of Germany's top cycling paths."]
     },
     faq: {
       "de": [
@@ -3206,7 +3206,7 @@ export const poiExtraDe1: POI[] = [
       de: "Tübingen ist eine klassische deutsche Universitätsstadt mit einer der ältesten und renommiertesten Hochschulen Europas, der 1477 gegründeten Eberhard Karls Universität. Das Stadtbild wird geprägt durch die fast vollständig erhaltene mittelalterliche Altstadt und das Schloss Hohentübingen. Ein Markenzeichen der Stadt ist das Stocherkahnfahren auf dem Neckar, bei dem man die berühmte Neckarfront mit dem Hölderlinturm vom Wasser aus bewundern kann. Tübingen gilt als intellektuelles Zentrum und ist für seine alternative, ökologisch orientierte Stadtpolitik bekannt. Die engen Gassen, die vielen Cafés und die hohe Studentendichte verleihen der Stadt ein einzigartig lebendiges und junges Flair. Geschichte K7 – Universitätsstädte als Zentren der Aufklärung.",
       hu: "A(z) Tübingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Tübingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Tübingen is a classic German university town, known for its youthful energy and impeccably preserved medieval old town. Perched on a ridge above the Neckar river, the city is dominated by the Hohentübingen Castle and the historic St. George's Church. The Eberhard Karls University, founded in 1477, is one of Germany's oldest and most prestigious, and its students make up nearly a third of the city's population. A quintessential Tübingen experience is a ride in a 'Stocherkahn' (punting boat) on the Neckar, passing the famous yellow house where the poet Friedrich Hölderlin spent his final years. The city is a center for intellectual history, where thinkers like Hegel and Kepler once studied, and today it remains a vibrant hub for research and culture. Geschichte K8 – University history and intellectual life."
     },
     factsAdvanced: {
       de: ["Eberhard Karls Universität wurde bereits im Jahr 1477 gegründet.", "Die Altstadt blieb im Zweiten Weltkrieg fast vollständig unversehrt.", "Der Hölderlinturm war der Wohnort des Dichters Friedrich Hölderlin.", "Stocherkahnfahren auf dem Neckar ist eine einzigartige Tübinger Tradition.", "Rund jeder dritte Einwohner in Tübingen ist ein Student.", "Schloss Hohentübingen beherbergt bedeutende archäologische Sammlungen."],
@@ -3219,7 +3219,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Home to one of Germany's oldest universities, founded in 1477.", "Students make up approximately 30% of the city's population.", "Famous for its 'Stocherkahn' (punting) tradition on the Neckar.", "The Hölderlin Tower was the residence of the poet for 36 years.", "The old town survived World War II completely intact.", "Hosts the 'Umweltzentrum', a pioneer in German environmentalism."]
     },
     faq: {
       "de": [
@@ -3345,7 +3345,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Burg Hohenzollern ist der Stammsitz des gleichnamigen preußischen Königshauses und der Fürsten von Hohenzollern. Majestätisch thront sie auf dem 855 Meter hohen Zollerberg am Rande der Schwäbischen Alb. Die heutige Anlage wurde im 19. Jahrhundert im neugotischen Stil als preußisch-brandenburgisches Nationaldenkmal wiederaufgebaut. Mit ihren vielen Türmen und Zinnen gilt sie als Inbegriff einer deutschen Ritterburg und bietet einen Panoramablick über das Albvorland. Die Burg beherbergt wertvolle Kunstschätze, darunter die preußische Königskrone und persönliche Gegenstände Friedrichs des Großen. Sie ist noch heute in Privatbesitz und ein Magnet für Besucher aus aller Welt. Geschichte K7 – Das Haus Hohenzollern und die deutsche Geschichte.",
       hu: "A(z) Burg Hohenzollern egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Burg Hohenzollern ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Hohenzollern Castle, perched dramatically on an isolated peak 855 meters above the Swabian Jura, is the ancestral seat of the imperial House of Hohenzollern. This 'castle in the clouds' is a masterpiece of 19th-century military and romantic architecture, built by King Frederick William IV of Prussia to celebrate his family's history. The current structure is the third on the site, replacing medieval fortresses that dated back to the 11th century. Inside, visitors can marvel at the Prussian royal crown and numerous historical treasures, including personal items belonging to Frederick the Great. The castle remains privately owned by the Hohenzollern family and stands as one of the most iconic symbols of German monarchical history and romantic nationalism. Geschichte K8 – The Hohenzollern dynasty and Romanticism."
     },
     factsAdvanced: {
       de: ["Stammsitz der preußischen Könige und deutschen Kaiser.", "Heutige Burg wurde zwischen 1850 und 1867 im neugotischen Stil erbaut.", "Liegt markant auf dem 855 m hohen Kegelberg namens Zoller.", "Beherbergt die preußische Königskrone in der Schatzkammer.", "Jährlich besuchen rund 350.000 Menschen die Burganlage.", "Besitzt eine eigene katholische und evangelische Kapelle im Hof."],
@@ -3358,7 +3358,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Ancestral seat of the Prussian Kings and German Emperors.", "Perched on the 855-meter high Mount Hohenzollern.", "The current Neo-Gothic structure was completed in 1867.", "Houses the Prussian Royal Crown in its treasury.", "Privately owned by the House of Hohenzollern to this day.", "Attracts over 300,000 visitors annually from around the world."]
     },
     faq: {
       "de": [
@@ -3484,7 +3484,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Titisee ist einer der bekanntesten und schönsten Naturseen im Hochschwarzwald und ein Symbol für die Region. Entstanden durch den Feldberg-Gletscher in der letzten Eiszeit, liegt er auf einer Höhe von 845 Metern. Der Ort Titisee-Neustadt an seinem Nordufer ist ein Zentrum des Schwarzwaldtourismus, berühmt für seine Kuckucksuhren und die traditionelle Gastronomie. Das kristallklare Wasser lädt im Sommer zum Baden und Bootsfahren ein, während die umliegenden Wälder ideale Wanderbedingungen bieten. Der Titisee ist zudem Teil eines Naturschutzgebietes und ein wichtiges Trinkwasserreservoir für die Region. Geographie K6 – Glaziale Seen und Tourismus im Schwarzwald.",
       hu: "A(z) Titisee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Titisee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Lake Titisee is a world-famous glacier-formed lake in the High Black Forest, known for its pristine beauty and crystal-clear water. Legend has it that the Roman general Titus gave the lake its name, though it is more likely derived from the local dialect. Spanning roughly 1.3 square kilometers, it is one of the largest natural lakes in the region and a major center for tourism. The lakeside town of Titisee-Neustadt is a gateway to the Black Forest, famous for its cuckoo clock shops and traditional hospitality. In the winter, the lake often freezes thick enough to be used for ice skating, while the summer attracts thousands of sailors, swimmers, and hikers. It remains an iconic symbol of the Black Forest's natural and cultural charm. Földrajz K7 – Glacial lakes and regional tourism."
     },
     factsAdvanced: {
       de: ["Durch den Feldberg-Gletscher in der Würm-Eiszeit entstanden.", "Liegt auf einer Höhe von 845 Metern über dem Meeresspiegel.", "Maximaltiefe des Sees beträgt ca. 40 Meter.", "Uferpromenade gilt als eine der bekanntesten Flaniermeilen der Region.", "Beliebtes Zentrum für den Export von originalen Kuckucksuhren.", "Gilt aufgrund seiner Wasserqualität als eines der reinsten Gewässer."],
@@ -3497,7 +3497,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["A natural lake formed by the Feldberg glacier during the last Ice Age.", "Situated at an altitude of 845 meters in the High Black Forest.", "The lake reaches a maximum depth of approximately 40 meters.", "A world-renowned center for traditional Black Forest cuckoo clocks.", "Completely protected from motorboat traffic to preserve water quality.", "The circular hike around the lake is roughly 6 kilometers long."]
     },
     faq: {
       "de": [
@@ -3623,7 +3623,7 @@ export const poiExtraDe1: POI[] = [
       de: "Das Kloster Maulbronn ist die am besten erhaltene mittelalterliche Zisterzienserabtei nördlich der Alpen und gehört seit 1993 zum UNESCO-Weltkulturerbe. Gegründet im Jahr 1147, vereint die Anlage Baustile von der Romanik bis zur Spätgotik. Besonders beeindruckend ist das 'Paradies', die Vorhalle der Klosterkirche, sowie der Kreuzgang mit dem Brunnenhaus. Nach der Reformation wurde das Kloster in eine evangelische Klosterschule umgewandelt, die berühmte Persönlichkeiten wie Johannes Kepler und Hermann Hesse besuchten. Die gesamte Anlage mit ihren Mauern, Wirtschaftshöfen und dem ausgeklügelten Bewässerungssystem ist fast vollständig erhalten und vermittelt ein lebendiges Bild des klösterlichen Lebens. Geschichte K6 – Das Klosterwesen im Mittelalter.",
       hu: "A(z) Kloster Maulbronn egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kloster Maulbronn ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Maulbronn Monastery, a UNESCO World Heritage site since 1993, is the most complete and best-preserved Cistercian monastery complex in Europe. Founded in 1147, it offers a fascinating look at medieval life, where the spiritual and the practical were perfectly integrated. The architecture spans the transition from Romanesque to Gothic, with the famous 'Paradise' portico and the fountain house serving as artistic highlights. For centuries after the Reformation, the monastery housed a prestigious Protestant seminary where famous figures like Johannes Kepler and Hermann Hesse were educated. The massive stone walls and surrounding workshops create a quiet, meditative atmosphere that feels as if time has stood still since the Middle Ages. Geschichte K8 – Monastic life and architectural evolution."
     },
     factsAdvanced: {
       de: ["UNESCO-Weltkulturerbe seit 1993 aufgrund seines Erhaltungszustands.", "Gegründet im Jahr 1147 durch Zisterziensermönche.", "Heimat eines berühmten evangelischen Seminars (Klosterschule).", "Hermann Hesse verarbeitete seine Zeit hier im Roman 'Unterm Rad'.", "Berühmt für das 'Paradies', eine Vorhalle im Übergangsstil zur Gotik.", "Besitzt ein komplexes historisches Wasserwirtschaftssystem mit Seen."],
@@ -3636,7 +3636,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site and best-preserved Cistercian monastery.", "Founded in 1147 and used as a Protestant seminary after 1556.", "Notable students include Johannes Kepler and Hermann Hesse.", "Features the 'Paradise' (Paradies), a masterpiece of Early Gothic.", "The complex is enclosed by a 1.2-kilometer long defensive wall.", "The Lavatorium (fountain house) was used for ritual washing."]
     },
     faq: {
       "de": [
@@ -3760,7 +3760,7 @@ export const poiExtraDe1: POI[] = [
       de: "Konstanz ist die größte Stadt am Bodensee und ein bedeutendes kulturelles Zentrum im Dreiländereck Deutschland-Österreich-Schweiz. Die Stadt erlangte weltgeschichtliche Bedeutung durch das Konzil von Konstanz (1414-1418), bei dem die einzige Papstwahl auf deutschem Boden stattfand. Das Konzilgebäude am Hafen erinnert noch heute an dieses Ereignis. Die mittelalterliche Altstadt mit dem prächtigen Münster blieb im Zweiten Weltkrieg aufgrund ihrer Lage direkt an der Schweizer Grenze unversehrt. Heute ist Konstanz eine lebendige Universitätsstadt und ein Magnet für Touristen, die das milde Klima, die Seepromenaden und die Nähe zur Blumeninsel Mainau schätzen. Geographie K7 – Tourismus und Kooperation im Bodenseeraum.",
       hu: "A(z) Konstanz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Konstanz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Konstanz is a vibrant lake-side city that sits at the meeting point of Lake Constance (Bodensee) and the Rhine river. It is uniquely positioned as a German enclave on the southern shore of the lake, sharing a seamless border with Switzerland. The city's old town (Niederburg) is incredibly well-preserved because it was never bombed during World War II, thanks to its proximity to neutral Switzerland. Konstanz gained global fame as the site of the Council of Constance (1414-1418), the only papal election ever held north of the Alps. Today, the city is a premier tourist destination and a thriving university town, known for its Mediterranean flair, its massive 'Imperia' harbor statue, and its breathtaking views of the Alps across the water. Földrajz K7 – Lake-side cities and international borders."
     },
     factsAdvanced: {
       de: ["Größte Stadt am Bodensee und direkt an der Schweizer Grenze gelegen.", "Ort des Konzils von Konstanz (1414–1418), der größten Versammlung des Mittelalters.", "Besitzt ein fast vollständig erhaltenes mittelalterliches Stadtzentrum.", "Die Statue 'Imperia' im Hafen erinnert satirisch an das Konzil.", "Sitz einer Exzellenzuniversität mit internationalem Ruf.", "Das Konstanzer Münster besitzt eine Krypta aus dem 9. Jahrhundert."],
@@ -3773,7 +3773,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Located at the point where the Rhine flows out of Lake Constance.", "Site of the Council of Constance (1414–1418), a major church event.", "The 9-meter high 'Imperia' statue rotates once every four minutes.", "Connected seamlessly to the Swiss town of Kreuzlingen.", "Home to one of Germany's most prestigious 'Excellence' universities.", "The old town's narrow streets date back to the 13th century."]
     },
     faq: {
       "de": [
@@ -3897,7 +3897,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Nordschwarzwald ist geprägt durch seine dichten, dunklen Tannenwälder und tief eingeschnittenen Täler wie das Murgtal. Hier befindet sich der Nationalpark Schwarzwald, in dem sich die Natur weitgehend ohne menschlichen Einfluss entwickeln darf. Die Region ist berühmt für ihre Grinden – baumfreie Heideflächen auf den Gipfelplateaus –, die einzigartige Ausblicke bis in die Rheinebene bieten. Historisch war der Nordschwarzwald ein Zentrum der Holzgewinnung und Flößerei. Heute lockt er Besucher mit der Schwarzwaldhochstraße, einer der ältesten und schönsten Panoramastraßen Deutschlands, sowie mit traditionsreichen Kurorten wie Baden-Baden. Biologie K6 – Ökosystem Nationalpark und Waldschutz.",
       hu: "A(z) Nordschwarzwald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Nordschwarzwald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Northern Black Forest is a region of dramatic, deep-cut valleys and vast, dark coniferous forests that have inspired myths and fairy tales for generations. This area is home to the Black Forest National Park, a protected wilderness where nature is allowed to return to its original state. The landscape is characterized by high-altitude plateaus and the 'Black Forest High Road' (Schwarzwaldhochstraße), which offers breathtaking views from Baden-Baden to Freudenstadt. It is a haven for hikers and winter sports enthusiasts, featuring iconic sites like the Mummelsee lake and the massive Hornisgrinde peak. The Northern Black Forest is also the source of many legends, from water spirits to mountain kings, reflecting the deep connection between the local culture and the dense, mysterious woods. Földrajz K7 – Forest ecosystems and landscape protection."
     },
     factsAdvanced: {
       de: ["Beherbergt den Nationalpark Schwarzwald (gegründet 2014).", "Die Schwarzwaldhochstraße (B 500) ist eine berühmte Panoramastraße.", "Höchste Erhebung im Norden ist die Hornisgrinde mit 1.163 Metern.", "Bekannt für die 'Grinden', baumlose Hochmoore und Heiden.", "Historisches Zentrum der Glasherstellung und Flößerei.", "Heimat zahlreicher Talsperren wie der Schwarzenbachtalsperre."],
@@ -3910,7 +3910,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Home to the Black Forest National Park, founded in 2014.", "The highest peak in the north is the Hornisgrinde at 1,163 meters.", "Famous for the Mummelsee, a high-altitude 'kar' lake.", "Includes the 'Schwarzwaldhochstraße', Germany's oldest tourist road.", "Known for its massive spruce and fir trees, some over 200 years old.", "A vital habitat for rare species like the pygmy owl and wood grouse."]
     },
     faq: {
       "de": [
@@ -4034,7 +4034,7 @@ export const poiExtraDe1: POI[] = [
       de: "Freiburg im Breisgau gilt als die 'Sonnenstadt' Deutschlands und ist bekannt für seine hohe Lebensqualität und sein ökologisches Bewusstsein. Das Freiburger Münster mit seinem 'schönsten Turm der Christenheit' überragt die historische Altstadt. Ein einzigartiges Merkmal sind die 'Freiburger Bächle', schmale Wasserläufe in den Straßen, die früher zur Wasserversorgung und Reinigung dienten. Freiburg ist ein bedeutendes Bildungszentrum mit einer der ältesten Universitäten Deutschlands (gegründet 1457). Die Stadt ist Vorreiter in Sachen Solarenergie und nachhaltiger Stadtplanung, was sich besonders im Stadtteil Vauban zeigt. Ihre Lage am Fuße des Schwarzwalds macht sie zudem zum idealen Tor für Naturerlebnisse. Geographie K7 – Nachhaltige Stadtentwicklung und Klimaschutz.",
       hu: "A(z) Freiburg im Breisgau egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Freiburg im Breisgau ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Freiburg im Breisgau is frequently called the 'Capital of the Black Forest' and is famous for being Germany's sunniest and greenest city. Its heart is the Münsterplatz, dominated by the Freiburg Minster, whose 116-meter open-work spire was described as the most beautiful on Earth. The city's narrow streets are lined with 'Bächle' – small water-filled canals that have flowed through the old town for centuries. Freiburg is a global leader in environmental sustainability, particularly in the 'Vauban' district, and is home to a world-renowned university founded in 1457. With its proximity to the Black Forest, the Vosges, and the Rhine, it offers a perfect mix of cultural richness, academic prestige, and outdoor adventure. Földrajz K7 – Sustainable urban development and sunny climates."
     },
     factsAdvanced: {
       de: ["Das Freiburger Münster wurde über 300 Jahre lang erbaut (1200–1513).", "Die 'Bächle' in der Altstadt haben eine Gesamtlänge von ca. 15 km.", "Die Albert-Ludwigs-Universität wurde bereits 1457 gegründet.", "Gilt als eine der sonnigsten Großstädte in ganz Deutschland.", "Der Schlossberg bietet mit einer Seilbahn einen Blick über die Stadt.", "Pionierstadt der Solarwirtschaft und Sitz des Fraunhofer ISE."],
@@ -4047,7 +4047,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Consistently ranked as the sunniest city in all of Germany.", "The Freiburg Minster was one of the few buildings to survive WWII.", "Famous for its 'Bächle', small canals that run through the streets.", "A world leader in solar energy and sustainable urban design.", "Home to the Albert Ludwig University, founded in 1457.", "Known as the 'Gateway to the Black Forest' due to its location."]
     },
     faq: {
       "de": [
@@ -4174,7 +4174,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Berliner Museumsinsel ist ein weltweit einzigartiges kulturelles Ensemble im Herzen der deutschen Hauptstadt und seit 1999 UNESCO-Weltkulturerbe. Auf dem nördlichen Teil der Spreeinsel befinden sich fünf weltberühmte Museen, die zwischen 1830 und 1930 entstanden sind. Das Alte Museum, das Neue Museum, die Alte Nationalgalerie, das Bode-Museum und das Pergamonmuseum präsentieren über 6.000 Jahre Menschheitsgeschichte. Zu den bedeutendsten Exponaten zählen die Büste der Nofretete und der monumentale Pergamonaltar. Die Insel ist nicht nur ein Schatzhaus der Kunst, sondern auch ein architektonisches Denkmal der preußischen Klassik. Geschichte K7 – Museen als Orte der Weltkultur und Geschichte.",
       hu: "A(z) Museumsinsel Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Museumsinsel Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Berlin's Museum Island (Museumsinsel) is a unique ensemble of five world-renowned museums, recognized as a UNESCO World Heritage site since 1999. Located on the northern tip of an island in the Spree river, it represents a century of enlightened museum design and architectural evolution. The island is home to the Pergamon Museum, famous for its massive ancient structures like the Ishtar Gate, and the Neues Museum, which houses the iconic bust of Nefertiti. The Alte Nationalgalerie and the Altes Museum showcase 19th-century art and classical antiquities, while the Bode Museum is known for its incredible sculpture collection. This 'Sanctuary of the Arts' is a testament to Berlin's cultural depth and its role as a global center for history and archaeology. Geschichte K8 – Enlightenment and the history of museums."
     },
     factsAdvanced: {
       de: ["UNESCO-Weltkulturerbe seit 1999 als einzigartiges Museumsensemble.", "Beherbergt fünf Museen: Altes, Neues, Nationalgalerie, Bode und Pergamon.", "Das Pergamonmuseum ist das meistbesuchte Museum in ganz Berlin.", "Heimat der weltberühmten Büste der Nofretete im Neuen Museum.", "Die James-Simon-Galerie dient seit 2019 als zentrales Empfangsgebäude.", "Die Bauzeit der gesamten Insel erstreckte sich über exakt 100 Jahre."],
@@ -4187,7 +4187,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site and home to five world-class museums.", "Houses the world-famous Bust of Nefertiti in the Neues Museum.", "The Pergamon Museum contains the original Ishtar Gate from Babylon.", "The Altes Museum was the first public museum in Berlin (1830).", "Connected by the 'Archaeological Promenade' underground walk.", "The James Simon Gallery serves as the modern gateway to the island."]
     },
     faq: {
       "de": [
@@ -4313,7 +4313,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die East Side Gallery in Berlin-Friedrichshain ist das längste noch erhaltene Teilstück der Berliner Mauer und zugleich die größte Open-Air-Galerie der Welt. Auf einer Länge von 1,3 Kilometern direkt an der Spree haben über 100 Künstler aus 21 Ländern ihre Visionen von Freiheit und Überwindung von Grenzen auf den Beton gebannt. Das wohl bekannteste Motiv ist der 'Bruderkuss' zwischen Leonid Breschnew und Erich Honecker. Die Galerie ist heute ein Mahnmal für die Teilung Deutschlands und ein Symbol für die friedliche Revolution von 1989. Sie zieht jährlich Millionen von Besuchern an, die hier Zeitgeschichte und moderne Kunst hautnah erleben können. Geschichte K8 – Kalter Krieg und die Teilung Deutschlands.",
       hu: "A(z) East Side Gallery egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a East Side Gallery ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The East Side Gallery is a 1.3-kilometer stretch of the Berlin Wall that has been transformed into the world's longest open-air gallery. Located in Friedrichshain, it stands as a powerful monument to the fall of the Wall and the peaceful resolution of the Cold War. Shortly after the border opened in 1989, 118 artists from 21 countries painted murals on this eastern section of the wall, expressing their hopes for a free and unified world. The most famous painting is the 'Fraternal Kiss' between Leonid Brezhnev and Erich Honecker. Today, the gallery is a protected landmark, reminding visitors of the division of Berlin and the irrepressible spirit of freedom that eventually brought the wall down. Geschichte K8 – The Cold War and the fall of the Berlin Wall."
     },
     factsAdvanced: {
       de: ["Längster zusammenhängender Abschnitt der Berliner Mauer (1,3 km).", "Bemalt von 118 Künstlern aus 21 verschiedenen Ländern im Jahr 1990.", "Das berühmteste Bild ist der 'Bruderkuss' von Dmitri Vrubel.", "Steht seit November 1991 unter offiziellem Denkmalschutz.", "Befindet sich im Berliner Bezirk Friedrichshain-Kreuzberg an der Mühlenstraße.", "Wurde auf der ehemaligen Rücklandmauer (Ost-Berlin zugewandt) errichtet."],
@@ -4326,7 +4326,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The longest remaining continuous section of the Berlin Wall.", "Features 101 murals painted by artists from 21 different nations.", "Home to the famous 'Brotherhood Kiss' mural by Dmitri Vrubel.", "Stretches for 1,316 meters along the Spree river.", "Declared a protected historical monument in November 1991.", "Attracts over 3 million visitors annually to Berlin-Friedrichshain."]
     },
     faq: {
       "de": [
@@ -4451,7 +4451,7 @@ export const poiExtraDe1: POI[] = [
       de: "Schloss Charlottenburg ist die prächtigste und größte Residenz der preußischen Könige in Berlin. Ursprünglich ab 1695 für Sophie Charlotte, die erste Königin von Preußen, als Sommerhaus erbaut, wurde es über Generationen hinweg zu einer weitläufigen Schlossanlage ausgebaut. Besonders beeindruckend sind der barocke Alte Flügel mit dem prunkvollen Porzellankabinett und der Neue Flügel von Friedrich dem Großen. Der angrenzende Schlosspark, eine Mischung aus französischem Barockgarten und englischem Landschaftspark, beherbergt zudem das Mausoleum der Königin Luise und das Belvedere. Das Schloss ist ein Inbegriff höfischer Pracht und preußischer Geschichte. Kunstgeschichte K7 – Barock und Rokoko in der Residenzstadt Berlin.",
       hu: "A(z) Schloss Charlottenburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Schloss Charlottenburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Charlottenburg Palace is the grandest and most beautiful royal residence in Berlin, originally built as a summer retreat for Sophie Charlotte, the first Queen of Prussia. Over the 18th and 19th centuries, it was expanded into a magnificent Baroque and Rococo complex, reflecting the rising power of the Hohenzollern dynasty. The palace is world-famous for its 'Amber Room' (the original of which was gifted to Peter the Great) and its stunning Porcelain Cabinet. The surrounding palace park is a masterpiece of landscape design, featuring a formal French garden and a vast English park with mausoleums and tea houses. Today, it remains a majestic symbol of Prussian royal history and a popular cultural venue in the heart of the city. Geschichte K8 – Prussian royalty and Baroque court life."
     },
     factsAdvanced: {
       de: ["Größte Schlossanlage der Stadt Berlin mit weiten Gartenanlagen.", "Erbaut ab 1695 als Schloss Lützenburg für Sophie Charlotte.", "Beherbergt im Neuen Flügel die bedeutendste Sammlung französischer Malerei.", "Das Porzellankabinett enthält über 2.700 chinesische und japanische Stücke.", "Die Schlosskuppel erreicht eine Gesamthöhe von ca. 48 Metern.", "Das Mausoleum im Park ist die Grabstätte bedeutender preußischer Herrscher."],
@@ -4464,7 +4464,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["The largest and most significant palace in the German capital.", "Originally commissioned in 1695 for Queen Sophie Charlotte.", "Features the magnificent 'Golden Gallery', a Rococo masterpiece.", "The palace gardens were the first of their kind in Germany.", "Houses the mausoleum of Queen Luise and King Frederick William III.", "Heavily damaged in 1943 and meticulously restored after the war."]
     },
     faq: {
       "de": [
@@ -4589,7 +4589,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Grunewald im Westen Berlins ist mit rund 3.000 Hektar das größte zusammenhängende Waldgebiet der Stadt und eine grüne Lunge von unschätzbarem Wert. Er erstreckt sich vom Bezirk Charlottenburg-Wilmersdorf bis nach Steglitz-Zehlendorf und wird im Westen von der Havel begrenzt. Markante Orientierungspunkte sind der Grunewaldturm auf dem Karlsberg und der künstliche Teufelsberg, der einst als Abhörstation der Westmächte diente. Der Wald bietet vielfältige Erholungsräume, von idyllischen Seenketten bis hin zu historischen Gebäuden wie dem Jagdschloss Grunewald, dem ältesten erhaltenen Schloss Berlins. Er ist ein wichtiger Lebensraum für Wildtiere und ein beliebtes Ziel für Wanderer und Radfahrer. Geographie K6 – Städtische Naherholungsgebiete und Waldökologie.",
       hu: "A(z) Grunewald egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Grunewald ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Grunewald is Berlin's largest and most beloved forest, a vast 3,000-hectare green lung situated on the western edge of the city. It is a diverse landscape of pine and birch woods, sand dunes, and numerous lakes, including the popular Schlachtensee. The forest is home to the 'Jagdschloss Grunewald,' Berlin's oldest preserved palace, which sits picturesquely on the shore of Lake Grunewaldsee. A more modern and somber landmark is 'Teufelsberg,' a man-made hill created from WWII rubble that served as a top-secret U.S. listening station during the Cold War. Today, the Grunewald is a haven for hikers, cyclists, and families, providing an essential escape into nature within the city limits. Földrajz K7 – Urban forests and post-war landscapes."
     },
     factsAdvanced: {
       de: ["Größtes Forstgebiet im Berliner Stadtgebiet (ca. 3.000 Hektar).", "Beherbergt das Jagdschloss Grunewald, Berlins ältestes Schloss (1542).", "Der Grunewaldturm ist 55 Meter hoch und bietet Fernsicht bis Potsdam.", "Der Teufelsberg entstand aus 26 Millionen Kubikmetern Trümmerschutt.", "Die im Westen angrenzende Havel bildet hier seenartige Ausbuchtungen.", "Wichtiges Trinkwasserschutzgebiet und Lebensraum für Wildschweine."],
@@ -4602,7 +4602,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Berlin's largest forest, covering approximately 3,000 hectares.", "Home to the Jagdschloss Grunewald, built in the year 1542.", "Includes the Teufelsberg, an 80-meter high hill made of rubble.", "Features several glacial lakes like Schlachtensee and Krumme Lanke.", "Used as a major center for Cold War intelligence gathering.", "A designated bird sanctuary and protected nature conservation area."]
     },
     faq: {
       "de": [
@@ -4727,7 +4727,7 @@ export const poiExtraDe1: POI[] = [
       de: "Die Havel prägt den Berliner Westen durch ihren fast seenartigen Charakter und ihre weiten Ausbuchtungen wie den Wannsee und den Tegeler See. Innerhalb Berlins fließt sie auf einer Länge von rund 30 Kilometern und bildet eine einzigartige Wasserlandschaft, die oft als Seenkette wahrgenommen wird. Historisch war die Havel eine lebenswichtige Wasserstraße und im Kalten Krieg ein Teil der Grenze zwischen West-Berlin und der DDR. Die Glienicker Brücke, die die Havel überquert, wurde als Ort des Agentenaustauschs weltberühmt. Heute ist der Fluss ein Paradies für Wassersportler und ein ökologisch wertvoller Raum für zahlreiche seltene Tierarten in den Schilf- und Uferzonen. Geographie K7 – Gewässersysteme und städtische Wasserwirtschaft.",
       hu: "A(z) Havel (Berlin) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Havel (Berlin) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Havel is the gentle, wide river that defines the western landscape of Berlin and Potsdam, flowing through a series of lake-like broadenings called 'Seen'. Unlike the industrious Spree, the Havel has a more park-like character, lined with royal palaces, forests, and historic villas. It is the lifeblood of the UNESCO World Heritage site of 'Palaces and Parks of Potsdam and Berlin,' connecting landmarks like Sanssouci and Peacock Island. Historically, the Havel was a key transport route and a natural defensive barrier, but today it is a premier destination for water sports and leisure. Its slow current and scenic banks make it one of Germany's most beautiful inland waterways, where nature and history flow together seamlessly. Földrajz K7 – River systems and cultural landscapes."
     },
     factsAdvanced: {
       de: ["Durchfließt Berlin auf ca. 30 km und weitet sich oft seenartig aus.", "Der Große Wannsee ist eine der bekanntesten Buchten des Flusses.", "Besitzt ein extrem geringes Gefälle von nur ca. 40 m auf 334 km Länge.", "Schauplatz des Agentenaustauschs während des Kalten Krieges (Glienicker Brücke).", "Mündet in Spandau mit der Spree zusammen, dem zweiten Berliner Hauptfluss.", "Wichtiger Lebensraum für Seeadler und Biber im Berliner Umland."],
@@ -4740,7 +4740,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["A 334-kilometer long river and a major tributary of the Elbe.", "Flows through the Wannsee, one of Berlin's most famous lakes.", "The primary waterway connecting the palaces of Potsdam and Berlin.", "Features over 20 locks and is a major European inland waterway.", "The Havel valley is a protected UNESCO World Heritage cultural site.", "Known for its extremely slow current and wide, lake-like sections."]
     },
     faq: {
       "de": [
@@ -4866,7 +4866,7 @@ export const poiExtraDe1: POI[] = [
       de: "Das Berliner Olympiastadion ist eine Sportstätte von monumentalen Ausmaßen und bewegter Geschichte. Erbaut für die Olympischen Sommerspiele 1936 nach Plänen von Werner March, diente es ursprünglich der NS-Propaganda. Heute ist es nach einer umfassenden Modernisierung für die Weltmeisterschaft 2006 ein hochmodernes Multifunktionsstadion mit rund 74.000 Plätzen. Es ist die Heimspielstätte des Fußball-Bundesligisten Hertha BSC und regelmäßiger Austragungsort des DFB-Pokalfinales sowie bedeutender Leichtathletik-Wettbewerbe. Die markante Architektur aus Naturstein und das schwebende High-Tech-Dach machen es zu einem Wahrzeichen der Moderne, das Denkmalpflege und Spitzensport perfekt vereint. Geschichte K8 – Architektur und Politik im 20. Jahrhundert.",
       hu: "A(z) Olympiastadion Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Olympiastadion Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Berlin's Olympic Stadium (Olympiastadion) is a world-class sports venue with a complex and dramatic history. Built for the 1936 Summer Olympics, it was designed by Werner March as a monument to the power of the Nazi regime, yet it became the stage for Jesse Owens' historic four gold medals. The stadium's architecture is a fusion of neoclassical grandeur and modern high-tech engineering, following a massive renovation for the 2006 FIFA World Cup. Today, it is the home of Hertha BSC and hosts the annual DFB-Pokal final, as well as major international concerts. Its striking translucent roof and the preserved 'Maifeld' make it one of the most recognizable and atmospheric stadiums in the world. Geschichte K8 – Sports and politics in the 20th century."
     },
     factsAdvanced: {
       de: ["Erbaut für die Olympischen Spiele 1936 mit über 100.000 Plätzen.", "Heutiges Fassungsvermögen beträgt genau 74.475 Zuschauer.", "Heimstadion des Traditionsvereins Hertha BSC seit 1963.", "Austragungsort des Finales der Fußball-Weltmeisterschaft 2006.", "Die Laufbahn im Stadion ist aufgrund der Farbe als 'Blaue Bahn' bekannt.", "Die Glocke im angrenzenden Glockenturm wiegt rund 9,5 Tonnen."],
@@ -4879,7 +4879,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Built for the 1936 Summer Olympics on the site of the 'Deutsches Stadion'.", "Jesse Owens won four gold medals here, defying Nazi ideology.", "Capacity of over 74,000 spectators for major football matches.", "The stadium's translucent roof weighs approximately 3,500 tons.", "A landmark of modern architecture after its 2004 renovation.", "The Marathon Gate offers a direct view of the historic Olympic bell."]
     },
     faq: {
       "de": [
@@ -5005,7 +5005,7 @@ export const poiExtraDe1: POI[] = [
       de: "Das Denkmal für die ermordeten Juden Europas, oft als Holocaust-Mahnmal bezeichnet, ist der zentrale Gedenkort für die jüdischen Opfer des Nationalsozialismus im Herzen Berlins. Entworfen vom Architekten Peter Eisenman, besteht das Mahnmal aus 2.711 grauen Betonstelen unterschiedlicher Höhe, die in einem wellenförmigen Feld angeordnet sind. Das Durchschreiten der engen, unebenen Gänge zwischen den tonnenschweren Blöcken soll ein Gefühl der Orientierungslosigkeit und Beklemmung erzeugen. Unter dem Feld befindet sich ein Ort der Information, der die Schicksale von Opfern dokumentiert. Das Mahnmal ist ein mutiges Zeichen der Auseinandersetzung mit der eigenen Geschichte und ein fester Bestandteil des Berliner Stadtbildes nahe dem Brandenburger Tor. Geschichte K8 – Erinnerungskultur und Aufarbeitung der NS-Verbrechen.",
       hu: "A(z) Holocaust-Mahnmal Berlin egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Holocaust-Mahnmal Berlin ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Memorial to the Murdered Jews of Europe, also known as the Holocaust Memorial, is a powerful and somber place of remembrance in the heart of Berlin. Designed by Peter Eisenman and opened in 2005, it consists of 2,711 gray concrete slabs (stelae) of varying heights, arranged in a grid on a sloping field. Walking through the narrow, uneven paths between the blocks, visitors often experience a sense of disorientation and isolation, designed to evoke the scale of the tragedy. Beneath the field of stelae lies the 'Information Center,' which documents the individual stories of the victims. It stands as a courageous and central commitment by the German state to remember and learn from the darkest chapter of its history. Geschichte K8 – Remembrance culture and modern history."
     },
     factsAdvanced: {
       de: ["Besteht aus insgesamt 2.711 Beton-Stelen auf einer Fläche von 19.000 m².", "Entworfen vom US-amerikanischen Architekten Peter Eisenman.", "Eröffnet im Mai 2005 nach jahrelangen öffentlichen Debatten.", "Der Ort der Information unter dem Feld verzeichnet hohe Besucherzahlen.", "Die Stelen haben eine einheitliche Grundfläche, variieren aber in der Höhe.", "Befindet sich auf dem ehemaligen 'Todesstreifen' der Berliner Mauer."],
@@ -5018,7 +5018,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Official memorial to the 6 million Jewish victims of the Holocaust.", "Consists of 2,711 concrete stelae covering 19,000 square meters.", "Designed by New York architect Peter Eisenman and opened in 2005.", "The uneven ground is intended to create a feeling of instability.", "Located just a few steps from the Brandenburg Gate and the Reichstag.", "The underground Information Center holds names of 3 million victims."]
     },
     faq: {
       "de": [
@@ -5142,7 +5142,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Kurfürstendamm, liebevoll 'Kudamm' genannt, ist der Inbegriff des mondänen West-Berlins und die berühmteste Shoppingmeile der Stadt. Ursprünglich ein Reitweg zum Jagdschloss Grunewald, wurde er Ende des 19. Jahrhunderts nach dem Vorbild der Pariser Champs-Élysées zum Prachtboulevard ausgebaut. Hier finden sich exklusive Boutiquen internationaler Luxusmarken, prächtige Gründerzeithäuser und kulturelle Wahrzeichen wie die Kaiser-Wilhelm-Gedächtniskirche am Breitscheidplatz. Der Kudamm war in den 'Goldenen Zwanzigern' das Zentrum des intellektuellen Lebens und wurde nach dem Zweiten Weltkrieg zum Schaufenster des Westens. Heute verbindet er historischen Glanz mit urbaner Dynamik und erstklassiger Gastronomie. Geographie K7 – Stadtstrukturen und Dienstleistungszentren.",
       hu: "A(z) Kurfürstendamm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kurfürstendamm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "The Kurfürstendamm, affectionately known as the 'Ku'damm,' is Berlin's most famous shopping boulevard and the vibrant heart of the city's West. Originally laid out as a bridle path for the Elector to reach his hunting lodge in Grunewald, it transformed in the late 19th century into a grand boulevard inspired by the Champs-Élysées. During the 'Golden Twenties,' it was the center of Berlin's cafe culture and nightlife. While heavily damaged in WWII, the Ku'damm became the showcase of West Berlin's economic miracle, symbolized by the iconic Kaiser Wilhelm Memorial Church. Today, it is a global destination for luxury fashion, culture, and high-end dining, reflecting the glamour and resilience of the German capital. Geschichte K8 – Urban life and the history of Berlin West."
     },
     factsAdvanced: {
       de: ["Berühmteste Shoppingmeile Berlins mit einer Länge von 3,5 Kilometern.", "Ursprünglich im 16. Jahrhundert als Reitweg der Kurfürsten angelegt.", "Wurde ab 1886 auf Initiative von Otto von Bismarck ausgebaut.", "Zentrum des kulturellen Lebens im Berlin der 1920er Jahre.", "Beherbergt das berühmte Kaufhaus des Westens (KaDeWe) in der Nähe.", "Markanter Endpunkt ist der Breitscheidplatz mit der Gedächtniskirche."],
@@ -5155,7 +5155,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Berlin's premier shopping boulevard, stretching for 3.5 kilometers.", "Founded by Otto von Bismarck as a grand representative avenue.", "Home to the KaDeWe, Europe's largest department store (nearby).", "The Kaiser Wilhelm Memorial Church stands as a symbol of peace.", "Transformed from a 16th-century bridle path for royal electors.", "A center of the 'Golden Twenties' avant-garde and theater life."]
     },
     faq: {
       "de": [
@@ -5280,7 +5280,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Große Müggelsee ist mit einer Wasserfläche von über sieben Quadratkilometern der größte See Berlins und ein Sehnsuchtsort im grünen Bezirk Köpenick. Umgeben von den Müggelbergen, den höchsten natürlichen Erhebungen der Stadt, bietet der See eine idyllische Kulisse für Wassersportler, Segler und Ausflugsgäste. Historisch ist der Müggelsee eng mit der Berliner Wasserversorgung verbunden, was das Wasserwerk Friedrichshagen am Nordufer bezeugt. Das Strandbad Müggelsee ist seit Generationen ein Kultort für Badegäste. Eine Besonderheit ist der Spreetunnel, der Fußgängern das Unterqueren des Seezuflusses ermöglicht. Der Müggelsee ist ein wertvoller Naturraum und ein Rückzugsort für Erholungssuchende im Osten der Hauptstadt. Geographie K6 – Städtische Seenlandschaften und Naherholung.",
       hu: "A(z) Müggelsee egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Müggelsee ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Lake Müggelsee is Berlin's largest lake and the centerpiece of the city's green East, often called the 'Lido of the East.' Spanning 7.4 square kilometers, it is a vast recreational area surrounded by the Müggelberge hills and the picturesque Friedrichshagen district. The lake is a primary source of Berlin's drinking water, processed at the historic Friedrichshagen Waterworks. It offers a diverse range of activities, from sailing and rowing to sunbathing at the historic 'Strandbad Müggelsee.' A unique feature is the 'Spreetunnel,' an underwater pedestrian tunnel that connects Friedrichshagen with the southern shore. For Berliners, Müggelsee is the ultimate summer escape, combining natural beauty with a relaxed, traditional atmosphere. Földrajz K7 – Urban lakes and water resource management."
     },
     factsAdvanced: {
       de: ["Größter See im Berliner Stadtgebiet mit 7,4 Quadratkilometern Fläche.", "Maximaltiefe des Sees beträgt ca. 8 Meter im Zentrum.", "Die Spree durchfließt den See als Hauptzufluss und Abfluss.", "Wichtiger Standort für das 1893 errichtete Wasserwerk Friedrichshagen.", "Der Müggelturm bietet einen weiten Blick über Berlin und Brandenburg.", "Berühmt für das Strandbad Müggelsee mit seinem kilometerlangen Uferweg."],
@@ -5293,7 +5293,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["Berlin's largest lake, covering an area of 7.4 square kilometers.", "The lake reaches a maximum depth of approximately 8 meters.", "Overlooked by the Müggelberge, Berlin's highest natural hills.", "The historic 'Spreetunnel' (1927) is a unique underwater walkway.", "Supplies roughly 15% of Berlin's drinking water today.", "Friedrichshagen is famous for its 19th-century villa architecture."]
     },
     faq: {
       "de": [
@@ -5419,7 +5419,7 @@ export const poiExtraDe1: POI[] = [
       de: "Schloss Sanssouci in Potsdam, unweit der Berliner Stadtgrenze, ist das Meisterwerk des preußischen Rokoko und ein Inbegriff friderizianischer Architektur. Erbaut zwischen 1745 und 1747 nach Skizzen Friedrichs des Großen, diente es ihm als privater Rückzugsort 'ohne Sorgen' (sans souci). Das relativ kleine, eingeschossige Schloss liegt markant auf den berühmten Weinbergterrassen. Zusammen mit dem weitläufigen Park, dem Neuen Palais und dem Orangerieschloss gehört es zum UNESCO-Weltkulturerbe. Die Verbindung von Architektur und Gartenkunst ist weltweit einzigartig und spiegelt das Ideal der Aufklärung wider. Friedrich der Große ist auf der obersten Terrasse des Schlosses in seinem Wunschgrab begraben. Geschichte K7 – Absolutismus und Aufklärung in Preußen.",
       hu: "A(z) Wannsee-Konferenz Gedenkstätte egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wannsee-Konferenz Gedenkstätte ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "",
-      en: ""
+      en: "Sanssouci Palace in Potsdam is the masterpiece of King Frederick the Great and the most famous example of Rococo architecture in Germany. Its name, meaning 'without a care,' reflects the King's desire for a private retreat away from the ceremonies of Berlin. The palace is renowned for its iconic terraced vineyard, which cascades down from the single-story building to the vast park below. Sanssouci is more than just a palace; it is a total work of art where nature and architecture are perfectly balanced. The surrounding 290-hectare park is home to other architectural gems like the New Palace and the Chinese House. It remains a powerful symbol of the Prussian Enlightenment and Frederick's personal artistic vision. Geschichte K8 – The age of Enlightenment and Frederick the Great."
     },
     factsAdvanced: {
       de: ["Erbaut von 1745 bis 1747 als privates Sommerschloss Friedrichs II.", "Markenzeichen sind die sechs Weinbergterrassen an der Südseite.", "Architekt Georg Wenzeslaus von Knobelsdorff leitete die Ausführung.", "Zentrum des Park Sanssouci mit ca. 290 Hektar Gartenfläche.", "Wurde im Jahr 1990 in die Liste des UNESCO-Welterbes aufgenommen.", "Die Innenausstattung ist ein hervorragendes Zeugnis des friderizianischen Rokoko."],
@@ -5432,7 +5432,7 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: [],
-      en: []
+      en: ["UNESCO World Heritage site and Frederick the Great's summer home.", "The palace name 'Sans Souci' means 'Without Care' in French.", "Features the iconic vineyard terraces with 168 steps.", "Completed in 1747 after just two years of construction.", "Frederick the Great is buried on the highest terrace with his dogs.", "The park covers 290 hectares and includes over 1,000 sculptures."]
     },
     faq: {
       "de": [

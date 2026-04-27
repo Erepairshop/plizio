@@ -561,8 +561,7 @@ export const portugalCulture: POI[] = [
       en: ["The chapel is located inside the Church of São Francisco.", "Its walls are decorated with thousands of bones.", "There is a powerful warning above the entrance.", "It is one of Évora's best-known sights."]
     },
     image: "/geo-images/portugal/cult-capela-ossos.webp"
-  }
-  ,
+  },
   {
     id: "hist-obidos-castle",
     type: "historical",
@@ -602,8 +601,7 @@ export const portugalCulture: POI[] = [
       en: ["The castle sits at a very high elevation.", "It long protected the border with Spain.", "You can see far into Alentejo from here.", "The fortress is very well preserved.", "Marvao is one of Portugal's most beautiful mountain villages."]
     },
     image: "/geo-images/portugal/hist-marvao-castle.webp"
-  }
-  ,
+  },
   {
     id: "hist-aljubarrota-battlefield",
     type: "historical",
@@ -663,8 +661,7 @@ export const portugalCulture: POI[] = [
       en: ["Construction began in the 18th century.", "The complex includes a palace and basilica.", "The ensemble is part of the UNESCO World Heritage.", "The library is especially famous.", "Mafra is one of Portugal's largest Baroque projects."]
     },
     image: "/geo-images/portugal/hist-mafra-national-palace.webp"
-  }
-  ,
+  },
   {
     id: "hist-conimbriga-ruins",
     type: "historical",
@@ -724,8 +721,7 @@ export const portugalCulture: POI[] = [
       en: ["The castle is a symbol of Algarve history.", "Its walls are made of red sandstone.", "Silves was once an important Moorish city.", "The castle sits above the Arade River.", "The fortress is one of southern Portugal's best-known strongholds."]
     },
     image: "/geo-images/portugal/hist-silves-castle.webp"
-  }
-  ,
+  },
   {
     id: "land-maat-lisbon",
     type: "landmark",
@@ -805,8 +801,7 @@ export const portugalCulture: POI[] = [
       en: ["The building was designed for Porto 2001.", "It is a symbol of modern architecture.", "The facade is highly geometric and distinctive.", "International concerts are held here.", "It sits in the western part of Porto."]
     },
     image: "/geo-images/portugal/land-casa-musica.webp"
-  }
-  ,
+  },
   {
     id: "land-bom-jesus-do-monte",
     type: "landmark",
@@ -886,8 +881,7 @@ export const portugalCulture: POI[] = [
       en: ["The hall is covered in azulejos.", "The station is in central Porto.", "The images depict Portuguese history.", "Sao Bento is a heavily photographed spot.", "It connects everyday travel with art."]
     },
     image: "/geo-images/portugal/land-sao-bento-station.webp"
-  }
-  ,
+  },
   {
     id: "port-sines",
     type: "port",
@@ -947,8 +941,7 @@ export const portugalCulture: POI[] = [
       en: ["The port sits on the Sado estuary.", "Fishing remains an important sector.", "Setubal links city life and the economy.", "The location is close to Lisbon.", "The port supports regional logistics."]
     },
     image: "/geo-images/portugal/port-setubal.webp"
-  }
-  ,
+  },
   {
     id: "agri-douro-vineyards",
     type: "agriculture",
@@ -1232,7 +1225,7 @@ export const portugalNature: POI[] = [
     },
     image: "/geo-images/portugal/nat-peneda-geres.webp"
   },
-  ,
+  
   {
     id: "nat-serra-da-estrela",
     type: "mountain",
@@ -1312,8 +1305,7 @@ export const portugalNature: POI[] = [
       en: ["The lake is protected.", "It is on São Miguel.", "Trails lead into the high zone.", "The landscape is volcanic.", "The spot is very popular for photos."]
     },
     image: "/geo-images/portugal/nat-lagoa-do-fogo.webp"
-  }
-  ,
+  },
   {
     id: "nat-douro-river",
     type: "river",
@@ -1636,8 +1628,7 @@ export const portugalCities: POI[] = [
       en: ["Faro has a well-preserved Moorish city wall.", "The Faro Cathedral dates back to the 13th century.", "The Ria Formosa Natural Park is a paradise for birdwatchers.", "The city has a relaxed atmosphere compared to other tourist spots.", "Faro has an international airport."]
     },
     image: "/geo-images/portugal/city-faro.webp"
-  }
-  ,
+  },
   {
     id: "city-setubal",
     type: "city",

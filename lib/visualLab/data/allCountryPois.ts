@@ -67,8 +67,6 @@ import { serbiaAllPoi } from "@/lib/visualLab/data/serbiaPoi";
 import { slovakiaAllPoi } from "@/lib/visualLab/data/slovakiaPoi";
 import { sloveniaAllPoi } from "@/lib/visualLab/data/sloveniaPoi";
 import { spainAllPoi } from "@/lib/visualLab/data/spainPoi";
-import { poiExtraSpainNatureGeschichteC2 } from "./poiExtraSpainNatureGeschichteC2";
-import { spainWirtschaftLebenAllPoi } from "./poiExtraSpainWirtschaftLebenC3";
 import { swedenAllPoi } from "@/lib/visualLab/data/swedenPoi";
 import { switzerlandAllPoi } from "@/lib/visualLab/data/switzerlandPoi";
 import { trinidadAllPoi } from "@/lib/visualLab/data/trinidadPoi";
@@ -149,8 +147,6 @@ export const ALL_COUNTRY_POIS = ([
   ...slovakiaAllPoi,
   ...sloveniaAllPoi,
   ...spainAllPoi,
-  ...poiExtraSpainNatureGeschichteC2,
-  ...spainWirtschaftLebenAllPoi,
   ...swedenAllPoi,
   ...switzerlandAllPoi,
   ...trinidadAllPoi,
